@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-07-06
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-06 | T1 | LeBron James Decision Day — Moratorium Lifts, Clock Is Ticking | X, FB, Article | FOLLOW UP |
+| 2026-07-06 | T1 | The Big Executions — Giannis, Kawhi, Brown Trades All Become Official | X, FB, Article | FOLLOW UP |
+| 2026-07-06 | T2 | Summer League Day 2 — California Classic Heats Up | X, FB, Article | FOLLOW UP |
+| 2026-07-06 | T2 | Warriors' Master Plan — Porzingis Signed, Anthony Davis Trade Pursued | X, FB, Article | NEW |
+| 2026-07-06 | T2 | Veteran Signings Go Official — Drummond to Knicks, Powell to Bulls | X, FB, Article | NEW |
+
+### STORY 1: LeBron James Decision Day — Moratorium Lifts, Clock Is Ticking
+- **Tier:** 1
+- **Category:** NBA Free Agency / LeBron James
+- **Key facts:** Moratorium lifts 12:01 PM ET July 6; LeBron officially eligible to sign; Rich Paul: "I don't think this happens anytime soon"; Warriors sign Porzingis while waiting; Warriors also pursuing Anthony Davis trade; Timberwolves made surprise pitch; Warriors and Cavs clear frontrunners
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** LeBron signs announcement; press conference; roster implications
+
+### STORY 2: The Big Executions — Giannis, Kawhi, Brown Trades All Become Official
+- **Tier:** 1
+- **Category:** NBA Offseason / Trades
+- **Key facts:** All three trades execute officially at 12:01 PM ET; Giannis+Portis→Heat (Herro+Ware+Jaquez+Jakucionis+No.13+3 firsts+swap+2nd); Kawhi→Toronto (Ingram+Dick+2 firsts+2 seconds+swap); Brown→76ers / George+picks→Celtics; Eastern Conference completely reshuffled
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Heat title odds; Kawhi health updates; Celtics George-Tatum chemistry
+
+### STORY 3: Summer League Day 2 — California Classic Heats Up
+- **Tier:** 2
+- **Category:** NBA Summer League
+- **Key facts:** Lakers 93-91 OT Heat (Cameron Carr 26 pts, Anton Watson winner); Warriors Gold 98-69 Spurs (Yaxel Lendeborg); Kings 91-85 Warriors Blue (Emanuel Sharp, Kings 2-0)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** California Classic bracket; Peterson/Boozer Day 2 SLC results
+
+### STORY 4: Warriors' Master Plan — Porzingis Signed, Anthony Davis Trade Pursued
+- **Tier:** 2
+- **Category:** NBA Free Agency / Warriors
+- **Key facts:** Kristaps Porzingis officially signed by Warriors; Davis trade pursuit requires Jimmy Butler (expiring $57M) + picks; Washington resistant (re-signed Trae Young 4yr/$212M); Warriors have 2 firsts + 4 swaps available
+- **Status:** NEW
+- **Follow-up ideas:** Davis trade resolution; Warriors roster finalized; LeBron impact
+
+### STORY 5: Veteran Signings Go Official — Drummond to Knicks, Powell to Bulls
+- **Tier:** 2
+- **Category:** NBA Free Agency / Veteran Signings
+- **Key facts:** Andre Drummond Knicks 1yr/$3.8M; Norman Powell Bulls 2yr deal; Tari Eason Rockets 5yr/$81.5M officially signed; first wave Day 1 official signings
+- **Status:** NEW
+- **Follow-up ideas:** More veteran signings Day 2-3; team roster construction impact
+
 ## 2026-07-05
 
 | Date | Tier | Story | Platforms | Status |

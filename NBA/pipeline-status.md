@@ -1,10 +1,21 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Last Run
-- **Date**: 2026-07-05
+- **Date**: 2026-07-06
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-06
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** hh-postplanner-2026-07-06.xlsx (6 posts) + hh-postplanner-tobi-2026-07-06.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-07-06/review-dashboard.html (21 items)
+- **Notes:** NBA FREE AGENCY DAY 7 — Moratorium lifts 12:01 PM ET; LeBron officially eligible to sign (Rich Paul: "not anytime soon"); Warriors sign Porzingis + pursue Anthony Davis (need Butler+picks/Washington resistant after Trae Young 4yr/$212M); Giannis→Heat, Kawhi→Toronto, Brown→76ers, George→Celtics all execute officially; Timberwolves make surprise LeBron pitch; California Classic Day 2: Lakers OT Heat 93-91 (Carr 26), Kings 2-0; Drummond Knicks 1yr/$3.8M, Powell Bulls 2yr, Eason Rockets officially signed
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-05
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

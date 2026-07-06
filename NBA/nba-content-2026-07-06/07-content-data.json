@@ -1,0 +1,255 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-06",
+  "compiled_at": "2026-07-06T11:16:08.835482+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "LeBron James Decision Day — Moratorium Lifts, Clock Is Ticking",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "TODAY IS THE DAY.\n\nThe NBA moratorium lifts at 12:01 PM ET — and LeBron James can finally sign.\n\nRich Paul: the decision won't come \"in the next few days.\"\n\nWarriors. Cavaliers. Timberwolves. The wait continues. 👑 #NBAFreeAgency",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBAFreeAgency"
+          ],
+          "char_count": 228
+        },
+        {
+          "label": "Post 1-2",
+          "text": "12:01 PM ET passed. LeBron James is officially eligible to sign.\n\nStill no announcement. Rich Paul says be patient.\n\nWarriors signed Porzingis. Cavs are waiting. Wolves made their pitch.\n\nWhere does LeBron land? #NBAFreeAgency",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBAFreeAgency"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-lebron-decision-day-moratorium-lifts.html",
+        "headline": "LeBron James Decision Day: Moratorium Lifts, But the Wait Isn't Over Yet",
+        "word_count": 599
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LeBron James Decision Day\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** `LeBron James Cleveland Cavaliers` OR `LeBron James Golden State Warriors`\n- **Usage:** X + Facebook post\n- **Notes:** Game action or portrait; no text overlay needed\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search term:** `LeBron James Los Angeles Lakers`\n- **Usage:** Article featured image\n- **Notes:** Clean portrait or game action; landscape orientation\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LeBron James Decision Day\n**Source 1 — NBA.com / ESPN:**\n- LeBron James has informed the Lakers he plans to play elsewhere in 2026-27 (confirmed)\n- The NBA moratorium lifts July 6 at 12:01 PM ET — first day any free agent can officially sign\n- LeBron (41yo) entering record-breaking 24th NBA season\n**Source 2 — Rich Paul / NBC Sports Bay Area / Yahoo Sports:**\n- Rich Paul told reporters the LeBron decision won't come \"in the next few days\"\n- \"He's heard from every team in the entire league except one or two\" — Rich Paul\n- Paul indicated patience, suggesting weeks rather than days\n**Source 3 — Bleacher Report / Stadium Rant / ibtimes.com.au:**\n- Warriors and Cavaliers remain clear frontrunners on prediction markets\n- Minnesota Timberwolves made a \"surprise pitch\" over the weekend\n- Warriors signed Kristaps Porzingis while awaiting LeBron decision (NBC Sports Bay Area)\n- Warriors building roster for max LeBron/AD scenario\n**Confidence:** HIGH (multiple independent sources on moratorium date, Rich Paul quote, LeBron informing Lakers)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "The Big Executions — Giannis, Kawhi, Brown Trades All Become Official",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "IT'S OFFICIAL — as of 12:01 PM ET today:\n\n🔥 Giannis Antetokounmpo is a Miami Heat\n🍁 Kawhi Leonard is a Toronto Raptor\n🔔 Jaylen Brown is a Philadelphia 76er\n💚 Paul George is a Boston Celtic\n\nThe NBA offseason just became real. #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-giannis-kawhi-brown-trades-officially-execute.html",
+        "headline": "It's Official: Giannis in Miami, Kawhi in Toronto, Brown in Philly — the NBA's Offseason Becomes Real",
+        "word_count": 580
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "The Big Executions — Giannis, Kawhi, Brown Trades Official\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** `Giannis Antetokounmpo Milwaukee Bucks`\n- **Usage:** X + Facebook post\n- **Notes:** Expressive action shot; dominant framing\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search term:** `Jaylen Brown Boston Celtics`\n- **Usage:** Article featured image\n- **Notes:** Portrait or celebration shot\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Giannis, Kawhi, Brown/George Trades Execute Officially\n**Source 1 — NBC Sports Bay Area / Wikipedia / Olympics.com Trade Tracker:**\n- July 6 at 12:01 PM ET: moratorium lifts, all pre-agreed trades officially execute\n- Giannis Antetokounmpo + Bobby Portis → Miami Heat\n- Milwaukee receives: Tyler Herro, Kel'el Ware, Jaime Jaquez Jr., Kasparas Jakučionis, No. 13 2026 draft pick, 2031 and 2033 first-round picks, 2030 pick swap, 2033 second-round pick\n**Source 2 — Olympics.com / CBS Sports / Yahoo Sports:**\n- Kawhi Leonard → Toronto Raptors\n- Clippers receive: Brandon Ingram, Gradey Dick, two first-round picks, two second-round picks, one pick swap\n- Kawhi at 34 returning to Toronto for second stint\n**Source 3 — Bleacher Report / CBS Sports / Blazer's Edge:**\n- Jaylen Brown (2024 Finals MVP) → Philadelphia 76ers\n- Paul George + 2028 unprotected first + 2031 unprotected first + 2028 second + 2030 second → Boston Celtics\n- All three trades execute at 12:01 PM ET on July 6\n**Confidence:** HIGH (confirmed across multiple credible sports outlets)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Summer League Day 2 — California Classic Heats Up",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "California Classic Day 2 results:\n\nLakers 93, Heat 91 (OT) — Cameron Carr 26 pts, Watson hits the winner\nWarriors Gold 98, Spurs 69 — Yaxel Lendeborg impressive\nKings 91, Warriors Blue 85 — Sacramento goes 2-0\n\nSummer League is delivering. 🏀 #NBA #SummerLeague",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA",
+            "#SummerLeague"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-summer-league-california-classic-day-2.html",
+        "headline": "California Classic Day 2: Lakers Edge Heat in OT, Kings Stay Perfect",
+        "word_count": 477
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Summer League Day 2 — California Classic\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** `Cameron Carr Los Angeles Lakers`\n- **Usage:** X + Facebook post\n- **Notes:** Game action if available; otherwise Lakers summer league generic\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search term:** `Los Angeles Lakers Sacramento Kings`\n- **Usage:** Article featured image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Summer League Day 2 — California Classic\n**Source 1 — ESPN / Bleacher Report:**\n- July 5, 2026 California Classic results (Day 2 of Summer League)\n- Los Angeles Lakers 93, Miami Heat 91 (OT) — Cameron Carr 26 points, Anton Watson game-winner\n- Golden State Warriors Gold 98, San Antonio Spurs 69 — Yaxel Lendeborg strong showing\n- Sacramento Kings 91, Golden State Warriors Blue 85 — Emanuel Sharp led comeback, Kings now 2-0\n**Source 2 — NBA.com:**\n- Salt Lake City Summer League continues Day 2 as well\n- California Classic running concurrently in Bay Area\n- 2026 draft class continues to generate buzz from Day 1 (Peterson, Boozer)\n**Confidence:** HIGH (game scores confirmed via ESPN box scores)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Warriors' Master Plan — Porzingis Signed, Anthony Davis Trade Pursued",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The @warriors aren't just waiting for LeBron.\n\nThey've signed Kristaps Porzingis. They're pursuing Anthony Davis from Washington.\n\nGolden State is building the roster FIRST — then asking LeBron to come win.\n\nSmart strategy? Or too aggressive? #NBA #Warriors",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA",
+            "#Warriors"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-warriors-porzingis-anthony-davis-pursuit.html",
+        "headline": "The Warriors' Grand Plan: Porzingis Signed, Anthony Davis Trade in Pursuit",
+        "word_count": 491
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Warriors' Master Plan — Porzingis Signed\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** `Kristaps Porzingis Boston Celtics`\n- **Usage:** X + Facebook post\n- **Notes:** Tall framing to show height\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search term:** `Stephen Curry Golden State Warriors`\n- **Usage:** Article featured image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Warriors' Master Plan — Porzingis + Anthony Davis Pursuit\n**Source 1 — NBC Sports Bay Area / Bleacher Report / ClutchPoints:**\n- Warriors signed Kristaps Porzingis (confirmed, NBC Sports Bay Area free agency recap)\n- Warriors simultaneously pursuing Anthony Davis trade from Washington Wizards\n- Davis trade package would need to include Jimmy Butler (expiring $57M contract) + draft capital\n- Warriors have two future firsts and four first-round swaps available\n**Source 2 — CBS Sports / Bleacher Report:**\n- Washington Wizards re-signed Trae Young (4yr/$212M) and signaled intent to keep Davis\n- Davis trade to Warriors faces significant hurdles\n- Warriors' primary goal remains signing LeBron James first, then pursuing Davis\n**Confidence:** MEDIUM (Porzingis signing confirmed, Davis pursuit confirmed but Washington resistance noted)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Veteran Signings Go Official — Drummond to Knicks, Powell to Bulls",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "NBA free agency Day 1 official signings are in:\n\nAndre Drummond → Knicks (1yr/$3.8M)\nNorman Powell → Bulls (2yr deal)\nTari Eason → Rockets (5yr/$81.5M officially signed)\n\nThe league is being remade, one contract at a time. #NBA #NBAFreeAgency",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA",
+            "#NBAFreeAgency"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-veteran-signings-drummond-powell-official.html",
+        "headline": "Day 1 Official: Drummond Joins Knicks, Powell Signs with Bulls, Eason Rockets Deal Finalized",
+        "word_count": 531
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Veteran Signings Official\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** `Andre Drummond Cleveland Cavaliers`\n- **Usage:** X + Facebook post\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search term:** `Norman Powell Los Angeles Clippers`\n- **Usage:** Article featured image"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Veteran Free Agency Day 1 — Official Signings\n**Source 1 — Blazer's Edge / CBS Sports / Spotrac:**\n- Andre Drummond signs Knicks 1yr/$3.8M–$3.9M (figures vary slightly by source)\n- Norman Powell signs Chicago Bulls 2-year deal\n- James Harden reportedly negotiating with Cleveland Cavaliers (from 07-05 notes)\n**Source 2 — Multiple outlets:**\n- July 6 is Day 1 of official contract signings (moratorium lifts 12:01 PM ET)\n- Dozens of agreed-upon deals officially become binding starting today\n- Tari Eason's 5yr/$81.5M Rockets deal also officially executes today\n**Confidence:** MEDIUM (Drummond Knicks, Powell Bulls confirmed; exact Drummond dollar figure varies $3.8M vs $3.9M — use $3.8M per Blazer's Edge/CBS)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
