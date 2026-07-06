@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-07-06
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-06 | T1 | Leclerc Wins Chaotic British Grand Prix — Ferrari 1-3 at Silverstone | X, FB, Article | NEW |
+| 2026-07-06 | T1 | Antonelli's Title Lead Cut to 25 Points — Championship Standings Tighten | X, FB, Article | FOLLOW UP |
+| 2026-07-06 | T2 | Verstappen "Fed Up" with Red Bull After Another Dangerous Crash | X, FB, Article | FOLLOW UP |
+| 2026-07-06 | T2 | Belgian Grand Prix Preview — Spa Awaits After Summer Shock at Silverstone | X, FB, Article | NEW |
+| 2026-07-06 | T2 | Ferrari's Silverstone Statement — Leclerc Win + Hamilton Third | X, FB, Article | NEW |
+
+### STORY 1: Leclerc Wins British Grand Prix — Ferrari 1-3 at Silverstone
+- **Tier:** 1
+- **Category:** Race Report / British GP
+- **Key facts:** Leclerc 1st (9th career win, 1st at Silverstone); Russell 2nd; Hamilton 3rd (reprimand not penalty for yellow flag); Antonelli wheel shield failure → demoted to P16 after 5s penalty for track limits; Verstappen crash Lap 48 Stowe (rear wing) → Safety Car; race finished under SC; top 10: Leclerc, Russell, Hamilton, Norris, Hadjar, Lawson, Lindblad, Bortoleto, Colapinto, Gasly
+- **Status:** NEW
+- **Follow-up ideas:** Belgian GP build-up; Antonelli recovery story
+
+### STORY 2: Championship Standings — Antonelli Lead Cut to 25 Points
+- **Tier:** 1
+- **Category:** Championship / Drivers' Standings
+- **Key facts:** Antonelli 179pts, Russell 154pts, Hamilton 147pts, Leclerc 108pts; Antonelli lead was 66pts after Monaco (June 7), now 25; 2 retirements in 3 races since Monaco; Russell 3 consecutive podiums; Belgium July 17-19
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Belgian GP title implications; Antonelli response
+
+### STORY 3: Verstappen "Fed Up" with Red Bull After Crash
+- **Tier:** 2
+- **Category:** Driver News / Red Bull
+- **Key facts:** Crashed Lap 48 Stowe — same rear wing DRS fault as Austrian GP qualifying; "fed up" quote; "don't want anything to do with it for a while" (re: management conversation before Belgium); describes RB22 problems as systemic (power unit, chassis, rear wing)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Red Bull technical fix before Belgium; Verstappen contract speculation
+
+### STORY 4: Belgian Grand Prix Preview
+- **Tier:** 2
+- **Category:** Race Preview / Belgian GP
+- **Key facts:** Belgian GP July 17-19 at Spa-Francorchamps; two-week break; Antonelli must rebound; Russell on form; Verstappen needs rear wing fix; Ferrari on momentum
+- **Status:** NEW
+- **Follow-up ideas:** Belgian GP practice/qualifying reports
+
+### STORY 5: Ferrari's Silverstone Statement
+- **Tier:** 2
+- **Category:** Team Analysis / Ferrari
+- **Key facts:** Ferrari 1-3 British GP; +22 points on Mercedes in constructors'; Leclerc 1st win at Silverstone; Hamilton first Ferrari podium at British GP; both passed Antonelli at start; clean race execution
+- **Status:** NEW
+- **Follow-up ideas:** Ferrari constructors' fight trajectory; Belgium pace expectations
+
 ## 2026-07-05
 
 | Date | Tier | Story | Platforms | Status |

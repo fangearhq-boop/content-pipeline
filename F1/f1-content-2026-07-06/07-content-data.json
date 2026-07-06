@@ -1,0 +1,259 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-06",
+  "compiled_at": "2026-07-06T11:22:22.000013+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Leclerc Wins Chaotic British Grand Prix — Ferrari 1-3 at Silverstone",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "LECLERC WINS THE BRITISH GRAND PRIX 🏁\n\nFerrari 1-3 at Silverstone: Leclerc P1, Russell P2, Hamilton P3.\n\nAntonelli: mechanical failure → demoted to P16.\nVerstappen: crashed at Stowe → Safety Car.\n\nThe championship is ALIVE. #F1 #BritishGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BritishGP"
+          ],
+          "char_count": 238
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The full British GP story:\n\nAntonelli ran on pole, looked like a winner with fresh tyres — then his front-left wheel shield failed. Twice into the pits. P16 at the end.\n\nLeclerc, who passed him at the start, never looked back. 9th career win. First at Silverstone. #F1 #BritishGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BritishGP"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-leclerc-wins-british-grand-prix.html",
+        "headline": "Leclerc Wins Chaotic British Grand Prix as Antonelli Fails and Verstappen Crashes",
+        "word_count": 595
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Leclerc Wins British Grand Prix\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** `Charles Leclerc Ferrari`\n- **Usage:** X + Facebook post\n- **Notes:** Victory celebration or race action; expressive shot\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search term:** `Charles Leclerc Ferrari Silverstone`\n- **Usage:** Article featured image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Leclerc Wins British Grand Prix — Ferrari 1-3\n**Source 1 — Formula1.com official race report:**\n- Charles Leclerc wins British Grand Prix from George Russell and Lewis Hamilton\n- Antonelli suffered front-left wheel shield failure → twice into pits → finished 9th on road\n- Antonelli demoted to 16th after 5-second penalty for track limits violations\n- Verstappen crash Lap 48 at Stowe (rear wing fault) → Safety Car\n- Race finished under Safety Car\n**Source 2 — Sky Sports / Planet F1:**\n- Full top 10: Leclerc, Russell, Hamilton, Norris, Hadjar, Lawson, Lindblad, Bortoleto, Colapinto, Gasly\n- Hamilton received reprimand (not penalty) for yellow flag infringement → kept P3\n- Leclerc's 9th career win, first at Silverstone\n- Ferrari 1-3 result\n**Source 3 — ESPN / The Race:**\n- Antonelli started on pole (from sprint weekend)\n- Both Ferraris passed Antonelli at the start\n- Antonelli was closing on Leclerc with fresher tyres before wheel shield failure\n- \"Bizarre\" mechanical issue for championship leader\n**Confidence:** HIGH (race result confirmed across multiple F1 official/major outlets)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Antonelli's Title Lead Cut to 25 Points — Championship Standings Tighten",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "#F1 championship after the British GP:\n\n🥇 Antonelli — 179 pts\n🥈 Russell — 154 pts (-25)\n🥉 Hamilton — 147 pts (-32)\n4️⃣ Leclerc — 108 pts\n\nAntonelli had a 66-point lead after Monaco. It's now 25. Russell is coming. #BritishGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BritishGP"
+          ],
+          "char_count": 224
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-championship-standings-antonelli-25-point-lead.html",
+        "headline": "From 66 to 25: How Antonelli's Championship Lead Has Collapsed Since Monaco",
+        "word_count": 457
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Championship Standings — Antonelli Lead Cut\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** `Kimi Antonelli Mercedes`\n- **Usage:** X + Facebook post\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search term:** `George Russell Mercedes`\n- **Usage:** Article featured image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Championship Standings — Antonelli Lead Cut to 25 Points\n**Source 1 — RacingNews365 / Crash.net:**\n- Antonelli: 179 points\n- Russell: 154 points (gap: 25 points)\n- Hamilton: 147 points (gap from leader: 32 points)\n- Leclerc: 108 points (overtook Norris to 4th)\n**Source 2 — Racing News365 / The Race:**\n- Antonelli had built 66-point lead after Monaco GP (5th consecutive win)\n- \"Two retirements in three races\" — Antonelli form has collapsed from Monaco peak\n- Russell closed from 66 points down to 25 points since Monaco\n- Belgian GP next: July 17-19 at Spa-Francorchamps\n**Confidence:** HIGH (points from multiple verified standings sources post-race)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Verstappen \"Fed Up\" with Red Bull After Another Dangerous Crash",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Max Verstappen after crashing at Silverstone due to rear wing failure — again:\n\n\"I was lucky in Austria, I was lucky here, but that's why you get really fed up with it.\"\n\nRed Bull has a dangerous car. The reigning champion is running out of patience. #F1 #RedBull",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#RedBull"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-verstappen-fed-up-red-bull-crash.html",
+        "headline": "Verstappen \"Fed Up\" After Second Rear Wing Crash in a Week: \"I Don't Want Anything to Do with It for a While\"",
+        "word_count": 528
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Red Bull Frustration\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** `Max Verstappen Red Bull Racing`\n- **Usage:** X + Facebook post\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search term:** `Max Verstappen Red Bull Racing`\n- **Usage:** Article featured image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen \"Fed Up\" with Red Bull\n**Source 1 — Sky Sports / Motorsport.com / PlanetF1:**\n- Verstappen crashed at Stowe on Lap 48 — rear wing not fully closing after opening\n- Same issue as Austrian GP qualifying crash \"last Saturday\" (per Sky)\n- Verstappen quote: \"I was lucky in Austria, I was lucky here, but that's why you get really fed up with it\"\n- Said Red Bull dealing with \"far too many problems in 2026\" — power unit, chassis, rear wing\n- Verstappen: \"I don't want anything to do with it for a while\" (when asked about conversation with management before Belgium)\n**Source 2 — Motorsport.com:**\n- Verstappen describing the Austrian and British crashes as similar incidents (rear wing DRS not closing)\n- Calls it a \"dangerous\" situation\n**Confidence:** HIGH (multiple direct quotes confirmed across Sky Sports, Motorsport.com)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Belgian Grand Prix Preview — Spa Awaits After Summer Shock at Silverstone",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The drama at Silverstone is done. Now the calendar turns to Spa.\n\nBelgian Grand Prix: July 17-19 at Spa-Francorchamps.\n\nAntonelli needs a rebound. Leclerc needs to capitalise on momentum. Verstappen needs a safe car.\n\nTwo weeks until it all continues. #F1 #BelgianGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BelgianGP"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-belgian-gp-preview-spa.html",
+        "headline": "Belgian Grand Prix Preview: What Every Contender Needs from Spa After Silverstone's Chaos",
+        "word_count": 547
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Belgian Grand Prix Preview\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** `Formula 1 Spa Francorchamps`\n- **Usage:** X + Facebook post\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search term:** `Formula 1 Belgian Grand Prix`\n- **Usage:** Article featured image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Belgian Grand Prix Preview\n**Source 1 — F1 Official Calendar / Sky Sports:**\n- Belgian Grand Prix: July 17-19 at Spa-Francorchamps\n- Two-week break before Belgium (weekend off from British GP July 5)\n- Next round of the 2026 championship season\n**Source 2 — Context from race results:**\n- Ferrari will arrive in Belgium on momentum (Leclerc win + Hamilton podium)\n- Antonelli needs to arrest title lead decline (was 66pts, now 25pts)\n- Russell has closed 41 points in three races since Monaco\n- Verstappen's future Red Bull issues will be focus of off-week conversation\n**Confidence:** MEDIUM-HIGH (dates from official calendar, context inferred from race result trends)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Ferrari's Silverstone Statement — Leclerc Win + Hamilton Third Puts Pressure on Mercedes",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Charles Leclerc won the British Grand Prix.\nLewis Hamilton finished on the podium at his home race as a Ferrari driver.\n\nFerrari 1-3 at Silverstone. +22 points on Mercedes in the constructors' fight.\n\nThat's a statement. 🔴 #Ferrari #F1 #BritishGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Ferrari",
+            "#F1",
+            "#BritishGP"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-ferrari-silverstone-statement-leclerc-hamilton.html",
+        "headline": "Ferrari's Silverstone Statement: What the 1-3 Result Means for the Rest of 2026",
+        "word_count": 521
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ferrari Silverstone Statement\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** `Lewis Hamilton Ferrari`\n- **Usage:** X + Facebook post\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search term:** `Charles Leclerc Lewis Hamilton Ferrari`\n- **Usage:** Article featured image"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Ferrari's Silverstone Statement\n**Source 1 — Multiple outlets:**\n- Ferrari gains 22 points on Mercedes in constructors' standings after 1-3 result\n- Leclerc first win at Silverstone (9th career win total)\n- Hamilton's first podium at Ferrari — his home race (British)\n- Ferrari's car strength shown by passing Antonelli at start and holding off throughout\n**Source 2 — ESPN / BeIN Sports:**\n- Hamilton received reprimand not penalty for yellow flag infringement\n- Hamilton kept third place after stewards' review\n- Both Ferrari drivers on podium in front of packed Silverstone crowd\n**Confidence:** HIGH (multiple sources confirm Ferrari 1-3, Hamilton reprimand, points gap to Mercedes)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
