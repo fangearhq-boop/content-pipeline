@@ -1,42 +1,9 @@
 {
-  "generated_at": "2026-07-05T08:30:01.490308+00:00",
-  "today_ct": "2026-07-05",
-  "off_day": false,
+  "generated_at": "2026-07-06T08:30:01.524974+00:00",
+  "today_ct": "2026-07-06",
+  "off_day": true,
   "is_series_start_today": false,
-  "series": {
-    "opponent": "St. Louis Cardinals",
-    "opponent_id": 138,
-    "opponent_record": "47-39",
-    "cubs_record": "49-40",
-    "is_cubs_home": true,
-    "venue": "Wrigley Field",
-    "series_length": 1,
-    "games": [
-      {
-        "game_pk": "824656",
-        "game_date_iso": "2026-07-05T18:30:00Z",
-        "game_date_ct": "Sun 1:30 PM CT",
-        "cubs_probable": "TBD",
-        "opponent_probable": "TBD",
-        "status": "Preview"
-      }
-    ],
-    "rationale": "Same opponent (St. Louis Cardinals) as yesterday \u2014 this is mid-series, not a series opener."
-  },
-  "today_cubs_game": {
-    "game_pk": "824656",
-    "status": "Preview",
-    "detailed_status": "Scheduled",
-    "game_date_iso": "2026-07-05T18:30:00Z",
-    "game_date_ct": "Sun 1:30 PM CT",
-    "is_cubs_home": true,
-    "opponent_id": 138,
-    "opponent_name": "St. Louis Cardinals",
-    "opponent_record": "47-39",
-    "cubs_record": "49-40",
-    "cubs_probable": "TBD",
-    "opponent_probable": "TBD",
-    "venue": "Wrigley Field"
-  },
-  "rationale": "Same opponent (St. Louis Cardinals) as yesterday \u2014 this is mid-series, not a series opener."
+  "series": null,
+  "today_cubs_game": null,
+  "rationale": "No upcoming Cubs game on today's CT calendar date."
 }
