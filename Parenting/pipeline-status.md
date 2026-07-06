@@ -1,6 +1,45 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: July 5, 2026
+## Latest Run: July 6, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | CreateOn Pip-Cubes recall (cpsc.gov/abcnews.com/GMA/foodpoisoningbulletin.com — Crayola-branded magnetic building blocks; Bold Colors + Glitter 24-piece Michaels ~$20; 27-piece Amazon ~$35; May–July 2025; seams split → high-powered magnets; intestinal perforation/death if 2+ swallowed; 0 injuries; free replacement; 800-333-0549; pipcuberecall@CreateOn.com; createon.com/recall); Zippee silicone toy recall (cpsc.gov/mother.ly/wpri.com — Mobi Games; ~117,500 U.S. units + 25,786 Canada; teal cylinder 6 pull-string loops with ball ends; Nov 2019–Jan 2024 Amazon/PlayMobi.com/specialty stores ~$20; ball ends reach back of throat; 1 incident gagged/vomited; date code inside cylinder MMDDYY 030620–110823; full refund playmobi.com/pages/product-recall); El Paso County Fair (elpasocountyfair.com/visitcos.com — 120th annual; July 11–18 Calhan CO ~30 min east on Hwy 24; $1 general admission; $69 Adult Golden Ticket all days + all evening events; $2 off first responders/educators/health workers + dependents; $2 off with non-perishable food donation; carnival rides/live music/games/corn hole/rodeo/demolition derby); Pikes Peak or Bust Rodeo (pikespeakorbust.org/visitcos.com/fox21news.com — NFR Open; July 14–18 Norris Penrose Event Center; military families since 1946; nightly 7:30 PM + matinees July 17–18 12:30 PM; Mutton Bustin' ages 4–9 50 lbs $20/try helmets+vests+waiver; petting zoo/pony rides/face painting/goat roping; free 14-min drone show July 16 America's 250th + Colorado's 150th; PikesPeakorBust.org/NorrisPenrose.com); Backpack Bash 2026 (koaa.com/kkfm.com/eventbrite.com — Mercy's Gate + COSILoveYou + 70+ partners; 12,000 backpacks; July 25 Sand Creek HS East 9 AM–noon; July 25 PPUW Family Success Center 1520 Verde Drive SE 9 AM–noon; Aug 1 Central TBD 9 AM–noon; student must be present; no registration; cosbackpackbash.com) |
+| Story History Check | COMPLETE | All 5 stories NEW; confirmed against story-history.md; no overlaps with prior coverage (Cosyland covered July 2; Bellabu Bear covered June 6; Vevor Baby Swings covered July 1; Target Gigglescape covered July 4; back-to-school supply lists covered July 5; Parks Rec Month covered July 5) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2); ### STORY N: format |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH confidence tags; all facts from web search |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 8 posts (2 for S1, 2 for S2, 2 for S3, 1 for S4, 1 for S5); all under 280 chars; 4 hashtags each; COS voice rules; 0 exclamation marks; fixed S1 Tweet A (292→270 chars), S3 Tweet B (281→280 chars) |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; NO hashtags; COS voice rules; contractions throughout |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 8 Gemini base_only prompts (2 per Tier 1 story × 3, 1 per Tier 2 story × 2; 1200x675 social + 1200x630 article hero for Tier 1); clean bottom third; no celebrity likenesses; no brand logos |
+| Image Manifest | COMPLETE | 07-image-manifest.md — table format; 8 images across 5 stories; all not_started; photo_source: gemini; model: gemini-2.5-flash-image |
+| Articles | COMPLETE | 5 articles (500–750 words; Quick Reference tables in S1, S2, S3, S4, S5; What's Next sections; 0 exclamation marks; no figure tags; no photo credits; semantic HTML5); bylines: Sarah Morales (A1, A3, A5), Jamie Rivera (A2, A4) |
+| Fact-Check | COMPLETE | verify-facts.py passed; 60 claims; HIGH: 125, MEDIUM: 6, LOW: 30; all 5 stories present in all content files; image manifest warnings cosmetic (expected for gemini source — same as all prior Parenting runs) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 0 FB posts (parser compatibility), 5 articles, 5 images; 23 dashboard items |
+| Dashboard | COMPLETE | review-dashboard.html — 23 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-07-06.xlsx (18 posts, 13:12–21:25 MT) + TOBI cosp-postplanner-tobi-2026-07-06.xlsx (13 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-07-06)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 5 FB long-form + 5 FB captions = 18 total posts (PostPlanner xlsx: 18 posts standard, 13 TOBI)
+- **Articles:** 5 (bylines: Sarah Morales x3 [A1, A3, A5], Jamie Rivera x2 [A2, A4])
+- **PostPlanner exports:** cosp-postplanner-2026-07-06.xlsx (18 posts, 13:12–21:25 MT), cosp-postplanner-tobi-2026-07-06.xlsx (13 TOBI posts)
+- **Coverage:** CreateOn Pip-Cubes (Crayola-branded) recall (Bold Colors + Glitter 24-piece Michaels ~$20; 27-piece Amazon ~$35; May–July 2025; seams split → high-powered magnets released; intestinal perforation/death if 2+ swallowed; 0 injuries; free replacement via prepaid return; 800-333-0549 Mon–Fri 9:30 AM–4 PM CT; pipcuberecall@CreateOn.com; createon.com/recall; cpsc.gov); Zippee silicone toy recall (Mobi Games; ~117,500 U.S. units; teal cylinder 6 pull-string loops ball ends; Nov 2019–Jan 2024 Amazon/PlayMobi.com/specialty ~$20; ball ends reach back of throat; 1 incident gagged/vomited; MMDDYY date code inside cylinder 030620–110823; full refund playmobi.com/pages/product-recall; cpsc.gov); El Paso County Fair 2026 (120th annual; July 11–18 Calhan CO ~30 min east on Hwy 24; $1 general admission; $69 Golden Ticket all days + all evening events; $2 off first responders/educators/health workers+dependents; $2 off non-perishable food donation; carnival rides/live music/games/corn hole/rodeo/demolition derby; elpasocountyfair.com); Pikes Peak or Bust Rodeo 2026 (NFR Open; July 14–18 Norris Penrose; military families since 1946; nightly 7:30 PM + matinees July 17–18 12:30 PM; Mutton Bustin' ages 4–9 50 lbs $20/try helmets+vests+signed waiver; petting zoo/pony rides/face painting/goat roping; free 14-min drone show July 16 America's 250th + Colorado's 150th; PikesPeakorBust.org/NorrisPenrose.com); Backpack Bash 2026 (Mercy's Gate + COSILoveYou + 70+ partners; 12,000 backpacks; July 25 Sand Creek HS East + PPUW Family Success Center 1520 Verde Drive SE both 9 AM–noon; Aug 1 Central TBD 9 AM–noon; student must be present; no registration; cosbackpackbash.com; koaa.com/kkfm.com)
+- **Notes:**
+  - Ran as Niche 2 in sequence after Tennis niche (session resumed from context compaction; Tennis niche completed in prior session segment)
+  - X posts: S1 Tweet A at 292 chars — fixed by rewriting to remove parenthetical ("Crayola-branded magnetic building blocks" → more concise phrasing) → 270 chars; S3 Tweet B at 281 chars — fixed by changing "health care workers" to "healthcare workers" → 280 chars
+  - verify-facts.py: all 5 stories present in all content files; image manifest warnings cosmetic (expected for gemini source — same as all prior Parenting runs)
+  - Compile: 8 X posts, 0 FB posts (parser compatibility — same as all prior runs); 23 dashboard items; posting window warnings cosmetic
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4] (rotating from July 5's Jamie Rivera [S1, S3, S5])
+
+---
+
+## Prior Run: July 5, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|

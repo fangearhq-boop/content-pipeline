@@ -2,6 +2,45 @@
 
 ---
 
+## July 6, 2026
+
+### Story 1: CPSC Recall — CreateOn Pip-Cubes (Crayola-Branded) Magnetic Building Blocks
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CreateOn has recalled Crayola-branded Pip-Cubes magnetic building blocks (Bold Colors and Glitter varieties; 24-piece sets at Michaels/Michaels.com ~$20; 27-piece sets Amazon ~$35; sold May–July 2025). Seams can separate and release high-powered magnets. Two or more swallowed magnets can attract across intestinal walls causing perforation, blockage, blood poisoning, and death. No injuries reported. Remedy: return via prepaid label, receive free replacement. Contact: 800-333-0549, pipcuberecall@CreateOn.com, createon.com/recall. Sources: cpsc.gov, abcnews.com/GMA, foodpoisoningbulletin.com.
+- **Content Produced:** Article (Sarah Morales), 2 X Text Posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Bold Colors + Glitter 24-piece at Michaels ~$20; 27-piece Amazon ~$35; May–July 2025; seams split → high-powered magnets released; intestinal perforation/blockage/blood poisoning/death if 2+ swallowed; 0 injuries; free replacement via prepaid return; 800-333-0549 Mon–Fri 9:30 AM–4 PM CT; pipcuberecall@CreateOn.com; createon.com/recall
+
+### Story 2: CPSC Recall — Zippee Silicone Activity Toys (Mobi Games) — Choking Hazard, 117,500 Units
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — Mobi Games has recalled ~117,500 Zippee teal silicone cylinder toys (six pull-string loops with spherical ball ends) due to serious choking hazard. Ball ends can reach back of child's throat. One incident: child gagged and vomited. Also 25,786 units recalled in Canada. Sold Amazon/PlayMobi.com/specialty toy stores November 2019–January 2024, ~$20. Check date code inside cylinder (MMDDYY format, 030620–110823). Remedy: full refund via playmobi.com/pages/product-recall. Sources: cpsc.gov, mother.ly, wpri.com.
+- **Content Produced:** Article (Jamie Rivera), 2 X Text Posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** ~117,500 units U.S.; Mobi Games; Amazon/PlayMobi.com/specialty stores; Nov 2019–Jan 2024; ~$20; teal silicone cylinder with 6 pull-string loops; ball ends reach back of throat; 1 incident (gagged/vomited); date code inside cylinder MMDDYY 030620–110823; full refund; playmobi.com/pages/product-recall
+
+### Story 3: El Paso County Fair Turns 120 — July 11–18 in Calhan, $1 Admission
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — 120th Annual El Paso County Fair, July 11–18, 2026, Calhan CO (~30 min east of COS on Highway 24). General admission $1 at the gate. Adult Golden Ticket $69 covers all days + all evening entertainment (rodeo, demolition derby, auto races, arena concert). Discounts: $2 off for first responders, educators, doctors, nurses, police, firefighters, EMTs and their dependents; bring non-perishable food donation for $2 off. Family activities: carnival rides, live music, games, corn hole, food, rodeo, demolition derby. Sources: elpasocountyfair.com, visitcos.com.
+- **Content Produced:** Article (Sarah Morales), 2 X Text Posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** 120th annual; July 11–18, 2026; Calhan CO; ~30 min east on Hwy 24; $1 general admission; $69 Adult Golden Ticket (all days + all evening events); $2 off first responders/educators/health workers/dependents; $2 off with non-perishable food donation; elpasocountyfair.com
+
+### Story 4: Pikes Peak or Bust Rodeo Returns July 14–18 — Mutton Bustin', Free Drone Show
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — NFR Open Pikes Peak or Bust Rodeo, July 14–18, Norris Penrose Event Center. Supporting military families since 1946. Evening performances nightly 7:30 PM (gates 4 PM); matinees July 17–18 at 12:30 PM (gates 10 AM). Mutton Bustin': ages 4–9, 50 lbs or under, $20/try, helmets + vests provided, bring signed waiver. Also: petting zoo, pony rides, face painting, goat roping. Free 14-min drone show July 16 evening (America's 250th + Colorado's 150th). Tickets: PikesPeakorBust.org and NorrisPenrose.com. Sources: pikespeakorbust.org, visitcos.com, fox21news.com.
+- **Content Produced:** Article (Jamie Rivera), 1 X Text Post, Facebook Long-Form + Caption, Image Concept (x1)
+- **Tier:** 2
+- **Key Facts:** July 14–18; Norris Penrose Event Center; nightly 7:30 PM + matinees July 17–18 12:30 PM; Mutton Bustin' ages 4–9 50 lbs/$20/helmets+vests/waiver; petting zoo/pony rides/face painting/goat roping; free 14-min drone show July 16; PikesPeakorBust.org; NorrisPenrose.com
+
+### Story 5: Backpack Bash 2026 — 12,000 Free Backpacks for El Paso County Students
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Annual Backpack Bash by Mercy's Gate + COSILoveYou + 70+ local partners; 12,000 free backpacks + school supplies for El Paso County students. 2026: July 25 Sand Creek High School East (9 AM–noon) + July 25 PPUW Family Success Center 1520 Verde Drive SE (9 AM–noon) + August 1 Central TBD (9 AM–noon). Student must be present; distributed while supplies last; no registration. Sources: koaa.com, kkfm.com, eventbrite.com.
+- **Content Produced:** Article (Sarah Morales), 1 X Text Post, Facebook Long-Form + Caption, Image Concept (x1)
+- **Tier:** 2
+- **Key Facts:** 12,000 backpacks; Mercy's Gate + COSILoveYou + 70+ partners; July 25 Sand Creek HS (East) 9 AM–noon; July 25 PPUW Family Success Center 1520 Verde Drive (SE) 9 AM–noon; August 1 Central TBD 9 AM–noon; student must be present; no registration; cosbackpackbash.com
+
+---
+
 ## July 5, 2026
 
 ### Story 1: Wildfire Smoke Is Reaching Colorado Springs — Here's What Families Need to Do Right Now
