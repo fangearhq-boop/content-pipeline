@@ -1,0 +1,271 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-06",
+  "compiled_at": "2026-07-06T12:22:06.118686+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Djokovic Breaks Federer's Record — 106 Wimbledon Wins, Into QF",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Novak Djokovic def. Safiullin to win his 106th Wimbledon match — sole all-time record, passing Federer's 105. At 39, he called it \"ugly\" but got it done. Into the quarterfinals. #Wimbledon #Djokovic #Tennis #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon",
+            "#Djokovic",
+            "#Tennis",
+            "#TennisFanrecap"
+          ],
+          "char_count": 222
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Djokovic on win No. 106 at Wimbledon: \"A win is a win, even if you win ugly.\" 39 years old. 17th Wimbledon quarterfinal. The man is relentless. Next: FAA in the QF. #Wimbledon #Djokovic #Tennis #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon",
+            "#Djokovic",
+            "#Tennis",
+            "#TennisFanrecap"
+          ],
+          "char_count": 209
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-djokovic-106-wimbledon-record-federer.html",
+        "headline": "Djokovic Makes History With 106th Wimbledon Win, Surpassing Federer's All-Time Record",
+        "word_count": 643
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Djokovic Breaks Federer's Record\n\n**Image Concept 1A** (Social — 1080x1350)\n- **Type:** imagn\n- **Search terms:** Novak Djokovic\n- **Intended use:** X Tweet A + FB Image Caption (record-breaking celebration)\n- **Art direction:** Djokovic celebrating on Wimbledon grass, arms raised or fist pump, Centre Court visible; clean crop for 4:5 vertical\n- **Credit:** (USA TODAY Sports Images)\n- **Status:** not_started\n\n**Image Concept 1B** (Article Hero — 1200x630)\n- **Type:** imagn\n- **Search terms:** Novak Djokovic\n- **Intended use:** Article hero image\n- **Art direction:** Djokovic in action or mid-celebration on Wimbledon grass, landscape crop 1.91:1\n- **Credit:** (USA TODAY Sports Images)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Osaka Stuns World No. 1 Sabalenka 6-2, 7-6(2) — First Wimbledon Quarterfinal",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Naomi Osaka 6-2, 7-6(2) over No. 1 Sabalenka. First Wimbledon quarterfinal of her career. First win over Sabalenka in 8 years. She also ended Sabalenka's 21-match Grand Slam tiebreak winning streak. Osaka is ON GRASS. #Wimbledon #Osaka #Tennis #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon",
+            "#Osaka",
+            "#Tennis",
+            "#TennisFanrecap"
+          ],
+          "char_count": 259
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Osaka is 8-1 on grass in 2026. She was 0-13 vs top-10 players on non-hard courts coming in. Yesterday she beat the world No. 1 in straight sets at Wimbledon. What a run. #Wimbledon #Osaka #WTA #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon",
+            "#Osaka",
+            "#WTA",
+            "#TennisFanrecap"
+          ],
+          "char_count": 208
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-osaka-stuns-sabalenka-wimbledon-quarterfinal.html",
+        "headline": "Osaka Overpowers Sabalenka 6-2, 7-6(2) to Reach First Career Wimbledon Quarterfinal",
+        "word_count": 616
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Osaka Stuns Sabalenka\n\n**Image Concept 2A** (Social — 1080x1350)\n- **Type:** imagn\n- **Search terms:** Naomi Osaka\n- **Intended use:** X Tweet A + FB Image Caption (first Wimbledon QF)\n- **Art direction:** Osaka celebrating on grass, arms wide, Wimbledon crowd background; vertical crop\n- **Credit:** (USA TODAY Sports Images)\n- **Status:** not_started\n\n**Image Concept 2B** (Article Hero — 1200x630)\n- **Type:** imagn\n- **Search terms:** Naomi Osaka\n- **Intended use:** Article hero image\n- **Art direction:** Osaka in powerful mid-match stance or celebrating win, landscape crop\n- **Credit:** (USA TODAY Sports Images)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Day 8 Round-Up: Zverev and Dimitrov Advance; Struff Makes History at 36",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Day 8 at Wimbledon: Zverev into QF. Dimitrov advances. And from Day 7 — Jan-Lennard Struff, age 36, reached his FIRST career Grand Slam quarterfinal on his 47th attempt. Hurkacz retired with a back injury. #Wimbledon #Tennis #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon",
+            "#Tennis",
+            "#TennisFanrecap"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Day 8 Round-Up\n\n**Image Concept 3A** (Social — 1080x1350)\n- **Type:** imagn\n- **Search terms:** Jan-Lennard Struff\n- **Intended use:** X Tweet A + FB Image Caption (Struff landmark QF)\n- **Art direction:** Struff pumping fist or celebrating match win on Wimbledon grass; vertical crop\n- **Credit:** (USA TODAY Sports Images)\n- **Status:** not_started\n\n**Image Concept 3B** (Social — 1080x1350)\n- **Type:** imagn\n- **Search terms:** Alexander Zverev\n- **Intended use:** Secondary Day 8 round-up image\n- **Art direction:** Zverev in action on Wimbledon grass; vertical crop\n- **Credit:** (USA TODAY Sports Images)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Wimbledon QF Preview — Sinner vs Struff, FAA vs Djokovic Headlines Men's Draw",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4-1",
+          "text": "Wimbledon men's QF draw: No. 1 Sinner (0 sets dropped) vs Struff. No. 3 FAA vs No. 7 Djokovic (106 Wimbledon wins). Two huge matchups. Youth vs. experience. The record-holder vs the contender. #Wimbledon #Tennis #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon",
+            "#Tennis",
+            "#TennisFanrecap"
+          ],
+          "char_count": 227
+        },
+        {
+          "label": "Post 4-2",
+          "text": "FAA vs Djokovic at Wimbledon. One has 24 Grand Slam titles. The other has zero — and wants his first. This is the quarterfinal match everyone wanted. #Wimbledon #Djokovic #FAA #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon",
+            "#Djokovic",
+            "#FAA",
+            "#TennisFanrecap"
+          ],
+          "char_count": 191
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-wimbledon-mens-qf-preview-sinner-djokovic.html",
+        "headline": "Wimbledon Men's Quarterfinals Preview: Sinner Meets Struff, FAA Takes On Record-Holder Djokovic",
+        "word_count": 597
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Men's QF Preview\n\n**Image Concept 4A** (Social — 1080x1350)\n- **Type:** imagn\n- **Search terms:** Felix Auger-Aliassime\n- **Intended use:** X Tweet A + FB Image Caption (QF preview — FAA angle)\n- **Art direction:** FAA in aggressive forehand or serve on grass; vertical crop\n- **Credit:** (USA TODAY Sports Images)\n- **Status:** not_started\n\n**Image Concept 4B** (Article Hero — 1200x630)\n- **Type:** imagn\n- **Search terms:** Jannik Sinner\n- **Intended use:** Article hero image (defending champion preview)\n- **Art direction:** Sinner mid-match intensity on Wimbledon grass, landscape crop\n- **Credit:** (USA TODAY Sports Images)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Women's QF Outlook — Osaka, Gauff-Pegula, and the Eala Question",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Women's Wimbledon QF update: Osaka in. Gauff vs Pegula (all-American). Muchova in. Eala vs Paolini still deciding. The No. 1 and No. 2 seeds are both gone. Anyone can win this. #Wimbledon #WTA #Tennis #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon",
+            "#WTA",
+            "#Tennis",
+            "#TennisFanrecap"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Women's QF Outlook\n\n**Image Concept 5A** (Social — 1080x1350)\n- **Type:** imagn\n- **Search terms:** Coco Gauff\n- **Intended use:** X Tweet A + FB Image Caption (women's QF preview)\n- **Art direction:** Gauff in match action on Wimbledon grass; vertical crop\n- **Credit:** (USA TODAY Sports Images)\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 3,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-07-05 |
-| Writing | Complete (all steps) | 2026-07-05 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 21 claims, 45 HIGH; image not_started warnings cosmetic/expected for imagn) | 2026-07-05 |
-| Compile | Complete (07-content-data.json — 5 stories, 8 X posts, 0 FB posts, 5 articles, 5 images; posting window warnings cosmetic) | 2026-07-05 |
-| Dashboard | Complete (review-dashboard.html, 23 items) | 2026-07-05 |
-| PostPlanner Export | Complete (standard 18 posts 12:53–21:23 ET; TOBI 13 posts) | 2026-07-05 |
-| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-07-05 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-07-05 |
+| Research | Complete | 2026-07-06 |
+| Writing | Complete (all steps) | 2026-07-06 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 14 claims, 33 HIGH; image not_started warnings cosmetic/expected for imagn) | 2026-07-06 |
+| Compile | Complete (07-content-data.json — 5 stories, 8 X posts, 0 FB posts, 3 articles, 5 images; posting window warnings cosmetic) | 2026-07-06 |
+| Dashboard | Complete (review-dashboard.html, 21 items) | 2026-07-06 |
+| PostPlanner Export | Complete (standard 8 posts 12:52–20:48 ET; TOBI 8 posts) | 2026-07-06 |
+| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-07-06 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-07-06 |
 
 ## Queue
 
@@ -24,6 +24,21 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-07-06 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 5 FB long-form + 5 FB captions = 18 total (PostPlanner xlsx: 8 posts standard, 8 TOBI)
+- **Articles:** 3 (bylines: Marcus Cole [S1, S4], Elena Voss [S2/S5 analysis], Ryan Calloway [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-07-06.xlsx (8 posts, 12:52–20:48 ET), tfr-postplanner-tobi-2026-07-06.xlsx (8 TOBI posts)
+- **Coverage:** Djokovic def. Safiullin 7-6(4), 6-3, 3-6, 6-3 — 106th Wimbledon win (sole record past Federer's 105); 39yo, 17th QF, quote "A win is a win, even if you win ugly"; next vs FAA. Osaka def. Sabalenka (No. 1) 6-2, 7-6(2) in 88 min — first career Wimbledon QF; first win vs Sabalenka since 2018 US Open (8 years); ended Sabalenka's 21-match Open Era GS tiebreak winning streak; Osaka 8-1 on grass 2026, was 0-13 on non-hard vs top-10; "She overpowered me" — Sabalenka. Day 8 round-up: Zverev def. Lehecka (4 sets); Dimitrov def. Fery (4 sets); Struff def. Hurkacz 3-6, 6-7, 7-6, 7-5, 4-2 ret. (back/abdomen) — 36yo, 47th major, first GS QF, oldest maiden major QF Open Era. QF preview: Sinner (0 sets dropped) vs Struff; FAA vs Djokovic (record-holder). Women's QF: Osaka in; Gauff vs Pegula all-American; Muchova def. Krejcikova 7-5, 5-7, 6-3; Eala vs Paolini + Mertens vs Bouzkova pending.
+- **Notes:**
+  - verify-facts.py: passed; 14 claims, 33 HIGH; Tier 2 missing article warnings cosmetic (expected); image not_started warnings cosmetic (imagn source)
+  - compile: 5 stories, 8 X posts, 0 FB posts (parser compatibility), 3 articles, 5 images; 21 dashboard items; posting window warnings cosmetic
+  - PostPlanner exports: standard (8 posts) and TOBI (8 posts) generated successfully; 12:52–20:48 ET
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Marcus Cole [S1, S4], Elena Voss [S2, S5], Ryan Calloway [S3] (rotating from July 5: Ryan Calloway [S1, S4])
 
 ### 2026-07-05 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)

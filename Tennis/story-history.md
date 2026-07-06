@@ -777,3 +777,47 @@ Track previously covered stories to avoid repetition and maintain content freshn
 - **Tier:** 2
 - **Key Facts:** Both Swiatek and Rybakina eliminated same day; Sabalenka clear favorite; Eala vs Paolini Day 8; Krejcikova still alive; Sources: wtatennis.com, skysports.com, olympics.com
 - **Follow-Up Opportunities:** All R4 results; QF lineup
+
+---
+
+## 2026-07-06
+
+### Story 1: Djokovic Breaks Federer's Record — 106 Wimbledon Wins, Into QF
+- **Date:** 2026-07-06
+- **Angle:** FOLLOW-UP — Day 7 preview covered record chase; result now in. Djokovic def. Safiullin 7-6(4), 6-3, 3-6, 6-3 on Day 7 (July 5). 106th Wimbledon win = sole all-time record past Federer's 105. Quote: "A win is a win, even if you win ugly." 39yo. 17th Wimbledon QF. Next: QF vs FAA.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Key Facts:** Score: 7-6(4), 6-3, 3-6, 6-3; 106th win; Federer record was 105; 17th QF; vs FAA next; Sources: olympics.com, atptour.com, espn.com
+- **Follow-Up Opportunities:** Djokovic vs FAA QF result; potential Djokovic-Sinner SF
+
+### Story 2: Osaka Stuns World No. 1 Sabalenka 6-2, 7-6(2) — First Wimbledon Quarterfinal
+- **Date:** 2026-07-06
+- **Angle:** NEW STORY — Naomi Osaka (No. 14) def. Aryna Sabalenka (No. 1) 6-2, 7-6(2) in 88 minutes on Day 7 (July 5). First-ever Wimbledon QF for Osaka. First win vs Sabalenka in 8 years (since 2018 US Open). Ended Sabalenka's 21-match Grand Slam tiebreak winning streak (Open Era record). Osaka 8-1 on grass 2026; was 0-13 on non-hard vs top-10 before this win. Sabalenka: "She overpowered me." Osaka: "My team is the best team ever."
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Key Facts:** Score: 6-2, 7-6(2); 88 minutes; first Wimbledon QF; 8-1 on grass 2026; 21-match GS tiebreak streak ended; Sources: wtatennis.com, aljazeera.com, olympics.com, espn.com
+- **Follow-Up Opportunities:** Osaka QF match result; Osaka potential SF run
+
+### Story 3: Day 8 Round-Up — Zverev, Dimitrov Advance; Struff Makes History at 36
+- **Date:** 2026-07-06
+- **Angle:** NEW STORY — Day 8 (July 6) results: Zverev def. Lehecka in 4 sets; Dimitrov def. Fery (British WC) in 4 sets. Day 7: Struff def. Hurkacz 3-6, 6-7, 7-6, 7-5, 4-2 ret. — Struff 36yo, 47th major, first GS QF; oldest Open Era maiden major QF. Hurkacz back/abdominal injury. Day 8 still ongoing: Fritz vs Bublik, Keys vs Noskova, de Minaur vs Cobolli, Eala vs Paolini.
+- **Content Produced:** 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Key Facts:** Struff: 3-6, 6-7, 7-6, 7-5, 4-2 ret.; Hurkacz back+abdomen injury; Struff 36yo, 47th major, first GS QF; Sources: atptour.com, tennismajors.com
+- **Follow-Up Opportunities:** Day 8 remaining results; Struff QF match
+
+### Story 4: Wimbledon Men's QF Preview — Sinner vs Struff, FAA vs Djokovic
+- **Date:** 2026-07-06
+- **Angle:** NEW STORY — Men's QF draw: Sinner (No. 1, defending champ, 0 sets dropped) vs Struff (first-ever GS QF, 36yo). FAA (No. 3) vs Djokovic (No. 7, 106 Wimbledon wins). Day 9-10. FAA 5-set win vs Davidovich Fokina Day 7. Sinner def. Mochizuki 6-3, 7-6(0), 6-3.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Key Facts:** Sinner 0 sets dropped; FAA 6-7(4), 7-6(6), 6-3, 6-7(2), 6-1 vs DAF; Djokovic 24 slams, 7 Wimbledon titles; QF Day 9-10; Sources: atptour.com, espn.com, statsinsider.com
+- **Follow-Up Opportunities:** Sinner-Struff result; FAA-Djokovic result
+
+### Story 5: Women's QF Outlook — Osaka, Gauff-Pegula, and the Eala Question
+- **Date:** 2026-07-06
+- **Angle:** NEW STORY — Women's QF field: Osaka in (vs Mertens/Bouzkova winner); Gauff (4-6, 6-3, 6-4 vs Bencic) vs Pegula (4-6, 6-3, 6-1 vs Jovic); Muchova (7-5, 5-7, 6-3 vs Krejcikova); Mertens vs Bouzkova ongoing Day 8; Eala vs Paolini ongoing Day 8. No. 1 Sabalenka and No. 2 Rybakina both out.
+- **Content Produced:** 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 1 Image Concept
+- **Tier:** 2
+- **Key Facts:** Gauff: 4-6, 6-3, 6-4 vs Bencic; Pegula: 4-6, 6-3, 6-1 vs Jovic; Muchova: 7-5, 5-7, 6-3 vs Krejcikova; Sources: olympics.com, wtatennis.com, cbssports.com
+- **Follow-Up Opportunities:** All women's QF results; Eala potential QF
