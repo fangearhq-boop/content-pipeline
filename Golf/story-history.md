@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-07-06
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-06 | T1 | Gotterup Wins John Deere Classic With Stunning 62 — Third PGA Tour Win of 2026 | X, FB, Article | NEW |
+| 2026-07-06 | T1 | Scottish Open Preview — Scheffler, McIlroy, LIV Players Head to Renaissance Club | X, FB, Article | NEW |
+| 2026-07-06 | T2 | LIV Golf Financial Crisis — Running on Loans With $400M Shortfall, 4 Events Left | X, FB, Article | NEW |
+| 2026-07-06 | T2 | Evian Championship Preview — LPGA's Next Major Heads to France (July 9-12) | X, FB, Article | NEW |
+| 2026-07-06 | T2 | Open Championship Countdown — 10 Days Until Royal Birkdale | X, FB, Article | NEW |
+
+### STORY 1: Gotterup Wins John Deere Classic
+- **Tier:** 1
+- **Category:** PGA Tour / John Deere Classic
+- **Key facts:** Gotterup final-round 62 (9-under), came from 5 back; beat Homa by 1 (-20 total); Kohles double-bogey 18 heartbreak; 3rd win of 2026; 5th career win in 84 starts; tied Scheffler for most wins in last 12 months (4 each); Joins Fitzpatrick as only players with 3 wins this season; brother Patrick on bag; Spieth survived cut; Koivun pro debut; purse $8.8M
+- **Status:** NEW
+- **Follow-up ideas:** Gotterup Scottish Open preview; Kohles recovery; FedEx Cup standings
+
+### STORY 2: Scottish Open Preview
+- **Tier:** 1
+- **Category:** PGA Tour / DP World Tour / Scottish Open
+- **Key facts:** Genesis Scottish Open July 9-12 at The Renaissance Club, North Berwick; field: Scheffler, McIlroy, LIV players with exemptions; Open Championship tune-up; Gotterup enters with momentum after JD win; Scheffler defending Open champ (Royal Portrush 2025)
+- **Status:** NEW
+- **Follow-up ideas:** Round 1-4 recaps; winner and Open implications
+
+### STORY 3: LIV Golf Financial Crisis
+- **Tier:** 2
+- **Category:** LIV Golf / Business
+- **Key facts:** Company filings show PIF now lender not investor; $100M/month burn rate; $333M given 2026 ($267M Feb + $66M May) + $130M June; $400M still owed; 4 events left (UK July 23, NY Aug 6, Indianapolis Aug 20, Team Championship Michigan Aug 27); UK event most uncertain; NY most likely to survive; PIF funding only through end of 2026
+- **Status:** NEW
+- **Follow-up ideas:** UK event confirmation/cancellation; investor news; player reactions
+
+### STORY 4: Evian Championship Preview
+- **Tier:** 2
+- **Category:** LPGA / Evian Championship
+- **Key facts:** Amundi Evian Championship July 9-12 at Evian Resort Golf Club, Evian-les-Bains France; 4th LPGA major; Haeran Ryu freshest major winner (Women's PGA Championship, beat Ina Yoon by 2 at Hazeltine); AIG Women's Open follows July 30-Aug 2 Royal Lytham
+- **Status:** NEW
+- **Follow-up ideas:** Round recaps; winner story
+
+### STORY 5: Open Championship Countdown
+- **Tier:** 2
+- **Category:** Majors / The Open Championship
+- **Key facts:** 154th Open Championship July 16-19 Royal Birkdale Southport; Scheffler defending; Heroes Classic July 14; LIV qualifiers: Ballester, Surratt, Uihlein; Last Chance Qualifier July 14; Genesis Scottish Open July 9-12 final tune-up; 300K+ attendance projected
+- **Status:** NEW
+- **Follow-up ideas:** Scottish Open results as Open form guide; Birkdale preview
+
 ## 2026-07-05
 
 | Date | Tier | Story | Platforms | Status |

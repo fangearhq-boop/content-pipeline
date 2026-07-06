@@ -1,0 +1,2879 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Golf Fanrecap — Content Review Dashboard</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: #f5f5f5;
+            display: flex;
+            min-height: 100vh;
+            color: #333;
+        }
+
+        .sidebar {
+            width: 280px;
+            background: #1a1a2e;
+            color: white;
+            padding: 30px 20px;
+            position: fixed;
+            height: 100vh;
+            overflow-y: auto;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+            z-index: 10;
+        }
+
+        .sidebar h1 { font-size: 18px; margin-bottom: 10px; color: #FF8A00; font-weight: 700; }
+        .sidebar-date { font-size: 12px; color: #aaa; margin-bottom: 30px; padding-bottom: 20px; border-bottom: 1px solid #333; }
+        .sidebar-section { margin-bottom: 25px; }
+        .sidebar-section-title { font-size: 12px; text-transform: uppercase; color: #999; margin-bottom: 12px; font-weight: 600; letter-spacing: 1px; }
+
+        .nav-item {
+            display: block; padding: 12px 15px; margin-bottom: 8px; border-radius: 6px;
+            cursor: pointer; transition: all 0.3s ease; font-size: 14px; color: #ddd; user-select: none;
+        }
+        .nav-item:hover { background: #2d2d44; color: #FF8A00; }
+        .nav-item.active { background: #FF8A00; color: white; }
+        .nav-item-count { float: right; background: rgba(255, 107, 53, 0.3); padding: 2px 8px; border-radius: 3px; font-size: 12px; }
+        .nav-item.active .nav-item-count { background: rgba(0, 0, 0, 0.2); }
+
+        .main-content { margin-left: 280px; flex: 1; display: flex; flex-direction: column; }
+
+        .header {
+            background: white; padding: 25px 40px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-bottom: 3px solid #FF8A00;
+        }
+        .header h1 { font-size: 28px; color: #1a1a2e; margin-bottom: 10px; }
+        .header-meta { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px; }
+        .progress-bar { flex: 1; min-width: 200px; }
+        .progress-label { font-size: 13px; color: #666; margin-bottom: 8px; font-weight: 500; }
+        .progress-container { width: 100%; height: 8px; background: #ddd; border-radius: 4px; overflow: hidden; }
+        .progress-fill { height: 100%; background: linear-gradient(90deg, #FF8A00, #E53935); transition: width 0.3s ease; }
+        .header-actions { display: flex; gap: 10px; }
+
+        .btn {
+            padding: 10px 16px; border: none; border-radius: 6px; font-size: 14px;
+            font-weight: 600; cursor: pointer; transition: all 0.3s ease; white-space: nowrap;
+        }
+        .btn-primary { background: #FF8A00; color: white; }
+        .btn-primary:hover { background: #E53935; }
+        .btn-secondary { background: #f0f0f0; color: #333; }
+        .btn-secondary:hover { background: #e0e0e0; }
+
+        .filter-bar {
+            background: white; padding: 20px 40px; display: flex;
+            gap: 10px; flex-wrap: wrap; border-bottom: 1px solid #eee;
+        }
+        .filter-btn {
+            padding: 8px 14px; border: 1px solid #ddd; background: white;
+            border-radius: 5px; cursor: pointer; font-size: 13px; transition: all 0.3s ease;
+        }
+        .filter-btn:hover { border-color: #FF8A00; color: #FF8A00; }
+        .filter-btn.active { background: #FF8A00; color: white; border-color: #FF8A00; }
+
+        .content { flex: 1; padding: 30px 40px; overflow-y: auto; }
+
+        .cards-container { display: flex; flex-direction: column; gap: 20px; max-width: 900px; }
+
+        .card {
+            background: white; border-radius: 8px; padding: 24px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1); transition: all 0.3s ease;
+            border-left: 5px solid #ccc; display: none;
+        }
+        .card.show { display: block; }
+        .card.approved { border-left-color: #22c55e; }
+        .card.needs-edit { border-left-color: #eab308; }
+        .card.rejected { border-left-color: #ef4444; }
+        .card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.12); }
+
+        .card-header { display: flex; justify-content: space-between; align-items: start; margin-bottom: 15px; }
+        .card-title { font-size: 16px; font-weight: 600; color: #1a1a2e; flex: 1; margin-right: 10px; }
+
+        .card-badge {
+            display: inline-block; padding: 4px 10px; border-radius: 4px;
+            font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;
+        }
+        .badge-x-post { background: #1da1f2; color: white; }
+        .badge-facebook { background: #4267b2; color: white; }
+        .badge-article { background: #9333ea; color: white; }
+        .badge-image { background: #06b6d4; color: white; }
+        .badge-brief { background: #10b981; color: white; }
+
+        .fact-check-badge {
+            display: inline-block; padding: 3px 8px; border-radius: 4px;
+            font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;
+            margin-left: 6px;
+        }
+        .fact-check-verified { background: #dcfce7; color: #166534; border: 1px solid #86efac; }
+        .fact-check-warning { background: #fef9c3; color: #854d0e; border: 1px solid #fde047; }
+        .fact-check-unverified { background: #fee2e2; color: #991b1b; border: 1px solid #fca5a5; }
+
+        /* Content area — preview (collapsed) and full (expanded) */
+        .card-content {
+            background: #f9f9f9; padding: 15px; border-radius: 6px;
+            margin-bottom: 15px; font-size: 13px; line-height: 1.6; color: #555;
+            position: relative;
+        }
+        .card-content-text {
+            white-space: pre-wrap; word-break: break-word;
+        }
+
+        /* Collapsed state: limit height with fade */
+        .card-content.collapsed {
+            max-height: 200px; overflow: hidden;
+        }
+        .card-content.collapsed::after {
+            content: '';
+            position: absolute; bottom: 0; left: 0; right: 0; height: 60px;
+            background: linear-gradient(transparent, #f9f9f9);
+            pointer-events: none;
+        }
+
+        /* Expanded state: no limit */
+        .card-content.expanded {
+            max-height: none; overflow: visible;
+        }
+        .card-content.expanded::after { display: none; }
+
+        .expand-toggle {
+            display: inline-block; margin-bottom: 12px; padding: 6px 14px;
+            background: #eee; border: 1px solid #ddd; border-radius: 4px;
+            cursor: pointer; font-size: 12px; font-weight: 600; color: #555;
+            transition: all 0.2s ease;
+        }
+        .expand-toggle:hover { background: #ddd; color: #333; }
+
+        /* Inline editing */
+        .edit-textarea {
+            width: 100%; padding: 15px; border: 2px solid #FF8A00;
+            border-radius: 6px; font-size: 13px; font-family: inherit;
+            line-height: 1.6; resize: vertical; min-height: 200px;
+            background: #fffef5; color: #333; display: none;
+        }
+        .edit-textarea:focus {
+            outline: none; box-shadow: 0 0 0 3px rgba(255, 107, 53, 0.15);
+        }
+        .card.editing .card-content { display: none; }
+        .card.editing .edit-textarea { display: block; }
+        .card.editing .expand-toggle { display: none; }
+
+        .edit-bar {
+            display: none; gap: 8px; margin-bottom: 12px; padding: 10px;
+            background: #fff8f0; border: 1px solid #ffcc99; border-radius: 6px;
+            align-items: center;
+        }
+        .card.editing .edit-bar { display: flex; }
+        .edit-bar-label { font-size: 12px; font-weight: 600; color: #cc6600; flex: 1; }
+        .edit-bar .btn { padding: 7px 14px; font-size: 12px; }
+
+        .tweet-meta-bar {
+            display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; padding: 0;
+        }
+        .tweet-meta-badge {
+            display: inline-block; padding: 4px 10px; border-radius: 4px;
+            font-size: 11px; font-weight: 600; letter-spacing: 0.3px;
+        }
+        .tweet-meta-label { background: #e0e7ff; color: #3730a3; }
+        .tweet-meta-time { background: #fef3c7; color: #92400e; }
+        .tweet-meta-type { background: #d1fae5; color: #065f46; }
+        .tweet-meta-tier { background: #f3e8ff; color: #6b21a8; }
+        .tweet-meta-hashtags { background: #dbeafe; color: #1e40af; font-family: monospace; }
+
+        .char-count {
+            font-size: 12px; margin: 0 0 10px 0; padding: 8px;
+            background: #f0f0f0; border-radius: 4px;
+        }
+        .char-count.warning { background: #fee2e2; color: #991b1b; }
+
+        .card-actions { display: flex; gap: 8px; margin-bottom: 12px; flex-wrap: wrap; }
+        .action-btn {
+            flex: 1; padding: 10px; border: none; border-radius: 5px;
+            cursor: pointer; font-size: 13px; font-weight: 600;
+            transition: all 0.3s ease; white-space: nowrap; min-width: 100px;
+        }
+        .btn-approve { background: #e8f5e9; color: #22c55e; border: 1px solid #22c55e; }
+        .btn-approve:hover { background: #22c55e; color: white; }
+        .btn-edit { background: #fff3e0; color: #e65100; border: 1px solid #ff9800; }
+        .btn-edit:hover { background: #ff9800; color: white; }
+        .btn-reject { background: #fee2e2; color: #ef4444; border: 1px solid #ef4444; }
+        .btn-reject:hover { background: #ef4444; color: white; }
+        .btn-copy { background: #f0f0f0; color: #333; border: 1px solid #ddd; }
+        .btn-copy:hover { background: #e0e0e0; }
+
+        .notes-section { display: none; margin-bottom: 12px; }
+        .notes-section.show { display: block; }
+        .notes-label { font-size: 12px; font-weight: 600; color: #666; margin-bottom: 6px; }
+        .notes-textarea {
+            width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px;
+            font-size: 13px; font-family: inherit; resize: vertical; min-height: 60px;
+        }
+        .notes-textarea:focus { outline: none; border-color: #FF8A00; box-shadow: 0 0 0 3px rgba(255, 107, 53, 0.1); }
+
+        .status-label {
+            font-size: 11px; font-weight: 600; text-transform: uppercase;
+            padding: 4px 8px; border-radius: 3px; margin-top: 10px; display: inline-block;
+        }
+        .status-approved { background: #e8f5e9; color: #22c55e; }
+        .status-needs-edit { background: #fffbeb; color: #f59e0b; }
+        .status-rejected { background: #fee2e2; color: #ef4444; }
+        .status-edited { background: #e3f2fd; color: #1565c0; }
+
+        .empty-state { text-align: center; padding: 60px 20px; color: #999; }
+        .empty-state-icon { font-size: 48px; margin-bottom: 15px; }
+
+        /* Approval stats bar */
+        .approval-stats {
+            display: flex; gap: 16px; margin-top: 12px; flex-wrap: wrap;
+        }
+        .stat-chip {
+            display: inline-flex; align-items: center; gap: 6px;
+            padding: 4px 12px; border-radius: 20px; font-size: 13px; font-weight: 600;
+        }
+        .stat-approved { background: #dcfce7; color: #16a34a; }
+        .stat-rejected { background: #fee2e2; color: #dc2626; }
+        .stat-unreviewed { background: #f3f4f6; color: #6b7280; }
+        .stat-dot { width: 8px; height: 8px; border-radius: 50%; }
+        .stat-approved .stat-dot { background: #22c55e; }
+        .stat-rejected .stat-dot { background: #ef4444; }
+        .stat-unreviewed .stat-dot { background: #9ca3af; }
+
+        /* PostPlanner XLSX button */
+        .btn-csv { background: #7c3aed; color: white; }
+        .btn-csv:hover { background: #6d28d9; }
+        .btn-csv:disabled { background: #c4b5fd; cursor: not-allowed; }
+
+        /* Schedule settings panel */
+        .schedule-panel {
+            display: none; position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%);
+            background: white; border-radius: 12px; padding: 30px; z-index: 1000;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3); width: 500px; max-width: 90vw; max-height: 80vh; overflow-y: auto;
+        }
+        .schedule-panel.show { display: block; }
+        .schedule-overlay { display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.5); z-index: 999; }
+        .schedule-overlay.show { display: block; }
+        .schedule-panel h3 { color: #1a1a2e; margin-bottom: 20px; font-size: 18px; }
+        .schedule-section { margin-bottom: 20px; }
+        .schedule-section label { display: block; font-size: 13px; font-weight: 600; color: #555; margin-bottom: 6px; }
+        .schedule-section input { width: 100%; padding: 8px 12px; border: 1px solid #ddd; border-radius: 4px; font-size: 14px; }
+        .schedule-section input:focus { outline: none; border-color: #7c3aed; }
+        .time-slots { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; }
+        .time-slot {
+            display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px;
+            background: #f3f0ff; border: 1px solid #c4b5fd; border-radius: 20px; font-size: 13px;
+        }
+        .time-slot .remove-slot { cursor: pointer; color: #999; font-weight: bold; }
+        .time-slot .remove-slot:hover { color: #ef4444; }
+        .add-slot-btn {
+            padding: 6px 14px; background: #f3f0ff; border: 1px dashed #7c3aed; border-radius: 20px;
+            cursor: pointer; font-size: 13px; color: #7c3aed;
+        }
+        .add-slot-btn:hover { background: #ede9fe; }
+        .schedule-actions { display: flex; gap: 10px; justify-content: flex-end; margin-top: 20px; }
+
+        /* Photo search links for image concepts */
+        .photo-section {
+            margin-bottom: 15px; padding: 12px; background: #f0f9ff;
+            border: 1px solid #bae6fd; border-radius: 6px;
+        }
+        .photo-section-title {
+            font-size: 12px; font-weight: 700; color: #0369a1; text-transform: uppercase;
+            letter-spacing: 0.5px; margin-bottom: 8px;
+        }
+        .photo-links { display: flex; flex-wrap: wrap; gap: 6px; }
+        .photo-link {
+            display: inline-block; padding: 6px 12px; background: #0ea5e9;
+            color: white; border-radius: 4px; font-size: 12px; font-weight: 500;
+            text-decoration: none; transition: all 0.2s ease; cursor: pointer;
+        }
+        .photo-link:hover { background: #0284c7; }
+
+        /* Image URL input and preview for image concepts */
+        .image-url-section {
+            margin-bottom: 15px; padding: 12px; background: #f0fdf4;
+            border: 1px solid #bbf7d0; border-radius: 6px;
+        }
+        .image-url-section label {
+            display: block; font-size: 12px; font-weight: 700; color: #166534;
+            text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 6px;
+        }
+        .image-url-input {
+            width: 100%; padding: 8px 10px; border: 1px solid #86efac;
+            border-radius: 4px; font-size: 13px; font-family: monospace;
+            background: white; box-sizing: border-box;
+        }
+        .image-url-input:focus { outline: none; border-color: #22c55e; box-shadow: 0 0 0 2px rgba(34,197,94,0.2); }
+        .image-url-hint {
+            font-size: 11px; color: #6b7280; margin-top: 4px;
+        }
+        .image-preview {
+            margin-top: 8px; text-align: center;
+        }
+        .image-preview img {
+            max-width: 100%; max-height: 200px; border-radius: 4px;
+            border: 1px solid #d1d5db; display: none;
+        }
+        .image-preview img.loaded { display: inline-block; }
+
+        /* Image production status badges */
+        .image-badge {
+            display: inline-block; padding: 2px 8px; border-radius: 3px;
+            font-size: 10px; font-weight: 700; text-transform: uppercase;
+            letter-spacing: 0.5px; margin-left: 6px;
+        }
+        .image-exported { background: #dcfce7; color: #166534; }
+        .image-in-progress { background: #fef3c7; color: #92400e; }
+        .image-not-started { background: #f3f4f6; color: #6b7280; }
+
+        /* Text overlay preview for image concepts */
+        .overlay-section {
+            margin-bottom: 15px; padding: 15px; background: #1a1a2e;
+            border-radius: 6px; text-align: center;
+        }
+        .overlay-line {
+            font-family: 'Bebas Neue', Impact, 'Arial Black', sans-serif;
+            color: #ffd700; font-size: 18px; font-weight: 700; line-height: 1.4;
+            text-transform: uppercase; letter-spacing: 1px;
+        }
+        .overlay-line.sub { color: #ffffff; font-size: 14px; font-weight: 400; letter-spacing: 0; text-transform: none; }
+
+        /* Article content rendered as HTML */
+        .article-frame {
+            width: 100%; border: 1px solid #ddd; border-radius: 6px;
+            background: white; min-height: 300px;
+        }
+
+        @media (max-width: 768px) {
+            .sidebar { width: 100%; height: auto; position: relative; padding: 20px; }
+            .main-content { margin-left: 0; }
+            .content { padding: 20px; }
+            .header { padding: 15px 20px; }
+            .header h1 { font-size: 20px; }
+            .filter-bar { padding: 15px 20px; }
+            .header-meta { flex-direction: column; align-items: stretch; }
+            .progress-bar { min-width: auto; }
+        }
+
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: #f1f1f1; }
+        ::-webkit-scrollbar-thumb { background: #888; border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: #555; }
+    </style>
+</head>
+<body>
+    <div class="sidebar">
+        <h1>Golf Fanrecap</h1>
+        <div class="sidebar-date">Review Dashboard<br>2026-07-06</div>
+
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Content Types</div>
+            <div class="nav-item" onclick="filterByType('daily_brief')">
+                Daily Brief
+                <span class="nav-item-count">5</span>
+            </div>
+            <div class="nav-item" onclick="filterByType('x_post')">
+                X / Twitter Posts
+                <span class="nav-item-count">6</span>
+            </div>
+            <div class="nav-item" onclick="filterByType('article')">
+                Articles
+                <span class="nav-item-count">5</span>
+            </div>
+            <div class="nav-item" onclick="filterByType('image_concept')">
+                Image Concepts
+                <span class="nav-item-count">5</span>
+            </div>
+
+            <div class="nav-item" onclick="filterByType('all')">
+                All Items
+                <span class="nav-item-count">21</span>
+            </div>
+        </div>
+
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Status Filter</div>
+            <div class="nav-item" onclick="filterByStatus('all')">All</div>
+            <div class="nav-item" onclick="filterByStatus('unreviewed')">Unreviewed</div>
+            <div class="nav-item" onclick="filterByStatus('approved')">Approved</div>
+            <div class="nav-item" onclick="filterByStatus('needs-edit')">Needs Edit</div>
+            <div class="nav-item" onclick="filterByStatus('rejected')">Rejected</div>
+        </div>
+
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Actions</div>
+            <div class="nav-item" onclick="approveAll()" style="color: #22c55e;">
+                Approve All
+            </div>
+            <div class="nav-item" onclick="exportApprovals()" style="color: #FF8A00;">
+                Export Results JSON
+            </div>
+            <div class="nav-item" onclick="downloadPostPlannerCSV()" style="color: #a78bfa;">
+                PostPlanner Upload
+            </div>
+            <div class="nav-item" onclick="downloadTOBIExport()" style="color: #f472b6;">
+                TOBI Upload
+            </div>
+        </div>
+    </div>
+
+    <div class="main-content">
+        <div class="header">
+            <h1>Golf Fanrecap — Content Review Dashboard</h1>
+            <div class="header-meta">
+                <div class="progress-bar">
+                    <div class="progress-label">
+                        <span id="reviewed-count">0</span> of <span id="total-count">21</span> items reviewed
+                    </div>
+                    <div class="progress-container">
+                        <div class="progress-fill" id="progress-fill" style="width: 0%"></div>
+                    </div>
+                    <div class="approval-stats" id="approval-stats">
+                        <span class="stat-chip stat-approved"><span class="stat-dot"></span> <span id="stat-approved-count">0</span> approved</span>
+                        <span class="stat-chip stat-rejected"><span class="stat-dot"></span> <span id="stat-rejected-count">0</span> rejected</span>
+                        <span class="stat-chip stat-unreviewed"><span class="stat-dot"></span> <span id="stat-unreviewed-count">0</span> unreviewed</span>
+                    </div>
+                </div>
+                <div class="header-actions">
+                    <button class="btn btn-secondary" onclick="resetAll()">Reset All</button>
+                    <button class="btn btn-csv" id="btn-csv" onclick="downloadPostPlannerCSV()" disabled>PostPlanner Upload (0 approved)</button>
+                    <button class="btn btn-csv" id="btn-tobi" onclick="downloadTOBIExport()" disabled style="background: #831843; border-color: #f472b6;">TOBI Upload (0 approved)</button>
+                    <button class="btn btn-primary" onclick="exportApprovals()">Export JSON</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="filter-bar">
+            <button class="filter-btn active" onclick="filterByStatus('all')">All</button>
+            <button class="filter-btn" onclick="filterByStatus('unreviewed')">Unreviewed</button>
+            <button class="filter-btn" onclick="filterByStatus('approved')">Approved</button>
+            <button class="filter-btn" onclick="filterByStatus('needs-edit')">Needs Edit</button>
+            <button class="filter-btn" onclick="filterByStatus('rejected')">Rejected</button>
+        </div>
+
+
+        <div class="content">
+            <div class="cards-container" id="cards-container">
+                <div class="card" data-id="story-1-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Gotterup Wins John Deere Classic With Stunning 62 — Third PGA Tour Win of 2026</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-1-daily_brief">
+                        <div class="card-content-text">Gotterup Wins John Deere Classic With Stunning 62 — Third PGA Tour Win of 2026
+- **Tier:** 1</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-1-daily_brief" placeholder="Edit content here...">Gotterup Wins John Deere Classic With Stunning 62 — Third PGA Tour Win of 2026
+- **Tier:** 1</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-1-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-1-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-1-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-1-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-1-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-1-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-1-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-1-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-1-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-1-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-1-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-1-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Gotterup Wins John Deere Classic With Stunning 62 — Third PGA Tour Win of 2026</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 1-1</span><span class="tweet-meta-badge tweet-meta-tier">Tier 1</span><span class="tweet-meta-badge tweet-meta-hashtags">#PGATour</span></div>
+
+                    <div class="card-content expanded" id="content-story-1-x_post-1">
+                        <div class="card-content-text">CHRIS GOTTERUP WINS THE JOHN DEERE CLASSIC 🏆
+
+Down 5 heading into Sunday. Final round 62 (9-under). Won by ONE over Max Homa.
+
+Ben Kohles hit into the water on 18 trying to tie. Heartbreak at TPC Deere Run.
+
+Gotterup&#x27;s 3rd PGA Tour win of 2026. The man is ON FIRE. ⛳ #PGATour</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-1-x_post-1" placeholder="Edit content here...">CHRIS GOTTERUP WINS THE JOHN DEERE CLASSIC 🏆
+
+Down 5 heading into Sunday. Final round 62 (9-under). Won by ONE over Max Homa.
+
+Ben Kohles hit into the water on 18 trying to tie. Heartbreak at TPC Deere Run.
+
+Gotterup&#x27;s 3rd PGA Tour win of 2026. The man is ON FIRE. ⛳ #PGATour</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-1-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-1-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-1-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-1-x_post-1">Characters: 275/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-1-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-1-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-1-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-1-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-1-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-1-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-1-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-1-x_post-1"></div>
+                </div>
+                <div class="card" data-id="story-1-x_post-2" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Gotterup Wins John Deere Classic With Stunning 62 — Third PGA Tour Win of 2026</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 1-2</span><span class="tweet-meta-badge tweet-meta-tier">Tier 1</span><span class="tweet-meta-badge tweet-meta-hashtags">#PGATour #JohnDeere</span></div>
+
+                    <div class="card-content expanded" id="content-story-1-x_post-2">
+                        <div class="card-content-text">Three wins in 2026. Five career wins in 84 starts.
+
+Chris Gotterup is now tied with Scottie Scheffler for the most PGA Tour wins over the last 12 months — four each.
+
+Oh, and his brother Patrick was on the bag this week. 🏆
+
+What a run. #PGATour #JohnDeere</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-1-x_post-2" placeholder="Edit content here...">Three wins in 2026. Five career wins in 84 starts.
+
+Chris Gotterup is now tied with Scottie Scheffler for the most PGA Tour wins over the last 12 months — four each.
+
+Oh, and his brother Patrick was on the bag this week. 🏆
+
+What a run. #PGATour #JohnDeere</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-1-x_post-2">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-1-x_post-2')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-1-x_post-2')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-1-x_post-2">Characters: 255/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-1-x_post-2">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-1-x_post-2')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-1-x_post-2')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-1-x_post-2')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-1-x_post-2')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-1-x_post-2">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-1-x_post-2" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-1-x_post-2"></div>
+                </div>
+                <div class="card" data-id="story-1-image_concept" data-type="image_concept" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Gotterup Wins John Deere Classic With Stunning 62 — Third PGA Tour Win of 2026 — Image Concept</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-image">IMAGE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-1-image_concept">
+                        <div class="card-content-text">**Image — **
+</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-1-image_concept" placeholder="Edit content here...">**Image — **
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-1-image_concept">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-1-image_concept')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-1-image_concept')">Cancel</button>
+                    </div>
+                    
+                    <div class="image-url-section">
+                        <label>Selected Image URL <span class="image-badge image-not-started" title="No image manifest found">NO IMAGES</span></label>
+                        <input type="text" class="image-url-input"
+                               data-story="1" data-platform="facebook_image"
+                               placeholder="Paste Imagn or exported image URL here"
+                               value=""
+                               onchange="updateImageURL(this)"
+                               onpaste="setTimeout(function(){ updateImageURL(event.target) }, 100)">
+                        <div class="image-url-hint">Copy the direct image URL from your photo source after selecting</div>
+                        <div class="image-preview">
+                            <img src="" alt="Image preview" class=""
+                                 id="img-preview-1-facebook_image"
+                                 onerror="this.classList.remove('loaded')">
+                        </div>
+                    </div>
+
+                    <div class="card-actions" id="actions-story-1-image_concept">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-1-image_concept')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-1-image_concept')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-1-image_concept')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-1-image_concept')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-1-image_concept">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-1-image_concept" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-1-image_concept"></div>
+                </div>
+                <div class="card" data-id="story-2-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Scottish Open Preview — Scheffler, McIlroy, LIV Players Head to Renaissance Club (July 9)</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-2-daily_brief">
+                        <div class="card-content-text">Scottish Open Preview — Scheffler, McIlroy, LIV Players Head to Renaissance Club (July 9)
+- **Tier:** 1</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-2-daily_brief" placeholder="Edit content here...">Scottish Open Preview — Scheffler, McIlroy, LIV Players Head to Renaissance Club (July 9)
+- **Tier:** 1</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-2-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-2-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-2-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-2-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-2-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-2-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-2-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-2-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-2-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-2-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-2-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-2-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Scottish Open Preview — Scheffler, McIlroy, LIV Players Head to Renaissance Club (July 9)</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 2</span><span class="tweet-meta-badge tweet-meta-tier">Tier 1</span><span class="tweet-meta-badge tweet-meta-hashtags">#ScottishOpen #PGATour</span></div>
+
+                    <div class="card-content expanded" id="content-story-2-x_post-1">
+                        <div class="card-content-text">The Open tune-up begins Thursday.
+
+Genesis Scottish Open | July 9-12 | The Renaissance Club, North Berwick
+
+Field: Scottie Scheffler, Rory McIlroy, LIV players with exemptions, and a very confident Chris Gotterup.
+
+Links golf. Wind. Drama. ⛳ #ScottishOpen #PGATour</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-2-x_post-1" placeholder="Edit content here...">The Open tune-up begins Thursday.
+
+Genesis Scottish Open | July 9-12 | The Renaissance Club, North Berwick
+
+Field: Scottie Scheffler, Rory McIlroy, LIV players with exemptions, and a very confident Chris Gotterup.
+
+Links golf. Wind. Drama. ⛳ #ScottishOpen #PGATour</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-2-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-2-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-2-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-2-x_post-1">Characters: 264/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-2-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-2-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-2-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-2-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-2-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-2-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-2-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-2-x_post-1"></div>
+                </div>
+                <div class="card" data-id="story-2-image_concept" data-type="image_concept" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Scottish Open Preview — Scheffler, McIlroy, LIV Players Head to Renaissance Club (July 9) — Image Concept</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-image">IMAGE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-2-image_concept">
+                        <div class="card-content-text">**Image — **
+</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-2-image_concept" placeholder="Edit content here...">**Image — **
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-2-image_concept">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-2-image_concept')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-2-image_concept')">Cancel</button>
+                    </div>
+                    
+                    <div class="image-url-section">
+                        <label>Selected Image URL <span class="image-badge image-not-started" title="No image manifest found">NO IMAGES</span></label>
+                        <input type="text" class="image-url-input"
+                               data-story="2" data-platform="facebook_image"
+                               placeholder="Paste Imagn or exported image URL here"
+                               value=""
+                               onchange="updateImageURL(this)"
+                               onpaste="setTimeout(function(){ updateImageURL(event.target) }, 100)">
+                        <div class="image-url-hint">Copy the direct image URL from your photo source after selecting</div>
+                        <div class="image-preview">
+                            <img src="" alt="Image preview" class=""
+                                 id="img-preview-2-facebook_image"
+                                 onerror="this.classList.remove('loaded')">
+                        </div>
+                    </div>
+
+                    <div class="card-actions" id="actions-story-2-image_concept">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-2-image_concept')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-2-image_concept')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-2-image_concept')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-2-image_concept')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-2-image_concept">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-2-image_concept" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-2-image_concept"></div>
+                </div>
+                <div class="card" data-id="story-3-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">LIV Golf Financial Crisis — Running on Loans With $400M Shortfall, 4 Events Left</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-3-daily_brief">
+                        <div class="card-content-text">LIV Golf Financial Crisis — Running on Loans With $400M Shortfall, 4 Events Left
+- **Tier:** 2</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-3-daily_brief" placeholder="Edit content here...">LIV Golf Financial Crisis — Running on Loans With $400M Shortfall, 4 Events Left
+- **Tier:** 2</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-3-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-3-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-3-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-3-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-3-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-3-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-3-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-3-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-3-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-3-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-3-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-3-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">LIV Golf Financial Crisis — Running on Loans With $400M Shortfall, 4 Events Left</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 3</span><span class="tweet-meta-badge tweet-meta-tier">Tier 2</span><span class="tweet-meta-badge tweet-meta-hashtags">#LIVGolf #Golf</span></div>
+
+                    <div class="card-content expanded" id="content-story-3-x_post-1">
+                        <div class="card-content-text">LIV Golf is running on loans to finish 2026.
+
+Company filings show the PIF is now lending — not investing — to keep the tour going.
+
+$400M still owed. $100M/month burn rate. 4 events left.
+
+The future of LIV beyond 2026 is an open question. #LIVGolf #Golf</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-3-x_post-1" placeholder="Edit content here...">LIV Golf is running on loans to finish 2026.
+
+Company filings show the PIF is now lending — not investing — to keep the tour going.
+
+$400M still owed. $100M/month burn rate. 4 events left.
+
+The future of LIV beyond 2026 is an open question. #LIVGolf #Golf</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-3-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-3-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-3-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-3-x_post-1">Characters: 255/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-3-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-3-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-3-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-3-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-3-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-3-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-3-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-3-x_post-1"></div>
+                </div>
+                <div class="card" data-id="story-3-image_concept" data-type="image_concept" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">LIV Golf Financial Crisis — Running on Loans With $400M Shortfall, 4 Events Left — Image Concept</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-image">IMAGE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-3-image_concept">
+                        <div class="card-content-text">**Image — **
+</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-3-image_concept" placeholder="Edit content here...">**Image — **
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-3-image_concept">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-3-image_concept')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-3-image_concept')">Cancel</button>
+                    </div>
+                    
+                    <div class="image-url-section">
+                        <label>Selected Image URL <span class="image-badge image-not-started" title="No image manifest found">NO IMAGES</span></label>
+                        <input type="text" class="image-url-input"
+                               data-story="3" data-platform="facebook_image"
+                               placeholder="Paste Imagn or exported image URL here"
+                               value=""
+                               onchange="updateImageURL(this)"
+                               onpaste="setTimeout(function(){ updateImageURL(event.target) }, 100)">
+                        <div class="image-url-hint">Copy the direct image URL from your photo source after selecting</div>
+                        <div class="image-preview">
+                            <img src="" alt="Image preview" class=""
+                                 id="img-preview-3-facebook_image"
+                                 onerror="this.classList.remove('loaded')">
+                        </div>
+                    </div>
+
+                    <div class="card-actions" id="actions-story-3-image_concept">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-3-image_concept')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-3-image_concept')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-3-image_concept')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-3-image_concept')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-3-image_concept">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-3-image_concept" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-3-image_concept"></div>
+                </div>
+                <div class="card" data-id="story-4-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Evian Championship Preview — LPGA&#x27;s Next Major Heads to France (July 9-12)</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-4-daily_brief">
+                        <div class="card-content-text">Evian Championship Preview — LPGA&#x27;s Next Major Heads to France (July 9-12)
+- **Tier:** 2</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-4-daily_brief" placeholder="Edit content here...">Evian Championship Preview — LPGA&#x27;s Next Major Heads to France (July 9-12)
+- **Tier:** 2</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-4-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-4-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-4-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-4-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-4-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-4-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-4-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-4-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-4-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-4-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-4-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-4-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Evian Championship Preview — LPGA&#x27;s Next Major Heads to France (July 9-12)</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 4</span><span class="tweet-meta-badge tweet-meta-tier">Tier 2</span><span class="tweet-meta-badge tweet-meta-hashtags">#LPGA #EvianChampionship #Golf</span></div>
+
+                    <div class="card-content expanded" id="content-story-4-x_post-1">
+                        <div class="card-content-text">The Amundi Evian Championship begins Thursday in France.
+
+Lakeside setting. French Alps. One of the most beautiful major venues in golf.
+
+Haeran Ryu enters as the freshest major winner.
+
+Who claims the Evian title? July 9-12. #LPGA #EvianChampionship #Golf</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-4-x_post-1" placeholder="Edit content here...">The Amundi Evian Championship begins Thursday in France.
+
+Lakeside setting. French Alps. One of the most beautiful major venues in golf.
+
+Haeran Ryu enters as the freshest major winner.
+
+Who claims the Evian title? July 9-12. #LPGA #EvianChampionship #Golf</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-4-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-4-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-4-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-4-x_post-1">Characters: 256/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-4-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-4-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-4-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-4-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-4-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-4-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-4-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-4-x_post-1"></div>
+                </div>
+                <div class="card" data-id="story-4-image_concept" data-type="image_concept" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Evian Championship Preview — LPGA&#x27;s Next Major Heads to France (July 9-12) — Image Concept</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-image">IMAGE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-4-image_concept">
+                        <div class="card-content-text">**Image — **
+</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-4-image_concept" placeholder="Edit content here...">**Image — **
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-4-image_concept">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-4-image_concept')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-4-image_concept')">Cancel</button>
+                    </div>
+                    
+                    <div class="image-url-section">
+                        <label>Selected Image URL <span class="image-badge image-not-started" title="No image manifest found">NO IMAGES</span></label>
+                        <input type="text" class="image-url-input"
+                               data-story="4" data-platform="facebook_image"
+                               placeholder="Paste Imagn or exported image URL here"
+                               value=""
+                               onchange="updateImageURL(this)"
+                               onpaste="setTimeout(function(){ updateImageURL(event.target) }, 100)">
+                        <div class="image-url-hint">Copy the direct image URL from your photo source after selecting</div>
+                        <div class="image-preview">
+                            <img src="" alt="Image preview" class=""
+                                 id="img-preview-4-facebook_image"
+                                 onerror="this.classList.remove('loaded')">
+                        </div>
+                    </div>
+
+                    <div class="card-actions" id="actions-story-4-image_concept">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-4-image_concept')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-4-image_concept')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-4-image_concept')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-4-image_concept')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-4-image_concept">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-4-image_concept" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-4-image_concept"></div>
+                </div>
+                <div class="card" data-id="story-5-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Open Championship Countdown — 10 Days Until Royal Birkdale</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-5-daily_brief">
+                        <div class="card-content-text">Open Championship Countdown — 10 Days Until Royal Birkdale
+- **Tier:** 2</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-5-daily_brief" placeholder="Edit content here...">Open Championship Countdown — 10 Days Until Royal Birkdale
+- **Tier:** 2</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-5-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-5-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-5-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-5-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-5-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-5-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-5-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-5-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-5-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-5-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-5-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-5-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Open Championship Countdown — 10 Days Until Royal Birkdale</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 5</span><span class="tweet-meta-badge tweet-meta-tier">Tier 2</span><span class="tweet-meta-badge tweet-meta-hashtags">#TheOpen #Golf</span></div>
+
+                    <div class="card-content expanded" id="content-story-5-x_post-1">
+                        <div class="card-content-text">10 days until the Claret Jug is lifted at Royal Birkdale.
+
+154th Open Championship | July 16-19 | Southport
+
+Scheffler defending. Scottish Open is the tune-up. LIV players eligible.
+
+The oldest major in golf is almost here. ⛳ #TheOpen #Golf</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-5-x_post-1" placeholder="Edit content here...">10 days until the Claret Jug is lifted at Royal Birkdale.
+
+154th Open Championship | July 16-19 | Southport
+
+Scheffler defending. Scottish Open is the tune-up. LIV players eligible.
+
+The oldest major in golf is almost here. ⛳ #TheOpen #Golf</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-5-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-5-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-5-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-5-x_post-1">Characters: 240/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-5-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-5-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-5-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-5-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-5-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-5-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-5-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-5-x_post-1"></div>
+                </div>
+                <div class="card" data-id="story-5-image_concept" data-type="image_concept" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Open Championship Countdown — 10 Days Until Royal Birkdale — Image Concept</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-image">IMAGE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-5-image_concept">
+                        <div class="card-content-text">**Image — **
+</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-5-image_concept" placeholder="Edit content here...">**Image — **
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-5-image_concept">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-5-image_concept')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-5-image_concept')">Cancel</button>
+                    </div>
+                    
+                    <div class="image-url-section">
+                        <label>Selected Image URL <span class="image-badge image-not-started" title="No image manifest found">NO IMAGES</span></label>
+                        <input type="text" class="image-url-input"
+                               data-story="5" data-platform="facebook_image"
+                               placeholder="Paste Imagn or exported image URL here"
+                               value=""
+                               onchange="updateImageURL(this)"
+                               onpaste="setTimeout(function(){ updateImageURL(event.target) }, 100)">
+                        <div class="image-url-hint">Copy the direct image URL from your photo source after selecting</div>
+                        <div class="image-preview">
+                            <img src="" alt="Image preview" class=""
+                                 id="img-preview-5-facebook_image"
+                                 onerror="this.classList.remove('loaded')">
+                        </div>
+                    </div>
+
+                    <div class="card-actions" id="actions-story-5-image_concept">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-5-image_concept')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-5-image_concept')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-5-image_concept')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-5-image_concept')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-5-image_concept">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-5-image_concept" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-5-image_concept"></div>
+                </div>
+                <div class="card" data-id="article-article-01-gotterup-wins-john-deere-classic" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Gotterup Fires 62 to Win John Deere Classic — Three PGA Tour Wins in 2026</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-01-gotterup-wins-john-deere-classic">
+                        <iframe class="article-frame" srcdoc="<article>
+  <header>
+    <h1>Gotterup Fires 62 to Win John Deere Classic — Three PGA Tour Wins in 2026</h1>
+    <p class=&quot;byline&quot;>By Ryan Calloway | Golf Fanrecap | July 6, 2026</p>
+  </header>
+
+  <section>
+    <p>Chris Gotterup arrived at TPC Deere Run for the John Deere Classic's final round five shots behind the leaders. He left with the trophy.</p>
+
+    <p>Gotterup's stunning Sunday 62 — nine under par on a day when the tournament leaderboard was tight and the nerves were real — propelled him from the back of the pack to a one-stroke victory over Max Homa. Final total: 20-under 264. Third PGA Tour win of the 2026 season. Fifth career victory in 84 starts as a professional.</p>
+  </section>
+
+  <section>
+    <h2>The Kohles Heartbreak at 18</h2>
+    <p>The win had a dramatic final act. Ben Kohles, a veteran searching for his first PGA Tour title in his 120th start, stood on the 18th tee tied for the lead with the outcome still very much undecided. Par would force a playoff. Kohles hit his approach shot left. The ball found the water. A double bogey followed — and with it, the title slipped away. He finished in a tie for third, one shot behind Gotterup and Homa.</p>
+
+    <p>It was one of the more agonizing finishes of the season. Kohles, who had played the kind of week that professional golfers spend years chasing, had his moment and could not hold it. The sport offers no comfort for near-misses at 120 starts.</p>
+  </section>
+
+  <section>
+    <h2>A Brothers' Week</h2>
+    <p>Gotterup had a somewhat unusual addition to his team this week: his brother Patrick was on the bag. Whatever the extra family dynamic brought to the atmosphere inside the ropes, it clearly worked. Gotterup's 62 was the low round of the tournament on Sunday, a clinical, aggressive display from a player who has made a habit of peak Sunday performances throughout 2026.</p>
+
+    <p>His three wins this year — the Sony Open, the Phoenix Open, and now the John Deere — make him one of only two players with three victories in the 2026 season, alongside Matt Fitzpatrick. More significantly, Gotterup is now tied with world No. 1 Scottie Scheffler for the most PGA Tour wins over the last twelve months. Four each. That is the company Gotterup is keeping now.</p>
+  </section>
+
+  <section>
+    <h2>Spieth Survives; Koivun Debuts</h2>
+    <p>Two secondary storylines added depth to the week at TPC Deere Run. Jordan Spieth, navigating a complicated stretch of form, survived the cut — a modest result for a former world No. 1, but a noteworthy one. And Jackson Koivun made his professional debut at the John Deere Classic, gaining his first competitive exposure to Tour conditions and pressure before falling short of contention.</p>
+  </section>
+
+  <section>
+    <h2>What's Next</h2>
+    <p>Gotterup heads directly to Scotland, where the Genesis Scottish Open at The Renaissance Club begins Thursday July 9 — his next opportunity to build on what is now one of the most compelling individual runs in the game. The Open Championship follows July 16-19 at Royal Birkdale. Gotterup, who has shown the ability to win in links conditions, enters the summer's biggest fortnight as one of the most dangerous players on either side of the Atlantic.</p>
+  </section>
+</article>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-01-gotterup-wins-john-deere-classic" placeholder="Edit content here...">&lt;article&gt;
+  &lt;header&gt;
+    &lt;h1&gt;Gotterup Fires 62 to Win John Deere Classic — Three PGA Tour Wins in 2026&lt;/h1&gt;
+    &lt;p class=&quot;byline&quot;&gt;By Ryan Calloway | Golf Fanrecap | July 6, 2026&lt;/p&gt;
+  &lt;/header&gt;
+
+  &lt;section&gt;
+    &lt;p&gt;Chris Gotterup arrived at TPC Deere Run for the John Deere Classic&#x27;s final round five shots behind the leaders. He left with the trophy.&lt;/p&gt;
+
+    &lt;p&gt;Gotterup&#x27;s stunning Sunday 62 — nine under par on a day when the tournament leaderboard was tight and the nerves were real — propelled him from the back of the pack to a one-stroke victory over Max Homa. Final total: 20-under 264. Third PGA Tour win of the 2026 season. Fifth career victory in 84 starts as a professional.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;The Kohles Heartbreak at 18&lt;/h2&gt;
+    &lt;p&gt;The win had a dramatic final act. Ben Kohles, a veteran searching for his first PGA Tour title in his 120th start, stood on the 18th tee tied for the lead with the outcome still very much undecided. Par would force a playoff. Kohles hit his approach shot left. The ball found the water. A double bogey followed — and with it, the title slipped away. He finished in a tie for third, one shot behind Gotterup and Homa.&lt;/p&gt;
+
+    &lt;p&gt;It was one of the more agonizing finishes of the season. Kohles, who had played the kind of week that professional golfers spend years chasing, had his moment and could not hold it. The sport offers no comfort for near-misses at 120 starts.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;A Brothers&#x27; Week&lt;/h2&gt;
+    &lt;p&gt;Gotterup had a somewhat unusual addition to his team this week: his brother Patrick was on the bag. Whatever the extra family dynamic brought to the atmosphere inside the ropes, it clearly worked. Gotterup&#x27;s 62 was the low round of the tournament on Sunday, a clinical, aggressive display from a player who has made a habit of peak Sunday performances throughout 2026.&lt;/p&gt;
+
+    &lt;p&gt;His three wins this year — the Sony Open, the Phoenix Open, and now the John Deere — make him one of only two players with three victories in the 2026 season, alongside Matt Fitzpatrick. More significantly, Gotterup is now tied with world No. 1 Scottie Scheffler for the most PGA Tour wins over the last twelve months. Four each. That is the company Gotterup is keeping now.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;Spieth Survives; Koivun Debuts&lt;/h2&gt;
+    &lt;p&gt;Two secondary storylines added depth to the week at TPC Deere Run. Jordan Spieth, navigating a complicated stretch of form, survived the cut — a modest result for a former world No. 1, but a noteworthy one. And Jackson Koivun made his professional debut at the John Deere Classic, gaining his first competitive exposure to Tour conditions and pressure before falling short of contention.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+    &lt;p&gt;Gotterup heads directly to Scotland, where the Genesis Scottish Open at The Renaissance Club begins Thursday July 9 — his next opportunity to build on what is now one of the most compelling individual runs in the game. The Open Championship follows July 16-19 at Royal Birkdale. Gotterup, who has shown the ability to win in links conditions, enters the summer&#x27;s biggest fortnight as one of the most dangerous players on either side of the Atlantic.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-01-gotterup-wins-john-deere-classic">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-01-gotterup-wins-john-deere-classic')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-01-gotterup-wins-john-deere-classic')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-01-gotterup-wins-john-deere-classic">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-01-gotterup-wins-john-deere-classic')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-01-gotterup-wins-john-deere-classic')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-01-gotterup-wins-john-deere-classic')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-01-gotterup-wins-john-deere-classic')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-01-gotterup-wins-john-deere-classic">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-01-gotterup-wins-john-deere-classic" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-01-gotterup-wins-john-deere-classic"></div>
+                </div>
+                <div class="card" data-id="article-article-02-scottish-open-preview-renaissance-club" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Scottish Open Preview: Scheffler, McIlroy, Gotterup Head to Renaissance Club as Open Looms</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-02-scottish-open-preview-renaissance-club">
+                        <iframe class="article-frame" srcdoc="<article>
+  <header>
+    <h1>Scottish Open Preview: Scheffler, McIlroy, Gotterup Head to Renaissance Club as Open Looms</h1>
+    <p class=&quot;byline&quot;>By Jake Torres | Golf Fanrecap | July 6, 2026</p>
+  </header>
+
+  <section>
+    <p>The Open Championship is ten days away. Before the world descends on Royal Birkdale, the game's best players converge on the East Lothian coast for the tournament that has long served as the most reliable predictor of Open form — the Genesis Scottish Open at The Renaissance Club in North Berwick, running July 9-12.</p>
+
+    <p>The co-sanctioned PGA Tour and DP World Tour event draws a field that includes Scottie Scheffler, Rory McIlroy, and — a touch of the ongoing circuit rivalry — LIV Golf players who hold major exemptions. It is the richest, most competitive field of the summer, assembled in exactly the conditions that matter most.</p>
+  </section>
+
+  <section>
+    <h2>Scheffler: Defending Champion Heading to Links Country</h2>
+    <p>Scottie Scheffler arrives at The Renaissance Club as the world's No. 1 player and the defending Open champion. He won at Royal Portrush in 2025 in a performance that removed any lingering doubt about his status as the best in the game. Scottish links golf suits his ball-striking precision and ability to manage wind and trajectory — the same skills that made him nearly impossible to beat at Portrush.</p>
+
+    <p>Scheffler has been consistent without being dominant in recent weeks, and the Scottish Open represents his clearest opportunity to tune his links game before the Open itself.</p>
+  </section>
+
+  <section>
+    <h2>McIlroy's Motivation</h2>
+    <p>Rory McIlroy brings a particular motivation to North Berwick. The Northern Irishman is chasing form, and Scotland's links courses are the landscape where he has built some of the most significant chapters of his career. The crowd at The Renaissance Club will be supportive — Scottish golf fans are generous to the game's marquee names — and McIlroy will be using the week as a confidence exercise as much as a competitive one ahead of Birkdale.</p>
+
+    <p>McIlroy's Open record at links venues is remarkable. The question, as it has been for much of the past few seasons, is whether he can string together the week that puts everything together when it matters most.</p>
+  </section>
+
+  <section>
+    <h2>Gotterup's Momentum</h2>
+    <p>Fresh off winning the John Deere Classic with a brilliant Sunday 62, Chris Gotterup enters the Scottish Open with as much momentum as any player in professional golf. He has won three times in 2026. He is tied with Scheffler for the most Tour wins in the last twelve months. And he has links form — a previous win in Scotland against McIlroy demonstrates that his game translates to links conditions.</p>
+
+    <p>The LIV players with exemptions add an interesting wrinkle to the field. The Scottish Open is one of the rare events where the two tours' top performers share a leaderboard, and the competitive dynamic will be closely watched ahead of the Open, where the same players will be eligible to compete.</p>
+  </section>
+
+  <section>
+    <h2>What's Next</h2>
+    <p>The Genesis Scottish Open begins Thursday July 9 at The Renaissance Club. Four rounds of links golf on the East Lothian coast, with the Open Championship looming directly afterward at Royal Birkdale. Whoever emerges from Scotland with form, momentum, and confidence will carry real advantage into one of the most anticipated Opens in recent memory.</p>
+  </section>
+</article>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-02-scottish-open-preview-renaissance-club" placeholder="Edit content here...">&lt;article&gt;
+  &lt;header&gt;
+    &lt;h1&gt;Scottish Open Preview: Scheffler, McIlroy, Gotterup Head to Renaissance Club as Open Looms&lt;/h1&gt;
+    &lt;p class=&quot;byline&quot;&gt;By Jake Torres | Golf Fanrecap | July 6, 2026&lt;/p&gt;
+  &lt;/header&gt;
+
+  &lt;section&gt;
+    &lt;p&gt;The Open Championship is ten days away. Before the world descends on Royal Birkdale, the game&#x27;s best players converge on the East Lothian coast for the tournament that has long served as the most reliable predictor of Open form — the Genesis Scottish Open at The Renaissance Club in North Berwick, running July 9-12.&lt;/p&gt;
+
+    &lt;p&gt;The co-sanctioned PGA Tour and DP World Tour event draws a field that includes Scottie Scheffler, Rory McIlroy, and — a touch of the ongoing circuit rivalry — LIV Golf players who hold major exemptions. It is the richest, most competitive field of the summer, assembled in exactly the conditions that matter most.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;Scheffler: Defending Champion Heading to Links Country&lt;/h2&gt;
+    &lt;p&gt;Scottie Scheffler arrives at The Renaissance Club as the world&#x27;s No. 1 player and the defending Open champion. He won at Royal Portrush in 2025 in a performance that removed any lingering doubt about his status as the best in the game. Scottish links golf suits his ball-striking precision and ability to manage wind and trajectory — the same skills that made him nearly impossible to beat at Portrush.&lt;/p&gt;
+
+    &lt;p&gt;Scheffler has been consistent without being dominant in recent weeks, and the Scottish Open represents his clearest opportunity to tune his links game before the Open itself.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;McIlroy&#x27;s Motivation&lt;/h2&gt;
+    &lt;p&gt;Rory McIlroy brings a particular motivation to North Berwick. The Northern Irishman is chasing form, and Scotland&#x27;s links courses are the landscape where he has built some of the most significant chapters of his career. The crowd at The Renaissance Club will be supportive — Scottish golf fans are generous to the game&#x27;s marquee names — and McIlroy will be using the week as a confidence exercise as much as a competitive one ahead of Birkdale.&lt;/p&gt;
+
+    &lt;p&gt;McIlroy&#x27;s Open record at links venues is remarkable. The question, as it has been for much of the past few seasons, is whether he can string together the week that puts everything together when it matters most.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;Gotterup&#x27;s Momentum&lt;/h2&gt;
+    &lt;p&gt;Fresh off winning the John Deere Classic with a brilliant Sunday 62, Chris Gotterup enters the Scottish Open with as much momentum as any player in professional golf. He has won three times in 2026. He is tied with Scheffler for the most Tour wins in the last twelve months. And he has links form — a previous win in Scotland against McIlroy demonstrates that his game translates to links conditions.&lt;/p&gt;
+
+    &lt;p&gt;The LIV players with exemptions add an interesting wrinkle to the field. The Scottish Open is one of the rare events where the two tours&#x27; top performers share a leaderboard, and the competitive dynamic will be closely watched ahead of the Open, where the same players will be eligible to compete.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+    &lt;p&gt;The Genesis Scottish Open begins Thursday July 9 at The Renaissance Club. Four rounds of links golf on the East Lothian coast, with the Open Championship looming directly afterward at Royal Birkdale. Whoever emerges from Scotland with form, momentum, and confidence will carry real advantage into one of the most anticipated Opens in recent memory.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-02-scottish-open-preview-renaissance-club">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-02-scottish-open-preview-renaissance-club')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-02-scottish-open-preview-renaissance-club')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-02-scottish-open-preview-renaissance-club">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-02-scottish-open-preview-renaissance-club')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-02-scottish-open-preview-renaissance-club')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-02-scottish-open-preview-renaissance-club')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-02-scottish-open-preview-renaissance-club')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-02-scottish-open-preview-renaissance-club">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-02-scottish-open-preview-renaissance-club" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-02-scottish-open-preview-renaissance-club"></div>
+                </div>
+                <div class="card" data-id="article-article-03-liv-golf-financial-crisis-loans" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">LIV Golf Is Running on Loans to Finish 2026 — and the Future Beyond This Year Remains Uncertain</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-03-liv-golf-financial-crisis-loans">
+                        <iframe class="article-frame" srcdoc="<article>
+  <header>
+    <h1>LIV Golf Is Running on Loans to Finish 2026 — and the Future Beyond This Year Remains Uncertain</h1>
+    <p class=&quot;byline&quot;>By Marcus Cole | Golf Fanrecap | July 6, 2026</p>
+  </header>
+
+  <section>
+    <p>Company filings have confirmed what many observers had suspected for months: LIV Golf is no longer operating on capital investment. It is running on loans.</p>
+
+    <p>Documents filed in the United Kingdom and Jersey reveal that Saudi Arabia's Public Investment Fund — which founded and has bankrolled the league since its launch — has transitioned from investor to lender. The PIF has established a debenture lending facility that is effectively funding LIV's day-to-day operations while the league's leadership searches for new outside investors to take over what has become a multi-billion-dollar annual commitment.</p>
+  </section>
+
+  <section>
+    <h2>The Numbers</h2>
+    <p>LIV Golf spends approximately $100 million per month — covering player contracts, event operations, prize purses, and overhead. In 2026, the PIF provided $333 million ($267 million in February and $66 million in May) before transitioning to the lending facility in June and adding another $130 million. That represents roughly five months of operational funding. The league reportedly still needs approximately $400 million to fully fund its remaining 2026 events and honour existing player commitments.</p>
+
+    <p>Four tournaments remain on the 2026 schedule: LIV Golf United Kingdom at JCB Golf &amp; Country Club (July 23-26), LIV Golf New York (August 6-9), LIV Golf Indianapolis (August 20-23), and the $40 million LIV Team Championship in Michigan (August 27-30). Reports suggest the United Kingdom event faces the most uncertainty of the four; the New York event is currently considered the most likely to proceed.</p>
+  </section>
+
+  <section>
+    <h2>PIF's Stated Commitment</h2>
+    <p>The Public Investment Fund announced earlier in 2026 that it would fund LIV only through the end of the current season. The implication is direct: beyond December 2026, LIV Golf's operational structure either finds new investment, negotiates a sale or merger, or winds down. No announcement about 2027 has been made. No new investors have been publicly confirmed.</p>
+
+    <p>For the players — many of whom signed multi-year guaranteed contracts worth tens of millions of dollars to join the league — the financial news adds uncertainty to what was supposed to be a period of stability. The contracts themselves are not in immediate jeopardy if the league completes the 2026 season, but the longer-term picture remains opaque.</p>
+  </section>
+
+  <section>
+    <h2>What's Next</h2>
+    <p>The immediate question is whether all four remaining 2026 events will take place. The UK event at JCB is the next test — scheduled for July 23-26, just two weeks away. If the financial gap is not bridged before that date, the uncertainty will intensify. LIV Golf launched in 2022 with ambitions to reshape professional golf; in 2026, the project is being kept alive, event by event, on loans.</p>
+  </section>
+</article>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-03-liv-golf-financial-crisis-loans" placeholder="Edit content here...">&lt;article&gt;
+  &lt;header&gt;
+    &lt;h1&gt;LIV Golf Is Running on Loans to Finish 2026 — and the Future Beyond This Year Remains Uncertain&lt;/h1&gt;
+    &lt;p class=&quot;byline&quot;&gt;By Marcus Cole | Golf Fanrecap | July 6, 2026&lt;/p&gt;
+  &lt;/header&gt;
+
+  &lt;section&gt;
+    &lt;p&gt;Company filings have confirmed what many observers had suspected for months: LIV Golf is no longer operating on capital investment. It is running on loans.&lt;/p&gt;
+
+    &lt;p&gt;Documents filed in the United Kingdom and Jersey reveal that Saudi Arabia&#x27;s Public Investment Fund — which founded and has bankrolled the league since its launch — has transitioned from investor to lender. The PIF has established a debenture lending facility that is effectively funding LIV&#x27;s day-to-day operations while the league&#x27;s leadership searches for new outside investors to take over what has become a multi-billion-dollar annual commitment.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;The Numbers&lt;/h2&gt;
+    &lt;p&gt;LIV Golf spends approximately $100 million per month — covering player contracts, event operations, prize purses, and overhead. In 2026, the PIF provided $333 million ($267 million in February and $66 million in May) before transitioning to the lending facility in June and adding another $130 million. That represents roughly five months of operational funding. The league reportedly still needs approximately $400 million to fully fund its remaining 2026 events and honour existing player commitments.&lt;/p&gt;
+
+    &lt;p&gt;Four tournaments remain on the 2026 schedule: LIV Golf United Kingdom at JCB Golf &amp; Country Club (July 23-26), LIV Golf New York (August 6-9), LIV Golf Indianapolis (August 20-23), and the $40 million LIV Team Championship in Michigan (August 27-30). Reports suggest the United Kingdom event faces the most uncertainty of the four; the New York event is currently considered the most likely to proceed.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;PIF&#x27;s Stated Commitment&lt;/h2&gt;
+    &lt;p&gt;The Public Investment Fund announced earlier in 2026 that it would fund LIV only through the end of the current season. The implication is direct: beyond December 2026, LIV Golf&#x27;s operational structure either finds new investment, negotiates a sale or merger, or winds down. No announcement about 2027 has been made. No new investors have been publicly confirmed.&lt;/p&gt;
+
+    &lt;p&gt;For the players — many of whom signed multi-year guaranteed contracts worth tens of millions of dollars to join the league — the financial news adds uncertainty to what was supposed to be a period of stability. The contracts themselves are not in immediate jeopardy if the league completes the 2026 season, but the longer-term picture remains opaque.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+    &lt;p&gt;The immediate question is whether all four remaining 2026 events will take place. The UK event at JCB is the next test — scheduled for July 23-26, just two weeks away. If the financial gap is not bridged before that date, the uncertainty will intensify. LIV Golf launched in 2022 with ambitions to reshape professional golf; in 2026, the project is being kept alive, event by event, on loans.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-03-liv-golf-financial-crisis-loans">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-03-liv-golf-financial-crisis-loans')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-03-liv-golf-financial-crisis-loans')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-03-liv-golf-financial-crisis-loans">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-03-liv-golf-financial-crisis-loans')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-03-liv-golf-financial-crisis-loans')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-03-liv-golf-financial-crisis-loans')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-03-liv-golf-financial-crisis-loans')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-03-liv-golf-financial-crisis-loans">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-03-liv-golf-financial-crisis-loans" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-03-liv-golf-financial-crisis-loans"></div>
+                </div>
+                <div class="card" data-id="article-article-04-evian-championship-lpga-preview" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Evian Championship Preview: LPGA&#x27;s Lakeside Major Returns to the French Alps</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-04-evian-championship-lpga-preview">
+                        <iframe class="article-frame" srcdoc="<article>
+  <header>
+    <h1>Evian Championship Preview: LPGA's Lakeside Major Returns to the French Alps</h1>
+    <p class=&quot;byline&quot;>By Ryan Calloway | Golf Fanrecap | July 6, 2026</p>
+  </header>
+
+  <section>
+    <p>While men's golf turns its attention to Scotland and the build-up to the Open Championship, the women's game has its own major championship on the horizon — and it comes with one of the most striking backdrops in professional sports.</p>
+
+    <p>The Amundi Evian Championship begins Thursday, July 9, at the Evian Resort Golf Club in Evian-les-Bains, France. The course sits on a hillside above Lake Geneva, with the French Alps visible in the distance on clear days, and the tournament has earned its place as one of the most visually spectacular events on the LPGA calendar.</p>
+  </section>
+
+  <section>
+    <h2>Haeran Ryu Enters as Freshest Major Champion</h2>
+    <p>Haeran Ryu arrives at Evian as the most recent major winner on tour. The South Korean claimed the Women's PGA Championship at Hazeltine National Golf Club for her first major title, winning by two strokes over Ina Yoon in windy conditions. It was the kind of performance that announced a player ready to build on momentum — and Evian, just weeks later, offers exactly that opportunity.</p>
+
+    <p>Whether Ryu can carry the emotional energy of a first major win into a second successive major remains the central storyline of the week. History suggests that players who win their first major often arrive at the next event with either extraordinary confidence or the weight of new expectations. For Ryu, who showed composure under pressure at Hazeltine, the smart money is on confidence.</p>
+  </section>
+
+  <section>
+    <h2>The LPGA's Major Championship Stretch</h2>
+    <p>The Evian Championship is the fourth LPGA major of the 2026 season. After France, the calendar turns to the ISPS HANDA Women's Scottish Open at Dundonald Links (July 23-26), followed immediately by the AIG Women's Open at Royal Lytham and St Annes in England (July 30 to August 2). That sequence — Evian, Women's Scottish Open, Women's Open — represents the richest three-week stretch on the women's global calendar, offering the game's best players their most concentrated window of major championship opportunity.</p>
+
+    <p>Korean players have dominated the LPGA's major landscape in recent seasons, and the Evian's field typically reflects that trend, with a strong contingent from the Korea Ladies Professional Golf Association system competing alongside American, European, and Japanese stars.</p>
+  </section>
+
+  <section>
+    <h2>What's Next</h2>
+    <p>The Amundi Evian Championship runs July 9-12. The winner emerges with a major title, a trophy presentation on the hillside above Lake Geneva, and a place in one of professional golf's most beautiful week-long memories. After France, the women's game moves directly into the Scottish Open and the AIG Women's Open — a run of events that will define the summer for whoever can sustain form across three demanding weeks.</p>
+  </section>
+</article>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-04-evian-championship-lpga-preview" placeholder="Edit content here...">&lt;article&gt;
+  &lt;header&gt;
+    &lt;h1&gt;Evian Championship Preview: LPGA&#x27;s Lakeside Major Returns to the French Alps&lt;/h1&gt;
+    &lt;p class=&quot;byline&quot;&gt;By Ryan Calloway | Golf Fanrecap | July 6, 2026&lt;/p&gt;
+  &lt;/header&gt;
+
+  &lt;section&gt;
+    &lt;p&gt;While men&#x27;s golf turns its attention to Scotland and the build-up to the Open Championship, the women&#x27;s game has its own major championship on the horizon — and it comes with one of the most striking backdrops in professional sports.&lt;/p&gt;
+
+    &lt;p&gt;The Amundi Evian Championship begins Thursday, July 9, at the Evian Resort Golf Club in Evian-les-Bains, France. The course sits on a hillside above Lake Geneva, with the French Alps visible in the distance on clear days, and the tournament has earned its place as one of the most visually spectacular events on the LPGA calendar.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;Haeran Ryu Enters as Freshest Major Champion&lt;/h2&gt;
+    &lt;p&gt;Haeran Ryu arrives at Evian as the most recent major winner on tour. The South Korean claimed the Women&#x27;s PGA Championship at Hazeltine National Golf Club for her first major title, winning by two strokes over Ina Yoon in windy conditions. It was the kind of performance that announced a player ready to build on momentum — and Evian, just weeks later, offers exactly that opportunity.&lt;/p&gt;
+
+    &lt;p&gt;Whether Ryu can carry the emotional energy of a first major win into a second successive major remains the central storyline of the week. History suggests that players who win their first major often arrive at the next event with either extraordinary confidence or the weight of new expectations. For Ryu, who showed composure under pressure at Hazeltine, the smart money is on confidence.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;The LPGA&#x27;s Major Championship Stretch&lt;/h2&gt;
+    &lt;p&gt;The Evian Championship is the fourth LPGA major of the 2026 season. After France, the calendar turns to the ISPS HANDA Women&#x27;s Scottish Open at Dundonald Links (July 23-26), followed immediately by the AIG Women&#x27;s Open at Royal Lytham and St Annes in England (July 30 to August 2). That sequence — Evian, Women&#x27;s Scottish Open, Women&#x27;s Open — represents the richest three-week stretch on the women&#x27;s global calendar, offering the game&#x27;s best players their most concentrated window of major championship opportunity.&lt;/p&gt;
+
+    &lt;p&gt;Korean players have dominated the LPGA&#x27;s major landscape in recent seasons, and the Evian&#x27;s field typically reflects that trend, with a strong contingent from the Korea Ladies Professional Golf Association system competing alongside American, European, and Japanese stars.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+    &lt;p&gt;The Amundi Evian Championship runs July 9-12. The winner emerges with a major title, a trophy presentation on the hillside above Lake Geneva, and a place in one of professional golf&#x27;s most beautiful week-long memories. After France, the women&#x27;s game moves directly into the Scottish Open and the AIG Women&#x27;s Open — a run of events that will define the summer for whoever can sustain form across three demanding weeks.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-04-evian-championship-lpga-preview">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-04-evian-championship-lpga-preview')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-04-evian-championship-lpga-preview')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-04-evian-championship-lpga-preview">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-04-evian-championship-lpga-preview')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-04-evian-championship-lpga-preview')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-04-evian-championship-lpga-preview')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-04-evian-championship-lpga-preview')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-04-evian-championship-lpga-preview">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-04-evian-championship-lpga-preview" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-04-evian-championship-lpga-preview"></div>
+                </div>
+                <div class="card" data-id="article-article-05-open-championship-countdown-royal-birkdale" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Ten Days to Birkdale: The Open Championship Storylines That Will Define the 154th Edition</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-05-open-championship-countdown-royal-birkdale">
+                        <iframe class="article-frame" srcdoc="<article>
+  <header>
+    <h1>Ten Days to Birkdale: The Open Championship Storylines That Will Define the 154th Edition</h1>
+    <p class=&quot;byline&quot;>By Jake Torres | Golf Fanrecap | July 6, 2026</p>
+  </header>
+
+  <section>
+    <p>The 154th Open Championship is ten days away. Royal Birkdale Golf Club in Southport will host the oldest major in golf on July 16-19, and the week between now and Thursday's opening round will be defined by two things: the Genesis Scottish Open, which serves as the sport's final links tune-up, and the building anticipation around a field that may be as balanced and compelling as any Open in recent memory.</p>
+  </section>
+
+  <section>
+    <h2>Scheffler Defending at Birkdale</h2>
+    <p>Scottie Scheffler arrives at Royal Birkdale as the defending Open champion — he won the 153rd edition at Royal Portrush in 2025 in a display that underlined his status as the world's best player. Defending any major is difficult; defending at the Open, where the links conditions demand specific skills and the field is global in its talent, adds an additional layer of complexity.</p>
+
+    <p>Scheffler's consistency makes him the natural favourite. He has won four PGA Tour events in the last twelve months, tied with Chris Gotterup for the most on Tour. His ball-striking, which is the single most important weapon a player can carry to a British links, is without peer in the current game. Birkdale suits him.</p>
+  </section>
+
+  <section>
+    <h2>The Scottish Open Tune-Up</h2>
+    <p>The Genesis Scottish Open at The Renaissance Club (July 9-12) is the pivot point between John Deere week and Birkdale. Players who come out of Scotland with form tend to carry it into the Open; the conditions at The Renaissance Club — links turf, coastal wind, firm fairways — closely mirror what they will find on the Lancashire coast the following week.</p>
+
+    <p>Chris Gotterup, who won the John Deere Classic with a brilliant Sunday 62 and has prior links wins in Scotland, is potentially the most dangerous player to watch over this fortnight. Rory McIlroy, a former Birkdale champion who has been building toward a major breakthrough for several seasons, will treat both weeks as a connected campaign.</p>
+  </section>
+
+  <section>
+    <h2>LIV Players at the Open</h2>
+    <p>The Open Championship has maintained its tradition of welcoming LIV Golf players who hold major exemptions — a policy that distinguishes the R&amp;amp;A from the PGA Tour's stricter membership rules. Ballester, Surratt, and Uihlein are among the LIV players confirmed for the Birkdale field, giving the competition an unusual cross-circuit element that adds narrative interest if any of them contend.</p>
+
+    <p>The Heroes Classic charity event at Royal Birkdale on July 14 — two days before the Open begins — will provide the first public competitive look at the course in this summer's conditions, serving as an informal preview of the week ahead.</p>
+  </section>
+
+  <section>
+    <h2>What's Next</h2>
+    <p>The Scottish Open begins Thursday July 9 at The Renaissance Club. Four rounds of links golf there, then directly to Royal Birkdale for the 154th Open Championship on July 16. This fortnight is the heart of the summer golf calendar, and the combination of Scheffler, McIlroy, Gotterup, and a field loaded with elite talent from multiple tours sets the stage for one of the most anticipated Opens in years. The Claret Jug will be lifted on July 19 — but not before Birkdale has had the final say.</p>
+  </section>
+</article>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-05-open-championship-countdown-royal-birkdale" placeholder="Edit content here...">&lt;article&gt;
+  &lt;header&gt;
+    &lt;h1&gt;Ten Days to Birkdale: The Open Championship Storylines That Will Define the 154th Edition&lt;/h1&gt;
+    &lt;p class=&quot;byline&quot;&gt;By Jake Torres | Golf Fanrecap | July 6, 2026&lt;/p&gt;
+  &lt;/header&gt;
+
+  &lt;section&gt;
+    &lt;p&gt;The 154th Open Championship is ten days away. Royal Birkdale Golf Club in Southport will host the oldest major in golf on July 16-19, and the week between now and Thursday&#x27;s opening round will be defined by two things: the Genesis Scottish Open, which serves as the sport&#x27;s final links tune-up, and the building anticipation around a field that may be as balanced and compelling as any Open in recent memory.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;Scheffler Defending at Birkdale&lt;/h2&gt;
+    &lt;p&gt;Scottie Scheffler arrives at Royal Birkdale as the defending Open champion — he won the 153rd edition at Royal Portrush in 2025 in a display that underlined his status as the world&#x27;s best player. Defending any major is difficult; defending at the Open, where the links conditions demand specific skills and the field is global in its talent, adds an additional layer of complexity.&lt;/p&gt;
+
+    &lt;p&gt;Scheffler&#x27;s consistency makes him the natural favourite. He has won four PGA Tour events in the last twelve months, tied with Chris Gotterup for the most on Tour. His ball-striking, which is the single most important weapon a player can carry to a British links, is without peer in the current game. Birkdale suits him.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;The Scottish Open Tune-Up&lt;/h2&gt;
+    &lt;p&gt;The Genesis Scottish Open at The Renaissance Club (July 9-12) is the pivot point between John Deere week and Birkdale. Players who come out of Scotland with form tend to carry it into the Open; the conditions at The Renaissance Club — links turf, coastal wind, firm fairways — closely mirror what they will find on the Lancashire coast the following week.&lt;/p&gt;
+
+    &lt;p&gt;Chris Gotterup, who won the John Deere Classic with a brilliant Sunday 62 and has prior links wins in Scotland, is potentially the most dangerous player to watch over this fortnight. Rory McIlroy, a former Birkdale champion who has been building toward a major breakthrough for several seasons, will treat both weeks as a connected campaign.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;LIV Players at the Open&lt;/h2&gt;
+    &lt;p&gt;The Open Championship has maintained its tradition of welcoming LIV Golf players who hold major exemptions — a policy that distinguishes the R&amp;amp;A from the PGA Tour&#x27;s stricter membership rules. Ballester, Surratt, and Uihlein are among the LIV players confirmed for the Birkdale field, giving the competition an unusual cross-circuit element that adds narrative interest if any of them contend.&lt;/p&gt;
+
+    &lt;p&gt;The Heroes Classic charity event at Royal Birkdale on July 14 — two days before the Open begins — will provide the first public competitive look at the course in this summer&#x27;s conditions, serving as an informal preview of the week ahead.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+    &lt;p&gt;The Scottish Open begins Thursday July 9 at The Renaissance Club. Four rounds of links golf there, then directly to Royal Birkdale for the 154th Open Championship on July 16. This fortnight is the heart of the summer golf calendar, and the combination of Scheffler, McIlroy, Gotterup, and a field loaded with elite talent from multiple tours sets the stage for one of the most anticipated Opens in years. The Claret Jug will be lifted on July 19 — but not before Birkdale has had the final say.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-05-open-championship-countdown-royal-birkdale">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-05-open-championship-countdown-royal-birkdale')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-05-open-championship-countdown-royal-birkdale')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-05-open-championship-countdown-royal-birkdale">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-05-open-championship-countdown-royal-birkdale')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-05-open-championship-countdown-royal-birkdale')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-05-open-championship-countdown-royal-birkdale')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-05-open-championship-countdown-royal-birkdale')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-05-open-championship-countdown-royal-birkdale">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-05-open-championship-countdown-royal-birkdale" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-05-open-championship-countdown-royal-birkdale"></div>
+                </div>
+            </div>
+
+            <div class="empty-state" id="empty-state" style="display: none;">
+                <div class="empty-state-icon">No items match your filter</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Schedule settings modal -->
+    <div class="schedule-overlay" id="schedule-overlay" onclick="closeSchedulePanel()"></div>
+    <div class="schedule-panel" id="schedule-panel">
+        <h3>Posting Schedule Settings</h3>
+        <div class="schedule-section">
+            <label>Post Date (defaults to content date)</label>
+            <input type="date" id="schedule-date" />
+        </div>
+        <div class="schedule-section">
+            <label>X / Twitter Time Slots</label>
+            <div class="time-slots" id="x-time-slots"></div>
+            <div style="margin-top:8px;">
+                <input type="time" id="new-x-time" style="width:auto;display:inline-block;margin-right:8px;" />
+                <span class="add-slot-btn" onclick="addTimeSlot('x')">+ Add Slot</span>
+            </div>
+        </div>
+        <div class="schedule-section">
+            <label>Facebook Time Slots</label>
+            <div class="time-slots" id="fb-time-slots"></div>
+            <div style="margin-top:8px;">
+                <input type="time" id="new-fb-time" style="width:auto;display:inline-block;margin-right:8px;" />
+                <span class="add-slot-btn" onclick="addTimeSlot('fb')">+ Add Slot</span>
+            </div>
+        </div>
+        <div class="schedule-section" style="background:#f9f9f9;padding:12px;border-radius:6px;font-size:12px;color:#666;">
+            Posts will be assigned to time slots in order. If you have more posts than slots, they wrap around. After downloading, upload the file directly to PostPlanner via Bulk Upload.
+        </div>
+        <div class="schedule-actions">
+            <button class="btn btn-secondary" onclick="closeSchedulePanel()">Cancel</button>
+            <button class="btn btn-csv" onclick="generateAndDownload()">Generate &amp; Download XLSX</button>
+        </div>
+    </div>
+
+    <!-- SheetJS for XLSX generation (loaded async so it doesn't block) -->
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+    <script>
+
+        const DATE = '2026-07-06';
+        const BRAND_NAME = 'Golf Fanrecap';
+        const REVIEW_STORAGE_KEY = 'golf-content-review';
+        const SCHEDULE_STORAGE_KEY = 'golf-content-schedule-config';
+        const PHOTO_SOURCE = 'imagn';
+        let reviewData = {};
+        const allStories = [{"id": "story-1-daily_brief", "title": "Gotterup Wins John Deere Classic With Stunning 62 \u2014 Third PGA Tour Win of 2026", "content": "Gotterup Wins John Deere Classic With Stunning 62 \u2014 Third PGA Tour Win of 2026\n- **Tier:** 1", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-1-x_post-1", "title": "Gotterup Wins John Deere Classic With Stunning 62 \u2014 Third PGA Tour Win of 2026", "content": "CHRIS GOTTERUP WINS THE JOHN DEERE CLASSIC \ud83c\udfc6\n\nDown 5 heading into Sunday. Final round 62 (9-under). Won by ONE over Max Homa.\n\nBen Kohles hit into the water on 18 trying to tie. Heartbreak at TPC Deere Run.\n\nGotterup's 3rd PGA Tour win of 2026. The man is ON FIRE. \u26f3 #PGATour", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#PGATour", "tweet_label": "Post 1-1"}, {"id": "story-1-x_post-2", "title": "Gotterup Wins John Deere Classic With Stunning 62 \u2014 Third PGA Tour Win of 2026", "content": "Three wins in 2026. Five career wins in 84 starts.\n\nChris Gotterup is now tied with Scottie Scheffler for the most PGA Tour wins over the last 12 months \u2014 four each.\n\nOh, and his brother Patrick was on the bag this week. \ud83c\udfc6\n\nWhat a run. #PGATour #JohnDeere", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#PGATour #JohnDeere", "tweet_label": "Post 1-2"}, {"id": "story-1-image_concept", "title": "Gotterup Wins John Deere Classic With Stunning 62 \u2014 Third PGA Tour Win of 2026 \u2014 Image Concept", "content": "**Image \u2014 **\n", "type": "image_concept", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-2-daily_brief", "title": "Scottish Open Preview \u2014 Scheffler, McIlroy, LIV Players Head to Renaissance Club (July 9)", "content": "Scottish Open Preview \u2014 Scheffler, McIlroy, LIV Players Head to Renaissance Club (July 9)\n- **Tier:** 1", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-2-x_post-1", "title": "Scottish Open Preview \u2014 Scheffler, McIlroy, LIV Players Head to Renaissance Club (July 9)", "content": "The Open tune-up begins Thursday.\n\nGenesis Scottish Open | July 9-12 | The Renaissance Club, North Berwick\n\nField: Scottie Scheffler, Rory McIlroy, LIV players with exemptions, and a very confident Chris Gotterup.\n\nLinks golf. Wind. Drama. \u26f3 #ScottishOpen #PGATour", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#ScottishOpen #PGATour", "tweet_label": "Post 2"}, {"id": "story-2-image_concept", "title": "Scottish Open Preview \u2014 Scheffler, McIlroy, LIV Players Head to Renaissance Club (July 9) \u2014 Image Concept", "content": "**Image \u2014 **\n", "type": "image_concept", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-3-daily_brief", "title": "LIV Golf Financial Crisis \u2014 Running on Loans With $400M Shortfall, 4 Events Left", "content": "LIV Golf Financial Crisis \u2014 Running on Loans With $400M Shortfall, 4 Events Left\n- **Tier:** 2", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-3-x_post-1", "title": "LIV Golf Financial Crisis \u2014 Running on Loans With $400M Shortfall, 4 Events Left", "content": "LIV Golf is running on loans to finish 2026.\n\nCompany filings show the PIF is now lending \u2014 not investing \u2014 to keep the tour going.\n\n$400M still owed. $100M/month burn rate. 4 events left.\n\nThe future of LIV beyond 2026 is an open question. #LIVGolf #Golf", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#LIVGolf #Golf", "tweet_label": "Post 3"}, {"id": "story-3-image_concept", "title": "LIV Golf Financial Crisis \u2014 Running on Loans With $400M Shortfall, 4 Events Left \u2014 Image Concept", "content": "**Image \u2014 **\n", "type": "image_concept", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-4-daily_brief", "title": "Evian Championship Preview \u2014 LPGA's Next Major Heads to France (July 9-12)", "content": "Evian Championship Preview \u2014 LPGA's Next Major Heads to France (July 9-12)\n- **Tier:** 2", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-4-x_post-1", "title": "Evian Championship Preview \u2014 LPGA's Next Major Heads to France (July 9-12)", "content": "The Amundi Evian Championship begins Thursday in France.\n\nLakeside setting. French Alps. One of the most beautiful major venues in golf.\n\nHaeran Ryu enters as the freshest major winner.\n\nWho claims the Evian title? July 9-12. #LPGA #EvianChampionship #Golf", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#LPGA #EvianChampionship #Golf", "tweet_label": "Post 4"}, {"id": "story-4-image_concept", "title": "Evian Championship Preview \u2014 LPGA's Next Major Heads to France (July 9-12) \u2014 Image Concept", "content": "**Image \u2014 **\n", "type": "image_concept", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-5-daily_brief", "title": "Open Championship Countdown \u2014 10 Days Until Royal Birkdale", "content": "Open Championship Countdown \u2014 10 Days Until Royal Birkdale\n- **Tier:** 2", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-5-x_post-1", "title": "Open Championship Countdown \u2014 10 Days Until Royal Birkdale", "content": "10 days until the Claret Jug is lifted at Royal Birkdale.\n\n154th Open Championship | July 16-19 | Southport\n\nScheffler defending. Scottish Open is the tune-up. LIV players eligible.\n\nThe oldest major in golf is almost here. \u26f3 #TheOpen #Golf", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#TheOpen #Golf", "tweet_label": "Post 5"}, {"id": "story-5-image_concept", "title": "Open Championship Countdown \u2014 10 Days Until Royal Birkdale \u2014 Image Concept", "content": "**Image \u2014 **\n", "type": "image_concept", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-01-gotterup-wins-john-deere-classic", "title": "Gotterup Fires 62 to Win John Deere Classic \u2014 Three PGA Tour Wins in 2026", "content": "<article>\n  <header>\n    <h1>Gotterup Fires 62 to Win John Deere Classic \u2014 Three PGA Tour Wins in 2026<\/h1>\n    <p class=\"byline\">By Ryan Calloway | Golf Fanrecap | July 6, 2026<\/p>\n  <\/header>\n\n  <section>\n    <p>Chris Gotterup arrived at TPC Deere Run for the John Deere Classic's final round five shots behind the leaders. He left with the trophy.<\/p>\n\n    <p>Gotterup's stunning Sunday 62 \u2014 nine under par on a day when the tournament leaderboard was tight and the nerves were real \u2014 propelled him from the back of the pack to a one-stroke victory over Max Homa. Final total: 20-under 264. Third PGA Tour win of the 2026 season. Fifth career victory in 84 starts as a professional.<\/p>\n  <\/section>\n\n  <section>\n    <h2>The Kohles Heartbreak at 18<\/h2>\n    <p>The win had a dramatic final act. Ben Kohles, a veteran searching for his first PGA Tour title in his 120th start, stood on the 18th tee tied for the lead with the outcome still very much undecided. Par would force a playoff. Kohles hit his approach shot left. The ball found the water. A double bogey followed \u2014 and with it, the title slipped away. He finished in a tie for third, one shot behind Gotterup and Homa.<\/p>\n\n    <p>It was one of the more agonizing finishes of the season. Kohles, who had played the kind of week that professional golfers spend years chasing, had his moment and could not hold it. The sport offers no comfort for near-misses at 120 starts.<\/p>\n  <\/section>\n\n  <section>\n    <h2>A Brothers' Week<\/h2>\n    <p>Gotterup had a somewhat unusual addition to his team this week: his brother Patrick was on the bag. Whatever the extra family dynamic brought to the atmosphere inside the ropes, it clearly worked. Gotterup's 62 was the low round of the tournament on Sunday, a clinical, aggressive display from a player who has made a habit of peak Sunday performances throughout 2026.<\/p>\n\n    <p>His three wins this year \u2014 the Sony Open, the Phoenix Open, and now the John Deere \u2014 make him one of only two players with three victories in the 2026 season, alongside Matt Fitzpatrick. More significantly, Gotterup is now tied with world No. 1 Scottie Scheffler for the most PGA Tour wins over the last twelve months. Four each. That is the company Gotterup is keeping now.<\/p>\n  <\/section>\n\n  <section>\n    <h2>Spieth Survives; Koivun Debuts<\/h2>\n    <p>Two secondary storylines added depth to the week at TPC Deere Run. Jordan Spieth, navigating a complicated stretch of form, survived the cut \u2014 a modest result for a former world No. 1, but a noteworthy one. And Jackson Koivun made his professional debut at the John Deere Classic, gaining his first competitive exposure to Tour conditions and pressure before falling short of contention.<\/p>\n  <\/section>\n\n  <section>\n    <h2>What's Next<\/h2>\n    <p>Gotterup heads directly to Scotland, where the Genesis Scottish Open at The Renaissance Club begins Thursday July 9 \u2014 his next opportunity to build on what is now one of the most compelling individual runs in the game. The Open Championship follows July 16-19 at Royal Birkdale. Gotterup, who has shown the ability to win in links conditions, enters the summer's biggest fortnight as one of the most dangerous players on either side of the Atlantic.<\/p>\n  <\/section>\n<\/article>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-02-scottish-open-preview-renaissance-club", "title": "Scottish Open Preview: Scheffler, McIlroy, Gotterup Head to Renaissance Club as Open Looms", "content": "<article>\n  <header>\n    <h1>Scottish Open Preview: Scheffler, McIlroy, Gotterup Head to Renaissance Club as Open Looms<\/h1>\n    <p class=\"byline\">By Jake Torres | Golf Fanrecap | July 6, 2026<\/p>\n  <\/header>\n\n  <section>\n    <p>The Open Championship is ten days away. Before the world descends on Royal Birkdale, the game's best players converge on the East Lothian coast for the tournament that has long served as the most reliable predictor of Open form \u2014 the Genesis Scottish Open at The Renaissance Club in North Berwick, running July 9-12.<\/p>\n\n    <p>The co-sanctioned PGA Tour and DP World Tour event draws a field that includes Scottie Scheffler, Rory McIlroy, and \u2014 a touch of the ongoing circuit rivalry \u2014 LIV Golf players who hold major exemptions. It is the richest, most competitive field of the summer, assembled in exactly the conditions that matter most.<\/p>\n  <\/section>\n\n  <section>\n    <h2>Scheffler: Defending Champion Heading to Links Country<\/h2>\n    <p>Scottie Scheffler arrives at The Renaissance Club as the world's No. 1 player and the defending Open champion. He won at Royal Portrush in 2025 in a performance that removed any lingering doubt about his status as the best in the game. Scottish links golf suits his ball-striking precision and ability to manage wind and trajectory \u2014 the same skills that made him nearly impossible to beat at Portrush.<\/p>\n\n    <p>Scheffler has been consistent without being dominant in recent weeks, and the Scottish Open represents his clearest opportunity to tune his links game before the Open itself.<\/p>\n  <\/section>\n\n  <section>\n    <h2>McIlroy's Motivation<\/h2>\n    <p>Rory McIlroy brings a particular motivation to North Berwick. The Northern Irishman is chasing form, and Scotland's links courses are the landscape where he has built some of the most significant chapters of his career. The crowd at The Renaissance Club will be supportive \u2014 Scottish golf fans are generous to the game's marquee names \u2014 and McIlroy will be using the week as a confidence exercise as much as a competitive one ahead of Birkdale.<\/p>\n\n    <p>McIlroy's Open record at links venues is remarkable. The question, as it has been for much of the past few seasons, is whether he can string together the week that puts everything together when it matters most.<\/p>\n  <\/section>\n\n  <section>\n    <h2>Gotterup's Momentum<\/h2>\n    <p>Fresh off winning the John Deere Classic with a brilliant Sunday 62, Chris Gotterup enters the Scottish Open with as much momentum as any player in professional golf. He has won three times in 2026. He is tied with Scheffler for the most Tour wins in the last twelve months. And he has links form \u2014 a previous win in Scotland against McIlroy demonstrates that his game translates to links conditions.<\/p>\n\n    <p>The LIV players with exemptions add an interesting wrinkle to the field. The Scottish Open is one of the rare events where the two tours' top performers share a leaderboard, and the competitive dynamic will be closely watched ahead of the Open, where the same players will be eligible to compete.<\/p>\n  <\/section>\n\n  <section>\n    <h2>What's Next<\/h2>\n    <p>The Genesis Scottish Open begins Thursday July 9 at The Renaissance Club. Four rounds of links golf on the East Lothian coast, with the Open Championship looming directly afterward at Royal Birkdale. Whoever emerges from Scotland with form, momentum, and confidence will carry real advantage into one of the most anticipated Opens in recent memory.<\/p>\n  <\/section>\n<\/article>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-03-liv-golf-financial-crisis-loans", "title": "LIV Golf Is Running on Loans to Finish 2026 \u2014 and the Future Beyond This Year Remains Uncertain", "content": "<article>\n  <header>\n    <h1>LIV Golf Is Running on Loans to Finish 2026 \u2014 and the Future Beyond This Year Remains Uncertain<\/h1>\n    <p class=\"byline\">By Marcus Cole | Golf Fanrecap | July 6, 2026<\/p>\n  <\/header>\n\n  <section>\n    <p>Company filings have confirmed what many observers had suspected for months: LIV Golf is no longer operating on capital investment. It is running on loans.<\/p>\n\n    <p>Documents filed in the United Kingdom and Jersey reveal that Saudi Arabia's Public Investment Fund \u2014 which founded and has bankrolled the league since its launch \u2014 has transitioned from investor to lender. The PIF has established a debenture lending facility that is effectively funding LIV's day-to-day operations while the league's leadership searches for new outside investors to take over what has become a multi-billion-dollar annual commitment.<\/p>\n  <\/section>\n\n  <section>\n    <h2>The Numbers<\/h2>\n    <p>LIV Golf spends approximately $100 million per month \u2014 covering player contracts, event operations, prize purses, and overhead. In 2026, the PIF provided $333 million ($267 million in February and $66 million in May) before transitioning to the lending facility in June and adding another $130 million. That represents roughly five months of operational funding. The league reportedly still needs approximately $400 million to fully fund its remaining 2026 events and honour existing player commitments.<\/p>\n\n    <p>Four tournaments remain on the 2026 schedule: LIV Golf United Kingdom at JCB Golf & Country Club (July 23-26), LIV Golf New York (August 6-9), LIV Golf Indianapolis (August 20-23), and the $40 million LIV Team Championship in Michigan (August 27-30). Reports suggest the United Kingdom event faces the most uncertainty of the four; the New York event is currently considered the most likely to proceed.<\/p>\n  <\/section>\n\n  <section>\n    <h2>PIF's Stated Commitment<\/h2>\n    <p>The Public Investment Fund announced earlier in 2026 that it would fund LIV only through the end of the current season. The implication is direct: beyond December 2026, LIV Golf's operational structure either finds new investment, negotiates a sale or merger, or winds down. No announcement about 2027 has been made. No new investors have been publicly confirmed.<\/p>\n\n    <p>For the players \u2014 many of whom signed multi-year guaranteed contracts worth tens of millions of dollars to join the league \u2014 the financial news adds uncertainty to what was supposed to be a period of stability. The contracts themselves are not in immediate jeopardy if the league completes the 2026 season, but the longer-term picture remains opaque.<\/p>\n  <\/section>\n\n  <section>\n    <h2>What's Next<\/h2>\n    <p>The immediate question is whether all four remaining 2026 events will take place. The UK event at JCB is the next test \u2014 scheduled for July 23-26, just two weeks away. If the financial gap is not bridged before that date, the uncertainty will intensify. LIV Golf launched in 2022 with ambitions to reshape professional golf; in 2026, the project is being kept alive, event by event, on loans.<\/p>\n  <\/section>\n<\/article>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-04-evian-championship-lpga-preview", "title": "Evian Championship Preview: LPGA's Lakeside Major Returns to the French Alps", "content": "<article>\n  <header>\n    <h1>Evian Championship Preview: LPGA's Lakeside Major Returns to the French Alps<\/h1>\n    <p class=\"byline\">By Ryan Calloway | Golf Fanrecap | July 6, 2026<\/p>\n  <\/header>\n\n  <section>\n    <p>While men's golf turns its attention to Scotland and the build-up to the Open Championship, the women's game has its own major championship on the horizon \u2014 and it comes with one of the most striking backdrops in professional sports.<\/p>\n\n    <p>The Amundi Evian Championship begins Thursday, July 9, at the Evian Resort Golf Club in Evian-les-Bains, France. The course sits on a hillside above Lake Geneva, with the French Alps visible in the distance on clear days, and the tournament has earned its place as one of the most visually spectacular events on the LPGA calendar.<\/p>\n  <\/section>\n\n  <section>\n    <h2>Haeran Ryu Enters as Freshest Major Champion<\/h2>\n    <p>Haeran Ryu arrives at Evian as the most recent major winner on tour. The South Korean claimed the Women's PGA Championship at Hazeltine National Golf Club for her first major title, winning by two strokes over Ina Yoon in windy conditions. It was the kind of performance that announced a player ready to build on momentum \u2014 and Evian, just weeks later, offers exactly that opportunity.<\/p>\n\n    <p>Whether Ryu can carry the emotional energy of a first major win into a second successive major remains the central storyline of the week. History suggests that players who win their first major often arrive at the next event with either extraordinary confidence or the weight of new expectations. For Ryu, who showed composure under pressure at Hazeltine, the smart money is on confidence.<\/p>\n  <\/section>\n\n  <section>\n    <h2>The LPGA's Major Championship Stretch<\/h2>\n    <p>The Evian Championship is the fourth LPGA major of the 2026 season. After France, the calendar turns to the ISPS HANDA Women's Scottish Open at Dundonald Links (July 23-26), followed immediately by the AIG Women's Open at Royal Lytham and St Annes in England (July 30 to August 2). That sequence \u2014 Evian, Women's Scottish Open, Women's Open \u2014 represents the richest three-week stretch on the women's global calendar, offering the game's best players their most concentrated window of major championship opportunity.<\/p>\n\n    <p>Korean players have dominated the LPGA's major landscape in recent seasons, and the Evian's field typically reflects that trend, with a strong contingent from the Korea Ladies Professional Golf Association system competing alongside American, European, and Japanese stars.<\/p>\n  <\/section>\n\n  <section>\n    <h2>What's Next<\/h2>\n    <p>The Amundi Evian Championship runs July 9-12. The winner emerges with a major title, a trophy presentation on the hillside above Lake Geneva, and a place in one of professional golf's most beautiful week-long memories. After France, the women's game moves directly into the Scottish Open and the AIG Women's Open \u2014 a run of events that will define the summer for whoever can sustain form across three demanding weeks.<\/p>\n  <\/section>\n<\/article>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-05-open-championship-countdown-royal-birkdale", "title": "Ten Days to Birkdale: The Open Championship Storylines That Will Define the 154th Edition", "content": "<article>\n  <header>\n    <h1>Ten Days to Birkdale: The Open Championship Storylines That Will Define the 154th Edition<\/h1>\n    <p class=\"byline\">By Jake Torres | Golf Fanrecap | July 6, 2026<\/p>\n  <\/header>\n\n  <section>\n    <p>The 154th Open Championship is ten days away. Royal Birkdale Golf Club in Southport will host the oldest major in golf on July 16-19, and the week between now and Thursday's opening round will be defined by two things: the Genesis Scottish Open, which serves as the sport's final links tune-up, and the building anticipation around a field that may be as balanced and compelling as any Open in recent memory.<\/p>\n  <\/section>\n\n  <section>\n    <h2>Scheffler Defending at Birkdale<\/h2>\n    <p>Scottie Scheffler arrives at Royal Birkdale as the defending Open champion \u2014 he won the 153rd edition at Royal Portrush in 2025 in a display that underlined his status as the world's best player. Defending any major is difficult; defending at the Open, where the links conditions demand specific skills and the field is global in its talent, adds an additional layer of complexity.<\/p>\n\n    <p>Scheffler's consistency makes him the natural favourite. He has won four PGA Tour events in the last twelve months, tied with Chris Gotterup for the most on Tour. His ball-striking, which is the single most important weapon a player can carry to a British links, is without peer in the current game. Birkdale suits him.<\/p>\n  <\/section>\n\n  <section>\n    <h2>The Scottish Open Tune-Up<\/h2>\n    <p>The Genesis Scottish Open at The Renaissance Club (July 9-12) is the pivot point between John Deere week and Birkdale. Players who come out of Scotland with form tend to carry it into the Open; the conditions at The Renaissance Club \u2014 links turf, coastal wind, firm fairways \u2014 closely mirror what they will find on the Lancashire coast the following week.<\/p>\n\n    <p>Chris Gotterup, who won the John Deere Classic with a brilliant Sunday 62 and has prior links wins in Scotland, is potentially the most dangerous player to watch over this fortnight. Rory McIlroy, a former Birkdale champion who has been building toward a major breakthrough for several seasons, will treat both weeks as a connected campaign.<\/p>\n  <\/section>\n\n  <section>\n    <h2>LIV Players at the Open<\/h2>\n    <p>The Open Championship has maintained its tradition of welcoming LIV Golf players who hold major exemptions \u2014 a policy that distinguishes the R&amp;A from the PGA Tour's stricter membership rules. Ballester, Surratt, and Uihlein are among the LIV players confirmed for the Birkdale field, giving the competition an unusual cross-circuit element that adds narrative interest if any of them contend.<\/p>\n\n    <p>The Heroes Classic charity event at Royal Birkdale on July 14 \u2014 two days before the Open begins \u2014 will provide the first public competitive look at the course in this summer's conditions, serving as an informal preview of the week ahead.<\/p>\n  <\/section>\n\n  <section>\n    <h2>What's Next<\/h2>\n    <p>The Scottish Open begins Thursday July 9 at The Renaissance Club. Four rounds of links golf there, then directly to Royal Birkdale for the 154th Open Championship on July 16. This fortnight is the heart of the summer golf calendar, and the combination of Scheffler, McIlroy, Gotterup, and a field loaded with elite talent from multiple tours sets the stage for one of the most anticipated Opens in years. The Claret Jug will be lifted on July 19 \u2014 but not before Birkdale has had the final say.<\/p>\n  <\/section>\n<\/article>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}];
+        const imageManifest = {};
+        let imageURLs = {}; // Runtime store: {'1_x_image': 'url', '1_facebook_image': 'url', ...}
+
+        // Image URL management
+        function updateImageURL(inputEl) {
+            var story = inputEl.dataset.story;
+            var platform = inputEl.dataset.platform;
+            var url = inputEl.value.trim();
+            var key = story + '_' + platform;
+            imageURLs[key] = url;
+
+            // Update preview thumbnail
+            var preview = document.getElementById('img-preview-' + story + '-' + platform);
+            if (preview) {
+                if (url) {
+                    preview.src = url;
+                    preview.classList.add('loaded');
+                    preview.onerror = function() { this.classList.remove('loaded'); };
+                } else {
+                    preview.src = '';
+                    preview.classList.remove('loaded');
+                }
+            }
+        }
+
+        function getImageURLForStory(storyTitle, platform) {
+            // Try runtime imageURLs first (user-pasted)
+            // Extract story number from title
+            for (var key in imageURLs) {
+                if (imageURLs[key] && key.endsWith('_' + platform)) {
+                    var storyNum = key.split('_')[0];
+                    // Check if this story matches by looking at allStories
+                    for (var i = 0; i < allStories.length; i++) {
+                        if (allStories[i].title === storyTitle &&
+                            allStories[i].id.indexOf('story-' + storyNum) !== -1) {
+                            return imageURLs[key];
+                        }
+                    }
+                }
+            }
+
+            // Try manifest data
+            for (var num in imageManifest) {
+                var mdata = imageManifest[num];
+                if (mdata && mdata[platform] && mdata[platform].exported_url) {
+                    // Check if this story number matches
+                    for (var j = 0; j < allStories.length; j++) {
+                        if (allStories[j].title === storyTitle &&
+                            allStories[j].id.indexOf('story-' + num) !== -1) {
+                            return mdata[platform].exported_url;
+                        }
+                    }
+                }
+            }
+
+            return '';
+        }
+
+        function initializeApp() {
+            const saved = localStorage.getItem(REVIEW_STORAGE_KEY + '-' + DATE);
+            if (saved) {
+                try {
+                    reviewData = JSON.parse(saved);
+                } catch (e) {
+                    reviewData = {};
+                }
+            }
+
+            allStories.forEach(function(story) {
+                if (!reviewData[story.id]) {
+                    reviewData[story.id] = {
+                        id: story.id,
+                        type: story.type,
+                        status: 'unreviewed',
+                        notes: '',
+                        content: story.content,
+                        editedContent: null
+                    };
+                }
+                // Migrate old data: ensure editedContent field exists
+                if (reviewData[story.id].editedContent === undefined) {
+                    reviewData[story.id].editedContent = null;
+                }
+            });
+
+            // Restore UI state
+            Object.keys(reviewData).forEach(function(storyId) {
+                var data = reviewData[storyId];
+                var card = document.querySelector('[data-id="' + storyId + '"]');
+                if (card) {
+                    card.setAttribute('data-status', data.status);
+                    var textarea = document.getElementById('textarea-' + storyId);
+                    if (textarea) textarea.value = data.notes || '';
+                    // If content was edited, update the display and editor
+                    if (data.editedContent) {
+                        var contentText = card.querySelector('.card-content-text');
+                        if (contentText) contentText.textContent = data.editedContent;
+                        var editor = document.getElementById('editor-' + storyId);
+                        if (editor) editor.value = data.editedContent;
+                    }
+                    updateCardVisuals(storyId, data.status, !!data.editedContent);
+                }
+            });
+
+            updateProgress();
+            filterByStatus('all');
+        }
+
+        function toggleExpand(storyId) {
+            var content = document.getElementById('content-' + storyId);
+            var toggle = document.getElementById('toggle-' + storyId);
+            if (content.classList.contains('collapsed')) {
+                content.classList.remove('collapsed');
+                content.classList.add('expanded');
+                toggle.textContent = 'Collapse';
+            } else {
+                content.classList.remove('expanded');
+                content.classList.add('collapsed');
+                toggle.textContent = 'Show Full Content';
+            }
+        }
+
+        function startEdit(storyId) {
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (!card) return;
+            card.classList.add('editing');
+            var editor = document.getElementById('editor-' + storyId);
+            if (editor) {
+                // If previously edited, load edited content; otherwise load original
+                var data = reviewData[storyId];
+                if (data && data.editedContent) {
+                    editor.value = data.editedContent;
+                }
+                editor.focus();
+                // Auto-resize for articles
+                editor.style.minHeight = Math.max(300, editor.scrollHeight) + 'px';
+            }
+        }
+
+        function saveAndApprove(storyId) {
+            var editor = document.getElementById('editor-' + storyId);
+            if (!editor) return;
+            var newContent = editor.value;
+
+            // Save the edited content
+            if (!reviewData[storyId]) {
+                reviewData[storyId] = { id: storyId, status: 'approved', notes: '', content: '', editedContent: null };
+            }
+            reviewData[storyId].editedContent = newContent;
+
+            // Update the display text
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            var contentText = card ? card.querySelector('.card-content-text') : null;
+            if (contentText) contentText.textContent = newContent;
+
+            // Exit edit mode
+            if (card) card.classList.remove('editing');
+
+            // Approve
+            setStatus(storyId, 'approved');
+            updateCardVisuals(storyId, 'approved', true);
+
+            // Update char count for X posts
+            updateCharCount(storyId, newContent);
+        }
+
+        function cancelEdit(storyId) {
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (card) card.classList.remove('editing');
+        }
+
+        function updateCharCount(storyId, text) {
+            var el = document.getElementById('charcount-' + storyId);
+            if (!el) return;
+            // Strip metadata tags before counting
+            var clean = text.replace(/\[CHARACTER COUNT:.*?\]/gi, '');
+            clean = clean.replace(/\[CHAR COUNT:.*?\]/gi, '');
+            clean = clean.replace(/\[\d+\/280\]/g, '');
+            // Remove URLs for Twitter count
+            var textNoUrls = clean.replace(/https?:\/\/\S+/g, '');
+            var count = textNoUrls.trim().length;
+            el.textContent = 'Characters: ' + count + '/280' + (count > 280 ? '  OVER LIMIT' : '');
+            el.className = count > 280 ? 'char-count warning' : 'char-count';
+        }
+
+        function approveCard(storyId) {
+            setStatus(storyId, 'approved');
+            document.getElementById('notes-' + storyId).classList.remove('show');
+        }
+
+        function rejectCard(storyId) {
+            setStatus(storyId, 'rejected');
+            document.getElementById('notes-' + storyId).classList.add('show');
+        }
+
+        function setStatus(storyId, status) {
+            if (!reviewData[storyId]) {
+                var story = allStories.find(function(s) { return s.id === storyId; });
+                reviewData[storyId] = {
+                    id: storyId,
+                    type: story ? story.type : '',
+                    status: status,
+                    notes: '',
+                    content: story ? story.content : '',
+                    editedContent: null
+                };
+            }
+
+            reviewData[storyId].status = status;
+
+            var textarea = document.getElementById('textarea-' + storyId);
+            if (textarea) reviewData[storyId].notes = textarea.value;
+
+            localStorage.setItem(REVIEW_STORAGE_KEY + '-' + DATE, JSON.stringify(reviewData));
+
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (card) card.setAttribute('data-status', status);
+            updateCardVisuals(storyId, status, !!(reviewData[storyId] && reviewData[storyId].editedContent));
+            updateProgress();
+        }
+
+        function updateCardVisuals(storyId, status, wasEdited) {
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (!card) return;
+
+            card.classList.remove('approved', 'needs-edit', 'rejected');
+            if (status !== 'unreviewed') card.classList.add(status);
+
+            var statusLabel = document.getElementById('status-' + storyId);
+            if (statusLabel) {
+                statusLabel.className = 'status-label';
+                if (status === 'approved' && wasEdited) {
+                    statusLabel.textContent = 'APPROVED (EDITED)';
+                    statusLabel.classList.add('status-edited');
+                } else if (status === 'approved') {
+                    statusLabel.textContent = 'APPROVED';
+                    statusLabel.classList.add('status-approved');
+                } else if (status === 'needs-edit') {
+                    statusLabel.textContent = 'NEEDS EDIT';
+                    statusLabel.classList.add('status-needs-edit');
+                } else if (status === 'rejected') {
+                    statusLabel.textContent = 'REJECTED';
+                    statusLabel.classList.add('status-rejected');
+                } else {
+                    statusLabel.textContent = '';
+                }
+            }
+        }
+
+        function updateProgress() {
+            var approved = 0, rejected = 0, unreviewed = 0;
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (!data || data.status === 'unreviewed') unreviewed++;
+                else if (data.status === 'approved') approved++;
+                else if (data.status === 'rejected') rejected++;
+                else unreviewed++;
+            });
+            var reviewed = approved + rejected;
+            var total = allStories.length;
+            var percentage = total > 0 ? (reviewed / total * 100) : 0;
+            document.getElementById('reviewed-count').textContent = reviewed;
+            document.getElementById('total-count').textContent = total;
+            document.getElementById('progress-fill').style.width = percentage + '%';
+            // Update stat chips
+            document.getElementById('stat-approved-count').textContent = approved;
+            document.getElementById('stat-rejected-count').textContent = rejected;
+            document.getElementById('stat-unreviewed-count').textContent = unreviewed;
+            // Update CSV button
+            var csvBtn = document.getElementById('btn-csv');
+            var tobiBtn = document.getElementById('btn-tobi');
+            var socialApproved = countApprovedSocialPosts();
+            if (csvBtn) {
+                if (socialApproved > 0) {
+                    csvBtn.disabled = false;
+                    csvBtn.textContent = 'PostPlanner Upload (' + socialApproved + ' posts)';
+                } else {
+                    csvBtn.disabled = true;
+                    csvBtn.textContent = 'PostPlanner Upload (0 approved)';
+                }
+            }
+            // Update TOBI button (counts only X/Twitter text posts)
+            if (tobiBtn) {
+                var xApproved = countApprovedXPosts();
+                if (xApproved > 0) {
+                    tobiBtn.disabled = false;
+                    tobiBtn.textContent = 'TOBI Upload (' + xApproved + ' posts)';
+                } else {
+                    tobiBtn.disabled = true;
+                    tobiBtn.textContent = 'TOBI Upload (0 approved)';
+                }
+            }
+        }
+
+        function countApprovedSocialPosts() {
+            var count = 0;
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (data && data.status === 'approved' && (story.type === 'x_post' || story.type === 'facebook')) {
+                    count++;
+                }
+            });
+            return count;
+        }
+
+        function countApprovedXPosts() {
+            var count = 0;
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (data && data.status === 'approved' && story.type === 'x_post') {
+                    count++;
+                }
+            });
+            return count;
+        }
+
+        function escapeCSVField(text) {
+            if (!text) return '';
+            // If field contains comma, quote, or newline, wrap in quotes and escape inner quotes
+            if (text.indexOf(',') !== -1 || text.indexOf('"') !== -1 || text.indexOf('\n') !== -1) {
+                return '"' + text.replace(/"/g, '""') + '"';
+            }
+            return text;
+        }
+
+        function extractHashtags(text) {
+            if (!text) return '';
+            var matches = text.match(/#\w+/g);
+            return matches ? matches.join(' ') : '';
+        }
+
+        // ========== POSTING SCHEDULE SYSTEM ==========
+        var defaultXSlots = ['09:00', '12:00', '15:00', '18:00', '21:00'];
+        var defaultFBSlots = ['10:00', '13:00', '17:00'];
+
+        function getScheduleConfig() {
+            var saved = localStorage.getItem(SCHEDULE_STORAGE_KEY);
+            if (saved) {
+                try { return JSON.parse(saved); } catch(e) {}
+            }
+            return { xSlots: defaultXSlots.slice(), fbSlots: defaultFBSlots.slice() };
+        }
+
+        function saveScheduleConfig(config) {
+            localStorage.setItem(SCHEDULE_STORAGE_KEY, JSON.stringify(config));
+        }
+
+        function renderTimeSlots() {
+            var config = getScheduleConfig();
+            var xContainer = document.getElementById('x-time-slots');
+            var fbContainer = document.getElementById('fb-time-slots');
+
+            xContainer.innerHTML = config.xSlots.map(function(t, i) {
+                return '<span class="time-slot">' + t + ' <span class="remove-slot" onclick="removeTimeSlot(\x27x\x27,' + i + ')">&times;</span></span>';
+            }).join('');
+
+            fbContainer.innerHTML = config.fbSlots.map(function(t, i) {
+                return '<span class="time-slot">' + t + ' <span class="remove-slot" onclick="removeTimeSlot(\x27fb\x27,' + i + ')">&times;</span></span>';
+            }).join('');
+        }
+
+        function addTimeSlot(platform) {
+            var inputId = platform === 'x' ? 'new-x-time' : 'new-fb-time';
+            var val = document.getElementById(inputId).value;
+            if (!val) return;
+            var config = getScheduleConfig();
+            var arr = platform === 'x' ? config.xSlots : config.fbSlots;
+            if (arr.indexOf(val) === -1) {
+                arr.push(val);
+                arr.sort();
+            }
+            saveScheduleConfig(config);
+            renderTimeSlots();
+            document.getElementById(inputId).value = '';
+        }
+
+        function removeTimeSlot(platform, index) {
+            var config = getScheduleConfig();
+            var arr = platform === 'x' ? config.xSlots : config.fbSlots;
+            arr.splice(index, 1);
+            saveScheduleConfig(config);
+            renderTimeSlots();
+        }
+
+        function downloadPostPlannerCSV() {
+            // Open schedule panel instead of direct download
+            openSchedulePanel();
+        }
+
+        function openSchedulePanel() {
+            document.getElementById('schedule-date').value = DATE;
+            renderTimeSlots();
+            document.getElementById('schedule-panel').classList.add('show');
+            document.getElementById('schedule-overlay').classList.add('show');
+        }
+
+        function closeSchedulePanel() {
+            document.getElementById('schedule-panel').classList.remove('show');
+            document.getElementById('schedule-overlay').classList.remove('show');
+        }
+
+        function formatTimeForPostPlanner(time24, dateStr) {
+            // Output PostPlanner V2 format: MM/DD/YYYY  HH:MM (24hr)
+            var parts = dateStr.split('-');
+            return parts[1] + '/' + parts[2] + '/' + parts[0] + '  ' + time24;
+        }
+
+        function redistributeTimes(rows) {
+            // Ensure all post times are at least 30 min from now,
+            // evenly spaced through the rest of the day.
+            if (rows.length === 0) return rows;
+
+            var now = new Date();
+            var nowMinutes = now.getHours() * 60 + now.getMinutes();
+            var floorMinutes = nowMinutes + 30;
+            var endMinutes = 22 * 60; // 10:00 PM cutoff
+
+            // Check if ANY post times have already passed
+            var anyPast = rows.some(function(row) {
+                var parts = row.time.split(':');
+                var rowMin = parseInt(parts[0], 10) * 60 + parseInt(parts[1], 10);
+                return rowMin < floorMinutes;
+            });
+
+            if (!anyPast) return rows; // all times are in the future, keep them
+
+            if (floorMinutes >= endMinutes) {
+                alert('It is past 9:30 PM — not enough time remaining to schedule all posts today. Posts will use original times.');
+                return rows;
+            }
+
+            var availableMinutes = endMinutes - floorMinutes;
+            var spacing = Math.floor(availableMinutes / rows.length);
+            if (spacing < 15) spacing = 15; // minimum 15 min gap
+            if (spacing > 90) spacing = 90; // maximum 90 min gap
+
+            rows.forEach(function(row, i) {
+                var postMinutes = floorMinutes + (i * spacing);
+                if (postMinutes >= 24 * 60) postMinutes = 23 * 60 + 45;
+                var h = Math.floor(postMinutes / 60);
+                var m = postMinutes % 60;
+                row.time = (h < 10 ? '0' : '') + h + ':' + (m < 10 ? '0' : '') + m;
+            });
+
+            var firstTime = rows[0].time;
+            var lastTime = rows[rows.length - 1].time;
+            console.log('PostPlanner export: redistributed ' + rows.length + ' posts from ' + firstTime + ' to ' + lastTime + ' (' + spacing + ' min apart)');
+            return rows;
+        }
+
+        // Parse actual time from posting_window string like "7:00 AM CT" -> "07:00"
+        function parsePostingTime(timeStr) {
+            if (!timeStr) return null;
+            var m = timeStr.match(/(\d{1,2}):(\d{2})\s*(AM|PM)/i);
+            if (!m) return null;
+            var h = parseInt(m[1], 10);
+            var min = m[2];
+            var ampm = m[3].toUpperCase();
+            if (ampm === 'PM' && h !== 12) h += 12;
+            if (ampm === 'AM' && h === 12) h = 0;
+            return (h < 10 ? '0' : '') + h + ':' + min;
+        }
+
+        // Generic window name fallback
+        var windowToTime = {
+            'Morning': '09:00',
+            'Midday': '12:00',
+            'Afternoon': '15:00',
+            'Evening': '18:00',
+            'Late Night': '21:00'
+        };
+
+        function generateAndDownload() {
+            var config = getScheduleConfig();
+            var postDate = document.getElementById('schedule-date').value || DATE;
+
+            var xRows = [];
+            var fbRows = [];
+
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (!data || data.status !== 'approved') return;
+                var finalContent = data.editedContent || story.content;
+
+                if (story.type === 'x_post') {
+                    // If this is an individual tweet card (has tweet_label), use directly
+                    if (story.tweet_label) {
+                        xRows.push({
+                            content: finalContent,
+                            type: story.tweet_type || 'text',
+                            hashtags: story.hashtags || extractHashtags(finalContent),
+                            story: story.title,
+                            posting_window: story.posting_window || ''
+                        });
+                    } else {
+                        // Legacy: parse full story markdown for individual tweets
+                        var sections = parseXPostContent(finalContent, story.title);
+                        sections.forEach(function(post) {
+                            xRows.push({
+                                content: post.text,
+                                type: post.type,
+                                hashtags: extractHashtags(post.text),
+                                story: story.title
+                            });
+                        });
+                    }
+                } else if (story.type === 'facebook') {
+                    var fbPost = parseFacebookContent(finalContent, story.title);
+                    if (fbPost) {
+                        fbRows.push(fbPost);
+                    }
+                }
+            });
+
+            if (xRows.length === 0 && fbRows.length === 0) {
+                alert('No approved social posts to export.');
+                return;
+            }
+
+            // Assign times: use posting_window property first, then content tag, then round-robin
+            function assignTimes(rows, slots, label) {
+                if (slots.length === 0) slots = ['12:00'];
+                var timeFallbacks = [];
+                return rows.map(function(row, i) {
+                    row.date = postDate;
+                    // 1. Try posting_window property (e.g., "7:00 AM CT")
+                    var parsed = parsePostingTime(row.posting_window);
+                    if (parsed) {
+                        row.time = parsed;
+                        return row;
+                    }
+                    // 2. Try [POSTING WINDOW: ...] tag in content
+                    var windowMatch = row.content ? row.content.match(/\[POSTING WINDOW:\s*([^\]]+)\]/) : null;
+                    if (windowMatch) {
+                        parsed = parsePostingTime(windowMatch[1]);
+                        if (parsed) {
+                            row.time = parsed;
+                            return row;
+                        }
+                        if (windowToTime[windowMatch[1].trim()]) {
+                            row.time = windowToTime[windowMatch[1].trim()];
+                            return row;
+                        }
+                    }
+                    // 3. Fall back to round-robin
+                    row.time = slots[i % slots.length];
+                    timeFallbacks.push('Post ' + (i + 1) + ': no parsed time, using ' + row.time);
+                    return row;
+                });
+                // Warn if any posts had to use fallback times
+                if (timeFallbacks.length > 0) {
+                    console.warn('TIME WARNING (' + label + '): ' + timeFallbacks.length + ' post(s) had no parsed posting time:\n' + timeFallbacks.join('\n'));
+                }
+            }
+
+            xRows = assignTimes(xRows, config.xSlots, 'X/Twitter');
+            fbRows = assignTimes(fbRows, config.fbSlots, 'Facebook');
+
+            // Generate XLSX in PostPlanner Bulk Upload V2 format
+            if (typeof XLSX === 'undefined') {
+                alert('SheetJS library not loaded. Falling back to CSV download.');
+                fallbackCSVDownload(xRows, fbRows, postDate);
+                return;
+            }
+
+            // Combine all rows and sort by original time
+            var allRows = xRows.concat(fbRows);
+            allRows.sort(function(a, b) {
+                return a.time.localeCompare(b.time);
+            });
+
+            // Smart time redistribution
+            allRows = redistributeTimes(allRows);
+
+            var wb = XLSX.utils.book_new();
+
+            // PostPlanner V3.1 format: Row 1 = version marker, Row 2 = headers, Row 3+ = data
+            var data = [
+                ['## ' + BRAND_NAME + ' -- PostPlanner Bulk Upload', 'BULK UPLOAD VERSION 3.1 – Please DO NOT EDIT this cell.', '', '', '', '', '', '', ''],
+                ['## POSTING TIME', 'CAPTION', 'LINK', 'MEDIA', 'TITLE', 'FIRST COMMENT', 'FIRST COMMENT DELAY', 'TOBI BACKGROUND', 'REEL OR STORY']
+            ];
+
+            allRows.forEach(function(row) {
+                var caption = cleanMarkdownForPost(row.content);
+                var mediaUrl = '';
+                if (row.type === 'image' || row.type === 'IMAGE') {
+                    mediaUrl = getImageURLForStory(row.story, row.platform === 'facebook' ? 'facebook_image' : 'x_image') || '';
+                }
+                data.push([
+                    formatTimeForPostPlanner(row.time, postDate),
+                    caption,
+                    '',
+                    mediaUrl,
+                    '', '', '', '', ''
+                ]);
+            });
+
+            var sheet = XLSX.utils.aoa_to_sheet(data);
+            sheet['!cols'] = [
+                {wch: 20}, {wch: 80}, {wch: 30}, {wch: 30}, {wch: 10}, {wch: 20}, {wch: 18}, {wch: 18}, {wch: 14}
+            ];
+            XLSX.utils.book_append_sheet(wb, sheet, 'Sheet1');
+
+            // Download
+            XLSX.writeFile(wb, 'postplanner-upload-' + postDate + '.xlsx');
+            closeSchedulePanel();
+
+            var msg = 'Downloaded postplanner-upload-' + postDate + '.xlsx with ';
+            var parts = [];
+            if (xRows.length > 0) parts.push(xRows.length + ' X posts');
+            if (fbRows.length > 0) parts.push(fbRows.length + ' Facebook posts');
+            alert(msg + parts.join(' and ') + '.\n\nUpload this file to PostPlanner via Bulk Upload.');
+        }
+
+        function cleanMarkdownForPost(text) {
+            // Strip markdown formatting and metadata that shouldn't appear in social posts
+            if (!text) return '';
+            return text
+                .replace(/\[CHARACTER COUNT:.*?\]/gi, '')
+                .replace(/\[CHAR COUNT:.*?\]/gi, '')
+                .replace(/\[\d+\/280\]/g, '')
+                .replace(/\*\*\[POSTING WINDOW:.*?\]\*\*/g, '')
+                .replace(/\[POSTING WINDOW:.*?\]/g, '')
+                .replace(/\*\*([^*]+)\*\*/g, '$1')
+                .replace(/\*([^*]+)\*/g, '$1')
+                .replace(/^#+\s+/gm, '')
+                .replace(/^[-*]\s+/gm, '')
+                .replace(/```[\s\S]*?```/g, '')
+                .replace(/\n{3,}/g, '\n\n')
+                .trim();
+        }
+
+        function fallbackCSVDownload(xRows, fbRows, postDate) {
+            // Fallback if SheetJS fails to load — generates CSV in V2-like format
+            var allRows = xRows.concat(fbRows);
+            allRows.sort(function(a, b) { return a.time.localeCompare(b.time); });
+            if (allRows.length === 0) {
+                alert('No approved posts to export.');
+                closeSchedulePanel();
+                return;
+            }
+            // Smart time redistribution (same as XLSX path)
+            allRows = redistributeTimes(allRows);
+            var csv = '## ' + BRAND_NAME + ' -- PostPlanner Bulk Upload,' + escapeCSVField('BULK UPLOAD VERSION 3.1 – Please DO NOT EDIT this cell.') + ',,,,,,,\n';
+            csv += '## POSTING TIME,CAPTION,LINK,MEDIA,TITLE,FIRST COMMENT,FIRST COMMENT DELAY,TOBI BACKGROUND,REEL OR STORY\n';
+            allRows.forEach(function(row) {
+                csv += escapeCSVField(formatTimeForPostPlanner(row.time, postDate)) + ',' +
+                       escapeCSVField(cleanMarkdownForPost(row.content)) + ',' +
+                       ',,,,,,\n';
+            });
+            downloadFile(csv, 'postplanner-upload-' + postDate + '.csv', 'text/csv');
+            closeSchedulePanel();
+        }
+
+        function downloadTOBIExport() {
+            // Generate TOBI XLSX directly (no schedule panel needed — uses same times)
+            generateAndDownloadTOBI();
+        }
+
+        function stripHashtags(text) {
+            // Remove lines that are entirely hashtags, and trailing blank lines
+            var lines = text.split('\n');
+            var cleaned = [];
+            for (var i = 0; i < lines.length; i++) {
+                var stripped = lines[i].trim();
+                if (stripped && stripped.split(/\s+/).every(function(w) { return w.charAt(0) === '#'; })) {
+                    continue;
+                }
+                cleaned.push(lines[i]);
+            }
+            while (cleaned.length > 0 && !cleaned[cleaned.length - 1].trim()) {
+                cleaned.pop();
+            }
+            return cleaned.join('\n');
+        }
+
+        function generateAndDownloadTOBI() {
+            var postDate = document.getElementById('schedule-date') ?
+                document.getElementById('schedule-date').value || DATE : DATE;
+
+            // Collect approved X/Twitter text posts only
+            var xRows = [];
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (!data || data.status !== 'approved') return;
+                if (story.type !== 'x_post') return;
+
+                var finalContent = data.editedContent || story.content;
+                if (story.tweet_label) {
+                    xRows.push({
+                        content: finalContent,
+                        posting_window: story.posting_window || '',
+                        story: story.title
+                    });
+                }
+            });
+
+            if (xRows.length === 0) {
+                alert('No approved X/Twitter posts for TOBI export.');
+                return;
+            }
+
+            // Assign times — use same logic as regular export (posting_window → content tag → round-robin)
+            var tobiSlots = defaultXSlots.slice();
+            if (tobiSlots.length === 0) tobiSlots = ['12:00'];
+            var tobiTimeFallbacks = [];
+            xRows = xRows.map(function(row, i) {
+                row.date = postDate;
+                // 1. Try posting_window property (e.g., "7:00 AM CT")
+                var parsed = parsePostingTime(row.posting_window);
+                if (parsed) {
+                    row.time = parsed;
+                    return row;
+                }
+                // 2. Try [POSTING WINDOW: ...] tag in content
+                var windowMatch = row.content ? row.content.match(/\[POSTING WINDOW:\s*([^\]]+)\]/) : null;
+                if (windowMatch) {
+                    parsed = parsePostingTime(windowMatch[1]);
+                    if (parsed) {
+                        row.time = parsed;
+                        return row;
+                    }
+                }
+                // 3. Fall back to round-robin through time slots (NOT 12:00)
+                row.time = tobiSlots[i % tobiSlots.length];
+                tobiTimeFallbacks.push('Post ' + (i + 1) + ': no parsed time, using ' + row.time);
+                return row;
+            });
+            // Warn if any posts had to use fallback times
+            if (tobiTimeFallbacks.length > 0) {
+                console.warn('TOBI TIME WARNING: ' + tobiTimeFallbacks.length + ' post(s) had no parsed posting time:\n' + tobiTimeFallbacks.join('\n'));
+            }
+
+            // Sort by time
+            xRows.sort(function(a, b) { return a.time.localeCompare(b.time); });
+
+            // Smart time redistribution
+            xRows = redistributeTimes(xRows);
+
+            // TOBI processing: preserve hashtags + emojis as much as possible
+            var TOBI_LIMIT = 130;
+
+            function extractHashtags(text) {
+                var matches = text.match(/#\w+/g);
+                return matches || [];
+            }
+
+            function extractTrailingEmoji(text) {
+                var m = text.match(/\s*([\u{1F300}-\u{1FAFF}\u2600-\u27BF\u2B50\u26A0-\u26FF]+)\s*$/u);
+                if (m) {
+                    return { emoji: m[1], text: text.substring(0, m.index).trimEnd() };
+                }
+                return { emoji: null, text: text };
+            }
+
+            function truncateAtSentence(text, limit) {
+                var sentences = text.split(/(?<=[.!?])\s+/);
+                // Merge standalone emoji fragments into preceding sentence
+                var merged = [];
+                for (var s = 0; s < sentences.length; s++) {
+                    var trimmed = sentences[s].trim();
+                    if (!trimmed) continue;
+                    if (merged.length > 0 && !/[A-Za-z0-9]/.test(trimmed)) {
+                        merged[merged.length - 1] = merged[merged.length - 1] + ' ' + trimmed;
+                    } else {
+                        merged.push(trimmed);
+                    }
+                }
+                var truncated = '';
+                for (var s = 0; s < merged.length; s++) {
+                    var candidate = truncated ? truncated + ' ' + merged[s] : merged[s];
+                    if (candidate.length <= limit) {
+                        truncated = candidate;
+                    } else {
+                        break;
+                    }
+                }
+                // Clean up trailing abbreviation fragments (Dr., Mr., vs.)
+                if (truncated) {
+                    var parts = truncated.split(' ');
+                    var last = parts[parts.length - 1];
+                    if (parts.length > 1 && last.length <= 4 && /^[A-Za-z]+\.$/.test(last)) {
+                        parts.pop();
+                        truncated = parts.join(' ');
+                    }
+                }
+                return truncated || text.substring(0, limit - 3) + '...';
+            }
+
+            function fitHashtagsWithinLimit(text, hashtags, limit) {
+                if (!hashtags.length) return text;
+                // Try all hashtags, then progressively fewer
+                for (var n = hashtags.length; n > 0; n--) {
+                    var tagBlock = '\n\n' + hashtags.slice(0, n).join(' ');
+                    if ((text + tagBlock).length <= limit) {
+                        return text + tagBlock;
+                    }
+                }
+                return text;
+            }
+
+            if (typeof XLSX === 'undefined') {
+                alert('SheetJS library not loaded. Cannot generate TOBI XLSX.');
+                return;
+            }
+
+            var wb = XLSX.utils.book_new();
+            var data = [
+                ['## ' + BRAND_NAME + ' -- PostPlanner TOBI Bulk Upload', 'BULK UPLOAD VERSION 3.1 – Please DO NOT EDIT this cell.', '', '', '', '', '', '', ''],
+                ['## POSTING TIME', 'CAPTION', 'LINK', 'MEDIA', 'TITLE', 'FIRST COMMENT', 'FIRST COMMENT DELAY', 'TOBI BACKGROUND', 'REEL OR STORY']
+            ];
+
+            var keptHashtags = 0;
+            var strippedHashtags = 0;
+
+            xRows.forEach(function(row, i) {
+                var caption = cleanMarkdownForPost(row.content);
+
+                // If full caption fits under limit, use as-is — ALL hashtags + emojis preserved
+                if (caption.length <= TOBI_LIMIT) {
+                    if (extractHashtags(caption).length > 0) keptHashtags++;
+                    data.push([
+                        formatTimeForPostPlanner(row.time, postDate),
+                        caption, '', '', '', '', '', 'true-black', ''
+                    ]);
+                    return;
+                }
+
+                // Over limit — decompose and rebuild intelligently
+                var hashtags = extractHashtags(caption);
+                var coreText = stripHashtags(caption).trimEnd();
+                var emojiResult = extractTrailingEmoji(coreText);
+                var trailing_emoji = emojiResult.emoji;
+                var coreNoEmoji = emojiResult.text.trimEnd();
+
+                // Step 1: Get core text under limit
+                var result;
+                if (coreNoEmoji.length <= TOBI_LIMIT) {
+                    result = coreNoEmoji;
+                } else {
+                    result = truncateAtSentence(coreNoEmoji, TOBI_LIMIT);
+                }
+
+                // Step 2: Try to add back trailing emoji
+                if (trailing_emoji) {
+                    var withEmoji = result + ' ' + trailing_emoji;
+                    if (withEmoji.length <= TOBI_LIMIT) {
+                        result = withEmoji;
+                    }
+                }
+
+                // Step 3: Try to add back as many hashtags as possible
+                if (hashtags.length > 0) {
+                    var before = result;
+                    result = fitHashtagsWithinLimit(result, hashtags, TOBI_LIMIT);
+                    if (result !== before) keptHashtags++;
+                    else strippedHashtags++;
+                }
+
+                data.push([
+                    formatTimeForPostPlanner(row.time, postDate),
+                    result, '', '', '', '', '', 'true-black', ''
+                ]);
+            });
+
+            var sheet = XLSX.utils.aoa_to_sheet(data);
+            sheet['!cols'] = [
+                {wch: 20}, {wch: 80}, {wch: 10}, {wch: 10}, {wch: 10}, {wch: 20}, {wch: 18}, {wch: 18}, {wch: 14}
+            ];
+            XLSX.utils.book_append_sheet(wb, sheet, 'Sheet1');
+
+            XLSX.writeFile(wb, 'postplanner-tobi-upload-' + postDate + '.xlsx');
+
+            alert('Downloaded TOBI export with ' + xRows.length + ' posts.\n\n' +
+                  keptHashtags + ' posts kept hashtags, ' + strippedHashtags + ' had hashtags removed for length.\n\n' +
+                  'Background: true-black (Column H).\nUpload to PostPlanner for Facebook TOBI posts.');
+        }
+
+        function parseXPostContent(content, storyTitle) {
+            var posts = [];
+            var lines = content.split('\n');
+
+            var inTextPost = false;
+            var inThread = false;
+            var currentTweetNum = 0;
+            var currentText = [];
+
+            for (var i = 0; i < lines.length; i++) {
+                var line = lines[i];
+                var trimmed = line.trim();
+
+                if (trimmed.match(/^###\s+Text Post/i)) {
+                    flushPost();
+                    inTextPost = true;
+                    inThread = false;
+                    currentText = [];
+                    continue;
+                }
+                if (trimmed.match(/^###\s+Thread Concept/i)) {
+                    flushPost();
+                    inTextPost = false;
+                    inThread = true;
+                    currentText = [];
+                    currentTweetNum = 0;
+                    continue;
+                }
+                if (trimmed.match(/^###\s+Image Post/i)) {
+                    flushPost();
+                    inTextPost = false;
+                    inThread = false;
+                    continue;
+                }
+                if (trimmed.match(/^###\s/)) {
+                    flushPost();
+                    inTextPost = false;
+                    inThread = false;
+                    continue;
+                }
+
+                if (inThread && trimmed.match(/^\*\*Tweet\s+\d+/i)) {
+                    flushPost();
+                    currentTweetNum++;
+                    currentText = [];
+                    continue;
+                }
+
+                if (inTextPost || (inThread && currentTweetNum > 0)) {
+                    if (trimmed !== '') {
+                        currentText.push(line);
+                    }
+                }
+            }
+            flushPost();
+
+            function flushPost() {
+                if (currentText.length === 0) return;
+                var text = currentText.join('\n').trim();
+                if (!text) return;
+
+                if (inTextPost) {
+                    posts.push({ text: text, type: 'text' });
+                } else if (inThread && currentTweetNum > 0) {
+                    posts.push({
+                        text: text,
+                        type: currentTweetNum === 1 ? 'thread_start' : 'thread_reply'
+                    });
+                }
+                currentText = [];
+            }
+
+            return posts;
+        }
+
+        function parseFacebookContent(content, storyTitle) {
+            var lines = content.split('\n');
+            var inLongForm = false;
+            var inImagePost = false;
+            var longFormLines = [];
+            var imageCaption = '';
+
+            for (var i = 0; i < lines.length; i++) {
+                var trimmed = lines[i].trim();
+
+                if (trimmed.match(/^###\s+Long-Form Post/i)) {
+                    inLongForm = true;
+                    inImagePost = false;
+                    longFormLines = [];
+                    continue;
+                }
+                if (trimmed.match(/^###\s+Image Post Caption/i) || trimmed.match(/^###\s+Image Post/i)) {
+                    inLongForm = false;
+                    inImagePost = true;
+                    continue;
+                }
+                if (trimmed.match(/^###\s/) || trimmed.match(/^---/)) {
+                    inLongForm = false;
+                    inImagePost = false;
+                    continue;
+                }
+
+                if (inLongForm) {
+                    longFormLines.push(lines[i]);
+                }
+                if (inImagePost && trimmed !== '') {
+                    imageCaption = trimmed;
+                    inImagePost = false;
+                }
+            }
+
+            var longForm = longFormLines.join('\n').trim();
+            if (!longForm) return null;
+
+            return {
+                content: longForm,
+                image_caption: imageCaption,
+                story: storyTitle
+            };
+        }
+
+        function downloadFile(content, filename, mimeType) {
+            var blob = new Blob([content], { type: mimeType });
+            var url = URL.createObjectURL(blob);
+            var link = document.createElement('a');
+            link.href = url;
+            link.download = filename;
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+            URL.revokeObjectURL(url);
+        }
+
+        var currentStatusFilter = 'all';
+        var currentTypeFilter = 'all';
+
+        function filterByStatus(status) {
+            currentStatusFilter = status;
+            applyFilters();
+            document.querySelectorAll('.filter-btn').forEach(function(btn) {
+                btn.classList.remove('active');
+                if (btn.textContent.trim().toLowerCase().replace(/\s+/g, '') === status.replace('-', '').toLowerCase() ||
+                    (status === 'all' && btn.textContent.trim() === 'All') ||
+                    (status === 'needs-edit' && btn.textContent.trim() === 'Needs Edit')) {
+                    btn.classList.add('active');
+                }
+            });
+            document.querySelectorAll('.sidebar .nav-item').forEach(function(item) { item.classList.remove('active'); });
+        }
+
+        function filterByType(type) {
+            currentTypeFilter = type;
+            currentStatusFilter = 'all';
+            applyFilters();
+            document.querySelectorAll('.sidebar .nav-item').forEach(function(item) { item.classList.remove('active'); });
+            document.querySelectorAll('.filter-btn').forEach(function(btn) {
+                btn.classList.remove('active');
+                if (btn.textContent.trim() === 'All') btn.classList.add('active');
+            });
+        }
+
+        function applyFilters() {
+            var cards = document.querySelectorAll('.card');
+            var visibleCount = 0;
+            cards.forEach(function(card) {
+                var cardStatus = card.getAttribute('data-status');
+                var cardType = card.getAttribute('data-type');
+                var matchesStatus = (currentStatusFilter === 'all') || (cardStatus === currentStatusFilter);
+                var matchesType = (currentTypeFilter === 'all') || (cardType === currentTypeFilter);
+                if (matchesStatus && matchesType) {
+                    card.classList.add('show');
+                    visibleCount++;
+                } else {
+                    card.classList.remove('show');
+                }
+            });
+            document.getElementById('empty-state').style.display = visibleCount === 0 ? 'block' : 'none';
+        }
+
+        function approveAll() {
+            if (!confirm('Approve all ' + allStories.length + ' items?')) return;
+            allStories.forEach(function(story) { setStatus(story.id, 'approved'); });
+        }
+
+        function resetAll() {
+            if (confirm('Reset all reviews? This cannot be undone.')) {
+                localStorage.removeItem(REVIEW_STORAGE_KEY + '-' + DATE);
+                location.reload();
+            }
+        }
+
+        function copyContent(storyId) {
+            var data = reviewData[storyId];
+            var story = allStories.find(function(s) { return s.id === storyId; });
+            var text = (data && data.editedContent) ? data.editedContent : (story ? story.content : '');
+            navigator.clipboard.writeText(text).then(function() {
+                var btn = document.querySelector('[data-id="' + storyId + '"] .btn-copy');
+                if (btn) { var orig = btn.textContent; btn.textContent = 'Copied!'; setTimeout(function() { btn.textContent = orig; }, 1500); }
+            });
+        }
+
+        function exportApprovals() {
+            var items = [];
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id] || {};
+                items.push({
+                    id: story.id,
+                    type: story.type,
+                    title: story.title,
+                    status: data.status || 'unreviewed',
+                    notes: data.notes || '',
+                    content: story.content,
+                    editedContent: data.editedContent || null,
+                    finalContent: data.editedContent || story.content
+                });
+            });
+
+            var exportData = {
+                date: DATE,
+                reviewed_by: '',
+                reviewed_at: new Date().toISOString(),
+                items: items
+            };
+
+            var dataStr = JSON.stringify(exportData, null, 2);
+            var dataBlob = new Blob([dataStr], { type: 'application/json' });
+            var url = URL.createObjectURL(dataBlob);
+            var link = document.createElement('a');
+            link.href = url;
+            link.download = 'approvals-' + DATE + '.json';
+            link.click();
+            URL.revokeObjectURL(url);
+        }
+
+        // Auto-save notes as you type
+        document.addEventListener('input', function(e) {
+            if (e.target.classList.contains('notes-textarea')) {
+                var storyId = e.target.id.replace('textarea-', '');
+                if (reviewData[storyId]) {
+                    reviewData[storyId].notes = e.target.value;
+                    localStorage.setItem(REVIEW_STORAGE_KEY + '-' + DATE, JSON.stringify(reviewData));
+                }
+            }
+        });
+
+        initializeApp();
+
+    </script>
+</body>
+</html>

@@ -1,10 +1,21 @@
 # Golf Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-07-05
+- **Date**: 2026-07-06
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-06
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters (3 tweets fixed after verify-facts char limit check)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres)
+- **PostPlanner exports:** gfr-postplanner-2026-07-06.xlsx (6 posts) + gfr-postplanner-tobi-2026-07-06.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-07-06/review-dashboard.html (21 items)
+- **Notes:** JOHN DEERE CLASSIC WINNER — Chris Gotterup fires final-round 62 (from 5 back) to win at -20 / beat Homa by 1 / Kohles double-bogey 18 heartbreak / 3rd win of 2026 / 5th career in 84 starts / tied Scheffler for most wins in 12 months (4 each) / brother Patrick on bag; Scottish Open preview July 9-12 Renaissance Club (Scheffler, McIlroy, LIV players, Gotterup momentum); LIV Golf financial crisis — running on loans ($400M shortfall, $100M/month burn, 4 events left, UK event uncertain); Evian Championship LPGA July 9-12 France (Ryu freshest major winner); Open Championship countdown July 16-19 Royal Birkdale (Scheffler defending, Heroes Classic July 14, LIV exemptions: Ballester/Surratt/Uihlein)
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-05
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
