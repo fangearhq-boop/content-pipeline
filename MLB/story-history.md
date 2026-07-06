@@ -5,6 +5,62 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-06
+
+### Story 1: Full 2026 All-Star Rosters — Harper Legend Pick
+- **Date:** 2026-07-06
+- **Tier:** 1
+- **Classification:** FOLLOW UP (All-Star rosters tracked since Phase 2 opened)
+- **Angle:** Full rosters announced July 6. Bryce Harper added via Commissioner's "Legend Pick" — his 9th All-Star selection, playing at Citizens Bank Park his home. Braves, Dodgers, Phillies each send 5. 26 first-timers. Langeliers first A's catcher to start since Terry Steinbach 1988. Freeman and Sale both earn 10th career selections.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - All-Star Final Vote winner (July 13)
+  - Home Run Derby July 13 Netflix
+  - All-Star Game July 14 FOX
+
+### Story 2: The 2026 All-Star Snubs — Turang, Murakami, Gray
+- **Date:** 2026-07-06
+- **Tier:** 1
+- **Classification:** NEW STORY (first snub analysis of 2026 All-Star cycle)
+- **Angle:** Brice Turang No. 7 NL bWAR left off. Munetaka Murakami 20 HR in 57 games left off AL roster. Sonny Gray 9-1/2.69 ERA left off. Zack Wheeler not selected despite solid numbers. Willson Contreras flagged by analytics outlets as top positional snub.
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - All-Star Final Vote — Turang and Gray are top candidates
+  - Final Vote winner announced July 13
+
+### Story 3: Home Run Derby Field — Schwarber Now In (Health Permitting), Judge Out
+- **Date:** 2026-07-06
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Derby field tracking ongoing)
+- **Angle:** Schwarber met both conditions — made All-Star Game, now health (back) is only barrier. 30 HR MLB leader. Caminero confirmed (Rays, 28 HR, 2025 runner-up). Judge out (rib fracture). Ben Rice (22 HR) interested. Alvarez opted out. New swing-count format (20/15/15). Netflix July 13.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Official Derby field announcement
+  - Schwarber health update
+  - Derby coverage July 13
+
+### Story 4: Tarik Skubal Trade — 28 Days to August 3 Deadline
+- **Date:** 2026-07-06
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Skubal trade tracking ongoing)
+- **Angle:** ESPN Passan/McDaniel put trade probability at 85%. Braves frontrunner (Nightengale) — Strider on IL, Sale anchoring rotation. Tigers 38-49. $32M contract value. Also: Brewers, Cubs, Phillies, Padres, Rays, Red Sox all interested. August 3 = 28 days out.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Trade deadline August 3
+  - Skubal starts remaining in Detroit
+
+### Story 5: Milestone Watch — Ramírez Near 300/300, Sanchez Breaks 115-Year Record
+- **Date:** 2026-07-06
+- **Tier:** 2
+- **Classification:** NEW STORY (first 300/300 angle + Sanchez record broken this week)
+- **Angle:** Ramírez hit 300th career SB, now needs 9 HR for 300/300 club (only Bonds, ARod, Mays, Dawson ever). Also first Guardians player to HR vs all 29 teams. Sanchez: 41⅔ scoreless innings broke 115-year Phillies record held by Grover Cleveland Alexander since 1911. Sanchez first All-Star selection.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Ramírez home run watch — 9 HR needed
+  - Sanchez scoreless streak continuation
+
+---
+
 ## 2026-07-05
 
 ### Story 1: All-Star Starters Revealed — Dodgers Lead With 4, Freeman Earns 10th

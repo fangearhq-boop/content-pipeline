@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-07-06
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via agents), brief (5 stories), research notes, story analysis, X posts (7; 4 char violations fixed stories 1/2/3/5; 0 violations after fix), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (28 claims HIGH; universal extraction only — claim-patterns.py missing known), compile (5 stories, 7 tweets, 0 FB posts parsed — known format, 5 articles, 22 items), dashboard (22 items), dashboard publish 403 (proxy). PostPlanner exports (7 posts each). WordPress 403 (proxy sandbox — known). Content committed and pushed.
+- **Dashboard Published**: Attempted — proxy blocked push to content-dashboards repo
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard publish 403 (proxy blocks content-dashboards — known). IMAGE MISSING expected (not_started). claim-patterns.py missing (known). 4 char violations fixed (S1T2 310→273; S2T1 315→245; S3T1 281→248; S5T1 345→256).
+- **Key Stories**: Full All-Star rosters out/Harper Commissioner's Legend Pick (9th selection)/Braves+Dodgers+Phillies 5 All-Stars each/26 first-timers/Langeliers first A's catcher to start since Terry Steinbach 1988/Freeman+Sale both hit 10th selections (Tier 1 FOLLOW UP), All-Star snubs/Turang No. 7 NL bWAR not selected/Murakami 20 HR 57 games not selected/Gray 9-1 2.69 ERA not selected/Wheeler not selected/Contreras positional snub (Tier 1 NEW), Derby field/Schwarber made All-Star now health only barrier/30 HR MLB leader/Caminero confirmed 28 HR/Judge out rib fracture/Netflix July 13 new swing format (Tier 1 FOLLOW UP), Skubal 85% trade probability ESPN/Braves frontrunner Nightengale/Tigers 38-49 sellers/August 3 = 28 days (Tier 2 FOLLOW UP), Ramírez 300 SB + 9 HR from 300/300 club (4 players ever Bonds+ARod+Mays+Dawson)/Sanchez 41⅔ scoreless broke 115-year Phillies record vs Grover Cleveland Alexander (Tier 2 NEW)
+
+## Last Run
 - **Date**: 2026-07-05
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via agents), brief (5 stories), research notes, story analysis, X posts (7; 1 char violation fixed Story 3 283→279; 0 violations after fix), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (34 claims HIGH; universal extraction only — claim-patterns.py missing known), compile (5 stories, 7 tweets, 0 FB posts parsed — known format, 5 articles, 22 items), dashboard (22 items), dashboard publish 403 (proxy). PostPlanner exports (7 posts each). WordPress 403 (proxy sandbox — known). Content committed and pushed.
 - **Dashboard Published**: Attempted — proxy blocked push to content-dashboards repo
