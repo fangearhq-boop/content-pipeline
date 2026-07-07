@@ -1,0 +1,271 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-07",
+  "compiled_at": "2026-07-07T09:21:35.479220+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Series Preview — Cubs at Baltimore",
+      "type": "Informative / Preview"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Baltimore freefall — Cubs in hot form",
+      "type": "Bold / Analysis"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Wild card standings snapshot",
+      "type": "Informative / Standings"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "Taillon rehab update",
+      "type": "Informative / Roster"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Matt Shaw wrist — post-ASB return",
+      "type": "Informative / Injury"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Pre-game hype Boyd vs. Baz",
+      "type": "Bold / Hype"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Series Preview — Cubs at Baltimore, Game 1 of 3",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Cubs (50-40) open a 3-game road series at Camden Yards tonight. Matthew Boyd vs. Shane Baz. First pitch 5:35 PM CT. Baltimore (42-49) has lost 8 of their last 10. Cubs are -160 favorites and 7-3 over their last 10. Cubs are 15-7 all-time vs. Baltimore with a 3-game winning streak. Second half of the season begins here.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Cubs arrive in Baltimore for a 3-game set at Camden Yards — first pitch 5:35 PM CT tonight.\n\nMatthew Boyd vs. Shane Baz. Cubs (50-40), No. 2 NL wild card. Orioles (42-49), losers of 8 of their last 10.\n\nThe second half starts here.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative / Series Preview",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 18,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Series Preview — Cubs at Baltimore, Game 1 of 3\n**Facts:**\n- Cubs record: 50-40 (No. 2 NL wild card)\n- Orioles record: 42-49\n- Venue: Oriole Park at Camden Yards, Baltimore\n- First pitch: 5:35 PM CT (6:35 PM ET)\n- Broadcast: MASN, MARQ; streaming Fubo\n- Cubs probable: Matthew Boyd\n- Orioles probable: Shane Baz\n- Baltimore's last 10: 2-8 (lost 8 of last 10)\n- Cubs' last 10: 7-3\n- Cubs moneyline: -160 favorites; Orioles +132; O/U 9\n- Cubs all-time vs. Orioles: 15-7 (68.2%), current 3-game win streak vs. BAL",
+        "sources": "- Sources:\n- MLB.com (game preview page: https://www.mlb.com/stories/game-preview/824820)\n- Bleacher Nation: https://www.bleachernation.com/picks/2026/07/05/baltimore-orioles-vs-chicago-cubs-series-july-7-9-odds-starting-pitchers-predictions/\n- Baseball-Reference: https://www.baseball-reference.com/previews/2026/BAL202607070.shtml\n- ChampsOrChumps (H2H): https://champsorchumps.us/team/mlb/chicago-cubs/head-to-head/baltimore-orioles\n**Confidence:** HIGH (multiple independent sources corroborate game details and records)"
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Baltimore's 8-of-10 Freefall — The Cubs Arrive at the Right Moment",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Baltimore has lost 8 of their last 10 games and is in a 42-49 hole. The Cubs arrive at 7-3 over their last 10 and No. 2 NL wild card. Bold take on the timing — this series fell at a perfect moment for Chicago to pad its wild card cushion.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Baltimore has lost 8 of their last 10 games. The Orioles are in freefall.\n\nThe Cubs arrive at Camden Yards rolling — 7-3 over their last 10, 50-40, No. 2 NL wild card.\n\nTiming. Is. Everything.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold / Analysis",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 212
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 3,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Baltimore's 8-of-10 Freefall\n**Facts:**\n- Baltimore 42-49, lost 8 of last 10 games\n- Cubs 7-3 over last 10 games\n- Cubs -160 betting favorites\n- Orioles bullpen FIP: 3.77 (23.9% K rate) — better than Cubs bullpen\n- Cubs bullpen FIP: 5.22 (20.0% K rate) — shakiest in this game",
+        "sources": "- Sources:\n- SportsGrid preview: https://www.sportsgrid.com/mlb/game/chicago-cubs-baltimore-orioles-scores-odds-picks-props-july-07-2026/01438196-9b9d-4844-898f-0b0644bf9a84\n- ActionNetwork: https://www.actionnetwork.com/mlb-game/chicago-cubs-baltimore-orioles/291612\n**Confidence:** HIGH (game details from multiple betting/preview sources confirmed independently)"
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Wild Card Snapshot — Cubs Tied with Phillies, Cardinals 1.5 Back",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Informative standings check-in. Cubs and Phillies both at 50-40, sharing No. 2 NL wild card. Cardinals at 47-40, just 1.5 games behind. Three wild card spots available. Baltimore series is a real opportunity to separate.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Wild card check-in, July 7:\n\nCubs 50-40, tied for No. 2 NL wild card\nCardinals 47-40 — 1.5 games back in the race\n\nOne hot week in Baltimore turns a tight race into breathing room.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Informative / Standings Analysis",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 205
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 8,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Wild Card Snapshot\n**Facts:**\n- NL wild card standings (as of July 6 end of day):\n- Cubs 50-40 (tied No. 2 NL wild card with Phillies)\n- Phillies 50-40 (tied No. 2)\n- Cardinals 47-40 (No. 4 — 1.5 GB of Cubs in wild card)\n- Three NL wild card spots available\n- Brewers lead NL Central: 55-33 (6 GB over Cubs for division)\n- Cardinals are 1.5 games behind Cubs in wild card race (50-40 vs 47-40: win diff +3, loss diff 0 → GB = 3/2 = 1.5)",
+        "sources": "- Sources:\n- Chicago Sports Wire: https://chicagosportswire.com/cubs-standings/\n- ESPN: https://www.espn.com/mlb/standings\n- Brew Crew Ball (Brewers record): https://www.brewcrewball.com/milwaukee-brewers-analysis/85285/2026-nl-central-power-rankings-week-15\n**Confidence:** HIGH (standings from multiple sources; GB calculation independently verified)"
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Taillon Rehab Update — Return Before All-Star Break",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Taillon threw at High-A South Bend on Sunday: 3.1 IP, 1 ER, 45 pitches. Expected to return before the All-Star break — potentially as early as the Cincinnati series (~July 11-13). The rotation is beginning to heal.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Jameson Taillon made his first rehab start Sunday at High-A South Bend — 3.1 IP, 1 ER, 45 pitches.\n\nIf all goes to plan, he's back in the Cubs rotation before the All-Star break.\n\nThe cavalry is almost here.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Informative / Roster Update",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 227
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 6,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Taillon Rehab Update\n**Facts:**\n- Taillon (hamstring) made first rehab start Sunday, July 6 at High-A South Bend\n- Line: 3.1 IP, 1 ER, 4 H, 2 K, 45 pitches\n- Craig Counsell: potential return before All-Star break\n- Possible target: Cincinnati series (~July 11-13) before ASB (July 14 start)\n- Edward Cabrera (hamstring): threw a session July 6; won't be activated until after ASB",
+        "sources": "- Sources:\n- Bleacher Nation (July 6): https://www.bleachernation.com/cubs/2026/07/06/cubs-injury-updates-taillons-start-cabreras-session-shaws-wrist/\n- Cubbie Crib: https://cubbiescrib.com/cubs-injury-update-jameson-taillon-rehab-start-matt-shaw-timeline-shelby-miller\n- ChiCitySports: https://www.chicitysports.com/chicago-cubs-jameson-taillon-rehab-edward-cabrera-update/\n- Roundtable.io (Yahoo Sports): https://sports.yahoo.com/articles/cubs-starter-jameson-taillon-could-211507667.html\n**Confidence:** HIGH (Taillon's rehab start confirmed by multiple outlets; return timeline is projection, labeled as \"if all goes to plan\")"
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Matt Shaw Wrist — Out Until After All-Star Break",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Craig Counsell confirmed Monday that Shaw won't return before the All-Star break despite being IL-eligible this week. Left wrist sprain not considered serious. Kevin Alcantara filling the gap.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Matt Shaw won't be back before the All-Star break.\n\nThe left wrist sprain isn't considered serious, but the Cubs are being cautious. Kevin Alcantara picks up the slack.\n\nPost-break return is the target. Not a long-term concern.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Informative / Roster/Injury News",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 8,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Matt Shaw Wrist Update\n**Facts:**\n- Matt Shaw: left wrist sprain, on IL\n- Craig Counsell confirmed (July 6) Shaw won't return before All-Star break\n- Shaw would have been IL-eligible this week but team being cautious\n- Kevin Alcantara + Pedro Ramirez filling in\n- Injury from Cardinals series",
+        "sources": "- Sources:\n- Bleacher Nation (July 6): https://www.bleachernation.com/cubs/2026/07/06/cubs-injury-updates-taillons-start-cabreras-session-shaws-wrist/\n- SI.com: https://www.si.com/mlb/cubs/onsi/cubs-unfortunate-matt-shaw-update-opens-door-for-kevin-alcantara-29\n- Yahoo Sports: https://sports.yahoo.com/articles/cubs-unfortunate-matt-shaw-opens-210303466.html\n**Confidence:** HIGH (manager confirmed, multiple sources corroborate)"
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Pre-Game Hype — Boyd vs. Baz at Camden Yards",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Set the stage for tonight's game. Boyd vs. Baz. Baltimore 8-of-10 losses. Cubs 7-3 over their last 10. Second half opening frame.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Matthew Boyd vs. Shane Baz. Camden Yards. 5:35 PM CT.\n\nBaltimore has lost 8 of its last 10. The Cubs are 7-3 over theirs.\n\nThe second half of the season starts tonight. Don't miss it.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Bold / Pre-Game Hype",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 207
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 2,
+        "claims_flagged": 0,
+        "errors_corrected": 1
+      },
+      "research": {
+        "facts": "Pre-Game Hype — Boyd vs. Baz at Camden Yards\n**Facts (see Stories 1 & 2 for sourcing):**\n- Boyd starts for Cubs; Baz starts for Orioles\n- Shane Baz: 4-8, 4.10 ERA, 89 IP, 1.36 WHIP; last-3-start FIP 2.83 (pitching his best baseball)\n- Matthew Boyd: 2-1, 6.00 ERA, 31 K, 6 BB, 24 IP — recently returned from IL (left knee meniscectomy May 7)\n- NOTE: Boyd's ERA (6.00) is HIGH CONFIDENCE source-wise (CBS Sports, ESPN) but may include a rocky start before his injury; not including specific ERA/record in tweet to avoid overconfidence\n- Orioles bullpen advantage noted (FIP 3.77 vs. Cubs 5.22)",
+        "sources": "- Sources: Bleacher Nation series preview, CBS Sports Boyd page, SportsGrid\n**Confidence (Boyd stats):** MEDIUM — WebFetch-derived summary; cross-referenced against multiple sources but exact breakdown not available"
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

@@ -5,6 +5,57 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-07
+
+### STORY 1: Series Preview — Cubs at Baltimore, Game 1 of 3
+- **Angle:** NEW STORY (is_series_start_today=true; mandatory 7 AM slot; Cubs 50-40 vs Orioles 42-49 at Camden Yards; 3-game road series; 5:35 PM CT; Matthew Boyd vs. Shane Baz; Orioles lost 8 of last 10; Cubs 7-3 last 10; Cubs -160 favorites)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, series preview)
+- **Follow-Up Opportunities:**
+  - Game 1 result tonight (post-game recap tomorrow)
+  - Series Game 2 preview (July 8, 5:35 PM CT)
+
+### STORY 2: Baltimore's Freefall — Cubs Arrive at the Right Moment
+- **Angle:** NEW STORY (bold take; Orioles lost 8 of last 10, in freefall at 42-49; Cubs rolling at 7-3 L10; perfect timing for wild card race)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold take)
+- **Follow-Up Opportunities:**
+  - Baltimore's record / form trend through the series
+
+### STORY 3: Wild Card Snapshot — Cubs Tied with Phillies, Cardinals 1.5 Back
+- **Angle:** NEW STORY (standings informative; Cubs 50-40 tied with Phillies for No. 2 NL wild card; Cardinals 47-40 just 1.5 games back; three WC spots; Baltimore series = chance to create daylight)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, standings analysis)
+- **Follow-Up Opportunities:**
+  - Cardinals results this week (5-game series vs. Brewers)
+  - Phillies results for wild card tracking
+
+### STORY 4: Taillon Rehab — Return Before All-Star Break
+- **Angle:** FOLLOW UP (first covered July 6 — today's angle: Taillon actually completed his rehab start Sunday at High-A South Bend [3.1 IP, 1 ER, 45 pitches]; confirmed return before All-Star break; Cabrera also throwing but not activatable until after ASB)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, roster update)
+- **Follow-Up Opportunities:**
+  - Taillon's activation (expected before July 14 All-Star break)
+  - Return start vs. Reds in Cincinnati (~July 11-13)
+
+### STORY 5: Matt Shaw Wrist — Post-ASB Return
+- **Angle:** NEW STORY (Counsell confirmed July 6: Shaw not back before All-Star break; left wrist sprain, mild/not serious; Kevin Alcantara filling in; eligible this week but Cubs being cautious)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, injury/roster news)
+- **Follow-Up Opportunities:**
+  - Shaw return after All-Star break
+  - Alcantara's performance while filling in
+
+### STORY 6: Pre-Game Hype — Boyd vs. Baz at Camden Yards
+- **Angle:** NEW STORY (pre-game hype for tonight; Boyd vs. Baz; Baltimore 8-of-10 losses; Cubs 7-3; second half of season framing; 5:35 PM CT first pitch)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, pre-game hype)
+- **Follow-Up Opportunities:**
+  - Tonight's game result (post-game recap tomorrow)
+  - Boyd's start line / performance
+
+---
+
 ## 2026-07-06
 
 ### STORY 1: Cubs 6, Cardinals 4 — Series Finale Recap
