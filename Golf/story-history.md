@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-07-07
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-07 | T1 | World Rankings — Gotterup Climbs to No. 9, Scheffler Firmly No. 1 Ahead of Open Championship | X, FB, Article | NEW |
+| 2026-07-07 | T1 | Scottish Open Field Preview — Stars Arrive at Renaissance Club for Final Open Tune-Up | X, FB, Article | NEW |
+| 2026-07-07 | T2 | Anthony Kim's Comeback Story — From 14-Year Absence to No. 184 in the World | X, FB, Article | NEW |
+| 2026-07-07 | T2 | LIV Golf Financial Crisis Deepens — $400M Shortfall Puts Season at Risk | X, FB, Article | FOLLOW UP |
+| 2026-07-07 | T2 | Amundi Evian Championship Preview — LPGA's French Major Tees Off Thursday | X, FB, Article | NEW |
+
+### STORY 1: World Rankings — Gotterup No. 9, Scheffler No. 1
+- **Tier:** 1
+- **Category:** World Golf Rankings / PGA Tour
+- **Key facts:** Gotterup climbed to ~No. 9 world ranking after 3rd win of 2026 at John Deere Classic (final-round 62 at -20/264, beat Homa by 1/$1.58M/earned 500 FedEx pts); Scheffler No. 1, McIlroy No. 2, Young No. 3, Rose No. 4, Fitzpatrick No. 5, Morikawa No. 6, Fleetwood No. 7, Schauffele No. 8; Open Championship July 16-19 Royal Birkdale (Scheffler defending)
+- **Status:** NEW
+- **Follow-up ideas:** Scottish Open; Open Championship field; Gotterup form at Birkdale
+
+### STORY 2: Scottish Open Field Preview
+- **Tier:** 1
+- **Category:** PGA Tour / DP World Tour / Scottish Open
+- **Key facts:** Genesis Scottish Open July 9-12 at Renaissance Club, North Berwick, Scotland; $9M purse; co-sanctioned DP World Tour; Gotterup is defending champion; Scheffler and McIlroy expected in field; Eugenio Chacarra won 2026 European Swing/secured spot; LIV exemptions (Ballester, Surratt, Uihlein) may play; final Open tuneup
+- **Status:** NEW
+- **Follow-up ideas:** Round 1 results; Scottish Open winner; Open Championship implications
+
+### STORY 3: Anthony Kim Comeback
+- **Tier:** 2
+- **Category:** LIV Golf / Player Profile
+- **Key facts:** Kim won LIV Adelaide February 2026 — first win in ~14 years (final-round 63 from 5 back, defeated Rahm/DeChambeau at 23-under); 4Aces GC (Dustin Johnson's team) won Virginia team trophy in playoff (Kim shot bogey-free 62 final round to force playoff); Kim ~No. 184 world ranking (highest in ~14 years); replaced Patrick Reed on 4Aces roster
+- **Status:** NEW
+- **Follow-up ideas:** Kim at JCB event July 23-26; extension of comeback story
+
+### STORY 4: LIV Golf Financial Crisis
+- **Tier:** 2
+- **Category:** LIV Golf / Business
+- **Key facts:** PIF withdrew funding April 2026 (only ~1/3 of pledged amount); CEO O'Neil confirms "significant shortfall" but says season continues; Dallas/Miami NOT on schedule; New Orleans postponed to fall; $400M shortfall reported; next event JCB July 23-26 ($30M purse); merger talks dead; McIlroy: "irrational"; DeChambeau: "too many wants"; 2 White House meetings, no deal
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** JCB event completion; further event cancellations; PIF statement
+
+### STORY 5: Amundi Evian Championship Preview
+- **Tier:** 2
+- **Category:** LPGA Tour / Evian Championship
+- **Key facts:** Amundi Evian Championship July 9-12 at Evian Resort Golf Club, Évian-les-Bains, France; one of LPGA's 5 majors; Haeran Ryu won Women's PGA Championship (2 strokes over Ina Yoon at Hazeltine) — enters as momentum major winner; tournament not yet started
+- **Status:** NEW
+- **Follow-up ideas:** Round 1 results; leaderboard updates; champion
+
 ## 2026-07-06
 
 | Date | Tier | Story | Platforms | Status |
