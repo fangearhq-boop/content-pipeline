@@ -5,6 +5,59 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-07
+
+### Story 1: All-Star Week Is One Week Away
+- **Date:** 2026-07-07
+- **Tier:** 1
+- **Classification:** FOLLOW UP (All-Star rosters announced July 6; game-week preview angle)
+- **Angle:** One week to Citizens Bank Park. Derby July 13 Netflix, Game July 14 FOX 8 PM ET. Dodgers+Braves+Phillies 5 All-Stars each. 26 first-timers. Ohtani leads all players; Clement leads AL. First All-Star in Philadelphia since 1996.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Derby coverage July 13
+  - All-Star Game July 14
+
+### Story 2: Nick Kurtz Gets First All-Star Start
+- **Date:** 2026-07-07
+- **Tier:** 1
+- **Classification:** NEW STORY (Vlad Jr. withdrawal confirmed; Kurtz promoted to starter)
+- **Angle:** Guerrero steps aside with back injury. Kurtz (23, 2nd MLB season) gets first All-Star start: 20 HR, 66 RBI (AL leader), 76 walks (AL leader), .424 OBP, .949 OPS, 61 runs (AL leader).
+- **Content Produced:** Article (article-02, Jake Torres), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Kurtz performance at All-Star Game July 14
+  - A's second-half watch
+
+### Story 3: Misiorowski's Historic First Half
+- **Date:** 2026-07-07
+- **Tier:** 2
+- **Classification:** NEW STORY (first-half case + All-Star status angle)
+- **Angle:** Brewers fastest in franchise history to 50 wins. Misiorowski: 1.45 ERA MLB-best, 0.81 WHIP MLB-best, 105.5 mph max velocity (Statcast era high for starters). All-Star status in doubt. Turang No. 7 NL bWAR snubbed.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Misiorowski All-Star Game status
+  - Brewers second-half / playoff push
+
+### Story 4: Home Run Derby Preview — 6 Days
+- **Date:** 2026-07-07
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Derby build-up; 6-day preview with confirmed field and Netflix angle)
+- **Angle:** Derby July 13 Netflix at Citizens Bank Park. Schwarber MLB HR leader (30+) at his home park. Caminero (2025 runner-up) confirmed. Judge out (rib fracture). New swing-bracket format. First Derby on Netflix.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Derby coverage July 13
+
+### Story 5: Skubal Countdown — 27 Days to August 3
+- **Date:** 2026-07-07
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Skubal trade watch; 27-day countdown with Braves frontrunner framing)
+- **Angle:** 27 days to August 3. Skubal 85% trade probability. Braves frontrunner (Nightengale). Yankees "no chance." Dodgers out. Tigers 38-49. Sale+Skubal rotation vision. CC Sabathia-level asking price.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Trade deadline August 3
+  - Skubal/Braves deal announcement
+
+---
+
 ## 2026-07-06
 
 ### Story 1: Full 2026 All-Star Rosters — Harper Legend Pick

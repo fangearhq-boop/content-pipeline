@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-07-07
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (28 claims HIGH; universal extraction only — claim-patterns.py missing known), compile (5 stories, 0 tweets compiled — known heading format, 5 articles, 15 items), dashboard (15 items), dashboard publish 403 (proxy). PostPlanner exports (6 posts each X + TOBI). WordPress 403 (proxy sandbox — known). Content committed and pushed.
+- **Dashboard Published**: Attempted — proxy blocked push to content-dashboards repo
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard publish 403 (proxy blocks content-dashboards — known). IMAGE MISSING expected (not_started). claim-patterns.py missing (known). 0 char violations. Compile shows 0 tweets (known heading format — PostPlanner export confirmed 6 tweets found).
+- **Key Stories**: All-Star Week one week away/Derby July 13 Netflix/Game July 14 FOX 8PM ET/Dodgers+Braves+Phillies 5 each/26 first-timers/Ohtani leads all/Clement leads AL/Philly first host since 1996 (Tier 1 FOLLOW UP), Nick Kurtz first All-Star start/Guerrero Jr. back injury withdrawal/Kurtz 23yo 2nd season/20 HR 66 RBI AL leader 76 walks AL leader .424 OBP .949 OPS (Tier 1 NEW), Misiorowski 1.45 ERA MLB-best 0.81 WHIP MLB-best 105.5 mph Statcast era high starters/Brewers fastest to 50 wins franchise history/All-Star status in doubt workload/Turang No. 7 NL bWAR snubbed (Tier 2 NEW), HRD 6 days/Schwarber 30+ HR MLB leader at home park/Netflix premiere/Caminero confirmed/Judge out rib fracture/new swing-bracket format (Tier 2 FOLLOW UP), Skubal 27 days August 3/Braves frontrunner Nightengale/85% ESPN/Yankees no chance/Dodgers out/Tigers 38-49/Sale+Skubal rotation vision (Tier 2 FOLLOW UP)
+
+## Last Run
 - **Date**: 2026-07-06
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via agents), brief (5 stories), research notes, story analysis, X posts (7; 4 char violations fixed stories 1/2/3/5; 0 violations after fix), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (28 claims HIGH; universal extraction only — claim-patterns.py missing known), compile (5 stories, 7 tweets, 0 FB posts parsed — known format, 5 articles, 22 items), dashboard (22 items), dashboard publish 403 (proxy). PostPlanner exports (7 posts each). WordPress 403 (proxy sandbox — known). Content committed and pushed.
 - **Dashboard Published**: Attempted — proxy blocked push to content-dashboards repo

@@ -1,0 +1,2769 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ballpark Banter — Content Review Dashboard</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: #f5f5f5;
+            display: flex;
+            min-height: 100vh;
+            color: #333;
+        }
+
+        .sidebar {
+            width: 280px;
+            background: #1a1a2e;
+            color: white;
+            padding: 30px 20px;
+            position: fixed;
+            height: 100vh;
+            overflow-y: auto;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+            z-index: 10;
+        }
+
+        .sidebar h1 { font-size: 18px; margin-bottom: 10px; color: #FF8A00; font-weight: 700; }
+        .sidebar-date { font-size: 12px; color: #aaa; margin-bottom: 30px; padding-bottom: 20px; border-bottom: 1px solid #333; }
+        .sidebar-section { margin-bottom: 25px; }
+        .sidebar-section-title { font-size: 12px; text-transform: uppercase; color: #999; margin-bottom: 12px; font-weight: 600; letter-spacing: 1px; }
+
+        .nav-item {
+            display: block; padding: 12px 15px; margin-bottom: 8px; border-radius: 6px;
+            cursor: pointer; transition: all 0.3s ease; font-size: 14px; color: #ddd; user-select: none;
+        }
+        .nav-item:hover { background: #2d2d44; color: #FF8A00; }
+        .nav-item.active { background: #FF8A00; color: white; }
+        .nav-item-count { float: right; background: rgba(255, 107, 53, 0.3); padding: 2px 8px; border-radius: 3px; font-size: 12px; }
+        .nav-item.active .nav-item-count { background: rgba(0, 0, 0, 0.2); }
+
+        .main-content { margin-left: 280px; flex: 1; display: flex; flex-direction: column; }
+
+        .header {
+            background: white; padding: 25px 40px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-bottom: 3px solid #FF8A00;
+        }
+        .header h1 { font-size: 28px; color: #1a1a2e; margin-bottom: 10px; }
+        .header-meta { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px; }
+        .progress-bar { flex: 1; min-width: 200px; }
+        .progress-label { font-size: 13px; color: #666; margin-bottom: 8px; font-weight: 500; }
+        .progress-container { width: 100%; height: 8px; background: #ddd; border-radius: 4px; overflow: hidden; }
+        .progress-fill { height: 100%; background: linear-gradient(90deg, #FF8A00, #E53935); transition: width 0.3s ease; }
+        .header-actions { display: flex; gap: 10px; }
+
+        .btn {
+            padding: 10px 16px; border: none; border-radius: 6px; font-size: 14px;
+            font-weight: 600; cursor: pointer; transition: all 0.3s ease; white-space: nowrap;
+        }
+        .btn-primary { background: #FF8A00; color: white; }
+        .btn-primary:hover { background: #E53935; }
+        .btn-secondary { background: #f0f0f0; color: #333; }
+        .btn-secondary:hover { background: #e0e0e0; }
+
+        .filter-bar {
+            background: white; padding: 20px 40px; display: flex;
+            gap: 10px; flex-wrap: wrap; border-bottom: 1px solid #eee;
+        }
+        .filter-btn {
+            padding: 8px 14px; border: 1px solid #ddd; background: white;
+            border-radius: 5px; cursor: pointer; font-size: 13px; transition: all 0.3s ease;
+        }
+        .filter-btn:hover { border-color: #FF8A00; color: #FF8A00; }
+        .filter-btn.active { background: #FF8A00; color: white; border-color: #FF8A00; }
+
+        .content { flex: 1; padding: 30px 40px; overflow-y: auto; }
+
+        .cards-container { display: flex; flex-direction: column; gap: 20px; max-width: 900px; }
+
+        .card {
+            background: white; border-radius: 8px; padding: 24px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1); transition: all 0.3s ease;
+            border-left: 5px solid #ccc; display: none;
+        }
+        .card.show { display: block; }
+        .card.approved { border-left-color: #22c55e; }
+        .card.needs-edit { border-left-color: #eab308; }
+        .card.rejected { border-left-color: #ef4444; }
+        .card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.12); }
+
+        .card-header { display: flex; justify-content: space-between; align-items: start; margin-bottom: 15px; }
+        .card-title { font-size: 16px; font-weight: 600; color: #1a1a2e; flex: 1; margin-right: 10px; }
+
+        .card-badge {
+            display: inline-block; padding: 4px 10px; border-radius: 4px;
+            font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;
+        }
+        .badge-x-post { background: #1da1f2; color: white; }
+        .badge-facebook { background: #4267b2; color: white; }
+        .badge-article { background: #9333ea; color: white; }
+        .badge-image { background: #06b6d4; color: white; }
+        .badge-brief { background: #10b981; color: white; }
+
+        .fact-check-badge {
+            display: inline-block; padding: 3px 8px; border-radius: 4px;
+            font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;
+            margin-left: 6px;
+        }
+        .fact-check-verified { background: #dcfce7; color: #166534; border: 1px solid #86efac; }
+        .fact-check-warning { background: #fef9c3; color: #854d0e; border: 1px solid #fde047; }
+        .fact-check-unverified { background: #fee2e2; color: #991b1b; border: 1px solid #fca5a5; }
+
+        /* Content area — preview (collapsed) and full (expanded) */
+        .card-content {
+            background: #f9f9f9; padding: 15px; border-radius: 6px;
+            margin-bottom: 15px; font-size: 13px; line-height: 1.6; color: #555;
+            position: relative;
+        }
+        .card-content-text {
+            white-space: pre-wrap; word-break: break-word;
+        }
+
+        /* Collapsed state: limit height with fade */
+        .card-content.collapsed {
+            max-height: 200px; overflow: hidden;
+        }
+        .card-content.collapsed::after {
+            content: '';
+            position: absolute; bottom: 0; left: 0; right: 0; height: 60px;
+            background: linear-gradient(transparent, #f9f9f9);
+            pointer-events: none;
+        }
+
+        /* Expanded state: no limit */
+        .card-content.expanded {
+            max-height: none; overflow: visible;
+        }
+        .card-content.expanded::after { display: none; }
+
+        .expand-toggle {
+            display: inline-block; margin-bottom: 12px; padding: 6px 14px;
+            background: #eee; border: 1px solid #ddd; border-radius: 4px;
+            cursor: pointer; font-size: 12px; font-weight: 600; color: #555;
+            transition: all 0.2s ease;
+        }
+        .expand-toggle:hover { background: #ddd; color: #333; }
+
+        /* Inline editing */
+        .edit-textarea {
+            width: 100%; padding: 15px; border: 2px solid #FF8A00;
+            border-radius: 6px; font-size: 13px; font-family: inherit;
+            line-height: 1.6; resize: vertical; min-height: 200px;
+            background: #fffef5; color: #333; display: none;
+        }
+        .edit-textarea:focus {
+            outline: none; box-shadow: 0 0 0 3px rgba(255, 107, 53, 0.15);
+        }
+        .card.editing .card-content { display: none; }
+        .card.editing .edit-textarea { display: block; }
+        .card.editing .expand-toggle { display: none; }
+
+        .edit-bar {
+            display: none; gap: 8px; margin-bottom: 12px; padding: 10px;
+            background: #fff8f0; border: 1px solid #ffcc99; border-radius: 6px;
+            align-items: center;
+        }
+        .card.editing .edit-bar { display: flex; }
+        .edit-bar-label { font-size: 12px; font-weight: 600; color: #cc6600; flex: 1; }
+        .edit-bar .btn { padding: 7px 14px; font-size: 12px; }
+
+        .tweet-meta-bar {
+            display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; padding: 0;
+        }
+        .tweet-meta-badge {
+            display: inline-block; padding: 4px 10px; border-radius: 4px;
+            font-size: 11px; font-weight: 600; letter-spacing: 0.3px;
+        }
+        .tweet-meta-label { background: #e0e7ff; color: #3730a3; }
+        .tweet-meta-time { background: #fef3c7; color: #92400e; }
+        .tweet-meta-type { background: #d1fae5; color: #065f46; }
+        .tweet-meta-tier { background: #f3e8ff; color: #6b21a8; }
+        .tweet-meta-hashtags { background: #dbeafe; color: #1e40af; font-family: monospace; }
+
+        .char-count {
+            font-size: 12px; margin: 0 0 10px 0; padding: 8px;
+            background: #f0f0f0; border-radius: 4px;
+        }
+        .char-count.warning { background: #fee2e2; color: #991b1b; }
+
+        .card-actions { display: flex; gap: 8px; margin-bottom: 12px; flex-wrap: wrap; }
+        .action-btn {
+            flex: 1; padding: 10px; border: none; border-radius: 5px;
+            cursor: pointer; font-size: 13px; font-weight: 600;
+            transition: all 0.3s ease; white-space: nowrap; min-width: 100px;
+        }
+        .btn-approve { background: #e8f5e9; color: #22c55e; border: 1px solid #22c55e; }
+        .btn-approve:hover { background: #22c55e; color: white; }
+        .btn-edit { background: #fff3e0; color: #e65100; border: 1px solid #ff9800; }
+        .btn-edit:hover { background: #ff9800; color: white; }
+        .btn-reject { background: #fee2e2; color: #ef4444; border: 1px solid #ef4444; }
+        .btn-reject:hover { background: #ef4444; color: white; }
+        .btn-copy { background: #f0f0f0; color: #333; border: 1px solid #ddd; }
+        .btn-copy:hover { background: #e0e0e0; }
+
+        .notes-section { display: none; margin-bottom: 12px; }
+        .notes-section.show { display: block; }
+        .notes-label { font-size: 12px; font-weight: 600; color: #666; margin-bottom: 6px; }
+        .notes-textarea {
+            width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px;
+            font-size: 13px; font-family: inherit; resize: vertical; min-height: 60px;
+        }
+        .notes-textarea:focus { outline: none; border-color: #FF8A00; box-shadow: 0 0 0 3px rgba(255, 107, 53, 0.1); }
+
+        .status-label {
+            font-size: 11px; font-weight: 600; text-transform: uppercase;
+            padding: 4px 8px; border-radius: 3px; margin-top: 10px; display: inline-block;
+        }
+        .status-approved { background: #e8f5e9; color: #22c55e; }
+        .status-needs-edit { background: #fffbeb; color: #f59e0b; }
+        .status-rejected { background: #fee2e2; color: #ef4444; }
+        .status-edited { background: #e3f2fd; color: #1565c0; }
+
+        .empty-state { text-align: center; padding: 60px 20px; color: #999; }
+        .empty-state-icon { font-size: 48px; margin-bottom: 15px; }
+
+        /* Approval stats bar */
+        .approval-stats {
+            display: flex; gap: 16px; margin-top: 12px; flex-wrap: wrap;
+        }
+        .stat-chip {
+            display: inline-flex; align-items: center; gap: 6px;
+            padding: 4px 12px; border-radius: 20px; font-size: 13px; font-weight: 600;
+        }
+        .stat-approved { background: #dcfce7; color: #16a34a; }
+        .stat-rejected { background: #fee2e2; color: #dc2626; }
+        .stat-unreviewed { background: #f3f4f6; color: #6b7280; }
+        .stat-dot { width: 8px; height: 8px; border-radius: 50%; }
+        .stat-approved .stat-dot { background: #22c55e; }
+        .stat-rejected .stat-dot { background: #ef4444; }
+        .stat-unreviewed .stat-dot { background: #9ca3af; }
+
+        /* PostPlanner XLSX button */
+        .btn-csv { background: #7c3aed; color: white; }
+        .btn-csv:hover { background: #6d28d9; }
+        .btn-csv:disabled { background: #c4b5fd; cursor: not-allowed; }
+
+        /* Schedule settings panel */
+        .schedule-panel {
+            display: none; position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%);
+            background: white; border-radius: 12px; padding: 30px; z-index: 1000;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3); width: 500px; max-width: 90vw; max-height: 80vh; overflow-y: auto;
+        }
+        .schedule-panel.show { display: block; }
+        .schedule-overlay { display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.5); z-index: 999; }
+        .schedule-overlay.show { display: block; }
+        .schedule-panel h3 { color: #1a1a2e; margin-bottom: 20px; font-size: 18px; }
+        .schedule-section { margin-bottom: 20px; }
+        .schedule-section label { display: block; font-size: 13px; font-weight: 600; color: #555; margin-bottom: 6px; }
+        .schedule-section input { width: 100%; padding: 8px 12px; border: 1px solid #ddd; border-radius: 4px; font-size: 14px; }
+        .schedule-section input:focus { outline: none; border-color: #7c3aed; }
+        .time-slots { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; }
+        .time-slot {
+            display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px;
+            background: #f3f0ff; border: 1px solid #c4b5fd; border-radius: 20px; font-size: 13px;
+        }
+        .time-slot .remove-slot { cursor: pointer; color: #999; font-weight: bold; }
+        .time-slot .remove-slot:hover { color: #ef4444; }
+        .add-slot-btn {
+            padding: 6px 14px; background: #f3f0ff; border: 1px dashed #7c3aed; border-radius: 20px;
+            cursor: pointer; font-size: 13px; color: #7c3aed;
+        }
+        .add-slot-btn:hover { background: #ede9fe; }
+        .schedule-actions { display: flex; gap: 10px; justify-content: flex-end; margin-top: 20px; }
+
+        /* Photo search links for image concepts */
+        .photo-section {
+            margin-bottom: 15px; padding: 12px; background: #f0f9ff;
+            border: 1px solid #bae6fd; border-radius: 6px;
+        }
+        .photo-section-title {
+            font-size: 12px; font-weight: 700; color: #0369a1; text-transform: uppercase;
+            letter-spacing: 0.5px; margin-bottom: 8px;
+        }
+        .photo-links { display: flex; flex-wrap: wrap; gap: 6px; }
+        .photo-link {
+            display: inline-block; padding: 6px 12px; background: #0ea5e9;
+            color: white; border-radius: 4px; font-size: 12px; font-weight: 500;
+            text-decoration: none; transition: all 0.2s ease; cursor: pointer;
+        }
+        .photo-link:hover { background: #0284c7; }
+
+        /* Image URL input and preview for image concepts */
+        .image-url-section {
+            margin-bottom: 15px; padding: 12px; background: #f0fdf4;
+            border: 1px solid #bbf7d0; border-radius: 6px;
+        }
+        .image-url-section label {
+            display: block; font-size: 12px; font-weight: 700; color: #166534;
+            text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 6px;
+        }
+        .image-url-input {
+            width: 100%; padding: 8px 10px; border: 1px solid #86efac;
+            border-radius: 4px; font-size: 13px; font-family: monospace;
+            background: white; box-sizing: border-box;
+        }
+        .image-url-input:focus { outline: none; border-color: #22c55e; box-shadow: 0 0 0 2px rgba(34,197,94,0.2); }
+        .image-url-hint {
+            font-size: 11px; color: #6b7280; margin-top: 4px;
+        }
+        .image-preview {
+            margin-top: 8px; text-align: center;
+        }
+        .image-preview img {
+            max-width: 100%; max-height: 200px; border-radius: 4px;
+            border: 1px solid #d1d5db; display: none;
+        }
+        .image-preview img.loaded { display: inline-block; }
+
+        /* Image production status badges */
+        .image-badge {
+            display: inline-block; padding: 2px 8px; border-radius: 3px;
+            font-size: 10px; font-weight: 700; text-transform: uppercase;
+            letter-spacing: 0.5px; margin-left: 6px;
+        }
+        .image-exported { background: #dcfce7; color: #166534; }
+        .image-in-progress { background: #fef3c7; color: #92400e; }
+        .image-not-started { background: #f3f4f6; color: #6b7280; }
+
+        /* Text overlay preview for image concepts */
+        .overlay-section {
+            margin-bottom: 15px; padding: 15px; background: #1a1a2e;
+            border-radius: 6px; text-align: center;
+        }
+        .overlay-line {
+            font-family: 'Bebas Neue', Impact, 'Arial Black', sans-serif;
+            color: #ffd700; font-size: 18px; font-weight: 700; line-height: 1.4;
+            text-transform: uppercase; letter-spacing: 1px;
+        }
+        .overlay-line.sub { color: #ffffff; font-size: 14px; font-weight: 400; letter-spacing: 0; text-transform: none; }
+
+        /* Article content rendered as HTML */
+        .article-frame {
+            width: 100%; border: 1px solid #ddd; border-radius: 6px;
+            background: white; min-height: 300px;
+        }
+
+        @media (max-width: 768px) {
+            .sidebar { width: 100%; height: auto; position: relative; padding: 20px; }
+            .main-content { margin-left: 0; }
+            .content { padding: 20px; }
+            .header { padding: 15px 20px; }
+            .header h1 { font-size: 20px; }
+            .filter-bar { padding: 15px 20px; }
+            .header-meta { flex-direction: column; align-items: stretch; }
+            .progress-bar { min-width: auto; }
+        }
+
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: #f1f1f1; }
+        ::-webkit-scrollbar-thumb { background: #888; border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: #555; }
+    </style>
+</head>
+<body>
+    <div class="sidebar">
+        <h1>Ballpark Banter</h1>
+        <div class="sidebar-date">Review Dashboard<br>2026-07-07</div>
+
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Content Types</div>
+            <div class="nav-item" onclick="filterByType('daily_brief')">
+                Daily Brief
+                <span class="nav-item-count">5</span>
+            </div>
+            <div class="nav-item" onclick="filterByType('article')">
+                Articles
+                <span class="nav-item-count">5</span>
+            </div>
+            <div class="nav-item" onclick="filterByType('image_concept')">
+                Image Concepts
+                <span class="nav-item-count">5</span>
+            </div>
+
+            <div class="nav-item" onclick="filterByType('all')">
+                All Items
+                <span class="nav-item-count">15</span>
+            </div>
+        </div>
+
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Status Filter</div>
+            <div class="nav-item" onclick="filterByStatus('all')">All</div>
+            <div class="nav-item" onclick="filterByStatus('unreviewed')">Unreviewed</div>
+            <div class="nav-item" onclick="filterByStatus('approved')">Approved</div>
+            <div class="nav-item" onclick="filterByStatus('needs-edit')">Needs Edit</div>
+            <div class="nav-item" onclick="filterByStatus('rejected')">Rejected</div>
+        </div>
+
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Actions</div>
+            <div class="nav-item" onclick="approveAll()" style="color: #22c55e;">
+                Approve All
+            </div>
+            <div class="nav-item" onclick="exportApprovals()" style="color: #FF8A00;">
+                Export Results JSON
+            </div>
+            <div class="nav-item" onclick="downloadPostPlannerCSV()" style="color: #a78bfa;">
+                PostPlanner Upload
+            </div>
+            <div class="nav-item" onclick="downloadTOBIExport()" style="color: #f472b6;">
+                TOBI Upload
+            </div>
+        </div>
+    </div>
+
+    <div class="main-content">
+        <div class="header">
+            <h1>Ballpark Banter — Content Review Dashboard</h1>
+            <div class="header-meta">
+                <div class="progress-bar">
+                    <div class="progress-label">
+                        <span id="reviewed-count">0</span> of <span id="total-count">15</span> items reviewed
+                    </div>
+                    <div class="progress-container">
+                        <div class="progress-fill" id="progress-fill" style="width: 0%"></div>
+                    </div>
+                    <div class="approval-stats" id="approval-stats">
+                        <span class="stat-chip stat-approved"><span class="stat-dot"></span> <span id="stat-approved-count">0</span> approved</span>
+                        <span class="stat-chip stat-rejected"><span class="stat-dot"></span> <span id="stat-rejected-count">0</span> rejected</span>
+                        <span class="stat-chip stat-unreviewed"><span class="stat-dot"></span> <span id="stat-unreviewed-count">0</span> unreviewed</span>
+                    </div>
+                </div>
+                <div class="header-actions">
+                    <button class="btn btn-secondary" onclick="resetAll()">Reset All</button>
+                    <button class="btn btn-csv" id="btn-csv" onclick="downloadPostPlannerCSV()" disabled>PostPlanner Upload (0 approved)</button>
+                    <button class="btn btn-csv" id="btn-tobi" onclick="downloadTOBIExport()" disabled style="background: #831843; border-color: #f472b6;">TOBI Upload (0 approved)</button>
+                    <button class="btn btn-primary" onclick="exportApprovals()">Export JSON</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="filter-bar">
+            <button class="filter-btn active" onclick="filterByStatus('all')">All</button>
+            <button class="filter-btn" onclick="filterByStatus('unreviewed')">Unreviewed</button>
+            <button class="filter-btn" onclick="filterByStatus('approved')">Approved</button>
+            <button class="filter-btn" onclick="filterByStatus('needs-edit')">Needs Edit</button>
+            <button class="filter-btn" onclick="filterByStatus('rejected')">Rejected</button>
+        </div>
+
+
+        <div class="content">
+            <div class="cards-container" id="cards-container">
+                <div class="card" data-id="story-1-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">All-Star Week Is One Week Away — Here&#x27;s What to Watch</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content collapsed" id="content-story-1-daily_brief">
+                        <div class="card-content-text">All-Star Week Is One Week Away — Here&#x27;s What to Watch
+- **Tier:** 1
+- **Angle:** The 2026 MLB All-Star Week is one week from today. The full schedule: Home Run Derby on Netflix July 13 from Citizens Bank Park, All-Star Game on FOX July 14 at 8 PM ET. Rosters set — Dodgers, Braves and Phillies lead with 5 each. Ernie Clement (Blue Jays) led AL voting; Shohei Ohtani led all players. Vladimir Guerrero Jr. stepped down from the starting spot to rest his back. There are 26 first-time All-Stars in the full rosters. It will be the first All-Star week in Philadelphia since 1996.</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-1-daily_brief" placeholder="Edit content here...">All-Star Week Is One Week Away — Here&#x27;s What to Watch
+- **Tier:** 1
+- **Angle:** The 2026 MLB All-Star Week is one week from today. The full schedule: Home Run Derby on Netflix July 13 from Citizens Bank Park, All-Star Game on FOX July 14 at 8 PM ET. Rosters set — Dodgers, Braves and Phillies lead with 5 each. Ernie Clement (Blue Jays) led AL voting; Shohei Ohtani led all players. Vladimir Guerrero Jr. stepped down from the starting spot to rest his back. There are 26 first-time All-Stars in the full rosters. It will be the first All-Star week in Philadelphia since 1996.</textarea>
+                    <span class="expand-toggle" id="toggle-story-1-daily_brief" onclick="toggleExpand('story-1-daily_brief')">Show Full Content</span>
+                    
+                    <div class="edit-bar" id="editbar-story-1-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-1-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-1-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-1-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-1-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-1-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-1-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-1-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-1-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-1-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-1-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-1-image_concept" data-type="image_concept" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">All-Star Week Is One Week Away — Here&#x27;s What to Watch — Image Concept</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-image">IMAGE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-1-image_concept">
+                        <div class="card-content-text">**Image — **
+</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-1-image_concept" placeholder="Edit content here...">**Image — **
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-1-image_concept">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-1-image_concept')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-1-image_concept')">Cancel</button>
+                    </div>
+                    
+                    <div class="image-url-section">
+                        <label>Selected Image URL <span class="image-badge image-not-started" title="No image manifest found">NO IMAGES</span></label>
+                        <input type="text" class="image-url-input"
+                               data-story="1" data-platform="facebook_image"
+                               placeholder="Paste Imagn or exported image URL here"
+                               value=""
+                               onchange="updateImageURL(this)"
+                               onpaste="setTimeout(function(){ updateImageURL(event.target) }, 100)">
+                        <div class="image-url-hint">Copy the direct image URL from your photo source after selecting</div>
+                        <div class="image-preview">
+                            <img src="" alt="Image preview" class=""
+                                 id="img-preview-1-facebook_image"
+                                 onerror="this.classList.remove('loaded')">
+                        </div>
+                    </div>
+
+                    <div class="card-actions" id="actions-story-1-image_concept">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-1-image_concept')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-1-image_concept')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-1-image_concept')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-1-image_concept')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-1-image_concept">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-1-image_concept" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-1-image_concept"></div>
+                </div>
+                <div class="card" data-id="story-2-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Nick Kurtz Gets His First All-Star Start</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content collapsed" id="content-story-2-daily_brief">
+                        <div class="card-content-text">Nick Kurtz Gets His First All-Star Start
+- **Tier:** 1
+- **Angle:** Vladimir Guerrero Jr. stepped aside to rest a back injury, and Oakland Athletics first baseman Nick Kurtz got the call. The 23-year-old is in just his second MLB season, and his first half has been remarkable: 20 HR, 66 RBI (AL-leading), 76 walks (AL-leading), .424 OBP, .949 OPS. Kurtz leads the AL in both RBI and walks — one of the most complete offensive players in the game. He now gets a national stage at Citizens Bank Park on July 14. The Athletics are quietly having a very good season.</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-2-daily_brief" placeholder="Edit content here...">Nick Kurtz Gets His First All-Star Start
+- **Tier:** 1
+- **Angle:** Vladimir Guerrero Jr. stepped aside to rest a back injury, and Oakland Athletics first baseman Nick Kurtz got the call. The 23-year-old is in just his second MLB season, and his first half has been remarkable: 20 HR, 66 RBI (AL-leading), 76 walks (AL-leading), .424 OBP, .949 OPS. Kurtz leads the AL in both RBI and walks — one of the most complete offensive players in the game. He now gets a national stage at Citizens Bank Park on July 14. The Athletics are quietly having a very good season.</textarea>
+                    <span class="expand-toggle" id="toggle-story-2-daily_brief" onclick="toggleExpand('story-2-daily_brief')">Show Full Content</span>
+                    
+                    <div class="edit-bar" id="editbar-story-2-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-2-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-2-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-2-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-2-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-2-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-2-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-2-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-2-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-2-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-2-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-2-image_concept" data-type="image_concept" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Nick Kurtz Gets His First All-Star Start — Image Concept</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-image">IMAGE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-2-image_concept">
+                        <div class="card-content-text">**Image — **
+</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-2-image_concept" placeholder="Edit content here...">**Image — **
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-2-image_concept">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-2-image_concept')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-2-image_concept')">Cancel</button>
+                    </div>
+                    
+                    <div class="image-url-section">
+                        <label>Selected Image URL <span class="image-badge image-not-started" title="No image manifest found">NO IMAGES</span></label>
+                        <input type="text" class="image-url-input"
+                               data-story="2" data-platform="facebook_image"
+                               placeholder="Paste Imagn or exported image URL here"
+                               value=""
+                               onchange="updateImageURL(this)"
+                               onpaste="setTimeout(function(){ updateImageURL(event.target) }, 100)">
+                        <div class="image-url-hint">Copy the direct image URL from your photo source after selecting</div>
+                        <div class="image-preview">
+                            <img src="" alt="Image preview" class=""
+                                 id="img-preview-2-facebook_image"
+                                 onerror="this.classList.remove('loaded')">
+                        </div>
+                    </div>
+
+                    <div class="card-actions" id="actions-story-2-image_concept">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-2-image_concept')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-2-image_concept')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-2-image_concept')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-2-image_concept')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-2-image_concept">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-2-image_concept" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-2-image_concept"></div>
+                </div>
+                <div class="card" data-id="story-3-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Jacob Misiorowski&#x27;s Historic First Half — And the All-Star Question</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content collapsed" id="content-story-3-daily_brief">
+                        <div class="card-content-text">Jacob Misiorowski&#x27;s Historic First Half — And the All-Star Question
+- **Tier:** 2
+- **Angle:** The Brewers are the fastest team in franchise history to 50 wins. The man most responsible is Jacob Misiorowski, whose first half has been historically dominant: 1.45–1.50 ERA (MLB-best), 0.81 WHIP (MLB-best), 105.5 mph max velocity (Statcast era high for starters). He was selected to the All-Star Game alongside catcher William Contreras. His status for the Midsummer Classic is in doubt due to workload concerns. The Brice Turang snub adds complexity: the Brewers&#x27; best position player was passed over despite ranking No. 7 in NL bWAR.</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-3-daily_brief" placeholder="Edit content here...">Jacob Misiorowski&#x27;s Historic First Half — And the All-Star Question
+- **Tier:** 2
+- **Angle:** The Brewers are the fastest team in franchise history to 50 wins. The man most responsible is Jacob Misiorowski, whose first half has been historically dominant: 1.45–1.50 ERA (MLB-best), 0.81 WHIP (MLB-best), 105.5 mph max velocity (Statcast era high for starters). He was selected to the All-Star Game alongside catcher William Contreras. His status for the Midsummer Classic is in doubt due to workload concerns. The Brice Turang snub adds complexity: the Brewers&#x27; best position player was passed over despite ranking No. 7 in NL bWAR.</textarea>
+                    <span class="expand-toggle" id="toggle-story-3-daily_brief" onclick="toggleExpand('story-3-daily_brief')">Show Full Content</span>
+                    
+                    <div class="edit-bar" id="editbar-story-3-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-3-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-3-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-3-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-3-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-3-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-3-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-3-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-3-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-3-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-3-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-3-image_concept" data-type="image_concept" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Jacob Misiorowski&#x27;s Historic First Half — And the All-Star Question — Image Concept</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-image">IMAGE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-3-image_concept">
+                        <div class="card-content-text">**Image — **
+</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-3-image_concept" placeholder="Edit content here...">**Image — **
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-3-image_concept">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-3-image_concept')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-3-image_concept')">Cancel</button>
+                    </div>
+                    
+                    <div class="image-url-section">
+                        <label>Selected Image URL <span class="image-badge image-not-started" title="No image manifest found">NO IMAGES</span></label>
+                        <input type="text" class="image-url-input"
+                               data-story="3" data-platform="facebook_image"
+                               placeholder="Paste Imagn or exported image URL here"
+                               value=""
+                               onchange="updateImageURL(this)"
+                               onpaste="setTimeout(function(){ updateImageURL(event.target) }, 100)">
+                        <div class="image-url-hint">Copy the direct image URL from your photo source after selecting</div>
+                        <div class="image-preview">
+                            <img src="" alt="Image preview" class=""
+                                 id="img-preview-3-facebook_image"
+                                 onerror="this.classList.remove('loaded')">
+                        </div>
+                    </div>
+
+                    <div class="card-actions" id="actions-story-3-image_concept">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-3-image_concept')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-3-image_concept')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-3-image_concept')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-3-image_concept')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-3-image_concept">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-3-image_concept" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-3-image_concept"></div>
+                </div>
+                <div class="card" data-id="story-4-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Home Run Derby Preview — 6 Days Until Netflix Lights Up Citizens Bank</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content collapsed" id="content-story-4-daily_brief">
+                        <div class="card-content-text">Home Run Derby Preview — 6 Days Until Netflix Lights Up Citizens Bank
+- **Tier:** 2
+- **Angle:** The Home Run Derby is 6 days away — July 13 at Citizens Bank Park on Netflix. Kyle Schwarber leads MLB with 30+ home runs at his home stadium. Junior Caminero (2025 runner-up) is confirmed. Bryce Harper has updated his status. The new swing-bracket format replaces the traditional Derby structure. This is the first Derby ever aired on Netflix, bringing the event to a global streaming audience. Judge is out with a rib fracture.</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-4-daily_brief" placeholder="Edit content here...">Home Run Derby Preview — 6 Days Until Netflix Lights Up Citizens Bank
+- **Tier:** 2
+- **Angle:** The Home Run Derby is 6 days away — July 13 at Citizens Bank Park on Netflix. Kyle Schwarber leads MLB with 30+ home runs at his home stadium. Junior Caminero (2025 runner-up) is confirmed. Bryce Harper has updated his status. The new swing-bracket format replaces the traditional Derby structure. This is the first Derby ever aired on Netflix, bringing the event to a global streaming audience. Judge is out with a rib fracture.</textarea>
+                    <span class="expand-toggle" id="toggle-story-4-daily_brief" onclick="toggleExpand('story-4-daily_brief')">Show Full Content</span>
+                    
+                    <div class="edit-bar" id="editbar-story-4-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-4-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-4-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-4-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-4-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-4-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-4-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-4-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-4-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-4-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-4-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-4-image_concept" data-type="image_concept" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Home Run Derby Preview — 6 Days Until Netflix Lights Up Citizens Bank — Image Concept</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-image">IMAGE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-4-image_concept">
+                        <div class="card-content-text">**Image — **
+</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-4-image_concept" placeholder="Edit content here...">**Image — **
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-4-image_concept">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-4-image_concept')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-4-image_concept')">Cancel</button>
+                    </div>
+                    
+                    <div class="image-url-section">
+                        <label>Selected Image URL <span class="image-badge image-not-started" title="No image manifest found">NO IMAGES</span></label>
+                        <input type="text" class="image-url-input"
+                               data-story="4" data-platform="facebook_image"
+                               placeholder="Paste Imagn or exported image URL here"
+                               value=""
+                               onchange="updateImageURL(this)"
+                               onpaste="setTimeout(function(){ updateImageURL(event.target) }, 100)">
+                        <div class="image-url-hint">Copy the direct image URL from your photo source after selecting</div>
+                        <div class="image-preview">
+                            <img src="" alt="Image preview" class=""
+                                 id="img-preview-4-facebook_image"
+                                 onerror="this.classList.remove('loaded')">
+                        </div>
+                    </div>
+
+                    <div class="card-actions" id="actions-story-4-image_concept">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-4-image_concept')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-4-image_concept')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-4-image_concept')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-4-image_concept')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-4-image_concept">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-4-image_concept" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-4-image_concept"></div>
+                </div>
+                <div class="card" data-id="story-5-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Skubal Countdown — 27 Days to the August 3 Deadline</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content collapsed" id="content-story-5-daily_brief">
+                        <div class="card-content-text">Skubal Countdown — 27 Days to the August 3 Deadline
+- **Tier:** 2
+- **Angle:** The August 3 trade deadline is 27 days away. Tarik Skubal remains the biggest domino — 85% trade probability, Braves the frontrunner per Nightengale. Tigers are 38-49. The asking price: an elite prospect plus two or three top-10 prospects. What a Skubal-to-Atlanta deal looks like: he joins Chris Sale (who hit his 10th All-Star selection) in one of the most dominant 1-2 SP rotations in the league. The Dodgers are believed &quot;not in.&quot; The Yankees are &quot;no chance.&quot; Braves vs. the field.</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-5-daily_brief" placeholder="Edit content here...">Skubal Countdown — 27 Days to the August 3 Deadline
+- **Tier:** 2
+- **Angle:** The August 3 trade deadline is 27 days away. Tarik Skubal remains the biggest domino — 85% trade probability, Braves the frontrunner per Nightengale. Tigers are 38-49. The asking price: an elite prospect plus two or three top-10 prospects. What a Skubal-to-Atlanta deal looks like: he joins Chris Sale (who hit his 10th All-Star selection) in one of the most dominant 1-2 SP rotations in the league. The Dodgers are believed &quot;not in.&quot; The Yankees are &quot;no chance.&quot; Braves vs. the field.</textarea>
+                    <span class="expand-toggle" id="toggle-story-5-daily_brief" onclick="toggleExpand('story-5-daily_brief')">Show Full Content</span>
+                    
+                    <div class="edit-bar" id="editbar-story-5-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-5-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-5-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-5-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-5-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-5-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-5-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-5-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-5-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-5-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-5-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-5-image_concept" data-type="image_concept" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Skubal Countdown — 27 Days to the August 3 Deadline — Image Concept</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-image">IMAGE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-5-image_concept">
+                        <div class="card-content-text">**Image — **
+</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-5-image_concept" placeholder="Edit content here...">**Image — **
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-5-image_concept">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-5-image_concept')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-5-image_concept')">Cancel</button>
+                    </div>
+                    
+                    <div class="image-url-section">
+                        <label>Selected Image URL <span class="image-badge image-not-started" title="No image manifest found">NO IMAGES</span></label>
+                        <input type="text" class="image-url-input"
+                               data-story="5" data-platform="facebook_image"
+                               placeholder="Paste Imagn or exported image URL here"
+                               value=""
+                               onchange="updateImageURL(this)"
+                               onpaste="setTimeout(function(){ updateImageURL(event.target) }, 100)">
+                        <div class="image-url-hint">Copy the direct image URL from your photo source after selecting</div>
+                        <div class="image-preview">
+                            <img src="" alt="Image preview" class=""
+                                 id="img-preview-5-facebook_image"
+                                 onerror="this.classList.remove('loaded')">
+                        </div>
+                    </div>
+
+                    <div class="card-actions" id="actions-story-5-image_concept">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-5-image_concept')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-5-image_concept')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-5-image_concept')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-5-image_concept')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-5-image_concept">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-5-image_concept" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-5-image_concept"></div>
+                </div>
+                <div class="card" data-id="article-article-01-allstar-week-one-week-away" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">One Week to All-Star: Your Complete Guide to MLB&#x27;s Midsummer Classic in Philadelphia</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-01-allstar-week-one-week-away">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<title>One Week to All-Star: Your Complete Guide to MLB's Midsummer Classic in Philadelphia</title>
+</head>
+<body>
+
+<h1>One Week to All-Star: Your Complete Guide to MLB's Midsummer Classic in Philadelphia</h1>
+<p><em>By Marcus Cole | July 7, 2026</em></p>
+
+<p>One week from today, Citizens Bank Park will host the best players in baseball. The 2026 MLB All-Star Week is here — and for the first time since 1996, Philadelphia gets the Midsummer Classic.</p>
+
+<p>Here is everything you need to know before the first pitch.</p>
+
+<h2>The Schedule</h2>
+
+<p>The Home Run Derby takes place on Monday, July 13, at Citizens Bank Park. For the first time in history, the Derby streams live on Netflix. Start time to be confirmed, but expect a prime-time slot for what figures to be one of the most-watched sporting events of the summer.</p>
+
+<p>The All-Star Game follows on Tuesday, July 14, also at Citizens Bank Park. First pitch is at 8 PM ET on FOX. Philadelphia is the backdrop; 90,000 eyeballs from across the country will be watching.</p>
+
+<h2>The Rosters</h2>
+
+<p>The 2026 rosters feature 26 first-time All-Stars — one of the freshest fields in years. The game belongs as much to the next generation as to the established names.</p>
+
+<p>The teams leading the way in representation: the Los Angeles Dodgers, Atlanta Braves, and Philadelphia Phillies each sent five players to Midsummer Classic. In the American League, the Toronto Blue Jays, Tampa Bay Rays, and New York Yankees each have four.</p>
+
+<h2>The Starters</h2>
+
+<p>Shohei Ohtani of the Dodgers led all players in voting and is an automatic starter. Ernie Clement of the Toronto Blue Jays led the American League ballot.</p>
+
+<p>There is one significant change in the AL infield. Vladimir Guerrero Jr., a six-time All-Star, made the decision to step aside and rest a lower back injury rather than play through the All-Star break. His withdrawal opened the starting slot at first base for Nick Kurtz of the Oakland Athletics — a 23-year-old in just his second MLB season who has put together one of the best offensive first halves in the American League.</p>
+
+<h2>The Storylines</h2>
+
+<p>The starting pitching matchup is set to feature Ernie Clement as the AL's top vote-getter, but the pitching headline belongs to Tarik Skubal. With the August 3 trade deadline 27 days away, every All-Star Game appearance this week carries an extra layer of context for players who might be wearing different uniforms by August.</p>
+
+<p>The Home Run Derby sets the table. Kyle Schwarber leads MLB with more than 30 home runs this season — and on July 13, he gets to swing at his own home ballpark. Junior Caminero, the 2025 runner-up, is confirmed and back to compete. Aaron Judge is out due to a rib fracture.</p>
+
+<p>A new swing-bracket format replaces the traditional Derby structure, adding another layer of intrigue to a competition that needed no additional drama.</p>
+
+<h2>Philadelphia's Moment</h2>
+
+<p>The last time Philadelphia hosted the All-Star Game was 1996 — the year before Citizens Bank Park existed. Veterans Stadium was the venue that year. This city has grown, this ballpark has aged into one of the sport's best venues, and the Phillies faithful are ready to make noise.</p>
+
+<p>The 2026 Phillies are one of the most All-Star-laden teams in baseball, with five representatives earning their place. The home crowd will have plenty to cheer for.</p>
+
+<p>Seven days. The countdown is on.</p>
+
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-01-allstar-week-one-week-away" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;title&gt;One Week to All-Star: Your Complete Guide to MLB&#x27;s Midsummer Classic in Philadelphia&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;h1&gt;One Week to All-Star: Your Complete Guide to MLB&#x27;s Midsummer Classic in Philadelphia&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;By Marcus Cole | July 7, 2026&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;One week from today, Citizens Bank Park will host the best players in baseball. The 2026 MLB All-Star Week is here — and for the first time since 1996, Philadelphia gets the Midsummer Classic.&lt;/p&gt;
+
+&lt;p&gt;Here is everything you need to know before the first pitch.&lt;/p&gt;
+
+&lt;h2&gt;The Schedule&lt;/h2&gt;
+
+&lt;p&gt;The Home Run Derby takes place on Monday, July 13, at Citizens Bank Park. For the first time in history, the Derby streams live on Netflix. Start time to be confirmed, but expect a prime-time slot for what figures to be one of the most-watched sporting events of the summer.&lt;/p&gt;
+
+&lt;p&gt;The All-Star Game follows on Tuesday, July 14, also at Citizens Bank Park. First pitch is at 8 PM ET on FOX. Philadelphia is the backdrop; 90,000 eyeballs from across the country will be watching.&lt;/p&gt;
+
+&lt;h2&gt;The Rosters&lt;/h2&gt;
+
+&lt;p&gt;The 2026 rosters feature 26 first-time All-Stars — one of the freshest fields in years. The game belongs as much to the next generation as to the established names.&lt;/p&gt;
+
+&lt;p&gt;The teams leading the way in representation: the Los Angeles Dodgers, Atlanta Braves, and Philadelphia Phillies each sent five players to Midsummer Classic. In the American League, the Toronto Blue Jays, Tampa Bay Rays, and New York Yankees each have four.&lt;/p&gt;
+
+&lt;h2&gt;The Starters&lt;/h2&gt;
+
+&lt;p&gt;Shohei Ohtani of the Dodgers led all players in voting and is an automatic starter. Ernie Clement of the Toronto Blue Jays led the American League ballot.&lt;/p&gt;
+
+&lt;p&gt;There is one significant change in the AL infield. Vladimir Guerrero Jr., a six-time All-Star, made the decision to step aside and rest a lower back injury rather than play through the All-Star break. His withdrawal opened the starting slot at first base for Nick Kurtz of the Oakland Athletics — a 23-year-old in just his second MLB season who has put together one of the best offensive first halves in the American League.&lt;/p&gt;
+
+&lt;h2&gt;The Storylines&lt;/h2&gt;
+
+&lt;p&gt;The starting pitching matchup is set to feature Ernie Clement as the AL&#x27;s top vote-getter, but the pitching headline belongs to Tarik Skubal. With the August 3 trade deadline 27 days away, every All-Star Game appearance this week carries an extra layer of context for players who might be wearing different uniforms by August.&lt;/p&gt;
+
+&lt;p&gt;The Home Run Derby sets the table. Kyle Schwarber leads MLB with more than 30 home runs this season — and on July 13, he gets to swing at his own home ballpark. Junior Caminero, the 2025 runner-up, is confirmed and back to compete. Aaron Judge is out due to a rib fracture.&lt;/p&gt;
+
+&lt;p&gt;A new swing-bracket format replaces the traditional Derby structure, adding another layer of intrigue to a competition that needed no additional drama.&lt;/p&gt;
+
+&lt;h2&gt;Philadelphia&#x27;s Moment&lt;/h2&gt;
+
+&lt;p&gt;The last time Philadelphia hosted the All-Star Game was 1996 — the year before Citizens Bank Park existed. Veterans Stadium was the venue that year. This city has grown, this ballpark has aged into one of the sport&#x27;s best venues, and the Phillies faithful are ready to make noise.&lt;/p&gt;
+
+&lt;p&gt;The 2026 Phillies are one of the most All-Star-laden teams in baseball, with five representatives earning their place. The home crowd will have plenty to cheer for.&lt;/p&gt;
+
+&lt;p&gt;Seven days. The countdown is on.&lt;/p&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-01-allstar-week-one-week-away">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-01-allstar-week-one-week-away')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-01-allstar-week-one-week-away')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-01-allstar-week-one-week-away">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-01-allstar-week-one-week-away')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-01-allstar-week-one-week-away')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-01-allstar-week-one-week-away')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-01-allstar-week-one-week-away')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-01-allstar-week-one-week-away">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-01-allstar-week-one-week-away" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-01-allstar-week-one-week-away"></div>
+                </div>
+                <div class="card" data-id="article-article-02-nick-kurtz-allstar-start" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">From Replacement Slot to First Starter: Nick Kurtz Is Ready for His All-Star Moment</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-02-nick-kurtz-allstar-start">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<title>From Replacement Slot to First Starter: Nick Kurtz Is Ready for His All-Star Moment</title>
+</head>
+<body>
+
+<h1>From Replacement Slot to First Starter: Nick Kurtz Is Ready for His All-Star Moment</h1>
+<p><em>By Jake Torres | July 7, 2026</em></p>
+
+<p>Vladimir Guerrero Jr. needed to rest his back. Nick Kurtz needed an opening. Both found what they were looking for.</p>
+
+<p>The Oakland Athletics first baseman will start the 2026 MLB All-Star Game on July 14 at Citizens Bank Park — his first All-Star selection in what is only his second Major League season. He is 23 years old. He is one of the most complete offensive players in the American League. And now he gets the national stage to prove it.</p>
+
+<h2>How He Got Here</h2>
+
+<p>Guerrero, a six-time All-Star, was selected to the 2026 roster before making the decision to step aside ahead of the break. A lower back injury required rest rather than risk, and the veteran made the right call. His withdrawal promoted Kurtz from All-Star reserve to starter — from a roster spot to first in the lineup.</p>
+
+<p>It is the kind of opening that changes careers, and Kurtz has more than earned it.</p>
+
+<h2>What the Numbers Say</h2>
+
+<p>Through approximately 87 games this season, Nick Kurtz has put together a first half that speaks for itself:</p>
+
+<ul>
+<li><strong>20 home runs</strong></li>
+<li><strong>66 RBI</strong> — leads the American League</li>
+<li><strong>76 walks</strong> — leads the American League</li>
+<li><strong>.424 on-base percentage</strong></li>
+<li><strong>.949 OPS</strong></li>
+<li><strong>61 runs scored</strong> — leads the American League</li>
+</ul>
+
+<p>Leading the AL in both RBI and walks is an unusual combination. It means Kurtz is doing damage when pitchers challenge him and taking his base when they do not. He is forcing outcomes either way. That is the kind of hitter who does not have weaknesses a defense can exploit over 162 games.</p>
+
+<h2>A Quiet Team Making Noise</h2>
+
+<p>The Oakland Athletics are having a very good season — one that has not always made the front pages in a year dominated by trade deadline speculation and All-Star storylines elsewhere. Kurtz is a primary reason why.</p>
+
+<p>The A's drafted Kurtz second overall in the 2023 draft. He arrived quickly and made an immediate impression in his first season. This year, in his second, he has taken the next step. At 23, he is building toward what could be a long run as one of the best first basemen in baseball.</p>
+
+<h2>The Stage</h2>
+
+<p>Citizens Bank Park on July 14. Fox. 8 PM ET. A Phillies crowd that will be loud and engaged for everything the night has to offer. This is the stage Nick Kurtz gets.</p>
+
+<p>He did not ask for it, exactly — but he made himself impossible to pass over, and circumstances delivered the rest. Now the only thing left to do is play.</p>
+
+<p>Guerrero will be watching. So will the rest of the American League. So will Oakland, quietly proud of the player they built.</p>
+
+<p>Nick Kurtz gets his moment on Tuesday. He has been building toward it all year.</p>
+
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-02-nick-kurtz-allstar-start" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;title&gt;From Replacement Slot to First Starter: Nick Kurtz Is Ready for His All-Star Moment&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;h1&gt;From Replacement Slot to First Starter: Nick Kurtz Is Ready for His All-Star Moment&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;By Jake Torres | July 7, 2026&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Vladimir Guerrero Jr. needed to rest his back. Nick Kurtz needed an opening. Both found what they were looking for.&lt;/p&gt;
+
+&lt;p&gt;The Oakland Athletics first baseman will start the 2026 MLB All-Star Game on July 14 at Citizens Bank Park — his first All-Star selection in what is only his second Major League season. He is 23 years old. He is one of the most complete offensive players in the American League. And now he gets the national stage to prove it.&lt;/p&gt;
+
+&lt;h2&gt;How He Got Here&lt;/h2&gt;
+
+&lt;p&gt;Guerrero, a six-time All-Star, was selected to the 2026 roster before making the decision to step aside ahead of the break. A lower back injury required rest rather than risk, and the veteran made the right call. His withdrawal promoted Kurtz from All-Star reserve to starter — from a roster spot to first in the lineup.&lt;/p&gt;
+
+&lt;p&gt;It is the kind of opening that changes careers, and Kurtz has more than earned it.&lt;/p&gt;
+
+&lt;h2&gt;What the Numbers Say&lt;/h2&gt;
+
+&lt;p&gt;Through approximately 87 games this season, Nick Kurtz has put together a first half that speaks for itself:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;20 home runs&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;66 RBI&lt;/strong&gt; — leads the American League&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;76 walks&lt;/strong&gt; — leads the American League&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;.424 on-base percentage&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;.949 OPS&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;61 runs scored&lt;/strong&gt; — leads the American League&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Leading the AL in both RBI and walks is an unusual combination. It means Kurtz is doing damage when pitchers challenge him and taking his base when they do not. He is forcing outcomes either way. That is the kind of hitter who does not have weaknesses a defense can exploit over 162 games.&lt;/p&gt;
+
+&lt;h2&gt;A Quiet Team Making Noise&lt;/h2&gt;
+
+&lt;p&gt;The Oakland Athletics are having a very good season — one that has not always made the front pages in a year dominated by trade deadline speculation and All-Star storylines elsewhere. Kurtz is a primary reason why.&lt;/p&gt;
+
+&lt;p&gt;The A&#x27;s drafted Kurtz second overall in the 2023 draft. He arrived quickly and made an immediate impression in his first season. This year, in his second, he has taken the next step. At 23, he is building toward what could be a long run as one of the best first basemen in baseball.&lt;/p&gt;
+
+&lt;h2&gt;The Stage&lt;/h2&gt;
+
+&lt;p&gt;Citizens Bank Park on July 14. Fox. 8 PM ET. A Phillies crowd that will be loud and engaged for everything the night has to offer. This is the stage Nick Kurtz gets.&lt;/p&gt;
+
+&lt;p&gt;He did not ask for it, exactly — but he made himself impossible to pass over, and circumstances delivered the rest. Now the only thing left to do is play.&lt;/p&gt;
+
+&lt;p&gt;Guerrero will be watching. So will the rest of the American League. So will Oakland, quietly proud of the player they built.&lt;/p&gt;
+
+&lt;p&gt;Nick Kurtz gets his moment on Tuesday. He has been building toward it all year.&lt;/p&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-02-nick-kurtz-allstar-start">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-02-nick-kurtz-allstar-start')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-02-nick-kurtz-allstar-start')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-02-nick-kurtz-allstar-start">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-02-nick-kurtz-allstar-start')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-02-nick-kurtz-allstar-start')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-02-nick-kurtz-allstar-start')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-02-nick-kurtz-allstar-start')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-02-nick-kurtz-allstar-start">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-02-nick-kurtz-allstar-start" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-02-nick-kurtz-allstar-start"></div>
+                </div>
+                <div class="card" data-id="article-article-03-misiorowski-historic-first-half" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Jacob Misiorowski Is Putting Together One of the Best Pitching First Halves in MLB History</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-03-misiorowski-historic-first-half">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<title>Jacob Misiorowski Is Putting Together One of the Best Pitching First Halves in MLB History</title>
+</head>
+<body>
+
+<h1>Jacob Misiorowski Is Putting Together One of the Best Pitching First Halves in MLB History</h1>
+<p><em>By Ryan Calloway | July 7, 2026</em></p>
+
+<p>The Milwaukee Brewers are the fastest team in franchise history to 50 wins. Their starting pitcher has the best ERA in baseball, the best WHIP in baseball, and the highest single-pitch velocity ever recorded for a starter in the Statcast era.</p>
+
+<p>Jacob Misiorowski may be the best story in the sport right now — and the second half of 2026 has not even started.</p>
+
+<h2>The Numbers Are Historic</h2>
+
+<p>Through 15 starts this season, Misiorowski has built a first half that stands alongside the best in recent memory:</p>
+
+<ul>
+<li><strong>1.45–1.50 ERA</strong> — best in all of Major League Baseball, best in Brewers franchise history through 15 starts</li>
+<li><strong>0.81 WHIP</strong> — best in all of Major League Baseball</li>
+<li><strong>105.5 mph max velocity</strong> (June 26) — the highest ever recorded for a starting pitcher in the Statcast era</li>
+<li><strong>146 strikeouts</strong> — among the MLB leaders</li>
+</ul>
+
+<p>Leading baseball in both ERA and WHIP simultaneously is rare. Leading baseball in both ERA and WHIP while also generating the fastest pitch any starter has thrown in the history of modern pitch-tracking is extraordinary. Misiorowski is doing all of that, and the Brewers are reaping the results.</p>
+
+<h2>A Team Ahead of Schedule</h2>
+
+<p>Milwaukee reached 50 wins faster than any team in franchise history. Their division lead reflects the depth of the roster — William Contreras is also an All-Star selection this year — but Misiorowski is the engine.</p>
+
+<p>In an era of bullpen management and limited pitch counts, the Brewers have found a pitcher who can take the ball every fifth day and dominate. That scarcity is what makes Misiorowski so valuable, and why his All-Star status is clouded by workload concerns heading into the break. Milwaukee is not going to risk their best asset for an exhibition.</p>
+
+<h2>The Turang Subplot</h2>
+
+<p>There is a storyline adjacent to the Misiorowski celebration that has Milwaukee fans less than thrilled. Brice Turang, the Brewers' best position player by advanced metrics, was not selected to the 2026 All-Star Game. He ranks No. 7 in NL bWAR — a top-ten performance that the All-Star selection process passed over entirely.</p>
+
+<p>Turang's omission has been widely called one of the biggest snubs of the year. It is a legitimate argument. The process is imperfect, and sometimes the best players in a given half get left off the roster. It does not diminish what Misiorowski has built — but it is a reminder that the Brewers are deeper than even their All-Star representation suggests.</p>
+
+<h2>What Comes Next</h2>
+
+<p>Misiorowski's All-Star status remains in doubt as the Brewers manage his workload. Whether he pitches in Philadelphia or not, the second half begins shortly after the break — and Milwaukee will need every start they can get from him to hold their division lead and make a postseason push.</p>
+
+<p>He is 24 years old, still in the early chapters of what could be a very long career. If he maintains even a shadow of his first-half performance into August and September, the Brewers will be a serious October team.</p>
+
+<p>One pitcher. One historically dominant first half. And a franchise that may be right on the edge of something special.</p>
+
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-03-misiorowski-historic-first-half" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;title&gt;Jacob Misiorowski Is Putting Together One of the Best Pitching First Halves in MLB History&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;h1&gt;Jacob Misiorowski Is Putting Together One of the Best Pitching First Halves in MLB History&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;By Ryan Calloway | July 7, 2026&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The Milwaukee Brewers are the fastest team in franchise history to 50 wins. Their starting pitcher has the best ERA in baseball, the best WHIP in baseball, and the highest single-pitch velocity ever recorded for a starter in the Statcast era.&lt;/p&gt;
+
+&lt;p&gt;Jacob Misiorowski may be the best story in the sport right now — and the second half of 2026 has not even started.&lt;/p&gt;
+
+&lt;h2&gt;The Numbers Are Historic&lt;/h2&gt;
+
+&lt;p&gt;Through 15 starts this season, Misiorowski has built a first half that stands alongside the best in recent memory:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;1.45–1.50 ERA&lt;/strong&gt; — best in all of Major League Baseball, best in Brewers franchise history through 15 starts&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;0.81 WHIP&lt;/strong&gt; — best in all of Major League Baseball&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;105.5 mph max velocity&lt;/strong&gt; (June 26) — the highest ever recorded for a starting pitcher in the Statcast era&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;146 strikeouts&lt;/strong&gt; — among the MLB leaders&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Leading baseball in both ERA and WHIP simultaneously is rare. Leading baseball in both ERA and WHIP while also generating the fastest pitch any starter has thrown in the history of modern pitch-tracking is extraordinary. Misiorowski is doing all of that, and the Brewers are reaping the results.&lt;/p&gt;
+
+&lt;h2&gt;A Team Ahead of Schedule&lt;/h2&gt;
+
+&lt;p&gt;Milwaukee reached 50 wins faster than any team in franchise history. Their division lead reflects the depth of the roster — William Contreras is also an All-Star selection this year — but Misiorowski is the engine.&lt;/p&gt;
+
+&lt;p&gt;In an era of bullpen management and limited pitch counts, the Brewers have found a pitcher who can take the ball every fifth day and dominate. That scarcity is what makes Misiorowski so valuable, and why his All-Star status is clouded by workload concerns heading into the break. Milwaukee is not going to risk their best asset for an exhibition.&lt;/p&gt;
+
+&lt;h2&gt;The Turang Subplot&lt;/h2&gt;
+
+&lt;p&gt;There is a storyline adjacent to the Misiorowski celebration that has Milwaukee fans less than thrilled. Brice Turang, the Brewers&#x27; best position player by advanced metrics, was not selected to the 2026 All-Star Game. He ranks No. 7 in NL bWAR — a top-ten performance that the All-Star selection process passed over entirely.&lt;/p&gt;
+
+&lt;p&gt;Turang&#x27;s omission has been widely called one of the biggest snubs of the year. It is a legitimate argument. The process is imperfect, and sometimes the best players in a given half get left off the roster. It does not diminish what Misiorowski has built — but it is a reminder that the Brewers are deeper than even their All-Star representation suggests.&lt;/p&gt;
+
+&lt;h2&gt;What Comes Next&lt;/h2&gt;
+
+&lt;p&gt;Misiorowski&#x27;s All-Star status remains in doubt as the Brewers manage his workload. Whether he pitches in Philadelphia or not, the second half begins shortly after the break — and Milwaukee will need every start they can get from him to hold their division lead and make a postseason push.&lt;/p&gt;
+
+&lt;p&gt;He is 24 years old, still in the early chapters of what could be a very long career. If he maintains even a shadow of his first-half performance into August and September, the Brewers will be a serious October team.&lt;/p&gt;
+
+&lt;p&gt;One pitcher. One historically dominant first half. And a franchise that may be right on the edge of something special.&lt;/p&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-03-misiorowski-historic-first-half">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-03-misiorowski-historic-first-half')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-03-misiorowski-historic-first-half')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-03-misiorowski-historic-first-half">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-03-misiorowski-historic-first-half')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-03-misiorowski-historic-first-half')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-03-misiorowski-historic-first-half')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-03-misiorowski-historic-first-half')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-03-misiorowski-historic-first-half">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-03-misiorowski-historic-first-half" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-03-misiorowski-historic-first-half"></div>
+                </div>
+                <div class="card" data-id="article-article-04-home-run-derby-preview" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Home Run Derby 2026: Schwarber, Caminero and a New Format on Netflix</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-04-home-run-derby-preview">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<title>Home Run Derby 2026: Schwarber, Caminero and a New Format on Netflix</title>
+</head>
+<body>
+
+<h1>Home Run Derby 2026: Schwarber, Caminero and a New Format on Netflix</h1>
+<p><em>By Marcus Cole | July 7, 2026</em></p>
+
+<p>Six days until the Home Run Derby. Kyle Schwarber leads Major League Baseball with more than 30 home runs. The Derby is at his home ballpark. This is not a coincidence — this is the setup for a moment.</p>
+
+<p>The 2026 MLB Home Run Derby takes place July 13 at Citizens Bank Park in Philadelphia, and for the first time in history, it streams live on Netflix. Everything about this event is different this year — the platform, the format, and the electricity in the stands at Citizens Bank Park when Schwarber steps into the box.</p>
+
+<h2>The Headliner</h2>
+
+<p>Kyle Schwarber has been the most dangerous home run hitter in baseball this season. His 30-plus long balls lead the Majors, and the left-handed slugger has spent all season hitting them at the same ballpark where he will compete on July 13.</p>
+
+<p>No competitor in recent Derby history has entered the event as the active league leader while swinging in his home park. The setup writes itself: a Phillies faithful crowd that will roar at every ball that leaves the yard, and one of the sport's most prolific power hitters getting to feed off that energy all night.</p>
+
+<h2>The Returner</h2>
+
+<p>Junior Caminero is confirmed and back for more. The Tampa Bay Rays slugger finished as the 2025 Derby runner-up and enters this year's competition as one of the most explosive young power hitters in baseball. He did not win in his first attempt, and that is the kind of unfinished business that makes for a compelling follow-up chapter.</p>
+
+<h2>The Absence</h2>
+
+<p>Aaron Judge will not compete. The New York Yankees slugger suffered a rib fracture and is out of the Derby entirely. Judge's absence is a loss for the event — he is one of the most anticipated participants whenever he enters — but it also creates opportunity for the field to step forward.</p>
+
+<h2>The New Format</h2>
+
+<p>The traditional Home Run Derby format is gone. A new swing-bracket structure takes its place, rewarding different skills than the old round-based format and adding strategic dimension to what has historically been a straightforward power display.</p>
+
+<p>The specifics of the swing-bracket will be explained to fans ahead of the event, but the concept shifts the Derby toward something closer to a head-to-head competition with more variables in play. It is a risk for an event that has worked for decades — and a potential reward for viewers looking for something fresh.</p>
+
+<h2>Netflix and the Global Stage</h2>
+
+<p>This is the first Derby ever aired on Netflix. The streaming platform reaches more than 300 million households globally, and the Derby has never had this kind of international distribution. For fans in markets that have not historically had easy access to the Mid-Summer Classic, July 13 represents a genuine first look at the event.</p>
+
+<p>It is the right moment for the Derby to take that step. The combination of Schwarber in his home park, a new format, and a streaming platform that can deliver the spectacle to the world is exactly what the event needed to feel fresh again.</p>
+
+<h2>Six Days</h2>
+
+<p>Citizens Bank Park. July 13. Netflix. One of the best power hitters in baseball swinging in front of his home crowd.</p>
+
+<p>The Home Run Derby does not need to be more complicated than that — and this year, it is not.</p>
+
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-04-home-run-derby-preview" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;title&gt;Home Run Derby 2026: Schwarber, Caminero and a New Format on Netflix&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;h1&gt;Home Run Derby 2026: Schwarber, Caminero and a New Format on Netflix&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;By Marcus Cole | July 7, 2026&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Six days until the Home Run Derby. Kyle Schwarber leads Major League Baseball with more than 30 home runs. The Derby is at his home ballpark. This is not a coincidence — this is the setup for a moment.&lt;/p&gt;
+
+&lt;p&gt;The 2026 MLB Home Run Derby takes place July 13 at Citizens Bank Park in Philadelphia, and for the first time in history, it streams live on Netflix. Everything about this event is different this year — the platform, the format, and the electricity in the stands at Citizens Bank Park when Schwarber steps into the box.&lt;/p&gt;
+
+&lt;h2&gt;The Headliner&lt;/h2&gt;
+
+&lt;p&gt;Kyle Schwarber has been the most dangerous home run hitter in baseball this season. His 30-plus long balls lead the Majors, and the left-handed slugger has spent all season hitting them at the same ballpark where he will compete on July 13.&lt;/p&gt;
+
+&lt;p&gt;No competitor in recent Derby history has entered the event as the active league leader while swinging in his home park. The setup writes itself: a Phillies faithful crowd that will roar at every ball that leaves the yard, and one of the sport&#x27;s most prolific power hitters getting to feed off that energy all night.&lt;/p&gt;
+
+&lt;h2&gt;The Returner&lt;/h2&gt;
+
+&lt;p&gt;Junior Caminero is confirmed and back for more. The Tampa Bay Rays slugger finished as the 2025 Derby runner-up and enters this year&#x27;s competition as one of the most explosive young power hitters in baseball. He did not win in his first attempt, and that is the kind of unfinished business that makes for a compelling follow-up chapter.&lt;/p&gt;
+
+&lt;h2&gt;The Absence&lt;/h2&gt;
+
+&lt;p&gt;Aaron Judge will not compete. The New York Yankees slugger suffered a rib fracture and is out of the Derby entirely. Judge&#x27;s absence is a loss for the event — he is one of the most anticipated participants whenever he enters — but it also creates opportunity for the field to step forward.&lt;/p&gt;
+
+&lt;h2&gt;The New Format&lt;/h2&gt;
+
+&lt;p&gt;The traditional Home Run Derby format is gone. A new swing-bracket structure takes its place, rewarding different skills than the old round-based format and adding strategic dimension to what has historically been a straightforward power display.&lt;/p&gt;
+
+&lt;p&gt;The specifics of the swing-bracket will be explained to fans ahead of the event, but the concept shifts the Derby toward something closer to a head-to-head competition with more variables in play. It is a risk for an event that has worked for decades — and a potential reward for viewers looking for something fresh.&lt;/p&gt;
+
+&lt;h2&gt;Netflix and the Global Stage&lt;/h2&gt;
+
+&lt;p&gt;This is the first Derby ever aired on Netflix. The streaming platform reaches more than 300 million households globally, and the Derby has never had this kind of international distribution. For fans in markets that have not historically had easy access to the Mid-Summer Classic, July 13 represents a genuine first look at the event.&lt;/p&gt;
+
+&lt;p&gt;It is the right moment for the Derby to take that step. The combination of Schwarber in his home park, a new format, and a streaming platform that can deliver the spectacle to the world is exactly what the event needed to feel fresh again.&lt;/p&gt;
+
+&lt;h2&gt;Six Days&lt;/h2&gt;
+
+&lt;p&gt;Citizens Bank Park. July 13. Netflix. One of the best power hitters in baseball swinging in front of his home crowd.&lt;/p&gt;
+
+&lt;p&gt;The Home Run Derby does not need to be more complicated than that — and this year, it is not.&lt;/p&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-04-home-run-derby-preview">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-04-home-run-derby-preview')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-04-home-run-derby-preview')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-04-home-run-derby-preview">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-04-home-run-derby-preview')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-04-home-run-derby-preview')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-04-home-run-derby-preview')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-04-home-run-derby-preview')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-04-home-run-derby-preview">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-04-home-run-derby-preview" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-04-home-run-derby-preview"></div>
+                </div>
+                <div class="card" data-id="article-article-05-skubal-countdown-27-days" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">27 Days to the Deadline: Why the Braves Are the Frontrunner for Tarik Skubal</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-05-skubal-countdown-27-days">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<title>27 Days to the Deadline: Why the Braves Are the Frontrunner for Tarik Skubal</title>
+</head>
+<body>
+
+<h1>27 Days to the Deadline: Why the Braves Are the Frontrunner for Tarik Skubal</h1>
+<p><em>By Jake Torres | July 7, 2026</em></p>
+
+<p>The August 3 trade deadline is 27 days away. Tarik Skubal is 85 percent likely to be traded. And the Atlanta Braves — who already have Chris Sale at the top of their rotation — are the frontrunner to acquire him.</p>
+
+<p>If it happens, Atlanta's starting rotation becomes the most dangerous in baseball.</p>
+
+<h2>Why Skubal Is Available</h2>
+
+<p>The Detroit Tigers are 38-49. They are not a playoff team, they do not project to become one, and their best starting pitcher is heading into free agency at the end of this season. Skubal is a Scott Boras client. The Tigers are not going to extend him. The choice for Detroit is simple: trade Skubal now for a substantial return, or watch him walk for nothing in the offseason.</p>
+
+<p>ESPN's Jeff Passan puts the trade probability at 85 percent. That is not a number that leaves much room for doubt. Skubal is going somewhere — the only question is where.</p>
+
+<h2>Why the Braves</h2>
+
+<p>According to Bob Nightengale, the Braves are the frontrunner, a conclusion confirmed by rival executives around the league. Atlanta has the prospect capital to meet Detroit's asking price, the organizational conviction to move quickly, and the most obvious need in a pitching market: a No. 2 starter capable of carrying weight behind Sale in a playoff rotation.</p>
+
+<p>Chris Sale made his 10th All-Star selection this season. He is still one of the best pitchers in the National League. But Sale is 37 years old, and Atlanta's postseason aspirations require depth behind him. Skubal — 29, in his prime, with a full season of dominance behind him — would give the Braves exactly what they need.</p>
+
+<p>Sale plus Skubal would be one of the most formidable 1-2 starting combinations assembled in the recent history of the sport. For a team built to win now, that is the kind of move that defines an October run.</p>
+
+<h2>Who Is Out</h2>
+
+<p>The field of potential suitors is narrowing fast. The Los Angeles Dodgers, despite obvious pitching depth concerns, are believed to be not in on a Skubal deal. One source confirmed the Yankees are out with more finality: &quot;no chance, none.&quot;</p>
+
+<p>That leaves Atlanta with less competition for Detroit's attention than the initial speculation suggested. A two-team negotiation is more tractable than a bidding war, and the Braves know it.</p>
+
+<h2>The Price</h2>
+
+<p>Nothing about this deal will come cheap. Multiple reports have characterized the asking price as equivalent to the CC Sabathia-level acquisition — one elite prospect plus two or three additional top-10 prospects from the acquiring team's system. Detroit is not going to sell their ace at a discount, especially when they know the Braves need him more than any other team and have the system to pay full price.</p>
+
+<p>Atlanta's farm system is deep enough to absorb the cost without gutting their future. That is precisely why they are positioned as the frontrunner.</p>
+
+<h2>27 Days</h2>
+
+<p>The All-Star break buys both sides a moment to breathe before the final stretch of deadline negotiations begins in earnest. But the clock is running, and everyone in baseball knows Atlanta and Detroit are the most likely endpoints of this deal.</p>
+
+<p>Twenty-seven days until Sale and Skubal could be teammates. Twenty-seven days until one of the most significant pitching acquisitions of the trade deadline era either happens — or doesn't.</p>
+
+<p>The Braves are the frontrunner. The price is known. Now it comes down to whether Atlanta pulls the trigger.</p>
+
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-05-skubal-countdown-27-days" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;title&gt;27 Days to the Deadline: Why the Braves Are the Frontrunner for Tarik Skubal&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;h1&gt;27 Days to the Deadline: Why the Braves Are the Frontrunner for Tarik Skubal&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;By Jake Torres | July 7, 2026&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The August 3 trade deadline is 27 days away. Tarik Skubal is 85 percent likely to be traded. And the Atlanta Braves — who already have Chris Sale at the top of their rotation — are the frontrunner to acquire him.&lt;/p&gt;
+
+&lt;p&gt;If it happens, Atlanta&#x27;s starting rotation becomes the most dangerous in baseball.&lt;/p&gt;
+
+&lt;h2&gt;Why Skubal Is Available&lt;/h2&gt;
+
+&lt;p&gt;The Detroit Tigers are 38-49. They are not a playoff team, they do not project to become one, and their best starting pitcher is heading into free agency at the end of this season. Skubal is a Scott Boras client. The Tigers are not going to extend him. The choice for Detroit is simple: trade Skubal now for a substantial return, or watch him walk for nothing in the offseason.&lt;/p&gt;
+
+&lt;p&gt;ESPN&#x27;s Jeff Passan puts the trade probability at 85 percent. That is not a number that leaves much room for doubt. Skubal is going somewhere — the only question is where.&lt;/p&gt;
+
+&lt;h2&gt;Why the Braves&lt;/h2&gt;
+
+&lt;p&gt;According to Bob Nightengale, the Braves are the frontrunner, a conclusion confirmed by rival executives around the league. Atlanta has the prospect capital to meet Detroit&#x27;s asking price, the organizational conviction to move quickly, and the most obvious need in a pitching market: a No. 2 starter capable of carrying weight behind Sale in a playoff rotation.&lt;/p&gt;
+
+&lt;p&gt;Chris Sale made his 10th All-Star selection this season. He is still one of the best pitchers in the National League. But Sale is 37 years old, and Atlanta&#x27;s postseason aspirations require depth behind him. Skubal — 29, in his prime, with a full season of dominance behind him — would give the Braves exactly what they need.&lt;/p&gt;
+
+&lt;p&gt;Sale plus Skubal would be one of the most formidable 1-2 starting combinations assembled in the recent history of the sport. For a team built to win now, that is the kind of move that defines an October run.&lt;/p&gt;
+
+&lt;h2&gt;Who Is Out&lt;/h2&gt;
+
+&lt;p&gt;The field of potential suitors is narrowing fast. The Los Angeles Dodgers, despite obvious pitching depth concerns, are believed to be not in on a Skubal deal. One source confirmed the Yankees are out with more finality: &quot;no chance, none.&quot;&lt;/p&gt;
+
+&lt;p&gt;That leaves Atlanta with less competition for Detroit&#x27;s attention than the initial speculation suggested. A two-team negotiation is more tractable than a bidding war, and the Braves know it.&lt;/p&gt;
+
+&lt;h2&gt;The Price&lt;/h2&gt;
+
+&lt;p&gt;Nothing about this deal will come cheap. Multiple reports have characterized the asking price as equivalent to the CC Sabathia-level acquisition — one elite prospect plus two or three additional top-10 prospects from the acquiring team&#x27;s system. Detroit is not going to sell their ace at a discount, especially when they know the Braves need him more than any other team and have the system to pay full price.&lt;/p&gt;
+
+&lt;p&gt;Atlanta&#x27;s farm system is deep enough to absorb the cost without gutting their future. That is precisely why they are positioned as the frontrunner.&lt;/p&gt;
+
+&lt;h2&gt;27 Days&lt;/h2&gt;
+
+&lt;p&gt;The All-Star break buys both sides a moment to breathe before the final stretch of deadline negotiations begins in earnest. But the clock is running, and everyone in baseball knows Atlanta and Detroit are the most likely endpoints of this deal.&lt;/p&gt;
+
+&lt;p&gt;Twenty-seven days until Sale and Skubal could be teammates. Twenty-seven days until one of the most significant pitching acquisitions of the trade deadline era either happens — or doesn&#x27;t.&lt;/p&gt;
+
+&lt;p&gt;The Braves are the frontrunner. The price is known. Now it comes down to whether Atlanta pulls the trigger.&lt;/p&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-05-skubal-countdown-27-days">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-05-skubal-countdown-27-days')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-05-skubal-countdown-27-days')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-05-skubal-countdown-27-days">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-05-skubal-countdown-27-days')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-05-skubal-countdown-27-days')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-05-skubal-countdown-27-days')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-05-skubal-countdown-27-days')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-05-skubal-countdown-27-days">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-05-skubal-countdown-27-days" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-05-skubal-countdown-27-days"></div>
+                </div>
+            </div>
+
+            <div class="empty-state" id="empty-state" style="display: none;">
+                <div class="empty-state-icon">No items match your filter</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Schedule settings modal -->
+    <div class="schedule-overlay" id="schedule-overlay" onclick="closeSchedulePanel()"></div>
+    <div class="schedule-panel" id="schedule-panel">
+        <h3>Posting Schedule Settings</h3>
+        <div class="schedule-section">
+            <label>Post Date (defaults to content date)</label>
+            <input type="date" id="schedule-date" />
+        </div>
+        <div class="schedule-section">
+            <label>X / Twitter Time Slots</label>
+            <div class="time-slots" id="x-time-slots"></div>
+            <div style="margin-top:8px;">
+                <input type="time" id="new-x-time" style="width:auto;display:inline-block;margin-right:8px;" />
+                <span class="add-slot-btn" onclick="addTimeSlot('x')">+ Add Slot</span>
+            </div>
+        </div>
+        <div class="schedule-section">
+            <label>Facebook Time Slots</label>
+            <div class="time-slots" id="fb-time-slots"></div>
+            <div style="margin-top:8px;">
+                <input type="time" id="new-fb-time" style="width:auto;display:inline-block;margin-right:8px;" />
+                <span class="add-slot-btn" onclick="addTimeSlot('fb')">+ Add Slot</span>
+            </div>
+        </div>
+        <div class="schedule-section" style="background:#f9f9f9;padding:12px;border-radius:6px;font-size:12px;color:#666;">
+            Posts will be assigned to time slots in order. If you have more posts than slots, they wrap around. After downloading, upload the file directly to PostPlanner via Bulk Upload.
+        </div>
+        <div class="schedule-actions">
+            <button class="btn btn-secondary" onclick="closeSchedulePanel()">Cancel</button>
+            <button class="btn btn-csv" onclick="generateAndDownload()">Generate &amp; Download XLSX</button>
+        </div>
+    </div>
+
+    <!-- SheetJS for XLSX generation (loaded async so it doesn't block) -->
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+    <script>
+
+        const DATE = '2026-07-07';
+        const BRAND_NAME = 'Ballpark Banter';
+        const REVIEW_STORAGE_KEY = 'mlb-content-review';
+        const SCHEDULE_STORAGE_KEY = 'mlb-content-schedule-config';
+        const PHOTO_SOURCE = 'imagn';
+        let reviewData = {};
+        const allStories = [{"id": "story-1-daily_brief", "title": "All-Star Week Is One Week Away \u2014 Here's What to Watch", "content": "All-Star Week Is One Week Away \u2014 Here's What to Watch\n- **Tier:** 1\n- **Angle:** The 2026 MLB All-Star Week is one week from today. The full schedule: Home Run Derby on Netflix July 13 from Citizens Bank Park, All-Star Game on FOX July 14 at 8 PM ET. Rosters set \u2014 Dodgers, Braves and Phillies lead with 5 each. Ernie Clement (Blue Jays) led AL voting; Shohei Ohtani led all players. Vladimir Guerrero Jr. stepped down from the starting spot to rest his back. There are 26 first-time All-Stars in the full rosters. It will be the first All-Star week in Philadelphia since 1996.", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-1-image_concept", "title": "All-Star Week Is One Week Away \u2014 Here's What to Watch \u2014 Image Concept", "content": "**Image \u2014 **\n", "type": "image_concept", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-2-daily_brief", "title": "Nick Kurtz Gets His First All-Star Start", "content": "Nick Kurtz Gets His First All-Star Start\n- **Tier:** 1\n- **Angle:** Vladimir Guerrero Jr. stepped aside to rest a back injury, and Oakland Athletics first baseman Nick Kurtz got the call. The 23-year-old is in just his second MLB season, and his first half has been remarkable: 20 HR, 66 RBI (AL-leading), 76 walks (AL-leading), .424 OBP, .949 OPS. Kurtz leads the AL in both RBI and walks \u2014 one of the most complete offensive players in the game. He now gets a national stage at Citizens Bank Park on July 14. The Athletics are quietly having a very good season.", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-2-image_concept", "title": "Nick Kurtz Gets His First All-Star Start \u2014 Image Concept", "content": "**Image \u2014 **\n", "type": "image_concept", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-3-daily_brief", "title": "Jacob Misiorowski's Historic First Half \u2014 And the All-Star Question", "content": "Jacob Misiorowski's Historic First Half \u2014 And the All-Star Question\n- **Tier:** 2\n- **Angle:** The Brewers are the fastest team in franchise history to 50 wins. The man most responsible is Jacob Misiorowski, whose first half has been historically dominant: 1.45\u20131.50 ERA (MLB-best), 0.81 WHIP (MLB-best), 105.5 mph max velocity (Statcast era high for starters). He was selected to the All-Star Game alongside catcher William Contreras. His status for the Midsummer Classic is in doubt due to workload concerns. The Brice Turang snub adds complexity: the Brewers' best position player was passed over despite ranking No. 7 in NL bWAR.", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-3-image_concept", "title": "Jacob Misiorowski's Historic First Half \u2014 And the All-Star Question \u2014 Image Concept", "content": "**Image \u2014 **\n", "type": "image_concept", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-4-daily_brief", "title": "Home Run Derby Preview \u2014 6 Days Until Netflix Lights Up Citizens Bank", "content": "Home Run Derby Preview \u2014 6 Days Until Netflix Lights Up Citizens Bank\n- **Tier:** 2\n- **Angle:** The Home Run Derby is 6 days away \u2014 July 13 at Citizens Bank Park on Netflix. Kyle Schwarber leads MLB with 30+ home runs at his home stadium. Junior Caminero (2025 runner-up) is confirmed. Bryce Harper has updated his status. The new swing-bracket format replaces the traditional Derby structure. This is the first Derby ever aired on Netflix, bringing the event to a global streaming audience. Judge is out with a rib fracture.", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-4-image_concept", "title": "Home Run Derby Preview \u2014 6 Days Until Netflix Lights Up Citizens Bank \u2014 Image Concept", "content": "**Image \u2014 **\n", "type": "image_concept", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-5-daily_brief", "title": "Skubal Countdown \u2014 27 Days to the August 3 Deadline", "content": "Skubal Countdown \u2014 27 Days to the August 3 Deadline\n- **Tier:** 2\n- **Angle:** The August 3 trade deadline is 27 days away. Tarik Skubal remains the biggest domino \u2014 85% trade probability, Braves the frontrunner per Nightengale. Tigers are 38-49. The asking price: an elite prospect plus two or three top-10 prospects. What a Skubal-to-Atlanta deal looks like: he joins Chris Sale (who hit his 10th All-Star selection) in one of the most dominant 1-2 SP rotations in the league. The Dodgers are believed \"not in.\" The Yankees are \"no chance.\" Braves vs. the field.", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-5-image_concept", "title": "Skubal Countdown \u2014 27 Days to the August 3 Deadline \u2014 Image Concept", "content": "**Image \u2014 **\n", "type": "image_concept", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-01-allstar-week-one-week-away", "title": "One Week to All-Star: Your Complete Guide to MLB's Midsummer Classic in Philadelphia", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<title>One Week to All-Star: Your Complete Guide to MLB's Midsummer Classic in Philadelphia<\/title>\n<\/head>\n<body>\n\n<h1>One Week to All-Star: Your Complete Guide to MLB's Midsummer Classic in Philadelphia<\/h1>\n<p><em>By Marcus Cole | July 7, 2026<\/em><\/p>\n\n<p>One week from today, Citizens Bank Park will host the best players in baseball. The 2026 MLB All-Star Week is here \u2014 and for the first time since 1996, Philadelphia gets the Midsummer Classic.<\/p>\n\n<p>Here is everything you need to know before the first pitch.<\/p>\n\n<h2>The Schedule<\/h2>\n\n<p>The Home Run Derby takes place on Monday, July 13, at Citizens Bank Park. For the first time in history, the Derby streams live on Netflix. Start time to be confirmed, but expect a prime-time slot for what figures to be one of the most-watched sporting events of the summer.<\/p>\n\n<p>The All-Star Game follows on Tuesday, July 14, also at Citizens Bank Park. First pitch is at 8 PM ET on FOX. Philadelphia is the backdrop; 90,000 eyeballs from across the country will be watching.<\/p>\n\n<h2>The Rosters<\/h2>\n\n<p>The 2026 rosters feature 26 first-time All-Stars \u2014 one of the freshest fields in years. The game belongs as much to the next generation as to the established names.<\/p>\n\n<p>The teams leading the way in representation: the Los Angeles Dodgers, Atlanta Braves, and Philadelphia Phillies each sent five players to Midsummer Classic. In the American League, the Toronto Blue Jays, Tampa Bay Rays, and New York Yankees each have four.<\/p>\n\n<h2>The Starters<\/h2>\n\n<p>Shohei Ohtani of the Dodgers led all players in voting and is an automatic starter. Ernie Clement of the Toronto Blue Jays led the American League ballot.<\/p>\n\n<p>There is one significant change in the AL infield. Vladimir Guerrero Jr., a six-time All-Star, made the decision to step aside and rest a lower back injury rather than play through the All-Star break. His withdrawal opened the starting slot at first base for Nick Kurtz of the Oakland Athletics \u2014 a 23-year-old in just his second MLB season who has put together one of the best offensive first halves in the American League.<\/p>\n\n<h2>The Storylines<\/h2>\n\n<p>The starting pitching matchup is set to feature Ernie Clement as the AL's top vote-getter, but the pitching headline belongs to Tarik Skubal. With the August 3 trade deadline 27 days away, every All-Star Game appearance this week carries an extra layer of context for players who might be wearing different uniforms by August.<\/p>\n\n<p>The Home Run Derby sets the table. Kyle Schwarber leads MLB with more than 30 home runs this season \u2014 and on July 13, he gets to swing at his own home ballpark. Junior Caminero, the 2025 runner-up, is confirmed and back to compete. Aaron Judge is out due to a rib fracture.<\/p>\n\n<p>A new swing-bracket format replaces the traditional Derby structure, adding another layer of intrigue to a competition that needed no additional drama.<\/p>\n\n<h2>Philadelphia's Moment<\/h2>\n\n<p>The last time Philadelphia hosted the All-Star Game was 1996 \u2014 the year before Citizens Bank Park existed. Veterans Stadium was the venue that year. This city has grown, this ballpark has aged into one of the sport's best venues, and the Phillies faithful are ready to make noise.<\/p>\n\n<p>The 2026 Phillies are one of the most All-Star-laden teams in baseball, with five representatives earning their place. The home crowd will have plenty to cheer for.<\/p>\n\n<p>Seven days. The countdown is on.<\/p>\n\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-02-nick-kurtz-allstar-start", "title": "From Replacement Slot to First Starter: Nick Kurtz Is Ready for His All-Star Moment", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<title>From Replacement Slot to First Starter: Nick Kurtz Is Ready for His All-Star Moment<\/title>\n<\/head>\n<body>\n\n<h1>From Replacement Slot to First Starter: Nick Kurtz Is Ready for His All-Star Moment<\/h1>\n<p><em>By Jake Torres | July 7, 2026<\/em><\/p>\n\n<p>Vladimir Guerrero Jr. needed to rest his back. Nick Kurtz needed an opening. Both found what they were looking for.<\/p>\n\n<p>The Oakland Athletics first baseman will start the 2026 MLB All-Star Game on July 14 at Citizens Bank Park \u2014 his first All-Star selection in what is only his second Major League season. He is 23 years old. He is one of the most complete offensive players in the American League. And now he gets the national stage to prove it.<\/p>\n\n<h2>How He Got Here<\/h2>\n\n<p>Guerrero, a six-time All-Star, was selected to the 2026 roster before making the decision to step aside ahead of the break. A lower back injury required rest rather than risk, and the veteran made the right call. His withdrawal promoted Kurtz from All-Star reserve to starter \u2014 from a roster spot to first in the lineup.<\/p>\n\n<p>It is the kind of opening that changes careers, and Kurtz has more than earned it.<\/p>\n\n<h2>What the Numbers Say<\/h2>\n\n<p>Through approximately 87 games this season, Nick Kurtz has put together a first half that speaks for itself:<\/p>\n\n<ul>\n<li><strong>20 home runs<\/strong><\/li>\n<li><strong>66 RBI<\/strong> \u2014 leads the American League<\/li>\n<li><strong>76 walks<\/strong> \u2014 leads the American League<\/li>\n<li><strong>.424 on-base percentage<\/strong><\/li>\n<li><strong>.949 OPS<\/strong><\/li>\n<li><strong>61 runs scored<\/strong> \u2014 leads the American League<\/li>\n<\/ul>\n\n<p>Leading the AL in both RBI and walks is an unusual combination. It means Kurtz is doing damage when pitchers challenge him and taking his base when they do not. He is forcing outcomes either way. That is the kind of hitter who does not have weaknesses a defense can exploit over 162 games.<\/p>\n\n<h2>A Quiet Team Making Noise<\/h2>\n\n<p>The Oakland Athletics are having a very good season \u2014 one that has not always made the front pages in a year dominated by trade deadline speculation and All-Star storylines elsewhere. Kurtz is a primary reason why.<\/p>\n\n<p>The A's drafted Kurtz second overall in the 2023 draft. He arrived quickly and made an immediate impression in his first season. This year, in his second, he has taken the next step. At 23, he is building toward what could be a long run as one of the best first basemen in baseball.<\/p>\n\n<h2>The Stage<\/h2>\n\n<p>Citizens Bank Park on July 14. Fox. 8 PM ET. A Phillies crowd that will be loud and engaged for everything the night has to offer. This is the stage Nick Kurtz gets.<\/p>\n\n<p>He did not ask for it, exactly \u2014 but he made himself impossible to pass over, and circumstances delivered the rest. Now the only thing left to do is play.<\/p>\n\n<p>Guerrero will be watching. So will the rest of the American League. So will Oakland, quietly proud of the player they built.<\/p>\n\n<p>Nick Kurtz gets his moment on Tuesday. He has been building toward it all year.<\/p>\n\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-03-misiorowski-historic-first-half", "title": "Jacob Misiorowski Is Putting Together One of the Best Pitching First Halves in MLB History", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Jacob Misiorowski Is Putting Together One of the Best Pitching First Halves in MLB History<\/title>\n<\/head>\n<body>\n\n<h1>Jacob Misiorowski Is Putting Together One of the Best Pitching First Halves in MLB History<\/h1>\n<p><em>By Ryan Calloway | July 7, 2026<\/em><\/p>\n\n<p>The Milwaukee Brewers are the fastest team in franchise history to 50 wins. Their starting pitcher has the best ERA in baseball, the best WHIP in baseball, and the highest single-pitch velocity ever recorded for a starter in the Statcast era.<\/p>\n\n<p>Jacob Misiorowski may be the best story in the sport right now \u2014 and the second half of 2026 has not even started.<\/p>\n\n<h2>The Numbers Are Historic<\/h2>\n\n<p>Through 15 starts this season, Misiorowski has built a first half that stands alongside the best in recent memory:<\/p>\n\n<ul>\n<li><strong>1.45\u20131.50 ERA<\/strong> \u2014 best in all of Major League Baseball, best in Brewers franchise history through 15 starts<\/li>\n<li><strong>0.81 WHIP<\/strong> \u2014 best in all of Major League Baseball<\/li>\n<li><strong>105.5 mph max velocity<\/strong> (June 26) \u2014 the highest ever recorded for a starting pitcher in the Statcast era<\/li>\n<li><strong>146 strikeouts<\/strong> \u2014 among the MLB leaders<\/li>\n<\/ul>\n\n<p>Leading baseball in both ERA and WHIP simultaneously is rare. Leading baseball in both ERA and WHIP while also generating the fastest pitch any starter has thrown in the history of modern pitch-tracking is extraordinary. Misiorowski is doing all of that, and the Brewers are reaping the results.<\/p>\n\n<h2>A Team Ahead of Schedule<\/h2>\n\n<p>Milwaukee reached 50 wins faster than any team in franchise history. Their division lead reflects the depth of the roster \u2014 William Contreras is also an All-Star selection this year \u2014 but Misiorowski is the engine.<\/p>\n\n<p>In an era of bullpen management and limited pitch counts, the Brewers have found a pitcher who can take the ball every fifth day and dominate. That scarcity is what makes Misiorowski so valuable, and why his All-Star status is clouded by workload concerns heading into the break. Milwaukee is not going to risk their best asset for an exhibition.<\/p>\n\n<h2>The Turang Subplot<\/h2>\n\n<p>There is a storyline adjacent to the Misiorowski celebration that has Milwaukee fans less than thrilled. Brice Turang, the Brewers' best position player by advanced metrics, was not selected to the 2026 All-Star Game. He ranks No. 7 in NL bWAR \u2014 a top-ten performance that the All-Star selection process passed over entirely.<\/p>\n\n<p>Turang's omission has been widely called one of the biggest snubs of the year. It is a legitimate argument. The process is imperfect, and sometimes the best players in a given half get left off the roster. It does not diminish what Misiorowski has built \u2014 but it is a reminder that the Brewers are deeper than even their All-Star representation suggests.<\/p>\n\n<h2>What Comes Next<\/h2>\n\n<p>Misiorowski's All-Star status remains in doubt as the Brewers manage his workload. Whether he pitches in Philadelphia or not, the second half begins shortly after the break \u2014 and Milwaukee will need every start they can get from him to hold their division lead and make a postseason push.<\/p>\n\n<p>He is 24 years old, still in the early chapters of what could be a very long career. If he maintains even a shadow of his first-half performance into August and September, the Brewers will be a serious October team.<\/p>\n\n<p>One pitcher. One historically dominant first half. And a franchise that may be right on the edge of something special.<\/p>\n\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-04-home-run-derby-preview", "title": "Home Run Derby 2026: Schwarber, Caminero and a New Format on Netflix", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Home Run Derby 2026: Schwarber, Caminero and a New Format on Netflix<\/title>\n<\/head>\n<body>\n\n<h1>Home Run Derby 2026: Schwarber, Caminero and a New Format on Netflix<\/h1>\n<p><em>By Marcus Cole | July 7, 2026<\/em><\/p>\n\n<p>Six days until the Home Run Derby. Kyle Schwarber leads Major League Baseball with more than 30 home runs. The Derby is at his home ballpark. This is not a coincidence \u2014 this is the setup for a moment.<\/p>\n\n<p>The 2026 MLB Home Run Derby takes place July 13 at Citizens Bank Park in Philadelphia, and for the first time in history, it streams live on Netflix. Everything about this event is different this year \u2014 the platform, the format, and the electricity in the stands at Citizens Bank Park when Schwarber steps into the box.<\/p>\n\n<h2>The Headliner<\/h2>\n\n<p>Kyle Schwarber has been the most dangerous home run hitter in baseball this season. His 30-plus long balls lead the Majors, and the left-handed slugger has spent all season hitting them at the same ballpark where he will compete on July 13.<\/p>\n\n<p>No competitor in recent Derby history has entered the event as the active league leader while swinging in his home park. The setup writes itself: a Phillies faithful crowd that will roar at every ball that leaves the yard, and one of the sport's most prolific power hitters getting to feed off that energy all night.<\/p>\n\n<h2>The Returner<\/h2>\n\n<p>Junior Caminero is confirmed and back for more. The Tampa Bay Rays slugger finished as the 2025 Derby runner-up and enters this year's competition as one of the most explosive young power hitters in baseball. He did not win in his first attempt, and that is the kind of unfinished business that makes for a compelling follow-up chapter.<\/p>\n\n<h2>The Absence<\/h2>\n\n<p>Aaron Judge will not compete. The New York Yankees slugger suffered a rib fracture and is out of the Derby entirely. Judge's absence is a loss for the event \u2014 he is one of the most anticipated participants whenever he enters \u2014 but it also creates opportunity for the field to step forward.<\/p>\n\n<h2>The New Format<\/h2>\n\n<p>The traditional Home Run Derby format is gone. A new swing-bracket structure takes its place, rewarding different skills than the old round-based format and adding strategic dimension to what has historically been a straightforward power display.<\/p>\n\n<p>The specifics of the swing-bracket will be explained to fans ahead of the event, but the concept shifts the Derby toward something closer to a head-to-head competition with more variables in play. It is a risk for an event that has worked for decades \u2014 and a potential reward for viewers looking for something fresh.<\/p>\n\n<h2>Netflix and the Global Stage<\/h2>\n\n<p>This is the first Derby ever aired on Netflix. The streaming platform reaches more than 300 million households globally, and the Derby has never had this kind of international distribution. For fans in markets that have not historically had easy access to the Mid-Summer Classic, July 13 represents a genuine first look at the event.<\/p>\n\n<p>It is the right moment for the Derby to take that step. The combination of Schwarber in his home park, a new format, and a streaming platform that can deliver the spectacle to the world is exactly what the event needed to feel fresh again.<\/p>\n\n<h2>Six Days<\/h2>\n\n<p>Citizens Bank Park. July 13. Netflix. One of the best power hitters in baseball swinging in front of his home crowd.<\/p>\n\n<p>The Home Run Derby does not need to be more complicated than that \u2014 and this year, it is not.<\/p>\n\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-05-skubal-countdown-27-days", "title": "27 Days to the Deadline: Why the Braves Are the Frontrunner for Tarik Skubal", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<title>27 Days to the Deadline: Why the Braves Are the Frontrunner for Tarik Skubal<\/title>\n<\/head>\n<body>\n\n<h1>27 Days to the Deadline: Why the Braves Are the Frontrunner for Tarik Skubal<\/h1>\n<p><em>By Jake Torres | July 7, 2026<\/em><\/p>\n\n<p>The August 3 trade deadline is 27 days away. Tarik Skubal is 85 percent likely to be traded. And the Atlanta Braves \u2014 who already have Chris Sale at the top of their rotation \u2014 are the frontrunner to acquire him.<\/p>\n\n<p>If it happens, Atlanta's starting rotation becomes the most dangerous in baseball.<\/p>\n\n<h2>Why Skubal Is Available<\/h2>\n\n<p>The Detroit Tigers are 38-49. They are not a playoff team, they do not project to become one, and their best starting pitcher is heading into free agency at the end of this season. Skubal is a Scott Boras client. The Tigers are not going to extend him. The choice for Detroit is simple: trade Skubal now for a substantial return, or watch him walk for nothing in the offseason.<\/p>\n\n<p>ESPN's Jeff Passan puts the trade probability at 85 percent. That is not a number that leaves much room for doubt. Skubal is going somewhere \u2014 the only question is where.<\/p>\n\n<h2>Why the Braves<\/h2>\n\n<p>According to Bob Nightengale, the Braves are the frontrunner, a conclusion confirmed by rival executives around the league. Atlanta has the prospect capital to meet Detroit's asking price, the organizational conviction to move quickly, and the most obvious need in a pitching market: a No. 2 starter capable of carrying weight behind Sale in a playoff rotation.<\/p>\n\n<p>Chris Sale made his 10th All-Star selection this season. He is still one of the best pitchers in the National League. But Sale is 37 years old, and Atlanta's postseason aspirations require depth behind him. Skubal \u2014 29, in his prime, with a full season of dominance behind him \u2014 would give the Braves exactly what they need.<\/p>\n\n<p>Sale plus Skubal would be one of the most formidable 1-2 starting combinations assembled in the recent history of the sport. For a team built to win now, that is the kind of move that defines an October run.<\/p>\n\n<h2>Who Is Out<\/h2>\n\n<p>The field of potential suitors is narrowing fast. The Los Angeles Dodgers, despite obvious pitching depth concerns, are believed to be not in on a Skubal deal. One source confirmed the Yankees are out with more finality: \"no chance, none.\"<\/p>\n\n<p>That leaves Atlanta with less competition for Detroit's attention than the initial speculation suggested. A two-team negotiation is more tractable than a bidding war, and the Braves know it.<\/p>\n\n<h2>The Price<\/h2>\n\n<p>Nothing about this deal will come cheap. Multiple reports have characterized the asking price as equivalent to the CC Sabathia-level acquisition \u2014 one elite prospect plus two or three additional top-10 prospects from the acquiring team's system. Detroit is not going to sell their ace at a discount, especially when they know the Braves need him more than any other team and have the system to pay full price.<\/p>\n\n<p>Atlanta's farm system is deep enough to absorb the cost without gutting their future. That is precisely why they are positioned as the frontrunner.<\/p>\n\n<h2>27 Days<\/h2>\n\n<p>The All-Star break buys both sides a moment to breathe before the final stretch of deadline negotiations begins in earnest. But the clock is running, and everyone in baseball knows Atlanta and Detroit are the most likely endpoints of this deal.<\/p>\n\n<p>Twenty-seven days until Sale and Skubal could be teammates. Twenty-seven days until one of the most significant pitching acquisitions of the trade deadline era either happens \u2014 or doesn't.<\/p>\n\n<p>The Braves are the frontrunner. The price is known. Now it comes down to whether Atlanta pulls the trigger.<\/p>\n\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}];
+        const imageManifest = {};
+        let imageURLs = {}; // Runtime store: {'1_x_image': 'url', '1_facebook_image': 'url', ...}
+
+        // Image URL management
+        function updateImageURL(inputEl) {
+            var story = inputEl.dataset.story;
+            var platform = inputEl.dataset.platform;
+            var url = inputEl.value.trim();
+            var key = story + '_' + platform;
+            imageURLs[key] = url;
+
+            // Update preview thumbnail
+            var preview = document.getElementById('img-preview-' + story + '-' + platform);
+            if (preview) {
+                if (url) {
+                    preview.src = url;
+                    preview.classList.add('loaded');
+                    preview.onerror = function() { this.classList.remove('loaded'); };
+                } else {
+                    preview.src = '';
+                    preview.classList.remove('loaded');
+                }
+            }
+        }
+
+        function getImageURLForStory(storyTitle, platform) {
+            // Try runtime imageURLs first (user-pasted)
+            // Extract story number from title
+            for (var key in imageURLs) {
+                if (imageURLs[key] && key.endsWith('_' + platform)) {
+                    var storyNum = key.split('_')[0];
+                    // Check if this story matches by looking at allStories
+                    for (var i = 0; i < allStories.length; i++) {
+                        if (allStories[i].title === storyTitle &&
+                            allStories[i].id.indexOf('story-' + storyNum) !== -1) {
+                            return imageURLs[key];
+                        }
+                    }
+                }
+            }
+
+            // Try manifest data
+            for (var num in imageManifest) {
+                var mdata = imageManifest[num];
+                if (mdata && mdata[platform] && mdata[platform].exported_url) {
+                    // Check if this story number matches
+                    for (var j = 0; j < allStories.length; j++) {
+                        if (allStories[j].title === storyTitle &&
+                            allStories[j].id.indexOf('story-' + num) !== -1) {
+                            return mdata[platform].exported_url;
+                        }
+                    }
+                }
+            }
+
+            return '';
+        }
+
+        function initializeApp() {
+            const saved = localStorage.getItem(REVIEW_STORAGE_KEY + '-' + DATE);
+            if (saved) {
+                try {
+                    reviewData = JSON.parse(saved);
+                } catch (e) {
+                    reviewData = {};
+                }
+            }
+
+            allStories.forEach(function(story) {
+                if (!reviewData[story.id]) {
+                    reviewData[story.id] = {
+                        id: story.id,
+                        type: story.type,
+                        status: 'unreviewed',
+                        notes: '',
+                        content: story.content,
+                        editedContent: null
+                    };
+                }
+                // Migrate old data: ensure editedContent field exists
+                if (reviewData[story.id].editedContent === undefined) {
+                    reviewData[story.id].editedContent = null;
+                }
+            });
+
+            // Restore UI state
+            Object.keys(reviewData).forEach(function(storyId) {
+                var data = reviewData[storyId];
+                var card = document.querySelector('[data-id="' + storyId + '"]');
+                if (card) {
+                    card.setAttribute('data-status', data.status);
+                    var textarea = document.getElementById('textarea-' + storyId);
+                    if (textarea) textarea.value = data.notes || '';
+                    // If content was edited, update the display and editor
+                    if (data.editedContent) {
+                        var contentText = card.querySelector('.card-content-text');
+                        if (contentText) contentText.textContent = data.editedContent;
+                        var editor = document.getElementById('editor-' + storyId);
+                        if (editor) editor.value = data.editedContent;
+                    }
+                    updateCardVisuals(storyId, data.status, !!data.editedContent);
+                }
+            });
+
+            updateProgress();
+            filterByStatus('all');
+        }
+
+        function toggleExpand(storyId) {
+            var content = document.getElementById('content-' + storyId);
+            var toggle = document.getElementById('toggle-' + storyId);
+            if (content.classList.contains('collapsed')) {
+                content.classList.remove('collapsed');
+                content.classList.add('expanded');
+                toggle.textContent = 'Collapse';
+            } else {
+                content.classList.remove('expanded');
+                content.classList.add('collapsed');
+                toggle.textContent = 'Show Full Content';
+            }
+        }
+
+        function startEdit(storyId) {
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (!card) return;
+            card.classList.add('editing');
+            var editor = document.getElementById('editor-' + storyId);
+            if (editor) {
+                // If previously edited, load edited content; otherwise load original
+                var data = reviewData[storyId];
+                if (data && data.editedContent) {
+                    editor.value = data.editedContent;
+                }
+                editor.focus();
+                // Auto-resize for articles
+                editor.style.minHeight = Math.max(300, editor.scrollHeight) + 'px';
+            }
+        }
+
+        function saveAndApprove(storyId) {
+            var editor = document.getElementById('editor-' + storyId);
+            if (!editor) return;
+            var newContent = editor.value;
+
+            // Save the edited content
+            if (!reviewData[storyId]) {
+                reviewData[storyId] = { id: storyId, status: 'approved', notes: '', content: '', editedContent: null };
+            }
+            reviewData[storyId].editedContent = newContent;
+
+            // Update the display text
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            var contentText = card ? card.querySelector('.card-content-text') : null;
+            if (contentText) contentText.textContent = newContent;
+
+            // Exit edit mode
+            if (card) card.classList.remove('editing');
+
+            // Approve
+            setStatus(storyId, 'approved');
+            updateCardVisuals(storyId, 'approved', true);
+
+            // Update char count for X posts
+            updateCharCount(storyId, newContent);
+        }
+
+        function cancelEdit(storyId) {
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (card) card.classList.remove('editing');
+        }
+
+        function updateCharCount(storyId, text) {
+            var el = document.getElementById('charcount-' + storyId);
+            if (!el) return;
+            // Strip metadata tags before counting
+            var clean = text.replace(/\[CHARACTER COUNT:.*?\]/gi, '');
+            clean = clean.replace(/\[CHAR COUNT:.*?\]/gi, '');
+            clean = clean.replace(/\[\d+\/280\]/g, '');
+            // Remove URLs for Twitter count
+            var textNoUrls = clean.replace(/https?:\/\/\S+/g, '');
+            var count = textNoUrls.trim().length;
+            el.textContent = 'Characters: ' + count + '/280' + (count > 280 ? '  OVER LIMIT' : '');
+            el.className = count > 280 ? 'char-count warning' : 'char-count';
+        }
+
+        function approveCard(storyId) {
+            setStatus(storyId, 'approved');
+            document.getElementById('notes-' + storyId).classList.remove('show');
+        }
+
+        function rejectCard(storyId) {
+            setStatus(storyId, 'rejected');
+            document.getElementById('notes-' + storyId).classList.add('show');
+        }
+
+        function setStatus(storyId, status) {
+            if (!reviewData[storyId]) {
+                var story = allStories.find(function(s) { return s.id === storyId; });
+                reviewData[storyId] = {
+                    id: storyId,
+                    type: story ? story.type : '',
+                    status: status,
+                    notes: '',
+                    content: story ? story.content : '',
+                    editedContent: null
+                };
+            }
+
+            reviewData[storyId].status = status;
+
+            var textarea = document.getElementById('textarea-' + storyId);
+            if (textarea) reviewData[storyId].notes = textarea.value;
+
+            localStorage.setItem(REVIEW_STORAGE_KEY + '-' + DATE, JSON.stringify(reviewData));
+
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (card) card.setAttribute('data-status', status);
+            updateCardVisuals(storyId, status, !!(reviewData[storyId] && reviewData[storyId].editedContent));
+            updateProgress();
+        }
+
+        function updateCardVisuals(storyId, status, wasEdited) {
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (!card) return;
+
+            card.classList.remove('approved', 'needs-edit', 'rejected');
+            if (status !== 'unreviewed') card.classList.add(status);
+
+            var statusLabel = document.getElementById('status-' + storyId);
+            if (statusLabel) {
+                statusLabel.className = 'status-label';
+                if (status === 'approved' && wasEdited) {
+                    statusLabel.textContent = 'APPROVED (EDITED)';
+                    statusLabel.classList.add('status-edited');
+                } else if (status === 'approved') {
+                    statusLabel.textContent = 'APPROVED';
+                    statusLabel.classList.add('status-approved');
+                } else if (status === 'needs-edit') {
+                    statusLabel.textContent = 'NEEDS EDIT';
+                    statusLabel.classList.add('status-needs-edit');
+                } else if (status === 'rejected') {
+                    statusLabel.textContent = 'REJECTED';
+                    statusLabel.classList.add('status-rejected');
+                } else {
+                    statusLabel.textContent = '';
+                }
+            }
+        }
+
+        function updateProgress() {
+            var approved = 0, rejected = 0, unreviewed = 0;
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (!data || data.status === 'unreviewed') unreviewed++;
+                else if (data.status === 'approved') approved++;
+                else if (data.status === 'rejected') rejected++;
+                else unreviewed++;
+            });
+            var reviewed = approved + rejected;
+            var total = allStories.length;
+            var percentage = total > 0 ? (reviewed / total * 100) : 0;
+            document.getElementById('reviewed-count').textContent = reviewed;
+            document.getElementById('total-count').textContent = total;
+            document.getElementById('progress-fill').style.width = percentage + '%';
+            // Update stat chips
+            document.getElementById('stat-approved-count').textContent = approved;
+            document.getElementById('stat-rejected-count').textContent = rejected;
+            document.getElementById('stat-unreviewed-count').textContent = unreviewed;
+            // Update CSV button
+            var csvBtn = document.getElementById('btn-csv');
+            var tobiBtn = document.getElementById('btn-tobi');
+            var socialApproved = countApprovedSocialPosts();
+            if (csvBtn) {
+                if (socialApproved > 0) {
+                    csvBtn.disabled = false;
+                    csvBtn.textContent = 'PostPlanner Upload (' + socialApproved + ' posts)';
+                } else {
+                    csvBtn.disabled = true;
+                    csvBtn.textContent = 'PostPlanner Upload (0 approved)';
+                }
+            }
+            // Update TOBI button (counts only X/Twitter text posts)
+            if (tobiBtn) {
+                var xApproved = countApprovedXPosts();
+                if (xApproved > 0) {
+                    tobiBtn.disabled = false;
+                    tobiBtn.textContent = 'TOBI Upload (' + xApproved + ' posts)';
+                } else {
+                    tobiBtn.disabled = true;
+                    tobiBtn.textContent = 'TOBI Upload (0 approved)';
+                }
+            }
+        }
+
+        function countApprovedSocialPosts() {
+            var count = 0;
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (data && data.status === 'approved' && (story.type === 'x_post' || story.type === 'facebook')) {
+                    count++;
+                }
+            });
+            return count;
+        }
+
+        function countApprovedXPosts() {
+            var count = 0;
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (data && data.status === 'approved' && story.type === 'x_post') {
+                    count++;
+                }
+            });
+            return count;
+        }
+
+        function escapeCSVField(text) {
+            if (!text) return '';
+            // If field contains comma, quote, or newline, wrap in quotes and escape inner quotes
+            if (text.indexOf(',') !== -1 || text.indexOf('"') !== -1 || text.indexOf('\n') !== -1) {
+                return '"' + text.replace(/"/g, '""') + '"';
+            }
+            return text;
+        }
+
+        function extractHashtags(text) {
+            if (!text) return '';
+            var matches = text.match(/#\w+/g);
+            return matches ? matches.join(' ') : '';
+        }
+
+        // ========== POSTING SCHEDULE SYSTEM ==========
+        var defaultXSlots = ['09:00', '12:00', '15:00', '18:00', '21:00'];
+        var defaultFBSlots = ['10:00', '13:00', '17:00'];
+
+        function getScheduleConfig() {
+            var saved = localStorage.getItem(SCHEDULE_STORAGE_KEY);
+            if (saved) {
+                try { return JSON.parse(saved); } catch(e) {}
+            }
+            return { xSlots: defaultXSlots.slice(), fbSlots: defaultFBSlots.slice() };
+        }
+
+        function saveScheduleConfig(config) {
+            localStorage.setItem(SCHEDULE_STORAGE_KEY, JSON.stringify(config));
+        }
+
+        function renderTimeSlots() {
+            var config = getScheduleConfig();
+            var xContainer = document.getElementById('x-time-slots');
+            var fbContainer = document.getElementById('fb-time-slots');
+
+            xContainer.innerHTML = config.xSlots.map(function(t, i) {
+                return '<span class="time-slot">' + t + ' <span class="remove-slot" onclick="removeTimeSlot(\x27x\x27,' + i + ')">&times;</span></span>';
+            }).join('');
+
+            fbContainer.innerHTML = config.fbSlots.map(function(t, i) {
+                return '<span class="time-slot">' + t + ' <span class="remove-slot" onclick="removeTimeSlot(\x27fb\x27,' + i + ')">&times;</span></span>';
+            }).join('');
+        }
+
+        function addTimeSlot(platform) {
+            var inputId = platform === 'x' ? 'new-x-time' : 'new-fb-time';
+            var val = document.getElementById(inputId).value;
+            if (!val) return;
+            var config = getScheduleConfig();
+            var arr = platform === 'x' ? config.xSlots : config.fbSlots;
+            if (arr.indexOf(val) === -1) {
+                arr.push(val);
+                arr.sort();
+            }
+            saveScheduleConfig(config);
+            renderTimeSlots();
+            document.getElementById(inputId).value = '';
+        }
+
+        function removeTimeSlot(platform, index) {
+            var config = getScheduleConfig();
+            var arr = platform === 'x' ? config.xSlots : config.fbSlots;
+            arr.splice(index, 1);
+            saveScheduleConfig(config);
+            renderTimeSlots();
+        }
+
+        function downloadPostPlannerCSV() {
+            // Open schedule panel instead of direct download
+            openSchedulePanel();
+        }
+
+        function openSchedulePanel() {
+            document.getElementById('schedule-date').value = DATE;
+            renderTimeSlots();
+            document.getElementById('schedule-panel').classList.add('show');
+            document.getElementById('schedule-overlay').classList.add('show');
+        }
+
+        function closeSchedulePanel() {
+            document.getElementById('schedule-panel').classList.remove('show');
+            document.getElementById('schedule-overlay').classList.remove('show');
+        }
+
+        function formatTimeForPostPlanner(time24, dateStr) {
+            // Output PostPlanner V2 format: MM/DD/YYYY  HH:MM (24hr)
+            var parts = dateStr.split('-');
+            return parts[1] + '/' + parts[2] + '/' + parts[0] + '  ' + time24;
+        }
+
+        function redistributeTimes(rows) {
+            // Ensure all post times are at least 30 min from now,
+            // evenly spaced through the rest of the day.
+            if (rows.length === 0) return rows;
+
+            var now = new Date();
+            var nowMinutes = now.getHours() * 60 + now.getMinutes();
+            var floorMinutes = nowMinutes + 30;
+            var endMinutes = 22 * 60; // 10:00 PM cutoff
+
+            // Check if ANY post times have already passed
+            var anyPast = rows.some(function(row) {
+                var parts = row.time.split(':');
+                var rowMin = parseInt(parts[0], 10) * 60 + parseInt(parts[1], 10);
+                return rowMin < floorMinutes;
+            });
+
+            if (!anyPast) return rows; // all times are in the future, keep them
+
+            if (floorMinutes >= endMinutes) {
+                alert('It is past 9:30 PM — not enough time remaining to schedule all posts today. Posts will use original times.');
+                return rows;
+            }
+
+            var availableMinutes = endMinutes - floorMinutes;
+            var spacing = Math.floor(availableMinutes / rows.length);
+            if (spacing < 15) spacing = 15; // minimum 15 min gap
+            if (spacing > 90) spacing = 90; // maximum 90 min gap
+
+            rows.forEach(function(row, i) {
+                var postMinutes = floorMinutes + (i * spacing);
+                if (postMinutes >= 24 * 60) postMinutes = 23 * 60 + 45;
+                var h = Math.floor(postMinutes / 60);
+                var m = postMinutes % 60;
+                row.time = (h < 10 ? '0' : '') + h + ':' + (m < 10 ? '0' : '') + m;
+            });
+
+            var firstTime = rows[0].time;
+            var lastTime = rows[rows.length - 1].time;
+            console.log('PostPlanner export: redistributed ' + rows.length + ' posts from ' + firstTime + ' to ' + lastTime + ' (' + spacing + ' min apart)');
+            return rows;
+        }
+
+        // Parse actual time from posting_window string like "7:00 AM CT" -> "07:00"
+        function parsePostingTime(timeStr) {
+            if (!timeStr) return null;
+            var m = timeStr.match(/(\d{1,2}):(\d{2})\s*(AM|PM)/i);
+            if (!m) return null;
+            var h = parseInt(m[1], 10);
+            var min = m[2];
+            var ampm = m[3].toUpperCase();
+            if (ampm === 'PM' && h !== 12) h += 12;
+            if (ampm === 'AM' && h === 12) h = 0;
+            return (h < 10 ? '0' : '') + h + ':' + min;
+        }
+
+        // Generic window name fallback
+        var windowToTime = {
+            'Morning': '09:00',
+            'Midday': '12:00',
+            'Afternoon': '15:00',
+            'Evening': '18:00',
+            'Late Night': '21:00'
+        };
+
+        function generateAndDownload() {
+            var config = getScheduleConfig();
+            var postDate = document.getElementById('schedule-date').value || DATE;
+
+            var xRows = [];
+            var fbRows = [];
+
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (!data || data.status !== 'approved') return;
+                var finalContent = data.editedContent || story.content;
+
+                if (story.type === 'x_post') {
+                    // If this is an individual tweet card (has tweet_label), use directly
+                    if (story.tweet_label) {
+                        xRows.push({
+                            content: finalContent,
+                            type: story.tweet_type || 'text',
+                            hashtags: story.hashtags || extractHashtags(finalContent),
+                            story: story.title,
+                            posting_window: story.posting_window || ''
+                        });
+                    } else {
+                        // Legacy: parse full story markdown for individual tweets
+                        var sections = parseXPostContent(finalContent, story.title);
+                        sections.forEach(function(post) {
+                            xRows.push({
+                                content: post.text,
+                                type: post.type,
+                                hashtags: extractHashtags(post.text),
+                                story: story.title
+                            });
+                        });
+                    }
+                } else if (story.type === 'facebook') {
+                    var fbPost = parseFacebookContent(finalContent, story.title);
+                    if (fbPost) {
+                        fbRows.push(fbPost);
+                    }
+                }
+            });
+
+            if (xRows.length === 0 && fbRows.length === 0) {
+                alert('No approved social posts to export.');
+                return;
+            }
+
+            // Assign times: use posting_window property first, then content tag, then round-robin
+            function assignTimes(rows, slots, label) {
+                if (slots.length === 0) slots = ['12:00'];
+                var timeFallbacks = [];
+                return rows.map(function(row, i) {
+                    row.date = postDate;
+                    // 1. Try posting_window property (e.g., "7:00 AM CT")
+                    var parsed = parsePostingTime(row.posting_window);
+                    if (parsed) {
+                        row.time = parsed;
+                        return row;
+                    }
+                    // 2. Try [POSTING WINDOW: ...] tag in content
+                    var windowMatch = row.content ? row.content.match(/\[POSTING WINDOW:\s*([^\]]+)\]/) : null;
+                    if (windowMatch) {
+                        parsed = parsePostingTime(windowMatch[1]);
+                        if (parsed) {
+                            row.time = parsed;
+                            return row;
+                        }
+                        if (windowToTime[windowMatch[1].trim()]) {
+                            row.time = windowToTime[windowMatch[1].trim()];
+                            return row;
+                        }
+                    }
+                    // 3. Fall back to round-robin
+                    row.time = slots[i % slots.length];
+                    timeFallbacks.push('Post ' + (i + 1) + ': no parsed time, using ' + row.time);
+                    return row;
+                });
+                // Warn if any posts had to use fallback times
+                if (timeFallbacks.length > 0) {
+                    console.warn('TIME WARNING (' + label + '): ' + timeFallbacks.length + ' post(s) had no parsed posting time:\n' + timeFallbacks.join('\n'));
+                }
+            }
+
+            xRows = assignTimes(xRows, config.xSlots, 'X/Twitter');
+            fbRows = assignTimes(fbRows, config.fbSlots, 'Facebook');
+
+            // Generate XLSX in PostPlanner Bulk Upload V2 format
+            if (typeof XLSX === 'undefined') {
+                alert('SheetJS library not loaded. Falling back to CSV download.');
+                fallbackCSVDownload(xRows, fbRows, postDate);
+                return;
+            }
+
+            // Combine all rows and sort by original time
+            var allRows = xRows.concat(fbRows);
+            allRows.sort(function(a, b) {
+                return a.time.localeCompare(b.time);
+            });
+
+            // Smart time redistribution
+            allRows = redistributeTimes(allRows);
+
+            var wb = XLSX.utils.book_new();
+
+            // PostPlanner V3.1 format: Row 1 = version marker, Row 2 = headers, Row 3+ = data
+            var data = [
+                ['## ' + BRAND_NAME + ' -- PostPlanner Bulk Upload', 'BULK UPLOAD VERSION 3.1 – Please DO NOT EDIT this cell.', '', '', '', '', '', '', ''],
+                ['## POSTING TIME', 'CAPTION', 'LINK', 'MEDIA', 'TITLE', 'FIRST COMMENT', 'FIRST COMMENT DELAY', 'TOBI BACKGROUND', 'REEL OR STORY']
+            ];
+
+            allRows.forEach(function(row) {
+                var caption = cleanMarkdownForPost(row.content);
+                var mediaUrl = '';
+                if (row.type === 'image' || row.type === 'IMAGE') {
+                    mediaUrl = getImageURLForStory(row.story, row.platform === 'facebook' ? 'facebook_image' : 'x_image') || '';
+                }
+                data.push([
+                    formatTimeForPostPlanner(row.time, postDate),
+                    caption,
+                    '',
+                    mediaUrl,
+                    '', '', '', '', ''
+                ]);
+            });
+
+            var sheet = XLSX.utils.aoa_to_sheet(data);
+            sheet['!cols'] = [
+                {wch: 20}, {wch: 80}, {wch: 30}, {wch: 30}, {wch: 10}, {wch: 20}, {wch: 18}, {wch: 18}, {wch: 14}
+            ];
+            XLSX.utils.book_append_sheet(wb, sheet, 'Sheet1');
+
+            // Download
+            XLSX.writeFile(wb, 'postplanner-upload-' + postDate + '.xlsx');
+            closeSchedulePanel();
+
+            var msg = 'Downloaded postplanner-upload-' + postDate + '.xlsx with ';
+            var parts = [];
+            if (xRows.length > 0) parts.push(xRows.length + ' X posts');
+            if (fbRows.length > 0) parts.push(fbRows.length + ' Facebook posts');
+            alert(msg + parts.join(' and ') + '.\n\nUpload this file to PostPlanner via Bulk Upload.');
+        }
+
+        function cleanMarkdownForPost(text) {
+            // Strip markdown formatting and metadata that shouldn't appear in social posts
+            if (!text) return '';
+            return text
+                .replace(/\[CHARACTER COUNT:.*?\]/gi, '')
+                .replace(/\[CHAR COUNT:.*?\]/gi, '')
+                .replace(/\[\d+\/280\]/g, '')
+                .replace(/\*\*\[POSTING WINDOW:.*?\]\*\*/g, '')
+                .replace(/\[POSTING WINDOW:.*?\]/g, '')
+                .replace(/\*\*([^*]+)\*\*/g, '$1')
+                .replace(/\*([^*]+)\*/g, '$1')
+                .replace(/^#+\s+/gm, '')
+                .replace(/^[-*]\s+/gm, '')
+                .replace(/```[\s\S]*?```/g, '')
+                .replace(/\n{3,}/g, '\n\n')
+                .trim();
+        }
+
+        function fallbackCSVDownload(xRows, fbRows, postDate) {
+            // Fallback if SheetJS fails to load — generates CSV in V2-like format
+            var allRows = xRows.concat(fbRows);
+            allRows.sort(function(a, b) { return a.time.localeCompare(b.time); });
+            if (allRows.length === 0) {
+                alert('No approved posts to export.');
+                closeSchedulePanel();
+                return;
+            }
+            // Smart time redistribution (same as XLSX path)
+            allRows = redistributeTimes(allRows);
+            var csv = '## ' + BRAND_NAME + ' -- PostPlanner Bulk Upload,' + escapeCSVField('BULK UPLOAD VERSION 3.1 – Please DO NOT EDIT this cell.') + ',,,,,,,\n';
+            csv += '## POSTING TIME,CAPTION,LINK,MEDIA,TITLE,FIRST COMMENT,FIRST COMMENT DELAY,TOBI BACKGROUND,REEL OR STORY\n';
+            allRows.forEach(function(row) {
+                csv += escapeCSVField(formatTimeForPostPlanner(row.time, postDate)) + ',' +
+                       escapeCSVField(cleanMarkdownForPost(row.content)) + ',' +
+                       ',,,,,,\n';
+            });
+            downloadFile(csv, 'postplanner-upload-' + postDate + '.csv', 'text/csv');
+            closeSchedulePanel();
+        }
+
+        function downloadTOBIExport() {
+            // Generate TOBI XLSX directly (no schedule panel needed — uses same times)
+            generateAndDownloadTOBI();
+        }
+
+        function stripHashtags(text) {
+            // Remove lines that are entirely hashtags, and trailing blank lines
+            var lines = text.split('\n');
+            var cleaned = [];
+            for (var i = 0; i < lines.length; i++) {
+                var stripped = lines[i].trim();
+                if (stripped && stripped.split(/\s+/).every(function(w) { return w.charAt(0) === '#'; })) {
+                    continue;
+                }
+                cleaned.push(lines[i]);
+            }
+            while (cleaned.length > 0 && !cleaned[cleaned.length - 1].trim()) {
+                cleaned.pop();
+            }
+            return cleaned.join('\n');
+        }
+
+        function generateAndDownloadTOBI() {
+            var postDate = document.getElementById('schedule-date') ?
+                document.getElementById('schedule-date').value || DATE : DATE;
+
+            // Collect approved X/Twitter text posts only
+            var xRows = [];
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (!data || data.status !== 'approved') return;
+                if (story.type !== 'x_post') return;
+
+                var finalContent = data.editedContent || story.content;
+                if (story.tweet_label) {
+                    xRows.push({
+                        content: finalContent,
+                        posting_window: story.posting_window || '',
+                        story: story.title
+                    });
+                }
+            });
+
+            if (xRows.length === 0) {
+                alert('No approved X/Twitter posts for TOBI export.');
+                return;
+            }
+
+            // Assign times — use same logic as regular export (posting_window → content tag → round-robin)
+            var tobiSlots = defaultXSlots.slice();
+            if (tobiSlots.length === 0) tobiSlots = ['12:00'];
+            var tobiTimeFallbacks = [];
+            xRows = xRows.map(function(row, i) {
+                row.date = postDate;
+                // 1. Try posting_window property (e.g., "7:00 AM CT")
+                var parsed = parsePostingTime(row.posting_window);
+                if (parsed) {
+                    row.time = parsed;
+                    return row;
+                }
+                // 2. Try [POSTING WINDOW: ...] tag in content
+                var windowMatch = row.content ? row.content.match(/\[POSTING WINDOW:\s*([^\]]+)\]/) : null;
+                if (windowMatch) {
+                    parsed = parsePostingTime(windowMatch[1]);
+                    if (parsed) {
+                        row.time = parsed;
+                        return row;
+                    }
+                }
+                // 3. Fall back to round-robin through time slots (NOT 12:00)
+                row.time = tobiSlots[i % tobiSlots.length];
+                tobiTimeFallbacks.push('Post ' + (i + 1) + ': no parsed time, using ' + row.time);
+                return row;
+            });
+            // Warn if any posts had to use fallback times
+            if (tobiTimeFallbacks.length > 0) {
+                console.warn('TOBI TIME WARNING: ' + tobiTimeFallbacks.length + ' post(s) had no parsed posting time:\n' + tobiTimeFallbacks.join('\n'));
+            }
+
+            // Sort by time
+            xRows.sort(function(a, b) { return a.time.localeCompare(b.time); });
+
+            // Smart time redistribution
+            xRows = redistributeTimes(xRows);
+
+            // TOBI processing: preserve hashtags + emojis as much as possible
+            var TOBI_LIMIT = 130;
+
+            function extractHashtags(text) {
+                var matches = text.match(/#\w+/g);
+                return matches || [];
+            }
+
+            function extractTrailingEmoji(text) {
+                var m = text.match(/\s*([\u{1F300}-\u{1FAFF}\u2600-\u27BF\u2B50\u26A0-\u26FF]+)\s*$/u);
+                if (m) {
+                    return { emoji: m[1], text: text.substring(0, m.index).trimEnd() };
+                }
+                return { emoji: null, text: text };
+            }
+
+            function truncateAtSentence(text, limit) {
+                var sentences = text.split(/(?<=[.!?])\s+/);
+                // Merge standalone emoji fragments into preceding sentence
+                var merged = [];
+                for (var s = 0; s < sentences.length; s++) {
+                    var trimmed = sentences[s].trim();
+                    if (!trimmed) continue;
+                    if (merged.length > 0 && !/[A-Za-z0-9]/.test(trimmed)) {
+                        merged[merged.length - 1] = merged[merged.length - 1] + ' ' + trimmed;
+                    } else {
+                        merged.push(trimmed);
+                    }
+                }
+                var truncated = '';
+                for (var s = 0; s < merged.length; s++) {
+                    var candidate = truncated ? truncated + ' ' + merged[s] : merged[s];
+                    if (candidate.length <= limit) {
+                        truncated = candidate;
+                    } else {
+                        break;
+                    }
+                }
+                // Clean up trailing abbreviation fragments (Dr., Mr., vs.)
+                if (truncated) {
+                    var parts = truncated.split(' ');
+                    var last = parts[parts.length - 1];
+                    if (parts.length > 1 && last.length <= 4 && /^[A-Za-z]+\.$/.test(last)) {
+                        parts.pop();
+                        truncated = parts.join(' ');
+                    }
+                }
+                return truncated || text.substring(0, limit - 3) + '...';
+            }
+
+            function fitHashtagsWithinLimit(text, hashtags, limit) {
+                if (!hashtags.length) return text;
+                // Try all hashtags, then progressively fewer
+                for (var n = hashtags.length; n > 0; n--) {
+                    var tagBlock = '\n\n' + hashtags.slice(0, n).join(' ');
+                    if ((text + tagBlock).length <= limit) {
+                        return text + tagBlock;
+                    }
+                }
+                return text;
+            }
+
+            if (typeof XLSX === 'undefined') {
+                alert('SheetJS library not loaded. Cannot generate TOBI XLSX.');
+                return;
+            }
+
+            var wb = XLSX.utils.book_new();
+            var data = [
+                ['## ' + BRAND_NAME + ' -- PostPlanner TOBI Bulk Upload', 'BULK UPLOAD VERSION 3.1 – Please DO NOT EDIT this cell.', '', '', '', '', '', '', ''],
+                ['## POSTING TIME', 'CAPTION', 'LINK', 'MEDIA', 'TITLE', 'FIRST COMMENT', 'FIRST COMMENT DELAY', 'TOBI BACKGROUND', 'REEL OR STORY']
+            ];
+
+            var keptHashtags = 0;
+            var strippedHashtags = 0;
+
+            xRows.forEach(function(row, i) {
+                var caption = cleanMarkdownForPost(row.content);
+
+                // If full caption fits under limit, use as-is — ALL hashtags + emojis preserved
+                if (caption.length <= TOBI_LIMIT) {
+                    if (extractHashtags(caption).length > 0) keptHashtags++;
+                    data.push([
+                        formatTimeForPostPlanner(row.time, postDate),
+                        caption, '', '', '', '', '', 'true-black', ''
+                    ]);
+                    return;
+                }
+
+                // Over limit — decompose and rebuild intelligently
+                var hashtags = extractHashtags(caption);
+                var coreText = stripHashtags(caption).trimEnd();
+                var emojiResult = extractTrailingEmoji(coreText);
+                var trailing_emoji = emojiResult.emoji;
+                var coreNoEmoji = emojiResult.text.trimEnd();
+
+                // Step 1: Get core text under limit
+                var result;
+                if (coreNoEmoji.length <= TOBI_LIMIT) {
+                    result = coreNoEmoji;
+                } else {
+                    result = truncateAtSentence(coreNoEmoji, TOBI_LIMIT);
+                }
+
+                // Step 2: Try to add back trailing emoji
+                if (trailing_emoji) {
+                    var withEmoji = result + ' ' + trailing_emoji;
+                    if (withEmoji.length <= TOBI_LIMIT) {
+                        result = withEmoji;
+                    }
+                }
+
+                // Step 3: Try to add back as many hashtags as possible
+                if (hashtags.length > 0) {
+                    var before = result;
+                    result = fitHashtagsWithinLimit(result, hashtags, TOBI_LIMIT);
+                    if (result !== before) keptHashtags++;
+                    else strippedHashtags++;
+                }
+
+                data.push([
+                    formatTimeForPostPlanner(row.time, postDate),
+                    result, '', '', '', '', '', 'true-black', ''
+                ]);
+            });
+
+            var sheet = XLSX.utils.aoa_to_sheet(data);
+            sheet['!cols'] = [
+                {wch: 20}, {wch: 80}, {wch: 10}, {wch: 10}, {wch: 10}, {wch: 20}, {wch: 18}, {wch: 18}, {wch: 14}
+            ];
+            XLSX.utils.book_append_sheet(wb, sheet, 'Sheet1');
+
+            XLSX.writeFile(wb, 'postplanner-tobi-upload-' + postDate + '.xlsx');
+
+            alert('Downloaded TOBI export with ' + xRows.length + ' posts.\n\n' +
+                  keptHashtags + ' posts kept hashtags, ' + strippedHashtags + ' had hashtags removed for length.\n\n' +
+                  'Background: true-black (Column H).\nUpload to PostPlanner for Facebook TOBI posts.');
+        }
+
+        function parseXPostContent(content, storyTitle) {
+            var posts = [];
+            var lines = content.split('\n');
+
+            var inTextPost = false;
+            var inThread = false;
+            var currentTweetNum = 0;
+            var currentText = [];
+
+            for (var i = 0; i < lines.length; i++) {
+                var line = lines[i];
+                var trimmed = line.trim();
+
+                if (trimmed.match(/^###\s+Text Post/i)) {
+                    flushPost();
+                    inTextPost = true;
+                    inThread = false;
+                    currentText = [];
+                    continue;
+                }
+                if (trimmed.match(/^###\s+Thread Concept/i)) {
+                    flushPost();
+                    inTextPost = false;
+                    inThread = true;
+                    currentText = [];
+                    currentTweetNum = 0;
+                    continue;
+                }
+                if (trimmed.match(/^###\s+Image Post/i)) {
+                    flushPost();
+                    inTextPost = false;
+                    inThread = false;
+                    continue;
+                }
+                if (trimmed.match(/^###\s/)) {
+                    flushPost();
+                    inTextPost = false;
+                    inThread = false;
+                    continue;
+                }
+
+                if (inThread && trimmed.match(/^\*\*Tweet\s+\d+/i)) {
+                    flushPost();
+                    currentTweetNum++;
+                    currentText = [];
+                    continue;
+                }
+
+                if (inTextPost || (inThread && currentTweetNum > 0)) {
+                    if (trimmed !== '') {
+                        currentText.push(line);
+                    }
+                }
+            }
+            flushPost();
+
+            function flushPost() {
+                if (currentText.length === 0) return;
+                var text = currentText.join('\n').trim();
+                if (!text) return;
+
+                if (inTextPost) {
+                    posts.push({ text: text, type: 'text' });
+                } else if (inThread && currentTweetNum > 0) {
+                    posts.push({
+                        text: text,
+                        type: currentTweetNum === 1 ? 'thread_start' : 'thread_reply'
+                    });
+                }
+                currentText = [];
+            }
+
+            return posts;
+        }
+
+        function parseFacebookContent(content, storyTitle) {
+            var lines = content.split('\n');
+            var inLongForm = false;
+            var inImagePost = false;
+            var longFormLines = [];
+            var imageCaption = '';
+
+            for (var i = 0; i < lines.length; i++) {
+                var trimmed = lines[i].trim();
+
+                if (trimmed.match(/^###\s+Long-Form Post/i)) {
+                    inLongForm = true;
+                    inImagePost = false;
+                    longFormLines = [];
+                    continue;
+                }
+                if (trimmed.match(/^###\s+Image Post Caption/i) || trimmed.match(/^###\s+Image Post/i)) {
+                    inLongForm = false;
+                    inImagePost = true;
+                    continue;
+                }
+                if (trimmed.match(/^###\s/) || trimmed.match(/^---/)) {
+                    inLongForm = false;
+                    inImagePost = false;
+                    continue;
+                }
+
+                if (inLongForm) {
+                    longFormLines.push(lines[i]);
+                }
+                if (inImagePost && trimmed !== '') {
+                    imageCaption = trimmed;
+                    inImagePost = false;
+                }
+            }
+
+            var longForm = longFormLines.join('\n').trim();
+            if (!longForm) return null;
+
+            return {
+                content: longForm,
+                image_caption: imageCaption,
+                story: storyTitle
+            };
+        }
+
+        function downloadFile(content, filename, mimeType) {
+            var blob = new Blob([content], { type: mimeType });
+            var url = URL.createObjectURL(blob);
+            var link = document.createElement('a');
+            link.href = url;
+            link.download = filename;
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+            URL.revokeObjectURL(url);
+        }
+
+        var currentStatusFilter = 'all';
+        var currentTypeFilter = 'all';
+
+        function filterByStatus(status) {
+            currentStatusFilter = status;
+            applyFilters();
+            document.querySelectorAll('.filter-btn').forEach(function(btn) {
+                btn.classList.remove('active');
+                if (btn.textContent.trim().toLowerCase().replace(/\s+/g, '') === status.replace('-', '').toLowerCase() ||
+                    (status === 'all' && btn.textContent.trim() === 'All') ||
+                    (status === 'needs-edit' && btn.textContent.trim() === 'Needs Edit')) {
+                    btn.classList.add('active');
+                }
+            });
+            document.querySelectorAll('.sidebar .nav-item').forEach(function(item) { item.classList.remove('active'); });
+        }
+
+        function filterByType(type) {
+            currentTypeFilter = type;
+            currentStatusFilter = 'all';
+            applyFilters();
+            document.querySelectorAll('.sidebar .nav-item').forEach(function(item) { item.classList.remove('active'); });
+            document.querySelectorAll('.filter-btn').forEach(function(btn) {
+                btn.classList.remove('active');
+                if (btn.textContent.trim() === 'All') btn.classList.add('active');
+            });
+        }
+
+        function applyFilters() {
+            var cards = document.querySelectorAll('.card');
+            var visibleCount = 0;
+            cards.forEach(function(card) {
+                var cardStatus = card.getAttribute('data-status');
+                var cardType = card.getAttribute('data-type');
+                var matchesStatus = (currentStatusFilter === 'all') || (cardStatus === currentStatusFilter);
+                var matchesType = (currentTypeFilter === 'all') || (cardType === currentTypeFilter);
+                if (matchesStatus && matchesType) {
+                    card.classList.add('show');
+                    visibleCount++;
+                } else {
+                    card.classList.remove('show');
+                }
+            });
+            document.getElementById('empty-state').style.display = visibleCount === 0 ? 'block' : 'none';
+        }
+
+        function approveAll() {
+            if (!confirm('Approve all ' + allStories.length + ' items?')) return;
+            allStories.forEach(function(story) { setStatus(story.id, 'approved'); });
+        }
+
+        function resetAll() {
+            if (confirm('Reset all reviews? This cannot be undone.')) {
+                localStorage.removeItem(REVIEW_STORAGE_KEY + '-' + DATE);
+                location.reload();
+            }
+        }
+
+        function copyContent(storyId) {
+            var data = reviewData[storyId];
+            var story = allStories.find(function(s) { return s.id === storyId; });
+            var text = (data && data.editedContent) ? data.editedContent : (story ? story.content : '');
+            navigator.clipboard.writeText(text).then(function() {
+                var btn = document.querySelector('[data-id="' + storyId + '"] .btn-copy');
+                if (btn) { var orig = btn.textContent; btn.textContent = 'Copied!'; setTimeout(function() { btn.textContent = orig; }, 1500); }
+            });
+        }
+
+        function exportApprovals() {
+            var items = [];
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id] || {};
+                items.push({
+                    id: story.id,
+                    type: story.type,
+                    title: story.title,
+                    status: data.status || 'unreviewed',
+                    notes: data.notes || '',
+                    content: story.content,
+                    editedContent: data.editedContent || null,
+                    finalContent: data.editedContent || story.content
+                });
+            });
+
+            var exportData = {
+                date: DATE,
+                reviewed_by: '',
+                reviewed_at: new Date().toISOString(),
+                items: items
+            };
+
+            var dataStr = JSON.stringify(exportData, null, 2);
+            var dataBlob = new Blob([dataStr], { type: 'application/json' });
+            var url = URL.createObjectURL(dataBlob);
+            var link = document.createElement('a');
+            link.href = url;
+            link.download = 'approvals-' + DATE + '.json';
+            link.click();
+            URL.revokeObjectURL(url);
+        }
+
+        // Auto-save notes as you type
+        document.addEventListener('input', function(e) {
+            if (e.target.classList.contains('notes-textarea')) {
+                var storyId = e.target.id.replace('textarea-', '');
+                if (reviewData[storyId]) {
+                    reviewData[storyId].notes = e.target.value;
+                    localStorage.setItem(REVIEW_STORAGE_KEY + '-' + DATE, JSON.stringify(reviewData));
+                }
+            }
+        });
+
+        initializeApp();
+
+    </script>
+</body>
+</html>
