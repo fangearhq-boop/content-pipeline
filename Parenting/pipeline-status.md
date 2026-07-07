@@ -1,6 +1,44 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: July 6, 2026
+## Latest Run: July 7, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Wildfire smoke + Ozone Action Day (CDPHE colorado.gov/airquality/Colorado Sun/CPR News/Denver7/AccuWeather — Aspen Acres Fire 91,523+ acres Pueblo County started June 29 7th largest CO history human-caused; Ozone Action Day Front Range Urban Corridor through 4 PM July 7; CDPHE recommends limit outdoor time; check AirNow.gov); GOPO Toys teething recall (cpsc.gov/Yahoo News/Fox Business/Daily Voice — ~70,410 units; Amazon Aug 2023–Mar 2026 $11–$15; off-white disc gray ball 6 colored silicone pull strings 7 push buttons; 3 choking/respiratory incidents; batches 250905/250530/250120/240315/231005/230610; cut strings + DESTROYED + photo to recalls@gopotoys.com); Cover All Coloradans cap (Colorado Sun/Colorado Newsline/Post Independent/hcpf.colorado.gov — 25,000-enrollment cap effective July 1, 2026; launched Jan 1, 2025; immigrant children + pregnant women; age limit under 19 → under 18; cost $14.7M original → $104.5M projected 2026–27; closed to new applicants); First & Main Concert Series (firstandmaintowncenter.com/visitcos.com/peakradar.com — July 10 Soapdish July 17 Sun Jr. finale; 5–7 PM free all ages 3305 Cinema Point COS); Uuoeebb infant walker recall (cpsc.gov/mother.ly/Fox Business — ~2,650 units Amazon Dec 2024–Sep 2025 $60–$90 BaoD; round base 8 wheels 7 heights collapsible gray/black/pink; Batch 7654 under seat; doorway + step + entrapment hazards; manufacturer unresponsive; Uuoeebbrecalls@outlook.com refund) |
+| Story History Check | COMPLETE | All 5 stories NEW; confirmed against story-history.md; no overlaps with prior coverage (wildfire smoke covered July 5 — but today's story is a NEW ozone + smoke alert for July 7, distinct from July 5 safety guide) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2); ### STORY N: format |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH confidence tags; all facts from web search |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Jamie Rivera (S1, S3, S5), Sarah Morales (S2, S4); ### STORY N: uppercase format (required for verify-facts.py parsing) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 8 posts (2 for S1, 2 for S2, 2 for S3, 1 for S4, 1 for S5); all under 280 chars; 4 hashtags each; COS voice rules; 0 exclamation marks |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; NO hashtags; COS voice rules; contractions throughout |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 8 Gemini base_only prompts (2 per Tier 1 story × 3, 1 per Tier 2 story × 2; 1200x675 social + 1200x630 article hero for Tier 1); clean bottom third; no celebrity likenesses; no brand logos |
+| Image Manifest | COMPLETE | 07-image-manifest.md — table format; 8 images across 5 stories; all not_started; photo_source: gemini; model: gemini-2.5-flash-image |
+| Articles | COMPLETE | 5 articles (500–750 words; Quick Reference tables in S1, S2, S3, S4, S5; What's Next sections; 0 exclamation marks; no figure tags; no photo credits; semantic HTML5); bylines: Jamie Rivera (A1, A3, A5), Sarah Morales (A2, A4) |
+| Fact-Check | COMPLETE | verify-facts.py passed; 58 claims; HIGH: 85, MEDIUM: 13, LOW: 52; all 5 stories present in all content files; image manifest warnings cosmetic (expected for gemini source — same as all prior Parenting runs) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 5 FB posts, 5 articles, 5 images; 28 dashboard items |
+| Dashboard | COMPLETE | review-dashboard.html — 28 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-07-07.xlsx (8 posts, 13:26–20:54 MT) + TOBI cosp-postplanner-tobi-2026-07-07.xlsx (8 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-07-07)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 5 FB long-form + 5 FB captions = 18 total posts (PostPlanner xlsx: 8 posts standard 13:26–20:54 MT, 8 TOBI)
+- **Articles:** 5 (bylines: Jamie Rivera x3 [A1, A3, A5], Sarah Morales x2 [A2, A4])
+- **PostPlanner exports:** cosp-postplanner-2026-07-07.xlsx (8 posts, 13:26–20:54 MT), cosp-postplanner-tobi-2026-07-07.xlsx (8 TOBI posts)
+- **Coverage:** Wildfire smoke + Ozone Action Day (Aspen Acres Fire 91,523+ acres Pueblo County 7th largest CO history; Ozone Action Day Front Range Urban Corridor through 4 PM July 7; CDPHE limit outdoor time; AirNow.gov; PM2.5 risk for children; colorado.gov/airquality); GOPO Toys Pull String Teething Toy recall (~70,410 units Amazon Aug 2023–Mar 2026 $11–$15; off-white disc gray ball 6 colored silicone pull strings 7 push buttons; 3 incidents; batches 250905/250530/250120/240315/231005/230610; cut strings + DESTROYED + photo recalls@gopotoys.com; cpsc.gov); Cover All Coloradans 25,000-child cap (launched Jan 1, 2025; cap effective July 1, 2026; immigrant children + pregnant women; age limit under 19 → under 18; cost $14.7M → $104.5M projected; closed to new applicants; hcpf.colorado.gov; Colorado Sun); First & Main Summer Concert Series (July 10 Soapdish July 17 Sun Jr. finale; 5–7 PM free all ages 3305 Cinema Point; local vendors balloon animals Marvelous Marc; 25+ year tradition; firstandmaintowncenter.com); Uuoeebb Infant Walker recall (~2,650 units Amazon Dec 2024–Sep 2025 $60–$90; BaoD / Hunan Suihuo E-commerce Co.; gray/black/pink round base 8 wheels 7 heights collapsible; Batch 7654 under seat; doorway + step + entrapment hazards; manufacturer unresponsive; Uuoeebbrecalls@outlook.com; cpsc.gov)
+- **Notes:**
+  - Ran as Niche 2 in sequence after Tennis niche (session resumed from context compaction twice; Tennis niche completed in prior session segment)
+  - verify-facts.py: fixed 02-story-analysis.md to use uppercase ### STORY N: headers (required for script parsing); image manifest warnings cosmetic (expected for gemini source — same as all prior Parenting runs)
+  - Compile: 8 X posts, 5 FB posts (improved from July 6's 0 FB posts — used **Long-Form Post (time)** format); 28 dashboard items
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] (rotating from July 6's Sarah Morales [S1, S3, S5])
+
+---
+
+## Prior Run: July 6, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|

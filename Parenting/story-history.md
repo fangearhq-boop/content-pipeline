@@ -2,6 +2,45 @@
 
 ---
 
+## July 7, 2026
+
+### Story 1: Wildfire Smoke + Ozone Action Day — Air Quality Alert for Colorado Springs
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — Wildfire smoke from the Aspen Acres Fire (91,523+ acres, Pueblo County, started June 29, 7th largest in CO history) pushing into Colorado Springs; Ozone Action Day in effect for Front Range Urban Corridor through at least 4 PM July 7. CDPHE recommends limiting outdoor time especially for children. Sources: CDPHE colorado.gov/airquality, Colorado Sun, CPR News, Denver7, AccuWeather.
+- **Content Produced:** Article (Jamie Rivera), 2 X Text Posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Aspen Acres Fire 91,523+ acres Pueblo County started June 29 7th largest CO history human-caused; Ozone Action Day Front Range Urban Corridor through 4 PM July 7; wildfire smoke advisory El Paso County / Colorado Springs; CDPHE recommends limit outdoor time; check AirNow.gov; PM2.5 hazard for children with developing lungs
+
+### Story 2: CPSC Recall — GOPO Toys Pull String Teething Toy (~70,410 Units)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — ~70,410 GOPO TOYS Pull String Teething Toys recalled. Off-white disc with gray ball in center, 6 multi-colored silicone tentacle pull strings, 7 soft push buttons. Sold on Amazon August 2023–March 2026, $11–$15. Silicone strings can reach child's throat; 3 choking/respiratory distress incidents. Batch numbers: 250905, 250530, 250120, 240315, 231005, 230610 (on back of packaging). Remedy: cut all silicone strings, write "DESTROYED" on body, send photo to recalls@gopotoys.com for full refund. Sources: cpsc.gov, Yahoo News, Fox Business, Daily Voice.
+- **Content Produced:** Article (Sarah Morales), 2 X Text Posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** ~70,410 units; Amazon Aug 2023–Mar 2026 $11–$15; off-white disc gray ball 6 colored silicone pull strings 7 push buttons; 3 incidents; batches 250905/250530/250120/240315/231005/230610; cut strings + write DESTROYED + photo to recalls@gopotoys.com
+
+### Story 3: Cover All Coloradans Hits 25,000-Child Enrollment Cap
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — Colorado's Cover All Coloradans program hit its 25,000-enrollment cap effective July 1, 2026. Program launched January 1, 2025; provides healthcare for immigrant children and pregnant women without traditional Medicaid access. Age limit reduced from under 19 to under 18. Cost escalated from original $14.7M estimate to projected $104.5M for 2026–27. Program closed to new applicants. Sources: Colorado Sun, Colorado Newsline, Post Independent, hcpf.colorado.gov.
+- **Content Produced:** Article (Jamie Rivera), 2 X Text Posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** 25,000-enrollment cap effective July 1, 2026; launched Jan 1, 2025; immigrant children + pregnant women; age limit reduced under 19 → under 18; cost $14.7M original estimate → $104.5M projected 2026–27; program closed to new applicants; advocates warn more ER visits
+
+### Story 4: First & Main Summer Concert Series — Two Fridays Left (Free, All Ages)
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Two concerts remain in First & Main Town Center Summer Concert Series. July 10: Soapdish; July 17: Sun Jr. (series finale). Free, all ages, 5–7 PM, 3305 Cinema Point, Colorado Springs. 25+ year tradition. Local vendors, balloon animals by Marvelous Marc, door prizes. Sources: firstandmaintowncenter.com, visitcos.com, peakradar.com.
+- **Content Produced:** Article (Sarah Morales), 1 X Text Post, Facebook Long-Form + Caption, Image Concept (x1)
+- **Tier:** 2
+- **Key Facts:** Every Friday 5–7 PM free; 3305 Cinema Point COS; July 10 Soapdish; July 17 Sun Jr. series finale; all ages; local vendors; balloon animals Marvelous Marc; 25+ year tradition; firstandmaintowncenter.com
+
+### Story 5: CPSC Recall — Uuoeebb Infant Walker (~2,650 Units)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — ~2,650 Uuoeebb infant walkers recalled. Sold on Amazon by BaoD (Hunan Suihuo E-commerce Co.) December 2024–September 2025, $60–$90. Gray, black, or pink; round base; 8 wheels; 7 adjustable height settings; collapsible. Production Batch 7654 on tracking label under seat. Hazards: fits through standard doorways, fails to stop at step edge, leg openings allow child to slip until head entrapped. Manufacturer unresponsive. Remedy: stop use + email Uuoeebbrecalls@outlook.com for full refund. Sources: cpsc.gov, mother.ly, Fox Business.
+- **Content Produced:** Article (Jamie Rivera), 1 X Text Post, Facebook Long-Form + Caption, Image Concept (x1)
+- **Tier:** 2
+- **Key Facts:** ~2,650 units; Amazon Dec 2024–Sep 2025 $60–$90; BaoD / Hunan Suihuo E-commerce Co.; gray/black/pink round base 8 wheels 7 height settings collapsible; Production Batch 7654 under seat; fits through doorways + fails at step edge + leg openings too wide → head entrapment; manufacturer unresponsive; Uuoeebbrecalls@outlook.com full refund
+
+---
+
 ## July 6, 2026
 
 ### Story 1: CPSC Recall — CreateOn Pip-Cubes (Crayola-Branded) Magnetic Building Blocks
