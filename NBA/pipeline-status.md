@@ -1,10 +1,21 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Last Run
-- **Date**: 2026-07-06
+- **Date**: 2026-07-07
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-07
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce, Jake Torres)
+- **PostPlanner exports:** hh-postplanner-2026-07-07.xlsx (6 posts) + hh-postplanner-tobi-2026-07-07.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-07-07/review-dashboard.html (21 items)
+- **Notes:** NBA FREE AGENCY DAY 8 — LeBron still unsigned; Cavaliers emerging as front-runner per Yahoo Sports/Fade Away World despite only offering veteran minimum (~$3.9M vs Warriors $15M MLE); Darryn Peterson (No. 2 pick, Jazz) posts back-to-back 25/12 in Salt Lake City Summer League — Jazz beat Grizzlies twice; LaMelo Ball "It's a Dream" on joining Anthony Edwards in Minnesota (traded from Charlotte for Naz Reid+picks); Ja Morant officially a Trail Blazer (Grant+Murray+cash, zero picks); Kawhi Leonard hires new agent Harrison Gaines for Raptors extension ($123.7M, 2yr eligible)
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-06
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

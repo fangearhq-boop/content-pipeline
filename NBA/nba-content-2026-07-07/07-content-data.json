@@ -1,0 +1,240 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-07",
+  "compiled_at": "2026-07-07T11:18:07.204018+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "LeBron James — Cavaliers Emerge as Front-Runner, Decision Still Not Imminent",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The latest on LeBron James:\n\nCleveland is emerging as the FRONT-RUNNER.\n\nRich Paul: no decision \"anytime soon.\"\n\nWarriors offer $15M. Cavs offer veteran minimum (~$3.9M).\n\nLeBron might go home for almost nothing. 👑 #NBAFreeAgency",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBAFreeAgency"
+          ],
+          "char_count": 229
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Brian Windhorst: LeBron James has refused to hold formal meetings with teams.\n\nHe's keeping everyone in the dark.\n\nRivals are starting to read the silence differently — Cleveland is the lean.\n\nThe wait continues. 👑 #NBAFreeAgency",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBAFreeAgency"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-lebron-cavaliers-front-runner-free-agency.html",
+        "headline": "LeBron James Free Agency: Cleveland Emerging as the Front-Runner Despite Massive Pay Cut",
+        "word_count": 667
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LeBron James — Cavaliers Emerge as Front-Runner\n\n#### Image Concept 1 — Social (1080x1350 vertical, 4:5)\n- **Purpose:** X/Facebook post image\n- **Imagn Search Terms:** LeBron James Cleveland Cavaliers\n- **Shot preference:** LeBron in Cavaliers jersey, determined expression or celebratory moment\n- **Text overlay (Canva):** \"FRONT-RUNNER\" / \"The Cavs are closing in\" / Hoop Heroes logo\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630 landscape, 1.91:1)\n- **Purpose:** Article featured image\n- **Imagn Search Terms:** LeBron James Cavaliers\n- **Shot preference:** Action or portrait in Cleveland uniform\n- **Text overlay (Canva):** \"LeBron's Final Chapter\" / article title\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Darryn Peterson Explodes for Back-to-Back 25/12 in Summer League",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Darryn Peterson just posted back-to-back 25-point, 12-assist games at Salt Lake City Summer League.\n\nNo. 2 pick. Utah Jazz. 19 years old.\n\nYahoo Sports: \"It may be just Summer League, but Darryn Peterson looks special.\"\n\nThe Jazz might have something. 🏀 #NBATwitter",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBATwitter"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-darryn-peterson-summer-league-back-to-back.html",
+        "headline": "Darryn Peterson's Back-to-Back 25/12 Performances Are Turning Summer League Into Must-Watch TV",
+        "word_count": 534
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Darryn Peterson — Back-to-Back 25/12 in Summer League\n\n#### Image Concept 1 — Social (1080x1350 vertical, 4:5)\n- **Purpose:** X/Facebook post image\n- **Imagn Search Terms:** Darryn Peterson Utah Jazz\n- **Shot preference:** Peterson in Jazz Summer League uniform, driving to basket or celebrating\n- **Text overlay (Canva):** \"25 PTS | 12 AST\" / \"BACK-TO-BACK\" / Hoop Heroes logo\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630 landscape, 1.91:1)\n- **Purpose:** Article featured image\n- **Imagn Search Terms:** Darryn Peterson Jazz\n- **Shot preference:** Peterson in action at Summer League\n- **Text overlay (Canva):** \"The Future Is Now\" / article title\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "LaMelo Ball Speaks Out — \"It's a Dream\" to Team Up with Anthony Edwards",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "LaMelo Ball on joining Anthony Edwards in Minnesota:\n\n\"It's a Dream, Man.\"\n\nThe Timberwolves just built something. 🐺 #Timberwolves #NBATwitter",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Timberwolves",
+            "#NBATwitter"
+          ],
+          "char_count": 142
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-lamelo-ball-timberwolves-dream.html",
+        "headline": "LaMelo Ball on Joining the Timberwolves: \"It's a Dream, Man\"",
+        "word_count": 520
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LaMelo Ball — \"It's a Dream\"\n\n#### Image Concept 1 — Social (1080x1350 vertical, 4:5)\n- **Purpose:** X/Facebook post image\n- **Imagn Search Terms:** LaMelo Ball Timberwolves\n- **Shot preference:** LaMelo in Wolves gear or arriving at facility\n- **Text overlay (Canva):** \"IT'S A DREAM\" / LaMelo quote / Hoop Heroes logo\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630 landscape, 1.91:1)\n- **Purpose:** Article featured image\n- **Imagn Search Terms:** LaMelo Ball Minnesota\n- **Shot preference:** LaMelo in Timberwolves uniform\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Ja Morant Officially a Trail Blazer — Fresh Start in Portland",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Ja Morant to the Portland Trail Blazers is officially DONE.\n\nThe price: Jerami Grant + Kris Murray + cash.\n\nZero draft picks. Portland just landed an All-Star PG for nothing.\n\nFresh start season. 🌹 #TrailBlazers #NBATwitter",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TrailBlazers",
+            "#NBATwitter"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-ja-morant-portland-trail-blazers-fresh-start.html",
+        "headline": "Ja Morant Gets His Fresh Start in Portland — and the Trail Blazers Got Him for Almost Nothing",
+        "word_count": 501
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ja Morant to Portland\n\n#### Image Concept 1 — Social (1080x1350 vertical, 4:5)\n- **Purpose:** X/Facebook post image\n- **Imagn Search Terms:** Ja Morant Trail Blazers\n- **Shot preference:** Morant in Portland uniform or action shot\n- **Text overlay (Canva):** \"FRESH START\" / \"Portland\" / Hoop Heroes logo\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630 landscape, 1.91:1)\n- **Purpose:** Article featured image\n- **Imagn Search Terms:** Ja Morant Blazers\n- **Shot preference:** Morant action or portrait in Portland gear\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Kawhi Leonard Hires New Agent, Eyes Raptors Extension",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Kawhi Leonard just hired a new agent — specifically to negotiate a Raptors extension.\n\nHe's eligible for 2 years/$123.7M.\n\nMessage received, Toronto. 🦖 #Raptors #NBATwitter",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Raptors",
+            "#NBATwitter"
+          ],
+          "char_count": 172
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-kawhi-leonard-new-agent-raptors-extension.html",
+        "headline": "Kawhi Leonard Hires New Agent — and the Message to Toronto Is Unmistakable",
+        "word_count": 537
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Kawhi Leonard Hires New Agent\n\n#### Image Concept 1 — Social (1080x1350 vertical, 4:5)\n- **Purpose:** X/Facebook post image\n- **Imagn Search Terms:** Kawhi Leonard Toronto Raptors\n- **Shot preference:** Kawhi in Raptors uniform, determined expression\n- **Text overlay (Canva):** \"STAYING HOME\" / \"$123.7M Extension\" / Hoop Heroes logo\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630 landscape, 1.91:1)\n- **Purpose:** Article featured image\n- **Imagn Search Terms:** Kawhi Leonard Raptors\n- **Shot preference:** Kawhi action or portrait in Toronto gear\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-07-07
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-07 | T1 | LeBron James — Cavaliers Emerge as Front-Runner, Decision Still Not Imminent | X, FB, Article | FOLLOW UP |
+| 2026-07-07 | T1 | Darryn Peterson Explodes for Back-to-Back 25/12 in Summer League | X, FB, Article | NEW |
+| 2026-07-07 | T2 | LaMelo Ball Speaks Out — "It's a Dream" to Team Up with Anthony Edwards | X, FB, Article | FOLLOW UP |
+| 2026-07-07 | T2 | Ja Morant Officially a Trail Blazer — Fresh Start in Portland | X, FB, Article | FOLLOW UP |
+| 2026-07-07 | T2 | Kawhi Leonard Hires New Agent, Eyes Raptors Extension | X, FB, Article | NEW |
+
+### STORY 1: LeBron James — Cavaliers Emerge as Front-Runner
+- **Tier:** 1
+- **Category:** NBA Free Agency / LeBron James
+- **Key facts:** LeBron still unsigned as of July 7; Cavaliers emerging as front-runner per Yahoo Sports/Fade Away World; rival teams losing hope; Cavs can offer only veteran minimum (~$3.9M); Warriors offer ~$15M MLE; LeBron refused formal meetings per Windhorst (ESPN); Rich Paul: no decision "anytime soon"; Harden declined $42.3M option/renegotiating new Cavs deal
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** LeBron signs announcement; press conference; Warriors vs Cavs final word
+
+### STORY 2: Darryn Peterson — Back-to-Back 25/12 Summer League
+- **Tier:** 1
+- **Category:** NBA Summer League / Rookies
+- **Key facts:** Peterson is No. 2 pick (2026 draft) by Utah Jazz; back-to-back 25 pts/12 ast in Salt Lake City SL; Jazz won both games vs Memphis; Boozer (No. 3 pick) had 18/7/4 in Day 1 loss; Blake Hinson 15 pts in Day 2; Yahoo Sports: "looks special"; Peterson vs Dybantsa (No. 1) expected at Las Vegas SL
+- **Status:** NEW
+- **Follow-up ideas:** Las Vegas Summer League debut; Peterson vs Dybantsa matchup
+
+### STORY 3: LaMelo Ball — "It's a Dream"
+- **Tier:** 2
+- **Category:** NBA Trade / Timberwolves
+- **Key facts:** LaMelo traded Charlotte→Minnesota (July 6 moratorium lift); MN received LaMelo; Charlotte received Naz Reid + 2033 unprotected first + 3 swaps + 3 seconds; LaMelo: "It's a Dream" on teaming with Anthony Edwards; mentions Lonzo reunion possibility
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Ant+LaMelo training camp dynamic; Lonzo Ball return timeline
+
+### STORY 4: Ja Morant — Portland Trail Blazers
+- **Tier:** 2
+- **Category:** NBA Trade / Trail Blazers
+- **Key facts:** Memphis traded Morant to Portland for Jerami Grant + Kris Murray + cash; zero draft picks; executed July 6; Morant 26yo, played 79 games in past 3 seasons (injuries/suspensions); contract through 2027-28; eligible 3yr/$178M extension
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Morant Portland debut; extension talks; health updates
+
+### STORY 5: Kawhi Leonard — New Agent, Raptors Extension
+- **Tier:** 2
+- **Category:** NBA Offseason / Raptors
+- **Key facts:** Kawhi hired Harrison Gaines (SLASH Sports) as new agent specifically for Raptors extension talks; eligible 2yr/$123.7M; signaled no interest in extending elsewhere; Raptors paid Ingram+Dick+unprotected 2031/2033 firsts+2030/2033 seconds+2027 swap to get Kawhi back from Clippers
+- **Status:** NEW
+- **Follow-up ideas:** Extension signed; Kawhi Toronto press conference; Raptors season outlook
+
 ## 2026-07-06
 
 | Date | Tier | Story | Platforms | Status |
