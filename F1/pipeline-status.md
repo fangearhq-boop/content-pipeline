@@ -1,10 +1,21 @@
 # F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
-- **Date**: 2026-07-06
+- **Date**: 2026-07-07
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-07
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway)
+- **PostPlanner exports:** f1fr-postplanner-2026-07-07.xlsx (6 posts) + f1fr-postplanner-tobi-2026-07-07.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-07-07/review-dashboard.html (21 items)
+- **Notes:** POST-BRITISH GP MONDAY — Hamilton cleared (reprimand only, keeps P3); Verstappen "fed up" after Silverstone crash (same DRS fault as Austria) — 76pts/7th, exit clauses in contract; 2027 driver market: 15 of 22 seats unconfirmed; Antonelli mental reset after wheel shield failure P15 (lead cut 66pts→25pts); Cadillac debut analysis (Bottas P16/Perez P14 at Silverstone); Belgian GP July 17-19
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-06
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

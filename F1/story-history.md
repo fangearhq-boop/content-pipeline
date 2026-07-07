@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-07-07
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-07 | T1 | Hamilton Cleared — Stewards Issue Reprimand Only After British GP Yellow Flag | X, FB, Article | FOLLOW UP |
+| 2026-07-07 | T1 | Is Verstappen Heading for the Exit? Red Bull's Star Running Out of Patience | X, FB, Article | FOLLOW UP |
+| 2026-07-07 | T2 | The 2027 F1 Silly Season Is Here — 15 of 22 Drivers Without a Confirmed Seat | X, FB, Article | NEW |
+| 2026-07-07 | T2 | Antonelli's Mental Reset — How Championship Leader Processes Nightmare Race | X, FB, Article | FOLLOW UP |
+| 2026-07-07 | T2 | Cadillac's Rocky F1 Debut — Bottas and Perez Search for Form in 2026 | X, FB, Article | NEW |
+
+### STORY 1: Hamilton Cleared — Reprimand Only
+- **Tier:** 1
+- **Category:** Race Stewards / British GP Fallout
+- **Key facts:** Stewards issued reprimand only (no time penalty) for yellow flag infringement during Verstappen crash; Hamilton retained P3; stewards noted he was checking mirrors for Verstappen counter-attack; reprimand has no direct consequence unless 3 in same season; Hamilton at 147pts (32 behind Antonelli)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Hamilton at Spa; any additional reprimand situations
+
+### STORY 2: Verstappen Losing Patience with Red Bull
+- **Tier:** 1
+- **Category:** Driver News / Red Bull
+- **Key facts:** Verstappen crashed at Stowe (Lap 41) with rear wing DRS fault — same issue as Austria; said "don't want anything to do with it for a while"; called 2026 cars "Formula E on steroids" and "Mario Kart"; "not having fun at all"; 76pts/7th (+103 behind Antonelli); Red Bull 4th in constructors (128pts); Verstappen contract through 2028 with performance-based exit clauses
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Verstappen exit clause activation; Red Bull technical development; Spa performance
+
+### STORY 3: 2027 Driver Market — 15 Seats Open
+- **Tier:** 2
+- **Category:** Driver Market / 2027 Season
+- **Key facts:** 15 of 22 drivers without confirmed 2027 seats; confirmed: Verstappen (RBR, exit clauses apply), Piastri (McLaren through 2028), Hamilton (Ferrari through 2027+option); only 4 teams with 1+ driver confirmed for 2027; Verstappen exit clause real if RBR misses performance targets
+- **Status:** NEW
+- **Follow-up ideas:** First major 2027 contract announcement; Verstappen decision; Russell/Leclerc/Sainz situations
+
+### STORY 4: Antonelli Mental Reset After Silverstone
+- **Tier:** 2
+- **Category:** Championship / Kimi Antonelli
+- **Key facts:** Antonelli won sprint, took pole (1:28.111), suffered LF wheel shield failure Lap 41 → 5s penalty → P15; championship lead cut from ~66pts to 25pts (179 Antonelli vs 154 Russell); he's 18yo, youngest championship leader in F1 history; 5 wins in 2026 (China, Japan, Miami, Canada, Monaco)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Belgian GP Spa performance; whether Mercedes addresses wheel shield issue
+
+### STORY 5: Cadillac F1 Debut Season
+- **Tier:** 2
+- **Category:** Team Analysis / Cadillac F1
+- **Key facts:** Cadillac F1 debut in 2026 as 11th team; drivers: Valtteri Bottas + Sergio Perez; Bottas P16 / Perez P14 at Silverstone; running toward back of constructors' standings; entering in new-regs year adds difficulty; new 50-50 combustion/electrical power unit rules
+- **Status:** NEW
+- **Follow-up ideas:** Cadillac first points score; 2027 car development update
+
 ## 2026-07-06
 
 | Date | Tier | Story | Platforms | Status |

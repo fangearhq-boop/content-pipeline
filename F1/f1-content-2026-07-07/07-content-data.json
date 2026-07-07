@@ -1,0 +1,242 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-07",
+  "compiled_at": "2026-07-07T11:25:07.160764+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Hamilton Cleared — Stewards Issue Reprimand Only After British GP Yellow Flag Investigation",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "CONFIRMED: Lewis Hamilton gets a reprimand — not a penalty — for the yellow flag incident at Silverstone.\n\nHe keeps his P3. No championship points lost.\n\nStewards: he was watching his mirrors for Verstappen, not ignoring the flag.\n\nControversy or correct call? #F1 #BritishGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BritishGP"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-hamilton-cleared-reprimand-yellow-flag.html",
+        "headline": "Hamilton Cleared: Stewards Issue Reprimand Only After British GP Yellow Flag Investigation",
+        "word_count": 518
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hamilton Cleared — Reprimand Only\n\n#### Image Concept 1 — Social (1080x1350 vertical, 4:5)\n- **Purpose:** X/Facebook post image\n- **Imagn Search Terms:** Lewis Hamilton Ferrari\n- **Shot preference:** Hamilton on podium or celebrating, Silverstone background preferred\n- **Text overlay (Canva):** \"REPRIMAND ONLY\" / \"Hamilton keeps P3\" / F1 Fanrecap logo\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630 landscape, 1.91:1)\n- **Purpose:** Article featured image\n- **Imagn Search Terms:** Lewis Hamilton Ferrari\n- **Shot preference:** Hamilton in cockpit or podium moment\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Is Verstappen Heading for the Exit? Red Bull's Star Is Running Out of Patience",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Max Verstappen after crashing out at Silverstone:\n\n\"I don't want anything to do with it for a while.\"\n\nHe's called the 2026 cars \"Formula E on steroids.\" He's 103 points off the lead. He has a performance-based exit clause.\n\nRed Bull has a problem. #F1 #Verstappen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Verstappen"
+          ],
+          "char_count": 264
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Reminder: Verstappen's Red Bull contract runs to 2028.\n\nBut it has exit clauses if Red Bull misses performance targets.\n\nThey're 4th in constructors'. He's 7th in drivers'.\n\nThe clock is ticking. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 199
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-verstappen-red-bull-patience-exit.html",
+        "headline": "Is Max Verstappen Done With Red Bull? A Champion's Patience Is Running Out",
+        "word_count": 609
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen — Patience Running Out\n\n#### Image Concept 1 — Social (1080x1350 vertical, 4:5)\n- **Purpose:** X/Facebook post image\n- **Imagn Search Terms:** Max Verstappen Red Bull\n- **Shot preference:** Verstappen looking frustrated or exiting car\n- **Text overlay (Canva):** \"FED UP\" / Verstappen quote / F1 Fanrecap logo\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630 landscape, 1.91:1)\n- **Purpose:** Article featured image\n- **Imagn Search Terms:** Max Verstappen Red Bull\n- **Shot preference:** Verstappen in car or walking away from car\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "The 2027 F1 Silly Season Is Here — 15 of 22 Drivers Without a Confirmed Seat",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "15 of 22 F1 drivers do NOT have a confirmed seat for 2027.\n\nThe silliest silly season in years is coming.\n\nWho lands where? Who shocks everyone? #F1 #DriverMarket",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#DriverMarket"
+          ],
+          "char_count": 162
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-2027-driver-market-15-seats.html",
+        "headline": "The 2027 F1 Driver Market Is Already Here — 15 of 22 Seats Still Unconfirmed",
+        "word_count": 593
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "2027 Driver Market\n\n#### Image Concept 1 — Social (1080x1350 vertical, 4:5)\n- **Purpose:** X/Facebook post image\n- **Imagn Search Terms:** Formula 1 drivers paddock\n- **Shot preference:** Multiple drivers together in paddock or pre-race\n- **Text overlay (Canva):** \"15 SEATS OPEN\" / \"2027 Silly Season\" / F1 Fanrecap logo\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630 landscape, 1.91:1)\n- **Purpose:** Article featured image\n- **Imagn Search Terms:** George Russell Mercedes\n- **Shot preference:** Russell in Mercedes gear\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Antonelli's Mental Reset — How the Championship Leader Processes a Nightmare Race",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Kimi Antonelli: won the sprint. Took pole. Suffered a wheel shield failure in the race.\n\nFinished P15. Still leads the championship by 25 points.\n\nHe's 18 years old. Welcome to your first real adversity in F1. #F1 #Antonelli",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Antonelli"
+          ],
+          "char_count": 224
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-antonelli-mental-reset-silverstone.html",
+        "headline": "Antonelli's Mental Reset: How F1's Youngest Championship Leader Handles His First Real Test",
+        "word_count": 510
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli Mental Reset\n\n#### Image Concept 1 — Social (1080x1350 vertical, 4:5)\n- **Purpose:** X/Facebook post image\n- **Imagn Search Terms:** Kimi Antonelli Mercedes\n- **Shot preference:** Antonelli in helmet, determined or focused\n- **Text overlay (Canva):** \"BOUNCE BACK\" / \"Still championship leader\" / F1 Fanrecap logo\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630 landscape, 1.91:1)\n- **Purpose:** Article featured image\n- **Imagn Search Terms:** Kimi Antonelli Mercedes\n- **Shot preference:** Antonelli in car or celebrating earlier race win\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Cadillac's Rocky F1 Debut — Bottas and Perez Search for Form in the New Era",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Cadillac F1's 2026 debut — through 9 races:\n\nP14 at Silverstone (Perez)\nP16 at Silverstone (Bottas)\n\nBuilding a new F1 team is brutally hard. America is watching. #F1 #CadillacF1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#CadillacF1"
+          ],
+          "char_count": 178
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-cadillac-f1-debut-season.html",
+        "headline": "Cadillac F1's Rocky Debut: America's New Team Is Learning the Hardest Lessons in Motorsport",
+        "word_count": 592
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cadillac F1 Debut\n\n#### Image Concept 1 — Social (1080x1350 vertical, 4:5)\n- **Purpose:** X/Facebook post image\n- **Imagn Search Terms:** Valtteri Bottas Cadillac\n- **Shot preference:** Bottas or Perez in Cadillac car on track\n- **Text overlay (Canva):** \"ROOKIE SEASON\" / \"America's F1 Dream\" / F1 Fanrecap logo\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630 landscape, 1.91:1)\n- **Purpose:** Article featured image\n- **Imagn Search Terms:** Sergio Perez Cadillac\n- **Shot preference:** Perez in Cadillac racing suit\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
