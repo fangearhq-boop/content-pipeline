@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-06T21:51:00.520205+00:00",
+  "generated_at": "2026-07-07T08:30:00.215410+00:00",
   "account": "cubs",
   "window_days": 21,
-  "tweet_count": 76,
-  "measured_tweet_count": 75,
-  "measured_median_impressions": 65,
-  "measured_mean_impressions": 84.71,
-  "median_impressions": 64.5,
-  "mean_impressions": 83.59,
+  "tweet_count": 75,
+  "measured_tweet_count": 74,
+  "measured_median_impressions": 66.0,
+  "measured_mean_impressions": 85.11,
+  "median_impressions": 65,
+  "mean_impressions": 83.97,
   "max_impressions": 322,
   "significant_findings": [
     {
@@ -15,9 +15,9 @@
       "kind": "category_vs_rest",
       "winner": "not_allcaps_lead",
       "loser": "allcaps_lead",
-      "median_impressions_winner": 78.0,
+      "median_impressions_winner": 81,
       "median_impressions_loser": 48,
-      "n_winner": 66,
+      "n_winner": 65,
       "n_loser": 9,
       "p_value": 0.0083,
       "effect_size_cliffs_delta": 0.547,
@@ -83,9 +83,9 @@
         }
       },
       "17": {
-        "n": 13,
-        "mean": 70.54,
-        "median": 56,
+        "n": 12,
+        "mean": 71.83,
+        "median": 56.5,
         "top": {
           "impressions": 168,
           "text": "Game 1 of a 4-game road series at Citi Field \u2014 6:10 PM CT first pitch.\n\nCubs (40-37) vs. Mets (34-43). Four games against a team with a losing record. This is exactly the kind of series a wild card contender has to win.\n\nImanaga. Let's work"
@@ -130,9 +130,9 @@
         }
       },
       "Mon": {
-        "n": 12,
-        "mean": 84.67,
-        "median": 75.5,
+        "n": 11,
+        "mean": 87.36,
+        "median": 92,
         "top": {
           "impressions": 178,
           "text": "The Cubs' rotation runs on duct tape \u2014 and somehow it keeps working.\n\nDavid Peterson: 5.2 IP, 2 ER in his debut Saturday. Jaxon Wiggins: 2\u2154 rehab innings at High-A on Sunday, expected back at Iowa soon.\n\n35 days until Jed Hoyer's deadline.\n"
@@ -186,9 +186,9 @@
     },
     "by_content_type": {
       "brief": {
-        "n": 75,
-        "mean": 84.71,
-        "median": 65,
+        "n": 74,
+        "mean": 85.11,
+        "median": 66.0,
         "top": {
           "impressions": 322,
           "text": "Cubs open a 3-game home series vs the Blue Jays at Wrigley, 1:20 PM CT.\n\nBen Brown (3-2, 1.74 ERA) takes the ball against Kevin Gausman (4-4, 3.41 ERA).\n\nTwo teams within a game of each other \u2014 every win matters in this wild card chase.\n\n#C"
@@ -215,9 +215,9 @@
         }
       },
       "stat_lead": {
-        "n": 10,
-        "mean": 104.5,
-        "median": 108.0,
+        "n": 9,
+        "mean": 110,
+        "median": 135,
         "top": {
           "impressions": 189,
           "text": "Daniel Palencia \u2014 2.70 ERA, 3 saves, team-best closer \u2014 is now on the IL with right elbow inflammation.\n\nPhil Maton inherits the save role. Porter Hodge is already gone for the year.\n\n47 days until the deadline. The bullpen needs help too.\n"
@@ -226,9 +226,9 @@
     },
     "by_len_bucket": {
       "200-260": {
-        "n": 46,
-        "mean": 76.8,
-        "median": 63.5,
+        "n": 45,
+        "mean": 77.29,
+        "median": 65,
         "top": {
           "impressions": 148,
           "text": "Pete Crow-Armstrong: .263/.341/.462, 13 HR, 16 SB, 3.9 WAR. Hit for the CYCLE two nights ago \u2014 first in all of MLB this season.\n\n265,000 All-Star votes. Ranked 14th among NL outfielders.\n\nThat's not a snub. That's a crime.\n\n#Cubs #GoCubs #M"
@@ -246,9 +246,9 @@
     },
     "by_hashtag_count": {
       "3": {
-        "n": 75,
-        "mean": 84.71,
-        "median": 65,
+        "n": 74,
+        "mean": 85.11,
+        "median": 66.0,
         "top": {
           "impressions": 322,
           "text": "Cubs open a 3-game home series vs the Blue Jays at Wrigley, 1:20 PM CT.\n\nBen Brown (3-2, 1.74 ERA) takes the ball against Kevin Gausman (4-4, 3.41 ERA).\n\nTwo teams within a game of each other \u2014 every win matters in this wild card chase.\n\n#C"
@@ -266,9 +266,9 @@
         }
       },
       "True": {
-        "n": 38,
-        "mean": 87.37,
-        "median": 68.0,
+        "n": 37,
+        "mean": 88.24,
+        "median": 69,
         "top": {
           "impressions": 322,
           "text": "Cubs open a 3-game home series vs the Blue Jays at Wrigley, 1:20 PM CT.\n\nBen Brown (3-2, 1.74 ERA) takes the ball against Kevin Gausman (4-4, 3.41 ERA).\n\nTwo teams within a game of each other \u2014 every win matters in this wild card chase.\n\n#C"
@@ -277,9 +277,9 @@
     },
     "by_has_stat": {
       "True": {
-        "n": 28,
-        "mean": 98.61,
-        "median": 90.5,
+        "n": 27,
+        "mean": 100.22,
+        "median": 100,
         "top": {
           "impressions": 322,
           "text": "Cubs open a 3-game home series vs the Blue Jays at Wrigley, 1:20 PM CT.\n\nBen Brown (3-2, 1.74 ERA) takes the ball against Kevin Gausman (4-4, 3.41 ERA).\n\nTwo teams within a game of each other \u2014 every win matters in this wild card chase.\n\n#C"
@@ -297,9 +297,9 @@
     },
     "by_has_emoji_first_line": {
       "False": {
-        "n": 75,
-        "mean": 84.71,
-        "median": 65,
+        "n": 74,
+        "mean": 85.11,
+        "median": 66.0,
         "top": {
           "impressions": 322,
           "text": "Cubs open a 3-game home series vs the Blue Jays at Wrigley, 1:20 PM CT.\n\nBen Brown (3-2, 1.74 ERA) takes the ball against Kevin Gausman (4-4, 3.41 ERA).\n\nTwo teams within a game of each other \u2014 every win matters in this wild card chase.\n\n#C"
@@ -308,9 +308,9 @@
     },
     "by_has_allcaps": {
       "True": {
-        "n": 58,
-        "mean": 85.57,
-        "median": 64.5,
+        "n": 57,
+        "mean": 86.11,
+        "median": 65,
         "top": {
           "impressions": 322,
           "text": "Cubs open a 3-game home series vs the Blue Jays at Wrigley, 1:20 PM CT.\n\nBen Brown (3-2, 1.74 ERA) takes the ball against Kevin Gausman (4-4, 3.41 ERA).\n\nTwo teams within a game of each other \u2014 every win matters in this wild card chase.\n\n#C"
@@ -330,15 +330,15 @@
   "raw_buckets_engagement_above_median": {
     "by_content_type": {
       "brief": {
-        "n": 38,
-        "mean_rate": 0.0044,
+        "n": 37,
+        "mean_rate": 0.0045,
         "median_rate": 0.0
       }
     },
     "by_opening": {
       "statement": {
-        "n": 30,
-        "mean_rate": 0.0037,
+        "n": 29,
+        "mean_rate": 0.0038,
         "median_rate": 0.0
       },
       "stat_lead": {
@@ -354,8 +354,8 @@
     },
     "by_has_score": {
       "False": {
-        "n": 18,
-        "mean_rate": 0.0042,
+        "n": 17,
+        "mean_rate": 0.0044,
         "median_rate": 0.0
       },
       "True": {
@@ -366,8 +366,8 @@
     },
     "by_has_stat": {
       "False": {
-        "n": 22,
-        "mean_rate": 0.0045,
+        "n": 21,
+        "mean_rate": 0.0047,
         "median_rate": 0.0
       },
       "True": {
