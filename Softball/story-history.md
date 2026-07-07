@@ -3,6 +3,59 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## July 7, 2026
+
+### Story 1: Texas Volts Snap 4-Game Skid — Rachel Garcia CG, Volts Beat Bandits 5-3
+- **Date:** 2026-07-07
+- **Tier:** 1
+- **Classification:** NEW STORY (July 6 game result; Garcia 3rd CG of season; Volts now 5-8; 13 days left)
+- **Angle:** Rachel Garcia threw CG in 5-3 win over Bandits. Volts snap 4-game losing streak, now 5-8. AUSL regular season ends July 20, play-in July 23, Championship Series July 25-27. Garcia buying Canady time for mechanics reset with Nyberg. Tonight: Blaze @ Cascade 8 PM ET.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Canady's first start after mechanics reset
+  - AUSL final standings and play-in game July 23
+
+### Story 2: FSU 2027 — The Quiet Rebuild Taking Shape
+- **Date:** 2026-07-07
+- **Tier:** 1
+- **Classification:** FOLLOW UP (FSU departures covered June 20+July 6; new angle: full 2027 picture — Francik+Danley return + Dodge+Edmiaston+Hudson class = dangerous team)
+- **Angle:** Francik (ACC POY) + Danley (All-American) returning. Dodge (TN, 11 HR, 46 RBI) + Edmiaston (Stetson, 23 HR, .900 SLG) via portal. McLanie Hudson (SA No. 5) leads incoming class of 6; class ranked No. 13 nationally. FSU being underestimated for 2027.
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - 2027 preseason polls once released
+  - FSU fall camp performance
+
+### Story 3: Megan Grant ESPYS — 8 Days to Vote
+- **Date:** 2026-07-07
+- **Tier:** 2
+- **Classification:** FOLLOW UP (ESPYS since July 4; countdown updated to 8 days)
+- **Angle:** 8 days to vote for Grant (Best Record-Breaking Performance, July 15 ESPYS ABC). 42 HR broke 31-year record. Competing vs. Garrett/Klæbo/Sawe. Vote once/day ESPN.com. Underdog framing — softball community must show up.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - ESPYS results July 15
+
+### Story 4: Garcia Wins, Canady Waits — The Volts' Two-Pitcher Plan
+- **Date:** 2026-07-07
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Canady reset covered July 3–6; new angle: Garcia's CG win gives Canady more reset time; two-pitcher plan explained)
+- **Angle:** Garcia 3 CGs while Canady resets with Nyberg. Nyberg fixing "squared up" position to home plate (vs "open"). "OG NiJa" goal. 13 days left, window closing. Volts need both pitchers.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Canady's next start
+  - Volts playoff run
+
+### Story 5: PGF Nationals 12 Days — Roster Freeze in 6
+- **Date:** 2026-07-07
+- **Tier:** 3
+- **Classification:** FOLLOW UP (summer calendar since June 30; 12-day countdown)
+- **Angle:** PGF July 19, Great Park Irvine. Roster freeze July 13 (6 days). Portal window through July 31. September 1 contact window = 56 days. Post-portal transition to evaluation/showcase season. 2028 class evaluation begins at PGF.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - PGF Week 1 results
+  - September 1 2028 class contact window
+
+---
+
 ## July 6, 2026
 
 ### Story 1: AUSL Midseason — Blaze and Bandits Lead; Championship Race
