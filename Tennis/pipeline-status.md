@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-07-06 |
-| Writing | Complete (all steps) | 2026-07-06 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 14 claims, 33 HIGH; image not_started warnings cosmetic/expected for imagn) | 2026-07-06 |
-| Compile | Complete (07-content-data.json — 5 stories, 8 X posts, 0 FB posts, 3 articles, 5 images; posting window warnings cosmetic) | 2026-07-06 |
-| Dashboard | Complete (review-dashboard.html, 21 items) | 2026-07-06 |
-| PostPlanner Export | Complete (standard 8 posts 12:52–20:48 ET; TOBI 8 posts) | 2026-07-06 |
-| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-07-06 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-07-06 |
+| Research | Complete | 2026-07-07 |
+| Writing | Complete (all steps) | 2026-07-07 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 13 claims, 24 HIGH; image not_started warnings cosmetic/expected for imagn) | 2026-07-07 |
+| Compile | Complete (07-content-data.json — 5 stories, 8 X posts, 5 FB posts, 5 articles, 5 images) | 2026-07-07 |
+| Dashboard | Complete (review-dashboard.html, 28 items) | 2026-07-07 |
+| PostPlanner Export | Complete (standard 8 posts 13:10–20:52 ET; TOBI 8 posts) | 2026-07-07 |
+| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-07-07 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-07-07 |
 
 ## Queue
 
@@ -24,6 +24,21 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-07-07 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 5 FB long-form + 5 FB captions = 18 total (PostPlanner xlsx: 8 posts standard, 8 TOBI)
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Ryan Calloway [S2, S5], Marcus Cole [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-07-07.xlsx (8 posts, 13:10–20:52 ET), tfr-postplanner-tobi-2026-07-07.xlsx (8 TOBI posts)
+- **Coverage:** Fery def. Dimitrov 7-5, 3-6, 4-6, 6-4, 7-6(10-7) — CORRECTION of July 6 pipeline error; first British wildcard Grand Slam QF in Open Era; 23yo, outside top 100; first WC men's QF Wimbledon since Kyrgios 2014; next vs No. 9 Cobolli. Cobolli (No. 9) def. de Minaur (No. 5) 7-5, 7-6(4), 6-3 — biggest Day 8 men's upset; 2nd consecutive Wimbledon QF; Fritz def. Bublik 7-6(1), 6-4, 6-4 (3rd straight QF, 7-0 all-time vs Zverev); Zverev leads Lehecka 6-4, 7-5, 3-3 (suspended curfew, resumes Day 9). Paolini def. Eala 6-4, 4-6, 6-3 (ends historic Filipino run); Noskova def. Keys 6-4, 7-6(2); Mertens def. Bouzkova 6-4, 6-4; Kostyuk def. Krueger 6-4, 6-4; Wimbledon 2026 guaranteed first-time women's champion. Day 9 QF preview: Gauff(7) vs Pegula(4) [first all-American Wimbledon ladies' QF top-10 seeds since 2009 Serena-Venus final]; FAA(3) vs Djokovic(7) [first grass meeting, H2H 1-1, Djokovic chasing 25th/8th Wimbledon]; Sinner(1) vs Struff; Osaka(14) vs Muchova(10) [Bad Homburg rematch]; scheduling controversy. FAA calls medical timeout rule "a disgrace of a rule" after ADF called physio at 5-4 in 4th set; proposed fix; Roddick support.
+- **Notes:**
+  - verify-facts.py: passed; 13 claims, 24 HIGH; image not_started warnings cosmetic (expected for imagn source)
+  - compile: 5 stories, 8 X posts, 5 FB posts, 5 articles, 5 images; 28 dashboard items; posting window warnings cosmetic
+  - PostPlanner exports: standard (8 posts) and TOBI (8 posts) generated successfully; 13:10–20:52 ET
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Elena Voss [S1, S4], Ryan Calloway [S2, S5], Marcus Cole [S3] (rotating from July 6: Marcus Cole [S1, S4], Elena Voss [S2, S5], Ryan Calloway [S3])
 
 ### 2026-07-06 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
