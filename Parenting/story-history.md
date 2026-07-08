@@ -2,6 +2,45 @@
 
 ---
 
+## July 8, 2026
+
+### Story 1: FDA Recall — Nara Organics Infant Formula (All Lots)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — FDA recall of Nara Organics Infant Formula (all production lots) due to potential Clostridium botulinum contamination — the pathogen that causes botulism, which can be fatal in infants. Product sold at Target stores and Nara.com. Recall announced June 13, 2026. Remedy: do not use; dispose of product; contact Nara for full refund. Note: this is an FDA recall (infant formula = FDA jurisdiction), not a CPSC recall. Sources: FDA.gov, cpsc.gov (cross-reference), Target.com.
+- **Content Produced:** Article (Sarah Morales), 2 X Text Posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** All production lots recalled; sold at Target + Nara.com; potential Clostridium botulinum contamination; botulism can be fatal in infants; recall announced June 13, 2026; do not use; dispose; contact Nara for full refund; FDA jurisdiction (infant formula); fda.gov
+
+### Story 2: CPSC Recall — BABESIDE Doll and Stroller Set (~2,200 Units)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — ~2,200 BABESIDE Doll and Stroller Children's Toy Sets recalled. Sold on Amazon by HYBDOLLS from July 2025–January 2026, approximately $40. Two hazards: (1) toy pacifier is a small part that violates the federal small parts ban for children under 3; (2) eyes on the included plush bear can detach, posing a choking hazard. Remedy: remove bear + pacifier from children; cut bear in half + mark X on pacifier in permanent marker; photograph both; email photo to support@babeside.com for free replacement accessories with shipping. Rest of set (stroller, doll, other accessories) not affected. No injuries reported. Sources: cpsc.gov.
+- **Content Produced:** Article (Jamie Rivera), 2 X Text Posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** ~2,200 units; Amazon/HYBDOLLS July 2025–January 2026 ~$40; pink-and-red stroller + baby doll in pink + 23 accessories; toy pacifier = small parts ban violation; plush bear eyes can detach; no injuries; cut bear in half + mark X on pacifier + photo to support@babeside.com; free replacement accessories + shipping; stroller/doll/other accessories not recalled; cpsc.gov
+
+### Story 3: CPSC Recall #26-579 — Small Fish Montessori Busy Board (~1,013 Units)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — ~1,013 Small Fish Montessori Busy Board toys (model 2512JX02) recalled because embedded magnets in the panels can detach. Swallowed magnets are one of the most serious toy hazards: two or more magnets swallowed separately can attract across intestinal walls causing perforation, blockage, blood poisoning, and death. Sold on Amazon March–May 2026, approximately $16. Recall #26-579 announced June 25, 2026. Remedy: stop use; dispose of entire busy board; photograph disposal; email photo to smallfishrecall@163.com for full refund. Sources: cpsc.gov.
+- **Content Produced:** Article (Sarah Morales), 2 X Text Posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** ~1,013 units; model 2512JX02; Amazon March–May 2026 ~$16; wooden base + 6 colored removable activity panels (flipping mirror/abacus/finger spinner/spinning gear/rain maker/bead maze); magnets can detach; intestinal perforation/blockage/blood poisoning/death if 2+ swallowed; CPSC Recall #26-579 announced June 25, 2026; dispose entire board + photo to smallfishrecall@163.com full refund; cpsc.gov
+
+### Story 4: Free Outdoor Movie and Silent Disco — Hillside Community Center, July 17 at 5:30 PM
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — City of Colorado Springs hosting a free outdoor silent disco movie screening at Hillside Community Center, Friday July 17, 2026, starting at 5:30 PM. Location: 925 South Institute Street (80903). Movie title not announced in advance (licensing restrictions); follow @CoSpringsParks for clues. Participants watch film through wireless headphones. No registration, no tickets, family welcome. Bring blankets and lawn chairs. Part of Park and Recreation Month 2026 programming. Sources: coloradosprings.gov, firstandmaintowncenter.com.
+- **Content Produced:** Article (Jamie Rivera), 1 X Text Post, Facebook Long-Form + Caption, Image Concept (x1)
+- **Tier:** 2
+- **Key Facts:** Friday July 17, 2026; 5:30 PM; 925 South Institute Street Colorado Springs 80903; free; no registration; silent disco format (wireless headphones); movie title not disclosed (licensing); follow @CoSpringsParks for clues; bring blankets + lawn chairs; Park and Recreation Month 2026; coloradosprings.gov/event/hillside-movie-nights; coloradosprings.gov/parkandrecmonth
+
+### Story 5: Aspen Acres Fire Update — 93,916 Acres, Partial Re-Entry Near Colorado City
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (distinct from July 7 smoke/ozone story and July 5 wildfire smoke safety guide — today's angle: fire size update, re-entry status, monsoonal rain expected, and air quality good for July 8) — Aspen Acres Fire at 93,916 acres as of July 7 evening, 16% contained, 7th largest wildfire in Colorado history. 263+ homes destroyed across Custer and Pueblo counties. Partial re-entry began July 6 for some areas around Colorado City, Pueblo County. Disaster Assistance Center opened July 7. Monsoonal moisture expected July 8 — first meaningful rain since fire ignited June 29, but also brings gusty outflow winds (up to 50 mph) + flash flood risk on denuded soil. COS air quality good (AQI 40) as of July 7 evening; no Ozone Action Day in effect through at least 4 PM July 8. Sources: InciWeb, CDPHE, AirNow.gov, local emergency management.
+- **Content Produced:** Article (Sarah Morales), 1 X Text Post, Facebook Long-Form + Caption, Image Concept (x1)
+- **Tier:** 2
+- **Key Facts:** 93,916 acres as of July 7 evening; 16% contained; 7th largest wildfire CO history; 1,600+ firefighters on ground; 263+ homes destroyed Custer + Pueblo counties; partial re-entry began July 6 around Colorado City Pueblo County; Disaster Assistance Center opened July 7; mandatory evacuations still in effect COS City/Beulah/Rye/San Isabel/Wetmore/Red Creek/Apache City; nighttime curfew 9 PM–7 AM; Level 2 prepare-to-leave Fremont County; monsoonal moisture expected July 8; gusty outflow winds up to 50 mph; flash flood risk on denuded soil; AQI COS 40 (Good) July 7 evening; no Ozone Action Day through at least 4 PM July 8; AirNow.gov; inciweb.wildfire.gov
+
+---
+
 ## July 7, 2026
 
 ### Story 1: Wildfire Smoke + Ozone Action Day — Air Quality Alert for Colorado Springs
