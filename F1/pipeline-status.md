@@ -1,10 +1,22 @@
 # F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
-- **Date**: 2026-07-07
+- **Date**: 2026-07-08
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-08
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway)
+- **PostPlanner exports:** f1fr-postplanner-2026-07-08.xlsx (6 posts) + f1fr-postplanner-tobi-2026-07-08.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-07-08/review-dashboard.html (26 items)
+- **Notes:** Verstappen/McLaren "closing stages" (SportBible July 7: 3-year deal imminent/Piastri swap/Brown denies)/exit clause mathematically guaranteed to activate (Verstappen 76pts/Russell 154/gap 78/max 50 available); Hamilton Ferrari 2027 officially confirmed at Silverstone/P3 British GP/sprint pole; Sainz unprecedented one-lap penalty P12→P17/FIA software error/false restart message/first race under SC since Monza 2022; engine compression loophole controversy (Ferrari/Honda/Audi allege Mercedes+Red Bull 0.3s/lap advantage via hot vs cold measurement); Horner returns to Silverstone paddock/first race since fired/Verstappen talks to him weekly
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
 
 ### 2026-07-07
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

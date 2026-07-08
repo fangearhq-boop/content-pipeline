@@ -3722,3 +3722,48 @@
 - **Key facts:** 2026 regs removed MGU-H; MGU-K only (kinetic braking recovery); Luffield to Stowe ~35-40 seconds NO braking zones; 350kW system depleted by Hangar Straight; cars suffer power derate; both Hamilton AND Verstappen flagged independently; Hamilton quote confirmed (multiple sources); Verstappen quote confirmed (multiple sources); Mercedes likely favored on energy management software
 - **Status:** NEW
 - **Follow-up ideas:** Race result; did battery issues cause chaos; FP1 data confirms/denies
+
+## 2026-07-08
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-08 | T1 | Verstappen and McLaren in "Closing Stages" of Deal — Exit Clause Now Mathematically Guaranteed | X, FB, Article | FOLLOW UP |
+| 2026-07-08 | T1 | Hamilton Ferrari 2027 Confirmed — Seven-Time Champion Staying at Maranello | X, FB, Article | NEW |
+| 2026-07-08 | T2 | Sainz Hit With Unprecedented "One-Lap Penalty" — FIA Admits British GP Software Error | X, FB, Article | FOLLOW UP |
+| 2026-07-08 | T2 | The 2026 Engine Loophole — Ferrari, Honda, and Audi Allege Mercedes Backdoor Worth 0.3s | X, FB, Article | NEW |
+| 2026-07-08 | T2 | Christian Horner Returns to F1 Paddock at Silverstone — First Race Since Being Fired | X, FB, Article | NEW |
+
+### STORY 1: Verstappen/McLaren "Closing Stages" — Exit Clause Guaranteed
+- **Tier:** 1
+- **Category:** F1 Driver Market / Verstappen
+- **Key facts:** SportBible July 7: McLaren/Verstappen "closing stages" of 3-year deal/"imminent"/Piastri to Red Bull swap; Zak Brown denied talks; Verstappen P7 76pts/Russell P2 154pts/gap 78pts/max 50pts Belgium+Hungary=mathematically impossible to reach top 2; exit clause will activate; "boiling point" per De Limburger; Laurent Mekies "very unpleasant"; Verstappen talks to Horner "almost every week"; Red Bull previously offered buyout/Verstappen refused
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Verstappen officially activates clause; McLaren announces signing; Piastri to Red Bull confirmed; 2027 driver market cascade
+
+### STORY 2: Hamilton Ferrari 2027 Confirmed
+- **Tier:** 1
+- **Category:** F1 Driver News / Hamilton / Ferrari
+- **Key facts:** Ferrari officially confirmed Hamilton's contract extension into 2027 during British GP weekend at Silverstone; P3 at British GP (reprimand not penalty); sprint qualifying pole (+0.011s over Antonelli); 147pts 3rd championship (32 behind Antonelli); 103 wins/104 poles/7 titles; Ferrari P2 Constructors (-98 Mercedes); Leclerc won the British GP; sources: RacingNews365/GPFans
+- **Status:** NEW
+- **Follow-up ideas:** Hamilton chases 8th title 2027; can Ferrari close Constructors gap; Hamilton wins at Spa
+
+### STORY 3: Sainz Unprecedented Penalty — FIA Software Error
+- **Tier:** 2
+- **Category:** F1 Race Result / Penalties
+- **Key facts:** Sainz originally P12; FIA applied "one-lap penalty" (unprecedented) dropping to P17 one lap behind leader; reason: unlapped self under SC not in "lapped cars may overtake" message; Silverstone pit lane layout edge case; Williams failed to identify infringement; FIA admitted "software error" generated false "Safety Car in this lap" message on Lap 54; first race to finish under full SC since 2022 Italian GP; sources: motorsport.com/formula1.com/racefans/sky sports
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Williams appeal; FIA procedural review; Spa safety car procedures updated
+
+### STORY 4: 2026 Engine Compression Loophole
+- **Tier:** 2
+- **Category:** F1 Technical
+- **Key facts:** Ferrari/Honda/Audi allege Mercedes+Red Bull exploit loophole in 2026 regs; 2026 rules lowered max compression ratio 18.0→16.0; FIA measures cold engine; alleged: engines run higher compression ratio at operating temperature; alleged advantage up to 0.3 sec/lap; no FIA ruling yet; ongoing controversy; sources: the-race.com/grandprix247/sky sports/autosport
+- **Status:** NEW
+- **Follow-up ideas:** FIA technical directive; Ferrari closes gap at Spa; ruling issued before Hungarian GP
+
+### STORY 5: Christian Horner Returns to F1 Paddock
+- **Tier:** 2
+- **Category:** F1 Paddock News
+- **Key facts:** Horner present at Silverstone 2026 British GP; first race since fired after 2025 British GP; Verstappen confirms speaks to Horner "almost every week"; Horner: would return to F1 "only on my terms"; won 4 consecutive world championships with Verstappen 2021-2024; sources: GPFans July 7-8
+- **Status:** NEW
+- **Follow-up ideas:** Horner named team principal somewhere; Verstappen move to Horner's new team; F1 silly season escalates
