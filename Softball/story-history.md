@@ -3,6 +3,59 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## July 8, 2026
+
+### Story 1: Four AUSL Stars Head to MLB All-Star Week — Softball Takes the Philadelphia Stage
+- **Date:** 2026-07-08
+- **Tier:** 1
+- **Classification:** NEW STORY (MLBx All-Star 3-on-3 July 12; Canady+Garcia+Jennings+Brito anchor teams)
+- **Angle:** Four AUSL stars — Canady, Garcia, Jennings (Volts), Brito (Blaze) — anchor teams in inaugural MLBx: All-Star 3-on-3 at Citizens Bank Park, July 12, following Futures Game. Co-ed power-hitting format. Team pairings: Canady/Jones, Garcia/Victorino, Jennings/Rollins, Brito/Howard.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - MLBx All-Star 3-on-3 results July 12
+  - Fan reaction to softball at MLB All-Star Week
+
+### Story 2: Hallie Burns Commits to Baylor — Southland POY Heads to Big 12
+- **Date:** 2026-07-08
+- **Tier:** 1
+- **Classification:** NEW STORY (announced July 3; 2026 Southland POY transfers from SLU to Baylor)
+- **Angle:** Burns 20-5, 1.68 ERA, No. 1 nationally in H/7IP, top-5 WHIP. Led SLU to first-ever conference title and NCAA Tournament. Joins Baylor's Big 12 pitching staff under Glenn Moore.
+- **Content Produced:** Article (article-02, Emily Rawlings), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Baylor 2027 preseason pitching staff analysis
+  - Burns fall camp performance
+
+### Story 3: Megan Grant ESPYS — 7 Days to Vote
+- **Date:** 2026-07-08
+- **Tier:** 2
+- **Classification:** FOLLOW UP (ESPYS since July 4; countdown updated to 7 days)
+- **Angle:** 7 days to vote (final voting week) for Grant (Best Record-Breaking Performance, July 15 ESPYS ABC). 42 HR broke 31-year record (Espinoza/Arizona 1995). Competitors: Myles Garrett (NFL), Klæbo (skiing), Sawe (marathon). Vote once/day ESPN.com. Host: Marcello Hernández. Venue: David H. Koch Theater at Lincoln Center.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - ESPYS results July 15
+
+### Story 4: OG NiJa at Citizens Bank Park — Canady's MLBx Moment
+- **Date:** 2026-07-08
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Canady mechanics reset covered July 3–7; new angle: MLBx showcase as hitter, not pitcher)
+- **Angle:** Canady (0-3, 6.87 ERA) appears at MLBx as power hitter in co-ed format with Chipper Jones team. Mechanics reset with Tori Nyberg (Stanford) ongoing — "squared up" vs "open" position. Philadelphia stage reframes narrative around her as complete athlete.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - MLBx performance July 12
+  - Canady first post-reset start
+
+### Story 5: PGF Nationals 11 Days — Roster Freeze in 5
+- **Date:** 2026-07-08
+- **Tier:** 3
+- **Classification:** FOLLOW UP (summer calendar since June 30; 11-day countdown)
+- **Angle:** PGF July 19, Great Park Irvine. Roster freeze July 13 (5 days) at 11:59 PM PST. Portal through July 31. September 1 contact window = 55 days (2028 class). Post-PGF transitions to evaluation/showcase season.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - PGF Week 1 results
+  - September 1 2028 class contact window
+
+---
+
 ## July 7, 2026
 
 ### Story 1: Texas Volts Snap 4-Game Skid — Rachel Garcia CG, Volts Beat Bandits 5-3
