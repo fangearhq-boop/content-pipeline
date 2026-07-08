@@ -5,6 +5,69 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-08
+
+### STORY 1: Cubs 5, Orioles 2 — Game Recap (July 7)
+- **Angle:** NEW STORY (Cubs won 5-2 at Camden Yards; Matthew Boyd quality start, game score 61; Swanson locked in; Cubs improve to 51-40, 7-3 in last 10)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - Game 3 result at Baltimore (July 9)
+  - Boyd season stats trajectory (3-1, improving ERA since return)
+
+### STORY 2: Cubs Rolling — 16-6 Since June 10
+- **Angle:** NEW STORY (bold take; Cubs 16-6 since June 10 = one of best stretches in baseball; doing it with 5 starters on IL simultaneously; 51-40, NL WC No. 2)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold take)
+- **Follow-Up Opportunities:**
+  - Stretch record if continued through All-Star break
+  - What the record becomes when healthy starters return
+
+### STORY 3: Wild Card Watch — Cardinals Losing Ground
+- **Angle:** FOLLOW UP (July 7 covered wild card snapshot at 50-40; today: Cubs 51-40, Cardinals lost to Brewers 4-3, now ~4 games out of wild card; Cubs building cushion)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, standings/rival jab)
+- **Follow-Up Opportunities:**
+  - Weekly wild card standings check
+  - Cardinals series later in season
+
+### STORY 4: Trade Deadline — Joe Ryan Is the Target
+- **Angle:** FOLLOW UP (July 6 covered Detmers/Gray/Mize; today: new angle = Joe Ryan (Twins, 3.36 ERA, 2.82 FIP, club control through 2027) emerging as leading target; August 3 deadline = 26 days away)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, bold analysis)
+- **Follow-Up Opportunities:**
+  - Any Cubs-Twins trade reporting on Ryan
+  - Deadline day coverage August 3
+
+### STORY 5: Game 2 Preview — Rea vs Kremer at Camden Yards
+- **Angle:** NEW STORY (Colin Rea [6-5, 4.74 ERA] vs Dean Kremer [3.18 ERA since returning from quad strain]; 5:35 PM CT; Orioles 42-50; Cubs 51-40 rolling)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Game 2 result (post-game recap July 9)
+  - Rea season ERA trajectory
+
+### STORY 6: Injury Roundup — Taillon Post-ASB; Roberts on IL
+- **Angle:** FOLLOW UP (July 7 covered Shaw/Taillon pre-ASB hope; today: Taillon confirmed returning AFTER All-Star break — second rehab start coming; Wyatt Roberts added to 15-day IL [forearm]; Milner out 4-6 weeks [appendectomy])
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, roster/injury update)
+- **Follow-Up Opportunities:**
+  - Taillon activation after All-Star break
+  - Antoine Kelly callup with Roberts on IL
+  - Milner return timeline (late August)
+
+### STORY 7: Antoine Kelly — Iowa Cubs Lefty Worth Watching
+- **Angle:** NEW STORY (Kelly acquired from Dodgers June 2026; sub-1.00 ERA at Iowa, fastball approaching 100 mph, 27% K rate; Wyatt Roberts on IL = roster opening; Owen Ayers [21 HRs] thriving at Double-A as supporting color)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, prospect feature)
+- **Follow-Up Opportunities:**
+  - Antoine Kelly MLB callup announcement
+  - Owen Ayers promotion to Triple-A Iowa
+  - Ayers full-season Double-A stat line
+
+
+---
+
 ## 2026-07-07
 
 ### STORY 1: Series Preview — Cubs at Baltimore, Game 1 of 3
