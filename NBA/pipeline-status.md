@@ -1,10 +1,22 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Last Run
-- **Date**: 2026-07-07
+- **Date**: 2026-07-08
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-08
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce)
+- **PostPlanner exports:** hh-postplanner-2026-07-08.xlsx (6 posts) + hh-postplanner-tobi-2026-07-08.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-07-08/review-dashboard.html (26 items)
+- **Notes:** NBA FREE AGENCY DAY 9 — Donovan Mitchell signs $273M max extension with Cavaliers (left ~$80M on table, starts 2027-28); Kyle Lowry retires as a Toronto Raptor (No. 7 to rafters, "Lowry Day" proclaimed by mayor, Tempo co-owner); LeBron 6-team shortlist confirmed (76ers now live after Brown trade, Rich Paul: mid-July decision); Vegas Summer League opens: Dybantsa (#1, Wizards) pro debut vs Peterson (#2, Jazz) July 9 9PM ET ESPN; Ace Bailey hip flexor OUT for Tuesday
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
 
 ### 2026-07-07
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

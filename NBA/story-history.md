@@ -3984,3 +3984,48 @@
 - **Key facts:** Giannis+Portis → Heat (Herro+Ware+Jaquez+Jakucionis+No.13+2031/2033 firsts+2030 swap+2033 2nd); executes July 6; Kawhi → Toronto (Raptors send Ingram+Dick+2031/2033 firsts+2030/2033 2nds+2027 swap); Norman Powell 2yr/$45M Bulls; Tobias Harris 2yr/$31M Spurs; Kelly Oubre 2yr/$17M Pacers; Harden declined $42.3M Cavs option/negotiating new deal; Mike Conley 1yr Celtics
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** July 6 official execution; Giannis/Kawhi press conferences; LeBron signs
+
+## 2026-07-08
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-08 | T1 | Donovan Mitchell Signs $273M Max Extension With Cavaliers | X, FB, Article | NEW |
+| 2026-07-08 | T1 | Kyle Lowry Retires as a Toronto Raptor — No. 7 Jersey to Be Retired | X, FB, Article | NEW |
+| 2026-07-08 | T2 | LeBron James Six-Team Shortlist — Sixers Now Live, Decision Pushed to Mid-July | X, FB, Article | FOLLOW UP |
+| 2026-07-08 | T2 | Dybantsa vs. Peterson — Summer League's Biggest Matchup Opens Vegas Tonight | X, FB, Article | NEW |
+| 2026-07-08 | T2 | Ace Bailey Hip Flexor Scare Clouds Jazz Rookie Trio's Summer League Outlook | X, FB, Article | NEW |
+
+### STORY 1: Donovan Mitchell Signs $273M Max Extension With Cavaliers
+- **Tier:** 1
+- **Category:** NBA Free Agency / Contract
+- **Key facts:** Mitchell agreed 4-year $273M max extension with Cleveland (July 7); includes player option 2030-31 + full trade kicker; extension begins 2027-28; earns $50.1M in 2026-27; 27.9 ppg/5.7 ast/4.5 reb 70 games 2025-26; 7th consecutive All-Star; left ~$80M on table vs waiting for 5-year $353M deal; ~$24,000/minute earnings; sources: SI/Yahoo/Yardbarker
+- **Status:** NEW
+- **Follow-up ideas:** LeBron joins Cavs with Mitchell; Mitchell All-Star 2027; Cavs Finals run
+
+### STORY 2: Kyle Lowry Retires as a Toronto Raptor
+- **Tier:** 1
+- **Category:** NBA Retirement
+- **Key facts:** Lowry signed one-day contract with Raptors and retired July 7; No. 7 jersey to be retired 2026-27 season ceremony; Mayor Olivia Chow proclaimed July 7 "Kyle Lowry Day"; Lowry quote: "This place has just been special for me since the day I got here. I always said I would retire as a Toronto Raptor."; co-owner WNBA Toronto Tempo; won 2019 NBA Championship with Raptors; 6-time All-Star; 9 seasons in Toronto 2012-2021; sources: NBA.com/CBC/CP24
+- **Status:** NEW
+- **Follow-up ideas:** Jersey retirement ceremony 2026-27; Toronto Tempo ownership angle
+
+### STORY 3: LeBron James Six-Team Shortlist — Sixers Now Live
+- **Tier:** 2
+- **Category:** NBA Free Agency / LeBron James
+- **Key facts:** LeBron still unsigned; Rich Paul told Forbes not "anytime soon"/mid-July earliest; shortlist confirmed: Warriors, Cavaliers, Heat, 76ers, Timberwolves, Nuggets; Jaylen Brown trade "immediately piqued LeBron's interest" in Philly per Bleacher Report; Warriors vs Cavs still "50/50" per Nick Friedell; Warriors ~$15M MLE (Draymond opt-out); Cavs offering vet min ~$3.9M; Wolves pitching with Edwards+LaMelo+McDaniels+Gobert; sources: Yahoo/Bleacher Report/Heavy
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** LeBron announces decision; signs with Warriors/Cavs/76ers
+
+### STORY 4: Dybantsa vs. Peterson — Vegas Summer League Opening Night
+- **Tier:** 2
+- **Category:** NBA Summer League / Draft Rookies
+- **Key facts:** Dybantsa (No. 1 pick, Wizards) makes pro debut July 9 9 PM ET ESPN vs Peterson (No. 2, Jazz) at Thomas & Mack; Jazz 3-0 in SLC (Peterson/Williams/Bailey rested Game 3); Peterson: Game 1 28pts (11/21 FG 4/7 3P 5reb 2ast 2blk OT win); Game 2 25pts 12ast; Dybantsa: 6'9" wing BYU 25.5ppg/6.8reb/3.7ast/51% FG/77.4% FT NCAA-best; NBA.com "5 must-see games"; sources: Yahoo/Heavy/Fox Baltimore/NBA.com
+- **Status:** NEW
+- **Follow-up ideas:** Dybantsa Vegas debut results; Peterson vs Boozer; top-3 picks comparison
+
+### STORY 5: Ace Bailey Hip Flexor Injury — Jazz Summer League
+- **Tier:** 2
+- **Category:** NBA Summer League / Injury
+- **Key facts:** Bailey suffered back spasms SLC Game 1 vs Hawks; missed Games 2 and 3; hip flexor concern per latest reports; day-to-day; CBS Sports confirmed not playing Tuesday (July 9); Jazz rookie trio (Peterson/Williams/Bailey) now missing Bailey for Vegas opener; Cody Williams gets extra responsibility; sources: CBS Sports/SI/Clutch Points
+- **Status:** NEW
+- **Follow-up ideas:** Bailey returns; Bailey Vegas appearance; Jazz training camp health status
