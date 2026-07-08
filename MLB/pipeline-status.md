@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-07-08
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 1 char violation fixed S1T1 285→252; 0 violations after fix), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (30 claims HIGH; universal extraction only — claim-patterns.py missing known), compile (5 stories, 7 tweets, 0 FB posts parsed — known format, 5 articles, 22 items), dashboard (22 items), dashboard publish 403 (proxy). PostPlanner exports (7 posts each X + TOBI). WordPress 403 (proxy sandbox — known). Content committed and pushed.
+- **Dashboard Published**: Attempted — proxy blocked push to content-dashboards repo
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard publish 403 (proxy blocks content-dashboards — known). IMAGE MISSING expected (not_started). claim-patterns.py missing (known). 1 char violation fixed (S1T1 285→252). FB posts compile to 0 (known format — PostPlanner export confirmed 7 tweets found).
+- **Key Stories**: Ohtani 300th career HR/leadoff 409ft center/No. 20 2026/1st Japanese-born player to reach 300/5th fastest 1121 games (behind Judge Kiner Howard Gonzalez)/2nd leadoff HR 300 (Steve Finley 2006) (Tier 1 NEW), Wheeler 14 K career-high tied/7 IP 0 walks 104 pitches/Phillies 4-1 Reds/All-Star snub at All-Star site/Schwarber MLB-best 31st HR same night (Tier 1 NEW), HRD 5 days/Schwarber 31 HR MLB leader at home park/Caminero + Ben Rice confirmed/Judge out/Netflix July 13 new swing-based format (Tier 2 FOLLOW UP), Skubal 26 days August 3/85% ESPN Passan+McDaniel/Braves frontrunner Nightengale/Dodgers superior prospect capital/Tigers 38-49/August 3 off-day Tigers/CC Sabathia-level price (Tier 2 FOLLOW UP), White Sox 47-42 lead AL Central/ahead of Guardians entering All-Star break/from 41-121 in 2024 (Tier 2 NEW)
+
+## Last Run
 - **Date**: 2026-07-07
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (28 claims HIGH; universal extraction only — claim-patterns.py missing known), compile (5 stories, 0 tweets compiled — known heading format, 5 articles, 15 items), dashboard (15 items), dashboard publish 403 (proxy). PostPlanner exports (6 posts each X + TOBI). WordPress 403 (proxy sandbox — known). Content committed and pushed.
 - **Dashboard Published**: Attempted — proxy blocked push to content-dashboards repo

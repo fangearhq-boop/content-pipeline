@@ -1,0 +1,259 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-08",
+  "compiled_at": "2026-07-08T10:33:56.157730+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Shohei Ohtani Hits 300th Career Home Run — A Legend-Status Moment",
+      "tier": 1,
+      "status": "",
+      "angle": "Arriving at MLB All-Star Week at Citizens Bank Park as the game's biggest star — one week after cementing legend status.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Shohei Ohtani hit his 300th career home run last night.\n\nLeading off. 409 feet to center. No. 20 this season.\n\nFirst Japanese-born player in MLB history to reach 300.\n\n5th fastest ever — behind Judge, Kiner, Howard, and Gonzalez.\n\n#MLB #Dodgers #Ohtani",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#Dodgers",
+            "#Ohtani"
+          ],
+          "char_count": 252
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Ohtani's 300 HR club membership card:\n\n✅ 5th fastest in history (1,121 games)\n✅ First Japanese-born player ever\n✅ 2nd player to hit No. 300 as a leadoff shot (Steve Finley, 2006)\n✅ 20th HR of 2026 season\n\nThe game doesn't have a player like this. #MLB #Dodgers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#Dodgers"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-ohtani-300th-career-home-run-milestone.html",
+        "headline": "Shohei Ohtani Hits 300th Career Home Run: The Legend Keeps Growing",
+        "word_count": 551
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ohtani's 300th Career HR\n\n**Image Concept 1A — Social (1080x1350)**\n- **Imagn search:** \"Shohei Ohtani Los Angeles Dodgers\"\n- **Concept:** Ohtani home run celebration or follow-through. Overlay: \"300. FIRST JAPANESE-BORN PLAYER IN MLB HISTORY. 5th Fastest Ever.\" Dodger blue, dark background. Ballpark Banter logo.\n- **Status:** not_started\n\n**Image Concept 1B — Social (1080x1350)**\n- **Imagn search:** \"Shohei Ohtani Los Angeles Dodgers\"\n- **Concept:** Stats infographic card. Title: \"OHTANI 300.\" Three columns: 300 HR · 5th FASTEST · 1st JAPANESE-BORN. Dodger blue/gold.\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Wheeler's Snub-Fueled Masterpiece — 14 Ks at the All-Star Site",
+      "tier": 1,
+      "status": "",
+      "angle": "The snub narrative: Wheeler pitches a 14-K gem at the All-Star site, one week before the game is played there without him.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Last night at Citizens Bank Park — the All-Star site — Zack Wheeler:\n\n→ 14 strikeouts (career high tied)\n→ 7 innings\n→ 0 walks\n→ 104 pitches\n\nNot an All-Star.\n\nThe snub just got very awkward. #Phillies #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Phillies",
+            "#MLB"
+          ],
+          "char_count": 206
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Schwarber also hit his MLB-best 31st homer last night.\n\nAt Citizens Bank Park.\n\nThe same place hosting the Home Run Derby in 5 days.\n\nThe Phillies are absolutely ready for All-Star Week. #Phillies #MLB #HomeRunDerby",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Phillies",
+            "#MLB",
+            "#HomeRunDerby"
+          ],
+          "char_count": 215
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-zack-wheeler-14-strikeouts-all-star-snub-masterpiece.html",
+        "headline": "Wheeler's 14-K Masterpiece at the All-Star Site: The Snub That Became a Statement",
+        "word_count": 480
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Wheeler's 14-K Masterpiece\n\n**Image Concept 2A — Social (1080x1350)**\n- **Imagn search:** \"Zack Wheeler Philadelphia Phillies\"\n- **Concept:** Wheeler pitching at Citizens Bank Park. Overlay: \"14 Ks. 7 IP. 0 WALKS. NOT AN ALL-STAR.\" Strong typography. Phillies red/navy.\n- **Status:** not_started\n\n**Image Concept 2B — Social (1080x1350)**\n- **Imagn search:** \"Kyle Schwarber Philadelphia Phillies\"\n- **Concept:** Schwarber home run swing. \"HR No. 31 — MLB's Best.\" Derby preview text: \"Derby at Citizens Bank Park: 5 Days.\" Phillies branding.\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Home Run Derby — 5 Days Away | Schwarber at His Home Park",
+      "tier": 2,
+      "status": "",
+      "angle": "Schwarber dominating at home, 31 HRs, potential Derby participant at his own park — a storybook setup.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Schwarber just hit HR No. 31 — MLB's best — at Citizens Bank Park.\n\nThe Home Run Derby is AT CITIZENS BANK PARK in 5 days.\n\nConfirmed Derby field: Caminero (2025 runner-up) and Ben Rice.\n\nIs Schwarber about to go nuclear at his home park on Netflix?\n\n#HomeRunDerby #MLB #Phillies",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HomeRunDerby",
+            "#MLB",
+            "#Phillies"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-home-run-derby-5-days-schwarber-citizens-bank-park.html",
+        "headline": "Derby in 5 Days: Schwarber Has 31 Home Runs and Citizens Bank Park in His Sights",
+        "word_count": 543
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Home Run Derby — 5 Days\n\n**Image Concept 3A — Social (1080x1350)**\n- **Imagn search:** \"Kyle Schwarber Philadelphia Phillies\"\n- **Concept:** Schwarber batting stance, Citizens Bank Park backdrop. \"5 DAYS. HOME RUN DERBY. NETFLIX. CITIZENS BANK PARK.\" Countdown graphic element.\n- **Status:** not_started\n\n**Image Concept 3B — Social (1080x1350)**\n- **Imagn search:** \"Junior Caminero Tampa Bay Rays\"\n- **Concept:** Caminero batting. \"DERBY FIELD 2026. Caminero · Ben Rice · ?\" with open slots. New format badge: \"SWING-BASED FORMAT.\" Netflix logo element.\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Skubal Trade Watch — 26 Days to August 3",
+      "tier": 2,
+      "status": "",
+      "angle": "Updated countdown + clarifying the Braves vs. Dodgers prospect comparison.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "26 days until the MLB trade deadline.\n\nTarik Skubal: 85% odds traded per ESPN.\n\nThe Braves want him. The Dodgers have more prospects.\n\nThe Tigers are sellers. The clock is ticking.\n\nWho gets the best pitcher available? #MLB #TradeDeadline #Tigers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#TradeDeadline",
+            "#Tigers"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-skubal-trade-deadline-26-days-braves-dodgers.html",
+        "headline": "26 Days: The Skubal Trade Clock Is Running and the Braves and Dodgers Are Watching",
+        "word_count": 506
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Skubal Trade Watch\n\n**Image Concept 4A — Social (1080x1350)**\n- **Imagn search:** \"Tarik Skubal Detroit Tigers\"\n- **Concept:** Skubal on mound. Countdown overlay: \"26 DAYS. Trade Deadline: Aug. 3.\" Two-column: \"BRAVES WANT HIM / DODGERS HAVE THE PROSPECTS.\" Neutral MLB branding.\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "The White Sox Are Actually in First Place",
+      "tier": 2,
+      "status": "",
+      "angle": "\"Wait, the White Sox are in FIRST PLACE?\" — contrast the 2024 collapse with the 2026 resurgence.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "2024: Chicago White Sox went 41-121.\n\n2026: The White Sox lead the AL Central at 47-42.\n\nOne of the most remarkable turnarounds in recent MLB history — and it's happening right now.\n\n#WhiteSox #MLB #ALCentral",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox",
+            "#MLB",
+            "#ALCentral"
+          ],
+          "char_count": 208
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-white-sox-first-place-al-central-turnaround.html",
+        "headline": "The White Sox Are in First Place. No, Really.",
+        "word_count": 463
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "White Sox in First Place\n\n**Image Concept 5A — Social (1080x1350)**\n- **Imagn search:** \"Chicago White Sox\"\n- **Concept:** Split-year graphic. Left: \"2024: 41-121\" (faded, broken). Right: \"2026: 1st Place AL Central\" (bold, bright). White Sox colors. \"THE COMEBACK.\" Ballpark Banter logo.\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

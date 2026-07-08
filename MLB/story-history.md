@@ -5,6 +5,60 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-08
+
+### Story 1: Ohtani 300th Career Home Run
+- **Date:** 2026-07-08
+- **Tier:** 1
+- **Classification:** NEW STORY (milestone hit July 7 vs Rockies)
+- **Angle:** Leadoff HR No. 300, 409 feet to center, No. 20 this season. First Japanese-born player in MLB history to reach 300. 5th fastest ever (1,121 games) — behind Judge, Kiner, Howard, and Gonzalez. Second player to hit No. 300 as a leadoff HR (Steve Finley, 2006).
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Ohtani HR pace watch (on pace 48+ for season)
+  - All-Star Week performance July 14
+
+### Story 2: Wheeler 14 Ks at All-Star Site — Not an All-Star
+- **Date:** 2026-07-08
+- **Tier:** 1
+- **Classification:** NEW STORY (career-high tied performance July 7 at Citizens Bank Park)
+- **Angle:** 14 strikeouts (career high tied), 7 IP, 0 walks, 104 pitches. Phillies 4-1 over Reds. All-Star snub storyline — masterpiece at the exact stadium hosting the All-Star Game. Schwarber also hit MLB-best 31st HR same night.
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Wheeler All-Star snub discussion continues through All-Star Week
+  - Schwarber Derby watch
+
+### Story 3: Home Run Derby — 5 Days Away
+- **Date:** 2026-07-08
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Derby build-up; 5-day countdown with Schwarber home park angle)
+- **Angle:** Derby July 13 Netflix at Citizens Bank Park. Schwarber MLB HR leader (31) at his home park. Caminero (2025 runner-up) and Ben Rice confirmed. Judge out (rib fracture). New swing-based format (not timer). First Derby on Netflix.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Derby coverage July 13
+  - All-Star Game July 14
+
+### Story 4: Skubal Trade Watch — 26 Days to August 3
+- **Date:** 2026-07-08
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Skubal trade watch; 26-day countdown; Dodgers emerge as competitor to Braves)
+- **Angle:** 26 days to August 3. Skubal 85% trade probability (ESPN Passan/McDaniel). Braves frontrunner (Nightengale). Dodgers have superior prospect capital. Tigers 38-49 sellers. August 3 off-day for Tigers. CC Sabathia-level asking price. Scott Harris biggest call of tenure.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Trade deadline August 3
+  - Skubal deal announcement
+
+### Story 5: White Sox Lead AL Central at 47-42
+- **Date:** 2026-07-08
+- **Tier:** 2
+- **Classification:** NEW STORY (milestone: leading AL Central into All-Star break; significant from 41-121 in 2024)
+- **Angle:** White Sox 47-42, leading AL Central ahead of Guardians. One of most remarkable turnarounds in recent MLB history — from 41-121 in 2024 to first place in 2026. Entering All-Star break as AL Central leaders.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - White Sox second-half / AL Central race
+  - Trade deadline implications
+
+---
+
 ## 2026-07-07
 
 ### Story 1: All-Star Week Is One Week Away
