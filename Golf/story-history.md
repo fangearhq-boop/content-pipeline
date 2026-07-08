@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-07-08
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-08 | T1 | Scottish Open Preview — Scheffler, McIlroy, Rahm and a Defending Champion Headline Renaissance Club Field | X, FB, Article | NEW |
+| 2026-07-08 | T1 | Amundi Evian Championship Preview — Korda's Career Grand Slam Bid Begins Thursday | X, FB, Article | FOLLOW UP |
+| 2026-07-08 | T2 | Open Championship Last-Chance Qualifier — Wesley Bryan Among 12 Chasing Final Spot at Royal Birkdale | X, FB, Article | NEW |
+| 2026-07-08 | T2 | LIV Golf CEO Won't Guarantee Final Four Events — Running on Saudi Loans With $400M Shortfall | X, FB, Article | FOLLOW UP |
+| 2026-07-08 | T2 | The 2026 PGA Tour Player of the Year Race — Gotterup, Fitzpatrick, and Clark Are Challenging Scheffler's Crown | X, FB, Article | NEW |
+
+### STORY 1: Scottish Open Preview — Scheffler, McIlroy, Rahm and Gotterup
+- **Tier:** 1
+- **Category:** PGA Tour / DP World Tour / Scottish Open
+- **Key facts:** Genesis Scottish Open July 9-12 at Renaissance Club, North Berwick; $9M purse; Gotterup defending (won John Deere July 6, 3rd win 2026); Rahm first Scottish Open since 2022; Scheffler/Fitzpatrick/Fleetwood tee 8:43 AM ET Round 1; Koepka + Reed (LIV returnees) in field; final Open Championship tuneup
+- **Status:** NEW
+- **Follow-up ideas:** Round 1 results; Scottish Open leaderboard; Gotterup defense; Open Championship field
+
+### STORY 2: Amundi Evian Championship Preview — Korda Grand Slam
+- **Tier:** 1
+- **Category:** LPGA / Evian Championship / Korda
+- **Key facts:** Amundi Evian Championship July 9-12 Evian-les-Bains France; Korda +300 (won Chevron + US Women's Open 2026); career Grand Slam bid (needs Evian + AIG Women's British); Ryu Haeran won KPMG (stopped calendar Grand Slam); Grace Kim defending; $9.1M purse; Minjee Lee, Lydia Ko, Rose Zhang in field
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Round 1 results; Korda leaderboard position; Grand Slam narrative update
+
+### STORY 3: Open Championship Last-Chance Qualifier — Wesley Bryan
+- **Tier:** 2
+- **Category:** Golf / The Open Championship
+- **Key facts:** LCQ July 13 at Royal Birkdale; 12-man field; 1 spot; 18-hole stroke play; Wesley Bryan entered (PGA Tour ban controversy after LIV influencer event); Aldrich Potgieter (LIV South African) also in field
+- **Status:** NEW
+- **Follow-up ideas:** LCQ result; qualifier identity; their Open Championship performance
+
+### STORY 4: LIV Golf CEO Financial Crisis
+- **Tier:** 2
+- **Category:** LIV Golf / Business
+- **Key facts:** CEO Scott O'Neil won't guarantee final 4 events; UK/Bedminster expected, Indianapolis/Michigan at risk; New Orleans already postponed; $400M shortfall; running on PIF loans (debenture filings); PIF ending support after 2026; cumulative $6B+ Saudi investment
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Event cancellations; PIF announcement; player reactions; tour merger developments
+
+### STORY 5: 2026 PGA Tour Player of the Year Race
+- **Tier:** 2
+- **Category:** PGA Tour / Player of the Year
+- **Key facts:** Gotterup 3 wins 2026 (4 in last 12 months), No. 4 world; Fitzpatrick 3 wins (Valspar/RBC/Zurich), No. 6; Clark 2 wins (US Open/CJ Cup Byron Nelson), No. 8; Scheffler 1 win (Masters) but No. 1; Golf Channel covered July 7-8; vote at season end
+- **Status:** NEW
+- **Follow-up ideas:** Mid-season update; Scottish Open / Open Championship impact on race
+
 ## 2026-07-07
 
 | Date | Tier | Story | Platforms | Status |
