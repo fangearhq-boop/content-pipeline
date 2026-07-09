@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-07-09
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-09 | T1 | Dybantsa vs. Peterson — No. 1 vs. No. 2 Finally Meet in Las Vegas Summer League | X, FB, Article | NEW |
+| 2026-07-09 | T1 | LeBron Taking 76ers "Very Seriously" — Shams Charania Report | X, FB, Article | FOLLOW UP |
+| 2026-07-09 | T2 | Giannis Picks No. 7 in Miami; $275M Extension Window Opens January 2027 | X, FB, Article | FOLLOW UP |
+| 2026-07-09 | T2 | DeMar DeRozan Waived by Kings — Six-Time All-Star Now a Free Agent | X, FB, Article | NEW |
+| 2026-07-09 | T2 | Paul George Goes PG13 in Boston — No. 13 Jersey, Trade Bonus Waived | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Dybantsa vs. Peterson — Vegas Summer League Debut
+- **Tier:** 1
+- **Category:** NBA Summer League / Rookies
+- **Key facts:** Dybantsa (No. 1, Wizards) makes Vegas debut tonight 9 PM ET ESPN; Peterson (No. 2, Jazz) after 25/12 + 28-pt OT win in SLC; 8 turnovers concern; Ace Bailey reversed from OUT to AVAILABLE; Thomas & Mack Center
+- **Status:** NEW
+- **Follow-up ideas:** Dybantsa debut box score; Peterson-Dybantsa head-to-head stats; Bailey return game performance
+
+### STORY 2: LeBron Taking 76ers "Very Seriously"
+- **Tier:** 1
+- **Category:** NBA Free Agency / LeBron James
+- **Key facts:** Shams Charania (ESPN): LeBron "taking 76ers very seriously"; 76ers alongside Cavs/Warriors/Heat; Gansey (76ers president, former Cavs exec) cited; Maxey is Klutch client; Windhorst: Cavs still front-runner; Rich Paul: mid-July decision; Draymond opts out $27.7M for Warriors LeBron pursuit; Harden declines $42.3M Cavs option
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** LeBron signs announcement; press conference; roster implications
+
+### STORY 3: Giannis No. 7 in Miami
+- **Tier:** 2
+- **Category:** NBA Free Agency / Heat
+- **Key facts:** Giannis chose No. 7 in Miami (wore No. 34 entire Milwaukee career — first number change); eligible to sign Oct. 1 but waits until Jan. 6, 2027 for 4yr/$275M max; paired with Bam Adebayo
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Extension signing January 2027; Heat season preview; Giannis+Bam matchup analysis
+
+### STORY 4: DeMar DeRozan Waived by Kings
+- **Tier:** 2
+- **Category:** NBA Free Agency
+- **Key facts:** Kings waived 6x All-Star DeRozan; averaged 19.2 pts in 39 games last season; hand injury; multiple contenders expected to pursue; age 36
+- **Status:** NEW
+- **Follow-up ideas:** DeRozan signing announcement; team fit analysis; impact on contenders
+
+### STORY 5: Paul George No. 13 / Celtics
+- **Tier:** 2
+- **Category:** NBA Free Agency / Celtics
+- **Key facts:** George waived $3.9M trade bonus; cap hit $54.1M; $56.6M player option for 2027-28; chose No. 13 (classic PG13 identity, wore No. 8 in Philly); Celtics GM cited George's playoff performance vs Boston as trade motivation; Neemias Queta also signed 4yr/$56M extension
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Celtics training camp preview; George-Tatum chemistry reports; player option decision
+
 ## 2026-07-07
 
 | Date | Tier | Story | Platforms | Status |

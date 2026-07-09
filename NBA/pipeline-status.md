@@ -1,10 +1,21 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Last Run
-- **Date**: 2026-07-08
+- **Date**: 2026-07-09
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-09
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** hh-postplanner-2026-07-09.xlsx (7 posts) + hh-postplanner-tobi-2026-07-09.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-07-09/review-dashboard.html (27 items)
+- **Notes:** NBA SUMMER LEAGUE / FREE AGENCY DAY 10 — Dybantsa (No. 1, Wizards) vs Peterson (No. 2, Jazz) tonight 9PM ET ESPN; LeBron "taking 76ers very seriously" (Shams/Gansey-Maxey connections); Giannis No. 7 in Miami/$275M extension Jan 2027; DeRozan waived by Kings (19.2 ppg, 6x All-Star, free agent); Paul George No. 13 in Boston/$3.9M bonus waived
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-08
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
