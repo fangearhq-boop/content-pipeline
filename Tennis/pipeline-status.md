@@ -6,13 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-07-08 |
-| Writing | Complete (all steps) | 2026-07-08 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 25 claims, 52 HIGH; image not_started warnings cosmetic/expected for imagn) | 2026-07-08 |
-| Compile | Complete (07-content-data.json — 5 stories, 9 X posts, 5 FB posts, 5 articles, 5 images) | 2026-07-08 |
-| Dashboard | Complete (review-dashboard.html, 29 items) | 2026-07-08 |
-| PostPlanner Export | Complete (standard 9 posts 13:01–20:53 ET; TOBI 9 posts) | 2026-07-08 |
-| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-07-08 |
+| Research | Complete | 2026-07-09 |
+| Writing | Complete (all steps) | 2026-07-09 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 24 claims, 39 HIGH; image not_started warnings cosmetic/expected for imagn) | 2026-07-09 |
+| Compile | Complete (07-content-data.json — 5 stories, 9 X posts, 0 FB posts, 5 articles, 5 images) | 2026-07-09 |
+| Dashboard | Complete (review-dashboard.html, 24 items) | 2026-07-09 |
+| PostPlanner Export | Complete (standard 9 posts 12:51–20:59 ET; TOBI 9 posts) | 2026-07-09 |
+| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-07-09 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-07-09 |
 | Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-07-08 |
 
 ## Queue
@@ -24,6 +25,21 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-07-09 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (4 Tier 1, 1 Tier 2)
+- **Posts:** 9 X posts + 5 FB long-form + 5 FB captions = 19 total (PostPlanner xlsx: 9 posts standard, 9 TOBI)
+- **Articles:** 5 (bylines: Marcus Cole [S1, S4], Elena Voss [S2, S5], Ryan Calloway [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-07-09.xlsx (9 posts, 12:51–20:59 ET), tfr-postplanner-tobi-2026-07-09.xlsx (9 TOBI posts)
+- **Coverage:** Fery (British wildcard, No. 114) def. Cobolli (No. 9) 6-4, 7-6(4), 6-0 — 2nd men's wildcard Wimbledon SF in Open Era (Ivanisevic 2001 was first; he won the title); 5th British man in Wimbledon SF in Open Era; lowest-ranked SF since Ivanisevic. Zverev (No. 2) def. Fritz (No. 6) 6-4, 6-4, 6-2 in 1h59m — first-ever Wimbledon SF; ended 0-7 losing streak vs Fritz; now 5th active player with all-4-Slam SFs; Paris-London double (RG + Wimbledon) now possible — last done by Nadal 2008; Fritz had knee injury timeout in 2nd set. Women's Day 10: Kostyuk def. Paolini 6-3, 6-2 (69 min); Noskova def. Mertens 6-3, 7-5 (30 winners, 79% first-serve pts). Day 11: women's SFs today — Gauff vs Muchova (CC), Kostyuk vs Noskova; guaranteed first-time women's champion (10th straight year). Men's SFs Friday: Fery vs Zverev (CC), Sinner vs Djokovic (Court 1).
+- **Notes:**
+  - verify-facts.py: passed; 24 claims, 39 HIGH; image not_started warnings cosmetic (expected for imagn source)
+  - compile: 5 stories, 9 X posts, 0 FB posts (parser compatibility), 5 articles, 5 images; 24 dashboard items; posting window warnings cosmetic
+  - PostPlanner exports: standard (9 posts) and TOBI (9 posts) generated successfully; 12:51–20:59 ET
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Marcus Cole [S1, S4], Elena Voss [S2, S5], Ryan Calloway [S3] (rotating from July 8: Ryan Calloway [S1, S4], Marcus Cole [S2, S5], Elena Voss [S3])
 
 ### 2026-07-08 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
