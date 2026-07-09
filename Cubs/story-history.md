@@ -5,6 +5,60 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-09
+
+### STORY 1: Cubs 9, Orioles 7 — Game 2 Recap
+- **Angle:** NEW STORY (Cubs 9-7 win at Camden Yards; PCA hit 2 home runs; Cubs hit 5 HRs total in a slugfest; overcame late Orioles comeback; series now 2-0; Cubs 52-40)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - Game 3 result at Baltimore (sweep confirmed today)
+  - PCA HR total trajectory entering All-Star break
+
+### STORY 2: Pete Crow-Armstrong — MVP-Level Production
+- **Angle:** NEW STORY (PCA 2 HR last night, ~21 HR on the season; bold take: doing MVP-level work while five starters simultaneously on IL; carrying the franchise)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold take)
+- **Follow-Up Opportunities:**
+  - PCA All-Star Game performance (July 14, Philadelphia)
+  - Full-season HR pace if he continues at this rate
+
+### STORY 3: Wild Card Check-In — Cubs Building a Cushion
+- **Angle:** FOLLOW UP (Cubs 52-40 No. 2 NL wild card; Cardinals ~47-43, 4 games back; Cardinals lost multiple straight to Brewers while Cubs won 2 straight in Baltimore; gap growing entering All-Star break)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, standings analysis)
+- **Follow-Up Opportunities:**
+  - Wild card standings update post-All-Star break
+  - Cardinals series results through July 14
+
+### STORY 4: Game 3 Preview — Cubs Go for the Sweep
+- **Angle:** NEW STORY (series finale at Camden Yards, 12:35 PM CT; Cubs up 2-0, playing for the sweep; David Peterson [CHC] vs Trevor Rogers [BAL]; Baltimore 42-51)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, game preview/pre-game hype)
+- **Follow-Up Opportunities:**
+  - Game 3 result / sweep confirmed
+  - Peterson performance (MEDIUM confidence starter)
+
+### STORY 5: Trade Deadline — 25 Days, Joe Ryan Complication
+- **Angle:** FOLLOW UP (August 3 deadline 25 days away; Joe Ryan [Twins, 3.36 ERA, controlled through 2027] top target; complication: Twins now in AL Central race, less eager to sell; Hoyer committed to adding pitching)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, analysis/bold take)
+- **Follow-Up Opportunities:**
+  - Any Twins-Cubs trade movement before August 3
+  - Alternative targets if Ryan stays in Minnesota
+  - Post-ASB deadline urgency update (20 days remaining)
+
+### STORY 6: Taillon Return — Closer Than Expected
+- **Angle:** FOLLOW UP (updated timeline from July 8's "post-ASB" framing; sources say return "almost here" — another rehab start, then possibly back before or right around All-Star break July 14; Hendriks and Bummer also rehabbing at Iowa)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, roster/injury update)
+- **Follow-Up Opportunities:**
+  - Taillon activation / actual return date
+  - Hendriks/Bummer return timelines
+  - Rotation health update post-ASB
+
+---
+
 ## 2026-07-08
 
 ### STORY 1: Cubs 5, Orioles 2 — Game Recap (July 7)
