@@ -5,6 +5,61 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-09
+
+### Story 1: All-Star Week Philadelphia Starts Tomorrow — 50-Year Wait
+- **Date:** 2026-07-09
+- **Tier:** 1
+- **Classification:** NEW STORY (All-Star Week opens July 10 at Citizens Bank Park)
+- **Angle:** Philadelphia hasn't hosted since 1976 (Bicentennial at Veterans Stadium) — a 50-year wait. 2026 coincides with America's Semiquincentennial (250th birthday). Full week: Draft July 11 (NBC/Peacock), Futures Game + MLBx July 12, HRD July 13 (Netflix), All-Star Game July 14 (FOX). Entertainment: Patti LaBelle (National Anthem), Jennifer Hudson ("America the Beautiful"), Miles Teller (PA native, narrates tribute), Boyz II Men (5th-inning Stand Up to Cancer). Phillies on final ballot: Stott, Marsh, Bohm. Schwarber defending All-Star MVP at home.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts (1-1: 8AM, 1-2: 10PM), FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Draft coverage July 11
+  - HRD July 13
+  - All-Star Game July 14
+
+### Story 2: MLB Draft — 2 Days Away, Three-Way Coin Flip at No. 1
+- **Date:** 2026-07-09
+- **Tier:** 1
+- **Classification:** NEW STORY (Draft preview, Saturday July 11 on NBC/Peacock)
+- **Angle:** White Sox hold No. 1. ESPN's Kiley McDaniel: "three-way coin flip." Cholowsky (UCLA SS, consensus top for 1+ year), Emerson (TX prep SS, just moved to No. 1 on MLB Pipeline), Lackey (Georgia Tech C, late surge). SI: White Sox decision "a bit of a mess." Irony: White Sox hold No. 1 pick (earned from 41-121 in 2024) while leading AL Central in 2026. Draft at Citizens Bank Park during All-Star Week. First 10 picks on NBC/Peacock. White Sox previously took Danny Goodwin (1971) and Harold Baines (1977) at No. 1.
+- **Content Produced:** Article (article-02, Jake Torres), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Draft Day coverage July 11
+  - White Sox prospect reaction
+
+### Story 3: Home Run Derby — Schwarber Back in Doubt, Caglianone New to Know
+- **Date:** 2026-07-09
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Derby build-up; new angle: 4 confirmed, Schwarber back issue, Caglianone debut)
+- **Angle:** 4 of 8 confirmed: Caminero (Rays, 2025 runner-up, 26 HR), Rice (Yankees), Caglianone (Royals, 14 HR, rookie power debut), Contreras (Red Sox, 4x All-Star, first Derby). Schwarber (31 HR, MLB leader) conditional: back tightness. Direct quote: "If this back deal calms down, then I'll probably do it." New swing-count format: 20 swings R1, 15 knockout, final-swing extension. Liberty Bell tribute chain unveiled. Judge out confirmed. 4 spots remain.
+- **Content Produced:** Article (article-03, Ryan Calloway), 2 X posts (3-1: field, 3-2: Schwarber quote), FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Derby coverage July 13 (Schwarber participation TBD)
+  - Caglianone performance
+
+### Story 4: Skubal Trade — Braves Desperate, Strider May Be Done for 2026
+- **Date:** 2026-07-09
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Trade watch since July 3; new angle: Strider timeline sharpens Braves urgency; deadline corrected to August 2)
+- **Angle:** Strider on 60-day IL (June 17), right elbow inflammation. MRI clean (no ligament damage) but earliest return ~August 17 — after August 2 deadline. Braves insider: may not pitch in 2026 at all. JR Ritchie + Reynaldo Lopez filling in. Nightengale: Braves are favorites; deal goes to "final days, if not hours" before 6 PM ET August 2 deadline. Cost: 2 top-10 Braves prospects (one top-100 overall). Skubal 85% ESPN Passan/McDaniel. Tigers 37-49. ESPN published 9 blockbuster proposals.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Trade deadline August 2
+  - Braves postseason rotation
+
+### Story 5: White Sox Stumble — Two Straight Losses to Red Sox Before Break
+- **Date:** 2026-07-09
+- **Tier:** 3
+- **Classification:** FOLLOW UP (White Sox lead story July 8; today: stumble update)
+- **Angle:** Red Sox 8-1 (July 7) and 5-0 (July 8) vs White Sox. Martin took loss July 8 (wild pitch). Guardians also fell: Twins 6-5 walk-off (Alan Roden RBI single, 9th inning). Kody Clemens 3-for-4. Yoendrys Gómez first win. Twins 4-game win streak (5 of last 6). AL Central race heads into break unresolved. White Sox still hold draft irony: No. 1 pick + AL Central lead simultaneously.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Second-half AL Central race
+  - Draft Day No. 1 pick (White Sox, July 11)
+
+---
+
 ## 2026-07-08
 
 ### Story 1: Ohtani 300th Career Home Run

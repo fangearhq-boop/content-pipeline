@@ -1,0 +1,152 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-09",
+  "compiled_at": "2026-07-09T10:42:08.156310+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "All-Star Week Philadelphia Starts Tomorrow — A 50-Year Wait Is Almost Over",
+      "tier": 1,
+      "status": "",
+      "angle": "Philly hasn't hosted in 50 years. America's Semiquincentennial. The biggest week in baseball starts tomorrow — and the stage couldn't be more fitting.",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-all-star-week-philadelphia-2026-guide.html",
+        "headline": "All-Star Week in Philadelphia: A 50-Year Wait, a Nation's Birthday, and Baseball's Biggest Stage",
+        "word_count": 697
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "MLB Draft — 2 Days Away, White Sox Face a Three-Way Coin Flip at No. 1",
+      "tier": 1,
+      "status": "",
+      "angle": "The Draft is happening at Citizens Bank Park — during All-Star Week, in the city everyone is watching. And the top pick is genuinely undecided two days out.",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-mlb-draft-2026-three-way-coin-flip-white-sox.html",
+        "headline": "MLB Draft 2026: Two Days Out, No. 1 Pick Is Still Anyone's Guess",
+        "word_count": 721
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Home Run Derby 4 Days Away — Schwarber's Back in Doubt, Caglianone Is the New Name to Know",
+      "tier": 2,
+      "status": "",
+      "angle": "Schwarber is the story. Hometown favorite, MLB HR leader, defending All-Star MVP — and his Derby spot isn't guaranteed.",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-home-run-derby-2026-schwarber-caglianone-field.html",
+        "headline": "Home Run Derby 2026: Schwarber's Back in Doubt, Caglianone Is the New Name to Know",
+        "word_count": 706
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Skubal Trade — Why the Braves Are Desperate (Strider May Be Done for 2026)",
+      "tier": 2,
+      "status": "",
+      "angle": "The Braves don't want Skubal — they need him. With Strider potentially gone for the year, this is a rotation crisis, not an upgrade.",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-skubal-trade-braves-strider-deadline.html",
+        "headline": "Skubal Trade Watch: The Real Reason the Braves Are Desperate",
+        "word_count": 602
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "White Sox Stumble — Two Straight Shutouts Before the Break, Twins Quietly Surging",
+      "tier": 3,
+      "status": "",
+      "angle": "The White Sox stumble narrative — 47-42 turnaround story hits a rough patch at the worst moment.",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-white-sox-al-central-two-losses-twins-surge.html",
+        "headline": "White Sox Stumble Before the Break, But the AL Central Race Is Still Wide Open",
+        "word_count": 592
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 0,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No X/Twitter posts found",
+      "Story 1: No posting window specified",
+      "Story 2: No X/Twitter posts found",
+      "Story 2: No posting window specified",
+      "Story 3: No X/Twitter posts found",
+      "Story 3: No posting window specified",
+      "Story 4: No X/Twitter posts found",
+      "Story 4: No posting window specified",
+      "Story 5: No X/Twitter posts found",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
