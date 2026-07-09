@@ -3,6 +3,58 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## July 9, 2026
+
+### Story 1: Utah Talons Lead the AUSL — Montana Fouts Sets League Strikeout Record With 12 Ks
+- **Date:** 2026-07-09
+- **Tier:** 1
+- **Classification:** NEW STORY (Fouts 12 K AUSL record; Talons 13-5 first place; tonight Talons vs Spark 8 PM ET; Gasso+Alameda joining broadcast booth this week)
+- **Angle:** Fouts' 12-K complete-game win vs. Volts sets AUSL single-game record; Talons 13-5 first place; Bandits 10-7 on 6-game win streak; Carolina/Portland tied 8-7; play-in July 23; Championship July 25-27. Gasso/Alameda to AUSL booth.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Tonight's Talons-Spark result
+  - AUSL final standings and No. 1 seed battle
+  - Fouts in playoff round
+
+### Story 2: MLBx All-Star 3-On-3 — 3 Days Away: Breaking Down the Format
+- **Date:** 2026-07-09
+- **Tier:** 1
+- **Classification:** FOLLOW UP (announced July 8; new angle: format deep dive — 2-minute at-bat, hot streak bonus, scoring system)
+- **Angle:** 3 days until July 12 at Citizens Bank Park. Format: 3 innings, 2-min at-bat, HR+catch=1pt, hot streak bonus (5 swings, 2x points), center-field target. Team matchups: Brito/Howard, Jennings/Rollins, Garcia/Victorino, Canady/Andruw Jones (corrected from yesterday's Chipper Jones medium-confidence reference).
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - MLBx results July 12
+
+### Story 3: Patty Gasso and Lonni Alameda Join the AUSL Broadcast Booth This Week
+- **Date:** 2026-07-09
+- **Tier:** 2
+- **Classification:** NEW STORY (OurSports Central announcement; Gasso 8 national titles Oklahoma; Alameda Louisiana-Lafayette)
+- **Angle:** Two of the most decorated coaches in softball history join AUSL broadcast booth during final 11 regular-season games before playoff bracket. Gasso's 8 titles = most in college softball history. Legitimacy milestone for professional softball media.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Broadcast reaction / fan response
+
+### Story 4: Megan Grant ESPYS — 6 Days to Vote
+- **Date:** 2026-07-09
+- **Tier:** 2
+- **Classification:** FOLLOW UP (ESPYS since July 4; countdown updated to 6 days)
+- **Angle:** 6 days to vote (July 9–15) for Grant (Best Record-Breaking Performance, July 15 ESPYS ABC). 42 HR broke 31-year record (Espinoza/Arizona 1995). Also UCLA career record 91 HR (passed Nuveman). Competitors: Garrett/Klæbo/Sawe. Vote once/day ESPN.com. Host: Marcello Hernández.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - ESPYS results July 15
+
+### Story 5: PGF Nationals — 10 Days, Roster Freeze in 4 Days
+- **Date:** 2026-07-09
+- **Tier:** 3
+- **Classification:** FOLLOW UP (summer calendar since June 30; yesterday was 11 days)
+- **Angle:** PGF July 19, Great Park Irvine. Roster freeze July 13 (4 days) at 11:59 PM PST. Portal through July 31. September 1 contact window = 54 days (2028 class). 18U and 16U Week One.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - PGF Week 1 results
+  - September 1 2028 class contact window
+
+---
+
 ## July 8, 2026
 
 ### Story 1: Four AUSL Stars Head to MLB All-Star Week — Softball Takes the Philadelphia Stage
