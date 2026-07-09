@@ -2,6 +2,45 @@
 
 ---
 
+## July 9, 2026
+
+### Story 1: CPSC Recall — VEVOR Baby Loungers (~237 Units)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC mandatory standards recall of approximately 237 VEVOR baby loungers. Sold on Amazon, Wayfair, and VEVOR.com from November 2024 through January 2026 for approximately $30. Two hazards: sides too low to contain an infant (entrapment/fall risk) and foot openings wider than permitted under mandatory federal infant sleep standards. Remedy: stop use immediately; cut cover, foam, and padding in half; contact VEVOR for full refund. Sources: CPSC.gov.
+- **Content Produced:** Article (Jamie Rivera), 2 X Text Posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** ~237 units; Amazon/Wayfair/VEVOR.com Nov 2024–Jan 2026 ~$30; sides too low to contain infant (entrapment/fall); foot openings too wide (mandatory standards violation); stop use immediately; cut cover/foam/pad in half; contact VEVOR for full refund; cpsc.gov
+
+### Story 2: CPSC Recall — Target Gigglescape Under the Sea Popping Toy (~49,000 Units)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — Target recalling approximately 49,000 Gigglescape Under the Sea Popping Toys. Sold exclusively at Target August 2025–January 2026 for approximately $10. The clear plastic dome can separate from the blue whale-shaped base, releasing small plastic balls — a choking hazard. Nine reports of dome detaching; one report of a child beginning to choke. Remedy: stop use; return to any Target store for full refund (no receipt needed) or request prepaid return label. Sources: CPSC.gov.
+- **Content Produced:** Article (Sarah Morales), 2 X Text Posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** ~49,000 units; Target stores only Aug 2025–Jan 2026 ~$10; clear dome separates from blue whale base; small plastic balls accessible = choking hazard; 9 dome-separation reports; 1 child began to choke; return to any Target for full refund (no receipt needed); prepaid label option; cpsc.gov
+
+### Story 3: D11 Free Summer Meals — Free Breakfast and Lunch for Kids Ages 1-18 in COS
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — Colorado Springs School District 11 operating USDA Summer Food Service Program serving free breakfast and lunch to any child ages 1-18 in Colorado Springs, Monday through Friday. Open to all children regardless of district affiliation. Sites at schools, community centers, and playgrounds across the city. No registration required. Sources: D11.org, USDA SFSP.
+- **Content Produced:** Article (Jamie Rivera), 1 X Text Post, Facebook Long-Form + Caption, Image Concepts (x1)
+- **Tier:** 2
+- **Key Facts:** D11 administering program; free breakfast + lunch; ages 1-18; Mon–Fri; schools/community centers/playgrounds across COS; open to all children regardless of district; no registration; USDA Summer Food Service Program; d11.org; summerfood.usda.gov
+
+### Story 4: Pikes Peak or Bust Rodeo — July 14-18 at Norris Penrose Event Center
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (distinct from July 6 coverage which included rodeo as one item in a broader events preview) — Full family guide to the Pikes Peak or Bust Rodeo 2026. July 14-18 at Norris Penrose Event Center. Evening performances at 7:30 PM Tue–Sat; matinees at 12:30 PM Fri–Sat. Family Fan Zone: Mutton Bustin' (ages 4-9 under 50 lbs, no pre-registration), pony rides, petting zoo, face painting, goat roping. Free drone show July 16 after evening performance. Pikes Peak or Bust Parade Saturday July 11 at 11 AM in downtown Colorado Springs. Running since 1937. Sources: ppbrodeo.com.
+- **Content Produced:** Article (Sarah Morales), 1 X Text Post, Facebook Long-Form + Caption, Image Concepts (x1)
+- **Tier:** 2
+- **Key Facts:** July 14-18 Norris Penrose Event Center; evening 7:30 PM Tue–Sat; matinees 12:30 PM Fri–Sat; Mutton Bustin' ages 4-9 under 50 lbs no pre-registration; pony rides/petting zoo/face painting/goat roping; free drone show July 16 after performance; parade downtown July 11 11 AM; since 1937; ppbrodeo.com
+
+### Story 5: Aspen Acres Fire Update — 96,031 Acres, Flash Flood Watch, Monsoon Arrives
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (distinct from July 8 coverage at 93,916 acres) — Aspen Acres Fire at 96,031 acres as of July 8, 15% contained, 275 structures destroyed (192 Pueblo County, 83 Custer County). Flash flood watch in effect through Wednesday evening as monsoon arrives. Fire-scarred soil creates hydrophobic conditions — runoff accelerates, flash flooding risk is serious. Gusty outflow winds up to 50 mph. Rockvale, Coal Creek, Williamsburg (Fremont County) downgraded from mandatory evacuation to pre-evacuation status. Disaster Assistance Center issuing re-entry permits for some areas. Sources: InciWeb, local emergency management.
+- **Content Produced:** Article (Jamie Rivera), 1 X Text Post, Facebook Long-Form + Caption, Image Concepts (x1)
+- **Tier:** 2
+- **Key Facts:** 96,031 acres as of July 8; 15% contained; 275 structures destroyed (192 Pueblo County + 83 Custer County); flash flood watch through Wed evening; monsoon arrival; fire-scarred soil hydrophobic → fast runoff; gusty outflow winds up to 50 mph; Rockvale/Coal Creek/Williamsburg Fremont County downgraded to pre-evacuation; DAC issuing re-entry permits; inciweb.nwcg.gov
+
+---
+
 ## July 8, 2026
 
 ### Story 1: FDA Recall — Nara Organics Infant Formula (All Lots)

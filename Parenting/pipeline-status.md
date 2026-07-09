@@ -1,6 +1,46 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: July 8, 2026
+## Latest Run: July 9, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | VEVOR Baby Lounger CPSC recall (~237 units; Amazon/Wayfair/VEVOR.com Nov 2024–Jan 2026 ~$30; sides too low to contain infant + foot openings too wide; mandatory standards recall; cut cover/foam/pad in half + contact VEVOR full refund; cpsc.gov); Target Gigglescape Under the Sea Popping Toy recall (~49,000 units; Target only Aug 2025–Jan 2026 ~$10; clear dome separates from whale base releasing small plastic balls; 9 reports of detachment; 1 choking incident; return to any Target for full refund no receipt; cpsc.gov); D11 Free Summer Meals (free breakfast + lunch ages 1-18 Mon–Fri, any child regardless of district, sites at schools/community centers/playgrounds across COS; USDA Summer Food Service Program; d11.org; summerfood.usda.gov); Pikes Peak or Bust Rodeo (July 14-18 Norris Penrose Event Center; evening 7:30 PM Tue–Sat; matinees 12:30 PM Fri–Sat; Fan Zone Mutton Bustin' ages 4-9 under 50 lbs no pre-registration, pony rides, petting zoo, face painting, goat roping; free drone show July 16; parade downtown July 11 11 AM; since 1937; ppbrodeo.com); Aspen Acres Fire update (96,031 acres 15% contained July 8; 275 structures destroyed 192 Pueblo + 83 Custer; flash flood watch through Wed evening; monsoon arrival + fire-scarred soil = serious runoff risk; gusty outflow winds 50 mph; Rockvale/Coal Creek/Williamsburg Fremont County downgraded to pre-evacuation; DAC issuing re-entry permits; inciweb.nwcg.gov) |
+| Story History Check | COMPLETE | All 5 stories NEW; confirmed against story-history.md; no overlaps with July 8 coverage (Nara formula recall, BABESIDE doll recall, Small Fish busy board recall, Hillside movie event, Aspen Acres fire at 93,916 acres); July 9 fire story is distinct update (96,031 acres, flash flood watch, Fremont County status change) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); ### STORY N: format |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH confidence tags; all facts from research |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Jamie Rivera (S1, S3, S5), Sarah Morales (S2, S4); ### STORY N: uppercase format (required for verify-facts.py parsing) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (2 for S1, 2 for S2, 1 each for S3–S5); all under 280 chars; 3-4 hashtags each; COS voice rules; 0 exclamation marks; S2 Tweet A fixed (284→258 chars by rewriting concisely) |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; NO hashtags; COS voice rules; contractions throughout |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only prompts (2 per Tier 1 story × 2, 2 per Tier 2 story × 3; clean bottom third; no celebrity likenesses; no brand logos) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — YAML format (required for verify-facts.py parsing); 10 images across 5 stories (x_image + facebook_image + article_hero per story); all not_started; photo_source: gemini; model: gemini-2.5-flash-image |
+| Articles | COMPLETE | 5 articles (500–750 words; What's Next sections; 0 exclamation marks; no figure tags; no photo credits; semantic HTML5); bylines: Jamie Rivera (A1, A3, A5), Sarah Morales (A2, A4) |
+| Fact-Check | COMPLETE | verify-facts.py passed; 62 claims; HIGH: 141, MEDIUM: 46, LOW: 37; all 5 stories present in all content files; image not_started warnings cosmetic (expected for gemini source — same as all prior Parenting runs) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles; 22 dashboard items |
+| Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-07-09.xlsx (7 posts, 13:07–20:43 MT) + TOBI cosp-postplanner-tobi-2026-07-09.xlsx (7 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-07-09)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB long-form + 5 FB captions = 17 total posts (PostPlanner xlsx: 7 posts standard 13:07–20:43 MT, 7 TOBI)
+- **Articles:** 5 (bylines: Jamie Rivera x3 [A1, A3, A5], Sarah Morales x2 [A2, A4])
+- **PostPlanner exports:** cosp-postplanner-2026-07-09.xlsx (7 posts, 13:07–20:43 MT), cosp-postplanner-tobi-2026-07-09.xlsx (7 TOBI posts)
+- **Coverage:** VEVOR Baby Lounger CPSC recall (~237 units; Amazon/Wayfair/VEVOR.com Nov 2024–Jan 2026 ~$30; mandatory standards recall; sides too low to contain infant + foot openings too wide; cut cover/foam/pad in half + contact VEVOR for full refund; cpsc.gov); Target Gigglescape Under the Sea Popping Toy recall (~49,000 units; Target only Aug 2025–Jan 2026 ~$10; clear dome separates from blue whale base releasing small plastic balls; 9 reports; 1 choking incident; return any Target full refund no receipt or prepaid label; cpsc.gov); D11 Free Summer Meals (free breakfast + lunch ages 1-18 Mon–Fri; any child any district; schools/community centers/playgrounds across COS; USDA Summer Food Service Program; no registration; d11.org; summerfood.usda.gov); Pikes Peak or Bust Rodeo 2026 (July 14-18 Norris Penrose Event Center; evening 7:30 PM Tue–Sat; matinees 12:30 PM Fri–Sat; Mutton Bustin' ages 4-9 under 50 lbs no pre-registration; pony rides/petting zoo/face painting/goat roping; free drone show July 16 after performance; parade downtown July 11 11 AM; since 1937; ppbrodeo.com); Aspen Acres Fire update July 9 (96,031 acres 15% contained; 275 structures destroyed 192 Pueblo + 83 Custer; flash flood watch through Wed evening; monsoon + fire-scarred soil = hydrophobic runoff risk; gusty outflow winds 50 mph; Rockvale/Coal Creek/Williamsburg Fremont County downgraded mandatory → pre-evacuation; DAC issuing re-entry permits; inciweb.nwcg.gov)
+- **Notes:**
+  - Ran as Niche 2 in sequence after Tennis niche (session resumed from context compaction; Tennis niche completed in prior session segment; Parenting daily brief written at end of prior segment)
+  - X posts: S2 Tweet A originally 284 chars — rewritten concisely → 258 chars; all 7 tweets verified under 280
+  - Story analysis: ### STORY N: uppercase format required for verify-facts.py extract_story_sections() regex parsing; initially used S1/S2 labels in section headers — corrected to full ### STORY N: format
+  - verify-facts.py: all 5 stories present in all content files; image not_started warnings cosmetic (expected for gemini source — same as all prior Parenting runs)
+  - Compile: 7 X posts, 5 FB posts, 5 articles; 22 dashboard items
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] (rotating from July 8's Sarah Morales [S1, S3, S5])
+
+---
+
+## Prior Run: July 8, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|
