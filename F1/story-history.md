@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-07-09
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-09 | T1 | Belgian GP Preview — Antonelli Under Pressure at Spa, Ferrari Arrive in Form | X, FB, Article | NEW |
+| 2026-07-09 | T1 | FIA Officially Confirms Mid-Season Engine Rule Change — Loophole Closed | X, FB, Article | FOLLOW UP |
+| 2026-07-09 | T2 | Verstappen/McLaren Deal in "Closing Stages" — Exit Clause About to Trigger | X, FB, Article | FOLLOW UP |
+| 2026-07-09 | T2 | Alonso Sets Summer Break as His Deadline for 2027 F1 Decision | X, FB, Article | NEW |
+| 2026-07-09 | T2 | Horner "Will Get Back" to F1 — FIA President Issues Statement; Newey Appears at Goodwood | X, FB, Article | NEW |
+
+### STORY 1: Belgian GP Preview — Antonelli Under Pressure at Spa
+- **Tier:** 1
+- **Category:** Belgian Grand Prix / Championship
+- **Key facts:** Belgian GP Race July 19, Qualifying July 18, Practice July 17; Spa-Francorchamps 7.004km (longest circuit on calendar); Antonelli 179pts, Russell 154pts, Hamilton 147pts, Leclerc 108pts; lead cut from 40+ to 25 points after Silverstone (Russell P2, Antonelli P16); Leclerc won Silverstone; power-sensitive circuit layout (Kemmel Straight, Raidillon, Bus Stop); weather historically mixed/wet at Spa; last race before Hungarian GP (July 24-26) where Verstappen exit clause mathematically triggers
+- **Status:** NEW
+- **Follow-up ideas:** Belgian GP qualifying; race result; championship standings update
+
+### STORY 2: FIA Engine Rule Change Confirmed
+- **Tier:** 1
+- **Category:** Technical / Regulations
+- **Key facts:** FIA officially confirmed mid-season PU regulation change; compression ratio enforcement shifted cold (ambient) to hot (130°C operating); closes thermal expansion exploit alleged used by Mercedes and Red Bull; estimated ~0.3s/lap performance advantage closed (alleged by Ferrari, Honda, Audi); enforcement date moved 6 races earlier than original August 1 deadline; qualifying format tweak also confirmed
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Belgian GP qualifying — how much performance gap actually closed; affected teams' reaction
+
+### STORY 3: Verstappen/McLaren — "Closing Stages"
+- **Tier:** 2
+- **Category:** Driver Market / Verstappen
+- **Key facts:** Verstappen to McLaren in "closing stages" of believed 3-year deal; exit clause triggers mathematically before Hungarian GP (July 24-26); Verstappen 76pts/7th; 4 retirements in 2026 (Silverstone DRS fault same as Austria); likely resolution: Piastri straight swap to Red Bull alongside Hadjar; Zak Brown publicly denying conversations; Ralf Schumacher July 9: "brink of divorce, no going back"
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official deal confirmation; Piastri/Red Bull confirmation; Hungarian GP trigger announcement
+
+### STORY 4: Alonso — Summer Break Deadline
+- **Tier:** 2
+- **Category:** Driver Market / Aston Martin
+- **Key facts:** Alonso set summer break as deadline for 2027 decision (first public timeline); Hungarian GP brings substantial Newey-designed aero revamp with significant weight savings; Alonso said upgrade "not the only thing on the table"; Flavio Briatore + Gucci (incoming sponsor) pushing Alpine reunion; Aston Martin 0 points in 2026; decision: retirement or 24th F1 season
+- **Status:** NEW
+- **Follow-up ideas:** Hungarian GP upgrade performance; Alonso 2027 decision announcement; Alpine vs Aston Martin outcome
+
+### STORY 5: Horner/Newey
+- **Tier:** 2
+- **Category:** Team News / Red Bull
+- **Key facts:** FIA president Ben Sulayem: "He will get back" on Horner's F1 future; "Did he deliver? Do you want to win or not?"; Horner attended Silverstone as FIA/FOM guest (July 5-6, first paddock appearance since Red Bull exit); Horner: only return for a team that can win; Newey (67, Aston Martin) making surprise appearance at Goodwood FOS (July 10-13) driving Red Bull "parting gift" car making running debut
+- **Status:** NEW
+- **Follow-up ideas:** Horner team destination announcement; Newey Goodwood footage/reception; Red Bull succession picture
+
 ## 2026-07-07
 
 | Date | Tier | Story | Platforms | Status |

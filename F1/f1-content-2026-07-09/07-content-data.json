@@ -1,0 +1,258 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-09",
+  "compiled_at": "2026-07-09T11:37:31.475700+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Belgian GP Preview — Antonelli Under Pressure at Spa, Ferrari Arrive in Form",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Antonelli's championship lead has been cut from 40+ points to 25 in one race weekend. Next up: Spa-Francorchamps, the longest circuit on the calendar, July 19. Ferrari arrives with momentum. Russell is flying. #F1 #BelgianGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BelgianGP"
+          ],
+          "char_count": 224
+        }
+      ],
+      "facebook": {
+        "long_form": "The Belgian Grand Prix is ten days away, and Antonelli arrives at Spa-Francorchamps as a title leader under real pressure for the first time in 2026.\n\nAt Silverstone, George Russell finished second while Antonelli crossed the line in 16th. That single afternoon cut the championship gap from 40+ points to 25. Three races into what had looked like a comfortable lead, the numbers are moving in the wrong direction.\n\nNow comes Belgium. Spa-Francorchamps is the longest circuit on the 2026 calendar at 7.004 kilometers. The Kemmel Straight, Raidillon, and the Bus Stop chicane all reward power-unit performance and punish any weakness in high-speed aero. These are characteristics that don't forgive a car that is only functioning at a percentage of its potential.\n\nFerrari arrives with momentum. Charles Leclerc won at Silverstone. The Ferrari camp, which seemed to be chasing the frontrunners for the first half of the season, now looks like a genuine threat at a circuit the team has traditionally performed well on.\n\nThe race is Sunday, July 19. Qualifying Saturday, July 18. Practice opens Thursday, July 17.\n\nThe championship is tightening. Spa is the next answer.",
+        "image_caption": "25 points. That's all Antonelli has left. Belgian GP, July 19. Ferrari arrives in form and Russell is flying. Spa doesn't do comfortable leads.",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-belgian-gp-preview-antonelli-ferrari-spa.html",
+        "headline": "Antonelli's Title Lead at 25 Points — Belgian GP Is His Biggest Test Yet",
+        "word_count": 889
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Belgian GP Preview — Antonelli Under Pressure at Spa\n\n**Concept:** Aerial or wide shot of Spa-Francorchamps — ideally the Raidillon section or Kemmel Straight — with the race field spread out. Championship tension framing. If individual driver shot available: Antonelli in car at Spa or a wet Spa grid shot.\n\n**Imagn Search Terms:**\n- \"Spa-Francorchamps Formula 1 2025 aerial\"\n- \"Kimi Antonelli Belgian Grand Prix\"\n- \"George Russell Spa 2025\"\n- \"Formula 1 Raidillon Eau Rouge\"\n\n**Alt concept:** Split image — Antonelli post-Silverstone frustration on left, Russell celebrating P2 on right. Championship gap graphic overlay.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Belgian GP Preview — Antonelli vs. Ferrari at Spa\n**Classification:** NEW STORY\n**Freshness justification:** Belgian GP is July 17-19. This is the first full preview piece with post-British GP context. Last covered Belgian GP as preview on July 6 (before the race was 2 weeks out).\n**Sources:**\n- ScuderiaFans: \"Ferrari's Spa revival meets a wounded Antonelli in the Ardennes\" (July 8-9)\n- GrandPrix247: \"Spa-Francorchamps does not do boring\" (July 8-9)\n- News.GP: \"F1 standings after the British GP: Russell cuts Antonelli's lead by another 15 points\" (July 8)\n**Key facts:**\n- Belgian GP: Race July 19, Qualifying July 18, Practice July 17; Spa-Francorchamps (7.004km, longest circuit on 2026 calendar)\n- Standings: Antonelli 179pts, Russell 154pts, Hamilton 147pts, Leclerc 108pts, Norris 97pts\n- Antonelli's lead: 25pts over Russell (was 40+ before Silverstone)\n- Russell cut the gap 15 points in one Sunday (P2 at Silverstone while Antonelli P16)\n- Power-sensitive layout: Kemmel straight, Raidillon, Bus Stop favor power-unit advantage\n- Ferrari narrative: Leclerc wins Silverstone, now arrives at Spa with momentum\n- Belgian GP = last race before Hungarian GP (July 24-26) where Verstappen's exit clause mathematically triggers\n- 13 rounds remain after Belgian GP; weather routinely mixed/wet at Spa",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "FIA Officially Confirms Mid-Season Engine Rule Change — Loophole Closed",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "FIA confirmed: mid-season engine rule change is official. Compression ratio enforcement shifts from cold to hot (130°C). The exploit closes a ~0.3s/lap advantage. Enforcement moved 6 races earlier than planned. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 214
+        }
+      ],
+      "facebook": {
+        "long_form": "The FIA has officially confirmed the mid-season power-unit rule change, and the impact could reshape the second half of the championship.\n\nThe change is technical at its core: compression ratio enforcement will now be measured at hot operating conditions (130°C) rather than cold ambient temperature. That shift closes what Ferrari, Honda, and Audi had publicly identified as a thermal expansion exploit — a method of running higher effective compression ratios during a race than the regulations were intended to allow.\n\nThe teams alleged to have benefited most are Mercedes and Red Bull. The performance advantage that closes has been estimated at approximately 0.3 seconds per lap. That is not a marginal number. In a championship where the gap between P2 and P5 in qualifying can be measured in tenths, 0.3 seconds represents a meaningful correction.\n\nThe enforcement date was originally set for August 1. The FIA moved it forward, applying the rule 6 races earlier than originally planned. That acceleration in the timeline signals how seriously the governing body took the complaints from multiple manufacturers.\n\nThe same announcement confirmed a tweak to qualifying format. Details on that change are expected before the Belgian GP weekend.\n\nThe rule is now confirmed. The question is how much of the competitive picture changes when Spa qualifying runs on Saturday.",
+        "image_caption": "The loophole is closed. FIA confirms the compression ratio rule change — effective immediately, 6 races early. The ~0.3s/lap advantage is gone.",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-fia-engine-rule-change-compression-loophole.html",
+        "headline": "FIA Closes the Engine Compression Loophole — Mid-Season Rule Change Is Official",
+        "word_count": 707
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "FIA Engine Rule Change Confirmed\n\n**Concept:** Technical/regulatory aesthetic — FIA crest or signage from pitlane. Engine shot (power unit on workbench or in car garage). Alternatively: a Mercedes or Red Bull garage shot with technical activity.\n\n**Imagn Search Terms:**\n- \"FIA Formula 1 technical regulation 2026\"\n- \"Formula 1 power unit engine garage 2026\"\n- \"Mercedes F1 engine 2026\"\n- \"Red Bull Racing power unit 2025 garage\"\n\n**Alt concept:** FIA official document or stewards room image, with headline graphic overlay about the rule change.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "FIA Engine Rule Change Confirmed\n**Classification:** FOLLOW UP (engine compression loophole story covered July 8)\n**New development:** FIA officially confirmed the mid-season rule change — enforcement date moved forward from August 1 to earlier application; qualifying format tweak also confirmed.\n**Sources (2+ for Tier 1):**\n- Sky Sports F1: \"FIA confirms mid-season rule change to power-unit regulations and tweak to qualifying format\" (July 8)\n- Planet F1: \"FIA takes action as latest Mercedes, Red Bull F1 2026 loophole closed\" (July 8)\n- Motorsport.com full explainer on the compression ratio issue\n**Key facts:**\n- FIA officially confirmed mid-season PU regulation change\n- Compression ratio enforcement shifted from cold (ambient temperature) to hot (130°C operating conditions)\n- Change closes the thermal expansion exploit allegedly used by Mercedes and Red Bull\n- Estimated performance advantage closed: ~0.3s/lap (figure alleged by Ferrari, Honda, Audi)\n- Enforcement date brought forward from August 1 — applies from 6 races earlier than originally planned\n- Qualifying format tweak also confirmed in the same announcement; details expected for Belgian GP weekend",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Verstappen/McLaren Deal in \"Closing Stages\" — Exit Clause About to Trigger",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Verstappen to McLaren described as in \"closing stages\" of a believed 3-year deal. The exit clause triggers mathematically before the Hungarian GP (July 24-26). Verstappen sits 7th with 76pts. This is moving. #F1 #RedBull #McLaren",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#RedBull",
+            "#McLaren"
+          ],
+          "char_count": 229
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Ralf Schumacher today on Verstappen and Red Bull: \"On the brink of divorce. No going back.\" 4 retirements in 2026. 76 points. 7th in the standings. The clock has run out. #F1 #RedBull",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#RedBull"
+          ],
+          "char_count": 183
+        }
+      ],
+      "facebook": {
+        "long_form": "The biggest driver market story in Formula 1 is moving toward a conclusion.\n\nMax Verstappen's move to McLaren is now being described as being in the \"closing stages\" of what is believed to be an initial three-year deal. The mechanics of the exit are already in motion. Verstappen sits seventh in the championship with 76 points. The mathematical threshold for his Red Bull exit clause — which requires him to be outside the top two in the standings — triggers before the Hungarian Grand Prix (July 24-26).\n\nThat is two weekends away.\n\nThe deal being described as three years is notable. This is not a short-term arrangement built around one competitive cycle. Verstappen, who has experienced four retirements in 2026 including his most recent at Silverstone with a DRS fault, would arrive at McLaren alongside a Piastri departure. The most widely reported resolution has Oscar Piastri moving to Red Bull in a straight swap, partnering Isack Hadjar.\n\nZak Brown, McLaren's CEO, has publicly and repeatedly denied any conversations with Verstappen. Teams routinely maintain that position through the final stages of transfers of this magnitude.\n\nThe Belgian GP runs before the Hungarian GP. That means the transfer is likely to be publicly confirmed between now and the race in Hungary. Watch the calendar.",
+        "image_caption": "\"Closing stages.\" Verstappen to McLaren. The exit clause triggers before Hungarian GP (July 24-26). The Piastri swap to Red Bull. Two weekends away. #F1",
+        "posting_time": "12:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-verstappen-mclaren-deal-closing-stages-exit-clause.html",
+        "headline": "Verstappen to McLaren: 'Closing Stages' as Exit Clause Mathematically Nears",
+        "word_count": 792
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen/McLaren — Exit Clause and Closing Stages\n\n**Concept:** Verstappen in Red Bull car (2026 season — any round) contrasted with McLaren papaya livery in background or pit wall. The visual tension of two teams.\n\n**Imagn Search Terms:**\n- \"Max Verstappen Red Bull 2026\"\n- \"Max Verstappen McLaren 2025\"\n- \"Oscar Piastri McLaren 2026\"\n- \"Red Bull Racing paddock 2026\"\n\n**Alt concept:** Verstappen portrait in helmet against Red Bull backdrop, with McLaren colors as subtle frame element. Exit/transfer graphic energy.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen/McLaren — Exit Clause and \"Closing Stages\"\n**Classification:** FOLLOW UP (McLaren/Verstappen deal covered July 8; Ralf Schumacher comment new July 9)\n**New development:** Ralf Schumacher July 9 statement (\"brink of divorce\"); exit clause mathematical confirmation ahead of Hungarian GP.\n**Sources:**\n- Motorsport Week: \"Is the latest Max Verstappen F1 transfer saga heading to a conclusion?\" (July 8)\n- GPFans: \"Verstappen Transfer Recap: No going back, ticking timebomb, mega buyout\" (July 8)\n- Motorsport Week: \"Ex-F1 star proclaims Verstappen and Red Bull on the brink of divorce\" (July 9)\n- Planet F1: \"Red Bull exit clause nears as contract talks advance\" (July 8)\n**Key facts:**\n- Verstappen 76pts/7th; mathematically cannot reach top 2 before Hungarian GP (July 24-26) — exit clause triggers\n- McLaren deal described as in \"closing stages\" of \"lengthy negotiations\" — believed to be initial 3-year deal\n- Likely resolution: Piastri-to-Red Bull straight swap; Piastri alongside Isack Hadjar at RBR\n- Zak Brown has repeatedly/publicly denied any conversations with Verstappen\n- Ralf Schumacher (July 9): Verstappen and Red Bull \"on the brink of divorce\" — \"no going back\"\n- Verstappen in 2026: 4 retirements (latest Silverstone DRS fault, same issue as Austria)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Alonso Sets Summer Break as His Deadline for 2027 F1 Decision",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Alonso has set the summer break as his deadline for deciding on 2027. The Hungarian GP brings a Newey-designed aero revamp with major weight savings. Retire or continue into his 24th F1 season. His call. #F1 #AstonMartin",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#AstonMartin"
+          ],
+          "char_count": 220
+        }
+      ],
+      "facebook": {
+        "long_form": "Fernando Alonso has given himself a deadline.\n\nThe two-time world champion confirmed publicly Thursday that he will use the summer break to make his decision about 2027 — whether to continue into what would be his 24th Formula 1 season or bring one of the sport's longest careers to an end.\n\nThe context makes the timeline meaningful. Aston Martin arrives at the Hungarian Grand Prix (July 24-26) with what Alonso described as a \"substantial\" aerodynamic revamp — a package developed under Adrian Newey that brings significant weight savings alongside the aerodynamic changes. Alonso acknowledged the upgrade is real but added that it is \"not the only thing on the table.\" The decision will be bigger than one race result.\n\nOn one side is Aston Martin's case for patience. The team has scored zero points in 2026 so far. Alonso has remained publicly committed to the project throughout a season that has given him nothing in return. The upgrade at Hungary is the first tangible evidence that Newey's work is translating into hardware.\n\nOn the other side is Alpine. Flavio Briatore is pushing actively to bring Alonso back to the team where he won his first championship in 2005. An incoming Gucci partnership adds commercial weight to that pitch.\n\nAlonso at 44 remains one of the sharpest technical minds in the paddock. The upgrade at Hungary will tell him something. What it tells him will set the direction for 2027.",
+        "image_caption": "Alonso set his own deadline: summer break. Aston Martin brings a Newey revamp to Hungarian GP. Alpine is pushing hard to bring him back. His 24th season — or his last. The clock is running.",
+        "posting_time": "5:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-alonso-summer-break-deadline-2027-decision.html",
+        "headline": "Alonso's F1 Future: Summer Break Is the Deadline for a Decision That Could End an Era",
+        "word_count": 722
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alonso Sets Summer Break Deadline for 2027 Decision\n\n**Concept:** Alonso in Aston Martin cockpit or alongside car on track — 2026 season. Alternatively a paddock portrait showing Alonso looking thoughtful or speaking to media.\n\n**Imagn Search Terms:**\n- \"Fernando Alonso Aston Martin 2026\"\n- \"Fernando Alonso paddock interview 2026\"\n- \"Aston Martin Formula 1 2026 garage\"\n- \"Fernando Alonso 2026 cockpit\"\n\n**Alt concept:** Side-by-side: Alonso in Aston Martin green on left vs. classic Alpine blue on right — representing the decision he faces.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Alonso — Summer Break Deadline for 2027 Decision\n**Classification:** NEW STORY\n**Freshness justification:** Alonso set timeline on record for the first time publicly (July 8).\n**Sources:**\n- Sky Sports: \"Alonso sets timeline for deciding future\" (July 8)\n- Autosport: \"Newey hoping to keep Alonso at Aston Martin for F1 2027\" (July 8)\n- Formula1.com: \"Alonso addresses speculation linking him to other teams\" (July 8)\n**Key facts:**\n- Alonso publicly set summer break as his timeline for deciding on 2027\n- Hungarian GP (July 24-26) brings a \"substantial aerodynamic revamp\" for Aston Martin with \"substantial weight saving\" — Newey's work\n- Alonso: the Hungarian upgrade is \"not the only thing on the table\" for his decision\n- Flavio Briatore (Alpine) and Gucci (incoming sponsor) are actively pushing to re-sign Alonso for Alpine\n- Aston Martin has scored zero points in 2026; Alonso has remained publicly loyal to the project\n- Decision to retire or continue into what would be his 24th F1 season",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Horner \"Will Get Back\" to F1 — FIA President Issues Statement; Newey Appears at Goodwood",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "FIA president on Christian Horner: \"He will get back. Did he deliver? Do you want to win or not?\" Meanwhile Newey drives a Red Bull he designed at Goodwood FOS this week — his parting gift car. #F1 #RedBull",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#RedBull"
+          ],
+          "char_count": 206
+        }
+      ],
+      "facebook": {
+        "long_form": "Two architects of Formula 1's most dominant era are back in the spotlight this week, in very different ways.\n\nFIA president Mohammed Ben Sulayem made his position on Christian Horner's future in the sport clear on Thursday: \"He will get back.\" The statement came with context: \"Did he deliver? Do you want to win or not?\" Ben Sulayem's words were not hedged. They reflected an institutional backing that carries weight across the paddock.\n\nHorner attended the British Grand Prix as a guest of the FIA and FOM last weekend. It was his first paddock appearance since his exit from Red Bull. He has said publicly that he would only return to the sport for a team he believes can win. The FIA president's endorsement changes the calculus for any team willing to make a serious approach.\n\nMeanwhile, Adrian Newey — now 67 and at Aston Martin — is making a surprise appearance at the Goodwood Festival of Speed this week (July 10-13). The occasion: he will drive a Red Bull car described as his \"parting gift\" project, making its public running debut. Newey spent decades designing the cars that defined Red Bull's championship years. Driving one at Goodwood as his farewell gesture is a fitting image for the end of an era.\n\nTwo men who shaped what Red Bull became. One of them may be returning to Formula 1. One of them is saying goodbye in the most graceful way possible.",
+        "image_caption": "FIA president: \"Horner will get back. Did he deliver? Do you want to win or not?\" Meanwhile Newey drives a Red Bull he designed at Goodwood this week. The era they built together ends differently for each of them.",
+        "posting_time": "8:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-horner-fia-statement-newey-goodwood.html",
+        "headline": "FIA President on Horner: 'He Will Get Back' — The Statement That Changes the Conversation",
+        "word_count": 761
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Horner \"Will Get Back\" + Newey at Goodwood\n\n**Concept:** Two-part image. Left: Christian Horner in paddock (Silverstone 2026 guest appearance if available, or recent paddock portrait). Right: Adrian Newey at Goodwood Festival of Speed with the Red Bull car.\n\n**Imagn Search Terms:**\n- \"Christian Horner Silverstone 2026\"\n- \"Adrian Newey Goodwood Festival of Speed 2026\"\n- \"Red Bull Racing Adrian Newey 2025\"\n- \"Goodwood Festival of Speed Formula 1 2026\"\n\n**Alt concept:** Newey driving the Red Bull at Goodwood — action shot of the parting gift car in motion — with Horner headline graphic overlaid."
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Horner \"Will Get Back\" + Newey at Goodwood\n**Classification:** NEW STORY\n**Freshness justification:** FIA president Ben Sulayem statement on Horner (July 8); Newey at Goodwood FOS is new July 8-9 development.\n**Sources:**\n- GPFans: \"FIA chief issues statement on Christian Horner F1 return\" (July 8)\n- GPFans: F1 News Today — Horner + Newey at Goodwood combined piece (July 8-9)\n**Key facts:**\n- FIA president Mohammed Ben Sulayem publicly stated: \"He will get back\" on Horner's F1 future\n- Ben Sulayem: \"Did he deliver? Do you want to win or not?\" — signaling FIA institutional backing\n- Horner attended Silverstone as guest of FIA and FOM (July 5-6); first paddock appearance since Red Bull exit\n- Horner has said he would only return for a team he believes can win\n- Adrian Newey (67, now at Aston Martin) making \"surprise return to Red Bull fold\" at Goodwood Festival of Speed (July 10-13)\n- Newey will drive a Red Bull car — described as his \"parting gift\" project making its running debut",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
