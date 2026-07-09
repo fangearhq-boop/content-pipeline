@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-07-09
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-09 | T1 | Evian R1 — Aki Iwai Leads at -8; Korda Opens +3, Career Grand Slam Chase in Trouble | X, FB, Article | FOLLOW UP |
+| 2026-07-09 | T1 | Jon Rahm Returns to Co-Sanctioned Golf at Scottish Open — Ryder Cup Path Reopened | X, FB, Article | FOLLOW UP |
+| 2026-07-09 | T2 | LIV Golf $400M Crisis Deepens — PIF Preparing to Exit, Two Events at Risk | X, FB, Article | FOLLOW UP |
+| 2026-07-09 | T2 | Open Championship Last-Chance Qualifier — Potgieter, Bryan, Schmid Among 12 at Royal Birkdale | X, FB, Article | NEW |
+| 2026-07-09 | T2 | 2026 PGA Tour Player of the Year Race — Gotterup Makes His Move at Scottish Open | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Evian R1 — Aki Iwai Leads, Korda Opens +3
+- **Tier:** 1
+- **Category:** LPGA / Evian Championship
+- **Key facts:** Amundi Evian Championship July 9-12, Evian Resort Golf Club, France, $9.1M purse; R1 leader: Aki Iwai (Japan, World No. 24) -8 (63) leads by 3; Haeran Ryu -5 (66) T2; Lottie Woad (England) -4 (67); Korda +3 (74) 11 shots back; Korda's round: birdied 12th, bogeyed 18th, double-bogeyed 1st, bogeyed 4th and 5th, birdied 9th; Korda won Chevron + US Women's Open 2026; Ryu's KPMG win killed calendar Grand Slam bid; Korda still needs Evian + AIG Women's British Open for career Grand Slam; defending champion: Grace Kim (2025 Evian)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R2/R3/R4 leaderboard; Korda comeback possibility; Iwai win would be her second LPGA title
+
+### STORY 2: Jon Rahm Returns at Scottish Open
+- **Tier:** 1
+- **Category:** PGA Tour / DP World Tour / Scottish Open / LIV
+- **Key facts:** Genesis Scottish Open July 9-12, Renaissance Club, North Berwick, Scotland, $9M (Rolex Series); Rahm's first co-sanctioned PGA/DP World Tour start since joining LIV Golf January 2024; agreement: paid all outstanding DP World Tour fines, committed to specified number of DP World Tour events in remainder of 2026; Scottish Open = 5th event under agreement, making him "member in good standing"; Ryder Cup eligibility reopened if maintains good standing through 2026 and 2027; Rahm tee time 9:05 AM ET; McIlroy/Gotterup/MacIntyre grouped together (3:28 AM ET); quotes: "It's just another event" / "Just happy that the DP World Tour let me have the opportunity... great golf course, great crowd" / called it "one of my favourite weeks"
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Rahm R1 score; Scottish Open leaderboard; whether deal creates template for other LIV players
+
+### STORY 3: LIV Golf $400M Crisis
+- **Tier:** 2
+- **Category:** LIV Golf / Business
+- **Key facts:** PIF announced April 2026: "PIF has made the decision to fund LIV Golf only for the remainder of the 2026 season... no longer consistent with the current phase of PIF's investment strategy"; PIF committed ~$600M for remainder of 2026; delivered only ~$200M (~$66M in May + ~$130M in June); $400M shortfall; LIV Golf Indianapolis and Michigan events at risk; UK event and Trump National Bedminster expected to proceed; New Orleans already postponed; investor discussions stalling (no post-2026 structure clarity); total PIF outlay: $5B+ since 2022; total liabilities may exceed $3B without PIF; CEO: Scott O'Neil
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** LIV event cancellations confirmed; investor deal news; PIF final payment news
+
+### STORY 4: Open Championship Last-Chance Qualifier
+- **Tier:** 2
+- **Category:** The Open Championship / LCQ
+- **Key facts:** Inaugural Open Championship Last-Chance Qualifier; July 13, 2026 (Monday), 7:30 AM BST; Royal Birkdale Golf Club, Southport, England (same course hosting The Open July 16-19); 12 players / 1 spot / 18 holes; confirmed field: Aldrich Potgieter (World No. 77, LIV, Amateur Championship winner 2022 at 17, 2 previous Open appearances, PGA Tour winner); Wesley Bryan (former PGA Tour winner, Bryan Bros YouTube, missed West Lancashire Final Qualifying by 1 shot — bogeyed final hole to miss playoff); Matti Schmid (T4 2026 PGA Championship); Adri Arnaus (Spain), Charlie Huntzinger (USA); 7 other DP World Tour/Challenge Tour players
+- **Status:** NEW
+- **Follow-up ideas:** LCQ result on July 13; qualifier's first-round performance at The Open
+
+### STORY 5: 2026 PGA Tour POTY Race
+- **Tier:** 2
+- **Category:** PGA Tour / Season Awards
+- **Key facts:** Gotterup: 3 wins 2026 (John Deere July 6 + 2 earlier), World No. 4, defending Scottish Open champion; Fitzpatrick: 3 wins 2026, World No. 6; Clark: US Open + Byron Nelson wins 2026, World No. 8; Scheffler: 1 win (Masters), World No. 1; Gotterup/Fitzpatrick tied in wins, Clark has most prestigious win (US Open major), Scheffler has world ranking; Scottish Open (July 9-12) could shift POTY balance
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Scottish Open winner adds to POTY argument; Open Championship outcome; end-of-season voter breakdown
+
 ## 2026-07-08
 
 | Date | Tier | Story | Platforms | Status |
