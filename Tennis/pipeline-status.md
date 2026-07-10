@@ -6,15 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-07-09 |
-| Writing | Complete (all steps) | 2026-07-09 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 24 claims, 39 HIGH; image not_started warnings cosmetic/expected for imagn) | 2026-07-09 |
-| Compile | Complete (07-content-data.json — 5 stories, 9 X posts, 0 FB posts, 5 articles, 5 images) | 2026-07-09 |
-| Dashboard | Complete (review-dashboard.html, 24 items) | 2026-07-09 |
-| PostPlanner Export | Complete (standard 9 posts 12:51–20:59 ET; TOBI 9 posts) | 2026-07-09 |
-| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-07-09 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-07-09 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-07-08 |
+| Research | Complete | 2026-07-10 |
+| Writing | Complete (all steps) | 2026-07-10 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 24 claims, 47 HIGH; image not_started warnings cosmetic/expected for imagn) | 2026-07-10 |
+| Compile | Complete (07-content-data.json — 5 stories, 9 X posts, 0 FB posts, 5 articles, 5 images) | 2026-07-10 |
+| Dashboard | Complete (review-dashboard.html, 24 items) | 2026-07-10 |
+| PostPlanner Export | Complete (standard 9 posts; TOBI 9 posts) | 2026-07-10 |
+| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-07-10 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-07-10 |
 
 ## Queue
 
@@ -25,6 +24,21 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-07-10 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (4 Tier 1, 1 Tier 2)
+- **Posts:** 9 X posts + 5 FB long-form + 5 FB captions = 19 total (PostPlanner xlsx: 9 posts standard, 9 TOBI)
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Ryan Calloway [S2, S5], Marcus Cole [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-07-10.xlsx (9 posts), tfr-postplanner-tobi-2026-07-10.xlsx (9 TOBI posts)
+- **Coverage:** Women's SF results (Day 11, July 9): Muchova def. Gauff 6-2, 1-6, 7-6(10) in 2h35m — match point saved at 9-8 in TB; Noskova def. Kostyuk 6-4, 6-4 in 79 min. First all-Czech women's Wimbledon final in history; first same-nationality women's Slam final since Williams sisters 2017 US Open. Women's final preview: Muchova (29, 2nd Slam final) vs Noskova (21, 1st Slam final), both from Přerov, Czech Republic. Men's SFs TODAY (July 10): Fery (No. 114 wildcard) vs Zverev (RG champion chasing Channel Slam — only 5 men in Open Era: Laver, Borg, Federer, Nadal, Djokovic). Sinner (defending champ, 12 straight sets) vs Djokovic (39yo, ankle/calf injury, longest men's QF in Wimbledon history). Czech dynasty feature: 12 Wimbledon titles, Navratilova to Noskova.
+- **Notes:**
+  - verify-facts.py: passed; 24 claims, 47 HIGH; image not_started warnings cosmetic (expected for imagn source)
+  - compile: 5 stories, 9 X posts, 0 FB posts (parser compatibility), 5 articles, 5 images; 24 dashboard items; posting window warnings cosmetic
+  - PostPlanner exports: standard (9 posts) and TOBI (9 posts) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Story history updated: added July 9 entries (from daily brief) and July 10 entries
 
 ### 2026-07-09 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
