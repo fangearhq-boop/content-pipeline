@@ -1,6 +1,45 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: July 9, 2026
+## Latest Run: July 10, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Little Pea Shop padded crib bumpers CPSC recall (littlepeashop.com Oct 2023–Oct 2025 $30–$80; violates Safe Sleep for Babies Act May 2022; suffocation risk; full refund via cpsc.gov); El Paso County Fair follow-up opens tomorrow (120th annual fair July 11–18 Calhan CO ~30 min east Hwy 24; $1 general admission; $69 Golden Ticket; Fri–Sat 10 AM–11 PM; Sun 10 AM–9 PM; Mon–Thu 11 AM–9 PM; CPRA rodeo; demolition derby; Sensory Day + Sensory Book Autism Society of CO; elpasocountyfair.com); Babypark Children's Carriers CPSC Warning (leg openings too large — infant can slip through; deadly fall hazard; violates 16 CFR Part 1231; stop use now; no built-in refund program; cpsc.gov); Free COS Summer Parks Guide (Garden of the Gods always free paved + unpaved + Visitor Center; North Cheyenne Cañon Park Helen Hunt Falls 0.4 mi round trip; Palmer Park dog-friendly northeast COS; COS 6,035 ft; afternoon storms July 2–4 PM; coloradosprings.gov); Bancroft Park Tuesday concerts (free every Tuesday 6–8 PM June–October; Old Colorado City; no tickets no registration; bring blankets + lawn chairs; all ages; coloradosprings.gov) |
+| Story History Check | COMPLETE | All 5 stories clear; Little Pea Shop = new brand/new recall; El Paso County Fair = distinct follow-up angle (opens tomorrow July 11 — July 6 was general preview); Babypark Carriers = new story; COS Parks Guide = first standalone parks evergreen guide; Bancroft Park = first standalone coverage |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2); ### STORY N: uppercase format |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH confidence tags; all facts from web search; ### STORY N: headers |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4); rotating from July 9 |
+| X Posts | COMPLETE | 03-social-posts-x.md — 8 posts (2 per Tier 1 × 3, 1 per Tier 2 × 2); all under 280 chars; 4 hashtags each; COS voice rules; 0 exclamation marks; #### Text Post A/B headers required for PostPlanner parsing |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; NO hashtags; COS voice rules; contractions throughout; **Long-Form Post (time)** bold label format (compile-compatible) |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 8 Gemini base_only prompts (2 per Tier 1 × 3, 1 per Tier 2 × 2; clean bottom third; no celebrity likenesses; no brand logos); ### STORY N: headers |
+| Image Manifest | COMPLETE | 07-image-manifest.md — YAML format; 10 images across 5 stories (x_image + facebook_image per story); all not_started; photo_source: gemini; model: gemini-2.5-flash-image; brand_kit_id: kAHCKfCZgk0 |
+| Articles | COMPLETE | 5 articles (500–800 words; What's Next sections; 0 exclamation marks; no figure tags; no photo credits; semantic HTML5); bylines: Sarah Morales (A1, A3, A5), Jamie Rivera (A2, A4) |
+| Fact-Check | COMPLETE | verify-facts.py passed; 50 claims; HIGH: 118, LOW: 112; all 5 stories present in all content files; image not_started warnings cosmetic (expected for gemini source — same as all prior Parenting runs) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 5 FB posts, 5 articles, 5 image concepts; 28 dashboard items |
+| Dashboard | COMPLETE | review-dashboard.html — 28 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-07-10.xlsx (8 posts, 13:39–20:53 MT) + TOBI cosp-postplanner-tobi-2026-07-10.xlsx (8 TOBI posts, true-black background) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-07-10)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 5 FB long-form + 5 FB captions = 18 total posts (PostPlanner xlsx: 8 posts standard 13:39–20:53 MT, 8 TOBI)
+- **Articles:** 5 (bylines: Sarah Morales x3 [A1, A3, A5], Jamie Rivera x2 [A2, A4])
+- **PostPlanner exports:** cosp-postplanner-2026-07-10.xlsx (8 posts, 13:39–20:53 MT), cosp-postplanner-tobi-2026-07-10.xlsx (8 TOBI posts)
+- **Coverage:** Little Pea Shop padded crib bumpers CPSC recall (littlepeashop.com Oct 2023–Oct 2025 $30–$80; Safe Sleep for Babies Act violation; suffocation risk; full refund cpsc.gov); El Paso County Fair follow-up opens July 11 (120th annual fair July 11–18 Calhan; $1 admission; $69 Golden Ticket; Sensory Day; elpasocountyfair.com); Babypark Children's Carriers CPSC Warning (leg openings too large; deadly fall hazard; 16 CFR Part 1231 violation; stop use; cpsc.gov); Free COS Summer Parks Guide (Garden of the Gods always free; North Cheyenne Cañon Helen Hunt Falls 0.4 mi; Palmer Park; 6,035 ft altitude tips; coloradosprings.gov); Bancroft Park Tuesday concerts (free Tuesdays 6–8 PM June–October Old Colorado City; no tickets; coloradosprings.gov)
+- **Notes:**
+  - Ran as Niche 2 in sequence after Tennis niche (continued from prior session context compaction)
+  - File format fixes required: (1) `## STORY` → `### STORY` headers in 03/04/05/01 files for compile compatibility; (2) `**Long-Form Post (time):**` → `**Long-Form Post (time)**` (remove colon inside bold) for compile FB parsing; (3) Tweet section headers `#### Story N Tweet A` → `#### Text Post A` for PostPlanner parsing
+  - verify-facts.py: tweets initially 8/8 over 280 chars (max 312 chars) — rewrote all 8 for concision; all passed on second run
+  - image not_started warnings cosmetic (expected for gemini source — same as all prior Parenting runs)
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4] (rotating from July 9's Jamie Rivera [S1, S3, S5])
+
+---
+
+## Prior Run: July 9, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|

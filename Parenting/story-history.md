@@ -2,6 +2,45 @@
 
 ---
 
+## July 10, 2026
+
+### Story 1: CPSC Recall — Little Pea Shop Padded Crib Bumpers
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC formal recall of Little Pea Shop padded crib bumpers sold on littlepeashop.com between October 2023 and October 2025 for $30–$80. Violates the Safe Sleep for Babies Act (federally banned since May 2022). Suffocation risk — padded crib bumpers can obstruct infant breathing and have been linked to suffocation deaths. Remedy: stop use immediately; contact Little Pea Shop or visit cpsc.gov for full refund. Sources: CPSC.gov.
+- **Content Produced:** Article (Sarah Morales), 2 X Text Posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Sold littlepeashop.com Oct 2023–Oct 2025; $30–$80; violates Safe Sleep for Babies Act (May 2022); suffocation risk; stop use immediately; full refund via cpsc.gov; safe sleep = bare mattress + tight-fitting sheet only
+
+### Story 2: El Paso County Fair — Opens July 11 (Follow-Up: Opens Tomorrow)
+- **Content Pillar:** Local Events
+- **Angle:** FOLLOW-UP (distinct from July 6 general preview) — "Opens tomorrow" angle with practical day-of guide. 120th annual El Paso County Fair runs July 11–18 at El Paso County Fairgrounds in Calhan, CO (~30 min east on Hwy 24). $1 general admission; $69 Golden Ticket for multi-day. Fri–Sat 10 AM–11 PM; Sun 10 AM–9 PM; Mon–Thu 11 AM–9 PM. CPRA rodeo, demolition derby, live music, carnival rides. Sensory Day with sensory-friendly space + Sensory Book from Autism Society of Colorado. Sources: elpasocountyfair.com.
+- **Content Produced:** Article (Jamie Rivera), 2 X Text Posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** 120th annual fair; July 11–18 Calhan CO; ~30 min east on Hwy 24; $1 general admission; $69 Golden Ticket; Fri–Sat 10 AM–11 PM; Sun 10 AM–9 PM; Mon–Thu 11 AM–9 PM; CPRA rodeo; demolition derby; Sensory Day; Sensory Book from Autism Society of Colorado; elpasocountyfair.com
+
+### Story 3: CPSC Warning — Babypark Children's Carriers (Deadly Fall Hazard)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC Warning (not formal recall) on Babypark Children's Carriers. Leg openings large enough for an infant to slip through — potentially fatal fall hazard. Violates mandatory federal standard for soft infant and toddler carriers (16 CFR Part 1231). CPSC warning means stop use; no built-in refund program — check cpsc.gov for updates; contact retailer directly. Sources: CPSC.gov.
+- **Content Produced:** Article (Sarah Morales), 2 X Text Posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** CPSC Warning (not formal recall); Babypark Children's Carriers; leg openings too large — infant can slip through; deadly fall hazard; violates 16 CFR Part 1231; stop use immediately; no built-in refund (Warning vs. Recall); check cpsc.gov; soft carrier safety check: leg openings should fit snugly around thighs
+
+### Story 4: Free COS Summer Parks Guide (Garden of the Gods, North Cheyenne Cañon, Palmer Park)
+- **Content Pillar:** Evergreen
+- **Angle:** NEW STORY — First standalone free parks guide for COS families. Garden of the Gods (always free, paved and unpaved trails, free Visitor Center), North Cheyenne Cañon Park (Helen Hunt Falls — 0.4 mi round trip easy hike with waterfall), Palmer Park (dog-friendly, trails for all levels, northeast COS). Altitude tips: 6,035 ft elevation; storms arrive 2–4 PM in July; extra water and SPF required. Sources: coloradosprings.gov, Garden of the Gods Visitor Center.
+- **Content Produced:** Article (Jamie Rivera), 1 X Text Post, Facebook Long-Form + Caption, Image Concepts (x1)
+- **Tier:** 2
+- **Key Facts:** Garden of the Gods always free; paved accessible loop + unpaved; free Visitor Center; North Cheyenne Cañon Park free; Helen Hunt Falls 0.4 mi round trip; Palmer Park dog-friendly northeast COS; COS elevation 6,035 ft; afternoon storms July 2–4 PM; extra hydration + SPF; coloradosprings.gov
+
+### Story 5: Bancroft Park Free Tuesday Night Concerts (June–October)
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — First standalone coverage of Bancroft Park Tuesday concert series. Free outdoor concerts every Tuesday 6–8 PM June through October at Bancroft Park in Old Colorado City, Colorado Springs. No tickets, no registration. Bring blankets and lawn chairs. Family-friendly, all ages. Walk to Old Colorado City shops and restaurants before/after. Sources: coloradosprings.gov.
+- **Content Produced:** Article (Sarah Morales), 1 X Text Post, Facebook Long-Form + Caption, Image Concepts (x1)
+- **Tier:** 2
+- **Key Facts:** Free every Tuesday; 6–8 PM; June–October; Bancroft Park Old Colorado City Colorado Springs; no tickets no registration; bring blankets + lawn chairs; all ages; walkable neighborhood; coloradosprings.gov
+
+---
+
 ## July 9, 2026
 
 ### Story 1: CPSC Recall — VEVOR Baby Loungers (~237 Units)
