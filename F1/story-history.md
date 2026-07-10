@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-07-10
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-10 | T1 | Verstappen Exit Clause Now Officially Active — McLaren Move | X, FB, Article | FOLLOW UP |
+| 2026-07-10 | T1 | Wolff Launches Factory Investigation After British GP Disaster | X, FB, Article | FOLLOW UP |
+| 2026-07-10 | T2 | Hamilton at Spa — Six Belgian GP Wins, Now in Ferrari Red | X, FB, Article | FOLLOW UP |
+| 2026-07-10 | T2 | Sainz and Alonso Both Waiting Until Summer Break — 2027 Grid in Limbo | X, FB, Article | NEW |
+| 2026-07-10 | T2 | The Piastri Factor — Why McLaren's No. 2 Holds the Key to the Verstappen Puzzle | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Verstappen Exit Clause Now Officially Active
+- **Tier:** 1
+- **Category:** Driver Market / Verstappen
+- **Key facts:** Exit clause now officially active (confirmed July 7); Verstappen negotiations with McLaren in "closing stages" (SportBible); Hungarian GP July 26 last race before summer break; ~50 pts available before summer break; tweet storm July 10 after exit clause activation blocked; first confirmed official exit clause trigger
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official deal announcement; McLaren seat math resolution; Piastri/Red Bull response
+
+### STORY 2: Wolff Factory Investigation — British GP Disaster
+- **Tier:** 1
+- **Category:** Team News / Mercedes / Reliability
+- **Key facts:** Toto Wolff ordered full teardown of Antonelli's W17 at Brackley factory; wheel shield failure Lap 41 at Turn Nine; Antonelli P15 after 5s penalty (was catching Leclerc on fresher tyres for race lead); Wolff: "A car should not break" (Sky Sports F1); Wolff accepts blame — "It's on us"; championship lead over Russell now only 25pts; Belgian GP July 17-19 deadline for fixes; full teardown (not routine post-race inspection) signals systemic concern
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Belgian GP — does the fix hold; W17 Belgian spec reliability update; Antonelli mental resilience at Spa
+
+### STORY 3: Hamilton — Six Spa Wins, Now in Ferrari Red
+- **Tier:** 2
+- **Category:** Race Preview / Hamilton / Ferrari
+- **Key facts:** Hamilton holds record 6 Belgian GP victories at Spa-Francorchamps (more than any active driver); circuit is 7.004km in Ardennes region; Hamilton arriving in Ferrari red for first time at Spa; 3rd in championship 147pts (32 back of leader Antonelli 179, 7 back of Russell 154); Belgian GP July 17-19; wet weather historically suited Hamilton; Ferrari won Silverstone (Leclerc); Spa favors power unit strength/straight-line speed; weather forecast: thundery showers ~23°C
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Belgian GP qualifying; race result; Hamilton Ferrari performance at power-sensitive circuit
+
+### STORY 4: Sainz and Alonso — Summer Break, 2027 Grid
+- **Tier:** 2
+- **Category:** Driver Market / 2027 Grid
+- **Key facts:** Both Sainz (Williams) and Alonso (Aston Martin) waiting until summer break (after Hungarian GP July 26) to decide 2027; 15 of 22 seats still officially unconfirmed; Formula1.com analysis: Verstappen, Sainz, Alonso are the three drivers whose decisions "will define what the 2027 grid looks like"; Sainz Williams contract could extend 4 years to 2028 if conditions met; Alonso 44 years old, 23rd season, contract expires end of 2026; Alonso retirement creates cascade downstream across mid-field
+- **Status:** NEW
+- **Follow-up ideas:** Summer break announcements; Sainz 2027 final decision; Alonso retirement/continuation announcement
+
+### STORY 5: The Piastri Factor
+- **Tier:** 2
+- **Category:** Driver Market / McLaren / Piastri
+- **Key facts:** Multiple sources (RacingNews365, McLaren inner circle) confirmed as of Thursday that Piastri is staying at McLaren ("nothing has changed"); Zak Brown denied desire to alter driver lineup at British GP; McLaren fields Norris + Piastri — both committed; Piastri's McLaren stay removes the clean Verstappen swap mechanism; three possible resolutions: hidden contract provision, "closing stages" reporting premature/inaccurate, or 2028 timeline for Verstappen; Hungarian GP in 16 days
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Verstappen/McLaren official confirmation; McLaren seat math resolution; Hungarian GP paddock signals
+
 ## 2026-07-09
 
 | Date | Tier | Story | Platforms | Status |
