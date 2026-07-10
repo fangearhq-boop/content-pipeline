@@ -5,6 +5,60 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-10
+
+### Story 1: All-Star Week Opens in Philadelphia — HBCU Swingman Classic Tonight
+- **Date:** 2026-07-10
+- **Tier:** 1
+- **Classification:** NEW STORY (All-Star Week officially opens; HBCU Swingman Classic tonight at Citizens Bank Park)
+- **Angle:** 4th annual HBCU Swingman Classic tonight — 7 PM ET, MLB Network, Citizens Bank Park. 50 players from 19 HBCUs. Jimmy Rollins + Ricky Weeks managing. Mayor Cherelle Parker first pitch. Tribute to Octavius V. Catto. Philadelphia hosting All-Star for first time since 1976 (50-year wait). Full week: Draft July 11 (NBC/Peacock), MLBx July 12, HRD July 13 (Netflix), ASG July 14 (FOX).
+- **Content Produced:** Article (article-01, Ryan Calloway), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - HBCU Swingman Classic recap
+  - Draft Day coverage July 11
+
+### Story 2: Home Run Derby — Harper Confirmed at Home, 6 of 8 Set, Schwarber TBD
+- **Date:** 2026-07-10
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Derby build-up since July 9; new angle: Bryce Harper confirmed, 6 of 8 spots filled, Schwarber Mattingly gaffe)
+- **Angle:** 6 confirmed: Caminero (Rays), Rice (Yankees, dad Dan pitching), Caglianone (Royals), Contreras (Red Sox), Walker (Cardinals), Harper (Phillies — 2018 champ at home park). 2 spots open. Schwarber (31 HR MLB leader) strong lean YES — Mattingly accidentally confirmed then backtracked; Schwarber said answer expected "next day or so." Derby July 13, Netflix, 8 PM ET. Format: 20 swings R1, 15 knockout/final, last-swing extension.
+- **Content Produced:** Article (article-02, Marcus Cole), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Schwarber official confirmation
+  - Remaining 2 Derby spots
+  - Derby results July 13
+
+### Story 3: MLB Draft TOMORROW — Cholowsky vs. Emerson to the Wire at No. 1
+- **Date:** 2026-07-10
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Draft preview since July 9; final-day preview, no White Sox signal leaked)
+- **Angle:** Draft July 11 at Pennsylvania Convention Center, 1 PM ET, NBC/Peacock. White Sox No. 1 (first since Baines 1977). Mayo odds: Cholowsky (UCLA SS) 50%, Emerson (Texas prep SS) 45%, Lackey (Georgia Tech C) wild card. No signal leaked; decision in final hours.
+- **Content Produced:** Article (article-03, Jake Torres), 1 X post, FB long-form + caption, Image concept
+- **Follow-Up Opportunities:**
+  - Draft Day No. 1 pick announcement July 11
+  - White Sox prospect reaction
+
+### Story 4: Tyler Tolbert Ties 12-Consecutive-Hits MLB Record
+- **Date:** 2026-07-10
+- **Tier:** 2
+- **Classification:** NEW STORY (occurred July 7-8; first coverage)
+- **Angle:** Royals OF Tyler Tolbert tied MLB record of hits in consecutive plate appearances (12) across July 7 (5-for-5 vs Phillies) and July 8 (5-for-6 in 16-12 win vs Mets). 12th hit: infield single 7th inning. Flied out in 9th. Bat to Hall of Fame. Previous holders: Kling (1902), Higgins (1938), Dropo (1952), Miranda (2024). Also tied back-to-back 5-hit game record (Clemente 1970, Myers 1917).
+- **Content Produced:** Article (article-04, Ryan Calloway), 1 X post, FB long-form + caption, Image concept
+- **Follow-Up Opportunities:**
+  - Royals second-half
+
+### Story 5: Skubal Trade Watch — 24 Days to the August 3 Deadline
+- **Date:** 2026-07-10
+- **Tier:** 2
+- **Classification:** FOLLOW UP (trade watch since July 9; deadline corrected to August 3 per MLB.com)
+- **Angle:** 24 days to August 3 deadline. Braves frontrunner (Strider on IL, best NL record). Tigers 30-44 but best AL record since June — complicating sale. Skubal quote: "play better baseball or else." Yankees out ("No chance. None."). Asking price: 2 top-10 prospects in acquiring team, 1 top-100 nationally. Braves top prospects: Ritchie + Caminiti.
+- **Content Produced:** Article (article-05, Marcus Cole), 1 X post, FB long-form + caption, Image concept
+- **Follow-Up Opportunities:**
+  - Trade deadline August 3
+  - Braves postseason rotation
+
+---
+
 ## 2026-07-09
 
 ### Story 1: All-Star Week Philadelphia Starts Tomorrow — 50-Year Wait
