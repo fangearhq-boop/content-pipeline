@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-07-10
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch x6 searches), brief (5 stories), research notes, story analysis, X posts (6; 1 char violation fixed Story 2 tweet 282→262; 0 violations after fix), FB posts (5 stories), image concepts (5 stories), image manifest (8 items, not_started), articles (5), fact-check (61 claims, 0 char violations), compile (5 stories, 6 tweets, 5 articles, 21 items), dashboard (21 items), PostPlanner exports (6 posts each). WordPress 403 (proxy sandbox — known). Dashboard push 403 (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected — proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started). PostPlanner FB 0 posts (format — known). 1 char violation fixed (Story 2 tweet 282→262).
+- **Key Stories**: Utah Talons 7-game win streak/14-5 first place/10 games left/No. 1 seed bye to Championship Series/tonight AUSL doubleheader Blaze-Volts+Bandits-Cascade (Tier 1 FOLLOW UP), MLBx All-Star 3-on-3 THIS SUNDAY/Citizens Bank Park/Peacock/NFL confirmed DeVonta Smith+Terrell Owens join (Tier 1 FOLLOW UP), Patty Gasso ESPNU broadcast debut Thursday/back Saturday/Lonni Alameda joins Saturday (Tier 2 FOLLOW UP), Megan Grant ESPYS 5 days/42 HR 31-year record/vs Garrett+Klæbo+Sawe/vote ESPN.com July 15 8PM ABC (Tier 2 FOLLOW UP), PGF Nationals 9 days/Roster freeze 3 days July 13/automatic releases active July 1/September 1 53 days (Tier 3 FOLLOW UP)
+
+## Last Run
 - **Date**: 2026-07-09
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via agent, 8 searches), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (10 items, not_started), articles (5), fact-check (49 claims, 0 char violations), compile (5 stories, 6 tweets, 0 FB posts parsed — known format, 5 articles, 21 items), dashboard (21 items), PostPlanner exports (6 posts each). WordPress 403 (proxy sandbox — known). Dashboard push 403 (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected — proxy known restriction).
@@ -9,7 +17,7 @@
 - **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started). PostPlanner FB 0 posts (format — known). 0 char violations. Andruw Jones correction (yesterday's Chipper Jones medium-confidence reference corrected to Andruw Jones per today's research).
 - **Key Stories**: Utah Talons 13-5 first place/Montana Fouts AUSL single-game K record 12 Ks vs Volts/Bandits 10-7 6-game streak/tonight Talons vs Spark 8PM ET Tom Heath Field/Gasso+Alameda to AUSL booth (Tier 1 NEW), MLBx All-Star 3-on-3 3 days away/format deep dive: 3 innings/2-min at-bat/HR+catch=1pt/hot streak=2x/Brito+Jennings+Garcia+Canady vs Howard+Rollins+Victorino+Jones (Tier 1 FOLLOW UP), Gasso+Alameda AUSL broadcast booth/8 national titles/Gasso Oklahoma/Alameda ULL (Tier 2 NEW), Megan Grant ESPYS 6 days/42 HR 31-year record/vs Garrett+Klæbo+Sawe/vote ESPN.com July 15 8PM ABC (Tier 2 FOLLOW UP), PGF Nationals 10 days/Roster freeze 4 days July 13/September 1 54 days (Tier 3 FOLLOW UP)
 
-## Last Run
+## Previous Run
 - **Date**: 2026-07-08
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch + agent x2), brief (5 stories), research notes, story analysis, X posts (7; format fixed to #### Text Post — TIME ET; 0 char violations), FB posts (5 stories with ### STORY N: headers), image concepts (5 stories), image manifest (10 items, not_started), articles (5), fact-check (50 claims, 0 char violations), compile (5 stories, 7 tweets, 0 FB posts parsed — known format, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts each). WordPress 403 (proxy sandbox — known). Dashboard push 403 (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected — proxy known restriction).

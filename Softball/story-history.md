@@ -3,6 +3,58 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## July 10, 2026
+
+### Story 1: Utah Talons Win 7th Straight — 10 Games Left in AUSL Regular Season
+- **Date:** 2026-07-10
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Talons 13-5 in first place July 9; new angle: 7-game win streak confirmed, now 14-5, 10 games left, No. 1 seed earns bye to Championship Series)
+- **Angle:** Talons beat Oklahoma City Spark Thursday night to extend win streak to 7; now 14-5 first place. 10 games left before July 20 regular season end. No. 1 seed earns direct bye to Championship Series (July 25-27). Tonight doubleheader: Blaze vs Volts 7 PM ET Dell Diamond / Bandits vs Cascade 9:30 PM ET Hillsboro Ballpark.
+- **Content Produced:** Article (article-01, Jordan Reeves), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Tonight's Blaze/Volts and Bandits/Cascade results
+  - AUSL final standings and No. 1 seed battle
+  - Talons in playoff round
+
+### Story 2: MLBx All-Star 3-On-3 Is SUNDAY — NFL Stars Confirmed
+- **Date:** 2026-07-10
+- **Tier:** 1
+- **Classification:** FOLLOW UP (announced July 8, format covered July 9; new angle: NFL stars DeVonta Smith + Terrell Owens now confirmed)
+- **Angle:** MLBx All-Star 3-on-3 is Sunday July 12 at Citizens Bank Park on Peacock. AUSL: Brito/Jennings/Garcia/Canady. MLB: Howard/Rollins/Victorino/Andruw Jones. NFL additions: DeVonta Smith + Terrell Owens confirmed.
+- **Content Produced:** Article (article-02, Sarah Mitchell), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - MLBx results July 12
+
+### Story 3: Patty Gasso Made Her Broadcast Debut Last Night
+- **Date:** 2026-07-10
+- **Tier:** 2
+- **Classification:** FOLLOW UP (announced July 9; new angle: Gasso debuted Thursday on ESPNU, back Saturday July 12; Lonni Alameda joins Saturday)
+- **Angle:** Gasso made broadcast debut Thursday night on ESPNU. 8 national titles. Back in booth Saturday. Lonni Alameda (Louisiana-Lafayette) also joins Saturday broadcast. Two most decorated coaches in softball history calling the best players.
+- **Content Produced:** Article (article-03, Emily Rawlings), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Broadcast reaction / fan response
+
+### Story 4: Megan Grant ESPYS — 5 Days to Vote
+- **Date:** 2026-07-10
+- **Tier:** 2
+- **Classification:** FOLLOW UP (daily countdown since July 4; updated to 5 days)
+- **Angle:** 5 days left to vote (closes July 15 8 PM ET ABC ESPYs). 42 HR broke 31-year record (Espinoza/Arizona 1995). 91 career HR UCLA (passed Nuveman). Now Portland Cascade No. 4 overall pick. Competitors: Garrett/Klæbo/Sawe. Vote once/day ESPN.com.
+- **Content Produced:** Article (article-04, Jordan Reeves), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - ESPYS results July 15
+
+### Story 5: PGF Nationals — 9 Days, Roster Freeze in 3 Days
+- **Date:** 2026-07-10
+- **Tier:** 3
+- **Classification:** FOLLOW UP (summer calendar since June 30; yesterday was 10 days)
+- **Angle:** PGF July 19 Great Park Irvine. Roster freeze July 13 (3 days) at 11:59 PM PST. Automatic releases active since July 1. Portal through July 31. September 1 contact window = 53 days (2028 class). 18U and 16U Week One.
+- **Content Produced:** Article (article-05, Sarah Mitchell), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - PGF Week 1 results
+  - September 1 2028 class contact window
+
+---
+
 ## July 9, 2026
 
 ### Story 1: Utah Talons Lead the AUSL — Montana Fouts Sets League Strikeout Record With 12 Ks
