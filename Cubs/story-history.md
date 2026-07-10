@@ -5,6 +5,68 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-10
+
+### STORY 1: Orioles 3, Cubs 2 — Game 3 Recap
+- **Angle:** FOLLOW UP (Rolison gave up go-ahead two-run double to Jackson in 8th; Suzuki drove in both Cubs runs; Cubs still took series 2-of-3; record 52-41; now on to Cincinnati)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - Cubs bullpen health/usage entering Cincinnati series
+  - Rolison role going forward
+
+### STORY 2: Cubs at Reds — Game 1 Series Preview
+- **Angle:** NEW STORY (is_series_start_today=true; Cubs [52-41, NL WC leaders] at Reds [42-50]; Great American Ball Park; 6:10 PM CT; Imanaga starts; series the Cubs need to win)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, series preview)
+- **Follow-Up Opportunities:**
+  - Game 1 result and Imanaga performance
+  - Series outcome vs weaker opponent
+
+### STORY 3: PCA — First 20/20 of 2026, All-Star Bound
+- **Angle:** FOLLOW UP (21 HR; first player in 2026 with 20 HR + 20 SB; MLB-leading WAR ~5.8; lone Cubs All-Star; July 14 Philadelphia; bold take: best player in baseball right now)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, feature/bold take)
+- **Follow-Up Opportunities:**
+  - PCA All-Star Game performance (July 14, Philadelphia)
+  - PCA stats entering second half
+  - 30/30 pace tracking through end of July
+
+### STORY 4: Wild Card Standings — Cubs Leading the Race
+- **Angle:** FOLLOW UP (Cubs 52-41 NL WC No. 1; Phillies and Marlins close behind; Cardinals have faded; Cubs from chasing to owning the race)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, standings analysis)
+- **Follow-Up Opportunities:**
+  - Wild card standings update post-All-Star break
+  - Phillies/Marlins series results
+
+### STORY 5: Reinforcements Coming — Taillon, Shaw, Maton
+- **Angle:** FOLLOW UP (Taillon: second rehab start this week, return expected ~July 17; Shaw: returns post-ASB, wrist sprain; Maton: healthy at Iowa, possible return this weekend or shortly after ASB)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, roster/injury update)
+- **Follow-Up Opportunities:**
+  - Taillon activation and return start date
+  - Shaw return to lineup
+  - Maton first appearance back
+
+### STORY 6: Trade Deadline — 24 Days, Joe Ryan
+- **Angle:** FOLLOW UP (August 3 deadline 24 days away; Joe Ryan [Twins, 3.36 ERA, through 2027] top fit; healthy rotation is partial answer not full answer; Hoyer call-to-action)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, analysis/bold take)
+- **Follow-Up Opportunities:**
+  - Any Ryan/Twins trade movement
+  - Alternative targets surfacing pre-deadline
+  - Post-ASB urgency update (~20 days left)
+
+### STORY 7: Pre-Game Hype — First Pitch in Cincinnati
+- **Angle:** NEW STORY (Imanaga vs Reds; Cubs 52-41, Reds 42-50; playoff teams win these series; punchy game-time tweet)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT, pre-game hype)
+- **Follow-Up Opportunities:**
+  - Game 1 result
+
+---
+
 ## 2026-07-09
 
 ### STORY 1: Cubs 9, Orioles 7 — Game 2 Recap
