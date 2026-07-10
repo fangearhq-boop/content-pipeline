@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-07-10
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-10 | T1 | Dybantsa Wins Vegas Debut — Out-Duels Peterson as Wizards Top Jazz 92-88 | X, FB, Article | FOLLOW UP |
+| 2026-07-10 | T1 | LeBron Free Agency — Warriors Clear Room After Draymond Opts Out, Cavs Still Lead | X, FB, Article | FOLLOW UP |
+| 2026-07-10 | T2 | Kawhi Leonard Trade to Toronto on Hold Pending NBA Investigation into Clippers | X, FB, Article | FOLLOW UP |
+| 2026-07-10 | T2 | Ayo Dosunmu Agrees to 5yr/$112M to Stay With Timberwolves | X, FB, Article | NEW |
+| 2026-07-10 | T2 | Jokić Confirms He'll Wait for $359M Extension With Nuggets Next Summer | X, FB, Article | NEW |
+
+### STORY 1: Dybantsa Wins Vegas Debut — Wizards Top Jazz 92-88
+- **Tier:** 1
+- **Category:** NBA Summer League / Rookies
+- **Key facts:** Dybantsa 27 pts/7 reb/2 ast/2 stl/1 blk; 0/5 from three; Peterson 24 pts/8 turnovers; Wizards 92-88; Thomas and Mack Center; July 9 game
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Round 2 Dybantsa vs Peterson; Summer League standings; Wizards/Jazz playoff bracket
+
+### STORY 2: LeBron Free Agency — Warriors Clear Room After Draymond Opts Out
+- **Tier:** 1
+- **Category:** NBA Free Agency / LeBron James
+- **Key facts:** Draymond declined $27.7M option to create Warriors flexibility; LeBron left Lakers; shortlist Warriors/Cavs/76ers/Heat/Wolves/Nuggets; Cavs still front-runner per Windhorst; mid-July decision timeline; Curry/LeBron Olympic gold 2024
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** LeBron announces destination; Warriors/Cavs/76ers next steps
+
+### STORY 3: Kawhi Leonard Trade to Toronto on Hold
+- **Tier:** 2
+- **Category:** NBA Trades / Investigation
+- **Key facts:** Trade terms: Ingram+Dick+2 firsts+2 seconds+swaps; NBA investigating $28M endorsement deal with Aspiration Fund Adviser LLC (bankrupt); Clippers deny; outside counsel; no timetable
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Investigation concludes; trade cleared or complicated; Clippers punishment
+
+### STORY 4: Ayo Dosunmu 5yr/$112M With Timberwolves
+- **Tier:** 2
+- **Category:** NBA Free Agency / Timberwolves
+- **Key facts:** 5yr/$112M, player option yr 5; 24 games 14.4 ppg 2025-26; 15.6 ppg 10-game playoff run; 43 pts off bench vs Nuggets Game 4; DiVincenzo torn Achilles; agents Lindeman/Schwartz Excel Sports
+- **Status:** NEW
+- **Follow-up ideas:** Dosunmu fits with LaMelo; Edwards-Dosunmu chemistry; Wolves title window
+
+### STORY 5: Jokić Confirms $359M Extension Next Summer
+- **Tier:** 2
+- **Category:** NBA Extensions / Nuggets
+- **Key facts:** Three-time MVP; quote "My idea and desire is to stay in Denver. I'll probably sign next year"; $278M available now; $359.5M + no-trade clause if waits; ~$81M more by waiting
+- **Status:** NEW
+- **Follow-up ideas:** Jokić signs record deal 2027; Nuggets roster around unsigned Jokić; $359M precedent
+
 ## 2026-07-09
 
 | Date | Tier | Story | Platforms | Status |

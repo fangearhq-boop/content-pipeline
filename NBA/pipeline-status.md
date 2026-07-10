@@ -1,10 +1,21 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Last Run
-- **Date**: 2026-07-09
+- **Date**: 2026-07-10
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-10
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce, Jake Torres)
+- **PostPlanner exports:** hh-postplanner-2026-07-10.xlsx (7 posts) + hh-postplanner-tobi-2026-07-10.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-07-10/review-dashboard.html (27 items)
+- **Notes:** NBA SUMMER LEAGUE DAY 2 / FREE AGENCY — Dybantsa 27 pts wins debut vs Peterson 24/Wizards 92-88; LeBron still undecided/Draymond declined $27.7M option/Warriors all-in; Kawhi-to-Toronto trade frozen by NBA investigation (Clippers $28M Aspiration Fund probe); Dosunmu 5yr/$112M stays with Timberwolves (43 pts off bench vs Nuggets last playoffs); Jokić confirms waiting for $359.5M NBA-record extension next summer
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-09
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
