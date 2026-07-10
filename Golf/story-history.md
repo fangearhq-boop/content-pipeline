@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-07-10
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-10 | T1 | Scottish Open R1 — McIlroy's "Liberated" 65 Headlines Five-Way Tie; Rahm +3 Disaster | X, FB, Article | FOLLOW UP |
+| 2026-07-10 | T1 | Evian Championship R2 Underway — Iwai Leads at -8, Korda at +3 and 11 Back | X, FB, Article | FOLLOW UP |
+| 2026-07-10 | T1 | LIV Golf Files WARN Act Layoff Notices as $400M Crisis Deepens | X, FB, Article | FOLLOW UP |
+| 2026-07-10 | T2 | Open Championship Preview — Royal Birkdale Rebuilt Since 2017, 154th Open 6 Days Away | X, FB, Article | NEW |
+| 2026-07-10 | T2 | Rahm's Nightmare Return — T137 at Scottish Open, Won't Rule Out Personal LIV Investment | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Scottish Open R1 — McIlroy Leads, Rahm Disaster
+- **Tier:** 1
+- **Category:** PGA Tour / DP World Tour / Scottish Open
+- **Key facts:** Genesis Scottish Open, Renaissance Club, North Berwick; $9M (Rolex Series); July 9-12; R1 five-way tie at -5 (65): McIlroy, Cantlay, Tom Kim, Hojgaard, Wiesberger; McIlroy bogey-free 65, eagle par-5 10th, "very liberated" since 2025 Masters Grand Slam, "a complete performance" (Sky Sports); Koepka -4 (66) T6 — 14 greens, 7 birdies, missed 4 putts inside 7 feet, near hole-in-one par-3 9th; Scheffler -2 (68), 3 back, admitted something "hurt" him; Rahm +3 (73) T137, beat only 12 players, bogeyed par-5 1st, 4 bogeys in first 11 holes; Hojgaard: solo lead late → double-bogey 16th → birdie 17th to rejoin tie; cut line projected ~-1
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R2/R3/R4 results; McIlroy as Open favorite; Rahm cut miss
+
+### STORY 2: Evian R2 — Iwai Leads, Korda Needs Miracle
+- **Tier:** 1
+- **Category:** LPGA / Evian Championship
+- **Key facts:** Amundi Evian Championship, Evian Resort Golf Club, France; $9.1M; July 9-12; R1 leader: Aki Iwai (Japan, World No. 24) -8 (63), bogey-free 8 birdies, leads by 2; R1 T2: Perrine Delacour (France, World No. 116) -6 (65) — eagle par-5 15th, best French R1 in Evian history; R1 T3: Charley Hull, Jeongeun Im, Mao Saigo, Haeran Ryu, Maja Stark — all -5 (66); R1 T8: Lottie Woad -4 (67) — 20-foot eagle on par-5 9th; Korda +3 (74), 11 back; Korda career Grand Slam needs Evian + AIG Women's British Open; R2 in progress
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R2/R3/R4 leaderboard; Korda comeback; Iwai win (2nd LPGA title); Delacour home story
+
+### STORY 3: LIV Golf WARN Act Layoff Notices
+- **Tier:** 1
+- **Category:** LIV Golf / Business / Crisis
+- **Key facts:** LIV Golf filed WARN Act notices July 8-9 (U.S. law: 60 days advance notice of likely mass layoffs for 100+ employee companies); PIF committed ~$600M for 2026 remainder, delivered ~$200M ($66M May + $130M June), $400M gap; CEO Scott O'Neil cannot guarantee final 2 events; Jon Rahm "refuses to rule out investing own money" to save LIV (Golf Monthly); World Golf Group and Premier Golf League suing LIV for $210M-$630M (breach of confidence, unlawful means conspiracy); Ducera Partners seeking $250M-$350M investor; revenue doubled 2024→2025; 3-year profitability target under 10-event schedule; total PIF outlay $5B+; last result: Lucas Herbert wins LIV Virginia -24 by 4 shots/$4M
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** WARN Act 60-day deadline (September?); investor deal or event cancellations; player responses
+
+### STORY 4: Open Championship Preview — Royal Birkdale Rebuilt
+- **Tier:** 2
+- **Category:** The Open Championship / Royal Birkdale
+- **Key facts:** 154th Open Championship; July 16-19; Royal Birkdale Golf Club, Southport; 156 players; course rebuilt by Mackenzie & Howard since 2017: naturalized bunkering, exposed sand dunescape, par-4 5th blind shot eliminated, new par-3 15th (241 yards); Scheffler +550 defending (won 2025 Royal Portrush), would be first back-to-back Open since Tiger 2005-06, hasn't won since January 2026; McIlroy +850, "liberated" since 2025 Masters Grand Slam, co-leads Scottish Open; Spieth won 2017 Birkdale, skipped Scottish Open to prep at Birkdale; Fleetwood +1400, Southport native, skipped Scottish Open; LCQ July 13 at Birkdale (12 players, 1 spot); 300,000+ attendance
+- **Status:** NEW
+- **Follow-up ideas:** LCQ result July 13; Open Championship R1-R4; Scheffler back-to-back bid
+
+### STORY 5: Rahm's Nightmare Return
+- **Tier:** 2
+- **Category:** PGA Tour / DP World Tour / Rahm / LIV
+- **Key facts:** Rahm +3 (73), T137, beat only 12 players; first co-sanctioned PGA Tour start outside majors since LIV January 2024; bogeyed par-5 1st; 4 more bogeys first 11 holes; back-to-back birdies 15-16 only positives; cut line projected -1, Rahm needs miracle R2; McIlroy: "Great for the tournament"; after disaster result: told media won't rule out personal investment in LIV Golf; agreement for return: paid DP World Tour fines, committed to DP events remainder 2026, Scottish Open = 5th qualifying event = "member in good standing" = Ryder Cup eligibility reopened
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Rahm R2 score; likely misses cut; Ryder Cup eligibility implications; LIV personal investment follow-up
+
 ## 2026-07-09
 
 | Date | Tier | Story | Platforms | Status |

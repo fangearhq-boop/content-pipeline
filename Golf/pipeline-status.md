@@ -1,10 +1,21 @@
 # Golf Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-07-09
+- **Date**: 2026-07-10
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-10
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 7 written, all under 280 characters (3 tweets shortened after verify-facts char limit check)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** gfr-postplanner-2026-07-10.xlsx (7 posts) + gfr-postplanner-tobi-2026-07-10.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-07-10/review-dashboard.html (10 items)
+- **Notes:** Scottish Open R1 complete: McIlroy bogey-free 65 co-leads at -5 with Cantlay/Tom Kim/Hojgaard/Wiesberger — "very liberated" since 2025 Masters Grand Slam; Koepka -4 (66) 7 birdies/missed 4 putts <7 feet; Scheffler -2 (68) 3 back; Rahm +3 (73) T137 beats only 12 players, bogeyed par-5 1st, 4 bogeys first 11 holes; Evian R1: Iwai -8 (63) bogey-free leads by 2/Delacour (France) -6 (65) best French R1 in Evian history/Korda +3 (74) 11 back, career Grand Slam bid in jeopardy; LIV Golf WARN Act layoff notices filed July 8-9 — $400M PIF gap/$210M-$630M lawsuits/Rahm won't rule out personal investment/CEO can't guarantee final 2 events; Open Championship 6 days away July 16-19 Royal Birkdale rebuilt (new par-3 15th 241yds/5th blind shot eliminated/naturalized bunkering)/Scheffler defending/McIlroy liberated/Spieth prepping at Birkdale/LCQ July 13; Rahm analysis: T137 first co-sanctioned return, Ryder Cup eligibility implications, personal LIV investment comment
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-09
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

@@ -1,0 +1,137 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-10",
+  "compiled_at": "2026-07-10T11:46:42.630465+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "McIlroy's \"Liberated\" 65 Headlines Five-Way Scottish Open Tie — Rahm Return Turns Into Disaster",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-01-mcilroy-scottish-open-lead-rahm-disaster.html",
+        "headline": "McIlroy's \"Liberated\" 65 Headlines Five-Way Scottish Open Tie — Rahm's Return Turns Into Disaster",
+        "word_count": 853
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Evian R2 Underway — Korda at +3, 11 Back, Needs Miracle",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-02-evian-r2-korda-comeback-iwai-leads.html",
+        "headline": "Iwai's Dominant 63 Leads Evian Championship — Korda 11 Back as Grand Slam Hopes Dim",
+        "word_count": 690
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "LIV Golf Files WARN Act Layoff Notices — Crisis Reaches Breaking Point",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-03-liv-golf-warn-act-layoffs-collapse.html",
+        "headline": "LIV Golf Files Layoff Notices as $400M Crisis Deepens — Rahm Won't Rule Out Personal Investment",
+        "word_count": 770
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Six Days Away — Royal Birkdale and a Rebuilt Course Host the 154th Open Championship",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-04-open-championship-royal-birkdale-preview.html",
+        "headline": "Six Days Out: Royal Birkdale Has Been Rebuilt — Here's What the 154th Open Championship Field Will Find",
+        "word_count": 778
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Rahm's +3 Nightmare — Why the Scottish Open Return Fell Apart Immediately",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-05-rahm-nightmare-return-scottish-open.html",
+        "headline": "T137: Rahm's Return to the PGA Tour World Started With a Nightmare Round — and He Still Won't Walk Away From LIV",
+        "word_count": 834
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 0,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No X/Twitter posts found",
+      "Story 1: No Facebook posts found",
+      "Story 1: No posting window specified",
+      "Story 2: No X/Twitter posts found",
+      "Story 2: No Facebook posts found",
+      "Story 2: No posting window specified",
+      "Story 3: No X/Twitter posts found",
+      "Story 3: No Facebook posts found",
+      "Story 3: No posting window specified",
+      "Story 4: No X/Twitter posts found",
+      "Story 4: No Facebook posts found",
+      "Story 4: No posting window specified",
+      "Story 5: No X/Twitter posts found",
+      "Story 5: No Facebook posts found",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
