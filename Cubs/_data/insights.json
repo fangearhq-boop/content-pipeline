@@ -1,16 +1,43 @@
 {
-  "generated_at": "2026-07-09T08:30:00.301642+00:00",
+  "generated_at": "2026-07-10T08:30:00.252057+00:00",
   "account": "cubs",
   "window_days": 21,
   "tweet_count": 76,
   "measured_tweet_count": 75,
-  "measured_median_impressions": 62,
-  "measured_mean_impressions": 73.48,
-  "median_impressions": 61.5,
-  "mean_impressions": 72.51,
+  "measured_median_impressions": 57,
+  "measured_mean_impressions": 68.03,
+  "median_impressions": 57.0,
+  "mean_impressions": 67.13,
   "max_impressions": 322,
-  "significant_findings": [],
-  "significant_findings_note": "No contrasts cleared all three gates (n>=8 per group, p<0.05, |Cliff's delta|>=0.2). Either too little data or no format/time differences are large enough yet.",
+  "significant_findings": [
+    {
+      "dimension": "posting_window=midday_12_18",
+      "kind": "time_window_vs_rest",
+      "winner": "midday_12_18",
+      "loser": "not_midday_12_18",
+      "median_impressions_winner": 63.0,
+      "median_impressions_loser": 26,
+      "n_winner": 48,
+      "n_loser": 27,
+      "p_value": 0.027,
+      "effect_size_cliffs_delta": 0.307,
+      "effect_size_label": "small"
+    },
+    {
+      "dimension": "posting_window=morning_06_12",
+      "kind": "time_window_vs_rest",
+      "winner": "not_morning_06_12",
+      "loser": "morning_06_12",
+      "median_impressions_winner": 63.0,
+      "median_impressions_loser": 26,
+      "n_winner": 48,
+      "n_loser": 27,
+      "p_value": 0.027,
+      "effect_size_cliffs_delta": 0.307,
+      "effect_size_label": "small"
+    }
+  ],
+  "significant_findings_note": null,
   "methodology": {
     "test": "Mann-Whitney U (two-sided, tie-corrected, normal approximation with continuity correction)",
     "effect_size": "Cliff's delta",
@@ -25,25 +52,16 @@
     "by_hour_ct": {
       "15": {
         "n": 11,
-        "mean": 77.45,
+        "mean": 72.09,
         "median": 61,
         "top": {
           "impressions": 161,
           "text": "Matthew Boyd starts tonight \u2014 first appearance since May 3.\n\nHe needed minor knee surgery after a freak injury playing with his kids. Seven weeks later, he's back.\n\nCounsell called it \"a big deal.\" With five starters shelved, he's not wrong"
         }
       },
-      "14": {
-        "n": 8,
-        "mean": 64.12,
-        "median": 64.5,
-        "top": {
-          "impressions": 111,
-          "text": "Jaxon Wiggins \u2014 elbow inflammation after just 2 Iowa starts.\n\nThe Cubs' top pitching prospect was supposed to add rotation depth down the line. Five starters already on the IL. This depth chart is getting thinner by the week.\n\n#Cubs #MLB #C"
-        }
-      },
       "12": {
         "n": 13,
-        "mean": 83.31,
+        "mean": 79.08,
         "median": 81,
         "top": {
           "impressions": 185,
@@ -51,27 +69,27 @@
         }
       },
       "10": {
-        "n": 2,
+        "n": 3,
         "mean": 0,
-        "median": 0.0,
+        "median": 0,
         "top": {
           "impressions": 0,
-          "text": "The MLB Trade Deadline is August 3 \u2014 26 days away.\n\nJoe Ryan (Twins): 3.36 ERA, 2.82 FIP, 104 IP. Not a rental \u2014 he's under control through 2027.\n\nThe Cubs have five starters on the IL. Ryan is the rotation anchor they need. Time to make a "
+          "text": "Series finale at Camden Yards. 12:35 PM CT.\n\nThe Cubs already own this series. Today they go for the sweep.\n\nDavid Peterson takes the mound against Trevor Rogers. Baltimore is 42-51. The Cubs are rolling.\n\nFinish it.\n\n#Cubs #GoCubs #FlyTheW"
         }
       },
       "9": {
-        "n": 5,
-        "mean": 65,
-        "median": 26,
+        "n": 6,
+        "mean": 54.17,
+        "median": 13.0,
         "top": {
           "impressions": 178,
           "text": "The Cubs' rotation runs on duct tape \u2014 and somehow it keeps working.\n\nDavid Peterson: 5.2 IP, 2 ER in his debut Saturday. Jaxon Wiggins: 2\u2154 rehab innings at High-A on Sunday, expected back at Iowa soon.\n\n35 days until Jed Hoyer's deadline.\n"
         }
       },
       "8": {
-        "n": 3,
-        "mean": 19.67,
-        "median": 0,
+        "n": 4,
+        "mean": 14.75,
+        "median": 0.0,
         "top": {
           "impressions": 59,
           "text": "Series W at American Family Field.\n\nCubs 4, Brewers 3 in 10 \u2014 Suzuki singled home two runs in the 10th, Wicks got the final out on a bases-loaded double play. Cubs take 2-of-3 in Milwaukee.\n\nCubs are 46-38. Padres in town tonight.\n\n#Cubs #G"
@@ -79,17 +97,26 @@
       },
       "7": {
         "n": 14,
-        "mean": 82.36,
+        "mean": 78.79,
         "median": 72.0,
         "top": {
           "impressions": 322,
           "text": "Cubs open a 3-game home series vs the Blue Jays at Wrigley, 1:20 PM CT.\n\nBen Brown (3-2, 1.74 ERA) takes the ball against Kevin Gausman (4-4, 3.41 ERA).\n\nTwo teams within a game of each other \u2014 every win matters in this wild card chase.\n\n#C"
         }
       },
+      "14": {
+        "n": 7,
+        "mean": 60.43,
+        "median": 62,
+        "top": {
+          "impressions": 111,
+          "text": "Jaxon Wiggins \u2014 elbow inflammation after just 2 Iowa starts.\n\nThe Cubs' top pitching prospect was supposed to add rotation depth down the line. Five starters already on the IL. This depth chart is getting thinner by the week.\n\n#Cubs #MLB #C"
+        }
+      },
       "17": {
-        "n": 11,
-        "mean": 69.09,
-        "median": 57,
+        "n": 10,
+        "mean": 67,
+        "median": 56.5,
         "top": {
           "impressions": 168,
           "text": "Game 1 of a 4-game road series at Citi Field \u2014 6:10 PM CT first pitch.\n\nCubs (40-37) vs. Mets (34-43). Four games against a team with a losing record. This is exactly the kind of series a wild card contender has to win.\n\nImanaga. Let's work"
@@ -105,9 +132,9 @@
         }
       },
       "13": {
-        "n": 7,
-        "mean": 94.71,
-        "median": 92,
+        "n": 6,
+        "mean": 99.67,
+        "median": 105.5,
         "top": {
           "impressions": 147,
           "text": "Pete Crow-Armstrong in June: 10 HRs. .867 slugging. 20 games.\n\nHe's not on a hot streak. He's in the middle of one of the best offensive months in Cubs history. The 24-year-old center fielder is CARRYING this team right now.\n\n#Cubs #GoCubs "
@@ -115,6 +142,15 @@
       }
     },
     "by_weekday_ct": {
+      "Thu": {
+        "n": 12,
+        "mean": 44.5,
+        "median": 20.0,
+        "top": {
+          "impressions": 161,
+          "text": "Matthew Boyd starts tonight \u2014 first appearance since May 3.\n\nHe needed minor knee surgery after a freak injury playing with his kids. Seven weeks later, he's back.\n\nCounsell called it \"a big deal.\" With five starters shelved, he's not wrong"
+        }
+      },
       "Wed": {
         "n": 11,
         "mean": 34.64,
@@ -168,22 +204,13 @@
           "impressions": 322,
           "text": "Cubs open a 3-game home series vs the Blue Jays at Wrigley, 1:20 PM CT.\n\nBen Brown (3-2, 1.74 ERA) takes the ball against Kevin Gausman (4-4, 3.41 ERA).\n\nTwo teams within a game of each other \u2014 every win matters in this wild card chase.\n\n#C"
         }
-      },
-      "Thu": {
-        "n": 12,
-        "mean": 78.58,
-        "median": 62.0,
-        "top": {
-          "impressions": 161,
-          "text": "Matthew Boyd starts tonight \u2014 first appearance since May 3.\n\nHe needed minor knee surgery after a freak injury playing with his kids. Seven weeks later, he's back.\n\nCounsell called it \"a big deal.\" With five starters shelved, he's not wrong"
-        }
       }
     },
     "by_content_type": {
       "brief": {
         "n": 75,
-        "mean": 73.48,
-        "median": 62,
+        "mean": 68.03,
+        "median": 57,
         "top": {
           "impressions": 322,
           "text": "Cubs open a 3-game home series vs the Blue Jays at Wrigley, 1:20 PM CT.\n\nBen Brown (3-2, 1.74 ERA) takes the ball against Kevin Gausman (4-4, 3.41 ERA).\n\nTwo teams within a game of each other \u2014 every win matters in this wild card chase.\n\n#C"
@@ -191,6 +218,15 @@
       }
     },
     "by_opening": {
+      "statement": {
+        "n": 59,
+        "mean": 68.78,
+        "median": 57,
+        "top": {
+          "impressions": 322,
+          "text": "Cubs open a 3-game home series vs the Blue Jays at Wrigley, 1:20 PM CT.\n\nBen Brown (3-2, 1.74 ERA) takes the ball against Kevin Gausman (4-4, 3.41 ERA).\n\nTwo teams within a game of each other \u2014 every win matters in this wild card chase.\n\n#C"
+        }
+      },
       "stat_lead": {
         "n": 8,
         "mean": 81.62,
@@ -198,15 +234,6 @@
         "top": {
           "impressions": 147,
           "text": "Pete Crow-Armstrong in June: 10 HRs. .867 slugging. 20 games.\n\nHe's not on a hot streak. He's in the middle of one of the best offensive months in Cubs history. The 24-year-old center fielder is CARRYING this team right now.\n\n#Cubs #GoCubs "
-        }
-      },
-      "statement": {
-        "n": 59,
-        "mean": 75.71,
-        "median": 64,
-        "top": {
-          "impressions": 322,
-          "text": "Cubs open a 3-game home series vs the Blue Jays at Wrigley, 1:20 PM CT.\n\nBen Brown (3-2, 1.74 ERA) takes the ball against Kevin Gausman (4-4, 3.41 ERA).\n\nTwo teams within a game of each other \u2014 every win matters in this wild card chase.\n\n#C"
         }
       },
       "allcaps_lead": {
@@ -221,18 +248,18 @@
     },
     "by_len_bucket": {
       "260+": {
-        "n": 30,
-        "mean": 83.43,
-        "median": 61.5,
+        "n": 31,
+        "mean": 73.03,
+        "median": 57,
         "top": {
           "impressions": 322,
           "text": "Cubs open a 3-game home series vs the Blue Jays at Wrigley, 1:20 PM CT.\n\nBen Brown (3-2, 1.74 ERA) takes the ball against Kevin Gausman (4-4, 3.41 ERA).\n\nTwo teams within a game of each other \u2014 every win matters in this wild card chase.\n\n#C"
         }
       },
       "200-260": {
-        "n": 45,
-        "mean": 66.84,
-        "median": 62,
+        "n": 44,
+        "mean": 64.5,
+        "median": 60.5,
         "top": {
           "impressions": 147,
           "text": "Pete Crow-Armstrong in June: 10 HRs. .867 slugging. 20 games.\n\nHe's not on a hot streak. He's in the middle of one of the best offensive months in Cubs history. The 24-year-old center fielder is CARRYING this team right now.\n\n#Cubs #GoCubs "
@@ -242,8 +269,8 @@
     "by_hashtag_count": {
       "3": {
         "n": 75,
-        "mean": 73.48,
-        "median": 62,
+        "mean": 68.03,
+        "median": 57,
         "top": {
           "impressions": 322,
           "text": "Cubs open a 3-game home series vs the Blue Jays at Wrigley, 1:20 PM CT.\n\nBen Brown (3-2, 1.74 ERA) takes the ball against Kevin Gausman (4-4, 3.41 ERA).\n\nTwo teams within a game of each other \u2014 every win matters in this wild card chase.\n\n#C"
@@ -252,18 +279,18 @@
     },
     "by_has_score": {
       "False": {
-        "n": 35,
-        "mean": 69.8,
-        "median": 61,
+        "n": 34,
+        "mean": 65.68,
+        "median": 57.0,
         "top": {
           "impressions": 178,
           "text": "The Cubs' rotation runs on duct tape \u2014 and somehow it keeps working.\n\nDavid Peterson: 5.2 IP, 2 ER in his debut Saturday. Jaxon Wiggins: 2\u2154 rehab innings at High-A on Sunday, expected back at Iowa soon.\n\n35 days until Jed Hoyer's deadline.\n"
         }
       },
       "True": {
-        "n": 40,
-        "mean": 76.7,
-        "median": 64.5,
+        "n": 41,
+        "mean": 69.98,
+        "median": 59,
         "top": {
           "impressions": 322,
           "text": "Cubs open a 3-game home series vs the Blue Jays at Wrigley, 1:20 PM CT.\n\nBen Brown (3-2, 1.74 ERA) takes the ball against Kevin Gausman (4-4, 3.41 ERA).\n\nTwo teams within a game of each other \u2014 every win matters in this wild card chase.\n\n#C"
@@ -271,6 +298,15 @@
       }
     },
     "by_has_stat": {
+      "False": {
+        "n": 49,
+        "mean": 57.9,
+        "median": 48,
+        "top": {
+          "impressions": 185,
+          "text": "Back-to-back rainouts \u2014 Sunday at Wrigley, Monday at Citi Field \u2014 scrambled the Cubs' week.\n\nThe series opens TONIGHT: Imanaga vs. Senga at 6:10 PM CT. Wednesday is a doubleheader. Boyd returns Thursday. Four games in four days against a 34"
+        }
+      },
       "True": {
         "n": 26,
         "mean": 87.12,
@@ -279,22 +315,13 @@
           "impressions": 322,
           "text": "Cubs open a 3-game home series vs the Blue Jays at Wrigley, 1:20 PM CT.\n\nBen Brown (3-2, 1.74 ERA) takes the ball against Kevin Gausman (4-4, 3.41 ERA).\n\nTwo teams within a game of each other \u2014 every win matters in this wild card chase.\n\n#C"
         }
-      },
-      "False": {
-        "n": 49,
-        "mean": 66.24,
-        "median": 59,
-        "top": {
-          "impressions": 185,
-          "text": "Back-to-back rainouts \u2014 Sunday at Wrigley, Monday at Citi Field \u2014 scrambled the Cubs' week.\n\nThe series opens TONIGHT: Imanaga vs. Senga at 6:10 PM CT. Wednesday is a doubleheader. Boyd returns Thursday. Four games in four days against a 34"
-        }
       }
     },
     "by_has_emoji_first_line": {
       "False": {
         "n": 73,
-        "mean": 75.49,
-        "median": 62,
+        "mean": 69.89,
+        "median": 59,
         "top": {
           "impressions": 322,
           "text": "Cubs open a 3-game home series vs the Blue Jays at Wrigley, 1:20 PM CT.\n\nBen Brown (3-2, 1.74 ERA) takes the ball against Kevin Gausman (4-4, 3.41 ERA).\n\nTwo teams within a game of each other \u2014 every win matters in this wild card chase.\n\n#C"
@@ -312,18 +339,18 @@
     },
     "by_has_allcaps": {
       "True": {
-        "n": 58,
-        "mean": 74.16,
-        "median": 62.0,
+        "n": 59,
+        "mean": 68.49,
+        "median": 57,
         "top": {
           "impressions": 322,
           "text": "Cubs open a 3-game home series vs the Blue Jays at Wrigley, 1:20 PM CT.\n\nBen Brown (3-2, 1.74 ERA) takes the ball against Kevin Gausman (4-4, 3.41 ERA).\n\nTwo teams within a game of each other \u2014 every win matters in this wild card chase.\n\n#C"
         }
       },
       "False": {
-        "n": 17,
-        "mean": 71.18,
-        "median": 59,
+        "n": 16,
+        "mean": 66.31,
+        "median": 57.5,
         "top": {
           "impressions": 168,
           "text": "Game 1 of a 4-game road series at Citi Field \u2014 6:10 PM CT first pitch.\n\nCubs (40-37) vs. Mets (34-43). Four games against a team with a losing record. This is exactly the kind of series a wild card contender has to win.\n\nImanaga. Let's work"
@@ -334,15 +361,15 @@
   "raw_buckets_engagement_above_median": {
     "by_content_type": {
       "brief": {
-        "n": 38,
-        "mean_rate": 0.0048,
+        "n": 39,
+        "mean_rate": 0.0053,
         "median_rate": 0.0
       }
     },
     "by_opening": {
       "statement": {
-        "n": 30,
-        "mean_rate": 0.0042,
+        "n": 31,
+        "mean_rate": 0.0048,
         "median_rate": 0.0
       },
       "stat_lead": {
@@ -358,25 +385,25 @@
     },
     "by_has_score": {
       "False": {
-        "n": 17,
-        "mean_rate": 0.0053,
+        "n": 18,
+        "mean_rate": 0.0044,
         "median_rate": 0.0
       },
       "True": {
         "n": 21,
-        "mean_rate": 0.0044,
+        "mean_rate": 0.006,
         "median_rate": 0.0
       }
     },
     "by_has_stat": {
       "False": {
-        "n": 23,
-        "mean_rate": 0.005,
+        "n": 22,
+        "mean_rate": 0.0062,
         "median_rate": 0.0
       },
       "True": {
-        "n": 15,
-        "mean_rate": 0.0045,
+        "n": 17,
+        "mean_rate": 0.004,
         "median_rate": 0.0
       }
     }

@@ -1,42 +1,58 @@
 {
-  "generated_at": "2026-07-09T08:30:00.398649+00:00",
-  "today_ct": "2026-07-09",
+  "generated_at": "2026-07-10T08:30:00.457326+00:00",
+  "today_ct": "2026-07-10",
   "off_day": false,
-  "is_series_start_today": false,
+  "is_series_start_today": true,
   "series": {
-    "opponent": "Baltimore Orioles",
-    "opponent_id": 110,
-    "opponent_record": "42-51",
-    "cubs_record": "52-40",
+    "opponent": "Cincinnati Reds",
+    "opponent_id": 113,
+    "opponent_record": "42-50",
+    "cubs_record": "52-41",
     "is_cubs_home": false,
-    "venue": "Oriole Park at Camden Yards",
-    "series_length": 1,
+    "venue": "Great American Ball Park",
+    "series_length": 3,
     "games": [
       {
-        "game_pk": "824816",
-        "game_date_iso": "2026-07-09T17:35:00Z",
-        "game_date_ct": "Thu 12:35 PM CT",
+        "game_pk": "824493",
+        "game_date_iso": "2026-07-10T23:10:00Z",
+        "game_date_ct": "Fri 6:10 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      },
+      {
+        "game_pk": "824492",
+        "game_date_iso": "2026-07-11T23:10:00Z",
+        "game_date_ct": "Sat 6:10 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      },
+      {
+        "game_pk": "824491",
+        "game_date_iso": "2026-07-12T17:40:00Z",
+        "game_date_ct": "Sun 12:40 PM CT",
         "cubs_probable": "TBD",
         "opponent_probable": "TBD",
         "status": "Preview"
       }
     ],
-    "rationale": "Same opponent (Baltimore Orioles) as yesterday \u2014 this is mid-series, not a series opener."
+    "rationale": "Yesterday vs Baltimore Orioles; today vs Cincinnati Reds \u2192 game 1 of 3 (on the road)."
   },
   "today_cubs_game": {
-    "game_pk": "824816",
+    "game_pk": "824493",
     "status": "Preview",
     "detailed_status": "Scheduled",
-    "game_date_iso": "2026-07-09T17:35:00Z",
-    "game_date_ct": "Thu 12:35 PM CT",
+    "game_date_iso": "2026-07-10T23:10:00Z",
+    "game_date_ct": "Fri 6:10 PM CT",
     "is_cubs_home": false,
-    "opponent_id": 110,
-    "opponent_name": "Baltimore Orioles",
-    "opponent_record": "42-51",
-    "cubs_record": "52-40",
+    "opponent_id": 113,
+    "opponent_name": "Cincinnati Reds",
+    "opponent_record": "42-50",
+    "cubs_record": "52-41",
     "cubs_probable": "TBD",
     "opponent_probable": "TBD",
-    "venue": "Oriole Park at Camden Yards"
+    "venue": "Great American Ball Park"
   },
-  "rationale": "Same opponent (Baltimore Orioles) as yesterday \u2014 this is mid-series, not a series opener."
+  "rationale": "Yesterday vs Baltimore Orioles; today vs Cincinnati Reds \u2192 game 1 of 3 (on the road)."
 }
