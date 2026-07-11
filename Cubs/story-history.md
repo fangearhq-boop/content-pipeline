@@ -3745,3 +3745,55 @@ Each day's stories are appended at the top (newest first).
   - Imanaga's line/performance
 
 ---
+
+## 2026-07-11
+
+### STORY 1: Reds 4, Cubs 0 — Hunter Greene 12-K Masterpiece
+- **Angle:** NEW STORY (Game 1 of Reds series; Greene 12 K in 7 IP, 3 H, 0 R; returned from bone-chip surgery March 11; had 8-ER disaster in July 4 debut; dominant bounce-back; Cubs struck out 16 times — season high; 9th shutout loss; Imanaga took the L; De La Cruz solo HR, Bleday 2-run HR)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - Tonight's Game 2 result (July 11 recap tomorrow)
+  - Cubs offensive KO rate vs Lodolo tonight
+
+### STORY 2: Game 2 Preview — Assad vs Lodolo, 6:10 PM CT
+- **Angle:** NEW STORY (Javier Assad 6-1, 4.04 ERA vs Nick Lodolo 4.68 ERA; Assad has been rotation anchor with Taillon/Boyd/Cabrera all on IL; 6:10 PM CT at Great American Ball Park; bounce-back frame; last two games before All-Star break)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Assad's actual pitching line tonight
+  - Series result going into break
+
+### STORY 3: Bold Take — Cubs Offense 16-K Season High
+- **Angle:** NEW STORY (bold/passionate take; contrast between Greene's July 4 disaster and July 10 gem; 16 Cubs Ks season high; 9th shutout loss; offensive concerns entering second half; wake-up call framing)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, bold take)
+- **Follow-Up Opportunities:**
+  - Cubs offensive performance tonight vs Lodolo
+  - Second-half offensive analysis post-break
+
+### STORY 4: Wild Card Standings — Cubs 52-42, Three-Way Tie
+- **Angle:** FOLLOW UP (wild card arc; Cubs dropped from WC1 leader to three-way tie with Phillies and Marlins, all 52-42; Brewers 59-34; every WC point before break matters; 23 days to August 3 deadline)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, standings/informative)
+- **Follow-Up Opportunities:**
+  - Daily standings update through series
+  - Standings after All-Star break
+
+### STORY 5: Iowa Cubs 21-7 + Jayden Murray Acquisition
+- **Angle:** NEW STORY (two news items combined; Iowa crushed St. Paul Saints 21-7 on July 10 — Bateman, Long, B.J. Murray, Owen Miller starred; Cubs also acquired RHP Jayden Murray from Astros on July 11 for minor league INF Cameron Sisneros — Murray: 1.17 ERA, 6 saves at Triple-A Sugar Land)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, prospect/roster news)
+- **Follow-Up Opportunities:**
+  - Jayden Murray MLB debut timing post-break
+  - Continued Iowa performance
+
+### STORY 6: Pre-Game Hype — 3 Days to All-Star Break
+- **Angle:** NEW STORY (pre-game hype; PCA heads to Philadelphia for All-Star Game July 14; Cubs 52-42 tied in Wild Card; Assad on the mound tonight; two games left before break; urgency framing)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, pre-game hype)
+- **Follow-Up Opportunities:**
+  - Tonight's Game 2 result
+  - Series result (Game 2 tonight + Game 3 Sunday 12:40 PM CT)
+
+---

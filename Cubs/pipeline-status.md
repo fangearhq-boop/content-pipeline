@@ -840,3 +840,18 @@ to mark them as pipeline-produced.
 - X posts: 10
 - Dashboard: Published, live at Pages URL
 - Notes: Full pipeline completed. Switched Pages from legacy to workflow deployment.
+
+---
+
+## 2026-07-11 (Saturday)
+
+- **Date:** 2026-07-11
+- **Run time:** ~09:00 UTC (9 AM UTC = ~4 AM CT)
+- **Cubs record:** 52-42
+- **Series:** Cubs at Cincinnati Reds — Game 2 of 2 at Great American Ball Park, 6:10 PM CT
+- **Stories:** 6
+- **X posts:** 6
+- **Dashboard:** review-dashboard.html generated; unified dashboard push blocked (content-dashboards not in session auth set)
+- **Insights applied:** 2 significant findings consumed — midday_12_18 WINS (biased 5 of 6 slots to 12-5 PM window); morning_06_12 LOSES (only Story 1 at 7 AM, required game-recap exception). No other findings; brand-voice defaults applied.
+- **Series context:** is_series_start_today=false (mid-series vs Reds); off_day=false
+- **Key news:** Reds 4, Cubs 0 Game 1 (Greene 12 K masterpiece); Game 2 Assad vs Lodolo tonight; Cubs 52-42 in 3-way WC tie with Phillies/Marlins; Iowa Cubs 21-7; Jayden Murray acquired from Astros

@@ -1,0 +1,223 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-11",
+  "compiled_at": "2026-07-11T09:22:00.080993+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "STORY 1: Game recap — Reds 4, Cubs 0 (Greene 12 K)",
+      "type": "Tier 1 / Recap"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "STORY 2: Game 2 preview — Assad vs Lodolo",
+      "type": "Tier 1 / Preview"
+    },
+    {
+      "time": "1:15 PM",
+      "description": "STORY 3: Bold take — 16 Ks, offense wake-up call",
+      "type": "Tier 2 / Bold"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "STORY 4: Wild card standings (52-42, tied)",
+      "type": "Tier 2 / Informative"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "STORY 5: Iowa Cubs 21-7 + Murray acquisition",
+      "type": "Tier 3 / Mixed"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "STORY 6: Pre-game hype — All-Star break approach",
+      "type": "Tier 2 / Hype"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Reds 4, Cubs 0 — Game 1 Recap (Hunter Greene 12 K)",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "NEW STORY — Hunter Greene (fresh off 8-ER disaster in his July 4 season debut) came back six days later and shut the Cubs out cold — 12 K, 7 innings, 3 hits. Three Reds pitchers combined for a season-high 16 Cubs strikeouts. Imanaga took the L. Cubs' 9th shutout loss of 2026.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Hunter Greene allowed 8 ER in his season debut 6 days ago.\n\nLast night he was UNTOUCHABLE — 12 K in 7 innings. Three Reds pitchers combined to strike us out 16 times. Cubs' 9th shutout loss.\n\nAssad gets the ball tonight. 6:10 PM CT.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Morning game recap",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Game 2 Preview — Assad vs Lodolo, 6:10 PM CT",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "NEW STORY — Javier Assad (6-1, 4.04 ERA), the rotation anchor through a first half riddled with injuries, takes the ball tonight vs Nick Lodolo (4.68 ERA). Bounce-back game before the All-Star break. Cubs need this one.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Javier Assad answers tonight in Cincinnati.\n\n6-1, 4.04 ERA. Rotation anchor all first half with Taillon, Boyd, and Cabrera sidelined.\n\nNick Lodolo (4.68 ERA) is a rebound opportunity. Cubs need this before the break.\n\n6:10 PM CT.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Game preview/informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Bold Take — Cubs Offense 16-K Wake-Up Call",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "NEW STORY — The contrast between Greene's July 4 implosion (8 ER in 3.1 IP) and his July 10 gem (12 K, 0 R, 7 IP vs Cubs) makes for a stark wake-up call. 9 shutout losses. Season-high 16 Ks. The offense needs to answer.",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Hunter Greene was an 8-ER disaster in his season debut on July 4.\n\nSix days later he threw 7 shutout innings against us — 12 K, 3 hits, zero runs.\n\nA season-high 16 Cubs strikeouts. The 9th shutout loss of 2026. The offense needs a wake-up call.\n\n#Cubs #MLB #GoCubs",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Bold/passionate",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#GoCubs"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Wild Card Standings — Cubs Now Tied at 52-42",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "FOLLOW UP — After last night's loss, Cubs dropped from WC1 leaders to a three-way tie with Phillies and Marlins (all 52-42). Every game before the break carries WC seeding weight.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "After last night's loss, the Wild Card picture:\n\n52-42. Cubs are TIED with the Phillies and Marlins for all three NL Wild Card spots.\n\nHold them steady tonight. Win the break. Win the second half.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Standings/informative",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Iowa Cubs 21-7 + Jayden Murray Acquisition",
+      "tier": 3,
+      "status": "NEW STORY",
+      "angle": "NEW STORY — Two pieces of minor league/roster good news: Iowa Cubs torched St. Paul 21-7 on Friday, and Cubs just grabbed RHP Jayden Murray from the Astros (1.17 ERA, 6 saves at Triple-A). The pipeline is delivering.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Good news from Friday:\n\nIowa Cubs exploded for 21 runs, beat the St. Paul Saints 21-7.\n\nAlso: Cubs just acquired RHP Jayden Murray from the Astros — 1.17 ERA and 6 saves at Triple-A. Bullpen reinforcements are incoming.\n\nThe pipeline is doing its job.\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Prospect/roster news",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 280
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Pre-Game Hype — 3 Days to All-Star Break",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "NEW STORY — Three days until PCA heads to Philadelphia for the All-Star Game. But first, two more games to win. Cubs are tied in the Wild Card. Tonight matters.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Three days until PCA heads to Philadelphia for the All-Star Game.\n\nBut first — two more games. Cubs are tied for the Wild Card. Assad on the mound tonight. Cincinnati. 6:10 PM CT.\n\nTake care of business this weekend.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Pre-game hype",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
