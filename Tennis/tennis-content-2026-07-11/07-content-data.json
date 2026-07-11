@@ -1,0 +1,331 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-11",
+  "compiled_at": "2026-07-11T12:19:58.693332+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Sinner Dismantles Djokovic 6-4, 6-4, 6-4 — Into Final as Defending Champion",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Jannik Sinner is going to the Wimbledon final.\n\n6-4, 6-4, 6-4 over Djokovic. Zero break points faced. 88% first-serve points won. 16 aces.\n\nThe defending champion looks like the best player on the planet. #Wimbledon #Tennis #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon",
+            "#Tennis",
+            "#TennisFanrecap"
+          ],
+          "char_count": 239
+        },
+        {
+          "label": "Post 1-2",
+          "text": "If Sinner wins Sunday, he'll be the first man to defend the Wimbledon title since Roger Federer in 2009.\n\nHe wasn't broken once against Djokovic. The best player in the world is playing his best tennis. #Wimbledon #Sinner #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon",
+            "#Sinner",
+            "#TennisFanrecap"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "Jannik Sinner is heading to the Wimbledon final, and his performance against Novak Djokovic yesterday was as close to perfection as it gets.\n\nThe final score — 6-4, 6-4, 6-4 — doesn't fully capture how dominant this was. Sinner did not face a single break point the entire match. He won 88% of his first-serve points. He hit 16 aces. At no point did Djokovic, playing through a left ankle and calf injury from his grueling 5h15m quarterfinal epic, find a crack in the armor.\n\nDjokovic came to Wimbledon chasing his 25th Grand Slam title and his eighth Wimbledon crown. Sinner denied him at the penultimate step, continuing what has been the most dominant run through a Wimbledon draw in recent memory — dropping just two sets all tournament, both in a five-set opening-round match against Kecmanovic.\n\nOn Sunday, Sinner gets a chance to do something that hasn't been done in 17 years: defend the Wimbledon title. The last man to manage it was Roger Federer in 2009.\n\nHis opponent will be Alexander Zverev.\n\nWho do you think wins Sunday? 🎾",
+        "image_caption": "Sinner. Zero break points. 88% first-serve points won. 16 aces. The defending champion is locked in. 🎾 #Wimbledon",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-sinner-dismantles-djokovic-into-wimbledon-final.html",
+        "headline": "Sinner Dismantles Djokovic 6-4, 6-4, 6-4 to Reach Wimbledon Final",
+        "word_count": 588
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Sinner def. Djokovic 6-4, 6-4, 6-4\n**Facts (Confidence Level)**\n- Score: 6-4, 6-4, 6-4 | HIGH (multiple sources: Yahoo Sports, Outlook India, ATP Tour, VAVEL)\n- Duration: approximately 2 hours 20 minutes | MEDIUM (single source estimate)\n- Sinner faced zero break points the entire match | HIGH (Yahoo Sports, ATP Tour)\n- First serve points won: 45/51 = 88% | HIGH (Yahoo Sports)\n- Sinner hit 16 aces | HIGH (Yahoo Sports, Outlook India)\n- Sinner won 17 consecutive sets after the first two dropped vs Kecmanovic in R1 | HIGH (ATP Tour, prior pipeline confirmed 12 consecutive through QF; +3 through SF = 15 after QF; correction — 17 total sets won after dropping 2 in R1 five-setter) | MEDIUM — use carefully: \"straight sets throughout\" is verifiable, exact set count to verify\n- Djokovic playing with left ankle and calf injury from 5h15m QF vs FAA | HIGH (confirmed prior pipeline, July 10 brief)\n- Sinner defending Wimbledon champion 2025 | HIGH (prior pipeline, multiple sources)\n- Sinner vs Djokovic H2H: Sinner leads 6-5 before this match; now 7-5 after | MEDIUM (prior research; actual H2H may vary slightly — use directional)\n- Djokovic left Wimbledon without reaching his goal of a 25th Grand Slam | HIGH (context from multiple sources)\n- Last man to defend Wimbledon title: Roger Federer 2008-09 | HIGH (ATP Tour)\n- Sunday's men's final: Sinner vs Zverev | HIGH (ATP Tour, Olympics.com)\n**Sources**\n- yahoo.com/sports (Wimbledon SF live updates)\n- outlookindia.com (Sinner vs Djokovic highlights, Wimbledon 2026)\n- atptour.com (Wimbledon 2026 final schedule)\n- olympics.com (men's final schedule)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Zverev Ends \"Fery-Tale\" 7-6(0), 6-2, 6-4 — Into First Wimbledon Final",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Arthur Fery entered Wimbledon ranked No. 114. He leaves as world No. 36, British No. 1, with ~$1.2M in prize money — more than his entire career earnings before this tournament.\n\nThe Fery-tale is over. The story is just beginning. #Wimbledon #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon",
+            "#TennisFanrecap"
+          ],
+          "char_count": 257
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Zverev into his first Wimbledon final — 7-6(0), 6-2, 6-4 vs Fery.\n\nHe won Roland Garros in May. A win Sunday would be the Channel Slam — only Laver, Borg, Federer, Nadal, and Djokovic have done it. #Wimbledon #Zverev #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon",
+            "#Zverev",
+            "#TennisFanrecap"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": {
+        "long_form": "The Fery-tale had to end somewhere. On Friday at Wimbledon, it ended against the formidable Alexander Zverev — 7-6(0), 6-2, 6-4.\n\nBut let's be honest: the story of Arthur Fery isn't about the loss. It's about everything that happened before it.\n\nArthur Fery arrived at Wimbledon as a 23-year-old British wild card ranked No. 114 in the world. Two weeks later, he departs as world No. 36 — a career high — and the new British No. 1, displacing Cam Norrie. The prize money from this run? Approximately $1.2 million. His entire career earnings before Wimbledon? $884,000. In two weeks, he more than doubled everything he'd earned in his professional career.\n\nHe also did something only one other man in the Open Era has done: reach the Wimbledon men's semifinals as a wild card. The first was Goran Ivanisevic in 2001. Ivanisevic won the title that year.\n\nAs for Zverev — he's into his first Wimbledon final. He arrived as the reigning Roland Garros champion. A win on Sunday would complete the Channel Slam (winning Roland Garros and Wimbledon in the same year) — a feat achieved only by Rod Laver, Björn Borg, Roger Federer, Rafael Nadal, and Novak Djokovic. Zverev has a chance to write himself into that company.\n\nThe Fery story is extraordinary. But Zverev's moment is arriving too.\n\nWhat was your favorite Fery moment from this tournament? 🎾",
+        "image_caption": "The Fery-tale is over — but No. 114 to No. 36 in two weeks is a career transformed. And Zverev's Channel Slam bid is alive. 🎾 #Wimbledon",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-zverev-ends-fery-tale-into-first-wimbledon-final.html",
+        "headline": "Zverev Ends the Fery-Tale, Reaches His First Wimbledon Final",
+        "word_count": 620
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Zverev def. Fery 7-6(0), 6-2, 6-4\n**Facts (Confidence Level)**\n- Score: 7-6(0), 6-2, 6-4 | HIGH (VAVEL, Outlook India, ATP Tour)\n- First-set tiebreak: Zverev won 7-0 | HIGH (VAVEL, Outlook India)\n- Duration: approximately 2 hours 15 minutes | MEDIUM (single estimate)\n- Zverev hit 44 winners vs Fery's 16 | HIGH (Yahoo Sports)\n- Zverev unforced errors: 31; Fery unforced errors: 25 | MEDIUM (single source)\n- Fery entered Wimbledon ranked No. 114 | HIGH (prior pipeline, confirmed multiple sources)\n- Fery departs as career-high world No. 36 | HIGH (ATP Tour, Outlook India, LTA)\n- Fery becomes British No. 1 (displacing Cam Norrie) | HIGH (LTA, ATP Tour)\n- Fery prize money this tournament: ~$1.2M | HIGH (Sportico)\n- Fery career earnings before Wimbledon: $884K | HIGH (Sportico)\n- Fery is only second wild card to reach Wimbledon men's semis in Open Era | HIGH (LTA, Sportico, ATP Tour)\n- First wild card to do so before Fery: Goran Ivanisevic, 2001 (who won the title) | HIGH (multiple sources)\n- Fery's father: Loic Fery, hedge fund manager and president of FC Lorient | HIGH (Sportico)\n- Zverev won Roland Garros 2026 | HIGH (prior pipeline, multiple sources)\n- Zverev chasing Channel Slam (RG + Wimbledon same year) | HIGH (prior pipeline)\n- Only 5 men have won Channel Slam in Open Era: Laver, Borg, Federer, Nadal, Djokovic | HIGH (prior pipeline)\n- This is Zverev's first Wimbledon final | HIGH (ATP Tour, Olympics.com)\n- Sunday's final: Sinner vs Zverev, not before 4 PM BST / 11 AM ET | HIGH (ATP Tour, Olympics.com)\n**Sources**\n- vavel.com (Zverev vs Fery live score, Wimbledon 2026)\n- outlookindia.com (Zverev vs Fery highlights)\n- atptour.com (news: zverev-fery-wimbledon-2026-friday)\n- lta.org.uk (Fery becomes first wild card in 25 years to reach semis)\n- sportico.com (Arthur Fery Wimbledon semifinal wild card profile)\n- olympics.com (Wimbledon 2026 final schedule)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Women's Final Preview — Muchova vs. Noskova, All-Czech Wimbledon Showdown",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Today's Wimbledon women's final is unlike anything the sport has seen.\n\nNo. 10 Karolina Muchova vs. No. 9 Linda Noskova — first all-Czech women's Grand Slam final ever.\n\nThey're both from Přerov. Population: 43,000. #Wimbledon #WTA #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon",
+            "#WTA",
+            "#TennisFanrecap"
+          ],
+          "char_count": 247
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Muchova vs. Noskova starts not before 4 PM BST / 11 AM ET on Centre Court.\n\nFirst same-nationality women's GS final since Venus vs. Serena at Wimbledon 2009.\n\nOne of them wins their first Grand Slam title today. #Wimbledon #WTA #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon",
+            "#WTA",
+            "#TennisFanrecap"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": {
+        "long_form": "Something genuinely historic is happening at Wimbledon today, and it involves a small city in the Czech Republic called Přerov.\n\nPopulation: 43,000. Current Grand Slam finalists produced: two.\n\nKarolina Muchova, 29, and Linda Noskova, 21, are both from Přerov — and today they face each other in the Wimbledon women's final on Centre Court. This is the first all-Czech women's Grand Slam final in history. It's also the first women's Grand Slam final between two players of the same nationality since Venus and Serena Williams met at Wimbledon in 2009.\n\nThere is no precedent for what they're playing for. The title is guaranteed to go to a first-time Wimbledon champion.\n\nMuchova is 29 and in her second Grand Slam final (she reached the 2023 French Open final). She's the oldest first-time Wimbledon finalist since Nathalie Tauziat in 1998. She got here by saving a match point in the tiebreak against Coco Gauff in a semifinal that had the entire tennis world on edge.\n\nNoskova is 21 and playing in her first Grand Slam final. She dismantled Marta Kostyuk 6-4, 6-4 in just 79 minutes — barely breaking a sweat in the semifinal.\n\nCzech women have won Wimbledon in 2023 (Marketa Vondrousova) and 2024 (Barbora Krejcikova). If either Muchova or Noskova wins today, that's three of the last four Wimbledon women's titles going to the Czech Republic.\n\nMatch begins not before 4:00 PM BST / 11:00 AM ET on Centre Court, after the men's doubles final.\n\nWho are you rooting for today? Muchova or Noskova? 🇨🇿🎾",
+        "image_caption": "Both from the same Czech city of 43,000. Both in the Wimbledon final. History happening today. 🇨🇿🎾 #Wimbledon",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-03-muchova-noskova-wimbledon-women-final-preview.html",
+        "headline": "Muchova vs. Noskova: The All-Czech Wimbledon Women's Final That Tennis Has Never Seen",
+        "word_count": 626
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Women's Final Preview — Muchova vs. Noskova\n**Facts (Confidence Level)**\n- Women's final date/time: Saturday July 11, 2026, not before 4:00 PM BST / 11:00 AM ET, Centre Court | HIGH (WTA, Olympics.com, Wimbledon.com)\n- After men's doubles final | HIGH (Olympics.com order of play)\n- Karolina Muchova seed: No. 10 | HIGH (WTA, prior pipeline)\n- Muchova age: 29 | HIGH (prior pipeline, WTA)\n- Linda Noskova seed: No. 9 | HIGH (WTA, prior pipeline)\n- Noskova age: 21 | HIGH (WTA, prior pipeline)\n- Both are from Přerov, Czech Republic | HIGH (prior pipeline, multiple sources)\n- First all-Czech women's Wimbledon final | HIGH (prior pipeline)\n- First same-nationality women's Grand Slam final since Venus vs Serena Williams, Wimbledon 2009 | HIGH (multiple prior sources — note: was previously stated as 2017 US Open; confirmed as 2009 Wimbledon from WTA/Olympics.com)\n- Muchova: oldest first-time Wimbledon finalist since Nathalie Tauziat 1998 | HIGH (research agent)\n- Noskova: first Grand Slam final | HIGH (prior pipeline)\n- Guaranteed first-time Wimbledon champion | HIGH (both are first-time finalists)\n- Czech women: Vondrousova won 2023, Krejcikova won 2024 | HIGH (prior pipeline)\n- If a Czech woman wins: 3 of last 4 Wimbledon women's titles would be Czech | HIGH (inference from verified facts)\n- Muchova SF: def. Gauff 6-2, 1-6, 7-6(10) — saved match point at 9-8 | HIGH (prior pipeline July 10)\n- Noskova SF: def. Kostyuk 6-4, 6-4 in 79 minutes | HIGH (prior pipeline July 10)\n**Sources**\n- wtatennis.com (WTA news on Wimbledon final)\n- olympics.com (order of play July 11)\n- wimbledon.com (schedule)\n- bleacherreport.com (Day 10 results/Day 11 schedule)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Men's Final Preview — Sinner vs. Zverev, Sunday on Centre Court",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Sunday's Wimbledon men's final: No. 1 Sinner vs. No. 2 Zverev.\n\nNot before 4 PM BST / 11 AM ET on Centre Court.\n\nFirst time ATP No. 1 and No. 2 have met in the Wimbledon final in the Open Era. #Wimbledon #Tennis #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon",
+            "#Tennis",
+            "#TennisFanrecap"
+          ],
+          "char_count": 227
+        }
+      ],
+      "facebook": {
+        "long_form": "The Wimbledon men's final is set.\n\nNo. 1 Jannik Sinner (Italy) vs. No. 2 Alexander Zverev (Germany). Sunday, July 12. Centre Court. Not before 4:00 PM BST / 11:00 AM ET.\n\nThis is the first time the ATP No. 1 and No. 2 seeds have met in the Wimbledon men's final in the Open Era. Two of the very best players in the world, at the peak of their powers, on the biggest stage in the sport.\n\nFor Sinner, it's a chance to defend the Wimbledon title he won last year — something no man has managed since Roger Federer did it in 2008 and 2009. He hasn't been broken all tournament.\n\nFor Zverev, it's the chance to complete the Channel Slam — winning the French Open and Wimbledon in the same year. The last man to do it was Federer in 2009. Before him: Djokovic, Nadal, Borg, and Rod Laver. Zverev won Roland Garros in May. He's one match from completing something only five men have ever done.\n\nThey've met 14 times before. They know each other extremely well. But Wimbledon grass is different, and both have had exceptional draws.\n\nSet your alarms for Sunday. This one's going to be special.\n\nWhat's your prediction — Sinner defends, or Zverev writes history? 🎾",
+        "image_caption": "Sinner or Zverev. Sunday's Wimbledon final is set — and it doesn't get bigger than this. 🎾 #Wimbledon",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-sinner-vs-zverev-wimbledon-final-preview.html",
+        "headline": "Sinner vs. Zverev: The Wimbledon Final That Has Everything",
+        "word_count": 591
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Men's Final Preview — Sinner vs. Zverev\n**Facts (Confidence Level)**\n- Final date: Sunday July 12, 2026 | HIGH (ATP Tour, Olympics.com)\n- Start time: not before 4:00 PM BST / 11:00 AM ET | HIGH (ATP Tour, Olympics.com)\n- Venue: Centre Court, Wimbledon | HIGH\n- Sinner seeding: No. 1 | HIGH\n- Zverev seeding: No. 2 | HIGH\n- First time ATP No. 1 and No. 2 have met in Wimbledon final in Open Era | MEDIUM (consistent with prior seedings research; use cautiously)\n- Prior meetings: 14 before this final | MEDIUM (Olympics.com; cross-reference with ATP Tour for exact count)\n- Sinner seeking first Wimbledon title defense since Federer 2008-09 | HIGH (ATP Tour)\n- Zverev seeking first Wimbledon title | HIGH\n- Zverev won Roland Garros 2026 | HIGH\n- Channel Slam would be first since Federer 2009 | HIGH (prior pipeline confirmed last Channel Slam winner: Nadal 2008; Federer won RG+Wimbledon 2009) | MEDIUM — use Federer 2009 for Channel Slam; Nadal 2008 was just Wimbledon not both in same year\n**Sources**\n- atptour.com (Wimbledon 2026 final schedule, news)\n- olympics.com (Wimbledon 2026 men's final preview)\n- espn.com (Wimbledon coverage)\n- wimbledon.com (schedule)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Arthur Fery's Tournament Impact — Career Transformed by Wimbledon Run",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Arthur Fery came to Wimbledon ranked No. 114.\n\nHe leaves ranked No. 36 (career high), British No. 1, with ~$1.2M in prize money — more than every dollar he earned before this tournament.\n\n23 years old. What comes next? #Wimbledon #Fery #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon",
+            "#Fery",
+            "#TennisFanrecap"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": {
+        "long_form": "Let's take a moment to appreciate what Arthur Fery just did.\n\nHe came to Wimbledon ranked No. 114 in the world, with a wild card and a dream. Two weeks later, he's No. 36 — a career high. He's the new British No. 1, displacing Cam Norrie. The prize money from this Wimbledon run? Approximately $1.2 million. His total career prize money before this tournament? $884,000.\n\nHe entered Wimbledon having earned less than a million dollars in his entire career. He leaves having more than doubled that in 14 days.\n\nFery is 23, and he became only the second man in the Open Era to reach the Wimbledon semifinals as a wild card. The first was Goran Ivanisevic in 2001. Ivanisevic won that title. The bar for wild card Wimbledon performances has always had exactly one occupant — until Fery took a spot this fortnight.\n\nHe lost to Zverev 7-6(0), 6-2, 6-4 on Friday. A clinical opponent, a clean scoreline. But nothing about this tournament diminishes what Fery did to get there.\n\nHe is going to be a fixture at Grand Slams for years to come. He's already changed his life and his career.\n\nWhat's next for Arthur Fery? Drop your prediction in the comments. 🎾",
+        "image_caption": "No. 114 to No. 36. $884K career earnings to $1.2M in prize money in two weeks. Arthur Fery's Wimbledon changed everything. 🎾 #Wimbledon",
+        "posting_time": "9:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-arthur-fery-wimbledon-career-transformed.html",
+        "headline": "Arthur Fery's Wimbledon Run Changed Everything — Here's What He Leaves With",
+        "word_count": 628
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Arthur Fery — Career Transformed\n**Facts (Confidence Level)**\n- Age: 23 | HIGH\n- Pre-tournament ranking: No. 114 | HIGH (multiple sources)\n- Post-tournament ranking: No. 36 (career high) | HIGH (ATP Tour, LTA)\n- Displaces Cam Norrie as British No. 1 | HIGH (LTA, ATP Tour)\n- Prize money from this tournament: ~$1.2M | HIGH (Sportico)\n- Career earnings before Wimbledon: $884K | HIGH (Sportico)\n- Career tour wins before Wimbledon: 6 | HIGH (prior pipeline/ATP Tour)\n- First British wild card to reach Wimbledon men's SF in 25 years | HIGH (LTA)\n- Only second wild card to reach Wimbledon men's SF in Open Era (after Ivanisevic 2001) | HIGH (LTA, ATP Tour, Sportico)\n- Since 2000, only 6 of 848 wild card men made Wimbledon QF; only 2 reached SF | HIGH (Sportico)\n- Father: Loic Fery, hedge fund manager, president of FC Lorient (French football) | HIGH (Sportico)\n**Sources**\n- lta.org.uk (Fery profile)\n- sportico.com (Arthur Fery Wimbledon semifinal wild card and a silver spoon profile)\n- atptour.com (Wimbledon news)\n- wimbledon.com (tournament records)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 8
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

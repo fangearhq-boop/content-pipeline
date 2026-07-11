@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-07-10 |
-| Writing | Complete (all steps) | 2026-07-10 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 24 claims, 47 HIGH; image not_started warnings cosmetic/expected for imagn) | 2026-07-10 |
-| Compile | Complete (07-content-data.json — 5 stories, 9 X posts, 0 FB posts, 5 articles, 5 images) | 2026-07-10 |
-| Dashboard | Complete (review-dashboard.html, 24 items) | 2026-07-10 |
-| PostPlanner Export | Complete (standard 9 posts; TOBI 9 posts) | 2026-07-10 |
-| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-07-10 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-07-10 |
+| Research | Complete | 2026-07-11 |
+| Writing | Complete (all steps) | 2026-07-11 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 26 claims, 60 HIGH; image not_started warnings cosmetic/expected for imagn) | 2026-07-11 |
+| Compile | Complete (07-content-data.json — 5 stories, 8 X posts, 5 FB posts, 5 articles, 8 images) | 2026-07-11 |
+| Dashboard | Complete (review-dashboard.html, 28 items) | 2026-07-11 |
+| PostPlanner Export | Complete (standard 8 posts 12:50–20:46 ET; TOBI 8 posts) | 2026-07-11 |
+| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-07-11 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-07-11 |
 
 ## Queue
 
@@ -24,6 +24,23 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-07-11 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (4 Tier 1, 1 Tier 2)
+- **Posts:** 8 X posts + 5 FB long-form + 5 FB captions = 18 total (PostPlanner xlsx: 8 posts standard 12:50–20:46 ET, 8 TOBI)
+- **Articles:** 5 (bylines: Ryan Calloway [S1, S4], Marcus Cole [S2, S5], Elena Voss [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-07-11.xlsx (8 posts), tfr-postplanner-tobi-2026-07-11.xlsx (8 TOBI posts)
+- **Coverage:** Sinner def. Djokovic 6-4, 6-4, 6-4 — zero break points faced, 88% first-serve pts won, 16 aces; Djokovic playing injured ankle/calf, 48h after 5h15m QF epic; Sinner into final as defending champion, chasing first Wimbledon title defense since Federer 2009. Zverev def. Fery 7-6(0), 6-2, 6-4 — swept opening TB 7-0; 44 winners; Fery career transformed: No. 114 → No. 36 (career high), new British No. 1, ~$1.2M prize money vs $884K career earnings before tournament; only 2nd WC to reach Wimbledon men's SF in Open Era (Ivanisevic 2001). Women's final preview: Muchova (No. 10, 29, Přerov) vs Noskova (No. 9, 21, Přerov) — first all-Czech women's GS final in history; first same-nationality women's GS final since Venus-Serena Wimbledon 2009; not before 4 PM BST / 11 AM ET Saturday. Men's final preview: Sinner vs Zverev Sunday July 12, not before 4 PM BST / 11 AM ET; first ATP No. 1 vs No. 2 in Wimbledon final (Open Era); Zverev chasing Channel Slam (last done Federer 2009). Fery career feature: 23yo WC story — No. 114 → No. 36, doubled career earnings in one tournament, 2nd-ever WC in Wimbledon men's SF.
+- **Notes:**
+  - verify-facts.py: passed; 26 claims, 60 HIGH; image not_started warnings cosmetic (expected for imagn source — same as all prior runs)
+  - compile: 5 stories, 8 X posts, 5 FB posts, 5 articles, 8 images; 28 dashboard items; posting window warnings cosmetic
+  - PostPlanner exports: standard (8 posts) and TOBI (8 posts) generated successfully; 12:50–20:46 ET
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Ryan Calloway [S1, S4], Marcus Cole [S2, S5], Elena Voss [S3] (rotating from July 10: Elena Voss [S1, S4], Ryan Calloway [S2, S5], Marcus Cole [S3])
+  - Women's final happening TODAY — covered as preview; result for follow-up Sunday
+  - Men's final Sunday July 12 — preview covered; result for follow-up Monday
 
 ### 2026-07-10 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
