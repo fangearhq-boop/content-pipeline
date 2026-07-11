@@ -3984,3 +3984,48 @@
 - **Key facts:** Giannis+Portis → Heat (Herro+Ware+Jaquez+Jakucionis+No.13+2031/2033 firsts+2030 swap+2033 2nd); executes July 6; Kawhi → Toronto (Raptors send Ingram+Dick+2031/2033 firsts+2030/2033 2nds+2027 swap); Norman Powell 2yr/$45M Bulls; Tobias Harris 2yr/$31M Spurs; Kelly Oubre 2yr/$17M Pacers; Harden declined $42.3M Cavs option/negotiating new deal; Mike Conley 1yr Celtics
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** July 6 official execution; Giannis/Kawhi press conferences; LeBron signs
+
+## 2026-07-11
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-11 | T1 | Caleb Wilson Scores 35 in Vegas Debut — Bulls Lose 97-96 to Boozer's Grizzlies | X, FB, Article | NEW |
+| 2026-07-11 | T1 | LeBron Free Agency — Cavaliers Now Clear Frontrunner, Warriors Fading | X, FB, Article | FOLLOW UP |
+| 2026-07-11 | T1 | Victor Wembanyama Signs 5-Year $252M Extension With Spurs — Leaves $50M on Table | X, FB, Article | NEW |
+| 2026-07-11 | T2 | Giannis + Jaylen Brown Trades Now Official — Miami and Philadelphia Reload | X, FB, Article | FOLLOW UP |
+| 2026-07-11 | T2 | Summer League Day 3 — Cameron Boozer Outduels Wilson, Lakers and Nets Win Big | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Caleb Wilson Scores 35 in Vegas Debut
+- **Tier:** 1
+- **Category:** NBA Summer League / Rookies
+- **Key facts:** Wilson (No. 4, Bulls) scored 35 pts (12/21 FG, 7/11 3P, 5 reb, 2 stl, 3 blk) in Vegas debut July 10; 2nd-highest debut ever in Las Vegas SL (behind Belinelli 37 in 2007); Bulls lost 97-96 to Grizzlies; Cameron Boozer (No. 3) had 23 pts/6 reb/4 ast; Wilson returning from broken wrist at UNC (Feb 10); first competitive game since injury
+- **Status:** NEW
+- **Follow-up ideas:** Wilson vs Peterson showdown; Wilson consistency test; Bulls roster construction
+
+### STORY 2: LeBron James Free Agency — Cavaliers Frontrunner
+- **Tier:** 1
+- **Category:** NBA Free Agency / LeBron James
+- **Key facts:** LeBron spending summer in Akron; Shams: Warriors no longer "popping up" in talks; Cavs frontrunner with Mitchell $273M extension; LeBron averaged 20.9/7.2/6.1 on 51.5%; Rich Paul spoke to 27 teams; Cavs offering vet min ~$3.9M; Warriors ~$15M MLE; Philly, Miami, Minnesota, Denver as secondary options
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** LeBron announces Cavs decision; LeBron press conference; Mitchell-LeBron dynamic
+
+### STORY 3: Victor Wembanyama $252M Extension
+- **Tier:** 1
+- **Category:** NBA Extensions / San Antonio Spurs
+- **Key facts:** Wembanyama agreed 5-yr/$252M max extension (25% max, not 30% supermax); supermax would've been ~$303M; left ~$50M on table; 3rd-largest rookie extension in NBA history behind Cunningham/Mobley ($269M each); player option in year 5; through 2031-32; sources: ESPN/CBS Sports/BR/NBC Sports
+- **Status:** NEW
+- **Follow-up ideas:** Spurs roster construction around Wemby; Spurs free agent signings
+
+### STORY 4: Giannis + Jaylen Brown Trades Official
+- **Tier:** 2
+- **Category:** NBA Trades / East Power Structure
+- **Key facts:** Giannis+Portis → Heat (Herro+Ware+Jaquez+Jakucionis+No.13+2031/2033 firsts+2030 swap+2033 2nd) official July 6; Giannis eligible 4yr/$275M extension Jan 6, 2027; Heat odds 30-1 → 18-1; Brown → Sixers (Celtics get George+2028/2031 1sts+2028/2030 2nds); Brown never requested trade; George 2yr remaining on $212M
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Giannis extension Jan 2027; LeBron + East power structure; Brown Sixers debut
+
+### STORY 5: Summer League Day 3 Roundup
+- **Tier:** 2
+- **Category:** NBA Summer League
+- **Key facts:** July 10 results: Heat 119-86 Bucks, Nets 91-65 Knicks (Brown Jr. 20/2stl), Lakers 96-84 Thunder (Thiero 20/Carr 18), Celtics 83-80 Raptors OT (Williams 23/13), Grizzlies 97-96 Bulls (Boozer 23/Wilson 35), Rockets 97-86 Nuggets, Pacers 99-93 Cavs, Suns 81-79 Blazers; McNeeley (Hornets) 28/7-8 3P vs Magic July 9; Pullin (Wolves) 24/8/12 in opener
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Wilson/Boozer next games; McNeeley rotation push; Day 4 results
