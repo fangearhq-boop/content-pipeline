@@ -1,0 +1,275 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-11",
+  "compiled_at": "2026-07-11T11:32:53.940504+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Scottish Open Round 3 — McIlroy, Tom Kim, Jordan Smith Tied at 9-Under at Renaissance Club",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Scottish Open Moving Day leaderboard:\n\n🏌️ McIlroy — 9-under\n🏌️ Tom Kim — 9-under\n🏌️ Jordan Smith — 9-under\n\nOne stroke back: Fitzpatrick, Min Woo Lee.\nMacIntyre (2024 champ) at 7-under.\n\nOne week before The Open. Stakes are very real. #ScottishOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ScottishOpen"
+          ],
+          "char_count": 248
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Rory McIlroy shot 66 on Friday at The Renaissance Club.\n\nHe's tied for the lead entering Round 3 of the Scottish Open.\n\nHe won the Masters in April. He could win this. Then The Open.\n\nThat would be a summer. #ScottishOpen #RoryMcIlroy",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ScottishOpen",
+            "#RoryMcIlroy"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-scottish-open-r3-mcilroy-kim-smith-lead.html",
+        "headline": "McIlroy, Tom Kim, Jordan Smith Share Scottish Open Lead at 9-Under — The Open Tune-Up Is Getting Real",
+        "word_count": 684
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Scottish Open R3 — McIlroy Leads\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Rory McIlroy\"\n- **Caption overlay:** \"TIED FOR THE LEAD — SCOTTISH OPEN R3\"\n- **Usage:** X Post 1, Facebook long-form\n\n**Image Concept 2 — Social (1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Tom Kim PGA Tour\"\n- **Caption overlay:** \"TOM KIM — 9-UNDER\"\n- **Usage:** Facebook image caption\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Scottish Open Round 3 — McIlroy/Kim/Smith Lead\n**Sources:**\n- CBS Sports: 2026 Scottish Open Leaderboard / R2 summary\n- Yahoo Sports: Scottish Open Leaderboard Round 3 tee times\n- Seoul Economic Daily: Genesis Scottish Open $9M purse details\n**Key Facts:**\n- Tournament: Genesis Scottish Open, The Renaissance Club, North Berwick, Scotland\n- Dates: July 9-12, 2026 | Purse: $9,000,000\n- Entering Round 3 (Saturday, July 11 — today): three players co-lead at 9-under par\n- Rory McIlroy: opened 69 (R1) then 66 (R2)\n- Tom Kim: tied at 9-under entering R3\n- Jordan Smith (England): tied at 9-under entering R3\n- One stroke back at 8-under: Matt Fitzpatrick, Min Woo Lee\n- Two strokes back at 7-under: Chris Gotterup, Sudarshan Yellamaraju, Robert MacIntyre (2024 Scottish Open champion)\n- Three back at 6-under: Wyndham Clark (2026 US Open champion)\n- Saturday featured pairing: McIlroy alongside Fitzpatrick (15:24 UK time); Kim and Smith going out last at 15:35\n- Scheffler MISSED THE CUT (see Story 2)\n- Confidence: HIGH (CBS Sports leaderboard, Yahoo Sports tee times)\n**Freshness:** Round 3 tee times posted today — tournament is live right now.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Scottie Scheffler Misses Cut at Scottish Open — Ends 78-Round Streak",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Scottie Scheffler just missed his first cut since the 2022 FedEx St. Jude Classic.\n\n78 consecutive weekends without missing a cut.\nThe 5th-longest streak in PGA Tour history.\n\nIt ended at the Scottish Open. One week before The Open.\n\n#ScottishOpen #PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ScottishOpen",
+            "#PGATour"
+          ],
+          "char_count": 256
+        },
+        {
+          "label": "Post 2-2",
+          "text": "For perspective on Scheffler's missed-cut streak:\n\nTiger Woods: 142 consecutive 🐐\nByron Nelson: 113\nJack Nicklaus: 105\nHale Irwin: 86\nScottie Scheffler: 78 ✅ (ended Friday)\n\nStill World No. 1. Still the favorite at Royal Birkdale. #PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-scheffler-misses-cut-78-round-streak-ends.html",
+        "headline": "Scheffler's 78-Round Made-Cut Streak Ends at Scottish Open — 5th Longest in PGA History",
+        "word_count": 738
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Scheffler Misses Cut\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Scottie Scheffler PGA Tour\"\n- **Caption overlay:** \"78-ROUND STREAK ENDS\"\n- **Usage:** X Post 1, Facebook long-form\n\n**Image Concept 2 — Social (1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Scottie Scheffler\"\n- **Caption overlay:** \"STILL WORLD No. 1 | FIRST MISSED CUT SINCE 2022\"\n- **Usage:** Facebook image caption\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Scheffler Misses Cut at Scottish Open\n**Sources:**\n- CBS Sports: Scheffler missed cut / streak ended\n- ESPN: Scheffler headed for first missed cut in nearly 4 years\n- PGA Tour official: who missed cut at Genesis Scottish Open\n- Yahoo Sports: Rory McIlroy 3-way tie (same article references Scheffler cut)\n**Key Facts:**\n- Scottie Scheffler shot 68 (R1) and 72 (R2) for an even-par 36-hole total (+0)\n- Missed the cut by two strokes — projected cut was 2-under\n- The miss snapped 78 consecutive weekends without missing a cut — the 5th-longest streak in PGA Tour history\n- Streak ranking: behind Tiger Woods (142), Byron Nelson (113), Jack Nicklaus (105), and Hale Irwin (86)\n- Last missed cut: 2022 FedEx St. Jude Classic — 1,428 days ago\n- Over the two rounds Scheffler hit only 11 of 26 fairways and 23 of 36 greens\n- Lost nearly two strokes on approach shots (strokes gained: approach)\n- Scheffler began his 163rd week at World No. 1 on July 5, 2026 (197th week overall at the top)\n- This comes one week before The Open Championship at Royal Birkdale\n- Confidence: HIGH (CBS Sports, ESPN, PGA Tour official all confirm)\n**Freshness:** Cut announced Friday — two days ago. Still top story given magnitude of streak ending.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Nelly Korda Misses Cut at Evian — Lottie Woad Leads LPGA Major at 11-Under",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Nelly Korda missed the cut at the Evian Championship.\n\nShe won the first two majors of 2026. Her bid for a third consecutive is over.\n\nFirst missed cut since the 2024 Women's PGA Championship.\n\nLottie Woad leads at 11-under with 36 holes to play. #EvianChampionship",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#EvianChampionship"
+          ],
+          "char_count": 265
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Evian Championship R3 entering Saturday:\n\n🇬🇧 Lottie Woad — 11-under (8-birdie 64 on Friday)\n🇯🇵 Aki Iwai — 10-under\n\nKorda missed the cut. No repeat for the women's world No. 1.\n\nThe fourth women's major of 2026 is up for grabs. #LPGA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-evian-championship-korda-cut-woad-leads.html",
+        "headline": "Nelly Korda Misses Cut at Evian — Triple-Major Bid Is Over, Lottie Woad Takes the Lead at 11-Under",
+        "word_count": 622
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Evian Championship\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Nelly Korda LPGA\"\n- **Caption overlay:** \"KORDA'S RUN ENDS AT EVIAN\"\n- **Usage:** X Post 1, Facebook long-form\n\n**Image Concept 2 — Social (1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Lottie Woad LPGA\"\n- **Caption overlay:** \"WOAD LEADS — 11-UNDER | EVIAN CHAMPIONSHIP\"\n- **Usage:** Facebook image caption\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Evian Championship — Korda Misses Cut, Woad Leads\n**Sources:**\n- ESPN: Nelly Korda misses cut, Lottie Woad takes second-round lead\n- NBC Sports: Korda misses cut at Evian\n- Yahoo Sports: Nelly Korda misses cut at Evian\n- LPGA official: 2026 Evian Championship leaderboard\n**Key Facts:**\n- Tournament: Amundi Evian Championship (4th of 5 women's majors in 2026)\n- Venue: Evian Resort Golf Club, Evian-les-Bains, France | Purse: $9,100,000\n- Dates: July 9-12, 2026 — Round 3 happening today (Saturday)\n- Leader entering R3: Lottie Woad (England) at 11-under par after blazing 7-under 64 (R2) featuring 8 birdies and 1 bogey\n- One shot back: Aki Iwai (Japan) at 10-under — Iwai had opened with 8-under 63 for R1 lead\n- Nelly Korda MISSED THE CUT: opened 74, recovered with 69 in R2; +1 total tied for 67th, one stroke outside cut line\n- This was Korda's first missed cut since the 2024 Women's PGA Championship\n- Korda had won the first two majors of 2026 (Masters + Women's US Open) — was bidding for 3rd consecutive major and 5th major overall\n- Confidence: HIGH (ESPN, NBC Sports, Yahoo Sports all confirm)\n**Freshness:** Cut announced Friday, R3 happening today. Peak relevance window.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "LIV Golf Files Layoff Notices — Saudi PIF Pulling Funding After 2026 Season",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "LIV Golf filed WARN Act layoff notices in the U.S. and U.K.\n\nSaudi Arabia's PIF — which invested $5B+ in the league — is ending funding after 2026.\n\nLIV needs $250-400M from outside investors to survive.\n\nTwo events could be canceled if money doesn't arrive. #LIVGolf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-liv-golf-warn-act-layoffs-pif-funding.html",
+        "headline": "LIV Golf Files Layoff Notices — Saudi PIF Is Walking Away After 2026 Season",
+        "word_count": 660
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LIV Golf Crisis\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"LIV Golf\"\n- **Caption overlay:** \"LIV GOLF FILES LAYOFF NOTICES\"\n- **Usage:** X Post, Facebook long-form\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LIV Golf Financial Crisis / Layoff Notices\n**Sources:**\n- Sportico: LIV Golf likely layoffs / PIF funding cuts\n- Golf Digest: LIV Golf layoffs PIF funding 2026\n- OutKick/Fox News: LIV Golf waiting on $400M, may cancel events\n- Yahoo Sports: LIV Golf signals mass layoffs\n- Sportico: LIV Golf shutdown / PIF considers cutting funding\n**Key Facts:**\n- Saudi Arabia's Public Investment Fund (PIF) announced in April 2026 it will no longer bankroll LIV beyond the 2026 season\n- LIV Golf has filed Worker Adjustment and Retraining Notification (WARN Act) notices in both the U.S. and U.K. — legal requirement for employers planning potential mass layoffs with 60 days' notice\n- LIV spokesperson: currently no changes to operations or schedule\n- League urgently seeking $250 million to $350 million in outside investment (some reports say up to $400 million needed)\n- Funding needed to cover: player contracts, operating costs, prize purses for upcoming events\n- If funding not secured: possible cancellation of the final two events of the 2026 season\n- English companies World Golf Group and Premier Golf League suing LIV Golf, PIF, and associated entities for damages of $210 million to $630 million, alleging breach of confidence and unlawful means conspiracy\n- PIF has invested more than $5 billion into LIV since its founding in 2022\n- Annual losses estimated at $500-600 million\n- Confidence: HIGH (Sportico, Golf Digest, multiple sources confirm WARN Act filings)\n**Freshness:** WARN Act filings are recent news; Sportico reporting from within the last week.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Open Championship Preview — 154th Major Returns to Royal Birkdale, July 16-19",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The Open Championship opens Thursday at Royal Birkdale.\n\nLast here in 2017 (Spieth won). Course modified since then.\n\n156 players. Scheffler still World No. 1. McIlroy has momentum.\n\nThe final men's major of 2026. Five days away. #TheOpen #OpenChampionship",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheOpen",
+            "#OpenChampionship"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-open-championship-preview-royal-birkdale-2026.html",
+        "headline": "Open Championship Preview: The 154th Major Returns to Royal Birkdale — McIlroy Has Momentum, Scheffler Needs a Reset",
+        "word_count": 826
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Open Championship Preview\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Royal Birkdale golf\"\n- **Caption overlay:** \"THE 154th OPEN CHAMPIONSHIP | ROYAL BIRKDALE\"\n- **Usage:** X Post, Facebook long-form"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Open Championship Preview — Royal Birkdale\n**Sources:**\n- Wikipedia: 2026 Open Championship\n- GolfPass: Royal Birkdale 154th Open course preview\n- Golf Channel: Open Championship full field and qualifications\n- The Open official site: theopen.com/royal-birkdale-154th-open\n**Key Facts:**\n- Tournament: The 154th Open Championship\n- Venue: Royal Birkdale Golf Club, Southport, England\n- Dates: July 16-19, 2026 (Thursday-Sunday)\n- Full field: 156 players\n- Last at Royal Birkdale: 2017 Open (Jordan Spieth won)\n- Course modifications since 2017: former par-3 14th removed; par-5 15th relocated and renumbered as 14th; new par-3 15th inserted (designed by Tom Mackenzie and Mike Howard of Mackenzie & Ebert)\n- Character: Links course routing through valleys in dune system; subtle fairway undulation; accurate approach play and putting expected to be key differentiators\n- LIV qualifiers with direct exemptions: Joaquin Niemann, Lucas Herbert (won LIV Virginia wire-to-wire at 24-under; 27th different LIV individual title winner)\n- Tom McKibbin earned invitation via LINK Hong Kong Open victory (earned Masters and Open invitations through LIV pathway)\n- Scheffler still World No. 1 entering The Open despite missed cut\n- Confidence: HIGH (Wikipedia/official Open site for dates/venue; GolfPass for course info)\n**Freshness:** Opens in 5 days — ideal preview window.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

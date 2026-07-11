@@ -2181,3 +2181,48 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 - **Key facts:** Clark won; Burns was 2nd at -3; Scheffler entered Sunday 6 shots back; Grand Slam bid (had Masters/PGA/The Open) over for 2026; career Grand Slam still achievable; Scheffler age 29; 6 all-time career Grand Slam winners (Sarazen/Hogan/Player/Nicklaus/Woods/McIlroy)
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Scheffler wins future US Open (completes career Grand Slam)
+
+## 2026-07-11
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-11 | T1 | Scottish Open R3 — McIlroy, Tom Kim, Jordan Smith Tied at 9-Under at Renaissance Club | X, FB, Article | NEW |
+| 2026-07-11 | T1 | Scheffler Misses Cut at Scottish Open — Ends 78-Round Made-Cut Streak (5th All-Time) | X, FB, Article | NEW |
+| 2026-07-11 | T1 | Nelly Korda Misses Cut at Evian — Lottie Woad Leads LPGA Major at 11-Under | X, FB, Article | NEW |
+| 2026-07-11 | T2 | LIV Golf Files WARN Act Layoff Notices — PIF Ending Funding After 2026 Season | X, FB, Article | FOLLOW UP |
+| 2026-07-11 | T2 | Open Championship Preview — 154th Major Returns to Royal Birkdale, July 16-19 | X, FB, Article | NEW |
+
+### STORY 1: Scottish Open R3 — McIlroy/Kim/Smith Lead
+- **Tier:** 1
+- **Category:** Genesis Scottish Open / PGA Tour / DP World Tour
+- **Key facts:** Genesis Scottish Open at The Renaissance Club North Berwick; $9M purse; July 9-12; entering R3 co-leaders at 9-under: McIlroy (69-66), Tom Kim, Jordan Smith (England); 8-under: Fitzpatrick/Min Woo Lee; 7-under: Gotterup/Yellamaraju/MacIntyre (2024 champ); 6-under: Wyndham Clark; Saturday feature: McIlroy-Fitzpatrick 15:24 UK, Kim-Smith 15:35
+- **Status:** NEW
+- **Follow-up ideas:** Scottish Open final result; McIlroy wins pre-Open; MacIntyre repeat
+
+### STORY 2: Scheffler Misses Cut — 78-Round Streak Ends
+- **Tier:** 1
+- **Category:** PGA Tour / Scheffler
+- **Key facts:** Scheffler shot 68+72=+0; missed cut by 2 strokes (cut line 2-under); snapped 78 consecutive made-cut streak (5th longest in PGA Tour history: Woods 142/Nelson 113/Nicklaus 105/Irwin 86/Scheffler 78); last missed cut: 2022 FedEx St. Jude Classic 1,428 days ago; 11/26 fairways, 23/36 GIR; lost ~2 strokes approach; 163rd week at World No. 1 (197th overall) starting July 5; one week before Open Championship Royal Birkdale
+- **Status:** NEW
+- **Follow-up ideas:** Scheffler wins Open (bounce-back narrative); Scheffler R1 at Birkdale
+
+### STORY 3: Evian Championship — Korda Out, Woad Leads
+- **Tier:** 1
+- **Category:** LPGA / Evian Championship / Major
+- **Key facts:** Amundi Evian Championship Evian-les-Bains France; 4th of 5 women's majors 2026; $9.1M purse; July 9-12; Korda missed cut (+1: 74+69) — first missed cut since 2024 Women's PGA; was bidding 3 consecutive majors (won 2026 Women's Masters + US Women's Open)/5th major overall; Lottie Woad (England) leads 11-under (67+64 with 8 birdies); Aki Iwai (Japan) 10-under (63+72); sources: ESPN/NBC Sports/Yahoo Sports
+- **Status:** NEW
+- **Follow-up ideas:** Woad wins Evian major; Korda at AIG Women's Open July 30; Iwai wins
+
+### STORY 4: LIV Golf Layoff Notices / PIF Exits
+- **Tier:** 2
+- **Category:** LIV Golf / Business
+- **Key facts:** LIV filed WARN Act notices US+UK; PIF announced April 2026 ends funding after 2026; PIF invested $5B+ since 2022; annual losses ~$500-600M; seeking $250-400M outside investment; possible cancellation final 2 events if no funding; Ducera Partners handling fundraising; CEO O'Neil roadshow; World Golf Group + PGL suing $210-630M; Lucas Herbert won LIV Virginia 24-under wire-to-wire (27th different LIV winner); 4Aces GC won team title; next event July 23 England; sources: Sportico/Golf Digest/OutKick
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** New investor announced; event cancellation; 2027 schedule or shutdown
+
+### STORY 5: Open Championship Preview — Royal Birkdale
+- **Tier:** 2
+- **Category:** The Open Championship / Major Preview
+- **Key facts:** 154th Open Championship Royal Birkdale Southport England; July 16-19 2026; 156 players; last at Birkdale 2017 (Spieth won); course modifications: former par-3 14th removed, par-5 15th relocated/renumbered 14th, new par-3 15th added (Mackenzie & Ebert); LIV qualifiers: Joaquin Niemann + Lucas Herbert (direct exemptions); Tom McKibbin (via LINK Hong Kong Open victory); Scheffler still World No. 1; McIlroy has pre-tournament momentum
+- **Status:** NEW
+- **Follow-up ideas:** Open Championship R1 results; McIlroy wins; Scheffler bounce-back; LIV qualifier results
