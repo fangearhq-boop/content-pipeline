@@ -1,6 +1,46 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: July 9, 2026
+## Latest Run: July 11, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | WonderStone Infant Walker CPSC recall (~70 units; Walmart.com only; April 2026; ~$80; walker passes through doorway + fails to stop at step edge; mandatory standard violation; contact Wonder Stone Toys for full refund; cpsc.gov); HB25-1135 "Communication Devices in Schools" (July 1 policy adoption deadline passed; each district sets own rules; D49 bans phones K-8 during school day, high schoolers can use at lunch; D11 already a model; D20 details pending; legal effective date August 12, 2026); Pikes Peak or Bust Parade TODAY (July 11, 11 AM; Tejon Street St. Vrain to Vermijo; theme "Purple Mountains, Silver Spurs"; Grand Marshal Kaylee Gripentrog; cancelled June 19 ~$30K funding gap; restored June 21 via UCHealth + AMR + Bank of Colorado + city funds; free to watch; ppbrodeo.com); D20 superintendent transition (Jinger Haberer terminated May 14-15 for insubordination; interim Dr. Susan Field formerly Asst. Supt. Learning Services; serving full 2026-27 year; D20 Back to School Job Fair July 23; asd20.org); Heat advisory COS July 11-14 (noon Sat through midnight Mon; 97-102°F; Red Flag conditions El Paso County; peak heat 2-5 PM; hydration + car safety guidance; PPLD + Recreation Centers as cooling locations; weather.gov/pub) |
+| Story History Check | COMPLETE | All 5 stories NEW; confirmed against story-history.md; parade story distinct from July 9's rodeo coverage (July 9 mentioned parade as context for rodeo; today's story is parade-specific with near-cancellation angle; D20 story is new angle since no prior superintendent coverage; heat advisory is new event (not covered in recent runs) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2); ### STORY N: format |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tags; all facts from web search |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4); rotating from July 9's Jamie Rivera (S1, S3, S5) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 8 posts (2 for S1, 2 for S2, 2 for S3, 1 for S4, 1 for S5); 3 tweets rewritten for 280-char compliance (S1 A, S2 A, S2 B); all verified under 280 chars; 4 hashtags each; COS voice rules; max 1 exclamation mark per post |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; NO hashtags; COS voice rules; contractions throughout |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only prompts (2 per story × 5); clean bottom third; no celebrity likenesses; no brand logos |
+| Image Manifest | COMPLETE | 07-image-manifest.md — YAML format; 5 stories × 3 image types (x_image + facebook_image + article_hero); all not_started; photo_source: gemini; model: gemini-2.5-flash-image; brand_kit_id: kAHCKfCZgk0 |
+| Articles | COMPLETE | 5 articles (500–750 words; What's Next sections; 0 exclamation marks; no figure tags; no photo credits; semantic HTML5); bylines: Sarah Morales (A1, A3, A5), Jamie Rivera (A2, A4) |
+| Fact-Check | COMPLETE | verify-facts.py passed (0 errors after tweet rewrites); 55 claims; HIGH: 112, MEDIUM: 56, LOW: 27; all 5 stories present in all content files; image not_started warnings cosmetic (expected for gemini source) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 5 articles; 23 dashboard items |
+| Dashboard | COMPLETE | review-dashboard.html — 23 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-07-11.xlsx (8 posts, 13:05–20:47 MT) + TOBI cosp-postplanner-tobi-2026-07-11.xlsx (8 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-07-11)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 5 FB long-form + 5 FB captions = 18 total posts (PostPlanner xlsx: 8 posts standard 13:05–20:47 MT, 8 TOBI)
+- **Articles:** 5 (bylines: Sarah Morales x3 [A1, A3, A5], Jamie Rivera x2 [A2, A4])
+- **PostPlanner exports:** cosp-postplanner-2026-07-11.xlsx (8 posts, 13:05–20:47 MT), cosp-postplanner-tobi-2026-07-11.xlsx (8 TOBI posts)
+- **Coverage:** WonderStone Infant Walker CPSC recall (~70 units; Walmart.com only; April 2026; ~$80; passes through doorway + fails to stop at step edge = serious fall hazard; mandatory standard violation; stop use + contact Wonder Stone Toys full refund; cpsc.gov); HB25-1135 "Communication Devices in Schools" (July 1 policy adoption deadline passed; each district sets own rules; not a statewide ban; D49 bans phones K-8 during school day high schoolers at lunch; D11 already a model; D20 details pending; restrictions take effect fall 2026); Pikes Peak or Bust Parade July 11, 2026 (TODAY; 11 AM; Tejon Street from St. Vrain to Vermijo Ave; theme "Purple Mountains, Silver Spurs"; Grand Marshal Kaylee Gripentrog 2026 Girl of the West; cancelled June 19 ~$30K funding gap; restored June 21 via UCHealth title sponsor + AMR + Bank of Colorado + city funds coordinated by City Council and Mayor's office; free to watch; ppbrodeo.com for rodeo tickets); D20 superintendent transition (Jinger Haberer terminated May 14-15, 2026 for insubordination; Dr. Susan Field interim superintendent formerly Asst. Supt. Learning Services; serving full 2026-27 school year; D20 Back to School Job Fair July 23; asd20.org); Heat advisory COS July 11-14 (NWS; noon Saturday July 11 through midnight Monday July 14; 97-102°F; average July high ~87°F; Red Flag conditions El Paso County; peak heat 2-5 PM; heat exhaustion signs in children; never leave kids/pets in parked car; PPLD + Recreation Centers of Colorado Springs as cooling locations; weather.gov/pub)
+- **Notes:**
+  - Ran as Niche 2 in sequence after Tennis niche
+  - X posts: 3 tweets exceeded 280 chars (S1 A, S2 A, S2 B) — rewritten for compliance; all 8 final tweets verified under 280
+  - S3 (parade) is distinct from July 9's S4 (rodeo) — July 9 mentioned parade only as context for rodeo schedule; today's story is parade-specific with the near-cancellation community-rescue angle
+  - verify-facts.py: all 5 stories present in all content files; image not_started warnings cosmetic (expected for gemini source)
+  - Compile: 8 X posts, 5 articles; 23 dashboard items
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4] (rotating from July 9's Jamie Rivera [S1, S3, S5])
+
+---
+
+## Prior Run: July 9, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|

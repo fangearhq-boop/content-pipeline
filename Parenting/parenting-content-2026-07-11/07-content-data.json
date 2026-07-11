@@ -1,0 +1,281 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-11",
+  "compiled_at": "2026-07-11T12:35:12.045469+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "CPSC Recall — WonderStone Infant Walkers (~70 Units)",
+      "tier": 1,
+      "status": "",
+      "angle": "Recall action guide — how to identify the product, understand the hazard, and get a refund. Note the small recall volume (~70 units) means most families won't have one, but the hazard is serious.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "CPSC recall: ~70 WonderStone Infant Walkers ($80 at Walmart.com). The walker can pass through a doorway and roll off a step — serious fall hazard. Stop use now and contact Wonder Stone Toys for a refund. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 263
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Got a WonderStone Infant Walker from Walmart.com? It's been recalled — the walker can clear a doorway and roll off a step edge. Stop use immediately and contact Wonder Stone Toys for your refund. ~70 units affected. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-wonderstone-infant-walker-recall-cpsc-2026.html",
+        "headline": "CPSC Recalls WonderStone Infant Walkers: What Colorado Springs Parents Need to Know",
+        "word_count": 649
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "WonderStone Infant Walker Recall\n\n#### Concept 1 — X Post / Facebook\n\n**Prompt:**\nA close-up scene of a generic infant walker in a home hallway near a doorway threshold. The walker is a simple, colorful plastic frame with a fabric seat — no brand markings or logos. The hallway transitions to a step or small landing visible in the background, suggesting the hazard context. The mood is cautionary but not frightening — slightly desaturated tones suggesting concern. Color palette: warm wood floors, neutral grays, soft blue plastic frame. Natural indoor lighting from a window out of frame. The bottom third of the image is open, clean floor space. Flat editorial photography style. No people, no text, no branded identifiers.\n\n**Dimensions:** 1080x1350 (X/FB)\n\n---\n\n#### Concept 2 — Article Hero\n\n**Prompt:**\nWide-format overhead view of a home hallway with an infant walker positioned at a doorway threshold — the walker sits at the edge of a step, illustrating a fall hazard. Generic plastic frame design with no brand markings. Warm natural light from above. Color palette: warm honey wood tones, soft neutral grays, and a pop of gentle blue from the walker seat. Clean open floor space in the bottom quarter of the frame. Minimal, editorial flat-lay photography style. No people, no text, no logos.\n\n**Dimensions:** 1200x630 (Article hero)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Colorado's New Phone-in-Schools Law — What COS District Policies Say",
+      "tier": 1,
+      "status": "",
+      "angle": "What COS parents need to know before fall — district-by-district breakdown of what HB25-1135 means locally.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "All COS school districts were required to publish their student phone policy by July 1 under HB25-1135. D49 bans phones K-8 during the school day. D11 was already a model. Rules take effect this fall. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 260
+        },
+        {
+          "label": "Post 2-2",
+          "text": "HB25-1135 lets each district set its own rules — not a statewide ban. D49: no phones K-8 during the school day, high schoolers can use at lunch. Find your district's posted policy before fall. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-colorado-cellphone-ban-schools-hb25-1135-cos.html",
+        "headline": "Colorado's New School Phone Law Is Now in Effect — Here's What COS Families Need to Know",
+        "word_count": 651
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Colorado Phone-in-Schools Law\n\n#### Concept 1 — X Post / Facebook\n\n**Prompt:**\nA backpack on a school locker shelf with a smartphone placed nearby, face-down — suggesting a phone-free policy in effect. The school setting is generic — neutral-colored lockers, a wood-grain shelf, soft natural light. Mood: calm, organized, policy-compliant. Color palette: soft slate blue, warm wood, light gray. The bottom third of the image is an open locker shelf or floor space. Clean, editorial school photography style. No faces, no identifiable students, no text, no brand logos on any device.\n\n**Dimensions:** 1080x1350 (X/FB)\n\n---\n\n#### Concept 2 — Article Hero\n\n**Prompt:**\nWide-format image of a school classroom with desks arranged in rows. On each desk surface, a notebook and pencil are visible — no phones. The classroom is bright, airy, and modern with large windows letting in natural morning light. The atmosphere is focused and calm. Color palette: warm cream, soft blue-gray, light wood desk surfaces, and gentle amber light. Open floor space in the bottom third of the frame. Editorial educational photography style. No identifiable faces, no devices, no text, no logos.\n\n**Dimensions:** 1200x630 (Article hero)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Pikes Peak or Bust Parade — TODAY, 11 AM, Downtown COS",
+      "tier": 1,
+      "status": "",
+      "angle": "Event preview + nearly-cancelled backstory — this parade almost didn't happen, and the community came together to save it.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Pikes Peak or Bust Parade is TODAY 🎉 — 11 AM on Tejon Street downtown COS. Theme: \"Purple Mountains, Silver Spurs.\" Nearly cancelled June 19, rescued by a community coalition including UCHealth as title sponsor. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 271
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Last call — Pikes Peak or Bust Parade starts at 11 AM on Tejon Street in downtown Colorado Springs. Grand Marshal Kaylee Gripentrog leads the way. This parade almost didn't happen. Glad it did. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-pikes-peak-or-bust-parade-july-11-2026-cos.html",
+        "headline": "The Pikes Peak or Bust Parade Is Today — And It Almost Didn't Happen",
+        "word_count": 507
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Pikes Peak or Bust Parade\n\n#### Concept 1 — X Post / Facebook\n\n**Prompt:**\nA festive small-town parade scene on a downtown street — a marching band in the distance, colorful banners lining the street, spectators on the sidewalk. The mood is celebratory and community-oriented, late morning sunlight casting warm golden light on the scene. Mountain peaks are faintly visible in the background suggesting Colorado. Color palette: deep reds and blues of parade uniforms, bright banner colors, warm golden street light, and a clear blue sky. The bottom third of the frame is an open street surface. Warm, community celebration editorial photography style. No identifiable faces, no text, no logos, no licensed characters.\n\n**Dimensions:** 1080x1350 (X/FB)\n\n---\n\n#### Concept 2 — Article Hero\n\n**Prompt:**\nWide panoramic view of a downtown Colorado street lined with American flags and colorful parade banners. A crowd of spectators lines both sides of the street on a sunny morning. In the distance, a parade procession — silhouettes of marching participants and a float — moves toward the camera. Mountain peaks visible on the horizon. Festive, community-oriented mood. Color palette: patriotic reds and blues, golden morning sun, mountain purple and white. The bottom third is open clean street pavement. Cinematic editorial documentary photography style. No identifiable faces, no text, no logos.\n\n**Dimensions:** 1200x630 (Article hero)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "D20 Starts 2026-27 Under New Leadership",
+      "tier": 2,
+      "status": "",
+      "angle": "COS families heading into D20 in fall 2026 should know who is running the district and what the transition means.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Academy D20 starts the 2026-27 school year with interim superintendent Dr. Susan Field. Former superintendent Jinger Haberer was fired in May for insubordination. D20 Back to School Job Fair: July 23. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-d20-superintendent-susan-field-interim-2026.html",
+        "headline": "Academy District 20 Enters the 2026-27 School Year with a New Interim Superintendent",
+        "word_count": 560
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D20 Superintendent Transition\n\n#### Concept 1 — X Post / Facebook\n\n**Prompt:**\nA school administration building entrance — a clean, modern façade with a generic \"District Administration\" sign suggested but not legible. Morning light falls on the building exterior. The scene suggests an institutional transition or new beginning — a door slightly ajar, fresh morning light, empty walkway. Mood: professional, neutral, forward-looking. Color palette: cool blues, clean white concrete, warm morning light accents. The bottom third is an open walkway or parking lot surface. Architectural editorial photography style. No people, no identifiable logos, no text.\n\n**Dimensions:** 1080x1350 (X/FB)\n\n---\n\n#### Concept 2 — Article Hero\n\n**Prompt:**\nWide-format exterior view of a modern Colorado school district administration building on a clear summer morning. The building is generic — modern brick and glass construction with a landscaped front walk. A Colorado blue sky and Rocky Mountain foothills visible in the background. Professional, neutral mood. Color palette: deep brick red, clean glass, lush green landscaping, and a vibrant blue Colorado sky. Open sidewalk space in the bottom third of the frame. Clean architectural editorial photography style. No people, no identifiable signage, no text, no logos.\n\n**Dimensions:** 1200x630 (Article hero)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Heat Advisory Through Monday — 97-102°F in COS",
+      "tier": 2,
+      "status": "",
+      "angle": "Practical heat safety guide for COS families during this weekend advisory — what to do, what to watch for, and where to stay cool.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Heat advisory for COS: 97-102°F through midnight Monday. Limit outdoor time during peak heat (2-5 PM), hydrate, and never leave kids in a parked car. Red Flag conditions also in effect for El Paso County this weekend. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-heat-advisory-colorado-springs-july-11-14-2026.html",
+        "headline": "Heat Advisory in Effect for Colorado Springs Through Monday — What Families Need to Know",
+        "word_count": 709
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Heat Advisory\n\n#### Concept 1 — X Post / Facebook\n\n**Prompt:**\nA blazing Colorado summer afternoon scene — a sun-drenched park with dried grass and a bright, hazy sky. A drinking water fountain or water station in the foreground is the visual anchor. The mood is hot, urgent, and practical. The landscape suggests extreme heat: bleached golden grass, intense midday sun glare, and a heat haze visible on the pavement. Color palette: deep burnt gold, pale sky blue washing to white at the horizon from heat haze, warm amber sunlight. The bottom third of the image is open pavement. Editorial documentary photography style. No identifiable people, no text, no logos.\n\n**Dimensions:** 1080x1350 (X/FB)\n\n---\n\n#### Concept 2 — Article Hero\n\n**Prompt:**\nWide panoramic Colorado summer landscape under an intensely bright sun — rolling foothills with bleached grass and Pikes Peak in the distant background, partially obscured by haze. The sky is a brilliant but washed-out blue, with a bright sun near the center. The scene communicates extreme summer heat through color and atmosphere rather than explicit elements. Color palette: bleached gold and tan grass, hazy pale blue sky, bright harsh sunlight, and distant purple-gray mountain silhouette. The bottom third is open, clean foreground grass or dirt. Cinematic landscape editorial photography style. No people, no text, no logos.\n\n**Dimensions:** 1200x630 (Article hero)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

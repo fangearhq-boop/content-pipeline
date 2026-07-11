@@ -2,6 +2,45 @@
 
 ---
 
+## July 11, 2026
+
+### Story 1: CPSC Recall — WonderStone Infant Walkers (~70 Units)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recall of approximately 70 WonderStone Infant Walkers. Sold exclusively on Walmart.com in April 2026 for approximately $80. Two hazards: walker passes through a standard doorway without stopping, and fails to halt at the edge of a step — serious fall risk. Also cites violation of mandatory federal safety standard for infant walkers. No injuries reported. Remedy: stop use immediately; contact Wonder Stone Toys for full refund. Sources: CPSC.gov.
+- **Content Produced:** Article (Sarah Morales), 2 X Text Posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** ~70 units; Walmart.com only; April 2026; ~$80; passes through doorway + fails to stop at step edge = serious fall hazard; mandatory standards violation; stop use immediately; contact Wonder Stone Toys for full refund; cpsc.gov
+
+### Story 2: Colorado's New Phone-in-Schools Law — What COS Districts Say
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — HB25-1135 ("Communication Devices in Schools") required all Colorado public school districts to publish a student device policy by July 1, 2026. Policy adoption deadline has now passed; actual restrictions take effect when school resumes fall 2026. Not a uniform statewide ban — each district sets its own rules. D49: approved policy July 10, 2025 (exempt), bans phones K-8 during school day, high schoolers can use phones at lunch. D11: cited as model district, policy already in place. D20: subject to requirement, specific policy details pending given leadership transition. Sources: Colorado General Assembly, ASD49, D11.
+- **Content Produced:** Article (Jamie Rivera), 2 X Text Posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** HB25-1135 "Communication Devices in Schools"; July 1, 2026 policy adoption deadline (passed); legal effective date August 12, 2026; each district defines its own policy; D49 bans phones K-8 during school day (high schoolers can use at lunch); D11 already a model; D20 pending; schools that had a policy before August 31, 2025 are exempt
+
+### Story 3: Pikes Peak or Bust Parade — July 11, 2026
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Full event coverage of the 2026 Pikes Peak or Bust Parade with the near-cancellation/community-rescue angle. Parade cancelled June 19 (funding gap ~$30,000 vs $50,000+ cost), restored June 21 through community effort. UCHealth title sponsor; AMR, Bank of Colorado (Dan Nordberg), and city funds (City Council President Lynette Crow-Iverson, Council Member Brandy Williams, Chief of Staff Wayne Williams) filled the gap. Tejon Street from St. Vrain to Vermijo, 11 AM. Theme: "Purple Mountains, Silver Spurs." Grand Marshal: Kaylee Gripentrog (2026 Girl of the West). Free to watch. Kicks off rodeo week July 14-18 at Norris Penrose Event Center. Sources: Colorado Springs Gazette, ppbrodeo.com.
+- **Content Produced:** Article (Sarah Morales), 2 X Text Posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** July 11, 2026; 11 AM; Tejon Street from St. Vrain to Vermijo Avenue downtown COS; theme "Purple Mountains, Silver Spurs"; Grand Marshal Kaylee Gripentrog (2026 Girl of the West); cancelled June 19 (~$30K funding gap); restored June 21 (UCHealth title sponsor + AMR + Bank of Colorado + city funds); free to watch; ppbrodeo.com for rodeo tickets
+
+### Story 4: D20 Starts 2026-27 Under New Leadership
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — Academy District 20 enters 2026-27 school year under interim superintendent Dr. Susan Field (previously Assistant Superintendent for Learning Services). Former superintendent Jinger Haberer fired May 14-15, 2026 for insubordination (invited unauthorized person to special board meeting May 7; compromised attorney-client privilege). Dr. Field expected to serve through full 2026-27 school year. D20 Back to School Job Fair July 23. Sources: Colorado Springs Gazette, D20 board communications.
+- **Content Produced:** Article (Jamie Rivera), 1 X Text Post, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Interim superintendent Dr. Susan Field (formerly Asst. Supt. Learning Services); Jinger Haberer terminated May 14-15, 2026 for insubordination (unauthorized person invited to May 7 special board meeting; attorney-client privilege compromised); Dr. Field serving full 2026-27 school year; D20 Back to School Job Fair July 23; asd20.org
+
+### Story 5: Heat Advisory July 11-14 — 97-102°F in Colorado Springs
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — NWS heat advisory for COS and El Paso County from noon Saturday July 11 through midnight Monday July 14. Forecast highs 97-102°F (average July high is 87°F). Red Flag conditions also in effect for El Paso County (low humidity + gusty winds = elevated wildfire risk). Family safety guide: peak heat window 2-5 PM; hydration; heat illness signs in children; never leave kids/pets in parked cars. Cool locations: PPLD branches, Recreation Centers of Colorado Springs. Sources: NWS Pueblo (weather.gov/pub).
+- **Content Produced:** Article (Sarah Morales), 1 X Text Post, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** NWS heat advisory; noon Saturday July 11 through midnight Monday July 14; 97-102°F range; average July high for COS ~87°F; Red Flag conditions for El Paso County; peak heat 2-5 PM; hydrate before thirst; heat exhaustion signs: heavy sweating, pale skin, fast weak pulse, nausea, dizziness, muscle cramps; never leave child/pet in parked car; PPLD branches + Recreation Centers of Colorado Springs for cooling; weather.gov/pub
+
+---
+
 ## July 9, 2026
 
 ### Story 1: CPSC Recall — VEVOR Baby Loungers (~237 Units)
