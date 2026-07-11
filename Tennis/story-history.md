@@ -6,6 +6,16 @@ Track previously covered stories to avoid repetition and maintain content freshn
 
 | Date | Story | Tier | Platforms | Notes |
 |------|-------|------|-----------|-------|
+| 2026-07-09 | Arthur Fery (British wildcard, No. 114) def. Flavio Cobolli (No. 9) 6-4, 7-6(4), 6-0 — 2nd men's wildcard Wimbledon SF in Open Era (1st was Ivanisevic 2001 who won the title); 5th British man in Wimbledon SF Open Era (Taylor/Henman/Murray/Norrie); lowest-ranked Wimbledon SF since Ivanisevic No. 125 in 2001; had 6 career tour wins before tournament; faces Zverev Friday | T1 | X, FB, Article | ESPN, ATP Tour, Sportico |
+| 2026-07-09 | Alexander Zverev (No. 2) def. Taylor Fritz (No. 6) 6-4, 6-4, 6-2 in 1h59m — first-ever Wimbledon SF; was 0-7 vs Fritz (last win Rome 2024); 5th active player with SFs at all 4 Slams; Paris-London double (RG + Wimbledon same year) now possible — last done Nadal 2008; Fritz had knee injury medical timeout 2nd set; said knee bothered him from 3rd game; faces Fery Friday | T1 | X, FB, Article | ESPN, ATP Tour, Olympics |
+| 2026-07-09 | Women's Wimbledon Day 10 — Kostyuk (No. 12) def. Paolini (No. 13) 6-3, 6-2 in 69 min (2024 finalist dispatched efficiently; first Wimbledon SF); Noskova (No. 9) def. Mertens (No. 25) 6-3, 7-5 (30 winners, 79% first-serve pts; first Wimbledon SF); all 4 remaining women (Gauff/Muchova/Kostyuk/Noskova) first-time Wimbledon champions guaranteed | T2 | X, FB, Article | WTA, Outlook India, Bleacher Report |
+| 2026-07-09 | Women's SF Day 11 preview — Gauff (No. 7) vs Muchova (No. 10) then Kostyuk (No. 12) vs Noskova (No. 9) on Centre Court Thursday July 9; Gauff only Slam winner (2023 USO + 2025 FO); Kostyuk-Noskova have never played at a GS; combined age of all 4 is 85; 10th straight year first-time women's champion guaranteed; mixed doubles final also Thursday | T1 | X, FB, Article | WTA, ESPN, Olympics |
+| 2026-07-09 | Men's SF preview Friday July 10 — Fery (WC, No. 114) vs Zverev (No. 2, RG champion) Centre Court; Sinner (No. 1, 0 sets dropped, defending champion) vs Djokovic (No. 7, coming off 5h15m QF epic, ankle/calf injury, 48h recovery) Court 1; 3rd time in 4 years Sinner vs Djokovic at Wimbledon SF; last year Sinner won straight sets then took title | T1 | X, FB, Article | ESPN, ATP Tour, Olympics |
+| 2026-07-08 | Djokovic def. No. 3 FAA 7-6(10), 3-6, 6-3, 6-7(4), 7-6(4) in 5h15m — longest QF in Wimbledon history; 8th consecutive Wimbledon SF (record); ankle/calf injury; survived 3 match points in 5th-set TB before winning 7-4; won 22-point first-set TB; "One of the best matches I've been part of on this court in my career" | T1 | X, FB, Article | ESPN, The Guardian, Tennis Majors, wimbledon.com |
+| 2026-07-08 | Sinner def. Struff 7-5, 7-6(4), 6-3 — 16 aces, 3 of 3 break points, zero sets dropped all tournament; 10th career GS SF; Struff 36yo in 47th major became oldest Open Era man to reach first Grand Slam QF (surpassing Fabrice Santoro) | T1 | X, FB, Article | ATP Tour, Tennis Majors, ESPN |
+| 2026-07-08 | Women's Day 9 — Gauff def. Pegula 4-6, 6-3, 6-3 (first Wimbledon SF; 5/5 break pts; hadn't won on grass in 2 years; "I have found the formula to succeed on grass"; youngest to SF all 4 slams since Sharapova 2007); Muchova def. Osaka 7-6(4), 6-4 (4th Czech woman Open Era with SF at all 4 slams; Osaka: "My legs felt disconnected from the upper half"); Gauff vs Muchova Thursday SF | T2 | X, FB, Article | WTA, ESPN, Tennis Majors |
+| 2026-07-08 | Wimbledon Day 10 preview — Fery (British wildcard) vs Cobolli (No. 9) on Centre Court; Fery beat Cobolli at 2026 Australian Open; Fritz (No. 7) vs Zverev (No. 2, first-ever Wimbledon QF) on Court 1 (Fritz leads H2H 10-5, 7 consecutive, incl. Halle on grass); Paolini (No. 13, 2024 finalist) vs Kostyuk (No. 12, 20-of-21 wins); Noskova (No. 9) vs Mertens (No. 25) — both first Wimbledon QFs | T1 | X, FB, Article | Wimbledon.com, ATP Tour, WTA |
+| 2026-07-08 | Sinner vs Djokovic SF preview — 3rd time in 4 years at Wimbledon semifinal stage; 2nd consecutive year; Sinner def. Djokovic straight sets in 2025 SF then won the title; Djokovic arrives from 5h15m epic, ankle/calf injury; Sinner no sets dropped; Friday July 10 Centre Court | T1 | X, FB, Article | ESPN, Tennis Majors, ATP Tour |
 | 2026-07-07 | FAA calls medical timeout rule "a disgrace of a rule" — Davidovich Fokina called physio while FAA served for match at 5-4 in 4th set; Fokina won that set; FAA won 5th 6-1; proposed fix: forfeit all points in service game when physio called; Roddick: wouldn't have shown FAA's restraint | T2 | X, FB, Article | Yahoo Sports, Tennis Now, Tennishead |
 | 2026-07-07 | Day 9 QF preview — Gauff(7) vs Pegula(4) Centre Court (first all-American ladies' Wimbledon QF between top-10 seeds since 2009 Serena-Venus final; Pegula H2H 5-3, 1-1 on grass); FAA(3) vs Djokovic(7) Centre Court (first grass meeting, H2H 1-1; Djokovic chasing 25th slam/8th Wimbledon); Sinner(1) vs Struff Court 1 (0 sets dropped, H2H 3-0; scheduling controversy); Osaka(14) vs Muchova(10) Court 1 (Bad Homburg final rematch, Muchova won) | T1 | X, FB, Article | Olympics.com, WTA, CBS Sports, Puntodebreak |
 | 2026-07-07 | Paolini (No. 13) def. Eala (No. 29) 6-4, 4-6, 6-3 — ends historic run of first Filipino Grand Slam second-week player (Open Era); Paolini into 3rd major QF. Noskova def. Keys 6-4, 7-6(2) (Noskova's first Wimbledon QF). Mertens def. Bouzkova 6-4, 6-4 (Mertens' first Wimbledon QF). Kostyuk def. Krueger 6-4, 6-4. Wimbledon 2026 guaranteed first-time women's champion | T2 | X, FB, Article | ESPN, Yardbarker, Just Women's Sports |
@@ -826,3 +836,91 @@ Track previously covered stories to avoid repetition and maintain content freshn
 - **Tier:** 2
 - **Key Facts:** Gauff: 4-6, 6-3, 6-4 vs Bencic; Pegula: 4-6, 6-3, 6-1 vs Jovic; Muchova: 7-5, 5-7, 6-3 vs Krejcikova; Sources: olympics.com, wtatennis.com, cbssports.com
 - **Follow-Up Opportunities:** All women's QF results; Eala potential QF
+
+---
+
+## 2026-07-09
+
+### Story 1: Fery Into Wimbledon Semifinals — British Wild Card Makes History
+- **Date:** 2026-07-09
+- **Angle:** NEW STORY — Arthur Fery (British wildcard, No. 114) def. No. 9 Flavio Cobolli 6-4, 7-6(4), 6-0 on Day 10 (July 8). Second men's wildcard to reach Wimbledon SF in Open Era (after Ivanisevic 2001). Fifth British man in the Open Era SF (Taylor, Henman, Murray, Norrie). Lowest-ranked SF since Ivanisevic (No. 125) in 2001. Faces Zverev Friday.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Key Facts:** Score 6-4, 7-6(4), 6-0; No. 114 ranked; 5th British man in Open Era SF; second wildcard to reach Wimbledon SF ever; Sources: atptour.com, espn.com, sportico.com, olympics.com
+- **Follow-Up Opportunities:** Fery vs Zverev SF result
+
+### Story 2: Zverev Ends Fritz Streak, Reaches First Wimbledon Semifinal
+- **Date:** 2026-07-09
+- **Angle:** NEW STORY — No. 2 Zverev def. No. 6 Fritz 6-4, 6-4, 6-2 in 1h59m on Day 10 (July 8). Reversed 0-7 streak vs Fritz. First Wimbledon SF for Zverev. Fifth active player to reach SF at all four Slams. Roland Garros champion chasing Paris-London double (last man: Nadal 2008). Faces Fery Friday.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Key Facts:** Score 6-4, 6-4, 6-2; 1h59m; reversed 0-7 losing streak vs Fritz; first Wimbledon SF; RG 2026 champ; Sources: atptour.com, espn.com, olympics.com, yahoo sports
+- **Follow-Up Opportunities:** Fery vs Zverev SF result; Channel Slam bid
+
+### Story 3: Women's Day 10 — Kostyuk and Noskova Into Wimbledon Semis
+- **Date:** 2026-07-09
+- **Angle:** NEW STORY — Day 10 (July 8): Kostyuk (No. 12) def. Paolini (No. 13) 6-3, 6-2 in 69 minutes. Noskova (No. 9) def. Mertens (No. 25) 6-3, 7-5. Both in their first Wimbledon SFs. Wimbledon guaranteed to crown a first-time women's champion.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Key Facts:** Kostyuk: 6-3, 6-2, 69 min; Noskova: 6-3, 7-5, 79% first-serve pts, 30 winners; Sources: wtatennis.com, outlookindia.com, olympics.com
+- **Follow-Up Opportunities:** Women's SF results; all-Czech potential final
+
+### Story 4: Women's SF Preview — Gauff vs Muchova, Kostyuk vs Noskova Day 11
+- **Date:** 2026-07-09
+- **Angle:** NEW STORY — Day 11 (July 9) both women's SFs on Centre Court. Gauff (No. 7) vs Muchova (No. 10), then Kostyuk (No. 12) vs Noskova (No. 9). All four chasing first Wimbledon title. Youngest women's SF field in decades. 10th straight year a first-time champion will win.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Key Facts:** Gauff 22, Noskova 21, Kostyuk 22, Muchova 28; Gauff only Slam winner in group; Sources: wtatennis.com, espn.com, olympics.com
+- **Follow-Up Opportunities:** Women's SF results (covered July 10)
+
+### Story 5: Men's SF Preview — Fery vs Zverev, Sinner vs Djokovic Friday
+- **Date:** 2026-07-09
+- **Angle:** NEW STORY — Both men's SFs on Friday July 10. Fery (No. 114 WC) vs Zverev (No. 2, RG champ). Sinner (No. 1, defending champ, 0 sets dropped) vs Djokovic (No. 7, ankle injury, 5h15m QF). Generational contrasts across both matchups.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 1 Image Concept
+- **Tier:** 1
+- **Key Facts:** Fery vs Zverev Centre Court 1:30 PM BST; Djokovic 39yo oldest SF in Open Era; Sinner defending champion; Sources: espn.com, atptour.com, olympics.com
+- **Follow-Up Opportunities:** Men's SF results (covered July 10)
+
+---
+
+## 2026-07-10
+
+### Story 1: Muchova Saves Match Point, Beats Gauff — All-Czech Wimbledon Final Set
+- **Date:** 2026-07-10
+- **Angle:** NEW STORY — Day 11 (July 9) results: Muchova (No. 10) def. Gauff (No. 7) 6-2, 1-6, 7-6(10) in 2h35m; Gauff had match point at 9-8 in TB, put drop shot into net; Muchova won tiebreak 12-10. Noskova (No. 9) def. Kostyuk (No. 12) 6-4, 6-4 in 79 min. First all-Czech women's Wimbledon final in history. First same-nationality women's Slam final since Williams sisters at 2017 US Open.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Key Facts:** Muchova: 6-2, 1-6, 7-6(10), 2h35m; TB 12-10; match point saved at 9-8; Noskova: 6-4, 6-4, 79 min; first all-Czech final in Wimbledon women's history; Sources: wtatennis.com, skysports.com, forbes.com, aljazeera.com, xinhua
+- **Follow-Up Opportunities:** Women's final result Muchova vs Noskova Saturday July 11
+
+### Story 2: Women's Final Preview — Muchova vs. Noskova, First All-Czech Grand Slam Final
+- **Date:** 2026-07-10
+- **Angle:** NEW STORY — Wimbledon women's final Saturday July 11. Muchova (29, 2nd Slam final) vs Noskova (21, 1st Slam final). Both from Přerov, Czech Republic (pop. 43,000). Czech women: 12 Wimbledon titles; Vondrousova (2023) and Krejcikova (2024) = 3rd Czech in 4 years guaranteed.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Key Facts:** Both from Přerov; Muchova 29/2nd Slam final; Noskova 21/1st Slam final; Czech women 12 Wimbledon titles; first-time champion guaranteed; Sources: washingtonpost.com, forbes.com, tennismajors.com
+- **Follow-Up Opportunities:** Women's final result Sunday
+
+### Story 3: Fery vs. Zverev Wimbledon SF — Wild Card vs. Channel Slam Chaser
+- **Date:** 2026-07-10
+- **Angle:** NEW STORY (match-day preview, July 10) — Fery (23yo, No. 114, 4th WC to reach major SF in Open Era) vs Zverev (No. 2, 2026 RG champ, chasing Channel Slam). Only 5 men have won Channel Slam in Open Era (Laver, Borg, Federer, Nadal, Djokovic). Fery's father: Loic Fery, FC Lorient president.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Key Facts:** Centre Court 1:30 PM BST; 4th wildcard to reach major SF in Open Era; Channel Slam 5 men only in Open Era; Zverev won RG 2026; Sources: atptour.com, olympics.com, rolandgarros.com, cbssports.com
+- **Follow-Up Opportunities:** SF result; men's final Sunday
+
+### Story 4: Sinner vs. Djokovic Wimbledon SF — Defending Champion vs. Injured 39-Year-Old
+- **Date:** 2026-07-10
+- **Angle:** FOLLOW-UP (July 9 brief previewed; now match-day coverage with injury detail) — Sinner (No. 1, defending champ, 12 straight sets) vs Djokovic (39y 46d, oldest Wimbledon men's SF in Open Era, ankle/calf injury from 5h15m QF vs FAA). H2H: Sinner leads 6-5; Djokovic won 2026 AO SF; Sinner won 2025 Wimbledon SF 6-3, 6-4, 6-4.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Key Facts:** Djokovic 39y 46d oldest Open Era Wimbledon men's SF; 5h15m QF longest men's QF in Wimbledon history; Sinner 12 straight sets; H2H Sinner 6-5; Sources: atptour.com, espn.com, aljazeera.com, wimbledon.com
+- **Follow-Up Opportunities:** SF result; men's final Sunday
+
+### Story 5: Czech Women's Wimbledon Dynasty — From Navratilova to Noskova
+- **Date:** 2026-07-10
+- **Angle:** NEW STORY — Feature on Czech women's Wimbledon dominance. Navratilova 9 titles (1978-1990); Novotna 1998; Kvitova 2011, 2014; Vondrousova 2023 (unseeded); Krejcikova 2024. Both Saturday's finalists from Přerov, same city. Czech women: 12 Wimbledon titles all-time.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 1 Image Concept
+- **Tier:** 2
+- **Key Facts:** 12 Czech Wimbledon titles; Navratilova defected 1975; Vondrousova first unseeded champion since 1963; Noskova/Muchova both from Přerov; Sources: washingtonpost.com, foxsports.com, forbes.com
+- **Follow-Up Opportunities:** Women's final result; follow-up on Czech dynasty story post-final

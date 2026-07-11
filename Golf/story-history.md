@@ -2,6 +2,141 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-07-10
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-10 | T1 | Scottish Open R1 — McIlroy's "Liberated" 65 Headlines Five-Way Tie; Rahm +3 Disaster | X, FB, Article | FOLLOW UP |
+| 2026-07-10 | T1 | Evian Championship R2 Underway — Iwai Leads at -8, Korda at +3 and 11 Back | X, FB, Article | FOLLOW UP |
+| 2026-07-10 | T1 | LIV Golf Files WARN Act Layoff Notices as $400M Crisis Deepens | X, FB, Article | FOLLOW UP |
+| 2026-07-10 | T2 | Open Championship Preview — Royal Birkdale Rebuilt Since 2017, 154th Open 6 Days Away | X, FB, Article | NEW |
+| 2026-07-10 | T2 | Rahm's Nightmare Return — T137 at Scottish Open, Won't Rule Out Personal LIV Investment | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Scottish Open R1 — McIlroy Leads, Rahm Disaster
+- **Tier:** 1
+- **Category:** PGA Tour / DP World Tour / Scottish Open
+- **Key facts:** Genesis Scottish Open, Renaissance Club, North Berwick; $9M (Rolex Series); July 9-12; R1 five-way tie at -5 (65): McIlroy, Cantlay, Tom Kim, Hojgaard, Wiesberger; McIlroy bogey-free 65, eagle par-5 10th, "very liberated" since 2025 Masters Grand Slam, "a complete performance" (Sky Sports); Koepka -4 (66) T6 — 14 greens, 7 birdies, missed 4 putts inside 7 feet, near hole-in-one par-3 9th; Scheffler -2 (68), 3 back, admitted something "hurt" him; Rahm +3 (73) T137, beat only 12 players, bogeyed par-5 1st, 4 bogeys in first 11 holes; Hojgaard: solo lead late → double-bogey 16th → birdie 17th to rejoin tie; cut line projected ~-1
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R2/R3/R4 results; McIlroy as Open favorite; Rahm cut miss
+
+### STORY 2: Evian R2 — Iwai Leads, Korda Needs Miracle
+- **Tier:** 1
+- **Category:** LPGA / Evian Championship
+- **Key facts:** Amundi Evian Championship, Evian Resort Golf Club, France; $9.1M; July 9-12; R1 leader: Aki Iwai (Japan, World No. 24) -8 (63), bogey-free 8 birdies, leads by 2; R1 T2: Perrine Delacour (France, World No. 116) -6 (65) — eagle par-5 15th, best French R1 in Evian history; R1 T3: Charley Hull, Jeongeun Im, Mao Saigo, Haeran Ryu, Maja Stark — all -5 (66); R1 T8: Lottie Woad -4 (67) — 20-foot eagle on par-5 9th; Korda +3 (74), 11 back; Korda career Grand Slam needs Evian + AIG Women's British Open; R2 in progress
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R2/R3/R4 leaderboard; Korda comeback; Iwai win (2nd LPGA title); Delacour home story
+
+### STORY 3: LIV Golf WARN Act Layoff Notices
+- **Tier:** 1
+- **Category:** LIV Golf / Business / Crisis
+- **Key facts:** LIV Golf filed WARN Act notices July 8-9 (U.S. law: 60 days advance notice of likely mass layoffs for 100+ employee companies); PIF committed ~$600M for 2026 remainder, delivered ~$200M ($66M May + $130M June), $400M gap; CEO Scott O'Neil cannot guarantee final 2 events; Jon Rahm "refuses to rule out investing own money" to save LIV (Golf Monthly); World Golf Group and Premier Golf League suing LIV for $210M-$630M (breach of confidence, unlawful means conspiracy); Ducera Partners seeking $250M-$350M investor; revenue doubled 2024→2025; 3-year profitability target under 10-event schedule; total PIF outlay $5B+; last result: Lucas Herbert wins LIV Virginia -24 by 4 shots/$4M
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** WARN Act 60-day deadline (September?); investor deal or event cancellations; player responses
+
+### STORY 4: Open Championship Preview — Royal Birkdale Rebuilt
+- **Tier:** 2
+- **Category:** The Open Championship / Royal Birkdale
+- **Key facts:** 154th Open Championship; July 16-19; Royal Birkdale Golf Club, Southport; 156 players; course rebuilt by Mackenzie & Howard since 2017: naturalized bunkering, exposed sand dunescape, par-4 5th blind shot eliminated, new par-3 15th (241 yards); Scheffler +550 defending (won 2025 Royal Portrush), would be first back-to-back Open since Tiger 2005-06, hasn't won since January 2026; McIlroy +850, "liberated" since 2025 Masters Grand Slam, co-leads Scottish Open; Spieth won 2017 Birkdale, skipped Scottish Open to prep at Birkdale; Fleetwood +1400, Southport native, skipped Scottish Open; LCQ July 13 at Birkdale (12 players, 1 spot); 300,000+ attendance
+- **Status:** NEW
+- **Follow-up ideas:** LCQ result July 13; Open Championship R1-R4; Scheffler back-to-back bid
+
+### STORY 5: Rahm's Nightmare Return
+- **Tier:** 2
+- **Category:** PGA Tour / DP World Tour / Rahm / LIV
+- **Key facts:** Rahm +3 (73), T137, beat only 12 players; first co-sanctioned PGA Tour start outside majors since LIV January 2024; bogeyed par-5 1st; 4 more bogeys first 11 holes; back-to-back birdies 15-16 only positives; cut line projected -1, Rahm needs miracle R2; McIlroy: "Great for the tournament"; after disaster result: told media won't rule out personal investment in LIV Golf; agreement for return: paid DP World Tour fines, committed to DP events remainder 2026, Scottish Open = 5th qualifying event = "member in good standing" = Ryder Cup eligibility reopened
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Rahm R2 score; likely misses cut; Ryder Cup eligibility implications; LIV personal investment follow-up
+
+## 2026-07-09
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-09 | T1 | Evian R1 — Aki Iwai Leads at -8; Korda Opens +3, Career Grand Slam Chase in Trouble | X, FB, Article | FOLLOW UP |
+| 2026-07-09 | T1 | Jon Rahm Returns to Co-Sanctioned Golf at Scottish Open — Ryder Cup Path Reopened | X, FB, Article | FOLLOW UP |
+| 2026-07-09 | T2 | LIV Golf $400M Crisis Deepens — PIF Preparing to Exit, Two Events at Risk | X, FB, Article | FOLLOW UP |
+| 2026-07-09 | T2 | Open Championship Last-Chance Qualifier — Potgieter, Bryan, Schmid Among 12 at Royal Birkdale | X, FB, Article | NEW |
+| 2026-07-09 | T2 | 2026 PGA Tour Player of the Year Race — Gotterup Makes His Move at Scottish Open | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Evian R1 — Aki Iwai Leads, Korda Opens +3
+- **Tier:** 1
+- **Category:** LPGA / Evian Championship
+- **Key facts:** Amundi Evian Championship July 9-12, Evian Resort Golf Club, France, $9.1M purse; R1 leader: Aki Iwai (Japan, World No. 24) -8 (63) leads by 3; Haeran Ryu -5 (66) T2; Lottie Woad (England) -4 (67); Korda +3 (74) 11 shots back; Korda's round: birdied 12th, bogeyed 18th, double-bogeyed 1st, bogeyed 4th and 5th, birdied 9th; Korda won Chevron + US Women's Open 2026; Ryu's KPMG win killed calendar Grand Slam bid; Korda still needs Evian + AIG Women's British Open for career Grand Slam; defending champion: Grace Kim (2025 Evian)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R2/R3/R4 leaderboard; Korda comeback possibility; Iwai win would be her second LPGA title
+
+### STORY 2: Jon Rahm Returns at Scottish Open
+- **Tier:** 1
+- **Category:** PGA Tour / DP World Tour / Scottish Open / LIV
+- **Key facts:** Genesis Scottish Open July 9-12, Renaissance Club, North Berwick, Scotland, $9M (Rolex Series); Rahm's first co-sanctioned PGA/DP World Tour start since joining LIV Golf January 2024; agreement: paid all outstanding DP World Tour fines, committed to specified number of DP World Tour events in remainder of 2026; Scottish Open = 5th event under agreement, making him "member in good standing"; Ryder Cup eligibility reopened if maintains good standing through 2026 and 2027; Rahm tee time 9:05 AM ET; McIlroy/Gotterup/MacIntyre grouped together (3:28 AM ET); quotes: "It's just another event" / "Just happy that the DP World Tour let me have the opportunity... great golf course, great crowd" / called it "one of my favourite weeks"
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Rahm R1 score; Scottish Open leaderboard; whether deal creates template for other LIV players
+
+### STORY 3: LIV Golf $400M Crisis
+- **Tier:** 2
+- **Category:** LIV Golf / Business
+- **Key facts:** PIF announced April 2026: "PIF has made the decision to fund LIV Golf only for the remainder of the 2026 season... no longer consistent with the current phase of PIF's investment strategy"; PIF committed ~$600M for remainder of 2026; delivered only ~$200M (~$66M in May + ~$130M in June); $400M shortfall; LIV Golf Indianapolis and Michigan events at risk; UK event and Trump National Bedminster expected to proceed; New Orleans already postponed; investor discussions stalling (no post-2026 structure clarity); total PIF outlay: $5B+ since 2022; total liabilities may exceed $3B without PIF; CEO: Scott O'Neil
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** LIV event cancellations confirmed; investor deal news; PIF final payment news
+
+### STORY 4: Open Championship Last-Chance Qualifier
+- **Tier:** 2
+- **Category:** The Open Championship / LCQ
+- **Key facts:** Inaugural Open Championship Last-Chance Qualifier; July 13, 2026 (Monday), 7:30 AM BST; Royal Birkdale Golf Club, Southport, England (same course hosting The Open July 16-19); 12 players / 1 spot / 18 holes; confirmed field: Aldrich Potgieter (World No. 77, LIV, Amateur Championship winner 2022 at 17, 2 previous Open appearances, PGA Tour winner); Wesley Bryan (former PGA Tour winner, Bryan Bros YouTube, missed West Lancashire Final Qualifying by 1 shot — bogeyed final hole to miss playoff); Matti Schmid (T4 2026 PGA Championship); Adri Arnaus (Spain), Charlie Huntzinger (USA); 7 other DP World Tour/Challenge Tour players
+- **Status:** NEW
+- **Follow-up ideas:** LCQ result on July 13; qualifier's first-round performance at The Open
+
+### STORY 5: 2026 PGA Tour POTY Race
+- **Tier:** 2
+- **Category:** PGA Tour / Season Awards
+- **Key facts:** Gotterup: 3 wins 2026 (John Deere July 6 + 2 earlier), World No. 4, defending Scottish Open champion; Fitzpatrick: 3 wins 2026, World No. 6; Clark: US Open + Byron Nelson wins 2026, World No. 8; Scheffler: 1 win (Masters), World No. 1; Gotterup/Fitzpatrick tied in wins, Clark has most prestigious win (US Open major), Scheffler has world ranking; Scottish Open (July 9-12) could shift POTY balance
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Scottish Open winner adds to POTY argument; Open Championship outcome; end-of-season voter breakdown
+
+## 2026-07-08
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-08 | T1 | Scottish Open Preview — Scheffler, McIlroy, Rahm and a Defending Champion Headline Renaissance Club Field | X, FB, Article | NEW |
+| 2026-07-08 | T1 | Amundi Evian Championship Preview — Korda's Career Grand Slam Bid Begins Thursday | X, FB, Article | FOLLOW UP |
+| 2026-07-08 | T2 | Open Championship Last-Chance Qualifier — Wesley Bryan Among 12 Chasing Final Spot at Royal Birkdale | X, FB, Article | NEW |
+| 2026-07-08 | T2 | LIV Golf CEO Won't Guarantee Final Four Events — Running on Saudi Loans With $400M Shortfall | X, FB, Article | FOLLOW UP |
+| 2026-07-08 | T2 | The 2026 PGA Tour Player of the Year Race — Gotterup, Fitzpatrick, and Clark Are Challenging Scheffler's Crown | X, FB, Article | NEW |
+
+### STORY 1: Scottish Open Preview — Scheffler, McIlroy, Rahm and Gotterup
+- **Tier:** 1
+- **Category:** PGA Tour / DP World Tour / Scottish Open
+- **Key facts:** Genesis Scottish Open July 9-12 at Renaissance Club, North Berwick; $9M purse; Gotterup defending (won John Deere July 6, 3rd win 2026); Rahm first Scottish Open since 2022; Scheffler/Fitzpatrick/Fleetwood tee 8:43 AM ET Round 1; Koepka + Reed (LIV returnees) in field; final Open Championship tuneup
+- **Status:** NEW
+- **Follow-up ideas:** Round 1 results; Scottish Open leaderboard; Gotterup defense; Open Championship field
+
+### STORY 2: Amundi Evian Championship Preview — Korda Grand Slam
+- **Tier:** 1
+- **Category:** LPGA / Evian Championship / Korda
+- **Key facts:** Amundi Evian Championship July 9-12 Evian-les-Bains France; Korda +300 (won Chevron + US Women's Open 2026); career Grand Slam bid (needs Evian + AIG Women's British); Ryu Haeran won KPMG (stopped calendar Grand Slam); Grace Kim defending; $9.1M purse; Minjee Lee, Lydia Ko, Rose Zhang in field
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Round 1 results; Korda leaderboard position; Grand Slam narrative update
+
+### STORY 3: Open Championship Last-Chance Qualifier — Wesley Bryan
+- **Tier:** 2
+- **Category:** Golf / The Open Championship
+- **Key facts:** LCQ July 13 at Royal Birkdale; 12-man field; 1 spot; 18-hole stroke play; Wesley Bryan entered (PGA Tour ban controversy after LIV influencer event); Aldrich Potgieter (LIV South African) also in field
+- **Status:** NEW
+- **Follow-up ideas:** LCQ result; qualifier identity; their Open Championship performance
+
+### STORY 4: LIV Golf CEO Financial Crisis
+- **Tier:** 2
+- **Category:** LIV Golf / Business
+- **Key facts:** CEO Scott O'Neil won't guarantee final 4 events; UK/Bedminster expected, Indianapolis/Michigan at risk; New Orleans already postponed; $400M shortfall; running on PIF loans (debenture filings); PIF ending support after 2026; cumulative $6B+ Saudi investment
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Event cancellations; PIF announcement; player reactions; tour merger developments
+
+### STORY 5: 2026 PGA Tour Player of the Year Race
+- **Tier:** 2
+- **Category:** PGA Tour / Player of the Year
+- **Key facts:** Gotterup 3 wins 2026 (4 in last 12 months), No. 4 world; Fitzpatrick 3 wins (Valspar/RBC/Zurich), No. 6; Clark 2 wins (US Open/CJ Cup Byron Nelson), No. 8; Scheffler 1 win (Masters) but No. 1; Golf Channel covered July 7-8; vote at season end
+- **Status:** NEW
+- **Follow-up ideas:** Mid-season update; Scottish Open / Open Championship impact on race
+
 ## 2026-07-07
 
 | Date | Tier | Story | Platforms | Status |

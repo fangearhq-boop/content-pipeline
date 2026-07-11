@@ -1,10 +1,43 @@
 # Golf Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-07-07
+- **Date**: 2026-07-10
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-10
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 7 written, all under 280 characters (3 tweets shortened after verify-facts char limit check)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** gfr-postplanner-2026-07-10.xlsx (7 posts) + gfr-postplanner-tobi-2026-07-10.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-07-10/review-dashboard.html (10 items)
+- **Notes:** Scottish Open R1 complete: McIlroy bogey-free 65 co-leads at -5 with Cantlay/Tom Kim/Hojgaard/Wiesberger — "very liberated" since 2025 Masters Grand Slam; Koepka -4 (66) 7 birdies/missed 4 putts <7 feet; Scheffler -2 (68) 3 back; Rahm +3 (73) T137 beats only 12 players, bogeyed par-5 1st, 4 bogeys first 11 holes; Evian R1: Iwai -8 (63) bogey-free leads by 2/Delacour (France) -6 (65) best French R1 in Evian history/Korda +3 (74) 11 back, career Grand Slam bid in jeopardy; LIV Golf WARN Act layoff notices filed July 8-9 — $400M PIF gap/$210M-$630M lawsuits/Rahm won't rule out personal investment/CEO can't guarantee final 2 events; Open Championship 6 days away July 16-19 Royal Birkdale rebuilt (new par-3 15th 241yds/5th blind shot eliminated/naturalized bunkering)/Scheffler defending/McIlroy liberated/Spieth prepping at Birkdale/LCQ July 13; Rahm analysis: T137 first co-sanctioned return, Ryder Cup eligibility implications, personal LIV investment comment
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+### 2026-07-09
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway)
+- **PostPlanner exports:** gfr-postplanner-2026-07-09.xlsx (7 posts) + gfr-postplanner-tobi-2026-07-09.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-07-09/review-dashboard.html (27 items)
+- **Notes:** Evian Championship R1: Aki Iwai leads -8 (63)/Ryu -5 (66)/Woad -4/Korda +3 (74) 11 back — career Grand Slam in jeopardy; Jon Rahm returns to co-sanctioned tour at Scottish Open — paid DP World Tour fines, committed to DP events remainder 2026, 5th event under agreement/"member in good standing"/Ryder Cup eligibility reopened; LIV Golf $400M shortfall — PIF committed $600M for 2026 remainder, delivered ~$200M/$400M gap/Indianapolis+Michigan at risk/PIF April statement confirmed/UK+Bedminster expected; Open LCQ July 13 Royal Birkdale inaugural format — Potgieter World No.77/Bryan (missed Final Q by 1 shot)/Schmid (T4 PGA Championship) among 12 for 1 Open spot; 2026 POTY race — Gotterup 3 wins+defending Scottish Open champ, Fitzpatrick 3 wins, Clark US Open+Byron Nelson, Scheffler World No.1+Masters
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+### 2026-07-08
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 9 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres)
+- **PostPlanner exports:** gfr-postplanner-2026-07-08.xlsx (9 posts) + gfr-postplanner-tobi-2026-07-08.xlsx (9 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-07-08/review-dashboard.html (29 items)
+- **Notes:** OPEN CHAMPIONSHIP BUILD-UP — Scottish Open July 9-12 Renaissance Club (Gotterup defending, 3rd win 2026 at John Deere Sunday, Scheffler/McIlroy/Rahm/Fitzpatrick/Fleetwood in field, Rahm first since 2022, Koepka+Reed LIV returnees, $9M Rolex Series); Evian Championship LPGA July 9-12 France ($9.1M, Korda career Grand Slam bid +300 odds, won Chevron+US Women's Open 2026, Grace Kim defending, Minjee Lee/Lydia Ko/Rose Zhang); Open LCQ July 13 Royal Birkdale (12 players/1 spot/18 holes, Wesley Bryan entered after LIV influencer ban controversy, Aldrich Potgieter LIV South African); LIV Golf financial crisis — CEO O'Neil won't guarantee final 4 events (UK/Bedminster expected, Indianapolis/Michigan at risk, New Orleans already postponed, $400M shortfall, PIF loans/debentures, PIF ending support 2026, $6B+ cumulative); 2026 POTY race (Gotterup 3 wins No.4, Fitzpatrick 3 wins No.6, Clark US Open+Byron Nelson No.8, Scheffler 1 win but No.1, Golf Channel covered July 7-8)
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-07
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

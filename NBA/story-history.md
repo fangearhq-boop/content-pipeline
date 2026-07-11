@@ -2,6 +2,96 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-07-10
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-10 | T1 | Dybantsa Wins Vegas Debut — Out-Duels Peterson as Wizards Top Jazz 92-88 | X, FB, Article | FOLLOW UP |
+| 2026-07-10 | T1 | LeBron Free Agency — Warriors Clear Room After Draymond Opts Out, Cavs Still Lead | X, FB, Article | FOLLOW UP |
+| 2026-07-10 | T2 | Kawhi Leonard Trade to Toronto on Hold Pending NBA Investigation into Clippers | X, FB, Article | FOLLOW UP |
+| 2026-07-10 | T2 | Ayo Dosunmu Agrees to 5yr/$112M to Stay With Timberwolves | X, FB, Article | NEW |
+| 2026-07-10 | T2 | Jokić Confirms He'll Wait for $359M Extension With Nuggets Next Summer | X, FB, Article | NEW |
+
+### STORY 1: Dybantsa Wins Vegas Debut — Wizards Top Jazz 92-88
+- **Tier:** 1
+- **Category:** NBA Summer League / Rookies
+- **Key facts:** Dybantsa 27 pts/7 reb/2 ast/2 stl/1 blk; 0/5 from three; Peterson 24 pts/8 turnovers; Wizards 92-88; Thomas and Mack Center; July 9 game
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Round 2 Dybantsa vs Peterson; Summer League standings; Wizards/Jazz playoff bracket
+
+### STORY 2: LeBron Free Agency — Warriors Clear Room After Draymond Opts Out
+- **Tier:** 1
+- **Category:** NBA Free Agency / LeBron James
+- **Key facts:** Draymond declined $27.7M option to create Warriors flexibility; LeBron left Lakers; shortlist Warriors/Cavs/76ers/Heat/Wolves/Nuggets; Cavs still front-runner per Windhorst; mid-July decision timeline; Curry/LeBron Olympic gold 2024
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** LeBron announces destination; Warriors/Cavs/76ers next steps
+
+### STORY 3: Kawhi Leonard Trade to Toronto on Hold
+- **Tier:** 2
+- **Category:** NBA Trades / Investigation
+- **Key facts:** Trade terms: Ingram+Dick+2 firsts+2 seconds+swaps; NBA investigating $28M endorsement deal with Aspiration Fund Adviser LLC (bankrupt); Clippers deny; outside counsel; no timetable
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Investigation concludes; trade cleared or complicated; Clippers punishment
+
+### STORY 4: Ayo Dosunmu 5yr/$112M With Timberwolves
+- **Tier:** 2
+- **Category:** NBA Free Agency / Timberwolves
+- **Key facts:** 5yr/$112M, player option yr 5; 24 games 14.4 ppg 2025-26; 15.6 ppg 10-game playoff run; 43 pts off bench vs Nuggets Game 4; DiVincenzo torn Achilles; agents Lindeman/Schwartz Excel Sports
+- **Status:** NEW
+- **Follow-up ideas:** Dosunmu fits with LaMelo; Edwards-Dosunmu chemistry; Wolves title window
+
+### STORY 5: Jokić Confirms $359M Extension Next Summer
+- **Tier:** 2
+- **Category:** NBA Extensions / Nuggets
+- **Key facts:** Three-time MVP; quote "My idea and desire is to stay in Denver. I'll probably sign next year"; $278M available now; $359.5M + no-trade clause if waits; ~$81M more by waiting
+- **Status:** NEW
+- **Follow-up ideas:** Jokić signs record deal 2027; Nuggets roster around unsigned Jokić; $359M precedent
+
+## 2026-07-09
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-09 | T1 | Dybantsa vs. Peterson — No. 1 vs. No. 2 Finally Meet in Las Vegas Summer League | X, FB, Article | NEW |
+| 2026-07-09 | T1 | LeBron Taking 76ers "Very Seriously" — Shams Charania Report | X, FB, Article | FOLLOW UP |
+| 2026-07-09 | T2 | Giannis Picks No. 7 in Miami; $275M Extension Window Opens January 2027 | X, FB, Article | FOLLOW UP |
+| 2026-07-09 | T2 | DeMar DeRozan Waived by Kings — Six-Time All-Star Now a Free Agent | X, FB, Article | NEW |
+| 2026-07-09 | T2 | Paul George Goes PG13 in Boston — No. 13 Jersey, Trade Bonus Waived | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Dybantsa vs. Peterson — Vegas Summer League Debut
+- **Tier:** 1
+- **Category:** NBA Summer League / Rookies
+- **Key facts:** Dybantsa (No. 1, Wizards) makes Vegas debut tonight 9 PM ET ESPN; Peterson (No. 2, Jazz) after 25/12 + 28-pt OT win in SLC; 8 turnovers concern; Ace Bailey reversed from OUT to AVAILABLE; Thomas & Mack Center
+- **Status:** NEW
+- **Follow-up ideas:** Dybantsa debut box score; Peterson-Dybantsa head-to-head stats; Bailey return game performance
+
+### STORY 2: LeBron Taking 76ers "Very Seriously"
+- **Tier:** 1
+- **Category:** NBA Free Agency / LeBron James
+- **Key facts:** Shams Charania (ESPN): LeBron "taking 76ers very seriously"; 76ers alongside Cavs/Warriors/Heat; Gansey (76ers president, former Cavs exec) cited; Maxey is Klutch client; Windhorst: Cavs still front-runner; Rich Paul: mid-July decision; Draymond opts out $27.7M for Warriors LeBron pursuit; Harden declines $42.3M Cavs option
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** LeBron signs announcement; press conference; roster implications
+
+### STORY 3: Giannis No. 7 in Miami
+- **Tier:** 2
+- **Category:** NBA Free Agency / Heat
+- **Key facts:** Giannis chose No. 7 in Miami (wore No. 34 entire Milwaukee career — first number change); eligible to sign Oct. 1 but waits until Jan. 6, 2027 for 4yr/$275M max; paired with Bam Adebayo
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Extension signing January 2027; Heat season preview; Giannis+Bam matchup analysis
+
+### STORY 4: DeMar DeRozan Waived by Kings
+- **Tier:** 2
+- **Category:** NBA Free Agency
+- **Key facts:** Kings waived 6x All-Star DeRozan; averaged 19.2 pts in 39 games last season; hand injury; multiple contenders expected to pursue; age 36
+- **Status:** NEW
+- **Follow-up ideas:** DeRozan signing announcement; team fit analysis; impact on contenders
+
+### STORY 5: Paul George No. 13 / Celtics
+- **Tier:** 2
+- **Category:** NBA Free Agency / Celtics
+- **Key facts:** George waived $3.9M trade bonus; cap hit $54.1M; $56.6M player option for 2027-28; chose No. 13 (classic PG13 identity, wore No. 8 in Philly); Celtics GM cited George's playoff performance vs Boston as trade motivation; Neemias Queta also signed 4yr/$56M extension
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Celtics training camp preview; George-Tatum chemistry reports; player option decision
+
 ## 2026-07-07
 
 | Date | Tier | Story | Platforms | Status |

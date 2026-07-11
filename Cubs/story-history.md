@@ -5,6 +5,185 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-10
+
+### STORY 1: Orioles 3, Cubs 2 — Game 3 Recap
+- **Angle:** FOLLOW UP (Rolison gave up go-ahead two-run double to Jackson in 8th; Suzuki drove in both Cubs runs; Cubs still took series 2-of-3; record 52-41; now on to Cincinnati)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - Cubs bullpen health/usage entering Cincinnati series
+  - Rolison role going forward
+
+### STORY 2: Cubs at Reds — Game 1 Series Preview
+- **Angle:** NEW STORY (is_series_start_today=true; Cubs [52-41, NL WC leaders] at Reds [42-50]; Great American Ball Park; 6:10 PM CT; Imanaga starts; series the Cubs need to win)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, series preview)
+- **Follow-Up Opportunities:**
+  - Game 1 result and Imanaga performance
+  - Series outcome vs weaker opponent
+
+### STORY 3: PCA — First 20/20 of 2026, All-Star Bound
+- **Angle:** FOLLOW UP (21 HR; first player in 2026 with 20 HR + 20 SB; MLB-leading WAR ~5.8; lone Cubs All-Star; July 14 Philadelphia; bold take: best player in baseball right now)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, feature/bold take)
+- **Follow-Up Opportunities:**
+  - PCA All-Star Game performance (July 14, Philadelphia)
+  - PCA stats entering second half
+  - 30/30 pace tracking through end of July
+
+### STORY 4: Wild Card Standings — Cubs Leading the Race
+- **Angle:** FOLLOW UP (Cubs 52-41 NL WC No. 1; Phillies and Marlins close behind; Cardinals have faded; Cubs from chasing to owning the race)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, standings analysis)
+- **Follow-Up Opportunities:**
+  - Wild card standings update post-All-Star break
+  - Phillies/Marlins series results
+
+### STORY 5: Reinforcements Coming — Taillon, Shaw, Maton
+- **Angle:** FOLLOW UP (Taillon: second rehab start this week, return expected ~July 17; Shaw: returns post-ASB, wrist sprain; Maton: healthy at Iowa, possible return this weekend or shortly after ASB)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, roster/injury update)
+- **Follow-Up Opportunities:**
+  - Taillon activation and return start date
+  - Shaw return to lineup
+  - Maton first appearance back
+
+### STORY 6: Trade Deadline — 24 Days, Joe Ryan
+- **Angle:** FOLLOW UP (August 3 deadline 24 days away; Joe Ryan [Twins, 3.36 ERA, through 2027] top fit; healthy rotation is partial answer not full answer; Hoyer call-to-action)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, analysis/bold take)
+- **Follow-Up Opportunities:**
+  - Any Ryan/Twins trade movement
+  - Alternative targets surfacing pre-deadline
+  - Post-ASB urgency update (~20 days left)
+
+### STORY 7: Pre-Game Hype — First Pitch in Cincinnati
+- **Angle:** NEW STORY (Imanaga vs Reds; Cubs 52-41, Reds 42-50; playoff teams win these series; punchy game-time tweet)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT, pre-game hype)
+- **Follow-Up Opportunities:**
+  - Game 1 result
+
+---
+
+## 2026-07-09
+
+### STORY 1: Cubs 9, Orioles 7 — Game 2 Recap
+- **Angle:** NEW STORY (Cubs 9-7 win at Camden Yards; PCA hit 2 home runs; Cubs hit 5 HRs total in a slugfest; overcame late Orioles comeback; series now 2-0; Cubs 52-40)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - Game 3 result at Baltimore (sweep confirmed today)
+  - PCA HR total trajectory entering All-Star break
+
+### STORY 2: Pete Crow-Armstrong — MVP-Level Production
+- **Angle:** NEW STORY (PCA 2 HR last night, ~21 HR on the season; bold take: doing MVP-level work while five starters simultaneously on IL; carrying the franchise)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold take)
+- **Follow-Up Opportunities:**
+  - PCA All-Star Game performance (July 14, Philadelphia)
+  - Full-season HR pace if he continues at this rate
+
+### STORY 3: Wild Card Check-In — Cubs Building a Cushion
+- **Angle:** FOLLOW UP (Cubs 52-40 No. 2 NL wild card; Cardinals ~47-43, 4 games back; Cardinals lost multiple straight to Brewers while Cubs won 2 straight in Baltimore; gap growing entering All-Star break)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, standings analysis)
+- **Follow-Up Opportunities:**
+  - Wild card standings update post-All-Star break
+  - Cardinals series results through July 14
+
+### STORY 4: Game 3 Preview — Cubs Go for the Sweep
+- **Angle:** NEW STORY (series finale at Camden Yards, 12:35 PM CT; Cubs up 2-0, playing for the sweep; David Peterson [CHC] vs Trevor Rogers [BAL]; Baltimore 42-51)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, game preview/pre-game hype)
+- **Follow-Up Opportunities:**
+  - Game 3 result / sweep confirmed
+  - Peterson performance (MEDIUM confidence starter)
+
+### STORY 5: Trade Deadline — 25 Days, Joe Ryan Complication
+- **Angle:** FOLLOW UP (August 3 deadline 25 days away; Joe Ryan [Twins, 3.36 ERA, controlled through 2027] top target; complication: Twins now in AL Central race, less eager to sell; Hoyer committed to adding pitching)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, analysis/bold take)
+- **Follow-Up Opportunities:**
+  - Any Twins-Cubs trade movement before August 3
+  - Alternative targets if Ryan stays in Minnesota
+  - Post-ASB deadline urgency update (20 days remaining)
+
+### STORY 6: Taillon Return — Closer Than Expected
+- **Angle:** FOLLOW UP (updated timeline from July 8's "post-ASB" framing; sources say return "almost here" — another rehab start, then possibly back before or right around All-Star break July 14; Hendriks and Bummer also rehabbing at Iowa)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, roster/injury update)
+- **Follow-Up Opportunities:**
+  - Taillon activation / actual return date
+  - Hendriks/Bummer return timelines
+  - Rotation health update post-ASB
+
+---
+
+## 2026-07-08
+
+### STORY 1: Cubs 5, Orioles 2 — Game Recap (July 7)
+- **Angle:** NEW STORY (Cubs won 5-2 at Camden Yards; Matthew Boyd quality start, game score 61; Swanson locked in; Cubs improve to 51-40, 7-3 in last 10)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - Game 3 result at Baltimore (July 9)
+  - Boyd season stats trajectory (3-1, improving ERA since return)
+
+### STORY 2: Cubs Rolling — 16-6 Since June 10
+- **Angle:** NEW STORY (bold take; Cubs 16-6 since June 10 = one of best stretches in baseball; doing it with 5 starters on IL simultaneously; 51-40, NL WC No. 2)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold take)
+- **Follow-Up Opportunities:**
+  - Stretch record if continued through All-Star break
+  - What the record becomes when healthy starters return
+
+### STORY 3: Wild Card Watch — Cardinals Losing Ground
+- **Angle:** FOLLOW UP (July 7 covered wild card snapshot at 50-40; today: Cubs 51-40, Cardinals lost to Brewers 4-3, now ~4 games out of wild card; Cubs building cushion)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, standings/rival jab)
+- **Follow-Up Opportunities:**
+  - Weekly wild card standings check
+  - Cardinals series later in season
+
+### STORY 4: Trade Deadline — Joe Ryan Is the Target
+- **Angle:** FOLLOW UP (July 6 covered Detmers/Gray/Mize; today: new angle = Joe Ryan (Twins, 3.36 ERA, 2.82 FIP, club control through 2027) emerging as leading target; August 3 deadline = 26 days away)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, bold analysis)
+- **Follow-Up Opportunities:**
+  - Any Cubs-Twins trade reporting on Ryan
+  - Deadline day coverage August 3
+
+### STORY 5: Game 2 Preview — Rea vs Kremer at Camden Yards
+- **Angle:** NEW STORY (Colin Rea [6-5, 4.74 ERA] vs Dean Kremer [3.18 ERA since returning from quad strain]; 5:35 PM CT; Orioles 42-50; Cubs 51-40 rolling)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Game 2 result (post-game recap July 9)
+  - Rea season ERA trajectory
+
+### STORY 6: Injury Roundup — Taillon Post-ASB; Roberts on IL
+- **Angle:** FOLLOW UP (July 7 covered Shaw/Taillon pre-ASB hope; today: Taillon confirmed returning AFTER All-Star break — second rehab start coming; Wyatt Roberts added to 15-day IL [forearm]; Milner out 4-6 weeks [appendectomy])
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, roster/injury update)
+- **Follow-Up Opportunities:**
+  - Taillon activation after All-Star break
+  - Antoine Kelly callup with Roberts on IL
+  - Milner return timeline (late August)
+
+### STORY 7: Antoine Kelly — Iowa Cubs Lefty Worth Watching
+- **Angle:** NEW STORY (Kelly acquired from Dodgers June 2026; sub-1.00 ERA at Iowa, fastball approaching 100 mph, 27% K rate; Wyatt Roberts on IL = roster opening; Owen Ayers [21 HRs] thriving at Double-A as supporting color)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, prospect feature)
+- **Follow-Up Opportunities:**
+  - Antoine Kelly MLB callup announcement
+  - Owen Ayers promotion to Triple-A Iowa
+  - Ayers full-season Double-A stat line
+
+
+---
+
 ## 2026-07-07
 
 ### STORY 1: Series Preview — Cubs at Baltimore, Game 1 of 3
@@ -3564,5 +3743,57 @@ Each day's stories are appended at the top (newest first).
 - **Follow-Up Opportunities:**
   - Tonight's game result
   - Imanaga's line/performance
+
+---
+
+## 2026-07-11
+
+### STORY 1: Reds 4, Cubs 0 — Hunter Greene 12-K Masterpiece
+- **Angle:** NEW STORY (Game 1 of Reds series; Greene 12 K in 7 IP, 3 H, 0 R; returned from bone-chip surgery March 11; had 8-ER disaster in July 4 debut; dominant bounce-back; Cubs struck out 16 times — season high; 9th shutout loss; Imanaga took the L; De La Cruz solo HR, Bleday 2-run HR)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - Tonight's Game 2 result (July 11 recap tomorrow)
+  - Cubs offensive KO rate vs Lodolo tonight
+
+### STORY 2: Game 2 Preview — Assad vs Lodolo, 6:10 PM CT
+- **Angle:** NEW STORY (Javier Assad 6-1, 4.04 ERA vs Nick Lodolo 4.68 ERA; Assad has been rotation anchor with Taillon/Boyd/Cabrera all on IL; 6:10 PM CT at Great American Ball Park; bounce-back frame; last two games before All-Star break)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Assad's actual pitching line tonight
+  - Series result going into break
+
+### STORY 3: Bold Take — Cubs Offense 16-K Season High
+- **Angle:** NEW STORY (bold/passionate take; contrast between Greene's July 4 disaster and July 10 gem; 16 Cubs Ks season high; 9th shutout loss; offensive concerns entering second half; wake-up call framing)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, bold take)
+- **Follow-Up Opportunities:**
+  - Cubs offensive performance tonight vs Lodolo
+  - Second-half offensive analysis post-break
+
+### STORY 4: Wild Card Standings — Cubs 52-42, Three-Way Tie
+- **Angle:** FOLLOW UP (wild card arc; Cubs dropped from WC1 leader to three-way tie with Phillies and Marlins, all 52-42; Brewers 59-34; every WC point before break matters; 23 days to August 3 deadline)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, standings/informative)
+- **Follow-Up Opportunities:**
+  - Daily standings update through series
+  - Standings after All-Star break
+
+### STORY 5: Iowa Cubs 21-7 + Jayden Murray Acquisition
+- **Angle:** NEW STORY (two news items combined; Iowa crushed St. Paul Saints 21-7 on July 10 — Bateman, Long, B.J. Murray, Owen Miller starred; Cubs also acquired RHP Jayden Murray from Astros on July 11 for minor league INF Cameron Sisneros — Murray: 1.17 ERA, 6 saves at Triple-A Sugar Land)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, prospect/roster news)
+- **Follow-Up Opportunities:**
+  - Jayden Murray MLB debut timing post-break
+  - Continued Iowa performance
+
+### STORY 6: Pre-Game Hype — 3 Days to All-Star Break
+- **Angle:** NEW STORY (pre-game hype; PCA heads to Philadelphia for All-Star Game July 14; Cubs 52-42 tied in Wild Card; Assad on the mound tonight; two games left before break; urgency framing)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, pre-game hype)
+- **Follow-Up Opportunities:**
+  - Tonight's Game 2 result
+  - Series result (Game 2 tonight + Game 3 Sunday 12:40 PM CT)
 
 ---

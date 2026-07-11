@@ -1,0 +1,255 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-10",
+  "compiled_at": "2026-07-10T09:24:23.765501+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "STORY 1: Game 3 recap — Orioles 3, Cubs 2",
+      "type": "Tier 1 / Recap"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "STORY 2: Series preview — Cubs at Reds Game 1",
+      "type": "Tier 1 / Preview"
+    },
+    {
+      "time": "1:15 PM",
+      "description": "STORY 3: PCA first 20/20 — All-Star bound",
+      "type": "Tier 1 / Bold"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "STORY 4: Wild card standings check-in",
+      "type": "Tier 2 / Informative"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "STORY 5: Reinforcements — Taillon, Shaw, Maton",
+      "type": "Tier 2 / Informative"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "STORY 6: Trade deadline 24 days — Joe Ryan",
+      "type": "Tier 2 / Bold"
+    },
+    {
+      "time": "6:30 PM",
+      "description": "STORY 7: Pre-game hype — first pitch Cincinnati",
+      "type": "Tier 3 / Hype"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Orioles 3, Cubs 2 — Game 3 Recap",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "FOLLOW UP — Bullpen lost it in the 8th. Rolison gave up the go-ahead two-run double to Jackson. Suzuki drove in both Cubs runs. Cubs still took the series 2-of-3. Now on to Cincinnati.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Orioles 3, Cubs 2. Rolison couldn't hold it in the 8th — Jackson's two-run double put Baltimore in front to stay.\n\nSuzuki had driven in both Cubs runs. Bullpen didn't hold it.\n\nCubs take the series 2-of-3. Cincinnati is next — 6:10 PM CT tonight.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Morning game recap",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Cubs at Reds — Game 1 Series Preview",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "NEW STORY — is_series_start_today=true. Cubs (52-41, NL WC leaders) at Reds (42-50) at Great American Ball Park. Imanaga takes the ball tonight. This is a series the Cubs need to win.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Cubs at Reds — Game 1 of 3 at Great American Ball Park. 6:10 PM CT tonight.\n\nReds are 42-50. Cubs are 52-41 and leading the NL wild card.\n\nShota Imanaga takes the ball against a team trying to stay afloat. This is a series the Cubs need to take.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Series preview",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 269
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "PCA — First 20/20 of 2026, Heading to the All-Star Game",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "FOLLOW UP — After July 8's two-HR night, PCA is at 21 HR. First player in 2026 with 20 HR and 20 SB. MLB-leading WAR (~5.8). Lone Cubs All-Star, heading to Philadelphia July 14. Bold take: best player in baseball right now.",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Pete Crow-Armstrong: 21 home runs. First player in the majors with 20 home runs and 20 stolen bases this season.\n\nMLB-leading WAR. Headed to Philadelphia for the All-Star Game on July 14.\n\nHe's the best player in baseball right now.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Feature / bold take",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Wild Card Standings — Cubs Leading the Race",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "FOLLOW UP — Quick standings snapshot: Cubs 52-41 No. 1 NL WC, Phillies and Marlins right behind, Cardinals have faded. Cubs went from chasing this race to owning it. Next stop Cincinnati.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Wild card check-in, July 10:\n\nCubs 52-41 — NL WC leaders\nPhillies right behind them\nMarlins holding the third spot\nCardinals have faded\n\nThe Cubs went from chasing this race to owning it. Next stop: Cincinnati.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Standings analysis",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Reinforcements Coming — Taillon, Shaw, Maton",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "FOLLOW UP — Taillon heading for second rehab start, expected back in rotation by July 17. Shaw returns post-All-Star break. Maton healthy at Iowa, could return this weekend. The cavalry is almost here.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Reinforcements are coming.\n\nJameson Taillon: second rehab start expected this week, back in the rotation by July 17.\nMatt Shaw: returns after the All-Star break.\nPhil Maton: healthy at Iowa, could rejoin the bullpen this weekend.\n\nThe cavalry is almost here.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Roster / injury update",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Trade Deadline — 24 Days, Joe Ryan",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "FOLLOW UP — August 3 deadline is 24 days away. Joe Ryan (Twins, 3.36 ERA, controlled through 2027) remains the best fit. A healthy Cubs rotation helps but isn't the answer. Pressure on Hoyer.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "24 days until August 3.\n\nJoe Ryan (Twins, 3.36 ERA) is still the best fit for what the Cubs need. Control through 2027. A starter who can carry 200 innings.\n\nThe healthy Cubs rotation is a bonus. It's not the answer. Jed Hoyer needs to make the call.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Analysis / bold take",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "First Pitch Tonight — Cubs at Reds Pre-Game Hype",
+      "tier": 3,
+      "status": "NEW STORY",
+      "angle": "NEW STORY — Punchy game-time tweet. Imanaga vs Reds. Cubs 52-41, Reds 42-50. Playoff teams take care of these series.",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "First pitch in Cincinnati — 6:10 PM CT.\n\nShota Imanaga vs the Reds. Cubs 52-41. Reds 42-50. This is exactly the kind of series playoff teams take care of before the break.\n\nWin it.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "Pre-game hype",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 204
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

@@ -2,6 +2,96 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-07-10
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-10 | T1 | Verstappen Exit Clause Now Officially Active — McLaren Move | X, FB, Article | FOLLOW UP |
+| 2026-07-10 | T1 | Wolff Launches Factory Investigation After British GP Disaster | X, FB, Article | FOLLOW UP |
+| 2026-07-10 | T2 | Hamilton at Spa — Six Belgian GP Wins, Now in Ferrari Red | X, FB, Article | FOLLOW UP |
+| 2026-07-10 | T2 | Sainz and Alonso Both Waiting Until Summer Break — 2027 Grid in Limbo | X, FB, Article | NEW |
+| 2026-07-10 | T2 | The Piastri Factor — Why McLaren's No. 2 Holds the Key to the Verstappen Puzzle | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Verstappen Exit Clause Now Officially Active
+- **Tier:** 1
+- **Category:** Driver Market / Verstappen
+- **Key facts:** Exit clause now officially active (confirmed July 7); Verstappen negotiations with McLaren in "closing stages" (SportBible); Hungarian GP July 26 last race before summer break; ~50 pts available before summer break; tweet storm July 10 after exit clause activation blocked; first confirmed official exit clause trigger
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official deal announcement; McLaren seat math resolution; Piastri/Red Bull response
+
+### STORY 2: Wolff Factory Investigation — British GP Disaster
+- **Tier:** 1
+- **Category:** Team News / Mercedes / Reliability
+- **Key facts:** Toto Wolff ordered full teardown of Antonelli's W17 at Brackley factory; wheel shield failure Lap 41 at Turn Nine; Antonelli P15 after 5s penalty (was catching Leclerc on fresher tyres for race lead); Wolff: "A car should not break" (Sky Sports F1); Wolff accepts blame — "It's on us"; championship lead over Russell now only 25pts; Belgian GP July 17-19 deadline for fixes; full teardown (not routine post-race inspection) signals systemic concern
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Belgian GP — does the fix hold; W17 Belgian spec reliability update; Antonelli mental resilience at Spa
+
+### STORY 3: Hamilton — Six Spa Wins, Now in Ferrari Red
+- **Tier:** 2
+- **Category:** Race Preview / Hamilton / Ferrari
+- **Key facts:** Hamilton holds record 6 Belgian GP victories at Spa-Francorchamps (more than any active driver); circuit is 7.004km in Ardennes region; Hamilton arriving in Ferrari red for first time at Spa; 3rd in championship 147pts (32 back of leader Antonelli 179, 7 back of Russell 154); Belgian GP July 17-19; wet weather historically suited Hamilton; Ferrari won Silverstone (Leclerc); Spa favors power unit strength/straight-line speed; weather forecast: thundery showers ~23°C
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Belgian GP qualifying; race result; Hamilton Ferrari performance at power-sensitive circuit
+
+### STORY 4: Sainz and Alonso — Summer Break, 2027 Grid
+- **Tier:** 2
+- **Category:** Driver Market / 2027 Grid
+- **Key facts:** Both Sainz (Williams) and Alonso (Aston Martin) waiting until summer break (after Hungarian GP July 26) to decide 2027; 15 of 22 seats still officially unconfirmed; Formula1.com analysis: Verstappen, Sainz, Alonso are the three drivers whose decisions "will define what the 2027 grid looks like"; Sainz Williams contract could extend 4 years to 2028 if conditions met; Alonso 44 years old, 23rd season, contract expires end of 2026; Alonso retirement creates cascade downstream across mid-field
+- **Status:** NEW
+- **Follow-up ideas:** Summer break announcements; Sainz 2027 final decision; Alonso retirement/continuation announcement
+
+### STORY 5: The Piastri Factor
+- **Tier:** 2
+- **Category:** Driver Market / McLaren / Piastri
+- **Key facts:** Multiple sources (RacingNews365, McLaren inner circle) confirmed as of Thursday that Piastri is staying at McLaren ("nothing has changed"); Zak Brown denied desire to alter driver lineup at British GP; McLaren fields Norris + Piastri — both committed; Piastri's McLaren stay removes the clean Verstappen swap mechanism; three possible resolutions: hidden contract provision, "closing stages" reporting premature/inaccurate, or 2028 timeline for Verstappen; Hungarian GP in 16 days
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Verstappen/McLaren official confirmation; McLaren seat math resolution; Hungarian GP paddock signals
+
+## 2026-07-09
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-09 | T1 | Belgian GP Preview — Antonelli Under Pressure at Spa, Ferrari Arrive in Form | X, FB, Article | NEW |
+| 2026-07-09 | T1 | FIA Officially Confirms Mid-Season Engine Rule Change — Loophole Closed | X, FB, Article | FOLLOW UP |
+| 2026-07-09 | T2 | Verstappen/McLaren Deal in "Closing Stages" — Exit Clause About to Trigger | X, FB, Article | FOLLOW UP |
+| 2026-07-09 | T2 | Alonso Sets Summer Break as His Deadline for 2027 F1 Decision | X, FB, Article | NEW |
+| 2026-07-09 | T2 | Horner "Will Get Back" to F1 — FIA President Issues Statement; Newey Appears at Goodwood | X, FB, Article | NEW |
+
+### STORY 1: Belgian GP Preview — Antonelli Under Pressure at Spa
+- **Tier:** 1
+- **Category:** Belgian Grand Prix / Championship
+- **Key facts:** Belgian GP Race July 19, Qualifying July 18, Practice July 17; Spa-Francorchamps 7.004km (longest circuit on calendar); Antonelli 179pts, Russell 154pts, Hamilton 147pts, Leclerc 108pts; lead cut from 40+ to 25 points after Silverstone (Russell P2, Antonelli P16); Leclerc won Silverstone; power-sensitive circuit layout (Kemmel Straight, Raidillon, Bus Stop); weather historically mixed/wet at Spa; last race before Hungarian GP (July 24-26) where Verstappen exit clause mathematically triggers
+- **Status:** NEW
+- **Follow-up ideas:** Belgian GP qualifying; race result; championship standings update
+
+### STORY 2: FIA Engine Rule Change Confirmed
+- **Tier:** 1
+- **Category:** Technical / Regulations
+- **Key facts:** FIA officially confirmed mid-season PU regulation change; compression ratio enforcement shifted cold (ambient) to hot (130°C operating); closes thermal expansion exploit alleged used by Mercedes and Red Bull; estimated ~0.3s/lap performance advantage closed (alleged by Ferrari, Honda, Audi); enforcement date moved 6 races earlier than original August 1 deadline; qualifying format tweak also confirmed
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Belgian GP qualifying — how much performance gap actually closed; affected teams' reaction
+
+### STORY 3: Verstappen/McLaren — "Closing Stages"
+- **Tier:** 2
+- **Category:** Driver Market / Verstappen
+- **Key facts:** Verstappen to McLaren in "closing stages" of believed 3-year deal; exit clause triggers mathematically before Hungarian GP (July 24-26); Verstappen 76pts/7th; 4 retirements in 2026 (Silverstone DRS fault same as Austria); likely resolution: Piastri straight swap to Red Bull alongside Hadjar; Zak Brown publicly denying conversations; Ralf Schumacher July 9: "brink of divorce, no going back"
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official deal confirmation; Piastri/Red Bull confirmation; Hungarian GP trigger announcement
+
+### STORY 4: Alonso — Summer Break Deadline
+- **Tier:** 2
+- **Category:** Driver Market / Aston Martin
+- **Key facts:** Alonso set summer break as deadline for 2027 decision (first public timeline); Hungarian GP brings substantial Newey-designed aero revamp with significant weight savings; Alonso said upgrade "not the only thing on the table"; Flavio Briatore + Gucci (incoming sponsor) pushing Alpine reunion; Aston Martin 0 points in 2026; decision: retirement or 24th F1 season
+- **Status:** NEW
+- **Follow-up ideas:** Hungarian GP upgrade performance; Alonso 2027 decision announcement; Alpine vs Aston Martin outcome
+
+### STORY 5: Horner/Newey
+- **Tier:** 2
+- **Category:** Team News / Red Bull
+- **Key facts:** FIA president Ben Sulayem: "He will get back" on Horner's F1 future; "Did he deliver? Do you want to win or not?"; Horner attended Silverstone as FIA/FOM guest (July 5-6, first paddock appearance since Red Bull exit); Horner: only return for a team that can win; Newey (67, Aston Martin) making surprise appearance at Goodwood FOS (July 10-13) driving Red Bull "parting gift" car making running debut
+- **Status:** NEW
+- **Follow-up ideas:** Horner team destination announcement; Newey Goodwood footage/reception; Red Bull succession picture
+
 ## 2026-07-07
 
 | Date | Tier | Story | Platforms | Status |
@@ -3722,3 +3812,48 @@
 - **Key facts:** 2026 regs removed MGU-H; MGU-K only (kinetic braking recovery); Luffield to Stowe ~35-40 seconds NO braking zones; 350kW system depleted by Hangar Straight; cars suffer power derate; both Hamilton AND Verstappen flagged independently; Hamilton quote confirmed (multiple sources); Verstappen quote confirmed (multiple sources); Mercedes likely favored on energy management software
 - **Status:** NEW
 - **Follow-up ideas:** Race result; did battery issues cause chaos; FP1 data confirms/denies
+
+## 2026-07-08
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-08 | T1 | Verstappen and McLaren in "Closing Stages" of Deal — Exit Clause Now Mathematically Guaranteed | X, FB, Article | FOLLOW UP |
+| 2026-07-08 | T1 | Hamilton Ferrari 2027 Confirmed — Seven-Time Champion Staying at Maranello | X, FB, Article | NEW |
+| 2026-07-08 | T2 | Sainz Hit With Unprecedented "One-Lap Penalty" — FIA Admits British GP Software Error | X, FB, Article | FOLLOW UP |
+| 2026-07-08 | T2 | The 2026 Engine Loophole — Ferrari, Honda, and Audi Allege Mercedes Backdoor Worth 0.3s | X, FB, Article | NEW |
+| 2026-07-08 | T2 | Christian Horner Returns to F1 Paddock at Silverstone — First Race Since Being Fired | X, FB, Article | NEW |
+
+### STORY 1: Verstappen/McLaren "Closing Stages" — Exit Clause Guaranteed
+- **Tier:** 1
+- **Category:** F1 Driver Market / Verstappen
+- **Key facts:** SportBible July 7: McLaren/Verstappen "closing stages" of 3-year deal/"imminent"/Piastri to Red Bull swap; Zak Brown denied talks; Verstappen P7 76pts/Russell P2 154pts/gap 78pts/max 50pts Belgium+Hungary=mathematically impossible to reach top 2; exit clause will activate; "boiling point" per De Limburger; Laurent Mekies "very unpleasant"; Verstappen talks to Horner "almost every week"; Red Bull previously offered buyout/Verstappen refused
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Verstappen officially activates clause; McLaren announces signing; Piastri to Red Bull confirmed; 2027 driver market cascade
+
+### STORY 2: Hamilton Ferrari 2027 Confirmed
+- **Tier:** 1
+- **Category:** F1 Driver News / Hamilton / Ferrari
+- **Key facts:** Ferrari officially confirmed Hamilton's contract extension into 2027 during British GP weekend at Silverstone; P3 at British GP (reprimand not penalty); sprint qualifying pole (+0.011s over Antonelli); 147pts 3rd championship (32 behind Antonelli); 103 wins/104 poles/7 titles; Ferrari P2 Constructors (-98 Mercedes); Leclerc won the British GP; sources: RacingNews365/GPFans
+- **Status:** NEW
+- **Follow-up ideas:** Hamilton chases 8th title 2027; can Ferrari close Constructors gap; Hamilton wins at Spa
+
+### STORY 3: Sainz Unprecedented Penalty — FIA Software Error
+- **Tier:** 2
+- **Category:** F1 Race Result / Penalties
+- **Key facts:** Sainz originally P12; FIA applied "one-lap penalty" (unprecedented) dropping to P17 one lap behind leader; reason: unlapped self under SC not in "lapped cars may overtake" message; Silverstone pit lane layout edge case; Williams failed to identify infringement; FIA admitted "software error" generated false "Safety Car in this lap" message on Lap 54; first race to finish under full SC since 2022 Italian GP; sources: motorsport.com/formula1.com/racefans/sky sports
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Williams appeal; FIA procedural review; Spa safety car procedures updated
+
+### STORY 4: 2026 Engine Compression Loophole
+- **Tier:** 2
+- **Category:** F1 Technical
+- **Key facts:** Ferrari/Honda/Audi allege Mercedes+Red Bull exploit loophole in 2026 regs; 2026 rules lowered max compression ratio 18.0→16.0; FIA measures cold engine; alleged: engines run higher compression ratio at operating temperature; alleged advantage up to 0.3 sec/lap; no FIA ruling yet; ongoing controversy; sources: the-race.com/grandprix247/sky sports/autosport
+- **Status:** NEW
+- **Follow-up ideas:** FIA technical directive; Ferrari closes gap at Spa; ruling issued before Hungarian GP
+
+### STORY 5: Christian Horner Returns to F1 Paddock
+- **Tier:** 2
+- **Category:** F1 Paddock News
+- **Key facts:** Horner present at Silverstone 2026 British GP; first race since fired after 2025 British GP; Verstappen confirms speaks to Horner "almost every week"; Horner: would return to F1 "only on my terms"; won 4 consecutive world championships with Verstappen 2021-2024; sources: GPFans July 7-8
+- **Status:** NEW
+- **Follow-up ideas:** Horner named team principal somewhere; Verstappen move to Horner's new team; F1 silly season escalates

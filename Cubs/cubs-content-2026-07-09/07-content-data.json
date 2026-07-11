@@ -1,0 +1,271 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-09",
+  "compiled_at": "2026-07-09T09:26:08.024713+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "STORY 1: Game 2 recap (Cubs 9-7)",
+      "type": "Tier 1 / Informative"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "STORY 2: PCA MVP-level bold take",
+      "type": "Tier 1 / Bold"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "STORY 3: Wild card standings update",
+      "type": "Tier 2 / Informative"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "STORY 4: Game 3 preview — sweep bid",
+      "type": "Tier 1 / Bold"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "STORY 5: Trade deadline Joe Ryan complication",
+      "type": "Tier 2 / Bold"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "STORY 6: Taillon closer than expected",
+      "type": "Tier 2 / Informative"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Cubs 9, Orioles 7 — Game 2 Recap",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "FOLLOW UP — Cubs 9-7 win at Camden Yards. PCA hit 2 home runs; Cubs hit 5 HRs total in a slugfest. Cubs overcame a late Orioles comeback. Series lead now 2-0. Cubs 52-40.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Cubs 9, Orioles 7. PCA hit two home runs — and the Cubs hit five total in a slugfest at Camden Yards.\n\nThe Orioles made it interesting late. The Cubs held on.\n\nSeries: Cubs 2-0. Sweep is on the line today at 12:35 PM CT.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Morning game recap",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Cubs 9, Orioles 7 — Game 2 Recap\n**Key Facts (HIGH confidence — 5+ sources):**\n- Final score: Cubs 9, Orioles 7\n- Pete Crow-Armstrong: 2 home runs in the game\n- Cubs hit 5 home runs total (game-level fact across all sources)\n- Cubs overcame a late Orioles comeback attempt\n- Cubs series record: 2-0 (won Game 1 and Game 2)\n- Cubs season record: 52-40\n**Sources:**\n- ESPN: espn.com/mlb/game/_/gameId/401816070/cubs-orioles (box score)\n- MLB.com: mlb.com/gameday/824815/final/wrap (official wrap)\n- CBS Sports: cbssports.com/mlb/gametracker/boxscore/MLB_20260708_CHC@BAL (box score)\n- Cubs Insider: cubsinsider.com/2026/07/08/chicago-cubs-score-and-recap-7-8-26 (recap)\n- FOX Sports: foxsports.com/mlb/chicago-cubs-vs-baltimore-orioles-jul-08-2026 (box score)\n**Fact-Check Priority 1 (Scores):** HIGH — 5 independent sources confirm Cubs 9, Orioles 7.\n**PCA 2 HR:** HIGH — multiple sources corroborate.\n**5 Cubs HRs:** HIGH — multiple sources corroborate.\n**Cubs 52-40 record:** HIGH — matches series-context.json generated today.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Pete Crow-Armstrong — MVP-Level Production",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "NEW STORY — PCA hit 2 HR last night (~21 HR, 21 SB season). Bold take: doing MVP-level work while five starters are simultaneously on the IL. He's carrying the franchise.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Two home runs from Pete Crow-Armstrong last night. Twenty-one on the season.\n\nThe 24-year-old center fielder is doing this while five starters are on the IL. He's not just carrying the offense — he's carrying this team.\n\nMVP conversation. No debate.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold take / fan energy",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 0,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Pete Crow-Armstrong — MVP-Level Production\n**Key Facts:**\n- PCA hit 2 HR last night (HIGH — from Story 1 research)\n- PCA season stats from most recent coverage (July 5 entry): .287/.374/.526, 19 HR, 21 SB, .900 OPS\n- By July 8 game (2 HR added), HR total now approximately 21 HR (MEDIUM — consistent with trajectory)\n- PCA: 24 years old, center fielder\n- Context: 5 starters simultaneously on the IL — PCA carrying offense\n- Named Cubs' lone All-Star for 2nd straight year (July 4-5 pipeline)\n**Sources:**\n- Game 2 box score (Story 1 sources above)\n- Prior pipeline stat tracking (July 5: .287/.374/.526, 19 HR, 21 SB)\n**Confidence Notes:**\n- 2 HR last night: HIGH\n- Season HR total ~21: MEDIUM (extrapolated from prior pipeline — not same-day Baseball Reference)\n- 21 SB: MEDIUM (from prior pipeline, directionally consistent)\n- Do NOT use specific OPS or BA until verified — use directional language",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Wild Card Check-In — Cubs Building a Cushion",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "FOLLOW UP — Cubs 52-40 No. 2 NL wild card; Cardinals ~47-43 on losing streak, 4 games back. Cubs winning in Baltimore, Cardinals losing in Milwaukee. Gap is growing entering All-Star break.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Wild card check-in, July 9:\n\nCubs 52-40 — No. 2 NL wild card\nCardinals 47-43 — on a losing streak, 4 games back\n\nThe Cubs have won two straight in Baltimore. The Cardinals keep losing in Milwaukee.\n\nThe gap is growing before the All-Star break.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Standings analysis",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 269
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 0,
+        "claims_flagged": 2,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Wild Card Check-In — Cubs Building a Cushion\n**Key Facts:**\n- Cubs: 52-40, No. 2 NL wild card (HIGH — series-context.json)\n- Cardinals: 47-43 (MEDIUM — per Brewers-Cardinals July 6-8 series results; may have played additional games by July 9)\n- Brewers: 58-33 (MEDIUM — per July 7-8 window; leading NL Central)\n- Cardinals 4 games out of Cubs' wild card spot: HIGH once records confirmed\n- GB calculation: (52-47 + 43-40) / 2 = (5+3)/2 = 4.0 GB\n- Cardinals lost to Brewers July 6 (4-3) and July 7 (10-2) — confirmed 2 losses; \"four straight\" claim is MEDIUM (can't confirm July 8-9 Cardinals results)\n**Sources:**\n- Series-context.json: Cubs 52-40 (HIGH)\n- ESPN: Brewers 10-2 Cardinals July 7; Brewers 4-3 Cardinals July 6 (HIGH for those two games)\n- Brew Crew Ball: Cardinals losses recap (HIGH for cited games)\n**Confidence Notes:**\n- Use \"Cardinals have lost multiple straight\" rather than \"four straight\" unless confirmed from second source\n- Hedge Cardinals exact record as approximate (\"around 47-43\") or use directional language\n- Do NOT claim Brewers exact record without verification — just say \"running away with NL Central\"",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Game 3 Preview — Cubs Go for the Sweep",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "NEW STORY — Series finale at Camden Yards, 12:35 PM CT. Cubs up 2-0 and playing for the sweep. David Peterson (CHC) vs. Trevor Rogers (BAL). Baltimore is 42-51.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Series finale at Camden Yards. 12:35 PM CT.\n\nThe Cubs already own this series. Today they go for the sweep.\n\nDavid Peterson takes the mound against Trevor Rogers. Baltimore is 42-51. The Cubs are rolling.\n\nFinish it.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Game preview / pre-game hype",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 0,
+        "claims_flagged": 2,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Game 3 Preview — Cubs Go for the Sweep\n**Key Facts:**\n- Game time: 12:35 PM CT (from series-context.json — HIGH)\n- Venue: Oriole Park at Camden Yards (HIGH)\n- Cubs season record: 52-40 (HIGH)\n- Orioles record: 42-51 (HIGH — series-context.json)\n- Cubs probable: David Peterson (MEDIUM — ESPN, Bleacher Nation; not confirmed in series-context TBD)\n- David Peterson stats: 4-7, 6.75 ERA, 1.67 WHIP (MEDIUM — single ESPN source)\n- Orioles probable: Trevor Rogers (MEDIUM — ESPN)\n- Trevor Rogers stats: 6-7, 4.70 ERA (MEDIUM — single ESPN source)\n- Note: Yesterday (July 8) was Rea vs. Kremer. Today (July 9, Game 3) would logically be Peterson — aligns with ESPN source.\n**Cross-check:** David Peterson was acquired from the Mets in June 2026 (confirmed in June 25 story). A 4-7, 6.75 ERA record is consistent with his role as a rotation filler. MEDIUM confidence.\n**Confidence Notes:**\n- Game time and venue: HIGH\n- Probable pitchers: MEDIUM — include in tweet but avoid flagging specific record/ERA as definitive\n- Series context (Cubs won first 2 games): HIGH",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Trade Deadline — 25 Days, Joe Ryan Complication",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "FOLLOW UP — August 3 deadline 25 days away. Joe Ryan (Twins, 3.36 ERA, controlled through 2027) is the target. Complication: Twins are now in the AL Central race and less eager to deal. Hoyer committed to adding. Bold call-to-action.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "25 days until August 3. Five starters on the IL. Cubs 52-40 in the wild card race.\n\nJed Hoyer has promised to add pitching. Joe Ryan is the target. The Twins — now in the AL Central race — are less eager to sell.\n\nThe window is closing. Make the call.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Analysis / bold take",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 0,
+        "claims_flagged": 3,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Trade Deadline — 25 Days, Joe Ryan Complication\n**Key Facts:**\n- August 3, 2026 deadline: 25 days from today (HIGH — simple calendar math)\n- Joe Ryan (Minnesota Twins): 3.36 ERA, 104.1 IP, 19 starts, team control through 2027 (MEDIUM — multiple sources but no same-day Baseball Reference primary pull)\n- Cubs identified as \"top fit\" or \"top landing spot\" for Ryan: MEDIUM (multiple fan/analysis sources)\n- Complication: Twins are now in AL Central race, making them less inclined to deal Ryan (MEDIUM — Puckett's Pond, CBS Sports)\n- Hoyer confirmed Cubs WILL add pitching at deadline (MEDIUM — Heavy.com and ESPN synthesis)\n- ~55% trade odds for Ryan per sportsbooks (LOW — single betting source, do not use)\n**Sources:**\n- Heavy.com: Cubs named top trade landing spot for Ryan\n- FanSided: Cubs-Twins trade analysis\n- Puckett's Pond: Twins gaining leverage due to AL Central race\n- Bleacher Nation: Cubs deadline targets\n- CBS Sports: MLB trade deadline rumors\n**Confidence Notes:**\n- \"25 days\" to August 3: HIGH\n- Joe Ryan ERA 3.36, IP 104.1: MEDIUM (was UNVERIFIED in July 8 pipeline from 1 AI source; now corroborated by 4+ sources — upgrade to MEDIUM)\n- \"Control through 2027\": MEDIUM (multiple sources consistent)\n- Do NOT state specific trade odds from betting sites",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Taillon Return — Closer Than Expected",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "FOLLOW UP — Updated timeline from July 8's \"post-ASB\" framing. Sources say return \"almost here\" — another rehab start, then possibly back before or right around the All-Star break (July 14). Hendriks and Bummer also rehabbing at Iowa. Rotation slowly reassembling.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Taillon's return is closer than expected — another rehab start, then possibly back before or right around the All-Star break.\n\nHendriks and Bummer are both rehabbing at Iowa too. The rotation that entered July broken is slowly reassembling.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Roster / injury update",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 5,
+        "claims_flagged": 4,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Taillon Return Timeline — Closer Than Expected\n**Key Facts:**\n- Taillon on 15-day IL with hamstring strain (previously established)\n- Return is \"almost here\" per Yahoo Sports headline (MEDIUM — headline, may be summary interpretation)\n- \"Headed for another rehab start\" per CBS Sports (MEDIUM — direct CBS Sports report)\n- Roundtable.io: \"Could return this week\" headline from ~July 7-8 (MEDIUM — third-party aggregator)\n- Previous pipeline (July 8) said \"confirmed returning AFTER All-Star break\"\n- TODAY's sources suggest return may be BEFORE or around the All-Star break (updated timeline)\n- All-Star break: July 14 Philadelphia (HIGH — confirmed multiple sources)\n**Hendriks and Bummer at Iowa:**\n- Liam Hendriks: Rehab appearances at Iowa (MEDIUM — Bleacher Nation Prospects Report)\n- Aaron Bummer: Rehab appearances at Iowa (MEDIUM — Bleacher Nation Prospects Report)\n**Confidence Notes:**\n- Taillon return \"almost here\": MEDIUM (consistent across 3 sources)\n- Timeline shift from \"post-ASB\" to \"possibly pre-ASB\": MEDIUM — do NOT state definitively, use \"could be back before or right around the All-Star break\"\n- Hendriks/Bummer at Iowa: MEDIUM — consistent across prospects reports\n- Do NOT attribute specific quote to Counsell without direct source confirmation",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

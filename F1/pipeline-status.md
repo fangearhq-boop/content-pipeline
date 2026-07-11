@@ -1,10 +1,44 @@
 # F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
-- **Date**: 2026-07-07
+- **Date**: 2026-07-10
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-10
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole)
+- **PostPlanner exports:** f1fr-postplanner-2026-07-10.xlsx (6 posts) + f1fr-postplanner-tobi-2026-07-10.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-07-10/review-dashboard.html (26 items)
+- **Notes:** Verstappen exit clause officially active (confirmed July 7)/McLaren "closing stages" (SportBible)/Hungarian GP July 26 last race before summer break; Wolff orders full W17 factory teardown after British GP wheel shield failure Lap 41/"A car should not break"/Antonelli P15 from potential race lead/championship lead over Russell 25pts; Hamilton 6 Belgian GP wins at Spa (record among active drivers)/first Spa in Ferrari red/147pts 32 back of Antonelli; Sainz+Alonso both waiting until summer break for 2027 decisions/15 of 22 seats unconfirmed/Sainz Williams 4yr option/Alonso 44 retirement question; Piastri McLaren stay confirmed by RacingNews365 (inner circle "nothing has changed")/Zak Brown denies lineup change/creates puzzle for Verstappen/McLaren deal — no open seat
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+### 2026-07-09
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss)
+- **PostPlanner exports:** f1fr-postplanner-2026-07-09.xlsx (6 posts) + f1fr-postplanner-tobi-2026-07-09.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-07-09/review-dashboard.html (26 items)
+- **Notes:** Belgian GP July 17-19 Spa-Francorchamps preview; Antonelli lead cut 40+→25pts (Russell P2/Antonelli P16 Silverstone); FIA confirms compression ratio enforcement cold→hot (130°C), closes ~0.3s/lap Mercedes+RedBull alleged exploit, 6 races early vs August 1; Verstappen/McLaren "closing stages" of 3-year deal, exit clause triggers mathematically before Hungarian GP July 24-26, Ralf Schumacher "brink of divorce no going back"; Alonso sets summer break deadline for 2027 decision, Hungarian GP brings Newey aero revamp, Briatore pushing Alpine reunion; FIA president Ben Sulayem "He will get back" on Horner, Newey at Goodwood FOS July 10-13 driving Red Bull parting gift car
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+### 2026-07-08
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway)
+- **PostPlanner exports:** f1fr-postplanner-2026-07-08.xlsx (6 posts) + f1fr-postplanner-tobi-2026-07-08.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-07-08/review-dashboard.html (26 items)
+- **Notes:** Verstappen/McLaren "closing stages" (SportBible July 7: 3-year deal imminent/Piastri swap/Brown denies)/exit clause mathematically guaranteed to activate (Verstappen 76pts/Russell 154/gap 78/max 50 available); Hamilton Ferrari 2027 officially confirmed at Silverstone/P3 British GP/sprint pole; Sainz unprecedented one-lap penalty P12→P17/FIA software error/false restart message/first race under SC since Monza 2022; engine compression loophole controversy (Ferrari/Honda/Audi allege Mercedes+Red Bull 0.3s/lap advantage via hot vs cold measurement); Horner returns to Silverstone paddock/first race since fired/Verstappen talks to him weekly
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
 
 ### 2026-07-07
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

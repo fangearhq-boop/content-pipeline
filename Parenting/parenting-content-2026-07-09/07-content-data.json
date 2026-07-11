@@ -1,0 +1,256 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-09",
+  "compiled_at": "2026-07-09T12:37:00.332293+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "CPSC Recall — VEVOR Baby Loungers (~237 Units)",
+      "tier": 1,
+      "status": "",
+      "angle": "Recall action guide — how to identify the product, the hazard, and how to get a refund.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "CPSC has recalled ~237 VEVOR baby loungers ($30). Two hazards: sides too low to contain an infant + foot openings too wide. Sold on Amazon, Wayfair, VEVOR.com. Stop use — cut the product in half and contact VEVOR for a full refund. #COSParenting #COSKids",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#COSKids"
+          ],
+          "char_count": 254
+        },
+        {
+          "label": "Post 1-2",
+          "text": "If you have a VEVOR baby lounger, stop using it now. CPSC recall for non-compliance with mandatory infant sleep standards. Remedy: cut the cover, foam, and pad in half, then request your full refund from VEVOR directly. #COSParenting #ColoradoSprings",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-vevor-baby-lounger-recall-cpsc-2026.html",
+        "headline": "CPSC Recalls VEVOR Baby Loungers: What Colorado Springs Parents Need to Do Now",
+        "word_count": 588
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "VEVOR Baby Lounger Recall\n\n#### Concept 1 — X Post / Facebook\n\n**Prompt:**\nA soft, neutral-toned baby nursery setting with a lounger-style infant product in the center of the frame. The lounger is generic with no brand markings — simple cream fabric with minimal stitching detail. A gentle, cautionary mood — slightly desaturated colors suggesting concern without alarm. The bottom third of the image is a clean open floor area with soft natural light. Warm but muted color palette: soft whites, warm grays, and muted sage. Flat editorial art style with gentle depth of field. No people, no text, no logos.\n\n**Dimensions:** 1080x1350 (X/FB)\n\n---\n\n#### Concept 2 — Article Hero\n\n**Prompt:**\nWide-format nursery scene from above, looking down at a soft infant sleep product — a generic padded lounger or infant nest shape in neutral cream tones. Clean, minimal composition. Gentle studio-style overhead lighting. Color palette: soft whites, warm cream, and light gray. The bottom quarter is an uncluttered open surface. Modern flat editorial photography style. No people, no text, no brand identifiers.\n\n**Dimensions:** 1200x630 (Article hero)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "CPSC Recall — Target Gigglescape Under the Sea Popping Toy (~49,000 Units)",
+      "tier": 1,
+      "status": "",
+      "angle": "Recall action guide — especially relevant for families who bought this as a holiday gift.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "RECALL: Target Gigglescape Under the Sea Popping Toy (~49,000 units). Dome detaches from whale base, releasing small plastic balls. Choking hazard — 9 reports of detachment, 1 child began to choke. Return to any Target for full refund. #COSParenting #COSKids",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#COSKids"
+          ],
+          "char_count": 258
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Got the Target Gigglescape whale toy? Check your toy bin now. The dome can detach and release small balls — a choking hazard. No receipt needed. Return to any Target store or request a prepaid label. $10 refund. #COSParenting #COSKids #ColoradoSprings",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#COSKids",
+            "#ColoradoSprings"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-target-gigglescape-recall-popping-toy-2026.html",
+        "headline": "Target Is Recalling the Gigglescape Under the Sea Popping Toy — Here's How to Get Your Refund",
+        "word_count": 677
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Target Gigglescape Recall\n\n#### Concept 1 — X Post / Facebook\n\n**Prompt:**\nA colorful children's play area with a generic rounded bubble-popping toy on a light wooden floor. The toy is a simple dome-shaped design in clear and blue tones — no brand markings, no logos. Scattered small colorful balls nearby suggest a toy that has come apart. Mood is slightly alarming but soft — not frightening. Color palette: soft aqua, white, and pale wood tones. Clean bottom third of the frame is open floor. Flat editorial children's photography style. No people, no text, no copyrighted characters.\n\n**Dimensions:** 1080x1350 (X/FB)\n\n---\n\n#### Concept 2 — Article Hero\n\n**Prompt:**\nWide-angle view of a family living room toy shelf with various colorful children's toys. On a light wooden play table in the center, a single dome-shaped bubble toy in clear and blue tones is prominently featured — generic shape, no brand markings. Bright, airy natural light from the left. Color palette: soft blues, white, light wood. Open empty surface in the bottom third. Editorial lifestyle photography style. No people, no text, no copyrighted or branded characters.\n\n**Dimensions:** 1200x630 (Article hero)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "D11 Free Summer Meals — Free Breakfast and Lunch for Kids Ages 1-18 in COS",
+      "tier": 2,
+      "status": "",
+      "angle": "Resource alert for COS families — how to find a nearby summer meal site.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "FREE meals for COS kids this summer 🍽️ D11 is serving free breakfast and lunch Mon–Fri to any child ages 1-18 — no district residency required. Sites across Colorado Springs at schools, community centers, and playgrounds. #COSParenting #COSKids #ColoradoSprings",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#COSKids",
+            "#ColoradoSprings"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-d11-free-summer-meals-colorado-springs-2026.html",
+        "headline": "Free Breakfast and Lunch for COS Kids This Summer — No District Required",
+        "word_count": 577
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D11 Free Summer Meals\n\n#### Concept 1 — X Post / Facebook\n\n**Prompt:**\nA cheerful outdoor scene of children sitting at a picnic table under a shaded canopy, eating lunch on a sunny summer day. The children are diverse in appearance, ranging in age from toddler to early teen, all focused on their food. Bright summer mood with warm golden light filtering through the shade. Color palette: bright greens, warm yellows, and natural earth tones. The bottom third of the frame is a clean grassy ground surface. Illustrated editorial style with a warm, community-oriented feel. No text, no logos, no identifiable faces.\n\n**Dimensions:** 1080x1350 (X/FB)\n\n---\n\n#### Concept 2 — Article Hero\n\n**Prompt:**\nWide, sunny outdoor scene at a community park setting. In the background, a simple temporary meal service canopy is set up, with tables and children gathered in line and sitting. Generic signage-free environment. Foreground is a clean, uncluttered grassy area. Warm, optimistic summer lighting. Color palette: vibrant greens, soft sky blue, warm sunshine yellow. Flat editorial documentary photography style. No identifiable faces, no text, no branded materials.\n\n**Dimensions:** 1200x630 (Article hero)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Pikes Peak or Bust Rodeo — July 14-18 at Norris Penrose Event Center (Plus Parade July 11)",
+      "tier": 2,
+      "status": "",
+      "angle": "Family guide to one of COS's longest-running summer traditions (since 1937).",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Pikes Peak or Bust Rodeo is back — July 14-18 at Norris Penrose Event Center. Mutton Bustin' for kids ages 4-9 (under 50 lbs, no pre-registration). Pony rides, petting zoo, face painting. Free drone show July 16. Parade downtown July 11 at 11 AM. #PikesPeakParenting #COSParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PikesPeakParenting",
+            "#COSParenting"
+          ],
+          "char_count": 280
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-pikes-peak-or-bust-rodeo-2026-family-guide.html",
+        "headline": "Your Family Guide to the Pikes Peak or Bust Rodeo: July 14-18 in Colorado Springs",
+        "word_count": 625
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Pikes Peak or Bust Rodeo\n\n#### Concept 1 — X Post / Facebook\n\n**Prompt:**\nA vibrant rodeo arena scene at dusk — dust rising in warm golden light, a small child in western gear riding a woolly sheep in a Mutton Bustin' competition. The child is shown from behind or at a distance, non-identifiable. Audience silhouettes visible in the background stands. Festive, high-energy mood with warm amber and red tones. Color palette: deep golds, burnt orange, dusty browns, and night sky blue. The bottom third is a sandy arena floor in the foreground. Cinematic editorial style. No text, no logos, no identifiable faces.\n\n**Dimensions:** 1080x1350 (X/FB)\n\n---\n\n#### Concept 2 — Article Hero\n\n**Prompt:**\nWide panoramic view of a Colorado rodeo arena at sunset — bleachers filled with a family crowd, the arena lit in warm amber light with mountains visible on the horizon in silhouette. A single roping event in progress in the center of the arena. Festive, classic Western summer atmosphere. Color palette: deep golden yellow, burnt sienna, dusty blue, and mountain purple. The foreground bottom third is an open sandy floor. Cinematic wide-format editorial style. No text, no logos, no identifiable people.\n\n**Dimensions:** 1200x630 (Article hero)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Aspen Acres Fire Update — 96,031 Acres, Flash Flood Watch, Monsoon Arrives",
+      "tier": 2,
+      "status": "",
+      "angle": "Fresh update for July 9 — distinct from yesterday's story (new acreage, flood watch, Fremont County status change, permit re-entry).",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Aspen Acres Fire: 96,031 acres, 15% contained, 275 structures lost. Flash flood watch through tonight — fire-scarred soil + monsoon rains = serious runoff risk. Rockvale, Coal Creek, Williamsburg now in pre-evacuation. DAC issuing re-entry permits. #ColoradoSprings #COSParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ColoradoSprings",
+            "#COSParenting"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-aspen-acres-fire-update-july-9-2026.html",
+        "headline": "Aspen Acres Fire Reaches 96,031 Acres as Flash Flood Watch Goes Into Effect",
+        "word_count": 637
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Aspen Acres Fire Update\n\n#### Concept 1 — X Post / Facebook\n\n**Prompt:**\nA dramatic Colorado landscape scene showing a distant wildfire on a hillside — heavy orange-red glow on the horizon with thick smoke columns rising into a stormy monsoon sky. Dark storm clouds in the upper frame with visible lightning in the distance. Foreground shows a rural road with emergency road closure signs in silhouette — generic signs, no specific text visible. Tense, urgent mood. Color palette: deep oranges, blood red, charcoal gray, and storm purple. Clean bottom third of the frame is a dark road surface. Cinematic editorial style. No text, no logos, no identifiable people or structures.\n\n**Dimensions:** 1080x1350 (X/FB)\n\n---\n\n#### Concept 2 — Article Hero\n\n**Prompt:**\nWide aerial-style landscape view of a Colorado mountain and foothills terrain with visible fire damage on the hillsides — charred trees, smoke haze, and a dramatic storm sky above. Dark monsoon clouds in the upper half with dramatic light breaking through in shafts. The bottom third shows an unburned valley floor for visual breathing room. Somber, serious mood. Color palette: ashen grays, dark charcoal, deep blue storm sky, and patches of warm burnt orange. Cinematic editorial documentary photography style. No text, no logos, no identifiable structures or people.\n\n**Dimensions:** 1200x630 (Article hero)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

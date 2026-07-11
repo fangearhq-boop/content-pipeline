@@ -1,0 +1,313 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-08",
+  "compiled_at": "2026-07-08T11:31:49.797172+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Verstappen and McLaren in \"Closing Stages\" of Deal — Exit Clause Now Mathematically Guaranteed",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "SportBible reports Verstappen and McLaren are in the \"closing stages\" of a deal.\n\nThree-year contract. Piastri to Red Bull.\n\nMcLaren CEO Zak Brown denies it. But Max is mathematically out of the top 2 — the exit clause WILL activate.\n\nThe domino is falling. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 261
+        },
+        {
+          "label": "Post 1-2",
+          "text": "With Belgium and Hungary remaining before summer break, Verstappen can close AT MOST 50 points on Russell.\n\nHe's 78 back.\n\nThe exit clause activates whether Red Bull wants it to or not.\n\nThe question is where he lands. McLaren? Audi? Somewhere else? #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": {
+        "long_form": "🚨 The biggest story in Formula 1 just escalated dramatically.\n\nSportBible reported Tuesday that Max Verstappen and McLaren are in the \"closing stages\" of a deal — with a three-year contract believed to be \"imminent,\" and Oscar Piastri going to Red Bull as part of the arrangement. McLaren CEO Zak Brown flatly denied the reports, saying \"a move for Verstappen will not happen any time soon.\"\n\nBut here's what cannot be denied: the math.\n\nAfter Verstappen's crash at Stowe on Lap 48 of the British Grand Prix, he sits seventh in the championship with 76 points. George Russell is second with 154 — a 78-point gap. With Belgium (July 17-19) and Hungary (July 26) as the only remaining races before the summer break, the maximum points available to Verstappen are 50.\n\nIt is mathematically impossible for Verstappen to reach the top 2 by the time the summer break begins. The exit clause in his Red Bull contract — which can be triggered if he is not in the top 2 after the Hungarian Grand Prix — WILL activate.\n\nDutch publication De Limburger described the relationship between Verstappen and Red Bull as being at \"boiling point.\" Team principal Laurent Mekies called the situation \"very unpleasant.\" And Verstappen himself confirmed he speaks to fired former Red Bull boss Christian Horner \"almost every week.\"\n\nThe dominoes are falling. Where does Max go? Drop your prediction below 👇",
+        "image_caption": "\"Closing stages.\" Verstappen to McLaren — it's the F1 story of the summer, and the exit clause will fire. 🏎️ #F1",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-verstappen-mclaren-closing-stages-exit-clause.html",
+        "headline": "Verstappen and McLaren in \"Closing Stages\" of Deal as Exit Clause Becomes Mathematically Inevitable",
+        "word_count": 707
+      },
+      "image_concepts": [
+        {
+          "label": "Image A",
+          "size_desc": "Social 1080x1350",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image B",
+          "size_desc": "Article Hero 1200x630",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen and McLaren in \"Closing Stages\" — Exit Clause Guaranteed\n**Sources:**\n- SportBible — \"Red Bull F1 Transfer: Exit Clause — 'Closing Stages' of Deal\" (July 7, 2026)\n- GPFans — \"Verstappen vs. Red Bull: 'Boiling Point'\" (July 7-8, 2026)\n- GPFans — \"F1 News Today July 8: Verstappen vs Red Bull boiling point, Horner reveals return terms\"\n- PlanetF1 — \"McLaren breaks silence on Verstappen\" (Zak Brown denial)\n- Motorsport.com — Championship standings after British GP\n**Key Facts (HIGH confidence — 2+ sources):**\n- After Verstappen's crash at Stowe Lap 48, he is P7 with 76 pts in standings\n- Russell is P2 with 154 pts — 78-point gap with only Belgium and Hungary remaining before summer break (max 50 pts available)\n- It is now mathematically impossible for Verstappen to reach top 2 before the summer break — the exit clause will activate\n- SportBible (July 7): McLaren and Verstappen in \"closing stages\" of a deal, believed to be 3-year contract; a deal described as \"imminent\"\n- Widely-rumored mechanism: Oscar Piastri moves to Red Bull as part of the swap\n- McLaren CEO Zak Brown publicly denied talks \"went anywhere\" and said \"a move for Verstappen will not happen any time soon\"\n- Verstappen and Red Bull tensions described as \"boiling point\" by Dutch outlet De Limburger (cited by GPFans)\n- Red Bull team principal Laurent Mekies: situation is \"very unpleasant\"\n- Previously: Red Bull held talks in Austria, offered buyout; Verstappen refused\n**Previously covered (do NOT repeat):** Verstappen \"fed up\" angle (July 7), basic exit clause mechanics (July 3/5/6/7)\n**New angle today:** \"Closing stages\" of McLaren deal (most specific report yet), clause mathematically confirmed to activate",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Hamilton Ferrari 2027 Confirmed — Seven-Time Champion Staying at Maranello",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "It's official. Lewis Hamilton is staying at Ferrari into 2027.\n\nThe seven-time world champion's extension was confirmed by Ferrari during the British GP weekend at Silverstone.\n\n103 race wins. 104 poles. 7 titles. At least one more season in red. #F1 #Ferrari",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Ferrari"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "🔴 Lewis Hamilton's Ferrari chapter is not ending anytime soon.\n\nFerrari officially confirmed during the 2026 British Grand Prix weekend at Silverstone that Hamilton's contract has been extended into the 2027 season. The announcement came as the seven-time world champion continued what has been, by any measure, a remarkable debut season with the Scuderia.\n\nHamilton put Ferrari's low-drag Macarena wing upgrade through its paces at Silverstone — the circuit where he holds records for most wins (9) and most pole positions (7). He took sprint qualifying pole by 0.011 seconds over Antonelli, won the sprint race battle before losing out on Lap 8, and ultimately finished third in the Grand Prix itself (retaining his position after a steward's reprimand — not a time penalty — for a yellow flag infringement during Verstappen's crash).\n\nHe is third in the championship on 147 points, 32 behind leader Kimi Antonelli.\n\nHamilton has 103 race victories, 104 pole positions, and 7 world championship titles — records that will likely stand for decades. Ferrari, for their part, have made clear they want him to add to that legacy in Maranello red. At least through 2027. What happens after that remains one of F1's most fascinating open questions.\n\nWhat do you think? Can Hamilton win an eighth title with Ferrari? 🏆",
+        "image_caption": "Lewis Hamilton confirmed at Ferrari through 2027. The legend continues in red. 🔴 #F1 #Ferrari",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-hamilton-ferrari-2027-extension-confirmed.html",
+        "headline": "Lewis Hamilton's Ferrari Future Confirmed: Seven-Time Champion Stays at Maranello Into 2027",
+        "word_count": 576
+      },
+      "image_concepts": [
+        {
+          "label": "Image A",
+          "size_desc": "Social 1080x1350",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image B",
+          "size_desc": "Article Hero 1200x630",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Hamilton Ferrari 2027 Confirmed\n**Sources:**\n- RacingNews365 — \"Hamilton makes Silverstone scream as Ferrari confirm F1 future\" (July 3-5 weekend)\n- GPFans — various references to the announcement\n- PlanetF1 — Ferrari confirms Hamilton beyond 2026\n**Key Facts (HIGH confidence):**\n- Ferrari officially announced Hamilton's contract extension during the British GP weekend (July 3-5)\n- He was already under contract through 2026; this extends him into 2027 minimum\n- Ferrari confirmed the announcement as part of the Silverstone celebrations\n- Hamilton holds records: 7 world titles, 103 race victories, 104 pole positions\n- Hamilton finished P3 at the British GP; received reprimand for yellow flag infringement (not a time penalty)\n- Hamilton championship points: 147 (3rd overall, 32 behind Antonelli)\n- His \"homecoming\" race in Ferrari red was a major narrative of the British GP weekend\n- Ferrari are P2 in Constructors' Championship, 98 pts behind Mercedes\n**MEDIUM confidence:**\n- The specific contract length beyond 2027 has not been publicly disclosed\n- Ferrari may have tied the announcement to his strong form (Sprint pole at Silverstone)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Sainz Hit With Unprecedented \"One-Lap Penalty\" — FIA Admits British GP Software Error",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Carlos Sainz was P12. Then the FIA added a lap to his result — dropping him to P17.\n\nIt's being called the most unusual penalty in F1 history.\n\nThe cause: a software error that displayed a false safety car restart, plus an edge case with Silverstone's pit lane layout. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": {
+        "long_form": "🚗 In 75+ years of Formula 1, what happened to Carlos Sainz after the 2026 British Grand Prix may never have happened before.\n\nThe Williams driver crossed the finish line classified in P12. A good result — points for the team, a solid recovery. Then the FIA reviewed the data from the final laps of the race.\n\nHours later, Sainz was dropped to P17 — one lap behind the leader. The FIA had applied what motorsport.com described as a \"rare and unprecedented\" penalty: a lap penalty that added a lap to his race total, dropping him off the back of the classified finishers.\n\nWhat happened? Two things collided.\n\nFirst, a software error. On the second-to-last lap of the race — which finished under the full safety car after Verstappen's Stowe crash — the FIA accidentally displayed the message \"Safety Car in this lap\" on screens and timing displays. The message implied the safety car would come in and a restart would follow. It didn't. The FIA later explained it was a software error.\n\nSecond, an edge case at Silverstone. In the chaos surrounding the safety car and the false restart message, Sainz's car temporarily \"unlapped\" itself by crossing the Silverstone pit lane entry — a unique feature of that circuit's layout. He was NOT listed in the \"lapped cars may overtake\" message issued earlier in the race. By unlapping himself, he committed an infringement.\n\nWilliams argued they could not have known. The FIA applied the penalty anyway.\n\nThe result: P17. A lap down. And a story that F1 historians will be discussing for years. 📚",
+        "image_caption": "Carlos Sainz: British GP P12 → P17 after an unprecedented post-race penalty. The FIA later admitted a software error caused the false restart message. #F1",
+        "posting_time": "12:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-sainz-unprecedented-penalty-fia-software-error.html",
+        "headline": "Carlos Sainz Hit With F1's Most Unusual Penalty: Dropped From P12 to P17 After British GP Software Error",
+        "word_count": 662
+      },
+      "image_concepts": [
+        {
+          "label": "Image A",
+          "size_desc": "Social 1080x1350",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image B",
+          "size_desc": "Article Hero 1200x630",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Sainz Unprecedented Penalty — FIA Software Error\n**Sources:**\n- Motorsport.com — \"Carlos Sainz handed unprecedented penalty after F1 British GP\" (July 5)\n- Formula1.com — \"Rare Sainz penalty for safety car infringement confirmed after British Grand Prix\" (July 5)\n- RaceFans — \"FIA blames software error after criticism over failure to restart British Grand Prix\" (July 5-6)\n- Sky Sports — FIA safety car explanation\n- The-Race — Sainz penalty and FIA explanation\n**Key Facts (HIGH confidence — 2+ sources):**\n- Sainz (Williams) originally classified P12 after the British GP\n- FIA issued a unique \"one-lap penalty\" — added a lap to his final total — dropping him to P17, one lap behind the leader\n- Reason: Sainz unlapped himself under the safety car when NOT included in the \"lapped cars may overtake\" message\n- Williams failed to recognize this because of Silverstone's unusual pit lane layout — Sainz's car had temporarily unlapped itself by crossing the pit lane entry\n- Described across multiple outlets as \"unprecedented\" — the first such penalty in F1 history\n- This is the first F1 race to finish under a full safety car since the 2022 Italian Grand Prix\n- On Lap 54, the FIA briefly displayed \"Safety Car in this lap\" — implying a restart — then cancelled it\n- FIA post-race explanation: \"software error\" caused the erroneous message",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "The 2026 Engine Loophole — Ferrari, Honda, and Audi Allege Mercedes Backdoor Worth 0.3s",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Ferrari, Honda, and Audi say Mercedes and Red Bull are exploiting a loophole in the 2026 engine rules.\n\nClaim: their engines run at higher compression ratios at operating temperature than the rules allow when measured cold.\n\nAlleged advantage: up to 0.3 seconds per lap. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": {
+        "long_form": "⚙️ Behind the scenes of the 2026 Formula 1 season, a technical war is being fought that could have enormous consequences for the championship.\n\nThree major engine manufacturers — Ferrari, Honda, and Audi — have raised formal concerns with the FIA alleging that Mercedes and Red Bull are exploiting a loophole in the 2026 technical regulations. The allegation is serious: up to 0.3 seconds per lap in performance advantage.\n\nHere's how it works. The 2026 regulations lowered the maximum allowed engine compression ratio from 18.0:1 to 16.0:1. But the FIA measures this ratio on a COLD engine — before the car has run. The allegation from Ferrari, Honda, and Audi is that the Mercedes and Red Bull power units run at effectively higher compression ratios once at operating temperature during the race, delivering more power output than the cold-measurement limit would suggest.\n\nIn Formula 1, 0.3 seconds per lap is enormous. Over a 52-lap race, that accumulates to 15.6 seconds — more than enough to swing podium positions and championship points. If the allegation is accurate and the advantage is real, it represents one of the most significant technical disputes in years.\n\nThe FIA has not yet issued a ruling. The controversy is ongoing as of July 8, with Spa-Francorchamps hosting the next race on July 17-19.\n\nWhat do you think — should the FIA investigate more aggressively? 🔧",
+        "image_caption": "Ferrari, Honda, and Audi allege a 0.3 second per lap loophole in the 2026 engine rules. The FIA has not yet ruled. ⚙️ #F1",
+        "posting_time": "2:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-f1-engine-compression-loophole-2026.html",
+        "headline": "Ferrari, Honda, and Audi Allege a 0.3-Second Engine Loophole — F1's Biggest Technical Controversy of 2026",
+        "word_count": 670
+      },
+      "image_concepts": [
+        {
+          "label": "Image A",
+          "size_desc": "Social 1080x1350",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image B",
+          "size_desc": "Article Hero 1200x630",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "The 2026 Engine Compression Loophole\n**Sources:**\n- The-Race — \"Everything we learned about impact of F1 2026's loophole controversy\"\n- GrandPrix247 — loophole coverage\n- Sky Sports — engine controversy\n- Autosport — technical reporting\n**Key Facts (HIGH confidence):**\n- Ferrari, Honda, and Audi have alleged that Mercedes and Red Bull found a loophole in the 2026 regulations\n- The 2026 regulations lowered the maximum compression ratio from 18.0 to 16.0\n- FIA measures compression ratios on a COLD engine\n- Alleged: Mercedes and Red Bull engines run at effectively higher compression ratios at operating temperature than the rules permit when measured cold\n- The alleged performance benefit: up to 0.3 seconds per lap\n- The controversy is ongoing — no FIA ruling has been issued as of July 8\n**MEDIUM confidence:**\n- The exact mechanism of the alleged advantage has not been disclosed publicly in full technical detail",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Christian Horner Returns to F1 Paddock at Silverstone — First Race Since Being Fired",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Christian Horner was in the Silverstone paddock for the British GP.\n\nHis first F1 race since Red Bull fired him — one year after last year's British GP.\n\nVerstappen says he still talks to Horner \"almost every week.\"\n\nHorner says he'd return to F1, but \"only on his terms.\" #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": {
+        "long_form": "👀 Christian Horner was back at a Formula 1 race for the first time since being sacked as Red Bull team principal — and he chose Silverstone to make his return.\n\nThe 2026 British Grand Prix weekend marked Horner's first appearance at an F1 race since Red Bull fired him following the 2025 British Grand Prix at the same venue. The symbolism was not lost on anyone in the paddock.\n\nWhat made his presence even more notable: Max Verstappen confirmed, in comments to the press, that he speaks to Horner \"almost every week\" since the dismissal. That's a significant detail. The relationship between the two men — who won four consecutive world championships together (2021-2024) — clearly remains intact, even as Verstappen's relationship with the current Red Bull management is described as being at \"boiling point.\"\n\nWhen asked about returning to Formula 1, Horner was characteristically direct: he would do so, but \"only on his terms.\" He stopped short of naming a specific team or timeline.\n\nFor now, Horner is a paddock visitor. But with Verstappen's exit from Red Bull now all but certain — and the driver market cascade that will follow — the idea that Horner might eventually land somewhere as a team boss is not as far-fetched as it once seemed.\n\nWhat do you think — where does Horner end up next? 👀",
+        "image_caption": "Christian Horner back in the F1 paddock. One year after being fired at the same venue. Verstappen talks to him \"almost every week.\" 👀 #F1",
+        "posting_time": "5:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-christian-horner-returns-f1-paddock-silverstone.html",
+        "headline": "Christian Horner Is Back in the F1 Paddock — One Year After Being Fired at the Same Venue",
+        "word_count": 653
+      },
+      "image_concepts": [
+        {
+          "label": "Image A",
+          "size_desc": "Social 1080x1350",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image B",
+          "size_desc": "Article Hero 1200x630",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Christian Horner Returns to F1 Paddock at Silverstone\n**Sources:**\n- GPFans — \"F1 News Today July 8: Verstappen vs Red Bull boiling point, Christian Horner reveals return terms\"\n- GPFans — various British GP coverage references\n**Key Facts (HIGH confidence — 2+ sources):**\n- Christian Horner was present at Silverstone for the 2026 British GP — his first race since being fired by Red Bull\n- He was sacked from Red Bull following the 2025 British GP (same venue, one year prior)\n- Verstappen confirmed he speaks to Horner \"almost every week\"\n- Horner is \"open to a return to F1 but only on his terms\" per GPFans\n- Horner's presence at Silverstone was widely noted in the paddock\n**Previously covered:** Nothing about Horner's return to Silverstone — this is a new angle tied to the British GP week",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

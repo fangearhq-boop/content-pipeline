@@ -5,6 +5,224 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-11
+
+### Story 1: MLB Draft Day — White Sox Select With the No. 1 Pick
+- **Date:** 2026-07-11
+- **Tier:** 1
+- **Classification:** NEW STORY (2026 MLB Draft live today; White Sox first No. 1 pick since Baines in 1977)
+- **Angle:** White Sox hold No. 1 at the Pennsylvania Convention Center in Philadelphia. Three finalists: Cholowsky (UCLA SS, .329/.448/.624, 52 HR, more walks than Ks — consensus pick at ~50%), Emerson (Fort Worth Christian TX HS SS, 2026 Gatorade POY, ~45%), Lackey (Georgia Tech C, .397 BA 20 HR, wild card). Article written with Cholowsky presumption; actual pick was not yet indexed at research time. Post 2 (1:30 PM) must be confirmed live before sending.
+- **Content Produced:** Article (article-01, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Confirm actual No. 1 pick before 1:30 PM X post
+  - White Sox prospect reaction / signing
+  - Prospect analysis follow-up
+
+### Story 2: Home Run Derby Full Field Set — Murakami Completes the Bracket
+- **Date:** 2026-07-11
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Derby build-up since July 8; full 8-man field now confirmed)
+- **Angle:** Full field: Harper (Phillies, 2018 champ), Schwarber (Phillies, MLB HR leader 32), Caglianone (Royals), Caminero (Rays, 2025 runner-up), Contreras (Red Sox), Murakami (White Sox — just returned Friday from strained hamstring, becomes 2nd Japanese-born Derby participant after Ohtani 2021), Rice (Yankees), Walker (Cardinals). Format: 20/15/15 swing-based (no clock); last-swing extension rule. Derby: Monday July 14, 8 PM ET, Netflix at Citizens Bank Park.
+- **Content Produced:** Article (article-02, Ryan Calloway), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Derby results July 14
+  - Murakami performance recap
+
+### Story 3: HBCU Swingman Classic Recap — AL 6, NL 1, Radcliffe MVP
+- **Date:** 2026-07-11
+- **Tier:** 1
+- **Classification:** NEW STORY (game was July 10 night; first-morning recap coverage)
+- **Angle:** AL wins 6-1 at Citizens Bank Park; ~17,000 fans. Jacoby Radcliffe (Southern University CF) wins MVP (run scored, 2 SB, HBP). Ken Griffey Jr. personally presented trophy to Radcliffe. Jimmy Rollins managed NL, Rickie Weeks managed AL. AL broke open with 3-run 1st. 4th annual; 50 players from 19 HBCUs.
+- **Content Produced:** Article (article-03, Marcus Cole), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Southern University/Radcliffe profile follow-up
+  - 5th annual HBCU Swingman Classic preview (2027)
+
+### Story 4: All-Star Week Storylines — Trout's 12th, Ohtani Out, Phillies Lead with 6
+- **Date:** 2026-07-11
+- **Tier:** 2
+- **Classification:** NEW STORY (narrative preview round-up for Tuesday's All-Star Game)
+- **Angle:** Five storylines: (1) Trout 12th selection/11th starter — 40 miles from Millville NJ hometown; (2) Ohtani OUT — left knee irritation, would have been 6th career nod; (3) Phillies lead MLB with 6 All-Stars (Harper/Schwarber/Marsh/Sánchez/Duran/Luzardo), Wheeler snubbed and called it "kind of BS"; (4) Verlander "Legend Pick" farewell — confirmed final season; (5) First All-Star Game in Philly since 1996, echoing 1976 Bicentennial. Game: July 15, FOX, 8 PM ET.
+- **Content Produced:** Article (article-04, Jake Torres), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - All-Star Game recap July 15
+  - Trout performance / homecoming moment
+
+### Story 5: Skubal Trade Watch — Tigers Hot, 23 Days to Deadline
+- **Date:** 2026-07-11
+- **Tier:** 2
+- **Classification:** FOLLOW UP (trade watch since July 9; new angle: Tigers' hot streak complicates sell narrative)
+- **Angle:** 23 days to Aug 3 deadline. Tigers 19-12 since June 1 (best AL record), 7-1 last 8, 4 games out of Wild Card. Skubal publicly campaigning to stay: "We need to play better baseball or else... you give the front office an option to reassess." Yankees and Phillies named frontrunners; Braves sleeper. Asking price: top-100 MLB prospect + team top-10. Decision is genuinely open.
+- **Content Produced:** Article (article-05, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Trade deadline August 3 decision
+  - Tigers Wild Card race
+
+---
+
+## 2026-07-10
+
+### Story 1: All-Star Week Opens in Philadelphia — HBCU Swingman Classic Tonight
+- **Date:** 2026-07-10
+- **Tier:** 1
+- **Classification:** NEW STORY (All-Star Week officially opens; HBCU Swingman Classic tonight at Citizens Bank Park)
+- **Angle:** 4th annual HBCU Swingman Classic tonight — 7 PM ET, MLB Network, Citizens Bank Park. 50 players from 19 HBCUs. Jimmy Rollins + Ricky Weeks managing. Mayor Cherelle Parker first pitch. Tribute to Octavius V. Catto. Philadelphia hosting All-Star for first time since 1976 (50-year wait). Full week: Draft July 11 (NBC/Peacock), MLBx July 12, HRD July 13 (Netflix), ASG July 14 (FOX).
+- **Content Produced:** Article (article-01, Ryan Calloway), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - HBCU Swingman Classic recap
+  - Draft Day coverage July 11
+
+### Story 2: Home Run Derby — Harper Confirmed at Home, 6 of 8 Set, Schwarber TBD
+- **Date:** 2026-07-10
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Derby build-up since July 9; new angle: Bryce Harper confirmed, 6 of 8 spots filled, Schwarber Mattingly gaffe)
+- **Angle:** 6 confirmed: Caminero (Rays), Rice (Yankees, dad Dan pitching), Caglianone (Royals), Contreras (Red Sox), Walker (Cardinals), Harper (Phillies — 2018 champ at home park). 2 spots open. Schwarber (31 HR MLB leader) strong lean YES — Mattingly accidentally confirmed then backtracked; Schwarber said answer expected "next day or so." Derby July 13, Netflix, 8 PM ET. Format: 20 swings R1, 15 knockout/final, last-swing extension.
+- **Content Produced:** Article (article-02, Marcus Cole), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Schwarber official confirmation
+  - Remaining 2 Derby spots
+  - Derby results July 13
+
+### Story 3: MLB Draft TOMORROW — Cholowsky vs. Emerson to the Wire at No. 1
+- **Date:** 2026-07-10
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Draft preview since July 9; final-day preview, no White Sox signal leaked)
+- **Angle:** Draft July 11 at Pennsylvania Convention Center, 1 PM ET, NBC/Peacock. White Sox No. 1 (first since Baines 1977). Mayo odds: Cholowsky (UCLA SS) 50%, Emerson (Texas prep SS) 45%, Lackey (Georgia Tech C) wild card. No signal leaked; decision in final hours.
+- **Content Produced:** Article (article-03, Jake Torres), 1 X post, FB long-form + caption, Image concept
+- **Follow-Up Opportunities:**
+  - Draft Day No. 1 pick announcement July 11
+  - White Sox prospect reaction
+
+### Story 4: Tyler Tolbert Ties 12-Consecutive-Hits MLB Record
+- **Date:** 2026-07-10
+- **Tier:** 2
+- **Classification:** NEW STORY (occurred July 7-8; first coverage)
+- **Angle:** Royals OF Tyler Tolbert tied MLB record of hits in consecutive plate appearances (12) across July 7 (5-for-5 vs Phillies) and July 8 (5-for-6 in 16-12 win vs Mets). 12th hit: infield single 7th inning. Flied out in 9th. Bat to Hall of Fame. Previous holders: Kling (1902), Higgins (1938), Dropo (1952), Miranda (2024). Also tied back-to-back 5-hit game record (Clemente 1970, Myers 1917).
+- **Content Produced:** Article (article-04, Ryan Calloway), 1 X post, FB long-form + caption, Image concept
+- **Follow-Up Opportunities:**
+  - Royals second-half
+
+### Story 5: Skubal Trade Watch — 24 Days to the August 3 Deadline
+- **Date:** 2026-07-10
+- **Tier:** 2
+- **Classification:** FOLLOW UP (trade watch since July 9; deadline corrected to August 3 per MLB.com)
+- **Angle:** 24 days to August 3 deadline. Braves frontrunner (Strider on IL, best NL record). Tigers 30-44 but best AL record since June — complicating sale. Skubal quote: "play better baseball or else." Yankees out ("No chance. None."). Asking price: 2 top-10 prospects in acquiring team, 1 top-100 nationally. Braves top prospects: Ritchie + Caminiti.
+- **Content Produced:** Article (article-05, Marcus Cole), 1 X post, FB long-form + caption, Image concept
+- **Follow-Up Opportunities:**
+  - Trade deadline August 3
+  - Braves postseason rotation
+
+---
+
+## 2026-07-09
+
+### Story 1: All-Star Week Philadelphia Starts Tomorrow — 50-Year Wait
+- **Date:** 2026-07-09
+- **Tier:** 1
+- **Classification:** NEW STORY (All-Star Week opens July 10 at Citizens Bank Park)
+- **Angle:** Philadelphia hasn't hosted since 1976 (Bicentennial at Veterans Stadium) — a 50-year wait. 2026 coincides with America's Semiquincentennial (250th birthday). Full week: Draft July 11 (NBC/Peacock), Futures Game + MLBx July 12, HRD July 13 (Netflix), All-Star Game July 14 (FOX). Entertainment: Patti LaBelle (National Anthem), Jennifer Hudson ("America the Beautiful"), Miles Teller (PA native, narrates tribute), Boyz II Men (5th-inning Stand Up to Cancer). Phillies on final ballot: Stott, Marsh, Bohm. Schwarber defending All-Star MVP at home.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts (1-1: 8AM, 1-2: 10PM), FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Draft coverage July 11
+  - HRD July 13
+  - All-Star Game July 14
+
+### Story 2: MLB Draft — 2 Days Away, Three-Way Coin Flip at No. 1
+- **Date:** 2026-07-09
+- **Tier:** 1
+- **Classification:** NEW STORY (Draft preview, Saturday July 11 on NBC/Peacock)
+- **Angle:** White Sox hold No. 1. ESPN's Kiley McDaniel: "three-way coin flip." Cholowsky (UCLA SS, consensus top for 1+ year), Emerson (TX prep SS, just moved to No. 1 on MLB Pipeline), Lackey (Georgia Tech C, late surge). SI: White Sox decision "a bit of a mess." Irony: White Sox hold No. 1 pick (earned from 41-121 in 2024) while leading AL Central in 2026. Draft at Citizens Bank Park during All-Star Week. First 10 picks on NBC/Peacock. White Sox previously took Danny Goodwin (1971) and Harold Baines (1977) at No. 1.
+- **Content Produced:** Article (article-02, Jake Torres), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Draft Day coverage July 11
+  - White Sox prospect reaction
+
+### Story 3: Home Run Derby — Schwarber Back in Doubt, Caglianone New to Know
+- **Date:** 2026-07-09
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Derby build-up; new angle: 4 confirmed, Schwarber back issue, Caglianone debut)
+- **Angle:** 4 of 8 confirmed: Caminero (Rays, 2025 runner-up, 26 HR), Rice (Yankees), Caglianone (Royals, 14 HR, rookie power debut), Contreras (Red Sox, 4x All-Star, first Derby). Schwarber (31 HR, MLB leader) conditional: back tightness. Direct quote: "If this back deal calms down, then I'll probably do it." New swing-count format: 20 swings R1, 15 knockout, final-swing extension. Liberty Bell tribute chain unveiled. Judge out confirmed. 4 spots remain.
+- **Content Produced:** Article (article-03, Ryan Calloway), 2 X posts (3-1: field, 3-2: Schwarber quote), FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Derby coverage July 13 (Schwarber participation TBD)
+  - Caglianone performance
+
+### Story 4: Skubal Trade — Braves Desperate, Strider May Be Done for 2026
+- **Date:** 2026-07-09
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Trade watch since July 3; new angle: Strider timeline sharpens Braves urgency; deadline corrected to August 2)
+- **Angle:** Strider on 60-day IL (June 17), right elbow inflammation. MRI clean (no ligament damage) but earliest return ~August 17 — after August 2 deadline. Braves insider: may not pitch in 2026 at all. JR Ritchie + Reynaldo Lopez filling in. Nightengale: Braves are favorites; deal goes to "final days, if not hours" before 6 PM ET August 2 deadline. Cost: 2 top-10 Braves prospects (one top-100 overall). Skubal 85% ESPN Passan/McDaniel. Tigers 37-49. ESPN published 9 blockbuster proposals.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Trade deadline August 2
+  - Braves postseason rotation
+
+### Story 5: White Sox Stumble — Two Straight Losses to Red Sox Before Break
+- **Date:** 2026-07-09
+- **Tier:** 3
+- **Classification:** FOLLOW UP (White Sox lead story July 8; today: stumble update)
+- **Angle:** Red Sox 8-1 (July 7) and 5-0 (July 8) vs White Sox. Martin took loss July 8 (wild pitch). Guardians also fell: Twins 6-5 walk-off (Alan Roden RBI single, 9th inning). Kody Clemens 3-for-4. Yoendrys Gómez first win. Twins 4-game win streak (5 of last 6). AL Central race heads into break unresolved. White Sox still hold draft irony: No. 1 pick + AL Central lead simultaneously.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Second-half AL Central race
+  - Draft Day No. 1 pick (White Sox, July 11)
+
+---
+
+## 2026-07-08
+
+### Story 1: Ohtani 300th Career Home Run
+- **Date:** 2026-07-08
+- **Tier:** 1
+- **Classification:** NEW STORY (milestone hit July 7 vs Rockies)
+- **Angle:** Leadoff HR No. 300, 409 feet to center, No. 20 this season. First Japanese-born player in MLB history to reach 300. 5th fastest ever (1,121 games) — behind Judge, Kiner, Howard, and Gonzalez. Second player to hit No. 300 as a leadoff HR (Steve Finley, 2006).
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Ohtani HR pace watch (on pace 48+ for season)
+  - All-Star Week performance July 14
+
+### Story 2: Wheeler 14 Ks at All-Star Site — Not an All-Star
+- **Date:** 2026-07-08
+- **Tier:** 1
+- **Classification:** NEW STORY (career-high tied performance July 7 at Citizens Bank Park)
+- **Angle:** 14 strikeouts (career high tied), 7 IP, 0 walks, 104 pitches. Phillies 4-1 over Reds. All-Star snub storyline — masterpiece at the exact stadium hosting the All-Star Game. Schwarber also hit MLB-best 31st HR same night.
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Wheeler All-Star snub discussion continues through All-Star Week
+  - Schwarber Derby watch
+
+### Story 3: Home Run Derby — 5 Days Away
+- **Date:** 2026-07-08
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Derby build-up; 5-day countdown with Schwarber home park angle)
+- **Angle:** Derby July 13 Netflix at Citizens Bank Park. Schwarber MLB HR leader (31) at his home park. Caminero (2025 runner-up) and Ben Rice confirmed. Judge out (rib fracture). New swing-based format (not timer). First Derby on Netflix.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Derby coverage July 13
+  - All-Star Game July 14
+
+### Story 4: Skubal Trade Watch — 26 Days to August 3
+- **Date:** 2026-07-08
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Skubal trade watch; 26-day countdown; Dodgers emerge as competitor to Braves)
+- **Angle:** 26 days to August 3. Skubal 85% trade probability (ESPN Passan/McDaniel). Braves frontrunner (Nightengale). Dodgers have superior prospect capital. Tigers 38-49 sellers. August 3 off-day for Tigers. CC Sabathia-level asking price. Scott Harris biggest call of tenure.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Trade deadline August 3
+  - Skubal deal announcement
+
+### Story 5: White Sox Lead AL Central at 47-42
+- **Date:** 2026-07-08
+- **Tier:** 2
+- **Classification:** NEW STORY (milestone: leading AL Central into All-Star break; significant from 41-121 in 2024)
+- **Angle:** White Sox 47-42, leading AL Central ahead of Guardians. One of most remarkable turnarounds in recent MLB history — from 41-121 in 2024 to first place in 2026. Entering All-Star break as AL Central leaders.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - White Sox second-half / AL Central race
+  - Trade deadline implications
+
+---
+
 ## 2026-07-07
 
 ### Story 1: All-Star Week Is One Week Away

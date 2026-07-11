@@ -1,0 +1,256 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-10",
+  "compiled_at": "2026-07-10T10:45:32.064757+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "All-Star Week Opens in Philadelphia — HBCU Swingman Classic Tonight",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "All-Star Week is HERE.\n\nPhiladelphia hasn't hosted since 1976. That's 50 years.\n\nThis week: Draft (Saturday). HRD (Monday). All-Star Game (Tuesday).\n\nThe city waited half a century for this.\n\n#AllStarWeek #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#AllStarWeek",
+            "#MLB"
+          ],
+          "char_count": 209
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The HBCU Swingman Classic is TONIGHT.\n\n7:00 PM ET at Citizens Bank Park. On MLB Network.\n\n50 players. 19 HBCUs. Jimmy Rollins and Ricky Weeks managing.\n\nFirst pitch from Philadelphia Mayor Cherelle Parker.\n\n#AllStarWeek #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#AllStarWeek",
+            "#MLB"
+          ],
+          "char_count": 224
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-hbcu-swingman-classic-all-star-week-opens.html",
+        "headline": "All-Star Week Is Here: The HBCU Swingman Classic Opens Philadelphia's 50-Year Wait",
+        "word_count": 536
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "All-Star Week Opens in Philadelphia — HBCU Swingman Classic Tonight\n\n**Image Concept 1A — Social (1080x1350)**\n- **Type:** All-Star Week opener card\n- **Concept:** Bold \"ALL-STAR WEEK\" header. \"PHILADELPHIA · 2026\" subtext. Full week schedule listed: Draft July 11 · HRD July 13 · ASG July 14. \"50 years since Philly hosted.\" Ballpark Banter branding.\n- **Imagn search terms:** `Citizens Bank Park Philadelphia`\n- **Status:** not_started\n\n**Image Concept 1B — Social (1080x1350)**\n- **Type:** HBCU Swingman Classic tonight urgency card\n- **Concept:** \"TONIGHT\" in red urgent badge at top. \"HBCU Swingman Classic · 7 PM ET.\" Citizens Bank Park photo or graphic. \"50 players · 19 HBCUs · MLB Network.\" Jimmy Rollins managing badge.\n- **Imagn search terms:** `Jimmy Rollins Philadelphia Phillies`\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Home Run Derby — Harper Confirmed at Home, 6 of 8 Set, Schwarber TBD",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Bryce Harper is in the Home Run Derby.\n\nThe 2018 champ gets to swing in front of his home crowd at Citizens Bank Park on Monday night.\n\nSix of eight spots confirmed. Two still open.\n\nDerby. July 13. Netflix. 8 PM ET.\n\n#MLB #HomeRunDerby #Phillies",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#HomeRunDerby",
+            "#Phillies"
+          ],
+          "char_count": 246
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Kyle Schwarber has 31 home runs. He leads all of MLB.\n\nHe's a two-time Derby participant. The Derby is at HIS ballpark.\n\nDon Mattingly thought he'd do it. Schwarber hasn't officially confirmed.\n\nDecision expected soon.\n\n#MLB #HomeRunDerby #Phillies",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#HomeRunDerby",
+            "#Phillies"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-home-run-derby-harper-schwarber-field.html",
+        "headline": "Bryce Harper Is In, Kyle Schwarber Is TBD, and the Home Run Derby Field Is Almost Set",
+        "word_count": 530
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Home Run Derby — Harper Confirmed at Home, 6 of 8 Set, Schwarber TBD\n\n**Image Concept 2A — Social (1080x1350)**\n- **Type:** Harper Derby announcement card\n- **Concept:** Harper action shot batting. \"2018 CHAMP COMES HOME\" header. \"Home Run Derby · Citizens Bank Park · July 13.\" Phillies red + navy palette.\n- **Imagn search terms:** `Bryce Harper Philadelphia Phillies`\n- **Status:** not_started\n\n**Image Concept 2B — Social (1080x1350)**\n- **Type:** Derby field tracker card\n- **Concept:** 8-slot grid showing confirmed 6 names (Caminero, Rice, Caglianone, Contreras, Walker, Harper) and 2 open slots with question marks. \"SCHWARBER: TBD\" callout badge. \"July 13 · Netflix · 8 PM ET\" footer.\n- **Imagn search terms:** `Kyle Schwarber Philadelphia Phillies`\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "MLB Draft TOMORROW — Cholowsky vs. Emerson to the Wire at No. 1",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The MLB Draft is TOMORROW.\n\nWhite Sox have the No. 1 pick. The finalists: Roch Cholowsky (UCLA SS), Grady Emerson (prep SS), Vahn Lackey (Georgia Tech C).\n\nEssentially a coin flip between Cholowsky and Emerson.\n\n1:00 PM ET. NBC/Peacock.\n\n#MLBDraft #WhiteSox",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLBDraft",
+            "#WhiteSox"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-mlb-draft-tomorrow-cholowsky-emerson-no1.html",
+        "headline": "The MLB Draft Is Tomorrow and the No. 1 Pick Is Still Undecided",
+        "word_count": 505
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "MLB Draft TOMORROW — Cholowsky vs. Emerson to the Wire at No. 1\n\n**Image Concept 3A — Social (1080x1350)**\n- **Type:** Draft Day Tomorrow countdown card\n- **Concept:** \"DRAFT DAY TOMORROW\" bold header. Three finalist names listed: Cholowsky · Emerson · Lackey. \"No. 1 Pick · Chicago White Sox.\" \"1:00 PM ET · NBC/Peacock · July 11.\" Black and white dramatic color treatment.\n- **Imagn search terms:** `Chicago White Sox`\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Tyler Tolbert Ties 12-Consecutive-Hits MLB Record",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Tyler Tolbert tied an MLB record that stood since 1952.\n\nThe Royals outfielder had hits in 12 straight plate appearances — joining Johnny Kling, Pinky Higgins, Walt Dropo, and Jose Miranda.\n\nHis bat goes to Cooperstown.\n\n#Royals #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Royals",
+            "#MLB"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-tyler-tolbert-12-consecutive-hits-record.html",
+        "headline": "Tyler Tolbert Tied an MLB Record That Stood Since 1952 — Then Flew Out in the 9th",
+        "word_count": 474
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Tyler Tolbert Ties 12-Consecutive-Hits MLB Record\n\n**Image Concept 4A — Social (1080x1350)**\n- **Type:** MLB record graphic\n- **Concept:** \"MLB RECORD TIED\" banner in gold. \"12 Consecutive Hits.\" Horizontal timeline strip: Kling 1902 · Higgins 1938 · Dropo 1952 · Miranda 2024 · Tolbert 2026. \"Bat Going to Cooperstown\" badge in lower corner.\n- **Imagn search terms:** `Tyler Tolbert Kansas City Royals`\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Skubal Trade Watch — 24 Days to the August 3 Deadline",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Tarik Skubal. 24 days to the August 3 trade deadline.\n\nThe Tigers ace is the most coveted arm on the market. The Braves are the frontrunner.\n\nDetroit is playing its best baseball since June. The price isn't dropping.\n\n#MLB #Tigers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#Tigers"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-skubal-trade-deadline-braves-tigers.html",
+        "headline": "24 Days to the Deadline: Why the Braves Are Still the Team to Beat for Tarik Skubal",
+        "word_count": 544
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Skubal Trade Watch — 24 Days to the August 3 Deadline\n\n**Image Concept 5A — Social (1080x1350)**\n- **Type:** Trade deadline countdown graphic\n- **Concept:** \"24 DAYS\" countdown in large bold font. \"Skubal Trade Watch · August 3 Deadline\" subtitle. Frontrunner badge: \"BRAVES.\" Crossed-out badge: \"YANKEES: OUT.\" Dark urgency color palette (charcoal/red).\n- **Imagn search terms:** `Tarik Skubal Detroit Tigers`\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
