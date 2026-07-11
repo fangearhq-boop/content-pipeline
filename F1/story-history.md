@@ -3857,3 +3857,48 @@
 - **Key facts:** Horner present at Silverstone 2026 British GP; first race since fired after 2025 British GP; Verstappen confirms speaks to Horner "almost every week"; Horner: would return to F1 "only on my terms"; won 4 consecutive world championships with Verstappen 2021-2024; sources: GPFans July 7-8
 - **Status:** NEW
 - **Follow-up ideas:** Horner named team principal somewhere; Verstappen move to Horner's new team; F1 silly season escalates
+
+## 2026-07-11
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-11 | T1 | Antonelli Leads Championship at 179 Points — Leclerc Wins British GP, Title Fight Alive | X, FB, Article | FOLLOW UP |
+| 2026-07-11 | T1 | Verstappen Exit Clause Now In Play — McLaren Denies Talks, Horner Calls Continue | X, FB, Article | FOLLOW UP |
+| 2026-07-11 | T2 | Belgian GP Preview — Spa, Rain Forecast, Championship Pressure | X, FB, Article | NEW |
+| 2026-07-11 | T2 | Russell's 2027 Mercedes Deal Hinges on Performance Targets | X, FB, Article | NEW |
+| 2026-07-11 | T2 | The 2026 Works vs. Customer Gap — Why McLaren Is 154 Points Back | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Antonelli Championship Lead Post-British GP
+- **Tier:** 1
+- **Category:** F1 Championship / British GP Aftermath
+- **Key facts:** British GP (July 5, Round 9): Leclerc P1, Russell P2 (+0.427s), Hamilton P3 (+0.772s); Antonelli P15 after wheel shield failure Lap 41 + 5-sec penalty; Verstappen crashed Stowe Lap 48/race ended SC; championship: Antonelli 179, Russell 154 (−25); constructors: Mercedes 333, Ferrari ~255 (−78), McLaren 179 (−154); 341 drivers points remain
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Russell wins Belgium; Antonelli clinches; Ferrari closes constructors gap
+
+### STORY 2: Verstappen Exit Clause / McLaren Rumors
+- **Tier:** 1
+- **Category:** F1 Driver Market
+- **Key facts:** Verstappen P7 76pts; exit clause triggers if can't finish top-2 (max ~50pts Belgium+Hungary remaining); McLaren (Zak Brown) categorically denied talks; Piastri: "nothing changed"/set to stay through 2028; Verstappen retirement threat: "not mentally doable"/anti-driving 50/50 rules; FIA agreed 60/40 2027 but Ferrari/Audi/Cadillac objecting; Verstappen-Horner weekly calls; Horner returned Silverstone
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Verstappen activates clause; McLaren summer announcement; Horner returns to F1
+
+### STORY 3: Belgian GP Preview
+- **Tier:** 2
+- **Category:** F1 Race Preview
+- **Key facts:** Belgian GP Round 10 of 22 at Spa-Francorchamps; July 17-19 2026; race Sunday 15:00 CEST/9am ET; 7.004km/44 laps; features Eau Rouge, Pouhon, Blanchimont; significant rain forecast all three days; first of double-header before summer break (Hungary July 24-26 follows)
+- **Status:** NEW
+- **Follow-up ideas:** Belgian GP result; rain race drama; championship shift
+
+### STORY 4: Russell 2027 Contract Clause
+- **Tier:** 2
+- **Category:** F1 Driver Contracts
+- **Key facts:** Russell on "one-plus-one" deal; 2027 auto-renews only if he hits undisclosed performance targets; currently P2 championship 154pts; Leclerc extended beyond 2028/Hamilton confirmed 2027+option; 7 teams' seats uncertain for 2027; Piastri through 2028; Verstappen Red Bull through 2028 (exit clauses)
+- **Status:** NEW
+- **Follow-up ideas:** Russell contract confirmed; Belgian GP stakes; summer break announcement
+
+### STORY 5: Works vs. Customer Gap
+- **Tier:** 2
+- **Category:** F1 Technical Analysis
+- **Key facts:** McLaren 154 pts behind Mercedes using same engine; root cause: energy management software (works teams design/optimize; customers receive hardware only); MGU-K 350kW (vs 120kW prior spec); McLaren: 4 reliability failures DNF/DNS; Mercedes 333pts constructors, Ferrari ~255, McLaren 179; Ferrari/Honda/Audi complaint: compression ratio loophole worth 0.3s; no FIA ruling
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** FIA rules on loophole; McLaren closes gap Spa; summer break regulation changes

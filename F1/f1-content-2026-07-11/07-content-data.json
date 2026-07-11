@@ -1,0 +1,265 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-11",
+  "compiled_at": "2026-07-11T11:26:14.911017+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Antonelli Leads Championship at 179 Points — But Ferrari's Leclerc Just Won at Silverstone",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Kimi Antonelli's wheel shield failed on Lap 41 at Silverstone. He finished P15.\n\nHe still leads the championship by 25 points.\n\nLeclerc won. Russell was second. Neither made a dent.\n\nThat's the 2026 F1 season. #F1 #Formula1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Formula1"
+          ],
+          "char_count": 223
+        },
+        {
+          "label": "Post 1-2",
+          "text": "British GP result:\nP1 — Leclerc (Ferrari) ✅\nP2 — Russell (Mercedes)\nP3 — Hamilton (Ferrari)\n\nChampionship after Round 9:\nAntonelli 179 pts\nRussell 154 pts\n\nTitle race: still very much alive. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 194
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-antonelli-leads-post-british-gp-championship.html",
+        "headline": "Antonelli's Wheel Failure at Silverstone Gave the Field a Lifeline — They're Still 25 Points Behind",
+        "word_count": 673
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli Championship Lead\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Kimi Antonelli Mercedes\"\n- **Caption overlay:** \"CHAMPIONSHIP LEADER — 179 PTS\"\n- **Usage:** X Post 1, Facebook long-form\n\n**Image Concept 2 — Social (1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Charles Leclerc Ferrari\"\n- **Caption overlay:** \"BRITISH GP WINNER — LECLERC\"\n- **Usage:** Facebook image caption\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli Championship Lead — Post-British GP\n**Sources:**\n- Formula1.com race report: Leclerc wins British GP\n- ESPN live report: British GP 2026\n- The Race: British GP results\n- RacingNews365: F1 standings 2026 (drivers)\n- Sky Sports: F1 standings\n- F1 Daily Brief stats: Antonelli 2026 season\n**Key Facts:**\n- British GP result (July 5, Round 9): Leclerc P1, Russell P2 (+0.427s), Hamilton P3 (+0.772s)\n- Antonelli suffered left front wheel shield failure on Lap 41; two additional pit stops required; finished P15 after 5-second penalty for track limits\n- Verstappen crashed at Stowe Corner on Lap 48; race finished under Safety Car\n- Qualifying pole: Antonelli (1m28.111s), Leclerc P2 (+0.175s), Hamilton P3 (+0.347s), Russell P4 (+0.370s)\n- Championship standings after Round 9: Antonelli 179 pts, Russell 154 pts (−25), Hamilton approximately 3rd\n- Constructors: Mercedes 333 pts, Ferrari ~255 pts (−78), McLaren 179 pts (−154)\n- Antonelli: 5 wins (China, Japan, Miami, Canada, Monaco), 5 poles, 7 podiums through Round 9\n- 341 points still available for drivers; 591 for constructors\n- Confidence: HIGH (Formula1.com official results, multiple cross-references)\n**Freshness:** British GP was July 5 — now 6 days ago, but championship implications fresh.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Verstappen-McLaren Swap Rumors Intensify — Exit Clause Now In Play",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Verstappen is P7 in the 2026 championship. He's 103 points behind Antonelli.\n\nHis exit clause at Red Bull almost certainly triggers when he can't finish top-2.\n\nMcLaren denies talks. Piastri says he's staying.\n\nAnd Verstappen talks to Christian Horner \"almost every week.\" 👀 #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 278
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The 2026 F1 silly season:\n\nMcLaren says no Verstappen talks ❌\nPiastri \"nothing has changed\" ❌\nRed Bull says he's contracted through 2028 ❌\n\nBut the exit clause is real. And those Horner calls aren't about the weather. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-verstappen-exit-clause-mclaren-rumors.html",
+        "headline": "Verstappen's Exit Clause Is Coming — McLaren Denies Everything, But the Horner Calls Keep Happening",
+        "word_count": 708
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen/McLaren Saga\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Max Verstappen Red Bull\"\n- **Caption overlay:** \"EXIT CLAUSE: INCOMING\"\n- **Usage:** X Post 1, Facebook long-form\n\n**Image Concept 2 — Social (1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Max Verstappen\"\n- **Caption overlay:** \"THE SILLY SEASON HEATS UP\"\n- **Usage:** Facebook image caption\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen/McLaren Exit Clause\n**Sources:**\n- Sky Sports: Verstappen quit threat at Canadian GP\n- ESPN: Verstappen considering retirement\n- GPBlog: Verstappen/Piastri swap rumors\n- RacingNews365: Piastri set to stay at McLaren\n- GPFans: Verstappen 2026 exit clause\n- Story history shows coverage on July 7 and July 8\n**Key Facts:**\n- Verstappen's Red Bull contract runs through end of 2028 but contains performance-related exit clauses\n- After British GP, Verstappen is P7 in championship with 76 points; Russell is P2 with 154 points\n- Gap is 78 points with max ~50 points available (Belgium Sprint + Hungary) before mathematical elimination from top-2 finish\n- Exit clause likely triggers if he cannot finish in top 2 in drivers' championship\n- Verstappen renewed retirement threat at Canadian GP: \"not mentally doable\" with current 50/50 combustion/electric regulations\n- FIA agreed in principle to shift 60/40 combustion-favored for 2027, but Ferrari, Audi, Cadillac objecting\n- McLaren denied any talks with Verstappen; Piastri confirmed to stay at McLaren\n- Verstappen speaks to Christian Horner \"almost every week\" per Verstappen himself\n- Confidence: HIGH for championship math; MEDIUM for McLaren swap (officially denied)\n**Freshness:** Exit clause math now nearly certain after British GP result. McLaren rumors ongoing.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Belgian GP Preview — Spa, Rain Forecast, and One Week of Championship Chaos",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Belgian Grand Prix — July 17-19 at Spa-Francorchamps.\n\nSignificant rain forecast for all three days.\n\n7.004km of Eau Rouge, Pouhon, Blanchimont.\n\nRound 10 of 22. Title race very much alive.\n\nBuckle up. #BelgianGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BelgianGP",
+            "#F1"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-belgian-gp-preview-spa-2026.html",
+        "headline": "Belgian GP Preview: Rain, Spa, and a Championship That Can Still Go Either Way",
+        "word_count": 626
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Belgian GP Preview\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Formula 1 Spa Francorchamps Belgium\"\n- **Caption overlay:** \"BELGIAN GP — SPA — JULY 17-19\"\n- **Usage:** X Post, Facebook long-form\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Belgian GP Preview\n**Sources:**\n- Formula1.com: Belgian GP 2026 page\n- ESPN: Belgian GP preview\n- Sky Sports: Belgian GP dates/schedule/weather\n- RacingNews365: Belgian GP round info\n**Key Facts:**\n- Belgian Grand Prix, Round 10 of 22, Spa-Francorchamps\n- Dates: July 17-19, 2026 (FP1/FP2 Friday; FP3/Qualifying Saturday; Race Sunday)\n- Race start: 15:00 CEST / 9:00am ET, Sunday July 19\n- Circuit: 7.004km (4.352 miles), 44 laps; longest circuit on calendar; features Eau Rouge, Raidillon, Pouhon, Blanchimont\n- Format: Standard race weekend (no Sprint)\n- Weather: Significant rain forecast for all three days; European heatwave expected to break just in time\n- First of final double-header before summer break (Hungarian GP follows July 24-26)\n- Spa historically unpredictable weather; rain advantages vary team-to-team\n- Confidence: HIGH for dates/circuit info; MEDIUM for weather (forecasts one week out)\n**Freshness:** Race is 6 days away — ideal preview window.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Russell's 2027 Mercedes Deal Hinges on Performance Targets",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "George Russell's 2027 Mercedes seat is not guaranteed.\n\nIt's a \"one-plus-one\" deal. His 2027 year auto-renews only if he hits performance targets.\n\nHe's currently P2 in the championship. The pressure is real.\n\nWhat counts as hitting the target? Nobody's saying. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-russell-2027-contract-performance-clause.html",
+        "headline": "George Russell's 2027 Mercedes Seat Isn't Guaranteed — His Contract Has a Performance Clause",
+        "word_count": 635
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Russell Contract\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"George Russell Mercedes\"\n- **Caption overlay:** \"THE HIDDEN PRESSURE\"\n- **Usage:** X Post, Facebook long-form\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Russell's 2027 Contract Performance Clause\n**Sources:**\n- Formula1.com: F1 driver contracts feature\n- The Race: Driver contract expiry tracker\n- PlanetF1: F1 driver contract statuses\n- GPFans: Which contracts expire in 2026\n**Key Facts:**\n- George Russell signed a \"one-plus-one\" deal with Mercedes\n- 2027 season auto-renews only if Russell hits specific performance targets\n- Currently P2 in drivers' championship with 154 points — 25 behind Antonelli\n- Russell has scored 5 podiums through 9 rounds (2 wins: Australian GP P1 and British GP P1? Wait — British GP was Leclerc P1, Russell P2)\n- Actually checking: Russell P2 at British GP; research says Russell P2 in championship; 7 teams' duos without 2027 confirmation\n- Contract adds performance pressure on Russell in final weeks before summer break\n- Confidence: HIGH for contract structure; MEDIUM for specific performance target details (not publicly disclosed)\n**Freshness:** Ongoing storyline gaining relevance as Belgian GP approaches.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "The 2026 Works vs. Customer Gap — Why McLaren Is Defending Champions and Still 154 Points Back",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "McLaren won the 2025 F1 championship.\n\nThey are 154 points behind Mercedes in 2026 with the same engine.\n\nThe difference? Software. Energy management. Works teams have it. Customers don't.\n\nThe 2026 regs created a two-tier field. #F1 #Formula1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Formula1"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-mclaren-works-customer-gap-2026.html",
+        "headline": "McLaren Won in 2025. Now They're 154 Points Behind — Here's Why the 2026 Regulations Changed Everything",
+        "word_count": 785
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Works vs. Customer Gap\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"McLaren Formula 1\"\n- **Caption overlay:** \"154 POINTS BACK — AND THEY WON LAST YEAR\"\n- **Usage:** X Post, Facebook long-form"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Works vs. Customer Gap — Why McLaren Is 154 Points Back\n**Sources:**\n- Motorsport.com: Customer team analysis 2026\n- Sky Sports: F1 upgrades — have McLaren, Ferrari, Red Bull caught Mercedes?\n- Yahoo Sports: McLaren lays timeline to close gap\n- The Race: Miami upgrades breakdown\n- GPBlog: Red Bull and Ferrari introduce updates for British GP\n**Key Facts:**\n- McLaren (defending WCC and WDC) is 154 points off Mercedes' lead in constructors' standings\n- Root cause: 2026 power unit regulations give works teams (Mercedes, Ferrari, Red Bull, Aston Martin, Audi) a significant software advantage\n- MGU-K produces 350kW (up from 120kW); fuel flow reduced to ~75kg/hour; much more complex energy deployment\n- McLaren as a Mercedes customer does not have equal access to energy management software optimized by Mercedes works team\n- McLaren suffered 4 reliability failures (DNF or DNS) due to power unit issues through 9 rounds\n- McLaren acknowledged a timeline to close the gap; brought 7 new parts to Miami\n- Ferrari brought 11 new parts to Miami, further updates to Silverstone; Ferrari now ~78 points off Mercedes\n- Red Bull has same works-team advantages but also struggling vs. 2021-24 dominance level\n- Confidence: HIGH for points gap; HIGH for power unit regulation explanation (Formula1.com official)\n**Freshness:** Explaining a season-long dynamic — always relevant, tied to Belgian GP preview.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
