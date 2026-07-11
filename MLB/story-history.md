@@ -5,6 +5,61 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-11
+
+### Story 1: MLB Draft Day — White Sox Select With the No. 1 Pick
+- **Date:** 2026-07-11
+- **Tier:** 1
+- **Classification:** NEW STORY (2026 MLB Draft live today; White Sox first No. 1 pick since Baines in 1977)
+- **Angle:** White Sox hold No. 1 at the Pennsylvania Convention Center in Philadelphia. Three finalists: Cholowsky (UCLA SS, .329/.448/.624, 52 HR, more walks than Ks — consensus pick at ~50%), Emerson (Fort Worth Christian TX HS SS, 2026 Gatorade POY, ~45%), Lackey (Georgia Tech C, .397 BA 20 HR, wild card). Article written with Cholowsky presumption; actual pick was not yet indexed at research time. Post 2 (1:30 PM) must be confirmed live before sending.
+- **Content Produced:** Article (article-01, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Confirm actual No. 1 pick before 1:30 PM X post
+  - White Sox prospect reaction / signing
+  - Prospect analysis follow-up
+
+### Story 2: Home Run Derby Full Field Set — Murakami Completes the Bracket
+- **Date:** 2026-07-11
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Derby build-up since July 8; full 8-man field now confirmed)
+- **Angle:** Full field: Harper (Phillies, 2018 champ), Schwarber (Phillies, MLB HR leader 32), Caglianone (Royals), Caminero (Rays, 2025 runner-up), Contreras (Red Sox), Murakami (White Sox — just returned Friday from strained hamstring, becomes 2nd Japanese-born Derby participant after Ohtani 2021), Rice (Yankees), Walker (Cardinals). Format: 20/15/15 swing-based (no clock); last-swing extension rule. Derby: Monday July 14, 8 PM ET, Netflix at Citizens Bank Park.
+- **Content Produced:** Article (article-02, Ryan Calloway), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Derby results July 14
+  - Murakami performance recap
+
+### Story 3: HBCU Swingman Classic Recap — AL 6, NL 1, Radcliffe MVP
+- **Date:** 2026-07-11
+- **Tier:** 1
+- **Classification:** NEW STORY (game was July 10 night; first-morning recap coverage)
+- **Angle:** AL wins 6-1 at Citizens Bank Park; ~17,000 fans. Jacoby Radcliffe (Southern University CF) wins MVP (run scored, 2 SB, HBP). Ken Griffey Jr. personally presented trophy to Radcliffe. Jimmy Rollins managed NL, Rickie Weeks managed AL. AL broke open with 3-run 1st. 4th annual; 50 players from 19 HBCUs.
+- **Content Produced:** Article (article-03, Marcus Cole), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Southern University/Radcliffe profile follow-up
+  - 5th annual HBCU Swingman Classic preview (2027)
+
+### Story 4: All-Star Week Storylines — Trout's 12th, Ohtani Out, Phillies Lead with 6
+- **Date:** 2026-07-11
+- **Tier:** 2
+- **Classification:** NEW STORY (narrative preview round-up for Tuesday's All-Star Game)
+- **Angle:** Five storylines: (1) Trout 12th selection/11th starter — 40 miles from Millville NJ hometown; (2) Ohtani OUT — left knee irritation, would have been 6th career nod; (3) Phillies lead MLB with 6 All-Stars (Harper/Schwarber/Marsh/Sánchez/Duran/Luzardo), Wheeler snubbed and called it "kind of BS"; (4) Verlander "Legend Pick" farewell — confirmed final season; (5) First All-Star Game in Philly since 1996, echoing 1976 Bicentennial. Game: July 15, FOX, 8 PM ET.
+- **Content Produced:** Article (article-04, Jake Torres), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - All-Star Game recap July 15
+  - Trout performance / homecoming moment
+
+### Story 5: Skubal Trade Watch — Tigers Hot, 23 Days to Deadline
+- **Date:** 2026-07-11
+- **Tier:** 2
+- **Classification:** FOLLOW UP (trade watch since July 9; new angle: Tigers' hot streak complicates sell narrative)
+- **Angle:** 23 days to Aug 3 deadline. Tigers 19-12 since June 1 (best AL record), 7-1 last 8, 4 games out of Wild Card. Skubal publicly campaigning to stay: "We need to play better baseball or else... you give the front office an option to reassess." Yankees and Phillies named frontrunners; Braves sleeper. Asking price: top-100 MLB prospect + team top-10. Decision is genuinely open.
+- **Content Produced:** Article (article-05, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Trade deadline August 3 decision
+  - Tigers Wild Card race
+
+---
+
 ## 2026-07-10
 
 ### Story 1: All-Star Week Opens in Philadelphia — HBCU Swingman Classic Tonight

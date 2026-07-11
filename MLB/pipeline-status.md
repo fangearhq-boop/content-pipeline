@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-07-11
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via agents), brief (5 stories), research notes, story analysis, X posts (6; 2 char violations fixed S3T1 281→280, S4T1 287→275; 0 violations after fix), FB posts (5 stories), image concepts (5 stories), image manifest (9 items, not_started), articles (5), fact-check (40 claims, 0 char violations after fix), compile (5 stories, 6 tweets, 0 FB posts parsed — known format, 5 articles, 21 items), dashboard (21 items), dashboard publish 403 (proxy). PostPlanner exports (16 posts X + TOBI). WordPress 403 (proxy sandbox — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected — proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard publish 403 (proxy blocks content-dashboards — known). IMAGE MISSING expected (not_started). 2 char violations fixed (S3T1 281→280; S4T1 287→275). Actual No. 1 draft pick not yet indexed at research time — article-01 and 1:30 PM X post written with Cholowsky presumption; confirm actual pick before sending 1:30 PM post.
+- **Key Stories**: MLB Draft Day July 11/White Sox No. 1 (first since Baines 1977)/Cholowsky 50% Emerson 45% Lackey wild card/1 PM ET NBC-Peacock (Tier 1 NEW), HRD full field set/8 confirmed Harper+Schwarber+Caglianone+Caminero+Contreras+Murakami+Rice+Walker/Murakami 2nd Japanese-born participant (after Ohtani 2021)/swing-based format 20-15-15/Netflix July 14 8PM ET (Tier 1 FOLLOW UP), HBCU Swingman Classic recap/AL 6 NL 1/Radcliffe (Southern U) MVP/Griffey presented trophy/Rollins managed NL/Weeks managed AL/17,000 fans (Tier 1 NEW), All-Star Week storylines/Trout 12th selection 40mi from hometown/Ohtani OUT knee/Phillies 6 All-Stars/Wheeler snubbed "kind of BS"/Verlander Legend Pick farewell/first Philly ASG since 1996 (Tier 2 NEW), Skubal 23 days Aug 3/Tigers 19-12 best AL since June 1/7-1 last 8/4 games out Wild Card/Skubal wants to stay/Yankees+Phillies frontrunners/Braves sleeper (Tier 2 FOLLOW UP)
+
+## Last Run
 - **Date**: 2026-07-10
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via agents x2), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (7 items, not_started), articles (5), fact-check (45 claims, 0 char violations), compile (5 stories, 7 tweets, 0 FB posts parsed — known format, 5 articles, 22 items), dashboard (22 items), dashboard publish 403 (proxy). PostPlanner exports (7 posts each X + TOBI). WordPress 403 (proxy sandbox — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected — proxy known restriction).

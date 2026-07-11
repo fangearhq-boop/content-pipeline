@@ -1,0 +1,256 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-11",
+  "compiled_at": "2026-07-11T10:48:19.125861+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "MLB Draft Day — White Sox on the Clock NOW",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The 2026 MLB Draft is TODAY.\n\nWhite Sox pick No. 1 at 1 PM ET on Peacock — first time the Sox hold No. 1 since 1977.\n\n3 finalists: Roch Cholowsky (UCLA SS), Grady Emerson (HS SS), Vahn Lackey (GT C).\n\nNo leaked signal. Coin flip. #MLBDraft",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLBDraft"
+          ],
+          "char_count": 239
+        },
+        {
+          "label": "Post 1-2",
+          "text": "White Sox take Roch Cholowsky No. 1 overall in the 2026 MLB Draft.\n\nThe UCLA SS is the first college shortstop drafted No. 1 since Dansby Swanson in 2015.\n\n52 HRs. More walks than strikeouts at UCLA. The rebuild starts here.\n\n#MLBDraft #WhiteSox",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLBDraft",
+            "#WhiteSox"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-mlb-draft-day-white-sox-no1-pick.html",
+        "headline": "MLB Draft Day 2026 — White Sox Select With the No. 1 Pick for the First Time Since 1977",
+        "word_count": 619
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "MLB Draft Day — White Sox on the Clock NOW\n\n#### Image Concept 1A — Article Hero / FB Long-Form\n\n**Concept:** Split graphic: Left side shows the White Sox logo with \"No. 1 PICK\" prominently displayed. Right side shows a clean headshot/action photo of Roch Cholowsky in UCLA gear at bat. Bold \"DRAFT DAY\" headline. \"1 PM ET | Peacock\" event info bar at bottom.\n\n**Imagn Search Terms:**\n- `Roch Cholowsky UCLA`\n\n**Canva Direction:** Dark background, White Sox/UCLA two-panel split, \"2026 MLB Draft\" headline, \"White Sox No. 1 Overall\" subhead, clock/countdown element showing \"TODAY | 1 PM ET\"\n\n---\n\n#### Image Concept 1B — Draft Reaction / FB Caption + X\n\n**Concept:** Post-pick announcement graphic. \"WITH THE No. 1 PICK...\" headline with White Sox select Cholowsky (or actual pick name). Clean broadcast-card style, similar to the NBA Draft graphics. Simple, bold, shareable.\n\n**Imagn Search Terms:**\n- `Roch Cholowsky UCLA baseball`\n- `Grady Emerson baseball`\n\n**Canva Direction:** White Sox color palette, bold serif announcement style, player name large, \"2026 MLB Draft | No. 1 Overall Pick\" subtext\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "MLB Draft Day — White Sox on the Clock NOW\n**Source(s):**\n- mlb.com/draft/2026/order\n- mlb.com/news/2026-mlb-draft-overview-and-schedule\n- cbssports.com/mlb/news/2026-mlb-mock-draft-complete-first-round-projection-july-10/\n- espn.com/mlb/story/_/id/49315943/2026-mlb-mock-draft-final-predictions-first-two-rounds-white-sox-no-1-cholowsky-emerson-lackey\n- axios.com/local/chicago/2026/07/08/white-sox-no-1-pick-2026-mlb-draft-cholowsky-grady-emerson-vahn-lackey\n- yahoo sports: White Sox locked in on 3 options\n**Confirmed Facts (HIGH confidence):**\n- Draft is today, July 11, at the Pennsylvania Convention Center in Philadelphia\n- Picks 1-10 at 1:00 PM ET on NBC/Peacock; Picks 11-40 on MLB Network; Picks 41-135 on MLB.com\n- White Sox hold No. 1 pick — first No. 1 pick since Harold Baines in 1977\n- Three confirmed finalists: Roch Cholowsky (SS, UCLA), Grady Emerson (SS, Fort Worth Christian HS TX), Vahn Lackey (C, Georgia Tech)\n- White Sox VP Mike Shirley: all three are \"real and happening up to the minute\"\n- Cholowsky: .329/.448/.624, 52 HR in three years at UCLA; 105 walks vs. 100 Ks\n- Emerson: ranked No. 1 by MLB.com heading into draft week; 2026 Gatorade Baseball Player of the Year; committed to Texas but draft-eligible\n- Lackey: hit .397 with 20 HR in 2026 at Georgia Tech; reportedly the preference of some front office voices\n- CBS Sports final mock (July 10): Cholowsky at No. 1\n- ESPN's McDaniel and Rogers final picks: Cholowsky No. 1\n- ML Pipeline Mayo: Cholowsky 50%, Emerson 45%, Lackey wild card\n- If Cholowsky selected: 3rd college SS ever No. 1 overall (after Bill Almon 1974, Dansby Swanson 2015)\n**Confirmed Facts (LOW confidence):**\n- Actual No. 1 pick result: not yet indexed as of research. Draft starts 1 PM ET today.\n- NOTE: The actual pick will need to be confirmed via live tracker before writing Story 1 Post 2 (1:30 PM tweet)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Home Run Derby Full Field Set — Murakami Completes the Bracket",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "The 2026 Home Run Derby field is complete. 🚀\n\nHarper, Schwarber, Caglianone, Caminero, Contreras, Murakami, Rice, Walker.\n\nMurakami is the final addition — back from injury, becomes just the 2nd Japanese-born Derby participant ever.\n\nMonday. Netflix. 8 PM ET. #HomeRunDerby",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HomeRunDerby"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-home-run-derby-full-field-murakami.html",
+        "headline": "2026 Home Run Derby Field Is Complete — Murakami's Return Makes It Must-Watch",
+        "word_count": 752
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Home Run Derby Full Field Set\n\n#### Image Concept 2A — Full Field Graphic / Article Hero + FB Long-Form\n\n**Concept:** 8-player bracket-style graphic. All 8 participants listed in two columns of 4, with team logos or flags. \"FULL FIELD SET\" headline at top. Netflix + Citizens Bank Park + Monday July 13 8PM ET at bottom. Clean, high-energy design.\n\n**Imagn Search Terms:**\n- `Bryce Harper Philadelphia Phillies`\n- `Munetaka Murakami Chicago White Sox`\n\n**Canva Direction:** Red/gold All-Star Week palette, 8-player two-column grid, each with player name + team, \"2026 T-Mobile Home Run Derby\" headline, Netflix logo/CTA, event details footer\n\n---\n\n#### Image Concept 2B — Murakami Spotlight / FB Caption\n\n**Concept:** Munetaka Murakami action photo — home run or batting stance. Overlay: \"DERBY DEBUT\" with \"Chicago White Sox | July 13 | Netflix\" footer. Sub-text note: \"Just the 2nd Japanese-born Derby participant in history.\"\n\n**Imagn Search Terms:**\n- `Munetaka Murakami White Sox`\n\n**Canva Direction:** White Sox black/white palette, dramatic lighting on player, milestone callout text, Netflix + date footer\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Home Run Derby Full Field Set\n**Source(s):**\n- mlb.com/news/2026-mlb-home-run-derby-participants\n- bleacherreport.com/articles/25453449-white-soxs-munetaka-murakami-announced-2026-mlb-hr-derby-full-field-participants-revealed\n- mlb.com/news/kyle-schwarber-joins-2026-home-run-derby\n- mlb.com/news/munetaka-murakami-joins-2026-home-run-derby\n- espn.com/mlb/story/_/id/49326376/phillies-kyle-schwarber-joins-home-run-derby-one-slot-left\n- espn.com/mlb/story/_/id/49239710/mlb-2026-all-star-home-run-derby-bracket-analysis-participants\n- NBC Sports: format rules confirmation\n**Confirmed Facts (HIGH confidence):**\n- Event: Monday, July 13, 8 PM ET, Citizens Bank Park, Philadelphia, on Netflix\n- Full 8-man field confirmed:\n1. Bryce Harper (Philadelphia Phillies) — 2018 Derby champ competing in his home park\n2. Kyle Schwarber (Philadelphia Phillies) — MLB HR leader, 32 HRs; third Derby appearance\n3. Jac Caglianone (Kansas City Royals)\n4. Junior Caminero (Tampa Bay Rays) — 2025 Derby runner-up\n5. Willson Contreras (Boston Red Sox)\n6. Munetaka Murakami (Chicago White Sox) — final spot announced; missed 1+ month with strained right hamstring; returned Friday; 20 HR in 2026; second Japanese-born Derby participant ever (after Ohtani 2021)\n7. Ben Rice (New York Yankees)\n8. Jordan Walker (St. Louis Cardinals)\n- Format change confirmed: MLB reverted from timer to swing-based. Round 1: 20 swings. Round 2: 15 swings. Final: 15 swings. If the final swing of a round is a HR, batter continues until they don't homer.\n- Shohei Ohtani OUT — withdrew citing left knee irritation; he was a 2021 Derby participant\n- Murakami was also named as an All-Star injury replacement on the same day he was added to the Derby field",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "HBCU Swingman Classic Recap — AL 6, NL 1, Radcliffe MVP",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "AL 6, NL 1 at Citizens Bank Park last night.\n\nJacoby Radcliffe (Southern University) won MVP. Ken Griffey Jr. presented the trophy.\n\nJimmy Rollins managed the NL. Rickie Weeks managed the AL. 17,000 fans.\n\nThe 4th Annual HBCU Swingman Classic didn't disappoint. #HBCU #AllStarWeek",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HBCU",
+            "#AllStarWeek"
+          ],
+          "char_count": 280
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-hbcu-swingman-classic-recap.html",
+        "headline": "AL Wins 4th Annual HBCU Swingman Classic 6-1 — Radcliffe Takes MVP, Griffey Presents Trophy",
+        "word_count": 656
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "HBCU Swingman Classic Recap\n\n#### Image Concept 3A — Recap Graphic / Article Hero + FB Long-Form\n\n**Concept:** Scoreboard-style recap card. \"HBCU SWINGMAN CLASSIC\" headline. AL 6 — NL 1 score in large type. \"MVP: Jacoby Radcliffe | Southern University\" below. \"Trophy Presented by Ken Griffey Jr.\" secondary callout. Citizens Bank Park / July 10 footer.\n\n**Imagn Search Terms:**\n- `Jimmy Rollins Philadelphia Phillies`\n- `HBCU baseball`\n\n**Canva Direction:** Classic baseball scoreboard aesthetic, HBCU event branding, gold/navy palette, score prominent, MVP callout boxed and highlighted\n\n---\n\n#### Image Concept 3B — Griffey Tribute Moment / FB Caption\n\n**Concept:** Split — left panel shows Jacoby Radcliffe (if available) or a Southern University graphic; right panel shows Ken Griffey Jr. icon/silhouette or photo. \"Griffey Presented the Trophy\" headline. HBCU Swingman Classic branding.\n\n**Imagn Search Terms:**\n- `Ken Griffey Jr baseball`\n\n**Canva Direction:** Two-panel design, MLB/HBCU branding, warm lighting, \"A Moment to Remember | 4th Annual HBCU Swingman Classic\" footer\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "HBCU Swingman Classic Recap\n**Source(s):**\n- mlb.com/news/american-league-wins-2026-hbcu-swingman-classic-in-philadelphia\n- si.com/college/hbcu/baseball/hbcu-swingman-classic-american-league-defeats-national-league\n- inquirer.com/phillies/hbcu-swingman-classic-santino-harwood-jimmy-rollins-ken-griffey-20260711.html\n- facebook.com/MLBNetwork/posts (broadcast confirmation)\n**Confirmed Facts (HIGH confidence):**\n- Result: American League 6, National League 1\n- Date: Friday, July 10, 2026, Citizens Bank Park, Philadelphia\n- Broadcast: MLB Network at 7 PM ET\n- Attendance: approximately 17,000 fans\n- 4th Annual HBCU Swingman Classic (official All-Star Week event)\n- MVP: Jacoby Radcliffe, CF, Southern University — scored a run, stole two bases, hit by pitch\n- Ken Griffey Jr. personally presented the MVP trophy to Radcliffe\n- AL Manager: Rickie Weeks (14-year MLB veteran, HBCU alumnus)\n- NL Manager: Jimmy Rollins (Phillies legend, 2007 NL MVP)\n- AL opened with a three-run first inning\n- Santino Harwood mentioned as a notable player in Inquirer headline (position/school unconfirmed from available text)\n**Confirmed Facts (MEDIUM confidence):**\n- Full box score with per-player stats beyond Radcliffe not retrieved",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "All-Star Week Storylines — Trout's 12th, Ohtani Out, Phillies Lead with 6",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "5 All-Star storylines for Tuesday night:\n\n1. Trout's 12th selection — 40 miles from his hometown\n2. Ohtani is OUT (left knee)\n3. Phillies send 6 All-Stars — most in MLB\n4. Verlander's farewell\n5. First All-Star Game in Philly since 1996\n\nJuly 14. 8 PM. FOX. #AllStarWeek #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#AllStarWeek",
+            "#MLB"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-all-star-week-storylines.html",
+        "headline": "Five Storylines to Watch at the 2026 MLB All-Star Game in Philadelphia",
+        "word_count": 727
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "All-Star Week Storylines\n\n#### Image Concept 4A — 5 Storylines Preview Graphic\n\n**Concept:** Numbered list graphic, \"5 STORYLINES TO WATCH\" header. Five bullet points: (1) Trout's 12th selection, (2) Ohtani out, (3) Phillies 6 All-Stars, (4) Verlander's farewell, (5) First Philly All-Star Game since 1996. Clean, bold design.\n\n**Imagn Search Terms:**\n- `Mike Trout Los Angeles Angels`\n- `Bryce Harper Philadelphia Phillies All-Star`\n\n**Canva Direction:** All-Star Week color palette (gold/navy/red), numbered list card, \"July 14 | FOX | 8 PM ET\" footer\n\n---\n\n#### Image Concept 4B — Trout Homecoming Graphic\n\n**Concept:** Mike Trout action shot or portrait. \"12 ALL-STAR SELECTIONS\" large text. \"Playing 40 Miles From Home\" subhead. Dramatic, emotional tone.\n\n**Imagn Search Terms:**\n- `Mike Trout Angels`\n\n**Canva Direction:** Dark background with American League gold, \"TROUT | 12th All-Star\" headline, milestone context callout, \"July 14 | Citizens Bank Park\" footer\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "All-Star Week Storylines\n**Source(s):**\n- mlb.com/news/2026-mlb-all-star-game-rosters-announcement\n- mlb.com/news/2026-all-star-game-rosters\n- cbsnews.com/losangeles/news/5-dodgers-including-ohtani-and-freeman-named-to-all-star-game-angels-mike-trout-selected-for-12th-time/\n- mlb.com/news/phillies-to-have-5-representatives-as-all-star-game-hosts (note: later corrected to 6 with Luzardo replacement)\n- philliesnation.com/2026/07/philadelphia-phillies-jesus-luzardo-mlb-all-star-game-selection-july-7-2-26/\n- mlbtraderumors.com/2026/07/shohei-ohtani-to-miss-start-skip-all-star-game-due-to-left-knee-issue.html\n- mlb.com/news/justin-verlander-legacy-all-star\n- bleacherreport.com/articles/25453376-aaron-judge-ranger-suarezs-al-roster-replacements-named-ahead-2026-mlb-all-star-game\n**Confirmed Facts (HIGH confidence):**\n- All-Star Game: Tuesday July 14, 8 PM ET, Citizens Bank Park, FOX\n- Mike Trout: 12th All-Star selection, 11th as a starter (third AL player with 11+ starter nods, after Cal Ripken Jr. 17, George Brett 11); healthy in 2026 (14 HR, .897 OPS in 61 games); 40 miles from his Millville, NJ hometown\n- Shohei Ohtani: withdrew citing left knee irritation (also missed Friday start but hit a leadoff HR); was the top vote-getter; 6th career All-Star selection\n- Phillies: 6 All-Stars — Harper, Schwarber, Brandon Marsh (1st career), Cristopher Sánchez, Jhoan Duran (1st career), Jesús Luzardo (1st career, added July 7 as injury replacement)\n- Zack Wheeler: NOT selected; publicly called snub \"kind of BS\"\n- Justin Verlander: named \"Legend Pick\"; confirmed this is his final season\n- Phillies lead MLB with 6 All-Stars (Dodgers and Braves each have 5)\n- First All-Star Game in Philadelphia since 1996; 50th anniversary since 1976 Philly hosting\n**Confirmed Facts (MEDIUM confidence):**\n- Judge and Suárez had injury replacements named\n- Paul Skenes also out",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Skubal Trade Watch — Tigers Hot, 23 Days to Deadline",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Tarik Skubal trade deadline update:\n\nTigers are 7-1 in their last 8. Best record in the AL since June 1. Only 4 games out of a Wild Card spot.\n\nSkubal wants to stay. Tigers are reconsidering selling.\n\n23 days until August 3. #MLB #TradeDeadline",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#TradeDeadline"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-skubal-trade-watch-23-days.html",
+        "headline": "Tarik Skubal Trade Watch: Tigers Are Winning, and the August 3 Decision Just Got Complicated",
+        "word_count": 699
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Skubal Trade Watch — 23 Days to Deadline\n\n#### Image Concept 5A — Trade Deadline Countdown / FB + X\n\n**Concept:** Countdown graphic. \"23 DAYS\" large type at top. \"Tarik Skubal\" name below. \"August 3 Trade Deadline\" footer. Background shows Tigers photo or Detroit branding. Urgency/tension design.\n\n**Imagn Search Terms:**\n- `Tarik Skubal Detroit Tigers`\n\n**Canva Direction:** Tigers orange/black, dramatic countdown clock element, Skubal photo prominent, \"Keep or Trade?\" question overlay subtle, \"MLB Trade Deadline | Aug 3\" footer"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Skubal Trade Watch — 23 Days to Deadline\n**Source(s):**\n- mlb.com/news/tigers-trade-candidates-for-2026-deadline\n- clutchpoints.com/mlb/detroit-tigers/mlb-rumors-yankees-phillies-lead-latest-tarik-skubal-trade-update\n- bleacherreport.com/articles/25442881-tarik-skubal-warns-tigers-amid-mlb-trade-rumors-contract-buzz-ahead-deadline-free-agency\n- bleacherreport.com/articles/25443798-new-tarik-skubal-trade-rumors-reveal-which-team-seen-sleeper-tigers-star-mlb-deadline\n- motorcitybengals.com/tarik-skubal-all-but-confirmed-he-s-staying-with-tigers-for-rest-of-2026-season\n- heavy.com/sports/mlb/san-diego-padres/mlb-trade-rumors-tigers-keeping-skubal-blue-jays-selling-mason-miller-bo-bichette/\n- cbssports.com/mlb/news/mlb-trade-rumors-tigers-tarik-skubal-yankees-diamondbacks-angels/\n**Confirmed Facts (HIGH confidence):**\n- Trade deadline: August 3, 2026 — 23 days from today (July 11)\n- Skubal is a back-to-back AL Cy Young Award winner in his final year before free agency\n- No long-term extension offer from Detroit; Skubal said \"there won't be an offer until the end of the season\"\n- Tigers: best record in AL since June 1 (19-12), won 7 of last 8, now 4 games out of Wild Card\n- Skubal quote: \"We need to play better baseball or else, come the deadline, you give the front office an option to reassess where this team is.\"\n- Skubal publicly advocates for Tigers to BUY, not sell\n- Most-named frontrunners: Yankees, Phillies; Braves also cited as sleeper\n- Asking price: one top-100 MLB prospect minimum + another team top-10 prospect\n- Tigers reportedly shifting toward keeping Skubal as hot streak continues\n- Expected Skubal free agency value: $400M+",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
