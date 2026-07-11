@@ -2,15 +2,21 @@
 
 
 ## Current Run
-- **Date**: 2026-07-10
+- **Date**: 2026-07-11
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via agents), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations), FB posts (5 stories), image concepts (9 items), image manifest (9 items, not_started), articles (5), fact-check (46 claims, 0 char violations), compile (5 stories, 6 tweets, 5 articles, 21 items), dashboard (21 items), PostPlanner exports (16 posts standard + 11 TOBI). WordPress 403 (proxy sandbox — known). Dashboard push 403 (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected — proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started). PostPlanner FB 0 posts (format — known). 0 char violations.
+- **Key Stories**: MLBx All-Star 3-on-3 TOMORROW/Citizens Bank Park/3PM ET Peacock/full team rosters confirmed — Howard+Brito+DeVonta Smith, Rollins+Jennings+Terrell Owens, Victorino+Garcia+Jordan Mailata, Jones+Canady/Andruw Jones 2026 HOF inductee (Tier 1 FOLLOW UP), Lonni Alameda AUSL broadcast debut TONIGHT 8PM ET MLB.TV/Talons vs Spark Tom Heath Field OKC/Gasso returns Sunday MLB Network (Tier 1 FOLLOW UP), AUSL Final 9 three games today 2PM+5PM+8PM ET/Talons lead No.1 seed race/bye to Championship Series July 25-27 (Tier 2 FOLLOW UP), Megan Grant ESPYS 4 days/42 HR 31-year record/ESPN.com vote/July 15 8PM ET ABC (Tier 2 FOLLOW UP), PGF Nationals 8 days/Roster freeze 2 days July 13 11:59PM PST/September 1 52 days (Tier 3 FOLLOW UP)
+
+## Last Run- **Date**: 2026-07-10
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch x6 searches), brief (5 stories), research notes, story analysis, X posts (6; 1 char violation fixed Story 2 tweet 282→262; 0 violations after fix), FB posts (5 stories), image concepts (5 stories), image manifest (8 items, not_started), articles (5), fact-check (61 claims, 0 char violations), compile (5 stories, 6 tweets, 5 articles, 21 items), dashboard (21 items), PostPlanner exports (6 posts each). WordPress 403 (proxy sandbox — known). Dashboard push 403 (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected — proxy known restriction).
 - **GitHub Pages Status**: unknown (push failed, known proxy restriction)
 - **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started). PostPlanner FB 0 posts (format — known). 1 char violation fixed (Story 2 tweet 282→262).
 - **Key Stories**: Utah Talons 7-game win streak/14-5 first place/10 games left/No. 1 seed bye to Championship Series/tonight AUSL doubleheader Blaze-Volts+Bandits-Cascade (Tier 1 FOLLOW UP), MLBx All-Star 3-on-3 THIS SUNDAY/Citizens Bank Park/Peacock/NFL confirmed DeVonta Smith+Terrell Owens join (Tier 1 FOLLOW UP), Patty Gasso ESPNU broadcast debut Thursday/back Saturday/Lonni Alameda joins Saturday (Tier 2 FOLLOW UP), Megan Grant ESPYS 5 days/42 HR 31-year record/vs Garrett+Klæbo+Sawe/vote ESPN.com July 15 8PM ABC (Tier 2 FOLLOW UP), PGF Nationals 9 days/Roster freeze 3 days July 13/automatic releases active July 1/September 1 53 days (Tier 3 FOLLOW UP)
 
-## Last Run
-- **Date**: 2026-07-09
+## Previous Run- **Date**: 2026-07-09
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via agent, 8 searches), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (10 items, not_started), articles (5), fact-check (49 claims, 0 char violations), compile (5 stories, 6 tweets, 0 FB posts parsed — known format, 5 articles, 21 items), dashboard (21 items), PostPlanner exports (6 posts each). WordPress 403 (proxy sandbox — known). Dashboard push 403 (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected — proxy known restriction).
 - **GitHub Pages Status**: unknown (push failed, known proxy restriction)

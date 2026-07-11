@@ -3,6 +3,60 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## July 11, 2026
+
+### Story 1: MLBx All-Star 3-On-3 Is TOMORROW — Full Team Rosters Confirmed
+- **Date:** 2026-07-11
+- **Tier:** 1
+- **Classification:** FOLLOW UP (announced July 8, format July 9, NFL stars July 10; new angle: complete per-team rosters confirmed — NFL players assigned to specific captains, Andruw Jones is 2026 HOF inductee, Jordan Mailata joins Team Victorino)
+- **Angle:** Full four-team rosters now locked via MLB.com press release. Team Howard: Brito + DeVonta Smith. Team Rollins: Jennings + Terrell Owens. Team Victorino: Garcia + Jordan Mailata (Eagles OT). Team Jones: Canady. Andruw Jones = 2026 Baseball HOF inductee this week. Event is tomorrow July 12, Citizens Bank Park, 3 PM ET on Peacock.
+- **Content Produced:** Article (article-01, Emily Rawlings), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - MLBx results July 12 (who won? standout moments?)
+  - AUSL player performance at Citizens Bank Park
+
+### Story 2: Lonni Alameda Makes Her AUSL Broadcast Debut TONIGHT
+- **Date:** 2026-07-11
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Gasso debuted July 9; new angle: Alameda's debut TONIGHT at 8 PM ET on MLB.TV — back-to-back historic booth nights during All-Star Week)
+- **Angle:** FSU head coach Lonni Alameda makes AUSL broadcast debut tonight calling Utah Talons vs. Oklahoma City Spark at Tom Heath Field in OKC, 8 PM ET MLB.TV. Gasso debuted July 9 ESPNU; returns July 12 MLB Network. Two legends, three nights, biggest broadcast week in softball history.
+- **Content Produced:** Article (article-02, Jordan Reeves), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Broadcast reaction / fan response to Alameda's debut
+  - Gasso's Sunday return July 12
+
+### Story 3: AUSL Final 9 — Three Games Today, No. 1 Seed Race Enters Critical Week
+- **Date:** 2026-07-11
+- **Tier:** 2
+- **Classification:** FOLLOW UP (AUSL standings race since July 9; new angle: 9 games left, three-game Saturday = most action-packed single day of the stretch run)
+- **Angle:** Three AUSL games today: 2 PM Blaze vs. Volts (Dell Diamond TX), 5 PM Bandits vs. Cascade (Hillsboro Ballpark OR), 8 PM Talons vs. Spark (Tom Heath Field OKC). Talons lead, 9 games left. No. 1 seed = bye to Championship Series July 25-27 (Davis Diamond, College Station TX). Play-in July 23.
+- **Content Produced:** Article (article-03, Sarah Mitchell), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Today's game results
+  - Updated AUSL standings
+  - No. 1 seed race heading into final week
+
+### Story 4: Megan Grant ESPYS — 4 Days to Vote
+- **Date:** 2026-07-11
+- **Tier:** 2
+- **Classification:** FOLLOW UP (daily countdown since July 4; updated to 4 days)
+- **Angle:** 4 days left to vote (July 12-15) for Megan Grant (Best Record-Breaking Performance, 34th ESPYs). 42 HR broke 31-year NCAA record (Espinoza/Arizona 1995, 37 HR). 91 career HR at UCLA (passed Nuveman). Portland Cascade No. 4 overall pick. Competitors: Garrett/Klæbo/Sawe. Vote once/day ESPN.com through July 15. ESPYs air July 15, 8 PM ET ABC. Host: Marcello Hernández.
+- **Content Produced:** Article (article-04, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - ESPYS results July 15 — did Grant win?
+  - ESPYS broadcast coverage
+
+### Story 5: PGF Nationals — 8 Days, Roster Freeze in 2 Days
+- **Date:** 2026-07-11
+- **Tier:** 3
+- **Classification:** FOLLOW UP (summer calendar since June 30; updated to 8 days to tournament, 2 days to freeze)
+- **Angle:** PGF Nationals begin July 19, Great Park Irvine (8000 Great Park Blvd, Irvine CA 92618). 18U + 16U Week One. Roster freeze Monday July 13 at 11:59 PM PST — 2 days from today (not tomorrow; tomorrow is Sunday July 12, freeze is Monday July 13). Today and tomorrow are last windows. Portal through July 31. Auto-releases since July 1. Class of 2028 contact window opens Sept 1 (~52 days).
+- **Content Produced:** Article (article-05, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - PGF Week 1 results
+  - September 1 Class of 2028 contact window
+
+---
 ## July 10, 2026
 
 ### Story 1: Utah Talons Win 7th Straight — 10 Games Left in AUSL Regular Season
