@@ -1,25 +1,17 @@
 {
-  "generated_at": "2026-07-10T08:30:00.457326+00:00",
-  "today_ct": "2026-07-10",
+  "generated_at": "2026-07-11T08:30:00.441596+00:00",
+  "today_ct": "2026-07-11",
   "off_day": false,
-  "is_series_start_today": true,
+  "is_series_start_today": false,
   "series": {
     "opponent": "Cincinnati Reds",
     "opponent_id": 113,
-    "opponent_record": "42-50",
-    "cubs_record": "52-41",
+    "opponent_record": "43-50",
+    "cubs_record": "52-42",
     "is_cubs_home": false,
     "venue": "Great American Ball Park",
-    "series_length": 3,
+    "series_length": 2,
     "games": [
-      {
-        "game_pk": "824493",
-        "game_date_iso": "2026-07-10T23:10:00Z",
-        "game_date_ct": "Fri 6:10 PM CT",
-        "cubs_probable": "TBD",
-        "opponent_probable": "TBD",
-        "status": "Preview"
-      },
       {
         "game_pk": "824492",
         "game_date_iso": "2026-07-11T23:10:00Z",
@@ -37,22 +29,22 @@
         "status": "Preview"
       }
     ],
-    "rationale": "Yesterday vs Baltimore Orioles; today vs Cincinnati Reds \u2192 game 1 of 3 (on the road)."
+    "rationale": "Same opponent (Cincinnati Reds) as yesterday \u2014 this is mid-series, not a series opener."
   },
   "today_cubs_game": {
-    "game_pk": "824493",
+    "game_pk": "824492",
     "status": "Preview",
     "detailed_status": "Scheduled",
-    "game_date_iso": "2026-07-10T23:10:00Z",
-    "game_date_ct": "Fri 6:10 PM CT",
+    "game_date_iso": "2026-07-11T23:10:00Z",
+    "game_date_ct": "Sat 6:10 PM CT",
     "is_cubs_home": false,
     "opponent_id": 113,
     "opponent_name": "Cincinnati Reds",
-    "opponent_record": "42-50",
-    "cubs_record": "52-41",
+    "opponent_record": "43-50",
+    "cubs_record": "52-42",
     "cubs_probable": "TBD",
     "opponent_probable": "TBD",
     "venue": "Great American Ball Park"
   },
-  "rationale": "Yesterday vs Baltimore Orioles; today vs Cincinnati Reds \u2192 game 1 of 3 (on the road)."
+  "rationale": "Same opponent (Cincinnati Reds) as yesterday \u2014 this is mid-series, not a series opener."
 }
