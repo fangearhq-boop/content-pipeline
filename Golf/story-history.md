@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-07-12
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-12 | T1 | MacIntyre Wins Scottish Open at -18 — Back-to-Back at Renaissance Club, McIlroy and Gotterup T2 at -15 | X, FB, Article | NEW |
+| 2026-07-12 | T1 | Grace Kim Wins 2026 Evian Championship in Playoff — Thitikul Runner-Up, Ryu's Record 60 Not Enough | X, FB, Article | NEW |
+| 2026-07-12 | T1 | Open Championship Preview — Scheffler and McIlroy Co-Favorites at Royal Birkdale, First Round Thursday | X, FB, Article | FOLLOW UP |
+| 2026-07-12 | T2 | Scheffler Arrives at Birkdale Seeking Redemption — Defending Champion Off Missed Cut at Scottish Open | X, FB, Article | FOLLOW UP |
+| 2026-07-12 | T2 | LIV Golf Survival Crisis Deepens — PIF Ends Funding After 2026, Events at Risk | X, FB, Article | FOLLOW UP |
+
+### STORY 1: MacIntyre Wins Scottish Open at -18 — Back-to-Back at Renaissance Club
+- **Tier:** 1
+- **Category:** Genesis Scottish Open / PGA Tour / DP World Tour
+- **Key facts:** Robert MacIntyre wins 2026 Genesis Scottish Open at The Renaissance Club, North Berwick; -18 (262 total); wins by 3 shots; McIlroy and Chris Gotterup T2 at -15 (265); $9M purse; July 9-12; MacIntyre won 2024 Scottish Open at same venue (back-to-back); MacIntyre is Scottish (home crowd); R3 delayed by fog; McIlroy heads to Birkdale as co-favorite at +700
+- **Status:** NEW
+- **Follow-up ideas:** MacIntyre at The Open; McIlroy at Birkdale; Renaissance Club record
+
+### STORY 2: Grace Kim Wins 2026 Evian Championship in Playoff
+- **Tier:** 1
+- **Category:** Amundi Evian Championship / LPGA Major
+- **Key facts:** Grace Kim (Australia) wins 2026 Amundi Evian Championship; playoff over Jeeno Thitikul (Thailand) on hole 18; Kim also won 2025 Evian in playoff over Thitikul (back-to-back same opponent); Haeran Ryu (South Korea) held 3-shot lead entering Sunday; Ryu shot R3 60 (-11) — women's major lowest round record; Ryu attempted to win 2nd consecutive major (won KPMG Women's PGA June 2026); Evian Resort Golf Club, Évian-les-Bains, France; $9.1M purse; 4th of 5 women's majors 2026; Nelly Korda missed cut (first since 2024 Women's PGA)
+- **Status:** NEW
+- **Follow-up ideas:** 5th women's major; Ryu recovery; Thitikul in search of first major
+
+### STORY 3: Open Championship Preview — Royal Birkdale
+- **Tier:** 1
+- **Category:** The Open Championship / Major Preview
+- **Key facts:** 154th Open Championship; July 16-19; Royal Birkdale GC, Southport, England; Scheffler and McIlroy co-favorites +700; Fleetwood +1400, Fitzpatrick +1500; 156 players; Scheffler defending (won 2025 Open); back-to-back would be first since Tiger 2005-06; McIlroy win = 7 majors, tying Vardon for most by British golfer; Royal Birkdale last hosted 2017 (Spieth); 100+ bunkers, precision over distance; LIV qualifiers: Niemann + Herbert (direct exemptions), McKibbin (LINK Hong Kong)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Open R1-R4 coverage; Scheffler vs McIlroy final-round
+
+### STORY 4: Scheffler Bounce-Back at Birkdale After Missed Cut
+- **Tier:** 2
+- **Category:** PGA Tour / Scottie Scheffler / Open Championship
+- **Key facts:** Scheffler shot 68-72 at Scottish Open, +0, missed cut by 2 (cutline -2); snapped 78-consecutive-made-cut streak (5th longest PGA Tour history behind Woods 142, Nelson 113, Nicklaus 105, Irwin 86); last missed cut: 2022 FedEx St. Jude Classic, 1,428 days ago; 11/26 fairways, 23/36 GIR, lost ~2 strokes approach; still World No. 1 (197th consecutive week); defending Open champion; back-to-back would be first since Tiger 2005-06
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Scheffler's Open performance; whether missed cut affects form
+
+### STORY 5: LIV Golf Survival Crisis Deepens
+- **Tier:** 2
+- **Category:** LIV Golf / Business
+- **Key facts:** LIV Golf filed WARN Act layoff notices US + UK; PIF (Saudi Arabia) announced April 2026 ends funding after 2026 season; PIF invested $5B+ since 2022 launch; annual losses $500-600M; seeking $250-400M outside investment via Ducera Partners; possible cancellation of final 2 events; Lucas Herbert won LIV Virginia -24 (27th different LIV winner); 4Aces GC won team title; next event July 23 England; World Golf Group + PGL suing LIV $210-630M; CEO Scott O'Neil on investment roadshow
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Investment secured or events cancelled; WARN Act deadline; player reactions
+
 ## 2026-07-10
 
 | Date | Tier | Story | Platforms | Status |

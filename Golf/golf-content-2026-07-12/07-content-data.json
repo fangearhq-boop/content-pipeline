@@ -1,0 +1,307 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-12",
+  "compiled_at": "2026-07-12T11:54:31.902846+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "MacIntyre Wins Scottish Open at -18 — Back-to-Back at Renaissance Club, McIlroy and Gotterup T2 at -15",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Robert MacIntyre wins the 2026 Scottish Open at -18 — back-to-back titles at Renaissance Club.\n\nMcIlroy and Gotterup T2 at -15. MacIntyre wins on home soil again.\n\n#ScottishOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ScottishOpen"
+          ],
+          "char_count": 177
+        },
+        {
+          "label": "Post 1-2",
+          "text": "McIlroy finishes T2 at the Scottish Open and heads straight to Royal Birkdale as co-favorite at +700 for The Open.\n\nThe momentum is real. #TheOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheOpen"
+          ],
+          "char_count": 146
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-macintyre-wins-scottish-open-2026.html",
+        "headline": "MacIntyre Wins Back-to-Back Scottish Opens at -18 — McIlroy and Gotterup T2 at -15",
+        "word_count": 395
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Primary",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Supporting",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Grace Kim Wins 2026 Evian Championship in Playoff — Thitikul Runner-Up, Ryu's Record 60 Not Enough",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Grace Kim wins the 2026 Evian Championship in a playoff over Thitikul — back-to-back Evian titles.\n\nRyu led by 3 entering Sunday after shooting a record -11 in Round 3. Not enough.\n\n#EvianChampionship #LPGA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#EvianChampionship",
+            "#LPGA"
+          ],
+          "char_count": 206
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Haeran Ryu shot a 60 (-11) in Round 3 — the lowest round in women's major history.\n\nShe led by 3 entering Sunday. Grace Kim won in a playoff anyway.\n\n#LPGA #EvianChampionship",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA",
+            "#EvianChampionship"
+          ],
+          "char_count": 174
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-grace-kim-evian-championship-playoff.html",
+        "headline": "Grace Kim Wins Back-to-Back Evian Championships in Playoff — Ryu's Record 60 Not Enough",
+        "word_count": 467
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Primary",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Supporting",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Open Championship Preview — Scheffler and McIlroy Co-Favorites at Royal Birkdale, First Round Thursday",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The 154th Open Championship starts Thursday at Royal Birkdale.\n\nScheffler and McIlroy co-favorites at +700. Fleetwood +1400. Fitzpatrick +1500.\n\nFirst Open at Birkdale since Spieth in 2017. #TheOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheOpen"
+          ],
+          "char_count": 198
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-open-championship-preview-birkdale-2026.html",
+        "headline": "2026 Open Championship Preview: Scheffler and McIlroy Co-Favorites at Royal Birkdale Starting Thursday",
+        "word_count": 488
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Primary",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Supporting",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Scheffler Arrives at Birkdale Seeking Redemption — Defending Champion Off Missed Cut at Scottish Open",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Scheffler missed the cut at the Scottish Open — snapping a 78-consecutive-made-cut streak, 5th longest in PGA Tour history.\n\nThe defending Open champion heads to Royal Birkdale on Thursday. #TheOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheOpen"
+          ],
+          "char_count": 198
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-scheffler-birkdale-redemption-missed-cut.html",
+        "headline": "Defending Champion Scheffler Heads to Birkdale After Snapping 78-Cut Streak at Scottish Open",
+        "word_count": 441
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Primary",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Supporting",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "LIV Golf Survival Crisis Deepens — PIF Ends Funding After 2026, Events at Risk",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "LIV Golf filed WARN Act layoff notices in the US and UK.\n\nSaudi Arabia's PIF ends funding after 2026 — after $5B invested. The circuit needs $250-400M in new investment or its final events may not happen.",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 204
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-liv-golf-pif-funding-crisis.html",
+        "headline": "LIV Golf Faces Existential Crisis — PIF Ends Funding After 2026, Layoffs Filed, Events at Risk",
+        "word_count": 487
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Primary",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Supporting",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
