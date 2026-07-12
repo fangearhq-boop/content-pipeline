@@ -5,6 +5,50 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-12
+
+### STORY 1: Cubs 5, Reds 3 — Bregman's Go-Ahead Blast (Game 2 Recap)
+- **Angle:** NEW STORY — first coverage of July 11 Game 2 result (Alex Bregman 2-run HR in 7th inning broke 3-3 tie; Busch 3-for-4; Kelly solo HR; Thornton SV 3; Pomeranz W; Cubs 53-42; series tied 1-1)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - Game 3 result (played today at 12:40 PM CT)
+  - Bregman clutch performance context heading into second half
+
+### STORY 2: Wild Card Race — 53-42, Last Game Before the Break
+- **Angle:** FOLLOW UP (Cubs 53-42; race tight with Phillies/Marlins; today is last game before All-Star break July 13-16; return July 17 at Wrigley vs Twins; urgency framing)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, standings/stakes analysis)
+- **Follow-Up Opportunities:**
+  - Wild card standings update post-All-Star break
+  - Phillies/Marlins exact records after July 11
+
+### STORY 3: Taillon Dominant at Iowa — Return This Month
+- **Angle:** FOLLOW UP (second consecutive scoreless Iowa rehab start July 11: 4⅔ IP, 0 ER, 1H, 1BB, 3K; expected back post-ASB, Twins series July 17-19 or Tigers July 20-22; "rotation cavalry assembling" framing)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, roster/injury update)
+- **Follow-Up Opportunities:**
+  - Taillon activation date after All-Star break
+  - First start back (Twins series July 17-19 or Tigers July 20-22)
+
+### STORY 4: PCA to Philadelphia — The Best Player in Baseball Is a Cub
+- **Angle:** FOLLOW UP (PCA leads all baseball in WAR; All-Star Game Tuesday July 14, 8 PM ET on FOX, Citizens Bank Park Philadelphia; bold declarative take; final pre-break statement)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, bold take / feature)
+- **Follow-Up Opportunities:**
+  - PCA All-Star Game performance July 14
+  - PCA second-half trajectory and MVP case
+
+### STORY 5: Series Finale Preview — Boyd vs Abbott, 12:40 PM CT
+- **Angle:** NEW STORY — first coverage of Game 3 matchup (Matthew Boyd vs Andrew Abbott; series tied 1-1; Great American Ball Park; 12:40 PM CT; last game before All-Star break; Cubs 53-42 favorites)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, pre-game hype)
+- **Follow-Up Opportunities:**
+  - Game 3 result (same-day)
+  - Boyd performance after return from IL
+
+---
+
 ## 2026-07-10
 
 ### STORY 1: Orioles 3, Cubs 2 — Game 3 Recap
