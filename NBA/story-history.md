@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-07-12
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-12 | T1 | Spurs Lock Down Defending Champion Knicks 70-49 — Carter Bryant 19 Pts in Vegas Day 4 | X, FB, Article | NEW |
+| 2026-07-12 | T1 | LeBron James Free Agency Update — Rich Paul Says Decision Not Coming Soon | X, FB, Article | FOLLOW UP |
+| 2026-07-12 | T2 | Summer League Day 4 Roundup — Broome 23/11 OT Win, Magic Top Heat, Pelicans Edge Hornets | X, FB, Article | NEW |
+| 2026-07-12 | T2 | Kawhi Leonard Trade Frozen — NBA Investigation Leaves Raptors in Limbo | X, FB, Article | FOLLOW UP |
+| 2026-07-12 | T2 | KAT Extension Stalled — Knicks Face Second Apron Pressure in Champions Negotiations | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Spurs Lock Down Knicks 70-49 in Vegas Summer League
+- **Tier:** 1
+- **Category:** NBA Summer League
+- **Key facts:** Spurs 70, Knicks 49; Carter Bryant game-high 19 pts; Knicks held to 26.5% shooting; Las Vegas Summer League Day 4 (July 12, 2026)
+- **Status:** NEW
+- **Follow-up ideas:** Bryant's role in Spurs regular-season rotation; Knicks SL struggles; Wembanyama return preview
+
+### STORY 2: LeBron James Free Agency — No Decision Coming Soon
+- **Tier:** 1
+- **Category:** NBA Free Agency / LeBron James
+- **Key facts:** Rich Paul: "I don't think this happens anytime soon" / "won't be in the next few days"; Paul spoke to 27 teams; Cavs frontrunners ~40% (Kalshi); Warriors/Sixers each ~15%; 6-team field (Cavs, Heat, Nuggets, Sixers, Wolves, Warriors); Paul: decision "pressure-free" / "strictly for his happiness"; Bob Myers (Sixers) appeared on Paul podcast
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** LeBron signs with Cavs/Warriors/Sixers; training camp announcement
+
+### STORY 3: Summer League Day 4 Roundup
+- **Tier:** 2
+- **Category:** NBA Summer League
+- **Key facts:** 76ers 100, Pacers 93 OT (Broome 23/11 — 2nd straight strong game); Magic 93, Heat 88 (Nelson stops Young 3pt try); Pelicans 95, Hornets 91 (Dickinson 21/15-2 run); Nuggets beat Wolves (KJ Simpson 19); Hawks beat Nets (clutch 4th)
+- **Status:** NEW
+- **Follow-up ideas:** Broome SL MVP push; Wilson/Boozer next games; Day 5 results
+
+### STORY 4: Kawhi Leonard Trade Frozen — NBA Investigation
+- **Tier:** 2
+- **Category:** NBA Offseason / Trades
+- **Key facts:** Kawhi-to-Toronto trade on hold; NBA investigating Clippers Aspiration Fund payments; Clippers deny wrongdoing; Silver: "close to the point where we need to wrap this up / you need finality"; no timeline set
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** NBA clears trade; penalties announced; trade falls apart
+
+### STORY 5: KAT Extension Stalled — Knicks Second Apron
+- **Tier:** 2
+- **Category:** NBA Offseason / Knicks
+- **Key facts:** KAT $57M 2026-27, $61M option 2027-28; eligible 4yr/$272M (decline option) or 3yr/$208M (exercise); second apron constraint under Dolan; Hart also extension-eligible; Brunson took ~$113M less/Finals MVP; Clarkson re-signed; Shamet 4yr/$24M, Alvarado 3yr/$14M also re-signed
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** KAT signs extension (discount or full); Hart deal; or Knicks lose one/both
+
 ## 2026-07-10
 
 | Date | Tier | Story | Platforms | Status |

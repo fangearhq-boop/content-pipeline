@@ -1,10 +1,21 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Last Run
-- **Date**: 2026-07-11
+- **Date**: 2026-07-12
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-12
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** hh-postplanner-2026-07-12.xlsx (7 posts) + hh-postplanner-tobi-2026-07-12.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-07-12/review-dashboard.html (22 items)
+- **Notes:** NBA SUMMER LEAGUE DAY 4 / FREE AGENCY — Spurs 70, Knicks 49 (Carter Bryant 19 / defending champs 26.5% shooting); LeBron undecided (Rich Paul: "not anytime soon" / Cavs ~40%); Broome 23/11 OT 76ers win; Magic 93-88 Heat; Kawhi trade frozen (Silver wants investigation wrapped); KAT extension stalled (Knicks second apron)
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-11
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
