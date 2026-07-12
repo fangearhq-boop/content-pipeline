@@ -2,6 +2,52 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-07-12
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-12 | T1 | Belgian GP Preview — Spa-Francorchamps Headlines F1 Before Summer Break (July 17-19) | X, FB, Article | NEW |
+| 2026-07-12 | T1 | Championship Picture at Spa — Antonelli 179, Russell 154, Hamilton 147 With 11 Rounds Left | X, FB, Article | FOLLOW UP |
+| 2026-07-12 | T2 | Verstappen's Belgian GP Reality Check — Red Bull Must Score Before Summer Break | X, FB, Article | FOLLOW UP |
+| 2026-07-12 | T2 | Hamilton at Spa — Ferrari Star Chases Record-Extending 7th Belgian GP Win | X, FB, Article | FOLLOW UP |
+| 2026-07-12 | T2 | Russell's Contract Clause on the Line — Belgian GP Could Shape His 2027 Mercedes Future | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Belgian GP Preview — Spa July 17-19
+- **Tier:** 1
+- **Category:** F1 Race Preview / Belgian Grand Prix
+- **Key facts:** Belgian GP Round 12 of 22; Spa-Francorchamps July 17-19 2026; race 15:00 CEST/9AM ET; 7.004km/44 laps; rain/thundery showers forecast all 3 days; highs 23°C; first of double-header (Hungary July 24-26 follows); Eau Rouge/Raidillon/Pouhon/Blanchimont
+- **Status:** NEW
+- **Follow-up ideas:** Belgian GP qualifying; Belgian GP race result; championship shift
+
+### STORY 2: Championship Picture Heading Into Belgium
+- **Tier:** 1
+- **Category:** F1 Championship
+- **Key facts:** Drivers standings: Antonelli 179, Russell 154 (−25), Hamilton 147 (−32), Leclerc 108; Constructors: Mercedes 333, Ferrari ~255, McLaren 179; Antonelli lost ground British GP (wheel shield failure Lap 41 + penalty, P15); Leclerc won British GP July 5; 341 pts remain (11 rounds after Belgium)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Belgian GP result; championship gap changes; Russell wins/Antonelli drops points
+
+### STORY 3: Verstappen's Belgian GP Situation
+- **Tier:** 2
+- **Category:** F1 / Verstappen / Red Bull
+- **Key facts:** Verstappen ~103 pts behind Antonelli; exit clause triggers if can't reach top-2 in standings; Belgium+Hungary last 2 races before summer break; P2 at Austrian GP showed Red Bull improving; Verstappen-Horner weekly calls; Horner attended Silverstone
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Verstappen wins Belgium; Red Bull updates; exit clause activation
+
+### STORY 4: Hamilton at Spa — Six Spa Wins
+- **Tier:** 2
+- **Category:** F1 / Hamilton / Ferrari
+- **Key facts:** Hamilton has 6 Belgian GP wins — most of any active driver; currently P3 at 147 pts; drives Ferrari (joined from Mercedes for 2026); rain forecast plays to wet-weather strengths; 7th Spa win would extend record; Leclerc won Silverstone/Ferrari resurgent
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Hamilton wins Belgian GP; 7th Spa victory; championship charge
+
+### STORY 5: Russell's 2027 Contract Clause
+- **Tier:** 2
+- **Category:** F1 / Russell / Mercedes
+- **Key facts:** Russell on "one-plus-one" deal; 2027 option triggers if performance targets met; currently P2 at 154 pts; Antonelli treated as long-term cornerstone; Leclerc extended beyond 2028; Hamilton 2027+option; Piastri through 2028; Verstappen through 2028 (exit clauses)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Russell wins Belgium; 2027 contract confirmed; Russell exits Mercedes
+
+
 ## 2026-07-10
 
 | Date | Tier | Story | Platforms | Status |

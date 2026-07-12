@@ -1,0 +1,251 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-12",
+  "compiled_at": "2026-07-12T11:43:39.342535+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Belgian GP Preview — Spa-Francorchamps Headlines F1 Before Summer Break (July 17-19)",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The Belgian GP is one week away.\n\nSpa-Francorchamps. July 17-19. Rain forecast all three days.\n\nAntonelli vs. Russell vs. Hamilton. A 7.004km circuit. 44 laps. No boring races at Spa.\n\n#F1 #BelgianGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BelgianGP"
+          ],
+          "char_count": 199
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Belgian GP schedule (July 17-19, Spa):\n\n🟢 Practice 1: Fri, July 17\n🟢 Practice 2: Fri, July 17\n🟡 Qualifying: Sat, July 18\n🏁 Race: Sun, July 19 — 9:00 AM ET / 15:00 CEST\n\nRain expected all weekend. #F1 #BelgianGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BelgianGP"
+          ],
+          "char_count": 210
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-belgian-gp-preview-spa-2026.html",
+        "headline": "Belgian GP Preview: Spa-Francorchamps Returns July 17-19 With Championship Fight at Its Peak",
+        "word_count": 807
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Belgian GP Preview — Spa July 17-19\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Spa-Francorchamps Formula 1\"\n- **Caption overlay:** \"BELGIAN GP | SPA | JULY 17-19\"\n- **Usage:** X Post 1, Facebook long-form\n\n**Image Concept 2 — Social (1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"F1 race Spa Belgium\"\n- **Caption overlay:** \"RAIN FORECAST | 44 LAPS | HIGH STAKES\"\n- **Usage:** Facebook image caption\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Championship Picture at Spa — Antonelli 179, Russell 154, Hamilton 147 With 11 Rounds Left",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "F1 standings heading into Belgium:\n\nAntonelli — 179 pts\nRussell — 154 pts (−25)\nHamilton — 147 pts (−32)\nLeclerc — 108 pts (−71)\n\n25 points is a real lead. 25 points at Spa in the rain is also very beatable. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 211
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Belgium + Hungary are the last two races before the F1 summer break.\n\nAntonelli needs to hold. Russell needs to win. Hamilton needs Antonelli to drop points.\n\nThe double-header before break will define who owns the 2026 title conversation. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-f1-championship-standings-spa.html",
+        "headline": "Antonelli 179, Russell 154, Hamilton 147 — The F1 Title Fight That's Headed to Spa",
+        "word_count": 763
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Championship Standings at Spa\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Kimi Antonelli Mercedes\"\n- **Caption overlay:** \"ANTONELLI 179 | RUSSELL 154 | HAMILTON 147\"\n- **Usage:** X Post 1, Facebook long-form\n\n**Image Concept 2 — Social (1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"George Russell Mercedes F1\"\n- **Caption overlay:** \"25 POINTS. ONE WEEK TO SPA.\"\n- **Usage:** Facebook image caption\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Verstappen's Belgian GP Reality Check — Red Bull Must Score Before Summer Break",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Max Verstappen is 103 points behind Antonelli.\n\nTwo races left before summer break (Belgium + Hungary). He needs both to go perfectly just to stay mathematically relevant.\n\nRed Bull was better at Austria. Is it enough? #F1 #BelgianGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BelgianGP"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-verstappen-belgian-gp-title-hopes.html",
+        "headline": "Verstappen's Last Real Window — Belgian and Hungarian GPs Must Deliver Before Summer Break",
+        "word_count": 663
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen at Spa\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Max Verstappen Red Bull\"\n- **Caption overlay:** \"103 POINTS BACK | BELGIUM MUST DELIVER\"\n- **Usage:** X Post, Facebook long-form\n\n**Image Concept 2 — Social (1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Max Verstappen Formula 1\"\n- **Caption overlay:** \"RED BULL'S LAST REAL WINDOW\"\n- **Usage:** Facebook image caption\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Hamilton at Spa — Ferrari Star Chases Record-Extending 7th Belgian GP Win",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Lewis Hamilton has won the Belgian Grand Prix 6 times.\n\nNo active driver has more wins at Spa.\n\nHe's currently P3 in the championship, 32 points back. He drives Ferrari now. And they're forecasting rain.\n\nHamilton's record at Spa: 6 wins. #F1 #BelgianGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BelgianGP"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-hamilton-spa-record-seventh-win.html",
+        "headline": "Hamilton at Spa: Ferrari Star Targets Record-Extending Seventh Belgian GP Win With Rain in Forecast",
+        "word_count": 662
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hamilton at Spa\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Lewis Hamilton Ferrari\"\n- **Caption overlay:** \"6 SPA WINS | RECORD IN SIGHT\"\n- **Usage:** X Post, Facebook long-form\n\n**Image Concept 2 — Social (1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Lewis Hamilton F1\"\n- **Caption overlay:** \"HAMILTON AT SPA | HISTORY ON THE LINE\"\n- **Usage:** Facebook image caption\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Russell's Contract Clause on the Line — Belgian GP Could Shape His 2027 Mercedes Future",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "George Russell is P2 in the F1 championship.\n\nBut his 2027 Mercedes contract isn't guaranteed — his deal has a one-year option that only triggers if he hits performance targets.\n\nHe's hitting them right now. The Belgian GP is another chance to lock it in. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-russell-contract-clause-mercedes-2027.html",
+        "headline": "Russell's 2027 Mercedes Future Hinges on Performance — Belgian GP Is Next Audition",
+        "word_count": 700
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Russell Contract\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"George Russell Mercedes Formula 1\"\n- **Caption overlay:** \"2027 MERCEDES | PERFORMANCE CLAUSE\"\n- **Usage:** X Post, Facebook long-form\n\n**Image Concept 2 — Social (1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"George Russell F1\"\n- **Caption overlay:** \"P2 IN CHAMPIONSHIP | PROVING IT AT SPA\"\n- **Usage:** Facebook image caption"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
