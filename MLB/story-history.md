@@ -5,6 +5,60 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-12
+
+### Story 1: Wheeler Snub — Phillies Ace Turns Down All-Star Replacement
+- **Date:** 2026-07-12
+- **Tier:** 1
+- **Classification:** NEW STORY (reaction to non-selection emerged July 11; Wheeler declining replacement spot is new and carries through All-Star Week)
+- **Angle:** Wheeler (2.28 ERA, 98 K in 87 IP, 14 K in last start) was not selected as NL All-Star due to Sunday-start ineligibility rule. Offered replacement spot — declined. "I didn't want to be a fifth choice." Agent B.B. Abbott called handling "tone deaf." Jimmy Rollins: "I 100 percent believe he was snubbed." All-Star Game is at Citizens Bank Park — his home park.
+- **Content Produced:** Article (article-01, Ryan Calloway), 2 X posts + 1 image post, FB long-form + image caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Reaction throughout All-Star Week
+  - Second-half performance with something to prove
+
+### Story 2: Home Run Derby TOMORROW — Harper, Schwarber, Philadelphia's Night
+- **Date:** 2026-07-12
+- **Tier:** 1
+- **Classification:** FOLLOW UP (field confirmed July 11; now one day out — final preview)
+- **Angle:** 2026 T-Mobile HRD Monday July 13 8PM ET on Netflix. Full 8-person field: Harper (PHI, 2018 champ), Schwarber (PHI, MLB HR leader), Caglianone (KC, 2025 runner-up), Caminero (TB), Contreras (BOS), Murakami (CWS, 2nd Japanese-born after Ohtani 2021), Rice (NYY), Walker (STL). No shot clock for first time in a decade; 20-15-15 format. Netflix debut for the Derby.
+- **Content Produced:** Article (article-02, Marcus Cole), 2 X posts + 1 image post, FB long-form + image caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Derby results July 13
+  - Netflix broadcast experience recap
+
+### Story 3: Draft Recap — Cholowsky No. 1 Overall
+- **Date:** 2026-07-12
+- **Tier:** 1
+- **Classification:** FOLLOW UP (July 11 pipeline covered preview; pick confirmed — now the recap)
+- **Angle:** White Sox selected UCLA SS Roch Cholowsky No. 1 overall at 12:43 PM CT July 11. .320/.452/.636, 21 HR, 60 RBI. Third college SS ever at No. 1 (Almon 1974, Swanson 2015, Cholowsky 2026). MLB Pipeline: "best all-around college shortstop since Tulowitzki" and "big league ready in a hurry." White Sox first No. 1 since Harold Baines (1977). White Sox 45-40 and in first place at the break.
+- **Content Produced:** Article (article-03, Jake Torres), 2 X posts + 1 image post, FB long-form + image caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Cholowsky signing
+  - Minor league debut
+
+### Story 4: Skubal Trade Watch + Ohtani Knee + Judge Rib — Second-Half Questions
+- **Date:** 2026-07-12
+- **Tier:** 2
+- **Classification:** FOLLOW UP (combined Skubal/Ohtani/Judge update at the break)
+- **Angle:** Skubal 22 days to Aug 3 deadline; Tigers 37-49; Yankees frontrunners (Rodón+Fried on IL). Ohtani: left knee fluid removed + injection; Dodgers expect him pitching in second half. Judge: fractured right rib reimaged at break; Cashman: "hoping for healing process"; best-case August return.
+- **Content Produced:** Article (article-04, Ryan Calloway), 1 X post + 1 image post, FB long-form + image caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Skubal trade decision (August 3)
+  - Ohtani/Judge return timelines
+
+### Story 5: AL Central at the Break + Wetherholt $112.5M Extension
+- **Date:** 2026-07-12
+- **Tier:** 3
+- **Classification:** NEW STORY (standings at natural break + Wetherholt extension fresh from July 10)
+- **Angle:** White Sox 45-40 (1st, 1 game ahead of Guardians 45-42). Twins 42-46. Tigers 37-49. White Sox from 41-121 in 2024 to first place — most remarkable rebuild in baseball. Cardinals signed 2B JJ Wetherholt to 8yr/$112.5M extension July 10.
+- **Content Produced:** Article (article-05, Marcus Cole), 1 X post + 1 image post, FB long-form + image caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - AL Central second-half race
+  - White Sox playoff odds
+
+---
+
 ## 2026-07-11
 
 ### Story 1: MLB Draft Day — White Sox Select With the No. 1 Pick
