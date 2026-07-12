@@ -1,43 +1,16 @@
 {
-  "generated_at": "2026-07-11T08:30:00.267277+00:00",
+  "generated_at": "2026-07-12T08:30:00.343737+00:00",
   "account": "cubs",
   "window_days": 21,
-  "tweet_count": 79,
-  "measured_tweet_count": 78,
-  "measured_median_impressions": 53.0,
-  "measured_mean_impressions": 58.99,
-  "median_impressions": 52,
-  "mean_impressions": 58.24,
+  "tweet_count": 82,
+  "measured_tweet_count": 81,
+  "measured_median_impressions": 44,
+  "measured_mean_impressions": 54.83,
+  "median_impressions": 43.0,
+  "mean_impressions": 54.16,
   "max_impressions": 185,
-  "significant_findings": [
-    {
-      "dimension": "posting_window=midday_12_18",
-      "kind": "time_window_vs_rest",
-      "winner": "midday_12_18",
-      "loser": "not_midday_12_18",
-      "median_impressions_winner": 61,
-      "median_impressions_loser": 25,
-      "n_winner": 51,
-      "n_loser": 27,
-      "p_value": 0.0394,
-      "effect_size_cliffs_delta": 0.28,
-      "effect_size_label": "small"
-    },
-    {
-      "dimension": "posting_window=morning_06_12",
-      "kind": "time_window_vs_rest",
-      "winner": "not_morning_06_12",
-      "loser": "morning_06_12",
-      "median_impressions_winner": 61,
-      "median_impressions_loser": 25,
-      "n_winner": 51,
-      "n_loser": 27,
-      "p_value": 0.0394,
-      "effect_size_cliffs_delta": 0.28,
-      "effect_size_label": "small"
-    }
-  ],
-  "significant_findings_note": null,
+  "significant_findings": [],
+  "significant_findings_note": "No contrasts cleared all three gates (n>=8 per group, p<0.05, |Cliff's delta|>=0.2). Either too little data or no format/time differences are large enough yet.",
   "methodology": {
     "test": "Mann-Whitney U (two-sided, tie-corrected, normal approximation with continuity correction)",
     "effect_size": "Cliff's delta",
@@ -52,35 +25,35 @@
     "by_hour_ct": {
       "17": {
         "n": 10,
-        "mean": 63.8,
-        "median": 56.5,
+        "mean": 58.2,
+        "median": 55.5,
         "top": {
           "impressions": 168,
           "text": "Game 1 of a 4-game road series at Citi Field \u2014 6:10 PM CT first pitch.\n\nCubs (40-37) vs. Mets (34-43). Four games against a team with a losing record. This is exactly the kind of series a wild card contender has to win.\n\nImanaga. Let's work"
         }
       },
       "15": {
-        "n": 12,
-        "mean": 66.08,
-        "median": 59.0,
+        "n": 13,
+        "mean": 61,
+        "median": 57,
         "top": {
           "impressions": 161,
           "text": "Matthew Boyd starts tonight \u2014 first appearance since May 3.\n\nHe needed minor knee surgery after a freak injury playing with his kids. Seven weeks later, he's back.\n\nCounsell called it \"a big deal.\" With five starters shelved, he's not wrong"
         }
       },
       "14": {
-        "n": 8,
-        "mean": 52.88,
-        "median": 55.0,
+        "n": 9,
+        "mean": 47,
+        "median": 48,
         "top": {
           "impressions": 111,
           "text": "Jaxon Wiggins \u2014 elbow inflammation after just 2 Iowa starts.\n\nThe Cubs' top pitching prospect was supposed to add rotation depth down the line. Five starters already on the IL. This depth chart is getting thinner by the week.\n\n#Cubs #MLB #C"
         }
       },
       "13": {
-        "n": 7,
-        "mean": 85.43,
-        "median": 92,
+        "n": 8,
+        "mean": 74.75,
+        "median": 77.0,
         "top": {
           "impressions": 147,
           "text": "Pete Crow-Armstrong in June: 10 HRs. .867 slugging. 20 games.\n\nHe's not on a hot streak. He's in the middle of one of the best offensive months in Cubs history. The 24-year-old center fielder is CARRYING this team right now.\n\n#Cubs #GoCubs "
@@ -88,8 +61,8 @@
       },
       "12": {
         "n": 13,
-        "mean": 67.77,
-        "median": 52,
+        "mean": 63.77,
+        "median": 51,
         "top": {
           "impressions": 185,
           "text": "Back-to-back rainouts \u2014 Sunday at Wrigley, Monday at Citi Field \u2014 scrambled the Cubs' week.\n\nThe series opens TONIGHT: Imanaga vs. Senga at 6:10 PM CT. Wednesday is a doubleheader. Boyd returns Thursday. Four games in four days against a 34"
@@ -97,8 +70,8 @@
       },
       "7": {
         "n": 14,
-        "mean": 55.79,
-        "median": 42.5,
+        "mean": 52.07,
+        "median": 31.5,
         "top": {
           "impressions": 133,
           "text": "Brewers 6, Cubs 2. Jacob Misiorowski was absolutely dominant.\n\n6 innings. 1 run. 8 strikeouts. Seiya Suzuki homered \u2014 Chicago's one real punch all night. Cubs fall to 44-38 and need Imanaga to answer tonight.\n\n#Cubs #GoCubs #FlyTheW"
@@ -142,6 +115,15 @@
       }
     },
     "by_weekday_ct": {
+      "Sat": {
+        "n": 12,
+        "mean": 50.08,
+        "median": 22.0,
+        "top": {
+          "impressions": 147,
+          "text": "Pete Crow-Armstrong in June: 10 HRs. .867 slugging. 20 games.\n\nHe's not on a hot streak. He's in the middle of one of the best offensive months in Cubs history. The 24-year-old center fielder is CARRYING this team right now.\n\n#Cubs #GoCubs "
+        }
+      },
       "Fri": {
         "n": 12,
         "mean": 35.17,
@@ -195,22 +177,13 @@
           "impressions": 144,
           "text": "Rubber match at Wrigley. 1:20 PM CT.\n\nShota Imanaga (4-3, 2.32 ERA) vs. Dylan Cease (4-3, 2.71 ERA).\n\nTwo elite starters. One game. The Cubs cannot lose a series to a 38-39 team at home. Not with this rotation on the mound today.\n\n#Cubs #Go"
         }
-      },
-      "Sat": {
-        "n": 9,
-        "mean": 84.56,
-        "median": 69,
-        "top": {
-          "impressions": 147,
-          "text": "Pete Crow-Armstrong in June: 10 HRs. .867 slugging. 20 games.\n\nHe's not on a hot streak. He's in the middle of one of the best offensive months in Cubs history. The 24-year-old center fielder is CARRYING this team right now.\n\n#Cubs #GoCubs "
-        }
       }
     },
     "by_content_type": {
       "brief": {
-        "n": 78,
-        "mean": 58.99,
-        "median": 53.0,
+        "n": 81,
+        "mean": 54.83,
+        "median": 44,
         "top": {
           "impressions": 185,
           "text": "Back-to-back rainouts \u2014 Sunday at Wrigley, Monday at Citi Field \u2014 scrambled the Cubs' week.\n\nThe series opens TONIGHT: Imanaga vs. Senga at 6:10 PM CT. Wednesday is a doubleheader. Boyd returns Thursday. Four games in four days against a 34"
@@ -218,10 +191,19 @@
       }
     },
     "by_opening": {
+      "allcaps_lead": {
+        "n": 8,
+        "mean": 42.38,
+        "median": 40.5,
+        "top": {
+          "impressions": 119,
+          "text": "PCA in his last 18 games: 34 hits. Nine home runs. Six stolen bases.\n\nOptaStats checked 5+ million 18-game spans in modern MLB history. No player matched that combined production.\n\nPete Crow-Armstrong is one of the best players in baseball."
+        }
+      },
       "statement": {
-        "n": 62,
-        "mean": 57.37,
-        "median": 53.0,
+        "n": 65,
+        "mean": 53.06,
+        "median": 40,
         "top": {
           "impressions": 185,
           "text": "Back-to-back rainouts \u2014 Sunday at Wrigley, Monday at Citi Field \u2014 scrambled the Cubs' week.\n\nThe series opens TONIGHT: Imanaga vs. Senga at 6:10 PM CT. Wednesday is a doubleheader. Boyd returns Thursday. Four games in four days against a 34"
@@ -235,42 +217,33 @@
           "impressions": 147,
           "text": "Pete Crow-Armstrong in June: 10 HRs. .867 slugging. 20 games.\n\nHe's not on a hot streak. He's in the middle of one of the best offensive months in Cubs history. The 24-year-old center fielder is CARRYING this team right now.\n\n#Cubs #GoCubs "
         }
-      },
-      "allcaps_lead": {
-        "n": 8,
-        "mean": 48.88,
-        "median": 49.5,
-        "top": {
-          "impressions": 119,
-          "text": "PCA in his last 18 games: 34 hits. Nine home runs. Six stolen bases.\n\nOptaStats checked 5+ million 18-game spans in modern MLB history. No player matched that combined production.\n\nPete Crow-Armstrong is one of the best players in baseball."
-        }
       }
     },
     "by_len_bucket": {
-      "260+": {
-        "n": 35,
-        "mean": 55.49,
-        "median": 51,
-        "top": {
-          "impressions": 185,
-          "text": "Back-to-back rainouts \u2014 Sunday at Wrigley, Monday at Citi Field \u2014 scrambled the Cubs' week.\n\nThe series opens TONIGHT: Imanaga vs. Senga at 6:10 PM CT. Wednesday is a doubleheader. Boyd returns Thursday. Four games in four days against a 34"
-        }
-      },
       "200-260": {
-        "n": 43,
-        "mean": 61.84,
-        "median": 59,
+        "n": 46,
+        "mean": 56.67,
+        "median": 51.0,
         "top": {
           "impressions": 147,
           "text": "Pete Crow-Armstrong in June: 10 HRs. .867 slugging. 20 games.\n\nHe's not on a hot streak. He's in the middle of one of the best offensive months in Cubs history. The 24-year-old center fielder is CARRYING this team right now.\n\n#Cubs #GoCubs "
+        }
+      },
+      "260+": {
+        "n": 35,
+        "mean": 52.4,
+        "median": 42,
+        "top": {
+          "impressions": 185,
+          "text": "Back-to-back rainouts \u2014 Sunday at Wrigley, Monday at Citi Field \u2014 scrambled the Cubs' week.\n\nThe series opens TONIGHT: Imanaga vs. Senga at 6:10 PM CT. Wednesday is a doubleheader. Boyd returns Thursday. Four games in four days against a 34"
         }
       }
     },
     "by_hashtag_count": {
       "3": {
-        "n": 78,
-        "mean": 58.99,
-        "median": 53.0,
+        "n": 81,
+        "mean": 54.83,
+        "median": 44,
         "top": {
           "impressions": 185,
           "text": "Back-to-back rainouts \u2014 Sunday at Wrigley, Monday at Citi Field \u2014 scrambled the Cubs' week.\n\nThe series opens TONIGHT: Imanaga vs. Senga at 6:10 PM CT. Wednesday is a doubleheader. Boyd returns Thursday. Four games in four days against a 34"
@@ -279,18 +252,18 @@
     },
     "by_has_score": {
       "False": {
-        "n": 38,
-        "mean": 58.76,
-        "median": 54.0,
+        "n": 39,
+        "mean": 54.49,
+        "median": 48,
         "top": {
           "impressions": 178,
           "text": "The Cubs' rotation runs on duct tape \u2014 and somehow it keeps working.\n\nDavid Peterson: 5.2 IP, 2 ER in his debut Saturday. Jaxon Wiggins: 2\u2154 rehab innings at High-A on Sunday, expected back at Iowa soon.\n\n35 days until Jed Hoyer's deadline.\n"
         }
       },
       "True": {
-        "n": 40,
-        "mean": 59.2,
-        "median": 53.0,
+        "n": 42,
+        "mean": 55.14,
+        "median": 42.0,
         "top": {
           "impressions": 185,
           "text": "Back-to-back rainouts \u2014 Sunday at Wrigley, Monday at Citi Field \u2014 scrambled the Cubs' week.\n\nThe series opens TONIGHT: Imanaga vs. Senga at 6:10 PM CT. Wednesday is a doubleheader. Boyd returns Thursday. Four games in four days against a 34"
@@ -298,30 +271,30 @@
       }
     },
     "by_has_stat": {
-      "True": {
-        "n": 25,
-        "mean": 71.84,
-        "median": 62,
-        "top": {
-          "impressions": 147,
-          "text": "Pete Crow-Armstrong in June: 10 HRs. .867 slugging. 20 games.\n\nHe's not on a hot streak. He's in the middle of one of the best offensive months in Cubs history. The 24-year-old center fielder is CARRYING this team right now.\n\n#Cubs #GoCubs "
-        }
-      },
       "False": {
-        "n": 53,
-        "mean": 52.92,
-        "median": 42,
+        "n": 54,
+        "mean": 50.91,
+        "median": 38.5,
         "top": {
           "impressions": 185,
           "text": "Back-to-back rainouts \u2014 Sunday at Wrigley, Monday at Citi Field \u2014 scrambled the Cubs' week.\n\nThe series opens TONIGHT: Imanaga vs. Senga at 6:10 PM CT. Wednesday is a doubleheader. Boyd returns Thursday. Four games in four days against a 34"
+        }
+      },
+      "True": {
+        "n": 27,
+        "mean": 62.67,
+        "median": 57,
+        "top": {
+          "impressions": 147,
+          "text": "Pete Crow-Armstrong in June: 10 HRs. .867 slugging. 20 games.\n\nHe's not on a hot streak. He's in the middle of one of the best offensive months in Cubs history. The 24-year-old center fielder is CARRYING this team right now.\n\n#Cubs #GoCubs "
         }
       }
     },
     "by_has_emoji_first_line": {
       "False": {
-        "n": 76,
-        "mean": 60.54,
-        "median": 55.0,
+        "n": 79,
+        "mean": 56.22,
+        "median": 48,
         "top": {
           "impressions": 185,
           "text": "Back-to-back rainouts \u2014 Sunday at Wrigley, Monday at Citi Field \u2014 scrambled the Cubs' week.\n\nThe series opens TONIGHT: Imanaga vs. Senga at 6:10 PM CT. Wednesday is a doubleheader. Boyd returns Thursday. Four games in four days against a 34"
@@ -339,18 +312,18 @@
     },
     "by_has_allcaps": {
       "True": {
-        "n": 60,
-        "mean": 59,
-        "median": 52.0,
+        "n": 64,
+        "mean": 53.69,
+        "median": 43.0,
         "top": {
           "impressions": 185,
           "text": "Back-to-back rainouts \u2014 Sunday at Wrigley, Monday at Citi Field \u2014 scrambled the Cubs' week.\n\nThe series opens TONIGHT: Imanaga vs. Senga at 6:10 PM CT. Wednesday is a doubleheader. Boyd returns Thursday. Four games in four days against a 34"
         }
       },
       "False": {
-        "n": 18,
-        "mean": 58.94,
-        "median": 55.0,
+        "n": 17,
+        "mean": 59.12,
+        "median": 54,
         "top": {
           "impressions": 168,
           "text": "Game 1 of a 4-game road series at Citi Field \u2014 6:10 PM CT first pitch.\n\nCubs (40-37) vs. Mets (34-43). Four games against a team with a losing record. This is exactly the kind of series a wild card contender has to win.\n\nImanaga. Let's work"
@@ -361,8 +334,8 @@
   "raw_buckets_engagement_above_median": {
     "by_content_type": {
       "brief": {
-        "n": 39,
-        "mean_rate": 0.0053,
+        "n": 41,
+        "mean_rate": 0.005,
         "median_rate": 0.0
       }
     },
@@ -378,32 +351,32 @@
         "median_rate": 0.0062
       },
       "allcaps_lead": {
-        "n": 2,
-        "mean_rate": 0.0084,
-        "median_rate": 0.0084
+        "n": 4,
+        "mean_rate": 0.0042,
+        "median_rate": 0.0
       }
     },
     "by_has_score": {
       "False": {
-        "n": 19,
-        "mean_rate": 0.0041,
+        "n": 20,
+        "mean_rate": 0.0039,
         "median_rate": 0.0
       },
       "True": {
-        "n": 20,
-        "mean_rate": 0.0063,
+        "n": 21,
+        "mean_rate": 0.006,
         "median_rate": 0.0
       }
     },
     "by_has_stat": {
       "False": {
-        "n": 24,
-        "mean_rate": 0.0057,
+        "n": 25,
+        "mean_rate": 0.0055,
         "median_rate": 0.0
       },
       "True": {
-        "n": 15,
-        "mean_rate": 0.0045,
+        "n": 16,
+        "mean_rate": 0.0043,
         "median_rate": 0.0
       }
     }
