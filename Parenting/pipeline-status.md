@@ -1,6 +1,46 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: July 11, 2026
+## Latest Run: July 12, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | BBRKIN/MouTec biometric gun safe CPSC recall (cpsc.gov — 9,100 units; model QHXP029B; Amazon only; biometric lock opens by unauthorized users; serious injury/risk of death; no injuries reported; stop biometric use + remove batteries + use key only; free repair kit securitysafe.store/recallreplacement or support@bbrkin.com; July 9, 2026); Babypark 3-in-1 carrier CPSC warning (cpsc.gov — gray/leaf design; Amazon April 2024–May 2026 ~$27; Beiyou Bless refused recall; leg openings too large → infant/toddler can slip through and fall; mandatory standard violation; dispose immediately; do not sell or give away; distinct from January 2025 Babypark sling carrier warning); Aspen Acres Fire update (inciweb.nwcg.gov — 97,504 acres; 34% contained up from 15%; 780+ structures destroyed; 7th most destructive CO history; 300+ additional firefighters; 3 water treatment plants affected; Hwys 165/78/67/96 closed; mandatory evacuations Custer/Pueblo/Huerfano; Level 2 Fremont); Summerfest TODAY (Bancroft Park 2408 W. Colorado Ave; 11 AM–6 PM; free admission + parking; art/jewelry/pottery/food/live music; final day 2-day event); Figure Skating Weekend USOPM TODAY (200 S. Sierra Madre St.; 10 AM–5 PM last entry 4 PM; Danny O'Shea + Jason Brown noon–2 PM; scavenger hunt; World Figure Skating Museum artifacts; Learn to Skate USA; included with museum admission) |
+| Story History Check | COMPLETE | S1 (BBRKIN recall) NEW; S2 (Babypark 3-in-1 warning) NEW — confirmed distinct from January 2025 Babypark sling carrier warning (different product, different retailer); S3 (Aspen Acres Fire) FOLLOW-UP from July 9 (96,031 acres, 15%, 275 structures); S4 (Summerfest) NEW; S5 (USOPM Figure Skating) NEW |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2); ### STORY N: format |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tags; all facts from web search; NOT-to-claim notes for BBRKIN 6-year-old incident (KATV headline for multi-brand recall, not BBRKIN-specific; CPSC page for QHXP029B states "No incidents or injuries reported") |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Jamie Rivera (S1, S3, S5), Sarah Morales (S2, S4); rotating from July 11's Sarah Morales (S1, S3, S5) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 8 posts (S1:2, S2:2, S3:2, S4:1, S5:1); all verified ≤280 chars; 4 hashtags each; COS voice |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; NO hashtags; COS voice rules; contractions throughout |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts; S1: gun safe home interior; S2: fabric baby carrier; S3: Colorado wildfire smoke; S4: outdoor summer festival; S5: Olympic museum interior; all "clean bottom third" |
+| Image Manifest | COMPLETE | 07-image-manifest.md — YAML format; 5 stories × 3 image types (x_image + facebook_image + article_hero); all not_started; photo_source: gemini; model: gemini-2.5-flash-image; brand_kit_id: kAHCKfCZgk0 |
+| Articles | COMPLETE | 5 articles (500–800 words; Quick Reference tables in S1, S2; What's Next sections; 0 exclamation marks; no figure tags; no photo credits; semantic HTML5); bylines: Jamie Rivera (A1, A3, A5), Sarah Morales (A2, A4) |
+| Fact-Check | COMPLETE | verify-facts.py passed; 45 claims; HIGH: 97, MEDIUM: 25, LOW: 92; all 5 stories present in all content files; image not_started warnings cosmetic (expected for gemini source) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 5 articles; 28 dashboard items |
+| Dashboard | COMPLETE | review-dashboard.html — 28 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-07-12.xlsx (8 posts, 13:09–20:51 ET) + TOBI cosp-postplanner-tobi-2026-07-12.xlsx (8 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-07-12)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 5 FB long-form + 5 FB captions = 18 total posts (PostPlanner xlsx: 8 posts standard 13:09–20:51 ET, 8 TOBI)
+- **Articles:** 5 (bylines: Jamie Rivera x3 [A1, A3, A5], Sarah Morales x2 [A2, A4])
+- **PostPlanner exports:** cosp-postplanner-2026-07-12.xlsx (8 posts, 13:09–20:51 ET), cosp-postplanner-tobi-2026-07-12.xlsx (8 TOBI posts)
+- **Coverage:** BBRKIN/MouTec biometric gun safe CPSC recall (9,100 units; model QHXP029B; Amazon only; biometric lock opens by unauthorized users; serious injury/risk of death; no injuries reported; stop biometric use + remove batteries + use key only; free repair kit securitysafe.store/recallreplacement or support@bbrkin.com; cpsc.gov July 9, 2026); Babypark 3-in-1 soft fabric carrier CPSC warning (gray/leaf design; Amazon April 2024–May 2026 ~$27; Beiyou Bless refused recall; leg openings too large → infant/toddler can slip through and fall; mandatory standard violation; dispose immediately; do not sell or give away; no remedy available; cpsc.gov); Aspen Acres Fire update (97,504 acres; 34% contained up from 15% July 9; 780+ structures destroyed = 7th most destructive CO history; 300+ additional firefighters; 3 water treatment plants affected; Hwys 165/78/67/96 closed; mandatory evacuations Custer/Pueblo/Huerfano; Level 2 Fremont; inciweb.nwcg.gov); Summerfest TODAY at Bancroft Park (final day 2-day event; 11 AM–6 PM; 2408 W. Colorado Ave Old Colorado City; free admission + parking; art/jewelry/pottery/photography/woodworking/food/live music); Figure Skating Weekend at USOPM TODAY (final day; 10 AM–5 PM last entry 4 PM; 200 S. Sierra Madre St.; Danny O'Shea Milano Cortina 2026 gold medalist + Jason Brown 2x Olympian bronze medalist; noon–2 PM meet and greet; scavenger hunt; World Figure Skating Museum artifacts; Learn to Skate USA info; giveaways; included with museum admission)
+- **Notes:**
+  - Ran as Niche 2 in sequence after Tennis niche (session resumed from context compaction; Tennis niche completed in prior session segment)
+  - BBRKIN/MouTec: Confirmed "No incidents or injuries reported" per CPSC page for QHXP029B — did NOT attribute KATV 6-year-old incident (that headline referred to multi-brand ~120K unit recall, not BBRKIN specifically)
+  - Babypark 3-in-1: Confirmed distinct from January 2025 Babypark sling carrier warning (different product type, sold on Shein ~750 units; today's warning is 3-in-1 soft carrier on Amazon)
+  - verify-facts.py: all 5 stories present in all content files; image not_started warnings cosmetic (expected for gemini source — same as all prior Parenting runs)
+  - Compile: 8 X posts, 5 articles; 28 dashboard items; posting window warnings cosmetic
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] (rotating from July 11's Sarah Morales [S1, S3, S5])
+
+---
+
+## Prior Run: July 11, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|

@@ -2,6 +2,45 @@
 
 ---
 
+## July 12, 2026
+
+### Story 1: BBRKIN Biometric Gun Safe Recall
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recall of 9,100 BBRKIN/MouTec biometric gun safes (model QHXP029B). Sold exclusively on Amazon.com. Biometric fingerprint lock can be opened by unauthorized users — serious injury/risk of death hazard. Remedy: stop using biometric feature, remove batteries, use physical key only; free repair kit at securitysafe.store/recallreplacement or support@bbrkin.com. No injuries reported. Serial numbers SQC200034980–SQC202319171 on lower right of front panel; brand name on upper right.
+- **Content Produced:** Article (Jamie Rivera), 2 X Text Posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** 9,100 units; Amazon.com only; model QHXP029B; brands BBRKIN/MouTec; July 9, 2026 recall date; biometric lock opens by unauthorized users; no injuries reported; stop biometric use + remove batteries + use key only; free repair kit securitysafe.store/recallreplacement or support@bbrkin.com; serial numbers SQC200034980–SQC202319171
+
+### Story 2: Babypark 3-in-1 Carriers CPSC Warning
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC safety warning (not recall) for Babypark 3-in-1 soft fabric carriers (gray, multicolored leaf design). Manufacturer Beiyou Bless (China) refused to cooperate with recall process. Leg openings too large — infant/toddler can slip through and fall. Violates mandatory federal standard for soft infant and toddler carriers. No refund or replacement available. Action: dispose immediately, do not sell or give away. Distinct from January 2025 Babypark sling carrier warning (different product, Shein).
+- **Content Produced:** Article (Sarah Morales), 2 X Text Posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Babypark 3-in-1 soft carrier (gray, multicolored leaf design); Amazon.com; April 2024–May 2026; ~$27; leg openings too large → infant/toddler can slip through and fall; mandatory standard violation; Beiyou Bless (China) refused recall cooperation; no remedy available; dispose immediately; do not sell or give away; cpsc.gov
+
+### Story 3: Aspen Acres Fire Update — 34% Contained, 780+ Structures
+- **Content Pillar:** Local News
+- **Angle:** FOLLOW-UP (last covered July 9 at 96,031 acres, 15% contained, 275 structures) — Significant containment progress (15% → 34%) paired with sobering new structure count (780+ destroyed — now 7th most destructive wildfire in Colorado's recorded history). 300+ additional firefighters joined suppression. 3 water treatment plants affected. Highway closures: 165, 78, 67, 96. Mandatory evacuations: Custer, Pueblo, Huerfano; Level 2: Fremont. inciweb.nwcg.gov for current status.
+- **Content Produced:** Article (Jamie Rivera), 2 X Text Posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** 97,504 acres; 34% contained (up from 15%); 780+ structures destroyed; 7th most destructive wildfire in Colorado history; 300+ additional firefighters; 3 water treatment plants affected; Hwys 165/78/67/96 closed; mandatory evacuations Custer/Pueblo/Huerfano; Level 2 Fremont; inciweb.nwcg.gov
+
+### Story 4: Summerfest TODAY at Bancroft Park
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — TODAY (July 12) is the final day of Summerfest at Bancroft Park in Old Colorado City, 11 AM–6 PM. Free admission, free parking. Art, handcrafted jewelry, pottery, photography, woodworking, home decor, gourmet treats, live music. Two-day annual event.
+- **Content Produced:** Article (Sarah Morales), 1 X Text Post, Facebook Long-Form + Caption, Image Concepts (x1)
+- **Tier:** 2
+- **Key Facts:** TODAY July 12; 11 AM–6 PM; Bancroft Park, 2408 W. Colorado Ave, Old Colorado City; free admission; free parking; art/jewelry/pottery/photography/woodworking/food/live music; final day of 2-day event
+
+### Story 5: Figure Skating Weekend at USOPM — TODAY
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — TODAY (July 12) is Day 2 (final day) of Figure Skating Weekend at the US Olympic and Paralympic Museum. Programming 10 AM–5 PM (last ticket entry 4 PM). Jason Brown (two-time Olympian, bronze medalist) and Danny O'Shea (Milano Cortina 2026 gold medalist) available noon–2 PM for meet and greets. Figure skating scavenger hunt; artifacts on loan from World Figure Skating Museum and Hall of Fame; U.S. Figure Skating / Learn to Skate USA reps; giveaways. All included with museum admission.
+- **Content Produced:** Article (Jamie Rivera), 1 X Text Post, Facebook Long-Form + Caption, Image Concepts (x1)
+- **Tier:** 2
+- **Key Facts:** TODAY July 12; 10 AM–5 PM (last ticket entry 4 PM); 200 S. Sierra Madre St., Colorado Springs; Danny O'Shea (Milano Cortina 2026 gold) + Jason Brown (2x Olympian, bronze) noon–2 PM; scavenger hunt; World Figure Skating Museum artifacts on loan; Learn to Skate USA info; giveaways; included with museum admission
+
+---
+
 ## July 11, 2026
 
 ### Story 1: CPSC Recall — WonderStone Infant Walkers (~70 Units)
