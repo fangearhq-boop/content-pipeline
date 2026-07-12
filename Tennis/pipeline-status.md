@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-07-11 |
-| Writing | Complete (all steps) | 2026-07-11 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 26 claims, 60 HIGH; image not_started warnings cosmetic/expected for imagn) | 2026-07-11 |
-| Compile | Complete (07-content-data.json — 5 stories, 8 X posts, 5 FB posts, 5 articles, 8 images) | 2026-07-11 |
-| Dashboard | Complete (review-dashboard.html, 28 items) | 2026-07-11 |
-| PostPlanner Export | Complete (standard 8 posts 12:50–20:46 ET; TOBI 8 posts) | 2026-07-11 |
-| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-07-11 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-07-11 |
+| Research | Complete | 2026-07-12 |
+| Writing | Complete (all steps) | 2026-07-12 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 22 claims, 53 HIGH; image not_started warnings cosmetic/expected for imagn) | 2026-07-12 |
+| Compile | Complete (07-content-data.json — 5 stories, 8 X posts, 5 FB posts, 5 articles, 8 images) | 2026-07-12 |
+| Dashboard | Complete (review-dashboard.html, 28 items) | 2026-07-12 |
+| PostPlanner Export | Complete (standard 8 posts 12:54–20:50 ET; TOBI 8 posts) | 2026-07-12 |
+| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-07-12 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-07-12 |
 
 ## Queue
 
@@ -24,6 +24,23 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-07-12 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 5 FB long-form + 5 FB captions = 18 total (PostPlanner xlsx: 8 posts standard 12:54–20:50 ET, 8 TOBI)
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Ryan Calloway [S2, S5], Marcus Cole [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-07-12.xlsx (8 posts), tfr-postplanner-tobi-2026-07-12.xlsx (8 TOBI posts)
+- **Coverage:** Noskova (No. 9, CZE, 21) def. Muchova (No. 10, CZE) 6-2, 5-7, 6-3 — first all-Czech Grand Slam final in history; Muchova saved 5 match points from 5-2 down in set 2; youngest Wimbledon women's champion since Kvitova 2011; Czech women 3 of last 4 Wimbledon titles. Noskova dedicates title to late mother (died 2024): "I definitely would not be standing here without her"; Muchova on-court: "I'll start with Linda, my ex-friend" (both from Přerov, pop. 43,000). Men's final preview: Sinner (No. 1, defending champion) vs Zverev (No. 2, Roland Garros 2026 champion) — 15th career meeting, first on grass; Sinner leads H2H 10-4; Zverev chasing Channel Slam (CORRECTION: last done Alcaraz 2024, not Federer 2009 as July 11 pipeline stated). Channel Slam history explainer (Open Era completions: Laver, Borg ×3, Nadal, Federer, Djokovic, Alcaraz 2024). Finals Day: Cruz Hewitt (son of Lleyton) in boys' singles final (result TBD); Ostapenko/Arevalo def. Hunter/Polmans 4-6, 7-5, 6-2 in mixed doubles (July 9); Arevalo first player from El Salvador to win Wimbledon title.
+- **Notes:**
+  - CORRECTION APPLIED: July 11 pipeline stated "Channel Slam last done Federer 2009" — corrected to "last done Carlos Alcaraz 2024" per ATP Tour source. Applied throughout all today's content.
+  - verify-facts.py: passed; 22 claims, 53 HIGH; image not_started warnings cosmetic (expected for imagn source)
+  - compile: 5 stories, 8 X posts, 5 FB posts, 5 articles, 8 images; 28 dashboard items; posting window warnings cosmetic
+  - PostPlanner exports: standard (8 posts) and TOBI (8 posts) generated successfully; 12:54–20:50 ET
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Elena Voss [S1, S4], Ryan Calloway [S2, S5], Marcus Cole [S3] (rotating from July 11: Ryan Calloway [S1, S4], Marcus Cole [S2, S5], Elena Voss [S3])
+  - Cruz Hewitt boys' final result TBD at pipeline run time — noted in article and social posts
 
 ### 2026-07-11 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
