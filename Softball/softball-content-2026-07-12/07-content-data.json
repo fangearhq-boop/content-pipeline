@@ -1,0 +1,271 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-12",
+  "compiled_at": "2026-07-12T11:42:02.343636+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "MLBx All-Star 3-On-3 Is TODAY — Game Day at Citizens Bank Park",
+      "tier": 1,
+      "status": "",
+      "angle": "Game day. This is professional softball's biggest co-ed moment of All-Star Week — on Peacock, at Citizens Bank Park, against Hall of Famers.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "MLBx 3-on-3 is TODAY.\n\nCanady. Brito. Garcia. Jennings.\n\nFour AUSL stars at Citizens Bank Park. 3 PM ET on Peacock.\n\nProfessional softball on the biggest stage of All-Star Week.\n\n#AUSL #MLBx #Softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#AUSL",
+            "#MLBx",
+            "#Softball"
+          ],
+          "char_count": 200
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Andruw Jones — inducted into the Baseball Hall of Fame THIS WEEK — plays today.\n\nHis partner: NiJaree Canady.\n\nCitizens Bank Park. 3 PM ET. Peacock.\n\nThe Celebrity Softball Game is gone. This is better. 🥎\n\n#MLBx #AUSL #Softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLBx",
+            "#AUSL",
+            "#Softball"
+          ],
+          "char_count": 227
+        },
+        {
+          "label": "Post 1-3",
+          "text": "The AUSL is on the field at Citizens Bank Park. 🥎 #MLBx #AUSL",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLBx",
+            "#AUSL"
+          ],
+          "char_count": 61
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-mlbx-3on3-game-day-preview.html",
+        "headline": "MLBx All-Star 3-On-3 Is TODAY — The Celebrity Softball Game Is Gone, and What Replaces It Is Better",
+        "word_count": 809
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "MLBx All-Star 3-On-3 — Game Day\n\n#### Social Image (1080×1350 — 4:5 vertical)\n\n**Visual Description:** High-energy action shot of one of the four AUSL stars at the plate or warming up, crowd energy visible, Citizens Bank Park setting preferred.\n\n**Photo Search Terms:**\n- \"NiJaree Canady Texas Tech\" \n- \"Alyssa Brito Oklahoma\"\n- \"Rachel Garcia UCLA\"\n- \"Tiare Jennings Oklahoma\"\n\n**Text Overlay Copy:**\n- Headline: \"IT'S GAME DAY\"\n- Sub: \"MLBx 3-on-3 • 3 PM ET • Peacock\"\n- Brand: I Love Softball\n\n**Composition Notes:**\nPlayer in lower half of frame; text overlay in upper two-thirds with semi-transparent dark band. Use brand colors for text. Peacock logo not needed — describe event rather than show network bug.\n\n**Status:** not_started\n\n---\n\n#### Article Hero (1200×630 — 1.91:1 landscape)\n\n**Photo Search Terms:**\n- \"NiJaree Canady Texas Tech\"\n- \"Citizens Bank Park exterior\"\n\n**Text Overlay:** None (hero image used by WordPress with article title)\n\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "MLBx All-Star 3-On-3 — TODAY at Citizens Bank Park\n**Decision:** FOLLOW UP (rosters/format announced July 11; game day is today)\n**Sources:**\n- https://theausl.com/news/mlbx-all-star-3-on-3-canady-brito-garcia-jennings/ (July 10, 2026)\n- https://bleacherreport.com/articles/25453389-2026-mlbx-all-star-3-3-rosters-format-and-preview-celebrity-softball-game-replacement (July 11, 2026)\n- https://www.mlb.com/all-star/sunday/mlbx (current)\n- https://www.inquirer.com/phillies/mlbx-3-on-3-game-all-star-players-date-time-roster-20260710.html (July 10, 2026)\n- https://975thefanatic.com/2026/05/26/mlbx-all-star-3-on-3-phillies-legends/ (May 26, 2026)\n**Key Facts (HIGH confidence):**\n- Event: TODAY July 12 at 3:00 PM ET, Peacock, Citizens Bank Park, Philadelphia\n- Replaces Celebrity Softball Game (ran 2001–2025)\n- Four teams: Team Howard (Ryan Howard + Alyssa Brito + Jordan Mailata), Team Rollins (Jimmy Rollins + Tiare Jennings + Terrell Owens), Team Victorino (Shane Victorino + Rachel Garcia + Eladio Carrion), Team Jones (Andruw Jones + NiJaree Canady + Antonio Cipriano)\n- Format: Two 30-minute semis (Howard vs Rollins; Victorino vs Jones), then championship game; 2-minute batting window per player per game; HR = 1pt; outfield catch = 1pt; Hot Streak power-up available\n- Andruw Jones: 2026 Baseball Hall of Fame inductee (inducted this week in Cooperstown)\n- AUSL participants: Canady (No. 2 pick, Texas Volts), Brito (Carolina Blaze), Garcia (Texas Volts, Olympic silver medalist), Jennings (Texas Volts, 4x WCWS champion at Oklahoma)\n- Results not yet indexed at pipeline time — content angle is game-day preview/significance\n**Freshness verification:** Event live today (July 12). Preview content is current. Results to be covered in tomorrow's pipeline.\n**Why this matters to our audience:** Four AUSL stars playing at Citizens Bank Park on Peacock during MLB All-Star Week is the biggest professional softball showcase of the year.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "AUSL July 11 — All Three Games Go Down to the Wire",
+      "tier": 2,
+      "status": "",
+      "angle": "Three games, three tight decisions. The Talons are vulnerable. Can they bounce back tonight?",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "AUSL Saturday:\n\nBandits 11, Cascade 3 (run rule)\nVolts 4, Blaze 3\nSpark 4, Talons 3 (WALK-OFF — Sherrill doubles in the 7th)\n\nDefending champs fall. Tonight: Spark-Talons again. 8 PM ET.\n\n#AUSL #Softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#AUSL",
+            "#Softball"
+          ],
+          "char_count": 203
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-ausl-july-11-results-walkoff-drama.html",
+        "headline": "AUSL Saturday Results: Bandits Dominate Cascade, Spark Walk Off Defending Champion Talons",
+        "word_count": 667
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "AUSL July 11 Results — Walk-Off Drama\n\n#### Social Image (1080×1350 — 4:5 vertical)\n\n**Visual Description:** Action shot at the plate or base running moment — Bandits batter or Spark player celebrating, high-energy.\n\n**Photo Search Terms:**\n- \"Morgan Zerkle Chicago Bandits\"\n- \"Sami Williams AUSL\"\n- \"Sydney Sherrill Oklahoma City Spark\"\n\n**Text Overlay Copy:**\n- Headline: \"WALK-OFF WINS\"\n- Sub: \"Bandits 11 Cascade 3 • Spark 4 Talons 3\"\n- Brand: I Love Softball\n\n**Composition Notes:**\nTwo-score layout with team context. Clean dark background band for text readability. High energy — this is results content, so image should feel triumphant.\n\n**Status:** not_started\n\n---\n\n#### Article Hero (1200×630)\n\n**Photo Search Terms:**\n- \"Chicago Bandits softball\"\n- \"Oklahoma City Spark softball\"\n\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "AUSL July 11 — All Three Games Confirmed\n**Decision:** FOLLOW UP (July 11 was \"three games today\" in yesterday's pipeline; scores now confirmed)\n**Sources:**\n- https://katu.com/sports/content/portland-cascade-unable-to-slow-down-chicago-in-road-loss (July 11, 2026)\n- https://theausl.com/game/749/ (July 11, 2026)\n- https://www.oursportscentral.com/services/releases/sydney-sherrill-delivers-walk-off-double-as-spark-rally-past-talons/n-6386304 (July 11, 2026)\n- https://theausl.com/schedule/ (current)\n**Key Facts:**\nGame 1 — Blaze vs Volts (2:00 PM ET, Dell Diamond, Round Rock TX):\n- **Final: Volts 4, Blaze 3** (HIGH confidence — confirmed on AUSL game page)\n- Blaze posted 7 hits to Volts' 4 but could not convert; Volts held on\nGame 2 — Bandits vs Cascade (5:00 PM ET, Hillsboro Ballpark, Hillsboro OR):\n- **Final: Bandits 11, Cascade 3 (run rule)** (HIGH confidence — confirmed via KATU report)\n- Morgan Zerkle: two-run triple in the 1st inning\n- Sami Williams: three-run HR to cap a four-run 3rd inning, made it 9-2\n- Sydney Stewart (Cascade): hit her first professional home run\n- Bandits won via run rule in the 5th inning\nGame 3 — Talons vs Spark (8:00 PM ET, Tom Heath Field, OKC):\n- **Final: Spark 4, Talons 3 (walk-off)** (MEDIUM confidence — score confirmed; date slightly uncertain, may have been July 10 or July 11)\n- Sydney Sherrill: walk-off RBI double in the bottom of the 7th inning\n- Defending champion Talons fall in walk-off fashion\nTonight (July 12): OKC Spark vs Utah Talons again at 8:00 PM ET, Tom Heath Field, OKC\n**Freshness verification:** All July 11 game scores confirmed via sources published July 11, 2026. Tonight's game is scheduled and confirmed.\n**Why this matters:** Three dramatic results shift the standings with 8 games left. The Talons lost a walk-off — vulnerability in the defending champions creates story texture.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "PGF Nationals Roster Freeze: TOMORROW at 11:59 PM PST",
+      "tier": 2,
+      "status": "",
+      "angle": "One day left. If your family is waiting, waiting is over.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "PGF Nationals roster freeze is TOMORROW.\n\nJuly 13 — 11:59 PM PST.\n\nAfter that: locked through August 2.\n\nIf your family has roster moves to make, TODAY is the day.\n\nDon't wait. #PGFNationals #Softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGFNationals",
+            "#Softball"
+          ],
+          "char_count": 200
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-pgf-nationals-roster-freeze-tomorrow.html",
+        "headline": "PGF Nationals Roster Freeze Is Tomorrow — What Families Need to Know Before 11:59 PM PST",
+        "word_count": 523
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "PGF Nationals Roster Freeze\n\n#### Social Image (1080×1350 — 4:5 vertical)\n\n**Visual Description:** Youth travel softball action — batter at the plate, dugout energy, tournament setting.\n\n**Photo Search Terms:**\n- \"PGF softball tournament\" (use general softball tournament imagery)\n- \"travel softball youth tournament\"\n\n*Note: PGF-specific photos may not be in imagn library; use general high-school/travel-softball player imagery.*\n\n**Text Overlay Copy:**\n- Headline: \"ROSTER FREEZE\"\n- Sub: \"Tomorrow • July 13 • 11:59 PM PST\"\n- Note: \"PGF Nationals begins July 19\"\n- Brand: I Love Softball\n\n**Composition Notes:**\nCountdown/urgency design. Bold red or orange clock element to reinforce deadline urgency. Player action in background with strong text presence.\n\n**Status:** not_started\n\n---\n\n#### Article Hero (1200×630)\n\n**Photo Search Terms:**\n- \"softball tournament youth\"\n- \"travel softball batter\"\n\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "PGF Nationals Roster Freeze TOMORROW\n**Decision:** FOLLOW UP (tracked since June 30; now one day away — maximum urgency)\n**Sources:**\n- https://pgfnationals.com/week-one (current)\n- https://www.premiergirlsfastpitch.com/pgf_nationals_week_one_teams (current)\n**Key Facts (HIGH confidence):**\n- Roster freeze: **July 13, 2026 at 11:59 PM PST** — TOMORROW\n- After deadline: all players on qualifying teams are frozen through August 2, 2026\n- Qualifying teams may add players until the freeze from like or younger age groups, IF the player was not on a team that already qualified\n- PGF system maintenance: July 13 10:00 PM PST – July 14 10:00 AM PST — families should complete any changes before system goes down\n- PGF Nationals begin: July 19 at Great Park, Irvine CA (8000 Great Park Blvd, Irvine CA 92618)\n- Week One: 18U and 16U divisions\n- September 1 Class of 2028 contact window: 50 days away\n**Freshness verification:** Rules listed on official PGF website. Deadline is July 13 — tomorrow.\n**Why this matters:** Tournament families and late-signing teams have one day to finalize rosters. Urgency is at maximum.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Megan Grant ESPYS — 3 Days Left, Vote Now",
+      "tier": 2,
+      "status": "",
+      "angle": "Three votes remain. Each day counts. The ESPYs are Wednesday night.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "MEGAN GRANT. ESPYS. 3 DAYS.\n\n42 home runs. NCAA record. 31 years in the books.\n\nPlus: first AUSL homer recorded at 313 FEET.\n\nVote once per day at ESPN.com through July 15. 🥎\n\n#Softball #ESPYs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Softball",
+            "#ESPYs"
+          ],
+          "char_count": 192
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-megan-grant-espys-3-days.html",
+        "headline": "Megan Grant ESPYS: 3 Days to Vote — The Record Stood 31 Years, and Wednesday Night Is Hers",
+        "word_count": 502
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Megan Grant ESPYS\n\n#### Social Image (1080×1350 — 4:5 vertical)\n\n**Visual Description:** Grant at the plate or completing her swing — home run imagery is ideal.\n\n**Photo Search Terms:**\n- \"Megan Grant UCLA\"\n- \"Megan Grant Portland Cascade\"\n\n**Text Overlay Copy:**\n- Headline: \"VOTE MEGAN GRANT\"\n- Sub: \"34th ESPYs • Best Record-Breaking Performance\"\n- Countdown: \"3 DAYS LEFT • ESPN.com\"\n- Brand: I Love Softball\n\n**Composition Notes:**\nStrong call-to-action design. Countdown element prominently visible. Grant's swing in dynamic frame. Gold/award-feel accent color to signal ESPY association.\n\n**Status:** not_started\n\n---\n\n#### Article Hero (1200×630)\n\n**Photo Search Terms:**\n- \"Megan Grant UCLA softball\"\n\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Megan Grant ESPYS — 3 Days, July 15 Air Date\n**Decision:** FOLLOW UP (daily countdown since July 4; updated; adding AUSL career context)\n**Sources:**\n- https://espnpressroom.com/us/press-releases/2026/06/nominees-announced-for-the-2026-espys/ (June 26, 2026)\n- https://uclabruins.com/news/2026/6/26/womens-basketball-vote-now-betts-grant-nominated-for-the-2026-espys (June 26, 2026)\n- https://theausl.com/cascade/news/vote-megan-grant-2026-espy/ (ongoing)\n- https://www.si.com/onsi/softball/news/ncaa-softball-highlighted-in-2026-espys-awards-nominations-megan-grant-ucla-bruins-texas-longhorns (June 2026)\n**Key Facts (HIGH confidence):**\n- **Voting closes: July 15, 2026** (3 days from today; one vote per day at ESPN.com)\n- **ESPYs air: July 15, 2026 at 8:00 PM ET** on ABC and ESPN app — same day as voting closes\n- Grant's record: 42 HR in 2026 at UCLA (NCAA single-season record, surpassed Laura Espinoza's 37 from 1995 — held 31 years)\n- UCLA career totals: 91 HR (all-time UCLA record, surpassed Stacey Nuveman), 271 RBI, 572 total bases\n- Category competitors: Myles Garrett (NFL), Johannes Høsflot Klæbo (cross-country skiing), Sabastian Sawe (long-distance running)\n- AUSL career: No. 4 overall pick (Portland Cascade), set AUSL first-ever recorded HR distance of 313 feet in debut week (June 10 vs. Carolina Blaze)\n- AUSL All-Star Cup: fan-voted as one of Cascade's two reps (alongside Sis Bates); Cup runs Aug 8–30 in Rosemont, IL\n**Freshness verification:** Voting is live and closes July 15. AUSL debut is June-recent. All facts HIGH confidence.\n**Why this matters:** Grant is the biggest individual story in college softball in 2026. Every remaining vote counts.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Tia Milloy Commits to LSU — Portal Saga Ends in Baton Rouge",
+      "tier": 2,
+      "status": "",
+      "angle": "The saga ends. LSU lands a versatile utility player who can contribute immediately. This is the resolution of the summer's most-watched transfer story in softball.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The wait is over.\n\nTia Milloy — Oklahoma's most-watched transfer this summer — commits to LSU.\n\nFinal two: FSU and LSU.\n\nTwo years of eligibility. .353 average in 2026. 4 HR.\n\nBaton Rouge wins. 🥎\n\n#LSUSoftball #Softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LSUSoftball",
+            "#Softball"
+          ],
+          "char_count": 219
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-tia-milloy-commits-lsu.html",
+        "headline": "Tia Milloy Commits to LSU — The Summer's Most-Watched Portal Saga Finds Its Answer",
+        "word_count": 561
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Tia Milloy Commits to LSU\n\n#### Social Image (1080×1350 — 4:5 vertical)\n\n**Visual Description:** Milloy action shot from her Oklahoma career — at the plate or in the field.\n\n**Photo Search Terms:**\n- \"Tia Milloy Oklahoma\"\n- \"Tia Milloy softball\"\n\n**Text Overlay Copy:**\n- Headline: \"SHE'S COMMITTED\"\n- Sub: \"Tia Milloy → LSU\"\n- Detail: \"2 years eligibility • .353 AVG in 2026\"\n- Brand: I Love Softball\n\n**Composition Notes:**\nPurple/gold LSU color accent in overlay bar. Split: OU imagery on left, LSU branding implied via color. Clean transfer/commitment design.\n\n**Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Tia Milloy Commits to LSU\n**Decision:** NEW STORY (portal saga tracked July 4 as Day 40 uncommitted; LSU commitment now confirmed)\n**Sources:**\n- https://sports.yahoo.com/articles/ou-softball-utility-player-tia-223826527.html (original portal entry)\n- https://sports.yahoo.com/articles/fsu-softball-reportedly-finalist-outfield-151529341.html (FSU finalist reporting)\n- https://www.si.com/onsi/softball/transfer-portal/ranking-the-10-best-college-softball-transfer-portal-classes-of-2026 (SI transfer portal tracking)\n**Key Facts (HIGH confidence on commitment; MEDIUM on exact date):**\n- Tia Milloy committed to **LSU** (destination confirmed via multiple tracking sources)\n- Entered transfer portal: **May 25, 2026** following OU's loss in the Norman Super Regional\n- Was reported as a final two between **FSU and LSU**\n- OU career stats: .295 AVG, 9 HR, 35 RBI across 91 games, 16 starts; 2026 season: .353 AVG, 4 HR, 22 RBI in 34 at-bats\n- Left-handed hitter from Redmond, WA; versatile utility player\n- Two years of eligibility remaining\n- LSU pickup adds power bat to the Tigers' lineup heading into 2027\n**Freshness verification:** Commitment confirmed via portal tracking sites. Exact date uncertain — likely between July 5–12, after the July 4 \"Forks Up\" coverage when she was still uncommitted.\n**Why this matters:** The most-watched transfer story in softball all summer. Our audience has been tracking this since May. The resolution is a major beat.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

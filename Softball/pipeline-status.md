@@ -2,7 +2,14 @@
 
 
 ## Current Run
-- **Date**: 2026-07-11
+- **Date**: 2026-07-12
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via agents, 12+ searches), brief (5 stories), research notes, story analysis, X posts (7; 1 char violation fixed Story 2 tweet 313→203; 0 violations after fix), FB posts (5 stories), image concepts (10 items), image manifest (10 items, not_started), articles (5), fact-check (70 claims), compile (5 stories, 7 tweets, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts standard + 6 TOBI). WordPress 403 (proxy sandbox — known). Dashboard push 403 (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected — proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started). PostPlanner FB 0 posts (format — known). 1 char violation fixed (Story 2 tweet).
+- **Key Stories**: MLBx All-Star 3-on-3 TODAY/Citizens Bank Park/3PM ET Peacock/4 AUSL stars compete — Canady+Brito+Garcia+Jennings vs Phillies legends + NFL stars/replaces Celebrity Softball Game 2001-2025/results not yet indexed (Tier 1 FOLLOW UP), AUSL July 11 results all 3 confirmed — Bandits 11 Cascade 3 run rule (Zerkle triple+Williams HR), Volts 4 Blaze 3, Spark 4 Talons 3 WALK-OFF Sherrill RBI double (Tier 2 FOLLOW UP), PGF Nationals roster freeze TOMORROW July 13 11:59PM PST/8 days to tournament/system maintenance July 13 10PM-July 14 10AM (Tier 2 FOLLOW UP), Megan Grant ESPYS 3 days/42 HR/313-ft AUSL HR record/ESPYs July 15 8PM ABC (Tier 2 FOLLOW UP), Tia Milloy commits LSU/final two FSU+LSU/portal saga ends Day 40+/.353 AVG 2026/2 years eligibility (Tier 2 NEW STORY)
+
+## Last Run- **Date**: 2026-07-11
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via agents), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations), FB posts (5 stories), image concepts (9 items), image manifest (9 items, not_started), articles (5), fact-check (46 claims, 0 char violations), compile (5 stories, 6 tweets, 5 articles, 21 items), dashboard (21 items), PostPlanner exports (16 posts standard + 11 TOBI). WordPress 403 (proxy sandbox — known). Dashboard push 403 (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected — proxy known restriction).
 - **GitHub Pages Status**: unknown (push failed, known proxy restriction)

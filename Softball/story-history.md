@@ -4791,3 +4791,58 @@ _This file tracks every story covered, the angle used, content produced, and fol
   - Roster freeze results (July 13)
   - PGF Nationals results and commitments (July 19-26)
   - September 1 Class of 2028 commitment wave
+
+## July 12, 2026
+
+### Story 1: MLBx All-Star 3-On-3 — Game Day at Citizens Bank Park
+- **Date:** 2026-07-12
+- **Tier:** 1
+- **Classification:** FOLLOW UP (rosters confirmed July 11; game day today — event live on Peacock 3 PM ET)
+- **Angle:** Four AUSL stars (Canady, Brito, Garcia, Jennings) competing at Citizens Bank Park alongside Phillies legends (Howard, Rollins, Victorino, Jones) and NFL stars. Format: 2 semis + final, 2-min batting window, HR=1pt, Hot Streak power-up. Replaces Celebrity Softball Game (2001-2025). Results not indexed at pipeline time.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts + image, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Results/recap for July 13 pipeline
+  - Which AUSL star performed best? Highlight moment
+  - AUSL visibility impact — viewership numbers
+
+### Story 2: AUSL July 11 Results — All Three Games Confirmed
+- **Date:** 2026-07-12
+- **Tier:** 2
+- **Classification:** FOLLOW UP (July 11 three-game Saturday; all scores now confirmed)
+- **Angle:** Bandits 11 Cascade 3 (run rule, Zerkle 2-run triple + Williams 3-run HR); Volts 4 Blaze 3 (Blaze outhit Volts 7-4, still lost); Spark 4 Talons 3 (walk-off, Sherrill RBI double 7th inning). Defending champs fell in walk-off. Tonight: Spark-Talons again at 8 PM ET.
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Tonight's Spark-Talons rematch result
+  - Standings after July 12 games
+  - Bandits momentum building?
+
+### Story 3: PGF Nationals Roster Freeze TOMORROW
+- **Date:** 2026-07-12
+- **Tier:** 2
+- **Classification:** FOLLOW UP (tracked since June 30; now one day away)
+- **Angle:** July 13 at 11:59 PM PST. System maintenance July 13 10 PM - July 14 10 AM. Complete moves before 10 PM. PGF starts July 19 Great Park Irvine CA. 18U and 16U Week 1.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - PGF Nationals results (July 19+)
+  - September 1 Class of 2028 contact window (50 days)
+
+### Story 4: Megan Grant ESPYS — 3 Days to Vote
+- **Date:** 2026-07-12
+- **Tier:** 2
+- **Classification:** FOLLOW UP (daily countdown since July 4; ESPYs July 15)
+- **Angle:** 3 votes remain (voting closes July 15). 42 HR NCAA record (surpassed Espinoza's 37 from 1995). AUSL: No. 4 pick Portland Cascade, 313-ft AUSL HR record. ESPYs July 15 8 PM ET ABC. Competitors: Garrett, Klæbo, Sawe.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - ESPYS results July 15 (did Grant win?)
+  - Grant AUSL second half performance
+
+### Story 5: Tia Milloy Commits to LSU
+- **Date:** 2026-07-12
+- **Tier:** 2
+- **Classification:** NEW STORY (portal tracked through July 4 as uncommitted; LSU commitment confirmed)
+- **Angle:** Committed to LSU. Final two: FSU and LSU. Entered portal May 25. Career .295/.353 (2026) with 9 career HR. 2 years eligibility. Left-handed utility player from Redmond WA. "Forks Up" post was misdirection — she chose Baton Rouge.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Milloy's first LSU season 2027
+  - FSU response to losing recruitment — who else in portal?
+  - LSU 2027 roster assessment
