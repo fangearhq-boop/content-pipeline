@@ -5,6 +5,51 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-13
+
+### STORY 1: Cubs 4, Reds 1 — Boyd Dominates Series Finale
+- **Angle:** FOLLOW UP — first coverage of July 12 Game 3 result (Matthew Boyd 7 IP, 1 ER; Cubs take series 2-1 in Cincinnati; 54-42, No. 1 NL Wild Card heading into All-Star break; second half starts Friday July 17 vs. Twins at Wrigley)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game recap)
+- **Follow-Up Opportunities:**
+  - PCA All-Star Game performance July 14
+  - Twins series July 17-19 preview and results
+
+### STORY 2: Pete Crow-Armstrong — All-Star Stage Tomorrow Night
+- **Angle:** FOLLOW UP (PCA All-Star; new hook = game is TOMORROW NIGHT; MLB-leading WAR; Citizens Bank Park Philadelphia; FOX 8 PM ET; Chicago's lone rep; bold declarative "best player in baseball")
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, bold/passionate feature)
+- **Follow-Up Opportunities:**
+  - PCA All-Star Game result July 14
+  - PCA second-half MVP case
+
+### STORY 3: Cubs 54-42 — Wild Card Leaders Enter the Break
+- **Angle:** FOLLOW UP (Wild card standings post-win; updated record 54-42; No. 1 NL WC one game up on Phillies [53-43], two on Marlins [52-44]; grinding through rotation crisis to walk in FIRST; Cardinals watching from outside)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, analysis/bold take)
+- **Follow-Up Opportunities:**
+  - Wild card standings update after ASB weekend games
+  - Phillies/Marlins results through break
+
+### STORY 4: Rotation Cavalry — Taillon One Outing Away
+- **Angle:** FOLLOW UP (Taillon/Shaw return arc; new angle = both expected back as second half starts; Taillon 4⅔ IP, 0 ER second Iowa rehab; Shaw wrist healing on schedule; projected return Twins series July 17-19)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, informative roster/injury update)
+- **Follow-Up Opportunities:**
+  - Taillon official activation announcement
+  - First start back (Twins or Tigers series)
+  - Shaw return timeline when eligible
+
+### STORY 5: Deadline 21 Days — Joe Ryan Plan Gets Complicated
+- **Angle:** FOLLOW UP (Trade deadline arc; new angle = Twins-Blue Jays trade put Minnesota in Wild Card hunt; Ryan less likely to move; Cubs need Plan B; Hoyer urgency framing; 21 days to August 3)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, bold/analysis)
+- **Follow-Up Opportunities:**
+  - Deadline activity week of July 21
+  - Plan B targets (Sonny Gray, Casey Mize, Freddy Peralta, Reid Detmers, Michael Wacha, Robbie Ray)
+
+---
+
 ## 2026-07-12
 
 ### STORY 1: Cubs 5, Reds 3 — Bregman's Go-Ahead Blast (Game 2 Recap)

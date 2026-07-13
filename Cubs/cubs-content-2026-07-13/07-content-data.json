@@ -1,0 +1,191 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-13",
+  "compiled_at": "2026-07-13T09:18:48.728905+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "12:00 PM",
+      "description": "Game recap — Cubs 4-1, Boyd 7 IP 1 ER, series 2-1, 54-42",
+      "type": "Informative"
+    },
+    {
+      "time": "1:15 PM",
+      "description": "PCA All-Star hype — tomorrow night, FOX 8 PM ET",
+      "type": "Bold/Passionate"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Wild card — Cubs 54-42 No. 1 at the break",
+      "type": "Analysis/Bold"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Taillon/Shaw — rotation cavalry returning",
+      "type": "Informative"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Deadline — Ryan complications, 21 days, Plan B",
+      "type": "Bold/Analysis"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Cubs 4, Reds 1 — Boyd Dominates Series Finale",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Matthew Boyd masterclass in the series finale: 7 IP, 1 ER. Cubs take 2 of 3 in Cincinnati, head into the All-Star break at 54-42 as the No. 1 NL Wild Card.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "7 IP, 1 ER. Boyd was DEALING and the Cubs won the finale 4-1.\n\nChicago heads into the All-Star break 54-42 — No. 1 NL Wild Card, 2-of-3 winners in Cincinnati. Second half starts Friday vs. the Twins.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Informative (game recap)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Pete Crow-Armstrong — All-Star Stage Tomorrow Night",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "PCA takes the stage Tuesday night at Citizens Bank Park, Philadelphia. FOX, 8 PM ET. The best player in baseball, leads baseball in WAR, represents Chicago's lone rep.",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "MLB-leading WAR entering the break. PCA takes the stage tomorrow night.\n\nCitizens Bank Park, Philadelphia. FOX. 8 PM ET. Chicago's lone rep — and by the numbers, the best player in baseball. 🌟\n\n#Cubs #GoCubs #CubNation",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Bold/Passionate",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubNation"
+          ],
+          "char_count": 218
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Cubs 54-42 — Wild Card Leaders Enter the Break",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Cubs 54-42, No. 1 NL Wild Card, one game ahead of Phillies, two ahead of Marlins. Grinding through a rotation crisis to walk into the break in first.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "54-42 at the break. No. 1 NL Wild Card — one game up on the Phillies, two on the Marlins.\n\nThree months of grinding through a rotation crisis, and the Cubs walk in FIRST. The Cardinals are watching from the outside.\n\nThis race is Chicago's to lose.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Analysis / Bold Take",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Rotation Cavalry — Taillon One Outing Away",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Taillon's second rehab: 4⅔ IP, 0 ER. Shaw's wrist on schedule. Both expected back as Cubs open the second half vs. Twins July 17-19.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "4⅔ IP, 0 ER in his second rehab start. Jameson Taillon is all but back.\n\nMatt Shaw's wrist is healing on schedule. Two of the Cubs' most important pieces are set to return right as the second half starts vs. Minnesota.\n\nRotation cavalry incoming. 💪\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Informative (roster/injury update)",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Deadline 21 Days — Joe Ryan Plan Gets Complicated",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "21 days to August 3. Cubs need a starter. But the Twins are now in the Wild Card race — and Ryan is staying. Hoyer needs a Plan B.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "21 days until August 3. The Cubs still need a starter — and the Joe Ryan trade just got complicated.\n\nMinnesota is in the Wild Card hunt. The Twins aren't selling. Jed Hoyer needs a Plan B, and he needs it fast.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Bold/Analysis",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
