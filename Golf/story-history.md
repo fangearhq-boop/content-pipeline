@@ -2271,3 +2271,51 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 - **Key facts:** 154th Open Championship Royal Birkdale Southport England; July 16-19 2026; 156 players; last at Birkdale 2017 (Spieth won); course modifications: former par-3 14th removed, par-5 15th relocated/renumbered 14th, new par-3 15th added (Mackenzie & Ebert); LIV qualifiers: Joaquin Niemann + Lucas Herbert (direct exemptions); Tom McKibbin (via LINK Hong Kong Open victory); Scheffler still World No. 1; McIlroy has pre-tournament momentum
 - **Status:** NEW
 - **Follow-up ideas:** Open Championship R1 results; McIlroy wins; Scheffler bounce-back; LIV qualifier results
+
+## 2026-07-13
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-13 | T1 | Tom Kim Wins Genesis Scottish Open at -17 — Ends Near Three-Year Drought | X, FB, Article | NEW |
+| 2026-07-13 | T1 | Haeran Ryu Wins Evian Championship in Playoff — Two Majors in Three Weeks | X, FB, Article | NEW |
+| 2026-07-13 | T1 | Open Championship Preview — Practice Rounds Begin at Royal Birkdale, Starts Thursday | X, FB, Article | FOLLOW UP |
+| 2026-07-13 | T2 | MacIntyre T3 at Scottish Open — "No Reason Why I Can't Compete" at Birkdale | X, FB, Article | FOLLOW UP |
+| 2026-07-13 | T2 | LIV Golf WARN Act Filed — $400M Funding Gap, Season's Final Events at Risk | X, FB, Article | FOLLOW UP |
+
+### CORRECTION NOTE
+July 12 pipeline contained incorrect winners for Scottish Open (MacIntyre reported as winner — INCORRECT) and Evian Championship (Grace Kim reported as winner — INCORRECT). Correct results confirmed via multiple sources on July 13 and used in today's pipeline.
+
+### STORY 1: Tom Kim Wins Scottish Open
+- **Tier:** 1
+- **Category:** Genesis Scottish Open / PGA Tour
+- **Key facts:** Tom Kim wins at -17 (final-round 64); 2-shot margin over Min Woo Lee (-15); MacIntyre/Fitzpatrick/Nakajima/Keefer T3 at -13; McIlroy T7 with 64; clinching shot from 203 yards to 6 feet on 16th; last PGA Tour win: 2023 Shriners (near 3-year drought); Tiger Woods first to text; Kim age 24
+- **Status:** NEW
+- **Follow-up ideas:** Kim at The Open; Open Championship R1 coverage
+
+### STORY 2: Haeran Ryu Wins Evian Championship
+- **Tier:** 1
+- **Category:** Amundi Evian Championship / LPGA Major
+- **Key facts:** Ryu wins playoff over Brooke Henderson; both at -19 after regulation; Henderson R4 64 (eagle-18 to force playoff); Ryu birdie first playoff hole (18) to win; Ryu R3 60 (-11) = lowest round in major championship history (men's or women's); Ryu also won KPMG Women's PGA June 29 = 2 majors in 3 weeks; Henderson T2 ("played awesome"/third couple weeks ago too); Grace Kim won 2025 Evian (NOT 2026)
+- **Status:** NEW
+- **Follow-up ideas:** Ryu at AIG Women's British Open; women's major calendar final event
+
+### STORY 3: Open Championship Preview
+- **Tier:** 1
+- **Category:** The Open Championship / Major Preview
+- **Key facts:** 154th Open; Royal Birkdale; July 16-19; 156 players; LCQ at Birkdale today July 13; Scheffler/McIlroy co-favorites ~+700; Scheffler defending (Royal Portrush 2025); back-to-back = first since Tiger 2005-06; McIlroy T7 64 at Scottish; Fleetwood ~+1800 (Southport native, skipped Scottish to prep at Birkdale); 3 LIV players in field; first groups ~1:30AM ET Thursday
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Open R1 coverage; R1 leaderboard; Scheffler/McIlroy showdown
+
+### STORY 4: MacIntyre T3 at Scottish Open
+- **Tier:** 2
+- **Category:** Open Championship Build-up / Robert MacIntyre
+- **Key facts:** T3 at -13; four bogeys in seven-hole stretch mid-round ("brutal"); "No reason why I can't compete" at Birkdale; result "timely" heading into The Open; heads to Birkdale with form confidence
+- **Status:** FOLLOW UP (corrected from July 12 incorrect "winner" narrative)
+- **Follow-up ideas:** MacIntyre Open R1; potential MacIntyre contention at Birkdale
+
+### STORY 5: LIV Golf WARN Act / Crisis
+- **Tier:** 2
+- **Category:** LIV Golf / Business
+- **Key facts:** WARN Act notices filed ~July 8 US+UK; 300+ staff; league statement "no changes to current workforce"; PIF announced April 2026 ends funding after 2026; $5B+ invested; $400M funding gap; $250-350M investor search (Ducera Partners); CEO meetings; next event July 23 JCB GCC England; final 2 events at risk; reduced 10-event 2027 plan if funded
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Investor deal closes or fails; JCB event proceeds July 23; WARN Act 60-day deadline September

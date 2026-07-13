@@ -1,0 +1,308 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-13",
+  "compiled_at": "2026-07-13T11:36:33.745794+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Tom Kim Wins Genesis Scottish Open — Ends Near Three-Year Drought",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Tom Kim ended a near three-year PGA Tour victory drought Sunday.\n\n-17, final-round 64, two-shot win over Min Woo Lee at the Scottish Open.\n\nThe first text he received after the win? Tiger Woods.\n\nEmotion on the 18th green was real. 🏆",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 233
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Scottish Open final leaderboard:\n\nTom Kim: -17 ✅\nMin Woo Lee: -15\nMacIntyre / Fitzpatrick / Nakajima / Keefer: -13 (T3)\nRory McIlroy: T7 (-11)\n\nKim's clinching shot: 203 yards to 6 feet on the 16th.\n\nWhat a week at the Renaissance Club.",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-tom-kim-wins-scottish-open-2026.html",
+        "headline": "Tom Kim Ends Three-Year Drought With Scottish Open Win — Tiger Woods Sent the First Text",
+        "word_count": 492
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X + Facebook post"
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article featured image"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Haeran Ryu Wins Evian Championship — Two Majors in Three Weeks",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Haeran Ryu wins the Evian Championship. Two majors in three weeks.\n\nBrooke Henderson shot a final-round 64 — including an eagle on 18 — to force a playoff.\n\nRyu birdied the first playoff hole to win.\n\nShe's the most dominant player in women's golf right now.",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 258
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Haeran Ryu shot a 60 in the third round of the Evian Championship.\n\nThat's the lowest round ever recorded in a major championship — men's or women's.\n\nShe won the KPMG three weeks ago. She just won the Evian.\n\nWhat are we watching? 👏",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-haeran-ryu-wins-evian-championship-2026.html",
+        "headline": "Haeran Ryu Wins the Evian Championship in a Playoff — Her Second Major in Three Weeks",
+        "word_count": 553
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X + Facebook post"
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article featured image"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Open Championship Preview — Practice Rounds Begin at Royal Birkdale Today",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "The Open Championship starts Thursday.\n\nRoyal Birkdale. 156 players. Scheffler and McIlroy co-favorites.\n\nThe Last-Chance Qualifier is happening today at Birkdale for the final spots in the field.\n\nThe final major of 2026 is here.\n\n#TheOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheOpen"
+          ],
+          "char_count": 240
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Three days until The Open.\n\nScheffler arrives as defending champion after missing the cut at the Scottish Open.\n\nMcIlroy arrives with a final-round 64 at the Scottish in his legs.\n\nThe Claret Jug winner is announced Sunday. It begins Thursday.\n\n#TheOpen #RoyalBirkdale",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheOpen",
+            "#RoyalBirkdale"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-open-championship-preview-royal-birkdale-2026.html",
+        "headline": "The Open Championship Arrives at Royal Birkdale: Three Days Until the Claret Jug Hunt Begins",
+        "word_count": 563
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X + Facebook post"
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article featured image"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "MacIntyre's T3 — Timely Result Ahead of Birkdale",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Bob MacIntyre finished T3 at the Scottish Open at -13.\n\nHe suffered four bogeys in a seven-hole stretch but rallied. His verdict on Birkdale?\n\n\"No reason why I can't compete.\"\n\nThe Scotsman heads to the Open with confidence.\n\n#TheOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheOpen"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-macintyre-t3-scottish-open-birkdale-confidence.html",
+        "headline": "MacIntyre Finishes T3 at Scottish Open — \"No Reason Why I Can't Compete\" at Birkdale",
+        "word_count": 415
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Facebook post"
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article featured image"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "LIV Golf Files WARN Act Notices — $400M Funding Gap Puts Season at Risk",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "LIV Golf filed WARN Act layoff notices for US and UK staff around July 8.\n\nThe league says nothing has changed yet — but PIF is ending funding after 2026, and LIV still needs ~$400M to finish the season.\n\nThe final two events could be at risk.",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 243
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-liv-golf-warn-act-funding-crisis-2026.html",
+        "headline": "LIV Golf's Crisis Is Now Official: WARN Act Notices Filed, $400M Gap Could End the Season Early",
+        "word_count": 587
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Facebook post"
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article featured image"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
