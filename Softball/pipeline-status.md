@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-07-13
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via agent), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (10 items), image manifest (10 items, not_started), articles (5), fact-check (63 claims), compile (5 stories, 7 tweets, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts standard + 6 TOBI). WordPress 403 (proxy sandbox — known). Dashboard push 403 (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected — proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started). PostPlanner FB 0 posts (format — known). 0 char violations.
+- **Key Stories**: MLBx 3-on-3 RESULTS/Team Victorino 48-39 over Team Howard/Rachel Garcia MVP 18 pts walk-off HR 6 RBI/Montana Fouts 3 scoreless innings/Citizens Bank Park (Tier 1 FOLLOW UP), AUSL Standings Race — Bandits 7-game win streak AUSL record/13-7 second place/Utah 14-6 stumbled/7 games left/No. 1 seed = Championship Series bye July 25-27 ESPN (Tier 2 FOLLOW UP), PGF Nationals Roster Freeze TODAY/effective deadline 10 PM PST (system maintenance)/freeze midnight 11:59 PM PST/Great Park Irvine July 19 (Tier 2 FOLLOW UP), Megan Grant ESPYs 2 days left to vote/Best Record-Breaking Performance/42 HR 31-year record/ESPYs July 15 8PM ABC (Tier 2 FOLLOW UP), NiJaree Canady Comeback Watch/0-3 6.87 ERA/Nyberg squared-up reset/Volts vs Blaze tonight 7PM ET Dell Diamond/7 games left (Tier 2 FOLLOW UP)
+
+## Last Run
 - **Date**: 2026-07-12
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via agents, 12+ searches), brief (5 stories), research notes, story analysis, X posts (7; 1 char violation fixed Story 2 tweet 313→203; 0 violations after fix), FB posts (5 stories), image concepts (10 items), image manifest (10 items, not_started), articles (5), fact-check (70 claims), compile (5 stories, 7 tweets, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts standard + 6 TOBI). WordPress 403 (proxy sandbox — known). Dashboard push 403 (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected — proxy known restriction).

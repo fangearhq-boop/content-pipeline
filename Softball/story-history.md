@@ -4846,3 +4846,60 @@ _This file tracks every story covered, the angle used, content produced, and fol
   - Milloy's first LSU season 2027
   - FSU response to losing recruitment — who else in portal?
   - LSU 2027 roster assessment
+
+---
+
+## 2026-07-13
+
+### Story 1: MLBx 3-on-3 RESULTS — Team Victorino Champions, Rachel Garcia MVP
+- **Date:** 2026-07-13
+- **Tier:** 1
+- **Classification:** FOLLOW UP (game-day preview ran July 12; results now confirmed)
+- **Angle:** Team Victorino won 48-39 over Team Howard in final. Rachel Garcia MVP: 18 pts, walk-off HR, 6 RBI, 3-for-4. Montana Fouts pitched 3 scoreless innings. Citizens Bank Park debut for AUSL stars. Garcia's performance now frames Canady comeback narrative.
+- **Content Produced:** Article (article-01, Jordan Reeves), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Garcia's AUSL regular season final push (Volts title run)
+  - MLBx format expansion to other sports post-success
+  - Canady vs Garcia framing through AUSL playoffs
+
+### Story 2: AUSL Standings Race — Bandits Historic 7-Game Win Streak
+- **Date:** 2026-07-13
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Bandits win streak first noted July 11; now confirmed AUSL record)
+- **Angle:** Chicago 13-7, 7-game streak (AUSL record). Utah 14-6 stumbled (lost to OKC walk-off July 11). 7 games left, 1.5 games back. No. 1 seed = direct Championship Series bye (July 25-27 Davis Diamond ESPN). Morgan Zerkle 2-run triple, Sami Williams 3-run HR in most recent win.
+- **Content Produced:** Article (article-02, Sarah Mitchell), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Standings update daily through July 20 final
+  - Does Utah hold on or does Chicago take No. 1?
+  - AUSL Championship Series matchup preview
+
+### Story 3: PGF Nationals Roster Freeze — TODAY (Effective 10 PM PST)
+- **Date:** 2026-07-13
+- **Tier:** 2
+- **Classification:** FOLLOW UP (deadline tracking; freeze was "tomorrow" on July 12)
+- **Angle:** Freeze at 11:59 PM PST but system maintenance 10 PM–10 AM PST makes effective deadline 10 PM PST tonight. PGF Nationals begins July 19 at Great Park, Irvine CA. 18U/16U Week 1. Last-minute adds: release required from non-qualifying same/younger age group.
+- **Content Produced:** Article (article-03, Emily Rawlings), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - PGF Nationals opens July 19 — bracket/results coverage
+  - Notable 18U/16U teams to watch
+
+### Story 4: Megan Grant ESPYs — 2 Days Left to Vote
+- **Date:** 2026-07-13
+- **Tier:** 2
+- **Classification:** FOLLOW UP (daily countdown; 3 days covered July 12, 2 days today)
+- **Angle:** 2 votes remain (voting closes July 15). Best Record-Breaking Performance nomination. 42 HR (31-year record, surpassed Espinoza's 37). Competitors: Garrett, Klæbo, Sawe. ESPYs air July 15 8 PM ET ABC + ESPN app. Portland Cascade AUSL No. 4 pick, 313-ft AUSL HR record first week.
+- **Content Produced:** Article (article-04, Jordan Reeves), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - ESPYs results July 15 (did Grant win Best Record-Breaking Performance?)
+  - Grant AUSL second half stats and AUSL championship push
+
+### Story 5: NiJaree Canady Comeback Watch — Volts vs. Blaze Tonight
+- **Date:** 2026-07-13
+- **Tier:** 2
+- **Classification:** FOLLOW UP (debut struggles tracked since season open; Nyberg reset covered ongoing)
+- **Angle:** 0-3, 6.87 ERA AUSL debut. Tori Nyberg (Stanford pitching coach) called in. Mechanical issue: shifted from "squared up" to "open" stance at Texas Tech post-injury. Project: restore OG NiJa. Tonight: Volts vs Blaze, Dell Diamond Round Rock TX, 7 PM ET. 7 games left. AUSL Championship July 25-27.
+- **Content Produced:** Article (article-05, Sarah Mitchell), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Canady results tonight (ERA improvement? Win?)
+  - Volts playoff positioning with 7 games to go
+  - Canady vs Garcia dynamic through AUSL Championship
