@@ -4443,3 +4443,62 @@ Each day's stories are appended at the top (newest first).
   - All-Star Game results July 14
   - Derby results July 13
   - Second half MLB storylines post-All-Star break
+
+---
+
+## 2026-07-13
+
+### Story 1: Home Run Derby Tonight — Harper vs. Schwarber, Citizens Bank Park, Netflix
+- **Date:** 2026-07-13
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Derby field confirmed July 12; tonight is Derby night)
+- **Angle:** 2026 Home Run Derby at Citizens Bank Park, 8 PM ET, Netflix debut. 8-player field: Harper, Schwarber, Caminero, Murakami, Walker, Rice, Caglianone, Contreras. Harper won 2018 Derby here; Schwarber reached the final. Seeking to be first player ever to win Derby twice in home park. Schwarber leads MLB with 30 HRs, is the favorite. New format: 20/15/15 swings, no timer, bonus swings on final-swing HR. Junior Caminero (23) youngest potential winner ever.
+- **Content Produced:** Article (article-01, Jake Torres), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Derby results (who won? any records?)
+  - All-Star Game July 14 recap
+  - Harper/Schwarber second-half performance framing
+
+### Story 2: Justin Verlander Retirement — 3 Cy Youngs, 266 Wins, 21 Seasons
+- **Date:** 2026-07-13
+- **Tier:** 1
+- **Classification:** NEW STORY (retirement announced approximately July 8-9, 2026)
+- **Angle:** Verlander retiring after 2026. On 60-day IL (hip/hamstring). Commissioner Manfred named him AL "Legend Pick" for 10th All-Star. Career: 266-159, 3.33 ERA, 3,554 Ks, 3 Cy Youngs (2011, 2019, 2022), unanimous 2011 MVP, 2 World Series, 21 seasons. Started and ending with Detroit Tigers. Quote: "I've realized that time has come."
+- **Content Produced:** Article (article-02, Ryan Calloway), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Verlander's farewell appearance at All-Star as Legend Pick
+  - Final starts if he returns from IL
+  - Hall of Fame eligibility timeline (2031)
+
+### Story 3: All-Star Game Tomorrow — Ohtani and Judge Both Out
+- **Date:** 2026-07-13
+- **Tier:** 2
+- **Classification:** FOLLOW UP (absences confirmed this week; game is tomorrow)
+- **Angle:** 96th MLB All-Star Game July 14, 8 PM ET FOX, Citizens Bank Park. First ever at CBP (opened 2004). USA 250 themed jerseys. Ohtani out (left knee irritation, fluid drained, skipped final start). Judge out (fractured rib since late May, re-imaging at break). Front Office Sports called their joint absence "a sizable blow for MLB." Verlander Legend Pick is the emotional center.
+- **Content Produced:** Article (article-03, Marcus Cole), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - All-Star Game results July 14
+  - Ohtani/Judge injury updates post-break
+  - Breakout performance from replacement stars
+
+### Story 4: Tarik Skubal — "Zero Appetite to Be Traded"
+- **Date:** 2026-07-13
+- **Tier:** 2
+- **Classification:** FOLLOW UP (trade rumors tracked since June; Skubal stance now confirmed)
+- **Angle:** Skubal told friends he "badly wants to stay in Detroit" and has "zero appetite to be traded." Two-time reigning AL Cy Young (2024 unanimous all 30 votes, 2025: 13-6/2.21 ERA/241 Ks). 2026 salary $32M (arb). Contract year; expected $400M+ FA ask. Extension talks "nil." Yankees and Phillies early leaders. August 3 deadline.
+- **Content Produced:** Article (article-04, Jake Torres), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Skubal trade announcement (before August 3)
+  - Extension talks updates
+  - Tigers direction with/without Skubal for second half
+
+### Story 5: Futures Game Recap + White Sox Surprise
+- **Date:** 2026-07-13
+- **Tier:** 3
+- **Classification:** NEW STORY (Futures Game played July 12; White Sox AL Central lead ongoing)
+- **Angle:** AL 6, NL 1. Nathan Flewelling (Rays C) MVP with 365-foot 2-run HR in 6th inning (third Rays prospect to win award). White Sox 48-45, leading AL Central (ahead of rebuild schedule). 2026 Draft: Roch Cholowsky No. 1 overall (UCLA SS). 5 Top-100 prospects: Montgomery (#36), Schultz (#49), Bonemer (#61), Smith (#72), Carlson (#73). Murakami in tonight's Derby ties stories.
+- **Content Produced:** Article (article-05, Ryan Calloway), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - White Sox second-half AL Central race
+  - Murakami Derby performance
+  - White Sox trade deadline direction (buyers or sellers?)

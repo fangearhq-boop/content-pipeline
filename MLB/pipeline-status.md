@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-07-13
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via agent, 12 searches), brief (5 stories; format corrected to ### STORY N: with Today's Top Stories header), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (10 items), image manifest (10 items, not_started), articles (5), fact-check (14 claims HIGH, 0 char violations), compile (5 stories, 7 tweets, 5 articles, 22 items), dashboard (22 items), dashboard publish 403 (proxy). PostPlanner exports (7 posts standard + 7 TOBI posts). WordPress 403 (proxy sandbox — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected — proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard publish 403 (proxy blocks content-dashboards — known). IMAGE MISSING expected (not_started). 0 char violations. Daily brief format corrected (needed ## Today's Top Stories + ### STORY N: bullet fields).
+- **Key Stories**: Home Run Derby TONIGHT 8PM ET Netflix/Citizens Bank Park/Harper 2018 champ + Schwarber MLB HR leader (30 HR) both Phillies/potential 2018 rematch/20-15-15 swings no timer format/8-player field (Tier 1 FOLLOW UP), Verlander retirement/3 Cy Youngs 2011+2019+2022/266 wins/3554 Ks/21 seasons/10th All-Star Legend Pick/hip+hamstring IL/"I've realized that time has come" (Tier 1 NEW), All-Star Game July 14 FOX 8PM ET/96th ASG/first at CBP/USA 250 theme/Ohtani out (knee fluid)/Judge out (fractured rib since May) (Tier 2 FOLLOW UP), Skubal "zero appetite to be traded"/2x AL Cy Young (2024 unanimous, 2025: 13-6/2.21/241K)/contract year/$400M+ FA/extension talks "nil"/Yankees+Phillies early leaders/Aug 3 deadline (Tier 2 FOLLOW UP), Futures Game AL 6 NL 1/Flewelling (Rays C) MVP 365-ft 2-run HR/White Sox 48-45 leading AL Central (surprise)/Cholowsky No.1 pick/5 Top-100 prospects (Tier 3 NEW)
+
+## Last Run
 - **Date**: 2026-07-12
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via prior context), brief (5 stories), research notes, story analysis, X posts (13; ## STORY headings + ET timezone fixed; 0 char violations), FB posts (5 stories; ## STORY headings + ET timezone fixed; 10 posts parsed), image concepts (5 stories), image manifest (10 items, not_started), articles (5), fact-check (33 claims HIGH, 0 char violations), compile (5 stories, 13 tweets, 0 FB posts — format fix applied after, 5 articles, 28 items), dashboard (28 items), dashboard publish 403 (proxy). PostPlanner exports (23 posts X+FB standard + 13 TOBI posts). WordPress 403 (proxy sandbox — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected — proxy known restriction).
