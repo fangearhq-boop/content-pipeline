@@ -3948,3 +3948,48 @@
 - **Key facts:** McLaren 154 pts behind Mercedes using same engine; root cause: energy management software (works teams design/optimize; customers receive hardware only); MGU-K 350kW (vs 120kW prior spec); McLaren: 4 reliability failures DNF/DNS; Mercedes 333pts constructors, Ferrari ~255, McLaren 179; Ferrari/Honda/Audi complaint: compression ratio loophole worth 0.3s; no FIA ruling
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** FIA rules on loophole; McLaren closes gap Spa; summer break regulation changes
+
+## 2026-07-13
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-13 | T1 | Verstappen Exit Clause Mathematically Confirmed — Cannot Reach P2 Before Summer Break | X, FB, Article | FOLLOW UP |
+| 2026-07-13 | T1 | Belgian GP Race Week Preview — Spa July 17-19, Rain Forecast, Championship Stakes | X, FB, Article | FOLLOW UP |
+| 2026-07-13 | T1 | George Russell Confirms 2027 Mercedes Seat — "I Can Confirm 100 Percent" | X, FB, Article | NEW |
+| 2026-07-13 | T2 | Hamilton at Spa — Six Belgian GP Wins, Chasing History in Ferrari | X, FB, Article | FOLLOW UP |
+| 2026-07-13 | T2 | The Verstappen-McLaren Question Nobody Will Answer | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Verstappen Exit Clause Mathematically Confirmed
+- **Tier:** 1
+- **Category:** F1 Driver Market / Red Bull / Verstappen
+- **Key facts:** Verstappen P7/76pts; Russell P2/154pts; gap=78pts; max available Belgium+Hungary=50pts; 76+50=126 < 154; cannot reach P2; exit clause triggered; formal activation deadline ~October 2026; Red Bull failed to remove clause; Horner-Verstappen weekly calls; Lambiase signed with McLaren for 2028
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Formal clause activation; McLaren/retirement announcement; October deadline
+
+### STORY 2: Belgian GP Preview
+- **Tier:** 1
+- **Category:** F1 Race Preview / Belgian GP
+- **Key facts:** Round 12/22 at Spa-Francorchamps; 7.004km/44 laps; FP1+FP2 Fri July 17 (7:30AM ET / 11AM ET); Qual Sat July 18 (10AM ET); Race Sun July 19 (9AM ET); thundery showers all weekend/23°C; championship: Antonelli 179/Russell 154/Hamilton 147/Leclerc 108; last 2 races before summer break; Belgian GP is Round 12 of 22
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Belgian GP qualifying; race result; championship shift
+
+### STORY 3: Russell Confirms 2027 Mercedes
+- **Tier:** 1
+- **Category:** F1 Driver Contracts / Russell / Mercedes
+- **Key facts:** Russell: "My seat for 2027 is in my hands"; "I can confirm 100 percent" (GPFans June 2026); performance clause met/auto-renewed; Corriere della Sera reported clause triggered; closes Mercedes door on Verstappen; Mercedes 2027: Antonelli + Russell confirmed
+- **Status:** NEW
+- **Follow-up ideas:** Official Mercedes announcement; Verstappen market narrows; 2027 grid takes shape
+
+### STORY 4: Hamilton at Spa
+- **Tier:** 2
+- **Category:** F1 / Hamilton / Belgian GP
+- **Key facts:** Hamilton 6 career Belgian GP wins (most of any active driver); Ferrari 2026; P3 championship/147pts; rain forecast all weekend; 7th win would be outright personal record at Spa; Ferrari resurgent (Leclerc won British GP); Hamilton P3 at Silverstone (5-sec penalty false start)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Hamilton wins Belgian GP; 7th Spa victory; Ferrari championship charge
+
+### STORY 5: Verstappen-McLaren Analysis
+- **Tier:** 2
+- **Category:** F1 Driver Market / Analysis
+- **Key facts:** Brown denied deal; Sportbible "closing stages" July 7 (unnamed team); Piastri exit clause rumored; Lambiase to McLaren by 2028; Yahoo Sports: retirement "increasingly likely"; Verstappen: current driving style "not mentally doable"; FIA 60/40 from 2027 but teams objecting; formal decision by October
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Verstappen announcement; McLaren confirms/denies; retirement decision

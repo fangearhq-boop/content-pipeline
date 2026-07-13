@@ -1,0 +1,303 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-13",
+  "compiled_at": "2026-07-13T11:30:46.278749+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Verstappen's Exit Clause Is Now Mathematically Settled",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The math is done on Max Verstappen's Red Bull future.\n\nHe's 78 points behind Russell in P2. Only 50 points available before the summer break (Belgium + Hungary).\n\nHe cannot reach P2. His exit clause is triggered.\n\nThe decision window opens.",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 240
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Red Bull tried to remove Verstappen's exit clause. They failed.\n\nVerstappen has until ~October to formally activate it and commit to leaving.\n\nThe most fascinating driver market story of 2026 just became official.",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 213
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-verstappen-exit-clause-mathematically-active.html",
+        "headline": "The Math Is Done: Verstappen's Red Bull Exit Clause Is Now Officially Triggered",
+        "word_count": 653
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X + Facebook post"
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article featured image"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Belgian GP Race Week Preview — Spa July 17-19",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Belgian GP week is here. 🏁\n\nSpa-Francorchamps. 7.004km. 44 laps. Rain forecast all weekend.\n\nFP1: Friday 7:30 AM ET\nQualifying: Saturday 10:00 AM ET\nRace: Sunday 9:00 AM ET\n\nChampionship standings: Antonelli 179 | Russell 154 | Hamilton 147 | Leclerc 108",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 254
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Belgium and Hungary are the last two races before the summer break.\n\nAntonelli leads by 25 points. Russell, Hamilton, and Leclerc all have a case.\n\nThis double-header could define the 2026 F1 season.\n\n#F1 #BelgianGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BelgianGP"
+          ],
+          "char_count": 215
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-belgian-gp-race-week-preview-spa-2026.html",
+        "headline": "Belgian GP Race Week Is Here: Championship Battle, Rain, and High Stakes at Spa",
+        "word_count": 604
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X + Facebook post"
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article featured image"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Russell Confirms His 2027 Mercedes Seat — \"I Can Confirm 100 Percent\"",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "George Russell on his 2027 Mercedes seat:\n\n\"My seat for 2027 is in my hands. I can confirm 100 percent.\"\n\nPerformance clause met. Deal done. The Verstappen-to-Mercedes door is officially closed.\n\n#F1 #GeorgeRussell",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#GeorgeRussell"
+          ],
+          "char_count": 214
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-russell-confirms-2027-mercedes-seat.html",
+        "headline": "George Russell Confirms His 2027 Mercedes Seat: \"I Can Confirm 100 Percent\"",
+        "word_count": 556
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X + Facebook post"
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article featured image"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Hamilton's Six Spa Wins — Chasing History With Ferrari",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Lewis Hamilton has SIX Belgian GP wins. More than any active driver on the grid.\n\nNow he's doing it in Ferrari red with rain in the forecast.\n\nA 7th win at Spa would be history.\n\n#F1 #BelgianGP #LewisHamilton",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BelgianGP",
+            "#LewisHamilton"
+          ],
+          "char_count": 208
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-hamilton-six-spa-wins-belgian-gp-ferrari.html",
+        "headline": "Six Wins, One New Chapter: Hamilton Arrives at Spa in Ferrari Red",
+        "word_count": 537
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X + Facebook post"
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article featured image"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "The Verstappen-McLaren Question Nobody Will Answer",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The most intriguing sidebar in F1:\n\nVerstappen's exit clause is active. McLaren CEO Zak Brown says no deal. But Verstappen's race engineer already signed with McLaren.\n\nSportbible says closing stages of a move. Yahoo says retirement is increasingly likely.\n\nNobody knows. 🤷",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 273
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-verstappen-mclaren-puzzle-analysis.html",
+        "headline": "The Verstappen-McLaren Puzzle: Why the Deal Nobody Will Confirm Won't Go Away",
+        "word_count": 593
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Facebook post"
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article featured image"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

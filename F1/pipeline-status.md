@@ -1,10 +1,21 @@
 # F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
-- **Date**: 2026-07-12
+- **Date**: 2026-07-13
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-13
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss)
+- **PostPlanner exports:** f1fr-postplanner-2026-07-13.xlsx (7 posts) + f1fr-postplanner-tobi-2026-07-13.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-07-13/review-dashboard.html (22 items)
+- **Notes:** BELGIAN GP RACE WEEK — Verstappen exit clause mathematically confirmed (P7/76pts vs Russell P2/154pts; max 50pts avail; formal activation by ~October); Belgian GP July 17-19 Spa 7.004km/44 laps (FP1 Fri 7:30AM ET / Qual Sat 10AM ET / Race Sun 9AM ET / thundery showers all weekend); Russell confirms 2027 Mercedes "100 percent" (performance clause met; closes Verstappen-Mercedes door); Hamilton 6 Spa wins/rain forecast/Ferrari; Verstappen-McLaren puzzle (Brown denied/Sportbible closing stages/Lambiase to McLaren/retirement increasingly cited)
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-12
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
