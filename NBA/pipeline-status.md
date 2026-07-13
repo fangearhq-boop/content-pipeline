@@ -1,10 +1,21 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Last Run
-- **Date**: 2026-07-12
+- **Date**: 2026-07-13
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-13
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 8 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce, Jake Torres)
+- **PostPlanner exports:** hh-postplanner-2026-07-13.xlsx (8 posts) + hh-postplanner-tobi-2026-07-13.xlsx (8 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-07-13/review-dashboard.html (23 items)
+- **Notes:** NBA SUMMER LEAGUE DAY 5 / FREE AGENCY — Dybantsa 23/7/3blk Game 2 (Wizards 104-85 Kings, unbeaten); July 12 slate: Warriors 104-79/Clippers 104-82/Pelicans 81-75; LeBron: Cavs/Heat/76ers final three (Rich Paul spoke to 27 teams)/no timeline; Kawhi trade frozen (Aspiration $28M endorsement/$300M arena naming rights/Ballmer $60M personal investment/no timetable); LaMelo Ball 4-team trade to Wolves (+ Josh Green for Naz Reid + picks); Day 5: Celtics 87-75/Pistons 103-94 (Lanier 7 threes)
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-12
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

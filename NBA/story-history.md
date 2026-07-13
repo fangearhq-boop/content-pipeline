@@ -4164,3 +4164,48 @@
 - **Key facts:** July 10 results: Heat 119-86 Bucks, Nets 91-65 Knicks (Brown Jr. 20/2stl), Lakers 96-84 Thunder (Thiero 20/Carr 18), Celtics 83-80 Raptors OT (Williams 23/13), Grizzlies 97-96 Bulls (Boozer 23/Wilson 35), Rockets 97-86 Nuggets, Pacers 99-93 Cavs, Suns 81-79 Blazers; McNeeley (Hornets) 28/7-8 3P vs Magic July 9; Pullin (Wolves) 24/8/12 in opener
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Wilson/Boozer next games; McNeeley rotation push; Day 4 results
+
+## 2026-07-13
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-13 | T1 | AJ Dybantsa 23 Pts/7 Reb/3 Blk — Wizards 104-85 Kings (Game 2) | X, FB, Article | FOLLOW UP |
+| 2026-07-13 | T1 | LeBron James Free Agency — Cavs, Heat, 76ers Final Three | X, FB, Article | FOLLOW UP |
+| 2026-07-13 | T1 | Kawhi Leonard Trade Frozen — NBA Investigating Aspiration Endorsement Deal | X, FB, Article | FOLLOW UP |
+| 2026-07-13 | T2 | LaMelo Ball to Timberwolves — 4-Team Trade, Pairs with Edwards | X, FB, Article | NEW |
+| 2026-07-13 | T2 | Summer League Day 5 — Celtics 87-75 Hornets, Pistons 103-94 Cavs | X, FB, Article | FOLLOW UP |
+
+### STORY 1: AJ Dybantsa Game 2 — Wizards 104-85 Kings
+- **Tier:** 1
+- **Category:** NBA Summer League / Rookies
+- **Key facts:** Dybantsa: 23 pts/7 reb/3 blk/2 stl (July 12); 2-game Vegas avg: 25.0 PPG/7.0 RPG; Wizards unbeaten; debut July 10: 27 pts; July 12 also: Warriors 104-79 Thunder, Clippers 104-82 Jazz, Pelicans 81-75 Suns; Caleb Wilson (No.4/Bulls) 35-pt debut (July 10); Cameron Boozer (No.3/Grizzlies) 23 pts; Darryn Peterson (No.2/Jazz) SLC: 28 pts debut/25-12ast Game 2
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Dybantsa Game 3; Dybantsa vs Peterson first matchup; Wizards Summer League record
+
+### STORY 2: LeBron James Free Agency — Cavs/Heat/76ers
+- **Tier:** 1
+- **Category:** NBA Free Agency / LeBron James
+- **Key facts:** Will not return to Lakers (8-yr run ends); Rich Paul spoke to 27 teams; three "continuing to come up": Cavs/Heat/76ers; LeBron in Akron this summer; Mitchell "embrace" reunion quote; no timeline; Draymond spotted golfing with LeBron in Puerto Rico (MEDIUM confidence); Miami angle: LeBron+Giannis+Bam possibility; Philly: Brown arrival complicates wings
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** LeBron signs; team announcement; press conference
+
+### STORY 3: Kawhi Leonard Trade Frozen — NBA Investigation
+- **Tier:** 1
+- **Category:** NBA Trades / Front Office / Investigation
+- **Key facts:** $28M Kawhi-Aspiration endorsement deal under probe; Aspiration also held $300M/23-yr arena naming rights with Clippers; Ballmer personally invested $60M in Aspiration (denies knowing about Kawhi deal); NBA told Raptors to "assume risk"; Pablo Torre podcast triggered investigation; no timetable; trade package: Clippers send Kawhi / Raptors send Ingram+Dick+2031&2033 1sts+2027 swap+2 2nds
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Investigation concludes; trade completes or collapses; Ballmer sanctions
+
+### STORY 4: LaMelo Ball to Minnesota — 4-Team Trade
+- **Tier:** 2
+- **Category:** NBA Trades / Offseason
+- **Key facts:** Wolves get LaMelo Ball + Josh Green; Hornets get Naz Reid + 3 first-round pick swaps (2028/2029/2030) + 3 second-round picks (2029/2032/2033); Julius Randle to Nets in 4-team structure; LaMelo pairs with Anthony Edwards; LaMelo $112M re-sign figure UNCERTAIN — do not cite
+- **Status:** NEW
+- **Follow-up ideas:** Edwards-LaMelo debut; Wolves training camp fit; Charlotte rebuild
+
+### STORY 5: Summer League Day 5
+- **Tier:** 2
+- **Category:** NBA Summer League
+- **Key facts:** July 13 (PLAUSIBLE — from search summaries, not URL-confirmed): Celtics 87-75 Hornets (Dillon Mitchell 24 pts); Pistons 103-94 Cavaliers (Chaz Lanier 7 threes)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Day 6 results; Dybantsa Game 3

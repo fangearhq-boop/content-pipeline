@@ -1,0 +1,318 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-13",
+  "compiled_at": "2026-07-13T11:24:07.456835+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "AJ Dybantsa Delivers Again — Wizards Win Second Straight",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "AJ Dybantsa is NOT slowing down.\n\nGame 2 in Vegas: 23 pts, 7 reb, 3 blk, 2 stl. Washington wins again, 104-85 over Sacramento.\n\nThe No. 1 pick is averaging 25 points through two Summer League games.\n\n#WashingtonWizards",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WashingtonWizards"
+          ],
+          "char_count": 218
+        },
+        {
+          "label": "Post 1-2",
+          "text": "July 12 Summer League scoreboard:\n\nWarriors 104, Thunder 79\nClippers 104, Jazz 82\nPelicans 81, Suns 75\nWizards 104, Kings 85 (Dybantsa: 23 pts/7 reb/3 blk)\n\nNo. 1 pick looking every bit of it.\n\n#NBATwitter",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBATwitter"
+          ],
+          "char_count": 205
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-dybantsa-game-2-wizards-summer-league.html",
+        "headline": "AJ Dybantsa Delivers Again: 23 Points, 7 Rebounds as Wizards Stay Perfect in Vegas",
+        "word_count": 535
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X + Facebook post"
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article featured image"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "LeBron Free Agency — Cavs, Heat, and 76ers Remain in the Hunt",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "LeBron James will NOT return to the Lakers.\n\nRich Paul has spoken to 27 teams. The three that continue to come up: Cleveland, Miami, Philadelphia.\n\nNo decision expected this week. The wait continues.\n\n#NBATwitter",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBATwitter"
+          ],
+          "char_count": 212
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Donovan Mitchell says he'd embrace a LeBron reunion in Cleveland.\n\nLeBron spent the summer in Akron. Cavs, Heat, and 76ers are the final three.\n\nWhere does the King land?\n\n#NBATwitter",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBATwitter"
+          ],
+          "char_count": 183
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-lebron-james-free-agency-cavs-heat-sixers.html",
+        "headline": "LeBron James Free Agency: Cavaliers, Heat, and 76ers Remain the Final Three",
+        "word_count": 542
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X + Facebook post"
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article featured image"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Kawhi Leonard Trade Frozen by NBA Investigation",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "The Kawhi Leonard trade is still on hold.\n\nThe NBA is investigating whether the Clippers paid Kawhi $28M through a bankrupt company — which also held a $300M naming rights deal on their arena.\n\nNo timetable.\n\n#LAClippers #TorontoRaptors",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LAClippers",
+            "#TorontoRaptors"
+          ],
+          "char_count": 236
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Clippers owner Steve Ballmer personally invested $60M in Aspiration — the bankrupt company at the center of the Kawhi investigation.\n\nHe denies knowledge of Kawhi's $28M deal.\n\nRaptors told to assume the risk if they want to proceed.\n\n#NBATwitter",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBATwitter"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-kawhi-leonard-trade-frozen-aspiration-investigation.html",
+        "headline": "The Kawhi Leonard Trade Is Still Frozen — Here's Why the Investigation Is So Complicated",
+        "word_count": 558
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X + Facebook post"
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article featured image"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "LaMelo Ball Lands in Minnesota in 4-Team Trade",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "LaMelo Ball is a Timberwolf.\n\nMinnesota landed LaMelo + Josh Green from Charlotte in a 4-team deal, sending Naz Reid and a package of picks to the Hornets.\n\nLaMelo + Anthony Edwards in the same backcourt.\n\n#MNTimberwolves",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MNTimberwolves"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-lamelo-ball-timberwolves-trade.html",
+        "headline": "LaMelo Ball Is a Timberwolf: Minnesota Lands Its Running Mate for Anthony Edwards",
+        "word_count": 441
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X + Facebook post"
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article featured image"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Summer League Day 5 — Celtics, Pistons Win Big",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Day 5 in Vegas:\n\nCeltics 87, Hornets 75 — Dillon Mitchell: 24 pts\nPistons 103, Cavaliers 94 — Chaz Lanier: 7 threes\n\nYoung players making their cases for roster spots every night.\n\n#NBATwitter",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBATwitter"
+          ],
+          "char_count": 192
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-summer-league-day-5-celtics-pistons.html",
+        "headline": "Summer League Day 5: Dillon Mitchell's 24-Point Game Leads Celtics; Chaz Lanier Hits 7 Threes for Pistons",
+        "word_count": 435
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Facebook post"
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article featured image"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
