@@ -1,42 +1,9 @@
 {
-  "generated_at": "2026-07-12T08:30:00.563457+00:00",
-  "today_ct": "2026-07-12",
-  "off_day": false,
+  "generated_at": "2026-07-13T08:30:00.606284+00:00",
+  "today_ct": "2026-07-13",
+  "off_day": true,
   "is_series_start_today": false,
-  "series": {
-    "opponent": "Cincinnati Reds",
-    "opponent_id": 113,
-    "opponent_record": "43-51",
-    "cubs_record": "53-42",
-    "is_cubs_home": false,
-    "venue": "Great American Ball Park",
-    "series_length": 1,
-    "games": [
-      {
-        "game_pk": "824491",
-        "game_date_iso": "2026-07-12T17:40:00Z",
-        "game_date_ct": "Sun 12:40 PM CT",
-        "cubs_probable": "TBD",
-        "opponent_probable": "TBD",
-        "status": "Preview"
-      }
-    ],
-    "rationale": "Same opponent (Cincinnati Reds) as yesterday \u2014 this is mid-series, not a series opener."
-  },
-  "today_cubs_game": {
-    "game_pk": "824491",
-    "status": "Preview",
-    "detailed_status": "Scheduled",
-    "game_date_iso": "2026-07-12T17:40:00Z",
-    "game_date_ct": "Sun 12:40 PM CT",
-    "is_cubs_home": false,
-    "opponent_id": 113,
-    "opponent_name": "Cincinnati Reds",
-    "opponent_record": "43-51",
-    "cubs_record": "53-42",
-    "cubs_probable": "TBD",
-    "opponent_probable": "TBD",
-    "venue": "Great American Ball Park"
-  },
-  "rationale": "Same opponent (Cincinnati Reds) as yesterday \u2014 this is mid-series, not a series opener."
+  "series": null,
+  "today_cubs_game": null,
+  "rationale": "No upcoming Cubs game on today's CT calendar date."
 }
