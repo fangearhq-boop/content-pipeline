@@ -1,6 +1,45 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: July 12, 2026
+## Latest Run: July 13, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Joyful Journeys Baby Lounger CPSC Warning (July 2, 2026; ~9,300 units; Amazon.com + Walmart.com; Dec 2023–Oct 2025; $40–$60; company out of business after Jan 2026 recall; sides too low + foot opening too wide = fall/entrapment; no remedy; dispose immediately; cpsc.gov); AAP Drowning Prevention Guidelines update (June 2026 Pediatrics; updates 2019 guidance; swim lessons after age 1 individualized; drowning = No. 1 killer US children 1–4; layered prevention required; water watcher concept; healthychildren.org); Aspen Acres Fire air quality (98,099 acres, 35% contained July 12; IQAir ranks CO among worst air quality in world; PM2.5 health risk for all; mandatory evacuations Colorado City/Beulah/Rye/San Isabel/Wetmore/Red Creek/Apache City; inciweb.wildfire.gov); COS back-to-school dates (D49 = August 4 all students, August 3 new K/6th/9th, August 10 preschool; D11 = August 12; D20 = August 13; from d49.org, d11.org, calendar.asd20.org); Pikes Peak or Bust Rodeo (July 14–18; Norris Penrose Event Center; 7:30 PM nightly; matinee 12:30 PM Fri/Sat; tickets from ~$57; pikespeakorbust.org; NFR Open; $1M+ payouts; since 1946) |
+| Story History Check | COMPLETE | S1 (Joyful Journeys) NEW — distinct from Babypark carrier warning covered July 12 (different product type; baby lounger vs. carrier); S2 (AAP Drowning) NEW; S3 (Aspen Acres Fire) FOLLOW-UP from July 12 (34% contained → 35%; angle shifted to air quality impact); S4 (Back-to-School Dates) NEW; S5 (Rodeo) NEW — parade covered July 11; today is rodeo coverage |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2); ### STORY N: format |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; all facts from web search |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4); rotating from July 12's Jamie Rivera (S1, S3, S5) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 8 posts (S1:2, S2:2, S3:2, S4:1, S5:1); all verified ≤280 chars (fixed S1 Post B: trimmed from 289 → 274 chars); 4 hashtags each; COS voice |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; NO hashtags; COS voice rules; contractions throughout |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts; S1: baby lounger nursery; S2: outdoor pool/swim gear; S3: COS neighborhood under smoke haze; S4: school backpack and supplies; S5: rodeo arena golden hour; all "clean bottom third" |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 8 images total; all not_started; photo_source: gemini; model: gemini-2.5-flash-image |
+| Articles | COMPLETE | 5 articles (500–800 words; Quick Reference tables in S4; What's Next sections; 0 exclamation marks; no figure tags; no photo credits; semantic HTML5); bylines: Sarah Morales (A1, A3, A5), Jamie Rivera (A2, A4) |
+| Fact-Check | COMPLETE | verify-facts.py passed; 76 claims; HIGH: 116, MEDIUM: 37, LOW: 57; all 5 stories present in all content files; image not_started warnings cosmetic (expected for gemini source) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 5 articles, 8 images; 23 dashboard items |
+| Dashboard | COMPLETE | review-dashboard.html — 23 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-07-13.xlsx (8 posts, 13:10–20:52 MT) + TOBI cosp-postplanner-tobi-2026-07-13.xlsx (8 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-07-13)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 5 FB long-form + 5 FB captions = 18 total posts (PostPlanner xlsx: 8 posts 13:10–20:52 MT, 8 TOBI)
+- **Articles:** 5 (bylines: Sarah Morales x3 [A1, A3, A5], Jamie Rivera x2 [A2, A4])
+- **PostPlanner exports:** cosp-postplanner-2026-07-13.xlsx (8 posts, 13:10–20:52 MT), cosp-postplanner-tobi-2026-07-13.xlsx (8 TOBI posts)
+- **Coverage:** Joyful Journeys Baby Lounger CPSC Warning (July 2, 2026; ~9,300 units; Amazon.com + Walmart.com; Dec 2023–Oct 2025; $40–$60; company out of business after Jan 2026 recall; sides too low + foot opening too wide = fall/entrapment; no remedy; dispose immediately; cpsc.gov); AAP Drowning Prevention Guidelines June 2026 update (updates 2019 guidance; swim lessons individualized after age 1; drowning = No. 1 killer US children 1–4; layered prevention required; water watcher concept; Pediatrics June 2026); Aspen Acres Fire air quality follow-up (98,099 acres, 35% contained July 12; IQAir = CO among worst air quality in world; PM2.5 risk; mandatory evacuations Colorado City/Beulah/Rye/San Isabel/Wetmore/Red Creek/Apache City; practical guidance for families); COS Back-to-School Dates 2026–27 (D49 Aug 4/Aug 3 new/Aug 10 preschool; D11 Aug 12; D20 Aug 13; prep checklist; quick reference table); Pikes Peak or Bust Rodeo opens tomorrow July 14–18 (Norris Penrose Event Center; 7:30 PM nightly; matinee 12:30 PM Fri July 17 + Sat July 18; tickets from ~$57; pikespeakorbust.org; NFR Open; $1M+ payouts; military families since 1946)
+- **Notes:**
+  - Ran as Niche 2 in sequence after Tennis niche
+  - S1 tweet B trimmed from 289 chars → 274 chars (source file fix before compile)
+  - Aspen Acres Fire: follow-up from July 12 (34%→35% containment); angle shifted to air quality impact on families
+  - verify-facts.py: all 5 stories present in all content files; image not_started warnings cosmetic (expected for gemini source — same as all prior Parenting runs)
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4] (rotating from July 12's Jamie Rivera [S1, S3, S5])
+
+---
+
+## Prior Run: July 12, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|

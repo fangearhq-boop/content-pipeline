@@ -2,6 +2,45 @@
 
 ---
 
+## July 13, 2026
+
+### Story 1: Joyful Journeys Baby Lounger CPSC Warning — Company Out of Business
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC Product Safety WARNING (not recall) issued July 2, 2026. Joyful Journeys (Sarnia Sales LLC, Issaquah, WA) agreed to recall in January 2026, then went out of business before refunds were sent. ~9,300 units sold on Amazon.com and Walmart.com, December 2023–October 2025, $40–$60. Hazards: sides too low to contain infant; foot opening too wide — fall and entrapment hazards. Violates mandatory standard for Infant Sleep Products. No remedy available. Action: stop using and dispose immediately.
+- **Content Produced:** Article (Sarah Morales), 2 X Text Posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** July 2, 2026 CPSC warning date; ~9,300 units; Amazon.com + Walmart.com; December 2023–October 2025; $40–$60; company out of business; sides too low + foot opening too wide = fall/entrapment hazard; mandatory standard violation; no refund/remedy; dispose immediately; cpsc.gov
+
+### Story 2: AAP Drowning Prevention Guidelines — June 2026 Update
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — AAP published updated "Prevention of Drowning" policy statement in June 2026 Pediatrics. Updates 2019 guidance. Key points: swim lessons can begin on individualized basis after age 1; drowning = No. 1 cause of death for US children ages 1–4; no single method is sufficient — layered prevention required (swim lessons + pool fencing + life jackets + supervision + CPR). "Water watcher" concept: designated adult, no distractions, sole job is watching swimmers.
+- **Content Produced:** Article (Jamie Rivera), 2 X Text Posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** June 2026 Pediatrics publication; updates 2019 guidelines; drowning = No. 1 killer of US children ages 1–4; adolescents = second-highest rate; swim lessons after age 1 (individualized); layered prevention required; water watcher role; CPR training for caregivers
+
+### Story 3: Aspen Acres Fire — Air Quality Alert for COS Families
+- **Content Pillar:** Local News
+- **Angle:** FOLLOW-UP (last covered July 12 at 34% contained, 97,504 acres, 780+ structures) — Today's update: 98,099 acres, 35% contained. IQAir ranks Colorado air quality among worst in world. Focus on health impact for COS families: keep kids indoors, especially those with asthma; close windows; run HEPA purifiers; limit outdoor exercise; check airnow.gov. Mandatory evacuations still in effect: Colorado City, Beulah, Rye, San Isabel, Wetmore, Red Creek, Apache City; portions of Custer/Pueblo/Huerfano.
+- **Content Produced:** Article (Sarah Morales), 2 X Text Posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** 98,099 acres (July 12); 35% contained; 780+ structures (7th most destructive wildfire in CO history); mandatory evacuations in multiple communities; IQAir = Colorado among worst air quality in world; PM2.5 risk for all residents; inciweb.wildfire.gov for updates
+
+### Story 4: COS Back-to-School Dates 2026–27 — D49, D11, D20
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — First day of school dates for all three major COS districts: D49 = August 4 (new K/6th/9th = August 3; preschool = August 10); D11 = August 12; D20 = August 13. Article includes quick-reference table and prep checklist (well-child checkups, immunizations, supply lists, sleep schedule).
+- **Content Produced:** Article (Jamie Rivera), 1 X Text Post, Facebook Long-Form + Caption, Image Concept (x1)
+- **Tier:** 2
+- **Key Facts:** D49 all students August 4 (new students August 3; preschool August 10); D11 August 12; D20 August 13; D11 new teacher orientation July 29–August 3; D11 last day May 25, 2027
+
+### Story 5: Pikes Peak or Bust Rodeo — July 14–18
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Rodeo opens TOMORROW (July 14) at Norris Penrose Event Center. Runs July 14–18. Evening shows 7:30 PM nightly (Tue–Sat). Matinee 12:30 PM Friday July 17 and Saturday July 18. Tickets from ~$57 at pikespeakorbust.org. NFR Open — over $1 million in payouts. Pro competitors from US/Canada/Mexico. Supporting military families since 1946.
+- **Content Produced:** Article (Sarah Morales), 1 X Text Post, Facebook Long-Form + Caption, Image Concept (x1)
+- **Tier:** 2
+- **Key Facts:** July 14–18, 2026; Norris Penrose Event Center; 7:30 PM evening shows Tue–Sat; 12:30 PM matinee Fri July 17 + Sat July 18; tickets from ~$57; pikespeakorbust.org; NFR Open; $1M+ in payouts; military families since 1946
+
+---
+
 ## July 12, 2026
 
 ### Story 1: BBRKIN Biometric Gun Safe Recall
