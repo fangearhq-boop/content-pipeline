@@ -1,0 +1,294 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-13",
+  "compiled_at": "2026-07-13T12:24:49.348809+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Sinner Wins Wimbledon 6-7, 7-6, 6-3, 6-4 — Back-to-Back Champion, Fifth Grand Slam Title",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Jannik Sinner is a back-to-back Wimbledon champion.\n\n6-7, 7-6, 6-3, 6-4 over Zverev. Five Grand Slam titles. 10th man ever to defend Wimbledon.\n\nHe came from a set down. He never looked back. #Wimbledon #ATP #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon",
+            "#ATP",
+            "#TennisFanrecap"
+          ],
+          "char_count": 223
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Sinner won 80% of first-serve points. He was down a set. He won the second-set tiebreak 7-2 and never relinquished it.\n\nZverev had 17 aces and an 80% first-serve percentage — and still lost by four sets.\n\nThat's how complete Sinner is right now. #Wimbledon #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon",
+            "#TennisFanrecap"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-sinner-wins-wimbledon-back-to-back.html",
+        "headline": "Sinner Defeats Zverev to Win Back-to-Back Wimbledon Titles — His Fifth Grand Slam",
+        "word_count": 777
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Djokovic Won't Retire Yet — \"I Want to Come Back to Wimbledon One More Time\"",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Djokovic after Wimbledon: \"I want to come back here at least one more time.\"\n\nHe's not retiring. He's targeting the US Open. At 39, he says reaching two Slam semis/finals in 2026 \"would be a very good result for 99% of players.\"\n\nHe's not done. #Wimbledon #ATP #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon",
+            "#ATP",
+            "#TennisFanrecap"
+          ],
+          "char_count": 276
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Djokovic on Sinner after their Wimbledon SF: \"He was just a level or more better.\"\n\nThat's the clearest, most honest thing Djokovic has said about another player in years.\n\nSinner is at a different level right now. #Wimbledon #ATP #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon",
+            "#ATP",
+            "#TennisFanrecap"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-djokovic-not-retiring-targeting-us-open.html",
+        "headline": "Djokovic Won't Retire Yet — \"I Want to Come Back to Wimbledon One More Time\"",
+        "word_count": 751
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Finals Day Round-Up — Patten/Heliövaara Win Men's Doubles; Cruz Hewitt Runner-Up in Boys'",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Henry Patten wins Wimbledon men's doubles with Heliövaara — and becomes the first British player to win it TWICE in the Open Era.\n\nCruz Hewitt (son of Lleyton) was a boys' final runner-up, 23 years after his dad won the men's title.\n\nWhat a fortnight. #Wimbledon #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon",
+            "#TennisFanrecap"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-finals-day-doubles-cruz-hewitt.html",
+        "headline": "Wimbledon 2026 Finals Day: Patten Wins Men's Doubles Again; Cruz Hewitt Reaches Boys' Final",
+        "word_count": 687
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Wimbledon 2026 by the Numbers — Records, Storylines, Champions",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Wimbledon 2026 by the numbers:\n\n— Sinner: 100 Grand Slam wins (5 titles, 24yo)\n— Djokovic: 108 Wimbledon wins (passes Federer)\n— Noskova: 10th straight different women's champ\n— Fery: first British wildcard in Open Era SF\n\nQuite a fortnight. #Wimbledon #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon",
+            "#TennisFanrecap"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-wimbledon-2026-records-wrap-up.html",
+        "headline": "Wimbledon 2026 by the Numbers — Records, Storylines, and Every Champion",
+        "word_count": 783
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Post-Wimbledon: ATP Clay Season Opens Monday — Bastad, Gstaad, Umag All Begin This Week",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Wimbledon is done. The ATP heads straight to clay.\n\nBastad, Gstaad and Umag all start Monday — three ATP 250s in the same week. WTA opens in Iasi.\n\nThe summer clay swing leading to the hard-court season begins now. #ATP #WTA #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATP",
+            "#WTA",
+            "#TennisFanrecap"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-post-wimbledon-clay-season.html",
+        "headline": "Post-Wimbledon: The ATP Turns to Clay — Bastad, Gstaad, and Umag All Begin Monday",
+        "word_count": 565
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-07-12 |
-| Writing | Complete (all steps) | 2026-07-12 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 22 claims, 53 HIGH; image not_started warnings cosmetic/expected for imagn) | 2026-07-12 |
-| Compile | Complete (07-content-data.json — 5 stories, 8 X posts, 5 FB posts, 5 articles, 8 images) | 2026-07-12 |
-| Dashboard | Complete (review-dashboard.html, 28 items) | 2026-07-12 |
-| PostPlanner Export | Complete (standard 8 posts 12:54–20:50 ET; TOBI 8 posts) | 2026-07-12 |
-| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-07-12 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-07-12 |
+| Research | Complete | 2026-07-13 |
+| Writing | Complete (all steps) | 2026-07-13 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 21 claims, 52 HIGH; image not_started warnings cosmetic/expected for imagn) | 2026-07-13 |
+| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 0 FB posts, 5 articles, 7 images) | 2026-07-13 |
+| Dashboard | Complete (review-dashboard.html, 22 items) | 2026-07-13 |
+| PostPlanner Export | Complete (standard 7 posts 12:55–20:37 ET; TOBI 7 posts) | 2026-07-13 |
+| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-07-13 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-07-13 |
 
 ## Queue
 
@@ -24,6 +24,22 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-07-13 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB long-form + 5 FB captions = 17 total (PostPlanner xlsx: 7 posts 12:55–20:37 ET, 7 TOBI)
+- **Articles:** 5 (bylines: Marcus Cole [S1, S4], Elena Voss [S2, S5], Ryan Calloway [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-07-13.xlsx (7 posts), tfr-postplanner-tobi-2026-07-13.xlsx (7 TOBI posts)
+- **Coverage:** Sinner def. Zverev 6-7(7), 7-6(2), 6-3, 6-4 in 3h46m — 5th Grand Slam, 2nd Wimbledon, 10th man to defend title; came from set down; won 2nd-set TB 7-2 decisive; 80% 1st-serve pts won; quote: "There is no failure if you don't win a Grand Slam. These are very, very rare days." Djokovic post-Wimbledon: not retiring; wants one more Wimbledon; targeting US Open; on Sinner: "just a level or more better"; acknowledged grass sharpness lacking after only 13 matches in 2026. Finals Day doubles: Heliövaara/Patten def. Arévalo/Pavić 7-6(4), 7-6(3) — Patten first British man to win Wimbledon doubles twice in Open Era; Guo/Mladenovic def. Dabrowski/Stefani 6-3, 7-5 (first major together); Cruz Hewitt (son of Lleyton Hewitt) runner-up in boys' singles, lost to Jordan Lee (USA) 6-4, 4-6, 7-5. Wimbledon 2026 records: Sinner 100 career GS wins; Djokovic 108 all-time Wimbledon wins (passes Federer); Noskova 10th straight different women's champion; Fery first unseeded British player in Open Era men's SF. Post-Wimbledon: ATP clay season (Bastad, Gstaad, Umag, Iasi all begin July 13).
+- **Notes:**
+  - verify-facts.py: passed; 21 claims, 52 HIGH; image not_started warnings cosmetic (expected for imagn source)
+  - compile: 5 stories, 7 X posts, 0 FB posts (parser compatibility), 5 articles, 7 images; 22 dashboard items; posting window warnings cosmetic
+  - PostPlanner exports: standard (7 posts) and TOBI (7 posts) generated successfully; 12:55–20:37 ET
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Marcus Cole [S1, S4], Elena Voss [S2, S5], Ryan Calloway [S3] (rotating from July 12: Elena Voss [S1, S4], Ryan Calloway [S2, S5], Marcus Cole [S3])
+  - Cruz Hewitt boys' final result confirmed: lost to Jordan Lee (USA) 6-4, 4-6, 7-5 (was TBD in July 12 pipeline)
 
 ### 2026-07-12 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
