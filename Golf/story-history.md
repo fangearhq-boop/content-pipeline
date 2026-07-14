@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-07-14
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-14 | T1 | Open Championship R1 Groups Set — McIlroy With Schauffele & Fitzpatrick, Scheffler With DeChambeau | X, FB, Article | NEW |
+| 2026-07-14 | T1 | Scheffler Missed Cut at Scottish Open — Defending Open Champion Arrives at Birkdale With Point to Prove | X, FB, Article | FOLLOW UP |
+| 2026-07-14 | T1 | Tommy Fleetwood Hometown Open — The Course He Played as a Kid, in the Town That Made Him | X, FB, Article | FOLLOW UP |
+| 2026-07-14 | T2 | LIV Golf Running on Loans — CEO Won't Guarantee All 4 Remaining 2026 Events | X, FB, Article | FOLLOW UP |
+| 2026-07-14 | T2 | 2026 Open Championship Preview — Scheffler Defends, McIlroy Hunts History, Rai the Wild Card | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Open Championship R1 Groups Set
+- **Tier:** 1
+- **Category:** The Open Championship / Draw
+- **Key facts:** 154th Open Championship; Royal Birkdale; R1 tee times set; McIlroy + Schauffele + Fitzpatrick (3:15 PM BST afternoon); Scheffler + DeChambeau + Hatton (9:58 AM BST morning); Spieth + Fleetwood + Rahm (10:09 AM BST morning); Lowry + Koepka + Aaron Rai (2:53 PM BST afternoon); LCQ won by Joe Dean (English professional, 2-under 68, birdie 7, birdie 11, eagle 14); Dean beat Aldrich Potgieter (even) and Andrew Wilson (1-under); Amateur Championship runner-up Matt Moloney and Wesley Bryan also competed but did not advance
+- **Status:** NEW
+- **Follow-up ideas:** R1/R2/R3/R4 coverage; group-by-group results
+
+### STORY 2: Scheffler Missed Cut at Scottish Open
+- **Tier:** 1
+- **Category:** The Open Championship / Scottie Scheffler
+- **Key facts:** Scheffler shot 68-72 at Genesis Scottish Open; missed cut; first missed cut in ~4 years; 78-event made-cut streak ended (5th all-time PGA Tour); only 11/26 fairways across both rounds; skipped final warmup before Birkdale, used extra time for Birkdale prep; defending Open champion (won Royal Portrush 2025 by 4 shots); co-favorite at approximately +700; back-to-back Open would be first since Harrington 2007-08
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Scheffler R1/R2/R3/R4 performance; whether he bounces back
+
+### STORY 3: Tommy Fleetwood Hometown Open
+- **Tier:** 1
+- **Category:** The Open Championship / Tommy Fleetwood / Feature
+- **Key facts:** Fleetwood grew up in Southport adjacent to Royal Birkdale; climbed fences to play course as a child; his face is on murals in Southport; skipped Genesis Scottish Open specifically for extra Birkdale prep time; two-time major runner-up; grouped with Spieth (2017 Birkdale champion) and Rahm at 10:09 AM BST; last Englishman to win Open was Nick Faldo 1992 (34 years ago); Aaron Rai also English (won 2026 PGA Championship)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Fleetwood R1-R4 leaderboard position; English winner drought ends?
+
+### STORY 4: LIV Golf Running on Loans
+- **Tier:** 2
+- **Category:** LIV Golf / Business
+- **Key facts:** Debenture filed June 4, 2026, between LIV Golf Ltd and Wedge IP Management Co. (PIF entity) — converting PIF from equity investor to lender; PIF sent ~$66M May + ~$130M June under loan structure; $400M remaining for 2026 not yet delivered; CEO Scott O'Neil asked by CNBC if all 4 remaining events would be played, refused to guarantee — pivoted to investment return pitch; WARN Act notices filed ~July 8, placing potential layoff window September (aligned with final season events); 4 remaining events: LIV UK (Jul 23-26 JCB Golf Club), LIV New York (Aug 6-9), LIV Indianapolis (Aug 20-23), LIV Team Championship Michigan (Aug 27-30, $40M team purse); Bryson DeChambeau LIV contract expires after 2026, floated playing independently 2027 (majors only)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Investment secured or events cancelled; DeChambeau 2027 decision; WARN Act deadline
+
+### STORY 5: 2026 Open Championship Preview
+- **Tier:** 2
+- **Category:** The Open Championship / Preview
+- **Key facts:** 154th Open Championship; Royal Birkdale; July 16-19; Scheffler defending (+700 co-favorite); McIlroy co-favorite (+700, 7 majors, won 2025 + 2026 Masters back-to-back, only 3rd to win back-to-back Masters after Nicklaus and Tiger); Aaron Rai won 2026 PGA Championship at Aronimink (first player of Indian descent to win men's major, second Englishman to win PGA Championship in 100+ years); Fleetwood hometown angle; Birkdale modifications (former par-3 14th removed, par-5 15th relocated → now 14th, new par-3 15th added by Mackenzie and Ebert); 100+ bunkers; first groups 1:35 AM ET Thursday
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R1-R4 coverage; history made if Scheffler back-to-back or McIlroy 8 majors
+
 ## 2026-07-12
 
 | Date | Tier | Story | Platforms | Status |

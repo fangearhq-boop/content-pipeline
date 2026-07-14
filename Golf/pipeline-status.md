@@ -1,10 +1,21 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
-- **Date**: 2026-07-13
-- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+- **Date**: 2026-07-14
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by missing credentials; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-14
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — credentials not in env)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres)
+- **PostPlanner exports:** gfr-postplanner-2026-07-14.xlsx (7 posts) + gfr-postplanner-tobi-2026-07-14.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-07-14/review-dashboard.html (22 items)
+- **Notes:** OPEN CHAMPIONSHIP WEEK — 154th Open Championship at Royal Birkdale begins Thursday July 16; R1 draw: McIlroy/Schauffele/Fitzpatrick (afternoon), Scheffler/DeChambeau/Hatton (morning), Spieth/Fleetwood/Rahm (morning); LCQ winner: Joe Dean (2-under 68, birdie-birdie-eagle run); Scheffler missed cut at Scottish (78-event streak ended, 5th all-time), arrives with extra Birkdale prep; Fleetwood hometown angle (Southport native, skipped Scottish for Birkdale prep); LIV Golf debenture filed June 4 (PIF lending not investing), CEO won't guarantee all 4 remaining events; McIlroy 7 majors (won 2025+2026 Masters back-to-back), co-favorite +700 alongside Scheffler
+- **WordPress:** Blocked — WP_FANRUMOR credentials not set in environment (persistent infrastructure issue)
 
 ### 2026-07-13
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

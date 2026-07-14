@@ -1,0 +1,285 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-14",
+  "compiled_at": "2026-07-14T11:41:56.445890+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Open Championship Draw Revealed — McIlroy Gets Afternoon Start, Scheffler With DeChambeau",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "8:00 AM, 10:30 AM",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The Open Championship R1 groups are SET.\n\nMcIlroy with Schauffele + Fitzpatrick (afternoon)\nScheffler with DeChambeau + Hatton (morning)\nSpieth with Fleetwood + Rahm\nLowry with Koepka + Aaron Rai\n\nThursday at Royal Birkdale. Let's go. #TheOpen",
+          "posting_time": "8:00 AM, 10:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheOpen"
+          ],
+          "char_count": 243
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Joe Dean shot 2-under 68 at Royal Birkdale today to win the Last Chance Qualifier and earn the final spot in The Open.\n\nBirdied 7, birdied 11, eagled 14.\n\nThat's how you punch a ticket. #TheOpen",
+          "posting_time": "8:00 AM, 10:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheOpen"
+          ],
+          "char_count": 194
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM, 10:30 AM"
+      },
+      "article": {
+        "filename": "article-01-open-championship-r1-tee-times-draw.html",
+        "headline": "Open Championship R1 Groups: McIlroy With Schauffele and Fitzpatrick, Scheffler With DeChambeau",
+        "word_count": 540
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Scheffler Missed Cut at Scottish — Enters Open Championship With Extra Prep Time",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "10:30 AM, 1:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Scottie Scheffler missed the cut at the Genesis Scottish Open.\n\nFirst missed cut in nearly four years. Streak: 78 events (5th all-time).\n\nHe arrives at Royal Birkdale as defending Open champion with a point to prove. #TheOpen",
+          "posting_time": "10:30 AM, 1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheOpen"
+          ],
+          "char_count": 225
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Defending Open champion. 78-event made-cut streak just ended.\n\nScottie Scheffler has skipped his final links warmup before Birkdale.\n\nIs that a concern or does extra course time help him? Debate. #TheOpen",
+          "posting_time": "10:30 AM, 1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheOpen"
+          ],
+          "char_count": 204
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:30 AM, 1:00 PM"
+      },
+      "article": {
+        "filename": "article-02-scheffler-missed-cut-open-defense.html",
+        "headline": "Scottie Scheffler Missed the Cut at the Scottish Open — Here's What It Means for His Open Defense",
+        "word_count": 702
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Tommy Fleetwood's Hometown Open — Southport Native Eyes First Major at Birkdale",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Tommy Fleetwood grew up in Southport. He used to climb fences to play Royal Birkdale as a kid.\n\nThis week, he tees off there in the Open Championship.\n\nThe whole town is watching. First Englishman to win The Open since Faldo 1992? #TheOpen",
+          "posting_time": "1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheOpen"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM"
+      },
+      "article": {
+        "filename": "article-03-fleetwood-hometown-open.html",
+        "headline": "Tommy Fleetwood's Once-in-a-Career Chance: The Open Championship at the Course He Played as a Kid",
+        "word_count": 715
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "LIV Golf Now Running on Loans — CEO Won't Guarantee Remaining Events",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "3:30 PM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "New: LIV Golf isn't being funded by PIF anymore — it's borrowing from them.\n\nA debenture (secured loan) was filed between LIV and PIF on June 4.\n\nWhen CNBC asked the CEO if all 4 remaining events would be played, he wouldn't say yes.\n\n#LIVGolf",
+          "posting_time": "3:30 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:30 PM"
+      },
+      "article": {
+        "filename": "article-04-liv-golf-loans-ceo-guarantee.html",
+        "headline": "LIV Golf Is Running on Loans Now — And the CEO Won't Promise All 4 Remaining Events Happen",
+        "word_count": 701
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Open Championship Preview — Royal Birkdale, 156 Players, Scheffler and McIlroy Co-Favorites",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "6:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The 154th Open Championship at Royal Birkdale starts Thursday.\n\nScheffler is defending — first back-to-back Open winner since Tiger would be historic.\nMcIlroy has 7 majors and a career Grand Slam. He wants No. 8.\nRai won the PGA two months ago.\n\nThis one is stacked. #TheOpen",
+          "posting_time": "6:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheOpen"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "6:00 PM"
+      },
+      "article": {
+        "filename": "article-05-open-championship-preview-2026.html",
+        "headline": "2026 Open Championship Preview: Scheffler Defends, McIlroy Hunts History, Rai Is the Wild Card",
+        "word_count": 847
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 8
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
