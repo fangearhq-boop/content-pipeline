@@ -1,0 +1,282 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-14",
+  "compiled_at": "2026-07-14T11:26:47.244159+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Hawks Go Perfect — Atlanta Rolls to 3-0 in Vegas Summer League",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM, 11:00 AM",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Atlanta Hawks are the best team nobody is talking about in Las Vegas.\n\n3-0. Kobe Johnson dropped 30. Henri Veesar added 20. The Hawks just handled the Celtics 102-90.\n\nWho's stopping them?\n\n#HawksNation #NBATwitter",
+          "posting_time": "9:00 AM, 11:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HawksNation",
+            "#NBATwitter"
+          ],
+          "char_count": 214
+        },
+        {
+          "label": "Post 1-2",
+          "text": "NBA Summer League Day 6 recap:\n\nHawks 102-90 Celtics (Johnson 30)\nKnicks 86-75 Pistons (Lanier 24)\nMavs 96-88 Grizzlies (Boozer 21/8)\nRaptors 94-93 Pacers (Lundy game-winner)\n\nVegas has been must-watch. #NBATwitter",
+          "posting_time": "9:00 AM, 11:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBATwitter"
+          ],
+          "char_count": 214
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM, 11:00 AM"
+      },
+      "article": {
+        "filename": "article-01-hawks-3-0-summer-league.html",
+        "headline": "Atlanta Hawks Are Summer League's Biggest Story at 3-0 After Day 6 Wins",
+        "word_count": 578
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "LeBron Watch — 76ers Making Their Move With Jaylen Brown",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "11:00 AM, 1:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The Sixers' president of basketball ops just showed up on Rich Paul's podcast.\n\nPhiladelphia is not playing games in the LeBron sweepstakes.\n\nCavs still lead. Heat still in. But Philly is making moves.\n\n#LeBronJames #NBA",
+          "posting_time": "11:00 AM, 1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#LeBronJames",
+            "#NBA"
+          ],
+          "char_count": 220
+        },
+        {
+          "label": "Post 2-2",
+          "text": "LeBron James. 41 years old. 27 teams called. Three teams left.\n\nCleveland. Miami. Philadelphia.\n\nThe decision is coming. Which jersey does he put on?\n\n#LeBronJames #NBA",
+          "posting_time": "11:00 AM, 1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#LeBronJames",
+            "#NBA"
+          ],
+          "char_count": 168
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM, 1:00 PM"
+      },
+      "article": {
+        "filename": "article-02-lebron-james-76ers-brown-free-agency.html",
+        "headline": "The Sixers Are Making Their LeBron Pitch — And Philadelphia Is Playing Smart",
+        "word_count": 542
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Kawhi Leonard Trade Still Frozen — Clippers Say They Were \"Defrauded\"",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "1:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Kawhi Leonard's trade to the Raptors is still on ice.\n\nNew detail: The Clippers say Joe Sanberg — sentenced to 14 years in prison — defrauded them.\n\nNo timetable. Toronto is waiting.\n\n#NBA #Clippers",
+          "posting_time": "1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA",
+            "#Clippers"
+          ],
+          "char_count": 198
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM"
+      },
+      "article": {
+        "filename": "article-03-kawhi-leonard-trade-frozen-sanberg.html",
+        "headline": "Kawhi Leonard Trade Remains Frozen — Clippers Claim They Were Defrauded as Sanberg Gets 14 Years",
+        "word_count": 547
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Victor Oladipo's Comeback Pro Day in Vegas Today",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "4:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Victor Oladipo is holding a pro day in Las Vegas today.\n\nTwo-time All-Star. Brutal injury history. Still fighting to get back to the NBA.\n\nYou root for this guy every single time.\n\n#NBA",
+          "posting_time": "4:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA"
+          ],
+          "char_count": 185
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "4:00 PM"
+      },
+      "article": {
+        "filename": "article-04-victor-oladipo-pro-day-comeback.html",
+        "headline": "Victor Oladipo Holds Las Vegas Pro Day in Bid for NBA Comeback",
+        "word_count": 465
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Ace Bailey Back Spasms — Jazz's No. 5 Pick Uncertain for Rest of Summer League",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "7:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Jazz rookie Ace Bailey left Sunday's game at halftime with back spasms. His status for the rest of Summer League is uncertain.\n\nNo. 5 pick in the 2026 draft. Hoping this is nothing.\n\n#UtahJazz #NBATwitter",
+          "posting_time": "7:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#UtahJazz",
+            "#NBATwitter"
+          ],
+          "char_count": 204
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "7:00 PM"
+      },
+      "article": {
+        "filename": "article-05-ace-bailey-back-spasms-jazz.html",
+        "headline": "Ace Bailey Exits Summer League Game with Back Spasms, Status Uncertain for Jazz",
+        "word_count": 492
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

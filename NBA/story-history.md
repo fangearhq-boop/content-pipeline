@@ -4209,3 +4209,48 @@
 - **Key facts:** July 13 (PLAUSIBLE — from search summaries, not URL-confirmed): Celtics 87-75 Hornets (Dillon Mitchell 24 pts); Pistons 103-94 Cavaliers (Chaz Lanier 7 threes)
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Day 6 results; Dybantsa Game 3
+
+## 2026-07-14
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-14 | T1 | Hawks Go Perfect — Atlanta Rolls to 3-0 in Vegas Summer League | X, FB, Article | NEW |
+| 2026-07-14 | T1 | LeBron Watch — 76ers Making Their Move With Jaylen Brown | X, FB, Article | FOLLOW UP |
+| 2026-07-14 | T1 | Kawhi Leonard Trade Still Frozen — Clippers Say They Were "Defrauded" | X, FB, Article | FOLLOW UP |
+| 2026-07-14 | T2 | Victor Oladipo's Comeback Pro Day in Vegas Today | X, FB, Article | NEW |
+| 2026-07-14 | T2 | Ace Bailey Back Spasms — Jazz's No. 5 Pick Uncertain for Rest of Summer League | X, FB, Article | NEW |
+
+### STORY 1: Hawks Go Perfect — Atlanta Rolls to 3-0 in Summer League
+- **Tier:** 1
+- **Category:** NBA Summer League
+- **Key facts:** Hawks 102-90 Celtics (Kobe Johnson 30, Henri Veesar 20); Atlanta 3-0 undefeated; Day 6 also: Knicks 86-75 Pistons (Lanier 24 pts/8-for-12 from three); Mavs 96-88 Grizzlies (Boozer 21/8/3 for MEM, Akobundu-Ehiogu 16/2blk DAL); Raptors 94-93 Pacers (Lundy 22 game-winner; Mast 23/10 for IND)
+- **Status:** NEW
+- **Follow-up ideas:** Hawks Summer League championship run; Atlanta's prospects update
+
+### STORY 2: LeBron Watch — 76ers Making Their Move
+- **Tier:** 1
+- **Category:** NBA Free Agency / LeBron James
+- **Key facts:** LeBron top three unchanged: Cavs first, Heat second, 76ers third; Bob Myers on Rich Paul's "Game Over" podcast; 76ers acquired Jaylen Brown from Celtics; Rich Paul spoke to 27 teams; LeBron 41; no timeline; mid-July window realistic
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** LeBron signs; team announcement; press conference
+
+### STORY 3: Kawhi Leonard Trade Still Frozen — Sanberg 14 Years
+- **Tier:** 1
+- **Category:** NBA Trades / Investigation
+- **Key facts:** Trade agreed June 30 (Kawhi to Toronto for Ingram+Dick+picks); $28M Aspiration endorsement under probe; Clippers say Joe Sanberg defrauded them; Sanberg convicted/sentenced 14 years prison; Clippers cooperated (dozens of interviews/tens of thousands of docs); NBA told Raptors "assume the risk"; no timetable; Ballmer $60M personal investment in Aspiration
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Investigation concludes; trade completes or collapses
+
+### STORY 4: Victor Oladipo Pro Day
+- **Tier:** 2
+- **Category:** NBA Free Agency / Comeback
+- **Key facts:** Former 2x All-Star holding Las Vegas pro day on July 14; long injury history (quad rupture 2019, knee issues); seeking NBA roster spot; specific team interest not confirmed
+- **Status:** NEW
+- **Follow-up ideas:** Team signs Oladipo; workout results; training camp roster spot
+
+### STORY 5: Ace Bailey Back Spasms
+- **Tier:** 2
+- **Category:** NBA Summer League / Player Health
+- **Key facts:** Bailey (Utah Jazz No. 5 pick 2026) left July 12 game at halftime with back spasms; visibly stiff; did not return; status uncertain for remaining Summer League; no official Jazz statement
+- **Status:** NEW
+- **Follow-up ideas:** Bailey cleared to return; Jazz update; regular season readiness

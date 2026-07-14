@@ -1,10 +1,21 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Last Run
-- **Date**: 2026-07-13
+- **Date**: 2026-07-14
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-14
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce)
+- **PostPlanner exports:** hh-postplanner-2026-07-14.xlsx (7 posts) + hh-postplanner-tobi-2026-07-14.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-07-14/review-dashboard.html (22 items)
+- **Notes:** SUMMER LEAGUE DAY 6 / FREE AGENCY — Hawks 3-0 undefeated (Johnson 30/Veesar 20, beat Celtics 102-90); Day 6 also: Knicks 86-75 Pistons/Mavs 96-88 Grizzlies (Boozer 21/8)/Raptors 94-93 Pacers (Lundy game-winner); LeBron: Cavs/Heat/76ers final three, 76ers Bob Myers on Rich Paul podcast/Jaylen Brown acquired from Boston/no timeline; Kawhi trade frozen (Sanberg convicted 14 yrs prison, Clippers claim defrauded, no timetable); Victor Oladipo pro day in Vegas; Ace Bailey back spasms (Jazz No. 5 pick, halftime exit July 12, uncertain)
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-13
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
