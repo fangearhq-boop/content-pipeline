@@ -5,6 +5,62 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-14
+
+### STORY 1: Pete Crow-Armstrong — All-Star Stage Is His Tonight
+- **Angle:** FOLLOW UP — PCA All-Star coverage ongoing; new hook = game is TONIGHT at 7 PM CT on FOX; first-half fWAR milestone (6.0 WAR in ~96 games matches the best full Cubs seasons in franchise history); NL MVP frontrunner alongside Ohtani; reserve outfielder this year (starter in 2025)
+- **Tier:** 1
+- **Content Produced:** X Text Posts (2 posts — 7:00 AM CT morning informative [6.0 WAR milestone], 5:00 PM CT evening bold [.385 since May 30, MVP take, game is tonight])
+- **Follow-Up Opportunities:**
+  - PCA All-Star Game result (game tonight July 14, 8 PM ET)
+  - PCA second-half MVP case entering Twins series
+  - HR, batting average milestones as season continues
+
+### STORY 2: Hoby Milner Emergency Appendectomy — 12th Cubs Pitcher on IL
+- **Angle:** NEW STORY — first coverage of Milner injury; emergency appendectomy Friday July 11 (Ubered to ER); 15-day IL with appendicitis; 4-6 weeks recovery (Craig Counsell confirmed); team-high 38 appearances, 3.53 ERA lost for the second half; Tyler Ferguson recalled from Iowa; 12th Cubs pitcher on IL (Yahoo Sports); resilience angle: Cubs still 54-42, No. 1 NL Wild Card
+- **Tier:** 1
+- **Content Produced:** X Text Posts (2 posts — 8:15 AM CT informative [injury details, 12th pitcher on IL, Ferguson recalled], 1:15 PM CT bold [resilience take, 12 pitchers IL and still Wild Card No. 1])
+- **Follow-Up Opportunities:**
+  - Milner return timeline (4-6 weeks = August return, may miss entire second-half stretch)
+  - Tyler Ferguson performance tracking
+  - Updated IL count if additional moves made
+
+### STORY 3: Jameson Taillon — Rotation Return Imminent for Twins Series Friday
+- **Angle:** FOLLOW UP — Taillon return arc (previously covered July 12 and July 13); new hook = second consecutive scoreless Iowa rehab start (4⅔ IP, 0 ER, 1H, 1BB, 3K); Counsell expects Taillon active for Twins series at Wrigley starting Friday July 17; Tigers series (July 20-22) as fallback
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT informative)
+- **Follow-Up Opportunities:**
+  - Official Taillon activation announcement (transaction wire)
+  - First start back vs. Twins or Tigers
+
+### STORY 4: Trade Deadline — Bullpen Now Equally Urgent, 20 Days to August 3
+- **Angle:** FOLLOW UP — trade deadline arc (previously covered July 13); new hook = Milner's appendectomy reshapes the bullpen calculus; 20 days to August 3; Joe Ryan less available (Twins in WC race); bullpen targets: Kyle Finnegan (Tigers), Salvador Fairbanks (Marlins); rotation targets: Detmers, Mize, Gray; Counsell: "pitching is the need"
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT bold/analysis)
+- **Follow-Up Opportunities:**
+  - Deadline activity week of July 21
+  - Any Cubs trade announcement before August 3
+
+### STORY 5: Wild Card No. 1 — Cubs Enter Second Half in the Driver's Seat
+- **Angle:** FOLLOW UP — wild card standings (previously covered July 13); new hook = second half starts in 3 days at Wrigley; 54-42, No. 1 NL Wild Card, one game up on Phillies (54-43), 2.5 up on Marlins (52-45); Cardinals series July 27-30 as first major second-half divisional gauntlet
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT informative)
+- **Follow-Up Opportunities:**
+  - Wild card standings update after break rivals play
+  - Twins series July 17-19 results
+  - Cardinals series July 27-30
+
+### STORY 6: Owen Ayers — Cubs' Catching Future Just Got a Lot Brighter
+- **Angle:** NEW STORY — first prospect feature on Ayers; 19th-round pick in 2024 draft; High-A: .373, 6 HR, 14 RBI in 43 AB before rapid promotion; Double-A Tennessee: .304/.417/.591, 16 HR, 48 RBI, 1.008 OPS in 65 games; June 2026: led Southern League in 9 statistical categories including .451 BA; switch-hitting catcher; Cubs No. 9 prospect
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT bold/feature)
+- **Follow-Up Opportunities:**
+  - Ayers continued Double-A tracking
+  - Possible Triple-A promotion timeline
+  - Cubs catching depth chart implications
+
+---
+
 ## 2026-07-13
 
 ### STORY 1: Cubs 4, Reds 1 — Boyd Dominates Series Finale
