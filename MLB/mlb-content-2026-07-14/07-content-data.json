@@ -1,0 +1,263 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-14",
+  "compiled_at": "2026-07-14T10:26:40.551201+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Jordan Walker Stuns Philadelphia — Wins 2026 Home Run Derby",
+      "tier": 1,
+      "status": "",
+      "angle": "Shock-value Derby win by a visitor at the loudest possible venue. Walker came back from what looked like a deficit with 4 straight final-ball HRs. First Cardinals Derby champion.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Jordan Walker. 4 final-ball home runs. Derby champion.\n\nCardinals 12, Phillies hometown crowd 0.\n\nSchwarber had the crowd. Walker had the bat.\n\nFinal: Walker 12, Schwarber 11. First Cardinal to ever win the Derby.\n\n#HomeRunDerby #MLB #STLCards",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HomeRunDerby",
+            "#MLB",
+            "#STLCards"
+          ],
+          "char_count": 243
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Walker was down. Schwarber had 11 HRs. The Philly crowd was already celebrating.\n\nThen Jordan Walker hit 4 consecutive final-ball home runs.\n\nCardinals 12, Phillies 11.\n\nThe 2026 Home Run Derby on Netflix was everything.\n\n#HomeRunDerby #MLB #STLCards",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HomeRunDerby",
+            "#MLB",
+            "#STLCards"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-jordan-walker-wins-home-run-derby.html",
+        "headline": "Jordan Walker Silences Philadelphia — Cardinals Outfielder Wins 2026 Home Run Derby",
+        "word_count": 539
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Jordan Walker Wins Home Run Derby\n\n#### Social Image (1080×1350 — 4:5 vertical)\n\n**Visual Description:** Jordan Walker at bat or in a celebratory pose — high swing, connecting on a drive, or arms raised after hitting a massive HR. Stadium atmosphere preferred.\n\n**Photo Search Terms:**\n- \"Jordan Walker Cardinals\"\n- \"Jordan Walker St. Louis Cardinals\"\n- \"Jordan Walker outfielder Cardinals\"\n\n**Text Overlay Copy:**\n- Headline: \"DERBY CHAMPION\"\n- Sub: \"Jordan Walker • Cardinals 12, Phillies 11\"\n- Brand: Ballpark Banter\n\n**Status:** not_started\n\n---\n\n#### Article Hero (1200×630 — 1.91:1 landscape)\n\n**Photo Search Terms:**\n- \"Jordan Walker Cardinals batting\"\n- \"Jordan Walker Cardinals swing\"\n\n**Text Overlay:** None\n\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Jordan Walker Home Run Derby\n**Facts (HIGH confidence):**\n- Jordan Walker (St. Louis Cardinals) won 2026 MLB Home Run Derby — CONFIRMED (MLB.com, CBS Sports, NBC, Yahoo Sports, multiple outlets)\n- Final score: Walker 12, Schwarber 11 — CONFIRMED\n- Walker hit 6 consecutive HRs to come back, including 4 on \"final ball\" swings — CONFIRMED (CBS Sports, Yahoo Sports)\n- Walker defeated Caminero 6-5 in semifinal — CONFIRMED\n- Schwarber defeated Contreras 9-8 in semifinal — CONFIRMED\n- First round: Harper eliminated with 8 HR (lost to Schwarber who had 10) — CONFIRMED (MLB.com, multiple)\n- First round advances: Contreras 13 HR, Caminero 12 HR, Schwarber 10 HR, Walker advanced — CONFIRMED\n- Caminero 491-ft HR longest of night — CONFIRMED\n- Walker: 24 years old, $799,400 salary, $1M prize — CONFIRMED (Redbirdrants, multiple)\n- First Cardinals player ever to win Home Run Derby — CONFIRMED (multiple sources)\n- Derby was on Netflix (debut) — CONFIRMED from prior pipeline\n- Derby semifinal: Walker stats — 10 HRs with 420+ feet each, longest 470 ft — CONFIRMED (prior search: \"ten of those traveled at least 420 feet, including a 470-foot home run\")\n- Walker average exit velocity 107 mph, hardest 115 mph — CONFIRMED\n- Harper hit 482-ft HR (longest of first round despite elimination) — CONFIRMED\n**Note:** Walker \"matched Contreras with 13 home runs in the semifinals\" may refer to first round stats per NBC Sports, not semis. Going with clear confirmed data: Walker defeated Caminero 6-5 in semis; beat Schwarber 12-11 in final.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "All-Star Game Tonight — The 96th at Citizens Bank Park, 8 PM ET FOX",
+      "tier": 1,
+      "status": "",
+      "angle": "Preview + storylines. Ohtani/Judge out. Verlander's farewell in his own home park (sort of). Schwarber lines up as DH the night after the Derby. Trout from 40 miles away.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "96th MLB All-Star Game. TONIGHT. 8 PM ET on FOX.\n\nCitizens Bank Park hosts its first-ever Midsummer Classic.\n\nTrout leads off for the AL. Schwarber leads off for the NL — 24 hours after the Derby.\n\nVerlander honored as a Legend. Ohtani and Judge are both out.\n\n#MLBAllStar #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLBAllStar",
+            "#MLB"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-all-star-game-preview-2026.html",
+        "headline": "2026 MLB All-Star Game Preview — Citizens Bank Park's First Midsummer Classic",
+        "word_count": 565
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "All-Star Game Tonight\n\n#### Social Image (1080×1350 — 4:5 vertical)\n\n**Visual Description:** Mike Trout in Angels uniform OR Citizens Bank Park exterior. Iconic player action shot or stadium establishing shot.\n\n**Photo Search Terms:**\n- \"Mike Trout Los Angeles Angels\"\n- \"Citizens Bank Park Philadelphia Phillies\"\n\n**Text Overlay Copy:**\n- Headline: \"ALL-STAR GAME TONIGHT\"\n- Sub: \"8 PM ET • FOX • Citizens Bank Park\"\n- Brand: Ballpark Banter\n\n**Status:** not_started\n\n---\n\n#### Article Hero (1200×630 — 1.91:1 landscape)\n\n**Photo Search Terms:**\n- \"Citizens Bank Park aerial\"\n- \"Citizens Bank Park exterior\"\n\n**Text Overlay:** None\n\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "All-Star Game Preview\n**Facts (HIGH confidence):**\n- 96th MLB All-Star Game, July 14, 2026, Citizens Bank Park, 8 PM ET, FOX — CONFIRMED\n- First All-Star Game at Citizens Bank Park (opened 2004) — CONFIRMED\n- USA 250 themed jerseys — CONFIRMED from prior pipeline\n- AL starters: C Langeliers (ATH), 1B Rice (NYY), 2B Clement (TOR), 3B Caminero (TB), SS Witt Jr. (KC), OF Trout/Greene/Bellinger, DH Alvarez — CONFIRMED (multiple)\n- NL starters: C Baldwin (ATL), 1B Freeman (LAD), 2B Albies (ATL), 3B Muncy (LAD), SS Abrams (WSH), OF Marsh/Soto/Pages, DH Schwarber — CONFIRMED\n- NL starter: Cristopher Sánchez (PHI) — CONFIRMED\n- Mike Trout leads off for AL, Schwarber leads off for NL — CONFIRMED (FOX Sports, Yahoo Sports)\n- Trout 12th All-Star, playing 40 miles from hometown (Millville NJ) — CONFIRMED (prior research)\n- Ohtani OUT (left knee irritation) — CONFIRMED\n- Judge OUT (fractured rib since May) — CONFIRMED\n- Managers: Dave Roberts (NL/LAD), John Schneider (AL/TOR) — CONFIRMED\n- Verlander honored as Legend Pick (10th selection, AL) — CONFIRMED\n- Brandon Marsh: .315 AVG, .871 OPS, 15 HR, first-time All-Star — CONFIRMED",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Justin Verlander — The Legend Who Won't Pitch, But Will Be Honored Tonight",
+      "tier": 1,
+      "status": "",
+      "angle": "Career tribute piece. The man who defined an era of AL dominance steps onto the Citizens Bank Park stage for the last time. He started in Detroit and he'll end in Detroit.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Justin Verlander won't pitch tonight. Hasn't thrown since March 30.\n\nBut he'll be at Citizens Bank Park for his 10th All-Star — this time as a Legend.\n\n3 Cy Youngs. 266 wins. 21 seasons. The last time on the stage.\n\n#Verlander #MLB #Tigers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Verlander",
+            "#MLB",
+            "#Tigers"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-verlander-legend-pick-final-all-star.html",
+        "headline": "Justin Verlander's Final All-Star — Three Cy Youngs, 21 Seasons, One Last Night on the Stage",
+        "word_count": 582
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Justin Verlander\n\n#### Social Image (1080×1350 — 4:5 vertical)\n\n**Visual Description:** Verlander in pitching motion — Detroit Tigers or Houston Astros uniform. Iconic stride and delivery. Career tribute energy.\n\n**Photo Search Terms:**\n- \"Justin Verlander Detroit Tigers\"\n- \"Justin Verlander pitcher\"\n- \"Justin Verlander Astros\"\n\n**Text Overlay Copy:**\n- Headline: \"A LEGEND'S FAREWELL\"\n- Sub: \"Justin Verlander • 3 Cy Youngs • 21 Seasons\"\n- Brand: Ballpark Banter\n\n**Status:** not_started\n\n---\n\n#### Article Hero (1200×630 — 1.91:1 landscape)\n\n**Photo Search Terms:**\n- \"Justin Verlander pitching Tigers\"\n- \"Justin Verlander Astros ace\"\n\n**Text Overlay:** None\n\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Justin Verlander\n**Facts (HIGH confidence):**\n- Verlander named 2026 AL Legend Pick by Commissioner Manfred — CONFIRMED (MLB.com, FOX Sports, Yahoo Sports)\n- 43 years old — CONFIRMED\n- On 60-day IL since early April (hip/hamstring), hasn't pitched since March 30 — CONFIRMED\n- Will attend All-Star Game but will NOT pitch — CONFIRMED\n- Retirement announced shortly after Legend Pick selection: 2026 is final season — CONFIRMED (FOX Sports)\n- Career: 266-159, 3.33 ERA, 3,554 Ks — CONFIRMED from prior pipeline research\n- 3 Cy Young Awards: 2011 (Detroit), 2019 (Houston), 2022 (Houston) — CONFIRMED\n- Unanimous 2011 AL MVP — CONFIRMED\n- 2 World Series rings (2017 Houston, 2022 Houston) — CONFIRMED from prior pipeline\n- 21 seasons — CONFIRMED\n- Quote: \"The opportunity to attend once again is something I'll cherish, and it will be an incredibly special moment for me and my family\" — CONFIRMED (Yahoo Sports)\n- Quote: \"I've realized that time has come\" — CONFIRMED from prior pipeline",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Tarik Skubal Tells Tigers to Be Buyers — The Ace Who Won't Go Quietly",
+      "tier": 2,
+      "status": "",
+      "angle": "Skubal is the rare player who is trying to affect his own trade situation — not by demanding a trade, but by rallying his team to compete. With the Tigers hot, that message landed.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Tarik Skubal told the Detroit Tigers: be BUYERS.\n\nThe Tigers are 19-12 since June 1 — best record in MLB over that span. 4 games from a Wild Card.\n\nSkubal has zero appetite to be traded. He wants to win NOW.\n\nAugust 3 deadline. 20 days.\n\n#Tigers #MLB #Skubal",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tigers",
+            "#MLB",
+            "#Skubal"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-skubal-tigers-buyers-trade-deadline.html",
+        "headline": "Skubal Tells Tigers to Be Buyers — The Ace With Zero Appetite to Be Traded",
+        "word_count": 560
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Tarik Skubal\n\n#### Social Image (1080×1350 — 4:5 vertical)\n\n**Visual Description:** Skubal in mid-delivery, pitching motion, focused expression. Detroit Tigers uniform.\n\n**Photo Search Terms:**\n- \"Tarik Skubal Detroit Tigers\"\n- \"Tarik Skubal pitcher\"\n\n**Text Overlay Copy:**\n- Headline: \"BE BUYERS\"\n- Sub: \"Skubal Sends a Message • Tigers 19-12 Since June 1\"\n- Brand: Ballpark Banter\n\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Skubal Trade Deadline\n**Facts (HIGH confidence):**\n- Skubal publicly wants Tigers to be BUYERS at August 3 deadline — CONFIRMED (Yahoo Sports, SI, multiple)\n- \"Badly wants to stay in Detroit\" / \"zero appetite to be traded\" — CONFIRMED\n- Tigers: 19-12 record since June 1, best in MLB over that stretch — CONFIRMED\n- 4 games out of AL Wild Card — CONFIRMED\n- Two-time AL Cy Young: 2024 (unanimous, all 30 votes), 2025 (13-6, 2.21 ERA, 241 Ks) — CONFIRMED\n- Contract year, expected $400M+ FA ask — CONFIRMED\n- Extension talks \"nil\" — CONFIRMED\n- Yankees and Phillies early trade frontrunners — CONFIRMED from prior pipeline\n- August 3 deadline — CONFIRMED",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "AL Central Heading Into the Second Half — The White Sox and Their Improbable Lead",
+      "tier": 2,
+      "status": "",
+      "angle": "The second half begins tonight. The AL Central race is wide open, and the White Sox at 48-45 is still the most surprising sports story of 2026.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "AL Central second half starts tonight.\n\nLeading it: the Chicago White Sox at 48-45.\n\nOne year after going 41-121. One year. That's it.\n\nThe race is real. Guardians and Tigers right behind.\n\nSecond half begins now. #MLB #WhiteSox #ALCentral",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#WhiteSox",
+            "#ALCentral"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-white-sox-al-central-second-half.html",
+        "headline": "White Sox Lead the AL Central Into the Second Half — The Most Surprising Story in Baseball",
+        "word_count": 553
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "White Sox AL Central Lead\n\n#### Social Image (1080×1350 — 4:5 vertical)\n\n**Visual Description:** White Sox batter or pitcher in action — Guaranteed Rate Field atmosphere or game action. Energy of a team exceeding expectations.\n\n**Photo Search Terms:**\n- \"Chicago White Sox batter\"\n- \"Chicago White Sox pitcher 2026\"\n- \"White Sox Guaranteed Rate Field\"\n\n**Text Overlay Copy:**\n- Headline: \"AL CENTRAL LEADERS\"\n- Sub: \"White Sox 48-45 • From 41-121 to First Place\"\n- Brand: Ballpark Banter\n\n**Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "AL Central Second Half\n**Facts (HIGH confidence):**\n- White Sox 48-45, leading AL Central — CONFIRMED from prior pipeline (July 13 status)\n- White Sox 41-121 in 2024 — CONFIRMED\n- Second half begins after All-Star Game — CONFIRMED\n- Roch Cholowsky: No. 1 overall pick in 2026 Draft (UCLA SS) — CONFIRMED from prior pipeline\n- Guardians close behind in standings — CONFIRMED (prior pipeline research)\n- Tigers also in Wild Card hunt (4 games out with Skubal) — CONFIRMED",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

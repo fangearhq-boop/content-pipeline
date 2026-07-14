@@ -4502,3 +4502,62 @@ Each day's stories are appended at the top (newest first).
   - White Sox second-half AL Central race
   - Murakami Derby performance
   - White Sox trade deadline direction (buyers or sellers?)
+
+---
+
+## 2026-07-14
+
+### Story 1: Jordan Walker Wins 2026 Home Run Derby
+- **Date:** 2026-07-14
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Derby field confirmed July 12; Derby was July 13 on Netflix)
+- **Angle:** Cardinals outfielder Jordan Walker (24) defeated Schwarber 12-11 at Citizens Bank Park. First Cardinals player to win Home Run Derby. Down in final, rallied with 4 final-ball consecutive HRs. Caminero 491-ft HR longest of night (lost semis to Walker 6-5). Schwarber beat Contreras 9-8 in other semi. Harper eliminated first round (8 HR, lost to Schwarber 10). Walker wins $1M on $799,400 salary. First Derby on Netflix.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Walker regular season impact (Cardinals second half)
+  - Derby analysis and Netflix viewership numbers
+  - Caminero's 491-ft HR spotlight
+
+### Story 2: All-Star Game Tonight — 96th MLB ASG at CBP
+- **Date:** 2026-07-14
+- **Tier:** 1
+- **Classification:** FOLLOW UP (ASG tracked all week; game is tonight)
+- **Angle:** 96th MLB All-Star Game, 8PM ET FOX, Citizens Bank Park (first ever at CBP). AL starters: Trout leads off (12th selection, 40 mi from Millville NJ), Caminero (3B), Alvarez (DH). NL starters: Schwarber leads off as DH (Derby runner-up night before), Freeman, Soto, Marsh (.315/.871/15 HR), Baldwin (C). NL SP: Cristopher Sánchez. Ohtani OUT (left knee). Judge OUT (fractured rib). Verlander honored as Legend Pick. USA 250 jerseys.
+- **Content Produced:** Article (article-02, Jake Torres), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - All-Star Game results/highlights July 14
+  - Ohtani/Judge second-half injury updates
+  - Marsh breakout performance recognition
+
+### Story 3: Verlander — Legend Pick's Final All-Star Night
+- **Date:** 2026-07-14
+- **Tier:** 1
+- **Classification:** FOLLOW UP (retirement announced July 8; tonight is Legend Pick honor at ASG)
+- **Angle:** 43 years old, 60-day IL (hip/hamstring), hasn't pitched since March 30. Honored as AL Legend Pick at ASG tonight. Quote: "The opportunity to attend once again is something I'll cherish." Career: 266-159/3.33 ERA/3,554 Ks/3 Cy Youngs (2011/2019/2022)/unanimous 2011 MVP/21 seasons/2 WS rings. Started and ends with Detroit Tigers. HOF eligibility 2031.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post (fixed from 302→242 chars), FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Verlander's final stats for 2026 season
+  - Hall of Fame case/eligibility 2031
+  - Tigers 2027 pitching direction
+
+### Story 4: Tarik Skubal — Zero Appetite to Be Traded, Tigers Should Be Buyers
+- **Date:** 2026-07-14
+- **Tier:** 2
+- **Classification:** FOLLOW UP (trade rumors tracked since June; Skubal public stance now documented)
+- **Angle:** Skubal wants Tigers to be BUYERS. Tigers 19-12 since June 1 (best MLB). 4 games from Wild Card. "Zero appetite to be traded." Contract year — expected $400M+ FA. Extension talks "nil." Yankees/Phillies frontrunners if traded. August 3 deadline (20 days).
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, Image concept
+- **Follow-Up Opportunities:**
+  - Trade announcement or extension news (before Aug 3)
+  - Tigers second-half performance
+  - FA market for Skubal if he walks
+
+### Story 5: White Sox Lead AL Central Into Second Half
+- **Date:** 2026-07-14
+- **Tier:** 2
+- **Classification:** FOLLOW UP (White Sox AL Central lead tracked since July 8; second half starts tonight)
+- **Angle:** White Sox 48-45, leading AL Central. From 41-121 in 2024 to division leaders in 2026. Guardians/Tigers chasing. Roch Cholowsky (No.1 pick) in minors. Second half begins tonight after ASG. If White Sox hold on: one of sport's great single-season turnarounds.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, Image concept
+- **Follow-Up Opportunities:**
+  - AL Central race weekly standings updates
+  - White Sox trade deadline direction (buyers or sellers?)
+  - Cholowsky timeline to majors

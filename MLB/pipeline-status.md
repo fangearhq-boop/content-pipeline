@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-07-14
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via agent, 8 searches), brief (5 stories), research notes, story analysis, X posts (6; 1 char violation fixed S3T1 302→242; 0 violations after fix), FB posts (5 stories), image concepts (9 items), image manifest (9 items, not_started), articles (5), fact-check (28 claims HIGH, 0 char violations after fix), compile (5 stories, 6 tweets, 5 articles, 21 items), dashboard (21 items), dashboard publish 403 (proxy). PostPlanner exports (6 posts standard + 6 TOBI posts). WordPress 403 (proxy sandbox — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected — proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard publish 403 (proxy blocks content-dashboards — known). IMAGE MISSING expected (not_started). 1 char violation fixed (S3T1 Verlander tweet 302→242). claim-patterns.py missing (known). PostPlanner FB 0 posts (format — known).
+- **Key Stories**: Jordan Walker wins 2026 Home Run Derby/beats Schwarber 12-11/4 final-ball HRs/first Cardinals Derby winner/24yo $799K salary wins $1M/Harper eliminated R1 (8 HR)/Caminero 491-ft semi HR/Netflix debut (Tier 1 FOLLOW UP), All-Star Game TONIGHT 8PM ET FOX Citizens Bank Park/96th ASG first at CBP/Trout leads off AL (12th ASG 40mi from hometown)/Schwarber leads off NL DH (Derby runner-up)/Sánchez NL SP/Ohtani+Judge OUT/Verlander Legend Pick (Tier 1 FOLLOW UP), Verlander Legend Pick farewell tonight/43yo/60-day IL/hasn't pitched since March 30/3 Cy Youngs/266 wins/21 seasons/"The opportunity to cherish"/HOF 2031 (Tier 1 FOLLOW UP), Skubal "zero appetite to be traded"/wants Tigers BUYERS/Tigers 19-12 since June 1 best MLB/4 games Wild Card/contract year $400M+ FA/August 3 deadline 20 days (Tier 2 FOLLOW UP), White Sox 48-45 lead AL Central/from 41-121 in 2024/Guardians+Tigers chasing/second half starts tonight (Tier 2 FOLLOW UP)
+
+## Last Run
 - **Date**: 2026-07-13
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via agent, 12 searches), brief (5 stories; format corrected to ### STORY N: with Today's Top Stories header), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (10 items), image manifest (10 items, not_started), articles (5), fact-check (14 claims HIGH, 0 char violations), compile (5 stories, 7 tweets, 5 articles, 22 items), dashboard (22 items), dashboard publish 403 (proxy). PostPlanner exports (7 posts standard + 7 TOBI posts). WordPress 403 (proxy sandbox — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected — proxy known restriction).
