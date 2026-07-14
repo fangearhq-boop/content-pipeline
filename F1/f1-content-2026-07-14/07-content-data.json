@@ -1,0 +1,294 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-14",
+  "compiled_at": "2026-07-14T11:32:33.670188+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Belgian GP Race Week Begins — Spa Braces for Wet Qualifying Weekend",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "8:00 AM, 10:00 AM",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Belgian GP week is HERE.\n\nFP1: Friday 7:30AM ET\nQualifying: Saturday 10AM ET\nRace: Sunday 9AM ET\n\nAntonelli leads 179-154 over Russell. Hamilton 32 pts back.\n\nThree-way championship fight. At Spa. In the rain. Buckle up.\n\n#F1 #BelgianGP",
+          "posting_time": "8:00 AM, 10:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BelgianGP"
+          ],
+          "char_count": 236
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Championship standings heading into the Belgian GP:\n\nNo. 1 Antonelli — 179 pts\nNo. 2 Russell — 154 pts (-25)\nNo. 3 Hamilton — 147 pts (-32)\nNo. 4 Leclerc — ~108 pts\n\nTwo races before the summer break. Everything is still on.\n\n#F1 #BelgianGP",
+          "posting_time": "8:00 AM, 10:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BelgianGP"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM, 10:00 AM"
+      },
+      "article": {
+        "filename": "article-01-belgian-gp-race-week-preview.html",
+        "headline": "Belgian GP Race Week Preview: Schedule, Championship Stakes, and Why Rain Changes Everything at Spa",
+        "word_count": 522
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Verstappen Exit Clause — Formal Activation Window Closes After Hungary",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "10:00 AM, 12:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Max Verstappen has 13 days to formally activate his Red Bull exit clause.\n\nThe deadline: the day after the Hungarian GP.\n\nThe math: already done. He cannot reach P2 before the break.\n\nWhat does he do? McLaren? Retirement? The paddock is watching.\n\n#F1 #Verstappen",
+          "posting_time": "10:00 AM, 12:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Verstappen"
+          ],
+          "char_count": 263
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Red Bull gave Max Verstappen a contract. They included an exit clause.\n\nNow the clause is active. The deadline is July 28.\n\nMcLaren says no talks. Multiple sources say \"closing stages.\"\n\nOne of these is lying.\n\n#F1 #Verstappen",
+          "posting_time": "10:00 AM, 12:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Verstappen"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 AM, 12:00 PM"
+      },
+      "article": {
+        "filename": "article-02-verstappen-exit-clause-13-days.html",
+        "headline": "Verstappen's Exit Clause Is Active — 13 Days Remain Before the Formal Deadline",
+        "word_count": 510
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Hamilton's Ferrari 2027 Extension Confirmed — Vasseur Says \"Yes\"",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Fred Vasseur was asked if Lewis Hamilton will stay at Ferrari in 2027.\n\nHis answer: \"Yes.\"\n\nThat's it. That's the tweet.\n\nHamilton + Leclerc at Ferrari for 2027. The lineup is set.\n\n#F1 #LewisHamilton #Ferrari",
+          "posting_time": "12:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#LewisHamilton",
+            "#Ferrari"
+          ],
+          "char_count": 209
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:00 PM"
+      },
+      "article": {
+        "filename": "article-03-hamilton-ferrari-2027-vasseur-confirmed.html",
+        "headline": "Lewis Hamilton Staying at Ferrari in 2027 — Fred Vasseur Gives the One-Word Answer That Changes Everything",
+        "word_count": 495
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Spa Weather — Wet Qualifying on the Cards for Saturday",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "2:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Belgian GP qualifying: 65% chance of rain.\n\nThe track that Hamilton has won 6 times. The track Antonelli finished P16 at last year.\n\nA wet Saturday in Spa could reshape the entire championship picture.\n\n#F1 #BelgianGP",
+          "posting_time": "2:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BelgianGP"
+          ],
+          "char_count": 217
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "2:00 PM"
+      },
+      "article": {
+        "filename": "article-04-spa-rain-qualifying-championship.html",
+        "headline": "Spa Weather Watch: 65% Rain for Belgian GP Qualifying Could Scramble the Championship Picture",
+        "word_count": 468
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Antonelli's Spa Redemption Arc — Worst Weekend Becomes Championship Decider",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "At Spa 2025, Kimi Antonelli was knocked out in Q1 and finished P16.\n\nThis weekend at Spa 2026, he arrives as F1 championship leader.\n\nSame track. Different driver. Can he exorcise his demons?\n\n#F1 #BelgianGP #Antonelli",
+          "posting_time": "5:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BelgianGP",
+            "#Antonelli"
+          ],
+          "char_count": 218
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:00 PM"
+      },
+      "article": {
+        "filename": "article-05-antonelli-spa-redemption-2026.html",
+        "headline": "From P16 to Championship Leader: Kimi Antonelli Returns to Spa for His Biggest Test Yet",
+        "word_count": 514
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 8
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

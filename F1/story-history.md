@@ -3993,3 +3993,48 @@
 - **Key facts:** Brown denied deal; Sportbible "closing stages" July 7 (unnamed team); Piastri exit clause rumored; Lambiase to McLaren by 2028; Yahoo Sports: retirement "increasingly likely"; Verstappen: current driving style "not mentally doable"; FIA 60/40 from 2027 but teams objecting; formal decision by October
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Verstappen announcement; McLaren confirms/denies; retirement decision
+
+## 2026-07-14
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-14 | T1 | Belgian GP Race Week Begins — Spa Schedule, Championship Stakes, Rain Forecast | X, FB, Article | FOLLOW UP |
+| 2026-07-14 | T1 | Verstappen Exit Clause — 13 Days to Formal Activation Deadline After Hungary | X, FB, Article | FOLLOW UP |
+| 2026-07-14 | T1 | Hamilton Ferrari 2027 Confirmed — Vasseur Says "Yes" to Corriere della Sera | X, FB, Article | NEW |
+| 2026-07-14 | T2 | Spa Weather — 65% Rain for Saturday Qualifying Could Scramble Championship | X, FB, Article | FOLLOW UP |
+| 2026-07-14 | T2 | Antonelli Spa Redemption Arc — P16 in 2025, Championship Leader in 2026 | X, FB, Article | NEW |
+
+### STORY 1: Belgian GP Race Week Preview
+- **Tier:** 1
+- **Category:** F1 Race Preview / Belgian GP
+- **Key facts:** Round 12 at Spa July 17-19; 7.004km/44 laps; FP1 Fri 7:30AM ET / Qual Sat 10AM ET / Race Sun 9AM ET; championship: Antonelli 179/Russell 154/Hamilton 147/Leclerc ~108; Mercedes constructors 333pts/Ferrari 255pts; last two races before summer break
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Belgian GP qualifying results; race result; championship shift
+
+### STORY 2: Verstappen Exit Clause — 13 Days
+- **Tier:** 1
+- **Category:** F1 Driver Market / Verstappen / Red Bull
+- **Key facts:** Verstappen P7/76pts; Russell P2/154pts; gap 78pts; max available B+H=50pts; cannot reach P2; clause active; formal deadline day after Hungarian GP (~July 27-28); Verstappen-McLaren "closing stages" (medium confidence); Brown denied; Piastri through 2028
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Formal clause activation announcement; McLaren deal or retirement decision
+
+### STORY 3: Hamilton Ferrari 2027 Confirmed
+- **Tier:** 1
+- **Category:** F1 Driver Contracts / Hamilton / Ferrari
+- **Key facts:** Vasseur said "Yes" to Corriere della Sera re: Hamilton 2027; Hamilton holds 2027 option; previous Vasseur response at Silverstone was non-committal; Hamilton P3/147pts; won Barcelona; 6 Spa wins; Leclerc extended through 2028+; Ferrari 2027: Hamilton + Leclerc confirmed
+- **Status:** NEW
+- **Follow-up ideas:** Official Ferrari announcement; 2027 grid shape finalized
+
+### STORY 4: Spa Weather — Wet Qualifying
+- **Tier:** 2
+- **Category:** Belgian GP / Weather
+- **Key facts:** Sat qualifying 65% rain; Fri 31%; Sun 20%; 23-25°C all days; NW winds; Hamilton 6 Spa wins/wet-weather record; Antonelli P16 Spa 2025 (qualifying issues)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Qualifying results; wet race strategy; pole surprise
+
+### STORY 5: Antonelli Spa Redemption Arc
+- **Tier:** 2
+- **Category:** F1 Feature / Antonelli / Belgian GP
+- **Key facts:** Antonelli 2025 Spa: SQ1 eliminated/P17 Sprint/Q1 eliminated/P16 GP; 2026: championship leader 179pts/5 wins/5 poles/7 podiums; lead trimmed to 25pts at Silverstone; Spa remains worst circuit; rain forecast adds pressure
+- **Status:** NEW
+- **Follow-up ideas:** Antonelli qualifying result at Spa; race performance
