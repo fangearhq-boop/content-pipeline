@@ -1,0 +1,282 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-14",
+  "compiled_at": "2026-07-14T12:44:59.502797+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "S1: FOSI AI Use Gap Study",
+      "type": "X, FB, Article"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "S2: Social Media Safety Features Fail",
+      "type": "X, FB, Article"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "S3: COS Splash Pads Guide 2026",
+      "type": "X, FB, Article"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "S4: PPLD Summer Adventure — 17 Days Left",
+      "type": "X, FB, Article"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "S5: Musical Mondays at Monument Valley Park",
+      "type": "X, FB, Article"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "FOSI Study — Parents Underestimate Kids' AI Use",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "New survey: 38% of kids used AI in the past week.\n\nOnly 27% of their parents think so.\n\nThat 11-point gap is the key finding from a 4,000-family study published this week. Worth a conversation tonight. 🤔\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 264
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The AI gap is widest — but not the only one.\n\nKids vs. parents this week:\nScrolling social media: 54% vs. 46%\nPosting on social media: 38% vs. 30%\nUsing AI tools: 38% vs. 27%\n\nIs there a gap in your household?\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-fosi-study-parents-underestimate-kids-ai-use.html",
+        "headline": "Your Kid Probably Used AI This Week. You Might Not Know It.",
+        "word_count": 782
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Social Media Safety Features Study — Fewer Than Half Work",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Researchers tested 86 child safety features on TikTok, Instagram, Snapchat, and YouTube.\n\n35 of them worked.\n\nEvery platform failed more than half its own safety claims.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 230
+        },
+        {
+          "label": "Post 2-2",
+          "text": "NYU + Northeastern on social media child safety features:\n\n\"We have found systemic issues with the design and implementation of many of these features.\"\n\nPlatform controls aren't enough. Time for a different approach.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-social-media-safety-features-fail-nyu-northeastern.html",
+        "headline": "Researchers Tested 86 Social Media Safety Features for Kids. Fewer Than Half Worked.",
+        "word_count": 809
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "COS Splash Pads 2026 — What's Open and What's Not",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Heads up COS parents: Julie Penrose Fountain is NOT open this summer.\n\nThe 4 free splash pads that ARE:\n• Briargate\n• Watering Hole at Venezia Park\n• Deerfield Hills Spray Ground\n• Uncle Wilber Fountain\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 263
+        },
+        {
+          "label": "Post 3-2",
+          "text": "COS splash pads — free through Labor Day:\n\nBriargate: sessions 10 AM, 12:30, 3, 4:30 PM\nVenezia Watering Hole: 10 AM–6 PM\nDeerfield Hills: sessions 10 AM–5 PM\nUncle Wilber: drop-in 12–6 PM\n\n☀️ All free, no tickets\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-cos-splash-pads-guide-2026.html",
+        "headline": "COS Splash Pads 2026: 4 Free Sites Open Now (and One That's Closed)",
+        "word_count": 754
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "PPLD Summer Adventure — 17 Days Left",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "PPLD Summer Adventure ends July 31.\n\n17 days left to register and win prizes — including a night at The Broadmoor Cloud Camp.\n\nAny age. Free. ppld.org/summer or any library branch.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 241
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-ppld-summer-adventure-17-days-left.html",
+        "headline": "PPLD Summer Adventure Ends July 31 — 17 Days Left to Win Big Prizes",
+        "word_count": 605
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Musical Mondays at Monument Valley Park — Free",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Free outdoor concerts at Monument Valley Park every Monday in July.\n\nNext up: July 20, 6:30 PM — WireWood Station (Americana).\n\n30 W. Dale St. Food trucks on site. Parking tight — arrive early.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-musical-mondays-monument-valley-park-july-2026.html",
+        "headline": "Musical Mondays at Monument Valley Park: Free Outdoor Concerts Every Monday in July",
+        "word_count": 679
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

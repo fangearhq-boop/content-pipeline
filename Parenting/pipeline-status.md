@@ -1,6 +1,44 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: July 13, 2026
+## Latest Run: July 14, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | FOSI study July 9, 2026 (4,000+ families; 38% kids vs. 27% parents on AI use; 11-pt gap; fosi.org); NYU + Northeastern social media safety study June 29, 2026 (86 features tested across TikTok/Instagram/Snapchat/YouTube; 35 worked; "systemic issues"; no platform passed majority of own claims); COS splash pads 2026 (Julie Penrose Fountain NOT operating — budget adjustment; 4 active free sites: Briargate sessions 10/12:30/3/4:30 PM, Venezia Watering Hole 10 AM–6 PM open flow 12+ water elements accessible playground, Deerfield Hills sessions 10 AM–5 PM 16 features 50+ nozzles, Uncle Wilber drop-in 12–6 PM; all through Labor Day Sept 7); PPLD Summer Adventure (ends July 31; 17 days left; free any age; reading/creating/exploring; Beanstack app ppld.beanstack.org/reader365; 14 branches + 2 bookmobiles; grand prize Broadmoor Cloud Camp one-night stay; D11 free lunches East Library weekdays through July 31; ppld.org/summer); Musical Mondays at Monument Valley Park (30 W. Dale St.; every Monday in July 6:30 PM; July 20 WireWood Station Americana; July 27 final; free all ages no tickets; food trucks; parking limited due to road construction) |
+| Story History Check | COMPLETE | S1 (FOSI AI gap) NEW; S2 (Social Media Safety Features) NEW; S3 (COS Splash Pads) NEW — different angle from any prior splash pad coverage; S4 (PPLD Summer Adventure) NEW; S5 (Musical Mondays) NEW |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2); ### STORY N: format |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; all facts from web search |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Jamie Rivera (S1, S3, S4), Sarah Morales (S2, S5) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 8 posts (S1:2, S2:2, S3:2, S4:1, S5:1); all verified ≤280 chars (rewritten after first pass had all 8 over limit); 4 hashtags each; COS voice |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; NO hashtags; COS voice rules |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts; S1: child at laptop morning light; S2: smartphone social media interface; S3: kids at city splash pad; S4: child reading in library; S5: family at outdoor park concert; all "clean bottom third" |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 5 stories × 3 image types (x_image + facebook_image + article_hero); all not_started; photo_source: gemini; model: gemini-2.5-flash-image; brand_kit_id: kAHCKfCZgk0 |
+| Articles | COMPLETE | 5 articles (500–900 words; Quick Reference table in S3; What's Next sections; 0 exclamation marks; no figure tags; no photo credits; semantic HTML5); bylines: Jamie Rivera (A1, A3, A4), Sarah Morales (A2, A5) |
+| Fact-Check | COMPLETE | verify-facts.py passed (second run, after tweet rewrite); 54 claims; HIGH: 117, MEDIUM: 35, LOW: 5; all 5 stories present in all content files |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 5 articles; 18 dashboard items |
+| Dashboard | COMPLETE | review-dashboard.html — 18 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-07-14.xlsx (8 posts, 13:15–20:50 MT) + TOBI cosp-postplanner-tobi-2026-07-14.xlsx (8 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-07-14)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 5 FB long-form + 5 FB captions = 18 total posts (PostPlanner xlsx: 8 posts 13:15–20:50 MT, 8 TOBI)
+- **Articles:** 5 (bylines: Jamie Rivera x3 [A1, A3, A4], Sarah Morales x2 [A2, A5])
+- **PostPlanner exports:** cosp-postplanner-2026-07-14.xlsx (8 posts, 13:15–20:50 MT), cosp-postplanner-tobi-2026-07-14.xlsx (8 TOBI posts)
+- **Coverage:** FOSI study July 9 2026 (4,000+ families; 38% kids vs. 27% parents AI use; 11-pt gap; scrolling social 54% vs 46%; posting social 38% vs 30%; fosi.org); NYU + Northeastern social media safety features June 29 2026 (86 features tested TikTok/Instagram/Snapchat/YouTube; 35 worked; "systemic issues with design and implementation"; no platform passed majority of own claims); COS Splash Pads 2026 Guide (Julie Penrose Fountain NOT operating — budget; 4 free active sites: Briargate sessions 10/12:30/3/4:30 PM, Venezia Watering Hole 10 AM–6 PM open flow 12+ elements accessible playground, Deerfield Hills sessions 10 AM–5 PM 16 features 50+ nozzles, Uncle Wilber drop-in 12–6 PM; all free through Labor Day Sept 7; Quick Reference table in article); PPLD Summer Adventure 17 days left (ends July 31; free any age; reading/creating/exploring; Beanstack ppld.beanstack.org/reader365; 14 branches + 2 bookmobiles; grand prize Broadmoor Cloud Camp one-night stay for two; Pikes Peak Region Attractions VIP Pass; D11 free lunches East Library weekdays through July 31; ppld.org/summer; (719) 531-6333); Musical Mondays Monument Valley Park (30 W. Dale St.; every Monday July 6:30 PM; July 20 WireWood Station Americana; July 27 final; free all ages no tickets; food trucks on site; parking limited road construction; bike racks available)
+- **Notes:**
+  - Ran as Niche 2 in sequence after Tennis niche (session resumed from context compaction)
+  - X tweets: all 8 rewritten after first verify-facts.py run detected all 8 over 280 chars; second run passed clean
+  - verify-facts.py: all 5 stories present in all content files; image not_started warnings cosmetic (expected for gemini source — same as all prior Parenting runs)
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Jamie Rivera [A1, A3, A4], Sarah Morales [A2, A5] (rotating from July 13's Sarah Morales [A1, A3, A5])
+
+---
+
+## Prior Run: July 13, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|

@@ -2,6 +2,45 @@
 
 ---
 
+## July 14, 2026
+
+### Story 1: FOSI Study — Parents Underestimate Kids' AI Use
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — FOSI (Family Online Safety Institute) published a survey July 9, 2026, of 4,000+ US families. Key finding: 38% of kids say they used AI tools in the past week; only 27% of their parents believe their child did so — an 11-point gap. Additional gap data: scrolling social media 54% vs. 46%; posting on social media 38% vs. 30%. Article focuses on practical awareness and household conversation starters.
+- **Content Produced:** Article (Jamie Rivera), 2 X Text Posts, Facebook Long-Form + Caption, Image Concepts (x3)
+- **Tier:** 1
+- **Key Facts:** FOSI July 9, 2026; 4,000+ US families; 38% kids vs. 27% parents on AI use (11-pt gap); scrolling social 54% vs. 46%; posting social 38% vs. 30%; fosi.org
+
+### Story 2: Social Media Safety Features — Fewer Than Half Work
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — NYU and Northeastern University researchers published a study June 29, 2026 testing 86 child safety features across TikTok, Instagram, Snapchat, and YouTube. Only 35 features (fewer than half) worked as intended. Researchers found "systemic issues with the design and implementation" of many features. No platform passed the majority of its own safety claims.
+- **Content Produced:** Article (Sarah Morales), 2 X Text Posts, Facebook Long-Form + Caption, Image Concepts (x3)
+- **Tier:** 1
+- **Key Facts:** NYU + Northeastern; June 29, 2026 publication; 86 features tested; 35 worked; TikTok/Instagram/Snapchat/YouTube; "systemic issues with design and implementation"
+
+### Story 3: COS Splash Pads 2026 Guide
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — Julie Penrose Fountain at America the Beautiful Park is not operating in 2026 (budget adjustments). Four other city-run splash pads are free and open through Labor Day (September 7, 2026): Briargate (sessions 10 AM/12:30/3/4:30 PM); Watering Hole at John Venezia Community Park (10 AM–6 PM, open flow, 12+ water elements, universally accessible playground); Deerfield Hills Spray Ground (sessions 10 AM–5 PM, 16 features/50+ nozzles); Uncle Wilber Fountain (drop-in 12–6 PM, central COS). Article includes Quick Reference table.
+- **Content Produced:** Article (Jamie Rivera), 2 X Text Posts, Facebook Long-Form + Caption, Image Concepts (x3)
+- **Tier:** 1
+- **Key Facts:** Julie Penrose Fountain NOT operating 2026; 4 active free sites; Briargate (sessions 10/12:30/3/4:30 PM); Venezia Watering Hole (10 AM–6 PM open, 12+ water elements, accessible playground); Deerfield Hills (sessions 10 AM–5 PM, 16 features/50+ nozzles); Uncle Wilber (drop-in 12–6 PM); all free, all through Labor Day Sept 7, 2026
+
+### Story 4: PPLD Summer Adventure — 17 Days Left
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Pikes Peak Library District's Summer Adventure ends July 31, 2026 — 17 days remaining. Free to join, any age. Tracks reading/creating/exploring via Beanstack app (ppld.beanstack.org/reader365) or in person at any of 14 PPLD branches or 2 bookmobiles. Grand prize: one-night stay for two at The Broadmoor Cloud Camp. Also: Pikes Peak Region Attractions VIP Access Pass, local gift cards, memberships. District 11 free lunches for kids at East Library on weekdays through July 31.
+- **Content Produced:** Article (Jamie Rivera), 1 X Text Post, Facebook Long-Form + Caption, Image Concepts (x3)
+- **Tier:** 2
+- **Key Facts:** PPLD Summer Adventure ends July 31, 2026; 17 days left; free; any age; reading/creating/exploring; Beanstack app ppld.beanstack.org/reader365; 14 branches + 2 bookmobiles; grand prize: Broadmoor Cloud Camp one-night stay for two; Pikes Peak Region Attractions VIP Pass; District 11 free lunches at East Library weekdays through July 31; ppld.org/summer; (719) 531-6333
+
+### Story 5: Musical Mondays at Monument Valley Park
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Free outdoor concert series every Monday evening in July at Monument Valley Park, 30 W. Dale St. Next concert: July 20, 6:30 PM — WireWood Station (Americana). Final concert July 27. Lawn seating (bring blanket/chairs), food trucks on site, no ticketing. Parking currently limited due to road construction — arrive early. Two concerts remain in the series.
+- **Content Produced:** Article (Sarah Morales), 1 X Text Post, Facebook Long-Form + Caption, Image Concepts (x3)
+- **Tier:** 2
+- **Key Facts:** Monument Valley Park, 30 W. Dale St.; every Monday in July, 6:30 PM; July 20: WireWood Station (Americana); July 27: final concert; free, all ages, no tickets; bring blanket or low chairs; food trucks on site; parking limited — road construction; bike racks available
+
+---
+
 ## July 13, 2026
 
 ### Story 1: Joyful Journeys Baby Lounger CPSC Warning — Company Out of Business
