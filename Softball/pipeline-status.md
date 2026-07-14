@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-07-14
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via agent, 6 searches), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations), FB posts (5 stories), image concepts (10 items), image manifest (9 items, not_started), articles (5), fact-check (71 claims), compile (5 stories, 6 tweets, 5 articles, 21 items), dashboard (21 items), PostPlanner exports (6 posts standard + 6 TOBI). WordPress 403 (proxy sandbox — known). Dashboard push 403 (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected — proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started). PostPlanner FB 0 posts (format — known). 0 char violations. AUSL Championship venue updated: now Rhoads Stadium Tuscaloosa AL July 26-28 (prior coverage said Davis Diamond College Station TX July 25-27 — corrected per current search).
+- **Key Stories**: Megan Grant ESPYs LAST DAY to vote today/ESPYs TOMORROW July 15 8PM ET ABC/42 HR 31-year record/competitors Garrett+Klæbo+Sawe (Tier 1 FOLLOW UP), AUSL Talons 14-6 clinch first postseason berth/Bandits 13-7 (7-game streak AUSL record) 1.5 back/6 games left/No.1 seed race/Championship July 26-28 Rhoads Stadium Tuscaloosa (Tier 1 FOLLOW UP), Blaze 3 Volts 1 July 13/McKenzie Clark HR 6th inning/Canady still searching consistency/6 games left (Tier 2 FOLLOW UP), PGF Nationals rosters locked/opens July 19 Great Park Irvine/18U+16U/Sept 1 Class of 2028 contact window 48 days (Tier 2 FOLLOW UP), Rachel Garcia MLBx MVP→AUSL final push/Volts outside playoff picture/6 games left/can she carry Citizens Bank Park energy to Tuscaloosa (Tier 2 FOLLOW UP)
+
+## Last Run
 - **Date**: 2026-07-13
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via agent), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (10 items), image manifest (10 items, not_started), articles (5), fact-check (63 claims), compile (5 stories, 7 tweets, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts standard + 6 TOBI). WordPress 403 (proxy sandbox — known). Dashboard push 403 (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected — proxy known restriction).

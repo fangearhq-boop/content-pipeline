@@ -4903,3 +4903,60 @@ _This file tracks every story covered, the angle used, content produced, and fol
   - Canady results tonight (ERA improvement? Win?)
   - Volts playoff positioning with 7 games to go
   - Canady vs Garcia dynamic through AUSL Championship
+
+---
+
+## 2026-07-14
+
+### Story 1: Megan Grant ESPYs — 1 Day Left to Vote
+- **Date:** 2026-07-14
+- **Tier:** 1
+- **Classification:** FOLLOW UP (daily countdown since July 4; today is penultimate voting day, ESPYs tomorrow July 15)
+- **Angle:** Last full day to vote at ESPN.com. Voting closes July 15, same night as the 34th ESPYs ceremony (8 PM ET, ABC + ESPN app). 42 HR NCAA record, surpassed Espinoza's 37 from 1995 (31-year record). Competitors: Myles Garrett, Klæbo, Sawe. Portland Cascade No. 4 pick; first-week 313-ft AUSL HR record.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - ESPYs results July 15 (did Grant win Best Record-Breaking Performance?)
+  - Grant AUSL second half stats with Cascade
+
+### Story 2: AUSL Standings — Utah Talons Clinch First Postseason Berth
+- **Date:** 2026-07-14
+- **Tier:** 1
+- **Classification:** FOLLOW UP (standings tracked since July 10; Talons become first team to officially clinch)
+- **Angle:** Utah Talons 14-6 clinched first AUSL postseason berth. Chicago Bandits 13-7 (7-game AUSL record streak), 1.5 games back. Portland Cascade 11-9 third. 6 games left. No. 1 seed gets direct bye to Championship Series. AUSL Championship: July 26-28, Rhoads Stadium, Tuscaloosa, Alabama (updated from prior "Davis Diamond, College Station").
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Daily standings tracking through July 20
+  - Does Bandits momentum carry them past Talons for No. 1 seed?
+  - AUSL Championship matchup preview
+
+### Story 3: NiJaree Canady — Blaze Defeat Volts 3-1
+- **Date:** 2026-07-14
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Canady comeback tracked since July 3; July 13 result: Blaze 3, Volts 1)
+- **Angle:** Blaze 3, Volts 1 (July 13, Husky Softball Stadium). Blaze led 2-0 through 3; Volts cut to 2-1 in 5th. McKenzie Clark solo HR in 6th sealed it. Canady first win July 10 (complete game, 6 Ks); one win didn't close the book. Volts outside playoff picture; 6 games left.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Volts results through July 20 — can they catch Cascade for 3rd seed?
+  - Canady ERA and win/loss through end of season
+
+### Story 4: PGF Nationals — Rosters Locked, Opens in 5 Days
+- **Date:** 2026-07-14
+- **Tier:** 2
+- **Classification:** FOLLOW UP (tracked since June 30; freeze passed July 13 11:59 PM PST)
+- **Angle:** Freeze passed last night. Rosters locked. PGF Week 1 opens July 19, Great Park Irvine CA. 18U/16U divisions. System maintenance July 13 10 PM – July 14 10 AM PST (effective deadline was 10 PM). September 1 = Class of 2028 contact window (48 days).
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, Image concept
+- **Follow-Up Opportunities:**
+  - PGF Nationals results July 19+
+  - Notable 18U/16U programs to watch
+  - September 1 recruiting window coverage
+
+### Story 5: Rachel Garcia — MLBx MVP to AUSL Final Push
+- **Date:** 2026-07-14
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Garcia MLBx MVP covered July 13; today focuses on AUSL second-half implications)
+- **Angle:** Garcia MLBx MVP (18 pts, walk-off HR, championship) was softball's biggest 2026 moment. But Volts lost 3-1 to Blaze same night. Now 6 games left, Volts outside playoff picture. Can Garcia's Citizens Bank Park level translate to a Tuscaloosa run?
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Volts win/loss through July 20 — Garcia's stats
+  - AUSL Championship push if Volts make it
+  - Garcia second-half pitching line
