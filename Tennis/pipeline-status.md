@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-07-13 |
-| Writing | Complete (all steps) | 2026-07-13 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 21 claims, 52 HIGH; image not_started warnings cosmetic/expected for imagn) | 2026-07-13 |
-| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 0 FB posts, 5 articles, 7 images) | 2026-07-13 |
-| Dashboard | Complete (review-dashboard.html, 22 items) | 2026-07-13 |
-| PostPlanner Export | Complete (standard 7 posts 12:55–20:37 ET; TOBI 7 posts) | 2026-07-13 |
-| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-07-13 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-07-13 |
+| Research | Complete | 2026-07-14 |
+| Writing | Complete (all steps) | 2026-07-14 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 26 claims, 64 HIGH; image not_started warnings cosmetic/expected for imagn) | 2026-07-14 |
+| Compile | Complete (07-content-data.json — 5 stories, 6 X posts, 0 FB posts, 5 articles, 5 images) | 2026-07-14 |
+| Dashboard | Complete (review-dashboard.html, 21 items) | 2026-07-14 |
+| PostPlanner Export | Complete (standard 6 posts 12:51–20:21 ET; TOBI 6 posts) | 2026-07-14 |
+| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-07-14 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-07-14 |
 
 ## Queue
 
@@ -24,6 +24,22 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-07-14 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (1 Tier 1, 4 Tier 2)
+- **Posts:** 6 X posts + 5 FB long-form + 5 FB captions = 16 total (PostPlanner xlsx: 6 posts 12:51–20:21 ET, 6 TOBI)
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Ryan Calloway [S2, S5], Marcus Cole [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-07-14.xlsx (6 posts), tfr-postplanner-tobi-2026-07-14.xlsx (6 TOBI posts)
+- **Coverage:** Post-Wimbledon ATP/WTA rankings: Sinner leads by 4,970 pts; Zverev overtook Alcaraz for No. 2 (first time); Alcaraz drops to No. 3; Fery rockets from No. 114 to No. 36 (+78 spots, career high, new British No. 1); Noskova rises to career-high No. 7 (was No. 12); Swiatek fell No. 3 to No. 8; Gauff up to No. 4; Muchova career-high No. 6. Noskova viral moment: post-Wimbledon presser quote "Let me get drunk" — 21-year-old champion, no media training, widely shared. Sinner post-Wimbledon plans: Canadian Open + Cincinnati targeted, no clay events; Coach Cahill quote: "The M1000 events are incredibly important." ATP clay swing underway: Bastad (Nordea Open, July 13-19) — Passaro [4] def. by qualifier Krumich 6-4, 6-3; Rublev top seed with R2 bye; Gstaad (Bublik defending) + Umag (Cobolli top seed) also began simultaneously. Berrettini chronic hip pain: withdrew from Gstaad AND Kitzbühel; eyes on Canadian Open August + US Open.
+- **Notes:**
+  - verify-facts.py: passed; 26 claims, 64 HIGH; image not_started warnings cosmetic (expected for imagn source)
+  - compile: 5 stories, 6 X posts, 0 FB posts (parser compatibility), 5 articles, 5 images; 21 dashboard items; posting window warnings cosmetic
+  - PostPlanner exports: standard (6 posts) and TOBI (6 posts) generated successfully; 12:51–20:21 ET
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Elena Voss [S1, S4], Ryan Calloway [S2, S5], Marcus Cole [S3] (rotating from July 13: Marcus Cole [S1, S4], Elena Voss [S2, S5], Ryan Calloway [S3])
+  - Story 3 tweet shortened to fix 290-char violation; re-verified passed
 
 ### 2026-07-13 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
