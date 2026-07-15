@@ -1,10 +1,21 @@
 # F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
-- **Date**: 2026-07-14
+- **Date**: 2026-07-15
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-15
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 8 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway)
+- **PostPlanner exports:** f1fr-postplanner-2026-07-15.xlsx (8 posts) + f1fr-postplanner-tobi-2026-07-15.xlsx (8 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-07-15/review-dashboard.html (23 items)
+- **Notes:** BELGIAN GP RACE WEEK (July 17-19 Spa) — Championship: Antonelli 179/Russell 154/Hamilton 147; Hamilton 32 pts back, Spa his best circuit; Verstappen-McLaren "closing stages" (multiple sources)/Red Bull €8M buyout refused/exit clause triggered; FIA thermal loophole rule change (mid-season two-temp measurement protocol/no retroactive penalties); Bortoleto P8 Silverstone (best result, Audi debut season)
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-14
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
@@ -15,42 +26,4 @@
 - **PostPlanner exports:** f1fr-postplanner-2026-07-14.xlsx (7 posts) + f1fr-postplanner-tobi-2026-07-14.xlsx (7 TOBI posts)
 - **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-07-14/review-dashboard.html (22 items)
 - **Notes:** BELGIAN GP RACE WEEK — Round 12 at Spa July 17-19 (FP1 Fri 7:30AM ET / Qual Sat 10AM ET / Race Sun 9AM ET / 65% rain Sat qualifying); championship: Antonelli 179/Russell 154/Hamilton 147; Verstappen exit clause mathematically active/13 days to Hungary deadline/McLaren "closing stages" (MEDIUM); Vasseur confirmed "Yes" to Hamilton 2027 at Ferrari (Corriere della Sera); Spa weather: 65% rain Sat/31% Fri/20% Sun; Antonelli worst circuit (P16 2025 Spa) vs championship leader 2026
-- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
-
-### 2026-07-13
-- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
-- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
-- **X Posts:** 7 written, all under 280 characters
-- **Facebook Posts:** 5 stories, long-form + caption each
-- **Articles:** 5 (pen names: Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss)
-- **PostPlanner exports:** f1fr-postplanner-2026-07-13.xlsx (7 posts) + f1fr-postplanner-tobi-2026-07-13.xlsx (7 TOBI posts)
-- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-07-13/review-dashboard.html (22 items)
-- **Notes:** BELGIAN GP RACE WEEK — Verstappen exit clause mathematically confirmed (P7/76pts vs Russell P2/154pts; max 50pts avail; formal activation by ~October); Belgian GP July 17-19 Spa 7.004km/44 laps (FP1 Fri 7:30AM ET / Qual Sat 10AM ET / Race Sun 9AM ET / thundery showers all weekend); Russell confirms 2027 Mercedes "100 percent" (performance clause met; closes Verstappen-Mercedes door); Hamilton 6 Spa wins/rain forecast/Ferrari; Verstappen-McLaren puzzle (Brown denied/Sportbible closing stages/Lambiase to McLaren/retirement increasingly cited)
-- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
-
-### 2026-07-12
-- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
-- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
-- **X Posts:** 7 written, all under 280 characters
-- **Facebook Posts:** 5 stories, long-form + caption each
-- **Articles:** 5 (pen names: Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway)
-- **PostPlanner exports:** f1fr-postplanner-2026-07-12.xlsx (7 posts) + f1fr-postplanner-tobi-2026-07-12.xlsx (7 TOBI posts)
-- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-07-12/review-dashboard.html (22 items)
-- **Notes:** F1 BELGIAN GP PREVIEW — Belgian GP Round 12 July 17-19 at Spa (rain all 3 days/7.004km/44 laps); championship Antonelli 179/Russell 154 (−25)/Hamilton 147 (−32)/Leclerc 108; Verstappen ~103 back/exit clause concern/Belgium+Hungary last 2 before summer break; Hamilton chasing 7th Spa win (most of any active driver/Ferrari now); Russell 2027 Mercedes contract hinges on performance clause
-- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
-
-### 2026-07-11
-- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
-- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
-- **X Posts:** 7 written, all under 280 characters
-- **Facebook Posts:** 5 stories, long-form + caption each
-- **Articles:** 5 (pen names: Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole)
-- **PostPlanner exports:** f1fr-postplanner-2026-07-11.xlsx (7 posts) + f1fr-postplanner-tobi-2026-07-11.xlsx (7 TOBI posts)
-- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-07-11/review-dashboard.html (22 items)
-- **Notes:** POST-BRITISH GP / PRE-BELGIUM — Leclerc wins British GP (Antonelli wheel failure P15, still leads 179-154); Verstappen exit clause incoming (P7, McLaren denies talks, Horner weekly calls); Belgian GP preview (Spa July 17-19, rain forecast); Russell 2027 performance clause; works vs customer gap (McLaren 154pts back despite same Mercedes engine)
-- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
-
-### 2026-07-08
-- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
-- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
 - **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue

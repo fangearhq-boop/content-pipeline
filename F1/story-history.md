@@ -4038,3 +4038,49 @@
 - **Key facts:** Antonelli 2025 Spa: SQ1 eliminated/P17 Sprint/Q1 eliminated/P16 GP; 2026: championship leader 179pts/5 wins/5 poles/7 podiums; lead trimmed to 25pts at Silverstone; Spa remains worst circuit; rain forecast adds pressure
 - **Status:** NEW
 - **Follow-up ideas:** Antonelli qualifying result at Spa; race performance
+
+## 2026-07-15
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-15 | T1 | Belgian GP Pre-Race Build-Up — Championship at Stake Under Spa's Skies | X, FB, Article | NEW |
+| 2026-07-15 | T1 | Hamilton's Title Math — 32 Points Behind With Spa Momentum on His Side | X, FB, Article | NEW |
+| 2026-07-15 | T1 | Verstappen-McLaren Talks in Closing Stages — Red Bull Exit Decision Due Before Hungary | X, FB, Article | FOLLOW UP |
+| 2026-07-15 | T2 | FIA Thermal Loophole — What the Mid-Season Engine Rule Change Really Means | X, FB, Article | NEW |
+| 2026-07-15 | T2 | Bortoleto and the Audi Story Nobody is Telling — P8 at Silverstone and Building | X, FB, Article | NEW |
+
+### STORY 1: Belgian GP Pre-Race Build-Up
+- **Tier:** 1
+- **Category:** Race Preview / Championship
+- **Key facts:** Round 10 at Spa-Francorchamps July 17-19; Antonelli 179/Russell 154/Hamilton 147; 50% rain Friday; last race before summer break; 44 laps
+- **Status:** NEW
+- **Follow-up ideas:** Belgian GP qualifying; race result; championship swing
+
+### STORY 2: Hamilton's Title Math
+- **Tier:** 1
+- **Category:** Championship / Hamilton Ferrari
+- **Key facts:** Hamilton P3 Silverstone; 32 points behind Antonelli; Hamilton 41 yrs old; Spa historically strong for Lewis; Antonelli wheel failure Silverstone
+- **Status:** NEW
+- **Follow-up ideas:** Hamilton Spa qualifying; race result; championship math update
+
+### STORY 3: Verstappen-McLaren Closing Stages
+- **Tier:** 1
+- **Category:** Driver Market / Verstappen
+- **Key facts:** Multiple paddock sources: "closing stages" negotiations; Red Bull €8M buyout refused; exit clause triggered (can't finish top-2 entering summer break); Verstappen 76 pts; must notify Red Bull by October; Norris through 2027/Piastri through 2028
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official announcement; McLaren lineup restructure; Red Bull replacement
+
+### STORY 4: FIA Thermal Loophole
+- **Tier:** 2
+- **Category:** Technical / Regulation
+- **Key facts:** 16:1 max compression ratio; original rules: ambient temp measurement only; allegation: thermal expansion raises ratio beyond limit on track; Mercedes/Red Bull flagged by rivals; FIA two-temp protocol from June 1 (ambient + 130°C); no retroactive penalties
+- **Status:** NEW
+- **Follow-up ideas:** FIA ruling; second-half season performance context; manufacturer responses
+
+### STORY 5: Bortoleto / Audi Rising
+- **Tier:** 2
+- **Category:** Rookie / New Manufacturer
+- **Key facts:** Bortoleto P8 at Silverstone (best result of season); 22 years old; Brazilian; Audi debut F1 season 2026; performing above expectations
+- **Status:** NEW
+- **Follow-up ideas:** Belgian GP result for Bortoleto; Audi season update; development plan
+

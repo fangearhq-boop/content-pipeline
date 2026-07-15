@@ -1,0 +1,271 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-15",
+  "compiled_at": "2026-07-15T11:26:42.912674+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Belgian GP Pre-Race Build-Up — Championship at Stake Under Spa's Skies",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM, 10:00 AM",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The Belgian Grand Prix is 4 days away.\n\nAntonelli leads by 25 points. Hamilton is 32 back. Verstappen is out of the title race but far from irrelevant.\n\nSpa is the last race before summer break.\n\nThis is the race that could define 2026. #F1 #BelgianGP",
+          "posting_time": "8:00 AM, 10:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BelgianGP"
+          ],
+          "char_count": 251
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Belgian GP weekend schedule:\n\n🇧🇪 FP1: Friday\n🇧🇪 Qualifying: Saturday\n🇧🇪 Race: Sunday\n\n50% rain chance Friday at Spa could scramble setup strategies heading into Saturday qualifying.\n\nLast race before summer break. Buckle up. #F1 #BelgianGP",
+          "posting_time": "8:00 AM, 10:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BelgianGP"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM, 10:00 AM"
+      },
+      "article": {
+        "filename": "article-01-belgian-gp-preview-championship-spa.html",
+        "headline": "Belgian GP Preview: Everything Is On the Line as F1's Three-Way Title Fight Arrives at Spa",
+        "word_count": 586
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Belgian GP Pre-Race Build-Up\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** Spa-Francorchamps Formula 1\n- **Usage:** Morning preview post X/FB\n- **Caption overlay:** \"SPA WEEKEND\" / \"Championship on the Line\"\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search term:** Spa-Francorchamps Formula 1\n- **Usage:** Article featured image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Belgian GP Pre-Race Build-Up\n**Key verified facts:**\n- Belgian GP, Round 10, Spa-Francorchamps, July 17-19, 2026 (HIGH — confirmed from F1 calendar)\n- FP1 Friday July 17, 13:30 local time (MEDIUM)\n- Qualifying Saturday July 18, 16:00 local time (MEDIUM)\n- Race Sunday July 19, 15:00 local time, 44 laps (MEDIUM)\n- 50% rain Friday, 10-20% Saturday/Sunday (MEDIUM — research weather)\n- Championship standings after Round 9 (British GP): Antonelli 179 / Russell 154 / Hamilton 147 / Leclerc 108 (MEDIUM — from research)\n- Last race before summer break (HIGH — standard F1 calendar fact)\n- Verstappen 76 pts, 103 pts off the lead (MEDIUM)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Hamilton's Title Math — 32 Points Behind With Spa Momentum on His Side",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:00 AM, 12:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Lewis Hamilton is 41 years old.\n\nHe is 32 points behind the championship leader.\n\nSpa has historically been one of his best circuits.\n\nAt this point in his career, in this situation — you don't bet against him. #F1 #LewisHamilton",
+          "posting_time": "10:00 AM, 12:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#LewisHamilton"
+          ],
+          "char_count": 229
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Championship math heading into Belgium:\n\nAntonelli: 179 pts\nRussell: 154 pts\nHamilton: 147 pts\n\n32 points separate Hamilton and the lead. Hamilton's Ferrari won at Silverstone.\n\nThe title fight is absolutely alive. #F1 #BelgianGP",
+          "posting_time": "10:00 AM, 12:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BelgianGP"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 AM, 12:00 PM"
+      },
+      "article": {
+        "filename": "article-02-hamilton-title-math-32-points-spa.html",
+        "headline": "Hamilton Is 32 Points Behind With Spa Ahead — History Says Don't Count Him Out",
+        "word_count": 568
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hamilton's Title Math\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** Lewis Hamilton Ferrari\n- **Usage:** Morning X/FB post\n- **Caption overlay:** \"32 POINTS BACK\" / \"At His Best Circuit\"\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search term:** Lewis Hamilton Ferrari\n- **Usage:** Article featured image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Hamilton's Title Math\n**Key verified facts:**\n- Hamilton finished P3 at Silverstone (MEDIUM — British GP results)\n- Hamilton is 32 points behind Antonelli (179 - 147 = 32) (MEDIUM — calculated from standings)\n- Hamilton is 41 years old (HIGH — widely confirmed)\n- Hamilton drives for Ferrari in 2026 (HIGH — widely confirmed)\n- Spa is historically strong for Hamilton — he has won there multiple times (HIGH — historical record)\n- Silverstone sprint: Antonelli beat Hamilton (MEDIUM)\n- Antonelli had wheel failure at Silverstone main race, finished P11 after penalty (MEDIUM)\n- Hamilton is racing in potential final championship campaign (MEDIUM — contextual)\n**Flags:**\n- Exact Spa win count for Hamilton: do not specify a number without verification — use \"multiple times\" or \"one of his best circuits\"",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Verstappen-McLaren Talks in Closing Stages — Red Bull Exit Decision Due Before Hungary",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "12:00 PM, 2:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Max Verstappen and McLaren are in the \"closing stages\" of contract negotiations, per multiple paddock sources.\n\nRed Bull offered €8 million to buy out his exit clause. He said no.\n\nThe biggest driver move in years is happening. #F1 #Verstappen",
+          "posting_time": "12:00 PM, 2:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Verstappen"
+          ],
+          "char_count": 243
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Verstappen's Red Bull exit clause is active. He cannot finish in the top 2 in the championship entering the summer break.\n\nA McLaren deal could be announced before the season ends.\n\nNorris. Piastri. Now Verstappen? What a lineup that would be. #F1",
+          "posting_time": "12:00 PM, 2:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:00 PM, 2:00 PM"
+      },
+      "article": {
+        "filename": "article-03-verstappen-mclaren-closing-stages-deal.html",
+        "headline": "Verstappen and McLaren in Closing Stages of Deal — Red Bull's Buyout Refused, Exit Clock Ticking",
+        "word_count": 549
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen-McLaren Talks\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** Max Verstappen Red Bull\n- **Usage:** Midday X/FB post\n- **Caption overlay:** \"CLOSING STAGES\" / \"Verstappen to McLaren?\"\n\n#### Image Concept 2 — Social (1080x1350)\n- **Search term:** Max Verstappen Red Bull\n- **Usage:** Article hero / secondary post\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen-McLaren Talks\n**Key verified facts:**\n- Multiple paddock sources: Verstappen and McLaren in \"closing stages\" of negotiations (MEDIUM — research summary, multiple sources)\n- Exit clause triggers if Verstappen outside top-2 in championship at start of summer break (MEDIUM)\n- After British GP crash, Verstappen mathematically cannot finish top-2 entering summer break (MEDIUM)\n- Red Bull offered €8 million to buy out clause — Verstappen refused (MEDIUM)\n- Verstappen must formally notify Red Bull by October 2026 at latest (MEDIUM)\n- Verstappen 7th in championship with 76 points (MEDIUM)\n- Verstappen described British GP crash at Stowe corner as \"super dangerous\" (MEDIUM)\n- Norris contracted at McLaren through 2027 (MEDIUM)\n- Piastri contracted at McLaren through 2028 (MEDIUM)\n**Flags:**\n- McLaren lineup restructure if Verstappen joins: do not speculate specifically about who gets dropped without confirmed source",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "FIA Thermal Loophole — What the Mid-Season Engine Rule Change Really Means",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "2:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "F1's mid-season engine rule change is bigger than it looks.\n\nThe FIA changed how compression ratios are measured after rivals flagged a thermal loophole that may have benefited manufacturers in the first half of the season.\n\nNo retroactive penalties. The debate isn't over. #F1",
+          "posting_time": "2:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "2:00 PM"
+      },
+      "article": {
+        "filename": "article-04-fia-thermal-loophole-rule-change.html",
+        "headline": "The FIA Changed F1's Engine Rules Mid-Season — Here's What the Thermal Loophole Story Really Means",
+        "word_count": 529
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "FIA Thermal Loophole\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** FIA Formula 1 technical\n- **Usage:** Afternoon X/FB post\n- **Caption overlay:** \"MID-SEASON RULE CHANGE\" / \"The Thermal Loophole Explained\"\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search term:** Formula 1 engine power unit\n- **Usage:** Article featured image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "FIA Thermal Loophole\n**Key verified facts:**\n- 2026 regulations set maximum compression ratio of 16:1 (MEDIUM)\n- Original rules: measured at ambient temperature only (MEDIUM)\n- Allegation: certain manufacturers designed components to thermally expand, raising on-track compression ratio beyond limit while passing cold static tests (MEDIUM)\n- Teams flagged: Mercedes and Red Bull (by rival engine manufacturers) (MEDIUM)\n- FIA response: two-temperature measurement protocol from June 1, 2026 (MEDIUM)\n- Measurement: ambient AND 130°C (MEDIUM)\n- No retroactive penalties issued (MEDIUM)\n- Outside counsel investigating (MEDIUM — consistent with broader reporting)\n**Flags:**\n- \"Teams under scrutiny\" — MEDIUM confidence; frame as \"rival manufacturers flagged\" not as confirmed guilt\n- Do not state as fact that Mercedes/Red Bull \"cheated\" — it's an allegation being investigated",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Bortoleto and the Audi Story Nobody is Telling — P8 at Silverstone and Building",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Gabriel Bortoleto finished P8 at Silverstone for Audi.\n\nThe 22-year-old Brazilian is performing above expectations in just his first F1 season.\n\nAudi's debut year is going better than almost anyone predicted. This is a story worth following. #F1",
+          "posting_time": "5:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:00 PM"
+      },
+      "article": {
+        "filename": "article-05-bortoleto-audi-p8-silverstone.html",
+        "headline": "The Audi Story Nobody Is Telling: Bortoleto P8 at Silverstone and a Rookie Season Going Better Than Expected",
+        "word_count": 530
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Bortoleto and Audi\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** Gabriel Bortoleto Audi\n- **Usage:** Evening X/FB post\n- **Caption overlay:** \"P8 AT SILVERSTONE\" / \"Audi's Rising Star\""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Bortoleto / Audi at Silverstone\n**Key verified facts:**\n- Gabriel Bortoleto finished P8 at Silverstone (MEDIUM — British GP results)\n- Bortoleto drives for Audi in 2026 (HIGH — widely confirmed)\n- Bortoleto is 22 years old and Brazilian (HIGH — widely confirmed)\n- Audi's first full F1 season is 2026 (HIGH — widely confirmed)\n- P8 is Bortoleto's best result of the season (MEDIUM — \"performing above expectations\" per research)\n**Flags:**\n- \"22 years old\" — verify this is accurate for 2026, research said 22 in context; treat as MEDIUM",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
