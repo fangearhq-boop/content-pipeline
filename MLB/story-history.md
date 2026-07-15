@@ -5,6 +5,65 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-15
+
+### Story 1: All-Star Game Recap — AL 4, NL 0, Bellinger MVP
+- **Date:** 2026-07-15
+- **Tier:** 1
+- **Classification:** FOLLOW UP (ASG tracked all week; game played July 14 at Citizens Bank Park)
+- **Angle:** AL 4, NL 0. First ASG shutout in 13 years (8th ever). MVP: Cody Bellinger (NYY), 2-RBI single in 1st. AL starter: Dylan Cease; NL: Cristopher Sanchez. Ben Rice drove in Bobby Witt Jr. (3-0 after 1). Miguel Vargas (White Sox) solo HR in 8th off Wrobleski. 3-hit shutout, 15 Ks. NL hits: Soto (4th), Crow-Armstrong (8th), Lopez (9th). Ohtani/Judge absent. Verlander honored as AL Legend Pick.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Second-half standings/games begin
+  - Ohtani and Judge return timelines
+  - AL second-half rotation analysis
+
+### Story 2: Verlander — Legend Pick Farewell at CBP
+- **Date:** 2026-07-15
+- **Tier:** 1
+- **Classification:** FOLLOW UP (retirement announced July 8; ASG July 14 was his last ceremony)
+- **Angle:** 43yo; 10th All-Star as AL Legend Pick. Retiring after 2026. Only 2026 start: March 30 (3⅔ IP, 5 ER vs ARI). Career: 266-159/3.33 ERA/3,554 Ks/3 Cy Youngs (2011+2019+2022)/2 WS rings/2011 AL MVP/2006 ROY. HOF 2031. Red carpet with Kate Upton.
+- **Content Produced:** Article (article-02, Jake Torres), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Verlander HOF case coverage
+  - Tigers 2027 pitching direction
+
+### Story 3: All-Star Takeaways — Trout, Vargas, Historic Shutout
+- **Date:** 2026-07-15
+- **Tier:** 2
+- **Classification:** NEW STORY (standalone ASG analysis; three distinct angles)
+- **Angle:** Trout 12th selection, 40mi from hometown Millville NJ; Vargas solo HR = White Sox 50-45 AL Central leaders represented; AL 15 Ks + 3 hits = first shutout in 13 years (8th ever). NL hits: Soto/Crow-Armstrong/Lopez. 2 char violations fixed (S3T1 309→271; S5T1 311→268).
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post (fixed), FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - White Sox second-half AL Central race
+  - Trout Angels second-half performance
+
+### Story 4: Skubal Trade — Yankees/Phillies Lead, August 3 Is 19 Days Out
+- **Date:** 2026-07-15
+- **Tier:** 2
+- **Classification:** FOLLOW UP (tracked since June; post-break deadline now live)
+- **Angle:** Yankees and Phillies frontrunners. Cubs/Braves/Rays also in mix. Aug 3 deadline (19 days). 2x AL Cy Young/contract year/extension talks "nil". Tigers want elite prospects + near-MLB-ready players. Skubal reportedly wants Tigers to be buyers.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Trade announcement (before Aug 3)
+  - Tigers second-half direction
+  - Skubal FA market if he walks
+
+### Story 5: Jordan Walker — Derby Champion's Second Half
+- **Date:** 2026-07-15
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Walker won Derby July 13; second half context)
+- **Angle:** Won 12-11 vs Schwarber; trailed 11-6, hit 6 straight (3 in bonus period). First Cardinals player to win Derby since 1985. Won $1M (exceeded 2026 salary). ESPN quote: hopes to inspire Black kids to play baseball. Caminero 491-ft longest HR (lost semis). Harper eliminated R1.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post (fixed from 311 chars), FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Walker Cardinals second-half stats
+  - Cardinals postseason push (or lack thereof)
+  - Derby-to-season-performance correlation
+
+---
+
+---
+
 ## 2026-07-12
 
 ### Story 1: Wheeler Snub — Phillies Ace Turns Down All-Star Replacement

@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-07-15
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch + research agents), brief (5 stories), research notes, story analysis, X posts (6; 2 char violations fixed S3T1 309→271, S5T1 311→268; 0 violations after fix), FB posts (5 stories), image concepts (8 items), image manifest (8 items, not_started), articles (5), fact-check (28 claims HIGH), compile (5 stories, 6 tweets, 5 articles, 21 items), dashboard (21 items), dashboard publish 403 (proxy). PostPlanner exports (6 posts standard + 6 TOBI posts). WordPress 403 (proxy sandbox — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected — proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard publish 403 (proxy blocks content-dashboards — known). IMAGE MISSING expected (not_started). claim-patterns.py missing (known). 2 char violations fixed (S3T1 309→271; S5T1 311→268). NL starter was Cristopher Sanchez (not Shota Imanaga as previewed — confirmed by multiple sources). White Sox record 50-45 (slight discrepancy with 48-45 prior pipeline — using 50-45 per most recent source).
+- **Key Stories**: All-Star Game recap AL 4 NL 0/MVP Cody Bellinger 2-RBI single/Dylan Cease AL starter/Cristopher Sanchez NL starter/15 Ks 3-hit shutout/first in 13 years/Vargas White Sox HR in 8th/first ASG at CBP/96th ASG (Tier 1 FOLLOW UP), Verlander Legend Pick farewell/43yo/retiring after 2026/10th ASG/266-159/3,554 Ks/3 Cy Youngs/HOF 2031 (Tier 1 FOLLOW UP), ASG takeaways: Trout homecoming 40mi from Millville NJ/Vargas HR = White Sox 50-45 AL Central leaders/first shutout in 13 years (Tier 2 NEW), Skubal trade deadline 19 days/Yankees+Phillies frontrunners/Cubs+Braves+Rays also in/extension talks nil/Aug 3 (Tier 2 FOLLOW UP), Jordan Walker Derby champion/won 12-11 vs Schwarber/trailed 11-6 hit 6 straight/$1M/first Cardinals winner since 1985/inspires Black kids (Tier 2 FOLLOW UP)
+
+## Last Run
 - **Date**: 2026-07-14
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via agent, 8 searches), brief (5 stories), research notes, story analysis, X posts (6; 1 char violation fixed S3T1 302→242; 0 violations after fix), FB posts (5 stories), image concepts (9 items), image manifest (9 items, not_started), articles (5), fact-check (28 claims HIGH, 0 char violations after fix), compile (5 stories, 6 tweets, 5 articles, 21 items), dashboard (21 items), dashboard publish 403 (proxy). PostPlanner exports (6 posts standard + 6 TOBI posts). WordPress 403 (proxy sandbox — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected — proxy known restriction).
