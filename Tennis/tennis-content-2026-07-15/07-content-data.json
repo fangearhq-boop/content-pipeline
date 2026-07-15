@@ -1,0 +1,280 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-15",
+  "compiled_at": "2026-07-15T12:31:04.554188+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "Story",
+      "description": "Tier",
+      "type": "8 AM"
+    },
+    {
+      "time": "S4: WTA Athens Inaugural",
+      "description": "2",
+      "type": "X+FB"
+    },
+    {
+      "time": "S1: Wawrinka Farewell",
+      "description": "1",
+      "type": ""
+    },
+    {
+      "time": "S2: Canadian Open Entry List",
+      "description": "1",
+      "type": ""
+    },
+    {
+      "time": "S3: Clay Courts Day 3",
+      "description": "2",
+      "type": ""
+    },
+    {
+      "time": "S5: Alcaraz Wrist Update",
+      "description": "2",
+      "type": ""
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Wawrinka's Final Match at Gstaad — A Swiss Legend Leaves the Stage He Started On",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Stan Wawrinka made his ATP debut at Gstaad.\n\nOn Tuesday, he played his last match there — losing to Faria 6-7(8), 6-4, 6-4.\n\nStanding ovation. Former Davis Cup teammates on court. Custom skis. A send-off worthy of three Grand Slam titles. 🏆\n\n#Tennis #TennisFanrecap #Gstaad",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#TennisFanrecap",
+            "#Gstaad"
+          ],
+          "char_count": 273
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Wawrinka at 41.\n\nThree Slams. One of tennis's most beloved careers. Still competing on the ATP Tour.\n\nThe farewell tour continues — but Tuesday at Gstaad felt like a proper goodbye to the tournament that started it all.\n\n#Tennis #TennisFanrecap #Wawrinka",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#TennisFanrecap",
+            "#Wawrinka"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-wawrinka-farewell-gstaad-final-match.html",
+        "headline": "Gstaad Gave Wawrinka His Start. On Tuesday, It Said Goodbye.",
+        "word_count": 788
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Wawrinka's Farewell at Gstaad\n\n#### Social Image (1080×1350, 4:5 vertical)\n\n**Visual Description:** Stan Wawrinka in a moment of emotion or reflection — post-match acknowledgment to crowd, arms raised or clasped, the body language of a player receiving appreciation. Not a match-action shot; the ceremony/acknowledgment energy.\n\n**Imagn Search Terms (try in order):**\n1. Stan Wawrinka Switzerland\n2. Stan Wawrinka\n3. Stan Wawrinka Roland Garros\n\n**Text Overlay Copy:**\n- Headline: \"FAREWELL, STAN\"\n- Subtitle: \"Wawrinka plays his final Gstaad match. Three Grand Slams. A career worth celebrating.\"\n- Colors: Headline white on Clay Red (#B5451B) bar; subtitle warm gold (#F4C300)\n\n**Composition Notes:**\n- Warm, reflective energy — not a highlight shot but a human moment\n- Bottom third clear for text overlay\n- Let the player's expression carry the image\n\n---\n\n#### Article Hero (1200×630, 1.91:1 landscape)\n\n**Imagn Search Terms:** Stan Wawrinka Switzerland\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Canadian Open Entry List: 71 of 72 Top Players Confirmed — Alcaraz Still Out",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Canadian Open entry list is out.\n\n71 of 72 top ATP players confirmed — the strongest field in tournament history.\n\nSinner. Djokovic. Zverev. FAA on home soil.\n\nOne glaring absence: Alcaraz. Still no return date.\n\n#ATP #TennisFanrecap #CanadianOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATP",
+            "#TennisFanrecap",
+            "#CanadianOpen"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-canadian-open-entry-list-sinner-alcaraz-absent.html",
+        "headline": "Canadian Open: 71 of 72 Top Players In — Alcaraz the Only Notable Absence",
+        "word_count": 862
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Canadian Open Entry List\n\n#### Social Image (1080×1350, 4:5 vertical)\n\n**Visual Description:** Jannik Sinner in action or ready to serve — Canadian Open hard-court energy if possible; strong, dominant posture representing No. 1 returning to the event he won in 2023.\n\n**Imagn Search Terms (try in order):**\n1. Jannik Sinner Italy\n2. Jannik Sinner\n3. Felix Auger-Aliassime Canada\n\n**Text Overlay Copy:**\n- Headline: \"CANADA IS READY\"\n- Subtitle: \"71 of 72 top ATP players confirmed. The strongest field in Canadian Open history.\"\n- Colors: Headline white; subtitle Court Green (#2E7D32)\n\n**Composition Notes:**\n- Hard-court background preferred (blue or green surface) — sets the Canadian Open tone\n- Player in motion, upward energy\n\n---\n\n#### Article Hero (1200×630, 1.91:1 landscape)\n\n**Imagn Search Terms:** Jannik Sinner Italy\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Clay Courts Day 3 — Dimitrov Wins in Bastad, Cobolli Enters Umag",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Day 3 of the post-Wimbledon clay swing:\n\nDroguet upsets Blockx in Umag — 3-6, 6-2, 6-0 with drop shots and 77% first-serve efficiency.\n\nDimitrov wins in Bastad. Tsitsipas advances in Gstaad. Cobolli enters today in Umag.\n\nThree courts. Zero days off.\n\n#ATP #TennisFanrecap #Clay",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATP",
+            "#TennisFanrecap",
+            "#Clay"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-clay-swing-day3-dimitrov-cobolli-droguet.html",
+        "headline": "Clay Courts Day 3: Droguet Stuns Blockx, Dimitrov Advances, Cobolli Enters Umag",
+        "word_count": 653
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Clay Courts Day 3\n\n#### Social Image (1080×1350, 4:5 vertical)\n\n**Visual Description:** Grigor Dimitrov mid-stroke on clay — sliding or hitting a forehand with orange court dust visible. Action and experience.\n\n**Imagn Search Terms (try in order):**\n1. Grigor Dimitrov Bulgaria\n2. Grigor Dimitrov\n3. Flavio Cobolli Italy\n\n**Text Overlay Copy:**\n- Headline: \"CLAY SWING: DAY 3\"\n- Subtitle: \"Droguet upsets Blockx. Dimitrov advances. Three events, one week.\"\n- Colors: Headline white; subtitle Tennis Ball Yellow (#CDDC39)\n\n**Composition Notes:**\n- Clay surface highly visible — the orange/red is the visual signature of these events\n- Player in mid-motion preferred; not static\n\n---\n\n#### Article Hero (1200×630, 1.91:1 landscape)\n\n**Imagn Search Terms:** Grigor Dimitrov Bulgaria\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "WTA Athens Opens: Inaugural Edition Brings Grand Slam Returns and Sakkari's Home Crowd",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The WTA Athens Open is here.\n\nFirst WTA event in Athens in 35 years. Maria Sakkari opened in front of her home crowd with a 6-0, 7-6(1) win.\n\nNew venue. No defending champion. And Greece's top player on center court. 🎾\n\n#WTA #TennisFanrecap #Athens",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTA",
+            "#TennisFanrecap",
+            "#Athens"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-wta-athens-inaugural-sakkari-home-crowd.html",
+        "headline": "After 35 Years, WTA Tennis Returns to Athens — and Sakkari Is the Story",
+        "word_count": 732
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "WTA Athens Inaugural\n\n#### Social Image (1080×1350, 4:5 vertical)\n\n**Visual Description:** Maria Sakkari mid-fist-pump or celebrating a point win — the energy of a player playing on home soil; proud, powerful, connected to the crowd.\n\n**Imagn Search Terms (try in order):**\n1. Maria Sakkari Greece\n2. Maria Sakkari\n3. Barbora Krejcikova Czech Republic\n\n**Text Overlay Copy:**\n- Headline: \"HOME COURT\"\n- Subtitle: \"WTA Athens opens. Sakkari wins 6-0 in front of her home crowd.\"\n- Colors: Headline white; subtitle Championship Purple (#6A1B9A)\n\n**Composition Notes:**\n- Celebratory pose preferred — fist pump, open-arm moment, or roar\n- Blue hard-court background if available; outdoor setting\n- Player facing camera or facing crowd\n\n---\n\n#### Article Hero (1200×630, 1.91:1 landscape)\n\n**Imagn Search Terms:** Maria Sakkari Greece\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Alcaraz Wrist Update — Growing Fears His 2026 Season Could Be Over",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Alcaraz is not in the Canadian Open entry list.\n\nHe's now missed Roland-Garros, Wimbledon, and Canada — all from the same April wrist injury.\n\nA video of him hitting at his academy surfaced. No timeline. No official date.\n\nUS Open is August 24. 🎾\n\n#ATP #TennisFanrecap #Alcaraz",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATP",
+            "#TennisFanrecap",
+            "#Alcaraz"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-alcaraz-wrist-2026-canadian-open-absent.html",
+        "headline": "Alcaraz Is Out of the Canadian Open. Is His 2026 Season Over?",
+        "word_count": 728
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alcaraz Wrist Update\n\n#### Social Image (1080×1350, 4:5 vertical)\n\n**Visual Description:** Carlos Alcaraz in a contemplative or watching moment — not injured, not in pain; the image of a champion waiting; sideline or pre-match energy.\n\n**Imagn Search Terms (try in order):**\n1. Carlos Alcaraz Spain\n2. Carlos Alcaraz\n3. Carlos Alcaraz practice\n\n**Text Overlay Copy:**\n- Headline: \"ALCARAZ UPDATE\"\n- Subtitle: \"Not in the Canadian Open. Three months out. The US Open is 40 days away.\"\n- Colors: Headline white; subtitle Warm Coral (#FF6F61) — signals concern, not alarm\n\n**Composition Notes:**\n- Avoid action or match shots; prefer a watching/waiting image\n- Bottom dark bar for text; coral subtitle signals this is a serious but not final situation\n- Single subject, clean background\n\n---\n\n#### Article Hero (1200×630, 1.91:1 landscape)\n\n**Imagn Search Terms:** Carlos Alcaraz Spain"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-07-14 |
-| Writing | Complete (all steps) | 2026-07-14 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 26 claims, 64 HIGH; image not_started warnings cosmetic/expected for imagn) | 2026-07-14 |
-| Compile | Complete (07-content-data.json — 5 stories, 6 X posts, 0 FB posts, 5 articles, 5 images) | 2026-07-14 |
-| Dashboard | Complete (review-dashboard.html, 21 items) | 2026-07-14 |
-| PostPlanner Export | Complete (standard 6 posts 12:51–20:21 ET; TOBI 6 posts) | 2026-07-14 |
-| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-07-14 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-07-14 |
+| Research | Complete | 2026-07-15 |
+| Writing | Complete (all steps) | 2026-07-15 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 32 claims, 74 HIGH; 2 tweets fixed; image not_started warnings cosmetic/expected for imagn) | 2026-07-15 |
+| Compile | Complete (07-content-data.json — 5 stories, 6 X posts, 0 FB posts, 5 articles, 5 images) | 2026-07-15 |
+| Dashboard | Complete (review-dashboard.html, 21 items) | 2026-07-15 |
+| PostPlanner Export | Complete (standard 6 posts 13:01–20:26 ET; TOBI 6 posts) | 2026-07-15 |
+| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-07-15 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-07-15 |
 
 ## Queue
 
@@ -24,6 +24,21 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-07-15 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 6 X posts + 5 FB long-form + 5 FB captions = 16 total (PostPlanner xlsx: 6 posts 13:01–20:26 ET, 6 TOBI)
+- **Articles:** 5 (bylines: Marcus Cole [S1, S4], Elena Voss [S2, S5], Ryan Calloway [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-07-15.xlsx (6 posts), tfr-postplanner-tobi-2026-07-15.xlsx (6 TOBI posts)
+- **Coverage:** Stan Wawrinka farewell at Gstaad: lost R1 to Jaime Faria 6-7(8), 6-4, 6-4; on-court ceremony with Swiss Davis Cup teammates; tournament gifted custom skis (The Man + 2015 RG geometric print); debut at Gstaad 2003; 41yo; farewell tour through end of 2026. Canadian Open entry list: 71 of 72 top ATP players confirmed; Sinner [1], Djokovic, Zverev [2], FAA (9th home appearance) all in; Alcaraz absent (tenosynovitis since April 14 Barcelona — missed RG, Wimbledon, Canada); wild cards: Monfils + Diallo; Shapovalov direct entry; WTA Toronto 72/75; draws July 29-30. Clay Courts Day 3 — Droguet def. Blockx [5] 3-6, 6-2, 6-0 (drop shots + 77% 1st-serve pts); Dimitrov def. Svrcina 7-6(5), 1-6, 6-4 (Bastad); Rublev [1] def. Pellegrino 6-3, 6-2 (Bastad); Tsitsipas def. Buse [5] 6-4, 6-4 (Gstaad); Cerundolo [6] def. Kolar 4-6, 6-3, 6-4 (Gstaad); Wed: Bublik vs Halys (Gstaad), Tsitsipas vs Kym (Gstaad), Dimitrov vs Borges (Bastad), Cobolli [1] vs Burruchaga (Umag). WTA Athens inaugural: first WTA event in Athens in 35 years; Sakkari 6-0, 7-6(1) vs Kudermetova Day 1; Krejcikova def. Tomova 6-3, 6-3; Tauson def. Hibino 7-5, 6-4; Zheng def. Bouzas Maneiro [6] 7-5, 6-1 (upset); runs Jul 13-19. Alcaraz wrist update: absent from Canadian Open list; team has not issued return timeline; video hitting at academy; growing concern from Tennis365 2026 season may be over; US Open August 24.
+- **Notes:**
+  - verify-facts.py: Story 3 tweet fixed 282→278 chars; Story 5 tweet fixed 297→277 chars; 32 claims, 74 HIGH; image not_started warnings cosmetic (expected for imagn source)
+  - compile: 5 stories, 6 X posts, 0 FB posts (parser compatibility), 5 articles, 5 images; 21 dashboard items; posting window warnings cosmetic
+  - PostPlanner exports: standard (6 posts) and TOBI (6 posts) generated successfully; 13:01–20:26 ET
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Marcus Cole [S1, S4], Elena Voss [S2, S5], Ryan Calloway [S3] (rotating from July 14: Elena Voss [S1, S4], Ryan Calloway [S2, S5], Marcus Cole [S3])
 
 ### 2026-07-14 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
