@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-07-15
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch + research agents, multiple queries), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations), FB posts (5 stories), image concepts (8 items), image manifest (8 items, not_started), articles (5), fact-check (68 claims), compile (5 stories, 6 tweets, 5 articles, 21 items), dashboard (21 items), PostPlanner exports (6 posts standard + 6 TOBI). WordPress 403 (proxy sandbox — known). Dashboard push 403 (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected — proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started). PostPlanner FB 0 posts (format — known). 0 char violations. MAJOR CORRECTION: AUSL Championship venue corrected to Davis Diamond, Texas A&M, College Station TX (prior pipeline incorrectly stated Rhoads Stadium Tuscaloosa AL). Championship: play-in July 23, starts July 25 (Game 1 on ABC — first pro softball on network TV). ESPYs tonight 8 PM ET ABC — Grant nominated, winner TBD.
+- **Key Stories**: Megan Grant ESPYs TONIGHT 8 PM ET ABC/Lincoln Center/42 HR 31-year record/competitors Garrett+Klæbo+Sawe/winner TBD (Tier 1 FOLLOW UP), AUSL Championship CORRECTION Davis Diamond Texas A&M College Station TX/play-in July 23/starts July 25/Game 1 on ABC first pro softball on network TV ever/Talons 14-6/Bandits 13-7/Cascade 11-9/5 games left (Tier 1 UPDATE), AUSL Wednesday doubleheader Bandits vs Blaze 6PM ET Durham/Spark vs Volts 8PM ET Round Rock/Bandits 1.5 back of Talons (Tier 2 FOLLOW UP), PGF Nationals 4 days/July 19 Great Park Irvine/18U+16U/September 1 contact window 47 days (Tier 2 FOLLOW UP), Megan Grant AUSL 8 HR 20 games leading league/313-ft debut HR AUSL record/Cascade 11-9 in playoff position (Tier 2 NEW)
+
+## Last Run
 - **Date**: 2026-07-14
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via agent, 6 searches), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations), FB posts (5 stories), image concepts (10 items), image manifest (9 items, not_started), articles (5), fact-check (71 claims), compile (5 stories, 6 tweets, 5 articles, 21 items), dashboard (21 items), PostPlanner exports (6 posts standard + 6 TOBI). WordPress 403 (proxy sandbox — known). Dashboard push 403 (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected — proxy known restriction).

@@ -3,6 +3,64 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-07-15
+
+### Story 1: Megan Grant ESPYs — The Night Is Here
+- **Date:** 2026-07-15
+- **Tier:** 1
+- **Classification:** FOLLOW UP (daily countdown since July 4; tonight is the 34th ESPYs ceremony, 8 PM ET ABC)
+- **Angle:** The show is tonight. Voting closed. This is no longer a call to action — it's a moment to witness. 42 HR, 31-year NCAA record, nominated for Best Record-Breaking Performance. Competitors: Garrett, Klæbo, Sawe. Venue: David H. Koch Theater, Lincoln Center NYC. Host: Marcello Hernández. Texas softball also nominated for Best Team.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - ESPYs results — did Grant win Best Record-Breaking Performance?
+  - Grant AUSL second half stats and postseason push with Cascade
+
+### Story 2: AUSL Championship — Davis Diamond, Texas A&M, Game 1 on ABC
+- **Date:** 2026-07-15
+- **Tier:** 1
+- **Classification:** UPDATE (championship venue and dates confirmed from official sources; major ABC milestone)
+- **Angle:** Championship at Davis Diamond, Texas A&M, College Station TX (CORRECTS prior coverage of "Rhoads Stadium, Tuscaloosa"). Play-in July 23, Championship starts July 25 (Game 1 on ABC — first pro softball game ever on network TV). Talons 14-6, Bandits 13-7 (1.5 back), Cascade 11-9. 5 games left. Regular season ends July 20.
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Daily standings tracking July 16-20
+  - Play-in matchup (July 23) and Championship preview
+  - ABC broadcast coverage
+
+### Story 3: AUSL Wednesday Night — Bandits vs. Blaze + Spark vs. Volts
+- **Date:** 2026-07-15
+- **Tier:** 2
+- **Classification:** FOLLOW UP (standings race; Canady ongoing; doubleheader tonight)
+- **Angle:** Two AUSL games: Bandits vs. Blaze 6 PM ET (Durham, Smith Family Stadium); Spark vs. Volts 8 PM ET (Round Rock, Dell Diamond). Bandits need wins in chase for No. 1 seed. NiJaree Canady pitching for Volts (0-3, working on mechanics, first win July 10). Game results unavailable at pipeline time.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Game results from tonight (Bandits vs Blaze, Spark vs Volts)
+  - Updated standings after July 15 games
+  - Canady ERA and win/loss update
+
+### Story 4: PGF Nationals — 4 Days Out
+- **Date:** 2026-07-15
+- **Tier:** 2
+- **Classification:** FOLLOW UP (tracked since June 30; tournament opens July 19)
+- **Angle:** 4 days until PGF Nationals Week 1 at Great Park, Irvine CA. 18U/16U divisions. Rosters locked July 13. Week 2: July 26–Aug 2 (14U/12U/10U). September 1 = Class of 2028 contact window (47 days away). PGF is last major evaluation event before window opens.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - PGF Nationals results July 19+
+  - Notable 18U/16U performances to watch
+  - September 1 recruiting window coverage
+
+### Story 5: Megan Grant — AUSL Home Run Leader
+- **Date:** 2026-07-15
+- **Tier:** 2
+- **Classification:** NEW STORY (Grant's AUSL stats spotlighted heading into postseason and ESPYs night)
+- **Angle:** 8 HR in 20 AUSL games with Portland Cascade — leading the league. 313-ft pro debut HR (June 10, longest in AUSL history). 2 HR in one game vs Volts (June 28). 91 career HR at UCLA. Cascade 11-9, in playoff position. 5 games left before play-in (July 23) and Championship (July 25, Game 1 on ABC).
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Grant AUSL final regular season stats
+  - Cascade play-in performance
+  - Grant in Championship Series on ABC
+
+---
+
 ## July 11, 2026
 
 ### Story 1: MLBx All-Star 3-On-3 Is TOMORROW — Full Team Rosters Confirmed
