@@ -1,0 +1,191 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-15",
+  "compiled_at": "2026-07-15T09:24:57.682322+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Story 1: PCA All-Star Game recap",
+      "type": "Game recap / informative"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 2: Taillon activated",
+      "type": "Roster news / informative"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 3: Chapman trade angle",
+      "type": "Trade analysis / bold take"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Story 4: Wild card standings",
+      "type": "Standings update / analysis"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 5: Twins series preview",
+      "type": "Series preview / fan energy"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "PCA All-Star Game — NL Shut Out 4-0, But PCA Had the Hit",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "All-Star Game recap — NL lost 4-0 to AL; Crow-Armstrong entered in 6th, singled off Varland in 8th, stranded; one of only 3 NL hits; second straight All-Star appearance; now second half begins",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "```\n1 hit out of the NL — and PCA had it.\n\nAL shut out the NL 4-0. Crow-Armstrong entered in the 6th, singled in the 8th, and was stranded. Three hits for the entire National League.\n\nOn to the second half. Wrigley. Twins. Friday.\n\n#Cubs #GoCubs #MLB\n```",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Game recap / informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Taillon Activated — Slotted for Twins Opener Friday at Wrigley",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "CubsHQ confirms Cubs activated Jameson Taillon off IL; two consecutive scoreless Iowa rehab starts (4⅔ IP, 0 ER, 1 H); slotted for Twins series opener Friday July 17 at Wrigley; patchwork rotation gets its veteran anchor back for second half",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "```\n4⅔ innings. 0 ER. 1 hit at Iowa — and Taillon's back.\n\nCubs activated Jameson Taillon off the IL, two consecutive scoreless rehab starts in hand. He's slotted for the Twins at Wrigley Friday. The patchwork rotation officially has its anchor.\n\n#Cubs #CubsBaseball #MLB\n```",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Roster news / informative",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Aroldis Chapman — Cubs Connected to No. 1 Closer Available",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "NEW — first Chapman coverage; 0.48 ERA in 2026, top-ranked bullpen arm at deadline; Cubs linked as suitor; Daniel Palencia (Cubs' closer) on IL with elbow; August 3 deadline 19 days away; 2016 Cubs World Series angle (Chapman pitched final out of Game 7)",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "```\n0.48 ERA. No closer on the Cubs' roster. The math isn't hard.\n\nAroldis Chapman is the top bullpen arm at the August 3 deadline, and the Cubs are connected. Daniel Palencia's elbow is empty. Chapman won here in 2016. 19 days left, Jed.\n\n#Cubs #CubsBaseball #MLB\n```",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Trade analysis / bold take",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Wild Card Standings — Second Half Position Check",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Cubs 54-42, No. 1 NL Wild Card entering second half; Phillies 54-43 (1 GB); Cardinals 48-44 (on bubble, ~1.5 GB from No. 3 WC spot); 12 pitchers used on IL this season; Taillon back; deadline in 19 days — everything converging for the second half push",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "```\n54-42. No. 1 NL Wild Card. Twelve pitchers burned on the IL this season.\n\nCubs enter the second half one game ahead of Philadelphia. The Cardinals are on the playoff bubble. 19 days to the deadline.\n\nThis group has earned its lead.\n\n#Cubs #NorthSiders #MLB\n```",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Standings update / analysis",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Twins Series — Second Half Starts Friday at Wrigley",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "3-game series July 17-19 at Wrigley (7:05 PM CT Game 1); Twins in AL Wild Card hunt — Joe Ryan still on their staff making series a dual scouting event for Jed Hoyer; second-half schedule begins with legitimate contenders coming to Wrigley",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "```\n3 games. 7:05 PM CT Friday. Wrigley Field.\n\nSecond half opener: Cubs vs. Twins. Minnesota's in the AL Wild Card hunt and Joe Ryan is on their staff — which means Jed Hoyer has more than wins and losses to watch this weekend.\n\n#Cubs #GoCubs #FlyTheW\n```",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Series preview / fan energy",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

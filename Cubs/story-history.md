@@ -5,6 +5,51 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-15
+
+### STORY 1: PCA All-Star Game — NL Shut Out 4-0, But PCA Had the Hit
+- **Angle:** FOLLOW UP — All-Star Game recap; AL beat NL 4-0 at Citizens Bank Park (July 14); PCA entered as defensive replacement in 6th, singled off Louis Varland (Twins) in 8th — one of only 3 NL hits; stranded; second straight All-Star appearance; second half begins Friday at Wrigley
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game recap / informative; stat opener: "1 hit out of the NL")
+- **Follow-Up Opportunities:**
+  - PCA second-half performance tracking
+  - Second consecutive 30-30 pace watch
+
+### STORY 2: Taillon Activated — Slotted for Twins Opener Friday at Wrigley
+- **Angle:** FOLLOW UP — CubsHQ confirms Cubs activated Jameson Taillon off IL; 4⅔ IP, 0 ER, 1H across second Iowa rehab start; slotted for Twins series opener July 17 at Wrigley; patchwork rotation gets its veteran anchor back for second half
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, roster news / informative; stat opener: "4⅔ innings. 0 ER. 1 hit at Iowa")
+- **Follow-Up Opportunities:**
+  - Taillon's first start back vs. Twins (July 17)
+  - Rotation stability tracking through second half
+
+### STORY 3: Aroldis Chapman — Cubs Connected to No. 1 Closer Available
+- **Angle:** NEW STORY — first Chapman coverage; 0.48 ERA in 2026 (MEDIUM confidence), ranked No. 1 closer at August 3 deadline; Cubs linked as suitor; Daniel Palencia on IL with right elbow inflammation; Chapman won 2016 WS with Cubs, closed Game 7; 19 days to deadline
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, trade analysis / bold take; stat opener: "0.48 ERA.")
+- **Follow-Up Opportunities:**
+  - Trade deadline activity (August 3 at 5 PM CT)
+  - Chapman or alternative closer acquisition
+  - Palencia injury/return timeline
+
+### STORY 4: Wild Card Standings — Second Half Position Check
+- **Angle:** FOLLOW UP — Cubs 54-42, No. 1 NL Wild Card entering second half; Phillies 54-43 (1 GB); Cardinals 48-44 (~1.5 GB from No. 3 WC, on bubble); 12 pitchers on IL this season; Taillon back; deadline 19 days away
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, standings update / analysis; stat opener: "54-42.")
+- **Follow-Up Opportunities:**
+  - Wild card standings shifts after Twins series
+  - Cardinals July 27-30 divisional series
+
+### STORY 5: Twins Series — Second Half Starts Friday at Wrigley
+- **Angle:** NEW STORY — first Twins series preview; 3-game series July 17-19 at Wrigley (7:05 PM CT Game 1, 1:20 PM CT Games 2-3); Twins in AL Wild Card hunt; Joe Ryan on staff = Jed Hoyer scouting angle; second-half opener brings a legitimate contender to Wrigley
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, series preview / fan energy; stat opener: "3 games.")
+- **Follow-Up Opportunities:**
+  - Twins series results (July 17-19)
+  - Joe Ryan trade acquisition watch
+
+---
+
 ## 2026-07-14
 
 ### STORY 1: Pete Crow-Armstrong — All-Star Stage Is His Tonight
