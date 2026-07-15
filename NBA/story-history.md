@@ -4254,3 +4254,49 @@
 - **Key facts:** Bailey (Utah Jazz No. 5 pick 2026) left July 12 game at halftime with back spasms; visibly stiff; did not return; status uncertain for remaining Summer League; no official Jazz statement
 - **Status:** NEW
 - **Follow-up ideas:** Bailey cleared to return; Jazz update; regular season readiness
+
+## 2026-07-15
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-15 | T1 | LeBron Watch — Warriors Now Frontrunner, Decision Looming at Fanatics Fest | X, FB, Article | FOLLOW UP |
+| 2026-07-15 | T1 | Kawhi Probe Expands — NBA Investigating Second Endorsement Deal | X, FB, Article | FOLLOW UP |
+| 2026-07-15 | T1 | Summer League Day 7 — Brazile Drops 32, Hansen Nearly Triples in Portland Blowout | X, FB, Article | NEW |
+| 2026-07-15 | T2 | James Harden Opts Out of $42.3M — Working on New Cavs Deal | X, FB, Article | NEW |
+| 2026-07-15 | T2 | AJ Dybantsa Shut Down After Two Summer League Games | X, FB, Article | NEW |
+
+### STORY 1: LeBron Watch — Warriors Now Frontrunner
+- **Tier:** 1
+- **Category:** NBA Free Agency / LeBron James
+- **Key facts:** Warriors now frontrunner per multiple Western Conference executives (HoopsHype July 14); LeBron attending Fanatics Fest NYC July 16-17; "Mind the Game" podcast live taping July 16 at 1:15 PM ET with Tyrese Haliburton co-host; field: Warriors/Cavs/76ers/Heat/Wolves; LeBron 41; Rich Paul spoke to 27 teams; no signing yet as of July 15
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** LeBron announcement at Fanatics Fest; Warriors signing; press conference
+
+### STORY 2: Kawhi Probe Expands — Second Endorsement Deal
+- **Tier:** 1
+- **Category:** NBA Investigation / Trades
+- **Key facts:** Investigation expanded to second previously unreported endorsement deal (HoopsHype July 14); original Aspiration $28M deal still under review; Raptors declined to assume risk of penalties; trade (Kawhi to Toronto for Ingram/Dick/picks) still not finalized; no timetable
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Investigation concludes; trade complete or collapses; NBA ruling
+
+### STORY 3: Summer League Day 7 — Brazile 32 Points
+- **Tier:** 1
+- **Category:** NBA Summer League
+- **Key facts:** Nuggets 106-103 Thunder (Brazile 32 pts); Blazers 111-84 Wolves (Yang Hansen 18/10/5); Suns 95-88 Bucks (Koa Pete 19/2stl); Jazz 80-63 Bulls (Aidoo 15/11)
+- **Status:** NEW
+- **Follow-up ideas:** Day 8 results; Brazile regular season role
+
+### STORY 4: James Harden Opts Out of $42.3M
+- **Tier:** 2
+- **Category:** NBA Contracts / Free Agency
+- **Key facts:** Harden declining $42.3M player option with Cavs; working on new multiyear deal; not a departure — restructure
+- **Status:** NEW
+- **Follow-up ideas:** New Harden deal announced; contract terms; impact on LeBron pursuit
+
+### STORY 5: AJ Dybantsa Shut Down
+- **Tier:** 2
+- **Category:** NBA Summer League / Rookies
+- **Key facts:** Wizards No. 1 pick shut down after 2 games; 27 pts debut (reportedly tied Blake Griffin for most by No. 1 pick in Vegas SL debut); 23 pts Game 2; precautionary, no injury reported
+- **Status:** NEW
+- **Follow-up ideas:** Dybantsa training camp; Wizards roster build
+

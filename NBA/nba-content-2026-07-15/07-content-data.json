@@ -1,0 +1,271 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-15",
+  "compiled_at": "2026-07-15T11:19:56.725676+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "LeBron Watch — Warriors Now Frontrunner, Decision Looming at Fanatics Fest",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "9:00 AM, 11:00 AM",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The Warriors are now the frontrunner for LeBron James.\n\nMultiple Western Conference executives told HoopsHype they believe King James heads to Golden State.\n\nFanatics Fest is tomorrow. The decision could come any hour now.\n\n#LeBronJames #NBA",
+          "posting_time": "9:00 AM, 11:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#LeBronJames",
+            "#NBA"
+          ],
+          "char_count": 241
+        },
+        {
+          "label": "Post 1-2",
+          "text": "LeBron James. Fanatics Fest. Tomorrow.\n\nHis \"Mind the Game\" podcast tapes live at 1:15 PM ET on July 16 with Tyrese Haliburton.\n\nInsiders say this is the most likely moment for an announcement.\n\nWarriors lead. Clock is ticking. #LeBronJames",
+          "posting_time": "9:00 AM, 11:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#LeBronJames"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM, 11:00 AM"
+      },
+      "article": {
+        "filename": "article-01-lebron-james-warriors-frontrunner-fanatics-fest.html",
+        "headline": "Warriors Emerge as LeBron Frontrunner With Decision Expected at Fanatics Fest",
+        "word_count": 598
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LeBron Watch — Warriors Now Frontrunner\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** LeBron James Los Angeles Lakers\n- **Usage:** X/Facebook post image for morning LeBron decision post\n- **Caption overlay:** \"WARRIORS FRONTRUNNER\" / \"Decision coming tomorrow?\"\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search term:** LeBron James Los Angeles Lakers\n- **Usage:** Article featured image\n- **Caption overlay:** None (article hero)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LeBron Watch — Warriors Now Frontrunner\n**Sources consulted:**\n- HoopsHype (July 14): \"Western conference executives believe LeBron James will sign with Warriors\" — multiple WCon execs cited\n- Yahoo Sports: \"LeBron James reportedly expected to sign\" with Warriors\n- ESPN: LeBron free agency market update\n- Yahoo Sports: Fanatics Fest / \"Mind the Game\" podcast announcement (Haliburton co-host, July 16, 1:15 PM ET)\n**Key verified facts:**\n- Warriors are now the frontrunner per multiple Western Conference executives (MEDIUM — HoopsHype, multiple execs)\n- LeBron attending Fanatics Fest, Javits Center NYC, July 16-17 (MEDIUM — Yahoo Sports)\n- \"Mind the Game\" podcast taping July 16, 1:15 PM ET, Tyrese Haliburton co-host (MEDIUM — Yahoo Sports)\n- Marc Stein and other insiders believe Fanatics Fest is most likely venue for announcement (MEDIUM)\n- Five teams still in play: Warriors, Cavaliers, 76ers, Heat, Timberwolves (MEDIUM — ESPNs recent update narrowed field)\n- LeBron is 41 years old (HIGH — widely confirmed)\n- Rich Paul spoke to 27 teams (MEDIUM — confirmed in multiple prior sources)\n- LeBron averaged 20.9 pts, 7.2 ast, 6.1 reb, 51.5% FG in final Lakers season (MEDIUM — ESPN)\n- LeBron informed Lakers he will not return for 2026-27 (MEDIUM — ESPN)\n**Flags:**\n- No signing has been confirmed as of July 15 — do NOT write as if decided\n- Warriors frontrunner = reporting from executives, not official announcement",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Kawhi Probe Gets Bigger — NBA Investigating Second Endorsement Deal",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "11:00 AM",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The Kawhi Leonard investigation just got bigger.\n\nNBA investigators are now examining a SECOND previously unreported endorsement deal — separate from the Aspiration case that froze the trade.\n\nNo timetable. Toronto is still waiting.\n\n#NBA #Clippers",
+          "posting_time": "11:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA",
+            "#Clippers"
+          ],
+          "char_count": 248
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The Kawhi Leonard trade probe has expanded in scope.\n\nThe Raptors have declined to accept the risk of penalties and won't finalize anything until investigators wrap up.\n\nA second company is now under examination. This is far from over.\n\n#NBA",
+          "posting_time": "11:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA"
+          ],
+          "char_count": 241
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM"
+      },
+      "article": {
+        "filename": "article-02-kawhi-leonard-investigation-second-deal.html",
+        "headline": "Kawhi Leonard Trade Probe Expands to Second Endorsement Deal, Raptors Still Waiting",
+        "word_count": 556
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Kawhi Probe Expands\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** Kawhi Leonard Los Angeles Clippers\n- **Usage:** X/Facebook post image\n- **Caption overlay:** \"INVESTIGATION EXPANDS\" / \"Second deal under scrutiny\"\n\n#### Image Concept 2 — Social (1080x1350)\n- **Search term:** Kawhi Leonard Los Angeles Clippers\n- **Usage:** Secondary post image / article hero\n- **Caption overlay:** \"TRADE STILL FROZEN\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Kawhi Probe Expands — Second Endorsement Deal\n**Sources consulted:**\n- HoopsHype (July 14): Investigation now includes previously unreported second company endorsement deal\n- CBS Sports, Yahoo Sports, ESPN: Prior trade details and probe scope\n**Key verified facts:**\n- Investigation expanded to second endorsement deal as of July 14 (MEDIUM — HoopsHype)\n- Original deal: $28M Aspiration endorsement + $300M arena naming rights (MEDIUM — consistent across multiple prior sources)\n- Clippers say Joe Sanberg defrauded them; Sanberg sentenced to 14 years prison (MEDIUM — from pipeline history, multiple sources)\n- Trade details: Kawhi to Toronto for Brandon Ingram, Gradey Dick, picks including unprotected 2031/2033 first-rounders (MEDIUM — ESPN, CBS Sports)\n- Raptors declined to \"assume the risk\" of penalties, will not finalize until probe concludes (MEDIUM — Yahoo Sports)\n- Outside counsel Wachtell Lipton conducting investigation (MEDIUM — ESPN)\n- No timetable for conclusion (HIGH — consistent across all sources)\n**Flags:**\n- Second endorsement deal = NEW detail (July 14 HoopsHype, single source — MEDIUM confidence, confirm before citing as hard fact)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Summer League Day 7 — Brazile Drops 32, Hansen Nearly Triples in Portland Blowout",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM, 4:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "NBA Summer League Day 7 recap:\n\nNuggets 106-103 Thunder (Brazile 32 🔥)\nBlazers 111-84 Wolves (Hansen 18/10/5)\nSuns 95-88 Bucks (Koa Pete 19)\nJazz 80-63 Bulls (Aidoo 15/11)\n\nTrevon Brazile is having a Summer League to remember.\n\n#NBATwitter",
+          "posting_time": "9:00 AM, 4:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBATwitter"
+          ],
+          "char_count": 239
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Trevon Brazile just dropped 32 points in a Summer League game.\n\nThe Nuggets won 106-103 in a battle with OKC. Brazile was the best player on the floor.\n\nDenver's future is in good hands. #Denver #NBATwitter",
+          "posting_time": "9:00 AM, 4:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#Denver",
+            "#NBATwitter"
+          ],
+          "char_count": 206
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM, 4:00 PM"
+      },
+      "article": {
+        "filename": "article-03-summer-league-day-7-brazile-32-points.html",
+        "headline": "Brazile Erupts for 32 as Nuggets Edge Thunder; Hansen Nearly Triples in Portland Blowout",
+        "word_count": 520
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Summer League Day 7\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** Trevon Brazile Denver Nuggets\n- **Usage:** X/Facebook recap post\n- **Caption overlay:** \"32 POINTS\" / \"Brazile Erupts\"\n\n#### Image Concept 2 — Social (1080x1350)\n- **Search term:** Yang Hansen Portland Trail Blazers\n- **Usage:** Secondary Summer League post\n- **Caption overlay:** \"18 PTS / 10 REB / 5 AST\" / \"Yang Hansen\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Summer League Day 7\n**Sources consulted:**\n- ESPN box scores / Yahoo Sports Summer League coverage\n- NBA.com Summer League updates\n**Key verified facts:**\n- Nuggets 106, Thunder 103 — Trevon Brazile 32 points (MEDIUM — research summary)\n- Trail Blazers 111, Timberwolves 84 — Yang Hansen 18 pts / 10 reb / 5 ast (MEDIUM)\n- Suns 95, Bucks 88 — Koa Pete 19 pts, 2 steals (MEDIUM)\n- Jazz 80, Bulls 63 — Jonas Aidoo 15 pts / 11 reb (MEDIUM)\n**Flags:**\n- All Day 7 results from July 15 search summaries — MEDIUM confidence across the board",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "James Harden Opts Out of $42.3M — Working on New Cavs Deal",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "James Harden is opting out of his $42.3 million player option with the Cleveland Cavaliers.\n\nHe and the Cavs are working on a new multiyear deal.\n\nThe infrastructure for something special in Cleveland is being built piece by piece.\n\n#NBA #Cavaliers",
+          "posting_time": "1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA",
+            "#Cavaliers"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM"
+      },
+      "article": {
+        "filename": "article-04-james-harden-opts-out-cavs-new-deal.html",
+        "headline": "James Harden Opts Out of $42.3 Million, Working Toward New Multiyear Deal With Cavaliers",
+        "word_count": 465
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "James Harden Opts Out\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** James Harden Cleveland Cavaliers\n- **Usage:** Facebook/X post\n- **Caption overlay:** \"OPTS OUT OF $42.3M\" / \"New deal with Cavs coming\"\n\n#### Image Concept 2 — Social (1080x1350)\n- **Search term:** James Harden Cleveland Cavaliers\n- **Usage:** Article hero\n- **Caption overlay:** None\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "James Harden Opts Out — Cavs Negotiating\n**Sources consulted:**\n- NBA free agency live updates (Yahoo Sports, ESPN)\n**Key verified facts:**\n- Harden declining $42.3M player option for 2026-27 (MEDIUM)\n- Working on new multiyear deal with Cavaliers (MEDIUM)\n**Flags:**\n- Do not characterize this as Harden \"leaving\" the Cavs — he's opting out to re-sign on a new deal",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "AJ Dybantsa Shut Down After Two Summer League Games",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "7:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "27 points in his debut. 23 in his second game.\n\nThat was enough for the Washington Wizards — they've shut down AJ Dybantsa for the rest of Summer League.\n\nMission accomplished. The No. 1 pick made his statement. #NBA #Wizards",
+          "posting_time": "7:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA",
+            "#Wizards"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "7:00 PM"
+      },
+      "article": {
+        "filename": "article-05-aj-dybantsa-shut-down-summer-league.html",
+        "headline": "Wizards Shut Down AJ Dybantsa After Two Dominant Outings — No. 1 Pick Made His Statement",
+        "word_count": 467
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "AJ Dybantsa Shut Down\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** AJ Dybantsa Washington Wizards\n- **Usage:** Evening Facebook/X post\n- **Caption overlay:** \"27 PTS | 23 PTS\" / \"Shut Down. Mission Accomplished.\""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "AJ Dybantsa Shut Down\n**Sources consulted:**\n- Bleacher Report: \"AJ Dybantsa Shut Down Rest of NBA Summer League — Wizards\"\n- NBA.com: Summer League debut recap\n**Key verified facts:**\n- Dybantsa scored 27 pts in debut (MEDIUM — Bleacher Report, NBA.com)\n- 27-pt debut tied Blake Griffin for most by a No. 1 pick in Las Vegas Summer League debut (MEDIUM — NBA.com)\n- Scored 23 pts in Game 2 (MEDIUM)\n- Wizards shut him down for remainder of Summer League (MEDIUM — Bleacher Report)\n- No. 1 overall pick, 2026 NBA Draft (HIGH)\n- No injury reported — precautionary shutdown (MEDIUM)\n**Flags:**\n- \"Tied Blake Griffin\" comparison: MEDIUM — came from research summary, would need direct source verification. Use with appropriate hedge.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

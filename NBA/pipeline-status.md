@@ -1,10 +1,21 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Last Run
-- **Date**: 2026-07-14
+- **Date**: 2026-07-15
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-15
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 8 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** hh-postplanner-2026-07-15.xlsx (8 posts) + hh-postplanner-tobi-2026-07-15.xlsx (8 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-07-15/review-dashboard.html (23 items)
+- **Notes:** NBA FREE AGENCY / SUMMER LEAGUE DAY 7 — LeBron to Warriors? Multiple WCon execs (HoopsHype) say Warriors now frontrunner; Fanatics Fest July 16-17/podcast July 16 1:15 PM ET with Haliburton; Kawhi probe expands to second endorsement deal (July 14 HoopsHype); Raptors still can't finalize trade; Day 7 highlights: Brazile 32 (Nuggets 106-103 Thunder)/Hansen 18/10/5 (Blazers 111-84 Wolves)/Koa Pete 19 (Suns 95-88 Bucks); Harden opts out $42.3M/working new Cavs deal; Dybantsa shut down after 27+23 pt performances
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-14
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
@@ -58,27 +69,3 @@
 - **Articles:** 5 (pen names: Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce, Jake Torres)
 - **PostPlanner exports:** hh-postplanner-2026-07-10.xlsx (7 posts) + hh-postplanner-tobi-2026-07-10.xlsx (7 TOBI posts)
 - **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-07-10/review-dashboard.html (27 items)
-- **Notes:** NBA SUMMER LEAGUE DAY 2 / FREE AGENCY — Dybantsa 27 pts wins debut vs Peterson 24/Wizards 92-88; LeBron still undecided/Draymond declined $27.7M option/Warriors all-in; Kawhi-to-Toronto trade frozen by NBA investigation (Clippers $28M Aspiration Fund probe); Dosunmu 5yr/$112M stays with Timberwolves (43 pts off bench vs Nuggets last playoffs); Jokić confirms waiting for $359.5M NBA-record extension next summer
-- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
-
-### 2026-07-09
-- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
-- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
-- **X Posts:** 7 written, all under 280 characters
-- **Facebook Posts:** 5 stories, long-form + caption each
-- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole)
-- **PostPlanner exports:** hh-postplanner-2026-07-09.xlsx (7 posts) + hh-postplanner-tobi-2026-07-09.xlsx (7 TOBI posts)
-- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-07-09/review-dashboard.html (27 items)
-- **Notes:** NBA SUMMER LEAGUE / FREE AGENCY DAY 10 — Dybantsa (No. 1, Wizards) vs Peterson (No. 2, Jazz) tonight 9PM ET ESPN; LeBron "taking 76ers very seriously" (Shams/Gansey-Maxey connections); Giannis No. 7 in Miami/$275M extension Jan 2027; DeRozan waived by Kings (19.2 ppg, 6x All-Star, free agent); Paul George No. 13 in Boston/$3.9M bonus waived
-- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
-
-### 2026-07-08
-- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
-- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
-- **X Posts:** 6 written, all under 280 characters
-- **Facebook Posts:** 5 stories, long-form + caption each
-- **Articles:** 5 (pen names: Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce)
-- **PostPlanner exports:** hh-postplanner-2026-07-08.xlsx (6 posts) + hh-postplanner-tobi-2026-07-08.xlsx (6 TOBI posts)
-- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-07-08/review-dashboard.html (26 items)
-- **Notes:** NBA FREE AGENCY DAY 9 — Donovan Mitchell signs $273M max extension with Cavaliers (left ~$80M on table, starts 2027-28); Kyle Lowry retires as a Toronto Raptor (No. 7 to rafters, "Lowry Day" proclaimed by mayor, Tempo co-owner); LeBron 6-team shortlist confirmed (76ers now live after Brown trade, Rich Paul: mid-July decision); Vegas Summer League opens: Dybantsa (#1, Wizards) pro debut vs Peterson (#2, Jazz) July 9 9PM ET ESPN; Ace Bailey hip flexor OUT for Tuesday
-- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
