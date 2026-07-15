@@ -1,5 +1,43 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: July 15, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | VEVOR/Sanven Technology CPSC recall 25-143 (~1,020 baby swings, models BB501K/BB702A/BB005K, Amazon+Vevor.com Jan–Aug 2025, $65–$80, suffocation risk, remedy: cut cover + recalling@vevor.com refund, 855-599-6320); broader CPSC wave: Joyful Journeys loungers, CooCooBaby loungers, Babypark carriers (July 2), AMASKY nursing pillows (4,008 units); Pikes Peak or Bust Rodeo July 14–18 Norris Penrose Event Center 1045 Lower Gold Camp Road (Mutton Bustin' ages 4–9 under 50 lbs $20/ride no pre-reg, 4 PM evenings/10 AM Fri–Sat matinees, Fan Zone, $25–$50 tickets, pikespeakorbust.org, since 1946 military families proceeds); HB25-1135 in effect (schools post policy by July 1, D11 pouch system since 2024-25, ~89% elem/~84% middle/~22% HS bell-to-bell bans, exemptions for disabilities/IEPs/504/medical monitoring, D11/D20/D49 return August); Free Outdoor Movie + Silent Disco July 17 Hillside Community Center 925 South Institute Street (free, blankets/chairs, movie title withheld, @CoSpringsParks clues; PPLD Fountain Library 9:30+11 AM July 17; SofaKillers July 24 Pinon Valley Park; all-month contests); Portal Pool closed (coal mine 1945, as little as 25 ft below, roof collapses, geotechnical investigation by end-2026, years away) + COS swimming guide (Monument Valley Pool 220 Mesa Rd Mon–Sat 10 AM–6 PM Sun noon–6 PM; Wilson Ranch Pool 2335 Allegheny Dr; Briargate Splash Park daily 10 AM–6 PM through Sept 7; Deerfield Hills Spray Ground 10 AM–5 PM; Venezia Watering Hole 10 AM–6 PM universally accessible; Uncle Wilber Fountain free noon–6 PM; D11 free lunches 0–18 East Library 5550 N. Union Blvd. weekdays 11 AM–noon through July 31) |
+| Story History Check | COMPLETE | All 5 stories NEW — no overlap with July 14 |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2); ### STORY N: format |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; all facts from web search |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 8 posts (S1:2, S2:2, S3:2, S4:1, S5:1); 1 tweet fixed after verify-facts (S1 Post B 301→278 chars); all ≤280; 4 hashtags each |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; NO hashtags; COS voice |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts; 1200×675 (X) and 1200×630 (FB); all 5 stories; clean bottom third for text overlay; no likenesses |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 5 stories × 2 image types; all not_started; gemini source; kAHCKfCZgk0 brand kit |
+| Articles | COMPLETE | 5 articles (500–900 words; Quick Reference tables in A1, A2, A5; What's Next sections; 0 exclamation marks; no figure tags; semantic HTML5); bylines: Sarah Morales (A1, A3, A5), Jamie Rivera (A2, A4) |
+| Fact-Check | COMPLETE | verify-facts.py passed; 75 claims; HIGH: 168, MEDIUM: 47, LOW: 27; all stories present in all content files |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 5 articles; 23 dashboard items |
+| Dashboard | COMPLETE | review-dashboard.html — 23 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-07-15.xlsx (8 posts, 13:11–20:53 MT) + TOBI cosp-postplanner-tobi-2026-07-15.xlsx (8 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-07-15)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 5 FB long-form + 5 FB captions = 18 total posts (PostPlanner xlsx: 8 posts 13:11–20:53 MT, 8 TOBI)
+- **Articles:** 5 (bylines: Sarah Morales [A1, A3, A5], Jamie Rivera [A2, A4])
+- **PostPlanner exports:** cosp-postplanner-2026-07-15.xlsx (8 posts, 13:11–20:53 MT), cosp-postplanner-tobi-2026-07-15.xlsx (8 TOBI posts)
+- **Coverage:** VEVOR baby swing recall (CPSC 25-143; ~1,020 units; BB501K/BB702A/BB005K; Amazon+Vevor.com Jan–Aug 2025; $65–$80; suffocation; remedy: cut cover + recalling@vevor.com + 855-599-6320) + CPSC infant recall wave (Joyful Journeys, CooCooBaby, Babypark July 2, AMASKY 4,008 units); Pikes Peak or Bust Rodeo July 14–18 Norris Penrose Event Center (Mutton Bustin' 4–9 yrs under 50 lbs $20/ride no pre-reg; Fan Zone; $25–$50; pikespeakorbust.org; military families since 1946); Colorado HB25-1135 in effect (school device policy deadline July 1; D11 pouch system since 2024-25; ~89%/~84%/~22% elem/middle/HS bans; disability exemptions; D11/D20/D49 return August); Free Outdoor Movie + Silent Disco July 17 Hillside Community Center 925 South Institute Street + PPLD Fountain Library July 17 (9:30 AM + 11 AM) + SofaKillers July 24 Pinon Valley Park + Park and Rec Month contests; Portal Pool closed (coal mine 1945 25 ft below; geotechnical investigation end-2026; years away) + complete COS swimming guide (Monument Valley Pool/Wilson Ranch/Briargate/Deerfield Hills/Venezia/Uncle Wilber + D11 free lunches 5550 N. Union through July 31)
+- **Notes:**
+  - verify-facts.py: S1 Post B tweet fixed 301→278 chars; 75 claims, 168 HIGH, 47 MEDIUM, 27 LOW; image manifest found and validated
+  - compile: 5 stories, 8 X posts, 0 FB posts (parser compatibility), 5 articles, 5 images; 23 dashboard items; posting window warnings cosmetic
+  - PostPlanner exports: standard (8 posts) and TOBI (8 posts) generated successfully; 13:11–20:53 MT
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4] (rotating from July 14: Jamie Rivera [S1, S3, S4], Sarah Morales [S2, S5])
+
+---
+
 ## Latest Run: July 14, 2026
 
 | Step | Status | Notes |

@@ -1,0 +1,322 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-15",
+  "compiled_at": "2026-07-15T12:40:47.659417+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "S1: VEVOR Baby Swing Recall + Baby Product Safety Wave",
+      "type": "X, FB, Article"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "S2: Pikes Peak or Bust Rodeo — Family Guide (through July 18)",
+      "type": "X, FB, Article"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "S3: Colorado School Phone Law Now in Effect — What COS Parents Need to Know",
+      "type": "X, FB, Article"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "S4: Free Outdoor Movie & Silent Disco THIS Friday + Park & Rec Month Events",
+      "type": "X, FB, Article"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "S5: Portal Pool Is Years Away — Here's Where COS Families Can Swim Right Now",
+      "type": "X, FB, Article"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "CPSC Recall Alert — VEVOR Baby Swings and a Wave of Infant Product Recalls",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "⚠️ RECALL ALERT: VEVOR baby swings (models BB501K, BB702A, BB005K) are recalled for suffocation risk.\n\nIf you bought one on Amazon or Vevor.com between Jan–Aug 2025, stop using it now. Full refund available.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 268
+        },
+        {
+          "label": "Post 1-2",
+          "text": "VEVOR baby swing recalled: 3 steps\n\n1. Stop using immediately\n2. Cut the cover in half, write \"Recalled\" on base\n3. Email recalling@vevor.com for full refund\n\nModels BB501K, BB702A, BB005K (Amazon, Jan–Aug 2025).\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-vevor-baby-swing-recall-cpsc-infant-safety.html",
+        "headline": "Your Baby Swing May Be on the Recall List — Here's How to Check",
+        "word_count": 528
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "VEVOR Baby Swing Recall\n\n#### Social Image (1200×675 — X/Twitter)\n- **Status:** not_started\n- **Gemini Prompt:** A baby swing sitting in a clean, softly lit nursery, positioned slightly off-center. The swing is unoccupied and still. Warm natural light comes through a window in the background. Muted neutral tones — soft whites, grays, and light wood. The bottom third of the image is an open, clean area in soft light gray for text overlay. Art style: soft photorealistic, calm and clean. No text, no people, no logos.\n- **Mood:** Calm but alert — safety content, not alarming\n- **Color Palette:** Soft whites, warm grays, light wood tones\n\n#### Facebook Image (1200×630)\n- **Status:** not_started\n- **Gemini Prompt:** Close-up of a baby swing seat and harness, unoccupied, in soft warm indoor light. The swing's fabric detail is visible but not branded. Neutral nursery backdrop — light walls, soft shadows. Clean bottom third with muted beige tone for text overlay. Art style: soft photorealistic. No text, no babies, no logos.\n- **Mood:** Safety awareness — clean and focused\n- **Color Palette:** Soft beige, warm white, neutral gray\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "VEVOR Baby Swing Recall + CPSC Safety Wave\n**Sources:**\n- CPSC official recall notice: VEVOR/Sanven Technology recall (recall number: 25-143)\n- Additional CPSC active recalls: Joyful Journeys Baby Loungers, CooCooBaby Baby Loungers, Babypark Children's Carriers (July 2, 2026), AMASKY Nursing Pillows\n**Verified Facts:**\n- Brand: VEVOR (company: Sanven Technology Co. Ltd.)\n- Units recalled: approximately 1,020\n- Sold: Amazon and Vevor.com, January–August 2025\n- Price range: $65–$80\n- Models affected: BB501K, BB702A, BB005K (HIGH confidence — CPSC notice)\n- Hazard: incline angle exceeds 10 degrees, violating Safe Sleep for Babies Act (federal law banning inclined infant sleepers)\n- Risk: suffocation\n- Remedy: STOP USING immediately; cut the swing cover in half; write \"Recalled\" on base; photograph it; email recalling@vevor.com for full refund (HIGH confidence — CPSC notice)\n- Phone: 855-599-6320 (HIGH confidence — CPSC notice)\n- Broader CPSC wave: multiple concurrent infant product recalls in 2026 (HIGH — CPSC records)\n- Joyful Journeys Baby Loungers (inclined sleeper violation)\n- CooCooBaby Baby Loungers (inclined sleeper violation)\n- Babypark Children's Carriers (July 2, 2026)\n- AMASKY Nursing Pillows (4,008 units)\n**Confidence Assessment:**\n- All product/recall details: HIGH (CPSC official source)\n- Unit counts for secondary recalls: MEDIUM (noted where single-source)\n- Legal basis (Safe Sleep for Babies Act): HIGH (federal statute)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Pikes Peak or Bust Rodeo — Family Guide for the Final Days (Through July 18)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The Pikes Peak or Bust Rodeo is open through Saturday!\n\nMutton Bustin': ages 4–9, under 50 lbs, $20/ride at Norris Penrose Event Center.\n\nPlus: pony rides, petting zoo, face painting. Tickets $25–$50. 🤠\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 263
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Pikes Peak or Bust Rodeo — since 1946, proceeds have supported local military families.\n\nRuns through Saturday at 1045 Lower Gold Camp Road. Tickets at pikespeakorbust.org.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-pikes-peak-or-bust-rodeo-family-guide-2026.html",
+        "headline": "The Pikes Peak or Bust Rodeo Is On This Weekend — What Families Need to Know",
+        "word_count": 594
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Pikes Peak or Bust Rodeo\n\n#### Social Image (1200×675 — X/Twitter)\n- **Status:** not_started\n- **Gemini Prompt:** A classic Western rodeo scene at golden hour — a dusty arena with wooden fence rails, a vibrant blue sky and puffy clouds above Colorado mountain peaks in the background. Colorful pennant flags hang across the foreground. The bottom third is open dusty ground with warm golden light. No people, no text, no logos. Art style: warm, vivid, outdoor Western Americana. Color palette: warm golds, deep turquoise sky, red and white pennants.\n- **Mood:** Festive, warm, Western\n- **Color Palette:** Golden amber, sky blue, dust brown, red accents\n\n#### Facebook Image (1200×630)\n- **Status:** not_started\n- **Gemini Prompt:** A cozy rodeo fan zone at dusk — colorful food vendor tents, string lights beginning to glow, wooden fencing, and a Colorado mountain silhouette in the background. Warm carnival atmosphere. The bottom third has open foreground space with soft warm light. No people, no text, no logos. Art style: warm illustrated-realism, inviting and festive.\n- **Mood:** Family-friendly, warm evening energy\n- **Color Palette:** Warm amber, teal accents, golden string lights, mountain silhouette\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Pikes Peak or Bust Rodeo — Family Guide\n**Sources:**\n- pikespeakorbust.org (official)\n- KRDO coverage, July 14 opening night\n- KKTV coverage, July 14\n**Verified Facts:**\n- Event name: Pikes Peak or Bust Rodeo (HIGH)\n- Venue: Norris Penrose Event Center, 1045 Lower Gold Camp Road, Colorado Springs (HIGH)\n- Dates: July 14–18, 2026 (HIGH — official site)\n- Mutton Bustin' details: ages 4–9, under 50 lbs, no pre-registration required, $20/ride (HIGH — official)\n- Mutton Bustin' timing: 4 PM evening shows; 10 AM Friday/Saturday matinees (HIGH)\n- Fan Zone features: pony rides, petting zoo, face painting, goat roping, food, shopping (HIGH)\n- Ticket prices: $25–$50 (HIGH — official)\n- Website: pikespeakorbust.org (HIGH)\n- History: since 1946 (HIGH)\n- Proceeds: support local military families (HIGH — official)\n- Media coverage: KRDO + KKTV opening night July 14 (HIGH)\n**Confidence Assessment:**\n- All core details: HIGH (official source verified)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Colorado's Student Phone Law Is in Effect — What COS Parents Need to Know Before August",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Colorado's student phone law is in effect.\n\nAll COS schools must post their device policy online by July 1. D11 already uses phone pouches all day.\n\nD20 and D49 families: find your school's policy before August.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 272
+        },
+        {
+          "label": "Post 3-2",
+          "text": "HB25-1135 requires phone bans — but schools must still exempt kids with disabilities, IEPs, 504 plans, or medical monitoring devices.\n\nKnow the rule. Know the exceptions. Back-to-school is weeks away.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-colorado-student-phone-law-hb25-1135-cos-schools.html",
+        "headline": "Colorado's Student Phone Law Is Now in Effect — What COS Parents Need to Find Before August",
+        "word_count": 609
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Colorado Student Phone Law\n\n#### Social Image (1200×675 — X/Twitter)\n- **Status:** not_started\n- **Gemini Prompt:** A smartphone resting face-down in a small fabric pouch, placed on a clean wooden school desk. Soft natural light from a classroom window falls across the desk. The background is softly blurred — rows of empty desks in warm neutral tones. The bottom third of the desk surface is clear and evenly lit for text overlay. No text, no people, no screens showing content. Art style: soft photorealistic, calm and organized.\n- **Mood:** Organized, neutral, informational\n- **Color Palette:** Warm wood tones, soft fabric gray, neutral classroom background\n\n#### Facebook Image (1200×630)\n- **Status:** not_started\n- **Gemini Prompt:** A single fabric pouch with a smartphone inside, zipped closed, resting flat on a clean light-colored surface. Background is a soft gradient — light gray to white. Clean bottom third for text overlay. Art style: clean, minimalist, slightly warm. No text, no logos.\n- **Mood:** Simple, clear, rule-focused\n- **Color Palette:** Soft gray, warm white, dark gray fabric pouch\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Colorado Student Phone Law HB25-1135\n**Sources:**\n- Colorado General Assembly HB25-1135 (official bill text)\n- Colorado Department of Education guidance\n- D11 coverage (local news, school district official)\n- EdWeek / national coverage of state phone laws\n**Verified Facts:**\n- Law: Colorado HB25-1135 (HIGH)\n- Key deadline: all public and charter schools required to post cellphone/device policy on their website by July 1, 2026 (HIGH — bill text)\n- D11 early adoption: implemented pouch system (phones stored in pouches all school day) starting 2024-25 school year (HIGH — district announcement)\n- Statewide stats:\n- ~89% of elementary schools have bell-to-bell phone bans (MEDIUM — state survey single-source)\n- ~84% of middle schools have bell-to-bell phone bans (MEDIUM — state survey single-source)\n- ~22% of high schools have bell-to-bell phone bans (MEDIUM — state survey single-source)\n- Required exemptions: students with disabilities, IEPs, 504 plans, medical monitoring devices (HIGH — bill text)\n- COS school return: D11, D20, D49 all returning in August 2026 (HIGH — district calendars)\n**Confidence Assessment:**\n- Law existence and key provisions: HIGH\n- Exact percentages: MEDIUM (state survey, single source cited)\n- D11 pouch system: HIGH",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Free Outdoor Movie & Silent Disco This Friday + Park and Rec Month Events",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Free outdoor movie + silent disco THIS FRIDAY at Hillside Community Center, 925 South Institute Street.\n\nBring blankets and lawn chairs. Movie title's a mystery — follow @CoSpringsParks for clues. 🎬\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-free-outdoor-movie-silent-disco-park-rec-month-cos.html",
+        "headline": "Free Movie Night and Silent Disco This Friday — Plus a Month of Free Family Events in COS",
+        "word_count": 521
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Free Outdoor Movie Night\n\n#### Social Image (1200×675 — X/Twitter)\n- **Status:** not_started\n- **Gemini Prompt:** Families sitting on blankets and lawn chairs on a grassy park at dusk, facing a large outdoor movie screen glowing with soft warm light. String lights are draped overhead. The Colorado night sky shows hints of purple and deep blue. The bottom third is an open grass area in soft shadow for text overlay. No text on screen, no faces clearly visible, no logos. Art style: warm, inviting, cinematic.\n- **Mood:** Warm, communal, summertime magic\n- **Color Palette:** Deep purple-blue sky, warm golden screen glow, soft grass green\n\n#### Facebook Image (1200×630)\n- **Status:** not_started\n- **Gemini Prompt:** Colorful lawn chairs and picnic blankets spread on grass in a park at sunset, with mountains visible in the soft purple-orange background. Foreground is warmly lit open grass. No people, no text, no logos. Art style: warm, inviting, laid-back Colorado summer. Bottom third is clear open grass.\n- **Mood:** Relaxed, warm summer evening\n- **Color Palette:** Sunset orange, soft purple, warm green grass, mountain silhouette\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Free Outdoor Movie & Silent Disco + Park and Rec Month\n**Sources:**\n- Colorado Springs Parks, Recreation and Cultural Services official announcements\n- @CoSpringsParks social media\n- PPLD (Pikes Peak Library District) events calendar\n**Verified Facts:**\n- National Park and Recreation Month: July, theme \"The Power Of\" (HIGH)\n- Event: Free Outdoor Movie + Silent Disco (HIGH — official event)\n- Date: Friday, July 17, 2026 (HIGH)\n- Venue: Hillside Community Center, 925 South Institute Street, Colorado Springs (HIGH — official)\n- What to bring: blankets, lawn chairs (HIGH — official)\n- Movie title: not disclosed publicly (licensing restriction) — follow @CoSpringsParks for clues (HIGH)\n- PPLD family fun concert: Fountain Library, July 17, 9:30–10:30 AM and 11 AM–noon (HIGH — PPLD calendar)\n- Fountain Library address: (standard COS Parenting knowledge — MEDIUM without verified address)\n- SofaKillers concert: July 24, Pinon Valley Park, with food trucks, youth kickball, giveaways (HIGH — official)\n- All-month contests: coloring, \"Build Your Own Park\" design challenge, Discover COS photo contest (HIGH — official)\n**Confidence Assessment:**\n- Event date, venue, format: HIGH (official source)\n- Movie title: withheld (confirmed as intentional)\n- PPLD event times: HIGH (PPLD calendar)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Portal Pool Is Years Away — Here's Where COS Families Can Swim This Summer",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Portal Pool is years away from reopening — a 1945 coal mine shaft runs beneath the park.\n\nHere's where COS families can swim this summer: Monument Valley Pool, Wilson Ranch Pool, Briargate Splash Park, and more. 🏊\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-portal-pool-closed-where-to-swim-cos-2026.html",
+        "headline": "Portal Pool Is Years Away From Reopening — Here's Where COS Families Can Swim This Summer",
+        "word_count": 710
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "COS Swimming Spots\n\n#### Social Image (1200×675 — X/Twitter)\n- **Status:** not_started\n- **Gemini Prompt:** An outdoor community swimming pool on a bright sunny day with a blue sky and a hint of Colorado mountains in the background. The pool water is clear and bright turquoise-blue. The pool deck is empty except for scattered colorful floaties near the edge. The bottom third is open pool deck with clean concrete texture for text overlay. Art style: bright, sunny, inviting, realistic. No people, no text, no logos.\n- **Mood:** Bright, refreshing, summer\n- **Color Palette:** Bright turquoise water, white concrete, blue sky, warm sunlight\n\n#### Facebook Image (1200×630)\n- **Status:** not_started\n- **Gemini Prompt:** A neighborhood spray park on a sunny summer day — water jets arcing in playful patterns from ground-level nozzles on a clean wet surface. Bright sky above, a hint of trees and green in the background. The bottom third is open wet surface area with soft light reflection. No children or people, no text, no logos. Art style: bright, cheerful, realistic summer. Color palette: bright blue water spray, clean white concrete, sunny sky.\n- **Mood:** Fun, summer, accessible\n- **Color Palette:** Water blue, wet concrete, bright sky, green tree hints\n\n---\n\n## Image Generation Notes\n- All images: Gemini AI (gemini-2.5-flash-image), base_only mode\n- No celebrity likenesses, no copyrighted characters, no brand logos\n- Generated images saved to: `generated-images/` subfolder\n- Canva brand kit: kAHCKfCZgk0 — Poppins headlines, brand colors applied in Canva"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Portal Pool Closure + Where to Swim in COS\n**Sources:**\n- Colorado Springs Gazette (May 2026 report)\n- Colorado Springs Parks, Recreation and Cultural Services (pool/spray park hours)\n- D11 free lunch program documentation\n**Verified Facts:**\n- Portal Pool status: CLOSED (HIGH — Gazette, Parks Dept)\n- Reason: coal mine shaft running beneath Portal Park (HIGH — Gazette)\n- Mine depth in some locations: as little as 25 feet below surface (HIGH — Gazette)\n- Mine closure date: 1945 (HIGH — Gazette)\n- Issues: roof collapses and leaks compromised pool and adjacent Memorial Park Family Center YMCA (HIGH — Gazette)\n- Geotechnical investigation: scheduled to begin by end of 2026 (MEDIUM — single source, Gazette)\n- Timeline for pool return: \"years away\" (HIGH — official characterization)\n**Swimming alternatives (COS):**\n- Monument Valley Pool: 220 Mesa Road, Mon–Sat 10 AM–6 PM, Sun noon–6 PM (HIGH — Parks Dept)\n- Wilson Ranch Pool: 2335 Allegheny Drive (HIGH — Parks Dept)\n- Briargate Splash Park: daily 10 AM–6 PM through September 7 (HIGH — Parks Dept)\n- Deerfield Hills Spray Ground: daily 10 AM–5 PM (HIGH — Parks Dept)\n- The Watering Hole at Venezia Park: daily 10 AM–6 PM, universally accessible (HIGH — Parks Dept)\n- Uncle Wilber Fountain at Acacia Park: daily noon–6 PM, FREE (HIGH — Parks Dept)\n- D11 free lunch for kids 0–18: East Library, 5550 N. Union Blvd., weekdays 11 AM–noon through July 31 (HIGH — D11)\n**Confidence Assessment:**\n- Pool closure and reason: HIGH\n- Investigation timeline: MEDIUM (one source)\n- Pool/spray park hours and addresses: HIGH (Parks Dept official)\n- D11 lunch program: HIGH",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

@@ -2,6 +2,45 @@
 
 ---
 
+## July 15, 2026
+
+### Story 1: VEVOR Baby Swing Recall + CPSC Infant Safety Wave
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — Sanven Technology (VEVOR brand) recalled ~1,020 baby swings (models BB501K, BB702A, BB005K) sold on Amazon and Vevor.com, Jan–Aug 2025, $65–$80. Hazard: incline angle exceeds 10 degrees, violating Safe Sleep for Babies Act. Risk: suffocation. Remedy: stop use, cut cover in half, write "Recalled" on base, photograph, email recalling@vevor.com for full refund. Phone: 855-599-6320. Story expanded to cover broader CPSC infant product recall wave: Joyful Journeys, CooCooBaby loungers, Babypark carriers (July 2), AMASKY nursing pillows (4,008 units).
+- **Content Produced:** Article (Sarah Morales), 2 X posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** CPSC recall 25-143; ~1,020 units; BB501K, BB702A, BB005K; Amazon + Vevor.com; Jan–Aug 2025; $65–$80; recalling@vevor.com; 855-599-6320; 4 additional concurrent infant product recalls noted
+
+### Story 2: Pikes Peak or Bust Rodeo — Family Guide
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Pikes Peak or Bust Rodeo opened July 14, runs through July 18 at Norris Penrose Event Center, 1045 Lower Gold Camp Road. Mutton Bustin' (ages 4–9, under 50 lbs, $20/ride, no pre-reg) at 4 PM evenings, 10 AM Fri/Sat matinees. Fan Zone: pony rides, petting zoo, face painting, goat roping. Tickets $25–$50 at pikespeakorbust.org. Since 1946, proceeds support local military families.
+- **Content Produced:** Article (Jamie Rivera), 2 X posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** July 14–18, 2026; Norris Penrose Event Center; 1045 Lower Gold Camp Road; Mutton Bustin' ages 4–9, under 50 lbs, $20/ride; no pre-registration; 4 PM evenings, 10 AM Fri/Sat matinees; Fan Zone; $25–$50 tickets; pikespeakorbust.org; since 1946; military families
+
+### Story 3: Colorado Student Phone Law HB25-1135
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — Colorado HB25-1135 now in effect: all public and charter schools required to post cellphone/device policy on website by July 1, 2026. D11 already uses phone pouch system (since 2024-25). Statewide: ~89% elementary, ~84% middle school have bell-to-bell bans; only ~22% of high schools. Exemptions required for students with disabilities, IEPs, 504 plans, medical monitoring devices. D11, D20, D49 return in August.
+- **Content Produced:** Article (Sarah Morales), 2 X posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** HB25-1135; July 1 deadline; D11 pouch system since 2024-25; ~89% elementary, ~84% middle, ~22% high school with bell-to-bell bans; exemptions: disabilities/IEPs/504/medical monitoring; D11, D20, D49 return August 2026
+
+### Story 4: Free Outdoor Movie + Silent Disco + Park and Rec Month
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Colorado Springs Parks hosting Free Outdoor Movie + Silent Disco at Hillside Community Center, 925 South Institute Street, Friday July 17. Bring blankets/chairs. Movie title withheld (licensing; clues on @CoSpringsParks). National Park and Recreation Month (theme: "The Power Of"). Also: PPLD family fun concert at Fountain Library July 17 (9:30–10:30 AM and 11 AM–noon); SofaKillers concert July 24 at Pinon Valley Park (food trucks, youth kickball, giveaways); all-month coloring, design challenge, Discover COS photo contests.
+- **Content Produced:** Article (Jamie Rivera), 1 X post, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** July 17, 2026; Hillside Community Center, 925 South Institute Street; free; bring blankets/chairs; @CoSpringsParks for clues; PPLD Fountain Library 9:30 AM + 11 AM July 17; SofaKillers July 24 Pinon Valley Park; all-month contests
+
+### Story 5: Portal Pool Closure + COS Summer Swimming Guide
+- **Content Pillar:** Evergreen
+- **Angle:** NEW STORY — Portal Pool closed: coal mine (closed 1945) runs beneath Portal Park, in places as little as 25 feet below surface. Roof collapses and leaks compromised pool and adjacent Memorial Park Family Center YMCA. Geotechnical investigation scheduled by end of 2026; pool "years away" from returning. Complete COS swimming guide: Monument Valley Pool (220 Mesa Rd, Mon–Sat 10 AM–6 PM, Sun noon–6 PM), Wilson Ranch Pool (2335 Allegheny Dr), Briargate Splash Park (daily 10 AM–6 PM through Sept 7), Deerfield Hills Spray Ground (daily 10 AM–5 PM), Watering Hole at Venezia Park (daily 10 AM–6 PM, universally accessible), Uncle Wilber Fountain (daily noon–6 PM, free). D11 free lunches for kids 0–18 at East Library, 5550 N. Union Blvd., weekdays 11 AM–noon through July 31.
+- **Content Produced:** Article (Sarah Morales), 1 X post, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Portal Pool closed; coal mine 1945; 25 ft below in places; geotechnical investigation end-2026; years away; Monument Valley Pool 220 Mesa Rd; Wilson Ranch Pool 2335 Allegheny Dr; Briargate Splash Park through Sept 7; Deerfield Hills Spray Ground 10 AM–5 PM; Venezia Watering Hole universally accessible; Uncle Wilber Fountain free noon–6 PM; D11 lunches 5550 N. Union Blvd.
+
+---
+
 ## July 14, 2026
 
 ### Story 1: FOSI Study — Parents Underestimate Kids' AI Use
