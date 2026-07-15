@@ -2364,3 +2364,49 @@ July 12 pipeline contained incorrect winners for Scottish Open (MacIntyre report
 - **Key facts:** WARN Act notices filed ~July 8 US+UK; 300+ staff; league statement "no changes to current workforce"; PIF announced April 2026 ends funding after 2026; $5B+ invested; $400M funding gap; $250-350M investor search (Ducera Partners); CEO meetings; next event July 23 JCB GCC England; final 2 events at risk; reduced 10-event 2027 plan if funded
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Investor deal closes or fails; JCB event proceeds July 23; WARN Act 60-day deadline September
+
+## 2026-07-15
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-15 | T1 | Open Championship Eve — What to Watch as the 154th Major Begins Thursday at Royal Birkdale | X, FB, Article | FOLLOW UP |
+| 2026-07-15 | T1 | McIlroy Chasing History — Major No. 7 Would Break European Record Outright | X, FB, Article | FOLLOW UP |
+| 2026-07-15 | T1 | Fleetwood's Moment — Hometown Star Takes On The Open at the Course Next Door | X, FB, Article | FOLLOW UP |
+| 2026-07-15 | T2 | Haeran Ryu's Historic Evian — The Round of 60 and a Playoff That Defined Her Summer | X, FB, Article | FOLLOW UP |
+| 2026-07-15 | T2 | Tom Kim's Drought Is Over — What the Scottish Open Win Means for His Career | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Open Championship Eve
+- **Tier:** 1
+- **Category:** The Open Championship / Major Preview
+- **Key facts:** 154th Open at Royal Birkdale July 16-19; 7,223 yards par 70 links; first groups ~1:30 AM ET Thursday; Scheffler +700 (defending), McIlroy +850, Fleetwood +1500, Fitzpatrick +1500, Rahm +2000; scattered showers throughout week; 156-player field
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R1 leaderboard; R1 recap; Scheffler/McIlroy/Fleetwood performance
+
+### STORY 2: McIlroy Major No. 7
+- **Tier:** 1
+- **Category:** Rory McIlroy / Historical Record
+- **Key facts:** McIlroy has 6 majors; 7th would make him European man with most major victories in history (breaks tie with Faldo); back-to-back Masters 2025+2026; last Open win 2014; T7 Scottish Open at -12; +850 odds
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** McIlroy R1; McIlroy contending/winning; historical record claim
+
+### STORY 3: Fleetwood Hometown
+- **Tier:** 1
+- **Category:** Tommy Fleetwood / Human Interest
+- **Key facts:** Grew up Southport (same town as Royal Birkdale); world No. 3; best player without major; father caddying; skipped Scottish Open for Birkdale prep; no English Open winner since Faldo 1992; +1500 odds; hasn't finished outside top 14 in last 5 events
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Fleetwood R1; Fleetwood contending/winning; England reaction
+
+### STORY 4: Haeran Ryu Evian
+- **Tier:** 2
+- **Category:** LPGA / Evian Championship
+- **Key facts:** Won Evian July 9-12 at Evian Resort GC France; -19 total; playoff over Brooke Henderson (both -19); R3 score 60 (lowest in LPGA major history); birdied first playoff hole; $1.4M winner's share; back-to-back LPGA majors in 3 weeks (KPMG + Evian); T3 Ayaka Iwai -18; next major AIG Women's Open July 30 Lytham St Annes
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Women's Scottish Open July 23-26; AIG Women's Open July 30; Ryu three-peat bid
+
+### STORY 5: Tom Kim Scottish Open
+- **Tier:** 2
+- **Category:** PGA Tour / Scottish Open
+- **Key facts:** Genesis Scottish Open at The Renaissance Club North Berwick Scotland; Kim won at -17 (263 total); final round bogey-free 64; 2 strokes clear of Min Woo Lee; T3 Fitzpatrick/MacIntyre/Keefer/Nakajima at -13; purse $9M, winner $1,575,000; first win since fall 2023 (~3 yrs); Tiger reportedly texted; Kim age 23
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Kim at The Open; Kim 2026 second half form
+
