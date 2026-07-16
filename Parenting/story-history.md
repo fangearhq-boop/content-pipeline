@@ -2,6 +2,45 @@
 
 ---
 
+## July 16, 2026
+
+### Story 1: TheKiddoSpace Peg Doll Recall — Choking Hazard for Kids Under 3
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recalled TheKiddoSpace "Peg Dolls in Cups" wooden toy set (7 rainbow-colored wooden peg figures, cup, and circular wood tray) designed for children under 3. Peg dolls can block a child's airway; violate mandatory small parts ban. Sold at TheKiddoSpaceStore.com July 2023–February 2025, ~$30. Remedy: stop use immediately, write "RECALLED" on pieces, email photo to info@thekiddospace.com for full refund.
+- **Content Produced:** Article (Jamie Rivera), 2 X posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Product: Peg Dolls in Cups; brand: TheKiddoSpace; hazard: choking/death — peg dolls block airway; age group: under 3; sold at TheKiddoSpaceStore.com; July 2023–Feb 2025; ~$30; remedy: write RECALLED + photo to info@thekiddospace.com for full refund; source: CPSC.gov
+
+### Story 2: Bronc Day Festival Returns July 25 to Green Mountain Falls
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — 88th annual Bronc Day Festival, Saturday July 25, Green Mountain Falls, free admission. Theme: "Let Freedom Ring!" (U.S.A. 250th + Colorado 150th). Pancake breakfast 7:30–10 AM at Church in the Wildwood UCC; parade 10 AM on Ute Pass Avenue; all-day at Gazebo Lake Park: rubber duck races, princess appearances (Fairy Tale Events), bounce house, Cool Science, Dinosaur Resource Center, touch-a-truck, face painting, balloon animals, magic shows, bubble fun, all-ages coloring station, pie contest, live music. 30+ vendors. 5 food trucks: Grilled Cheese, City Dogs, Dani's Thai BBQ, Kona Ice, Pikes Peak Funnel Cake. Grand Marshal: Retired Fire Chief Steve Murphy.
+- **Content Produced:** Article (Sarah Morales), 2 X posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** 88th annual; July 25, 2026; Green Mountain Falls; free admission; theme "Let Freedom Ring!"; pancake breakfast 7:30–10 AM Church in the Wildwood UCC; parade 10 AM Ute Pass Ave; Gazebo Lake Park; rubber duck races, bounce house, Cool Science, touch-a-truck, face painting, balloon animals; 30+ vendors; 5 food trucks; Grand Marshal Retired Fire Chief Steve Murphy; source: gazette.com July 13 2026, visitcos.com, broncdayfestival.org
+
+### Story 3: D49 Opening Student Success Center With Early Childhood Classrooms in August
+- **Content Pillar:** Local News
+- **Angle:** FOLLOW-UP (from July 13 back-to-school dates) — D49 is opening a Student Success Center for 2026-27 school year; D49 Early Childhood Education launching two new classrooms at the facility in August 2026. New angle from July 13 (which covered calendar dates only). D49 back-to-school: August 4 all students, August 3 new K/6th/9th, August 10 preschool. D11: August 12. D20: August 13.
+- **Content Produced:** Article (Jamie Rivera), 1 X post, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** D49 Student Success Center opening 2026-27 school year; D49 ECE: 2 new classrooms August 2026; D49 return: Aug 4 (new K/6th/9th Aug 3; preschool Aug 10); D11 Aug 12; D20 Aug 13; source: d49.org
+
+### Story 4: AAP Updated Screen Time Guidelines 2026 — Summer Focus
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — AAP released updated digital ecosystem guidelines February 2026, dropping the 2-hour daily screen time limit for kids 6+. New framework: quality of content, context, and family conversation over hard time caps. Under 18 months: no screens (video calls excepted). Ages 2–5: up to 1 hour/day high-quality content. Device-free bedrooms and mealtimes recommended. No hard cap for ages 6+; screens should not displace sleep/physical activity/family time/free play. Parental co-viewing prioritized.
+- **Content Produced:** Article (Sarah Morales), 1 X post, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** AAP updated guidelines February 2026; 2-hour limit removed; quality/context/family conversation focus; under 18 months: no screens; ages 2–5: up to 1 hr/day high-quality; device-free bedrooms + mealtimes; screens not to displace sleep/activity/family time; source: EdSurge Feb 5 2026, FSU News Feb 2 2026, AAP publications
+
+### Story 5: Discover COS Photo Contest Opens + Park and Recreation Month Events
+- **Content Pillar:** Local Events
+- **Angle:** FOLLOW-UP (from July 15 Park & Rec Month/Outdoor Movie) — New angle: Discover COS 2027 calendar photo contest submissions opened July 15. 2027 calendar highlights parks, trails, open spaces. All ages eligible. Also: all-month coloring contest (color 2026 Park & Rec Month sheet, share what you love about parks, chance to be featured on city social media). Park and Recreation Month theme: "The Power Of." Submission details at coloradosprings.gov/parkandrecmonth.
+- **Content Produced:** Article (Jamie Rivera), 1 X post, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Discover COS 2027 calendar photo contest; submissions opened July 15; parks/trails/open spaces; all ages; coloring contest all month; Park & Rec Month theme "The Power Of"; coloradosprings.gov/parkandrecmonth; source: coloradosprings.gov, KRDO July 2 2026
+
+---
+
 ## July 15, 2026
 
 ### Story 1: VEVOR Baby Swing Recall + CPSC Infant Safety Wave
