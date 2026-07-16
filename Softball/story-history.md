@@ -3,6 +3,64 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-07-16
+
+### Story 1: ESPYs Aftermath — Garrett Wins, Softball Gains
+- **Date:** 2026-07-16
+- **Tier:** 1
+- **Classification:** FOLLOW UP (ESPYs ceremony was July 15; results confirmed morning of July 16)
+- **Angle:** Myles Garrett won Best Record-Breaking Performance (23 NFL sacks, LA Rams, 2025). Grant didn't win. But her 42 HR NCAA record nomination put softball on the ballot alongside the NFL, Winter Olympics, and marathon — the visibility is the real win. Garrett also won Best NFL Player (2 ESPYs total). Award presented by Chloe Kim and Tiffany Haddish. Jalen Brunson Best Male Athlete, A'ja Wilson Best Female Athlete, Ohtani Best Play.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Grant AUSL final regular season stats and postseason push
+  - Grant in Championship Series on ABC (July 25)
+
+### Story 2: Utah Talons Clinch 2026 AUSL Postseason Berth
+- **Date:** 2026-07-16
+- **Tier:** 1
+- **Classification:** UPDATE (Talons clinched; first postseason clinch of 2026; standings updated after July 15 results)
+- **Angle:** 7th-inning comeback vs OKC Spark: Jadelyn Allchin ties it with 4th HR, Sharlize Palacios follows with 2-run blast. Megan Faraimo complete game 10 K. Final: Utah 5, OKC 4. Talons 14-6, first to clinch AUSL postseason berth 2026. No. 1 seed = direct bye to Championship Series (Davis Diamond July 25, Game 1 on ABC). Bandits lost to Blaze 12-6 (July 15), now ~13-8. OKC Spark beat Volts 7-2 (July 15, Jailyn Ford CG 8 K). Cascade holds 3rd at ~11-9.
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Bandits vs. Blaze results tonight (July 16)
+  - Talons vs. Cascade results tonight
+  - AUSL final standings July 20
+
+### Story 3: AUSL Thursday Night — Bandits vs. Blaze + Talons vs. Cascade
+- **Date:** 2026-07-16
+- **Tier:** 2
+- **Classification:** FOLLOW UP (standings race final 4 games; two key games tonight)
+- **Angle:** Bandits face road rematch at Smith Family Stadium, Durham NC (7 PM ET); Talons play Cascade at Hillsboro Ballpark (10 PM ET). Bandits need response after 12-6 loss in Chicago July 15. Cascade must hold 3rd. 4 games left (ends July 20).
+- **Content Produced:** Article (article-03, Jordan Reeves), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Game results July 16
+  - Updated standings July 17
+  - Regular season end July 20 standings
+
+### Story 4: NiJaree Canady Pro Struggles — Volts Call Stanford
+- **Date:** 2026-07-16
+- **Tier:** 2
+- **Classification:** NEW STORY (first coverage of Stanford coaching outreach; SI reported Volts reached out to Tori Nyberg)
+- **Angle:** Canady 0-3, 6.87 ERA in AUSL (17 ER, 7 HR allowed). Texas Volts reached out to former Stanford pitching coach Tori Nyberg per SI. Injuries at Texas Tech altered mechanics. College career: 104-24, 1.09 ERA, 1,127 K. Final college season: 29-7, 1.87 ERA. Time Top 100 Athletes 2026. Development story, not failure story. Volts ~6-16, out of playoff contention.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Canady second-half stats improvement (if any)
+  - Tori Nyberg/Stanford collaboration results
+  - Canady 2027 outlook
+
+### Story 5: PGF Nationals — 3 Days Out
+- **Date:** 2026-07-16
+- **Tier:** 2
+- **Classification:** FOLLOW UP (tracked since June; tournament opens Sunday July 19)
+- **Angle:** 3 days until PGF Nationals Week 1 at Orange County Great Park, Irvine CA. 18U Platinum, 16U Premier, 16U Platinum. Rosters locked July 14. Arizona Storm Appel top contender (Alabama/Auburn/Oklahoma/Northwestern commits). September 1 Class of 2028 contact window 46 days away. PGF.TV coverage.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - PGF Nationals opening day results July 19
+  - Notable 18U/16U performances
+  - September 1 recruiting window coverage
+
+---
+
 ## 2026-07-15
 
 ### Story 1: Megan Grant ESPYs — The Night Is Here

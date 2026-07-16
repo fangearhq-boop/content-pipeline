@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-07-16
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via agents, multiple queries), brief (5 stories), research notes, story analysis, X posts (7; 3 char violations fixed), FB posts (5 stories), image concepts (7 items), image manifest (10 items, not_started), articles (5), fact-check (73 claims), compile (5 stories, 7 tweets, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts standard + 7 TOBI). WordPress 403 (proxy sandbox — known). Dashboard push 403 (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected — proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started). PostPlanner FB 0 posts (format — known). 0 char violations after fixes. ESPYs: Myles Garrett won Best Record-Breaking Performance (NOT Megan Grant — confirmed HIGH confidence multiple sources).
+- **Key Stories**: ESPYs aftermath/Myles Garrett wins/Grant nominated but didn't win/softball on national stage anyway (Tier 1 FOLLOW UP), Utah Talons clinch AUSL postseason berth/7th-inning comeback/Allchin HR+Palacios 2-run blast/Faraimo CG 10K/5-4 vs OKC Spark/14-6 No.1 seed (Tier 1 UPDATE), AUSL Thursday night/Bandits vs Blaze 7PM ET Durham rematch (Blaze won 12-6 July 15)/Talons vs Cascade 10PM ET Hillsboro/4 games left ends July 20 (Tier 2 FOLLOW UP), NiJaree Canady pro struggles/0-3 6.87 ERA/Texas Volts call ex-Stanford coach Tori Nyberg/injuries at Texas Tech shifted mechanics (Tier 2 NEW), PGF Nationals 3 days/July 19 Great Park Irvine/18U+16U/Arizona Storm Appel top contender/September 1 contact window 46 days (Tier 2 FOLLOW UP)
+
+## Last Run
 - **Date**: 2026-07-15
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch + research agents, multiple queries), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations), FB posts (5 stories), image concepts (8 items), image manifest (8 items, not_started), articles (5), fact-check (68 claims), compile (5 stories, 6 tweets, 5 articles, 21 items), dashboard (21 items), PostPlanner exports (6 posts standard + 6 TOBI). WordPress 403 (proxy sandbox — known). Dashboard push 403 (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected — proxy known restriction).
