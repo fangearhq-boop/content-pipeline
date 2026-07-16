@@ -1,10 +1,21 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
-- **Date**: 2026-07-15
+- **Date**: 2026-07-16
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-16
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 8 written, all under 280 characters (Story 5 Post 1 shortened from 284 to 247)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres)
+- **PostPlanner exports:** gfr-postplanner-2026-07-16.xlsx (8 posts) + gfr-postplanner-tobi-2026-07-16.xlsx (8 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-07-16/review-dashboard.html (28 items)
+- **Notes:** OPEN CHAMPIONSHIP R1 LIVE — 154th Open at Royal Birkdale; Scheffler early -4 leader (43-foot putt No. 6), playing with Hatton + DeChambeau; Thomas Detry/Alex Smalley/Dan Brown at -3 early; McIlroy+Schauffele+Fitzpatrick in afternoon (3:15 PM BST); Fleetwood+Spieth+Rahm also afternoon; Tommy Fleetwood hometown angle (Southport native, father caddying, no English winner since Faldo 1992, +1500 odds); McIlroy chasing 7th major/European record (breaks tie with Faldo), back-to-back Masters 2025-26, last Open win Hoylake 2014; LIV Golf running on loans (PIF debenture June 4, ~$200M of $600M provided, ~$100M/month burn, CEO won't guarantee 4 remaining events); Haeran Ryu back-to-back LPGA majors (KPMG + Evian playoff over Henderson, R3 60 = LPGA major record, Korda missed cut at Evian)
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-15
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

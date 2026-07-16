@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-07-16
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-16 | T1 | Open Championship Round 1 — Scheffler Early Leader at -4 at Royal Birkdale | X, FB, Article | NEW |
+| 2026-07-16 | T1 | Tommy Fleetwood Hometown Major — Father Caddying, 34-Year English Drought | X, FB, Article | FOLLOW UP |
+| 2026-07-16 | T1 | Rory McIlroy Chasing 7th Major — Would Set European Record at Royal Birkdale | X, FB, Article | FOLLOW UP |
+| 2026-07-16 | T2 | LIV Golf Running on Loans — PIF Debenture, $200M of $600M, 4 Events Uncertain | X, FB, Article | FOLLOW UP |
+| 2026-07-16 | T2 | Haeran Ryu Back-to-Back LPGA Majors — KPMG + Evian, R3 60 Sets LPGA Major Record | X, FB, Article | NEW |
+
+### STORY 1: Open Championship Round 1 — Scheffler Early Leader
+- **Tier:** 1
+- **Category:** The Open Championship / Round 1
+- **Key facts:** 154th Open Championship at Royal Birkdale; Matthew Baldwin hit first tee shot at 6:35 AM local; Scheffler moved to -4 early including 43-foot putt at No. 6; playing with Tyrrell Hatton and Bryson DeChambeau; Thomas Detry, Alex Smalley, Dan Brown at -3 early; Dan Brown birdied from 20 feet at No. 12; afternoon wave McIlroy+Schauffele+Fitzpatrick at 3:15 PM BST; Fleetwood+Spieth+Rahm also in afternoon
+- **Status:** NEW
+- **Follow-up ideas:** R1 final leaderboard; R2/R3/R4 coverage; Scheffler bid for back-to-back Open titles
+
+### STORY 2: Tommy Fleetwood Hometown Major
+- **Tier:** 1
+- **Category:** The Open Championship / Tommy Fleetwood
+- **Key facts:** Born and raised in Southport; Royal Birkdale in Southport; father caddying this week; skipped Scottish Open to prep specifically at Birkdale; +1500 odds; no English winner since Nick Faldo 1992 (34-year drought); playing with Jordan Spieth and Jon Rahm; Paul McGinley expressed confidence in his chances
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R1 score; weekend leaderboard position; final round if contending
+
+### STORY 3: McIlroy Chasing 7th Major — European Record
+- **Tier:** 1
+- **Category:** The Open Championship / Rory McIlroy
+- **Key facts:** 6 major titles (4-major run mid-20s + back-to-back Masters 2025-2026); last Open win at Hoylake 2014; co-favorite +700-850 with Scheffler; teeing off 3:15 PM BST with Xander Schauffele and Matthew Fitzpatrick; 7th major would break tie with Nick Faldo for European record (Faldo won 3 Masters + 3 Opens)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R1/R2 scores; whether McIlroy contends through the weekend
+
+### STORY 4: LIV Golf Running on Loans
+- **Tier:** 2
+- **Category:** LIV Golf / Finance
+- **Key facts:** PIF filed debenture June 4 2026 — converts relationship from investor to creditor; ~$200M of $600M committed capital provided; LIV spends ~$100M/month; 4 events remain (LIV UK at JCB July 23-26, LIV New York Aug 6-9, LIV Indianapolis Aug 20-23, $40M LIV Team Championship Michigan Aug 27-30); CEO won't guarantee all four events; seeking private equity investors; no new investment announced
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Whether LIV UK at JCB proceeds; any new investor announcements
+
+### STORY 5: Haeran Ryu Back-to-Back LPGA Majors
+- **Tier:** 2
+- **Category:** LPGA Tour / Haeran Ryu
+- **Key facts:** Won KPMG Women's PGA Championship; won Amundi Evian Championship July 12 via playoff over Brooke Henderson; third-round 60 at Evian (11-under, bogey-free) = lowest round in LPGA major history; No. 1 Nelly Korda missed cut at Evian; next LPGA major: ISPS HANDA Women's Scottish Open at Dundonald Links July 23-26; US Women's Open follows
+- **Status:** NEW
+- **Follow-up ideas:** US Women's Open contention; whether Ryu continues dominant form
+
 ## 2026-07-14
 
 | Date | Tier | Story | Platforms | Status |
