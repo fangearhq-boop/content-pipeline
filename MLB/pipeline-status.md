@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-07-16
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch + research agents), brief (5 stories), research notes, story analysis, X posts (6; 1 char violation fixed S2T1 287→253; 0 violations after fix), FB posts (5 stories), image concepts (10 items), image manifest (10 items, not_started), articles (5), fact-check (30 claims HIGH), compile (5 stories, 6 tweets, 5 articles, 21 items), dashboard (21 items), dashboard publish (push failed — proxy). PostPlanner exports (6 posts standard + 6 TOBI posts). WordPress no credentials (proxy blocks fanrumor.com — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress credentials not loaded + proxy blocks fanrumor.com (known). Dashboard publish push failed (proxy blocks content-dashboards — known). IMAGE MISSING expected (not_started). claim-patterns.py missing (known). 1 char violation fixed (S2T1 287→253; wrong fraction char ⅞→⅔ in JSON, markdown shortened).
+- **Key Stories**: MLB second half begins/Dodgers 61-36 best record/Brewers 59-37 NL Central/Braves 55-40 NL East/Rays 56-38 AL East/White Sox 50-45 AL Central/Rangers 49-47 AL West/trade deadline July 31 15 days (Tier 1 RECURRING), Cristopher Sanchez Phillies franchise record 44 2/3 consecutive scoreless innings/broke Grover Cleveland Alexander 1911 mark 115 years/5-2 1.62 ERA 86K/NL All-Star starter CBP (Tier 1 NEW), Ryan O'Hearn 10 RBI single game/Pirates franchise record/previous mark 1939/accounted for all runs himself (Tier 2 NEW), Trade deadline primer/Skubal 2x Cy Young contract year nil extension/suitors Yankees+Phillies+Rays+Cubs+Braves/Mason Miller Padres closer/Astros-Brewers McCullers+Gordon finalizing/Mets clearing (Tier 2 FOLLOW UP), Ohtani 300th career HR/Schwarber 32 HR MLB lead 3rd all-time first 5 seasons one team/Crow-Armstrong 20 HR 20 SB before game 95 second straight year (Tier 2 NEW)
+
+## Last Run
 - **Date**: 2026-07-15
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch + research agents), brief (5 stories), research notes, story analysis, X posts (6; 2 char violations fixed S3T1 309→271, S5T1 311→268; 0 violations after fix), FB posts (5 stories), image concepts (8 items), image manifest (8 items, not_started), articles (5), fact-check (28 claims HIGH), compile (5 stories, 6 tweets, 5 articles, 21 items), dashboard (21 items), dashboard publish 403 (proxy). PostPlanner exports (6 posts standard + 6 TOBI posts). WordPress 403 (proxy sandbox — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected — proxy known restriction).

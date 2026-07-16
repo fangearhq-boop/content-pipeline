@@ -5,6 +5,52 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-16
+
+### Story 1: MLB Second Half Begins — Dodgers Lead, Trade Deadline 15 Days Out
+- **Date:** 2026-07-16
+- **Tier:** 1
+- **Classification:** RECURRING (post-All-Star break second half launch)
+- **Angle:** Second half begins today. Dodgers 61-36 (best in MLB). NL: Brewers 59-37, Braves 55-40. AL: Rays 56-38, White Sox 50-45, Rangers 49-47. Trade deadline July 31 — 15 days out. Second-half schedule resumes tonight.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, Image concepts
+
+### Story 2: Cristopher Sanchez Breaks a 115-Year Phillies Record
+- **Date:** 2026-07-16
+- **Tier:** 1
+- **Classification:** NEW STORY (Sanchez set Phillies all-time record for consecutive scoreless innings)
+- **Angle:** 44 2/3 consecutive scoreless innings. Broke Grover Cleveland Alexander's 1911 record (41 IP) — Hall of Famer. Record stood 115 years. Sanchez 2026: 5-2, 1.62 ERA, 1.15 WHIP, 86 K in 72.1 IP. NL All-Star starter at Citizens Bank Park July 14.
+- **Content Produced:** Article (article-02, Jake Torres), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Sanchez second-half performance tracking
+  - Phillies rotation depth as deadline approaches
+
+### Story 3: Ryan O'Hearn's 10-RBI Game
+- **Date:** 2026-07-16
+- **Tier:** 2
+- **Classification:** NEW STORY (O'Hearn set Pittsburgh Pirates single-game RBI franchise record)
+- **Angle:** 10 RBIs in one game, Pirates franchise record. Previous mark from 1939 (87 years). First player to account for his team's first 10+ RBIs individually in a single game. Happened just before All-Star break around July 12-14.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, Image concepts
+
+### Story 4: Trade Deadline 15 Days Out — Key Names and Teams
+- **Date:** 2026-07-16
+- **Tier:** 2
+- **Classification:** FOLLOW UP (deadline primer at second-half launch)
+- **Angle:** Skubal is the deadline. 2x AL Cy Young, contract year, extension talks "nil." Suitors: Yankees, Phillies, Rays, Cubs, Braves. Mason Miller (Padres closer) — Yankees interested. Astros finalizing: McCullers Jr. + Gordon → Brewers. Mets = clearest NL East seller. Padres leaning sell.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Skubal trade destination (daily update through July 31)
+  - Mason Miller deal coverage
+  - Astros-Brewers deal confirmation
+
+### Story 5: Ohtani 300 + Schwarber HR Lead + Crow-Armstrong 20/20
+- **Date:** 2026-07-16
+- **Tier:** 2
+- **Classification:** NEW STORY (first-half power number recap)
+- **Angle:** Ohtani hit 300th career HR (~July 14). Schwarber: 32 HR MLB lead; 3rd most HR in first 5 seasons with one team (Ruth 235/Yankees, McGwire 220/Cardinals). Crow-Armstrong: 20 HR / 20+ SB before game 95 — one of 4 players to do it in multiple seasons (2025 and 2026).
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, Image concepts
+
+---
+
 ## 2026-07-15
 
 ### Story 1: All-Star Game Recap — AL 4, NL 0, Bellinger MVP
