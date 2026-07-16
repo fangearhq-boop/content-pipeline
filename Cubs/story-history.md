@@ -5,6 +5,51 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-16
+
+### STORY 1: Second Half Starts Tomorrow — Cubs Host Struggling Twins
+- **Angle:** NEW STORY — off-day second-half preview; Cubs 54-42 No. 1 NL Wild Card; Twins 48-49 below .500, 3rd AL Central, ~37% playoff odds; 3-game home series opens Friday July 17 7:05 PM CT; Cubs clear home favorites to start the second half
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, morning news / informative)
+- **Follow-Up Opportunities:**
+  - Twins series results July 17-19
+  - Game 1 recap (July 18 morning)
+
+### STORY 2: PCA's Back-to-Back 20-20 — First Cubs Player Since Sosa Era
+- **Angle:** FOLLOW UP — first-half numbers (.296/.387/.543, 21 HR, 52 RBI, 23 SB); first Cubs player with back-to-back 20-20 seasons since Sammy Sosa era (MEDIUM — single source); leads all position players in WAR; NL MVP conversation vs. Ohtani entering second half
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold take / fan energy)
+- **Follow-Up Opportunities:**
+  - PCA second-half performance milestones
+  - 30/30 pace watch (21 HR + 23 SB at break → pace for ~38 HR / 40+ SB)
+  - NL MVP race tracking
+
+### STORY 3: Matt Shaw Activated — Lineup Gets a Second-Half Boost
+- **Angle:** NEW STORY — Shaw activated from IL (wrist sprain) ahead of Twins series; returning just as second half opens; was among the hottest hitters before the injury; lineup depth restored
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, roster news / informative)
+- **Follow-Up Opportunities:**
+  - Shaw's first at-bats back in the lineup (Twins series)
+  - Shaw's second-half production tracking
+
+### STORY 4: Wild Card Check — Brewers Pulling Away, Cubs in Control of Their Path
+- **Angle:** FOLLOW UP — updated NL Central/WC picture; Brewers 59-37 (MEDIUM) running away with division; Cubs 54-42, 5 games back (division), No. 1 WC; Phillies 54-43, Marlins 52-45; Cardinals dropped 4-of-5 to Milwaukee, fading from contention
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, analysis / rival watch / bold)
+- **Follow-Up Opportunities:**
+  - Wild card standings after Twins series
+  - Cardinals series July 27-30 divisional gauntlet
+
+### STORY 5: Iowa Cubs 21-7 — Triple-A Depth Showcase
+- **Angle:** NEW STORY — Iowa Cubs defeated St. Paul Saints 21-7 on July 15 (MEDIUM — CubsHQ); Moises Ballesteros 4 RBI; Jonathon Long 5 hits + HR; franchise depth narrative
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, prospect update / informative)
+- **Follow-Up Opportunities:**
+  - Ballesteros promotion timeline to MLB
+  - Iowa Cubs season-long depth tracking
+
+---
+
 ## 2026-07-15
 
 ### STORY 1: PCA All-Star Game — NL Shut Out 4-0, But PCA Had the Hit

@@ -1,0 +1,206 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-16",
+  "compiled_at": "2026-07-16T09:19:18.679058+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Story 1: Second half preview / Twins matchup",
+      "type": "Informative"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Story 2: PCA / back-to-back 20-20",
+      "type": "Bold take"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 3: Matt Shaw activated",
+      "type": "Roster news"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 4: Wild card / Brewers / Cardinals",
+      "type": "Analysis"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Story 5: Iowa Cubs 21-7",
+      "type": "Prospect"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Second Half Starts Tomorrow — Cubs Host Struggling Twins",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Off-day second-half preview; Cubs 54-42 No. 1 NL Wild Card; Twins 48-49 below .500, 3rd AL Central, 37% playoff odds; 3-game home series opens Friday 7:05 PM CT; Cubs clear favorites as stretch run begins at Wrigley",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "```\nSecond half starts TOMORROW at Wrigley.\n\nCubs: 54-42. No. 1 NL Wild Card.\nTwins: 48-49. 3rd in the AL Central.\n\nMinnesota is a playoff long shot coming to Chicago for three games. The second half of a deep run begins Friday night.\n\n#Cubs #GoCubs #FlyTheW\n```",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative / morning news",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 262
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Second Half Starts Tomorrow — Cubs Host Struggling Twins\n**Facts + Sources:**\n| Fact | Source | Confidence |\n|------|--------|------------|\n| Today is the last day of the All-Star break (July 13-16) | series-context.json | HIGH |\n| Second half opens July 17 at Wrigley, 7:05 PM CT vs. Twins | series-context.json / July 15 pipeline | HIGH |\n| Cubs record: 54-42 | Multiple standings sources | HIGH |\n| Cubs: No. 1 NL Wild Card | Multiple sources | HIGH |\n| Twins record: 48-49 | ESPN, Covers.com | MEDIUM |\n| Twins: 3rd place AL Central | ESPN | MEDIUM |\n| Twins playoff odds: 37% | Covers.com | MEDIUM |\n| 3-game series July 17-19 at Wrigley | Series-context.json | HIGH |\n**Story notes:**\n- Twins were in the AL Wild Card race earlier in July (per July 13 pipeline: \"Twins-Blue Jays trade put Minnesota in WC hunt\"). They appear to have since fallen to 48-49.\n- The Cubs' 54-42 mark is strong; they're a ~90-win pace team vs. a below-.500 opponent.\n- Starter for Game 1 unclear: one source (AI summary) listed \"David Festa vs Kyle Hendricks\" which conflicts with the pipeline assertion that Taillon was activated and slotted July 17. Another AI summary said \"Colin Rea.\" Game 1 starter will be treated as MEDIUM confidence. Tweets will reference \"the rotation\" generally rather than name a specific starter for Game 1.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "PCA's Back-to-Back 20-20 — First Cubs Player Since Sosa Era",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "First-half numbers: .296/.387/.543, 21 HR, 52 RBI, 23 SB; back-to-back 20-20 seasons; comparison to Sammy Sosa era; leads all position players in WAR; NL MVP case vs. Ohtani entering second half",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "```\n21 home runs. 23 stolen bases. .543 slugging.\n\nPete Crow-Armstrong is putting up numbers that haven't been seen from a Cub since the Sammy Sosa era. Back-to-back 20-20 seasons at 23. 🔥\n\nThe second-half MVP race has a frontrunner.\n\n#Cubs #GoCubs #ChicagoCubs\n```",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold take / fan energy",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "PCA's Back-to-Back 20-20 — First Cubs Player Since Sosa\n**Facts + Sources:**\n| Fact | Source | Confidence |\n|------|--------|------------|\n| PCA 2026 first-half stats: .296/.387/.543 | Chi City Sports / Bleacher Nation | MEDIUM |\n| 21 HR, 52 RBI, 23 SB first half | Chi City Sports | MEDIUM |\n| First Cubs player with back-to-back 20-20 seasons since Sammy Sosa | Chi City Sports (single source) | MEDIUM |\n| Leads all position players in WAR (Ohtani higher overall) | Multiple sources (consistent) | MEDIUM |\n| NL MVP frontrunner alongside Ohtani | Multiple articles | MEDIUM |\n**Story notes:**\n- The \"back-to-back 20-20 since Sosa\" claim is a historical superlative from a single source. It is plausible given Sosa's dominance in the late 90s and the absence of a Cubs player reaching this milestone in the interim. Mark MEDIUM; avoid using exact \"first since Sosa\" language without softening hedge.\n- PCA was at 21 HR and 23 SB at the All-Star break — he is on pace for ~38-40 HR and 40+ SB for the full season.\n- His .543 slugging and .387 OBP mark a genuine power-speed-contact combination rarely seen.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Matt Shaw Activated — Lineup Gets a Second-Half Boost",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Shaw activated from IL (wrist sprain) ahead of Twins series; returning just as second half opens; was one of the hottest hitters before injury; proven depth restored",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "```\nMatt Shaw is BACK.\n\nThe Cubs activated him from the IL ahead of the Twins series opener — a proven bat returning just as the second half begins. 💪\n\nShaw was locked in before the wrist injury. Getting him back for the stretch run matters.\n\n#Cubs #CubsBaseball #MLB\n```",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Roster news / informative",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Matt Shaw Activated — Lineup Gets a Second-Half Boost\n**Facts + Sources:**\n| Fact | Source | Confidence |\n|------|--------|------------|\n| Matt Shaw placed on IL June 29 with left wrist/hand sprain | MLB.com (injury note) | HIGH |\n| Shaw activation announced ahead of second half | MLB.com headline, Yahoo Sports, Athlon | MEDIUM |\n| Shaw was \"one of the hottest hitters\" before injury | BN article title (\"hot start\") | MEDIUM |\n| Shaw's pre-injury stats not specifically confirmed this run | N/A — not used in tweet | N/A |\n**Story notes:**\n- The Shaw activation is backed by multiple outlet headlines (MLB.com, Yahoo Sports, Athlon Sports, Yardbarker) but I do not have the exact text of MLB's transaction announcement. MEDIUM confidence.\n- Specific pre-injury stats (.284 / 8 HR referenced in initial draft) were dropped because they are not confirmed; vague \"locked in\" and \"hot start\" language used instead.\n- Shaw would be a logical activation today (July 16, off-day) to be active for the Twins series opener July 17.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Wild Card Check — Brewers Pulling Away, Cubs in Control of Their Path",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Brewers 59-37 running away with NL Central; Cubs 54-42, 5 games back (wild card path, not division); Cardinals dropped 4-of-5 to Milwaukee, fading from contention; Cubs hold No. 1 WC, Phillies 54-43, Marlins 52-45",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "```\nBrewers win the NL Central. It's not a bold take — it's math.\n\nMilwaukee: 59-37.\nCubs: 54-42. No. 1 NL Wild Card.\n\nThe Cardinals just dropped 4-of-5 to Milwaukee. Chicago doesn't need the division. The path to October is already drawn.\n\n#Cubs #NorthSiders #MLB\n```",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Analysis / rival watch",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Wild Card Check — Brewers Pulling Away, Cubs in Control\n**Facts + Sources:**\n| Fact | Source | Confidence |\n|------|--------|------------|\n| Brewers record: 59-37 | Multiple AI summaries (NL power rankings) | MEDIUM |\n| Cubs 5 games back of Brewers in NL Central | Calculated from 54-42 vs 59-37 (5 games, confirmed) | HIGH |\n| Cubs 54-42, No. 1 NL Wild Card | Verified consistently | HIGH |\n| Phillies 54-43, Marlins 52-45 | Multiple standings sources | MEDIUM |\n| Cardinals dropped 4-of-5 to Milwaukee | Yahoo/Brew Crew Ball standings article | MEDIUM |\n| Cardinals not in wild card | Multiple sources | MEDIUM |\n**Story notes:**\n- Cardinals at 48-44 per July 15 pipeline — they've dropped multiple games to the Brewers since. Their exact current record is MEDIUM confidence; tweet uses directional language.\n- Gap between Cubs (54-42) and Brewers (59-37) = 5 games. Cubs are 8 games ahead of Marlins (52-45) for 3rd wild card.\n- Cubs need the wild card, not the division — framing is accurate and supported.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Iowa Cubs 21-7 — Triple-A Depth Is Real",
+      "tier": 3,
+      "status": "NEW STORY",
+      "angle": "Iowa defeated St. Paul Saints 21-7 on July 15; Moises Ballesteros 4 RBI; Jonathon Long 5 hits + HR; franchise depth narrative ahead of stretch run",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "```\nIowa Cubs 21, St. Paul Saints 7.\n\nMoises Ballesteros drove in 4 runs. Jonathon Long had 5 hits, including a homer. The Triple-A squad put on an offensive clinic.\n\nDepth wins in October. Chicago's farm system is a weapon.\n\n#Cubs #GoCubs #ChicagoCubs\n```",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Prospect update / informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Iowa Cubs 21-7 — Triple-A Depth Showcase\n**Facts + Sources:**\n| Fact | Source | Confidence |\n|------|--------|------------|\n| Iowa Cubs defeated St. Paul Saints 21-7 (July 15) | CubsHQ | MEDIUM |\n| Moises Ballesteros: 4 RBIs | CubsHQ | MEDIUM |\n| Jonathon Long: 5 hits + HR | CubsHQ | MEDIUM |\n| Josh Fleming: started, 2 runs in 4 IP | CubsHQ | MEDIUM |\n**Story notes:**\n- \"21 runs\" is an eye-catching number. Single source (CubsHQ) but credible Cubs-specific site.\n- Ballesteros is an elite catching prospect (rated one of the top catching prospects in MiLB). Long is a depth piece.\n- \"5-for-5\" language avoided since not confirmed — \"5 hits\" used instead.\n- Iowa's offensive explosion is a legitimate story for an off-day with no big breaking news.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
