@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-07-16
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-16 | T1 | LeBron James at Fanatics Fest — Live Podcast Taping with Haliburton, Decision Imminent | X, FB, Article | FOLLOW UP |
+| 2026-07-16 | T1 | Ja Morant Traded to Portland Trail Blazers for Jerami Grant and Kris Murray | X, FB, Article | NEW |
+| 2026-07-16 | T1 | James Harden Opts Out of $42.3M Player Option, Working New Cavs Multiyear Deal | X, FB, Article | FOLLOW UP |
+| 2026-07-16 | T2 | Summer League Day 8 — Cameron Carr Leads Lakers, Magic Edge 76ers 99-92 | X, FB, Article | NEW |
+| 2026-07-16 | T2 | Kawhi Leonard Trade Frozen — NBA Investigation Ongoing, No Timeline | X, FB, Article | FOLLOW UP |
+
+### STORY 1: LeBron James at Fanatics Fest — Live Podcast Taping, Decision Imminent
+- **Tier:** 1
+- **Category:** NBA Free Agency / LeBron James
+- **Key facts:** Live "Mind the Game" podcast taping at 1:15 PM ET, Javits Center NYC; all team pitches complete; final three: Cavs, Heat, 76ers; Warriors/Wolves no longer inner circle; episode releases July 21
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** LeBron decision announcement; training camp destination reveal
+
+### STORY 2: Ja Morant Traded to Portland Trail Blazers
+- **Tier:** 1
+- **Category:** NBA Trade
+- **Key facts:** Memphis to Portland: Morant for Jerami Grant + Kris Murray + $1M cash; no picks; Morant ~$43M/yr average, 2 yrs remaining; 22.4 PPG career average; Portland roster: Lillard, Henderson, Holiday, Avdija, Sharpe
+- **Status:** NEW
+- **Follow-up ideas:** Blazers training camp fit; Morant health update; Memphis rebuild direction
+
+### STORY 3: James Harden Opts Out of $42.3M — New Cavs Deal Coming
+- **Tier:** 1
+- **Category:** NBA Free Agency
+- **Key facts:** Opted out of $42.3M player option; working toward new multiyear with Cleveland; cap flexibility created for LeBron recruitment
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Harden new contract details; Cavs LeBron outcome
+
+### STORY 4: Summer League Day 8 — Cameron Carr Leads Lakers
+- **Tier:** 2
+- **Category:** NBA Summer League
+- **Key facts:** Cameron Carr led Lakers to Battle of Los Angeles win; Magic 99, 76ers 92; LaBaron Philon Jr. standout for Philly; Summer League ends July 19
+- **Status:** NEW
+- **Follow-up ideas:** Summer League championship recap; roster decisions post-Summer League
+
+### STORY 5: Kawhi Leonard Trade Still Frozen
+- **Tier:** 2
+- **Category:** NBA Trade / Investigation
+- **Key facts:** Alex Sanberg convicted/14-yr sentence; Aspiration Sports fraud; Ballmer $60M personal investment; no NBA-approved timeline; Kawhi has 1 yr left
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Investigation resolution; Kawhi trade finalization
+
 ## 2026-07-12
 
 | Date | Tier | Story | Platforms | Status |

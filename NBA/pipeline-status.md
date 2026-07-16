@@ -1,10 +1,21 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Last Run
-- **Date**: 2026-07-15
+- **Date**: 2026-07-16
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-16
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 8 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** hh-postplanner-2026-07-16.xlsx (8 posts) + hh-postplanner-tobi-2026-07-16.xlsx (8 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-07-16/review-dashboard.html (28 items)
+- **Notes:** NBA FREE AGENCY / SUMMER LEAGUE DAY 8 — LeBron at Fanatics Fest live podcast with Haliburton 1:15 PM ET (final three: Cavs/Heat/76ers, Warriors/Wolves out of inner circle); Ja Morant traded to Portland (Jerami Grant + Kris Murray + $1M, no picks, ~$43M/yr 2 yrs); Harden opts out of $42.3M / working new Cavs multiyear (cap flexibility for LeBron); Cameron Carr leads Lakers in Battle of LA (SL Day 8), Magic 99 over 76ers 92, Philon Jr standout; Kawhi trade still frozen (Sanberg convicted 14yrs, no timeline)
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-15
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

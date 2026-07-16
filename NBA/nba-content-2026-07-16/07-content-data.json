@@ -1,0 +1,352 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-16",
+  "compiled_at": "2026-07-16T11:19:16.798696+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM ET",
+      "description": "Story 2",
+      "type": "Ja Morant trade — breaking"
+    },
+    {
+      "time": "9:00 AM ET",
+      "description": "Story 3",
+      "type": "Harden opts out"
+    },
+    {
+      "time": "11:00 AM ET",
+      "description": "Story 1",
+      "type": "LeBron Fanatics Fest preview"
+    },
+    {
+      "time": "11:00 AM ET",
+      "description": "Story 3",
+      "type": "Harden implications"
+    },
+    {
+      "time": "1:00 PM ET",
+      "description": "Story 1",
+      "type": "LeBron live podcast update"
+    },
+    {
+      "time": "4:00 PM ET",
+      "description": "Story 2",
+      "type": "Morant roster impact"
+    },
+    {
+      "time": "4:00 PM ET",
+      "description": "Story 4",
+      "type": "Summer League Day 8 recap"
+    },
+    {
+      "time": "9:30 PM ET",
+      "description": "Story 5",
+      "type": "Kawhi trade freeze"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "LeBron's Fanatics Fest Moment — Decision Day?",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "11:00 AM, 1:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "LeBron James is at Fanatics Fest TODAY taping a live podcast with Tyrese Haliburton at 1:15 PM ET.\n\nAll NBA team pitches are done. Final three: Cavs, Heat, 76ers.\n\nCould The Decision 3.0 happen on a podcast stage in NYC?\n\n#LeBronJames #NBA",
+          "posting_time": "11:00 AM, 1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#LeBronJames",
+            "#NBA"
+          ],
+          "char_count": 239
+        },
+        {
+          "label": "Post 1-2",
+          "text": "All pitches are in for LeBron. Final three: Cavs, Heat, Philly.\n\nGolden State's offer is limited — Warriors can only reach about $6M. The money is in the East.\n\nWhenever it comes, this is the biggest free agency decision of the decade.\n\n#LeBronJames",
+          "posting_time": "11:00 AM, 1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#LeBronJames"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": {
+        "long_form": "This is the moment NBA fans have been waiting for all summer.\n\nLeBron James is at Fanatics Fest NYC today — taping a live \"Mind the Game\" podcast episode with Tyrese Haliburton at 1:15 PM ET. And with all team pitches now officially complete, every basketball fan is watching to see if The King makes his next move right there on stage.\n\nThe final three destinations are Cleveland, Miami, and Philadelphia. The Warriors and Timberwolves are technically in the mix but have fallen out of the inner circle, according to ESPN's Shams Charania. Golden State made their pitch — Steph Curry even went public with it at the American Century Championship — but the money simply isn't there for Golden State to make a compelling financial offer.\n\nLeBron is 41 years old and entering a potential 24th season. Whatever he decides, this is the most consequential free agency choice of the decade. The episode itself won't be released until July 21, but the live taping today at Fanatics Fest could be must-watch television.\n\nWhere do YOU think LeBron ends up? Drop your pick in the comments.",
+        "image_caption": "LeBron James at Fanatics Fest TODAY. All pitches are done. Final three: Cavs, Heat, 76ers. The decision is coming — could it happen LIVE at 1:15 PM ET? 🏀",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-01-lebron-fanatics-fest-decision.html",
+        "headline": "LeBron James Headlines Fanatics Fest as NBA World Waits for Free Agency Decision",
+        "word_count": 628
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Ja Morant Traded to Portland Trail Blazers",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM, 4:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "TRADE: Ja Morant is headed to Portland.\n\nThe Trail Blazers land the two-time All-Star from Memphis in exchange for Jerami Grant and Kris Murray.\n\nMorant: \"like starting all over again.\"\n\nGuard-heavy Blazers just got a lot more interesting.\n\n#TrailBlazers",
+          "posting_time": "9:00 AM, 4:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#TrailBlazers"
+          ],
+          "char_count": 254
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Ja Morant joins Damian Lillard, Scoot Henderson, Jrue Holiday, and Shaedon Sharpe in Portland.\n\nFive guards who can all create off the dribble.\n\nThe Blazers are betting Morant's fresh start is real.\n\nAre they right? #TrailBlazers",
+          "posting_time": "9:00 AM, 4:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#TrailBlazers"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": {
+        "long_form": "One of the biggest trades of the summer just landed.\n\nJa Morant is headed to Portland. The Memphis Grizzlies traded the two-time All-Star guard to the Portland Trail Blazers in exchange for Jerami Grant and Kris Murray, with $1 million in cash also going to Memphis.\n\nMorant averaged 22.4 points per game for his career before injuries and suspensions limited him to just 79 games over the past three seasons. But he's one of the most electrifying players in the league when he's healthy, and Portland is betting on a fresh start to unlock the best version of Ja Morant again.\n\n\"Like starting all over again,\" Morant said of the move.\n\nHe joins a guard-heavy roster in Portland that already includes Damian Lillard, Scoot Henderson, Jrue Holiday, Deni Avdija, and Shaedon Sharpe. No draft picks changed hands. Morant has approximately two years remaining on his contract at around $43 million per year average.\n\nThe Blazers are making a statement: they're done rebuilding. Are you excited to see Ja in Portland?",
+        "image_caption": "Ja Morant. Portland Trail Blazers. A two-time All-Star ready to start fresh. This trade just changed the Western Conference. 🔥 #TrailBlazers",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-ja-morant-portland-trade.html",
+        "headline": "Ja Morant Traded to Portland Trail Blazers in Blockbuster Deal With Memphis Grizzlies",
+        "word_count": 529
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Harden Opts Out of $42.3M, Working New Cavs Deal",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "9:00 AM, 11:00 AM",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "James Harden has opted OUT of his $42.3M player option with Cleveland.\n\nHe's not leaving — he's working toward a new multiyear deal with the Cavs.\n\nThe timing is no coincidence with LeBron's decision still pending.\n\n#Cavs",
+          "posting_time": "9:00 AM, 11:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cavs"
+          ],
+          "char_count": 221
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Harden opting out creates cap flexibility in Cleveland.\n\nNew multiyear deal reportedly coming. The Cavs are doing everything to make Northeast Ohio irresistible for LeBron.\n\nThe front office is all-in.\n\n#Cavs #LeBronJames",
+          "posting_time": "9:00 AM, 11:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cavs",
+            "#LeBronJames"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": {
+        "long_form": "James Harden is making a power move — and it's all about loyalty and leverage.\n\nThe veteran guard has declined his $42.3 million player option for the 2026-27 season with the Cleveland Cavaliers. But don't mistake this for a departure. Harden and the Cavs are actively working toward a new multiyear deal, and the timing of his opt-out tells you everything about what's happening in Cleveland right now.\n\nBy opting out, Harden removes his salary from the cap sheet and gives Cleveland added financial flexibility — flexibility they may need as they work to attract the biggest free agent on the market this summer. The Cavs are doing everything in their power to make Cleveland an irresistible destination.\n\nHarden's career has taken him from Houston to Brooklyn to Philadelphia to LA and now Cleveland. At this stage of his career, the veteran guard seems committed to finishing the job in Northeast Ohio.\n\nWhat do you think this means for Cleveland's offseason? Let us know below.",
+        "image_caption": "James Harden opts out of $42.3M — but he's NOT leaving Cleveland. New deal incoming. The Cavs are building something special. 🍷 #Cavs",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-03-harden-opt-out-cavs-deal.html",
+        "headline": "James Harden Opts Out of $42.3 Million Player Option, Working Toward New Cavs Multiyear Deal",
+        "word_count": 507
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Summer League Day 8 — Cameron Carr Leads Lakers, Magic Edge 76ers",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "4:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "NBA Summer League Day 8 in Las Vegas:\n\nCameron Carr led the Lakers to a Battle of Los Angeles win over the Clippers.\n\nMagic 99, 76ers 92. LaBaron Philon Jr. keeps impressing for Philly.\n\nSummer League wraps July 19.",
+          "posting_time": "4:00 PM",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 215
+        }
+      ],
+      "facebook": {
+        "long_form": "NBA Summer League in Las Vegas keeps delivering.\n\nDay 8 brought another round of entertaining basketball as the next generation of NBA talent put their games on display. Cameron Carr put on a show to lead the Los Angeles Lakers to a Battle of Los Angeles victory over the Clippers. The Orlando Magic held off the Philadelphia 76ers 99-92, with LaBaron Philon Jr. continuing his impressive summer run for Philly.\n\nThe Summer League runs through July 19, giving young players just a few more days to make their case. AJ Dybantsa, Caleb Wilson, Darryn Peterson, and plenty of other top prospects have been must-watch all week long.\n\nWho's your favorite Summer League standout so far this year?",
+        "image_caption": "NBA Summer League Day 8 done. Cameron Carr stepped up for the Lakers, Magic edged the 76ers. The young talent in Vegas this week has been 🔥. Through July 19!",
+        "posting_time": "4:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-summer-league-day-8-recap.html",
+        "headline": "Summer League Day 8: Cameron Carr Shines for Lakers, Magic Hold Off 76ers in Las Vegas",
+        "word_count": 496
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Kawhi Leonard Trade Still Frozen — Investigation Update",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "9:30 PM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The Kawhi Leonard trade is still frozen.\n\nThe NBA's investigation into the Aspiration fraud case (Alex Sanberg convicted, 14-year sentence) must wrap before any deal goes through.\n\nTeams are interested. Kawhi has 1 year left. No timeline.\n\n#Clippers",
+          "posting_time": "9:30 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#Clippers"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": {
+        "long_form": "The Kawhi Leonard situation remains one of the most complicated stories in basketball.\n\nA potential trade away from the Los Angeles Clippers is still frozen — and the reason is a legal and financial scandal that stretches far beyond the basketball court. The NBA is investigating the Aspiration Sports fraud case, which involves convicted executive Alex Sanberg, a 14-year prison sentence, allegations that Sanberg defrauded the Clippers organization of millions through fake endorsement deals and arena naming rights contracts, and a personal $60 million investment by owner Steve Ballmer that he claims was lost to fraud.\n\nCommissioner Adam Silver wants the investigation wrapped before approving any Kawhi trade. Multiple teams around the league have made it known they're interested in acquiring Leonard, who has one year remaining on his contract.\n\nThis creates a genuinely difficult situation for all parties. Kawhi has no timeline on when he can be moved. The Clippers can't clean up their cap situation. And teams hoping to add him can only wait.\n\nWhen do you think the Kawhi investigation resolves? Drop your thoughts below.",
+        "image_caption": "The Kawhi Leonard trade is still frozen. No timeline on the NBA investigation. One year left on his contract. The Clippers saga continues. 🔒 #Clippers",
+        "posting_time": "9:30 PM ET"
+      },
+      "article": {
+        "filename": "article-05-kawhi-trade-freeze-update.html",
+        "headline": "Kawhi Leonard Trade Remains Frozen as NBA Investigation Into Aspiration Fraud Case Continues",
+        "word_count": 448
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
