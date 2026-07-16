@@ -1,5 +1,45 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: July 16, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | TheKiddoSpace Peg Dolls in Cups CPSC recall (cpsc.gov — 7 rainbow peg figures + cup + circular wood tray; under 3 yrs; peg dolls block airway; violates small parts ban; sold TheKiddoSpaceStore.com July 2023–Feb 2025 ~$30; stop use, write RECALLED, photo to info@thekiddospace.com for full refund); Bronc Day Festival July 25 Green Mountain Falls (88th year; theme "Let Freedom Ring!" U.S.A. 250th + Colorado 150th; free; pancake breakfast 7:30–10 AM Church in the Wildwood UCC; parade 10 AM Ute Pass Ave; Gazebo Lake Park activities: rubber duck races, princesses, bounce house, Cool Science, Dinosaur Resource Center, touch-a-truck, face painting, balloon animals, magic, bubble fun, coloring station, pie contest, live music; 30+ vendors; 5 food trucks: Grilled Cheese/City Dogs/Dani's Thai BBQ/Kona Ice/Pikes Peak Funnel Cake; Grand Marshal Retired Fire Chief Steve Murphy; gazette.com July 13 2026); D49 Student Success Center August 2026 (d49.org — opening 2026-27 school year; D49 ECE 2 new classrooms August; D49 Aug 4 all/Aug 3 new K+6th+9th/Aug 10 preschool; D11 Aug 12; D20 Aug 13); AAP updated screen time guidelines February 2026 (2-hour limit removed; quality/context/family conversation focus; under 18 months no screens; ages 2–5 up to 1 hr/day; device-free bedrooms+mealtimes; parental co-viewing; EdSurge Feb 5 2026, FSU News Feb 2 2026); Discover COS 2027 calendar photo contest opened July 15 (submissions open July 15; parks/trails/open spaces; all ages; coloring contest all month; Park & Rec Month theme "The Power Of"; coloradosprings.gov/parkandrecmonth; KRDO July 2 2026) |
+| Story History Check | COMPLETE | S1 (TheKiddoSpace peg doll) NEW; S2 (Bronc Day Festival) NEW; S3 (D49 Student Success Center) FOLLOW-UP from July 13 back-to-school dates — new facility angle; S4 (AAP screen time) NEW; S5 (Discover COS photo contest) FOLLOW-UP from July 15 Park & Rec Month — new photo contest angle |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); ### STORY N: format |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH confidence tags; all facts from web search |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Jamie Rivera (S1, S3, S5), Sarah Morales (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (S1:2, S2:2, S3:1, S4:1, S5:1); all ≤280 chars; 4 hashtags each; COS voice |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; NO hashtags; COS voice |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts; 2 images per story × 5 stories; clean bottom third for text overlay; no likenesses |
+| Image Manifest | COMPLETE | 07-image-manifest.md — YAML format; 10 images (2 per story × 5 stories); all not_started; gemini source; kAHCKfCZgk0 brand kit |
+| Articles | COMPLETE | 5 articles (550–750 words; Quick Reference tables in A1, A3; What's Next sections; 0 exclamation marks; no figure tags; semantic HTML5); bylines: Jamie Rivera (A1, A3, A5), Sarah Morales (A2, A4) |
+| Fact-Check | COMPLETE | verify-facts.py passed; 71 claims; HIGH: 139, MEDIUM: 61, LOW: 76; all 5 stories present in all content files; image not_started warnings cosmetic (expected for gemini source — same as all prior Parenting runs) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles; 27 dashboard items |
+| Dashboard | COMPLETE | review-dashboard.html — 27 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-07-16.xlsx (7 posts, 13:05–20:41 MT) + TOBI cosp-postplanner-tobi-2026-07-16.xlsx (7 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-07-16)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB long-form + 5 FB captions = 17 total posts (PostPlanner xlsx: 7 posts 13:05–20:41 MT, 7 TOBI)
+- **Articles:** 5 (bylines: Jamie Rivera [A1, A3, A5], Sarah Morales [A2, A4])
+- **PostPlanner exports:** cosp-postplanner-2026-07-16.xlsx (7 posts, 13:05–20:41 MT), cosp-postplanner-tobi-2026-07-16.xlsx (7 TOBI posts)
+- **Coverage:** TheKiddoSpace Peg Dolls in Cups CPSC recall (7 rainbow wooden peg figures + cup + circular wood tray; under 3 yrs; blocks airway; violates small parts ban; sold TheKiddoSpaceStore.com July 2023–Feb 2025 ~$30; write RECALLED + photo to info@thekiddospace.com full refund; cpsc.gov); Bronc Day Festival July 25 Green Mountain Falls (88th year; "Let Freedom Ring!" U.S.A. 250th + Colorado 150th; free; pancake breakfast 7:30–10 AM Church in the Wildwood UCC; parade 10 AM Ute Pass Ave; Gazebo Lake Park activities; 30+ vendors; 5 food trucks: Grilled Cheese/City Dogs/Dani's Thai BBQ/Kona Ice/Pikes Peak Funnel Cake; Grand Marshal Retired Fire Chief Steve Murphy; gazette.com July 13 2026); D49 Student Success Center 2 new early childhood classrooms August 2026 (D49 Aug 4 all/Aug 3 new K+6th+9th/Aug 10 preschool; D11 Aug 12; D20 Aug 13; d49.org); AAP updated screen time guidelines February 2026 (2-hour limit removed; quality/context/family conversation; under 18 months no screens; ages 2–5 up to 1 hr/day; device-free bedrooms+mealtimes; co-viewing; EdSurge Feb 5 2026, FSU News Feb 2 2026); Discover COS 2027 calendar photo contest opened July 15 (parks/trails/open spaces; all ages; plus all-month coloring contest; Park & Rec Month theme "The Power Of"; coloradosprings.gov/parkandrecmonth; KRDO July 2 2026)
+- **Notes:**
+  - Ran as Niche 2 in sequence after Tennis niche (session resumed from context compaction)
+  - Cosyland tower stool recall excluded — covered July 2, 2026; TheKiddoSpace peg doll recall used instead (not previously covered)
+  - verify-facts.py: all 5 stories present in all content files; image not_started warnings cosmetic (expected for gemini source — same as all prior Parenting runs)
+  - compile: 7 X posts, 5 FB posts, 5 articles; 27 dashboard items; posting window warnings cosmetic
+  - PostPlanner exports: standard (7 posts) and TOBI (7 posts) generated successfully; 13:05–20:41 MT
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] (rotating from July 15's Sarah Morales [S1, S3, S5])
+
+---
+
 ## Latest Run: July 15, 2026
 
 | Step | Status | Notes |
