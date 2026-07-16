@@ -1,0 +1,340 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-16",
+  "compiled_at": "2026-07-16T11:27:03.431376+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM ET",
+      "description": "Story 1",
+      "type": "Belgian GP race week preview"
+    },
+    {
+      "time": "10:00 AM ET",
+      "description": "Story 1",
+      "type": "Championship context"
+    },
+    {
+      "time": "10:00 AM ET",
+      "description": "Story 3",
+      "type": "Ferrari vs Mercedes qualifying battle"
+    },
+    {
+      "time": "12:00 PM ET",
+      "description": "Story 2",
+      "type": "Verstappen-McLaren saga"
+    },
+    {
+      "time": "2:00 PM ET",
+      "description": "Story 2",
+      "type": "Norris responds"
+    },
+    {
+      "time": "2:00 PM ET",
+      "description": "Story 3",
+      "type": "Leclerc pole prediction"
+    },
+    {
+      "time": "5:00 PM ET",
+      "description": "Story 4",
+      "type": "Antonelli lead analysis"
+    },
+    {
+      "time": "8:00 PM ET",
+      "description": "Story 5",
+      "type": "Red Bull Spa challenge"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Belgian GP Race Week — Championship Battle Arrives at Spa",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "8:00 AM, 10:00 AM",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "F1 RACE WEEK is here. 🇧🇪\n\nBelgian GP at Spa-Francorchamps. FP1 tomorrow 7:30 AM ET. Race Sunday 9:00 AM ET.\n\nChampionship: Antonelli 179 | Russell 154 | Hamilton 147.\n\n25 points. Three drivers. One of the greatest circuits on Earth. Let's go.",
+          "posting_time": "8:00 AM, 10:00 AM",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 242
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Spa-Francorchamps is the longest circuit on the F1 calendar at 7.004km.\n\nUnder 2026 regulations it may also be the most energy-demanding track of the season.\n\nThat's a problem for some teams — and an opportunity for others.\n\nWho wins at Spa? 🏁",
+          "posting_time": "8:00 AM, 10:00 AM",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 243
+        }
+      ],
+      "facebook": {
+        "long_form": "Formula 1's Belgian Grand Prix weekend is here — and the championship couldn't be tighter.\n\nKimi Antonelli leads the 2026 Drivers' Championship with 179 points. Teammate George Russell sits 25 points back in second. Lewis Hamilton is a further 7 points behind in third. Three Mercedes and Ferrari drivers, separated by just 32 points, descend on Spa-Francorchamps for what promises to be one of the most critical weekends of the season.\n\nFree Practice 1 runs Friday July 17 at 7:30 AM ET. Qualifying is Saturday July 18 at 10:00 AM ET. The race is Sunday July 19 at 9:00 AM ET.\n\nSpa-Francorchamps is the longest circuit on the F1 calendar at 7.004 kilometers. Five Straight Mode activation zones have been added for 2026. And the Ardennes weather forecast shows a 50% chance of rain for Friday practice and a 65% chance for Saturday qualifying — meaning conditions could play a defining role.\n\nThis is the race everyone has been circling on the calendar. Who wins Belgium?",
+        "image_caption": "Race week. Spa. 25 points separating the top 3 in the championship. F1's Belgian Grand Prix weekend starts tomorrow. 🏁🇧🇪 #BelgianGP",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-belgian-gp-race-week-preview.html",
+        "headline": "Belgian GP Race Week: A Championship Battle Three Drivers Can Still Win Descends on Spa",
+        "word_count": 492
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Verstappen-McLaren Transfer Saga Reaches Boiling Point",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "12:00 PM, 2:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The Verstappen-to-McLaren saga just got hotter.\n\nHis Red Bull contract has a performance exit clause that ACTIVATES after Hungary next week.\n\nDecision expected before the summer break.\n\nNorris has already responded to the rumors.\n\nThe F1 paddock is watching. 👀",
+          "posting_time": "12:00 PM, 2:00 PM",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 260
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Potential Verstappen-McLaren swap: Max out of Red Bull, Piastri in.\n\nRed Bull hasn't agreed. McLaren hasn't confirmed. But the exit clause is real.\n\nThis could be the biggest F1 driver move since Hamilton to Ferrari.",
+          "posting_time": "12:00 PM, 2:00 PM",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "The biggest driver transfer story in Formula 1 just got a major new chapter.\n\nMax Verstappen's Red Bull Racing contract runs until 2028 — but it contains performance-related exit clauses that are understood to activate after the Hungarian Grand Prix (next week). With Red Bull having endured two consecutive race-ending crashes for Verstappen — both linked to a rear wing fault known as the 'Macarena' issue — and the team struggling to match Mercedes and Ferrari on energy-intensive circuits like Spa, those exit clauses have become very real.\n\nMcLaren are now widely regarded as the frontrunner for Verstappen's services from 2027. Reports suggest the two parties have been in discussions, though both teams have publicly denied the scope of those talks. A potential driver swap — Verstappen to McLaren, Oscar Piastri to Red Bull — has been discussed in paddock circles. Lando Norris has already publicly commented on the speculation, adding to the drama.\n\nA decision is expected before the F1 summer break, which begins after the Hungarian GP. This is one of the most significant driver market stories since Lewis Hamilton shocked Formula 1 by leaving Mercedes for Ferrari.\n\nWhat do you think? Does Verstappen leave Red Bull?",
+        "image_caption": "Verstappen exit clause activates after Hungary. McLaren the frontrunner. Piastri-to-Red-Bull swap possible. The biggest F1 transfer story is heating up. 🔥 #F1",
+        "posting_time": "12:00 PM ET"
+      },
+      "article": {
+        "filename": "article-02-verstappen-mclaren-transfer-saga.html",
+        "headline": "Verstappen-McLaren Transfer Saga Reaches Critical Stage as Exit Clause Looms After Hungary",
+        "word_count": 543
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Ferrari vs Mercedes at Spa — Leclerc Tipped for Pole",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:00 AM, 2:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Ferrari has won 2 of the last 3 F1 races and arrives at Spa with serious momentum.\n\nCharles Leclerc has taken pole at Spa-Francorchamps THREE times (2019, 2023, 2024).\n\nCan he make it four this Saturday?\n\nThe rain forecast adds a wild card. 🌧️",
+          "posting_time": "10:00 AM, 2:00 PM",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 243
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Leclerc vs Russell for Belgian GP pole.\n\nFerrari excels on high-speed flowing circuits. Mercedes has the straight-line power advantage at Spa.\n\nRain is expected Saturday. Whoever adapts best wins qualifying.\n\nThis could be one of the great qualifying sessions of 2026. #BelgianGP",
+          "posting_time": "10:00 AM, 2:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#BelgianGP"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": {
+        "long_form": "The battle for Belgian Grand Prix pole position is shaping up to be one of the most intriguing qualifying sessions of the 2026 F1 season.\n\nFerrari arrives at Spa-Francorchamps on the back of two wins in the last three races, with momentum firmly on their side. Charles Leclerc has been in extraordinary form, and Spa is one of his favorite circuits — he has taken pole position there in 2019, 2023, and 2024. His ability to exploit the flowing, high-speed sections of the Ardennes layout is well-documented, and Ferrari's recent aerodynamic improvements have transformed the SF-26 into a genuine qualifying threat on any circuit.\n\nBut Spa is also a power circuit. The Kemmel Straight and the run through Eau Rouge-Raidillon put a premium on raw engine performance — and that's where Mercedes excels. George Russell and Lewis Hamilton will be serious contenders, especially if the 65% rain forecast for Saturday qualifying leads to wet or mixed conditions.\n\nRain changes everything in qualifying. It favors commitment, tire management, and the ability to read a changing track surface. Leclerc has shown he can do all of that. But so have Russell and Hamilton.\n\nThis Saturday's qualifying session could be the best of the year. Who takes pole?",
+        "image_caption": "Leclerc has taken pole at Spa in 2019, 2023, and 2024. Can he make it four on Saturday? Ferrari vs Mercedes in the rain. #BelgianGP",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-03-ferrari-mercedes-leclerc-spa-pole.html",
+        "headline": "Ferrari vs Mercedes: Charles Leclerc Chases Fourth Spa Pole in a Qualifying Battle That Could Define the Belgian GP",
+        "word_count": 516
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Antonelli's Lead Crumbling — From Dominant to Vulnerable",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "5:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Kimi Antonelli's F1 championship lead has gone from 66 points to just 25 in three races.\n\nFive straight wins. Then a wheel shield issue at Silverstone. Then Ferrari getting on a roll.\n\nBelgium and Hungary could define the 2026 title fight.\n\nCan Antonelli stop the bleeding?",
+          "posting_time": "5:00 PM",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 273
+        }
+      ],
+      "facebook": {
+        "long_form": "Three races ago, Kimi Antonelli had a 66-point Drivers' Championship lead. He had just completed five consecutive race victories — his first five wins in Formula 1 — and looked like he was going to run away with the title.\n\nNow he leads by 25 points.\n\nA wheel shield technical failure ended his Silverstone race early. Ferrari has capitalized by winning two of the last three rounds. Teammate George Russell is now just 25 points back, with Lewis Hamilton only 32 behind. The title fight that appeared to be decided is very much alive.\n\nBelgium and Hungary are consecutive back-to-back race weekends, and they could reshape the championship narrative entirely. Spa-Francorchamps is a circuit where Antonelli had his worst result of the 2025 season (finishing 16th), meaning history doesn't favor him here. His championship lead may be real, but it is no longer comfortable.\n\nHow do you see the title fight unfolding? Is Antonelli still the favorite?",
+        "image_caption": "66-point lead → 25 points. Kimi Antonelli's advantage is shrinking fast. Belgium and Hungary could decide the 2026 F1 world championship. 👀",
+        "posting_time": "5:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-antonelli-championship-lead-crumbling.html",
+        "headline": "Antonelli's Championship Lead Has Fallen From 66 Points to 25 in Three Races — Can He Stop the Slide at Spa?",
+        "word_count": 454
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Red Bull's Spa Problem — Verstappen vs Energy-Hungry Circuit",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "8:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Red Bull's Belgian GP is complicated.\n\nSpa is energy-intensive — exactly where Red Bull has struggled in 2026.\n\nTwo consecutive race-ending crashes (Austria + Silverstone) from the same rear wing fault.\n\nVerstappen loves Spa. The car has problems. #BelgianGP",
+          "posting_time": "8:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#BelgianGP"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": {
+        "long_form": "Max Verstappen has always loved Spa-Francorchamps. He lives nearby, the Orange Army crosses the border in huge numbers, and the circuit historically has suited Red Bull's downforce-heavy setup philosophy.\n\nBut 2026 is different.\n\nUnder the new regulations, Spa is a uniquely energy-intensive circuit. The long flat-out sections through Eau Rouge, Raidillon, and the Kemmel Straight drain battery systems faster than almost anywhere else on the calendar — and energy management has been one of Red Bull's persistent weaknesses this season.\n\nOn top of that, Verstappen has suffered consecutive race-ending incidents at both the Austrian Grand Prix and the British Grand Prix, both attributed to a rear wing fault that failed to close properly through corners. The so-called 'Macarena' wing issue sent Verstappen into the gravel at high speed in Austria during qualifying, and beached him with six laps to go at Silverstone while running third.\n\nRed Bull's engineers have been working on fixes, but the underlying challenge at Spa — where the circuit demands both raw power and flawless energy deployment — remains. Verstappen can still win here. But the team needs to solve its problems fast if it wants to compete with Mercedes and Ferrari over the next two critical weekends.",
+        "image_caption": "Two consecutive crashes. An energy-intensive circuit. A transfer saga brewing. This is a high-stakes Belgian GP for Max Verstappen and Red Bull. 🏎️ #BelgianGP",
+        "posting_time": "8:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-red-bull-verstappen-spa-challenge.html",
+        "headline": "Red Bull Faces a Perfect Storm at Spa: Energy Crisis, Rear Wing Fault, and a Transfer Clock Ticking",
+        "word_count": 501
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

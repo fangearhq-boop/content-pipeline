@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-07-16
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-16 | T1 | Belgian GP Race Week — Championship Battle Arrives at Spa (Antonelli 179/Russell 154/Hamilton 147) | X, FB, Article | FOLLOW UP |
+| 2026-07-16 | T1 | Verstappen-McLaren Transfer Saga — Exit Clause Activates After Hungary, Decision Before Summer Break | X, FB, Article | FOLLOW UP |
+| 2026-07-16 | T1 | Ferrari vs Mercedes at Spa — Leclerc Tipped for Pole, Rain Expected Saturday | X, FB, Article | NEW |
+| 2026-07-16 | T2 | Antonelli's Lead Crumbles from 66 Points to 25 — Belgium and Hungary Decisive | X, FB, Article | FOLLOW UP |
+| 2026-07-16 | T2 | Red Bull's Spa Problem — Energy Circuit, Macarena Wing Fault, Transfer Clock Ticking | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Belgian GP Race Week Preview
+- **Tier:** 1
+- **Category:** F1 Race Preview
+- **Key facts:** Round 10 at Spa-Francorchamps Jul 17-19; FP1 Fri 7:30AM ET / Qual Sat 10AM ET / Race Sun 9AM ET; Antonelli 179/Russell 154/Hamilton 147; 7.004km longest circuit; 5 SLM zones; 50% rain FP1 / 65% qualifying / 20% race
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** FP1 results; qualifying; race recap
+
+### STORY 2: Verstappen-McLaren Transfer Saga
+- **Tier:** 1
+- **Category:** F1 Driver Market
+- **Key facts:** Exit clause activates after Hungary; McLaren frontrunner; potential Piastri swap; Norris responded; decision before summer break; Red Bull refused €8M buyout; Verstappen critical of Red Bull at Silverstone
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official announcement; Hungary GP outcome; McLaren confirmation
+
+### STORY 3: Ferrari vs Mercedes — Leclerc for Pole
+- **Tier:** 1
+- **Category:** F1 Race Preview
+- **Key facts:** Ferrari won 2 of last 3 races; Leclerc pole at Spa 2019/2023/2024; Mercedes power advantage on straights; 65% rain Saturday qualifying
+- **Status:** NEW
+- **Follow-up ideas:** Qualifying result; race strategy
+
+### STORY 4: Antonelli Lead Crumbling
+- **Tier:** 2
+- **Category:** F1 Championship
+- **Key facts:** Was 66 pts three races ago; now 25 pts over Russell/32 over Hamilton; Silverstone wheel shield failure; Ferrari won 2 of last 3; Antonelli P16 at Spa in 2025
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Belgian GP outcome for championship
+
+### STORY 5: Red Bull Spa Challenge
+- **Tier:** 2
+- **Category:** F1 Technical / Race Preview
+- **Key facts:** Spa energy-intensive under 2026 regs; Macarena rear wing fault (Austria + Silverstone crashes); engineers working on fix; exit clause timing pressure
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Red Bull Belgian GP performance; Verstappen result
+
 ## 2026-07-12
 
 | Date | Tier | Story | Platforms | Status |
