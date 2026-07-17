@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-07-16 |
-| Writing | Complete (all steps) | 2026-07-16 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 33 claims, 106 HIGH; image not_started warnings cosmetic/expected for imagn) | 2026-07-16 |
-| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles, 10 images; 27 dashboard items) | 2026-07-16 |
-| Dashboard | Complete (review-dashboard.html, 27 items) | 2026-07-16 |
-| PostPlanner Export | Complete (standard 7 posts 12:50–20:38 ET; TOBI 7 posts) | 2026-07-16 |
-| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-07-16 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-07-16 |
+| Research | Complete | 2026-07-17 |
+| Writing | Complete (all steps) | 2026-07-17 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories; image not_started warnings cosmetic/expected for imagn) | 2026-07-17 |
+| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles, 7 images; 27 dashboard items) | 2026-07-17 |
+| Dashboard | Complete (review-dashboard.html, 27 items) | 2026-07-17 |
+| PostPlanner Export | Complete (standard 7 posts 13:06–20:42 ET; TOBI 7 posts) | 2026-07-17 |
+| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-07-17 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-07-17 |
 
 ## Queue
 
@@ -24,6 +24,21 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-07-17 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB long-form + 5 FB captions = 17 total (PostPlanner xlsx: 7 posts 13:06–20:42 ET, 7 TOBI)
+- **Articles:** 5 (bylines: Marcus Cole [S1, S4], Elena Voss [S2, S5], Ryan Calloway [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-07-17.xlsx (7 posts), tfr-postplanner-tobi-2026-07-17.xlsx (7 TOBI posts)
+- **Coverage:** Vallejo (PAR, unranked) def. Rublev [1] 7-6(5), 6-2 Bastad SF — first Paraguayan ATP final in 20 years (since Ramon Delgado Mumbai 2006); into final vs Borges or Tabilo; Bastad: first QF too (vs van de Zandschulp earlier in week). Gstaad Triple Shock: Bublik (defending champion) def. by Halys (No. 90, FRA); Cerundolo def. Ruud (two-time champion) 3-6, 6-3, 7-5; Rinderknech def. Tsitsipas [3] 6-7(9), 7-6(5), 7-5; two Frenchmen into SF. Dzumhur (BIH, 34, No. 108) def. Arnaldi [4] 7-6(5), 6-7(4), 7-6(4) in 3h42m at Umag — first Umag SF in four attempts; mid-match threatened walkout over line-call dispute; faces Molcan in SF. WTA Athens QFs: Sakkari vs Parks (Parks H2H 2-0 on hard courts; Sakkari dropped only 3 games in Athens so far); Krejcikova [1] vs Zheng [3] (Zheng H2H 2-0); first WTA Athens event in 35 years. Raducanu: grade-4 stress fracture right shin — withdrawn Canadian Open + Cincinnati; earliest return US Open Aug 30; had been runner-up at Queen's Club weeks earlier.
+- **Notes:**
+  - verify-facts.py: passed; image not_started warnings cosmetic (expected for imagn source)
+  - compile: 5 stories, 7 X posts, 5 FB posts, 5 articles, 7 images; 27 dashboard items; posting window warnings cosmetic
+  - PostPlanner exports: standard (7 posts) and TOBI (7 posts) generated successfully; 13:06–20:42 ET
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Marcus Cole [S1, S4], Elena Voss [S2, S5], Ryan Calloway [S3] (rotating from July 16: Elena Voss [S1, S4], Ryan Calloway [S2, S5], Marcus Cole [S3])
 
 ### 2026-07-16 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
