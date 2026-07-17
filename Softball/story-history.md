@@ -5076,3 +5076,62 @@ _This file tracks every story covered, the angle used, content produced, and fol
   - Volts win/loss through July 20 — Garcia's stats
   - AUSL Championship push if Volts make it
   - Garcia second-half pitching line
+
+---
+
+## 2026-07-17
+
+### Story 1: AUSL Final Stretch — Three Days to No. 1 Seed
+- **Date:** 2026-07-17
+- **Tier:** 1
+- **Classification:** FOLLOW UP (standings race tracked since July 10; Utah clinched July 16; Chicago closing gap)
+- **Angle:** Utah 14-6, Chicago 14-7 (after beating Carolina 15-7 on July 16). Saturday July 18 Talons at Bandits (4 PM ET, ESPN2) = season-defining game for No. 1 seed. No. 1 seed gets direct bye to Championship. Play-in game July 23, Championship July 25-27, Davis Diamond, Texas A&M, College Station TX. Game 1 on ABC — first professional softball game on network TV.
+- **Content Produced:** Article (article-01, Emily Rawlings), 2 X posts, FB long-form + caption, 2 Image concepts
+- **Follow-Up Opportunities:**
+  - Saturday result: does Utah win and extend lead, or does Chicago tie it?
+  - Final standings after July 20 regular season end
+  - Play-in game July 23 preview and result
+
+### Story 2: Volts at Cascade Tonight — NiJaree Canady's Playoff Last Stand
+- **Date:** 2026-07-17
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Canady debut struggles tracked since season open; mechanics fix with Nyberg ongoing)
+- **Angle:** Texas Volts at Portland Cascade, 8 PM ET ESPN2. Canady 0-3, 6.87 ERA. Tori Nyberg (Stanford) working on stance fix. Volts outside playoff picture; need wins to stay alive. AUSL regular season ends July 20.
+- **Content Produced:** Article (article-02, Jordan Reeves), 2 X posts, FB long-form + caption, 2 Image concepts
+- **Follow-Up Opportunities:**
+  - Tonight's game result (Canady ERA, win/loss)
+  - Volts playoff math after tonight
+  - Canady 2026 AUSL final line
+
+### Story 3: PGF Nationals Opens Saturday — 48 Hours Out
+- **Date:** 2026-07-17
+- **Tier:** 2
+- **Classification:** FOLLOW UP (tracked since June 30; roster freeze confirmed July 13; tournament opens July 19)
+- **Angle:** Opens July 19, Great Park, Irvine CA. 18U/16U Week 1 July 19-25. Arizona Storm Appel top 18U contender. September 1 = Class of 2028 contact window, 45 days out.
+- **Content Produced:** Article (article-03, Sarah Mitchell), 1 X post, FB long-form + caption, Image concept
+- **Follow-Up Opportunities:**
+  - PGF Nationals results July 19+
+  - 18U bracket leaders to watch
+  - September 1 recruiting window story
+
+### Story 4: Megan Grant and Portland Cascade Fight for No. 2 Seed
+- **Date:** 2026-07-17
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Grant AUSL debut tracked since draft; ESPY nomination covered July 15-16)
+- **Angle:** Grant leads AUSL in HRs. Portland ~11-9. Both 2nd and 3rd seeds advance but seeding matters for play-in. Grant ESPY nominated (42 HR NCAA record broke Espinoza's 37 from 1995, Myles Garrett won). Cascade needs wins for No. 2 seed.
+- **Content Produced:** Article (article-04, Emily Rawlings), 1 X post, FB long-form + caption, Image concept
+- **Follow-Up Opportunities:**
+  - Portland final standings (2 vs 3 seed?)
+  - Grant AUSL HR total at season end
+  - Cascade play-in game result
+
+### Story 5: AUSL Championship Explainer
+- **Date:** 2026-07-17
+- **Tier:** 3
+- **Classification:** PREVIEW/EVERGREEN (format explainer for new fans ahead of ABC broadcast)
+- **Angle:** July 23 play-in (2 vs 3 seeds), July 25-27 Championship, Davis Diamond, Texas A&M, College Station TX. Game 1 on ABC — first professional softball game on network TV. Best-of-three format.
+- **Content Produced:** Article (article-05, Jordan Reeves), 1 X post, FB long-form + caption, Image concept
+- **Follow-Up Opportunities:**
+  - Play-in game July 23 result
+  - Championship preview (matchups)
+  - ABC broadcast promotion

@@ -1,0 +1,266 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-17",
+  "compiled_at": "2026-07-17T10:23:10.216631+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "AUSL Final Stretch — Three Days to No. 1 Seed",
+      "tier": 1,
+      "status": "",
+      "angle": "Saturday is the game. Utah vs Chicago, No. 1 seed on the line, with the ABC debut of professional softball eight days away. Frame this as the stretch run everyone has been waiting for.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Utah leads Chicago by 1 game with 3 left — and Saturday's Talons at Bandits (4 PM ET, ESPN2) is the game.\n\nNo. 1 seed = direct bye to the ABC Championship.\nNo. 2 seed = must win a play-in first.\n\nThe stretch run is here. 🥎\n\n#AUSL",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#AUSL"
+          ],
+          "char_count": 229
+        },
+        {
+          "label": "Post 1-2",
+          "text": "AUSL standings entering the final 3 games:\n\nUtah Talons — 14-6 ✅ (clinched)\nChicago Bandits — 14-7\nPortland Cascade — chasing\n\nSaturday 4 PM ET on ESPN2: Talons at Bandits.\n\nNo. 1 seed = ABC debut. Big game. #AUSL #softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#AUSL",
+            "#softball"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-ausl-no1-seed-race-talons-bandits-saturday.html",
+        "headline": "AUSL Final Week: Utah and Chicago Are Playing for the No. 1 Seed — and Saturday Is the Game",
+        "word_count": 638
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "AUSL Final Stretch — No. 1 Seed Race\n\n**Image 1.1 — Social (1080x1350)**\n- Type: imagn\n- Subject: Utah Talons action shot — AUSL game\n- Search term: \"Utah Talons softball\"\n- Caption overlay: \"THREE DAYS LEFT / TALONS vs BANDITS / SAT 4PM ET ESPN2\"\n- Status: not_started\n\n**Image 1.2 — Social (1080x1350)**\n- Type: imagn\n- Subject: Chicago Bandits fielding/batting — AUSL game\n- Search term: \"Chicago Bandits softball\"\n- Caption overlay: \"NO. 1 SEED ON THE LINE / AUSL FINAL WEEK\"\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "AUSL Final Stretch — No. 1 Seed Race\n**Confirmed facts (HIGH confidence — multiple sources):**\n- Utah Talons clinched AUSL postseason berth; entering July 17 at approximately 14-6 record\n- Chicago Bandits defeated Carolina Blaze 15-7 on July 16, 2026; Bandits record approximately 14-7\n- AUSL regular season ends July 20, 2026\n- Saturday July 18: Talons at Bandits, 4 PM ET, ESPN2 — key matchup for No. 1 seed\n- No. 1 seed earns direct bye to AUSL Championship Series\n- Nos. 2 and 3 seeds play single-elimination play-in game July 23 at Davis Diamond, College Station TX\n- AUSL Championship Series: July 25-27, Davis Diamond, Texas A&M campus, College Station TX\n- Game 1 of Championship to air on ABC — first professional softball game ever on network television",
+        "sources": "- Source: theausl.com/news/2026-ausl-championship-texas-am-davis-diamond-college-station/, ESPN AUSL schedule\n**MEDIUM confidence:**\n- Chicago's 9-game winning streak was snapped by Portland before July 16\n- Portland Cascade approximately 11-9 heading into final week\n- Oklahoma City Spark won a series against Utah late in the week (from power rankings)\n- Sami Williams and Morgan Zerkle are offensive contributors for Chicago Bandits\n**Context from prior pipeline runs:**\n- Utah Talons head coach reference; Autumn Faraimo threw complete game 10K on July 16 vs OKC\n- Allchin HR and Palacios 2-run blast in Talons' July 16 win over OKC (5-4)"
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Volts at Cascade Tonight — NiJaree Canady's Playoff Last Stand",
+      "tier": 2,
+      "status": "",
+      "angle": "The question isn't just whether the Volts win tonight — it's whether Canady is turning a corner. If her mechanics have clicked, this is the game where you'd see it.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Tonight: Texas Volts at Portland Cascade, 8 PM ET on ESPN2.\n\nNiJaree Canady is 0-3 with a 6.87 ERA in her pro debut. The Volts are outside the playoff picture.\n\nIf the mechanics Tori Nyberg has been fixing are back — tonight's the night you'd see it. #AUSL",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#AUSL"
+          ],
+          "char_count": 256
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Volts-Cascade is live right now on ESPN2. #AUSL\n\nNiJaree Canady took the mound tonight with the Volts' playoff hopes on the line.\n\nWatch and follow for updates. 🥎 #softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#AUSL",
+            "#softball"
+          ],
+          "char_count": 172
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-nijaree-canady-volts-cascade-playoff-stand.html",
+        "headline": "NiJaree Canady Takes the Mound Tonight — and the Volts' Playoff Hopes Go With Her",
+        "word_count": 586
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Volts at Cascade Tonight — NiJaree Canady's Playoff Last Stand\n\n**Image 2.1 — Social (1080x1350)**\n- Type: imagn\n- Subject: NiJaree Canady pitching\n- Search term: \"NiJaree Canady Texas Volts\"\n- Caption overlay: \"TONIGHT / VOLTS AT CASCADE / 8PM ET ESPN2\"\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NiJaree Canady / Volts at Cascade Tonight\n**Confirmed facts (HIGH confidence):**\n- Texas Volts at Portland Cascade, July 17, 8 PM ET, ESPN2\n- NiJaree Canady: 0-3 record, 6.87 ERA in 2026 AUSL appearances (confirmed from multiple sources including si.com, theausl.com)\n- Canady was picked No. 2 overall in 2026 AUSL College Draft (May 4, 2026)\n- Signed with Texas Volts on June 12, 2026\n- Tori Nyberg (former Stanford pitching coach) called in to address mechanics\n- Mechanical issue: shifted from \"squared up\" to \"open\" stance post-injury at Texas Tech\n- Canady did earn first AUSL win July 10 (complete game, 6 Ks) — one win does not close the story",
+        "sources": "- Source: si.com, theausl.com player page\n**MEDIUM confidence:**\n- Volts currently outside playoff picture (standings not fully confirmed post July 16)\n- Other pitchers on Volts: Rachel Garcia (MLBx MVP), Ally Carda, Alyssa Denham\n**LOW — do not use:**\n- Exact Volts record as of July 17 (need confirmation after July 16 games)"
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "PGF Nationals Opens Saturday — 48 Hours Out",
+      "tier": 2,
+      "status": "",
+      "angle": "Two days out. Rosters are locked. The biggest girls' softball tournament of the summer begins Saturday, and the class of 2028 college recruiting window is 45 days away.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "PGF Nationals starts Saturday at Great Park in Irvine, CA — 48 hours away.\n\n18U and 16U divisions, July 19-25. The biggest girls' fastpitch tournament of the summer.\n\nSeptember 1 recruiting window is 45 days out. Every at-bat counts. #PGFNationals #softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGFNationals",
+            "#softball"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-pgf-nationals-2026-preview-48-hours.html",
+        "headline": "PGF Nationals Opens in 48 Hours — Here's What to Know Before Saturday",
+        "word_count": 485
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "PGF Nationals Opens Saturday\n\n**Image 3.1 — Social (1080x1350)**\n- Type: imagn\n- Subject: Youth/travel softball team — tournament action\n- Search term: \"PGF Nationals softball\"\n- Caption overlay: \"PGF NATIONALS / STARTS SATURDAY / GREAT PARK · IRVINE CA\"\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "PGF Nationals Opens Saturday\n**Confirmed facts (HIGH confidence):**\n- PGF National Championships: July 19 – August 4, 2026\n- Location: Great Park, Irvine, California\n- Week 1: 18U and 16U divisions, July 19-25\n- Week 2: 14U, 12U, 10U divisions, July 26–August 2",
+        "sources": "- Source: pgfnationals.com (official site), flosoftball.com\n**HIGH confidence:**\n- September 1 = Class of 2028 college recruiting contact window opens\n- July 17 to September 1 = 45 days\n**MEDIUM confidence:**\n- Arizona Storm Appel enters as top 18U contender (from prior pipeline tracking)\n- Roster freeze passed July 13 at 11:59 PM PST (confirmed from July 13 pipeline)"
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Megan Grant and the Cascade Fight for No. 2 Seed",
+      "tier": 2,
+      "status": "",
+      "angle": "Grant made the ESPY ballot because of what she did in college. Now she's trying to win something that matters in the pro game — and the difference between second and third is real.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Megan Grant broke the all-time NCAA home run record (42) this spring.\n\nNow she's leading the AUSL in HRs — and the Portland Cascade are fighting for the No. 2 seed with 3 games left.\n\nThe difference between 2nd and 3rd is real. #AUSL #softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#AUSL",
+            "#softball"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-megan-grant-portland-cascade-no2-seed.html",
+        "headline": "Megan Grant Is Still Making History — and the Portland Cascade Are Chasing a No. 2 Seed",
+        "word_count": 555
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Megan Grant / Portland Cascade\n\n**Image 4.1 — Social (1080x1350)**\n- Type: imagn\n- Subject: Megan Grant batting or celebrating\n- Search term: \"Megan Grant Portland Cascade\"\n- Caption overlay: \"MEGAN GRANT / AUSL HR LEADER / FIGHTING FOR NO. 2 SEED\"\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Megan Grant / Portland Cascade\n**Confirmed facts (HIGH confidence):**\n- Megan Grant set all-time NCAA home run record: 42 HR in 2026 season (UCLA)\n- Previous record: Laura Espinoza, 37 HR (Arizona, 1995) — 31-year-old mark\n- Grant nominated for ESPY Award for Best Record-Breaking Performance\n- Myles Garrett (NFL, LA Rams) won the ESPY for Best Record-Breaking Performance\n- Portland Cascade was AUSL 4th pick (Grant); first-week 313-ft AUSL HR record\n- Grant leads AUSL in home runs (from July 16 pipeline)",
+        "sources": "- Source: ESPN ESPYs coverage, si.com, theausl.com\n**MEDIUM confidence:**\n- Portland Cascade approximately 11-9 record entering final week"
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "AUSL Championship in 8 Days — What You Need to Know",
+      "tier": 3,
+      "status": "",
+      "angle": "Fans coming to professional softball for the first time need a roadmap. Eight days out, with three regular-season games left, this is the moment to explain exactly what's on the line.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "AUSL Championship is 8 days away. Here's how it works:\n\n📍 Davis Diamond, Texas A&M, College Station TX\n📅 Play-in game: July 23 (No. 2 vs No. 3 seed)\n🏆 Championship: July 25-27\n\nGame 1 on ABC. First professional softball game ever on network TV. #AUSL",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#AUSL"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-ausl-championship-explainer-abc-davis-diamond.html",
+        "headline": "AUSL Championship Is 8 Days Away — Here's How the Postseason Works",
+        "word_count": 510
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "AUSL Championship Preview\n\n**Image 5.1 — Social (1080x1350)**\n- Type: imagn\n- Subject: AUSL Championship action or Davis Diamond exterior\n- Search term: \"Davis Diamond College Station softball\"\n- Caption overlay: \"AUSL CHAMPIONSHIP / JULY 25-27 / GAME 1 ON ABC\"\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "AUSL Championship Format\n**Confirmed facts (HIGH confidence):**\n- AUSL Championship Series: July 25-27, Davis Diamond, College Station TX (Texas A&M campus)\n- Play-in game: July 23, Davis Diamond (Nos. 2 and 3 seeds, single elimination)\n- Format: best-of-three Championship Series\n- Game 1 on ABC — first professional softball game on network television",
+        "sources": "- Source: theausl.com/news/2026-ausl-championship-texas-am-davis-diamond-college-station/\n- Postseason begins July 23 (play-in), regular season ends July 20"
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

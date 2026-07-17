@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-07-17
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch, multiple queries), brief (5 stories), research notes, story analysis, X posts (7; all under 280 chars), FB posts (5 stories), image concepts (7 items), image manifest (10 items, not_started), articles (5), fact-check (76 claims), compile (5 stories, 7 tweets, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts standard + 7 TOBI). WordPress 403 (proxy sandbox — known). Dashboard push 403 (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected — proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started). PostPlanner FB 0 posts (format — known). 0 char violations.
+- **Key Stories**: AUSL Final Stretch/Utah 14-6 vs Chicago 14-7/Saturday Talons at Bandits 4PM ET ESPN2/No. 1 seed = direct bye to ABC Championship/play-in July 23/Championship July 25-27 Davis Diamond Texas A&M (Tier 1 FOLLOW UP), Volts at Cascade tonight 8PM ET ESPN2/Canady 0-3 6.87 ERA/Nyberg mechanics fix/Volts outside playoff picture (Tier 2 FOLLOW UP), PGF Nationals opens Saturday July 19/Great Park Irvine CA/18U+16U/Arizona Storm Appel/September 1 recruiting 45 days (Tier 2 FOLLOW UP), Megan Grant AUSL HR leader/Cascade ~11-9 fighting for No. 2 seed/ESPY nomination (Tier 2 FOLLOW UP), AUSL Championship explainer/Davis Diamond/ABC first pro softball on network TV (Tier 3 PREVIEW)
+
+## Last Run
 - **Date**: 2026-07-16
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via agents, multiple queries), brief (5 stories), research notes, story analysis, X posts (7; 3 char violations fixed), FB posts (5 stories), image concepts (7 items), image manifest (10 items, not_started), articles (5), fact-check (73 claims), compile (5 stories, 7 tweets, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts standard + 7 TOBI). WordPress 403 (proxy sandbox — known). Dashboard push 403 (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected — proxy known restriction).
