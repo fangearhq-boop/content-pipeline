@@ -1,10 +1,21 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
-- **Date**: 2026-07-16
+- **Date**: 2026-07-17
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-17
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway)
+- **PostPlanner exports:** gfr-postplanner-2026-07-17.xlsx (7 posts) + gfr-postplanner-tobi-2026-07-17.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-07-17/review-dashboard.html (22 items)
+- **Notes:** OPEN CHAMPIONSHIP R2 LIVE (CUT DAY) — 154th Open at Royal Birkdale; R1 final: Suber -5 (65, afternoon wave)/Im+Brown -4/DeChambeau+Young+MacIntyre+Detry -3/Scheffler+Morikawa -2; Scheffler missed cut Scottish Open/defending champion/"Scheffler chases underdog Suber"/R2 paired Hatton+DeChambeau; projected cut ~+1; McIlroy won Scottish Open/chasing 7th major (breaks tie with Faldo/European record)/back-to-back Masters 2025-26/last Open win Hoylake 2014; LIV Golf crisis: needs $600M/PIF delivered ~$200M/debenture filed June (lender not investor)/4 events remain July 23+/Ducera Partners hired/insiders say PIF could cut payments before season ends
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-16
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-07-17
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-17 | T1 | Open Championship R2 — Suber Leads as Scheffler Surges Into Contention | X, FB, Article | FOLLOW UP |
+| 2026-07-17 | T2 | Scheffler Bouncing Back — Defending Champion Finds His Game at Birkdale | X, FB, Article | NEW |
+| 2026-07-17 | T1 | LIV Golf Financial Crisis — Four Events Hang in the Balance | X, FB, Article | NEW |
+| 2026-07-17 | T2 | McIlroy Open Quest — Seventh Major Would Make European History | X, FB, Article | FOLLOW UP |
+| 2026-07-17 | T2 | Cut Day at Royal Birkdale — Big Names Battle the Projected Line | X, FB, Article | NEW |
+
+### STORY 1: Open Championship R2 — Suber Leads as Scheffler Surges
+- **Tier:** 1
+- **Category:** The Open Championship / Round 2
+- **Key facts:** Jackson Suber leads at -5 after R1 65 (afternoon wave, tough conditions); Im and Brown -4; DeChambeau/Young/MacIntyre/Detry -3; Scheffler -2; R2 underway Friday (cut day); projected cut ~+1; "Scheffler chases underdog Suber" per multiple outlets; Scheffler R2 grouped with Hatton + DeChambeau
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R2 final leaderboard; Moving Day R3 coverage; who makes/misses cut
+
+### STORY 2: Scheffler Bouncing Back — Defending Champion at Birkdale
+- **Tier:** 2
+- **Category:** The Open Championship / Scottie Scheffler
+- **Key facts:** Scheffler missed cut at 2026 Genesis Scottish Open last week; defending Open champion; R1 at Birkdale: 4 birdies in first 6 holes, bogeys at 7 and 17 = -2; R2 paired with Hatton + DeChambeau; world No. 1
+- **Status:** NEW
+- **Follow-up ideas:** Whether Scheffler closes gap on Suber in R2/R3; title defense angle for weekend
+
+### STORY 3: LIV Golf Financial Crisis — Four Events Hang in Balance
+- **Tier:** 1
+- **Category:** LIV Golf / Finance
+- **Key facts:** Needs $600M to complete 2026 season; PIF delivered ~$200M (~$66M May + ~$130M June); PIF debenture filed June 2026 (lender not investor); 4 events remain (LIV UK JCB July 23-26 + 3 US August events); insiders say PIF could cut payments before season ends; Ducera Partners hired; 2 independent board directors added; PIF confirmed funding only through end of 2026; $6B+ invested since 2022
+- **Status:** NEW
+- **Follow-up ideas:** Whether LIV UK at JCB proceeds July 23; any new investor announcements
+
+### STORY 4: McIlroy Open Quest — 7th Major Would Make European History
+- **Tier:** 2
+- **Category:** The Open Championship / Rory McIlroy
+- **Key facts:** Won 2026 Genesis Scottish Open last week; 6 major titles (ties Faldo for European record); back-to-back Masters 2025-26; last Open win Hoylake 2014; 7th major = sole European record holder; played afternoon wave R1 Thursday; in field for R2 Friday; R1 score unconfirmed
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** McIlroy R2/R3 scores; whether he contends for the record at Birkdale
+
+### STORY 5: Cut Day at Royal Birkdale
+- **Tier:** 2
+- **Category:** The Open Championship / Cut Day
+- **Key facts:** R2 is cut day; 156 golfers → top 70 + ties advance; projected cut ~+1 entering Friday; DeChambeau/Young/Suber/Im/Brown safely inside cut; Birkdale conditions (wind, rough, greens) can shift scores rapidly
+- **Status:** NEW
+- **Follow-up ideas:** Final cut result; notable names who missed/made cut; R3 groupings
+
 ## 2026-07-16
 
 | Date | Tier | Story | Platforms | Status |

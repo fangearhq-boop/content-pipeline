@@ -1,0 +1,269 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-17",
+  "compiled_at": "2026-07-17T11:38:28.381288+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM ET",
+      "description": "Story 1",
+      "type": "Open R2 leaderboard update"
+    },
+    {
+      "time": "10:30 AM ET",
+      "description": "Story 1",
+      "type": "Suber/Scheffler chase"
+    },
+    {
+      "time": "10:30 AM ET",
+      "description": "Story 2",
+      "type": "Scheffler bounce-back"
+    },
+    {
+      "time": "1:00 PM ET",
+      "description": "Story 2",
+      "type": "Scheffler title defense angle"
+    },
+    {
+      "time": "1:00 PM ET",
+      "description": "Story 3",
+      "type": "LIV financial crisis"
+    },
+    {
+      "time": "3:30 PM ET",
+      "description": "Story 3",
+      "type": "Four events at risk"
+    },
+    {
+      "time": "3:30 PM ET",
+      "description": "Story 4",
+      "type": "McIlroy major chase"
+    },
+    {
+      "time": "6:00 PM ET",
+      "description": "Story 5",
+      "type": "Cut day drama"
+    },
+    {
+      "time": "8:30 PM ET",
+      "description": "Story 5",
+      "type": "Evening wrap"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Open Championship R2: Suber Leads as Scheffler Surges Into Contention",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "8:00 AM, 10:30 AM",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Jackson Suber shot 65 Thursday to lead the 154th Open Championship at -5.\n\nSuber leads Im and Brown by 1. Scheffler (-2) is 3 back and chasing.\n\nR2 underway now at Royal Birkdale.\n\n#TheOpen #Golf",
+          "posting_time": "8:00 AM, 10:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheOpen",
+            "#Golf"
+          ],
+          "char_count": 195
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Scheffler chases underdog Suber at #TheOpen.\n\nR1 final: Suber -5, Im/Brown -4, DeChambeau/Young/MacIntyre/Detry -3, Scheffler -2.\n\nThe defending champion is hunting. R2 live at Royal Birkdale.\n\n#Golf",
+          "posting_time": "8:00 AM, 10:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheOpen",
+            "#Golf"
+          ],
+          "char_count": 199
+        }
+      ],
+      "facebook": {
+        "long_form": "Round 2 is underway at Royal Birkdale, and the 154th Open Championship leaderboard is must-see content.\n\nJackson Suber leads at -5 after shooting a 65 on Thursday afternoon — one of the most impressive rounds of the major season. Suber's round was made more remarkable by the conditions: afternoon groups at Birkdale dealt with wind and rough that morning starters didn't face. He made the most of it.\n\nThe R1 final standings: Suber -5, Sungjae Im and Daniel Brown at -4, and a cluster of major contenders at -3 including Bryson DeChambeau, Cameron Young, Robert MacIntyre, and Thomas Detry.\n\nThen there's Scottie Scheffler.\n\nThe defending champion opened at -2, four birdies in his first six holes before dropping shots at 7 and 17. He's three behind Suber. In a major, three shots is nothing. Scheffler has made up bigger margins in fewer holes.\n\nR2 runs all day Friday. The cut line is projected near +1 — so the drama isn't just at the top of the board. Big names are fighting to make the weekend.\n\nFollow along with Golf Fanrecap for live updates throughout the day.",
+        "image_caption": "Suber -5. Scheffler -2. Round 2 is live at Royal Birkdale. #TheOpen #Golf",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-open-championship-r2-suber-leads-scheffler-chases.html",
+        "headline": "Open Championship R2: Suber Leads as Scheffler Surges Into Contention at Royal Birkdale",
+        "word_count": 730
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Scheffler Bouncing Back — Defending Champion Finds His Game at Birkdale",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:30 AM, 1:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Scottie Scheffler missed the cut at last week's Scottish Open.\n\nHe answered with 4 birdies in his first 6 holes Thursday at #TheOpen.\n\nDefending champion. Still dangerous. -2 after R1.\n\n#Golf #Scheffler",
+          "posting_time": "10:30 AM, 1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheOpen",
+            "#Golf",
+            "#Scheffler"
+          ],
+          "char_count": 202
+        }
+      ],
+      "facebook": {
+        "long_form": "When Scottie Scheffler missed the cut at the 2026 Genesis Scottish Open last week, it felt like a genuine surprise.\n\nThe world No. 1. The reigning Open Champion. Missing the cut at Birkdale's warm-up event isn't the script anyone expected — least of all Scheffler.\n\nHe arrived at Royal Birkdale with something to prove, and Thursday's opening round suggested he found his answer quickly.\n\nScheffler made four birdies in his first six holes — an aggressive, confident start that put the tournament on notice. Two bogeys (holes 7 and 17) kept the round at -2 rather than something more dramatic, but the message was clear: the defending champion is here.\n\nHe's three back of Jackson Suber through R1 and grouped in R2 with Tyrrell Hatton and Bryson DeChambeau — a marquee group that will draw galleries and cameras all day Friday.\n\nScheffler has won this championship before. He knows what it takes. A slow start to the week doesn't define a player who has defined the sport in 2025 and 2026.\n\nThree shots at a major? That's a Friday warm-up problem.",
+        "image_caption": "Scheffler missed the cut last week. He opened the Open at -2. The defending champion is back. #TheOpen #Golf",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-scheffler-bouncing-back-defending-champion-birkdale.html",
+        "headline": "Scheffler Bouncing Back: Defending Open Champion Finds His Game at Royal Birkdale",
+        "word_count": 716
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "LIV Golf Financial Crisis — Four Events Hang in the Balance",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM, 3:30 PM",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "LIV Golf needs $600M to finish the 2026 season.\n\nSaudi Arabia's PIF has delivered roughly $200M — and is now listed as LIV's lender, not its investor.\n\n4 events remain. The next one starts July 23.\n\n#LIVGolf #Golf",
+          "posting_time": "1:00 PM, 3:30 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf",
+            "#Golf"
+          ],
+          "char_count": 213
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Multiple insiders believe PIF could cut monthly payments before LIV Golf completes its 4 remaining 2026 events.\n\nThe tour hired Ducera Partners to find new investors. No deal announced.\n\nLIV UK at JCB Golf is scheduled for July 23.\n\n#LIVGolf",
+          "posting_time": "1:00 PM, 3:30 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf"
+          ],
+          "char_count": 241
+        }
+      ],
+      "facebook": {
+        "long_form": "While the world's best golfers compete at The Open, the sport's biggest financial drama is unfolding off the leaderboard.\n\nLIV Golf needs $600 million to complete its 2026 season. Saudi Arabia's Public Investment Fund has delivered approximately $200 million — roughly a third of what's needed. To bridge the gap, PIF filed a debenture agreement in June, effectively shifting from investor to lender. LIV Golf isn't receiving investment money. It's operating on loans.\n\nFour events remain on the 2026 LIV calendar: LIV Golf UK at JCB Golf and Country Club in Rocester, England (July 23-26), followed by three US events in August. Multiple insiders told Sportico and other outlets that PIF could cut monthly payments before the season ends.\n\nThe tour has approached hundreds of prospective investors and hired US investment bank Ducera Partners. Two independent board directors were added. No new investment has been announced.\n\nPIF confirmed publicly in April that it would finance LIV only through the end of 2026. It has reportedly invested more than $6 billion into LIV since 2022.\n\nThe first of the four remaining events is 6 days away. The math doesn't work without a deal or a miracle.",
+        "image_caption": "LIV Golf needs $600M to finish 2026. PIF delivered ~$200M — and is now its lender, not its investor. Four events. Six days until the next one. #LIVGolf #Golf",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-liv-golf-financial-crisis-four-events-at-risk.html",
+        "headline": "LIV Golf Financial Crisis: Four Events Hang in the Balance as PIF Funding Falls $400M Short",
+        "word_count": 739
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Rory McIlroy's Open Quest — Seventh Major Would Make European History",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "3:30 PM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Rory McIlroy won last week's Scottish Open and now tees it up at #TheOpen with a chance at history.\n\n7 majors would break Nick Faldo's European record.\n\nHis last Open win: Hoylake 2014. Can he end the wait at Birkdale?\n\n#Golf",
+          "posting_time": "3:30 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheOpen",
+            "#Golf"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "Rory McIlroy is chasing history at Royal Birkdale — and he's coming in hot.\n\nMcIlroy won last week's Genesis Scottish Open, making him one of the hottest players in the field entering The Open Championship. That form matters on a links course where confidence and ball-striking go hand in hand.\n\nThe stakes are significant. McIlroy has won six major championships — a number that ties him with Nick Faldo for the most majors ever won by a European player. A win at Royal Birkdale would give him seven, making him the sole record holder.\n\nHis resume already includes back-to-back Masters titles in 2025 and 2026. His last Open Championship win came at Hoylake in 2014 — 12 years and counting. The wait at links golf's most historic stage has been a storyline that's followed him for over a decade.\n\nHe played in the afternoon wave on Thursday and is in the field for Round 2 Friday at Royal Birkdale.\n\nThe record. The form. The history. Birkdale could be the place.",
+        "image_caption": "McIlroy won the Scottish Open last week. A win at The Open would give him 7 majors — the European record alone. His last Open win: Hoylake 2014. Can Birkdale end the wait? #TheOpen #Golf",
+        "posting_time": "3:30 PM ET"
+      },
+      "article": {
+        "filename": "article-04-mcilroy-open-quest-seventh-major-european-record.html",
+        "headline": "McIlroy's Open Quest: A Seventh Major Would Make European History at Royal Birkdale",
+        "word_count": 676
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Cut Day at Royal Birkdale — Big Names Battle the Projected Line",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "6:00 PM, 8:30 PM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Cut day at the 154th Open Championship.\n\nThe projected line entering R2 was +1. Top 70 + ties survive the weekend.\n\nRoyal Birkdale's conditions can flip a scorecard fast. Big names fighting for their tournament lives.\n\n#TheOpen #Golf",
+          "posting_time": "6:00 PM, 8:30 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheOpen",
+            "#Golf"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "Cut day at a major is its own kind of drama, and Royal Birkdale delivered Friday.\n\nThe 154th Open Championship trimmed from 156 golfers to the top 70 and ties making the weekend. The projected cut entering Round 2 was approximately +1 — a number that left a lot of household names fighting for their tournament lives.\n\nBirkdale's layout is unforgiving. The wind, the rough, and the speed of the greens mean one bad stretch can turn a comfortable position into a scramble. Friday's conditions only added to the pressure.\n\nAt the top of the leaderboard, Jackson Suber and Scottie Scheffler were trading blows through R2, with a cluster of stars in pursuit. Below the cut line, a different and equally compelling story was playing out — big names, missed fairways, and the particular sting of watching a major slip away on a Friday afternoon.\n\nGolf Fanrecap tracked it all throughout the day. The results that matter most now: who survived, and who didn't. The final leaderboard heading into Moving Day is set.\n\nStay with us through the weekend as The Open Championship builds to Sunday at Royal Birkdale.",
+        "image_caption": "Cut day is done at Royal Birkdale. Top 70 + ties made the weekend. R2 is complete. Moving Day on Saturday. #TheOpen #Golf",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-cut-day-royal-birkdale-2026-open-championship.html",
+        "headline": "Cut Day at Royal Birkdale: Big Names Battle the Line at the 154th Open Championship",
+        "word_count": 728
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
