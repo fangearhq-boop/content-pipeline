@@ -1,8 +1,21 @@
 # F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
-- **Date**: 2026-07-16
+- **Date**: 2026-07-17
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+
+## Pipeline Run Log
+
+### 2026-07-17
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway)
+- **PostPlanner exports:** f1fr-postplanner-2026-07-17.xlsx (7 posts) + f1fr-postplanner-tobi-2026-07-17.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-07-17/review-dashboard.html (27 items)
+- **Notes:** BELGIAN GP PRACTICE DAY — FP1: Piastri P1/Verstappen P2/Norris P3/Russell P4/Leclerc P5/Antonelli P6/Hamilton P7; FP2: Norris P1 (1:42.260)/Piastri P2/Verstappen P3/Leclerc P4/Sainz P5/Russell P6/Hamilton P10; Aston Martin upgrades (Stroll+Alonso top 10 FP1); Verstappen manager confirms exit clause active (July 16 first public confirmation)/McLaren "closing stages"/Red Bull buyout refused; Championship: Antonelli 179/Russell 154/Hamilton 147 (25pt gap from 66 over 3 races); Hamilton says Mercedes "should be further ahead"; 65% rain forecast Saturday qualifying; Leclerc 3x Spa pole
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ## Pipeline Run Log
 

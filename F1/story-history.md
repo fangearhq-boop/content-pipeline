@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-07-17
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-17 | T1 | Belgian GP Practice: McLaren Dominates FP1 and FP2 — Piastri and Norris Lead at Spa | X, FB, Article | NEW |
+| 2026-07-17 | T1 | Verstappen Manager Confirms Exit Clause Active — McLaren Deal in Closing Stages | X, FB, Article | FOLLOW UP |
+| 2026-07-17 | T1 | F1 Championship Three-Way Fight: Antonelli 179, Russell 154, Hamilton 147 | X, FB, Article | FOLLOW UP |
+| 2026-07-17 | T2 | Aston Martin Spa Upgrade — Stroll and Alonso Break Into FP1 Top 10 | X, FB, Article | NEW |
+| 2026-07-17 | T2 | Belgian GP Qualifying Preview — 65% Rain Forecast Could Reshuffle Grid | X, FB, Article | NEW |
+
+### STORY 1: Belgian GP Practice Results
+- **Tier:** 1
+- **Category:** Belgian GP / Practice
+- **Key facts:** FP1: Piastri P1/Verstappen P2/Norris P3/Russell P4/Leclerc P5/Antonelli P6/Hamilton P7; FP2: Norris P1 (1:42.260)/Piastri P2/Verstappen P3/Leclerc P4/Sainz P5/Russell P6/Hamilton P10; Aston Martin top 10 FP1 (Stroll+Alonso ahead of Hadjar); Friday mostly dry/warm
+- **Status:** NEW
+- **Follow-up ideas:** Qualifying result; race day weather; lap time comparison
+
+### STORY 2: Verstappen Exit Clause Confirmed
+- **Tier:** 1
+- **Category:** Driver Market / Verstappen
+- **Key facts:** Manager's first public confirmation exit clause is active (July 16); McLaren talks "closing stages"; Red Bull refused buyout; Piastri swap discussed but described as "hot air" by journalist; Norris through 2027/Piastri through 2028
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Verstappen McLaren signing announcement; Red Bull replacement; lineup implications
+
+### STORY 3: Championship Three-Way Fight
+- **Tier:** 1
+- **Category:** Championship Analysis
+- **Key facts:** Antonelli 179/Russell 154/Hamilton 147; 66pt lead → 25pt over 3 races (lost 41 pts); Hamilton says Mercedes "should be further ahead"; Ferrari 2 of last 3 wins; Mercedes 7 of first 9; Belgian GP is last before summer break
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Belgian GP result; championship swing; summer break preview
+
+### STORY 4: Aston Martin Spa Upgrade
+- **Tier:** 2
+- **Category:** Technical / Mid-Field
+- **Key facts:** Upgrade package brought to Spa; Stroll + Alonso top 10 FP1 (ahead of Hadjar); Spa long straights favor aerodynamic efficiency gains
+- **Status:** NEW
+- **Follow-up ideas:** Qualifying position; race performance; constructors standings impact
+
+### STORY 5: Belgian GP Qualifying Preview
+- **Tier:** 2
+- **Category:** Race Preview / Weather
+- **Key facts:** 65% rain forecast Saturday qualifying; Hamilton 6 Spa wins; Leclerc pole 2019/2023/2024; McLaren fastest in dry; Race Sunday July 19
+- **Status:** NEW
+- **Follow-up ideas:** Qualifying result; pole position; grid order
+
 ## 2026-07-16
 
 | Date | Tier | Story | Platforms | Status |

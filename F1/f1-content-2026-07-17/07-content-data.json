@@ -1,0 +1,329 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-17",
+  "compiled_at": "2026-07-17T11:27:14.558831+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM ET",
+      "description": "Story 1",
+      "type": "FP1/FP2 practice results"
+    },
+    {
+      "time": "10:00 AM ET",
+      "description": "Story 1",
+      "type": "McLaren pace analysis"
+    },
+    {
+      "time": "10:00 AM ET",
+      "description": "Story 2",
+      "type": "Verstappen exit clause confirmed"
+    },
+    {
+      "time": "12:00 PM ET",
+      "description": "Story 2",
+      "type": "McLaren deal implications"
+    },
+    {
+      "time": "12:00 PM ET",
+      "description": "Story 3",
+      "type": "Championship standings"
+    },
+    {
+      "time": "2:00 PM ET",
+      "description": "Story 3",
+      "type": "Title fight analysis"
+    },
+    {
+      "time": "2:00 PM ET",
+      "description": "Story 4",
+      "type": "Aston Martin upgrades"
+    },
+    {
+      "time": "5:00 PM ET",
+      "description": "Story 5",
+      "type": "Qualifying preview"
+    },
+    {
+      "time": "8:00 PM ET",
+      "description": "Story 5",
+      "type": "Rain forecast/strategy"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Belgian GP Practice Day — McLaren Dominant in FP1 and FP2 at Spa",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM, 10:00 AM",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "McLaren is FLYING at Spa-Francorchamps.\n\nFP1: Piastri P1 — Verstappen P2 — Norris P3\nFP2: Norris P1 (1:42.260) — Piastri P2 — Verstappen P3\n\nMercedes struggling in FP2: Russell P6, Hamilton P10.\n\nQualifying Saturday. #F1 #BelgianGP",
+          "posting_time": "8:00 AM, 10:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BelgianGP"
+          ],
+          "char_count": 231
+        },
+        {
+          "label": "Post 1-2",
+          "text": "McLaren won BOTH practice sessions at Spa.\n\nNorris leads FP2 at 1:42.260. Piastri second. Hamilton only 10th.\n\nIf it stays dry on Saturday, McLaren may be unstoppable at the Belgian GP.\n\nChampionship leader Antonelli P6 in FP1. #F1 #BelgianGP",
+          "posting_time": "8:00 AM, 10:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BelgianGP"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": {
+        "long_form": "McLaren showed up to Spa-Francorchamps on Friday and put on a demonstration.\n\nOscar Piastri topped Free Practice 1, with Max Verstappen second and Lando Norris third. By the time Free Practice 2 was done, Norris had gone fastest with a 1:42.260 lap, Piastri was second, and Verstappen third. It was a near-total McLaren lockout at the top of both sessions, and it sent a clear message: on a dry track, the papaya cars are the class of the field this weekend.\n\nMore telling was where Mercedes finished in FP2. George Russell — who is 25 points behind championship leader Kimi Antonelli in the title fight — ended up sixth. Lewis Hamilton, still with a mathematical shot at the championship from 32 points back, was 10th.\n\nAntonelli himself finished sixth in FP1. The championship leader has famously struggled at Spa historically, and Friday's session did nothing to dispel concerns about his pace here.\n\nQualifying is Saturday. Weather is wild card — more on that below.",
+        "image_caption": "McLaren. FP1 and FP2. Piastri, Norris — they own Spa on Friday. Mercedes struggling. Hamilton P10 in FP2. The Belgian GP is going to be interesting. #F1 #BelgianGP",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-belgian-gp-practice-mclaren-dominant.html",
+        "headline": "McLaren Dominates Belgian GP Practice — Piastri Leads FP1, Norris FP2 at Spa",
+        "word_count": 529
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Verstappen's Manager Confirms Exit Clause Is Active — McLaren in Closing Stages",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "10:00 AM, 12:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "CONFIRMED: Verstappen's manager has officially acknowledged his Red Bull exit clause is active.\n\nMcLaren negotiations are in \"closing stages\" per multiple sources.\n\nRed Bull refused to buy out the clause. The biggest move in F1 could be coming. #F1",
+          "posting_time": "10:00 AM, 12:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 248
+        },
+        {
+          "label": "Post 2-2",
+          "text": "If Verstappen moves to McLaren, what happens to Piastri?\n\nSources say a swap deal is being discussed — Verstappen to McLaren, Piastri to Red Bull.\n\nA seismic reshuffling of the two best teams in F1. Nothing confirmed yet.\n\n#F1 #Verstappen",
+          "posting_time": "10:00 AM, 12:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Verstappen"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": {
+        "long_form": "This is now official — and it could reshape Formula 1 for the next several years.\n\nFor the first time, Max Verstappen's manager publicly confirmed on Thursday that the Red Bull exit clause is officially active. The clause was triggered when it became mathematically impossible for Verstappen to finish in the top two of the championship, a threshold built into his contract to allow him to explore options elsewhere despite being under contract through 2028.\n\nMultiple sources describe McLaren negotiations as being in the \"closing stages.\" Red Bull reportedly attempted to buy out the exit clause from Verstappen's side, but he declined. The clause represents Verstappen's leverage — and he appears willing to use it.\n\nOne scenario circulating in the paddock involves a Verstappen-Piastri swap: Max to McLaren, Oscar to Red Bull. Journalist Mat Coch has characterized that specific scenario as \"hot air\" for now, but the underlying negotiations are real and advanced.\n\nThe timing creates an interesting backdrop as Verstappen enters the Belgian GP looking strong — P2 in FP1 and P3 in FP2 — while potentially racing for a different team next season.",
+        "image_caption": "Verstappen's manager confirmed it: the Red Bull exit clause is ACTIVE. McLaren talks in closing stages. The biggest driver market move in years could be coming this summer. #F1",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-verstappen-exit-clause-confirmed-mclaren.html",
+        "headline": "Verstappen's Manager Confirms Exit Clause Active as McLaren Talks Reach Closing Stages",
+        "word_count": 498
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Championship Three-Way Fight — Antonelli 179, Russell 154, Hamilton 147",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "12:00 PM, 2:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The F1 title race has completely changed.\n\nAntonelli: 179 pts\nRussell: 154 pts (-25)\nHamilton: 147 pts (-32)\n\nAntonelli's lead was 66 points three races ago. It's down to 25.\n\nLast race before the summer break. Belgium matters. #F1 #BelgianGP",
+          "posting_time": "12:00 PM, 2:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BelgianGP"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": {
+        "long_form": "The 2026 Formula 1 championship is no longer Kimi Antonelli's to lose. It is genuinely open.\n\nThe Mercedes teenager entered the season on a blistering run — five wins, five poles, and a lead that ballooned to 66 points after nine rounds. But the last three races have seen that margin collapse. Mechanical failure at Silverstone, Ferrari's resurgence, and consistent pressure from both teammates in the standings have combined to trim his lead to just 25 points over George Russell, with Lewis Hamilton a further seven behind.\n\nHamilton was candid at this race week: \"The Mercedes duo should be a lot further ahead.\" He is right. Ferrari has won two of the last three races. McLaren won both practice sessions on Friday. The car that dominated the opening nine rounds suddenly looks like one of three or four genuine contenders rather than the outright class of the field.\n\nBelgium is the last race before the summer break. A swing of 25 points in a single race — entirely plausible at Spa — could change everything about how the second half of the season is framed.",
+        "image_caption": "Antonelli 179. Russell 154. Hamilton 147. The F1 title race is a three-way fight. Last race before the summer break. Belgian GP is MASSIVE. #F1 #BelgianGP",
+        "posting_time": "12:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-f1-championship-three-way-fight-belgian-gp.html",
+        "headline": "The F1 Title Race Is Now a Three-Way Fight — Belgian GP Is a Must-Win",
+        "word_count": 518
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Aston Martin's Spa Upgrade — Stroll and Alonso Show Early Promise",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "2:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Aston Martin brought upgrades to Spa — and they're showing up in practice.\n\nStroll and Alonso both broke into the FP1 top 10, ahead of Hadjar in the Racing Bulls.\n\nCould the Belgian GP be the turning point for Aston Martin's season? #F1 #BelgianGP",
+          "posting_time": "2:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BelgianGP"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "Aston Martin had a good Friday at Spa-Francorchamps — and it could mean something for the race.\n\nThe team brought a new upgrade package to Belgium, and in FP1 both Lance Stroll and Fernando Alonso broke into the top 10, finishing ahead of Racing Bulls' Isack Hadjar. After a difficult mid-season stretch, any positive data point for Aston Martin counts.\n\nSpa suits their car in certain ways — the long Kemmel Straight rewards straight-line speed, and the upgrade package appears to have helped in that department. If the team can carry Friday's pace into qualifying and the race, this weekend could represent a meaningful step forward in the constructors' standings.\n\nAlonso, two-time world champion, never wastes an opportunity at a circuit he knows well. With the upgrade package arriving, keep an eye on the No. 14 car this weekend.",
+        "image_caption": "Aston Martin brought upgrades to Spa and they're WORKING. Stroll and Alonso both in the FP1 top 10. Could this be the team's best weekend of the season? #F1 #BelgianGP",
+        "posting_time": "2:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-aston-martin-spa-upgrades.html",
+        "headline": "Aston Martin's Spa Upgrade Shows Promising Signs — Stroll and Alonso Break Into FP1 Top 10",
+        "word_count": 418
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Belgian GP Qualifying Preview — Saturday Rain Threatens to Reshuffle the Grid",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:00 PM, 8:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Spa qualifying is Saturday — and rain is forecast.\n\n65% chance of wet conditions could reshuffle everything Friday pace told us.\n\nHamilton has 6 Spa wins. Leclerc has taken pole here 3 of the last 5 years.\n\nMcLaren leads on dry pace. But will it stay dry? #F1 #BelgianGP",
+          "posting_time": "5:00 PM, 8:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BelgianGP"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": {
+        "long_form": "Friday told us one story at Spa. Saturday qualifying might tell us a completely different one.\n\nWith a 65 percent chance of rain forecast for qualifying at Spa-Francorchamps, the dry pace McLaren showed in FP1 and FP2 could become irrelevant very quickly. Spa is notorious for unpredictable weather — a thunderstorm that arrives on one part of the circuit might not be visible from the other end.\n\nLewis Hamilton is the kind of driver who thrives in that environment. He has six wins at Spa, a remarkable record at what is widely considered the sport's greatest circuit. In a rain-affected qualifying session, his ability to read conditions in the moment becomes as important as raw pace. Hamilton needs points, and a wet session could be his opportunity.\n\nCharles Leclerc is another factor. The Ferrari driver took pole position at Spa in 2019, 2023, and 2024 — three of the last five qualifying sessions here. In FP2, Leclerc was fourth. Ferrari has the pace to threaten at the front.\n\nMcLaren will want to put both cars on the front row and control the race from the front. Whether the weather cooperates is another matter entirely.",
+        "image_caption": "Spa qualifying Saturday — and 65% chance of rain. McLaren fastest in the dry. Hamilton has 6 Spa wins. Leclerc took pole here 3 times in the last 5 years. This grid could be wild. #F1 #BelgianGP",
+        "posting_time": "5:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-belgian-gp-qualifying-preview-rain.html",
+        "headline": "Belgian GP Qualifying Preview: Rain Could Erase McLaren's Friday Advantage at Spa",
+        "word_count": 459
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
