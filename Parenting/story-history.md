@@ -2,6 +2,45 @@
 
 ---
 
+## July 17, 2026
+
+### Story 1: TOMY Boon PIVOT Toddler Tower Recall
+- **Content Pillar:** National Parenting (Product Safety)
+- **Angle:** NEW STORY — TOMY recalled approximately 106,000 Boon PIVOT Collapsible Toddler Towers / Kitchen Step Stools (brand: Boon, mfr: TOMY) for tip-over and fall risk. Sold Dec 2022 – May/June 2026 at Target.com, Amazon.com, Babylist.com for $149.99. Gray and white, approx 22"W × 23"D × 35"T, "boon" on top rail. 11 reports of shifting/leaning, zero injuries. Remedy: stop use immediately, store away from children, contact TOMY for free stabilizing repair kit mailed directly. CPSC recall number unconfirmed (403 on primary fetch); all other facts HIGH confidence from 8+ regional outlets.
+- **Content Produced:** Article (Jamie Rivera), 2 X posts, Facebook Long-Form + Caption, Image Concepts (x3 incl. hero)
+- **Tier:** 1
+- **Key Facts:** ~106,000 units U.S.; also ~2,100 Canada, ~403 Europe/Middle East; Dec 2022–May/June 2026; $149.99; Target.com, Amazon.com, Babylist.com; gray and white; 22"W×23"D×35"T; "boon" on top rail; tip-over/fall hazard; 11 reports/0 injuries; free repair kit from TOMY; announced July 16, 2026; cpsc.gov/recalls
+
+### Story 2: AAP Calls for Universal Free School Meals — July 2026 Policy Statement
+- **Content Pillar:** National Parenting (Child Health)
+- **Angle:** NEW STORY — Formal AAP Policy Statement in July 2026 Pediatrics: universal free school meals for all students regardless of income. Issued by AAP Council on School Health + Committee on Nutrition. Key findings: school meals improve diet quality; school meals do NOT increase obesity risk (addresses parent misconception); COVID-era universal waivers increased participation and reduced food insecurity — AAP wants permanent. School breakfast participation "lower than optimal." HR.8798 Universal School Meals Program Act of 2026 pending in Congress. COS local angle: D11 free summer meals, El Paso County food insecurity, D11/D20/D49 returning August.
+- **Content Produced:** Article (Sarah Morales), 2 X posts, Facebook Long-Form + Caption, Image Concepts (x3 incl. hero)
+- **Tier:** 1
+- **Key Facts:** Formal AAP Policy Statement; July 2026 Pediatrics; AAP Council on School Health + Committee on Nutrition; universal free school meals for all; improves diet quality; does NOT increase obesity; HR.8798 in Congress; publications.aap.org/pediatrics
+
+### Story 3: COS Backpack Bash 2026 — 4 Locations, July 25 and Aug. 1
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Annual free backpack giveaway organized by Mercy's Gate + COSILoveYou + 70+ partners. July 25: Sand Creek HS East (7005 N. Carefree Circle, 9 AM–noon) + PPUW Family Success Center (1520 Verde Drive, 9 AM–noon). Aug. 1: Mitchell HS + Hillside Community Center (both 9 AM–noon). Free, no registration, students must be present, supplies limited — early arrival recommended. D49 first day Aug. 4, D11 Aug. 12, D20 Aug. 13. Also: Kona Ice + coffee truck on site. Mitchell HS and Hillside MEDIUM confidence (not individually confirmed via D11 official source).
+- **Content Produced:** Article (Jamie Rivera), 2 X posts, Facebook Long-Form + Caption, Image Concepts (x3 incl. hero)
+- **Tier:** 1
+- **Key Facts:** July 25 (Sand Creek HS East 7005 N. Carefree Circle + PPUW Family Success Center 1520 Verde Drive); Aug. 1 (Mitchell HS + Hillside Community Center); all 9 AM–noon; free; students must be present; no registration; cosbackpackbash.com
+
+### Story 4: Hello Kitty Cafe Truck at Promenade Shops at Briargate
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Hello Kitty Cafe Truck one-day stop at The Promenade Shops at Briargate, Saturday July 18, 10 AM–7 PM. Credit card only (no cash). Featured item: 10th Anniversary glass mug with glitter handle. Also: Hello Kitty macarons and branded merchandise. While supplies last, no reservation needed. Published July 17 for maximum day-of awareness.
+- **Content Produced:** Article (Sarah Morales), 1 X post, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** July 18, 2026; The Promenade Shops at Briargate, COS; 10 AM–7 PM; credit card only; 10th Anniversary glass mug (glitter handle); Hello Kitty macarons + merch; while supplies last
+
+### Story 5: Cat Fest Colorado — July 25 at Norris Penrose
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Cat Fest Colorado at Norris Penrose Event Center (1045 Lower Gold Camp Rd), July 25, 11 AM–5 PM. Organizer: Dana Cain Events. TICA Cat Show by Yellow Rose Cat Club. Cat adoption booths (Look What The Cat Brought In rescue). Costume contest, Egyptian Cat Temple, breed meet-and-greet, face painters, celebrity cats, Catwalk Fashion Show, educational presentations. GA $20; under 5 FREE; Family 4-Pack $72; Military $15; VIP $35 (limited 300: early entry, line-skip, reserved seating, cat ear headband). catfestco.com. Fox21 URL said "july-26" — primary sources confirm July 25.
+- **Content Produced:** Article (Jamie Rivera), 1 X post, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** July 25, 2026 (NOT July 26); Norris Penrose Event Center 1045 Lower Gold Camp Rd; 11 AM–5 PM; GA $20; under 5 FREE; Family 4-Pack $72; Military $15; VIP $35 (300 cap); TICA cat show; adoption booths; costume contest; catfestco.com
+
+---
+
 ## July 15, 2026
 
 ### Story 1: VEVOR Baby Swing Recall + CPSC Infant Safety Wave
