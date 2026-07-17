@@ -1,9 +1,58 @@
 {
-  "generated_at": "2026-07-16T08:30:00.626562+00:00",
-  "today_ct": "2026-07-16",
-  "off_day": true,
-  "is_series_start_today": false,
-  "series": null,
-  "today_cubs_game": null,
-  "rationale": "No upcoming Cubs game on today's CT calendar date."
+  "generated_at": "2026-07-17T08:30:00.766611+00:00",
+  "today_ct": "2026-07-17",
+  "off_day": false,
+  "is_series_start_today": true,
+  "series": {
+    "opponent": "Minnesota Twins",
+    "opponent_id": 142,
+    "opponent_record": "48-49",
+    "cubs_record": "54-42",
+    "is_cubs_home": true,
+    "venue": "Wrigley Field",
+    "series_length": 3,
+    "games": [
+      {
+        "game_pk": "824655",
+        "game_date_iso": "2026-07-18T00:05:00Z",
+        "game_date_ct": "Fri 7:05 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      },
+      {
+        "game_pk": "824657",
+        "game_date_iso": "2026-07-18T18:20:00Z",
+        "game_date_ct": "Sat 1:20 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      },
+      {
+        "game_pk": "824653",
+        "game_date_iso": "2026-07-19T18:20:00Z",
+        "game_date_ct": "Sun 1:20 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      }
+    ],
+    "rationale": "Off day yesterday. Today: Cubs host Minnesota Twins \u2192 game 1 of 3."
+  },
+  "today_cubs_game": {
+    "game_pk": "824655",
+    "status": "Preview",
+    "detailed_status": "Scheduled",
+    "game_date_iso": "2026-07-18T00:05:00Z",
+    "game_date_ct": "Fri 7:05 PM CT",
+    "is_cubs_home": true,
+    "opponent_id": 142,
+    "opponent_name": "Minnesota Twins",
+    "opponent_record": "48-49",
+    "cubs_record": "54-42",
+    "cubs_probable": "TBD",
+    "opponent_probable": "TBD",
+    "venue": "Wrigley Field"
+  },
+  "rationale": "Off day yesterday. Today: Cubs host Minnesota Twins \u2192 game 1 of 3."
 }

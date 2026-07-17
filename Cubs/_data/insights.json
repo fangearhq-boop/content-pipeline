@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-16T08:30:00.327457+00:00",
+  "generated_at": "2026-07-17T08:30:00.360630+00:00",
   "account": "cubs",
   "window_days": 21,
-  "tweet_count": 82,
-  "measured_tweet_count": 81,
-  "measured_median_impressions": 35,
-  "measured_mean_impressions": 46.04,
-  "median_impressions": 35.0,
-  "mean_impressions": 45.48,
+  "tweet_count": 81,
+  "measured_tweet_count": 80,
+  "measured_median_impressions": 43.0,
+  "measured_mean_impressions": 48.52,
+  "median_impressions": 42,
+  "mean_impressions": 47.93,
   "max_impressions": 270,
   "significant_findings": [],
   "significant_findings_note": "No contrasts cleared all three gates (n>=8 per group, p<0.05, |Cliff's delta|>=0.2). Either too little data or no format/time differences are large enough yet.",
@@ -23,58 +23,67 @@
   },
   "raw_buckets": {
     "by_hour_ct": {
-      "17": {
-        "n": 9,
-        "mean": 56,
-        "median": 54,
+      "15": {
+        "n": 10,
+        "mean": 32.7,
+        "median": 22.0,
         "top": {
-          "impressions": 216,
-          "text": "21 days until August 3. The Cubs still need a starter \u2014 and the Joe Ryan trade just got complicated.\n\nMinnesota is in the Wild Card hunt. The Twins aren't selling. Jed Hoyer needs a Plan B, and he needs it fast.\n\n#Cubs #CubsBaseball #MLB"
-        }
-      },
-      "14": {
-        "n": 8,
-        "mean": 34.25,
-        "median": 20.0,
-        "top": {
-          "impressions": 111,
-          "text": "Jaxon Wiggins \u2014 elbow inflammation after just 2 Iowa starts.\n\nThe Cubs' top pitching prospect was supposed to add rotation depth down the line. Five starters already on the IL. This depth chart is getting thinner by the week.\n\n#Cubs #MLB #C"
+          "impressions": 89,
+          "text": "4\u2154 IP, 0 ER in his second rehab start. Jameson Taillon is all but back.\n\nMatt Shaw's wrist is healing on schedule. Two of the Cubs' most important pieces are set to return right as the second half starts vs. Minnesota.\n\nRotation cavalry inc"
         }
       },
       "12": {
         "n": 14,
-        "mean": 54.21,
-        "median": 39.0,
+        "mean": 59.07,
+        "median": 51.0,
         "top": {
           "impressions": 270,
           "text": "Series finale. Great American Ball Park. 12:40 PM CT.\n\nMatthew Boyd takes the ball against Andrew Abbott and the Reds. Split the first two. One game left.\n\nCubs (53-42) can take this series and head into the All-Star break with all the mome"
         }
       },
       "9": {
-        "n": 8,
-        "mean": 49.88,
-        "median": 38.5,
+        "n": 9,
+        "mean": 53.22,
+        "median": 54,
         "top": {
           "impressions": 178,
           "text": "The Cubs' rotation runs on duct tape \u2014 and somehow it keeps working.\n\nDavid Peterson: 5.2 IP, 2 ER in his debut Saturday. Jaxon Wiggins: 2\u2154 rehab innings at High-A on Sunday, expected back at Iowa soon.\n\n35 days until Jed Hoyer's deadline.\n"
         }
       },
+      "8": {
+        "n": 7,
+        "mean": 28.86,
+        "median": 38,
+        "top": {
+          "impressions": 59,
+          "text": "Series W at American Family Field.\n\nCubs 4, Brewers 3 in 10 \u2014 Suzuki singled home two runs in the 10th, Wicks got the final out on a bases-loaded double play. Cubs take 2-of-3 in Milwaukee.\n\nCubs are 46-38. Padres in town tonight.\n\n#Cubs #G"
+        }
+      },
       "7": {
         "n": 14,
-        "mean": 46.57,
-        "median": 34.0,
+        "mean": 45.43,
+        "median": 36.5,
         "top": {
           "impressions": 133,
           "text": "Brewers 6, Cubs 2. Jacob Misiorowski was absolutely dominant.\n\n6 innings. 1 run. 8 strikeouts. Seiya Suzuki homered \u2014 Chicago's one real punch all night. Cubs fall to 44-38 and need Imanaga to answer tonight.\n\n#Cubs #GoCubs #FlyTheW"
         }
       },
-      "15": {
-        "n": 10,
-        "mean": 33.7,
-        "median": 0.0,
+      "17": {
+        "n": 8,
+        "mean": 59.25,
+        "median": 49.5,
         "top": {
-          "impressions": 161,
-          "text": "Matthew Boyd starts tonight \u2014 first appearance since May 3.\n\nHe needed minor knee surgery after a freak injury playing with his kids. Seven weeks later, he's back.\n\nCounsell called it \"a big deal.\" With five starters shelved, he's not wrong"
+          "impressions": 224,
+          "text": "21 days until August 3. The Cubs still need a starter \u2014 and the Joe Ryan trade just got complicated.\n\nMinnesota is in the Wild Card hunt. The Twins aren't selling. Jed Hoyer needs a Plan B, and he needs it fast.\n\n#Cubs #CubsBaseball #MLB"
+        }
+      },
+      "14": {
+        "n": 7,
+        "mean": 52.71,
+        "median": 67,
+        "top": {
+          "impressions": 115,
+          "text": "54-42 at the break. No. 1 NL Wild Card \u2014 one game up on the Phillies, two on the Marlins.\n\nThree months of grinding through a rotation crisis, and the Cubs walk in FIRST. The Cardinals are watching from the outside.\n\nThis race is Chicago's "
         }
       },
       "10": {
@@ -86,19 +95,10 @@
           "text": "Pete Crow-Armstrong leads ALL of baseball in WAR \u2014 carrying this team through a pennant race on a rotation held together with duct tape and prayers.\n\nTuesday night. Citizens Bank Park. All-Star Game.\n\nThe best player in baseball is a Cub.\n\n"
         }
       },
-      "8": {
-        "n": 6,
-        "mean": 27.33,
-        "median": 24.5,
-        "top": {
-          "impressions": 59,
-          "text": "Series W at American Family Field.\n\nCubs 4, Brewers 3 in 10 \u2014 Suzuki singled home two runs in the 10th, Wicks got the final out on a bases-loaded double play. Cubs take 2-of-3 in Milwaukee.\n\nCubs are 46-38. Padres in town tonight.\n\n#Cubs #G"
-        }
-      },
       "13": {
-        "n": 6,
-        "mean": 54.17,
-        "median": 21.0,
+        "n": 5,
+        "mean": 50.6,
+        "median": 42,
         "top": {
           "impressions": 147,
           "text": "Pete Crow-Armstrong in June: 10 HRs. .867 slugging. 20 games.\n\nHe's not on a hot streak. He's in the middle of one of the best offensive months in Cubs history. The 24-year-old center fielder is CARRYING this team right now.\n\n#Cubs #GoCubs "
@@ -115,12 +115,21 @@
       }
     },
     "by_weekday_ct": {
+      "Thu": {
+        "n": 11,
+        "mean": 25.73,
+        "median": 0,
+        "top": {
+          "impressions": 71,
+          "text": "Second half starts TOMORROW at Wrigley.\n\nCubs: 54-42. No. 1 NL Wild Card.\nTwins: 48-49. 3rd in the AL Central.\n\nMinnesota is a playoff long shot coming to Chicago for three games. The second half of a deep run begins Friday night.\n\n#Cubs #G"
+        }
+      },
       "Wed": {
         "n": 12,
-        "mean": 20.75,
+        "mean": 27.33,
         "median": 0.0,
         "top": {
-          "impressions": 66,
+          "impressions": 82,
           "text": "```\n3 games. 7:05 PM CT Friday. Wrigley Field.\n\nSecond half opener: Cubs vs. Twins. Minnesota's in the AL Wild Card hunt and Joe Ryan is on their staff \u2014 which means Jed Hoyer has more than wins and losses to watch this weekend.\n\n#Cubs #GoC"
         }
       },
@@ -135,10 +144,10 @@
       },
       "Mon": {
         "n": 10,
-        "mean": 52,
-        "median": 15.0,
+        "mean": 84.5,
+        "median": 61.5,
         "top": {
-          "impressions": 216,
+          "impressions": 224,
           "text": "21 days until August 3. The Cubs still need a starter \u2014 and the Joe Ryan trade just got complicated.\n\nMinnesota is in the Wild Card hunt. The Twins aren't selling. Jed Hoyer needs a Plan B, and he needs it fast.\n\n#Cubs #CubsBaseball #MLB"
         }
       },
@@ -168,22 +177,13 @@
           "impressions": 111,
           "text": "Pete Crow-Armstrong. 10th inning. RBI double. Cubs 4, Mets 3.\n\nFour-game sweep at Citi. 7-0 vs. New York in 2026, outscoring them 51-24. Boyd gave 4 2/3 scoreless innings in his return from the IL. Broken rotation, intact offense.\n\n#Cubs #G"
         }
-      },
-      "Thu": {
-        "n": 12,
-        "mean": 44.5,
-        "median": 20.0,
-        "top": {
-          "impressions": 161,
-          "text": "Matthew Boyd starts tonight \u2014 first appearance since May 3.\n\nHe needed minor knee surgery after a freak injury playing with his kids. Seven weeks later, he's back.\n\nCounsell called it \"a big deal.\" With five starters shelved, he's not wrong"
-        }
       }
     },
     "by_content_type": {
       "brief": {
-        "n": 81,
-        "mean": 46.04,
-        "median": 35,
+        "n": 80,
+        "mean": 48.52,
+        "median": 43.0,
         "top": {
           "impressions": 270,
           "text": "Series finale. Great American Ball Park. 12:40 PM CT.\n\nMatthew Boyd takes the ball against Andrew Abbott and the Reds. Split the first two. One game left.\n\nCubs (53-42) can take this series and head into the All-Star break with all the mome"
@@ -192,47 +192,47 @@
     },
     "by_opening": {
       "statement": {
-        "n": 68,
-        "mean": 43.75,
-        "median": 35.0,
+        "n": 67,
+        "mean": 46.66,
+        "median": 40,
         "top": {
           "impressions": 270,
           "text": "Series finale. Great American Ball Park. 12:40 PM CT.\n\nMatthew Boyd takes the ball against Andrew Abbott and the Reds. Split the first two. One game left.\n\nCubs (53-42) can take this series and head into the All-Star break with all the mome"
         }
       },
-      "stat_lead": {
-        "n": 6,
-        "mean": 84.33,
-        "median": 78.0,
-        "top": {
-          "impressions": 147,
-          "text": "Pete Crow-Armstrong in June: 10 HRs. .867 slugging. 20 games.\n\nHe's not on a hot streak. He's in the middle of one of the best offensive months in Cubs history. The 24-year-old center fielder is CARRYING this team right now.\n\n#Cubs #GoCubs "
-        }
-      },
       "allcaps_lead": {
-        "n": 7,
-        "mean": 35.43,
-        "median": 26,
+        "n": 8,
+        "mean": 48.25,
+        "median": 43.5,
         "top": {
           "impressions": 138,
           "text": "Pete Crow-Armstrong leads ALL of baseball in WAR \u2014 carrying this team through a pennant race on a rotation held together with duct tape and prayers.\n\nTuesday night. Citizens Bank Park. All-Star Game.\n\nThe best player in baseball is a Cub.\n\n"
+        }
+      },
+      "stat_lead": {
+        "n": 5,
+        "mean": 74,
+        "median": 75,
+        "top": {
+          "impressions": 147,
+          "text": "Pete Crow-Armstrong in June: 10 HRs. .867 slugging. 20 games.\n\nHe's not on a hot streak. He's in the middle of one of the best offensive months in Cubs history. The 24-year-old center fielder is CARRYING this team right now.\n\n#Cubs #GoCubs "
         }
       }
     },
     "by_len_bucket": {
       "200-260": {
         "n": 44,
-        "mean": 48.55,
-        "median": 36.0,
+        "mean": 51.43,
+        "median": 44.5,
         "top": {
-          "impressions": 216,
+          "impressions": 224,
           "text": "21 days until August 3. The Cubs still need a starter \u2014 and the Joe Ryan trade just got complicated.\n\nMinnesota is in the Wild Card hunt. The Twins aren't selling. Jed Hoyer needs a Plan B, and he needs it fast.\n\n#Cubs #CubsBaseball #MLB"
         }
       },
       "260+": {
-        "n": 37,
-        "mean": 43.05,
-        "median": 0,
+        "n": 36,
+        "mean": 44.97,
+        "median": 43.0,
         "top": {
           "impressions": 270,
           "text": "Series finale. Great American Ball Park. 12:40 PM CT.\n\nMatthew Boyd takes the ball against Andrew Abbott and the Reds. Split the first two. One game left.\n\nCubs (53-42) can take this series and head into the All-Star break with all the mome"
@@ -241,9 +241,9 @@
     },
     "by_hashtag_count": {
       "3": {
-        "n": 81,
-        "mean": 46.04,
-        "median": 35,
+        "n": 80,
+        "mean": 48.52,
+        "median": 43.0,
         "top": {
           "impressions": 270,
           "text": "Series finale. Great American Ball Park. 12:40 PM CT.\n\nMatthew Boyd takes the ball against Andrew Abbott and the Reds. Split the first two. One game left.\n\nCubs (53-42) can take this series and head into the All-Star break with all the mome"
@@ -253,17 +253,17 @@
     "by_has_score": {
       "False": {
         "n": 40,
-        "mean": 49.12,
-        "median": 39.0,
+        "mean": 52.1,
+        "median": 53.5,
         "top": {
-          "impressions": 216,
+          "impressions": 224,
           "text": "21 days until August 3. The Cubs still need a starter \u2014 and the Joe Ryan trade just got complicated.\n\nMinnesota is in the Wild Card hunt. The Twins aren't selling. Jed Hoyer needs a Plan B, and he needs it fast.\n\n#Cubs #CubsBaseball #MLB"
         }
       },
       "True": {
-        "n": 41,
-        "mean": 43.02,
-        "median": 35,
+        "n": 40,
+        "mean": 44.95,
+        "median": 39.0,
         "top": {
           "impressions": 270,
           "text": "Series finale. Great American Ball Park. 12:40 PM CT.\n\nMatthew Boyd takes the ball against Andrew Abbott and the Reds. Split the first two. One game left.\n\nCubs (53-42) can take this series and head into the All-Star break with all the mome"
@@ -272,18 +272,18 @@
     },
     "by_has_stat": {
       "False": {
-        "n": 59,
-        "mean": 44.97,
-        "median": 35,
+        "n": 60,
+        "mean": 49.68,
+        "median": 43.0,
         "top": {
           "impressions": 270,
           "text": "Series finale. Great American Ball Park. 12:40 PM CT.\n\nMatthew Boyd takes the ball against Andrew Abbott and the Reds. Split the first two. One game left.\n\nCubs (53-42) can take this series and head into the All-Star break with all the mome"
         }
       },
       "True": {
-        "n": 22,
-        "mean": 48.91,
-        "median": 45.0,
+        "n": 20,
+        "mean": 45.05,
+        "median": 37.5,
         "top": {
           "impressions": 147,
           "text": "Pete Crow-Armstrong in June: 10 HRs. .867 slugging. 20 games.\n\nHe's not on a hot streak. He's in the middle of one of the best offensive months in Cubs history. The 24-year-old center fielder is CARRYING this team right now.\n\n#Cubs #GoCubs "
@@ -292,9 +292,9 @@
     },
     "by_has_emoji_first_line": {
       "False": {
-        "n": 78,
-        "mean": 47.05,
-        "median": 36.0,
+        "n": 77,
+        "mean": 49.65,
+        "median": 44,
         "top": {
           "impressions": 270,
           "text": "Series finale. Great American Ball Park. 12:40 PM CT.\n\nMatthew Boyd takes the ball against Andrew Abbott and the Reds. Split the first two. One game left.\n\nCubs (53-42) can take this series and head into the All-Star break with all the mome"
@@ -312,9 +312,9 @@
     },
     "by_has_allcaps": {
       "False": {
-        "n": 19,
-        "mean": 64.47,
-        "median": 59,
+        "n": 18,
+        "mean": 60.44,
+        "median": 59.0,
         "top": {
           "impressions": 270,
           "text": "Series finale. Great American Ball Park. 12:40 PM CT.\n\nMatthew Boyd takes the ball against Andrew Abbott and the Reds. Split the first two. One game left.\n\nCubs (53-42) can take this series and head into the All-Star break with all the mome"
@@ -322,10 +322,10 @@
       },
       "True": {
         "n": 62,
-        "mean": 40.39,
-        "median": 29.5,
+        "mean": 45.06,
+        "median": 41.0,
         "top": {
-          "impressions": 216,
+          "impressions": 224,
           "text": "21 days until August 3. The Cubs still need a starter \u2014 and the Joe Ryan trade just got complicated.\n\nMinnesota is in the Wild Card hunt. The Twins aren't selling. Jed Hoyer needs a Plan B, and he needs it fast.\n\n#Cubs #CubsBaseball #MLB"
         }
       }
@@ -334,50 +334,50 @@
   "raw_buckets_engagement_above_median": {
     "by_content_type": {
       "brief": {
-        "n": 42,
-        "mean_rate": 0.0094,
+        "n": 40,
+        "mean_rate": 0.0086,
         "median_rate": 0.0
       }
     },
     "by_opening": {
       "statement": {
-        "n": 35,
-        "mean_rate": 0.0099,
+        "n": 32,
+        "mean_rate": 0.0083,
         "median_rate": 0.0
       },
-      "stat_lead": {
-        "n": 5,
-        "mean_rate": 0.0082,
-        "median_rate": 0.0123
-      },
       "allcaps_lead": {
-        "n": 2,
-        "mean_rate": 0.0036,
-        "median_rate": 0.0036
+        "n": 4,
+        "mean_rate": 0.01,
+        "median_rate": 0.0107
+      },
+      "stat_lead": {
+        "n": 4,
+        "mean_rate": 0.0102,
+        "median_rate": 0.013
       }
     },
     "by_has_score": {
       "False": {
         "n": 21,
-        "mean_rate": 0.0072,
+        "mean_rate": 0.0057,
         "median_rate": 0.0
       },
       "True": {
-        "n": 21,
-        "mean_rate": 0.0116,
-        "median_rate": 0.0
+        "n": 19,
+        "mean_rate": 0.0118,
+        "median_rate": 0.0087
       }
     },
     "by_has_stat": {
       "False": {
         "n": 30,
-        "mean_rate": 0.0102,
+        "mean_rate": 0.0085,
         "median_rate": 0.0
       },
       "True": {
-        "n": 12,
-        "mean_rate": 0.0074,
-        "median_rate": 0.0
+        "n": 10,
+        "mean_rate": 0.0089,
+        "median_rate": 0.0062
       }
     }
   },
@@ -395,7 +395,7 @@
     {
       "posted_at": "2026-07-13 17:00 CT",
       "content_type": "brief",
-      "impressions": 216,
+      "impressions": 224,
       "engagement": 0,
       "engagement_rate": 0.0,
       "opening": "statement",
@@ -413,16 +413,6 @@
       "text": "The Cubs' rotation runs on duct tape \u2014 and somehow it keeps working.\n\nDavid Peterson: 5.2 IP, 2 ER in his debut Saturday. Jaxon Wiggins: 2\u2154 rehab innings at High-A on Sunday, expected back at Iowa soon.\n\n35 days until Jed Hoyer's deadline.\n\n#Cubs #CubsBaseball #MLB"
     },
     {
-      "posted_at": "2026-06-25 15:45 CT",
-      "content_type": "brief",
-      "impressions": 161,
-      "engagement": 0,
-      "engagement_rate": 0.0,
-      "opening": "statement",
-      "len": 270,
-      "text": "Matthew Boyd starts tonight \u2014 first appearance since May 3.\n\nHe needed minor knee surgery after a freak injury playing with his kids. Seven weeks later, he's back.\n\nCounsell called it \"a big deal.\" With five starters shelved, he's not wrong.\n\n#Cubs #GoCubs #CubsBaseball"
-    },
-    {
       "posted_at": "2026-06-27 13:16 CT",
       "content_type": "brief",
       "impressions": 147,
@@ -431,6 +421,16 @@
       "opening": "stat_lead",
       "len": 252,
       "text": "Pete Crow-Armstrong in June: 10 HRs. .867 slugging. 20 games.\n\nHe's not on a hot streak. He's in the middle of one of the best offensive months in Cubs history. The 24-year-old center fielder is CARRYING this team right now.\n\n#Cubs #GoCubs #ChicagoCubs"
+    },
+    {
+      "posted_at": "2026-07-12 10:46 CT",
+      "content_type": "brief",
+      "impressions": 138,
+      "engagement": 1,
+      "engagement_rate": 0.0072,
+      "opening": "allcaps_lead",
+      "len": 258,
+      "text": "Pete Crow-Armstrong leads ALL of baseball in WAR \u2014 carrying this team through a pennant race on a rotation held together with duct tape and prayers.\n\nTuesday night. Citizens Bank Park. All-Star Game.\n\nThe best player in baseball is a Cub.\n\n#Cubs #GoCubs #MLB"
     }
   ],
   "bottom_performers": [
