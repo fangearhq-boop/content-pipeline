@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-07-17
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-17 | T1 | LeBron James at Fanatics Fest Day 2 — Decision Imminent After "Won't Hold You Up Much Longer" | X, FB, Article | FOLLOW UP |
+| 2026-07-17 | T2 | NBA Blockbusters Now Official — Giannis to Miami, Brown to 76ers, LaMelo to Wolves | X, FB, Article | NEW |
+| 2026-07-17 | T1 | Kawhi Leonard Trade Frozen — Two Separate NBA Investigations Now Active | X, FB, Article | FOLLOW UP |
+| 2026-07-17 | T2 | NBA Summer League Playoffs Preview — Top 4 Advance, Begins July 18 | X, FB, Article | NEW |
+| 2026-07-17 | T2 | Free Agency Notebook — Wembanyama Signs 5yr/$252M, Middleton to Washington | X, FB, Article | NEW |
+
+### STORY 1: LeBron James at Fanatics Fest Day 2
+- **Tier:** 1
+- **Category:** NBA Free Agency / LeBron James
+- **Key facts:** Day 2 at Fanatics Fest NYC (July 17); at July 16 podcast said "won't hold you guys up too much longer"; no announcement; described decision as about "last few years, or last year, or last two years" of career; Cavs camp received positive signal; four teams: Cavs/Heat/Warriors/76ers; Harden restructuring for cap flexibility; episode releases July 21 YouTube/Prime Video
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** LeBron announcement; Cavs signing; decision press conference
+
+### STORY 2: NBA Blockbusters Now Official
+- **Tier:** 2
+- **Category:** NBA Offseason / Trades
+- **Key facts:** Moratorium ended; Giannis to Miami official; Jaylen Brown to 76ers (Paul George to Boston) official; LaMelo Ball to Minnesota official; Ja Morant to Portland official; Wembanyama 5yr/$252M extension with Spurs official
+- **Status:** NEW
+- **Follow-up ideas:** Roster impacts; early season preview
+
+### STORY 3: Kawhi Trade Frozen — Two Investigations
+- **Tier:** 1
+- **Category:** NBA Investigation / Trades
+- **Key facts:** Second undisclosed endorsement deal added to investigation (July 14 HoopsHype); Sanberg 14-year sentence; agreed deal: Kawhi → Toronto for Ingram/Dick/2 firsts/2 seconds/swap; no timeline
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Investigation concludes; trade complete or collapses
+
+### STORY 4: Summer League Playoffs Preview
+- **Tier:** 2
+- **Category:** NBA Summer League
+- **Key facts:** SL playoffs begin July 18; top 4 teams; SL ends July 19; notable players: LaBaron Philon Jr. (76ers), Cameron Carr (Lakers), AJ Dybantsa shut down (27+23 pts)
+- **Status:** NEW
+- **Follow-up ideas:** SL championship results
+
+### STORY 5: Free Agency Notebook
+- **Tier:** 2
+- **Category:** NBA Contracts
+- **Key facts:** Wembanyama 5yr/$252M (reportedly left ~$50M on table); Middleton 3yr/$17.6M Washington Wizards sign-and-trade; Harden opt-out/restructuring still active
+- **Status:** NEW
+- **Follow-up ideas:** Harden new deal finalized; Wemby rookie season
+
 ## 2026-07-16
 
 | Date | Tier | Story | Platforms | Status |

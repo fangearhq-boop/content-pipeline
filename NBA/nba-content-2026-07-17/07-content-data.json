@@ -1,0 +1,305 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-17",
+  "compiled_at": "2026-07-17T11:21:35.304940+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM ET",
+      "description": "Story 2",
+      "type": "Blockbusters official"
+    },
+    {
+      "time": "9:00 AM ET",
+      "description": "Story 5",
+      "type": "Free agency notebook"
+    },
+    {
+      "time": "11:00 AM ET",
+      "description": "Story 1",
+      "type": "LeBron Day 2 / decision update"
+    },
+    {
+      "time": "11:00 AM ET",
+      "description": "Story 2",
+      "type": "East reshuffled follow-up"
+    },
+    {
+      "time": "1:00 PM ET",
+      "description": "Story 1",
+      "type": "Decision timeline"
+    },
+    {
+      "time": "4:00 PM ET",
+      "description": "Story 4",
+      "type": "Summer League playoffs preview"
+    },
+    {
+      "time": "9:30 PM ET",
+      "description": "Story 3",
+      "type": "Kawhi trade freeze"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "LeBron at Fanatics Fest Day 2 — \"Won't Hold You Up Much Longer\"",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "11:00 AM, 1:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "LeBron James is at Fanatics Fest for Day 2 in NYC.\n\nAfter yesterday's live podcast: \"I won't hold you guys up too much longer.\"\n\nFinal four: Cavs, Heat, Warriors, 76ers. The clock is ticking.\n\n#LeBronJames #NBA",
+          "posting_time": "11:00 AM, 1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#LeBronJames",
+            "#NBA"
+          ],
+          "char_count": 210
+        },
+        {
+          "label": "Post 1-2",
+          "text": "LeBron said it himself: this is about where he wants to spend the LAST part of his career.\n\n\"Last few years. Or the last year. Or the last two.\"\n\nCavs. Heat. Warriors. 76ers. One decision ends the longest wait in NBA history.\n\n#LeBronJames",
+          "posting_time": "11:00 AM, 1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#LeBronJames"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "The waiting continues — but maybe not for much longer.\n\nLeBron James returned to Fanatics Fest in New York City for a second day on Friday after a Thursday live podcast taping with Tyrese Haliburton that generated enormous buzz but no announcement. The critical quote from yesterday: \"I won't hold you guys up too much longer.\"\n\nLeBron was remarkably candid about the stakes: \"It's a big decision for not only myself but my family as well and for the last part of my career and where I want to spend the last few years, or the last year, or the last two years of my NBA career.\"\n\nFour teams remain meaningfully alive in prediction markets — the Cleveland Cavaliers, Miami Heat, Golden State Warriors, and Philadelphia 76ers. Cleveland has been the sentimental favorite all summer and has assembled a formidable supporting cast around whoever their franchise centerpiece becomes: Donovan Mitchell, James Harden (restructuring his deal), Evan Mobley, and Jarrett Allen. The Cavs have made very few roster moves this summer, a signal some insiders read as confidence that their biggest move is still coming.\n\nThe basketball world is waiting. By all accounts, the decision is imminent.\n\nWhere do you think LeBron ends up? Drop your prediction below.",
+        "image_caption": "LeBron at Fanatics Fest Day 2. After yesterday: \"I won't hold you guys up much longer.\" Four teams, one decision, imminent. The NBA world is holding its breath. 🏀",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-lebron-fanatics-fest-day-2-decision.html",
+        "headline": "LeBron James Says Decision Is Coming — But Not Yet",
+        "word_count": 582
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Summer Blockbusters Are Now Official — Giannis to Miami, Brown to Philly",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM, 11:00 AM",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "IT'S OFFICIAL.\n\n• Giannis Antetokounmpo → Miami Heat\n• Jaylen Brown → Philadelphia 76ers (Paul George → Boston)\n• LaMelo Ball → Minnesota Timberwolves\n• Ja Morant → Portland Trail Blazers\n\nThe moratorium is over. The East just got reshuffled. #NBA",
+          "posting_time": "9:00 AM, 11:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "The moratorium is over, and the NBA's summer blockbusters are now officially finalized.\n\nGiannis Antetokounmpo is officially a Miami Heat player. Jaylen Brown is officially heading to the Philadelphia 76ers, with Paul George going the other direction to Boston. LaMelo Ball is officially a Minnesota Timberwolf. And Ja Morant, who we told you about yesterday, is officially a Portland Trail Blazer.\n\nThe Eastern Conference landscape has been dramatically redrawn over the past two weeks. The Heat, already competitive, add the two-time MVP to pair with a core that has consistently been a playoff threat. The 76ers replace one star with another as they continue their championship push with Joel Embiid. The Timberwolves add a star-level guard to complement Anthony Edwards. Portland bets on Morant's fresh start.\n\nVictor Wembanyama also officially signed his 5-year, $252 million rookie max extension with the San Antonio Spurs — reportedly leaving around $50 million on the table to stay in San Antonio.\n\nThe league looks very different than it did on July 1. Which team do you think made the best move this summer?",
+        "image_caption": "It's OFFICIAL. Giannis to Miami. Brown to Philly. LaMelo to Minnesota. Wemby staying in San Antonio on a $252M deal. The NBA has been completely reshuffled this summer.",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-nba-blockbusters-official-giannis-miami.html",
+        "headline": "It's Official: Giannis to Miami, Brown to Philly, and More as Moratorium Ends",
+        "word_count": 488
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Kawhi Trade Frozen — Two Separate Investigations Now",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "9:30 PM",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Kawhi Leonard's trade is STILL frozen.\n\nThe NBA is now investigating TWO separate endorsement deals tied to Aspiration Sports.\n\nThe Clippers-Raptors deal is agreed — but until Silver clears it, Kawhi isn't moving.\n\nNo timeline. #Clippers",
+          "posting_time": "9:30 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#Clippers"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "The Kawhi Leonard situation has gotten even more complicated.\n\nThe NBA is now investigating not one but two separate endorsement deals connected to Alex Sanberg and Aspiration Sports, according to a report from HoopsHype. The second deal, previously undisclosed, adds another layer to an already complex investigation. Sanberg was convicted and sentenced to 14 years in prison related to the fraud scheme.\n\nThe Clippers and Raptors reached a trade agreement weeks ago: Kawhi Leonard to Toronto in exchange for Brandon Ingram, Gradey Dick, two first-round picks, two second-round picks, and a pick swap. It's a deal both teams want to complete. But neither team can move forward until Commissioner Adam Silver concludes the investigation and clears the transaction.\n\nThere is no public timeline on when that resolution might come. The longer it drags on, the more uncertainty it creates for both franchises — the Clippers trying to move forward with their rebuild, and the Raptors hoping to reunite with the player who brought them their only championship in 2019.\n\nFor now, everyone waits.",
+        "image_caption": "Two investigations. Still no timeline. Kawhi Leonard's trade to Toronto remains frozen — and now there's a second undisclosed endorsement deal under NBA review. The Clippers-Raptors deal is agreed but can't close.",
+        "posting_time": "9:30 PM ET"
+      },
+      "article": {
+        "filename": "article-03-kawhi-trade-two-investigations.html",
+        "headline": "Kawhi Leonard Trade Frozen by Two Separate NBA Investigations",
+        "word_count": 491
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "NBA Summer League Playoffs Begin Saturday",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "4:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "NBA Summer League playoffs start TOMORROW in Las Vegas.\n\nTop 4 teams advance to the semifinals. Non-playoff squads play their final games today.\n\nSummer League wraps July 19. The race for roster spots is on.\n\n#NBA",
+          "posting_time": "4:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA"
+          ],
+          "char_count": 213
+        }
+      ],
+      "facebook": {
+        "long_form": "The NBA Summer League tournament is about to begin.\n\nThe Las Vegas Summer League playoffs kick off Saturday, July 18, as the top four teams from the group stage advance to the semifinals. Non-playoff squads are playing their 5th and final games today before the tournament concludes Sunday, July 19.\n\nThis year's Summer League has been one of the most compelling in recent memory. AJ Dybantsa, the Wizards' No. 1 pick, delivered a jaw-dropping back-to-back before being shut down as a precaution. LaBaron Philon Jr. has been a revelation for Philadelphia all week. Cameron Carr led the Lakers to the Battle of Los Angeles on Day 8.\n\nThe playoffs compress the talent into a one-game-eliminates format, where the stakes are highest and the best prospects get their final chance to make a statement before camps open.\n\nWho's your pick to win Summer League? Tell us in the comments.",
+        "image_caption": "NBA Summer League playoffs start TOMORROW. Top 4 teams are set. One game. Eliminate-or-go-home. The best young talent in basketball gets their final Vegas showcase. 🏀",
+        "posting_time": "4:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-summer-league-playoffs-preview.html",
+        "headline": "NBA Summer League Playoffs Begin Saturday — Here's What to Watch",
+        "word_count": 448
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Free Agency Notebook — Wemby Extension, Middleton Signs, More",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:00 AM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Victor Wembanyama just signed a 5-year, $252 million extension with the Spurs.\n\nHe reportedly left $50M on the table to stay in San Antonio.\n\nThe future of the NBA locked in his next chapter.\n\n#Spurs #NBA",
+          "posting_time": "11:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#Spurs",
+            "#NBA"
+          ],
+          "char_count": 204
+        }
+      ],
+      "facebook": {
+        "long_form": "While everyone watches LeBron's every move, the rest of the NBA offseason has been quietly busy.\n\nVictor Wembanyama signed a five-year, $252 million rookie max extension with the San Antonio Spurs, reportedly leaving approximately $50 million on the table to stay in San Antonio. The franchise player commitment sends a strong signal: Wemby and the Spurs are building something together, and he's not going anywhere.\n\nKhris Middleton agreed to a three-year, $17.6 million deal with the Washington Wizards in a sign-and-trade. The veteran forward joins a Wizards team built around No. 1 pick AJ Dybantsa for the next chapter of his career.\n\nJames Harden's opt-out from his $42.3 million player option remains active as he and the Cavaliers work toward a restructured multiyear deal — with the understanding that Harden is committed to staying in Cleveland.\n\nThe secondary market continues to fill out as teams finalize their rosters ahead of training camp in September.",
+        "image_caption": "Victor Wembanyama. 5 years. $252 million. LOCKED IN with the Spurs. Wemby stays. The future of basketball in San Antonio is secure.",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-05-free-agency-notebook-wemby-middleton.html",
+        "headline": "Free Agency Notebook: Wembanyama Locks In, Middleton Finds New Home",
+        "word_count": 489
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
