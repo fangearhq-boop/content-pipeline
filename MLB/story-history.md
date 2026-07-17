@@ -5,6 +5,61 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-17
+
+### Story 1: Cristopher Sánchez Scoreless Streak Ends at 50⅔ Innings
+- **Date:** 2026-07-17
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Sánchez scoreless streak ends Wednesday night)
+- **Angle:** Sánchez's scoreless streak ended at 50⅔ innings — 5th longest in MLB history (since 1893); longest ever by a LHP. Rankings: Hershiser 59 IP, Drysdale 58 IP, W. Johnson 55⅔ IP, Coombs 53 IP, Sánchez 50⅔ IP. Phillies won 3-2. Citizens Bank Park gave him a standing ovation lasting over a minute. 2026 ERA: 1.46.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Sánchez next start and ERA tracking
+  - Phillies rotation depth through October
+
+### Story 2: Brad Keller UCL Tear — Phillies Bullpen Emergency
+- **Date:** 2026-07-17
+- **Tier:** 1
+- **Classification:** NEW STORY (Keller out for season with torn UCL)
+- **Angle:** Brad Keller diagnosed with torn UCL, out for season. Likely Tommy John surgery, 12-14 month recovery. Phillies — already in market for bullpen help — now have an urgent need with August 3 deadline 17 days out.
+- **Content Produced:** Article (article-02, Jake Torres), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Phillies bullpen acquisition at trade deadline
+  - Keller surgery timeline and 2027 return
+
+### Story 3: Tarik Skubal Gives Tigers a Deadline Warning
+- **Date:** 2026-07-17
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Skubal comments on Tigers' deadline situation)
+- **Angle:** Skubal said the Tigers "need to play better baseball or else" — framing the August 3 deadline as a conditional. Does not want to be traded. Extension talks "nil." $400M+ expected free agent ask. 85% trade probability per analysts. Destinations: Dodgers, Yankees, Braves, Brewers, Blue Jays, Rays.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Skubal trade destination (daily through Aug 3)
+  - Tigers second-half performance tracking
+
+### Story 4: 2026 MLB Trade Deadline — Full Market Picture
+- **Date:** 2026-07-17
+- **Tier:** 2
+- **Classification:** FOLLOW UP (deadline overview 17 days out)
+- **Angle:** August 3 at 6 PM ET. Headline: Skubal 85%, Arraez 90%, Chapman (BOS) ~90%. Starters market: Alcantara, Detmers, Gray, Gausman, Ryan, Wacha, Peralta (4.81 ERA). Buyers: Dodgers, Brewers, Cubs, Phillies (urgent after Keller), Rays, Red Sox. Sellers: Mets (confirmed; manager fired), Padres (Mason Miller available), A's, Royals, Angels, Reds, Giants, Nationals. Nationals: traded Hassell III to Pirates for cash — first market move of the deadline.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Skubal trade (daily)
+  - Mason Miller to Yankees tracking
+  - Padres, Mets pieces moving
+
+### Story 5: MLB Second Half Standings — Day 2 / White Sox Lead AL Central
+- **Date:** 2026-07-17
+- **Tier:** 2
+- **Classification:** RECURRING (second half Day 2 standings update)
+- **Angle:** NL: Dodgers 61-36, Brewers 59-37. AL: Rays 56-38, White Sox 50-45, Rangers 49-47. White Sox went 41-121 in 2024 (most losses in 162-game history) — now leading AL Central. Nationals traded Hassell III to Pirates (first deadline market move). 17 days to August 3.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - White Sox contention tracking
+  - Daily standings update through deadline
+
+---
+
 ## 2026-07-16
 
 ### Story 1: MLB Second Half Begins — Dodgers Lead, Trade Deadline 15 Days Out
