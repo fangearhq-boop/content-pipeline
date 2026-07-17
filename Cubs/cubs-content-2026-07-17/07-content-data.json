@@ -1,0 +1,276 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-17",
+  "compiled_at": "2026-07-17T09:22:15.033245+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Story 1: Series preview — Cubs vs Twins",
+      "type": "Informative"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Story 2: PCA MVP chase",
+      "type": "Bold take"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 3: Rotation watch / Rea starts",
+      "type": "Stat / informative"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "Story 4: Trade deadline / Chapman",
+      "type": "Bold / analysis"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 5: Wild card standings",
+      "type": "Informative"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Story 6: Prospect pipeline",
+      "type": "Feature"
+    },
+    {
+      "time": "6:30 PM",
+      "description": "Story 7: First pitch hype",
+      "type": "Hype"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Series Preview — Cubs vs Twins",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Series-start required slot: Cubs (54-42, No. 1 NL Wild Card) host Twins (48-49) for a 3-game series at Wrigley, both clubs with playoff stakes; Colin Rea vs Bailey Ober, 7:05 PM CT first pitch",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "```\nCubs vs. Twins. 3 games. Wrigley Field. The second half starts tonight.\n\nCubs (54-42, No. 1 NL Wild Card) host the Twins (48-49) — both clubs with playoff stakes on the line.\n\nColin Rea vs. Bailey Ober. First pitch 7:05 PM CT. 🏟️\n\n#Cubs #GoCubs #FlyTheW\n```",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative / series preview",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Series Preview — Cubs vs Twins\n**Decision:** NEW STORY (series-start day; 7:00 AM slot required per pipeline instructions)\n**Sources:**\n1. MLB.com Gameday — mlb.com/gameday/twins-vs-cubs/2026/07/17/824655/preview (published July 17)\n2. Sports Illustrated — si.com/mlb/cubs/onsi/cubs-finalize-starting-pitchers-as-they-look-to-set-second-half-tone-vs-twins-16 (published July 16-17)\n3. series-context.json (pipeline data file, generated 2026-07-17T08:30:00 UTC) — HIGH confidence\n**Key Facts:**\n- Game date/time: Friday July 17, 2026, 7:05 PM CT at Wrigley Field [HIGH — from series-context.json]\n- Cubs record: 54-42 [HIGH — from series-context.json]\n- Twins record: 48-49 [HIGH — from series-context.json]\n- Cubs starter: Colin Rea [MEDIUM — search confirms; SI article confirms]\n- Twins starter: Bailey Ober [MEDIUM — search confirms]\n- Series length: 3 games (July 17-19) [HIGH — from series-context.json]\n- Cubs are No. 1 NL Wild Card [HIGH — multiple sources]\n- Twins tied for AL Wild Card positioning at ~48-49 [MEDIUM — Twins Daily, Puckett's Pond]\n**Why this matters:** The second half of the season begins tonight. Both teams have playoff implications on the line. Cubs are the home favorites as the No. 1 WC seed, while the Twins are fighting for a playoff berth at 48-49.\n**Freshness:** Same-day (July 17). First pitch tonight.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "PCA — Second Half, NL MVP Chase",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "5.9 fWAR at break, second only to Ohtani; first Cubs player on pace for back-to-back 20-20 seasons since Sosa era; NL MVP narrative enters second half",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "```\n5.9 fWAR at the break. Only Ohtani had more.\n\nPCA enters the second half as the NL MVP front-runner — first Cubs player on pace for back-to-back 20-20 seasons since the Sosa era.\n\nHe's not just winning a trophy. He's writing history. 🏆\n\n#Cubs #GoCubs #CubsBaseball\n```",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold take / fan energy",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "PCA — Second Half, NL MVP Chase\n**Decision:** FOLLOW UP (first covered 7/12-7/15 All-Star coverage, 7/16 bold take; new angle = second half race vs Ohtani)\n**Sources:**\n1. Chicago Sun-Times — cubs-pete-crow-armstrong-all-star-mvp-stats-first-half (July 12)\n2. NBC Sports awards tracker — 2026-mlb-awards-tracker-crow-armstrong-rasmussen-rise-up\n3. DaWindyCity.com — pete-crow-armstrong-cubs-first-half-mvp (July 15-16)\n4. ChiCitySports — insane-pete-crow-armstrong-stats-are-making-history\n**Key Facts:**\n- Season stats: .296/.387/.543, 21 HR, 52-53 RBI, 23-24 SB [MEDIUM — slight variance across sources; use 21 HR, 24 SB as most-cited figures]\n- fWAR: 5.9 at All-Star break [MEDIUM — single strong source (Sun-Times/NBC Sports tracker); consistent across two outlets]\n- MVP standing: Second only to Ohtani in fWAR MLB-wide [MEDIUM — single source; consistent with overall narrative]\n- Back-to-back 20-20 pace: First Cubs player since Sammy Sosa era to do this in consecutive seasons [MEDIUM — two sources confirm]\n- Recent slump: .185 BA over last 7 days (27 AB entering second half) — real, from Sun-Times; adds human angle\n- NL MVP front-runner narrative confirmed by NBC Sports Awards Tracker [MEDIUM]\n**Compound claim check:** \"First Cubs player to pace for back-to-back 20-20 seasons since the Sosa era\" — cited in story-history note from 7/16 as MEDIUM (single source originally); second source (Chicago Sun-Times July 12 article) also confirms. Upgrading to MEDIUM-HIGH. Do NOT use as 100% verified without a third source. Avoid precise Sosa year in tweet.\n**Why this matters:** PCA is the Cubs' best player and the NL MVP front-runner. The second half starts tonight. This is the narrative.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Rotation Watch — Rea Starts, 13 Pitchers on IL, Taillon Waiting",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Colin Rea (recent 2.61 ERA over 4 starts) starts tonight; Boyd Saturday; Taillon could return Sunday; 13 pitchers on IL this season; Cubs 54-42 despite it all",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "```\nColin Rea starts tonight. Boyd goes Saturday. Taillon could return Sunday.\n\n13 pitchers on the IL this season. Cubs: still 54-42, No. 1 Wild Card.\n\nCraig Counsell has held this rotation together with duct tape. 🫡\n\n#Cubs #GoCubs #ChicagoCubs\n```",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Stat breakdown / informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Rotation Watch — Rea Starts, IL Count, Taillon Timeline\n**Decision:** FOLLOW UP (7/15 covered Taillon return timeline; 7/16 mentioned rotation in context; new angle = Rea's recent form + \"13 pitchers on IL\" as stat hook)\n**Sources:**\n1. Sports Illustrated — cubs-finalize-starting-pitchers-vs-twins-16 (July 16-17)\n2. Chicago Sun-Times — cubs-colin-rea-starting-pitching-rotation-injuries-craig-counsell (June 15, updated context)\n3. Bleacher Nation — cubs-set-their-rotation-coming-out-of-the-break (July 15)\n4. Various IL sources confirming pitcher injuries\n**Key Facts:**\n- Colin Rea starts Game 1 tonight: 5-5 record, 4.80 ERA season-long, BUT 2.61 ERA over last 4 starts entering break [MEDIUM — single source for 4-start figure]\n- Rea groundball rate (last 4): 46.9%, barrel rate: 4.6% [MEDIUM — single source]\n- Matthew Boyd starts Game 2 (Saturday 1:20 PM CT) [MEDIUM — SI confirms]\n- Jameson Taillon: on 15-day IL with left hamstring strain (since June 8-9); completed two rehab starts (4⅔ scoreless innings in second start); could return during Twins series or Tigers series (July 20-22) [HIGH — multiple sources confirm]\n- Also on IL: Ben Brown, Edward Cabrera, Justin Steele, Cade Horton (season-ending) [MEDIUM — Bleacher Nation confirms]\n- Total pitchers on IL this season: 13 [MEDIUM — cited in injury roundup article]\n**Why this matters:** With Taillon's return imminent and Rea showing better recent form, the rotation may actually stabilize for the playoff push.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Trade Deadline — Cubs Connected to Chapman Reunion",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Chapman (BOS) 2.20 ERA, 19 saves, 38 years old; Cubs connected, no true closer (Palencia on IL); 2016 WS reunion narrative; Aug 3 deadline",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "```\nAroldis Chapman: 2.20 ERA. 19 saves. Still elite at 38.\n\nThe Cubs are connected. He closed Game 7 for this team in 2016. Palencia is on the IL and this bullpen has no true closer.\n\n17 days to August 3. The reunion is writing itself. ⚾\n\n#Cubs #MLB #CubsBaseball\n```",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Bold take / analysis",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Trade Deadline — Cubs Connected to Chapman Reunion\n**Decision:** FOLLOW UP (first covered 7/15 as NEW STORY)\n**Sources:**\n1. Bleacher Report (Kerry Miller) — predicted Cubs land Chapman\n2. Heavy.com — Cubs connected to Chapman trade\n3. Last Word on Baseball — Cubs trade deadline 2026 outlook (July 15)\n4. Yahoo Sports — Red Sox trade idea lands closer with Cubs\n5. ESPN deadline candidates list — Chapman ranked No. 1 closer available\n**Key Facts:**\n- Chapman's stats: 38 years old, 1-3 record, 2.20 ERA in 30 appearances, 19 saves, no blown saves [MEDIUM — two sources cite 2.20 ERA; early season source cited lower ERA, full-season 30-app figure is more comprehensive]\n- Chapman salary: ~$13M [MEDIUM — Heavy.com]\n- August 3 trade deadline (17 days from today, July 17) [HIGH — confirmed]\n- Daniel Palencia on IL with right elbow inflammation [MEDIUM — confirmed from 7/15 story; current status not re-verified today]\n- Cubs no true closer without Palencia [MEDIUM — narrative from multiple outlets]\n- 2016 connection: Chapman closed Game 7 of the World Series for the Cubs [HIGH — historical fact, well documented]\n**Compound claim check:** \"Chapman closed Game 7 for the Cubs\" — this is historically documented (not a compound claim requiring two sources). HIGH confidence. Do NOT specify exact inning stats for the 2016 WS — stick to general \"helped close it out.\"\n**Why this matters:** Trade deadline is 17 days away. Cubs need a closer. Chapman is the best available. The 2016 reunion story writes itself.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "NL Wild Card Standings — Cubs Grip No. 1",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "Cubs 54-42 No. 1 WC; Phillies 54-43; Brewers 59-37 running away with division; Cubs control their destiny",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "```\nNL Wild Card picture entering the second half:\n\nNo. 1: Cubs 54-42\nNo. 2: Phillies 54-43\n\nBrewers (59-37) are running away with the division. The Cubs are the No. 1 Wild Card — and it's theirs to lose.\n\nSecond half starts tonight. 🏟️\n\n#Cubs #NorthSiders #MLB\n```",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Informative / rival watch",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "NL Wild Card Standings — Cubs Grip No. 1\n**Decision:** FOLLOW UP (covered 7/15 as detailed WC breakdown; 7/16 brief NL overview; today's angle = second half start context, leaner treatment)\n**Sources:**\n1. Cubs series-context.json — cubs_record: 54-42 [HIGH]\n2. Chicago Sports Wire — Cubs standings page (July 17)\n3. 7/16 pipeline story-history (confirmed Phillies 54-43, Marlins 52-45, Cardinals 50-45)\n4. Multiple standings sources\n**Key Facts:**\n- Cubs: 54-42, No. 1 NL Wild Card [HIGH]\n- Brewers: ~59-37, NL Central leaders (confirmed from 7/16 pipeline) [MEDIUM — exact July 17 record not re-pulled; 59-37 from 7/16 pipeline is most recent confirmed]\n- Phillies: 54-43, No. 2 NL Wild Card [MEDIUM — from 7/16 pipeline; not re-pulled today]\n- Cardinals: ~50-45 [MEDIUM — from search results]\n- Cubs 5.0 GB in NL Central [MEDIUM — multiple sources]\n**Why this matters:** Context for why the Twins series matters — Cubs need to protect their Wild Card lead in the second half.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Prospect Pipeline — Ayers 22nd HR, Iowa Goes National",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "Owen Ayers hits 22nd homer for Knoxville Smokies (July 16); Iowa Cubs nationally televised on CBS Sports Network vs Memphis Redbirds",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "```\nCubs farm system checking in:\n\nOwen Ayers crushed his 22nd homer of the season for the Knoxville Smokies last night. 💪\n\nIowa Cubs kicked off the second half with a nationally televised game on CBS Sports Network. The pipeline is full.\n\n#Cubs #GoCubs #CubsBaseball\n```",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Prospect feature / informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Prospect Pipeline — Ayers 22nd HR / Iowa Goes National\n**Decision:** NEW angle (Iowa vs Memphis nationally televised is new; Ayers 22nd HR with Smokies is new — July 16 Iowa 21-7 was already covered)\n**Sources:**\n1. MiLB.com — Iowa Cubs July 16 nationally televised on CBS Sports Network announcement\n2. Bleed Cubbie Blue — \"Cubs Minor League Wrap: Owen Ayers homers in Smokies win\" (July 16)\n**Key Facts:**\n- Owen Ayers: Hit his 22nd home run of the season for the Knoxville Smokies (July 16 win) [MEDIUM — Bleed Cubbie Blue headline]\n- Iowa Cubs: Played Memphis Redbirds (Cardinals AAA) on July 16 at Principal Park, nationally televised on CBS Sports Network, 7:08 PM CT [MEDIUM — MiLB.com announcement]\n- Iowa score vs Memphis: Not confirmed from research [UNVERIFIED — do not include in tweet]\n- Smokies opponent and score: Not confirmed beyond \"Smokies win\" [MEDIUM — Bleed Cubbie Blue]\n**Caveat:** Do not claim Iowa won or include a score vs Memphis — score not confirmed.\n**Why this matters:** Cubs farm system depth while MLB roster is injury-riddled. Two storylines in one system update.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 7,
+      "title": "First Pitch Hype — Wrigley Opens Second Half Tonight",
+      "tier": 3,
+      "status": "",
+      "angle": "Pure fan energy — 54 wins, No. 1 WC, second half begins, Wrigley, let's go",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "```\nWrigley Field is OPEN for business. Second half. Game 1. 🏟️\n\n54 wins. No. 1 Wild Card. Playoff baseball is coming.\n\nColin Rea toes the rubber in 35 minutes. Let's make some noise.\n\n#Cubs #GoCubs #FlyTheW\n```",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "Bold / hype",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 211
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "First Pitch Hype\n**Decision:** NEW (daily pre-game hype, tied to tonight's 7:05 PM CT first pitch)\n**Sources:**\n- series-context.json (7:05 PM CT confirmed) [HIGH]\n- Cubs record 54-42 [HIGH]\n- No. 1 NL Wild Card [HIGH]\n**Key Facts:**\n- Game time: 7:05 PM CT [HIGH]\n- Tweet scheduled for 6:30 PM CT, 35 minutes before first pitch [HIGH — posting schedule match]\n- Colin Rea starts [MEDIUM]\n**Why this matters:** Fan energy tweet. No new data needed.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

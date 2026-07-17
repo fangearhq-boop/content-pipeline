@@ -5,6 +5,68 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-17
+
+### STORY 1: Series Preview — Cubs vs Twins
+- **Angle:** NEW STORY — second half opens; Cubs 54-42 No. 1 NL Wild Card host Twins 48-49 for 3-game series at Wrigley Field; Game 1 tonight 7:05 PM CT; Colin Rea vs Bailey Ober; both clubs with playoff stakes on the line
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, series preview / informative)
+- **Follow-Up Opportunities:**
+  - Game 1 result (July 18 morning recap)
+  - Series results July 17-19
+  - Rea second-half performance tracking
+
+### STORY 2: PCA — Second Half, NL MVP Chase
+- **Angle:** FOLLOW UP — 5.9 fWAR at break, second only to Ohtani MLB-wide (MEDIUM — NBC Sports tracker); first Cubs player on pace for back-to-back 20-20 seasons since Sosa era; .296/.387/.543, 21 HR, 24 SB at break; NL MVP narrative enters second half
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold take / fan energy)
+- **Follow-Up Opportunities:**
+  - PCA second-half performance milestones
+  - HR and SB pace tracking (20/20 → 30/30 watch)
+  - NL MVP race tracking vs Ohtani
+
+### STORY 3: Rotation Watch — Rea Starts, 13 Pitchers on IL, Taillon Waiting
+- **Angle:** FOLLOW UP — Rea 2.61 ERA over last 4 starts starts Game 1 tonight; Boyd Game 2 Saturday 1:20 PM CT; Taillon (left hamstring strain since June 8) completed two rehab starts; could return Sunday or Tigers series July 20-22; 13 pitchers on IL this season; Cubs still 54-42 despite it all
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, stat breakdown / informative)
+- **Follow-Up Opportunities:**
+  - Taillon return game start (Sunday Game 3 or Tigers series July 20-22)
+  - Rotation stability tracking through second half
+
+### STORY 4: Trade Deadline — Cubs Connected to Chapman Reunion
+- **Angle:** FOLLOW UP — Chapman (BOS) 2.20 ERA, 19 saves, 38 years old; Cubs connected per multiple outlets; no true closer with Palencia on IL (right elbow inflammation); 2016 WS Game 7 reunion narrative; August 3 deadline 17 days away
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, bold take / analysis)
+- **Follow-Up Opportunities:**
+  - Trade deadline activity (August 3 at 5 PM CT)
+  - Chapman or alternative closer acquisition
+  - Palencia injury/return timeline
+
+### STORY 5: NL Wild Card Standings — Cubs Grip No. 1
+- **Angle:** FOLLOW UP — Cubs 54-42 No. 1 WC; Phillies 54-43 (0.5 GB); Brewers 59-37 running away with NL Central (division realistically out of reach at ~5 GB); Cubs control their destiny entering second half
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, informative / rival watch)
+- **Follow-Up Opportunities:**
+  - Wild card standings after Twins series
+  - Phillies series implications (head-to-head later in season)
+
+### STORY 6: Prospect Pipeline — Ayers 22nd HR, Iowa Goes National
+- **Angle:** FOLLOW UP — Owen Ayers hits 22nd homer for Knoxville Smokies (July 16); Iowa Cubs nationally televised on CBS Sports Network vs Memphis Redbirds (Cardinals AAA affiliate); system-wide second-half snapshot
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, prospect feature / informative)
+- **Follow-Up Opportunities:**
+  - Ayers promotion timeline (Double-A → Triple-A watch)
+  - Iowa Cubs second-half season tracking
+
+### STORY 7: First Pitch Hype — Wrigley Opens Second Half Tonight
+- **Angle:** NEW — pure fan energy; 54 wins, No. 1 Wild Card, second half begins at Wrigley Field; 7:05 PM CT first pitch; Colin Rea starts
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT, hype / bold)
+- **Follow-Up Opportunities:**
+  - Game recap (July 18 morning)
+
+---
+
 ## 2026-07-16
 
 ### STORY 1: Second Half Starts Tomorrow — Cubs Host Struggling Twins
