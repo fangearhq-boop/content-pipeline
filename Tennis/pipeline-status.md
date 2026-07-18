@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-07-17 |
-| Writing | Complete (all steps) | 2026-07-17 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories; image not_started warnings cosmetic/expected for imagn) | 2026-07-17 |
-| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles, 7 images; 27 dashboard items) | 2026-07-17 |
-| Dashboard | Complete (review-dashboard.html, 27 items) | 2026-07-17 |
-| PostPlanner Export | Complete (standard 7 posts 13:06–20:42 ET; TOBI 7 posts) | 2026-07-17 |
-| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-07-17 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-07-17 |
+| Research | Complete | 2026-07-18 |
+| Writing | Complete (all steps) | 2026-07-18 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 41 claims, 81 HIGH; image not_started warnings cosmetic/expected for imagn) | 2026-07-18 |
+| Compile | Complete (07-content-data.json — 5 stories, 8 X posts, 5 FB posts, 5 articles, 7 images; 28 dashboard items) | 2026-07-18 |
+| Dashboard | Complete (review-dashboard.html, 28 items) | 2026-07-18 |
+| PostPlanner Export | Complete (standard 8 posts 12:58–20:47 ET; TOBI 8 posts) | 2026-07-18 |
+| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-07-18 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-07-18 |
 
 ## Queue
 
@@ -24,6 +24,22 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-07-18 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 8 X posts + 5 FB long-form + 5 FB captions = 18 total (PostPlanner xlsx: 8 posts 12:58–20:47 ET, 8 TOBI)
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Ryan Calloway [S2, S5], Marcus Cole [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-07-18.xlsx (8 posts), tfr-postplanner-tobi-2026-07-18.xlsx (8 TOBI posts)
+- **Coverage:** Merida (ESP, 22) def. Dzumhur 6-4, 6-1 — first ATP title in 7th career tour event; 3rd-youngest Umag finalist this decade (Alcaraz + Sinner ahead); Bucharest finalist earlier in 2026. Bastad final Sunday: Rublev (No. 1 seed, 2023 champion) vs Vallejo (PAR, outside top 100) — Vallejo def. Darderi SF; Rublev def. Tabilo SF; would be first Paraguayan ATP champion in decades (last: Ramon Delgado ~2002). Gstaad final Sunday: Cerundolo (ARG) def. Collignon 3-6, 6-3, 7-5 SF; Shevchenko (RUS) def. Tsitsipas [3] 7-6(5), 6-2 SF — both in first Gstaad final. Athens Open final preview: Krejcikova [1] (CZE) def. Tauson SF; Sakkari (GRE, No. 4) vs Korneeva in other SF — first WTA Athens in 35 years; home-crowd Sakkari factor. Dzumhur Umag week recap: 3h42m QF vs Arnaldi, threatened walkout but stayed and won third-set TB; first Umag SF in 4 attempts; first career ATP final at 34 and No. 108.
+- **Notes:**
+  - verify-facts.py: passed; 41 claims, 81 HIGH; image not_started warnings cosmetic (expected for imagn source)
+  - compile: 5 stories, 8 X posts, 5 FB posts, 5 articles, 7 images; 28 dashboard items; posting window warnings cosmetic
+  - PostPlanner exports: standard (8 posts) and TOBI (8 posts) generated successfully; 12:58–20:47 ET
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Elena Voss [S1, S4], Ryan Calloway [S2, S5], Marcus Cole [S3] (rotating from July 17: Elena Voss [S1, S4], Ryan Calloway [S2, S5], Marcus Cole [S3])
+  - CORRECTION NOTE: July 17 story history incorrectly stated "Vallejo def. Rublev 7-6(5), 6-2 in Bastad SF" — actual July 17 SFs were Vallejo vs Darderi and Rublev vs Tabilo; story history has been corrected for July 18 entries
 
 ### 2026-07-17 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)

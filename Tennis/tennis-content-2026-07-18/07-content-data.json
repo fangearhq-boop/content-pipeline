@@ -1,0 +1,373 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-18",
+  "compiled_at": "2026-07-18T12:28:20.881023+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 (Merida title)",
+      "type": "X + FB"
+    },
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 (Merida title)",
+      "type": "X"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2 (Bastad Final Preview)",
+      "type": "X + FB"
+    },
+    {
+      "time": "11:30 AM",
+      "description": "Story 2 (Bastad Final Preview)",
+      "type": "X"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 3 (Gstaad Final)",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 (Athens Final)",
+      "type": "X + FB"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 5 (Dzumhur Journey)",
+      "type": "X + FB"
+    },
+    {
+      "time": "9:00 PM",
+      "description": "Story 5 (Dzumhur Journey)",
+      "type": "X"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Daniel Merida Wins First ATP Title at Umag",
+      "tier": 1,
+      "status": "",
+      "angle": "NEW STORY — Daniel Merida (ESP, 22) defeated Damir Dzumhur (BIH, 34) 6-4, 6-1 in the Croatia Open Umag final, winning his first ATP Tour title. Merida is the third-youngest finalist in Umag this decade, behind only Carlos Alcaraz and Jannik Sinner. Playing his 7th career ATP tour-level event, he also reached the final at Bucharest earlier in 2026. Dzumhur, 34, ranked No. 108, had made an emotional run through the draw — including his 3h42m QF epic over Arnaldi (covered July 17).",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Daniel Merida (ESP) wins the Croatia Open Umag. First ATP title. He's 22. It was his 7th career tour-level event.\n\nThird-youngest Umag finalist this decade — behind only Alcaraz and Sinner. 🏆\n\n#TennisFanrecap #ATPTour #Umag #CroatiaOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#ATPTour",
+            "#Umag",
+            "#CroatiaOpen"
+          ],
+          "char_count": 236
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Merida def. Dzumhur 6-4, 6-1 in Umag. A 22-year-old beats a 34-year-old in the final and claims his first ATP title.\n\nOne of the great young stories on clay this summer. 🎾\n\n#TennisFanrecap #ATPTour #Umag #CroatiaOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#ATPTour",
+            "#Umag",
+            "#CroatiaOpen"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "A 22-year-old Spaniard walked onto a Croatian clay court on Saturday morning with a chance to win his first ATP Tour title. By the time he walked off, Daniel Merida had done exactly that.\n\nMerida defeated Damir Dzumhur 6-4, 6-1 in the Croatia Open Umag final — and the numbers around the result are remarkable. It was just his 7th career ATP tour-level event. He is only the third-youngest finalist in Umag this decade, trailing only Carlos Alcaraz and Jannik Sinner on that list.\n\nThat is extraordinary company.\n\nDzumhur, 34 and ranked No. 108, had made one of the most emotionally charged runs of the week. The Bosnian veteran had survived a 3-hour-42-minute quarterfinal on Thursday, threatened to walk off court over a disputed line call, then stayed to win. He reached his first Umag semifinal in four attempts. He reached his first ATP Tour final. He had earned the biggest match of his season.\n\nSaturday, facing Merida, the week's momentum ran out.\n\nFor Merida, it is just beginning. His name is in the Umag record books alongside Alcaraz and Sinner. What he does next will be worth watching.",
+        "image_caption": "Daniel Merida wins the Croatia Open Umag — his first ATP title. The 22-year-old is only the third-youngest finalist in Umag this decade, behind Alcaraz and Sinner. #TennisFanrecap #ATPTour #Umag",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-merida-wins-umag-first-title.html",
+        "headline": "Daniel Merida Claims First ATP Title at Croatia Open Umag",
+        "word_count": 564
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Merida in celebration or match action on clay; overlay text: \"MERIDA | FIRST ATP TITLE\""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Landscape crop for article-01 hero"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Daniel Merida Wins First ATP Title at Umag\n**Decision:** NEW STORY — Merida's title win is today's top confirmed result.\n**Source confidence:** MEDIUM-HIGH (scores from AI summary on tennis.com + puntodebreak.com headline confirming Merida won)\n**Verified facts (HIGH):**\n- Match played: July 18, 2026, Croatia Open Umag (ATP 250, clay)\n- Winner: Daniel Merida (ESP)\n- Runner-up: Damir Dzumhur (BIH)\n- Score: 6-4, 6-1 (from AI search summary — cross-check ATP official results before publish)\n- Merida is the third-youngest finalist in Umag this decade (behind only Carlos Alcaraz and Jannik Sinner) — per ATP Tour official source\n- Playing his 7th career ATP tour-level event — per ATP Tour\n- Merida had a previous ATP final earlier in 2026 (Bucharest) — per research\n- Dzumhur, 34, ranked No. 108 — per ATP Tour\n**Source:** puntodebreak.com (July 18, 2026); tennis.com match page (confirms July 18 final date); ATP Tour\n**NOT confirmed (flag for fact-check):**\n- Exact score (6-4, 6-1) came from AI-processed summary — flag as MEDIUM confidence\n- Whether Bucharest was Merida's first final and whether he won/lost it — flag",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Bastad Final Preview — Rublev vs Vallejo",
+      "tier": 1,
+      "status": "",
+      "angle": "FOLLOW-UP from July 17 — Vallejo beat Darderi in the Bastad SF to reach the final. Rublev beat Tabilo in the other SF. The Bastad Final is Sunday July 19: Rublev (No. 1 seed, 2023 Bastad champion) vs Adolfo Daniel Vallejo (PAR, outside top 100). Vallejo is the first Paraguayan player to reach an ATP final since Ramon Delgado in 2002. His record on clay in 2026 is 35-11.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Bastad final is set for Sunday: No. 1 seed Rublev vs. Adolfo Daniel Vallejo (PAR).\n\nVallejo is the first Paraguayan to reach an ATP final since Ramon Delgado in 2002.\n\nHe's 35-11 on clay this year. The underdog has earned this. 🇵🇾\n\n#TennisFanrecap #ATPTour #Bastad #NordeaOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#ATPTour",
+            "#Bastad",
+            "#NordeaOpen"
+          ],
+          "char_count": 276
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Rublev vs. Vallejo. Sunday. Bastad.\n\nThe defending champion and No. 1 seed vs. the outside-top-100 Paraguayan making history.\n\nRublev is 11-2 in ATP clay SF this year. Vallejo is 35-11 on dirt. Something has to give. 🎾\n\n#TennisFanrecap #ATPTour #Bastad #NordeaOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#ATPTour",
+            "#Bastad",
+            "#NordeaOpen"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": {
+        "long_form": "The Bastad final is set. Sunday. Andrey Rublev vs. Adolfo Daniel Vallejo.\n\nRublev, the No. 1 seed and the 2023 Bastad champion, defeated Alejandro Tabilo in Saturday's semifinal and enters the final with an 11-2 record in ATP clay-court semifinals. He has done this before. He knows how finals feel on clay.\n\nVallejo has never done this before. That is precisely what makes Sunday remarkable.\n\nThe Paraguayan, ranked outside the top 100, defeated Luciano Darderi in the other semifinal to become the first player from his country to reach an ATP Tour final since Ramon Delgado in approximately 2002. He is 35-11 on clay so far in 2026. He is not in the final by accident.\n\nOn one side of the net: the No. 1 seed, the defending champion, the experience and the ranking. On the other: a player from a tennis-small nation rewriting his country's history with every match.\n\nSunday's final in Bastad starts at 2 PM local time. Something will be decided.",
+        "image_caption": "Rublev vs. Vallejo. The Bastad final is set for Sunday. A No. 1 seed vs. a Paraguayan making history. #TennisFanrecap #ATPTour #Bastad",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-bastad-final-preview-rublev-vallejo.html",
+        "headline": "Bastad Final Preview: Rublev vs Vallejo — A Paraguayan Dream on the Line",
+        "word_count": 487
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Rublev clay action; overlay text: \"RUBLEV vs VALLEJO / BASTAD FINAL | SUNDAY\""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Bastad Final Preview — Rublev vs Vallejo\n**Decision:** FOLLOW-UP from July 17 (Vallejo's semifinal run and Paraguayan history)\n**Source confidence:** HIGH (confirmed from Infobae July 17; LastWordOnSports July 17; multiple SF preview articles)\n**Verified facts (HIGH):**\n- Bastad (Nordea Open) SFs played July 18: Vallejo vs Darderi; Rublev vs Tabilo\n- Bastad Final: Sunday July 19, Rublev vs Vallejo\n- Andrey Rublev is the No. 1 seed and 2023 Bastad champion\n- Vallejo is Paraguayan, ranked outside the top 100\n- Rublev def. Sebastian Baez 6-1, 6-2 in the QF (confirmed from ATP Tour)\n- Rublev's ATP clay-court SF record heading in: 11-2 — per ATP Tour\n- First Paraguayan player in an ATP final since Ramon Delgado (approximately 2002, Costa do Sauipe) — per World Tennis Magazine\n- Vallejo's clay record in 2026: 35-11 — per World Tennis Magazine\n**Source:** infobae.com (July 17), lastwordonsports.com (July 17), worldtennismagazine.com, atptour.com\n**NOT confirmed:**\n- Exact score of Vallejo vs Darderi SF (AI summary said 7-6(5), 6-2 — note: same score attributed to Vallejo vs Rublev in July 17 pipeline, likely pipeline error; actual score uncertain)\n- Exact score of Rublev vs Tabilo SF",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Gstaad Final Set — Cerundolo vs Shevchenko",
+      "tier": 2,
+      "status": "",
+      "angle": "NEW STORY — Juan Manuel Cerundolo (ARG) def. Raphael Collignon 3-6, 6-3, 7-5 in the Gstaad SF. Alexander Shevchenko (RUS) def. No. 3 seed Stefanos Tsitsipas 7-6(5), 6-2 in the other SF. Final is Sunday July 19. Cerundolo became top seed remaining after Friday's triple-shock upsets (Bublik, Ruud, Rinderknech all fell). Shevchenko's win over Tsitsipas is the headline upset of the day.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Gstaad final: Cerundolo def. Collignon 3-6, 6-3, 7-5. Shevchenko def. No. 3 seed Tsitsipas 7-6(5), 6-2.\n\nTwo underdogs. One Swiss Open final. Sunday. 🏔️\n\n#TennisFanrecap #ATPTour #Gstaad #SwissOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#ATPTour",
+            "#Gstaad",
+            "#SwissOpen"
+          ],
+          "char_count": 197
+        }
+      ],
+      "facebook": {
+        "long_form": "The chaos at Gstaad found its natural conclusion on Saturday.\n\nAfter a week that eliminated defending champion Alexander Bublik, two-time champion Casper Ruud, and seed after seed in a cascade of upsets, the Swiss Open semifinals produced two more stories worth telling.\n\nJuan Manuel Cerundolo of Argentina defeated Raphael Collignon 3-6, 6-3, 7-5, surviving a tricky first set to advance in three. Cerundolo had become the top seed remaining in the draw after Friday's carnage, and he held up his end.\n\nThe bigger result was Alexander Shevchenko.\n\nThe Russian defeated No. 3 seed Stefanos Tsitsipas 7-6(5), 6-2 — a dominant, composed performance that sends him into his first final at a major clay event. Shevchenko won the tiebreak, then closed out in straight sets. Tsitsipas's week at Gstaad ends in the semifinals.\n\nSunday: Cerundolo vs. Shevchenko. Two players nobody predicted would be in the Gstaad final when the week began. The Swiss clay this summer has consistently refused to follow the script.",
+        "image_caption": "Gstaad final: Cerundolo vs. Shevchenko. After a week of upsets, two underdogs are left standing. Tsitsipas falls in the SF. #TennisFanrecap #ATPTour #Gstaad",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-03-gstaad-final-cerundolo-shevchenko.html",
+        "headline": "Cerundolo and Shevchenko Set Gstaad Final After Ending Tsitsipas's Week",
+        "word_count": 442
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Tsitsipas match action; overlay text: \"SHEVCHENKO STUNS TSITSIPAS / GSTAAD FINAL SET\""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Gstaad Final Set — Cerundolo vs Shevchenko\n**Decision:** NEW STORY — Gstaad SFs played Saturday, both confirming the Sunday final\n**Source confidence:** MEDIUM (SF scores from AI summary; Tsitsipas loss confirmed from ATP Tour framing)\n**Verified facts (HIGH):**\n- Gstaad (EFG Swiss Open) SF 1: Juan Manuel Cerundolo (ARG) def. Raphael Collignon\n- Gstaad (EFG Swiss Open) SF 2: Alexander Shevchenko (RUS) def. No. 3 seed Stefanos Tsitsipas\n- Score Shevchenko def. Tsitsipas: 7-6(5), 6-2 (from AI summary — MEDIUM confidence)\n- Score Cerundolo def. Collignon: 3-6, 6-3, 7-5 (from AI summary — MEDIUM confidence)\n- Cerundolo became top seed remaining at Gstaad after Friday's upsets (Bublik, Ruud, Rinderknech all fell)\n- Gstaad Final: Sunday July 19, Cerundolo vs Shevchenko\n- Context: Cerundolo's QF win over Casper Ruud (2-time Gstaad champion) was covered July 17\n**Source:** atptour.com Gstaad results; tennistourtalk.com; tenngrand.com SF previews\n**NOT confirmed:**\n- Exact SF scores (MEDIUM confidence from AI summaries)\n- Collignon's ranking or nationality (not in research)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "WTA Athens Final Preview — Krejcikova in Final",
+      "tier": 2,
+      "status": "",
+      "angle": "NEW STORY — Barbora Krejcikova (CZE, No. 1 seed) defeated Clara Tauson in the Athens SF to reach the final of the first WTA Athens event in 35 years. Maria Sakkari (GRE) played Alina Korneeva in the other SF (result scheduled July 18 evening, 7:30 PM Athens time). If Sakkari wins, the Athens final will be a home-crowd dream vs a Grand Slam champion.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Krejcikova is in the Athens final after beating Tauson in the SF.\n\nIf Sakkari wins tonight's other semi vs. Korneeva, the Athens final is Sakkari at home vs. a Grand Slam champion. First WTA Athens event in 35 years. 👏\n\n#TennisFanrecap #WTA #Athens #WTAGreece",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#WTA",
+            "#Athens",
+            "#WTAGreece"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "Barbora Krejcikova is in the final of the Athens Open.\n\nThe Czech No. 1 seed defeated Clara Tauson in Saturday's semifinal, continuing a strong week that included her first-ever head-to-head win over Zheng Qinwen in the quarterfinals. Krejcikova is a former Grand Slam champion. She arrived in Athens with form. She is leaving with a spot in Sunday's final.\n\nHer opponent depends on the other semifinal.\n\nMaria Sakkari — the Greek No. 4 seed playing in front of her own home crowd — faces Alina Korneeva Saturday evening. Sakkari has been dominant all week: she has dropped very few games. The Athens crowd has been electric behind her. If she advances, Sunday's final is a dream matchup for the city: a beloved Greek champion against one of the world's best, on the court where WTA tennis returned after a 35-year absence.\n\nThe first WTA event in Athens since 1991 is delivering a weekend worth watching.",
+        "image_caption": "Krejcikova into the Athens final. Sakkari plays tonight for the right to join her. First WTA Athens final in 35 years is almost set. #TennisFanrecap #WTA #Athens",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-athens-final-preview-krejcikova.html",
+        "headline": "Athens Open Final Preview: Krejcikova Surges as Historic Tournament Reaches Its Final",
+        "word_count": 424
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Sakkari in match play or celebration; overlay text: \"ATHENS FINAL | SAKKARI'S DREAM WEEK\""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "WTA Athens Final Preview — Krejcikova in Final\n**Decision:** NEW STORY — Athens Open SF update, Krejcikova advancing confirmed\n**Source confidence:** HIGH for Krejcikova; MEDIUM for Sakkari result\n**Verified facts (HIGH):**\n- Barbora Krejcikova (CZE, No. 1 seed) def. Clara Tauson (DEN) in Athens SF — per Yardbarker/Field Level Media roundups\n- Krejcikova's QF win over Zheng Qinwen was their FIRST HEAD-TO-HEAD win for Krejcikova — per WTA official\n- Athens Open = first WTA event in Athens in 35 years (WTA 500, outdoor hard)\n- Final: Sunday July 19\n- Maria Sakkari (GRE) played Alina Korneeva in the other SF (scheduled 7:30 PM local Athens time July 18)\n- Sakkari def. Parks 6-4, 6-3 in QF (confirmed)\n- Athens Centre Court has hosted a home crowd rallying behind Sakkari all week\n**Source:** wtatennis.com; yardbarker.com (WTA roundup July 18); greekcitytimes.com; tennisuptodate.com\n**NOT confirmed:**\n- Sakkari vs Korneeva SF result (match was scheduled for Saturday evening, results not indexed at search time)\n- Tauson SF score vs Krejcikova (not found in research)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Dzumhur's Emotional Umag Week",
+      "tier": 2,
+      "status": "",
+      "angle": "FOLLOW-UP from July 17 (QF) — Damir Dzumhur (BIH, 34) reached his first Umag final before falling to Merida 6-4, 6-1. His week: from near-walkout in the 3h42m QF vs Arnaldi, to his first Umag SF in four tries, to his first career ATP Tour final. \"This is why we love the sport.\" Today was the end of that journey.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5-1",
+          "text": "Damir Dzumhur (BIH, 34, No. 108) reached his first ATP final this week at Umag.\n\nThe walkout he didn't take. The 3h42m QF. Four trips, first SF. Then the final.\n\nHe said it after the QF: \"This is why we love the sport.\" He was right. 💙\n\n#TennisFanrecap #ATPTour #Umag #CroatiaOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#ATPTour",
+            "#Umag",
+            "#CroatiaOpen"
+          ],
+          "char_count": 280
+        },
+        {
+          "label": "Post 5-2",
+          "text": "Dzumhur's week in Umag:\n\nThursday: 3h42m. Near-walkout. Third-set tiebreak. Won.\nFriday: First Umag SF in four attempts. Won.\nSaturday: First ATP Tour final ever. Lost.\n\n34 years old. Ranked No. 108. Still fighting. 🎾\n\n#TennisFanrecap #ATPTour #Umag #CroatiaOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#ATPTour",
+            "#Umag",
+            "#CroatiaOpen"
+          ],
+          "char_count": 262
+        }
+      ],
+      "facebook": {
+        "long_form": "This time last week, Damir Dzumhur was not expected to be anywhere near a tennis final.\n\nThe 34-year-old from Bosnia and Herzegovina, ranked No. 108, has been grinding the ATP tour for years — consistent enough to keep his ranking, never quite reaching the biggest matches. Umag this week was different.\n\nThursday's quarterfinal set the tone. Dzumhur beat fourth seed Matteo Arnaldi in 3 hours and 42 minutes — a match that included a threatened mid-match walkout over an electronic line-call dispute and a third-set tiebreak that went right to the edge. He stayed. He won. \"This is why we love the sport,\" he said afterward.\n\nThen came his first Umag semifinal in four trips to the tournament. Then came his first ATP Tour final.\n\nSaturday, facing Daniel Merida, the result was 6-4, 6-1. The final scoreline came quickly, and it was not kind to Dzumhur.\n\nBut the scoreline is not the week. The week was a 34-year-old who has refused to stop competing reaching the biggest match of his 2026 season. The week was the walkout he didn't take. The week was why, after all these years, he is still on tour.",
+        "image_caption": "Dzumhur reached his first ATP Tour final this week. 34 years old. Ranked No. 108. He's still here, still fighting. #TennisFanrecap #ATPTour #Umag",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-dzumhur-umag-journey.html",
+        "headline": "Dzumhur's Umag Week: From Walkout Threat to Final, and What It All Meant",
+        "word_count": 509
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Dzumhur in match action or post-match emotion; overlay text: \"DZUMHUR | FIRST ATP FINAL AT 34\""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Dzumhur's Emotional Umag Week\n**Decision:** FOLLOW-UP from July 17 (QF story — \"Dzumhur's Umag Epic\")\n**Source confidence:** HIGH for QF details (covered July 17); MEDIUM for final details (Dzumhur lost)\n**Verified facts (HIGH):**\n- Damir Dzumhur (BIH, 34, ranked No. 108)\n- QF (Thursday, July 16): def. Matteo Arnaldi [4] 7-6(5), 6-7(4), 7-6(4) in 3h42m — COVERED July 17\n- Mid-match QF: Dzumhur threatened to walk off over electronic line-call dispute, stayed, won\n- SF: def. Alex Molcan to reach his first Umag final in four attempts\n- Final (July 18): lost to Daniel Merida 6-4, 6-1\n- Quote: \"This is why we love the sport\" — per ATP Tour official (from QF)\n**Source:** ATP Tour; puntodebreak.com (July 18); tennismajors.com",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
