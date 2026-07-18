@@ -2500,3 +2500,48 @@ July 12 pipeline contained incorrect winners for Scottish Open (MacIntyre report
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Kim at The Open; Kim 2026 second half form
 
+
+## 2026-07-18
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-18 | T1 | Open Championship R3 — Lucas Herbert Leads at -10 After Record-Tying 62 | X, FB, Article | NEW |
+| 2026-07-18 | T1 | DeChambeau 2-Stroke Penalty Controversy — Rule 8.1a Drops Him From -7 to -5 | X, FB, Article | NEW |
+| 2026-07-18 | T2 | Fleetwood in Contention at Hometown Major — Paired With Rahm R3 | X, FB, Article | FOLLOW UP |
+| 2026-07-18 | T2 | Scheffler 6 Back at -4 — Missed 7 Birdie Putts Inside 15 Feet in R2 | X, FB, Article | FOLLOW UP |
+| 2026-07-18 | T2 | McIlroy Makes Cut at -1, Spieth Falls — Field Thins for Moving Day | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Herbert Leads at -10 After Record-Tying 62
+- **Tier:** 1
+- **Category:** Open Championship / LIV Golf
+- **Key facts:** Herbert (LIV Ripper GC, Australian, 30) fires 62 in R2 (ties men's major scoring record); out in 28; leads at -10; won LIV Golf Virginia May 2026; 4 other top-10s; T2 at -8: Suber/Young/Gerard; Burns -7 (also shot 62 R2); R3 final group: Herbert+Suber
+- **Status:** NEW
+- **Follow-up ideas:** Herbert wins Open; R4 final round report
+
+### STORY 2: DeChambeau Penalty — Rule 8.1a
+- **Tier:** 1
+- **Category:** Open Championship / Rules Controversy / LIV Golf
+- **Key facts:** DeChambeau shot 66 R2; R&A penalty 2 strokes under Rule 8.1a (improved swing area, stomped tall grass 5th hole); chief referee Grant Moir confirmed intent irrelevant; DeChambeau furious/threatened withdrawal; confirmed play R3; enters R3 at -5; Yahoo Sports R3 blog: "Can anyone fend off DeChambeau after his chaotic penalty?"
+- **Status:** NEW
+- **Follow-up ideas:** DeChambeau R3 result; Rule 8.1a debate; does he mount comeback
+
+### STORY 3: Fleetwood Hometown Hero
+- **Tier:** 2
+- **Category:** Open Championship / Tommy Fleetwood
+- **Key facts:** Fleetwood -4 R3; from Southport (6 miles from Birkdale); attended 1998 Open at Birkdale as 7-year-old with father; father caddying this week; paired with Rahm R3; no English Open winner since Faldo 1992; still seeking first major
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R3 result; Fleetwood Sunday position; potential Sunday title charge
+
+### STORY 4: Scheffler Trails at -4
+- **Tier:** 2
+- **Category:** Open Championship / Scottie Scheffler
+- **Key facts:** 68-68 for -4 after 36 holes; 6 back of Herbert; 13/14 fairways R1 (best in field); missed 7 birdie putts inside 15ft in R2 (4 inside 10ft); defending champion/World No. 1; needs ~62-63 in R3 to threaten
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R3 putting improvement; Scheffler Sunday position
+
+### STORY 5: McIlroy Cut, Spieth Misses
+- **Tier:** 2
+- **Category:** Open Championship / Cut Day
+- **Key facts:** McIlroy -1 after 36 holes (made cut); shot 67 R2 to survive; 9 back of Herbert; teed off early R3 with Jacob Bridgeman; chasing 7th major (European record, currently tied with Faldo); won 2025+2026 Masters; Spieth missed cut (quad bogey 17 R2, 2017 Birkdale champion); also missed cut: Cameron Smith/Fitzpatrick/Rose/Clark/Harman/Harrington
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** McIlroy R3 charge or pack it in; major No. 7 quest

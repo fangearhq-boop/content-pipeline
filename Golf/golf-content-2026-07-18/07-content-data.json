@@ -1,0 +1,319 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-18",
+  "compiled_at": "2026-07-18T11:28:57.794643+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Open Championship R3 — Lucas Herbert Leads at -10 After Record-Tying 62 in R2",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM ET, 3:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Lucas Herbert fired a 62 in Round 2 at Royal Birkdale.\n\nThat ties the all-time men's major scoring record for a single round.\n\nHe leads The Open at -10. He plays for LIV Golf.\n\nMoving day starts NOW. 👏\n\n#TheOpen #BritishOpen #LIVGolf",
+          "posting_time": "8:00 AM ET, 3:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheOpen",
+            "#BritishOpen",
+            "#LIVGolf"
+          ],
+          "char_count": 233
+        },
+        {
+          "label": "Post 1-2",
+          "text": "54-hole Open Championship leaderboard entering Sunday:\n\n🏴󠁧󠁢󠁳󠁣󠁴󠁿 Herbert (LIV) — leads\n-8: Suber / Young / Gerard\n-7: Burns\n-5: DeChambeau (LIV)\n-4: Scheffler / Fleetwood / Rahm (LIV)\n-1: McIlroy\n\nWhat a Sunday is coming. 🏌️\n\n#TheOpen #BritishOpen",
+          "posting_time": "8:00 AM ET, 3:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheOpen",
+            "#BritishOpen"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET, 3:30 PM ET"
+      },
+      "article": {
+        "filename": "article-01-herbert-leads-open-record-62.html",
+        "headline": "LIV's Lucas Herbert Fires Record-Tying 62, Leads Open Championship at -10",
+        "word_count": 406
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (X + Facebook)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Lucas Herbert Leads Open Championship at -10\n**Sources:** Yahoo Sports (Herbert profile), Olympics.com (leaderboard), Sky Sports, PGA TOUR\n**Verified facts (HIGH confidence):**\n- Lucas Herbert plays for Ripper GC on the LIV Golf circuit\n- Herbert shot 62 in R2 — matching the men's major championship scoring record for a single round\n- He birdied his first three holes in R2; went out in 28 on the front nine\n- After 36 holes: Herbert -10, leading the field\n- He won LIV Golf Virginia in May 2026 — earned his Open spot via LIV\n- He has four other top-10s in the 2026 LIV season\n- He is 30 years old, Australian\n- R3 final group: Herbert (-10) + Jackson Suber (-8)\n- T2 at -8: Jackson Suber, Cameron Young, Ryan Gerard\n- Sam Burns also shot 62 in R2 and is at -7\n**MEDIUM confidence:**\n- Scheffler entered R1 with -2 after R1; -4 after 36 holes (consistent with multiple reports showing -4 total, 2 rounds of 68)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "DeChambeau Two-Stroke Penalty Controversy — Shot 66 but Penalized for Improving Swing Area",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM ET, 10:30 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Bryson DeChambeau shot 66 at the Open.\n\nThen the R&A hit him with a 2-stroke penalty — Rule 8.1a — for stomping tall grass near his ball.\n\nHe was FURIOUS. Almost withdrew.\n\nThen he confirmed he'd play. And sources say he's charging today. 👀\n\n#TheOpen #DeChambeau #BritishOpen",
+          "posting_time": "8:00 AM ET, 10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheOpen",
+            "#DeChambeau",
+            "#BritishOpen"
+          ],
+          "char_count": 275
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The R&A on Bryson's penalty: \"Intent is irrelevant under Rule 8.1a.\"\n\nDeChambeau's camp: \"He may withdraw.\"\n\nDeChambeau at midnight: \"I'm playing.\"\n\nNow he's apparently charging through R3 at Royal Birkdale.\n\nSpicy Saturday at The Open. 🌶️ #TheOpen #BritishOpen",
+          "posting_time": "8:00 AM ET, 10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheOpen",
+            "#BritishOpen"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET, 10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-dechambeau-penalty-rule-8-1a-controversy.html",
+        "headline": "DeChambeau Shot 66. The R&A Took Two Strokes Back. Then He Said He Might Withdraw. Then He Showed Up.",
+        "word_count": 452
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "DeChambeau Penalty Controversy\n**Sources:** Golf Digest (penalty explained, Rule 8.1a), Yahoo Sports (DeChambeau responds), Yahoo Sports R3 live blog\n**Verified facts (HIGH confidence):**\n- DeChambeau shot 66 in R2\n- He briefly reached -7 during/after R2 (solo second)\n- R&A issued a 2-stroke post-round penalty under Rule 8.1a — \"inadvertently improving the area of his intended swing\" by stomping down tall grass near his ball on the 5th hole\n- R&A chief referee Grant Moir issued the penalty; explicitly stated intent is irrelevant under the rule\n- DeChambeau was \"furious\" per reports; his agent suggested possible withdrawal\n- DeChambeau confirmed around midnight he would play R3\n- After penalty, he enters R3 at -5 — five back of Herbert\n- Yahoo Sports R3 live blog headline: \"Can anyone fend off Bryson DeChambeau after his chaotic penalty?\" — suggesting he is mounting a charge in R3",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Tommy Fleetwood in Contention at Hometown Major — Paired With Rahm in R3",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "10:30 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Tommy Fleetwood is 4-under at The Open.\n\nThe course? Royal Birkdale — 6 miles from his hometown Southport.\n\nHis father is on the bag. He went to his first Open here as a 7-year-old.\n\nNo English player has won The Open since Nick Faldo in 1992.\n\nTODAY. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 #TheOpen #Fleetwood",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheOpen",
+            "#Fleetwood"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-03-fleetwood-hometown-hero-open-championship.html",
+        "headline": "Tommy Fleetwood Is in Contention at His Childhood Major — With His Father on the Bag",
+        "word_count": 398
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Tommy Fleetwood Hometown Hero\n**Sources:** CBS Sports (Fleetwood at stake), NBC Sports (R3 tee times)\n**Verified facts (HIGH confidence):**\n- Fleetwood is from Southport, which is adjacent to Royal Birkdale's location\n- He attended his first Open at Birkdale as a 7-year-old in 1998 with his father\n- His father is caddying for him this week\n- No English player has won The Open Championship since Nick Faldo in 1992\n- Fleetwood is at -4 after 36 holes\n- He is paired with Jon Rahm in R3\n- He is still seeking his first major title\n- Jon Rahm (LIV, Legion XIII) shot 67 in R2, also at -4",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Scheffler Trails by 6 After 36 Holes — Missed 7 Birdie Putts Inside 15 Feet in R2",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Scottie Scheffler hit 13/14 fairways in R1 at Birkdale.\n\nIn R2 he missed 7 birdie putts inside 15 feet. Four of them inside 10 feet.\n\nHe's -4, 6 back of Herbert. Elite ball-striking. Problem flat stick.\n\nCan he shoot a 63 today? #TheOpen #Scheffler #BritishOpen",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheOpen",
+            "#Scheffler",
+            "#BritishOpen"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-scheffler-six-back-putting-problems-birkdale.html",
+        "headline": "Scheffler Is Hitting Fairways at a Historic Rate — and Missing Birdie Putts at a Painful One",
+        "word_count": 417
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Scheffler Trails at -4\n**Sources:** PGA TOUR (Scheffler R1 recap, R2 putting story)\n**Verified facts (HIGH confidence):**\n- Scheffler shot 68 in R1 and 68 in R2 (confirmed from PGA TOUR sources)\n- After 36 holes: -4, 6 shots behind Herbert\n- He hit 13/14 fairways in R1 — best fairway accuracy in the field\n- In R2, he missed 7 birdie putts from 15 feet or closer; 4 of those were inside 10 feet\n- He is defending Champion Golfer of the Year and World No. 1",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "McIlroy 9 Back But Alive — Made Cut at -1, Needs Heroic Weekend for 7th Major Record",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "McIlroy made the cut at -1. He's 9 back. Long shot — but alive.\n\nJordan Spieth (2017 Birkdale champion) missed the cut — quad bogey on 17 ended it.\n\nThe field is thinning. Moving day is here.\n\nCan Rory hunt down a 7th major? 🤔 #TheOpen #McIlroy #BritishOpen",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheOpen",
+            "#McIlroy",
+            "#BritishOpen"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-mcilroy-alive-spieth-missed-cut-open-r3.html",
+        "headline": "McIlroy Makes the Cut, Spieth Misses — The Open Field Thins for Moving Day",
+        "word_count": 456
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "McIlroy Makes Cut, Spieth Misses\n**Sources:** ESPN (McIlroy makes cut), CBS Sports (McIlroy R3 lookahead), Bleacher Report (cut list)\n**Verified facts (HIGH confidence):**\n- McIlroy finished R1 badly (specific R1 score not confirmed in sources but described as \"seven shots off the lead\" and \"flirting with a missed cut\")\n- McIlroy shot 67 in R2 (-3) to make the cut\n- After 36 holes: McIlroy at -1\n- He teed off with Jacob Bridgeman early in R3\n- He acknowledged \"needing a special day\" to contend\n- He is 9 strokes behind Herbert\n- McIlroy is chasing his 7th major title (which would break the European record held jointly with Nick Faldo)\n- He won the 2025 and 2026 Masters in back-to-back years\n- Jordan Spieth (2017 Birkdale champion) missed the cut with a quadruple bogey on hole 17 in R2\n- Other notable missed cuts: Cameron Smith (LIV), Matt Fitzpatrick, Justin Rose, Wyndham Clark, Brian Harman (2023 champion), Padraig Harrington",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 9
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

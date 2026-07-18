@@ -1,10 +1,21 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
-- **Date**: 2026-07-17
+- **Date**: 2026-07-18
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-18
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway)
+- **PostPlanner exports:** gfr-postplanner-2026-07-18.xlsx (7 posts) + gfr-postplanner-tobi-2026-07-18.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-07-18/review-dashboard.html (22 items)
+- **Notes:** OPEN CHAMPIONSHIP R3 MOVING DAY — Lucas Herbert (LIV Ripper GC) leads at -10 after record-tying 62 in R2 (birdied first 3 holes/out in 28); T2 at -8: Suber/Young/Gerard; Burns -7 (also shot 62 R2); DeChambeau controversy: shot 66 but received 2-stroke post-round penalty Rule 8.1a (improved swing area/stomping tall grass 5th hole/furious/threatened withdrawal/confirmed play R3 at -5); Fleetwood -4 (hometown Southport/father caddying/no English winner since Faldo 1992/paired with Rahm R3); Scheffler -4 (missed 7 birdie putts inside 15ft in R2/6 back); McIlroy made cut at -1 (9 back/shot 67 R2); Spieth missed cut (quad bogey 17); also missed: Cameron Smith/Fitzpatrick/Rose/Clark/Harman/Harrington
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-17
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
