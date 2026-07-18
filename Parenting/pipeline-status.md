@@ -1,5 +1,44 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: July 18, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Target Cat & Jack recall (211,000 pairs, 5T–12T, pearl choking hazard, 800-591-3869, CPSC July 16); El Paso County Fair last day (121st annual, Calhan, July 11–18, 25K-visitor goal, rodeo/derbies/rides); Pikes Peak or Bust Rodeo last day (89th annual, Norris Penrose, matinee 12:30 PM + evening 7:30 PM, grounds open 10 AM); SUN Bucks ($120/child EBT, Aug 25 deadline, 185% FPL, cdhs.colorado.gov/summer-ebt, 800-536-5298); Free Summer Meals D11 (USDA SFSP, any child 18 under, KidsFoodFinder.org, D49 Aug 4/D11 Aug 12/D20 Aug 13) |
+| Story History Check | COMPLETE | All 5 stories NEW — no overlap with July 15 or July 17 |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); ### STORY N: format |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tags; all facts from web search |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (S1:2, S2:2, S3:1, S4:1, S5:1); #### Text Post A/B — TIME MT format; code blocks; all ≤280 chars; 4 hashtags each |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; dual-format headers (#### for PostPlanner + **bold** for compile); code blocks; engagement questions; NO hashtags; COS voice |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts; 1200×675; clean bottom third; no likenesses; no brand logos |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 5 stories × 2 image types; all not_started; gemini base_only; kAHCKfCZgk0 brand kit |
+| Articles | COMPLETE | 5 articles (500–900 words; Quick Reference tables in all 5; What's Next sections; 0 exclamation marks; no figure tags; semantic HTML5); bylines: Sarah Morales (A1, A3, A5), Jamie Rivera (A2, A4) |
+| Fact-Check | COMPLETE | verify-facts.py passed after fixing ### STORY N: headers in files 02–05; 43 claims; HIGH: 88, MEDIUM: 7, LOW: 52; all 5 stories present in all content files |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles; 27 dashboard items |
+| Dashboard | COMPLETE | review-dashboard.html — 27 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-07-18.xlsx (17 posts: 7 X + 10 FB, 13:18–21:18 MT) + TOBI cosp-postplanner-tobi-2026-07-18.xlsx (12 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API (403 Forbidden) | Same environment restriction as all prior runs |
+
+### 2026-07-18 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Fact-Check → Image Manifest → Articles → Compile → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB long-form + 5 FB captions = 17 total posts (PostPlanner xlsx: 17 posts 13:18–21:18 MT, 12 TOBI)
+- **Articles:** 5 (bylines: Sarah Morales [A1, A3, A5], Jamie Rivera [A2, A4])
+- **PostPlanner exports:** cosp-postplanner-2026-07-18.xlsx (17 posts, 13:18–21:18 MT), cosp-postplanner-tobi-2026-07-18.xlsx (12 TOBI posts)
+- **Coverage:** Target Cat & Jack tan sandals recall (CPSC July 16, 211,000 pairs, 5T–12T, pearl choking hazard, 23 reports/0 injuries, 800-591-3869 full refund); El Paso County Fair last day (121st annual Calhan, ~35 min from COS, July 18 final day, rodeo/derbies/rides/livestock, elpasocountyfair.com); Pikes Peak or Bust Rodeo last day (89th annual Norris Penrose, matinee 12:30 PM/evening 7:30 PM/grounds 10 AM, since 1937, military families, mutton-bustin'); SUN Bucks $120/child EBT (Aug 25 deadline, 185% FPL ~$59K family of 4, SNAP/TANF/Medicaid auto-eligible, cdhs.colorado.gov/summer-ebt, 800-536-5298); Free Summer Meals D11 (USDA SFSP, any child 18 under, no paperwork, KidsFoodFinder.org, D49 Aug 4/D11 Aug 12/D20 Aug 13)
+- **Notes:**
+  - Context compaction mid-session; picked up from fact-check step and completed all remaining steps
+  - verify-facts.py: initial run found 20 MISSING STORY consistency errors because files 02–05 used `## Story N:` headers (lowercase) instead of `### STORY N:` (uppercase). Fixed via sed before rerun; passed on second run.
+  - compile-content-data.py: Facebook posts initially returned 0 because file used `### Long-Form Post` headings — compile script expects `**Long-Form Post**` bold format. Fixed Facebook file to use dual-format headers.
+  - generate-postplanner-export.py: X posts initially 0 because file used `### Post 1-A` instead of `#### Text Post A — TIME MT`. Fixed X file headers. Facebook also needed `#### Long-Form Post — TIME MT` + code blocks for PostPlanner. Both formats now correct.
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4] (consistent with July 15 pattern; alternating from July 17)
+
+---
+
 ## Latest Run: July 17, 2026
 
 | Step | Status | Notes |

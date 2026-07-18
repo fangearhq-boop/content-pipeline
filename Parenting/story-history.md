@@ -2,6 +2,45 @@
 
 ---
 
+## July 18, 2026
+
+### Story 1: Target Cat & Jack Sandals Recall
+- **Content Pillar:** National Parenting (Product Safety)
+- **Angle:** NEW STORY — CPSC recall of approximately 211,000 pairs of Target Cat & Jack tan sandals, sizes 5T–12T, sold January–May 2026 at Target stores and target.com for ~$20. Hazard: decorative plastic pearls on straps can detach and pose choking hazard. 23 reports of pearls detaching, no injuries. Stop use immediately. Remedy: call Target at 800-591-3869 for full refund; no receipt needed. CPSC announcement July 16, 2026.
+- **Content Produced:** Article (Sarah Morales), 2 X posts, Facebook Long-Form + Caption, Image Concept
+- **Tier:** 1
+- **Key Facts:** 211,000 pairs; sizes 5T–12T; tan color; Pearl decorations; Jan–May 2026; Target stores + target.com; ~$20; 23 reports/0 injuries; call 800-591-3869; full refund; no receipt needed; CPSC announced July 16, 2026
+
+### Story 2: El Paso County Fair — Last Day Today
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Same-day urgency: 121st annual El Paso County Fair closes today (Saturday July 18) in Calhan, CO (~35 min east of Colorado Springs via Hwy 24). 25,000-visitor attendance goal. Events: full rodeo, auto races, demolition derbies, carnival rides, live entertainment, livestock shows. July 11–18, 2026 run dates. elpasocountyfair.com for schedule and admission details.
+- **Content Produced:** Article (Jamie Rivera), 2 X posts, Facebook Long-Form + Caption, Image Concept
+- **Tier:** 1
+- **Key Facts:** 121st annual; Calhan, CO; ~35 min from COS via Hwy 24; July 11–18, 2026; 25,000-visitor goal; rodeo, demo derbies, carnival rides, livestock shows; elpasocountyfair.com
+
+### Story 3: Pikes Peak or Bust Rodeo — Last Day Today
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — 89th annual Pikes Peak or Bust Rodeo final day at Norris Penrose Event Center (1045 Lower Gold Camp Rd). Two performances: matinee 12:30 PM, evening 7:30 PM; grounds open 10 AM. Rodeo tradition since 1937, benefits military families. Mutton-bustin' for young kids. First covered as full-week family guide on July 15; this is same-day last-chance urgency angle.
+- **Content Produced:** Article (Sarah Morales), 1 X post, Facebook Long-Form + Caption, Image Concept
+- **Tier:** 2
+- **Key Facts:** 89th annual; Norris Penrose Event Center; July 18, 2026 (final day); matinee 12:30 PM, evening 7:30 PM; grounds open 10 AM; since 1937; supports military families; mutton-bustin'; pikespeakorbust.org
+
+### Story 4: Colorado SUN Bucks — $120 Per Child Summer Grocery EBT
+- **Content Pillar:** Local News / Resources
+- **Angle:** NEW STORY — Colorado Summer EBT (SUN Bucks) gives one-time $120 per eligible school-age child on an EBT card usable at grocery stores and farmers markets. Most eligible kids auto-enrolled. Application deadline: August 25, 2026. Qualifies: children in schools with National School Lunch/Breakfast Program, family income up to 185% FPL (~$59,000 for family of 4). SNAP/TANF/Medicaid families auto-eligible. cdhs.colorado.gov/summer-ebt or 800-536-5298.
+- **Content Produced:** Article (Jamie Rivera), 1 X post, Facebook Long-Form + Caption, Image Concept
+- **Tier:** 2
+- **Key Facts:** $120 per child; one-time EBT load; grocery stores + farmers markets; most kids auto-enrolled; apply by Aug. 25, 2026; 185% FPL (~$59K family of 4); SNAP/TANF/Medicaid auto-eligible; cdhs.colorado.gov/summer-ebt; 800-536-5298
+
+### Story 5: Free Summer Meals for COS Kids
+- **Content Pillar:** Local News / Resources
+- **Angle:** NEW STORY — USDA Summer Food Service Program: D11 serving free meals to any child 18 and under in Colorado Springs this summer. No registration, no income verification, no district requirement — just show up. 600+ sites statewide; find nearest via KidsFoodFinder.org (enter ZIP). Program ends when schools resume: D49 Aug. 4, D11 Aug. 12, D20 Aug. 13.
+- **Content Produced:** Article (Sarah Morales), 1 X post, Facebook Long-Form + Caption, Image Concept
+- **Tier:** 2
+- **Key Facts:** USDA Summer Food Service Program; D11 operator; any child 18 and under; no registration/income check/district requirement; 600+ CO sites; KidsFoodFinder.org; D49 Aug. 4, D11 Aug. 12, D20 Aug. 13
+
+---
+
 ## July 17, 2026
 
 ### Story 1: TOMY Boon PIVOT Toddler Tower Recall
