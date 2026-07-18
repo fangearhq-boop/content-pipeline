@@ -1,0 +1,322 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-18",
+  "compiled_at": "2026-07-18T11:17:50.929778+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "LeBron Watch — Decision Expected \"Next Week,\" Fanatics Fest Non-Announcement",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "9:00 AM, 1:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "\"I won't hold you guys up too much longer.\"\n\nLeBron said it at Fanatics Fest. He still didn't announce. But sources say the decision comes NEXT WEEK.\n\nWarriors. 76ers. Cavaliers. Heat. The wait is almost over. 👑\n\n#LeBronJames #NBAFreeAgency",
+          "posting_time": "9:00 AM, 1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#LeBronJames",
+            "#NBAFreeAgency"
+          ],
+          "char_count": 240
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Rich Paul spoke to 27 teams.\n\nLeBron narrowed it to 4: Warriors, 76ers, Cavs, Heat.\n\nHe said \"won't hold you up much longer.\" Multiple sources: decision next week.\n\nThe NBA world holds its breath.\n\n#LeBron #NBAFreeAgency #NBA",
+          "posting_time": "9:00 AM, 1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#LeBron",
+            "#NBAFreeAgency",
+            "#NBA"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM, 1:00 PM"
+      },
+      "article": {
+        "filename": "article-01-lebron-decision-next-week.html",
+        "headline": "LeBron Said \"Won't Hold You Up Much Longer\" — Sources Say Decision Comes Next Week",
+        "word_count": 532
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (X + Facebook)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LeBron Watch — Decision Expected \"Next Week\"\n**Sources:**\n- HoopsHype (July 17): LeBron close to making free agency decision; sources say announcement expected next week\n- Yahoo Sports: LeBron at Fanatics Fest NYC July 16-17; said \"I won't hold you guys up too much longer\" but gave no announcement\n- OutKick/FoxNews: Called it the \"ultimate nothing-burger\"\n- Philadelphia Inquirer: Covered live podcast taping with Tyrese Haliburton (Mind the Game), July 16\n**Verified facts (HIGH confidence):**\n- LeBron James appeared at Fanatics Fest NYC July 16-17\n- He recorded a live episode of \"Mind the Game\" podcast with Tyrese Haliburton on July 16 at 1:15 PM ET\n- He confirmed leaving the Lakers and told them to move on\n- His agent Rich Paul spoke to 27 teams\n- He said publicly \"I want to compete at a high level. I want to join a franchise that shares the same values as myself.\"\n- Contenders: Golden State Warriors, Philadelphia 76ers, Cleveland Cavaliers, Miami Heat, New York Knicks, Boston Celtics\n- Multiple sources say decision expected \"next week\" (week of July 20)\n**MEDIUM confidence (single source):**\n- Warriors described as leading contender by multiple Western Conference execs (per HoopsHype July 14)\n- 76ers, Cavs, Heat remain in contention",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Summer League Semifinals Tonight — Lakers (4-0) vs. Warriors, Grizzlies vs. Rockets",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "4:00 PM, 7:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The Lakers are 4-0. Tonight they face the Warriors.\n\n🏀 6:30 PM ET: Grizzlies vs. Rockets\n🏀 8:30 PM ET: Lakers vs. Warriors\n\nBoth on Prime Video. Summer League semis are here.\n\n#NBA #SummerLeague #LakeShow",
+          "posting_time": "4:00 PM, 7:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA",
+            "#SummerLeague",
+            "#LakeShow"
+          ],
+          "char_count": 204
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Lakers (4-0) vs. Warriors in the Summer League semis tip off at 8:30 PM ET.\n\nOnly one moves on to Sunday's title game.\n\nThe rookies are playing for more than a trophy tonight. 👀\n\n#SummerLeague #NBA #LakeShow #DubNation",
+          "posting_time": "4:00 PM, 7:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#SummerLeague",
+            "#NBA",
+            "#LakeShow",
+            "#DubNation"
+          ],
+          "char_count": 218
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "4:00 PM, 7:00 PM"
+      },
+      "article": {
+        "filename": "article-02-summer-league-semifinals.html",
+        "headline": "Summer League Semifinals Tonight: Lakers (4-0) Face Warriors, Grizzlies Battle Rockets",
+        "word_count": 455
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (X + Facebook)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Summer League Semifinals Tonight\n**Sources:**\n- NBA.com Day 8 recap\n- Lakers Nation\n- Golden State of Mind\n**Verified facts (HIGH confidence):**\n- Lakers finished pool play 4-0 — only unbeaten team, No. 1 seed\n- Semifinals bracket: Grizzlies (#2) vs. Rockets (#3) at 6:30 PM ET; Lakers (#1) vs. Warriors (#4) at 8:30 PM ET\n- Both games on Prime Video, July 18\n- 6-team tiebreaker situation required point differential to determine seedings (Memphis +11.5, Houston +10.3, Golden State +6.3)\n- Warriors pushed through on LJ Cryer's performances\n- Cameron Carr led Lakers in Day 8 (Battle of LA)\n- SL Championship game Sunday July 19",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Kawhi Investigation Expands — Second Endorsement Deal Added, Trade Still Frozen",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "11:00 AM",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The Kawhi-to-Toronto trade now involves TWO undisclosed endorsement deals under investigation.\n\nRaptors still waiting. NBA still investigating. No timeline.\n\nThe most complicated trade in league history just got more complicated.\n\n#Raptors #NBA #KawhiLeonard",
+          "posting_time": "11:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#Raptors",
+            "#NBA",
+            "#KawhiLeonard"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM"
+      },
+      "article": {
+        "filename": "article-03-kawhi-investigation-second-deal.html",
+        "headline": "Kawhi Investigation Expands to Second Endorsement Deal — Trade to Toronto Still Frozen",
+        "word_count": 433
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Kawhi Trade Frozen\n**Sources:**\n- Yahoo Sports live free agency tracker\n- Previous pipeline reporting (July 13-17)\n**Verified facts (HIGH confidence):**\n- Trade agreed: Kawhi Leonard to Raptors for Brandon Ingram, Gradey Dick, 2031 + 2033 first-round picks, 2030 + 2033 second-round picks, 2027 first-round swap\n- Trade is ON HOLD pending NBA investigation into impermissible benefits\n- Investigation expanded to second previously undisclosed endorsement deal (HoopsHype July 14)\n- Former team exec Steve Sanberg convicted, sentenced to 14 years\n- Raptors declined to assume risk of any penalties\n- No timeline for investigation to conclude\n- Kawhi is 35 years old; Clippers did not offer him an extension",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Blockbuster Trades Now Official — Giannis to Miami, LaMelo to Minnesota, George to Boston",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "11:00 AM, 12:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The moratorium lifted. It's official.\n\n✅ Giannis → Heat\n✅ LaMelo → Wolves\n✅ Paul George → Celtics\n✅ Jaylen Brown → 76ers\n✅ Ja Morant → Blazers\n\nThis NBA offseason rewrote the league. 🤯\n\n#NBA #NBAFreeAgency",
+          "posting_time": "11:00 AM, 12:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA",
+            "#NBAFreeAgency"
+          ],
+          "char_count": 205
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM, 12:00 PM"
+      },
+      "article": {
+        "filename": "article-04-blockbuster-trades-official.html",
+        "headline": "It's Official: Giannis to Miami, LaMelo to Minnesota, George to Boston — The NBA's Offseason Is Complete",
+        "word_count": 402
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Blockbuster Trades Now Official\n**Sources:**\n- Yahoo Sports 2026 NBA offseason trade tracker\n- NBA.com\n**Verified facts (HIGH confidence — trades cleared moratorium July 17):**\n- Giannis Antetokounmpo → Miami Heat\n- LaMelo Ball → Minnesota Timberwolves (+ Josh Green for Naz Reid + picks)\n- Paul George → Boston Celtics\n- Jaylen Brown → Philadelphia 76ers\n- Ja Morant → Portland Trail Blazers (Jerami Grant + Kris Murray + $1M, no picks)\n- All trades now official as moratorium ended",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Harden Declines $42.3M Option — Restructuring With Cavs to Create LeBron Cap Space",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "1:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "James Harden turned down $42.3M.\n\nNot leaving Cleveland — restructuring to help the Cavs chase LeBron.\n\nThe decision is coming next week. The Cavs are ready.\n\n#Cavaliers #NBA #JamesHarden #LeBron",
+          "posting_time": "1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cavaliers",
+            "#NBA",
+            "#JamesHarden",
+            "#LeBron"
+          ],
+          "char_count": 195
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM"
+      },
+      "article": {
+        "filename": "article-05-harden-cavs-restructure.html",
+        "headline": "Harden Declines $42.3M Option — Restructuring With Cavaliers to Make Room for LeBron",
+        "word_count": 370
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Harden–Cavs Restructure\n**Sources:**\n- Yahoo Sports free agency tracker\n**Verified facts (HIGH confidence):**\n- James Harden declined $42.3M player option with Cleveland Cavaliers\n- Working with Cavs on new multi-year deal — NOT hitting free agency\n- Restructure purpose: give Cavs cap flexibility ahead of LeBron decision\n- Harden was Cleveland's backcourt anchor in 2025-26 season",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 9
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

@@ -4390,3 +4390,48 @@
 - **Status:** NEW
 - **Follow-up ideas:** Dybantsa training camp; Wizards roster build
 
+
+## 2026-07-18
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-18 | T1 | LeBron Watch — Decision Expected "Next Week," Fanatics Fest Non-Announcement | X, FB, Article | FOLLOW UP |
+| 2026-07-18 | T1 | Summer League Semifinals Tonight — Lakers (4-0) vs. Warriors, Grizzlies vs. Rockets | X, FB, Article | NEW |
+| 2026-07-18 | T2 | Kawhi Investigation Expands — Second Endorsement Deal, Trade Still Frozen | X, FB, Article | FOLLOW UP |
+| 2026-07-18 | T2 | Blockbuster Trades Now Official — Giannis, LaMelo, George, Brown, Ja | X, FB, Article | FOLLOW UP |
+| 2026-07-18 | T2 | Harden Declines $42.3M — Restructuring With Cavs to Create LeBron Cap Space | X, FB, Article | FOLLOW UP |
+
+### STORY 1: LeBron Watch — Decision Expected "Next Week"
+- **Tier:** 1
+- **Category:** NBA Free Agency / LeBron James
+- **Key facts:** Said "won't hold you up much longer" at Fanatics Fest NYC July 16-17; made no announcement; sources say decision expected week of July 20; final four: Warriors/76ers/Cavs/Heat; Rich Paul spoke to 27 teams; James left Lakers
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** LeBron signing announcement; press conference; jersey reveal
+
+### STORY 2: Summer League Semifinals
+- **Tier:** 1
+- **Category:** NBA Summer League
+- **Key facts:** Lakers 4-0 (No. 1 seed) vs Warriors (No. 4) at 8:30 PM ET; Grizzlies (No. 2) vs Rockets (No. 3) at 6:30 PM ET; both Prime Video; Cameron Carr led Lakers; LJ Cryer led Warriors; championship game Sunday July 19
+- **Status:** NEW
+- **Follow-up ideas:** Semifinal results; championship game Sunday; roster decisions
+
+### STORY 3: Kawhi Investigation — Second Endorsement Deal
+- **Tier:** 2
+- **Category:** NBA Investigation / Trades
+- **Key facts:** Second undisclosed endorsement deal added to investigation; Sanberg convicted 14 years; Raptors declined penalty risk; trade still frozen (Kawhi→Toronto for Ingram/Dick/picks); Kawhi 35; no timeline
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Investigation conclusion; trade approved or collapses; NBA ruling
+
+### STORY 4: Blockbuster Trades Official
+- **Tier:** 2
+- **Category:** NBA Transactions
+- **Key facts:** Giannis→Heat; LaMelo+Green→Wolves for Reid+picks; George→Celtics; Brown→76ers; Ja→Blazers (Grant+Murray+$1M, no picks); all official after moratorium ended
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Training camp storylines; new rosters in preseason
+
+### STORY 5: Harden–Cavs Restructure
+- **Tier:** 2
+- **Category:** NBA Contracts / Cap Management
+- **Key facts:** Harden declined $42.3M player option; working new multi-year deal; not leaving — cap maneuver for LeBron pursuit; Cavs assembled Mitchell/Harden/Mobley/Allen core
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Harden new deal announced; LeBron chooses Cavs or not
