@@ -5,6 +5,58 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-18
+
+### STORY 1: Twins 5, Cubs 2 — Game 1 Recap
+- **Angle:** NEW STORY — first coverage of July 17 game result (Twins won 5-2 at Wrigley; Colin Rea started for Cubs; Cubs fall to 54-43 to open second half; Matthew Boyd goes Saturday 1:20 PM CT)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, overnight recap / informative)
+- **Follow-Up Opportunities:**
+  - Today's Game 2 result (tomorrow's pipeline)
+  - Boyd performance today
+
+### STORY 2: Second-Half Stumble — Bold Take on the Loss
+- **Angle:** NEW STORY (bold take; losing at home to 49-49 Minnesota to open second half; Wild Card race won't pause; Cubs 54-43)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold / passionate)
+- **Follow-Up Opportunities:**
+  - Second-half record tracking as it develops
+  - Wild Card standings after today
+
+### STORY 3: Taillon Return Imminent — Two Scoreless Iowa Rehab Starts
+- **Angle:** FOLLOW UP (ongoing return arc; today's angle = return now described as "imminent" / "almost here" by multiple outlets; possibly Sunday Game 3 vs Twins or Tigers series July 20-22; two consecutive scoreless Iowa rehab starts confirmed)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, stat breakdown / informative)
+- **Follow-Up Opportunities:**
+  - Taillon activation and actual return start
+  - First game back in the Cubs rotation (Sunday Game 3 or Tigers series)
+
+### STORY 4: Trade Deadline — 16 Days, Pitching Is Priority
+- **Angle:** FOLLOW UP (ongoing deadline arc; today's angle = 16 days to August 3; Jed Hoyer confirmed pitching focus via Chicago Sun-Times July 17; broad multi-target overview: Chapman/Gray/Mize/Detmers linked)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, analysis / bold take)
+- **Follow-Up Opportunities:**
+  - Any trade announcement (August 3 deadline)
+  - Hoyer press conference or specific deal reporting
+
+### STORY 5: Game 2 Preview — Boyd vs. Bradley at Wrigley
+- **Angle:** NEW STORY (game 2 preview; Matthew Boyd vs. Taj Bradley; 1:20 PM CT at Wrigley; bounce-back framing after Friday loss; Boyd as rotation anchor angle)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview / hype)
+- **Follow-Up Opportunities:**
+  - Game 2 result (tomorrow's pipeline)
+  - Boyd pitching line
+
+### STORY 6: Owen Ayers Promoted to Triple-A Iowa
+- **Angle:** NEW STORY (promotion milestone; Ayers — No. 10 Cubs prospect, switch-hitting catcher — debuted at Triple-A Iowa after hitting 22 HRs at Double-A Knoxville; Jace Beck also promoted; one step from Wrigley)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, feature / prospect update)
+- **Follow-Up Opportunities:**
+  - Ayers Iowa performance / promotion watch to MLB
+  - Continued Iowa second-half season tracking
+
+---
+
 ## 2026-07-17
 
 ### STORY 1: Series Preview — Cubs vs Twins
