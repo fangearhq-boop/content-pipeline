@@ -5,6 +5,62 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-18
+
+### Story 1: Chase Burns Signs 7-Year, $105 Million Extension With the Reds
+- **Date:** 2026-07-18
+- **Tier:** 1
+- **Classification:** NEW STORY (historic extension announced this week)
+- **Angle:** Chase Burns, age 23, 2.54 ERA, 118 K in 18 starts, 2026 All-Star — signs 7yr/$105M extension with Cincinnati Reds, covering 2027-2033. $15M flat/year; no options, no deferrals. Largest extension ever for a pitcher with fewer than 4 years MLB service time. Reds officially out of sell mode; removes Burns from August 3 trade market.
+- **Content Produced:** Article (article-01, Jake Torres), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Burns' 2026 performance tracking through rest of season
+  - Reds' next moves at August 3 deadline (now buying or holding)
+
+### Story 2: Red Sox Win 11 Straight — From 14 Under .500 to Wild Card
+- **Date:** 2026-07-18
+- **Tier:** 1
+- **Classification:** NEW STORY (11-game win streak — franchise's longest since September 2016)
+- **Angle:** Red Sox swept Friday doubleheader vs. Rays (10-0 and 5-3) to extend win streak to 11 games. Record: 48-48; first at .500 since March 28. Went 16-2 since June 24 when they were 14 under .500. Now in AL's 3rd Wild Card spot ahead of Mariners and Twins. Interim manager Chad Tracy. Wilyer Abreu: 2 HR (Game 2). Jake Bennett: 6 IP (Game 1). Yoshida and Navarez also homered. Contreras back from 5-game suspension.
+- **Content Produced:** Article (article-02, Ryan Calloway), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Red Sox Wild Card tracking daily through August
+  - Chad Tracy managerial performance
+  - August 3 deadline: Red Sox now buyers or hold (not sellers)
+
+### Story 3: Dodgers 2, Yankees 1 — Muncy HR Off Cole's 103rd Pitch
+- **Date:** 2026-07-18
+- **Tier:** 2
+- **Classification:** NEW STORY (series opener at Yankee Stadium; first Dodgers-Yankees since 2024 World Series)
+- **Angle:** Max Muncy 2-run HR off Gerrit Cole's 103rd pitch in 7th inning. Cole: 6+ IP, 8 K, 1 BB, 4 H. Aaron Boone self-critical for leaving Cole in. Winning pitcher: Jack Dreyer; Save: Tanner Scott (14th). Roki Sasaki started for LA. Shohei Ohtani: DH, 0-for-4 (knee injection; expected to start on mound July 22 vs. Phillies). Aaron Judge still out (rib; best-case return August). Yankees fall to 54-43, 2.5 GB in AL East.
+- **Content Produced:** Article (article-03, Marcus Cole), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Dodgers-Yankees series Games 2 and 3
+  - Ohtani mound return July 22 vs. Phillies
+  - Aaron Judge rib injury / return timeline
+
+### Story 4: Tarik Skubal Trade Deadline — Tigers' Run Changes the Math
+- **Date:** 2026-07-18
+- **Tier:** 2
+- **Classification:** FOLLOW UP (updated angle: Skubal personal wish to stay + Tigers hot run)
+- **Angle:** Skubal has told people close to him he does not want to be traded; believes Tigers can win World Series. Tigers' strong run since June 1 has changed the calculus. NL executive: asking price "outrageous." Active suitors: Cubs, Braves, Rays. Skubal: 3.09 ERA, 0.95 WHIP, 89 K in 75.2 IP (13 starts). Missed time for elbow surgery (loose body removal). August 3 deadline 16 days away.
+- **Content Produced:** Article (article-04, Jake Torres), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Skubal trade/stay decision (daily through Aug 3)
+  - Tigers second-half standings tracking
+
+### Story 5: White Sox 51-45 — Colson Montgomery 6-RBI Game
+- **Date:** 2026-07-18
+- **Tier:** 2
+- **Classification:** FOLLOW UP (White Sox turnaround; Montgomery named power threat yesterday; 6-RBI game = next chapter)
+- **Angle:** White Sox beat Blue Jays 12-4 at Rogers Centre. Colson Montgomery: 2-for-4; bases-clearing double (3 RBI) in 5th; first career triple (3 RBI) in 7th. Sam Antonacci: 2-run HR. White Sox 51-45; 4-game win streak; leading AL Central. Historical context: 41-121 in 2024; 102 losses in 2025. Montgomery, Murakami, Miguel Vargas all on pace for 38+ HR — first time in franchise history three teammates reach that mark.
+- **Content Produced:** Article (article-05, Ryan Calloway), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - White Sox AL Central lead tracking
+  - Montgomery/Murakami/Vargas 38+ HR watch
+
+---
+
 ## 2026-07-17
 
 ### Story 1: Cristopher Sánchez Scoreless Streak Ends at 50⅔ Innings

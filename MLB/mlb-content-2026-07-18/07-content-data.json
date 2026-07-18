@@ -1,0 +1,152 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-18",
+  "compiled_at": "2026-07-18T10:38:27.511692+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Chase Burns Signs 7-Year, $105 Million Extension With the Reds",
+      "tier": 1,
+      "status": "",
+      "angle": "A team that was supposed to be selling just locked up their best pitcher through 2033. At 23 years old and a 2.54 ERA, Burns is being bet on before he's even fully proven at the big-league level. That bet is the story.",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-01-chase-burns-reds-105m-extension.html",
+        "headline": "Chase Burns Signs 7-Year, $105 Million Extension — the Reds Just Changed Everything",
+        "word_count": 558
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Chase Burns 7-Year, $105 Million Extension\n**Confirmed facts (HIGH confidence — multiple sources):**\n- Chase Burns, Cincinnati Reds, right-hander, age 23\n- Extension: 7 years, $105 million, covers 2027-2033\n- $15 million flat per year; no options, no deferrals\n- Largest extension ever given to a pitcher with fewer than 4 years of MLB service time\n- Burns 2026 stats: 2.54 ERA, 118 strikeouts, 37 walks, 18 starts; 2026 All-Star selection\n- Reds takes fully out of sell mode with this extension",
+        "sources": "- Sources: CBS Sports, Yahoo Sports, MLB Trade Rumors (multiple confirming outlets)\n**MEDIUM confidence:**\n- Burns' ERA has been consistent across his limited MLB service (2-3 years per context)\n- Extension announced during the week of July 14-18"
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Red Sox Win 11 Straight — From 14 Under .500 to a Wild Card Spot",
+      "tier": 1,
+      "status": "",
+      "angle": "The numbers defy easy explanation. The same roster that looked like sellers on June 24 is now a Wild Card team with the longest winning streak in baseball. Chad Tracy has his team believing something is real.",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-02-red-sox-11-game-win-streak-wild-card.html",
+        "headline": "Red Sox Win 11 Straight — From 14 Under .500 to the Wild Card Picture",
+        "word_count": 477
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Red Sox 11-Game Winning Streak\n**Confirmed facts (HIGH confidence — multiple sources):**\n- Red Sox swept Friday doubleheader vs. Tampa Bay Rays: Game 1: 10-0; Game 2: 5-3\n- Win streak: 11 consecutive games (as of July 17, 2026)\n- Franchise's longest winning streak since September 2016\n- Red Sox record after July 17: 48-48 (reached .500 for first time since March 28)\n- From 14 games under .500 on June 24 to .500 — went 16-2 over that stretch\n- Climbed into AL's 3rd Wild Card spot (ahead of Mariners and Twins)\n- Game 1 (10-0): Jake Bennett 6 sharp IP; Masataka Yoshida and Carlos Navarez homered\n- Game 2 (5-3): Wilyer Abreu homered twice; Willson Contreras hit first game back from 5-game suspension\n- Interim manager Chad Tracy\n- Red Sox were previously considered sellers heading to August 3 deadline; now buyers or standing pat",
+        "sources": "- Sources: Boston Globe, Yahoo Sports, MLB.com (multiple confirming)\n**MEDIUM confidence:**\n- Exact games back from Rays/Yankees in AL East standings (Rays 56-38 confirmed)"
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Dodgers 2, Yankees 1 — Muncy's Home Run Off Cole in the 7th",
+      "tier": 2,
+      "status": "",
+      "angle": "Gerrit Cole was the best pitcher on the field. He lost because his manager trusted one pitch too many. Aaron Boone owned it after the game. The Dodgers won the series opener of the first meeting since October.",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-03-dodgers-2-yankees-1-muncy-hr-cole.html",
+        "headline": "Max Muncy's Home Run Off Gerrit Cole's 103rd Pitch Gives Dodgers a 2-1 Win at Yankee Stadium",
+        "word_count": 496
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Dodgers 2, Yankees 1 (July 17)\n**Confirmed facts (HIGH confidence — multiple sources):**\n- Final: Dodgers 2, Yankees 1; Yankee Stadium; first Dodgers-Yankees meeting since 2024 World Series\n- Winning pitcher: Jack Dreyer; Save: Tanner Scott (14th of season)\n- Gerrit Cole: 6+ innings, 8 K, 1 BB, 4 H, 103 pitches\n- Max Muncy: 2-run home run into RF second deck, pitch 103, 7th inning off Gerrit Cole (decisive blow)\n- Aaron Boone criticized himself after the game for leaving Cole in to face Muncy\n- Shohei Ohtani: DH, 0-for-4; playing after knee lubricant injection during All-Star break\n- Ohtani expected to start on the mound July 22 vs. Phillies (knee management)\n- Roki Sasaki started for LA\n- Yankees fall to 54-43, 2.5 games back in AL East",
+        "sources": "- Sources: Yahoo Sports, Lethbridge Herald (AP), Dodgers Beat (multiple)\n**HIGH confidence:**\n- Aaron Judge still out (rib); minimal healing shown in All-Star break imaging; best-case return August"
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Tarik Skubal Says He Wants to Stay. The Tigers Are Starting to Listen.",
+      "tier": 2,
+      "status": "",
+      "angle": "Yesterday he was being traded. Today he might stay. The Tigers have played 99-win baseball for seven weeks and their best pitcher is begging to be part of whatever this is. The deadline picture just got genuinely complicated.",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-04-skubal-stays-tigers-turnaround-deadline.html",
+        "headline": "Skubal Wants to Stay. The Tigers Are Actually Listening Now.",
+        "word_count": 568
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Tarik Skubal Trade Update — Tigers' Run Changes Math\n**Confirmed facts (HIGH confidence — multiple sources):**\n- Skubal has told people close to him he does not want to be traded; believes Tigers can win the World Series\n- Tigers: 22-14 since June 1 (one source) / 19-12 since June 1 (second source) — HIGH confidence on strong run, specific record MEDIUM\n- NL executive described Tigers' asking price as \"outrageous\" (Bleacher Report)\n- Active confirmed suitors: Cubs, Braves, Rays (CBS Sports confirms as \"strongest suitors\")\n- Skubal 2026 stats: 3.09 ERA, 0.95 WHIP, 89 K in 13 starts, 75.2 IP; missed time for elbow surgery (loose body removal) early in season\n- August 3 deadline: 16 days away",
+        "sources": "- Sources: Bleacher Report, CBS Sports, MLB Trade Rumors, Heavy.com, Sportsnaut\n**MEDIUM confidence:**\n- Motor City Bengals headline \"Skubal all but confirmed staying\" — single-source; contradicted by other outlets still listing 85% trade probability\n- Tigers' exact record since June 1 (22-14 or 19-12); both numbers published by different outlets\n**LOW — do not use:**\n- Any specific contract extension proposal or dollar figure from Skubal/Tigers negotiations"
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "White Sox Win 12-4 — Montgomery Goes Off in AL Central Race",
+      "tier": 2,
+      "status": "",
+      "angle": "The Colson Montgomery game says something about who the White Sox are. You can't fake a 3-RBI bases-clearing double in the middle of a race that everyone said the White Sox had no business being in. They belong.",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-05-white-sox-51-45-montgomery-6rbi-game.html",
+        "headline": "Colson Montgomery's 6-RBI Game Highlights White Sox 12-4 Win Over Blue Jays",
+        "word_count": 477
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "White Sox 12-4 vs. Blue Jays / Colson Montgomery\n**Confirmed facts (HIGH confidence — multiple sources):**\n- Final: White Sox 12, Blue Jays 4 at Rogers Centre; July 17, 2026\n- Colson Montgomery: 2-for-4; bases-clearing double (3 RBI) in 5th inning; first career triple (3 RBI) in 7th inning — 6 RBI total\n- Sam Antonacci: 2-run homer capped 5-run 2nd inning\n- White Sox record after July 17: 51-45; 4-game win streak\n- White Sox leading AL Central\n- White Sox historical context: 41-121 in 2024 (most losses in 162-game history), 102 losses in 2025\n- Montgomery, Murakami, Miguel Vargas all on pace for 38+ HR this season\n- Trio on pace for 38+ HR = first time in franchise history three teammates reach that mark",
+        "sources": "- Source: paNOW (AP feed), Chicago Sports Wire, CBS Sports AL Central article\n**MEDIUM confidence:**\n- Montgomery's season home run total entering July 18 (exact number not confirmed, described as \"on pace for 38+\")\n- Exact Murakami first name (Japanese player referenced as \"Murakami\" in multiple sources)"
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 0,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No X/Twitter posts found",
+      "Story 1: No Facebook posts found",
+      "Story 1: No posting window specified",
+      "Story 2: No X/Twitter posts found",
+      "Story 2: No Facebook posts found",
+      "Story 2: No posting window specified",
+      "Story 3: No X/Twitter posts found",
+      "Story 3: No Facebook posts found",
+      "Story 3: No posting window specified",
+      "Story 4: No X/Twitter posts found",
+      "Story 4: No Facebook posts found",
+      "Story 4: No posting window specified",
+      "Story 5: No X/Twitter posts found",
+      "Story 5: No Facebook posts found",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
