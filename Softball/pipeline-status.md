@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-07-18
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch, 6 queries + 4 research agents), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations), FB posts (5 stories), image concepts (8 items), image manifest (10 items, not_started), articles (5), fact-check (103 claims HIGH), compile (5 stories, 6 tweets, 0 FB posts — format known, 5 articles, 21 items), dashboard (21 items), PostPlanner exports (6 posts standard + 6 TOBI). WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard publish push failed (proxy known restriction). IMAGE MISSING expected (not_started). 0 char violations. CORRECTION: July 17 pipeline had Chicago at 14-7 (incorrect — confirmed 13-7 from research). Cascade beat Utah 10-2 on July 16 not captured in July 17 pipeline.
+- **Key Stories**: AUSL No. 1 seed race/Utah 14-6 vs Chicago 13-7/Cascade run-ruled Utah 10-2 July 16/TODAY: Talons at Bandits 4PM ET ESPN2/No. 1 seed=bye to ABC Championship/regular season ends July 20 (Tier 1 FOLLOW UP), Texas Volts 7 Portland Cascade 2 (July 17)/Cascade drops to 11-10/locked into No. 3 seed/play-in July 23 Davis Diamond/NiJaree Canady mechanics work with Stanford coach Tori Nyberg (Tier 1 FOLLOW UP), PGF Nationals opens TOMORROW July 19/Great Park Irvine CA/72 teams 22 states 18U+16U Premier/ESPNU+ESPN+ championships/September 1 recruiting window 44 days (Tier 2 FOLLOW UP), Megan Grant play-in path/Cascade No. 3 seed/42 HR NCAA record/8 AUSL HR/313-ft debut HR AUSL distance record/combined 50 HR 2026/play-in July 23 win-or-go-home (Tier 2 FOLLOW UP), Davis Diamond Championship explainer/7 days out/play-in July 23/Championship July 25-27/Game 1 on ABC first pro softball network TV (Tier 3 EVERGREEN)
+
+## Last Run
 - **Date**: 2026-07-17
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch, multiple queries), brief (5 stories), research notes, story analysis, X posts (7; all under 280 chars), FB posts (5 stories), image concepts (7 items), image manifest (10 items, not_started), articles (5), fact-check (76 claims), compile (5 stories, 7 tweets, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts standard + 7 TOBI). WordPress 403 (proxy sandbox — known). Dashboard push 403 (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected — proxy known restriction).

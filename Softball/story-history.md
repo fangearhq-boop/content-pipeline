@@ -3,6 +3,65 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-07-18
+
+### Story 1: AUSL No. 1 Seed Race — Utah 14-6, Chicago 13-7, Playing TODAY
+- **Date:** 2026-07-18
+- **Tier:** 1
+- **Classification:** FOLLOW UP (standings race tracked since July 10; Cascade run-ruled Utah 10-2 on July 16 tightening gap; today's Talons-Bandits game is the race-defining moment)
+- **Angle:** Utah leads by 1 game entering the most important regular-season game in AUSL history. Cascade beat Utah 10-2 (run rule) on July 16 at Hillsboro Ballpark; Chicago beat Blaze 15-7 same night. Now it's Talons (14-6) vs Bandits (13-7), 4 PM ET ESPN2. A Utah win = 2-game cushion with 2 left, effectively clinches No. 1 seed. A Chicago win = tied with 2 to play. No. 1 seed = direct bye to ABC Championship; No. 2 must win play-in first. Regular season ends July 20.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Today's game result (Talons-Bandits July 18)
+  - Final 2 days of regular season (July 19-20)
+  - Final standings and seed assignments July 20
+
+### Story 2: Volts Top Cascade 7-2 — Play-In Fate Locked In
+- **Date:** 2026-07-18
+- **Tier:** 1
+- **Classification:** FOLLOW UP (NiJaree Canady pro struggles tracked all season; Volts at Cascade was Friday's key game)
+- **Angle:** Texas Volts defeated Portland Cascade 7-2 on July 17 at Hillsboro Ballpark. Cascade held to 4 hits. Cascade drops to 11-10, locked into No. 3 seed and play-in path (July 23, Davis Diamond). NiJaree Canady (No. 2 overall pick, 0-3 / 6.87 ERA early season, working with former Stanford coach Tori Nyberg on mechanics) — Volts and Cascade play again tonight.
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Tonight's Volts-Cascade rematch (July 18)
+  - Play-in game July 23 (Cascade vs. No. 2 seed)
+  - Canady updated stats after July 17-18 starts
+
+### Story 3: PGF Nationals Opens Tomorrow — 1 Day Out
+- **Date:** 2026-07-18
+- **Tier:** 2
+- **Classification:** FOLLOW UP (PGF Nationals tracked since June 30; tournament opens July 19 at Great Park, Irvine CA)
+- **Angle:** Tournament opens tomorrow. 72 teams, 22 states, 18U Premier. Championships on ESPNU (18U) and ESPN+ (16U). September 1 recruiting window = 44 days away. GA Impact Taylor, Mojo-Lewis, defending champion, Arizona Storm-Mendez among top contenders.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - PGF pool play results July 19-20
+  - Top 18U/16U performances — commitment watch
+  - September 1 recruiting window coverage
+
+### Story 4: Cascade Locked In — Megan Grant and the Play-In Path
+- **Date:** 2026-07-18
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Grant/Cascade tracked since season open; play-in fate now confirmed)
+- **Angle:** After July 17 loss to Volts, Cascade is locked into No. 3 seed and play-in on July 23 at Davis Diamond. Megan Grant: 42 HR NCAA record at UCLA (broke Laura Espinoza's 37 HR from 1995), leads AUSL with 8 HR in ~20 games, 313-ft debut HR AUSL distance record, combined 50 HR in 2026 (college + AUSL). Play-in = win-or-go-home single elimination vs. No. 2 seed.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Play-in game July 23 result
+  - Grant performance in play-in
+  - Championship path if Cascade advances
+
+### Story 5: 7 Days to Davis Diamond — AUSL Championship Explainer
+- **Date:** 2026-07-18
+- **Tier:** 3
+- **Classification:** PREVIEW/EVERGREEN (Championship format; venue context for new AUSL fans)
+- **Angle:** 7 days to AUSL Championship at Davis Diamond, Texas A&M, College Station TX. Format: No. 1 seed → direct bye to Championship Series (July 25-27); No. 2 vs No. 3 in play-in July 23. Game 1 on ABC = first pro softball on network TV. Davis Diamond: 5,000 capacity, premier facility on Texas A&M campus.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Championship Series coverage July 25-27
+  - ABC viewership and broadcast angle
+  - Post-Championship season recap
+
+---
+
 ## 2026-07-16
 
 ### Story 1: ESPYs Aftermath — Garrett Wins, Softball Gains
