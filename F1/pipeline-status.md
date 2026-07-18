@@ -1,10 +1,21 @@
 # F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
-- **Date**: 2026-07-17
+- **Date**: 2026-07-18
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-18
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole)
+- **PostPlanner exports:** f1fr-postplanner-2026-07-18.xlsx (7 posts) + f1fr-postplanner-tobi-2026-07-18.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-07-18/review-dashboard.html (22 items)
+- **Notes:** BELGIAN GP QUALIFYING DAY — Norris pole 1:40.562 (McLaren 1-2 Piastri P2); Norris 10-place penalty (4th electronics unit)/Piastri effective P1; Leclerc P3/Verstappen P4/Albon P5 (Williams)/Russell P6; SHOCK: Antonelli (champ leader) Q1 eliminated 2nd straight day; Hamilton Q1 lap deleted track limits at Raidillon/"unacceptable"; Verstappen wins sprint/exit clause now active/manager says no rush/Vermeulen "wants to finish with Red Bull"; Gasly FP2 crash (rear wing failure)/Bortoleto Q3 Sauber/Hadjar 20-place penalty; Albon P5 Williams standout
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-17
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

@@ -4174,3 +4174,48 @@
 - **Status:** NEW
 - **Follow-up ideas:** Belgian GP result for Bortoleto; Audi season update; development plan
 
+
+## 2026-07-18
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-18 | T1 | Belgian GP Qualifying — Norris Pole, Grid Penalties Reshuffle Sunday Grid | X, FB, Article | NEW |
+| 2026-07-18 | T1 | Hamilton Q1 Exit — Lap Deleted at Raidillon, Calls It "Unacceptable" | X, FB, Article | NEW |
+| 2026-07-18 | T2 | Verstappen Wins Sprint, Exit Clause Active — Manager Says No Rush | X, FB, Article | FOLLOW UP |
+| 2026-07-18 | T2 | Antonelli Q1 Nightmare — Championship Lead Suddenly Fragile | X, FB, Article | NEW |
+| 2026-07-18 | T2 | Spa Weekend Drama — Gasly Crash, Track Limits Chaos, Albon P5 | X, FB, Article | NEW |
+
+### STORY 1: Belgian GP Qualifying — Norris Pole, Grid Penalties
+- **Tier:** 1
+- **Category:** F1 Qualifying / Belgian Grand Prix
+- **Key facts:** Norris pole 1:40.562 (4th pole of season); Piastri P2 (-0.085s); Leclerc P3; Verstappen P4; Albon P5 (Williams); Russell P6; Norris 10-place penalty (4th electronics unit); Hadjar 20-place penalty; qualifying dry; Antonelli + Hamilton both Q1 eliminations
+- **Status:** NEW
+- **Follow-up ideas:** Belgian GP race result; Norris recovery drive from midfield
+
+### STORY 2: Hamilton Q1 Exit — Track Limits at Raidillon
+- **Tier:** 1
+- **Category:** F1 / Belgian Grand Prix / Lewis Hamilton
+- **Key facts:** Hamilton lap deleted for track limits at Eau Rouge/Raidillon; dropped to P16/Q1 out; called it "unacceptable"; P7 FP1 / P10 FP2 pace before qualifying; starts near back Sunday; 32pts behind Antonelli
+- **Status:** NEW
+- **Follow-up ideas:** Race result from back of grid; Hamilton championship math
+
+### STORY 3: Verstappen Sprint Win + Exit Clause Active
+- **Tier:** 2
+- **Category:** F1 / Verstappen Future / Belgian Grand Prix
+- **Key facts:** Verstappen won sprint (passed Piastri Lap 1, ahead of Piastri+Norris); exit clause mathematically active; manager Vermeulen: "doesn't mean we'll activate it"; Verstappen: "if there was something new I would say it myself"; signed Belgian McLaren junior Dries van Langendonck to his junior program
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Verstappen official decision on Red Bull future; McLaren confirmation
+
+### STORY 4: Antonelli Q1 Nightmare
+- **Tier:** 2
+- **Category:** F1 Championship / Kimi Antonelli / Belgian Grand Prix
+- **Key facts:** Championship leader (179pts) eliminated Q1 twice in 2 days (sprint shootout + main qualifying); topped FP2 (1:45.944); starts deep Sunday; 25pt lead over Russell; Russell P6 qualifying
+- **Status:** NEW
+- **Follow-up ideas:** Race result for Antonelli from back; championship gap changes
+
+### STORY 5: Spa Weekend Drama
+- **Tier:** 2
+- **Category:** F1 Incidents / Belgian Grand Prix
+- **Key facts:** Gasly heavy FP2 crash (rear wing failure, Les Fagnes, red flag, rear wing ripped off); track limits Raidillon caused Leclerc FP2 deletion + Hamilton Q1 deletion; Albon P5 (Williams); Bortoleto P10 (Sauber Q3); Ocon fined late arrival; Hadjar 20-place penalty
+- **Status:** NEW
+- **Follow-up ideas:** Belgian GP race result; Gasly injury update

@@ -1,0 +1,318 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-18",
+  "compiled_at": "2026-07-18T11:24:01.927978+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Belgian GP Qualifying — Norris Takes Pole, But Grid Penalties Reshuffle the Field",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM ET, 10:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "NORRIS ON POLE AT SPA. 🔥\n\nBut then he gets a 10-place grid penalty for a 4th electronics unit.\n\nSo Piastri effectively starts P1 for Sunday's Belgian GP.\n\nMcLaren are everywhere but so are the penalties. 😅\n\n#F1 #BelgianGP #McLaren",
+          "posting_time": "8:00 AM ET, 10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BelgianGP",
+            "#McLaren"
+          ],
+          "char_count": 230
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Belgian GP Qualifying Order for Sunday:\n\n🟠 Piastri (Norris penalty)\n🔴 Leclerc P3\n🔵 Verstappen P4\n🔵 Albon P5\n⬛ Russell P6\n\nAntonelli and Hamilton both OUT in Q1. 😳\n\nChampionship reshuffle incoming. #F1 #BelgianGP",
+          "posting_time": "8:00 AM ET, 10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BelgianGP"
+          ],
+          "char_count": 211
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET, 10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-norris-pole-grid-penalties-belgian-gp.html",
+        "headline": "Norris Claims Belgian GP Pole — Then Loses It to a 10-Place Penalty",
+        "word_count": 451
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (X + Facebook)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Belgian GP Qualifying — Norris Pole, McLaren 1-2, Grid Penalties\n**Sources:** Sky Sports, ESPN, Formula1.com (official results), GPBlog\n**Verified facts (HIGH confidence):**\n- Norris pole: 1:40.562 — fourth pole of 2026 season\n- McLaren 1-2: Piastri P2, 0.085s behind Norris\n- Full Q3 grid: 1. Norris, 2. Piastri, 3. Leclerc, 4. Verstappen, 5. Albon (Williams), 6. Russell, 7. Tsunoda, 8. Hadjar, 9. Lawson, 10. Bortoleto (Sauber)\n- Norris penalty: 10-place grid drop (4th control electronics unit, over permitted allocation per F1 regulations) — starts no higher than 11th\n- Hadjar penalty: 20-place grid drop for power unit components — starts at back\n- Piastri effectively inherits front of grid after Norris penalty\n- Both Antonelli AND Hamilton eliminated in Q1 — biggest shock of the session\n**MEDIUM confidence (confirmed from multiple outlets but not direct F1 official access):**\n- Qualifying ran predominantly dry; 65% rain forecast did not materialize; ~23°C, partly cloudy",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Hamilton Q1 Shock — Lap Deleted for Track Limits at Raidillon, Calls It \"Unacceptable\"",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Lewis Hamilton had the lap. Track limits at Eau Rouge/Raidillon deleted it.\n\nDropped from Q2 contention to P16. Out in Q1.\n\nHe called it \"unacceptable.\"\n\nYep. #F1 #BelgianGP #LH44",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BelgianGP",
+            "#LH44"
+          ],
+          "char_count": 179
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Hamilton: P7 in FP1. P10 in FP2. Competitive all weekend.\n\nThen one track limits violation ruins qualifying.\n\nOut in Q1. Starting near the back on Sunday.\n\nSpa has been brutal to the Ferrari No. 44. #F1 #BelgianGP",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BelgianGP"
+          ],
+          "char_count": 213
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-hamilton-q1-exit-track-limits-unacceptable.html",
+        "headline": "Hamilton Calls Belgian GP Qualifying \"Unacceptable\" After Track Limits Delete His Q1 Lap",
+        "word_count": 480
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Hamilton Q1 Exit — Lap Deleted at Raidillon\n**Sources:** ESPN, GPFans\n**Verified facts (HIGH confidence):**\n- Hamilton had a lap time good enough to advance Q1\n- That lap was deleted for exceeding track limits at Eau Rouge/Raidillon\n- Deletion dropped him to 16th, out in Q1\n- Hamilton quote: called it \"unacceptable\"\n- Hamilton had been competitive in practice: P7 in FP1, P10 in FP2 (one source says P2 FP1, P4 FP2 — need to cross-check; FP1 results from July 17 pipeline: Hamilton P7; FP2: Hamilton P10)\n**Note:** Practice position discrepancy — 07-17 pipeline notes Hamilton P7 FP1 / P10 FP2. Some sources reference different positions. Use pipeline-confirmed data: FP1 P7, FP2 P10. Track limits point is confirmed from multiple sources.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Verstappen Wins Sprint, Exit Clause Active — Manager Says No Rush",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "12:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Verstappen wins the Belgian GP sprint. 🏆\n\nHis exit clause from Red Bull is now mathematically active.\n\nHis manager's response: \"We haven't activated it before, and that doesn't mean we will now.\"\n\nThe question isn't if. It's when. #F1 #Verstappen #BelgianGP",
+          "posting_time": "12:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Verstappen",
+            "#BelgianGP"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-verstappen-sprint-win-exit-clause-no-rush.html",
+        "headline": "Verstappen Wins the Sprint — And His Red Bull Exit Clause Is Now Active. But His Manager Says \"No Rush.\"",
+        "word_count": 485
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen Sprint Win + Exit Clause\n**Sources:** GPFans (manager statement), Motorsport.com (Verstappen press conference), ESPN (sprint result), Crash.net (exit clause confirmation)\n**Verified facts (HIGH confidence):**\n- Verstappen won the Belgian GP sprint race\n- He passed Piastri on Lap 1 and held on ahead of Piastri P2, Norris P3\n- Exit clause now mathematically active (outside top 2 in championship — Antonelli P1, Russell P2)\n- Manager Raymond Vermeulen quote: \"Max wants to finish his time with Red Bull. He has a contract until 2028 and would like to fulfil it. The fact that this clause exists doesn't mean we'll activate it. We could have activated it in recent years as well, and we haven't.\"\n- Verstappen press conference: \"I don't want to go say yes and no, and this and that about my future. I said already many times that if there was something new, I would say it myself.\" \"Everything falls into place naturally in time.\"\n- Championship standings: Antonelli 179, Russell 154, Hamilton 147",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Antonelli's Q1 Nightmare — Championship Leader Fails Qualifying Again",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Kimi Antonelli leads the F1 championship by 25 points.\n\nHe topped FP2 at Spa with the fastest time.\n\nThen he was knocked out in Q1. TWICE. (Sprint shootout Friday, qualifying Saturday.)\n\nThe championship leader starts near the back Sunday. 😬 #F1 #BelgianGP",
+          "posting_time": "12:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BelgianGP"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-antonelli-q1-championship-lead-fragile.html",
+        "headline": "Championship Leader Antonelli Eliminated in Q1 — Again. His 25-Point Lead Just Got Complicated.",
+        "word_count": 433
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli Q1 Shock\n**Sources:** Sky Sports (title prospects analysis), GPFans\n**Verified facts (HIGH confidence):**\n- Antonelli eliminated Q1 in Belgian GP qualifying\n- Also eliminated in sprint shootout Q1 on Friday\n- Had topped FP2 on Friday (1:45.944)\n- Championship leader with 179 points, 25 points ahead of Russell\n- Starts deep in grid for Sunday's race\n- The Race: Russell analysis shows Mercedes qualifying setup exposing differences between the two drivers",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Gasly Crash in FP2, Track Limits Controversy — Spa Weekend Full of Drama",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "2:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Belgian GP weekend chaos scorecard:\n\n💥 Gasly: rear wing failure in FP2, big crash\n🚫 Hamilton: Q1 lap deleted, starts near back\n🚫 Antonelli: Q1 again\n🏆 Albon (Williams): P5 in qualifying!\n🏆 Bortoleto (Sauber): made Q3\n\nSpa always delivers. #F1 #BelgianGP",
+          "posting_time": "2:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BelgianGP"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "2:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-spa-weekend-drama-gasly-crash-albon-stars.html",
+        "headline": "Gasly Crash, Track Limits Chaos, Albon Stars: Spa's Belgian GP Weekend Was Never Going to Be Quiet",
+        "word_count": 527
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Gasly Crash + Weekend Drama\n**Sources:** GPBlog (crash), Alpine F1 official statement (crash update), Yahoo Sports (Ocon fine)\n**Verified facts (HIGH confidence):**\n- Gasly had heavy crash in FP2 at Les Fagnes (rear wing failure, snap of oversteer, through gravel, heavy barrier contact, rear wing ripped off)\n- Alpine confirmed rear wing failure as cause; red flag triggered; car extensively damaged\n- Track limits at Eau Rouge/Raidillon affected multiple sessions: Leclerc lap deleted FP2; Hamilton lap deleted qualifying\n- Albon P5 for Williams in Q3\n- Bortoleto P10 (Sauber into Q3)\n- Ocon fined for late arrival at FIA press conference\n- Hulkenberg and Sainz under investigation (no confirmed outcome in search results)\n- Hadjar 20-place grid penalty (power unit components)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 9
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
