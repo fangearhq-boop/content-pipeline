@@ -1,5 +1,44 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: July 19, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | World Cup Final watch party Weidner Field (Switchbacks FC; Spain vs Argentina; 12:30 PM MT; FREE, no tickets; Jumbotron; Phil Long Club + pitch; cornhole/lawn games; concessions); Button battery toy recalls (Oitnlaughter LED finger lights 36-pack Delightmi Amazon Jul 2025–Apr 2026 ~$14; Bmrwtg LED tutu skirts Amazon; CPSC multiple 2026 recalls; button cell batteries accessible; internal burns + death; 800-498-8666); Back-to-school 2026 (D49 Aug 3 K/6/9 + Aug 4 all; D11 Aug 12 + Edukit free supply kits 14,000+ K-8 students delivered first day; D20 Aug 13; D11 enrollment d11.org or 1033 N. Franklin St. M-F 8 AM–4 PM; D11 Monday late starts); Wade Logan Annyka 9-Drawer Fabric Dresser recall (Wayfair Sept 2023–May 2026 ~$98; tip-over + entrapment; STURDY Act violation; annykarecall@yeah.net + disposal photo for refund); Cheyenne Mountain Zoo 100th anniversary (USA TODAY No. 2 Best Zoo; daily 9 AM–5 PM last admission 4 PM; peak adults $34.75/kids 3–11 $29.75; advance timed tickets; cmzoo.org; Spencer Penrose founded 1926) |
+| Story History Check | COMPLETE | All 5 stories NEW — no overlap with July 18 |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); ### STORY N: format |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; all facts from web search |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (S1:2, S2:2, S3:1, S4:1, S5:1); code blocks; all ≤280 chars; 4 hashtags each; times in MT |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; **bold** format headers for compile compatibility; engagement questions; NO hashtags; COS voice |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts; 1200×675 (X) and 1200×630 (FB/article hero); clean bottom third; no celebrity likenesses; no brand logos |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 5 stories × 3 image types; all not_started; gemini base_only; kAHCKfCZgk0 brand kit |
+| Articles | COMPLETE | 5 articles (500–800 words; semantic HTML5; What's Next sections; 0 exclamation marks; no figure tags); bylines: Sarah Morales (A1, A3, A5), Jamie Rivera (A2, A4) |
+| Fact-Check | COMPLETE | verify-facts.py passed; 78 claims; HIGH: 127, MEDIUM: 45, LOW: 40; all 5 stories present in all content files; image not_started warnings cosmetic (expected for gemini source) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles; 27 dashboard items |
+| Dashboard | COMPLETE | review-dashboard.html — 27 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-07-19.xlsx (7 posts 13:15–20:45 MT) + TOBI cosp-postplanner-tobi-2026-07-19.xlsx (7 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — WP credentials not configured in environment | Same environment restriction as all prior runs |
+
+### 2026-07-19 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB long-form + 5 FB captions = 17 total posts (PostPlanner xlsx: 7 posts 13:15–20:45 MT, 7 TOBI)
+- **Articles:** 5 (bylines: Sarah Morales [A1, A3, A5], Jamie Rivera [A2, A4])
+- **PostPlanner exports:** cosp-postplanner-2026-07-19.xlsx (7 posts, 13:15–20:45 MT), cosp-postplanner-tobi-2026-07-19.xlsx (7 TOBI posts)
+- **Coverage:** World Cup Final watch party Weidner Field (Switchbacks FC; July 19 12:30 PM MT; FREE, no tickets; Spain vs Argentina; Jumbotron + Phil Long Club + pitch; cornhole/lawn games; concessions); Button battery toy recalls (Oitnlaughter LED finger lights 36-pack Delightmi Amazon Jul 2025–Apr 2026 ~$14 + Bmrwtg LED tutu skirts + CPSC multiple 2026 recalls; button cell batteries accessible; internal burns + death; 800-498-8666; cpsc.gov); Back-to-school 2026 COS (D49 Aug 3 K/6/9 + Aug 4 all; D11 Aug 12 + Edukit free supply kits 14,000+ K-8 students delivered first day; D20 Aug 13; D11 enrollment d11.org or 1033 N. Franklin St.); Wade Logan Annyka 9-Drawer Fabric Dresser recall (Wayfair Sept 2023–May 2026 ~$98; tip-over + entrapment; STURDY Act violation; annykarecall@yeah.net + disposal photo); Cheyenne Mountain Zoo 100th anniversary (USA TODAY No. 2 Best Zoo; 9 AM–5 PM daily; peak adults $34.75/kids 3–11 $29.75; advance timed tickets; cmzoo.org)
+- **Notes:**
+  - Ran as Niche 2 in sequence after Tennis niche (session resumed from context compaction)
+  - Session picked up mid-pipeline — all metadata files (00–07) were already complete at context compaction; resumed by writing 5 articles then running all scripts
+  - verify-facts.py: all 5 stories present in all content files; image not_started warnings cosmetic (expected for gemini source — same as all prior Parenting runs)
+  - compile-content-data.py: FB posts: 5 ✓ (bold format headers used correctly throughout)
+  - WordPress: WP credentials not configured in environment (different error from prior proxy error)
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4] (same rotation as July 18)
+
+---
+
 ## Latest Run: July 18, 2026
 
 | Step | Status | Notes |

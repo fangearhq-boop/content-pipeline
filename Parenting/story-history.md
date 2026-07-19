@@ -2,6 +2,45 @@
 
 ---
 
+## July 19, 2026
+
+### Story 1: World Cup Final Watch Party at Weidner Field
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Colorado Springs Switchbacks hosting a free public watch party at Weidner Field for the 2026 FIFA World Cup Final: Spain vs. Argentina. Kickoff 12:30 PM MT. FREE, open to all, no tickets/reservations. Watch on Jumbotron from Phil Long Club or on the pitch itself. Cornhole, lawn games, concessions for purchase.
+- **Content Produced:** Article (Sarah Morales), 2 X posts, Facebook Long-Form + Caption, Image Concept
+- **Tier:** 1
+- **Key Facts:** Weidner Field, 111 W. Cimarron St.; July 19, 2026 (today); 12:30 PM MT kickoff; FREE, no tickets; Spain vs. Argentina; Phil Long Club + pitch viewing; Jumbotron; cornhole + lawn games; concessions available; hosted by Colorado Springs Switchbacks FC
+
+### Story 2: Button Battery Toy Recalls 2026
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC has issued multiple recalls in 2026 for children's toys with accessible button cell batteries. Key products: Oitnlaughter LED Finger Lights (36-pack, Amazon, Delightmi seller, July 2025–Apr 2026, ~$14; contact Delightmi for full refund + disposal photo) and LED Light-Up Tutu Skirts (Bmrwtg seller, Amazon). Swallowing a button cell battery causes internal chemical burns and can be fatal. National Battery Ingestion Hotline: 800-498-8666.
+- **Content Produced:** Article (Jamie Rivera), 2 X posts, Facebook Long-Form + Caption, Image Concept
+- **Tier:** 1
+- **Key Facts:** CPSC; Oitnlaughter brand; 36-pack LED finger lights; Delightmi (Amazon seller); July 2025–Apr 2026; ~$14; Bmrwtg LED tutu skirts; button/coin cell batteries accessible to children; internal chemical burns + death if swallowed; contact Delightmi for refund; 800-498-8666 National Battery Ingestion Hotline; cpsc.gov
+
+### Story 3: Back to School 2026 — COS District Date Guide
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — COS back-to-school 2026 dates: D49 Aug. 3 (K/6th/9th graders) + Aug. 4 (all students); D11 Aug. 12 (D11 partnering with Edukit for free grade-specific supply kits for 14,000+ K-8 students, delivered first day); D20 Aug. 13. D11 enrollment at d11.org or 1033 N. Franklin St. M-F 8 AM–4 PM MT. D11 has Monday late starts.
+- **Content Produced:** Article (Sarah Morales), 1 X post, Facebook Long-Form + Caption, Image Concept
+- **Tier:** 2
+- **Key Facts:** D49 Aug. 3 (K/6/9)/Aug. 4 (all); D11 Aug. 12; D20 Aug. 13; D11 Edukit free supply kits 14,000+ K-8 students delivered first day; D11 enrollment d11.org or 1033 N. Franklin St. M-F 8 AM–4 PM; D11 Monday late starts; d49.org; asd20.org
+
+### Story 4: Wade Logan Annyka 9-Drawer Fabric Dresser Recall
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recalled Wade Logan Annyka 9-Drawer Fabric Dresser due to tip-over and entrapment hazard (violates STURDY Act mandatory standard). Sold on Wayfair September 2023–May 2026, ~$98, black/brown/gray/white, 9 fabric drawers. Stop use if unanchored; move away from children. Email annykarecall@yeah.net with disposal photo for refund. Importer: Ningbo Jiangdong Peter International Trading.
+- **Content Produced:** Article (Jamie Rivera), 1 X post, Facebook Long-Form + Caption, Image Concept
+- **Tier:** 2
+- **Key Facts:** Wade Logan Annyka 9-Drawer Fabric Dresser; Wayfair; Sept 2023–May 2026; ~$98; black/brown/gray/white; tip-over + entrapment hazard; STURDY Act violation; importer Ningbo Jiangdong Peter International Trading; annykarecall@yeah.net + disposal photo for refund; cpsc.gov
+
+### Story 5: Cheyenne Mountain Zoo Turns 100 This Year
+- **Content Pillar:** Local Events / Evergreen
+- **Angle:** NEW STORY — Cheyenne Mountain Zoo celebrates 100th anniversary in 2026 and ranked No. 2 Best Zoo in the US by USA TODAY 10Best Readers' Choice Awards. Open daily 9 AM–5 PM (last admission 4 PM). Peak pricing (Fri/Sat/Sun late May–September): adults $34.75, children 3–11 $29.75, under 2 free. Advance timed tickets required (members too). cmzoo.org. Opened 1926, founded by Spencer Penrose.
+- **Content Produced:** Article (Sarah Morales), 1 X post, Facebook Long-Form + Caption, Image Concept
+- **Tier:** 2
+- **Key Facts:** Cheyenne Mountain Zoo; 100th anniversary 2026; No. 2 Best Zoo USA TODAY 10Best; 9 AM–5 PM daily (last admission 4 PM); adults $34.75/children 3–11 $29.75/under 2 free (peak pricing Fri/Sat/Sun late May–September); advance timed tickets required (members too); cmzoo.org; opened 1926 Spencer Penrose; giraffe herd (reticulated, one of world's largest); grizzlies swim; African penguins walk-through; The Loft; antique carousel; sky ride; Grizzly Grill; Starlight Safaris
+
+---
+
 ## July 18, 2026
 
 ### Story 1: Target Cat & Jack Sandals Recall
