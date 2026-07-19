@@ -1,10 +1,21 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
-- **Date**: 2026-07-18
+- **Date**: 2026-07-19
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-19
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** gfr-postplanner-2026-07-19.xlsx (7 posts) + gfr-postplanner-tobi-2026-07-19.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-07-19/review-dashboard.html (22 items)
+- **Notes:** OPEN CHAMPIONSHIP R4 FINAL DAY — Sam Burns leads at -10 (2 shots clear); daughter Belle born 2 days before tournament; Burns shot 62 R2 + 65 R3 = lowest two consecutive rounds in men's major history; Fox/Kim -8; Herbert -7; DeChambeau -6; Fleetwood -5 (hometown Southport, father caddying); McIlroy -2 (ripped DeChambeau publicly: "not particularly fond... performative... for attention"); DeChambeau received Rule 8.1a penalty R2 (stepped on fescue near ball, improved swing area, -7 to -5); Ryan Fox shot 62 R3 (8th ever in a major, 3rd at this Open — first time 3 players shot 62 at same major); LIV funding: Saudi PIF ending backing after 2026, 4 events remain, 2027 "still up in the air"; $17.5M purse total; Scheffler several back
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-18
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

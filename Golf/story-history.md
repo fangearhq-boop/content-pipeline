@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-07-19
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-19 | T1 | Burns Leads 154th Open at -10 — Final Round, Daughter Born Days Ago | X, FB, Article | FOLLOW UP |
+| 2026-07-19 | T1 | Ryan Fox Shoots Historic 62 in R3 — 8th Player Ever in a Major, 3rd at This Open | X, FB, Article | NEW |
+| 2026-07-19 | T2 | McIlroy Rips DeChambeau: "Performative... For Attention" After R2 Penalty | X, FB, Article | NEW |
+| 2026-07-19 | T2 | Fleetwood Hometown Hope — Southport Native Six Miles from Birkdale, Father Caddying | X, FB, Article | FOLLOW UP |
+| 2026-07-19 | T2 | LIV Golf Funding Crisis — Saudi PIF Ending Backing After 2026, Future Uncertain | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Burns Leads 154th Open at -10 — Final Round
+- **Tier:** 1
+- **Category:** The Open Championship / Round 4 Preview
+- **Key facts:** Sam Burns -10, two shots clear; Fox and Si Woo Kim -8; Lucas Herbert -7; DeChambeau -6; Fleetwood -5; Burns shot 62 in R2 and 65 in R3 — lowest two consecutive rounds in men's major history; daughter Belle born 2 days before tournament; $17.5M purse; Scheffler several shots back
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R4 final result and Claret Jug winner; Burns first major narrative; Fox New Zealand angle
+
+### STORY 2: Ryan Fox Shoots Historic 62 in R3
+- **Tier:** 1
+- **Category:** The Open Championship / Ryan Fox
+- **Key facts:** Fox 8th player ever to shoot 62 in a men's major; 3rd player to shoot 62 at this Open (Herbert R2, Burns R2, Fox R3); first Open with three 62s in history; Fox started R3 at even par, finished at -8 tied for second; birdies on 13, 14, and two of final three holes; front nine 5-under; DP World Tour player, New Zealand
+- **Status:** NEW
+- **Follow-up ideas:** Whether Fox wins Sunday; first New Zealand Open winner in modern era angle
+
+### STORY 3: McIlroy Rips DeChambeau
+- **Tier:** 2
+- **Category:** The Open Championship / Player Controversy
+- **Key facts:** McIlroy at -2, out of contention; DeChambeau received two-stroke penalty under Rule 8.1a (stepped on fescue near ball, improved swing area at hole 5 R2); R&A chief referee Grant Moir confirmed ruling; McIlroy quotes: "not particularly fond of him... performative... for attention... hold the tournament hostage"; DeChambeau shot 69 R3 and entered R4 at -6 in contention; PGA Tour/LIV divide backdrop
+- **Status:** NEW
+- **Follow-up ideas:** Whether DeChambeau responds publicly; whether he wins Sunday
+
+### STORY 4: Fleetwood Hometown Hope
+- **Tier:** 2
+- **Category:** The Open Championship / Tommy Fleetwood
+- **Key facts:** Fleetwood from Southport, 6 miles from Royal Birkdale; father caddying; attended 1998 Open at Birkdale as child; snuck onto course as boy; shot 69 R3; enters R4 at -5, five back; no English winner since Faldo 1992; Fleetwood has never won a major; 2018 US Open runner-up at Shinnecock Hills
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R4 result; whether Fleetwood challenges for Claret Jug
+
+### STORY 5: LIV Golf Funding Crisis
+- **Tier:** 2
+- **Category:** LIV Golf / Finance
+- **Key facts:** Saudi PIF ending financial backing after 2026 season; 4 LIV events remain in 2026; 2027 future "still up in the air"; LIV launched 2022 with PIF capital; lacks PGA Tour broadcast infrastructure and sponsor depth; searching for new investors; Herbert (62 R2) and DeChambeau (-6 R4) are top performers at this Open while their tour fights for survival
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Any new investor announcements; LIV UK JCB event July 23-26 status
+
 ## 2026-07-17
 
 | Date | Tier | Story | Platforms | Status |

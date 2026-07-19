@@ -1,0 +1,251 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-19",
+  "compiled_at": "2026-07-19T11:43:14.148966+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Sam Burns Leads the 154th Open at -10 — Final Round at Royal Birkdale",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "8:00 AM, 6:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Sam Burns leads the 154th Open Championship at -10.\n\nHe's 2 shots clear. He's at Royal Birkdale. And his daughter was born 2 days ago.\n\nFrom the delivery room to the Claret Jug — final round today.\n\n#TheOpen #OpenChampionship",
+          "posting_time": "8:00 AM, 6:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheOpen",
+            "#OpenChampionship"
+          ],
+          "char_count": 225
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Final round entering Sunday at Birkdale:\n\n-10: Sam Burns 🇺🇸\n-8: Ryan Fox 🇳🇿 | Si Woo Kim 🇰🇷\n-7: Lucas Herbert 🇦🇺\n-6: Bryson DeChambeau 🇺🇸\n\nThe Claret Jug is on the line. Who lifts it?\n\n#TheOpen #OpenChampionship",
+          "posting_time": "8:00 AM, 6:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheOpen",
+            "#OpenChampionship"
+          ],
+          "char_count": 211
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM, 6:00 PM"
+      },
+      "article": {
+        "filename": "article-01-burns-leads-open-final-round-birkdale.html",
+        "headline": "Sam Burns Leads the 154th Open at -10: From the Delivery Room to the Claret Jug",
+        "word_count": 600
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Sam Burns Leads at -10 — Final Round\n\n#### Image Concept 1 — Article Hero / Facebook Long-Form\n- **Imagn search:** `Sam Burns`\n- **Slot:** Article hero (1200x630)\n- **Caption concept:** Burns celebrating a birdie or acknowledging crowd at Birkdale\n\n#### Image Concept 2 — Social Post (4:5 vertical)\n- **Imagn search:** `Sam Burns PGA Tour`\n- **Slot:** X/Facebook caption post (1080x1350)\n- **Caption concept:** Burns with trophy or leaderboard visual overlay\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Ryan Fox Shoots Historic 62 in R3 — Becomes 8th Golfer Ever in a Major",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:30 AM, 1:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Ryan Fox shot 62 in Round 3 at Royal Birkdale.\n\nThat makes him the 8th golfer ever to shoot 62 in a major — and the 3rd player to do it at THIS Open alone.\n\nFrom even par to T2 at -8. One round.\n\n#TheOpen #OpenChampionship #RyanFox",
+          "posting_time": "10:30 AM, 1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheOpen",
+            "#OpenChampionship",
+            "#RyanFox"
+          ],
+          "char_count": 231
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Three 62s at one Open Championship.\n\nRyan Fox joined Lucas Herbert and Sam Burns in shooting 62 at Birkdale — the 8th golfer ever to reach that score in a major.\n\nHistory is being made on the Lancashire coast. 🏆\n\n#TheOpen #OpenChampionship",
+          "posting_time": "10:30 AM, 1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheOpen",
+            "#OpenChampionship"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:30 AM, 1:00 PM"
+      },
+      "article": {
+        "filename": "article-02-ryan-fox-historic-62-major-championship-record.html",
+        "headline": "Ryan Fox Shoots 62 in Round 3 — Becomes 8th Player in History to Reach the Major Scoring Limit",
+        "word_count": 593
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ryan Fox Historic 62 in R3\n\n#### Image Concept 1 — Article Hero / Facebook Long-Form\n- **Imagn search:** `Ryan Fox DP World Tour`\n- **Slot:** Article hero (1200x630)\n- **Caption concept:** Fox celebrating at Birkdale or mid-round action\n\n#### Image Concept 2 — Social Post (4:5 vertical)\n- **Imagn search:** `Ryan Fox golfer`\n- **Slot:** X/Facebook caption post (1080x1350)\n- **Caption concept:** Fox fist pump — historic round graphic overlay\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "McIlroy Rips DeChambeau: \"Performative... Not Particularly Fond of Him\"",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "10:30 AM",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Rory McIlroy on Bryson DeChambeau's penalty reaction at The Open:\n\n\"I'm not particularly fond of him. I think a lot of it's performative. I think a lot of it's for attention.\"\n\nThat's not a vague hint. That's a statement.\n\n#TheOpen #OpenChampionship",
+          "posting_time": "10:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheOpen",
+            "#OpenChampionship"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:30 AM"
+      },
+      "article": {
+        "filename": "article-03-mcilroy-rips-dechambeau-performative.html",
+        "headline": "\"Not Particularly Fond of Him\": McIlroy's Scorched-Earth Assessment of DeChambeau",
+        "word_count": 585
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "McIlroy Rips DeChambeau\n\n#### Image Concept 1 — Article Hero / Facebook Long-Form\n- **Imagn search:** `Rory McIlroy`\n- **Slot:** Article hero (1200x630)\n- **Caption concept:** McIlroy at press conference or post-round interview\n\n#### Image Concept 2 — Social Post (4:5 vertical)\n- **Imagn search:** `Bryson DeChambeau`\n- **Slot:** X/Facebook caption post (1080x1350)\n- **Caption concept:** DeChambeau at The Open — controversy visual\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Fleetwood Hometown Hope — Southport's Son at -5 Entering Final Round",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "1:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Tommy Fleetwood is from Southport — 6 miles from Royal Birkdale.\n\nHe grew up sneaking onto this course as a kid. His dad is caddying this week.\n\nHe's -5, five shots back. The dream is still alive.\n\n#TheOpen #OpenChampionship #Fleetwood",
+          "posting_time": "1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheOpen",
+            "#OpenChampionship",
+            "#Fleetwood"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM"
+      },
+      "article": {
+        "filename": "article-04-fleetwood-hometown-hope-birkdale.html",
+        "headline": "The Hometown Dream: Tommy Fleetwood at Royal Birkdale, Six Miles from Home",
+        "word_count": 697
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Fleetwood Hometown Hope\n\n#### Image Concept 1 — Article Hero / Facebook Long-Form\n- **Imagn search:** `Tommy Fleetwood`\n- **Slot:** Article hero (1200x630)\n- **Caption concept:** Fleetwood on the Birkdale course or with crowd\n\n#### Image Concept 2 — Social Post (4:5 vertical)\n- **Imagn search:** `Tommy Fleetwood Open Championship`\n- **Slot:** X/Facebook caption post (1080x1350)\n- **Caption concept:** Fleetwood hometown hero graphic — Southport/Birkdale visual\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "LIV Golf Funding Crisis — Saudi PIF Ending Backing After 2026",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:30 PM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Saudi Arabia's Public Investment Fund is ending financial backing of LIV Golf after the 2026 season.\n\nLIV has 4 events left this year. The 2027 future is \"still up in the air.\"\n\nThe tour is searching for new investors.\n\n#LIVGolf #Golf #OpenChampionship",
+          "posting_time": "8:30 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf",
+            "#Golf",
+            "#OpenChampionship"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:30 PM"
+      },
+      "article": {
+        "filename": "article-05-liv-golf-funding-crisis-pif-ends.html",
+        "headline": "LIV Golf's Funding Is Ending. Its Players Are Winning at The Open.",
+        "word_count": 665
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LIV Golf Funding Crisis\n\n#### Image Concept 1 — Article Hero / Facebook Long-Form\n- **Imagn search:** `Lucas Herbert LIV Golf`\n- **Slot:** Article hero (1200x630)\n- **Caption concept:** Herbert at The Open — LIV player competing at major\n\n#### Image Concept 2 — Social Post (4:5 vertical)\n- **Imagn search:** `Bryson DeChambeau LIV Golf`\n- **Slot:** X/Facebook caption post (1080x1350)\n- **Caption concept:** DeChambeau at Birkdale — LIV Golf future graphic"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
