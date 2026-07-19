@@ -1,0 +1,255 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-19",
+  "compiled_at": "2026-07-19T11:19:04.273203+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "LeBron Watch — Decision Week Begins, Heat and Warriors Lead the Pack",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "9:00 AM, 1:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The pitches are done. The meetings are over.\n\nLeBron James has heard from every team. Now he decides.\n\nHeat and Warriors lead the field — but nothing is final. Decision expected THIS WEEK.\n\n#LeBronJames #NBAFreeAgency",
+          "posting_time": "9:00 AM, 1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#LeBronJames",
+            "#NBAFreeAgency"
+          ],
+          "char_count": 217
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Rich Paul spoke to 27 teams.\n\nLeBron said no to the Lakers.\n\nNow it's Heat vs. Warriors as the top 2 contenders — and his decision comes this week.\n\n#LeBron #NBAFreeAgency #NBA",
+          "posting_time": "9:00 AM, 1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#LeBron",
+            "#NBAFreeAgency",
+            "#NBA"
+          ],
+          "char_count": 176
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM, 1:00 PM"
+      },
+      "article": {
+        "filename": "article-01-lebron-decision-week-heat-warriors.html",
+        "headline": "Decision Week: LeBron James Narrows to Heat and Warriors as Announcement Looms",
+        "word_count": 571
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LeBron Watch — Decision Week\n\n#### Image Concept 1 — Article Hero / Facebook Long-Form\n- **Imagn search:** `LeBron James Los Angeles Lakers`\n- **Slot:** Article hero (1200x630)\n- **Caption concept:** LeBron James at center court — the decision is imminent\n\n#### Image Concept 2 — Social Post (4:5 vertical)\n- **Imagn search:** `LeBron James free agency`\n- **Slot:** X/Facebook caption post (1080x1350)\n- **Caption concept:** LeBron at podium or press appearance — decision week graphic overlay\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Summer League Championship Tonight — Grizzlies vs. Warriors, 9 PM ET on ESPN",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "4:00 PM, 7:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Summer League Championship TONIGHT.\n\nWarriors stunned the Lakers 92-88 in the semis.\nGrizzlies held off the Rockets.\n\nNow they meet for the title — 9:00 PM ET on ESPN.\n\n#SummerLeague #NBA #DubNation #GrindCity",
+          "posting_time": "4:00 PM, 7:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#SummerLeague",
+            "#NBA",
+            "#DubNation",
+            "#GrindCity"
+          ],
+          "char_count": 209
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Yaxel Lendeborg. Cedric Coward. Cameron Boozer.\n\nThe NBA's future is on the court tonight.\n\nGrizzlies vs. Warriors — Summer League Championship — 9:00 PM ET on ESPN.\n\n#SummerLeague #NBA #GrindCity #DubNation",
+          "posting_time": "4:00 PM, 7:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#SummerLeague",
+            "#NBA",
+            "#GrindCity",
+            "#DubNation"
+          ],
+          "char_count": 207
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "4:00 PM, 7:00 PM"
+      },
+      "article": {
+        "filename": "article-02-summer-league-championship-grizzlies-warriors.html",
+        "headline": "Summer League Championship Tonight: Grizzlies vs. Warriors Brings the NBA's Future to ESPN",
+        "word_count": 592
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Summer League Championship\n\n#### Image Concept 1 — Article Hero / Facebook Long-Form\n- **Imagn search:** `Cedric Coward Memphis Grizzlies`\n- **Slot:** Article hero (1200x630)\n- **Caption concept:** Coward in Summer League action\n\n#### Image Concept 2 — Social Post (4:5 vertical)\n- **Imagn search:** `Yaxel Lendeborg Golden State Warriors`\n- **Slot:** X/Facebook caption post (1080x1350)\n- **Caption concept:** Lendeborg in Warriors Summer League uniform\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Cedric Coward's 28-Point Semifinal — The No. 11 Pick Announces Himself",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:00 AM",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "28 points. 6 rebounds. 5 assists. 4 threes.\n\nCedric Coward put up that line in the Summer League semifinals — and the Grizzlies are in the championship game tonight.\n\nThe No. 11 pick is ready. 👀\n\n#GrindCity #SummerLeague #NBA",
+          "posting_time": "11:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#GrindCity",
+            "#SummerLeague",
+            "#NBA"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM"
+      },
+      "article": {
+        "filename": "article-03-cedric-coward-28-point-semifinal-breakout.html",
+        "headline": "Cedric Coward Just Had the Summer League Performance of the Year",
+        "word_count": 523
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cedric Coward Breakout\n\n#### Image Concept 1 — Article Hero / Facebook Long-Form\n- **Imagn search:** `Cedric Coward Memphis Grizzlies`\n- **Slot:** Article hero (1200x630)\n- **Caption concept:** Coward in action — shooting, attacking basket\n\n#### Image Concept 2 — Social Post (4:5 vertical)\n- **Imagn search:** `Cameron Boozer Memphis Grizzlies`\n- **Slot:** X/Facebook caption post (1080x1350)\n- **Caption concept:** Boozer and Coward in Memphis Summer League — future core\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Kawhi Investigation Still Weeks Away — Raptors Stuck in Limbo",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "11:00 AM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The Kawhi Leonard investigation just expanded AGAIN.\n\nNow a second undisclosed endorsement deal is under the microscope.\n\nStill weeks from a conclusion. Raptors trade still frozen. No timeline.\n\n#Raptors #NBA #KawhiLeonard",
+          "posting_time": "11:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#Raptors",
+            "#NBA",
+            "#KawhiLeonard"
+          ],
+          "char_count": 222
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM"
+      },
+      "article": {
+        "filename": "article-04-kawhi-investigation-weeks-away-raptors-limbo.html",
+        "headline": "Kawhi Leonard Investigation Expands Again — Raptors Trade Still Frozen With No Timeline",
+        "word_count": 537
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Kawhi Investigation\n\n#### Image Concept 1 — Article Hero / Facebook Long-Form\n- **Imagn search:** `Kawhi Leonard Los Angeles Clippers`\n- **Slot:** Article hero (1200x630)\n- **Caption concept:** Kawhi Leonard in Clippers uniform — waiting for resolution\n\n#### Image Concept 2 — Social Post (4:5 vertical)\n- **Imagn search:** `Kawhi Leonard`\n- **Slot:** X/Facebook caption post (1080x1350)\n- **Caption concept:** Kawhi close-up — investigation graphic overlay\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "The New-Look NBA — How the Blockbuster Trades Reshape the League",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "1:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The trades are official. The new NBA is here.\n\nGiannis in Miami. Paul George in Boston. Jaylen Brown in Philly. Ja in Portland. LaMelo in Minnesota.\n\nOne question remains: where does LeBron land?\n\n#NBA #NBAFreeAgency",
+          "posting_time": "1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA",
+            "#NBAFreeAgency"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM"
+      },
+      "article": {
+        "filename": "article-05-new-nba-post-trade-landscape.html",
+        "headline": "The New NBA: How Five Blockbuster Trades Rewrote the League This Summer",
+        "word_count": 576
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "New NBA Takes Shape\n\n#### Image Concept 1 — Article Hero / Facebook Long-Form\n- **Imagn search:** `Giannis Antetokounmpo Miami Heat`\n- **Slot:** Article hero (1200x630)\n- **Caption concept:** Giannis in Heat uniform or at introductory press conference\n\n#### Image Concept 2 — Social Post (4:5 vertical)\n- **Imagn search:** `Paul George Boston Celtics`\n- **Slot:** X/Facebook caption post (1080x1350)\n- **Caption concept:** George in Celtics uniform — new-look Boston"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

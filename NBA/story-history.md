@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-07-19
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-19 | T1 | LeBron Decision Week — Heat and Warriors Emerge as Top Two, Announcement Expected Mon/Tue | X, FB, Article | FOLLOW UP |
+| 2026-07-19 | T1 | Summer League Championship: Grizzlies vs. Warriors Tonight (9 PM ET ESPN) | X, FB, Article | FOLLOW UP |
+| 2026-07-19 | T2 | Cedric Coward's 28-Point Semifinal Breakout — Grizzlies' No. 11 Pick Arrives | X, FB, Article | NEW |
+| 2026-07-19 | T2 | Kawhi Leonard Investigation Expands Again — Second Deal, Trade Frozen, Still Weeks Away | X, FB, Article | FOLLOW UP |
+| 2026-07-19 | T2 | The New NBA Takes Shape — Five Blockbuster Trades Reshape the League | X, FB, Article | FOLLOW UP |
+
+### STORY 1: LeBron Decision Week — Heat and Warriors Lead
+- **Tier:** 1
+- **Category:** NBA Free Agency / LeBron James
+- **Key facts:** All pitches complete; Heat and Warriors emerged as top 2; Cavs no longer frontrunner; Pat Riley direct talks with James' camp; Curry personal pitch citing Olympic chemistry; decision expected Mon/Tue July 20-21; Rich Paul spoke to 27 teams; LeBron told Lakers he won't return
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** LeBron announcement; press conference; jersey reveal; team's new roster picture
+
+### STORY 2: Summer League Championship — Grizzlies vs. Warriors
+- **Tier:** 1
+- **Category:** NBA Summer League
+- **Key facts:** Championship game: Grizzlies vs. Warriors 9 PM ET ESPN July 19; Warriors upset Lakers 92-88 in semis (Lendeborg 15/9); Grizzlies beat Rockets (Coward 28pts); Cameron Boozer averaging 18.8/6.5/3.5 over 4 games; Grizzlies beat Warriors 106-85 in pool play July 14
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Championship result; Boozer/Coward training camp roles
+
+### STORY 3: Cedric Coward 28-Point Semifinal
+- **Tier:** 2
+- **Category:** NBA Summer League / Player Development
+- **Key facts:** 2025 No. 11 pick (Eastern Washington); 28 PTS, 6 REB, 5 AST, 4 three-pointers in semifinal vs Houston; 22 years old; first pro season was developmental; pairs with Boozer for Memphis future core
+- **Status:** NEW
+- **Follow-up ideas:** Championship game performance; preseason rotation role
+
+### STORY 4: Kawhi Investigation Expands — Still Weeks Away
+- **Tier:** 2
+- **Category:** NBA Investigation / Trades
+- **Key facts:** Second undisclosed endorsement deal now part of probe; investigators examining personal expense coverage; Wachtell Lipton conducting inquiry; still weeks away as of July 16; Silver wants wrapped before next season; Kawhi→Toronto trade still frozen; Sanberg convicted 14 years
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Investigation conclusion; trade approved or collapses; NBA ruling
+
+### STORY 5: New NBA Post-Trade Landscape
+- **Tier:** 2
+- **Category:** NBA Transactions / League Analysis
+- **Key facts:** All blockbusters official: Giannis→Heat (Herro/Ware/Jaquez/3 firsts); George→Celtics; Brown→76ers (2 firsts 2028/2031); Ja→Blazers (Grant/Murray/$1M); LaMelo→Wolves; final piece is LeBron's destination
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** LeBron signing completes the picture; training camp previews
+
 ## 2026-07-17
 
 | Date | Tier | Story | Platforms | Status |

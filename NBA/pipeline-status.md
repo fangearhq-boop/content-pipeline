@@ -1,10 +1,21 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Last Run
-- **Date**: 2026-07-18
+- **Date**: 2026-07-19
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-19
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce, Jake Torres)
+- **PostPlanner exports:** hh-postplanner-2026-07-19.xlsx (7 posts) + hh-postplanner-tobi-2026-07-19.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-07-19/review-dashboard.html (22 items)
+- **Notes:** NBA SUMMER LEAGUE CHAMPIONSHIP / FREE AGENCY DECISION WEEK — Grizzlies vs Warriors tonight 9 PM ET ESPN (Warriors upset Lakers 92-88 in semis/Lendeborg 15pts 9reb; Grizzlies beat Rockets/Coward 28pts); LeBron decision expected Mon/Tue (Heat+Warriors top 2, Cavs no longer frontrunner, Pat Riley direct talks, Curry Olympic pitch); Kawhi investigation expanded to second endorsement deal+expenses, still weeks away; all blockbuster trades official (Giannis→Heat/George→Celtics/Brown→76ers/Ja→Blazers/LaMelo→Wolves); Cedric Coward 28/6/5 breakout
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-18
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
