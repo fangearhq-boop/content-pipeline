@@ -1,0 +1,276 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-19",
+  "compiled_at": "2026-07-19T09:19:59.759923+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Story 1: Game 2 recap — Cubs 6, Twins 2",
+      "type": "Informative"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Story 2: Boyd 4-game win streak bold take",
+      "type": "Bold / passionate"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 3: Taillon return imminent",
+      "type": "Stat / informative"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "Story 4: Trade deadline 15 days",
+      "type": "Analysis / bold"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 5: Game 3 preview — Imanaga vs. Matthews",
+      "type": "Preview / hype"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Story 6: Iowa Cubs / Ayers Triple-A debut",
+      "type": "Feature / prospect"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 7: Wild Card standings watch",
+      "type": "Bold / standings"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Cubs 6, Twins 2 — Boyd & Hoerner Carry Game 2",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Cubs bounce back to tie series 1-1; Matthew Boyd earns 4th straight win (6 IP, 1R); Nico Hoerner ties career high with 4 hits; Busch homers; Amaya and Ramirez combine for 4 RBI",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "```\nMatthew Boyd picked RIGHT back up. 6 innings, 1 run, his 4th straight win.\n\nCubs 6, Twins 2. Nico Hoerner tied a career high with 4 hits. Busch homered. Amaya and Ramirez each drove in two.\n\nSeries tied 1-1. Rubber game at Wrigley — 1:20 PM CT. ⚾\n\n#Cubs #GoCubs #FlyTheW\n```",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative / overnight recap",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cubs 6, Twins 2 — Boyd & Hoerner Carry Game 2\n**Decision:** NEW STORY (today's overnight recap; Game 2 not covered in yesterday's pipeline)\n**Tier:** 1\n**Key Facts:**\n- Final score: Cubs 6, Twins 2 (July 18, 2026)\n- Matthew Boyd: 6 IP, 3H, 1ER — 4th consecutive win (MEDIUM confidence, from AP game recap)\n- Nico Hoerner: 4 hits (tied career high), 1 RBI, 1 run\n- Michael Busch: solo HR\n- Miguel Amaya: 2 RBI\n- Pedro Ramirez: 2 RBI\n- Kody Clemens (Twins): 2 solo HRs\n- Series now tied 1-1\n- Cubs improve to 55-43\n**Sources:**\n- https://740thefan.com/2026/07/18/the-cubs-beat-the-twins-6-2-as-nico-hoerner-ties-a-career-high-with-4-hits/ (2026-07-18) ✓\n- https://www.cbsnews.com/chicago/news/cubs-beat-the-twins-6-2/ (2026-07-18) ✓\n- https://washingtonpost.com/sports/mlb/2026/07/18/twins-cubs-score/1f7dd596-82ef-11f1-8a16-393bd03340b0_story.html (2026-07-18) ✓\n- https://www.mlb.com/stories/game/824657 (2026-07-18) ✓\n**Freshness:** FRESH — game ended July 18, published same day\n**Why it matters:** The Cubs took Game 2 to tie the series, with Boyd's streak becoming a legitimate rotation-anchor story and Hoerner's 4-hit game highlighting lineup depth beyond PCA.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Matthew Boyd — 4-Game Win Streak, Rotation Anchor Nobody Expected",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Boyd has won 4 straight starts in a season where 13+ pitchers have hit the IL; came back from injury layoff to give Cubs reliable innings when they needed it most",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "```\nBoyd wins his 4th STRAIGHT start. 6 innings, 1 run Saturday.\n\nIn a season where the Cubs have burned through arms left and right, he's quietly become the rotation anchor.\n\nRespect it. 💪\n\n#Cubs #CubsBaseball #MLB\n```",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold take / fan energy",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 219
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Matthew Boyd — 4-Game Win Streak, Rotation Anchor\n**Decision:** FOLLOW UP (Boyd return arc first covered earlier; today's angle = 4-game win streak confirmation, reliable innings)\n**Tier:** 1 (angle 2 of game story)\n**Key Facts:**\n- Boyd: won his 4th straight start on July 18 (MEDIUM confidence — \"4th straight win\" per AP recap)\n- 6 innings, 3 hits, 1 run in Saturday's outing\n- Came back from a long injury layoff earlier this year\n- Cubs rotation ERA ranks 8th-worst in MLB (MEDIUM confidence — from WebFetch)\n**Sources:**\n- Same as Story 1 (same game recap; Boyd performance confirmed)\n- https://chicago.suntimes.com/cubs/2026/07/17/cubs-mlb-trade-deadline-rumors-starting-pitching-jed-hoyer-front-office (rotation ERA context)\n**Freshness:** FRESH",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Taillon Return Imminent — Tigers Series July 20 Is the Target",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Taillon completed 2 consecutive scoreless Iowa rehab starts; return described as \"imminent\" by multiple outlets; Tigers series starting July 20 is the likely return window",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "```\nJameson Taillon is almost back. Two scoreless Iowa rehab starts, and the return is imminent.\n\nThe Tigers series starts July 20 — that's the likely target window.\n\nA rotation ravaged by injuries all season. Reinforcements are finally arriving.\n\n#Cubs #GoCubs #MLB\n```",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Stat breakdown / informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Taillon Return Imminent — Tigers Series July 20 Target\n**Decision:** FOLLOW UP (Taillon arc covered July 17 and July 18; today's angle = \"imminent\" designation + Tigers series July 20 as target window)\n**Tier:** 2\n**Key Facts:**\n- On 15-day IL since June 9 (left hamstring strain)\n- Completed 2 scoreless Iowa rehab starts (confirmed by multiple outlets)\n- Return described as \"imminent\" / \"almost here\" by SI.com and other outlets (July 18)\n- Likely target: Tigers series starting July 20 (3-game set at/vs TBD)\n- Bleacher Nation ran full injury updates July 18 (Taillon, Milner, Cabrera, Palencia, Shaw, Brown, Steele)\n**Sources:**\n- https://www.si.com/mlb/cubs/onsi/cubs-injuries-a-jameson-taillon-return-is-almost-here-edward-cabrera-update-6 (2026-07-18) ✓\n- https://www.bleachernation.com/cubs/2026/07/18/cubs-injury-updates/ (2026-07-18) ✓\n- https://roundtable.io/sports/mlb/cubs/news/cubs-starter-jameson-taillon-could-return-this-week (2026-07-18) ✓\n**Freshness:** FRESH — July 18 updates, within 24h",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Trade Deadline — 15 Days, Cubs All-In on Pitching",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "August 3 deadline now 15 days away; rotation ERA 8th-worst in MLB; Hoyer going all-in on pitching; Skubal, Peralta, Gray linked; Pedro Ramirez reportedly the chip",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "```\n15 days to the August 3 deadline, and the Cubs are all-in on pitching.\n\nRotation ERA ranks 8th-worst in MLB. Jed Hoyer knows it. Names like Skubal, Peralta, Sonny Gray are on the radar.\n\nThe price won't be cheap. Pedro Ramirez may be the chip.\n\n#Cubs #MLB #CubsBaseball\n```",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Analysis / bold take",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Trade Deadline — 15 Days, Cubs All-In on Pitching\n**Decision:** FOLLOW UP (deadline arc covered July 17 and July 18; today's angle = 15 days out, name-specific targets coalescing)\n**Tier:** 2\n**Key Facts:**\n- August 3 deadline = 15 days from today (July 19) ✓ (date math verified)\n- Cubs rotation ERA 4.52, 8th-worst in MLB (MEDIUM — WebFetch, not independently verified)\n- Jed Hoyer quote: \"You can't have too much pitching. You never have enough.\" (MEDIUM — from WebFetch AI summary)\n- Targets linked: Tarik Skubal (DET), Freddy Peralta, Joe Ryan (MIN), Sonny Gray (BOS)\n- Pedro Ramirez: mentioned as likely trade chip by Heavy.com (MEDIUM confidence — single speculative source)\n- Note: Ramirez is currently on active roster (2 RBI on July 18), so trade is speculative\n**Sources:**\n- https://chicago.suntimes.com/cubs/2026/07/17/cubs-mlb-trade-deadline-rumors-starting-pitching-jed-hoyer-front-office (2026-07-17) ✓\n- https://www.mlbtraderumors.com/2026/07/trade-deadline-outlook-chicago-cubs-2.html (2026-07) ✓\n- https://heavy.com/sports/mlb/chicago-cubs/chicago-cubs-expected-trade-pedro-ramirez/ (MEDIUM — speculative trade target)\n- https://www.mlb.com/news/mlb-trade-rumors-and-2026-trade-deadline-news-july-18 (2026-07-18) ✓\n**Freshness:** July 17-18 — within 24-48h window; meets threshold given ongoing deadline arc",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Game 3 Rubber Match — Imanaga vs. Matthews, 1:20 PM CT at Wrigley",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Shota Imanaga vs. Zebby Matthews in the series finale; Cubs at 55-43 vs. Twins 49-50; winner-take-series rubber game at Clark and Addison",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "```\nShota Imanaga vs. Zebby Matthews at Wrigley — 1:20 PM CT today.\n\nSeries tied 1-1. One game, winner-take-series energy at Clark and Addison. At 55-43, the Cubs don't let Wrigley down.\n\nTime to take the series. ⚾\n\n#Cubs #GoCubs #FlyTheW\n```",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Game preview / fan hype",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Game 3 Preview — Imanaga vs. Matthews, Rubber Match at 1:20 PM CT\n**Decision:** NEW STORY (game preview for today)\n**Tier:** 1\n**Key Facts:**\n- Cubs vs. Twins, Game 3, July 19, 1:20 PM CT, Wrigley Field ✓\n- Cubs probable: Shota Imanaga (MEDIUM — from series preview; no reported changes)\n- Twins probable: Zebby Matthews (MEDIUM — same source)\n- Series: 1-1 (Cubs won G2 6-2 yesterday) ✓\n- Cubs 55-43, Twins 49-50 (Twins record updated from 49-49 pre-July 18 + 1 loss = 49-50)\n- Note on Twins record: 49-50 is calculated (49-49 before G2 loss per search result), treat as MEDIUM\n**Sources:**\n- https://www.cubsinsider.com/2026/07/17/chicago-cubs-vs-minnesota-twins-series-preview-july-17-19-overview-game-and-broadcast-info-starting-pitchers-w2w4/ (2026-07-17 — series preview with all 3 starters listed)\n- Series context file: today_cubs_game confirmed 1:20 PM CT, Wrigley ✓\n**Freshness:** Game is today; starter info announced pre-series. MEDIUM confidence on starters.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Iowa Cubs — Owen Ayers Makes Triple-A Debut in 10-9 Loss",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "Ayers played his first Triple-A game after July 17 promotion; Iowa fell 10-9 to Memphis Redbirds; Ayers the No. 10 Cubs prospect after 22 HRs at Knoxville",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "```\nOwen Ayers made his Triple-A debut in Saturday's 10-9 Iowa loss to Memphis. The No. 10 Cubs prospect joined Iowa after bashing 22 homers for Knoxville.\n\nOne step closer to Wrigley. Keep watching.\n\n#Cubs #CubsBaseball #MLB\n```",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Feature / prospect update",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Iowa Cubs / Owen Ayers Triple-A Debut\n**Decision:** FOLLOW UP (Ayers promotion covered July 18; today's angle = first game result with Iowa)\n**Tier:** 3\n**Key Facts:**\n- Iowa Cubs lost to Memphis Redbirds 10-9 (July 18)\n- Owen Ayers made his Triple-A debut (first game after July 17 promotion)\n- Ayers: No. 10 Cubs prospect, switch-hitting catcher\n- Hit 22 HRs at Double-A Knoxville before promotion\n- Jaxon Wiggins started, 5 ER in 2.2 IP (struggled)\n- Corbin Martin took the loss (walk-off single)\n- Brett Bateman: 2-for-6, 3 RBI, 1 run\n**Sources:**\n- https://www.bleedcubbieblue.com/chicago-cubs-prospects/225941/cubs-minor-league-wrap-owen-ayers-jaxon-wiggins-ethan-conrad (2026-07-18/19) ✓\n- https://sports.yahoo.com/articles/cubs-minor-league-wrap-owen-050038278.html ✓\n**Freshness:** FRESH — July 18-19 publication",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 7,
+      "title": "Wild Card Watch — Cubs Hold No. 1 Spot at 55-43",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "Cubs at 55-43 lead Phillies (54-44) by half a game in NL Wild Card; Cardinals at 51-45 hold the third spot; every Wrigley win tightens playoff seeding",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "```\nCubs hold the No. 1 NL Wild Card spot at 55-43.\n\nPhillies are right there at 54-44. Cardinals hanging on at 51-45.\n\nNo room for error in this race — every win against a club like Minnesota matters in October seeding.\n\n#Cubs #NorthSiders #MLB\n```",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Bold take / standings context",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Wild Card Watch — Cubs No. 1 at 55-43\n**Decision:** FOLLOW UP (standings angle revisited; today's angle = updated post-Game 2 standings)\n**Tier:** 3\n**Key Facts:**\n- Cubs 55-43, No. 1 NL Wild Card (updated after Game 2 win)\n- Phillies 54-44, No. 2 NL Wild Card (MEDIUM — from aggregated search results)\n- Cardinals 51-45, No. 3 NL Wild Card (MEDIUM)\n- Brewers running away with NL Central (~62+ W by now, per July 10 data showing 59-34)\n- Cubs 0.5 games ahead of Phillies in WC standings\n**Sources:**\n- https://www.espn.com/mlb/standings/_/view/wild-card (accessed 2026-07-19)\n- https://www.foxsports.com/mlb/standings?type=wild+card (2026-07-19)\n- NL Wild Card search returned Cubs 54-43, Phillies 54-44, Cardinals 51-45 (pre-July 18 update); Cubs adjusted to 55-43 post-win\n**Confidence note:** Phillies and Cardinals records are MEDIUM confidence. Cubs 55-43 is HIGH confidence.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

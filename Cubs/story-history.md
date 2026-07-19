@@ -5,6 +5,66 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-19
+
+### STORY 1: Cubs 6, Twins 2 — Boyd & Hoerner Carry Game 2
+- **Angle:** NEW STORY — Cubs tied the series 1-1 with a 6-2 win; Matthew Boyd earned 4th straight win (6 IP, 1 ER); Nico Hoerner tied career high with 4 hits; Michael Busch homered; Amaya and Ramirez each drove in two RBI
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, overnight recap / informative)
+- **Follow-Up Opportunities:**
+  - Series result (Game 3 today, rubber match outcome)
+  - Boyd's season-long win streak tracking
+
+### STORY 2: Matthew Boyd — 4-Game Win Streak, Rotation Anchor Nobody Expected
+- **Angle:** FOLLOW UP (Boyd arc; today's angle = 4th straight win confirmed, bold take on him as rotation anchor in an injury-ravaged season)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold take / fan energy)
+- **Follow-Up Opportunities:**
+  - Boyd's continued streak as Taillon returns
+  - Rotation stability tracking
+
+### STORY 3: Taillon Return Imminent — Tigers Series July 20 Target
+- **Angle:** FOLLOW UP (ongoing return arc; today's angle = Tigers series July 20 as the target window after 2 scoreless Iowa rehab starts; "imminent" language from multiple outlets July 18)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, stat breakdown / informative)
+- **Follow-Up Opportunities:**
+  - Taillon return start (Tigers series July 20-22)
+  - Rotation health tracking in second half
+
+### STORY 4: Trade Deadline — 15 Days, Cubs All-In on Pitching
+- **Angle:** FOLLOW UP (ongoing deadline arc; today's angle = 15 days out, names coalescing: Skubal/Peralta/Gray linked, Pedro Ramirez as chip)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, analysis / bold take)
+- **Follow-Up Opportunities:**
+  - Any trade announcement (August 3 deadline)
+  - Specific deal reporting from Hoyer/Cubs front office
+
+### STORY 5: Game 3 Rubber Match — Imanaga vs. Matthews, 1:20 PM CT at Wrigley
+- **Angle:** NEW STORY (game preview; Shota Imanaga vs. Zebby Matthews; 1:20 PM CT; series tied 1-1; rubber game framing)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview / fan hype)
+- **Follow-Up Opportunities:**
+  - Game 3 result (tomorrow's pipeline)
+  - Imanaga second-half performance tracking
+
+### STORY 6: Iowa Cubs — Owen Ayers Triple-A Debut in 10-9 Loss to Memphis
+- **Angle:** FOLLOW UP (Ayers arc; today's angle = first Triple-A game result; Iowa lost 10-9 to Memphis Redbirds despite Ayers promotion excitement)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, feature / prospect update)
+- **Follow-Up Opportunities:**
+  - Ayers Iowa performance tracking
+  - Iowa Cubs second-half results
+
+### STORY 7: Wild Card Watch — Cubs Hold No. 1 at 55-43
+- **Angle:** FOLLOW UP (standings update; Cubs 55-43 No. 1 NL WC; Phillies 54-44 half game back; Cardinals 51-45 holding 3rd spot; every win tightens seeding)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, standings / bold take)
+- **Follow-Up Opportunities:**
+  - Wild card standings after Game 3 result
+  - Phillies and Cardinals tracking through July
+
+---
+
 ## 2026-07-18
 
 ### STORY 1: Twins 5, Cubs 2 — Game 1 Recap
