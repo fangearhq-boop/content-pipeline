@@ -1,0 +1,256 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-19",
+  "compiled_at": "2026-07-19T11:33:15.583298+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Belgian GP Race Day — Antonelli Starts From Pole, Championship Implications Huge",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM, 10:00 AM",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Belgian GP day is here. 🏁\n\nKimi Antonelli starts from pole at Spa.\nVerstappen P2. Russell P3. Hamilton P5.\nNorris… P13 after his grid penalty.\n\nChampionship implications everywhere. 9:00 AM ET on ESPN.\n\n#BelgianGP #F1 #Formula1",
+          "posting_time": "8:00 AM, 10:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#BelgianGP",
+            "#F1",
+            "#Formula1"
+          ],
+          "char_count": 227
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Antonelli (179 pts) leads the championship AND starts on pole today.\n\nRussell is 25 back. Hamilton 32 back.\n\nIf Antonelli wins Belgium, this title race could be over by August.\n\n#BelgianGP #F1 #Formula1",
+          "posting_time": "8:00 AM, 10:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#BelgianGP",
+            "#F1",
+            "#Formula1"
+          ],
+          "char_count": 202
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM, 10:00 AM"
+      },
+      "article": {
+        "filename": "article-01-belgian-gp-race-day-antonelli-pole.html",
+        "headline": "Belgian GP Race Day: Antonelli Leads From Pole as Championship Battle Reaches Spa",
+        "word_count": 545
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Belgian GP Race Day — Antonelli From Pole\n\n#### Image Concept 1 — Article Hero / Facebook Long-Form\n- **Imagn search:** `Kimi Antonelli Mercedes`\n- **Slot:** Article hero (1200x630)\n- **Caption concept:** Antonelli in qualifying or at Spa — pole position\n\n#### Image Concept 2 — Social Post (4:5 vertical)\n- **Imagn search:** `Spa-Francorchamps Formula 1`\n- **Slot:** X/Facebook caption post (1080x1350)\n- **Caption concept:** Spa circuit aerial or race action — Belgian GP\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Norris P13 — Defending World Champion Faces Recovery Drive at Spa",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "8:00 AM, 12:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The defending F1 world champion starts P13 today.\n\nLando Norris qualified P3 — then got a 10-place grid penalty.\n\nMcLaren chose Belgium specifically for this penalty. The overtaking opportunities at Spa are his best shot at damage control.\n\n#BelgianGP #F1 #LandoNorris",
+          "posting_time": "8:00 AM, 12:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#BelgianGP",
+            "#F1",
+            "#LandoNorris"
+          ],
+          "char_count": 268
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Norris on starting P13 at Spa: \"Wait and see.\"\n\nMcLaren's strategy: survive Belgium, attack harder next race.\n\nThe reigning world champion playing catch-up all afternoon. 📺\n\n#LandoNorris #BelgianGP #F1",
+          "posting_time": "8:00 AM, 12:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#LandoNorris",
+            "#BelgianGP",
+            "#F1"
+          ],
+          "char_count": 201
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM, 12:00 PM"
+      },
+      "article": {
+        "filename": "article-02-norris-p13-recovery-drive-belgium.html",
+        "headline": "The Defending World Champion Starts P13: Norris's Damage-Limitation Mission at Spa",
+        "word_count": 585
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Norris P13 Recovery Drive\n\n#### Image Concept 1 — Article Hero / Facebook Long-Form\n- **Imagn search:** `Lando Norris McLaren`\n- **Slot:** Article hero (1200x630)\n- **Caption concept:** Norris in McLaren cockpit or helmet on\n\n#### Image Concept 2 — Social Post (4:5 vertical)\n- **Imagn search:** `Lando Norris Formula 1`\n- **Slot:** X/Facebook caption post (1080x1350)\n- **Caption concept:** Norris in McLaren livery — recovery drive graphic overlay\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Verstappen Exit Clause Active — Red Bull Future Officially In Doubt, McLaren Talks \"In Final Stages\"",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "10:00 AM",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Verstappen's Red Bull exit clause is now officially active.\n\nMathematically impossible to reach P2 before the summer break. He has until October to pull the trigger.\n\nMcLaren talks: \"closing stages.\" 👀\n\n#F1 #Verstappen #Formula1",
+          "posting_time": "10:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Verstappen",
+            "#Formula1"
+          ],
+          "char_count": 228
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 AM"
+      },
+      "article": {
+        "filename": "article-03-verstappen-exit-clause-active-mclaren-talks.html",
+        "headline": "Verstappen's Exit Clause Is Now Active — and McLaren Talks Are \"In the Closing Stages\"",
+        "word_count": 574
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Exit Clause\n\n#### Image Concept 1 — Article Hero / Facebook Long-Form\n- **Imagn search:** `Max Verstappen Red Bull Racing`\n- **Slot:** Article hero (1200x630)\n- **Caption concept:** Verstappen in Red Bull — future in question\n\n#### Image Concept 2 — Social Post (4:5 vertical)\n- **Imagn search:** `Max Verstappen Formula 1`\n- **Slot:** X/Facebook caption post (1080x1350)\n- **Caption concept:** Verstappen helmet graphic — exit clause visual\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Verstappen Signs McLaren Junior Van Langendonck — Unusual Move Amid Red Bull Uncertainty",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Verstappen just signed a McLaren junior driver to his personal management company.\n\nHe's also reportedly in final stages of talks to JOIN McLaren in 2027.\n\nMake that make sense. 👀\n\n#F1 #Verstappen #McLaren #Formula1",
+          "posting_time": "12:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Verstappen",
+            "#McLaren",
+            "#Formula1"
+          ],
+          "char_count": 215
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:00 PM"
+      },
+      "article": {
+        "filename": "article-04-verstappen-signs-mclaren-junior-van-langendonck.html",
+        "headline": "Verstappen Signs McLaren Junior Driver to His Management Company — While Reportedly Negotiating to Join McLaren",
+        "word_count": 501
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Signs McLaren Junior\n\n#### Image Concept 1 — Article Hero / Facebook Long-Form\n- **Imagn search:** `Max Verstappen paddock`\n- **Slot:** Article hero (1200x630)\n- **Caption concept:** Verstappen in paddock — announcement visual\n\n#### Image Concept 2 — Social Post (4:5 vertical)\n- **Imagn search:** `McLaren Formula 1`\n- **Slot:** X/Facebook caption post (1080x1350)\n- **Caption concept:** McLaren team at Spa — junior program graphic\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Belgian GP Grid Chaos — Four Drivers Take Penalties, Alonso Starts Last",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "2:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Four penalties reshaped the Belgian GP grid:\n\n🔴 Norris: -10 places (P13)\n🔴 Stroll: -10 places (P20)\n🔴 Hadjar: -10 places (P21)\n🔴 Alonso: -20 places (P22 — LAST)\n\nSeven cars. Zero clean starts. Spa chaos begins.\n\n#BelgianGP #F1 #Formula1",
+          "posting_time": "2:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#BelgianGP",
+            "#F1",
+            "#Formula1"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "2:00 PM"
+      },
+      "article": {
+        "filename": "article-05-belgian-gp-grid-penalties-alonso-last.html",
+        "headline": "Four Drivers, Four Penalties: The Belgian GP Grid That Grid Penalties Built",
+        "word_count": 539
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Belgian GP Grid Chaos / Alonso Penalty\n\n#### Image Concept 1 — Article Hero / Facebook Long-Form\n- **Imagn search:** `Fernando Alonso Aston Martin`\n- **Slot:** Article hero (1200x630)\n- **Caption concept:** Alonso in Aston Martin livery — penalty day\n\n#### Image Concept 2 — Social Post (4:5 vertical)\n- **Imagn search:** `Belgian Grand Prix grid`\n- **Slot:** X/Facebook caption post (1080x1350)\n- **Caption concept:** F1 grid formation at Spa — chaos graphic"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

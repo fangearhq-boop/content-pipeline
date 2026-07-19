@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-07-19
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-19 | T1 | Belgian GP Race Day — Antonelli From Pole, Championship Implications Huge | X, FB, Article | NEW |
+| 2026-07-19 | T1 | Norris P13 — Defending World Champion's Recovery Drive at Spa | X, FB, Article | FOLLOW UP |
+| 2026-07-19 | T2 | Verstappen Exit Clause Active — McLaren Talks in Closing Stages | X, FB, Article | FOLLOW UP |
+| 2026-07-19 | T2 | Verstappen Signs McLaren Junior Van Langendonck | X, FB, Article | NEW |
+| 2026-07-19 | T2 | Belgian GP Grid Chaos — Four Penalties, Alonso Starts Last | X, FB, Article | NEW |
+
+### STORY 1: Belgian GP Race Day — Antonelli From Pole
+- **Tier:** 1
+- **Category:** F1 / Belgian Grand Prix
+- **Key facts:** Antonelli pole 1:44.361 (largest pole margin of season, 0.317s over Verstappen); Russell P3; Leclerc P4; Hamilton P5; Piastri P6; Norris starts P13 (penalty); Antonelli leads championship 179pts/Russell 154/Hamilton 147; Constructors: Mercedes 333/Ferrari 255/McLaren 179
+- **Status:** NEW
+- **Follow-up ideas:** Race result; championship standings after Belgian GP; Norris final position
+
+### STORY 2: Norris P13 Recovery Drive
+- **Tier:** 1
+- **Category:** F1 / Belgian Grand Prix / Lando Norris
+- **Key facts:** Norris qualified P3, starts P13 (10-place penalty for 4th electronics unit); McLaren chose Belgium specifically for penalty (best overtaking opportunities vs Hungary/Netherlands); Norris: "wait and see"; defending 2025 world champion
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Final race position; damage to championship standings; McLaren season strategy
+
+### STORY 3: Verstappen Exit Clause Active — McLaren Talks
+- **Tier:** 2
+- **Category:** F1 / Verstappen Future / Red Bull
+- **Key facts:** Clause active after Silverstone rear-wing failure (2nd in 8 days); Verstappen ~7th in championship, ~78pts from P2, mathematically impossible; has until October to activate; McLaren talks "closing stages" (PlanetF1); Vermeulen downplays; Verstappen "fed up" with Red Bull car comments post-Silverstone
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Formal clause activation announcement; McLaren 2027 driver lineup
+
+### STORY 4: Verstappen Signs McLaren Junior Van Langendonck
+- **Tier:** 2
+- **Category:** F1 / Verstappen / McLaren
+- **Key facts:** Dries Van Langendonck (Belgian, British F4 driver, McLaren junior) signed to Verstappen Racing management/sponsorship; Van Langendonck remains McLaren junior; mentorship/funding deal; Verstappen stressed: "stays a McLaren junior"; announcement at Spa during Belgian GP weekend
+- **Status:** NEW
+- **Follow-up ideas:** Van Langendonck career progression; Verstappen/McLaren official announcement
+
+### STORY 5: Belgian GP Grid Chaos — Four Penalties
+- **Tier:** 2
+- **Category:** F1 / Belgian Grand Prix / Grid Penalties
+- **Key facts:** Norris -10 (P13); Stroll -10 (P20); Hadjar -10 (P21); Alonso -20 (P22/last, exceeded ES+CE+ANC); Bortoleto (Audi) starts P8; grid reshuffled from qualifying classification; opening lap chaos expected
+- **Status:** NEW
+- **Follow-up ideas:** Race result for penalized drivers; Alonso recovery position
+
 ## 2026-07-17
 
 | Date | Tier | Story | Platforms | Status |

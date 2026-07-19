@@ -1,10 +1,21 @@
 # F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
-- **Date**: 2026-07-18
+- **Date**: 2026-07-19
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-19
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway)
+- **PostPlanner exports:** f1fr-postplanner-2026-07-19.xlsx (7 posts) + f1fr-postplanner-tobi-2026-07-19.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-07-19/review-dashboard.html (22 items)
+- **Notes:** BELGIAN GP RACE DAY / VERSTAPPEN FUTURE — Antonelli pole 1:44.361 (largest pole margin of season); corrected July 18 content error (previous pipeline mistakenly had Norris pole/Antonelli Q1 out — actual: Antonelli pole, Norris P3 qualifying/P13 grid); Verstappen exit clause officially active (Silverstone retirement/mathematically impossible reach P2); McLaren talks "closing stages"; Verstappen signs McLaren junior Van Langendonck at Spa; 4 grid penalties (Norris P13/Stroll P20/Hadjar P21/Alonso P22 last); race result not indexed at pipeline time
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-18
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
