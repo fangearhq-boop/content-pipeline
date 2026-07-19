@@ -1,25 +1,17 @@
 {
-  "generated_at": "2026-07-18T08:30:00.600785+00:00",
-  "today_ct": "2026-07-18",
+  "generated_at": "2026-07-19T08:30:00.626790+00:00",
+  "today_ct": "2026-07-19",
   "off_day": false,
   "is_series_start_today": false,
   "series": {
     "opponent": "Minnesota Twins",
     "opponent_id": 142,
-    "opponent_record": "49-49",
-    "cubs_record": "54-43",
+    "opponent_record": "49-50",
+    "cubs_record": "55-43",
     "is_cubs_home": true,
     "venue": "Wrigley Field",
-    "series_length": 2,
+    "series_length": 1,
     "games": [
-      {
-        "game_pk": "824657",
-        "game_date_iso": "2026-07-18T18:20:00Z",
-        "game_date_ct": "Sat 1:20 PM CT",
-        "cubs_probable": "TBD",
-        "opponent_probable": "TBD",
-        "status": "Preview"
-      },
       {
         "game_pk": "824653",
         "game_date_iso": "2026-07-19T18:20:00Z",
@@ -32,16 +24,16 @@
     "rationale": "Same opponent (Minnesota Twins) as yesterday \u2014 this is mid-series, not a series opener."
   },
   "today_cubs_game": {
-    "game_pk": "824657",
+    "game_pk": "824653",
     "status": "Preview",
     "detailed_status": "Scheduled",
-    "game_date_iso": "2026-07-18T18:20:00Z",
-    "game_date_ct": "Sat 1:20 PM CT",
+    "game_date_iso": "2026-07-19T18:20:00Z",
+    "game_date_ct": "Sun 1:20 PM CT",
     "is_cubs_home": true,
     "opponent_id": 142,
     "opponent_name": "Minnesota Twins",
-    "opponent_record": "49-49",
-    "cubs_record": "54-43",
+    "opponent_record": "49-50",
+    "cubs_record": "55-43",
     "cubs_probable": "TBD",
     "opponent_probable": "TBD",
     "venue": "Wrigley Field"
