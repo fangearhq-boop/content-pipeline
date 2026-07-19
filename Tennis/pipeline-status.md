@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-07-18 |
-| Writing | Complete (all steps) | 2026-07-18 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 41 claims, 81 HIGH; image not_started warnings cosmetic/expected for imagn) | 2026-07-18 |
-| Compile | Complete (07-content-data.json — 5 stories, 8 X posts, 5 FB posts, 5 articles, 7 images; 28 dashboard items) | 2026-07-18 |
-| Dashboard | Complete (review-dashboard.html, 28 items) | 2026-07-18 |
-| PostPlanner Export | Complete (standard 8 posts 12:58–20:47 ET; TOBI 8 posts) | 2026-07-18 |
-| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-07-18 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-07-18 |
+| Research | Complete | 2026-07-19 |
+| Writing | Complete (all steps) | 2026-07-19 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 33 claims; image not_started warnings cosmetic/expected for imagn) | 2026-07-19 |
+| Compile | Complete (07-content-data.json — 5 stories, 8 X posts, 5 FB posts, 5 articles, 10 images; 28 dashboard items) | 2026-07-19 |
+| Dashboard | Complete (review-dashboard.html, 28 items) | 2026-07-19 |
+| PostPlanner Export | Complete (standard 8 posts 12:56–20:52 ET; TOBI 8 posts) | 2026-07-19 |
+| WordPress Publish | Attempted — WP credentials not in env after context reset (same environment restriction as all prior runs) | 2026-07-19 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-07-19 |
 
 ## Queue
 
@@ -24,6 +24,24 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-07-19 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 5 FB long-form + 5 FB captions = 18 total (PostPlanner xlsx: 8 posts 12:56–20:52 ET, 8 TOBI)
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-07-19.xlsx (8 posts), tfr-postplanner-tobi-2026-07-19.xlsx (8 TOBI posts)
+- **Coverage:** Collignon (BEL) def. Tsitsipas [3] (GRE) 7-6(2), 7-6(5) at Gstaad — first ATP title; saved match point vs Cerundolo in SF. Sakkari (GRE) def. Krejcikova [1] (CZE) at WTA Athens Open — first WTA Athens title in 35 years; Sakkari's first final since Indian Wells March 2024; historic Greek day with Tsitsipas simultaneously in Gstaad final. Badosa (ESP) def. Sherif (EGY) at Iasi — fifth career WTA title; 5-0 in finals; returns to top 100 (No. 75); direct US Open entry; SF comeback from set down vs Zidansek. Bastad final preview: Rublev [1] (2023 champion) vs Darderi [2] (2025 champion) — two former champions in same final; result TBD. Canadian Open preview: 71/72 top ATP confirmed; Sinner/Djokovic/Zverev in; Alcaraz absent (wrist); Aug 1-13 Montreal.
+- **Notes:**
+  - CORRECTIONS: July 18 pipeline incorrectly previewed Gstaad final as Cerundolo vs Shevchenko (actual: Tsitsipas vs Collignon) and Bastad final as Rublev vs Vallejo (actual: Rublev vs Darderi); both corrections acknowledged in today's articles
+  - verify-facts.py: passed after fixing Story 5 X tweet char count (284→278 chars by removing "still" from "Alcaraz still out"); 33 claims; image not_started warnings cosmetic
+  - FB format fix: 04-social-posts-facebook.md reformatted from `#### Long-Form Post — ET` headers to `**Long-Form Post (ET)**` bold; resolved compile FB posts 0→5
+  - compile: 5 stories, 8 X posts, 5 FB posts, 5 articles, 10 images; 28 dashboard items; posting window warnings cosmetic
+  - PostPlanner FB: 0 Facebook posts in XLSX (postplanner script uses different parser expecting `## STORY` markers; pre-existing limitation same as most prior runs)
+  - PostPlanner exports: standard (8 posts) and TOBI (8 posts) generated successfully; 12:56–20:52 ET
+  - WordPress: credentials not in env after context reset; same proxy restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3] (rotating from July 18: Elena Voss [S1, S4], Ryan Calloway [S2, S5], Marcus Cole [S3])
 
 ### 2026-07-18 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)

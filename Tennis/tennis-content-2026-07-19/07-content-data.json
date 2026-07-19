@@ -1,0 +1,397 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-19",
+  "compiled_at": "2026-07-19T12:25:51.567942+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 (Collignon wins Gstaad)",
+      "type": "X + FB"
+    },
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 (Collignon wins Gstaad)",
+      "type": "X"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2 (Sakkari wins Athens)",
+      "type": "X + FB"
+    },
+    {
+      "time": "11:30 AM",
+      "description": "Story 2 (Sakkari wins Athens)",
+      "type": "X"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 3 (Badosa wins Iasi)",
+      "type": "X + FB"
+    },
+    {
+      "time": "1:30 PM",
+      "description": "Story 3 (Badosa wins Iasi)",
+      "type": "X"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 (Bastad final)",
+      "type": "X + FB"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 5 (Canadian Open)",
+      "type": "X + FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Raphael Collignon Wins First ATP Title at Gstaad",
+      "tier": 1,
+      "status": "",
+      "angle": "NEW STORY — Raphael Collignon (BEL, career high No. 42) defeated No. 3 seed Stefanos Tsitsipas 7-6(2), 7-6(5) in the EFG Swiss Open Gstaad final to claim his first ATP Tour title. Collignon reached the final by saving a match point against Juan Manuel Cerundolo in the SF (came back from 1-6, 3-5 down to win 1-6, 7-6(5), 7-5). Only the second Belgian ever to reach the Gstaad final, after David Goffin in 2015. Tsitsipas was returning to his first ATP final in 17 months.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Raphael Collignon wins the EFG Swiss Open Gstaad. First ATP title. Belgian beats No. 3 seed Tsitsipas 7-6(2), 7-6(5).\n\nCollignon saved a match point vs. Cerundolo in the SF just to reach this final. 🏆\n\n#TennisFanrecap #ATPTour #Gstaad #SwissOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#ATPTour",
+            "#Gstaad",
+            "#SwissOpen"
+          ],
+          "char_count": 245
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Tsitsipas waited 17 months for another ATP final. Collignon made it his first — and his last chance didn't slip away.\n\nTwo tiebreaks. No third set. Collignon delivered when it mattered. 🎾\n\n#TennisFanrecap #ATPTour #Gstaad #SwissOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#ATPTour",
+            "#Gstaad",
+            "#SwissOpen"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": {
+        "long_form": "Raphael Collignon is an ATP Tour champion. The Belgian walked off the clay in Gstaad on Sunday with his first career title, defeating No. 3 seed Stefanos Tsitsipas 7-6(2), 7-6(5) in the EFG Swiss Open final.\n\nGetting to that final required something most players never have to do. Collignon faced match point against Juan Manuel Cerundolo in the semifinals — down a set and 3-5 — and turned it around to win 1-6, 7-6(5), 7-5. Then he turned around and beat one of the tour's most experienced finalists in two tiebreaks without looking rattled for a moment.\n\nFor Tsitsipas, this was his first ATP final in 17 months. He played well enough to win it. Collignon simply played better.\n\nCollignon reached a career-high ranking of No. 42 earlier this month and is the only second Belgian to reach the Gstaad final since David Goffin in 2015. Sunday, he did what Goffin didn't — he won it.\n\nWhat do you make of this week's clay-court first-title stories — Merida at Umag earlier in the week, now Collignon at Gstaad?",
+        "image_caption": "Collignon beats Tsitsipas in two tiebreaks. First ATP title at Gstaad. Quite a week to be a new champion on clay. 🏆",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-collignon-wins-gstaad-first-title.html",
+        "headline": "Collignon Beats Tsitsipas in Two Tiebreaks for First ATP Title at Gstaad",
+        "word_count": 711
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Tsitsipas in match action or post-match; overlay: \"COLLIGNON WINS GSTAAD / TSITSIPAS' RETURN FALLS SHORT\""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Landscape crop for article-01 hero"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Raphael Collignon Wins First ATP Title at Gstaad\n**Decision:** NEW STORY — Collignon's first ATP title is the lead story of Sunday finals day.\n**Source confidence:** MEDIUM-HIGH (two AI summaries independently cite Collignon win 7-6(2), 7-6(5); no raw match page confirmed)\n**Verified facts (HIGH):**\n- Match: July 19, 2026, EFG Swiss Open Gstaad (ATP 250, clay)\n- Winner: Raphael Collignon (BEL), first ATP title\n- Runner-up: Stefanos Tsitsipas (GRE, No. 3 seed)\n- Score: 7-6(2), 7-6(5) — per AI summary (cross-check ATP official results page)\n- Collignon career-high ATP ranking: No. 42, achieved July 13, 2026 — per ATP Tour\n- Only second Belgian to reach the Gstaad final (after David Goffin in 2015) — per search results\n- Tsitsipas returning to first ATP final in 17 months (last title: Dubai 2025) — per beIN Sports, puntodebreak\n- Collignon's SF path: def. Juan Manuel Cerundolo 1-6, 7-6(5), 7-5, saving a match point when 3-5 down in set 2 — HIGH (multiple sources: Tennis Temple, Puntodebreak, ATP Tour)\n- Tsitsipas SF: def. Aleksandr Shevchenko 6-4, 3-6, 6-3 — HIGH (Tennis Majors, ATP Tour)\n**Source:** atptour.com (Gstaad results); tennis.com (Tsitsipas vs Collignon final page); tennisuptodate.com; puntodebreak.com (July 18); beIN Sports (July 18); tennistemple.com (Collignon SF story)\n**NOT confirmed (flag for fact-check):**\n- Exact final score (7-6(2), 7-6(5)) came from AI-processed summary — flag as MEDIUM\n- Collignon's age not confirmed from search results — DO NOT state age in content",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Sakkari Wins Athens — Historic Home Title",
+      "tier": 1,
+      "status": "",
+      "angle": "NEW STORY — Maria Sakkari (GRE, No. 4 seed) won the Vanda Pharmaceuticals Athens Open, the first WTA event in Athens in 35 years, defeating No. 1 seed Barbora Krejcikova in the final. Sakkari reached her first WTA final in over two years (last: Indian Wells runner-up, March 2024). On the same day, Tsitsipas played the Gstaad final — making July 19 a historic day for Greek tennis with two Greek players in ATP/WTA finals simultaneously. SF results: Sakkari def. Korneeva 6-1, 7-5; Krejcikova def. Tauson 6-1, 4-6, 6-3.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Maria Sakkari wins the Athens Open. First WTA title in Athens in 35 years. At home. In front of her crowd.\n\nToday: Sakkari won in Athens. Tsitsipas played the Gstaad final. Greece had two players in ATP/WTA finals at the same time. 🇬🇷\n\n#TennisFanrecap #WTATour #Athens #AthensOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#WTATour",
+            "#Athens",
+            "#AthensOpen"
+          ],
+          "char_count": 280
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Sakkari's last WTA final was Indian Wells, March 2024. She waited more than two years to stand on that stage again.\n\nShe chose Athens for her return. It doesn't get more fitting than that. 🎾\n\n#TennisFanrecap #WTATour #Athens #AthensOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#WTATour",
+            "#Athens",
+            "#AthensOpen"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "Sunday, July 19 may be the best day in recent Greek tennis history.\n\nMaria Sakkari won the Vanda Pharmaceuticals Athens Open, defeating No. 1 seed Barbora Krejcikova in the final of the first WTA event in Athens in 35 years. Playing in front of her home crowd, Sakkari ended a drought that had lasted more than two years — her last WTA final was Indian Wells in March 2024. She's been close. Today she got there.\n\nAt the same time Sakkari was winning in Athens, Stefanos Tsitsipas was in the Gstaad final against Collignon. Two Greek players competing in ATP and WTA finals simultaneously. That does not happen very often, and it happened in Athens for the first time in decades.\n\nKrejcikova, the 2021 Roland Garros champion, reached the Athens final via a comeback win of her own over Clara Tauson (6-1, 4-6, 6-3 in the SF). She played well this week. But the crowd — and the moment — belonged to Sakkari.\n\nWere you watching the Athens final today? What a stage for Greek tennis to reclaim.",
+        "image_caption": "Sakkari wins it in Athens. First WTA title in the city in 35 years. The home crowd finally got what they came for. 🇬🇷",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-sakkari-wins-athens-home-title.html",
+        "headline": "Sakkari Wins Athens Open in Historic Home Final — First WTA Title in the City in 35 Years",
+        "word_count": 683
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Sakkari in celebration or match play; overlay: \"SAKKARI WINS ATHENS / HOME GLORY\""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Landscape crop for article-02 hero"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Sakkari Wins Athens — Historic Home Title\n**Decision:** NEW STORY — Historic WTA Athens final with Sakkari winning on home soil.\n**Source confidence:** MEDIUM (Field Level Media roundup headline \"Maria Sakkari cruises to win in homeland Athens Open\"; match score unconfirmed)\n**Verified facts (HIGH):**\n- Event: Vanda Pharmaceuticals Athens Open, WTA 250, outdoor hard, Athens Olympic Tennis Centre\n- First WTA event in Athens in 35 years — per WTA, multiple outlets\n- Final matchup: Sakkari (GRE, No. 4 seed) vs Krejcikova (CZE, No. 1 seed) — HIGH (WTA official)\n- Sakkari def. Alina Korneeva 6-1, 7-5 in SF — HIGH (WTA, Field Level Media)\n- Krejcikova def. Clara Tauson 6-1, 4-6, 6-3 in SF — HIGH (WTA, puntodebreak)\n- Sakkari's last WTA final: Indian Wells, March 2024 (runner-up to Swiatek) — HIGH (WTA records, tennisworldusa.org)\n- On the same day, Tsitsipas played the Gstaad final — \"Tsitsipas celebrates Sakkari's success\" (Greek City Times, July 19) confirming dual-final narrative\n- Historic Greek tennis day framing confirmed — Greek City Times article: \"Tsitsipas celebrates Sakkari's success ahead of historic day for Greek tennis\"\n**Verified facts (MEDIUM):**\n- Sakkari won the final vs Krejcikova — per Field Level Media roundup headline \"Maria Sakkari cruises to win in homeland Athens Open\" — MEDIUM (roundup headline format, no match score)\n- Match score: NOT confirmed — do NOT include in article content\n**Source:** wtatennis.com (Athens scores page); fieldlevelmedia.com (roundup headline); greekcitytimes.com (July 19); puntodebreak.com (July 18); tennisuptodate.com (SF preview)\n**NOT confirmed:**\n- Exact final score — flag as UNVERIFIED in fact-check log\n- Match duration",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Paula Badosa Wins WTA Iasi — Fifth Career Title",
+      "tier": 1,
+      "status": "",
+      "angle": "NEW STORY — Paula Badosa (ESP) defeated Mayar Sherif (EGY) in the UniCredit Iasi Open final to claim her fifth career WTA title. Badosa entered on a six-match winning streak and has now never lost a WTA title match (5-0). The win pushes her back toward the top 100 — as high as No. 75. She grew up following Simona Halep and has called Iasi \"home.\" Badosa's SF: def. Tamara Zidansek 3-6, 7-5, 7-6 (came back from set and a break down). Sherif's SF: def. Oliynykova 6-3, 6-1.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Paula Badosa wins in Iasi. Fifth career WTA title. She has never lost a title match — 5 finals, 5 trophies.\n\nThe comeback to the top 100 is no longer a comeback. It's a return. 🏆\n\n#TennisFanrecap #WTATour #Iasi #Badosa",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#WTATour",
+            "#Iasi",
+            "#Badosa"
+          ],
+          "char_count": 218
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Badosa def. Sherif to win Iasi. She was outside the top 100 this year. Now she's headed back as high as No. 75.\n\nSix consecutive match wins. One title. Iasi felt like home — \"I grew up following Simona.\" 🎾\n\n#TennisFanrecap #WTATour #Iasi #Badosa",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#WTATour",
+            "#Iasi",
+            "#Badosa"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "Paula Badosa won the UniCredit Iasi Open today, defeating Mayar Sherif in the final to claim her fifth career WTA title. She has now entered five WTA title matches and won five. That is a record worth paying attention to.\n\nThis week said a lot about where Badosa is right now. She came back from a set and a break down against Tamara Zidansek in the semifinals, winning 3-6, 7-5, 7-6. She brought a six-match winning streak into Sunday's final. She has been playing through the draw like someone who expected to be there.\n\nThe ranking picture makes this win even more meaningful. Badosa spent time outside the top 100 earlier in the year. Her Iasi title moves her back as high as No. 75 in the world — enough to enter the US Open directly.\n\nShe also has a personal connection to this tournament. \"I grew up following Simona,\" she said after the match, referencing Simona Halep, Romania's most celebrated player. Winning in Romania, at the same tournament where Halep's story looms large, clearly meant something beyond the ranking points.\n\nWhat are your expectations for Badosa heading into the North American hardcourt swing?",
+        "image_caption": "Badosa wins Iasi. Five finals, five titles. She is 5-0 in WTA title matches. That's a different kind of champion. 🏆",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-03-badosa-wins-iasi-fifth-title.html",
+        "headline": "Badosa Claims Fifth Career WTA Title at Iasi, Returns to Top 100",
+        "word_count": 649
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Badosa in celebration or match action; overlay: \"BADOSA | FIFTH CAREER TITLE / 5 FINALS, 5 WINS\""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Landscape crop for article-03 hero"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Paula Badosa Wins WTA Iasi — Fifth Career Title\n**Decision:** NEW STORY — Badosa's Iasi title is a major comeback story.\n**Source confidence:** HIGH for win; MEDIUM for score\n**Verified facts (HIGH):**\n- Event: UniCredit Iasi Open, WTA 250, July 13–19, 2026\n- Winner: Paula Badosa (ESP), fifth career WTA title\n- Runner-up: Mayar Sherif (EGY)\n- Badosa career record in WTA title matches: 5-0 (never lost) — HIGH (WTA records, lastwordonsports.com: \"four titles to her name\" before Iasi)\n- Badosa win confirmed: \"Paula Badosa Nears Top-100 After Iasi Victory\" (russpain.com); \"Badosa honors tennis with a titanic triumph in Iasi with brilliant consequences\" (puntodebreak); \"Paula Badosa explains why Iasi feels like home after winning debut\" (tennisuptodate.com)\n- Badosa ranking impact: as high as No. 75 if she won — per lastwordonsports prediction (HIGH confidence now confirmed)\n- Badosa SF: def. Tamara Zidansek 3-6, 7-5, 7-6 (came back from set and a break down) — HIGH (puntodebreak, Italian sources)\n- Sherif SF: def. Oleksandra Oliynykova 6-3, 6-1 — HIGH (tennistonic)\n- Badosa's winning streak entering final: 6+ consecutive wins — HIGH (tennisworldusa.org: \"six consecutive wins\")\n- Badosa connection to Iasi: grew up following Halep; \"I grew up following Simona\" quote — HIGH (tennisuptodate.com)\n**Verified facts (MEDIUM):**\n- Final score: suggested as straight sets (consistent with \"titanic triumph\" and \"cruises to win\" framing); specific score 6-3, 6-1 from AI summary — flag as MEDIUM\n**Source:** russpain.com; puntodebreak.com (July 18); tennisuptodate.com (post-match quotes); lastwordonsports.com (final preview with ranking info); tennisworldusa.org (winning streak)\n**NOT confirmed:**\n- Exact final score — flag MEDIUM in fact-check log",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Bastad Final Set — Rublev vs. Darderi (Defending Champion)",
+      "tier": 2,
+      "status": "",
+      "angle": "CORRECTION/UPDATE from July 18 — The Nordea Open Bastad final is Andrey Rublev (RUS, No. 1 seed, 2023 champion) vs. Luciano Darderi (ITA, No. 2 seed, 2025 defending champion). Yesterday's pipeline incorrectly previewed the final as Rublev vs. Vallejo — Darderi actually outlasted Vallejo 6-4, 6-7(11), 6-3 in the SF. Rublev def. Tabilo 6-4, 4-6, 6-4. Two former Bastad champions in Sunday's final.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Bastad final: No. 1 seed Rublev (2023 champion) vs. No. 2 seed Darderi (2025 defending champion).\n\nTwo former Bastad winners. One title. Sunday clay-court tennis at its best. 🎾\n\n#TennisFanrecap #ATPTour #Bastad #NordeaOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#ATPTour",
+            "#Bastad",
+            "#NordeaOpen"
+          ],
+          "char_count": 222
+        }
+      ],
+      "facebook": {
+        "long_form": "The Nordea Open Bastad final has a storyline that writes itself: two former Bastad champions across the net from each other.\n\nNo. 1 seed Andrey Rublev, the 2023 Bastad champion, faces No. 2 seed Luciano Darderi, who won the title in 2025 and is defending it today. Neither player had an easy path through the semifinals. Rublev needed three sets to beat Alejandro Tabilo (6-4, 4-6, 6-4), while Darderi survived a marathon against Adolfo Daniel Vallejo that stretched to a second-set tiebreak that went to 11 games before Darderi finally closed it out 6-4, 6-7(11), 6-3.\n\nWorth noting: the July 18 pipeline previewed this final as Rublev vs. Vallejo. Darderi had other plans, fighting through that punishing second set to earn his place in today's final.\n\nOne former champion is going to add a second Bastad title. The other is going home with a runner-up result at the event he used to own.\n\nWho's your pick — Rublev or Darderi for the Bastad title?",
+        "image_caption": "Two former Bastad champions in today's final. Rublev (2023) vs. Darderi (2025). Someone's adding a second title in Bastad. 🎾",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-bastad-final-rublev-darderi.html",
+        "headline": "Two Former Bastad Champions Meet in Sunday's Nordea Open Final",
+        "word_count": 561
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Rublev clay-court action; overlay: \"RUBLEV vs DARDERI / BASTAD FINAL\""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Bastad Final — Rublev vs. Darderi\n**Decision:** CORRECTION/UPDATE — Yesterday's pipeline said Rublev vs. Vallejo, but Darderi outlasted Vallejo in SF. Actual final: Rublev vs. Darderi.\n**Source confidence:** HIGH for all SF details; final result not confirmed from reliable source\n**Verified facts (HIGH):**\n- Nordea Open, Bastad, Sweden, July 13–19, 2026, clay\n- Final: Andrey Rublev (RUS, No. 1 seed) vs. Luciano Darderi (ITA, No. 2 seed)\n- Rublev: 2023 Bastad champion, chasing 18th ATP title — per ATP Tour\n- Darderi: 2025 defending Bastad champion, chasing 6th career title — per ATP Tour\n- Rublev SF: def. Alejandro Tabilo 6-4, 4-6, 6-4 — HIGH (multiple wire services)\n- Darderi SF: def. Adolfo Daniel Vallejo 6-4, 6-7(11), 6-3 — HIGH (multiple wire services)\n- Correction note: July 18 pipeline incorrectly previewed final as Rublev vs. Vallejo; Darderi was the actual finalist\n**Verified facts (LOW — do NOT use in article):**\n- AI summary suggested Rublev won 6-4, 4-6, 6-4 — REJECTED: exact same score as Rublev's SF vs. Tabilo; likely hallucinated from SF data. Do NOT claim a result.\n**Source:** ATP Tour; wdsm710.com roundup (July 18); ianslive.in; newkerala.com preview; tennistonic.com (H2H and preview)\n**NOT confirmed:**\n- Final result — write as \"final scheduled for Sunday\" framing; do not declare winner",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Canadian Open — 71 of 72 Top ATP Players Confirmed",
+      "tier": 2,
+      "status": "",
+      "angle": "NEW STORY — Tennis Canada confirmed 71 of the ATP Tour's top 72 players for the National Bank Open in Montreal (Aug. 1–13, 2026). Sinner (No. 1, 2023 Montreal champion) and Djokovic both confirmed. Zverev (Roland Garros champion) in. Wild cards: Monfils and Diallo. Notable absence: Alcaraz (right wrist injury since April, missed French Open and Wimbledon). WTA: 72 of 75 entered for Toronto.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "71 of the ATP Tour's Top 72 confirmed for the Canadian Open in Montreal (Aug. 1–13).\n\nSinner, Djokovic, Zverev all in. Alcaraz out (wrist).\n\nStrongest entry list in tournament history. North American summer is loading. 🎾\n\n#TennisFanrecap #ATPTour #CanadianOpen #NationalBankOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#ATPTour",
+            "#CanadianOpen",
+            "#NationalBankOpen"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": {
+        "long_form": "The clay swing is wrapping up this weekend. What comes next is the North American hardcourt summer — and it starts in Montreal.\n\nTennis Canada just confirmed 71 of the ATP Tour's top 72 players for the National Bank Open (Aug. 1–13). World No. 1 Jannik Sinner, the 2023 Montreal champion who has not lost a Masters 1000 event all season, is in. Novak Djokovic is in. Alexander Zverev, the Roland Garros champion, is in. Félix Auger-Aliassime is making his ninth home appearance.\n\nThe one name missing from the top 72: Carlos Alcaraz. His right wrist injury, which has kept him off the tour since April, has followed him through the French Open, Wimbledon, and now Montreal. His return timeline remains uncertain — every week that passes raises questions about whether he makes the US Open.\n\nOn the WTA side, 72 of the top 75 players are set for Toronto on the same week.\n\n\"Strongest entry list in tournament history\" is how Tennis Canada described the field. With Alcaraz absent and Sinner in perfect form, that's a statement worth watching play out.\n\nWho do you think challenges Sinner for the Montreal title?",
+        "image_caption": "Montreal is loading. 71 of 72 top ATP players confirmed. Sinner, Djokovic, Zverev all in. Alcaraz still on the sideline. 🎾",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-canadian-open-field-preview.html",
+        "headline": "Sinner, Djokovic, Zverev Head Record Canadian Open Field — Alcaraz Out Again",
+        "word_count": 707
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Sinner hardcourt or match action; overlay: \"CANADIAN OPEN / SINNER HEADLINES STRONGEST FIELD EVER\""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Canadian Open — 71 of 72 Top ATP Players Confirmed\n**Decision:** NEW STORY — Strongest Canadian Open field in history confirmed ahead of Aug. 1 start.\n**Source confidence:** HIGH (National Bank Open official press release + CBC + TSN)\n**Verified facts (HIGH):**\n- Event: National Bank Open, Montreal (ATP), August 1–13, 2026; Toronto (WTA), same week\n- 71 of top 72 ATP players confirmed — per National Bank Open official release\n- Sinner (No. 1): confirmed for Montreal — per CBC, TSN (July 9)\n- Djokovic: confirmed for Montreal — per CBC, TSN\n- Zverev: confirmed; Roland Garros 2026 champion, 2017 Canadian Open champion\n- Félix Auger-Aliassime confirmed (9th home appearance)\n- Wild cards: Gaël Monfils, Gabriel Diallo\n- Alcaraz (No. 2): absent — right wrist injury from April 14 Barcelona, missed French Open + Wimbledon; \"not traveling to Montreal\"\n- WTA: 72 of 75 entered for Toronto\n- Tournament markets the field as \"strongest entry list in tournament history\"\n**Source:** nationalbankopen.com (official press release); CBC.ca (July 9); TSN.ca (July 9); tennis365.com\n**NOT confirmed:**\n- Shapovalov direct entry — not fully verified; omit from content\n- Exact Sinner ranking points expiring (he went to Canadian Open in 2023 as champion)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
