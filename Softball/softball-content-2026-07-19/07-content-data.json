@@ -1,0 +1,243 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-19",
+  "compiled_at": "2026-07-19T10:22:57.481179+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "PGF Nationals Opens TODAY — Week One Begins in Irvine",
+      "tier": 1,
+      "status": "",
+      "angle": "After weeks of previewing, the tournament is here. The fields at Great Park are live, 72 teams are competing, and ESPN cameras are coming for the championships. The summer's biggest grassroots stage is open.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "PGF Nationals opens TODAY at Great Park in Irvine, CA.\n\n72 teams. 22 states. 18U and 16U Premier.\n\nChampionships on ESPNU and ESPN+. Sept. 1 recruiting window = 43 days.\n\nThe biggest grassroots tournament in softball is here. #PGFNationals #softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGFNationals",
+            "#softball"
+          ],
+          "char_count": 249
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Day 1 of PGF Nationals is underway.\n\n72 teams competing across Great Park Irvine and four other SoCal venues.\n\nFor Class of 2028 players — coaches can't call yet. But they are absolutely watching.\n\n43 days to September 1. Every at-bat counts. #PGFNationals #softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGFNationals",
+            "#softball"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-pgf-nationals-2026-opens-today.html",
+        "headline": "72 Teams. 22 States. The PGF Nationals Are Finally Here.",
+        "word_count": 557
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "PGF Nationals Opens Today\n\n#### Image Concept 1 (Social — 1080x1350)\n- **Use:** X post + Facebook image caption (9:00 AM)\n- **Status:** not_started\n- **Photo search:** stock — Great Park Irvine softball fields OR travel softball game action (diverse)\n- **Concept:** Wide overhead or side-angle shot of packed softball fields at a major tournament; text overlay: \"PGF NATIONALS / Day 1 / Great Park, Irvine CA / #PGFNationals\"\n- **Overlay text:** \"PGF NATIONALS 2026 / STARTS TODAY / Great Park · Irvine, CA\"\n\n#### Image Concept 2 (Article Hero — 1200x630)\n- **Use:** Article 01 featured image\n- **Status:** not_started\n- **Photo search:** stock — travel softball tournament panoramic OR softball player batting 18U\n- **Concept:** Wide shot of travel softball action; horizontal crop for article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "AUSL Final Day Tomorrow — No. 1 Seed Race Reaches Its Last Chapter",
+      "tier": 1,
+      "status": "",
+      "angle": "The AUSL regular season ends tomorrow. One game left — and whoever finishes on top gets the easiest path to the ABC Championship. The race is as close as it has ever been this late in the season.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "AUSL regular season ends TOMORROW.\n\nUtah Talons hold the No. 1 seed — and No. 1 = direct bye to the ABC Championship at Davis Diamond.\n\nNo. 2 vs. No. 3 play a win-or-go-home game July 23.\n\nOne day left to change everything. #AUSL #softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#AUSL",
+            "#softball"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-ausl-final-day-monday-no1-seed.html",
+        "headline": "One Day Left. The AUSL's No. 1 Seed Race Is Almost Over.",
+        "word_count": 549
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "AUSL Final Day Tomorrow\n\n#### Image Concept 3 (Social — 1080x1350)\n- **Use:** X post + Facebook image caption (11:00 AM)\n- **Status:** not_started\n- **Photo search:** \"Utah Talons AUSL\" OR \"Sharlize Palacios Utah Talons\"\n- **Concept:** Talons player in action or celebration; text overlay: \"AUSL FINAL DAY / TOMORROW / No. 1 Seed on the Line\"\n- **Overlay text:** \"ONE DAY LEFT / AUSL Regular Season / Monday, July 20\"\n\n#### Image Concept 4 (Article Hero — 1200x630)\n- **Use:** Article 02 featured image\n- **Status:** not_started\n- **Photo search:** \"Jadelyn Allchin Utah Talons\" OR \"Chicago Bandits AUSL\"\n- **Concept:** Action shot of Talons or Bandits player; horizontal crop for hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Megan Grant and Maya Brady Are Tied — Two Former Bruins Lead the AUSL in Home Runs",
+      "tier": 2,
+      "status": "",
+      "angle": "Two former Bruins, now on different teams, tied for the AUSL home run lead. The college connection makes this the league's most compelling individual matchup with two games left.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Megan Grant: 8 AUSL HRs.\nMaya Brady: 8 AUSL HRs.\n\nThey were UCLA teammates. Now they're tied for the pro softball HR lead with two games left in the regular season.\n\nWho finishes on top? #AUSL #softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#AUSL",
+            "#softball"
+          ],
+          "char_count": 202
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-megan-grant-maya-brady-ausl-hr-race.html",
+        "headline": "They Were Teammates at UCLA. Now They're Tied for the AUSL Home Run Lead.",
+        "word_count": 524
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Grant and Brady AUSL HR Tie\n\n#### Image Concept 5 (Social — 1080x1350)\n- **Use:** X post + Facebook image caption (1:00 PM)\n- **Status:** not_started\n- **Photo search:** \"Megan Grant Portland Cascade\" OR \"Megan Grant UCLA\"\n- **Concept:** Action shot of Grant at bat or rounding the bases; text overlay: \"TIED AT 8 / Grant · Brady / AUSL Home Run Race\"\n- **Overlay text:** \"TIED FOR THE LEAD / 8 AUSL HOME RUNS EACH / Grant vs. Brady\"\n\n#### Image Concept 6 (Article Hero — 1200x630)\n- **Use:** Article 03 featured image\n- **Status:** not_started\n- **Photo search:** \"Megan Grant Portland Cascade\"\n- **Concept:** Grant batting action; horizontal crop for hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "NiJaree Canady Watch — She Didn't Pitch Again. What Comes Next?",
+      "tier": 2,
+      "status": "",
+      "angle": "The No. 2 pick didn't pitch in Friday's game, and the regular season ends Monday. Two starts remain on the possible schedule. The Canady comeback arc isn't resolved yet — and the final game is its last chapter before the offseason.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "NiJaree Canady did not pitch in Friday's Texas-Portland game.\n\nAlly Carda started. Aliyah Binford relieved. The Volts won 7-2.\n\nOne game left Monday. The No. 2 pick still hasn't found her groove.\n\nThe Canady comeback story doesn't have an ending yet. #AUSL #softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#AUSL",
+            "#softball"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-nijaree-canady-final-start-regular-season.html",
+        "headline": "NiJaree Canady Didn't Pitch Friday. One Start Remains Before the Offseason.",
+        "word_count": 549
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NiJaree Canady Watch\n\n#### Image Concept 7 (Social — 1080x1350)\n- **Use:** X post + Facebook image caption (3:00 PM)\n- **Status:** not_started\n- **Photo search:** \"NiJaree Canady Texas Volts\" OR \"NiJaree Canady Texas Tech\"\n- **Concept:** Portrait or pitching action of Canady; text overlay: \"CANADY / Season's Last Start Ahead / #AUSL\"\n- **Overlay text:** \"NIJAREE CANADY / One Start Left / AUSL Regular Season Finale\"\n\n#### Image Concept 8 (Article Hero — 1200x630)\n- **Use:** Article 04 featured image\n- **Status:** not_started\n- **Photo search:** \"NiJaree Canady Texas Tech\"\n- **Concept:** Canady in pitching motion; horizontal crop for hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "6 Days to Davis Diamond — AUSL Championship Guide",
+      "tier": 3,
+      "status": "",
+      "angle": "For fans who have just discovered the AUSL through the ABC broadcast announcement, this is the complete guide: format, venue, and why July 25 is a historic date for women's professional sports.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "6 days to the AUSL Championship at Davis Diamond, Texas A&M.\n\nGame 1 is on ABC — the first professional softball game ever on network TV.\n\nPlay-in: July 23. Championship: July 25-27.\n\nHistory is six days away. #AUSL #softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#AUSL",
+            "#softball"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-ausl-championship-davis-diamond-6-days.html",
+        "headline": "Six Days to Davis Diamond. Here's Your Complete AUSL Championship Guide.",
+        "word_count": 477
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Davis Diamond — 6 Days Out\n\n#### Image Concept 9 (Social — 1080x1350)\n- **Use:** X post + Facebook image caption (8:00 PM)\n- **Status:** not_started\n- **Photo search:** \"Davis Diamond Texas A&M softball\" OR stock Texas A&M campus\n- **Concept:** Venue or campus shot with text overlay; \"6 DAYS / AUSL Championship / Davis Diamond · Texas A&M / Game 1 on ABC\"\n- **Overlay text:** \"6 DAYS / AUSL CHAMPIONSHIP / Davis Diamond · Texas A&M\"\n\n#### Image Concept 10 (Article Hero — 1200x630)\n- **Use:** Article 05 featured image\n- **Status:** not_started\n- **Photo search:** \"Davis Diamond Texas A&M softball\" OR Texas A&M campus\n- **Concept:** Wide shot of Davis Diamond or campus; horizontal crop for article hero"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

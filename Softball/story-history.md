@@ -3,6 +3,64 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-07-19
+
+### Story 1: PGF Nationals 2026 Opens Today — Week One at Great Park, Irvine CA
+- **Date:** 2026-07-19
+- **Tier:** 1
+- **Classification:** FOLLOW UP (PGF Nationals tracked since June 30; tournament opens today)
+- **Angle:** Day 1 is live at Great Park, Irvine and four other SoCal venues. 72 teams, 22 states, 18U and 16U Premier. Championships on ESPNU (18U, 3PM) and ESPN+ (16U, 11:30 AM). September 1 recruiting contact window for Class of 2028 = 43 days away. Top contenders: GA Impact Taylor, Mojo-Lewis, Arizona Storm-Mendez, Alliance Fastpitch.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - PGF pool play results and bracket updates July 20-21
+  - Top 18U/16U performers and commitment implications
+  - Championship results July 25
+
+### Story 2: AUSL Final Day Tomorrow — No. 1 Seed Race Heads Into Last Chapter Monday
+- **Date:** 2026-07-19
+- **Tier:** 1
+- **Classification:** FOLLOW UP (AUSL No. 1 seed race tracked since July 10; regular season ends tomorrow July 20)
+- **Angle:** Utah Talons hold No. 1 seed and confirmed postseason berth (clinched with 5-4 comeback over OKC Spark; Palacios walk-off 2-run HR 7th; Faraimo CG 10K). Chicago Bandits chased all second half with 9-game win streak (AUSL record). Regular season ends July 20. No. 1 seed = direct bye to ABC Championship at Davis Diamond; No. 2/No. 3 play win-or-go-home July 23.
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Monday July 20 final regular-season results and seed assignments
+  - Play-in game July 23 at Davis Diamond
+  - Championship Series July 25-27
+
+### Story 3: Megan Grant and Maya Brady Tied at 8 AUSL HRs — Two Former UCLA Teammates
+- **Date:** 2026-07-19
+- **Tier:** 2
+- **Classification:** NEW ANGLE (Grant-Brady HR tie confirmed Yahoo Sports; UCLA connection not previously framed this way)
+- **Angle:** Grant (Portland Cascade) and Brady (Chicago Bandits) tied at 8 AUSL HRs per Yahoo Sports. Both former UCLA Bruins. Grant: 42 HR NCAA record at UCLA (broke Espinoza 37 from 1995, 31-year mark); 313-ft debut HR = AUSL distance record. Cascade locked in for play-in July 23. Bandits competing for top seed.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Final regular-season HR totals after Monday games
+  - Grant performance in play-in July 23
+  - Brady in Championship if Bandits advance
+
+### Story 4: NiJaree Canady Didn't Pitch Friday — One Regular-Season Start Remains
+- **Date:** 2026-07-19
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Canady mechanics story tracked since July 3; new confirmed detail: Carda/Binford started July 17, not Canady)
+- **Angle:** Confirmed from Portland Tribune boxscore: Ally Carda started, Aliyah Binford relieved in July 17 Texas 7-2 win over Cascade. Canady did not pitch. She has been working with ex-Stanford coach Tori Nyberg on mechanics damaged by Texas Tech injuries. 0-3 / 6.87 ERA in early AUSL appearances. Volts have one regular-season game left (Monday July 20).
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Monday July 20 Volts game — does Canady start in regular season finale?
+  - Offseason Nyberg mechanics update
+
+### Story 5: 6 Days to Davis Diamond — AUSL Championship Guide
+- **Date:** 2026-07-19
+- **Tier:** 3
+- **Classification:** PREVIEW/EVERGREEN (updated countdown; was "7 days" on July 18)
+- **Angle:** 6 days to AUSL Championship at Davis Diamond, Texas A&M, College Station TX. Format: No. 1 seed → direct bye to Championship July 25-27; No. 2 vs No. 3 play-in July 23. Game 1 on ABC = first pro softball on network TV. Davis Diamond: 5,000-capacity, Texas A&M campus.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Play-in game July 23 coverage
+  - Championship Series coverage July 25-27
+  - ABC broadcast angle
+
+---
+
 ## 2026-07-18
 
 ### Story 1: AUSL No. 1 Seed Race — Utah 14-6, Chicago 13-7, Playing TODAY

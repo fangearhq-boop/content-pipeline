@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-07-19
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch, 4 queries + 2 research agents), brief (5 stories), research notes, story analysis, X posts (6; 1 char violation fixed S4T1 281→267; 0 violations after fix), FB posts (5 stories), image concepts (10 items), image manifest (10 items, not_started), articles (5), fact-check (61 claims), compile (5 stories, 6 tweets, 0 FB posts — format known, 5 articles, 21 items), dashboard (21 items), PostPlanner exports (6 posts standard + 6 TOBI). WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard publish push failed (proxy known restriction). IMAGE MISSING expected (not_started). 1 char violation fixed (S4T1 281→267). FB posts: 0 compiled (format known).
+- **Key Stories**: PGF Nationals opens TODAY July 19/Great Park Irvine CA + 4 SoCal venues/72 teams 22 states 18U+16U Premier/ESPNU+ESPN+/Sept 1 recruiting window 43 days (Tier 1 FOLLOW UP), AUSL final day TOMORROW July 20/Utah Talons hold No. 1 seed+clinched postseason (5-4 OKC comeback; Palacios walk-off HR; Faraimo CG 10K)/Chicago Bandits 9-game win streak AUSL record/No. 1 seed = direct bye to ABC Championship (Tier 1 FOLLOW UP), Megan Grant+Maya Brady TIED 8 AUSL HRs/both former UCLA Bruins/NEW ANGLE per Yahoo Sports/Grant: 42 HR NCAA record+313-ft AUSL distance record/Cascade locked in play-in July 23 (Tier 2 NEW ANGLE), NiJaree Canady didn't pitch July 17/Ally Carda started/Aliyah Binford relieved/confirmed Portland Tribune/working with Tori Nyberg on mechanics/one start left Monday (Tier 2 FOLLOW UP), Davis Diamond 6 days out/play-in July 23/Championship July 25-27/Game 1 on ABC first pro softball network TV (Tier 3 EVERGREEN)
+
+## Last Run
 - **Date**: 2026-07-18
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch, 6 queries + 4 research agents), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations), FB posts (5 stories), image concepts (8 items), image manifest (10 items, not_started), articles (5), fact-check (103 claims HIGH), compile (5 stories, 6 tweets, 0 FB posts — format known, 5 articles, 21 items), dashboard (21 items), PostPlanner exports (6 posts standard + 6 TOBI). WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
