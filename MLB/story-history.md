@@ -5,6 +5,64 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-19
+
+### Story 1: Red Sox Win 12th Straight — Comeback From 6-3 Down
+- **Date:** 2026-07-19
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Red Sox 11-game win streak covered July 18; streak now 12 with comeback win)
+- **Angle:** Red Sox beat Rays 7-6 on July 18, trailed 6-3 entering 7th. Wilyer Abreu 2-run HR off Cleavinger. Jahmai Jones HR in first start after trade. Abreu: 4 HR in 2 games. Streak: 12 consecutive wins, franchise longest since June 2006. Record: 49-48, one game over .500 first time since April. AL Wild Card spot.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Red Sox Wild Card tracking daily through August 3 deadline
+  - Chad Tracy interim manager profile
+  - Wilyer Abreu hot streak tracking
+
+### Story 2: Dodgers-Yankees Doubleheader TODAY
+- **Date:** 2026-07-19
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Dodgers 2 Yankees 1 covered July 18; Saturday rained out; split doubleheader is live event July 19)
+- **Angle:** Saturday July 18 game rained out, rescheduled as split doubleheader July 19. Game 1 12:35 PM ET, Game 2 7:20 PM ET on NBC/Peacock. Dodgers 62-36 (best in MLB). First Dodgers-Yankees meeting since 2024 World Series. Aaron Judge remains out (rib injury).
+- **Content Produced:** Article (article-02, Jake Torres), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Dodgers-Yankees series outcome
+  - Aaron Judge rib injury / return timeline
+  - Ohtani mound return July 22 vs. Phillies
+
+### Story 3: Mets Are Selling — Francisco Lindor Is On The Market
+- **Date:** 2026-07-19
+- **Tier:** 1
+- **Classification:** NEW STORY (Mets confirmed full sell mode with Lindor available — first report of this magnitude)
+- **Angle:** Mets fully in sell mode heading to August 3 deadline. Lindor (signed through 2031) being shopped. Protected: Juan Soto, Benge, Ewing, Christian Scott, McLean. 15 days to deadline.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Lindor trade destination tracking daily
+  - Mets sell-mode other moves (who else goes)
+  - Buyer pool for Lindor's contract
+
+### Story 4: Skubal Wants to Stay — Tigers Inclined to Hold Their Ace
+- **Date:** 2026-07-19
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Skubal situation tracked July 17-18; new angle is mutual desire to stay + Tigers cost analysis)
+- **Angle:** Skubal told people close to him he wants to stay; believes Tigers can win World Series. Tigers increasingly inclined to keep him. Asking price "outrageous" per rival executives. Active suitors: Cubs, Braves, Rays. August 3 deadline 15 days away.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Skubal trade/stay daily until August 3
+  - Tigers second-half standings
+
+### Story 5: AL Wild Card Race — Red Sox Surge Changes Everything
+- **Date:** 2026-07-19
+- **Tier:** 2
+- **Classification:** NEW STORY (AL Wild Card standings audit with Red Sox surge reshuffling the picture)
+- **Angle:** Four teams for three spots. Yankees 54-43 (Wild Card 1), Guardians 51-46 (Wild Card 2), Twins 49-49 tied with Red Sox 49-48 for Wild Card 3. White Sox 51-45 lead AL Central. Rays 56-40 AL East. Red Sox 12-game streak reshuffled race.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - AL Wild Card tracking daily
+  - White Sox Central race vs. Wild Card race
+  - Deadline moves by Wild Card teams
+
+---
+
 ## 2026-07-18
 
 ### Story 1: Chase Burns Signs 7-Year, $105 Million Extension With the Reds

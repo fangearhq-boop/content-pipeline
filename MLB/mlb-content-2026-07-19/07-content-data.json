@@ -1,0 +1,243 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-19",
+  "compiled_at": "2026-07-19T10:36:19.309601+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Red Sox Win 12th Straight — Comeback From 6-3 Down",
+      "tier": 1,
+      "status": "",
+      "angle": "They trailed by three runs with three innings left and still won. The 11-game streak was the story yesterday. The comeback is the story today — and it's a better one.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Boston trailed 6-3 entering the 7th inning Saturday night.\n\nThey won 7-6.\n\nWilyer Abreu 2-run HR. Jahmai Jones HR in his first start after the trade.\n\nThe Red Sox streak is at 12. Franchise's longest since June 2006. #RedSox #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RedSox",
+            "#MLB"
+          ],
+          "char_count": 229
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Wilyer Abreu has 4 home runs in his last 2 games.\n\nThe Red Sox just won their 12th consecutive game on a comeback win — trailed by 3 entering the 7th.\n\nBoston is 49-48. One game over .500 for the first time since April.\n\nThis thing is real. #RedSox #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RedSox",
+            "#MLB"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-red-sox-12-straight-comeback-rally.html",
+        "headline": "The Red Sox Trailed by Three in the 7th and Won Anyway. That's 12 in a Row.",
+        "word_count": 512
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Red Sox Win 12th Straight — Comeback From 6-3 Down\n\n#### Image Concept 1 (Social — 1080x1350)\n- **Use:** X post + Facebook image caption (8:30 AM)\n- **Status:** not_started\n- **Photo search:** \"Wilyer Abreu Boston Red Sox\"\n- **Overlay text:** \"12 IN A ROW / Red Sox comeback win / Trailed 6-3 in the 7th\"\n\n#### Image Concept 2 (Article Hero — 1200x630)\n- **Use:** article-01-red-sox-12-straight-comeback-rally.html featured image\n- **Status:** not_started\n- **Photo search:** \"Wilyer Abreu Boston Red Sox\"\n- **Overlay text:** (none — article hero)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Dodgers-Yankees Doubleheader TODAY",
+      "tier": 1,
+      "status": "",
+      "angle": "Two games in one day between the best team in baseball and the most storied franchise in the sport. Game 1 at noon, Game 2 in prime time on NBC. This is today's event.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "The Dodgers-Yankees game was rained out Saturday.\n\nThey rescheduled it. Now it's two games in one day.\n\nGame 1: 12:35 PM ET\nGame 2: 7:20 PM ET on NBC/Peacock\n\nFirst time these franchises have met since the 2024 World Series. Dodgers: 62-36. #Dodgers #Yankees #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#Yankees",
+            "#MLB"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-dodgers-yankees-doubleheader-today.html",
+        "headline": "The Rain Made It Better. Dodgers-Yankees Doubleheader Is Today.",
+        "word_count": 480
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Dodgers-Yankees Doubleheader TODAY\n\n#### Image Concept 3 (Social — 1080x1350)\n- **Use:** X post + Facebook image caption (11:30 AM)\n- **Status:** not_started\n- **Photo search:** \"Shohei Ohtani Los Angeles Dodgers\"\n- **Overlay text:** \"TWO GAMES TODAY / Dodgers vs. Yankees / 12:35 PM + 7:20 PM ET on NBC\"\n\n#### Image Concept 4 (Article Hero — 1200x630)\n- **Use:** article-02-dodgers-yankees-doubleheader-today.html featured image\n- **Status:** not_started\n- **Photo search:** \"Yankee Stadium Los Angeles Dodgers\"\n- **Overlay text:** (none — article hero)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Mets Are Selling — Francisco Lindor Is On The Market",
+      "tier": 1,
+      "status": "",
+      "angle": "When a team trades its franchise shortstop, it's not selling. It's blowing the whole thing up. The Mets are doing something bigger than a deadline sell.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The Mets are selling.\n\nFrancisco Lindor — signed through 2031 — is reportedly available.\n\nThey're protecting Juan Soto and their top pitching prospects. Everything else is on the table.\n\n15 days to August 3. The Mets are blowing it up. #Mets #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Mets",
+            "#MLB"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-mets-selling-francisco-lindor-available.html",
+        "headline": "The Mets Are Selling. Francisco Lindor — Signed Through 2031 — Is Available.",
+        "word_count": 379
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Mets Are Selling — Francisco Lindor Is On The Market\n\n#### Image Concept 5 (Social — 1080x1350)\n- **Use:** X post + Facebook image caption (1:30 PM)\n- **Status:** not_started\n- **Photo search:** \"Francisco Lindor New York Mets\"\n- **Overlay text:** \"ON THE MARKET / Francisco Lindor / Mets in full sell mode\"\n\n#### Image Concept 6 (Article Hero — 1200x630)\n- **Use:** article-03-mets-selling-francisco-lindor-available.html featured image\n- **Status:** not_started\n- **Photo search:** \"Francisco Lindor New York Mets\"\n- **Overlay text:** (none — article hero)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Skubal Wants to Stay — Tigers Inclined to Hold Their Ace",
+      "tier": 2,
+      "status": "",
+      "angle": "Yesterday the trade felt inevitable. Today the Tigers are the ones making it complicated. Their ace doesn't want to leave, and the front office is starting to listen.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Tarik Skubal has told people close to him he wants to stay in Detroit.\n\nHe believes the Tigers can win the World Series.\n\nAnd the Tigers are increasingly inclined to let him stay.\n\n15 days to August 3. The Cubs, Braves, and Rays are all still calling. #Tigers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tigers",
+            "#MLB"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-skubal-wants-to-stay-tigers-inclined-to-hold.html",
+        "headline": "Tarik Skubal Wants to Stay in Detroit. The Tigers Might Actually Let Him.",
+        "word_count": 468
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Skubal Wants to Stay — Tigers Inclined to Hold Their Ace\n\n#### Image Concept 7 (Social — 1080x1350)\n- **Use:** X post + Facebook image caption (4:00 PM)\n- **Status:** not_started\n- **Photo search:** \"Tarik Skubal Detroit Tigers\"\n- **Overlay text:** \"WANTS TO STAY / Tarik Skubal / Tigers inclined to hold their ace\"\n\n#### Image Concept 8 (Article Hero — 1200x630)\n- **Use:** article-04-skubal-wants-to-stay-tigers-inclined-to-hold.html featured image\n- **Status:** not_started\n- **Photo search:** \"Tarik Skubal Detroit Tigers\"\n- **Overlay text:** (none — article hero)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "AL Wild Card Race — Red Sox Surge Changes Everything",
+      "tier": 2,
+      "status": "",
+      "angle": "One week ago the Red Sox weren't in this picture. Now they're tied for the final spot and coming off a comeback win. The AL Wild Card race just got four teams and no margin.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "AL Wild Card picture entering Sunday:\n\nWild Card 1: Yankees 54-43\nWild Card 2: Guardians 51-46\nWild Card 3 (tied): Twins 49-49 / Red Sox 49-48\n\nThe Red Sox have won 12 straight. Two weeks ago they weren't in this conversation.\n\nNow they are. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-al-wild-card-race-red-sox-surge.html",
+        "headline": "Four Teams. Three Spots. The AL Wild Card Race Just Got Real.",
+        "word_count": 498
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "AL Wild Card Race — Red Sox Surge Changes Everything\n\n#### Image Concept 9 (Social — 1080x1350)\n- **Use:** X post + Facebook image caption (7:00 PM)\n- **Status:** not_started\n- **Photo search:** \"Jahmai Jones Boston Red Sox\"\n- **Overlay text:** \"AL WILD CARD RACE / 4 Teams · 3 Spots / Red Sox: 12 in a row\"\n\n#### Image Concept 10 (Article Hero — 1200x630)\n- **Use:** article-05-al-wild-card-race-red-sox-surge.html featured image\n- **Status:** not_started\n- **Photo search:** \"Boston Red Sox dugout celebration\"\n- **Overlay text:** (none — article hero)"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
