@@ -53,6 +53,21 @@ Every story must map to one: Local News, Local Events, National Parenting, Everg
 <!-- GSD-inspired: 2026-02-23 — Project-specific verification and decisions -->
 <!-- To remove: delete everything between the GSD-inspired comment tags -->
 
+## Weekly Weekend Family Roundup (THURSDAYS — required)
+
+Every **Thursday** (America/Denver), one of the day's article slots MUST be the Weekend Family Roundup. This article is auto-published to springsdaily.com the same morning via the parenting-ingest bridge, so it must be publication-complete on its own.
+
+**Spec:**
+- **Title pattern:** `Things to Do with Kids in Colorado Springs This Weekend (Month D–D)` — use the actual upcoming Fri–Sun dates.
+- **Length:** 500–800 words. Standard article HTML (header/h1/byline/sections), NO emoji, "What's Next" closing section per the article rules.
+- **Body:** 5–8 picks for the upcoming weekend, drawn from the day's research of REAL scheduled events (fact-check priority HIGH on every date, time, price, and location — this article is nothing but those claims). Each pick: what it is, when, where, rough cost (or "free"), and what ages it fits. Lead with the strongest free or big-name pick.
+- **Required links, worked naturally into the copy** (these feed the evergreen SEO pages — anchor text matters):
+  - `https://springsdaily.com/events/this-weekend-with-kids` — anchor like "full list of things to do with kids in Colorado Springs this weekend"
+  - `https://springsdaily.com/events/free-this-weekend` — anchor like "free things to do this weekend"
+  - `https://springsdaily.com/events/this-weekend` — anchor like "everything happening this weekend"
+- **Pillar:** Local Events. It counts toward the day's 7 stories and also gets the normal X/FB social treatment (the FB post is a strong performer slot — lead with the best free pick).
+- **Why (2026-07-19):** the roundup is the dated "spoke" that feeds link equity into Springs Daily's evergreen weekend pages (the pages that actually rank for "things to do this weekend" queries), and it's the highest-CTR newsletter/social block of the week. The article's job is distribution + internal links, not ranking for the head term itself.
+
 ## Verification Checklist
 For any Parenting niche change, confirm:
 - [ ] Brand voice rules followed (contractions, no banned words, COS/Colorado Springs naming)
