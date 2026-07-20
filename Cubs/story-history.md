@@ -4206,3 +4206,63 @@ Each day's stories are appended at the top (newest first).
   - Series result (Game 2 tonight + Game 3 Sunday 12:40 PM CT)
 
 ---
+
+## 2026-07-20
+
+### STORY 1: Cubs Open 3-Game Home Series vs. Detroit Tigers (Mandatory Series Preview)
+- **Angle:** NEW STORY (is_series_start_today=true; mandatory 7 AM series preview slot; Cubs 56-43 vs Tigers 46-53 at Wrigley Field; Jameson Taillon returns from hamstring IL in Game 1 opener; Jack Flaherty (2-8, 4.60 ERA) starts for Detroit; 7:05 PM CT)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, series preview)
+- **Follow-Up Opportunities:**
+  - Game 1 result tonight (recap tomorrow)
+  - Taillon's performance/pitch count
+  - Series Games 2 and 3 (July 21, 22)
+
+### STORY 2: Game Recap — Cubs 10, Twins 1 (Imanaga 7 IP; Hoerner 2nd Straight 4-for-4)
+- **Angle:** NEW STORY (July 19 rubber match; Cubs win series 2-1; Imanaga 7 shutout innings; Hoerner 4-for-4 with bases-loaded triple + 4 RBI for SECOND consecutive day; Bregman 2-run HR in 1st; Cubs now 56-43)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - Hoerner consecutive 4-for-4 follow-up if streak continues
+
+### STORY 3: Jameson Taillon Activated — Returns from Hamstring IL
+- **Angle:** FOLLOW UP (Taillon return anticipated since July 19 brief; today's angle = officially activated, rehab complete (4.2 IP, 0 ER at Triple-A July 11), starts tonight; rotation ERA 4.33 (21st in MLB))
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, news/stat breakdown)
+- **Follow-Up Opportunities:**
+  - Taillon's actual Game 1 performance (pitch count, ERA, line)
+  - Next Taillon start in rotation
+
+### STORY 4: Trade Deadline — 14 Days, Cubs Chase Starting Pitching
+- **Angle:** FOLLOW UP (ongoing deadline arc; new development: Aaron Civale acquired from A's July 18 for prospect Aiden Moffett; Joe Ryan (Twins, 3.36 ERA) top target; Pedro Ramirez reportedly primary trade chip; Hoyer confirmed pitching priority)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, analysis/bold take)
+- **Follow-Up Opportunities:**
+  - Any trade announcement between now and August 3
+  - Joe Ryan deal reporting
+  - Pedro Ramirez trade reporting
+
+### STORY 5: Nico Hoerner — Back-to-Back 4-for-4 Games
+- **Angle:** NEW STORY (Hoerner 4-for-4 on July 18 (career-high) AND 4-for-4 again July 19 with bases-loaded triple + 4 RBI; two consecutive career-high-tying hit games; feature/appreciation angle)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, feature/bold take)
+- **Follow-Up Opportunities:**
+  - Hoerner continued hot stretch through Detroit series
+
+### STORY 6: Don't Sleep on the Detroit Tigers
+- **Angle:** NEW STORY (Tigers 46-53 overall but 18-12 since June 1 — AL-best in that span; rotation ERA 3.48 (4th in baseball); Troy Melton 5-1, 1.82 ERA; bullpen weakness: 19 blown saves; series-context warning angle)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, analysis/bold take)
+- **Follow-Up Opportunities:**
+  - Series result vs Detroit
+  - Melton or Tigers starter performance in series
+
+### STORY 7: Pre-Game Hype — Taillon at Wrigley, 7:05 PM CT
+- **Angle:** NEW STORY (Taillon's Wrigley return; Cubs 56-43 in Wild Card No. 1 position; Detroit dangerous on 18-12 run; statement game framing; 7:05 PM CT)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT, pre-game hype)
+- **Follow-Up Opportunities:**
+  - Tonight's Game 1 result (tomorrow's pipeline)
+  - Taillon's first home start back
+
+---

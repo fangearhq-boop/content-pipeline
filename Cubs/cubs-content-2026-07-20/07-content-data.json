@@ -1,0 +1,255 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-20",
+  "compiled_at": "2026-07-20T09:23:07.779037+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Story 1: Series preview — Cubs vs. Tigers, Game 1 of 3",
+      "type": "Informative"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Story 2: Game recap — Cubs 10, Twins 1",
+      "type": "Bold/energy"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 3: Taillon activated — what it means",
+      "type": "Stat/informative"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "Story 4: Trade deadline — 14 days, need pitching",
+      "type": "Bold/analysis"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 5: Hoerner back-to-back 4-for-4 games",
+      "type": "Feature/bold"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Story 6: Don't sleep on Detroit Tigers",
+      "type": "Analysis/bold"
+    },
+    {
+      "time": "6:30 PM",
+      "description": "Story 7: Pre-game hype — Taillon at Wrigley",
+      "type": "Bold/energy"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Cubs Open 3-Game Home Series vs. Detroit Tigers — Taillon Returns (Mandatory Series Preview)",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Cubs 56-43 open a 3-game home series vs. Tigers 46-53 at Wrigley. Jameson Taillon returns from hamstring IL in Game 1 opener. Jack Flaherty starts for Detroit. 7:05 PM CT.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "```\nCubs open a 3-game home series vs. the Detroit Tigers tonight at Wrigley Field.\n\nJameson Taillon returns from the IL in the opener. Jack Flaherty starts for Detroit. First pitch 7:05 PM CT.\n\nThe Wild Card race runs through nights like this.\n\n#Cubs #GoCubs #FlyTheW\n```",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative / series preview",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Game Recap — Cubs 10, Twins 1 (Series Win; Imanaga/Hoerner/Bregman)",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Cubs win the Twins series 2-1 behind Imanaga's 7 shutout innings; Hoerner goes 4-for-4 for the SECOND straight day (also 4-for-4 July 18); Bregman 2-run HR; Cubs now 56-43",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "```\nCubs 10, Twins 1. Shota Imanaga threw 7 SHUTOUT innings.\n\nNico Hoerner went 4-for-4 for the SECOND straight day, with a bases-loaded triple that blew the game open. Bregman opened the scoring with a 2-run shot.\n\nCubs take the series. 56-43. 🔥\n\n#Cubs #GoCubs #FlyTheW\n```",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold/fan energy (morning slot moved off 7 AM due to mandatory series preview)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Jameson Taillon Activated — What His Return Means for the Rotation",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Taillon officially activated today; started throwing again July 5 (High-A) and July 11 (Triple-A — 4.2 IP, 0 ER); rotation ERA 4.33 (21st in MLB); starts tonight vs. Detroit",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "```\nJameson Taillon is BACK for tonight's series opener vs. Detroit.\n\nHe made two IL rehab starts — including 4.2 IP, 0 runs at Triple-A — and Craig Counsell activated him today.\n\nRotation ERA: 4.33. Deadline: 14 days. This is big.\n\n#Cubs #MLB #CubsBaseball\n```",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Stat breakdown / informative",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Trade Deadline — 14 Days Left, Cubs Need Pitching Now",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "August 3 deadline 14 days out; Civale acquired from A's July 18; Joe Ryan (3.36 ERA) reportedly a top target; rotation has 4.33 ERA, 5 starters on IL; Hoyer: \"expectation is we focus on pitching\"",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "```\n14 days to the August 3 deadline. The Cubs' rotation has a 4.33 ERA and 5 pitchers on the IL.\n\nThey already grabbed Aaron Civale from the A's. Joe Ryan (3.36 ERA) is reportedly a top target.\n\nThis front office better be on the phone right now. 📞\n\n#Cubs #MLB #CubsBaseball\n```",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Bold take / analysis",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Nico Hoerner — Back-to-Back 4-for-4 Games",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Hoerner went 4-for-4 Saturday AND 4-for-4 Sunday including a bases-loaded triple; the quiet backbone of this lineup; feature/appreciation angle",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "```\nNico Hoerner went 4-for-4 on Saturday. Then 4-for-4 again on Sunday.\n\nBack-to-back identical stat lines — including a bases-loaded triple in Sunday's rubber match.\n\nHe's the quiet anchor of this lineup. Completely dialed in. ⚾\n\n#Cubs #GoCubs #ChicagoCubs\n```",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Bold take / feature (midday)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 262
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Don't Sleep on the Tigers — Detroit's Hidden Danger",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Tigers 46-53 overall but 18-12 since June 1 (best in AL over that span); rotation ERA 3.48 (4th in baseball); Troy Melton 5-1, 1.82 ERA; they're a more dangerous opponent than their record implies",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "```\nDetroit is 18-12 since June 1 — the best record in the AL over that span.\n\nTheir rotation ERA is 3.48 (4th in baseball). Troy Melton is 5-1 with a 1.82 ERA.\n\nThe Cubs are favorites tonight. But this series is not a breather. 👀\n\n#Cubs #GoCubs #MLB\n```",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Analysis / bold take",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "Pre-Game Hype — Taillon Takes Wrigley, 7:05 PM CT",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Taillon's return at home, 56-43 Wild Card leaders, every series win matters in the playoff race, Detroit on a run",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "```\nJameson Taillon makes his return at Wrigley tonight. First pitch 7:05 PM CT.\n\nThe Cubs are 56-43 and first in the Wild Card. Detroit comes in on an 18-12 run.\n\nThis isn't just a series opener — it's a statement game. 🔵⚪\n\n#Cubs #FlyTheW #GoCubs\n```",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "Bold / fan energy",
+          "hashtags": [
+            "#Cubs",
+            "#FlyTheW",
+            "#GoCubs"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

@@ -920,3 +920,16 @@ to mark them as pipeline-produced.
 - **Insights applied:** 2 significant findings consumed — midday_12_18 WINS (biased 5 of 6 slots to 12-5 PM window); morning_06_12 LOSES (only Story 1 at 7 AM, required game-recap exception). No other findings; brand-voice defaults applied.
 - **Series context:** is_series_start_today=false (mid-series vs Reds); off_day=false
 - **Key news:** Reds 4, Cubs 0 Game 1 (Greene 12 K masterpiece); Game 2 Assad vs Lodolo tonight; Cubs 52-42 in 3-way WC tie with Phillies/Marlins; Iowa Cubs 21-7; Jayden Murray acquired from Astros
+
+## 2026-07-20 (Monday)
+
+- **Date:** 2026-07-20
+- **Run time:** ~09:00 UTC (automated)
+- **Cubs record:** 56-43 (NL Wild Card No. 1)
+- **Series:** Cubs vs Detroit Tigers — Game 1 of 3 at Wrigley Field, 7:05 PM CT
+- **Stories:** 7
+- **X posts:** 7 (3 informative / 4 bold = close to 50/50 on game-heavy day)
+- **Dashboard:** review-dashboard.html generated; unified push blocked (content-dashboards repo auth not configured for this session — consistent with prior runs)
+- **Insights applied:** 0 significant findings (measured_tweet_count=83; no contrasts cleared n≥8 + p<0.05 + |delta|≥0.20 gates). Brand-voice defaults applied in full: 50/50 split, emojis placed naturally (not leading), blank lines for breathing room, ALL CAPS sparingly.
+- **Series context:** is_series_start_today=true (vs Detroit Tigers, Game 1 of 3 at Wrigley). Mandatory 7:00 AM series preview posted. Series preview leads with opponent+length+location per pipeline rules; pitcher/stakes in second paragraph.
+- **Key news:** Cubs 10, Twins 1 (series win — Imanaga 7 IP shutout, Hoerner back-to-back 4-for-4 including bases-loaded triple, Bregman 2-run HR); Taillon activated from hamstring IL (starts tonight); Aaron Civale acquired from A's (July 18); Joe Ryan (Twins, 3.36 ERA) top trade target; August 3 deadline 14 days away; Tigers 46-53 overall but 18-12 since June 1 (AL-best in that stretch)
