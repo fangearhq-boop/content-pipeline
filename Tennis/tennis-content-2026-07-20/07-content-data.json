@@ -1,0 +1,378 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-20",
+  "compiled_at": "2026-07-20T12:22:16.500777+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 (Rublev wins Bastad)",
+      "type": "X + FB"
+    },
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 (Rublev wins Bastad)",
+      "type": "X"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2 (Clay swing wrap-up)",
+      "type": "X + FB"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 3 (Alcaraz Cincinnati)",
+      "type": "X + FB"
+    },
+    {
+      "time": "1:30 PM",
+      "description": "Story 3 (Alcaraz Cincinnati)",
+      "type": "X"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 (Kitzbuhel opens)",
+      "type": "X + FB"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 5 (WTA Hamburg + Prague)",
+      "type": "X + FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Rublev Wins Bastad — 18th Career Title",
+      "tier": 1,
+      "status": "",
+      "angle": "RESULT — Andrey Rublev (RUS, No. 1 seed) defeated defending champion Luciano Darderi (ITA, No. 2 seed) 6-4, 6-3 in 77 minutes to win the Nordea Open Bastad final. Rublev's 18th career ATP Tour title and his second at Bastad (also won in 2023). Darderi was attempting to defend the 2025 title. Rublev won 87% of first-serve points, converting 2 of 4 break points. He rises two spots to No. 14 in the PIF ATP Rankings.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Andrey Rublev wins Bastad. 6-4, 6-3 over defending champion Darderi in 77 minutes.\n\n18th career ATP title. 2nd at Bastad (also 2023). Drought of 17 months since Doha is over. 🏆\n\n#TennisFanrecap #ATPTour #Bastad #NordeaOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#ATPTour",
+            "#Bastad",
+            "#NordeaOpen"
+          ],
+          "char_count": 222
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Rublev won 87% of first-serve points in the Bastad final. Darderi had no answers.\n\nThe defending champion couldn't defend. The 2023 champion reclaimed his title. 🎾\n\n#TennisFanrecap #ATPTour #Bastad #Rublev",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#ATPTour",
+            "#Bastad",
+            "#Rublev"
+          ],
+          "char_count": 205
+        }
+      ],
+      "facebook": {
+        "long_form": "Andrey Rublev is a Bastad champion again. He defeated defending champion Luciano Darderi 6-4, 6-3 in 77 minutes to win the Nordea Open final, claiming his 18th career ATP Tour title and his second at this Swedish clay event.\n\nIt wasn't a contest. Rublev won 87% of his first-serve points and converted two of four break opportunities. Darderi — who beat Rublev in Bastad to win the 2025 title — had no answer this time for the Russian's driving groundstrokes and controlled aggression on clay.\n\nThe bigger story is the drought that ended. Rublev's last title was in Doha, back in February 2025. Seventeen months between trophies is a long gap for a player of his quality. On Sunday in Sweden, that wait ended convincingly.\n\nHe moves up two spots to No. 14 in the ATP rankings — and if he continues in this form through the North American swing, a return to the top 10 is a realistic conversation.\n\nWhat do you make of Rublev's 2026 clay form?",
+        "image_caption": "Rublev reclaims Bastad. 6-4, 6-3. 18th career title. Darderi's defense over in 77 minutes. 🏆",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-rublev-wins-bastad-18th-title.html",
+        "headline": "Rublev Dominates Darderi to Win Bastad — 18th Career Title, 17-Month Drought Over",
+        "word_count": 702
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Rublev in celebration or clay-court match action; overlay: \"RUBLEV WINS BASTAD / 18TH CAREER TITLE\""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Landscape crop for article-01 hero"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Rublev Wins Bastad — 18th Career Title\n**Decision:** RESULT from Sunday July 19 — First story of the Monday morning recap.\n**Source confidence:** HIGH (ATP Tour official match recap; multiple wire services confirm)\n**Verified facts (HIGH):**\n- Event: Nordea Open Bastad, Sweden, ATP 250, clay, July 13-19, 2026\n- Final result: Andrey Rublev (RUS, No. 1 seed) def. Luciano Darderi (ITA, No. 2 seed) 6-4, 6-3\n- Match duration: 77 minutes — per ATP Tour official recap\n- Rublev: 2nd Bastad title (also 2023 champion) — HIGH (ATP Tour)\n- Darderi: 2025 defending Bastad champion — confirmed HIGH\n- Stats: Rublev 87% (33/38) first-serve points won; 2/4 break points converted — per ATP Tour\n- Rublev rises 2 spots to No. 14 in PIF ATP Rankings after victory — per puntodebreak.com\n- Rublev last title: Doha, February 2025 — per multiple sources (17-month drought ended)\n**Verified facts (MEDIUM):**\n- Career title count: ATP Tour official article says \"18th career ATP Tour title\" — use this. NOTE: World Tennis Magazine sources differ (14th). Italian source risoluto.it says \"13th.\" Discrepancy likely reflects different counting methodologies or data errors. FLAG as MEDIUM — use 18th per ATP Tour but note discrepancy in fact-check log.\n**Source:** atptour.com (official Rublev-Darderi final recap); puntodebreak.com (July 19); tennisuptodate.com (Bastad Round-Up); worldtennismagazine.com\n**NOT confirmed:**\n- Exact tiebreak scores within sets (if any) — sets were 6-4, 6-3; no tiebreaks\n- First-round seed path for Rublev through the week",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Clay Swing Week One Wrap — Four Finals, Four Champions",
+      "tier": 1,
+      "status": "",
+      "angle": "NEW STORY — The post-Wimbledon clay swing concluded Sunday with four title matches across Bastad, Gstaad, Iasi, and Athens. Rublev (Bastad), Collignon (Gstaad), Badosa (Iasi), and Sakkari (Athens) all claimed titles. Belgium's Collignon won his first ATP title; Sakkari gave Greece its first WTA Athens champion in 35 years; Badosa returned to the top 100 (No. 75); Rublev ended a 17-month title drought. Four distinct stories, one memorable weekend.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Post-Wimbledon clay swing: four finals, four champions Sunday.\n\n🏆 Rublev (Bastad) — 18th career title\n🏆 Collignon (Gstaad) — first ATP title\n🏆 Badosa (Iasi) — 5th career title\n🏆 Sakkari (Athens) — first WTA title there in 35 yrs\n\n#TennisFanrecap #ATPTour #WTATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#ATPTour",
+            "#WTATour"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": {
+        "long_form": "Sunday was one of the better days of the tennis season. Four clay events each had a final, and each final told a completely different story.\n\nIn Bastad, Andrey Rublev beat defending champion Luciano Darderi 6-4, 6-3 to win his 18th career title — ending a 17-month drought since Doha in February 2025. In Gstaad, Raphael Collignon beat Stefanos Tsitsipas in two tiebreaks for the first ATP title of his career — only the second Belgian to win there since Goffin in 2015. In Iasi, Paula Badosa beat Mayar Sherif for her fifth career WTA title — 5-0 in finals all-time, now back in the top 100 at No. 75. In Athens, Maria Sakkari won the first WTA title in that city in 35 years, in front of her home crowd.\n\nFour results. Rublev's drought ends. Collignon announces himself. Badosa's ranking climb continues. Sakkari makes history in front of her country.\n\nIt was a good Sunday for tennis.\n\nWhich of these four results surprised you most?",
+        "image_caption": "Four clay finals. Four champions. Rublev, Collignon, Badosa, Sakkari — all left Sunday with trophies. 🏆",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-clay-swing-week-one-recap.html",
+        "headline": "Four Finals, Four Champions: The Post-Wimbledon Clay Swing Delivered a Historic Sunday",
+        "word_count": 740
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "WTA champion in celebration; overlay: \"FOUR FINALS. FOUR CHAMPIONS. / CLAY WEEK ONE COMPLETE\""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Landscape crop for article-02 hero"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Clay Swing Week One Wrap — Four Finals, Four Champions\n**Decision:** NEW STORY — Synthesis story wrapping all four post-Wimbledon clay finals day.\n**Source confidence:** HIGH (all four results confirmed from multiple sources)\n**Verified facts (HIGH):**\n- ATP Bastad: Rublev def. Darderi 6-4, 6-3 (July 19)\n- ATP Gstaad: Raphael Collignon (BEL) def. Stefanos Tsitsipas (GRE) 7-6(2), 7-6(5) — HIGH (July 19 content)\n- WTA Iasi: Paula Badosa (ESP) def. Mayar Sherif (EGY) — fifth career title; back in top 100 (No. 75) — HIGH (July 19 content)\n- WTA Athens: Maria Sakkari (GRE) def. Barbora Krejcikova (CZE) — first WTA Athens title in 35 years — HIGH (July 19 content)\n- Croatia Open Umag (ATP 250): Daniel Merida (ESP) def. Dzumhur — confirmed July 18 pipeline\n- Belgian first titles on clay: Collignon is only second Belgian to win ATP Gstaad title (after Goffin 2015)\n- Rublev 17-month drought: last title was Doha Feb 2025 — HIGH\n- Badosa ranking impact: back in top 100 as high as No. 75 — HIGH\n- Sakkari: first WTA final since Indian Wells March 2024 — HIGH\n**Source:** atptour.com; wtatennis.com; puntodebreak.com; tennisuptodate.com; July 18-19 Tennis Fanrecap research notes\n**NOT confirmed:**\n- Exact Sakkari final score vs Krejcikova — do NOT include\n- Badosa's exact final score vs Sherif in Iasi — do NOT include",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Alcaraz Confirms Cincinnati Comeback — US Open Countdown Begins",
+      "tier": 1,
+      "status": "",
+      "angle": "NEW UPDATE — Carlos Alcaraz's team has confirmed his return to the ATP Tour at the Western & Southern Open in Cincinnati (August 13-23). His doctor, Angel Ruiz-Cotorro, says the right wrist is \"completely healed.\" Alcaraz will skip the Canadian Open (Montreal, Aug. 1-13) and use Cincinnati as his only warm-up for the US Open (defense, Aug. 24). He has been sidelined since April 14 in Barcelona — four months off the tour.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Carlos Alcaraz is returning at Cincinnati (Aug. 13-23).\n\nWrist declared \"completely healed\" by his doctor. Four months gone — French Open, Wimbledon, Canadian Open all missed. Now: one warm-up, then the US Open. 🎾\n\n#TennisFanrecap #ATPTour #Alcaraz #Cincinnati",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#ATPTour",
+            "#Alcaraz",
+            "#Cincinnati"
+          ],
+          "char_count": 260
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Alcaraz skips Canadian Open. One tournament (Cincinnati) before the US Open defense starts Aug. 24.\n\nThat's the plan: get sharp fast, and defend the title. 🎾\n\n#TennisFanrecap #ATPTour #Alcaraz #USOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#ATPTour",
+            "#Alcaraz",
+            "#USOpen"
+          ],
+          "char_count": 200
+        }
+      ],
+      "facebook": {
+        "long_form": "Carlos Alcaraz is coming back.\n\nHis doctor, Angel Ruiz-Cotorro, has confirmed that Alcaraz's right wrist is \"completely healed\" — and the Spaniard is targeting the Western & Southern Open in Cincinnati (August 13-23) as his return to competitive tennis. He will skip the Canadian Open in Montreal (August 1-13) entirely.\n\nThat leaves him one tournament to shake off more than four months away before he walks into the US Open on August 24 to defend his title.\n\nThe math is tight. Alcaraz has missed Roland Garros, Wimbledon, and the Canadian Open — three events where he was either the defending champion or a projected serious contender. He arrives in Cincinnati with no match play since April 14, no title points from the events he missed, and the expectation of a defending champion on his back at the US Open.\n\n\"Completely healed\" is medical clearance, not a guarantee of match form. But Alcaraz has shown repeatedly that he finds his level faster than most players — the question is whether one week in Cincinnati is enough.\n\nWhat are your expectations for Alcaraz at the US Open?",
+        "image_caption": "Alcaraz is back. Cincinnati (Aug. 13-23) is the target. One tournament, then the US Open defense starts. 🎾",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-03-alcaraz-confirms-cincinnati-return.html",
+        "headline": "Alcaraz Confirms Cincinnati Return — Wrist Healed, US Open Defense Is On",
+        "word_count": 665
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Alcaraz in match action or warm-up; overlay: \"ALCARAZ RETURNS / CINCINNATI AUG. 13\""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Landscape crop for article-03 hero"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Alcaraz Confirms Cincinnati Comeback\n**Decision:** UPDATE — Officially confirmed Cincinnati target (Aug 13-23); Canadian Open officially out.\n**Source confidence:** HIGH (multiple authoritative sources: Sunday Guardian Live, Outlook India, TennisWorldUSA, Tennisuptodate)\n**Verified facts (HIGH):**\n- Alcaraz's right wrist declared \"completely healed\" by Dr. Angel Ruiz-Cotorro — HIGH (TennisWorldUSA July 16; Puntodebreak)\n- Target: Western & Southern Open, Cincinnati, August 13-23, 2026 — HIGH (Outlook India, Sunday Guardian Live)\n- Canadian Open (ATP, Montreal, Aug 1-13): Alcaraz NOT entered — HIGH (confirmed July 19)\n- Injury: tenosynovitis of right wrist, sustained April 14 in Barcelona — HIGH\n- Last match: April 14, 2026 in Barcelona — HIGH\n- Missed: French Open (Roland Garros), Wimbledon, Canadian Open — HIGH\n- US Open: August 24, 2026 start; Alcaraz is defending champion — HIGH\n- Cincinnati: August 13-23, 2026; Alcaraz is also defending Cincinnati champion — HIGH\n- Current ranking: approximately No. 3 (Zverev passed him to No. 2 post-Wimbledon) — HIGH\n**Source:** sundayguardianlive.com (July 20); outlookindia.com (July 20); tennisworldusa.org (July 16); tennisuptodate.com; tennis365.com (July 14 note: \"fears growing for rest of 2026 season\")\n**NOT confirmed:**\n- Exact ranking points Alcaraz has as of July 20 — do not state\n- Whether he has formally entered the Cincinnati draw (entry list vs. confirmed start)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Kitzbuhel ATP 250 Opens — Week Two of Clay Swing",
+      "tier": 2,
+      "status": "",
+      "angle": "NEW STORY — The Generali Open Kitzbuhel (ATP 250, clay, July 20-25) begins Monday as the second week of the post-Wimbledon clay swing. Defending champion Alexander Bublik is the No. 1 seed. The field also includes Arthur Rinderknech, Tomas Martin Etcheverry, Valentin Vacherot, Sebastian Baez, and Matteo Berrettini (returning from an injury absence). The draw also features the ATP 250 Estoril Open starting Monday. First match day.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Week two of the post-Wimbledon clay swing is here.\n\nATP Kitzbuhel is open. Defending champion Bublik leads the draw. Etcheverry, Rinderknech, Vacherot, Berrettini all in the field.\n\nClay tennis through July 25. 🎾\n\n#TennisFanrecap #ATPTour #Kitzbuhel #GeneraliOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#ATPTour",
+            "#Kitzbuhel",
+            "#GeneraliOpen"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": {
+        "long_form": "Week two of the post-Wimbledon clay swing is open.\n\nThe Generali Open Kitzbuhel — an ATP 250 clay event held in the Austrian Alps — begins Monday and runs through July 25. Defending champion Alexander Bublik is back as the No. 1 seed, and the field around him is competitive: Valentin Vacherot, Arthur Rinderknech, Tomas Martin Etcheverry, Sebastian Baez, and Matteo Berrettini are among the entrants.\n\nKitzbuhel tends to produce unpredictable results. The altitude affects ball speed and bounce in ways that level the playing field for players outside the top 50 who thrive on clay. Defending at this event is historically difficult — and Bublik, a serve-and-volley specialist on a clay surface, is always an interesting watch.\n\nThe ATP 250 Estoril Open in Portugal also starts Monday, giving the week two events for clay specialists to chase ranking points heading into the North American hardcourt summer.\n\nWho are you watching this week — Kitzbuhel, Estoril, or already looking ahead to Montreal?",
+        "image_caption": "ATP Kitzbuhel is open. Bublik is back to defend. The Austrian clay is ready for week two. 🎾",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-kitzbuhel-atp-week-two-clay.html",
+        "headline": "Kitzbuhel Opens Week Two of Clay — Defending Champion Bublik Leads a Competitive Alpine Draw",
+        "word_count": 533
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Bublik in clay-court action; overlay: \"KITZBUHEL OPENS / BUBLIK DEFENDING\""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Landscape crop for article-04 hero"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Kitzbuhel ATP 250 Opens\n**Decision:** NEW STORY — Week two of the clay swing opens Monday.\n**Source confidence:** HIGH (ATP Tour tournament page; tennistonic.com; tennistemple.com)\n**Verified facts (HIGH):**\n- Event: Generali Open Kitzbuhel, ATP 250, clay, July 20-25, 2026, Kitzbuhel, Austria\n- Top seeds: Alexander Bublik [1] (defending champion), Valentin Vacherot [2], Arthur Rinderknech [3], Tomas Martin Etcheverry [4]\n- Bublik is the defending Kitzbuhel champion — HIGH\n- Flavio Cobolli was originally in field but withdrew — per search results (mentioning Bublik, Vacherot, Rinderknech, Etcheverry as top seeds; Cobolli listed separately as \"withdrew\")\n- Also in field: Matteo Berrettini, Sebastian Baez, Miomir Kecmanovic, Yannick Hanfmann — per tennistonic.com, crushrushnews.com\n- Main draw begins Monday July 20 — HIGH (ATP Tour schedule)\n- Top 4 seeds receive first-round byes — HIGH (per freetips.com draw analysis)\n- ATP Estoril (Portugal) also opens this week — per tennisconnected.com schedule\n**Verified facts (MEDIUM):**\n- Cobolli withdrew — mentioned in search results as top entrant who then is absent from top seeds list; flag as MEDIUM\n- Berrettini's entry: noted in entry list sources; was recovering from chronic hip pain issue reported July 14 — flag relationship (may still be entered despite injury)\n**Source:** atptour.com (Kitzbuhel overview/draws); tennistemple.com (ATP Kitzbuhel field preview); tennistonic.com (draw); freetips.com (draw analysis); crushrushnews.com (entry list)\n**NOT confirmed:**\n- First-round results (matches in progress or not yet completed at pipeline run time)\n- Cobolli withdrawal reason or timing",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "WTA Hamburg + Prague Open Monday",
+      "tier": 2,
+      "status": "",
+      "angle": "NEW STORY — The WTA tour launches two clay events Monday: the MSC Hamburg Ladies Open (WTA 500) and the Livesport Prague Open (WTA 250). Both run July 20-26 and complete the second week of the European clay swing before the tour moves to hard courts for the North American summer. First-round action starts Monday across both draws. Key players to watch in Hamburg and Prague.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Two WTA clay events open today: MSC Hamburg Ladies Open (WTA 500) and Livesport Prague Open (WTA 250).\n\nBoth run July 20-26. Last European clay week before North American hard courts. Week two is underway. 🎾\n\n#TennisFanrecap #WTATour #Hamburg #Prague",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#WTATour",
+            "#Hamburg",
+            "#Prague"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "The WTA clay week two is here.\n\nTwo events kick off Monday — the MSC Hamburg Ladies Open (WTA 500) in Germany and the Livesport Prague Open (WTA 250) in the Czech Republic. Both run through July 26 and complete the final chapter of the WTA's European clay season before the tour shifts to North American hard courts.\n\nHamburg, as a WTA 500 event, carries more prize money and ranking points — drawing a bigger field of established tour players who need points before the Canadian Open in Toronto. Prague at the 250 level is the proving ground for players fighting to hold their ranking or break into the top 100.\n\nLast week's WTA results showed what the clay swing can do: Sakkari won Athens for the first WTA title in that city in 35 years, and Badosa won Iasi to return to the top 100. This week, Hamburg and Prague offer similar opportunities for players chasing their own defining clay week before the hard-court season begins.\n\nWho are you hoping to see make a run this week in Hamburg or Prague?",
+        "image_caption": "WTA Hamburg and Prague are open. Two clay events, one week, last chance before North American hard courts. 🎾",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-wta-hamburg-prague-clay-week-two.html",
+        "headline": "WTA Hamburg and Prague Open Clay Week Two — Last European Stop Before North American Swing",
+        "word_count": 578
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Clay-court match action, atmospheric; overlay: \"WTA HAMBURG + PRAGUE / CLAY WEEK TWO\""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Landscape crop for article-05 hero"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "WTA Hamburg + Prague Open Monday\n**Decision:** NEW STORY — Two WTA clay events open Monday; second week of post-Wimbledon clay swing.\n**Source confidence:** MEDIUM-HIGH (WTA official tournament pages; tennisconnected.com)\n**Verified facts (HIGH):**\n- MSC Hamburg Ladies Open (WTA 500, clay, outdoor), July 20-26, 2026, Hamburg, Germany — per wtatennis.com\n- Livesport Prague Open (WTA 250, clay), July 20-26, 2026, Prague, Czech Republic — per wtatennis.com\n- Both events begin Monday July 20 — per tennisconnected.com schedule\n- WTA schedule: clay events continue through end of July before North American hard-court swing (Canadian Open Toronto starts early August) — per wtatennis.com schedule\n**Verified facts (MEDIUM):**\n- Seeds/draws for both events: not confirmed from search results; general field context only\n- Hamburg WTA 500 is a higher prize money event than Prague WTA 250 — standard WTA tier structure\n**Source:** wtatennis.com (Hamburg and Prague tournament pages); tennisconnected.com (July 20 schedule article); lineups.com (Hamburg/Prague betting preview)\n**NOT confirmed:**\n- Specific players entered in each draw — do not name individual players without confirmed source\n- First-round results on opening day",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

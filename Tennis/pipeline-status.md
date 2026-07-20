@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-07-19 |
-| Writing | Complete (all steps) | 2026-07-19 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 33 claims; image not_started warnings cosmetic/expected for imagn) | 2026-07-19 |
-| Compile | Complete (07-content-data.json — 5 stories, 8 X posts, 5 FB posts, 5 articles, 10 images; 28 dashboard items) | 2026-07-19 |
-| Dashboard | Complete (review-dashboard.html, 28 items) | 2026-07-19 |
-| PostPlanner Export | Complete (standard 8 posts 12:56–20:52 ET; TOBI 8 posts) | 2026-07-19 |
-| WordPress Publish | Attempted — WP credentials not in env after context reset (same environment restriction as all prior runs) | 2026-07-19 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-07-19 |
+| Research | Complete | 2026-07-20 |
+| Writing | Complete (all steps) | 2026-07-20 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 45 claims; Story 2 tweet fixed 297→265 chars; image manifest fixed from table to YAML format) | 2026-07-20 |
+| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles) | 2026-07-20 |
+| Dashboard | Complete (review-dashboard.html, 27 items) | 2026-07-20 |
+| PostPlanner Export | Complete (standard 7 posts 12:59–20:41 ET; TOBI 7 posts) | 2026-07-20 |
+| WordPress Publish | Attempted — WP API blocked by proxy egress policy (403 Forbidden; same environment restriction as all prior runs) | 2026-07-20 |
+| Dashboard Push | Attempted — proxy blocks both embedded-PAT and plain-URL push methods to content-dashboards repo | 2026-07-20 |
 
 ## Queue
 
@@ -24,6 +24,26 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-07-20 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 7 X posts + 5 FB long-form = 12 total (PostPlanner xlsx: 7 posts 12:59–20:41 ET, 7 TOBI)
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-07-20.xlsx (7 posts), tfr-postplanner-tobi-2026-07-20.xlsx (7 TOBI posts)
+- **Coverage:** Rublev (RUS) def. Darderi (ITA) 6-4, 6-3 in 77 min at Nordea Open Bastad final — 18th career ATP title; 2nd Bastad title (also 2023); ended 17-month drought (last title Doha Feb 2025); 87% first-serve pts won; rises to No. 14. Clay swing week one wrap: four finals four champions Sunday — Rublev (Bastad), Collignon (Gstaad, first ATP title), Badosa (Iasi, 5th career), Sakkari (Athens, first WTA title in Athens in 35 yrs). Alcaraz confirms Cincinnati return (Aug 13-23): wrist "completely healed" per Dr. Ruiz-Cotorro; skips Canadian Open; one warm-up before US Open defense Aug 24. Kitzbuhel ATP 250 opens week two: Bublik [1] defending, Vacherot [2], Rinderknech [3], Etcheverry [4], Berrettini in field; final Friday July 25; Estoril also opening this week. WTA Hamburg (WTA 500) + Prague (WTA 250) open simultaneously July 20-26; last European clay week before North American hard courts.
+- **Notes:**
+  - CONTENT FIX: Story 2 X tweet was 297 chars (over 280 limit); rewritten to 265 chars
+  - CONTENT FIX: 07-image-manifest.md initially written as markdown table (wrong format); rebuilt as YAML matching July 19 template with frontmatter + nested x_image/facebook_image/article_hero structure
+  - verify-facts.py warning: "No claim-patterns.py found at Tennis/claim-patterns.py — Only universal claim extraction will run" (cosmetic; Tennis doesn't have custom patterns)
+  - Career title count discrepancy: ATP Tour=18th, World Tennis Mag=14th, Italian source=13th → used ATP Tour (18th) as authoritative; flagged MEDIUM in fact-check
+  - Rublev 17-month drought: last title Doha February 2025 → confirmed
+  - verify-facts.py: passed; 45 claims; image not_started warnings cosmetic/expected for imagn
+  - compile: 5 stories, 7 X posts, 5 FB posts, 5 articles, image manifest noted; 27 dashboard items
+  - PostPlanner exports: standard (7 posts) and TOBI (7 posts) generated; 12:59–20:41 ET; FB posts 0 in XLSX (pre-existing parser limitation)
+  - WordPress: WP API blocked by proxy egress policy (403); same restriction as all prior runs
+  - Dashboard push failed: proxy blocks push via embedded-PAT URL (strips credentials → "proxy-injected" error) and via plain URL → 403 Permission denied; both methods blocked
+  - Byline rotation: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3]
 
 ### 2026-07-19 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
