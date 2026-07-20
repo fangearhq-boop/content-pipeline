@@ -1,0 +1,244 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-20",
+  "compiled_at": "2026-07-20T10:41:12.968492+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Yamamoto Throws First Complete Game of His MLB Career",
+      "tier": 1,
+      "status": "",
+      "angle": "Sixty-six starts in the majors. He went the distance for the first time — in Yankee Stadium, with zero walks.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Yoshinobu Yamamoto just threw the first complete game of his MLB career.\n\n66 starts. First one to go the distance.\n\n9 innings. 4 hits. 0 walks. 7 strikeouts. Dodgers 8, Yankees 2.\n\nDominant doesn't cover it. #Dodgers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#MLB"
+          ],
+          "char_count": 221
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Yamamoto's complete game by the numbers:\n\n102 pitches. 9 innings. 4 hits. 0 walks. 7 strikeouts.\n\nThe Dodgers saved their entire bullpen for the nightcap. And he made it easy.\n\nDodgers 8, Yankees 2. #Dodgers #Yankees #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#Yankees",
+            "#MLB"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-yamamoto-complete-game-dodgers-yankees.html",
+        "headline": "First Time in 66 Starts: Yoshinobu Yamamoto Throws a Complete Game",
+        "word_count": 563
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Yamamoto Throws First Complete Game of His MLB Career\n\n#### Image Concept 1 (Social — 1080x1350)\n- **Use:** X post + Facebook image caption (9:30 AM)\n- **Status:** not_started\n- **Photo search:** \"Yoshinobu Yamamoto Los Angeles Dodgers\"\n- **Overlay text:** \"FIRST COMPLETE GAME / Yoshinobu Yamamoto / 66 Starts · No. 1 in Career\"\n\n#### Image Concept 2 (Article Hero — 1200x630)\n- **Use:** article-01-yamamoto-complete-game-dodgers-yankees.html featured image\n- **Status:** not_started\n- **Photo search:** \"Yoshinobu Yamamoto Los Angeles Dodgers\"\n- **Overlay text:** (none — article hero)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Red Sox Win 13th Straight — Longest Streak Since 1948",
+      "tier": 1,
+      "status": "",
+      "angle": "Longest Red Sox win streak since 1948. They're 50-48. The franchise record is 15.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "The Boston Red Sox just won their 13th game in a row.\n\nThey beat the Rays 6-1 Sunday. Thirteen straight — the franchise's longest win streak since 1948.\n\nBoston is now 50-48. The franchise record is 15 consecutive wins.\n\nThe streak is real. #RedSox #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RedSox",
+            "#MLB"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-red-sox-13-straight-longest-since-1948.html",
+        "headline": "Thirteen Straight. The Boston Red Sox Have Not Lost Since July 3.",
+        "word_count": 494
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Red Sox Win 13th Straight — Longest Since 1948\n\n#### Image Concept 3 (Social — 1080x1350)\n- **Use:** X post + Facebook image caption (11:30 AM)\n- **Status:** not_started\n- **Photo search:** \"Boston Red Sox dugout\"\n- **Overlay text:** \"13 IN A ROW / Red Sox Longest Streak Since 1948 / 50-48\"\n\n#### Image Concept 4 (Article Hero — 1200x630)\n- **Use:** article-02-red-sox-13-straight-longest-since-1948.html featured image\n- **Status:** not_started\n- **Photo search:** \"Boston Red Sox dugout\"\n- **Overlay text:** (none — article hero)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Ohtani's July 22 Start Is Canceled — Left Knee Irritation, No Timeline",
+      "tier": 1,
+      "status": "",
+      "angle": "He's still hitting. He's not pitching for at least two to three weeks. With August 3 approaching and the postseason in view, the Dodgers need their ace healthy.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Shohei Ohtani will not pitch Wednesday.\n\nHis July 22 start against the Phillies has been canceled — left knee irritation.\n\nDodgers manager Dave Roberts: \"Going to be some time.\"\n\nOhtani continues to hit. He was 2-for-5 with 2 RBI on Sunday. #Dodgers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#MLB"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-ohtani-start-canceled-left-knee-irritation.html",
+        "headline": "Ohtani's July 22 Start Is Canceled. Left Knee Irritation. No Timeline.",
+        "word_count": 602
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ohtani's July 22 Start Canceled — Left Knee Irritation\n\n#### Image Concept 5 (Social — 1080x1350)\n- **Use:** X post + Facebook image caption (1:30 PM)\n- **Status:** not_started\n- **Photo search:** \"Shohei Ohtani Los Angeles Dodgers\"\n- **Overlay text:** \"START CANCELED / Shohei Ohtani / Left Knee · No Timeline\"\n\n#### Image Concept 6 (Article Hero — 1200x630)\n- **Use:** article-03-ohtani-start-canceled-left-knee-irritation.html featured image\n- **Status:** not_started\n- **Photo search:** \"Shohei Ohtani Los Angeles Dodgers\"\n- **Overlay text:** (none — article hero)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Skubal Trade Deadline — Five Teams In, Price Still \"Outrageous\"",
+      "tier": 2,
+      "status": "",
+      "angle": "Five teams. Fourteen days. The asking price hasn't moved. One exec calls it outrageous.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Tarik Skubal deadline update:\n\nActive suitors: Cubs, Braves, Rays, Dodgers, Phillies.\n\nDetroit's ask: controllable pitching + position players near big-league ready.\n\nOne NL exec called it \"outrageous.\" 14 days to August 3. #Tigers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tigers",
+            "#MLB"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-skubal-trade-deadline-cubs-braves-rays-dodgers.html",
+        "headline": "Five Teams Are In On Tarik Skubal. Detroit's Price Tag Is Still \"Outrageous.\"",
+        "word_count": 570
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Skubal Trade Deadline — Five Teams In\n\n#### Image Concept 7 (Social — 1080x1350)\n- **Use:** X post + Facebook image caption (4:00 PM)\n- **Status:** not_started\n- **Photo search:** \"Tarik Skubal Detroit Tigers\"\n- **Overlay text:** \"DEADLINE WATCH / Tarik Skubal / 5 Teams · 14 Days to Aug. 3\"\n\n#### Image Concept 8 (Article Hero — 1200x630)\n- **Use:** article-04-skubal-trade-deadline-cubs-braves-rays-dodgers.html featured image\n- **Status:** not_started\n- **Photo search:** \"Tarik Skubal Detroit Tigers\"\n- **Overlay text:** (none — article hero)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Colson Montgomery Hits No. 24 — White Sox Blank Blue Jays 3-0",
+      "tier": 2,
+      "status": "",
+      "angle": "Montgomery's 24th. The White Sox are 51-46, leading the AL Central.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Colson Montgomery hit his 24th home run of the season Sunday.\n\nThe White Sox shut out the Blue Jays 3-0 at Rogers Centre. Sean Burke got the win.\n\nChicago is 51-46 and leads the AL Central. #WhiteSox #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox",
+            "#MLB"
+          ],
+          "char_count": 204
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-white-sox-colson-montgomery-al-central.html",
+        "headline": "Colson Montgomery Hits No. 24. White Sox Blank Toronto 3-0.",
+        "word_count": 476
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Colson Montgomery Hits No. 24 — White Sox\n\n#### Image Concept 9 (Social — 1080x1350)\n- **Use:** X post + Facebook image caption (7:00 PM)\n- **Status:** not_started\n- **Photo search:** \"Colson Montgomery Chicago White Sox\"\n- **Overlay text:** \"HOME RUN No. 24 / Colson Montgomery / White Sox 51-46 · AL Central Lead\"\n\n#### Image Concept 10 (Article Hero — 1200x630)\n- **Use:** article-05-white-sox-colson-montgomery-al-central.html featured image\n- **Status:** not_started\n- **Photo search:** \"Colson Montgomery Chicago White Sox\"\n- **Overlay text:** (none — article hero)"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

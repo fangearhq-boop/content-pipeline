@@ -5,6 +5,59 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-20
+
+### Story 1: Yamamoto Throws First Complete Game of His MLB Career
+- **Date:** 2026-07-20
+- **Tier:** 1
+- **Classification:** NEW STORY (first complete game in 66 MLB starts — milestone at Yankee Stadium)
+- **Angle:** Yamamoto worked 9 IP, 4 H, 2 R, 2 ER, 0 BB, 7 K, 102 pitches. Dodgers 8, Yankees 2. First CG in 66 regular-season starts. First Dodgers CG vs. Yankees since Jerry Reuss 1981 World Series Game 5. Ideally timed for split doubleheader — saved entire bullpen for nightcap. Ohtani 2-for-5, 2 RBI as DH.
+- **Content Produced:** Article (article-01, Ryan Calloway), 2 X posts + image concept post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Yamamoto season stat tracking
+  - Dodgers rotation depth with Ohtani on hold
+
+### Story 2: Red Sox Win 13th Straight — Longest Since 1948
+- **Date:** 2026-07-20
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Red Sox 12-game streak covered July 19; 13th win extends streak, completes Rays sweep)
+- **Angle:** Beat Rays 6-1 Sunday to complete four-game sweep. 13-game win streak is franchise's longest since 1948, ties second-longest all-time. Record: 50-48. Franchise record is 15 consecutive wins. Next: Baltimore Orioles.
+- **Content Produced:** Article (article-02, Marcus Cole), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Record chase — franchise record is 15 (2 away)
+  - AL Wild Card tracking
+
+### Story 3: Ohtani's July 22 Start Canceled — Left Knee Irritation
+- **Date:** 2026-07-20
+- **Tier:** 1
+- **Classification:** NEW STORY (Ohtani mound return on hold — significant for Dodgers rotation and postseason prep)
+- **Angle:** Start vs. Phillies on July 22 canceled due to left knee irritation. Received lubricant injection before All-Star break; didn't feel 100% throwing. Roberts: "going to be some time" — suggested 2-3 week window. Continues as DH; 2-for-5, 2 RBI Sunday.
+- **Content Produced:** Article (article-03, Jake Torres), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Ohtani mound return timeline tracking
+  - Dodgers rotation adjustments
+
+### Story 4: Skubal Trade Deadline — Five Teams In, Price "Outrageous"
+- **Date:** 2026-07-20
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Skubal situation tracked since July 17; Dodgers and Phillies now confirmed, expanding buyer pool to 5)
+- **Angle:** Cubs, Braves, Rays, Dodgers, Phillies all confirmed active suitors. Asking price per Heyman: "controllable pitching and athletic position players close to big-league ready." NL exec: "outrageous." Skubal rental (FA after 2026). 14 days to August 3. No deal imminent.
+- **Content Produced:** Article (article-04, Ryan Calloway), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Skubal trade/stay daily until August 3
+
+### Story 5: Colson Montgomery HR No. 24 — White Sox Blank Blue Jays 3-0
+- **Date:** 2026-07-20
+- **Tier:** 2
+- **Classification:** FOLLOW UP (White Sox July 18-19; Sunday win + Montgomery milestone update)
+- **Angle:** Montgomery HR No. 24 at Rogers Centre. Sean Burke started, combined four-hit shutout. White Sox 3, Blue Jays 0. Record: 51-46, AL Central leaders.
+- **Content Produced:** Article (article-05, Marcus Cole), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Montgomery HR pace tracking
+  - White Sox AL Central standings daily
+
+---
+
 ## 2026-07-19
 
 ### Story 1: Red Sox Win 12th Straight — Comeback From 6-3 Down
