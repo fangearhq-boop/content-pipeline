@@ -1,10 +1,21 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
-- **Date**: 2026-07-19
+- **Date**: 2026-07-20
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-20
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres)
+- **PostPlanner exports:** gfr-postplanner-2026-07-20.xlsx (7 posts) + gfr-postplanner-tobi-2026-07-20.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-07-20/review-dashboard.html (22 items)
+- **Notes:** OPEN CHAMPIONSHIP FINAL RESULT — Ryan Fox wins at -10 (final round 68); 200-1 longshot/age 39/World No. 56/first major/decisive 12-ft birdie on 18/3rd New Zealander to win Open; Sam Burns collapsed (entered Sunday -10 with 2-shot lead/briefly -11/3 consecutive bogeys holes 4-5-6/finished -8); Cameron Young shot Sunday 64, runner-up at -9; LIV Golf: Saudi PIF ending funding after 2026 ($6B+ invested/$500-600M annual losses/4 events at risk/CEO can't guarantee schedule); McIlroy: made cut at -1/never contended/called DeChambeau "performative"
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-19
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

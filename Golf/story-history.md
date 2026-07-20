@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-07-20
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-20 | T1 | Ryan Fox Wins 2026 Open Championship — 200-1 Longshot, Age 39, Birdie on 18 | X, FB, Article | NEW |
+| 2026-07-20 | T1 | Sam Burns' Final-Round Collapse — 3 Bogeys Holes 4-5-6, -11 to -8, Historic Loss | X, FB, Article | NEW |
+| 2026-07-20 | T2 | Cameron Young Shoots 64 Sunday — Briefly Led, Lost by One Shot to Fox | X, FB, Article | NEW |
+| 2026-07-20 | T2 | LIV Golf Funding Crisis — Saudi PIF Ending Backing, 4 Events at Risk | X, FB, Article | FOLLOW UP |
+| 2026-07-20 | T2 | McIlroy's Open Week — Made Cut at -1, Never Contended, Called DeChambeau "Performative" | X, FB, Article | NEW |
+
+### STORY 1: Ryan Fox Wins The Open Championship
+- **Tier:** 1
+- **Category:** Open Championship / Major Winners
+- **Key facts:** Fox wins at -10 (final round 68); 200-1 pre-tournament longshot; age 39; World No. 56; decisive 12-foot birdie on 72nd hole; 4 birdies in final 6 holes; first major; third New Zealander to win The Open; beat Cameron Young by 1 stroke; Sam Burns collapsed from 2-shot lead to finish -8 (T3)
+- **Status:** NEW
+- **Follow-up ideas:** Fox's career trajectory; New Zealand reaction; where he goes from here
+
+### STORY 2: Sam Burns' Final Round Collapse
+- **Tier:** 1
+- **Category:** Open Championship / Final Round Drama
+- **Key facts:** Burns entered Sunday -10 with 2-shot lead; birdied hole 2 to -11; bogeys holes 4-5-6; fell from -11 to -8; parred final 12 holes; shot 72; finished -8; collapse "not seen in 29 years" at The Open; daughter Belle born 2 days before tournament; had shot 62 R2 + 65 R3 (lowest consecutive rounds in men's major history)
+- **Status:** NEW
+- **Follow-up ideas:** Burns' next major opportunities; mental game analysis
+
+### STORY 3: Cameron Young's Sunday 64
+- **Tier:** 2
+- **Category:** Open Championship / Runner-Up
+- **Key facts:** Young shot 9-under 64 Sunday; finished -9 (2nd); briefly led as Burns faltered; one shot behind Fox's birdie on 18; best second-place performance in a major in 2026
+- **Status:** NEW
+- **Follow-up ideas:** Young's major potential; remainder of 2026 season
+
+### STORY 4: LIV Golf Funding Crisis
+- **Tier:** 2
+- **Category:** LIV Golf / Business
+- **Key facts:** Saudi PIF confirmed April 2026 ending backing after 2026 season; $6B+ invested; $500-600M annual losses; 4 events remain; CEO O'Neil can't guarantee events; PIF may cut before season ends; independent board (Gene Davis/Jon Zinman); Ducera Partners hired; 2027 "still up in the air"
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** New investor news; event cancellation risk; player reactions
+
+### STORY 5: McIlroy's Open Week
+- **Tier:** 2
+- **Category:** Open Championship / Player Profiles
+- **Key facts:** McIlroy won 2026 Masters (2nd Green Jacket, back-to-back with 2025); also won Scottish Open pre-Birkdale; R1 72 (2-over), R2 67, made cut at -1; never in contention; last Open win Hoylake 2014; criticized DeChambeau's penalty reaction as "not particularly fond... performative... for attention"
+- **Status:** NEW
+- **Follow-up ideas:** McIlroy's remainder of 2026 season; PGA Tour Fall schedule
+
 ## 2026-07-19
 
 | Date | Tier | Story | Platforms | Status |

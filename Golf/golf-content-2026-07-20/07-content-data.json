@@ -1,0 +1,267 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-20",
+  "compiled_at": "2026-07-20T11:30:55.580041+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Ryan Fox Wins The Open Championship at Royal Birkdale",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "RYAN FOX WINS THE 2026 OPEN CHAMPIONSHIP. 🏆\n\n200-1 odds. World No. 56. Age 39. First major.\n\nBirdie on 18 from 12 feet. Claret Jug.\n\nThe most unlikely major winner in years.\n\n#TheOpen #RoyalBirkdale #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheOpen",
+            "#RoyalBirkdale",
+            "#Golf"
+          ],
+          "char_count": 204
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Ryan Fox: 39 years old. World No. 56. 200-1 longshot.\n\nHe birdied 4 of his last 6 holes at Royal Birkdale.\n\nHe sank a 12-foot birdie putt on 18 to win The Open by one shot.\n\nOnly the third New Zealander to win the Claret Jug.\n\n#TheOpen #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheOpen",
+            "#Golf"
+          ],
+          "char_count": 241
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-ryan-fox-wins-open-championship.html",
+        "headline": "Ryan Fox Sinks the Putt on 18 to Win the 2026 Open Championship",
+        "word_count": 497
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ryan Fox Wins The Open Championship\n\n#### Image 1A — Social (1080x1350)\n- type: imagn\n- search_term: \"Ryan Fox\"\n- usage: social_primary\n\n#### Image 1B — Article Hero (1200x630)\n- type: imagn\n- search_term: \"Ryan Fox\"\n- usage: article_hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Sam Burns' Collapse — History Not Seen in 29 Years",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Sam Burns entered Sunday's round with a 2-shot lead.\n\nHe birdied hole 2 to go to -11.\n\nThen: bogey, bogey, bogey (holes 4-5-6).\n\nHe parred his final 12 holes. Shot 72. Finished -8.\n\nRyan Fox shot 68 and walked away with the Claret Jug.\n\n#TheOpen #Golf #SamBurns",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheOpen",
+            "#Golf",
+            "#SamBurns"
+          ],
+          "char_count": 261
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Sam Burns' Open collapse: 54-hole leader squandering the lead at The Open in a way not seen in 29 years.\n\nHe had the tournament.\n\nHoles 4, 5, and 6 on Sunday took it away.\n\nThat's golf. That's why we watch.\n\n#TheOpen #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheOpen",
+            "#Golf"
+          ],
+          "char_count": 222
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-sam-burns-open-collapse.html",
+        "headline": "Sam Burns Had the Open Championship. Three Holes on Sunday Took It Away.",
+        "word_count": 611
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Sam Burns' Collapse\n\n#### Image 2A — Social (1080x1350)\n- type: imagn\n- search_term: \"Sam Burns PGA Tour\"\n- usage: social_primary\n\n#### Image 2B — Article Hero (1200x630)\n- type: imagn\n- search_term: \"Sam Burns\"\n- usage: article_hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Cameron Young's Sunday 64 — The Runner-Up That Won't Be Forgotten",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Cameron Young shot 64 on Sunday at Royal Birkdale.\n\nHe briefly held the lead. He played nearly perfect golf.\n\nOne shot. Fox's birdie on 18.\n\nRunner-up. But what a round.\n\n#TheOpen #CameronYoung #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheOpen",
+            "#CameronYoung",
+            "#Golf"
+          ],
+          "char_count": 199
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-cameron-young-sunday-64-runner-up.html",
+        "headline": "Cameron Young Shot 64 on Sunday. Ryan Fox Shot 68. One Putt Separated Them.",
+        "word_count": 566
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cameron Young's Sunday 64\n\n#### Image 3A — Social (1080x1350)\n- type: imagn\n- search_term: \"Cameron Young PGA Tour\"\n- usage: social_primary\n\n#### Image 3B — Social (1080x1350)\n- type: imagn\n- search_term: \"Cameron Young golf\"\n- usage: social_alternate\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Cameron Young's Sunday 64\n**Source 1:** Golf Channel / PGA Tour — Young shot 9-under final round; actually the source says \"64\" for final round\n**Source 2:** Yahoo Sports — confirmed Young finished -9, one back of Fox\n**Note:** Research says Young shot \"a stunning 64 on Sunday\" — confirmed across Golf Channel, PGA Tour, Yahoo Sports\n**Verified facts:**\n- Young final round: 64 (HIGH)\n- Young final score: -9 (HIGH)\n- Young briefly held the lead as Burns faltered (HIGH — PGA Tour live blog)\n- Fox's 18th hole birdie won it by one over Young (HIGH)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "LIV Golf Funding Crisis — Saudi PIF Ending Backing After 2026",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Saudi Arabia is pulling funding from LIV Golf after 2026.\n\n$6 billion invested. Annual losses of ~$500M.\n\nThe CEO can't guarantee the final 4 events will happen.\n\nLIV is looking for new investors. Time is running out.\n\n#LIVGolf #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf",
+            "#Golf"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-liv-golf-funding-crisis-2026.html",
+        "headline": "Saudi Arabia Is Ending LIV Golf Funding. The Final Four Events May Be at Risk.",
+        "word_count": 553
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LIV Golf Funding Crisis\n\n#### Image 4A — Social (1080x1350)\n- type: imagn\n- search_term: \"LIV Golf\"\n- usage: social_primary\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LIV Golf Funding Crisis\n**Source 1:** CNBC (April 2026) — PIF confirms ending funding after 2026 season; $6B+ invested since 2022; $500-600M annual losses\n**Source 2:** CBS Sports — PIF funding ending; 4 events remain in 2026\n**Source 3:** Golf Channel — LIV CEO Scott O'Neil could not guarantee remaining events; independent board formed (Gene Davis, Jon Zinman)\n**Source 4:** Front Office Sports — PIF \"may cut payments before season ends\" (per paddock insiders); final four events at risk\n**Source 5:** Golf.com — Ducera Partners hired for financial restructuring\n**Verified facts:**\n- PIF ends backing after 2026 (HIGH — CNBC April 2026 announcement)\n- $6B+ invested since 2022 (HIGH — multiple confirm)\n- Annual losses ~$500-600M (HIGH)\n- 4 events remain in 2026 (HIGH)\n- CEO O'Neil could not guarantee events (HIGH — Golf Channel)\n- PIF may cut before season ends (MEDIUM — insiders per Front Office Sports)\n- Independent board: Gene Davis, Jon Zinman (HIGH)\n- Ducera Partners hired (HIGH — Golf.com)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "McIlroy's Open — Not the Result He Wanted After Masters Glory",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Rory McIlroy won the 2026 Masters in April.\n\nAt The Open? He made the cut at -1. Never in contention.\n\nHis last Open win was Hoylake in 2014.\n\nThe major to complete his collection still waits.\n\n#Rory #TheOpen #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Rory",
+            "#TheOpen",
+            "#Golf"
+          ],
+          "char_count": 214
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-mcilroy-open-championship-week.html",
+        "headline": "McIlroy's Open Week: Masters Glory in April, Birkdale Frustration in July",
+        "word_count": 539
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "McIlroy's Open Week\n\n#### Image 5A — Social (1080x1350)\n- type: imagn\n- search_term: \"Rory McIlroy\"\n- usage: social_primary"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "McIlroy at The Open\n**Source 1:** PGA Tour live blog — McIlroy R1: 2-over 72, tied ~114th; R2: 67, made cut at -1\n**Source 2:** CBS Sports — McIlroy criticized DeChambeau's penalty reaction as \"performative\" and \"for attention\"\n**Source 3:** Yahoo Sports — McIlroy last Open win: Hoylake 2014; chasing 7th major; won 2026 Masters (second Green Jacket, back-to-back with 2025)\n**Source 4:** Research notes — McIlroy won Scottish Open before The Open; \"chasing 7th major\"\n**Verified facts:**\n- McIlroy won 2026 Masters (HIGH)\n- McIlroy R1: 2-over 72 (HIGH)\n- McIlroy R2: 67, made cut at -1 (HIGH)\n- McIlroy not in contention for final weekend (HIGH)\n- McIlroy last Open win: Hoylake 2014 (HIGH)\n- McIlroy criticized DeChambeau: \"not particularly fond... performative... for attention\" (HIGH — CBS Sports)\n- DeChambeau R2 penalty: Rule 8.1a (stepped on fescue near ball, improved swing area) — dropped from -7 to -5 (HIGH — from 07-19 pipeline research)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
