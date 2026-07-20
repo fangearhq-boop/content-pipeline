@@ -1,0 +1,243 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-20",
+  "compiled_at": "2026-07-20T10:25:38.462819+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "AUSL Final Day — OKC Spark Crashes the Party, Cascade Is Out",
+      "tier": 1,
+      "status": "",
+      "angle": "The Cascade were supposed to be in. The Spark made sure they weren't. The final day of the AUSL regular season delivered the kind of last-game drama that proves the league is for real.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The Oklahoma City Spark just ended Portland Cascade's season.\n\nOKC beat the Carolina Blaze on the final day of the AUSL regular season to clinch the No. 3 seed.\n\nCascade is out. The bracket is set.\n\nThis is what the last day of a season is supposed to feel like. #AUSL #softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#AUSL",
+            "#softball"
+          ],
+          "char_count": 278
+        },
+        {
+          "label": "Post 1-2",
+          "text": "AUSL bracket FINAL:\n\nNo. 1 Utah Talons — bye to Championship\nNo. 2 Chicago Bandits — play-in Thursday\nNo. 3 OKC Spark — play-in Thursday\n\nPortland Cascade: ELIMINATED on the final day.\n\nChampionship at Davis Diamond. Game 1 on ABC. July 25. #AUSL #softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#AUSL",
+            "#softball"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-okc-spark-clinch-cascade-eliminated-ausl-final-day.html",
+        "headline": "Nobody Told the Spark It Was Over",
+        "word_count": 585
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "AUSL Final Day — OKC Spark Clinches, Cascade Out\n\n#### Image Concept 1 (Social — 1080x1350)\n- **Use:** X posts + Facebook image caption (9:00 AM)\n- **Status:** not_started\n- **Photo search:** \"Oklahoma City Spark AUSL\" OR \"Sydney Romero Oklahoma City Spark\"\n- **Concept:** OKC Spark player celebration or action shot; text overlay: \"OKC IN / CASCADE OUT / AUSL Bracket Is Set\"\n- **Overlay text:** \"OKC SPARK / CLINCH THE PLAYOFF SPOT / AUSL Final Day\"\n\n#### Image Concept 2 (Article Hero — 1200x630)\n- **Use:** article-01 featured image\n- **Status:** not_started\n- **Photo search:** \"Oklahoma City Spark AUSL\" OR stock — softball player celebrating/diving\n- **Concept:** Celebration action shot; horizontal crop for article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "PGF Nationals — Bracket Play Begins Today After Two Days of Pool Play",
+      "tier": 1,
+      "status": "",
+      "angle": "Pool play is over. Bracket play means every game could be the last one. The 18U Premier field is as deep as it's been in years, and the road to the championship just got real.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Pool play is over at PGF Nationals.\n\nBracket play starts TODAY across Great Park Irvine and four other SoCal venues.\n\n300+ teams. 34 states. 18U and 16U Premier.\n\nEvery game from here forward could be someone's last. #PGFNationals #softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGFNationals",
+            "#softball"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-pgf-nationals-bracket-play-begins-monday.html",
+        "headline": "The Part That Actually Matters Just Started",
+        "word_count": 595
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "PGF Nationals — Bracket Play Begins\n\n#### Image Concept 3 (Social — 1080x1350)\n- **Use:** X post + Facebook image caption (11:00 AM)\n- **Status:** not_started\n- **Photo search:** stock — travel softball tournament bracket play action, Great Park Irvine OR softball batter 18U\n- **Concept:** Game action from travel softball; text overlay: \"PGF NATIONALS / BRACKET PLAY / Starts TODAY\"\n- **Overlay text:** \"PGF NATIONALS 2026 / BRACKET PLAY BEGINS / Day 3 · Great Park Irvine\"\n\n#### Image Concept 4 (Article Hero — 1200x630)\n- **Use:** article-02 featured image\n- **Status:** not_started\n- **Photo search:** stock — travel softball tournament wide panoramic OR youth softball batter\n- **Concept:** Wide or action shot of travel softball; horizontal crop for article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "AUSL Play-in Preview — Bandits vs. OKC Spark, Thursday at Davis Diamond",
+      "tier": 2,
+      "status": "",
+      "angle": "The Bandits come in on a historic run. The Spark come in as underdogs who clawed their way in on the final day. This is the best play-in matchup the AUSL could have scripted.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "AUSL Play-in Game is set:\n\nNo. 2 Chicago Bandits vs. No. 3 OKC Spark.\n\nThursday. July 23. 9 PM ET on ESPN at Davis Diamond.\n\nWin-or-go-home. One game. The winner faces Utah for the Championship. #AUSL #softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#AUSL",
+            "#softball"
+          ],
+          "char_count": 210
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-bandits-okc-spark-ausl-playin-preview.html",
+        "headline": "One Game. Everything on the Line. Here Is Your AUSL Play-in Matchup.",
+        "word_count": 619
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Play-in Preview — Bandits vs. OKC Spark\n\n#### Image Concept 5 (Social — 1080x1350)\n- **Use:** X post + Facebook image caption (1:00 PM)\n- **Status:** not_started\n- **Photo search:** \"Chicago Bandits AUSL\" OR \"Maya Brady Chicago Bandits\"\n- **Concept:** Bandits player action shot; text overlay: \"AUSL PLAY-IN / Bandits vs. OKC Spark / Thursday 9PM ET ESPN\"\n- **Overlay text:** \"PLAY-IN GAME / Chicago Bandits vs OKC Spark / Thursday · July 23 · 9PM ESPN\"\n\n#### Image Concept 6 (Article Hero — 1200x630)\n- **Use:** article-03 featured image\n- **Status:** not_started\n- **Photo search:** \"Chicago Bandits AUSL\"\n- **Concept:** Bandits action shot; horizontal crop for hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Megan Grant — The Season Is Over. The Year Was Extraordinary.",
+      "tier": 2,
+      "status": "",
+      "angle": "Grant's year was historic. Her season is over. Brady is still playing. The Bruins connection began 2026 as teammates and ends it on opposite sides of a playoff picture.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Megan Grant's 2026 season is over.\n\n42 NCAA record HRs at UCLA.\n8 HRs in her first AUSL season.\n313-ft debut HR — AUSL distance record.\n50 combined home runs in one calendar year.\n\nPortland Cascade didn't make the playoffs.\n\nHer year still speaks for itself. #softball #AUSL",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#softball",
+            "#AUSL"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-megan-grant-season-capsule-50-home-runs-2026.html",
+        "headline": "Fifty Home Runs. One Year. Megan Grant's 2026 Season Is Over.",
+        "word_count": 595
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Megan Grant Season Capsule\n\n#### Image Concept 7 (Social — 1080x1350)\n- **Use:** X post + Facebook image caption (3:00 PM)\n- **Status:** not_started\n- **Photo search:** \"Megan Grant Portland Cascade\" OR \"Megan Grant UCLA\"\n- **Concept:** Grant batting action or home run celebration; text overlay: \"50 HOME RUNS / In One Year / Megan Grant · 2026\"\n- **Overlay text:** \"MEGAN GRANT / 50 COMBINED HOME RUNS / NCAA Record · AUSL Debut\"\n\n#### Image Concept 8 (Article Hero — 1200x630)\n- **Use:** article-04 featured image\n- **Status:** not_started\n- **Photo search:** \"Megan Grant Portland Cascade\" OR \"Megan Grant UCLA\"\n- **Concept:** Grant home run swing or celebration; horizontal crop for hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "5 Days to Davis Diamond — The AUSL Championship Bracket Is Set",
+      "tier": 3,
+      "status": "",
+      "angle": "For any fan who has just discovered the AUSL, this is everything they need to know: who's in, who's on a bye, where games are played, and why the ABC broadcast on July 25 is a moment for the history books.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The AUSL Championship bracket is set.\n\n🗓 Thursday July 23 — Bandits vs. OKC Spark play-in, 9 PM ET ESPN\n🗓 July 25-27 — Championship at Davis Diamond, College Station TX\n📺 Game 1 on ABC — the first pro softball game on network TV\n\n5 days. #AUSL #softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#AUSL",
+            "#softball"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-ausl-championship-5-days-davis-diamond-bracket-set.html",
+        "headline": "Five Days to Davis Diamond. The Bracket Is Set. Here Is What You Need to Know.",
+        "word_count": 546
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "5 Days to Davis Diamond\n\n#### Image Concept 9 (Social — 1080x1350)\n- **Use:** X post + Facebook image caption (8:00 PM)\n- **Status:** not_started\n- **Photo search:** \"Utah Talons AUSL\" OR \"Montana Fouts Utah Talons\"\n- **Concept:** Talons player action or stock Davis Diamond/college station background; text overlay: \"5 DAYS / Davis Diamond / AUSL Championship\"\n- **Overlay text:** \"5 DAYS TO DAVIS DIAMOND / AUSL Championship · July 25 / Game 1 on ABC\"\n\n#### Image Concept 10 (Article Hero — 1200x630)\n- **Use:** article-05 featured image\n- **Status:** not_started\n- **Photo search:** \"Utah Talons AUSL\" OR \"Montana Fouts Utah Talons\"\n- **Concept:** Talons pitcher action or stock softball stadium; horizontal crop for hero"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

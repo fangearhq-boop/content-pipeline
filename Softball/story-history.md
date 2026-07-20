@@ -3,6 +3,63 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-07-20
+
+### Story 1: OKC Spark Clinch, Cascade Eliminated — AUSL Final Day
+- **Date:** 2026-07-20
+- **Tier:** 1
+- **Classification:** NEW STORY (OKC Spark clinched No. 3 seed on final day by beating Blaze, eliminating Cascade who appeared locked in)
+- **Angle:** OKC Spark defeated Carolina Blaze on July 20 to clinch the 3rd and final AUSL playoff berth, eliminating Portland Cascade (14-11) who had been widely expected to hold the 3rd seed. Utah Talons clinched No. 1 seed (direct bye to Championship). Chicago Bandits locked in as No. 2. Play-in July 23: Bandits vs. OKC Spark, 9 PM ET ESPN at Davis Diamond. Championship July 25-27 at Davis Diamond. Game 1 on ABC (first pro softball on network TV). Sydney Romero diving glove-flip play in July 19 Spark 6-5 win set up the clincher. Jailyn Ford CG win for OKC earlier in month.
+- **Content Produced:** Article (article-01, Jordan Reeves), 2 X posts, FB long-form + caption, Image concept
+- **Follow-Up Opportunities:**
+  - AUSL Play-in July 23 result (Bandits vs. OKC Spark)
+  - Championship Series coverage July 25-27
+  - Cascade postseason reaction/offseason plans
+
+### Story 2: PGF Nationals Day 3 — Bracket Play Begins
+- **Date:** 2026-07-20
+- **Tier:** 1
+- **Classification:** FOLLOW UP (PGF Nationals opened July 19; pool play complete; bracket/elimination begins Monday July 20)
+- **Angle:** Bracket play starts today across 5 SoCal venues. 300+ teams from 34 states. 18U Premier: 72 teams from 22 states in 18 pools. September 1 recruiting window (Class of 2028) = 42 days. GA Impact Taylor, Mojo-Lewis, Arizona Storm-Mendez, Alliance Fastpitch among top contenders heading into bracket. Championship games on ESPNU (18U) and ESPN+ (16U) later this week.
+- **Content Produced:** Article (article-02, Sarah Mitchell), 1 X post, FB long-form + caption, Image concept
+- **Follow-Up Opportunities:**
+  - PGF Nationals bracket results July 21-22
+  - 18U/16U Premier championship games (on ESPNU/ESPN+)
+  - September 1 recruiting window story
+
+### Story 3: AUSL Play-in Preview — Bandits vs. OKC Spark, Thursday
+- **Date:** 2026-07-20
+- **Tier:** 2
+- **Classification:** NEW STORY (play-in matchup now confirmed as Bandits vs. OKC Spark after final standings set July 20)
+- **Angle:** Chicago Bandits (No. 2, AUSL-record 9-game win streak, Taryne Mowatt-McKinney pitching coach) vs. OKC Spark (No. 3, clinched on final day). July 23, 9 PM ET ESPN at Davis Diamond. Win-or-go-home, winner faces Utah Talons in Championship July 25-27. Maya Brady (.415 BA, 8 HR, 17 RBI) leads Bandits offense. Sydney Romero crucial defensive play for OKC. Jailyn Ford CG example of Spark pitching depth. Game 1 Championship on ABC.
+- **Content Produced:** Article (article-03, Emily Rawlings), 1 X post, FB long-form + caption, Image concept
+- **Follow-Up Opportunities:**
+  - Play-in game July 23 result
+  - Championship Series preview
+
+### Story 4: Megan Grant Season Capsule — 50 HRs, Season Over
+- **Date:** 2026-07-20
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Grant's AUSL career tracked since June 10 debut; Cascade eliminated today)
+- **Angle:** Grant (Cascade) season over after OKC clinched 3rd seed. Season total: 42 NCAA record HRs at UCLA (broke Espinoza's 31-year mark from 1995) + 8 AUSL HRs in ~20 games = 50 combined 2026 HRs, 106 RBIs. 313-ft debut HR vs. Karlyn Pickens (AUSL distance record). UCLA career: 91 HRs (program record), .455 BA, .639 OBP, 1.308 SLG, 91 RBIs senior year. Maya Brady (former UCLA teammate, Bandits) still in playoffs with .415 BA, 8 HRs, 17 RBI — chasing AUSL's first Triple Crown.
+- **Content Produced:** Article (article-04, Jordan Reeves), 1 X post, FB long-form + caption, Image concept
+- **Follow-Up Opportunities:**
+  - Brady Triple Crown watch through playoff run
+  - Grant offseason/2027 plans
+
+### Story 5: 5 Days to Davis Diamond — AUSL Championship Is Set
+- **Date:** 2026-07-20
+- **Tier:** 3
+- **Classification:** PREVIEW/EVERGREEN (bracket officially confirmed; Championship 5 days out)
+- **Angle:** Bracket set: Talons No. 1 (bye to Championship July 25-27), Bandits vs. OKC play-in July 23 9 PM ET ESPN. Championship July 25-27 Davis Diamond, Texas A&M, College Station TX. Game 1 on ABC = first pro softball on network TV. Montana Fouts leads Talons staff. Davis Diamond: premier facility on Texas A&M campus.
+- **Content Produced:** Article (article-05, Sarah Mitchell), 1 X post, FB long-form + caption, Image concept
+- **Follow-Up Opportunities:**
+  - Play-in game July 23 result
+  - Championship Series July 25-27 coverage
+  - ABC broadcast promotion and viewership
+
+---
+
 ## 2026-07-19
 
 ### Story 1: PGF Nationals 2026 Opens Today — Week One at Great Park, Irvine CA

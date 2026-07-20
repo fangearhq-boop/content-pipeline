@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-07-20
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch + 2 research agents), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations), FB posts (5 stories), image concepts (10 items), image manifest (10 items, not_started), articles (5), fact-check (55 claims), compile (5 stories, 6 tweets, 0 FB posts — format known, 5 articles, 21 items), dashboard (21 items), PostPlanner exports (6 posts standard + 6 TOBI). WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard publish push failed (proxy known restriction). IMAGE MISSING expected (not_started). FB posts: 0 compiled (format known). Key story shift: OKC Spark clinched 3rd seed (not Cascade as July 19 story indicated).
+- **Key Stories**: OKC Spark beat Blaze on final day to clinch 3rd AUSL playoff seed/Cascade eliminated (14-11)/Utah Talons No. 1 seed (direct bye)/Bandits No. 2/Play-in July 23 Bandits vs OKC 9PM ESPN Davis Diamond/Championship July 25-27/Game 1 on ABC first pro softball network TV (Tier 1 NEW), PGF Nationals bracket play begins today/300+ teams 34 states/18U Premier 72 teams 22 states/September 1 recruiting window 42 days/GA Impact Taylor+Mojo-Lewis+Arizona Storm-Mendez+Alliance top contenders/ESPNU+ESPN+ championship games (Tier 1 FOLLOW UP), Bandits vs OKC Spark play-in July 23/Bandits 9-game streak AUSL record/Brady .415 BA 8HR 17RBI Triple Crown chase/OKC Romero diving glove-flip play/Jailyn Ford CG/win-or-go-home (Tier 2 NEW), Megan Grant season over/Cascade eliminated/50 combined 2026 HRs (42 NCAA record + 8 AUSL)/313-ft debut HR AUSL record/Maya Brady UCLA teammate still in playoffs with Bandits/.415 BA 8HR 17RBI Triple Crown (Tier 2 FOLLOW UP), Davis Diamond 5 days/play-in July 23/Championship July 25-27/Montana Fouts leads Talons/Game 1 on ABC (Tier 3 EVERGREEN)
+
+## Last Run
 - **Date**: 2026-07-19
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch, 4 queries + 2 research agents), brief (5 stories), research notes, story analysis, X posts (6; 1 char violation fixed S4T1 281→267; 0 violations after fix), FB posts (5 stories), image concepts (10 items), image manifest (10 items, not_started), articles (5), fact-check (61 claims), compile (5 stories, 6 tweets, 0 FB posts — format known, 5 articles, 21 items), dashboard (21 items), PostPlanner exports (6 posts standard + 6 TOBI). WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
