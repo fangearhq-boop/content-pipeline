@@ -2,6 +2,45 @@
 
 ---
 
+## July 20, 2026
+
+### Story 1: Build-A-Bear Heartwarming Hugs Bear Recall
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC April 30, 2026 recall of Build-A-Bear Heartwarming Hugs Bear (model 034464). Weighted plush bear with 2.5 lb ceramic bead side pouch; zipper slider on pouch can detach — choking hazard. ~36,000 units US, ~520 Canada. Sold Jan–Mar 2026 at ~$48. Return to any Build-A-Bear store for full refund (original payment or gift card). One UK incident, no US injuries.
+- **Content Produced:** Article (Jamie Rivera), 2 X posts, Facebook Long-Form + Caption, Image Concept
+- **Tier:** 1
+- **Key Facts:** Model 034464; side pouch 2.5 lbs ceramic beads; zipper slider detaches; ~36,000 US; Jan–Mar 2026; ~$48; Build-A-Bear Workshop stores + buildabear.com; CPSC April 30, 2026; return to any store for refund; 844-541-0144 Mon-Sat 8am-5pm CT Sun 7am-4:30pm CT; buildabear.com/recalls; Sources: cpsc.gov, newsweek.com, nbcnews.com
+
+### Story 2: AAP New Screen Time Guidelines 2026
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — AAP January 20, 2026 guidance update officially drops strict daily time-limit model (1 hr/day for ages 2-5, 2 hr/day for 5+). New framework: 5 Cs (Child, Content, Calm, Crowding out, Communication). Under-18 months still no screens except video calls. Device-free bedrooms and mealtimes still recommended. Screens off 1 hour before bed.
+- **Content Produced:** Article (Sarah Morales), 2 X posts, Facebook Long-Form + Caption, Image Concept
+- **Tier:** 1
+- **Key Facts:** January 20, 2026; dropped 1-hr/day limit for 5+; 5 Cs framework; under-18mo no screens except video calls; device-free bedrooms/mealtimes still; screens off 1hr before bed; aap.org; Sources: aap.org, edsurge.com, health.choc.org, medicalxpress.com
+
+### Story 3: D11 Free Summer Lunch — Still Running Through July 31
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (first July 2026 coverage) — D11 Summer Food Service Program runs through approximately July 31. Ages 1–18 free, no registration. East Library mobile unit at 5550 N. Union Blvd. serves 11 a.m.–noon Mon–Fri. Multiple other COS sites. Adult meals $5 at some sites.
+- **Content Produced:** Article (Jamie Rivera), 1 X post, Facebook Long-Form + Caption, Image Concept
+- **Tier:** 2
+- **Key Facts:** May 27–July 31 2026; ages 1–18 free; no registration; East Library 5550 N. Union Blvd. 11am–noon Mon–Fri; adult meals $5 some sites; 719-520-2930; d11.org/summermeals; Sources: d11.org, kktv.com, fox21news.com, gazette.com
+
+### Story 4: COS Family Events July 21–27
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Weekly events roundup. Monday: Ruth Holley Library Kids Dinosaur Yoga (July 21, 10:30am, free). Friday: Bear Creek Nature Center Bumblebee Program with naturalist Susan Crick (July 25, 10–11:30am, $5, pre-reg required); Gather Mountain Blooms Zinnia Days (July 25, 8am–noon, $10 admission/$25 Cup of Flowers, at 5210 S US-85-87); Fountain Creek Sheet Lighting Night with Mile High Bug Club (July 25, 8:30pm–midnight, free, RSVP 719-520-6745). NOTE: No anime convention confirmed for July 21-27 in COS — not included.
+- **Content Produced:** Article (Sarah Morales), 1 X post, Facebook Long-Form + Caption, Image Concept
+- **Tier:** 2
+- **Key Facts:** Ruth Holley Library July 21 10:30am free; Bear Creek 245 Bear Creek Rd July 25 10–11:30am $5 pre-reg; Gather Mountain Blooms 5210 S US-85-87 July 25 8am–noon $10/$25; Fountain Creek July 25 8:30pm–midnight free RSVP 719-520-6745 or elpasocountynaturecenters.com; Sources: burbio.com, gazette.com, gathermountainblooms.com, visitcos.com
+
+### Story 5: SDADI Kitchen Step Stool Recall — July 16, 2026
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — Very timely recall (4 days ago, July 16, 2026). CPSC recall of SDADI kitchen helper tower step stools, models LT01 and LT05, imported by Yiwushi Bihe Trading (China). Collapse/tip-over hazard and child's torso can fit through front/back frame openings. 5,952 units. 8 reports, 4 injuries (scrapes, cuts, bruises). Full refund via john@SDADI.net. NOTE: Separate April 23, 2026 Bauhini SDADI warning (not a recall, ~3,600 units, no refund, disassemble) — NOT included in this story.
+- **Content Produced:** Article (Jamie Rivera), 2 X posts, Facebook Long-Form + Caption, Image Concept
+- **Tier:** 1
+- **Key Facts:** CPSC July 16, 2026; Yiwushi Bihe Trading; LT01 and LT05; gray/white/espresso/pink/natural wood; ~35" high; 5,952 units; Amazon/Walmart.com/Target.com/BestBuy.com; Apr 2024–Sep 2025; $45–$155; collapse/tip-over + child torso fits through front/back openings; 8 reports 4 injuries; full refund: john@SDADI.net; Sources: cpsc.gov, newsnationnow.com
+
+---
+
 ## July 19, 2026
 
 ### Story 1: World Cup Final Watch Party at Weidner Field
