@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-07-20
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-20 | T1 | Warriors Win 2026 NBA Summer League Championship (94-90 vs Grizzlies; Lendeborg MVP 21/10) | X, FB, Article | NEW |
+| 2026-07-20 | T1 | LeBron James Decision Imminent — "Won't Hold You Up Much Longer"; Final Four: Heat/Cavs/Warriors/76ers | X, FB, Article | FOLLOW UP |
+| 2026-07-20 | T2 | Kawhi Investigation 11 Months In — Silver Says Must End Before Season; Scope Expands | X, FB, Article | FOLLOW UP |
+| 2026-07-20 | T2 | Heat Superteam Picture — Giannis Already There, LeBron Decision Could Make It Historic | X, FB, Article | NEW |
+| 2026-07-20 | T2 | Cedric Coward's Summer League Swan Song — 28 in Semis, 19 in Championship Loss | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Warriors Win 2026 NBA Summer League Championship
+- **Tier:** 1
+- **Category:** NBA Summer League
+- **Key facts:** Warriors 94, Grizzlies 90; rallied from 12-point 4th-quarter deficit; Yaxel Lendeborg 21 pts/10 reb/2 ast/2 stl in 23 min (Championship MVP); Deivon Smith 21 pts off bench (9-for-14); Cedric Coward 19 pts, Cameron Boozer 19 pts for Memphis
+- **Status:** NEW
+- **Follow-up ideas:** Lendeborg training camp; how does SL title factor into Warriors free agency pitch?
+
+### STORY 2: LeBron James Decision Imminent
+- **Tier:** 1
+- **Category:** NBA Free Agency / LeBron James
+- **Key facts:** Said at Fanatics Fest "I won't hold you guys up too much longer"; Shams: "getting closer and closer"; final four: Heat, Cavaliers, Warriors, 76ers; NBA has not released 2026-27 schedule pending LeBron's decision (Silver confirmed); LeBron priorities: championship contention, team culture, leadership role
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** LeBron announcement; press conference; team's reaction; what happens to teams he doesn't pick
+
+### STORY 3: Kawhi Leonard Investigation
+- **Tier:** 2
+- **Category:** NBA Investigations / Raptors
+- **Key facts:** Investigation 11 months old; scope expanded to second undisclosed endorsement deal + personal expenses; Silver public statement: "needs to be wrapped up before next season"; Wachtell Lipton running probe; Clippers-Raptors trade on hold (Kawhi for Ingram/Dick/picks); Clippers deny wrongdoing/cite Sanberg fraud
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Investigation conclusion; trade cleared/voided; Raptors roster planning
+
+### STORY 4: Heat Superteam Picture
+- **Tier:** 2
+- **Category:** NBA Analysis / Miami Heat
+- **Key facts:** Giannis trade complete (Herro/Ware/Jaquez/Jakučionis + 3 unprotected 1sts + picks for Giannis+Portis); Riley making LeBron pitch without guarantee; LeBron to Miami would create most loaded Heat roster since 2010-11 Big Three
+- **Status:** NEW
+- **Follow-up ideas:** LeBron announcement; if Miami, roster analysis; if not Miami, what does Giannis roster look like?
+
+### STORY 5: Cedric Coward Summer League
+- **Tier:** 2
+- **Category:** NBA Summer League / Memphis Grizzlies
+- **Key facts:** 14.7 ppg in Vegas; 28 pts/6 reb/5 ast in semifinal vs Houston; 19 pts in championship loss; double-double game earlier in SL; regular season 13.6/5.8/2.8, started 47/62 games; Coward on Boozer: "He's special"
+- **Status:** FOLLOW UP (complete)
+- **Follow-up ideas:** Training camp role; Grizzlies roster decisions
+
 ## 2026-07-19
 
 | Date | Tier | Story | Platforms | Status |

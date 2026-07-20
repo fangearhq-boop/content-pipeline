@@ -1,0 +1,270 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-20",
+  "compiled_at": "2026-07-20T11:19:34.177157+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Warriors Win 2026 NBA Summer League Championship",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "WARRIORS WIN THE 2026 SUMMER LEAGUE CHAMPIONSHIP.\n\nDown 12 in the 4th. Didn't matter.\n\nGolden State rallied to beat Memphis 94-90. Yaxel Lendeborg: 21 pts, 10 reb, MVP.\n\nThe Warriors are BACK.\n\n#Warriors #NBAFreeAgency",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Warriors",
+            "#NBAFreeAgency"
+          ],
+          "char_count": 218
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Yaxel Lendeborg was drafted No. 11.\n\nHe just won Summer League MVP.\n\n21 points. 10 rebounds. 23 minutes. Championship comeback from 12 down.\n\nThe Warriors don't make mistakes in the first round.\n\n#Warriors #SummerLeague",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Warriors",
+            "#SummerLeague"
+          ],
+          "char_count": 219
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-warriors-win-2026-summer-league-championship.html",
+        "headline": "Warriors Rally From 12 Down to Win 2026 NBA Summer League Championship",
+        "word_count": 574
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Warriors Win 2026 NBA Summer League Championship\n\n#### Image Concept 1A — Social (1080x1350)\n**Type:** imagn\n**Search Term:** \"Yaxel Lendeborg Golden State Warriors\"\n**Usage:** Primary social post — X and Facebook\n**Notes:** Championship game action or trophy celebration. MVP moment preferred.\n\n#### Image Concept 1B — Article Hero (1200x630)\n**Type:** imagn\n**Search Term:** \"Golden State Warriors Summer League\"\n**Usage:** Article hero image\n**Notes:** Team celebration or Lendeborg close-up in Warriors jersey.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Warriors Win 2026 NBA Summer League Championship\n**Source 1:** ESPN box score — Warriors 94, Grizzlies 90 (July 19, 9 PM ET)\n- Warriors rallied from 12-point fourth-quarter deficit\n- Yaxel Lendeborg: 21 pts, 10 reb, 2 ast, 2 stl in 23 minutes — Championship Game MVP\n- Deivon Smith (off bench): 21 pts on 9-for-14 shooting\n- Cedric Coward (Grizzlies): 19 pts\n- Cameron Boozer (Grizzlies): 19 pts\n**Source 2:** NBA.com championship recap — confirmed final score and Lendeborg MVP\n**Source 3:** Yahoo Sports — confirmed rally from 12 down\n**Confidence:** HIGH on all facts (ESPN, NBA.com, Yahoo Sports all agree)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "LeBron James — Decision Now \"Imminent\"",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "LeBron James at Fanatics Fest this weekend:\n\n\"I won't hold you guys up too much longer.\"\n\nThe NBA hasn't released the 2026-27 SCHEDULE yet because of his decision.\n\nHeat. Cavs. Warriors. 76ers. One will change the league.\n\n#LeBronJames #NBAFreeAgency",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LeBronJames",
+            "#NBAFreeAgency"
+          ],
+          "char_count": 250
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Think about what Miami already has:\n\nGiannis Antetokounmpo. Just got there.\n\nNow LeBron James is days away from a decision — and Miami is one of his final four.\n\nLeBron + Giannis in South Beach would be historic.\n\n#Heat #LeBronJames",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Heat",
+            "#LeBronJames"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-lebron-james-decision-imminent-nba-waits.html",
+        "headline": "LeBron James Says Decision Is Coming Soon. The NBA Is Listening.",
+        "word_count": 652
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LeBron James — Decision Imminent\n\n#### Image Concept 2A — Social (1080x1350)\n**Type:** imagn\n**Search Term:** \"LeBron James Los Angeles Lakers\"\n**Usage:** Primary social post — decision drama angle\n\n#### Image Concept 2B — Article Hero (1200x630)\n**Type:** imagn\n**Search Term:** \"LeBron James\"\n**Usage:** Article hero — contemplative/profile shot works best for \"decision\" angle\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LeBron James Free Agency — Decision Imminent\n**Source 1:** ESPN/Shams Charania — LeBron \"getting closer and closer to making a decision\"\n**Source 2:** Yahoo Sports — LeBron said at Fanatics Fest: \"I won't hold you guys up too much longer\"\n**Source 3:** CBS Sports — four teams linked: Cavaliers, Heat, Warriors, 76ers\n**Source 4:** ESPN — Commissioner Silver confirmed NBA has NOT released 2026-27 schedule; directly tied to LeBron's decision\n**Source 5:** Bleacher Report — LeBron's priorities: championship contention, team culture, leadership role\n**Key verified facts:**\n- LeBron has informed the Lakers he will NOT return (HIGH confidence)\n- No announcement as of July 20 morning (HIGH confidence)\n- Final four: Heat, Cavaliers, Warriors, 76ers (HIGH confidence)\n- Decision expected within days (MEDIUM — Shams single source)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Kawhi Investigation — Silver Says It Must End Before Next Season",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The Kawhi Leonard investigation is now 11 months old.\n\nAdam Silver: it \"needs to be wrapped up before next season.\"\n\nThe probe just expanded to a SECOND undisclosed endorsement deal.\n\nRaptors still can't plan their roster.\n\n#Raptors #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Raptors",
+            "#NBA"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-kawhi-leonard-investigation-silver-demands-resolution.html",
+        "headline": "Silver Says Kawhi Investigation Must End Before Next Season. It Has Been Running 11 Months.",
+        "word_count": 626
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Kawhi Leonard Investigation\n\n#### Image Concept 3A — Social (1080x1350)\n**Type:** imagn\n**Search Term:** \"Kawhi Leonard Los Angeles Clippers\"\n**Usage:** Social post — frozen trade storyline\n\n#### Image Concept 3B — Social (1080x1350)\n**Type:** imagn\n**Search Term:** \"Adam Silver NBA Commissioner\"\n**Usage:** Alternative — Silver's public pressure angle\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Kawhi Leonard Investigation\n**Source 1:** ESPN — investigation at 11 months, run by Wachtell Lipton law firm\n**Source 2:** NBC Sports — expanded to second previously undisclosed endorsement deal + personal expenses\n**Source 3:** Yahoo Sports — Silver quote: \"needs to be wrapped up before next season\"\n**Source 4:** SI — Clippers-Raptors trade officially on hold\n**Source 5:** CBS Sports — Clippers deny wrongdoing, cite Aspiration/Sanberg fraud\n**Original deal:** Kawhi to Toronto for Brandon Ingram, Gradey Dick, unprotected 2031/2033 first-round picks, 2027 pick swap, two second-round picks\n**Confidence:** HIGH on all facts (multiple major outlets confirm)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Heat's New Reality — Giannis Already There, LeBron Could Follow",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Miami gave up Tyler Herro, three unprotected first-round picks, and their best young players to get Giannis.\n\nThat's how committed the Heat are to building a superteam.\n\nLeBron's decision just got even more interesting.\n\n#Heat #Giannis #NBAFreeAgency",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Heat",
+            "#Giannis",
+            "#NBAFreeAgency"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-heat-giannis-lebron-superteam-picture.html",
+        "headline": "Giannis Is Already There. LeBron's Decision Could Make Miami Unstoppable.",
+        "word_count": 578
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Heat's New Reality\n\n#### Image Concept 4A — Social (1080x1350)\n**Type:** imagn\n**Search Term:** \"Giannis Antetokounmpo Miami Heat\"\n**Usage:** New Heat identity — Giannis in Miami uniform if available, else in Bucks\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Heat Superteam — Giannis Already There\n**Source 1:** NBA.com — Giannis trade confirmed: Miami gets Giannis + Portis; Bucks get Herro, Kel'el Ware, Jaime Jaquez Jr., Kasparas Jakučionis, picks (2031 unprotected, 2033 unprotected, No. 13, 2030 swap, 2033 2nd)\n**Source 2:** NBC Miami — confirmed trade night before 2026 NBA Draft\n**Source 3:** ESPN — Giannis: 13 years in Milwaukee, 10 All-Stars, 2 MVPs, 2021 NBA title/Finals MVP\n**Source 4:** CBS Sports — LeBron + Giannis would be Miami's most loaded roster since 2010-11 Big Three\n**Confidence:** HIGH on trade details (multiple confirmed sources)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Cedric Coward's Summer League Sendoff",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Cedric Coward's 2026 Summer League:\n\n→ 28 pts, 6 reb, 5 ast in the semifinal\n→ 19 pts in the championship game\n→ 14.7 ppg average across Vegas\n\nThe Grizzlies already knew he was good. Vegas just confirmed it.\n\n#Grizzlies #SummerLeague",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Grizzlies",
+            "#SummerLeague"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-cedric-coward-summer-league-standout.html",
+        "headline": "Cedric Coward's Summer League: 28 Points in the Semis, 19 in the Final, and a Statement Made",
+        "word_count": 509
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cedric Coward\n\n#### Image Concept 5A — Social (1080x1350)\n**Type:** imagn\n**Search Term:** \"Cedric Coward Memphis Grizzlies\"\n**Usage:** Coward Summer League feature"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Cedric Coward Summer League\n**Source 1:** Spokesman-Review — Coward regular season: 13.6 ppg, 5.8 reb, 2.8 ast; started 47 of 62 games\n**Source 2:** ESPN box score — Coward: 19 pts in championship game loss\n**Source 3:** Yahoo Sports (semifinal recap) — Coward: 28 pts, 6 reb, 5 ast, 4 three-pointers, 9-for-19 FG vs. Rockets\n**Source 4:** Spokesman-Review — double-double game (17 pts, 12 reb, 4 ast, 1 blk, 1 stl) earlier in SL\n**Source 5:** ClutchPoints — Coward on Boozer: \"He's special\"\n**Confidence:** HIGH on all performance facts",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

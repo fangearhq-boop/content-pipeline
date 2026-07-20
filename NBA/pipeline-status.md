@@ -1,10 +1,21 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Last Run
-- **Date**: 2026-07-19
+- **Date**: 2026-07-20
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-20
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce)
+- **PostPlanner exports:** hh-postplanner-2026-07-20.xlsx (7 posts) + hh-postplanner-tobi-2026-07-20.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-07-20/review-dashboard.html (22 items)
+- **Notes:** NBA SUMMER LEAGUE CHAMPIONSHIP RESULT / LEBRON DECISION IMMINENT — Warriors 94, Grizzlies 90 (rallied from 12 down in 4th); Lendeborg 21/10/MVP; Coward 19/Boozer 19 for Memphis; LeBron: "won't hold you up much longer" at Fanatics Fest; Shams: "getting closer and closer"; final four: Heat/Cavs/Warriors/76ers; NBA hasn't released 2026-27 schedule pending LeBron; Kawhi probe 11 months old, Silver says must end before season, scope expanded to 2nd endorsement deal; Giannis already in Miami (Herro+picks for Giannis+Portis); Heat all-in
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-19
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
