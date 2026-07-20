@@ -1,0 +1,267 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-20",
+  "compiled_at": "2026-07-20T11:25:29.866146+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Antonelli Wins Belgian Grand Prix at Spa",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "ANTONELLI WINS THE BELGIAN GRAND PRIX. 🏆\n\nPole to victory at Spa.\n\nP2 Leclerc. P3 Verstappen. P4 Hamilton (5-sec penalty).\nRussell: retired LAP 1.\n\nKimi Antonelli is 45 points clear in the title race.\n\n#F1 #BelgianGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BelgianGP"
+          ],
+          "char_count": 216
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Kimi Antonelli in 2026:\n\n✅ Wins: Belgian GP (today), + more\n✅ Championship lead: 45 points\n✅ Age: 19\n\nThe youngest F1 title favorite in a generation is running away with this.\n\n#F1 #Antonelli #BelgianGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Antonelli",
+            "#BelgianGP"
+          ],
+          "char_count": 202
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-antonelli-wins-belgian-grand-prix.html",
+        "headline": "Antonelli Wins Belgian Grand Prix, Extends Championship Lead to 45 Points",
+        "word_count": 523
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli Wins Belgian GP\n\n#### Image 1A — Social (1080x1350)\n- type: imagn\n- search_term: \"Kimi Antonelli Mercedes\"\n- usage: social_primary\n\n#### Image 1B — Article Hero (1200x630)\n- type: imagn\n- search_term: \"Kimi Antonelli Formula 1\"\n- usage: article_hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Russell Retires Lap 1 — The Collision That Could Define the Title Race",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "George Russell's Belgian GP ended on LAP 1.\n\nContact with Lewis Hamilton at Les Combes braking zone. Hamilton got a 5-second penalty.\n\nRussell cited a power deployment issue that pushed him wide.\n\nThe title race just got a LOT clearer.\n\n#F1 #BelgianGP #GeorgeRussell",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BelgianGP",
+            "#GeorgeRussell"
+          ],
+          "char_count": 266
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Hamilton called the Spa incident \"a racing incident.\"\n\nThe stewards called it a penalty.\n\nRussell is now 50 POINTS behind Antonelli in the championship.\n\nBelgium may be the race that decided 2026.\n\n#F1 #BelgianGP #Hamilton",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BelgianGP",
+            "#Hamilton"
+          ],
+          "char_count": 222
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-russell-hamilton-collision-lap-one.html",
+        "headline": "Russell Out on Lap 1: The Teammate Collision That Could Decide the 2026 F1 Title",
+        "word_count": 603
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Russell Retires Lap 1 / Hamilton Collision\n\n#### Image 2A — Social (1080x1350)\n- type: imagn\n- search_term: \"George Russell Mercedes Formula 1\"\n- usage: social_primary\n\n#### Image 2B — Social (1080x1350)\n- type: imagn\n- search_term: \"Lewis Hamilton Ferrari\"\n- usage: social_alternate\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Verstappen Exit Clause — Now Officially Eligible",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Max Verstappen is P7 in the F1 championship.\n\nHis Red Bull exit clause can trigger in October if he's outside the top 2 at the summer break.\n\nHe's 7th. The clause is eligible.\n\nWhen asked for an update at Spa: \"No.\"\n\n#F1 #Verstappen #RedBull",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Verstappen",
+            "#RedBull"
+          ],
+          "char_count": 241
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-verstappen-exit-clause-eligible.html",
+        "headline": "Verstappen's Red Bull Exit Clause Is Now Eligible. Will He Use It?",
+        "word_count": 504
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Exit Clause\n\n#### Image 3A — Social (1080x1350)\n- type: imagn\n- search_term: \"Max Verstappen Red Bull\"\n- usage: social_primary\n\n#### Image 3B — Article Hero (1200x630)\n- type: imagn\n- search_term: \"Max Verstappen Red Bull Racing\"\n- usage: article_hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen Exit Clause\n**Source 1:** RacingNews365 — exit clause can be triggered in October if Verstappen is outside top 2 at summer break; he's now 7th\n**Source 2:** GPFans — at Belgian GP press conference, Verstappen gave flat \"No\" when asked for update\n**Source 3:** Manager Raymond Vermeulen: said Verstappen \"wants to finish with Red Bull\"; clause existing \"doesn't mean they'll invoke it\"\n**Source 4:** PlanetF1, SportBible — McLaren talks \"in closing stages\"\n**Source 5:** ESPN — pushed back on McLaren rumours, called them \"wide of the mark\"\n**Confidence:** HIGH on clause eligibility (standings confirmed); MEDIUM on McLaren deal being close (conflicting sources)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Title Fight Analysis — Antonelli's Path to the Championship",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "F1 2026 title standings after Belgium:\n\n1. Antonelli (Mercedes)\n2. Hamilton — 45 pts back\n3. Russell — 50 pts back\n4. Leclerc — 78 pts back\n\nThree races. Three McLaren rivals chasing. One teenage champion pulling away.\n\n#F1 #Formula1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Formula1"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-antonelli-championship-lead-analysis.html",
+        "headline": "Forty-Five Points Clear: How Antonelli Turned a Three-Way Fight Into a Title March",
+        "word_count": 496
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Championship Analysis\n\n#### Image 4A — Social (1080x1350)\n- type: imagn\n- search_term: \"Kimi Antonelli Mercedes Formula 1\"\n- usage: social_primary\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Championship Standings\n**Source:** RacingNews365, crash.net, Motorsport.com post-Belgian GP standings\n| Pos | Driver | Team | Notes |\n|-----|--------|------|-------|\n| 1 | Kimi Antonelli | Mercedes | 45 pts clear of Hamilton |\n| 2 | Lewis Hamilton | Ferrari | moved up from 3rd |\n| 3 | George Russell | Mercedes | 50 pts behind Antonelli |\n| 4 | Charles Leclerc | Ferrari | 28 pts behind Russell |\n| 5 | Lando Norris | McLaren | |\n| 6 | Oscar Piastri | McLaren | |\n| 7 | Max Verstappen | Red Bull | 1 pt behind Piastri |\n**Confidence:** HIGH (confirmed across multiple post-race standings sources)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Spa by the Numbers — Race Strategy and Key Moments",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Things that shaped the Belgian GP result:\n\n→ Antonelli: pole, perfect race execution\n→ Leclerc: lost the lead in a VSC window\n→ Norris: started P13 (grid penalty)\n→ Russell: out lap 1\n→ Hamilton: 5-sec penalty, dropped to P4\n\nSpa decides everything.\n\n#F1 #BelgianGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BelgianGP"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-belgian-gp-spa-strategy-breakdown.html",
+        "headline": "How the 2026 Belgian GP Was Won: Antonelli's Dominant Spa and the Moments That Defined It",
+        "word_count": 520
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Spa Strategy Recap\n\n#### Image 5A — Social (1080x1350)\n- type: imagn\n- search_term: \"Spa-Francorchamps Formula 1\"\n- usage: social_primary"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Race Strategy/Spa Context\n**Source:** Various race reports (formula1.com, Sky Sports, GPFans)\n- Norris started P13 (10-place grid penalty — 4th electronics unit)\n- Stroll P20, Hadjar P21, Alonso P22 (also penalized)\n- Antonelli's pole: 1:44.361 (largest margin of 2026 season)\n- Leclerc lost lead during VSC window — strategy call that didn't pay off\n- Hamilton called incident with Russell \"a racing incident\"\n**Confidence:** HIGH on all Spa strategy facts",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

@@ -1,10 +1,21 @@
 # F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
-- **Date**: 2026-07-19
+- **Date**: 2026-07-20
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-20
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters (fixed Story 5 from 283→267)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss)
+- **PostPlanner exports:** f1fr-postplanner-2026-07-20.xlsx (7 posts) + f1fr-postplanner-tobi-2026-07-20.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-07-20/review-dashboard.html (22 items)
+- **Notes:** BELGIAN GP RACE RESULT — Antonelli pole-to-victory (Leclerc P2 via VSC/Verstappen P3/Hamilton P4 after 5-sec penalty/Piastri P5); Russell retired lap 1 collision with Hamilton at Kemmel (Russell cited deployment issue moved him wide/Hamilton "racing incident"/stewards disagreed); Antonelli 45 pts clear of Hamilton in standings; Russell now 50 back; Verstappen P7 — exit clause eligible for October trigger; McLaren talks "closing stages" per PlanetF1 (ESPN pushed back); Norris started P13 (4th electronics unit penalty)
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-19
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

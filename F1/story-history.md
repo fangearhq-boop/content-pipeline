@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-07-20
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-20 | T1 | Antonelli Wins Belgian GP — Pole to Victory, 45-Pt Championship Lead | X, FB, Article | NEW |
+| 2026-07-20 | T1 | Russell Retires Lap 1 — Hamilton Collision + 5-Sec Penalty; Title Race Tilts | X, FB, Article | NEW |
+| 2026-07-20 | T2 | Verstappen Exit Clause Now Eligible — P7 in Standings; McLaren Talks | X, FB, Article | FOLLOW UP |
+| 2026-07-20 | T2 | Championship Analysis: Antonelli 45 Pts Clear Heading Into Summer Break | X, FB, Article | NEW |
+| 2026-07-20 | T2 | Belgian GP Strategy Breakdown — VSC Call, Grid Penalties, Race Craft | X, FB, Article | NEW |
+
+### STORY 1: Antonelli Wins Belgian Grand Prix
+- **Tier:** 1
+- **Category:** Race Result / Belgian GP
+- **Key facts:** Antonelli wins pole-to-victory; Leclerc P2 (VSC pit window cost him lead); Verstappen P3; Hamilton P4 (5-sec penalty for Russell collision); Piastri P5; Antonelli's pole 1:44.361 (largest margin of 2026 season)
+- **Status:** NEW
+- **Follow-up ideas:** Summer break preview; second-half season outlook
+
+### STORY 2: Russell Retires Lap 1 — Hamilton Collision
+- **Tier:** 1
+- **Category:** Race Incident / Belgian GP
+- **Key facts:** Russell retired lap 1 at Kemmel/Les Combes braking zone; contact with Hamilton; Russell cited power deployment issue moved him wide; Hamilton 5-sec penalty post-race (dropped P3→P4); Hamilton called it "racing incident"; stewards disagreed; Russell now 50 pts behind Antonelli
+- **Status:** NEW
+- **Follow-up ideas:** Russell's path back in title race; team dynamics at Mercedes
+
+### STORY 3: Verstappen Exit Clause
+- **Tier:** 2
+- **Category:** Driver Transfer News
+- **Key facts:** Verstappen P7 in championship; clause triggers in October if outside top 2 at summer break; at Spa press conference said "No" to update question; manager Vermeulen: "wants to finish with Red Bull"; McLaren talks "closing stages" per PlanetF1/SportBible; ESPN pushed back ("wide of the mark")
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** October trigger window; McLaren confirmation/denial
+
+### STORY 4: Championship Analysis Post-Belgium
+- **Tier:** 2
+- **Category:** Championship Analysis
+- **Key facts:** Standings post-Belgium: Antonelli 1st (+45 over Hamilton), Hamilton 2nd, Russell 3rd (50 back), Leclerc 4th (78 back), Norris 5th, Piastri 6th, Verstappen 7th
+- **Status:** NEW
+- **Follow-up ideas:** Summer break analysis; second half schedule review
+
+### STORY 5: Belgian GP Strategy Breakdown
+- **Tier:** 2
+- **Category:** Race Analysis
+- **Key facts:** Norris started P13 (10-place penalty, 4th electronics unit); Stroll P20/Hadjar P21/Alonso P22 penalized; VSC window mid-race — Leclerc pit during VSC gave brief nominal lead, Mercedes responded and Antonelli emerged ahead; Hamilton called Russell incident "racing incident"
+- **Status:** NEW
+- **Follow-up ideas:** Car performance analysis; summer break technical developments
+
 ## 2026-07-19
 
 | Date | Tier | Story | Platforms | Status |
