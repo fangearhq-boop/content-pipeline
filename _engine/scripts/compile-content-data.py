@@ -293,6 +293,31 @@ def _extract_single_tweet(body, story_id, title):
     return [_make_tweet(f"Post {story_id}", text)]
 
 
+def _strip_code_fence(text):
+    """Remove a surrounding markdown code fence from a tweet body.
+
+    Only `_extract_by_code_blocks` captures text from *inside* a fence; the
+    `**Post XY**`-label and single-tweet paths pass the raw body through, so a
+    ```-wrapped tweet keeps its fences. When the drafting step wraps each post
+    in ``` (as the Cubs X posts started doing on 2026-07-15), the fence leaks
+    into the published tweet AND its extra chars can push a post over 280.
+    Stripping here — the choke point all three extraction paths funnel through
+    — keeps the compiler resilient to whichever markdown shape is authored.
+
+    No-op unless the text actually starts with a fence, so clean bodies (and
+    the already-stripped code-block path) are untouched.
+    """
+    t = (text or "").strip()
+    if not t.startswith("```"):
+        return t
+    nl = t.find("\n")
+    t = t[nl + 1:] if nl != -1 else t[3:]   # drop opening fence line (```, ```text, ...)
+    t = t.rstrip()
+    if t.endswith("```"):
+        t = t[:-3]
+    return t.strip()
+
+
 def _make_tweet(label, text):
     """Create a tweet dict from label and raw text."""
     # Clean metadata tags from text
@@ -304,6 +329,10 @@ def _make_tweet(label, text):
     clean = re.sub(r'\*?\*?\[TYPE:.*?\]\*?\*?', '', clean)
     clean = re.sub(r'\n{3,}', '\n\n', clean)
     clean = clean.strip()
+    # Strip any surrounding ``` fence left by the label/single-tweet parse paths
+    # (metadata tags removed above may have sat outside the fence, e.g. a
+    # trailing [POSTING WINDOW]; run the fence strip after that cleanup).
+    clean = _strip_code_fence(clean)
 
     # Extract hashtags
     hashtags = re.findall(r'#\w+', clean)
