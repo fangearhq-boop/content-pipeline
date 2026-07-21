@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-07-20 |
-| Writing | Complete (all steps) | 2026-07-20 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 45 claims; Story 2 tweet fixed 297→265 chars; image manifest fixed from table to YAML format) | 2026-07-20 |
-| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles) | 2026-07-20 |
-| Dashboard | Complete (review-dashboard.html, 27 items) | 2026-07-20 |
-| PostPlanner Export | Complete (standard 7 posts 12:59–20:41 ET; TOBI 7 posts) | 2026-07-20 |
-| WordPress Publish | Attempted — WP API blocked by proxy egress policy (403 Forbidden; same environment restriction as all prior runs) | 2026-07-20 |
-| Dashboard Push | Attempted — proxy blocks both embedded-PAT and plain-URL push methods to content-dashboards repo | 2026-07-20 |
+| Research | Complete | 2026-07-21 |
+| Writing | Complete (all steps) | 2026-07-21 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories; Story 3A tweet fixed 286→219 chars; Story 5A tweet fixed 284→245 chars; article-04 added after Tier 2 Story 4 article missing flag) | 2026-07-21 |
+| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 5 articles; ### STORY header fix applied before compile) | 2026-07-21 |
+| Dashboard | Complete (review-dashboard.html, 22 items) | 2026-07-21 |
+| PostPlanner Export | Complete (standard 7 posts; TOBI 7 posts) | 2026-07-21 |
+| WordPress Publish | Attempted — WP API blocked by proxy egress policy (403 Forbidden; same environment restriction as all prior runs) | 2026-07-21 |
+| Dashboard Push | Attempted — proxy blocks push to content-dashboards repo (same as all prior runs) | 2026-07-21 |
 
 ## Queue
 
@@ -24,6 +24,26 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-07-21 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB long-form + 5 FB captions = 17 total (PostPlanner xlsx: 7 posts, 7 TOBI)
+- **Articles:** 5 (bylines: Elena Voss [S1, S5], Marcus Cole [S2], Ryan Calloway [S3, S4])
+- **PostPlanner exports:** tfr-postplanner-2026-07-21.xlsx (7 posts), tfr-postplanner-tobi-2026-07-21.xlsx (7 TOBI posts)
+- **Coverage:** CORRECTION + Tsitsipas def. Collignon 6-4, 6-7(3), 6-3 at Gstaad — 13th career title; first Greek Gstaad champion; ended 16-month drought; +34 spots to No. 51. Kitzbühel Day 2: Cerundolo [8] exits 6-2, 6-1 to Trungelliti; Bublik [1] survives Diaz Acosta 4-6, 6-3, 6-4; Cobolli withdrew for rest (Bublik elevated to top seed; Struff + Sonego as replacements). Estoril Open opens: Rublev [1] chasing back-to-back; Darderi [2] immediate response to Bastad final loss; Borges home-court; Wawrinka first-ever Estoril entry, final season. Prague Day 1: Havlickova (No. 226) def. Parks (No. 66) 6-2, 6-4; Bouzkova [1] def. Bouzas Maneiro 7-5, 7-5; hard-court event amid clay-heavy week. Stan Wawrinka farewell: 41yo; final season; first Estoril; Basel finale planned October; "I don't want to retire, but I know it's time to stop."
+- **Notes:**
+  - CORRECTION: July 19 and July 20 pipelines incorrectly reported Collignon as Gstaad champion. Actual winner: Tsitsipas def. Collignon 6-4, 6-7(3), 6-3. Corrected in today's article (article-01), X posts, and story history.
+  - CONTENT FIX: X post Story 3A was 286 chars (over 280 limit); rewritten to ~219 chars
+  - CONTENT FIX: X post Story 5A was 284 chars (over 280 limit); rewritten to ~245 chars
+  - CONTENT FIX: article-04 (Prague/Havlickova) added after verify-facts.py flagged "MISSING ARTICLE: Tier 2 Story 4"
+  - HEADER FIX: 03-social-posts-x.md had `## STORY` (2-hash) headers; fixed to `### STORY` (3-hash) with sed; compile then found all 7 X posts correctly
+  - verify-facts.py: passed after fixes above; image not_started warnings cosmetic/expected for imagn
+  - compile: 5 stories, 7 X posts, 5 articles; 22 dashboard items; posting window warnings cosmetic
+  - PostPlanner exports: standard (7 posts) and TOBI (7 posts) generated successfully
+  - WordPress: WP API blocked by proxy egress policy (403); same restriction as all prior runs
+  - Dashboard push failed: proxy blocks push to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Elena Voss [S1, S5], Marcus Cole [S2], Ryan Calloway [S3, S4] (rotating from July 20: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
 
 ### 2026-07-20 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
