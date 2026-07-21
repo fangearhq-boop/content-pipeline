@@ -1,0 +1,254 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-21",
+  "compiled_at": "2026-07-21T11:27:15.236032+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Piastri Confirms McLaren Stay — Zak Brown: \"No Conversations\" with Verstappen",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The Verstappen-to-McLaren swap is DEAD.\n\nZak Brown: \"They're rumours? No conversations.\"\n\nOscar Piastri on his future: \"Yes.\" He's staying.\n\nVerstappen said \"No\" and \"Nothing\" when asked for an update.\n\nThe silence speaks loudest.\n\n#F1 #Formula1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Formula1"
+          ],
+          "char_count": 245
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Verstappen has a Red Bull exit clause.\nHe can trigger it between August and October.\nMcLaren has denied conversations.\nPiastri has confirmed he's staying.\n\nSo where does Verstappen go?\n\nThe 2027 driver market just got a lot more interesting.\n\n#F1 #MaxVerstappen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MaxVerstappen"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-piastri-confirms-mclaren-brown-denies-verstappen.html",
+        "headline": "Piastri Confirms McLaren, Brown Denies Verstappen Talks: The Swap That Won't Happen",
+        "word_count": 653
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Piastri Confirms McLaren / Brown Denies Verstappen\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** Oscar Piastri McLaren\n- **Usage:** X, Facebook — Piastri confirmed staying at McLaren\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search term:** Max Verstappen Red Bull Racing\n- **Usage:** Article featured image — Verstappen in car/paddock\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Hungarian GP Preview — Antonelli Eyes Extension, Summer Break Imminent",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "F1 heads to Budapest.\n\nHungarian GP: July 24-26. Last race before the summer break.\n\nAntonelli leads by 45 points. Russell is 50 back. Verstappen's exit clause window opens after this race.\n\nThe stakes at the Hungaroring are massive.\n\n#F1 #HungarianGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#HungarianGP"
+          ],
+          "char_count": 251
+        },
+        {
+          "label": "Post 2-2",
+          "text": "After the Hungarian GP, Formula 1 goes dark for 3 weeks.\n\nWhen it comes back:\n— Antonelli's title lead will be clearer\n— Verstappen's clause will be activatable\n— The 2027 driver market will start moving\n\nThe summer break is where F1 gets interesting.\n\n#F1 #HungarianGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#HungarianGP"
+          ],
+          "char_count": 269
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-hungarian-gp-preview-antonelli-title-summer-break.html",
+        "headline": "Hungarian GP Preview: Antonelli Eyes Bigger Lead, Verstappen's Clock Ticks Before Summer Break",
+        "word_count": 636
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hungarian GP Preview\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** Kimi Antonelli Mercedes\n- **Usage:** X, Facebook — Hungarian GP preview, championship leader\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search term:** Hungaroring Budapest Formula 1\n- **Usage:** Article featured image — circuit aerial or race action\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Antonelli's Youngest-Champion Quest — The Numbers Behind the Historic Run",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Kimi Antonelli. 19 years old. 6 wins. 204 points.\n\nIf he wins the 2026 F1 World Championship, he becomes the FIRST TEENAGER in history to do it.\n\nThe record now? Sebastian Vettel, 21 years old in 2010.\n\nAntonelli is rewriting the record books.\n\n#F1 #Antonelli",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Antonelli"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-antonelli-youngest-champion-history-run.html",
+        "headline": "Kimi Antonelli Is Chasing History: Could a 19-Year-Old Win the F1 World Championship?",
+        "word_count": 760
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli Historic Run\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** Kimi Antonelli Mercedes\n- **Usage:** X, Facebook — Celebration / record-breaking moment\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search term:** Kimi Antonelli Mercedes Formula 1\n- **Usage:** Article featured image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Russell's Title Challenge Is Fading Fast",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "George Russell is 50 points behind Antonelli with 8 races left.\n\nThat's 200 maximum points available.\n\nHe needs to win nearly EVERY race while Antonelli finishes off the podium.\n\nThe Belgian DNF may have ended his title challenge.\n\n#F1 #GeorgeRussell",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#GeorgeRussell"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-russell-title-challenge-in-crisis.html",
+        "headline": "George Russell's Title Challenge Is at a Crossroads — 50 Points Back, Eight Races Left",
+        "word_count": 645
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Russell Title Challenge\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** George Russell Mercedes\n- **Usage:** X, Facebook — Russell racing/analysis\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "The 2027 F1 Driver Market Takes Shape",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Who is confirmed for 2027?\n\n✅ Antonelli — Mercedes\n✅ Russell — Mercedes\n✅ Hamilton — Ferrari\n✅ Leclerc — Ferrari\n✅ Piastri — McLaren\n\n❓ Verstappen — can trigger exit clause in October\n\nThe biggest seat in F1 might be opening up.\n\n#F1 #Formula1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Formula1"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-2027-f1-driver-market-verstappen-options.html",
+        "headline": "The 2027 F1 Driver Market Takes Shape: Piastri Confirmed, Verstappen's Options Narrow",
+        "word_count": 666
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "2027 Driver Market\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** Max Verstappen Red Bull\n- **Usage:** X, Facebook — Driver market speculation graphic"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

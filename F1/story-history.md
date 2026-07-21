@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-07-21
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-21 | T1 | Piastri Confirms McLaren Stay — Zak Brown: "No Conversations" with Verstappen; Swap Dead | X, FB, Article | NEW |
+| 2026-07-21 | T1 | Hungarian GP Preview — Antonelli Eyes Extension, Verstappen 72-Hr Window Before Summer Break | X, FB, Article | NEW |
+| 2026-07-21 | T2 | Antonelli's Youngest-Champion Quest — Historic Season Stats Analysis | X, FB, Article | FOLLOW UP |
+| 2026-07-21 | T2 | Russell's Title Challenge In Crisis — 50 Pts Back, 8 Races Left | X, FB, Article | FOLLOW UP |
+| 2026-07-21 | T2 | 2027 F1 Driver Market — Piastri Confirmed, Verstappen's Options Narrow | X, FB, Article | NEW |
+
+### STORY 1: Piastri Confirms McLaren / Brown Denies Verstappen
+- **Tier:** 1
+- **Category:** Driver Market / McLaren / Verstappen
+- **Key facts:** Piastri "Yes" to McLaren 2027 (AutoAction, ESPN); Brown: "They're rumours? No conversations" about Verstappen; Piastri: Verstappen "exploring options"; Verstappen "No" and "Nothing" at Spa press conference; seat-swap (Verstappen→McLaren/Piastri→Red Bull) widely rumored but now officially denied by both McLaren principals
+- **Status:** NEW
+- **Follow-up ideas:** October clause trigger; Verstappen 2027 seat announcement; 2027 grid finalization
+
+### STORY 2: Hungarian GP Preview
+- **Tier:** 1
+- **Category:** Race Preview / Hungarian GP
+- **Key facts:** July 24-26 Hungaroring Budapest; FP1 12:30 PM ET/FP2 4 PM ET Fri; Qual 3 PM ET Sat; Race 8 AM ET Sun; Antonelli leads 204-159 Hamilton (45 pts); Russell 154 (50 back); weather sunny 31°C; last race before 3-week summer shutdown; Verstappen exit clause window opens after summer break; 72-hour post-race window significant for transfer market
+- **Status:** NEW
+- **Follow-up ideas:** Qualifying result; race result; Verstappen clause announcement
+
+### STORY 3: Antonelli Historic Run
+- **Tier:** 2
+- **Category:** Championship Analysis / Kimi Antonelli
+- **Key facts:** 19 years old; 6 wins/10 races; 204 pts; youngest championship leader in F1 history; youngest pole record at Chinese GP (19yr 6mo 17d, beat Vettel); if wins 2026 title = FIRST TEENAGER EVER to win F1 World Championship; previous youngest: Vettel (21 in 2010)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Title clinch; historical context stories; rookie records
+
+### STORY 4: Russell Title Challenge
+- **Tier:** 2
+- **Category:** Championship Analysis / George Russell
+- **Key facts:** Russell 154 pts, Antonelli 204, gap 50; 8 races left (200 max); Belgian GP DNF lap 1 (power deployment issue into Hamilton); needs near-perfection + Antonelli implosion; mathematically possible but practically improbable
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Hungarian GP result; second-half performance; championship outcome
+
+### STORY 5: 2027 Driver Market
+- **Tier:** 2
+- **Category:** Driver Market / F1 News
+- **Key facts:** Confirmed 2027: Antonelli/Russell (Mercedes), Hamilton/Leclerc (Ferrari), Piastri/Norris (McLaren); Verstappen clause active Aug-Oct; McLaren denied; realistic options narrow (Audi? Red Bull renegotiation?); summer break = negotiation season
+- **Status:** NEW
+- **Follow-up ideas:** Verstappen announcement; October clause trigger; 2027 grid finalization
+
 ## 2026-07-20
 
 | Date | Tier | Story | Platforms | Status |
