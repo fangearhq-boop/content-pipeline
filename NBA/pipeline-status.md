@@ -1,10 +1,21 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Last Run
-- **Date**: 2026-07-20
+- **Date**: 2026-07-21
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-21
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** hh-postplanner-2026-07-21.xlsx (7 posts) + hh-postplanner-tobi-2026-07-21.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-07-21/review-dashboard.html (22 items)
+- **Notes:** NBA DECISION DAY — Beverley: "Rumor has it Bron makes his decision today"; Shams: "getting closer and closer"; Warriors got "good news" from NBA coach; Heat got "bad news" per conflicting reports; betting odds Heat 35%/Cavs 29%/Warriors 17%/76ers 14%; Lendeborg historic: only 2nd player (after Davion Mitchell 2021) to win NCAA + SL championships same year; Warriors 1st SL title since 2013; Kawhi probe weeks away/2nd deal in scope; Wemby 5yr/$252M stays in San Antonio; all five blockbuster trades official
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-20
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

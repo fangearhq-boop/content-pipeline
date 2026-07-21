@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-07-21
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-21 | T1 | LeBron James Decision Expected Monday — Beverley: "Rumor has it Bron makes his decision today"; Warriors got good news | X, FB, Article | FOLLOW UP |
+| 2026-07-21 | T1 | Lendeborg Makes History — Only 2nd Player Ever to Win NCAA + NBA Summer League Championship Same Year | X, FB, Article | FOLLOW UP |
+| 2026-07-21 | T2 | Kawhi Leonard Investigation Still Weeks Away — Silver Demands Resolution Before Next Season | X, FB, Article | FOLLOW UP |
+| 2026-07-21 | T2 | Victor Wembanyama Signs 5-Year $252M Extension with Spurs | X, FB, Article | NEW |
+| 2026-07-21 | T2 | New NBA Landscape — Five Trades Done, Just Waiting on LeBron | X, FB, Article | NEW |
+
+### STORY 1: LeBron James Decision Expected Monday
+- **Tier:** 1
+- **Category:** NBA Free Agency / LeBron James
+- **Key facts:** Pat Beverley: "Rumor has it Bron makes his decision today"; Shams: "getting closer and closer"/no team named; Warriors got "good news" from NBA head coach; Heat got "bad news" per conflicting reports; Betting odds: Heat 35%/Cavs 29%/Warriors 17%/76ers 14% (Kalshi); Curry pitch: "Do you want to play good basketball and be around people that know how to play the game?"; NBA schedule still not released pending LeBron
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** LeBron announcement; press conference; jersey reveal; teams he passes over adjust plans
+
+### STORY 2: Lendeborg Historic Achievement
+- **Tier:** 1
+- **Category:** NBA Summer League / Golden State Warriors
+- **Key facts:** Only 2nd player in history to win NCAA championship + NBA Summer League championship same year; first was Davion Mitchell (Baylor 2021/Sacramento Kings 2021); Warriors' 1st SL title since 2013; Lendeborg: 21pts/10reb/2ast/2stl MVP; Warriors came back from 12 down in 4Q; LJ Cryer 15pts/4 threes; Deivon Smith 21pts off bench
+- **Status:** FOLLOW UP (complete — Summer League done)
+- **Follow-up ideas:** Lendeborg training camp; Warriors roster development; how SL title factors into LeBron pitch
+
+### STORY 3: Kawhi Leonard Investigation
+- **Tier:** 2
+- **Category:** NBA Investigation / Trades
+- **Key facts:** 10-11 months ongoing; HoopsHype July 16: conclusion "still weeks away"; expanded to 2nd undisclosed endorsement deal + personal expenses; Wachtell Lipton conducting; Silver: must end before next season; Clippers-Raptors trade frozen; Sanberg sentenced 14 years; potential punishments include suspension or contract voiding
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Investigation conclusion; trade approved or collapsed; NBA ruling
+
+### STORY 4: Victor Wembanyama Extension
+- **Tier:** 2
+- **Category:** NBA Transactions / San Antonio Spurs
+- **Key facts:** 5-year $252M rookie max extension; 25% max under CBA; ~$50M left on table vs. full supermax; commitment to San Antonio; age 22
+- **Status:** NEW
+- **Follow-up ideas:** Spurs roster construction; championship timeline; 2026-27 season preview
+
+### STORY 5: New NBA Landscape
+- **Tier:** 2
+- **Category:** NBA Analysis / League-Wide
+- **Key facts:** Five trades complete (Giannis→Heat/Brown→76ers/Ja→Blazers/LaMelo→Wolves/George→Celtics); Wemby 5yr/$252M in SA; Mitchell 4yr/$273M in Cleveland; Knicks won 2026 title; LeBron's decision completes offseason picture
+- **Status:** NEW
+- **Follow-up ideas:** LeBron announcement; 2026-27 season previews; championship contender analysis
+
 ## 2026-07-20
 
 | Date | Tier | Story | Platforms | Status |
