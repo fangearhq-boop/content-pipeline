@@ -2,6 +2,45 @@
 
 ---
 
+## July 21, 2026
+
+### Story 1: COS Childcare Desert — City Council Approves Zoning Fix
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — Colorado Springs City Council approved zoning ordinance allowing home-based care, church-based care, and employer-provided childcare as permitted uses in residential zones. El Paso County: 47,000 children under 5, only 18,400 licensed spots, 28,600 gap. Southeast quadrant identified as hardest hit. Significant local policy change.
+- **Content Produced:** Article (Jamie Rivera), 2 X posts, Facebook Long-Form + Caption, 2 Image Concepts
+- **Tier:** 1
+- **Key Facts:** El Paso County 47,000 children under 5; 18,400 licensed spots; 28,600 gap; southeast quadrant worst; city council approved zoning ordinance; home-based + church + employer childcare now permitted in residential zones; KOAA headline confirmed; Sources: KOAA, local advocacy reporting
+
+### Story 2: Free Concert at Piñon Valley Park — July 24
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — SofaKillers performing at Piñon Valley Park (5585 Mule Deer Dr) July 24, 6:30–8:30 PM. Free admission. Part of city's Park and Recreation Month / Music in the Park series. Food trucks, youth kickball, giveaways on site. Family-friendly.
+- **Content Produced:** Article (Sarah Morales), 1 X post, Facebook Long-Form + Caption, 1 Image Concept
+- **Tier:** 2
+- **Key Facts:** SofaKillers; Piñon Valley Park; 5585 Mule Deer Dr; July 24 2026; 6:30–8:30 PM; free; food trucks; kickball; giveaways; Park and Recreation Month; Sources: city of COS parks events
+
+### Story 3: D49 Back-to-School Countdown — Teachers Return July 28
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — D49 back-to-school sequence: new teacher orientation July 24–27; all teachers return July 28; professional development July 30; first day K/6th/9th Aug 3; all students Aug 4. Timely for Falcon-area families with 2 weeks before school.
+- **Content Produced:** Article (Jamie Rivera), 1 X post, Facebook Long-Form + Caption, 1 Image Concept
+- **Tier:** 2
+- **Key Facts:** D49 teacher orientation July 24–27; all teachers return July 28; prof dev July 30; K/6th/9th first day Aug 3; all students Aug 4; d49.org; Sources: d49.org district calendar
+
+### Story 4: NICU Parent Mental Health — JAMA Pediatrics Study
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — JAMA Pediatrics July 6, 2026 meta-analysis: 160 studies, 16,639 parents. Lead: Claire E. Niehaus Milligan PhD, Heart Mind Wellbeing Center, Cincinnati Children's Hospital Medical Center. Six intervention categories; psychotherapy, family-centered care, and meditation showed strongest evidence. Effect sizes large to extremely large. Practical COS resources included.
+- **Content Produced:** Article (Sarah Morales), 2 X posts, Facebook Long-Form + Caption, 2 Image Concepts
+- **Tier:** 1
+- **Key Facts:** JAMA Pediatrics July 6 2026; 160 studies; 16,639 parents; 93.5% women; mean age 30.2; Claire E. Niehaus Milligan PhD; Cincinnati Children's Hospital; 6 categories: bonding, expressive/creative, psychotherapy, family-centered, meditation, spiritual; 85 of 160 in formal meta-analysis; large to extremely large effect sizes; Sources: jamanetwork.com, cincinatichildrens.org
+
+### Story 5: PPLD Summer Reading — 10 Days Left, Grand Prize Is Broadmoor Cloud Camp
+- **Content Pillar:** Local Events
+- **Angle:** FOLLOW-UP — PPLD Summer Adventure ends July 31; 10 days remaining. Grand prize confirmed: Pikes Peak Region Attractions VIP Access Pass + one-night stay for two at The Broadmoor Cloud Camp. Free for all ages; 30 days of reading/creating/exploring earns entries. Log at ppld.beanstack.org or ppld.org/summer.
+- **Content Produced:** Article (Jamie Rivera), 1 X post, Facebook Long-Form + Caption, 1 Image Concept
+- **Tier:** 2
+- **Key Facts:** PPLD Summer Adventure; ends July 31; 30 days to earn entries; grand prize: Pikes Peak Region Attractions VIP Access Pass + one-night for two at Broadmoor Cloud Camp; free all ages; log at ppld.beanstack.org; 14 locations El Paso County; Sources: ppld.org/summer
+
+---
+
 ## July 20, 2026
 
 ### Story 1: Build-A-Bear Heartwarming Hugs Bear Recall

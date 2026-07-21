@@ -1,0 +1,304 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-21",
+  "compiled_at": "2026-07-21T12:31:19.267384+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 (Tsitsipas wins Gstaad + correction)",
+      "type": "X + FB"
+    },
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 (Tsitsipas wins Gstaad)",
+      "type": "X"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2 (Kitzbuhel Day 2)",
+      "type": "X + FB"
+    },
+    {
+      "time": "11:30 AM",
+      "description": "Story 2 (Kitzbuhel Day 2)",
+      "type": "X"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 3 (Estoril opens)",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 (Prague upset / Hamburg)",
+      "type": "X + FB"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 5 (Wawrinka farewell)",
+      "type": "X + FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "CORRECTION + Tsitsipas Wins Gstaad — 13th Title, 16-Month Drought Over",
+      "tier": 1,
+      "status": "",
+      "angle": "CORRECTION — Yesterday's pipeline (July 20) misidentified Raphael Collignon as the Gstaad champion in the \"Clay Swing Week One Wrap\" story. The actual result: Stefanos Tsitsipas defeated Collignon 6-4, 6-7(3), 6-3 in the final on Saturday July 19 to win the Swiss Open Gstaad (EFG Swiss Open). This was Tsitsipas's 13th career ATP title, ending a 16-month drought since his last title (Dubai, March 2025). He is the first Greek player to win the Gstaad title. The victory propels him 34 spots up the PIF ATP Rankings to No. 51. ATP Tour named him Mover of the Week.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Tsitsipas is a champion again.\n\nHe beat Collignon 6-4, 6-7(3), 6-3 in Gstaad — first Greek player to win the title. No. 13 for his career. 16-month drought over.\n\nHe jumps 34 spots to No. 51 this week.\n\n#Tennis #Gstaad #Tsitsipas #ATPTour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#Gstaad",
+            "#Tsitsipas",
+            "#ATPTour"
+          ],
+          "char_count": 238
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The ATP Mover of the Week is Stefanos Tsitsipas.\n\n+34 spots. Up to No. 51. First trophy since Dubai in March 2025 — that's 16 months between titles.\n\nHe ended it at Gstaad on Saturday with a win over Collignon.\n\n#Tennis #ATPTour #Tsitsipas #SwissOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#ATPTour",
+            "#Tsitsipas",
+            "#SwissOpen"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-tsitsipas-wins-gstaad-13th-title.html",
+        "headline": "Tsitsipas Wins Gstaad — 13th Career Title, 16-Month Drought Over, First Greek Champion",
+        "word_count": 696
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Tsitsipas Wins Gstaad — 2 Image Concepts\n\n**Image 1A** — Social image (1080x1350, 4:5 vertical)\n- **Search term:** \"Stefanos Tsitsipas\"\n- **Caption overlay (Canva):** \"TSITSIPAS WINS GSTAAD\" / \"13th career title / First Greek champion\" / \"@TennisFanrecap\"\n- **Credit:** (USA TODAY Sports Images)\n- **Usage:** X post 1A + Facebook image caption\n\n**Image 1B** — Article hero (1200x630, 1.91:1 landscape)\n- **Search term:** \"Stefanos Tsitsipas\"\n- **Caption overlay:** None (hero image)\n- **Credit:** (USA TODAY Sports Images)\n- **Usage:** Article header\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Kitzbuhel Day 2 — Bublik Survives Scare, 8th Seed Cerundolo Falls",
+      "tier": 1,
+      "status": "",
+      "angle": "NEW STORY — The Generali Open Kitzbuhel (ATP 250, clay, July 20-25) opened with drama. No. 1 seed Alexander Bublik defeated Facundo Diaz Acosta 4-6, 6-3, 6-4 — a nervy three-set win for the defending champion. UPSET: Marco Trungelliti eliminated No. 8 seed Juan Cerundolo 6-2, 6-1. Tomas Martin Etcheverry (4) def. Rodionov 6-4, 6-2. Key context: Flavio Cobolli, who was originally announced as the No. 1 seed, withdrew before the tournament to take a two-week recovery break after a first-round loss in Umag (not injury). Jan-Lennard Struff and Lorenzo Sonego entered as replacements. Day 2 today (July 21) features: Molcan vs. Ofner, Vallejo vs. Feldbausch, Struff vs. Navone.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The 8th seed at Kitzbuhel is already gone.\n\nTrungelliti def. Cerundolo 6-2, 6-1.\n\nBublik — the top seed and defending champion — survived 4-6, 6-3, 6-4 in his opener. Day 2 underway now.\n\n#Tennis #Kitzbuhel #ATPTour #GeneraliOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#Kitzbuhel",
+            "#ATPTour",
+            "#GeneraliOpen"
+          ],
+          "char_count": 229
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Quick Kitzbuhel note: Cobolli was supposed to be the No. 1 seed.\n\nHe pulled out to take a recovery break after Umag. Bublik stepped into the top spot.\n\nDefending champion. Three-setter in round one. Drama on day one.\n\n#Tennis #Kitzbuhel #Bublik #ATPTour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#Kitzbuhel",
+            "#Bublik",
+            "#ATPTour"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-kitzbuhel-day-two-bublik-cerundolo-upset.html",
+        "headline": "Kitzbühel Day One: Cerundolo Falls, Bublik Survives, and Cobolli's Empty Seat",
+        "word_count": 613
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Kitzbuhel Day 2 — 2 Image Concepts\n\n**Image 2A** — Social image (1080x1350, 4:5 vertical)\n- **Search term:** \"Alexander Bublik\"\n- **Caption overlay (Canva):** \"KITZBÜHEL / BUBLIK THROUGH / Cerundolo (8) exits\" / \"@TennisFanrecap\"\n- **Credit:** (USA TODAY Sports Images)\n- **Usage:** X post 2A + Facebook image caption\n\n**Image 2B** — Article hero (1200x630, 1.91:1 landscape)\n- **Search term:** \"Alexander Bublik\"\n- **Caption overlay:** None\n- **Credit:** (USA TODAY Sports Images)\n- **Usage:** Article header\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Estoril Opens — Rublev, Wawrinka, and a Portuguese Welcome",
+      "tier": 2,
+      "status": "",
+      "angle": "NEW STORY — The Millennium Estoril Open (ATP 250, clay, July 20-26) gets underway in Cascais, Portugal. Andrey Rublev is the top seed, just days after winning his second Bastad title. Luciano Darderi — who lost the Bastad final to Rublev — is the No. 2 seed. Home favourite Nuno Borges is seeded. And Stan Wawrinka, in his final professional season, is playing the Estoril Open for the first time in his career. Tuesday's order of play includes Wawrinka vs. Burruchaga in a stadium court match. Day 1 continued into Tuesday, with main draw action beginning in earnest.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Estoril Open this week:\n\n- Rublev (fresh off Bastad) chasing back-to-back\n- Darderi bouncing back from Bastad final loss\n- Wawrinka in Portugal for the first time — his final season\n\n#Tennis #Estoril #ATPTour #Wawrinka",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#Estoril",
+            "#ATPTour",
+            "#Wawrinka"
+          ],
+          "char_count": 218
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-estoril-open-rublev-wawrinka.html",
+        "headline": "Estoril Opens With Rublev, Wawrinka, and a Field Full of Stories",
+        "word_count": 574
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Estoril Opens — 1 Image Concept\n\n**Image 3A** — Social image (1080x1350, 4:5 vertical)\n- **Search term:** \"Andrey Rublev\"\n- **Caption overlay (Canva):** \"ESTORIL OPEN / Rublev, Wawrinka, Borges\" / \"@TennisFanrecap\"\n- **Credit:** (USA TODAY Sports Images)\n- **Usage:** X post 3A + Facebook image caption\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Prague Day One Shock — Havlickova Upsets Parks, Bouzkova Defends",
+      "tier": 2,
+      "status": "",
+      "angle": "NEW STORY — The Livesport Prague Open (WTA 250, hard courts, July 20-26) delivered Day 1 drama in the Czech capital. UPSET: Lucie Havlickova (ranked approximately No. 226) defeated Alycia Parks (ranked approximately No. 66) 6-2, 6-4. Defending champion Marie Bouzkova (No. 1 seed) opened with a 7-5, 7-5 win over Bouzas Maneiro. Also through: Oceane Dodin (def. Oktiabreva 6-3, 6-3), Daria Snigur (8) def. Seidel 7-5, 3-6, 6-3. NOTE: Prague is played on HARD COURTS — not clay — making it one of the first hard-court events post-Wimbledon. In Hamburg, the MSC Hamburg Ladies Open (WTA 250, clay) also opened Monday with Oleksandra Oliynykova as the top seed. Both Hamburg and Prague Day 2 action is scheduled today.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Lucie Havlickova (No. 226) just beat Alycia Parks (No. 66) 6-2, 6-4 in Prague.\n\nDefending champion Bouzkova won her opener 7-5, 7-5.\n\nPrague is on hard courts — one of the first hard-court events post-Wimbledon.\n\n#Tennis #WTA #Prague #WTATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#WTA",
+            "#Prague",
+            "#WTATour"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-prague-havlickova-upset-hamburg-opens.html",
+        "headline": "Prague Day One: Havlickova Stuns Parks, Bouzkova Opens Defense",
+        "word_count": 572
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Prague + Hamburg — 1 Image Concept\n\n**Image 4A** — Social image (1080x1350, 4:5 vertical)\n- **Search term:** \"Marie Bouzkova\"\n- **Caption overlay (Canva):** \"PRAGUE OPEN / Bouzkova defends / Havlickova shocks Parks\" / \"@TennisFanrecap\"\n- **Credit:** (USA TODAY Sports Images)\n- **Usage:** X post 4A + Facebook image caption\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Wawrinka's Farewell Season — From Gstaad Ceremony to Estoril Debut",
+      "tier": 2,
+      "status": "",
+      "angle": "NEW STORY — Stan Wawrinka's 2026 retirement season is entering its home stretch. The three-time Grand Slam champion received a special farewell ceremony at Gstaad earlier this month. He has said goodbye at Wimbledon and Roland Garros. Now he arrives in Estoril for the first time in his career — his last clay-court event. His most recent Portugal appearance was the 2013 Portugal Open in Oeiras (the tournament's predecessor), which he won. Wawrinka, 41, has said: \"I don't want to retire, but I know it's time to stop.\" His plan: retire at the Swiss Indoors Basel in October, his home tournament.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Stan Wawrinka is 41. Final year of his career.\n\nToday he plays Estoril for the first time. His last clay event before retiring at Basel in October.\n\n\"I don't want to retire, but I know it's time to stop.\"\n\n#Tennis #Wawrinka #Estoril #ATPTour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#Wawrinka",
+            "#Estoril",
+            "#ATPTour"
+          ],
+          "char_count": 241
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-wawrinka-farewell-tour-2026.html",
+        "headline": "Wawrinka's Final Year: Three Slams, One Backhand, and a Goodbye That Keeps Going",
+        "word_count": 665
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Wawrinka Farewell — 1 Image Concept\n\n**Image 5A** — Social image (1080x1350, 4:5 vertical)\n- **Search term:** \"Stan Wawrinka\"\n- **Caption overlay (Canva):** \"FINAL SEASON / Wawrinka in Portugal / For the first time\" / \"@TennisFanrecap\"\n- **Credit:** (USA TODAY Sports Images)\n- **Usage:** X post 5A + Facebook image caption\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
