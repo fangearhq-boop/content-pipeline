@@ -1,0 +1,240 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-21",
+  "compiled_at": "2026-07-21T09:19:26.797466+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Tigers 8, Cubs 6 in 10 Innings — Extras Heartbreak at Wrigley",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Tigers won Game 1 in extras. Taillon returned but was rusty (4.1 IP, 4 ER). Happ's 2-run HR tied it in the 8th, but Torkelson's 2-run single in the 10th closed it out for Detroit. All three Cubs HR (Suzuki, Busch, Happ) couldn't hold it.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Tigers 8, Cubs 6 — extras heartbreak Monday night.\n\nTaillon rusty in his return: 4.1 IP, 4 ER. Happ's 2-run shot tied it in the 8th. Torkelson's 2-run single in the 10th was the dagger.\n\nCubs need a bounce-back tonight. 7:05 PM CT.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative (overnight recap)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 2,
+        "claims_flagged": 2,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Tigers 8, Cubs 6 in 10 Innings (Game 1 Recap)\n**Sources:**\n- Detroit News: \"Tigers rally late in 'topsy-turvy game' to defeat Cubs 8-6\" (July 21, 2026)\n- CBS Sports Box Score: MLB_20260720_DET@CHC\n- KNBR/AP: \"Dillon Dingler homers twice as Tigers beat Cubs in 10\"\n- Bless You Boys: \"Home runs giveth, home runs taketh away in extra innings win\"\n- ESPN game page (gameId/401816193)\n**Verified Facts:**\n- Final score: Tigers 8, Cubs 6 in 10 innings [HIGH — multiple sources]\n- Venue: Wrigley Field; game delayed by weather, pushed to ~8:05 PM CT start [MEDIUM — Sun-Times headline confirms delay]\n- Taillon: 4.1 IP, 4 ER, 5 H in return from hamstring IL [HIGH — 2 sources]\n- Riley Greene: 3-run HR (No. 15 on season) off Taillon in early innings [MEDIUM — 1 AP source]\n- Dillon Dingler: 2 solo HRs (Nos. 19 and 20); 4-for-5, 3 RBI; first multihomer game of All-Star season [MEDIUM — 1 source]\n- Seiya Suzuki: Solo HR for Cubs [MEDIUM — 1 source]\n- Michael Busch: Solo HR for Cubs [MEDIUM — 1 source]\n- Ian Happ: 2-run HR in 8th off Kyle Finnegan (Tigers reliever), tied game at 5-5 [MEDIUM — 1 source]\n- Trent Thornton (Cubs): started 10th inning, struck on lower left leg by 108.9 mph Riley Greene comebacker, helped off field [MEDIUM — 1 source]\n- Spencer Torkelson: 2-run single in 3-run Tigers 10th [HIGH — 2 sources]\n- Kenley Jansen (Tigers, 2-4): winning pitcher [MEDIUM — 1 source; former Cubs closer storyline]\n- Tyler Holton (Tigers): first save of season [MEDIUM — 1 source]\n- Tigers' last 16 games: 12-4 [MEDIUM — 1 source]\n**Flags for Fact-Check:**\n- Dingler's homer count: one source says \"No. 20 on the season\" for his second, another implies it was his 19th/20th. Treat as MEDIUM.\n- Thornton's injury severity: source says \"helped off the field\" but doesn't confirm severity or IL status. Flag as status unknown.\n- Jansen now on Tigers: consistent with earlier July 2026 references. Treat as MEDIUM — should note he's a former Cub.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Thornton Comebacker + Jansen Twist — Bold Take on the Loss",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "The bigger concern from Monday's loss isn't the score — it's Trent Thornton taking a 108.9 mph Riley Greene comebacker off his leg in the 10th inning and being helped off the field. Oh, and former Cubs closer Kenley Jansen got the win for Detroit.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Taillon was rusty. That was expected.\n\nThornton taking a 108.9 mph comebacker off his left leg in the 10th and being helped off — that was not.\n\nOh, and former Cubs closer Kenley Jansen got the WIN for Detroit.\n\nBullpen help needed. Thirteen days.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold take / fan energy",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 1,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Thornton Comebacker / Jansen Win (Bold Take)\n**Sources:** Same game recap sources as Story 1\n**Key facts used:**\n- Thornton comebacker speed: 108.9 mph (Greene's batted ball) [MEDIUM — 1 source]\n- Jansen won it for Detroit (former Cubs closer, now 2-4 with Tigers) [MEDIUM — 1 source]\n- Bullpen depth concern: Palencia on IL (elbow), Maton just placed on IL, Thornton now questionable [HIGH — confirmed across multiple injury sources]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Wild Card Watch — 56-44, Phillies 1 Game Back",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "Cubs hold No. 1 NL Wild Card at 56-44 but the Phillies are just 1 game back at 55-45. Cardinals at 51-47. NL Central division gap vs. Brewers (~7 GB) means the Wild Card is everything. Every loss tightens the race.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Cubs fall to 56-44, still holding No. 1 in the NL Wild Card.\n\nPhillies are 55-45 — just one game back. Cardinals at 51-47. Brewers are running away in the NL Central at 62-37 (division is gone, WC is everything).\n\nWin tonight. The margin gets thin fast.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Stat breakdown / informative",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "unverified",
+        "claims_checked": 2,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Wild Card Standings\n**Sources:** MLB.com standings summary, ESPN wild card, StatMuse\n**Key facts used:**\n- Cubs: 56-44, No. 1 NL Wild Card [MEDIUM — search summary; reflects post-July-20 loss]\n- Phillies: 55-45 [MEDIUM — search summary]\n- Cardinals: 51-47 [MEDIUM — search summary]\n- Brewers: 62-37 (NL Central leaders) [MEDIUM — may be slightly dated; use with caveat]\n- Cubs approximately 7 GB of Brewers in NL Central [MEDIUM — derived from records]\n**Flags:** Standings from search summaries; should verify exact numbers at mlb.com/standings, but current data consistent across 2 sources.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Trade Deadline — 13 Days, Pitching Need Is Real",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "August 3 deadline is 13 days away. Rotation was already thin. Thornton's status unknown after the comebacker. Sonny Gray (BOS), Joe Ryan (MIN), and Wacha (KC) are the linked names. Hoyer needs to move.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "13 days to the deadline. The Cubs just saw Thornton leave with a comebacker to the leg. The rotation that needed Taillon to come back healthy got 4.1 rusty innings.\n\nSonny Gray. Joe Ryan. Michael Wacha. Jed Hoyer has the chips and the need.\n\nTime to move.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Analysis / bold take",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 2,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Trade Deadline\n**Sources:** Chicago Sun-Times (July 17), CBS Sports, SI.com, ClutchPoints (Jim Bowden/Athletic), Cubbies Crib, Heavy.com\n**Key facts used:**\n- Deadline: August 3, 2026 (13 days from today) [HIGH — standard MLB deadline]\n- Hoyer confirmed pitching focus (both starters and bullpen) [HIGH — confirmed in multiple outlets]\n- Sonny Gray (BOS): \"hottest\" option per reports [MEDIUM — 1 characterization source]\n- Joe Ryan (MIN): priciest option [MEDIUM — 1 source]\n- Michael Wacha (KC): 35-year-old, AL All-Star 2026; controllable through 2027 [MEDIUM — SI.com]\n- Wacha: Jim Bowden suggests Matt Shaw + Kevin Alcantara package [MEDIUM — ClutchPoints/Athletic]\n- Aaron Civale already acquired from A's [HIGH — confirmed in multiple roster sources]\n**Do NOT claim in tweets:** Specific trade probabilities, Sonny Gray's ERA (not verified from a primary stat source in today's research)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Game 2 Preview — Peterson vs. Valdez, Wrigley, 7:05 PM CT",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Cubs turn to David Peterson (4-7, 6.45 ERA) to even the series against Framber Valdez (5-6, 4.10 ERA). Peterson's last outing was clean (5 IP, 1 ER vs. Baltimore). Must-win before Game 3.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Bounce-back time at Wrigley. Cubs vs. Tigers, Game 2.\n\nDavid Peterson (4-7, 6.45 ERA) faces Framber Valdez (5-6, 4.10 ERA). Tigers lead the series 1-0. Peterson's last start: 5 IP, 1 ER vs. Baltimore.\n\nHe needs another one tonight. 7:05 PM CT.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Game preview / fan hype",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "unverified",
+        "claims_checked": 2,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Game 2 Preview — Peterson vs. Valdez\n**Sources:** SportsGrid, Bleacher Nation, Baseball Reference preview, Heavy.com, ESPN game log\n**Key facts used:**\n- Game time: 7:05 PM CT at Wrigley [HIGH — series context JSON]\n- David Peterson (Cubs): 4-7, 6.45 ERA in 2026 [MEDIUM — 1 source; 30-year-old LHP]\n- Peterson last start (July 9 vs. Baltimore): 5 IP, 1 ER, 2 H [MEDIUM — 1 source; 12-day gap since last start is unusual]\n- Framber Valdez (Tigers): 5-6, 4.10 ERA, 1.32 WHIP, 19 starts, 107.2 IP [MEDIUM — 1 source]\n- Tigers lead series 1-0 [HIGH — confirmed via Game 1 result]\n- Series: 3-game series July 20-22 at Wrigley [HIGH — series context JSON]\n**Flags:**\n- Peterson's last start gap (July 9): 12-day gap between starts is notable. Could indicate he was skipped, injured briefly, or on rest. Does not affect tweet content but noted for accuracy.\n- Do NOT claim Peterson's full-season start count (conflicting \"12th start\" vs \"19 games\" in sources).",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Iowa Cubs Power Surge — Miller, Bateman, Long Homer to Take Series",
+      "tier": 3,
+      "status": "NEW STORY",
+      "angle": "Iowa Cubs blew out the Memphis Redbirds (Cardinals affiliate) to win the series. Owen Miller 3-run HR, Brett Bateman 2-run HR in the 9th, Jonathan Long went deep. Good news from the farm while the big club plays catch-up.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Iowa Cubs torched the Memphis Redbirds (Cardinals affiliate) to take the series.\n\nOwen Miller 3-run HR. Brett Bateman 2-run HR. Jonathan Long went deep too.\n\nPower surge in Des Moines while the big club drops one in extras.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Feature / prospect update",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "unverified",
+        "claims_checked": 1,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Iowa Cubs Power Surge\n**Sources:** Bleacher Nation Cubs Prospects Report July 20, 2026\n**Key facts used:**\n- Iowa Cubs beat Memphis Redbirds (Cardinals AAA affiliate) [HIGH — 2 sources]\n- Series win over Memphis [HIGH — 2 sources]\n- Owen Miller 3-run HR [MEDIUM — 1 source]\n- Brett Bateman 2-run HR in 9th inning [MEDIUM — 1 source]\n- Jonathan Long solo HR + double + RBI [MEDIUM — 1 source]\n- Moises Ballesteros: 2 RBI single in 5th [MEDIUM — 1 source]\n- Ben Cowles: triple + RBI in 9th [MEDIUM — 1 source]\n- Score at end of 8th: 10-4, Iowa added 3 more in 9th [MEDIUM — 1 source]\n- Tennessee Smokies lost to Montgomery Biscuits 10-2 [MEDIUM — 1 source]\n**Note:** Tweet copy does not claim a specific final score for Iowa since source said \"10-4 after 8, 3 more in 9th\" but we don't have an official final. Reference the margin as a \"blowout win\" rather than stating a specific score.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

@@ -5,6 +5,115 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-21
+
+### STORY 1: Tigers 8, Cubs 6 in 10 Innings — Extras Heartbreak at Wrigley
+- **Angle:** NEW STORY — Tigers won Game 1 in extras; Taillon returned but rusty (4.1 IP, 4 ER); Riley Greene 3-run HR; Dillon Dingler 2 HRs; Happ 2-run shot tied it in the 8th; Torkelson 2-run single in the 10th closed it out; Cubs fall to 56-44
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, overnight recap / informative)
+- **Follow-Up Opportunities:**
+  - Game 2 result (tonight vs Tigers, Peterson vs Valdez)
+  - Thornton injury status after comebacker
+
+### STORY 2: Thornton Comebacker + Jansen Twist — Bold Take on the Loss
+- **Angle:** NEW STORY (bold take; Thornton took 108.9 mph comebacker off left leg in 10th inning, helped off field; former Cubs closer Kenley Jansen got the win for Detroit; bullpen urgency building)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold take / fan energy)
+- **Follow-Up Opportunities:**
+  - Thornton IL status / injury update
+  - Bullpen depth tracking through deadline
+
+### STORY 3: Wild Card Watch — 56-44, Phillies 1 Game Back
+- **Angle:** FOLLOW UP (standings update; Cubs 56-44 No. 1 NL WC; Phillies 55-45, 1 GB; Cardinals 51-47; Brewers 62-37 running away with NL Central; wild card is everything)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, stat breakdown / informative)
+- **Follow-Up Opportunities:**
+  - Wild card standings after tonight's Game 2
+  - Phillies tracking through July
+
+### STORY 4: Trade Deadline — 13 Days, Specific Targets Named
+- **Angle:** FOLLOW UP (deadline arc; today's angle = Thornton injury adds urgency, 13 days out; Sonny Gray "hottest" name; Joe Ryan priciest; Michael Wacha safest; Hoyer has chips and the need)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, analysis / bold take)
+- **Follow-Up Opportunities:**
+  - Any trade announcement before August 3
+  - Thornton injury timeline and its effect on Hoyer's calculus
+
+### STORY 5: Game 2 Preview — Peterson vs. Valdez, Wrigley, 7:05 PM CT
+- **Angle:** NEW STORY (game preview; David Peterson [4-7, 6.45 ERA] vs Framber Valdez [5-6, 4.10 ERA]; Tigers lead series 1-0; Peterson's last start 5 IP, 1 ER vs Baltimore; must-win before Game 3)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview / fan hype)
+- **Follow-Up Opportunities:**
+  - Game 2 result (tomorrow's recap)
+  - Game 3 series finale July 22
+
+### STORY 6: Iowa Cubs Power Surge — Miller, Bateman, Long Homer to Take Series
+- **Angle:** NEW STORY (prospect update; Iowa blew out Memphis Redbirds [Cardinals affiliate] to take the series; Owen Miller 3-run HR; Brett Bateman 2-run HR; Jonathan Long went deep; win came as big club drops one in extras)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, feature / prospect update)
+- **Follow-Up Opportunities:**
+  - Iowa second-half season tracking
+  - Miller/Long promotion watch
+
+---
+
+## 2026-07-20
+
+### STORY 1: Cubs Open 3-Game Home Series vs. Detroit Tigers — Taillon Returns
+- **Angle:** NEW STORY — mandatory series-start tweet; Cubs 56-43 open home series vs Tigers 46-53 at Wrigley; Taillon returns from hamstring IL to start Game 1; Jack Flaherty starts for Detroit; 7:05 PM CT
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, series preview / informative)
+- **Follow-Up Opportunities:**
+  - Game 1 result (July 21 morning recap)
+  - Taillon actual pitching line
+
+### STORY 2: Game Recap — Cubs 10, Twins 1 (Series Win; Imanaga/Hoerner/Bregman)
+- **Angle:** NEW STORY — Cubs won the Twins series 2-1 behind Imanaga 7 shutout IP; Hoerner 4-for-4 for second straight day; Bregman 2-run HR; Cubs 56-43
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold / fan energy)
+- **Follow-Up Opportunities:**
+  - Imanaga second-half tracking
+  - Hoerner hot streak tracking
+
+### STORY 3: Jameson Taillon Activated — Rotation Impact
+- **Angle:** FOLLOW UP (Taillon arc; officially activated, starts tonight vs Detroit; two consecutive scoreless Iowa rehab starts; rotation ERA 4.33, 21st in MLB)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, stat breakdown / informative)
+- **Follow-Up Opportunities:**
+  - Taillon's first MLB start back (tonight's result)
+  - Rotation health tracking through second half
+
+### STORY 4: Trade Deadline — 14 Days, Cubs Need Pitching Now
+- **Angle:** FOLLOW UP (deadline arc; Civale acquired from A's July 18; Joe Ryan [3.36 ERA] top target; August 3, 14 days out; Hoyer pitching-first approach)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, analysis / bold take)
+- **Follow-Up Opportunities:**
+  - Any trade announcement before August 3
+  - Joe Ryan availability with Twins in contention
+
+### STORY 5: Nico Hoerner — Back-to-Back 4-for-4 Games
+- **Angle:** FOLLOW UP (Hoerner arc; 4-for-4 Saturday AND Sunday including bases-loaded triple; the quiet backbone of this lineup)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, feature / fan energy)
+- **Follow-Up Opportunities:**
+  - Hoerner July performance tracking
+
+### STORY 6: Don't Sleep on the Tigers — Detroit's Hidden Danger
+- **Angle:** NEW STORY — Tigers 46-53 overall but 18-12 since June 1; rotation ERA 3.48 (4th in baseball); Troy Melton 5-1, 1.82 ERA; more dangerous than their record implies
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, analysis / rival watch)
+- **Follow-Up Opportunities:**
+  - Tigers series results July 20-22
+
+### STORY 7: Pre-Game Hype — Taillon Takes Wrigley, 7:05 PM CT
+- **Angle:** NEW STORY (game-day hype; Taillon's comeback start at home; 56-43 WC leaders; 7:05 PM CT tonight)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT, pre-game hype)
+- **Follow-Up Opportunities:**
+  - Game 1 result (tomorrow's pipeline)
+
+---
+
 ## 2026-07-19
 
 ### STORY 1: Cubs 6, Twins 2 — Boyd & Hoerner Carry Game 2
