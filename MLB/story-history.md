@@ -5,6 +5,61 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-21
+
+### Story 1: Red Sox Win 14 Straight — One Win from 1946 Franchise Record
+- **Date:** 2026-07-21
+- **Tier:** 1
+- **Classification:** FOLLOW UP (13-game streak covered July 20; July 20 win vs. Orioles extends to 14; tonight July 21 = opportunity to tie 1946 franchise record of 15)
+- **Angle:** Boston beat the Orioles 6-5 July 20 on a Caleb Durbin 8th-inning HR over the Green Monster. Streak at 14. Franchise record is 15 (set April 25 – May 10, 1946: Ted Williams/Pesky/Doerr/DiMaggio). One win tonight ties it. Longest streak since 2006. AL Wild Card implications.
+- **Content Produced:** Article (article-01, Jake Torres), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Tonight's result vs. Orioles (does Boston tie the 1946 record?)
+  - AL Wild Card race tracking
+  - Red Sox season story if record falls
+
+### Story 2: Ohtani Knee — Next Start Canceled, Cy Young in Jeopardy
+- **Date:** 2026-07-21
+- **Tier:** 1
+- **Classification:** NEW STORY (start cancellation confirmed July 21; Roberts quote on timeline)
+- **Angle:** Left knee inflammation; fluid drained during ASB; next start vs. Phillies canceled. Roberts: "It's gonna be some time, and I'd say that it's not gonna be a day-to-day thing." No IL placement; continues as DH. Cy Young push in jeopardy. Background: bipartite patella surgery 2019; current issue separate inflammation from pitching stress.
+- **Content Produced:** Article (article-02, Ryan Calloway), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Ohtani return timeline as knee progresses
+  - Cy Young Award race implications
+
+### Story 3: Skubal Trade — Braves Frontrunner, 13 Days to August 3
+- **Date:** 2026-07-21
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Skubal trade watch tracked since late June; Braves-as-frontrunner is new per Nightengale/USA Today)
+- **Angle:** Tigers ~44-52, sellers. Braves frontrunner per Bob Nightengale. Also engaged: Cubs, Rays, Dodgers, Astros. Asking price "outrageous" per rival NL exec. Skubal wants to stay in Detroit; believes Tigers can win World Series. Tigers "inclined to keep" him. 13 days to August 3 deadline.
+- **Content Produced:** Article (article-03, Marcus Cole), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Trade outcome (keep/trade)
+  - Skubal's second-half results if he stays
+
+### Story 4: White Sox 52-46 — One of Baseball's Greatest Turnarounds
+- **Date:** 2026-07-21
+- **Tier:** 2
+- **Classification:** FOLLOW UP (White Sox turnaround tracked since early season; 52-46 midseason benchmark; Colson Montgomery HR No. 21)
+- **Angle:** 2024: 121 losses (MLB record). 2025: 60-102. 2026: 52-46, leading AL Central. A 30-win improvement matches 7 teams in baseball history. wRC+ from 88 to 104 (biggest year-over-year gain in MLB). Colson Montgomery: 21 HRs, passed over for All-Star Game, snub fueling second half. CORRECTION: Prior pipeline (July 20) listed Montgomery at 24 HRs — corrected to 21 (CBS Sports). Record corrected from 53-46 to 52-46.
+- **Content Produced:** Article (article-04, Jake Torres), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - White Sox second-half record/AL Central race
+  - Montgomery HR pace through August
+
+### Story 5: Diamondbacks Walk Off Cardinals from 7-Run Deficit
+- **Date:** 2026-07-21
+- **Tier:** 2
+- **Classification:** NEW STORY (July 19 game; Arenado vs. ex-team angle; Cardinals blown lead history)
+- **Angle:** Arizona 8, Cardinals 7 (10 innings), July 19. Down 7-0. 3 runs in 6th, 2 in 7th, Nolan Arenado 2-run HR in 8th off former team (career hit No. 1,999) to tie. Max Kepler walk-off RBI double in 10th (automatic runner Jorge Barrosa scored). Cardinals last blew 7-run lead: July 6, 2010. Matches Arizona's largest franchise comeback.
+- **Content Produced:** Article (article-05, Ryan Calloway), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Arenado career hit No. 2,000
+  - NL Wild Card standings after comeback
+
+---
+
 ## 2026-07-20
 
 ### Story 1: Yamamoto Throws First Complete Game of His MLB Career

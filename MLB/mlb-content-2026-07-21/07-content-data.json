@@ -1,0 +1,242 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-21",
+  "compiled_at": "2026-07-21T10:46:11.798667+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Red Sox Win 14 Straight — One Win from Franchise History",
+      "tier": 1,
+      "status": "",
+      "angle": "The franchise record is one win away. Tonight is the night. The 1946 team that set this record went to the World Series. The 2026 team is trying to get back to October.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The Red Sox have won 14 games in a row.\n\nLast night they beat the Orioles 6-5 on a Caleb Durbin HR in the 8th.\n\nTonight, they can tie the franchise record: 15 straight wins, set in 1946.\n\nThe 1946 team went to the World Series. #RedSox #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RedSox",
+            "#MLB"
+          ],
+          "char_count": 240
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The 1946 Red Sox ran off 15 straight wins.\n\nThat team had Ted Williams. Johnny Pesky. Bobby Doerr. Dom DiMaggio.\n\n80 years later, the 2026 Red Sox need one more win tonight to tie it.\n\nThey haven't been this hot since 2006. #RedSox #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RedSox",
+            "#MLB"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-red-sox-14-game-win-streak-one-win-from-1946-franchise-record.html",
+        "headline": "One Win from 80 Years of Franchise History",
+        "word_count": 608
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Red Sox Win 14 Straight — One Win from Franchise Record\n\n#### Image Concept 1 — 8:00 AM ET Post\n\n- **Placement:** X Post 1 / Facebook Long-Form Post\n- **Search term:** `Caleb Durbin Boston Red Sox`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1080x1350 (4:5 vertical)\n- **Status:** not_started\n- **Notes:** Home run swing or celebration; Fenway Park backdrop ideal\n\n#### Image Concept 2 — 9:00 AM ET Post\n\n- **Placement:** X Post 2 / Facebook secondary\n- **Search term:** `Boston Red Sox Fenway Park`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1080x1350 (4:5 vertical)\n- **Status:** not_started\n- **Notes:** Stadium exterior or wide shot for history/milestone framing\n\n#### Article Hero — Story 1\n\n- **Placement:** article-01 hero\n- **Search term:** `Boston Red Sox players celebration`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1200x630 (1.91:1 landscape)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Ohtani Knee Forces Start Cancellation — Timeline Unclear",
+      "tier": 1,
+      "status": "",
+      "angle": "The best two-way player in baseball is now one-way — and nobody knows when the other way comes back. His Cy Young hopes are in genuine jeopardy.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Shohei Ohtani's next start has been canceled.\n\nLeft knee inflammation. Fluid drained over the All-Star break. He told training staff the knee wasn't ready.\n\nDave Roberts: \"It's gonna be some time.\"\n\nNo IL. Still hitting. But his Cy Young push just got a lot harder. #Dodgers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#MLB"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-ohtani-knee-start-canceled-cy-young-in-jeopardy.html",
+        "headline": "Ohtani's Next Start Is Off. The Timeline Is Unknown. His Cy Young Push Is in Jeopardy.",
+        "word_count": 597
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ohtani Knee — Start Canceled\n\n#### Image Concept 1 — 10:30 AM ET Post\n\n- **Placement:** X Post 1 / Facebook Long-Form Post\n- **Search term:** `Shohei Ohtani Los Angeles Dodgers`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1080x1350 (4:5 vertical)\n- **Status:** not_started\n- **Notes:** Pitching delivery or on-field action; Dodgers uniform\n\n#### Image Concept 2 — Article Hero\n\n- **Placement:** article-02 hero\n- **Search term:** `Shohei Ohtani Los Angeles Dodgers`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1200x630 (1.91:1 landscape)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Skubal Trade — 13 Days Left, Braves Emerge as Frontrunner",
+      "tier": 2,
+      "status": "",
+      "angle": "The most in-demand pitcher on the market wants to stay where he is. The team that has him is thinking about keeping him. And there are still 13 days to change everyone's mind.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Tarik Skubal trade update: 13 days to the Aug. 3 deadline.\n\nPer Nightengale, the Braves are the frontrunner. Cubs, Rays, Dodgers, Astros also engaged.\n\nSkubal has told close friends he wants to stay in Detroit.\n\nThe Tigers are \"inclined to keep\" him. For now. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-skubal-trade-deadline-braves-frontrunner-13-days.html",
+        "headline": "The Pitcher Who Wants to Stay, the Team That's Thinking About It, and 13 Days Left to Decide",
+        "word_count": 577
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Skubal Trade — Braves Frontrunner\n\n#### Image Concept 1 — 12:30 PM ET Post\n\n- **Placement:** X Post 1 / Facebook Long-Form Post\n- **Search term:** `Tarik Skubal Detroit Tigers`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1080x1350 (4:5 vertical)\n- **Status:** not_started\n- **Notes:** Pitching action; Tigers uniform; mound or delivery preferred\n\n#### Image Concept 2 — Article Hero\n\n- **Placement:** article-03 hero\n- **Search term:** `Tarik Skubal Detroit Tigers`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1200x630 (1.91:1 landscape)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "White Sox at 52-46 — One of Baseball's Greatest Turnarounds",
+      "tier": 2,
+      "status": "",
+      "angle": "The White Sox are for real — and the numbers now say the same thing.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The White Sox are 52-46 and leading the AL Central.\n\nIn 2024 they lost 121 games. In 2025 they went 60-102.\n\nA 30-win improvement matches only 7 teams in baseball history.\n\nColson Montgomery has 21 HRs. Nobody saw this coming. #WhiteSox #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox",
+            "#MLB"
+          ],
+          "char_count": 241
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-white-sox-52-46-turnaround-colson-montgomery.html",
+        "headline": "From 121 Losses to Leading the Division: The White Sox Are Real",
+        "word_count": 528
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "White Sox Turnaround\n\n#### Image Concept 1 — 3:00 PM ET Post\n\n- **Placement:** X Post 1 / Facebook Long-Form Post\n- **Search term:** `Colson Montgomery Chicago White Sox`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1080x1350 (4:5 vertical)\n- **Status:** not_started\n- **Notes:** Batting or fielding action; White Sox uniform\n\n#### Image Concept 2 — Article Hero\n\n- **Placement:** article-04 hero\n- **Search term:** `Colson Montgomery Chicago White Sox`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1200x630 (1.91:1 landscape)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Diamondbacks Walk Off Cardinals from 7-Run Deficit",
+      "tier": 2,
+      "status": "",
+      "angle": "Nolan Arenado beat his old team with career hit No. 1,999 and a 2-run home run. The Cardinals blew a lead that size for the first time in 16 years.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Sunday: Arizona trailed the Cardinals 7-0.\n\nIn the 8th, Nolan Arenado homered off his former team for career hit No. 1,999.\n\nIn the 10th, Max Kepler hit a walk-off double.\n\nFinal: Diamondbacks 8, Cardinals 7. Arizona's largest comeback in franchise history. #Dbacks #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dbacks",
+            "#MLB"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-diamondbacks-cardinals-7-run-comeback-arenado-kepler-walkoff.html",
+        "headline": "Arenado Beat His Old Team. Then Kepler Finished It Off. Arizona Had Never Done This Before.",
+        "word_count": 532
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D-backs Walk Off Cardinals\n\n#### Image Concept 1 — 6:00 PM ET Post\n\n- **Placement:** X Post 1 / Facebook Long-Form Post\n- **Search term:** `Nolan Arenado Arizona Diamondbacks`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1080x1350 (4:5 vertical)\n- **Status:** not_started\n- **Notes:** Batting action or post-HR celebration vs. Cardinals; Diamondbacks uniform\n\n#### Image Concept 2 — Article Hero\n\n- **Placement:** article-05 hero\n- **Search term:** `Nolan Arenado Arizona Diamondbacks`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1200x630 (1.91:1 landscape)\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
