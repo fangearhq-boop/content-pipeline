@@ -3,6 +3,62 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-07-21
+
+### Story 1: AUSL Play-in 2 Days Out — Kilfoyl vs. Brady, Bandits vs. Spark
+- **Date:** 2026-07-21
+- **Tier:** 1
+- **Classification:** FOLLOW UP (play-in officially confirmed; full matchup context — Kilfoyl stats, Brady Triple Crown, Bandits record — available July 21)
+- **Angle:** The 2026 AUSL Play-in Game is Thursday, July 23 at 9 PM ET on ESPN at Davis Diamond. No. 2 Chicago Bandits (15-10, AUSL-record 9-game win streak, Lexi Kilfoyl 0.60 ERA/.163 OBP against in 23.1+ IP) vs. No. 3 Oklahoma City Spark (14-11, clinched on final day July 21, Maya Brady .415 BA/8 HR/17 RBI Triple Crown bid). Win-or-go-home; winner faces Utah Talons in Championship Series July 25-27. Game 1 on ABC (first pro softball on network TV).
+- **Content Produced:** Article (article-01, Emily Rawlings), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - AUSL Play-in Game July 23 result (Bandits vs. OKC Spark)
+  - Championship Series coverage July 25-27
+  - Lexi Kilfoyl post-play-in profile if Bandits advance
+
+### Story 2: PGF Nationals Day 3 — Bracket Play, 41 Days to September 1
+- **Date:** 2026-07-21
+- **Tier:** 1
+- **Classification:** FOLLOW UP (PGF Nationals bracket play Day 2; September 1 recruiting window angle strongest this week)
+- **Angle:** PGF Nationals 2026 bracket play rolls into Day 3 across five SoCal venues. 300+ teams from 34 states. 18U Premier and 16U Premier in elimination rounds. September 1 — when D1 coaches can begin direct contact with Class of 2028 recruits — is 41 days away. Championship games on ESPNU (18U) and ESPN+ (16U) later this week.
+- **Content Produced:** Article (article-02, Jordan Reeves), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - PGF Nationals semifinal/final results
+  - 18U/16U Premier championship games on ESPNU/ESPN+
+  - September 1 recruiting window story
+
+### Story 3: Skylar Wallace — First 3-HR Game in AUSL History
+- **Date:** 2026-07-21
+- **Tier:** 2
+- **Classification:** NEW STORY (Wallace's July 17 3-HR game not covered in prior pipelines; play-in spotlight makes this the right moment)
+- **Angle:** On July 17, Chicago Bandits outfielder Skylar Wallace became the first player in AUSL history to hit three home runs in a single game — going 5-for-5 with 7 RBIs in a 15-7 win over the Carolina Blaze. Over two games in that Blaze series, she went 9-for-10 with 4 HR, 9 RBI, 9 runs scored. Florida Gators alum. Now walks into the play-in as the Bandits' hottest bat.
+- **Content Produced:** Article (article-03, Sarah Mitchell), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Play-in game July 23 result; Wallace performance
+  - Wallace full-season profile if Bandits advance to Championship
+
+### Story 4: Maya Brady Triple Crown — One Loss from Being Over
+- **Date:** 2026-07-21
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Brady Triple Crown watch tracked through AUSL season; play-in stakes elevated to now-or-never)
+- **Angle:** Maya Brady (OKC Spark, No. 1 overall AUSL Expansion Draft pick, former UCLA Bruin) enters the play-in hitting .415 with 8 HR and 17 RBI — leading the league in all three Triple Crown categories since Megan Grant's Cascade was eliminated. MLB.com published "Can Maya Brady take home the AUSL's 1st Triple Crown?" If OKC loses Thursday, the Triple Crown bid ends. The first Triple Crown in AUSL history goes unclaimed. Brady has something to win and something to lose.
+- **Content Produced:** Article (article-04, Emily Rawlings), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Brady performance/Triple Crown progression if OKC advances
+  - First Triple Crown in AUSL history if Brady wins all three in postseason
+
+### Story 5: 181% AUSL Viewership Surge + ABC Broadcast History
+- **Date:** 2026-07-21
+- **Tier:** 3
+- **Classification:** NEW ANGLE/EVERGREEN (viewership data not covered in prior pipelines; cultural context for ABC broadcast milestone)
+- **Angle:** AUSL viewership up 181% over 2025. League-record 404,000 average viewers: OKC vs. Portland June 21. Game 1 of the Championship on July 25 airs on ABC — first professional softball game ever broadcast on U.S. network television. The broadcast is the result of viewership data that justified the placement.
+- **Content Produced:** Article (article-05, Jordan Reeves), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - ABC broadcast viewership data post-July 25
+  - Year-over-year AUSL growth story
+
+---
+
 ## 2026-07-20
 
 ### Story 1: OKC Spark Clinch, Cascade Eliminated — AUSL Final Day

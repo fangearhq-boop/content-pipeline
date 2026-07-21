@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-07-21
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch, prior session research agents), brief (5 stories), research notes, story analysis, X posts (6; 2 char violations fixed S3T1 285→274, S4T1 283→275; 0 violations after fix), FB posts (5 stories), image concepts (11 items), image manifest (11 items, not_started), articles (5), fact-check (59 claims), compile (5 stories, 6 tweets, 0 FB posts — format known, 5 articles, 21 items), dashboard (21 items), PostPlanner exports (6 posts standard + 6 TOBI). WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard publish push failed (proxy known restriction). IMAGE MISSING expected (not_started). FB posts: 0 compiled (format known). 2 char violations fixed (S3T1 285→274, S4T1 283→275). CORRECTION carried forward: Maya Brady is on OKC Spark (not Bandits) — corrected from July 20 pipeline error.
+- **Key Stories**: AUSL Play-in 2 days/Bandits 15-10 Kilfoyl 0.60 ERA/.163 OBP against 23.1+ IP AUSL-record 9-game streak/OKC Spark 14-11 Brady .415 BA 8HR 17RBI Triple Crown bid/July 23 9PM ET ESPN Davis Diamond (Tier 1 FOLLOW UP), PGF Nationals Day 3 bracket play/300+ teams 34 states 5 SoCal venues/September 1 41 days Class of 2028/ESPNU+ESPN+ championships this week (Tier 1 FOLLOW UP), Skylar Wallace first 3-HR game in AUSL history July 17/5-for-5 7 RBI 15-7 vs Blaze/9-for-10 4HR 9RBI two games/Florida Gators alum/play-in Thursday (Tier 2 NEW), Maya Brady Triple Crown bid OKC Spark/.415 8HR 17RBI/No. 1 overall AUSL Expansion Draft pick/Grant (Cascade) eliminated/one loss ends the bid/first Triple Crown in AUSL history on the line (Tier 2 FOLLOW UP), 181% AUSL viewership up over 2025/404K viewers June 21 OKC vs Portland league record/Game 1 Championship on ABC July 25 first pro softball network TV ever (Tier 3 EVERGREEN)
+
+## Last Run
 - **Date**: 2026-07-20
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch + 2 research agents), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations), FB posts (5 stories), image concepts (10 items), image manifest (10 items, not_started), articles (5), fact-check (55 claims), compile (5 stories, 6 tweets, 0 FB posts — format known, 5 articles, 21 items), dashboard (21 items), PostPlanner exports (6 posts standard + 6 TOBI). WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
