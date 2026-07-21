@@ -1,10 +1,21 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
-- **Date**: 2026-07-20
+- **Date**: 2026-07-21
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-21
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway)
+- **PostPlanner exports:** gfr-postplanner-2026-07-21.xlsx (7 posts) + gfr-postplanner-tobi-2026-07-21.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-07-21/review-dashboard.html (22 items)
+- **Notes:** OPEN CHAMPIONSHIP DAY AFTER / LIV CRISIS — Ryan Fox aftermath: poured Bordeaux into Claret Jug/flew Manchester-London next to Cam Young (runner-up)/plans New Zealand homecoming/$3.2M winner's share (largest R&A ever)/purse $17.75M; LIV Golf UK starts July 23-26 at JCB Golf & Country Club Rocester England/CEO can't guarantee final 4 events/$200M of $400M received from PIF/UK+Bedminster expected/August events uncertain/Ducera Partners hired/2027 proposals=10 events/players reaching out to PGA Tour; Sam Burns human-interest: daughter Belle born ~2 weeks before/almost didn't fly/R2 62+R3 65=lowest 2-round combo in men's major history/T3 at -8; 3M Open July 23-26 TPC Twin Cities/Scheffler headlines/Kitayama defending/500 FedExCup pts; 2026 major sweep: McIlroy+Rai+Clark+Fox all PGA Tour/LIV 0 majors/McIlroy $5.34M major earnings
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-20
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

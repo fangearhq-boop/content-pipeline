@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-07-21
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-21 | T1 | Ryan Fox Day After — Bordeaux in Claret Jug, Flew Home Next to Cam Young | X, FB, Article | FOLLOW UP |
+| 2026-07-21 | T1 | LIV Golf UK Starts Thursday — CEO Can't Guarantee August Events, $200M of $400M Received | X, FB, Article | FOLLOW UP |
+| 2026-07-21 | T2 | Sam Burns Near-Miss — Daughter Born 2 Weeks Before, Record 36-Hole Stretch, 3 Bogeys on 4-5-6 | X, FB, Article | FOLLOW UP |
+| 2026-07-21 | T2 | 3M Open Preview — Scheffler Headlines, TPC Twin Cities, 500 FedExCup Pts | X, FB, Article | NEW |
+| 2026-07-21 | T2 | PGA Tour Sweeps All Four 2026 Majors — LIV Shut Out 0-for-4 | X, FB, Article | NEW |
+
+### STORY 1: Ryan Fox Day After
+- **Tier:** 1
+- **Category:** Open Championship / Day After / Human Interest
+- **Key facts:** Fox called it "surreal"; "not quite sure how I hit that putt on 18"; poured Bordeaux into Claret Jug; flew Manchester-London next to Cameron Young (runner-up); brings trophy to New Zealand; $3.2M winner's share (largest R&A winner's share ever); age 39; World No. 56; 200-1 odds; 3rd New Zealander to win The Open
+- **Status:** FOLLOW UP (win covered 2026-07-20)
+- **Follow-up ideas:** New Zealand homecoming; Fox PGA Tour schedule; trophy tour
+
+### STORY 2: LIV Golf UK / Funding Crisis
+- **Tier:** 1
+- **Category:** LIV Golf / Business / Funding Crisis
+- **Key facts:** UK event July 23-26 at JCB Golf & Country Club, Rocester, England; needs $400M / only $200M from PIF; CEO can't guarantee final 4 events; FT sources: UK + Bedminster expected to proceed, August events uncertain; Ducera Partners hired; 2 independent board directors added; 2027 proposals = 10 events; LIV players reaching out to PGA Tour
+- **Status:** FOLLOW UP (crisis covered 2026-07-20)
+- **Follow-up ideas:** UK event result; August event status; PIF payment schedule; 2027 announcement
+
+### STORY 3: Sam Burns Near-Miss
+- **Tier:** 2
+- **Category:** Open Championship / Human Interest
+- **Key facts:** Daughter Belle born ~2 weeks before; almost didn't play; flew from Louisiana; R2 62 + R3 65 = lowest 2-round combo in men's major history; 54-hole lead at -10 with 2-shot margin; 3 consecutive bogeys holes 4-5-6; final putt grazed 18th cup; finished T3 at -8 ($1,181,000)
+- **Status:** FOLLOW UP (collapse covered 2026-07-20; today = deeper human-interest angle)
+- **Follow-up ideas:** Burns' next start; how he processes the near-miss
+
+### STORY 4: 3M Open Preview
+- **Tier:** 2
+- **Category:** PGA Tour / Preview
+- **Key facts:** July 23-26 at TPC Twin Cities, Blaine MN; 144 players, 53 top-125 OWGR, 21 countries; Scheffler T4 at The Open; Kitayama defending; McNealy co-favorite; 500 FedExCup points; 3rd-to-last regular season event; par 71 / 7,431 yards (Arnold Palmer design)
+- **Status:** NEW
+- **Follow-up ideas:** R1 Thursday; leaderboard development; FedExCup bubble
+
+### STORY 5: PGA Tour 2026 Major Sweep
+- **Tier:** 2
+- **Category:** PGA Tour / Analysis / LIV Golf
+- **Key facts:** McIlroy (Masters) + Rai (PGA Championship at Aronimink) + Clark (US Open at Shinnecock Hills) + Fox (The Open) = all PGA Tour; LIV 0 major wins in 2026; DeChambeau best LIV result ~T9 at The Open; Herbert (LIV) was R3 leader at Birkdale before Fox's charge; McIlroy $5.34M in major prize money in 2026
+- **Status:** NEW
+- **Follow-up ideas:** LIV vs PGA Tour narrative; Ryder Cup implications; LIV survival question
+
 ## 2026-07-20
 
 | Date | Tier | Story | Platforms | Status |
