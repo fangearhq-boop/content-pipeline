@@ -1,5 +1,45 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: July 21, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | COS childcare desert + city council zoning ordinance (KOAA; 47,000 children under 5; 18,400 licensed spots; 28,600 gap; southeast quadrant worst; home/church/employer childcare now permitted); SofaKillers free concert Piñon Valley Park July 24 6:30–8:30 PM (food trucks/kickball/giveaways); D49 back-to-school (orientation July 24–27; teachers return July 28; prof dev July 30; K/6/9 first day Aug 3; all students Aug 4); JAMA Pediatrics July 6, 2026 meta-analysis (160 studies, 16,639 parents; Claire E. Niehaus Milligan PhD, Cincinnati Children's; psychotherapy/family-centered care/meditation; large to extremely large effect sizes); PPLD Summer Adventure ends July 31 (grand prize: Pikes Peak Attractions VIP pass + Broadmoor Cloud Camp one-night stay; free all ages; ppld.beanstack.org) |
+| Story History Check | COMPLETE | All 5 stories NEW (or FOLLOW-UP for PPLD) — no overlap with July 20 or prior runs |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); ### STORY N: format with - **Posting window:** fields |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tags; all facts from web search |
+| Story Analysis | COMPLETE | 02-story-analysis.md — ### STORY N: headers (3 hashes, uppercase STORY); bylines: Jamie Rivera (S1, S3, S5), Sarah Morales (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (S1:2, S2:1, S3:1, S4:2, S5:1); code blocks; all ≤280 chars; 4 hashtags each; times in MT |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; **bold** format headers with times; engagement questions; NO hashtags; COS voice |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 7 Gemini base_only prompts; X=1200×675, FB=1200×630; clean bottom third; no celebrity likenesses |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 7 image entries (img-1a through img-5a); gemini base_only mode; gemini-2.5-flash-image model; kAHCKfCZgk0 brand kit; all not_started |
+| Articles | COMPLETE | 5 articles (semantic HTML5; What's Next sections; 0 exclamation marks; no figure tags); bylines: Jamie Rivera (A1, A3, A5), Sarah Morales (A2, A4) |
+| Fact-Check | COMPLETE | verify-facts.py: all 5 stories present in all content files; 59 claims; image not_started warnings cosmetic (expected — same as all prior Parenting runs) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles; 27 dashboard items; all clear |
+| Dashboard | COMPLETE | review-dashboard.html — 27 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-07-21.xlsx (7 posts 13:23–20:41 MT) + TOBI cosp-postplanner-tobi-2026-07-21.xlsx (7 TOBI posts) |
+| Dashboard Push | Attempted — proxy blocks write to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API (403 Forbidden) | Same environment restriction as all prior runs |
+
+### 2026-07-21 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB long-form + 5 FB captions = 17 total posts (PostPlanner xlsx: 7 posts 13:23–20:41 MT, 7 TOBI)
+- **Articles:** 5 (bylines: Jamie Rivera [A1, A3, A5], Sarah Morales [A2, A4])
+- **PostPlanner exports:** cosp-postplanner-2026-07-21.xlsx (7 posts, 13:23–20:41 MT), cosp-postplanner-tobi-2026-07-21.xlsx (7 TOBI posts)
+- **Coverage:** COS childcare desert — city council zoning ordinance approved (47,000 children under 5; 18,400 spots; 28,600 gap; southeast quadrant worst; home/church/employer childcare now permitted in residential zones); SofaKillers free concert at Piñon Valley Park July 24 6:30–8:30 PM (5585 Mule Deer Dr; food trucks/kickball/giveaways; Park and Recreation Month); D49 back-to-school (orientation July 24–27; teachers return July 28; prof dev July 30; K/6/9 Aug 3; all students Aug 4; d49.org); JAMA Pediatrics July 6, 2026 meta-analysis on NICU parent mental health (160 studies; 16,639 parents; Claire E. Niehaus Milligan PhD, Cincinnati Children's; psychotherapy/family-centered care/meditation effective; large to extremely large effect sizes); PPLD Summer Adventure 10 days left — ends July 31 (grand prize: Pikes Peak Attractions VIP pass + Broadmoor Cloud Camp one-night stay; free all ages; ppld.beanstack.org)
+- **Notes:**
+  - Ran as Niche 2 in sequence after Tennis niche (both niches in same session)
+  - Session resumed from context compaction — all metadata files (00–07) already complete; this context resumed at script execution phase
+  - 00-daily-brief.md required reformatting (changed `**Publishing Window:**` to `- **Posting window:**` and added `- **Status:**` / `- **Angle:**` fields to match parser expectations)
+  - 04-social-posts-facebook.md required reformatting (changed `#### Long-Form Post` headers to `**Long-Form Post (HH:MM MT)**` bold format to match compile-content-data.py parser; prior format used `####` which compile doesn't recognize)
+  - verify-facts.py: 02-story-analysis.md originally had wrong header format; fixed before this context to `### STORY N:` (3 hashes, uppercase STORY) — all 5 stories present in all files after fix
+  - WordPress: 403 Forbidden proxy restriction (same as all prior runs)
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4]
+
+---
+
 ## Latest Run: July 20, 2026
 
 | Step | Status | Notes |
