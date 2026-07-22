@@ -5,6 +5,65 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-22
+
+### STORY 1: Cubs 11, Tigers 2 — Peterson Dominates in Game 2 Bounce-Back
+- **Angle:** NEW STORY — Game 2 recap; 6-run first inning off Framber Valdez; David Peterson 6⅔ scoreless IP (3 H, 4 K, 1 BB) after entering with 6.45 ERA; PCA reached 5 times (2-for-2, 3 BB, 2 RBI); Conforto pinch-hit 2-run HR (4th of year); Suzuki + Kelly each 2 RBI; Cubs improve to 57-44
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, overnight recap / informative)
+- **Follow-Up Opportunities:**
+  - Game 3 result (tonight vs Tigers, Rea vs Montero)
+  - Conforto pinch-hit HR franchise record verification (compound claim flagged MEDIUM)
+
+### STORY 2: David Peterson Bounce-Back + Conforto's Pinch-Hit Streak (Bold Take)
+- **Angle:** NEW STORY (bold take; Peterson had 6.45 ERA, then threw 6⅔ scoreless — rotation stepping up; Conforto 4 pinch-hit HRs this season, reportedly franchise-best)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold take / fan energy)
+- **Follow-Up Opportunities:**
+  - Peterson second-half tracking
+  - Conforto pinch-hit record verification
+
+### STORY 3: Thornton Day-to-Day — No Fracture, IL Bullet Dodged
+- **Angle:** FOLLOW UP (Thornton arc; CT scan showed no fractures on bruised left heel; played catch Tuesday; tests off mound Wednesday; Thursday off-day buffer)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, informative / injury update)
+- **Follow-Up Opportunities:**
+  - Thornton mound test result; IL status update
+  - Bullpen depth tracking through deadline
+
+### STORY 4: Trade Deadline — Sonny Gray Getting Complicated, 12 Days Out
+- **Angle:** FOLLOW UP (deadline arc; today's angle = Red Sox went from sellers to buyers [13-win stretch]; Gray 12-1, 2.48 ERA may not move; Joe Ryan remains viable; 12 days to August 3)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, analysis / bold take)
+- **Follow-Up Opportunities:**
+  - Any trade announcement before August 3
+  - Red Sox continued playoff positioning (determines Gray availability)
+
+### STORY 5: Game 3 Tonight — Rea vs. Montero, Series Finale, 7:10 PM CT
+- **Angle:** NEW STORY (series finale preview; Colin Rea [7-6, 4.74 ERA] vs Keider Montero [6-5, 3.22 ERA]; Cubs tied series 1-1 after Game 2 blowout; looking to close 2-1)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview / fan hype)
+- **Follow-Up Opportunities:**
+  - Game 3 result (tomorrow's recap)
+  - Series outcome
+
+### STORY 6: Wild Card Watch — 57-44, 23-10 Last 33, Phillies 1 GB
+- **Angle:** FOLLOW UP (standings; Cubs 57-44 No. 1 NL WC; Phillies 56-45 [1 GB]; Cardinals 51-48 [5 GB]; "23-10 in last 33 games" hot streak; 12 days to deadline)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, bold take / standings)
+- **Follow-Up Opportunities:**
+  - Wild card standings after Game 3 tonight
+  - Phillies tracking through July
+
+### STORY 7: Pre-Game Hype — Rubber Match at Wrigley, 7:10 PM CT
+- **Angle:** NEW STORY (series finale first-pitch energy; Game 1 to Detroit in extras; Game 2 to Cubs 11-2; Game 3 decides tonight at Wrigley)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT, pre-game hype)
+- **Follow-Up Opportunities:**
+  - Game 3 result (tomorrow's pipeline)
+
+---
+
 ## 2026-07-21
 
 ### STORY 1: Tigers 8, Cubs 6 in 10 Innings — Extras Heartbreak at Wrigley

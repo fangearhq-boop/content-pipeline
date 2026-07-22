@@ -1,0 +1,240 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-22",
+  "compiled_at": "2026-07-22T09:23:02.422766+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Cubs 11, Tigers 2 — Peterson Dominates in Game 2 Bounce-Back",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Cubs 11, Tigers 2.\n\nDavid Peterson went 6⅔ scoreless innings after entering with a 6.45 ERA. Six runs in the first off Framber Valdez. PCA reached five times. Conforto put it away with a pinch-hit 2-run homer.\n\nMonday hurt. Tuesday answered. 57-44.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cubs 11, Tigers 2 — Game 2 Recap\n**Key facts (with confidence)**:\n- Final score: Cubs 11, Tigers 2 — HIGH (ESPN, MLB.com, CBS Sports all confirm)\n- Cubs scored 6 runs in the first inning off Framber Valdez — HIGH (multiple sources confirm \"6-run first\")\n- David Peterson: 6⅔ scoreless innings, 3 H, 4 K, 1 BB — HIGH (MLB.com headline: \"David Peterson throws scoreless start in Cubs' win over Tigers\")\n- Peterson entering ERA: 4-7, 6.45 ERA — HIGH (yesterday's pipeline, verified)\n- Peterson post-start record: 5-7 — MEDIUM (inferred from recap; \"W\" implied by MLB.com headline)\n- PCA: 2-for-2, 3 walks, 2 RBI (reached 5 times) — MEDIUM (single AI-summary source; ESPN recap)\n- Michael Conforto: pinch-hit 2-run HR, his 4th of the year — MEDIUM (single ESPN/CBS recap AI summary)\n- Conforto tying Glenallen Hill 1999 for most PHRs by a Cub since at least 1901 — MEDIUM-LOW (compound historical claim, single AI summary source — NOT used as primary tweet claim; flagged for fact-check)\n- Seiya Suzuki: 2 RBI — MEDIUM (single AI summary)\n- Carson Kelly: 2 RBI — MEDIUM (single AI summary)\n- Dillon Dingler (Tigers): 2-run HR in 9th, 6-for-8 with 3 HRs in the series — MEDIUM (single AI summary)\n- Cubs record: 57-44 — HIGH (56-44 entering + 1 win = 57-44, per series-context.json + win)\n**Sources**:\n- ESPN recap: https://www.espn.com/mlb/recap/_/gameId/401816208\n- MLB.com news: https://www.mlb.com/news/david-peterson-scoreless-start-cubs-win-tigers\n- CBS Sports box score: https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260721_DET@CHC/\n- KNBR roundup: https://www.thesportsleader.com/2026/07/21/mlb-roundup-cubs-erupt-in-6-run-first-crush-framber-valdez-tigers/",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "David Peterson's Bounce-Back + Conforto's Pinch-Hit Streak",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "David Peterson walked in with a 6.45 ERA and walked out with 6⅔ scoreless innings.\n\nMichael Conforto has 4 pinch-hit homers this season. Four. That's a franchise-level number by any measure.\n\nDepth wins series. The Cubs are proving it.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Peterson/Conforto Bold Take\n**Key facts**:\n- Peterson entering ERA: 6.45 (HIGH — confirmed yesterday's pipeline)\n- 6⅔ scoreless innings: HIGH (MLB.com)\n- Conforto 4 pinch-hit HRs this year: MEDIUM (single AI summary, ESPN recap)\n- Historical record tie (Hill 1999): MEDIUM-LOW compound claim — will hedge in tweet, not state as fact\n- Cubs bench OPS context: (not specifically cited; using general performance framing instead)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Thornton Day-to-Day — No Fracture, IL Bullet Dodged",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Trent Thornton update: no fractures.\n\nCT scan clean after Monday's 108.9 mph comebacker. He played catch Tuesday, tests off a mound today, and Thursday's off-day buys extra time.\n\nThe Cubs may dodge another IL stint — a big deal right now.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Thornton Day-to-Day\n**Key facts**:\n- Thornton hit by 108.9 mph comebacker in 10th inning Monday (July 20/21 game) — HIGH (yesterday's pipeline, ESPN)\n- CT scan: no fractures — HIGH (ESPN, Washington Post both confirm independently)\n- Thornton day-to-day, bruised left heel — HIGH (ESPN headline: \"Cubs reliever Trent Thornton day-to-day with bruised left heel\")\n- Played catch Tuesday — HIGH (ESPN article)\n- Tests off mound Wednesday (today) — MEDIUM (ESPN summary wording)\n- Thursday Cubs off-day — HIGH (schedule knowledge confirmed by series-context.json showing no game)\n- Goal: avoid 15-day IL — HIGH (multiple sources confirm this is the stated aim)\n**Sources**:\n- ESPN: https://www.espn.com/mlb/story/_/id/49420922/cubs-reliever-trent-thornton-day-day-bruised-left-heel-being-struck-comebacker\n- Washington Post: https://www.washingtonpost.com/sports/mlb/2026/07/21/cubs-thornton-maton-shaw/",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Trade Deadline: Sonny Gray Getting Complicated",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The Cubs' dream deadline target just got complicated.\n\nSonny Gray is 12-1 with a 2.48 ERA — and the Red Sox have gone from sellers to buyers. Gray may not move.\n\nJoe Ryan still makes sense. 12 days to August 3. Hoyer can't afford to wait this one out.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Trade Deadline — Sonny Gray Complication\n**Key facts**:\n- Deadline: August 3, 5:00 PM CT — HIGH\n- Days remaining from July 22: 12 — HIGH (calculated)\n- Sonny Gray (Red Sox): 12-1, 2.48 ERA, 1.12 WHIP, AL-high 12 wins in 101.2 IP — MEDIUM (single article AI summary, BosoxInjection / CubbieCrib)\n- Red Sox: went from sellers to buyers after ~13-win stretch — MEDIUM (single article)\n- Gray may not be traded: MEDIUM (CubbieCrib \"dream scenario doused with cold water\" headline)\n- Joe Ryan (Twins): 55% trade odds per ESPN — MEDIUM (CBSSports summary)\n- Matt Shaw as trade chip for Gray: MEDIUM (Heavy.com, single source)\n- Jaxon Wiggins / Kane Kepley as trade chips: MEDIUM (ClutchPoints)\n**Sources**:\n- CubbieCrib: https://cubbiescrib.com/dream-cubs-trade-deadline-scenario-just-got-doused-with-cold-water\n- BosoxInjection: https://bosoxinjection.com/what-the-red-sox-couldve-gotten-in-a-sonny-gray-trade/\n- CBS Sports: https://www.cbssports.com/mlb/news/mlb-rumors-trade-deadline-astros-left-handed-outfielder-cubs-pitching/\n- ClutchPoints: https://clutchpoints.com/mlb/chicago-cubs/2-top-cubs-prospects-on-trade-watch-at-2026-deadline",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Game 3 Tonight — Rea vs. Montero, Series on the Line, 7:10 PM CT",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Series finale. Wrigley Field. Tonight.\n\nColin Rea (7-6, 4.74 ERA) faces Keider Montero (6-5, 3.22 ERA) at 7:10 PM CT. Montero's been quietly solid — this isn't a gimme.\n\nCubs tied the series 1-1 with an 11-run statement. Time to close it out.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Game 3 Preview\n**Key facts**:\n- Cubs starter: Colin Rea — MEDIUM (Bleacher Report preview, series preview)\n- Rea 2026: 7-6, 4.74 ERA — MEDIUM (Bleacher Report, CBS Sports combined)\n- Tigers starter: Keider Montero — MEDIUM (Bleacher Report preview)\n- Montero 2026: 6-5, 3.22 ERA — MEDIUM (single preview)\n- Game time: 7:10 PM CT — HIGH (series-context.json official)\n- Venue: Wrigley Field — HIGH (series-context.json)\n- Broadcast: ESPN — MEDIUM (Bleacher Report)\n- Series tied 1-1 entering tonight — HIGH (Game 1 Tigers win + Game 2 Cubs win = 1-1)\n**Sources**:\n- Bleacher Report: https://bleacherreport.com/game/detroit-tigers-vs-chicago-cubs-2026-7-22-18-05\n- series-context.json (local)\n- Baseball-Reference preview: https://www.baseball-reference.com/previews/2026/CHN202607220.shtml",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Wild Card Watch — 57-44, 23-10 in Last 33, Phillies Staring at the Gap",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "57-44. No. 1 NL Wild Card.\n\nThe Cubs are 23-10 over their last 33 games and still playing with a chip on their shoulder. Phillies are one back. Cardinals are five back and fading.\n\n12 days to the deadline. Hoyer has leverage. Use it.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Wild Card Hot Streak\n**Key facts**:\n- Cubs: 57-44 — HIGH\n- Phillies: 56-45, 1 GB — MEDIUM (standings search, last updated July 21)\n- Cardinals: 51-48, ~6 GB — MEDIUM (estimated from standings)\n- Brewers: 63-37 (NL Central) — MEDIUM (standings search)\n- Cubs 23-10 in last 33 games — MEDIUM (single Bleacher Report summary; needs second-source cross-check)\n- Trade deadline 12 days out — HIGH\n**Note**: The \"23-10 in last 33 games\" is MEDIUM confidence (single AI summary, Bleacher Report). Will frame in tweet as \"one of the hottest teams in the NL\" with the record as context.\n**Sources**:\n- StatMuse: https://www.statmuse.com/mlb/ask/national-league-wild-card-standings\n- CBS Sports: https://www.cbssports.com/mlb/standings/wild-card/\n- Bleacher Report game preview (23-10 stat)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 7,
+      "title": "Pre-Game Hype — Rubber Match at Wrigley, 7:10 PM CT",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Game 1: Tigers in extras. Game 2: Cubs 11-2.\n\nThe series decides itself tonight at Wrigley. 7:10 PM CT.\n\nThis team bounced back LOUD last night. One more.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 178
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Pre-Game Hype\n**Key facts**:\n- Series: Tigers won Game 1 (8-6, 10 innings); Cubs won Game 2 (11-2) — HIGH (both confirmed)\n- Tonight: Game 3, series finale, 7:10 PM CT — HIGH\n- Rea starts — MEDIUM\n**Sources**: Game histories, series-context.json",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
