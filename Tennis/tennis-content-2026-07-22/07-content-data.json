@@ -1,0 +1,297 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-22",
+  "compiled_at": "2026-07-22T12:25:11.105712+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 (Wawrinka farewell clay)",
+      "type": "X + FB"
+    },
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 (Wawrinka farewell clay)",
+      "type": "X"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2 (Canadian Open withdrawals)",
+      "type": "X + FB"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 3 (Kitzbühel R2)",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 (WTA Prague R1)",
+      "type": "X + FB"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 5 (WTA Hamburg R1)",
+      "type": "X + FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Wawrinka's Final Clay Match — Burruchaga Wins Emotional Estoril R1",
+      "tier": 1,
+      "status": "",
+      "angle": "RESULT — Stan Wawrinka (SUI, 41) played the final clay-court match of his professional career at the Millennium Estoril Open on Tuesday, losing a heartbreaker to Roman Andres Burruchaga (ARG) 6-4, 4-6, 6-3. The three-time Grand Slam champion saved match points but could not extend his farewell tour on the surface where he won all three majors. The Estoril tournament presented Wawrinka with a commemorative gift on court to mark his final clay appearance. Burruchaga — fresh off an upset of former top-10 player Flavio Cobolli at Umag last week — moves into R2 to face home favourite Nuno Borges.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Stan Wawrinka played his last clay match Tuesday. Burruchaga beat him 6-4, 4-6, 6-3 in Estoril.\n\nThe 3x Grand Slam champion saved match points. Tournament gave him a gift on court.\n\n41 years old. Final clay chapter. 🎾\n\n#TennisFanrecap #ATPTour #Wawrinka #EstorilOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#ATPTour",
+            "#Wawrinka",
+            "#EstorilOpen"
+          ],
+          "char_count": 266
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Three Grand Slams. All won on different surfaces.\n\nAustralian Open 2014. French Open 2015. US Open 2016.\n\nStan Wawrinka said goodbye to clay Tuesday at Estoril. What a career. 🏆\n\n#TennisFanrecap #Wawrinka #ATPTour #MillenniumEstorilOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#Wawrinka",
+            "#ATPTour",
+            "#MillenniumEstorilOpen"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "Stan Wawrinka played his last clay-court match on Tuesday at the Millennium Estoril Open. He lost to Roman Andres Burruchaga 6-4, 4-6, 6-3 in two hours and 28 minutes — saving match points along the way but ultimately unable to extend his farewell on the surface that made him a legend.\n\nThe Estoril tournament held a ceremony after the match. The tournament director presented the 41-year-old Swiss with a commemorative gift. The kind of moment that doesn't require a speech — just a crowd that knows what they're watching.\n\nWawrinka has announced 2026 as his final year on tour. He already said goodbye to Gstaad last week, where he made his ATP debut on the very same courts back in 2003. Estoril was the last clay chapter. Hard courts still remain — but clay was where Wawrinka truly became Wawrinka.\n\nHe won three Grand Slams. Two were on hard courts (2014 Australian Open, 2016 US Open). But it was the 2015 Roland Garros, where he beat Djokovic in the final with one of the most breathtaking performances in modern tennis, that cemented what clay meant to him.\n\nBurruchaga, for his part, is having a remarkable stretch. He shocked former world No. 9 Flavio Cobolli in straight sets at Umag last week. Now he's in the Estoril Round of 16 to face Nuno Borges. The Argentine journeyman is making people pay attention.\n\nWhat's your favourite Stan Wawrinka memory on clay?\n\n---",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-wawrinka-final-clay-match-estoril.html",
+        "headline": "Wawrinka Says Goodbye to Clay at Estoril — Burruchaga Wins Emotional Three-Set Farewell",
+        "word_count": 619
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Wawrinka Final Clay Match\n\n**Social Image (1080x1350):**\n- imagn_search: \"Stan Wawrinka ATP\"\n- Caption concept: \"WAWRINKA / FINAL CLAY MATCH / ESTORIL 2026\"\n\n**Facebook Image (1080x1350):**\n- imagn_search: \"Stan Wawrinka ATP\"\n- Caption concept: \"STAN THE MAN / THE LAST CLAY CHAPTER\"\n\n**Article Hero (1200x630):**\n- imagn_search: \"Stan Wawrinka ATP\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Canadian Open Withdrawal Wave Grows — 8+ Stars Out Before August Start",
+      "tier": 1,
+      "status": "",
+      "angle": "NEW STORY — The injury list ahead of the National Bank Open (Montreal, Aug. 1-13) has grown to at least eight high-profile withdrawals. Jasmine Paolini (ITA, No. 15) withdrew Tuesday citing a lingering foot problem, also skipping Washington. Karolina Muchova (CZE, No. 6) confirmed she underwent \"a minor operation\" after Wimbledon and will miss \"a few weeks.\" These join previously announced absences: Carlos Alcaraz (wrist), Emma Raducanu (shin stress fracture), Victoria Mboko (ankle), Anastasia Pavlyuchenkova, Hailey Baptiste, and others. Women's side particularly thin before Toronto gets underway.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Canadian Open withdrawal list is growing.\n\nPaolini OUT (foot). Muchova OUT (post-surgery). Raducanu OUT. Alcaraz OUT. Mboko OUT.\n\n8+ stars gone before August 1.\n\nWho's actually playing in Toronto and Montreal?\n\n#TennisFanrecap #CanadianOpen #NationalBankOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#CanadianOpen",
+            "#NationalBankOpen"
+          ],
+          "char_count": 258
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Muchova had minor surgery after the Wimbledon final. She'll miss \"a few weeks.\"\n\nPaolini is also out with a foot problem. Targeting Cincinnati instead.\n\nThe women's Toronto draw just got a lot more open. 🎾\n\n#TennisFanrecap #WTATour #CanadianOpen #Muchova",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#WTATour",
+            "#CanadianOpen",
+            "#Muchova"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "The Canadian Open withdrawal list has become a story of its own.\n\nJasmine Paolini confirmed Tuesday that she's pulling out of both the Washington Open and Toronto. The foot problem that has limited her 2026 season hasn't cleared up enough to compete. She's targeting Cincinnati (August 13) as her return date.\n\nKarolina Muchova announced she underwent a minor surgical procedure after losing the Wimbledon final to Linda Noskova. She won't be in Toronto. A \"few weeks\" timeline puts her, too, potentially back for Cincinnati — if the recovery holds.\n\nThose names join a list that was already significant: Carlos Alcaraz (wrist), Emma Raducanu (shin stress fracture), Victoria Mboko (ankle, her home tournament), Hailey Baptiste, and others.\n\nAt least eight high-profile players are out before the tournament starts August 1. That's an extraordinary number for a Masters 1000 / WTA 1000 event — the kind of thing that shapes the draw entirely.\n\nFor what it's worth: Jannik Sinner confirmed. Novak Djokovic confirmed. Alexander Zverev confirmed. The men's draw in Montreal looks formidable. And in Toronto, the door is open for someone to announce themselves before the US Open.\n\nWho do you think makes the most of the open women's draw in Toronto?\n\n---",
+        "image_caption": "",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-canadian-open-withdrawal-wave.html",
+        "headline": "Canadian Open Withdrawal Wave Reaches Eight-Plus Stars — Paolini and Muchova Latest to Exit",
+        "word_count": 727
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Canadian Open Withdrawals\n\n**Social Image (1080x1350):**\n- imagn_search: \"Jasmine Paolini WTA\"\n- imagn_search_alt: \"Karolina Muchova WTA\"\n- Caption concept: \"CANADIAN OPEN / 8+ STARS OUT\"\n\n**Facebook Image (1080x1350):**\n- imagn_search: \"Jasmine Paolini WTA\"\n- Caption concept: \"WITHDRAWAL WAVE / TORONTO & MONTREAL\"\n\n**Article Hero (1200x630):**\n- imagn_search: \"Carlos Alcaraz ATP\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Kitzbühel Day 3 — Rinderknech vs. Baez Headlines Wednesday R2",
+      "tier": 2,
+      "status": "",
+      "angle": "NEW STORY — The Generali Open Kitzbühel (ATP 250, July 20-25) reaches its second round Wednesday with multiple intriguing matchups. Third seed Arthur Rinderknech faces Sebastian Baez — who beat former Kitzbühel champion Miomir Kecmanovic in a tough three-setter on Tuesday — in the day's marquee match. Second seed Valentin Vacherot faces Quentin Halys. From the seeded contingent, Alexander Bublik (No. 1, defending champion) and Tomas Martin Etcheverry (No. 4) also advanced through their opening-round matches. Raphael Collignon — fresh off his first ATP title at Gstaad last week — fell to Daniel Altmaier 6-2, 6-3.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Kitzbühel Day 3: Rinderknech [3] vs. Baez is the match to watch.\n\nRinderknech just beat Navone 6-4, 6-0. Baez needed three sets to beat former champ Kecmanovic.\n\nBublik (defending) and Etcheverry also through. 🎾\n\n#TennisFanrecap #ATPTour #Kitzbuhel",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#ATPTour",
+            "#Kitzbuhel"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": {
+        "long_form": "Kitzbühel is heating up. Day 3 arrives with some strong matchups on the Wednesday schedule.\n\nThe match to watch: Arthur Rinderknech (third seed) versus Sebastian Baez. Rinderknech rolled through Mariano Navone 6-4, 6-0 in his opening match — that kind of clinical performance sets expectations. Baez had a tougher run, beating former Kitzbühel champion Miomir Kecmanovic in three sets on Tuesday. The ATP Tour called it a \"battle of former champs\" — both Baez and Kecmanovic have won this title before.\n\nElsewhere, defending champion Alexander Bublik came through his first-round test against Diaz Acosta in three sets. Tomas Martin Etcheverry dealt with Jurij Rodionov more efficiently. German pair Jan-Lennard Struff and Yannick Hanfmann both advanced, giving the Austrian-adjacent crowd some players to root for.\n\nRaphael Collignon had one of the harder draws. The Belgian won his first ATP title at Gstaad last Sunday — a great moment for a 26-year-old who had fought his way through the challenger circuit — then drew Daniel Altmaier in his Kitzbühel first round. Altmaier won in straight sets 6-2, 6-3. The glow from Gstaad didn't last long in the Alps.\n\nThe final is scheduled for Friday. Bublik will need to get through a competitive half to defend.\n\nWho do you have getting to Friday's final?\n\n---",
+        "image_caption": "",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-03-kitzbuhel-day-3-rinderknech-baez.html",
+        "headline": "Kitzbühel Day 3 — Rinderknech vs. Baez Headlines Second-Round Action at Generali Open",
+        "word_count": 590
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Kitzbühel\n\n**Social Image (1080x1350):**\n- imagn_search: \"Alexander Bublik ATP\"\n- imagn_search_alt: \"Sebastian Baez ATP\"\n- Caption concept: \"KITZBÜHEL 2026 / R2 IN PLAY\"\n\n**Facebook Image (1080x1350):**\n- imagn_search: \"Arthur Rinderknech ATP\"\n- Caption concept: \"RINDERKNECH VS BAEZ / GENERALI OPEN\"\n\n**Article Hero (1200x630):**\n- imagn_search: \"Alexander Bublik ATP\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "WTA Prague R1 — Czech Stars Shine, Parks Stunned",
+      "tier": 2,
+      "status": "",
+      "angle": "NEW STORY — The Livesport Prague Open (WTA 250, July 20-26) produced strong results for the Czech contingent Tuesday. Top seed Marie Bouzkova def. Jessica Bouzas Maneiro 7-5, 7-5; Barbora Krejcikova (reigning Wimbledon runner-up) cruised past Linda Fruhvirtova 6-2, 6-4; Sara Bejlek survived a tight first set to win 7-6(9), 3-6, 6-1 over Anna Blinkova. Notable upset: Alycia Parks (USA) — who reached the Athens QF just days ago — was stunned in her opening match. Wild card Nikola Bartunkova also advanced over Yuan.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Prague R1: All three Czech stars win at home.\n\nBouzkova def. Bouzas Maneiro 7-5, 7-5\nKrejcikova def. Fruhvirtova 6-2, 6-4\nBejlek def. Blinkova 7-6(9), 3-6, 6-1\n\nAlycia Parks stunned on her way in. 🎾\n\n#TennisFanrecap #WTATour #PragueOpen #LivesportPrague",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#WTATour",
+            "#PragueOpen",
+            "#LivesportPrague"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": {
+        "long_form": "If you're a Czech tennis fan, the Livesport Prague Open first round was exactly what you came for.\n\nMarie Bouzkova — top seed, home favourite — got through with a 7-5, 7-5 win over Jessica Bouzas Maneiro. Clean, efficient, exactly what a top seed should do on opening day.\n\nBarbora Krejcikova walked through Linda Fruhvirtova 6-2, 6-4 in an hour and 18 minutes. She's been on the road since Wimbledon where she reached the final — Prague is home turf, familiar courts, a crowd that wants her to win.\n\nSara Bejlek had the toughest opening of the three. She dropped the first set on a 9-7 tiebreak — those always hurt — then came back to take the second 6-3 and the third 6-1. Character shown in a tough moment on home soil.\n\nOceane Dodin, Dominika Salkova, Nikola Bartunkova, and others all advanced. The field is filling out with a distinctly local flavour in the early rounds.\n\nThe surprise: Alycia Parks didn't make it out of the first round. The American, ranked No. 34, had just come off a strong Athens run — including a quarterfinal against Sakkari. Prague had a different answer.\n\nCzech tennis is not short of depth this week. 🎾\n\n---",
+        "image_caption": "",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-wta-prague-czech-stars-r1.html",
+        "headline": "Czech Stars Sweep Prague R1 — Krejcikova, Bouzkova, Bejlek All Win on Home Soil",
+        "word_count": 618
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "WTA Prague\n\n**Social Image (1080x1350):**\n- imagn_search: \"Marie Bouzkova WTA\"\n- imagn_search_alt: \"Barbora Krejcikova WTA\"\n- Caption concept: \"CZECH STARS SHINE / PRAGUE OPEN R1\"\n\n**Facebook Image (1080x1350):**\n- imagn_search: \"Barbora Krejcikova WTA\"\n- Caption concept: \"KREJCIKOVA | BOUZKOVA | BEJLEK / ALL WIN IN PRAGUE\"\n\n**Article Hero (1200x630):**\n- imagn_search: \"Marie Bouzkova WTA\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "WTA Hamburg R1 Complete — Akugue Delights Home Crowd",
+      "tier": 2,
+      "status": "",
+      "angle": "NEW STORY — The MSC Hamburg Ladies Open (WTA 500, July 20-26) completed its first round Tuesday. Top seed Oleksandra Oliynykova (UKR) def. Nastasja Schunk; second seed Anhelina Kalinina (UKR) def. Kamila Quevedo; seventh seed Yulia Putintseva (KAZ) def. Mona Barthel; third seed Panna Udvardy (HUN) def. Ekaterina Pridankina; fourth seed Anna Bondar (HUN) def. Moyuka Uchijima. German wildcard Noma Noha Akugue delighted the home crowd with a straight-sets win. Jana Stusek scored the day's upset over former world No. 6 Nadia Podoroska. Second round begins Wednesday.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Hamburg R1 is done. Top seeds hold.\n\nNoma Noha Akugue (wildcard) won for the home crowd.\n\nStusek upset Podoroska 4-6, 6-3, 6-4.\n\nR2 starts Wednesday. 🎾\n\n#TennisFanrecap #WTATour #Hamburg #MSCHamburg",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#WTATour",
+            "#Hamburg",
+            "#MSCHamburg"
+          ],
+          "char_count": 198
+        }
+      ],
+      "facebook": {
+        "long_form": "The MSC Hamburg Ladies Open got its first round sorted and the seeds largely held, but there was enough to keep the crowd engaged.\n\nTop seed Oleksandra Oliynykova got past Nastasja Schunk. Second seed Anhelina Kalinina defeated Kamila Quevedo. Third seed Panna Udvardy, fourth seed Anna Bondar, and seventh seed Yulia Putintseva all advanced.\n\nThe moment of the night for the Hamburg crowd: Noma Noha Akugue, the German wildcard, won her first-round match. Akugue has been one of the more exciting young Germans on the WTA circuit, and winning at home is a different kind of feeling. The Rothenbaum Centre Court gave her the welcome she deserved.\n\nThe upset worth noting: Jana Stusek came back from a set down to beat Nadia Podoroska 4-6, 6-3, 6-4. Podoroska was a former top-6 player in the world — the kind of match where the record says one thing and the result said another.\n\nJule Niemeier, the other German home hope in the draw, did not advance — she fell to Argentina's Maria Lourdes Carle in straight sets.\n\nSecond round begins Wednesday. The draw is open. 🎾\n\n---",
+        "image_caption": "",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-wta-hamburg-r1-akugue.html",
+        "headline": "Hamburg R1 Wrap — Seeds Hold, Akugue Gives German Crowd Something to Cheer",
+        "word_count": 538
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "WTA Hamburg\n\n**Social Image (1080x1350):**\n- imagn_search: \"Noma Noha Akugue WTA\"\n- imagn_search_alt: \"Oleksandra Oliynykova WTA\"\n- Caption concept: \"HAMBURG R1 COMPLETE / SEEDS HOLD\"\n\n**Article Hero (1200x630):**\n- imagn_search: \"Oleksandra Oliynykova WTA\""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

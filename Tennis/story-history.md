@@ -974,3 +974,47 @@ Track previously covered stories to avoid repetition and maintain content freshn
 - **Tier:** 2
 - **Key Facts:** 12 Czech Wimbledon titles; Navratilova defected 1975; Vondrousova first unseeded champion since 1963; Noskova/Muchova both from Přerov; Sources: washingtonpost.com, foxsports.com, forbes.com
 - **Follow-Up Opportunities:** Women's final result; follow-up on Czech dynasty story post-final
+
+---
+
+## 2026-07-22
+
+### Story 1: Wawrinka Final Clay Match — Estoril Farewell
+- **Date:** 2026-07-22
+- **Angle:** NEW STORY — Wawrinka (41) lost his final clay-court match of his farewell tour to Roman Andres Burruchaga 6-4, 4-6, 6-3 at Estoril. Won 2nd set, saved match points. Received commemorative ceremony on court. Clay chapter closed; hardcourt swing continues.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 3 Image Concepts
+- **Tier:** 1
+- **Key Facts:** Wawrinka def. by Burruchaga 6-4, 4-6, 6-3; 2h28m; Wawrinka 3-time Slam champ (AO 2014, RG 2015, USO 2016); debut at Gstaad 2003; Burruchaga R1 victory with tournament ceremony; R2 vs Borges (home favorite); Sources: ATP Tour, tennis news outlets
+- **Follow-Up Opportunities:** Wawrinka farewell tour continues at North American hardcourt events
+
+### Story 2: Canadian Open Withdrawal Wave — Paolini and Muchova Latest
+- **Date:** 2026-07-22
+- **Angle:** NEW STORY — 8+ stars withdrawn from National Bank Open (Montreal/Toronto, Aug 1). Paolini (No. 15, foot injury, skipping Washington + Toronto) and Muchova (No. 6, post-Wimbledon surgery, "minor operation") announced Tuesday. Also out: Alcaraz (wrist, returning at Cincinnati), Raducanu (shin stress fracture), Mboko (ankle), Baptiste, Pavlyuchenkova.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 3 Image Concepts
+- **Tier:** 1
+- **Key Facts:** Paolini foot issue, skipping Washington + Toronto; Muchova had surgery after Wimbledon final loss; Alcaraz out since April 14, returns Cincinnati; Raducanu grade-4 shin fracture; Mboko ankle; 8+ total withdrawals; Sources: Tennis365, social media announcements
+- **Follow-Up Opportunities:** Canadian Open draw (Montreal men, Toronto women) Aug 1; Cincinnati draws
+
+### Story 3: Kitzbühel Day 3 — Rinderknech vs. Baez, R2 Preview
+- **Date:** 2026-07-22
+- **Angle:** NEW STORY — Generali Open Kitzbühel R2 preview/wrap. Rinderknech (3 seed, def. Navone 6-4, 6-0 R1) vs Baez (def. Kecmanovic 6-3, 3-6, 6-4). Vacherot (2) vs Halys. Bublik (1, defending champ) survived Diaz Acosta 4-6, 6-3, 6-4. Etcheverry (4) def. Rodionov 6-4, 6-2. Collignon (Gstaad champion) fell to Altmaier 6-2, 6-3. German trio Altmaier/Struff/Hanfmann all advance.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 3 Image Concepts
+- **Tier:** 2
+- **Key Facts:** Rinderknech was Gstaad finalist (lost to Collignon); Baez first win over Kecmanovic; Collignon won Gstaad title 3 days prior; Vacherot top 30; Halys knocked Bublik out at Gstaad; Sources: ATP Tour match highlights, tournament reporting
+- **Follow-Up Opportunities:** Kitzbühel QF and SF results; Estoril (Andrey Rublev top seed)
+
+### Story 4: WTA Prague R1 — Czech Stars Sweep, Bouzkova/Krejcikova/Bejlek All Win
+- **Date:** 2026-07-22
+- **Angle:** NEW STORY — Livesport Prague Open R1 results. Bouzkova (1 seed) def. Bouzas Maneiro 7-5, 7-5. Krejcikova def. L. Fruhvirtova 6-2, 6-4 in 78 min. Bejlek def. Blinkova 7-6(9), 6-3, 6-1. Parks (No. 34, coming off Athens QF) upset in R1. Also through: Salkova, Bartunkova (def. Yuan Yue, faces Tararudee R2), Dodin, Maya Joint.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 3 Image Concepts
+- **Tier:** 2
+- **Key Facts:** Bouzkova 7-5, 7-5; Krejcikova 6-2, 6-4 78min (Wimbledon finalist 2 weeks prior); Bejlek 7-6(9) TB, 6-3, 6-1; Parks upset (No. 34); 5 Czech players through R1; Sources: WTA Tour, tournament reporting
+- **Follow-Up Opportunities:** Prague R2-Final results through July 26; Krejcikova title bid
+
+### Story 5: WTA Hamburg R1 — Seeds Hold, Akugue Wildcard Win
+- **Date:** 2026-07-22
+- **Angle:** NEW STORY — MSC Hamburg Ladies Open R1 results. Seeds advance: Oliynykova (1), Kalinina (2), Putintseva (7), Udvardy (3), Bondar (4). German wildcard Noma Noha Akugue wins R1 to crowd delight. Stusek def. Podoroska 4-6, 6-3, 6-4 (upset). Niemeier (German, home crowd interest) lost to Ines Carle.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Key Facts:** Oliynykova/Kalinina/Putintseva/Udvardy/Bondar all advance; Akugue German WC winner; Stusek def. Podoroska 4-6, 6-3, 6-4; Niemeier lost to Carle; Sources: WTA Tour, tournament reporting
+- **Follow-Up Opportunities:** Hamburg R2-Final results through July 26; Oliynykova title bid

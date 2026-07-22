@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-07-20 |
-| Writing | Complete (all steps) | 2026-07-20 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 45 claims; Story 2 tweet fixed 297→265 chars; image manifest fixed from table to YAML format) | 2026-07-20 |
-| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles) | 2026-07-20 |
-| Dashboard | Complete (review-dashboard.html, 27 items) | 2026-07-20 |
-| PostPlanner Export | Complete (standard 7 posts 12:59–20:41 ET; TOBI 7 posts) | 2026-07-20 |
-| WordPress Publish | Attempted — WP API blocked by proxy egress policy (403 Forbidden; same environment restriction as all prior runs) | 2026-07-20 |
-| Dashboard Push | Attempted — proxy blocks both embedded-PAT and plain-URL push methods to content-dashboards repo | 2026-07-20 |
+| Research | Complete | 2026-07-22 |
+| Writing | Complete (all steps) | 2026-07-22 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 27 claims) | 2026-07-22 |
+| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles) | 2026-07-22 |
+| Dashboard | Complete (review-dashboard.html, 27 items) | 2026-07-22 |
+| PostPlanner Export | Complete (standard 7 posts 12:55–20:37 ET; TOBI 7 posts) | 2026-07-22 |
+| WordPress Publish | Attempted — WP API blocked by proxy egress policy (403 Forbidden; same environment restriction as all prior runs) | 2026-07-22 |
+| Dashboard Push | Attempted — proxy blocks push to content-dashboards repo | 2026-07-22 |
 
 ## Queue
 
@@ -24,6 +24,21 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-07-22 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB long-form = 12 total (PostPlanner xlsx: 7 posts 12:55–20:37 ET, 7 TOBI)
+- **Articles:** 5 (bylines: Marcus Cole [S1, S4], Ryan Calloway [S2, S5], Elena Voss [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-07-22.xlsx (7 posts), tfr-postplanner-tobi-2026-07-22.xlsx (7 TOBI posts)
+- **Coverage:** Wawrinka (41, SUI) played final clay match of farewell tour at Estoril — lost to Roman Andres Burruchaga (ARG) 6-4, 4-6, 6-3 in 2h28m; received commemorative ceremony; hardcourt swing continues. Canadian Open withdrawal wave: 8+ stars out — Paolini (No. 15, foot, skipping Washington + Toronto), Muchova (No. 6, post-Wimbledon minor surgery) latest additions; Alcaraz (wrist, returns Cincinnati), Raducanu (shin), Mboko (ankle) already out. Kitzbühel Day 3: Rinderknech (3) def. Navone 6-4, 6-0 R1; Baez def. Kecmanovic 6-3, 3-6, 6-4 R1; Vacherot (2) vs Halys scheduled R2; Bublik (1) survived Diaz Acosta 4-6, 6-3, 6-4; Collignon (Gstaad champion, 3 days ago) fell to Altmaier 6-2, 6-3 R1. WTA Prague R1: Bouzkova (1) def. Bouzas Maneiro 7-5, 7-5; Krejcikova def. L. Fruhvirtova 6-2, 6-4 in 78min; Bejlek def. Blinkova 7-6(9), 6-3, 6-1; Parks (No. 34) upset in R1; 5 Czech players advance. WTA Hamburg R1: Seeds hold (Oliynykova, Kalinina, Putintseva, Udvardy, Bondar advance); German wildcard Akugue wins opener; Stusek def. Podoroska 4-6, 6-3, 6-4; Niemeier lost to Carle.
+- **Notes:**
+  - verify-facts.py warning: "No claim-patterns.py found at Tennis/claim-patterns.py" (cosmetic; Tennis doesn't have custom patterns)
+  - compile: posting window warnings cosmetic (schedule windows embedded in 00-daily-brief.md not parsed by compiler)
+  - PostPlanner: FB posts 0 in XLSX (pre-existing parser limitation)
+  - WordPress: WP API blocked by proxy egress policy (403); same restriction as all prior runs
+  - Dashboard push failed: proxy blocks push to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Marcus Cole [S1, S4], Ryan Calloway [S2, S5], Elena Voss [S3] (rotating from July 20: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
 
 ### 2026-07-20 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
