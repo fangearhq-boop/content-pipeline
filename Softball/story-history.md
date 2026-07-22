@@ -3,6 +3,64 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-07-22
+
+### Story 1: AUSL Play-in Tomorrow — Bandits vs. Cascade (Correction from July 21)
+- **Date:** 2026-07-22
+- **Tier:** 1
+- **Classification:** FOLLOW UP / CORRECTION (July 21 pipeline had OKC Spark as No. 3 seed; confirmed today: Cascade clinched final spot when Blaze eliminated Spark 11-1 run rule)
+- **Angle:** Portland Cascade (14-11) — an expansion team in its first AUSL season — is No. 3 seed and faces Chicago Bandits (16-9) in Thursday's play-in at Davis Diamond. Cascade snapped Bandits' AUSL-record 9-game streak (5-4, July 12) and beat Talons by run rule 10-2 (July 15). Play-in July 23, 9 PM ET ESPN. Winner faces Utah Talons in Championship July 25-27. Game 1 on ABC (first pro softball on network TV).
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, image concepts
+- **Follow-Up Opportunities:**
+  - AUSL Play-in result July 23
+  - Championship Series coverage July 25-27
+  - Megan Grant postseason stats
+
+### Story 2: PGF Nationals — Bracket Play, Championships Friday
+- **Date:** 2026-07-22
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Day 4 bracket play; championships on ESPNU/ESPN+ Friday)
+- **Angle:** PGF Nationals bracket play in final stretch across 5 SoCal venues. 300+ teams from 34 states. Championships Friday July 25 — 18U Premier on ESPNU, 16U on ESPN+. September 1 is 40 days away (Class of 2028 D1 direct contact window).
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, image concepts
+- **Follow-Up Opportunities:**
+  - PGF championship results Friday July 25
+  - All-American Games Saturday July 25
+  - September 1 recruiting angle
+
+### Story 3: Portland Cascade — Expansion Team Cinderella
+- **Date:** 2026-07-22
+- **Tier:** 2
+- **Classification:** NEW (Cascade's first-year Cinderella story; their regular-season wins over Bandits and Talons make them a legitimate threat)
+- **Angle:** Cascade is first-year expansion team that beat both Bandits (5-4, July 12 — snapped 9-game streak) and Talons (10-2, July 15, run rule). Megan Grant (10 HR, 42 NCAA record, 313-ft debut blast), Tori Vidales (Texas A&M alum plays at Davis Diamond), Sierra Sacco-Ferrie (.450 BA, Mississippi State). Most dangerous No. 3 seed in AUSL history.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, image concepts
+- **Follow-Up Opportunities:**
+  - Cascade play-in result July 23
+  - Megan Grant performance if Cascade advances
+  - Tori Vidales at home Davis Diamond angle
+
+### Story 4: Maya Brady Sets AUSL HR Record (11) in Elimination Loss
+- **Date:** 2026-07-22
+- **Tier:** 2
+- **Classification:** FOLLOW UP / CORRECTION (July 21 pipeline had Brady at 8 HR; she finished at 11 — new AUSL record — in the elimination game vs. Blaze)
+- **Angle:** Brady hit HR #11 in bottom of 5th of Spark's 11-1 elimination loss to Blaze. New AUSL record (previous: 9, Morgan Zerkle, 2025). Triple Crown bid ended. UCLA teammate Grant (10 HR) still playing with Cascade. The record lives, the season doesn't.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, image concepts
+- **Follow-Up Opportunities:**
+  - Brady's record now stands as AUSL all-time mark
+  - Grant could potentially equal the record if she hits 1 more HR in playoffs
+
+### Story 5: AUSL Championship Preview — Talons, ABC, Davis Diamond
+- **Date:** 2026-07-22
+- **Tier:** 3
+- **Classification:** EVERGREEN (Championship framework; Talons, ABC broadcast, Davis Diamond)
+- **Angle:** Utah Talons (16-9) wait with bye. Montana Fouts 7-4, 2.36 ERA, 62.1 IP (league-high), 63 K (league-high), 7 CG, 12-K single-game record. 2025 champions going for first back-to-back in AUSL history. Game 1 on ABC July 25 (first pro softball network TV ever). Wrinkle: Cascade beat Talons 10-2 on July 15.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, image concepts
+- **Follow-Up Opportunities:**
+  - Championship Series results July 25-27
+  - ABC broadcast viewership data
+  - Montana Fouts postseason performance
+
+---
+
 ## 2026-07-21
 
 ### Story 1: AUSL Play-in 2 Days Out — Kilfoyl vs. Brady, Bandits vs. Spark
