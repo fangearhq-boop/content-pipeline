@@ -4570,3 +4570,49 @@
 - **Key facts:** Harden declined $42.3M player option; working new multi-year deal; not leaving — cap maneuver for LeBron pursuit; Cavs assembled Mitchell/Harden/Mobley/Allen core
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Harden new deal announced; LeBron chooses Cavs or not
+
+
+## 2026-07-22
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-22 | T1 | LeBron Free Agency — Heat YouTube Hint, Rich Paul "No Rush" | X, FB, Article | FOLLOW UP |
+| 2026-07-22 | T1 | Bam Adebayo and Tyler Herro Reported Physical Altercation in Las Vegas | X, FB, Article | NEW |
+| 2026-07-22 | T2 | Conflicting Reports — LeBron to Warriors? Yahoo Sports vs. Heat Odds | X, FB, Article | FOLLOW UP |
+| 2026-07-22 | T2 | Kawhi Investigation — Silver Says Must End Before Season; Raptors in Limbo | X, FB, Article | FOLLOW UP |
+| 2026-07-22 | T2 | How LeBron's Decision Reshapes Four NBA Contenders (Analysis) | X, FB, Article | NEW |
+
+### STORY 1: LeBron Free Agency — Heat YouTube Hint, Rich Paul "No Rush"
+- **Tier:** 1
+- **Category:** NBA Free Agency / LeBron James
+- **Key facts:** Rich Paul on "Game Over" podcast: "We're not going to be rushed" | Heat briefly posted YouTube event "LeBron James Introductory Press Conference" for July 27 before removing it | Odds: Heat ~48% / Cavs ~27% / Warriors ~14% | Silver: "needs to be wrapped up before next season" | NBA schedule still withheld | Four finalists remain: Heat, Cavs, Warriors, 76ers
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** LeBron signing announcement; press conference July 27 if Heat hint was real; jersey reveal
+
+### STORY 2: Bam Adebayo / Tyler Herro Altercation
+- **Tier:** 1
+- **Category:** NBA Off-Court / Heat
+- **Key facts:** Bam Adebayo (Heat) and Tyler Herro (now Bucks) reportedly had physical altercation in Las Vegas | Herro traded to Milwaukee as part of Giannis deal | No official statements from players or teams | Circumstances not fully confirmed | MEDIUM confidence — reported but unconfirmed
+- **Status:** NEW
+- **Follow-up ideas:** Official statements; league inquiry; impact on Heat atmosphere ahead of LeBron
+
+### STORY 3: LeBron to Warriors? Conflicting Reports
+- **Tier:** 2
+- **Category:** NBA Free Agency / LeBron James
+- **Key facts:** Yahoo Sports: "LeBron reportedly expected to sign with Warriors over Cavaliers" | Heat still ~48% odds | Warriors ~14% | Curry Olympic connection; Rich Paul whiteboard included Warriors | 76ers pitch strengthened by Jaylen Brown acquisition + Bob Myers on Rich Paul podcast
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** LeBron decision; Warriors confirmation or pivot; Cavs/Heat contingency moves
+
+### STORY 4: Kawhi Investigation
+- **Tier:** 2
+- **Category:** NBA Investigation / Trades
+- **Key facts:** Investigation ~11 months old | Wachtell Lipton | Expanded to 2nd endorsement deal + expenses | Conclusion weeks away | Silver: must wrap before season | Raptors declined penalty risk | Sanberg sentenced 14 yrs
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Investigation conclusion; trade approved/voided; NBA ruling and penalties
+
+### STORY 5: LeBron Destination Analysis
+- **Tier:** 2
+- **Category:** NBA Analysis / Free Agency
+- **Key facts:** Heat: Giannis + LeBron, no depth; Cavs: Mitchell $273M + Harden + Mobley, 3rd LeBron stint; Warriors: Curry + Lendeborg + SL title; 76ers: Embiid + Brown + Maxey; NBA schedule held pending decision
+- **Status:** NEW
+- **Follow-up ideas:** Post-decision analysis; championship odds shift; preseason storylines
