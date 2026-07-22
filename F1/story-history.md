@@ -4354,3 +4354,49 @@
 - **Key facts:** Gasly heavy FP2 crash (rear wing failure, Les Fagnes, red flag, rear wing ripped off); track limits Raidillon caused Leclerc FP2 deletion + Hamilton Q1 deletion; Albon P5 (Williams); Bortoleto P10 (Sauber Q3); Ocon fined late arrival; Hadjar 20-place penalty
 - **Status:** NEW
 - **Follow-up ideas:** Belgian GP race result; Gasly injury update
+
+
+## 2026-07-22
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-22 | T1 | Mercedes Confirms Spa Software Bug — Energy Harvest Glitch Hurt Both Cars | X, FB, Article | NEW |
+| 2026-07-22 | T1 | Hungarian GP Preview — Hamilton's 8-Win Fortress, 31°C, Last Race Before Break | X, FB, Article | NEW |
+| 2026-07-22 | T2 | McLaren "Macarena" Wing and Aston Martin Full B-Spec — Both Debut at Hungary | X, FB, Article | NEW |
+| 2026-07-22 | T2 | Verstappen Exit Clause Active — Loyalty Statement, October Deadline | X, FB, Article | FOLLOW UP |
+| 2026-07-22 | T2 | F1 Championship Standings at Halftime — Antonelli 45 Clear, Hamilton vs Russell 5 Points | X, FB, Article | NEW |
+
+### STORY 1: Mercedes Software Bug Confirmed
+- **Tier:** 1
+- **Category:** Technical / Mercedes
+- **Key facts:** TD Simone Resta confirmed July 22 software bug caused early energy harvest limits at Spa | Bug "over-delivering energy early, ran out between T1-T5" | Russell lost 0.2-0.25s/lap in qualifying | Both cars affected | Originated Silverstone, misdiagnosed as driving style | Not resolved heading to Hungary
+- **Status:** NEW
+- **Follow-up ideas:** Whether bug fixed for Hungary FP1; impact on qualifying and race
+
+### STORY 2: Hungarian GP Preview
+- **Tier:** 1
+- **Category:** Grand Prix / Preview
+- **Key facts:** July 24-26 Hungaroring Budapest | 70 laps 4.381 km | 31°C sunny | Hamilton 8 wins (all-time record) | McLaren 1-2 in 2024 and 2025 | Antonelli 45 pts clear | Wolff: "clean, reliable weekend" | Final race before 4-week summer break
+- **Status:** NEW
+- **Follow-up ideas:** FP1 results; qualifying; race result; Antonelli lead after break
+
+### STORY 3: McLaren Macarena + Aston Martin B-Spec
+- **Tier:** 2
+- **Category:** Technical / Upgrades
+- **Key facts:** McLaren revised floor + "Macarena" upside-down rear wing (FP1 only) | Acknowledged "2-3 months behind in aero" | Fornaroli FP1 seat | Aston Martin: full B-spec chassis after 10 rounds without upgrades | Newey-led | New nose/suspension/aero/weight reduction | Krack: both cars get it | Stroll: "make-or-break" if wrong, new engine won't be enough
+- **Status:** NEW
+- **Follow-up ideas:** FP1 data; B-spec race pace; whether Macarena wing progresses to race
+
+### STORY 4: Verstappen Exit Clause
+- **Tier:** 2
+- **Category:** Driver Market / Verstappen
+- **Key facts:** Clause active after British GP DNF (top-2 mathematically impossible) | Verstappen P7, 91 pts | Clause window until October 2026 | Vermeulen: loyal but wants "chance to win" | Teams: Mercedes (crowded), Aston Martin (Newey), Ferrari (possible), McLaren (closed - Piastri confirmed)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Verstappen exercise clause or not; official announcement; Red Bull response
+
+### STORY 5: Championship Standings
+- **Tier:** 2
+- **Category:** Championship Analysis
+- **Key facts:** Antonelli 204 (6W/6P) / Hamilton 159 / Russell 154 (5 back) / Leclerc 126 / Verstappen 91 (7th) | Mercedes leads constructors 358 vs Ferrari 285 (+73) | Ferrari fined €30K for Spa mechanic incident (€10K suspended) | Antonelli chasing first teenage F1 champion in history
+- **Status:** NEW
+- **Follow-up ideas:** Hungarian GP result; standings update after break

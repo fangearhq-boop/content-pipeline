@@ -1,0 +1,265 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-22",
+  "compiled_at": "2026-07-22T11:33:51.814764+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Mercedes Confirms Spa Software Bug — Energy Harvest Glitch Hurt Both Cars",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "CONFIRMED: Mercedes had a software bug at Spa.\n\nOver-delivered energy early in the lap — ran out between T1 and T5.\n\nRussell lost 0.2-0.25 sec/lap in qualifying. Antonelli hit too.\n\nBug started at Silverstone. Misdiagnosed as driving style. It wasn't.\n\n#F1 #Mercedes",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Mercedes"
+          ],
+          "char_count": 266
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The Mercedes energy harvest bug misled the team for two race weekends.\n\nHungarian GP starts Thursday.\n\nIf it's not fixed, Antonelli enters summer break with a hidden deficit.\n\nBig problem heading into Budapest.\n\n#F1 #Mercedes",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Mercedes"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-mercedes-spa-software-bug-energy-harvest-hungarian-gp.html",
+        "headline": "Mercedes Confirms Software Bug Hurt Both Cars at Spa — And Hungarian GP Starts Thursday",
+        "word_count": 613
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Mercedes Software Bug\n\n#### Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search term:** Kimi Antonelli Mercedes\n- **Usage:** X posts (8:00 AM, 10:00 AM), Facebook Story 1\n- **Notes:** Antonelli in Mercedes car; cockpit or paddock shot\n\n#### Concept 2 — Article Hero (1200x630)\n- **Type:** imagn\n- **Search term:** George Russell Mercedes\n- **Usage:** article-01 featured image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Hungarian GP Preview — Hamilton's 8-Win Fortress, 31°C Forecast, Last Race Before Break",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Hungarian GP. 🇭🇺 July 26. 31°C.\n\nHamilton: 8 wins at the Hungaroring (all-time record).\nAntonelli: +45 pts heading in.\nMcLaren: back-to-back 1-2 finishes in 2024 and 2025.\n\nLast race before summer break. Everything resets Sunday.\n\n#F1 #HungarianGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#HungarianGP"
+          ],
+          "char_count": 247
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Toto Wolff pre-Hungary: \"We need to execute a clean, reliable weekend.\"\n\nAfter confirming a software bug hit both cars at Spa, that's not just coach speak.\n\nAntonelli. Hamilton. Russell. Budapest decides the summer narrative.\n\n#F1 #HungarianGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#HungarianGP"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-hungarian-gp-preview-hamilton-antonelli-summer-break.html",
+        "headline": "Hungarian GP Preview: Hamilton's 8-Win Stage, 31°C Forecast, and Antonelli Eyeing a Statement Going into the Break",
+        "word_count": 744
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hungarian GP Preview\n\n#### Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search term:** Lewis Hamilton Ferrari\n- **Usage:** X posts (8:00 AM, 5:00 PM), Facebook Story 2\n- **Notes:** Hamilton in Ferrari suit; confident/celebratory shot\n\n#### Concept 2 — Article Hero (1200x630)\n- **Type:** imagn\n- **Search term:** Lewis Hamilton Formula 1\n- **Usage:** article-02 featured image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "McLaren's \"Macarena\" Wing and Aston Martin's Full B-Spec — Biggest Upgrade Day of 2026",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Two teams. Two huge upgrades. Same weekend.\n\nMcLaren: new floor + upside-down \"Macarena\" rear wing (FP1 only)\nAston Martin: full B-spec after 10 rounds with zero upgrades\n\nStroll: \"If Hungary goes wrong, a new engine won't be enough.\"\n\n#F1 #HungarianGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#HungarianGP"
+          ],
+          "char_count": 252
+        },
+        {
+          "label": "Post 3-2",
+          "text": "McLaren's experimental rear wing is nicknamed \"Macarena.\" It runs upside-down.\n\nFP1 only. Won't race at Hungary.\n\nBut the data could reshape their aero for the rest of 2026.\n\nMeanwhile, Aston Martin is debuting an entirely new car Thursday.\n\n#F1 #McLaren",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#McLaren"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-mclaren-macarena-wing-aston-martin-bspec-hungary-upgrades.html",
+        "headline": "McLaren's \"Macarena\" Wing and Aston Martin's Full B-Spec: The Biggest Upgrade Day of the 2026 F1 Season",
+        "word_count": 760
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "McLaren/Aston Martin Upgrades\n\n#### Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search term:** Lando Norris McLaren\n- **Usage:** X posts (12:00 PM x2), Facebook Story 3\n- **Notes:** Norris in McLaren car or mechanics shot\n\n#### Concept 2 — Article Hero (1200x630)\n- **Type:** imagn\n- **Search term:** Lance Stroll Aston Martin\n- **Usage:** article-03 featured image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Verstappen's Exit Clause Is Active — Loyalty Statement from Manager, October Deadline Looms",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Verstappen's Red Bull exit clause is now active.\n\nManager Vermeulen: \"We want to continue — but with the chance to win.\"\n\nMcLaren: closed. Mercedes: crowded. Aston Martin: Newey link.\n\nOctober deadline. Summer break starts Sunday.\n\n#F1 #Verstappen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Verstappen"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-verstappen-exit-clause-active-october-deadline.html",
+        "headline": "Verstappen's Red Bull Exit Clause Is Active — Manager Issues Loyalty Statement as October Deadline Ticks",
+        "word_count": 723
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Exit Clause\n\n#### Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search term:** Max Verstappen Red Bull\n- **Usage:** X post (2:00 PM), Facebook Story 4\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "F1 Standings at Halftime — Antonelli 45 Clear, Hamilton vs. Russell Just 5 Points Apart",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "F1 standings at summer break:\n\n1. Antonelli: 204 pts (6W/6P)\n2. Hamilton: 159 pts\n3. Russell: 154 pts — 5 back\n4. Leclerc: 126 pts\n7. Verstappen: 91 pts\n\nMercedes leads Ferrari by 73 in constructors.\n\nHungary starts Thursday.\n\n#F1 #HungarianGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#HungarianGP"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-f1-championship-standings-summer-break-antonelli-hamilton-russell.html",
+        "headline": "F1 Championship Standings at Halftime: Antonelli 45 Clear, Hamilton and Russell Separated by Only 5 Points",
+        "word_count": 725
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Championship Standings\n\n#### Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search term:** Kimi Antonelli Mercedes\n- **Usage:** X post (5:00 PM), Facebook Story 5\n- **Notes:** Championship lead / celebration context preferred"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

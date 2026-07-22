@@ -1,8 +1,21 @@
 # F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
-- **Date**: 2026-07-21
+- **Date**: 2026-07-22
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+
+## Pipeline Run Log
+
+### 2026-07-22
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 8 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway)
+- **PostPlanner exports:** f1fr-postplanner-2026-07-22.xlsx (8 posts) + f1fr-postplanner-tobi-2026-07-22.xlsx (8 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-07-22/review-dashboard.html (23 items)
+- **Notes:** HUNGARIAN GP WEEK / MERCEDES BUG CONFIRMED — Simone Resta confirmed July 22 software bug caused energy harvest issues at Spa (over-delivered early, ran out T1-T5; Russell lost 0.2-0.25s/lap in qualifying; originated Silverstone, misdiagnosed as driving style); Hungary July 24-26 (31°C forecast); Hamilton 8 wins there (all-time record); Antonelli 204 pts, 45 clear of Hamilton 159 / Russell 154 (only 5 back); Mercedes constructors +73 over Ferrari; McLaren "Macarena" upside-down rear wing FP1 only + revised floor; Aston Martin full B-spec after 10 rounds (Newey-led; Stroll: "make-or-break"); Verstappen exit clause active, manager Vermeulen loyal-but-conditions statement, October deadline, McLaren closed (Piastri), Aston Martin top destination
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ## Pipeline Run Log
 
