@@ -4892,3 +4892,52 @@
 - **Tier:** 3
 - **Key Facts:** America turns 250 in 2026; Colorado turns 150 in 2026; COS city program: coloradosprings.gov/America250Colorado150; Sources: coloradosprings.gov, visitcos.com
 - **Follow-Up Opportunities:** Specific America 250 events through summer
+
+---
+
+## 2026-07-22
+
+### Story 1: AAP vs. CDC 2026 Vaccine Schedule Split — What COS Parents Need to Know
+- **Date:** 2026-07-22
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — AAP 2026 schedule recommends vaccines against 18 diseases; CDC revised schedule covers 11. First meaningful split between two bodies in years. CDC dropped: hepatitis A, B, meningococcal, rotavirus, flu, RSV. HPV: AAP recommends 2 doses ages 9–12; CDC recommends 1 dose ages 11–12. CDC changes made without convening ACIP, no new supporting data. RFK Jr. dismissed all 17 ACIP members June 2025. 12 medical orgs (AMA, ACOG, IDSA) back AAP. Key action: ask pediatrician which schedule they follow.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Key Facts:** AAP: 18 diseases; CDC: 11 diseases; dropped vaccines include hep A, hep B, meningococcal, rotavirus, flu, RSV; HPV dose difference; ACIP dismissed June 2025; 12 orgs endorse AAP; Sources: AJMC, The Hill, HealthyChildren.org, AAP News, CHOC Children's Health Hub
+- **Follow-Up Opportunities:** Local pediatrician perspective; vaccine hesitancy resources; if CDC reverses changes
+
+### Story 2: Kith Retail Children's Plaid Loungewear Recalled — Burn Hazard
+- **Date:** 2026-07-22
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recalled Kith Retail "Baby Kithmas" and "Kids Kithmas" plaid lounge sets (button-front shirt + pants, black/red plaid, "Kith" embroidered). Woven fabric fails mandatory federal flammability standards for children's sleepwear. Sizes 9–12 months through XL (14/16). ~130 sets sold Dec 2025–Jan 2026 at ~$75 at Kith stores and kith.com. No injuries reported. Remedy: destroy by cutting in half, photograph, email recalls@kithnyc.com for full refund. CPSC recall announced June 2026.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Key Facts:** Baby Kithmas + Kids Kithmas plaid sets; ~130 units; Dec 2025–Jan 2026; ~$75; burn hazard (flammability); destroy + email recalls@kithnyc.com; 0 injuries; Sources: CPSC.gov, ConsumerAffairs June 26 2026 roundup
+- **Follow-Up Opportunities:** CPSC recall watch for additional children's sleepwear
+
+### Story 3: D49 Student Success Center Opens August 2026 — Preschool, PEAK, Elevates 18–21, Base49
+- **Date:** 2026-07-22
+- **Content Pillar:** Local News
+- **Angle:** FOLLOW-UP (June 1 pipeline covered D49 budget vote at June 11 board meeting; today's angle: program access details for families) — Former Falcon Elementary School of Technology building converted to Student Success Center opening Aug 3–4, 2026. Programs: 2 new full-time preschool classrooms (Mon–Thu, districtwide access), PEAK programs, Elevates 18–21 Transition Services, Base49 before/after-school care.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 1 Image Concept
+- **Tier:** 2
+- **Key Facts:** Former Falcon Elementary of Technology; opens Aug 3–4, 2026; 2 preschool classrooms Mon–Thu (districtwide); PEAK; Elevates 18–21; Base49; Sources: d49.org official announcement
+- **Follow-Up Opportunities:** Enrollment details for preschool; PEAK/Elevates community feedback post-opening
+
+### Story 4: CMZoo Dog Days Fridays — Bring Your Dog July 24 & July 31
+- **Date:** 2026-07-22
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (July 19 coverage was general CMZoo centennial; Dog Days Fridays is a specific time-sensitive event not previously covered) — Cheyenne Mountain Zoo Dog Days Fridays: July 24 and July 31, 9 a.m.–5 p.m. Well-behaved dogs welcome; dog tickets required (members + non-members); limited by entry time + date, advance purchase required at cmzoo.org; no walk-up dog admission. Adults $34.75; kids 3–11 $29.75 (peak). Centennial year (100th anniversary 2026); zoo ranked No. 2 U.S. 2026 (USA TODAY).
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 1 Image Concept
+- **Tier:** 2
+- **Key Facts:** July 24 and July 31; 9 a.m.–5 p.m.; dog tickets required, advance only, limited; cmzoo.org; adults $34.75, kids 3–11 $29.75; no walk-up; Sources: CMZoo events calendar, KKTV, Fox21
+- **Follow-Up Opportunities:** CMZoo centennial year programming wrap-up; post-event photos from Dog Days
+
+### Story 5: Rosemont Reservoir Open for Fishing Now — COS Families Guide
+- **Date:** 2026-07-22
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — Rosemont Reservoir SWA (12 miles SW of COS along Gold Camp Road, south side of Pikes Peak, 9,600+ ft) is open for fishing mid-May through October, 5 a.m.–9 p.m. Flies and lures only; no bait. Valid CO fishing license or SWA pass required ages 16+. ~0.5-mile hike from parking to water. Swimming/wading prohibited. Camping expansion: CCS City Council approved CPW partnership for dry campsites, non-motorized boating, ADA restrooms — target July 4 opening but campground status uncertain as of July 2026 (permitting phase as of Feb 2026).
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 1 Image Concept
+- **Tier:** 2
+- **Key Facts:** 12 miles SW of COS via Gold Camp Road; 9,600+ ft; fishing mid-May–Oct 5am-9pm; flies/lures only; CO fishing license or SWA pass required ages 16+; 0.5-mile hike; no swimming; camping status uncertain; Sources: CSU.org, cpw.state.co.us, KOAA, KRDO, uncovercolorado.com
+- **Follow-Up Opportunities:** Campground opening confirmation when available; fishing report/community feedback
