@@ -1,0 +1,240 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-22",
+  "compiled_at": "2026-07-22T10:36:18.573000+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Red Sox Doubleheader Today — Two Cracks at Franchise History",
+      "tier": 1,
+      "status": "",
+      "angle": "The rainout inadvertently gave Boston maximum drama — two cracks at two different milestones, same day, same opponent. The franchise record can be tied and broken in a single afternoon-evening.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Boston's streak is at 14.\n\nTuesday's game was rained out. Now there are two games on Wednesday.\n\nGame 1: Win ties the 1946 franchise record at 15.\nGame 2: Win breaks it outright at 16.\n\nThe rainout created the best possible storyline. #RedSox",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RedSox"
+          ],
+          "char_count": 242
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The 2018 Red Sox won 108 games. Their longest win streak that year: 10 games.\n\nThe 2026 Red Sox have won 14 in a row. Today they get two chances to make franchise history.\n\nFranchise record is 15, set in 1946. #RedSox #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RedSox",
+            "#MLB"
+          ],
+          "char_count": 222
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-red-sox-doubleheader-franchise-record-1946.html",
+        "headline": "Two Games. Two Milestones. The Red Sox Franchise Record Is One Win Away.",
+        "word_count": 591
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Red Sox Doubleheader — Two Cracks at Franchise History\n\n#### Image 1-A — Social (1080x1350)\n- **imagn search:** `Rafael Devers Boston Red Sox`\n- **Use:** X Post 1 (8:00 AM) and Facebook Post 1\n- **Status:** not_started\n\n#### Image 1-B — Article Hero (1200x630)\n- **imagn search:** `Tanner Houck Boston Red Sox`\n- **Use:** Article 1 hero image\n- **Status:** not_started\n\n#### Image 1-C — Social (1080x1350)\n- **imagn search:** `Alex Bregman Boston Red Sox`\n- **Use:** X Post 2 (9:00 AM)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Nolan Arenado's 2,000th Hit — A Hall of Fame Calling Card",
+      "tier": 1,
+      "status": "",
+      "angle": "The 2,000-hit/350-HR/10-Gold-Glove club is the most elite statistical argument for Arenado's Hall of Fame case. Every member is already in Cooperstown.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "On July 20, Nolan Arenado hit a double off Oakland for his 2,000th career hit.\n\nPlayers with 2,000+ hits, 350+ HRs, and 10+ Gold Gloves: Griffey Jr., Willie Mays, Mike Schmidt, Johnny Bench, Al Kaline.\n\nAll five are in the Hall of Fame. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 241
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-nolan-arenado-2000-hits-hall-of-fame-club.html",
+        "headline": "The Six-Player Club. The Five Hall of Famers. And Nolan Arenado.",
+        "word_count": 595
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Nolan Arenado 2,000th Hit\n\n#### Image 2-A — Social (1080x1350)\n- **imagn search:** `Nolan Arenado Arizona Diamondbacks`\n- **Use:** X Post 1 (10:30 AM) and Facebook Post 2\n- **Status:** not_started\n\n#### Image 2-B — Article Hero (1200x630)\n- **imagn search:** `Nolan Arenado Arizona Diamondbacks`\n- **Use:** Article 2 hero image\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Ohtani Knee — Bullpen Session Expected This Weekend, Cy Young in Jeopardy",
+      "tier": 2,
+      "status": "",
+      "angle": "Ohtani's Cy Young window is closing with every missed start. The bullpen session this weekend will be the defining moment for whether he returns in time to rebuild his case.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Shohei Ohtani won't start for at least another week to 10 days.\n\nBullpen session expected around July 25-26. Not on the IL. Continuing as DH.\n\nBefore the knee: 8-2, 1.79 ERA, 95 K in 85.2 IP. The Cy Young case isn't over, but it's eroding. #Dodgers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-ohtani-knee-cy-young-bullpen-session.html",
+        "headline": "One Week to Ten Days. That's How Long Ohtani Is Out. That's How Long His Cy Young Case Waits.",
+        "word_count": 583
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ohtani Knee\n\n#### Image 3-A — Social (1080x1350)\n- **imagn search:** `Shohei Ohtani Los Angeles Dodgers`\n- **Use:** X Post 1 (12:30 PM) and Facebook Post 3\n- **Status:** not_started\n\n#### Image 3-B — Article Hero (1200x630)\n- **imagn search:** `Shohei Ohtani Los Angeles Dodgers`\n- **Use:** Article 3 hero image\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Skubal Trade Flip — \"Growing Sense\" Tigers Keep Him",
+      "tier": 2,
+      "status": "",
+      "angle": "The biggest trade-deadline story of the summer is now about whether there's a deal at all. That flip is more interesting than another \"five teams interested\" update.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "A week ago, Tarik Skubal was the biggest trade-deadline chip in baseball.\n\nNow the growing sense is Detroit keeps him.\n\nTigers are 10-4 in July, within 5-6 games of a Wild Card. August 3 is 12 days away. #Tigers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tigers",
+            "#MLB"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-skubal-trade-deadline-tigers-keeping-him.html",
+        "headline": "Detroit Is Hot in July. Skubal Wants to Stay. The Asking Price Is Outrageous. This Deal Might Not Happen.",
+        "word_count": 569
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Skubal Trade Flip\n\n#### Image 4-A — Social (1080x1350)\n- **imagn search:** `Tarik Skubal Detroit Tigers`\n- **Use:** X Post 1 (3:00 PM) and Facebook Post 4\n- **Status:** not_started\n\n#### Image 4-B — Article Hero (1200x630)\n- **imagn search:** `Tarik Skubal Detroit Tigers`\n- **Use:** Article 4 hero image\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "White Sox Lose Kyle Teel — AL Central Lead at Risk",
+      "tier": 2,
+      "status": "",
+      "angle": "The White Sox went 121-41 two years ago (worst MLB record ever), 60-102 last year, and are now leading the AL Central at 52-46. This injury tests whether the rebuild is real or fragile.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Kyle Teel is on the 10-day IL with a high ankle sprain. Recovery: 6-12 weeks.\n\nThe White Sox are 52-46, leading the AL Central.\n\nTwo seasons ago they lost 121 games. This injury tests whether the rebuild is real. #WhiteSox #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox",
+            "#MLB"
+          ],
+          "char_count": 227
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-kyle-teel-il-white-sox-rebuild.html",
+        "headline": "The White Sox Lost 121 Games Two Years Ago. Now They Lead the AL Central. Kyle Teel's Injury Is the First Real Test.",
+        "word_count": 622
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Kyle Teel / White Sox\n\n#### Image 5-A — Social (1080x1350)\n- **imagn search:** `Kyle Teel Chicago White Sox`\n- **Use:** X Post 1 (6:00 PM) and Facebook Post 5\n- **Status:** not_started\n\n#### Image 5-B — Article Hero (1200x630)\n- **imagn search:** `Colson Montgomery Chicago White Sox`\n- **Use:** Article 5 hero image\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

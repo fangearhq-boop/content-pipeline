@@ -5,6 +5,62 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-22
+
+### Story 1: Red Sox Doubleheader — Two Cracks at Franchise History
+- **Date:** 2026-07-22
+- **Tier:** 1
+- **Classification:** FOLLOW UP (streak at 14 after July 21 rainout; split doubleheader today gives Boston two shots at tying then breaking the 1946 franchise record)
+- **Angle:** July 21 game vs. Orioles postponed (thunderstorms at Fenway). Rescheduled as split doubleheader July 22. Game 1: tie franchise record at 15. Game 2: break it outright at 16. Record was set April 25–May 10, 1946 (Williams, Pesky, Doerr, DiMaggio). Team ERA during streak: 1.98; bullpen 7-0, 1.15 ERA. 2018 Red Sox (108 wins) topped out at 10-game streak. This team already past that by 4 games.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Doubleheader results (did Boston tie/break the record?)
+  - 1946 squad context if record falls
+  - AL Wild Card implications
+
+### Story 2: Nolan Arenado 2,000th Hit — Hall of Fame Calling Card
+- **Date:** 2026-07-22
+- **Tier:** 1
+- **Classification:** NEW (milestone reached July 20 vs. Oakland A's; first Ballpark Banter coverage of this story)
+- **Angle:** Arenado's 2,000th hit was a double in the 5th inning in Phoenix vs. Oakland A's on July 20. He joined the 6-player club: 2,000+ hits, 350+ HR, 10+ Gold Gloves. Other members: Griffey Jr., Willie Mays, Mike Schmidt, Johnny Bench, Al Kaline — all Hall of Famers. Only 3B in the club. Only active member. Career line at milestone: .280/.337/.503, 366 HR, 1,228 RBI, 1,038 R, 424 2B, 10 GG, 5 SS, 8× All-Star. Mike Schmidt quote connection.
+- **Content Produced:** Article (article-02, Jake Torres), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Arenado HOF narrative as season continues
+  - Arizona Diamondbacks second-half results
+
+### Story 3: Ohtani Knee — Bullpen Session This Weekend, Cy Young at Risk
+- **Date:** 2026-07-22
+- **Tier:** 2
+- **Classification:** FOLLOW UP (timeline clarification fresh; bullpen session July 25-26 is new forward-looking hook)
+- **Angle:** Roberts confirmed 1-week to 10-day window before Dodgers consider rotation return. Bullpen session expected July 25-26. Not on IL. Continues as DH. Before injury: 8-2, 1.79 ERA, 95 K in 85.2 IP. Missed two July starts (July 10 scratch + Phillies series cancelation). Missed All-Star Game (6th consecutive selection). Dodgers 64-38, won July 21 vs. Phillies 2-1 (Wrobleski 7 IP, Muncy 2-run HR).
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Bullpen session results (July 25-26)
+  - Cy Young race tracking through August
+
+### Story 4: Skubal Trade Flip — "Growing Sense" Tigers Keep Him
+- **Date:** 2026-07-22
+- **Tier:** 2
+- **Classification:** FOLLOW UP (narrative flip: prior pipelines had Skubal as likely traded; now growing sense Tigers keep him)
+- **Angle:** Per Rosenthal (The Athletic): "growing sense" among rival executives that Tigers keep Skubal through August 3. Detroit 10-4 in July, 20-12 since June 1 (best AL record in that span). Within 4.5-6.5 games of Wild Card. Skubal wants Tigers to be buyers. Asking price still "outrageous" — deterring most teams. Dodgers, Cubs, Braves, Rays all monitoring but no deal close. 12 days to August 3.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Trade deadline outcome (keep/deal)
+  - Tigers playoff positioning through August 3
+
+### Story 5: White Sox Lose Kyle Teel — AL Central Lead at Risk
+- **Date:** 2026-07-22
+- **Tier:** 2
+- **Classification:** NEW (Teel IL placement announced; first standalone coverage)
+- **Angle:** Kyle Teel on 10-day IL with left high ankle sprain. Recovery: 6-12 weeks (likely season-ending). Edgar Quero called up. White Sox 52-46, AL Central leaders. Rebuild arc: 121-41 (2024, worst MLB record ever) → 60-102 (2025) → 52-46 AL Central leaders (2026). Colson Montgomery: 21 HR, first player to hit 20+ HR in first 275 AB in each of first two ML seasons.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - White Sox second-half record without Teel
+  - Quero performance as replacement
+  - AL Central standings race
+
+---
+
 ## 2026-07-21
 
 ### Story 1: Red Sox Win 14 Straight — One Win from 1946 Franchise Record
