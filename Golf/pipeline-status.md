@@ -1,10 +1,21 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
-- **Date**: 2026-07-21
+- **Date**: 2026-07-22
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-22
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** gfr-postplanner-2026-07-22.xlsx (7 posts) + gfr-postplanner-tobi-2026-07-22.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-07-22/review-dashboard.html (17 items)
+- **Notes:** 3M OPEN WEEK / ASIAN TOUR DEFECTION — Scottie Scheffler makes 3M Open debut at TPC Twin Cities (July 23-26/$8.8M/par-71 7,431 yards Arnold Palmer design/+275 favorite/missed cut at The Open first MC in 4 years/leads FedEx Cup 3,823 pts); Kurt Kitayama defending; Asian Tour joins PGA Tour+DP World Tour alliance through 2029 (announced July 22/deal done at Royal Birkdale/LIV CEO O'Neil "completely by surprise"/LIV had funded Asian Tour International Series with ~$300M/top Asian Tour players get DP World Tour pathway 2027/LIV loses feeder system); LIV Golf UK at JCB July 23-26 (Rahm going for 3rd straight JCB title/Cameron Smith+Hatton+DeChambeau in field/6th hole converted par 5 509 yards); ISPS Handa Women's Scottish Open July 23-26 Dundonald Links (Korda No.1 headlines/defending champ Lauren Coughlin/19 major champions/final event before AIG Women's Open); FedEx Cup bubble: Jason Day/Brian Harman/Tony Finau/Brandt Snedeker fighting to survive/Tom Kim 35th on hot streak
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-21
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

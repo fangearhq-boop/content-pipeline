@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-07-22
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-22 | T1 | 3M Open Preview — Scheffler Debut at TPC Twin Cities, +275 Favorite, First MC in 4 Years at The Open | X, FB, Article | FOLLOW UP |
+| 2026-07-22 | T1 | Asian Tour Joins PGA Tour / DP World Alliance — LIV Loses $300M Feeder System, Caught Off Guard | X, FB, Article | NEW |
+| 2026-07-22 | T2 | LIV Golf UK Preview — Rahm Chasing Third Straight JCB Title, 57-Player Field, Course Updated | X, FB, Article | FOLLOW UP |
+| 2026-07-22 | T2 | LPGA Women's Scottish Open Preview — Korda Headlines, Coughlin Defends, Final Major Tune-Up | X, FB, Article | NEW |
+| 2026-07-22 | T2 | FedEx Cup Bubble Watch — 3 Events Left, Day/Harman/Finau Fighting to Survive, Scheffler Leads 3,823 | X, FB, Article | NEW |
+
+### STORY 1: 3M Open Preview
+- **Tier:** 1
+- **Category:** PGA Tour / Preview / FedEx Cup
+- **Key facts:** July 23-26 TPC Twin Cities Blaine MN; par-71 7,431 yards Arnold Palmer design; $8.8M purse; Scheffler World No. 1 making 3M Open debut; Scheffler +275 favorite; missed cut at The Open — first MC in 4 years; Scheffler leads FedEx Cup 3,823 points; defending champ Kurt Kitayama; 3 events left before FedEx Cup Playoffs Memphis; 500 FedExCup points on offer; Golf Channel 4pm ET Thursday; bubble players: Jason Day, Brian Harman, Brandt Snedeker, Tony Finau; Tom Kim 35th in FedEx Cup on hot streak
+- **Status:** FOLLOW UP (3M Open previewed 2026-07-21 as Tier 2; today = full Tier 1 with Scheffler debut angle and FedEx Cup stretch-run context)
+- **Follow-up ideas:** R1 Thursday leaderboard; Scheffler first-round result; FedEx Cup standings update; bubble movers
+
+### STORY 2: Asian Tour / PGA Tour Alliance
+- **Tier:** 1
+- **Category:** Golf Business / LIV Golf / PGA Tour / Asian Tour
+- **Key facts:** Asian Tour joined PGA Tour + DP World Tour alliance through 2029; announced Tuesday July 22; deal negotiated at Royal Birkdale during The Open; LIV CEO Scott O'Neil not informed until Monday — "completely by surprise"; LIV had funded Asian Tour International Series with ~$300M; top Asian Tour members get DP World Tour pathway from 2027; DP World Tour resumes co-sanctioning Asian Tour events from 2027; LIV loses promotion-relegation pipeline; LIV can still operate own qualifying school
+- **Status:** NEW
+- **Follow-up ideas:** LIV response; how this affects Asian Tour International Series players; PIF reaction; LIV 2027 plans without Asian Tour
+
+### STORY 3: LIV Golf UK Preview
+- **Tier:** 2
+- **Category:** LIV Golf / Preview
+- **Key facts:** July 23-26 JCB Golf & Country Club Staffordshire England; 3rd consecutive year at venue; 57-player field 13 teams + 5 wild cards; 10th event 2026 LIV schedule; Jon Rahm won 2024 and 2025 at JCB — going for 3rd straight; Cameron Smith, Tyrrell Hatton, Bryson DeChambeau, Anthony Kim in field; 6th hole converted to par 5 at 509 yards; shotgun start 8:15 AM ET Thu-Sat / 8:05 AM ET Sunday
+- **Status:** FOLLOW UP (LIV UK funding crisis covered extensively since 2026-07-14; today = competitive preview angle with Rahm 3-peat hook)
+- **Follow-up ideas:** Rahm result; first-round leaders; whether Asian Tour news affects player mood
+
+### STORY 4: LPGA Women's Scottish Open
+- **Tier:** 2
+- **Category:** LPGA / Preview / Women's Golf
+- **Key facts:** 2026 ISPS Handa Women's Scottish Open July 23-26 Dundonald Links Gailes Scotland; 144-player field; Nelly Korda (World No.1) headlines; defending champion Lauren Coughlin; top 10 in field: Hyo Joo Kim (No.3), Lottie Woad (No.4), Charley Hull (No.5), Hannah Green (No.9); 19 major champions 35 combined titles; Minjee Lee, Jin Young Ko, Carlota Ciganda, Linn Grant in field; final event before AIG Women's Open (last major of 2026); 16 Solheim Cup players
+- **Status:** NEW
+- **Follow-up ideas:** R1 Thursday leaderboard; Korda form heading into AIG Women's Open; Woad vs. Coughlin battle
+
+### STORY 5: FedEx Cup Bubble Watch
+- **Tier:** 2
+- **Category:** PGA Tour / FedEx Cup / Analysis
+- **Key facts:** Scheffler leads FedEx Cup 3,823 points; 3 events left before Playoffs; 500 points at 3M Open; FedEx Cup Playoffs begin Memphis FedEx St. Jude Championship; bubble names: Jason Day, Brian Harman, Brandt Snedeker, Tony Finau; Tom Kim 35th in standings on strong recent run
+- **Status:** NEW
+- **Follow-up ideas:** Standings update after 3M Open; who moves off bubble; who falls off
+
 ## 2026-07-21
 
 | Date | Tier | Story | Platforms | Status |
