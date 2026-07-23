@@ -1,0 +1,243 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-23",
+  "compiled_at": "2026-07-23T10:21:34.430669+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "AUSL Play-in TONIGHT — Bandits vs. Cascade, 9 PM ET ESPN",
+      "tier": 1,
+      "status": "",
+      "angle": "Game day is here. No. 2 Chicago Bandits (16-9) vs. No. 3 Portland Cascade (14-11) tonight at 9 PM ET on ESPN at Davis Diamond, College Station, TX. Lexi Kilfoyl (6-0) vs. Megan Grant (10 HR, 17-game on-base streak). Portland already beat the Bandits 5-4 on July 12 (snapped their 9-game streak). The winner faces Utah Talons in the Championship Series starting Saturday July 25, Game 1 on ABC.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Game day at Davis Diamond.\n\nNo. 2 Chicago Bandits (16-9) vs. No. 3 Portland Cascade (14-11).\n\nTonight. 9 PM ET on ESPN.\n\nCascade already beat the Bandits 5-4 this season — ending Chicago's 9-game win streak. Same teams. Different stakes. #AUSL #softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#AUSL",
+            "#softball"
+          ],
+          "char_count": 253
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Megan Grant enters tonight with 10 home runs and a 17-game on-base streak — the longest active streak in the AUSL.\n\nLexi Kilfoyl enters 6-0.\n\nOne of them ends the night with a loss for the first time. #AUSL #softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#AUSL",
+            "#softball"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-ausl-playin-game-day-bandits-cascade-tonight.html",
+        "headline": "Bandits vs. Cascade: Tonight at Davis Diamond. Here's What You Need to Know.",
+        "word_count": 691
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "AUSL Play-in TONIGHT — Bandits vs. Cascade\n\n#### Image Concept 1 — 9:00 AM ET Post\n\n- **Placement:** X Post 1 / Facebook Long-Form Post\n- **Search term:** `Megan Grant Portland Cascade`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1080x1350 (4:5 vertical)\n- **Status:** not_started\n- **Notes:** Batting stance, home run swing, or game action preferred; blue/teal Cascade uniform\n\n#### Image Concept 2 — 10:00 AM ET Post\n\n- **Placement:** X Post 2 / Facebook secondary\n- **Search term:** `Lexi Kilfoyl Chicago Bandits`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1080x1350 (4:5 vertical)\n- **Status:** not_started\n- **Notes:** Pitching delivery action; Bandits uniform preferred\n\n#### Article Hero — Story 1\n\n- **Placement:** article-01 hero\n- **Search term:** `Chicago Bandits Portland Cascade softball`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1200x630 (1.91:1 landscape)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "PGF Nationals — Championship Weekend Preview",
+      "tier": 1,
+      "status": "",
+      "angle": "PGF Nationals bracket play closes out today — championships are this Saturday July 25. The 18U Premier Championship airs on ESPNU at 3 PM ET; the 16U Premier Championship is on ESPN+ at 11:30 AM ET. Plus High School All-American Games Saturday. September 1 is 39 days away — the window when D1 coaches can contact Class of 2028 recruits for the first time.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "PGF Nationals championships are Saturday.\n\n18U Premier on ESPNU. 16U Premier on ESPN+.\n\nSeptember 1 — when D1 coaches can contact the Class of 2028 for the first time — is 39 days away.\n\nEvery bracket win this week is an audition. #PGFNationals #softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGFNationals",
+            "#softball"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-pgf-nationals-championship-weekend-saturday-39-days.html",
+        "headline": "PGF Nationals Championship Weekend Is Saturday. The September 1 Clock Says 39 Days.",
+        "word_count": 614
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "PGF Nationals Championship Weekend\n\n#### Image Concept 1 — 11:00 AM ET Post\n\n- **Placement:** X Post 1 / Facebook Long-Form Post\n- **Search term:** `PGF Nationals softball`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1080x1350 (4:5 vertical)\n- **Status:** not_started\n- **Notes:** Tournament gameplay or bracket action; Great Park Irvine CA\n\n#### Article Hero — Story 2\n\n- **Placement:** article-02 hero\n- **Search term:** `PGF Nationals softball`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1200x630 (1.91:1 landscape)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Megan Grant HR Watch — Can She Break Brady's Record Tonight?",
+      "tier": 2,
+      "status": "",
+      "angle": "Maya Brady set the AUSL single-season HR record at 11 in the Spark's elimination game Tuesday. Megan Grant — Brady's former UCLA teammate — has 10 HRs and enters tonight's play-in active. She needs 2 more HRs in one game to tie the record. She is also on a 17-game on-base streak, the longest active streak in the AUSL this season. If Cascade advances, Grant gets Championship Series games too.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Maya Brady set the AUSL home run record at 11 on Tuesday — in the Spark's elimination loss.\n\nMegan Grant has 10. Her Portland Cascade plays tonight.\n\nShe needs 2 HRs in one game to tie it. She's on a 17-game on-base streak. #AUSL #softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#AUSL",
+            "#softball"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-megan-grant-hr-watch-ausl-record-tonight.html",
+        "headline": "Maya Brady Set the AUSL Home Run Record Tuesday. Megan Grant Could Break It Tonight.",
+        "word_count": 588
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Megan Grant HR Watch\n\n#### Image Concept 1 — 1:00 PM ET Post\n\n- **Placement:** X Post 1 / Facebook Long-Form Post\n- **Search term:** `Megan Grant Portland Cascade`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1080x1350 (4:5 vertical)\n- **Status:** not_started\n- **Notes:** Home run swing or batting action; celebratory moment preferred\n\n#### Article Hero — Story 3\n\n- **Placement:** article-03 hero\n- **Search term:** `Megan Grant UCLA softball`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1200x630 (1.91:1 landscape)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Lexi Kilfoyl vs. Portland Cascade — The Pitching Matchup",
+      "tier": 2,
+      "status": "",
+      "angle": "Lexi Kilfoyl is 6-0 this season. She held Portland Cascade opponents in check through the regular season but the Cascade beat her Bandits 5-4 on July 12. Tonight is the biggest start of Kilfoyl's professional career. Her ability to limit Megan Grant and Sierra Sacco-Ferrie is the key variable in whether Chicago advances.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Lexi Kilfoyl is 6-0 this season.\n\nThe last time she matched up against Portland Cascade, the Bandits lost 5-4.\n\nTonight at 9 PM ET on ESPN, she gets the rematch — with a championship bid on the line. #AUSL #softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#AUSL",
+            "#softball"
+          ],
+          "char_count": 215
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-lexi-kilfoyl-portland-cascade-play-in-matchup.html",
+        "headline": "Lexi Kilfoyl Is 6-0. The Last Time She Faced Portland, Her Team Lost.",
+        "word_count": 667
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Lexi Kilfoyl vs. Portland Cascade\n\n#### Image Concept 1 — 3:00 PM ET Post\n\n- **Placement:** X Post 1 / Facebook Long-Form Post\n- **Search term:** `Lexi Kilfoyl Chicago Bandits`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1080x1350 (4:5 vertical)\n- **Status:** not_started\n- **Notes:** Pitching delivery, on the mound, windup; Bandits uniform\n\n#### Article Hero — Story 4\n\n- **Placement:** article-04 hero\n- **Search term:** `Lexi Kilfoyl Chicago Bandits`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1200x630 (1.91:1 landscape)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Utah Talons Championship Prep — Montana Fouts, ABC, Davis Diamond",
+      "tier": 3,
+      "status": "",
+      "angle": "The Utah Talons have had since July 20 to rest and prepare. Montana Fouts (7-4, 2.36 ERA, 63 K, AUSL K record of 12 in single game) is rested and ready. Game 1 of the Championship Series is Saturday July 25 at Noon ET on ABC — the first professional softball game ever on network television. Utah swept the Bandits to win the 2025 championship. Tonight they watch and wait.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Montana Fouts (7-4, 2.36 ERA, 12 K single-game record) has been resting since July 20.\n\nGame 1 of the AUSL Championship is Saturday at Noon ET on ABC — the first professional softball game ever on network television.\n\nThe Talons are ready. #AUSL #softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#AUSL",
+            "#softball"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-utah-talons-championship-prep-montana-fouts-abc.html",
+        "headline": "The Talons Have Been Waiting Since July 20. Montana Fouts Is Ready. ABC Is Saturday.",
+        "word_count": 699
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Utah Talons Championship Prep / Montana Fouts\n\n#### Image Concept 1 — 8:00 PM ET Post\n\n- **Placement:** X Post 1 / Facebook Long-Form Post\n- **Search term:** `Montana Fouts Utah Talons`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1080x1350 (4:5 vertical)\n- **Status:** not_started\n- **Notes:** Pitching delivery or celebration; Talons uniform; game action preferred\n\n#### Article Hero — Story 5\n\n- **Placement:** article-05 hero\n- **Search term:** `Montana Fouts Utah Talons`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1200x630 (1.91:1 landscape)\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

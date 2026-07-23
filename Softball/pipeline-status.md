@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-07-23
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via 2 research agents, 10 queries), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations), FB posts (5 stories), image concepts (11 items), image manifest (11 items, not_started), articles (5), fact-check (79 claims), compile (5 stories, 6 tweets, 0 FB posts — format known, 5 articles, 21 items), dashboard (21 items), PostPlanner exports (6 posts standard + 6 TOBI). WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard publish push failed (proxy known restriction). IMAGE MISSING expected (not_started). FB posts: 0 compiled (format known). 0 char violations. CORRECTION from July 22 pipeline: PGF Championships are SATURDAY July 25 (not Friday — July 25 is a Saturday). Research confirmed: 18U on ESPNU 3 PM ET, 16U on ESPN+ 11:30 AM ET Saturday July 25.
+- **Key Stories**: AUSL Play-in TONIGHT July 23 9PM ET ESPN Davis Diamond/Bandits 16-9 vs Cascade 14-11/Kilfoyl (6-0) vs Grant (10 HR, 17-game on-base streak)/Cascade snapped Bandits 9-game streak 5-4 July 12/winner faces Talons Championship July 25-27 (Tier 1 FOLLOW UP), PGF Nationals Championship SATURDAY July 25/18U ESPNU 3PM ET/16U ESPN+ 11:30AM ET/September 1 39 days (Tier 1 FOLLOW UP CORRECTION-Friday→Saturday), Megan Grant HR Watch/10 HR/Brady record 11/needs 2 HRs tonight to tie/17-game on-base streak (Tier 2 FOLLOW UP), Lexi Kilfoyl 6-0/1-0 vs Portland/biggest professional start/Grant+Sacco-Ferrie the challenge (Tier 2 NEW), Utah Talons resting/Montana Fouts 7-4 2.36 ERA 63K 12K single-game record/Championship Game 1 ABC Saturday Noon ET first pro softball network TV (Tier 3 FOLLOW UP)
+
+## Last Run
 - **Date**: 2026-07-22
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch 6 queries + 2 research agents), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations), FB posts (5 stories), image concepts (11 items), image manifest (11 items, not_started), articles (5), fact-check (96 claims), compile (5 stories, 6 tweets, 0 FB posts — format known, 5 articles, 21 items), dashboard (21 items), PostPlanner exports (6 posts standard + 6 TOBI). WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).

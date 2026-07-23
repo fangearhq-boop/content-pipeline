@@ -3,6 +3,62 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-07-23
+
+### Story 1: AUSL Play-in TONIGHT — Bandits vs. Cascade, Game Day Preview
+- **Date:** 2026-07-23
+- **Tier:** 1
+- **Classification:** FOLLOW UP (previewed July 22; game day coverage today)
+- **Angle:** No. 2 Chicago Bandits (16-9) vs. No. 3 Portland Cascade (14-11) tonight at 9 PM ET on ESPN at Davis Diamond, College Station TX. Lexi Kilfoyl (6-0; 1-0 vs. Portland) vs. Megan Grant (10 HR, 17-game on-base streak). Cascade beat Bandits 5-4 on July 12 (snapped 9-game streak). Winner faces Utah Talons in Championship Series starting Saturday July 25, Game 1 on ABC.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, image concepts
+- **Follow-Up Opportunities:**
+  - Play-in result tonight
+  - Championship Series coverage July 25-27
+  - Megan Grant HR record if she adds to her total
+
+### Story 2: PGF Nationals Championship Weekend Preview
+- **Date:** 2026-07-23
+- **Tier:** 1
+- **Classification:** FOLLOW UP (championships are Saturday July 25 — day correction from July 22 "Friday" error)
+- **Angle:** PGF Nationals bracket play closes today; 18U Premier Championship on ESPNU at 3 PM ET Saturday July 25; 16U Premier on ESPN+ at 11:30 AM ET Saturday July 25. HS All-American Games also Saturday. September 1 is 39 days away (Class of 2028 D1 direct contact window opens).
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, image concepts
+- **Follow-Up Opportunities:**
+  - PGF championship results Saturday July 25
+  - All-American Games Saturday
+
+### Story 3: Megan Grant HR Watch — Can She Break Brady's Record Tonight?
+- **Date:** 2026-07-23
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Brady set record at 11 on July 22; Grant at 10 entering play-in)
+- **Angle:** Maya Brady set AUSL single-season HR record at 11 in elimination game July 22. Grant — Brady's former UCLA teammate — has 10 HRs, 17-game on-base streak. Needs 2 HRs tonight to tie the AUSL record. If Cascade wins, more opportunities in Championship Series.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, image concept
+- **Follow-Up Opportunities:**
+  - Tonight's play-in result — did Grant add HRs?
+  - Championship Series: Grant HR chase continues if Cascade advances
+
+### Story 4: Lexi Kilfoyl vs. Portland Cascade — The Play-in Pitching Matchup
+- **Date:** 2026-07-23
+- **Tier:** 2
+- **Classification:** NEW (first standalone Kilfoyl analysis; game-day pitching matchup angle)
+- **Angle:** Kilfoyl is 6-0 this season, most dominant Bandits arm. But Bandits lost to Portland 5-4 on July 12 with Kilfoyl pitching. Tonight is her biggest professional start. Her ability to limit Megan Grant (10 HR, 17-game on-base streak) and Sierra Sacco-Ferrie (.450 BA) is the key variable.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, image concept
+- **Follow-Up Opportunities:**
+  - Kilfoyl's performance in play-in game
+  - Championship Series start if Bandits advance
+
+### Story 5: Utah Talons Championship Prep — Montana Fouts, ABC, Davis Diamond
+- **Date:** 2026-07-23
+- **Tier:** 3
+- **Classification:** FOLLOW UP (Championship preview updated; Game 1 on ABC Saturday Noon ET)
+- **Angle:** Talons resting since July 20. Montana Fouts (7-4, 2.36 ERA, 62.1 IP, 63 K, 12-K single-game record) is rested. Game 1 of Championship on ABC Saturday July 25 Noon ET (first pro softball on network TV). Utah swept Bandits to win 2025 title. If Portland wins tonight, Utah faces a team that beat them 10-2 on July 15.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, image concept
+- **Follow-Up Opportunities:**
+  - Championship Series coverage July 25-27
+  - Montana Fouts postseason performance
+  - ABC broadcast viewership data
+
+---
+
 ## 2026-07-22
 
 ### Story 1: AUSL Play-in Tomorrow — Bandits vs. Cascade (Correction from July 21)
