@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-07-23
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-23 | T1 | LeBron James — Day 24 of Free Agency; Decision Now Imminent; Heat 48%, Cavs 27% | X, FB, Article | FOLLOW UP |
+| 2026-07-23 | T1 | Stephen Curry Gets Basketball Hall of Fame "Beyond the Arc" Exhibit While Still Playing | X, FB, Article | NEW |
+| 2026-07-23 | T2 | 2026 NBA All-Summer League Teams: Lendeborg MVP, Boozer, Wilson, Burries, Thomas | X, FB | FOLLOW UP |
+| 2026-07-23 | T2 | Wembanyama Extension Decoded — Left ~$50M on the Table; 25% Max vs 30% Supermax | X, FB | FOLLOW UP |
+| 2026-07-23 | T2 | Kawhi Investigation ~Year Old, Still No Timeline; Raptors Cannot Plan | X, FB | FOLLOW UP |
+
+### STORY 1: LeBron James — Day 24 of Free Agency
+- **Tier:** 1
+- **Category:** NBA Free Agency / LeBron James
+- **Key facts:** Day 24 unsigned; Heat ~48%/Cavs ~27%/Warriors ~14%/76ers in mix (Kalshi); Rich Paul: "not going to be rushed" (Game Over podcast); LeBron: "I won't hold you guys up too much longer" (Fanatics Fest July 17); Heat YouTube "Introductory Press Conference" event for July 27 briefly posted then removed; NBA schedule still withheld; LeBron quote: "I want to join a franchise that shares the same model as myself"; Yahoo Sports Warriors report earlier this week conflicts with odds
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** LeBron announcement; press conference; jersey reveal; teams he passes over adjust plans
+
+### STORY 2: Stephen Curry Hall of Fame Exhibit
+- **Tier:** 1
+- **Category:** NBA / Stephen Curry / Golden State Warriors
+- **Key facts:** Basketball Hall of Fame unveiled "Beyond the Arc" exhibit while Curry is still an active player; developed with Thirty Ink (his business team); covers basketball, entrepreneurship, philanthropy, family; breaks HoF tradition of honoring only retired players; Curry résumé: 4 titles, 2 MVPs (2016 unanimous), all-time 3-point record
+- **Status:** NEW
+- **Follow-up ideas:** Curry's legacy legacy features; future induction; Warriors season preview
+
+### STORY 3: 2026 NBA All-Summer League Teams
+- **Tier:** 2
+- **Category:** NBA Summer League
+- **Key facts:** First Team: Cameron Boozer (Memphis), Brayden Burries, Yaxel Lendeborg (GS Warriors/MVP), Meleek Thomas, Caleb Wilson; Lendeborg: 2nd player ever (after Davion Mitchell 2021) to win NCAA + SL title same year; Wilson: 35-pt debut (2nd all-time Vegas SL); Boozer: 19/8 in final
+- **Status:** FOLLOW UP (complete — Summer League done)
+- **Follow-up ideas:** Training camp progress; Lendeborg Warriors regular season role
+
+### STORY 4: Wembanyama Extension Decoded
+- **Tier:** 2
+- **Category:** NBA Transactions / San Antonio Spurs
+- **Key facts:** 5yr/$252M; chose 25% max over 30% supermax ($303M); left ~$50M on table; player option Year 5; 3rd-largest rookie extension (behind Cunningham $269M / Mobley $269M); age 22
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Spurs roster construction; championship timeline; salary cap implications
+
+### STORY 5: Kawhi Leonard Investigation
+- **Tier:** 2
+- **Category:** NBA Investigation / Toronto Raptors
+- **Key facts:** ~12 months old; Wachtell Lipton; Aspiration $28M deal + 2nd undisclosed company + expenses in scope; Sanberg 14yr sentence; Silver: must end before season; HoopsHype (July 16): weeks away; Clippers-Raptors on hold (Kawhi for Ingram/Dick/picks); Kawhi 35
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Investigation conclusion; trade approved/voided; Kawhi destination; league penalties
+
 ## 2026-07-21
 
 | Date | Tier | Story | Platforms | Status |
