@@ -5,6 +5,63 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-23
+
+### Story 1: Red Sox Win Streak Ends at 15 — Tied the Record, Couldn't Break It
+- **Date:** 2026-07-23
+- **Tier:** 1
+- **Classification:** FOLLOW UP (results from July 22 doubleheader vs. Orioles)
+- **Angle:** Game 1: Red Sox won 6-3, streak reaches 15, ties 1946 franchise record. Game 2: Orioles won 5-1, streak ends. Final record: 52-49 (was 37-48 before streak). Streak was longest since 2006 for Boston. Team ERA during streak: 1.98; bullpen 7-0, 1.15 ERA. 1946 squad: Ted Williams, Johnny Pesky, Bobby Doerr, Dom DiMaggio. AL Wild Card picture still alive at 52-49. 2018 Sox (108 wins, World Series) only had a 10-game streak.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - AL Wild Card race through August
+  - Boston trade deadline posture (buyer or seller at 52-49)
+
+### Story 2: Ohtani Bullpen Session — "Looked Good," No Return Date
+- **Date:** 2026-07-23
+- **Tier:** 1
+- **Classification:** FOLLOW UP (bullpen session completed July 22 — ahead of originally targeted July 25-26 window)
+- **Angle:** Ohtani threw ~31-pitch bullpen session at Citizens Bank Park (Philadelphia) on July 22. Mark Prior: "It looked good." Dave Roberts: won't return to rotation on current road trip, no timetable. Threw full arsenal (per The Athletic's Fabian Ardaya). Last started July 3. Received Orthovisc knee injection during/after All-Star break — required ~2-week window before throwing. Before injury: 8-2, 1.79 ERA, 95 K in 85.2 IP. Dodgers 64-38. Next steps: live BP → sim game → rehab or direct return.
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Next throwing milestone (live BP session)
+  - Return-to-rotation timeline announcement
+  - Cy Young vote implications
+
+### Story 3: MLB Trade Deadline — 11 Days Out, Mets Selling, Skubal Unknown
+- **Date:** 2026-07-23
+- **Tier:** 2
+- **Classification:** NEW (deadline angle: 11 days out, market heating up)
+- **Angle:** Deadline August 3 at 6 PM ET. Early deals done: Royals/Pearson (from HOU, July 22), Dodgers/Halvorsen (from COL, July 20), Cubs/Civale (from OAK, July 18). Skubal: ESPN's Passan says "far more likely than not" to move; rival execs say Tigers hold. Detroit 4th-best record since June 1, within Wild Card range. Asking price "enormous." Mets in full sell mode. Angels shopping Detmers + Soriano. Names: Arraez, A. Chapman, S. Gray, Alcantara, Gausman, J. Ryan on trade lists.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Skubal final outcome (trade/stay)
+  - Mets trade partners found
+  - Deadline day deals (August 3)
+
+### Story 4: White Sox Still Lead AL Central Without Kyle Teel
+- **Date:** 2026-07-23
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Edgar Quero called up; White Sox still leading despite Teel injury)
+- **Angle:** Teel: left high ankle sprain, 6-12 weeks IL, season likely over. Quero (22, switch-hitter) called up from Triple-A Charlotte — next in pipeline, not external placeholder. White Sox 52-49, lead Guardians by 1 game, 2nd-best run differential in AL. Colson Montgomery: 21 HR, first player to hit 20+ HR in first 275 AB in each of first two ML seasons. Rebuild arc: 41-121 (2024, worst record in MLB history) → 60-102 (2025) → 52-49 AL Central leaders (2026). Trade deadline August 3: buyer/seller signal imminent.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Quero performance as primary catcher
+  - White Sox trade deadline posture (buyer or seller)
+  - AL Central standings vs. Cleveland
+
+### Story 5: Nolan Arenado — 2,000th Hit Cements Hall of Fame Credentials
+- **Date:** 2026-07-23
+- **Tier:** 3
+- **Classification:** FOLLOW UP (milestone reached July 20 vs. Oakland; Arenado now with Arizona Diamondbacks)
+- **Angle:** 2,000th hit: double to left field in 5th inning vs. Jeffrey Springs (OAK), Chase Field, July 20. 297th player in MLB history to 2,000 hits. Joins 6-player club: 2,000+ hits, 350+ HR, 10+ Gold Gloves. Other 5: Griffey Jr., Mays, Schmidt, Bench, Kaline — all HOF. Only active member. Only 3B in club. Career: .280/.337/.503, 366 HR, 1,228 RBI, 1,038 R, 424 2B, 10 GG, 5 SS, 8× All-Star. 35 years old, first season with Arizona Diamondbacks. Diamondbacks lost to Oakland 5-2 on the night.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Arenado HR milestone watch (400 career HR)
+  - Arizona Diamondbacks second-half results
+
+---
+
 ## 2026-07-22
 
 ### Story 1: Red Sox Doubleheader — Two Cracks at Franchise History

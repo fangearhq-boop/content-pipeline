@@ -1,0 +1,242 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-23",
+  "compiled_at": "2026-07-23T10:32:12.588735+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Red Sox Streak Ends at 15 — Tied the Record, Then Lost Game 2",
+      "tier": 1,
+      "status": "",
+      "angle": "The Red Sox won Game 1 of Wednesday's doubleheader 6-3 to extend the streak to 15 games and tie the 1946 franchise record (Ted Williams era). Then the Orioles beat them 5-1 in Game 2 to end it. The streak is over at 15 — franchise record tied, not broken. Before the streak Boston was 37-48; they're now 52-49 and back in the AL Wild Card picture.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The Red Sox tied the 1946 franchise win streak record in Game 1.\n\nThen the Orioles beat them 5-1 in Game 2.\n\n15-game win streak. Franchise record tied. Not broken. Season record: 52-49 and back in the Wild Card picture. #RedSox",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RedSox"
+          ],
+          "char_count": 227
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Boston was 37-48 before the streak started.\n\nThey went 15-0 to get to 52-49. Tied the record set by the 1946 squad with Ted Williams.\n\nThen Baltimore held them to one run in Game 2 and it was over.\n\nThe streak gave them a season. #RedSox #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RedSox",
+            "#MLB"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-red-sox-streak-ends-15-franchise-record-tied.html",
+        "headline": "15. Not 16. The Orioles End the Red Sox Win Streak Before History Could Be Fully Rewritten.",
+        "word_count": 632
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Red Sox Streak Ends at 15\n\n#### Image Concept 1 — 8:00 AM ET Post\n\n- **Placement:** X Post 1 / Facebook Long-Form Post\n- **Search term:** `Boston Red Sox celebration`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1080x1350 (4:5 vertical)\n- **Status:** not_started\n- **Notes:** Team celebration or on-field celebration preferred; 2026 uniforms\n\n#### Image Concept 2 — 9:00 AM ET Post\n\n- **Placement:** X Post 2 / Facebook secondary\n- **Search term:** `Fenway Park Red Sox`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1080x1350 (4:5 vertical)\n- **Status:** not_started\n- **Notes:** Fenway Park wide shot or game action; iconic Green Monster preferred\n\n#### Article Hero — Story 1\n\n- **Placement:** article-01 hero\n- **Search term:** `Boston Red Sox Fenway Park`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1200x630 (1.91:1 landscape)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Ohtani Bullpen Session — Positive, but No Return Date Set",
+      "tier": 1,
+      "status": "",
+      "angle": "Shohei Ohtani threw an approximately 31-pitch bullpen session at Citizens Bank Park in Philadelphia on July 22 — ahead of the initially targeted July 25-26 window. Pitching coach Mark Prior said \"It looked good.\" Despite the positive session, Dave Roberts confirmed Ohtani won't return to the rotation on the current road trip. He last pitched July 3. No return timetable announced.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Shohei Ohtani threw a bullpen session Wednesday in Philadelphia. About 31 pitches. Pitching coach Mark Prior: \"It looked good.\"\n\nDave Roberts confirmed he won't pitch on the current road trip. No return date set.\n\nHe last started July 3. #Dodgers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#MLB"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-ohtani-bullpen-session-dodgers-return-timeline.html",
+        "headline": "Ohtani Threw Wednesday. Prior Said It Looked Good. Roberts Still Has No Return Date.",
+        "word_count": 683
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ohtani Bullpen Session\n\n#### Image Concept 1 — 10:30 AM ET Post\n\n- **Placement:** X Post 1 / Facebook Long-Form Post\n- **Search term:** `Shohei Ohtani Los Angeles Dodgers pitcher`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1080x1350 (4:5 vertical)\n- **Status:** not_started\n- **Notes:** Pitching delivery or bullpen warm-up; Dodgers uniform\n\n#### Image Concept 2 — secondary\n\n- **Placement:** Facebook secondary / article supplemental\n- **Search term:** `Shohei Ohtani Dodgers batting`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1080x1350 (4:5 vertical)\n- **Status:** not_started\n- **Notes:** Ohtani as hitter/DH while knee recovery ongoing\n\n#### Article Hero — Story 2\n\n- **Placement:** article-02 hero\n- **Search term:** `Shohei Ohtani Los Angeles Dodgers`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1200x630 (1.91:1 landscape)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Trade Deadline 11 Days Out — Mets Sell, Skubal Drama Continues",
+      "tier": 2,
+      "status": "",
+      "angle": "August 3 trade deadline is 11 days away. Mets have shifted to full sell mode — majority of roster available. Angels making Reid Detmers and Jose Soriano available. Skubal situation remains the biggest story: ESPN's Passan says Tigers \"far more likely than not\" to move him; rival execs increasingly say Tigers hold. Other top names: Luis Arraez (~90% move probability), Aroldis Chapman, Sonny Gray, Sandy Alcantara. Confirmed recent smaller deals: Royals acquired Nate Pearson from Astros (July 22), Dodgers acquired Seth Halvorsen from Rockies (July 20), Cubs acquired Aaron Civale from Athletics (July 18).",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "August 3 trade deadline is 11 days away.\n\nMets are in full sell mode. Angels shopping starters. Skubal situation: ESPN says he moves, rival execs increasingly say Tigers hold.\n\nThe market is heating up. A lot can happen in 11 days. #MLB #TradeDeadline",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#TradeDeadline"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-mlb-trade-deadline-11-days-mets-skubal-market.html",
+        "headline": "August 3 Is 11 Days Away. The Trade Market Is Heating Up and No One Knows What Happens With Skubal.",
+        "word_count": 692
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Trade Deadline\n\n#### Image Concept 1 — 12:30 PM ET Post\n\n- **Placement:** X Post 1 / Facebook Long-Form Post\n- **Search term:** `Tarik Skubal Detroit Tigers`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1080x1350 (4:5 vertical)\n- **Status:** not_started\n- **Notes:** Pitching delivery; Tigers uniform; most prominent trade candidate\n\n#### Article Hero — Story 3\n\n- **Placement:** article-03 hero\n- **Search term:** `MLB trade deadline baseball`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1200x630 (1.91:1 landscape)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "White Sox AL Central Lead — Life After Kyle Teel",
+      "tier": 2,
+      "status": "",
+      "angle": "Kyle Teel (left high ankle sprain, 6-12 weeks out, likely season-ending) has been replaced by 22-year-old Edgar Quero from Triple-A Charlotte. White Sox lead the AL Central by 1 game over Cleveland Guardians. Context on this team's rebuild arc: 121-41 (2024 worst MLB record ever) → 60-102 (2025) → 52-49 AL Central leaders today. Second-best run differential in the AL. Colson Montgomery is hitting 21 HR.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Kyle Teel is out 6-12 weeks (left high ankle sprain). Edgar Quero gets his shot.\n\nThe White Sox are still leading the AL Central by 1 game. Still have the 2nd-best run differential in the AL.\n\nThe rebuild keeps going. #WhiteSox #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox",
+            "#MLB"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-white-sox-al-central-life-after-teel-quero.html",
+        "headline": "Kyle Teel Is Out. The White Sox Are Still Leading the AL Central. The Rebuild Keeps Going.",
+        "word_count": 675
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "White Sox / Kyle Teel\n\n#### Image Concept 1 — 3:00 PM ET Post\n\n- **Placement:** X Post 1 / Facebook Long-Form Post\n- **Search term:** `Chicago White Sox Guaranteed Rate Field`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1080x1350 (4:5 vertical)\n- **Status:** not_started\n- **Notes:** Game action or stadium shot; 2026 uniforms\n\n#### Article Hero — Story 4\n\n- **Placement:** article-04 hero\n- **Search term:** `Chicago White Sox Colson Montgomery`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1200x630 (1.91:1 landscape)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Nolan Arenado and the HOF Club — The Case Keeps Building",
+      "tier": 3,
+      "status": "",
+      "angle": "Arenado's 2,000th career hit (a double to left off Jeffrey Springs at Chase Field on July 20 vs. Oakland) made him the 297th player in MLB history to reach the mark. He is the 6th player ever to combine 2,000+ hits, 350+ HR, and 10+ Gold Gloves — the others are Griffey Jr., Willie Mays, Mike Schmidt, Johnny Bench, and Al Kaline. All five are Hall of Famers. He is the only active player in the club. The deeper HOF credentials angle: his career .280/.337/.503 line with 366 HR, 1,228 RBI, 10 GG, and 5 Silver Sluggers at 35 years old.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Nolan Arenado's 2,000th career hit on Monday made him the 6th player in MLB history with 2,000+ hits, 350+ HR, and 10+ Gold Gloves.\n\nThe other five: Griffey Jr., Willie Mays, Mike Schmidt, Johnny Bench, Al Kaline.\n\nAll five are in Cooperstown. #Diamondbacks #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Diamondbacks",
+            "#MLB"
+          ],
+          "char_count": 262
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-nolan-arenado-2000-hits-hall-of-fame-credentials.html",
+        "headline": "Nolan Arenado Is the 6th Member of the Most Exclusive Club in Baseball. The Other 5 Are All in Cooperstown.",
+        "word_count": 664
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Nolan Arenado HOF Case\n\n#### Image Concept 1 — 6:00 PM ET Post\n\n- **Placement:** X Post 1 / Facebook Long-Form Post\n- **Search term:** `Nolan Arenado Arizona Diamondbacks`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1080x1350 (4:5 vertical)\n- **Status:** not_started\n- **Notes:** Batting, fielding, or milestone moment; D-backs uniform; Chase Field preferred\n\n#### Article Hero — Story 5\n\n- **Placement:** article-05 hero\n- **Search term:** `Nolan Arenado Arizona Diamondbacks`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1200x630 (1.91:1 landscape)\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
