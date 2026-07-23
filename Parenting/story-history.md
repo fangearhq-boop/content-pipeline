@@ -2,6 +2,45 @@
 
 ---
 
+## July 23, 2026
+
+### Story 1: Weekend Family Roundup — July 24–26
+- **Content Pillar:** Local Events
+- **Angle:** Thursday mandatory roundup — upcoming weekend July 24–26 (Fri–Sun). Key picks: Music in the Park at Piñon Valley Park (Fri July 24, 6:30–8:30 PM, 5585 Mule Deer Dr., free); Bronc Day Festival (Sat July 25, Green Mountain Falls, 7:30 AM–3 PM, free); Siamese Twins Trail Guided Hike at Garden of the Gods (Sat July 25, 9–10:30 AM, free); Sunday Market at Acacia Park (Sun July 26, 9 AM–2 PM, downtown COS, free); CMZoo (daily 9 AM–5 PM, advance tickets required, paid); Garden of the Gods (daily, free).
+- **Content Produced:** Article (Jamie Rivera), 2 X posts, Facebook Long-Form + Caption, Image Concept
+- **Tier:** 1
+- **Key Facts:** Music in the Park Piñon Valley July 24 6:30–8:30 PM 5585 Mule Deer Dr. free; Bronc Day July 25 Green Mountain Falls 7:30 AM–3 PM free ~20 min west on US-24 (pancake breakfast 7:30 AM Church in the Wildwood; parade 10 AM Ute Pass Ave.; Gazebo Lake Park 100 Lake St.); Siamese Twins Trail hike July 25 9 AM Garden of the Gods free; Sunday Market Acacia Park July 26 9 AM–2 PM downtown COS free; CMZoo 4250 Cheyenne Mountain Zoo Rd. daily 9 AM–5 PM advance tickets required cmzoo.org; Garden of the Gods daily sunrise–sunset free; springsdaily.com/events/this-weekend-with-kids springsdaily.com/events/free-this-weekend springsdaily.com/events/this-weekend
+
+### Story 2: Boon PIVOT Toddler Tower Recall
+- **Content Pillar:** National Parenting
+- **Angle:** TOMY recalls 116,908 Boon PIVOT Collapsible Toddler Towers for tip-over and fall risk. Announced July 16, 2026 by CPSC. Gray and white, ~22×23×35 in. Sold Target/Amazon/Babylist Jan 2023–Jun 2026 ~$150. 11 reports of instability/shifting/leaning; 0 injuries. Remedy: free stabilizing repair part — register at recall.tomy.com/pivot. Stop use immediately.
+- **Content Produced:** Article (Sarah Morales), 1 X post, Facebook Long-Form + Caption, Image Concept
+- **Tier:** 1
+- **Key Facts:** CPSC July 16, 2026; TOMY; 116,908 units; gray and white; ~22 in wide × 23 in deep × 35 in tall; Target/Amazon/Babylist; Jan 2023–Jun 2026; ~$150; 11 reports instability/shifting/leaning; 0 injuries; tip-over/fall risk; recall.tomy.com/pivot (free stabilizing repair part); Sources: cpsc.gov, recall.tomy.com
+
+### Story 3: Bronc Day Festival 2026
+- **Content Pillar:** Local Events
+- **Angle:** 88th annual Bronc Day Festival Saturday July 25 in Green Mountain Falls. Free admission. Pancake breakfast 7:30–10 AM at Church in the Wildwood (10585 Ute Pass Ave.). Parade 10 AM on Ute Pass Ave. — Grand Marshal: retired Colorado Springs Fire Chief Steve Murphy. Afternoon at Gazebo Lake Park (100 Lake St.): live music, family activities, vendors, pie contest through 3 PM. Theme: "Let Freedom Ring" (US 250th + CO 150th). ~20 min west of COS on US-24.
+- **Content Produced:** Article (Jamie Rivera), 1 X post, Facebook Long-Form + Caption, Image Concept
+- **Tier:** 2
+- **Key Facts:** Saturday July 25, 2026; 88th annual; Green Mountain Falls; 7:30 AM–3 PM; free; pancake breakfast 7:30–10 AM Church in the Wildwood 10585 Ute Pass Ave.; parade 10 AM Ute Pass Ave.; Grand Marshal retired Fire Chief Steve Murphy; Gazebo Lake Park 100 Lake St. through 3 PM; pie contest; live music; theme "Let Freedom Ring"; ~20 min west COS on US-24; broncdayfestival.org; Sources: broncdayfestival.org, gazette.com, visitcos.com
+
+### Story 4: Cat & Jack Toddler Girls' Sequerah Sandal Recall
+- **Content Pillar:** National Parenting
+- **Angle:** Target recalls ~211,000 pairs of Cat & Jack Toddler Girls' Sequerah Sandals — tan raffia with decorative plastic pearls that can detach, choking hazard. Announced July 16, 2026 by CPSC. Sold Target stores and Target.com Jan–May 2026 ~$20. 23 reports of pearls coming loose; 0 injuries. Remedy: return to any Target store for full refund.
+- **Content Produced:** Article (Sarah Morales), 1 X post, Facebook Long-Form + Caption, Image Concept
+- **Tier:** 1
+- **Key Facts:** CPSC July 16, 2026; Target; Cat & Jack Toddler Girls' Sequerah Sandal; tan raffia with decorative plastic pearls; ~211,000 pairs; Target stores + Target.com; Jan–May 2026; ~$20; 23 reports pearls loose; 0 injuries; choking hazard; return any Target store for full refund; 1-800-440-0680; cpsc.gov; Sources: cpsc.gov, target.com
+
+### Story 5: Cheyenne Mountain Zoo Centennial
+- **Content Pillar:** Local Events / Evergreen
+- **Angle:** CMZoo celebrating 100th anniversary in 2026. Only accredited mountain zoo in the US; 6,800 ft elevation; 750+ animals, 170+ species. Centennial programming: historic storytelling exhibits, Historic Photo Re-Creation Contest (ages 18+). Open daily 9 AM–5 PM (last admission 4 PM). Advance timed tickets required for members and non-members. Check cmzoo.org for 2026 pricing (varies by day). Tails, Tunes & Tastes adult evening July 30 (21+, not family). Summer keeper talks and enrichment demonstrations.
+- **Content Produced:** Article (Jamie Rivera), 1 X post, Facebook Long-Form + Caption, Image Concept
+- **Tier:** 2
+- **Key Facts:** Cheyenne Mountain Zoo; 100th anniversary 2026 (founded 1926); only accredited mountain zoo in US; 6,800 ft; 750+ animals 170+ species; 4250 Cheyenne Mountain Zoo Rd. CS CO 80906; daily 9 AM–5 PM last admission 4 PM; advance timed tickets required members + non-members; cmzoo.org; Historic Photo Re-Creation Contest ages 18+; Tails Tunes & Tastes July 30 (21+ only); recommended ages 2+; Sources: cmzoo.org
+
+---
+
 ## July 20, 2026
 
 ### Story 1: Build-A-Bear Heartwarming Hugs Bear Recall
