@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-07-23
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-23 | T1 | Hungarian GP Preview — Final Race Before Summer Break; Ferrari Favoured; Antonelli +45 | X, FB, Article | NEW |
+| 2026-07-23 | T1 | F1 Grid Confronts FIA Stewards at Hungary — Belgian GP Inconsistency (Hamilton Penalty/Leclerc Cleared) | X, FB, Article | NEW |
+| 2026-07-23 | T2 | Verstappen Exit Clause Opens Post-Summer-Break; Aston Martin (Newey) Leads Destination Race | X, FB, Article | FOLLOW UP |
+| 2026-07-23 | T2 | Hamilton Eyes Hungarian GP Win No. 9 — All-Time Record at Hungaroring | X, FB, Article | FOLLOW UP |
+| 2026-07-23 | T2 | Championship Math: Antonelli +45; Hamilton-Russell Only 5 Pts Apart After Spa DNF | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Hungarian GP Preview
+- **Tier:** 1
+- **Category:** Race Preview / Hungarian Grand Prix
+- **Key facts:** July 24-26 Hungaroring Budapest; Ferrari pre-event favourite (SF-26 suits medium-speed, high-downforce); Antonelli 204/Hamilton 159 (-45)/Russell 154 (-50); Pirelli softest compounds; 31°C/rain possible Sunday; Aston Martin upgrades; last race before 3-week summer shutdown; McLaren floor revision also in play
+- **Status:** NEW
+- **Follow-up ideas:** FP1/FP2 Friday; qualifying Saturday; race Sunday; championship shift
+
+### STORY 2: FIA Stewards Meeting at Hungarian GP
+- **Tier:** 1
+- **Category:** FIA / Regulation Controversy
+- **Key facts:** Entire F1 grid requested + received FIA stewards meeting at Hungary; flashpoint = Belgian GP: Hamilton 5-sec penalty (unsafe pit release, mechanic struck) + Ferrari fined; Leclerc cleared for Piastri contact same race; David Croft/Sky called inconsistency; Ferrari challenged stewards; new regulations creating new incident types in 2026
+- **Status:** NEW
+- **Follow-up ideas:** Meeting outcome; policy changes; impact on race weekend decisions
+
+### STORY 3: Verstappen Exit Clause — Aston Martin Emerges
+- **Tier:** 2
+- **Category:** Driver Market / Red Bull / Verstappen
+- **Key facts:** Clause actionable August-October; linked to Red Bull Powertrains-Ford 2026 PU performance; McLaren closed (Piastri confirmed/Brown "No conversations"); Aston Martin top destination (Newey first full design project); Alonso Aston Martin contract expires end-2026; Vermeulen loyal-but-conditions; Red Bull lost Lambiase (race engineer) + Marko (advisor)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Clause trigger announcement; Alonso future; 2027 grid finalization
+
+### STORY 4: Hamilton's Eight Wins at Hungaroring
+- **Tier:** 2
+- **Category:** Milestone / Hungarian GP / Lewis Hamilton
+- **Key facts:** 8 all-time record wins at Hungaroring (McLaren + Mercedes era); no other driver has more than 5; now at Ferrari 2nd season; going for No. 9; 45 pts behind Antonelli; Ferrari pre-event favourite
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Race result; win No. 9 milestone; championship gap update
+
+### STORY 5: Championship Math After Belgian GP
+- **Tier:** 2
+- **Category:** Championship Analysis / F1 2026
+- **Key facts:** Antonelli 204/Hamilton 159/Russell 154; Hamilton-Russell 5 pts apart; Russell was P2 entering Spa; first-lap retirement (power deployment, into Hamilton) dropped to P3; ~8 races remaining/~200 pts available; Antonelli 6 wins in 10 races; on track to be first teenager to win F1 title (Vettel was 21 in 2010)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Hungarian GP result; championship trajectory second half; Antonelli teenage record watch
+
 ## 2026-07-21
 
 | Date | Tier | Story | Platforms | Status |

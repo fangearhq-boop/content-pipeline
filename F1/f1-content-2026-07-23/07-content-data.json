@@ -1,0 +1,254 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-23",
+  "compiled_at": "2026-07-23T11:29:14.762007+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Hungarian GP Preview — The Last Race Before the Summer Break",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Hungarian GP week is here.\n\nStandings: Antonelli 204 | Hamilton 159 | Russell 154\n\nFerrari are the pre-race favourites at the Hungaroring.\n\nRain possible Sunday. Last race before summer break.\n\n#HungarianGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HungarianGP",
+            "#F1"
+          ],
+          "char_count": 210
+        },
+        {
+          "label": "Post 1-2",
+          "text": "After Sunday's Hungarian GP, F1 goes dark for 3 weeks.\n\nAntonelli can leave Budapest with an almost unassailable lead.\n\nOr Hamilton and Russell can make the title fight fascinating.\n\nEvery point matters this weekend.\n\n#HungarianGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HungarianGP",
+            "#F1"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-hungarian-gp-preview-antonelli-hamilton-summer-break.html",
+        "headline": "Hungarian GP Preview: Antonelli Can Cement His Lead Before the Summer Break",
+        "word_count": 612
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hungarian GP Preview\n\n#### Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search term:** Kimi Antonelli Mercedes Formula 1\n- **Usage:** X posts (8:00 AM, 10:00 AM), Facebook Story 1\n- **Notes:** Antonelli in Mercedes race suit; action or podium shot\n\n#### Concept 2 — Article Hero (1200x630)\n- **Type:** imagn\n- **Search term:** Hungaroring Formula 1\n- **Usage:** article-01 featured image\n- **Notes:** Circuit aerial or race-action at Hungaroring\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "F1 Grid Confronts FIA Stewards — Drivers Demand Consistency After Belgian GP",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The entire F1 grid formally requested a meeting with FIA stewards at the Hungarian GP.\n\nThe trigger: Belgian GP stewarding.\n\nHamilton: 5-sec penalty for unsafe pit release.\nLeclerc: cleared for Piastri contact.\n\nSame race. Different outcomes.\n\n#F1 #HungarianGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#HungarianGP"
+          ],
+          "char_count": 260
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Sky's David Croft on Belgian GP stewarding:\n\nHamilton penalised. Leclerc cleared.\n\nNow the entire grid meets FIA stewards at Hungary.\n\nThat's what happens when drivers lose faith in officiating.\n\n#F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 199
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-f1-drivers-fia-stewards-meeting-belgian-gp-controversy.html",
+        "headline": "The Entire F1 Grid Is Confronting the FIA Stewards This Weekend — Here's Why",
+        "word_count": 583
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "FIA Stewards Meeting\n\n#### Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search term:** Lewis Hamilton Ferrari Formula 1\n- **Usage:** X posts (10:00 AM, 12:00 PM), Facebook Story 2\n- **Notes:** Hamilton in Ferrari race suit; serious/focused expression\n\n#### Concept 2 — Article Hero (1200x630)\n- **Type:** imagn\n- **Search term:** F1 drivers pitlane Formula 1\n- **Usage:** article-02 featured image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Verstappen Exit Clause — Summer Break Deadline Looms, Aston Martin Leads the Race",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Max Verstappen's Red Bull exit clause window opens after summer break.\n\nMcLaren? Piastri confirmed, door closed.\n\nTop destination: Aston Martin — where Newey is designing the 2027 car.\n\nAlonso's Aston Martin contract ends in 2026.\n\n#F1 #MaxVerstappen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MaxVerstappen"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-verstappen-exit-clause-summer-break-aston-martin.html",
+        "headline": "Verstappen's Exit Clause Window Opens After This Weekend — Aston Martin Now Leads the Race",
+        "word_count": 625
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Exit Clause\n\n#### Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search term:** Max Verstappen Red Bull Racing Formula 1\n- **Usage:** X post (12:00 PM), Facebook Story 3\n- **Notes:** Verstappen in Red Bull race suit; contemplative or interview setting\n\n#### Concept 2 — Article Hero (1200x630)\n- **Type:** imagn\n- **Search term:** Max Verstappen Formula 1\n- **Usage:** article-03 featured image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Hamilton's Hungarian Dominance — Eight Wins, Now Chasing No. 9",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Lewis Hamilton has 8 wins at the Hungarian GP — the all-time record.\n\nHe arrives this weekend in a Ferrari, 45 points behind Antonelli.\n\nWin No. 9 would be historic. And a championship statement.\n\nThe Hungaroring has always been his track.\n\n#HungarianGP #F1 #LewisHamilton",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HungarianGP",
+            "#F1",
+            "#LewisHamilton"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-hamilton-eight-hungarian-gp-wins-chasing-ninth.html",
+        "headline": "Eight Wins and Counting: Can Hamilton Make It Nine in Hungary?",
+        "word_count": 471
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hamilton Hungarian GP Record\n\n#### Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search term:** Lewis Hamilton Mercedes Formula 1\n- **Usage:** X post (2:00 PM), Facebook Story 4\n- **Notes:** Hamilton celebrating or podium shot; emotion conveying milestone\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Championship Math — Antonelli Leads by 45, but Hamilton and Russell Are Only 5 Apart",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "2026 F1 standings after Round 10:\n\nKimi Antonelli — 204 pts\nLewis Hamilton — 159 pts\nGeorge Russell — 154 pts\n\nHamilton and Russell: 5 points apart.\n\nRussell was P2 at Spa. A first-lap DNF changed that.\n\n8 races left. Buckle up.\n\n#F1 #HungarianGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#HungarianGP"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-f1-championship-math-antonelli-hamilton-russell.html",
+        "headline": "The 2026 F1 Title Math: Antonelli's Lead Is Clear — but the Fight Behind Him Is Fascinating",
+        "word_count": 590
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Championship Math\n\n#### Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search term:** Kimi Antonelli Mercedes Formula 1\n- **Usage:** X post (5:00 PM), Facebook Story 5"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

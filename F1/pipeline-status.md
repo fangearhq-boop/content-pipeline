@@ -1,10 +1,21 @@
 # F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
-- **Date**: 2026-07-22
+- **Date**: 2026-07-23
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-23
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss)
+- **PostPlanner exports:** f1fr-postplanner-2026-07-23.xlsx (7 posts) + f1fr-postplanner-tobi-2026-07-23.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-07-23/review-dashboard.html (22 items)
+- **Notes:** HUNGARIAN GP PREVIEW / FIA STEWARDS SHOWDOWN — Hungarian GP July 24-26 (Ferrari pre-event favourite; Antonelli 204/Hamilton 159/Russell 154; Pirelli softest compounds; rain possible Sunday; last race before summer break; Aston Martin + McLaren upgrades); Entire F1 grid requested + got FIA stewards meeting at Hungary over Belgian GP inconsistency (Hamilton 5-sec penalty for pit release/Leclerc cleared for Piastri contact same race; Croft/Sky called it out; Ferrari challenged); Verstappen exit clause window opens after summer break (McLaren closed—Piastri confirmed/Brown "no conversations"; Aston Martin = Newey's first full project = top destination; Alonso Aston Martin contract ends 2026; October deadline); Hamilton 8 wins at Hungaroring all-time record, going for No. 9 in Ferrari; Russell was P2 entering Spa, first-lap DNF dropped to P3 (now only 5 pts behind Hamilton)
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-22
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
