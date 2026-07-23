@@ -1,0 +1,286 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-23",
+  "compiled_at": "2026-07-23T13:06:51.639350+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 (Weekend Roundup)",
+      "type": "X + FB"
+    },
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 (Weekend Roundup)",
+      "type": "X"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2 (Boon PIVOT Recall)",
+      "type": "X + FB"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 3 (Bronc Day)",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 (Cat & Jack Recall)",
+      "type": "X + FB"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 5 (CMZoo Centennial)",
+      "type": "X + FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Weekend Family Roundup — Things to Do with Kids in Colorado Springs July 25–27",
+      "tier": 1,
+      "status": "",
+      "angle": "MANDATORY THURSDAY ROUNDUP — Best picks for families with kids in Colorado Springs and the Pikes Peak region this Friday through Sunday. Leads: Bronc Day Festival (free, Green Mountain Falls, Saturday July 25), Sunday Market at Acacia Park (free, Sunday July 26), Cheyenne Mountain Zoo (centennial year, open daily), Garden of the Gods (always free), Music in the Park at Piñon Valley (free, Friday July 25). Article published to springsdaily.com via parenting-ingest bridge.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "COS families, here's your weekend guide 👇 Bronc Day Festival in Green Mountain Falls (Sat, free all day), Sunday Market at Acacia Park (Sun 9 AM–2 PM, free), and Garden of the Gods all weekend.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 254
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The 88th Bronc Day Festival is Saturday in Green Mountain Falls — pancake breakfast at 7:30 AM, parade at 10 AM, live music and pie contest at Gazebo Lake Park. Free admission, 20 min west of COS on US-24.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": {
+        "long_form": "Your Colorado Springs weekend just got a little easier to plan. 🗓️\n\nHere are the best picks for families this weekend, July 24–26 — and most of them are completely free.\n\n**Bronc Day Festival** is the anchor pick. Saturday, July 25, in Green Mountain Falls — about 20 minutes west of Colorado Springs on US-24. The 88th annual festival runs 7:30 AM to 3 PM and includes a pancake breakfast at Church in the Wildwood (7:30–10 AM), a parade down Ute Pass Avenue at 10 AM, and a full day of live music, family activities, and a pie contest at Gazebo Lake Park. Free admission for everyone.\n\n**Music in the Park at Piñon Valley** gets the Friday evening slot — 6:30 to 8:30 PM at Piñon Valley Park (5585 Mule Deer Dr.), with live music, kickball, basketball, and food trucks. Free.\n\n**Sunday Market at Acacia Park** rounds out the weekend on Sunday, July 26, from 9 AM to 2 PM in downtown Colorado Springs. Fresh produce, local goods, live music, and an easy stroll through Acacia Park. Also free.\n\nGarden of the Gods is always open sunrise to sunset, always free, and this Saturday features a guided Siamese Twins Trail hike at 9 AM — a great way to see the formations with a ranger on hand.\n\nFind the full list of things to do with kids in Colorado Springs this weekend at springsdaily.com, including the best free options and everything else happening around the Pikes Peak region.\n\nWhat does your family have planned this weekend? Drop it in the comments 👇",
+        "image_caption": "Weekend plans: Bronc Day Festival Saturday in Green Mountain Falls 🎪 Free admission, pancake breakfast, parade, pie contest — all day, all ages. Plus Sunday Market, Garden of the Gods, and more free picks for COS families this weekend.\n\nWhat's first on your list this weekend?",
+        "posting_time": "8:00 AM MT"
+      },
+      "article": {
+        "filename": "article-01-weekend-family-roundup.html",
+        "headline": "Things to Do with Kids in Colorado Springs This Weekend (July 24–26)",
+        "word_count": 868
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "**X Image (1200x675):**\n- Prompt: A cheerful family of four walking on a mountain trail in Colorado on a bright summer Saturday morning. Lush green pine-covered hillside in the background, rustic wooden festival banners lining a small-town main street in the middle distance. Parents and two kids (ages 4–8) carry small flags and wear casual summer clothes. Warm golden morning sunlight. Color palette: sky blue, pine green, warm yellow. Painterly illustration style. Clean open space in the bottom third with no subjects, suitable for text overlay.\n\n**Facebook Image (1200x630):**\n- Prompt: A vibrant outdoor weekend scene — a farmers market under mature shade trees in a downtown park, early morning summer light, families browsing colorful produce and handmade goods stalls. Strollers, kids looking at vegetables, adults chatting. Warm and welcoming community atmosphere. Color palette: warm green, cream, golden yellow. Soft watercolor-meets-photography style. Clean bottom third with no major subjects for text overlay.\n\n**Article Hero (1200x630):**\n- Prompt: Wide-angle illustration of a Colorado small-town summer festival — a parade route on a mountain town main street, spectators lining the sidewalk, pine trees and foothills in the background, clear blue sky. Festive and family-friendly mood. Soft natural lighting. Color palette: patriotic red/white/blue accents, pine green, mountain blue. Clean editorial illustration style. Leave the lower third clear of detail for text overlay.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Safety Alert — Boon PIVOT Toddler Tower Recalled for Tip-Over Risk",
+      "tier": 1,
+      "status": "",
+      "angle": "CPSC RECALL — TOMY is recalling 116,908 Boon PIVOT Collapsible Toddler Tower Kitchen Step Stools (announced July 16, 2026) due to tip-over and fall hazards. The gray-and-white plastic and metal towers — about 22 inches wide, 23 inches deep, 35 inches tall — were sold at Target, Amazon, and Babylist from January 2023 through June 2026 for about $150. There have been 11 reports of instability, no injuries. Stop using immediately; store out of children's reach. TOMY will send a free stabilizing repair part. Register at recall.tomy.com/pivot.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "RECALL: TOMY recalls 116,908 Boon PIVOT Toddler Towers for tip-over risk. Sold at Target, Amazon, Babylist Jan 2023–Jun 2026 (~$150). Stop use immediately. TOMY will send a free repair part. recall.tomy.com/pivot\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": {
+        "long_form": "Heads up for Colorado Springs families: if you have a Boon PIVOT Collapsible Toddler Tower in your kitchen, stop using it now. ⚠️\n\nTOMY announced a recall on July 16 covering 116,908 of these kitchen step stools after 11 reports of the units becoming unstable, shifting, or leaning while in use. No injuries have been reported, but the tip-over and fall risk is real — and these are used by toddlers standing at counter height.\n\nThe recalled towers are gray and white, roughly 22 inches wide, 23 inches deep, and 35 inches tall. They were sold at Target, Amazon, and Babylist from January 2023 through June 2026 for around $150.\n\nThe good news: TOMY is handling the remedy through a free stabilizing repair part, not a return or a refund. Register your tower at recall.tomy.com/pivot and they'll send the part to you.\n\nIn the meantime, stop using the tower and store it somewhere out of your kids' reach.\n\nDo you have a Boon PIVOT tower at home?",
+        "image_caption": "RECALL: 116,908 Boon PIVOT Toddler Towers recalled for tip-over risk. Stop using now. Register at recall.tomy.com/pivot for a free repair part from TOMY.\n\nHas anyone else dealt with a kitchen step stool recall before?",
+        "posting_time": "10:30 AM MT"
+      },
+      "article": {
+        "filename": "article-02-boon-pivot-recall.html",
+        "headline": "TOMY Recalls 116,908 Boon PIVOT Toddler Towers Over Tip-Over and Fall Hazards",
+        "word_count": 616
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "**X Image (1200x675):**\n- Prompt: A safety alert–themed flat-lay illustration — a toddler kitchen step stool (gray and white abstract, no brand markings) with a bold caution symbol nearby. Clean kitchen background with soft neutral tones. Stark, clear, attention-grabbing composition. Color palette: white, light gray, warm red-orange accent. Modern flat graphic style. Leave the bottom third clear for text overlay.\n\n**Facebook Image (1200x630):**\n- Prompt: A concerned parent in a modern kitchen looking at a toddler-height kitchen step stool with a caution symbol visible. No brand logos or text on the stool. Warm kitchen lighting, domestic setting. The parent's expression conveys attentiveness and concern. Color palette: warm neutrals, white, soft red accent. Realistic editorial illustration style. Clean bottom third with no subjects.\n\n**Article Hero (1200x630):**\n- Prompt: Clean editorial illustration of a kitchen safety theme — an empty kitchen step stool (gray and white, abstract, no brand markings) in a modern kitchen setting, with a visual warning element suggesting caution. Clear, serious, informative tone. Color palette: white, light gray, red-orange. Leave the lower third area open for text overlay.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Bronc Day Festival — Green Mountain Falls' Beloved Summer Tradition Is Saturday",
+      "tier": 2,
+      "status": "",
+      "angle": "LOCAL EVENT — The 88th annual Bronc Day Festival returns to Green Mountain Falls (20 minutes west of Colorado Springs on US-24) on Saturday July 25, 7:30 AM–3 PM. This year's theme is \"Let Freedom Ring!\" honoring the USA's 250th anniversary and Colorado's 150th. Free admission. Events include: pancake breakfast 7:30–10 AM at Church in the Wildwood (10585 Ute Pass Ave); parade at 10 AM on Ute Pass Ave; family activities, live music, and a pie contest at Gazebo Lake Park (100 Lake St). Grand Marshal: retired Colorado Springs Fire Chief Steve Murphy. Free and family-friendly for all ages.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The 88th annual Bronc Day Festival is Saturday in Green Mountain Falls — free, pancake breakfast at 7:30 AM, parade at 10 AM, family activities all day at Gazebo Lake Park. About 20 min west of COS on US-24.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": {
+        "long_form": "Green Mountain Falls is throwing a party this Saturday — and you're invited. 🏔️\n\nThe 88th annual Bronc Day Festival runs from 7:30 AM to 3 PM on Saturday, July 25, with free admission and enough going on to fill a whole family morning.\n\nThe day kicks off with a pancake breakfast at Church in the Wildwood (10585 Ute Pass Ave.) from 7:30 to 10 AM — a community tradition that draws people from all over the Pikes Peak region. At 10 AM, the parade steps off on Ute Pass Avenue with this year's Grand Marshal, retired Colorado Springs Fire Chief Steve Murphy.\n\nAfter the parade, the action moves to Gazebo Lake Park (100 Lake St.) for family activities, live music, vendors, and the annual pie contest through 3 PM.\n\nThis year's theme is \"Let Freedom Ring\" — a nod to both the U.S. 250th anniversary and Colorado's 150th. Green Mountain Falls is about 20 minutes west of Colorado Springs on US-24.\n\nHave you been to Bronc Day before? What's your favorite part?",
+        "image_caption": "The 88th Bronc Day Festival is Saturday in Green Mountain Falls 🎉 Pancake breakfast at 7:30 AM, parade at 10 AM, live music and pie contest all day at Gazebo Lake Park. Free admission, all ages. About 20 min west of COS on US-24.\n\nAre you heading out to Green Mountain Falls this Saturday?",
+        "posting_time": "12:30 PM MT"
+      },
+      "article": {
+        "filename": "article-03-bronc-day-festival.html",
+        "headline": "Bronc Day Festival Returns Saturday to Green Mountain Falls for Its 88th Year",
+        "word_count": 737
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "**X Image (1200x675):**\n- Prompt: A small-town Colorado mountain summer festival scene — a parade on a charming main street flanked by pine trees and mountain foothills, flags waving, families lining the sidewalk. Bright Saturday morning sun. Festive, community-oriented atmosphere. Color palette: patriotic red/white/blue, pine green, sky blue. Painterly illustration style with warm light. Clean open bottom third for text overlay.\n\n**Facebook Image (1200x630):**\n- Prompt: Aerial-ish wide view of a summer festival in a Colorado mountain town park — craft tents, a small stage with performers, families gathered on blankets and folding chairs, a lake or pond in the background with trees. Warm afternoon light, festive and relaxed. Color palette: green, blue, golden yellow. Soft editorial illustration style. Clean lower third for text overlay.\n\n**Article Hero (1200x630):**\n- Prompt: Panoramic festival scene — a lively summer community gathering in a mountain park with a gazebo stage, families, colorful vendor booths, and Colorado pine-covered hills in the background. Clear blue sky, warm afternoon light. Color palette: sky blue, pine green, warm earth tones. Painterly wide-format illustration. Leave bottom third open.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Safety Alert — Target Cat & Jack Toddler Sandals Recalled for Choking Hazard",
+      "tier": 2,
+      "status": "",
+      "angle": "CPSC RECALL — Target is recalling about 211,000 pairs of Cat & Jack Toddler Girls' Sequerah Sandals (July 16, 2026) after decorative plastic pearls were found to detach from the tan raffia sandals, posing a choking hazard. Sold in Target stores and at Target.com from January through May 2026 for about $20. Target has received 23 reports of pearls coming loose. Stop using immediately; return to any Target store for a full refund.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "RECALL: Target is recalling ~211,000 Cat & Jack Toddler Girls' Sequerah Sandals — plastic pearls can detach, choking hazard. Sold Jan–May 2026 for ~$20. Return to any Target for a full refund.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": {
+        "long_form": "If your toddler has worn the tan Cat & Jack sandals with the little decorative pearls, it's time to check your shoe bin. 👟\n\nTarget is recalling about 211,000 pairs of Cat & Jack Toddler Girls' Sequerah Sandals after 23 reports of the plastic pearls detaching from the shoe. Detached plastic pearls are a choking hazard for young kids, and these sandals were popular — sold at Target stores and Target.com from January through May 2026 for about $20.\n\nThe recall was announced July 16. The sandals are described as tan raffia with decorative plastic pearls.\n\nThe remedy is straightforward: stop using the sandals, and return them to any Target store for a full refund. No need to call ahead or mail them in — just bring them back.\n\nDid you pick these up earlier this year?",
+        "image_caption": "RECALL: ~211,000 pairs of Cat & Jack Toddler Girls' Sequerah Sandals are being recalled. Decorative plastic pearls can detach — choking hazard. Sold Jan–May 2026 at Target for ~$20. Return to any Target for a full refund. ⚠️\n\nDo you have these at home?",
+        "posting_time": "3:00 PM MT"
+      },
+      "article": {
+        "filename": "article-04-cat-jack-sandal-recall.html",
+        "headline": "Target Recalls About 211,000 Cat &amp; Jack Toddler Sandals Over Choking Hazard",
+        "word_count": 689
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "**X Image (1200x675):**\n- Prompt: A product safety warning flat-lay — a pair of children's tan sandals (abstract, no brand logos) next to a small collection of tiny plastic beads spilled on a white surface, with a caution symbol. Clean white background, stark and clear. Color palette: tan/beige, white, red-orange warning accent. Modern flat graphic style. Clean bottom third for text overlay.\n\n**Facebook Image (1200x630):**\n- Prompt: Close-up illustration of tiny round plastic pearl-like beads scattered on a light wooden floor — a choking hazard awareness scene. A child's sandal (abstract, no brand logos) in the background, slightly out of focus. Serious but not alarming tone. Color palette: warm beige, tan, white, light wood tone. Soft editorial illustration style. Clean bottom third with open space for text overlay.\n\n**Article Hero (1200x630):**\n- Prompt: Safety-themed editorial illustration — a pair of toddler sandals (abstract, no brand markings, tan raffia texture) with small scattered plastic beads nearby on a white background. Clear and informative visual tone. Color palette: tan, white, light gray, red accent. Clean modern illustration. Leave the lower third open.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "CMZoo Turns 100 — A Centennial Summer at Colorado Springs' Favorite Zoo",
+      "tier": 2,
+      "status": "",
+      "angle": "LOCAL FEATURE — Cheyenne Mountain Zoo (4250 Cheyenne Mountain Zoo Rd) is celebrating its 100th anniversary in 2026, making this summer a milestone visit for Colorado Springs families. The zoo is open daily 9 AM–5 PM (last admission 4 PM); advance timed tickets required (check cmzoo.org for 2026 pricing). In 2026 the zoo is sharing centennial stories and running a Historic Photo Re-Creation Contest (ages 18+) for families to engage with CMZoo history. The zoo sits at 6,800 feet elevation — the only accredited mountain zoo in the US — and is home to more than 750 animals. Good for all ages; recommended for 2 and up.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Cheyenne Mountain Zoo is celebrating its 100th anniversary this summer — Colorado's only accredited mountain zoo, 750+ animals at 6,800 feet. Open daily 9 AM–5 PM. Advance tickets required. Check cmzoo.org\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": {
+        "long_form": "If you haven't visited Cheyenne Mountain Zoo yet this summer, this is the year to make it happen. 🦒\n\nCMZoo is celebrating its 100th anniversary in 2026 — a genuine milestone for what's become one of the most distinctive zoos in the country. It's the only accredited mountain zoo in the United States, perched at 6,800 feet with more than 750 animals representing 170+ species.\n\nIn its centennial year, the zoo has been sharing the stories behind its 100-year history and running a Historic Photo Re-Creation Contest (ages 18 and up) where families can connect with the zoo's past in a hands-on way.\n\nThe zoo is open daily from 9 AM to 5 PM, with last admission at 4 PM. Advance timed tickets are required for both members and non-members — check cmzoo.org for 2026 pricing and availability before you head out.\n\nCMZoo is located at 4250 Cheyenne Mountain Zoo Rd., Colorado Springs. Recommended for ages 2 and up.\n\nHave you taken your kids to CMZoo this summer? What's their favorite animal?",
+        "image_caption": "Cheyenne Mountain Zoo is celebrating 100 years in 2026 🎂 Colorado's only accredited mountain zoo, 750+ animals at 6,800 feet. Open daily 9 AM–5 PM. Advance tickets required — check cmzoo.org.\n\nWhat's your family's favorite animal at CMZoo?",
+        "posting_time": "6:00 PM MT"
+      },
+      "article": {
+        "filename": "article-05-cmzoo-centennial.html",
+        "headline": "Cheyenne Mountain Zoo Marks Its 100th Year — A Centennial Summer Worth Visiting",
+        "word_count": 774
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "**X Image (1200x675):**\n- Prompt: A dramatic but warm illustration of a mountain zoo setting — a giraffe overlooking a rocky Colorado hillside at golden hour, pine trees and blue mountain peaks visible in the distance. Celebratory centennial mood — a sense of history and majesty. Color palette: warm amber, sage green, sky blue, mountain gray. Painterly wide-format style. Clean bottom third for text overlay.\n\n**Facebook Image (1200x630):**\n- Prompt: A family of four at a mountain zoo on a sunny summer day — parents and two kids (ages 5–10) leaning on a railing, looking up at a tall giraffe in a rocky Colorado mountain landscape. Joy and wonder on the kids' faces. Warm summer light, elevation visible in the wide open blue sky. Color palette: blue, green, warm golden light. Friendly editorial illustration style. Clean lower third for text overlay.\n\n**Article Hero (1200x630):**\n- Prompt: Wide scenic illustration of a mountain zoo at golden hour — rocky red sandstone formations, pine-covered Colorado hillside, a zoo path with visitors in the distance, and a giraffe silhouette against a sweeping mountain view. Centennial milestone mood — timeless and majestic. Color palette: amber, pine green, sky blue, red sandstone. Painterly panoramic style. Leave the lower third clear for text overlay.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

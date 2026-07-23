@@ -1,25 +1,45 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: July 22, 2026
+## Latest Run: July 23, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|
-| Research (web search) | COMPLETE | AAP vs CDC 2026 vaccine schedule split (AAP: 18 diseases; CDC: 11; dropped hep A/B, meningococcal, rotavirus, flu, RSV; ACIP disbanded June 2025; 12 orgs back AAP; Sources: AJMC, The Hill, HealthyChildren.org); Kith Retail children's loungewear recall (CPSC June 2026; "Kithmas" plaid sets burn hazard; ~130 units; Dec 2025–Jan 2026; ~$75; destroy + email recalls@kithnyc.com; cpsc.gov); D49 Student Success Center (opens Aug 3; former Falcon Elementary of Technology; 2 preschool classrooms Mon–Thu + PEAK + Elevates 18–21 + Base49; d49.org); CMZoo Dog Days Fridays (July 24 + July 31; 9am-5pm; dog tickets required advance only; cmzoo.org; adults $34.75, kids 3–11 $29.75); Rosemont Reservoir fishing (mid-May–Oct, 5am-9pm; flies/lures only; CO license/SWA pass ages 16+; 0.5-mile hike; swimming prohibited; camping expansion status uncertain; csu.org, cpw.state.co.us) |
-| Story History Check | COMPLETE | All 5 stories NEW or first-dedicated-angle FOLLOW-UP — no overlap with July 20 run |
-| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); ### STORY N: format |
-| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tags; all facts from web search via cpsc.gov, AJMC, The Hill, HealthyChildren.org, d49.org, cmzoo.org, cpw.state.co.us, csu.org |
-| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
-| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (S1:2, S2:2, S3:1, S4:1, S5:1); code blocks; all ≤280 chars; 4 hashtags each; times in MT |
-| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; NO hashtags; COS voice |
+| Research (web search) | COMPLETE | Weekend events July 24–26: Music in the Park Piñon Valley July 24 free; Bronc Day Festival July 25 Green Mountain Falls free; Siamese Twins Trail hike July 25 9 AM free; Sunday Market Acacia Park July 26 free; CMZoo daily paid; TOMY Boon PIVOT Toddler Tower recall CPSC July 16 116,908 units tip-over risk recall.tomy.com/pivot free repair part; Cat & Jack Sequerah Sandal recall CPSC July 16 ~211,000 pairs pearls choking hazard return any Target full refund; Bronc Day Festival 88th annual July 25 Green Mountain Falls pancake breakfast 7:30 AM parade 10 AM Grand Marshal retired Fire Chief Steve Murphy theme "Let Freedom Ring"; CMZoo 100th anniversary 2026 founded 1926 only accredited mountain zoo US 6,800 ft 750+ animals |
+| Story History Check | COMPLETE | S1 Weekend Roundup (Thursday mandatory); S2 Boon PIVOT Recall (follow-up: separate from July 17 Backpack Bash coverage; TOMY Boon PIVOT vs SDADI July 20); S3 Bronc Day Festival (new dedicated article); S4 Cat & Jack Sandal Recall (new angle/article July 23 vs July 18 coverage); S5 CMZoo Centennial (follow-up from July 19, new centennial framing) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2); ### STORY N: format |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tags; all facts from web search via cpsc.gov, visitcos.com, broncdayfestival.org, cmzoo.org, gazette.com |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Jamie Rivera (S1, S3, S5), Sarah Morales (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 6 posts (S1:2, S2:1, S3:1, S4:1, S5:1); ### STORY N: + #### Text Post A — time + code blocks; all ≤280 chars; 4 hashtags each; times in MT |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; **Long-Form Post (time)** + **Image Caption (time)** format; engagement questions; NO hashtags; COS voice |
 | Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts; 1200×675 (X) and 1200×630 (FB/hero); clean bottom third; no celebrity likenesses; no brand logos |
-| Image Manifest | COMPLETE | 07-image-manifest.md — 5 stories; x_image + article_hero for all; facebook_image for S1+S2; all not_started; gemini base_only; kAHCKfCZgk0 brand kit |
-| Articles | COMPLETE | 5 articles (500–900 words; semantic HTML5; What's Next sections; 0 exclamation marks; no figure tags; Quick Reference tables in S2/S4/S5); bylines: Sarah Morales (A1, A3, A5), Jamie Rivera (A2, A4) |
-| Fact-Check | COMPLETE | verify-facts.py passed; 88 claims; image not_started warnings cosmetic (expected for gemini source) |
-| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles; 27 dashboard items |
-| Dashboard | COMPLETE | review-dashboard.html — 27 items |
-| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-07-22.xlsx (7 posts 13:12–20:42 MT) + TOBI cosp-postplanner-tobi-2026-07-22.xlsx (7 TOBI posts) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 5 stories × 3 image types (x_image + facebook_image + article_hero); all not_started; gemini base_only; kAHCKfCZgk0 brand kit |
+| Articles | COMPLETE | 5 articles (500–900 words; semantic HTML5; What's Next sections; 0 exclamation marks; no figure tags; Quick Reference tables in all 5); bylines: Jamie Rivera (A1, A3, A5), Sarah Morales (A2, A4) |
+| Fact-Check | COMPLETE | verify-facts.py passed; 72 claims; 166 HIGH, 2 MEDIUM, 20 LOW; image not_started warnings cosmetic (expected for gemini source) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 6 X posts, 5 FB posts, 5 articles, 5 images; 26 dashboard items |
+| Dashboard | COMPLETE | review-dashboard.html — 26 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-07-23.xlsx (6 posts 13:36–20:36 MT) + TOBI cosp-postplanner-tobi-2026-07-23.xlsx (6 TOBI posts) |
 | Dashboard Push | Attempted — proxy blocks write to content-dashboards repo | Same environment restriction as all prior runs |
 | WordPress Publish | Attempted — proxy blocks WordPress API (403 Forbidden) | Same environment restriction as all prior runs |
+
+### 2026-07-23 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 6 X posts + 5 FB long-form + 5 FB captions = 16 total posts (PostPlanner xlsx: 6 posts 13:36–20:36 MT, 6 TOBI)
+- **Articles:** 5 (bylines: Jamie Rivera [A1, A3, A5], Sarah Morales [A2, A4])
+- **PostPlanner exports:** cosp-postplanner-2026-07-23.xlsx (6 posts, 13:36–20:36 MT), cosp-postplanner-tobi-2026-07-23.xlsx (6 TOBI posts)
+- **Coverage:** Weekend Family Roundup July 24–26 (Music in the Park Piñon Valley July 24 6:30–8:30 PM free; Bronc Day July 25 Green Mountain Falls 7:30 AM–3 PM free; Siamese Twins Trail hike July 25 9 AM free; Sunday Market Acacia Park July 26 9 AM–2 PM free; CMZoo daily paid; Garden of the Gods daily free); TOMY Boon PIVOT Toddler Tower recall (CPSC July 16; 116,908 units; tip-over risk; 11 reports/0 injuries; recall.tomy.com/pivot free repair part; sold Target/Amazon/Babylist Jan 2023–Jun 2026 ~$150); Bronc Day Festival 88th annual (July 25 Green Mountain Falls 7:30 AM–3 PM free; pancake breakfast 7:30 AM; parade 10 AM; Grand Marshal retired Fire Chief Steve Murphy; "Let Freedom Ring" theme; Gazebo Lake Park pie contest); Cat & Jack Sequerah Sandal recall (CPSC July 16; ~211,000 pairs; tan raffia decorative plastic pearls; choking hazard; 23 reports/0 injuries; return any Target full refund; Jan–May 2026 ~$20); CMZoo 100th anniversary 2026 (founded 1926; only accredited mountain zoo US; 6,800 ft; 750+ animals 170+ species; advance timed tickets; Historic Photo Re-Creation Contest ages 18+; cmzoo.org)
+- **Notes:**
+  - Thursday run — Weekend Family Roundup mandatory (S1); confirmed July 24=Friday July 25=Saturday (calendar conflict in source material; sources saying "Friday July 25" had day/date error — verified July 25 is Saturday)
+  - Byline rotation: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] (rotating from July 22: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4])
+  - X posts: initial Story 2 tweet was 287 chars (over 280); trimmed text to reach 273. Story 1 Post A was 281 chars after code-block reformat; shortened to 258. Final compile found 6 tweets (S1: 2 posts, S2-S5: 1 post each).
+  - FB posts: initial file used em-dash format and "Image Caption Post" label; fixed to `**Long-Form Post (time)**` + `**Image Caption (time)**` to match compile regex. Result: 5 FB long-form + 5 FB captions parsed correctly.
+  - Postplanner X: initial file used `**Post A — time**` labels with plain text (0 tweets found); fixed to `### STORY N:` + `#### Text Post A — time` + code blocks (Tennis hybrid format). Result: 6 posts in xlsx.
+  - PostPlanner FB: 0 FB posts in xlsx (pre-existing parser limitation — same as all prior runs; compile's bold format ≠ postplanner's hash-header + code-block format)
+  - verify-facts.py: 72 claims; image not_started warnings cosmetic (expected for gemini source)
+  - compile: 26 dashboard items (down from 27 in July 22 — one fewer X post)
+  - WordPress: WP API blocked by proxy (403 Forbidden); same restriction as all prior runs
+  - Dashboard push failed: proxy blocks write to content-dashboards repo (same as all prior runs)
+  - Ran as Niche 2 in sequence after Tennis niche; session experienced context compaction mid-Parenting pipeline; resumed from summary
 
 ### 2026-07-22 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
