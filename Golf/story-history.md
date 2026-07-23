@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-07-23
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-23 | T1 | LIV Golf Season Finale "Highly Unlikely" — Kaymer Statement, PIF Withdrawing £3.75B, CEO Needs $350M by September | X, FB, Article | FOLLOW UP |
+| 2026-07-23 | T1 | 3M Open Round 1 — Scheffler Makes TPC Twin Cities Debut After Open MC; FedEx Cup Stretch Run | X, FB, Article | FOLLOW UP |
+| 2026-07-23 | T2 | LIV Golf UK Round 1 — Niemann -6 Leads Bogey-Free; Legion XIII/Stinger/Torque Tied at -11; Rahm Chasing 3rd JCB Title | X, FB | FOLLOW UP |
+| 2026-07-23 | T2 | Women's Scottish Open — Korda/Woad Headline Dundonald Links; Final Tune-Up Before AIG Women's Open | X, FB | FOLLOW UP |
+| 2026-07-23 | T2 | Haeran Ryu's Historic LPGA Double — KPMG Women's PGA (June 28) + Amundi Evian (July 12); Two Majors in Four Weeks | X, FB, Article | NEW |
+
+### STORY 1: LIV Golf Season Finale in Jeopardy
+- **Tier:** 1
+- **Category:** LIV Golf / Business / Breaking
+- **Key facts:** Cleeks GC captain Martin Kaymer publicly stated July 22-23 that $40M team championship season finale is "highly unlikely"; finale scheduled for The Cardinal at Saint John's, Plymouth MI; Saudi PIF withdrawing backing post-2026 (£3.75B invested over 3 years); CEO Scott O'Neil (since Jan 2025) seeking $350M outside investment; September 2026 deadline; players don't know if LIV exists in 2027; next 3 events (UK, NJ, Indianapolis) expected to proceed; New Orleans event already postponed; Asian Tour joined PGA Tour/DP World Tour alliance (announced July 22) — LIV lost ~$300M feeder system
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** September deadline investor update; 2027 LIV schedule announcement or dissolution; player decisions post-2026
+
+### STORY 2: 3M Open Round 1
+- **Tier:** 1
+- **Category:** PGA Tour / Tournament / FedEx Cup
+- **Key facts:** July 23-26 TPC Twin Cities Blaine MN; $8.8M purse; 500 FedExCup points; Scheffler World No. 1 making debut — flew direct from Royal Birkdale after first MC in 4 years at The Open; Scheffler leads FedEx Cup 3,823 pts; defending champ Kurt Kitayama; Tom Kim 35th in standings; 3 events before Playoffs begin Memphis; bubble: Jason Day, Brian Harman, Tony Finau, Brandt Snedeker; R1 scoring not available as of July 23 morning
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R1 results; Scheffler's first-round score; bubble movers; leaderboard update
+
+### STORY 3: LIV Golf UK Round 1
+- **Tier:** 2
+- **Category:** LIV Golf / Tournament / Results
+- **Key facts:** JCB Golf & Country Club Rocester Staffordshire; Niemann -6 (64) bogey-free 6 birdies; Westwood -5; Watson/Ortiz -5; Hatton/Casey -4; Teams: Legion XIII/Stinger GC/Torque GC all tied at -11; Rahm 2026 LIV individual pts leader 779 pts (DeChambeau 2nd at 476.9; Detry 3rd at 251.9); Rahm won 2024 + 2025 JCB — going for 3rd straight; potential earliest-ever LIV individual title clinch
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R2 Friday; Rahm result; team competition; whether crisis affects morale
+
+### STORY 4: Women's Scottish Open
+- **Tier:** 2
+- **Category:** LPGA / Tournament / Preview
+- **Key facts:** ISPS Handa Women's Scottish Open July 23-26 Dundonald Links Gailes Scotland; $2M purse; Korda World No. 1; Woad World No. 4 (English amateur-turned-pro); defending Lauren Coughlin; Hyo Joo Kim No. 3; 19 major champions 35 combined titles; Minjee Lee, Jin Young Ko, Charley Hull in field; final event before AIG Women's Open (last major of 2026)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R1 results; Korda form; Woad vs. established field; AIG Women's Open implications
+
+### STORY 5: Haeran Ryu LPGA Double Major
+- **Tier:** 2
+- **Category:** LPGA / Milestone / Achievement
+- **Key facts:** Ryu won KPMG Women's PGA Championship June 28 2026; won Amundi Evian Championship July 12 2026; two LPGA majors four weeks apart in same calendar year; leads 2026 LPGA major count (others have max 1); other LPGA majors won by: Yamashita (Meijer LPGA Classic, non-major June 18-21); season not over — AIG Women's British Open still to play
+- **Status:** NEW
+- **Follow-up ideas:** AIG Women's Open; Ryu player-of-year race; whether Ryu wins third major
+
 ## 2026-07-22
 
 | Date | Tier | Story | Platforms | Status |

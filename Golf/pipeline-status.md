@@ -1,10 +1,21 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
-- **Date**: 2026-07-22
+- **Date**: 2026-07-23
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-23
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters (3 tweets fixed after verify-facts.py)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres)
+- **PostPlanner exports:** gfr-postplanner-2026-07-23.xlsx (7 posts) + gfr-postplanner-tobi-2026-07-23.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-07-23/review-dashboard.html (22 items)
+- **Notes:** LIV CRISIS PEAK / 3M OPEN R1 / LIV UK R1 / WOMEN'S SCOTTISH / RYU DOUBLE MAJOR — LIV Golf $40M season finale "highly unlikely" per Cleeks GC captain Martin Kaymer (July 22-23)/Saudi PIF withdrawing backing post-2026 (£3.75B invested 3 years)/CEO O'Neil needs $350M/September 2026 deadline/players don't know if LIV exists in 2027/next 3 events (UK/NJ/Indianapolis) expected/New Orleans event already postponed; 3M Open R1 underway TPC Twin Cities/$8.8M/500 FedExCup pts/Scheffler World No.1 making debut after first MC in 4 years at The Open; LIV Golf UK R1 at JCB: Niemann -6 (64) bogey-free/Westwood-Watson-Ortiz -5/Hatton-Casey -4/Legion XIII+Stinger+Torque tied at -11 teams/Rahm 2026 LIV pts leader 779 (chasing 3rd straight JCB title); ISPS Handa Women's Scottish Open at Dundonald Links Gailes/$2M/Korda No.1+Woad No.4/19 major champions/final tune-up before AIG Women's Open; Haeran Ryu won 2 LPGA majors in 2026 (KPMG June 28 + Evian July 12) — two majors four weeks apart
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-22
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
