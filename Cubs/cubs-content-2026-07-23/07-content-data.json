@@ -1,0 +1,271 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-23",
+  "compiled_at": "2026-07-23T09:20:54.981810+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Story 1 — Tigers 5, Cubs 1 recap",
+      "type": "Informative"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Story 2 — Trade deadline, 11 days",
+      "type": "Bold Take"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 3 — Wild Card Watch, 57-45",
+      "type": "Informative"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 4 — Pirates series preview",
+      "type": "Preview"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Story 5 — Bullpen health check",
+      "type": "Informative"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Story 6 — Prospect pipeline",
+      "type": "Feature"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Tigers 5, Cubs 1 — Detroit Wins Series 2-1 (Overnight Recap)",
+      "tier": 1,
+      "status": "",
+      "angle": "NEW STORY — Game 3 series finale; Keider Montero dominant (8 K, 1 ER); Hao-Yu Lee 3-run HR backbreaker; Seiya Suzuki solo HR (17th) lone Cubs answer; Colin Rea loses (7-7); Kenley Jansen earns the save; Cubs fall to 57-45",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Tigers 5, Cubs 1. Detroit wins the series 2-1.\n\nKeider Montero was sharp — 8 Ks, 1 ER, 3 hits. Hao-Yu Lee's 3-run HR in the fourth was the backbreaker. Seiya Suzuki's 17th solo shot was the lone bright spot.\n\nRea takes the loss (7-7). Cubs fall to 57-45.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative / Overnight Recap",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 280
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Tigers 5, Cubs 1 — Detroit Wins Series 2-1\n**Decision:** NEW STORY (Game 3 result, not yet covered in pipeline)\n**Story History check:** July 22 pipeline covered Game 3 preview and pre-game hype but not the result.\n**Sources:**\n- ESPN box score: https://www.espn.com/mlb/boxscore/_/gameId/401816223 (Jul 22, 2026)\n- MLB.com final score: https://www.mlb.com/gameday/824650/final/insights\n- CBS Sports box: https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260722_DET@CHC/\n**Key Facts:**\n- Final: Tigers 5, Cubs 1\n- Detroit wins series 2-1 (Cubs drop second series in recent stretch)\n- Colin Rea: loss, now 7-7; 86 pitches, 54 strikes, 21 batters faced\n- Keider Montero (W, 7-5): 8 Ks, 1 ER, 3 hits\n- Seiya Suzuki: solo HR (17th of season), 1st inning — only Cubs run\n- Spencer Torkelson: 19th HR, 2nd inning, tied game 1-1\n- Hao-Yu Lee: 3-run HR (389 ft, LF), 4th inning — gave Tigers 4-1 lead\n- Kenley Jansen: hitless 9th, earned the save\n- Cubs now 57-45\n**Freshness:** Game played July 22; research conducted July 23. ✓ <24h\n**Tier justification:** Tier 1 — game result is always lead story; today is off day so this is the freshest piece of news.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Trade Deadline — 11 Days, Skubal Question Dominates, Rogers Emerging",
+      "tier": 1,
+      "status": "",
+      "angle": "FOLLOW UP (deadline arc, July 21 entry covered 12-day urgency + Thornton injury context) — today's angle: Skubal just shut down the Cubs himself, conflicting signals on his availability; Trevor Rogers quietly posting 1.69 ERA in last 8 (LOW CONFIDENCE); Joe Ryan the most likely mover; pitching IL crisis amplifies Hoyer's need",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Deadline: 11 days.\n\nSkubal just carved the Cubs. The Tigers are still deciding whether to sell their ace. Meanwhile, Trevor Rogers has been quietly excellent in Baltimore and won't cost the whole farm.\n\nJed Hoyer's shopping window is closing.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold Take / Analysis",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 0,
+        "claims_flagged": 2,
+        "errors_corrected": 1
+      },
+      "research": {
+        "facts": "Trade Deadline — 11 Days, Skubal Question, Rogers Emerges\n**Decision:** FOLLOW UP (July 22 pipeline covered \"Sonny Gray Getting Complicated, 12 Days Out\"; today's angle is Skubal — he just beat the Cubs — and the broader market)\n**Sources:**\n- Bleacher Nation (7/22): https://www.bleachernation.com/cubs/2026/07/22/cubs-starting-pitcher-trade-targets/\n- Bleacher Report: https://bleacherreport.com/articles/25455279-new-tarik-skubal-trade-rumors-update-potential-landing-spots-ahead-2026-mlb-deadline\n- FanSided: https://fansided.com/mlb/cubs-absence-from-latest-tarik-skubal-rumors-raises-questions-about-trade-deadline-approach\n- CBS Sports: https://www.cbssports.com/mlb/news/tarik-skubal-landing-spots-trade-deadline-tigers-dodgers-braves-cubs-rays-padres-blue-jays-brewers/\n**Key Facts:**\n- Deadline: August 3 at 5:00 PM CT — 11 days from today\n- Skubal: two-time reigning Cy Young winner; Cubs mentioned by Heyman and Passan; but Murray (FanSided) \"highly skeptical\" on Cubs-Skubal deal; Tigers must feel out of contention to deal him\n- Joe Ryan (Twins): High trade probability (per analytics), 1 year post-2026 control, high RoS impact\n- Trevor Rogers (Orioles): 1.69 ERA in last 8 starts [LOW CONFIDENCE — AI summary, unverified]; expiring contract, lower acquisition cost\n- Reid Detmers / Jose Soriano (Angels): Next-tier options\n- Clay Holmes (Mets): Bullpen option, Mets almost certainly selling\n- Cubs had 13-man pitching staff on IL earlier in July\n**Freshness:** Articles dated July 22, 2026. ✓ <24h (some from same day)\n**Tier justification:** Tier 1 — deadline is 11 days out; pitching acquisition is the defining story of the Cubs' second half. Skubal just beat them = compelling narrative angle.\n**Confidence flags:**\n- Skubal interest: MEDIUM (conflicting insider reports)\n- Rogers 1.69 ERA: LOW (AI summary, needs 2nd-source verification)\n- Joe Ryan trade probability: MEDIUM (analytics projection, not confirmed deal)\n- August 3 deadline date: HIGH (confirmed multiple sources)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Wild Card Watch — 57-45, Road Gauntlet Ahead",
+      "tier": 2,
+      "status": "",
+      "angle": "FOLLOW UP (standings arc) — Cubs 57-45, still No. 1 NL WC; next seven games: at Pittsburgh then at St. Louis; Cardinals in four days add urgency",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "57-45. Still No. 1 NL Wild Card.\n\nEven after the Tigers series loss, the Cubs remain in the driver's seat. Next stop: Pittsburgh Friday, then St. Louis next week.\n\nAugust 3 looms over every game from here.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Informative / Standings",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 0,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Wild Card Watch — 57-45, Road Gauntlet Ahead\n**Decision:** FOLLOW UP (July 22 pipeline covered \"57-44, 23-10 Last 33, Phillies 1 GB\")\n**Sources:**\n- lastwordonsports.com (July 22): https://lastwordonsports.com/baseball/2026/07/22/nl-central-race-cubs/\n- sportsbrackets.net standings\n- Cubs schedule sources\n**Key Facts:**\n- Cubs: 57-45 after July 22 loss (updated from 57-44)\n- Still No. 1 NL Wild Card (Phillies ~1-2 GB)\n- Cardinals: ~51-48, ~5-6 GB behind Cubs in WC\n- Road trip: at Pittsburgh (July 24-26), then at St. Louis (July 27-29)\n- Cardinals series in 4 days carries playoff race stakes\n**Freshness:** Based on July 22 game result. ✓ <24h\n**Tier justification:** Tier 2 — standings update, no major shift, but road gauntlet ahead provides narrative hook. Previously covered angle updated with new record.\n**Confidence flags:**\n- Cubs record 57-45: HIGH (derivable from confirmed game result)\n- Phillies gap: MEDIUM (exact GB not confirmed for July 23 morning)\n- Cardinals gap: MEDIUM (last confirmed 51-48 from July 21)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Pirates Series Preview — Skenes vs. Imanaga Headlines the Weekend",
+      "tier": 2,
+      "status": "",
+      "angle": "NEW STORY — At Pittsburgh July 24-26; Boyd vs Jones (Game 1), Imanaga vs Skenes (Game 2), Taillon vs Ashcraft (Game 3); series before the Cards showdown",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Pittsburgh Friday. Three games before St. Louis next week.\n\nGame 1: Boyd vs. Jones. Game 2: Imanaga vs. Skenes — don't miss that one. Game 3: Taillon vs. Ashcraft.\n\nThe Cubs need to take 2 of 3 before the Cardinals series opens July 27.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Preview / Fan Hype",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Pittsburgh Series Preview — Skenes vs. Imanaga Headlines\n**Decision:** NEW STORY (first coverage of upcoming Pirates series)\n**Sources:**\n- SportsRadio 95.7: https://sportsradio957.iheart.com/content/2026-07-23-cubs-vs-pirates-series-injured-list-july-24-26/\n- Yahoo Sports / Bleed Cubbie Blue preview: https://sports.yahoo.com/articles/horizon-cubs-vs-pirates-series-141500790.html\n- OddsShark (game times): https://www.oddsshark.com/mlb/chicago-pittsburgh-odds-july-24-2026-2512170\n**Key Facts:**\n- Series: Cubs at Pirates, July 24-26 at PNC Park\n- Game 1 (Fri, July 24): Boyd vs. Jared Jones, 5:40 PM CDT\n- Game 2 (Sat, July 25): Imanaga vs. Paul Skenes, 5:40 PM CDT\n- Game 3 (Sun, July 26): Taillon vs. Braxton Ashcraft, 12:35 PM CDT\n- Pirates record: ~53-50 (per search results)\n- After Pittsburgh: at St. Louis July 27-29\n**Freshness:** Schedule confirmed for upcoming games. ✓\n**Tier justification:** Tier 2 — standard series preview for next series. Skenes vs Imanaga matchup elevates the story.\n**Confidence flags:**\n- Pitching matchups: MEDIUM (from preview sources, not official MLB lineup card yet)\n- Game times: MEDIUM (CDT conversion — note: Pittsburgh is ET, so 5:40 PM CDT = 6:40 PM EDT)\n- Pirates record 53-50: MEDIUM (approximate, from search result)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Bullpen Health Check — Four Pitchers Down, One Deadline to Fix It",
+      "tier": 2,
+      "status": "",
+      "angle": "FOLLOW UP (IL/bullpen arc) — Thornton day-to-day (heel, no fracture), Maton 15-day IL (knee), Palencia targeting mid-August (elbow), Horton out for 2026 (Tommy John); combines injury context with deadline urgency",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Bullpen health check heading into the stretch run:\n\nThornton: day-to-day (heel, no fracture)\nMaton: 15-day IL (knee)\nPalencia: targeting mid-August (elbow)\nHorton: out for 2026 (Tommy John)\n\nFour pitchers. One trade deadline. Eleven days.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Informative / Roster Update",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Bullpen Health Check — Four Pitchers Down\n**Decision:** FOLLOW UP (July 22 pipeline covered Thornton day-to-day as Story 3; today combines full IL picture with deadline angle)\n**Sources:**\n- Cubbies Crib: https://cubbiescrib.com/cubs-injury-update-trent-thornton-optimism-phil-maton-timeline-matt-shaw\n- MLB.com topic: https://www.mlb.com/news/topic/cubs-injury-report\n- Chicago Sun-Times (Jul 21): https://chicago.suntimes.com/cubs/2026/07/21/cubs-trade-deadline-jed-hoyer-tarik-skubal-rumors-pitching-injuries-bullpen-trent-thornton-phil-maton\n**Key Facts:**\n- Trent Thornton: day-to-day, bruised left heel, no fracture on CT scan, playing catch\n- Phil Maton: 15-day IL, right knee tendonitis (2nd stint this season)\n- Daniel Palencia: Elbow flexor strain, shut down throwing since June 16, targeting mid-August return\n- Cade Horton: 60-day IL, Tommy John surgery in April, out for 2026 season\n- 13-man pitching staff on IL earlier in July\n**Freshness:** Updates from July 21-22. ✓ <48h (most recent available for off day)\n**Tier justification:** Tier 2 — no single breaking news item but aggregated bullpen picture is meaningful context for the trade deadline and upcoming road trip.\n**Confidence flags:**\n- Thornton day-to-day / no fracture: HIGH (confirmed multiple sources)\n- Maton 15-day IL: HIGH (confirmed MLB IL move)\n- Palencia mid-August timeline: HIGH (per team)\n- Horton Tommy John / out 2026: HIGH (confirmed multiple sources)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Prospect Pipeline Delivers — Ramírez Homers Twice, Ayers Keeps Raking",
+      "tier": 2,
+      "status": "",
+      "angle": "NEW STORY — Tennessee Smokies: Alex Ramírez homered twice in 4-3 win; Iowa Cubs: won 7-4, Owen Miller key double; Owen Ayers (.315/.427/.634, 22 HRs) on September call-up radar; minor league silver lining on off day after series loss",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "The pipeline delivered Wednesday night.\n\nAlex Ramírez homered TWICE for the Smokies. Owen Ayers (.315/.427/.634, 22 HRs) keeps raking at Iowa.\n\nThe future looks loud — and last night's series loss hurts a lot less knowing this.\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Feature / Prospect Update",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 0,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Prospect Pipeline — Ramírez Homers Twice, Ayers Keeps Raking\n**Decision:** NEW STORY (July 22 pipeline covered Iowa on July 21; today's coverage is July 22 results)\n**Sources:**\n- Bleacher Nation prospect report (July 22): https://www.bleachernation.com/cubs/2026/07/22/cubs-prospects-722/\n- Bleed Cubbie Blue wrap: https://www.bleedcubbieblue.com/chicago-cubs-prospects/226352/cubs-minor-league-wrap-alex-ramirez-grant-kipp-kane-kepley\n- Yahoo Sports / Cubbies Crib (Owen Ayers): https://sports.yahoo.com/articles/meteoric-rise-owen-ayers-gives-192930925.html\n**Key Facts:**\n- Tennessee Smokies (AA): Won 4-3. Alex Ramírez homered twice (including solo HR in 1st inning).\n- Iowa Cubs (AAA): Won 7-4. Owen Miller: 2-RBI double (bases loaded, two outs, 6th inning) broke it open.\n- Owen Ayers (C, Iowa): .315/.427/.634, 22 HRs, 15.2% walk rate, 175 wRC+. Promoted to Iowa July 13. On September call-up radar.\n- Ayers was drafted in 2024 (19th round, 572nd overall, out of Marshall). 25 years old.\n- Triple-A debut: 3-for-4 in Iowa walk-off defeat to Memphis.\n**Freshness:** July 22 results. ✓ <24h\n**Tier justification:** Tier 2 — strong prospect night at multiple levels; Ayers's trajectory adds long-term interest angle. Good content on off day.\n**Confidence flags:**\n- Ramírez homered twice: HIGH (confirmed Bleacher Nation prospect report)\n- Iowa win 7-4 / Miller double: HIGH (confirmed)\n- Ayers stats (.315/.427/.634, 22 HRs): HIGH (confirmed multiple sources)\n- Ayers age/draft info: MEDIUM (from AI summary, verify birth year separately if citing age)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

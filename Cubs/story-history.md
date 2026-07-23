@@ -5,6 +5,60 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-23
+
+### STORY 1: Tigers 5, Cubs 1 — Detroit Wins Series 2-1
+- **Angle:** NEW STORY — Game 3 series finale; Keider Montero dominant (8 K, 1 ER, 3 hits); Hao-Yu Lee 3-run HR backbreaker; Seiya Suzuki solo HR (17th) lone Cubs answer; Colin Rea loses (7-7); Kenley Jansen earns the save; Cubs fall to 57-45
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, overnight recap / informative)
+- **Follow-Up Opportunities:**
+  - Pittsburgh road trip Game 1 result (July 24 Boyd vs Jones)
+  - Rea season performance tracking through stretch run
+
+### STORY 2: Trade Deadline — 11 Days, Skubal Question Dominates, Rogers Emerging
+- **Angle:** FOLLOW UP (deadline arc, July 21 entry covered 12-day urgency + Thornton injury context) — today's angle: Skubal just shut down the Cubs himself, conflicting signals on availability (Heyman/Passan vs Murray "highly skeptical"); Trevor Rogers quietly excellent in Baltimore; Joe Ryan most likely mover (55% trade odds); pitching IL crisis amplifies Hoyer's need
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold take / analysis)
+- **Follow-Up Opportunities:**
+  - Any trade announcement before August 3
+  - Rogers/Ryan official availability signals from Orioles/Twins front offices
+
+### STORY 3: Wild Card Watch — 57-45, Road Gauntlet Ahead
+- **Angle:** FOLLOW UP (standings arc) — Cubs 57-45, still No. 1 NL WC; Phillies ~1-2 GB; road gauntlet: at Pittsburgh then at St. Louis; Cardinals series July 27-29 adds urgency; August 3 deadline looms over every game
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, informative / standings)
+- **Follow-Up Opportunities:**
+  - Pittsburgh series result (July 24-26)
+  - Cardinals series result (July 27-29) — direct playoff implications
+
+### STORY 4: Pittsburgh Series Preview — Skenes vs. Imanaga Headlines the Weekend
+- **Angle:** NEW STORY — at Pittsburgh July 24-26 at PNC Park; Game 1: Boyd vs Jones (5:40 PM CDT); Game 2: Imanaga vs Skenes (5:40 PM CDT) — marquee ace duel; Game 3: Taillon vs Ashcraft (12:35 PM CDT); Pirates ~53-50; Cubs need series win before St. Louis
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, preview / fan hype)
+- **Follow-Up Opportunities:**
+  - Skenes vs Imanaga Game 2 result (July 25 — appointment baseball)
+  - Series result and momentum heading to Cardinals series
+
+### STORY 5: Bullpen Health Check — Four Pitchers Down, One Deadline to Fix It
+- **Angle:** FOLLOW UP (IL/bullpen arc) — Thornton day-to-day (heel, no fracture, optimistic); Maton 15-day IL (right knee tendonitis, 2nd stint this season); Palencia targeting mid-August (elbow flexor strain, shut down since June 16); Horton out for 2026 (Tommy John, April)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, informative / roster update)
+- **Follow-Up Opportunities:**
+  - Thornton IL/active status decision
+  - Maton return timeline post-knee tendonitis
+  - Any trade acquisition to address bullpen depth before August 3
+
+### STORY 6: Prospect Pipeline Delivers — Ramírez Homers Twice, Ayers Keeps Raking
+- **Angle:** NEW STORY — Tennessee Smokies (AA): Alex Ramírez homered twice in 4-3 win; Iowa Cubs (AAA): won 7-4, Owen Miller 2-RBI double (bases loaded, 6th inning); Owen Ayers (.315/.427/.634, 22 HRs, 175 wRC+) on September call-up radar after July 13 promotion
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, feature / prospect update)
+- **Follow-Up Opportunities:**
+  - Ayers continued Iowa performance (September call-up watch)
+  - Ramírez Double-A second-half tracking
+  - Iowa Cubs stretch run results
+
+---
+
 ## 2026-07-22
 
 ### STORY 1: Cubs 11, Tigers 2 — Peterson Dominates in Game 2 Bounce-Back
