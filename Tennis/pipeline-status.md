@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-07-22 |
-| Writing | Complete (all steps) | 2026-07-22 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 27 claims) | 2026-07-22 |
-| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles) | 2026-07-22 |
-| Dashboard | Complete (review-dashboard.html, 27 items) | 2026-07-22 |
-| PostPlanner Export | Complete (standard 7 posts 12:55–20:37 ET; TOBI 7 posts) | 2026-07-22 |
-| WordPress Publish | Attempted — WP API blocked by proxy egress policy (403 Forbidden; same environment restriction as all prior runs) | 2026-07-22 |
-| Dashboard Push | Attempted — proxy blocks push to content-dashboards repo | 2026-07-22 |
+| Research | Complete | 2026-07-23 |
+| Writing | Complete (all steps) | 2026-07-23 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 38 claims) | 2026-07-23 |
+| Compile | Complete (07-content-data.json — 5 stories, 6 X posts, 5 FB posts, 5 articles) | 2026-07-23 |
+| Dashboard | Complete (review-dashboard.html, 26 items) | 2026-07-23 |
+| PostPlanner Export | Complete (standard 6 posts 13:04–20:29 ET; TOBI 6 posts) | 2026-07-23 |
+| WordPress Publish | Attempted — WP API blocked by proxy egress policy (403 Forbidden; same environment restriction as all prior runs) | 2026-07-23 |
+| Dashboard Push | Attempted — proxy blocks push to content-dashboards repo | 2026-07-23 |
 
 ## Queue
 
@@ -24,6 +24,24 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-07-23 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 6 X posts + 5 FB long-form = 11 total (PostPlanner xlsx: 6 posts 13:04–20:29 ET, 6 TOBI)
+- **Articles:** 5 (bylines: Ryan Calloway [S1, S4], Elena Voss [S2, S5], Marcus Cole [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-07-23.xlsx (6 posts), tfr-postplanner-tobi-2026-07-23.xlsx (6 TOBI posts)
+- **Coverage:** Kitzbühel QF Day: all four QFs completed Thursday — Bublik (1) def. Molcan 6-3, 7-5; Etcheverry (4) def. Buse (5) 6-2, 7-6(4); Hanfmann def. Baez 6-4, 7-6(2) (Baez had beaten Rinderknech [3]); Navone def. Halys 6-0, 6-3 (Halys had beaten Vacherot [2]); SFs Friday: Bublik vs. Etcheverry, Hanfmann vs. Navone. Canadian Open men's draw gutted: Sinner (right elbow, targeting Cincinnati + USO defense) and Djokovic (groin, going straight to US Open) both withdrew; join Alcaraz (wrist) and Draper (arm); Women: Mboko (ankle, defending champ), Paolini (foot), Muchova (post-Wimbledon surgery), Raducanu (shin); draws July 31. CORRECTIONS: Two July 19-20 WTA finals reported wrong in prior pipelines — (1) Athens: Krejcikova def. Sakkari 7-6(5), 6-3 (9th career title, not Sakkari); (2) Iasi: Sherif def. Badosa ret. 6-4, 4-0 (not Badosa); both corrected via WTA official records. WTA Prague R2: Krejcikova (6-match streak from Athens) vs Havlickova (local qualifier No. 226, def. Parks R1); Bouzkova [1] vs Valentova [5] all-Czech seeded showdown; Czech home dominance. Estoril ATP: Burruchaga (ARG) def. Borges (POR, No. 48) 6-1, 4-6, 6-3 into QF; Rublev (No. 14, Bastad champion) opens R2 vs Skatov; Darderi (Bastad finalist) also in draw.
+- **Notes:**
+  - CONTENT CORRECTIONS: July 19 and July 20 pipeline runs both reported Athens WTA won by Sakkari (wrong) and Iasi WTA won by Badosa (wrong). Actual: Krejcikova won Athens, Sherif won Iasi. Both corrected via Story 3 (Tier 2) with WTA official sources.
+  - verify-facts.py warning: "No claim-patterns.py found at Tennis/claim-patterns.py" (cosmetic; Tennis doesn't have custom patterns)
+  - verify-facts.py: "MISSING STORY" in 02-story-analysis.md — script expects `### STORY N:` headers; our analysis uses `## Story` format. Cosmetic warning, doesn't block downstream processing.
+  - compile: posting window warnings cosmetic (script expects lowercase `**Posting window:**` but brief uses `**Posting Window:**`)
+  - compile: Fact-Check "no log found" — fact-check log uses `## Story N:` headers, compile expects `### STORY N:`. Cosmetic; JSON compiled successfully with all content.
+  - PostPlanner: FB posts 0 in XLSX (pre-existing parser limitation)
+  - WordPress: WP API blocked by proxy egress policy (403); same restriction as all prior runs
+  - Dashboard push failed: proxy blocks push to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Ryan Calloway [S1, S4], Elena Voss [S2, S5], Marcus Cole [S3] (continuing from July 22: Marcus Cole [S1, S4], Ryan Calloway [S2, S5], Elena Voss [S3])
 
 ### 2026-07-22 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)

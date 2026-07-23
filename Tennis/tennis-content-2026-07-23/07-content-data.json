@@ -1,0 +1,274 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-23",
+  "compiled_at": "2026-07-23T12:32:17.113335+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 (Kitzbühel QFs)",
+      "type": "X + FB"
+    },
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 (Kitzbühel QFs)",
+      "type": "X"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2 (Canadian Open WDs)",
+      "type": "X + FB"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 3 (Corrections)",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 (WTA Prague R2)",
+      "type": "X + FB"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 5 (Estoril ATP)",
+      "type": "X + FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Kitzbühel QF Day — Bublik, Etcheverry, Hanfmann, Navone Reach Semis",
+      "tier": 1,
+      "status": "",
+      "angle": "RESULT — All four Generali Open Kitzbühel (ATP 250, July 20-25) quarterfinals were played Thursday. Defending champion Alexander Bublik (KAZ, No. 1 seed) def. Alex Molcan (SVK) 6-3, 7-5. Fourth seed Tomas Martin Etcheverry (ARG) def. Ignacio Buse (PER, No. 5) 6-2, 7-6(4). Unseeded Yannick Hanfmann (GER) def. Sebastian Baez (ARG) 6-4, 7-6(2) — Baez had upset third seed Rinderknech on Wednesday. Mariano Navone (ARG) dominated Quentin Halys (FRA) 6-0, 6-3 — Halys had upset second seed Vacherot the day before. Semifinals set for Friday: Bublik vs. Etcheverry; Hanfmann vs. Navone.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Kitzbühel QF wrap 🎾\n\nBublik def. Molcan 6-3, 7-5\nEtcheverry def. Buse 6-2, 7-6(4)\nHanfmann def. Baez 6-4, 7-6(2)\nNavone def. Halys 6-0, 6-3\n\nSFs Friday:\n▸ Bublik vs. Etcheverry\n▸ Hanfmann vs. Navone\n\n#ATPKitzbuhel #GeneraliOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPKitzbuhel",
+            "#GeneraliOpen"
+          ],
+          "char_count": 227
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Mariano Navone barely broke a sweat in Kitzbühel's QF — crushing Quentin Halys 6-0, 6-3 to set up a Friday SF vs. Yannick Hanfmann.\n\nHalys had just beaten No. 2 seed Vacherot the day before.\n\nNavone didn't care. 🔥\n\n#ATPKitzbuhel #GeneraliOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPKitzbuhel",
+            "#GeneraliOpen"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": {
+        "long_form": "All four Kitzbühel quarterfinals are in the books — and the semifinals are set for Friday at the Generali Open Kitzbühel.\n\nDefending champion Alexander Bublik, the No. 1 seed, handled Alex Molcan with relative ease, 6-3, 7-5. He'll face fourth seed Tomas Martin Etcheverry in one semifinal. Etcheverry had beaten Ignacio Buse 6-2, 7-6(4) on the other side.\n\nOn the unseeded half of the draw, Yannick Hanfmann and Mariano Navone both punched their tickets to the semis. Hanfmann beat Sebastian Baez 6-4, 7-6(2) — a solid win considering Baez had knocked out No. 3 seed Rinderknech the day before. Navone was even more emphatic, dropping just three games against Quentin Halys in a 6-0, 6-3 demolition. Halys had beaten No. 2 seed Vacherot on Wednesday.\n\nFriday's semifinals: Bublik vs. Etcheverry, and Hanfmann vs. Navone. Can the defending champion claim back-to-back Kitzbühel titles, or does one of the unseeded challengers spoil the party?\n\nWho do you have winning the Kitzbühel title on Saturday?\n\n---",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-kitzbuhel-qf-day.html",
+        "headline": "Kitzbühel Semifinals Set: Bublik, Etcheverry, Hanfmann, Navone Advance",
+        "word_count": 447
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Kitzbühel QF Day\n\n**Social Image (1080x1350):**\n- imagn_search: \"Alexander Bublik ATP\"\n- Caption concept: \"KITZBÜHEL / DEFENDING CHAMPION ADVANCES / QF COMPLETE\"\n\n**Facebook Image (1080x1350):**\n- imagn_search: \"Mariano Navone ATP\"\n- Caption concept: \"NAVONE / 6-0, 6-3 / INTO THE SEMIS\"\n\n**Article Hero (1200x630):**\n- imagn_search: \"Alexander Bublik ATP\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Canadian Open Men's Draw Gutted — Sinner and Djokovic Both Withdraw",
+      "tier": 1,
+      "status": "",
+      "angle": "FOLLOW UP (July 22 pipeline) — The men's side of the National Bank Open Montreal (Aug. 1-13) has suffered two devastating blows. World No. 1 Jannik Sinner (ITA) withdrew from the Canadian Open citing a right elbow injury sustained at Wimbledon — he is targeting the Cincinnati Open and US Open title defence. Novak Djokovic (SRB, 39) also withdrew citing a groin injury suffered during Wimbledon and will head directly to the US Open with no North American warm-up. These join men's withdrawals already announced for Carlos Alcaraz (wrist) and Jack Draper (arm). The women's side (Toronto) remains similarly depleted: Paolini, Muchova, Mboko, Raducanu all out. The Canadian Open draws are released Friday July 31.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "The Canadian Open men's draw hasn't even been released yet — and it's already missing:\n\n❌ Sinner (elbow)\n❌ Djokovic (groin)\n❌ Alcaraz (wrist)\n❌ Draper (arm)\n\nDraws drop July 31. Toronto women's side just as thin.\n\n#NationalBankOpen #CanadianOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NationalBankOpen",
+            "#CanadianOpen"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "The Canadian Open men's draw hasn't even been released yet — it drops July 31 — and it's already missing four players who collectively own more Grand Slam titles than most tournaments see in a decade.\n\nWorld No. 1 Jannik Sinner announced he's withdrawing with a right elbow injury he picked up at Wimbledon. He's targeting Cincinnati and will arrive at the US Open aiming to defend his title. Novak Djokovic is also out, citing a groin injury from Wimbledon — he's skipping the North American swing entirely and heading straight to Flushing Meadows. They join Carlos Alcaraz and Jack Draper on the men's withdrawal list.\n\nThe women's side at Toronto is equally depleted. Defending champion Victoria Mboko, Jasmine Paolini, Karolina Muchova, and Emma Raducanu are all confirmed out. That's a lot of big names who won't be in Canada when the tournament starts August 1.\n\nThe draw release on July 31 will tell us who's left to fill the field — and who might be setting up for a breakthrough run in the post-Wimbledon hard-court swing.\n\nWith so many top players sitting out, who do you think emerges to win the Canadian Open this year?\n\n---",
+        "image_caption": "",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-canadian-open-withdrawals.html",
+        "headline": "Sinner and Djokovic Withdraw from Canadian Open, Joining Alcaraz and Draper on Injury List",
+        "word_count": 464
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Canadian Open Withdrawals\n\n**Social Image (1080x1350):**\n- imagn_search: \"Jannik Sinner ATP\"\n- Caption concept: \"CANADIAN OPEN / SINNER OUT / ELBOW INJURY\"\n\n**Facebook Image (1080x1350):**\n- imagn_search: \"Novak Djokovic ATP\"\n- Caption concept: \"DJOKOVIC OUT / GROIN INJURY / US OPEN NEXT\"\n\n**Article Hero (1200x630):**\n- imagn_search: \"Jannik Sinner ATP\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "CORRECTIONS — Krejcikova Won Athens; Sherif Won Iasi",
+      "tier": 2,
+      "status": "",
+      "angle": "CORRECTION — Two major results from the July 19-20 weekend were reported incorrectly in prior pipeline runs. (1) Athens WTA: Barbora Krejcikova (CZE) defeated Maria Sakkari (GRE) 7-6(5), 6-3 to win the Vanda Pharmaceuticals Athens Open — her ninth career WTA title and first since Wimbledon 2024. Sakkari led 4-1 in the first set and broke first in the second but Krejcikova fought back both times. (2) Iasi WTA: Mayar Sherif (EGY) claimed her second career WTA title at the UniCredit Iasi Open when Paula Badosa (ESP) retired injured while trailing 6-4, 4-0. Badosa was forced to stop with a leg/knee injury. Krejcikova is now at Prague (R2 today vs. local qualifier Havlickova); Sherif is competing in Hamburg. Badosa also made it to Hamburg despite the injury retirement, and won her R2 match over Katarzyna Kawa on Wednesday.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Correction: Two WTA finals from July 19-20 were reported incorrectly.\n\n🏆 Athens: Krejcikova def. Sakkari 7-6(5), 6-3 (not Sakkari)\n🏆 Iasi: Sherif def. Badosa (ret. 6-4, 4-0) (not Badosa)\n\nApologies for the errors. Correct records stand.\n\n#WTA #WTATennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTA",
+            "#WTATennis"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": {
+        "long_form": "We need to set the record straight on two WTA finals from the July 19-20 weekend — both were reported incorrectly in our earlier posts, and we apologize for the confusion.\n\nAthens WTA final: Barbora Krejcikova defeated Maria Sakkari 7-6(5), 6-3 to win the Vanda Pharmaceuticals Athens Open. Our previous reporting stated that Sakkari had won. That was incorrect. Krejcikova is the champion — it was her ninth career WTA title and her first since Wimbledon 2024. Sakkari led 4-1 in the first set and broke first in the second, but Krejcikova fought back in both sets to take the match.\n\nIasi WTA final: Mayar Sherif won the UniCredit Iasi Open title when Paula Badosa retired from the final while trailing 6-4, 4-0, due to a leg and knee injury. Our previous reporting stated that Badosa had won. That was also incorrect. Sherif is the Iasi champion — her second career WTA title. Badosa competed in Hamburg this week despite the injury and won her second-round match against Kawa on Wednesday.\n\nBoth corrected results are now in our records. Krejcikova is in Prague for her second-round match today; Sherif is competing in Hamburg.\n\nDid you catch either of those finals live? What did you make of Krejcikova's comeback in Athens?\n\n---",
+        "image_caption": "",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-03-corrections-athens-iasi.html",
+        "headline": "Correction: Krejcikova Won Athens, Sherif Won Iasi — Two Finals Reported Incorrectly",
+        "word_count": 359
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Corrections Athens Iasi\n\n**Social Image (1080x1350):**\n- imagn_search: \"Barbora Krejcikova WTA\"\n- Caption concept: \"ATHENS CHAMPION / KREJCIKOVA / 9TH CAREER TITLE\"\n\n**Facebook Image (1080x1350):**\n- imagn_search: \"Mayar Sherif WTA\"\n- Caption concept: \"IASI CHAMPION / MAYAR SHERIF / 2ND CAREER TITLE\"\n\n**Article Hero (1200x630):**\n- imagn_search: \"Barbora Krejcikova WTA\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "WTA Prague R2 — Krejcikova Brings Athens Win Streak Home",
+      "tier": 2,
+      "status": "",
+      "angle": "NEW STORY — Barbora Krejcikova (CZE) brings a six-match winning streak into the Livesport Prague Open (WTA 250, July 20-26, TK Sparta Prague) after her Athens title and faces local qualifier Lucie Havlickova (CZE, No. 226) in the R2 on Thursday. This is their first-ever tour meeting. Havlickova upset Alycia Parks (USA, No. 34) in R1 and arrives on a 10-match winning streak of her own. Also in action: top seed Marie Bouzkova (CZE) vs. fifth seed Tereza Valentova (CZE) — an all-Czech seeded showdown. Plus Sara Bejlek (No. 3 seed) and Nikola Bartunkova (No. 4 seed) in the draw. Czech women heavily dominate at home.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Barbora Krejcikova returns to Czech soil today for Prague R2 — carrying a 6-match winning streak off her Athens title.\n\nHer opponent: local qualifier Lucie Havlickova (No. 226), who beat No. 34 Alycia Parks in R1.\n\nFirst-ever tour meeting. 👀\n\n#WTAPrague #LivesportPragueOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTAPrague",
+            "#LivesportPragueOpen"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": {
+        "long_form": "Barbora Krejcikova is back on Czech soil today — and she's bringing a six-match winning streak with her.\n\nAfter claiming the Athens WTA title last weekend (her ninth career crown), Krejcikova returned home to TK Sparta Prague for the Livesport Prague Open. She plays local qualifier Lucie Havlickova in Thursday's second round — their first-ever professional meeting. Don't sleep on Havlickova: the No. 226-ranked Czech has been on fire, upsetting No. 34 Alycia Parks in round one and riding a 10-match winning streak of her own into this matchup.\n\nElsewhere in the draw, it's a Czech showcase. Top seed Marie Bouzkova faces fifth seed Tereza Valentova in an all-Czech seeded contest. Sara Bejlek and Nikola Bartunkova are also in action. The home nation is very much running this tournament.\n\nKrejcikova defending her run on home soil after Athens would be a remarkable stretch of tennis. Can she keep it going, or does Havlickova pull off the local upset?\n\nWho do you think wins today at Prague — the champion on a hot streak, or the home qualifier with momentum of her own?\n\n---",
+        "image_caption": "",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-wta-prague-r2.html",
+        "headline": "Krejcikova Brings Athens Form Home to Prague — Faces Qualifier Havlickova in R2",
+        "word_count": 413
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "WTA Prague R2\n\n**Social Image (1080x1350):**\n- imagn_search: \"Barbora Krejcikova WTA\"\n- Caption concept: \"HOME SOIL / KREJCIKOVA AT PRAGUE / 6-MATCH WIN STREAK\"\n\n**Facebook Image (1080x1350):**\n- imagn_search: \"Marie Bouzkova WTA\"\n- Caption concept: \"BOUZKOVA / TOP SEED / PRAGUE OPEN\"\n\n**Article Hero (1200x630):**\n- imagn_search: \"Barbora Krejcikova WTA\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Estoril ATP — Burruchaga Beats Home Favorite Borges, Rublev Opens",
+      "tier": 2,
+      "status": "",
+      "angle": "FOLLOW UP (Wawrinka farewell July 22) — Roman Andres Burruchaga (ARG, ~No. 60) continues his remarkable Estoril run: two days after eliminating Stan Wawrinka in R1 (the three-time Grand Slam champion's final clay match), Burruchaga defeated home favorite Nuno Borges (POR, No. 48) 6-1, 4-6, 6-3 on Wednesday to advance to the Millennium Estoril Open (ATP 250, Portugal) quarterfinals. Top seed Andrey Rublev (RUS, No. 14) — fresh off his Bastad title — opens his Estoril campaign Thursday against Timofey Skatov (KAZ) in R2. Luciano Darderi (ITA), who faced Rublev in the Bastad final, is also in the field.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Roman Andres Burruchaga is on a run at Estoril 🇦🇷\n\nBeat Stan Wawrinka in R1 (final clay match of his career).\nBeat home hero Nuno Borges in R2 — 6-1, 4-6, 6-3.\n\nNow into the QF with Rublev (fresh Bastad champ) still to open.\n\n#EstorilOpen #MillenniumEstorilOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#EstorilOpen",
+            "#MillenniumEstorilOpen"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": {
+        "long_form": "Three days in at the Millennium Estoril Open, and Roman Andres Burruchaga has quietly become the story of the tournament.\n\nOn Tuesday, he beat three-time Grand Slam champion Stan Wawrinka in what turned out to be the final clay-court match of Wawrinka's career. The crowd gave Stan a fitting sendoff. Then on Wednesday, Burruchaga took out home favorite Nuno Borges — ranked No. 48 in the world — 6-1, 4-6, 6-3 to book a quarterfinal spot.\n\nMeanwhile, top seed Andrey Rublev — fresh off his Bastad title last weekend — opens his Estoril campaign Thursday against Timofey Skatov. Luciano Darderi, who fell to Rublev in the Bastad final, is also in the draw. If Rublev advances and Burruchaga keeps winning, we could be looking at a fascinating semifinal.\n\nFor now, Burruchaga is the story everyone in Lisbon is talking about.\n\nWhat do you make of Burruchaga's run so far — can he go all the way in Estoril?\n\n---",
+        "image_caption": "",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-estoril-burruchaga.html",
+        "headline": "Burruchaga Keeps Rolling at Estoril — Beats Borges After Famous Wawrinka Win",
+        "word_count": 460
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Estoril ATP\n\n**Social Image (1080x1350):**\n- imagn_search: \"Roman Andres Burruchaga ATP\"\n- Caption concept: \"BURRUCHAGA / INTO THE QF / ESTORIL OPEN\"\n\n**Facebook Image (1080x1350):**\n- imagn_search: \"Andrey Rublev ATP\"\n- Caption concept: \"RUBLEV / TOP SEED / ESTORIL OPEN\"\n\n**Article Hero (1200x630):**\n- imagn_search: \"Roman Andres Burruchaga ATP\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

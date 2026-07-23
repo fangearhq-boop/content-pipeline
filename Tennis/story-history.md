@@ -1018,3 +1018,52 @@ Track previously covered stories to avoid repetition and maintain content freshn
 - **Tier:** 2
 - **Key Facts:** Oliynykova/Kalinina/Putintseva/Udvardy/Bondar all advance; Akugue German WC winner; Stusek def. Podoroska 4-6, 6-3, 6-4; Niemeier lost to Carle; Sources: WTA Tour, tournament reporting
 - **Follow-Up Opportunities:** Hamburg R2-Final results through July 26; Oliynykova title bid
+
+---
+
+## 2026-07-23
+
+### Story 1: Kitzbühel QF Day — Bublik, Etcheverry, Hanfmann, Navone Reach Semis
+- **Date:** 2026-07-23
+- **Angle:** RESULT — All four Generali Open Kitzbühel (ATP 250) QFs completed Thursday. Bublik (1) def. Molcan 6-3, 7-5; Etcheverry (4) def. Buse (5) 6-2, 7-6(4); Hanfmann def. Baez 6-4, 7-6(2) — Baez had beaten Rinderknech [3] Wed; Navone def. Halys 6-0, 6-3 — Halys had beaten Vacherot [2] Wed. SFs Friday: Bublik vs. Etcheverry; Hanfmann vs. Navone.
+- **Content Produced:** Article, 2 X Text Posts (A + B), Facebook Long-Form, Facebook Image Caption, 3 Image Concepts
+- **Tier:** 1
+- **Byline:** Ryan Calloway
+- **Key Facts:** Bublik defending champ; Navone/Hanfmann both unseeded; Halys had beaten No. 2 seed Vacherot Wed; Baez had beaten No. 3 seed Rinderknech Wed; SF pairings confirmed; Sources: ATP Tour official draw, livescores.com
+- **Follow-Up Opportunities:** Kitzbühel SFs Friday; Kitzbühel final Saturday
+
+### Story 2: Canadian Open Men's Draw Gutted — Sinner and Djokovic Both Withdraw
+- **Date:** 2026-07-23
+- **Angle:** FOLLOW UP — Sinner (elbow injury from Wimbledon, targeting Cincinnati + USO title defense) and Djokovic (groin injury from Wimbledon, going straight to US Open) both withdrawn from National Bank Open Montreal (Aug 1-13). Joins Alcaraz (wrist) and Draper (arm). Women: Mboko (ankle, defending champ), Paolini (foot), Muchova (post-Wimbledon surgery), Raducanu (shin fracture). Draws released July 31.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 3 Image Concepts
+- **Tier:** 1
+- **Byline:** Elena Voss
+- **Key Facts:** Sinner targeting Cincinnati + US Open defense; Djokovic no NA warm-up; 4 men's WDs (Sinner/Djokovic/Alcaraz/Draper); 4+ women's WDs; Mboko defending champion; draws July 31; Sources: ATP Tour, WTA Tour, Canadian Open official
+- **Follow-Up Opportunities:** Canadian Open draws July 31; Montreal/Toronto tournament Aug 1-13
+
+### Story 3: CORRECTIONS — Krejcikova Won Athens; Sherif Won Iasi
+- **Date:** 2026-07-23
+- **Angle:** CORRECTION — Two July 19-20 WTA finals reported incorrectly in prior pipeline runs. (1) Athens: Krejcikova def. Sakkari 7-6(5), 6-3 — 9th career title, first since Wimbledon 2024; Sakkari led 4-1 set 1, broke first set 2, Krejcikova fought back both times. (2) Iasi: Sherif def. Badosa (ret. 6-4, 4-0, leg/knee injury) — Sherif's 2nd career WTA title. Badosa competed in Hamburg this week despite injury.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Marcus Cole
+- **Key Facts:** Krejcikova 9th title (first since Wimbledon 2024); Sakkari led 4-1 set 1; Sherif 2nd career title; Badosa retired 6-4, 4-0; Badosa won Hamburg R2 vs Kawa; Sources: WTA official tournament results
+- **Follow-Up Opportunities:** Krejcikova at Prague (R2 Thursday); Sherif at Hamburg; Badosa at Hamburg
+
+### Story 4: WTA Prague R2 — Krejcikova vs. Havlickova, Bouzkova vs. Valentova
+- **Date:** 2026-07-23
+- **Angle:** NEW STORY — Prague R2 Thursday: Krejcikova (CZE, 6-match win streak from Athens title) vs. Havlickova (CZE, local qualifier No. 226, def. Parks No. 34 in R1, 10-match winning streak). First-ever tour meeting. Also: Bouzkova [1] (CZE) vs. Valentova [5] (CZE) — all-Czech seeded contest. Bejlek [3], Bartunkova [4] also in draw.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 3 Image Concepts
+- **Tier:** 2
+- **Byline:** Ryan Calloway
+- **Key Facts:** Krejcikova 6-match winning streak; Havlickova def. Parks R1; first-ever Krejcikova-Havlickova tour meeting; all-Czech seeded showdown Bouzkova vs Valentova; Sources: WTA official draw
+- **Follow-Up Opportunities:** Prague QF and SF results; Krejcikova title bid at home (Prague)
+
+### Story 5: Estoril ATP — Burruchaga Beats Home Favorite Borges, Rublev Opens
+- **Date:** 2026-07-23
+- **Angle:** FOLLOW UP (July 22 Wawrinka farewell) — Burruchaga (ARG, ~No. 60) beat Borges (POR, No. 48) 6-1, 4-6, 6-3 to reach Estoril QF. Two days after beating Wawrinka in his final clay match. Top seed Rublev (RUS, No. 14, Bastad champion) opens vs. Skatov (KAZ) in R2 Thursday. Darderi (ITA, Bastad finalist) also in field.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 3 Image Concepts
+- **Tier:** 2
+- **Byline:** Elena Voss
+- **Key Facts:** Burruchaga def. Borges 6-1, 4-6, 6-3; QF berth; Rublev top seed, Bastad champion; Skatov R2 opponent; Darderi also in draw; Sources: ATP Tour official draw
+- **Follow-Up Opportunities:** Estoril QF and SF results; Burruchaga vs. potential Rublev SF
