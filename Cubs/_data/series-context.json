@@ -1,42 +1,9 @@
 {
-  "generated_at": "2026-07-22T08:30:00.662534+00:00",
-  "today_ct": "2026-07-22",
-  "off_day": false,
+  "generated_at": "2026-07-23T08:30:00.380105+00:00",
+  "today_ct": "2026-07-23",
+  "off_day": true,
   "is_series_start_today": false,
-  "series": {
-    "opponent": "Detroit Tigers",
-    "opponent_id": 116,
-    "opponent_record": "47-54",
-    "cubs_record": "57-44",
-    "is_cubs_home": true,
-    "venue": "Wrigley Field",
-    "series_length": 1,
-    "games": [
-      {
-        "game_pk": "824650",
-        "game_date_iso": "2026-07-23T00:10:00Z",
-        "game_date_ct": "Wed 7:10 PM CT",
-        "cubs_probable": "TBD",
-        "opponent_probable": "TBD",
-        "status": "Preview"
-      }
-    ],
-    "rationale": "Same opponent (Detroit Tigers) as yesterday \u2014 this is mid-series, not a series opener."
-  },
-  "today_cubs_game": {
-    "game_pk": "824650",
-    "status": "Preview",
-    "detailed_status": "Scheduled",
-    "game_date_iso": "2026-07-23T00:10:00Z",
-    "game_date_ct": "Wed 7:10 PM CT",
-    "is_cubs_home": true,
-    "opponent_id": 116,
-    "opponent_name": "Detroit Tigers",
-    "opponent_record": "47-54",
-    "cubs_record": "57-44",
-    "cubs_probable": "TBD",
-    "opponent_probable": "TBD",
-    "venue": "Wrigley Field"
-  },
-  "rationale": "Same opponent (Detroit Tigers) as yesterday \u2014 this is mid-series, not a series opener."
+  "series": null,
+  "today_cubs_game": null,
+  "rationale": "No upcoming Cubs game on today's CT calendar date."
 }
