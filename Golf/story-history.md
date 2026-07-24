@@ -2,6 +2,53 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-07-24
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-24 | T1 | Niemann Fires 63 — Leads LIV Golf UK by 6 Heading into Championship Sunday; Torque GC Leads Teams by 3 | X, FB, Article | NEW |
+| 2026-07-24 | T1 | 3M Open R1: Kohles -9 Leads; Scheffler Bogey-Free Debut (-6, T-5); Kitayama T-26 | X, FB, Article | FOLLOW UP |
+| 2026-07-24 | T2 | LIV Golf Crisis: $5B PIF Exit, Asian Tour Alliance Kills Feeder System, $250M Needed | X, FB, Article | FOLLOW UP |
+| 2026-07-24 | T2 | Women's Scottish Open R1: Coughlin-Shin Co-Lead -6; Only 13 Break Par; Korda Even Par | X, FB, Article | FOLLOW UP |
+| 2026-07-24 | T2 | Rahm's JCB Three-Peat Gone (7 Back); LIV Season Title Clinch Still Alive (284-pt Lead) | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Niemann LIV Golf UK R2 Leads by 6
+- **Tier:** 1
+- **Category:** LIV Golf / Tournament Round Results
+- **Key facts:** Niemann R2 63 (-8) / total -14 / leads by 6; 30 on front nine = lowest front nine at JCB all LIV rounds; course scored harder R2 (-0.36 avg vs -1.27 R1); Watson -8 (2nd); Rahm/Casey/Meronk/Surratt -7 (T3); Torque GC -24 leads Legion XIII -21 by 3; Crushers -14 / Ripper -13 / Fireballs -12; Niemann quote: "We know we're due for a win"; team lineup turbulence acknowledged
+- **Status:** NEW
+- **Follow-up ideas:** Championship Sunday result; team title result; Niemann win or Torque title
+
+### STORY 2: 3M Open R1 — Kohles Leads, Scheffler Debuts
+- **Tier:** 1
+- **Category:** PGA Tour / Tournament Round Results
+- **Key facts:** Kohles 62 (-9) leads after R1 (eagle on 18); Grillo/Koivun/Woodland -7 T2; Scheffler 65 (-6) T5 (3 shots back, bogey-free debut); Kitayama 68 (-3) T-26; $8.8M / 500 FedExCup pts; TPC Twin Cities par-71 7,431 yards; R2 underway July 24 (Golf Channel 4:00 PM ET); Scheffler "bounced back from putting woes at The Open"
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R2 complete leaderboard; weekend play; Scheffler weekend charge
+
+### STORY 3: LIV Golf Crisis — PIF Exit + Asian Tour Alliance
+- **Tier:** 2
+- **Category:** Golf Business / LIV Golf Crisis
+- **Key facts:** Saudi PIF withdrawing after 2026 (announced April 29 CNBC); ~$5B invested since June 2022; PIF rationale: "no longer consistent with current phase of investment strategy"; Al-Rumayyan stepped down as chairman; new independent board Gene Davis + Jon Zinman seeking up to $250M; operating costs >$100M/month; operating on loans for remainder 2026; CEO O'Neil: 2026 will complete / $100M revenue increase (HSBC + Salesforce); PGA Tour + DP World Tour + Asian Tour triple alliance announced July 21 at Royal Birkdale (through 2029); LIV had invested $300M in Asian Tour International Series; O'Neil "completely by surprise"; next 3 events (UK/NJ/Indianapolis) expected to proceed
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** New investor announcement; 2027 season decision; player contract status
+
+### STORY 4: Women's Scottish Open R1
+- **Tier:** 2
+- **Category:** LPGA / Women's Golf
+- **Key facts:** Coughlin (defending 2024 champion) and Shin co-lead R1 at -6 (66); A Lim Kim -5 (3rd); Korda (World No. 1) 72 even par T-14 (30 putts); only 13 of 144 players broke par; 29 players couldn't break 80; Dundonald Links windswept/firm/fast; Coughlin: 8 birdies 2 bogeys; $2M prize fund; final event before AIG Women's British Open (Royal Porthcawl)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R2 results; Korda move up board; AIG Women's Open form guide
+
+### STORY 5: Rahm LIV Season Title
+- **Tier:** 2
+- **Category:** LIV Golf / Player Profile
+- **Key facts:** Rahm R2 67 (-4) / total approx -7 / 7 shots back of Niemann; JCB three-peat individual title near-impossible; season-long standings lead = 284 points; clinch scenario: wins tournament + DeChambeau finishes T2 or worse; DeChambeau Crushers at -14 teams; "cryptic tone on future" reports amid LIV financial uncertainty; won 2024+2025 LIV Individual Championships
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Championship Sunday result; season title standings update; Rahm future decision
+
+---
+
 ## 2026-07-23
 
 | Date | Tier | Story | Platforms | Status |

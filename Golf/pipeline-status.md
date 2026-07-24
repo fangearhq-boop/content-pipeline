@@ -1,10 +1,21 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
-- **Date**: 2026-07-23
+- **Date**: 2026-07-24
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-24
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres)
+- **PostPlanner exports:** gfr-postplanner-2026-07-24.xlsx (7 posts) + gfr-postplanner-tobi-2026-07-24.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-07-24/review-dashboard.html (22 items)
+- **Notes:** LIV UK R2 NIEMANN DOMINATES / 3M OPEN R1 / LIV CRISIS / WOMEN'S SCOTTISH R1 / RAHM TITLE RACE — Niemann R2 63 (-8) reaching -14 total / leads by 6 heading into Championship Sunday / 30 on front nine = LIV record at JCB / course harder in R2 / Torque GC -24 leads Legion XIII -21 by 3 (team race still on) / Watson -8 2nd / Rahm-Casey-Meronk-Surratt T3 at -7; 3M Open R1: Kohles 62 (-9) leads / eagle on 18 / Scheffler 65 (-6) T5 bogey-free debut ("bounced back from putting woes at The Open") / Kitayama 68 (-3) T-26 (defending) / R2 underway / Golf Channel 4pm ET; LIV crisis: PIF withdrawing $5B after 2026 (April 29 CNBC) / Al-Rumayyan stepped down / new board Gene Davis + Jon Zinman seeking $250M / operating costs >$100M/month / $100M revenue increase HSBC+Salesforce / PGA Tour + DP World Tour + Asian Tour alliance July 21 Royal Birkdale (through 2029) / LIV had invested $300M in Asian Tour / O'Neil "completely by surprise"; Women's Scottish Open R1: Coughlin (defending) + Shin co-lead -6 / only 13 of 144 broke par / 29 couldn't break 80 / Korda even par T-14 (30 putts) / $2M / last event before AIG Women's Open; Rahm: 67 (-4) R2 / -7 total / 7 back of Niemann / JCB three-peat near-impossible / season LIV title clinch alive (284-pt standings lead) / "cryptic tone on future" reports amid LIV uncertainty
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-23
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
