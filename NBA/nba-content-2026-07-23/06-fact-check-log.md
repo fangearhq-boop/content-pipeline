@@ -1,6 +1,6 @@
 # Fact-Check Log — Hoop Heroes — July 23, 2026
 
-**Generated:** 2026-07-23 11:21
+**Generated:** 2026-07-24 11:19
 **Claims extracted:** 24
 
 ## Verification Priority Guide
