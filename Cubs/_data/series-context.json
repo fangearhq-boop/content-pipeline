@@ -1,9 +1,58 @@
 {
-  "generated_at": "2026-07-23T08:30:00.380105+00:00",
-  "today_ct": "2026-07-23",
-  "off_day": true,
-  "is_series_start_today": false,
-  "series": null,
-  "today_cubs_game": null,
-  "rationale": "No upcoming Cubs game on today's CT calendar date."
+  "generated_at": "2026-07-24T08:30:00.569169+00:00",
+  "today_ct": "2026-07-24",
+  "off_day": false,
+  "is_series_start_today": true,
+  "series": {
+    "opponent": "Pittsburgh Pirates",
+    "opponent_id": 134,
+    "opponent_record": "53-50",
+    "cubs_record": "57-45",
+    "is_cubs_home": false,
+    "venue": "PNC Park",
+    "series_length": 3,
+    "games": [
+      {
+        "game_pk": "823352",
+        "game_date_iso": "2026-07-24T22:40:00Z",
+        "game_date_ct": "Fri 5:40 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      },
+      {
+        "game_pk": "823355",
+        "game_date_iso": "2026-07-25T22:40:00Z",
+        "game_date_ct": "Sat 5:40 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      },
+      {
+        "game_pk": "823354",
+        "game_date_iso": "2026-07-26T17:35:00Z",
+        "game_date_ct": "Sun 12:35 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      }
+    ],
+    "rationale": "Off day yesterday. Today: Cubs visit Pittsburgh Pirates \u2192 game 1 of 3."
+  },
+  "today_cubs_game": {
+    "game_pk": "823352",
+    "status": "Preview",
+    "detailed_status": "Scheduled",
+    "game_date_iso": "2026-07-24T22:40:00Z",
+    "game_date_ct": "Fri 5:40 PM CT",
+    "is_cubs_home": false,
+    "opponent_id": 134,
+    "opponent_name": "Pittsburgh Pirates",
+    "opponent_record": "53-50",
+    "cubs_record": "57-45",
+    "cubs_probable": "TBD",
+    "opponent_probable": "TBD",
+    "venue": "PNC Park"
+  },
+  "rationale": "Off day yesterday. Today: Cubs visit Pittsburgh Pirates \u2192 game 1 of 3."
 }
