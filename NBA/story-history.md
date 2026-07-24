@@ -4661,3 +4661,48 @@
 - **Key facts:** Heat: Giannis + LeBron, no depth; Cavs: Mitchell $273M + Harden + Mobley, 3rd LeBron stint; Warriors: Curry + Lendeborg + SL title; 76ers: Embiid + Brown + Maxey; NBA schedule held pending decision
 - **Status:** NEW
 - **Follow-up ideas:** Post-decision analysis; championship odds shift; preseason storylines
+
+## 2026-07-24
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-24 | T1 | LeBron Day 25 — Heat YouTube Press Conference Leak, "Trust the Process" Sixers Clue | X, FB, Article | FOLLOW UP |
+| 2026-07-24 | T1 | Reported Bam Adebayo / Tyler Herro Las Vegas Altercation — Heat Culture Under Scrutiny | X, FB, Article | FOLLOW UP |
+| 2026-07-24 | T2 | Kawhi Leonard Investigation — Silver's October Deadline Creates New Pressure for Toronto | X, FB, Article | FOLLOW UP |
+| 2026-07-24 | T2 | Dallas 3-Team Trade — Mavericks Acquire Risacher (2024 No. 1 Pick) from Hawks | X, FB, Article | NEW |
+| 2026-07-24 | T2 | Life After LeBron — Lakers Sign Thybulle and Williams, Trade Ayton to Washington | X, FB, Article | NEW |
+
+### STORY 1: LeBron Day 25 — Heat YouTube Leak / "Trust the Process"
+- **Tier:** 1
+- **Category:** NBA Free Agency / LeBron James
+- **Key facts:** Heat accidentally posted YouTube event "LeBron James Introductory Press Conference" for July 27 then deleted it; confirmed posted in error as contingency; LeBron's "Mind the Game" podcast with Haliburton (Fanatics Fest July 16, dropped July 21 on Prime Video) — LeBron said "trust the process" sparking 76ers speculation; LeBron clarified used phrase since 2003; Shams: LeBron taking 76ers pitch "really seriously"; Rich Paul: "We're not going to be rushed / first time LeBron making decision pressure free"; finalists Heat 48%/Cavs 27%/76ers/Warriors; NBA schedule still withheld; Day 25
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** LeBron announcement (July 27?); Heat press conference; Sixers confirmation or denial
+
+### STORY 2: Bam/Herro Las Vegas Altercation
+- **Tier:** 1
+- **Category:** NBA Off-Court / Heat
+- **Key facts:** Reports of physical altercation between Bam Adebayo and Tyler Herro in Las Vegas; no official statements; Herro traded to Milwaukee as part of Giannis deal; Bam remains Heat cornerstone; MEDIUM confidence — unconfirmed
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official statements; any confirmation or denial; impact on Heat's LeBron pitch
+
+### STORY 3: Kawhi Investigation — October Deadline
+- **Tier:** 2
+- **Category:** NBA Investigation / Trades
+- **Key facts:** Investigation ~11 months old; still "weeks away" per HoopsHype; expanded to 2nd deal + personal expenses; Silver: must wrap before next season (October); Toronto declined penalty risk, trade frozen; Kawhi→Toronto for Ingram+Dick+picks still pending; Kawhi 35; Wachtell Lipton conducting probe; Sanberg convicted 14 yrs
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Investigation conclusion; trade approved/voided/voided; NBA ruling
+
+### STORY 4: Dallas-Atlanta-OKC 3-Team Trade
+- **Tier:** 2
+- **Category:** NBA Transactions
+- **Key facts:** July 19 three-team trade; Nembhard→Hawks/Dort→Hawks/Risacher→Mavericks + 2nd-round picks; Risacher was Atlanta's 2024 No. 1 overall pick; Risacher 21 years old, 6-8 wing; Dallas rebuilding after Luka trade
+- **Status:** NEW
+- **Follow-up ideas:** Risacher training camp debut; Mavs next offseason move
+
+### STORY 5: Lakers Post-LeBron Rebuild
+- **Tier:** 2
+- **Category:** NBA Transactions / Roster
+- **Key facts:** Matisse Thybulle signed 1yr/$3.29M (July 20); Ziaire Williams signed; Deandre Ayton traded to Washington for Jaden Hardy + 2 2nd-round picks; Anthony Davis remains; Lakers building defense-first identity; LeBron departed as free agent
+- **Status:** NEW
+- **Follow-up ideas:** LeBron officially signs elsewhere; Lakers training camp roster evaluation; Davis season preview

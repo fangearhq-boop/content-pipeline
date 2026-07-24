@@ -1,10 +1,21 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Last Run
-- **Date**: 2026-07-23
+- **Date**: 2026-07-24
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-24
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** hh-postplanner-2026-07-24.xlsx (7 posts) + hh-postplanner-tobi-2026-07-24.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-07-24/review-dashboard.html (22 items)
+- **Notes:** FREE AGENCY DAY 25 — Heat deleted YouTube press conference event for July 27 (confirmed "accidental"); LeBron "trust the process" at Fanatics Fest podcast sparks 76ers speculation; Bam/Herro Las Vegas altercation reports (MEDIUM confidence, unconfirmed); Kawhi investigation nears 11 months/Silver October deadline; Dallas 3-team trade (Nembhard→Hawks/Dort→Hawks/Risacher→Mavs, July 19); Lakers signed Thybulle ($3.29M/1yr) + Williams, traded Ayton→Washington for Hardy+picks
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-23
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
