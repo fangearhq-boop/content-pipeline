@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-07-23 |
-| Writing | Complete (all steps) | 2026-07-23 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 38 claims) | 2026-07-23 |
-| Compile | Complete (07-content-data.json — 5 stories, 6 X posts, 5 FB posts, 5 articles) | 2026-07-23 |
-| Dashboard | Complete (review-dashboard.html, 26 items) | 2026-07-23 |
-| PostPlanner Export | Complete (standard 6 posts 13:04–20:29 ET; TOBI 6 posts) | 2026-07-23 |
-| WordPress Publish | Attempted — WP API blocked by proxy egress policy (403 Forbidden; same environment restriction as all prior runs) | 2026-07-23 |
-| Dashboard Push | Attempted — proxy blocks push to content-dashboards repo | 2026-07-23 |
+| Research | Complete | 2026-07-24 |
+| Writing | Complete (all steps) | 2026-07-24 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 41 claims, 76 HIGH) | 2026-07-24 |
+| Compile | Complete (07-content-data.json — 5 stories, 6 X posts, 5 FB posts, 5 articles) | 2026-07-24 |
+| Dashboard | Complete (review-dashboard.html, 26 items) | 2026-07-24 |
+| PostPlanner Export | Complete (standard 6 posts 12:55–20:25 ET; TOBI 6 posts) | 2026-07-24 |
+| WordPress Publish | Attempted — WP API blocked by proxy egress policy (403 Forbidden; same environment restriction as all prior runs) | 2026-07-24 |
+| Dashboard Push | Attempted — proxy blocks push to content-dashboards repo | 2026-07-24 |
 
 ## Queue
 
@@ -24,6 +24,24 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-07-24 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 6 X posts + 5 FB long-form = 11 total (PostPlanner xlsx: 6 posts 12:55–20:25 ET, 6 TOBI)
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-07-24.xlsx (6 posts), tfr-postplanner-tobi-2026-07-24.xlsx (6 TOBI posts)
+- **Coverage:** Kitzbühel SFs + CORRECTION: July 23 pipeline had Navone beat Halys 6-0, 6-3 — WRONG. Actual: Halys beat Navone 7-5, 6-3. Other QF score corrections: Bublik def. Molcan 6-3, 6-2; Etcheverry def. Buse 6-2, 7-5; Hanfmann def. Baez 6-3, 6-1. SFs: Bublik vs Etcheverry; Hanfmann vs Halys. Hanfmann oldest Kitzbühel Open Era SF (34y 8m). Estoril QF Day: Rublev def. Skatov 6-1, 6-1 in 59 min ("most dominant win of 2026" per ATP Tour); All 4 QFs set: Rublev/Van Assche, Darderi/Faria, Torres/Gaston, Burruchaga/Blockx. Darderi def. Martinez 6-0, 6-1; Faria (POR WC) def. Bueno 6-2, 6-4; Torres (WC) def. Tabilo 6-4, 6-4. WTA Prague: Krejcikova def. Havlickova 6-4, 6-2 (7-match streak); QF vs Salkova; Bouzkova (defending champion) def. Valentova 7-5, 6-4 into SFs. WTA Hamburg QF RESULTS: Sherif def. Badosa 6-2, 6-3 (Iasi rematch, Sherif wins again); Oliynykova def. Avanesyan 6-3, 2-6, 6-2; Bondar def. Charaeva 3-6, 7-5, 6-1; Kalinina def. Korpatsch 6-1, 6-3; SFs: Sherif/Kalinina, Bondar/Oliynykova. Canadian Open new WDs: Andreescu (CAN home crowd, "it definitely sucks"); Mboko confirmed out for rest of 2026 season (knee from Queen's Club); Yastremska replaced by Zarazua; total ~10 significant WDs; draws expected July 31.
+- **Notes:**
+  - CONTENT CORRECTION: July 23 pipeline stated Navone def. Halys 6-0, 6-3 in Kitzbühel QF — WRONG. Actual Halys def. Navone 7-5, 6-3 per ATP Tour, Tennis Tonic, TennisTourTalk, ATP Tour España verified X account. This changed the SF bracket (Hanfmann vs. Halys, not Hanfmann vs. Navone)
+  - Also correcting July 23 QF scores: Bublik def. Molcan 6-3, 6-2 (not 6-3, 7-5); Etcheverry def. Buse 6-2, 7-5 (not 7-6(4)); Hanfmann def. Baez 6-3, 6-1 (not 6-4, 7-6(2))
+  - verify-facts.py: 41 claims, 76 HIGH; cosmetic warnings same as prior runs
+  - compile: 5 stories, 6 X posts, 5 FB posts (bold format), 5 articles; posting window warnings cosmetic
+  - Dashboard: 26 items generated
+  - PostPlanner: FB posts 0 in XLSX (pre-existing parser limitation); 6 X posts in schedule 12:55–20:25 ET
+  - WordPress: WP API blocked by proxy egress policy (403); same restriction as all prior runs
+  - Dashboard push failed: proxy blocks write to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3] (rotating from July 23: Ryan Calloway [S1, S4], Elena Voss [S2, S5], Marcus Cole [S3])
 
 ### 2026-07-23 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)

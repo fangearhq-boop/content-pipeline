@@ -1067,3 +1067,52 @@ Track previously covered stories to avoid repetition and maintain content freshn
 - **Byline:** Elena Voss
 - **Key Facts:** Burruchaga def. Borges 6-1, 4-6, 6-3; QF berth; Rublev top seed, Bastad champion; Skatov R2 opponent; Darderi also in draw; Sources: ATP Tour official draw
 - **Follow-Up Opportunities:** Estoril QF and SF results; Burruchaga vs. potential Rublev SF
+
+---
+
+## 2026-07-24
+
+### Story 1: Kitzbühel SFs + QF Correction — Bublik/Etcheverry, Hanfmann/Halys
+- **Date:** 2026-07-24
+- **Angle:** FOLLOW UP (July 23) + CORRECTION — July 23 pipeline had QF result backwards: Halys beat Navone 7-5, 6-3 (not Navone beat Halys 6-0, 6-3). Also corrected: Bublik def. Molcan 6-3, 6-2; Etcheverry def. Buse 6-2, 7-5; Hanfmann def. Baez 6-3, 6-1. SF pairings: Bublik vs. Etcheverry; Hanfmann vs. Halys. Hanfmann oldest Kitzbühel Open Era SF at 34y 8m. Bublik chasing back-to-back (last successful defense 2013). H2H: Halys leads Hanfmann 2-0; Bublik leads Etcheverry 2-0. SF results not yet indexed.
+- **Content Produced:** Article, 2 X Text Posts (A + B), Facebook Long-Form, Facebook Image Caption, 3 Image Concepts
+- **Tier:** 1
+- **Byline:** Elena Voss
+- **Key Facts:** Halys def. Navone 7-5, 6-3 (CORRECTION); Hanfmann 4th Kitzbühel SF Open Era record; Sources: ATP Tour, TennisTourTalk, Tennis Tonic, ATP Tour España verified X
+- **Follow-Up Opportunities:** Kitzbühel SF results; Kitzbühel final Saturday
+
+### Story 2: Estoril QF Day — Rublev 6-1 6-1 in 59 min; All 4 QFs Set
+- **Date:** 2026-07-24
+- **Angle:** FOLLOW UP (July 22/23) — Rublev def. Skatov 6-1, 6-1 in 59 min ("most dominant win of 2026" per ATP Tour). QFs: Rublev/Van Assche; Darderi/Faria; Torres/Gaston; Burruchaga/Blockx. Torres upset No. 3 seed Tabilo 6-4, 6-4. Darderi def. Martinez 6-0, 6-1. Faria (POR WC) def. Bueno 6-2, 6-4.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Marcus Cole
+- **Key Facts:** Rublev 6-1, 6-1 vs Skatov in 59 min; ATP Tour "most dominant win of 2026"; All 4 QF pairings confirmed; Sources: ATP Tour official, Tennis Tonic, 10sballs, Tennis Majors
+- **Follow-Up Opportunities:** Estoril QF results; SFs Saturday
+
+### Story 3: WTA Prague QF Day — Krejcikova def. Havlickova, Bouzkova into SFs
+- **Date:** 2026-07-24
+- **Angle:** FOLLOW UP (July 23) — Krejcikova def. Havlickova 6-4, 6-2 in R2 (streak now 7 matches from Athens). QF vs. Salkova Friday. Bouzkova (defending champion) def. Valentova 7-5, 6-4 in QF — into SFs. Salkova def. Dodin 6-1, 6-1 in R2.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Ryan Calloway
+- **Key Facts:** Krejcikova def. Havlickova 6-4, 6-2; 7-match streak; Bouzkova defending champion; Bouzkova def. Valentova 7-5, 6-4 (QF, MEDIUM-HIGH conf.); Sources: Tennis Tonic, WTA official, beIN Sports
+- **Follow-Up Opportunities:** Krejcikova QF vs Salkova result; Prague SFs and Final (Sunday July 26)
+
+### Story 4: WTA Hamburg QF Results — Sherif def. Badosa Again; Oliynykova/Bondar Through
+- **Date:** 2026-07-24
+- **Angle:** FOLLOW UP (July 22) — Full Hamburg QF results: Sherif def. Badosa 6-2, 6-3 (rematch of Iasi final where Sherif won via Badosa retirement 5 days earlier); Oliynykova def. Avanesyan 6-3, 2-6, 6-2; Bondar def. Charaeva 3-6, 7-5, 6-1; Kalinina def. Korpatsch 6-1, 6-3. SFs Saturday: Sherif vs. Kalinina; Bondar vs. Oliynykova.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Elena Voss
+- **Key Facts:** Sherif def. Badosa 6-2, 6-3 (Iasi rematch); Oliynykova def. Avanesyan; Bondar def. Charaeva; Kalinina def. Korpatsch; SF pairings set; Sources: Tennis Tonic, Last Word on Sports, Tenis al Maximo
+- **Follow-Up Opportunities:** Hamburg SFs Saturday; Hamburg Final Sunday July 26
+
+### Story 5: Canadian Open WDs — Andreescu Out; Mboko Out for 2026 Season
+- **Date:** 2026-07-24
+- **Angle:** FOLLOW UP (July 23) — New additions: Andreescu (CAN, home crowd, "it definitely sucks"); Mboko (CAN, defending champion) confirmed out for rest of 2026 season (knee from Queen's Club). Total ~10 significant WDs. Draws expected July 29-31. Women Toronto Aug. 1; Men Montreal Aug. 4.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Marcus Cole
+- **Key Facts:** Andreescu out; Mboko out for 2026 season; ~10 total WDs (men: Sinner/Djokovic/Alcaraz/Draper; women: Muchova/Mboko/Paolini/Raducanu/Yastremska/Andreescu); Sources: Tennis365, Yardbarker, Tennis Tonic, tennisuptodate
+- **Follow-Up Opportunities:** Canadian Open draws July 31; tournament Aug. 1/4

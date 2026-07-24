@@ -1,0 +1,288 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-24",
+  "compiled_at": "2026-07-24T12:25:05.398810+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 (Kitzbühel SFs + correction)",
+      "type": "X + FB"
+    },
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 (Kitzbühel SFs)",
+      "type": "X"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2 (Estoril QF Day)",
+      "type": "X + FB"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 3 (WTA Prague QF)",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 (WTA Hamburg QF results)",
+      "type": "X + FB"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 5 (Canadian Open WDs)",
+      "type": "X + FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Kitzbühel Semifinals Day — Bublik/Etcheverry, Hanfmann/Halys; QF Score Correction",
+      "tier": 1,
+      "status": "",
+      "angle": "FOLLOW UP (July 23 pipeline) + CORRECTION — The Generali Open Kitzbühel (ATP 250) reaches its semifinals Friday. CORRECTION: Yesterday's pipeline incorrectly reported Navone defeated Halys 6-0, 6-3 in the quarterfinals. The actual result was Halys defeating Navone 7-5, 6-3. Also correcting other QF scores: Bublik def. Molcan 6-3, 6-2; Etcheverry def. Buse 6-2, 7-5; Hanfmann def. Baez 6-3, 6-1. SF pairings: (1) Bublik vs. Etcheverry; (2) Hanfmann vs. Halys. H2H: Halys leads Hanfmann 2-0; Bublik leads Etcheverry 2-0. Hanfmann is the oldest player to reach a Kitzbühel Open Era semifinal at 34 years, 8 months. Bublik is chasing back-to-back titles — the last player to successfully defend Kitzbühel did so in 2013. SF results not yet indexed at pipeline run time.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Correction + Kitzbühel SFs 🎾\n\nYesterday we had the wrong QF result: Halys beat Navone 7-5, 6-3 — not the reverse. Apologies.\n\nSFs today:\n▸ Bublik vs. Etcheverry\n▸ Hanfmann vs. Halys\n\nFinal is Saturday.\n\n#ATPKitzbuhel #GeneraliOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPKitzbuhel",
+            "#GeneraliOpen"
+          ],
+          "char_count": 230
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Yannick Hanfmann is 34 years old and just reached his FOURTH Kitzbühel semifinal — the most of any player in the Open Era.\n\nHe faces Quentin Halys today. The crowd in Austria knows this name well.\n\n#ATPKitzbuhel #GeneraliOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPKitzbuhel",
+            "#GeneraliOpen"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "We owe you a correction before we preview today's semifinals at Kitzbühel.\n\nIn yesterday's coverage, we reported that Mariano Navone defeated Quentin Halys 6-0, 6-3 in the quarterfinals. That was wrong. The actual result was Halys defeating Navone 7-5, 6-3. We also had slightly off scores on a couple of other QFs: Bublik beat Molcan 6-3, 6-2 (not 6-3, 7-5), Etcheverry beat Buse 6-2, 7-5 (not 7-6(4)), and Hanfmann beat Baez 6-3, 6-1. Apologies for the errors — here are the corrected records.\n\nBecause Halys beat Navone, the SF bracket is: Bublik vs. Etcheverry, and Hanfmann vs. Halys (not Hanfmann vs. Navone as we stated).\n\nOn the tennis itself: Yannick Hanfmann is an unusual protagonist for a semifinal story. The German is 34 years old and today marks his fourth Kitzbühel semifinal in the Open Era — more than any other player in this event's history. That kind of connection to one tournament over a long career is a real thing in tennis, and Kitzbühel has clearly been a happy hunting ground for Hanfmann.\n\nMeanwhile, Bublik — the defending champion — is trying to go back-to-back. The last player to successfully defend the Kitzbühel title did so in 2013.\n\nWho do you think wins the final on Saturday?\n\n---",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-kitzbuhel-sfs-correction.html",
+        "headline": "Kitzbühel Semifinals Set: Bublik, Etcheverry, Hanfmann, Halys — Plus a QF Correction",
+        "word_count": 446
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Kitzbühel SFs + Correction\n\n**Social Image (1080x1350):**\n- imagn_search: \"Alexander Bublik ATP\"\n- Caption concept: \"KITZBÜHEL / SEMIFINALS TODAY / BUBLIK VS ETCHEVERRY\"\n\n**Facebook Image (1080x1350):**\n- imagn_search: \"Yannick Hanfmann ATP\"\n- Caption concept: \"HANFMANN / 4TH KITZBÜHEL SF / OPEN ERA RECORD\"\n\n**Article Hero (1200x630):**\n- imagn_search: \"Alexander Bublik ATP\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Kitzbühel SFs + QF Score Correction\n**CORRECTION (HIGH — ATP Tour, Tennis Tonic, TennisTourTalk, ATP Tour España verified X account):**\n- QF Result — Halys d. Navone 7-5, 6-3 (July 23 pipeline incorrectly stated Navone d. Halys 6-0, 6-3)\n**Corrected QF Scores (HIGH — Tennis Tonic QF results roundup, TennisTourTalk):**\n- Bublik d. Molcan 6-3, 6-2\n- Etcheverry d. Buse 6-2, 7-5\n- Hanfmann d. Baez 6-3, 6-1\n- Halys d. Navone 7-5, 6-3\n**Semifinals scheduled Friday July 24 (HIGH — TennisTourTalk, Tennis Tonic):**\n- SF1: Bublik [1] vs. Etcheverry\n- SF2: Hanfmann vs. Halys\n**H2H data (HIGH — TennisTourTalk):**\n- Halys leads Hanfmann H2H 2-0\n- Bublik leads Etcheverry H2H 2-0\n**Hanfmann age/record angle (HIGH — TennisTourTalk):**\n- Hanfmann is the oldest player to reach a Kitzbühel Open Era SF at 34 years, 8 months\n**Bublik title defense angle (HIGH — ATP Tour context):**\n- Bublik is defending Kitzbühel champion; chasing back-to-back titles\n- Last successful defense of Kitzbühel title was in 2013 (MEDIUM — Tennis Majors, Tennis Now; do not name the 2013 champion without verification)\n**SF results:** Not yet indexed at pipeline run time (matches scheduled Friday afternoon Austria time)\n**Sources:** ATP Tour official, TennisTourTalk (https://tennistourtalk.com/136103/hanfmann-extends-kitzbuhel-love-affair-as-generali-open-sets-semifinal-lineup), Tennis Tonic (https://tennistonic.com/tennis-news/1031003/quentin-halys-surprises-navone-in-the-quarter-to-set-up-a-battle-vs-hanfmann-highlights-kitzbuhel-results/), ATP Tour España verified X account (@ATPTour_ES)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Estoril QF Day — Rublev \"Most Dominant Win of 2026,\" All Four QFs Set",
+      "tier": 1,
+      "status": "",
+      "angle": "FOLLOW UP (July 22/23 pipeline) — Top seed Andrey Rublev (RUS, No. 14) demolished Timofey Skatov 6-1, 6-1 in 59 minutes Thursday — ATP Tour called it his \"most dominant win of 2026.\" The Bastad champion now meets Van Assche (FRA) in the Millennium Estoril Open (ATP 250) quarterfinals Friday. Full QF slate: Rublev vs. Van Assche; Burruchaga (ARG) vs. Blockx (BEL, No. 4 seed); Darderi (ITA, No. 2) vs. Faria (POR, Portuguese wildcard/crowd favorite); Torres (ESP, wildcard) vs. Gaston (FRA). Torres upset No. 3 seed Tabilo 6-4, 6-4 in R2 to reach the QF. Darderi beat Martinez 6-0, 6-1. Faria beat Portuguese compatriot Bueno 6-2, 6-4. SFs scheduled Saturday.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Rublev demolished Skatov 6-1, 6-1 in 59 minutes at Estoril on Thursday.\n\nATP Tour called it his most dominant win of 2026. Fresh off the Bastad title.\n\nQFs today: Rublev/Van Assche + Darderi/Faria + Torres/Gaston + Burruchaga/Blockx.\n\n#EstorilOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#EstorilOpen"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "Andrey Rublev arrived in Estoril coming off a Bastad title last weekend — and on Thursday he wasted absolutely no time proving he belongs at the top of the draw.\n\nRublev defeated Timofey Skatov 6-1, 6-1 in 59 minutes. The ATP Tour itself described that performance as Rublev's most dominant win of 2026. On a surface where close sets and tactical battles are the norm, dropping just two games in 59 minutes is a statement.\n\nToday he faces Luca Van Assche in the quarterfinals at the Millennium Estoril Open. The rest of the QF bracket is equally compelling: Luciano Darderi — who faced Rublev in the Bastad final — takes on Jaime Faria, a Portuguese wildcard who will have the Lisbon crowd firmly in his corner. Torres (another wildcard, who upset No. 3 seed Tabilo 6-4, 6-4 in R2) faces Gaston. And Roman Andres Burruchaga — the Argentine who beat Wawrinka in his final clay match at this tournament — takes on fourth seed Alexander Blockx.\n\nFour quarterfinals. Saturday semifinals. Can Rublev carry his Bastad form all the way to a second straight title?\n\nWhich QF are you most excited about today?\n\n---",
+        "image_caption": "",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-estoril-qf-day.html",
+        "headline": "Estoril QF Day: Rublev's Dominant Week Sets Up Four-Match Quarterfinal Slate",
+        "word_count": 484
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Estoril QF Day\n\n**Social Image (1080x1350):**\n- imagn_search: \"Andrey Rublev ATP\"\n- Caption concept: \"RUBLEV / 6-1 6-1 IN 59 MIN / ESTORIL QF TODAY\"\n\n**Facebook Image (1080x1350):**\n- imagn_search: \"Luciano Darderi ATP\"\n- Caption concept: \"DARDERI VS FARIA / ESTORIL QF / CROWD FAVORITE\"\n\n**Article Hero (1200x630):**\n- imagn_search: \"Andrey Rublev ATP\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Estoril ATP QF Day\n**Rublev vs. Skatov R2 result (HIGH — ATP Tour official):**\n- Rublev d. Skatov 6-1, 6-1 in 59 minutes\n- ATP Tour described as Rublev's \"most dominant win of 2026\"\n**Other R2 results (HIGH — Tennis Tonic, Tennis Majors):**\n- Darderi d. Martinez 6-0, 6-1\n- Van Assche d. Carreno Busta 6-3, 4-6, 6-2\n- Faria d. Bueno 6-2, 6-4 (Portuguese WC)\n- Torres d. Tabilo 6-4, 6-4 (WC upset over No. 3 seed)\n- Burruchaga d. Borges 6-1, 4-6, 6-3 (confirmed from July 22 pipeline — Burruchaga IS in QF)\n- Blockx d. Jacquet 3-6, 6-4, 7-6(4)\n**QF matchups Friday July 24 (HIGH — 10sballs Estoril OOP, ATP Tour, Sportskeeda, Tennis Tonic):**\n- Rublev vs. Van Assche (2:30 PM, Estadio Millennium)\n- Darderi vs. Faria (7:30 PM, Estadio Millennium)\n- Torres vs. Gaston\n- Burruchaga vs. Blockx [4]\n**QF results:** Not yet indexed at pipeline run time (matches scheduled Friday local time)\n**Sources:** ATP Tour official (Rublev-Skatov), 10sballs.com Estoril OOP July 24, Tennis Majors (Torres, Faria), Tennis Tonic Estoril R2 roundup, Sportskeeda (Burruchaga vs Blockx QF preview)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "WTA Prague QF Day — Krejcikova Beats Havlickova, Bouzkova Advances",
+      "tier": 2,
+      "status": "",
+      "angle": "FOLLOW UP (July 23 pipeline) — Barbora Krejcikova (CZE) defeated local qualifier Lucie Havlickova (CZE) 6-4, 6-2 in R2 Thursday, extending her winning streak from Athens to seven matches. She now faces Marta Salkova (CZE) in Friday's QF (6:30 PM local; result not yet indexed). In a completed QF, defending champion Marie Bouzkova (CZE) defeated fifth seed Tereza Valentova (CZE) 7-5, 6-4 to reach the semifinals. The Livesport Prague Open (WTA 250, July 20-26) is running as an all-Czech showcase this week.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Barbora Krejcikova beat local qualifier Havlickova 6-4, 6-2 in Prague — extending her Athens winning streak to 7 matches.\n\nQF today vs. Salkova. Defending champ Bouzkova already through to the semis.\n\nAll-Czech, all week long. 🎾\n\n#WTAPrague #LivesportPragueOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTAPrague",
+            "#LivesportPragueOpen"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": {
+        "long_form": "Barbora Krejcikova's run through Prague is starting to feel like something special.\n\nShe claimed the Athens title last weekend — her ninth career WTA crown. She then returned home to the Livesport Prague Open, where she beat local qualifier Lucie Havlickova 6-4, 6-2 on Thursday to move into the quarterfinals. That's seven matches in a row, and today she faces Marta Salkova (who beat Dodin 6-1, 6-1 in R2) in a QF that keeps the all-Czech theme going.\n\nMeanwhile, defending champion Marie Bouzkova has already punched her ticket to the semifinals. Bouzkova defeated fifth seed Tereza Valentova 7-5, 6-4 in today's early QF — and as the defending champion in this event, she'll be the one to beat in the semis.\n\nIf Krejcikova wins today, we could be looking at a defending champion vs. the hottest player in tennis right now meeting in the Prague final. Czech tennis fans this week are being treated to something rare.\n\nWho are you rooting for in today's Prague QF?\n\n---",
+        "image_caption": "",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-03-wta-prague-qf.html",
+        "headline": "WTA Prague QF Day: Krejcikova Extends Streak, Bouzkova Defends to Semis",
+        "word_count": 439
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "WTA Prague QF Day\n\n**Social Image (1080x1350):**\n- imagn_search: \"Barbora Krejcikova WTA\"\n- Caption concept: \"KREJCIKOVA / 7-MATCH STREAK / PRAGUE QF TODAY\"\n\n**Facebook Image (1080x1350):**\n- imagn_search: \"Marie Bouzkova WTA\"\n- Caption concept: \"BOUZKOVA / DEFENDING CHAMPION / INTO THE SEMIS\"\n\n**Article Hero (1200x630):**\n- imagn_search: \"Barbora Krejcikova WTA\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "WTA Prague QF Day\n**Krejcikova R2 result — CONFIRMED (HIGH — Tennis Tonic, WTA official):**\n- Krejcikova def. Havlickova 6-4, 6-2 (R2, Thursday July 23)\n- Streak from Athens title now at 7 matches\n**Prague QF matchups Friday (HIGH — WTA official site):**\n- Krejcikova [2] vs. Salkova (6:30 PM local; result not yet indexed at pipeline run time)\n- Bouzkova [1] def. Valentova [5] 7-5, 6-4 (MEDIUM-HIGH — one confirmed source; WTA pairing confirmed)\n**Salkova's R2 result (HIGH — Tennis Tonic):**\n- Salkova def. Dodin 6-1, 6-1 (R2)\n**Bouzkova as defending champion (HIGH — beIN Sports, Field Level Media):**\n- Marie Bouzkova is the defending Prague Open champion\n**Sources:** Tennis Tonic (https://tennistonic.com/tennis-news/1030971/barbora-krejcikova-defeats-havlickova-in-the-2nd-round-to-battle-vs-salkova-at-the-livesport-prague-open-highlights-prague-results/), WTA official (wtatennis.com Prague 2026 scores page), Tennis Tonic Prague R2 Wednesday results",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "WTA Hamburg QF Results — Sherif Beats Badosa Again; Oliynykova Holds",
+      "tier": 2,
+      "status": "",
+      "angle": "FOLLOW UP (July 22 pipeline) — Full Hamburg quarterfinal results from the MSC Hamburg Ladies Open (WTA 250): Mayar Sherif (EGY) defeated Paula Badosa (ESP) 6-2, 6-3 — a rematch of last Sunday's Iasi final where Sherif won via Badosa's retirement. Sherif wins the direct contest on clay too. Oleksandra Oliynykova (UKR, No. 1 seed) defeated Elina Avanesyan (ARM) 6-3, 2-6, 6-2. Anna Bondar (HUN) defeated Alina Charaeva 3-6, 7-5, 6-1. Anhelina Kalinina (UKR) defeated Tamara Korpatsch (GER, home crowd favorite) 6-1, 6-3. Semifinals Saturday: Sherif vs. Kalinina; Bondar vs. Oliynykova.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Mayar Sherif beat Paula Badosa AGAIN — 6-2, 6-3 at Hamburg.\n\nFive days ago Sherif won Iasi when Badosa retired trailing 6-4, 4-0.\n\nToday: the direct match. Same result.\n\nSF: Sherif vs. Kalinina. Bondar vs. Oliynykova.\n\n#WTAHamburg #MSCHamburg",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTAHamburg",
+            "#MSCHamburg"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": {
+        "long_form": "Five days ago, Mayar Sherif won the Iasi title when Paula Badosa retired from the final, trailing 6-4, 4-0. Today they met on the clay in Hamburg — and Sherif did it again.\n\nThe Egyptian beat Badosa 6-2, 6-3 in the Hamburg quarterfinal, ending the Spanish player's run and booking her spot in Saturday's semifinal. This time there was no retirement, just a straight defeat. Sherif has now beaten Badosa twice in five days on clay.\n\nElsewhere in the quarterfinals: No. 1 seed Oleksandra Oliynykova survived a scare from Elina Avanesyan (who had beaten No. 7 seed Putintseva in R2) to win 6-3, 2-6, 6-2. Anna Bondar beat Alina Charaeva 3-6, 7-5, 6-1. And Anhelina Kalinina beat local German hope Tamara Korpatsch 6-1, 6-3.\n\nSaturday's semifinals: Sherif vs. Kalinina, and Bondar vs. Oliynykova.\n\nAfter beating Badosa twice in five days, do you think Mayar Sherif is on her way to a second straight WTA title?\n\n---",
+        "image_caption": "",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-wta-hamburg-qf-results.html",
+        "headline": "WTA Hamburg QF: Sherif Beats Badosa Again; Oliynykova and Bondar Also Advance",
+        "word_count": 397
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "WTA Hamburg QF Results\n\n**Social Image (1080x1350):**\n- imagn_search: \"Mayar Sherif WTA\"\n- Caption concept: \"SHERIF / BEATS BADOSA AGAIN / 6-2 6-3 HAMBURG QF\"\n\n**Facebook Image (1080x1350):**\n- imagn_search: \"Oleksandra Oliynykova WTA\"\n- Caption concept: \"OLIYNYKOVA / INTO THE SEMIS / HAMBURG OPEN\"\n\n**Article Hero (1200x630):**\n- imagn_search: \"Mayar Sherif WTA\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "WTA Hamburg QF Results\n**QF Results Friday July 24 (MEDIUM-HIGH — multiple sources cross-referenced):**\n- Sherif def. Badosa 6-2, 6-3\n- Oliynykova def. Avanesyan 6-3, 2-6, 6-2\n- Bondar def. Charaeva 3-6, 7-5, 6-1\n- Kalinina def. Korpatsch 6-1, 6-3\n**SF lineup Saturday July 25 (MEDIUM-HIGH):**\n- Sherif vs. Kalinina\n- Bondar vs. Oliynykova\n**Rematch angle (HIGH — WTA records):**\n- Sherif beat Badosa via Badosa's retirement at Iasi final July 20 (trailing 6-4, 4-0)\n- Today's QF is the direct on-court contest — Sherif wins again 6-2, 6-3\n**R2 results feeding QF (HIGH — Tennis Tonic Hamburg R2 roundup):**\n- Badosa d. Udvardy (3) 6-4, 6-1\n- Oliynykova (1) d. Romero Gormaz 7-6(3), 3-6, 6-2\n- Avanesyan d. Putintseva (7) 6-3, 2-6, 6-2\n- Sherif d. Jacquemot 6-2, 6-3\n**Sources:** Tennis Tonic Hamburg R2 roundup, Last Word on Sports (Sherif vs Badosa QF), Tenis al Maximo (Oliynykova advances), TennisTourTalk Hamburg QF results",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Canadian Open Withdrawal List Grows — Andreescu Out, Mboko Out for Season",
+      "tier": 2,
+      "status": "",
+      "angle": "FOLLOW UP (July 23 pipeline) — New additions to the National Bank Open withdrawal list. Bianca Andreescu (CAN) has confirmed she is withdrawing, citing injury (\"it definitely sucks\"). Victoria Mboko (CAN, No. 12, defending Toronto women's champion) is confirmed out for the remainder of the season after her knee injury at Queen's Club. Yastremska (UKR) is also confirmed out of the Toronto draw (replaced by Zarazua). The women's field now missing at least nine significant players: Muchova, Mboko, Paolini, Raducanu, Yastremska, Andreescu among them. Draws expected July 29-31. Tournament: women Toronto Aug. 1; men Montreal Aug. 4.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Canadian Open update: Andreescu (home country) is now out. Mboko (defending women's champion) is out for the rest of the 2026 season entirely.\n\n9+ confirmed withdrawals. Draw drops July 31. Tournament Aug. 1 (women) / Aug. 4 (men).\n\n#NationalBankOpen #CanadianOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NationalBankOpen",
+            "#CanadianOpen"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": {
+        "long_form": "The Canadian Open keeps losing players before it even starts.\n\nTwo more significant names joined the withdrawal list today. Bianca Andreescu, who would have been playing in front of home fans in Toronto, confirmed she is out — \"it definitely sucks,\" she said. And Victoria Mboko, the defending Toronto women's champion, has not just withdrawn from the Canadian Open — she is confirmed out for the remainder of the 2026 season entirely, due to the knee injury she sustained at Queen's Club.\n\nAdd those to the list already compiled: Karolina Muchova (minor surgery post-Wimbledon), Jasmine Paolini (foot), Emma Raducanu (stress fracture), Dayana Yastremska — on the women's side; and Sinner, Djokovic, Alcaraz, and Draper on the men's side.\n\nThat's roughly ten significant players missing from a tournament that doesn't even release its draw until July 31. The August 1 women's event in Toronto and the August 4 men's event in Montreal are going to look very different from what anyone expected.\n\nWith so many big names out, which players do you think are set up for a surprise run at the Canadian Open?\n\n---",
+        "image_caption": "",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-canadian-open-more-withdrawals.html",
+        "headline": "Canadian Open Keeps Losing Players: Andreescu Out, Mboko Gone for the Season",
+        "word_count": 528
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Canadian Open WDs\n\n**Social Image (1080x1350):**\n- imagn_search: \"Bianca Andreescu WTA\"\n- Caption concept: \"CANADIAN OPEN / ANDREESCU OUT / 10+ WITHDRAWALS\"\n\n**Facebook Image (1080x1350):**\n- imagn_search: \"Victoria Mboko WTA\"\n- Caption concept: \"MBOKO / DEFENDING CHAMPION / OUT FOR 2026 SEASON\"\n\n**Article Hero (1200x630):**\n- imagn_search: \"Bianca Andreescu WTA\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Canadian Open — More Withdrawals\n**New additions since July 23 pipeline (HIGH — multiple sources):**\n- Bianca Andreescu (CAN) — confirmed out; quoted \"it definitely sucks\"\n- Victoria Mboko (CAN, No. 12) — confirmed out for remainder of 2026 season (not just Canadian Open)\n- Yastremska confirmed (mentioned in first research wave; replaced by Zarazua)\n**Full confirmed withdrawal list (HIGH — Tennis365, Yardbarker, Tennis Tonic, tennisuptodate):**\nMen (Montreal):\n- Jannik Sinner (WR No. 1) — elbow; targeting Cincinnati + USO\n- Novak Djokovic — groin; going straight to USO\n- Carlos Alcaraz (No. 3) — wrist (out since April 14 Barcelona)\n- Jack Draper — arm\nWomen (Toronto):\n- Karolina Muchova (No. 6) — minor surgery post-Wimbledon final run\n- Victoria Mboko (No. 12, defending champion) — knee injury from fall at Queen's Club; out for rest of 2026 season\n- Jasmine Paolini (No. 15) — foot injury; also out of Washington\n- Emma Raducanu — stress fracture in leg\n- Dayana Yastremska — withdrawn; replaced by Renata Zarazua\n- Bianca Andreescu (CAN) — confirmed withdrawal\n**Mboko as defending champion (HIGH):** Victoria Mboko won the Toronto women's title in 2025; she will not defend due to knee injury\n**Draw release date (HIGH):** July 29-31 (varying source framing; July 31 used in official communications)\n**Tournament dates:** Women Toronto Aug. 1; Men Montreal Aug. 4\n**Sources:** Tennis365 (8 stars out article), Yardbarker (10+ withdrawals framing), Tennis Tonic (main withdrawal roundup), tennisuptodate (Paolini withdrawal), Canadian Open official communications",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
