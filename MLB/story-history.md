@@ -5,6 +5,62 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-24
+
+### Story 1: Skubal Says He Wants to Stay — Dodgers Still the Lead Suitor
+- **Date:** 2026-07-24
+- **Tier:** 1
+- **Classification:** NEW (Skubal made public statement July 23 — first on-record preference)
+- **Angle:** Skubal publicly stated: "My preference is to finish the season with the Tigers and win the World Series." Acknowledged next start could be his last with Detroit. ESPN's Passan/McDaniel put trade odds at 60%. Dodgers are top suitor (can offer controllable starter + prospects). Detroit 6.5 back in AL Central, 4.5 back in Wild Card. August 3 deadline 10 days away.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, image concepts
+- **Follow-Up Opportunities:**
+  - Final Skubal trade decision by August 3
+  - Dodgers package if deal closes
+  - Tigers' playoff positioning post-deadline
+
+### Story 2: Red Sox in Buy Mode — 52-49, 20-3 Run, Eyeing Zach Neto
+- **Date:** 2026-07-24
+- **Tier:** 1
+- **Classification:** FOLLOW UP (win streak ended July 23 at 15; team now buyers)
+- **Angle:** Red Sox went from 37-48 to 52-49 on 15-game win streak + 20-3 in last 23. Now in buy mode. Reports: interest in Zach Neto (SS, Angels). Streak built on 1.98 team ERA, 7-0 1.15 ERA bullpen. From seller candidates to buyers in 30 days.
+- **Content Produced:** Article (article-02, Jake Torres), 1 X post, FB long-form + caption, image concepts
+- **Follow-Up Opportunities:**
+  - Zach Neto trade if it happens
+  - Red Sox playoff positioning through August
+
+### Story 3: Ohtani Timeline — 30-Pitch Bullpen July 22, Next Session Saturday
+- **Date:** 2026-07-24
+- **Tier:** 2
+- **Classification:** FOLLOW UP (bullpen session happened July 22; next expected July 25 at Citi Field)
+- **Angle:** Ohtani threw ~30 pitches at Citizens Bank Park July 22. Prior: "looked like normal side session." Roberts: "at least a week to 10 days" before return discussion. Roberts: "can't foresee 100 pitches first outing." Next bullpen Saturday July 25 Citi Field. Last pitched July 3; 8-2, 1.79 ERA, 95K, 85.2 IP before injury.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, image concept
+- **Follow-Up Opportunities:**
+  - Second bullpen Saturday July 25
+  - Return to rotation announcement whenever it comes
+
+### Story 4: White Sox 54-47 Lead AL Central — Rebuild Arc Complete
+- **Date:** 2026-07-24
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Teel IL, Quero called up, AL Central standings update)
+- **Angle:** White Sox 54-47, 1 game up on Guardians (54-49). 2024: 41-121 (worst MLB record ever). 2025: 60-102. 2026: first place AL Central. 30-win improvement matches only 7 franchises in history. Montgomery 20 HR. Quero (22) replacing Teel. Twins beat Guardians 3-1 July 23 (helps Chicago). Buyers heading into deadline.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, image concept
+- **Follow-Up Opportunities:**
+  - AL Central outcome — division title vs. Wild Card
+  - Montgomery HR pace (38+ possible)
+  - Trade deadline buyer moves
+
+### Story 5: July 23 Recap — Chris Sale 11 Ks, Braves 6 Padres 5
+- **Date:** 2026-07-24
+- **Tier:** 3
+- **Classification:** NEW (notable July 23 game; Sale season-high Ks)
+- **Angle:** Sale matched season-high 11 K at Petco Park; Braves hit 4 HRs, won 6-5. Also: Tigers 4-3 Royals (Outman 3-run HR 7th, Dingler tiebreaking double 8th); Blue Jays 3-1 Rays; Twins 3-1 Guardians (AL Central implications); D-backs 10-6 Cardinals (makeup game).
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, image concept
+- **Follow-Up Opportunities:**
+  - Braves NL playoff position
+  - Sale full-season K total
+
+---
+
 ## 2026-07-23
 
 ### Story 1: Red Sox Win Streak Ends at 15 — Tied the Record, Couldn't Break It

@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-07-24
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch + 3 research agents, 5 stories verified HIGH confidence), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations), FB posts (5 stories), image concepts (10 items), image manifest (10 items, not_started), articles (5), fact-check (32 claims HIGH), compile (5 stories, 6 tweets, 0 FB compiled — format; 5 articles, 21 items), dashboard (21 items), PostPlanner exports (6 posts standard + 6 TOBI). WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard publish push failed (proxy known restriction). IMAGE MISSING expected (not_started). claim-patterns.py missing (known). 0 char violations.
+- **Key Stories**: Skubal July 23 public statement "preference is to finish with Tigers"/Passan 60% trade odds/Dodgers top suitor (controllable starter + prospects)/Detroit 6.5 back AL Central 4.5 back WC/August 3 deadline 10 days (Tier 1 NEW), Red Sox 52-49/37-48→52-49 on 15-game win streak/20-3 last 23/buyers/targeting Zach Neto SS Angels/1.98 ERA 7-0 1.15 bullpen streak/from sellers to buyers (Tier 1 FOLLOW UP), Ohtani ~30-pitch bullpen July 22 Citizens Bank/Prior "normal side session"/Roberts "at least week to 10 days"/next bullpen Saturday Citi Field/last pitched July 3 (8-2 1.79 ERA 95K 85.2IP) (Tier 2 FOLLOW UP), White Sox 54-47 AL Central 1 game up Guardians 54-49/2024: 41-121/2025: 60-102/2026: first place/30-win improvement/Montgomery 20 HR/Quero replacing Teel/Twins beat Guardians 3-1 helps Chicago (Tier 2 FOLLOW UP), Chris Sale 11 K Petco Park season-high/Braves 4 HR/Braves 6-5 Padres/Tigers 4-3 Royals (Outman 3-run HR + Dingler double)/Twins 3-1 Guardians (Tier 3 NEW)
+
+## Last Run
 - **Date**: 2026-07-23
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch + research agent, 5 stories verified HIGH confidence), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations), FB posts (5 stories), image concepts (12 items), image manifest (12 items, not_started), articles (5), fact-check (32 claims HIGH), compile (5 stories, 6 tweets, 0 FB compiled — format; 5 articles, 21 items), dashboard (21 items), PostPlanner exports (6 posts standard + 6 TOBI). WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).

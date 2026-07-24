@@ -1,0 +1,259 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-24",
+  "compiled_at": "2026-07-24T10:31:46.322841+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Skubal Speaks — \"My Preference Is to Finish the Season as a Tiger\"",
+      "tier": 1,
+      "status": "",
+      "angle": "Tarik Skubal said publicly on July 23 that his \"preference is to finish the season with the Tigers and win the World Series.\" He acknowledged his next start could be his last in Detroit. ESPN's Jeff Passan and Kiley McDaniel put the trade odds at 60%. The Dodgers are identified as the top suitor and can offer an outfield-and-pitching-prospect package that fits what the Tigers need. August 3 deadline is 10 days away. Detroit is 6.5 games back in the AL Central and 4.5 games out in the Wild Card — competitive enough that the math on keeping him is real.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Tarik Skubal said publicly yesterday: \"My preference is to finish the season with the Tigers and win the World Series.\"\n\nESPN's Passan still puts trade odds at 60%.\n\nThe deadline is 10 days away. The biggest name on the market just made things more complicated. #Tigers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tigers",
+            "#MLB"
+          ],
+          "char_count": 274
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The Dodgers are the top suitor for Tarik Skubal.\n\nThey can offer what the Tigers want: a controllable starter plus prospects.\n\nSkubal wants to stay. LA wants him gone. Detroit is in the middle.\n\nAugust 3. 10 days. #Tigers #Dodgers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tigers",
+            "#Dodgers",
+            "#MLB"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-skubal-trade-deadline-tigers-statement-dodgers.html",
+        "headline": "Skubal Says He Wants to Stay. The Dodgers Still Want Him. August 3 Is 10 Days Away.",
+        "word_count": 623
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Skubal Trade Deadline\n\n#### Image Concept 1 — 8:00 AM ET Post\n\n- **Placement:** X Post 1 / Facebook Long-Form Post\n- **Search term:** `Tarik Skubal Detroit Tigers`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1080x1350 (4:5 vertical)\n- **Status:** not_started\n- **Notes:** Pitching delivery, on the mound, game action; Tigers uniform\n\n#### Image Concept 2 — 9:00 AM ET Post\n\n- **Placement:** X Post 2\n- **Search term:** `Tarik Skubal Detroit Tigers`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1080x1350 (4:5 vertical)\n- **Status:** not_started\n- **Notes:** Celebration or dugout; alternate angle from Image 1\n\n#### Article Hero — Story 1\n\n- **Placement:** article-01 hero\n- **Search term:** `Tarik Skubal Detroit Tigers`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1200x630 (1.91:1 landscape)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Skubal Statement — Trade Deadline\n**Source:** washingtontimes.com/news/2026/jul/23/trade-deadline-talk-skubal-says-preference-finish-season-tigers-win/, yahoo sports, ESPN\n- Skubal publicly stated July 23: \"My preference is to finish the season with the Tigers and win the World Series.\" HIGH\n- Acknowledged his next start could be his last with Detroit. HIGH\n- ESPN's Jeff Passan and Kiley McDaniel put trade odds at 60%. HIGH\n- Dodgers identified as the top suitor; can offer outfield + pitching prospect package. HIGH\n- Tigers asking price: a controllable starting pitcher to slot into the rotation plus quality prospects. HIGH\n- Detroit record: approximately 6.5 games back in AL Central, 4.5 back in Wild Card as of July 23-24. HIGH\n- August 3 deadline is 10 days away from July 24. HIGH\n- Skubal season stats (before injury/current): back-to-back AL Cy Young winner; pending free agent. HIGH",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Red Sox Enter Buy Mode — 52-49, On a 20-3 Run, Eyeing Zach Neto",
+      "tier": 1,
+      "status": "",
+      "angle": "Boston's 15-game win streak is over, but the damage is done: they've gone from 37-48 to 52-49 and are firmly in the AL Wild Card picture on a 20-3 run in their last 23 games. They're now in buy mode ahead of the August 3 deadline. Reports indicate they have interest in Zach Neto (SS, Angels) as the team looks to add a shortstop. The Red Sox won the streak with a 1.98 team ERA and a 7-0, 1.15 ERA bullpen run.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Six weeks ago the Red Sox were 37-48.\n\nThey went on a 15-game win streak. They went 20-3 in their last 23. Now they're 52-49 and reports say they're targeting Zach Neto at shortstop.\n\nFrom sellers to buyers in a month. #RedSox #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RedSox",
+            "#MLB"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-red-sox-buyers-win-streak-zach-neto-deadline.html",
+        "headline": "The Red Sox Went from 37-48 to Buyers. The Deadline Is in 10 Days.",
+        "word_count": 596
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Red Sox Buy Mode\n\n#### Image Concept 1 — 10:30 AM ET Post\n\n- **Placement:** X Post 1 / Facebook Long-Form Post\n- **Search term:** `Boston Red Sox`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1080x1350 (4:5 vertical)\n- **Status:** not_started\n- **Notes:** Team celebration or game action; Fenway Park atmosphere preferred\n\n#### Image Concept 2 — Article Hero\n\n- **Placement:** article-02 hero\n- **Search term:** `Zach Neto Los Angeles Angels`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1200x630 (1.91:1 landscape)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Red Sox Buy Mode\n**Source:** cbssports.com, southsidesox.com/ESPN\n- Red Sox record: 52-49 as of July 23. HIGH\n- During 15-game win streak: went from 37-48 to 52-49. HIGH\n- 20-3 run in last 23 games. HIGH\n- Team ERA during streak: 1.98. HIGH (from prior pipelines)\n- Bullpen during streak: 7-0, 1.15 ERA. HIGH (from prior pipelines)\n- Red Sox have interest in Zach Neto (SS, Angels) per reports. HIGH\n- Angels also making Reid Detmers and Jose Soriano available. HIGH\n- Red Sox confirmed as buyers (buy mode) heading into August 3 deadline. HIGH",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Ohtani's Timeline — One Bullpen Down, the Next One Is Saturday",
+      "tier": 2,
+      "status": "",
+      "angle": "Shohei Ohtani threw approximately 30 pitches in a bullpen session at Citizens Bank Park on July 22 — his first since receiving an Orthovisc injection in his left knee during the All-Star break. Pitching coach Mark Prior described it as a normal between-start session. Manager Dave Roberts said it will be \"at least a week to 10 days\" before the Dodgers even discuss a return timeline and that he \"can't foresee (Ohtani) going out there and throwing 100 pitches on his first outing.\" The next bullpen session is expected Saturday at Citi Field in New York. Ohtani last pitched July 3.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Shohei Ohtani threw a 30-pitch bullpen session Wednesday. Pitching coach Mark Prior called it a normal side session.\n\nRoberts: it's going to be \"at least a week to 10 days\" before they even discuss a return.\n\nNext bullpen expected Saturday at Citi Field. #Dodgers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#MLB"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-ohtani-pitching-return-timeline-bullpen-saturday.html",
+        "headline": "Ohtani Threw 30 Pitches Wednesday. The Next One Is Saturday. A Return Is Still Weeks Away.",
+        "word_count": 584
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ohtani Timeline\n\n#### Image Concept 1 — 12:30 PM ET Post\n\n- **Placement:** X Post 1 / Facebook Long-Form Post\n- **Search term:** `Shohei Ohtani Los Angeles Dodgers`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1080x1350 (4:5 vertical)\n- **Status:** not_started\n- **Notes:** Pitching action or warmup; Dodgers uniform\n\n#### Article Hero — Story 3\n\n- **Placement:** article-03 hero\n- **Search term:** `Shohei Ohtani Los Angeles Dodgers`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1200x630 (1.91:1 landscape)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Ohtani Timeline\n**Source:** dodgerblue.com/shohei-ohtani-first-bullpen-since-orthovisc-injection-in-left-knee/2026/07/23/, espn.com\n- Ohtani threw approximately 30 pitches in bullpen session at Citizens Bank Park on July 22. HIGH\n- Described by pitching coach Mark Prior as similar to a typical between-start side session. HIGH\n- Orthovisc injection received during All-Star break (lubricating injection). HIGH\n- Ohtani last pitched July 3. HIGH\n- Manager Dave Roberts: \"at least a week to 10 days\" before they discuss return. HIGH\n- Roberts: \"can't foresee (Ohtani) going out there and throwing 100 pitches on his first outing.\" HIGH\n- Next bullpen session expected Saturday July 25 at Citi Field, New York. HIGH\n- Ohtani continues as DH, no IL designation. HIGH\n- Before injury: 8-2, 1.79 ERA, 95 K in 85.2 IP. HIGH (from prior pipelines)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "White Sox 54-47 — The Rebuild Math Is Now Undeniable",
+      "tier": 2,
+      "status": "",
+      "angle": "White Sox lead the AL Central at 54-47, one game up on the Guardians (54-49). This is the same franchise that lost 121 games in 2024 (worst MLB record ever), 102 games in 2025, and now leads its division in July 2026 after a 30-win improvement in one off-season. Colson Montgomery has 20 home runs. Edgar Quero (22, called up from Triple-A Charlotte) replaced injured Kyle Teel. The Twins defeated Cleveland 3-1 on July 23, which helps Chicago maintain the lead.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The Chicago White Sox are 54-47 and leading the AL Central.\n\nTwo years ago they lost 121 games. The most losses in MLB history.\n\nA 30-win improvement in one off-season. Now they're in first place in July. #WhiteSox #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox",
+            "#MLB"
+          ],
+          "char_count": 219
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-white-sox-54-47-al-central-lead-rebuild-arc.html",
+        "headline": "The White Sox Are 54-47 and Leading the AL Central. Two Years Ago They Lost 121 Games.",
+        "word_count": 598
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "White Sox AL Central\n\n#### Image Concept 1 — 3:00 PM ET Post\n\n- **Placement:** X Post 1 / Facebook Long-Form Post\n- **Search term:** `Colson Montgomery Chicago White Sox`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1080x1350 (4:5 vertical)\n- **Status:** not_started\n- **Notes:** Batting or fielding action; White Sox uniform\n\n#### Article Hero — Story 4\n\n- **Placement:** article-04 hero\n- **Search term:** `Chicago White Sox`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1200x630 (1.91:1 landscape)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "White Sox Rebuild Arc\n**Source:** southsidesox.com, cbssports.com, mlb.com\n- White Sox record: 54-47 as of July 23-24. HIGH\n- Cleveland Guardians record: 54-49 (1 game back). HIGH\n- 2024 record: 41-121 (worst MLB record ever). HIGH (established in prior pipelines)\n- 2025 record: 60-102. HIGH (from prior pipelines)\n- Colson Montgomery: 20 home runs as of July 23-24. HIGH (prior pipeline had 21; research agent says 20 — using 20 as most conservative confirmed number)\n- Kyle Teel: high ankle sprain, 6-12 weeks, IL (from July 21-22 pipeline). HIGH\n- Edgar Quero: 22 years old, called up from Triple-A Charlotte. HIGH\n- Minnesota Twins defeated Cleveland Guardians 3-1 on July 23. HIGH\n- White Sox had second-best run differential in AL per prior pipeline research. HIGH",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "July 23 Recap — Braves 6, Padres 5: Chris Sale Strikes Out 11",
+      "tier": 3,
+      "status": "",
+      "angle": "In Thursday's Braves 6, Padres 5 win at Petco Park, Chris Sale matched his season-high with 11 strikeouts while Atlanta hit four home runs. Also notable July 23: Tigers beat Royals 4-3 on a Dillon Dingler tiebreaking double in the 8th after James Outman's 3-run HR in the 7th; Blue Jays 3, Rays 1; Twins 3, Guardians 1.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Chris Sale matched his season-high with 11 strikeouts Thursday.\n\nThe Braves also hit 4 home runs in the same game.\n\nAtlanta won 6-5. Sale keeps building his case. #Braves #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Braves",
+            "#MLB"
+          ],
+          "char_count": 175
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-july-23-recap-chris-sale-11-ks-braves-padres.html",
+        "headline": "Chris Sale Struck Out 11 Thursday. Atlanta Hit Four Home Runs. The Braves Won 6-5.",
+        "word_count": 588
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "July 23 Recap — Chris Sale\n\n#### Image Concept 1 — 6:00 PM ET Post\n\n- **Placement:** X Post 1 / Facebook Long-Form Post\n- **Search term:** `Chris Sale Atlanta Braves`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1080x1350 (4:5 vertical)\n- **Status:** not_started\n- **Notes:** Pitching delivery; Braves uniform; intense game action preferred\n\n#### Article Hero — Story 5\n\n- **Placement:** article-05 hero\n- **Search term:** `Chris Sale Atlanta Braves`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1200x630 (1.91:1 landscape)\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "July 23 Recap\n**Source:** mlb.com/stories/game/824893, mlb.com/stories/game/824247, mlb.com/stories/game/822785\n- Braves 6, Padres 5 (July 23 at Petco Park). HIGH\n- Chris Sale: 11 strikeouts (matched season-high). HIGH\n- Atlanta hit 4 home runs in the game. HIGH\n- Tigers 4, Royals 3 (July 23). HIGH\n- James Outman 3-run HR in 7th inning for Detroit. HIGH\n- Dillon Dingler tiebreaking double in 8th inning for Detroit. HIGH\n- Blue Jays 3, Rays 1 (July 23). HIGH\n- Twins 3, Guardians 1 (July 23) — significant in AL Central context. HIGH\n- D-backs 10, Cardinals 6 (July 23 — makeup game from June 25). HIGH",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
