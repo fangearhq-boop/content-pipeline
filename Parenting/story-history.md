@@ -41,6 +41,45 @@
 
 ---
 
+## July 24, 2026
+
+### Story 1: Target Gigglescape Under the Sea Popping Toy Recalled — Choking Hazard
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC July 2, 2026 recall of Target's Gigglescape Under the Sea Popping Toy (~49,000 units). Blue whale-shaped popping toy; clear plastic dome detaches from base, exposing small colored balls inside — choking hazard. 9 reports of dome detaching; 1 confirmed child choking. Sold at Target stores nationwide Aug 2025–Jan 2026 for ~$10. Return to any Target for full refund (no receipt required); Target also offers prepaid return shipping label.
+- **Content Produced:** Article (Jamie Rivera), 2 X posts, Facebook Long-Form, Image Concept
+- **Tier:** 1
+- **Key Facts:** CPSC July 2, 2026; ~49,000 units; Target exclusive; Aug 2025–Jan 2026; ~$10; blue whale shape; dome detaches → small balls exposed; 9 dome-detach reports; 1 child choking confirmed; return any Target for full refund; no receipt needed; prepaid label option; Sources: cpsc.gov, target.com
+
+### Story 2: Cheyenne Mountain Zoo Launches Little Paws Preschool — Registration Open Now
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — CMZoo opening state-accredited nature-based preschool (Little Paws Preschool), first class Aug 24, 2026. Ages 3–5. Accredited by CO Dept. of Early Childhood. Follows D12 calendar. 3-year-olds: Tue/Thu 9am–noon $220.75/mo; 4–5-year-olds: Mon/Wed/Fri 9am–1pm $460.75/mo. ~15 students per class. Licensed ECE teachers. Apply: littlepawspreschool@cmzoo.org.
+- **Content Produced:** Article (Sarah Morales), 2 X posts, Facebook Long-Form, Image Concept
+- **Tier:** 1
+- **Key Facts:** Little Paws Preschool; CMZoo; first day Aug 24, 2026; ages 3–5; CO Dept. of Early Childhood accredited; D12 calendar; 3yo Tue/Thu 9–noon $220.75/mo; 4–5yo Mon/Wed/Fri 9am–1pm $460.75/mo; ~15 students/class; licensed ECE teachers; littlepawspreschool@cmzoo.org; Sources: cmzoo.org, visitcos.com
+
+### Story 3: AAP Updates Iron Deficiency Screening Guidelines — First Major Revision Since 2010
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — AAP published updated iron deficiency screening guidelines in July 2026 issue of Pediatrics. First major revision since 2010. New: universal infant screening 9–18 months (breastfed: 9–12 months); all menstruating teens within 1 year of first period, no later than age 14; ongoing screening for heavy periods/low-iron diet. New thresholds: serum ferritin ≤20 ng/mL (children), ≤30 ng/mL (adolescents). First-line: once-daily ferrous sulfate; now includes IV iron option for non-responders/malabsorption.
+- **Content Produced:** Article (Jamie Rivera), 2 X posts, Facebook Long-Form, Image Concept
+- **Tier:** 1
+- **Key Facts:** AAP July 2026 Pediatrics; first revision since 2010; universal infant screening 9–18mo; breastfed: 9–12mo; all menstruating teens within 1yr of first period no later than age 14; ongoing if heavy periods/low-iron diet; ferritin ≤20 ng/mL (children); ferritin ≤30 ng/mL (adolescents); first-line oral ferrous sulfate daily; IV iron option for non-responders/malabsorption; healthychildren.org; Sources: aap.org, pediatrics.aappublications.org, healthychildren.org
+
+### Story 4: 88th Annual Bronc Day Festival in Green Mountain Falls — Free, This Saturday
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — 88th annual Bronc Day Festival, Saturday July 25, Green Mountain Falls (~20 min west of COS on US-24). Admission FREE. Theme: "Let Freedom Ring" (US 250th + CO 150th). Grand Marshal: Retired Fire Chief Steve Murphy. Pancake breakfast 7:30–10am at Church in the Wildwood UCC (10585 Ute Pass Ave.); Parade 10am on Ute Pass Ave.; Main festival at Gazebo Lake Park (100 Lake St.) all day through 3pm: live music, pie contest, art vendors, food trucks, dancing.
+- **Content Produced:** Article (Sarah Morales), 1 X post, Facebook Long-Form, Image Concept
+- **Tier:** 2
+- **Key Facts:** July 25, 2026; Green Mountain Falls; ~20 min west COS on US-24; FREE admission; 88th edition; "Let Freedom Ring" theme; Grand Marshal: Retired Fire Chief Steve Murphy; breakfast 7:30–10am Church in the Wildwood UCC 10585 Ute Pass Ave.; parade 10am Ute Pass Ave.; Gazebo Lake Park 100 Lake St. through 3pm; live music/pie contest/food trucks/dancing; broncdayfestival.org; Sources: broncdayfestival.org, gazette.com
+
+### Story 5: BeMySecret Cars & Anime Con Returns to Colorado Springs This Weekend
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — BeMySecret Cars & Anime Con, 5th anniversary edition, Sat July 25 + Sun July 26 at Colorado Springs Event Center (3960 Palmer Park Blvd). Kids 10 and under: FREE. Youth 11–17 two-day: $10. Adult day pass: $30 online / $40 gate; two-day: $50. Sat 11am–7pm, Sun 11am–5pm. Features: anime/pop-culture vendors, cosplay contest, voice actor guests, 5th anniversary exclusive merch, indoor car show both days.
+- **Content Produced:** Article (Jamie Rivera), 1 X post, Facebook Long-Form, Image Concept
+- **Tier:** 2
+- **Key Facts:** July 25–26, 2026; Colorado Springs Event Center 3960 Palmer Park Blvd COS 80909; Sat 11am–7pm, Sun 11am–5pm; kids 10 under FREE; youth 11–17 two-day $10; adult day online $30 / gate $40; adult two-day $50; 5th anniversary; anime/pop-culture vendors; cosplay contest; voice actors; indoor car show; Sources: coloradospringseventcenter.com, bemysecretcosplay.com
+
+---
+
 ## July 19, 2026
 
 ### Story 1: World Cup Final Watch Party at Weidner Field

@@ -1,10 +1,57 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: July 22, 2026
+## Latest Run: July 24, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|
-| Research (web search) | COMPLETE | AAP vs CDC 2026 vaccine schedule split (AAP: 18 diseases; CDC: 11; dropped hep A/B, meningococcal, rotavirus, flu, RSV; ACIP disbanded June 2025; 12 orgs back AAP; Sources: AJMC, The Hill, HealthyChildren.org); Kith Retail children's loungewear recall (CPSC June 2026; "Kithmas" plaid sets burn hazard; ~130 units; Dec 2025–Jan 2026; ~$75; destroy + email recalls@kithnyc.com; cpsc.gov); D49 Student Success Center (opens Aug 3; former Falcon Elementary of Technology; 2 preschool classrooms Mon–Thu + PEAK + Elevates 18–21 + Base49; d49.org); CMZoo Dog Days Fridays (July 24 + July 31; 9am-5pm; dog tickets required advance only; cmzoo.org; adults $34.75, kids 3–11 $29.75); Rosemont Reservoir fishing (mid-May–Oct, 5am-9pm; flies/lures only; CO license/SWA pass ages 16+; 0.5-mile hike; swimming prohibited; camping expansion status uncertain; csu.org, cpw.state.co.us) |
+| Research (web search) | COMPLETE | Target Gigglescape Under the Sea Popping Toy recall (CPSC July 2, 2026; ~49K units; dome detaches → small balls exposed; choking hazard; 1 child choked; Target exclusive Aug 2025–Jan 2026 ~$10; return any Target full refund; cpsc.gov); CMZoo Little Paws Preschool (new nature preschool opens Aug 24; ages 3–5; CO accredited; D12 calendar; ~15 students/class; littlepawspreschool@cmzoo.org; cmzoo.org); AAP Iron Deficiency Guidelines July 2026 (first revision since 2010; universal infant 9–18mo, breastfed 9–12mo; all menstruating teens by age 14; ferritin thresholds ≤20 ng/mL children / ≤30 ng/mL adolescents; IV iron option added; aap.org); Bronc Day Festival July 25 Green Mountain Falls (88th annual; FREE; "Let Freedom Ring" theme; parade 10am; Gazebo Lake Park 3pm; broncdayfestival.org); BeMySecret Cars & Anime Con July 25–26 (5th anniversary; CSEC 3960 Palmer Park; kids 10 under free; adult $30 online; indoor car show + anime; coloradospringseventcenter.com) |
+| Story History Check | COMPLETE | All 5 stories NEW — no overlap with July 22 or July 20 runs |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2); ### STORY N: format |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tags; all HIGH-rated facts from verified sources |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Jamie Rivera (S1, S3, S5), Sarah Morales (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 8 posts (S1:2, S2:2, S3:2, S4:1, S5:1); code blocks; all ≤280 chars; 4 hashtags each; times in MT |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form posts; engagement questions; NO hashtags; COS voice |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts; 1200×675 (X) and 1200×630 (FB/hero); clean bottom third; no celebrity likenesses; no brand logos |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 5 stories; x_image + facebook_image + article_hero; all not_started; gemini base_only; kAHCKfCZgk0 brand kit |
+| Articles | COMPLETE | 5 articles (500–900 words; semantic HTML5; What's Next sections; 0 exclamation marks; no figure tags; Quick Reference tables in all 5); bylines: Jamie Rivera (A1, A3, A5), Sarah Morales (A2, A4) |
+| Fact-Check | COMPLETE | verify-facts.py passed; 101 claims; 203 HIGH confidence marks |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 5 FB posts, 5 articles; 23 dashboard items |
+| Dashboard | COMPLETE | review-dashboard.html — 23 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-07-24.xlsx (8 posts 13:24–20:52 MT) + TOBI cosp-postplanner-tobi-2026-07-24.xlsx (8 TOBI posts) |
+| Dashboard Push | Attempted — proxy blocks write to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API (403 Forbidden) | Same environment restriction as all prior runs |
+
+### 2026-07-24 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 5 FB long-form = 13 total posts (PostPlanner xlsx: 8 posts 13:24–20:52 MT, 8 TOBI)
+- **Articles:** 5 (bylines: Jamie Rivera [A1, A3, A5], Sarah Morales [A2, A4])
+- **PostPlanner exports:** cosp-postplanner-2026-07-24.xlsx (8 posts, 13:24–20:52 MT), cosp-postplanner-tobi-2026-07-24.xlsx (8 TOBI posts)
+- **Coverage:** Target Gigglescape Under the Sea Popping Toy recall (CPSC July 2, 2026; ~49K units; dome detaches → small colored balls exposed; 9 dome-detach reports; 1 child choked; Target exclusive Aug 2025–Jan 2026 ~$10; return any Target full refund, no receipt; cpsc.gov); CMZoo Little Paws Preschool opens Aug 24 (state-accredited; D12 calendar; ages 3–5; ~15 students/class; 3yo Tue/Thu $220.75/mo; 4–5yo Mon/Wed/Fri $460.75/mo; littlepawspreschool@cmzoo.org); AAP Iron Deficiency Screening Guidelines July 2026 (first revision since 2010; universal infant screening 9–18mo; breastfed 9–12mo; all menstruating teens by age 14; ferritin ≤20 ng/mL children, ≤30 ng/mL adolescents; IV iron option for non-responders; healthychildren.org); 88th Bronc Day Festival Green Mountain Falls July 25 (FREE; "Let Freedom Ring" US 250th/CO 150th theme; pancake breakfast 7:30–10am; parade 10am; Gazebo Lake Park through 3pm; broncdayfestival.org); BeMySecret Cars & Anime Con July 25–26 5th anniversary (CSEC 3960 Palmer Park Blvd; kids 10 under FREE; youth 11–17 two-day $10; adult $30 online/$40 gate; Sat 11am–7pm, Sun 11am–5pm; indoor car show + anime + cosplay)
+- **Notes:**
+  - verify-facts.py: 101 claims; 203 HIGH confidence marks; image not_started warnings cosmetic (expected for gemini source)
+  - compile: posting window warnings cosmetic; 8 X posts, 5 FB posts, 5 articles
+  - PostPlanner: FB posts 0 in XLSX (pre-existing parser limitation — FB uses bold format, not 4-hash headers); 8 X posts in schedule
+  - WordPress: WP API blocked by proxy (403 Forbidden); same restriction as all prior runs
+  - Dashboard push failed: proxy blocks write to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] (rotating from July 22: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4])
+  - Research: all facts from web search; no facts from memory
+
+### 2026-07-22 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB long-form + 5 FB captions = 17 total posts (PostPlanner xlsx: 7 posts 13:12–20:42 MT, 7 TOBI)
+- **Articles:** 5 (bylines: Sarah Morales [A1, A3, A5], Jamie Rivera [A2, A4])
+- **PostPlanner exports:** cosp-postplanner-2026-07-22.xlsx (7 posts, 13:12–20:42 MT), cosp-postplanner-tobi-2026-07-22.xlsx (7 TOBI posts)
+- **Coverage:** AAP vs CDC 2026 vaccine schedule split (AAP: 18 diseases; CDC: 11; dropped hep A/B, meningococcal, rotavirus, flu, RSV; ACIP disbanded June 2025; 12 orgs back AAP; Sources: AJMC, The Hill, HealthyChildren.org, AAP News); Kith Retail "Baby Kithmas" + "Kids Kithmas" plaid loungewear recall (burn hazard; ~130 sets; Dec 2025–Jan 2026; ~$75; destroy + email recalls@kithnyc.com; CPSC June 2026); D49 Student Success Center opens Aug 3 (former Falcon Elementary of Technology; 2 preschool classrooms Mon–Thu districtwide; PEAK programs; Elevates 18–21; Base49; d49.org); CMZoo Dog Days Fridays July 24 + July 31 (9am-5pm; well-behaved dogs welcome; advance dog tickets required at cmzoo.org; adults $34.75, kids 3–11 $29.75); Rosemont Reservoir fishing now open (12 miles SW of COS via Gold Camp Road; 9,600+ ft; mid-May–Oct, 5am-9pm; flies/lures only; CO license/SWA pass ages 16+; 0.5-mile hike; camping expansion status uncertain)
+- **Notes:**
+  - verify-facts.py: all 5 stories present in all content files; 88 claims; image not_started warnings cosmetic (expected for gemini source)
+  - compile: posting window warnings cosmetic; 7 X posts, 5 FB posts (bold format), 5 articles
+  - PostPlanner: FB posts 0 in XLSX (pre-existing parser limitation); 7 X posts in schedule
+  - WordPress: WP API blocked by proxy (403 Forbidden); same restriction as all prior runs
+  - Dashboard push failed: proxy blocks write to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4] (rotating from July 20: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4])
+  - Research: all facts from web search (CPSC.gov, AJMC, The Hill, HealthyChildren.org, d49.org, cmzoo.org, cpw.state.co.us, CSU.org); no facts from memory
 | Story History Check | COMPLETE | All 5 stories NEW or first-dedicated-angle FOLLOW-UP — no overlap with July 20 run |
 | Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); ### STORY N: format |
 | Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tags; all facts from web search via cpsc.gov, AJMC, The Hill, HealthyChildren.org, d49.org, cmzoo.org, cpw.state.co.us, csu.org |
