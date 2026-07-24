@@ -1,10 +1,21 @@
 # F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
-- **Date**: 2026-07-23
+- **Date**: 2026-07-24
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-24
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters (Stories 4+5 trimmed to fix over-limit)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole)
+- **PostPlanner exports:** f1fr-postplanner-2026-07-24.xlsx (7 posts) + f1fr-postplanner-tobi-2026-07-24.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-07-24/review-dashboard.html (22 items)
+- **Notes:** HUNGARIAN GP FP1+FP2 FRIDAY — Norris McLaren 1-2 both sessions (FP1: 1:16.052 +0.019 Piastri; FP2: 1:15.624 +0.291 Piastri); Leclerc P3 both; Ferrari pre-event favourite struggled; championship: Antonelli 204/Hamilton 159/Russell 154; 5 rookie slots FP1 (Vesti/Aron/Hirakawa/Herta/Fornaroli); Alonso missed FP1 (back injury, Drugovich subbed), medically cleared FP2 → P5; Stroll P4 FP2; Aston Martin 16-part Newey B-spec debut: new nose/floor/suspension/chassis re-homologation/-30kg; Newey "calibrating real-world vs wind tunnel"; Verstappen P8 FP1 watching Aston Martin P4+P5; FIA admitted Leclerc should have been penalised at Spa (Piastri squeezed Les Combes/floor damage 2-3 tenths/lap/Piastri P5 Leclerc P2); Verstappen manager Vermeulen: "wants to finish his career here" contract through 2028; Tom Clarkson: "going to stay 2027"; Russell: "toughest psychological battle of my career" / Mercedes software fix applied (energy harvest algorithm front-loading since Silverstone/misdiagnosed driving style) / P7 FP2
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-23
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

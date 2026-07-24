@@ -1,0 +1,270 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-24",
+  "compiled_at": "2026-07-24T11:43:27.986311+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "McLaren 1-2 in Both FP1 and FP2 — Norris Fastest All Day at the Hungaroring",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "FP1 | Hungarian GP\n\nP1 — Norris (McLaren) 1:16.052\nP2 — Piastri (McLaren) +0.019\nP3 — Leclerc (Ferrari)\nP5 — Hamilton (Ferrari)\nP7 — Antonelli (Mercedes)\nP8 — Verstappen (Red Bull)\n\nFerrari was the pre-event favourite.\n\nMcLaren had other ideas.\n\n#HungarianGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HungarianGP",
+            "#F1"
+          ],
+          "char_count": 262
+        },
+        {
+          "label": "Post 1-2",
+          "text": "FP2 | Hungaroring\n\nNorris again: 1:15.624\nPiastri 2nd again (+0.291s)\nLeclerc 3rd again.\n\nMcLaren swept BOTH practice sessions.\n\nFerrari was supposed to be the favourite this weekend.\n\n#HungarianGP #F1 #McLaren",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HungarianGP",
+            "#F1",
+            "#McLaren"
+          ],
+          "char_count": 210
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-norris-mclaren-fp1-fp2-hungarian-gp.html",
+        "headline": "Norris Dominates Hungarian GP Friday — The Pre-Event Favourites Are in Trouble",
+        "word_count": 795
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "McLaren 1-2 in Both Sessions\n\n**Image Concept 1A (Social — 1080x1350)**\n- **Type:** Session results graphic\n- **Photo search term:** \"Lando Norris McLaren Formula 1\" (imagn)\n- **Concept:** McLaren papaya orange background. Bold text: \"FP1 ✓ FP2 ✓\" stacked. Below: \"Norris. Fastest. Both.\" Clean, confident design.\n- **Use:** X/Instagram FP1 morning post\n\n**Image Concept 1B (Social — 1080x1350)**\n- **Type:** Leaderboard graphic\n- **Photo search term:** \"Oscar Piastri McLaren Formula 1\" (imagn)\n- **Concept:** FP2 results card styled like a timing screen. Norris P1 / Piastri P2 highlighted in papaya orange. Leclerc in red below. Championship leader Antonelli P7+ listed. Headline: \"NOT THE FAVOURITES.\"\n- **Use:** Facebook/Instagram FP2 evening post\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "McLaren 1-2 in Both Practice Sessions\n**Source: Autosport (confirmed)**\n- FP1: Norris P1 (1:16.052), Piastri P2 (+0.019s), Leclerc P3 (~+0.217s), Hadjar P4, Hamilton P5, Bearman P6, Antonelli P7, Verstappen P8, Stroll P9\n- FP2: Norris P1 (1:15.624), Piastri P2 (+0.291s / 1:15.915), Leclerc P3 (+0.399s / ~1:16.023), Stroll P4, Alonso P5, Hamilton P6, Russell P7\n- McLaren swept both sessions 1-2\n- Ferrari was pre-event favourite but ended day P3 in both\n- Antonelli (championship leader) was P7 in FP1, not in top 6 in FP2\n- **Confidence: HIGH** (Autosport, Motorsport.com confirmed with lap times)\n**Source: Motorsport.com**\n- Norris fastest in both FP1 and FP2\n- FP2 headline confirmed \"Norris tops Piastri in FP2 for another McLaren 1-2 at Hungaroring\"\n- No major crashes or red flags in either session\n- McLaren brought a package of upgrades for Hungary\n- **Confidence: HIGH**",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Aston Martin B-Spec Delivers — Stroll P4, Alonso P5 in FP2 Despite Injury Scare",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Fernando Alonso missed FP1 with a back injury.\n\nFelipe Drugovich drove his car.\n\nThen Alonso was cleared medically. Returned for FP2.\n\nAnd the brand-new Newey-designed B-spec Aston Martin put Stroll P4 and Alonso P5.\n\nThe gamble is paying off. #AstonMartinF1 #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#AstonMartinF1",
+            "#F1"
+          ],
+          "char_count": 262
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Aston Martin's 16-part Newey B-spec:\n\nNew nose. New floor. New suspension. 30kg lighter.\n\nFP2 results: Stroll P4. Alonso P5.\n\nVerstappen's exit clause is active.\nHe was P8 in FP1 — in a Red Bull.\n\nThe comparison writes itself. #Verstappen #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Verstappen",
+            "#F1"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-alonso-aston-martin-b-spec-hungarian-gp.html",
+        "headline": "Alonso Returns from Injury, Newey's B-Spec Delivers: Aston Martin's Big Gamble Pays Off on Day One",
+        "word_count": 870
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Aston Martin B-Spec / Alonso Return\n\n**Image Concept 2A (Social — 1080x1350)**\n- **Type:** Split narrative graphic\n- **Photo search term:** \"Fernando Alonso Aston Martin Formula 1\" (imagn)\n- **Concept:** Two panels: \"FP1 — Alonso: OUT (injury)\" in muted tones / \"FP2 — Alonso: P5\" in bold British racing green. Headline: \"THE COMEBACK.\" Newey logo subtle watermark.\n- **Use:** X/Instagram drama/comeback angle\n\n**Image Concept 2B (Social — 1080x1350)**\n- **Type:** Technical graphic\n- **Photo search term:** \"Lance Stroll Aston Martin F1\" (imagn)\n- **Concept:** Green/gold palette. Headline: \"16 NEW PARTS. ONE SESSION. P4 AND P5.\" Subtext: \"Newey's B-spec delivers at Hungary.\"\n- **Use:** Facebook/Instagram technical angle\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Aston Martin B-Spec / Alonso Injury\n**Source: The Race, PlanetF1, Autosport**\n- Aston Martin B-spec AMR26: 16-part upgrade package for Hungary\n- New nose (longer, thinner), reshaped front wing and endplates, external front brake ducts reshaped, four floor updates (permitted surfaces, floor body, floor leading edge vanes, floor edge ahead of rear tyre), rear suspension slightly revised\n- Chassis re-homologated after ~30kg weight reduction (crash-tested again)\n- Andrew Newey: calibrating real-world telemetry against wind tunnel simulations was \"absolute top priority\"\n- Aston Martin staff only departed Silverstone on Tuesday (very short turnaround)\n- FP2 result: Stroll P4, Alonso P5 — promising debut on-track data\n- Honda power unit upgrade still to come at Dutch GP\n- **Confidence: HIGH**\n**Source: Autosport, ESPN (confirmed)**\n- Alonso managed a muscular back injury since Belgian GP\n- Ruled out of FP1; reserve driver Felipe Drugovich subbed in AMR26\n- Alonso medically cleared Friday morning; returned for FP2\n- Alonso P5 in FP2 on Newey's B-spec car (in his first session in the car)\n- **Confidence: HIGH**\n**Source: GPBlog (Verstappen angle)**\n- Verstappen was P8 in FP1 at Hungaroring — far from championship contention pace\n- October window for exit clause activation; B-spec pace relevant to his decision\n- **Confidence: HIGH**",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "FIA Stewards Admit They Were Wrong — Leclerc Should Have Been Penalized at Spa",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The FIA stewards admitted it publicly at Thursday's Hungary drivers' meeting:\n\nThey should have penalised Leclerc for squeezing Piastri into the barriers at Spa.\n\nHamilton wasn't even at the meeting.\n\nVerstappen wasn't there either.\n\nRare. #F1 #HungarianGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#HungarianGP"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-fia-admits-leclerc-piastri-spa-error.html",
+        "headline": "FIA Stewards Admit They Should Have Penalized Leclerc at Spa — A Rare Admission With Consequences",
+        "word_count": 673
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "FIA Admits Leclerc Error\n\n**Image Concept 3A (Social — 1080x1350)**\n- **Type:** Statement graphic\n- **Photo search term:** \"Charles Leclerc Ferrari Formula 1\" (imagn)\n- **Concept:** Dark background, bold white text: \"FIA: 'WE GOT IT WRONG.'\" Subtext: \"Stewards admit Leclerc should have been penalised for Piastri clash at Spa.\" Red accent.\n- **Use:** Facebook/Instagram\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "FIA Stewards Admit Leclerc-Piastri Error\n**Source: The Race (confirmed)**\n- Thursday night: FIA stewards meeting with driver grid at Hungaroring\n- FIA stewards admitted they should have penalized Leclerc for squeezing Piastri at Spa Lap 8\n- The incident caused floor damage worth estimated 2-3 tenths per lap for Piastri's McLaren\n- Leclerc: \"I went a bit too far\"\n- Lewis Hamilton did not attend the meeting (claimed no knowledge of it)\n- Verstappen also absent from meeting\n- **Confidence: HIGH** (The Race confirmed \"FIA stewards admit error in Leclerc-Piastri Spa collision\")\n**Source: Crash.net (Leclerc quote confirmed)**\n- Leclerc admitted \"he went too far\" in Piastri clash at Belgian GP\n- **Confidence: HIGH**\n**Source: GPFans, motorcyclesports.net**\n- Hamilton quote: \"I know nothing about it. Honestly, I don't know anything. The meeting?\"\n- Last drivers-FIA meeting was 2025 Qatar GP; agreed then to increase frequency\n- **Confidence: HIGH**",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Verstappen's Team Pushes Back — Manager Says He \"Wants to Stay\" at Red Bull",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Max Verstappen's manager Raymond Vermeulen:\n\n\"The fact that this clause exists doesn't mean we'll activate it. Max wants to finish his career here.\"\n\nContract through 2028.\n\nP8 in FP1 at Hungary. Aston Martin ran P4 and P5.\n\nOctober decides. #F1 #Verstappen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Verstappen"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-verstappen-wants-to-stay-red-bull-2028.html",
+        "headline": "Max Wants to Stay: Verstappen's Manager Fires Back at Exit Clause Speculation",
+        "word_count": 655
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen \"Wants to Stay\"\n\n**Image Concept 4A (Social — 1080x1350)**\n- **Type:** Quote card\n- **Photo search term:** \"Max Verstappen Red Bull Racing\" (imagn)\n- **Concept:** Red Bull blue and red palette. Bold quote: \"MAX WANTS TO STAY.\" Below: \"His manager says so. October decides.\" Clock icon subtle element.\n- **Use:** Facebook/Instagram\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen Exit Clause — Manager Signals \"Stay\"\n**Source: GPFans (confirmed)**\n- Exit clause activated after British GP DNF — P2 championship mathematically impossible\n- Verstappen P7 in championship at 91 pts (now 76 per research — amended: championship context per story history = 91 pts before Belgium)\n- October 2026 clause activation window\n- Vermeulen statement: \"The fact that this clause exists doesn't mean we'll activate it. Max wants to finish his career here. He has a contract through 2028 and wants to see it out.\"\n- Tom Clarkson (F1 host) reported hearing Verstappen \"is going to stay for 2027\"\n- Red Bull reportedly attempted to buy out the clause with significant financial offer\n- Verstappen was P8 in FP1 at Hungaroring\n- **Confidence: HIGH**\n**Source: GPBlog**\n- 72-hour period at Hungarian GP identified as critical window for exit clause decision\n- McLaren: Piastri confirmed, Zak Brown denied Verstappen conversations\n- **Confidence: HIGH**",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Russell's Worst Year Gets a Glimmer of Hope — Software Fix Applied, P7 in FP2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "George Russell on 2026: \"The toughest psychological battle of my career.\"\n\nMercedes applied a software fix for Hungary (the Spa energy harvest bug).\n\nFP2: Russell P7.\n\nHe's 50 points behind his own teammate.\n\nRecovery or ceiling? #GeorgeRussell #MercedesAMGF1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GeorgeRussell",
+            "#MercedesAMGF1"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-russell-psychological-battle-p7-fp2.html",
+        "headline": "George Russell's Toughest Year: Software Fixed, Still Climbing — The Mental Load of Chasing a Teammate in His Prime",
+        "word_count": 698
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Russell P7 / Psychological Battle\n\n**Image Concept 5A (Social — 1080x1350)**\n- **Type:** Portrait editorial graphic\n- **Photo search term:** \"George Russell Mercedes AMG Formula 1\" (imagn)\n- **Concept:** Silver/dark tone. Bold text: \"THE TOUGHEST BATTLE.\" Russell direct quote subtext: \"'The toughest psychological year of my career.'\" P7 in FP2 stat at bottom.\n- **Use:** Facebook/Instagram"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Russell's \"Psychological Battle\" — Software Fix Applied\n**Source: Sky Sports, Autosport, ESPN (confirmed)**\n- Russell called 2026 \"the toughest psychological battle\" of his career\n- Russell Belgian GP retirement: power unit software failure\n- Mercedes identified bug: algorithm front-loading energy deployment, depleting battery before major acceleration zones\n- Software patch applied for Hungary\n- Russell FP2: P7 — improvement over Spa form, still behind McLaren/Aston Martin/Leclerc\n- Russell standings: 154 pts (P3), 50 behind Antonelli, 5 behind Hamilton\n- **Confidence: HIGH**\n### Background Facts (from story history, HIGH confidence)\n- Hungarian GP at Hungaroring, Budapest; July 24-26, 2026\n- Pirelli compounds: C4, C5, C6 (softest allocation)\n- Hamilton all-time Hungaroring win record: 8 victories\n- Championship after Round 10 (Belgian GP): Antonelli 204 / Hamilton 159 / Russell 154 / Leclerc 126\n- Antonelli won Belgian GP — most dominant performance of season\n- Final race before 4-week summer break",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

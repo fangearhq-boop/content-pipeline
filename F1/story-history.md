@@ -2,6 +2,53 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-07-24
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-24 | T1 | Norris McLaren 1-2 Both Sessions — FP1 1:16.052 / FP2 1:15.624; Ferrari Pre-Event Favourite Struggles | X, FB, Article | NEW |
+| 2026-07-24 | T1 | Alonso Injury Return + Newey B-Spec Delivers: Stroll P4 / Alonso P5 in FP2; 16-Part Upgrade | X, FB, Article | NEW |
+| 2026-07-24 | T2 | FIA Stewards Admit Leclerc Should Have Been Penalised at Spa for Piastri Contact | X, FB, Article | FOLLOW UP |
+| 2026-07-24 | T2 | Verstappen Manager: "He Wants to Stay at Red Bull Through 2028"; October Deadline Live | X, FB, Article | FOLLOW UP |
+| 2026-07-24 | T2 | Russell: "Toughest Psychological Battle of My Career"; P7 FP2 After Software Fix | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Norris McLaren 1-2 Both Sessions
+- **Tier:** 1
+- **Category:** Race Weekend / Hungarian Grand Prix Practice
+- **Key facts:** Norris FP1 1:16.052 (0.019s ahead of Piastri); Norris FP2 1:15.624 (0.291s ahead of Piastri); McLaren 1-2 both sessions; Leclerc P3 both; Hamilton P5 FP1 / P6 FP2; Antonelli P7 FP1; Verstappen P8 FP1; Stroll P9 FP1 (B-spec debut) then P4 FP2; Alonso P5 FP2 (injury return); Russell P7 FP2; McLaren brought upgrade package (aero dev ~2-3 months behind at Spa); Antonelli championship leader 204 pts / Hamilton 159 / Russell 154; five rookie slots FP1 (Vesti/Aron/Hirakawa/Herta/Fornaroli); Drugovich drove Alonso's car FP1
+- **Status:** NEW
+- **Follow-up ideas:** Qualifying Saturday; race result; McLaren pole; Ferrari response
+
+### STORY 2: Aston Martin B-Spec / Alonso Injury Return
+- **Tier:** 1
+- **Category:** Technical / Aston Martin Upgrade
+- **Key facts:** Alonso ruled out FP1 with muscular back injury (managing since Belgian GP); Drugovich substituted; Alonso medically cleared / returned FP2; Stroll P4 / Alonso P5 FP2; 16-part B-spec: new nose + front wing + reshaped brake ducts + 4 floor updates + revised rear suspension + full chassis re-homologation + ~30kg removed; Andrew Newey "absolute top priority" = correlating real-world telemetry with wind tunnel; Stroll P9 FP1 (B-spec debut); Verstappen exit clause context (P8 FP1)
+- **Status:** NEW
+- **Follow-up ideas:** Qualifying pace B-spec vs rivals; Alonso fitness Saturday; Verstappen clause October decision
+
+### STORY 3: FIA Admits Leclerc-Piastri Stewarding Error
+- **Tier:** 2
+- **Category:** FIA / Stewarding
+- **Key facts:** Thursday night Hungaroring drivers' meeting (formally requested); FIA stewards acknowledged on record they should have penalised Leclerc for Piastri contact at Belgian GP; Spa Lap 8: Leclerc squeezed Piastri into barrier at Les Combes; floor damage 2-3 tenths/lap; Piastri P5 / Leclerc P2 race result; Leclerc: "went a bit too far"; Hamilton also received 5-sec penalty at same Spa race (contact with Russell T3); Hamilton didn't attend meeting ("knew nothing about it"); Verstappen also absent
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Forward impact on stewarding decisions; next incident involving similar contact
+
+### STORY 4: Verstappen Manager: "He Wants to Stay"
+- **Tier:** 2
+- **Category:** Driver Market / Red Bull
+- **Key facts:** Raymond Vermeulen statement: "The fact that this clause exists doesn't mean we'll activate it. Max wants to finish his career here."; Contract through 2028; Tom Clarkson reported hearing Verstappen "is going to stay for 2027"; Red Bull reportedly attempted to financially buy out exit clause; clause triggered after British GP DNF (math: impossible top-2); Verstappen P7 championship; P8 FP1 Hungary; Aston Martin ran P4+P5 FP2; October deadline
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** October deadline; Aston Martin B-spec development pace; Red Bull performance second half
+
+### STORY 5: Russell Psychological Battle / P7 After Software Fix
+- **Tier:** 2
+- **Category:** Driver Profile / Mercedes
+- **Key facts:** Russell: "2026 has been the toughest psychological battle of my career"; Russell P3 championship 154 pts; Antonelli leads 204 pts (50-pt gap); Antonelli 19yo first full F1 season; Belgian GP: Russell retired power unit software failure; algorithm front-loading energy deployment / depleting battery before main acceleration zones; issue present since Silverstone / misdiagnosed as driving style; Mercedes applied software patch for Hungary; Russell FP2 P7; behind both McLarens + both Aston Martins + Leclerc; Russell: "positive mindset"
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Qualifying Saturday; race performance; whether fix holds under race conditions
+
+---
+
 ## 2026-07-23
 
 | Date | Tier | Story | Platforms | Status |
