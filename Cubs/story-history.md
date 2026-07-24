@@ -5,6 +5,63 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-24
+
+### STORY 1: Series Preview — Cubs Open 3-Game Road Series at Pittsburgh
+- **Angle:** FOLLOW UP (July 23 briefly previewed; today = mandatory 7 AM slot per is_series_start_today=true; today's angle = series actually begins, both clubs in Wild Card hunt, Pirates half-game from bubble; Pirates haven't won a series vs Cubs since September 2024)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, mandatory series preview)
+- **Follow-Up Opportunities:**
+  - Game 1 result tonight Boyd vs Jones
+  - Saturday Game 2 Imanaga vs Skenes recap
+  - Sunday Game 3 Taillon vs Ashcraft recap
+  - Series result and Wild Card implications
+
+### STORY 2: Wild Card Stakes — Both Teams Hunting NL Wild Card
+- **Angle:** NEW STORY (dual-stakes angle: Cubs 57-45 No. 1 NL WC; Pirates 53-50 half-game from 3rd WC spot behind D-backs 53-49; this series carries playoff implications for both clubs; first time this specific angle covered)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold take)
+- **Follow-Up Opportunities:**
+  - Wild Card standings update after series
+  - D-backs results while Pirates/Cubs play
+
+### STORY 3: Matthew Boyd's July Surge — Starts Tonight vs Jared Jones
+- **Angle:** NEW STORY (last Boyd start featured July 18-19; today's angle = 4-game win streak + ~2.45 ERA in July + starts tonight at PNC Park; rotation anchor framing)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, stat breakdown)
+- **Follow-Up Opportunities:**
+  - Boyd's actual line tonight (innings, ER, K)
+  - 5-game win streak potential
+
+### STORY 4: Trade Deadline 10 Days — Maton IL (3rd Stint), Thornton Day-to-Day
+- **Angle:** FOLLOW UP (ongoing deadline arc; today's new facts: Maton's 3rd IL stint, PRP injection, ~3 weeks out; Thornton day-to-day; 10-day countdown; Joe Ryan remains top target)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, analysis/news)
+- **Follow-Up Opportunities:**
+  - Any trade announcement before August 3
+  - Joe Ryan deal reporting
+  - Maton update in ~3 weeks
+  - Thornton active vs IL determination
+
+### STORY 5: Pete Crow-Armstrong MVP Watch
+- **Angle:** FOLLOW UP (last full PCA feature July 16/17; today's angle: mid-July check-in, 21 HR, 24 SB, 6.0 WAR, June 1.249 OPS led all qualified MLB players, NL Player of the Month; back-to-back 20-20 on track)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, feature/bold take)
+- **Follow-Up Opportunities:**
+  - PCA stats at end of Pirates series
+  - NL MVP ballot updates / media coverage in August
+  - Monthly stat check-ins
+
+### STORY 6: Pre-Game Hype — Boyd vs Jones at PNC Park, 5:40 PM CT
+- **Angle:** NEW STORY (pre-game hype for tonight's specific matchup; Boyd 4-game win streak vs Jones TJ returnee; Wild Card framing)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, pre-game hype)
+- **Follow-Up Opportunities:**
+  - Tonight's game result (recap in tomorrow's pipeline)
+  - Boyd's line / key moments
+
+---
+
 ## 2026-07-23
 
 ### STORY 1: Tigers 5, Cubs 1 — Detroit Wins Series 2-1
