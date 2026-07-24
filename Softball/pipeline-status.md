@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-07-24
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via 3 research agents), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations), FB posts (5 stories), image concepts (10 items), image manifest (10 items, not_started), articles (5), fact-check (62 claims), compile (5 stories, 6 tweets, 0 FB posts — format known, 5 articles, 21 items), dashboard (21 items), PostPlanner exports (6 posts standard + 6 TOBI). WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard publish push failed (proxy known restriction). IMAGE MISSING expected (not_started). FB posts: 0 compiled (format known). 0 char violations. CORRECTION from July 23 pipeline: Game 1 Championship is at 1 PM ET (not Noon ET as stated in prior pipelines — research agents confirmed 1 PM ET from AUSL website).
+- **Key Stories**: AUSL Championship Game 1 TOMORROW Saturday July 25 1PM ET ABC Davis Diamond/Bandits (survived 11-inning play-in 6-5)/vs Talons (defending champs; swept Bandits 2025)/Montana Fouts (7-4 2.36 ERA rested since July 20)/first pro softball on network TV (Tier 1 FOLLOW UP), Bandits 6 Cascade 5 (11 innings)/walk-off Ailana Agbayani scored Taryn Kern/Lexi Kilfoyl relief (4K 2H) saved season/Kat Sandercock started/longest game AUSL history/first play-in ever (Tier 1 NEW), PGF Nationals Championship TOMORROW Saturday/16U ESPN+ 8:30AM PT (11:30AM ET)/18U ESPNU 12PM PT (3PM ET)/All-American Games evening/September 1 is 38 days (Tier 2 FOLLOW UP), Kilfoyl 6-0 first relief appearance/4K 2H vs Portland in extras/ace in new role (Tier 2 NEW), Megan Grant season over/10 AUSL HR (2nd history behind Brady 11)/17-game on-base streak/313-ft debut HR/42 NCAA HR record/Portland Cascade inaugural year done (Tier 3 FOLLOW UP)
+
+## Last Run
 - **Date**: 2026-07-23
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via 2 research agents, 10 queries), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations), FB posts (5 stories), image concepts (11 items), image manifest (11 items, not_started), articles (5), fact-check (79 claims), compile (5 stories, 6 tweets, 0 FB posts — format known, 5 articles, 21 items), dashboard (21 items), PostPlanner exports (6 posts standard + 6 TOBI). WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).

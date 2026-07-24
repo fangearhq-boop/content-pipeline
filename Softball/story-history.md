@@ -3,6 +3,61 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-07-24
+
+### Story 1: AUSL Championship Preview — Bandits vs. Talons, Saturday on ABC
+- **Date:** 2026-07-24
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Bandits won play-in July 23; Championship begins Saturday July 25)
+- **Angle:** Chicago Bandits defeated Portland Cascade 6-5 in 11 innings July 23; now face Utah Talons in AUSL Championship Series. Game 1 Saturday July 25 1 PM ET on ABC at Davis Diamond (sold out) — first professional softball game on network TV. Rematch of 2025 Championship (Talons swept Bandits). Montana Fouts (7-4, 2.36 ERA, 63 K, 12-K record) rested since July 20. Game 2 Sunday July 26, 2 PM ET; Game 3 (if needed) Monday July 27, 7 PM ET.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, image concepts
+- **Follow-Up Opportunities:**
+  - Championship Series results Saturday-Monday
+  - ABC viewership benchmark data
+  - Montana Fouts vs. Kilfoyl matchup performance
+
+### Story 2: Play-in Recap — Bandits 6, Cascade 5 (11 Innings)
+- **Date:** 2026-07-24
+- **Tier:** 1
+- **Classification:** NEW (first play-in in AUSL history; game result July 23)
+- **Angle:** Ailana Agbayani walk-off single scored Taryn Kern in 11th inning. Lexi Kilfoyl entered as reliever (4K, 2H) and kept Portland scoreless through extras. Kat Sandercock started; Portland's Carley Hoover (9-3, 3.57 ERA) started. Longest game in AUSL history. Megan Grant's 17-game on-base streak and 10 HRs not enough.
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, image concepts
+- **Follow-Up Opportunities:**
+  - Agbayani's role in Championship Series
+  - Kilfoyl's start vs. relief role in Championship
+
+### Story 3: PGF Nationals Championship Day — Saturday July 25
+- **Date:** 2026-07-24
+- **Tier:** 2
+- **Classification:** FOLLOW UP (championships are Saturday July 25; semifinals happening today)
+- **Angle:** 16U Premier on ESPN+ at 8:30 AM PT (11:30 AM ET); 18U Premier on ESPNU at 12:00 PM PT (3 PM ET); All-American Games Saturday evening. Deanna Manning Stadium, Bill Barber Park, Irvine CA. September 1 is 38 days away (Class of 2028 D1 direct contact window).
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, image concept
+- **Follow-Up Opportunities:**
+  - Championship results Saturday July 25
+  - Class of 2028 commitment announcements post-September 1
+
+### Story 4: Lexi Kilfoyl Relief Performance — Saved the Season
+- **Date:** 2026-07-24
+- **Tier:** 2
+- **Classification:** NEW (first standalone analysis of Kilfoyl's relief performance in play-in)
+- **Angle:** Kilfoyl entered play-in as reliever — her first non-starting role all season (6-0 as starter). 4 K, 2 H, kept Portland scoreless through late innings and extras for the win. Shows pitcher adaptability heading into Championship Series.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, image concept
+- **Follow-Up Opportunities:**
+  - Kilfoyl's role in Championship Series (start vs. relief)
+  - Will 6-0 record survive through Championship?
+
+### Story 5: Megan Grant's 2026 Season Is Over
+- **Date:** 2026-07-24
+- **Tier:** 3
+- **Classification:** FOLLOW UP (Grant and Cascade eliminated July 23 play-in loss)
+- **Angle:** Grant finishes with 10 AUSL HRs (second in league history behind Maya Brady's 11), 17-game on-base streak, 313-ft debut HR (AUSL distance record). Set NCAA single-season record at 42 HRs at UCLA spring 2026. First professional season for the 22-year-old. Portland Cascade went 14-12 in its inaugural season.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, image concept
+- **Follow-Up Opportunities:**
+  - Grant's 2027 AUSL return
+  - Whether she challenges Brady's record (11) in 2027
+
+---
+
 ## 2026-07-23
 
 ### Story 1: AUSL Play-in TONIGHT — Bandits vs. Cascade, Game Day Preview
