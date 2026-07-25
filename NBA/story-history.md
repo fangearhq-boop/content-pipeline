@@ -4706,3 +4706,44 @@
 - **Key facts:** Matisse Thybulle signed 1yr/$3.29M (July 20); Ziaire Williams signed; Deandre Ayton traded to Washington for Jaden Hardy + 2 2nd-round picks; Anthony Davis remains; Lakers building defense-first identity; LeBron departed as free agent
 - **Status:** NEW
 - **Follow-up ideas:** LeBron officially signs elsewhere; Lakers training camp roster evaluation; Davis season preview
+
+| 2026-07-25 | T1 | LeBron James Signs with Philadelphia 76ers — 2-Year $8M Deal | X, FB, Article | FOLLOW UP |
+| 2026-07-25 | T1 | Wembanyama $252M + Fox $228M — Spurs Dynasty Core Locked In | X, FB, Article | FOLLOW UP |
+| 2026-07-25 | T2 | Kawhi Leonard Returns to Toronto Raptors | X, FB, Article | FOLLOW UP |
+| 2026-07-25 | T2 | Ja Morant Traded to Portland Trail Blazers | X, FB, Article | NEW |
+| 2026-07-25 | T2 | 2026 NBA Summer League Wrap — Warriors Win, Dybantsa vs Peterson | X, FB, Article | FOLLOW UP |
+
+### STORY 1: LeBron James Signs with Philadelphia 76ers
+- **Tier:** 1
+- **Category:** NBA Free Agency
+- **Key facts:** Signed 2-year $8M with 76ers; told Lakers June 30 he would not return; 24th NBA season; joins Joel Embiid; called it "last decision"; considered retirement; finalists Heat/Cavs/76ers/Wolves/Warriors; "I still want to compete, to win"
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** First 76ers press conference; supporting cast moves; Eastern Conference outlook
+
+### STORY 2: Wembanyama + Fox — Spurs Dynasty Core Locked In
+- **Tier:** 1
+- **Category:** NBA Contracts / Spurs
+- **Key facts:** Wembanyama 5yr/$252M (July 10); took 25% max not 30% supermax; left ~$51M on table; gave Spurs ~$50M flexibility; 3rd-largest rookie extension behind Cunningham/Mobley $269M each; player option on year 5; De'Aaron Fox 4yr/$228M extension same window
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Spurs free agency moves using cap space; season outlook; Forbes "balance of power" follow-through
+
+### STORY 3: Kawhi Leonard Returns to Toronto Raptors
+- **Tier:** 2
+- **Category:** NBA Transactions / Free Agency
+- **Key facts:** Kawhi returning to Raptors as free agent after 6 seasons with Clippers; age 35; investigation concluded per Silver's October deadline mandate; prior trade terms (Ingram/Dick/picks to LAC) MEDIUM confidence
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** First press conference; Raptors roster building; training camp
+
+### STORY 4: Ja Morant Traded to Portland Trail Blazers
+- **Tier:** 2
+- **Category:** NBA Trades
+- **Key facts:** Morant traded from Memphis to Portland; trade terms unconfirmed; former All-Star; Portland reshaping roster
+- **Status:** NEW
+- **Follow-up ideas:** Trade compensation confirmed; Portland training camp; Morant debut
+
+### STORY 5: 2026 NBA Summer League Wrap — Warriors Win
+- **Tier:** 2
+- **Category:** NBA Summer League
+- **Key facts:** Warriors beat Grizzlies in championship game July 19; Yaxel Lendeborg 21 pts in title game; set attendance + merchandise records; No. 1 pick AJ Dybantsa (Washington) vs No. 2 Darryn Peterson (Utah) top storyline
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Training camp evaluations; Dybantsa/Peterson regular season debuts
