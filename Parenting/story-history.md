@@ -2,6 +2,45 @@
 
 ---
 
+## July 25, 2026
+
+### Story 1: Two CPSC Recalls — Peony Design Bibs and Bellabu Bear Robes
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — Two active CPSC recalls: (1) Peony Design personalized baby bibs and stroller bags — snap attachment can detach, creating choking hazard (risk of serious injury or death); sold on Etsy Oct 2025–Jul 2026, $15–$45; full refund available; (2) Bellabu Bear children's bamboo robes — burn hazard; violates mandatory federal flammability standards for children's sleepwear; stop using immediately.
+- **Content Produced:** Article (Sarah Morales), 2 X posts, Facebook Long-Form + Caption, Image Concept
+- **Tier:** 1
+- **Key Facts:** Peony Design: sold Etsy Oct 2025–Jul 2026, $15–$45, snap detaches → choking hazard, full refund; Bellabu Bear: bamboo robes, burn hazard, violates sleepwear flammability standards, stop using; both active at cpsc.gov/Recalls; Sources: CPSC.gov
+
+### Story 2: Bronc Day Festival — Green Mountain Falls
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Bronc Day Festival in Green Mountain Falls (July 25, 7:30 a.m.–3:00 p.m.; ~20 min west of COS on US-24); pancake breakfast, parade at 10 a.m., live music, family activities. Little Landers at The Yard: balloon artists, face painting, yard games (July 25, 10 a.m.–noon). Acacia Park Sunday Market preview: July 26, 9 a.m.–2 p.m., free.
+- **Content Produced:** Article (Jamie Rivera), 2 X posts, Facebook Long-Form + Caption, Image Concept
+- **Tier:** 1
+- **Key Facts:** Bronc Day: July 25, 7:30 a.m.–3:00 p.m., Green Mountain Falls; parade 10 a.m.; cost not confirmed; Little Landers: July 25, 10 a.m.–noon, The Yard; Sunday Market: July 26, 9 a.m.–2 p.m., Acacia Park, free; Sources: event organizers, local calendar
+
+### Story 3: Gov. Polis Joins Push to Get Math Into Well-Child Visits
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — Six U.S. governors (McKee/RI, Moore/MD, Polis/CO, Lamont/CT, Meyer/DE, Stein/NC) sent letter to AAP July 23, 2026 urging early math guidance for pediatricians at well-child visits. Modeled on AAP's landmark literacy guidance. Suggested tools: board games, card games, starting in infancy.
+- **Content Produced:** Article (Sarah Morales), 1 X post, Facebook Long-Form + Caption, Image Concept
+- **Tier:** 2
+- **Key Facts:** Letter published July 23, 2026 via GlobeNewswire; six governors; ask AAP to issue early math recommendations; board games, card games; AAP has not yet responded; Sources: GlobeNewswire July 23, 2026
+
+### Story 4: D11 Adding 8 New School Zones Before August
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — Colorado Springs adding 8 new school zone designations at D11 middle and high schools before end of summer 2026. New speed limits and increased enforcement take effect at school year start in August. Families urged to check d11.org for specifics.
+- **Content Produced:** Article (Jamie Rivera), 1 X post, Facebook Long-Form + Caption, Image Concept
+- **Tier:** 2
+- **Key Facts:** 8 new school zones; D11 middle and high schools; before August 2026; safety initiative — reduce car accidents; check d11.org; Source: KKTV local news (exact publish date not confirmed)
+
+### Story 5: Free Water Play in Colorado Springs This Weekend
+- **Content Pillar:** Evergreen
+- **Angle:** NEW STORY — Weekend water play guide for 84°F Saturday. Uncle Wilber Fountain (Acacia Park, free, noon–6 p.m.); Deerfield Hills Spray Ground (50+ nozzles, open since June 1); Monument Valley Pool and Wilson Ranch Pool (both open daily).
+- **Content Produced:** Article (Sarah Morales), 1 X post, Facebook Long-Form + Caption, Image Concept
+- **Tier:** 3
+- **Key Facts:** Uncle Wilber Fountain: Acacia Park, free, noon–6 p.m. daily; Deerfield Hills Spray Ground: open since June 1, 50+ nozzles; Monument Valley Pool: open daily (hours/cost verify); Wilson Ranch Pool: open daily (hours/cost verify); today's high 84°F; Source: City of Colorado Springs Parks & Rec
+
+---
+
 ## July 20, 2026
 
 ### Story 1: Build-A-Bear Heartwarming Hugs Bear Recall

@@ -1,0 +1,304 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-25",
+  "compiled_at": "2026-07-25T12:40:50.960426+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 (CPSC Recall)",
+      "type": "X + FB"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "Story 2 (Bronc Day)",
+      "type": "X + FB"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 3 (Polis/AAP Math)",
+      "type": "X + FB"
+    },
+    {
+      "time": "2:00 PM",
+      "description": "Story 1 (Recall reminder)",
+      "type": "X"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 (School Zones)",
+      "type": "X + FB"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 5 (Water Play)",
+      "type": "X + FB"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 2 (Sunday Market preview)",
+      "type": "X"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Two CPSC Recalls to Know This Weekend — Peony Design Bibs and Bellabu Bear Robes",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Two active CPSC recalls for COS parents this weekend. 🚨\n\nPeony Design bibs: snap can detach -- choking hazard. Sold on Etsy, Oct 2025-Jul 2026. Full refund.\n\nBellabu Bear kids' robes: burn hazard. Stop using now.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 273
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Reminder: 2 CPSC recalls are active this weekend.\n\nPeony Design bibs (choking hazard) + Bellabu Bear kids' robes (burn hazard).\n\nCheck cpsc.gov/Recalls now.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 217
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-cpsc-recalls-baby-bibs-robes.html",
+        "headline": "Two CPSC Recalls Colorado Springs Parents Need to Know About This Weekend",
+        "word_count": 664
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Two CPSC Recalls — Peony Design Bibs and Bellabu Bear Robes\n\n**Filename:** `story-1-cpsc-recalls.png`\n**Dimensions:** X: 1200x675 | Facebook: 1200x630\n\n**Gemini Prompt:**\nA flat lay photograph of baby care products arranged on a soft white surface. A folded cloth bib in pastel colors sits next to a neatly folded children's robe in a neutral cream fabric. The composition is clean and minimal. The mood is calm but serious, with cool-toned natural light from the left. No people, no faces, no text. Color palette: white, cream, soft gray with a pale blue accent. Art style: clean editorial product photography. The bottom third of the image is uncluttered white space with no objects.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Bronc Day Festival Is TODAY — Pancake Breakfast, Parade, and Family Fun",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Bronc Day is happening NOW in Green Mountain Falls. 🎉\n\nPancake breakfast + parade at 10 a.m. + live music.\n\nAbout 20 min west of COS on US-24. Festival runs until 3 p.m.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 230
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Tomorrow: Acacia Park Sunday Market, 9 a.m.-2 p.m.\n\nFree to attend. Fresh food, local vendors, community vibes.\n\nPerfect Sunday morning for Colorado Springs families. 🌿\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-bronc-day-family-festival.html",
+        "headline": "Bronc Day Is Today in Green Mountain Falls — Here's What Colorado Springs Families Need to Know",
+        "word_count": 631
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Bronc Day Festival — Green Mountain Falls\n\n**Filename:** `story-2-bronc-day.png`\n**Dimensions:** X: 1200x675 | Facebook: 1200x630\n\n**Gemini Prompt:**\nA vibrant outdoor summer festival scene in a small mountain town. Families and children are gathered along a tree-lined main street under a bright blue Colorado sky. Mountains are visible in the background. The mood is festive and cheerful, full of energy and community warmth. Morning golden-hour sunlight. Colorful banners and bunting hang between buildings. No specific text visible on signs or banners. Art style: warm documentary photography, slightly editorial. The bottom third of the image is open sky or pavement with minimal detail.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Colorado's Gov. Polis Joins Push to Get Math Into Your Child's Next Checkup",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Gov. Polis joined 5 governors pushing the AAP to add early math to well-child visits.\n\nBoard games, card games -- starting in infancy.\n\nModeled on the AAP's literacy guidance. Colorado is in. 🎲\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-polis-aap-early-math.html",
+        "headline": "Colorado's Gov. Polis Joins Push to Get Math Into Your Child's Next Checkup",
+        "word_count": 736
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Gov. Polis Joins Push for Early Math at Pediatrician Checkups\n\n**Filename:** `story-3-early-math-pediatrician.png`\n**Dimensions:** X: 1200x675 | Facebook: 1200x630\n\n**Gemini Prompt:**\nA warm, intimate scene of a parent and a toddler sitting together at a wooden kitchen table, playing with a simple colorful board game with numbered tiles. The parent's hands and the child's hands are visible on the game pieces. No faces shown. The lighting is soft, natural, and warm, coming through a nearby window. The mood is nurturing and engaged. Color palette: warm wood tones, soft yellows and greens, natural light. Art style: lifestyle photography, editorial warmth. The bottom third of the image shows the edge of the table with soft blurred background.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "D11 Adding 8 New School Zones Before August — What COS Families Need to Know",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Colorado Springs is adding 8 new school zones near D11 middle and high schools before August.\n\nNew speed limits and more enforcement start this fall.\n\nCheck d11.org for your school's specifics. 🚸\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-d11-school-zones.html",
+        "headline": "D11 Is Adding 8 New School Zones This Summer — What Colorado Springs Families Need to Know",
+        "word_count": 722
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D11 Adding 8 New School Zones Before August\n\n**Filename:** `story-4-school-zones-d11.png`\n**Dimensions:** X: 1200x675 | Facebook: 1200x630\n\n**Gemini Prompt:**\nA neighborhood street scene near a school, with a school zone speed limit sign prominently visible in the foreground. The street is clean and quiet, with a sidewalk and painted crosswalk visible. Children's backpacks hang from a fence in the soft background. No people present. Morning light with cool blue sky. The mood is safe, organized, and civic. Color palette: soft grays, whites, sky blue, and a gentle yellow from the sign. Art style: clean editorial documentary photography. The bottom third of the frame is the road surface, uncluttered.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Beat the Heat: Free Water Play in Colorado Springs This Weekend",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "It's 84 degrees in Colorado Springs today. 💦\n\nUncle Wilber Fountain: free, noon-6 p.m. (Acacia Park).\nDeerfield Hills Spray Ground: 50+ nozzles.\nMonument Valley + Wilson Ranch Pools: open daily.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-free-water-play-cos.html",
+        "headline": "Beat the Heat: Free Water Play in Colorado Springs This Weekend",
+        "word_count": 721
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Free Water Play in Colorado Springs\n\n**Filename:** `story-5-water-play-cos.png`\n**Dimensions:** X: 1200x675 | Facebook: 1200x630\n\n**Gemini Prompt:**\nAn outdoor splash pad on a bright summer afternoon with water spraying from multiple ground nozzles into the air. No children visible -- just water arcing through the air catching sunlight, creating rainbow droplets. The surrounding area is a clean, paved park space with green grass in the background and a clear blue sky. The mood is joyful and cooling. Color palette: bright blues, whites, and sun-gold highlights. Art style: bright, saturated lifestyle photography. The bottom third of the image is the dry paved edge of the spray area, clear and uncluttered."
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
