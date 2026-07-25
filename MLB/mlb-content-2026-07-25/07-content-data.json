@@ -1,0 +1,243 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-25",
+  "compiled_at": "2026-07-25T10:39:28.372760+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Baseball Hall of Fame Induction Weekend — Beltran and Andruw Jones Tomorrow",
+      "tier": 1,
+      "status": "",
+      "angle": "Carlos Beltran and Andruw Jones will be inducted into the Baseball Hall of Fame at the induction ceremony Sunday, July 26, in Cooperstown, New York. Beltran: .279/.350/.490 career slash line, 435 home runs, 2,725 hits, 312 stolen bases, 9 Gold Gloves, 9-time All-Star, switch-hitter widely regarded as one of the best offensive players of his generation. Jones: .254/.330/.486, 434 HR, 10 consecutive Gold Gloves in center field (1998-2007), regarded by analytics as one of the greatest defensive players in baseball history. Beltran's candidacy carried the context of his involvement in the 2017 Astros sign-stealing investigation; the BBWAA ultimately decided his playing career merited enshrinement.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Carlos Beltran and Andruw Jones will be inducted into the Baseball Hall of Fame tomorrow in Cooperstown.\n\nBeltran: 435 career HR, 9 Gold Gloves, 9× All-Star. Jones: 434 HR, 10 consecutive Gold Gloves — one of the greatest defensive players in baseball history. #HOF2026 #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HOF2026",
+            "#MLB"
+          ],
+          "char_count": 274
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Andruw Jones won 10 consecutive Gold Gloves in center field from 1998 to 2007.\n\nHe hit 434 career home runs. He enters the Hall of Fame tomorrow in Cooperstown. #HOF2026 #MLB #Braves",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HOF2026",
+            "#MLB",
+            "#Braves"
+          ],
+          "char_count": 182
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-hof-induction-beltran-andruw-jones-cooperstown.html",
+        "headline": "Carlos Beltran and Andruw Jones Enter the Baseball Hall of Fame Sunday in Cooperstown",
+        "word_count": 687
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Baseball Hall of Fame Weekend — Beltran and Andruw Jones\n\n#### Image Concept 1 — 8:00 AM ET Post\n\n- **Placement:** X Post 1 / Facebook Long-Form Post\n- **Search term:** `Carlos Beltran`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1080x1350 (4:5 vertical)\n- **Status:** not_started\n- **Notes:** Action or portrait from playing career; any uniform is fine; strong, proud expression preferred\n\n#### Image Concept 2 — 10:00 AM ET Post\n\n- **Placement:** X Post 2 / secondary Facebook\n- **Search term:** `Andruw Jones Atlanta Braves`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1080x1350 (4:5 vertical)\n- **Status:** not_started\n- **Notes:** Defensive play, diving catch, or Gold Glove-worthy range moment; Braves uniform preferred; center field action\n\n#### Article Hero — Story 1\n\n- **Placement:** article-01 hero\n- **Search term:** `Carlos Beltran`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1200x630 (1.91:1 landscape)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Ohtani Pitching Timeline — Roberts Says No Return Date",
+      "tier": 1,
+      "status": "",
+      "angle": "Dodgers manager Dave Roberts confirmed Saturday that Shohei Ohtani will not make his next scheduled pitching start and there is no timetable for his return to the mound. Ohtani has been dealing with left knee irritation that may relate to a 2019 surgery. He has not pitched since July 3, when he was 8-2 with a 1.79 ERA, 95 strikeouts in 85.2 innings — on pace for a potential Cy Young Award. He threw approximately 31 pitches in a bullpen session July 22. The Dodgers expect him to pitch again in 2026, but Roberts would not give a timeline. He continues to DH and hit.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Dave Roberts confirmed Saturday that Shohei Ohtani will not make his next scheduled pitching start. There is no timetable for his return to the mound.\n\nHe was 8-2 with a 1.79 ERA and 95 strikeouts before the knee injury. He continues to DH. #Dodgers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#MLB"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-ohtani-no-pitching-timetable-dodgers.html",
+        "headline": "Dave Roberts Says No Timetable for Ohtani Return to the Mound",
+        "word_count": 600
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ohtani Pitching — No Timetable\n\n#### Image Concept 1 — 10:30 AM ET Post\n\n- **Placement:** X Post 1 / Facebook Long-Form Post\n- **Search term:** `Shohei Ohtani Los Angeles Dodgers`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1080x1350 (4:5 vertical)\n- **Status:** not_started\n- **Notes:** Pitching delivery or mound image preferred; Dodgers uniform; conveys the story of an ace not pitching\n\n#### Image Concept 2 — Secondary\n\n- **Placement:** Facebook secondary / article-02 alternative\n- **Search term:** `Shohei Ohtani Los Angeles Dodgers`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1080x1350 (4:5 vertical)\n- **Status:** not_started\n- **Notes:** Different image from Concept 1; batting stance or dugout alternative acceptable\n\n#### Article Hero — Story 2\n\n- **Placement:** article-02 hero\n- **Search term:** `Shohei Ohtani Los Angeles Dodgers`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1200x630 (1.91:1 landscape)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Phillies Pitching Records — Sanchez Breaks 115-Year Franchise Mark",
+      "tier": 2,
+      "status": "",
+      "angle": "Two significant Phillies records fell this week. Cristopher Sanchez extended his scoreless innings streak to 41⅔ innings, breaking a 115-year-old Phillies franchise record held by Grover Cleveland Alexander. Kyle Schwarber hit his 30th home run, reaching that mark in the fewest team games in Phillies franchise history. Sanchez's streak is a masterclass in contact management and pitch sequencing. Together, these performances underscore why Philadelphia has one of the strongest pitching situations in the National League heading into the August 3 trade deadline.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Cristopher Sanchez has pitched 41⅔ scoreless innings in a row, breaking a 115-year-old Phillies record held by Grover Cleveland Alexander.\n\nKyle Schwarber hit his 30th home run — the fastest in Phillies franchise history. Both in the same week. #Phillies #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Phillies",
+            "#MLB"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-phillies-sanchez-scoreless-streak-schwarber-30-hr.html",
+        "headline": "Sanchez Breaks 115-Year Phillies Record, Schwarber Hits 30th Home Run Faster Than Anyone in Franchise History",
+        "word_count": 709
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Phillies Records — Sanchez and Schwarber\n\n#### Image Concept 1 — 12:30 PM ET Post\n\n- **Placement:** X Post 1 / Facebook Long-Form Post\n- **Search term:** `Kyle Schwarber Philadelphia Phillies`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1080x1350 (4:5 vertical)\n- **Status:** not_started\n- **Notes:** Home run swing or bat flip; Phillies uniform; power/celebration energy preferred\n\n#### Article Hero — Story 3\n\n- **Placement:** article-03 hero\n- **Search term:** `Cristopher Sanchez Philadelphia Phillies`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1200x630 (1.91:1 landscape)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "MLB Trade Deadline — Nine Days Away and Heating Up",
+      "tier": 2,
+      "status": "",
+      "angle": "The MLB Trade Deadline is August 3 at 6 PM ET — nine days away. The market is accelerating. Key names: Mason Miller (Padres closer, under team control through 2029, 2026 All-Star — Yankees \"love the idea\" of acquiring him). Tarik Skubal (Tigers ace, trade odds reported at 60% by ESPN's Jeff Passan). Angels in fire-sale mode — Jose Soriano, Reid Detmers, and Zach Neto all available. Tampa Bay Rays expected to be major buyers. Mets moving into full sell mode. Phillies have become \"more willing to discuss higher-caliber arms.\" The next nine days will reshape October contenders.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The MLB Trade Deadline is August 3 — nine days away.\n\nMason Miller (Yankees pursuing). Tarik Skubal (60% trade odds per Passan). Angels shopping Soriano, Detmers, and Neto. Rays expected to buy big.\n\nThe deadline market is heating up. #MLB #TradeDeadline",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#TradeDeadline"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-mlb-trade-deadline-august-3-miller-skubal-angels.html",
+        "headline": "MLB Trade Deadline: Nine Days Out, the Market Is Moving",
+        "word_count": 662
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "MLB Trade Deadline — August 3\n\n#### Image Concept 1 — 3:00 PM ET Post\n\n- **Placement:** X Post 1 / Facebook Long-Form Post\n- **Search term:** `Tarik Skubal Detroit Tigers`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1080x1350 (4:5 vertical)\n- **Status:** not_started\n- **Notes:** Pitching delivery or post-outing portrait; Tigers uniform; ace presence\n\n#### Article Hero — Story 4\n\n- **Placement:** article-04 hero\n- **Search term:** `Mason Miller San Diego Padres`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1200x630 (1.91:1 landscape)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "The Milestones Notebook — Ramirez 30/30, Freeman 400/2500, Misiorowski 105.5 mph",
+      "tier": 3,
+      "status": "",
+      "angle": "July 2026 has been a week for the record books across multiple teams. Jose Ramirez (Guardians) is on pace to become only the second player in history — after Barry Bonds — to hit 30 HR and steal 30 bases in three consecutive seasons. Freddie Freeman (Dodgers) is tracking toward 400 career HR and 2,500 career hits — only the 18th player ever to reach both thresholds. Jacob Misiorowski (Brewers) registered a 105.5 mph pitch — the fastest pitch ever recorded from a starting pitcher under modern tracking technology, tying Ben Joyce for third-fastest pitch all-time. Aroldis Chapman also set the career strikeout record for relief pitchers earlier this month, surpassing Hoyt Wilhelm with strikeout No. 1,364.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Jose Ramirez is on pace to become only the second player ever — after Barry Bonds — to hit 30 HR and steal 30 bases in three consecutive seasons.\n\nJacob Misiorowski hit 105.5 mph this week — the fastest pitch ever recorded from a starting pitcher. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-milestones-notebook-ramirez-freeman-misiorowski-chapman.html",
+        "headline": "The Milestones Notebook: July 2026 Is One for the Record Books",
+        "word_count": 798
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "The Milestones Notebook\n\n#### Image Concept 1 — 10:00 PM ET Post\n\n- **Placement:** X Post 1 / Facebook Long-Form Post\n- **Search term:** `Jose Ramirez Cleveland Guardians`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1080x1350 (4:5 vertical)\n- **Status:** not_started\n- **Notes:** Batting, base-running, or celebration; Guardians uniform; dynamic action preferred\n\n#### Article Hero — Story 5\n\n- **Placement:** article-05 hero\n- **Search term:** `Jose Ramirez Cleveland Guardians`\n- **Credit:** (USA TODAY Sports Images)\n- **Requested dimensions:** 1200x630 (1.91:1 landscape)\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

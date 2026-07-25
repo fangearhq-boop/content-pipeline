@@ -5,6 +5,64 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-25
+
+### Story 1: Carlos Beltran and Andruw Jones — Hall of Fame Induction Sunday in Cooperstown
+- **Date:** 2026-07-25
+- **Tier:** 1
+- **Classification:** NEW (HOF ceremony Sunday July 26 Cooperstown; first Ballpark Banter coverage)
+- **Angle:** Carlos Beltran and Andruw Jones inducted Sunday July 26 in Cooperstown by BBWAA vote. Beltran: .279/.350/.490, 435 HR, 2,725 hits, 312 SB, 9 Gold Gloves, 9× All-Star; 2004 NLCS 8 HR 14 RBI vs Cardinals. Named in Astros sign-stealing investigation; BBWAA voted based on playing career. Jones: .254/.330/.486, 434 HR, 10 consecutive Gold Gloves (1998-2007); regarded as greatest defensive CF in baseball history by advanced metrics.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Acceptance speeches at induction ceremony
+  - Historical revisiting of Jones' defensive legacy
+
+### Story 2: Ohtani No Timetable for Return to Mound — Roberts Confirms
+- **Date:** 2026-07-25
+- **Tier:** 1
+- **Classification:** FOLLOW UP (July 24: ~31-pitch bullpen July 22; today Roberts confirmed no timetable, indefinitely unknown)
+- **Angle:** Dave Roberts confirmed Saturday no timetable for Ohtani's return to the mound. Will not make next scheduled start. Last pitched July 3 (8-2, 1.79 ERA, 95 K, 85.2 IP). Threw ~31 pitches in bullpen July 22 at Citizens Bank Park. Left knee irritation possibly related to prior surgery. Dodgers expect 2026 return but no date given. Still DHing: .288/.397/.536.
+- **Content Produced:** Article (article-02, Jake Torres), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Next bullpen session date when announced
+  - Return to rotation announcement whenever it comes
+  - Dodgers deadline decisions in light of Ohtani's mound absence
+
+### Story 3: Phillies Records — Sanchez 41⅔ Scoreless, Schwarber 30 HR Fastest in Franchise History
+- **Date:** 2026-07-25
+- **Tier:** 2
+- **Classification:** NEW (both records fell this week — first Ballpark Banter coverage)
+- **Angle:** Cristopher Sanchez extended scoreless innings streak to 41⅔, breaking a 115-year Phillies franchise record held by Grover Cleveland Alexander. Kyle Schwarber hit 30th HR of 2026 — fastest to 30 in Phillies franchise history. Schwarber leads MLB in home runs. Both performances in same week heading into trade deadline.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Sanchez streak continuation
+  - Schwarber HR pace toward 40+
+  - Phillies deadline decisions
+
+### Story 4: MLB Trade Deadline August 3 — Nine Days Out, Market Heating Up
+- **Date:** 2026-07-25
+- **Tier:** 2
+- **Classification:** FOLLOW UP (July 24: Skubal statement, Red Sox buyers; today: Mason Miller/Yankees, Rays buying, Angels fire sale)
+- **Angle:** August 3 deadline nine days away. Mason Miller (Padres closer, Yankees pursuing, team control through 2029, 2026 All-Star). Tarik Skubal (Tigers, 60% trade odds per Passan, Dodgers frontrunner, Detroit 6.5 back AL Central). Angels fire sale: Soriano, Detmers, Zach Neto all available. Rays (best record in AL) buying big. Mets in full sell mode.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Miller trade if it happens
+  - Skubal trade or extension decision by August 3
+  - Neto to Red Sox or other suitor
+
+### Story 5: The Milestones Notebook — Ramirez, Freeman, Misiorowski, Chapman
+- **Date:** 2026-07-25
+- **Tier:** 3
+- **Classification:** NEW (multiple simultaneous milestones in July 2026)
+- **Angle:** Jose Ramirez on pace for 3 consecutive 30 HR/30 SB seasons — only Bonds has done it. Freddie Freeman tracking 400 HR and 2,500 hits (18th player ever). Jacob Misiorowski (Brewers) 105.5 mph pitch — fastest ever from a starting pitcher under modern tracking, ties Ben Joyce for 3rd-fastest all-time. Aroldis Chapman: career K No. 1,364, all-time relief strikeout record, passed HOF Hoyt Wilhelm.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Ramirez 30/30 confirmed if/when he reaches both
+  - Freeman reaching 400 HR / 2,500 hits
+  - Misiorowski sustained velocity story through postseason push
+
+---
+
 ## 2026-07-24
 
 ### Story 1: Skubal Says He Wants to Stay — Dodgers Still the Lead Suitor
