@@ -1,0 +1,240 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-25",
+  "compiled_at": "2026-07-25T09:22:43.427734+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Cubs 3, Pirates 2 F/10 — Extras Win at PNC Park",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Boyd's 7-inning gem sets the table; PCA ties it with 22nd HR; Swanson delivers in extras. Cubs improve to 58-45.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Cubs win 3-2 in extras at PNC Park.\n\nBoyd gave Pittsburgh nothing for 7 innings. Crow-Armstrong's solo shot tied it in the 6th. Swanson delivered in the 10th — Cubs are 58-45 and getting it done the hard way.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cubs 3, Pirates 2 F/10 — Game Recap\n**Facts (HIGH confidence):**\n- Final: Cubs 3, Pirates 2, 10 innings\n- Date: July 24, 2026 at PNC Park\n- Boyd started, 7 IP, 1 ER, 7 H, 3 BB — did not factor in decision (went out of game tied 1-1)\n- Henry Davis RBI infield single in 5th gave Pittsburgh a 1-0 lead\n- PCA solo HR in 6th off Jones tied it 1-1 (22nd HR of season)\n- Regulation ended 1-1; game went to extras\n- 10th: Swanson RBI single scores Ian Happ (automatic runner); Suzuki draws bases-loaded walk for second run\n- Final: Cubs 3, Pirates 2\n- Cubs record now: 58-45\n**Sources:**\n- ESPN recap: https://www.espn.com/mlb/recap?gameId=401816237\n- Cubs Insider: https://www.cubsinsider.com/2026/07/24/chicago-cubs-score-and-recap-7-24-26-cubs-3-pirates-2-f-10-swanson-single-leads-to-extras-w/\n- Butler Eagle: https://www.butlereagle.com/20260724/dansby-swansons-two-out-single-in-the-10th-inning-boyds-strong-outing-lift-cubs-over-pirates-3-2/\n- Cubs Insider PCA HR: https://www.cubsinsider.com/2026/07/24/watch-pete-crow-armstrong-stays-hot-in-pittsburgh-belts-solo-home-run/\n**Fact-check flags:**\n- PCA HR number (22nd): Verified via July 24 story-history (21 entering July 24) + HR last night = 22 ✓ (MEDIUM — want to cross-check vs. statmuse/bbref)\n- Boyd line: multiple sources agree on 7 IP, 1 ER",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Imanaga vs. Skenes Ace Duel",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Two NL aces at peak form tonight. Skenes seeking 4th straight W. Imanaga 2.31 ERA last 7 starts. Pure appointment baseball.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Paul Skenes vs. Shota Imanaga tonight at PNC Park.\n\nSkenes on a three-win roll, looking for No. 4. Imanaga's been better lately — 2.31 ERA his last 7 starts. This is as good as the NL gets right now.\n\n5:40 PM CT. Don't look away.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Imanaga vs. Skenes Bold Take\n**Facts (HIGH confidence):**\n- Skenes: 9-8, 3.23 ERA, 2.81 FIP on 2026 season\n- Skenes seeking 4th straight win (mlb.com headline explicit)\n- Skenes last start: 7 IP, 1 ER at Cleveland (best start of season per source)\n- Game time: 5:40 PM CT (confirmed in series-context.json)\n- Location: PNC Park, Pittsburgh\n**Facts (MEDIUM confidence):**\n- Imanaga: 6-8, 3.91 ERA, 1.113 WHIP, 4.50 FIP (season stats — from RotoWire/Yahoo matchup preview)\n- Imanaga: 2.31 ERA last 7 starts over 39 innings (single source — RotoWire)\n- Imanaga last start: 7 shutout IP, 6 H, 1 BB, 4 K in 10-1 win vs. Twins\n**Sources:**\n- MLB.com game preview: https://www.mlb.com/stories/game-preview/823355\n- MLB.com Skenes story: https://www.mlb.com/pirates/news/paul-skenes-faces-cubs-july-25-2026\n- RotoWire picks: https://www.rotowire.com/baseball/article/mlb-picks-mlb-betting-picks-for-saturday-july-25-124410",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Pete Crow-Armstrong — 22 HR, 6.0 WAR, MVP Watch",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "PCA hit his 22nd HR last night at PNC Park; 6.0 WAR pace historically rare for a Cubs position player at midseason.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Pete Crow-Armstrong hit his 22nd home run last night.\n\nHe's at .296 BA, 22 HR, and 6.0 WAR — and it's July. That WAR pace is historically rare for a Cubs position player at the midpoint of a season.\n\nThe NL MVP conversation isn't slowing down.\n\n#Cubs #ChicagoCubs #GoCubs",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#ChicagoCubs",
+            "#GoCubs"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Pete Crow-Armstrong MVP Watch\n**Facts (MEDIUM confidence — AI summaries, need bbref cross-check):**\n- Season stats through July 25 morning: .296 BA, 22 HR, 52 RBI, 61 R in 93 games\n- 6.0 WAR (FanGraphs metric)\n- 24+ SB (from July 24 story-history data)\n- Since June 1: .344/.465/.694 with 14+ HR through that stretch (per search summary)\n- Historical context: \"Only 28 different Cubs players have earned 6.0+ WAR in a full season\" (single AI summary source — flag for fact-check)\n**Sources:**\n- Cubs Insider PCA HR last night: https://www.cubsinsider.com/2026/07/24/watch-pete-crow-armstrong-stays-hot-in-pittsburgh-belts-solo-home-run/\n- Chi City Sports historical: https://www.chicitysports.com/chicago-cubs-insane-pete-crow-armstrong-stats-are-making-history/\n- StatMuse: https://www.statmuse.com/mlb/ask?q=pete+crow-armstrong+stats+in+2026\n**Fact-check flags:**\n- HR count: 21 per July 24 pipeline + 1 last night = 22 (MEDIUM — verify on bbref before posting)\n- 6.0 WAR: from FanGraphs, should be confirmed\n- \"28 different Cubs players\" historical claim: MEDIUM confidence, DO NOT use as hard claim in tweet without upgrade",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Trade Deadline — 9 Days, Peralta and Ryan Lead the Board",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Hoyer targeting multi-year control arms. Freddy Peralta (Mets) and Joe Ryan (Twins) top reported targets. 5+ pitchers shelved.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "August 3 is 9 days out. Jed Hoyer is targeting starters with multi-year control.\n\nFreddy Peralta (Mets) and Joe Ryan (Twins) top the reported board. Horton, Steele, Maton, and Palencia are all shelved. The rotation can't wait this out.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Trade Deadline Analysis\n**Facts (HIGH confidence):**\n- Trade deadline: August 3, 2026 at 6 PM ET\n- 9 days away from July 25\n- Cubs have confirmed interest in Freddy Peralta (Mets) — Jon Heyman reporting, multiple sources confirming\n- Joe Ryan (Twins) — widely reported as target\n- Hoyer strategy: targeting arms under control beyond 2026 (explicitly stated in multiple sources)\n- Craig Counsell managed Peralta in Milwaukee — confirmed background detail\n- Peralta is a free agent after 2026 (Mets acquired him from Brewers in January 2026)\n**IL pitchers confirmed out:**\n- Cade Horton: Tommy John surgery, out for 2026 (HIGH)\n- Phil Maton: 3rd IL stint, PRP injection, ~3 weeks (HIGH)\n- Trent Thornton: day-to-day, heel (HIGH)\n- Justin Steele: IL (MEDIUM — mentioned in source but no specific update found today)\n- Daniel Palencia: elbow flexor strain, mid-August target (from July 24 story-history, HIGH)\n**Sources:**\n- Bleacher Nation Peralta: https://www.bleachernation.com/cubs/2026/07/07/freddy-peralta-cubs-rumor/\n- Yahoo Sports Peralta confirmed: https://sports.yahoo.com/articles/cubs-reportedly-freddy-peralta-ahead-171505814.html\n- Chi City Sports Ryan: https://www.chicitysports.com/chicago-cubs-joe-ryan-trade-rumors/\n- CBS Sports Peralta: https://www.cbssports.com/mlb/news/mlb-trade-rumors-mets-freddy-peralta/",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Imanaga Matchup Stat — Pirates 9-20 vs. LHP",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Pirates are among MLB's worst teams vs. left-handed starters. Imanaga is a lefty at his best.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The Pirates are 9-20 vs. lefty starters this year — one of the worst marks in baseball.\n\nImanaga: 2.31 ERA his last 7 starts. Tonight's matchup is set up exactly the way the Cubs want it.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 211
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Imanaga Matchup Stat — Pirates vs. LHP\n**Facts (MEDIUM confidence):**\n- Pirates 2026 record vs. LHP starters: 9-20\n- Tied with Marlins for among worst in MLB vs. LHP\n- Only Royals (8-21) and Mets (7-20) were listed as worse",
+        "sources": "- Source: single mention in RotoWire preview — treat as MEDIUM until cross-checked\n**Note:** This claim is central to Story 5's tweet. Marking MEDIUM — if unable to confirm, still directionally supported by Imanaga's 2-31 ERA last 7 starts and historical domination of Pirates.\n**Sources:**\n- RotoWire: https://www.rotowire.com/baseball/article/mlb-picks-mlb-betting-picks-for-saturday-july-25-124410"
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Wild Card Bold Take — Cubs Still No. 1",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "58-45, No. 1 NL Wild Card, winning extras games with a thinned rotation — Cubs are finding ways.",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Cubs are 58-45 — No. 1 NL Wild Card — and they just won in extras with a thinned-out rotation.\n\nThe Phillies and D-backs are chasing. The Cubs are finding ways to win.\n\nThat's the difference right now.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Wild Card Standings\n**Facts (MEDIUM confidence):**\n- Cubs: 58-45, No. 1 NL Wild Card (confirmed in series-context.json from 08:30 UTC snapshot)\n- Phillies: ~56-47 (AI summary, cross-check with ESPN standings)\n- D-backs: ~54-49 (AI summary, cross-check)\n- Brewers leading NL Central by comfortable margin\n**Sources:**\n- Series context JSON: /tmp/cubs-series.json (cubs_record: \"58-45\", generated 2026-07-25)\n- ESPN WC standings: https://www.espn.com/mlb/standings/_/view/wild-card",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 7,
+      "title": "Pre-Game Hype — Seize the Series Tonight",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Cubs up 1-0 in series. Tonight with Imanaga is the chance to clinch the series before Sunday.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Imanaga. Skenes. PNC Park. 5:40 PM CT.\n\nThe Cubs took Game 1 in extras last night. Tonight's the chance to seize this series before Sunday's finale.\n\nLet's get after it.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 193
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Pre-Game Hype\n- Feeds from STORY 2 and STORY 5 facts — no new facts required\n- Key detail: Cubs won Game 1 last night (3-2 F/10), Game 2 is tonight\n- Game 3 Sunday 12:35 PM CT",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

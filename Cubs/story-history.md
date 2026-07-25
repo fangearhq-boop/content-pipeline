@@ -5,6 +5,66 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-25
+
+### STORY 1: Cubs 3, Pirates 2 F/10 — Extras Win at PNC Park
+- **Angle:** NEW STORY (Game 1 of Pittsburgh series result; Boyd 7 IP 1 ER; PCA 22nd HR tied game in 6th; Swanson RBI single won it in 10th)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, overnight recap / informative)
+- **Follow-Up Opportunities:**
+  - Imanaga vs Skenes result tonight (Game 2 recap tomorrow)
+  - Series result and Wild Card implications
+
+### STORY 2: Imanaga vs. Skenes Ace Duel Tonight
+- **Angle:** FOLLOW UP (Skenes vs Imanaga flagged as "appointment baseball" in July 23 preview; today = matchup is live, both aces in peak form, Skenes seeking 4th straight W, Imanaga 2.31 ERA last 7 starts)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold take)
+- **Follow-Up Opportunities:**
+  - Game 2 result / Imanaga line tonight
+  - Skenes full 2026 second half arc
+
+### STORY 3: Pete Crow-Armstrong — 22 HR, 6.0 WAR, MVP Watch
+- **Angle:** FOLLOW UP (last full PCA feature July 16/17 + July 24 check-in; today's hook = 22nd HR last night + historically rare WAR pace for a Cubs position player at the midpoint)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, stat breakdown / informative)
+- **Follow-Up Opportunities:**
+  - PCA stats at end of Pittsburgh series
+  - NL MVP vote coverage in August
+  - Monthly stat updates
+
+### STORY 4: Trade Deadline — 9 Days, Peralta and Ryan Lead the Board
+- **Angle:** FOLLOW UP (ongoing deadline arc; today's new angles: Hoyer's explicit "multi-year control" mandate articulated, Peralta/Mets connection [Counsell familiarity], 9-day countdown urgency; prior entries covered Skubal skepticism, Rogers, Maton 3rd stint)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, analysis / informative)
+- **Follow-Up Opportunities:**
+  - Any trade announcement before August 3
+  - Peralta or Ryan official availability signals
+  - KC Royals Lugo/Bubic angle
+
+### STORY 5: Imanaga Matchup Edge — Pirates 9-20 vs. LHP
+- **Angle:** FOLLOW UP from Story 2 (structural stat angle: Pirates 9-20 vs lefty starters, one of worst marks in baseball; Imanaga lefty at 2.31 ERA last 7 starts; different emotional register from ace-duel bold take)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview / informative)
+- **Follow-Up Opportunities:**
+  - Imanaga's actual line tonight
+
+### STORY 6: Wild Card Bold Take — Cubs Still No. 1 at 58-45
+- **Angle:** FOLLOW UP (last WC standings take July 23 at 57-45; today = 58-45 after extras win; new angle: winning tough games with decimated rotation signals real contender)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, bold take)
+- **Follow-Up Opportunities:**
+  - Standings update after Pittsburgh series
+  - Cardinals series July 27-29 implications
+
+### STORY 7: Pre-Game Hype — Seize the Series Tonight
+- **Angle:** FOLLOW UP (July 24 had pre-game hype for Game 1; today = Game 2 hype with extra context: Cubs already won Game 1 in extras, tonight = chance to seize series before Sunday finale)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, pre-game hype / bold)
+- **Follow-Up Opportunities:**
+  - Game 2 result
+
+---
+
 ## 2026-07-24
 
 ### STORY 1: Series Preview — Cubs Open 3-Game Road Series at Pittsburgh
