@@ -4492,3 +4492,44 @@
 - **Key facts:** Antonelli 204 (6W/6P) / Hamilton 159 / Russell 154 (5 back) / Leclerc 126 / Verstappen 91 (7th) | Mercedes leads constructors 358 vs Ferrari 285 (+73) | Ferrari fined €30K for Spa mechanic incident (€10K suspended) | Antonelli chasing first teenage F1 champion in history
 - **Status:** NEW
 - **Follow-up ideas:** Hungarian GP result; standings update after break
+
+| 2026-07-25 | T1 | Hungarian GP Practice — Ferrari 1-2 Across Both Sessions | X, FB, Article | NEW |
+| 2026-07-25 | T1 | Verstappen Exit Clause Active — McLaren Talks Advanced | X, FB, Article | FOLLOW UP |
+| 2026-07-25 | T2 | Championship Standings — Antonelli Leads Hamilton by 45 Points | X, FB, Article | FOLLOW UP |
+| 2026-07-25 | T2 | FIA Targeting Mid-Season Tweaks to 2026 Regulations | X, FB, Article | NEW |
+| 2026-07-25 | T2 | Alonso Future Unclear + 2027 Silly Season (17 Drivers Out of Contract) | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Hungarian GP Practice — Ferrari 1-2
+- **Tier:** 1
+- **Category:** Race Weekend Coverage
+- **Key facts:** Hungaroring Round 11; Leclerc fastest FP1; Hamilton fastest FP2; Ferrari 1-2 across sessions; McLaren "Macarena" rear wing debut; Aston Martin 16-part upgrade; Stroll suspension failure + emergency parts; Sainz warned by stewards; Verstappen cleared
+- **Status:** NEW
+- **Follow-up ideas:** Hungarian GP qualifying result; race result Sunday July 26
+
+### STORY 2: Verstappen Exit Clause Active
+- **Tier:** 1
+- **Category:** Driver Market / Verstappen
+- **Key facts:** Clause active after Hungarian GP (summer break cutoff); Verstappen 7th/76 pts/128 back from Antonelli; clause allows exit if not top-2 at summer break; McLaren broad terms worked out (no deal signed); 17 drivers out of contract for 2027; decision expected imminently
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official announcement; McLaren confirmation; 2027 grid cascade
+
+### STORY 3: Championship Standings After Belgian GP
+- **Tier:** 2
+- **Category:** Championship Analysis
+- **Key facts:** Antonelli 204pts leads Hamilton 159 (-45); Leclerc 126 (-78); Verstappen 7th/76pts (-128); Mercedes +73 constructors over Ferrari; Belgian GP winner: Antonelli; 12 rounds remaining/316 pts available; Antonelli youngest champion if he holds
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Hungarian GP result; standings update post-summer break
+
+### STORY 4: FIA 2026 Regulation Energy Management Tweaks
+- **Tier:** 2
+- **Category:** Technical / Regulations
+- **Key facts:** FIA discussing mid-season regulation tweaks; excessive energy derating in races; large speed differentials on straights = safety concern; Overtake Mode (formerly Manual Override Mode) interacts with depletion; 2026 PU: 50/50 IC/hybrid, ~350kW ERS, no MGU-H; car dimensions significantly reduced vs prior era
+- **Status:** NEW
+- **Follow-up ideas:** Specific rule changes announced; timing for implementation
+
+### STORY 5: Alonso Future + 2027 Silly Season
+- **Tier:** 2
+- **Category:** Driver Market
+- **Key facts:** Alonso final year at Aston Martin; decision continue/retire expected in summer break; Aston Martin 0 points in 2026 (despite Newey + Honda); 17 drivers out of contract for 2027; confirmed deals: Norris (McLaren 2027+), Piastri (2028), Leclerc (Ferrari June 2026, 2028+), Hamilton (Ferrari 2027+), Russell (Mercedes 2027+)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Alonso announcement; grid picture post-summer break

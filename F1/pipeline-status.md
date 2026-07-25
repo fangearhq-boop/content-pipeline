@@ -1,10 +1,21 @@
 # F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
-- **Date**: 2026-07-24
+- **Date**: 2026-07-25
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-25
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway, Elena Voss)
+- **PostPlanner exports:** f1fr-postplanner-2026-07-25.xlsx (7 posts) + f1fr-postplanner-tobi-2026-07-25.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-07-25/review-dashboard.html (22 items)
+- **Notes:** HUNGARIAN GP WEEKEND — Ferrari 1-2 in practice (Leclerc FP1/Hamilton FP2); Verstappen exit clause now active (McLaren talks advanced, 17 drivers OOC for 2027); Antonelli leads championship 204pts (+45 over Hamilton); FIA targeting 2026 reg energy management tweaks; Alonso decision continue/retire expected summer break
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-24
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

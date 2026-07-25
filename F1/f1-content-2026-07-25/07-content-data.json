@@ -1,0 +1,270 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-25",
+  "compiled_at": "2026-07-25T11:26:04.928082+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Hungarian GP Practice Day — Ferrari Goes 1-2 Across Sessions",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Ferrari practice update from the Hungaroring:\n\nFP1: Leclerc P1\nFP2: Hamilton P1\n\nTwo different Ferrari drivers. Two sessions. Both fastest.\n\nThe Scuderia loves Budapest. The championship leaders know it.\n\n#F1 #HungarianGP #Ferrari",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#HungarianGP",
+            "#Ferrari"
+          ],
+          "char_count": 230
+        },
+        {
+          "label": "Post 1-2",
+          "text": "McLaren brought a new rear wing to Hungary.\n\nAston Martin brought a 16-part upgrade package.\n\nVerstappen and Sainz were summoned to the stewards.\n\nStroll's car broke and they flew in replacement parts.\n\nIt's only Friday and the Hungaroring is already wild.\n\n#F1 #HungarianGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#HungarianGP"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-hungarian-gp-practice-ferrari-1-2.html",
+        "headline": "Hungarian GP Practice: Ferrari Goes 1-2 Across Both Sessions as McLaren and Aston Martin Debut Major Upgrades",
+        "word_count": 721
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hungarian GP Practice Day — Ferrari 1-2\n\n#### Image Concept 1 — Social (1080x1350)\n**Type:** imagn\n**Search term:** \"Charles Leclerc Ferrari\"\n**Usage:** X post and Facebook image caption at 8:00 AM\n**Credit:** (USA TODAY Sports Images)\n**Art direction:** Leclerc in cockpit or podium; overlay: \"FP1 Fastest — Hungary 2026\"\n\n#### Image Concept 2 — Article Hero (1200x630)\n**Type:** imagn\n**Search term:** \"Lewis Hamilton Ferrari\"\n**Usage:** Article header\n**Credit:** (USA TODAY Sports Images)\n**Art direction:** Hamilton in Ferrari; overlay: \"Ferrari: FP1 + FP2 Fastest\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Hungarian GP Practice Day — Ferrari 1-2 Across Sessions\n**Source:** Motorsport Week, Total Motorsport, RaceFans — HIGH confidence\n**Key facts (HIGH confidence):**\n- 2026 Formula 1 AWS Hungarian Grand Prix — Round 11\n- Venue: Hungaroring, Budapest, Hungary\n- Race: Sunday, July 26, 15:00 local time\n- FP1: Charles Leclerc set fastest time (Ferrari led FP1)\n- FP2: Lewis Hamilton went fastest (Ferrari led FP2)\n- Ferrari went 1-2 across the two sessions\n- Aston Martin: 16-part upgrade package debuted (aerodynamic revisions + new rear suspension design)\n- Lance Stroll suffered suspension failure during practice; team flew in replacement parts\n- McLaren: debuted new \"Macarena\" rear wing configuration in practice\n- Sainz/Verstappen stewards incident: Sainz warming brakes on racing line between Turns 11-12 when Verstappen arrived at speed; Sainz had radio problem and didn't hear engineer warning; Verstappen then slowed at Turn 13 obstructing Sainz; stewards issued Sainz official warning, cleared Verstappen\n**Image search terms (imagn):** \"Charles Leclerc Ferrari\" / \"Lewis Hamilton Ferrari\"",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Verstappen Exit Clause Now Active — McLaren Talks Advanced",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Max Verstappen's Red Bull exit clause is now officially active.\n\nHe's 7th in the championship, 128 points back.\n\nThe contract allows him to leave after 2026 if he's not in the top 2 at the summer break.\n\nHe won't be.\n\nThe decision is coming. #F1 #Verstappen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Verstappen"
+          ],
+          "char_count": 257
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Verstappen is reportedly in advanced talks with McLaren for 2027.\n\nBroad terms worked out. No deal signed yet.\n\n17 drivers out of contract for next season.\n\nThe most explosive F1 silly season in years is about to begin.\n\nWatch this space. 👀\n\n#F1 #Verstappen #McLaren",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Verstappen",
+            "#McLaren"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-verstappen-exit-clause-mclaren.html",
+        "headline": "Verstappen's Exit Clause Is Now Active — And McLaren Talks Are Already Advanced",
+        "word_count": 630
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Exit Clause Active\n\n#### Image Concept 1 — Social (1080x1350)\n**Type:** imagn\n**Search term:** \"Max Verstappen Red Bull\"\n**Usage:** X post and Facebook image caption at 12:00 PM\n**Credit:** (USA TODAY Sports Images)\n**Art direction:** Verstappen racing; overlay: \"Exit Clause Active\" / \"McLaren Talks Advanced\"\n\n#### Image Concept 2 — Article Hero (1200x630)\n**Type:** imagn\n**Search term:** \"Max Verstappen Red Bull\"\n**Usage:** Article header\n**Credit:** (USA TODAY Sports Images)\n**Art direction:** Verstappen in cockpit; overlay: \"The Decision Is Coming\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen Exit Clause Active — McLaren Talks Advanced\n**Source:** RacingNews365, GPBlog, Yahoo Sports, PlanetF1, GPFans — HIGH confidence\n**Key facts (HIGH confidence):**\n- Verstappen Red Bull contract runs through end of 2028\n- Performance-based exit clause: can leave after 2026 if not in top 2 in standings at summer break cutoff\n- Summer break cutoff falls after Hungarian GP (July 26)\n- Verstappen currently 7th in standings, 76 points, 128 points behind Antonelli\n- Triggering the clause is near-mathematical certainty\n- Manager (Raymond Vermeulen) has confirmed clause is in play\n- McLaren talks: broad terms of potential 2027 contract reportedly worked out; no deal signed\n- Verstappen decision expected imminently — during or shortly after Hungarian GP weekend\n- 17 drivers total out of contract for 2027\n**MEDIUM confidence:**\n- Aston Martin €300M offer rumor — Aston Martin has addressed but not definitively denied\n**Image search terms (imagn):** \"Max Verstappen Red Bull\"",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Championship Standings — Antonelli Leads Hamilton by 45 Points After Belgian GP",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "F1 standings entering the Hungarian GP:\n\n🥇 Antonelli — 204 pts\n🥈 Hamilton — 159 pts (-45)\n🥉 Leclerc — 126 pts (-78)\n...\n7th: Verstappen — 76 pts (-128)\n\n12 rounds left. 316 points available.\n\nThe teenager is running away with it. #F1 #HungarianGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#HungarianGP"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-f1-championship-standings-hungary.html",
+        "headline": "Antonelli Leads Hamilton by 45 Points Entering Hungary — The Championship Picture Before the Summer Break",
+        "word_count": 597
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Championship Standings\n\n#### Image Concept 1 — Social (1080x1350)\n**Type:** imagn\n**Search term:** \"Kimi Antonelli Mercedes\"\n**Usage:** X post and Facebook image caption at 12:00 PM\n**Credit:** (USA TODAY Sports Images)\n**Art direction:** Antonelli celebrating; overlay: championship standings graphic\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Championship Standings After Belgian GP (Round 10)\n**Source:** Forbes, Yahoo Sports, Wikipedia — HIGH confidence\n**Key facts (HIGH confidence):**\n- Belgian GP at Spa-Francorchamps: held July 19, 2026 (Round 10)\n- Belgian GP winner: Kimi Antonelli (Mercedes)\n- Belgian GP podium: Antonelli 1st, Leclerc 2nd, Verstappen 3rd\n- Drivers' Championship (after Round 10):\n- No. 1: Kimi Antonelli (Mercedes) — 204 points\n- No. 2: Lewis Hamilton (Ferrari) — 159 points (-45)\n- No. 3: Charles Leclerc (Ferrari) — 126 points (-78)\n- No. 7: Max Verstappen (Red Bull) — 76 points (-128)\n- Constructors' Championship: Mercedes leads by 73 points over Ferrari\n- 12 rounds remaining, 316 points available\n- Antonelli: 18-19 years old; on track for youngest world champion in F1 history (would beat Vettel's record)\n**Image search terms (imagn):** \"Kimi Antonelli Mercedes\"",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "FIA Targeting Mid-Season Tweaks to 2026 Regulations — Energy Management Under Review",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The FIA is already looking at tweaking the 2026 F1 rules.\n\nCars are managing energy far more aggressively than planned.\n\nThe result: massive speed differences between cars on the same straight.\n\nThat's not just bad racing — it's a safety concern.\n\nMid-season fixes incoming. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-fia-2026-energy-management-tweaks.html",
+        "headline": "FIA Targets Mid-Season Fixes to 2026 Rules — Energy Management and Speed Differentials Are the Problems",
+        "word_count": 681
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "2026 Regulation Energy Problems\n\n#### Image Concept 1 — Social (1080x1350)\n**Type:** imagn\n**Search term:** \"Formula 1 Mercedes 2026\"\n**Usage:** X post and Facebook image caption at 2:00 PM\n**Credit:** (USA TODAY Sports Images)\n**Art direction:** F1 car on circuit; overlay: \"2026 Regs: FIA Targeting Fixes\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "FIA Targeting 2026 Regulation Tweaks — Energy Management\n**Source:** ESPN, RaceFans — HIGH confidence\n**Key facts (HIGH confidence):**\n- FIA and F1 bosses discussing adjustments to 2026 technical regulations\n- Problem 1: Excessive energy management in races — cars derating (cutting power) more than intended\n- Problem 2: Large speed differentials between cars with full vs. depleted batteries on straights — safety concern\n- 2026 power unit: 50/50 internal combustion / hybrid split; ~350kW ERS output; MGU-H eliminated\n- \"Overtake Mode\" system (formerly \"Manual Override Mode\"): driver-triggered electrical boost of 350kW / 0.5MJ when within 1 second of car ahead; usable up to 337 km/h\n- Overtake system working as designed but interacts with depletion problem\n- 2026 car specs: wheelbase -200mm (3600mm→3400mm), width -100mm (2000mm→1900mm), weight -30kg (800kg→770kg), floor width -150mm, longer diffuser openings, no MGU-H\n**Image search terms (imagn):** \"Formula 1 car 2026\" (generic F1 technical)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Alonso Future Unclear as Aston Martin Struggles, 2027 Silly Season Explodes",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Fernando Alonso's future is unresolved.\n\nAston Martin brought Newey. Got Honda. Hasn't scored a point in 2026.\n\nAlonso will decide: continue or retire, during the summer break.\n\n17 drivers out of contract. The grid is about to shuffle.\n\n#F1 #Alonso",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Alonso"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-alonso-future-2027-silly-season.html",
+        "headline": "Alonso's Future Unresolved as Aston Martin Struggles — The Most Explosive F1 Silly Season in Years Is Coming",
+        "word_count": 728
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alonso + 2027 Silly Season\n\n#### Image Concept 1 — Social (1080x1350)\n**Type:** imagn\n**Search term:** \"Fernando Alonso Aston Martin\"\n**Usage:** X post and Facebook image caption at 5:00 PM\n**Credit:** (USA TODAY Sports Images)\n**Art direction:** Alonso in Aston Martin; overlay: \"Continue or Retire?\""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Alonso Future + 2027 Silly Season\n**Source:** PlanetF1, GPToday, Sky Sports — MEDIUM/HIGH confidence\n**Key facts (HIGH confidence):**\n- Fernando Alonso (Aston Martin): final year of current contract; decision expected during summer break\n- Aston Martin: acquired Adrian Newey + Honda power unit but has not scored points at halfway stage of 2026\n- 17 drivers out of contract for 2027 total\n**Key facts (MEDIUM confidence):**\n- Alonso decision: continue or retire — expected announcement during summer break\n- Lance Stroll: suspension failure during Hungarian GP practice; emergency parts flown in\n- Confirmed locked-in contracts: Norris (McLaren, through 2027+), Piastri (McLaren, through 2028), Leclerc (Ferrari, new deal June 2026, through 2028+), Hamilton (Ferrari, through 2027, option 2028), Russell (Mercedes, through 2027+)\n**Image search terms (imagn):** \"Fernando Alonso Aston Martin\"",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
