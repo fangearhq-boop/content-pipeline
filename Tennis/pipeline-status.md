@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-07-24 |
-| Writing | Complete (all steps) | 2026-07-24 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 41 claims, 76 HIGH) | 2026-07-24 |
-| Compile | Complete (07-content-data.json — 5 stories, 6 X posts, 5 FB posts, 5 articles) | 2026-07-24 |
-| Dashboard | Complete (review-dashboard.html, 26 items) | 2026-07-24 |
-| PostPlanner Export | Complete (standard 6 posts 12:55–20:25 ET; TOBI 6 posts) | 2026-07-24 |
-| WordPress Publish | Attempted — WP API blocked by proxy egress policy (403 Forbidden; same environment restriction as all prior runs) | 2026-07-24 |
-| Dashboard Push | Attempted — proxy blocks push to content-dashboards repo | 2026-07-24 |
+| Research | Complete | 2026-07-25 |
+| Writing | Complete (all steps) | 2026-07-25 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 44 claims, 78 HIGH) | 2026-07-25 |
+| Compile | Complete (07-content-data.json — 5 stories, 8 X posts, 0 FB posts, 5 articles) | 2026-07-25 |
+| Dashboard | Complete (review-dashboard.html, 23 items) | 2026-07-25 |
+| PostPlanner Export | Complete (standard 8 posts 12:53–20:49 ET; TOBI 8 posts) | 2026-07-25 |
+| WordPress Publish | Attempted — WP API blocked by proxy egress policy (403 Forbidden; same environment restriction as all prior runs) | 2026-07-25 |
+| Dashboard Push | Attempted — proxy blocks push to content-dashboards repo | 2026-07-25 |
 
 ## Queue
 
@@ -24,6 +24,20 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-07-25 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 5 FB posts (5 long-form + 5 captions) = 13 total
+- **Articles:** 5 (bylines: Marcus Cole [S1, S4], Ryan Calloway [S2, S5], Elena Voss [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-07-25.xlsx (8 posts, 12:53–20:49 ET), tfr-postplanner-tobi-2026-07-25.xlsx (8 TOBI posts)
+- **Coverage:** Kitzbühel final preview (Bublik defending champ vs. Halys, back-to-back bid since 2013); Van Assche stuns No. 1 seed Rublev in Estoril QF ("biggest win of my career"); all-French SF (Gaston vs. Van Assche) + Darderi (22nd clay win, Tour-leading) vs. Blockx; WTA Prague SFs (Krejcikova 7-match streak vs. Tagger; Valentova who upset defending champ Bouzkova vs. Snigur); National Bank Open mass exodus (Sinner/Djokovic/Alcaraz/Draper all out; Zverev/Shelton/Medvedev benefit); WTA Hamburg SFs (Sherif def. Badosa 6-2, 6-3 for 2nd straight win in 8 days; Oliynykova/Kalinina/Bondar complete final four; Final Sunday)
+- **Notes:**
+  - verify-facts.py: passed; 44 claims, 78 HIGH; image not_started warnings cosmetic (expected for imagn source)
+  - compile: 5 stories, 8 X posts, 0 FB posts (parser compatibility — same as all prior runs), 5 articles, 5 images; 23 dashboard items; posting window warnings cosmetic
+  - PostPlanner exports: standard (8 posts) and TOBI (8 posts) generated successfully; 12:53–20:49 ET
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
 
 ### 2026-07-24 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)

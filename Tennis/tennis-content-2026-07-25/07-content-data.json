@@ -1,0 +1,329 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-25",
+  "compiled_at": "2026-07-25T12:23:09.421426+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 (Kitzbühel Final)",
+      "type": "X + FB"
+    },
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 (Kitzbühel Final)",
+      "type": "X"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2 (Estoril Van Assche/Rublev)",
+      "type": "X + FB"
+    },
+    {
+      "time": "11:30 AM",
+      "description": "Story 2 (Estoril)",
+      "type": "X"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 3 (WTA Prague SFs)",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 (National Bank Open exodus)",
+      "type": "X + FB"
+    },
+    {
+      "time": "4:00 PM",
+      "description": "Story 4 (Canadian Open)",
+      "type": "X"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 5 (WTA Hamburg SFs)",
+      "type": "X + FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Kitzbühel Final — Bublik vs. Halys, Back-to-Back on the Line",
+      "tier": 1,
+      "status": "",
+      "angle": "FOLLOW UP (July 24 pipeline) — The Generali Open Kitzbühel (ATP 250, clay) reaches its final Saturday July 25. Alexander Bublik (KAZ, defending champion, No. 1 seed) faces Quentin Halys (FRA) in the title match. Bublik beat Tomas Martin Etcheverry 6-3, 6-4 in Friday's SF; Halys beat Yannick Hanfmann 6-4, 7-6(2). If Bublik wins, he becomes the first player to defend the Kitzbühel title since 2013. Bublik leads Halys in their head-to-head record 2-0. Final result NOT yet confirmed at pipeline run time — article previews the matchup and stakes.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Bublik vs. Halys — Kitzbühel final is HERE. 🎾\n\nThe defending champion goes for back-to-back titles.\n\nNo one has defended Kitzbühel since 2013. Bublik leads the H2H 2-0.\n\nCan Halys flip the script on clay today?\n\n#Tennis #Kitzbuhel #ATPTour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#Kitzbuhel",
+            "#ATPTour"
+          ],
+          "char_count": 239
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Quentin Halys beat Hanfmann 6-4, 7-6(2) in Friday's SF. 💪\n\nNow he faces Bublik — the defending champion — in the final.\n\nThis is his biggest title shot yet.\n\n#ATP #Tennis #Kitzbuhel",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATP",
+            "#Tennis",
+            "#Kitzbuhel"
+          ],
+          "char_count": 181
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-kitzbuhel-final-bublik-halys.html",
+        "headline": "Bublik vs. Halys: Can the Defending Champion Do What No One Has Since 2013?",
+        "word_count": 503
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Kitzbühel Final — Bublik vs. Halys\n\n**Social Image (1080x1350 vertical):**\n- Visual Description: Side-by-side or split-frame of Bublik and Halys in match action on clay\n- Photo Search Terms:\n  1. \"Alexander Bublik\" (primary)\n  2. \"Quentin Halys\" (primary)\n  3. \"Alexander Bublik ATP\"\n  4. \"Quentin Halys ATP\"\n- Text Overlay Copy:\n  - Headline: \"KITZBÜHEL FINAL\" (white, Poppins Bold)\n  - Subtitle: \"Bublik vs. Halys — Back-to-Back on the Line\" (#F4C542 Soft Gold, Nunito)\n- Composition Notes: Clay court background; crop above the waist for both players; energy/motion preferred\n\n**Article Hero (1200x630 landscape):**\n- Search Terms: \"Alexander Bublik\" (primary, horizontal framing)\n- Text Overlay: Match title + stadium/clay reference\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Kitzbühel Final — Bublik vs. Halys\n- **Decision:** FOLLOW UP (July 24 pipeline covered the SFs)\n- **Sources:**\n- Sportskeeda: \"Kitzbühel 2026 Final: Alexander Bublik vs Quentin Halys Preview\" (July 24–25)\n- ATP Tour Official: \"Bublik Returns to Kitzbühel Final\" (July 24)\n- Tennis.com: Match page for Bublik vs. Halys, July 25\n- Wikipedia: 2026 Generali Open Kitzbühel – Singles\n- **Key Facts:**\n- Bublik (KAZ, defending champion, No. 1 seed) def. Etcheverry 6-3, 6-4 in SF\n- Halys (FRA) def. Hanfmann 6-4, 7-6(2) in SF\n- Bublik leads H2H vs. Halys: 2-0\n- Last player to successfully defend Kitzbühel title: 2013 (exact name not confirmed in sources)\n- Hanfmann became oldest player in Kitzbühel Open Era semifinal at 34 years, 8 months (source: ATP pipeline research)\n- Final scheduled for Saturday July 25; result not confirmed at pipeline run time\n- **Freshness:** Within 24–48 hours; final article previews rather than recaps (result not yet confirmed)\n- **Why it matters:** Defending champion storyline; European clay swing culmination",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Estoril Shock — Van Assche Stuns Rublev, All-French SF Set",
+      "tier": 1,
+      "status": "",
+      "angle": "FOLLOW UP (July 24 pipeline) — The biggest upset of the week: Luca Van Assche (FRA, No. 78) defeated top seed Andrey Rublev (RUS, No. 14 ATP) in the Millennium Estoril Open (ATP 250, clay) quarterfinals Friday. Van Assche called it \"the biggest win of my career.\" Rublev had been dominant earlier in the week — his 6-1, 6-1 win in 59 minutes over Skatov was described by the ATP as his \"most dominant win of 2026.\" Also in the QFs: Hugo Gaston (FRA) def. Tiago Torres (POR, wild card) 6-3, 6-4; Luciano Darderi (ITA, No. 2 seed) def. opponent 2-6, 7-5, 6-2 (Tour-leading 22nd clay win of 2026). Saturday's SFs: Gaston vs. Van Assche (all-French); Darderi vs. Alexander Blockx (BEL, No. 4). SF results not yet indexed.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "UPSET ALERT 🚨 Luca Van Assche took down No. 1 seed Rublev in Estoril.\n\n\"The biggest win of my career.\" — Van Assche 🎾\n\nRublev had just dismantled Skatov 6-1, 6-1 in 59 minutes.\n\nTennis doesn't care about form lines.\n\n#Estoril #ATPTour #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Estoril",
+            "#ATPTour",
+            "#Tennis"
+          ],
+          "char_count": 242
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Two Frenchmen in the Estoril semifinal today. 🇫🇷🇫🇷\n\nGaston vs. Van Assche after Van Assche's upset of No. 1 seed Rublev.\n\nDarderi (No. 2) vs. Blockx in the other semi.\n\nDarderi has 22 clay wins in 2026 — most on Tour.\n\n#Estoril #Tennis #ATPTour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Estoril",
+            "#Tennis",
+            "#ATPTour"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-estoril-van-assche-stuns-rublev.html",
+        "headline": "Van Assche Topples Rublev in Estoril, Sets Up All-French Semifinal",
+        "word_count": 553
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Estoril — Van Assche Stuns Rublev\n\n**Social Image (1080x1350 vertical):**\n- Visual Description: Van Assche celebrating or in dominant match action; Rublev optional secondary\n- Photo Search Terms:\n  1. \"Luca Van Assche\" (primary)\n  2. \"Andrey Rublev\" (backup/secondary)\n  3. \"Luca Van Assche ATP\"\n  4. \"Andrey Rublev clay\"\n- Text Overlay Copy:\n  - Headline: \"VAN ASSCHE SHOCKS RUBLEV\" (white, Poppins Bold)\n  - Subtitle: \"Biggest Win of His Career — Estoril QF\" (#F4C542 Soft Gold, Nunito)\n- Composition Notes: Celebratory expression preferred; clay court visible\n\n**Article Hero (1200x630 landscape):**\n- Search Terms: \"Luca Van Assche\" (horizontal action framing)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Estoril — Van Assche Stuns Rublev, All-French SF\n- **Decision:** FOLLOW UP (July 24 pipeline covered Rublev dominant run; Van Assche upset is NEW)\n- **Sources:**\n- ATP Tour Official: \"Van Assche Stuns Rublev in Estoril QFs\" (July 24–25)\n- 10sBalls.com: \"Estoril Order of Play for Saturday July 25\" (July 24)\n- Last Word on Sports: \"ATP Estoril Semifinal Predictions: Blockx vs Darderi\" (July 24)\n- Tennis Majors: \"Wild card Torres stuns Tabilo\" (earlier in week)\n- **Key Facts:**\n- Van Assche (FRA, No. 78) def. Rublev (RUS, No. 1 seed/No. 14 ATP) in QF — score not specified in searches\n- Van Assche quote: \"biggest win of my career\"\n- Rublev's route to QF: def. Skatov 6-1, 6-1 in 59 minutes (ATP: \"most dominant win of 2026\")\n- Gaston (FRA, No. 109) def. Torres (POR, wildcard) 6-3, 6-4 in QF — Gaston's 4th ATP semifinal, 1st since 2024\n- Darderi (ITA, No. 2 seed) def. opponent 2-6, 7-5, 6-2 — his Tour-leading 22nd clay win of 2026\n- Torres earlier upset No. 3 seed Tabilo 6-4, 6-4\n- Saturday SFs: Gaston vs. Van Assche (all-French); Darderi vs. Blockx (BEL, No. 4). Results pending.\n- **Freshness:** QF results from July 24 (prior day); SF preview/preview piece is timely\n- **Why it matters:** Major upset of top seed; all-French SF is a compelling storyline",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "WTA Prague Semifinals — Krejcikova's Run, Valentova's Cinderella Week",
+      "tier": 2,
+      "status": "",
+      "angle": "FOLLOW UP (July 24 pipeline) — Livesport Prague Open (WTA 250, clay, July 20-26) reaches the semifinals Saturday. Confirmed SF lineup: Barbora Krejcikova (CZE, No. 2 seed) vs. Lilli Tagger; Tereza Valentova (CZE, No. 5) vs. Daria Snigur (UKR, No. 8). Key story: Valentova upset defending champion Marie Bouzkova (No. 1 seed) 2-6, 6-4, 7-6(8-6) in the quarterfinals — a major upset in an all-Czech showcase week. Krejcikova is extending a seven-match winning streak dating from Athens. SF results not yet indexed at pipeline run time.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Prague SFs today and it's Krejcikova time. 🎾\n\nShe's won 7 straight matches going back to Athens.\n\nFacing Tagger on her favored clay.\n\nValentova — who upset defending champion Bouzkova — meets Snigur in the other SF.\n\n#WTA #Prague #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTA",
+            "#Prague",
+            "#Tennis"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-wta-prague-semifinals.html",
+        "headline": "Prague Semifinals: Krejcikova on Seven Straight, Valentova Carries the Upset Story",
+        "word_count": 452
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "WTA Prague Semifinals\n\n**Social Image (1080x1350 vertical):**\n- Visual Description: Krejcikova in confident match action on clay\n- Photo Search Terms:\n  1. \"Barbora Krejcikova\" (primary)\n  2. \"Barbora Krejcikova WTA\"\n  3. \"Tereza Valentova\" (backup)\n  4. \"Daria Snigur\" (backup)\n- Text Overlay Copy:\n  - Headline: \"PRAGUE SEMIFINALS\" (white, Poppins Bold)\n  - Subtitle: \"Krejcikova's 7-Match Streak on the Line\" (#F4C542 Soft Gold, Nunito)\n- Composition Notes: Krejcikova's focused expression; clay court environment\n\n**Article Hero (1200x630 landscape):**\n- Search Terms: \"Barbora Krejcikova\" (horizontal framing)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "WTA Prague Semifinals\n- **Decision:** FOLLOW UP (July 24 pipeline covered QFs)\n- **Sources:**\n- WTA Official tweet: confirmed SF lineup (July 24–25)\n- WTA Tournament page: wtatennis.com/tournaments/1082/prague/2026\n- Last Word on Sports: \"WTA Prague SF Predictions: Tagger vs Krejcikova\" (July 24)\n- Last Word on Sports: \"WTA Prague: Valentova vs Snigur\" (July 25)\n- **Key Facts:**\n- SF 1: Valentova (CZE, No. 5) vs. Snigur (UKR, No. 8)\n- SF 2: Tagger vs. Krejcikova (CZE, No. 2 seed)\n- Valentova upset defending champion Bouzkova (No. 1 seed) 2-6, 6-4, 7-6(8-6) in QF\n- Snigur def. Tararudee 6-0, 6-3 in QF\n- Krejcikova on a 7-match winning streak dating from Athens victory\n- Krejcikova is the 2021 Roland Garros and 2024 Wimbledon champion\n- SF results not confirmed at pipeline run time\n- **Freshness:** Within 24–48 hours; SF lineup confirmed, outcomes pending\n- **Why it matters:** Krejcikova's form; Czech women dominating European clay swing",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "National Bank Open — Sinner, Djokovic, Alcaraz, Draper All Out",
+      "tier": 1,
+      "status": "",
+      "angle": "FOLLOW UP (July 24 pipeline) — The withdrawal wave for the National Bank Open (Aug. 1 women's Toronto, Aug. 4 men's Montreal) has reached a new level. Confirmed out: Jannik Sinner (ITA, ATP No. 1, elbow), Novak Djokovic (SRB, injury), Carlos Alcaraz (ESP, No. 2, injury), Jack Draper (GBR, No. 5, arm recurrence). With the top 5 players by ranking stripped from the men's draw, Alexander Zverev, Ben Shelton, and Daniil Medvedev stand to inherit an open field. Sinner quote: \"After carefully considering all the factors together with my team, we have made the difficult decision to withdraw from Montreal. It is never easy to miss such an important event, but we believe this is the right decision to prioritize my health.\" On the women's side, Jasmine Paolini (ITA, foot) also confirmed out.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4-1",
+          "text": "The National Bank Open just lost four of its top five men. 🤯\n\nSinner (elbow) ✖️\nDjokovic (injury) ✖️\nAlcaraz (injury) ✖️\nDraper (arm) ✖️\n\nZverev, Shelton, and Medvedev just got a wide-open draw.\n\n#CanadianOpen #NationalBankOpen #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CanadianOpen",
+            "#NationalBankOpen",
+            "#Tennis"
+          ],
+          "char_count": 235
+        },
+        {
+          "label": "Post 4-2",
+          "text": "Ben Shelton is the defending champion in Montreal.\n\nSinner, Alcaraz, Djokovic, and Draper just all withdrew. 🎾\n\nIf you're Shelton right now...\n\n#NationalBankOpen #Tennis #ATP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NationalBankOpen",
+            "#Tennis",
+            "#ATP"
+          ],
+          "char_count": 174
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-canadian-open-big-four-out.html",
+        "headline": "The Montreal Exodus: Sinner, Djokovic, Alcaraz, Draper All Withdraw From National Bank Open",
+        "word_count": 593
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "National Bank Open — Top Four Out\n\n**Social Image (1080x1350 vertical):**\n- Visual Description: Ben Shelton celebrating (defending champion) or Zverev confident portrait\n- Photo Search Terms:\n  1. \"Ben Shelton\" (primary — defending champion angle)\n  2. \"Alexander Zverev\" (secondary — biggest beneficiary angle)\n  3. \"Jannik Sinner\" (withdrawal context — optional)\n  4. \"National Bank Open\" (backup)\n- Text Overlay Copy:\n  - Headline: \"MONTREAL EXODUS\" (white, Poppins Bold)\n  - Subtitle: \"Sinner, Djokovic, Alcaraz, Draper All Out\" (#FF6F61 Warm Coral — injury/alert context, Nunito)\n- Composition Notes: Hard court or indoor arena background; strong expression preferred; coral subtitle signals significance\n\n**Article Hero (1200x630 landscape):**\n- Search Terms: \"Ben Shelton\" or \"Alexander Zverev\" (horizontal framing)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "National Bank Open — Sinner, Djokovic, Alcaraz, Draper All Out\n- **Decision:** FOLLOW UP + ESCALATION (July 24 covered Andreescu/Mboko; today's angle is the full top-4 exodus)\n- **Sources:**\n- CBC Sports: \"Sinner and Djokovic withdraw from National Bank Open\" (approx. July 21–24)\n- Sports Illustrated: \"Sinner, Alcaraz, Djokovic, Draper Withdraw from Toronto Masters\" (July 21–24)\n- Tennis Uptodate: \"Paolini withdraws from Canadian Open\" (July 2026)\n- Olympics.com: \"Jack Draper out of Wimbledon 2026 as arm injury forces withdrawal\" (pre-Canada)\n- Tennis365: \"Jack Draper warning about 18 players withdraw Wimbledon\" (July 2026)\n- nationalbankopen.com: Player entry list (July 2026)\n- Wikipedia: 2026 National Bank Open\n- **Key Facts:**\n- Sinner (ITA, No. 1): elbow injury (fell at Wimbledon); quote: \"After carefully considering all the factors together with my team, we have made the difficult decision to withdraw from Montreal. It is never easy to miss such an important event, but we believe this is the right decision to prioritize my health.\"\n- Djokovic (SRB): unspecified injury\n- Alcaraz (ESP, No. 2): injury (also missed Wimbledon 2026)\n- Draper (GBR, No. 5): arm injury recurrence (also missed Wimbledon)\n- Women's: Paolini (ITA, foot) out; Mboko (CAN, knee, season-ending); Andreescu (CAN) out\n- Confirmed participating men: Zverev, Shelton (defending champion), Medvedev, Carreno Busta\n- Women Montreal Aug 1; Men Montreal Aug 4\n- Women's field: Sloane Stephens among qualifying entries\n- Wimbledon 2026 had 18 total withdrawals; Draper called for structural change\n- **Freshness:** Multiple sources July 21–24; still the biggest story in tennis entering the week\n- **Why it matters:** Unprecedented withdrawal wave; field is now wide open; Wimbledon injury epidemic context",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "WTA Hamburg Semifinals — Sherif, Kalinina, Oliynykova, Bondar",
+      "tier": 2,
+      "status": "",
+      "angle": "FOLLOW UP (July 24 pipeline) — The MSC Hamburg Ladies Open (WTA 250, clay, July 20-26) reaches its semifinals Saturday. After Friday's QF results: Mayar Sherif (EGY) defeated Paula Badosa (ESP) 6-2, 6-3; Anhelina Kalinina (UKR) defeated Tamara Korpatsch (GER) 6-1, 6-3; Oleksandra Oliynykova (UKR, No. 1 seed) defeated Elina Avanesyan (ARM) 6-3, 2-6, 6-2; Anna Bondar (HUN) defeated Alina Charaeva 3-6, 7-5, 6-1. Saturday SF pairings: Sherif vs. Kalinina; Bondar vs. Oliynykova. Final Sunday.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Mayar Sherif beat Badosa AGAIN. 6-2, 6-3. 💪\n\nFirst the Iasi final. Now the Hamburg QF.\n\nShe meets Kalinina in the Hamburg SF today.\n\nOliynykova (No. 1 seed) vs. Bondar in the other.\n\nFinal is Sunday — last WTA clay event of the European swing.\n\n#Hamburg #WTA #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Hamburg",
+            "#WTA",
+            "#Tennis"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-wta-hamburg-semifinals.html",
+        "headline": "Hamburg Semifinals Set: Sherif Beats Badosa Again, Oliynykova Survives Three Sets",
+        "word_count": 457
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "WTA Hamburg Semifinals\n\n**Social Image (1080x1350 vertical):**\n- Visual Description: Mayar Sherif in powerful clay court action\n- Photo Search Terms:\n  1. \"Mayar Sherif\" (primary)\n  2. \"Mayar Sherif WTA\"\n  3. \"Oleksandra Oliynykova\" (backup)\n  4. \"Anhelina Kalinina\" (backup)\n- Text Overlay Copy:\n  - Headline: \"HAMBURG SEMIFINALS\" (white, Poppins Bold)\n  - Subtitle: \"Sherif Beats Badosa Again — Clay Swing Finale\" (#F4C542 Soft Gold, Nunito)\n- Composition Notes: Clay court; Sherif in motion or post-point expression preferred\n\n**Article Hero (1200x630 landscape):**\n- Search Terms: \"Mayar Sherif\" (horizontal framing)"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "WTA Hamburg Semifinals\n- **Decision:** FOLLOW UP (July 24 pipeline covered QF results)\n- **Sources:**\n- WTA Tour Official (MSC Hamburg Ladies Open tournament page)\n- Las Vegas Sun: WTA Hamburg results coverage (July 23)\n- July 24 pipeline data (QF results confirmed)\n- **Key Facts:**\n- QF results confirmed (from July 24 pipeline research):\n- Sherif (EGY) def. Badosa (ESP) 6-2, 6-3 (rematch of Iasi final won by Sherif via retirement — Sherif wins direct contest too)\n- Oliynykova (UKR, No. 1 seed) def. Avanesyan (ARM) 6-3, 2-6, 6-2\n- Bondar (HUN) def. Charaeva 3-6, 7-5, 6-1\n- Kalinina (UKR) def. Korpatsch (GER, home crowd favorite) 6-1, 6-3\n- Saturday SFs: Sherif vs. Kalinina; Bondar vs. Oliynykova\n- Final Sunday July 26\n- Tournament: MSC Hamburg Ladies Open, WTA 250, clay, July 20-26\n- **Freshness:** QF results from July 24; SF lineup confirmed; outcomes pending\n- **Why it matters:** Strong field; notable that two Ukrainian players (Oliynykova, Kalinina) are in the SFs; Sherif's form continues from Iasi title",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
