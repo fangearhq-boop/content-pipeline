@@ -2817,3 +2817,44 @@ July 12 pipeline contained incorrect winners for Scottish Open (MacIntyre report
 - **Key facts:** McIlroy -1 after 36 holes (made cut); shot 67 R2 to survive; 9 back of Herbert; teed off early R3 with Jacob Bridgeman; chasing 7th major (European record, currently tied with Faldo); won 2025+2026 Masters; Spieth missed cut (quad bogey 17 R2, 2017 Birkdale champion); also missed cut: Cameron Smith/Fitzpatrick/Rose/Clark/Harman/Harrington
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** McIlroy R3 charge or pack it in; major No. 7 quest
+
+| 2026-07-25 | T1 | Ryan Fox Wins The Open Championship — New Zealand's First Modern Major Champion | X, FB, Article | FOLLOW UP |
+| 2026-07-25 | T1 | Michael Kim Shoots 59 at 3M Open — PGA Tour's 16th Sub-60 Round in History | X, FB, Article | NEW |
+| 2026-07-25 | T2 | LIV Golf UK — Lucas Herbert Leads at -13 Entering Round 3 | X, FB, Article | NEW |
+| 2026-07-25 | T2 | LPGA Women's Scottish Open — Jenny Shin Leads by Five at Halfway | X, FB, Article | NEW |
+| 2026-07-25 | T2 | Open Championship Debrief — DeChambeau Penalty + Fox Legacy for New Zealand Golf | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Ryan Fox Wins The Open Championship
+- **Tier:** 1
+- **Category:** The Open Championship / Major Result
+- **Key facts:** Fox wins 154th Open at Royal Birkdale; 72-68-62-68=270 (-10); won on 72nd hole birdie; beat Cameron Young (-9) by 1; Burns 3rd (-8); Scheffler/Fleetwood T4 (-7); purse $17.75M/Fox earns $3.2M + 750 FedExCup pts; first major; first NZ modern major champion
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Fox return to NZ; legacy stories; impact on NZ junior golf
+
+### STORY 2: Michael Kim Shoots 59 at 3M Open
+- **Tier:** 1
+- **Category:** PGA Tour / 3M Open
+- **Key facts:** Kim shoots 59 in R2 at TPC Twin Cities; PGA Tour's 16th sub-60 round in history; 69+59=128 (-14); leads by 3 over Grillo/Kohles/Phillips (-11); R3-R4 this weekend; Scheffler in field (R1 65)
+- **Status:** NEW
+- **Follow-up ideas:** Kim R3-R4 results; final score and winner; historic 59-to-win narrative
+
+### STORY 3: LIV Golf UK — Herbert Leads
+- **Tier:** 2
+- **Category:** LIV Golf
+- **Key facts:** Venue: JCB Golf & Country Club, Rocester, England; Herbert bogey-free 61 R1; leads at -13; DeChambeau -12 entering R3; Harold Varner III (OKGC) in field; Round 3 in progress July 25; final round July 26
+- **Status:** NEW
+- **Follow-up ideas:** R3-R4 results; Herbert or DeChambeau win
+
+### STORY 4: LPGA Women's Scottish Open — Shin Leads
+- **Tier:** 2
+- **Category:** LPGA
+- **Key facts:** Venue: Dundonald Links, Scotland; Jenny Shin leads by 5 at halfway; Anannarukarn and A Lim Kim in contention; R3 in progress July 25; AIG Women's Open follows July 30 (next women's major); Haeran Ryu won Evian (July 12)
+- **Status:** NEW
+- **Follow-up ideas:** Shin R3-R4; final winner; AIG Women's Open preview
+
+### STORY 5: Open Championship Debrief — DeChambeau + Fox Legacy
+- **Tier:** 2
+- **Category:** Open Championship / Analysis
+- **Key facts:** DeChambeau received 2-stroke penalty at Open; said "wished I would have given it more on the weekend"; Fox wins carries cultural weight for NZ golf; Young runner-up (major near-miss pattern); Burns T3; Fleetwood/Scheffler T4
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Fox ongoing season; Young major breakthrough; DeChambeau next major

@@ -1,0 +1,271 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-25",
+  "compiled_at": "2026-07-25T11:31:52.389993+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Ryan Fox Wins The Open Championship — New Zealand's First Major Champion",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Ryan Fox birdied the 72nd hole to win The Open Championship.\n\n10-under par. 270 total.\n\nFirst major of his career.\n\nFirst New Zealand golfer to win a major in the modern era.\n\nThe Claret Jug is going to Auckland.\n\n#TheOpen #Golf #RyanFox",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheOpen",
+            "#Golf",
+            "#RyanFox"
+          ],
+          "char_count": 237
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Final leaderboard from Royal Birkdale:\n\n🏆 Ryan Fox — -10\n2. Cameron Young — -9\n3. Sam Burns — -8\nT4. Scheffler / Fleetwood — -7\n\nFox birdied 18 to win by one.\n\nA major champion was born on the Birkdale links. 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n#TheOpen #BritishOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheOpen",
+            "#BritishOpen"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-ryan-fox-wins-the-open-championship.html",
+        "headline": "Ryan Fox Birdies the 72nd Hole to Win The Open Championship — New Zealand's First Modern Major Champion",
+        "word_count": 716
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ryan Fox Wins The Open Championship\n\n#### Image Concept 1 — Social (1080x1350)\n**Type:** imagn\n**Search term:** \"Ryan Fox\"\n**Usage:** X post and Facebook image caption at 8:00 AM\n**Credit:** (USA TODAY Sports Images)\n**Art direction:** Fox celebrating or holding Claret Jug; overlay: \"2026 Open Champion\"\n\n#### Image Concept 2 — Article Hero (1200x630)\n**Type:** imagn\n**Search term:** \"The Open Championship 2026\"\n**Usage:** Article header\n**Credit:** (USA TODAY Sports Images)\n**Art direction:** Royal Birkdale setting or Fox winning moment; text overlay \"New Zealand's Champion\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Ryan Fox Wins The Open Championship\n**Source:** Golf Channel, PGA Tour, Australian Golf Digest — HIGH confidence\n**Key facts (HIGH confidence):**\n- Winner: Ryan Fox (New Zealand) — first major championship of his career\n- Venue: Royal Birkdale Golf Club, Southport, England\n- Tournament: 154th Open Championship\n- Dates: July 16-19, 2026\n- Purse: $17,750,000 | Fox earnings: $3,200,000 + 750 FedExCup points\n- Winning scorecard: 72-68-62-68 = 270 (10-under par)\n- Fox won by birdying the 72nd hole\n- Final leaderboard:\n1. Ryan Fox — 10-under (won on 72nd hole birdie)\n2. Cameron Young — 9-under\n3. Sam Burns — 8-under\nT4. Scottie Scheffler — tied 4th\nT4. Tommy Fleetwood — tied 4th\n- Fox is from New Zealand; significance as first modern New Zealand major champion\n**Image search terms (imagn):** \"Ryan Fox\" / \"The Open Championship 2026\"",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Michael Kim Shoots 59 at the 3M Open — PGA Tour's 16th Sub-60 Round in History",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Michael Kim shot a 59 at the 3M Open on Friday.\n\nThe 16th sub-60 round in PGA Tour history.\n\nHe now leads the tournament at -14, three clear of the field.\n\nRounds 3 and 4 are this weekend.\n\nHistory is in the air at TPC Twin Cities. ⛳\n\n#PGATour #3MOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour",
+            "#3MOpen"
+          ],
+          "char_count": 251
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Michael Kim: 69 in Round 1.\n\nThen: 59 in Round 2.\n\n128 total. -14. Three-shot lead at the 3M Open.\n\nThe rest of the field is watching a different tournament right now.\n\nTwo rounds to go. Will he close it out?\n\n#PGATour #3MOpen #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour",
+            "#3MOpen",
+            "#Golf"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-michael-kim-59-3m-open.html",
+        "headline": "Michael Kim Shoots 59 at the 3M Open — The PGA Tour's 16th Sub-60 Round in History",
+        "word_count": 662
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Michael Kim Shoots 59\n\n#### Image Concept 1 — Social (1080x1350)\n**Type:** imagn\n**Search term:** \"Michael Kim PGA Tour\"\n**Usage:** X post and Facebook image caption at 10:30 AM\n**Credit:** (USA TODAY Sports Images)\n**Art direction:** Kim in action; overlay: \"59 — Round 2 at the 3M Open\"\n\n#### Image Concept 2 — Article Hero (1200x630)\n**Type:** imagn\n**Search term:** \"TPC Twin Cities 3M Open\"\n**Usage:** Article header\n**Credit:** (USA TODAY Sports Images)\n**Art direction:** Course shot; scorecard overlay \"59 — PGA Tour Record\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Michael Kim Shoots 59 at 3M Open\n**Source:** Golf.com, Central Oregon Daily, PGA Tour — HIGH confidence\n**Key facts (HIGH confidence):**\n- Venue: TPC Twin Cities, Blaine, Minnesota\n- Tournament: 3M Open\n- Dates: July 23-26, 2026 (R3 and R4 today-tomorrow)\n- Purse: $8,800,000\n- Michael Kim shot 59 in Round 2 (Friday, July 25)\n- PGA Tour's 16th sub-60 round in history\n- Kim's scores: R1: 69 + R2: 59 = 128 (-14)\n- Kim leads tournament by 3 strokes\n- Leaderboard after 36 holes (cut: -9):\n1. Michael Kim — 128 (-14)\nT2. Emiliano Grillo — 131 (-11)\nT2. Ben Kohles — 131 (-11)\nT2. Chandler Phillips — 131 (-11)\nT5. Jackson Koivun — 132 (-10)\nT5. Troy Merritt — 132 (-10)\n- Scottie Scheffler (World No. 1) shot R1 65 and is in the field\n**Image search terms (imagn):** \"Michael Kim PGA Tour\"",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "LIV Golf UK — Lucas Herbert Leads Entering Round 3",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Lucas Herbert is leading LIV Golf UK at -13 after a bogey-free 61 in Round 1.\n\nBryson DeChambeau is right behind him at -12.\n\nRound 3 is underway today at JCB Golf & Country Club.\n\nCan Herbert hold the lead through the weekend?\n\n#LIVGolf #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf",
+            "#Golf"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-liv-golf-uk-herbert-leads.html",
+        "headline": "Lucas Herbert's Bogey-Free 61 Sets the Pace at LIV Golf UK — DeChambeau One Back Entering Round 3",
+        "word_count": 540
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LIV Golf UK — Herbert Leads\n\n#### Image Concept 1 — Social (1080x1350)\n**Type:** imagn\n**Search term:** \"Lucas Herbert LIV Golf\"\n**Usage:** X post and Facebook image caption at 1:00 PM\n**Credit:** (USA TODAY Sports Images)\n**Art direction:** Herbert in action; overlay: \"Leads LIV Golf UK at -13\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LIV Golf UK — Lucas Herbert Leads\n**Source:** LIV Golf official, TNT Sports — HIGH confidence\n**Key facts (HIGH confidence):**\n- Venue: JCB Golf & Country Club, Rocester, England\n- Event: LIV Golf United Kingdom\n- Dates: July 23-26, 2026 (no cut format)\n- Round 3 in progress today, Saturday July 25\n- Lucas Herbert leads at -13 after bogey-free 61 in Round 1\n- Bryson DeChambeau in close contention at -12 entering Round 3\n- Harold Varner III (team OKGC) also competing\n- 2026 LIV season: 14 events, February 5 - August 30, 57 players\n**Image search terms (imagn):** \"Lucas Herbert LIV Golf\" / \"Bryson DeChambeau LIV Golf\"",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "LPGA Women's Scottish Open — Jenny Shin Leads by Five at Halfway",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Jenny Shin leads the Women's Scottish Open by FIVE strokes at the halfway point.\n\nRound 3 is underway at Dundonald Links.\n\nNext up after this: the AIG Women's Open, July 30 — the next women's major.\n\nBig week for women's golf. ⛳\n\n#LPGA #WomensGolf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA",
+            "#WomensGolf"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-lpga-womens-scottish-open-shin-leads.html",
+        "headline": "Jenny Shin Leads Women's Scottish Open by Five — Round 3 Underway at Dundonald Links",
+        "word_count": 521
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LPGA Women's Scottish Open — Shin Leads\n\n#### Image Concept 1 — Social (1080x1350)\n**Type:** imagn\n**Search term:** \"Jenny Shin LPGA\"\n**Usage:** X post and Facebook image caption at 3:30 PM\n**Credit:** (USA TODAY Sports Images)\n**Art direction:** Shin on links; overlay: \"5-Shot Lead — Women's Scottish Open\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LPGA Women's Scottish Open — Jenny Shin Leads\n**Source:** Sky Sports Golf, LPGA.com — HIGH confidence\n**Key facts (HIGH confidence):**\n- Tournament: ISPS HANDA Women's Scottish Open\n- Venue: Dundonald Links, Scotland\n- Dates: July 23-26, 2026\n- Round 3 in progress today, Saturday July 25\n- Jenny Shin leads by five strokes at halfway mark\n- Competitors in contention: Pajaree Anannarukarn, A Lim Kim\n- Next LPGA major: AIG Women's Open, July 30-August 2, Lancashire, United Kingdom\n- Recent LPGA major: Amundi Evian Championship won by Haeran Ryu (July 9-12, 2026)\n**Image search terms (imagn):** \"Jenny Shin LPGA\"",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Open Championship Debrief — DeChambeau's Penalty and What Fox's Win Means for New Zealand Golf",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Bryson DeChambeau received a two-stroke penalty at The Open.\n\nHe later said he \"wished he would have given it more on the weekend.\"\n\nRyan Fox shot 62 in Round 3, birdied 18 in Round 4, and took the Claret Jug.\n\nRoyal Birkdale gave us a classic. #TheOpen #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheOpen",
+            "#Golf"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-open-championship-dechambeau-fox-legacy.html",
+        "headline": "Open Championship Debrief: DeChambeau's Penalty, Fox's Legacy, and What the Claret Jug Going to New Zealand Means for the Game",
+        "word_count": 755
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Open Championship Debrief\n\n#### Image Concept 1 — Social (1080x1350)\n**Type:** imagn\n**Search term:** \"Bryson DeChambeau\"\n**Usage:** X post and Facebook image caption at 6:00 PM\n**Credit:** (USA TODAY Sports Images)\n**Art direction:** DeChambeau action shot; overlay: \"The Open: Penalty and Perspective\""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Open Championship Debrief — DeChambeau Penalty + Fox Legacy\n**Source:** Golf Channel, multiple post-event reports — MEDIUM confidence (specific penalty details)\n**Key facts (MEDIUM confidence):**\n- Bryson DeChambeau received a two-stroke penalty during the 154th Open Championship\n- DeChambeau quote: \"wished he would have given it more on the weekend\" (post-tournament)\n- Fox becoming New Zealand's first modern major champion carries significant cultural weight\n- Australia/NZ outlets leading with the story\n**Image search terms (imagn):** \"Bryson DeChambeau\" / \"Ryan Fox golf\"",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

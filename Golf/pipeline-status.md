@@ -1,10 +1,21 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
-- **Date**: 2026-07-24
+- **Date**: 2026-07-25
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-25
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres)
+- **PostPlanner exports:** gfr-postplanner-2026-07-25.xlsx (7 posts) + gfr-postplanner-tobi-2026-07-25.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-07-25/review-dashboard.html (22 items)
+- **Notes:** OPEN CHAMPIONSHIP — Ryan Fox wins at Royal Birkdale (-10, won on 72nd hole birdie, first NZ modern major champion); Michael Kim shoots 59 at 3M Open (PGA Tour's 16th sub-60 round, leads -14 by 3); LIV Golf UK — Lucas Herbert leads (-13) over DeChambeau (-12), R3 today; LPGA Women's Scottish Open — Jenny Shin leads by 5 at halfway; Open Debrief — DeChambeau 2-stroke penalty, Fox NZ legacy
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-24
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
