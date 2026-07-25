@@ -3,6 +3,61 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-07-25
+
+### Story 1: AUSL Championship Game 1 Recap — Talons 3, Bandits 1
+- **Date:** 2026-07-25
+- **Tier:** 1
+- **Classification:** NEW (Game 1 result — Utah Talons defeat Chicago Bandits 3-1 on ABC)
+- **Angle:** Utah Talons won Game 1 of the AUSL Championship Series 3-1 over the Chicago Bandits at Davis Diamond on ABC — the first professional softball game ever on U.S. network television. Montana Fouts started after resting since July 20. Talons lead best-of-3 series 1-0. Game 2 Sunday July 26 2 PM ET ESPN. A Talons win gives them first back-to-back AUSL championships.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, image concepts
+- **Follow-Up Opportunities:**
+  - Game 2 Sunday July 26 result
+  - ABC viewership data when reported
+  - Series outcome (Talons close Sunday or go to Game 3 Monday)
+
+### Story 2: Montana Fouts — Game 1 Championship Performance
+- **Date:** 2026-07-25
+- **Tier:** 1
+- **Classification:** NEW (Fouts' first championship start after resting since July 20; dominant in 3-1 win)
+- **Angle:** Fouts (7-4, 2.36 ERA, 63K, 12-K record) rested since July 20 — five days before Game 1. Two regular-season wins over Chicago at 1.19 ERA. Dominated the Bandits again in the biggest game of the year. Could pitch Game 3 if needed on seven days' rest (July 20 last pitched → July 27 Game 3).
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, image concepts
+- **Follow-Up Opportunities:**
+  - Fouts' role in Game 2 (start or rest for potential Game 3)
+  - Post-series stats and possible AUSL award recognition
+
+### Story 3: PGF Nationals — Athletics Mercado and AZ Rising Crowned Champions
+- **Date:** 2026-07-25
+- **Tier:** 2
+- **Classification:** NEW (both 16U and 18U Premier championships decided Saturday)
+- **Angle:** Athletics Mercado defeated Hotshots National-Galloway 3-2 on Teuila Jaelynn Eteaki walk-off for 16U Premier title (undefeated tournament). AZ Rising defeated Lady Dukes Lamar by run rule for 18U Premier title (Goose Goodwin/Northwestern vs. Jordynn Parnell/Duke pitching matchup). September 1 is 37 days away — Class of 2028 D1 contact window.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, image concept
+- **Follow-Up Opportunities:**
+  - September 1 contact window opens — commitment announcements
+  - Fall showcase season recruiting coverage
+
+### Story 4: Talons One Win From Back-to-Back Championship
+- **Date:** 2026-07-25
+- **Tier:** 2
+- **Classification:** NEW (analysis angle: Talons lead 1-0; no team has won back-to-back AUSL titles)
+- **Angle:** No team has ever won back-to-back AUSL championships. Talons lead 1-0. Hannah Flippen (2025 AUSL DPOY). Talons won 4 of 5 vs. Chicago in regular season. Game 2 Sunday July 26 2 PM ET ESPN.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, image concept
+- **Follow-Up Opportunities:**
+  - Game 2 result Sunday
+  - If Talons win: first back-to-back champion story
+
+### Story 5: Softball Was on ABC — The Historic Broadcast Moment
+- **Date:** 2026-07-25
+- **Tier:** 3
+- **Classification:** FOLLOW UP (the ABC broadcast happened; now write the reflection/analysis)
+- **Angle:** First professional softball game ever on U.S. network TV. Utah Talons 3, Bandits 1. Davis Diamond sold out. Montana Fouts pitched. 181% AUSL viewership growth in 2026 (prior to Saturday). What the benchmark means going forward.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, image concept
+- **Follow-Up Opportunities:**
+  - ABC viewership number when reported
+  - Game 2 ESPN viewership comparison
+
+---
+
 ## 2026-07-24
 
 ### Story 1: AUSL Championship Preview — Bandits vs. Talons, Saturday on ABC

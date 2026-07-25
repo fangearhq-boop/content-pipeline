@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-07-25
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via 2 research agents, supplementary agent), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations), FB posts (5 stories), image concepts (10 items), image manifest (10 items, not_started), articles (5), fact-check (52 claims), compile (5 stories, 6 tweets, 0 FB posts — format known, 5 articles, 21 items), dashboard (21 items), PostPlanner exports (6 posts standard + 6 TOBI). WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard publish push failed (proxy known restriction). IMAGE MISSING expected (not_started). FB posts: 0 compiled (format known). 0 char violations.
+- **Key Stories**: Talons 3 Bandits 1 Game 1 AUSL Championship/Montana Fouts dominant start after 5 days rest/7-4 2.36 ERA 63K/2-0 vs Chicago regular season 1.19 ERA/first pro softball on ABC network TV/Game 2 Sunday July 26 2PM ET ESPN (Tier 1 NEW), PGF Nationals champions crowned/Athletics Mercado 16U Premier 3-2 walk-off (Teuila Jaelynn Eteaki)/AZ Rising 18U Premier run rule (Goose Goodwin/Northwestern vs Jordynn Parnell/Duke)/September 1 37 days (Tier 2 NEW), Talons 1-0 series lead/no team has won back-to-back AUSL titles/Hannah Flippen 2025 DPOY/Talons won 4 of 5 vs Chicago/Game 2 Sunday (Tier 2 NEW), ABC broadcast historic moment/first pro softball on network TV ever/benchmark set (Tier 3 FOLLOW UP)
+
+## Last Run
 - **Date**: 2026-07-24
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via 3 research agents), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations), FB posts (5 stories), image concepts (10 items), image manifest (10 items, not_started), articles (5), fact-check (62 claims), compile (5 stories, 6 tweets, 0 FB posts — format known, 5 articles, 21 items), dashboard (21 items), PostPlanner exports (6 posts standard + 6 TOBI). WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
