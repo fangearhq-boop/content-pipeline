@@ -1,0 +1,341 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-26",
+  "compiled_at": "2026-07-26T11:19:38.971738+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "LeBron + Brown + Embiid — 76ers Build a Big Three",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "LeBron James. Jaylen Brown. Joel Embiid.\n\nThree All-Stars. Five MVPs combined. One city.\n\nThe 76ers just built the most audacious Big Three in franchise history.\n\n#PhillyForever #NBA #LeBronJames",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PhillyForever",
+            "#NBA",
+            "#LeBronJames"
+          ],
+          "char_count": 195
+        },
+        {
+          "label": "Post 1-2",
+          "text": "LeBron called this his \"last decision.\"\n\nHe chose Philly. The 76ers gave him Jaylen Brown as a co-star.\n\nIf this Big Three stays healthy, the East just got a lot harder.\n\n#SixersNation #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SixersNation",
+            "#NBA"
+          ],
+          "char_count": 189
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-sixers-big-three-lebron-brown-embiid.html",
+        "headline": "King James, Jaylen Brown, and Joel Embiid: The 76ers Build Their Most Audacious Big Three",
+        "word_count": 654
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LeBron + Brown + Embiid — 76ers Big Three\n**Sources searched:** ESPN, NBA.com, NBC Sports Philadelphia, Yahoo Sports\n**Key Facts (Confidence Tagged):**\n- [HIGH] LeBron James signed a 2-year, $8 million contract with the Philadelphia 76ers (multiple sources: ESPN, NBA.com, Yahoo Sports)\n- [HIGH] LeBron called it his \"last decision\" — ESPN, NBC Sports Philadelphia\n- [HIGH] LeBron: \"I believe I can help make the Philadelphia 76ers a championship team and I am so excited to energize a new fan base and start this incredible journey one last time.\" — ESPN\n- [HIGH] This is LeBron's 24th NBA season — confirmed across multiple sources\n- [HIGH] Jaylen Brown was acquired from the Boston Celtics for Paul George, two first-round picks, and two second-round picks — Yahoo Sports live tracker\n- [HIGH] Joel Embiid is entering Year 3 post-surgery / healthy season after being limited in 2024-25 — NBA.com\n- [MEDIUM] 76ers pursuing additional roster moves to complement the trio — NBC Sports Philadelphia (single source)\n- [MEDIUM] LeBron had strongly considered retirement, saying he was \"pretty sure I played my last game\" at season's end — ESPN\n**Freshness:** LeBron signing announced July 25; July 26 angle is the Big Three configuration and championship implications — NEW angle.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Spurs Dynasty Blueprint — Tobias Harris Signed, Cap Space Deployed",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Wemby took less money so the Spurs could build.\n\nNow look at their payroll:\n• Wemby: $16.9M\n• Harper: $13M\n• Castle: $10M\n• Bryant: $5.1M\n\nAnd they used the savings to sign Tobias Harris.\n\nThis franchise is playing chess. #Spurs #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Spurs",
+            "#NBA"
+          ],
+          "char_count": 233
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Wembanyama + De'Aaron Fox locked in long-term.\n\nNow Tobias Harris joins the young Spurs core.\n\nSan Antonio is building something real. Don't sleep on them.\n\n#PorVidaSpurs #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PorVidaSpurs",
+            "#NBA"
+          ],
+          "char_count": 175
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-spurs-dynasty-tobias-harris-cap-strategy.html",
+        "headline": "Wembanyama's Sacrifice Pays Off: Spurs Sign Tobias Harris, Deploy Their Championship Blueprint",
+        "word_count": 652
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Spurs Dynasty Blueprint — Tobias Harris + Roster\n**Sources searched:** Bleacher Report, Roundtable.io, NBA.com, Hoops Rumors\n**Key Facts (Confidence Tagged):**\n- [HIGH] Wembanyama signed 5-year/$252M extension (25% max, not 30% supermax) — Bleacher Report, NBA.com\n- [HIGH] Extension saves Spurs ~$50M in cap flexibility over the life of the deal — Bleacher Report\n- [HIGH] De'Aaron Fox signed 4-year/$228M extension in same window — reported 2026-07-10, multiple sources\n- [HIGH] Wembanyama's base salary: $16.9M for 2026-27 — Bleacher Report salary cap primer\n- [HIGH] Dylan Harper salary for 2026-27: $13M — Bleacher Report\n- [HIGH] Stephon Castle salary: $10M — Bleacher Report\n- [HIGH] Carter Bryant salary: $5.1M — Bleacher Report\n- [MEDIUM] Tobias Harris signed with the Spurs in free agency — Roundtable.io (single source, verify timing)\n- [LOW] Exact Harris contract terms not confirmed in search results\n**Freshness:** Harris signing is new development (July 2026 free agency window). Wemby extension is follow-up from July 10, now showing first free agency results.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Draymond Green Stays in Golden State — 4 Years, $100M",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Draymond Green had $27.7M guaranteed on the table.\n\nHe said no — signed 4 years, $100M to stay a Warrior.\n\nSome players chase money. Draymond chases the right fit.\n\nStill in Golden State. #WarriorsFandom #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WarriorsFandom",
+            "#NBA"
+          ],
+          "char_count": 208
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-draymond-green-warriors-four-year-deal.html",
+        "headline": "Still a Warrior: Draymond Green Chooses Golden State Over a Bigger Payday",
+        "word_count": 595
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Draymond Green — Warriors 4yr/$100M\n**Sources searched:** CBS Sports, Yahoo Sports, SF Standard\n**Key Facts (Confidence Tagged):**\n- [HIGH] Draymond Green declined his $27.7M player option for 2026-27 — CBS Sports, Yahoo Sports\n- [HIGH] Green agreed to a new 4-year, $100M deal to stay with the Warriors — CBS Sports\n- [HIGH] Green cited it as the \"best path forward\" for him and the organization — Yahoo Sports\n- [MEDIUM] Average annual value: $25M (lower than the option he declined) — calculated from CBS Sports figures\n- [MEDIUM] Warriors won the 2026 Summer League championship — from NBA pipeline notes; consistent with prior run logs\n**Freshness:** Signing reported in free agency window (late June/early July 2026); angle for July 26 is reflecting on commitment to Warriors dynasty.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Kawhi Investigation Update — Raptors Trade Still Frozen",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The Kawhi Leonard trade to Toronto is agreed.\n\nBoth teams shook hands. Fans planned the parade.\n\nOne month later, the NBA investigation still has it frozen.\n\nSilver wants this wrapped before October. #Raptors #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Raptors",
+            "#NBA"
+          ],
+          "char_count": 213
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-kawhi-leonard-raptors-trade-frozen.html",
+        "headline": "One Month Later, the Kawhi Leonard Trade Is Still On Hold — and the NBA Clock Is Ticking",
+        "word_count": 640
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Kawhi Investigation / Raptors Trade\n**Sources searched:** NBA.com, The Globe and Mail, Yahoo Sports, CFJC Today\n**Key Facts (Confidence Tagged):**\n- [HIGH] Raptors and Clippers have a trade agreement: Leonard to Toronto — NBA.com, Globe and Mail, Yahoo Sports\n- [HIGH] Trade compensation: Brandon Ingram, Gradey Dick, unprotected first-round picks in 2031 and 2033, a 2027 pick swap, and two second-round picks going to LAC — NBA.com\n- [HIGH] NBA opened an investigation into allegations Raptors paid Leonard impermissible benefits — Yahoo Sports\n- [HIGH] Trade is on hold pending investigation conclusion — Yahoo Sports, NBA.com\n- [HIGH] Silver has stated investigation must conclude before the season — pipeline-status.md cross-reference\n- [HIGH] Kawhi is 35 years old — confirmed across sources\n- [MEDIUM] Investigation has been ongoing for approximately 11 months — pipeline notes, not independently verified today\n- [MEDIUM] \"Weeks away\" from resolution per NBA sources — pipeline notes\n**Freshness:** Investigation status is ongoing; July 26 update confirms trade remains frozen — relevant continuing story.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "DeMar DeRozan Waived by Kings — Who Lands the 6x All-Star?",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5-1",
+          "text": "The Sacramento Kings just waived DeMar DeRozan.\n\n6x All-Star. Elite mid-range scorer. 36 and still in his bag.\n\nSomeone is about to get a very good player for very cheap.\n\nWhich contender makes the call? #NBA #FreeAgency",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA",
+            "#FreeAgency"
+          ],
+          "char_count": 220
+        },
+        {
+          "label": "Post 5-2",
+          "text": "DeMar DeRozan hitting the market at 36:\n\n✅ Elite mid-range scorer\n✅ 6x All-Star\n✅ Proven closer\n❓ Who signs him?\n\nAny contender missing veteran scoring would be crazy not to call.\n\n#NBA #DeRozan",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA",
+            "#DeRozan"
+          ],
+          "char_count": 194
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-derozan-kings-waived-free-agent.html",
+        "headline": "The Kings Just Waived a 6x All-Star. Now the Phone Lines Are Open for DeMar DeRozan",
+        "word_count": 617
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "DeMar DeRozan Waived by Kings\n**Sources searched:** Last Word on Basketball, Hoops Rumors, ESPN\n**Key Facts (Confidence Tagged):**\n- [HIGH] Sacramento Kings waived DeMar DeRozan — Last Word on Basketball, Hoops Rumors\n- [HIGH] DeRozan is a 6x NBA All-Star — Basketball Reference\n- [HIGH] DeRozan is 36 years old (born August 7, 1989) — Basketball Reference primary source\n- [MEDIUM] DeRozan remains a potent mid-range scorer / one of top remaining free agents — editorial assessment, multiple sources\n- [LOW] Specific contenders linked to DeRozan in free agency — not found in search results\n**Freshness:** Waiver is recent (July 2026); strong pick-up angle for contenders.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

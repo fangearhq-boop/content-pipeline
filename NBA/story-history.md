@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-07-26
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-26 | T1 | LeBron + Brown + Embiid — 76ers Build a Big Three | X, FB, Article | FOLLOW UP |
+| 2026-07-26 | T1 | Spurs Dynasty Blueprint — Tobias Harris Signed, Cap Strategy Pays Off | X, FB, Article | FOLLOW UP |
+| 2026-07-26 | T2 | Draymond Green Stays in Golden State — 4yr/$100M | X, FB, Article | NEW |
+| 2026-07-26 | T2 | Kawhi Leonard Raptors Trade Still Frozen — Investigation Ongoing | X, FB, Article | FOLLOW UP |
+| 2026-07-26 | T2 | DeMar DeRozan Waived by Kings — 6x All-Star Hits Free Agent Market | X, FB, Article | NEW |
+
+### STORY 1: LeBron + Brown + Embiid — 76ers Big Three
+- **Tier:** 1
+- **Category:** NBA Free Agency / Philadelphia 76ers
+- **Key facts:** LeBron signed 2yr/$8M with 76ers (July 25); called it "last decision"; 24th NBA season; joins Embiid; Jaylen Brown from Celtics (Paul George + picks); 5 combined MVPs, 32 All-Star appearances; 76ers pursuing additional roster moves
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Introductory press conference; supporting cast signings; Eastern Conference outlook
+
+### STORY 2: Spurs Dynasty Blueprint — Tobias Harris + Cap Strategy
+- **Tier:** 1
+- **Category:** NBA Free Agency / San Antonio Spurs
+- **Key facts:** Wemby $252M (25% max, not 30%); saved Spurs ~$50M; roster on cheap deals: Wemby $16.9M, Harper $13M, Castle $10M, Bryant $5.1M; Tobias Harris signed; Fox 4yr/$228M extension
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Additional Spurs signings; West standings projection; season preview
+
+### STORY 3: Draymond Green — Warriors 4yr/$100M
+- **Tier:** 2
+- **Category:** NBA Free Agency / Golden State Warriors
+- **Key facts:** Green declined $27.7M player option; signed 4yr/$100M to stay; ~$25M/yr; called it "best path forward"; Warriors won 2026 Summer League championship
+- **Status:** NEW
+- **Follow-up ideas:** Warriors offseason moves around Curry+Green; West competitiveness
+
+### STORY 4: Kawhi Leonard — Raptors Trade Still Frozen
+- **Tier:** 2
+- **Category:** NBA Transactions / Kawhi Leonard / Toronto Raptors
+- **Key facts:** Trade agreed: Ingram/Dick/2031+2033 picks/2027 swap/2 seconds to LAC; Kawhi to Toronto; NBA investigation into impermissible benefits; trade on hold; Silver: must conclude before October; investigation ~11 months old
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Investigation conclusion; trade finalized or voided; Raptors roster implications
+
+### STORY 5: DeMar DeRozan — Kings Waiver
+- **Tier:** 2
+- **Category:** NBA Free Agency / Roster Moves
+- **Key facts:** Sacramento Kings waived DeRozan; 6x All-Star; 36 years old; elite mid-range scorer; 19,000+ career points; top remaining free agent; defensive limitations at age 36
+- **Status:** NEW
+- **Follow-up ideas:** DeRozan signs with contender; veteran minimum value analysis
+
 ## 2026-07-23
 
 | Date | Tier | Story | Platforms | Status |

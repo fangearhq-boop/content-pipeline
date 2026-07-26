@@ -1,10 +1,21 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Last Run
-- **Date**: 2026-07-25
+- **Date**: 2026-07-26
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-26
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 8 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce, Jake Torres)
+- **PostPlanner exports:** hh-postplanner-2026-07-26.xlsx (8 posts) + hh-postplanner-tobi-2026-07-26.xlsx (8 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-07-26/review-dashboard.html (23 items)
+- **Notes:** 76ERS BIG THREE — LeBron James + Jaylen Brown + Joel Embiid (5 MVPs, 32 All-Stars combined); Spurs deploy Wemby's cap savings: Tobias Harris signed (Wemby $16.9M, Harper $13M, Castle $10M, Bryant $5.1M + Fox $228M); Draymond Green stays Warriors 4yr/$100M (declined $27.7M option); Kawhi Leonard trade still frozen (NBA investigation, Silver: October deadline); DeMar DeRozan waived by Kings (6x All-Star, 36, top FA available)
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-25
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
