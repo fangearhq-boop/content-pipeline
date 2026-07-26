@@ -1,0 +1,180 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-26",
+  "compiled_at": "2026-07-26T09:19:06.042500+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Cubs 11, Pirates 0 — Imanaga Shuts Down Skenes, PCA Destroys (July 25 Recap)",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Imanaga outdueled Skenes (9-9 after this) with 6 scoreless innings; PCA went 4-for-5 with his 23rd HR; Cubs scored 11 in their most dominant win of the road trip. Cubs now 59-45.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Shota Imanaga took the mound against Paul Skenes and SHUT HIM DOWN.\n\n6 IP, 0 ER, 4 K. The Cubs answered with 11 runs.\n\nSkenes struck out 11 and still lost by double digits. PCA went 4-for-5 with his 23rd HR. Cubs win 11-0, now 59-45.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cubs 11, Pirates 0 — Imanaga Shuts Down Skenes, PCA Destroys\n**Decision:** NEW STORY — first time covering this specific game (July 25 result)\n**Sources:**\n1. Bleacher Nation enhanced box score (July 25, 2026): https://www.bleachernation.com/cubs/2026/07/25/enhanced-box-score-cubs-11-pirates-0-july-25-2026/ ✅ Same day\n2. ESPN recap (July 25, 2026): https://www.espn.com/mlb/recap?gameId=401816252 ✅ Same day\n3. Washington Post (July 25, 2026): https://www.washingtonpost.com/sports/mlb/2026/07/25/cubs-pirates-score/ ✅ Same day\n4. CBS Sports box score: https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260725_CHC@PIT/ ✅ Same day\n**Key Facts (verified across 2+ sources):**\n- Final score: Cubs 11, Pirates 0 ✅ (ESPN, BN, WaPo all confirm)\n- Imanaga: 6 IP, 4 H, 0 ER, 4 K, 1 BB; record now 7-8 ✅ (ESPN, WaPo)\n- Skenes: 5.1 IP, 5 ER, 11 K; record now 9-9 ✅ (ESPN, WaPo)\n- PCA: 4-for-5, HR (23rd of season), 3 RBI ✅ (ESPN, WaPo, CBS)\n- PCA HR was 2-run shot off Ron Marinaccio in 7th, made score 10-0 ✅ (ESPN)\n- Cubs scored 3 runs in 5th, 5 more in 6th chasing Skenes ✅ (ESPN)\n- Swanson RBI double; Amaya 2 RBI single; Busch 2-run single ✅ (ESPN)\n- Hoerner singled, Ramirez walked ahead of Swanson's double ✅ (ESPN)\n- PCA was triple short of the cycle ✅ (Washington Post headline)\n- Cubs record: 59-45 (series context JSON confirms)\n**Freshness:** Game was July 25, 2026 — results from < 24 hours ago. ✅\n**Why it matters:** Dominant road win, Imanaga outduels Cy Young contender Skenes, PCA stars again — perfect setup for the series finale sweep attempt.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Pete Crow-Armstrong — 23 HR, 6.2 WAR, Still the Best Player in Baseball",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "With his 23rd HR and 4-for-5 yesterday, PCA is the MVP frontrunner. 6.2 WAR is No. 1 in baseball. Bold take: stop saying \"in the conversation\" — he's the leading candidate.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "PCA's 2026 MVP case:\n\n— No. 1 WAR in baseball (6.2)\n— No. 1 OAA, No. 1 Fielding Run Value\n— ONLY player with 20+ HR and 20+ SB\n\nLast night: 4-for-5, 23rd HR, triple short of the cycle.\n\nHe's not in the race. He's running it.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Pete Crow-Armstrong — 23 HR, 6.2 WAR, Still the Best Player in Baseball\n**Decision:** FOLLOW UP — PCA at 22 HR / 6.0 WAR covered July 25; now updated to 23 HR / 6.2 WAR after last night's 4-for-5 with HR\n**Sources:**\n1. MLB.com MVP case article: https://www.mlb.com/news/pete-crow-armstrong-2026-mvp-case ✅ Recent\n2. Chi City Sports (Statcast/history piece): https://www.chicitysports.com/chicago-cubs-insane-pete-crow-armstrong-stats-are-making-history/ ✅ Recent\n3. SI / Sports Illustrated historical WAR note: https://www.si.com/fannation/mlb/fastball/history/chicago-cubs-outfielder-pete-crow-armstrong-has-speed-run-his-way-to-historic-season-highest-war-at-his-age-position-franchise-history-since-1935-01jvmgf7js4v ✅ Recent\n**Key Facts:**\n- Slash line: .285/.385/.527 ✅ (Chi City Sports, Yahoo Sports)\n- HR: 23 (after July 25 game) ✅ (ESPN recap confirmed 23rd HR)\n- SB: 25 ✅ (multiple sources)\n- RBI: 56 ✅ (Chi City Sports)\n- WAR: 6.2 (ESPN), 6.6 (FanGraphs) — stated as No. 1 in baseball ✅ (Chi City Sports)\n- Only MLB player with 20+ HR and 20+ SB ✅ (Chi City Sports) — MEDIUM confidence (compound claim, one primary source)\n- Defense: No. 1 Fielding Run Value (21), No. 1 OAA (20), 33 five-star catches ✅ (Chi City Sports)\n- \"Statcast Era record for five-star catches (33)\" — LOW confidence; needs secondary verification (compound/superlative claim)\n- Highest WAR at age/position in Cubs franchise history since 1935 — LOW confidence; needs BBRef verification\n**Freshness:** Stats updated after July 25 game — current as of morning of July 26. ✅\n**Why it matters:** PCA is the clearest MVP candidate on the Cubs roster, and his performance last night added a new data point to an already spectacular season.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Trade Deadline — Peralta May Be Going Back to Milwaukee (Not Chicago)",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Cubs need SP desperately (26 pitcher IL stints this year), but their top target Freddy Peralta is reportedly now more likely to go BACK to the Brewers. With 8 days left, Cubs need to find alternatives. Jon Heyman says Cubs \"like\" Peralta. Real urgency.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "8 days. The Cubs' top target — Freddy Peralta — is reportedly more likely to return to Milwaukee.\n\n26 pitcher IL stints this year. They NEED an arm.\n\nHeyman says Cubs \"like\" him. The Brewers may \"get\" him.\n\nJed Hoyer, the clock is ticking.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Trade Deadline — Peralta May Be Going Back to Milwaukee\n**Decision:** FOLLOW UP — deadline/Peralta covered July 25 with \"9 days away\"; now 8 days, new development is Peralta favored to return to Brewers\n**Sources:**\n1. Chi City Sports / Jon Heyman reporting: https://www.chicitysports.com/chicago-cubs-freddy-peralta-trade-brewers/ ✅ Recent (July 24-25)\n2. Chicago Sun-Times (Hoyer on deadline): https://chicago.suntimes.com/cubs/2026/07/24/cubs-trade-rumors-mlb-trade-deadline-top-prospects-james-triantos-pedro-ramirez-matt-shaw-jed-hoyer ✅ July 24\n3. Bleacher Nation deadline path: https://www.bleachernation.com/cubs/2026/07/24/cubs-trade-deadline-path/ ✅ July 24\n4. ESPN trade deadline tracker: https://www.espn.com/mlb/story/_/id/49410877/2026-mlb-trade-deadline-tracker-rumors-alerts-news-latest-updates-analysis ✅ Ongoing\n**Key Facts:**\n- Deadline: August 3, 6 PM ET ✅\n- Cubs have had 30 IL stints, 26 pitchers in 2026 ✅ (Last Word on Sports, Sun-Times)\n- Hoyer wants \"SP who remains under club control beyond this season\" ✅ (The Athletic via ESPN)\n- Freddy Peralta (Mets): 4.68 ERA ✅; Jon Heyman: Cubs \"like\" Peralta ✅ (Chi City Sports)\n- Peralta now \"favored\" to return to Brewers — MEDIUM confidence (one primary reporting source from Chi City Sports)\n- Cubs also linked to Robbie Ray, Joe Ryan ✅ (ESPN tracker)\n- Cubs looking at Mets' Luke Weaver for bullpen ✅ (ESPN tracker)\n- Trade chips: Pedro Ramirez, James Triantos, Matt Shaw ✅ (Sun-Times)\n**Freshness:** Reports dated July 24-25. ✅\n**Why it matters:** Cubs desperately need pitching, but their No. 1 target may slip away to division-rival Brewers. That's a nightmare scenario with 8 days left.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Series Finale Preview — Taillon Returns to Pittsburgh",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Taillon was Pittsburgh's second overall pick in 2009. Now he returns as a Cub trying to close out a series sweep. Ashcraft is a tough draw at 9-4. Cubs are 5-4 in the season series — a sweep extends the lead to 6-4.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Jameson Taillon: Pittsburgh's No. 2 overall pick in 2010.\n\nToday he returns to PNC Park as a Cub — trying to close out a series sweep.\n\nTaillon (2-5, 5.37 ERA) vs. Ashcraft (9-4, 3.95 ERA) — 12:35 PM CT.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 227
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Series Finale Preview — Taillon Returns to Pittsburgh\n**Decision:** NEW STORY — this specific matchup (July 26 game preview) not previously covered\n**Sources:**\n1. Bleacher Nation game day update: https://www.bleachernation.com/stats-and-news/2026/07/26/pirates-vs-cubs-injury-report-updates-probable-starters-july-26/ ✅ Today (July 26)\n2. FanDuel Research: https://www.fanduel.com/research/pirates-vs-cubs-mlb-odds-prediction-point-spread-over-under-and-betting-trends-for-7-26-2026 ✅ Today\n3. Cubs Insider series preview: https://www.cubsinsider.com/2026/07/24/chicago-cubs-pittsburgh-pirates-series-preview-july-24-26-overview-game-and-broadcast-info-starting-pitchers-w2w4/ ✅ July 24\n**Key Facts:**\n- Taillon: 2-5, 5.37 ERA, 1.32 WHIP, 65 K ✅ (BN/FanDuel)\n- Ashcraft: 9-4, 3.95 ERA, 1.17 WHIP, 130 K ✅ (BN/FanDuel)\n- First pitch: 12:35 PM CT / 1:35 PM ET ✅ (series context JSON + BN)\n- PNC Park (Pirates home) ✅\n- Cubs season series vs Pirates: 5-4 heading in ✅ (multiple sources)\n- Taillon: former Pittsburgh Pirate, 2nd overall pick in 2009 ✅ (multiple historical sources)\n- Taillon has allowed 22 HR (4th most in MLB) — challenge vs Pirates lineup ✅ (BN)\n- Pirates favored at -130; Cubs +106; O/U 8.5 ✅ (FanDuel)\n**Freshness:** Preview articles from today (July 26) and July 24 series preview. ✅\n**Why it matters:** Series sweep opportunity; Taillon narrative adds emotional weight to the matchup.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Wild Card Picture — Cubs Are Running Away From the Field",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Cubs sit 59-45 as No. 1 NL Wild Card with a 3-game cushion on the Phillies (56-48) and 4-game cushion on D-backs (55-49). Heading into the final push, this wild card lead is real. Bold take: with the Brewers running away in the Central, this is the Cubs' playoff path — and it's a strong one.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Cubs: 59-45. No. 1 NL Wild Card.\n\nPhillies 56-48 — 3 back.\nD-backs 55-49 — 4 back.\nCardinals 52-51 — not a factor.\n\n8 days to the deadline, pitching help on the way, wild card lead is real.\n\nThe Cubs aren't hoping for October. They're planning for it.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Wild Card Picture — Cubs Extending Their Lead\n**Decision:** FOLLOW UP — standings covered July 25; updated after another Cubs win\n**Sources:**\n1. ESPN wild card standings: https://www.espn.com/mlb/standings/_/view/wild-card ✅ Live\n2. Series context JSON (cubs_record: 59-45) ✅\n3. Search results confirming Phillies 56-48, D-backs 55-49\n**Key Facts:**\n- Cubs: 59-45, No. 1 NL Wild Card ✅\n- Phillies: 56-48 (WC2) — 3 GB ✅ (search results)\n- D-backs: 55-49 (WC3) — 4 GB ✅ (search results)\n- Cardinals: 52-51, outside wild card ✅\n- Brewers: 64-39, NL Central leaders — Cubs 5 games back in division ✅\n- Trade deadline Aug. 3 = buyers or sellers framing resolved (Cubs are clear buyers at 59-45)\n**Freshness:** After July 25 games — current as of this morning. ✅\n**Why it matters:** With 3-4 game cushion on WC2/WC3 and trade deadline approaching, the standings context matters for framing Cubs as legitimate playoff contenders heading into the stretch.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

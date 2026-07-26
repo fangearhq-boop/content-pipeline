@@ -5,6 +5,55 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-26
+
+### STORY 1: Cubs 11, Pirates 0 — Imanaga Outduels Skenes, PCA 4-for-5 with 23rd HR
+- **Angle:** NEW STORY (dominant road win; Imanaga 6 IP, 0 ER vs. Skenes; PCA 4-for-5, HR #23, 3 RBI; Cubs now 59-45; series win secured with Game 3 tomorrow)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, morning recap)
+- **Follow-Up Opportunities:**
+  - Imanaga's next start and ERA trajectory
+  - PCA HR milestones (30 HR pace tracking)
+  - Series finale result (Game 3 today vs. Ashcraft)
+
+### STORY 2: Pete Crow-Armstrong — 23 HR, 6.2 WAR, MVP Frontrunner
+- **Angle:** FOLLOW UP (PCA at 22 HR/6.0 WAR covered July 25; updated after 4-for-5 HR night; bold MVP case framing)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold take)
+- **Follow-Up Opportunities:**
+  - PCA pace toward 30+ HR
+  - NL MVP ballot coverage as season progresses
+  - Any PCA awards coverage (monthly, All-Star)
+
+### STORY 3: Trade Deadline — Freddy Peralta Reportedly Favored to Return to Brewers
+- **Angle:** FOLLOW UP (deadline/Peralta covered July 25 as "9 days"; new development = Peralta now favored toward Brewers per reporting; Cubs need Plan B; 8 days left)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, analysis)
+- **Follow-Up Opportunities:**
+  - Any trade announcement before Aug 3
+  - Cubs alternative SP acquisition (Ray, Ryan, or other)
+  - Pedro Ramirez trade reporting if it breaks
+
+### STORY 4: Series Finale Preview — Taillon Returns to PNC Park
+- **Angle:** NEW STORY (Taillon former Pirate No. 2 pick 2010; returning as Cub; Taillon 2-5 5.37 ERA vs Ashcraft 9-4 3.95 ERA; 12:35 PM CT; sweep opportunity)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Taillon's actual pitching line
+  - Series result (sweep or 2-1)
+  - Next Cubs series (check schedule)
+
+### STORY 5: Wild Card Standings — Cubs 59-45, No. 1 NL Wild Card, 3-Game Cushion
+- **Angle:** FOLLOW UP (standings covered July 25; updated after win; Phillies 56-48, D-backs 55-49; Cardinals 52-51 outside WC; trade deadline buyer framing)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, bold take)
+- **Follow-Up Opportunities:**
+  - Standings update after each series
+  - Playoff odds coverage
+  - Cardinals/Brewers division watch
+
+---
+
 ## 2026-07-25
 
 ### STORY 1: Cubs 3, Pirates 2 F/10 — Extras Win at PNC Park
