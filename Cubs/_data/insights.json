@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-25T08:30:00.325761+00:00",
+  "generated_at": "2026-07-26T08:30:00.367690+00:00",
   "account": "cubs",
   "window_days": 21,
-  "tweet_count": 106,
-  "measured_tweet_count": 106,
-  "measured_median_impressions": 81.0,
-  "measured_mean_impressions": 238.07,
-  "median_impressions": 81.0,
-  "mean_impressions": 238.07,
+  "tweet_count": 113,
+  "measured_tweet_count": 113,
+  "measured_median_impressions": 84,
+  "measured_mean_impressions": 232.07,
+  "median_impressions": 84,
+  "mean_impressions": 232.07,
   "max_impressions": 13292,
   "significant_findings": [],
   "significant_findings_note": "No contrasts cleared all three gates (n>=8 per group, p<0.05, |Cliff's delta|>=0.2). Either too little data or no format/time differences are large enough yet.",
@@ -24,54 +24,63 @@
   "raw_buckets": {
     "by_hour_ct": {
       "17": {
-        "n": 8,
-        "mean": 83.75,
-        "median": 69.5,
+        "n": 9,
+        "mean": 86.67,
+        "median": 77,
         "top": {
           "impressions": 226,
           "text": "21 days until August 3. The Cubs still need a starter \u2014 and the Joe Ryan trade just got complicated.\n\nMinnesota is in the Wild Card hunt. The Twins aren't selling. Jed Hoyer needs a Plan B, and he needs it fast.\n\n#Cubs #CubsBaseball #MLB"
         }
       },
-      "12": {
-        "n": 18,
-        "mean": 102.56,
-        "median": 81.0,
+      "13": {
+        "n": 4,
+        "mean": 37,
+        "median": 32.0,
         "top": {
-          "impressions": 301,
+          "impressions": 84,
+          "text": "Cubs are 58-45 \u2014 No. 1 NL Wild Card \u2014 and they just won in extras with a thinned-out rotation.\n\nThe Phillies and D-backs are chasing. The Cubs are finding ways to win.\n\nThat's the difference right now.\n\n#Cubs #NorthSiders #MLB"
+        }
+      },
+      "12": {
+        "n": 19,
+        "mean": 111.16,
+        "median": 83,
+        "top": {
+          "impressions": 323,
           "text": "Series finale. Wrigley Field. Tonight.\n\nColin Rea (7-6, 4.74 ERA) faces Keider Montero (6-5, 3.22 ERA) at 7:10 PM CT. Montero's been quietly solid \u2014 this isn't a gimme.\n\nCubs tied the series 1-1 with an 11-run statement. Time to close it ou"
         }
       },
       "10": {
-        "n": 12,
-        "mean": 237.17,
-        "median": 107.0,
+        "n": 13,
+        "mean": 232.69,
+        "median": 120,
         "top": {
           "impressions": 1166,
           "text": "Aroldis Chapman: 2.20 ERA. 19 saves. Still elite at 38.\n\nThe Cubs are connected. He closed Game 7 for this team in 2016. Palencia is on the IL and this bullpen has no true closer.\n\n17 days to August 3. The reunion is writing itself. \u26be\n\n#Cub"
         }
       },
       "9": {
-        "n": 15,
-        "mean": 1038.47,
-        "median": 119,
+        "n": 16,
+        "mean": 980.62,
+        "median": 118.0,
         "top": {
           "impressions": 13292,
           "text": "Matt Shaw is BACK.\n\nThe Cubs activated him from the IL ahead of the Twins series opener \u2014 a proven bat returning just as the second half begins. \ud83d\udcaa\n\nShaw was locked in before the wrist injury. Getting him back for the stretch run matters.\n\n#"
         }
       },
       "8": {
-        "n": 14,
-        "mean": 108.57,
-        "median": 68.5,
+        "n": 15,
+        "mean": 113.47,
+        "median": 73,
         "top": {
           "impressions": 706,
           "text": "Falling to 49-49 Minnesota at home to open the second half isn't the start Chicago had in mind.\n\n54-43.\n\nWild Card race won't wait for the Cubs to find their footing.\n\n#Cubs #FlyTheW #GoCubs"
         }
       },
       "7": {
-        "n": 17,
-        "mean": 72.59,
-        "median": 67,
+        "n": 18,
+        "mean": 71.61,
+        "median": 66.5,
         "top": {
           "impressions": 206,
           "text": "Cubs vs. Twins. 3 games. Wrigley Field. The second half starts tonight.\n\nCubs (54-42, No. 1 NL Wild Card) host the Twins (48-49) \u2014 both clubs with playoff stakes on the line.\n\nColin Rea vs. Bailey Ober. First pitch 7:05 PM CT. \ud83c\udfdf\ufe0f\n\n#Cubs #Go"
@@ -103,22 +112,22 @@
           "impressions": 136,
           "text": "Owen Ayers made his Triple-A debut in Saturday's 10-9 Iowa loss to Memphis. The No. 10 Cubs prospect joined Iowa after bashing 22 homers for Knoxville.\n\nOne step closer to Wrigley. Keep watching.\n\n#Cubs #CubsBaseball #MLB"
         }
-      },
-      "13": {
-        "n": 3,
-        "mean": 21.33,
-        "median": 0,
-        "top": {
-          "impressions": 64,
-          "text": "MLB-leading WAR entering the break. PCA takes the stage tomorrow night.\n\nCitizens Bank Park, Philadelphia. FOX. 8 PM ET. Chicago's lone rep \u2014 and by the numbers, the best player in baseball. \ud83c\udf1f\n\n#Cubs #GoCubs #CubNation"
-        }
       }
     },
     "by_weekday_ct": {
+      "Sat": {
+        "n": 19,
+        "mean": 121.47,
+        "median": 87,
+        "top": {
+          "impressions": 706,
+          "text": "Falling to 49-49 Minnesota at home to open the second half isn't the start Chicago had in mind.\n\n54-43.\n\nWild Card race won't wait for the Cubs to find their footing.\n\n#Cubs #FlyTheW #GoCubs"
+        }
+      },
       "Fri": {
         "n": 18,
-        "mean": 136.39,
-        "median": 73.0,
+        "mean": 146.39,
+        "median": 94.5,
         "top": {
           "impressions": 1166,
           "text": "Aroldis Chapman: 2.20 ERA. 19 saves. Still elite at 38.\n\nThe Cubs are connected. He closed Game 7 for this team in 2016. Palencia is on the IL and this bullpen has no true closer.\n\n17 days to August 3. The reunion is writing itself. \u26be\n\n#Cub"
@@ -135,10 +144,10 @@
       },
       "Wed": {
         "n": 18,
-        "mean": 121.11,
-        "median": 62.0,
+        "mean": 124.72,
+        "median": 64.0,
         "top": {
-          "impressions": 1071,
+          "impressions": 1096,
           "text": "Trent Thornton update: no fractures.\n\nCT scan clean after Monday's 108.9 mph comebacker. He played catch Tuesday, tests off a mound today, and Thursday's off-day buys extra time.\n\nThe Cubs may dodge another IL stint \u2014 a big deal right now.\n"
         }
       },
@@ -168,22 +177,13 @@
           "impressions": 270,
           "text": "Series finale. Great American Ball Park. 12:40 PM CT.\n\nMatthew Boyd takes the ball against Andrew Abbott and the Reds. Split the first two. One game left.\n\nCubs (53-42) can take this series and head into the All-Star break with all the mome"
         }
-      },
-      "Sat": {
-        "n": 12,
-        "mean": 130.33,
-        "median": 66.0,
-        "top": {
-          "impressions": 706,
-          "text": "Falling to 49-49 Minnesota at home to open the second half isn't the start Chicago had in mind.\n\n54-43.\n\nWild Card race won't wait for the Cubs to find their footing.\n\n#Cubs #FlyTheW #GoCubs"
-        }
       }
     },
     "by_content_type": {
       "brief": {
-        "n": 106,
-        "mean": 238.07,
-        "median": 81.0,
+        "n": 113,
+        "mean": 232.07,
+        "median": 84,
         "top": {
           "impressions": 13292,
           "text": "Matt Shaw is BACK.\n\nThe Cubs activated him from the IL ahead of the Twins series opener \u2014 a proven bat returning just as the second half begins. \ud83d\udcaa\n\nShaw was locked in before the wrist injury. Getting him back for the stretch run matters.\n\n#"
@@ -191,27 +191,27 @@
       }
     },
     "by_opening": {
+      "statement": {
+        "n": 97,
+        "mean": 109.75,
+        "median": 84,
+        "top": {
+          "impressions": 1096,
+          "text": "Trent Thornton update: no fractures.\n\nCT scan clean after Monday's 108.9 mph comebacker. He played catch Tuesday, tests off a mound today, and Thursday's off-day buys extra time.\n\nThe Cubs may dodge another IL stint \u2014 a big deal right now.\n"
+        }
+      },
       "allcaps_lead": {
-        "n": 10,
-        "mean": 1406.7,
-        "median": 99.5,
+        "n": 11,
+        "mean": 1283.09,
+        "median": 79,
         "top": {
           "impressions": 13292,
           "text": "Matt Shaw is BACK.\n\nThe Cubs activated him from the IL ahead of the Twins series opener \u2014 a proven bat returning just as the second half begins. \ud83d\udcaa\n\nShaw was locked in before the wrist injury. Getting him back for the stretch run matters.\n\n#"
         }
       },
-      "statement": {
-        "n": 91,
-        "mean": 106.69,
-        "median": 81,
-        "top": {
-          "impressions": 1071,
-          "text": "Trent Thornton update: no fractures.\n\nCT scan clean after Monday's 108.9 mph comebacker. He played catch Tuesday, tests off a mound today, and Thursday's off-day buys extra time.\n\nThe Cubs may dodge another IL stint \u2014 a big deal right now.\n"
-        }
-      },
       "stat_lead": {
         "n": 5,
-        "mean": 291.8,
+        "mean": 292.8,
         "median": 104,
         "top": {
           "impressions": 1166,
@@ -220,39 +220,39 @@
       }
     },
     "by_len_bucket": {
-      "260+": {
-        "n": 54,
-        "mean": 384.46,
-        "median": 90.0,
+      "140-200": {
+        "n": 3,
+        "mean": 315,
+        "median": 152,
         "top": {
-          "impressions": 13292,
-          "text": "Matt Shaw is BACK.\n\nThe Cubs activated him from the IL ahead of the Twins series opener \u2014 a proven bat returning just as the second half begins. \ud83d\udcaa\n\nShaw was locked in before the wrist injury. Getting him back for the stretch run matters.\n\n#"
+          "impressions": 706,
+          "text": "Falling to 49-49 Minnesota at home to open the second half isn't the start Chicago had in mind.\n\n54-43.\n\nWild Card race won't wait for the Cubs to find their footing.\n\n#Cubs #FlyTheW #GoCubs"
         }
       },
       "200-260": {
-        "n": 50,
-        "mean": 72.32,
-        "median": 64.5,
+        "n": 54,
+        "mean": 78.28,
+        "median": 73.0,
         "top": {
           "impressions": 226,
           "text": "21 days until August 3. The Cubs still need a starter \u2014 and the Joe Ryan trade just got complicated.\n\nMinnesota is in the Wild Card hunt. The Twins aren't selling. Jed Hoyer needs a Plan B, and he needs it fast.\n\n#Cubs #CubsBaseball #MLB"
         }
       },
-      "140-200": {
-        "n": 2,
-        "mean": 429,
-        "median": 429.0,
+      "260+": {
+        "n": 56,
+        "mean": 375.93,
+        "median": 93.0,
         "top": {
-          "impressions": 706,
-          "text": "Falling to 49-49 Minnesota at home to open the second half isn't the start Chicago had in mind.\n\n54-43.\n\nWild Card race won't wait for the Cubs to find their footing.\n\n#Cubs #FlyTheW #GoCubs"
+          "impressions": 13292,
+          "text": "Matt Shaw is BACK.\n\nThe Cubs activated him from the IL ahead of the Twins series opener \u2014 a proven bat returning just as the second half begins. \ud83d\udcaa\n\nShaw was locked in before the wrist injury. Getting him back for the stretch run matters.\n\n#"
         }
       }
     },
     "by_hashtag_count": {
       "3": {
-        "n": 106,
-        "mean": 238.07,
-        "median": 81.0,
+        "n": 113,
+        "mean": 232.07,
+        "median": 84,
         "top": {
           "impressions": 13292,
           "text": "Matt Shaw is BACK.\n\nThe Cubs activated him from the IL ahead of the Twins series opener \u2014 a proven bat returning just as the second half begins. \ud83d\udcaa\n\nShaw was locked in before the wrist injury. Getting him back for the stretch run matters.\n\n#"
@@ -261,18 +261,18 @@
     },
     "by_has_score": {
       "False": {
-        "n": 55,
-        "mean": 376.95,
-        "median": 89,
+        "n": 59,
+        "mean": 361.58,
+        "median": 98,
         "top": {
           "impressions": 13292,
           "text": "Matt Shaw is BACK.\n\nThe Cubs activated him from the IL ahead of the Twins series opener \u2014 a proven bat returning just as the second half begins. \ud83d\udcaa\n\nShaw was locked in before the wrist injury. Getting him back for the stretch run matters.\n\n#"
         }
       },
       "True": {
-        "n": 51,
-        "mean": 88.29,
-        "median": 68,
+        "n": 54,
+        "mean": 90.57,
+        "median": 75.0,
         "top": {
           "impressions": 706,
           "text": "Falling to 49-49 Minnesota at home to open the second half isn't the start Chicago had in mind.\n\n54-43.\n\nWild Card race won't wait for the Cubs to find their footing.\n\n#Cubs #FlyTheW #GoCubs"
@@ -281,17 +281,17 @@
     },
     "by_has_stat": {
       "False": {
-        "n": 77,
-        "mean": 271,
-        "median": 83,
+        "n": 80,
+        "mean": 265.85,
+        "median": 87.5,
         "top": {
           "impressions": 13292,
           "text": "Matt Shaw is BACK.\n\nThe Cubs activated him from the IL ahead of the Twins series opener \u2014 a proven bat returning just as the second half begins. \ud83d\udcaa\n\nShaw was locked in before the wrist injury. Getting him back for the stretch run matters.\n\n#"
         }
       },
       "True": {
-        "n": 29,
-        "mean": 150.62,
+        "n": 33,
+        "mean": 150.18,
         "median": 81,
         "top": {
           "impressions": 1166,
@@ -300,30 +300,30 @@
       }
     },
     "by_has_emoji_first_line": {
-      "True": {
-        "n": 5,
-        "mean": 65.4,
-        "median": 59,
-        "top": {
-          "impressions": 180,
-          "text": "First pitch at PNC Park in 40 minutes. \ud83d\udd25\n\nMatthew Boyd brings a 4-game win streak into Pittsburgh. Jared Jones returns from Tommy John surgery tonight trying to match him.\n\nWild Card standings on the line. The Cubs don't back down. Let's go"
-        }
-      },
       "False": {
-        "n": 101,
-        "mean": 246.61,
-        "median": 81,
+        "n": 108,
+        "mean": 239.26,
+        "median": 85.5,
         "top": {
           "impressions": 13292,
           "text": "Matt Shaw is BACK.\n\nThe Cubs activated him from the IL ahead of the Twins series opener \u2014 a proven bat returning just as the second half begins. \ud83d\udcaa\n\nShaw was locked in before the wrist injury. Getting him back for the stretch run matters.\n\n#"
+        }
+      },
+      "True": {
+        "n": 5,
+        "mean": 76.8,
+        "median": 59,
+        "top": {
+          "impressions": 199,
+          "text": "First pitch at PNC Park in 40 minutes. \ud83d\udd25\n\nMatthew Boyd brings a 4-game win streak into Pittsburgh. Jared Jones returns from Tommy John surgery tonight trying to match him.\n\nWild Card standings on the line. The Cubs don't back down. Let's go"
         }
       }
     },
     "by_has_allcaps": {
       "True": {
-        "n": 82,
-        "mean": 270.32,
-        "median": 78.0,
+        "n": 89,
+        "mean": 260.17,
+        "median": 81,
         "top": {
           "impressions": 13292,
           "text": "Matt Shaw is BACK.\n\nThe Cubs activated him from the IL ahead of the Twins series opener \u2014 a proven bat returning just as the second half begins. \ud83d\udcaa\n\nShaw was locked in before the wrist injury. Getting him back for the stretch run matters.\n\n#"
@@ -343,21 +343,21 @@
   "raw_buckets_engagement_above_median": {
     "by_content_type": {
       "brief": {
-        "n": 54,
-        "mean_rate": 0.0043,
+        "n": 58,
+        "mean_rate": 0.0036,
         "median_rate": 0.0
       }
     },
     "by_opening": {
+      "statement": {
+        "n": 50,
+        "mean_rate": 0.0032,
+        "median_rate": 0.0
+      },
       "allcaps_lead": {
         "n": 5,
-        "mean_rate": 0.007,
+        "mean_rate": 0.0069,
         "median_rate": 0.0072
-      },
-      "statement": {
-        "n": 46,
-        "mean_rate": 0.004,
-        "median_rate": 0.0
       },
       "stat_lead": {
         "n": 3,
@@ -367,25 +367,25 @@
     },
     "by_has_score": {
       "False": {
-        "n": 33,
-        "mean_rate": 0.005,
+        "n": 35,
+        "mean_rate": 0.0035,
         "median_rate": 0.0
       },
       "True": {
-        "n": 21,
-        "mean_rate": 0.0032,
+        "n": 23,
+        "mean_rate": 0.0038,
         "median_rate": 0.0
       }
     },
     "by_has_stat": {
       "False": {
-        "n": 39,
-        "mean_rate": 0.0037,
+        "n": 43,
+        "mean_rate": 0.003,
         "median_rate": 0.0
       },
       "True": {
         "n": 15,
-        "mean_rate": 0.006,
+        "mean_rate": 0.0055,
         "median_rate": 0.0
       }
     }
@@ -414,9 +414,9 @@
     {
       "posted_at": "2026-07-22 09:30 CT",
       "content_type": "brief",
-      "impressions": 1071,
+      "impressions": 1096,
       "engagement": 21,
-      "engagement_rate": 0.0196,
+      "engagement_rate": 0.0192,
       "opening": "statement",
       "len": 265,
       "text": "Trent Thornton update: no fractures.\n\nCT scan clean after Monday's 108.9 mph comebacker. He played catch Tuesday, tests off a mound today, and Thursday's off-day buys extra time.\n\nThe Cubs may dodge another IL stint \u2014 a big deal right now.\n\n#Cubs #MLB #CubsBaseball"
