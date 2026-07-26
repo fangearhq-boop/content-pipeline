@@ -2,6 +2,53 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-07-26
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-26 | T1 | 3M Open Final Round — Jackson Koivun's -20 Chase; Tournament-Record Back-Nine 28; Eagles on 12 and 18 | X, FB, Article | FOLLOW UP |
+| 2026-07-26 | T1 | LIV Golf UK — Lucas Herbert Wire-to-Wire Win at JCB Golf & Country Club (-20, Opened with 61) | X, FB, Article | FOLLOW UP |
+| 2026-07-26 | T2 | Lottie Woad Defends Women's Scottish Open at -21; Erases Jenny Shin's Five-Shot Halfway Lead | X, FB, Article | FOLLOW UP |
+| 2026-07-26 | T2 | LIV Golf Financial Crisis — Every Remaining Tournament "On the Fence"; Gene Davis + Jon Zinman Seek Bridge Capital | X, FB, Article | FOLLOW UP |
+| 2026-07-26 | T2 | Ryan Fox — From Tied 85th to Open Champion; Final 36 Holes of 62-68 Match Open Record; Beat Cameron Young by One | X, FB, Article | FOLLOW UP |
+
+### STORY 1: 3M Open Final Round — Koivun -20
+- **Tier:** 1
+- **Category:** PGA Tour / 3M Open / TPC Twin Cities
+- **Key facts:** Koivun 61 in R3 / tournament-record back-nine 28 / eagles 12+18 / -20 total / 3-shot lead over Grillo+Kohles (-17) / Lee+Hossler -16 / Scheffler -14 / Michael Kim T6 -15 / final round tees off ~1:40 PM ET / Koivun age 21 / first full PGA Tour season
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Final round result; first Tour win; Scheffler charge
+
+### STORY 2: LIV Golf UK — Herbert Wire-to-Wire
+- **Tier:** 1
+- **Category:** LIV Golf / JCB Golf & Country Club
+- **Key facts:** Herbert opened 61 (-11) / led every round / -20 overall / 4-shot lead through back nine of final round / DeChambeau 2nd / Hatton 3rd (-15) / Smith 4th (-14) / Ripper GC dominant in team competition / wire-to-wire = hardest win in golf
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Confirmed final result; Ripper GC team title; Herbert 2026 LIV season standings
+
+### STORY 3: Lottie Woad — Women's Scottish Open
+- **Tier:** 2
+- **Category:** LPGA / Women's Scottish Open / Dundonald Links
+- **Key facts:** Woad wins at -21 / Hyo Joo Kim 2nd at -18 (3 back) / Jenny Shin's 5-shot halfway lead gone / back-to-back Dundonald Links titles for Woad / England / AIG Women's British Open next (Royal Porthcawl)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** AIG Women's British Open preview featuring Woad as momentum favorite
+
+### STORY 4: LIV Golf Financial Crisis
+- **Tier:** 2
+- **Category:** LIV Golf / Business / Crisis
+- **Key facts:** "Every remaining tournament on the fence" per high-ranking insiders / PIF withdrawing $5B after 2026 / Gene Davis + Jon Zinman (corporate restructuring specialists) on new board / seeking bridge capital from PE or other investors / most severe LIV operational crisis to date
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Bridge capital announcement; event cancellation/postponement; player contract status
+
+### STORY 5: Ryan Fox — Open Champion Story
+- **Tier:** 2
+- **Category:** Open Championship / Ryan Fox / Legacy
+- **Key facts:** Fox T-85 after R1 / T-52 after R2 / shot 62 R3 + 68 R4 = 130 final 36 holes (matches Open record) / won at -10 / beat Cameron Young by 1 / Sam Burns T3 / from New Zealand / quote: "I used to get up in the middle of the night to watch this tournament back home"
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Fox world ranking climb; Ryder Cup implications; New Zealand golf legacy piece
+
+---
+
 ## 2026-07-24
 
 | Date | Tier | Story | Platforms | Status |

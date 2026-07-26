@@ -1,10 +1,21 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
-- **Date**: 2026-07-25
+- **Date**: 2026-07-26
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-26
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 8 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway)
+- **PostPlanner exports:** gfr-postplanner-2026-07-26.xlsx (8 posts) + gfr-postplanner-tobi-2026-07-26.xlsx (8 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-07-26/review-dashboard.html (23 items)
+- **Notes:** 3M OPEN FINAL ROUND — Koivun leads at -20 (61 in R3, tournament-record back-nine 28, eagles 12+18, 3-shot lead over Grillo/Kohles, Scheffler -14 lurking, Michael Kim fell to T6 -15); LIV GOLF UK — Lucas Herbert wire-to-wire win at JCB G&CC (-20, opened with 61, led every round, 4-shot lead through back nine, DeChambeau 2nd, Hatton 3rd -15, Ripper GC dominant team); WOMEN'S SCOTTISH OPEN — Lottie Woad defends title at -21 (3 clear of Hyo Joo Kim -18; Jenny Shin's 5-shot halfway lead gone; back-to-back Dundonald Links titles; AIG Women's British Open next); LIV GOLF FINANCIAL CRISIS — every remaining tournament "on the fence" per insiders; Gene Davis + Jon Zinman (restructuring specialists) on board seeking bridge capital after PIF $5B withdrawal; RYAN FOX OPEN CHAMPION — T-85 after R1 / T-52 after R2 / shot 62-68 (final 36 holes matches Open record) / won at -10 / beat Cameron Young by 1 / "I used to get up in the night to watch this" (New Zealand)
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-25
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
