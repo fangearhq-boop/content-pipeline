@@ -1,0 +1,245 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-26",
+  "compiled_at": "2026-07-26T10:33:35.209570+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "MLB Hall of Fame Induction Day — Beltran, Jones, and Kent Enshrined at Cooperstown",
+      "tier": 1,
+      "status": "",
+      "angle": "The 2026 Baseball Hall of Fame induction ceremony takes place today at Clark Sports Center, Cooperstown — the first Sunday of HOF Weekend, July 24-27. Carlos Beltrán (Mets cap), Andruw Jones (Braves cap), and Jeff Kent (Giants cap) become the 346th, 347th, and 348th members of the Hall. A record 61 Hall of Famers are attending. Beltrán, a nine-time All-Star and three-time Gold Glover, was elected by BBWAA in his fourth try. Jones, who won 10 consecutive Gold Gloves with Atlanta, was elected in his ninth BBWAA try. Jeff Kent — the all-time leader in home runs by a second baseman (351 as a 2B, 377 career) and the 2000 NL MVP — was elected by the Contemporary Baseball Era Committee last December.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Today in Cooperstown:\n\nCarlos Beltrán. Andruw Jones. Jeff Kent.\n\nThree Hall of Famers. A record 61 current HOFers in attendance. The ceremony begins at 1:30 PM ET on MLB Network. #HOF2026 #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HOF2026",
+            "#MLB"
+          ],
+          "char_count": 192
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The Hall of Fame Class of 2026:\n\nBeltrán — 9× All-Star. 3 Gold Gloves. 435 HR.\nJones — 10 consecutive Gold Gloves. The best defensive CF who ever played.\nKent — 351 HR as a 2B. All-time record. 2000 NL MVP.\n\nThey belong. #HOF2026 #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HOF2026",
+            "#MLB"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-hof-2026-beltran-jones-kent-cooperstown-induction.html",
+        "headline": "Carlos Beltrán, Andruw Jones, and Jeff Kent Join the Hall of Fame at Cooperstown",
+        "word_count": 709
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hall of Fame Induction — Beltran, Jones, Kent\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** Carlos Beltran New York Mets\n- **Caption overlay:** \"HALL OF FAME CLASS OF 2026\"\n- **Use:** Lead X post and FB\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** Andruw Jones Atlanta Braves\n- **Caption overlay:** \"COOPERSTOWN — JULY 26, 2026\"\n- **Use:** Second X post / FB\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Ohtani Setback — Skips Bullpen Session, Says Knee Still Not 100%",
+      "tier": 1,
+      "status": "",
+      "angle": "Shohei Ohtani was scheduled to throw a bullpen session Sunday at Citi Field. He did not. Manager Dave Roberts told reporters the session was skipped because of \"regression\" in the left knee — Ohtani had thrown approximately 30 pitches in a bullpen on July 22, but his most recent assessment showed he \"just doesn't feel 100%.\" Roberts indicated Ohtani won't return to the mound until the knee is fully right. He has not pitched in a game since July 3 (8-2, 1.79 ERA, 95K in 85.2 IP). His return is now August at the earliest. He continues to DH and hit .288/.397/.536.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Shohei Ohtani was scheduled to throw a bullpen today.\n\nHe didn't. Manager Dave Roberts called it \"a little bit of regression\" in the left knee.\n\nOhtani won't pitch until the knee is 100%. He last threw in a game July 3. #Dodgers #MLB #ShoheiOhtani",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#MLB",
+            "#ShoheiOhtani"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-ohtani-setback-skips-bullpen-knee-regression.html",
+        "headline": "Ohtani Skips Sunday Bullpen, Roberts Cites 'Regression' — Pitching Return Now August at Earliest",
+        "word_count": 583
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ohtani Setback\n\n#### Image Concept 3 — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** Shohei Ohtani Los Angeles Dodgers pitching\n- **Caption overlay:** \"OHTANI UPDATE — LEFT KNEE\"\n- **Use:** X post and FB\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Trade Deadline — Tigers Leaning Toward Keeping Skubal; Abrams, Miller Heating Up",
+      "tier": 2,
+      "status": "",
+      "angle": "Eight days to the August 3 deadline and the Tarik Skubal trade market is evolving. Detroit is now leaning toward keeping their two-time Cy Young winner — the Tigers have gone 25-15 since June 1 and are within striking distance in the AL Central. Multiple rival executives believe the Tigers will hold. Meanwhile: CJ Abrams (Nationals) is available — Yankees, Brewers, and Red Sox all have interest. Mason Miller (Padres closer) is the subject of conflicting reports — some believe a trade is inevitable, others say he stays. The Dodgers are aggressive buyers targeting a historic three-peat. Deadline is August 3 at 6 PM ET.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "8 days to the August 3 deadline:\n\n→ Tigers leaning toward keeping Tarik Skubal\n→ Nationals listening on CJ Abrams (Yankees, Brewers, Red Sox)\n→ Mason Miller (Padres): conflicting signals\n\nDeadline: Aug 3, 6 PM ET. #MLB #TradeDeadline",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#TradeDeadline"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-trade-deadline-skubal-abrams-miller-8-days.html",
+        "headline": "Trade Deadline in 8 Days: Tigers May Keep Skubal, Abrams and Miller Markets Active",
+        "word_count": 620
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Trade Deadline\n\n#### Image Concept 4 — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** Tarik Skubal Detroit Tigers\n- **Caption overlay:** \"8 DAYS TO THE DEADLINE\"\n- **Use:** X post and FB\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Pete Crow-Armstrong Breaks the Statcast 5-Star Catch Record",
+      "tier": 2,
+      "status": "",
+      "angle": "Pete Crow-Armstrong owns the Statcast record for the most 5-star catches in history. The Chicago Cubs outfielder broke the previous record — held by Kevin Kiermaier — when he recorded his 33rd career five-star catch (a play with 25% or lower catch probability) on July 21. He got there in fewer opportunities than any other player in Statcast history. At 24 years old, having made his MLB debut in September 2023, PCA has surpassed every outfielder who came before him in this specific measure of defensive excellence. This is the best center fielder alive — and his offense is growing to match.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Pete Crow-Armstrong now holds the Statcast record for career five-star catches.\n\n33 catches. Fewer than 2.5 seasons. Fewer opportunities than anyone else in the top 10.\n\nHe's 24 years old. Kevin Kiermaier's record is gone. #Cubs #MLB #PeteCA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#PeteCA"
+          ],
+          "char_count": 241
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-pete-crow-armstrong-statcast-5-star-catch-record.html",
+        "headline": "Pete Crow-Armstrong Breaks the Statcast Record for 5-Star Catches — and He Is Only 24",
+        "word_count": 574
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Pete Crow-Armstrong Record\n\n#### Image Concept 5 — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** Pete Crow-Armstrong Chicago Cubs\n- **Caption overlay:** \"ALL-TIME STATCAST RECORD — 5-STAR CATCHES\"\n- **Use:** X post and FB\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Kyle Schwarber Leads MLB with 32 HR at 35 — On Pace for 60 Again",
+      "tier": 3,
+      "status": "",
+      "angle": "Kyle Schwarber is 35 years old and leading Major League Baseball in home runs with 32. Yordan Alvarez is second at 31. Ben Rice is third at 29. Schwarber led the NL with 56 home runs in 2025. At his current pace in 2026, he is on track to approach or surpass that number again. The Phillies' DH/left fielder is not supposed to be doing this at his age. Most power hitters peak in their mid-to-late 20s and decline through their 30s. Schwarber keeps hitting balls over fences at a rate that defies every historical pattern in the sport.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Kyle Schwarber leads MLB with 32 home runs.\n\nHe is 35 years old. He led the NL with 56 HR last season.\n\nYordan Alvarez (31) and Ben Rice (29) are chasing. Schwarber is on pace to approach 60 again. #Phillies #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Phillies",
+            "#MLB"
+          ],
+          "char_count": 212
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-schwarber-32-hr-leader-age-35-on-pace-60.html",
+        "headline": "Kyle Schwarber Leads MLB with 32 Home Runs at 35 — On Pace to Threaten 60 Again",
+        "word_count": 538
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Kyle Schwarber\n\n#### Image Concept 6 — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** Kyle Schwarber Philadelphia Phillies\n- **Caption overlay:** \"32 HR. MLB LEADER. AGE 35.\"\n- **Use:** X post and FB\n\n---\n\n## Article Heroes\n\n#### Image Concept 7 — Article Hero (1200x630)\n- **Type:** imagn\n- **Search terms:** Carlos Beltran Hall of Fame\n- **Use:** Story 1 article\n\n#### Image Concept 8 — Article Hero (1200x630)\n- **Type:** imagn\n- **Search terms:** Shohei Ohtani Dodgers batting\n- **Use:** Story 2 article\n\n#### Image Concept 9 — Article Hero (1200x630)\n- **Type:** imagn\n- **Search terms:** Pete Crow-Armstrong center field Cubs\n- **Use:** Story 4 article\n\n#### Image Concept 10 — Article Hero (1200x630)\n- **Type:** imagn\n- **Search terms:** Kyle Schwarber home run swing\n- **Use:** Story 5 article"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
