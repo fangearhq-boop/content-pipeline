@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-07-26
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-26 | T1 | Hungarian GP Round 11 — Norris Pole, Antonelli Triple Penalty, Norris P7 in Race | X, FB, Article | NEW |
+| 2026-07-26 | T1 | Verstappen Exit Clause Active — McLaren Talks in "Closing Stages" | X, FB, Article | FOLLOW UP |
+| 2026-07-26 | T2 | F1 Championship Summer Break — Antonelli Leads Hamilton by 45pts | X, FB, Article | FOLLOW UP |
+| 2026-07-26 | T2 | Fernando Alonso Summer Break Decision — Retire or Race? | X, FB, Article | FOLLOW UP |
+| 2026-07-26 | T2 | FIA Energy Management Tweaks — Changes Before September | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Hungarian GP Round 11 — Race Result
+- **Tier:** 1
+- **Category:** Race Weekend / Race Result
+- **Key facts:** Norris pole (1:17.207, McLaren's first pole of 2026, ended Mercedes 10-race streak); Hamilton P2 → P5 grid penalty (impeding Piastri); Antonelli triple punishment: P4 → P7 + penalty point + warning (yellow flag breach); Final grid: Norris P1/Leclerc P2/Piastri P3/Verstappen P4/Hamilton P5/Russell P6/Antonelli P7; Race: Norris finished P7 (confirmed F1.com); Podium (MEDIUM): Leclerc P2, Verstappen P3; Race winner unconfirmed in indexed results
+- **Status:** NEW
+- **Follow-up ideas:** Confirmed race winner; championship gap update; Dutch GP preview
+
+### STORY 2: Verstappen Exit Clause Active
+- **Tier:** 1
+- **Category:** Driver Market / Verstappen
+- **Key facts:** Exit clause triggered (not top 2 after summer break cutoff); clause activated post-Hungary; McLaren talks in "closing stages" (SportBible); Lambiase (race engineer) reportedly leaving Red Bull for McLaren; Piastri denies swap rumors, says seat secure; Red Bull deny any deal signed; Verstappen 7th/91pts, 128 back from Antonelli
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official announcement; McLaren/Red Bull confirmation; 2027 grid cascade
+
+### STORY 3: Championship Standings at Summer Break
+- **Tier:** 2
+- **Category:** Championship Analysis
+- **Key facts:** Antonelli 204pts (+Hungarian GP result); Hamilton 159pts (-45); Russell ~154pts; Leclerc 126pts; Verstappen 7th/91pts; Mercedes leads constructors +73 over Ferrari; 12 rounds remain; Antonelli would be youngest F1 champion ever (younger than Vettel at 23 in 2010)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Updated standings post-Hungary; Dutch GP preview
+
+### STORY 4: Fernando Alonso Summer Break Decision
+- **Tier:** 2
+- **Category:** Driver News / Aston Martin
+- **Key facts:** Decision on retirement/continuation expected summer break; Aston Martin 0 points in 2026; 16-part upgrade package at Hungary (Newey's "just the first part"); Honda power unit upgrade at Dutch GP; back injury FP1 Hungary (medically cleared FP2); Alonso is 45; decision before season resumes
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official announcement; Aston Martin 2027 planning; 16-part upgrade performance data
+
+### STORY 5: FIA Energy Management Tweaks
+- **Tier:** 2
+- **Category:** Technical / Regulations
+- **Key facts:** FIA discussing mid-season tweaks to 2026 energy management; speed differentials on straights = safety concern; 50/50 hybrid, ~350kW ERS, no MGU-H; Overtake Mode timing changes proposed; changes expected before season resumes; formal announcement target during summer break
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Specific changes announced; implementation timing
+
 ## 2026-07-24
 
 | Date | Tier | Story | Platforms | Status |

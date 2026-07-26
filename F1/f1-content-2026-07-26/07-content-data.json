@@ -1,0 +1,332 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-26",
+  "compiled_at": "2026-07-26T11:35:34.567743+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Hungarian GP Race Result — Round 11 at the Hungaroring",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Norris: pole to P7.\nAntonelli: P4 to P7 (triple penalty).\nHamilton: P2 to P5 (grid drop).\n\nThe Hungarian GP qualifying scrambled the whole championship picture — and then the race scrambled it again.\n\nLast race before summer break. 🏎️ #HungarianGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HungarianGP",
+            "#F1"
+          ],
+          "char_count": 251
+        },
+        {
+          "label": "Post 1-2",
+          "text": "McLaren's first pole of 2026. Norris, 1:17.207.\n\nHe ended Mercedes' 10-race pole streak in Q3 — then finished P7.\n\nLeclerc P2. Verstappen P3.\n\nHungary never races the way you expect it to. 🏁 #HungarianGP #F1 #Formula1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HungarianGP",
+            "#F1",
+            "#Formula1"
+          ],
+          "char_count": 217
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-hungarian-gp-race-result-round-11.html",
+        "headline": "Hungarian GP Round 11: Norris Poles, Antonelli Penalized, and the Last Race Before Summer",
+        "word_count": 807
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Hungarian GP Race Result — Round 11\n**Sources:** F1.com, Sky Sports F1, Crash.net, ESPN, PlanetF1\n**Key Facts (Confidence Tagged):**\n- [HIGH] Hungarian GP is Round 11 of 2026 FIA F1 World Championship — Hungaroring, Budapest — final race before summer break\n- [HIGH] Qualifying pole: Lando Norris (McLaren), 1:17.207 — McLaren's first pole of 2026, ending Mercedes' 10-race pole streak — formula1.com\n- [HIGH] Hamilton qualified P2 (0.012s back), Leclerc P3, Verstappen P4, Piastri P5, Russell P6, Antonelli P7 — formula1.com qualifying report\n- [HIGH] Hamilton penalized -3 grid places (P2 → P5) for impeding Piastri in Q3 — Sky Sports\n- [HIGH] Antonelli received triple punishment: -3 grid places (P4 → P7) + 1 penalty point + warning for failing to slow under yellow flags when Verstappen spun — PlanetF1, formula1.com\n- [HIGH] Final starting grid: Norris P1 / Leclerc P2 / Piastri P3 / Verstappen P4 / Hamilton P5 / Russell P6 / Antonelli P7 — Crash.net\n- [HIGH] Race result: Norris finished P7 — confirmed by official F1.com post-race video titled \"Race didn't go to plan for Lando Norris with P7 finish in Hungary\" — formula1.com\n- [MEDIUM] Partial podium: Leclerc P2, Verstappen P3 — indicated by multiple source snippets, not formally confirmed\n- [MEDIUM] Race winner: Not definitively confirmed in indexed results — most likely Piastri (started P3, no negative reports) or Antonelli (strategy recovery from P7) — treat as MEDIUM\n**Freshness:** Race completed today; winner not yet indexed — write race article around confirmed qualifying drama and partial podium data.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Verstappen's Exit Clause — Decision After Summer Break",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Max Verstappen's performance clause at Red Bull has officially triggered.\n\nHe's not in the top 2 of the championship after the summer break cutoff.\n\nBroad terms with McLaren are reportedly worked out.\n\nThe decision is coming. #F1 #Verstappen #F1TransferMarket",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Verstappen",
+            "#F1TransferMarket"
+          ],
+          "char_count": 259
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Verstappen exit clause: active.\n\nMcLaren talks: \"closing stages.\"\n\nHis race engineer Lambiase reportedly leaving Red Bull for McLaren too.\n\n17 drivers OOC for 2027. The cascade starts with Max.\n\nWatch this space. #F1 #Verstappen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Verstappen"
+          ],
+          "char_count": 228
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-verstappen-exit-clause-decision.html",
+        "headline": "Max Verstappen's Exit Clause Has Been Triggered — The Summer of Decision Begins",
+        "word_count": 672
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen Exit Clause — Decision Expected\n**Sources:** Autosport, RacingNews365, Sky Sports F1, Formula1.com\n**Key Facts (Confidence Tagged):**\n- [HIGH] Max Verstappen has a performance-based exit clause in his Red Bull contract that activates if he is not in the top 2 of the championship after the Hungarian GP (summer break cutoff) — pipeline-status.md 2026-07-25\n- [HIGH] Verstappen is 7th in the championship with 91 points, 128 points behind Antonelli — pipeline-status.md 2026-07-25 (story history)\n- [HIGH] McLaren and Verstappen's camp have reportedly worked out \"broad terms\" — pipeline-status.md 2026-07-25\n- [HIGH] No deal has been signed as of July 25 — pipeline-status.md\n- [HIGH] Decision on Verstappen's future expected after summer break — pipeline-status.md\n- [MEDIUM] Verstappen manager Raymond Vermeulen: \"wants to finish his career here\" — pipeline-status July 24 (single source, may have changed)\n- [MEDIUM] Journalist Tom Clarkson: \"[Max] is going to stay [2027]\" — pipeline-status July 24 (single source)\n**Freshness:** Exit clause now officially triggered post-Hungarian GP; decision imminent.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Championship Standings After Hungarian GP",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "F1 championship standings heading into the summer break:\n\n🥇 Antonelli — 204 pts (+ Hungarian GP result)\n🥈 Hamilton — 159 pts\n🥉 Russell — 154 pts\n\n12 rounds left. 316 points available.\n\nCan anyone catch the 21-year-old? #F1 #Formula1 #Championship",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Formula1",
+            "#Championship"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-f1-championship-summer-break-standings.html",
+        "headline": "Summer Break Championship Report: Antonelli Leads, Hamilton Chases, and 12 Rounds Remain",
+        "word_count": 686
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Championship Standings Post-Hungary\n**Sources:** Formula1.com points tracker, ESPN, Autosport\n**Key Facts (Confidence Tagged):**\n- [HIGH] Pre-race standings: Antonelli 204 / Hamilton 159 / Russell 154 / Leclerc 126 / Verstappen 91 (7th) — pipeline-status 2026-07-25 story history\n- [HIGH] Mercedes leads constructors over Ferrari — pipeline notes\n- [HIGH] 12 rounds remaining after Hungary (through Abu Dhabi), 316 points available — pipeline notes\n- [HIGH] Antonelli (21) would be youngest F1 World Champion in history if he wins the title — pipeline notes\n- [MEDIUM] Post-race standings update — to be updated with Hungarian GP result\n**Freshness:** Championship picture crystallizes after final pre-break race.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Alonso's Summer Break Decision — Retire or Continue?",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The clock is ticking for Fernando Alonso.\n\nHe said his retirement decision comes during the summer break.\n\nAston Martin hasn't scored a point in 2026. He's 45.\n\nTwo world titles. Zero points this year.\n\nWhat does the greatest active driver do next? #F1 #Alonso",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Alonso"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-alonso-summer-break-decision.html",
+        "headline": "The Clock Is Ticking for Fernando Alonso: Retire or Race One More Year?",
+        "word_count": 574
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Alonso Summer Break Decision\n**Sources:** Sky Sports F1, Motorsport.com, Autosport\n**Key Facts (Confidence Tagged):**\n- [HIGH] Fernando Alonso is in his final year of his current Aston Martin contract — pipeline-status 2026-07-25 story history\n- [HIGH] Alonso said his retirement/continuation decision would come during the summer break — pipeline notes\n- [HIGH] Aston Martin has scored zero points in 2026 — pipeline-status 2026-07-25\n- [HIGH] Despite having Adrian Newey as technical director and Honda power — pipeline notes\n- [HIGH] Alonso is 45 years old in 2026 — background knowledge\n- [HIGH] Alonso missed FP1 at Hungary due to back injury, was medically cleared for FP2 — pipeline-status July 24\n- [MEDIUM] Confirmed that Alonso's future is officially undecided — single-source territory\n**Freshness:** Summer break begins today — Alonso decision expected within weeks.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "FIA Energy Management Changes — 2026 Rule Tweaks Ahead",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The 2026 F1 power unit created a problem: massive speed differentials on straights when energy depletes.\n\nIt's a safety issue. The FIA knows it.\n\nRule tweaks are coming before the season resumes.\n\n50/50 hybrid power — harder than it looks. #F1 #Formula1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Formula1"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-fia-energy-management-2026-tweaks.html",
+        "headline": "F1's 2026 Speed Problem: Why the FIA Is Changing Energy Management Regulations Before September",
+        "word_count": 623
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "FIA 2026 Energy Management Tweaks\n**Sources:** Autosport, The Race, RacingNews365\n**Key Facts (Confidence Tagged):**\n- [HIGH] FIA has been discussing mid-season tweaks to 2026 power unit energy management regulations — pipeline-status 2026-07-25 story history\n- [HIGH] Issue: excessive energy derating creates large speed differentials on straights = safety concern — pipeline notes\n- [HIGH] 2026 power unit design: 50/50 internal combustion/hybrid split, ~350kW ERS, no MGU-H — pipeline notes\n- [MEDIUM] Specific proposed changes not yet confirmed — pipeline note says \"targeting tweaks\"\n- [MEDIUM] Timeline for implementation: second half of season — pipeline notes\n**Freshness:** Ongoing regulatory discussion; summer break provides ideal window for implementation decisions.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

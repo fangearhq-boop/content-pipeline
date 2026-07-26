@@ -1,10 +1,21 @@
 # F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
-- **Date**: 2026-07-25
+- **Date**: 2026-07-26
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-26
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss)
+- **PostPlanner exports:** f1fr-postplanner-2026-07-26.xlsx (7 posts) + f1fr-postplanner-tobi-2026-07-26.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-07-26/review-dashboard.html (22 items)
+- **Notes:** HUNGARIAN GP RACE DAY — Norris pole (1:17.207, McLaren's first 2026 pole, ends Mercedes 10-race streak); Hamilton P2→P5 grid penalty (impeding Piastri); Antonelli triple punishment P4→P7 (yellow flag breach, +penalty pt, +warning); Final grid: Norris/Leclerc/Piastri/Verstappen/Hamilton/Russell/Antonelli; Race: Norris finished P7 (confirmed); Partial podium: Leclerc P2/Verstappen P3 (MEDIUM); race winner not confirmed in indexed results; Verstappen exit clause active (McLaren "closing stages", Lambiase reportedly leaving Red Bull for McLaren); Antonelli 204pts leads Hamilton 159pts at summer break; Alonso decision expected this break; FIA energy management tweaks coming
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-25
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
