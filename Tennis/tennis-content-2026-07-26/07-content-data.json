@@ -1,0 +1,312 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-26",
+  "compiled_at": "2026-07-26T12:18:42.537732+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 (Halys wins Kitzbühel)",
+      "type": "X + FB"
+    },
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 (Halys wins Kitzbühel)",
+      "type": "X"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2 (Estoril final preview)",
+      "type": "X + FB"
+    },
+    {
+      "time": "11:30 AM",
+      "description": "Story 2 (Estoril)",
+      "type": "X"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 3 (WTA Hamburg final)",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 (WTA Prague final/Tagger)",
+      "type": "X + FB"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 5 (Clay season finale)",
+      "type": "X + FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Halys Makes History — Maiden ATP Title in Kitzbühel",
+      "tier": 1,
+      "status": "",
+      "angle": "NEW STORY — Quentin Halys (FRA, 29) defeated defending champion Alexander Bublik (KAZ, No. 1 seed) 6-4, 7-6(6) in the Generali Open Kitzbühel final on Saturday July 25 to claim his first career ATP title. The win ended a 14-year professional journey — Halys earned his first ATP ranking point in 2012 at age 15. He became the first Frenchman to win the Kitzbühel title in the Open Era (France was 0-6 in previous Kitzbühel finals). Halys fired 17 aces and never faced a break point in the match (1h33m). He rises 32 places to No. 51 in the ATP Rankings (career high was No. 46). Bublik's bid for the first Kitzbühel title defense since 2013 came up short.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "HE DID IT. 🏆\n\nQuentin Halys defeats defending champion Bublik 6-4, 7-6(6) to win his FIRST ATP title in Kitzbühel.\n\n14 years. First Frenchman to win here in the Open Era.\n\n17 aces. Zero break points faced. A dream day.\n\n#Tennis #Kitzbuhel #ATPTour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#Kitzbuhel",
+            "#ATPTour"
+          ],
+          "char_count": 247
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Halys won his first ATP ranking point at 15 years old — in 2012. 🎾\n\nToday at 29, he claimed his first ATP title.\n\nFrance had never won at Kitzbühel in the Open Era. Until now.\n\n#ATP #Tennis #Halys",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATP",
+            "#Tennis",
+            "#Halys"
+          ],
+          "char_count": 196
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-halys-wins-kitzbuhel-first-atp-title.html",
+        "headline": "Halys Makes History in Kitzbühel: First ATP Title After 14-Year Journey",
+        "word_count": 560
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Halys Wins Kitzbühel\n\n**X Image (1200×675):**\n- Search term: \"Quentin Halys France\"\n- Caption credit: \"(USA TODAY Sports Images)\"\n- Text overlay: \"FIRST ATP TITLE — Halys Wins Kitzbühel 6-4, 7-6(6)\"\n\n**Facebook Image (1200×630):**\n- Search term: \"Quentin Halys France\"\n- Caption credit: \"(USA TODAY Sports Images)\"\n- Text overlay: \"HALYS — Maiden ATP Title, Kitzbühel 2026\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Halys Wins Kitzbühel\n**Sources:**\n- ATP Tour official (atptour.com/en/news/bublik-halys-kitzbuhel-2026-final)\n- Tennis Tonic (tennistonic.com — \"LIVE UPDATE. Quentin Halys claims the Generali Open\")\n- TennisUpToDate (tennisuptodate.com — \"Kitzbuhel Open ATP Final Round-up\")\n- TennisTemple (en.tennistemple.com — \"Quentin Halys defeats Alexander Bublik at Kitzbuhel 2026\")\n- SofaScore (sofascore.com — \"Halys serves past top seed Bublik\")\n- World Tennis Magazine (worldtennismagazine.com — full feature)\n- UbiTennis (ubitennis.net — \"Quentin Halys Achieves Lifelong Dream\")\n- ATP First-Time Winner spotlight (atptour.com/en/news/halys-kitzbuhel-2026-first-time-winner)\n**Key Facts (confidence levels):**\n- Score: Halys def. Bublik 6-4, 7-6(6) — HIGH (multiple sources)\n- Match duration: 1h33m — HIGH (multiple sources)\n- Halys age: 29 — HIGH\n- Halys nationality: French — HIGH\n- Halys first ATP ranking point: 2012 (age 15) — HIGH (ATP first-timer profile)\n- 14-year journey — HIGH (corroborated: 2012 to 2026 = 14 years)\n- First Frenchman to win Kitzbühel in the Open Era — HIGH (ATP Tour cited)\n- French record in Kitzbühel finals: 0-6 before today — HIGH (ATP Tour)\n- 17 aces in the final — HIGH (multiple sources)\n- Never faced a break point in the final — HIGH (multiple sources)\n- Rises 32 spots to No. 51 — HIGH (ATP Tour official)\n- Career high was No. 46 — MEDIUM (single source check needed)\n- Bublik's bid was for first Kitzbühel defense since 2013 — HIGH (pipeline context)\n**Freshness:** Final was Saturday July 25 — confirmed result, published Sunday July 26.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Estoril Final — Van Assche vs. Blockx (All-Unseeded ATP 250 Decider)",
+      "tier": 1,
+      "status": "",
+      "angle": "NEW STORY — The Millennium Estoril Open (ATP 250, clay) reaches its final today (Sunday July 26) with an unprecedented all-unseeded matchup: Luca Van Assche (FRA, No. 78) vs. Alexander Blockx (BEL). Van Assche stunned top seed Rublev in the QF (\"biggest win of my career\") then beat Hugo Gaston 6-4, 7-5 in an all-French SF. Blockx pulled off one of the week's great comebacks in his SF: trailed Darderi 5-7, 0-5 in the third set before reeling off seven consecutive games to win 5-7, 7-6(1), 7-6(5). Quote from Blockx: \"I have no words.\" Both players are competing in their first ATP 250 final. Final at 3:00 PM local (10:00 AM ET).",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Blockx was down 5-7, 0-5 in the third set.\n\nHe won seven straight games. Final.\n\nVan Assche stunned No. 1 seed Rublev earlier this week.\n\nTwo first-time ATP finalists. No. 1 seeds. No defending champion. Pure tennis. 🎾\n\n#Tennis #Estoril #ATPTour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#Estoril",
+            "#ATPTour"
+          ],
+          "char_count": 245
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Van Assche vs. Blockx.\n\nBoth looking for their FIRST ATP title. Both unseeded. First all-unseeded Estoril final.\n\nOne Frenchman. One Belgian. Clay court in Portugal. Today. 🎾\n\n#Estoril #ATP #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Estoril",
+            "#ATP",
+            "#Tennis"
+          ],
+          "char_count": 197
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-estoril-final-van-assche-blockx.html",
+        "headline": "Estoril Final: Van Assche vs. Blockx, Two First-Timers Compete for the Title",
+        "word_count": 519
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Estoril Final — Van Assche vs. Blockx\n\n**X Image (1200×675):**\n- Search term: \"Luca Van Assche France\"\n- Caption credit: \"(Imagn Images)\"\n- Text overlay: \"ESTORIL FINAL — Van Assche vs. Blockx\"\n\n**Facebook Image (1200×630):**\n- Search term: \"Alexander Blockx Belgium\"\n- Caption credit: \"(Imagn Images)\"\n- Text overlay: \"ESTORIL FINAL — Van Assche vs. Blockx Today\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Estoril Final — Van Assche vs. Blockx\n**Sources:**\n- ATP Tour official (atptour.com/en/news/blockx-darderi-estoril-2026-sfs)\n- ATP Tour official (atptour.com/en/news/rublev-van-assche-estoril-2026-friday-qfs)\n- TennisTemple video highlight article\n- Puntodebreak (puntodebreak.com/en/2026/07/26/blockx-pulls-off-epic-comeback)\n- beIN Sports (beinsports.com — \"Blockx stuns Darderi with thrilling comeback\")\n- SportsKeeda preview (sportskeeda.com — Estoril final preview)\n- 10sBalls order of play (10sballs.com — July 26 Estoril draws)\n**Key Facts (confidence levels):**\n- Van Assche nationality: French — HIGH\n- Van Assche ranking: No. 78 — HIGH\n- Van Assche quote \"biggest win of my career\" from QF vs. Rublev — HIGH (pipeline context + ATP sources)\n- Van Assche SF vs. Gaston: 6-4, 7-5 — HIGH\n- Gaston nationality: French — HIGH (all-French SF confirmed)\n- Blockx nationality: Belgian — HIGH\n- Blockx SF vs. Darderi: 5-7, 7-6(1), 7-6(5) — HIGH (multiple sources)\n- Blockx was down 5-7, 0-5 in third set — HIGH (beIN Sports, Puntodebreak)\n- Blockx quote: \"I have no words\" — HIGH (ATP Tour)\n- Both players in first ATP 250 final — HIGH (multiple sources confirm no prior titles)\n- Final scheduled at 3:00 PM local / 10:00 AM ET — MEDIUM (10sBalls schedule)\n**Freshness:** Final happening today July 26 — scheduling confirmed, result TBD at pipeline run time.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "WTA Hamburg Final — Bondar vs. Korpatsch; Sherif Retires in SF",
+      "tier": 1,
+      "status": "",
+      "angle": "NEW STORY — The MSC Hamburg Ladies Open (WTA 500, clay) final is today (Sunday July 26): Anna Bondar (HUN) vs. Tamara Korpatsch (GER, wildcard). The semifinal results brought a twist: Mayar Sherif (EGY), who had dominated the week including a 6-2, 6-3 QF demolition of Badosa, retired against Korpatsch at 6-1, 2-0 with an injury after accumulating a heavy clay-court load. Korpatsch advances to her first WTA 500 final on home clay. In the other SF, Bondar outlasted Elina Avanesyan 7-6(3), 4-6, 7-6(2) in a 3h29m marathon. Korpatsch is a German wildcard competing in a hometown Hamburg final.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Mayar Sherif dominated all week. Beat Badosa twice in 8 days.\n\nBut in the Hamburg SF — she retired at 6-1, 2-0 vs. Korpatsch. 💔\n\nNow Tamara Korpatsch plays a WTA 500 FINAL. At home. In Hamburg.\n\nBondar survived a 3h29m SF marathon to join her.\n\n#Tennis #WTAHamburg #WTA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#WTAHamburg",
+            "#WTA"
+          ],
+          "char_count": 269
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-wta-hamburg-final-bondar-korpatsch.html",
+        "headline": "WTA Hamburg Final: Sherif Retires in SF; Korpatsch Gets Hometown Shot at the Title",
+        "word_count": 485
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "WTA Hamburg Final — Bondar vs. Korpatsch\n\n**X Image (1200×675):**\n- Search term: \"Tamara Korpatsch Germany\"\n- Caption credit: \"(USA TODAY Sports Images)\"\n- Text overlay: \"HAMBURG FINAL — Bondar vs. Korpatsch\"\n\n**Facebook Image (1200×630):**\n- Search term: \"Anna Bondar Hungary\"\n- Caption credit: \"(USA TODAY Sports Images)\"\n- Text overlay: \"WTA HAMBURG FINAL — Sunday July 26\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "WTA Hamburg Final\n**Sources:**\n- WTA Official (wtatennis.com/tournaments/2042/hamburg/2026)\n- Field Level Media (fieldlevelmedia.com — \"WTA roundup: Anna Bondar goes overtime, reaches Hamburg final\")\n- Puntodebreak (puntodebreak.com/en/2026/07/25/finalists-wta-hamburg-2026)\n- TennisTonic (tennistonic.com — H2H preview Korpatsch vs. Bondar)\n- LastWordOnSports (lastwordonsports.com — Hamburg final bets)\n- Dimers prediction article\n**Key Facts (confidence levels):**\n- Bondar nationality: Hungarian — HIGH\n- Korpatsch nationality: German — HIGH\n- Korpatsch status: wildcard — MEDIUM (confirmed from WTA draw PDF reference)\n- Sherif SF retirement vs. Korpatsch at 6-1, 2-0 — HIGH (Puntodebreak, Field Level Media)\n- Reason for Sherif retirement: injury from heavy clay load — HIGH (multiple sources)\n- Bondar vs. Avanesyan SF result: 7-6(3), 4-6, 7-6(2) — HIGH (Field Level Media)\n- Bondar vs. Avanesyan match duration: 3h29m — HIGH (Field Level Media)\n- Sherif had def. Badosa 6-2, 6-3 in QF — HIGH (pipeline context, July 25 run)\n- Tournament: WTA 500, clay, Hamburg — HIGH\n**Freshness:** Final happening today July 26 — scheduling confirmed, result TBD at pipeline run time.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "WTA Prague Final — 18-Year-Old Tagger Upsets Krejcikova, Into First WTA Final",
+      "tier": 2,
+      "status": "",
+      "angle": "NEW STORY — The Livesport Prague Open (WTA 250, clay) final is also today (Sunday July 26): Daria Snigur (UKR, No. 8 seed) vs. Lilli Tagger (AUT, 18, unseeded). Tagger — currently ranked No. 90 — pulled off the week's biggest upset Friday, defeating Barbora Krejcikova (CZE, No. 2 seed, two-time Grand Slam champion) 6-7(5), 6-3, 7-6(4) in 2h50m, coming back from a set down. Tagger, from Lienz, Austria, trained at the Francesca Schiavone Academy in Varese and won the 2025 French Open girls' title. Snigur (UKR) beat Valentova 7-6(4), 6-2 in the other SF.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Lilli Tagger is 18 years old. 🌟\n\nShe just beat two-time Grand Slam champion Krejcikova 6-7(5), 6-3, 7-6(4) to reach her first WTA final.\n\nAustria's next star is competing for a title TODAY in Prague.\n\n#Tennis #WTAPrague #WTA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#WTAPrague",
+            "#WTA"
+          ],
+          "char_count": 224
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-wta-prague-tagger-upsets-krejcikova.html",
+        "headline": "Tagger, 18, Stuns Krejcikova in Prague — Into First Career WTA Final",
+        "word_count": 489
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "WTA Prague Final — Tagger Upsets Krejcikova\n\n**X Image (1200×675):**\n- Search term: \"Lilli Tagger Austria\"\n- Caption credit: \"(Imagn Images)\"\n- Text overlay: \"PRAGUE FINAL — Tagger vs. Snigur\"\n\n**Facebook Image (1200×630):**\n- Search term: \"Daria Snigur Ukraine\"\n- Caption credit: \"(Imagn Images)\"\n- Text overlay: \"WTA PRAGUE FINAL — Snigur vs. Tagger\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "WTA Prague Final — Tagger\n**Sources:**\n- Yahoo Sports (sports.yahoo.com — \"Austrian teenager Lilli Tagger plays for maiden WTA title\")\n- The Big Lead (thebiglead.com — Tagger feature)\n- WTA Official (wtatennis.com/tournaments/1082/prague/2026)\n- beIN Sports (beinsports.com — \"Tagger upsets Krejcikova to reach Prague final\")\n- LastWordOnSports (lastwordonsports.com — Prague final prediction)\n- Mezha.net (mezha.net — \"Daria Snigur reaches Prague WTA 250 final\")\n- Lilli Tagger Wikipedia (en.wikipedia.org/wiki/Lilli_Tagger)\n- ngontinh24 (ngontinh24.com — Tagger career rise article)\n**Key Facts (confidence levels):**\n- Tagger age: 18 — HIGH (multiple sources call her \"18-year-old\" and \"teenager\")\n- Tagger nationality: Austrian — HIGH\n- Tagger ranking: career high No. 90 (achieved May 25, 2026) — HIGH\n- Tagger hometown: Lienz, Austria — HIGH (Wikipedia)\n- Tagger trains at Francesca Schiavone Academy, Varese — HIGH (multiple sources)\n- Tagger won 2025 French Open girls' title — HIGH (multiple sources)\n- Tagger SF vs. Krejcikova: 6-7(5), 6-3, 7-6(4) — HIGH (WTA official scores)\n- Tagger SF match duration: 2h50m — HIGH\n- Krejcikova was No. 2 seed, two-time Grand Slam champion — HIGH\n- Snigur nationality: Ukrainian — HIGH\n- Snigur SF vs. Valentova: 7-6(4), 6-2 — HIGH (WTA official/Mezha)\n- Snigur seeding: No. 8 — HIGH\n**Freshness:** Final happening today July 26 — scheduling confirmed, result TBD at pipeline run time.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Clay Season Finale — Hard Court Pivot Begins This Week",
+      "tier": 2,
+      "status": "",
+      "angle": "NEW STORY — Today marks the end of the European clay season. Four tournaments — Kitzbühel (ATP 250), Estoril (ATP 250), Hamburg (WTA 500), and Prague (WTA 250) — all close today, with the last clay champions crowned before the North American hard-court swing. The Canadian Open / National Bank Open (women's Toronto Aug 1–11; men's Montreal Aug 4–13) is the immediate next stop. With Sinner (elbow), Djokovic (injury), Alcaraz (injury), Draper (arm), and Paolini (foot) all absent from their respective draws, Alexander Zverev and Ben Shelton (defending champion) headline the men's field in Montreal. The Canadian Open draws are expected July 29–30.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Today is the last day of clay. 🎾\n\n4 tournaments wrap up:\n• Kitzbühel ✅ (Halys)\n• Estoril (final today)\n• Hamburg WTA 500 (final today)\n• Prague WTA 250 (final today)\n\nHard courts start this week. Canadian Open draws drop July 29-30.\n\n#Tennis #ATPTour #WTA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#ATPTour",
+            "#WTA"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-clay-season-finale-hard-court-pivot.html",
+        "headline": "Clay Season Ends Today — Four Finals Close the European Swing",
+        "word_count": 586
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Clay Season Finale\n\n**X Image (1200×675):**\n- Search term: \"Alexander Zverev Germany\"\n- Caption credit: \"(USA TODAY Sports Images)\"\n- Text overlay: \"CLAY SEASON FINALE — Hard Courts Next\"\n\n**Facebook Image (1200×630):**\n- Search term: \"Ben Shelton USA\"\n- Caption credit: \"(USA TODAY Sports Images)\"\n- Text overlay: \"CLAY ENDS TODAY — Canadian Open Draws July 29-30\""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Clay Season Finale / Hard Court Pivot\n**Sources:**\n- ATP Tour official schedule\n- WTA Tour official schedule\n- National Bank Open official (nationalbankopen.com)\n- CBC Sports (cbc.ca — Sinner/Djokovic withdrawal article)\n- ESPN (espn.com — Sinner/Djokovic withdrawal article)\n- Pipeline context (July 25 — Canadian Open withdrawals story)\n**Key Facts (confidence levels):**\n- Kitzbühel, Estoril, Hamburg, Prague all end today July 26 — HIGH\n- Women's Canadian Open Toronto: Aug 1–11 — HIGH (National Bank Open official)\n- Men's Canadian Open Montreal: Aug 4–13 — HIGH (National Bank Open official)\n- Sinner withdrew (elbow) — HIGH\n- Djokovic withdrew (injury) — HIGH\n- Alcaraz absent (wrist) — HIGH\n- Draper absent (arm) — HIGH\n- Paolini absent (foot) — HIGH\n- Zverev and Shelton (defending champion) confirmed in men's Montreal draw — HIGH\n- Draws expected July 29–30 — MEDIUM (per ATP/WTA sources in pipeline)\n**Freshness:** Ongoing tournament wrap — final day of European clay.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

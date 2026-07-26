@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-07-25 |
-| Writing | Complete (all steps) | 2026-07-25 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 44 claims, 78 HIGH) | 2026-07-25 |
-| Compile | Complete (07-content-data.json — 5 stories, 8 X posts, 0 FB posts, 5 articles) | 2026-07-25 |
-| Dashboard | Complete (review-dashboard.html, 23 items) | 2026-07-25 |
-| PostPlanner Export | Complete (standard 8 posts 12:53–20:49 ET; TOBI 8 posts) | 2026-07-25 |
-| WordPress Publish | Attempted — WP API blocked by proxy egress policy (403 Forbidden; same environment restriction as all prior runs) | 2026-07-25 |
-| Dashboard Push | Attempted — proxy blocks push to content-dashboards repo | 2026-07-25 |
+| Research | Complete | 2026-07-26 |
+| Writing | Complete (all steps) | 2026-07-26 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 37 claims, 58 HIGH) | 2026-07-26 |
+| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 0 FB posts, 5 articles) | 2026-07-26 |
+| Dashboard | Complete (review-dashboard.html, 22 items) | 2026-07-26 |
+| PostPlanner Export | Complete (standard 7 posts 12:48–20:36 ET; TOBI 7 posts) | 2026-07-26 |
+| WordPress Publish | Attempted — WP API blocked by proxy egress policy (403 Forbidden; same environment restriction as all prior runs) | 2026-07-26 |
+| Dashboard Push | Attempted — proxy blocks push to content-dashboards repo | 2026-07-26 |
 
 ## Queue
 
@@ -24,6 +24,22 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-07-26 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-07-26.xlsx (7 posts, 12:48–20:36 ET), tfr-postplanner-tobi-2026-07-26.xlsx (7 TOBI posts)
+- **Coverage:** Kitzbühel RESULT — Halys (FRA, 29) def. defending champion Bublik 6-4, 7-6(6) for first ATP title; 14-year journey; first Frenchman to win Kitzbühel Open Era (France was 0-6 in finals); 17 aces, never faced break point; rises 32 to No. 51; Estoril final preview — Van Assche vs. Blockx (all-unseeded first-timers; Blockx epic comeback from 5-7, 0-5 vs. Darderi; Van Assche beat Rublev in QF); WTA Hamburg final — Bondar vs. Korpatsch (Sherif retired in SF vs. Korpatsch at 6-1, 2-0 after heavy clay load; Bondar survived 3h29m epic vs. Avanesyan); WTA Prague final — Snigur vs. Tagger (18-year-old Austrian Tagger upset No. 2 seed Krejcikova 6-7(5), 6-3, 7-6(4); trained at Schiavone Academy; 2025 FO junior champion); Clay season finale + Canadian Open preview (Sinner/Djokovic/Alcaraz/Draper all absent; Zverev likely top seed; draws July 29-30)
+- **Notes:**
+  - verify-facts.py: passed; 37 claims, 58 HIGH; image not_started warnings cosmetic (expected for imagin source)
+  - compile: 5 stories, 7 X posts, 0 FB posts (parser compatibility — same as all prior runs), 5 articles; 22 dashboard items; posting window warnings cosmetic
+  - PostPlanner exports: standard (7 posts) and TOBI (7 posts) generated successfully; 12:48–20:36 ET
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: proxy blocks write to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3] (rotating from July 25: Marcus Cole [S1, S4], Ryan Calloway [S2, S5], Elena Voss [S3])
+  - CORRECTION NOTE for prior runs: July 25 pipeline stated WTA Hamburg SFs were "Sherif vs. Kalinina; Bondar vs. Oliynykova" — actual SFs were Sherif vs. Korpatsch (Sherif retired 6-1, 2-0) and Bondar vs. Avanesyan (Bondar won 7-6(3), 4-6, 7-6(2)); QF pairings confirmed correct but SF pairings differed from July 25 brief
 
 ### 2026-07-25 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
