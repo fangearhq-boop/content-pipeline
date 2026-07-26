@@ -2,6 +2,45 @@
 
 ---
 
+## July 26, 2026
+
+### Story 1: Acacia Park Sunday Market — Free Event Today
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Colorado Springs Sunday Market at Acacia Park today July 26, 9 a.m.–2 p.m., free. 60+ vendors: Colorado-grown produce, artisan foods, handmade goods, live local music. 115 E Platte Ave. Every Sunday through Oct. 25, 2026. NOTE: Heat Advisory in effect 10 a.m.–9 p.m. today (97°F, UV 12) — families advised to arrive early before heat peaks.
+- **Content Produced:** Article (Jamie Rivera), 1 X post, Facebook Long-Form + Caption, Image Concept
+- **Tier:** 2
+- **Key Facts:** July 26, 9 a.m.–2 p.m., Acacia Park, 115 E Platte Ave; free; 60+ vendors; every Sunday through Oct. 25; Heat Advisory 10 a.m.–9 p.m. MDT, 97°F high; Sources: downtowncs.com, visitcos.com, kktv.com, krdo.com
+
+### Story 2: Two Teething Toy Recalls — CuddleCubs Creations and Aojieni Sili Factory
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recalled two pull-string teething toy sets July 23, 2026. CuddleCubs Creations (BlueOrange/YellowOrange, $15–$19, Amazon Dec 2024–Apr 2026; refund: cuddlecubscreation@126.com) and Aojieni Sili Factory ($11–$15, Amazon May 2025–Apr 2026; 1 gagging report; refund: info@silifactory.com). Both: silicone strings too small/long per mandatory toy standard; can reach infant's throat; choking/respiratory distress hazard. Stop using and destroy.
+- **Content Produced:** Article (Sarah Morales), 2 X posts, Facebook Long-Form + Caption, Image Concept
+- **Tier:** 1
+- **Key Facts:** CPSC July 23, 2026; CuddleCubs: YouRfocus/Amazon Dec 2024–Apr 2026, $15–$19, destroy + cuddlecubscreation@126.com; Aojieni: Amazon May 2025–Apr 2026, $11–$15, 1 gagging report, destroy + info@silifactory.com; Sources: cpsc.gov, local3news.com, wrnjradio.com
+
+### Story 3: TOSC "Marlow" Free Parks Guide — 100+ Pikes Peak Parks
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — Trails and Open Space Coalition (TOSC) launched "Marlow," a free interactive guide to 100+ parks, trails, and open spaces across the Pikes Peak region. Launched July 21–24, 2026. Each listing: parking, hours, amenities, activity filters (rollerblading, adaptive biking, wildlife viewing, bouldering, dog walking). Featured: Sondermann Park, Nancy Lewis Park, John Venezia Community Park. Free at trailsandopenspaces.org/marlow. Covered by Gazette and CPR.
+- **Content Produced:** Article (Jamie Rivera), 1 X post, Facebook Long-Form + Caption, Image Concept
+- **Tier:** 2
+- **Key Facts:** Guide: "Marlow"; TOSC publisher; 40+ years COS parks advocacy; 100+ parks; covers COS proper + Fountain + Douglas County + mountains + plains; free at trailsandopenspaces.org/marlow; Sources: gazette.com July 21, cpr.org July 24, trailsandopenspaces.org
+
+### Story 4: Infant Heat Safety — Pediatrician Guidance + NWS Heat Advisory Today
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — Pediatricians issued detailed infant heat safety guidance nationally July 20–21, 2026, directly applicable to today's COS conditions: NWS Heat Advisory 10 a.m.–9 p.m. MDT, high 97°F, UV index 12. Key rules: don't cover stroller with blanket (traps heat), use built-in canopy; check metal stroller/car seat parts for burns; run AC 10–20 sec before placing child in car. Pediatricians now include heat alongside drowning/choking in standard safety guidance.
+- **Content Produced:** Article (Sarah Morales), 1 X post, Facebook Long-Form + Caption, Image Concept
+- **Tier:** 1
+- **Key Facts:** NWS Heat Advisory July 26, 10 a.m.–9 p.m. MDT; high 97°F; UV 12 (extreme); 10% storms after 2 p.m.; pediatrician guidance syndicated July 20–21 nationally; stroller blanket warning; metal parts burn warning; car AC rule; Sources: wusf.org July 20, wlrn.org July 21, krdo.com July 25, kktv.com July 26
+
+### Story 5: COS School Start Dates 2026-27 — D11 Aug. 12, D20 Aug. 17-18, D49 August
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — COS school districts 2026-27 start dates: D11 first day August 12 (K-12; last day May 25, 2027); D20 August 17 (preschool/elementary/6th/9th grade) then August 18 all students; D49 August (exact date: d49.org). D49 also opening Student Success Center August 2026 with 2 new ECE classrooms, Mon–Thu districtwide. Less than 3 weeks until D11 first day.
+- **Content Produced:** Article (Jamie Rivera), 1 X post, Facebook Long-Form + Caption, Image Concept
+- **Tier:** 2
+- **Key Facts:** D11: Aug. 12 K-12, last day May 25 2027; D20: Aug. 17 (preschool/elem/6th/9th), Aug. 18 all; D49: August 2026, exact date d49.org; D49 Student Success Center: 2 ECE classrooms Mon–Thu districtwide August 2026; Sources: schoolcalendar.net, educounty.net, kdvr.com, asd20.org, d49.org
+
+---
+
 ## July 25, 2026
 
 ### Story 1: Two CPSC Recalls — Peony Design Bibs and Bellabu Bear Robes
