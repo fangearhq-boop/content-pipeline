@@ -1,0 +1,275 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-27",
+  "compiled_at": "2026-07-27T09:24:18.260459+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Cubs at Cardinals — 4-Game Series Preview at Busch Stadium",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Cubs (59-46, No. 1 NL WC) open a 4-game road series at Busch Stadium vs. Cardinals (53-52). Matchup-led opener with rivalry stakes and Wild Card context as kicker. First pitch 6:45 PM CT.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Cubs at Cardinals. 4 games. Busch Stadium. 6:45 PM CT tonight.\n\nChicago (59-46, No. 1 NL Wild Card) vs. a Cardinals club (53-52) lurking outside the Wild Card.\n\nThe rivalry doesn't need extra stakes. This one has them.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 7,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Cubs at Cardinals — 4-Game Series Preview at Busch Stadium\n**Sources:** Cubs/_data/series-context.json, Bleacher Nation series preview (July 25, 2026), SportsGrid matchup page\n**Key Facts:**\n- Cubs (59-46) vs. Cardinals (53-52), 4-game series at Busch Stadium, St. Louis\n- Game 1: Mon July 27, 6:45 PM CT — David Peterson (Cubs) vs. Matthew Liberatore (Cardinals)\n- Game 2: Tue July 28, 6:45 PM CT — Colin Rea (Cubs) vs. Michael McGreevy (Cardinals)\n- Game 3: Wed July 29, 6:45 PM CT — Matthew Boyd (Cubs) vs. Dustin May (Cardinals)\n- Game 4: Thu July 30, 1:15 PM CT — Shota Imanaga (Cubs) vs. Andre Pallante (Cardinals)\n- Cubs are 13 games over .500; Cardinals are 1 game over .500\n- Cardinals currently outside the NL Wild Card picture (D-backs hold the 3rd WC at 55-50)\n- In early July (July 3-5) at Wrigley, Cardinals won 2 of 3 (17-1, 3-0 wins; Cubs took finale 6-4)\n- Series rationale from snapshot: \"Yesterday vs Pittsburgh Pirates; today vs St. Louis Cardinals → game 1 of 4 (on the road)\"",
+        "sources": "- Source confidence: HIGH (structured snapshot cross-referenced with search)"
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Taillon Rocked Again — Rotation Spot in Jeopardy, 25 HRs Allowed (Most in MLB)",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Taillon gave up 7 ER and 3 HRs in 4 IP Sunday — now at 25 HRs allowed (tied most in baseball). Counsell won't commit to his next start. Seven days to the deadline. The rotation crisis is a 5-alarm fire.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Taillon allowed 7 ER and three HRs Sunday. He's now given up 25 home runs — tied for the most of any pitcher in baseball.\n\nCounsell won't commit to his next start. Seven days to the deadline. The rotation need just became impossible to ignore.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 269
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 7,
+        "claims_flagged": 2,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Taillon Rocked Again — Rotation Spot in Jeopardy, 25 HRs Allowed (Most in MLB)\n**Sources:** Chicago Sun-Times (July 26), Bleacher Nation enhanced box score (July 26), Cubs Insider recap (July 26), Cubbie Crib (July 26), Yardbarker (July 26)\n**Key Facts:**\n- July 26 outing vs. Pirates: 4 IP, 7 ER, 3 HRs allowed\n- O'Hearn grand slam (3rd inning) extended lead to 7-1; Pirates also got 2 HR from rookies Valdez and Ross in 2nd inning\n- Cubs nearly came back — Suzuki 2-run HR in 9th made it 8-7 — but Mason Montgomery held on for Pittsburgh\n- 2026 season totals: 2-6 record, 5.38 ERA before Sunday (career-worst entering start); ERA rises after 7 ER in 4 IP\n- 25 home runs allowed in 2026 — tied for most by any pitcher in baseball (per Chicago Sun-Times)\n- Counsell postgame: \"I think we've got to discuss it, yeah. We've got days to figure that out, but we have to discuss what's best for the staff in general.\"\n- Taillon quote: \"I'm hurting the team\"\n- Taillon is in the last year of a 4-year $68M deal\n- Astros reportedly interested in acquiring Taillon via trade",
+        "sources": "- Source confidence: HIGH (multiple outlets confirm game facts and direct quotes)"
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Trade Deadline — 7 Days Left, Cubs Hunting Starting Pitching",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Aug. 3 deadline is 7 days away. Rotation has had 26 IL stints for pitchers. Hoyer wants cost-controlled arms beyond 2026. Names: Robbie Ray, Kevin Gausman, Freddy Peralta. Clock is running.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Seven days to the Aug. 3 deadline. The Cubs need starting pitching.\n\nNames in play: Robbie Ray, Kevin Gausman, Freddy Peralta. Hoyer wants arms he can control beyond 2026. The rotation has had 26 IL stints this season.\n\nTime is up. Time to move.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 6,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Trade Deadline — 7 Days Left, Cubs Hunting Starting Pitching\n**Sources:** ESPN deadline tracker, MLBTradeRumors, Bleacher Nation Cubs deadline targets, Fansided (Cubs targets), North Side Baseball (8 starters Cubs have discussed), SI Inside The Cubs\n**Key Facts:**\n- Aug. 3, 2026 deadline at 6 PM ET — 7 days from today\n- Cubs have had 30 IL stints in 2026; 26 of those were pitchers\n- Jed Hoyer wants cost-controlled starters with team control beyond 2026\n- Publicly linked targets: Robbie Ray, Kevin Gausman, Freddy Peralta, Joe Ryan, Jose Soriano, Reid Detmers\n- Tarik Skubal connected, but Cubs unlikely to pay major prospects for pending free agent\n- Freddy Peralta: per July 25 pipeline entry, now favored to return to Brewers — likely off Cubs' board\n- Cubs' rotation injury toll makes any upgrade Tier 1 news",
+        "sources": "- Source confidence: MEDIUM (deadline rumors are inherently uncertain; names are reported, not confirmed)"
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Pete Crow-Armstrong — 6.2 WAR Leads Baseball, Cubs Hold No. 1 Wild Card",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "PCA leads all position players in WAR (6.2), hits .282 with 23 HRs. Cubs 59-46, No. 1 NL Wild Card. Bold zoom-out take: the best player in baseball is a Cub.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Pete Crow-Armstrong leads baseball with 6.2 WAR. He's hitting .282 with 23 home runs and isn't done yet.\n\nCubs are 59-46, No. 1 in the NL Wild Card race.\n\nThe best player in baseball is wearing a Cubs jersey. That's where we are.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 5,
+        "claims_flagged": 2,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Pete Crow-Armstrong — 6.2 WAR Leads Baseball, Cubs Hold No. 1 Wild Card\n**Sources:** Chicago Sun-Times, NBC Sports MLB Awards Tracker, Baseball Savant, story history July 26\n**Key Facts:**\n- WAR: 6.2 (from July 26 story history; NBC Sports cited 6.3 as of ~July 22 — using 6.2 as conservative/recent)\n- BA: .282 (confirmed per multiple sources)\n- HRs: 23 (from July 26 pipeline entry; PCA hit his 23rd HR on July 25; no 24th HR confirmed in July 26 loss)\n- +20 Fielding Run Value — tops in baseball (Baseball Savant)\n- In June: .381 BA, 11 HRs, 20 RBI — historic offensive stretch\n- Ohtani injury has opened door in NL MVP voting\n- Wild Card: Cubs 59-46 (No. 1), Phillies approx. 56-49 (~3 GB), D-backs approx. 55-50 (~4 GB)",
+        "sources": "- Source confidence: HIGH on PCA stats; MEDIUM on exact WC gap (Phillies/D-backs July 26 results unconfirmed)"
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Tonight's Preview — Peterson vs. Liberatore at Busch",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Cubs send David Peterson vs. Cardinals' Matthew Liberatore (5-7, 5.18 ERA) in Game 1. Neither starter has been dominant in 2026. Cubs need Peterson to deliver — no deadline help arrives before this series ends.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Tonight at Busch: David Peterson vs. Matthew Liberatore (5.18 ERA).\n\nNeither starter has been dominant in 2026. The Cubs need Peterson to be the one who finds it — deadline arms won't arrive until after this series.\n\nFirst pitch 6:45 PM CT.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 6,
+        "claims_flagged": 2,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Tonight's Preview — Peterson vs. Liberatore at Busch\n**Sources:** Baseball-Reference preview (SLN202607270), Bleacher Nation series odds/pitchers, SportsGrid matchup\n**Key Facts:**\n- David Peterson: Acquired from Mets on June 25, 2026. 2026 with Mets: 3-6, 6.09 ERA in 68 IP. As a starter: 7.71 ERA in 37.1 IP. Cubs-specific ERA not confirmed from search — using general \"not been dominant\" framing.\n- Matthew Liberatore: 5-7, 5.18 ERA, 95 K in 99⅔ IP for Cardinals in 2026\n- First pitch: 6:45 PM CT, Busch Stadium\n- Key angle: Cubs need a quality start from Peterson given Taillon's rotation jeopardy and the reality that no deadline addition arrives before this series ends (deadline is Aug. 3)",
+        "sources": "- Source confidence: MEDIUM (Peterson's current Cubs ERA not pinned down; Liberatore ERA confirmed)"
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Bullpen Update — Palencia Returning, Kelly Emerging at Iowa",
+      "tier": 3,
+      "status": "NEW STORY",
+      "angle": "Palencia (flexor strain, 15-day IL) on track to return before end of July. LHP Antoine Kelly posting 0.84 ERA at Iowa — a callup candidate. Good news in a bad news cycle.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Cubs bullpen help is on the way.\n\nDaniel Palencia (flexor strain) is on track to return before end of July — and LHP Antoine Kelly has posted a 0.84 ERA at Iowa. A closer returning and a callup candidate emerging, right on time.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 5,
+        "claims_flagged": 3,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Bullpen Update — Palencia Returning, Kelly Emerging at Iowa\n**Sources:** Bleed Cubbie Blue (Taillon activation / Civale addition), FanGraphs RosterResource injury report, MLBTradeRumors (Antoine Kelly), Cubbie Crib (prospect update), DaWindyCity.com\n**Key Facts:**\n- Daniel Palencia: 15-day IL, right flexor strain. \"On track to return before end of July\" per multiple reports. Cubs' primary closer.\n- Phil Maton: 15-day IL, right knee tendonitis — also expected back soon\n- Antoine Kelly (LHP): Acquired from Dodgers in minor-league deal, June 2026. Iowa stats: 0.84 ERA in ~13 IP, ~27% K rate, fastball approaching triple digits. Multiple reports say callup is imminent.\n- Aaron Civale added to active roster; Drew Pomeranz DFA'd in recent transactions",
+        "sources": "- Source confidence: MEDIUM (Kelly ERA is from early July reporting; Palencia return timeline approximate)"
+      }
+    },
+    {
+      "story_num": 7,
+      "title": "Cardinals Rivalry Pre-Game Hype",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Playful Cardinals trash talk. They're 53-52 while acting like contenders. Cubs are 59-46, No. 1 WC. Busch Stadium tonight — let's sort this out.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Cardinals fans have been calling themselves contenders since spring.\n\nThey're 53-52. The Cubs are 59-46 and holding down the No. 1 Wild Card.\n\nBusch Stadium tonight. Let's sort this out.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 210
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 6,
+        "claims_flagged": 2,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Cardinals Rivalry Pre-Game Hype\n**Sources:** Series context snapshot, NL standings search\n**Key Facts:**\n- Cardinals 53-52 — barely over .500 — not in a Wild Card position\n- Cubs 59-46 — 13 games over .500, No. 1 NL Wild Card holder\n- Cardinals in early July series won 2 of 3 at Wrigley (17-1, 3-0); Cubs took finale 6-4\n- Rivalry context: Cardinals are the primary rival per brand-voice.md — \"Most frequent\" trash talk target",
+        "sources": "- Source confidence: HIGH on records; MEDIUM on Cardinals' specific form entering tonight"
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

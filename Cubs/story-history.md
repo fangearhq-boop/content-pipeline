@@ -5,6 +5,68 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-27
+
+### STORY 1: Cubs at Cardinals — 4-Game Series Preview at Busch Stadium
+- **Angle:** NEW STORY (Game 1 of 4 at Busch Stadium tonight; Cubs 59-46, No. 1 NL WC; Cardinals 53-52, outside WC; first pitch 6:45 PM CT; Peterson vs. Liberatore)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, series preview)
+- **Follow-Up Opportunities:**
+  - Game 1 result (recap tomorrow 7:00 AM)
+  - Series result through July 30
+  - Cardinals WC implications if Cubs take series
+
+### STORY 2: Taillon Rocked Again — Rotation Spot in Jeopardy (25 HRs, Most in MLB)
+- **Angle:** NEW STORY (July 26 outing: 7 ER in 4 IP vs. Pirates; 25 HRs on season = tied most in baseball; Counsell won't commit to next start; 7 days to deadline)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold/analysis)
+- **Follow-Up Opportunities:**
+  - Taillon roster status / next turn decision
+  - Any SP trade acquisition before Aug. 3
+  - Taillon trade speculation (Astros interest)
+
+### STORY 3: Trade Deadline — 7 Days Left, Cubs Hunting Starting Pitching
+- **Angle:** FOLLOW UP (deadline covered July 25-26 with Peralta angle; today's angle = 7 days left, broader targets, Taillon urgency)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, informative)
+- **Follow-Up Opportunities:**
+  - Any Cubs trade acquisition
+  - Deadline day coverage (Aug. 3)
+
+### STORY 4: Pete Crow-Armstrong — 6.2 WAR Leads Baseball, Cubs Hold No. 1 Wild Card
+- **Angle:** FOLLOW UP (PCA 23 HR/6.2 WAR post-July 26; today's hook = post-loss zoom-out confirming Cubs still No. 1 WC; best player in baseball framing)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, bold/stat)
+- **Follow-Up Opportunities:**
+  - PCA pace to 30 HRs
+  - Monthly/weekly award coverage
+  - NL MVP ballot as season progresses
+
+### STORY 5: Tonight's Preview — Peterson vs. Liberatore at Busch
+- **Angle:** NEW STORY (Game 1 pitching preview; Peterson vs. Liberatore 5.18 ERA; both starters inconsistent in 2026; Cubs need quality start)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Peterson's actual pitching line tonight
+  - Liberatore's performance
+
+### STORY 6: Bullpen Update — Palencia Returning, Kelly Emerging at Iowa
+- **Angle:** NEW STORY (Palencia on track to return before end of July; LHP Antoine Kelly 0.84 ERA at Iowa — callup candidate; bullpen depth improving)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, roster update)
+- **Follow-Up Opportunities:**
+  - Official Palencia activation
+  - Kelly big-league debut
+
+### STORY 7: Cardinals Rivalry Pre-Game Hype
+- **Angle:** NEW STORY (Cubs 59-46 vs. Cardinals 53-52 — rivalry trash talk; Cardinals outside WC; Busch Stadium tonight framing)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, pre-game hype)
+- **Follow-Up Opportunities:**
+  - Series result framing
+
+---
+
 ## 2026-07-26
 
 ### STORY 1: Cubs 11, Pirates 0 — Imanaga Outduels Skenes, PCA 4-for-5 with 23rd HR
