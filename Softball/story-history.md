@@ -5589,3 +5589,59 @@ _This file tracks every story covered, the angle used, content produced, and fol
   - Play-in game July 23 result
   - Championship preview (matchups)
   - ABC broadcast promotion
+
+---
+
+## 2026-07-27
+
+### Story 1: Utah Talons Win 2026 AUSL Championship — Back-to-Back
+- **Date:** 2026-07-27
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Championship tracked since July 22; Game 2 result July 26)
+- **Angle:** Utah Talons sweep Chicago Bandits 2-0 — first back-to-back AUSL champions in history. Game 2: 6-1 (Montana Fouts CG: 7 IP, 8H, 1R, 4K). Jadelyn Allchin named Championship Series MVP (2-run HR + RBI double, 3 RBI). Bri Ellis solo HR. Game 1 (July 25): 2-1, Georgina Corrick CG. Coach Cindy Ball-Malone first to win back-to-back AUSL titles. Venue: Davis Diamond, Texas A&M, College Station TX.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - AUSL 2026 offseason roster moves
+  - Utah Talons 2027 roster / expansion draft
+  - League growth story (3rd season preview)
+
+### Story 2: Montana Fouts — 2026 AUSL Pitcher of the Year
+- **Date:** 2026-07-27
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Fouts tracked since July 18; Award announced July 25)
+- **Angle:** Fouts wins AUSL Pitcher of the Year at inaugural Awards Reception. Season stats: 7-4, 2.36 ERA, 63K, 61.1 IP, 7 CG — 4 AUSL single-season records (IP/Ks/wins/CG). Single-game K record: 12 vs Texas Volts June 18. Shutout vs Carolina Blaze June 26. Opponents batted .200. First Team All-AUSL. Followed with CG in championship-clinching Game 2.
+- **Content Produced:** Article (article-02, Emily Rawlings), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Fouts 2027 contract / AUSL career arc
+  - AUSL records she now holds
+
+### Story 3: 2026 AUSL Year-End Awards
+- **Date:** 2026-07-27
+- **Tier:** 2
+- **Classification:** NEW (Inaugural AUSL Awards Reception July 25)
+- **Angle:** All 2026 AUSL award winners: Hitter — Sami Williams (Bandits, .427/32H/34RBI); Rookie — Reese Atwood (Blaze, No. 7 pick, .309/8HR/25RBI); Comeback POTY — Bri Ellis (Talons, .353/5HR/.450OBP); Impact Award — Odicci Alexander-Bennett (Bandits, player vote); first-ever All-AUSL Team + All-Defensive Team.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Sami Williams 2027 AUSL outlook
+  - Reese Atwood second season development
+
+### Story 4: Alabama Softball Transfer Portal — Corrections and Real Additions
+- **Date:** 2026-07-27
+- **Tier:** 2
+- **Classification:** NEW with CORRECTIONS (Beachum/Edwards incorrectly linked in July 26 pipeline)
+- **Angle:** CORRECTION: Beachum (FSU) went to Texas Tech, Edwards (LSU) went to Florida. Alabama's actual three portal additions: Karlee Ford (Iowa State C, .345/10HR/49RBI/All-Big 12), Kailey Plumlee (Tennessee LHP), Noelani Livingstone (JUCO, 2026 NJCAA Player of the Year). 7 seniors graduated. September 1 = 36 days.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Alabama 2027 roster preview
+  - Ford impact at catcher position
+  - September 1 recruiting coverage
+
+### Story 5: PGF Nationals Week 2 Underway
+- **Date:** 2026-07-27
+- **Tier:** 3
+- **Classification:** FOLLOW UP (PGF tracked since July 14)
+- **Angle:** Week 2 (14U/12U/10U) runs July 26–Aug 2, Irvine/Huntington Beach OC CA. Opening ceremonies July 26 at Huntington Beach Central Park. Championship games at Deanna Manning Stadium, Bill Barber Park, Irvine. Streaming: PGF.TV. Week 1 champs: Athletics Mercado 16U, AZ Rising 18U.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - PGF Week 2 champions (by August 2)
+  - September 1 recruiting window coverage
