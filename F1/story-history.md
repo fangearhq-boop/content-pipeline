@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-07-27
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-27 | T1 | Norris Wins 2026 Hungarian Grand Prix — Piastri DNF, Verstappen 2nd, Antonelli 3rd | X, FB, Article | NEW |
+| 2026-07-27 | T1 | Verstappen Exit Clause Now Active — McLaren Move Enters Closing Stages | X, FB, Article | FOLLOW UP |
+| 2026-07-27 | T2 | F1 Championship at Summer Break: Antonelli Leads Hamilton by 50 Points | X, FB, Article | FOLLOW UP |
+| 2026-07-27 | T2 | Fernando Alonso's Summer Break Retirement Decision | X, FB, Article | FOLLOW UP |
+| 2026-07-27 | T2 | Five F1 Storylines to Watch During Summer Break | X, FB, Article | NEW |
+
+### STORY 1: Norris Wins 2026 Hungarian Grand Prix
+- **Tier:** 1
+- **Category:** F1 Race Result / Lando Norris / McLaren
+- **Key facts:** Norris won from pole; Piastri led early but retired; final podium: Norris 1st (McLaren), Verstappen 2nd (Red Bull), Antonelli 3rd (Mercedes); margin ~15 seconds; Hamilton crossed P4 but penalized (pit lane speeding) → demoted P5, Leclerc promoted P4; first Norris win of 2026 season as reigning champion
+- **Status:** NEW
+- **Follow-up ideas:** McLaren momentum into second half; Norris vs Antonelli championship math
+
+### STORY 2: Verstappen Exit Clause Now Active
+- **Tier:** 1
+- **Category:** F1 Driver Market / Max Verstappen / McLaren
+- **Key facts:** Exit clause triggered — Verstappen outside top two at summer break (finished 6th in standings); McLaren move described as "closing stages"; Lambiase confirmed for McLaren 2028 as Chief Racing Officer; Verstappen refused Red Bull's June offer to buy out clause; Verstappen quote: "There's nothing to say"
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official Verstappen announcement; Red Bull replacement plan; McLaren 2027 lineup confirmed
+
+### STORY 3: F1 Championship at Summer Break
+- **Tier:** 2
+- **Category:** F1 Championship / Kimi Antonelli / Summer Break
+- **Key facts:** Antonelli 219 pts; Hamilton 169 pts (-50); Russell 160 pts (-59); Norris 5th; Verstappen 6th; Mercedes leads Constructors' by 72 pts over Ferrari; McLaren 99 pts back; Antonelli youngest championship leader in F1 history
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Belgian GP restart; Hamilton closes gap; McLaren form check
+
+### STORY 4: Alonso Retirement Decision
+- **Tier:** 2
+- **Category:** F1 Driver News / Fernando Alonso / Aston Martin
+- **Key facts:** Alonso contract expires end 2026; will decide during summer break; Aston Martin 1 point in 10 races 2026; Newey project hasn't delivered yet; options: retire, stay at Aston Martin, seek competitive seat
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official retirement or continuation announcement; Aston Martin 2027 driver
+
+### STORY 5: Five F1 Summer Break Storylines
+- **Tier:** 2
+- **Category:** F1 Season Preview / Summer Break
+- **Key facts:** Verstappen announcement expected; Alonso decision; Hamilton vs Antonelli H2; McLaren momentum; FIA energy management tweaks
+- **Status:** NEW
+- **Follow-up ideas:** Belgian GP coverage; all five storylines resolved
+
 ## 2026-07-26
 
 | Date | Tier | Story | Platforms | Status |

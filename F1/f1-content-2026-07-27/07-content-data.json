@@ -1,0 +1,266 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-27",
+  "compiled_at": "2026-07-27T11:29:35.104584+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Norris Wins 2026 Hungarian Grand Prix — First Victory of His Championship Season",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "RACE RESULT: Hungarian Grand Prix 🏁\n\nNo. 1 — Norris (McLaren)\nNo. 2 — Verstappen (Red Bull)\nNo. 3 — Antonelli (Mercedes)\n\nReigning champion Norris gets his first win of the 2026 season.\nPiastri led early — then retired. Norris took over and didn't look back.\n\n#F1 #HungarianGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#HungarianGP"
+          ],
+          "char_count": 276
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Lando Norris won the Hungarian GP by 15 seconds.\n\nPiastri led. Piastri retired. Norris took it from there.\n\nHamilton's pit lane penalty dropped him from P4 to P5.\nLeclerc moved to P4.\n\nMcLaren finally wins a race in 2026. #F1 #HungarianGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#HungarianGP"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-norris-wins-hungarian-gp-2026.html",
+        "headline": "Norris Wins 2026 Hungarian Grand Prix — Piastri DNF Hands Reigning Champion First Victory",
+        "word_count": 619
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Norris Wins Hungarian GP\n\n**Social Image (1080x1350)**\n- Search terms: \"Lando Norris McLaren\"\n- Credit: (USA TODAY Sports Images)\n- Caption overlay: \"NORRIS WINS HUNGARIAN GP\"\n\n**Article Hero (1200x630)**\n- Search terms: \"Lando Norris McLaren\"\n- Credit: (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Norris Wins 2026 Hungarian Grand Prix\n**Sources:**\n- Formula1.com: \"Norris beats Verstappen and Antonelli to victory in dramatic Hungarian GP\"\n- Motorsport Week: \"F1 2026 Hungarian Grand Prix - Race Results\"\n- ESPN: \"Lando Norris takes first victory of the season in upgraded McLaren at Hungarian Grand Prix\"\n- autoracing1.com: \"Formula 1 News: Norris eases to 2026 Hungarian GP win\"\n- RacingNews365: \"2026 F1 Hungarian Grand Prix - Budapest results\"\n**Verified Facts (HIGH confidence):**\n- Lando Norris won the 2026 Hungarian Grand Prix [Formula1.com, multiple sources]\n- Podium: Norris (McLaren) 1st, Verstappen (Red Bull) 2nd, Antonelli (Mercedes) 3rd [Formula1.com, RacingNews365]\n- Norris finished approximately 15 seconds ahead of Verstappen [ESPN]\n- Oscar Piastri (McLaren) took the lead at the start but retired during the race [Formula1.com]\n- Lewis Hamilton crossed the line in fourth but was demoted to fifth due to a five-second time penalty for speeding in the pit lane [Formula1.com]\n- Charles Leclerc was promoted to fourth as a result of Hamilton's penalty [Formula1.com]\n- This was Norris's first race win of the 2026 season as reigning world champion [Formula1.com, ESPN]\n- Norris had taken pole position (1:17.207) — McLaren's first 2026 pole, ending Mercedes' 10-race pole streak [from July 26 pipeline]\n**Freshness justification:** Race completed July 27 2026; first race win of Norris's championship defence; dramatic result with Piastri DNF.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Verstappen Exit Clause Now Active — McLaren Move Enters Closing Stages",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Verstappen's Red Bull exit clause is now officially active.\n\nHe's outside the top two at the summer break — the condition that unlocks his 2027 escape route.\n\nHis engineer Lambiase is already confirmed for McLaren in 2028.\n\nThe dominoes are falling. #F1 #Verstappen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Verstappen"
+          ],
+          "char_count": 265
+        },
+        {
+          "label": "Post 2-2",
+          "text": "When asked if he could commit to Red Bull past 2026, Verstappen said:\n\n\"There's nothing to say.\"\n\nHis exit clause is now triggered.\nHis engineer is going to McLaren.\n\nThis is no longer a rumour. It's a process. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 214
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-verstappen-exit-clause-active-mclaren.html",
+        "headline": "Verstappen's Red Bull Exit Clause Is Now Active — McLaren Move Enters Closing Stages",
+        "word_count": 624
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Exit Clause Active\n\n**Social Image (1080x1350)**\n- Search terms: \"Max Verstappen Red Bull\"\n- Credit: (USA TODAY Sports Images)\n- Caption overlay: \"EXIT CLAUSE TRIGGERED\"\n\n**Article Hero (1200x630)**\n- Search terms: \"Max Verstappen Red Bull\"\n- Credit: (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen Exit Clause Now Active\n**Sources:**\n- RacingNews365: \"Max Verstappen can now trigger exit clause to potentially leave Red Bull\"\n- ESPN: \"Verstappen refuses to commit to Red Bull past 2026 amid growing McLaren exit rumours\"\n- Planet F1: \"Max Verstappen McLaren move: Red Bull exit clause nears as contract talks advance\"\n- Sportbible: \"Max Verstappen in closing stages of huge F1 move\"\n- Autosport: \"Red Bull confirms Lambiase exit for F1 2028\"\n- Formula1.com: \"What does Lambiase's Red Bull exit mean for Verstappen\"\n**Verified Facts (HIGH confidence):**\n- Verstappen's contract allows him to leave Red Bull in 2027 if outside top two in championship at summer break [RacingNews365, ESPN]\n- Verstappen finished sixth in the championship at the summer break — well outside the top two [multiple standings sources]\n- Exit clause is therefore now active [RacingNews365]\n- Lambiase (Verstappen's race engineer) confirmed leaving Red Bull for McLaren in 2028 as Chief Racing Officer [Autosport]\n- Verstappen refused to commit to Red Bull past 2026 when asked directly [ESPN]\n- Verstappen quote: \"There's nothing to say\" (when asked about his future) [ESPN]\n- Red Bull tried to buy out exit clause in June talks; Verstappen refused [Planet F1]\n**Facts (MEDIUM confidence):**\n- McLaren move described as in \"closing stages\" (Sportbible) — not independently confirmed with exact timeline\n**Freshness justification:** Exit clause becomes active at summer break; Hungary was last race before break; this is the breaking window.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "F1 Championship at Summer Break — Antonelli Leads Hamilton by 50 Points",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "F1 championship at the summer break:\n\n🥇 Antonelli (Mercedes) — 219 pts\n🥈 Hamilton (Ferrari) — 169 pts (-50)\n🥉 Russell (Mercedes) — 160 pts (-59)\n\n5th — Norris (McLaren)\n6th — Verstappen (Red Bull)\n\nYoungest championship leader in F1 history. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-f1-championship-standings-summer-break-antonelli.html",
+        "headline": "F1 Championship at the Summer Break: Antonelli Leads Hamilton by 50 Points",
+        "word_count": 574
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "F1 Championship Standings\n\n**Social Image (1080x1350)**\n- Search terms: \"Kimi Antonelli Mercedes Formula 1\"\n- Alternate: \"Lewis Hamilton Ferrari Formula 1\"\n- Credit: (USA TODAY Sports Images)\n- Caption overlay: \"CHAMPIONSHIP AT SUMMER BREAK\"\n\n**Article Hero (1200x630)**\n- Search terms: \"Kimi Antonelli Mercedes Formula 1\"\n- Credit: (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "F1 Championship Standings at Summer Break\n**Sources:**\n- RacingNews365: \"2026 F1 championship standings after Hungarian Grand Prix\"\n- Forbes: \"F1 Standings 2026 After The Hungarian Grand Prix\"\n- GPFans: \"F1 Standings 2026: Latest points table as Lewis Hamilton falters in title battle\"\n- Crash.net: \"2026 Formula 1 world championship standings after the Hungarian Grand Prix\"\n**Verified Facts (HIGH confidence):**\n- Kimi Antonelli (Mercedes) leads championship with 219 points [RacingNews365, multiple sources]\n- Hamilton (Ferrari) is second, 50 points behind Antonelli [Forbes, GPFans]\n- Russell (Mercedes) is third, 59 points behind Antonelli [RacingNews365]\n- Norris moved to fifth after his win [standings sources]\n- Verstappen is sixth, one point ahead of Piastri (whose retirement cost him ground) [RacingNews365]\n- Mercedes leads Constructors' Championship by 72 points over Ferrari [RacingNews365]\n- McLaren closed gap to 99 after Norris's win [RacingNews365]\n- Antonelli is F1's youngest championship leader [multiple sources]\n**Freshness justification:** Post-Hungary standings updated July 27; championship situation heading into summer break.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Fernando Alonso's Summer Break Retirement Decision",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Fernando Alonso will use the summer break to decide his F1 future.\n\nHis contract expires at year's end.\nAston Martin: 1 point in 10 races.\n\nAdrian Newey was supposed to change everything. He hasn't yet.\n\nRetire? Stay? Find a better seat? The answer is coming. #F1 #Alonso",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Alonso"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-alonso-f1-retirement-decision-summer-break.html",
+        "headline": "Fernando Alonso's Summer Break Decision: One Point in Ten Races Forces the Question",
+        "word_count": 650
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alonso Retirement Decision\n\n**Social Image (1080x1350)**\n- Search terms: \"Fernando Alonso Aston Martin\"\n- Credit: (USA TODAY Sports Images)\n- Caption overlay: \"ALONSO DECIDES THIS SUMMER\"\n\n**Article Hero (1200x630)**\n- Search terms: \"Fernando Alonso Aston Martin\"\n- Credit: (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Fernando Alonso Retirement Decision\n**Sources:**\n- RacingNews365: \"Fernando Alonso reveals timeline for F1 retirement decision\"\n- Motorsport.com: \"When Fernando Alonso will decide on his F1 future\"\n- Total Motorsport: \"Fernando Alonso sets retirement decision deadline\"\n- Sportbible: \"Fernando Alonso addresses F1 retirement rumours with major promise\"\n**Verified Facts (HIGH confidence):**\n- Alonso's contract with Aston Martin expires at end of 2026 season [multiple sources]\n- Alonso said he will use summer break to decide his future [RacingNews365, Motorsport.com]\n- Aston Martin scored only 1 point in first 10 races of 2026 [multiple sources]\n- Adrian Newey joined Aston Martin ahead of 2026 with huge expectations, but team has been \"arguably the worst\" on grid [reporting consensus]\n- Alonso is weighing: retirement, staying at Aston Martin, or pursuing more competitive seat [reporting consensus]\n**Freshness justification:** Summer break starts now; Alonso has said he'll decide during this period; Hungary was last race.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Five Things to Watch When F1 Returns from Summer Break",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "F1 summer break is here. Five weeks. Five storylines:\n\n🔹 Does Verstappen sign for McLaren?\n🔹 Does Alonso retire?\n🔹 Can Hamilton close 50 pts on Antonelli?\n🔹 Does McLaren build on Norris's Hungary win?\n🔹 What do the FIA rule tweaks change?\n\nSee you in Belgium. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-f1-summer-break-five-storylines-2026.html",
+        "headline": "Five F1 Storylines to Watch During the 2026 Summer Break",
+        "word_count": 702
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "F1 Summer Break Storylines\n\n**Social Image (1080x1350)**\n- Search terms: \"Formula 1 pit lane paddock\"\n- Credit: (USA TODAY Sports Images)\n- Caption overlay: \"FIVE WEEKS. FIVE STORYLINES.\"\n\n**Article Hero (1200x630)**\n- Search terms: \"Formula 1 Hungaroring race\"\n- Credit: (USA TODAY Sports Images)"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "F1 Summer Break Storylines\n**Key threads to watch:**\n- Verstappen's future (McLaren deal pending)\n- Antonelli's championship lead sustainability\n- Alonso's retirement announcement\n- FIA energy management regulation tweaks planned (confirmed from prior pipeline)\n- McLaren's momentum after Norris win\n- Hamilton's title challenge from Ferrari",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
