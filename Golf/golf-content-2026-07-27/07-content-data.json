@@ -1,0 +1,271 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-27",
+  "compiled_at": "2026-07-27T11:39:59.121459+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Jackson Koivun Wins 3M Open — 21-Year-Old Beats Scheffler in Third Pro Start",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Jackson Koivun just beat the world No. 1 in his third pro start.\n\n21 years old. Led Auburn to the NCAA title.\nBogey-free 66. Tournament-record -25.\n\nScottie Scheffler shot 63 and finished SECOND.\n\nOne of the great debut wins in PGA Tour history. #PGATour #3MOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour",
+            "#3MOpen"
+          ],
+          "char_count": 262
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Jackson Koivun at the 3M Open:\n\n🏆 Age: 21\n🏆 Third professional start\n🏆 Tournament-record 25-under\n🏆 Won by 3 over world No. 1 Scheffler\n\nHe missed the cut in his first two starts.\n\nGolf is a game of peaks. #PGATour #3MOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour",
+            "#3MOpen"
+          ],
+          "char_count": 222
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-koivun-wins-3m-open-scheffler.html",
+        "headline": "Jackson Koivun Wins 3M Open: 21-Year-Old Beats World No. 1 Scheffler in Third Pro Start",
+        "word_count": 626
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Jackson Koivun Wins 3M Open\n\n**Social Image (1080x1350)**\n- search_term: \"Jackson Koivun TPC Twin Cities\"\n- Fallback: \"Jackson Koivun PGA Tour\"\n- credit: (USA TODAY Sports Images)\n\n**Article Hero (1200x630)**\n- search_term: \"Jackson Koivun 3M Open 2026\"\n- Fallback: \"Jackson Koivun PGA Tour golf\"\n- credit: (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Lucas Herbert Sets All-Time LIV Golf Scoring Record at 30-Under",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Lucas Herbert just set the all-time LIV Golf scoring record.\n\n-30 at LIV UK. Previous record was -26.\n\nHe led wire-to-wire. Hatton was 6 back at -24.\nRipper GC swept the team title.\n\nHistory at The Belfry. #LIVGolf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf"
+          ],
+          "char_count": 214
+        },
+        {
+          "label": "Post 2-2",
+          "text": "LIV Golf UK final leaderboard:\n\n🥇 Herbert — -30 (ALL-TIME RECORD)\n🥈 Hatton — -24\n🥉 DeChambeau — -21\n\nRipper GC: team title.\n\nHerbert shattered the previous record by FOUR shots. #LIVGolf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf"
+          ],
+          "char_count": 186
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-herbert-liv-scoring-record-30-under.html",
+        "headline": "Lucas Herbert Sets All-Time LIV Golf Scoring Record at -30 in Wire-to-Wire UK Win",
+        "word_count": 484
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Lucas Herbert Sets All-Time LIV Scoring Record\n\n**Social Image (1080x1350)**\n- search_term: \"Lucas Herbert LIV Golf\"\n- Fallback: \"Lucas Herbert golf swing\"\n- credit: (USA TODAY Sports Images)\n\n**Article Hero (1200x630)**\n- search_term: \"Lucas Herbert LIV Golf UK Belfry\"\n- Fallback: \"LIV Golf UK Belfry 2026\"\n- credit: (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Lottie Woad Wins Women's Scottish Open Back-to-Back at -21",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Lottie Woad won the Women's Scottish Open in her pro debut last year.\n\nShe just won it again.\n\nBack-to-back at Dundonald Links. -21, three clear of Hyo Joo Kim.\n\nThe AIG Women's British Open is next. #LPGA #WomensScottishOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA",
+            "#WomensScottishOpen"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-lottie-woad-women-scottish-open-back-to-back.html",
+        "headline": "Lottie Woad Wins Women's Scottish Open Back-to-Back at -21",
+        "word_count": 503
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Lottie Woad Wins Women's Scottish Open\n\n**Social Image (1080x1350)**\n- search_term: \"Lottie Woad golf\"\n- Fallback: \"Lottie Woad Women's Scottish Open\"\n- credit: (USA TODAY Sports Images)\n\n**Article Hero (1200x630)**\n- search_term: \"Lottie Woad Dundonald Links\"\n- Fallback: \"Women's Scottish Open 2026\"\n- credit: (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Scheffler's 2026 Drought — Five Runner-Ups, One Win for the World No. 1",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4-1",
+          "text": "Scottie Scheffler in 2026:\n\n❌ 0 wins at Bay Hill\n❌ 0 wins at The Players\n❌ 0 wins at Augusta\n❌ 0 wins at the U.S. Open\n❌ 0 wins at 3M Open\n\nJust 1 win total — American Express in January.\n5 runner-ups. World No. 1. Golf is strange. #PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour"
+          ],
+          "char_count": 240
+        },
+        {
+          "label": "Post 4-2",
+          "text": "Scheffler shot 63 today and lost to a 21-year-old in his third start.\n\n7 wins in 2024. 6 wins in 2025.\n1 win and 5 runner-ups in 2026.\n\n\"I think I've been really close to winning some tournaments, and that can be frustrating.\"\n\nHe's not wrong. #PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-scheffler-2026-drought-runner-up.html",
+        "headline": "Five Runner-Ups, One Win: Scheffler's 2026 Season Defies Explanation",
+        "word_count": 558
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Scheffler's 2026 Drought\n\n**Social Image (1080x1350)**\n- search_term: \"Scottie Scheffler 2026\"\n- Fallback: \"Scottie Scheffler PGA Tour\"\n- credit: (USA TODAY Sports Images)\n\n**Article Hero (1200x630)**\n- search_term: \"Scottie Scheffler 3M Open 2026\"\n- Fallback: \"Scottie Scheffler golf frustrated\"\n- credit: (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "LIV Golf Financial Crisis — $400M Needed, Events at Risk",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5-1",
+          "text": "LIV Golf needs $400 million to complete its 2026 season.\n\nPIF has spent $5.3B since 2022 — and is withdrawing.\nRestructuring specialists are now on the board.\nMultiple events described as \"on the fence.\"\n\nBankruptcy is being considered. #LIVGolf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf"
+          ],
+          "char_count": 245
+        },
+        {
+          "label": "Post 5-2",
+          "text": "Since 2022, Saudi Arabia's PIF spent over $5.3 billion building LIV Golf.\n\nNow it's withdrawing.\n\nLIV needs $400M to finish 2026. Events are at risk.\nGene Davis and Jon Zinman — restructuring specialists — are on the board.\n\nThe PGA Tour is watching. #LIVGolf #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf",
+            "#Golf"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-liv-golf-financial-crisis-400m.html",
+        "headline": "LIV Golf Needs $400M to Finish Its 2026 Season — And It Doesn't Have It",
+        "word_count": 584
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LIV Golf Financial Crisis\n\n**Social Image (1080x1350)**\n- search_term: \"LIV Golf 2026\"\n- Fallback: \"LIV Golf logo event\"\n- credit: (USA TODAY Sports Images)\n\n**Article Hero (1200x630)**\n- search_term: \"LIV Golf UK Belfry 2026\"\n- Fallback: \"LIV Golf tournament crowd\"\n- credit: (USA TODAY Sports Images)"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

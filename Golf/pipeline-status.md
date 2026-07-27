@@ -1,10 +1,21 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
-- **Date**: 2026-07-26
+- **Date**: 2026-07-27
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-27
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 9 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** gfr-postplanner-2026-07-27.xlsx (9 posts) + gfr-postplanner-tobi-2026-07-27.xlsx (9 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-07-27/review-dashboard.html (24 items)
+- **Notes:** 3M OPEN FINAL — Jackson Koivun (21, Auburn NCAA champion, 3rd pro start) wins at tournament-record -25 / bogey-free 66 final round / beat world No. 1 Scheffler by 3 shots / Scheffler shot 63 / wire-to-wire / $1,584,000 / Scheffler now has 5 runner-ups and just 1 win in 2026 (American Express January); LIV GOLF UK — Lucas Herbert sets all-time LIV scoring record at -30 (previous -26, shattered by 4 shots) / wire-to-wire at The Belfry / Hatton 2nd -24 / DeChambeau 3rd -21 / Ripper GC sweeps team title; WOMEN'S SCOTTISH OPEN — Lottie Woad back-to-back titles at Dundonald Links / -21 total / 3 clear of Hyo Joo Kim (-18) / AIG Women's British Open next at Royal Porthcawl; SCHEFFLER DROUGHT — 5 runner-ups 1 win in 2026 / quote: "I think I've been really close to winning some tournaments, and that can be frustrating"; LIV GOLF CRISIS UPDATE — needs $400M to complete 2026 schedule / PIF spent $5.3B since 2022 and withdrawing / Gene Davis (PIRINATE Consulting) + Jon Zinman installed as restructuring specialists / multiple events "on the fence" / bankruptcy being considered / PGA Tour watching
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-26
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

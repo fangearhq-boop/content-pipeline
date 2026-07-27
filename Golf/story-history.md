@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-07-27
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-27 | T1 | Jackson Koivun Wins 3M Open — 21-Year-Old Beats World No. 1 Scheffler in Third Pro Start; Tournament-Record -25 | X, FB, Article | NEW |
+| 2026-07-27 | T1 | Lucas Herbert Sets All-Time LIV Golf Scoring Record at -30; Wire-to-Wire at The Belfry; Ripper GC Sweeps Team Title | X, FB, Article | FOLLOW UP |
+| 2026-07-27 | T2 | Lottie Woad Wins Women's Scottish Open Back-to-Back at -21; 3 Clear of Hyo Joo Kim; AIG British Open Next | X, FB, Article | FOLLOW UP |
+| 2026-07-27 | T2 | Scheffler's 2026 Drought — Five Runner-Ups, One Win for World No. 1; Final-Round 63 Loses to 21-Year-Old's Third Start | X, FB, Article | NEW |
+| 2026-07-27 | T2 | LIV Golf Financial Crisis — $400M Needed; PIF Withdraws After $5.3B; Restructuring Specialists Installed; Events at Risk | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Jackson Koivun Wins 3M Open
+- **Tier:** 1
+- **Category:** PGA Tour / 3M Open / TPC Twin Cities
+- **Key facts:** Koivun 21 years old / Auburn NCAA champion / third pro start / missed cut in first two / bogey-free 66 final round / tournament-record -25 (259) / beat world No. 1 Scheffler by 3 shots / Scheffler shot 63 / wire-to-wire / $1,584,000 prize
+- **Status:** NEW
+- **Follow-up ideas:** Koivun FedEx Cup trajectory; PGA Tour Playoffs entry; next starts
+
+### STORY 2: Lucas Herbert Sets All-Time LIV Scoring Record
+- **Tier:** 1
+- **Category:** LIV Golf / LIV Golf UK / Lucas Herbert
+- **Key facts:** -30 all-time LIV record / previous record -26 / shattered by 4 shots / wire-to-wire at The Belfry / Hatton 2nd at -24 / DeChambeau 3rd at -21 / Ripper GC team title sweep
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** LIV Golf season standings; Herbert 2026 profile
+
+### STORY 3: Lottie Woad — Women's Scottish Open Back-to-Back
+- **Tier:** 2
+- **Category:** LPGA / Women's Scottish Open / Dundonald Links
+- **Key facts:** -21 total / won by 3 over Hyo Joo Kim (-18) / back-to-back titles / won 2025 edition in professional debut / AIG Women's British Open next at Royal Porthcawl
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** AIG Women's British Open preview; Woad as major contender
+
+### STORY 4: Scheffler's 2026 Drought
+- **Tier:** 2
+- **Category:** PGA Tour / Scottie Scheffler / Analysis
+- **Key facts:** 5 runner-ups in 2026 / 1 win (American Express, January) / shot 63 in final round of 3M Open / still world No. 1 / won 7 in 2024 / 6 in 2025 / quote: "I think I've been really close to winning some tournaments, and that can be frustrating"
+- **Status:** NEW
+- **Follow-up ideas:** Scheffler FedEx Cup Playoffs outlook; next win opportunity
+
+### STORY 5: LIV Golf Financial Crisis
+- **Tier:** 2
+- **Category:** LIV Golf / Business / Crisis
+- **Key facts:** Needs $400M to complete 2026 schedule / PIF spent $5.3B since 2022 and withdrawing / Gene Davis (PIRINATE Consulting) + Jon Zinman installed as restructuring specialists / multiple events "on the fence" / bankruptcy being considered / PGA Tour monitoring closely
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Bridge capital secured or not; event cancellations; PGA Tour response
+
 ## 2026-07-26
 
 | Date | Tier | Story | Platforms | Status |
