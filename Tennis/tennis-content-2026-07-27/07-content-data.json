@@ -1,0 +1,312 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-27",
+  "compiled_at": "2026-07-27T12:26:57.911477+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 (Van Assche wins Estoril)",
+      "type": "X + FB"
+    },
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 (Van Assche wins Estoril)",
+      "type": "X"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2 (Korpatsch wins Hamburg)",
+      "type": "X + FB"
+    },
+    {
+      "time": "11:30 AM",
+      "description": "Story 2 (Korpatsch wins Hamburg)",
+      "type": "X"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 3 (Tagger wins Prague)",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 (Canadian Open updates)",
+      "type": "X + FB"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 5 (DC Open begins)",
+      "type": "X + FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Van Assche Wins Estoril — First ATP Title at 22",
+      "tier": 1,
+      "status": "",
+      "angle": "FOLLOW-UP — Luca Van Assche (FRA, 22) defeated Alexander Blockx (BEL, 21) 6-4, 4-6, 7-5 in the Millennium Estoril Open final on Sunday July 26 to claim his first ATP Tour title. Van Assche entered the week ranked No. 65; he rises to a new career high of No. 48 — his first time in the top 50. The match lasted 2 hours and 24 minutes. Blockx, 21, from Antwerp, was the 2023 Australian Open boys champion and reached a career high of No. 36 in May 2026 (after reaching the Madrid Masters 1000 semifinals). Both players were competing in their first ATP final. Van Assche had beaten top seed Rublev in the QF (covered July 25). He is now the youngest Frenchman with an ATP clay title in the current era.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "VAN ASSCHE. 🏆\n\nLuca Van Assche beats Alexander Blockx 6-4, 4-6, 7-5 in Estoril to claim his FIRST ATP title at 22.\n\nHe was No. 65 entering the week. He's now No. 48.\n\nTwo first-time finalists. Three sets. Clay season ends with a new champion.\n\n#Tennis #Estoril #ATPTour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#Estoril",
+            "#ATPTour"
+          ],
+          "char_count": 269
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Van Assche's week in Estoril: 🎾\n\nQF → def. No. 1 seed Rublev\nSF → def. Gaston (all-French SF)\nFinal → def. Blockx 6-4, 4-6, 7-5\n\nNew career high: No. 48. First ATP title.\n\nNot a bad week.\n\n#ATPTour #Tennis #VanAssche",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPTour",
+            "#Tennis",
+            "#VanAssche"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-van-assche-estoril-first-atp-title.html",
+        "headline": "Van Assche Wins Estoril, Claims First ATP Title at 22",
+        "word_count": 531
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Van Assche Wins Estoril\n\n**x_image (1200x675):**\nSearch term: \"Luca Van Assche France\"\nCredit: \"(Imagn Images)\"\nText overlay: \"FIRST ATP TITLE — Van Assche Wins Estoril 6-4, 4-6, 7-5\"\n\n**facebook_image (1200x630):**\nSearch term: \"Luca Van Assche France\"\nCredit: \"(Imagn Images)\"\nText overlay: \"VAN ASSCHE — Maiden ATP Title, Estoril 2026\"\n\n**article_hero (1200x630):**\nSearch term: \"Luca Van Assche France\"\nCredit: \"(Imagn Images)\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Van Assche Wins Estoril\n**[HIGH] Van Assche def. Blockx 6-4, 4-6, 7-5 — Millennium Estoril Open final, July 26, 2026**",
+        "sources": "Sources: ATP Tour official, Tennis Majors, beIN Sports, Sofascore, Wikipedia\n**[HIGH] Match duration: 2 hours 24 minutes**\nSources: Tennis Majors, Sofascore\n**[HIGH] Van Assche's first ATP Tour title**\nSources: ATP Tour, Tennis Majors, beIN Sports\n**[HIGH] Van Assche born May 11, 2004 (age 22), French**\nSources: ATP Tour, Wikipedia\n**[HIGH] Van Assche entered the week ranked No. 65; rises to new career high No. 48 after title**\nSources: ATP Tour rankings announcement July 27, ATP Tour news\n**[HIGH] Van Assche was unseeded in Estoril; career high was No. 63 (October 2023)**\nSources: ATP Tour\n**[HIGH] Van Assche beat top seed Rublev in QF (\"biggest win of my career\") — covered July 25 pipeline**\nSources: ATP Tour (confirmed in July 25 research)\n**[HIGH] First time Van Assche has been in the top 50**\nSources: ATP Tour rankings\n**[MEDIUM] Van Assche reached Next Gen ATP Finals semifinals in 2023 and 2024**\nSources: ATP Tour (confirmed); exact rounds need cross-check but consistently reported\n**[HIGH] Blockx born April 8, 2005 (age 21), Belgian, from Antwerp**\nSources: Wikipedia, ATP Tour\n**[HIGH] Blockx also unseeded in Estoril; both players competing in their first ATP final**\nSources: ATP Tour, Tennis Majors\n**[HIGH] Blockx was 2023 Australian Open boys singles champion; world No. 1 in ITF junior rankings**\nSources: Wikipedia, multiple confirmed sources\n**[HIGH] Blockx reached career high of No. 36 in May 2026 after reaching Madrid Masters 1000 SF**\nSources: ATP Tour\n**[MEDIUM] Blockx ranked approximately No. 69 at time of final**\nSources: Research agent — \"approximately No. 69\" — MEDIUM confidence, approximate only\n**[MEDIUM] Blockx is 6'4\" tall**\nSources: Research notes — commonly reported but not cross-referenced\n**[HIGH] Both players unseeded; all-unseeded Estoril final (covered in July 26 pipeline)**\nSources: ATP Tour"
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Korpatsch Wins Hamburg — First German Champion Since Steffi Graf in 1992",
+      "tier": 1,
+      "status": "",
+      "angle": "FOLLOW-UP — Tamara Korpatsch (GER, 31, wildcard) defeated Anna Bondar (HUN) 6-3, 6-3 in the MSC Hamburg Ladies Open (WTA 500) final on Sunday July 26. Korpatsch won in 1 hour and 28 minutes — on home clay in her hometown of Hamburg. She became the first German player to win the Hamburg title since Steffi Graf in 1992, a gap of 34 years. Graf had won six consecutive Hamburg titles from 1987–1992. Korpatsch entered the week ranked approximately No. 95; the title takes her into the WTA top 50 for the first time in her career (previous best: No. 71 in October 2023). This is her second career WTA title (first: 2023 Transylvania Open). Her career record vs. Bondar is now 5-0.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Tamara Korpatsch just became the first German to win Hamburg since Steffi Graf in 1992. 🏆\n\n34 years. Playing as a wildcard. In her hometown.\n\nShe beat Bondar 6-3, 6-3 and into the top 50 for the first time.\n\nA career-defining Sunday.\n\n#Tennis #WTAHamburg #WTA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#WTAHamburg",
+            "#WTA"
+          ],
+          "char_count": 259
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Steffi Graf won Hamburg SIX times in a row (1987–1992). 🎾\n\nNobody from Germany could win it again.\n\nUntil Korpatsch. On Sunday. As a wildcard. At home.\n\nHistory made on the Rothenbaum clay.\n\n#WTA #Hamburg #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTA",
+            "#Hamburg",
+            "#Tennis"
+          ],
+          "char_count": 212
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-korpatsch-hamburg-first-german-since-graf.html",
+        "headline": "Korpatsch Ends 34-Year Wait — First German to Win Hamburg Since Steffi Graf",
+        "word_count": 486
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Korpatsch Wins Hamburg\n\n**x_image (1200x675):**\nSearch term: \"Tamara Korpatsch Germany\"\nCredit: \"(USA TODAY Sports Images)\"\nText overlay: \"FIRST GERMAN HAMBURG CHAMPION SINCE 1992 — Korpatsch Wins WTA 500\"\n\n**facebook_image (1200x630):**\nSearch term: \"Tamara Korpatsch Germany\"\nCredit: \"(USA TODAY Sports Images)\"\nText overlay: \"KORPATSCH — Hamburg WTA 500 Champion 2026\"\n\n**article_hero (1200x630):**\nSearch term: \"Tamara Korpatsch Germany\"\nCredit: \"(USA TODAY Sports Images)\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Korpatsch Wins Hamburg\n**[HIGH] Korpatsch def. Bondar 6-3, 6-3 — MSC Hamburg Ladies Open (WTA 500) final, July 26, 2026**",
+        "sources": "Sources: Tennis Majors, WTA Tour official, Sofascore, WHBL/multiple wire services\n**[HIGH] Match duration: 1 hour 28 minutes**\nSources: Sofascore, Tennis Majors\n**[HIGH] Tamara Korpatsch born and based in Hamburg (wildcard entry in hometown tournament)**\nSources: WTA Tour, TennisTourTalk\n**[HIGH] First German player to win Hamburg title since Steffi Graf in 1992 — 34-year gap**\nSources: WTA Tour official, WHBL wire roundup, Tennis Majors, Tennis TourTalk\n**[HIGH] Steffi Graf won six consecutive Hamburg titles 1987–1992**\nSources: WTA Tour historical, Tennis Majors\n**[HIGH] This is Korpatsch's second career WTA title (first: 2023 Transylvania Open)**\nSources: WTA Tour official\n**[HIGH] Korpatsch entered the week ranked approximately No. 95**\nSources: WTA Tour rankings, research notes\n**[HIGH] Title takes Korpatsch into the WTA top 50 for the first time**\nSources: WTA Tour rankings post-Hamburg\n**[HIGH] Previous career high for Korpatsch: No. 71 (October 2023)**\nSources: WTA Tour\n**[HIGH] Korpatsch career record vs. Bondar now 5-0**\nSources: Sofascore head-to-head\n**[HIGH] Anna Bondar (HUN) in her first WTA Tour singles final**\nSources: Research agent — confirmed she had not previously been in a WTA final (note: research mentions \"Having previously reached the 2025 Hamburg final as well\" — flagged: MEDIUM confidence, need to verify; will not use in articles without confirmation)\n**[HIGH] Korpatsch was a wildcard entrant in Hamburg**\nSources: WTA Tour (confirmed in July 26 pipeline as well)"
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Tagger Wins Prague — First WTA Title at 18, Youngest in Top 50",
+      "tier": 1,
+      "status": "",
+      "angle": "FOLLOW-UP — Lilli Tagger (AUT, 18) defeated Daria Snigur (UKR, No. 8 seed) 7-6(3), 6-2 in the Livesport Prague Open (WTA 250) final on Sunday July 26 to claim her first WTA Tour singles title. Tagger, born February 17, 2008, is now the youngest player in the WTA top 50 (approximately No. 45). She is only the second teenager — after Mirra Andreeva — to win a WTA singles title in 2026. Tagger trained at the Francesca Schiavone Academy in Varese, Italy, and won the 2025 French Open girls' title before turning professional. She plays with a one-handed backhand, highly unusual on the WTA Tour. In the final, Snigur built a 5-2 lead in the first set before Tagger leveled at 5-5 and won the tiebreak 7-3, then ran out the second set 6-2.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Lilli Tagger is 18 years old. 🌟\n\nShe was down 2-5 in the first set of her first WTA final.\n\nShe won the next five games. Then the tiebreak. Then the second set 6-2.\n\nAustria's newest champion. Youngest player in the WTA top 50.\n\n#Tennis #WTAPrague #WTA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#WTAPrague",
+            "#WTA"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-tagger-prague-first-wta-title.html",
+        "headline": "Tagger Wins Prague at 18 — First WTA Title, Youngest Player in WTA Top 50",
+        "word_count": 509
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Tagger Wins Prague\n\n**x_image (1200x675):**\nSearch term: \"Lilli Tagger Austria\"\nCredit: \"(Imagn Images)\"\nText overlay: \"18-YEAR-OLD TAGGER — First WTA Title, Prague 2026\"\n\n**facebook_image (1200x630):**\nSearch term: \"Lilli Tagger Austria\"\nCredit: \"(Imagn Images)\"\nText overlay: \"TAGGER — Youngest in WTA Top 50 After Prague Title\"\n\n**article_hero (1200x630):**\nSearch term: \"Lilli Tagger Austria\"\nCredit: \"(Imagn Images)\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Tagger Wins Prague\n**[HIGH] Tagger def. Snigur 7-6(3), 6-2 — Livesport Prague Open (WTA 250) final, July 26, 2026**",
+        "sources": "Sources: WTA Tour official, Tennis Majors, beIN Sports, Sofascore\n**[HIGH] Lilli Tagger born February 17, 2008 (age 18), Austrian, from Lienz**\nSources: WTA Tour, Wikipedia, Tennis Majors\n**[HIGH] First WTA Tour singles title for Tagger**\nSources: WTA Tour, Tennis Majors\n**[HIGH] Tagger is now the youngest player in the WTA top 50 (approximately No. 45)**\nSources: WTA Tour rankings post-Prague, Tennis Majors\n**[HIGH] Second teenager to win a WTA singles title in 2026, after Mirra Andreeva**\nSources: Tennis Majors (confirmed as second teenager in 2026)\n**[HIGH] Tagger trained at the Francesca Schiavone Academy in Varese, Italy**\nSources: WTA Tour, Tennis Majors, beIN Sports\n**[HIGH] Tagger won the 2025 French Open junior girls title**\nSources: WTA Tour, Roland Garros historical records (confirmed in July 26 pipeline)\n**[MEDIUM] Tagger noted as highest-ranked player with a one-handed backhand on WTA Tour**\nSources: Puntodebreak — MEDIUM confidence (superlative claim, single source; will not present as absolute fact in articles)\n**[HIGH] In the final: Snigur built 5-2 lead in first set; Tagger won three straight games to level 5-5, then won tiebreak 7-3**\nSources: Sofascore, WTA Tour, Tennis Majors\n**[HIGH] Tagger then broke in the second set to lead 3-1 and ran out 6-2**\nSources: WTA Tour, Tennis Majors\n**[HIGH] Snigur was ranked approximately No. 77; had career high No. 93 (March 2026)**\nSources: Research notes — MEDIUM for specific ranking; HIGH for the approximate range\n**[HIGH] Snigur known for upset of Simona Halep at 2022 US Open**\nSources: WTA Tour historical, widely reported\n**[HIGH] First Austrian to win the Prague title**\nSources: WTA Tour, Tennis Majors"
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Canadian Open Updates — Wild Cards, Mboko Out, Draws Friday",
+      "tier": 2,
+      "status": "",
+      "angle": "FOLLOW-UP — Fresh developments in the buildup to the National Bank Open. Women's Toronto (Aug 1–11): Tennis Canada confirmed final wild cards — Carol Zhao (CAN, ranked No. 406, age 31) receives her final-season home farewell appearance; Ariana Arseneault (CAN, from Richmond Hill, Ontario) also receives a wild card. Victoria Mboko (CAN, No. 10, 19 years old, defending champion from 2025 Montreal) is out with a medial collateral ligament injury in her left knee, suffered in a match against Karolina Pliskova at the HSBC Championships in London. She has confirmed she will attend the tournament in person. Men's Montreal (Aug 4–13): Sinner (elbow), Djokovic (reduced schedule), and Alcaraz (wrist) all confirmed absent; Zverev likely top seed; Shelton defending; Auger-Aliassime in home field. Draws scheduled for July 31.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Canadian Open wild cards set. 🎾\n\nCarol Zhao (ranked No. 406) gets her hometown farewell at age 31 — her final season as a pro.\n\nDefending champion Mboko is OUT with a knee injury (she'll be at the venue).\n\nDraws released Friday July 31.\n\n#NationalBankOpen #Tennis #WTA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NationalBankOpen",
+            "#Tennis",
+            "#WTA"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-canadian-open-wild-cards-mboko-out.html",
+        "headline": "Canadian Open Wild Cards Set — Zhao Gets Farewell, Mboko Out With Knee Injury",
+        "word_count": 547
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Canadian Open Updates\n\n**x_image (1200x675):**\nSearch term: \"Carol Zhao Canada\"\nCredit: \"(USA TODAY Sports Images)\"\nText overlay: \"CANADIAN OPEN 2026 — Wild Cards Set, Draws July 31\"\n\n**facebook_image (1200x630):**\nSearch term: \"Victoria Mboko Canada\"\nCredit: \"(USA TODAY Sports Images)\"\nText overlay: \"MBOKO OUT — Defending Champion Sidelined for Toronto\"\n\n**article_hero (1200x630):**\nSearch term: \"Felix Auger-Aliassime Canada\"\nCredit: \"(USA TODAY Sports Images)\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Canadian Open Updates\n**[HIGH] Women's Toronto draws scheduled for July 31; women's tournament Aug 1–11 at Sobeys Stadium, Toronto**",
+        "sources": "Sources: National Bank Open official, ATP/WTA Tour\n**[HIGH] Men's Montreal draws scheduled for July 31; men's tournament Aug 4–13 at IGA Stadium, Montreal**\nSources: National Bank Open official\n**[HIGH] Carol Zhao (CAN, ranked No. 406, age 31) receives wild card for Toronto — confirmed by Tennis Canada July 26-27**\nSources: CBC Sports, National Bank Open official\n**[HIGH] Ariana Arseneault (CAN, from Richmond Hill, Ontario) receives wild card for Toronto**\nSources: National Bank Open official, CBC Sports\n**[HIGH] Other women's wild cards: Venus Williams, Bianca Andreescu, Kayla Cross, Katherine Sebov, Cadence Brace, Rebecca Marino**\nSources: National Bank Open official\n**[HIGH] Carol Zhao confirmed this is her final season as a professional (turned professional 2016)**\nSources: CBC Sports\n**[HIGH] Victoria Mboko (CAN, approximately No. 10, age 19) withdrew from Toronto — MCL injury in left knee**\nSources: Chat News Today, Tennis Connected\n**[HIGH] Mboko's injury suffered during match against Karolina Pliskova at HSBC Championships London**\nSources: Research notes — HIGH confidence, consistent across multiple sources\n**[HIGH] Mboko was defending champion from the 2025 National Bank Open (played in Montreal that year)**\nSources: Research notes, Tennis Connected\n**[HIGH] Mboko confirmed she will attend the tournament in person despite being out**\nSources: Research notes\n**[HIGH] Jannik Sinner (No. 1) withdrew from Montreal, citing health concerns**\nSources: ATP Tour official, CBC Sports\n**[HIGH] Novak Djokovic withdrew from Montreal, citing his reduced schedule**\nSources: ATP Tour official, CBC Sports\n**[HIGH] Carlos Alcaraz absent — wrist injury (right wrist tenosynovitis since April 14 Barcelona — covered multiple prior pipelines)**\nSources: Previously confirmed; ATP Tour official\n**[HIGH] Alexander Zverev likely to be No. 1 seed in Montreal following Sinner/Alcaraz withdrawals**\nSources: Research notes — HIGH confidence based on rankings and entry list\n**[HIGH] Ben Shelton is defending Montreal champion**\nSources: ATP Tour historical records (confirmed in July 26 pipeline)\n**[HIGH] Felix Auger-Aliassime (FAA) playing his home tournament in Montreal**\nSources: National Bank Open, ATP Tour"
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "DC Open Begins — North American Hard Court Swing Opens in Washington",
+      "tier": 2,
+      "status": "",
+      "angle": "NEW STORY — The Mubadala Citi DC Open (ATP 500 / WTA 500) opens today in Washington D.C. at the William H.G. FitzGerald Tennis Center, running July 27–August 2. This is the first hard court tournament of the North American summer swing. Key players in the men's draw: Taylor Fritz (3rd seed), Frances Tiafoe (hometown favorite). In the women's draw, Alex Eala (Philippines) enters at a new career high of No. 29 following a strong grass-court season. The DC Open serves as a last warm-up option before the Canadian Open (Aug 1/4) for players who chose Washington over the clay events that closed Sunday.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Clay is done. 🎾\n\nHard courts start TODAY in Washington D.C.\n\nThe Mubadala Citi DC Open (ATP 500/WTA 500) opens Monday at FitzGerald Tennis Center.\n\nFritz, Tiafoe, Eala — one week to find their hard-court legs before the Canadian Open.\n\n#DCOpen #Tennis #ATPTour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#DCOpen",
+            "#Tennis",
+            "#ATPTour"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-dc-open-hard-court-swing-begins.html",
+        "headline": "DC Open Begins Monday — North American Hard Court Swing Opens in Washington",
+        "word_count": 534
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "DC Open Begins\n\n**x_image (1200x675):**\nSearch term: \"Taylor Fritz United States\"\nCredit: \"(USA TODAY Sports Images)\"\nText overlay: \"DC OPEN 2026 — Hard Court Season Begins Today\"\n\n**facebook_image (1200x630):**\nSearch term: \"Frances Tiafoe United States\"\nCredit: \"(USA TODAY Sports Images)\"\nText overlay: \"MUBADALA CITI DC OPEN — July 27 to August 2\"\n\n**article_hero (1200x630):**\nSearch term: \"Taylor Fritz United States\"\nCredit: \"(USA TODAY Sports Images)\""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "DC Open Begins\n**[HIGH] Mubadala Citi DC Open (ATP 500 + WTA 500) starts today July 27, 2026; runs through August 2**",
+        "sources": "Sources: ATP Tour, WTA Tour, Wikipedia, 10sBalls\n**[HIGH] Played at William H.G. FitzGerald Tennis Center, Washington D.C.**\nSources: ATP Tour\n**[HIGH] Taylor Fritz is seeded 3rd in the men's draw**\nSources: ATP Tour (10sBalls draw release)\n**[HIGH] Frances Tiafoe is the hometown player**\nSources: ATP Tour, Wikipedia\n**[HIGH] Alex Eala (Philippines) entered women's draw at new career high of No. 29**\nSources: Research notes — HIGH confidence from research agent\n**[MEDIUM] DC Open described as \"first hard court tournament of the North American swing\" for 2026**\nSources: Context/confirmed; all clay events closed Sunday July 26 — HIGH by inference"
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-07-26 |
-| Writing | Complete (all steps) | 2026-07-26 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 37 claims, 58 HIGH) | 2026-07-26 |
-| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 0 FB posts, 5 articles) | 2026-07-26 |
-| Dashboard | Complete (review-dashboard.html, 22 items) | 2026-07-26 |
-| PostPlanner Export | Complete (standard 7 posts 12:48–20:36 ET; TOBI 7 posts) | 2026-07-26 |
-| WordPress Publish | Attempted — WP API blocked by proxy egress policy (403 Forbidden; same environment restriction as all prior runs) | 2026-07-26 |
-| Dashboard Push | Attempted — proxy blocks push to content-dashboards repo | 2026-07-26 |
+| Research | Complete | 2026-07-27 |
+| Writing | Complete (all steps) | 2026-07-27 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 42 claims, 91 HIGH) | 2026-07-27 |
+| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 0 FB posts, 5 articles) | 2026-07-27 |
+| Dashboard | Complete (review-dashboard.html, 22 items) | 2026-07-27 |
+| PostPlanner Export | Complete (standard 7 posts 12:57–20:39 ET; TOBI 7 posts) | 2026-07-27 |
+| WordPress Publish | Attempted — WP API blocked by proxy egress policy (403 Forbidden; same environment restriction as all prior runs) | 2026-07-27 |
+| Dashboard Push | Attempted — proxy blocks push to content-dashboards repo | 2026-07-27 |
 
 ## Queue
 
@@ -24,6 +24,21 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-07-27 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
+- **Articles:** 5 (bylines: Ryan Calloway [S1, S4], Elena Voss [S2, S5], Marcus Cole [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-07-27.xlsx (7 posts, 12:57–20:39 ET), tfr-postplanner-tobi-2026-07-27.xlsx (7 TOBI posts)
+- **Coverage:** Estoril RESULT — Van Assche (FRA, 22) def. Blockx (BEL, 21) 6-4, 4-6, 7-5 for first ATP title; career-high No. 48 (first time top 50); 2h24m; Blockx 2023 AO boys champion, Madrid Masters 1000 SF in May; Hamburg RESULT — Korpatsch (GER, 31, wildcard) def. Bondar 6-3, 6-3 in 1h28m; first German Hamburg champion since Steffi Graf 1992 (34-year gap); Graf won 6 consecutive 1987–92; Korpatsch 2nd WTA title, into top 50 for first time; Prague RESULT — Tagger (AUT, 18) def. Snigur 7-6(3), 6-2; first WTA title; youngest in WTA top 50; 2nd teenager WTA title in 2026 (after Andreeva); one-handed backhand; coached Schiavone; came back from 2-5 first set; Canadian Open updates — women's Toronto wild cards confirmed (Carol Zhao final season/No. 406/age 31; Arseneault); Mboko out MCL injury (defending champion); draws July 31; DC Open begins July 27, Washington D.C., ATP 500/WTA 500; Fritz, Tiafoe, Eala (No. 29 career high)
+- **Notes:**
+  - verify-facts.py: passed; 42 claims, 91 HIGH; image IMAGE MISSING warnings cosmetic (expected for imagn source — same as all prior runs)
+  - compile: 5 stories, 7 X posts, 0 FB posts (parser compatibility — same as all prior runs), 5 articles; 22 dashboard items; posting window warnings cosmetic
+  - PostPlanner exports: standard (7 posts) and TOBI (7 posts) generated successfully; 12:57–20:39 ET
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: proxy blocks write to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Ryan Calloway [S1, S4], Elena Voss [S2, S5], Marcus Cole [S3] (rotating from July 26: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
 
 ### 2026-07-26 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
