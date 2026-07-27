@@ -5170,3 +5170,61 @@ Each day's stories are appended at the top (newest first).
   - AL Central race weekly standings updates
   - White Sox trade deadline direction (buyers or sellers?)
   - Cholowsky timeline to majors
+
+---
+
+## 2026-07-27
+
+### Story 1: HOF Class of 2026 — Beltran, Jones, Kent Inducted in Cooperstown
+- **Date:** 2026-07-27
+- **Tier:** 1
+- **Classification:** FOLLOW UP (HOF induction tracked since July 25 pipeline)
+- **Angle:** Ceremony recap July 26 — Andruw Jones (first from Curacao; 78.4% BBWAA, 9th yr eligibility; emotional speech "love letter" to Curacao). Carlos Beltran (84.2% BBWAA, 4th yr; dedicated speech to Puerto Rico). Jeff Kent (Contemporary Baseball Era Committee December 2025; first 2B since Biggio 2015; unusually emotional). Record: 60 HOFers in Cooperstown; 57 on stage simultaneously (largest in HOF history). 12,000 crowd, Clark Sports Center, Cooperstown.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Post-ceremony HOF attendance/viewership numbers
+  - Jeff Kent Hall of Fame case retrospective
+  - Andruw Jones: defensive career revisited with modern metrics
+
+### Story 2: Ohtani Knee Regression — Skips Saturday Bullpen
+- **Date:** 2026-07-27
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Ohtani injury tracked since July 21)
+- **Angle:** Ohtani skipped scheduled July 26 bullpen — "regression" in left knee per Roberts. Prior July 22 bullpen (~30-31 pitches) initially OK, but knee responded poorly after. Roberts: "won't be next week." Last pitched July 3 (8-2, 1.79 ERA, 95K, 85.2 IP). DHing .288/.397/.536. Medical: landing torque on left leg during pitching delivery aggravates knee. No timetable.
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Next Ohtani bullpen attempt (when announced)
+  - Dodgers second-half pitching plan without Ohtani
+  - Cy Young odds update
+
+### Story 3: MLB Trade Deadline August 3 — 7 Days Out
+- **Date:** 2026-07-27
+- **Tier:** 2
+- **Classification:** FOLLOW UP (deadline tracked since July 13)
+- **Angle:** Key names: Skubal (Tigers likely keeping, 2.83 ERA), Mason Miller (Padres, 0.89 ERA 25/25 saves — rivals say he moves), CJ Abrams (Nationals 52-52 listening; Yankees/Brewers interested), Angels fire sale (Neto/Soriano/Detmers). First major deal: Red Sox acquire Curtis Mead (25, 3B) from Nationals for SP Connelly Early.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Daily deadline tracker through August 3
+  - Skubal trade announcement (or non-trade story)
+  - Mason Miller destination
+
+### Story 4: Mike Trout 4-for-4, Passes Tim Salmon on Angels Doubles List
+- **Date:** 2026-07-27
+- **Tier:** 2
+- **Classification:** NEW
+- **Angle:** July 26 — Angels 4, Giants 3. Trout 4-for-4 (double + 3 singles), first 4-hit game since April 2021 (21st career). Double No. 340 moved him past Tim Salmon into 2nd all-time Angels franchise doubles (behind Garrett Anderson's 489). Also: Soler HR + Adell HR in 4th inning; Soriano 5 strong innings.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Trout doubles vs. Garrett Anderson's record (489 to chase)
+  - Angels 2026 second-half performance
+
+### Story 5: White Sox 54-48, Leading AL Central — Historic Rebuild
+- **Date:** 2026-07-27
+- **Tier:** 3
+- **Classification:** FOLLOW UP (White Sox tracked since July 22)
+- **Angle:** 41-121 (2024 MLB record) → 60-102 (2025) → 54-48, 1st in AL Central (2026). Buying at deadline. Colson Montgomery 21+ HR. Kyle Teel 10-day IL (high ankle sprain, 6-12 weeks, likely season-ending); Edgar Quero (22, Triple-A Charlotte) called up.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - White Sox trade deadline acquisitions
+  - AL Central standings daily tracking
+  - Quero development story
