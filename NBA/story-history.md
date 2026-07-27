@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-07-27
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-27 | T1 | LeBron James Signs with 76ers — Embiid's First Surgery-Free Summer Sealed the Deal | X, FB, Article | FOLLOW UP |
+| 2026-07-27 | T1 | Kawhi Leonard Investigation — Fact-Finding Phase Complete, NBA Now Decides | X, FB, Article | FOLLOW UP |
+| 2026-07-27 | T2 | DeMar DeRozan Returns to Chicago Bulls — Rejected Warriors' Pitch | X, FB, Article | FOLLOW UP |
+| 2026-07-27 | T2 | Warriors Regroup — Curry, Porzingis, Draymond Build Without LeBron or DeRozan | X, FB, Article | NEW |
+| 2026-07-27 | T2 | 2026-27 NBA Season: Six New Head Coaches, Schedule Release Imminent | X, FB, Article | NEW |
+
+### STORY 1: LeBron James Signs with 76ers — Embiid Health Meeting
+- **Tier:** 1
+- **Category:** NBA Free Agency / Philadelphia 76ers
+- **Key facts:** LeBron met Embiid in LA ~1 month before announcement for 2-hour private meeting; Embiid: first surgery-free summer, felt completely healthy; LeBron signed 2yr/$8M (player option); 76ers odds 20-1→10-1; LeBron quote: "I still want to compete, to win"; LeBron: "I believe I can help make the 76ers a championship team"; Rich Paul confirmed deal; entering 24th season at age 41
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Introductory press conference; full roster finalization; Eastern Conference odds tracking
+
+### STORY 2: Kawhi Leonard Investigation — Fact-Finding Complete
+- **Tier:** 1
+- **Category:** NBA Investigation / Kawhi Leonard / Toronto Raptors
+- **Key facts:** Outside law firm has completed fact-finding work (The Athletic's Vorkunov); NBA now reviews findings; investigation scope: $28M Aspiration endorsement to Kawhi, $300M arena naming rights, Ballmer $60M personal investment, second undisclosed endorsement deal; agreed trade: Ingram/Dick/2031+2033 picks/2027 swap/2 seconds to LAC; outcomes: no wrongdoing (trade clears) or discipline (renegotiate/void)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** NBA announces findings; Clippers discipline or no wrongdoing ruling; Raptors trade completion
+
+### STORY 3: DeMar DeRozan — Returns to Chicago Bulls
+- **Tier:** 2
+- **Category:** NBA Free Agency / DeMar DeRozan / Chicago Bulls
+- **Key facts:** DeRozan rejected Warriors despite Draymond Green's personal pitch; signed with Chicago Bulls; averaged 18.4 PPG on ~50% shooting for Kings last season; 6x All-Star; turns 37 in August; Bulls have first-year coach Tiago Splitter
+- **Status:** FOLLOW UP (free agent since Kings waiver; now signed)
+- **Follow-up ideas:** Bulls 2026-27 roster; Splitter-DeRozan pairing analysis; Warriors next FA target
+
+### STORY 4: Warriors Regroup — Curry + Porzingis + Draymond
+- **Tier:** 2
+- **Category:** NBA Offseason / Golden State Warriors
+- **Key facts:** Warriors missed on LeBron (chose 76ers) and DeRozan (chose Bulls); core: Curry + Porzingis (2yr/$40M) + Draymond (4yr/$100M); Dunleavy said team needs "everything"; legitimate playoff team, championship window narrowing
+- **Status:** NEW
+- **Follow-up ideas:** Warriors trade market moves; remaining FA signings; season outlook
+
+### STORY 5: 2026-27 NBA — Six New Coaches, Schedule Imminent
+- **Tier:** 2
+- **Category:** NBA Season Preview / Coaching Changes
+- **Key facts:** Six new coaches: Tiago Splitter (Bulls), Taylor Jenkins (Bucks), Dusty May (Mavs), Sean Sweeney (Magic), Micah Nori (Blazers), Jamahl Mosley (Pelicans); schedule withheld pending LeBron decision, now cleared for release within days; 1/5 of NBA changed coaches
+- **Status:** NEW
+- **Follow-up ideas:** Schedule release; opening night matchups; Cooper Flagg debut date
+
 ## 2026-07-26
 
 | Date | Tier | Story | Platforms | Status |

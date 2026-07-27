@@ -1,10 +1,21 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Last Run
-- **Date**: 2026-07-26
+- **Date**: 2026-07-27
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-27
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 8 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce)
+- **PostPlanner exports:** hh-postplanner-2026-07-27.xlsx (8 posts) + hh-postplanner-tobi-2026-07-27.xlsx (8 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-07-27/review-dashboard.html (23 items)
+- **Notes:** LEBRON 76ERS OFFICIAL — Embiid's first surgery-free summer was key factor; private LA meeting ~1 month before; LeBron signed 2yr/$8M; 76ers odds 20-1→10-1; KAWHI INVESTIGATION FACT-FINDING COMPLETE — law firm done, NBA now reviews, Raptors trade decision imminent; DEROZAN TO BULLS — rejected Warriors (Draymond personal pitch) and returned to Chicago; 18.4 PPG last season; WARRIORS REGROUP — Curry+Porzingis+Draymond without LeBron/DeRozan; 6 NEW NBA COACHES — Splitter (Bulls), Jenkins (Bucks), May (Mavs), Sweeney (Magic), Nori (Blazers), Mosley (Pelicans); schedule release imminent
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-26
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
