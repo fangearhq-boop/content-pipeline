@@ -2,6 +2,45 @@
 
 ---
 
+## July 27, 2026
+
+### Story 1: Colorado Day 2026 — Pioneers Museum and United We Rock
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Colorado Day falls Saturday, August 1, 2026, the 150th anniversary of Colorado statehood (August 1, 1876). Two COS events: Pioneers Museum (FREE, 10 a.m.–4 p.m., 215 S. Tejon St; USAFA Wild Blue Band, Wishing Star Farms petting zoo, PPLD photobooth, "Freedom to Thrive" exhibit opens); United We Rock at Rock Ledge Ranch (2–8 p.m., 3105 Gateway Rd; GA $5, under 5 free, 21+ tasting pass $25).
+- **Content Produced:** Article (Sarah Morales), 2 X posts, Facebook Long-Form + Caption, Image Concept
+- **Tier:** 1
+- **Key Facts:** Colorado Day: August 1, 1876 statehood; 150th anniversary 2026; Pioneers Museum: FREE, 10 a.m.–4 p.m., 215 S. Tejon St; United We Rock: 2–8 p.m., 3105 Gateway Rd, $5 GA, under 5 free, 21+ tasting $25; Sources: pioneersmuseum.org, rockledgeranch.com, visitcos.com, COS event calendar
+
+### Story 2: Target Cat & Jack Toddler Girls' Sandals Recall (#26-629)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recall #26-629. Target recalling approximately 211,000 pairs of Cat & Jack toddler girls' sandals. Tan sandals, gold buckles, raffia straps with decorative plastic pearls. Pearls can detach — choking hazard. Sizes 5T–12T, ~$22, sold Jan–May 2026 at Target stores and Target.com. 23 reports of pearls detaching, no injuries. Return to any Target for full refund; no receipt needed.
+- **Content Produced:** Article (Jamie Rivera), 2 X posts, Facebook Long-Form + Caption, Image Concept
+- **Tier:** 1
+- **Key Facts:** Recall #26-629; 211,000 pairs; Sizes 5T–12T; ~$22; sold Jan–May 2026 Target/Target.com; 23 reports, no injuries; return any Target, no receipt, full refund; Sources: CPSC.gov
+
+### Story 3: Fall Youth Sports Registration Open in Colorado Springs
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Multiple fall youth sports programs in late-registration windows. Soccer (PreK–9th grade): late reg open now, practices start week of Aug. 10. Flag football (grades 1–8): late reg open now. Tackle football (grades 3–8): late reg opens Aug. 12, practices Aug. 17. Context: D11 first day Aug. 12, D20 first day Aug. 17–18.
+- **Content Produced:** Article (Sarah Morales), 1 X post, Facebook Long-Form + Caption, Image Concept
+- **Tier:** 2
+- **Key Facts:** Soccer: PreK–9th grade, late reg open, practices week of Aug. 10; Flag football: grades 1–8, late reg open; Tackle football: grades 3–8, late reg opens Aug. 12, practices Aug. 17; Sources: COS youth sports organizations, parks and rec
+
+### Story 4: Aspen Acres Fire — Evacuations Lifted, Families Return Home
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (first COS Parenting coverage) — Aspen Acres Fire: 101,879 acres, 61% contained, 9th largest CO wildfire in state history. Evacuation orders lifted for Wetmore, Beulah, Rye, San Isabel, Colorado City (south of COS). Families returning home. 180+ structures destroyed (55+ homes). Flash flood/debris flow risk in burn scar areas during afternoon storms — standard July pattern making this immediately relevant today.
+- **Content Produced:** Article (Jamie Rivera), 1 X post, Facebook Long-Form + Caption, Image Concept
+- **Tier:** 2
+- **Key Facts:** 101,879 acres; 61% contained; 9th largest CO fire by acreage; 180+ structures destroyed, 55+ homes; evacuations lifted: Wetmore, Beulah, Rye, San Isabel, Colorado City; flash flood risk in burn scars; Sources: InciWeb, CO Division of Fire Prevention, NWS Pueblo, county emergency management
+
+### Story 5: Mikrdoo Children's Pajamas CPSC Safety Warning
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC Safety Warning (not a formal recall) for Mikrdoo brand children's pajamas. Sold on Amazon via SHEIN as third-party seller, Aug 2025–May 2026, $18–$20. Fail federal flammability standard for children's sleepwear (16 CFR Part 1615/1616). Burn injury risk. Action: stop using; do NOT donate; destroy. Timely hook: back-to-school shopping season.
+- **Content Produced:** Article (Sarah Morales), 1 X post, Facebook Long-Form + Caption, Image Concept
+- **Tier:** 2
+- **Key Facts:** CPSC Safety Warning (not recall); Mikrdoo brand; Amazon via SHEIN; Aug 2025–May 2026; $18–$20; fails flammability standard; burn injury risk; stop use, do not donate, destroy; Sources: CPSC.gov
+
+---
+
 ## July 26, 2026
 
 ### Story 1: Acacia Park Sunday Market — Free Event Today

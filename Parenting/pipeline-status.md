@@ -1,5 +1,47 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: July 27, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Colorado Day Aug. 1 (150th anniversary of statehood, 1876): Pioneers Museum FREE 10 a.m.–4 p.m. 215 S. Tejon St (USAFA Wild Blue Band, Wishing Star Farms petting zoo, PPLD photobooth, "Freedom to Thrive" exhibit opens); United We Rock at Rock Ledge Ranch 2–8 p.m. 3105 Gateway Rd ($5 GA, under 5 free, 21+ tasting $25); Target Cat & Jack toddler sandals recall #26-629 (211,000 pairs, sizes 5T–12T, ~$22, Jan–May 2026, raffia straps with plastic pearls detach → choking hazard, 23 reports no injuries, return any Target full refund no receipt); COS Fall youth sports: soccer PreK–9th late reg open/practices Aug. 10, flag football grades 1–8 open, tackle football grades 3–8 reg opens Aug. 12/practices Aug. 17; Aspen Acres Fire: 101,879 acres 61% contained 9th largest CO fire, evacuations lifted Wetmore/Beulah/Rye/San Isabel/Colorado City, 180+ structures 55+ homes destroyed, flash flood risk burn scars; Mikrdoo pajamas CPSC Safety Warning (not recall): Amazon via SHEIN Aug 2025–May 2026 $18–$20, fails federal flammability standard, burn injury risk, stop use/do NOT donate/destroy |
+| Story History Check | COMPLETE | All 5 stories NEW — no overlap with July 26 run |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; USAFA Wild Blue Band/petting zoo/photobooth MEDIUM (event listing, not confirmed on museum's own page); tackle football org name MEDIUM (may be YMCA or city parks) |
+| Story Analysis | COMPLETE | 02-story-analysis.md — ### STORY N: format; angles, headline options, engagement hooks; Quick Reference tables for all 5 stories |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (S2:2, S1:2, S4:1, S3:1, S5:1); #### Text Post A/B — TIME MT heading format; all ≤280 chars; 4 hashtags each; times in MT; reformatted for PostPlanner compatibility |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form posts + 5 Image Captions; engagement questions; NO hashtags; COS voice; contractions; 0 exclamation marks |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts; ### STORY N: format; 1200×675 (X) and 1200×630 (FB/hero); clean bottom third; no celebrity likenesses; no brand logos |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 5 stories; x_image + facebook_image + article_hero; all not_started; gemini base_only; kAHCKfCZgk0 brand kit |
+| Articles | COMPLETE | 5 articles (500–750 words; semantic HTML5; What's Next sections; 0 exclamation marks; no figure tags; Quick Reference tables in all 5); bylines: Sarah Morales (A1, A3, A5), Jamie Rivera (A2, A4) |
+| Fact-Check | COMPLETE | verify-facts.py passed; 81 claims; 161 HIGH; 21 MEDIUM; 56 LOW; all stories present in all content files; image not_started warnings cosmetic (expected for gemini source) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts, 5 articles, 22 dashboard items; posting window warnings cosmetic |
+| Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-07-27.xlsx (7 posts 13:14–20:44 MT) + TOBI cosp-postplanner-tobi-2026-07-27.xlsx (7 TOBI posts) |
+| Dashboard Push | Attempted — proxy blocks write to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API (403 Forbidden) | Same environment restriction as all prior runs |
+
+### 2026-07-27 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB long-form = 12 total posts (PostPlanner xlsx: 7 posts 13:14–20:44 MT, 7 TOBI)
+- **Articles:** 5 (bylines: Sarah Morales [A1, A3, A5], Jamie Rivera [A2, A4])
+- **PostPlanner exports:** cosp-postplanner-2026-07-27.xlsx (7 posts, 13:14–20:44 MT), cosp-postplanner-tobi-2026-07-27.xlsx (7 TOBI posts)
+- **Coverage:** Colorado Day 2026 (Aug. 1, 150th anniversary of CO statehood; Pioneers Museum FREE 10 a.m.–4 p.m. 215 S. Tejon St — USAFA Wild Blue Band, Wishing Star Farms petting zoo, PPLD photobooth, "Freedom to Thrive" exhibit opens; United We Rock Rock Ledge Ranch 2–8 p.m. 3105 Gateway Rd $5 GA/under 5 free/21+ tasting $25); Target Cat & Jack toddler girls' sandals recall #26-629 (211,000 pairs, sizes 5T–12T, ~$22, sold Jan–May 2026, plastic pearls on raffia straps detach → choking hazard, 23 reports no injuries, return any Target full refund no receipt); COS fall youth sports registration (soccer PreK–9th late reg open/practices Aug. 10; flag football grades 1–8 open; tackle football grades 3–8 reg opens Aug. 12/practices Aug. 17); Aspen Acres Fire update (101,879 acres, 61% contained, 9th largest CO fire, 180+ structures 55+ homes destroyed, evacuations lifted Wetmore/Beulah/Rye/San Isabel/Colorado City, flash flood risk in burn scars during afternoon storms); Mikrdoo children's pajamas CPSC Safety Warning (Amazon via SHEIN Aug 2025–May 2026 $18–$20, fails 16 CFR Part 1615/1616 flammability standard, burn injury risk, stop use/do NOT donate/destroy, back-to-school timing hook)
+- **Notes:**
+  - verify-facts.py: all 5 stories present in all content files; 81 claims; image not_started warnings cosmetic (expected for gemini source)
+  - compile: posting window warnings cosmetic; 7 X posts, FB posts 0 in XLSX (pre-existing parser limitation); 5 articles
+  - X posts file: #### Text Post A/B — TIME MT heading format for PostPlanner compatibility
+  - PostPlanner: 7 X posts in schedule; FB posts 0 in XLSX (pre-existing parser limitation)
+  - WordPress: WP API blocked by proxy (403 Forbidden); same restriction as all prior runs
+  - Dashboard push failed: proxy blocks write to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4] (rotating from July 26: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4])
+  - Research: all facts from web search; no facts from memory
+  - July 27 is NOT Thursday — no Weekend Family Roundup required
+  - S5 Mikrdoo: CPSC Safety Warning framed correctly (not a recall) throughout article and social posts
+
+---
+
 ## Latest Run: July 26, 2026
 
 | Step | Status | Notes |
