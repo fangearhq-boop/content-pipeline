@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-07-28
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-28 | T1 | The 21-Year-Old Who Just Made PGA Tour History in His Third Start — Koivun by the Numbers | X, FB, Article | FOLLOW UP |
+| 2026-07-28 | T1 | LIV Golf's Michigan Season Finale Has Zero Infrastructure Built — A Team Captain Gives It 5% Odds | X, FB, Article | FOLLOW UP |
+| 2026-07-28 | T2 | Nelly Korda Arrives at Royal Lytham Hunting Her Third Major of 2026 — AIG Women's Open Starts Thursday | X, FB, Article | NEW |
+| 2026-07-28 | T2 | Scheffler's Impossible 2026 — Five Runner-Ups, Winless in Four Majors, and Still World No. 1 | X, FB, Article | FOLLOW UP |
+| 2026-07-28 | T2 | The Numbers Behind Lucas Herbert's -30 at LIV Golf UK — Three Records, One Historic Week | X, FB, Article | FOLLOW UP |
+
+### STORY 1: The 21-Year-Old Who Just Made PGA Tour History in His Third Start — Koivun by the Numbers
+- **Tier:** 1
+- **Category:** PGA Tour / 3M Open / Jackson Koivun
+- **Key facts:** Youngest American to win PGA Tour event by multiple shots in 94 years; 2nd-fastest player in history to win on Tour; -25 tournament record (259 total), 3-stroke outright win over Scheffler; 3rd pro start (turned pro ~24 days before win); $1,584,000 / 500 FedExCup pts; Auburn: 3x consecutive SEC POY (first in 60 yrs), 11 career wins, 68.89 avg, 2x Ben Hogan/Nicklaus/Haskins Award winner, June 2026 NCAA champion
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** FedEx Cup Playoffs entry; next starts; Koivun follow on Tour debut season
+
+### STORY 2: LIV Golf's Michigan Season Finale Has Zero Infrastructure Built — A Team Captain Gives It 5% Odds
+- **Tier:** 1
+- **Category:** LIV Golf / Business / Michigan Event
+- **Key facts:** Aug 27-30 at The Cardinal, Saint John's Resort, Plymouth Township, Michigan; as of July 23 zero infrastructure on site (no hospitality, stage, signage, bridge); Martin Kaymer (Cleeks GC captain) gave 5% chance, "highly unlikely"; PIF cut funding; LIV needs $300M replacement capital; contractors unpaid/travel canceled; New Orleans event already canceled; still officially on schedule
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Michigan event canceled or saved; LIV new investors; 2027 league status
+
+### STORY 3: Nelly Korda Arrives at Royal Lytham Hunting Her Third Major of 2026 — AIG Women's Open Starts Thursday
+- **Tier:** 2
+- **Category:** LPGA / AIG Women's Open / Royal Lytham
+- **Key facts:** Round 1 July 30; runs through Aug 2; Royal Lytham & St Annes, Lancashire; final women's major of 2026; 50th Women's British Open / 26th LPGA major edition; $10M record purse; 144 players; Korda world No. 1 with 4 career majors entering (2021 KPMG, 2024 Chevron, 2026 Chevron, 2026 US Women's Open); win = 5th career major and 3rd of 2026; eyeing career Grand Slam
+- **Status:** NEW
+- **Follow-up ideas:** AIG Women's Open daily round coverage; Korda result
+
+### STORY 4: Scheffler's Impossible 2026 — Five Runner-Ups, Winless in Four Majors, and Still World No. 1
+- **Tier:** 2
+- **Category:** PGA Tour / Scottie Scheffler / Analysis
+- **Key facts:** 1 win 2026 (American Express January, -27 under, 4 shots clear, 20th career); 5 runner-ups confirmed by PGA Tour July 26 headline; most recent: 3M Open shot 63 lost by 3; winless all 4 majors (led Open Championship 54 holes, fell Sunday); still World No. 1 / FedExCup leader / Tour's lowest scoring avg; historical: only he and Cameron Young (2022) had 5+ runner-ups in 40 years; quote: "I think I've been really close to winning some tournaments, and that can be frustrating"
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** FedEx Cup Playoffs performance; next win opportunity; year-end assessment
+
+### STORY 5: The Numbers Behind Lucas Herbert's -30 at LIV Golf UK — Three Records, One Historic Week
+- **Tier:** 2
+- **Category:** LIV Golf / Lucas Herbert / LIV Golf UK
+- **Key facts:** JCB Golf & Country Club, Rocester, Staffordshire, July 23-26; -30 wire-to-wire (lowest in LIV history, shattered previous -26 by 4 shots); rounds: 61-66-69-62 (opened and closed bogey-free); runner-up Tyrrell Hatton -24, 6-shot margin; 30 birdies (most ever LIV); 32 birdies+eagles (most ever LIV); Ripper GC swept individual+team title; Herbert is Australian
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** LIV season standings; Herbert 2026 profile; Ripper GC team championship hopes
+
 ## 2026-07-27
 
 | Date | Tier | Story | Platforms | Status |

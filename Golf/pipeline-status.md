@@ -1,10 +1,21 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
-- **Date**: 2026-07-27
+- **Date**: 2026-07-28
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-28
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 9 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres)
+- **PostPlanner exports:** gfr-postplanner-2026-07-28.xlsx (14 posts) + gfr-postplanner-tobi-2026-07-28.xlsx (14 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-07-28/review-dashboard.html (24 items)
+- **Notes:** KOIVUN 3M OPEN HISTORICAL CONTEXT — youngest American to win PGA Tour by multiple shots in 94 yrs / 2nd-fastest ever to win on Tour / -25 tournament record / 3-stroke win over Scheffler / 3rd pro start / $1.584M / 500 FedExCup pts / Auburn: 3 consecutive SEC POY (first in 60 yrs); LIV MICHIGAN IN JEOPARDY — zero infrastructure built (Aug 27-30 at The Cardinal, Plymouth Township MI) / Kaymer "5% chance, highly unlikely" / PIF cut funding / LIV needs $300M / contractors unpaid / New Orleans already canceled; AIG WOMEN'S OPEN PREVIEW — Royal Lytham, Round 1 July 30, $10M record purse, 144 players / Korda world No. 1 hunting 3rd major of 2026 (has 4 career, entered with Chevron+USWO 2026); SCHEFFLER 2026 — 5 runner-ups (PGA Tour confirmed July 26), 1 win (American Express), winless 4 majors, still No. 1 / only he + Cameron Young (2022) had 5+ runner-ups in 40 yrs; HERBERT LIV RECORD DEEP-DIVE — -30 at JCB G&CC, previous record -26 beaten by 4, 30 birdies (LIV record), 32 birdies+eagles (LIV record), rounds 61-66-69-62, beat Hatton by 6, Ripper GC team sweep
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-27
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
