@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-07-28
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via 2 research agents, 5 stories verified HIGH/MEDIUM confidence), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations — all ≤280; counts: 232/252/246/269/243/277/257), FB posts (5 stories), image concepts (9 items), image manifest (9 items, not_started), articles (5), fact-check (51 claims), compile (5 stories, 7 tweets, 0 FB posts — format known, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (0 posts compiled — format known). WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard publish push failed (proxy known restriction). IMAGE MISSING expected (not_started). FB posts: 0 compiled (format known). PostPlanner exports: 0 (format known).
+- **Key Stories**: Jadelyn Allchin AUSL Championship Series MVP/6 of 8 series RBI/2-run HR + RBI double Game 2/"We brought a lot of heart"/5 UCLA alums on Talons roster (Tier 1 FOLLOW UP), Isa Torres transfers to Texas/.530 BA/16 HR/56 RBI/FSU records/D1Softball NPOY/NFCA Gold Glove/ACC POY+DPOY/Georgetown TX native (Tier 1 NEW), PGF Nationals Week 2 Day 2/14U Sweet 16/12U+10U Elite 8/Deanna Manning Stadium finals Aug 2/PGF.TV (Tier 2 FOLLOW UP), Texas Tech No. 1 transfer portal class 2026/Pickering (OU) + Beachum (.406 10HR FSU) + arms behind Terry/Oregon No. 2/OU No. 4 (Tier 2 NEW), AUSL 2026 by the numbers/181% viewership growth/404K viewers June 21 record/first pro softball network TV (ABC July 25)/Fouts 4 records/Brady 11 HR AUSL record/Talons back-to-back (Tier 3 FOLLOW UP/EVERGREEN)
+
+## Last Run
 - **Date**: 2026-07-27
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via research agent, 5 stories verified HIGH confidence), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations — all ≤280), FB posts (5 stories), image concepts (9 items), image manifest (9 items, not_started), articles (5), fact-check (67 claims), compile (5 stories, 6 tweets, 0 FB posts — format known, 5 articles, 21 items), dashboard (21 items), PostPlanner exports (no posts compiled — format). WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).

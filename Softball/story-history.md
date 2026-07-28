@@ -3,6 +3,62 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-07-28
+
+### Story 1: Jadelyn Allchin — AUSL Championship Series MVP Profile and Reaction
+- **Date:** 2026-07-28
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Championship tracked since July 22; new MVP profile/reaction angle with UCLA connection)
+- **Angle:** Post-championship reaction. Allchin drove in 6 of Utah's 8 series RBI. "We brought a lot of heart" quote. Five former UCLA Bruins on Talons roster (UCLA Athletics article July 27). First back-to-back AUSL champions in history.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Utah Talons 2027 roster/expansion draft
+  - Allchin offseason news
+  - AUSL 2027 season preview
+
+### Story 2: Isa Torres Transfers to Texas — D1Softball 2026 National Player of the Year
+- **Date:** 2026-07-28
+- **Tier:** 1
+- **Classification:** NEW (first time in pipeline; signed June 18, 2026)
+- **Angle:** .530 BA/16 HR/56 RBI/78 runs at FSU. Set FSU records in BA (.530), runs (78), slugging (.978), OBP (.591). D1Softball NPOY, NFCA Gold Glove, ACC POY + DPOY. Georgetown TX native coming home. Joins Texas 2026 WCWS champs. Also adding Swan (ASU C) and Lincoln (TTU LHP).
+- **Content Produced:** Article (article-02, Emily Rawlings), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Texas 2027 roster preview
+  - Torres fall practice/development
+  - Texas vs. Texas Tech 2027 rematch narrative
+
+### Story 3: PGF Nationals Week 2 Bracket Update — Sweet 16 (14U), Elite 8 (12U/10U)
+- **Date:** 2026-07-28
+- **Tier:** 2
+- **Classification:** FOLLOW UP (PGF Week 2 tracked since July 27)
+- **Angle:** Day 2 bracket play results. Winner's Brackets: 14U → Sweet 16, 12U/10U → Elite 8. Deanna Manning Stadium finals through August 2. PGF.TV streaming. Contact period ends July 31. September 1 = 35 days.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - PGF Week 2 champions (by August 2)
+  - September 1 recruiting window coverage
+
+### Story 4: 2026 Transfer Portal Class Rankings — Texas Tech No. 1
+- **Date:** 2026-07-28
+- **Tier:** 2
+- **Classification:** NEW (first time in pipeline)
+- **Angle:** Texas Tech No. 1 (Pickering from OU + Beachum .406/10HR/69RBI from FSU + arms behind Terry), Oregon No. 2, Oklahoma No. 4, Texas A&M No. 7. Contact period ends July 31. September 1 = 35 days.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - September 1 recruiting window coverage
+  - Texas Tech fall practice roster news
+
+### Story 5: AUSL 2026 Season by the Numbers
+- **Date:** 2026-07-28
+- **Tier:** 3
+- **Classification:** FOLLOW UP/EVERGREEN (AUSL season tracked throughout 2026)
+- **Angle:** 181% viewership increase over 2025. 404K viewers June 21 (league record). First pro softball on network TV (ABC July 25). Fouts 4 AUSL records. Maya Brady 11 HR (AUSL HR record). Allchin Championship Series MVP. Talons back-to-back. Year 3 starts 2027.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - AUSL 2027 expansion/roster news
+  - League growth story (3rd season)
+
+---
+
 ## 2026-07-25
 
 ### Story 1: AUSL Championship Game 1 Recap — Talons 3, Bandits 1
