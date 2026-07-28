@@ -1131,3 +1131,53 @@ Track previously covered stories to avoid repetition and maintain content freshn
 - **Byline:** Marcus Cole
 - **Key Facts:** Andreescu out; Mboko out for 2026 season; ~10 total WDs (men: Sinner/Djokovic/Alcaraz/Draper; women: Muchova/Mboko/Paolini/Raducanu/Yastremska/Andreescu); Sources: Tennis365, Yardbarker, Tennis Tonic, tennisuptodate
 - **Follow-Up Opportunities:** Canadian Open draws July 31; tournament Aug. 1/4
+
+---
+
+## 2026-07-28
+
+### Story 1: DC Open ATP Day 1 — Tiafoe Upset by Atmane; Day 2 Preview de Minaur vs. Tsitsipas
+- **Date:** 2026-07-28
+- **Angle:** FOLLOW-UP (July 27 Story 5) — Terence Atmane (FRA) def. Frances Tiafoe (USA, 6th seed) 4-6, 6-3, 6-4 in DC Open R1; Tiafoe's first opening-round loss in Washington since 2021; 25 unforced errors (15 backhand); Atmane was 0-3 vs. Tiafoe in 2026 including Wimbledon R1; Fritz def. Bergs 6-3, 6-4; Musetti def. Arnaldi 6-0, 3-1 ret.; Nishikori def. Fucsovics 6-7(3), 6-3, 6-4; Day 2: de Minaur (1, defending) vs. Tsitsipas (WC) headline Tuesday; also Shelton (2), Fils (8), Mensik (7), Tien (5)
+- **Content Produced:** Article, 2 X Text Posts (A: Tiafoe upset; B: Day 2 preview), Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Elena Voss
+- **Key Facts:** Atmane def. Tiafoe 4-6, 6-3, 6-4; 25 UE; Tiafoe "I just felt off"; Atmane 0-3 vs. Tiafoe 2026 entering match; de Minaur vs. Tsitsipas Day 2 marquee clash; Sources: ATP Tour, Washington Times, Baltimore Sun, Field Level Media
+- **Follow-Up Opportunities:** de Minaur-Tsitsipas result; DC Open Day 2 full results; Tiafoe's season trajectory
+
+### Story 2: Jack Draper DC Open Withdrawal — Ranking Falls from No. 4 to No. 147
+- **Date:** 2026-07-28
+- **Angle:** NEW STORY — Jack Draper (GBR) withdrew from DC Open before playing a match; left arm bone bruising; missed AO, Roland-Garros, Wimbledon, now DC Open 2026; career-high No. 4 (2025) → current No. 147; replaced by lucky loser Mackenzie McDonald vs. Michelsen; targeting Montreal (wildcard needed) + Cincinnati + US Open
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Marcus Cole
+- **Key Facts:** Draper WD before any match; left arm bone bruising ongoing; No. 4 → No. 147; targeting Montreal wildcard; Sources: ATP Tour, TNT Sports, Yahoo Sports
+- **Follow-Up Opportunities:** Draper wildcard decisions for Montreal/Cincinnati; ranking recovery
+
+### Story 3: DC Open WTA Day 1 — Fernandez Wins 6-1 6-4; Eala vs. Zheng Headlines Tuesday
+- **Date:** 2026-07-28
+- **Angle:** FOLLOW-UP (July 27 Story 5) — Fernandez (7, defending) def. Linette 6-1, 6-4 in 1h19m; top 4 seeds (Pegula/Svitolina/Osaka/Shnaider) had byes; Tuesday: Eala (No. 29 career high) vs. Zheng Stadium Court; Venus Williams vs. Potapova (Williams 11-match losing streak); Eala withdrew from doubles with Venus to focus singles
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Ryan Calloway
+- **Key Facts:** Fernandez def. Linette 6-1, 6-4 in 1h19m; Eala vs. Zheng Tuesday Stadium Court; Venus 11-match losing streak; Sources: WTA official, Tennis365, TennisWorldUSA, Yardbarker
+- **Follow-Up Opportunities:** Eala-Zheng result; Venus result; DC Open WTA bracket development
+
+### Story 4: Los Cabos ATP 250 Opens — Norrie Breaks Six-Match Drought; Cruz Hewitt ATP Debut
+- **Date:** 2026-07-28
+- **Angle:** NEW STORY — Mifel Tennis Open by Telcel Oppo (ATP 250) Los Cabos, Mexico July 27–Aug 1 (10th anniversary); Norrie (5) def. Kovacevic 6-4, 6-1 in 1h22m ending 6-match losing streak since April; Cruz Hewitt (AUS, 17, son of Lleyton Hewitt) made ATP main draw debut via qualifying (2 qualifying retirements); Lleyton Hewitt courtside; Cruz lost Giron 6-3, 7-6(2) R1; Seeds: Lehecka (1), Darderi (2), Cerundolo (3), Khachanov (4), Norrie (5), Shapovalov (8, defending); Shapovalov competing despite rib fracture (Queen's Club) + shoulder injury (retired Wimbledon R1 vs. Carreno Busta)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Elena Voss
+- **Key Facts:** Norrie def. Kovacevic 6-4, 6-1 in 1h22m; Norrie ended 6-match losing streak; Cruz Hewitt 17 ATP debut; Lleyton courtside; Cruz lost Giron 6-3, 7-6(2); Sources: Tennis Tonic, Yahoo Sports, TNT Sports, TennisUpToDate, ATP Tour
+- **Follow-Up Opportunities:** Los Cabos R2 results; Shapovalov R1 result; Cruz Hewitt tracking
+
+### Story 5: Canadian Open Seedings Confirmed — Sabalenka (1) WTA, Zverev (1) ATP; Draws July 31
+- **Date:** 2026-07-28
+- **Angle:** FOLLOW-UP (July 27 Stories 4+5) — WTA Toronto (Aug 1–11): Sabalenka (1), Rybakina (2), Pegula (3), Gauff (4), Andreeva (5), Noskova (6, Wimbledon champion), Swiatek (7); 72/75 WTA confirmed; ATP Montreal (Aug 4–13): Zverev (1), FAA (2); Sinner (health), Djokovic (injury), Alcaraz (wrist) all absent; Forbes "absolute disaster"; other seeds: de Minaur, Medvedev, Shelton (defending), Fritz, Ruud, Lehecka, Cobolli, Bublik; draws July 31; main draw play begins Aug 2; Wimbledon context: Sinner def. Zverev 6-7(9), 7-6(2), 6-3, 6-4 (Sinner 5th Slam, 2nd Wimbledon); Noskova def. Muchova 6-2, 5-7, 6-3 (first Slam, youngest Wimbledon champion 15 yrs)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Marcus Cole
+- **Key Facts:** Sabalenka (1) WTA Toronto; Noskova (6) Wimbledon champion; Zverev (1) ATP Montreal; triple WD (Sinner/Djokovic/Alcaraz); draws July 31; Sources: Tennis365, National Bank Open official, WTA, ATP, ESPN, Forbes, Wimbledon official, CBS Sports
+- **Follow-Up Opportunities:** Canadian Open draws July 31; tournament Aug 1/4; Noskova seeded run; FAA home field Montreal
+

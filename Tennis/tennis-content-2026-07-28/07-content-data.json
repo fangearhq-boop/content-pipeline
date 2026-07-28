@@ -1,0 +1,312 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-28",
+  "compiled_at": "2026-07-28T12:28:50.214847+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 (Tiafoe upset)",
+      "type": "X + FB"
+    },
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 (de Minaur-Tsitsipas Day 2)",
+      "type": "X"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2 (Draper withdrawal)",
+      "type": "X + FB"
+    },
+    {
+      "time": "11:30 AM",
+      "description": "Story 2 (Draper ranking collapse)",
+      "type": "X"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 3 (DC Open WTA)",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 (Los Cabos/Cruz Hewitt)",
+      "type": "X + FB"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 5 (Canadian Open seedings)",
+      "type": "X + FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Tiafoe Stunned at Home — Atmane Upsets No. 6 Seed 4-6, 6-3, 6-4 at DC Open",
+      "tier": 1,
+      "status": "",
+      "angle": "NEW STORY — Terence Atmane (FRA) defeated hometown favorite Frances Tiafoe (USA, 6th seed) 4-6, 6-3, 6-4 in Round 1 of the Mubadala Citi DC Open on Monday July 27. It was Tiafoe's first opening-round loss in Washington since 2021. Tiafoe committed 25 unforced errors, 15 from his backhand. Atmane had lost to Tiafoe three previous times in 2026, including in Wimbledon Round 1. Also Monday: Taylor Fritz (3) def. Zizou Bergs 6-3, 6-4; Lorenzo Musetti (4) def. Matteo Arnaldi 6-0, 3-1 ret.; Kei Nishikori def. Marton Fucsovics 6-7(3), 6-3, 6-4. Tuesday headliner: Alex de Minaur (1, defending champion) vs. Stefanos Tsitsipas (wildcard).",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Tiafoe is out. 😳\n\nTerence Atmane def. Frances Tiafoe (6) 4-6, 6-3, 6-4 in R1 of the DC Open.\n\n25 unforced errors. Three prior losses to Atmane in 2026. A hometown crowd stunned.\n\n#Tennis #DCOpen #ATPTour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#DCOpen",
+            "#ATPTour"
+          ],
+          "char_count": 203
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Tuesday at DC Open: 🎾\n\nAlex de Minaur (1, defending champion) vs. Stefanos Tsitsipas\n\nThe must-watch match of Round 1.\n\n#ATPTour #DCOpen #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPTour",
+            "#DCOpen",
+            "#Tennis"
+          ],
+          "char_count": 144
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-atmane-upsets-tiafoe-dc-open-r1.html",
+        "headline": "Revenge on Home Soil: Atmane Upsets Tiafoe 4-6, 6-3, 6-4 to Open DC Open",
+        "word_count": 557
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Tiafoe Upset at DC Open\n\n**X/Social Image:**\n- Search term: `Terence Atmane`\n- Direction: Atmane in match celebration pose or mid-swing on hard court\n- Overlay text: \"UPSET — Atmane def. Tiafoe 4-6, 6-3, 6-4\"\n- Status: not_started\n\n**Article Hero Image:**\n- Search term: `Frances Tiafoe`\n- Direction: Tiafoe in match play, hard court surface preferred\n- Used as article hero (1200x630)\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Tiafoe Upset at DC Open\n**HIGH confidence facts:**\n- Terence Atmane (FRA) def. Frances Tiafoe (USA, 6th seed) 4-6, 6-3, 6-4 (multiple ATP/news sources confirm)\n- Tiafoe committed 25 unforced errors, 15 from backhand (ATP Tour, Washington Times, Baltimore Sun)\n- Tiafoe quote: \"I just felt off.\" (Washington Times)\n- Atmane had lost to Tiafoe three previous times in 2026, including at Wimbledon R1 (ATP Tour)\n- First Tiafoe opening-round loss in Washington since 2021 (Baltimore Sun)\n- Taylor Fritz (3) def. Zizou Bergs 6-3, 6-4 (Field Level Media, ATP)\n- Lorenzo Musetti (4) def. Matteo Arnaldi 6-0, 3-1 ret. (Field Level Media)\n- Kei Nishikori def. Marton Fucsovics 6-7(3), 6-3, 6-4 (Field Level Media)\n- Alejandro Tabilo def. opponent 7-6(3), 4-6, 6-4 (Field Level Media; opponent name not confirmed in sources)\n- Marcos Giron def. Cruz Hewitt 6-3, 7-6(2) (multiple sources)\n- Alex de Minaur (1, defending champion) vs. Stefanos Tsitsipas (wildcard) scheduled Tuesday (ATP Tour, 10sBalls)\n- Ben Shelton (2), Jakub Mensik (7), Arthur Fils (8), Learner Tien (5) all scheduled Tuesday (10sBalls order of play)\n- Tournament: William H.G. FitzGerald Tennis Center, Washington D.C., July 27–August 2 (ATP official)\n**Sources:** ATP Tour atptour.com, Washington Times, Baltimore Sun, Field Level Media",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Jack Draper Withdraws from DC Open — Ranking Collapses from No. 4 to No. 147",
+      "tier": 1,
+      "status": "",
+      "angle": "NEW STORY — Jack Draper (GBR) withdrew from the DC Open before playing his first match, citing left arm bone bruising. The injury has been ongoing and wiped out his entire 2026 major season: Australian Open missed, Roland-Garros missed, Wimbledon missed. Draper received a wildcard for Washington but experienced increased soreness and pulled out. He was replaced by lucky loser Mackenzie McDonald. Draper's ATP ranking has collapsed from a career-high of No. 4 to No. 147. He is now targeting Montreal (wildcard needed) and Cincinnati ahead of the US Open.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Jack Draper came into 2026 ranked No. 4 in the world.\n\nHe's now No. 147.\n\nLeft arm bone bruising wiped out his entire 2026 season — AO, Roland-Garros, Wimbledon, and now DC Open.\n\nHe withdrew before playing a single match here.\n\n#Tennis #JackDraper #ATPTour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#JackDraper",
+            "#ATPTour"
+          ],
+          "char_count": 257
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Draper's 2026:\n\n❌ Australian Open — missed\n❌ Roland-Garros — missed\n❌ Wimbledon — missed\n❌ DC Open — withdrew\n\nCareer-high: No. 4. Current ranking: No. 147.\n\nTargeting Montreal (wildcard needed) and Cincinnati.\n\n#ATPTour #Draper #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPTour",
+            "#Draper",
+            "#Tennis"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-draper-dc-open-withdrawal-ranking-collapse.html",
+        "headline": "No. 4 to No. 147: Jack Draper Withdraws from DC Open as Injury Wipes Out 2026",
+        "word_count": 546
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Jack Draper Withdrawal\n\n**X/Social Image:**\n- Search term: `Jack Draper`\n- Direction: Draper in practice or sideline pose; conveys difficulty\n- Overlay text: \"No. 4 → No. 147: Draper Withdraws Again\"\n- Status: not_started\n\n**Article Hero Image:**\n- Search term: `Jack Draper`\n- Direction: Draper looking contemplative; hard court setting\n- Used as article hero (1200x630)\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Jack Draper Withdrawal\n**HIGH confidence facts:**\n- Draper withdrew from DC Open before playing a match, citing left arm bone bruising (ATP Tour, TNT Sports, Yahoo Sports)\n- Draper received a DC wildcard (ATP Tour confirmed)\n- Replaced by lucky loser Mackenzie McDonald vs. Alex Michelsen (ATP Tour)\n- Draper missed Australian Open 2026, Roland-Garros 2026, Wimbledon 2026 with same injury (ATP Tour, TNT Sports)\n- Career-high ranking: No. 4 (2025) (ATP Tour)\n- Current ranking: No. 147 (ATP Tour, Yahoo Sports)\n- Draper targeting Montreal (wildcard needed) and Cincinnati, then US Open (ATP Tour)\n- Draper quote context: \"I'm only grateful for the struggle\" (ATP Tour headline)\n**Sources:** ATP Tour (atptour.com), TNT Sports, Yahoo Sports",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "DC Open WTA — Fernandez Opens Title Defense; Eala vs. Zheng Headlines Tuesday",
+      "tier": 2,
+      "status": "",
+      "angle": "FOLLOW-UP from July 27 Story 5 (DC Open begins) — Leylah Fernandez (7th seed, defending champion) defeated Magda Linette 6-1, 6-4 in 1 hour and 19 minutes on Monday, opening her title defense with authority. Top seeds Pegula (1), Svitolina (2), Osaka (3), and Shnaider (4) all had byes into the second round. Tuesday Stadium Court feature: Alex Eala (Philippines, career-high No. 29) vs. Qinwen Zheng (China) — a high-profile clash between two players with strong grass-court seasons. Venus Williams plays Tuesday as well, facing Anastasia Potapova; Williams enters with an 11-match losing streak. Eala withdrew from doubles with Williams to focus on singles.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Defending champion Leylah Fernandez opened her DC Open title defense with a 6-1, 6-4 win over Linette. 🎾\n\nTuesday's spotlight: Alex Eala vs. Qinwen Zheng on Stadium Court.\n\n#Tennis #DCOpen #WTA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#DCOpen",
+            "#WTA"
+          ],
+          "char_count": 193
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-fernandez-dc-open-title-defense-eala-zheng.html",
+        "headline": "Fernandez Opens Title Defense in Dominant Fashion; Eala-Zheng Headlines Tuesday",
+        "word_count": 564
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "DC Open WTA\n\n**X/Social Image:**\n- Search term: `Leylah Fernandez`\n- Direction: Fernandez in match action, celebrating, hard court preferred\n- Overlay text: \"TITLE DEFENSE — Fernandez 6-1, 6-4\"\n- Status: not_started\n\n**Article Hero Image:**\n- Search term: `Alex Eala`\n- Direction: Eala in match action\n- Used as article hero (1200x630)\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "DC Open WTA\n**HIGH confidence facts:**\n- Leylah Fernandez (7th seed, defending champion) def. Magda Linette 6-1, 6-4 in 1h19m (WTA official)\n- Fernandez description: \"right mindset and attitude\" (WTA official)\n- Top 4 seeds (Pegula, Svitolina, Osaka, Shnaider) had byes into R2 (WTA official draw)\n- Seeds: Pegula (1, No. 3 world), Svitolina (2, No. 10), Osaka (3, No. 13), Shnaider (4, No. 18), Kalinskaya (5, No. 20), Keys (6, No. 23), Fernandez (7, No. 25), Navarro (8, No. 27) (WTA, Tennis365)\n- Alex Eala (Philippines, career-high No. 29) vs. Qinwen Zheng scheduled Tuesday Stadium Court (WTA, Yardbarker)\n- Venus Williams vs. Anastasia Potapova scheduled Tuesday (WTA, TennisWorldUSA)\n- Venus Williams has 11-match losing streak (TennisWorldUSA)\n- Eala withdrew from doubles with Venus to focus on singles (TennisWorldUSA)\n- Eala quote: \"Venus is someone who deserves a partner who can give their all.\" (TennisWorldUSA)\n**MEDIUM confidence facts:**\n- Eala-Zheng result not yet confirmed (match may be in progress or recently completed at time of pipeline)\n- Venus-Potapova result not yet confirmed\n**Sources:** WTA official (wtatennis.com), Tennis365, TennisWorldUSA, Yardbarker",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Los Cabos ATP 250 — Norrie Ends Six-Match Drought; Cruz Hewitt Makes ATP Debut",
+      "tier": 2,
+      "status": "",
+      "angle": "NEW STORY — The Mifel Tennis Open by Telcel Oppo (ATP 250) opened Monday in Los Cabos, Mexico, running concurrently with the DC Open. Cameron Norrie (5th seed, GBR) defeated Aleksandar Kovacevic 6-4, 6-1 in 1 hour and 22 minutes, ending a six-match losing streak stretching back to April. The story of the day was Cruz Hewitt (AUS, 17 years old), son of Lleyton Hewitt, who qualified for the main draw via qualifying — with father Lleyton watching courtside. Cruz lost to Marcos Giron 6-3, 7-6(2) in Round 1 but became one of the youngest players to reach an ATP main draw this year. Top seed Jiri Lehecka leads the field; Denis Shapovalov (8th seed) is defending the title he won here in 2025, competing despite a shoulder injury sustained at Wimbledon. This is the tournament's 10th anniversary edition.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Cruz Hewitt, 17, made his ATP main draw debut in Los Cabos. 🎾\n\nDad Lleyton Hewitt watched from the stands.\n\nHe qualified via two retirements, then lost to Giron 6-3, 7-6(2) in R1.\n\nNot a bad debut.\n\n#Tennis #LosCabos #ATPTour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#LosCabos",
+            "#ATPTour"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-los-cabos-norrie-cruz-hewitt-atp-debut.html",
+        "headline": "Dad Watching Courtside: Cruz Hewitt Makes ATP Debut in Los Cabos as Norrie Breaks Drought",
+        "word_count": 546
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Los Cabos ATP 250\n\n**X/Social Image:**\n- Search term: `Cameron Norrie`\n- Direction: Norrie in mid-swing or pumping fist; hard court or clay setting\n- Overlay text: \"LOS CABOS — Norrie Ends Six-Match Drought\"\n- Status: not_started\n\n**Article Hero Image:**\n- Search term: `Lleyton Hewitt`\n- Direction: Hewitt in coaching or watching role (sideline); conveys mentor/father\n- Alternative: `Cameron Norrie` match action\n- Used as article hero (1200x630)\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Los Cabos ATP 250\n**HIGH confidence facts:**\n- Tournament: Mifel Tennis Open by Telcel Oppo, Los Cabos, Mexico, July 27–August 1 (ATP, Tennis Tonic)\n- 10th anniversary edition (Tennis Tonic)\n- Cameron Norrie (5th seed, GBR) def. Aleksandar Kovacevic 6-4, 6-1 in 1h22m (Yahoo Sports, TNT Sports)\n- Norrie had six-match losing streak entering tournament (Yahoo Sports, TNT Sports)\n- Cruz Hewitt (AUS, 17) reached main draw via qualifying, benefiting from two retirements in qualifying (TennisUpToDate)\n- Lleyton Hewitt was courtside watching Cruz (TennisUpToDate)\n- Cruz Hewitt def. opponents incl. Zachary Svajda (via retirements) in qualifying (TennisUpToDate)\n- Marcos Giron def. Cruz Hewitt 6-3, 7-6(2) in R1 (multiple sources)\n- ATP 250 seeds: Lehecka (1), Darderi (2), Cerundolo (3), Khachanov (4), Norrie (5), Moutet (6), Landaluce (7), Shapovalov (8) (Tennis Tonic)\n- Denis Shapovalov (8, defending champion): suffered rib fracture at Queen's Club, shoulder injury Wimbledon R1 (retired vs. Carreno Busta 3-6, 6-7(7) before retiring) (CBC Sports, TennisWorldUSA, ATP Tour)\n- Top 4 seeds Cerundolo (3) et al. received byes (standard ATP 250 format)\n**MEDIUM confidence facts:**\n- Shapovalov result in Los Cabos R1 not confirmed from sources at pipeline time\n**Sources:** Tennis Tonic, Yahoo Sports, TNT Sports, TennisUpToDate, Racing and Sports (AU), ATP Tour, CBC Sports, TennisWorldUSA",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Canadian Open Seedings Confirmed — Draws Friday; Sabalenka Leads WTA, Zverev Men's",
+      "tier": 2,
+      "status": "",
+      "angle": "FOLLOW-UP — Full seedings confirmed ahead of the July 31 draw ceremony. WTA Toronto (Aug 1–11): Aryna Sabalenka (1), Elena Rybakina (2), Jessica Pegula (3), Coco Gauff (4), Mirra Andreeva (5), Linda Noskova (6, Wimbledon champion), Iga Swiatek (7). 72 of the WTA top 75 players are confirmed. ATP Montreal (Aug 4–13): Alexander Zverev (1), Felix Auger-Aliassime (2). Sinner (health, post-Wimbledon defense), Djokovic (injury), and Alcaraz (wrist) all absent; Forbes called the triple withdrawal an \"absolute disaster.\" Draws scheduled for July 31. Main draw play begins August 2.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Canadian Open seedings are set. Draw is Friday. 🎾\n\nWTA Toronto: Sabalenka (1), Rybakina (2), Gauff (4), Wimbledon champion Noskova (6).\n\nATP Montreal: Zverev (1), Auger-Aliassime (2). No Sinner, Djokovic, or Alcaraz.\n\n#Tennis #CanadianOpen #NationalBankOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#CanadianOpen",
+            "#NationalBankOpen"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-canadian-open-seedings-draw-preview.html",
+        "headline": "Canadian Open Seedings Set: Sabalenka Leads Loaded Women's Draw; Zverev Tops Depleted Men's Field",
+        "word_count": 562
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Canadian Open Seedings\n\n**X/Social Image:**\n- Search term: `Aryna Sabalenka`\n- Direction: Sabalenka in hard court match action; confident pose preferred\n- Overlay text: \"CANADIAN OPEN — Draws Friday\"\n- Status: not_started\n\n**Article Hero Image:**\n- Search term: `Alexander Zverev`\n- Direction: Zverev in hard court match action\n- Alternative: `Linda Noskova` (if Wimbledon coverage image available)\n- Used as article hero (1200x630)\n- Status: not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Canadian Open Seedings\n**HIGH confidence facts:**\n- WTA Toronto (National Bank Open, Aug 1–11): Sabalenka (1), Rybakina (2), Pegula (3), Gauff (4), Andreeva (5), Noskova (6), Swiatek (7), Anisimova (8), Svitolina (9) (Tennis365)\n- 72 of WTA top 75 players confirmed (National Bank Open official)\n- ATP Montreal (National Bank Open, Aug 4–13): Zverev (1), Auger-Aliassime (2) bumped up after Sinner/Alcaraz WDs (Tennis365)\n- Other ATP seeds include: de Minaur, Medvedev, Shelton (defending), Fritz, Ruud, Lehecka, Cobolli, Bublik (Tennis365)\n- Sinner withdrew July 24–25 (health reasons post-Wimbledon defense) (ESPN, Forbes, ATP)\n- Djokovic also withdrew same period (ESPN)\n- Alcaraz absent (wrist injury since April 14 Barcelona) (Tennis365, The Spun)\n- Forbes described triple WD as \"absolute disaster\" for event (Forbes)\n- Linda Noskova: won Wimbledon 2026 Women's title (def. Karolina Muchova 6-2, 5-7, 6-3); age 21 (CZE); youngest Wimbledon champion in 15 years (WTA official, Wimbledon official, CBS Sports)\n- Jannik Sinner: defended Wimbledon 2026 title (def. Zverev 6-7(9), 7-6(2), 6-3, 6-4); 5th Grand Slam; sits ~5,000 pts clear of No. 2 (ATP, CBS Sports)\n- Draw ceremony: July 31 (confirmed)\n- Main draw play begins: August 2 (confirmed)\n- Top 2 women's seedings: Sabalenka (1), Rybakina (2) (Tennis365)\n- 96-player main draw, top 32 earn byes (National Bank Open format, standard Masters/1000)\n**Sources:** ESPN, Forbes, ATP Tour, Tennis365, National Bank Open official (nationalbankopen.com), WTA official, Wimbledon official, CBS Sports, The Spun, Gulf Times",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

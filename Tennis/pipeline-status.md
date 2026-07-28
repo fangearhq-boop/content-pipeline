@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-07-27 |
-| Writing | Complete (all steps) | 2026-07-27 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 42 claims, 91 HIGH) | 2026-07-27 |
-| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 0 FB posts, 5 articles) | 2026-07-27 |
-| Dashboard | Complete (review-dashboard.html, 22 items) | 2026-07-27 |
-| PostPlanner Export | Complete (standard 7 posts 12:57–20:39 ET; TOBI 7 posts) | 2026-07-27 |
-| WordPress Publish | Attempted — WP API blocked by proxy egress policy (403 Forbidden; same environment restriction as all prior runs) | 2026-07-27 |
-| Dashboard Push | Attempted — proxy blocks push to content-dashboards repo | 2026-07-27 |
+| Research | Complete | 2026-07-28 |
+| Writing | Complete (all steps) | 2026-07-28 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 32 claims, 71 HIGH) | 2026-07-28 |
+| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 0 FB posts, 5 articles) | 2026-07-28 |
+| Dashboard | Complete (review-dashboard.html, 22 items) | 2026-07-28 |
+| PostPlanner Export | Complete (standard 7 posts 12:59–20:41 ET; TOBI 7 posts) | 2026-07-28 |
+| WordPress Publish | Attempted — WP API blocked by proxy egress policy (403 Forbidden; same environment restriction as all prior runs) | 2026-07-28 |
+| Dashboard Push | Attempted — proxy blocks push to content-dashboards repo | 2026-07-28 |
 
 ## Queue
 
@@ -24,6 +24,21 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-07-28 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-07-28.xlsx (7 posts, 12:59–20:41 ET), tfr-postplanner-tobi-2026-07-28.xlsx (7 TOBI posts)
+- **Coverage:** DC Open ATP Day 1 — Atmane def. Tiafoe (6) 4-6, 6-3, 6-4 (Tiafoe first R1 loss in Washington since 2021; 25 UE 15 backhand; Atmane was 0-3 vs Tiafoe in 2026); Fritz def. Bergs 6-3, 6-4; Musetti def. Arnaldi 6-0, 3-1 ret.; Nishikori def. Fucsovics 6-7(3), 6-3, 6-4; Day 2: de Minaur (1, defending) vs. Tsitsipas (WC); Jack Draper WD DC Open (left arm bone bruising, ongoing; missed AO/RG/Wimbledon/DC Open; No. 4 → No. 147; targeting Montreal WC + Cincinnati); DC Open WTA — Fernandez (7, defending) def. Linette 6-1, 6-4 in 1h19m; top 4 seeds had byes; Tuesday: Eala (No. 29) vs. Zheng Stadium Court; Venus vs. Potapova (Venus 11-match losing streak); Eala withdrew doubles with Venus; Los Cabos ATP 250 opens (Lehecka top seed, Shapovalov defending despite shoulder); Norrie (5) def. Kovacevic 6-4, 6-1 in 1h22m (ended 6-match losing streak since April); Cruz Hewitt (AUS, 17, son of Lleyton) ATP main draw debut via qualifying — Lleyton courtside; Cruz lost Giron 6-3, 7-6(2) R1; Canadian Open seedings: WTA Toronto Sabalenka (1) Rybakina (2) Noskova (6, Wimbledon champion 21yr); 72/75 WTA confirmed; ATP Montreal Zverev (1) FAA (2); Sinner/Djokovic/Alcaraz all absent; Forbes "absolute disaster"; draws July 31; Wimbledon context: Sinner def. Zverev 6-7(9), 7-6(2), 6-3, 6-4 (5th Slam, 2nd Wimbledon); Noskova def. Muchova 6-2, 5-7, 6-3 (first Slam)
+- **Notes:**
+  - verify-facts.py: passed; 32 claims, 71 HIGH; image IMAGE MISSING warnings cosmetic (expected for imagn source — same as all prior runs)
+  - compile: 5 stories, 7 X posts, 0 FB posts (parser compatibility — same as all prior runs), 5 articles; 22 dashboard items; posting window warnings cosmetic
+  - PostPlanner exports: standard (7 posts) and TOBI (7 posts) generated successfully; 12:59–20:41 ET
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: proxy blocks write to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3] (rotating from July 27: Ryan Calloway [S1, S4], Elena Voss [S2, S5], Marcus Cole [S3])
 
 ### 2026-07-27 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
