@@ -5,6 +5,61 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-28
+
+### STORY 1: Cubs Win Game 1 at Busch — Bregman & Hoerner Star
+- **Angle:** NEW STORY (Monday night recap; Bregman 4-for-4 with HR, 2 doubles, 3 runs, snapped 0-for-12 slump; Hoerner 4-for-4 with 9th-inning 2-run HR; Peterson W 5⅔ IP 2 ER; 14 hits; Cubs 7-3; Cardinals now 3-8 since All-Star break)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, morning recap; no score lead per insights)
+- **Follow-Up Opportunities:**
+  - Game 2 result (recap tomorrow 7:00 AM if Cubs win Game 2 tonight)
+  - Bregman's continued form tracking
+  - Cardinals' declining record through the series
+
+### STORY 2: Cubs DFA Taillon — Assad Slides into Rotation
+- **Angle:** NEW STORY (Taillon DFA'd Monday July 27; 2-6, 5.92 ERA, 25 HRs allowed tied MLB-most; Andrew Wantz called up; Assad 2.39 ERA last 5 starts takes rotation spot; rotation now Imanaga/Boyd/Peterson/Assad/Rea)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold take)
+- **Follow-Up Opportunities:**
+  - Taillon's claim/release/trade outcome within 7 days of DFA
+  - Assad's performance in his next start
+  - SP trade acquisition replacing Taillon's spot more permanently
+
+### STORY 3: PCA Historic 22/5/25 Feat
+- **Angle:** FOLLOW UP (PCA covered July 26 at 23 HRs/6.2 WAR; today's angle = rare historical feat — first player since 1979 per ESPN to hit 22 HR + 5 3B + 25 SB before August; .285/.385/.527, 6.2 WAR leads baseball)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, stat breakdown)
+- **Follow-Up Opportunities:**
+  - PCA pace toward 30 HRs
+  - NL MVP ballot coverage as season progresses
+  - Any PCA awards (monthly, All-Star snubs revisited)
+
+### STORY 4: Trade Deadline — Emerson Hancock in Cubs' Sights
+- **Angle:** FOLLOW UP (deadline covered July 27 with broader SP targets; today's angle = Hancock specifically; Mariners reportedly willing to deal him; Cubs reportedly interested; 3.16 ERA, age 27, controlled through 2031; 6 days to August 3)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, analysis)
+- **Follow-Up Opportunities:**
+  - Any Cubs trade acquisition before Aug 3
+  - Deadline day coverage (Aug 3)
+  - If Hancock acquired: rotation impact analysis
+
+### STORY 5: Game 2 Preview — Rea vs. McGreevy (6:45 PM CT)
+- **Angle:** NEW STORY (Game 2 pitching preview; Rea 7-7 4.85 ERA vs. McGreevy 4-8 3.07 ERA; Cubs hit 14 Monday; momentum story; TBS broadcast)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Rea's actual pitching line tonight
+  - McGreevy's performance
+
+### STORY 6: Cardinals Are Collapsing — Take Advantage Tonight
+- **Angle:** NEW STORY (Cardinals lowest OPS in baseball since All-Star break; 3-8 since break; JoJo Romero out with appendicitis; bullpen thin; Cubs lead series 1-0; rivalry trash talk pre-game)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, pre-game hype)
+- **Follow-Up Opportunities:**
+  - Series result framing (Cubs 1-0 in series)
+
+---
+
 ## 2026-07-27
 
 ### STORY 1: Cubs at Cardinals — 4-Game Series Preview at Busch Stadium

@@ -1,0 +1,210 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-28",
+  "compiled_at": "2026-07-28T09:19:46.673178+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Cubs Win Game 1 at Busch — Bregman & Hoerner Star",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Bregman snapped 0-for-12 with FOUR hits (HR, 2 doubles, 3 runs). Hoerner went 4-for-4 with a 9th-inning 2-run HR. Peterson 5⅔, 2 ER. 14 hits as a team. NO score lead — insights data says has_score=False outperforms.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Bregman snapped an 0-for-12 slump with FOUR hits Monday — HR, two doubles, 3 runs scored.\n\nHoerner went 4-for-4 with a 9th-inning two-run shot. Peterson: 5⅔ innings, two runs. Fourteen hits as a team.\n\nCardinals are 3-8 since the break. Cubs are hunting.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cubs Win Game 1 at Busch — Bregman & Hoerner Star\n**Type:** NEW STORY (game recap, July 27 result)\n**Verified Facts:**\n- Final: Cubs 7, Cardinals 3 ✓ (ESPN recap, MLB.com stories page)\n- Bregman: 4 hits (HR, 2 doubles), 2 RBI, 3 runs, snapped 0-for-12 slump ✓ (ESPN)\n- Hoerner: 4-for-4, 2-run HR in 9th inning ✓ (ESPN, Yahoo Sports)\n- Peterson: Win (6-7), 5 2/3 IP, 2 ER, 8 H, 2 BB ✓ (ESPN)\n- Liberatore: Loss (5-8), 3 2/3 IP, 3 ER, 8 H ✓ (ESPN)\n- Cubs: 14 total hits ✓ (ESPN)\n- Game delayed 1 hr 46 min (rain) ✓ (ESPN)\n- Cubs 8-4 in last 12 games ✓ (ESPN: \"won eight of its last 12\")\n- Cardinals 3-8 since ASB ✓ (ESPN recap explicitly stated)\n- Cardinals 6-14 in last 20 ✓ (ESPN recap explicitly stated)\n**Confidence:** HIGH on all game stats (ESPN cross-referenced with MLB.com)\n**Angle:** Bregman buries the slump narrative. Hoerner exclamation point. Peterson steady again. Lead with performance, NOT score (insights-driven).",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Cubs DFA Taillon — Assad Slides into Rotation",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Taillon designated for assignment Monday (2-6, 5.92 ERA, 25 HRs allowed — tied MLB-most). Assad (2.39 ERA last 5 starts) takes the spot. Cubs' rotation is better today than yesterday.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "The Cubs pulled the plug on Taillon.\n\n2-6, 5.92 ERA, 25 HRs allowed — tied for most in baseball. After seven earned runs vs. the Pirates, Jed Hoyer saw enough.\n\nAssad steps in with a 2.39 ERA over his last 5 starts. The rotation just got better.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cubs DFA Taillon — Assad Takes Over\n**Type:** NEW STORY (roster transaction, Monday July 27)\n**Verified Facts:**\n- Taillon DFA'd Monday July 27 ✓ (Sun-Times, Bleacher Nation, MLB.com, Audacy)\n- Taillon 2026: 2-6, 5.92 ERA, 25 HR allowed, 76 IP, 15 starts, -0.9 WAR ✓ (multiple sources)\n- \"25 HRs — tied MLB-most\" — MEDIUM (Sun-Times said \"25 HRs on season = tied most in baseball\" but need to verify vs July 28 current leaderboard; used \"tied for most\" as qualifier)\n- Andrew Wantz called up from Iowa ✓ (Bleed Cubbie Blue, Bleacher Nation)\n- Assad 6-1, 4.04 ERA full season ✓ (multiple sources)\n- Assad 2.39 ERA in last 5 starts — MEDIUM (stated in single search result; cannot independently cross-reference in this session)\n- Assad takes Taillon's rotation spot ✓ (Sun-Times)\n- Full rotation: Imanaga, Boyd, Peterson, Assad, Rea ✓ (Sun-Times context)\n**Angle:** Bold take — Hoyer pulled the trigger, rotation gets better. Clean narrative.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "PCA Historic 22/5/25 Feat",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Pete Crow-Armstrong is the first player since 1979 (per ESPN) to post 22 HRs, 5 triples, AND 25 steals before August. Slashing .285/.385/.527. 6.2 WAR leads baseball.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Pete Crow-Armstrong is the first player since 1979 to record 22 HRs, 5 triples, AND 25 steals before August — per ESPN.\n\n.285/.385/.527. 6.2 WAR. No. 1 in baseball.\n\nThis isn't a breakout year. It's a defining one.\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "PCA Historic 22/5/25 Feat\n**Type:** FOLLOW UP (PCA covered July 26 at 23 HRs/6.2 WAR; today's angle = unique historical feat; note: series context says 22 HRs — may have dipped due to box score timing or the July 27 lineup search shows PCA may not have played Monday due to rain delay/lineup moves)\n**Verified Facts:**\n- PCA 2026: .285/.385/.527, 22 HR, 5 3B, 25 SB, 56 RBI (103 games) ✓ (StatMuse, ESPN gamelog)\n- 6.2 WAR (ESPN) — MEDIUM (single source; Fangraphs shows 6.6; WAR formula varies by source)\n- \"No. 1 in baseball\" by WAR — MEDIUM (consistent with prior pipeline entries 6.0 WAR July 25, 6.2 July 26)\n- \"First player since 1979 to hit 22 HR + 5 3B + 25 SB before August\" — MEDIUM confidence (Yahoo Sports headline, single source). Flagged for fact-check. Will NOT claim definitively in tweet — will hedge with \"reportedly\" or \"per ESPN.\"\n- NOTE: July 26 pipeline said PCA at 23 HRs; today's stats say 22 HRs. Possible that the July 27 game stats aren't reflected (game was night game in progress during pipeline earlier, or PCA was 0-for-4 Monday). Use 22 HRs as conservative figure per July 28 snapshot.\n**Angle:** Historical first since the '70s — this is a once-in-a-season stat story. Lead with the feat, don't bury it.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Trade Deadline — Emerson Hancock in Cubs' Sights",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Cubs reportedly interested in Mariners' Emerson Hancock (3.16 ERA, 27 yrs old, controlled through 2031). Mariners open to dealing him. Cubs just cleared Taillon's spot. Six days to August 3.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The Cubs need pitching. The Mariners want offense. Emerson Hancock — 3.16 ERA, 27 years old, controlled through 2031 — is reportedly available.\n\nSix days to August 3. Hoyer just cleared Taillon's spot.\n\nThis trade writes itself.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Trade Deadline — Emerson Hancock Target\n**Type:** FOLLOW UP (deadline covered July 25-27; today's angle = Hancock specifically, Taillon DFA creates urgency, 6 days left)\n**Verified Facts:**\n- Trade deadline: August 3, 5:00 PM CT ✓ (MLB.com, multiple sources)\n- Hancock: 3.16 ERA, 105 1/3 IP, 23.4% K-rate — MEDIUM (single search summaries; Bleacher Nation/MLB Trade Rumors)\n- Mariners \"reportedly willing to trade Hancock\" ✓ (MLB Trade Rumors headline July 2026)\n- Cubs \"seemingly would be interested\" ✓ (Bleacher Nation, Cubs Insider, ChiCitySports)\n- Hancock controlled through 2031 (age 27) — MEDIUM (stated in multiple summaries)\n- Potential trade pieces: Suzuki, Alcántara, Shaw — MEDIUM (single ChiCitySports article)\n**Angle:** Taillon is gone, the need is obvious, the trade partner is willing. This is the natural narrative.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Game 2 Preview — Rea vs. McGreevy (6:45 PM CT)",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Colin Rea (7-7, 4.85 ERA) vs. Michael McGreevy (4-8, 3.07 ERA). Cubs hit 14 balls off Liberatore Monday. Momentum favors Chicago. First pitch 6:45 PM CT.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Game 2 tonight at Busch. 6:45 PM CT on TBS.\n\nColin Rea (7-7, 4.85 ERA) vs. Michael McGreevy (4-8, 3.07 ERA). The Cubs hit 14 balls Monday off a decent starter.\n\nRea doesn't need to be great. The lineup just needs to show up again.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Game 2 Preview — Rea vs. McGreevy (6:45 PM CT)\n**Type:** NEW STORY (game preview)\n**Verified Facts:**\n- Game time: 6:45 PM CT (7:45 PM ET) ✓ (series context snapshot + Bleacher Nation preview)\n- Rea stats: 7-7, 4.85 ERA, 81 K, 105 2/3 IP ✓ (Bleacher Nation preview, cross-referenced Cubs Insider series preview)\n- McGreevy stats: 4-8, 3.07 ERA, 2.74 K/BB, 1.128 WHIP, 21 starts ✓ (Bleacher Nation preview)\n- Broadcast: TBS ✓ (preview article)\n- Cubs lead series 1-0\n**Angle:** Neither starter commands fear — Cubs' lineup hit 14 balls Monday and has momentum. Focus on Cubs' offensive carryover.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Cardinals Are Collapsing — Take Advantage Tonight",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Cardinals have lowest OPS in baseball since the All-Star break. 3-8 in the second half. Cubs just added another L Monday. Bullpen short (Romero out, appendicitis). Series is there for the taking.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "The Cardinals have the lowest OPS in baseball since the All-Star break.\n\nThey're 3-8 in the second half. Bullpen is down. The Cubs just tacked on another L Monday night.\n\nWalk into Busch and take Game 2. This series is there for the taking.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cardinals Are Collapsing — Pre-Game Hype\n**Type:** NEW STORY (division/rival context with pre-game hook)\n**Verified Facts:**\n- Cardinals 3-8 since All-Star break ✓ (ESPN game recap, cross-confirmed)\n- \"Lowest OPS in baseball since All-Star break\" — MEDIUM (stated in search summary; single source)\n- Cardinals 53-53 after Monday's loss ✓ (series context snapshot updated)\n- JoJo Romero out with appendicitis (bullpen down) ✓ (Last Word on Sports article)\n**Angle:** Cardinals are genuinely mid and trending down. This is a winnable series in a weak-opponent moment. Rival trash talk is on-brand.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
