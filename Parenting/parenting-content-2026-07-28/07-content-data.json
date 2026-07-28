@@ -1,0 +1,319 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-28",
+  "compiled_at": "2026-07-28T12:43:33.800507+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 (D49 back to school)",
+      "type": "X + FB"
+    },
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 (D49 specific)",
+      "type": "X"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "Story 2 (Backpack Bash)",
+      "type": "X + FB"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 3 (Bicystar recall)",
+      "type": "X + FB"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3 (Babimoni warning)",
+      "type": "X"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 (Governors AAP math)",
+      "type": "X + FB"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 5 (Burn scar flash flood)",
+      "type": "X + FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "D49 Starts August 3 — Six Days Away; Full COS District Calendar Roundup",
+      "tier": 1,
+      "status": "",
+      "angle": "NEW STORY — Falcon School District 49 begins the 2026–27 school year in less than a week. Kindergarteners, 6th graders, and 9th graders start August 3; all other D49 students start August 4. This is a critical time-sensitive reminder for D49 families who may not realize how soon school begins. Full district comparison: D11 (Colorado Springs School District 11) starts August 12, all grades K–12. Academy District 20 starts August 17 for preschool, elementary, 6th grade, and 9th grade; August 18 for all other students. D20 still has School Choice open enrollment with seats at select schools.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "📅 COS back-to-school dates 2026-27:\n\nD49: Aug. 3 (K/6th/9th) — Aug. 4 all students\nD11: Aug. 12, all grades\nD20: Aug. 17-18\n\nD49 starts in less than a week.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 217
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The 2026-27 school year comes for D49 families on August 3 — just 6 days away.\n\nKindergarteners, 6th graders, and 9th graders go first. All other D49 students start August 4.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-d49-back-to-school-dates-2026-cos.html",
+        "headline": "D49 School Year Starts August 3 — Six Days Away. Here Are All COS District Dates for 2026-27.",
+        "word_count": 575
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D49 Back-to-School Dates\n\n**X Image Prompt (1200×675):**\nA cheerful back-to-school scene: a child's backpack and lunchbox sitting on a doorstep in warm morning sunlight, surrounded by notebook spirals and pencils arranged neatly. The color palette is warm gold and teal. Art style: clean illustration with soft depth of field. Bottom third: clean open wall or step with soft shadow for text overlay. No faces, no brand logos.\n\n**FB Image Prompt (1200×630):**\nAn overhead flat-lay of school supplies — a notebook, pencil case, ruler, and a small calendar showing August — arranged on a light wood-grain desk surface. Warm natural light from the side. Teal and gold accents on the supplies. Art style: clean lifestyle photography style with high contrast. Bottom quarter: empty desk surface for text overlay. No faces, no brand logos.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D49 Back-to-School Dates\n**HIGH confidence facts:**\n- D49 (Falcon School District 49) first day 2026-27: August 3, 2026 (Kindergarten, 6th grade, 9th grade only) (d49.org back-to-school post, Falcon Middle School calendar)\n- D49 first day for ALL students: August 4, 2026 (d49.org)\n- D11 (Colorado Springs School District 11) first day 2026-27: August 12, 2026, all grades K–12 (Agenda Hero via D11 calendar, educounty.net)\n- D11 last day: May 25, 2027 (Agenda Hero via D11 calendar)\n- D20 (Academy District 20) first day 2026-27: August 17 for preschool, elementary, 6th grade, 9th grade (asd20.org)\n- D20 first day for ALL students: August 18, 2026 (asd20.org)\n- D20 School Choice enrollment still open for non-resident families (asd20.org)\n- D20 transportation requests for new students closed June 30 (asd20.org)\n**Sources:** d49.org, Falcon Middle School calendar (fms.d49.org), Agenda Hero D11 calendar, educounty.net, asd20.org",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Free Backpacks — Last Chance Is Saturday at Backpack Bash Central",
+      "tier": 2,
+      "status": "",
+      "angle": "NEW STORY — The Backpack Bash Central location is happening Saturday, August 1, 9:00 AM–noon. Free backpacks available for PreK–12 students enrolled in any local public or charter school. No pre-registration required, but parents should plan to arrive early. Previous Backpack Bash locations on July 25 have already passed. This is the last remaining Backpack Bash event. School supplies are not distributed at Backpack Bash — backpacks only. Event location details: downtown/central Colorado Springs (via cosbackpackbash.com for specific address). D49 families should note the timing: this is two days before D49's first day of school.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "🎒 Free backpacks — last chance is Saturday.\n\nThe Backpack Bash Central location serves PreK–12 students enrolled in any COS public or charter school. Saturday, Aug. 1, 9 a.m.–noon.\n\nArrive early — supplies go fast.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-backpack-bash-central-august-1-cos.html",
+        "headline": "Free Backpacks for COS Students — Last Chance Is This Saturday at Backpack Bash Central",
+        "word_count": 474
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Backpack Bash\n\n**X Image Prompt (1200×675):**\nA vibrant, colorful collection of backpacks in different colors — teal, coral, yellow, navy — stacked and displayed against a clean white wall. The scene feels celebratory and organized. Soft natural lighting. Art style: clean graphic lifestyle illustration. Bottom third: white or light wall space clean for text overlay. No faces, no brand logos.\n\n**FB Image Prompt (1200×630):**\nA smiling family's hands reaching for a backpack — only hands visible, warm skin tones suggesting an adult and child. Colorful backpacks on a table in the background. The mood is warm and hopeful. Morning light through a nearby window. Art style: realistic illustration with warmth. Bottom quarter: table surface or neutral background clean for text. No faces, no brand logos.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Backpack Bash\n**HIGH confidence facts:**\n- Event name: Backpack Bash (Central Location)\n- Date: Saturday, August 1, 2026\n- Time: 9:00 AM – 12:00 PM (noon)\n- What: Free backpacks for PreK–12 students enrolled in any local public or charter school\n- Child must be accompanied by parent/guardian (Eventbrite, KOAA)\n- Pre-registration encouraged but does not reserve a backpack — arrive early (Eventbrite)\n- School supplies NOT distributed — backpacks only (KOAA)\n- July 25 locations have already passed (KOAA coverage confirms prior dates)\n- August 1 is described as the last remaining Backpack Bash event (Eventbrite listing)\n**MEDIUM confidence facts:**\n- Specific street address for the Central location: listed as \"downtown/central Colorado Springs\" via cosbackpackbash.com (exact address not confirmed in search results; parents should check cosbackpackbash.com)\n**Sources:** Eventbrite (cosbackpackbash.com listing), KOAA News 5",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Two High Chair Hazards — Bicystar Recalled, Babimoni Warning Issued by CPSC",
+      "tier": 1,
+      "status": "",
+      "angle": "NEW STORY — Two high chair products present serious hazards to infants and toddlers. (1) Bicystar Children's High Chairs: CPSC Recall #26-290 — model TB-HC6900, approximately 150 units, sold exclusively on Amazon.com in September 2025; gray metal frame with cushioned seat cover; dual hazard: no attached crotch restraint (fall risk) and fatal head entrapment gap between seat and tray; stop use immediately; contact seller for full refund. (2) Babimoni Multifunctional High Chairs: CPSC Safety Warning — model YB-H1234, approximately 350 units, sold on Amazon.com March–July 2024; multiple hazards including tipping, unattached restraints, tray disengagement, failing locks, and head entrapment gap; manufacturer (Ningbo Yibai Children Products Co. Ltd., China) refused the CPSC's recall request; CPSC urges immediate stop use; no refund mechanism established.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "RECALL: Bicystar high chairs (model TB-HC6900, Amazon Sept. 2025, about 150 units) recalled by CPSC over head entrapment and fall hazards.\n\nStop using if you have one. Contact seller for a refund.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 257
+        },
+        {
+          "label": "Post 3-2",
+          "text": "CPSC warning: Babimoni high chairs (model YB-H1234, sold Amazon March–July 2024, about 350 units) flagged for head entrapment and tipping hazards.\n\nManufacturer refused to recall. Stop using immediately.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-bicystar-babimoni-high-chair-cpsc.html",
+        "headline": "Two High Chair Hazards: Bicystar Recalled, Babimoni Flagged by CPSC",
+        "word_count": 666
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "High Chair Hazards\n\n**X Image Prompt (1200×675):**\nA simple, high-contrast safety alert visual: a generic high chair silhouette in medium gray on a clean off-white background, with a large bold caution symbol (triangle with exclamation) in bright coral or red rendered as part of the scene — not as text, as a visual element. Clean graphic illustration style. Bottom third: off-white background space for text overlay. No brand logos, no product identifiers.\n\n**FB Image Prompt (1200×630):**\nA close-up of an adult hand gently holding a high chair tray, examining it carefully, with soft shallow depth of field. The chair is generic and non-branded. The mood is attentive and cautious. Warm but subdued lighting in a modern kitchen setting. Art style: realistic photo illustration. Bottom third: blurred kitchen background for text overlay. No brand logos, no product identifiers.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "High Chair Hazards\n**HIGH confidence facts — Bicystar:**\n- Recall #: CPSC #26-290 (cpsc.gov confirmed URL)\n- Brand: Bicystar Children's High Chairs\n- Model: TB-HC6900 (printed on label stitched to back of seat cover)\n- Units: approximately 150\n- Sold: Amazon.com, September 2025 only (specific price not confirmed)\n- Description: gray chair with metal frame, cushioned seat cover, tray\n- Hazard 1: No attached crotch restraint → fall hazard\n- Hazard 2: head entrapment gap between seat and tray → fatal entrapment hazard\n- Consumer action: Stop use immediately; contact seller for refund",
+        "sources": "- Source: cpsc.gov/Recalls/2026/Bicystar-High-Chairs-Recalled\n**HIGH confidence facts — Babimoni:**\n- Type: CPSC Safety Warning (NOT a traditional recall — manufacturer refused)\n- Brand: Babimoni Multifunctional High Chairs\n- Manufacturer: Ningbo Yibai Children Products Co. Ltd. (China)\n- Model: YB-H1234\n- Units: approximately 350\n- Sold: Amazon.com, March 2024 – July 2024\n- Hazards: tipping, unattached restraints, tray disengagement, failing locks, fatal head entrapment gap\n- Consumer action: Stop use immediately; no refund available through standard channels (manufacturer refused recall)\n- Source: cpsc.gov/Warnings/2025/CPSC-Warns-Consumers Babimoni\n**Sources:** cpsc.gov (Bicystar recall URL, Babimoni warning URL), WBIW sweeping high chair recalls coverage July 28"
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Gov. Polis Among Six Governors Asking AAP to Make Math Part of Well-Child Visits",
+      "tier": 2,
+      "status": "",
+      "angle": "NEW STORY — On July 23, 2026, six governors co-signed a letter to the American Academy of Pediatrics urging the AAP to develop clinical guidance on early numeracy, modeled on the AAP's existing \"literacy prescription\" program that made reading a standard part of pediatric well-child visits. Colorado Gov. Jared Polis is among the six signatories, alongside governors of Rhode Island, Maryland, Connecticut, Delaware, and North Carolina. Their proposal: AAP should recommend math-based board and card games as a tool parents can use at home. Organized by the Collaborative for Student Success. Research shows math skills at kindergarten entry are strong predictors of long-term academic success.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Colorado Gov. Polis is one of 6 governors urging the AAP to recommend math games at well-child visits — the same way pediatricians already promote reading.\n\nThe idea: make early numeracy part of routine checkups.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-governors-aap-early-math-polis-colorado.html",
+        "headline": "Gov. Polis Among Six Governors Urging AAP to Make Early Math Part of Well-Child Visits",
+        "word_count": 681
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Governors AAP Early Math\n\n**X Image Prompt (1200×675):**\nA parent and young child (ages 4–6) sit at a kitchen table playing a colorful number board game together — dice and numbered cards visible on the table. The scene is warm, engaged, and relaxed. Late afternoon kitchen light. The art style is a warm lifestyle illustration. Bottom third: the table surface and a blurred background provide clean space for text overlay. No faces shown clearly — show the activity from a side/overhead angle. No brand logos.\n\n**FB Image Prompt (1200×630):**\nAn overhead view of a math board game in progress — numbered tiles, dice, small colorful game pieces, a few counting manipulatives arranged on a light wood table. The scene suggests active family play. Gold and teal color accents on the game pieces. Clean lifestyle illustration style. Bottom quarter: open wood table surface for text overlay. No faces, no brand logos.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Governors AAP Early Math\n**HIGH confidence facts:**\n- Letter date: July 23, 2026\n- Number of signatories: six governors\n- Colorado Gov. Jared Polis signed (GlobeNewswire press release)\n- Other signatories: Daniel McKee (RI), Wes Moore (MD), Ned Lamont (CT), Matt Meyer (DE), Josh Stein (NC) (GlobeNewswire)\n- Organized by: Collaborative for Student Success (GlobeNewswire)\n- Request to: American Academy of Pediatrics (AAP)\n- Model: AAP's existing \"literacy prescription\" program that made reading a standard part of well-child visits\n- Proposed recommendation: math-based board and card games parents can use at home\n- Research basis: math skills at kindergarten entry are strong predictors of long-term academic success (Education Week)\n- Colorado context: Polis is a signatory; Colorado has been a leader in early literacy guidance\n**Sources:** GlobeNewswire press release July 23, 2026; Education Week coverage July 2026",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Burn Scar Flash Flood Risk — What COS Families Need to Know This Monsoon Season",
+      "tier": 2,
+      "status": "",
+      "angle": "FOLLOW-UP (July 27 Story 4 — Aspen Acres Fire) — As monsoon season brings afternoon thunderstorms to southern Colorado, the Aspen Acres burn scar presents a new hazard for families near or south of Colorado Springs. Evacuations have been lifted from Wetmore, Beulah, Rye, San Isabel, and Colorado City, and the fire (101,921 acres, 61% contained, 9th largest CO fire on record) is decreasing in activity. But burned soil behaves like a waxy surface — it repels water rather than absorbing it. As little as 0.5 inches of rain per hour can trigger flash floods and debris flows in burn scar areas with little to no warning. CDOT has warned drivers of flash flooding, mudslides, and reduced visibility on state highways near burn scar zones. Families should avoid canyon roads and burn scar areas during afternoon storms, even when skies directly above appear clear.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Summer safety for COS families: monsoon rains can trigger flash flooding in burn scar areas south of Colorado Springs.\n\nBurned soil repels water. Canyon roads flood fast. Avoid burn scar areas during afternoon storms.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-aspen-acres-burn-scar-flash-flood-cos-families.html",
+        "headline": "Fire Is Calming, But the Burn Scar Isn't Safe Yet: Flash Flood Risk Near Colorado Springs This Monsoon Season",
+        "word_count": 673
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Burn Scar Flash Flood Risk\n\n**X Image Prompt (1200×675):**\nA dramatic Colorado afternoon sky with towering storm clouds building over mountain foothills and dry, golden terrain in the foreground. The land shows the characteristic scorched earth of a recent wildfire — gray-brown soil, sparse vegetation. The sky is a contrast of blue and dark gray clouds. The mood is serious and cautionary. Art style: painterly realism. Bottom third: the foreground terrain provides open space for text overlay. No people, no structures.\n\n**FB Image Prompt (1200×630):**\nA wide view of a dry canyon road in southern Colorado — a winding dirt or gravel road through rocky terrain with burned hillsides visible. Storm clouds gather in the background. The light is dramatic, afternoon sun mixed with approaching storm. No people, no vehicles. The scene conveys outdoor risk. Art style: realistic landscape painting or illustration. Bottom third: the road surface or rocky foreground for text overlay."
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Burn Scar Flash Flood Risk\n**HIGH confidence facts:**\n- Aspen Acres Fire size: 101,921 acres (slightly updated from July 27 pipeline's 101,879 acres — effectively unchanged) (Denver7)\n- Containment: 61% (same as July 27) (Denver7)\n- Fire rank: 9th largest Colorado fire on record (Denver7)\n- Evacuations lifted: Wetmore, Beulah, Rye, San Isabel, Colorado City (Denver7, July 27 confirmed)\n- Flash flood warning issued for Aspen Acres burn scar areas: Colorado Springs Gazette, July 23\n- Burn scar hazard mechanism: burned soil repels water like wax — water runs off immediately rather than absorbing (Denver7)\n- Flash flood trigger threshold: as little as 0.5 inches of rain per hour (general USGS/NOAA standard for burn scar flooding, consistent with Denver7 coverage)\n- CDOT alert: drivers warned of flash flooding, mudslides, reduced visibility on state highways near burn scars (codot.gov July 2026 release)\n- Geographic area: primarily south of Colorado Springs — Beulah, Colorado City, Rye (Custer/Pueblo counties)\n**MEDIUM confidence facts:**\n- \"0.5 inches per hour\" trigger threshold: consistent with burn scar science but not stated with that exact number in the specific Gazette article (LOW–MEDIUM; cite as general burn scar science)\n**Sources:** Denver7 (burn scar flooding risk), Colorado Springs Gazette (flash flood warning July 23), CDOT monsoon safety alert, AirFire Southern Colorado smoke outlook\n## Story History Check\n| Story | Status | Prior Coverage |\n|-------|--------|---------------|\n| D49 back-to-school dates | NEW | D49 dates noted briefly in July 26 research; not published as article |\n| Backpack Bash Central Aug. 1 | NEW | No prior coverage |\n| Bicystar/Babimoni high chair recalls | NEW | CuddleCubs/Aojieni were in July 26; these are different products |\n| Governors AAP early math letter | NEW | No prior coverage |\n| Burn scar flash flood risk | FOLLOW-UP | Aspen Acres Fire covered July 27; flash flood angle is new |",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

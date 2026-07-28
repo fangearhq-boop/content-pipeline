@@ -1,5 +1,46 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: July 28, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | D49 starts Aug. 3 (K/6/9) + Aug. 4 (all others); D11 Aug. 12; D20 Aug. 17–18; Backpack Bash Central Sat. Aug. 1 9 a.m.–noon (cosbackpackbash.com, first-come/first-served, child must be present); Bicystar high chair recall #26-290 (TB-HC6900, ~150 units, Amazon Sept. 2025, no crotch restraint + head entrapment gap, stop use + contact seller for refund); Babimoni high chair CPSC Safety Warning (YB-H1234, ~350 units, Amazon Mar.–Jul. 2024, manufacturer refused recall, stop use); Gov. Polis + 5 governors urge AAP to develop early numeracy clinical guidance — math board games at well-child visits (Collaborative for Student Success, July 23, 2026); Aspen Acres Fire 101,921 acres 61% contained, burn scar flash flood risk (CDOT alerts, monsoon season, burn scar soil hydrophobic, morning plans/off roads by noon) |
+| Story History Check | COMPLETE | All 5 stories new or legitimate follow-up — no overlap with July 27 run |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Jamie Rivera (S1, S3, S5), Sarah Morales (S2, S4) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags |
+| Story Analysis | COMPLETE | 02-story-analysis.md — ### STORY N: format; angles, headline options, engagement hooks |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (S1:2, S2:1, S3:2, S4:1, S5:1); #### Text Post A/B — TIME MT heading format; all ≤280 chars; 4 hashtags each; times in MT |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form posts + 5 Image Captions; engagement questions; NO hashtags; COS voice; 0 exclamation marks |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts; 1200×675 (X) and 1200×630 (FB/hero); clean bottom third; no celebrity likenesses; no brand logos |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 5 stories × 3 image types; all not_started; gemini base_only; kAHCKfCZgk0 brand kit |
+| Articles | COMPLETE | 5 articles (500–800 words; semantic HTML5; What's Next sections; 0 exclamation marks; no figure tags; Quick Reference tables); bylines: Jamie Rivera (A1, A3, A5), Sarah Morales (A2, A4) |
+| Fact-Check | COMPLETE | verify-facts.py passed; 87 claims; 119 HIGH; 90 MEDIUM; 68 LOW; all stories present in all content files; image not_started warnings cosmetic (expected for gemini source) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts, 5 articles, 22 dashboard items; posting window warnings cosmetic |
+| Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-07-28.xlsx (7 posts 13:13–20:43 MT) + TOBI cosp-postplanner-tobi-2026-07-28.xlsx (7 TOBI posts) |
+| Dashboard Push | Attempted — proxy blocks write to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API (403 Forbidden) | Same environment restriction as all prior runs |
+
+### 2026-07-28 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB long-form = 12 total posts (PostPlanner xlsx: 7 posts 13:13–20:43 MT, 7 TOBI)
+- **Articles:** 5 (bylines: Jamie Rivera [A1, A3, A5], Sarah Morales [A2, A4])
+- **PostPlanner exports:** cosp-postplanner-2026-07-28.xlsx (7 posts, 13:13–20:43 MT), cosp-postplanner-tobi-2026-07-28.xlsx (7 TOBI posts)
+- **Coverage:** D49 back-to-school dates (Aug. 3 kindergarteners/6th/9th, Aug. 4 all others; D11 Aug. 12; D20 Aug. 17–18; D20 still listed as tentative on school calendar); Backpack Bash Central Aug. 1 (Sat. 9 a.m.–noon, free, first-come/first-served, child must be present, cosbackpackbash.com for address); Bicystar high chair recall #26-290 (TB-HC6900, gray, ~150 units, Amazon Sept. 2025, no crotch restraint + head entrapment gap, stop use + contact seller full refund) + Babimoni high chair CPSC Safety Warning (YB-H1234, ~350 units, Amazon Mar.–Jul. 2024, manufacturer Ningbo Yibai refused recall, stop use, no refund program, try Amazon); Gov. Polis + 5 governors urge AAP to develop early math clinical guidance (Collaborative for Student Success letter July 23, 2026 — math board games at well-child visits; other governors: McKee/RI, Moore/MD, Lamont/CT, Meyer/DE, Stein/NC); Aspen Acres Fire 101,921 acres 61% contained burn scar flash flood risk (CDOT alerts, monsoon season, hydrophobic soil, morning plan/off canyon roads by noon, NWS weather.gov, cotrip.org, inciweb)
+- **Notes:**
+  - verify-facts.py: all 5 stories present in all content files; image not_started warnings cosmetic (expected for gemini source)
+  - compile: posting window warnings cosmetic; 7 X posts, FB posts 0 in XLSX (pre-existing parser limitation); 5 articles
+  - X posts: #### Text Post A/B — TIME MT heading format for PostPlanner compatibility
+  - WordPress: WP API blocked by proxy (403 Forbidden); same restriction as all prior runs
+  - Dashboard push failed: proxy blocks write to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] (rotating from July 27: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4])
+  - Research: all facts from web search; no facts from memory
+  - July 28 is Tuesday — no Weekend Family Roundup required
+  - S3: Babimoni framed as CPSC Safety Warning (not recall) because manufacturer refused recall; Bicystar is the formal recall (#26-290)
+
+---
+
 ## Latest Run: July 27, 2026
 
 | Step | Status | Notes |

@@ -2,6 +2,50 @@
 
 ---
 
+## July 28, 2026
+
+### Story 1: D49 Back-to-School Dates 2026 — Full District Calendar
+- **Date:** 2026-07-28
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — D49 first day Aug. 3 (kindergarteners, 6th graders, 9th graders) + Aug. 4 (all other students). D11 Aug. 12 (K–12). D20 Aug. 17–18 (orientation/first day). Quick Reference table with all three districts, key dates, and links.
+- **Content Produced:** Article (Jamie Rivera), 2 X posts, Facebook Long-Form, Facebook Image Caption, Image Concept (x_image + facebook_image + article_hero)
+- **Tier:** 1
+- **Key Facts:** D49: Aug. 3 K/6/9, Aug. 4 all others; D11: Aug. 12 K–12; D20: Aug. 17–18; Sources: d49.org, d11.org, d20.org, schoolcalendar.net
+
+### Story 2: Backpack Bash Central — August 1, 2026
+- **Date:** 2026-07-28
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Final Backpack Bash COS event of 2026 season. Sat. Aug. 1, 9 a.m.–noon. Free backpacks for PreK–12 students enrolled in COS public/charter schools. Child must be present. First-come/first-served. cosbackpackbash.com for address. D49 families: first day is Monday Aug. 3.
+- **Content Produced:** Article (Sarah Morales), 1 X post, Facebook Long-Form, Facebook Image Caption, Image Concept (x_image + facebook_image + article_hero)
+- **Tier:** 2
+- **Key Facts:** Aug. 1, 9 a.m.–noon; free; PreK–12 COS public/charter schools; child must be present; first-come/first-served; no registration holds a backpack; address at cosbackpackbash.com; Sources: cosbackpackbash.com, KKTV, Fox21
+
+### Story 3: Bicystar High Chair Recall + Babimoni CPSC Safety Warning
+- **Date:** 2026-07-28
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — Two high chair hazards: (1) Bicystar recall #26-290 (TB-HC6900, gray, metal frame, ~150 units, Amazon Sept. 2025, no crotch restraint + head entrapment gap, stop use + contact seller for full refund); (2) Babimoni CPSC Safety Warning (YB-H1234, ~350 units, Amazon Mar.–Jul. 2024, manufacturer Ningbo Yibai refused recall, stop use immediately, no established refund — try Amazon).
+- **Content Produced:** Article (Jamie Rivera), 2 X posts, Facebook Long-Form, Facebook Image Caption, Image Concept (x_image + facebook_image + article_hero)
+- **Tier:** 1
+- **Key Facts:** Bicystar: recall #26-290, TB-HC6900, gray metal frame, ~150 units, Amazon Sept. 2025, hazards: no crotch restraint + head entrapment gap; Babimoni: CPSC Safety Warning (not recall), YB-H1234, ~350 units, Amazon Mar.–Jul. 2024, manufacturer refused recall, hazards: tip-over, restraint failure, tray disengages, locks fail, head entrapment gap; Sources: CPSC.gov
+
+### Story 4: Gov. Polis Among Six Governors Urging AAP to Add Early Math to Well-Child Visits
+- **Date:** 2026-07-28
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — Gov. Polis (CO) + 5 other governors signed letter to AAP July 23, 2026 urging clinical guidance on early numeracy alongside existing Reach Out and Read literacy program. Request: recommend math board games and card games as tools for parents. Organized by Collaborative for Student Success. Other governors: Daniel McKee (RI), Wes Moore (MD), Ned Lamont (CT), Matt Meyer (DE), Josh Stein (NC).
+- **Content Produced:** Article (Sarah Morales), 1 X post, Facebook Long-Form, Facebook Image Caption, Image Concept (x_image + facebook_image + article_hero)
+- **Tier:** 2
+- **Key Facts:** Letter sent July 23, 2026; 6 governors; AAP asked to develop early numeracy clinical guidance; math board games/card games at well-child visits; Collaborative for Student Success; no AAP response timeline; Sources: Collaborative for Student Success, AJMC, HealthyChildren.org
+
+### Story 5: Aspen Acres Burn Scar Flash Flood Risk — What COS Families Need to Know
+- **Date:** 2026-07-28
+- **Content Pillar:** Local News
+- **Angle:** FOLLOW-UP (July 27 covered fire status + evacuation lift; today's angle: burn scar flash flood risk for families planning outdoor trips) — Aspen Acres Fire 101,921 acres, 61% contained, 9th largest in CO history. Evacuations lifted. But burn scar creates flash flood / debris flow risk during monsoon season. Hydrophobic soil layer; afternoon thunderstorms can cause immediate surface runoff. Custer and Pueblo counties (Beulah, Colorado City, Rye, Wetmore, San Isabel). CDOT alerts. Plan outdoor trips for mornings, off canyon roads by noon, NWS weather.gov + cotrip.org.
+- **Content Produced:** Article (Jamie Rivera), 1 X post, Facebook Long-Form, Facebook Image Caption, Image Concept (x_image + facebook_image + article_hero)
+- **Tier:** 2
+- **Key Facts:** 101,921 acres, 61% contained, 9th largest CO fire; evacuations lifted Wetmore/Beulah/Rye/San Isabel/Colorado City; burn scar hydrophobic soil; monsoon flash flood risk Custer/Pueblo counties; CDOT alerts; NWS weather.gov; cotrip.org; inciweb.nwcg.gov; Sources: NWS, CDOT, CPR News, Colorado Sun
+
+---
+
 ## July 27, 2026
 
 ### Story 1: Colorado Day 2026 — Pioneers Museum and United We Rock
