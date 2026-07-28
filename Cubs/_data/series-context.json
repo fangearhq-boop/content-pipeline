@@ -1,25 +1,17 @@
 {
-  "generated_at": "2026-07-27T08:30:00.617727+00:00",
-  "today_ct": "2026-07-27",
+  "generated_at": "2026-07-28T08:30:00.704798+00:00",
+  "today_ct": "2026-07-28",
   "off_day": false,
-  "is_series_start_today": true,
+  "is_series_start_today": false,
   "series": {
     "opponent": "St. Louis Cardinals",
     "opponent_id": 138,
-    "opponent_record": "53-52",
-    "cubs_record": "59-46",
+    "opponent_record": "53-53",
+    "cubs_record": "60-46",
     "is_cubs_home": false,
     "venue": "Busch Stadium",
-    "series_length": 4,
+    "series_length": 3,
     "games": [
-      {
-        "game_pk": "823025",
-        "game_date_iso": "2026-07-27T23:45:00Z",
-        "game_date_ct": "Mon 6:45 PM CT",
-        "cubs_probable": "TBD",
-        "opponent_probable": "TBD",
-        "status": "Preview"
-      },
       {
         "game_pk": "823026",
         "game_date_iso": "2026-07-28T23:45:00Z",
@@ -45,22 +37,22 @@
         "status": "Preview"
       }
     ],
-    "rationale": "Yesterday vs Pittsburgh Pirates; today vs St. Louis Cardinals \u2192 game 1 of 4 (on the road)."
+    "rationale": "Same opponent (St. Louis Cardinals) as yesterday \u2014 this is mid-series, not a series opener."
   },
   "today_cubs_game": {
-    "game_pk": "823025",
+    "game_pk": "823026",
     "status": "Preview",
     "detailed_status": "Scheduled",
-    "game_date_iso": "2026-07-27T23:45:00Z",
-    "game_date_ct": "Mon 6:45 PM CT",
+    "game_date_iso": "2026-07-28T23:45:00Z",
+    "game_date_ct": "Tue 6:45 PM CT",
     "is_cubs_home": false,
     "opponent_id": 138,
     "opponent_name": "St. Louis Cardinals",
-    "opponent_record": "53-52",
-    "cubs_record": "59-46",
+    "opponent_record": "53-53",
+    "cubs_record": "60-46",
     "cubs_probable": "TBD",
     "opponent_probable": "TBD",
     "venue": "Busch Stadium"
   },
-  "rationale": "Yesterday vs Pittsburgh Pirates; today vs St. Louis Cardinals \u2192 game 1 of 4 (on the road)."
+  "rationale": "Same opponent (St. Louis Cardinals) as yesterday \u2014 this is mid-series, not a series opener."
 }
