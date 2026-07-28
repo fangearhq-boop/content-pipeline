@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-07-28
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-28 | T1 | LeBron 76ers Big 4 Is Official — No Press Conference, Just Basketball | X, FB, Article | FOLLOW UP |
+| 2026-07-28 | T1 | Ja Morant Traded to Portland Trail Blazers — Grizzlies Get Jerami Grant and Kris Murray | X, FB, Article | NEW |
+| 2026-07-28 | T1 | Kawhi Leonard Investigation — NBA Reviewing Findings, Ruling Imminent | X, FB, Article | FOLLOW UP |
+| 2026-07-28 | T2 | Bulls Offer DeRozan $80M Over 2 Years — Deal Not Yet Official | X, FB, Article | FOLLOW UP |
+| 2026-07-28 | T2 | Six New NBA Head Coaches for 2026-27 — The Biggest Coaching Overhaul in Years | X, FB, Article | FOLLOW UP |
+
+### STORY 1: LeBron 76ers Big 4 — No Press Conference
+- **Tier:** 1
+- **Category:** NBA Free Agency / Philadelphia 76ers
+- **Key facts:** No intro press conference (ESPN/Windhorst, LeBron's pattern since 2010); Big 4 lineup = Maxey/Edgecombe/Brown/LeBron/Embiid; Brown trade: Paul George + 2 1sts + 2 2nds to Celtics; LeBron 2yr/$8M vet min; Rich Paul: Maxey was primary draw; Pennsylvania declared LeBron James Day July 24; title odds 20-1 → 10-1
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Schedule release (expected next week); training camp; Eastern Conference title odds
+
+### STORY 2: Ja Morant to Portland Trail Blazers
+- **Tier:** 1
+- **Category:** NBA Trades
+- **Key facts:** Morant traded for Jerami Grant + Kris Murray + $1M cash; no picks; Morant played 79 games in 3 seasons; Portland has Lillard (3yr deal, Bucks waived) + Avdija; new HC Micah Nori (ex-T-wolves asst)
+- **Status:** NEW
+- **Follow-up ideas:** Trade cleared; Portland training camp debut; Memphis rebuild moves
+
+### STORY 3: Kawhi Leonard Investigation — Ruling Imminent
+- **Tier:** 1
+- **Category:** NBA Investigation / Trades
+- **Key facts:** Law firm done with fact-finding (July 26); NBA reviewing; $28M Aspiration endorsement deal at center; potential penalty = void or $350K fine; CBA arbitrator process + NBPA appeal rights = multiple steps; Toronto trade frozen; Silver: must conclude before season
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** League ruling; arbitration; trade approved/rejected
+
+### STORY 4: DeMar DeRozan — Bulls $80M Offer
+- **Tier:** 2
+- **Category:** NBA Free Agency / Chicago Bulls
+- **Key facts:** Kings waived DeRozan; Bulls reportedly offered 2yr/$80M (~$40M/yr per Yahoo Sports); no confirmed signed deal as of July 28; DeRozan previously wanted to return to Chicago; Bulls talked youth rebuild all offseason
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official signing announcement or no-deal report; Bulls direction clarified
+
+### STORY 5: Six New NBA Head Coaches 2026-27
+- **Tier:** 2
+- **Category:** NBA Season Preview / Coaching
+- **Key facts:** May (Mavs), Jenkins (Bucks), Splitter (Bulls), Sweeney (Magic), Mosley (Pelicans), Nori (Blazers); Dusty May left NCAA title at Michigan for Cooper Flagg; all confirmed per NBA.com
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Schedule release next week; training camp debuts; preseason results
+
 ## 2026-07-27
 
 | Date | Tier | Story | Platforms | Status |

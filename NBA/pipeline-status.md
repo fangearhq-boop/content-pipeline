@@ -1,10 +1,21 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Last Run
-- **Date**: 2026-07-27
+- **Date**: 2026-07-28
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-28
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 8 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** hh-postplanner-2026-07-28.xlsx (8 posts) + hh-postplanner-tobi-2026-07-28.xlsx (8 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-07-28/review-dashboard.html (28 items)
+- **Notes:** LEBRON BIG 4 NO PRESS CONF — ESPN/Windhorst confirmed no intro press conf (pattern since 2010); Big 4 lineup Maxey/Edgecombe/Brown/LeBron/Embiid set; Jaylen Brown via Paul George + 2 firsts + 2 seconds; 2yr/$8M vet min; title odds 20-1→10-1; MORANT TO PORTLAND — traded for Jerami Grant + Kris Murray + $1M cash, no picks; 79 games in 3 seasons; joins Lillard + Avdija under new HC Micah Nori; KAWHI RULING IMMINENT — law firm done, NBA reviewing; $28M Aspiration deal; potential penalty void/$350K fine; CBA arbitrator + NBPA appeal = multiple steps; Toronto trade frozen; Silver October deadline; DEROZAN BULLS OFFER — Kings waived, Bulls reported $80M/2yr offer (Yahoo Sports), no confirmed deal as of July 28; SIX NEW COACHES — May/Mavs, Jenkins/Bucks, Splitter/Bulls, Sweeney/Magic, Mosley/Pelicans, Nori/Blazers; Dusty May from NCAA title to Cooper Flagg
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-27
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
