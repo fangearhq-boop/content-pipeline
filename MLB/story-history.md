@@ -5,6 +5,61 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-28
+
+### Story 1: Salvador Perez Passes George Brett — Royals All-Time HR Leader
+- **Date:** 2026-07-28
+- **Tier:** 1
+- **Classification:** NEW (first time in pipeline; HR No. 318 hit July 25)
+- **Angle:** 318 HR as a Royal passed Brett's 317 (21 seasons, 1973-1993). Perez age 36, 14th season, all with KC. Solo HR vs. Tigers July 25. Schwarber leads MLB 32 HR / Alvarez 31 / Rice 29.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Perez continues to extend record
+  - Royals franchise milestones coverage
+
+### Story 2: MLB Trade Deadline Countdown — 6 Days, Skubal Decision by Friday
+- **Date:** 2026-07-28
+- **Tier:** 1
+- **Classification:** FOLLOW UP (deadline tracked since July 13; new Skubal timeline angle)
+- **Angle:** August 3 deadline (NOT July 31). Skubal decision by Friday (Dodgers primary). Tigers 25-15 since June 1. Griffin (Nationals LHP 2.68 ERA) "inevitable." Miller (Padres 0.86 ERA, club control 2029) sleeper. Abrams unlikely. Already done: Mead/Early swap.
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Skubal trade announcement or non-trade
+  - Griffin trade destination
+  - Deadline tracker July 29-August 3
+
+### Story 3: Ohtani Misses Next Start — Knee Regression, Dodgers Deadline Urgency
+- **Date:** 2026-07-28
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Ohtani tracked since July 21; new "miss next start" update)
+- **Angle:** Skips next start. "Regression" per Roberts July 26. Last pitched July 3 (8-2, 1.79 ERA, 95K, 85.2 IP). DHing .288/.397/.536. No IL, no timetable. Dodgers urgency for Skubal rises.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Ohtani next bullpen attempt
+  - Dodgers second-half rotation plan
+
+### Story 4: Detroit Tigers Combined No-Hitter — First in Franchise History
+- **Date:** 2026-07-28
+- **Tier:** 2
+- **Classification:** NEW (first time in pipeline; franchise first)
+- **Angle:** Three Tigers pitchers combined for no-hitter vs. Blue Jays. First combined no-hitter in Tigers franchise history (125+ years). Fox News confirmed. Exact date/pitcher names MEDIUM-HIGH confidence (not confirmed in search). Astros also had combined no-hitter May 25 (Imai/Okert/Santa, 9-0 vs. Rangers).
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Tigers pitching staff context
+  - 2026 no-hitter tracker
+
+### Story 5: MLB ERA Leaders and July 27 Scoreboard
+- **Date:** 2026-07-28
+- **Tier:** 3
+- **Classification:** NEW (first ERA leaders story; July 27 recap)
+- **Angle:** Misiorowski 1.58 ERA (1st), Schlittler 2.07 (2nd), Sale 2.19 (3rd). Sale starts vs. Mets July 28. July 27: Red Sox 4 A's 2, Astros 6 Angels 4, Marlins beat Phillies. Rodriguez (Mariners) return projected.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - ERA leaders race as season winds down
+  - Rodriguez return impact on Mariners
+
+---
+
 ## 2026-07-25
 
 ### Story 1: Carlos Beltran and Andruw Jones — Hall of Fame Induction Sunday in Cooperstown

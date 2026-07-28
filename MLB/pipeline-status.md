@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-07-28
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via research agent, 5 stories verified HIGH/MEDIUM-HIGH confidence), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations — all ≤280; counts: 259/193/267/252/255/211/217), FB posts (5 stories), image concepts (8 items), image manifest (8 items, not_started), articles (5), fact-check (28 claims HIGH), compile (5 stories, 7 tweets, 0 FB compiled — format; 5 articles, 22 items), dashboard (22 items), PostPlanner exports (0 posts compiled — format known). WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard publish push failed (proxy known restriction). IMAGE MISSING expected (not_started). claim-patterns.py missing (known). FB posts: 0 compiled (format known). PostPlanner: 0 compiled (format known). NOTE: Tigers no-hitter exact date/pitchers MEDIUM-HIGH confidence (Fox News confirmed franchise first; date not pinpointed).
+- **Key Stories**: Salvador Perez HR No. 318 passes George Brett's 317 on July 25 — new Royals all-time HR leader at 36 years old (Tier 1 NEW), Trade deadline 6 days Aug 3/Skubal decision by Friday/Dodgers primary/Tigers 25-15/Griffin 2.68 ERA "inevitable"/Miller 0.86 ERA controllable-through-2029 sleeper (Tier 1 FOLLOW UP), Ohtani misses next start/knee regression/"won't be next week"/last pitched July 3 8-2 1.79ERA/DHing .288/.397/.536/Dodgers urgency rises (Tier 2 FOLLOW UP), Tigers combined no-hitter first in franchise history vs. Blue Jays/125+ years/3 pitchers (Tier 2 NEW), Misiorowski 1.58 ERA + Schlittler 2.07 + Sale 2.19 = unexpected MLB ERA leaders/Sale starts vs. Mets July 28/July 27: Red Sox 4 A's 2/Astros 6 Angels 4 (Tier 3 NEW)
+
+## Last Run
 - **Date**: 2026-07-27
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via research agent, 5 stories verified HIGH confidence), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations after fix — all ≤280), FB posts (5 stories), image concepts (9 items), image manifest (9 items, not_started), articles (5), fact-check (23 claims HIGH), compile (5 stories, 6 tweets, 0 FB compiled — format; 5 articles, 21 items), dashboard (21 items), PostPlanner exports (no posts compiled — format). WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
