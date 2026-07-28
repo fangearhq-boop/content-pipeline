@@ -1,0 +1,264 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-28",
+  "compiled_at": "2026-07-28T11:40:50.413537+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Norris Calls Hungarian Win \"Probably My Best Race\" — Reigning Champion Finally Clicks",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Lando Norris on his Hungarian GP win: \"My pace today was probably some of the best pace I've ever had. The car was beautiful to drive and I felt very confident.\"\n\nThe reigning champion just broke a 10-race drought with what he calls his best race ever.\n\n#F1 #HungarianGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#HungarianGP"
+          ],
+          "char_count": 270
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Norris won the Hungarian GP without the lead on lap 1.\n\nPiastri led. Piastri retired. Norris survived the chaos, absorbed a chaotic opening (\"big snaps, it felt horrible\"), and drove his way to a commanding win.\n\nThe champ's back. #F1 #LandoNorris",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#LandoNorris"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-norris-hungarian-gp-best-race-ever.html",
+        "headline": "Norris Calls Hungarian Win \"Probably My Best Race\" — The Reigning Champion Is Back",
+        "word_count": 638
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Norris Hungarian Win Reaction\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn\n- **Search terms:** \"Lando Norris McLaren\"\n- **Composition:** Norris celebrating/podium, fist pump or victory gesture\n- **Text overlay:** \"MY BEST RACE EVER\" (Bebas Neue, Primary Racing Red) on dark bar\n- **Subtext:** \"Norris — Hungarian GP Winner\" (Montserrat)\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search terms:** \"Lando Norris McLaren\"\n- **Composition:** Norris in action, race setting, landscape\n- **Text overlay:** \"NORRIS: BEST RACE EVER\" headline\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Antonelli Holds 50-Point Lead Over Hamilton as F1 Enters Summer Break",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "F1 summer break standings snapshot:\n\nAntonelli — 219 pts\nHamilton — 169 pts (−50)\nRussell — 160 pts\n\nMercedes has won 8 of 11 races in 2026.\nMercedes leads Constructors by 72 points over Ferrari.\n\nA 21-year-old is running away with the title. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 246
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Antonelli goes into the summer break 50 points clear. Mercedes has won 8 of 11 races in 2026. Hamilton is 50 back. Russell is 60 back.\n\nThe second half of the F1 season starts August 21 at Zandvoort.\n\nIs the title already decided? #F1 #F1Fanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#F1Fanrecap"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-antonelli-50-point-lead-summer-break.html",
+        "headline": "Antonelli Holds 50-Point Championship Lead as F1 Enters Summer Break — Mercedes Won 8 of 11",
+        "word_count": 584
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli Championship Lead / Summer Break\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn\n- **Search terms:** \"Andrea Kimi Antonelli Mercedes\"\n- **Composition:** Antonelli in Mercedes, podium or celebrating\n- **Text overlay:** \"50 POINTS CLEAR\" (Bebas Neue, Primary Racing Red)\n- **Subtext:** \"Antonelli at Summer Break\" (Montserrat)\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search terms:** \"Lewis Hamilton Mercedes\"\n- **Composition:** Hamilton in Mercedes cockpit or podium\n- **Text overlay:** \"THE CHAMPIONSHIP BATTLE\" headline\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Verstappen Exit Clause Is Now Active — McLaren Deal Reported \"Imminent\"",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Verstappen's Red Bull exit clause is NOW ACTIVE. He finished outside the top two in the championship at summer break — the exact condition that lets him walk.\n\nESPN: He and McLaren CEO Zak Brown have spoken. A 3-year deal is \"imminent.\" #F1 #F1Fanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#F1Fanrecap"
+          ],
+          "char_count": 252
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Red Bull sources say Verstappen is staying for 2027. ESPN says a McLaren deal is \"imminent.\" Red Bull TP Mekies says a \"logical\" 2027 lineup decision is coming.\n\nThe clause window is open. This summer break decides it. #F1 #MaxVerstappen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MaxVerstappen"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-verstappen-exit-clause-mclaren-imminent.html",
+        "headline": "Verstappen's Red Bull Exit Clause Is Active — ESPN Reports McLaren Deal \"Imminent\"",
+        "word_count": 593
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Exit Clause / McLaren\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn\n- **Search terms:** \"Max Verstappen Red Bull\"\n- **Composition:** Verstappen in helmet or in car, contemplative or determined\n- **Text overlay:** \"EXIT CLAUSE: ACTIVE\" (Bebas Neue, Primary Racing Red)\n- **Subtext:** \"McLaren Deal 'Imminent'\" (Montserrat)\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search terms:** \"Max Verstappen Red Bull\"\n- **Composition:** Verstappen driving Red Bull, wide shot\n- **Text overlay:** \"VERSTAPPEN'S NEXT MOVE\" headline\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Alonso's Retirement Decision Coming After Summer Break — The Clock Is Running",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Fernando Alonso turns 45 this month. His Aston Martin contract ends in 2026. He set the summer break as his window to decide on his F1 future.\n\nThe break is here. The clock is running.\n\nAlonso said it partly depends on how the car improves. #F1 #Alonso",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Alonso"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-alonso-retirement-decision-summer-break.html",
+        "headline": "Alonso's Retirement Decision Window Is Open — The Answer Comes This Summer Break",
+        "word_count": 529
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alonso Retirement Decision\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn\n- **Search terms:** \"Fernando Alonso Aston Martin\"\n- **Composition:** Alonso in Aston Martin gear, reflective portrait\n- **Text overlay:** \"THE DECISION\" (Bebas Neue, Accent Championship Gold)\n- **Subtext:** \"Alonso's F1 Future\" (Montserrat)\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search terms:** \"Fernando Alonso Aston Martin\"\n- **Composition:** Alonso in cockpit or post-race\n- **Text overlay:** \"ALONSO'S FAREWELL OR FIGHT?\" headline\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "F1 Returns at Dutch GP — Zandvoort's Farewell, Sprint Weekend, and Verstappen's Home Race",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "F1 returns from summer break August 21-23 at Zandvoort.\n\nIt's a Sprint weekend — the first time the circuit has hosted this format. It may also be Zandvoort's LAST-EVER Formula 1 race.\n\nAnd Verstappen could be racing in front of his home fans in a different car. #F1 #DutchGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#DutchGP"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-dutch-gp-zandvoort-farewell-sprint-preview.html",
+        "headline": "Zandvoort's Last Grand Prix, F1's First Sprint There — And Verstappen's Home Race in the Most Consequential Summer Break in Years",
+        "word_count": 768
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Dutch GP Preview\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn\n- **Search terms:** \"Zandvoort Formula 1\"\n- **Composition:** Aerial or turn shot of Zandvoort circuit with orange crowd\n- **Text overlay:** \"ZANDVOORT'S LAST RACE?\" (Bebas Neue, Primary Racing Red)\n- **Subtext:** \"Dutch GP — August 21-23\" (Montserrat)\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search terms:** \"Max Verstappen Dutch Grand Prix\"\n- **Composition:** Verstappen with Dutch crowd in background\n- **Text overlay:** \"THE FINAL DUTCH GP\" headline"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

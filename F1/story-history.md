@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-07-28
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-28 | T1 | Norris Calls Hungarian Win "Probably My Best Race" — Reigning Champion Finally Clicks | X, FB, Article | FOLLOW UP |
+| 2026-07-28 | T1 | Antonelli Holds 50-Point Lead Over Hamilton as F1 Enters Summer Break | X, FB, Article | FOLLOW UP |
+| 2026-07-28 | T1 | Verstappen Exit Clause Is Now Active — McLaren Deal Reported "Imminent" | X, FB, Article | FOLLOW UP |
+| 2026-07-28 | T2 | Alonso's Retirement Decision Coming After Summer Break — The Clock Is Running | X, FB, Article | FOLLOW UP |
+| 2026-07-28 | T2 | F1 Returns at Dutch GP — Zandvoort's Farewell, Sprint Weekend, and Verstappen's Home Race | X, FB, Article | NEW |
+
+### STORY 1: Norris Calls Hungarian Win "Probably My Best Race" — Reigning Champion Finally Clicks
+- **Tier:** 1
+- **Category:** F1 Race Result / Lando Norris / McLaren
+- **Key facts:** Norris: "My pace today was probably some of the best pace I've ever had. The car was beautiful to drive and I felt very confident." (McLaren.com); Norris won from chaos — opened lap felt "horrible" (big snaps), survived first-corner chaos; Piastri led from pole but retired; 15-second winning margin; Verstappen 2nd; Antonelli 3rd (extended championship lead); Hamilton 4th across line but 5-second pit lane speeding penalty → 5th; Leclerc promoted to podium (P3); first Norris win of 2026 as reigning champion; McLaren trailed Mercedes 8/10 wins heading into Hungary
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** McLaren second-half title math; Norris vs Antonelli head-to-head at Zandvoort
+
+### STORY 2: Antonelli Holds 50-Point Lead Over Hamilton as F1 Enters Summer Break
+- **Tier:** 1
+- **Category:** F1 Championship Standings / Andrea Kimi Antonelli / Mercedes
+- **Key facts:** Antonelli 219pts / Hamilton 169pts / Russell 160pts; Mercedes won 8 of 11 races; Mercedes Constructors 379pts vs Ferrari 307pts (+72); 21-year-old Antonelli in second full season; Hamilton returned to Mercedes for 2026 (after Ferrari 2025)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Second-half schedule breakdown; can Hamilton close the gap in same machinery?
+
+### STORY 3: Verstappen Exit Clause Is Now Active — McLaren Deal Reported "Imminent"
+- **Tier:** 1
+- **Category:** Driver Market / Max Verstappen / McLaren / Red Bull
+- **Key facts:** Exit clause activated — Verstappen outside championship top two at summer break (5th, ~76pts); ESPN: Verstappen and McLaren CEO Zak Brown spoke privately, 3-year deal "imminent"; Red Bull sources: he's staying; Laurent Mekies (Red Bull TP): "logical" 2027 lineup decision "close" (widely read as Hadjar replacing Verstappen); Lambiase confirmed McLaren 2028; conflicting signals from both camps; clause window open — decision expected before/at Dutch GP Aug 21
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official announcement; Red Bull 2027 rebuild plan; McLaren 2027 lineup (Norris/Piastri/Verstappen triangle)
+
+### STORY 4: Alonso's Retirement Decision Coming After Summer Break — The Clock Is Running
+- **Tier:** 2
+- **Category:** Driver Market / Fernando Alonso / Aston Martin
+- **Key facts:** Alonso turns 45 July 2026; Aston Martin contract expires end of 2026; decision window: summer break; Aston Martin among weakest cars under 2026 regs (Adrian Newey joined team with championship ambitions); Alonso has 370+ GP starts, 2x World Champion; showed no obvious physical decline; Aston Martin has not given him a win-capable car in consecutive seasons
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Alonso announcement; effect on 2027 driver market chain
+
+### STORY 5: F1 Returns at Dutch GP — Zandvoort's Farewell, Sprint Weekend, and Verstappen's Home Race
+- **Tier:** 2
+- **Category:** Race Preview / Dutch Grand Prix / Circuit Calendar
+- **Key facts:** Dutch GP August 21-23 at Circuit Zandvoort; first-ever Sprint format at Zandvoort; Sprint Qualifying Fri 16:30 CET / Sprint Sat 12:00 CET / GP Qualifying Sat 16:00 CET; multiple reports indicate Zandvoort's F1 contract ends after 2026 (potential farewell race); Verstappen home race — orange crowd; if Verstappen has left Red Bull by then, home fans watch him in different car for first time
+- **Status:** NEW
+- **Follow-up ideas:** Dutch GP race coverage; Verstappen announcement at home race; Zandvoort farewell
+
 ## 2026-07-27
 
 | Date | Tier | Story | Platforms | Status |

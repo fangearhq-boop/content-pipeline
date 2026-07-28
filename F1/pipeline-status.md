@@ -1,10 +1,21 @@
 # F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
-- **Date**: 2026-07-27
+- **Date**: 2026-07-28
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-28
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 8 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway)
+- **PostPlanner exports:** f1fr-postplanner-2026-07-28.xlsx (18 posts) + f1fr-postplanner-tobi-2026-07-28.xlsx (13 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-07-28/review-dashboard.html (23 items)
+- **Notes:** HUNGARIAN GP AFTERMATH + SUMMER BREAK — Norris wins Hungary ("My pace today was probably some of the best pace I've ever had" — McLaren.com); Piastri retired from lead; Verstappen 2nd (+15s); Antonelli 3rd; Hamilton P4→P5 (pit lane speeding 5s penalty); Leclerc promoted podium; Norris first 2026 win as reigning champion; CHAMPIONSHIP: Antonelli 219pts / Hamilton 169pts (-50) / Russell 160pts; Mercedes 8/11 wins; Constructors 379-307; VERSTAPPEN EXIT CLAUSE ACTIVE: outside top 2 at summer break (5th ~76pts); ESPN "imminent" 3yr McLaren deal; Red Bull sources "staying"; Mekies "logical" decision close; Lambiase McLaren 2028; ALONSO: turns 45 July, contract ends 2026, decision after summer break, Aston Martin near bottom; DUTCH GP: Aug 21-23 Zandvoort, Sprint debut (Sprint Qual Fri 16:30 CET / Sprint Sat 12:00 / GP Qual Sat 16:00), reportedly last F1 race at Zandvoort
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-27
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
