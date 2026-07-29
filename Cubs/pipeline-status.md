@@ -1008,3 +1008,17 @@ to mark them as pipeline-produced.
 - **Insights applied:** 0 significant findings (measured_tweet_count=83; no contrasts cleared n≥8 + p<0.05 + |delta|≥0.20 gates). Brand-voice defaults applied in full: 50/50 split, emojis placed naturally (not leading), blank lines for breathing room, ALL CAPS sparingly.
 - **Series context:** is_series_start_today=true (vs Detroit Tigers, Game 1 of 3 at Wrigley). Mandatory 7:00 AM series preview posted. Series preview leads with opponent+length+location per pipeline rules; pitcher/stakes in second paragraph.
 - **Key news:** Cubs 10, Twins 1 (series win — Imanaga 7 IP shutout, Hoerner back-to-back 4-for-4 including bases-loaded triple, Bregman 2-run HR); Taillon activated from hamstring IL (starts tonight); Aaron Civale acquired from A's (July 18); Joe Ryan (Twins, 3.36 ERA) top trade target; August 3 deadline 14 days away; Tigers 46-53 overall but 18-12 since June 1 (AL-best in that stretch)
+
+## 2026-07-29 (Wednesday)
+
+- **Date:** 2026-07-29
+- **Run time:** ~09:00 UTC (automated)
+- **Cubs record:** 61-46 (NL Wild Card No. 1)
+- **Series:** Cubs at St. Louis Cardinals — Game 3 of 4 at Busch Stadium, 6:45 PM CT
+- **Stories:** 7
+- **X posts:** 7 (4 informative / 3 bold)
+- **Dashboard:** review-dashboard.html generated; unified dashboard push blocked (content-dashboards repo auth not scoped to this session — consistent with prior runs)
+- **Insights applied:** 1 significant finding consumed — `has_score=False` beats `has_score=True` (median impressions 118 vs 78.5, n=65/60, p=0.03, Cliff's delta=0.225, small effect). Applied: NO tweet leads with or prominently features a score. Game recap (Story 1) leads with Rea's performance line, not "Cubs 10, Cardinals 2." This overrides brand-voice "include scores in recaps" per insights-first rule.
+- **Series context:** is_series_start_today=false (mid-series vs Cardinals, Game 3 of 4 at Busch). No mandatory series-preview tweet. Midday slot (12 PM) used for Game 3 preview; 5 PM for pre-game hype.
+- **Key news:** Cubs 10-2 Game 2 win (Rea 6 IP/1 ER, 17 hits, Ian Happ 11-pitch 2-run double); Cubs 2-0 in series; trade deadline August 3 (5 days) with Hoyer signaling "majority of prospects" available; PCA .290/.388/.545/.932 OPS NL MVP watch; Cardinals 53-54, 9-13 in July collapsing; Boyd vs May Game 3 tonight; Ballesteros 2-run HR for Iowa Cubs
+- **Fact-check flags:** Cardinals "9-13 in July" (MEDIUM, 1 AI summary source); Boyd July ERA 2.21 (MEDIUM, Bleacher Nation AI summary); May record 5-7 vs 3-6 discrepancy (used most current July 29 source); Iowa Cubs win framed without day-of-week reference to avoid date inaccuracy

@@ -1,0 +1,240 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-29",
+  "compiled_at": "2026-07-29T09:23:32.944457+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Cubs 10-2 Game 2 — Rea Dominates at Busch",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Colin Rea's best outing as a Cub: 6 IP, 1 ER. Cubs scored 7 runs through 2 innings (Ian Happ 11-pitch 2-run double, Hoerner RBI single, Suzuki 2 RBI). 17 hits total. NO score lead — insights data says has_score=False outperforms.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Colin Rea was DOMINANT at Busch — 6 IP, 1 ER while the Cubs erupted for 7 runs through 2 innings.\n\nIan Happ's 11-pitch, 2-run double set the tone. 17 hits total.\n\nCubs are 2-0 in this series. Boyd goes tonight.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cubs 10, Cardinals 2 — Rea Dominates Game 2\n**Decision:** NEW STORY (Game 2 recap; not covered in previous pipelines)\n**Sources:**\n1. ESPN Recap — Cubs 10-2 Cardinals (Jul 28, 2026): https://www.espn.com/mlb/recap?gameId=401816299 ✓ Published July 28, 2026\n2. MLB.com Gameday — Cubs 10, Cardinals 2 Final Score (07/28/2026): https://www.mlb.com/gameday/cubs-vs-cardinals/2026/07/28/823026 ✓ Published July 28, 2026\n3. MLB.com Game Story: https://www.mlb.com/stories/game/823026 ✓\n**Key Facts (verified from 2+ sources):**\n- Final: Cubs 10, Cardinals 2 ✓ HIGH (ESPN + MLB.com)\n- Rea: 6 IP, 4 H, 1 ER, 2 K, 2 BB; Win → record 8-7 ✓ HIGH (ESPN box score)\n- McGreevy: 1⅔ IP, 8 H, 7 ER; Loss → record drops to 4-9 ✓ MEDIUM (ESPN recap summary)\n- Cubs: 17 hits ✓ HIGH (multiple sources)\n- 7 runs through 2 innings ✓ HIGH (game highlight recap confirms \"7-0 before 3rd inning\")\n- Ian Happ: 11-pitch AB, 2-run double, 2 RBI ✓ HIGH (game highlights)\n- PCA: Sacrifice fly (scored Conforto) ✓ MEDIUM (ESPN recap AI summary — one source)\n- Hoerner: RBI single (made it 7-0) ✓ MEDIUM (recap summary)\n- Suzuki: 2 RBI (including 8th-inning RBI single) ✓ MEDIUM (box score summary)\n- Carson Kelly: RBI single in 9th ✓ MEDIUM (box score summary)\n- Cubs record now 61-46 ✓ HIGH (series-context.json confirmed)\n**Freshness:** Game played July 28, 2026 — less than 24 hours old. ✓\n**Why it matters:** Cubs dominating Cardinals heading into trade deadline. 2-0 in series. Rea pitching his best game. Offense producing with 17 hits.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Trade Deadline — 5 Days, Cubs Ready to Deal \"Majority\" of Prospects",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Jed Hoyer signaled Cubs are ready to deal the \"majority\" of top prospects — no one is untouchable — with 5 days left to August 3. Four starters on the IL. This is all-in mode.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Jed Hoyer has opened the vault: the Cubs are ready to deal the \"majority\" of their top prospects — no one untouchable — with 5 days left to August 3. 🚨\n\nFour starters on the IL. This team NEEDS an impact arm.\n\nThe price will be steep. Pay it.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Trade Deadline — 5 Days, Cubs Ready to Deal \"Majority\" of Prospects\n**Decision:** FOLLOW UP (deadline arc continuously tracked — July 27 featured Hancock; today's angle = \"majority of prospects\" open, urgency at 5 days)\n**Sources:**\n1. SI.com — \"Cubs Ready to Deal 'Majority' of Top Prospects\": https://www.si.com/mlb/cubs/onsi/cubs-ready-to-deal-majority-of-top-prospects-as-big-trade-deadline-looms-28 ✓ Published July 28, 2026\n2. ChiCitySports — \"Almost no prospect is off-limits\": https://www.chicitysports.com/chicago-cubs-trade-deadline-nobody-off-limits-jed-hoyer/ ✓ Published July 27-28, 2026\n3. Chicago Sun-Times (Hoyer quote): https://chicago.suntimes.com/cubs/2026/07/28/cubs-mlb-trade-deadline-rumors-jed-hoyer-pitching-nico-hoerner-ian-happ-alex-bregman ✓ Published July 28, 2026\n**Key Facts:**\n- August 3 deadline = 5 days away (5 PM CT) ✓ HIGH\n- Cubs willing to deal \"majority\" of top prospects ✓ MEDIUM (reported by multiple outlets)\n- \"Almost no prospect is off-limits\" per insider ✓ MEDIUM (single MLB insider report)\n- Targets named: Tarik Skubal, Robbie Ray, Clay Holmes, Freddy Peralta, Emerson Hancock ✓ MEDIUM (trade deadline report)\n- Cubs already added Civale + Peterson — looking for higher-impact acquisition ✓ HIGH\n- 4 starters on IL: Horton, Steele, Brown, Cabrera ✓ MEDIUM (trade deadline reports; Cabrera semi-confirmed returning)\n- Hoyer quote: \"Hopefully we get everything we want\" ✓ MEDIUM (Sun-Times, July 28)\n**Freshness:** Reported July 28, 2026 — within 24 hours. ✓\n**Why it matters:** 5 days to deadline with 4 starters on shelf is a 5-alarm situation. This is the defining storyline of the Cubs' season beyond game results.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "PCA — .290/.388/.545, 23 HR, 26 SB, NL MVP Watch",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Pete Crow-Armstrong: .290/.388/.545, .932 OPS (7th in MLB), 23 HR, 26 SB, 60 RBI, 70 runs. He's doing it through a team-wide rotation crisis. The NL MVP conversation is real.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Pete Crow-Armstrong in 2026: .290/.388/.545, .932 OPS, 23 HR, 26 SB.\n\nHe's doing this while the Cubs have shuffled through rotation injuries all season. Not a hot streak — this is who he is now.\n\nThe NL MVP conversation doesn't start without him.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "PCA — .290/.388/.545, 23 HR, 26 SB, NL MVP Case\n**Decision:** FOLLOW UP (PCA arc — last featured as \"historic 22/5/25 feat\" on July 28; today's angle = broader MVP case with updated stats heading into late July)\n**Sources:**\n1. StatMuse player page: https://www.statmuse.com/mlb/player/pete-crow-armstrong-95344 ✓ Updated through July 27-28, 2026\n2. FanDuel Research game update (July 27): https://www.fanduel.com/research/mlb/player-news/game-updates/pete-crow-armstrong-and-cubs-play-cardinals-on-july-27-2026 ✓\n**Key Facts:**\n- PCA 2026: .290/.388/.545, .932 OPS (7th in MLB) ✓ MEDIUM (StatMuse; single source)\n- 23 HR (11th in MLB), 60 RBI, 70 R, 26 SB on 32 attempts ✓ MEDIUM (StatMuse)\n- 460 plate appearances ✓ MEDIUM\n- July start: 8-for-17 (.471) in first 5 games of July ✓ MEDIUM\n**Freshness:** Stats through July 27-28. ✓\n**Why it matters:** PCA is doing historic things at age 23 with a decimated rotation around him. NL MVP narrative is real.\n**Note:** Do NOT re-run the \"first since 1979\" angle (covered July 28). Today's angle = season-total MVP case snapshot.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Cardinals Collapsing — 53-54, 9-13 in July",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Cardinals 9-13 in July, now 53-54, 0-2 in this series vs Cubs. Given up 17 combined runs (7+10) in the two games. JoJo Romero still on IL. The playoff hopes are cratering.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The Cardinals have gone 9-13 in July and just lost back-to-back at home to the Cubs — getting outscored badly in both games.\n\nThey were supposed to be wild card competition. At 53-54, they're barely above .500.\n\nJuly has been brutal in St. Louis.\n\n#Cubs #MLB #NorthSiders",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#NorthSiders"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cardinals Collapsing — 53-54, 9-13 in July\n**Decision:** FOLLOW UP (Cardinals collapse arc — \"Cardinals Are Collapsing\" was July 28 Story 6; today's new angle = 2 more losses, now 0-2 in series, the collapse is accelerating)\n**Sources:**\n1. FanSided / MLB Wild Card standings: https://fansided.com/mlb/one-trade-the-cardinals-and-every-team-spiraling-in-the-nl-wild-card-standings-must-make ✓\n2. Series context JSON (confirmed: Cardinals 53-54) ✓ HIGH — game-monitor generated July 29\n**Key Facts:**\n- Cardinals: 53-54, 9-13 in July ✓ MEDIUM (AI summary from multiple sources)\n- 0-2 in this series vs Cubs ✓ HIGH (game results confirmed)\n- Gave up 17 combined runs (7+10) in first two games of series ✓ HIGH (from game recaps)\n- JoJo Romero still on IL with appendicitis — thin bullpen ✓ MEDIUM (July 27 coverage)\n- Cardinals 15th in NL Wild Card standings ✓ MEDIUM\n**Freshness:** Records confirmed through July 28 game results. ✓\n**Why it matters:** The Cardinals are dying as a wild card contender in real time, which benefits the Cubs' playoff positioning.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Game 3 Preview — Boyd vs May, 6:45 PM CT",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Matthew Boyd (6-1, 3.81 ERA) takes the mound — in July he's 2-0 with a 2.21 ERA in four starts. Cardinals counter with Dustin May (5-7, 4.59 ERA). Cubs can go 3-0 in the series.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Matthew Boyd tonight at Busch: 6-1, 3.81 ERA — and in July he's been LIGHTS OUT (2-0, 2.21 ERA in four starts).\n\nThe Cardinals counter with Dustin May (5-7, 4.59 ERA). Cubs are rolling.\n\nGame 3 of 4, 6:45 PM CT.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Game 3 Preview — Boyd vs May, 6:45 PM CT\n**Decision:** NEW STORY (each individual game preview is new; July 28 story 5 was Game 2 preview — today's is Game 3)\n**Sources:**\n1. Bleacher Nation — \"Cardinals vs. Cubs: Injury Report, Updates & Probable Starters – July 29\": https://www.bleachernation.com/stats-and-news/2026/07/29/cardinals-vs-cubs-injury-report-updates-probable-starters-july-29/ ✓ Published July 29, 2026\n2. SportsGrid — \"Cubs vs. Cardinals Prediction, Odds & Picks (Jul 29)\": https://www.sportsgrid.com/mlb/game/chicago-cubs-st-louis-cardinals-scores-odds-picks-props-july-29-2026/628fd05d-35fa-4d43-a0fe-7f94c508c2b1 ✓\n**Key Facts:**\n- Boyd: 6-1, 3.81 ERA — 12th start of season ✓ HIGH (multiple sources)\n- Boyd July 2026: 2-0, 2.21 ERA, 4 starts (20.1 IP, 5 ER, 23 K) ✓ MEDIUM (ESPN gamelog/BBREF AI summary)\n- Boyd last start: 7 IP, 1 ER vs Pittsburgh Pirates ✓ MEDIUM\n- May: 5-7, 4.59 ERA ✓ MEDIUM (one source; alternative source says 3-6/4.21 ERA — possible different date window)\n- Game time: 6:45 PM CT ✓ HIGH (series context JSON)\n- Location: Busch Stadium ✓ HIGH (series context JSON)\n- Series status: Cubs 2-0 ✓ HIGH\n**Freshness:** July 29 preview — same-day content. ✓\n**Why it matters:** Cubs can go 3-0 in the series with a Boyd win; Boyd is the hottest Cubs pitcher in July.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Iowa Cubs Win — Ballesteros Homers",
+      "tier": 3,
+      "status": "NEW STORY",
+      "angle": "Moises Ballesteros hit a 2-run blast and Iowa Cubs cruised past the Gwinnett Stripers. Tennessee Smokies also won in extras. System is producing at every level.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "While the Cubs torched the Cardinals at Busch, Iowa handled its business too.\n\nMoises Ballesteros hit a 2-run blast and the Iowa Cubs cruised past the Gwinnett Stripers.\n\nThe pipeline is producing. September can't come fast enough.\n\n#Cubs #CubsBaseball #GoCubs",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#GoCubs"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Iowa Cubs Win — Ballesteros Homers\n**Decision:** NEW STORY (Ballesteros homer in recent Iowa win not yet covered this week)\n**Sources:**\n1. Bleacher Nation Cubs Prospects Report July 27: https://www.bleachernation.com/cubs/2026/07/27/cubs-prospects-727/ ✓ Published July 27, 2026\n**Key Facts:**\n- Iowa Cubs beat Gwinnett Stripers 7-3 ✓ MEDIUM (Bleacher Nation)\n- Ballesteros: 2-run HR ✓ MEDIUM (Bleacher Nation prospects report)\n- Grant Kipp: Started, 5 IP, 1 ER ✓ MEDIUM\n- Tennessee Smokies: Won in extra innings vs Rocket City Trash Pandas ✓ MEDIUM (date may be July 26-27)\n**Freshness:** July 27 source — at the edge of 24-hour window. MEDIUM confidence on recency. Will frame as \"minor league roundup\" to stay grounded.\n**Why it matters:** System-wide depth story; Ballesteros is on the MLB radar.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 7,
+      "title": "Pre-Game Hype — Boyd on the Mound, Series Sweep in Reach",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Boyd is the hottest Cubs pitcher in July. Cubs are 2-0 in the series. Cardinals are sliding. Game 3 at Busch tonight at 6:45 PM CT.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Matthew Boyd takes the mound tonight at Busch Stadium — 6-1 with the best ERA on this staff in July. 🔥\n\nThe Cardinals are sliding. The Cubs are rolling. This is a chance to go 3-0 in the series.\n\n6:45 PM CT. Let's ride.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Pre-Game Hype — Boyd Starts, Series Sweep in Reach\n**Decision:** NEW STORY (game-day hype slot always fresh; Boyd's July dominance provides strong peg)\n**Sources:** Combined from Story 5 research (Boyd stats) + Story 1 (series lead)\n**Key Facts:**\n- Boyd: 6-1, 3.81 ERA, July 2-0, 2.21 ERA ✓ HIGH\n- Cubs 2-0 in series ✓ HIGH\n- 6:45 PM CT first pitch ✓ HIGH\n- Cardinals: 9-13 in July ✓ MEDIUM\n**Why it matters:** Creates urgency and fan engagement for tonight's primetime game.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

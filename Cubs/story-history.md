@@ -4771,3 +4771,63 @@ Each day's stories are appended at the top (newest first).
   - Taillon's first home start back
 
 ---
+
+## 2026-07-29
+
+### STORY 1: Cubs 10-2 Game 2 — Rea Dominates at Busch
+- **Angle:** NEW STORY (Game 2 recap; Colin Rea 6 IP, 1 ER — best outing as a Cub; Ian Happ 11-pitch 2-run double set the tone; Cubs erupted for 7 runs through 2 innings; 17 hits total; Cubs now 2-0 in series; NO score lead per insights finding has_score=False beats True)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - Game 3 result tonight
+  - Rea's continued rotation reliability
+
+### STORY 2: Trade Deadline — 5 Days, Cubs Ready to Deal "Majority" of Prospects
+- **Angle:** FOLLOW UP (deadline arc; July 28 featured Hancock angle; today's angle = Jed Hoyer opens the vault, "majority of prospects" available, 5 days left to August 3; four starters on IL — Horton, Steele, Brown, Cabrera; all-in mode)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold take / trade deadline)
+- **Follow-Up Opportunities:**
+  - Any trade announcement by August 3
+  - Cubs acquire impact starting pitcher
+
+### STORY 3: PCA — .290/.388/.545, 23 HR, 26 SB, NL MVP Watch
+- **Angle:** FOLLOW UP (PCA arc; July 28 featured "22/5/25 historical feat"; today's angle = full MVP season stat-line snapshot; .932 OPS 7th in MLB; 23 HR 11th in MLB; doing it through rotation crisis)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, stat breakdown)
+- **Follow-Up Opportunities:**
+  - MVP vote coverage heading into August
+  - PCA milestone HR or SB
+
+### STORY 4: Cardinals Collapsing — 53-54, 9-13 in July
+- **Angle:** FOLLOW UP (Cardinals collapse arc; July 28 Story 6 was "Cardinals Are Collapsing"; today's new angle = now 0-2 in series, 9-13 in July at 53-54; gave up 17 combined runs in series; wild card hopes cratering)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, rival watch / bold take)
+- **Follow-Up Opportunities:**
+  - Cardinals record if they lose Game 3 tonight
+  - Wild card standings shift after series
+
+### STORY 5: Game 3 Preview — Boyd vs May, 6:45 PM CT
+- **Angle:** NEW STORY (game 3 of 4 preview; Matthew Boyd 6-1, 3.81 ERA, July 2-0, 2.21 ERA in 4 starts; Cardinals counter with Dustin May 5-7, 4.59 ERA; Cubs can go 3-0 in series)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Boyd's actual performance tonight
+  - Game 3 result (recap tomorrow morning)
+
+### STORY 6: Iowa Cubs Win — Ballesteros Homers
+- **Angle:** NEW STORY (Moises Ballesteros 2-run HR; Iowa Cubs beat Gwinnett Stripers 7-3; prospect pipeline producing at every level; Tennessee Smokies also won in extras; July 27 Bleacher Nation source)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, prospect update)
+- **Follow-Up Opportunities:**
+  - Ballesteros call-up ahead of September
+  - Iowa Cubs next result
+
+### STORY 7: Pre-Game Hype — Boyd on the Mound, Series Sweep in Reach
+- **Angle:** NEW STORY (game-day hype; Boyd 6-1, best ERA on staff in July; Cubs 2-0 in series; Cardinals sliding; 6:45 PM CT at Busch; series sweep in reach)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, pre-game hype)
+- **Follow-Up Opportunities:**
+  - Game 3 result
+  - Boyd performance report
+
+---
