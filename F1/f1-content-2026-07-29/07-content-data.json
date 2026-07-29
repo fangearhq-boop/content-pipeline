@@ -1,0 +1,257 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-29",
+  "compiled_at": "2026-07-29T11:31:27.672082+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Verstappen's Exit Clause Sits Active — Red Bull's $80M Counter-Offer Gets No Response",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Red Bull reportedly offered Verstappen $80M/year through 2029 — with the performance clause REMOVED. His management has not formally responded. The exit clause is active. The October deadline is set. The silence is deafening. #F1Fanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap"
+          ],
+          "char_count": 237
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Verstappen's manager says he \"wants to fulfill his Red Bull contract.\" Red Bull tables an $80M/yr retention offer. Max still hasn't responded. McLaren is waiting. Zandvoort is in 23 days. Something has to give. #F1Fanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap"
+          ],
+          "char_count": 222
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-verstappen-exit-clause-80m-no-response.html",
+        "headline": "Red Bull Offers Verstappen $80M a Year — His Camp Hasn't Responded",
+        "word_count": 566
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Exit Clause — $80M Counter-Offer\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn\n- **Search terms:** \"Max Verstappen Red Bull Racing\"\n- **Composition:** Verstappen in Red Bull gear, determined expression or podium moment\n- **Text overlay:** \"$80M. NO RESPONSE.\" (Bebas Neue, red/white) top area\n- **Subtext:** \"Verstappen's future remains uncertain\" (Montserrat)\n- **Logo:** F1 Fanrecap logo bottom-right\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search terms:** \"Max Verstappen Red Bull\"\n- **Composition:** Wide cockpit shot or car shot, circuit in background\n- **Text overlay:** \"THE $80M QUESTION\" headline bar\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Aston Martin's B-spec Breakthrough Is Real — And It Might Change Alonso's Decision",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Fernando Alonso made Q2 for the first time all season at Hungary. The Aston Martin B-spec works — 16-part upgrade, 2% lap time gain. Alonso: \"That adrenaline... was missed.\" Newey says more steps at Zandvoort, Monza, Baku. Retirement who? #F1Fanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap"
+          ],
+          "char_count": 250
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Alonso was supposed to decide about retirement during summer break. Then his car made Q2 for the first time all season. Then Adrian Newey said more improvements are coming. Decisions get harder when the car starts working. #F1Fanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-aston-martin-bspec-alonso-retirement.html",
+        "headline": "Aston Martin's B-spec Works — And Alonso's Retirement Decision Just Got Harder",
+        "word_count": 648
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Aston Martin B-spec + Alonso\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn\n- **Search terms:** \"Fernando Alonso Aston Martin\"\n- **Composition:** Alonso in Aston Martin green gear, animated expression post-qualifying\n- **Text overlay:** \"THE B-SPEC WORKS\" (Bebas Neue, green/white) large top text\n- **Subtext:** \"Q2 for the first time all season\" (Montserrat)\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search terms:** \"Fernando Alonso Aston Martin F1\"\n- **Composition:** Car on track in race conditions, Aston Martin livery\n- **Text overlay:** \"ASTON'S BREAKTHROUGH\" headline bar\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Zandvoort's Last F1 Race — Dutch GP Is the End of an Era (Aug 21-23)",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The 2026 Dutch Grand Prix (Aug 21-23) is the LAST F1 race Zandvoort will ever host. Ticket economics made it unworkable. The Orange Army fills it out one final time — with a Sprint weekend AND Verstappen's future still unresolved. #F1Fanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-dutch-gp-zandvoort-farewell.html",
+        "headline": "Zandvoort's Last-Ever F1 Race Is 23 Days Away — Here's Everything at Stake",
+        "word_count": 586
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Dutch GP Farewell\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn\n- **Search terms:** \"Zandvoort Dutch Grand Prix\"\n- **Composition:** Circuit aerial or crowd shot, orange fans\n- **Text overlay:** \"ONE LAST TIME\" (Bebas Neue, orange/white) large text\n- **Subtext:** \"Zandvoort's final F1 race — Aug 21-23\" (Montserrat)\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search terms:** \"Max Verstappen Dutch Grand Prix\"\n- **Composition:** Verstappen celebrating at Zandvoort with Orange Army background\n- **Text overlay:** \"FAREWELL ZANDVOORT\" headline bar\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Sainz and Williams: $30M Offer on the Table, Audi Door Appears Closed",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Williams reportedly offered Carlos Sainz $30M/year to stay. Then Bortoleto confirmed his Audi seat is sorted. The escape route closed publicly. Sainz says he's \"keeping his options open.\" The options just got fewer. #F1Fanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap"
+          ],
+          "char_count": 227
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-sainz-williams-offer-audi-door-closed.html",
+        "headline": "Sainz Gets a $30M Williams Offer — Then Bortoleto Closes the Audi Door",
+        "word_count": 502
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Sainz Williams Offer\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn\n- **Search terms:** \"Carlos Sainz Williams F1\"\n- **Composition:** Sainz in Williams white livery, focused expression\n- **Text overlay:** \"$30M OFFER\" (Bebas Neue, Williams blue/white) top\n- **Subtext:** \"Audi door closed. Williams waiting.\" (Montserrat)\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search terms:** \"Carlos Sainz Williams Racing\"\n- **Composition:** Sainz cockpit or car on track\n- **Text overlay:** \"SAINZ'S DECISION\" headline bar\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "F1's Season Finale May Not End in Abu Dhabi — Portugal and Italy Are in the Mix",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5-1",
+          "text": "F1 already lost Bahrain and Saudi Arabia this season. Now Qatar (Nov 29) and Abu Dhabi (Dec 6) are at risk too. Domenicali confirmed contingency plans — Portimão is primary, Imola is an option, Las Vegas is NOT the finale. The title fight could end anywhere. #F1Fanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap"
+          ],
+          "char_count": 270
+        },
+        {
+          "label": "Post 5-2",
+          "text": "Imagine the 2026 F1 World Championship being decided at Portimão. Or Imola. The Middle East situation is making it a genuine possibility. Domenicali has confirmed alternatives exist. The season finale may not look like anyone planned. #F1Fanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-f1-season-finale-qatar-abu-dhabi-contingency.html",
+        "headline": "F1's Season Finale May Not End in Abu Dhabi — Portimão and Imola Are the Contingency",
+        "word_count": 542
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "F1 Season Finale Uncertainty\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn\n- **Search terms:** \"F1 Abu Dhabi Grand Prix\"\n- **Composition:** Abu Dhabi Yas Marina circuit at night, iconic backdrop\n- **Text overlay:** \"IN DOUBT\" (Bebas Neue, red warning tone) large text\n- **Subtext:** \"Qatar and Abu Dhabi may lose F1 season finale\" (Montserrat)\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search terms:** \"Stefano Domenicali Formula 1\"\n- **Composition:** Domenicali at press conference or circuit\n- **Text overlay:** \"THE CONTINGENCY PLAN\" headline bar"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

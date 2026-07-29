@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-07-29
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-29 | T1 | Verstappen Exit Clause: Red Bull's $80M Counter-Offer Gets No Response | X, FB, Article | FOLLOW UP |
+| 2026-07-29 | T1 | Aston Martin B-spec Works — Alonso's Retirement Decision Just Got Harder | X, FB, Article | FOLLOW UP |
+| 2026-07-29 | T2 | Zandvoort's Last-Ever F1 Race Is 23 Days Away — Everything at Stake | X, FB, Article | FOLLOW UP |
+| 2026-07-29 | T2 | Sainz Gets $30M Williams Offer, Then Bortoleto Closes the Audi Door | X, FB, Article | NEW |
+| 2026-07-29 | T2 | F1 Season Finale May Not End in Abu Dhabi — Portimão and Imola Are the Contingency | X, FB, Article | NEW |
+
+### STORY 1: Verstappen Exit Clause — $80M Counter-Offer, No Response
+- **Tier:** 1
+- **Category:** Driver Market / Max Verstappen / Red Bull / McLaren
+- **Key facts:** Red Bull offered ~$80M/yr through 2029 with performance clause removed; per TheJudge13 July 28, no formal response from Verstappen camp; manager says wants to fulfill contract; clause active (outside top 2 at summer break, 5th ~76pts); October deadline; McLaren's Brown insists Norris/Piastri seats secured
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official announcement; Dutch GP context; October deadline
+
+### STORY 2: Aston Martin B-spec + Alonso Retirement
+- **Tier:** 1
+- **Category:** Driver Market / Fernando Alonso / Aston Martin / Technical
+- **Key facts:** 16-part B-spec debuted Hungary; Q2 for first time all season (3.369% off pole; 2.036% gain vs prior rounds); Alonso "That adrenaline...was missed"; Newey: more steps at Zandvoort/Monza/Baku; Honda PU upgrade at Dutch GP; Alonso retirement decision deadline = summer break; newborn son Leonardo
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Alonso retirement announcement; Dutch GP B-spec performance; Honda PU impact
+
+### STORY 3: Dutch GP — Zandvoort's Last-Ever F1 Race
+- **Tier:** 2
+- **Category:** Race Preview / Dutch Grand Prix / Circuit Calendar
+- **Key facts:** 2026 Dutch GP Aug 21-23 = final ever F1 race at Zandvoort; VAT increase made economics unworkable; first-ever Sprint at Zandvoort; sold-out tickets; Verstappen won Dutch GP 3 times in modern era; Aston Martin Honda PU upgrade expected
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Dutch GP race coverage; Verstappen announcement timing; Sprint result
+
+### STORY 4: Sainz Williams Offer + Audi Door Closed
+- **Tier:** 2
+- **Category:** Driver Market / Carlos Sainz / Williams / Audi
+- **Key facts:** Williams offered ~$30M/yr to retain Sainz (GPFans; salary unconfirmed officially); Bortoleto confirmed Audi seat sorted post-Hungary; Brundle: Sainz "keeping options open"; Sainz 2026 contract expires; Verstappen exit clause = upstream variable for Red Bull seat
+- **Status:** NEW
+- **Follow-up ideas:** Sainz announcement; Williams 2027 lineup; Red Bull domino
+
+### STORY 5: F1 Season Finale Calendar Threat
+- **Tier:** 2
+- **Category:** F1 Calendar / Season Finale / Geopolitics
+- **Key facts:** Qatar Nov 29 + Abu Dhabi Dec 6 at risk from same conflict that dropped Bahrain+Saudi; Domenicali confirmed contingency plans; Portimão primary backup; Imola confirmed option; Las Vegas explicitly ruled out as finale; WEC already cancelled Qatar/Bahrain; decision expected before Dutch GP
+- **Status:** NEW
+- **Follow-up ideas:** Official calendar change announcement; venue confirmation; championship implications
+
 ## 2026-07-28
 
 | Date | Tier | Story | Platforms | Status |

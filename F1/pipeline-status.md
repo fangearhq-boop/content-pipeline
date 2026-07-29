@@ -1,8 +1,21 @@
 # F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
-- **Date**: 2026-07-28
+- **Date**: 2026-07-29
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+
+## Pipeline Run Log
+
+### 2026-07-29
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 8 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss)
+- **PostPlanner exports:** f1fr-postplanner-2026-07-29.xlsx (8 posts) + f1fr-postplanner-tobi-2026-07-29.xlsx (8 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-07-29/review-dashboard.html (23 items)
+- **Notes:** VERSTAPPEN CLAUSE — Red Bull offered $80M/yr through 2029 (no performance clause); no formal response from Verstappen camp per TheJudge13 July 28; manager says wants to fulfill contract; October deadline; McLaren Brown insists Norris/Piastri secure; ASTON MARTIN B-SPEC — 16-part upgrade at Hungary; Alonso Q2 first time all season (+2.036% gain); "adrenaline was missed"; Newey: more steps at Zandvoort/Monza/Baku; Honda PU upgrade at Dutch GP; Alonso retirement decision still summer break; DUTCH GP FAREWELL — last F1 race at Zandvoort Aug 21-23; first Sprint at Zandvoort; sold-out; VAT increase economics; SAINZ $30M OFFER — Williams offered ~$30M/yr; Bortoleto confirmed Audi sorted (door closed); Sainz keeping options open; F1 CALENDAR THREAT — Qatar + Abu Dhabi at risk; Portimão primary contingency; Imola confirmed; LV ruled out as finale; decision before Dutch GP
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ## Pipeline Run Log
 
