@@ -1,0 +1,337 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-29",
+  "compiled_at": "2026-07-29T12:50:27.640501+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1",
+      "type": "X + FB"
+    },
+    {
+      "time": "9:00 AM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "Story 2",
+      "type": "X + FB"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 2",
+      "type": "X"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 3",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4",
+      "type": "X + FB"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 5",
+      "type": "X + FB"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 5",
+      "type": "X"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Southeast Armed Services YMCA Back to School Bash — August 1",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Free backpacks this Saturday — SE Armed Services YMCA 🎒\n\nAug 1 | 2190 Jet Wing Dr | Free\n• Military/vet: 1–3:30 p.m.\n• All SE COS families: 3:30–5 p.m.\nPreK–12, child must be present\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 243
+        },
+        {
+          "label": "Post 1-2",
+          "text": "This Saturday at the SE Armed Services YMCA — free Back to School Bash with backpacks, pool access, games, food, and giveaways.\n\nAug 1 | 2190 Jet Wing Dr | Free | PreK–12 students enrolled in a COS school\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-ymca-se-back-to-school-bash-august-1.html",
+        "headline": "Free Back to School Bash at SE Colorado Springs YMCA This Saturday — Backpacks, Pool Time, and More",
+        "word_count": 493
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Southeast Armed Services YMCA Back to School Bash\n\n#### X Image (1200x675)\n**Prompt:** Warm, sunny outdoor scene at a community center or park. Colorful backpacks hanging on a fence or laid out on a table in bright late-morning light. Bright greens and blues, summery feel. No people in foreground. Clean bottom third of frame empty for text overlay. Photorealistic style with warm Colorado morning light.\n\n#### Facebook Image (1200x630)\n**Prompt:** Wide outdoor summer community event scene — folding tables with backpacks, sunny sky, cheerful community atmosphere. Inviting, festive, no crowd visible (clean staging area feel). Warm yellow and teal color palette. Clean bottom third for text overlay. No logos, no text, no brand elements.\n\n#### Article Hero (1200x630)\n**Prompt:** [same as Facebook image]\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Southeast Armed Services YMCA Back to School Bash\n**Event:** Back to School Bash at Southeast Armed Services YMCA\n**Date:** Saturday, August 1, 2026\n**Location:** 2190 Jet Wing Dr, Colorado Springs, CO 80916 [HIGH]\n**Time:** 1–3:30 p.m. MT (military/veteran families); 3:30–5 p.m. MT (open to all SE COS families) [HIGH]\n**Cost:** Free [HIGH]\n**What's included:** Pool time, games, food, giveaways, free backpacks [MEDIUM — from PPYMCA site]\n**Who qualifies for backpack:** PreK–12 students enrolled in a local school; child must be present [HIGH]\n**Source:** ppymca.org/location/southeast-armed-services-ymca/\n**Confidence:** MEDIUM-HIGH overall. Times and location confirmed. \"Backpacks\" specifically confirmed but full supply list is MEDIUM.\n**Distinction from July 28 coverage:** Backpack Bash Central (cosbackpackbash.com) was covered July 28 — that event is Saturday Aug 1 at 9 a.m.–noon at a different venue. The Armed Services YMCA event is the SAME date but different location, different time, different operator. Do not conflate.\n**Verification:** PPYMCA.org confirms the Southeast Armed Services YMCA at 2190 Jet Wing Dr hosts this event. Military/veteran window first, then community-open window.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Colorado Springs Comic Con 2026 — August 21–23",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "COS families: mark August 21–23 on the calendar 📅\n\nColorado Springs Comic Con is back at Broadmoor World Arena.\nFriday opens 3 p.m., full days Sat + Sun.\n\nTickets at AXS.com or Pikes Peak Center box office.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 267
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Three weeks to plan your costumes, COS. 👾\n\nColorado Springs Comic Con — Aug 21–23 at Broadmoor World Arena.\n\nTickets at AXS.com | Check cscomiccon.com for the schedule and lineup.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-cos-comic-con-2026-broadmoor-world-arena.html",
+        "headline": "Colorado Springs Comic Con Returns August 21–23 at Broadmoor World Arena",
+        "word_count": 496
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Colorado Springs Comic Con 2026\n\n#### X Image (1200x675)\n**Prompt:** Vibrant illustrated art style: a family in fun colorful fantasy costumes walking through what looks like a large convention hall. Warm excited expressions, glowing neon accent lights in background, dynamic composition. Bottom quarter of image left clean and slightly darker for text. No specific characters that are copyrighted. Original fantasy/sci-fi inspired looks only.\n\n#### Facebook Image (1200x630)\n**Prompt:** Illustrated style: colorful convention floor scene with costumed characters (original, non-copyrighted designs), colorful booths, hanging banners (no text), dramatic lighting overhead. Festive and family-friendly. Bright jewel tones — purple, teal, gold. Bottom third clean for text overlay.\n\n#### Article Hero (1200x630)\n**Prompt:** [same as Facebook image]\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Colorado Springs Comic Con 2026\n**Event:** Colorado Springs Comic Con 2026\n**Dates:** August 21 (opens 3:00 p.m. Friday) through August 23, 2026 [HIGH]\n**Venue:** Broadmoor World Arena, Colorado Springs [HIGH]\n**Tickets:** AXS.com and Pikes Peak Center box office [HIGH]\n**Pass types:** 3-day passes and single-day passes available [HIGH]\n**Face-value pricing:** Not confirmed — check cscomiccon.com/ticket-pricing-information. Resale sites (Vivid Seats, TicketSmarter) show $199–$219 but those are NOT face value. [HIGH — do not publish resale prices as face value]\n**Programming:** Cosplay, panels, vendor floor, family-friendly events [MEDIUM — standard Comic Con format]\n**Ages:** General admission all ages; specific family programming details not confirmed [MEDIUM]\n**Sources:** broadmoorworldarena.com/events/detail/comiccon26, axs.com, cscomiccon.com\n**Confidence:** HIGH on dates/venue/ticket channels; MEDIUM on pricing/programming specifics",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Aedyn's Backpack Club — Free Backpacks for COS Kids Each August",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Aedyn's Backpack Club gives free backpacks to COS kids every August. 🎒\n\nPreK–12. Free. First-come, first-served. Child must be present.\n\n2026 date: aedynsbackpackclub.org | 719-271-5514\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-aedyns-backpack-club-cos.html",
+        "headline": "Aedyn's Backpack Club Gives Free Backpacks to Colorado Springs Kids Each August",
+        "word_count": 448
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Aedyn's Backpack Club\n\n#### X Image (1200x675)\n**Prompt:** Warm, golden-hour outdoor scene. A cluster of colorful backpacks (red, blue, green, purple) lined up on a table or bench in a community park. Soft, inviting, back-to-school feeling. No faces, no people visible. Bottom third of image open and slightly lighter for text overlay. Photorealistic.\n\n#### Facebook Image (1200x630)\n**Prompt:** Wide shot of a row of colorful backpacks filled with school supplies — pencils, notebooks, rulers visible. Warm natural light from the right. Clean grass or community center background. Bright but not oversaturated. Bottom third clean. No text, no branding.\n\n#### Article Hero (1200x630)\n**Prompt:** [same as Facebook image]\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Aedyn's Backpack Club\n**Organization:** Aedyn's Backpack Club\n**Mission:** Distribute free backpacks and school supplies to PreK–12 COS students annually in August [HIGH]\n**Cost:** Free [HIGH]\n**Requirements:** Child must be present; first-come, first-served [MEDIUM — consistent with similar events]\n**Contact:** 719-271-5514 [MEDIUM]; aedynsbackpackclub@gmail.com [MEDIUM]; aedynsbackpackclub.org [HIGH]\n**Location area:** Near N Academy Blvd corridor in COS [MEDIUM — not confirmed for 2026]\n**2026 date:** NOT CONFIRMED via search. 2024 event was approximately August 10. Do not publish a specific 2026 date without direct confirmation from org.\n**Sources:** fox21news.com, aedynsbackpackclub.org\n**Confidence:** HIGH on org mission/contact; LOW on 2026 date and exact location\n**Content approach:** Write as evergreen org awareness. Direct families to aedynsbackpackclub.org or phone number for 2026 scheduling. Do not fabricate a 2026 date.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Packz 4 Kidz COS — Free Backpacks + Supplies via Kenzi's Causes",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Packz 4 Kidz: 400 COS kids equipped for back-to-school. 🎒\n\nFree backpacks + supplies for ECE–12th grade. Low-income families. Child must be present.\n\n2026 COS date: kenziscauses.org\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-packz-4-kidz-cos-kenzis-causes.html",
+        "headline": "Packz 4 Kidz: Free Backpacks for 400 Colorado Springs Kids via Kenzi's Causes",
+        "word_count": 450
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Packz 4 Kidz COS\n\n#### X Image (1200x675)\n**Prompt:** Bright, cheerful scene of a collection of backpacks — different colors and sizes — representing kids from early childhood through high school. ECE-sized small bags next to large teen-style bags. Community event feel, outdoor natural light. No faces, no text. Bottom third open for text.\n\n#### Facebook Image (1200x630)\n**Prompt:** Colorful arrangement of backpacks of different sizes symbolizing different ages, laid out on a community table or bench. Warm, inviting, sunny COS-style background (dry grass, blue sky visible). Bottom third clean. No branding, no text in scene.\n\n#### Article Hero (1200x630)\n**Prompt:** [same as Facebook image]\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Packz 4 Kidz COS (Kenzi's Causes)\n**Organization:** Packz 4 Kidz — run by Kenzi's Causes\n**Mission:** Free backpacks + school supplies for low-income COS students ECE through 12th grade [HIGH]\n**Goal:** 400 COS kids per distribution [MEDIUM — from org site]\n**Requirements:** Child must be present to select backpack; birth certificate accepted for very young children [MEDIUM]\n**Income requirement:** Low-income families [MEDIUM]\n**Website:** kenziscauses.org/packz-4-kidz-colorado-springs/ [HIGH]\n**2026 COS event date:** NOT CONFIRMED via search. No specific 2026 date or location found.\n**Sources:** kenziscauses.org\n**Confidence:** HIGH on org details; LOW on 2026 event specifics\n**Content approach:** Write as org awareness story. Direct families to website for 2026 COS date and location details.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "D20 Bus Assignments Live August 1 via Extended Parent Portal",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5-1",
+          "text": "D20 families: bus assignments live August 1 🚌\n\nasd20.org → Extended Parent Portal → Bus Routing → your student's name\n\nYou'll see bus number, stop, pickup + drop-off times.\n\nD20 first day: Aug 17.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 257
+        },
+        {
+          "label": "Post 5-2",
+          "text": "Reminder for D20 families — bus assignment info is live August 1 on the Extended Parent Portal.\n\nLog in at asd20.org, go to Bus Routing, and find your student's stop and times.\n\nD20 starts August 17.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-d20-bus-assignments-august-1-parent-portal.html",
+        "headline": "D20 Bus Assignments Go Live August 1 — Here's How to Find Yours",
+        "word_count": 420
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D20 Bus Assignments Live August 1\n\n#### X Image (1200x675)\n**Prompt:** Photorealistic illustration of a yellow school bus on a Colorado residential street, early morning light, blue sky with light clouds, tree-lined neighborhood. Warm and optimistic morning feel. No text on bus. Bottom third of image slightly darker/open for text overlay.\n\n#### Facebook Image (1200x630)\n**Prompt:** Wide shot of a yellow school bus parked at the curb of a residential Colorado neighborhood street in morning light. Warm golden sunrise light on the bus. Trees with late-summer green leaves. No text anywhere in scene. Clean composition with bus centered, bottom third open.\n\n#### Article Hero (1200x630)\n**Prompt:** [same as Facebook image]"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D20 Bus Assignments Live August 1\n**District:** Academy School District 20 (D20)\n**Bus assignment release date:** August 1, 2026 [HIGH]\n**Portal:** Extended Parent Portal at asd20.org [HIGH]\n**How to access:** Log in → click \"Bus Routing\" → select student name → click \"Bus Routing\" tab [HIGH]\n**Information provided:** Bus number, stop location, pickup time, drop-off time [HIGH]\n**Transportation Space Available requests:** Opened July 20, 2026 via same portal [HIGH]\n**D20 first day:** August 17 (orientation) / August 18 (first full day) — confirmed from July 28 coverage [HIGH]\n**Source:** asd20.org/buses-and-transportation/\n**Confidence:** HIGH throughout. Directly from ASD20 official site.\n**Action items for families:**\n1. Log into Extended Parent Portal at asd20.org\n2. Navigate to Bus Routing\n3. Select student\n4. View bus number, stop, and times\n5. Submit Transportation Space Available requests via same portal if needed",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
