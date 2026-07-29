@@ -5701,3 +5701,59 @@ _This file tracks every story covered, the angle used, content produced, and fol
 - **Follow-Up Opportunities:**
   - PGF Week 2 champions (by August 2)
   - September 1 recruiting window coverage
+
+---
+
+## Run: 2026-07-29
+
+### Story 1: USA Softball International Cup — 7-Nation Tournament Starts July 30
+- **Date:** 2026-07-29
+- **Tier:** 1
+- **Classification:** NEW
+- **Angle:** USA Women's National Team opens the 2026 International Cup tomorrow (July 30) at Devon Park. 7 nations: USA, Japan, Canada, China, Australia, American Samoa, Chinese Taipei. First game: USA vs. Australia 7 PM CT. Also: USA Women's Elite Team vs. Chinese Taipei 4 PM CT. 5-day tournament through August 3. Tied to 2027 Women's World Cup qualification pathway.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Day-by-day USA results (July 30 – August 3)
+  - USA vs. Japan matchup (if it occurs)
+  - Tournament champion announcement (August 3)
+
+### Story 2: Central American & Caribbean Games — Puerto Rico Dominates
+- **Date:** 2026-07-29
+- **Tier:** 2
+- **Classification:** NEW
+- **Angle:** Women's softball at 2026 CAC Games live in Santo Domingo, Dominican Republic (July 26-31). Through Day 2: Puerto Rico 2-0 (15-0 run rule + 16-1 run rule in 3 innings). Mexico and USVI also unbeaten. 8 teams at Juan Pablo Duarte Olympic Centre. Medal games July 31. Source: WBSC official.
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - CAC Games medal results (July 31)
+  - Puerto Rico gold medal story if they win
+
+### Story 3: Texas Longhorns 2027 Softball — Torres + FSU Fallout
+- **Date:** 2026-07-29
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Torres-to-Texas covered July 28 as NEW; today = broader Texas 2027 + FSU fallout angle)
+- **Angle:** Texas adds Torres (.530 BA, D1Softball NPOY, Georgetown TX native) + Samantha Swan (ASU, C) + Samantha Lincoln (Texas Tech, P). Coach Mike White. FSU loses Torres + Beachum to portal = 28% runs / 35% HRs / 29% hits from 2026 gone. Also lost Gooden + DeLong. Lonni Alameda faces rebuild after home regional loss to Stetson + UCF. September 1 portal window in 33 days.
+- **Content Produced:** Article (article-03, Jordan Reeves), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - September 1 portal window — Texas additional adds?
+  - FSU rebuild coverage (fall roster moves)
+  - Texas 2027 preseason ranking
+
+### Story 4: PGF Nationals Week 2 — Bracket Play
+- **Date:** 2026-07-29
+- **Tier:** 3
+- **Classification:** FOLLOW UP (tracked since July 14)
+- **Angle:** 14U/12U/10U in bracket play July 26 – August 2. Opening ceremonies held July 27 at HB Central Park. Championship games August 2 at Deanna Manning Stadium, Bill Barber Park, Irvine. Live on PGF.TV. September 1 = 33 days away.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - PGF Week 2 champions (August 2)
+  - September 1 recruiting window update
+
+### Story 5: Little League Softball World Series Preview — Greenville NC August 2-9
+- **Date:** 2026-07-29
+- **Tier:** 3
+- **Classification:** NEW
+- **Angle:** 2026 LLSWS heads to Greenville, NC, August 2-9. Regional qualifiers are set. 8 U.S. regions + international. Coverage on ESPN. Youth pipeline showcase — next generation of college softball stars.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - LLSWS Day 1 coverage (August 2)
+  - LLSWS champion announcement (August 9)
