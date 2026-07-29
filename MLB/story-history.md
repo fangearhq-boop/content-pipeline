@@ -5283,3 +5283,65 @@ Each day's stories are appended at the top (newest first).
   - White Sox trade deadline acquisitions
   - AL Central standings daily tracking
   - Quero development story
+
+---
+
+## Run: 2026-07-29
+
+### Story 1: Trade Deadline — Skubal Likely Out, Miller Likely Staying
+- **Date:** 2026-07-29
+- **Tier:** 1
+- **Classification:** FOLLOW UP (deadline tracked since July 13)
+- **Angle:** Major reversals 5 days from August 3 deadline. Skubal trade now "likely" (SI) — Tigers asking young MLB-ready SP + multiple prospects; Dodgers/Brewers/Rays leading, Yankees/Braves interested. Mason Miller reversal: Padres now "likely to keep" per Nightengale (0.89 ERA, 25/25, control through 2029). CJ Abrams NOT shopped — Nationals 53-52 in NL Wild Card race, on pace 42HR/127RBI/26SB. Angels fire sale: Neto (leads AL 69 runs, 3yr control) + Soriano (3.43 ERA) + Detmers (4.16 ERA) all in play. Confirmed trade: Red Sox acquire Curtis Mead from Nationals for Connelly Early.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Skubal trade confirmation (expected within 48 hours)
+  - Angels fire sale — who moves?
+  - August 3 deadline day summary
+
+### Story 2: Dylan Cease Back-to-Back Near No-Hitters
+- **Date:** 2026-07-29
+- **Tier:** 1
+- **Classification:** NEW
+- **Angle:** July 8 vs. Giants: no-hitter through 8 innings, 11 K. July 25 vs. Red Sox: no-hitter through 6, finished CG 1-hitter, Blue Jays won 6-0. Back-to-back near-no-hitters in same month. Firmly in AL Cy Young conversation. Sources: mlb.com Blue Jays, ESPN recap.
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Cease next start (watch for another dominant outing)
+  - AL Cy Young race update
+  - Blue Jays playoff position
+
+### Story 3: Ohtani Right Biceps + Knee — Still No Timeline
+- **Date:** 2026-07-29
+- **Tier:** 2
+- **Classification:** FOLLOW UP (tracked since July 23)
+- **Angle:** New complication: right biceps also irritated in addition to left knee regression. Roberts: "won't move forward until 100%." Will miss next scheduled pitching appearance. Last pitched July 3 (8-2, 1.79 ERA, 95K, 85.2 IP). Still DHing .288/.397/.536. No timetable. Deadline week without the ace.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Any Ohtani pitching timeline update
+  - Dodgers deadline moves given Ohtani absence
+  - Ohtani return announcement (when it comes)
+
+### Story 4: Kyle Schwarber — MLB HR Leader, 60 HR Club Discussion
+- **Date:** 2026-07-29
+- **Tier:** 2
+- **Classification:** NEW
+- **Angle:** MLB HR leader (~33 HR through July 28). Hit 56 HR in 2025 (MLB leader). Named NL Player of the Month. ESPN feature: can he approach 60 HR? Age 35. Left-handed power hitter. 60 HR club: Maris (61), McGwire (70/65), Sosa (66/63/64), Bonds (73), Judge (62). Phillies. Sources: Yahoo Sports, NBC Sports, ESPN, StatMuse.
+- **Content Produced:** Article (article-04, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Schwarber 40 HR milestone
+  - HR chase tracking through August
+  - End-of-season HR total story
+
+### Story 5: Chris Sale Doubleheader Start Tonight + Braves Deadline Urgency
+- **Date:** 2026-07-29
+- **Tier:** 3
+- **Classification:** NEW
+- **Angle:** Sale's July 28 start (Mets) rained out; rescheduled July 29 doubleheader nightcap vs. Mets/Christian Scott. Sale age 37, ERA ~2.10-2.19, 10-6 record, 192 ERA+ (second only to his 2018 season). Last start July 23 vs. Padres: 6 IP, 11 K, Braves won 6-5. AJC: Sale's "magnificence makes it incumbent" on Braves to be aggressive deadline buyers. Sources: mlb.com, SI, AJC, Fubo TV.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Sale July 29 start result
+  - Braves deadline acquisitions (or inaction)
+  - Sale next start
+
+### Research Flag (July 29)
+- **Tigers No-Hitter (July 28 Story 4):** Research on July 29 indicates this may be the July 8, 2023 game (Manning/Foley/Lange) being surfaced as new content — search paths consistently resolve to 2023. No 2026 Tigers no-hitter confirmed in July 29 research. Flagged as potential pipeline error. Do NOT follow up without independent confirmation of a 2026 event.

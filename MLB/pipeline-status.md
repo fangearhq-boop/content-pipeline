@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-07-29
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via research agent, 5 stories verified HIGH confidence), brief (5 stories), research notes, story analysis, X posts (8; 0 char violations — all ≤280), FB posts (5 stories), image concepts (7 items), image manifest (7 items, not_started), articles (5), fact-check (35 claims HIGH), compile (5 stories, 8 tweets, 0 FB compiled — format; 5 articles, 23 items), dashboard (23 items), PostPlanner exports (0 posts compiled — format known). WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard publish push failed (proxy known restriction). IMAGE MISSING expected (not_started). claim-patterns.py missing (known). FB posts: 0 compiled (format known). PostPlanner: 0 compiled (format known). RESEARCH FLAG: Tigers no-hitter (July 28 Story 4) suspected to be July 8 2023 event (Manning/Foley/Lange) — research cannot confirm 2026 Tigers no-hitter. Flagged in story-history. Do not follow up without independent verification.
+- **Key Stories**: Trade Deadline 5 days/Skubal trade now "likely" (SI)/Miller reversal "likely staying" (Nightengale)/Angels Neto+Soriano+Detmers in play/Abrams not shopped (Nationals 53-52 Wild Card)/Red Sox-Nationals Mead deal done (Tier 1 FOLLOW UP), Dylan Cease back-to-back near no-hitters in July/July 8 no-no thru 8 inn 11K/July 25 CG 1-hitter 6-0/AL Cy Young case (Tier 1 NEW), Ohtani right biceps now also irritated/knee regression + biceps/won't pitch next scheduled start/last pitched July 3/no timeline (Tier 2 FOLLOW UP), Schwarber MLB HR leader ~33HR/hit 56 in 2025/NL POtM/ESPN asking about 60 HR club/age 35 (Tier 2 NEW), Chris Sale doubleheader start tonight vs Mets/July 28 rained out/~2.10 ERA age 37/192 ERA+/Braves must be buyers (Tier 3 NEW)
+
+## Last Run
 - **Date**: 2026-07-28
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via research agent, 5 stories verified HIGH/MEDIUM-HIGH confidence), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations — all ≤280; counts: 259/193/267/252/255/211/217), FB posts (5 stories), image concepts (8 items), image manifest (8 items, not_started), articles (5), fact-check (28 claims HIGH), compile (5 stories, 7 tweets, 0 FB compiled — format; 5 articles, 22 items), dashboard (22 items), PostPlanner exports (0 posts compiled — format known). WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
