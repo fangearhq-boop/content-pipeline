@@ -1,10 +1,21 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
-- **Date**: 2026-07-28
+- **Date**: 2026-07-29
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-29
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway)
+- **PostPlanner exports:** gfr-postplanner-2026-07-29.xlsx (7 posts) + gfr-postplanner-tobi-2026-07-29.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-07-29/review-dashboard.html (22 items)
+- **Notes:** KORDA VS RYU AIG WOMEN'S OPEN — Korda (Chevron + USWO) and Ryu (KPMG + Evian) split all 4 women's 2026 majors; grouped together at 8:42 AM R1 with Lydia Ko (2024 champion); one more win = 3 in one calendar year, matching Inbee Park 2013 record; Korda 15-2 favorite, Ryu 12-1; Royal Lytham par 71, 174 bunkers, $10M record purse; LIV MICHIGAN CANCELED — official announcement July 29; 2nd 2026 cancellation after New Orleans; 2 events remain (Bedminster Aug 6-9 + Indianapolis Aug 20-23); O'Neil could not guarantee those; no team champion in 2026; LIV GOLF FINANCIAL COLLAPSE — £461.8M loss in 2024 alone, $100M/month burn, $8.50 per $1 earned, PIF pulling funding end of 2026 ($5B+ invested), Bloomberg Chapter 11 groundwork, LIV seeking $250-350M investors; ROCKET CLASSIC FINAL EDITION — last Rocket Classic (Rocket Companies exiting after 2026); July 30-Aug 2, Detroit Golf Club, 500 FedExCup pts; 2 regular-season events left; bubble: Koepka 82nd, Finau 83rd, Novak 84th, Horschel 101st; Scheffler FedExCup No. 1; KOIVUN PLAYOFFS FOLLOW-UP — 3M win = 500 pts + $1.584M → top 70 → FedExCup Playoffs berth; 4th 2026 rookie winner; turned pro ~24 days before win; Auburn 3x consecutive SEC POY; Playoffs debut coming Aug 13-16
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-28
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

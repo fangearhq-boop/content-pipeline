@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-07-29
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-29 | T1 | Korda and Ryu Tee Off Together Thursday — One Win Away From Rewriting Women's Golf History | X, FB, Article | NEW |
+| 2026-07-29 | T1 | LIV Golf Cancels Michigan — The $40M Season Finale Is Off, Two Events Remain | X, FB, Article | FOLLOW UP |
+| 2026-07-29 | T1 | LIV Golf Lost £461.8 Million in One Year — And Bloomberg Says Bankruptcy Is Being Planned | X, FB, Article | NEW |
+| 2026-07-29 | T2 | The Final Rocket Classic Starts Thursday — 500 Points and the FedExCup Bubble at Detroit Golf Club | X, FB, Article | NEW |
+| 2026-07-29 | T2 | From Third Start to FedExCup Playoffs — Jackson Koivun's Historic Summer Just Got More Historic | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Korda and Ryu Tee Off Together Thursday — One Win Away From Rewriting Women's Golf History
+- **Tier:** 1
+- **Category:** LPGA / AIG Women's Open / Royal Lytham
+- **Key facts:** Korda (Chevron + US Women's Open) and Ryu (KPMG + Evian) have split all 4 women's majors of 2026; grouped together at 8:42 AM R1 with Lydia Ko (2024 AIG champion); one more major win for either = 3 in one calendar year, matching Inbee Park's 2013 record; Royal Lytham par 71, 6,601 yards, 174 bunkers; $10M record purse, 144 players; Korda 15-2 favorite, Ryu 12-1; Yamashita (defending) + Thitikul at 1:15 PM; Hull/Green/Henderson at 1:26 PM
+- **Status:** NEW
+- **Follow-up ideas:** AIG Women's Open daily round coverage; Korda or Ryu wins record; round results
+
+### STORY 2: LIV Golf Cancels Michigan — The $40M Season Finale Is Off, Two Events Remain
+- **Tier:** 1
+- **Category:** LIV Golf / Michigan / Season
+- **Key facts:** Michigan (Aug 27-30, The Cardinal, Saint John's Resort, Plymouth Township) officially canceled; $40M team championship / season finale; 2nd cancellation after New Orleans; original 14-event schedule now 12; 2 events remain: Bedminster (Aug 6-9, $30M) and Indianapolis (Aug 20-23, $30M); Martin Kaymer gave 5% odds, O'Neil led captains' meeting; O'Neil could not guarantee remaining 2 events; no LIV team champion in 2026
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Bedminster/Indianapolis survival; LIV end-of-season investor news; bankruptcy timeline
+
+### STORY 3: LIV Golf Lost £461.8 Million in One Year — And Bloomberg Says Bankruptcy Is Being Planned
+- **Tier:** 1
+- **Category:** LIV Golf / Business / Bankruptcy
+- **Key facts:** LIV Golf Ltd international entity: £461.8M loss in 2024 alone; monthly burn ~$100M; $8.50 spent per $1 earned; PIF announced April 2026 stopping funding end of season ($5B+ invested since 2022); Bloomberg: Chapter 11 groundwork underway, HQ relocation to US planned; LIV seeking $250-350M from investors (CNBC May 2026); O'Neil told CNBC "take PIF at their word"
+- **Status:** NEW
+- **Follow-up ideas:** Bankruptcy filing announcement; new investor announcement; end-of-season LIV dissolution
+
+### STORY 4: The Final Rocket Classic Starts Thursday — 500 Points and the FedExCup Bubble at Detroit Golf Club
+- **Tier:** 2
+- **Category:** PGA Tour / Rocket Classic / FedExCup
+- **Key facts:** Last Rocket Classic (Rocket Companies exiting after 2026); July 30-Aug 2, Detroit Golf Club, $10M, 500 FedExCup pts; 2 regular-season events left (Wyndham Aug 6-9 is other); top 70 → FedEx St. Jude (Aug 13-16, TPC Southwind); top 50 → BMW (Bellerive, Aug 20-23); top 30 → Tour Championship (East Lake, Aug 27-30); pre-3M bubble: Koepka 82nd, Finau 83rd, Novak 84th, Horschel 101st; Scheffler FedExCup No. 1 with 1 win and 5 runner-ups
+- **Status:** NEW
+- **Follow-up ideas:** Rocket Classic results; bubble watch through Wyndham; FedEx St. Jude field announcement
+
+### STORY 5: From Third Start to FedExCup Playoffs — Jackson Koivun's Historic Summer Just Got More Historic
+- **Tier:** 2
+- **Category:** PGA Tour / Jackson Koivun / Rookie
+- **Key facts:** 3M Open win gave 500 FedExCup pts + $1,584,000; moved Koivun from unranked to inside top 70; earns FedExCup Playoffs berth (St. Jude Aug 13-16); 4th rookie winner of 2026 PGA Tour season; turned pro ~24 days before winning; Auburn credentials: 3x consecutive SEC POY (first in 60 yrs), 11 career wins, 2x Ben Hogan/Nicklaus/Haskins Award, June 2026 NCAA champion; could enter Rocket Classic and Wyndham before Playoffs
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Koivun Playoffs performance; FedEx St. Jude result; rookie of the year trajectory
+
 ## 2026-07-28
 
 | Date | Tier | Story | Platforms | Status |
