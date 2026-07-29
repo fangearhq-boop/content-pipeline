@@ -1,0 +1,263 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-29",
+  "compiled_at": "2026-07-29T11:22:57.327348+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "76ers Roster Building Around the Big 4 — KCP Signs, Broome Out",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The 76ers aren't just sitting on the Big 4. KCP — 2 championships, LeBron teammate in LA — signs a 1yr/$3.9M deal in Philly. Marcus Broome shipped to the Clippers for cash. Philadelphia is building WITH intent. #HoopHeroes #76ers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#76ers"
+          ],
+          "char_count": 229
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Maxey. Edgecombe. Brown. LeBron. Embiid. Now KCP. The 76ers bench is getting built the same way the Big 4 was assembled: with purpose. Training camp is 8 weeks away. #HoopHeroes #76ers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#76ers"
+          ],
+          "char_count": 184
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-76ers-kcp-signing-roster-building.html",
+        "headline": "The 76ers Aren't Done Building — KCP Signs, Broome Moved in Busy Roster Day",
+        "word_count": 595
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "76ers Roster Building — KCP Signs, Broome Out\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn\n- **Search terms:** \"Kentavious Caldwell-Pope Los Angeles Lakers\"\n- **Composition:** KCP in action, focused expression, shooting or defending\n- **Text overlay:** \"PHILLY ADDS A CHAMPION\" (Bebas Neue, Primary Deep Orange #FF5722) top area\n- **Subtext:** \"KCP joins the Big 4 bench\" (Montserrat)\n- **Logo:** Hoop Heroes logo bottom-right\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search terms:** \"LeBron James Philadelphia 76ers\"\n- **Composition:** LeBron in 76ers gear, wide shot with Philadelphia context\n- **Text overlay:** \"BUILDING A CHAMPION\" headline overlay on dark bar\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Kawhi Leonard Case: The Full Penalty Scope Is Now Known",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The NBA's Kawhi Leonard investigation is still pending — but the penalty menu is out. Worst-case under the CBA: contract voided, 40-game ban, $7.5M fine + draft picks. The Clippers are bracing for something significant. Toronto still can't plan. #HoopHeroes #Raptors",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Raptors"
+          ],
+          "char_count": 266
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The Kawhi Leonard investigation involves a convicted fraudster (14-year federal sentence) at its center. The Clippers say they were victims. The NBA doesn't care — a ruling is coming, and it may come hard. #HoopHeroes #Clippers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Clippers"
+          ],
+          "char_count": 227
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-kawhi-leonard-investigation-penalty-scope.html",
+        "headline": "The Kawhi Leonard Investigation: What 'Significant Punishment' Actually Means",
+        "word_count": 575
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Kawhi Leonard Investigation — Penalty Scope\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn\n- **Search terms:** \"Kawhi Leonard Los Angeles Clippers\"\n- **Composition:** Kawhi looking serious, close portrait angle\n- **Text overlay:** \"CONTRACT. SUSPENSION. FINE.\" (Bebas Neue, Primary Deep Orange) stacked left\n- **Subtext:** \"The Kawhi investigation's full penalty menu\" (Montserrat)\n- **Logo:** bottom-right\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search terms:** \"Kawhi Leonard Toronto Raptors\"\n- **Composition:** Kawhi in action during game\n- **Text overlay:** \"WHAT HAPPENS NEXT\" headline overlay\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "DeMar DeRozan's Bulls Return Appears Imminent — But Terms Are Still Murky",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Multiple major outlets have DeMar DeRozan returning to Chicago. Yahoo Sports. Bleacher Report. NBC Sports. The deal isn't official yet — but a 6x All-Star is going back to where his renaissance started. #HoopHeroes #Bulls",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Bulls"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-derozan-bulls-deal-imminent.html",
+        "headline": "DeMar DeRozan's Chicago Bulls Return Appears Close — The Dollar Figure Is Still Contested",
+        "word_count": 562
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "DeRozan Bulls Return\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn\n- **Search terms:** \"DeMar DeRozan Chicago Bulls\"\n- **Composition:** DeRozan in Bulls red, aggressive attack expression\n- **Text overlay:** \"COMING HOME?\" (Bebas Neue, Accent Gold #FFC107)\n- **Subtext:** \"DeRozan deal with Chicago appears imminent\" (Montserrat)\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search terms:** \"DeMar DeRozan Sacramento Kings\"\n- **Composition:** DeRozan mid-game, midrange jumper\n- **Text overlay:** \"DEROZAN'S RETURN\" headline bar\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Ja Morant Is Settling Into Portland — And He Looks Like Himself Again",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Ja Morant did a facility tour in Portland July 24. Showed up for the city's new WNBA team. Said \"Feels like home.\" After everything that happened in Memphis, the fresh start looks real. #HoopHeroes #TrailBlazers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#TrailBlazers"
+          ],
+          "char_count": 211
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-ja-morant-portland-fresh-start.html",
+        "headline": "Ja Morant's Fresh Start in Portland: Facility Tours, WNBA Support, and a Different Kind of Energy",
+        "word_count": 584
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ja Morant in Portland\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn\n- **Search terms:** \"Ja Morant Portland Trail Blazers\"\n- **Composition:** Morant smiling, relaxed, non-game photo if available\n- **Text overlay:** \"FEELS LIKE HOME\" (Bebas Neue, Primary Deep Orange) large text\n- **Subtext:** \"Morant's fresh start is officially underway\" (Montserrat)\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search terms:** \"Ja Morant Memphis Grizzlies\"\n- **Composition:** Morant driving, explosive athletic move\n- **Text overlay:** \"JA'S NEW CHAPTER\" headline overlay\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "The 2026-27 NBA Season Has a Start Date — Here's What's Coming",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5-1",
+          "text": "The 2026-27 NBA schedule drops Aug 13-14. Season opens Oct 20. LeBron in Philly. Giannis in Miami. Six new head coaches. The most anticipated NBA season in years is almost here. #HoopHeroes",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes"
+          ],
+          "char_count": 189
+        },
+        {
+          "label": "Post 5-2",
+          "text": "Oct 20. Mark it. The NBA comes back with LeBron + Embiid in the East, Giannis + Bam in Miami, Cooper Flagg in Dallas, and six coaches in brand-new situations. 2026-27 is going to be something special. #HoopHeroes",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes"
+          ],
+          "char_count": 212
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-nba-2026-27-season-preview-schedule.html",
+        "headline": "The 2026-27 NBA Season Is Almost Here — Schedule Drops Aug 13-14, Opening Night Oct 20",
+        "word_count": 608
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "2026-27 NBA Season Preview\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn\n- **Search terms:** \"Joel Embiid Philadelphia 76ers\"\n- **Composition:** Embiid celebrating, arena context\n- **Text overlay:** \"THE SEASON STARTS OCT 20\" (Bebas Neue, Primary Deep Orange) top\n- **Subtext:** \"Schedule drops Aug 13-14\" (Montserrat)\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search terms:** \"Giannis Antetokounmpo Miami Heat\"\n- **Composition:** Giannis in Heat uniform, excited expression or game action\n- **Text overlay:** \"2026-27: THE SEASON TO WATCH\" headline overlay"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

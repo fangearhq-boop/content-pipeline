@@ -1,10 +1,21 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Last Run
-- **Date**: 2026-07-28
+- **Date**: 2026-07-29
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-29
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 8 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce, Jake Torres)
+- **PostPlanner exports:** hh-postplanner-2026-07-29.xlsx (8 posts) + hh-postplanner-tobi-2026-07-29.xlsx (8 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-07-29/review-dashboard.html (23 items)
+- **Notes:** 76ERS ROSTER BUILD — KCP signed 1yr/$3.9M (2x champ, LeBron ex-teammate); Marcus Broome+2nd to Clippers for cash; schedule drops Aug 13-14; opening night Oct 20; KAWHI PENALTY SCOPE — worst-case: contract void, 40-game ban, $7.5M fine+draft picks; Clippers bracing for significant punishment; Sandberg 14yr conviction; trade still frozen; DEROZAN BULLS — deal appears imminent (Yahoo/BR/NBC), $80M/2yr per Yahoo/BR but conflicting lower unverified figure; no Shams/Woj confirmation; MORANT PORTLAND — media session July 11; facility tour July 24; Portland Fire WNBA support; looks genuine; NBA 2026-27 SEASON — schedule Aug 13-14; opening night Oct 20; LeBron/Philly, Giannis/Miami, 6 new coaches
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-28
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

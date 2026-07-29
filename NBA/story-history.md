@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-07-29
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-29 | T1 | 76ers Roster Building — KCP Signs, Broome Out in Busy Roster Day | X, FB, Article | FOLLOW UP |
+| 2026-07-29 | T1 | Kawhi Leonard Investigation: What 'Significant Punishment' Actually Means | X, FB, Article | FOLLOW UP |
+| 2026-07-29 | T2 | DeMar DeRozan's Bulls Return Appears Imminent — Terms Still Murky | X, FB, Article | FOLLOW UP |
+| 2026-07-29 | T2 | Ja Morant's Fresh Start in Portland: Facility Tour, WNBA Support, New Chapter | X, FB, Article | FOLLOW UP |
+| 2026-07-29 | T2 | NBA 2026-27 Season: Schedule Drops Aug 13-14, Opening Night Oct 20 | X, FB, Article | NEW |
+
+### STORY 1: 76ers Roster Building — KCP Signs, Broome Out
+- **Tier:** 1
+- **Category:** NBA Free Agency / Philadelphia 76ers
+- **Key facts:** KCP signed 1yr/$3.9M after Grizzlies buyout; 2x champion (Lakers 2020, Nuggets 2023); avg 8.4/2.7/2.5 before pinkie injury; Marcus Broome + 2nd-round pick to Clippers for cash; schedule drops Aug 13-14; opening night Oct 20, 2026
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Training camp roster completion; schedule highlights; opening night matchup
+
+### STORY 2: Kawhi Leonard Investigation — Penalty Scope
+- **Tier:** 1
+- **Category:** NBA Investigation / Kawhi Leonard / Toronto Raptors
+- **Key facts:** Worst-case CBA penalties: contract voiding, 40-game suspension, $7.5M fine + draft picks; Clippers bracing for significant punishment; Sandberg convicted wire fraud 14yr federal; Clippers claim victims of fraud; Toronto trade still frozen; ruling imminent
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official ruling; arbitration; Raptors trade resolution
+
+### STORY 3: DeMar DeRozan Bulls Return
+- **Tier:** 2
+- **Category:** NBA Free Agency / DeMar DeRozan / Chicago Bulls
+- **Key facts:** Multiple outlets (Yahoo, BR, NBC) point toward deal; $80M/2yr per Yahoo/BR ($40M/yr) but conflicting lower figure unverified on social; no Shams/Woj confirmation; deal not yet official; 6x All-Star waived by Kings July 6
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official deal confirmation; Bulls direction under Splitter; roster implications
+
+### STORY 4: Ja Morant Portland Fresh Start
+- **Tier:** 2
+- **Category:** NBA / Portland Trail Blazers / Ja Morant
+- **Key facts:** Media session July 11 Summer League (lifestyle changes: fishing/kayaking/biking); facility tour video July 24 ("Feels like home"); Portland Fire WNBA support; alongside Lillard+Avdija under HC Nori
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Training camp performance; preseason debut; Nori system integration
+
+### STORY 5: NBA 2026-27 Season Preview
+- **Tier:** 2
+- **Category:** NBA Season Preview
+- **Key facts:** Schedule release Aug 13-14; regular season opens Oct 20; LeBron/76ers, Giannis/Heat, 6 new coaches; Wemby $252M/5yr locked; Morant/Portland; Cooper Flagg/Dusty May in Dallas
+- **Status:** NEW
+- **Follow-up ideas:** Schedule release specific matchups; training camp; opening week coverage
+
 ## 2026-07-28
 
 | Date | Tier | Story | Platforms | Status |
