@@ -2,6 +2,50 @@
 
 ---
 
+## July 29, 2026
+
+### Story 1: Southeast Armed Services YMCA Back to School Bash — August 1
+- **Date:** 2026-07-29
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Southeast Armed Services YMCA (2190 Jet Wing Dr, COS) Back to School Bash on Saturday, Aug. 1. Two time windows: military/veteran families 1–3:30 p.m. MT; all SE COS families 3:30–5 p.m. MT. Free backpacks for PreK–12 students enrolled in local COS schools. Child must be present. Pool time, games, food, giveaways. Distinct from Backpack Bash Central (July 28 coverage) — different organization, different location, different day.
+- **Content Produced:** Article (Sarah Morales), 2 X posts, Facebook Long-Form, Facebook Image Caption, Image Concept (x_image + facebook_image + article_hero)
+- **Tier:** 1
+- **Key Facts:** Aug. 1, 1–3:30 p.m. (mil/vet), 3:30–5 p.m. (all SE COS families); 2190 Jet Wing Dr; free; PreK–12; child must be present; enrolled in local COS school; Sources: PPYMCA.org
+
+### Story 2: Colorado Springs Comic Con 2026 — August 21–23 at Broadmoor World Arena
+- **Date:** 2026-07-29
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — COS Comic Con returns Aug. 21–23 at Broadmoor World Arena. Friday opens 3 p.m.; full days Sat/Sun. 3-day and single-day passes via AXS.com and Pikes Peak Center box office. Face-value pricing NOT published (resale prices only found: $199–$219); directed to cscomiccon.com/ticket-pricing-information.
+- **Content Produced:** Article (Jamie Rivera), 2 X posts, Facebook Long-Form, Facebook Image Caption, Image Concept (x_image + facebook_image + article_hero)
+- **Tier:** 1
+- **Key Facts:** Aug. 21–23, 2026; Broadmoor World Arena; Friday opens 3 p.m.; AXS.com + Pikes Peak Center box office; 3-day and single-day available; face-value pricing not confirmed; Sources: broadmoorworldarena.com, AXS.com
+
+### Story 3: Aedyn's Backpack Club — Free Backpacks for COS Kids Each August
+- **Date:** 2026-07-29
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (org awareness) — Aedyn's Backpack Club distributes free backpacks with school supplies to PreK–12 COS students each August. Free, first-come/first-served, child must be present. 2026 date NOT CONFIRMED; directed families to aedynsbackpackclub.org and 719-271-5514.
+- **Content Produced:** Article (Sarah Morales), 1 X post, Facebook Long-Form, Facebook Image Caption, Image Concept (x_image + facebook_image + article_hero)
+- **Tier:** 2
+- **Key Facts:** PreK–12; free; child must be present; first-come/first-served; 719-271-5514; aedynsbackpackclub@gmail.com; aedynsbackpackclub.org; 2026 date unconfirmed; Sources: fox21news.com, aedynsbackpackclub.org
+
+### Story 4: Packz 4 Kidz COS — Kenzi's Causes Equips 400 COS Kids for Back-to-School
+- **Date:** 2026-07-29
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (org awareness) — Packz 4 Kidz by Kenzi's Causes provides free backpacks + school supplies to 400 low-income COS students per year, ECE through 12th grade. Child must be present; birth certificate accepted for very young children. 2026 COS date and location NOT CONFIRMED; directed to kenziscauses.org/packz-4-kidz-colorado-springs/.
+- **Content Produced:** Article (Jamie Rivera), 1 X post, Facebook Long-Form, Facebook Image Caption, Image Concept (x_image + facebook_image + article_hero)
+- **Tier:** 2
+- **Key Facts:** ECE–12th grade; low-income; 400 kids goal; free; child must be present; birth certificate accepted for young children; kenziscauses.org; 2026 date unconfirmed; Sources: kenziscauses.org
+
+### Story 5: D20 Bus Assignments Live August 1 — Check the Extended Parent Portal
+- **Date:** 2026-07-29
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — D20 bus assignments for 2026–27 available starting Aug. 1 via Extended Parent Portal at asd20.org. Navigation: Bus Routing → select student name → Bus Routing tab. Shows bus number, stop location, pickup time, drop-off time. Transportation Space Available requests open since July 20 via same portal. D20 first day Aug. 17 (orientation) / Aug. 18 (first full day).
+- **Content Produced:** Article (Sarah Morales), 2 X posts, Facebook Long-Form, Facebook Image Caption, Image Concept (x_image + facebook_image + article_hero)
+- **Tier:** 1
+- **Key Facts:** Assignments live Aug. 1, 2026; asd20.org Extended Parent Portal; Bus Routing → student → Bus Routing tab; bus #, stop, pickup time, drop-off time; Space Available requests open since July 20; D20 first day Aug. 17–18; Sources: asd20.org/buses-and-transportation/
+
+---
+
 ## July 28, 2026
 
 ### Story 1: D49 Back-to-School Dates 2026 — Full District Calendar

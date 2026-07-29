@@ -1,6 +1,38 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: July 28, 2026
+## Latest Run: July 29, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | SE Armed Services YMCA Back to School Bash Aug. 1 (2190 Jet Wing Dr, mil/vet 1–3:30 p.m., all SE COS 3:30–5 p.m., free, PreK–12, child must be present); COS Comic Con Aug. 21–23 Broadmoor World Arena (Friday opens 3 p.m., AXS.com + Pikes Peak Center box office, 3-day + single-day; face value not published — resale only); Aedyn's Backpack Club (PreK–12, free, 719-271-5514, aedynsbackpackclub.org; 2026 date not confirmed); Packz 4 Kidz by Kenzi's Causes (ECE–12th, low-income, 400 kids goal, kenziscauses.org; 2026 COS date not confirmed); D20 bus assignments live Aug. 1 via Extended Parent Portal at asd20.org (Bus Routing → student → Bus Routing tab; Space Available requests open since July 20; D20 first day Aug. 17–18) |
+| Story History Check | COMPLETE | All 5 stories new — no overlap with July 28 run (Backpack Bash Central was July 28; SE Armed Services YMCA is a distinct org/location/day) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2); bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; LOW noted for unconfirmed 2026 dates |
+| Story Analysis | COMPLETE | 02-story-analysis.md — ### STORY N: format; angles, headline options, engagement hooks |
+| X Posts | COMPLETE | 03-social-posts-x.md — 8 posts (S1:2, S2:2, S3:1, S4:1, S5:2); all ≤280 chars (5 violations found by verify-facts and fixed); 4 hashtags each; times 8 a.m.–6 p.m. MT |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form posts + 5 Image Captions; engagement questions; NO hashtags; COS voice; 0 exclamation marks |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts; 1200×675 (X) and 1200×630 (FB/hero); clean bottom third; no celebrity likenesses; no brand logos |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 5 stories × 2 image types (x_image + facebook_image); all not_started; gemini base_only; prompt-based (not imagn search terms) |
+| Articles | COMPLETE | 5 articles (500–600 words; semantic HTML5; What's Next sections; 0 exclamation marks; no figure tags; Quick Reference tables); bylines: Sarah Morales (A1, A3, A5), Jamie Rivera (A2, A4) |
+| Fact-Check | COMPLETE | verify-facts.py passed clean; 72 claims; HIGH/MEDIUM/LOW; all stories present in all content files; image not_started warnings cosmetic (expected for gemini source) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 0 FB posts, 5 articles, 23 dashboard items |
+| Dashboard | COMPLETE | review-dashboard.html — 23 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-07-29.xlsx (8 posts 13:20–20:55 MT) + TOBI cosp-postplanner-tobi-2026-07-29.xlsx (8 TOBI posts) |
+| Dashboard Push | Attempted — proxy blocks write to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API (403 Forbidden) | Same environment restriction as all prior runs |
+
+### 2026-07-29 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 5 FB long-form = 13 total posts (PostPlanner xlsx: 8 posts 13:20–20:55 MT, 8 TOBI)
+- **Articles:** 5 (bylines: Sarah Morales [A1, A3, A5], Jamie Rivera [A2, A4])
+- **PostPlanner exports:** cosp-postplanner-2026-07-29.xlsx (8 posts, 13:20–20:55 MT), cosp-postplanner-tobi-2026-07-29.xlsx (8 TOBI posts)
+- **Coverage:** SE Armed Services YMCA Back to School Bash (Aug. 1, 2190 Jet Wing Dr, military/vet 1–3:30 p.m., all SE COS families 3:30–5 p.m., free, PreK–12, child must be present — distinct from Backpack Bash Central covered July 28); COS Comic Con Aug. 21–23 at Broadmoor World Arena (Friday opens 3 p.m., AXS.com + Pikes Peak Center box office, 3-day and single-day passes, face-value price NOT published — resale $199–$219 only found, readers directed to cscomiccon.com/ticket-pricing-information); Aedyn's Backpack Club org awareness (PreK–12 free August event, 2026 date unconfirmed, phone 719-271-5514, aedynsbackpackclub.org); Packz 4 Kidz by Kenzi's Causes (ECE–12th grade, low-income, 400 COS kids goal, free, 2026 COS date unconfirmed, kenziscauses.org); D20 bus assignments live Aug. 1 (Extended Parent Portal at asd20.org, Bus Routing → student name → Bus Routing tab, bus #/stop/pickup time/drop-off time, Space Available requests open since July 20, D20 first day Aug. 17–18)
+- **Fact-check notes:** Story 2 ticket face-value price LOW (not published — resale only); Story 3 2026 date LOW (not published — directed to org); Story 4 2026 date LOW (not published — directed to org); 5 X post char violations fixed before final verify pass
+
+---
+
+## Previous Run: July 28, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|
