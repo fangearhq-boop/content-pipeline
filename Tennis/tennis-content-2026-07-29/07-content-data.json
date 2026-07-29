@@ -1,0 +1,314 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-29",
+  "compiled_at": "2026-07-29T12:33:08.062122+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 (Cruz Hewitt first ATP win)",
+      "type": "X + FB"
+    },
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 (Lleyton legacy / historical)",
+      "type": "X"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2 (Eala def. Zheng)",
+      "type": "X + FB"
+    },
+    {
+      "time": "11:30 AM",
+      "description": "Story 2 (Eala vs. Fernandez preview)",
+      "type": "X"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 3 (DC Open Day 3 preview)",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 (Venus / Fils Day 2 round-up)",
+      "type": "X + FB"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 5 (Shapovalov Los Cabos)",
+      "type": "X + FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Cruz Hewitt Wins First ATP Match in Washington — 22 Years After Lleyton's DC Title",
+      "tier": 1,
+      "status": "",
+      "angle": "NEW STORY — Cruz Hewitt (AUS, 17, World No. 612) defeated Marcos Giron 6-3, 6-4 in 74 minutes in the first round of the Mubadala Citi DC Open on Tuesday July 28. It was Cruz's first ATP Tour match win. He became the youngest player to win a match in Washington since Kei Nishikori in 2007. His father, former world No. 1 Lleyton Hewitt, won the Washington title in 2004 — exactly 22 years before Cruz's breakthrough. Lleyton was courtside for the match. Cruz recently made the Wimbledon junior singles final (lost to Jordan Lee, USA). He is ranked No. 612 in the world. Note: July 28 TFR pipeline incorrectly placed Cruz Hewitt in Los Cabos (Story 4); his ATP debut and first win occurred at the DC Open in Washington.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Cruz Hewitt is an ATP Tour winner. 🎾\n\n17 years old, World No. 612. Defeated Marcos Giron 6-3, 6-4 at the DC Open.\n\nYoungest Washington winner since Nishikori in 2007.\n\nHis dad Lleyton won this title in 2004 — and was watching.\n\n#Tennis #DCOpen #ATPTour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#DCOpen",
+            "#ATPTour"
+          ],
+          "char_count": 252
+        },
+        {
+          "label": "Post 1-2",
+          "text": "22 years.\n\nLleyton Hewitt won Washington in 2004.\n\nTuesday, his 17-year-old son Cruz won his first ATP match at the same venue.\n\nLleyton watched from the stands.\n\nThat's the story of the day at the DC Open. 🎾\n\n#Tennis #DCOpen #CruzHewitt",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#DCOpen",
+            "#CruzHewitt"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-cruz-hewitt-first-atp-win-dc-open.html",
+        "headline": "Cruz Hewitt Wins First ATP Match in Washington — 22 Years After Lleyton's DC Title",
+        "word_count": 580
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cruz Hewitt First ATP Win\n\n**Image 1 (X Social — 1080x1350)**\n- **Search Term:** \"Cruz Hewitt\"\n- **Overlay Text:** \"FIRST ATP WIN — Cruz Hewitt, 17 — DC Open\"\n- **Creative Direction:** Cruz Hewitt in mid-celebration or mid-serve at DC Open. Young, energetic frame. Dark background preferred for overlay readability.\n- **Credit:** (USA TODAY Sports Images)\n\n**Image 2 (Facebook — 1080x1350)**\n- **Search Term:** \"Lleyton Hewitt\"\n- **Overlay Text:** \"Like Father, Like Son — Cruz Hewitt Wins in Washington\"\n- **Creative Direction:** Archive or courtside photo of Lleyton Hewitt at a Washington/hard court tournament. Works best as generational contrast (older photo of Lleyton vs. Cruz's current win).\n- **Credit:** (USA TODAY Sports Images)\n\n**Image 3 (Article Hero — 1200x630)**\n- **Search Term:** \"Cruz Hewitt\"\n- **Overlay Text:** none\n- **Creative Direction:** Wide landscape shot of Cruz Hewitt at DC Open, ideally with the court visible behind him.\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Cruz Hewitt First ATP Win — DC Open\n**Sources:**\n- ATP Tour official: \"17-year-old Cruz Hewitt, World No. 612, earns first ATP win in Washington\" — atptour.com/en/news/cruz-hewitt-washington-2026-first-atp-win\n- Gulf News: \"Cruz Hewitt wins first ATP match at Washington, 22 years after dad's triumph\" — gulfnews.com\n- Olympics.com: \"Mubadala DC Open 2026: Cruz Hewitt, son of former major champion Lleyton, bags first ATP Tour win\"\n- Tennis Majors: \"Cruz Hewitt, son of Lleyton, wins first ATP main draw match in Washington\"\n- Tennis.com.au: \"Washington DC: Cruz Hewitt dazzles in first career ATP win\"\n- Last Word on Tennis: \"Not Just Lleyton's Son Anymore: Cruz Hewitt Arrives on the ATP Tour With ATP Washington Win\"\n- ArabNews: \"Hewitt's Son Cruz Earns First ATP Tour Win in Washington Opener\"\n- The New Daily (AU): \"Cruz Hewitt takes top-100 scalp in ATP first\"\n**Verified Facts (HIGH confidence — 4+ independent sources):**\n- Cruz Hewitt (AUS) defeated Marcos Giron (USA) 6-3, 6-4 in R1 of Mubadala Citi DC Open — HIGH\n- Match duration: 74 minutes — HIGH (multiple sources)\n- Cruz Hewitt is 17 years old — HIGH\n- Cruz Hewitt is ranked No. 612 in the world — HIGH (ATP Tour official)\n- Youngest player to win in Washington since Kei Nishikori in 2007 — HIGH (multiple sources)\n- Father Lleyton Hewitt won Washington in 2004, 22 years before Cruz — HIGH (multiple sources)\n- Lleyton Hewitt was courtside for the match — HIGH (multiple sources)\n- Cruz Hewitt reached the Wimbledon junior singles final in 2026 (lost to Jordan Lee, USA) — HIGH (multiple sources)\n- Cruz entered DC Open as a qualifier (not main draw wild card) — HIGH\n**NOTE (Pipeline Correction):**\nThe July 28 TFR pipeline (Story 4) attributed Cruz Hewitt's ATP main draw debut to Los Cabos and stated he \"lost to Giron 6-3, 7-6(2) R1.\" Search results confirm his actual debut and first ATP win occurred at the DC Open in Washington against Giron (6-3, 6-4). This was a WebFetch distortion / tournament confusion in the prior pipeline. Correction logged in story history.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Eala Battles Back to Defeat Zheng — Advances to DC Open Round of 16",
+      "tier": 1,
+      "status": "",
+      "angle": "NEW STORY — Alexandra Eala (Philippines, career-high No. 29) defeated Qinwen Zheng (China, Olympic champion) 4-6, 6-4, 6-1 in the first round of the Mubadala Citi DC Open on Tuesday July 28. Eala dropped the first set before recovering to win 12 of the next 13 games and take the match. Zheng was notably cool in the post-match handshake. Eala advances to the Round of 16 where she faces No. 7 seed Leylah Fernandez (defending champion) on Wednesday.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Eala is through. 🇵🇭\n\nDown a set and a break — Alex Eala came back to defeat Olympic champion Qinwen Zheng 4-6, 6-4, 6-1 at the DC Open.\n\nShe's into the Round of 16.\n\nNext up: defending champion Leylah Fernandez.\n\n#Tennis #DCOpen #WTA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#DCOpen",
+            "#WTA"
+          ],
+          "char_count": 233
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Wednesday at the DC Open:\n\nFernandez (7, defending champion)\nvs.\nAlexandra Eala (No. 29)\n\nEala just beat Olympic champ Zheng after dropping the first set.\n\nFernandez won this title last year. Will she hold it?\n\n11 AM ET. 🎾\n\n#Tennis #DCOpen #WTA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#DCOpen",
+            "#WTA"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-eala-beats-zheng-dc-open-r16.html",
+        "headline": "Eala Comes Back From a Set and a Break to Defeat Olympic Champion Zheng at DC Open",
+        "word_count": 431
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Eala Defeats Zheng\n\n**Image 4 (X Social — 1080x1350)**\n- **Search Term:** \"Alexandra Eala\"\n- **Overlay Text:** \"EALA def. ZHENG 4-6, 6-4, 6-1 — Into DC Open R16\"\n- **Creative Direction:** Eala celebrating, pumping her fist, or in a power pose on court. High energy.\n- **Credit:** (USA TODAY Sports Images)\n\n**Image 5 (Facebook — 1080x1350)**\n- **Search Term:** \"Alex Eala Washington\"\n- **Overlay Text:** \"Eala Rallies Past Olympic Champion Zheng — R16 Set\"\n- **Creative Direction:** Eala at the net or celebrating — clear, confident expression.\n- **Credit:** (USA TODAY Sports Images)\n\n**Image 6 (Article Hero — 1200x630)**\n- **Search Term:** \"Qinwen Zheng\"\n- **Overlay Text:** none\n- **Creative Direction:** Landscape frame of Zheng or Eala at Washington. Match action preferred.\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Eala Defeats Zheng — DC Open R1\n**Sources:**\n- WTA official: wtatennis.com/news/4548733 — \"Alex Eala overcomes Qinwen Zheng in Washington debut win down a set and break\"\n- WTA official match page: wtatennis.com/tournaments/1045/washington-dc/2026/scores/LS029\n- Olympics.com: \"WTA Mubadala DC Open: Alexandra Eala recovers from dropped first set to beat Zheng Qinwen\"\n- Rappler: \"Eala outlasts Olympic champion Zheng for rousing Washington Open debut\"\n- SI.com / Sports Illustrated: \"Qinwen Zheng Gives Alex Eala Frosty Handshake at DC Open\"\n- Tribune (Philippines): \"Eala averts disaster vs Zheng, storms to Mubadala DC Open R16\"\n- Spin.ph: \"Eala completes comeback over Zheng to jumpstart DC Open Campaign\"\n**Verified Facts (HIGH confidence):**\n- Eala def. Zheng 4-6, 6-4, 6-1 in Round of 32 — HIGH (WTA official match record)\n- Eala (Philippines) is ranked career-high No. 29 — HIGH (multiple sources)\n- Zheng Qinwen (China) is the 2024 Olympic gold medalist — HIGH\n- Zheng gave a notably cold/frosty handshake at the net post-match — HIGH (SI.com, multiple sources)\n- Eala advances to Round of 16 — HIGH\n- Eala's next opponent is No. 7 seed Leylah Fernandez (CAN, defending champion) — HIGH (WTA draw confirmed)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "DC Open Day 3 Preview — Fernandez vs. Eala Headlines; de Minaur vs. Tsitsipas on Deck",
+      "tier": 2,
+      "status": "",
+      "angle": "NEW STORY — Wednesday's order of play features a marquee women's clash: No. 7 seed Leylah Fernandez (CAN, defending champion) vs. Alexandra Eala (Philippines) at 11:00 AM ET on Stadium Court. The afternoon session features the headline ATP match: defending champion Alex de Minaur (1) vs. Stefanos Tsitsipas (wildcard, GRE) scheduled Not Before 1:00 PM ET on Stadium Court. Taylor Fritz (3) faces Kamil Majchrzak in the day session. The evening session (Not Before 6:30 PM) features Ashlyn Krueger vs. No. 3 seed Naomi Osaka. Also: Kei Nishikori vs. Rafael Jodar in the ATP.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Wednesday at the DC Open is loaded:\n\n🎾 Fernandez vs. Eala — 11 AM ET\n🎾 de Minaur (1) vs. Tsitsipas — NB 1 PM ET\n🎾 Fritz (3) vs. Majchrzak — day session\n🎾 Krueger vs. Osaka (3) — NB 6:30 PM ET\n\nTwo defending champions on court. Two headline clashes.\n\n#Tennis #DCOpen #ATPTour #WTA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#DCOpen",
+            "#ATPTour",
+            "#WTA"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-dc-open-day-3-preview-fernandez-eala-deminaur-tsitsipas.html",
+        "headline": "DC Open Day 3: Fernandez vs. Eala Headlines Wednesday; de Minaur Takes On Tsitsipas",
+        "word_count": 575
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "DC Open Day 3 Preview\n\n**Image 7 (X Social — 1080x1350)**\n- **Search Term:** \"Leylah Fernandez Washington\"\n- **Overlay Text:** \"DC Open Day 3 — Wednesday Matches\"\n- **Creative Direction:** Fernandez in action at DC Open. High energy, movement-based shot preferred.\n- **Credit:** (USA TODAY Sports Images)\n\n**Image 8 (Article Hero — 1200x630)**\n- **Search Term:** \"Alex de Minaur\"\n- **Overlay Text:** none\n- **Creative Direction:** de Minaur on hard court, landscape frame. Clean and modern.\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "DC Open Day 3 Schedule\n**Sources:**\n- 10sBalls.com: \"Mubadala DC Open Men's and Women's Tennis Draws and Order Of Play for Wednesday, July 29, 2026\"\n- ATP Tour: atptour.com/en/news/washington-2026-schedule\n- WTA: wtatennis.com/news/4540815\n**Verified Facts (HIGH confidence):**\n- Fernandez (7) vs. Eala — 11:00 AM ET, Stadium Court — HIGH\n- de Minaur (1) vs. Tsitsipas (WC) — Not Before 1:00 PM ET, Stadium Court — HIGH\n- Taylor Fritz (3) vs. Kamil Majchrzak — day session — HIGH\n- Krueger vs. Osaka (3) — Not Before 6:30 PM ET — HIGH\n- Nishikori vs. Jodar — day session — HIGH",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Venus Williams Loses Again; Fils Exits Hurt — DC Open Day 2 Round-Up",
+      "tier": 2,
+      "status": "",
+      "angle": "NEW STORY — Day 2 results at the Mubadala Citi DC Open produced two notable stories. Anastasia Potapova (RUS) defeated Venus Williams (USA) 6-3, 6-3 in straight sets on Tuesday. Williams drops to 0-9 in 2026 and has now lost 12 consecutive matches. Rafael Jodar (ESP) defeated No. 8 seed Arthur Fils (FRA) 7-6(5), 6-3 after Fils called for the physio in the second set for a recurring back and hip issue. Jodar advances to face Kei Nishikori. Jakub Mensik (7) beat Trevor Svajda 6-2, 6-7(5), 6-3 in a comeback win. Ben Shelton (2) advanced. Top seeds generally held.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "DC Open Day 2 exits:\n\n❌ Venus Williams lost to Potapova 6-3, 6-3 (12th straight; 0-9 in 2026)\n❌ No. 8 Arthur Fils retired vs. Jodar 7-6(5), 6-3 (back/hip)\n\nThe stories of Washington are the young ones rising.\n\n#Tennis #DCOpen #WTA #ATPTour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#DCOpen",
+            "#WTA",
+            "#ATPTour"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-venus-williams-potapova-fils-jodar-dc-open-day2.html",
+        "headline": "Venus Williams Drops 12th Straight Match; Fils Exits Hurt as DC Open Day 2 Takes Its Toll",
+        "word_count": 519
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Venus Williams / Fils Day 2\n\n**Image 9 (X Social — 1080x1350)**\n- **Search Term:** \"Venus Williams\"\n- **Overlay Text:** \"DC Open Day 2 — The Exits\"\n- **Creative Direction:** Venus Williams in a more reflective moment on court, not celebrating. Tells the story of the loss without being exploitative.\n- **Credit:** (USA TODAY Sports Images)\n\n**Image 10 (Article Hero — 1200x630)**\n- **Search Term:** \"Arthur Fils\"\n- **Overlay Text:** none\n- **Creative Direction:** Fils in action or post-match. Landscape frame at Washington.\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Venus Williams / Fils — DC Open Day 2 Results\n**Sources:**\n- WTA official: wtatennis.com/news/4548992 — \"Potapova finally breaks through in Washington after beating Venus Williams\"\n- WTA match page: wtatennis.com/tournaments/1045/washington-dc/2026/scores/LS021\n- Tennis.com match record: \"Anastasia Potapova vs Venus Williams · Round 1 · Washington D.C.\"\n- Sunday Guardian Live: \"Washington Open 2026 Results: Anastasia Potapova Beats Venus Williams\"\n- ATP Tour: atptour.com/en/news/fils-jodar-washington-2026-tuesday\n- Tennis Majors: \"Jodar outlasts injury-hit Fils in Washington to reach last 16\"\n- Sofascore: \"Rafael Jodar beats No. 8 seed Fils at ATP Washington 7-6, 6-3\"\n**Verified Facts (HIGH confidence):**\n- Potapova def. Venus Williams 6-3, 6-3 in R1 of DC Open — HIGH (WTA official, multiple)\n- Venus Williams is 0-9 in 2026 and has lost 12 consecutive matches — HIGH (multiple sources; previous pipeline had her at 11-match losing streak before this match)\n- Jodar def. Fils (No. 8 seed) 7-6(5), 6-3 — HIGH (ATP Tour official, sofascore, Tennis Majors)\n- Fils called for physio in second set for recurring back and hip issue (same issue from Rome) — HIGH (Tennis Majors)\n- Mensik (7) def. Svajda 6-2, 6-7(5), 6-3 — HIGH (multiple sources)\n- Ben Shelton (2) advanced — HIGH (multiple sources)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Shapovalov Wins Los Cabos Opener — Birthday Dedication as Defending Champion",
+      "tier": 2,
+      "status": "",
+      "angle": "NEW STORY — Denis Shapovalov (CAN, 8th seed, defending champion) defeated Rinky Hijikata (AUS) 2-6, 6-3, 6-2 in the first round of the Mifel Tennis Open by Telcel Oppo (ATP 250) in Los Cabos, Mexico on Wednesday July 29. Shapovalov is 5-0 all-time at Los Cabos and now holds the tournament record as its most successful player. This was only his second win since mid-April. Shapovalov dedicated the win to his wife, Mirjam Björklund, on her birthday.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Denis Shapovalov is 5-0 all-time at Los Cabos. 🇨🇦\n\nThe defending champion beat Rinky Hijikata 2-6, 6-3, 6-2 today to open his title defense.\n\nSecond win since mid-April. He dedicated it to his wife Mirjam on her birthday. 🎂\n\n#Tennis #LosCabos #ATPTour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#LosCabos",
+            "#ATPTour"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-shapovalov-los-cabos-birthday-dedication.html",
+        "headline": "Shapovalov Wins Los Cabos Opener for Fifth Straight Year, Dedicates Victory to Wife on Birthday",
+        "word_count": 468
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Shapovalov Los Cabos\n\n**Image 11 (X Social — 1080x1350)**\n- **Search Term:** \"Denis Shapovalov\"\n- **Overlay Text:** \"5-for-5 at Los Cabos — Shapovalov Opens Defense\"\n- **Creative Direction:** Shapovalov in a power pose or celebration, ideally from an outdoor hard court event. Los Cabos-era photo preferred.\n- **Credit:** (USA TODAY Sports Images)\n\n**Image 12 (Article Hero — 1200x630)**\n- **Search Term:** \"Denis Shapovalov\"\n- **Overlay Text:** none\n- **Creative Direction:** Shapovalov serving or celebrating in landscape frame. Clean, high-quality shot preferred.\n- **Credit:** (USA TODAY Sports Images)"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Shapovalov Los Cabos Win\n**Sources:**\n- ATP Tour: atptour.com/en/news/los-cabos-2026-tuesday-report — \"Defending Los Cabos champ Denis Shapovalov wins opener, wishes wife Mirjam a Happy Birthday\"\n- Tennis.com match record: \"Denis Shapovalov vs Rinky Hijikata · Round 1 · ATP Los Cabos\"\n**Verified Facts (HIGH confidence):**\n- Shapovalov def. Hijikata 2-6, 6-3, 6-2 — HIGH (ATP Tour official)\n- Shapovalov is the defending Los Cabos champion — HIGH\n- Shapovalov is 5-0 all-time at Los Cabos — HIGH (ATP Tour headline confirms 5th win)\n- This was his second win since mid-April — HIGH (ATP Tour report)\n- Shapovalov dedicated the win to wife Mirjam Björklund on her birthday — HIGH (ATP Tour headline direct quote)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
