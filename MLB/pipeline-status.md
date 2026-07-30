@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-07-30
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via research agent, 5 stories verified HIGH confidence), brief (5 stories), research notes, story analysis, X posts (8; 0 char violations — all ≤280), FB posts (5 stories), image concepts (9 items), image manifest (10 items, not_started), articles (5), fact-check (35 claims HIGH), compile (5 stories, 8 tweets, 0 FB compiled — format; 5 articles, 23 items), dashboard (23 items), PostPlanner exports (0 posts compiled — format known). WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard publish push failed (proxy known restriction). IMAGE MISSING expected (not_started — manifest format mismatch known). claim-patterns.py missing (known). FB posts: 0 compiled (format known). PostPlanner: 0 compiled (format known). 0 char violations.
+- **Key Stories**: Trade Deadline 4 days/Skubal "likely staying" in Detroit (Tigers 10-4 July, 4.5 games from WC)/Miller "likely staying" in SD (0.84 ERA 26 SV, Padres declined Yankees Jones+Dominguez offer)/No deals done (Tier 1 FOLLOW UP), Dylan Cease CG shutout vs BOS (1H 12K 120P 6-0)/2.56 ERA 167K/AL Cy Young race = Cease vs Schlittler/+145 odds (Tier 1 FOLLOW UP), Chris Sale July 29 result: 2H 0BB 9K Braves 1-0 Mets/now 12-6/192 ERA+/Braves must be buyers (Tier 2 FOLLOW UP), Schwarber 33 HR through July 18/pace for 72 HR/Bonds record 73/first to 20-25-30 all season/6 straight 30+HR years/.935 OPS (Tier 2 FOLLOW UP), July 29 walk-offs: BAL 10 DET 9 (12)/STL 3 CHC 2 (10, Herrera)/MIA 8 PHI 6 (Conine PH HR) (Tier 3 NEW)
+
+## Last Run
 - **Date**: 2026-07-29
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via research agent, 5 stories verified HIGH confidence), brief (5 stories), research notes, story analysis, X posts (8; 0 char violations — all ≤280), FB posts (5 stories), image concepts (7 items), image manifest (7 items, not_started), articles (5), fact-check (35 claims HIGH), compile (5 stories, 8 tweets, 0 FB compiled — format; 5 articles, 23 items), dashboard (23 items), PostPlanner exports (0 posts compiled — format known). WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).

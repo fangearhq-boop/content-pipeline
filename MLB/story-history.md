@@ -5345,3 +5345,59 @@ Each day's stories are appended at the top (newest first).
 
 ### Research Flag (July 29)
 - **Tigers No-Hitter (July 28 Story 4):** Research on July 29 indicates this may be the July 8, 2023 game (Manning/Foley/Lange) being surfaced as new content — search paths consistently resolve to 2023. No 2026 Tigers no-hitter confirmed in July 29 research. Flagged as potential pipeline error. Do NOT follow up without independent confirmation of a 2026 event.
+
+---
+
+## July 30, 2026
+
+### Story 1: Trade Deadline — Skubal and Miller Likely Staying
+- **Date:** 2026-07-30
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** 4 days to August 3 deadline. Growing sense among rival execs that Tarik Skubal stays in Detroit (Tigers 10-4 July, 25-15 since June 1, 4.5 games from WC). Dodgers remain most aggressive suitor (Wrobleski/Sheehan/Ryan). Mason Miller (0.84 ERA, 26 SV, NL-best, control through 2029) "likely staying" per Yahoo Sports — Yankees offered Jones+Dominguez, Padres said no. Ohtani still unable to pitch (knee + biceps). No completed deals as of July 30.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Any completed trades before August 3 6PM ET
+  - Skubal decision — announcement or confirmation of staying
+  - Deadline wrap-up (August 3 evening)
+
+### Story 2: Dylan Cease AL Cy Young Case
+- **Date:** 2026-07-30
+- **Tier:** 1
+- **Classification:** FOLLOW UP (CG shutout was prior start; today = season overview)
+- **Angle:** Cease (Blue Jays) threw CG shutout vs Red Sox (6-0, 1 hit, 12 K, 120 pitches). 2026: 2.56 ERA, 167 K. AL Cy Young race: Cease vs. Cam Schlittler (Yankees). Cease at +145 odds (Bleacher Nation July 15). Last Word on Baseball July 29: "Dominant Cy Young-Caliber Season." Two-horse race, Cease the slight frontrunner.
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Cease next start (mid-August)
+  - Schlittler counter-performances
+  - September Cy Young race update
+
+### Story 3: Chris Sale 2-Hit Shutout — Braves Win 1-0
+- **Date:** 2026-07-30
+- **Tier:** 2
+- **Classification:** FOLLOW UP (covered July 28-29 as doubleheader preview)
+- **Angle:** Sale started Game 2 Braves-Mets DH July 29 at Citi Field. Line: 2 H (singles, Benge + Wagaman), 0 BB, 9 K. Braves 1 Mets 0 (Olson RBI single in 6th). Sale 12-6. Three straight wins. ~2.19 ERA, 192 ERA+. Braves split DH (Mets won Game 1, 3-2). AJC: Sale's performance makes Braves must-be deadline buyers.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Braves deadline acquisitions (August 3)
+  - Sale next start result
+
+### Story 4: Schwarber on Pace for 72 HR
+- **Date:** 2026-07-30
+- **Tier:** 2
+- **Classification:** FOLLOW UP (covered July 26, July 29)
+- **Angle:** Schwarber 33 HR as of July 18. Pace: ~72 HR for the season (Bonds record: 73). First to 20/25/30 HR in 2026. Reached 30 in 84 games. Six consecutive 30+ HR seasons (longest active). .255/.935 OPS, 61 RBI mid-July. Lines.com: on pace for 72. ESPN: "Will he join the 60 HR club?" Marlins beat Phillies 8-6 July 29 (Conine pinch HR in 8th).
+- **Content Produced:** Article (article-04, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Schwarber HR No. 40 milestone
+  - HR total tracking through August
+  - 50 HR milestone story
+
+### Story 5: July 29 Wild Night — Three Walk-Offs
+- **Date:** 2026-07-30
+- **Tier:** 3
+- **Classification:** NEW
+- **Angle:** Three dramatic July 29 results: Orioles 10 Tigers 9 (12 inn. walk-off); Cardinals 3 Cubs 2 (10 inn., Ivan Herrera 2-run double); Marlins 8 Phillies 6 (Griffin Conine pinch-hit HR in 8th). Wild night with deadline standings implications.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - July 30 standings update following these results
