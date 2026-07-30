@@ -1,25 +1,17 @@
 {
-  "generated_at": "2026-07-29T08:30:00.808142+00:00",
-  "today_ct": "2026-07-29",
+  "generated_at": "2026-07-30T08:30:00.673979+00:00",
+  "today_ct": "2026-07-30",
   "off_day": false,
   "is_series_start_today": false,
   "series": {
     "opponent": "St. Louis Cardinals",
     "opponent_id": 138,
-    "opponent_record": "53-54",
-    "cubs_record": "61-46",
+    "opponent_record": "54-54",
+    "cubs_record": "61-47",
     "is_cubs_home": false,
     "venue": "Busch Stadium",
-    "series_length": 2,
+    "series_length": 1,
     "games": [
-      {
-        "game_pk": "823022",
-        "game_date_iso": "2026-07-29T23:45:00Z",
-        "game_date_ct": "Wed 6:45 PM CT",
-        "cubs_probable": "TBD",
-        "opponent_probable": "TBD",
-        "status": "Preview"
-      },
       {
         "game_pk": "823023",
         "game_date_iso": "2026-07-30T18:15:00Z",
@@ -32,16 +24,16 @@
     "rationale": "Same opponent (St. Louis Cardinals) as yesterday \u2014 this is mid-series, not a series opener."
   },
   "today_cubs_game": {
-    "game_pk": "823022",
+    "game_pk": "823023",
     "status": "Preview",
     "detailed_status": "Scheduled",
-    "game_date_iso": "2026-07-29T23:45:00Z",
-    "game_date_ct": "Wed 6:45 PM CT",
+    "game_date_iso": "2026-07-30T18:15:00Z",
+    "game_date_ct": "Thu 1:15 PM CT",
     "is_cubs_home": false,
     "opponent_id": 138,
     "opponent_name": "St. Louis Cardinals",
-    "opponent_record": "53-54",
-    "cubs_record": "61-46",
+    "opponent_record": "54-54",
+    "cubs_record": "61-47",
     "cubs_probable": "TBD",
     "opponent_probable": "TBD",
     "venue": "Busch Stadium"
