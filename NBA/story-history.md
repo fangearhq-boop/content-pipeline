@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-07-30
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-30 | T1 | Kawhi Leonard Investigation Could Now Drag Into 2027 | X, FB, Article | FOLLOW UP |
+| 2026-07-30 | T2 | DeMar DeRozan Returns to Chicago Bulls — 2 Years, $30 Million | X, FB, Article | FOLLOW UP |
+| 2026-07-30 | T2 | 76ers Filling Out the Roster — Simons, Edwards, Wade Around the Big 4 | X, FB, Article | FOLLOW UP |
+| 2026-07-30 | T2 | The Rest of the NBA's Blockbuster Offseason: Giannis, Reaves, LaMelo | X, FB, Article | NEW |
+| 2026-07-30 | T2 | Why Wembanyama Left $50 Million on the Table — And Why It Might Be Brilliant | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Kawhi Leonard Investigation Could Now Drag Into 2027
+- **Tier:** 1
+- **Category:** NBA Investigation / Kawhi Leonard / Los Angeles Clippers
+- **Key facts:** Investigation could extend into 2027 per ESPN/HoopsHype/Yahoo Sports (July 29-30); NBA law firm done but NBPA can demand CBA arbitration; Silver's "must end before season" deadline now in question; Raptors-Clippers trade still frozen (agreed June 30, still blocked July 30); Aspiration CEO convicted 14yrs federal prison; Clippers claim victims not co-conspirators; probe began September 2025
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official ruling announcement; arbitration timeline; Raptors trade resolution
+
+### STORY 2: DeMar DeRozan Returns to Chicago Bulls
+- **Tier:** 2
+- **Category:** NBA Free Agency / DeMar DeRozan / Chicago Bulls
+- **Key facts:** 2-year, $30M deal per league sources (NOT $80M/2yr as earlier reports suggested); waived by Kings July 6; passed on Heat, Nuggets, Cavs, Wizards; returns to team of his best post-prime seasons; joins new coach Torsten Splitter
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official Bulls announcement; training camp role; Splitter system fit
+
+### STORY 3: 76ers Roster Depth — Simons, Edwards, Wade
+- **Tier:** 2
+- **Category:** Philadelphia 76ers / Offseason
+- **Key facts:** Anfernee Simons (Portland), Justin Edwards (returning), Dean Wade (Cleveland) added to core of LeBron/Embiid/Brown/Maxey/Edgecombe; KCP already signed 1yr/$3.9M; 5 combined MVP awards in starting lineup; schedule drops Aug 13-14; season opens Oct 20
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Training camp lineup; opening day roster; depth chart analysis
+
+### STORY 4: NBA Offseason League-Wide Recap
+- **Tier:** 2
+- **Category:** NBA Offseason / League-Wide
+- **Key facts:** Giannis to Miami (Herro + picks); LaMelo to Minnesota (multi-team); Austin Reaves 4yr/$185M stays Lakers; Draymond 4yr/$100M stays Warriors; De'Aaron Fox 4yr/$228M stays Spurs; Jaylen Brown to Philly (Paul George to Boston); Ja Morant to Portland; DeRozan 2yr/$30M back to Chicago
+- **Status:** NEW
+- **Follow-up ideas:** Training camp previews; season power rankings; schedule release Aug 13-14
+
+### STORY 5: Wembanyama $252M Extension Analysis
+- **Tier:** 2
+- **Category:** NBA Business / Victor Wembanyama / San Antonio Spurs
+- **Key facts:** Wemby chose 25% max ($252M/5yr) over 30% supermax (~$303M); left ~$51M on table; cap flexibility used for Fox $228M + Castle/Holland/Ingram extensions; 22 years old (born Jan 4, 2004); no modern NBA precedent for voluntary salary reduction of this scale at this stage of career
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Spurs training camp; Fox-Wemby chemistry; preseason results
+
 ## 2026-07-29
 
 | Date | Tier | Story | Platforms | Status |

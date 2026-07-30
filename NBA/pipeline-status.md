@@ -1,10 +1,21 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Last Run
-- **Date**: 2026-07-29
+- **Date**: 2026-07-30
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-30
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (1 Tier 1, 4 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce)
+- **PostPlanner exports:** hh-postplanner-2026-07-30.xlsx (6 posts) + hh-postplanner-tobi-2026-07-30.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-07-30/review-dashboard.html (21 items)
+- **Notes:** KAWHI PROBE 2027 RISK — investigation could drag into 2027 (ESPN/HoopsHype/Yahoo July 29-30); NBPA arbitration right is the delay mechanism; Raptors trade still frozen; Silver's pre-season deadline now in question; DEROZAN BULLS OFFICIAL — 2yr/$30M per league sources (NOT $80M/2yr per earlier reports); passed on Heat/Nuggets/Cavs/Wizards; joins coach Torsten Splitter; 76ERS DEPTH — Simons, Edwards, Wade added to Big 4 core; full roster taking shape; OFFSEASON RECAP — Giannis/Miami, LaMelo/Minnesota, Reaves 4yr/$185M/Lakers, Draymond 4yr/$100M/Warriors all confirmed; WEMBANYAMA $51M SACRIFICE — chose 25% max over 30% supermax; $51M gap freed cap space for Fox $228M extension; no modern NBA precedent
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-29
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
