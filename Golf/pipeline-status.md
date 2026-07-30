@@ -1,10 +1,21 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
-- **Date**: 2026-07-29
+- **Date**: 2026-07-30
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-30
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres)
+- **PostPlanner exports:** gfr-postplanner-2026-07-30.xlsx (7 posts) + gfr-postplanner-tobi-2026-07-30.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-07-30/review-dashboard.html (22 items)
+- **Notes:** AIG WOMEN'S OPEN R1 UNDERWAY — Korda + Ryu + Lydia Ko grouped at 8:42 AM; Korda won Chevron + US Women's Open, Ryu won KPMG + Evian — split all 4 women's 2026 majors; one more win = 3 in one year = Inbee Park 2013 record; $10M purse, par 71, 144 players, Royal Lytham; ROCKET CLASSIC R1 STARTS — final edition on completely renovated Detroit Golf Club ($16.1M restoration): par 70 (was 72), 300 yards added, holes 7+17 → par 4s (505 & 537 yds), 91 bunkers (was 84), Donald Ross 1914 design restored, pond at 14 removed; Cameron Young is favorite; Scheffler + McIlroy both resting for playoffs; Potgieter defending; Koivun in field; FEDEXCUP BUBBLE — Bradley 76th, Koepka 84th, Finau 87th all outside top 70; Koivun exactly 70th (just inside); Spieth ~55th; only Rocket Classic + Wyndham remain; LIV GOLF POST-MICHIGAN — O'Neil can't guarantee Bedminster (Aug 6-9) or Indianapolis (Aug 20-23); no LIV team champion in 2026; bankruptcy groundwork (Bloomberg); SCHEFFLER RESTING — skipping Rocket Classic; last win American Express January (20th career); 0-4 in majors (Masters -1 McIlroy, US Open Shinnecock, Open Birkdale T4 w/ Fleetwood, PGA Aronimink); missed cut Scottish Open first in 4 years; still World No. 1 + FedExCup No. 1; 5 runner-ups
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-29
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

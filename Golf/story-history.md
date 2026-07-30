@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-07-30
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-30 | T1 | AIG Women's Open Round 1 — Korda, Ryu, and Ko Tee Off Together at Royal Lytham | X, FB, Article | FOLLOW UP |
+| 2026-07-30 | T1 | The Final Rocket Classic Begins — On a Completely Renovated Detroit Golf Club | X, FB, Article | NEW |
+| 2026-07-30 | T2 | FedExCup Bubble — Bradley, Koepka, and Finau All Outside Top 70 with 2 Events Left | X, FB, Article | FOLLOW UP |
+| 2026-07-30 | T2 | LIV Golf After Michigan — Two Events Left, CEO Can't Guarantee Either | X, FB, Article | FOLLOW UP |
+| 2026-07-30 | T2 | Scheffler Is Sitting Out the Rocket Classic — No. 1 in Everything, Winless Since January | X, FB, Article | FOLLOW UP |
+
+### STORY 1: AIG Women's Open Round 1 — Korda, Ryu, and Ko Tee Off Together at Royal Lytham
+- **Tier:** 1
+- **Category:** LPGA / AIG Women's Open / Royal Lytham
+- **Key facts:** Korda and Ryu grouped with Lydia Ko at 8:42 AM R1; Korda won Chevron + US Women's Open in 2026; Ryu won KPMG + Evian in 2026; one more win for either = 3 majors in a calendar year, matching Inbee Park's 2013 record; $10M record purse; par 71; 144-player field; Royal Lytham & St Annes; final women's major of 2026; Korda world No. 1 with 4 career majors entering
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R1 results; R2 and cut coverage; winner coverage
+
+### STORY 2: The Final Rocket Classic Begins — On a Completely Renovated Detroit Golf Club
+- **Tier:** 1
+- **Category:** PGA Tour / Rocket Classic / Detroit Golf Club / Course Design
+- **Key facts:** $16.1M restoration of Detroit Golf Club completed; par changed from 72 to 70; 300 yards added; holes 7 and 17 converted to par 4s (505 and 537 yards); 91 bunkers (up from 84); Donald Ross 1914 original design restored; pond near 14th removed; Cameron Young is favorite; Scheffler and McIlroy both resting; Aldrich Potgieter defending champion (won at age 20 in 2025); Koivun in field (just won 3M Open); Bradley/Clark/Koivun grouped in morning wave; $10M purse, 500 FedExCup pts; Rocket Companies exiting sponsorship after 2026
+- **Status:** NEW
+- **Follow-up ideas:** R1 results; Cameron Young leaderboard position; bubble players' scores
+
+### STORY 3: FedExCup Bubble — Bradley, Koepka, and Finau All Outside Top 70 with 2 Events Left
+- **Tier:** 2
+- **Category:** PGA Tour / FedExCup / Bubble Watch
+- **Key facts:** Bradley 76th; Koepka 84th; Finau 87th; Koivun exactly 70th (just inside); Spieth ~55th (top-50 bubble); only Rocket Classic + Wyndham remain; top 70 → FedEx St. Jude (Aug 13-16, TPC Southwind); top 50 → BMW (Bellerive Aug 20-23); top 30 → Tour Championship (East Lake Aug 27-30); 500 pts this week
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Updated standings after Rocket Classic R1; Wyndham as last chance
+
+### STORY 4: LIV Golf After Michigan — Two Events Left, CEO Can't Guarantee Either
+- **Tier:** 2
+- **Category:** LIV Golf / Business / Season
+- **Key facts:** Michigan officially canceled (2nd cancellation after New Orleans); $40M team championship with no team champion; schedule down from 14 to 12 events; Bedminster (Aug 6-9, $30M) and Indianapolis (Aug 20-23, $30M) remain; O'Neil publicly declined to guarantee both will happen; £461.8M loss in 2024; ~$100M monthly burn; PIF stopping funding end of season; Bloomberg Chapter 11 groundwork underway; LIV seeking $250-350M from investors
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Bedminster survival/cancellation; investor announcement; bankruptcy filing
+
+### STORY 5: Scheffler Is Sitting Out the Rocket Classic — No. 1 in Everything, Winless Since January
+- **Tier:** 2
+- **Category:** PGA Tour / Scottie Scheffler / FedExCup
+- **Key facts:** Not playing Rocket Classic (resting before playoffs); last win was American Express in January (20th career PGA Tour win); winless in all 4 majors 2026 (Masters: 1 behind McIlroy; US Open Shinnecock; Open Birkdale T4 with Fleetwood at -7; PGA Aronimink faded WE); missed cut at Scottish Open (first in 4 years); still World No. 1 and FedExCup No. 1; 5 runner-up finishes; McIlroy also resting; FedEx playoffs start Aug 13 at TPC Southwind
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** FedEx St. Jude performance; FedExCup title race; BMW/Tour Championship
+
 ## 2026-07-29
 
 | Date | Tier | Story | Platforms | Status |
