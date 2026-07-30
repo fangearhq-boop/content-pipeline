@@ -4831,3 +4831,56 @@ Each day's stories are appended at the top (newest first).
   - Boyd performance report
 
 ---
+
+## 2026-07-30
+
+### STORY 1: Game 3 Recap — Bullpen Blows 10th-Inning Lead
+- **Angle:** NEW STORY (Game 3 of 4 vs Cardinals, Cardinals 3 Cubs 2 in extra innings; PCA hit a 2-run HR in top of 10th to give Cubs a 2-1 lead; Trent Thornton couldn't hold it — Iván Herrera's 2-run double off Thornton; Cubs still lead series 2-1; NO score in tweet per has_score=False insight)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - Game 4 result tonight (tomorrow morning recap)
+  - Bullpen reliability heading into stretch run
+
+### STORY 2: Trade Deadline — Passan Drops Skubal Bomb, Cubs in the Room
+- **Angle:** FOLLOW UP (trade deadline arc; July 29 covered Hoyer "majority of prospects"; today's new angle = Passan reports Tigers WILL trade Tarik Skubal; Cubs "considering" per The Athletic's Mooney; Dodgers and Brewers frontrunners; 4 days left)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold take / deadline)
+- **Follow-Up Opportunities:**
+  - Skubal trade actually announced
+  - Cubs trade for alternative arm (Peralta, Ray, Gausman)
+  - Any Cubs deal by August 3 deadline
+
+### STORY 3: PCA — MVP Odds Explode to +185 as Ohtani's Knee Limits His Case
+- **Angle:** FOLLOW UP (PCA arc; July 29 covered full season stat-line; today's fresh angle = odds jump from +3000 to +185 in 3 weeks; Ohtani knee issue limiting pitching; PCA's 10th-inning HR last night as recent punctuation; last 55 games: 211 wRC+, 1.161 OPS, 5.7 fWAR)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, stat breakdown)
+- **Follow-Up Opportunities:**
+  - Any further Ohtani update
+  - PCA continues hot stretch / milestone HR or SB
+
+### STORY 4: Cardinals 54-54, 9-13 in July, Playing Spoiler Badly
+- **Angle:** FOLLOW UP (Cardinals collapse arc; July 29 was "53-54, 0-2 in series"; today's angle = they won Game 3 for first series win; still 54-54, 9-13 in July, 15th in NL WC standings; one win doesn't change the story)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, rival watch / humor)
+- **Follow-Up Opportunities:**
+  - Cardinals record after series
+  - Cardinals wild card elimination watch
+
+### STORY 5: Game 4 Preview — Assad vs Pallante, 1:15 PM CT Series Finale
+- **Angle:** NEW STORY (series finale game preview; Javier Assad 6-1, 3.86 ERA, 1.12 WHIP; vs Andre Pallante 11-6, 3.77 ERA; Cubs can clinch series 3-1 with win; 1:15 PM CT at Busch Stadium)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Game 4 result recap (tomorrow morning)
+  - Assad's continued rotation reliability
+
+### STORY 6: Brewers Among Frontrunners for Skubal — Cubs' Two-Front War
+- **Angle:** NEW STORY (Skubal-Cubs-Brewers triangle; Passan: Dodgers and Brewers are frontrunners; Brewers 67-40, 6.5 GB ahead of Cubs in NL Central; if Milwaukee lands Skubal, Cubs lose top target AND division gap widens; deadline two-front war framing)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, analysis / bold take)
+- **Follow-Up Opportunities:**
+  - Skubal trade destination confirmed
+  - Brewers record vs Cubs after August 3
+
+---

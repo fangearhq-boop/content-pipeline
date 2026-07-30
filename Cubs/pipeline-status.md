@@ -1,3 +1,48 @@
+# Cubs Pipeline Status — Updated 2026-07-30
+
+## Latest Run
+- **Date:** 2026-07-30 (Thursday)
+- **Run time:** ~09:20 UTC
+- **Stories:** 6
+- **X posts:** 6
+- **Platforms:** X/Twitter only
+- **Status:** ✅ Complete
+
+## Insights Summary (2026-07-30)
+- **Snapshot generated:** 2026-07-30T08:30:00 UTC
+- **Measured tweets:** 125
+- **Significant findings (1):**
+  - `has_score=False` beats `has_score=True` — small effect (δ=0.225, p=0.0302)
+  - Winner median impressions: 125 vs loser: 83 (n=65 vs n=60)
+  - **Applied:** All tweets drafted without scores in body text
+- No other findings cleared significance gates
+
+## Series Context (2026-07-30)
+- `is_series_start_today`: false
+- `off_day`: false
+- Game 4 of 4 vs Cardinals at Busch Stadium, 1:15 PM CT
+- Cubs led series 2-1 going in
+
+## Today's Content
+| Slot | Story | Tier |
+|------|-------|------|
+| 7:00 AM CT | Game 3 recap — bullpen blows 10th-inning lead | 1 |
+| 8:15 AM CT | Trade deadline — Passan Skubal bomb, Cubs in the room | 1 |
+| 9:30 AM CT | PCA MVP odds jump to +185 (Ohtani knee factor) | 2 |
+| 10:45 AM CT | Cardinals 54-54, 9-13 in July, playing spoiler badly | 2 |
+| 12:00 PM CT | Game 4 preview — Assad vs Pallante, 1:15 PM CT | 1 |
+| 3:45 PM CT | Brewers among Skubal frontrunners — Cubs' two-front war | 2 |
+
+## Dashboard
+- Review dashboard: Cubs/cubs-content-2026-07-30/review-dashboard.html ✅
+- Content data JSON: Cubs/cubs-content-2026-07-30/07-content-data.json ✅ (6 stories, 6 x_posts)
+- Unified dashboard push: Cubs passed; content-dashboards repo push failed (separate repo auth issue — known)
+
+
+---
+
+## Previous Runs
+
 # Cubs Pipeline Status
 
 ## Last Run
