@@ -5757,3 +5757,60 @@ _This file tracks every story covered, the angle used, content produced, and fol
 - **Follow-Up Opportunities:**
   - LLSWS Day 1 coverage (August 2)
   - LLSWS champion announcement (August 9)
+
+---
+
+## July 30, 2026
+
+### Story 1: USA Softball International Cup — Day 1 Opens
+- **Date:** 2026-07-30
+- **Tier:** 1
+- **Classification:** FOLLOW UP (previewed July 29 as NEW)
+- **Angle:** Day 1 of the 2026 USA Softball International Cup is live at Devon Park in OKC. Group A: U.S. Women's Elite Team vs. Chinese Taipei at 5 PM ET (ESPN+). Group B: USA WNT vs. Australia at 8 PM ET (ESPN+). Karlyn Pickens (79.4 mph NCAA record) suiting up for Elite Team. 36 athletes across two squads; UCLA leads with 5. 2027 Women's World Cup qualification pathway.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - USA WNT vs. Australia result (July 30 evening)
+  - Day 2 group standings update (July 31)
+  - USA Elite Team vs. Japan if matchup occurs
+  - Tournament champion (August 3)
+
+### Story 2: CAC Games — Puerto Rico and USVI Unbeaten, Medal Eve
+- **Date:** 2026-07-30
+- **Tier:** 2
+- **Classification:** FOLLOW UP (covered July 29)
+- **Angle:** Through Day 2 at Juan Pablo Duarte Olympic Centre, Santo Domingo: Puerto Rico 2-0 (15-0 run rule + 16-1 run rule in 3 inn.); USVI 2-0 (15-0 + 7-0 over Cuba). Cuba eliminated from gold contention. Medal games July 31. Mexico also unbeaten.
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - CAC Games medal results (July 31)
+  - Puerto Rico gold medal story if they win
+  - USVI medal story
+
+### Story 3: Jaysoni Beachum Enters Transfer Portal — FSU Rebuild Deepens
+- **Date:** 2026-07-30
+- **Tier:** 2
+- **Classification:** NEW
+- **Angle:** Jaysoni Beachum (OF/IF, FSU) — 2024 NFCA Freshman of the Year, 2026 Second Team All-American, .375 BA / 37 HR / 180 RBI career — enters transfer portal. Combined with Torres departure: FSU loses 28% runs, 35% HRs. Portal closed June 22. September 1 window = 32 days. Tori Edwards (LSU, .457 BA, 11 HR) also available.
+- **Content Produced:** Article (article-03, Jordan Reeves), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Beachum commitment announcement
+  - FSU fall roster moves
+  - September 1 recruiting window update
+
+### Story 4: PGF Nationals Week 2 — Championship Countdown
+- **Date:** 2026-07-30
+- **Tier:** 3
+- **Classification:** FOLLOW UP (tracked since July 14)
+- **Angle:** 14U/12U/10U in bracket play, HB/Irvine area. Championship games August 2 at Deanna Manning Stadium, Bill Barber Park, Irvine. Live on PGF.TV. September 1 recruiting window = 32 days.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - PGF Week 2 champions (August 2)
+
+### Story 5: LLSWS Opening Ceremony Preview — August 1 in Greenville
+- **Date:** 2026-07-30
+- **Tier:** 3
+- **Classification:** FOLLOW UP (previewed July 29)
+- **Angle:** Opening ceremony August 1, 6-8 PM at Stallings Stadium at Elm Street Park, 1055 S Elm Street, Greenville NC 27858. Tournament August 2-9. Free admission. ESPN platforms. 12 U.S. regions + international. 340+ games in broadcast package.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - LLSWS Day 1 coverage (August 2)
+  - LLSWS champion announcement (August 9)
