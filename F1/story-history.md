@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-07-30
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-30 | T1 | F1 Calendar Crisis — Qatar and Abu Dhabi Set a September Deadline | X, FB, Article | FOLLOW UP |
+| 2026-07-30 | T1 | Verstappen Hasn't Answered Red Bull's €65M Counter-Offer — October is the Deadline | X, FB, Article | FOLLOW UP |
+| 2026-07-30 | T2 | Aston Martin's 16-Part B-Spec Breaks Through — Alonso Reaches Q2 | X, FB, Article | FOLLOW UP |
+| 2026-07-30 | T2 | F1 Heads Into Summer Break — Antonelli's Title Lead by the Numbers | X, FB, Article | NEW |
+| 2026-07-30 | T2 | Dutch GP Preview — Zandvoort's Finale, Verstappen's Moment of Truth | X, FB, Article | NEW |
+
+### STORY 1: F1 Calendar Crisis — Qatar and Abu Dhabi Set a September Deadline
+- **Tier:** 1
+- **Category:** F1 Calendar / Breaking News / Geopolitics
+- **Key facts:** Bahrain and Saudi Arabia already cancelled (March 2026, US-Iran conflict); Domenicali confirmed mid-September deadline for Qatar (Nov 27-29) and Abu Dhabi (Dec 4-6); "season will end in Europe" if both fall; Imola primary contingency; WEC confirmed no Middle East year-end races; F1 continuing to monitor situation
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official calendar change announcement; Imola confirmation; impact on championship
+
+### STORY 2: Verstappen Hasn't Answered Red Bull's €65M Counter-Offer — October is the Deadline
+- **Tier:** 1
+- **Category:** F1 Driver Market / Max Verstappen / Red Bull / McLaren
+- **Key facts:** Red Bull offered ~€65M/yr through 2029 with condition: exit clause must be removed; Verstappen currently 7th in championship (clause fully available); as of July 28 no response from Verstappen (TheJudge13); Sport Bible (July 7) reported McLaren negotiations in "closing stages"; McLaren CEO Brown denies publicly; Lambiase (race engineer) reportedly in early McLaren discussions (single source)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official announcement at Dutch GP; October clause trigger; McLaren 2027 lineup
+
+### STORY 3: Aston Martin's 16-Part B-Spec Breaks Through — Alonso Reaches Q2
+- **Tier:** 2
+- **Category:** F1 Technical / Aston Martin / Fernando Alonso / Honda
+- **Key facts:** 16-part upgrade debuted Hungary (front wing through rear wing endplate); first curfew exemption of 2026 season; Alonso reached Q2 — first time all 2026 season; Alonso finished 14th, Stroll 13th; Alonso quote: "That adrenaline was missed"; step 2 upgrade at Dutch GP (Zandvoort); Honda PU upgrade also at Dutch GP
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Zandvoort step 2 performance; Honda PU upgrade impact; midfield standings shift
+
+### STORY 4: F1 Heads Into Summer Break — Antonelli's Title Lead by the Numbers
+- **Tier:** 2
+- **Category:** F1 Championship / Standings / Kimi Antonelli / Mercedes
+- **Key facts:** Antonelli 219pts / Hamilton 169pts (+50 gap) / Russell 160pts / Leclerc 138pts; Norris won Hungary; Verstappen P2 (+15.080s); Antonelli P3 (+18.728s); Piastri retired from P2 (gearbox); Hamilton P4 → P5 (5s pit lane penalty); 291 points remaining (11 GPs + 2 Sprints); Antonelli turns 20 Aug 25; Vettel youngest champion at 23 (2010)
+- **Status:** NEW
+- **Follow-up ideas:** Second-half schedule analysis; Hamilton gap-close scenarios; Dutch GP standings update
+
+### STORY 5: Dutch GP Preview — Zandvoort's Finale, Verstappen's Moment of Truth
+- **Tier:** 2
+- **Category:** F1 Dutch GP / Race Preview / Circuit Calendar
+- **Key facts:** Dutch GP Aug 21-23; last-ever F1 race at Zandvoort; first Sprint format at this circuit (SQ Friday, Sprint Saturday 12:00 CET, GP qualifying Saturday, Race Sunday 15:00 CET); Round 12 of 22; Zandvoort returned 2021 after 36-year absence (1985-2021); Verstappen exit clause triggerable October — this may be his last home race as Red Bull driver
+- **Status:** NEW
+- **Follow-up ideas:** Race coverage; Verstappen announcement timing; last-lap Zandvoort farewell moment
+
 ## 2026-07-29
 
 | Date | Tier | Story | Platforms | Status |

@@ -1,10 +1,21 @@
 # F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
-- **Date**: 2026-07-29
+- **Date**: 2026-07-30
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-30
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway, Elena Voss)
+- **PostPlanner exports:** f1fr-postplanner-2026-07-30.xlsx (7 posts) + f1fr-postplanner-tobi-2026-07-30.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-07-30/review-dashboard.html (22 items)
+- **Notes:** F1 CALENDAR CRISIS — Bahrain+Saudi already cancelled (March 2026, US-Iran conflict); Domenicali confirmed mid-September deadline for Qatar (Nov 27-29) and Abu Dhabi (Dec 4-6); "season will end in Europe"; Imola primary contingency; WEC confirmed no Middle East races; VERSTAPPEN €65M OFFER — Red Bull offered €65M/yr through 2029 (condition: exit clause removed); Verstappen 7th in championship (clause fully active); no response as of July 28 (TheJudge13); Sport Bible reported McLaren negotiations "closing stages"; Brown denies; Lambiase reportedly in McLaren discussions (single source); ASTON MARTIN B-SPEC CONFIRMED — 16-part upgrade worked: Alonso Q2 first time all 2026 season; finished 14th; Stroll 13th; "That adrenaline was missed" (Alonso); step 2 at Zandvoort; Honda PU upgrade also at Dutch GP; CHAMPIONSHIP SUMMER BREAK — Norris won Hungary; Antonelli 219pts / Hamilton 169pts (+50) / Russell 160pts / Leclerc 138pts; Piastri retired gearbox; Hamilton pit lane penalty 5s; 291 pts remaining; Antonelli turns 20 Aug 25; DUTCH GP FAREWELL — Aug 21-23 last-ever F1 race at Zandvoort; first Sprint format; Round 12 of 22; Verstappen exit clause October makes this emotionally charged
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-29
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

@@ -1,0 +1,271 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-30",
+  "compiled_at": "2026-07-30T11:36:28.140107+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "F1 Calendar Crisis — Qatar and Abu Dhabi Set a September Deadline",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Bahrain and Saudi Arabia were already cancelled in 2026. Now Qatar (Nov 27-29) and Abu Dhabi (Dec 4-6) face a mid-September deadline. F1 CEO Domenicali: \"The season will end in Europe if they can't host.\" Imola is the contingency. #F1Fanrecap #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1"
+          ],
+          "char_count": 246
+        },
+        {
+          "label": "Post 1-2",
+          "text": "F1 losing 4 Middle East races in one season has never happened before. Bahrain and Saudi gone. Qatar and Abu Dhabi on the clock — decision by mid-September. The sport's calendar is being redrawn in real time by geopolitics. #F1Fanrecap #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-f1-calendar-crisis-qatar-abu-dhabi-deadline.html",
+        "headline": "F1 Sets September Deadline for Qatar and Abu Dhabi — European Finale Is the Backup Plan",
+        "word_count": 637
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "F1 Calendar Crisis\n\n**Concept 1A — Social (1080×1350)**\n- **Search term:** \"Formula 1 Qatar Grand Prix\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay:** \"Season May End in Europe\"\n- **Status:** not_started\n\n**Concept 1B — Article Hero (1200×630)**\n- **Search term:** \"Stefano Domenicali F1\"\n- **Credit:** (USA TODAY Sports Images)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "F1 Calendar Crisis — Qatar and Abu Dhabi at Risk\n**Facts (HIGH confidence — Sky Sports, Al Jazeera, RacingNews365, GPFans):**\n- Bahrain GP and Saudi Arabian GP already officially cancelled in March 2026 — due to US-Iran war; US/Israel launched airstrikes on Iran; missile and drone attacks hit Gulf states\n- Qatar GP scheduled: Nov 27-29, 2026\n- Abu Dhabi GP scheduled: Dec 4-6, 2026\n- F1 CEO Stefano Domenicali confirmed on July 29 that a mid-September 2026 deadline has been set to decide whether Qatar and Abu Dhabi can proceed\n- Domenicali stated: \"2026 season will definitively end in Europe if Middle East races cannot go ahead\"\n- Primary contingency for Qatar: Imola (Italy), on standby per RTE report\n- Other contingencies: Turkey, Portugal, Hockenheim (Germany) for Abu Dhabi slot\n- WEC (World Endurance Championship) has already confirmed it will not race in Middle East at year-end\n- Domenicali acknowledged December European racing logistics (potential snow)",
+        "sources": "- Source: Sky Sports, Al Jazeera, RacingNews365, GPFans (all July 29 reports)\n**Facts (MEDIUM confidence):**\n- Brexit-related customs complications rule out non-European alternatives at short notice (per Domenicali; single source)\n- Bahrain cancellation came in March 2026; exact announcement date not confirmed in all sources"
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Verstappen Hasn't Answered Red Bull's €65M Counter-Offer — October is the Deadline",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Red Bull offered Verstappen €65M per year through 2029. The condition: no exit clause. Verstappen hasn't responded. October is when the exit clause can be triggered. McLaren sources say negotiations are in \"closing stages.\" #F1Fanrecap #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1"
+          ],
+          "char_count": 239
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Verstappen is 7th in the 2026 championship. His exit clause at Red Bull can be triggered in October. Red Bull wants it removed. He hasn't said yes. The biggest story in motorsport is playing out in silence. #F1Fanrecap #Verstappen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#Verstappen"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-verstappen-red-bull-65m-counter-offer-silence.html",
+        "headline": "Red Bull Offered Verstappen €65 Million a Year. He Hasn't Said Yes. October Is Coming.",
+        "word_count": 673
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Contract Saga\n\n**Concept 2A — Social (1080×1350)**\n- **Search term:** \"Max Verstappen Red Bull\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay:** \"€65M. No Exit Clause. No Answer.\"\n- **Status:** not_started\n\n**Concept 2B — Article Hero (1200×630)**\n- **Search term:** \"Max Verstappen\"\n- **Credit:** (USA TODAY Sports Images)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen Contract Saga — Red Bull's Counter-Offer\n**Facts (HIGH confidence — ESPN, PlanetF1, F1 Oversteer, The Judge13):**\n- Max Verstappen's Red Bull contract runs through 2028 with performance-related exit clauses\n- Exit clause can be triggered in October if Verstappen is NOT in top 2 in championship at summer break\n- Verstappen currently 7th in standings — exit clause is triggerable (confirmed by ESPN, PlanetF1)\n- Red Bull submitted new contract offer: approximately €65M (~$72M) per year through 2029\n- Key condition of Red Bull's offer: removal of all exit clause language\n- As of July 28: Verstappen has NOT responded to the offer (source: TheJudge13 July 28)\n- Sport Bible (July 7): Verstappen and McLaren in \"closing stages\" of negotiations for 2027 move\n- McLaren CEO Zak Brown publicly denies any Verstappen talks, reiterates commitment to Norris/Piastri\n- Piastri/Red Bull swap rumor: Red Bull reportedly targeting Piastri, though Piastri locked in at McLaren until 2028+\n- Verstappen's public stance: \"There's nothing to say\" when asked about future\n- Lambiase (Verstappen's race engineer): reportedly in discussions with McLaren for 2028\n**Facts (MEDIUM confidence):**\n- McLaren \"closing stages\" report from Sport Bible (July 7) — McLaren denies\n- Piastri swap rumor: single source, unconfirmed by parties",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Aston Martin's 16-Part B-Spec Breaks Through — Alonso Reaches Q2",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "16-part overnight upgrade at Hungary. Fernando Alonso reached Q2 for the FIRST TIME all 2026 season. \"That adrenaline was missed.\" Step 2 of the B-spec arrives at Zandvoort. Aston Martin is not giving up. #F1Fanrecap #Alonso #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#Alonso",
+            "#F1"
+          ],
+          "char_count": 228
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-aston-martin-bspec-hungary-alonso-q2.html",
+        "headline": "Sixteen Parts Changed Overnight — Alonso Reaches Q2 for the First Time in 2026",
+        "word_count": 655
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Aston Martin B-Spec\n\n**Concept 3A — Social (1080×1350)**\n- **Search term:** \"Fernando Alonso Aston Martin\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay:** \"Q2 — First Time All Season\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Aston Martin B-Spec Upgrade at Hungarian GP\n**Facts (HIGH confidence — The Race, Autosport, F1.com, Motorsport.com):**\n- Aston Martin debuted 16-part B-spec overhaul at Hungarian GP (July 24-26)\n- Parts changed: front wing, front wing endplate, nose, front corner, floor body, floor corners, floor fences, floor edge, diffuser, sidepod inlet, engine cover, cooling louvres, rear suspension, rear corner, rear wing, beam wing, rear wing endplate\n- Mechanics used team's first curfew exemption of 2026 season to complete overnight installation\n- Primary goals: fix baseline aerodynamic efficiency and weight issues plaguing car all season\n- Results: Fernando Alonso qualified in Q2 for FIRST TIME ALL SEASON (ending streak of back-row qualifications)\n- Alonso quote (F1.com): \"That adrenaline was missed\" — \"I could fight a little bit more\"\n- Alonso race result: 14th\n- Lance Stroll: 13th\n- This is explicitly step 1 of 2 — step 2 debuts at Dutch GP (Aug 21-23) along with Honda PU upgrade\n- Alpine's Franco Colapinto issued \"ominous warning\" about upgraded Aston Martin's potential\n**Facts (MEDIUM confidence):**\n- Specific percentage gain numbers not confirmed (+2.036% quoted in one source but unverified against others)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "F1 Heads Into Summer Break — Antonelli's Title Lead by the Numbers",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "After 11 rounds, Kimi Antonelli holds a 50-point lead over Lewis Hamilton. Norris won Hungary but Antonelli stays on top. He turns 20 during the summer break. 11 rounds remain. This championship is far from over. #F1Fanrecap #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1"
+          ],
+          "char_count": 228
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-f1-championship-standings-summer-break-antonelli.html",
+        "headline": "Antonelli Goes on Holiday with a 50-Point Lead. The Question Is Whether Anyone Can Catch Him.",
+        "word_count": 586
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Championship Standings\n\n**Concept 4A — Social (1080×1350)**\n- **Search term:** \"Kimi Antonelli Mercedes\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay:** \"+50 Points at Summer Break\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "F1 Championship Standings After Hungarian GP (Summer Break)\n**Facts (HIGH confidence — Forbes, TSN, F1.com, Sky Sports):**\n- Hungarian GP (Round 11 of 22): winner Lando Norris (McLaren)\n- Norris result: P1 — first 2026 win for Norris as reigning champion\n- Verstappen: P2 (+15.080 sec, 2 stops)\n- Antonelli: P3 (+18.728 sec, 2 stops)\n- Piastri: retired from P2 with gearbox failure\n- Hamilton: P4→P5 (5-second penalty for pit lane speeding)\n- Leclerc: promoted to podium (P3) after Hamilton penalty applied\n**Championship standings after Round 11:**\n- No. 1: Kimi Antonelli (Mercedes): 219 points\n- No. 2: Lewis Hamilton (Ferrari): 169 points (-50)\n- No. 3: George Russell (Mercedes): 160 points (-59)\n- No. 4: Charles Leclerc (Ferrari): 138 points\n- No. 5: Lando Norris (McLaren): ~128 points\n- No. 7: Max Verstappen (Red Bull): 7th place standing\n- 11 rounds remaining (11 GPs + 2 Sprint races = 291 points still available)\n- Antonelli turns 20 during summer break (born August 25, 2006)\n- If Antonelli wins title, he would be youngest F1 World Champion ever\n**Facts (MEDIUM confidence):**\n- Norris exact points total not confirmed in all sources (~128 range)\n- Exact date of Antonelli birth: August 25, 2006 (sourced from multiple sport references)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Dutch GP Preview — Zandvoort's Finale, Verstappen's Moment of Truth",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The Dutch GP (Aug 21-23) is the last F1 race ever at Zandvoort. First Sprint format at the circuit. And Verstappen's exit clause can be triggered in October — making this potentially his final home race as a Red Bull driver. #F1Fanrecap #DutchGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#DutchGP",
+            "#F1"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-dutch-gp-zandvoort-farewell-verstappen.html",
+        "headline": "The Last Race at Zandvoort: A Farewell with Verstappen's Future in the Balance",
+        "word_count": 646
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Dutch GP\n\n**Concept 5A — Social (1080×1350)**\n- **Search term:** \"Zandvoort Formula 1 circuit\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay:** \"The Last Time at Zandvoort\"\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Dutch GP at Zandvoort — Last Race, Sprint Debut\n**Facts (HIGH confidence — World of Speed, Scuderia Fans, Dutch GP official, The Race):**\n- Dutch GP dates: August 21-23, 2026 (Round 12 of 22)\n- This is the LAST-EVER Formula 1 race at Circuit Zandvoort — F1 will not return after 2026\n- Dutch GP 2026 is a SPRINT WEEKEND — first Sprint format ever held at Zandvoort\n- Sprint weekend schedule:\n- Friday: Sprint Qualifying 16:30 CET\n- Saturday: Sprint Race 12:00 CET (24 laps, ~30 minutes)\n- Saturday: GP Qualifying 16:00 CET\n- Sunday: Main Race 15:00 CET (72 laps)\n- Aston Martin second B-spec upgrade step debuts at Dutch GP\n- Honda power unit upgrade debuts at Dutch GP\n- Verstappen context: If he triggers exit clause in October, Dutch GP could be his last as a Red Bull driver racing at his home circuit\n**Facts (MEDIUM confidence):**\n- Commercial reasons for Zandvoort exit: VAT increase, economics, difficulty attracting top drivers (sold out but financially challenging)\n- Zandvoort F1 history: circuit returned to calendar in 2021 (first Dutch GP since 1985)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
