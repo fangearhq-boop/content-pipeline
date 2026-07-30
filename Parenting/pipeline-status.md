@@ -1,5 +1,46 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: July 30, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | CMZoo Dog Days Friday July 31 (last of summer, adults $34.75/kids $29.75, advance dog tickets at cmzoo.org); Backpack Bash Central Aug. 1 (9 a.m.–noon, Mitchell High School, free PreK–12, 12,000 backpacks, cosbackpackbash.com); Pioneers Museum Colorado 150th Birthday Aug. 1 (10 a.m.–2 p.m., free, live music/food trucks/cake); Hanging with Heroes Aug. 1 (free, First and Main Town Center); Bear Creek Nature Center Evening July 31 (5–9 p.m., ages 7–11, $25/$20 member); D11 $775M bond — board votes Aug. 5 on November ballot, first bond in 22+ years (2004), AC for 50–100yr schools + teacher pay, ~$6.50/month per $100K property value (Gazette July 29, KRDO, KOAA); D49 preschool Aug. 10 (new info); D20 Aug. 13; D11 TBD; 5 CPSC recalls: Babypark carriers (suffocation), POPOOO/Delightmi LED finger lights (button cell), TOMY Boon PIVOT step stools (fall risk, 11 reports, Target/Amazon/Babylist), Target Gigglescape popping toys (choking, 9 reports, 1 confirmed), Peony Design bibs/stroller bags (snap detach, July 23, 2026); 6 governors incl. Polis urged AAP for early math guidance July 23, 2026 (Collaborative for Student Success, GlobeNewswire) |
+| Story History Check | COMPLETE | 5 stories: S1 new (mandatory Thursday roundup), S2 new (D11 bond), S3 follow-up (July 28 S1 — new preschool/D20/D11 details), S4 new (different products from July 28 S3 high chairs), S5 follow-up (July 28 S4 — new practical action angle) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Jamie Rivera (S1, S3, S5), Sarah Morales (S2, S4) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; D20 date from schools-calendar.com (third-party); readers advised to verify at asd20.org |
+| Story Analysis | COMPLETE | 02-story-analysis.md — 5 story sections; headline options, hooks, social angles |
+| X Posts | COMPLETE | 03-social-posts-x.md — 6 posts (S1:2, S2:1, S3:1, S4:1, S5:1); all ≤280 chars (verified after 4 fixes); 4 hashtags each; times in MT |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form posts + 5 Image Captions; engagement questions; NO hashtags; COS voice; 0 exclamation marks |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts; 1200×675 (X) and 1200×630 (FB/hero); clean bottom third; no celebrity likenesses; no brand logos |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 5 stories × 3 image types; all not_started; gemini base_only; kAHCKfCZgk0 brand kit |
+| Articles | COMPLETE | 5 articles (500–800 words; semantic HTML5; What's Next sections; 0 exclamation marks; no figure tags); bylines: Jamie Rivera (A1, A3, A5), Sarah Morales (A2, A4) |
+| Fact-Check | COMPLETE | verify-facts.py passed (0 consistency issues after tweet fixes); 111 claims; 232 HIGH; 111 MEDIUM; 82 LOW; all stories present in all content files; image not_started warnings cosmetic (expected for gemini source) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 6 X posts, 0 FB posts (pre-existing parser limitation), 5 articles, 21 dashboard items; posting window warnings cosmetic |
+| Dashboard | COMPLETE | review-dashboard.html — 21 items |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-07-30.xlsx (6 posts 13:12–20:32 MT, 88 min apart) + cosp-postplanner-tobi-2026-07-30.xlsx (6 TOBI posts) |
+| Dashboard Push | Attempted — proxy blocks write to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API (403 Forbidden) | Same environment restriction as all prior runs |
+
+### 2026-07-30 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 6 X posts (PostPlanner xlsx: 6 posts 13:12–20:32 MT, 6 TOBI)
+- **Articles:** 5 (bylines: Jamie Rivera [A1, A3, A5], Sarah Morales [A2, A4])
+- **PostPlanner exports:** cosp-postplanner-2026-07-30.xlsx (6 posts, 13:12–20:32 MT), cosp-postplanner-tobi-2026-07-30.xlsx (6 TOBI posts)
+- **Coverage:** Weekend Roundup July 31–Aug. 2 (mandatory Thursday roundup; Backpack Bash Central Aug. 1 free PreK–12 Mitchell HS, CMZoo Dog Days July 31 last of summer adults $34.75/kids $29.75, Pioneers Museum Colorado 150th Aug. 1 free, Hanging with Heroes Aug. 1 free First and Main, Bear Creek Nature Center Evening July 31 ages 7–11 $25/$20 member); D11 $775M bond measure (board votes Aug. 5, first bond 22+ years, AC for aging schools + teacher pay, ~$6.50/month per $100K, Gazette/KRDO/KOAA July 29, 2026); Back-to-school update (D49 preschool Aug. 10 [new], D20 Aug. 13, D11 TBD); 5 CPSC recalls (Babypark carriers, POPOOO/Delightmi LED lights, TOMY Boon PIVOT step stools 11 reports, Target Gigglescape 9 reports 1 choking, Peony Design bibs Jul. 23 2026); Governors AAP early math (practical angle: action steps for COS parents, back-to-school tie-in, D49 starts Monday Aug. 3)
+- **Notes:**
+  - Thursday — Weekend Family Roundup included as Story 1 (mandatory per CLAUDE.md)
+  - verify-facts.py: 4 tweets initially over 280 chars; all fixed; 0 consistency issues in final run
+  - Fact-check: image not_started warnings cosmetic (expected for gemini source)
+  - compile: posting window warnings cosmetic; FB posts 0 (pre-existing parser limitation)
+  - WordPress: WP API blocked by proxy (403 Forbidden); same restriction as all prior runs
+  - Dashboard push failed: proxy blocks write to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4]
+  - Research: all facts from web search; no facts from memory
+  - D20 date (Aug. 13) from schools-calendar.com — readers advised to verify at asd20.org (July 28 pipeline had D20 Aug. 17–18 from asd20.org directly; date may have changed or sources differ)
+
+---
+
 ## Latest Run: July 28, 2026
 
 | Step | Status | Notes |

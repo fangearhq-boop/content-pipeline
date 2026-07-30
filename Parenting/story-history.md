@@ -2,6 +2,50 @@
 
 ---
 
+## July 30, 2026
+
+### Story 1: Things to Do with Kids in Colorado Springs This Weekend (July 31–August 2)
+- **Date:** 2026-07-30
+- **Content Pillar:** Local Events
+- **Angle:** THURSDAY WEEKEND ROUNDUP (mandatory) — Five picks: Backpack Bash Central (Aug. 1, 9 a.m.–noon, Mitchell High School, free, PreK–12, cosbackpackbash.com); CMZoo Dog Days Friday (July 31, last of summer, adults $34.75/kids 3–11 $29.75, advance dog tickets at cmzoo.org); Colorado 150th Birthday at Pioneers Museum (Aug. 1, 10 a.m.–2 p.m., free); Hanging with Heroes (Aug. 1, free, First and Main Town Center); Bear Creek Nature Center Evening (July 31, 5–9 p.m., ages 7–11, $25/$20 member).
+- **Content Produced:** Article (Jamie Rivera), 2 X posts, Facebook Long-Form, Facebook Image Caption, Image Concept (x_image + facebook_image + article_hero)
+- **Tier:** 1
+- **Key Facts:** Backpack Bash: Aug. 1, 9 a.m.–noon, Mitchell High School, free PreK–12, 12,000 backpacks total, cosbackpackbash.com; CMZoo Dog Days: July 31, last of summer, $34.75 adult/$29.75 kids 3–11, advance dog tickets required at cmzoo.org; Pioneers Museum 150th: Aug. 1, 10 a.m.–2 p.m., free, live music/food trucks/cake; Hanging with Heroes: Aug. 1, free, First and Main Town Center; Bear Creek: July 31, 5–9 p.m., ages 7–11, $25/$20 member
+
+### Story 2: D11 Considers $775 Million Bond Measure — Board Votes August 5
+- **Date:** 2026-07-30
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — D11's first bond in 22+ years (last 2004). Board votes Aug. 5 on whether to place bond on November 2026 ballot. Funds: AC for schools 50–100 years old, teacher pay increases. Tax impact: ~$6.50/month per $100K property value. Board meeting open to public.
+- **Content Produced:** Article (Sarah Morales), 1 X post, Facebook Long-Form, Facebook Image Caption, Image Concept (x_image + facebook_image + article_hero)
+- **Tier:** 1
+- **Key Facts:** Bond amount: $775M; D11 board vote: Aug. 5, 2026; last bond: 2004 (22+ years); uses: AC for 50–100yr old schools, teacher pay; tax: ~$6.50/month per $100K property value; Sources: Colorado Springs Gazette (July 29, 2026), KRDO, KOAA
+
+### Story 3: COS Back-to-School 2026 — Updated District Calendar Guide
+- **Date:** 2026-07-30
+- **Content Pillar:** Local News
+- **Angle:** FOLLOW-UP from July 28 Story 1 — New details: D49 preschool starts Aug. 10 (not covered July 28), D20 date Aug. 13, D11 date now TBD (board schedule/bond discussions ongoing). Quick Reference table updated.
+- **Content Produced:** Article (Jamie Rivera), 1 X post, Facebook Long-Form, Facebook Image Caption, Image Concept (x_image + facebook_image + article_hero)
+- **Tier:** 2
+- **Key Facts:** D49: Aug. 3 (K/6th/9th), Aug. 4 (all others), Aug. 10 (preschool, new info); D20: Aug. 13; D11: TBD (board active); Sources: d49.org, schools-calendar.com
+
+### Story 4: Five CPSC Recalls Affecting Children's Products — Summer 2026
+- **Date:** 2026-07-30
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (July 28 Story 3 covered high chair hazards — these are different products) — Babypark 3-in-1 infant/toddler carriers (suffocation/fall, Amazon Apr. 2024–May 2026); POPOOO/Delightmi Jungle Safari LED Finger Lights (button cell battery access, Jul. 2025–Apr. 2026); TOMY Boon PIVOT toddler tower/step stools (shifting/leaning, 11 reports, Target/Amazon/Babylist, Jan. 2023–Jun. 2026); Target Gigglescape Under the Sea Popping Toys (dome detaches, choking, 9 reports incl. 1 confirmed); Peony Design personalized baby bibs/stroller bags (snap detach, choking, Jul. 23, 2026 recall).
+- **Content Produced:** Article (Sarah Morales), 1 X post, Facebook Long-Form, Facebook Image Caption, Image Concept (x_image + facebook_image + article_hero)
+- **Tier:** 2
+- **Key Facts:** All 5 recalls sourced from CPSC.gov; TOMY Boon PIVOT: 11 reports, Target/Amazon/Babylist Jan 2023–Jun 2026; Target Gigglescape: 9 reports, 1 choking confirmed; Peony Design: recall issued Jul. 23, 2026; Sources: CPSC.gov, Medical Daily, The BayNet
+
+### Story 5: Six Governors Including Polis Urge AAP to Add Early Math to Well-Child Visits
+- **Date:** 2026-07-30
+- **Content Pillar:** National Parenting
+- **Angle:** FOLLOW-UP from July 28 Story 4 — New angle: practical action steps for COS parents (ask pediatrician now; simple counting games at home; back-to-school timing with D49 starting Monday). Same underlying event (letter sent July 23, 2026), different editorial emphasis.
+- **Content Produced:** Article (Jamie Rivera), 1 X post, Facebook Long-Form, Facebook Image Caption, Image Concept (x_image + facebook_image + article_hero)
+- **Tier:** 2
+- **Key Facts:** 6 governors, incl. Gov. Polis (CO), McKee (RI), Moore (MD), Lamont (CT), Meyer (DE), Stein (NC); letter July 23, 2026 to AAP; Collaborative for Student Success; request: math board/card games at well-child visits; Sources: GlobeNewswire (July 23, 2026), Manila Times
+
+---
+
 ## July 28, 2026
 
 ### Story 1: D49 Back-to-School Dates 2026 — Full District Calendar

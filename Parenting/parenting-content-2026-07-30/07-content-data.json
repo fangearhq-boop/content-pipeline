@@ -1,0 +1,301 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-30",
+  "compiled_at": "2026-07-30T12:41:53.920057+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 (Weekend Roundup)",
+      "type": "X + FB"
+    },
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 (Backpack Bash highlight)",
+      "type": "X"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "Story 2 (D11 Bond)",
+      "type": "X + FB"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 3 (Back-to-School update)",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 (CPSC Recalls)",
+      "type": "X + FB"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 5 (Governors AAP Math)",
+      "type": "X + FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Things to Do with Kids in Colorado Springs This Weekend (July 31–August 2)",
+      "tier": 1,
+      "status": "",
+      "angle": "THURSDAY WEEKEND ROUNDUP (mandatory) — Five events for families this weekend: CMZoo Dog Days Friday (July 31, last of summer, adults $34.75/kids $29.75, advance tickets required), Bear Creek Nature Center Evening Program (July 31, ages 7–11, 5–9 PM, $25/$20 member), Backpack Bash Central (Aug. 1, 9 AM–noon, free, PreK–12), Colorado 150th Birthday Celebration at Pioneers Museum (Aug. 1, 10 AM–2 PM, free), and Hanging with Heroes (Aug. 1, free, First and Main Town Center). Backpack Bash is especially time-sensitive — D49 starts school August 3.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "🎒 This weekend in COS (July 31–Aug. 2):\n\n• Backpack Bash: Aug. 1, FREE, PreK–12\n• CMZoo Dog Days: July 31 (last of summer)\n• Colorado 150th @ Pioneers Museum: Aug. 1, FREE\n• Hanging with Heroes: Aug. 1, FREE\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 268
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Free backpacks for PreK–12 kids in Colorado Springs — Backpack Bash Central is Saturday, Aug. 1, 9 a.m. to noon at Mitchell High School.\n\nD49 starts school in 4 days. This is the last chance.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-weekend-roundup-july-31-aug-2.html",
+        "headline": "Things to Do with Kids in Colorado Springs This Weekend (July 31–August 2)",
+        "word_count": 750
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Weekend Roundup — July 31–August 2\n\n**X Image Prompt (1200×675):**\nA vibrant flat-lay of weekend activity items spread across a light surface — a colorful backpack, zoo admission ticket stub, a cupcake with candles (representing a birthday), and a pair of small sneakers. Warm Saturday morning light, overhead angle. Teal, coral, and gold color palette. No brand logos, no text on any items. Clean lifestyle illustration style. Bottom third: open light-colored surface for text overlay.\n\n**FB Image Prompt (1200×630):**\nA joyful family scene from behind — two adults and two children of mixed ages walking toward a sunny outdoor festival, colorful banners visible in the background, teal and gold pennants in the air. Warm afternoon Colorado summer light. No faces visible — shot from behind. Cheerful, anticipatory mood. Art style: warm lifestyle illustration. Bottom third: grassy foreground for text overlay. No brand logos, no product identifiers.\n\n**Article Hero Prompt (1200×630):**\nA collage-style flat-lay of summer weekend items — a backpack, a pair of binoculars, a cupcake, zoo-style animal figurines, all arranged on a warm wood-grain surface. Overhead angle, warm natural lighting. Teal and coral color accents. Clean bottom third of surface for text. No faces, no brand logos.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Weekend Roundup — July 31–August 2\n**HIGH confidence facts:**\n- CMZoo Dog Days Friday: July 31, 2026, 9 a.m.–5 p.m. (LAST Dog Days Friday of summer 2026); dogs must have advance tickets purchased at cmzoo.org; adult ticket price $34.75 (peak), kids 3–11 $29.75 (peak); dogs welcome with advance ticket\n- Bear Creek Nature Center Evening Program: July 31, 2026, 5 p.m.–9 p.m.; ages 7–11; activities include hiking, games, and nature learning; $25/child ($20/child for members); source: allevents.in\n- Backpack Bash Central: August 1, 2026, 9 a.m.–12 p.m.; Mitchell High School (central COS location); free backpacks for PreK–12 students enrolled in any local public or charter school; 12,000 backpacks distributed in total across all locations; pre-registration encouraged; cosbackpackbash.com; sources: Eventbrite, KOAA, KKFM\n- Colorado 150th Birthday Celebration at Pioneers Museum: August 1, 2026, 10 a.m.–2 p.m.; live music, food trucks, family activities, birthday cake; FREE; sources: allevents.in, visitcos.com\n- Hanging with Heroes: August 1, 2026; FREE outdoor event; First and Main Town Center (Powers Boulevard area); source: allevents.in\n**MEDIUM confidence facts:**\n- Bear Creek Nature Center address: 245 Bear Creek Rd, Colorado Springs (from cmzoo.org context; verify at cmzoo.org or bear creek nature center site)\n- Hanging with Heroes timing: all-day/morning event (specific hours not confirmed from source)\n**Internal links required (per CLAUDE.md):**\n- https://springsdaily.com/events/this-weekend-with-kids\n- https://springsdaily.com/events/free-this-weekend\n- https://springsdaily.com/events/this-weekend\n**Sources:** cmzoo.org, allevents.in, visitcos.com, Eventbrite (cosbackpackbash.com listing), KOAA News 5, KKFM",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "D11 Considers $775 Million Bond Measure — Board Votes August 5",
+      "tier": 1,
+      "status": "",
+      "angle": "NEW STORY — Colorado Springs School District 11 is weighing a $775 million bond measure, its first bond in more than 20 years (the last passed in 2004). The D11 board votes August 5 on whether to place the bond on the November ballot. The measure would fund air conditioning for schools 50 to 100 years old and includes teacher pay increases. Estimated tax impact: approximately $6.50 per month per $100,000 of property value. D11 serves the central Colorado Springs area. Sources: Colorado Springs Gazette (July 29, 2026), KRDO, KOAA.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "📋 D11 may put a $775M bond on November ballot — first in 22 years.\n\nFunds: AC for aging schools, teacher pay increases.\nTax impact: ~$6.50/month per $100K property value.\n\nBoard votes August 5.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-d11-bond-measure-775-million-cos.html",
+        "headline": "D11 Eyes First Bond in 22 Years — $775M Would Fund AC for Aging Schools and Teacher Pay Increases",
+        "word_count": 640
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D11 Bond Measure\n\n**X Image Prompt (1200×675):**\nExterior of a classic mid-century brick school building with large windows and a stone entrance archway, photographed at late afternoon golden hour. Warm Colorado sunlight on the brick facade. No people, no signage, no identifiable branding. Mood: contemplative and civic. Art style: realistic illustration or painterly photography. Bottom third: sidewalk or lawn in front of school for text overlay.\n\n**FB Image Prompt (1200×630):**\nInterior of an empty classroom — rows of desks, chalkboard at the front, windows with afternoon sunlight filtering through. Nostalgic, slightly warm tone suggesting an older building. No people, no identifying features. Mood: familiar and community-oriented. Art style: warm realistic illustration. Bottom third: floor area near the front of the room for text overlay. No brand logos.\n\n**Article Hero Prompt (1200×630):**\nClose-up of a voting ballot being marked with a pen on a clipboard, beside a small stack of school supply-themed items — pencil, notebook edge visible. Civic and purposeful mood. Soft natural light. Dark slate and teal accents. No identifiable voter information, no ballot text visible. Art style: clean lifestyle illustration. Bottom third: clipboard/desk surface for text.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D11 Bond Measure — $775 Million\n**HIGH confidence facts:**\n- Bond amount: $775 million\n- District: Colorado Springs School District 11 (D11)\n- Board vote date: August 5, 2026 — to decide whether to place bond on November 2026 ballot\n- Last D11 bond: 2004 (22+ years ago)\n- Proposed uses: air conditioning for schools 50–100 years old; teacher pay increases\n- Tax impact: approximately $6.50 per month per $100,000 of property value",
+        "sources": "- Sources: Colorado Springs Gazette (July 29, 2026), KRDO, KOAA\n**MEDIUM confidence facts:**\n- Number of D11 schools without air conditioning: not confirmed in search; context suggests \"many\" older schools lack AC\n- Exact ballot language: not yet finalized (board votes Aug. 5)\n**Sources:** Colorado Springs Gazette (July 29, 2026), KRDO News 13, KOAA News 5"
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "COS Back-to-School 2026 — Updated District Calendar Guide",
+      "tier": 2,
+      "status": "",
+      "angle": "FOLLOW-UP (July 28 Story 1 covered D49 dates) — New details and updated picture for all three major COS districts. D49: K/6th/9th students start August 3, all others August 4, preschool August 10 (staggered). D20 (Academy District): August 13 start date. D11: date TBD as the district's board meeting and bond discussions (see Story 2) remain active. Key for families: D49 is the most urgent — school begins in four days.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "📅 COS back-to-school 2026 update:\n\nD49: Aug. 3 (K/6th/9th), Aug. 4 (all others), Aug. 10 (preschool)\nD20: Aug. 13\nD11: TBD — board meeting pending\n\nD49 starts in 4 days.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-cos-back-to-school-2026-district-dates.html",
+        "headline": "COS Back-to-School 2026: D49 Starts Monday, D20 on August 13, D11 Date Still Pending",
+        "word_count": 539
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "COS Back-to-School 2026 — Updated Dates\n\n**X Image Prompt (1200×675):**\nOverhead flat-lay of an August calendar page with several dates circled or marked in teal and coral ink — generic dates, no specific numbers identifiable — surrounded by a pencil, eraser, and small spiral notebook. Clean white desk surface. Warm overhead light. Art style: clean graphic lifestyle photography. Bottom third: open calendar surface for text overlay. No brand logos.\n\n**FB Image Prompt (1200×630):**\nA child's backpack, lunchbox, and new sneakers lined up neatly beside a front door in warm morning light — ready-for-school composition, shot from a low angle. Teal backpack, coral lunchbox. Hopeful, slightly nostalgic mood. No faces. Art style: warm lifestyle illustration. Bottom third: doorstep or floor area for text overlay. No brand logos.\n\n**Article Hero Prompt (1200×630):**\nThree backpacks in different colors — teal, coral, gold — hanging on a row of hooks against a clean white wall. Clean organizational composition. Warm even lighting. No faces, no brand logos. Bottom third: wall space below hooks for text.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "COS Back-to-School 2026 — Updated District Dates\n**HIGH confidence facts:**\n- D49 (Falcon School District 49) K/6th/9th grade first day: August 3, 2026 (d49.org)\n- D49 all other students first day: August 4, 2026 (d49.org)\n- D49 preschool first day: August 10, 2026 (staggered entry per d49.org)\n- D20 (Academy District 20) first day: August 13, 2026 (schools-calendar.com)\n- D11 (Colorado Springs School District 11) first day: TBD — board meeting and bond schedule ongoing; \"families have more time\" per district communications\n**MEDIUM confidence facts:**\n- D20 August 13 date: from schools-calendar.com (third-party aggregator); families should verify at asd20.org\n- D11 TBD status: consistent with board meeting schedule and bond discussions; families should check d11.org\n**Sources:** d49.org, schools-calendar.com, springsdaily.com",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Five CPSC Recalls Affecting Children's Products — Summer 2026 Safety Roundup",
+      "tier": 2,
+      "status": "",
+      "angle": "NEW STORY — Five children's product recalls issued or confirmed this summer warrant attention before families gear up for back-to-school. Babypark 3-in-1 infant/toddler carriers (suffocation risk — leg openings too large); POPOOO/Delightmi Jungle Safari LED Finger Lights (button cell battery access); TOMY Boon PIVOT toddler tower/kitchen step stools (shifting and leaning risk, 11 reports, sold at Target/Amazon/Babylist); Target Gigglescape Under the Sea Popping Toys (dome detaches exposing small choking-hazard balls, 9 reports including 1 choking); Peony Design personalized baby bibs/stroller bags (snap can detach, choking risk). Sources: CPSC.gov, Medical Daily, The BayNet.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "🚨 Five CPSC recalls for kids' products:\n\n• Babypark carriers — suffocation risk\n• Boon PIVOT step stools — fall risk\n• Target Gigglescape toys — choking\n• Peony Design bibs — detachment hazard\n\nFull list: cpsc.gov\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-cpsc-summer-recalls-children-products-2026.html",
+        "headline": "Five Children's Product Recalls COS Parents Should Check Before School Starts",
+        "word_count": 689
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "CPSC Summer Recalls\n\n**X Image Prompt (1200×675):**\nA clean graphic safety alert visual: five simple generic children's product silhouettes (a baby carrier, a step stool, a popping toy, a bib, a finger light) arranged in a soft grid on an off-white background. A bold coral caution triangle rendered as an illustration element — not text. Art style: clean vector-style illustration. Bottom third: off-white background for text overlay. No brand logos, no product identifiers.\n\n**FB Image Prompt (1200×630):**\nAn adult hand holding a generic infant carrier up for inspection, shown from waist up, in a bright airy nursery setting. Careful, attentive mood. Warm morning nursery light. No faces, no branded items. Art style: realistic illustration with soft editorial feel. Bottom third: nursery background blurred for text overlay. No brand logos.\n\n**Article Hero Prompt (1200×630):**\nA tidy baby gear flat-lay — generic infant carrier, step stool, small toy, bib — arranged on a light pastel background. Clean overhead composition. The items are clearly identifiable by type but carry no branding. Subdued, safety-check mood. Teal and coral accents. Bottom third: open background space for text. No logos.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "CPSC Summer 2026 Children's Product Recalls\n**HIGH confidence facts:**\n**Babypark 3-in-1 Soft Infant/Toddler Carriers:**\n- Hazard: leg openings too large — suffocation/fall risk for infants\n- Sold: Amazon.com, approximately April 2024–May 2026\n- Action: stop use immediately; contact seller for refund",
+        "sources": "- Source: CPSC.gov\n**POPOOO/Delightmi Jungle Safari LED Finger Lights:**\n- Hazard: accessible button cell battery compartment — ingestion risk for young children\n- Sold: approximately July 2025–April 2026\n- Action: keep away from children; contact seller\n- Source: CPSC.gov\n**TOMY Boon PIVOT Toddler Tower/Kitchen Step Stools:**\n- Hazard: product shifts and leans when child is on it — fall risk; 11 reports of incidents\n- Sold: Target.com, Amazon, Babylist; January 2023–June 2026\n- Action: stop use; contact TOMY/Boon for remedy\n- Source: CPSC.gov, Medical Daily\n**Target Gigglescape Under the Sea Popping Toys:**\n- Hazard: dome detaches, exposing small balls — choking hazard; 9 reports including 1 choking incident\n- Sold: Target stores and Target.com\n- Action: stop use; return to Target for refund\n- Source: CPSC.gov\n**Peony Design Personalized Baby Bibs/Stroller Bags:**\n- Recall date: July 23, 2026\n- Hazard: snap can detach from fabric — choking hazard for infants\n- Action: stop use; contact Peony Design for refund\n- Source: CPSC.gov\n**Sources:** CPSC.gov (multiple recall pages), Medical Daily, The BayNet, getkeptapp.com"
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Colorado's Gov. Polis Among Six Governors Urging AAP to Add Early Math to Well-Child Visits",
+      "tier": 2,
+      "status": "",
+      "angle": "FOLLOW-UP / EXPANDED (July 28 Story 4 covered this story; new angle for July 30: what COS parents can do now) — On July 23, 2026, six governors — including Colorado's Jared Polis — sent a letter to the American Academy of Pediatrics urging formal early numeracy guidance modeled on the AAP's existing literacy program. The practical angle for COS families: ask your child's pediatrician about early math milestones at your next well-child visit. Counting, sorting, and simple number games build the numeracy skills that predict long-term academic success. This is especially timely with D49's first day of school four days away.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Gov. Polis joined 5 other governors urging the AAP to add early math guidance to well-child visits — same way pediatricians already promote reading.\n\nD49 starts Monday — a good time to try counting games at home.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-governors-aap-early-math-polis-colorado.html",
+        "headline": "Six Governors, Including Colorado's Polis, Are Asking Pediatricians to Add Math to Well-Child Visits",
+        "word_count": 707
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Governors AAP Early Math\n\n**X Image Prompt (1200×675):**\nA young child's hands (ages 3–5, only hands visible) arranging brightly colored wooden number tiles and small counting cubes on a light wood kitchen table. Warm afternoon window light. Playful, focused mood. Teal and gold color accents on the tiles. Art style: warm lifestyle illustration. Bottom third: table surface with a few tiles for text overlay. No faces, no brand logos.\n\n**FB Image Prompt (1200×630):**\nOverhead view of a family number game in progress — two sets of hands (one adult, one child) visible around a colorful board game featuring numbers, dice, and small teal and coral game pieces on a warm wood table. Active, engaged scene. Clean natural overhead light. Art style: clean lifestyle illustration. Bottom quarter: open table edge for text overlay. No faces, no brand logos.\n\n**Article Hero Prompt (1200×630):**\nSide-angle view of a parent and child (ages 4–6) sitting close together at a kitchen table, leaning over a counting game — only partial figures visible from shoulders down, no faces shown. Number cards, dice, and a small abacus visible. Warm afternoon kitchen light. Cozy, learning-focused mood. Bottom third: table edge and kitchen background for text. No brand logos."
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Governors Urge AAP — Early Math\n**HIGH confidence facts:**\n- Letter date: July 23, 2026\n- Number of signatories: 6 governors\n- Colorado signatory: Gov. Jared Polis (confirmed, GlobeNewswire)\n- Other signatories: Daniel McKee (RI), Wes Moore (MD), Ned Lamont (CT), Matt Meyer (DE), Josh Stein (NC)\n- Organization coordinating: Collaborative for Student Success\n- Recipient: American Academy of Pediatrics (AAP)\n- Model: AAP's existing \"literacy prescription\" / Reach Out and Read program\n- Governors' specific ask: AAP should recommend math-based board and card games for home use\n- Research basis: math skills at kindergarten entry are strong predictors of long-term academic outcomes\n**MEDIUM confidence facts:**\n- Whether AAP has responded: no confirmed response as of July 30, 2026\n**Sources:** GlobeNewswire press release (July 23, 2026), Manila Times\n## Story History Check\n| Story | Status | Prior Coverage |\n|-------|--------|---------------|\n| Weekend Roundup July 31–Aug 2 | NEW | Mandatory Thursday roundup; no overlap with prior content |\n| D11 Bond Measure $775M | NEW | No prior coverage of this bond vote |\n| COS Back-to-School district dates | FOLLOW-UP | July 28 Story 1 covered D49 first day; new preschool date, D20 update, D11 TBD status |\n| CPSC Summer recalls roundup | NEW | July 28 Story 3 covered high chair hazards (different products) |\n| Governors AAP early math | FOLLOW-UP | July 28 Story 4; new angle: practical action steps for COS parents |",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
