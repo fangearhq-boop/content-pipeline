@@ -1,0 +1,312 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-30",
+  "compiled_at": "2026-07-30T12:25:04.522225+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 (Eala def. Fernandez)",
+      "type": "X + FB"
+    },
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 (Eala QF angle)",
+      "type": "X"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2 (DC Open ATP results)",
+      "type": "X + FB"
+    },
+    {
+      "time": "11:30 AM",
+      "description": "Story 2 (Fritz/Shelton QF angle)",
+      "type": "X"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 3 (WTA upsets)",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 (Los Cabos Wong upsets Lehecka)",
+      "type": "X + FB"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 5 (Canadian Open preview)",
+      "type": "X + FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Eala Dethrones Fernandez — DC Open WTA QF Bound After Stunning Sweep",
+      "tier": 1,
+      "status": "",
+      "angle": "NEW STORY (follow-up to July 28 Story 3 preview) — Alexandra Eala (Philippines, No. 28 WTA) knocked out defending DC Open champion Leylah Fernandez 6-2, 7-6(7/1) on Wednesday July 29, rallying from 5-1 down in the second set to reach the quarterfinals in Washington. One day earlier, Eala had defeated Qinwen Zheng (former Olympic champion) 4-6, 6-4, 6-1 in a comeback win from a set down. Eala is unseeded and has now beaten two high-profile opponents in back-to-back days. Context: Eala reached the Wimbledon R4 in July after defeating Rybakina and Swiatek; she now holds a career-high ranking of No. 28 and won the WTA Star of the Swing award. QF schedule: Friday July 31.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Alex Eala is having a SUMMER. 🇵🇭\n\nWimbledon: def. Rybakina, def. Swiatek, reached R4.\nDC Open: def. Zheng, def. defending champion Fernandez.\n\nShe's in the quarterfinals in Washington. She's No. 28 in the world.\n\n#Tennis #DCOpen #WTATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#DCOpen",
+            "#WTATour"
+          ],
+          "char_count": 237
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Down a set to Zheng. Down 5-1 in the second to Fernandez.\n\nEala won both matches anyway.\n\nDC Open QF: Friday.\n\n#Tennis #DCOpen #AlexEala",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#DCOpen",
+            "#AlexEala"
+          ],
+          "char_count": 136
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-eala-dethrones-fernandez-dc-open-qf.html",
+        "headline": "Eala Dethrones Defending Champion Fernandez to Reach DC Open Quarterfinals",
+        "word_count": 619
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Eala Dethrones Fernandez\n\n**X/Social Image:**\n- Search term: `Alex Eala`\n- Direction: Eala celebrating or pumping fist in match action on hard court\n- Overlay text: \"DC OPEN QF — Eala def. Fernandez 6-2, 7-6(1)\"\n- Status: not_started\n\n**Article Hero Image:**\n- Search term: `Alex Eala`\n- Direction: Eala in match action, clean hard court surface\n- Used as article hero (1200x630)\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Eala Dethrones Fernandez at DC Open\n**HIGH confidence facts:**\n- Alexandra Eala (Philippines) def. Leylah Fernandez (7th seed, defending champion) 6-2, 7-6(7/1) to reach the DC Open quarterfinals (WTA Tour official, baltimoresun.com, cp24.com, Inquirer Sports, Philstar.com, justwomenssports.com)\n- Eala rallied from 5-1 down in the second set before winning the tiebreak 7-1 (WTA Tour official article: \"Eala dethrones defending champ Fernandez to make Washington quarters\")\n- Eala had defeated Qinwen Zheng (former Olympic champion) 4-6, 6-4, 6-1 in Round 1 to advance (WTA Tour official, tennisuptodate.com Day Two Round-Up)\n- Eala is unseeded and ranked No. 28 (career-high set July 13, 2026 post-Wimbledon) (GMA Network, Manila Times, Rappler)\n- Eala won the WTA Star of the Swing award for the grass-court season (justwomenssports.com, WTA)\n- Eala reached Wimbledon R4 in 2026, defeating Elena Rybakina and Iga Swiatek — first Filipina to reach the Wimbledon R4 (GMA Network, Manila Times, Philstar.com)\n- Eala's quote on resilience: \"I've already had that in me\" — WTA Tour article headline\n- Fernandez had been the defending DC Open champion (WTA Tour official)\n- QF scheduled Friday July 31 (tournament schedule)\n**Sources:** WTA Tour (wtatennis.com), Baltimore Sun, CP24.com, Inquirer Sports (sports.inquirer.net), Philstar.com, justwomenssports.com, GMA Network, Manila Times, Rappler, tennisuptodate.com, Peninsula Qatar",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "DC Open ATP — de Minaur Opens Defense; Shelton, Mensik, Fritz All Advance",
+      "tier": 1,
+      "status": "",
+      "angle": "NEW STORY — Alex de Minaur (1, AUS, defending champion) defeated Stefanos Tsitsipas 6-4, 3-6, 6-3 in Round 1 on Wednesday July 29, snapping a 12-1 career deficit to Tsitsipas. Ben Shelton (2) defeated Ugo Humbert 6-4, 4-6, 6-4 in Round 2 on Thursday July 30. Jakub Mensik (7) defeated Brandon Nakashima 6-2, 6-7(5), 6-3 in Round 2. Taylor Fritz (3) defeated Kamil Majchrzak 6-3, 6-4 and will face Alex Michelsen in the QF. Also: 19-year-old Spaniard Rafael Jodar upset No. 8 seed Arthur Fils 7-6(5), 6-3 on Tuesday and then beat Kei Nishikori 6-3, 6-2 on Wednesday. Learner Tien (5) was upset in R1 by Adrian Mannarino. American men are struggling — Fils, Tien both gone. QF: Friday July 31.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "DC Open ATP results ✅\n\nDe Minaur def. Tsitsipas 6-4, 3-6, 6-3\n(snaps 12-1 H2H deficit — defending champion through)\n\nShelton def. Humbert 6-4, 4-6, 6-4\nMensik def. Nakashima 6-2, 6-7(5), 6-3\nFritz def. Majchrzak 6-3, 6-4\n\nQF: Friday.\n\n#ATPTour #DCOpen #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPTour",
+            "#DCOpen",
+            "#Tennis"
+          ],
+          "char_count": 259
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Fils. Tien. Both out in Round 1 in Washington.\n\nJodar (19 years old, Spanish) beat Fils 7-6, 6-3, then beat Nishikori 6-3, 6-2.\n\nThe American men are struggling. The young Europeans are not.\n\n#Tennis #DCOpen #ATPTour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#DCOpen",
+            "#ATPTour"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-dc-open-atp-deminaur-shelton-fritz-qf.html",
+        "headline": "De Minaur Snaps Tsitsipas Trend; Shelton, Mensik, Fritz Reach DC Open Quarterfinals",
+        "word_count": 564
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "DC Open ATP Results\n\n**X/Social Image:**\n- Search term: `Alex de Minaur`\n- Direction: de Minaur in celebration or mid-swing, hard court preferred\n- Overlay text: \"TITLE DEFENSE — De Minaur def. Tsitsipas 6-4, 3-6, 6-3\"\n- Status: not_started\n\n**Article Hero Image:**\n- Search term: `Ben Shelton`\n- Direction: Shelton serve or fist-pump; hard court setting\n- Used as article hero (1200x630)\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "DC Open ATP — de Minaur, Shelton, Mensik, Fritz Advance\n**HIGH confidence facts:**\n- Alex de Minaur (1, AUS, defending champion) def. Stefanos Tsitsipas 6-4, 3-6, 6-3 in R1 on Wednesday July 29 (ATP Tour, Baltimore Sun, Yahoo Sports, Field Level Media, Tennis Grandstand, Neos Kosmos)\n- De Minaur snapped a 12-1 head-to-head deficit vs. Tsitsipas to open his title defense (ATP Tour article: \"Alex de Minaur snaps Stefanos Tsitsipas trend to begin Washington title defence\")\n- Ben Shelton (2) def. Ugo Humbert 6-4, 4-6, 6-4 (R2, July 30) (research agent composite/ATP Tour)\n- Jakub Mensik (7) def. Brandon Nakashima 6-2, 6-7(5), 6-3 (R2, July 30) (tennisuptodate.com, Tennis Tonic, TennisTonic \"WASHINGTON RESULTS: Ben Shelton, Brandon Nakashima, Rafael Jodar, Jakub Mensik win on Tuesday\" — note: Nakashima won Tuesday R1 then lost to Mensik in R2)\n- Taylor Fritz (3) def. Kamil Majchrzak 6-3, 6-4 (R2) → QF vs. Alex Michelsen (ATP Tour, Field Level Media, Yahoo Sports)\n- Alex Michelsen def. Adrian Mannarino 6-4, 7-6(3) (R2) (Yahoo Sports)\n- Rafael Jodar (ESP, 19) upset No. 8 seed Arthur Fils 7-6(5), 6-3 in R1 (ATP Tour, Sofascore, Tennis Majors); Jodar then def. Kei Nishikori 6-3, 6-2 in R2 (ATP Tour)\n- Fils received medical treatment during match; has a recurring back and hip injury (Tennis Majors)\n- Learner Tien (5) lost R1 to Adrian Mannarino; Mannarino is 38 years old, ranked No. 47; Mannarino won 73% of his second-serve return points against Tien (Baltimore Sun, ESPN)\n- Tien was career-best No. 16 entering the tournament (Baltimore Sun)\n- Fils and Tien both eliminated — American men's struggles (Baltimore Sun headline: \"DC Open results: More American men suffer upset losses; young stars emerge\")\n- Men's QF scheduled Friday July 31 (tournament schedule)\n- Tournament: William H.G. FitzGerald Tennis Center, Washington D.C., July 27–August 2 (ATP official)\n**Sources:** ATP Tour (atptour.com), Field Level Media, Yahoo Sports, Baltimore Sun, Tennis Grandstand, Neos Kosmos, Tennis Majors, Sofascore, ESPN, Tennis Tonic, TennisUpToDate",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "DC Open WTA Upsets — Svitolina, Shnaider Fall; Wild QF Draw",
+      "tier": 2,
+      "status": "",
+      "angle": "NEW STORY — The DC Open WTA has seen two major seeding upsets in the round of 16: No. 2 seed Elina Svitolina was eliminated by Polina Kudermetova 5-7, 7-6(4), 6-0 and No. 4 seed Diana Shnaider was beaten by Anna Kalinskaya 6-4, 6-1. No. 1 seed Jessica Pegula defeated Magdalena Frech 6-4, 6-3 and is through to the QF. No. 3 seed Naomi Osaka defeated Ashlyn Krueger 3-6, 6-2, 6-2. Emma Navarro def. Elisabetta Cocciaretto 6-0, 7-5. Also: Venus Williams was eliminated in Round 1 by Anastasia Potapova 6-3, 6-3 — Williams' losing streak extended to 12 matches, and she has not won a match in 2026. QF Friday July 31.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "DC Open WTA Round of 16 upsets:\n\nNo. 2 Svitolina ❌ (lost to Kudermetova 5-7, 7-6, 6-0)\nNo. 4 Shnaider ❌ (lost to Kalinskaya 6-4, 6-1)\n\nNo. 1 Pegula ✅\nNo. 3 Osaka ✅\n\nVenus Williams fell to Potapova in R1. Losing streak: 12.\n\n#Tennis #DCOpen #WTATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#DCOpen",
+            "#WTATour"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-dc-open-wta-upsets-svitolina-shnaider-venus.html",
+        "headline": "Svitolina, Shnaider Upset in DC Open Round of 16; Venus Williams Loses as Losing Streak Hits 12",
+        "word_count": 563
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "DC Open WTA Upsets\n\n**X/Social Image:**\n- Search term: `Anna Kalinskaya`\n- Direction: Kalinskaya in match action or celebrating on hard court\n- Overlay text: \"UPSETS — Svitolina & Shnaider Both Fall in DC\"\n- Status: not_started\n\n**Article Hero Image:**\n- Search term: `Elina Svitolina`\n- Direction: Svitolina in match play; conveys competitor caught off guard\n- Alternative: `Jessica Pegula` hard court action\n- Used as article hero (1200x630)\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "DC Open WTA Upsets — Svitolina and Shnaider Fall\n**HIGH confidence facts:**\n- Polina Kudermetova def. No. 2 seed Elina Svitolina 5-7, 7-6(4), 6-0 (research composite — search result listed as QF/R2 result; per tournament structure this is R2/Round of 16)\n- Anna Kalinskaya def. No. 4 seed Diana Shnaider 6-4, 6-1 (research composite)\n- No. 1 seed Jessica Pegula def. Magdalena Frech 6-4, 6-3 (research composite; WTA)\n- Naomi Osaka (3) def. Ashlyn Krueger 3-6, 6-2, 6-2 (research composite; tennisuptodate.com: \"Naomi Osaka benefits from early retirement\" context — note: confirmed win)\n- Emma Navarro def. Elisabetta Cocciaretto 6-0, 7-5 (research composite)\n- Anastasia Potapova def. Venus Williams 6-3, 6-3 in R1 — Potapova's first-ever DC Open win; Williams' losing streak extended to 12 matches; Williams is 0 wins in 2026 (wtatennis.com article: \"Potapova finally breaks through in Washington after beating Venus Williams in opener\"; justwomenssports.com)\n- Williams' last win came at the 2025 DC Open (search composite)\n- Kalinskaya had defeated Daria Kasatkina 6-4, 6-1 in R1 before beating Shnaider (WTA Tour match pages)\n- QF scheduled Friday July 31; SFs Saturday August 1; Final August 2 (tournament schedule)\n- Draw description: Pegula-Keys and Osaka-Svitolina were projected potential SF matchups from draw release; actual QF picture shifted due to upsets (WTA draw announcement)\n**Sources:** WTA Tour (wtatennis.com), tennisuptodate.com Day Three Round-Up, justwomenssports.com, research composite",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Los Cabos ATP 250 — Coleman Wong Shocks Top Seed Lehecka",
+      "tier": 2,
+      "status": "",
+      "angle": "NEW STORY — The biggest upset of the week's North American hard court swing: Coleman Wong (HKG) defeated top seed Jiri Lehecka (1) 1-6, 6-3, 6-4 at the Mifel Tennis Open by Telcel in Los Cabos on Wednesday July 29. ATP Tour described Wong's win as the biggest of his career by PIF ATP Ranking. Wong is closing in on his top-100 debut. Also advancing: No. 3 seed Francisco Cerundolo def. Tristan Boyer 7-5, 6-2; Cameron Norrie (5) def. James Duckworth 4-6, 6-3, 6-4 (his second win of the week); Denis Shapovalov (8, defending champion) def. Rodrigo Pacheco Mendez. QF stage taking shape through July 30.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Coleman Wong (HKG) def. No. 1 seed Jiri Lehecka 1-6, 6-3, 6-4 in Los Cabos.\n\nATP Tour called it Wong's biggest career win by ranking.\n\nHe's closing in on the top 100.\n\n#ATPTour #LosCabos #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPTour",
+            "#LosCabos",
+            "#Tennis"
+          ],
+          "char_count": 194
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-los-cabos-coleman-wong-upsets-lehecka.html",
+        "headline": "Coleman Wong Shocks Top Seed Lehecka in Los Cabos, Closing In on Top-100 Debut",
+        "word_count": 569
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Los Cabos — Coleman Wong Upsets Lehecka\n\n**X/Social Image:**\n- Search term: `Jiri Lehecka`\n- Direction: Lehecka mid-match; hard court setting; conveys adversity\n- Overlay text: \"UPSET — Wong def. No. 1 Lehecka in Los Cabos\"\n- Status: not_started\n\n**Article Hero Image:**\n- Search term: `Cameron Norrie`\n- Direction: Norrie in match action; confident pose\n- Used as article hero (1200x630)\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Los Cabos ATP 250 — Coleman Wong Upsets Lehecka\n**HIGH confidence facts:**\n- Coleman Wong (HKG) def. No. 1 seed Jiri Lehecka 1-6, 6-3, 6-4 in R2 (ATP Tour, TennisTemple, tennis.com match page Lehecka vs Wong July 30)\n- ATP Tour headline: \"Coleman Wong upsets top seed Jiri Lehecka in Los Cabos, closes in on Top 100 debut\"\n- Wong's win described as biggest career win by PIF ATP Ranking (ATP Tour)\n- Francisco Cerundolo (3) def. Tristan Boyer 7-5, 6-2 in R2 (TennisTonic)\n- Cameron Norrie (5) def. James Duckworth 4-6, 6-3, 6-4 in R2 (ATP Tour: \"Cameron Norrie rediscovers winning touch in 'special' Los Cabos\")\n- Denis Shapovalov (8, defending champion) def. Rodrigo Pacheco Mendez (home favourite) in R1 (ATP Tour: \"Defending Los Cabos champ Denis Shapovalov wins opener, wishes wife Mirjam a Happy Birthday\"; Shapovalov 5-0 in Los Cabos career record per ATP Tour)\n- Luciano Darderi (2) advanced to Round of 16 (research composite)\n- Karen Khachanov (4) advanced (research composite)\n- Tournament: Mifel Tennis Open by Telcel Oppo (ATP 250), Los Cabos, Mexico, July 27–August 1, 2026, 10th anniversary (ATP Tour)\n**Sources:** ATP Tour (atptour.com), TennisTemple, tennis.com, TennisTonic, tennisexplorer.com, research composite",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Canadian Open Preview — Sinner Out, Draws Friday, FAA at Home",
+      "tier": 2,
+      "status": "",
+      "angle": "FOLLOW-UP (July 28 Story 5) — The Canadian Open draws ceremony is Friday July 31. Big news: Jannik Sinner (World No. 1) has withdrawn from ATP Montreal, citing rest ahead of Cincinnati; the tournament director publicly criticized the ATP over the withdrawal. Sinner joins Djokovic and Alcaraz as no-shows for ATP Montreal — the full top-three absent. On the WTA side, defending Toronto champion Victoria Mboko is out (injury), as is Karolina Muchova and Emma Raducanu. ATP seeds: Zverev (1), Felix Auger-Aliassime (2, playing at home in Montreal). WTA seeds: Sabalenka (1), Rybakina (2), Pegula (3), Gauff (4), Noskova (6, Wimbledon champion). Main draws begin Aug 2 (WTA) and Aug 4 (ATP).",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Canadian Open draws: Friday.\n\nATP Montreal — confirmed absent:\n🚫 No. 1 Sinner\n🚫 Djokovic\n🚫 Alcaraz\n\nThe tournament director is not happy.\n\nSeeds: Zverev (1), FAA (2) at home in Montreal.\n\nDraws July 31. Main draw Aug 4.\n\n#Tennis #CanadianOpen #NationalBankOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#CanadianOpen",
+            "#NationalBankOpen"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-canadian-open-sinner-withdrawal-preview.html",
+        "headline": "Canadian Open Draws Friday With Three Top ATP Stars Absent; Sinner Withdrawal Draws Criticism",
+        "word_count": 644
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Canadian Open Preview\n\n**X/Social Image:**\n- Search term: `Felix Auger-Aliassime`\n- Direction: FAA in hard court match action; celebratory or aggressive pose\n- Overlay text: \"CANADIAN OPEN — Draws Friday. FAA at home in Montreal.\"\n- Status: not_started\n\n**Article Hero Image:**\n- Search term: `Alexander Zverev`\n- Direction: Zverev in hard court match action\n- Alternative: `Aryna Sabalenka` hard court action\n- Used as article hero (1200x630)\n- Status: not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Canadian Open Preview — Sinner Withdrawal Controversy\n**HIGH confidence facts:**\n- Canadian Open draw ceremony: Friday July 31, 2026 (Tennis365, tips.gg, tennisuptodate.com)\n- Jannik Sinner (World No. 1) has withdrawn from ATP Montreal citing rest ahead of Cincinnati; tournament director publicly criticized ATP over timing of withdrawal (Yahoo Sports: \"Canada Masters director airs grievances with ATP\"; Tennis365, CBC, Sports Illustrated, ProFootballNetwork: \"'A Pathetic Joke' — Tennis Community Erupts...\")\n- Novak Djokovic has withdrawn and has not competed at the Canadian Open since 2018 (ATP source)\n- Carlos Alcaraz is not in the entry list; has been sidelined since wrist injury during clay season (research composite)\n- Jack Draper withdrawn (previously reported July 28)\n- ATP Montreal seeds: Zverev (1, 2026 Roland-Garros champion, Wimbledon finalist), Felix Auger-Aliassime (2, career-high No. 4, QF Roland-Garros and Wimbledon 2026, first Canadian seeded No. 2 at the Canadian event since Bianca Andreescu in 2021) (National Bank Open official site, Tennis365, sirc.ca, TennisTourTalk)\n- WTA Toronto withdrawals: Victoria Mboko (defending champion, injury), Karolina Muchova, Emma Raducanu (Tennis365: \"Canadian Open withdrawal list: List grows to 8\"; tennisuptodate.com: \"10 stars missing\")\n- WTA Toronto seeds: Sabalenka (1), Rybakina (2), Pegula (3), Gauff (4), Andreeva (5), Noskova (6, Wimbledon champion), Swiatek (7), Anisimova (8) (National Bank Open official, WTA)\n- WTA main draw begins August 2; ATP main draw begins August 4 (flashscoreusa.com, tips.gg)\n- Tournament venues: WTA at Sobeys Stadium, Toronto; ATP at IGA Stadium, Montreal (flashscoreusa.com)\n**Sources:** National Bank Open official (nationalbankopen.com), Tennis365, CBC (cbc.ca), Yahoo Sports, SI.com, ProFootballNetwork, Taipei Times, tennisuptodate.com, tips.gg, flashscoreusa.com, sirc.ca, TennisTourTalk, Global Tennis News, research composite",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

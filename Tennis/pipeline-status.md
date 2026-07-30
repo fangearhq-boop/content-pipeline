@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-07-28 |
-| Writing | Complete (all steps) | 2026-07-28 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 32 claims, 71 HIGH) | 2026-07-28 |
-| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 0 FB posts, 5 articles) | 2026-07-28 |
-| Dashboard | Complete (review-dashboard.html, 22 items) | 2026-07-28 |
-| PostPlanner Export | Complete (standard 7 posts 12:59–20:41 ET; TOBI 7 posts) | 2026-07-28 |
-| WordPress Publish | Attempted — WP API blocked by proxy egress policy (403 Forbidden; same environment restriction as all prior runs) | 2026-07-28 |
-| Dashboard Push | Attempted — proxy blocks push to content-dashboards repo | 2026-07-28 |
+| Research | Complete | 2026-07-30 |
+| Writing | Complete (all steps) | 2026-07-30 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 47 claims, 87 HIGH) | 2026-07-30 |
+| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 0 FB posts, 5 articles) | 2026-07-30 |
+| Dashboard | Complete (review-dashboard.html, 22 items) | 2026-07-30 |
+| PostPlanner Export | Complete (standard 7 posts; TOBI 7 posts) | 2026-07-30 |
+| WordPress Publish | Attempted — WP API blocked by proxy egress policy (403 Forbidden; same environment restriction as all prior runs) | 2026-07-30 |
+| Dashboard Push | Attempted — proxy blocks push to content-dashboards repo | 2026-07-30 |
 
 ## Queue
 
@@ -24,6 +24,21 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-07-30 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-07-30.xlsx (7 posts), tfr-postplanner-tobi-2026-07-30.xlsx (7 TOBI posts)
+- **Coverage:** Eala (Philippines, No. 28, unseeded) def. Fernandez (7, defending DC Open champion) 6-2, 7-6(7/1) rallying from 5-1 down in second set; also def. Zheng (former Olympic champion) 4-6, 6-4, 6-1 in R1 comeback — Eala now in QF; DC Open ATP: de Minaur (1, defending) def. Tsitsipas 6-4, 3-6, 6-3 (snapped 12-1 H2H deficit); Shelton (2) def. Humbert 6-4, 4-6, 6-4; Mensik (7) def. Nakashima 6-2, 6-7(5), 6-3; Fritz (3) def. Majchrzak 6-3, 6-4 → QF vs. Michelsen; Jodar (19, ESP) def. Fils (8) 7-6(5), 6-3 then Nishikori 6-3, 6-2; Tien (5) out R1 to Mannarino (38, No. 47); QF Friday July 31; DC Open WTA R2 upsets: Kudermetova def. Svitolina (2) 5-7, 7-6(4), 6-0; Kalinskaya def. Shnaider (4) 6-4, 6-1; Pegula def. Frech 6-4, 6-3; Osaka def. Krueger 3-6, 6-2, 6-2; Potapova def. Venus 6-3, 6-3 (Venus losing streak = 12, 0-for-2026); Los Cabos: Coleman Wong (HKG) def. No. 1 Lehecka 1-6, 6-3, 6-4 (ATP Tour biggest career win by ranking; closing in on top 100); Norrie def. Duckworth 4-6, 6-3, 6-4; Cerundolo def. Boyer 7-5, 6-2; Canadian Open: draws Friday July 31; Sinner WD (tournament director criticized ATP publicly); Djokovic/Alcaraz also absent; ATP: Zverev (1), FAA (2) at home in Montreal; WTA: Sabalenka (1), Noskova (6, Wimbledon champion); WTA Aug 2, ATP Aug 4
+- **Notes:**
+  - verify-facts.py: passed; 47 claims, 87 HIGH; image IMAGE MISSING warnings cosmetic (imagn source, expected — same as all prior runs)
+  - compile: 5 stories, 7 X posts, 0 FB posts (parser compatibility — same as all prior runs), 5 articles; 22 dashboard items
+  - PostPlanner exports: standard (7 posts) and TOBI (7 posts) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs (403 Forbidden)
+  - Dashboard push failed: proxy blocks write to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3]
 
 ### 2026-07-28 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)

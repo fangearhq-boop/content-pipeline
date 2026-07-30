@@ -1181,3 +1181,55 @@ Track previously covered stories to avoid repetition and maintain content freshn
 - **Key Facts:** Sabalenka (1) WTA Toronto; Noskova (6) Wimbledon champion; Zverev (1) ATP Montreal; triple WD (Sinner/Djokovic/Alcaraz); draws July 31; Sources: Tennis365, National Bank Open official, WTA, ATP, ESPN, Forbes, Wimbledon official, CBS Sports
 - **Follow-Up Opportunities:** Canadian Open draws July 31; tournament Aug 1/4; Noskova seeded run; FAA home field Montreal
 
+
+## 2026-07-30
+
+### Story 1: DC Open WTA — Eala Dethrones Defending Champion Fernandez; Reaches Quarterfinals
+- **Date:** 2026-07-30
+- **Content Pillar:** Match Result / Breakout Player
+- **Angle:** NEW STORY — Alexandra Eala (Philippines, No. 28, unseeded) def. Leylah Fernandez (7th seed, defending DC Open champion) 6-2, 7-6(7/1), rallying from 5-1 down in second set. Day prior: Eala def. Qinwen Zheng (former Olympic champion) 4-6, 6-4, 6-1 from set down. Eala now in QF (Friday July 31). Context: Eala at Wimbledon R4 (def. Rybakina/Swiatek), career-high No. 28, WTA Star of the Swing award.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Elena Voss
+- **Key Facts:** Eala def. Fernandez 6-2, 7-6(7/1) rallying from 5-1 down; Eala def. Zheng 4-6, 6-4, 6-1 (R1); Eala No. 28 career-high; QF Friday July 31; Sources: WTA Tour, Baltimore Sun, CP24.com, Inquirer Sports, Philstar.com, justwomenssports.com
+- **Follow-Up Opportunities:** Eala QF result July 31; potential SF run; Canadian Open seeding implications
+
+### Story 2: DC Open ATP — de Minaur Opens Title Defense; Shelton, Mensik, Fritz All Advance
+- **Date:** 2026-07-30
+- **Content Pillar:** Match Results / Tournament
+- **Angle:** NEW STORY — Alex de Minaur (1, defending champion) def. Stefanos Tsitsipas 6-4, 3-6, 6-3 in R1 (July 29), snapping 12-1 H2H deficit. Ben Shelton (2) def. Ugo Humbert 6-4, 4-6, 6-4 (R2 July 30). Jakub Mensik (7) def. Brandon Nakashima 6-2, 6-7(5), 6-3 (R2). Taylor Fritz (3) def. Majchrzak 6-3, 6-4 → QF vs. Michelsen. Rafael Jodar (ESP, 19) upset Fils (8) 7-6(5), 6-3 then def. Nishikori 6-3, 6-2. Learner Tien (5) lost R1 to Mannarino. Fils (8) out R1. QF Friday July 31.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Marcus Cole
+- **Key Facts:** de Minaur def. Tsitsipas 6-4, 3-6, 6-3; Shelton def. Humbert 6-4, 4-6, 6-4; Mensik def. Nakashima 6-2, 6-7(5), 6-3; Fritz def. Majchrzak 6-3, 6-4; Jodar def. Fils 7-6(5), 6-3 + Nishikori 6-3, 6-2; Tien/Fils both out R1; Sources: ATP Tour, Field Level Media, Yahoo Sports, Baltimore Sun, TennisUpToDate
+- **Follow-Up Opportunities:** DC Open QF/SF results July 31–Aug 1
+
+### Story 3: DC Open WTA — Svitolina and Shnaider Upset in R2; Venus Williams Losing Streak Reaches 12
+- **Date:** 2026-07-30
+- **Content Pillar:** Tournament / Upsets
+- **Angle:** NEW STORY — Polina Kudermetova def. No. 2 seed Elina Svitolina 5-7, 7-6(4), 6-0; Anna Kalinskaya def. No. 4 seed Diana Shnaider 6-4, 6-1. Pegula (1) def. Frech 6-4, 6-3; Osaka (3) def. Krueger 3-6, 6-2, 6-2; Navarro def. Cocciaretto 6-0, 7-5. R1: Potapova def. Venus Williams 6-3, 6-3 (Venus' losing streak = 12, 0-for-2026).
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Ryan Calloway
+- **Key Facts:** Kudermetova def. Svitolina 5-7, 7-6(4), 6-0; Kalinskaya def. Shnaider 6-4, 6-1; Pegula def. Frech 6-4, 6-3; Osaka def. Krueger 3-6, 6-2, 6-2; Potapova def. Venus 6-3, 6-3; Venus losing streak = 12; Sources: WTA Tour, tennisuptodate.com, justwomenssports.com
+- **Follow-Up Opportunities:** DC Open WTA QF/SF results July 31–Aug 1
+
+### Story 4: Los Cabos ATP 250 — Coleman Wong Upsets Top Seed Lehecka; Norrie, Cerundolo Advance
+- **Date:** 2026-07-30
+- **Content Pillar:** Upset / Emerging Player
+- **Angle:** NEW STORY — Coleman Wong (HKG) def. No. 1 seed Jiri Lehecka 1-6, 6-3, 6-4 at Mifel Tennis Open by Telcel (ATP 250), Los Cabos — ATP Tour's biggest career win by PIF ranking for Wong; closing in on top-100 debut. Also: Cerundolo (3) def. Boyer 7-5, 6-2; Norrie (5) def. Duckworth 4-6, 6-3, 6-4; Shapovalov (8, defending) def. Pacheco Mendez (5-0 Los Cabos career record).
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Elena Voss
+- **Key Facts:** Wong def. Lehecka 1-6, 6-3, 6-4; ATP Tour: biggest career win by ranking; Cerundolo def. Boyer 7-5, 6-2; Norrie def. Duckworth 4-6, 6-3, 6-4; Shapovalov 5-0 Los Cabos career; Sources: ATP Tour, TennisTemple, tennis.com, TennisTonic
+- **Follow-Up Opportunities:** Los Cabos QF/SF results July 30–Aug 1; Wong ranking impact
+
+### Story 5: Canadian Open Preview — Sinner Withdrawal Controversy; FAA at Home; Draws Friday
+- **Date:** 2026-07-30
+- **Content Pillar:** Tournament Preview / Player News
+- **Angle:** FOLLOW-UP (July 28 Story 5) — Jannik Sinner (No. 1) withdrew from ATP Montreal citing rest; tournament director publicly criticized ATP. Djokovic and Alcaraz also absent. WTA: Mboko (defending champion), Muchova, Raducanu all out. ATP seeds: Zverev (1), FAA (2) at home. WTA seeds: Sabalenka (1), Rybakina (2), Pegula (3), Gauff (4), Noskova (6, Wimbledon champion). Draws July 31; WTA main draw Aug 2; ATP Aug 4.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Marcus Cole
+- **Key Facts:** Sinner WD (rest for Cincinnati); tournament director criticized ATP; Zverev (1)/FAA (2) ATP seeds; Sabalenka (1) WTA; draws July 31; WTA Aug 2; ATP Aug 4; Sources: National Bank Open official, Tennis365, CBC, Yahoo Sports, SI.com, tips.gg
+- **Follow-Up Opportunities:** Canadian Open draws July 31; main draw results Aug 2/4
