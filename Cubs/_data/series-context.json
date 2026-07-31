@@ -1,42 +1,58 @@
 {
-  "generated_at": "2026-07-30T13:49:11.676181+00:00",
-  "today_ct": "2026-07-30",
+  "generated_at": "2026-07-31T08:30:00.477193+00:00",
+  "today_ct": "2026-07-31",
   "off_day": false,
-  "is_series_start_today": false,
+  "is_series_start_today": true,
   "series": {
-    "opponent": "St. Louis Cardinals",
-    "opponent_id": 138,
-    "opponent_record": "54-54",
-    "cubs_record": "61-47",
-    "is_cubs_home": false,
-    "venue": "Busch Stadium",
-    "series_length": 1,
+    "opponent": "New York Yankees",
+    "opponent_id": 147,
+    "opponent_record": "61-48",
+    "cubs_record": "62-47",
+    "is_cubs_home": true,
+    "venue": "Wrigley Field",
+    "series_length": 3,
     "games": [
       {
-        "game_pk": "823023",
-        "game_date_iso": "2026-07-30T18:15:00Z",
-        "game_date_ct": "Thu 1:15 PM CT",
+        "game_pk": "824651",
+        "game_date_iso": "2026-07-31T18:20:00Z",
+        "game_date_ct": "Fri 1:20 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      },
+      {
+        "game_pk": "824649",
+        "game_date_iso": "2026-08-01T23:15:00Z",
+        "game_date_ct": "Sat 6:15 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      },
+      {
+        "game_pk": "824648",
+        "game_date_iso": "2026-08-02T18:20:00Z",
+        "game_date_ct": "Sun 1:20 PM CT",
         "cubs_probable": "TBD",
         "opponent_probable": "TBD",
         "status": "Preview"
       }
     ],
-    "rationale": "Same opponent (St. Louis Cardinals) as yesterday \u2014 this is mid-series, not a series opener."
+    "rationale": "Yesterday vs St. Louis Cardinals; today vs New York Yankees \u2192 game 1 of 3 (home)."
   },
   "today_cubs_game": {
-    "game_pk": "823023",
+    "game_pk": "824651",
     "status": "Preview",
     "detailed_status": "Scheduled",
-    "game_date_iso": "2026-07-30T18:15:00Z",
-    "game_date_ct": "Thu 1:15 PM CT",
-    "is_cubs_home": false,
-    "opponent_id": 138,
-    "opponent_name": "St. Louis Cardinals",
-    "opponent_record": "54-54",
-    "cubs_record": "61-47",
+    "game_date_iso": "2026-07-31T18:20:00Z",
+    "game_date_ct": "Fri 1:20 PM CT",
+    "is_cubs_home": true,
+    "opponent_id": 147,
+    "opponent_name": "New York Yankees",
+    "opponent_record": "61-48",
+    "cubs_record": "62-47",
     "cubs_probable": "TBD",
     "opponent_probable": "TBD",
-    "venue": "Busch Stadium"
+    "venue": "Wrigley Field"
   },
-  "rationale": "Same opponent (St. Louis Cardinals) as yesterday \u2014 this is mid-series, not a series opener."
+  "rationale": "Yesterday vs St. Louis Cardinals; today vs New York Yankees \u2192 game 1 of 3 (home)."
 }
