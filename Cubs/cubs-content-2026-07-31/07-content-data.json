@@ -1,0 +1,271 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-31",
+  "compiled_at": "2026-07-31T21:27:47.301870+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM CT",
+      "description": "Story 1 — Yankees-Cubs Series Preview",
+      "type": "Series Preview / Hype"
+    },
+    {
+      "time": "8:15 AM CT",
+      "description": "Story 2 — Cardinals Series Win Recap",
+      "type": "Game Recap"
+    },
+    {
+      "time": "9:30 AM CT",
+      "description": "Story 3 — Trade Deadline (3 Days)",
+      "type": "Analysis / Bold Take"
+    },
+    {
+      "time": "10:45 AM CT",
+      "description": "Story 4 — Imanaga vs. Warren Preview",
+      "type": "Pitching Preview"
+    },
+    {
+      "time": "12:00 PM CT",
+      "description": "Story 5 — Antoine Kelly MLB Debut",
+      "type": "Roster News"
+    },
+    {
+      "time": "1:15 PM CT",
+      "description": "Story 6 — PCA Season Spotlight",
+      "type": "Bold Take / Stats"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Cubs-Yankees Series Preview",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Game 1 of 3 at Wrigley today; 1:20 PM CT first pitch; Cubs 62-47 (1st NL Wild Card); Imanaga vs. Will Warren; Yankees banged up without Judge, Stanton, Bellinger. First meeting of the season. SERIES START — reserved 7:00 AM CT per is_series_start_today=true. Lead with matchup, kicker is Yankees' injury situation.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Yankees at Wrigley. 3 games. Today.\n\nFirst time this year — 1:20 PM CT, Cubs (62-47) taking on the Yankees at home.\n\nNew York arrives without Judge, Stanton, and Bellinger. Hitting .221 over their last 23 games.\n\nWrigley's ready.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Series preview / game-day hype",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 7,
+        "claims_flagged": 2,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Cubs-Yankees Series Preview\n- **[HIGH]** Cubs (62-47) host Yankees (61-48) in a 3-game series at Wrigley Field starting today — Series context snapshot confirmed this via generated_at 2026-07-31T08:30:00 UTC.\n- **[HIGH]** First pitch: 1:20 PM CT (2:20 PM ET) — confirmed via series-context.json game_date_ct field.\n- **[HIGH]** Shota Imanaga starts for Cubs (LHP); Will Warren starts for Yankees (RHP) — confirmed via ESPN Pregame and Baseball-Reference preview.\n- **[HIGH]** Aaron Judge out (Yankees); Giancarlo Stanton out (Yankees); Cody Bellinger out with hamstring strain (ex-Cub now on Yankees) — confirmed via multiple sources (StatMuse, Bleed Cubbie Blue preview).\n- **[MEDIUM]** Yankees batting .221 over last 23 games — from StatsCrew/Covers.com; single-source.\n- **[MEDIUM]** Cubs OBP (.340) 2nd in NL — from ESPN Pregame; single-source.\n- **[HIGH]** Imanaga: 2.00 ERA over last 8 starts — confirmed via FanGraphs depth chart and MLB.com.\n- **[LOW]** All-time Cubs-Yankees regular season: Yankees lead 19-9 — from ChampsorChumps; should verify against Baseball-Reference if cited in tweet.\n- **[HIGH]** is_series_start_today=true — confirmed from series-context.json.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Cardinals Series Win Recap (July 30)",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Cubs took 3 of 4 at Busch; won Game 4 in extras 4-2 on July 30; Bregman 9-for-18 in the series with 6 doubles and 1 HR — the story is his dominance, NOT the score (has_score=False wins per insights). Jacob Webb W, Aaron Civale first save. Cubs leave St. Louis hot.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Bregman was LOCKED IN at Busch.\n\n9-for-18 in the Cardinals series. 6 doubles. A HR. The go-ahead RBI in the 10th inning of the finale. Cubs took 3 of 4 and left St. Louis looking like the better team.\n\nNow bring that energy to Wrigley.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Game recap / informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 4,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Cardinals Series Win Recap (July 30)\n- **[HIGH]** Final score: Cubs 4, Cardinals 2 (10 innings) — confirmed via ESPN Recap and Bleacher Nation Enhanced Box Score.\n- **[HIGH]** Cubs took 3 of 4 in the series — confirmed from series context (rationale: \"Yesterday vs St. Louis Cardinals\").\n- **[HIGH]** Alex Bregman: series total 9-for-18, 6 doubles, 1 HR, 3 RBI — from ESPN Recap (cited as \"series MVP\").\n- **[HIGH]** Bregman drove in go-ahead run in the 10th inning — from ESPN Recap.\n- **[HIGH]** Ian Happ doubled off Luis Gastelum for final insurance run in 10th — from Bleacher Nation Enhanced Box Score.\n- **[HIGH]** Jacob Webb: Win (1.1 IP relief); Aaron Civale: earned first save of season — from CBS Sports box score.\n- **[MEDIUM]** Cardinals 3-8 since All-Star break (confirmed from July 28 story); exact July 30 record not independently refreshed today — carry forward as MEDIUM.\n- **NOTE:** Per insights (has_score=False beats has_score=True), final score 4-2 must NOT be the tweet lead. Lead with Bregman/performance story.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Trade Deadline — 3 Days Left, Cubs Hunting",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "August 3 deadline at 6 PM ET; Cubs firmly buyers; Tarik Skubal top target (Cubs + Dodgers pushing hardest); other names: Peralta, Detmers, Mize, Robbie Ray; went 12-3 in last 15; rotation is good but depth is thin after Horton/Steele/Cabrera all done for year.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "3 days to the deadline. Cubs are all in.\n\nSkubal is the top target. Peralta, Detmers, and Mize also linked. The front office has payroll room and a genuine rotation need.\n\nThey've won 12 of their last 15. The window's open. Go get one.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Trade deadline analysis / bold take",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 5,
+        "claims_flagged": 4,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Trade Deadline — 3 Days Left\n- **[HIGH]** MLB trade deadline: August 3, 6:00 PM ET — standard MLB deadline per ESPN Trade Deadline Tracker.\n- **[HIGH]** Cubs confirmed buyers at deadline — multiple sources (MLB.com, Yahoo Sports, ESPN).\n- **[HIGH]** Tarik Skubal is Cubs' top target per reporting; Cubs and Dodgers pushing hardest — from Heavy.com/Yahoo Sports.\n- **[MEDIUM]** Other names linked: Freddy Peralta, Clay Holmes, Robbie Ray, Kevin Gausman, Reid Detmers, Casey Mize — aggregated from ESPN Trade Deadline Tracker; some links are speculative.\n- **[HIGH]** Cubs rotation injuries: Cade Horton (season-ending elbow surgery), Justin Steele (setback), Edward Cabrera (major leg injury in June) — from MLB.com; Taillon DFA'd July 27.\n- **[MEDIUM]** Cubs went 12-3 in last 15 games entering deadline week — from Yahoo Sports/MLB.com; single-source, cross-reference with 6-4 in last 10 (discrepancy noted — may refer to different time windows).",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Pitching Matchup Preview — Imanaga vs. Warren",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Imanaga (2.00 ERA last 8 starts) vs. Will Warren (NYY); Yankees hitting just .221 over last 23 games, missing Judge + Stanton + Bellinger; Cubs OBP (.340) is 2nd in NL. This matchup tilts heavily toward Cubs.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Imanaga vs. Warren at Wrigley. 1:20 PM CT.\n\nShota's 2.00 ERA over his last 8 starts. New York arrives without Judge, Stanton, and Bellinger — hitting .221 over their last 23 games.\n\nCubs have the right guy on the right day.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Pitching preview / informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 4,
+        "claims_flagged": 2,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Pitching Matchup Preview — Imanaga vs. Warren\n- **[HIGH]** Imanaga starting today (July 31) vs. Will Warren — confirmed via ESPN Pregame and Bleed Cubbie Blue.\n- **[HIGH]** Imanaga: 2.00 ERA over last 8 outings — confirmed via FanGraphs/MLB.com.\n- **[HIGH]** Yankees: Aaron Judge out, Giancarlo Stanton out, Cody Bellinger out — confirmed.\n- **[MEDIUM]** Yankees batting .221 over last ~23 games — from StatsCrew/Covers (single source; MEDIUM confidence).\n- **[MEDIUM]** Cubs OBP (.340), 2nd in NL — from ESPN Pregame (single source; MEDIUM confidence).",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Antoine Kelly MLB Debut",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Chicago-area native (Park Ridge, IL) called up for MLB debut; 2.79 ERA at Iowa, 22 K in 19.1 IP; recalled after Gavin Hollowell (2.51 ERA, 8.2 scoreless IP streak) hit 15-day IL with right shoulder inflammation; 35th pitcher Counsell has used in 2026. Org depth story.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Antoine Kelly is making his MLB debut today.\n\nPark Ridge, IL native. 2.79 ERA at Iowa, 22 K in 19.1 IP. Called up after Hollowell hit the IL with shoulder inflammation.\n\n35th pitcher Counsell has used in 2026. Turns out the Cubs had depth.\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Roster news / informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 6,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Antoine Kelly MLB Debut\n- **[HIGH]** Antoine Kelly (LHP) recalled from Triple-A Iowa for MLB debut — confirmed via Bleed Cubbie Blue and Bleacher Nation.\n- **[HIGH]** Kelly from Park Ridge, IL (Chicago-area native) — confirmed via Athlon Sports.\n- **[HIGH]** Kelly stats at Iowa: 2.79 ERA, 22 K in 19.1 IP — confirmed via Bleed Cubbie Blue roster move post.\n- **[HIGH]** Kelly acquired from Dodgers on June 6 — from Bleacher Nation.\n- **[HIGH]** Gavin Hollowell (RHP) placed on 15-day IL with right shoulder inflammation — confirmed via same Bleed Cubbie Blue post.\n- **[MEDIUM]** Hollowell had 2.51 ERA in 14 appearances, 8.2 consecutive scoreless innings before injury — from Athlon Sports (single source).\n- **[HIGH]** Kelly is the 35th pitcher used by Craig Counsell in 2026 — from Bleacher Nation.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Pete Crow-Armstrong — Season Spotlight",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "PCA at .285/.382/.541, 24 HR, 26 SB (480 PA); 7th in MLB in OPS (.924); elite center field defense; making a genuine NL MVP case. Not just a breakout — a takeover. Last covered July 28 (22/5/25 historical feat); updated numbers justify a fresh look.",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Pete Crow-Armstrong: .285/.382/.541, 24 HR, 26 SB.\n\n7th in MLB in OPS. Elite defense in center. One of the most complete offensive seasons in the NL.\n\nThis isn't a breakout. It's a takeover.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Bold take / stat breakdown",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 218
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 5,
+        "claims_flagged": 8,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Pete Crow-Armstrong — Season Spotlight\n- **[HIGH]** PCA 2026 season: .285/.382/.541 slash line, OPS .924 — from FanGraphs player page.\n- **[HIGH]** 24 HR, 26 SB in 480 PA — from FanGraphs (confirmed via Baseball-Reference).\n- **[HIGH]** 7th in MLB in OPS — from FanGraphs OPS leaderboard.\n- **[HIGH]** PCA 63 RBI, 71 runs — from FanGraphs.\n- **[MEDIUM]** \"Elite defense in center field\" framing — based on reputation and prior coverage (July 26-28 stories referenced WAR leadership); exact DRS/OAA not independently verified today.\n- **[LOW]** \"Most complete offensive season a Cubs outfielder has had in years\" — qualitative framing; no direct historical comparison run.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

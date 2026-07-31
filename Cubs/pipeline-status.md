@@ -1,3 +1,49 @@
+# Cubs Pipeline Status — Updated 2026-07-31
+
+## Latest Run
+- **Date:** 2026-07-31 (Friday)
+- **Run time:** ~09:00 UTC
+- **Stories:** 6
+- **X posts:** 6
+- **Platforms:** X/Twitter only
+- **Status:** ✅ Complete
+
+## Insights Summary (2026-07-31)
+- **Snapshot generated:** 2026-07-31T08:30:00 UTC
+- **Significant findings (1):**
+  - `has_score=False` beats `has_score=True` — small effect (δ=0.258, p=0.0132)
+  - Winner median impressions: 131.5 vs loser: 84 (n=66 vs n=59)
+  - **Applied:** Story 2 (Cardinals recap) does NOT lead with score 4-2; leads with Bregman's 9-for-18 performance angle
+- No other findings cleared significance gates
+
+## Series Context (2026-07-31)
+- `is_series_start_today`: true
+- `off_day`: false
+- Game 1 of 3: Cubs (62-47) vs. New York Yankees (61-48) at Wrigley Field; 1:20 PM CT
+- **7:00 AM CT slot reserved for Series Preview** (mandatory per is_series_start_today=true)
+
+## Today's Content
+| Slot | Story | Tier |
+|------|-------|------|
+| 7:00 AM CT | Yankees-Cubs Series Preview (Game 1 of 3 at Wrigley) | 1 |
+| 8:15 AM CT | Cardinals series win recap (3 of 4; Bregman 9-for-18) | 1 |
+| 9:30 AM CT | Trade deadline — 3 days left, Skubal top target | 1 |
+| 10:45 AM CT | Pitching preview: Imanaga vs. Warren, 1:20 PM CT | 1 |
+| 12:00 PM CT | Antoine Kelly MLB debut (Park Ridge IL native) | 2 |
+| 1:15 PM CT | PCA season spotlight (.285/.382/.541, 24 HR, 26 SB) | 2 |
+
+## Dashboard
+- Review dashboard: Cubs/cubs-content-2026-07-31/review-dashboard.html ✅
+- Content data JSON: Cubs/cubs-content-2026-07-31/07-content-data.json ✅ (6 stories, 6 x_posts)
+- Unified dashboard push: content-dashboards repo push failed (separate repo auth issue — known, non-blocking)
+
+## Issues
+- content-dashboards publish push failed (recurring PAT auth issue — separate repo; core deliverable 07-content-data.json committed for cubs-x-bot ✅)
+
+---
+
+## Previous Runs
+
 # Cubs Pipeline Status — Updated 2026-07-30
 
 ## Latest Run

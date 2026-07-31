@@ -5,6 +5,61 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-31
+
+### STORY 1: Cubs-Yankees Series Preview
+- **Angle:** NEW STORY (Game 1 of 3 at Wrigley; first meeting of 2026; 1:20 PM CT; Imanaga vs. Warren; Yankees without Judge/Stanton/Bellinger, hitting .221 over last 23 games; Cubs 62-47 1st NL Wild Card; SERIES START — reserved 7:00 AM slot per is_series_start_today=true)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, series preview)
+- **Follow-Up Opportunities:**
+  - Game 1 result recap (tomorrow 7:00 AM)
+  - Series result through Aug 2
+  - Cubs-Yankees H2H update
+
+### STORY 2: Cardinals Series Win Recap (July 30)
+- **Angle:** NEW STORY (Cubs 4-2 in 10 innings July 30; took 3 of 4 at Busch; Bregman 9-for-18 series, 6 doubles, 1 HR, go-ahead RBI in 10th; Jacob Webb W; Aaron Civale first save; no score lead per has_score=False insight)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - Cubs' winning streak context (if applicable)
+  - Cardinals season arc coverage
+
+### STORY 3: Trade Deadline — 3 Days Left, Skubal Top Target
+- **Angle:** FOLLOW UP (deadline covered July 27-28; today's angle = 3 days left, Skubal specifically as top target with Cubs and Dodgers pushing hardest; also Peralta, Detmers, Mize; Cubs went 12-3 in last 15; window is now)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, trade analysis)
+- **Follow-Up Opportunities:**
+  - Any Cubs trade acquisition before Aug 3
+  - Deadline day coverage (Aug 3)
+  - If Skubal acquired: rotation impact
+
+### STORY 4: Pitching Matchup Preview — Imanaga vs. Warren
+- **Angle:** NEW STORY (Imanaga 2.00 ERA last 8 starts vs. Will Warren NYY; Yankees missing Judge/Stanton/Bellinger, hitting .221; Cubs OBP .340 2nd in NL; favorable matchup framing before 1:20 PM CT first pitch)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, pitching preview)
+- **Follow-Up Opportunities:**
+  - Imanaga's actual line tonight
+  - Warren's performance
+
+### STORY 5: Antoine Kelly MLB Debut
+- **Angle:** NEW STORY (Kelly recalled from Iowa for MLB debut; Chicago-area native Park Ridge IL; 2.79 ERA 22 K 19.1 IP at Iowa; Hollowell to 15-day IL right shoulder; 35th pitcher Counsell used in 2026)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, roster news)
+- **Follow-Up Opportunities:**
+  - Kelly's first major league appearance
+  - Hollowell rehab timeline
+
+### STORY 6: Pete Crow-Armstrong — Season Spotlight
+- **Angle:** FOLLOW UP (PCA last covered July 28; updated line .285/.382/.541, OPS .924, 7th in MLB; 24 HR, 26 SB; NL MVP case framing; "not a breakout, a takeover")
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, bold take)
+- **Follow-Up Opportunities:**
+  - PCA milestones (25 HR, 30 SB pace)
+  - NL MVP odds tracking
+  - Monthly awards
+
+---
+
 ## 2026-07-28
 
 ### STORY 1: Cubs Win Game 1 at Busch — Bregman & Hoerner Star
