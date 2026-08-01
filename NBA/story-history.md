@@ -4972,3 +4972,44 @@
 - **Key facts:** Warriors beat Grizzlies in championship game July 19; Yaxel Lendeborg 21 pts in title game; set attendance + merchandise records; No. 1 pick AJ Dybantsa (Washington) vs No. 2 Darryn Peterson (Utah) top storyline
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Training camp evaluations; Dybantsa/Peterson regular season debuts
+
+| 2026-08-01 | T1 | LeBron James 76ers Summer Workouts — Mini Camps, Records in Sight | X, FB, Article | FOLLOW UP |
+| 2026-08-01 | T2 | Kawhi Leonard Investigation — Extends Toward 2027, Dillon Brooks Says Trade Won't Happen | X, FB, Article | FOLLOW UP |
+| 2026-08-01 | T2 | DeMar DeRozan Returns to Chicago Bulls — Two-Year $30M Deal Official | X, FB, Article | FOLLOW UP |
+| 2026-08-01 | T2 | Knicks Defending Champions Lock In Core — Clarkson, Alvarado, Shamet Re-Signed | X, FB, Article | NEW |
+| 2026-08-01 | T2 | Zach LaVine Opts Into $49M with Kings — Stays in Sacramento | X, FB, Article | NEW |
+
+### STORY 1: LeBron James 76ers Summer Workouts — Mini Camps and Records in Sight
+- **Tier:** 1
+- **Category:** NBA / LeBron James / Philadelphia 76ers
+- **Key facts:** LeBron working out with Maxey in LA pre-mini camps; 76ers August mini camps planned; 672 career 30-point games (Jordan: 671 — one more = sole record); 24 consecutive 20-PPG seasons if he hits 20 in Philly; first player to win titles with 4 franchises if 76ers win it all; signed 2yr/$7.94M July 26; projected starting 5: LeBron/Embiid/Brown/Maxey/Edgecombe; no introductory press conference; first event = Media Day ~8 weeks out; Jaylen Brown traded from Celtics July 6 for Paul George+picks
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** 76ers Media Day; first preseason game; opening night vs. Knicks matchup (Oct 20 schedule)
+
+### STORY 2: Kawhi Leonard Investigation — Extends Toward 2027
+- **Tier:** 2
+- **Category:** NBA Investigation / Clippers / Raptors
+- **Key facts:** Investigation could extend into 2027 per ESPN sources; Wachtell Lipton law firm done; NBA reviewing findings; NBPA ready for formal arbitration; Dillon Brooks told streamer 'Neon' the trade to Toronto won't happen (HoopsHype July 31); trade frozen — Raptors refusing to accept penalty liability; Kawhi 2026-27 salary $50.3M; potential penalties: suspension, contract void, fines, draft picks; Toronto trade terms: Leonard for Ingram+Dick+unprotected 2031+2033 firsts+picks+2027 first-swap
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** NBA ruling (if before season); NBPA arbitration filing; Kawhi's status for training camp
+
+### STORY 3: DeMar DeRozan Returns to Chicago Bulls
+- **Tier:** 2
+- **Category:** NBA Free Agency / Chicago Bulls
+- **Key facts:** DeRozan signs 2yr/$30M with Bulls; Sacramento Kings waived him; passed on Heat/Nuggets/Cavaliers/Wizards; averaged 18.4 PPG last season with Kings; reunites with Bulls under new HC Torsten Splitter
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Bulls training camp; Splitter system fit; Bulls 2026-27 outlook
+
+### STORY 4: Knicks Defending Champions Lock In Core
+- **Tier:** 2
+- **Category:** NBA Offseason / New York Knicks
+- **Key facts:** Knicks won 2026 title over Spurs 4-1 (first since 1973; Brunson 45 pts/Finals MVP in 94-90 Game 5 clincher); re-signed Clarkson, Alvarado, Shamet, Diawara; added Drummond; lost Robinson (to Celtics); core 5 (Brunson/Hart/Anunoby/Bridges/Towns) intact multi-year; banner night Oct 20 at MSG; drafted Kayil + Nickel
+- **Status:** NEW
+- **Follow-up ideas:** Schedule release (Aug 13-14); Oct 20 opening night; repeat candidacy analysis
+
+### STORY 5: Zach LaVine Opts Into $49M with Kings
+- **Tier:** 2
+- **Category:** NBA Contracts / Sacramento Kings
+- **Key facts:** LaVine exercises $49M player option per agent Rich Paul; averaged 19.2 PPG in 39 games before hand injury; Kings have no plans to cut ties; Kings waived DeRozan to reshape roster
+- **Status:** NEW
+- **Follow-up ideas:** Kings training camp roster; LaVine's health coming into camp; Western Conference outlook

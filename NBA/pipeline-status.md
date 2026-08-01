@@ -1,10 +1,23 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Last Run
-- **Date**: 2026-07-30
+- **Date**: 2026-08-01
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-08-01
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (1 Tier 1, 4 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** hh-postplanner-2026-08-01.xlsx (6 posts) + hh-postplanner-tobi-2026-08-01.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-08-01/review-dashboard.html (21 items)
+- **Notes:** LEBRON 76ERS WORKOUTS — already training with Maxey in LA pre-mini camps; no intro press conference (hasn't held one since 2010); 672-671 30-pt games over Jordan (one game from sole record); KAWHI 2027 RISK — investigation could drag past season start; NBPA ready for arbitration; Dillon Brooks says Toronto trade won't happen; DEROZAN BULLS OFFICIAL — 2yr/$30M confirmed; KNICKS 2026 CHAMPS — ended 53-year drought; Brunson 45 pts/Finals MVP; banner night Oct 20 MSG; LAVINE KINGS OPT-IN — $49M player option exercised
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+
 
 ### 2026-07-30
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
