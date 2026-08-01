@@ -3,6 +3,63 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-08-01
+
+### Story 1: USA Softball International Cup — Day 2 Preview / Day 1 Recap
+- **Date:** 2026-08-01
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Day 1 results in; Day 2 tonight on ESPN+)
+- **Angle:** USA WNT run-ruled Australia 12-0 in 4 innings (Maya Brady HR+4RBI; Jefferson/Mulipola/Wallace HRs); USA Elite beat Chinese Taipei 6-4. Day 2: USA Elite vs. American Samoa (5 PM ET ESPN+), USA WNT vs. No. 4 Canada (8 PM ET ESPN+).
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Day 2 results (WNT vs Canada, Elite vs American Samoa)
+  - Playoff round August 2
+  - Medal games August 3
+
+### Story 2: Puerto Rico Wins CAC Games Gold — Aleshia Ocasio Shutout
+- **Date:** 2026-08-01
+- **Tier:** 2
+- **Classification:** FOLLOW UP (medal games were July 31; confirming gold medal result)
+- **Angle:** Puerto Rico def. Cuba 2-0 in gold medal game. Aleshia Ocasio: CG shutout, 7 IP, 10 K, 2 H. RBIs by Carsyn Gordon and Odalys Cordova in 4th. Puerto Rico went 5-0 through tournament (beat USVI in super round, Cuba in final). Silver: Cuba, Bronze: Mexico.
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Puerto Rico 2027 World Cup cycle coverage
+  - Aleshia Ocasio AUSL profile
+
+### Story 3: Jaysoni Beachum Commits to Texas Tech
+- **Date:** 2026-08-01
+- **Tier:** 2
+- **Classification:** FOLLOW UP (portal entry covered July 30; commitment is the resolution)
+- **Angle:** Beachum (.375 career BA, 37 HR, 180 RBI at FSU; 2024 NFCA FOY; 2026 2nd Team AA) officially commits to Texas Tech. TTU transfer class now ranked No. 1 nationally (with Pickering from OU). FSU loses its two best offensive players (Torres + Beachum) in one portal cycle — 28% runs + 35% HRs gone.
+- **Content Produced:** Article (article-03, Jordan Reeves), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Texas Tech 2027 preseason expectations
+  - FSU rebuild coverage under Alameda
+  - September 1 window coverage (31 days away)
+
+### Story 4: LLSWS 2026 Opening Ceremony — Tonight in Greenville
+- **Date:** 2026-08-01
+- **Tier:** 3
+- **Classification:** FOLLOW UP (previewed July 29 and July 30; ceremony is tonight)
+- **Angle:** Opening ceremony August 1 at 6 PM ET, Stallings Stadium, Greenville NC. First pitches by Amanda Lorenz (Volts) and Kinzie Hansen-McKinzie (Spark). DJ Cutty Styles, free admission, food trucks. Tournament August 2-9, all 22 games on ESPN linear for first time ever. 12 teams (8 US regions + 4 international).
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Opening games August 2
+  - Tournament bracket coverage August 2-9
+  - Championship game August 9
+
+### Story 5: PGF Nationals Week 2 — Championship Day Tomorrow
+- **Date:** 2026-08-01
+- **Tier:** 3
+- **Classification:** FOLLOW UP (tracked since July 14; championships August 2)
+- **Angle:** Championship day tomorrow (August 2) at Deanna Manning Stadium in Irvine. 14U, 12U, 10U all crowning champions. Live on PGF.TV. September 1 recruiting window = 31 days away.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - PGF Week 2 champions (by August 2 evening)
+  - September 1 window countdown coverage
+
+---
+
 ## 2026-07-28
 
 ### Story 1: Jadelyn Allchin — AUSL Championship Series MVP Profile and Reaction
