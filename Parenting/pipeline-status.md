@@ -1,5 +1,46 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: August 1, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | D49 Student Success Center opens Aug. 3 (former Falcon Elementary, preschool Mon–Thu districtwide, PEAK, Elevates 18–21, BASE49, d49.org); 3 CPSC recalls — VEVOR baby swings (suffocation, Sanven/Amazon), NFSVLB bath seats (drowning/entrapment, Amazon), Ocensmice magnetic sets (CPSC warning, intestinal perforation, exceeds 2022 magnet strength limits); D20 official start Aug. 17-18 (corrects July 30 error of Aug. 13, sourced from asd20.org); D11 Edukit free supply kits for 14,000+ K–8 students day 1 Aug. 12; Colorado 150th statehood (Aug. 1, 1876) — Pioneers Museum free event through 4 p.m. (corrects July 30 "2 p.m." — official is 4 p.m.): USAFA Wild Blue band, food trucks, cake, Wishing Star Farms petting zoo, PPLD photo booth, new exhibit "Freedom to Thrive"; D11 bond vote Aug. 5 (4 days out) — Jenkins Middle School 18-month closure context, D11 first day Aug. 12 one week after vote |
+| Story History Check | COMPLETE | 5 stories: S1 new (D49 SSC), S2 new (different recalls from July 30 S4), S3 correction (July 30 S3 D20 wrong date), S4 same-day event, S5 follow-up (July 30 S2 — new Jenkins context + countdown angle) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags |
+| Story Analysis | COMPLETE | 02-story-analysis.md — 5 story sections |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (S1:2, S2:2, S3:1, S4:1, S5:1); all ≤280 chars (verified after 5 fixes); 4 hashtags each; times in MT |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form posts + 5 Image Captions; engagement questions; NO hashtags; COS voice |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts; 1080×1350 (X/FB) and 1200×630 (hero); clean bottom third; no celebrity likenesses |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 5 stories × 3 image types = 15 entries; all not_started; gemini base_only; kAHCKfCZgk0 brand kit |
+| Articles | COMPLETE | 5 articles (500–1000 words; semantic HTML5; What's Next sections; 0 exclamation marks; no figure tags); bylines: Sarah Morales (A1, A3, A5), Jamie Rivera (A2, A4) |
+| Fact-Check | COMPLETE | verify-facts.py passed (0 consistency issues after 5 tweet fixes); 97 claims; 194 HIGH; 155 MEDIUM; 71 LOW; all stories present in all content files; image not_started warnings cosmetic |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts, 5 articles, 22 dashboard items; posting window warnings cosmetic |
+| Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-08-01.xlsx (7 posts 13:06–20:42 MT, 76 min apart) + cosp-postplanner-tobi-2026-08-01.xlsx (7 TOBI posts) |
+| Dashboard Push | Attempted — proxy blocks write to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API (403 Forbidden) | Same environment restriction as all prior runs |
+
+### 2026-08-01 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts (PostPlanner xlsx: 7 posts 13:06–20:42 MT, 76 min apart; 7 TOBI)
+- **Articles:** 5 (bylines: Sarah Morales [A1, A3, A5], Jamie Rivera [A2, A4])
+- **PostPlanner exports:** cosp-postplanner-2026-08-01.xlsx (7 posts, 13:06–20:42 MT), cosp-postplanner-tobi-2026-08-01.xlsx (7 TOBI posts)
+- **Coverage:** D49 Student Success Center opens Aug. 3 (preschool Mon–Thu districtwide, PEAK, Elevates 18–21, BASE49, d49.org); 3 CPSC alerts — VEVOR baby swings (suffocation/Amazon), NFSVLB bath seats (drowning/entrapment/Amazon), Ocensmice magnetic sets (CPSC warning, intestinal perforation risk, cpsc.gov/Recalls); D20 correction (Aug. 17-18 NOT Aug. 13, per asd20.org) + D11 Edukit free grade-specific supplies 14,000+ K–8 students day 1; Colorado 150th statehood Pioneers Museum free through 4 p.m. (USAFA band, food trucks, cake, petting zoo, photo booth, new exhibit "Freedom to Thrive"); D11 bond vote Aug. 5 (4 days, $775M, Jenkins Middle School 18-month closure context, D11 first day Aug. 12)
+- **Notes:**
+  - verify-facts.py: 5 tweets initially over 280 chars; all fixed; 0 consistency issues in final run
+  - Fact-check: image not_started warnings cosmetic (expected for gemini source)
+  - compile: posting window warnings cosmetic; FB posts 0 (pre-existing parser limitation)
+  - WordPress: WP API blocked by proxy (403 Forbidden); same restriction as all prior runs
+  - Dashboard push failed: proxy blocks write to content-dashboards repo
+  - Byline rotation: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4] (rotating from July 30: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4])
+  - Research: all facts from web search; no facts from memory
+  - Pioneers Museum end time corrected to 4 p.m. (July 30 pipeline had 2 p.m. — corrected per CSPM.org and KRDO)
+  - D20 date corrected to Aug. 17-18 (July 30 pipeline had Aug. 13 from third-party site — corrected per asd20.org official calendar)
+
+---
+
 ## Latest Run: July 30, 2026
 
 | Step | Status | Notes |

@@ -1,0 +1,305 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-01",
+  "compiled_at": "2026-08-01T12:36:50.532463+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 (D49 SSC Opens Monday)",
+      "type": "X + FB"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "Story 2 (CPSC: Baby Swings, Bath Seats, Magnetic Sets)",
+      "type": "X + FB"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 3 (D20 date correction + D11 Edukit)",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 (Pioneers Museum Colorado 150th)",
+      "type": "X + FB"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 5 (D11 Bond Aug 5 Vote)",
+      "type": "X + FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "D49 Student Success Center Opens Monday — Everything COS Families Need to Know",
+      "tier": 1,
+      "status": "",
+      "angle": "FOLLOW-UP (July 30 Story 3 back-to-school overview; July 22 Story 3 initial coverage) — The District 49 Student Success Center opens Monday, August 3, the same day as D49's staggered first day. Former Falcon Elementary School of Technology building repurposed. Programs: two new full-time preschool classrooms (Mon–Thu, districtwide access, registration open through BASE49), PEAK (higher-level support for students with disabilities), Elevates 18–21 (transition services now in-district vs. community agencies), BASE49 (before/after school care for SSC preschool students). D49 staggered start: K, 6th, and 9th graders August 3; all other students August 4. Preschool enrollment open at d49.org/SSC.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "D49's new Student Success Center opens Monday, Aug. 3.\n\nPrograms: preschool (Mon–Thu, any D49 family), PEAK, Elevates 18–21, BASE49.\n\nEnrollment: d49.org\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 214
+        },
+        {
+          "label": "Post 1-2",
+          "text": "D49 starts school Monday. The new Student Success Center opens the same day.\n\nFree, districtwide preschool seats available (Mon–Thu). Any D49 family can enroll.\n\nBASE49 before/after care also available at the new building.\n\nd49.org\n\n#COSParenting #COSKids",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#COSKids"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-d49-student-success-center-opens-monday.html",
+        "headline": "D49's New Student Success Center Opens Monday — What Preschool, PEAK, and Elevates Families Need to Know",
+        "word_count": 564
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D49 Student Success Center Opens Monday\n\n**X/Social Image:**\n- Prompt: \"Bright, welcoming classroom interior with colorful cubbies and small children's chairs, warm morning light streaming through windows, clean white walls, cheerful learning environment, no text, no people, photorealistic, shallow depth of field\"\n- Mode: base_only\n- Overlay text: \"D49 STUDENT SUCCESS CENTER — Opens Monday, Aug. 3\"\n- Status: not_started\n\n**Article Hero Image:**\n- Prompt: \"Modern school building exterior, welcoming entrance with glass doors, Colorado mountains visible in the background, bright blue sky, no text, photorealistic\"\n- Mode: base_only\n- Dimensions: 1200x630\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D49 Student Success Center Opens Monday\n**HIGH confidence facts:**\n- D49 Student Success Center (SSC) is located at the former Falcon Elementary School of Technology building (D49 official announcement: d49.org)\n- SSC programs: two new full-time preschool classrooms (Mon–Thu schedule, districtwide access); PEAK (higher-level support, \"more school-like experience,\" goal to return to neighborhood school); Elevates (ages 18–21 transition services, relocated in-district from community agencies); BASE49 (before/after school care for SSC preschool students — registration open) (D49 official; BASE49 info page: d49.org/our-services/base49)\n- D49 staggered first day: kindergarteners, 6th graders, and 9th graders begin August 3; all other students begin August 4 (Springs Daily back-to-school roundup; KKTV July 24 school start dates roundup)\n- Preschool: two full-day (Mon–Thu) classrooms with districtwide access — families across D49 can enroll regardless of home school attendance zone (D49 official)\n- PEAK program: described as offering \"a more school-like experience\" as students work toward returning to their neighborhood school (D49 official)\n- Elevates 18–21: students receive transition services within the district rather than through outside community agencies (D49 official)\n- BASE49 at SSC: before/after school care now available for full-day preschool students at the SSC; registration open at d49.org/our-services/base49 (D49 official)\n**MEDIUM confidence facts:**\n- Specific open house event on Aug 3-4 not confirmed in search results; those dates are the staggered first days of school\n- Specific preschool enrollment figures not found\n**Sources:** D49 official announcement (d49.org), BASE49 info page (d49.org/our-services/base49), Springs Daily back-to-school roundup, KKTV July 24 2026",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "New CPSC Recalls: Baby Swings, Bath Seats, Magnetic Toy Sets",
+      "tier": 1,
+      "status": "",
+      "angle": "NEW STORY (different products from July 30 Story 4 which covered Babypark, POPOOO, TOMY PIVOT, Target Gigglescape, Peony Design) — Three urgent 2026 CPSC recalls COS families should check: (1) Sanven Technology/VEVOR Baby Swings — suffocation hazard, violates mandatory infant sleep product standard; (2) NFSVLB Baby Bath Seats — drowning and entrapment hazard, sold on Amazon, violates mandatory infant bath seat standard; (3) Ocensmice Magnetic Building Stick and Ball Sets (Amazon) — CPSC warning, magnets exceed federal strength limits, swallowed magnets can attract through intestinal walls causing perforation or death. Full product details, action steps, and CPSC.gov links in article.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "3 CPSC alerts: check at home.\n\nVEVOR baby swings — suffocation (Amazon)\nNFSVLB bath seats — drowning (Amazon)\nOcensmice magnetic sets — intestinal hazard\n\nStop use. cpsc.gov/Recalls\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 242
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Magnetic toy sets: this hazard is underestimated.\n\nIf a child swallows two high-powered magnets separately, they can attract through intestinal walls — causing perforation, obstruction, or worse.\n\nCheck any magnetic building sets at home. cpsc.gov/Recalls\n\n#COSParenting #COSKids",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#COSKids"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-cpsc-recalls-baby-swings-bath-seats-magnetic-sets.html",
+        "headline": "Three Children's Product Recalls COS Families Should Check Right Now: Baby Swings, Bath Seats, Magnetic Sets",
+        "word_count": 672
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "CPSC Recalls — Baby Swings, Bath Seats, Magnetic Sets\n\n**X/Social Image:**\n- Prompt: \"Close-up of colorful children's toy magnetic building balls and sticks on a white surface, warning/safety conceptual image, no people, clean minimal background, soft lighting, photorealistic\"\n- Mode: base_only\n- Overlay text: \"SAFETY ALERT — Check These Products at Home\"\n- Status: not_started\n\n**Article Hero Image:**\n- Prompt: \"Baby bath seat isolated on white background, product recall concept, clean studio lighting, no people, photorealistic\"\n- Mode: base_only\n- Dimensions: 1200x630\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "CPSC Recalls — Baby Swings, Bath Seats, Magnetic Sets\n**HIGH confidence facts:**\n- **VEVOR/Sanven Technology Baby Swings:** Recalled for suffocation hazard; violates mandatory standard for infant sleep products and the inclined sleepers ban; sold on Amazon (CPSC.gov; Consumer Reports 2026 roundup — confirmed 2026 recall)\n- **NFSVLB Baby Bath Seats:** Recalled for risk of drowning and entrapment; sold on Amazon; violates mandatory standard for infant bath seats (CPSC.gov; Consumer Reports 2026 roundup — confirmed 2026 recall)\n- **Ocensmice Magnetic Building Stick and Ball Sets (Amazon):** CPSC warning (not full recall but CPSC safety warning); magnets exceed federal strength limits; swallowed magnets can attract through intestinal walls causing perforation or death (CPSC.gov advisory — confirmed 2026)\n- For all three: check for products at home and stop use; report to CPSC.gov for remedies; full recall details at CPSC.gov/Recalls\n- Magnet safety: swallowed high-powered magnets are a leading cause of serious intestinal injury in children; even one magnet that attracts to another through intestinal walls can cause perforation, obstruction, or death — federal mandatory magnet standard was updated in 2022 and products must comply (CPSC magnet guidance)\n**MEDIUM confidence facts:**\n- Specific unit counts, sale dates, and remedy details for VEVOR and NFSVLB not pinpointed in search results — full details at CPSC.gov/Recalls\n- Ocensmice is a CPSC warning rather than a formal recall per search results\n**Sources:** CPSC.gov/Recalls, Consumer Reports 2026 baby product recall roundup, CPSC magnet safety guidance",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "CORRECTION — D20 Back-to-School Date Is August 17-18, Not August 13",
+      "tier": 2,
+      "status": "",
+      "angle": "FOLLOW-UP/CORRECTION (July 30 Story 3 reported D20 starts August 13) — Multiple sources including ASD20.org and KKTV's July 24 Colorado Springs school start roundup confirm D20 (Academy District 20) starts August 17–18: preschool, elementary, 6th graders, and 9th graders begin August 17; all other students begin August 18. Families should verify at asd20.org. Full updated COS district calendar: D49 (Aug 3–4, staggered), D11 (Aug 12), D20 (Aug 17–18). Also: D11 will deliver free Edukit school supply kits to more than 14,000 K–8 students on their first day (August 12) through a D11–Edukit partnership.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "CORRECTION: D20 starts Aug. 17-18, not Aug. 13.\n\nD49: Aug. 3 (K/6th/9th), Aug. 4 (all)\nD11: Aug. 12 (Edukit supplies delivered day 1)\nD20: Aug. 17 (preschool/elem/6th/9th), Aug. 18 (all)\n\nasd20.org\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-cos-school-start-dates-d20-correction-d11-edukit.html",
+        "headline": "COS School Start Dates Updated: D20 Begins August 17-18, Not August 13 — Plus D11's Free Supplies",
+        "word_count": 438
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D20 Date Correction + D11 Edukit\n\n**X/Social Image:**\n- Prompt: \"School calendar pinned to a bulletin board, school supplies (pencils, notebooks, folders) arranged around it, warm natural lighting, no text visible, photorealistic, clean aesthetic\"\n- Mode: base_only\n- Overlay text: \"UPDATED: COS Back-to-School Dates 2026\"\n- Status: not_started\n\n**Article Hero Image:**\n- Prompt: \"Colorful school supply kit — pencils, rulers, crayons, folders — neatly arranged on a desk, warm morning light, no text, photorealistic\"\n- Mode: base_only\n- Dimensions: 1200x630\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D20 Back-to-School Date Correction\n**HIGH confidence facts:**\n- D20 (Academy District 20) official 2026–27 calendar: preschool, elementary, 6th graders, and 9th graders begin **August 17, 2026**; all other students begin **August 18, 2026** (ASD20.org official; KKTV July 24 Southern Colorado school start dates roundup; Springs Daily back-to-school roundup)\n- D49 start: K, 6th, 9th graders August 3; all other students August 4 (Springs Daily; KKTV July 24)\n- D11 start: August 12, 2026 (Springs Daily; KKTV July 24)\n- D20 official calendar: asd20.org\n- D11 Edukit partnership: D11 will deliver free, grade-specific school supply kits directly to more than 14,000 K–8 students on D11's first day (August 12) through a D11–Edukit partnership (KKTV July 22, 2026)\n- D11 Edukit kits are grade-specific and delivered directly to students on day 1 at no cost (KKTV July 22 reporting)\n**Note:** July 30 pipeline (Story 3) stated \"D20 (Academy District): August 13 start date.\" The correct date is August 17–18 per the official ASD20.org calendar and multiple local news sources. Families should verify at asd20.org.\n**Sources:** ASD20.org, KKTV July 24 2026 (Southern Colorado school start dates), Springs Daily (COS back-to-school 2026 roundup), KKTV July 22 2026 (D11 Edukit), d11.org",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Colorado Turns 150 Today — Free Pioneers Museum Family Event in COS",
+      "tier": 2,
+      "status": "",
+      "angle": "NEW STORY (previously mentioned as one of five events in July 30 Weekend Roundup; today's article is standalone, day-of coverage with full event details) — Colorado became a state on August 1, 1876 — 150 years ago today. The Colorado Springs Pioneers Museum is hosting a free all-day celebration at 215 S. Tejon Street, 10 a.m.–4 p.m.: United States Air Force Academy \"Wild Blue\" band, food trucks, birthday cake, Pikes Peak Library District historical photo booth, Wishing Star Farms petting zoo, and the opening of new exhibit \"Freedom to Thrive: The American Experiment in Colorado Springs.\" All free; no advance registration required. Families can park and walk to the museum from downtown.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Colorado turns 150 today.\n\nFree celebration at Pioneers Museum through 4 p.m. now:\nUSAFA band, food trucks, birthday cake, petting zoo, photo booth\n\n215 S. Tejon St. No tickets needed.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-colorado-150th-birthday-pioneers-museum-cos.html",
+        "headline": "Colorado Turns 150 Today — Free Family Celebration at Pioneers Museum in COS Through 4 p.m.",
+        "word_count": 482
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Colorado 150th Birthday — Pioneers Museum\n\n**X/Social Image:**\n- Prompt: \"Colorado mountain landscape with colorful wildflowers in the foreground, summer sunset, warm golden tones, no people, no text, photorealistic, scenic panoramic view\"\n- Mode: base_only\n- Overlay text: \"COLORADO DAY — Happy 150th Birthday, Colorado\"\n- Status: not_started\n\n**Article Hero Image:**\n- Prompt: \"Historic Colorado Springs downtown street scene, American flags, summer sunshine, mountain backdrop, no people, photorealistic\"\n- Mode: base_only\n- Dimensions: 1200x630\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Colorado 150th Birthday — Pioneers Museum Event\n**HIGH confidence facts:**\n- Colorado became a state on August 1, 1876 — today is the 150th anniversary of Colorado statehood (Colorado Day)\n- Colorado Springs Pioneers Museum is hosting a free celebration today, August 1, 10 a.m.–4 p.m. (CSPM event page: cspm.org/events/colorado-day; KRDO July 24 preview; KKTV July 28 preview)\n- Location: 215 S. Tejon Street, Colorado Springs (CSPM official)\n- Event includes: United States Air Force Academy \"Wild Blue\" band, food trucks, birthday cake, Pikes Peak Library District historical photo booth, Wishing Star Farms petting zoo (CSPM event page; KRDO preview)\n- New exhibit opening today: \"Freedom to Thrive: The American Experiment in Colorado Springs\" — highlights people and stories examining opportunities and obstacles to freedom in the community (KRDO July 24: \"Colorado Springs Pioneers Museum to open new exhibit during no-cost Colorado 150 celebration\"; KKTV July 28)\n- Admission: free; no advance registration required (CSPM event page)\n- Museum address and parking: 215 S. Tejon Street, downtown Colorado Springs; accessible via downtown parking (visitcos.com)\n- Note: CSPM event page shows 10 a.m.–4 p.m. (research confirmed 4 p.m. end time; July 30 pipeline preview listed 10 a.m.–2 p.m., likely an error — today's article uses 4 p.m. per CSPM official source)\n**Sources:** CSPM (cspm.org), KRDO July 24 2026, KKTV July 28 2026, Visit COS (visitcos.com)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "D11 Bond Vote Is August 5 — Four Days Away",
+      "tier": 2,
+      "status": "",
+      "angle": "FOLLOW-UP (July 30 Story 2) — The D11 Board of Education votes August 5 on whether to place the $775 million bond on the November 2026 ballot. Four days away. The bond would fund air conditioning for D11 schools between 50–100 years old that currently lack AC, and include teacher pay increases. Tax impact if approved and passed by voters: approximately $6.50 more per month per $100,000 of assessed property value. Also notable: Jenkins Middle School (D11) is expected to reopen for students this fall after a roughly 18-month closure due to structural failures (cracking/separating floors and walls). 6th and 7th graders spent 2025–26 in portable classrooms; 8th graders were relocated to Doherty High School. Both stories tie back to the state of D11 facilities. Board meeting info at d11.org.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "D11 Board votes Aug. 5: $775M bond on the November ballot.\n\nWhat's in it: AC for aging schools + teacher pay.\n\nTax impact: ~$6.50/month per $100K property value.\n\nFirst D11 bond since 2004. d11.org\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-d11-bond-vote-august-5-jenkins-middle-school.html",
+        "headline": "D11 Bond Vote Is August 5 — What COS Families Should Know Before the Board Decides",
+        "word_count": 547
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D11 Bond Vote August 5\n\n**X/Social Image:**\n- Prompt: \"Elementary school hallway with lockers and natural light, slightly warm and slightly faded tones suggesting aging infrastructure, empty hallway, no people, photorealistic\"\n- Mode: base_only\n- Overlay text: \"D11 BOND VOTE — August 5\"\n- Status: not_started\n\n**Article Hero Image:**\n- Prompt: \"School building exterior in Colorado, brick facade, large windows, clear blue sky, Pikes Peak visible in background, no people, photorealistic, daytime\"\n- Mode: base_only\n- Dimensions: 1200x630\n- Status: not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D11 Bond Vote August 5\n**HIGH confidence facts:**\n- D11 Board of Education votes August 5, 2026 at its regular meeting on whether to place the $775M bond on the November 2026 ballot (Colorado Springs Gazette July 29, 2026; KRDO May 27, 2026; D11 Bond FAQ: d11.org/bond/faq)\n- Bond purpose: air conditioning for D11 schools between 50–100 years old that currently lack AC + teacher pay increases (Gazette July 29; KRDO; D11 FAQ)\n- Tax impact: approximately $6.50 more per month per $100,000 of assessed property value (Gazette July 29, 2026)\n- Historical context: this would be D11's first new bond since 2004 — 22 years (Gazette July 29; KRDO)\n- Jenkins Middle School: expected to reopen for students this fall 2026 after approximately 18-month closure due to structural failures (cracking and separating floors and walls); 6th and 7th graders spent 2025–26 in portable classrooms in the parking lot while 8th graders were relocated to Doherty High School (KKTV July 22, 2026)\n- D11 board meeting info and bond FAQ: d11.org\n**Sources:** Colorado Springs Gazette July 29 2026, KRDO May 27 2026, D11 Bond FAQ (d11.org/bond/faq), KKTV July 22 2026 (Jenkins Middle School)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

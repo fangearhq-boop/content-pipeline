@@ -2,6 +2,50 @@
 
 ---
 
+## August 1, 2026
+
+### Story 1: D49 Student Success Center Opens Monday, August 3
+- **Date:** 2026-08-01
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — D49's Student Success Center opens Monday Aug. 3 at former Falcon Elementary School of Technology. Programs: districtwide preschool Mon–Thu (any D49 family), PEAK (K–5 enrichment), Elevates 18–21 (transition-age), BASE49 (before/after care). Enrollment at d49.org.
+- **Content Produced:** Article (Sarah Morales), 2 X posts, Facebook Long-Form, Facebook Image Caption, Image Concept (x_image + facebook_image + article_hero)
+- **Tier:** 1
+- **Key Facts:** Opens Aug. 3, 2026; location: former Falcon Elementary School of Technology (D49); preschool program Mon–Thu, open to any D49 family (districtwide); programs: PEAK, Elevates (18–21), BASE49; enrollment: d49.org; Sources: D49.org, KKTV
+
+### Story 2: Three CPSC Recalls — VEVOR Baby Swings, NFSVLB Bath Seats, Ocensmice Magnetic Sets
+- **Date:** 2026-08-01
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (July 30 Story 4 covered different products: Babypark, POPOOO, TOMY Boon PIVOT, Target Gigglescape, Peony Design) — VEVOR baby swings (Sanven Technology, suffocation/inclined sleeper ban violation, Amazon); NFSVLB bath seats (drowning/entrapment, mandatory standard violation, Amazon); Ocensmice magnetic building sets (magnets exceed strength limit, intestinal perforation if swallowed, CPSC safety warning not full recall).
+- **Content Produced:** Article (Jamie Rivera), 2 X posts, Facebook Long-Form, Facebook Image Caption, Image Concept (x_image + facebook_image + article_hero)
+- **Tier:** 1
+- **Key Facts:** VEVOR swings: Sanven Technology, suffocation hazard, violates inclined sleepers ban, Amazon; NFSVLB bath seats: drowning/entrapment, violates mandatory standard, Amazon; Ocensmice magnetic sets: CPSC safety warning (not recall), magnets exceed 2022 strength limits, perforation/obstruction risk if swallowed; all: stop use, check CPSC.gov/Recalls; Sources: CPSC.gov
+
+### Story 3: CORRECTION — D20 Starts August 17-18, Not August 13; D11 Edukit Supplies
+- **Date:** 2026-08-01
+- **Content Pillar:** Local News
+- **Angle:** CORRECTION of July 30 Story 3 — D20 official start date is Aug. 17-18 (preschool/elem/6th/9th on Aug. 17; all others Aug. 18), not Aug. 13 as previously reported. Full corrected COS district calendar: D49 Aug. 3-4, D11 Aug. 12, D20 Aug. 17-18. BONUS: D11 Edukit partnership — free grade-specific supply kits for all 14,000+ D11 K–8 students, delivered on first day (Aug. 12).
+- **Content Produced:** Article (Sarah Morales), 1 X post, Facebook Long-Form, Facebook Image Caption, Image Concept (x_image + facebook_image + article_hero)
+- **Tier:** 2
+- **Key Facts:** D20 official start: Aug. 17 (preschool/elem/6th/9th), Aug. 18 (all others) per asd20.org; D49: Aug. 3 (K/6th/9th), Aug. 4 (all); D11: Aug. 12; D11 Edukit: free grade-specific supplies, 14,000+ K–8 students, delivered day 1 (Aug. 12), no family purchase needed; Sources: asd20.org, KKTV, D11 / Edukit
+
+### Story 4: Colorado Turns 150 — Free Family Celebration at Pioneers Museum Through 4 p.m.
+- **Date:** 2026-08-01
+- **Content Pillar:** Local Events
+- **Angle:** SAME-DAY STORY — Colorado statehood Aug. 1, 1876 (150 years today). Pioneers Museum event: free, runs through 4 p.m., USAFA "Wild Blue" ensemble, food trucks, birthday cake, Wishing Star Farms petting zoo, PPLD historical photo booth, new exhibit "Freedom to Thrive: The American Experiment in Colorado Springs." Location: 215 S. Tejon St. No tickets required.
+- **Content Produced:** Article (Jamie Rivera), 1 X post, Facebook Long-Form, Facebook Image Caption, Image Concept (x_image + facebook_image + article_hero)
+- **Tier:** 2
+- **Key Facts:** Colorado statehood: Aug. 1, 1876 (38th state, "The Centennial State"); Pioneers Museum: 215 S. Tejon St., free, through 4 p.m. today; USAFA "Wild Blue" ensemble; Wishing Star Farms petting zoo; PPLD photo booth; new exhibit: "Freedom to Thrive: The American Experiment in Colorado Springs"; event end time 4 p.m. per CSPM.org and KRDO (corrects July 30 pipeline which said 2 p.m.); Sources: CSPM.org, KRDO, City of Colorado Springs
+
+### Story 5: D11 Bond Vote Is August 5 — What COS Families Should Know
+- **Date:** 2026-08-01
+- **Content Pillar:** Local News
+- **Angle:** FOLLOW-UP from July 30 Story 2 — New angle: countdown to the vote (4 days out), Jenkins Middle School closure context (18-month structural failure, portables in parking lot, 8th graders relocated to Doherty HS). Vote Aug. 5 whether to place $775M bond on November 2026 ballot. First school day D11 Aug. 12 — one week after bond vote.
+- **Content Produced:** Article (Sarah Morales), 1 X post, Facebook Long-Form, Facebook Image Caption, Image Concept (x_image + facebook_image + article_hero)
+- **Tier:** 2
+- **Key Facts:** D11 board vote: Aug. 5, 2026; bond: $775M; uses: AC for schools 50–100 years old + teacher pay increases; tax: ~$6.50/month per $100K assessed value; last D11 bond: 2004 (22 years); Jenkins Middle School: closed 18 months due to structural failure (cracking/separating floors + walls), 6th/7th grades in parking lot portables, 8th grade relocated to Doherty HS, expected to reopen fall 2026; D11 first day: Aug. 12 (one week after vote); Sources: Colorado Springs Gazette, KRDO, KOAA, D11.org
+
+---
+
 ## July 30, 2026
 
 ### Story 1: Things to Do with Kids in Colorado Springs This Weekend (July 31–August 2)
