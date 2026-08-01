@@ -1,0 +1,214 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-01",
+  "compiled_at": "2026-08-01T10:45:11.378272+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Trade Deadline 2 Days Away — Skubal Decision Is Looming",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "ESPN: Tarik Skubal IS getting traded.\n\nThe Tigers ace (2.79 ERA, 116 K in 16 starts, two-time AL Cy Young) is heading to a contender before Sunday's 6 PM ET deadline.\n\nDodgers, Yankees, Braves, Cubs and Phillies all in.\n\n#MLB #Tigers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#Tigers"
+          ],
+          "char_count": 233
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The MLB trade market is moving ahead of Sunday's deadline. Already done:\n\nUrquidy to White Sox · Pearson to Royals · O'Hoppe + Silseth to Rangers · Civale to Cubs · Halvorsen to Dodgers · Minter to Twins\n\nMore coming.\n\n#MLB #TradeDeadline",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#TradeDeadline"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-01-trade-deadline-skubal-48-hours.html",
+        "headline": "ESPN: Tarik Skubal Is Getting Traded — 48 Hours to Go",
+        "word_count": 661
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Dylan Cease Is Having a Season — AL Cy Young Case Is Building",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Dylan Cease is building a legitimate AL Cy Young case.\n\nThe Blue Jays ace: 6-4, 2.56 ERA, 148 K across 17 starts — and led all of MLB with 49 strikeouts in July.\n\nThe first Blue Jays pitcher to start the All-Star Game since Roy Halladay in 2009.\n\n#BlueJays #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BlueJays",
+            "#MLB"
+          ],
+          "char_count": 261
+        },
+        {
+          "label": "Post 2-2",
+          "text": "With Skubal likely heading to a contender, where does Dylan Cease rank in the AL Cy Young race?\n\nHe's 6-4, 2.56 ERA, 148 K — and just won July with 49 strikeouts in 6 starts.\n\nThe case is real.\n\n#BlueJays #MLB #CyYoung",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BlueJays",
+            "#MLB",
+            "#CyYoung"
+          ],
+          "char_count": 218
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-02-dylan-cease-al-cy-young-case.html",
+        "headline": "Dylan Cease Is the AL's Pitcher of July — and the Cy Young Case Is Real",
+        "word_count": 586
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Ohtani Hits HR No. 23 as DH — Mound Return Could Come This Weekend",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Shohei Ohtani hit his 23rd home run as DH on July 31 (vs. Red Sox).\n\nDodgers manager Dave Roberts says he hopes Ohtani can start throwing again as early as this weekend.\n\nHe hasn't pitched since July 3.\n\n#Dodgers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#MLB"
+          ],
+          "char_count": 217
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-03-ohtani-hr-23-mound-return.html",
+        "headline": "Ohtani Hits HR No. 23 as DH — Mound Return Could Come as Early as This Weekend",
+        "word_count": 548
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Chris Sale Is Making History at Age 37",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Chris Sale at 37: 12-6, 2.08 ERA, 143 K across 20 starts for Atlanta.\n\nHis ERA is the 3rd-lowest by any pitcher age 37+ since 1950 — behind only Clemens (1.40 in 2005) and Verlander (1.73 in 2022).\n\nAlso: fastest pitcher ever to reach 2,500 career K by IP.\n\n#Braves #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Braves",
+            "#MLB"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-04-chris-sale-age-37-history.html",
+        "headline": "Chris Sale at 37 Is Making the History Books — The Numbers Are Remarkable",
+        "word_count": 635
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "July 31 Scoreboard — Sal Stewart Walk-Off, Red Sox Over Dodgers",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "July 31 scoreboard highlights:\n\nSal Stewart walk-off 2-run HR — Reds 8, Pirates 7 (Stewart 4 RBI)\nRed Sox over Dodgers — Ohtani HR No. 23 as DH\n\nJose Ramirez became the first Guardian to homer against all 29 other MLB clubs.\n\n#MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-05-july-31-scoreboard-recap.html",
+        "headline": "July 31 MLB Recap: Sal Stewart Walk-Off, Ohtani Homers, Ramirez Makes History",
+        "word_count": 562
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No Facebook posts found",
+      "Story 1: No posting window specified",
+      "Story 2: No Facebook posts found",
+      "Story 2: No posting window specified",
+      "Story 3: No Facebook posts found",
+      "Story 3: No posting window specified",
+      "Story 4: No Facebook posts found",
+      "Story 4: No posting window specified",
+      "Story 5: No Facebook posts found",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

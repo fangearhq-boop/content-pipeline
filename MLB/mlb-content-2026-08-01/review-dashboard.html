@@ -1,0 +1,2669 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ballpark Banter — Content Review Dashboard</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: #f5f5f5;
+            display: flex;
+            min-height: 100vh;
+            color: #333;
+        }
+
+        .sidebar {
+            width: 280px;
+            background: #1a1a2e;
+            color: white;
+            padding: 30px 20px;
+            position: fixed;
+            height: 100vh;
+            overflow-y: auto;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+            z-index: 10;
+        }
+
+        .sidebar h1 { font-size: 18px; margin-bottom: 10px; color: #FF8A00; font-weight: 700; }
+        .sidebar-date { font-size: 12px; color: #aaa; margin-bottom: 30px; padding-bottom: 20px; border-bottom: 1px solid #333; }
+        .sidebar-section { margin-bottom: 25px; }
+        .sidebar-section-title { font-size: 12px; text-transform: uppercase; color: #999; margin-bottom: 12px; font-weight: 600; letter-spacing: 1px; }
+
+        .nav-item {
+            display: block; padding: 12px 15px; margin-bottom: 8px; border-radius: 6px;
+            cursor: pointer; transition: all 0.3s ease; font-size: 14px; color: #ddd; user-select: none;
+        }
+        .nav-item:hover { background: #2d2d44; color: #FF8A00; }
+        .nav-item.active { background: #FF8A00; color: white; }
+        .nav-item-count { float: right; background: rgba(255, 107, 53, 0.3); padding: 2px 8px; border-radius: 3px; font-size: 12px; }
+        .nav-item.active .nav-item-count { background: rgba(0, 0, 0, 0.2); }
+
+        .main-content { margin-left: 280px; flex: 1; display: flex; flex-direction: column; }
+
+        .header {
+            background: white; padding: 25px 40px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-bottom: 3px solid #FF8A00;
+        }
+        .header h1 { font-size: 28px; color: #1a1a2e; margin-bottom: 10px; }
+        .header-meta { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px; }
+        .progress-bar { flex: 1; min-width: 200px; }
+        .progress-label { font-size: 13px; color: #666; margin-bottom: 8px; font-weight: 500; }
+        .progress-container { width: 100%; height: 8px; background: #ddd; border-radius: 4px; overflow: hidden; }
+        .progress-fill { height: 100%; background: linear-gradient(90deg, #FF8A00, #E53935); transition: width 0.3s ease; }
+        .header-actions { display: flex; gap: 10px; }
+
+        .btn {
+            padding: 10px 16px; border: none; border-radius: 6px; font-size: 14px;
+            font-weight: 600; cursor: pointer; transition: all 0.3s ease; white-space: nowrap;
+        }
+        .btn-primary { background: #FF8A00; color: white; }
+        .btn-primary:hover { background: #E53935; }
+        .btn-secondary { background: #f0f0f0; color: #333; }
+        .btn-secondary:hover { background: #e0e0e0; }
+
+        .filter-bar {
+            background: white; padding: 20px 40px; display: flex;
+            gap: 10px; flex-wrap: wrap; border-bottom: 1px solid #eee;
+        }
+        .filter-btn {
+            padding: 8px 14px; border: 1px solid #ddd; background: white;
+            border-radius: 5px; cursor: pointer; font-size: 13px; transition: all 0.3s ease;
+        }
+        .filter-btn:hover { border-color: #FF8A00; color: #FF8A00; }
+        .filter-btn.active { background: #FF8A00; color: white; border-color: #FF8A00; }
+
+        .content { flex: 1; padding: 30px 40px; overflow-y: auto; }
+
+        .cards-container { display: flex; flex-direction: column; gap: 20px; max-width: 900px; }
+
+        .card {
+            background: white; border-radius: 8px; padding: 24px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1); transition: all 0.3s ease;
+            border-left: 5px solid #ccc; display: none;
+        }
+        .card.show { display: block; }
+        .card.approved { border-left-color: #22c55e; }
+        .card.needs-edit { border-left-color: #eab308; }
+        .card.rejected { border-left-color: #ef4444; }
+        .card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.12); }
+
+        .card-header { display: flex; justify-content: space-between; align-items: start; margin-bottom: 15px; }
+        .card-title { font-size: 16px; font-weight: 600; color: #1a1a2e; flex: 1; margin-right: 10px; }
+
+        .card-badge {
+            display: inline-block; padding: 4px 10px; border-radius: 4px;
+            font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;
+        }
+        .badge-x-post { background: #1da1f2; color: white; }
+        .badge-facebook { background: #4267b2; color: white; }
+        .badge-article { background: #9333ea; color: white; }
+        .badge-image { background: #06b6d4; color: white; }
+        .badge-brief { background: #10b981; color: white; }
+
+        .fact-check-badge {
+            display: inline-block; padding: 3px 8px; border-radius: 4px;
+            font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;
+            margin-left: 6px;
+        }
+        .fact-check-verified { background: #dcfce7; color: #166534; border: 1px solid #86efac; }
+        .fact-check-warning { background: #fef9c3; color: #854d0e; border: 1px solid #fde047; }
+        .fact-check-unverified { background: #fee2e2; color: #991b1b; border: 1px solid #fca5a5; }
+
+        /* Content area — preview (collapsed) and full (expanded) */
+        .card-content {
+            background: #f9f9f9; padding: 15px; border-radius: 6px;
+            margin-bottom: 15px; font-size: 13px; line-height: 1.6; color: #555;
+            position: relative;
+        }
+        .card-content-text {
+            white-space: pre-wrap; word-break: break-word;
+        }
+
+        /* Collapsed state: limit height with fade */
+        .card-content.collapsed {
+            max-height: 200px; overflow: hidden;
+        }
+        .card-content.collapsed::after {
+            content: '';
+            position: absolute; bottom: 0; left: 0; right: 0; height: 60px;
+            background: linear-gradient(transparent, #f9f9f9);
+            pointer-events: none;
+        }
+
+        /* Expanded state: no limit */
+        .card-content.expanded {
+            max-height: none; overflow: visible;
+        }
+        .card-content.expanded::after { display: none; }
+
+        .expand-toggle {
+            display: inline-block; margin-bottom: 12px; padding: 6px 14px;
+            background: #eee; border: 1px solid #ddd; border-radius: 4px;
+            cursor: pointer; font-size: 12px; font-weight: 600; color: #555;
+            transition: all 0.2s ease;
+        }
+        .expand-toggle:hover { background: #ddd; color: #333; }
+
+        /* Inline editing */
+        .edit-textarea {
+            width: 100%; padding: 15px; border: 2px solid #FF8A00;
+            border-radius: 6px; font-size: 13px; font-family: inherit;
+            line-height: 1.6; resize: vertical; min-height: 200px;
+            background: #fffef5; color: #333; display: none;
+        }
+        .edit-textarea:focus {
+            outline: none; box-shadow: 0 0 0 3px rgba(255, 107, 53, 0.15);
+        }
+        .card.editing .card-content { display: none; }
+        .card.editing .edit-textarea { display: block; }
+        .card.editing .expand-toggle { display: none; }
+
+        .edit-bar {
+            display: none; gap: 8px; margin-bottom: 12px; padding: 10px;
+            background: #fff8f0; border: 1px solid #ffcc99; border-radius: 6px;
+            align-items: center;
+        }
+        .card.editing .edit-bar { display: flex; }
+        .edit-bar-label { font-size: 12px; font-weight: 600; color: #cc6600; flex: 1; }
+        .edit-bar .btn { padding: 7px 14px; font-size: 12px; }
+
+        .tweet-meta-bar {
+            display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; padding: 0;
+        }
+        .tweet-meta-badge {
+            display: inline-block; padding: 4px 10px; border-radius: 4px;
+            font-size: 11px; font-weight: 600; letter-spacing: 0.3px;
+        }
+        .tweet-meta-label { background: #e0e7ff; color: #3730a3; }
+        .tweet-meta-time { background: #fef3c7; color: #92400e; }
+        .tweet-meta-type { background: #d1fae5; color: #065f46; }
+        .tweet-meta-tier { background: #f3e8ff; color: #6b21a8; }
+        .tweet-meta-hashtags { background: #dbeafe; color: #1e40af; font-family: monospace; }
+
+        .char-count {
+            font-size: 12px; margin: 0 0 10px 0; padding: 8px;
+            background: #f0f0f0; border-radius: 4px;
+        }
+        .char-count.warning { background: #fee2e2; color: #991b1b; }
+
+        .card-actions { display: flex; gap: 8px; margin-bottom: 12px; flex-wrap: wrap; }
+        .action-btn {
+            flex: 1; padding: 10px; border: none; border-radius: 5px;
+            cursor: pointer; font-size: 13px; font-weight: 600;
+            transition: all 0.3s ease; white-space: nowrap; min-width: 100px;
+        }
+        .btn-approve { background: #e8f5e9; color: #22c55e; border: 1px solid #22c55e; }
+        .btn-approve:hover { background: #22c55e; color: white; }
+        .btn-edit { background: #fff3e0; color: #e65100; border: 1px solid #ff9800; }
+        .btn-edit:hover { background: #ff9800; color: white; }
+        .btn-reject { background: #fee2e2; color: #ef4444; border: 1px solid #ef4444; }
+        .btn-reject:hover { background: #ef4444; color: white; }
+        .btn-copy { background: #f0f0f0; color: #333; border: 1px solid #ddd; }
+        .btn-copy:hover { background: #e0e0e0; }
+
+        .notes-section { display: none; margin-bottom: 12px; }
+        .notes-section.show { display: block; }
+        .notes-label { font-size: 12px; font-weight: 600; color: #666; margin-bottom: 6px; }
+        .notes-textarea {
+            width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px;
+            font-size: 13px; font-family: inherit; resize: vertical; min-height: 60px;
+        }
+        .notes-textarea:focus { outline: none; border-color: #FF8A00; box-shadow: 0 0 0 3px rgba(255, 107, 53, 0.1); }
+
+        .status-label {
+            font-size: 11px; font-weight: 600; text-transform: uppercase;
+            padding: 4px 8px; border-radius: 3px; margin-top: 10px; display: inline-block;
+        }
+        .status-approved { background: #e8f5e9; color: #22c55e; }
+        .status-needs-edit { background: #fffbeb; color: #f59e0b; }
+        .status-rejected { background: #fee2e2; color: #ef4444; }
+        .status-edited { background: #e3f2fd; color: #1565c0; }
+
+        .empty-state { text-align: center; padding: 60px 20px; color: #999; }
+        .empty-state-icon { font-size: 48px; margin-bottom: 15px; }
+
+        /* Approval stats bar */
+        .approval-stats {
+            display: flex; gap: 16px; margin-top: 12px; flex-wrap: wrap;
+        }
+        .stat-chip {
+            display: inline-flex; align-items: center; gap: 6px;
+            padding: 4px 12px; border-radius: 20px; font-size: 13px; font-weight: 600;
+        }
+        .stat-approved { background: #dcfce7; color: #16a34a; }
+        .stat-rejected { background: #fee2e2; color: #dc2626; }
+        .stat-unreviewed { background: #f3f4f6; color: #6b7280; }
+        .stat-dot { width: 8px; height: 8px; border-radius: 50%; }
+        .stat-approved .stat-dot { background: #22c55e; }
+        .stat-rejected .stat-dot { background: #ef4444; }
+        .stat-unreviewed .stat-dot { background: #9ca3af; }
+
+        /* PostPlanner XLSX button */
+        .btn-csv { background: #7c3aed; color: white; }
+        .btn-csv:hover { background: #6d28d9; }
+        .btn-csv:disabled { background: #c4b5fd; cursor: not-allowed; }
+
+        /* Schedule settings panel */
+        .schedule-panel {
+            display: none; position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%);
+            background: white; border-radius: 12px; padding: 30px; z-index: 1000;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3); width: 500px; max-width: 90vw; max-height: 80vh; overflow-y: auto;
+        }
+        .schedule-panel.show { display: block; }
+        .schedule-overlay { display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.5); z-index: 999; }
+        .schedule-overlay.show { display: block; }
+        .schedule-panel h3 { color: #1a1a2e; margin-bottom: 20px; font-size: 18px; }
+        .schedule-section { margin-bottom: 20px; }
+        .schedule-section label { display: block; font-size: 13px; font-weight: 600; color: #555; margin-bottom: 6px; }
+        .schedule-section input { width: 100%; padding: 8px 12px; border: 1px solid #ddd; border-radius: 4px; font-size: 14px; }
+        .schedule-section input:focus { outline: none; border-color: #7c3aed; }
+        .time-slots { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; }
+        .time-slot {
+            display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px;
+            background: #f3f0ff; border: 1px solid #c4b5fd; border-radius: 20px; font-size: 13px;
+        }
+        .time-slot .remove-slot { cursor: pointer; color: #999; font-weight: bold; }
+        .time-slot .remove-slot:hover { color: #ef4444; }
+        .add-slot-btn {
+            padding: 6px 14px; background: #f3f0ff; border: 1px dashed #7c3aed; border-radius: 20px;
+            cursor: pointer; font-size: 13px; color: #7c3aed;
+        }
+        .add-slot-btn:hover { background: #ede9fe; }
+        .schedule-actions { display: flex; gap: 10px; justify-content: flex-end; margin-top: 20px; }
+
+        /* Photo search links for image concepts */
+        .photo-section {
+            margin-bottom: 15px; padding: 12px; background: #f0f9ff;
+            border: 1px solid #bae6fd; border-radius: 6px;
+        }
+        .photo-section-title {
+            font-size: 12px; font-weight: 700; color: #0369a1; text-transform: uppercase;
+            letter-spacing: 0.5px; margin-bottom: 8px;
+        }
+        .photo-links { display: flex; flex-wrap: wrap; gap: 6px; }
+        .photo-link {
+            display: inline-block; padding: 6px 12px; background: #0ea5e9;
+            color: white; border-radius: 4px; font-size: 12px; font-weight: 500;
+            text-decoration: none; transition: all 0.2s ease; cursor: pointer;
+        }
+        .photo-link:hover { background: #0284c7; }
+
+        /* Image URL input and preview for image concepts */
+        .image-url-section {
+            margin-bottom: 15px; padding: 12px; background: #f0fdf4;
+            border: 1px solid #bbf7d0; border-radius: 6px;
+        }
+        .image-url-section label {
+            display: block; font-size: 12px; font-weight: 700; color: #166534;
+            text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 6px;
+        }
+        .image-url-input {
+            width: 100%; padding: 8px 10px; border: 1px solid #86efac;
+            border-radius: 4px; font-size: 13px; font-family: monospace;
+            background: white; box-sizing: border-box;
+        }
+        .image-url-input:focus { outline: none; border-color: #22c55e; box-shadow: 0 0 0 2px rgba(34,197,94,0.2); }
+        .image-url-hint {
+            font-size: 11px; color: #6b7280; margin-top: 4px;
+        }
+        .image-preview {
+            margin-top: 8px; text-align: center;
+        }
+        .image-preview img {
+            max-width: 100%; max-height: 200px; border-radius: 4px;
+            border: 1px solid #d1d5db; display: none;
+        }
+        .image-preview img.loaded { display: inline-block; }
+
+        /* Image production status badges */
+        .image-badge {
+            display: inline-block; padding: 2px 8px; border-radius: 3px;
+            font-size: 10px; font-weight: 700; text-transform: uppercase;
+            letter-spacing: 0.5px; margin-left: 6px;
+        }
+        .image-exported { background: #dcfce7; color: #166534; }
+        .image-in-progress { background: #fef3c7; color: #92400e; }
+        .image-not-started { background: #f3f4f6; color: #6b7280; }
+
+        /* Text overlay preview for image concepts */
+        .overlay-section {
+            margin-bottom: 15px; padding: 15px; background: #1a1a2e;
+            border-radius: 6px; text-align: center;
+        }
+        .overlay-line {
+            font-family: 'Bebas Neue', Impact, 'Arial Black', sans-serif;
+            color: #ffd700; font-size: 18px; font-weight: 700; line-height: 1.4;
+            text-transform: uppercase; letter-spacing: 1px;
+        }
+        .overlay-line.sub { color: #ffffff; font-size: 14px; font-weight: 400; letter-spacing: 0; text-transform: none; }
+
+        /* Article content rendered as HTML */
+        .article-frame {
+            width: 100%; border: 1px solid #ddd; border-radius: 6px;
+            background: white; min-height: 300px;
+        }
+
+        @media (max-width: 768px) {
+            .sidebar { width: 100%; height: auto; position: relative; padding: 20px; }
+            .main-content { margin-left: 0; }
+            .content { padding: 20px; }
+            .header { padding: 15px 20px; }
+            .header h1 { font-size: 20px; }
+            .filter-bar { padding: 15px 20px; }
+            .header-meta { flex-direction: column; align-items: stretch; }
+            .progress-bar { min-width: auto; }
+        }
+
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: #f1f1f1; }
+        ::-webkit-scrollbar-thumb { background: #888; border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: #555; }
+    </style>
+</head>
+<body>
+    <div class="sidebar">
+        <h1>Ballpark Banter</h1>
+        <div class="sidebar-date">Review Dashboard<br>2026-08-01</div>
+
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Content Types</div>
+            <div class="nav-item" onclick="filterByType('daily_brief')">
+                Daily Brief
+                <span class="nav-item-count">5</span>
+            </div>
+            <div class="nav-item" onclick="filterByType('x_post')">
+                X / Twitter Posts
+                <span class="nav-item-count">7</span>
+            </div>
+            <div class="nav-item" onclick="filterByType('article')">
+                Articles
+                <span class="nav-item-count">5</span>
+            </div>
+
+            <div class="nav-item" onclick="filterByType('all')">
+                All Items
+                <span class="nav-item-count">17</span>
+            </div>
+        </div>
+
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Status Filter</div>
+            <div class="nav-item" onclick="filterByStatus('all')">All</div>
+            <div class="nav-item" onclick="filterByStatus('unreviewed')">Unreviewed</div>
+            <div class="nav-item" onclick="filterByStatus('approved')">Approved</div>
+            <div class="nav-item" onclick="filterByStatus('needs-edit')">Needs Edit</div>
+            <div class="nav-item" onclick="filterByStatus('rejected')">Rejected</div>
+        </div>
+
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Actions</div>
+            <div class="nav-item" onclick="approveAll()" style="color: #22c55e;">
+                Approve All
+            </div>
+            <div class="nav-item" onclick="exportApprovals()" style="color: #FF8A00;">
+                Export Results JSON
+            </div>
+            <div class="nav-item" onclick="downloadPostPlannerCSV()" style="color: #a78bfa;">
+                PostPlanner Upload
+            </div>
+            <div class="nav-item" onclick="downloadTOBIExport()" style="color: #f472b6;">
+                TOBI Upload
+            </div>
+        </div>
+    </div>
+
+    <div class="main-content">
+        <div class="header">
+            <h1>Ballpark Banter — Content Review Dashboard</h1>
+            <div class="header-meta">
+                <div class="progress-bar">
+                    <div class="progress-label">
+                        <span id="reviewed-count">0</span> of <span id="total-count">17</span> items reviewed
+                    </div>
+                    <div class="progress-container">
+                        <div class="progress-fill" id="progress-fill" style="width: 0%"></div>
+                    </div>
+                    <div class="approval-stats" id="approval-stats">
+                        <span class="stat-chip stat-approved"><span class="stat-dot"></span> <span id="stat-approved-count">0</span> approved</span>
+                        <span class="stat-chip stat-rejected"><span class="stat-dot"></span> <span id="stat-rejected-count">0</span> rejected</span>
+                        <span class="stat-chip stat-unreviewed"><span class="stat-dot"></span> <span id="stat-unreviewed-count">0</span> unreviewed</span>
+                    </div>
+                </div>
+                <div class="header-actions">
+                    <button class="btn btn-secondary" onclick="resetAll()">Reset All</button>
+                    <button class="btn btn-csv" id="btn-csv" onclick="downloadPostPlannerCSV()" disabled>PostPlanner Upload (0 approved)</button>
+                    <button class="btn btn-csv" id="btn-tobi" onclick="downloadTOBIExport()" disabled style="background: #831843; border-color: #f472b6;">TOBI Upload (0 approved)</button>
+                    <button class="btn btn-primary" onclick="exportApprovals()">Export JSON</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="filter-bar">
+            <button class="filter-btn active" onclick="filterByStatus('all')">All</button>
+            <button class="filter-btn" onclick="filterByStatus('unreviewed')">Unreviewed</button>
+            <button class="filter-btn" onclick="filterByStatus('approved')">Approved</button>
+            <button class="filter-btn" onclick="filterByStatus('needs-edit')">Needs Edit</button>
+            <button class="filter-btn" onclick="filterByStatus('rejected')">Rejected</button>
+        </div>
+
+
+        <div class="content">
+            <div class="cards-container" id="cards-container">
+                <div class="card" data-id="story-1-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Trade Deadline 2 Days Away — Skubal Decision Is Looming</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-1-daily_brief">
+                        <div class="card-content-text">Trade Deadline 2 Days Away — Skubal Decision Is Looming</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-1-daily_brief" placeholder="Edit content here...">Trade Deadline 2 Days Away — Skubal Decision Is Looming</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-1-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-1-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-1-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-1-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-1-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-1-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-1-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-1-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-1-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-1-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-1-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-1-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Trade Deadline 2 Days Away — Skubal Decision Is Looming</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 1-1</span><span class="tweet-meta-badge tweet-meta-tier">Tier 0</span><span class="tweet-meta-badge tweet-meta-hashtags">#MLB #Tigers</span></div>
+
+                    <div class="card-content expanded" id="content-story-1-x_post-1">
+                        <div class="card-content-text">ESPN: Tarik Skubal IS getting traded.
+
+The Tigers ace (2.79 ERA, 116 K in 16 starts, two-time AL Cy Young) is heading to a contender before Sunday&#x27;s 6 PM ET deadline.
+
+Dodgers, Yankees, Braves, Cubs and Phillies all in.
+
+#MLB #Tigers</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-1-x_post-1" placeholder="Edit content here...">ESPN: Tarik Skubal IS getting traded.
+
+The Tigers ace (2.79 ERA, 116 K in 16 starts, two-time AL Cy Young) is heading to a contender before Sunday&#x27;s 6 PM ET deadline.
+
+Dodgers, Yankees, Braves, Cubs and Phillies all in.
+
+#MLB #Tigers</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-1-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-1-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-1-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-1-x_post-1">Characters: 233/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-1-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-1-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-1-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-1-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-1-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-1-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-1-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-1-x_post-1"></div>
+                </div>
+                <div class="card" data-id="story-1-x_post-2" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Trade Deadline 2 Days Away — Skubal Decision Is Looming</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 1-2</span><span class="tweet-meta-badge tweet-meta-tier">Tier 0</span><span class="tweet-meta-badge tweet-meta-hashtags">#MLB #TradeDeadline</span></div>
+
+                    <div class="card-content expanded" id="content-story-1-x_post-2">
+                        <div class="card-content-text">The MLB trade market is moving ahead of Sunday&#x27;s deadline. Already done:
+
+Urquidy to White Sox · Pearson to Royals · O&#x27;Hoppe + Silseth to Rangers · Civale to Cubs · Halvorsen to Dodgers · Minter to Twins
+
+More coming.
+
+#MLB #TradeDeadline</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-1-x_post-2" placeholder="Edit content here...">The MLB trade market is moving ahead of Sunday&#x27;s deadline. Already done:
+
+Urquidy to White Sox · Pearson to Royals · O&#x27;Hoppe + Silseth to Rangers · Civale to Cubs · Halvorsen to Dodgers · Minter to Twins
+
+More coming.
+
+#MLB #TradeDeadline</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-1-x_post-2">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-1-x_post-2')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-1-x_post-2')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-1-x_post-2">Characters: 238/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-1-x_post-2">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-1-x_post-2')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-1-x_post-2')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-1-x_post-2')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-1-x_post-2')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-1-x_post-2">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-1-x_post-2" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-1-x_post-2"></div>
+                </div>
+                <div class="card" data-id="story-2-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Dylan Cease Is Having a Season — AL Cy Young Case Is Building</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-2-daily_brief">
+                        <div class="card-content-text">Dylan Cease Is Having a Season — AL Cy Young Case Is Building</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-2-daily_brief" placeholder="Edit content here...">Dylan Cease Is Having a Season — AL Cy Young Case Is Building</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-2-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-2-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-2-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-2-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-2-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-2-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-2-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-2-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-2-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-2-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-2-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-2-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Dylan Cease Is Having a Season — AL Cy Young Case Is Building</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 2-1</span><span class="tweet-meta-badge tweet-meta-tier">Tier 0</span><span class="tweet-meta-badge tweet-meta-hashtags">#BlueJays #MLB</span></div>
+
+                    <div class="card-content expanded" id="content-story-2-x_post-1">
+                        <div class="card-content-text">Dylan Cease is building a legitimate AL Cy Young case.
+
+The Blue Jays ace: 6-4, 2.56 ERA, 148 K across 17 starts — and led all of MLB with 49 strikeouts in July.
+
+The first Blue Jays pitcher to start the All-Star Game since Roy Halladay in 2009.
+
+#BlueJays #MLB</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-2-x_post-1" placeholder="Edit content here...">Dylan Cease is building a legitimate AL Cy Young case.
+
+The Blue Jays ace: 6-4, 2.56 ERA, 148 K across 17 starts — and led all of MLB with 49 strikeouts in July.
+
+The first Blue Jays pitcher to start the All-Star Game since Roy Halladay in 2009.
+
+#BlueJays #MLB</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-2-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-2-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-2-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-2-x_post-1">Characters: 261/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-2-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-2-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-2-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-2-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-2-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-2-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-2-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-2-x_post-1"></div>
+                </div>
+                <div class="card" data-id="story-2-x_post-2" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Dylan Cease Is Having a Season — AL Cy Young Case Is Building</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 2-2</span><span class="tweet-meta-badge tweet-meta-tier">Tier 0</span><span class="tweet-meta-badge tweet-meta-hashtags">#BlueJays #MLB #CyYoung</span></div>
+
+                    <div class="card-content expanded" id="content-story-2-x_post-2">
+                        <div class="card-content-text">With Skubal likely heading to a contender, where does Dylan Cease rank in the AL Cy Young race?
+
+He&#x27;s 6-4, 2.56 ERA, 148 K — and just won July with 49 strikeouts in 6 starts.
+
+The case is real.
+
+#BlueJays #MLB #CyYoung</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-2-x_post-2" placeholder="Edit content here...">With Skubal likely heading to a contender, where does Dylan Cease rank in the AL Cy Young race?
+
+He&#x27;s 6-4, 2.56 ERA, 148 K — and just won July with 49 strikeouts in 6 starts.
+
+The case is real.
+
+#BlueJays #MLB #CyYoung</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-2-x_post-2">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-2-x_post-2')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-2-x_post-2')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-2-x_post-2">Characters: 218/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-2-x_post-2">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-2-x_post-2')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-2-x_post-2')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-2-x_post-2')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-2-x_post-2')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-2-x_post-2">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-2-x_post-2" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-2-x_post-2"></div>
+                </div>
+                <div class="card" data-id="story-3-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Ohtani Hits HR No. 23 as DH — Mound Return Could Come This Weekend</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-3-daily_brief">
+                        <div class="card-content-text">Ohtani Hits HR No. 23 as DH — Mound Return Could Come This Weekend</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-3-daily_brief" placeholder="Edit content here...">Ohtani Hits HR No. 23 as DH — Mound Return Could Come This Weekend</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-3-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-3-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-3-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-3-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-3-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-3-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-3-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-3-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-3-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-3-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-3-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-3-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Ohtani Hits HR No. 23 as DH — Mound Return Could Come This Weekend</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 3</span><span class="tweet-meta-badge tweet-meta-tier">Tier 0</span><span class="tweet-meta-badge tweet-meta-hashtags">#Dodgers #MLB</span></div>
+
+                    <div class="card-content expanded" id="content-story-3-x_post-1">
+                        <div class="card-content-text">Shohei Ohtani hit his 23rd home run as DH on July 31 (vs. Red Sox).
+
+Dodgers manager Dave Roberts says he hopes Ohtani can start throwing again as early as this weekend.
+
+He hasn&#x27;t pitched since July 3.
+
+#Dodgers #MLB</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-3-x_post-1" placeholder="Edit content here...">Shohei Ohtani hit his 23rd home run as DH on July 31 (vs. Red Sox).
+
+Dodgers manager Dave Roberts says he hopes Ohtani can start throwing again as early as this weekend.
+
+He hasn&#x27;t pitched since July 3.
+
+#Dodgers #MLB</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-3-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-3-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-3-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-3-x_post-1">Characters: 217/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-3-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-3-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-3-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-3-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-3-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-3-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-3-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-3-x_post-1"></div>
+                </div>
+                <div class="card" data-id="story-4-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Chris Sale Is Making History at Age 37</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-4-daily_brief">
+                        <div class="card-content-text">Chris Sale Is Making History at Age 37</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-4-daily_brief" placeholder="Edit content here...">Chris Sale Is Making History at Age 37</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-4-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-4-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-4-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-4-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-4-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-4-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-4-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-4-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-4-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-4-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-4-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-4-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Chris Sale Is Making History at Age 37</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 4</span><span class="tweet-meta-badge tweet-meta-tier">Tier 0</span><span class="tweet-meta-badge tweet-meta-hashtags">#Braves #MLB</span></div>
+
+                    <div class="card-content expanded" id="content-story-4-x_post-1">
+                        <div class="card-content-text">Chris Sale at 37: 12-6, 2.08 ERA, 143 K across 20 starts for Atlanta.
+
+His ERA is the 3rd-lowest by any pitcher age 37+ since 1950 — behind only Clemens (1.40 in 2005) and Verlander (1.73 in 2022).
+
+Also: fastest pitcher ever to reach 2,500 career K by IP.
+
+#Braves #MLB</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-4-x_post-1" placeholder="Edit content here...">Chris Sale at 37: 12-6, 2.08 ERA, 143 K across 20 starts for Atlanta.
+
+His ERA is the 3rd-lowest by any pitcher age 37+ since 1950 — behind only Clemens (1.40 in 2005) and Verlander (1.73 in 2022).
+
+Also: fastest pitcher ever to reach 2,500 career K by IP.
+
+#Braves #MLB</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-4-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-4-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-4-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-4-x_post-1">Characters: 270/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-4-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-4-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-4-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-4-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-4-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-4-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-4-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-4-x_post-1"></div>
+                </div>
+                <div class="card" data-id="story-5-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">July 31 Scoreboard — Sal Stewart Walk-Off, Red Sox Over Dodgers</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-5-daily_brief">
+                        <div class="card-content-text">July 31 Scoreboard — Sal Stewart Walk-Off, Red Sox Over Dodgers</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-5-daily_brief" placeholder="Edit content here...">July 31 Scoreboard — Sal Stewart Walk-Off, Red Sox Over Dodgers</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-5-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-5-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-5-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-5-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-5-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-5-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-5-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-5-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-5-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-5-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-5-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-5-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">July 31 Scoreboard — Sal Stewart Walk-Off, Red Sox Over Dodgers</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 5</span><span class="tweet-meta-badge tweet-meta-tier">Tier 0</span><span class="tweet-meta-badge tweet-meta-hashtags">#MLB</span></div>
+
+                    <div class="card-content expanded" id="content-story-5-x_post-1">
+                        <div class="card-content-text">July 31 scoreboard highlights:
+
+Sal Stewart walk-off 2-run HR — Reds 8, Pirates 7 (Stewart 4 RBI)
+Red Sox over Dodgers — Ohtani HR No. 23 as DH
+
+Jose Ramirez became the first Guardian to homer against all 29 other MLB clubs.
+
+#MLB</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-5-x_post-1" placeholder="Edit content here...">July 31 scoreboard highlights:
+
+Sal Stewart walk-off 2-run HR — Reds 8, Pirates 7 (Stewart 4 RBI)
+Red Sox over Dodgers — Ohtani HR No. 23 as DH
+
+Jose Ramirez became the first Guardian to homer against all 29 other MLB clubs.
+
+#MLB</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-5-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-5-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-5-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-5-x_post-1">Characters: 230/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-5-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-5-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-5-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-5-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-5-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-5-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-5-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-5-x_post-1"></div>
+                </div>
+                <div class="card" data-id="article-article-01-trade-deadline-skubal-48-hours" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">ESPN: Tarik Skubal Is Getting Traded — 48 Hours to Go</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-01-trade-deadline-skubal-48-hours">
+                        <iframe class="article-frame" srcdoc="<article>
+  <header>
+    <h1>ESPN: Tarik Skubal Is Getting Traded — 48 Hours to Go</h1>
+    <p class=&quot;byline&quot;>By Marcus Cole</p>
+    <p class=&quot;date&quot;>August 1, 2026</p>
+  </header>
+
+  <section>
+    <p>The MLB Trade Deadline arrives Sunday at 6 PM ET — and the biggest name still on the board has apparently been decided. ESPN is reporting that Detroit Tigers ace Tarik Skubal is going to be traded before the deadline, ending weeks of speculation and making the next 48 hours a race to see which contender wins the bidding.</p>
+    <p>Skubal, the two-time AL Cy Young Award winner, enters the deadline with numbers that make him arguably the most coveted arm on the market. He's posted a 2.79 ERA and 0.91 WHIP in 96.2 innings across 16 starts, with 116 strikeouts. Detroit has already begun assembling the outgoing package — the Tigers scratched starter Casey Mize from Friday's scheduled start, a signal that Mize could be part of a deal.</p>
+  </section>
+
+  <section>
+    <h2>The Suitors</h2>
+    <p>Five teams have emerged as the leading contenders for Skubal: the Los Angeles Dodgers, New York Yankees, Atlanta Braves, Chicago Cubs, and Philadelphia Phillies. Each brings a different motivation.</p>
+    <p>The Dodgers are perhaps the most desperate. Shohei Ohtani has not pitched since July 3, managing both left knee soreness and a biceps issue, and the club cannot enter October counting on him as a rotation piece. Skubal would give them an ace-level guarantee. The Yankees need rotation depth for a postseason push. The Braves have Chris Sale anchoring one of the best rotations in baseball and want to make a statement buy. The Cubs and Phillies both believe they are realistic World Series contenders and see Skubal as the arm that could push them over the top.</p>
+    <p>Detroit's leverage is real. When a two-time Cy Young winner with a sub-3.00 ERA hits the market 48 hours before the deadline, the Tigers do not have to settle for a modest return.</p>
+  </section>
+
+  <section>
+    <h2>The Rest of the Market</h2>
+    <p>Skubal is not the only notable name in play. Freddy Peralta — the Milwaukee Brewers right-hander now with the New York Mets, posting a 4.99 ERA in 2026 — was scratched from his Friday start as trade discussions around him &quot;intensified.&quot; Padres closer Mason Miller, who has converted all 28 of his save opportunities this season while posting a 0.79 ERA and 0.79 WHIP in 45.2 innings, is generating significant interest for teams looking to upgrade their ninth inning.</p>
+    <p>The market has already moved on several fronts heading into the final stretch. Completed deals announced ahead of Sunday's deadline include: A.J. Minter to the Minnesota Twins, Logan O'Hoppe and Chase Silseth to the Texas Rangers, Jose Urquidy to the Chicago White Sox, Nate Pearson to the Kansas City Royals, Ben Halvorsen to the Los Angeles Dodgers, Austin Civale to the Chicago Cubs, and Ron Marinaccio to the Pittsburgh Pirates.</p>
+  </section>
+
+  <section>
+    <h2>What the Deadline Means for October</h2>
+    <p>Trade deadlines rarely feel as consequential as they end up being — but the 2026 version looks like an exception. Several of the teams in the Skubal sweepstakes are legitimate World Series contenders, and landing — or failing to land — Skubal could define how their October looks. The Dodgers in particular are in an unusual position: defending champions, one of the best offenses in baseball, but with a rotation that now has a significant question mark where Ohtani used to sit.</p>
+    <p>For Detroit, this is about maximizing the return on a franchise-caliber asset. Even if Skubal pitches for a contender from August through October, the Tigers are building for the future, and the package they receive will shape their next competitive window.</p>
+  </section>
+
+  <section>
+    <h2>What's Next</h2>
+    <p>The deadline clock runs out Sunday, August 3 at 6 PM ET. Expect a flurry of announcements in the 48 hours between now and then. The Skubal destination will be the headline, but do not overlook the Peralta and Miller situations — both could move this weekend and reshape postseason bullpen and rotation situations significantly. Ballpark Banter will have full coverage of every deal as it comes through.</p>
+  </section>
+</article>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-01-trade-deadline-skubal-48-hours" placeholder="Edit content here...">&lt;article&gt;
+  &lt;header&gt;
+    &lt;h1&gt;ESPN: Tarik Skubal Is Getting Traded — 48 Hours to Go&lt;/h1&gt;
+    &lt;p class=&quot;byline&quot;&gt;By Marcus Cole&lt;/p&gt;
+    &lt;p class=&quot;date&quot;&gt;August 1, 2026&lt;/p&gt;
+  &lt;/header&gt;
+
+  &lt;section&gt;
+    &lt;p&gt;The MLB Trade Deadline arrives Sunday at 6 PM ET — and the biggest name still on the board has apparently been decided. ESPN is reporting that Detroit Tigers ace Tarik Skubal is going to be traded before the deadline, ending weeks of speculation and making the next 48 hours a race to see which contender wins the bidding.&lt;/p&gt;
+    &lt;p&gt;Skubal, the two-time AL Cy Young Award winner, enters the deadline with numbers that make him arguably the most coveted arm on the market. He&#x27;s posted a 2.79 ERA and 0.91 WHIP in 96.2 innings across 16 starts, with 116 strikeouts. Detroit has already begun assembling the outgoing package — the Tigers scratched starter Casey Mize from Friday&#x27;s scheduled start, a signal that Mize could be part of a deal.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;The Suitors&lt;/h2&gt;
+    &lt;p&gt;Five teams have emerged as the leading contenders for Skubal: the Los Angeles Dodgers, New York Yankees, Atlanta Braves, Chicago Cubs, and Philadelphia Phillies. Each brings a different motivation.&lt;/p&gt;
+    &lt;p&gt;The Dodgers are perhaps the most desperate. Shohei Ohtani has not pitched since July 3, managing both left knee soreness and a biceps issue, and the club cannot enter October counting on him as a rotation piece. Skubal would give them an ace-level guarantee. The Yankees need rotation depth for a postseason push. The Braves have Chris Sale anchoring one of the best rotations in baseball and want to make a statement buy. The Cubs and Phillies both believe they are realistic World Series contenders and see Skubal as the arm that could push them over the top.&lt;/p&gt;
+    &lt;p&gt;Detroit&#x27;s leverage is real. When a two-time Cy Young winner with a sub-3.00 ERA hits the market 48 hours before the deadline, the Tigers do not have to settle for a modest return.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;The Rest of the Market&lt;/h2&gt;
+    &lt;p&gt;Skubal is not the only notable name in play. Freddy Peralta — the Milwaukee Brewers right-hander now with the New York Mets, posting a 4.99 ERA in 2026 — was scratched from his Friday start as trade discussions around him &quot;intensified.&quot; Padres closer Mason Miller, who has converted all 28 of his save opportunities this season while posting a 0.79 ERA and 0.79 WHIP in 45.2 innings, is generating significant interest for teams looking to upgrade their ninth inning.&lt;/p&gt;
+    &lt;p&gt;The market has already moved on several fronts heading into the final stretch. Completed deals announced ahead of Sunday&#x27;s deadline include: A.J. Minter to the Minnesota Twins, Logan O&#x27;Hoppe and Chase Silseth to the Texas Rangers, Jose Urquidy to the Chicago White Sox, Nate Pearson to the Kansas City Royals, Ben Halvorsen to the Los Angeles Dodgers, Austin Civale to the Chicago Cubs, and Ron Marinaccio to the Pittsburgh Pirates.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;What the Deadline Means for October&lt;/h2&gt;
+    &lt;p&gt;Trade deadlines rarely feel as consequential as they end up being — but the 2026 version looks like an exception. Several of the teams in the Skubal sweepstakes are legitimate World Series contenders, and landing — or failing to land — Skubal could define how their October looks. The Dodgers in particular are in an unusual position: defending champions, one of the best offenses in baseball, but with a rotation that now has a significant question mark where Ohtani used to sit.&lt;/p&gt;
+    &lt;p&gt;For Detroit, this is about maximizing the return on a franchise-caliber asset. Even if Skubal pitches for a contender from August through October, the Tigers are building for the future, and the package they receive will shape their next competitive window.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+    &lt;p&gt;The deadline clock runs out Sunday, August 3 at 6 PM ET. Expect a flurry of announcements in the 48 hours between now and then. The Skubal destination will be the headline, but do not overlook the Peralta and Miller situations — both could move this weekend and reshape postseason bullpen and rotation situations significantly. Ballpark Banter will have full coverage of every deal as it comes through.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-01-trade-deadline-skubal-48-hours">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-01-trade-deadline-skubal-48-hours')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-01-trade-deadline-skubal-48-hours')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-01-trade-deadline-skubal-48-hours">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-01-trade-deadline-skubal-48-hours')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-01-trade-deadline-skubal-48-hours')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-01-trade-deadline-skubal-48-hours')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-01-trade-deadline-skubal-48-hours')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-01-trade-deadline-skubal-48-hours">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-01-trade-deadline-skubal-48-hours" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-01-trade-deadline-skubal-48-hours"></div>
+                </div>
+                <div class="card" data-id="article-article-02-dylan-cease-al-cy-young-case" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Dylan Cease Is the AL&#x27;s Pitcher of July — and the Cy Young Case Is Real</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-02-dylan-cease-al-cy-young-case">
+                        <iframe class="article-frame" srcdoc="<article>
+  <header>
+    <h1>Dylan Cease Is the AL's Pitcher of July — and the Cy Young Case Is Real</h1>
+    <p class=&quot;byline&quot;>By Jake Torres</p>
+    <p class=&quot;date&quot;>August 1, 2026</p>
+  </header>
+
+  <section>
+    <p>When the Toronto Blue Jays signed Dylan Cease as a free agent after the 2025 season, the expectation was a good pitcher on a good team. What has unfolded instead is one of the more compelling pitching stories in the American League — and a genuine AL Cy Young Award case that is getting harder to dismiss.</p>
+    <p>Cease is 6-4 with a 2.56 ERA and 1.13 WHIP in 98.1 innings across 17 starts. He has struck out 148 batters. And in July, he was the best pitcher in baseball by any strikeout measure: 49 strikeouts in six starts, the most of any pitcher in the major leagues during the month.</p>
+  </section>
+
+  <section>
+    <h2>The All-Star Distinction</h2>
+    <p>The Blue Jays sent Cease to the All-Star Game as the American League's starting pitcher — a recognition of what he had become in the first half of 2026. That appointment came with a historical footnote: Cease became the first Toronto Blue Jays pitcher to start the MLB All-Star Game since Roy Halladay did it in 2009.</p>
+    <p>Halladay is in the Baseball Hall of Fame. The company is elite. The fact that Cease stepped into that lineage is not just a resume line — it is a signal of how the baseball world views what he has done this season.</p>
+  </section>
+
+  <section>
+    <h2>Building the Cy Young Case</h2>
+    <p>AL Cy Young Award voting requires comparing Cease against his peers. The pitcher most often mentioned alongside him in this race has been Tarik Skubal of the Detroit Tigers, who has posted a 2.79 ERA with 116 strikeouts in 16 starts. Skubal is a two-time defending AL Cy Young winner.</p>
+    <p>But here is where the 2026 trade deadline changes the math: ESPN is reporting that Skubal IS getting traded before the August 3 deadline. Once Skubal moves mid-season to a new team, his full-season numbers will still count for award consideration — but the context shifts. Cease, by contrast, will have been a Blue Jay from opening day through the final out of the regular season. His consistency over the full season is a legitimate argument.</p>
+    <p>The ERA comparison (Cease at 2.56 vs. Skubal at 2.79) favors Cease. The strikeout total comparison (Cease 148 vs. Skubal 116 in fewer innings) favors Cease. The All-Star Game starting assignment went to Cease. And his July — 49 K in six starts — was the kind of sustained dominance that tends to stick with voters.</p>
+  </section>
+
+  <section>
+    <h2>The Second Half Matters</h2>
+    <p>Cy Young races are not decided in August. Voters will look at the final numbers in late September and weigh the full season in aggregate. Cease needs to sustain his level of performance across the second half. If he does — if the ERA stays under 3.00 and the strikeout pace holds — he will be a serious candidate regardless of what Skubal does in the postseason push.</p>
+    <p>Toronto is a legitimate contender, which means Cease will be pitching in meaningful games with everything to prove. That context only helps his case.</p>
+  </section>
+
+  <section>
+    <h2>What's Next</h2>
+    <p>Cease's next scheduled start will come in the first week of August. His second-half performance will be the central storyline for the Blue Jays and for the AL Cy Young race. Track his ERA, WHIP, and strikeout rate against Skubal's numbers — now in a new uniform — as the season moves toward its conclusion. If the numbers hold, the Cy Young case becomes the argument.</p>
+  </section>
+</article>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-02-dylan-cease-al-cy-young-case" placeholder="Edit content here...">&lt;article&gt;
+  &lt;header&gt;
+    &lt;h1&gt;Dylan Cease Is the AL&#x27;s Pitcher of July — and the Cy Young Case Is Real&lt;/h1&gt;
+    &lt;p class=&quot;byline&quot;&gt;By Jake Torres&lt;/p&gt;
+    &lt;p class=&quot;date&quot;&gt;August 1, 2026&lt;/p&gt;
+  &lt;/header&gt;
+
+  &lt;section&gt;
+    &lt;p&gt;When the Toronto Blue Jays signed Dylan Cease as a free agent after the 2025 season, the expectation was a good pitcher on a good team. What has unfolded instead is one of the more compelling pitching stories in the American League — and a genuine AL Cy Young Award case that is getting harder to dismiss.&lt;/p&gt;
+    &lt;p&gt;Cease is 6-4 with a 2.56 ERA and 1.13 WHIP in 98.1 innings across 17 starts. He has struck out 148 batters. And in July, he was the best pitcher in baseball by any strikeout measure: 49 strikeouts in six starts, the most of any pitcher in the major leagues during the month.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;The All-Star Distinction&lt;/h2&gt;
+    &lt;p&gt;The Blue Jays sent Cease to the All-Star Game as the American League&#x27;s starting pitcher — a recognition of what he had become in the first half of 2026. That appointment came with a historical footnote: Cease became the first Toronto Blue Jays pitcher to start the MLB All-Star Game since Roy Halladay did it in 2009.&lt;/p&gt;
+    &lt;p&gt;Halladay is in the Baseball Hall of Fame. The company is elite. The fact that Cease stepped into that lineage is not just a resume line — it is a signal of how the baseball world views what he has done this season.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;Building the Cy Young Case&lt;/h2&gt;
+    &lt;p&gt;AL Cy Young Award voting requires comparing Cease against his peers. The pitcher most often mentioned alongside him in this race has been Tarik Skubal of the Detroit Tigers, who has posted a 2.79 ERA with 116 strikeouts in 16 starts. Skubal is a two-time defending AL Cy Young winner.&lt;/p&gt;
+    &lt;p&gt;But here is where the 2026 trade deadline changes the math: ESPN is reporting that Skubal IS getting traded before the August 3 deadline. Once Skubal moves mid-season to a new team, his full-season numbers will still count for award consideration — but the context shifts. Cease, by contrast, will have been a Blue Jay from opening day through the final out of the regular season. His consistency over the full season is a legitimate argument.&lt;/p&gt;
+    &lt;p&gt;The ERA comparison (Cease at 2.56 vs. Skubal at 2.79) favors Cease. The strikeout total comparison (Cease 148 vs. Skubal 116 in fewer innings) favors Cease. The All-Star Game starting assignment went to Cease. And his July — 49 K in six starts — was the kind of sustained dominance that tends to stick with voters.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;The Second Half Matters&lt;/h2&gt;
+    &lt;p&gt;Cy Young races are not decided in August. Voters will look at the final numbers in late September and weigh the full season in aggregate. Cease needs to sustain his level of performance across the second half. If he does — if the ERA stays under 3.00 and the strikeout pace holds — he will be a serious candidate regardless of what Skubal does in the postseason push.&lt;/p&gt;
+    &lt;p&gt;Toronto is a legitimate contender, which means Cease will be pitching in meaningful games with everything to prove. That context only helps his case.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+    &lt;p&gt;Cease&#x27;s next scheduled start will come in the first week of August. His second-half performance will be the central storyline for the Blue Jays and for the AL Cy Young race. Track his ERA, WHIP, and strikeout rate against Skubal&#x27;s numbers — now in a new uniform — as the season moves toward its conclusion. If the numbers hold, the Cy Young case becomes the argument.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-02-dylan-cease-al-cy-young-case">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-02-dylan-cease-al-cy-young-case')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-02-dylan-cease-al-cy-young-case')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-02-dylan-cease-al-cy-young-case">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-02-dylan-cease-al-cy-young-case')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-02-dylan-cease-al-cy-young-case')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-02-dylan-cease-al-cy-young-case')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-02-dylan-cease-al-cy-young-case')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-02-dylan-cease-al-cy-young-case">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-02-dylan-cease-al-cy-young-case" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-02-dylan-cease-al-cy-young-case"></div>
+                </div>
+                <div class="card" data-id="article-article-03-ohtani-hr-23-mound-return" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Ohtani Hits HR No. 23 as DH — Mound Return Could Come as Early as This Weekend</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-03-ohtani-hr-23-mound-return">
+                        <iframe class="article-frame" srcdoc="<article>
+  <header>
+    <h1>Ohtani Hits HR No. 23 as DH — Mound Return Could Come as Early as This Weekend</h1>
+    <p class=&quot;byline&quot;>By Ryan Calloway</p>
+    <p class=&quot;date&quot;>August 1, 2026</p>
+  </header>
+
+  <section>
+    <p>Shohei Ohtani hit home run No. 23 of the season on July 31, a deep shot as the Los Angeles Dodgers' designated hitter against the Boston Red Sox. The Red Sox won the game, but Ohtani's bat — which has remained one of the most feared in baseball regardless of what's happening with his arm — delivered another reminder of what he is as an offensive force.</p>
+    <p>The bigger story, though, remains on the mound. Ohtani has not pitched since July 3. And on Saturday, Dodgers manager Dave Roberts offered the first concrete hope of a return: he said he hopes Ohtani can &quot;start throwing, playing catch again and building up&quot; as early as this weekend — the August 1–3 window.</p>
+  </section>
+
+  <section>
+    <h2>Two Issues, One Timeline</h2>
+    <p>Ohtani has been managing two separate physical concerns. He has left knee soreness and a biceps issue. Neither has been severe enough to warrant an IL placement — he has remained in the lineup as a designated hitter — but both have kept him off the mound for four full weeks.</p>
+    <p>Roberts' framing on Saturday was careful. The word &quot;hope&quot; was doing a lot of work. He said he hopes Ohtani can start throwing — not that he will. The distinction matters for a player managing a biceps problem, where a progression from playing catch to full bullpen sessions to live hitters to game action takes weeks to build properly.</p>
+    <p>What the statement does suggest is that the Dodgers believe Ohtani's issues have not gotten worse, and that the path toward resuming activity is at least visible on the horizon. That is more than could be said two weeks ago.</p>
+  </section>
+
+  <section>
+    <h2>Why the Dodgers Are Chasing Skubal</h2>
+    <p>The direct line from Ohtani's pitching uncertainty to the trade deadline is impossible to ignore. The Dodgers are among the most aggressive bidders for Detroit Tigers ace Tarik Skubal, who ESPN reports is going to be traded before the August 3 deadline. Skubal's acquisition would give Los Angeles a true No. 1 starter — a two-time AL Cy Young winner — to anchor a rotation that, without a pitching Ohtani, has a significant gap at the top.</p>
+    <p>Even if Ohtani begins throwing this weekend and builds back toward full health, the Dodgers' timeline for having him as a reliable starting pitcher in October is compressed. A throwing session in early August needs to progress to a bullpen, then to a simulated game, then to live action — all while keeping both the knee and the biceps healthy. The math is tight. Landing Skubal provides insurance regardless of how Ohtani's recovery unfolds.</p>
+  </section>
+
+  <section>
+    <h2>What's Next</h2>
+    <p>Watch for any update this weekend on whether Ohtani has begun throwing. Even a brief update from Roberts confirming a light catch session would be a meaningful step and would shift the narrative from &quot;uncertain&quot; to &quot;on track.&quot; His next scheduled DH appearance will continue to give the Dodgers lineup its most dangerous bat while the pitching recovery unfolds. The August 3 trade deadline — and whatever the Dodgers land — will give a clearer picture of how the organization is planning for October with and without Ohtani on the mound.</p>
+  </section>
+</article>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-03-ohtani-hr-23-mound-return" placeholder="Edit content here...">&lt;article&gt;
+  &lt;header&gt;
+    &lt;h1&gt;Ohtani Hits HR No. 23 as DH — Mound Return Could Come as Early as This Weekend&lt;/h1&gt;
+    &lt;p class=&quot;byline&quot;&gt;By Ryan Calloway&lt;/p&gt;
+    &lt;p class=&quot;date&quot;&gt;August 1, 2026&lt;/p&gt;
+  &lt;/header&gt;
+
+  &lt;section&gt;
+    &lt;p&gt;Shohei Ohtani hit home run No. 23 of the season on July 31, a deep shot as the Los Angeles Dodgers&#x27; designated hitter against the Boston Red Sox. The Red Sox won the game, but Ohtani&#x27;s bat — which has remained one of the most feared in baseball regardless of what&#x27;s happening with his arm — delivered another reminder of what he is as an offensive force.&lt;/p&gt;
+    &lt;p&gt;The bigger story, though, remains on the mound. Ohtani has not pitched since July 3. And on Saturday, Dodgers manager Dave Roberts offered the first concrete hope of a return: he said he hopes Ohtani can &quot;start throwing, playing catch again and building up&quot; as early as this weekend — the August 1–3 window.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;Two Issues, One Timeline&lt;/h2&gt;
+    &lt;p&gt;Ohtani has been managing two separate physical concerns. He has left knee soreness and a biceps issue. Neither has been severe enough to warrant an IL placement — he has remained in the lineup as a designated hitter — but both have kept him off the mound for four full weeks.&lt;/p&gt;
+    &lt;p&gt;Roberts&#x27; framing on Saturday was careful. The word &quot;hope&quot; was doing a lot of work. He said he hopes Ohtani can start throwing — not that he will. The distinction matters for a player managing a biceps problem, where a progression from playing catch to full bullpen sessions to live hitters to game action takes weeks to build properly.&lt;/p&gt;
+    &lt;p&gt;What the statement does suggest is that the Dodgers believe Ohtani&#x27;s issues have not gotten worse, and that the path toward resuming activity is at least visible on the horizon. That is more than could be said two weeks ago.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;Why the Dodgers Are Chasing Skubal&lt;/h2&gt;
+    &lt;p&gt;The direct line from Ohtani&#x27;s pitching uncertainty to the trade deadline is impossible to ignore. The Dodgers are among the most aggressive bidders for Detroit Tigers ace Tarik Skubal, who ESPN reports is going to be traded before the August 3 deadline. Skubal&#x27;s acquisition would give Los Angeles a true No. 1 starter — a two-time AL Cy Young winner — to anchor a rotation that, without a pitching Ohtani, has a significant gap at the top.&lt;/p&gt;
+    &lt;p&gt;Even if Ohtani begins throwing this weekend and builds back toward full health, the Dodgers&#x27; timeline for having him as a reliable starting pitcher in October is compressed. A throwing session in early August needs to progress to a bullpen, then to a simulated game, then to live action — all while keeping both the knee and the biceps healthy. The math is tight. Landing Skubal provides insurance regardless of how Ohtani&#x27;s recovery unfolds.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+    &lt;p&gt;Watch for any update this weekend on whether Ohtani has begun throwing. Even a brief update from Roberts confirming a light catch session would be a meaningful step and would shift the narrative from &quot;uncertain&quot; to &quot;on track.&quot; His next scheduled DH appearance will continue to give the Dodgers lineup its most dangerous bat while the pitching recovery unfolds. The August 3 trade deadline — and whatever the Dodgers land — will give a clearer picture of how the organization is planning for October with and without Ohtani on the mound.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-03-ohtani-hr-23-mound-return">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-03-ohtani-hr-23-mound-return')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-03-ohtani-hr-23-mound-return')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-03-ohtani-hr-23-mound-return">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-03-ohtani-hr-23-mound-return')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-03-ohtani-hr-23-mound-return')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-03-ohtani-hr-23-mound-return')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-03-ohtani-hr-23-mound-return')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-03-ohtani-hr-23-mound-return">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-03-ohtani-hr-23-mound-return" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-03-ohtani-hr-23-mound-return"></div>
+                </div>
+                <div class="card" data-id="article-article-04-chris-sale-age-37-history" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Chris Sale at 37 Is Making the History Books — The Numbers Are Remarkable</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-04-chris-sale-age-37-history">
+                        <iframe class="article-frame" srcdoc="<article>
+  <header>
+    <h1>Chris Sale at 37 Is Making the History Books — The Numbers Are Remarkable</h1>
+    <p class=&quot;byline&quot;>By Marcus Cole</p>
+    <p class=&quot;date&quot;>August 1, 2026</p>
+  </header>
+
+  <section>
+    <p>Chris Sale turned 37 years old this past March. By most conventional baseball timelines, a pitcher of that age should be managing a decline — adjusting, leaning on experience, protecting innings. Sale is doing none of that. He is pitching some of the best baseball of his career, and the statistical company he now occupies is almost impossibly elite.</p>
+    <p>The Atlanta Braves left-hander is 12-6 with a 2.08 ERA, 1.02 WHIP, and 143 strikeouts in 117 innings across 20 starts. Over his last 12 starts, his ERA is 1.96. He was selected to his 10th career All-Star Game this season — a milestone that speaks to his sustained excellence across nearly a decade and a half at the major league level.</p>
+  </section>
+
+  <section>
+    <h2>The Historical Context</h2>
+    <p>Sale's 2.08 ERA is the third-lowest posted by any pitcher age 37 or older since 1950. The two pitchers ahead of him on that list are not just Hall of Famers — they are two of the greatest pitchers of any era. Roger Clemens posted a 1.40 ERA for the Houston Astros in 2005 at age 42. Justin Verlander posted a 1.73 ERA for the Houston Astros in 2022 at age 39.</p>
+    <p>Sale, at 37, sits in that company. That is not a minor statistical footnote. The list of pitchers who have posted sub-2.10 ERAs at or past age 37 since the middle of the 20th century is extraordinarily short — and Sale has now joined it.</p>
+    <p>The second milestone adds to the historical picture: Sale became the fastest pitcher in MLB history to reach 2,500 career strikeouts by innings pitched. The combination of strikeout volume and efficiency over his career has placed him in a statistical category that no pitcher has reached faster.</p>
+  </section>
+
+  <section>
+    <h2>What It Means for Atlanta</h2>
+    <p>For the Braves, Sale's 2026 season is the anchor of their deadline approach. Atlanta is a buyer entering the final 48 hours of the trade window — a contending team in the National League with a rotation built around one of the best pitchers in baseball. That position is only possible because Sale has performed at this level through the first four months of the season.</p>
+    <p>The Braves can pursue whatever additional pieces they want at the deadline with the confidence that their top starting pitcher is not a liability. He is the reason they are a contender. A 12-6 record and a 2.08 ERA from your ace heading into August is the kind of performance that makes a front office aggressive.</p>
+  </section>
+
+  <section>
+    <h2>The Age Narrative</h2>
+    <p>It is worth pausing on the pure anomaly of what Sale is doing. Most pitchers are finished, or declining sharply, by 37. The combination of strikeout volume — 143 K across 20 starts — and efficiency (2.08 ERA) at this age is not what the aging curve predicts. Sale has managed his body through significant injury history across his career, and he has arrived at 37 in perhaps his best sustained form since his Chicago White Sox peak.</p>
+    <p>Clemens at 42 and Verlander at 39 are the only comparisons since 1950. Neither of those names diminishes Sale. They frame, in the most historically precise terms possible, just how rare what he is doing actually is.</p>
+  </section>
+
+  <section>
+    <h2>What's Next</h2>
+    <p>Sale's next start is expected in the first week of August. The Braves' deadline additions — whatever they end up being — will fill out the roster around the pitcher who has made Atlanta's October ambitions possible. If Sale maintains this pace through September, he will be among the most serious NL Cy Young Award contenders and a legitimate candidate for any end-of-season accolade given to the best pitchers in baseball. Watch for his ERA as the second half unfolds.</p>
+  </section>
+</article>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-04-chris-sale-age-37-history" placeholder="Edit content here...">&lt;article&gt;
+  &lt;header&gt;
+    &lt;h1&gt;Chris Sale at 37 Is Making the History Books — The Numbers Are Remarkable&lt;/h1&gt;
+    &lt;p class=&quot;byline&quot;&gt;By Marcus Cole&lt;/p&gt;
+    &lt;p class=&quot;date&quot;&gt;August 1, 2026&lt;/p&gt;
+  &lt;/header&gt;
+
+  &lt;section&gt;
+    &lt;p&gt;Chris Sale turned 37 years old this past March. By most conventional baseball timelines, a pitcher of that age should be managing a decline — adjusting, leaning on experience, protecting innings. Sale is doing none of that. He is pitching some of the best baseball of his career, and the statistical company he now occupies is almost impossibly elite.&lt;/p&gt;
+    &lt;p&gt;The Atlanta Braves left-hander is 12-6 with a 2.08 ERA, 1.02 WHIP, and 143 strikeouts in 117 innings across 20 starts. Over his last 12 starts, his ERA is 1.96. He was selected to his 10th career All-Star Game this season — a milestone that speaks to his sustained excellence across nearly a decade and a half at the major league level.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;The Historical Context&lt;/h2&gt;
+    &lt;p&gt;Sale&#x27;s 2.08 ERA is the third-lowest posted by any pitcher age 37 or older since 1950. The two pitchers ahead of him on that list are not just Hall of Famers — they are two of the greatest pitchers of any era. Roger Clemens posted a 1.40 ERA for the Houston Astros in 2005 at age 42. Justin Verlander posted a 1.73 ERA for the Houston Astros in 2022 at age 39.&lt;/p&gt;
+    &lt;p&gt;Sale, at 37, sits in that company. That is not a minor statistical footnote. The list of pitchers who have posted sub-2.10 ERAs at or past age 37 since the middle of the 20th century is extraordinarily short — and Sale has now joined it.&lt;/p&gt;
+    &lt;p&gt;The second milestone adds to the historical picture: Sale became the fastest pitcher in MLB history to reach 2,500 career strikeouts by innings pitched. The combination of strikeout volume and efficiency over his career has placed him in a statistical category that no pitcher has reached faster.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;What It Means for Atlanta&lt;/h2&gt;
+    &lt;p&gt;For the Braves, Sale&#x27;s 2026 season is the anchor of their deadline approach. Atlanta is a buyer entering the final 48 hours of the trade window — a contending team in the National League with a rotation built around one of the best pitchers in baseball. That position is only possible because Sale has performed at this level through the first four months of the season.&lt;/p&gt;
+    &lt;p&gt;The Braves can pursue whatever additional pieces they want at the deadline with the confidence that their top starting pitcher is not a liability. He is the reason they are a contender. A 12-6 record and a 2.08 ERA from your ace heading into August is the kind of performance that makes a front office aggressive.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;The Age Narrative&lt;/h2&gt;
+    &lt;p&gt;It is worth pausing on the pure anomaly of what Sale is doing. Most pitchers are finished, or declining sharply, by 37. The combination of strikeout volume — 143 K across 20 starts — and efficiency (2.08 ERA) at this age is not what the aging curve predicts. Sale has managed his body through significant injury history across his career, and he has arrived at 37 in perhaps his best sustained form since his Chicago White Sox peak.&lt;/p&gt;
+    &lt;p&gt;Clemens at 42 and Verlander at 39 are the only comparisons since 1950. Neither of those names diminishes Sale. They frame, in the most historically precise terms possible, just how rare what he is doing actually is.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+    &lt;p&gt;Sale&#x27;s next start is expected in the first week of August. The Braves&#x27; deadline additions — whatever they end up being — will fill out the roster around the pitcher who has made Atlanta&#x27;s October ambitions possible. If Sale maintains this pace through September, he will be among the most serious NL Cy Young Award contenders and a legitimate candidate for any end-of-season accolade given to the best pitchers in baseball. Watch for his ERA as the second half unfolds.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-04-chris-sale-age-37-history">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-04-chris-sale-age-37-history')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-04-chris-sale-age-37-history')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-04-chris-sale-age-37-history">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-04-chris-sale-age-37-history')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-04-chris-sale-age-37-history')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-04-chris-sale-age-37-history')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-04-chris-sale-age-37-history')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-04-chris-sale-age-37-history">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-04-chris-sale-age-37-history" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-04-chris-sale-age-37-history"></div>
+                </div>
+                <div class="card" data-id="article-article-05-july-31-scoreboard-recap" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">July 31 MLB Recap: Sal Stewart Walk-Off, Ohtani Homers, Ramirez Makes History</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-05-july-31-scoreboard-recap">
+                        <iframe class="article-frame" srcdoc="<article>
+  <header>
+    <h1>July 31 MLB Recap: Sal Stewart Walk-Off, Ohtani Homers, Ramirez Makes History</h1>
+    <p class=&quot;byline&quot;>By Jake Torres</p>
+    <p class=&quot;date&quot;>August 1, 2026</p>
+  </header>
+
+  <section>
+    <p>Friday night across Major League Baseball delivered two finishes worth talking about, a milestone home run, and a standings development in the American League Central. Here is how July 31 wrapped up.</p>
+  </section>
+
+  <section>
+    <h2>Stewart Walk-Off: Reds 8, Pirates 7</h2>
+    <p>The night's most dramatic moment came in Cincinnati, where Sal Stewart hit a walk-off two-run home run in the bottom of the ninth inning to give the Reds an 8-7 win over the Pittsburgh Pirates. Stewart was the story of the night for the Reds — he drove in four runs total in the game, capping the evening with the walk-off that gave Cincinnati the comeback victory.</p>
+    <p>The win was exactly the kind of late-game drama that makes summer baseball. The Pirates had control of the game heading into the final frame, but Stewart ended it in the most decisive way possible.</p>
+  </section>
+
+  <section>
+    <h2>Red Sox Over Dodgers — Ohtani Hits No. 23</h2>
+    <p>The marquee matchup of the night went to Boston. The Red Sox defeated the Los Angeles Dodgers in a game that featured one of the biggest individual highlights of the evening: Shohei Ohtani hit home run No. 23 of the season as Los Angeles's designated hitter. Even in a loss, Ohtani continued to do what he has done all season as a DH — hit the ball hard and often. His 23rd home run is a reminder that whatever is happening with his pitching return, his bat has not missed a beat.</p>
+    <p>The Red Sox win was the result, but Ohtani's home run was the moment.</p>
+  </section>
+
+  <section>
+    <h2>White Sox Acquire Urquidy — Lead the AL Central at 57-51</h2>
+    <p>The Chicago White Sox made a deadline move ahead of Sunday's 6 PM ET cutoff, acquiring starter Jose Urquidy from the Pittsburgh Pirates to add to their rotation. With the addition, the White Sox sit at 57-51, holding first place in the American League Central. It is one of the more unexpected standings stories of the 2026 season — a team that has rebuilt faster than almost anyone projected now in legitimate postseason position heading into August.</p>
+    <p>The Urquidy pickup is a statement that Chicago intends to stay there.</p>
+  </section>
+
+  <section>
+    <h2>Ramirez Makes History</h2>
+    <p>Jose Ramirez hit a home run on July 31 that moved him into a category no Cleveland Guardian has ever occupied: he became the first player in franchise history to hit a home run against all 29 other MLB clubs. Ramirez has been one of the most consistent performers in baseball for the better part of a decade, and milestones like this one put a number on just how long he has been delivering at an elite level. Hitting a home run against every other team in baseball requires not just power, but durability and longevity — the kind of sustained presence in the lineup that only a handful of players manage.</p>
+  </section>
+
+  <section>
+    <h2>What's Next</h2>
+    <p>August 1 begins the final stretch of the regular season with the trade deadline 48 hours away. The White Sox will look to hold their AL Central lead while the Reds, buoyed by Stewart's walk-off, return to action. Ohtani and the Dodgers regroup ahead of Sunday's deadline, where Los Angeles's pursuit of Tarik Skubal could define their October. The next two days will be among the most active in the baseball calendar.</p>
+  </section>
+</article>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-05-july-31-scoreboard-recap" placeholder="Edit content here...">&lt;article&gt;
+  &lt;header&gt;
+    &lt;h1&gt;July 31 MLB Recap: Sal Stewart Walk-Off, Ohtani Homers, Ramirez Makes History&lt;/h1&gt;
+    &lt;p class=&quot;byline&quot;&gt;By Jake Torres&lt;/p&gt;
+    &lt;p class=&quot;date&quot;&gt;August 1, 2026&lt;/p&gt;
+  &lt;/header&gt;
+
+  &lt;section&gt;
+    &lt;p&gt;Friday night across Major League Baseball delivered two finishes worth talking about, a milestone home run, and a standings development in the American League Central. Here is how July 31 wrapped up.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;Stewart Walk-Off: Reds 8, Pirates 7&lt;/h2&gt;
+    &lt;p&gt;The night&#x27;s most dramatic moment came in Cincinnati, where Sal Stewart hit a walk-off two-run home run in the bottom of the ninth inning to give the Reds an 8-7 win over the Pittsburgh Pirates. Stewart was the story of the night for the Reds — he drove in four runs total in the game, capping the evening with the walk-off that gave Cincinnati the comeback victory.&lt;/p&gt;
+    &lt;p&gt;The win was exactly the kind of late-game drama that makes summer baseball. The Pirates had control of the game heading into the final frame, but Stewart ended it in the most decisive way possible.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;Red Sox Over Dodgers — Ohtani Hits No. 23&lt;/h2&gt;
+    &lt;p&gt;The marquee matchup of the night went to Boston. The Red Sox defeated the Los Angeles Dodgers in a game that featured one of the biggest individual highlights of the evening: Shohei Ohtani hit home run No. 23 of the season as Los Angeles&#x27;s designated hitter. Even in a loss, Ohtani continued to do what he has done all season as a DH — hit the ball hard and often. His 23rd home run is a reminder that whatever is happening with his pitching return, his bat has not missed a beat.&lt;/p&gt;
+    &lt;p&gt;The Red Sox win was the result, but Ohtani&#x27;s home run was the moment.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;White Sox Acquire Urquidy — Lead the AL Central at 57-51&lt;/h2&gt;
+    &lt;p&gt;The Chicago White Sox made a deadline move ahead of Sunday&#x27;s 6 PM ET cutoff, acquiring starter Jose Urquidy from the Pittsburgh Pirates to add to their rotation. With the addition, the White Sox sit at 57-51, holding first place in the American League Central. It is one of the more unexpected standings stories of the 2026 season — a team that has rebuilt faster than almost anyone projected now in legitimate postseason position heading into August.&lt;/p&gt;
+    &lt;p&gt;The Urquidy pickup is a statement that Chicago intends to stay there.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;Ramirez Makes History&lt;/h2&gt;
+    &lt;p&gt;Jose Ramirez hit a home run on July 31 that moved him into a category no Cleveland Guardian has ever occupied: he became the first player in franchise history to hit a home run against all 29 other MLB clubs. Ramirez has been one of the most consistent performers in baseball for the better part of a decade, and milestones like this one put a number on just how long he has been delivering at an elite level. Hitting a home run against every other team in baseball requires not just power, but durability and longevity — the kind of sustained presence in the lineup that only a handful of players manage.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+    &lt;p&gt;August 1 begins the final stretch of the regular season with the trade deadline 48 hours away. The White Sox will look to hold their AL Central lead while the Reds, buoyed by Stewart&#x27;s walk-off, return to action. Ohtani and the Dodgers regroup ahead of Sunday&#x27;s deadline, where Los Angeles&#x27;s pursuit of Tarik Skubal could define their October. The next two days will be among the most active in the baseball calendar.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-05-july-31-scoreboard-recap">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-05-july-31-scoreboard-recap')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-05-july-31-scoreboard-recap')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-05-july-31-scoreboard-recap">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-05-july-31-scoreboard-recap')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-05-july-31-scoreboard-recap')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-05-july-31-scoreboard-recap')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-05-july-31-scoreboard-recap')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-05-july-31-scoreboard-recap">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-05-july-31-scoreboard-recap" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-05-july-31-scoreboard-recap"></div>
+                </div>
+            </div>
+
+            <div class="empty-state" id="empty-state" style="display: none;">
+                <div class="empty-state-icon">No items match your filter</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Schedule settings modal -->
+    <div class="schedule-overlay" id="schedule-overlay" onclick="closeSchedulePanel()"></div>
+    <div class="schedule-panel" id="schedule-panel">
+        <h3>Posting Schedule Settings</h3>
+        <div class="schedule-section">
+            <label>Post Date (defaults to content date)</label>
+            <input type="date" id="schedule-date" />
+        </div>
+        <div class="schedule-section">
+            <label>X / Twitter Time Slots</label>
+            <div class="time-slots" id="x-time-slots"></div>
+            <div style="margin-top:8px;">
+                <input type="time" id="new-x-time" style="width:auto;display:inline-block;margin-right:8px;" />
+                <span class="add-slot-btn" onclick="addTimeSlot('x')">+ Add Slot</span>
+            </div>
+        </div>
+        <div class="schedule-section">
+            <label>Facebook Time Slots</label>
+            <div class="time-slots" id="fb-time-slots"></div>
+            <div style="margin-top:8px;">
+                <input type="time" id="new-fb-time" style="width:auto;display:inline-block;margin-right:8px;" />
+                <span class="add-slot-btn" onclick="addTimeSlot('fb')">+ Add Slot</span>
+            </div>
+        </div>
+        <div class="schedule-section" style="background:#f9f9f9;padding:12px;border-radius:6px;font-size:12px;color:#666;">
+            Posts will be assigned to time slots in order. If you have more posts than slots, they wrap around. After downloading, upload the file directly to PostPlanner via Bulk Upload.
+        </div>
+        <div class="schedule-actions">
+            <button class="btn btn-secondary" onclick="closeSchedulePanel()">Cancel</button>
+            <button class="btn btn-csv" onclick="generateAndDownload()">Generate &amp; Download XLSX</button>
+        </div>
+    </div>
+
+    <!-- SheetJS for XLSX generation (loaded async so it doesn't block) -->
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+    <script>
+
+        const DATE = '2026-08-01';
+        const BRAND_NAME = 'Ballpark Banter';
+        const REVIEW_STORAGE_KEY = 'mlb-content-review';
+        const SCHEDULE_STORAGE_KEY = 'mlb-content-schedule-config';
+        const PHOTO_SOURCE = 'imagn';
+        let reviewData = {};
+        const allStories = [{"id": "story-1-daily_brief", "title": "Trade Deadline 2 Days Away \u2014 Skubal Decision Is Looming", "content": "Trade Deadline 2 Days Away \u2014 Skubal Decision Is Looming", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-1-x_post-1", "title": "Trade Deadline 2 Days Away \u2014 Skubal Decision Is Looming", "content": "ESPN: Tarik Skubal IS getting traded.\n\nThe Tigers ace (2.79 ERA, 116 K in 16 starts, two-time AL Cy Young) is heading to a contender before Sunday's 6 PM ET deadline.\n\nDodgers, Yankees, Braves, Cubs and Phillies all in.\n\n#MLB #Tigers", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#MLB #Tigers", "tweet_label": "Post 1-1"}, {"id": "story-1-x_post-2", "title": "Trade Deadline 2 Days Away \u2014 Skubal Decision Is Looming", "content": "The MLB trade market is moving ahead of Sunday's deadline. Already done:\n\nUrquidy to White Sox \u00b7 Pearson to Royals \u00b7 O'Hoppe + Silseth to Rangers \u00b7 Civale to Cubs \u00b7 Halvorsen to Dodgers \u00b7 Minter to Twins\n\nMore coming.\n\n#MLB #TradeDeadline", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#MLB #TradeDeadline", "tweet_label": "Post 1-2"}, {"id": "story-2-daily_brief", "title": "Dylan Cease Is Having a Season \u2014 AL Cy Young Case Is Building", "content": "Dylan Cease Is Having a Season \u2014 AL Cy Young Case Is Building", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-2-x_post-1", "title": "Dylan Cease Is Having a Season \u2014 AL Cy Young Case Is Building", "content": "Dylan Cease is building a legitimate AL Cy Young case.\n\nThe Blue Jays ace: 6-4, 2.56 ERA, 148 K across 17 starts \u2014 and led all of MLB with 49 strikeouts in July.\n\nThe first Blue Jays pitcher to start the All-Star Game since Roy Halladay in 2009.\n\n#BlueJays #MLB", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#BlueJays #MLB", "tweet_label": "Post 2-1"}, {"id": "story-2-x_post-2", "title": "Dylan Cease Is Having a Season \u2014 AL Cy Young Case Is Building", "content": "With Skubal likely heading to a contender, where does Dylan Cease rank in the AL Cy Young race?\n\nHe's 6-4, 2.56 ERA, 148 K \u2014 and just won July with 49 strikeouts in 6 starts.\n\nThe case is real.\n\n#BlueJays #MLB #CyYoung", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#BlueJays #MLB #CyYoung", "tweet_label": "Post 2-2"}, {"id": "story-3-daily_brief", "title": "Ohtani Hits HR No. 23 as DH \u2014 Mound Return Could Come This Weekend", "content": "Ohtani Hits HR No. 23 as DH \u2014 Mound Return Could Come This Weekend", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-3-x_post-1", "title": "Ohtani Hits HR No. 23 as DH \u2014 Mound Return Could Come This Weekend", "content": "Shohei Ohtani hit his 23rd home run as DH on July 31 (vs. Red Sox).\n\nDodgers manager Dave Roberts says he hopes Ohtani can start throwing again as early as this weekend.\n\nHe hasn't pitched since July 3.\n\n#Dodgers #MLB", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#Dodgers #MLB", "tweet_label": "Post 3"}, {"id": "story-4-daily_brief", "title": "Chris Sale Is Making History at Age 37", "content": "Chris Sale Is Making History at Age 37", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-4-x_post-1", "title": "Chris Sale Is Making History at Age 37", "content": "Chris Sale at 37: 12-6, 2.08 ERA, 143 K across 20 starts for Atlanta.\n\nHis ERA is the 3rd-lowest by any pitcher age 37+ since 1950 \u2014 behind only Clemens (1.40 in 2005) and Verlander (1.73 in 2022).\n\nAlso: fastest pitcher ever to reach 2,500 career K by IP.\n\n#Braves #MLB", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#Braves #MLB", "tweet_label": "Post 4"}, {"id": "story-5-daily_brief", "title": "July 31 Scoreboard \u2014 Sal Stewart Walk-Off, Red Sox Over Dodgers", "content": "July 31 Scoreboard \u2014 Sal Stewart Walk-Off, Red Sox Over Dodgers", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-5-x_post-1", "title": "July 31 Scoreboard \u2014 Sal Stewart Walk-Off, Red Sox Over Dodgers", "content": "July 31 scoreboard highlights:\n\nSal Stewart walk-off 2-run HR \u2014 Reds 8, Pirates 7 (Stewart 4 RBI)\nRed Sox over Dodgers \u2014 Ohtani HR No. 23 as DH\n\nJose Ramirez became the first Guardian to homer against all 29 other MLB clubs.\n\n#MLB", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#MLB", "tweet_label": "Post 5"}, {"id": "article-article-01-trade-deadline-skubal-48-hours", "title": "ESPN: Tarik Skubal Is Getting Traded \u2014 48 Hours to Go", "content": "<article>\n  <header>\n    <h1>ESPN: Tarik Skubal Is Getting Traded \u2014 48 Hours to Go<\/h1>\n    <p class=\"byline\">By Marcus Cole<\/p>\n    <p class=\"date\">August 1, 2026<\/p>\n  <\/header>\n\n  <section>\n    <p>The MLB Trade Deadline arrives Sunday at 6 PM ET \u2014 and the biggest name still on the board has apparently been decided. ESPN is reporting that Detroit Tigers ace Tarik Skubal is going to be traded before the deadline, ending weeks of speculation and making the next 48 hours a race to see which contender wins the bidding.<\/p>\n    <p>Skubal, the two-time AL Cy Young Award winner, enters the deadline with numbers that make him arguably the most coveted arm on the market. He's posted a 2.79 ERA and 0.91 WHIP in 96.2 innings across 16 starts, with 116 strikeouts. Detroit has already begun assembling the outgoing package \u2014 the Tigers scratched starter Casey Mize from Friday's scheduled start, a signal that Mize could be part of a deal.<\/p>\n  <\/section>\n\n  <section>\n    <h2>The Suitors<\/h2>\n    <p>Five teams have emerged as the leading contenders for Skubal: the Los Angeles Dodgers, New York Yankees, Atlanta Braves, Chicago Cubs, and Philadelphia Phillies. Each brings a different motivation.<\/p>\n    <p>The Dodgers are perhaps the most desperate. Shohei Ohtani has not pitched since July 3, managing both left knee soreness and a biceps issue, and the club cannot enter October counting on him as a rotation piece. Skubal would give them an ace-level guarantee. The Yankees need rotation depth for a postseason push. The Braves have Chris Sale anchoring one of the best rotations in baseball and want to make a statement buy. The Cubs and Phillies both believe they are realistic World Series contenders and see Skubal as the arm that could push them over the top.<\/p>\n    <p>Detroit's leverage is real. When a two-time Cy Young winner with a sub-3.00 ERA hits the market 48 hours before the deadline, the Tigers do not have to settle for a modest return.<\/p>\n  <\/section>\n\n  <section>\n    <h2>The Rest of the Market<\/h2>\n    <p>Skubal is not the only notable name in play. Freddy Peralta \u2014 the Milwaukee Brewers right-hander now with the New York Mets, posting a 4.99 ERA in 2026 \u2014 was scratched from his Friday start as trade discussions around him \"intensified.\" Padres closer Mason Miller, who has converted all 28 of his save opportunities this season while posting a 0.79 ERA and 0.79 WHIP in 45.2 innings, is generating significant interest for teams looking to upgrade their ninth inning.<\/p>\n    <p>The market has already moved on several fronts heading into the final stretch. Completed deals announced ahead of Sunday's deadline include: A.J. Minter to the Minnesota Twins, Logan O'Hoppe and Chase Silseth to the Texas Rangers, Jose Urquidy to the Chicago White Sox, Nate Pearson to the Kansas City Royals, Ben Halvorsen to the Los Angeles Dodgers, Austin Civale to the Chicago Cubs, and Ron Marinaccio to the Pittsburgh Pirates.<\/p>\n  <\/section>\n\n  <section>\n    <h2>What the Deadline Means for October<\/h2>\n    <p>Trade deadlines rarely feel as consequential as they end up being \u2014 but the 2026 version looks like an exception. Several of the teams in the Skubal sweepstakes are legitimate World Series contenders, and landing \u2014 or failing to land \u2014 Skubal could define how their October looks. The Dodgers in particular are in an unusual position: defending champions, one of the best offenses in baseball, but with a rotation that now has a significant question mark where Ohtani used to sit.<\/p>\n    <p>For Detroit, this is about maximizing the return on a franchise-caliber asset. Even if Skubal pitches for a contender from August through October, the Tigers are building for the future, and the package they receive will shape their next competitive window.<\/p>\n  <\/section>\n\n  <section>\n    <h2>What's Next<\/h2>\n    <p>The deadline clock runs out Sunday, August 3 at 6 PM ET. Expect a flurry of announcements in the 48 hours between now and then. The Skubal destination will be the headline, but do not overlook the Peralta and Miller situations \u2014 both could move this weekend and reshape postseason bullpen and rotation situations significantly. Ballpark Banter will have full coverage of every deal as it comes through.<\/p>\n  <\/section>\n<\/article>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-02-dylan-cease-al-cy-young-case", "title": "Dylan Cease Is the AL's Pitcher of July \u2014 and the Cy Young Case Is Real", "content": "<article>\n  <header>\n    <h1>Dylan Cease Is the AL's Pitcher of July \u2014 and the Cy Young Case Is Real<\/h1>\n    <p class=\"byline\">By Jake Torres<\/p>\n    <p class=\"date\">August 1, 2026<\/p>\n  <\/header>\n\n  <section>\n    <p>When the Toronto Blue Jays signed Dylan Cease as a free agent after the 2025 season, the expectation was a good pitcher on a good team. What has unfolded instead is one of the more compelling pitching stories in the American League \u2014 and a genuine AL Cy Young Award case that is getting harder to dismiss.<\/p>\n    <p>Cease is 6-4 with a 2.56 ERA and 1.13 WHIP in 98.1 innings across 17 starts. He has struck out 148 batters. And in July, he was the best pitcher in baseball by any strikeout measure: 49 strikeouts in six starts, the most of any pitcher in the major leagues during the month.<\/p>\n  <\/section>\n\n  <section>\n    <h2>The All-Star Distinction<\/h2>\n    <p>The Blue Jays sent Cease to the All-Star Game as the American League's starting pitcher \u2014 a recognition of what he had become in the first half of 2026. That appointment came with a historical footnote: Cease became the first Toronto Blue Jays pitcher to start the MLB All-Star Game since Roy Halladay did it in 2009.<\/p>\n    <p>Halladay is in the Baseball Hall of Fame. The company is elite. The fact that Cease stepped into that lineage is not just a resume line \u2014 it is a signal of how the baseball world views what he has done this season.<\/p>\n  <\/section>\n\n  <section>\n    <h2>Building the Cy Young Case<\/h2>\n    <p>AL Cy Young Award voting requires comparing Cease against his peers. The pitcher most often mentioned alongside him in this race has been Tarik Skubal of the Detroit Tigers, who has posted a 2.79 ERA with 116 strikeouts in 16 starts. Skubal is a two-time defending AL Cy Young winner.<\/p>\n    <p>But here is where the 2026 trade deadline changes the math: ESPN is reporting that Skubal IS getting traded before the August 3 deadline. Once Skubal moves mid-season to a new team, his full-season numbers will still count for award consideration \u2014 but the context shifts. Cease, by contrast, will have been a Blue Jay from opening day through the final out of the regular season. His consistency over the full season is a legitimate argument.<\/p>\n    <p>The ERA comparison (Cease at 2.56 vs. Skubal at 2.79) favors Cease. The strikeout total comparison (Cease 148 vs. Skubal 116 in fewer innings) favors Cease. The All-Star Game starting assignment went to Cease. And his July \u2014 49 K in six starts \u2014 was the kind of sustained dominance that tends to stick with voters.<\/p>\n  <\/section>\n\n  <section>\n    <h2>The Second Half Matters<\/h2>\n    <p>Cy Young races are not decided in August. Voters will look at the final numbers in late September and weigh the full season in aggregate. Cease needs to sustain his level of performance across the second half. If he does \u2014 if the ERA stays under 3.00 and the strikeout pace holds \u2014 he will be a serious candidate regardless of what Skubal does in the postseason push.<\/p>\n    <p>Toronto is a legitimate contender, which means Cease will be pitching in meaningful games with everything to prove. That context only helps his case.<\/p>\n  <\/section>\n\n  <section>\n    <h2>What's Next<\/h2>\n    <p>Cease's next scheduled start will come in the first week of August. His second-half performance will be the central storyline for the Blue Jays and for the AL Cy Young race. Track his ERA, WHIP, and strikeout rate against Skubal's numbers \u2014 now in a new uniform \u2014 as the season moves toward its conclusion. If the numbers hold, the Cy Young case becomes the argument.<\/p>\n  <\/section>\n<\/article>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-03-ohtani-hr-23-mound-return", "title": "Ohtani Hits HR No. 23 as DH \u2014 Mound Return Could Come as Early as This Weekend", "content": "<article>\n  <header>\n    <h1>Ohtani Hits HR No. 23 as DH \u2014 Mound Return Could Come as Early as This Weekend<\/h1>\n    <p class=\"byline\">By Ryan Calloway<\/p>\n    <p class=\"date\">August 1, 2026<\/p>\n  <\/header>\n\n  <section>\n    <p>Shohei Ohtani hit home run No. 23 of the season on July 31, a deep shot as the Los Angeles Dodgers' designated hitter against the Boston Red Sox. The Red Sox won the game, but Ohtani's bat \u2014 which has remained one of the most feared in baseball regardless of what's happening with his arm \u2014 delivered another reminder of what he is as an offensive force.<\/p>\n    <p>The bigger story, though, remains on the mound. Ohtani has not pitched since July 3. And on Saturday, Dodgers manager Dave Roberts offered the first concrete hope of a return: he said he hopes Ohtani can \"start throwing, playing catch again and building up\" as early as this weekend \u2014 the August 1\u20133 window.<\/p>\n  <\/section>\n\n  <section>\n    <h2>Two Issues, One Timeline<\/h2>\n    <p>Ohtani has been managing two separate physical concerns. He has left knee soreness and a biceps issue. Neither has been severe enough to warrant an IL placement \u2014 he has remained in the lineup as a designated hitter \u2014 but both have kept him off the mound for four full weeks.<\/p>\n    <p>Roberts' framing on Saturday was careful. The word \"hope\" was doing a lot of work. He said he hopes Ohtani can start throwing \u2014 not that he will. The distinction matters for a player managing a biceps problem, where a progression from playing catch to full bullpen sessions to live hitters to game action takes weeks to build properly.<\/p>\n    <p>What the statement does suggest is that the Dodgers believe Ohtani's issues have not gotten worse, and that the path toward resuming activity is at least visible on the horizon. That is more than could be said two weeks ago.<\/p>\n  <\/section>\n\n  <section>\n    <h2>Why the Dodgers Are Chasing Skubal<\/h2>\n    <p>The direct line from Ohtani's pitching uncertainty to the trade deadline is impossible to ignore. The Dodgers are among the most aggressive bidders for Detroit Tigers ace Tarik Skubal, who ESPN reports is going to be traded before the August 3 deadline. Skubal's acquisition would give Los Angeles a true No. 1 starter \u2014 a two-time AL Cy Young winner \u2014 to anchor a rotation that, without a pitching Ohtani, has a significant gap at the top.<\/p>\n    <p>Even if Ohtani begins throwing this weekend and builds back toward full health, the Dodgers' timeline for having him as a reliable starting pitcher in October is compressed. A throwing session in early August needs to progress to a bullpen, then to a simulated game, then to live action \u2014 all while keeping both the knee and the biceps healthy. The math is tight. Landing Skubal provides insurance regardless of how Ohtani's recovery unfolds.<\/p>\n  <\/section>\n\n  <section>\n    <h2>What's Next<\/h2>\n    <p>Watch for any update this weekend on whether Ohtani has begun throwing. Even a brief update from Roberts confirming a light catch session would be a meaningful step and would shift the narrative from \"uncertain\" to \"on track.\" His next scheduled DH appearance will continue to give the Dodgers lineup its most dangerous bat while the pitching recovery unfolds. The August 3 trade deadline \u2014 and whatever the Dodgers land \u2014 will give a clearer picture of how the organization is planning for October with and without Ohtani on the mound.<\/p>\n  <\/section>\n<\/article>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-04-chris-sale-age-37-history", "title": "Chris Sale at 37 Is Making the History Books \u2014 The Numbers Are Remarkable", "content": "<article>\n  <header>\n    <h1>Chris Sale at 37 Is Making the History Books \u2014 The Numbers Are Remarkable<\/h1>\n    <p class=\"byline\">By Marcus Cole<\/p>\n    <p class=\"date\">August 1, 2026<\/p>\n  <\/header>\n\n  <section>\n    <p>Chris Sale turned 37 years old this past March. By most conventional baseball timelines, a pitcher of that age should be managing a decline \u2014 adjusting, leaning on experience, protecting innings. Sale is doing none of that. He is pitching some of the best baseball of his career, and the statistical company he now occupies is almost impossibly elite.<\/p>\n    <p>The Atlanta Braves left-hander is 12-6 with a 2.08 ERA, 1.02 WHIP, and 143 strikeouts in 117 innings across 20 starts. Over his last 12 starts, his ERA is 1.96. He was selected to his 10th career All-Star Game this season \u2014 a milestone that speaks to his sustained excellence across nearly a decade and a half at the major league level.<\/p>\n  <\/section>\n\n  <section>\n    <h2>The Historical Context<\/h2>\n    <p>Sale's 2.08 ERA is the third-lowest posted by any pitcher age 37 or older since 1950. The two pitchers ahead of him on that list are not just Hall of Famers \u2014 they are two of the greatest pitchers of any era. Roger Clemens posted a 1.40 ERA for the Houston Astros in 2005 at age 42. Justin Verlander posted a 1.73 ERA for the Houston Astros in 2022 at age 39.<\/p>\n    <p>Sale, at 37, sits in that company. That is not a minor statistical footnote. The list of pitchers who have posted sub-2.10 ERAs at or past age 37 since the middle of the 20th century is extraordinarily short \u2014 and Sale has now joined it.<\/p>\n    <p>The second milestone adds to the historical picture: Sale became the fastest pitcher in MLB history to reach 2,500 career strikeouts by innings pitched. The combination of strikeout volume and efficiency over his career has placed him in a statistical category that no pitcher has reached faster.<\/p>\n  <\/section>\n\n  <section>\n    <h2>What It Means for Atlanta<\/h2>\n    <p>For the Braves, Sale's 2026 season is the anchor of their deadline approach. Atlanta is a buyer entering the final 48 hours of the trade window \u2014 a contending team in the National League with a rotation built around one of the best pitchers in baseball. That position is only possible because Sale has performed at this level through the first four months of the season.<\/p>\n    <p>The Braves can pursue whatever additional pieces they want at the deadline with the confidence that their top starting pitcher is not a liability. He is the reason they are a contender. A 12-6 record and a 2.08 ERA from your ace heading into August is the kind of performance that makes a front office aggressive.<\/p>\n  <\/section>\n\n  <section>\n    <h2>The Age Narrative<\/h2>\n    <p>It is worth pausing on the pure anomaly of what Sale is doing. Most pitchers are finished, or declining sharply, by 37. The combination of strikeout volume \u2014 143 K across 20 starts \u2014 and efficiency (2.08 ERA) at this age is not what the aging curve predicts. Sale has managed his body through significant injury history across his career, and he has arrived at 37 in perhaps his best sustained form since his Chicago White Sox peak.<\/p>\n    <p>Clemens at 42 and Verlander at 39 are the only comparisons since 1950. Neither of those names diminishes Sale. They frame, in the most historically precise terms possible, just how rare what he is doing actually is.<\/p>\n  <\/section>\n\n  <section>\n    <h2>What's Next<\/h2>\n    <p>Sale's next start is expected in the first week of August. The Braves' deadline additions \u2014 whatever they end up being \u2014 will fill out the roster around the pitcher who has made Atlanta's October ambitions possible. If Sale maintains this pace through September, he will be among the most serious NL Cy Young Award contenders and a legitimate candidate for any end-of-season accolade given to the best pitchers in baseball. Watch for his ERA as the second half unfolds.<\/p>\n  <\/section>\n<\/article>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-05-july-31-scoreboard-recap", "title": "July 31 MLB Recap: Sal Stewart Walk-Off, Ohtani Homers, Ramirez Makes History", "content": "<article>\n  <header>\n    <h1>July 31 MLB Recap: Sal Stewart Walk-Off, Ohtani Homers, Ramirez Makes History<\/h1>\n    <p class=\"byline\">By Jake Torres<\/p>\n    <p class=\"date\">August 1, 2026<\/p>\n  <\/header>\n\n  <section>\n    <p>Friday night across Major League Baseball delivered two finishes worth talking about, a milestone home run, and a standings development in the American League Central. Here is how July 31 wrapped up.<\/p>\n  <\/section>\n\n  <section>\n    <h2>Stewart Walk-Off: Reds 8, Pirates 7<\/h2>\n    <p>The night's most dramatic moment came in Cincinnati, where Sal Stewart hit a walk-off two-run home run in the bottom of the ninth inning to give the Reds an 8-7 win over the Pittsburgh Pirates. Stewart was the story of the night for the Reds \u2014 he drove in four runs total in the game, capping the evening with the walk-off that gave Cincinnati the comeback victory.<\/p>\n    <p>The win was exactly the kind of late-game drama that makes summer baseball. The Pirates had control of the game heading into the final frame, but Stewart ended it in the most decisive way possible.<\/p>\n  <\/section>\n\n  <section>\n    <h2>Red Sox Over Dodgers \u2014 Ohtani Hits No. 23<\/h2>\n    <p>The marquee matchup of the night went to Boston. The Red Sox defeated the Los Angeles Dodgers in a game that featured one of the biggest individual highlights of the evening: Shohei Ohtani hit home run No. 23 of the season as Los Angeles's designated hitter. Even in a loss, Ohtani continued to do what he has done all season as a DH \u2014 hit the ball hard and often. His 23rd home run is a reminder that whatever is happening with his pitching return, his bat has not missed a beat.<\/p>\n    <p>The Red Sox win was the result, but Ohtani's home run was the moment.<\/p>\n  <\/section>\n\n  <section>\n    <h2>White Sox Acquire Urquidy \u2014 Lead the AL Central at 57-51<\/h2>\n    <p>The Chicago White Sox made a deadline move ahead of Sunday's 6 PM ET cutoff, acquiring starter Jose Urquidy from the Pittsburgh Pirates to add to their rotation. With the addition, the White Sox sit at 57-51, holding first place in the American League Central. It is one of the more unexpected standings stories of the 2026 season \u2014 a team that has rebuilt faster than almost anyone projected now in legitimate postseason position heading into August.<\/p>\n    <p>The Urquidy pickup is a statement that Chicago intends to stay there.<\/p>\n  <\/section>\n\n  <section>\n    <h2>Ramirez Makes History<\/h2>\n    <p>Jose Ramirez hit a home run on July 31 that moved him into a category no Cleveland Guardian has ever occupied: he became the first player in franchise history to hit a home run against all 29 other MLB clubs. Ramirez has been one of the most consistent performers in baseball for the better part of a decade, and milestones like this one put a number on just how long he has been delivering at an elite level. Hitting a home run against every other team in baseball requires not just power, but durability and longevity \u2014 the kind of sustained presence in the lineup that only a handful of players manage.<\/p>\n  <\/section>\n\n  <section>\n    <h2>What's Next<\/h2>\n    <p>August 1 begins the final stretch of the regular season with the trade deadline 48 hours away. The White Sox will look to hold their AL Central lead while the Reds, buoyed by Stewart's walk-off, return to action. Ohtani and the Dodgers regroup ahead of Sunday's deadline, where Los Angeles's pursuit of Tarik Skubal could define their October. The next two days will be among the most active in the baseball calendar.<\/p>\n  <\/section>\n<\/article>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}];
+        const imageManifest = {};
+        let imageURLs = {}; // Runtime store: {'1_x_image': 'url', '1_facebook_image': 'url', ...}
+
+        // Image URL management
+        function updateImageURL(inputEl) {
+            var story = inputEl.dataset.story;
+            var platform = inputEl.dataset.platform;
+            var url = inputEl.value.trim();
+            var key = story + '_' + platform;
+            imageURLs[key] = url;
+
+            // Update preview thumbnail
+            var preview = document.getElementById('img-preview-' + story + '-' + platform);
+            if (preview) {
+                if (url) {
+                    preview.src = url;
+                    preview.classList.add('loaded');
+                    preview.onerror = function() { this.classList.remove('loaded'); };
+                } else {
+                    preview.src = '';
+                    preview.classList.remove('loaded');
+                }
+            }
+        }
+
+        function getImageURLForStory(storyTitle, platform) {
+            // Try runtime imageURLs first (user-pasted)
+            // Extract story number from title
+            for (var key in imageURLs) {
+                if (imageURLs[key] && key.endsWith('_' + platform)) {
+                    var storyNum = key.split('_')[0];
+                    // Check if this story matches by looking at allStories
+                    for (var i = 0; i < allStories.length; i++) {
+                        if (allStories[i].title === storyTitle &&
+                            allStories[i].id.indexOf('story-' + storyNum) !== -1) {
+                            return imageURLs[key];
+                        }
+                    }
+                }
+            }
+
+            // Try manifest data
+            for (var num in imageManifest) {
+                var mdata = imageManifest[num];
+                if (mdata && mdata[platform] && mdata[platform].exported_url) {
+                    // Check if this story number matches
+                    for (var j = 0; j < allStories.length; j++) {
+                        if (allStories[j].title === storyTitle &&
+                            allStories[j].id.indexOf('story-' + num) !== -1) {
+                            return mdata[platform].exported_url;
+                        }
+                    }
+                }
+            }
+
+            return '';
+        }
+
+        function initializeApp() {
+            const saved = localStorage.getItem(REVIEW_STORAGE_KEY + '-' + DATE);
+            if (saved) {
+                try {
+                    reviewData = JSON.parse(saved);
+                } catch (e) {
+                    reviewData = {};
+                }
+            }
+
+            allStories.forEach(function(story) {
+                if (!reviewData[story.id]) {
+                    reviewData[story.id] = {
+                        id: story.id,
+                        type: story.type,
+                        status: 'unreviewed',
+                        notes: '',
+                        content: story.content,
+                        editedContent: null
+                    };
+                }
+                // Migrate old data: ensure editedContent field exists
+                if (reviewData[story.id].editedContent === undefined) {
+                    reviewData[story.id].editedContent = null;
+                }
+            });
+
+            // Restore UI state
+            Object.keys(reviewData).forEach(function(storyId) {
+                var data = reviewData[storyId];
+                var card = document.querySelector('[data-id="' + storyId + '"]');
+                if (card) {
+                    card.setAttribute('data-status', data.status);
+                    var textarea = document.getElementById('textarea-' + storyId);
+                    if (textarea) textarea.value = data.notes || '';
+                    // If content was edited, update the display and editor
+                    if (data.editedContent) {
+                        var contentText = card.querySelector('.card-content-text');
+                        if (contentText) contentText.textContent = data.editedContent;
+                        var editor = document.getElementById('editor-' + storyId);
+                        if (editor) editor.value = data.editedContent;
+                    }
+                    updateCardVisuals(storyId, data.status, !!data.editedContent);
+                }
+            });
+
+            updateProgress();
+            filterByStatus('all');
+        }
+
+        function toggleExpand(storyId) {
+            var content = document.getElementById('content-' + storyId);
+            var toggle = document.getElementById('toggle-' + storyId);
+            if (content.classList.contains('collapsed')) {
+                content.classList.remove('collapsed');
+                content.classList.add('expanded');
+                toggle.textContent = 'Collapse';
+            } else {
+                content.classList.remove('expanded');
+                content.classList.add('collapsed');
+                toggle.textContent = 'Show Full Content';
+            }
+        }
+
+        function startEdit(storyId) {
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (!card) return;
+            card.classList.add('editing');
+            var editor = document.getElementById('editor-' + storyId);
+            if (editor) {
+                // If previously edited, load edited content; otherwise load original
+                var data = reviewData[storyId];
+                if (data && data.editedContent) {
+                    editor.value = data.editedContent;
+                }
+                editor.focus();
+                // Auto-resize for articles
+                editor.style.minHeight = Math.max(300, editor.scrollHeight) + 'px';
+            }
+        }
+
+        function saveAndApprove(storyId) {
+            var editor = document.getElementById('editor-' + storyId);
+            if (!editor) return;
+            var newContent = editor.value;
+
+            // Save the edited content
+            if (!reviewData[storyId]) {
+                reviewData[storyId] = { id: storyId, status: 'approved', notes: '', content: '', editedContent: null };
+            }
+            reviewData[storyId].editedContent = newContent;
+
+            // Update the display text
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            var contentText = card ? card.querySelector('.card-content-text') : null;
+            if (contentText) contentText.textContent = newContent;
+
+            // Exit edit mode
+            if (card) card.classList.remove('editing');
+
+            // Approve
+            setStatus(storyId, 'approved');
+            updateCardVisuals(storyId, 'approved', true);
+
+            // Update char count for X posts
+            updateCharCount(storyId, newContent);
+        }
+
+        function cancelEdit(storyId) {
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (card) card.classList.remove('editing');
+        }
+
+        function updateCharCount(storyId, text) {
+            var el = document.getElementById('charcount-' + storyId);
+            if (!el) return;
+            // Strip metadata tags before counting
+            var clean = text.replace(/\[CHARACTER COUNT:.*?\]/gi, '');
+            clean = clean.replace(/\[CHAR COUNT:.*?\]/gi, '');
+            clean = clean.replace(/\[\d+\/280\]/g, '');
+            // Remove URLs for Twitter count
+            var textNoUrls = clean.replace(/https?:\/\/\S+/g, '');
+            var count = textNoUrls.trim().length;
+            el.textContent = 'Characters: ' + count + '/280' + (count > 280 ? '  OVER LIMIT' : '');
+            el.className = count > 280 ? 'char-count warning' : 'char-count';
+        }
+
+        function approveCard(storyId) {
+            setStatus(storyId, 'approved');
+            document.getElementById('notes-' + storyId).classList.remove('show');
+        }
+
+        function rejectCard(storyId) {
+            setStatus(storyId, 'rejected');
+            document.getElementById('notes-' + storyId).classList.add('show');
+        }
+
+        function setStatus(storyId, status) {
+            if (!reviewData[storyId]) {
+                var story = allStories.find(function(s) { return s.id === storyId; });
+                reviewData[storyId] = {
+                    id: storyId,
+                    type: story ? story.type : '',
+                    status: status,
+                    notes: '',
+                    content: story ? story.content : '',
+                    editedContent: null
+                };
+            }
+
+            reviewData[storyId].status = status;
+
+            var textarea = document.getElementById('textarea-' + storyId);
+            if (textarea) reviewData[storyId].notes = textarea.value;
+
+            localStorage.setItem(REVIEW_STORAGE_KEY + '-' + DATE, JSON.stringify(reviewData));
+
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (card) card.setAttribute('data-status', status);
+            updateCardVisuals(storyId, status, !!(reviewData[storyId] && reviewData[storyId].editedContent));
+            updateProgress();
+        }
+
+        function updateCardVisuals(storyId, status, wasEdited) {
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (!card) return;
+
+            card.classList.remove('approved', 'needs-edit', 'rejected');
+            if (status !== 'unreviewed') card.classList.add(status);
+
+            var statusLabel = document.getElementById('status-' + storyId);
+            if (statusLabel) {
+                statusLabel.className = 'status-label';
+                if (status === 'approved' && wasEdited) {
+                    statusLabel.textContent = 'APPROVED (EDITED)';
+                    statusLabel.classList.add('status-edited');
+                } else if (status === 'approved') {
+                    statusLabel.textContent = 'APPROVED';
+                    statusLabel.classList.add('status-approved');
+                } else if (status === 'needs-edit') {
+                    statusLabel.textContent = 'NEEDS EDIT';
+                    statusLabel.classList.add('status-needs-edit');
+                } else if (status === 'rejected') {
+                    statusLabel.textContent = 'REJECTED';
+                    statusLabel.classList.add('status-rejected');
+                } else {
+                    statusLabel.textContent = '';
+                }
+            }
+        }
+
+        function updateProgress() {
+            var approved = 0, rejected = 0, unreviewed = 0;
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (!data || data.status === 'unreviewed') unreviewed++;
+                else if (data.status === 'approved') approved++;
+                else if (data.status === 'rejected') rejected++;
+                else unreviewed++;
+            });
+            var reviewed = approved + rejected;
+            var total = allStories.length;
+            var percentage = total > 0 ? (reviewed / total * 100) : 0;
+            document.getElementById('reviewed-count').textContent = reviewed;
+            document.getElementById('total-count').textContent = total;
+            document.getElementById('progress-fill').style.width = percentage + '%';
+            // Update stat chips
+            document.getElementById('stat-approved-count').textContent = approved;
+            document.getElementById('stat-rejected-count').textContent = rejected;
+            document.getElementById('stat-unreviewed-count').textContent = unreviewed;
+            // Update CSV button
+            var csvBtn = document.getElementById('btn-csv');
+            var tobiBtn = document.getElementById('btn-tobi');
+            var socialApproved = countApprovedSocialPosts();
+            if (csvBtn) {
+                if (socialApproved > 0) {
+                    csvBtn.disabled = false;
+                    csvBtn.textContent = 'PostPlanner Upload (' + socialApproved + ' posts)';
+                } else {
+                    csvBtn.disabled = true;
+                    csvBtn.textContent = 'PostPlanner Upload (0 approved)';
+                }
+            }
+            // Update TOBI button (counts only X/Twitter text posts)
+            if (tobiBtn) {
+                var xApproved = countApprovedXPosts();
+                if (xApproved > 0) {
+                    tobiBtn.disabled = false;
+                    tobiBtn.textContent = 'TOBI Upload (' + xApproved + ' posts)';
+                } else {
+                    tobiBtn.disabled = true;
+                    tobiBtn.textContent = 'TOBI Upload (0 approved)';
+                }
+            }
+        }
+
+        function countApprovedSocialPosts() {
+            var count = 0;
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (data && data.status === 'approved' && (story.type === 'x_post' || story.type === 'facebook')) {
+                    count++;
+                }
+            });
+            return count;
+        }
+
+        function countApprovedXPosts() {
+            var count = 0;
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (data && data.status === 'approved' && story.type === 'x_post') {
+                    count++;
+                }
+            });
+            return count;
+        }
+
+        function escapeCSVField(text) {
+            if (!text) return '';
+            // If field contains comma, quote, or newline, wrap in quotes and escape inner quotes
+            if (text.indexOf(',') !== -1 || text.indexOf('"') !== -1 || text.indexOf('\n') !== -1) {
+                return '"' + text.replace(/"/g, '""') + '"';
+            }
+            return text;
+        }
+
+        function extractHashtags(text) {
+            if (!text) return '';
+            var matches = text.match(/#\w+/g);
+            return matches ? matches.join(' ') : '';
+        }
+
+        // ========== POSTING SCHEDULE SYSTEM ==========
+        var defaultXSlots = ['09:00', '12:00', '15:00', '18:00', '21:00'];
+        var defaultFBSlots = ['10:00', '13:00', '17:00'];
+
+        function getScheduleConfig() {
+            var saved = localStorage.getItem(SCHEDULE_STORAGE_KEY);
+            if (saved) {
+                try { return JSON.parse(saved); } catch(e) {}
+            }
+            return { xSlots: defaultXSlots.slice(), fbSlots: defaultFBSlots.slice() };
+        }
+
+        function saveScheduleConfig(config) {
+            localStorage.setItem(SCHEDULE_STORAGE_KEY, JSON.stringify(config));
+        }
+
+        function renderTimeSlots() {
+            var config = getScheduleConfig();
+            var xContainer = document.getElementById('x-time-slots');
+            var fbContainer = document.getElementById('fb-time-slots');
+
+            xContainer.innerHTML = config.xSlots.map(function(t, i) {
+                return '<span class="time-slot">' + t + ' <span class="remove-slot" onclick="removeTimeSlot(\x27x\x27,' + i + ')">&times;</span></span>';
+            }).join('');
+
+            fbContainer.innerHTML = config.fbSlots.map(function(t, i) {
+                return '<span class="time-slot">' + t + ' <span class="remove-slot" onclick="removeTimeSlot(\x27fb\x27,' + i + ')">&times;</span></span>';
+            }).join('');
+        }
+
+        function addTimeSlot(platform) {
+            var inputId = platform === 'x' ? 'new-x-time' : 'new-fb-time';
+            var val = document.getElementById(inputId).value;
+            if (!val) return;
+            var config = getScheduleConfig();
+            var arr = platform === 'x' ? config.xSlots : config.fbSlots;
+            if (arr.indexOf(val) === -1) {
+                arr.push(val);
+                arr.sort();
+            }
+            saveScheduleConfig(config);
+            renderTimeSlots();
+            document.getElementById(inputId).value = '';
+        }
+
+        function removeTimeSlot(platform, index) {
+            var config = getScheduleConfig();
+            var arr = platform === 'x' ? config.xSlots : config.fbSlots;
+            arr.splice(index, 1);
+            saveScheduleConfig(config);
+            renderTimeSlots();
+        }
+
+        function downloadPostPlannerCSV() {
+            // Open schedule panel instead of direct download
+            openSchedulePanel();
+        }
+
+        function openSchedulePanel() {
+            document.getElementById('schedule-date').value = DATE;
+            renderTimeSlots();
+            document.getElementById('schedule-panel').classList.add('show');
+            document.getElementById('schedule-overlay').classList.add('show');
+        }
+
+        function closeSchedulePanel() {
+            document.getElementById('schedule-panel').classList.remove('show');
+            document.getElementById('schedule-overlay').classList.remove('show');
+        }
+
+        function formatTimeForPostPlanner(time24, dateStr) {
+            // Output PostPlanner V2 format: MM/DD/YYYY  HH:MM (24hr)
+            var parts = dateStr.split('-');
+            return parts[1] + '/' + parts[2] + '/' + parts[0] + '  ' + time24;
+        }
+
+        function redistributeTimes(rows) {
+            // Ensure all post times are at least 30 min from now,
+            // evenly spaced through the rest of the day.
+            if (rows.length === 0) return rows;
+
+            var now = new Date();
+            var nowMinutes = now.getHours() * 60 + now.getMinutes();
+            var floorMinutes = nowMinutes + 30;
+            var endMinutes = 22 * 60; // 10:00 PM cutoff
+
+            // Check if ANY post times have already passed
+            var anyPast = rows.some(function(row) {
+                var parts = row.time.split(':');
+                var rowMin = parseInt(parts[0], 10) * 60 + parseInt(parts[1], 10);
+                return rowMin < floorMinutes;
+            });
+
+            if (!anyPast) return rows; // all times are in the future, keep them
+
+            if (floorMinutes >= endMinutes) {
+                alert('It is past 9:30 PM — not enough time remaining to schedule all posts today. Posts will use original times.');
+                return rows;
+            }
+
+            var availableMinutes = endMinutes - floorMinutes;
+            var spacing = Math.floor(availableMinutes / rows.length);
+            if (spacing < 15) spacing = 15; // minimum 15 min gap
+            if (spacing > 90) spacing = 90; // maximum 90 min gap
+
+            rows.forEach(function(row, i) {
+                var postMinutes = floorMinutes + (i * spacing);
+                if (postMinutes >= 24 * 60) postMinutes = 23 * 60 + 45;
+                var h = Math.floor(postMinutes / 60);
+                var m = postMinutes % 60;
+                row.time = (h < 10 ? '0' : '') + h + ':' + (m < 10 ? '0' : '') + m;
+            });
+
+            var firstTime = rows[0].time;
+            var lastTime = rows[rows.length - 1].time;
+            console.log('PostPlanner export: redistributed ' + rows.length + ' posts from ' + firstTime + ' to ' + lastTime + ' (' + spacing + ' min apart)');
+            return rows;
+        }
+
+        // Parse actual time from posting_window string like "7:00 AM CT" -> "07:00"
+        function parsePostingTime(timeStr) {
+            if (!timeStr) return null;
+            var m = timeStr.match(/(\d{1,2}):(\d{2})\s*(AM|PM)/i);
+            if (!m) return null;
+            var h = parseInt(m[1], 10);
+            var min = m[2];
+            var ampm = m[3].toUpperCase();
+            if (ampm === 'PM' && h !== 12) h += 12;
+            if (ampm === 'AM' && h === 12) h = 0;
+            return (h < 10 ? '0' : '') + h + ':' + min;
+        }
+
+        // Generic window name fallback
+        var windowToTime = {
+            'Morning': '09:00',
+            'Midday': '12:00',
+            'Afternoon': '15:00',
+            'Evening': '18:00',
+            'Late Night': '21:00'
+        };
+
+        function generateAndDownload() {
+            var config = getScheduleConfig();
+            var postDate = document.getElementById('schedule-date').value || DATE;
+
+            var xRows = [];
+            var fbRows = [];
+
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (!data || data.status !== 'approved') return;
+                var finalContent = data.editedContent || story.content;
+
+                if (story.type === 'x_post') {
+                    // If this is an individual tweet card (has tweet_label), use directly
+                    if (story.tweet_label) {
+                        xRows.push({
+                            content: finalContent,
+                            type: story.tweet_type || 'text',
+                            hashtags: story.hashtags || extractHashtags(finalContent),
+                            story: story.title,
+                            posting_window: story.posting_window || ''
+                        });
+                    } else {
+                        // Legacy: parse full story markdown for individual tweets
+                        var sections = parseXPostContent(finalContent, story.title);
+                        sections.forEach(function(post) {
+                            xRows.push({
+                                content: post.text,
+                                type: post.type,
+                                hashtags: extractHashtags(post.text),
+                                story: story.title
+                            });
+                        });
+                    }
+                } else if (story.type === 'facebook') {
+                    var fbPost = parseFacebookContent(finalContent, story.title);
+                    if (fbPost) {
+                        fbRows.push(fbPost);
+                    }
+                }
+            });
+
+            if (xRows.length === 0 && fbRows.length === 0) {
+                alert('No approved social posts to export.');
+                return;
+            }
+
+            // Assign times: use posting_window property first, then content tag, then round-robin
+            function assignTimes(rows, slots, label) {
+                if (slots.length === 0) slots = ['12:00'];
+                var timeFallbacks = [];
+                return rows.map(function(row, i) {
+                    row.date = postDate;
+                    // 1. Try posting_window property (e.g., "7:00 AM CT")
+                    var parsed = parsePostingTime(row.posting_window);
+                    if (parsed) {
+                        row.time = parsed;
+                        return row;
+                    }
+                    // 2. Try [POSTING WINDOW: ...] tag in content
+                    var windowMatch = row.content ? row.content.match(/\[POSTING WINDOW:\s*([^\]]+)\]/) : null;
+                    if (windowMatch) {
+                        parsed = parsePostingTime(windowMatch[1]);
+                        if (parsed) {
+                            row.time = parsed;
+                            return row;
+                        }
+                        if (windowToTime[windowMatch[1].trim()]) {
+                            row.time = windowToTime[windowMatch[1].trim()];
+                            return row;
+                        }
+                    }
+                    // 3. Fall back to round-robin
+                    row.time = slots[i % slots.length];
+                    timeFallbacks.push('Post ' + (i + 1) + ': no parsed time, using ' + row.time);
+                    return row;
+                });
+                // Warn if any posts had to use fallback times
+                if (timeFallbacks.length > 0) {
+                    console.warn('TIME WARNING (' + label + '): ' + timeFallbacks.length + ' post(s) had no parsed posting time:\n' + timeFallbacks.join('\n'));
+                }
+            }
+
+            xRows = assignTimes(xRows, config.xSlots, 'X/Twitter');
+            fbRows = assignTimes(fbRows, config.fbSlots, 'Facebook');
+
+            // Generate XLSX in PostPlanner Bulk Upload V2 format
+            if (typeof XLSX === 'undefined') {
+                alert('SheetJS library not loaded. Falling back to CSV download.');
+                fallbackCSVDownload(xRows, fbRows, postDate);
+                return;
+            }
+
+            // Combine all rows and sort by original time
+            var allRows = xRows.concat(fbRows);
+            allRows.sort(function(a, b) {
+                return a.time.localeCompare(b.time);
+            });
+
+            // Smart time redistribution
+            allRows = redistributeTimes(allRows);
+
+            var wb = XLSX.utils.book_new();
+
+            // PostPlanner V3.1 format: Row 1 = version marker, Row 2 = headers, Row 3+ = data
+            var data = [
+                ['## ' + BRAND_NAME + ' -- PostPlanner Bulk Upload', 'BULK UPLOAD VERSION 3.1 – Please DO NOT EDIT this cell.', '', '', '', '', '', '', ''],
+                ['## POSTING TIME', 'CAPTION', 'LINK', 'MEDIA', 'TITLE', 'FIRST COMMENT', 'FIRST COMMENT DELAY', 'TOBI BACKGROUND', 'REEL OR STORY']
+            ];
+
+            allRows.forEach(function(row) {
+                var caption = cleanMarkdownForPost(row.content);
+                var mediaUrl = '';
+                if (row.type === 'image' || row.type === 'IMAGE') {
+                    mediaUrl = getImageURLForStory(row.story, row.platform === 'facebook' ? 'facebook_image' : 'x_image') || '';
+                }
+                data.push([
+                    formatTimeForPostPlanner(row.time, postDate),
+                    caption,
+                    '',
+                    mediaUrl,
+                    '', '', '', '', ''
+                ]);
+            });
+
+            var sheet = XLSX.utils.aoa_to_sheet(data);
+            sheet['!cols'] = [
+                {wch: 20}, {wch: 80}, {wch: 30}, {wch: 30}, {wch: 10}, {wch: 20}, {wch: 18}, {wch: 18}, {wch: 14}
+            ];
+            XLSX.utils.book_append_sheet(wb, sheet, 'Sheet1');
+
+            // Download
+            XLSX.writeFile(wb, 'postplanner-upload-' + postDate + '.xlsx');
+            closeSchedulePanel();
+
+            var msg = 'Downloaded postplanner-upload-' + postDate + '.xlsx with ';
+            var parts = [];
+            if (xRows.length > 0) parts.push(xRows.length + ' X posts');
+            if (fbRows.length > 0) parts.push(fbRows.length + ' Facebook posts');
+            alert(msg + parts.join(' and ') + '.\n\nUpload this file to PostPlanner via Bulk Upload.');
+        }
+
+        function cleanMarkdownForPost(text) {
+            // Strip markdown formatting and metadata that shouldn't appear in social posts
+            if (!text) return '';
+            return text
+                .replace(/\[CHARACTER COUNT:.*?\]/gi, '')
+                .replace(/\[CHAR COUNT:.*?\]/gi, '')
+                .replace(/\[\d+\/280\]/g, '')
+                .replace(/\*\*\[POSTING WINDOW:.*?\]\*\*/g, '')
+                .replace(/\[POSTING WINDOW:.*?\]/g, '')
+                .replace(/\*\*([^*]+)\*\*/g, '$1')
+                .replace(/\*([^*]+)\*/g, '$1')
+                .replace(/^#+\s+/gm, '')
+                .replace(/^[-*]\s+/gm, '')
+                .replace(/```[\s\S]*?```/g, '')
+                .replace(/\n{3,}/g, '\n\n')
+                .trim();
+        }
+
+        function fallbackCSVDownload(xRows, fbRows, postDate) {
+            // Fallback if SheetJS fails to load — generates CSV in V2-like format
+            var allRows = xRows.concat(fbRows);
+            allRows.sort(function(a, b) { return a.time.localeCompare(b.time); });
+            if (allRows.length === 0) {
+                alert('No approved posts to export.');
+                closeSchedulePanel();
+                return;
+            }
+            // Smart time redistribution (same as XLSX path)
+            allRows = redistributeTimes(allRows);
+            var csv = '## ' + BRAND_NAME + ' -- PostPlanner Bulk Upload,' + escapeCSVField('BULK UPLOAD VERSION 3.1 – Please DO NOT EDIT this cell.') + ',,,,,,,\n';
+            csv += '## POSTING TIME,CAPTION,LINK,MEDIA,TITLE,FIRST COMMENT,FIRST COMMENT DELAY,TOBI BACKGROUND,REEL OR STORY\n';
+            allRows.forEach(function(row) {
+                csv += escapeCSVField(formatTimeForPostPlanner(row.time, postDate)) + ',' +
+                       escapeCSVField(cleanMarkdownForPost(row.content)) + ',' +
+                       ',,,,,,\n';
+            });
+            downloadFile(csv, 'postplanner-upload-' + postDate + '.csv', 'text/csv');
+            closeSchedulePanel();
+        }
+
+        function downloadTOBIExport() {
+            // Generate TOBI XLSX directly (no schedule panel needed — uses same times)
+            generateAndDownloadTOBI();
+        }
+
+        function stripHashtags(text) {
+            // Remove lines that are entirely hashtags, and trailing blank lines
+            var lines = text.split('\n');
+            var cleaned = [];
+            for (var i = 0; i < lines.length; i++) {
+                var stripped = lines[i].trim();
+                if (stripped && stripped.split(/\s+/).every(function(w) { return w.charAt(0) === '#'; })) {
+                    continue;
+                }
+                cleaned.push(lines[i]);
+            }
+            while (cleaned.length > 0 && !cleaned[cleaned.length - 1].trim()) {
+                cleaned.pop();
+            }
+            return cleaned.join('\n');
+        }
+
+        function generateAndDownloadTOBI() {
+            var postDate = document.getElementById('schedule-date') ?
+                document.getElementById('schedule-date').value || DATE : DATE;
+
+            // Collect approved X/Twitter text posts only
+            var xRows = [];
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (!data || data.status !== 'approved') return;
+                if (story.type !== 'x_post') return;
+
+                var finalContent = data.editedContent || story.content;
+                if (story.tweet_label) {
+                    xRows.push({
+                        content: finalContent,
+                        posting_window: story.posting_window || '',
+                        story: story.title
+                    });
+                }
+            });
+
+            if (xRows.length === 0) {
+                alert('No approved X/Twitter posts for TOBI export.');
+                return;
+            }
+
+            // Assign times — use same logic as regular export (posting_window → content tag → round-robin)
+            var tobiSlots = defaultXSlots.slice();
+            if (tobiSlots.length === 0) tobiSlots = ['12:00'];
+            var tobiTimeFallbacks = [];
+            xRows = xRows.map(function(row, i) {
+                row.date = postDate;
+                // 1. Try posting_window property (e.g., "7:00 AM CT")
+                var parsed = parsePostingTime(row.posting_window);
+                if (parsed) {
+                    row.time = parsed;
+                    return row;
+                }
+                // 2. Try [POSTING WINDOW: ...] tag in content
+                var windowMatch = row.content ? row.content.match(/\[POSTING WINDOW:\s*([^\]]+)\]/) : null;
+                if (windowMatch) {
+                    parsed = parsePostingTime(windowMatch[1]);
+                    if (parsed) {
+                        row.time = parsed;
+                        return row;
+                    }
+                }
+                // 3. Fall back to round-robin through time slots (NOT 12:00)
+                row.time = tobiSlots[i % tobiSlots.length];
+                tobiTimeFallbacks.push('Post ' + (i + 1) + ': no parsed time, using ' + row.time);
+                return row;
+            });
+            // Warn if any posts had to use fallback times
+            if (tobiTimeFallbacks.length > 0) {
+                console.warn('TOBI TIME WARNING: ' + tobiTimeFallbacks.length + ' post(s) had no parsed posting time:\n' + tobiTimeFallbacks.join('\n'));
+            }
+
+            // Sort by time
+            xRows.sort(function(a, b) { return a.time.localeCompare(b.time); });
+
+            // Smart time redistribution
+            xRows = redistributeTimes(xRows);
+
+            // TOBI processing: preserve hashtags + emojis as much as possible
+            var TOBI_LIMIT = 130;
+
+            function extractHashtags(text) {
+                var matches = text.match(/#\w+/g);
+                return matches || [];
+            }
+
+            function extractTrailingEmoji(text) {
+                var m = text.match(/\s*([\u{1F300}-\u{1FAFF}\u2600-\u27BF\u2B50\u26A0-\u26FF]+)\s*$/u);
+                if (m) {
+                    return { emoji: m[1], text: text.substring(0, m.index).trimEnd() };
+                }
+                return { emoji: null, text: text };
+            }
+
+            function truncateAtSentence(text, limit) {
+                var sentences = text.split(/(?<=[.!?])\s+/);
+                // Merge standalone emoji fragments into preceding sentence
+                var merged = [];
+                for (var s = 0; s < sentences.length; s++) {
+                    var trimmed = sentences[s].trim();
+                    if (!trimmed) continue;
+                    if (merged.length > 0 && !/[A-Za-z0-9]/.test(trimmed)) {
+                        merged[merged.length - 1] = merged[merged.length - 1] + ' ' + trimmed;
+                    } else {
+                        merged.push(trimmed);
+                    }
+                }
+                var truncated = '';
+                for (var s = 0; s < merged.length; s++) {
+                    var candidate = truncated ? truncated + ' ' + merged[s] : merged[s];
+                    if (candidate.length <= limit) {
+                        truncated = candidate;
+                    } else {
+                        break;
+                    }
+                }
+                // Clean up trailing abbreviation fragments (Dr., Mr., vs.)
+                if (truncated) {
+                    var parts = truncated.split(' ');
+                    var last = parts[parts.length - 1];
+                    if (parts.length > 1 && last.length <= 4 && /^[A-Za-z]+\.$/.test(last)) {
+                        parts.pop();
+                        truncated = parts.join(' ');
+                    }
+                }
+                return truncated || text.substring(0, limit - 3) + '...';
+            }
+
+            function fitHashtagsWithinLimit(text, hashtags, limit) {
+                if (!hashtags.length) return text;
+                // Try all hashtags, then progressively fewer
+                for (var n = hashtags.length; n > 0; n--) {
+                    var tagBlock = '\n\n' + hashtags.slice(0, n).join(' ');
+                    if ((text + tagBlock).length <= limit) {
+                        return text + tagBlock;
+                    }
+                }
+                return text;
+            }
+
+            if (typeof XLSX === 'undefined') {
+                alert('SheetJS library not loaded. Cannot generate TOBI XLSX.');
+                return;
+            }
+
+            var wb = XLSX.utils.book_new();
+            var data = [
+                ['## ' + BRAND_NAME + ' -- PostPlanner TOBI Bulk Upload', 'BULK UPLOAD VERSION 3.1 – Please DO NOT EDIT this cell.', '', '', '', '', '', '', ''],
+                ['## POSTING TIME', 'CAPTION', 'LINK', 'MEDIA', 'TITLE', 'FIRST COMMENT', 'FIRST COMMENT DELAY', 'TOBI BACKGROUND', 'REEL OR STORY']
+            ];
+
+            var keptHashtags = 0;
+            var strippedHashtags = 0;
+
+            xRows.forEach(function(row, i) {
+                var caption = cleanMarkdownForPost(row.content);
+
+                // If full caption fits under limit, use as-is — ALL hashtags + emojis preserved
+                if (caption.length <= TOBI_LIMIT) {
+                    if (extractHashtags(caption).length > 0) keptHashtags++;
+                    data.push([
+                        formatTimeForPostPlanner(row.time, postDate),
+                        caption, '', '', '', '', '', 'true-black', ''
+                    ]);
+                    return;
+                }
+
+                // Over limit — decompose and rebuild intelligently
+                var hashtags = extractHashtags(caption);
+                var coreText = stripHashtags(caption).trimEnd();
+                var emojiResult = extractTrailingEmoji(coreText);
+                var trailing_emoji = emojiResult.emoji;
+                var coreNoEmoji = emojiResult.text.trimEnd();
+
+                // Step 1: Get core text under limit
+                var result;
+                if (coreNoEmoji.length <= TOBI_LIMIT) {
+                    result = coreNoEmoji;
+                } else {
+                    result = truncateAtSentence(coreNoEmoji, TOBI_LIMIT);
+                }
+
+                // Step 2: Try to add back trailing emoji
+                if (trailing_emoji) {
+                    var withEmoji = result + ' ' + trailing_emoji;
+                    if (withEmoji.length <= TOBI_LIMIT) {
+                        result = withEmoji;
+                    }
+                }
+
+                // Step 3: Try to add back as many hashtags as possible
+                if (hashtags.length > 0) {
+                    var before = result;
+                    result = fitHashtagsWithinLimit(result, hashtags, TOBI_LIMIT);
+                    if (result !== before) keptHashtags++;
+                    else strippedHashtags++;
+                }
+
+                data.push([
+                    formatTimeForPostPlanner(row.time, postDate),
+                    result, '', '', '', '', '', 'true-black', ''
+                ]);
+            });
+
+            var sheet = XLSX.utils.aoa_to_sheet(data);
+            sheet['!cols'] = [
+                {wch: 20}, {wch: 80}, {wch: 10}, {wch: 10}, {wch: 10}, {wch: 20}, {wch: 18}, {wch: 18}, {wch: 14}
+            ];
+            XLSX.utils.book_append_sheet(wb, sheet, 'Sheet1');
+
+            XLSX.writeFile(wb, 'postplanner-tobi-upload-' + postDate + '.xlsx');
+
+            alert('Downloaded TOBI export with ' + xRows.length + ' posts.\n\n' +
+                  keptHashtags + ' posts kept hashtags, ' + strippedHashtags + ' had hashtags removed for length.\n\n' +
+                  'Background: true-black (Column H).\nUpload to PostPlanner for Facebook TOBI posts.');
+        }
+
+        function parseXPostContent(content, storyTitle) {
+            var posts = [];
+            var lines = content.split('\n');
+
+            var inTextPost = false;
+            var inThread = false;
+            var currentTweetNum = 0;
+            var currentText = [];
+
+            for (var i = 0; i < lines.length; i++) {
+                var line = lines[i];
+                var trimmed = line.trim();
+
+                if (trimmed.match(/^###\s+Text Post/i)) {
+                    flushPost();
+                    inTextPost = true;
+                    inThread = false;
+                    currentText = [];
+                    continue;
+                }
+                if (trimmed.match(/^###\s+Thread Concept/i)) {
+                    flushPost();
+                    inTextPost = false;
+                    inThread = true;
+                    currentText = [];
+                    currentTweetNum = 0;
+                    continue;
+                }
+                if (trimmed.match(/^###\s+Image Post/i)) {
+                    flushPost();
+                    inTextPost = false;
+                    inThread = false;
+                    continue;
+                }
+                if (trimmed.match(/^###\s/)) {
+                    flushPost();
+                    inTextPost = false;
+                    inThread = false;
+                    continue;
+                }
+
+                if (inThread && trimmed.match(/^\*\*Tweet\s+\d+/i)) {
+                    flushPost();
+                    currentTweetNum++;
+                    currentText = [];
+                    continue;
+                }
+
+                if (inTextPost || (inThread && currentTweetNum > 0)) {
+                    if (trimmed !== '') {
+                        currentText.push(line);
+                    }
+                }
+            }
+            flushPost();
+
+            function flushPost() {
+                if (currentText.length === 0) return;
+                var text = currentText.join('\n').trim();
+                if (!text) return;
+
+                if (inTextPost) {
+                    posts.push({ text: text, type: 'text' });
+                } else if (inThread && currentTweetNum > 0) {
+                    posts.push({
+                        text: text,
+                        type: currentTweetNum === 1 ? 'thread_start' : 'thread_reply'
+                    });
+                }
+                currentText = [];
+            }
+
+            return posts;
+        }
+
+        function parseFacebookContent(content, storyTitle) {
+            var lines = content.split('\n');
+            var inLongForm = false;
+            var inImagePost = false;
+            var longFormLines = [];
+            var imageCaption = '';
+
+            for (var i = 0; i < lines.length; i++) {
+                var trimmed = lines[i].trim();
+
+                if (trimmed.match(/^###\s+Long-Form Post/i)) {
+                    inLongForm = true;
+                    inImagePost = false;
+                    longFormLines = [];
+                    continue;
+                }
+                if (trimmed.match(/^###\s+Image Post Caption/i) || trimmed.match(/^###\s+Image Post/i)) {
+                    inLongForm = false;
+                    inImagePost = true;
+                    continue;
+                }
+                if (trimmed.match(/^###\s/) || trimmed.match(/^---/)) {
+                    inLongForm = false;
+                    inImagePost = false;
+                    continue;
+                }
+
+                if (inLongForm) {
+                    longFormLines.push(lines[i]);
+                }
+                if (inImagePost && trimmed !== '') {
+                    imageCaption = trimmed;
+                    inImagePost = false;
+                }
+            }
+
+            var longForm = longFormLines.join('\n').trim();
+            if (!longForm) return null;
+
+            return {
+                content: longForm,
+                image_caption: imageCaption,
+                story: storyTitle
+            };
+        }
+
+        function downloadFile(content, filename, mimeType) {
+            var blob = new Blob([content], { type: mimeType });
+            var url = URL.createObjectURL(blob);
+            var link = document.createElement('a');
+            link.href = url;
+            link.download = filename;
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+            URL.revokeObjectURL(url);
+        }
+
+        var currentStatusFilter = 'all';
+        var currentTypeFilter = 'all';
+
+        function filterByStatus(status) {
+            currentStatusFilter = status;
+            applyFilters();
+            document.querySelectorAll('.filter-btn').forEach(function(btn) {
+                btn.classList.remove('active');
+                if (btn.textContent.trim().toLowerCase().replace(/\s+/g, '') === status.replace('-', '').toLowerCase() ||
+                    (status === 'all' && btn.textContent.trim() === 'All') ||
+                    (status === 'needs-edit' && btn.textContent.trim() === 'Needs Edit')) {
+                    btn.classList.add('active');
+                }
+            });
+            document.querySelectorAll('.sidebar .nav-item').forEach(function(item) { item.classList.remove('active'); });
+        }
+
+        function filterByType(type) {
+            currentTypeFilter = type;
+            currentStatusFilter = 'all';
+            applyFilters();
+            document.querySelectorAll('.sidebar .nav-item').forEach(function(item) { item.classList.remove('active'); });
+            document.querySelectorAll('.filter-btn').forEach(function(btn) {
+                btn.classList.remove('active');
+                if (btn.textContent.trim() === 'All') btn.classList.add('active');
+            });
+        }
+
+        function applyFilters() {
+            var cards = document.querySelectorAll('.card');
+            var visibleCount = 0;
+            cards.forEach(function(card) {
+                var cardStatus = card.getAttribute('data-status');
+                var cardType = card.getAttribute('data-type');
+                var matchesStatus = (currentStatusFilter === 'all') || (cardStatus === currentStatusFilter);
+                var matchesType = (currentTypeFilter === 'all') || (cardType === currentTypeFilter);
+                if (matchesStatus && matchesType) {
+                    card.classList.add('show');
+                    visibleCount++;
+                } else {
+                    card.classList.remove('show');
+                }
+            });
+            document.getElementById('empty-state').style.display = visibleCount === 0 ? 'block' : 'none';
+        }
+
+        function approveAll() {
+            if (!confirm('Approve all ' + allStories.length + ' items?')) return;
+            allStories.forEach(function(story) { setStatus(story.id, 'approved'); });
+        }
+
+        function resetAll() {
+            if (confirm('Reset all reviews? This cannot be undone.')) {
+                localStorage.removeItem(REVIEW_STORAGE_KEY + '-' + DATE);
+                location.reload();
+            }
+        }
+
+        function copyContent(storyId) {
+            var data = reviewData[storyId];
+            var story = allStories.find(function(s) { return s.id === storyId; });
+            var text = (data && data.editedContent) ? data.editedContent : (story ? story.content : '');
+            navigator.clipboard.writeText(text).then(function() {
+                var btn = document.querySelector('[data-id="' + storyId + '"] .btn-copy');
+                if (btn) { var orig = btn.textContent; btn.textContent = 'Copied!'; setTimeout(function() { btn.textContent = orig; }, 1500); }
+            });
+        }
+
+        function exportApprovals() {
+            var items = [];
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id] || {};
+                items.push({
+                    id: story.id,
+                    type: story.type,
+                    title: story.title,
+                    status: data.status || 'unreviewed',
+                    notes: data.notes || '',
+                    content: story.content,
+                    editedContent: data.editedContent || null,
+                    finalContent: data.editedContent || story.content
+                });
+            });
+
+            var exportData = {
+                date: DATE,
+                reviewed_by: '',
+                reviewed_at: new Date().toISOString(),
+                items: items
+            };
+
+            var dataStr = JSON.stringify(exportData, null, 2);
+            var dataBlob = new Blob([dataStr], { type: 'application/json' });
+            var url = URL.createObjectURL(dataBlob);
+            var link = document.createElement('a');
+            link.href = url;
+            link.download = 'approvals-' + DATE + '.json';
+            link.click();
+            URL.revokeObjectURL(url);
+        }
+
+        // Auto-save notes as you type
+        document.addEventListener('input', function(e) {
+            if (e.target.classList.contains('notes-textarea')) {
+                var storyId = e.target.id.replace('textarea-', '');
+                if (reviewData[storyId]) {
+                    reviewData[storyId].notes = e.target.value;
+                    localStorage.setItem(REVIEW_STORAGE_KEY + '-' + DATE, JSON.stringify(reviewData));
+                }
+            }
+        });
+
+        initializeApp();
+
+    </script>
+</body>
+</html>

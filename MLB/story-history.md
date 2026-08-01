@@ -5,6 +5,59 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-01
+
+### Story 1: Trade Deadline 48 Hours Out — ESPN: Skubal IS Getting Traded
+- **Date:** 2026-08-01
+- **Tier:** 1
+- **Classification:** FOLLOW UP (trade deadline tracked since July 13; new: ESPN confirms Skubal IS getting traded; deadline Sunday Aug 3 6 PM ET)
+- **Angle:** ESPN reporting Skubal IS getting traded — suitors Dodgers/Yankees/Braves/Cubs/Phillies; Tigers scratched Mize as possible package piece; Skubal 2.79 ERA 116 K 16 starts two-time AL Cy Young; Freddy Peralta (Mets) also scratched as trade talks "intensified"; Mason Miller (Padres) 0.79 ERA 28/28 saves in play; completed deals: Minter to Twins, O'Hoppe+Silseth to Rangers, Urquidy to White Sox, Pearson to Royals, Halvorsen to Dodgers, Civale to Cubs, Marinaccio to Pirates
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Post-deadline recap August 3 evening
+  - Skubal destination confirmation
+
+### Story 2: Dylan Cease — AL Cy Young Case Is Building
+- **Date:** 2026-08-01
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Cease tracked as AL Cy Young contender since July 15 All-Star pipeline)
+- **Angle:** Cease 6-4, 2.56 ERA, 148 K, 17 starts with Blue Jays in first season; led MLB with 49 K in July (6 starts); named AL All-Star Game starter — first Blue Jays pitcher to start the ASG since Roy Halladay in 2009; with Skubal heading to a new team mid-season, Cease's full-season numbers make him a strong AL Cy Young candidate
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Second-half ERA/K rate tracking
+  - AL Cy Young voting November
+
+### Story 3: Ohtani Hits HR No. 23 — Mound Return Could Come This Weekend
+- **Date:** 2026-08-01
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Ohtani tracked since July 21; new: HR No. 23 on July 31 + Roberts hints at throwing this weekend)
+- **Angle:** Ohtani hit HR No. 23 as DH on July 31 vs. Red Sox (Red Sox won); Roberts says he hopes Ohtani can "start throwing, playing catch again and building up" around Aug 1–3; has left knee soreness + biceps issue; hasn't pitched since July 3; Dodgers' Skubal pursuit directly tied to Ohtani pitching uncertainty
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Update if Ohtani begins throwing this weekend
+  - October pitching status
+
+### Story 4: Chris Sale Is Making History at Age 37
+- **Date:** 2026-08-01
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Sale tracked since July 28; new: fastest pitcher ever to reach 2,500 career K by IP milestone)
+- **Angle:** Sale (Braves) 12-6, 2.08 ERA, 143 K in 20 starts; 2.08 ERA is 3rd-lowest by pitcher 37+ since 1950 (behind Clemens 1.40 in 2005, Verlander 1.73 in 2022); fastest pitcher in MLB history to reach 2,500 career K by IP; named to 10th career All-Star Game; 1.96 ERA over last 12 starts; Atlanta must be a deadline buyer with Sale as anchor
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Year-end awards tracking
+  - Final-season ERA if pace holds
+
+### Story 5: July 31 Scoreboard — Sal Stewart Walk-Off, Ohtani HR No. 23, Ramirez Milestone
+- **Date:** 2026-08-01
+- **Tier:** 3
+- **Classification:** NEW (July 31 results)
+- **Angle:** Sal Stewart walk-off 2-run HR gave Reds 8-7 win over Pirates (Stewart 4 RBI); Red Sox over Dodgers (Ohtani HR No. 23 as DH); White Sox acquired Jose Urquidy from Pirates, sit 57-51 and 1st in AL Central; Jose Ramirez became first Guardian to homer against all 29 other MLB clubs
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - None — one-day recap
+
+---
+
 ## 2026-07-28
 
 ### Story 1: Salvador Perez Passes George Brett — Royals All-Time HR Leader
