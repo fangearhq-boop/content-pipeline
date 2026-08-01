@@ -5,6 +5,63 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-01
+
+### STORY 1: Yankees Shut Out Cubs — Game 1 Recap
+- **Angle:** NEW STORY (Will Warren W 8-5; 7 Ks, 0 BB, 12 straight retired; Rosario + Spencer Jones HRs off Imanaga in 4th/5th; Bednar 23rd save; Cubs 5 hits, 0 runs; score NOT led per has_score=False insight)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, morning recap)
+- **Follow-Up Opportunities:**
+  - Game 2 result recap (tonight/tomorrow 7:00 AM)
+  - Peterson's pitching line tonight
+  - Series split vs sweep framing
+
+### STORY 2: PCA — NL MVP Case Is Impossible to Ignore
+- **Angle:** FOLLOW UP (last covered July 31; today: .290/.932 OPS, 23 HR, 26 SB, 6.3 WAR leads all baseball, +20 FRV No. 1 in baseball; Ohtani knee limiting two-way value opens MVP door)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold take)
+- **Follow-Up Opportunities:**
+  - PCA milestones (25 HR, 30 SB pace)
+  - NL MVP odds movement
+  - Monthly awards (August NL Player of Month?)
+
+### STORY 3: Trade Deadline — 48 Hours, Skubal Deal Looming
+- **Angle:** FOLLOW UP (last covered July 31; today: deal appears imminent — Tigers scratched Mize on Friday; Cubs + Dodgers fighting hardest; 48h to Aug 3 deadline)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, trade analysis)
+- **Follow-Up Opportunities:**
+  - Any Cubs trade acquisition Aug 1-3
+  - Deadline day coverage (Aug 3)
+  - If Skubal acquired: rotation impact
+
+### STORY 4: Palencia Nears Return; Jacob Webb Holding the 9th
+- **Angle:** FOLLOW UP (Palencia IL referenced in prior stories; today: "great" bullpen session Saturday, rehab assignment targeted week of Aug 3; Webb 2.64 ERA as interim closer)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, roster/injury update)
+- **Follow-Up Opportunities:**
+  - Palencia rehab assignment start
+  - Palencia's return to Cubs roster
+  - Webb's ERA tracking
+
+### STORY 5: Game 2 Preview — Peterson vs Fried, 6:15 PM CT
+- **Angle:** NEW STORY (David Peterson LHP vs Max Fried LHP 3.23 ERA 1.02 WHIP; series finale at Wrigley; Yankees won Game 1; Cubs need win to split)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Peterson's actual pitching line tonight
+  - Fried's performance
+  - Series result
+
+### STORY 6: Wild Card Stakes — August Starts Now
+- **Angle:** NEW STORY (Cubs 62-48, No. 1 NL Wild Card; 5 games ahead of D-backs/Phillies 57-52; Brewers leading NL Central; stretch-run framing)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, standings context)
+- **Follow-Up Opportunities:**
+  - Wild card gap tracking weekly through August
+  - Any D-backs or Phillies collapse/surge
+
+---
+
 ## 2026-07-31
 
 ### STORY 1: Cubs-Yankees Series Preview

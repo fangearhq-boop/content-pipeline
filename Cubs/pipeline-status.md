@@ -1,3 +1,48 @@
+# Cubs Pipeline Status — Updated 2026-08-01
+
+## Latest Run
+- **Date:** 2026-08-01 (Saturday)
+- **Run time:** ~09:00 UTC
+- **Stories:** 6
+- **X posts:** 6
+- **Platforms:** X/Twitter only
+- **Status:** ✅ Complete
+
+## Insights Summary (2026-08-01)
+- **Snapshot generated:** 2026-08-01T08:30:00 UTC
+- **Measured tweets:** 119
+- **Significant findings (1):**
+  - `has_score=False` beats `has_score=True` — small effect (δ=0.31, p=0.0036)
+  - Winner median impressions: 50.0 (n=34) vs loser: 26.0 (n=24)
+  - **Applied:** Story 1 (Yankees shutout recap) does NOT include the score "2-0"; leads with Warren's command and the narrative instead
+- No other findings cleared significance gates; `significant_findings_note` was null
+
+## Series Context (2026-08-01)
+- `is_series_start_today`: false (mid-series, same Yankees opponent as yesterday)
+- `off_day`: false
+- Game 2 (finale): Cubs (62-48) vs. New York Yankees at Wrigley Field; 6:15 PM CT
+- **No dedicated series-preview slot** — 7:00 AM reserved for Game 1 recap per posting priority
+
+## Today's Content
+| Slot | Story | Tier |
+|------|-------|------|
+| 7:00 AM CT | Yankees shutout recap — Warren's command, Imanaga roughed up | 1 |
+| 8:15 AM CT | PCA NL MVP case — 6.3 WAR leads baseball, Ohtani knee angle | 2 |
+| 9:30 AM CT | Trade deadline — 48h, Skubal deal imminent (Tigers scratched Mize) | 1 |
+| 10:45 AM CT | Palencia nears return; Jacob Webb 2.64 ERA as interim closer | 2 |
+| 12:00 PM CT | Game 2 preview: David Peterson vs Max Fried, 6:15 PM CT | 1 |
+| 5:00 PM CT | Wild Card stakes — 62-48, No. 1 WC, 5 games ahead | 3 |
+
+## Dashboard
+- Review dashboard: Cubs/cubs-content-2026-08-01/review-dashboard.html ✅
+- Content data JSON: Cubs/cubs-content-2026-08-01/07-content-data.json ✅ (6 stories, 6 x_posts)
+- Unified dashboard push: content-dashboards repo push failed (separate repo auth issue — known, non-blocking)
+
+## Issues
+- content-dashboards publish push failed (recurring PAT auth issue — separate repo; core deliverable 07-content-data.json committed for cubs-x-bot ✅)
+
+---
+
 # Cubs Pipeline Status — Updated 2026-07-31
 
 ## Latest Run

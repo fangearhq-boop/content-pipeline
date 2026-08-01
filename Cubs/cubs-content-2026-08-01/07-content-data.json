@@ -1,0 +1,241 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-01",
+  "compiled_at": "2026-08-01T09:20:48.820817+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM CT",
+      "description": "Story 1 — Game 1 Recap (Yankees shutout)",
+      "type": "Informative"
+    },
+    {
+      "time": "8:15 AM CT",
+      "description": "Story 2 — PCA NL MVP Case",
+      "type": "Bold/Passionate"
+    },
+    {
+      "time": "9:30 AM CT",
+      "description": "Story 3 — Trade Deadline, Skubal Imminent",
+      "type": "Informative/Bold"
+    },
+    {
+      "time": "10:45 AM CT",
+      "description": "Story 4 — Palencia/Webb Closer Update",
+      "type": "Informative"
+    },
+    {
+      "time": "12:00 PM CT",
+      "description": "Story 5 — Game 2 Preview: Peterson vs Fried",
+      "type": "Bold/Hype"
+    },
+    {
+      "time": "5:00 PM CT",
+      "description": "Story 6 — Wild Card Stakes",
+      "type": "Bold/Analytical"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Yankees Shut Out Cubs — Game 1 Recap",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Will Warren (8-5) pitched into the 7th with 7 Ks, zero walks, 12 straight retired. Spencer Jones (rookie) and Amed Rosario each hit solo HRs off Imanaga in the 4th and 5th. David Bednar's 23rd save. Cubs stranded 5 hits and couldn't score. Story is Warren's command and the silent bats — NOT the score (has_score=False insight applied).",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Will Warren was simply excellent Friday night at Wrigley.\n\nSeven Ks, zero walks, 12 straight retired. Jones and Rosario each took Imanaga deep. Cubs stranded five hits and couldn't push one across.\n\nPeterson answers at 6:15 PM CT.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Game recap / informative (forward-looking)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Yankees Shut Out Cubs in Game 1\n**Decision:** NEW STORY — first Game 1 recap coverage (series preview was yesterday's Tier 1)\n**Key Facts:**\n- Final: Yankees 2, Cubs 0 — 5-hit shutout at Wrigley Field [HIGH confidence — ESPN/MLB.com/CBS Sports cross-confirmed]\n- Will Warren: W (8-5), pitched into 7th inning, 7 strikeouts, 0 walks, 12 straight batters retired [HIGH — ESPN recap, CBS Sports box score]\n- Amed Rosario: solo HR, 4th inning, off Imanaga [HIGH — ESPN/MLB.com]\n- Spencer Jones: solo HR (rookie), 5th inning, off Imanaga [HIGH — ESPN/MLB.com]\n- Paul Blackburn (NYY): relieved Warren in 7th, escaped with runners on [MEDIUM — ESPN recap]\n- David Bednar: 23rd save; worked around a single in the 9th [HIGH — ESPN recap]\n- Cubs had 5 hits, 0 runs [HIGH — box score cross-confirmed ESPN/CBS]\n- Shota Imanaga: took the loss; 2 HRs surrendered [HIGH — ESPN recap]\n**Sources (all published July 31, 2026):**\n- ESPN: https://www.espn.com/mlb/recap?gameId=401816339\n- MLB.com: https://www.mlb.com/gameday/824651/final/summary/all\n- Cubs Insider: https://www.cubsinsider.com/2026/07/31/chicago-cubs-score-and-recap-7-31-26-yankees-2-cubs-0-yanks-pitch-shutout-at-wrigley/\n**Freshness:** July 31, 2026 — 24 hours ago, qualifies\n**Why it matters:** Overnight result is the first story fans check Saturday morning. The shutout stings after the July 31 preview hype. Sets up Game 2 stakes.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "PCA — NL MVP Case Is Impossible to Ignore",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "PCA at .290, 23 HR, 26 SB, .932 OPS, 6.3 WAR (leads all baseball, FanGraphs). +20 Fielding Run Value is No. 1 in baseball. With Ohtani's knee limiting his two-way value, Chicago analysts are making the WAR argument loudly. Last covered July 31 — updated stats and Ohtani angle are fresh.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "6.3 WAR. Leads all of baseball.\n\nPete Crow-Armstrong is hitting .290 with 23 HRs, 26 SBs, and a +20 Fielding Run Value that's No. 1 in baseball — and Ohtani's knee just opened the MVP door.\n\nMVPete. The case is airtight. 🏆\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold take / passionate",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "PCA — NL MVP Case\n**Decision:** FOLLOW UP — last covered July 31 (PCA Season Spotlight, 7 days after July 24 historic feat coverage)\n**Key Facts:**\n- Current stats: .290 BA, 23 HR, 60 RBI, .932 OPS, 26 SB [MEDIUM — WebFetch summary from Yahoo Sports/CubsHQ; cross-check: earlier coverage in story history put him at .285/.382/.541 OPS .924 on July 31, so .290/.932 OPS is consistent progression]\n- WAR: 6.3 — leads all of baseball (FanGraphs) [HIGH — confirmed in multiple sources]\n- Defense: +20 Fielding Run Value, tops in baseball [MEDIUM — Yahoo Sports summary]\n- Age: 24 [to be verified against Baseball Reference — do not trust WebFetch]\n- NL MVP odds: Ohtani -430, PCA +350 (FanDuel) [MEDIUM — Yahoo Sports/CubsHQ]\n- Ohtani's knee injury is derailing his pitching value, creating an opening [MEDIUM — Yahoo Sports]\n- Chicago analysts arguing PCA's WAR is now above Ohtani's [MEDIUM — Yahoo Sports summary]\n**Note on age:** Will not state PCA's age in tweet without second-source verification. Baseball Reference confirms he was born October 26, 2001; as of August 1, 2026, he is 24 years old. [HIGH after this verification]\n**Sources:**\n- Yahoo Sports: https://sports.yahoo.com/articles/cubs-star-pete-crow-armstrongs-145516641.html (published within last 24h per search)\n- CubsHQ: https://www.cubshq.com/cubs-baseball/story/pete-crow-armstrong-is-making-a-strong-case-for-nl-mvp-25349\n- MLB.com: https://www.mlb.com/news/pete-crow-armstrong-2026-mvp-case\n**Freshness:** Multiple articles published within last 24h\n**Why it matters:** PCA is the Cubs' biggest star and the best performance argument for the team's playoff push. The MVP race angle generates fan engagement.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Trade Deadline — 48 Hours, Skubal Deal Looming",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "August 3 deadline, 6 PM ET. Tigers have decided to deal Skubal (2x Cy Young). Detroit scratched Casey Mize on Friday — trade signal. Cubs and Dodgers fighting hardest. Cost will be high. Last covered July 31 as top target; today's angle = deal appears imminent.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Forty-eight hours until the deadline.\n\nTarik Skubal — two-time Cy Young winner — is being dealt. Detroit scratched Casey Mize on Friday. The Cubs and Dodgers are fighting hardest for him.\n\nJed Hoyer's window is now. 🔑\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Trade analysis / bold",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Trade Deadline — Skubal Looming\n**Decision:** FOLLOW UP — last covered July 31 with \"Skubal as top target\"; today's angle is deal appears imminent (Tigers scratched Mize, sources say deal \"could come soon\")\n**Key Facts:**\n- Deadline: Monday August 3, 6 PM ET — 48 hours away [HIGH — ESPN, Yahoo Sports]\n- Tarik Skubal: Tigers LHP, 2x reigning AL Cy Young winner, UFA after 2026 [HIGH — ESPN/MLB.com]\n- Tigers have decided to deal Skubal; \"deal could come soon\" (ESPN's Passan) [MEDIUM — WebFetch of ESPN]\n- Tigers scratched Casey Mize from Friday's start — widely read as clearing path for deal [MEDIUM — Yahoo Sports deadline tracker]\n- Cubs and Dodgers are fighting hardest for Skubal [MEDIUM — Heavy.com, ESPN]\n- Challenge: prospect package required; Dodgers/Brewers have deeper systems [MEDIUM]\n- Alternate targets: Freddy Peralta (Mets), Clay Holmes (Mets), Kevin Gausman (TOR), Robbie Ray (SF) [MEDIUM — ESPN, Yahoo Sports]\n**Sources:**\n- Yahoo Sports deadline tracker: https://sports.yahoo.com/mlb/live/2026-mlb-trade-deadline-rumors-news-live-updates-tarik-skubal... (published July 31–Aug 1)\n- ESPN: https://www.espn.com/mlb/story/_/id/49410877/2026-mlb-trade-deadline-tracker...\n- Heavy.com: https://heavy.com/sports/mlb/toronto-blue-jays/mlb-trade-rumors-tarik-skubal-cubs-dodgers...\n**Note on compound claim:** \"Cubs and Dodgers fighting hardest\" — this is a MEDIUM-confidence claim from multiple sources (ESPN + Heavy.com). Not a single-source superlative. Will NOT frame as an absolute (\"Cubs WILL get Skubal\") since deal is speculative.\n**Freshness:** Articles from July 31 and August 1 — within 24h window",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Palencia Nears Return; Jacob Webb Holding the 9th",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Palencia (elbow IL) had a \"great\" bullpen session Saturday per Counsell; on track for rehab assignment week of August 3. Jacob Webb serving as interim closer at 2.64 ERA. Webb's new breaking ball has even softened the Cubs' deadline urgency for a bullpen arm.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Two pieces of good news for the Cubs' bullpen Saturday.\n\nDaniel Palencia's bullpen session was \"great\" (Craig Counsell's words) and he's on track for a rehab start next week. And Jacob Webb is holding down the 9th at 2.64 ERA.\n\nThe pen is fine. 🔒\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Roster/injury update / informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Palencia/Webb Closer Update\n**Decision:** FOLLOW UP — Palencia on IL referenced in story history; today's hook = Palencia had \"great\" bullpen Saturday + Webb's ERA as interim\n**Key Facts:**\n- Palencia on IL: right elbow inflammation / flexor strain; on IL since mid-June [HIGH — ESPN/MLB.com]\n- Counsell said Palencia had a \"great\" bullpen session Saturday (August 1) [MEDIUM — Roto Baller, Athlon Sports]\n- Timeline: rehab assignment targeted for week of August 3 [MEDIUM — Roto Baller]\n- Jacob Webb: interim closer role; 2.64 ERA [MEDIUM — North Side Baseball; one source says \"2.64 ERA in August 2026\"]\n- Webb signed 1-year deal (~$1.5M), developed new breaking ball [MEDIUM — North Side Baseball]\n- BN article: Webb's form has softened Cubs' bullpen-trade urgency at deadline [MEDIUM]\n- Hollowell: already on 15-day IL (right shoulder; referenced July 31 story history)\n**Sources:**\n- ESPN: https://www.espn.com/mlb/story/_/id/49498209/cubs-rhp-hollowell-il-closer-palencia-nears-return\n- Roto Baller (published within 24h per search): https://www.rotoballer.com/player-news/daniel-palencia-throws-successful-bullpen-on-saturday...\n- North Side Baseball: https://northsidebaseball.com/news-rumors/chicago-cubs/cubs-trade-deadline-jacob-webb-relief-pitching-trade-candidates/\n**Note:** Webb's ERA of 2.64 is from one source and listed as \"August 2026.\" Treating as MEDIUM confidence. Will not use more specific stats (e.g., saves count) without a second source.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Game 2 Preview — Peterson vs Fried, 6:15 PM CT",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "David Peterson (LHP) vs Max Fried (LHP, 3.23 ERA, 1.02 WHIP). Yankees won Game 1. Peterson must deliver in the finale. Fried is a legit ace (19-5 in 2025). Cubs need to earn the split at Wrigley.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "David Peterson vs Max Fried. Wrigley Field. 6:15 PM CT.\n\nFried is legit — 3.23 ERA, 1.02 WHIP in 2026. The Cubs need Peterson to match him and give the lineup a chance.\n\nWin the series. Fill Wrigley. Go get it. ⚾\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Game preview / bold hype",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Game 2 Preview — Peterson vs Fried\n**Decision:** NEW STORY — series finale preview\n**Key Facts:**\n- Game time: 6:15 PM CT at Wrigley Field [HIGH — series-context.json + search results]\n- Cubs starter: David Peterson (LHP) [HIGH — MLB.com video, Baseball-Reference preview]\n- Yankees starter: Max Fried (LHP) [HIGH — MLB.com video, Pinstripe Alley, Baseball-Reference]\n- Fried's 2026 stats: 4-3 record, 3.23 ERA, 1.02 WHIP, 69.2 IP, 61 K [MEDIUM — FTA stats, Yahoo Sports; cross-confirmed across 2 sources]\n- Fried's 2025: 19-5, 2.86 ERA — established as a top-tier starter [HIGH — CBS Sports]\n- Series tied at… wait: Yankees won Game 1. This is the finale. Yankees lead the mini-series 1-0. [HIGH — confirmed]\n- Cubs record: 62-48 [HIGH]\n- David Peterson: LHP, acquired by Cubs mid-season (opened series vs Cardinals per July 27 story history); prior history with Mets\n**Sources:**\n- Baseball-Reference preview: https://www.baseball-reference.com/previews/2026/CHN202608010.shtml\n- MLB.com: https://www.mlb.com/yankees/video/max-fried-against-the-cubs-x2193\n- FTA: https://fantasyteamadvice.com/mlb/players/2403/max-fried/stats",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Wild Card Stakes — August Starts Now",
+      "tier": 3,
+      "status": "NEW STORY",
+      "angle": "Cubs at 62-48, No. 1 NL Wild Card, five games ahead of D-backs and Phillies (57-52). Brewers running away with the NL Central. August is when separation happens. Don't give away home series.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "August starts today. The Cubs are 62-48 and sitting on the No. 1 NL Wild Card — five games ahead of the D-backs and Phillies.\n\nThat cushion is real. It's also not safe enough to give away home series.\n\nProtect the seed. 🏟️\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Bold/analytical — standings context",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Wild Card Stakes\n**Decision:** NEW STORY — season standings context for August 1\n**Key Facts:**\n- Cubs: 62-48, No. 1 NL Wild Card [HIGH — MLB.com standings confirmed]\n- 5 games ahead of D-backs (57-52) and Phillies (57-52) for No. 1 Wild Card [HIGH]\n- NL Central: Brewers lead; Cubs 2nd, 6.5 GB [MEDIUM — search summary from ESPN/Baseball-Reference]\n- August is the stretch run — every game matters [seasonal calendar context]\n- Two straight losses to Yankees would be the Cubs' second loss in a row [MEDIUM — inferred from Game 1 loss; check streak]\n- Note: Cubs went 12-3 in 15 games before the July 31 loss (from July 31 story history)\n**Sources:**\n- MLB.com: https://www.mlb.com/cubs/standings/wild-card\n- ESPN: https://www.espn.com/mlb/standings/_/view/wild-card",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
