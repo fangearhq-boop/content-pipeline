@@ -1,0 +1,257 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-01",
+  "compiled_at": "2026-08-01T11:27:20.927911+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Verstappen Exit Clause Fully Active — October Decision Coming",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Max Verstappen's Red Bull exit clause is now fully active. He's 7th in the championship — well outside the top 2 needed to lock him in. Red Bull tried to buy out the clause in June. Verstappen said no. October is coming. #F1Fanrecap #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1"
+          ],
+          "char_count": 236
+        },
+        {
+          "label": "Post 1-2",
+          "text": "If Verstappen triggers his Red Bull exit clause in October, where does he go? McLaren denies it. Mercedes door is closed (Russell extended). Which team wins the bidding war for a 4x world champion? #F1Fanrecap #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1"
+          ],
+          "char_count": 213
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-verstappen-exit-clause-october-decision.html",
+        "headline": "Verstappen's Red Bull Exit Clause Is Now Active — And October Is the Deadline",
+        "word_count": 580
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Exit Clause\n\n**Image Concept 1A — Social (1080x1350):**\n- Search term: \"Max Verstappen Red Bull\"\n- Credit: (USA TODAY Sports Images)\n- Use: Social post — Verstappen in Red Bull gear, portrait or cockpit shot\n- Status: not_started\n\n**Image Concept 1B — Article Hero (1200x630):**\n- Search term: \"Max Verstappen\"\n- Credit: (USA TODAY Sports Images)\n- Use: Article featured image\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen Exit Clause\n**Verified Facts (HIGH confidence):**\n- Verstappen's Red Bull contract runs through 2028 and contains performance-based exit clauses (ESPN, GPFans, RacingNews365 confirmed)\n- Exit clause threshold: must finish outside top 2 in championship by summer break in August (Crash.net, ESPN)\n- Verstappen is 7th in the championship after 11 rounds — well outside top 2; clause fully active (F1-fansite.com, GridGuy.racing)\n- Verstappen's manager Raymond Vermeulen publicly admitted the exit clause is active for the first time (TheJudge13, July 16)\n- Red Bull attempted to buy out the exit clause in June 2026 — Verstappen REFUSED (SportBible, July 7)\n- October deadline to trigger the exit clause (multiple confirmed sources)\n- McLaren speculation: Zak Brown denied wanting to change line-up but said Verstappen would be good \"should one of my drivers slip on a banana peel\" (ESPN)\n- Verstappen refused to commit to staying at Red Bull past 2026 (ESPN, TSN)\n- Toto Wolff took up George Russell's option year (door to Mercedes closed)\n- F1 Championship standings after 11 rounds (Hungary): Antonelli 219pts / Hamilton 169pts (+50 gap) / Russell 160pts; 291 points remaining; Norris won Hungary\n**MEDIUM confidence:**\n- McLaren in \"closing stages\" of Verstappen talks per SportBible (July 7) — denied by McLaren sources to ESPN",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Aston Martin Honda Boost — 30bhp Upgrade Targets Zandvoort",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Aston Martin and Honda ran a filming day at Zandvoort this week previewing a power unit upgrade worth up to 30bhp at the Dutch GP. B-spec worked in Hungary. Honda boost next. Alonso's car is getting better right when he has to decide if he's coming back. #F1Fanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-aston-martin-honda-30bhp-zandvoort.html",
+        "headline": "Aston Martin and Honda Target Dutch GP With Up to 30bhp Upgrade — Second-Half Revival Under Way",
+        "word_count": 568
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Aston Martin / Honda Upgrade\n\n**Image Concept 2A — Social (1080x1350):**\n- Search term: \"Fernando Alonso Aston Martin\"\n- Credit: (Imagn Images)\n- Use: Social post — Alonso in AMR26 or pit lane\n- Status: not_started\n\n**Image Concept 2B — Article Hero (1200x630):**\n- Search term: \"Aston Martin F1\"\n- Credit: (Imagn Images)\n- Use: Article featured image\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Aston Martin / Honda Upgrade\n**Verified Facts (HIGH confidence):**\n- Aston Martin debuted AMR26 B-spec at Hungarian GP: 16-part chassis upgrade package (The Race, Autosport, Motorsport Week confirmed)\n- Alonso qualified into Q2 at Hungary for first time all 2026 season (multiple sources)\n- Honda conducting filming day at Zandvoort ahead of Dutch GP to debut upgraded PU (Autosport, July 29)\n- Honda's upgraded power unit estimated at up to 30bhp gain (GPFans, Autosport — single reporting, medium-high confidence)\n- Honda PU upgrade debuting at Dutch GP, Round 12 (Autosport confirmed)\n- Further chassis updates planned at Zandvoort, Monza, and Baku (Autosport, GPFans)\n- Alonso's contract expires end of 2026; retirement decision expected after summer break (GPFans, Autosport confirmed)\n- Aston Martin had 1 point entering Hungary (Alonso's Monaco result); Cadillac outpacing them in first season (F1ingenerale)\n**MEDIUM confidence:**\n- Exact bhp figure (30bhp) from single source — power unit estimates are inherently uncertain",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Dutch GP Preview — Last Race at Zandvoort Ever, Sprint Debut",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Three weeks until the last-ever F1 race at Zandvoort. August 21-23. First-ever Sprint weekend at the circuit. Round 12 of 22. After the summer break, the championship fight resumes where it left off — Antonelli 50 points clear. #F1Fanrecap #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-dutch-gp-preview-zandvoort-farewell.html",
+        "headline": "Dutch GP Preview: F1 Says Goodbye to Zandvoort With Its First-Ever Sprint Weekend",
+        "word_count": 583
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Dutch GP Preview\n\n**Image Concept 3A — Social (1080x1350):**\n- Search term: \"Dutch Grand Prix Zandvoort Formula 1\"\n- Credit: (USA TODAY Sports Images)\n- Use: Social post — circuit or crowd imagery\n- Status: not_started\n\n**Image Concept 3B — Article Hero (1200x630):**\n- Search term: \"Zandvoort F1\"\n- Credit: (USA TODAY Sports Images)\n- Use: Article featured image\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Dutch GP Preview\n**Verified Facts (HIGH confidence):**\n- Dutch Grand Prix: August 21-23, Circuit Zandvoort, Round 12 of 22 (RacingNews365, Autosport confirmed)\n- Last-ever Formula 1 race at Circuit Zandvoort — six-year chapter ends (multiple confirmed sources)\n- First-ever Sprint weekend at Zandvoort: Sprint Qualifying Friday, Sprint Race Saturday morning, GP Qualifying Saturday afternoon, Main Race Sunday (WorldOfSpeed, ScuderiaFans confirmed)\n- Main race: Sunday August 23, 15:00 CET (09:00 ET) — 72 laps, 306.587km\n- Race returns F1 to action after summer break (Flashscore confirmed)\n**MEDIUM confidence:**\n- Circuit being renamed/rebranded (MASCOT Circuit Zandvoort) — confirmed by event website",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "F1 Calendar Crisis — September Deadline on Qatar and Abu Dhabi",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Bahrain. Saudi Arabia. Gone. Now Qatar and Abu Dhabi face the same threat. Domenicali set a mid-September deadline. If the Middle East races fall, F1 ends in Europe — Imola is the leading contingency. The 2026 calendar is still being written. #F1Fanrecap #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-f1-calendar-crisis-qatar-abu-dhabi.html",
+        "headline": "F1 Calendar Crisis: Qatar and Abu Dhabi Face September Deadline as Middle East Conflict Threatens Season End",
+        "word_count": 542
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "F1 Calendar Crisis\n\n**Image Concept 4A — Social (1080x1350):**\n- Search term: \"Stefano Domenicali Formula 1\"\n- Credit: (Imagn Images)\n- Use: Social post\n- Status: not_started\n\n**Image Concept 4B — Article Hero (1200x630):**\n- Search term: \"Formula 1 2026\"\n- Credit: (Imagn Images)\n- Use: Article featured image\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "F1 Calendar Crisis\n**Verified Facts (HIGH confidence):**\n- Bahrain Grand Prix (originally March) cancelled due to Iran-US/Israel conflict in Middle East (multiple sources confirmed)\n- Saudi Arabian Grand Prix (originally March) cancelled for same reason\n- Qatar GP (Nov 27-29) and Abu Dhabi GP (Dec 4-6) at significant risk (RacingNews365, Sky Sports, Sportbible confirmed)\n- Domenicali confirmed \"mid-September\" deadline to make Qatar/Abu Dhabi decision (AOL, Sunday Guardian confirmed)\n- Contingency plan confirmed by F1: season will end in Europe if Middle East races cancelled (Sky Sports confirmed)\n- Imola is among circuits being considered as replacement (TheJudge13, F1 CEO confirmed)\n**MEDIUM confidence:**\n- One source (SportscapeMagazine) reports Qatar + Abu Dhabi already cancelled, Las Vegas = season finale — not confirmed by multiple major outlets",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Alonso's Moment of Truth — Retirement Decision Expected After Summer Break",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Fernando Alonso promised to decide his F1 future after the summer break. He turns 45. His Aston Martin is getting better — finally. But a Spanish insider says he's already made his call. Ted Kravitz says it's retirement. Summer break ends soon. #F1Fanrecap #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-alonso-retirement-decision-summer-break.html",
+        "headline": "Fernando Alonso's Last Call: Retirement Decision Expected After Summer Break as His Car Finally Improves",
+        "word_count": 614
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alonso Retirement Decision\n\n**Image Concept 5A — Social (1080x1350):**\n- Search term: \"Fernando Alonso\"\n- Credit: (USA TODAY Sports Images)\n- Use: Social post — portrait or helmet shot of Alonso\n- Status: not_started\n\n**Image Concept 5B — Article Hero (1200x630):**\n- Search term: \"Fernando Alonso Aston Martin\"\n- Credit: (USA TODAY Sports Images)\n- Use: Article featured image\n- Status: not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Alonso Retirement Decision\n**Verified Facts (HIGH confidence):**\n- Fernando Alonso's Aston Martin contract expires end of 2026 (GPFans, Autosport confirmed)\n- Alonso turned 45 in summer 2026 (confirmed)\n- Alonso stated he will decide after the summer break (GPFans, Autosport, F1ingenerale confirmed)\n- Aston Martin had accumulated 1 point through 11 rounds (Monaco — Alonso) before Hungary (F1ingenerale confirmed)\n- Cadillac outpaced Aston Martin in their maiden F1 season (F1ingenerale)\n- B-spec AMR26 delivered first Q2 for Alonso in Hungary (confirmed above)\n- Sky Sports Ted Kravitz predicted Alonso will retire (GPFans, Sky Sports confirmed)\n- Spanish insider reports Alonso has already made his decision (GPFans confirmed)\n- Alonso said \"Spa and Silverstone isn't the dream\" — hinting at frustration with current performance levels (Yahoo Sports)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

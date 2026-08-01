@@ -4758,3 +4758,44 @@
 - **Key facts:** Alonso final year at Aston Martin; decision continue/retire expected in summer break; Aston Martin 0 points in 2026 (despite Newey + Honda); 17 drivers out of contract for 2027; confirmed deals: Norris (McLaren 2027+), Piastri (2028), Leclerc (Ferrari June 2026, 2028+), Hamilton (Ferrari 2027+), Russell (Mercedes 2027+)
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Alonso announcement; grid picture post-summer break
+
+| 2026-08-01 | T1 | Verstappen Exit Clause Fully Active — October Decision Coming | X, FB, Article | FOLLOW UP |
+| 2026-08-01 | T2 | Aston Martin Honda Boost — 30bhp Upgrade Targets Zandvoort | X, FB, Article | FOLLOW UP |
+| 2026-08-01 | T2 | Dutch GP Preview — Last Race at Zandvoort Ever, Sprint Debut | X, FB, Article | FOLLOW UP |
+| 2026-08-01 | T2 | F1 Calendar Crisis — September Deadline on Qatar and Abu Dhabi | X, FB, Article | FOLLOW UP |
+| 2026-08-01 | T2 | Alonso's Moment of Truth — Retirement Decision Expected After Summer Break | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Verstappen Exit Clause Fully Active — October Decision Coming
+- **Tier:** 1
+- **Category:** F1 Driver Market / Max Verstappen / Red Bull
+- **Key facts:** Exit clause threshold was outside top 2 by summer break; Verstappen 7th — clause FULLY ACTIVE; manager Vermeulen admitted clause is active (TheJudge13, July 16); Red Bull tried to buy out clause in June — Verstappen REFUSED; October deadline to trigger clause; McLaren most-linked destination; Zak Brown denied but said Verstappen would be good "if one of my drivers slips on a banana peel"; Mercedes door closed (Russell extended through 2027); championship: Antonelli 219pts / Hamilton 169 / Russell 160; 291pts remaining
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** October trigger decision; official confirmation of any McLaren deal; Red Bull's contingency driver plan
+
+### STORY 2: Aston Martin Honda Boost
+- **Tier:** 2
+- **Category:** F1 Technical / Aston Martin / Honda
+- **Key facts:** B-spec AMR26 debuted Hungary — 16 modifications; Alonso Q2 first time all season; Honda filming day at Zandvoort July 29-30; Honda PU upgrade estimated up to 30bhp; debuts at Dutch GP Round 12; further chassis updates at Zandvoort/Monza/Baku; Alonso decision expected post-summer break
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Dutch GP performance with Honda upgrade; Alonso retirement announcement; Aston Martin midfield fight in second half
+
+### STORY 3: Dutch GP Preview
+- **Tier:** 2
+- **Category:** F1 Race Preview / Dutch Grand Prix
+- **Key facts:** Aug 21-23, MASCOT Circuit Zandvoort, Round 12 of 22; last-ever F1 race at Zandvoort; first Sprint weekend at Zandvoort; 72 laps, 306.587km; race 09:00 ET Sunday Aug 23; Sprint Qualifying Fri / Sprint Sat morning / GP Qualifying Sat afternoon; Antonelli 50pts clear of Hamilton at start of second half
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Qualifying result; Sprint result; Verstappen in Dutch crowd with exit clause active; race result and championship impact
+
+### STORY 4: F1 Calendar Crisis
+- **Tier:** 2
+- **Category:** F1 Calendar / Season End
+- **Key facts:** Bahrain + Saudi cancelled March 2026 (Iran-US/Israel conflict); Qatar (Nov 27-29) and Abu Dhabi (Dec 4-6) at risk; mid-September Domenicali deadline for decision; contingency confirmed: season ends in Europe; Imola leading candidate; one report says already cancelled + Las Vegas = finale (unconfirmed by majors)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** September official decision; which circuit hosts the finale; impact on championship chase
+
+### STORY 5: Alonso Retirement Decision
+- **Tier:** 2
+- **Category:** F1 Driver News / Fernando Alonso / Aston Martin
+- **Key facts:** Alonso turned 45 summer 2026; Aston Martin contract expires end 2026; promised post-summer break decision; 1 point from 11 races (Monaco only) before Hungary; B-spec gave first Q2 of season in Hungary; Ted Kravitz (Sky Sports) predicts retirement; Spanish insider says decision already made; "Spa and Silverstone isn't the dream" quote; Honda boost at Zandvoort could change calculus
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Retirement announcement (expected imminently); Aston Martin replacement driver announcement; Alonso's final race(s) of career

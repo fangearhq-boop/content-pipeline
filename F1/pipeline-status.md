@@ -1,10 +1,23 @@
 # F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
-- **Date**: 2026-07-30
+- **Date**: 2026-08-01
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-08-01
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (1 Tier 1, 4 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss)
+- **PostPlanner exports:** f1fr-postplanner-2026-08-01.xlsx (6 posts) + f1fr-postplanner-tobi-2026-08-01.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-08-01/review-dashboard.html (21 items)
+- **Notes:** VERSTAPPEN EXIT CLAUSE ACTIVE — 7th in championship (clause triggers outside top 2); manager confirmed; Red Bull tried to buy out in June, Verstappen refused; October deadline; McLaren speculation; Brown "banana peel" quote; Mercedes door closed (Russell extended); ASTON MARTIN HONDA BOOST — B-spec worked in Hungary; Honda PU filming day at Zandvoort (up to 30bhp); further upgrades at Zandvoort/Monza/Baku; DUTCH GP FAREWELL — Aug 21-23 last F1 race at Zandvoort; first Sprint format there; Round 12 of 22; Antonelli 50pts clear; F1 CALENDAR CRISIS — mid-September deadline for Qatar/Abu Dhabi; season could end in Europe; Imola contingency; ALONSO DECISION — retirement announcement expected post-summer break; Ted Kravitz predicts retirement; Spanish insider says decided; B-spec may have changed calculus
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+
 
 ### 2026-07-30
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
