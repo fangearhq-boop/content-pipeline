@@ -1,10 +1,21 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
-- **Date**: 2026-07-30
-- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+- **Date**: 2026-08-01
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish skipped — credentials not set; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-08-01
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish skipped — WP credentials not in environment)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway)
+- **PostPlanner exports:** gfr-postplanner-2026-08-01.xlsx (7 posts) + gfr-postplanner-tobi-2026-08-01.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-08-01/review-dashboard.html (22 items)
+- **Notes:** AIG WOMEN'S OPEN R3 — Ryu -7 leads Kuwaki -6 at Royal Lytham; Noh + Thitikul T3 -5; Korda ~5 back; Ryu won KPMG + Evian; Korda won Chevron + US Women's Open; winner = 3 majors in 2026 = Inbee Park 2013 record; final round Sunday Aug 2; ROCKET CLASSIC R3 — Young/Cantlay/Fishburn co-lead at -10; Young shot R2 61 (+68 spots, 6 consecutive birdies); Fowler/Wallace -9; final-ever Rocket Classic (Rocket Companies exiting); Detroit Golf Club par 70 restored; 500 FedExCup pts; LIV BEDMINSTER — Aug 6-9 at Trump National; 13 major champions, 23 combined majors; O'Neil won't guarantee; 2 events already cancelled (New Orleans + Michigan); PIF exiting end 2026; FEDEXCUP BUBBLE — Koivun at exactly No. 70 after 3M Open win; Koepka/Finau/Bradley outside top 70; Rocket Classic + Wyndham remain; SCHEFFLER 2026 — 1 win (American Express), 5 runner-ups, 0 majors in 4 starts; missed cut Scottish Open; skipped Rocket Classic; FedExCup No. 1; playoffs Aug 13
+- **WordPress:** Skipped — WP_FANRUMOR_USERNAME and WP_FANRUMOR_APP_PASSWORD not set in environment
 
 ### 2026-07-30
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

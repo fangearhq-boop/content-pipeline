@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-08-01
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-08-01 | T1 | AIG Women's Open R3 — Ryu Leads at -7, History Within Reach at Royal Lytham | X, FB, Article | FOLLOW UP |
+| 2026-08-01 | T1 | Rocket Classic R3 — Young and Cantlay Share Lead at Final-Ever Event in Detroit | X, FB, Article | FOLLOW UP |
+| 2026-08-01 | T2 | LIV Bedminster One Week Away — CEO Still Won't Guarantee It Happens | X, FB, Article | FOLLOW UP |
+| 2026-08-01 | T2 | FedExCup Bubble — Koivun at Exactly No. 70, Koepka and Finau Outside Looking In | X, FB, Article | FOLLOW UP |
+| 2026-08-01 | T2 | Scheffler's Strange 2026 — Five Runner-Ups, One Win, FedExCup No. 1 Entering Playoffs | X, FB, Article | FOLLOW UP |
+
+### STORY 1: AIG Women's Open R3 — Ryu Leads at -7, History Within Reach at Royal Lytham
+- **Tier:** 1
+- **Category:** LPGA / AIG Women's Open / Royal Lytham
+- **Key facts:** Ryu -7 leads by 1 over Kuwaki (-6); Noh + Thitikul T3 at -5; Korda ~5 back; Ryu won KPMG + Evian in 2026; Korda won Chevron + US Women's Open; either winning = 3 majors in 2026 = Inbee Park 2013 record; Hull + Woad also ~5 back; final round Sunday August 2; $10M record purse; par 71; Royal Lytham & St Annes
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R3 result; final round coverage; winner coverage
+
+### STORY 2: Rocket Classic R3 — Young and Cantlay Share Lead at Final-Ever Event in Detroit
+- **Tier:** 1
+- **Category:** PGA Tour / Rocket Classic / FedExCup
+- **Key facts:** Young + Cantlay + Fishburn co-lead at -10 after R2; Young shot 61 in R2 (6 consecutive birdies, +68 spots); Fowler + Wallace -9; final-ever Rocket Classic (Rocket Companies exiting sponsorship after 2026); Detroit Golf Club, par 70, Donald Ross 1914 design restored; $10M purse, 500 FedExCup pts; final round Sunday August 2
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Final round winner; FedExCup standings update; Wyndham as last regular-season event
+
+### STORY 3: LIV Bedminster One Week Away — CEO Still Won't Guarantee It Happens
+- **Tier:** 2
+- **Category:** LIV Golf / Business / Bedminster
+- **Key facts:** LIV Golf New York at Trump National Bedminster August 6-9; 13 major champions, 23 combined majors (DeChambeau, Rahm, Hatton, Smith, Johnson, Mickelson, Garcia, Reed, Watson, Niemann); O'Neil would not guarantee schedule runs; 2 events already cancelled (New Orleans + Michigan); PIF ending funding after 2026; LIV sought $250-350M outside investment; Indianapolis August 20-23 is final 2026 event
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Bedminster confirmation or cancellation; Indianapolis status; investor announcement
+
+### STORY 4: FedExCup Bubble — Koivun at Exactly No. 70, Koepka and Finau Outside Looking In
+- **Tier:** 2
+- **Category:** PGA Tour / FedExCup / Bubble Watch
+- **Key facts:** Koivun at exactly No. 70 (last playoff spot) after 3M Open win (500 pts); Koepka outside top 70; Finau outside top 70; Bradley outside top 70; Rocket Classic + Wyndham remain; 500 pts for Rocket Classic winner; top 70 → FedEx St. Jude August 13-16 (TPC Southwind, Memphis)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Rocket Classic bubble impact; Wyndham as last chance; St. Jude field
+
+### STORY 5: Scheffler's Strange 2026 — Five Runner-Ups, One Win, FedExCup No. 1 Entering Playoffs
+- **Tier:** 2
+- **Category:** PGA Tour / Scottie Scheffler / FedExCup
+- **Key facts:** Scheffler has 1 win (American Express, January), 5 runner-ups, 0 major wins in 4 starts (Masters/US Open Shinnecock/Open Birkdale T4/PGA Aronimink); missed cut at Scottish Open (first in 4 years); still World No. 1 + FedExCup No. 1; skipped Rocket Classic; Scheffler + Cameron Young (2022) only players in past 40 years with 5+ runner-ups in single season; quote: "I think I've been really close to winning some tournaments, and that can be frustrating"; FedEx playoffs start August 13
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** FedEx St. Jude performance; FedExCup title race
+
 ## 2026-07-30
 
 | Date | Tier | Story | Platforms | Status |
