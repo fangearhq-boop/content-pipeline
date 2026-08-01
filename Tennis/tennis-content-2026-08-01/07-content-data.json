@@ -1,0 +1,312 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-01",
+  "compiled_at": "2026-08-01T12:21:59.033098+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 (Eala def. Svitolina, SF vs Osaka)",
+      "type": "X + FB"
+    },
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 (Eala SF run angle)",
+      "type": "X"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2 (DC Open ATP QF upsets)",
+      "type": "X + FB"
+    },
+    {
+      "time": "11:30 AM",
+      "description": "Story 2 (ATP SF preview angle)",
+      "type": "X"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 3 (Los Cabos Final preview)",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 (Canadian Open draws)",
+      "type": "X + FB"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 5 (DC Open WTA QF full wrap)",
+      "type": "X + FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Eala Beats Svitolina 6-3, 6-4 — DC Open WTA Semifinalist vs. Osaka",
+      "tier": 1,
+      "status": "",
+      "angle": "FOLLOW-UP (July 30 Story 1) — Alexandra Eala (Philippines, No. 28, unseeded) defeated No. 10 Elina Svitolina 6-3, 6-4 in the DC Open WTA quarterfinals on Friday July 31, advancing to the semifinals at Washington. The win repeated the exact score Eala posted against Svitolina in Berlin earlier in the season. Eala now faces No. 3 seed Naomi Osaka in the SF on Saturday August 1. In sequence: Eala has now defeated Zheng (R1), Fernandez (R2, defending champion), and Svitolina (QF) to reach the final four. She remains unseeded and ranked No. 28.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Eala is in the DC Open semifinals. 🇵🇭\n\nQuarterfinal: def. Svitolina (world No. 10) 6-3, 6-4\n\nHer DC Open run:\n→ def. Zheng (R1)\n→ def. Fernandez (R2, defending champion)\n→ def. Svitolina (QF)\n\nShe faces Osaka today.\n\n#Tennis #DCOpen #WTATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#DCOpen",
+            "#WTATour"
+          ],
+          "char_count": 241
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Eala beat Svitolina in Berlin this season 6-3, 6-4.\n\nShe beat Svitolina in Washington 6-3, 6-4.\n\nSome players just know their opponent. Eala knows Svitolina.\n\nSF vs. Osaka today.\n\n#Tennis #AlexEala #DCOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#AlexEala",
+            "#DCOpen"
+          ],
+          "char_count": 205
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-eala-beats-svitolina-dc-open-wta-sf.html",
+        "headline": "Eala Defeats Svitolina to Reach DC Open WTA Semifinals, Faces Osaka on Saturday",
+        "word_count": 545
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Eala Beats Svitolina — SF vs. Osaka\n\n**X/Social Image:**\n- Search term: `Alex Eala`\n- Direction: Eala celebrating or pumping fist on hard court; triumphant expression\n- Overlay text: \"DC OPEN SF — Eala def. Svitolina 6-3, 6-4\"\n- Status: not_started\n\n**Article Hero Image:**\n- Search term: `Alex Eala`\n- Direction: Eala in mid-match action, hard court surface background\n- Used as article hero (1200x630)\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Eala Beats Svitolina at DC Open WTA QF\n**HIGH confidence facts:**\n- Alexandra Eala (Philippines, No. 28 WTA, unseeded) defeated Elina Svitolina (world No. 10) 6-3, 6-4 in the DC Open WTA quarterfinals on Friday July 31 (WTA Tour official: \"Eala draws Osaka in DC semis after topping Svitolina\"; GMA News; Inquirer Sports)\n- The score 6-3, 6-4 exactly repeated Eala's result against Svitolina in Berlin earlier in the 2026 season (WTA Tour headline: \"overcoming Svitolina in Berlin repeat\")\n- Eala advances to the DC Open WTA semifinals, scheduled Saturday August 1 (WTA tour schedule)\n- Eala's SF opponent: No. 3 seed Naomi Osaka (WTA Tour official; TennisUpToDate QF round-up)\n- Eala's path to SF: def. Qinwen Zheng (R1) 4-6, 6-4, 6-1; def. Leylah Fernandez (R2, defending champion) 6-2, 7-6(1); def. Svitolina (QF) 6-3, 6-4\n- Eala remains unseeded, ranked No. 28 (career-high set July 2026 post-Wimbledon)\n**Sources:** WTA Tour (wtatennis.com), GMA Network (gmanetwork.com), Inquirer Sports (sports.inquirer.net), TennisUpToDate",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "DC Open ATP QF — Nakashima Upsets No. 1 De Minaur; Tabilo Ousts Shelton; Jodar Into Top 20",
+      "tier": 1,
+      "status": "",
+      "angle": "FOLLOW-UP (July 30 Story 2) — Earthquake results in the DC Open ATP quarterfinals on Friday July 31. Brandon Nakashima (USA) eliminated top seed and defending champion Alex de Minaur 7-6(5), 6-4. Alejandro Tabilo (CHI) upset No. 2 seed Ben Shelton. Rafael Jodar (ESP, 19) defeated No. 6 seed Lorenzo Musetti 1-6, 6-1, 6-4. Taylor Fritz (3, USA) was the only top-four seed to survive, advancing via a comeback from match point down against Alex Michelsen. Semifinals today (August 1): Nakashima vs. Fritz; Jodar vs. Tabilo. Jodar will crack the ATP Top 20 regardless of his semifinal result.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "DC Open ATP quarterfinals — Friday results:\n\nNakashima def. (1) de Minaur 7-6(5), 6-4\nTabilo def. (2) Shelton\n(3) Fritz advances\nJodar def. (6) Musetti 1-6, 6-1, 6-4\n\nToday's SF: Nakashima vs. Fritz | Jodar vs. Tabilo\n\n#ATPTour #DCOpen #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPTour",
+            "#DCOpen",
+            "#Tennis"
+          ],
+          "char_count": 243
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Rafael Jodar is 19 years old.\n\nHe beat Fils. Beat Nishikori. Beat Musetti (1-6, 6-1, 6-4).\n\nHe is now in the DC Open semifinals. He will enter the ATP Top 20 today regardless of result.\n\nOne to watch.\n\n#Tennis #ATPTour #DCOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#ATPTour",
+            "#DCOpen"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-dc-open-atp-qf-nakashima-tabilo-upsets.html",
+        "headline": "Nakashima Ousts No. 1 De Minaur, Tabilo Upsets Shelton — DC Open ATP Semifinals Set",
+        "word_count": 581
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "DC Open ATP QF Upsets\n\n**X/Social Image:**\n- Search term: `Brandon Nakashima`\n- Direction: Nakashima in match action or celebrating; hard court preferred\n- Overlay text: \"BIGGEST UPSET — Nakashima def. No. 1 De Minaur 7-6(5), 6-4\"\n- Status: not_started\n\n**Article Hero Image:**\n- Search term: `Taylor Fritz`\n- Direction: Fritz mid-match or fist-pump; hard court setting\n- Used as article hero (1200x630)\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "DC Open ATP QF Results — Nakashima, Tabilo, Jodar Upsets\n**HIGH confidence facts:**\n- Brandon Nakashima (USA) defeated No. 1 seed Alex de Minaur (AUS, defending champion) 7-6(5), 6-4 in the DC Open ATP quarterfinals on Friday July 31 — a major upset (Washington Times: \"Americans Pegula, Fritz advance, top-seed de Minaur falls\"; TennisUpToDate DC Open ATP QF round-up)\n- Alejandro Tabilo (CHI) upset No. 2 seed Ben Shelton (USA) (TennisUpToDate DC Open ATP QF round-up)\n- Rafael Jodar (ESP, 19) defeated No. 6 seed Lorenzo Musetti (ITA) 1-6, 6-1, 6-4 (ATP Tour: \"Rafael Jodar claws past Lorenzo Musetti\")\n- Taylor Fritz (3, USA) defeated Alex Michelsen in the quarterfinals, coming back from match point down (Washington Times; ATP Tour)\n- DC Open ATP Semifinals scheduled Saturday August 1: Brandon Nakashima vs. (3) Taylor Fritz (not before 6:30 PM ET); Rafael Jodar vs. Alejandro Tabilo — follows (Last Word on Sports ATP Washington SF predictions)\n- Rafael Jodar will crack the ATP Top 20 regardless of SF result (ATP Tour / Last Word on Sports)\n- Tournament: William H.G. FitzGerald Tennis Center, Washington D.C., July 27–August 2, 2026 (ATP official)\n**Sources:** Washington Times (washingtontimes.com), TennisUpToDate, ATP Tour (atptour.com), Last Word on Sports (lastwordonsports.com)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Los Cabos Final — Shapovalov vs. Gea; French 21-Year-Old Earns First ATP Final",
+      "tier": 2,
+      "status": "",
+      "angle": "FOLLOW-UP (July 30 Story 4) — The Mifel Tennis Open final is set at Los Cabos, Mexico. Denis Shapovalov (CAN, 8) defeated No. 5 seed Cameron Norrie 6-3, 5-7, 6-4 in the semifinals. Arthur Gea (FRA, 21, ranked No. 127) defeated Coleman Wong 7-6(7), 6-3 in the other semifinal, reaching his first-ever ATP Tour final. Gea will break into the Top 100 regardless of the final result. Shapovalov is a past Los Cabos champion and in his second final at the tournament. Final: Saturday August 1.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Los Cabos final is set.\n\nDenis Shapovalov def. Norrie 6-3, 5-7, 6-4\nArthur Gea (FRA, 21, No. 127) def. Wong 7-6(7), 6-3\n\nGea: first ATP final. Will enter the Top 100 today.\nShapovalov: past Los Cabos champion.\n\nFinal: today.\n\n#ATPTour #LosCabos #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPTour",
+            "#LosCabos",
+            "#Tennis"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-los-cabos-final-shapovalov-gea.html",
+        "headline": "Shapovalov Returns to Los Cabos Final; Gea Makes History at 21 for First ATP Title Shot",
+        "word_count": 497
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Los Cabos Final\n\n**X/Social Image:**\n- Search term: `Denis Shapovalov`\n- Direction: Shapovalov in match action or celebrating; hard court background\n- Overlay text: \"LOS CABOS FINAL — Shapovalov vs. Gea\"\n- Status: not_started\n\n**Article Hero Image:**\n- Search term: `Denis Shapovalov`\n- Direction: Shapovalov serving or backhand, clean background\n- Used as article hero (1200x630)\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Los Cabos Final — Shapovalov vs. Gea\n**HIGH confidence facts:**\n- Denis Shapovalov (CAN, 8th seed) defeated Cameron Norrie (5th seed, GBR) 6-3, 5-7, 6-4 in the Los Cabos (Mifel Tennis Open) semifinal (ATP Tour: \"Denis Shapovalov returns to Los Cabos final\"; Yahoo Sports: \"Norrie beaten by Shapovalov in Los Cabos semi-final\")\n- Arthur Gea (FRA, 21, ranked No. 127) defeated Coleman Wong (HKG) 7-6(7), 6-3 in the other semifinal (ATP Tour: \"Arthur Gea stuns Cerundolo in Los Cabos\"; TennisTemple: \"Arthur Gea reaches first ATP final in Los Cabos\")\n- The final: Denis Shapovalov vs. Arthur Gea — scheduled Saturday August 1 (ATP Tour)\n- Arthur Gea enters his first-ever ATP Tour final; will break into the Top 100 regardless of result (TennisTemple)\n- Shapovalov is a past Los Cabos champion competing in his second Los Cabos final (ATP Tour context)\n- Earlier in the tournament: Gea had upset No. 3 seed Francisco Cerundolo (ATP Tour: \"Arthur Gea stuns Cerundolo in Los Cabos\"); Wong had upset No. 1 seed Jiri Lehecka 1-6, 6-3, 6-4 (from July 30 pipeline)\n- Tournament: Mifel Tennis Open by Telcel Oppo (ATP 250), Los Cabos, Mexico, July 27–August 1, 2026\n**Sources:** ATP Tour (atptour.com), Yahoo Sports, TennisTemple (en.tennistemple.com)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Canadian Open Draws Set — Pegula No. 1 WTA Toronto; Zverev No. 1 ATP Montreal; Draper Wildcard",
+      "tier": 2,
+      "status": "",
+      "angle": "FOLLOW-UP (July 30 Story 5) — The Canadian Open draw ceremonies were held Friday July 31. WTA Toronto (National Bank Open, Sobeys Stadium, Aug 1–13): Jessica Pegula is the No. 1 seed in a 96-player draw; WTA main draw play begins August 2. ATP Montreal (IGA Stadium, Aug 1–13): Alexander Zverev (Roland Garros champion, Wimbledon finalist) is the No. 1 seed; Felix Auger-Aliassime is seeded No. 2 at home in Montreal for the first time at a Masters 1000. Canadian wildcards: Alexis Galarneau, Liam Draxl, and Jack Draper received wildcards to the Montreal draw. ATP play begins August 4.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Canadian Open draws are set.\n\nWTA Toronto (starts Aug 2):\nNo. 1 seed: Pegula\n\nATP Montreal (starts Aug 4):\nNo. 1 seed: Zverev\nNo. 2 seed: Auger-Aliassime (at home)\n\nWildcards: Galarneau, Draxl, Draper\n\n#NationalBankOpen #Tennis #WTATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NationalBankOpen",
+            "#Tennis",
+            "#WTATour"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-canadian-open-draws-pegula-zverev.html",
+        "headline": "Canadian Open Draws Set: Pegula No. 1 in Toronto, Zverev Leads Montreal; Draper Earns Wildcard",
+        "word_count": 580
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Canadian Open Draws\n\n**X/Social Image:**\n- Search term: `Jessica Pegula`\n- Direction: Pegula in match action or press setting; confident expression\n- Overlay text: \"NATIONAL BANK OPEN — Draws Set | WTA Starts Aug. 2\"\n- Status: not_started\n\n**Article Hero Image:**\n- Search term: `Alexander Zverev`\n- Direction: Zverev mid-match or trophy celebration; any surface\n- Used as article hero (1200x630)\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Canadian Open Draws Released\n**HIGH confidence facts:**\n- Canadian Open draw ceremonies were held on Friday July 31, 2026, with live-streamed ceremonies (nationalbankopen.com: \"Watch Live: Draw Ceremonies for 2026 National Bank Open\")\n- WTA Toronto (Sobeys Stadium): Jessica Pegula is the No. 1 seed in the 96-player draw; main draw play begins August 2 (National Bank Open official; nationalbankopen.com)\n- ATP Montreal (IGA Stadium): Alexander Zverev is the No. 1 seed (Roland Garros 2026 champion and Wimbledon finalist); Felix Auger-Aliassime is seeded No. 2 at home in Montreal — noted as career-first seeding at this level for him (National Bank Open: \"Dissecting the 2026 NBO Montreal Draw\")\n- Canadian wildcards for Montreal: Alexis Galarneau, Liam Draxl, and Jack Draper received main draw wildcards (National Bank Open: \"Galarneau, Draxl, Draper awarded final main draw wildcards Montreal\")\n- ATP Montreal main draw play begins August 4 (tournament schedule)\n- Sinner, Djokovic, Alcaraz all absent from ATP Montreal (from prior pipeline context; confirmed in Canadian Open preview coverage)\n**Sources:** National Bank Open (nationalbankopen.com), ATP Tour",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "DC Open WTA QF Full Picture — Pegula, Shnaider, Osaka, Eala All Win",
+      "tier": 2,
+      "status": "",
+      "angle": "NEW STORY — Complete DC Open WTA quarterfinal results from Friday July 31: No. 1 seed Jessica Pegula defeated No. 5 seed Anna Kalinskaya 6-3, 7-5. No. 4 seed Diana Shnaider defeated Liudmila Samsonova 6-3, 6-4. No. 3 seed Naomi Osaka defeated Elisabetta Cocciaretto 4-6, 6-4, 6-3 in three sets. Alexandra Eala defeated Elina Svitolina 6-3, 6-4 (covered in Story 1). WTA Semifinals Saturday August 1: Pegula vs. Shnaider; Eala vs. Osaka.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "DC Open WTA QF results — Friday:\n\n(1) Pegula def. (5) Kalinskaya 6-3, 7-5\n(4) Shnaider def. Samsonova 6-3, 6-4\n(3) Osaka def. Cocciaretto 4-6, 6-4, 6-3\nEala def. Svitolina 6-3, 6-4\n\nSF Saturday:\nPegula vs. Shnaider | Eala vs. Osaka\n\n#Tennis #DCOpen #WTATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#DCOpen",
+            "#WTATour"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-dc-open-wta-qf-recap-pegula-shnaider-osaka-eala.html",
+        "headline": "DC Open WTA Quarterfinal Recap: Pegula, Shnaider, Osaka, Eala All Advance to Semifinals",
+        "word_count": 485
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "DC Open WTA QF Full Wrap\n\n**X/Social Image:**\n- Search term: `Naomi Osaka`\n- Direction: Osaka in match action on hard court; DC Open or any outdoor hard court\n- Overlay text: \"DC OPEN WTA SF — Pegula vs. Shnaider | Eala vs. Osaka\"\n- Status: not_started\n\n**Article Hero Image:**\n- Search term: `Jessica Pegula`\n- Direction: Pegula in action; hard court surface\n- Used as article hero (1200x630)\n- Status: not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "DC Open WTA QF Full Results\n**HIGH confidence facts:**\n- No. 1 seed Jessica Pegula defeated No. 5 seed Anna Kalinskaya 6-3, 7-5 in the DC Open WTA QF (Washington Times; Inquirer)\n- No. 4 seed Diana Shnaider defeated Liudmila Samsonova 6-3, 6-4 in the DC Open WTA QF (Tennis Majors: \"Shnaider books spot in last 4\"; TennisUpToDate WTA QF round-up)\n- No. 3 seed Naomi Osaka defeated Elisabetta Cocciaretto 4-6, 6-4, 6-3 in the DC Open WTA QF (TennisUpToDate WTA QF round-up; Inquirer)\n- Alexandra Eala defeated Elina Svitolina 6-3, 6-4 (covered in Story 1)\n- DC Open WTA Semifinals: (1) Pegula vs. (4) Shnaider; Eala vs. (3) Osaka — Saturday August 1 (WTA schedule)\n- DC Open WTA Final scheduled Sunday August 2 (tournament schedule)\n**Sources:** Washington Times, Inquirer Sports, Tennis Majors (tennismajors.com), TennisUpToDate, WTA Tour",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

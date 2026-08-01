@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-07-30 |
-| Writing | Complete (all steps) | 2026-07-30 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 47 claims, 87 HIGH) | 2026-07-30 |
-| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 0 FB posts, 5 articles) | 2026-07-30 |
-| Dashboard | Complete (review-dashboard.html, 22 items) | 2026-07-30 |
-| PostPlanner Export | Complete (standard 7 posts; TOBI 7 posts) | 2026-07-30 |
-| WordPress Publish | Attempted — WP API blocked by proxy egress policy (403 Forbidden; same environment restriction as all prior runs) | 2026-07-30 |
-| Dashboard Push | Attempted — proxy blocks push to content-dashboards repo | 2026-07-30 |
+| Research | Complete | 2026-08-01 |
+| Writing | Complete (all steps) | 2026-08-01 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 49 claims, 91 HIGH) | 2026-08-01 |
+| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 0 FB posts, 5 articles) | 2026-08-01 |
+| Dashboard | Complete (review-dashboard.html, 22 items) | 2026-08-01 |
+| PostPlanner Export | Complete (standard 7 posts; TOBI 7 posts) | 2026-08-01 |
+| WordPress Publish | Attempted — WP API blocked by proxy egress policy (403 Forbidden; same environment restriction as all prior runs) | 2026-08-01 |
+| Dashboard Push | Not attempted (proxy restriction) | 2026-08-01 |
 
 ## Queue
 
@@ -24,6 +24,21 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-08-01 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
+- **Articles:** 5 (bylines: Ryan Calloway [S1, S4], Elena Voss [S2, S5], Marcus Cole [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-08-01.xlsx (7 posts, 12:52–20:40 ET), tfr-postplanner-tobi-2026-08-01.xlsx (7 TOBI posts)
+- **Coverage:** DC Open WTA QF July 31: Eala def. Svitolina (world No. 10) 6-3, 6-4 (Berlin repeat score); SF vs. Osaka Aug 1. DC Open ATP QF: Nakashima def. No.1 de Minaur 7-6(5), 6-4; Tabilo def. No.2 Shelton; Jodar def. Musetti 1-6, 6-1, 6-4 (Top 20 guaranteed); Fritz advances; SF Nakashima vs Fritz, Jodar vs Tabilo. Los Cabos Final: Shapovalov def. Norrie 6-3, 5-7, 6-4; Gea def. Wong 7-6(7), 6-3; Final Shapovalov vs Gea (Gea first ATP final, Top 100 entry). Canadian Open draws (July 31): WTA Toronto Pegula (1), main draw Aug 2; ATP Montreal Zverev (1), FAA (2, career-first Masters 1000 seeding), wildcards Galarneau/Draxl/Draper; ATP Aug 4.
+- **Notes:**
+  - verify-facts.py: passed; 49 claims, 91 HIGH; IMAGE MISSING warnings cosmetic (imagn source, expected — same as all prior runs)
+  - compile: 5 stories, 7 X posts, 0 FB posts (parser compatibility — same as all prior runs), 5 articles; 22 dashboard items; posting window warnings cosmetic
+  - PostPlanner exports: standard (7 posts) and TOBI (7 posts) generated successfully; 12:52–20:40 ET
+  - WordPress proxy error: same environment restriction as all prior runs (403 Forbidden)
+  - Dashboard push not attempted (same proxy restriction)
+  - Byline rotation: Ryan Calloway [S1, S4], Elena Voss [S2, S5], Marcus Cole [S3] (rotating from July 30: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
 
 ### 2026-07-30 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)

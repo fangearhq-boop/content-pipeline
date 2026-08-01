@@ -1233,3 +1233,51 @@ Track previously covered stories to avoid repetition and maintain content freshn
 - **Byline:** Marcus Cole
 - **Key Facts:** Sinner WD (rest for Cincinnati); tournament director criticized ATP; Zverev (1)/FAA (2) ATP seeds; Sabalenka (1) WTA; draws July 31; WTA Aug 2; ATP Aug 4; Sources: National Bank Open official, Tennis365, CBC, Yahoo Sports, SI.com, tips.gg
 - **Follow-Up Opportunities:** Canadian Open draws July 31; main draw results Aug 2/4
+
+
+## 2026-08-01
+
+### Story 1: Eala Beats Svitolina 6-3, 6-4 — DC Open WTA Semifinalist vs. Osaka
+- **Date:** 2026-08-01
+- **Angle:** FOLLOW-UP (July 30 Story 1) — Alexandra Eala (Philippines, No. 28, unseeded) defeated Elina Svitolina (world No. 10) 6-3, 6-4 in the DC Open WTA quarterfinals on Friday July 31. Exact repeat of their Berlin 2026 result. Eala advances to the DC Open WTA semifinals vs. No. 3 seed Naomi Osaka on Saturday August 1. Eala's DC Open path: def. Zheng (R1) 4-6, 6-4, 6-1; def. Fernandez (R2, defending champ) 6-2, 7-6(1); def. Svitolina (QF) 6-3, 6-4.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Ryan Calloway
+- **Key Facts:** Eala def. Svitolina 6-3, 6-4; Berlin repeat score; SF vs. Osaka Aug 1; Sources: WTA Tour, GMA Network, Inquirer Sports, TennisUpToDate
+- **Follow-Up Opportunities:** Eala SF result vs. Osaka; potential DC Open final
+
+### Story 2: DC Open ATP QF — Nakashima Upsets No. 1 De Minaur; Tabilo Ousts Shelton; Jodar Into Top 20
+- **Date:** 2026-08-01
+- **Angle:** FOLLOW-UP (July 30 Story 2) — Brandon Nakashima (USA) def. No. 1 Alex de Minaur (defending champion) 7-6(5), 6-4 in DC Open ATP QF. Alejandro Tabilo (CHI) upset No. 2 Ben Shelton. Rafael Jodar (ESP, 19) def. No. 6 Lorenzo Musetti 1-6, 6-1, 6-4. Taylor Fritz (3) survived match point down vs. Michelsen. Jodar confirmed to enter ATP Top 20 regardless of SF result. SF Aug 1: Nakashima vs. Fritz (not before 6:30 PM ET); Jodar vs. Tabilo.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Elena Voss
+- **Key Facts:** Nakashima def. de Minaur 7-6(5), 6-4; Tabilo def. Shelton; Jodar def. Musetti 1-6, 6-1, 6-4; Fritz survives; Jodar Top 20 guaranteed; Sources: Washington Times, TennisUpToDate, ATP Tour, Last Word on Sports
+- **Follow-Up Opportunities:** DC Open ATP SF/Final results Aug 1-2
+
+### Story 3: Los Cabos Final — Shapovalov vs. Arthur Gea (First ATP Final, Top 100 Entry)
+- **Date:** 2026-08-01
+- **Angle:** FOLLOW-UP (July 30 Story 4) — Denis Shapovalov (CAN, 8) def. No. 5 Cameron Norrie 6-3, 5-7, 6-4 in Mifel Tennis Open SF. Arthur Gea (FRA, 21, No. 127) def. Coleman Wong 7-6(7), 6-3 to reach his first ATP Tour final; will enter Top 100 regardless of result. Final: Saturday August 1. Earlier: Gea had upset Cerundolo (3); Wong had upset Lehecka (1).
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Marcus Cole
+- **Key Facts:** Shapovalov def. Norrie 6-3, 5-7, 6-4; Gea def. Wong 7-6(7), 6-3; Gea first ATP final; Gea Top 100 bound; Sources: ATP Tour, Yahoo Sports, TennisTemple
+- **Follow-Up Opportunities:** Los Cabos final result Aug 1
+
+### Story 4: Canadian Open Draws Set — Pegula No. 1 WTA Toronto; Zverev No. 1 ATP Montreal; Draper Wildcard
+- **Date:** 2026-08-01
+- **Angle:** FOLLOW-UP (July 30 Story 5) — National Bank Open draws released July 31. WTA Toronto (Sobeys Stadium): Pegula (1) seed, 96-player draw, main draw Aug 2. ATP Montreal (IGA Stadium): Zverev (1), FAA (2, career-first Masters 1000 seeding at home). Canadian wildcards for Montreal: Galarneau, Draxl, Jack Draper (first tour match since 2025 injury). ATP starts Aug 4.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Ryan Calloway
+- **Key Facts:** Pegula (1) WTA Toronto; Zverev (1) ATP Montreal; FAA (2) career-first Masters 1000 seeding; Draper wildcard; WTA Aug 2; ATP Aug 4; Sources: National Bank Open official (nationalbankopen.com)
+- **Follow-Up Opportunities:** WTA Toronto R1 results Aug 2; ATP Montreal R1 Aug 4
+
+### Story 5: DC Open WTA QF Full Picture — Pegula, Shnaider, Osaka, Eala All Win
+- **Date:** 2026-08-01
+- **Angle:** NEW STORY — Complete DC Open WTA QF results July 31: (1) Pegula def. (5) Kalinskaya 6-3, 7-5; (4) Shnaider def. Samsonova 6-3, 6-4; (3) Osaka def. Cocciaretto 4-6, 6-4, 6-3; Eala def. Svitolina 6-3, 6-4. SF Saturday Aug 1: Pegula vs. Shnaider; Eala vs. Osaka.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Elena Voss
+- **Key Facts:** Pegula def. Kalinskaya 6-3, 7-5; Shnaider def. Samsonova 6-3, 6-4; Osaka def. Cocciaretto 4-6, 6-4, 6-3; Eala def. Svitolina 6-3, 6-4; Sources: Washington Times, Inquirer, Tennis Majors, TennisUpToDate, WTA Tour
+- **Follow-Up Opportunities:** DC Open WTA SF/Final results Aug 1-2
