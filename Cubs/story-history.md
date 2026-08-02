@@ -5,6 +5,70 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-02
+
+### STORY 1: Cubs Win Game 2 — Series Headed to Sunday Rubber Match
+- **Angle:** FOLLOW UP (last covered Aug 1 as Game 1 shutout recap; today: Cubs won Game 2, PCA go-ahead triple in 7th, Hoerner 6th HR, Thornton W, series tied 1-1; score NOT led per has_score=False insight)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - Game 3 result (today's game — recap tomorrow morning)
+  - Series outcome (split vs Cubs win)
+  - PCA's RBI streak tracking
+  - Hoerner HR pace
+
+### STORY 2: Skubal to Dodgers — Cubs Miss Out, Pivoting to Hancock
+- **Angle:** FOLLOW UP (last covered Aug 1 as "deal imminent, Cubs fighting hardest"; today: Skubal dealt to Dodgers — Cubs missed out, pivoting to Emerson Hancock as primary remaining target before Aug 3 deadline)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, trade analysis)
+- **Follow-Up Opportunities:**
+  - Any Cubs trade acquisition before Aug 3 deadline
+  - Hancock trade confirmation or miss
+  - Deadline day coverage (Aug 3)
+  - Impact on Cubs rotation if acquisition lands
+
+### STORY 3: PCA's MVP Case Climbs Higher
+- **Angle:** FOLLOW UP (last covered Aug 1; today: updated WAR to 6.5 bWAR / 7.0 fWAR, leads Ohtani's 5.6; Ohtani knee limiting two-way value; PCA odds now +185 from +3000)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, bold take)
+- **Follow-Up Opportunities:**
+  - PCA milestones (25 HR, 30 SB pace)
+  - Monthly NL Player of Month (August)
+  - MVP odds movement through August
+  - NL MVP ballot coverage in October
+
+### STORY 4: Palencia Tracking Toward Rehab; Deadline Bullpen Help En Route
+- **Angle:** FOLLOW UP (last covered Aug 1; today: rehab now actively scheduled for week of Aug 3; Webb 2.64 ERA / 5 saves holding closer role; Harvey also nearing return)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, roster update)
+- **Follow-Up Opportunities:**
+  - Palencia rehab assignment start (week of Aug 3)
+  - Palencia's return to Cubs roster (mid-August)
+  - Harvey return timeline
+  - Webb's ERA tracking through August
+
+### STORY 5: Game 3 Preview — Rea vs Cole, 1:20 PM CT, Winner Takes Series
+- **Angle:** NEW STORY (Colin Rea 8-7, 4.67 ERA season / 3.35 ERA since June 20 vs Gerrit Cole 4-5, 3.57 ERA / 2.97 ERA in July; series finale at Wrigley; winner takes 3-game series)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Game 3 result (tomorrow 7:00 AM)
+  - Rea's actual pitching line
+  - Cole's performance
+  - Yankees series result
+
+### STORY 6: Brewers Lead Growing — Cubs Need Another Gear in August
+- **Angle:** FOLLOW UP (last covered Aug 1 as "Wild Card Stakes — August Starts Now"; today's specific angle: Brewers 68-41 leading by 5 games in NL Central, Cubs 63-48 comfortable at No. 1 WC; Brewers rotation weakened by Peralta trade to Mets)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, standings context)
+- **Follow-Up Opportunities:**
+  - Weekly NL Central gap tracking through August
+  - Any Cubs series sweep/sweep loss affecting gap
+  - Brewers collapse scenarios
+  - Cubs division title chase framing
+
+---
+
 ## 2026-08-01
 
 ### STORY 1: Yankees Shut Out Cubs — Game 1 Recap

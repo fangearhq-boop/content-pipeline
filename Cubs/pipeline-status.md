@@ -1,3 +1,49 @@
+# Cubs Pipeline Status — Updated 2026-08-02
+
+## Latest Run
+- **Date:** 2026-08-02 (Sunday)
+- **Run time:** ~09:00 UTC
+- **Stories:** 6
+- **X posts:** 6
+- **Platforms:** X/Twitter only
+- **Status:** ✅ Complete
+
+## Insights Summary (2026-08-02)
+- **Snapshot generated:** 2026-08-02T08:30:00 UTC
+- **Measured tweets:** 119
+- **Significant findings (1):**
+  - `has_score=False` beats `has_score=True` — small effect (δ=0.315, p=0.0031)
+  - Winner median impressions: 136.5 (n=64) vs loser: 94.0 (n=55)
+  - **Applied:** Story 1 (Game 2 recap) does NOT include "Cubs 5, Yankees 2"; leads with PCA triple and series momentum instead
+- No other findings cleared significance gates; `significant_findings_note` was null
+
+## Series Context (2026-08-02)
+- `is_series_start_today`: false (mid-series, same Yankees opponent as Aug 1)
+- `off_day`: false
+- Game 3 (series finale): Cubs (63-48) vs. New York Yankees at Wrigley Field; 1:20 PM CT
+- Colin Rea vs Gerrit Cole
+- **No dedicated series-preview slot** — 7:00 AM used for Game 2 recap per posting priority; Game 3 preview at 12:00 PM CT
+
+## Today's Content
+| Slot | Story | Tier |
+|------|-------|------|
+| 7:00 AM CT | Game 2 recap — PCA triple in 7th, Hoerner HR, Cubs win | 1 |
+| 8:15 AM CT | Skubal to Dodgers — Cubs miss out, Hancock now primary target | 1 |
+| 9:30 AM CT | PCA MVP case — 6.5 bWAR leads Ohtani's 5.6, +185 odds | 2 |
+| 10:45 AM CT | Palencia rehab week of Aug 3; Webb 2.64 ERA holding 9th | 2 |
+| 12:00 PM CT | Game 3 preview: Rea vs Cole, 1:20 PM CT, winner takes series | 1 |
+| 3:45 PM CT | Brewers 68-41, Cubs 5 games back — August is the moment | 3 |
+
+## Dashboard
+- Review dashboard: Cubs/cubs-content-2026-08-02/review-dashboard.html ✅
+- Content data JSON: Cubs/cubs-content-2026-08-02/07-content-data.json ✅ (6 stories, 6 x_posts)
+- Unified dashboard push: content-dashboards repo push failed (recurring PAT auth issue — separate repo; non-blocking)
+
+## Issues
+- content-dashboards publish push failed (recurring PAT auth issue — separate repo; core deliverable 07-content-data.json committed for cubs-x-bot ✅)
+
+---
+
 # Cubs Pipeline Status — Updated 2026-08-01
 
 ## Latest Run

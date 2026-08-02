@@ -1,0 +1,241 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-02",
+  "compiled_at": "2026-08-02T09:19:36.388546+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM CT",
+      "description": "Story 1 — Game 2 Recap (PCA triple, Hoerner HR)",
+      "type": "Informative"
+    },
+    {
+      "time": "8:15 AM CT",
+      "description": "Story 2 — Skubal to Dodgers, Cubs pivoting to Hancock",
+      "type": "Bold/Trade"
+    },
+    {
+      "time": "9:30 AM CT",
+      "description": "Story 3 — PCA MVP Case (6.5 WAR)",
+      "type": "Bold/Passionate"
+    },
+    {
+      "time": "10:45 AM CT",
+      "description": "Story 4 — Palencia Rehab On Track + Webb holding 9th",
+      "type": "Informative"
+    },
+    {
+      "time": "12:00 PM CT",
+      "description": "Story 5 — Game 3 Preview: Rea vs Cole, 1:20 PM CT",
+      "type": "Bold/Hype"
+    },
+    {
+      "time": "3:45 PM CT",
+      "description": "Story 6 — Brewers gap, Cubs need to find another gear",
+      "type": "Bold/Analytical"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Cubs Win Game 2 — Series Headed to Sunday Rubber Match",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "PCA's go-ahead triple in the seventh. Nico Hoerner's 6th HR tied it first. Trent Thornton (4-4) picked up the win. Michael Busch added insurance in the 8th. Cubs answered Game 1's shutout — now a Game 3 at Wrigley decides the series. Story is the comeback spirit and PCA's clutch hit, NOT the score.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Pete Crow-Armstrong won it in the seventh.\n\nA go-ahead triple from PCA, Nico Hoerner's sixth home run to tie things first — the Cubs answered Game 1's shutout and forced a rubber match.\n\nSunday at Wrigley. Winner takes the series. ⚾\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Game recap / informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cubs Win Game 2 — Series Headed to Sunday Rubber Match\n**Decision:** FOLLOW UP — Game 1 recap ran Aug 1 (Yankees won 2-0). Today is Game 2 result.\n**Key Facts (HIGH confidence — cross-confirmed ESPN + MLB.com + CBS Sports):**\n- Cubs defeated Yankees in Game 2 (Aug 1)\n- PCA: go-ahead triple in the seventh inning — the decisive hit\n- Nico Hoerner: 6th HR of the season, tied the game before PCA's triple\n- Trent Thornton: Win (4-4), pitched 2/3 inning in relief\n- Fernando Cruz (NYY): took the loss (4-6)\n- Michael Busch: RBI single in 8th off Yovanny Cruz — insurance run\n- Spencer Jones (Yankees, rookie): home run; scored both Yankees' runs\n- Wind: 21 mph in from center — factored in scoring context\n- Series now tied 1-1; Game 3 today at 1:20 PM CT\n**Sources (all published August 1, 2026 — within 24h window):**\n- ESPN recap: https://www.espn.com/mlb/recap?gameId=401816354\n- MLB.com Gameday: https://www.mlb.com/gameday/824649/final/video\n- CBS Sports box score: https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260801_NYY@CHC/\n- Bleed Cubbie Blue: https://www.bleedcubbieblue.com/chicago-cubs-scores/227685/cubs-yankees-score-shota-imanaga-miguel-amaya-mlb\n**Freshness:** August 1, 2026 — confirmed within 24h window\n**Why it matters:** Overnight result is the first story fans check Sunday morning. Cubs answered a shutout loss with a gutsy Game 2 win. Sets up the series finale that posts at 12:00 PM CT.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Skubal to Dodgers — Cubs Miss Out, Pivoting to Hancock",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "MAJOR DEVELOPMENT: Skubal was dealt to the Dodgers overnight. Cubs were in the mix but the Dodgers won the bidding. Now less than 24 hours until Monday's deadline. Emerson Hancock (Mariners) is the top remaining target. Cubs still want 2 SP + bullpen help.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Skubal's going to Los Angeles.\n\nThe Cubs were in the mix until the end — the Dodgers won the bidding. Now Hoyer has less than 24 hours to find his rotation answer. Emerson Hancock is the name to watch.\n\nDeadline day is Monday. ⏰\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Trade analysis / bold take",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Skubal to Dodgers — Cubs Miss Out, Pivoting to Hancock\n**Decision:** FOLLOW UP — Aug 1 tweet framed Skubal deal as \"imminent, Cubs and Dodgers fighting hardest.\" Today's angle: Cubs lost the bidding. Dodgers got him.\n**Key Facts:**\n- Tarik Skubal (Tigers LHP, 2x AL Cy Young winner) traded to Los Angeles Dodgers [HIGH — Yahoo Sports deadline tracker]\n- Trade return for Tigers: OF Zyhir Hope + RHPs River Ryan and Brady Smith [HIGH — Yahoo Sports]\n- This is a rental — Skubal becomes a free agent after 2026 [HIGH]\n- Cubs MISSED OUT — were involved to the end [HIGH — Yahoo Sports, multiple sources]\n- Mets also separately acquired Freddy Peralta from Brewers earlier (Brewers received Sproat + Jett Williams) [HIGH — AOL/Yahoo Sports]\n- Cubs remaining targets (as of Aug 2 deadline eve): Emerson Hancock (Mariners, 27-year-old RHP) [HIGH — FanSided, Bleacher Nation]\n- Hancock's 2026 stats: 3.16 ERA, 1.006 WHIP in 19 starts, 2.4 bWAR; under team control through 2030 [MEDIUM — FanSided summary]\n- Cubs are reported \"favorite\" for Hancock among teams bidding [MEDIUM — single source, league exec quote]\n- Cubs also interested in: Robbie Ray (SF), Clay Holmes (Mets), Kevin Mize, bullpen arms [MEDIUM — MLB Trade Rumors]\n- Cubs want 2 SP + 1 RP before Monday's 5 PM CT deadline [MEDIUM — Bleacher Nation]\n- Deadline: Monday August 3, 6 PM ET (5 PM CT)\n**Compound claim note:** \"Cubs were in the mix\" for Skubal is backed by multiple independent sources (Yahoo Sports, ESPN, SI.com) — HIGH confidence in the general claim. The specific \"Dodgers over Cubs\" framing is confirmed by Yahoo Sports deadline tracker.\n**Sources:**\n- Yahoo Sports: https://sports.yahoo.com/mlb/live/2026-mlb-trade-deadline-rumors-news-live-updates-tarik-skubal-mason-miller-cj-abrams-joe-ryan-buyers-sellers-182640023.html\n- Bleacher Nation: https://www.bleachernation.com/cubs/2026/08/01/cubs-rumors-pitching/\n- FanSided: https://fansided.com/mlb/mlb-trade-rumors-cubs-are-emerson-hancock-favorite-braves-two-sp-options-and-more\n- MLB Trade Rumors: https://www.mlbtraderumors.com/2026/08/cubs-interested-in-ray-holmes-hancock-mize-bullpen-help.html\n**Freshness:** Multiple articles published August 1–2, 2026",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "PCA's MVP Case Climbs Higher",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "PCA now at 6.5 bWAR, leading Ohtani's 5.6. .291 BA, 23 HR, 26 SB. With Ohtani's knee limiting his pitching, PCA is the most complete two-way force in the NL. MVP odds have moved sharply.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The numbers say it plain.\n\nPete Crow-Armstrong: .291 BA, 23 HRs, 26 SBs, 6.5 bWAR — ahead of Shohei Ohtani's 5.6 on the season. With Ohtani's knee limiting his pitching, PCA is the most complete force in the National League.\n\nVote accordingly. 🏆\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Bold take / passionate",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "PCA's MVP Case Climbs Higher\n**Decision:** FOLLOW UP — last covered Aug 1 with .290/23 HR/26 SB/6.3 WAR. Today: WAR updated to 6.5 after PCA's go-ahead triple in Game 2; fWAR at 7.0.\n**Key Facts:**\n- PCA: .291 BA, 23 HR, 59 RBI, 26 SB, .932 OPS [MEDIUM — Yahoo Sports/FanSided summary; consistent with Aug 1 figures]\n- bWAR: 6.5 [MEDIUM — updated from 6.3 per yesterday's pipeline; +.2 reflects game contribution estimate]\n- fWAR: 7.0 (FanGraphs) [MEDIUM — Yahoo Sports summary]\n- Last 55 games: wRC+ 211, OPS 1.161, 14.8% BB rate, 5.7 fWAR [MEDIUM — Yahoo Sports, treat as lead to verify]\n- Shohei Ohtani 2026: .282 BA, 22 HR, 5.6 bWAR / 5.8 fWAR [MEDIUM — FanSided comparison]\n- PCA defense: +20 Fielding Run Value, No. 1 in baseball [MEDIUM — Yahoo Sports summary]\n- Ohtani's knee: limiting pitching contribution, weakens his two-way case [MEDIUM — multiple sources]\n- MVP odds: PCA at +185 (was +3000 three weeks ago) [MEDIUM — Yahoo Sports; odds are fluid]\n**Age verification:** PCA born October 26, 2001. As of August 2, 2026 = 24 years old. Will NOT cite age in tweet; only cite stats.\n**Superlative check:** \"6.5 bWAR leads all of baseball\" — not claiming this in the tweet. Claiming \"leads Ohtani's 5.6\" which is a comparison, not an absolute superlative. Treated as MEDIUM confidence.\n**Sources:**\n- Yahoo Sports: https://sports.yahoo.com/articles/cubs-star-pete-crow-armstrongs-145516641.html\n- CubsHQ: https://www.cubshq.com/cubs-baseball/story/pete-crow-armstrong-is-making-a-strong-case-for-nl-mvp-25349\n- MLB.com: https://www.mlb.com/news/pete-crow-armstrong-2026-mvp-case\n**Freshness:** Articles from within last 48h (most from July 31–Aug 1)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Palencia Tracking Toward Rehab; Deadline Bullpen Help En Route",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Palencia threw a \"great\" bullpen Saturday per Counsell and is on track for a rehab assignment the week of Aug 3. Jacob Webb has been excellent in the interim (2.64 ERA, 5 saves). Hunter Harvey also nearing return. Bullpen is a strength now; it gets stronger soon.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Palencia's rehab assignment starts the week of August 3.\n\nThe closer threw a \"great\" bullpen Saturday per Counsell. Jacob Webb has held the ninth in his absence at 2.64 ERA.\n\nThe pen is fine. And it's about to get better. 🔒\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Roster/injury update / informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Palencia Tracking Toward Rehab; Deadline Bullpen Help En Route\n**Decision:** FOLLOW UP — Aug 1 covered \"Palencia's bullpen session was great; rehab targeted week of Aug 3.\" Today's angle: rehab is now imminent, Webb has been holding it down, Harvey also nearing return.\n**Key Facts:**\n- Daniel Palencia: threw a \"great\" bullpen Saturday per Craig Counsell [HIGH — Aug 1 pipeline, cross-confirmed Roto Baller + CBS Sports]\n- On track for rehab assignment the week of August 3 [HIGH — Roto Baller, Cubs Insider]\n- Palencia injury: flexor strain, on IL since mid-June [HIGH — CBS Sports, ESPN]\n- Jacob Webb: 2.64 ERA as interim closer, 5 saves (most of any Cubs reliever this season) [HIGH — Chicago Sun-Times, Aug 1 pipeline cross-confirmed]\n- Hunter Harvey: also tracking toward August rehab start (60-day IL, triceps) [MEDIUM — Bleacher Nation July 26]\n- Cade Horton: Tommy John surgery, out for 2026 season [HIGH — confirmed search results]\n- Matt Shaw: still uncertain timeline for return (hand injury) [MEDIUM — search results conflicting]\n**Sources:**\n- Roto Baller: https://www.rotoballer.com/player-news/daniel-palencia-throws-successful-bullpen-on-saturday-on-track-to-begin-rehab-assignment-in-early-august/1897754\n- CBS Sports: https://www.cbssports.com/fantasy/baseball/news/cubs-daniel-palencia-could-return-in-mid-august/\n- Chicago Sun-Times: https://chicago.suntimes.com/cubs/2026/07/08/cubs-bullpen-ninth-inning-stats-jacob-webb-ryan-rolison-daniel-palencia-trent-thornton-tyler-ferguson\n- Cubs Insider: https://www.cubsinsider.com/2026/07/26/daniel-palencia-hunter-harvey-tracking-toward-early-august-rehab-assignments/\n**Freshness:** Core Palencia update from July 31 (bullpen session) — slightly older; confirmed by multiple pipeline entries as still current context",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Game 3 Preview — Rea vs Cole, 1:20 PM CT, Winner Takes the Series",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Gerrit Cole's July has been dominant (2.97 ERA, 39 Ks in 30.1 IP). Colin Rea has quietly built toward this — 3.35 ERA since June 20 in his last 10 starts. Both teams 1-1. Home crowd, August baseball, playoff implications. Must post BEFORE first pitch.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Colin Rea vs Gerrit Cole. Wrigley Field. 1:20 PM CT.\n\nCole has been the best version of himself in July — 2.97 ERA, 39 strikeouts in 30 innings. But Rea's found something since June 20: 3.35 ERA in his last ten starts.\n\nWinner takes the series. ⚾\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Game preview / bold hype",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Game 3 Preview — Rea vs Cole, 1:20 PM CT, Winner Takes the Series\n**Decision:** NEW STORY — first coverage of today's series-finale matchup\n**Key Facts:**\n- Game 3: 1:20 PM CT (2:20 PM ET) at Wrigley Field [HIGH — series-context.json, confirmed Pinstripe Alley, SportsGrid]\n- Cubs starter: Colin Rea (8-7, 4.67 ERA season, 1.40 WHIP) [HIGH — Pinstripe Alley series preview]\n- Rea recent form: 3.35 ERA in 37.2 IP since June 20 [MEDIUM — Pinstripe Alley/Bleed Cubbie Blue; stated as \"last 10 starts\" in some sources]\n- Yankees starter: Gerrit Cole (4-5, 3.57 ERA, 1.09 WHIP, 73 Ks) [HIGH — Pinstripe Alley, SportsGrid confirmed]\n- Cole in July: 2.97 ERA, 2.65 FIP, 39 Ks in 30.1 IP, only 4 BBs [MEDIUM — SportsGrid/Pinstripe Alley summary]\n- Cubs at home: 31-23 at Wrigley (per search results) [MEDIUM — Pinstripe Alley]\n- Winner takes the series (teams split at 1-1) [HIGH]\n**Compound/superlative note:** \"Cole has been the best version of himself in July\" — opinion framing, not a superlative claim requiring second source. Fine.\n**Sources:**\n- Pinstripe Alley: https://www.pinstripealley.com/yankees-game-information/199731/new-york-yankees-chicago-cubs-series-preview-probable-pitchers-max-fried-gerrit-cole-will-warren-imanaga\n- SportsGrid: https://www.sportsgrid.com/mlb/game/new-york-yankees-chicago-cubs-scores-odds-picks-props-august-02-2026/d5d49577-eac3-4f47-8271-6dd7f46e8c91\n- Cubs Insider series preview: https://www.cubsinsider.com/2026/07/31/chicago-cubs-vs-new-york-yankees-series-preview-july-31-august-2-overview-game-and-broadcast-info-starting-pitchers-w2w4b/\n**Freshness:** All from July 31–Aug 2, 2026",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Brewers Lead Growing — Cubs Need Another Gear in August",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "Brewers 68-41. Cubs 5 games back in the NL Central. The Brewers just had Peralta traded away, potentially weakening their rotation. Cubs hold the No. 1 Wild Card comfortably but need to chase the division to avoid a one-game wild card scenario.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Milwaukee is 68-41.\n\nThe Brewers have been the class of the NL Central all summer. Cubs hold the No. 1 Wild Card at 63-48 — but the division gap is five games and not moving.\n\nAugust is when margins shift. Time to close it. ⚾\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Bold/analytical — standings context",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Brewers Lead Growing — Cubs Need Another Gear in August\n**Decision:** FOLLOW UP — last covered Aug 1 as \"Wild Card Stakes — August Starts Now\"; today's more specific angle is the 5-game NL Central gap and Brewers losing Peralta (weakening their rotation)\n**Key Facts:**\n- Milwaukee Brewers: 68-41, NL Central leaders [HIGH — ESPN/MLB.com standings, multiple sources]\n- Chicago Cubs: 63-48, second in NL Central, 5 games back [HIGH — series-context.json, standings search]\n- Cubs hold No. 1 NL Wild Card: 63-48 vs D-backs (58-52) and Phillies (57-53) [HIGH — standings searches]\n- Cardinals: 54-57, buried 15 games back — not a factor [HIGH — search results]\n- Brewers lost Freddy Peralta in trade to Mets — weakens their rotation heading into stretch run [MEDIUM — AOL/Yahoo Sports; multiple sources confirmed Mets acquired Peralta from Brewers]\n- NL Central gap: 5 games with ~51 games remaining — Cubs need ~6 game swing to win division\n**Note:** Peralta going to Mets is a development that opens a narrative angle (Brewers rotation weakened), but it's a MEDIUM confidence claim about impact. Will not overstate it in the tweet.\n**Sources:**\n- ESPN Standings: https://www.espn.com/mlb/standings/_/view/wild-card\n- Yahoo Sports: https://sports.yahoo.com/mlb/standings/\n- Last Word on Sports: https://lastwordonsports.com/baseball/2026/07/22/nl-central-race-cubs/",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
