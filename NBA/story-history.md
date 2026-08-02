@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-08-02
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-08-02 | T1 | Wembanyama Heads to Paris — FIBA France and Nike Signature Shoe | X, FB, Article | FOLLOW UP |
+| 2026-08-02 | T1 | Austin Reaves Signs 4-Year, $185M Max Contract — Lakers New Era | X, FB, Article | NEW |
+| 2026-08-02 | T2 | James Harden Declines $42.3M Cavaliers Option | X, FB, Article | NEW |
+| 2026-08-02 | T2 | Dusty May Hired as Dallas Mavericks Head Coach | X, FB, Article | NEW |
+| 2026-08-02 | T2 | Jalen Brunson Wrist Surgery — Knicks Title Defense First Question | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Wembanyama Heads to Paris — FIBA France and Nike Signature Shoe
+- **Tier:** 1
+- **Category:** NBA Offseason / Victor Wembanyama / San Antonio Spurs
+- **Key facts:** Wembanyama (5yr/$252M extension already signed); new Nike signature shoe deal confirmed; FIBA France qualifying — vs. Slovenia Aug 27, vs. Sweden Aug 30; Spurs coaching staff + players gathering in Paris for joint work sessions; training with personal trainer Guillaume Alquier; Spurs also added rookies Quaintance + Reed Jr., plus Tobias Harris
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** FIBA France results; Nike shoe reveal; Spurs training camp in October; Year 3 outlook
+
+### STORY 2: Austin Reaves Signs 4-Year, $185M Max Contract — Lakers New Era
+- **Tier:** 1
+- **Category:** NBA Free Agency / Los Angeles Lakers / Austin Reaves
+- **Key facts:** Reaves 4yr/$185M max; age 28; went undrafted in 2021; face of Lakers now that LeBron departed; Lakers also acquired Walker Kessler from Utah and traded DeAndre Ayton to Washington
+- **Status:** NEW
+- **Follow-up ideas:** Lakers training camp; Reaves-led roster outlook; Western Conference standing
+
+### STORY 3: James Harden Declines $42.3M Cavaliers Option
+- **Tier:** 2
+- **Category:** NBA Free Agency / Cleveland Cavaliers / James Harden
+- **Key facts:** Harden declined $42.3M player option; both sides working on new multi-year deal; Donovan Mitchell just signed 4yr/$273M max extension with Cleveland; Harden age 37
+- **Status:** NEW
+- **Follow-up ideas:** Harden new deal finalized; Cavs roster building around Mitchell
+
+### STORY 4: Dusty May Hired as Dallas Mavericks Head Coach
+- **Tier:** 2
+- **Category:** NBA Coaching / Dallas Mavericks / Dusty May
+- **Key facts:** May led Michigan to 2026 NCAA championship (April 2026); hired as Mavericks HC; one of six new NBA head coaches this offseason; others: Taylor Jenkins (Bucks), Jamahl Mosley (Pelicans), Sean Sweeney (Magic), Tiago Splitter (Bulls)
+- **Status:** NEW
+- **Follow-up ideas:** May introductory presser; Mavericks first preseason game; college-to-pro impact
+
+### STORY 5: Jalen Brunson Wrist Surgery — Knicks Title Defense First Question
+- **Tier:** 2
+- **Category:** NBA Injuries / New York Knicks / Jalen Brunson
+- **Key facts:** Brunson had surgery on shooting wrist this summer; was 2026 Finals MVP (45 pts Game 5 clincher, 94-90 vs Spurs); 9 of top 10 playoff rotation players returning; core intact — Brunson/Hart/Anunoby/Bridges/Towns; Knicks first title since 1973; banner night Oct 20; E. Conference harder: 76ers added LeBron, Cavs locked Mitchell
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Brunson training camp status; title defense opening-night matchup
+
 ## 2026-07-30
 
 | Date | Tier | Story | Platforms | Status |

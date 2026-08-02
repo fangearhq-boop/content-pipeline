@@ -1,7 +1,18 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Last Run
-- **Date**: 2026-08-01
+- **Date**: 2026-08-02
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce)
+- **PostPlanner exports:** hh-postplanner-2026-08-02.xlsx (6 posts) + hh-postplanner-tobi-2026-08-02.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-08-02/review-dashboard.html (21 items)
+- **Notes:** NBA OFFSEASON — Wembanyama Paris/FIBA/Nike shoe; Austin Reaves $185M max/Lakers new era; Harden declines $42.3M Cavs option (both sides talking multi-year); Dusty May Michigan NCAA champ to Mavericks HC; Brunson wrist surgery/Knicks title defense first concern
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+## 2026-08-01
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
