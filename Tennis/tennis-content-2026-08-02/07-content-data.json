@@ -1,0 +1,300 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-02",
+  "compiled_at": "2026-08-02T12:30:47.648260+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 (Eala def. Osaka; WTA Final)",
+      "type": "X + FB"
+    },
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 (Historic Filipino angle)",
+      "type": "X"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2 (Fritz, Jodar reach final)",
+      "type": "X + FB"
+    },
+    {
+      "time": "11:30 AM",
+      "description": "Story 2 (Jodar Top 20 angle)",
+      "type": "X"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 3 (Los Cabos result: Gea wins)",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 (Canadian Open correction)",
+      "type": "X + FB"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 5 (DC Open WTA semis full picture)",
+      "type": "X + FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Eala Stuns Osaka 6-4, 6-2 — First Filipino in a WTA 500 Final; Faces Pegula Today",
+      "tier": 1,
+      "status": "",
+      "angle": "FOLLOW-UP (Aug 1 Story 1) — Alexandra Eala (Philippines, No. 28, unseeded) defeated No. 3 seed Naomi Osaka 6-4, 6-2 in the DC Open WTA semifinals on Saturday August 1, becoming the first Filipino player to reach a WTA 500 singles final. Meanwhile, No. 1 seed Jessica Pegula defeated No. 4 seed Diana Shnaider 7-5, 6-4 in the other semifinal — Pegula rallied from 2-5 down in the opening set before closing out the match in 1 hour 27 minutes. The WTA final is set for today, Sunday August 2, with Pegula and Eala meeting for what would be a landmark victory either way: Eala seeking her first career WTA title, Pegula seeking to add the DC Open crown to a 2026 season that now includes four WTA finals.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Alexandra Eala stuns No. 3 Osaka 6-4, 6-2. The 22-year-old from the Philippines is the FIRST Filipino player to reach a WTA 500 final. She faces No. 1 Jessica Pegula today in Washington. History. 🎾 #TennisFanrecap #DCOpen #WTA #Eala",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#DCOpen",
+            "#WTA",
+            "#Eala"
+          ],
+          "char_count": 232
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Eala's DC Open path to the final: def. Zheng → def. Fernandez (defending champ) → def. Svitolina (world No. 10) → def. Osaka (No. 3 seed). Now she plays Pegula. Remarkable. #TennisFanrecap #DCOpen #WTA #Philippines",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#DCOpen",
+            "#WTA",
+            "#Philippines"
+          ],
+          "char_count": 214
+        }
+      ],
+      "facebook": {
+        "long_form": "Alexandra Eala is one win away from making history.\n\nThe 22-year-old from the Philippines defeated No. 3 seed Naomi Osaka 6-4, 6-2 Saturday in the DC Open WTA semifinals, becoming the first Filipino player to reach a WTA 500 singles final. She was composed, aggressive, and never let Osaka settle into the match.\n\nHer path to the final tells the whole story: she defeated Qinwen Zheng in the first round, then knocked out defending champion Leylah Fernandez in the second round, then eliminated world No. 10 Elina Svitolina in the quarterfinals, and now Osaka. Four matches, four wins, four opponents who had every reason to expect the upset to go the other way.\n\nIn the other semifinal, top seed Jessica Pegula proved why she is one of the most mentally tough players on tour. She trailed 2-5 in the first set against No. 4 Diana Shnaider before rallying to win 7-5, 6-4 in 1 hour 27 minutes. It is Pegula's fourth WTA final of 2026.\n\nToday's DC Open WTA final — Pegula vs. Eala — is set for 12 PM local time.\n\nWho are you rooting for in today's final?\n\n---",
+        "image_caption": "Eala through Osaka. Eala through Svitolina. Eala through Fernandez. Eala through Zheng. The Philippines is one match away from its first WTA 500 title.",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-eala-osaka-wta-dc-open-final.html",
+        "headline": "Eala Stuns Osaka, Becomes First Filipino in WTA 500 Final — Faces Pegula in DC Open",
+        "word_count": 662
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Eala def. Osaka — WTA 500 Final\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- **Imagn search term:** `Alexandra Eala`\n- **Design concept:** Action shot of Eala in mid-swing or celebration pose. Overlay: \"HISTORY MADE\" in bold, Court Green (#2E7D32). Secondary text: \"First Filipino in a WTA 500 Final\" in white on Midnight background. Tennis Ball Yellow (#CDDC39) accent stripe bottom third.\n- **Status:** not_started\n\n**Facebook Image (1080x1350 — 4:5 vertical)**\n- **Imagn search term:** `Alexandra Eala`\n- **Design concept:** Portrait/celebration photo of Eala. Clean Midnight (#1A1A2E) background with Championship Purple (#6A1B9A) gradient. Text: \"DC Open WTA Final\" headline, \"Eala vs. Pegula\" subhead.\n- **Status:** not_started\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- **Imagn search term:** `Alexandra Eala`\n- **Design concept:** Wide action or post-match image. Court Green header band with white \"Tennis Fanrecap\" wordmark. Main image spans width.\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "DC Open ATP Finals — Fritz and Jodar Through; 19-Year-Old Spaniard Guaranteed Top 20",
+      "tier": 1,
+      "status": "",
+      "angle": "FOLLOW-UP (Aug 1 Story 2) — Taylor Fritz (USA, No. 1 seed) and 19-year-old Rafael Jodar (ESP) both overcame first-set deficits to reach the DC Open ATP 500 final. Fritz defeated Brandon Nakashima 3-6, 6-3, 6-3 in an all-American semifinal. Jodar beat Alejandro Tabilo (CHI) 6-7(5), 6-4, 6-4 — his second consecutive comeback win. Jodar's run to the final guarantees him a debut inside the ATP Top 20, becoming one of the sport's youngest players to reach that milestone. This is Jodar's second ATP final (first on hard court; he won his first title in Marrakech on clay in April 2026). Final: today, Sunday August 2, not before 2:30 PM ET.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "DC Open men's final is SET. Fritz def. Nakashima 3-6, 6-3, 6-3. Jodar (ESP, 19) def. Tabilo 6-7(5), 6-4, 6-4. Fritz vs. Jodar today — American experience against Spain's most exciting teenager. #TennisFanrecap #DCOpen #ATP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#DCOpen",
+            "#ATP"
+          ],
+          "char_count": 222
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Rafael Jodar (19, ESP) is GUARANTEED an ATP Top 20 debut this week after reaching the DC Open final. Clay title in Marrakech. Now his first ATP 500 hard-court final. Fritz stands in his way. #TennisFanrecap #DCOpen #Jodar #ATP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#DCOpen",
+            "#Jodar",
+            "#ATP"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "The DC Open men's final is set — and it might be the best matchup of the week.\n\nTaylor Fritz (USA, No. 1 seed) came from a set down to defeat compatriot Brandon Nakashima 3-6, 6-3, 6-3 in the first semifinal. The veteran American made the necessary adjustments between sets and took control in the third. Fritz reached the final having already saved a match point against Alex Michelsen in the quarterfinals — this has been a week of fighting for the No. 1 seed.\n\nIn the second semifinal, 19-year-old Rafael Jodar (Spain) did it again, rallying from a first-set tiebreak loss to defeat Alejandro Tabilo 6-7(5), 6-4, 6-4. It was Jodar's second consecutive comeback win from a set down this week. And here is the remarkable part: by reaching today's final, Jodar has already guaranteed himself a debut inside the ATP Top 20 this week, regardless of the result.\n\nJodar won his first ATP title on clay in Marrakech in April. This would be his first on hard courts, and his first ATP 500 title. He is 19 years old.\n\nThe Fritz vs. Jodar final is scheduled to begin no earlier than 2:30 PM ET today at the William H.G. FitzGerald Tennis Center.\n\nDo you think Fritz has enough to stop Jodar's momentum?\n\n---",
+        "image_caption": "Fritz vs. Jodar. Two comeback wins in the semis. A Top 20 debut guaranteed for the teenager from Spain. Today's DC Open ATP final has everything.",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-fritz-jodar-dc-open-atp-final.html",
+        "headline": "Fritz and Jodar Reach DC Open ATP Final — 19-Year-Old Spaniard Guaranteed Top 20 Debut",
+        "word_count": 588
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "DC Open ATP Final — Fritz vs. Jodar\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- **Imagn search term:** `Rafael Jodar`\n- **Design concept:** Action shot of Jodar in serve or forehand. Text overlay: \"FINAL\" badge in Tennis Ball Yellow; \"Fritz vs. Jodar\" heading; \"DC Open ATP 500\" subtext. Midnight background.\n- **Status:** not_started\n\n**Facebook Image (1080x1350 — 4:5 vertical)**\n- **Imagn search term:** `Taylor Fritz`\n- **Design concept:** Fritz in motion, full-body. Split-panel with a Jodar silhouette on opposing side. Court Green background panel.\n- **Status:** not_started\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- **Imagn search term:** `Taylor Fritz`\n- **Design concept:** Wide action shot. \"DC Open Men's Final\" header in Court Green.\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Los Cabos Result — Gea def. Shapovalov 6-3, 6-4; First ATP Title for 21-Year-Old Frenchman",
+      "tier": 2,
+      "status": "",
+      "angle": "FOLLOW-UP (Aug 1 Story 3) — Arthur Gea (FRA, 21, ranked No. 127 pre-tournament) defeated defending champion Denis Shapovalov (CAN) 6-3, 6-4 in 88 minutes to win the Mifel Tennis Open by Telcel in Los Cabos, Mexico, earning his first ATP Tour title. Gea entered the tournament ranked No. 127 and will debut inside the top 100 following the victory. Shapovalov, who won in Los Cabos in 2025, was denied back-to-back titles at the tournament. Gea saved all but one break point in the final.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "RESULT: Arthur Gea (FRA, 21) defeats defending champion Denis Shapovalov 6-3, 6-4 in Los Cabos to win his FIRST ATP title. 88 minutes. Gea enters the top 100 from No. 127. 🏆 #TennisFanrecap #LosCabos #Gea",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#LosCabos",
+            "#Gea"
+          ],
+          "char_count": 204
+        }
+      ],
+      "facebook": {
+        "long_form": "Arthur Gea has his first ATP title — and he earned every bit of it.\n\nThe 21-year-old Frenchman defeated defending champion Denis Shapovalov 6-3, 6-4 in 88 minutes Sunday at the Mifel Tennis Open by Telcel in Los Cabos, Mexico. Gea controlled both sets, saved all but one break point, and closed out the match without ever allowing Shapovalov to find his rhythm.\n\nFor Gea, who entered the tournament ranked No. 127, this title is transformative. He will break into the ATP top 100 for the first time — a milestone he had been approaching all season. The win caps a week in which he also defeated third-seeded Alejandro Cerundolo and Coleman Wong, the young qualifier from Hong Kong who had created the tournament's biggest story earlier in the week with his first-round upset of top seed Jiri Lehecka.\n\nShapovalov, the defending champion, was hunting back-to-back titles at a tournament where he has historically played well. Instead, he met a player with nothing to lose and everything to prove.\n\nGea is 21. His generation has arrived.\n\nWhat do you know about Arthur Gea? Have you been following his rise?\n\n---",
+        "image_caption": "Arthur Gea. 21 years old. First ATP title. Enters the top 100. The future is already here.",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-03-gea-wins-los-cabos-first-atp-title.html",
+        "headline": "Gea Defeats Shapovalov 6-3, 6-4 to Claim First ATP Title at Los Cabos",
+        "word_count": 450
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Los Cabos — Gea wins first title\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- **Imagn search term:** `Arthur Gea`\n- **Design concept:** Celebration shot or trophy moment. Bold \"FIRST ATP TITLE\" text in Tennis Ball Yellow. Midnight background with Court Green accents.\n- **Status:** not_started\n\n**Facebook Image (1080x1350 — 4:5 vertical)**\n- **Imagn search term:** `Denis Shapovalov`\n- **Design concept:** Trophy moment or post-match image. \"Los Cabos 2026\" text. Championship Purple accent.\n- **Status:** not_started\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- **Imagn search term:** `Arthur Gea`\n- **Design concept:** Wide landscape shot of Gea with trophy or celebrating. Court Green header band.\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "CORRECTION — Sabalenka Is WTA Toronto No. 1 Seed, Not Pegula; Draw Opens Aug 3",
+      "tier": 2,
+      "status": "",
+      "angle": "CORRECTION + FOLLOW-UP (Aug 1 Story 4) — The Aug 1 pipeline incorrectly stated Jessica Pegula was the No. 1 seed at the WTA Toronto National Bank Open. In fact, Aryna Sabalenka (BLR) is the No. 1 seed; Pegula is seeded No. 3. Full WTA Toronto top seeds: Sabalenka (1), Rybakina (2), Pegula (3), Gauff (4). Additionally, the WTA main draw begins August 3, not August 2 — top 32 seeds receive first-round byes and open play in Round 2 on approximately August 4-5. ATP Montreal: Zverev (1), FAA (2), main draw August 4; Fritz also in the draw.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Correction on the WTA Toronto seedings: Aryna Sabalenka is the No. 1 seed, not Pegula. Full top seeds: Sabalenka (1), Rybakina (2), Pegula (3), Gauff (4). WTA main draw opens Monday Aug 3. #TennisFanrecap #CanadianOpen #NationalBankOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#CanadianOpen",
+            "#NationalBankOpen"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "A quick correction on the Canadian Open, and then the full preview you need.\n\nIn yesterday's pipeline, we stated that Jessica Pegula was the No. 1 seed at the WTA Toronto National Bank Open. That was incorrect. Aryna Sabalenka is the No. 1 seed. Pegula is seeded No. 3. The full top four seeds in Toronto: Sabalenka (1), Rybakina (2), Pegula (3), Gauff (4). We also stated the WTA main draw began today — in fact, it starts tomorrow, Monday August 3. The top 32 seeds have first-round byes and open play approximately August 4-5.\n\nNow the preview you want: This is one of the deepest WTA fields of the summer. Sabalenka is the world No. 1 looking to add a Canadian Open title to what has been a dominant 2026. Rybakina is always dangerous on any surface. Pegula, coming off a DC Open final, arrives in excellent form. Gauff, meanwhile, has been quietly consistent all summer.\n\nOver in Montreal for the ATP draw, Alexander Zverev (1) leads a field that is missing Sinner, Alcaraz, and Djokovic — but Felix Auger-Aliassime (2) has enormous home-crowd support in what is the first time he has been seeded No. 2 at a Masters 1000. Taylor Fritz, who has been in two hard-court finals in the past two days (assuming he plays today), is also in the Montreal draw.\n\nWTA Toronto — first matches Monday August 3. ATP Montreal — first main draw matches Tuesday August 4.\n\nWho is your pick to win WTA Toronto or ATP Montreal?\n\n---",
+        "image_caption": "Canadian Open is here. Sabalenka (1), Rybakina (2), Pegula (3), Gauff (4) in Toronto. Zverev (1), FAA (2) in Montreal. Draw opens Monday.",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-canadian-open-correction-sabalenka-no1-toronto.html",
+        "headline": "Correction: Sabalenka Is WTA Toronto No. 1 Seed, Not Pegula — Canadian Open Draw Starts Monday",
+        "word_count": 449
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Canadian Open Correction/Preview\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- **Imagn search term:** `Aryna Sabalenka`\n- **Design concept:** Action shot of Sabalenka. \"Canadian Open\" header. Seeds Sabalenka (1), Rybakina (2), Pegula (3), Gauff (4) in list format on Midnight background. Tennis Ball Yellow number badges.\n- **Status:** not_started\n\n**Facebook Image (1080x1350 — 4:5 vertical)**\n- **Imagn search term:** `Aryna Sabalenka`\n- **Design concept:** Portrait. \"WTA Toronto Seedings\" header in Court Green. Four-column seed list layout.\n- **Status:** not_started\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- **Imagn search term:** `Aryna Sabalenka`\n- **Design concept:** Wide shot. \"Canadian Open 2026\" banner.\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "DC Open WTA Semis — Pegula's Comeback, Eala's Historic Path; Final Today",
+      "tier": 2,
+      "status": "",
+      "angle": "NEW STORY — Full account of both DC Open WTA semifinals Saturday August 1. Jessica Pegula (USA, No. 1 seed) rallied from 2-5 down in the first set to defeat No. 4 Diana Shnaider 7-5, 6-4 in 1 hour 27 minutes — this is Pegula's fourth WTA final of 2026. Alexandra Eala (Philippines, No. 28) was dominant against Osaka, winning 6-4, 6-2 in their first career meeting. Eala has now beaten Zheng (R1), Fernandez (R2, defending champion), Svitolina (QF), and Osaka (SF) to reach the final without dropping a match from a set-all position. Final: today, August 2.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "DC Open WTA Final preview: Pegula trailed 2-5 in the first set before beating Shnaider 7-5, 6-4. Eala dominated Osaka 6-4, 6-2. No. 1 vs. unseeded. Pegula's 4th final of 2026. Today. #TennisFanrecap #DCOpen #WTA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#DCOpen",
+            "#WTA"
+          ],
+          "char_count": 211
+        }
+      ],
+      "facebook": {
+        "long_form": "Two semifinal matches. Two different stories. One spectacular final.\n\nJessica Pegula's DC Open run to the final has been anything but comfortable. Against Diana Shnaider in the semis, Pegula found herself trailing 2-5 in the first set — the kind of score that makes even top-seeded players uncomfortable. She did not panic. She won seven of the next eight games to take the set 7-5, then added a clean 6-4 in the second to close out the 1 hour 27 minute match. This is Pegula's fourth WTA final of 2026, a remarkable level of consistency at the sharp end of tournaments.\n\nThen there was Eala vs. Osaka. If Pegula's path was dramatic, Eala's was clinical. She took control of the first set against the third-seeded Japanese star and never relinquished it. The 6-4, 6-2 scoreline barely captures how dominant the performance was — it was Eala's best match of the week, and perhaps the biggest victory of her career.\n\nTogether, they set up a final that is genuinely historic: a No. 1 seed against an unseeded 22-year-old who has beaten four higher-ranked opponents in a row. Whoever wins today in Washington, this DC Open will be remembered.\n\nDid you watch either of the semifinals? What was your reaction to Eala's performance?\n\n---",
+        "image_caption": "Two semifinals. One a comeback. One a statement. Today's DC Open WTA final was built from both.",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-dc-open-wta-semis-pegula-eala.html",
+        "headline": "DC Open WTA Semifinals: Pegula Rallies From 2-5 Down, Eala Dismisses Osaka — Final Today",
+        "word_count": 561
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "DC Open WTA Semis Full Picture\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- **Imagn search term:** `Jessica Pegula`\n- **Design concept:** Pegula in action. \"Pegula vs. Eala\" headline. \"DC Open WTA Final\" subtext. Court Green + Championship Purple split background.\n- **Status:** not_started\n\n**Facebook Image (1080x1350 — 4:5 vertical)**\n- **Imagn search term:** `Alexandra Eala`\n- **Design concept:** Eala post-match or celebrating with crowd. \"Today's Final\" badge in Tennis Ball Yellow.\n- **Status:** not_started\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- **Imagn search term:** `Jessica Pegula`\n- **Design concept:** Wide action shot. \"DC Open WTA Final\" header in Court Green.\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

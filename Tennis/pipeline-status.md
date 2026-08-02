@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-08-01 |
-| Writing | Complete (all steps) | 2026-08-01 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 49 claims, 91 HIGH) | 2026-08-01 |
-| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 0 FB posts, 5 articles) | 2026-08-01 |
-| Dashboard | Complete (review-dashboard.html, 22 items) | 2026-08-01 |
-| PostPlanner Export | Complete (standard 7 posts; TOBI 7 posts) | 2026-08-01 |
-| WordPress Publish | Attempted — WP API blocked by proxy egress policy (403 Forbidden; same environment restriction as all prior runs) | 2026-08-01 |
-| Dashboard Push | Not attempted (proxy restriction) | 2026-08-01 |
+| Research | Complete | 2026-08-02 |
+| Writing | Complete (all steps) | 2026-08-02 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 35 claims, 81 HIGH) | 2026-08-02 |
+| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles) | 2026-08-02 |
+| Dashboard | Complete (review-dashboard.html, 27 items) | 2026-08-02 |
+| PostPlanner Export | Complete (standard 7 posts; TOBI 7 posts) | 2026-08-02 |
+| WordPress Publish | Attempted — WP API blocked by proxy egress policy (403 Forbidden; same environment restriction as all prior runs) | 2026-08-02 |
+| Dashboard Push | Attempted — Push failed: proxy blocks write to content-dashboards repo (same as all prior runs) | 2026-08-02 |
 
 ## Queue
 
@@ -24,6 +24,21 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-08-02 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-08-02.xlsx (7 posts, 13:01–20:43 ET), tfr-postplanner-tobi-2026-08-02.xlsx (7 TOBI posts)
+- **Coverage:** DC Open WTA: Eala (PHI, No. 28, unseeded) def. No. 3 Osaka 6-4, 6-2 — first Filipino in WTA 500 final; faces Pegula (No. 1) today; full SF picture: Pegula rallied from 2-5 in S1 to beat Shnaider 7-5, 6-4. DC Open ATP: Fritz def. Nakashima 3-6, 6-3, 6-3 + Jodar (ESP, 19) def. Tabilo 6-7(5), 6-4, 6-4 — both from set down; final Fritz vs. Jodar; Jodar Top 20 guaranteed. Los Cabos RESULT: Gea (FRA, 21, No. 127) def. defending champion Shapovalov 6-3, 6-4 in 88 min — first ATP title, enters top 100. CORRECTION: Sabalenka (not Pegula) is WTA Toronto No. 1 seed; WTA main draw Aug 3 (not Aug 2); ATP Montreal: Zverev (1), FAA (2), draw Aug 4; field diminished (Sinner/Alcaraz/Djokovic all absent from Montreal).
+- **Notes:**
+  - verify-facts.py: passed; 35 claims, 81 HIGH; IMAGE MISSING warnings cosmetic (imagn source, expected — same as all prior runs); "No claim-patterns.py found" cosmetic
+  - compile: initially failed (exit code 1) because 03-social-posts-x.md used `**Post A — 8:00 AM ET**` bold format instead of required `#### Text Post A` h4 + code fence format; rewritten and re-compiled successfully; 5 stories, 7 X posts, 5 FB posts, 5 articles; posting window warnings cosmetic (case mismatch `**Posting Window:**` vs `**Posting window:**`)
+  - Dashboard: 27 items generated; push failed (proxy restriction — same as all prior runs)
+  - PostPlanner exports: standard (7 posts) and TOBI (7 posts) generated successfully; 13:01–20:43 ET
+  - WordPress proxy error: same environment restriction as all prior runs (403 Forbidden)
+  - Byline rotation: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3] (rotating from Aug 1: Ryan Calloway [S1, S4], Elena Voss [S2, S5], Marcus Cole [S3])
 
 ### 2026-08-01 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
