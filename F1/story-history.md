@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-08-02
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-08-02 | T1 | Mercedes Plans Major Post-Break Upgrade — But Fears It Could Gift Ferrari the Title | X, FB, Article | NEW |
+| 2026-08-02 | T1 | Red Bull Admits Hungarian GP Shortcomings — A Dynasty Confronts Its New Reality | X, FB, Article | FOLLOW UP |
+| 2026-08-02 | T2 | Antonelli's 50-Point Summer Cushion — Championship Analysis at the Halfway Point | X, FB, Article | FOLLOW UP |
+| 2026-08-02 | T2 | F1's Wildest Silly Season in Years — 15 of 22 Seats Unconfirmed for 2027 | X, FB, Article | NEW |
+| 2026-08-02 | T2 | F1 September Deadline — Imola on Standby as Qatar and Abu Dhabi Face Cancellation | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Mercedes Plans Major Post-Break Upgrade — But Fears It Could Gift Ferrari the Title
+- **Tier:** 1
+- **Category:** F1 Technical / Mercedes / Championship
+- **Key facts:** Wolff confirmed "something more sizeable" upgrade targeting Dutch GP (Aug 21-23) or Monza; Antonelli leads by 50 points (Mercedes 379 / Ferrari 307 in Constructors); two mechanical DNFs already (Barcelona battery failure, Silverstone wheel shield); internal concern at Mercedes that changes could disrupt Antonelli's rhythm and gift championship to Hamilton/Ferrari; 291 points remain
+- **Status:** NEW
+- **Follow-up ideas:** Dutch GP upgrade debut confirmation; Antonelli reaction to changes; whether upgrade helps or hurts rhythm
+
+### STORY 2: Red Bull Admits Hungarian GP Shortcomings — A Dynasty Confronts Its New Reality
+- **Tier:** 1
+- **Category:** F1 Team News / Red Bull / Max Verstappen
+- **Key facts:** Official team statement Aug 2: "not satisfied" with Hungarian GP performance; 11 races, 0 wins — longest winless run since 2015; describes itself as "fourth team" behind Mercedes, Ferrari, McLaren; Verstappen 7th in championship — worst mid-season position of his career; engine DNFs: Verstappen (China), Hadjar (Australia); pace estimated at 1 second off leaders; Verstappen October exit clause deadline approaching
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Dutch GP upgrade debut for Red Bull; Verstappen October clause decision; team's second-half development direction
+
+### STORY 3: Antonelli's 50-Point Summer Cushion — Championship Analysis at the Halfway Point
+- **Tier:** 2
+- **Category:** F1 Championship / Kimi Antonelli / Mercedes
+- **Key facts:** Antonelli 219pts, Hamilton 169pts, Russell 160pts; 6 wins, 6 poles, 9 podiums in 11 starts; 291 points remaining; two mechanical DNFs (Barcelona battery, Silverstone wheel shield); if wins title: youngest champion since Vettel in 2010 (Vettel was 23); Russell on performance-clause contract for 2027
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Dutch GP result and standings shift; Mercedes upgrade effect on Antonelli; title-clinching scenario tracker
+
+### STORY 4: F1's Wildest Silly Season in Years — 15 of 22 Seats Unconfirmed for 2027
+- **Tier:** 2
+- **Category:** F1 Driver Market / 2027 Grid
+- **Key facts:** 15 of 22 seats unconfirmed as of Aug 2, 2026; confirmed: Norris (McLaren), Piastri (McLaren through 2028), Hamilton (Ferrari), Hulkenberg (Audi), Bortoleto (Audi), Gasly (Alpine through 2028), Verstappen (technically Red Bull through 2028 but October exit clause); unresolved: Russell (performance clause), Alonso (retirement pending), Sainz (Audi situation murky), most midfield; Vowles prediction of "big driver market move" — an understatement; Verstappen decision alone cascades through 5-6 other seats
+- **Status:** NEW
+- **Follow-up ideas:** Verstappen October announcement; Alonso retirement call; Russell contract clarity
+
+### STORY 5: F1 September Deadline — Imola on Standby as Qatar and Abu Dhabi Face Cancellation
+- **Tier:** 2
+- **Category:** F1 Calendar / Season End / Middle East
+- **Key facts:** Qatar (Nov 29) and Abu Dhabi (Dec 6) under review; Bahrain and Saudi Arabia already cancelled March 2026; Domenicali: "Nothing will happen before September" — mid-September is the decision deadline; contingency confirmed: season ends in Europe if races fall; Imola named as leading replacement; Las Vegas mentioned as secondary option; no decision made as of Aug 2
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** September deadline outcome; Imola contract confirmation; championship-deciding venue announcement
+
 ## 2026-07-30
 
 | Date | Tier | Story | Platforms | Status |

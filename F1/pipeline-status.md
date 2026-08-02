@@ -1,10 +1,21 @@
 # F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
-- **Date**: 2026-08-01
+- **Date**: 2026-08-02
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-08-02
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters (longest: 267 chars)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole)
+- **PostPlanner exports:** f1fr-postplanner-2026-08-02.xlsx (6 posts) + f1fr-postplanner-tobi-2026-08-02.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-08-02/review-dashboard.html (21 items)
+- **Notes:** MERCEDES UPGRADE DILEMMA — Wolff confirmed "something more sizeable" post-break upgrade targeting Dutch GP or Monza; internal fear that changes could gift championship to Hamilton/Ferrari; Antonelli leads 219pts vs Hamilton 169pts (50-pt gap); two mechanical DNFs this season (Barcelona battery, Silverstone wheel shield); RED BULL RECKONING — official "not satisfied" statement Aug 2; 11 races 0 wins; self-described "fourth team"; Verstappen 7th worst mid-season position ever; engine DNFs in China and Australia; 1 second off pace; October exit clause approaching; ANTONELLI CHAMPIONSHIP ANALYSIS — 6 wins, 6 poles, 9 podiums in 11 starts; youngest champion since Vettel 2010 if wins; Russell 59 back on performance-clause contract; 291 points remain; F1 DRIVER MARKET — 15 of 22 seats unconfirmed for 2027; confirmed: Norris, Piastri, Hamilton, Hulkenberg, Bortoleto, Gasly, Verstappen*; Vowles prediction understated; Verstappen decision cascades through 5-6 seats; SEPTEMBER CALENDAR DEADLINE — Qatar Nov 29 and Abu Dhabi Dec 6 under review; Domenicali mid-September deadline; Imola named as leading contingency; Las Vegas secondary option
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-08-01
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
