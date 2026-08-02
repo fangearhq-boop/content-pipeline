@@ -5,6 +5,60 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-02
+
+### Story 1: Tarik Skubal to Dodgers — Confirmed
+- **Date:** 2026-08-02
+- **Tier:** 1
+- **Classification:** FOLLOW UP (tracked since July 13; ESPN reported trade imminent Aug 1; trade now confirmed)
+- **Angle:** Skubal officially traded to Dodgers; return: Zyhir Hope (LAD No. 5, MLB Pipeline Top 25 overall), River Ryan (LAD No. 7, No. 68 overall), Brady Smith (LAD No. 17); Skubal 2.79 ERA 31% K rate 16 starts; pure rental (FA after 2026); Dodgers move tied to Ohtani pitching uncertainty; five suitors (Dodgers won bidding over Yankees/Braves/Cubs/Phillies)
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Post-deadline recap August 3
+  - Skubal first Dodgers start
+
+### Story 2: MLB Trade Deadline — Final Hours
+- **Date:** 2026-08-02
+- **Tier:** 1
+- **Classification:** NEW (full-market deadline snapshot 24 hours before close)
+- **Angle:** Deadline Aug 3 6 PM ET; confirmed deals: Skubal to LAD, Castillo (3-9 5.06 ERA) to CWS ($24.2M/yr), Kremer to MIN, Minter to MIN, Doval to PIT, Naylor+Heuer to MIL, O'Hoppe+Silseth to TEX; still moving: Kirby (SEA — flipped from untouchable), Rutschman (BAL — open-minded), Peralta (NYM — pre-deadline start with scouts), Holmes (NYM — 4 scoreless rehab innings with scouts)
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Post-deadline recap August 3 evening
+  - Kirby destination if traded
+
+### Story 3: Dylan Cease — AL Cy Young Frontrunner
+- **Date:** 2026-08-02
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Cease tracked as AL Cy Young contender since July 15; new angle: Skubal traded, Cease confirmed staying, updated stats)
+- **Angle:** Cease 7-5, 2.46 ERA, 167 K in 113.1 IP; July ERA 1.00 (4th-lowest single-month in Blue Jays history min 30 IP; peers: Manoah Sept 2022, Clemens 1997/1998); 1-hit CG vs Red Sox (12 K, first BJ 1-hit CG in 16 years); Blue Jays not trading; full-season continuity is compelling Cy Young narrative with Skubal mid-season in LA
+- **Content Produced:** Article (article-03, Ryan Calloway), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - AL Cy Young race update post-deadline
+  - Cease second-half tracking
+
+### Story 4: Shohei Ohtani — Pitching Return Still Weeks Away
+- **Date:** 2026-08-02
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Ohtani pitching status tracked since July 22; new: 31-pitch bullpen session completed, Roberts quote, no road trip return)
+- **Angle:** 31-pitch bullpen session completed (~July 29-30); Roberts: "at least a week to 10 days" from that session; no start on current road trip; left knee + right biceps concurrent issues; last pitched July 3; season ERA 1.79 in 14 starts; Skubal acquisition directly tied to Ohtani's uncertainty
+- **Content Produced:** Article (article-04, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Next bullpen session / return to game
+  - Ohtani October availability
+
+### Story 5: Chris Sale — Historic Season at 37
+- **Date:** 2026-08-02
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Sale tracked since July 23; new framing: "season's most underrated historic performance" with full historical context)
+- **Angle:** 12-6, 2.08 ERA, 143 K, 1.02 WHIP, 117 IP in 20 starts; 3rd-lowest ERA by pitcher 37+ since 1950 (Clemens 1.40 in 2005, Verlander 1.73 in 2022); fastest to 2,500 career K by IP; July 23 vs Padres: 6 IP 11 K; Braves were buyers at deadline with Sale as anchor
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Sale October run with Braves
+  - NL Cy Young consideration if ERA holds
+
+---
+
 ## 2026-08-01
 
 ### Story 1: Trade Deadline 48 Hours Out — ESPN: Skubal IS Getting Traded
