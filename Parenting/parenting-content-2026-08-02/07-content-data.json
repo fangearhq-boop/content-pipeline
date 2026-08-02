@@ -1,0 +1,313 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-02",
+  "compiled_at": "2026-08-02T12:45:28.621194+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [
+    {
+      "time": "7:30 AM",
+      "description": "Story 1 (D49 first day tomorrow)",
+      "type": "X + FB"
+    },
+    {
+      "time": "8:30 AM",
+      "description": "Story 1 (First-day checklist)",
+      "type": "X"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "Story 2 (CPSC recalls)",
+      "type": "X + FB"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 2 (Stroller warning)",
+      "type": "X"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 3 (D11 bond vote)",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 (Weekend events)",
+      "type": "X + FB"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 5 (School start dates)",
+      "type": "X + FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "D49 First Day of School Is Tomorrow — August 3 for Kindergarteners, 6th, and 9th Graders",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "The first Colorado Springs school district to start the 2026–2027 school year is Falcon School District 49 (D49). Kindergarteners, 6th graders, and 9th graders — students transitioning to a new school building — begin Monday, August 3. All other D49 students start Tuesday, August 4. The staggered two-day start gives transition-year kids a lower-pressure first day before the full school population arrives. This is also the week D49's new Student Success Center opens, housing preschool (Mon–Thu), PEAK, Elevates 18–21, and BASE49 programs.",
+      "posting_window": "7:30 AM MT",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "D49 families — the first day is tomorrow. Kindergarteners, 6th, and 9th graders start Monday Aug. 3. All other D49 students start Tuesday Aug. 4. The staggered start gives transition-year kids time to settle in first. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "7:30 AM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 277
+        },
+        {
+          "label": "Post 1-2",
+          "text": "D49 first-day checklist: backpack packed, supplies ready, drop-off route confirmed, alarm set? Kindergarteners and new middle/high schoolers start Monday Aug. 3. Everyone else starts Tuesday. You've got this. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "7:30 AM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": {
+        "long_form": "If you're a D49 family, you already know — the school year starts tomorrow. Kindergarteners, 6th graders, and 9th graders go first: Monday, August 3. All other D49 students follow on Tuesday, August 4.\n\nThe staggered two-day start is intentional. Transition-year students — kids moving into a new school building for the first time — get Monday to themselves to learn the layout, find their lockers, meet their teachers, and breathe a little before the full crowd arrives. It's a thoughtful approach, and if your kid is starting a new school level, Monday will feel calmer than you might expect.\n\nThis is also the week D49's new Student Success Center officially opens. The SSC is housed at the former Falcon Elementary School of Technology and includes a full-time preschool program (Mon–Thu, available districtwide), PEAK services for students with disabilities, the Elevates 18–21 transition program, and BASE49.\n\nIf you haven't yet confirmed your drop-off timing, school start time, or bus route, tonight's a good evening to get all of that locked in. The D49 app and d49.org both have building-specific details.\n\nWhat's your family's first-day-of-school tradition — special breakfast, a photo at the front door, or something else?\n\n---",
+        "image_caption": "Tomorrow is the day, D49. Kindergarteners, 6th, and 9th graders start Monday Aug. 3. Everyone else starts Tuesday Aug. 4. The new school year is here.",
+        "posting_time": "7:30 AM MT"
+      },
+      "article": {
+        "filename": "article-01-d49-first-day-school-tomorrow.html",
+        "headline": "D49 First Day of School Is Tomorrow — Here's What to Know",
+        "word_count": 459
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D49 First Day of School Tomorrow\n\n**x_image** (1080×1350)\nA cheerful elementary-age child standing at the front door of a suburban home, backpack on, holding a handmade \"First Day\" sign, morning golden-hour light. Warm, optimistic tone. Clean bottom third with soft gradient fade to white. Colorado foothills visible through a window in the background.\n\n**facebook_image** (1080×1350)\nA parent and child walking hand-in-hand down a tree-lined suburban sidewalk toward a school building in the distance, early morning light, backpacks on both. Shot from behind. Warm sunrise colors. Clean bottom third.\n\n**article_hero** (1200×630)\nWide shot of a school entrance on a sunny August morning — yellow buses in the background, a few children walking in with backpacks. Bright, welcoming, Colorado blue sky. No identifiable faces. Clean bottom third.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D49 First Day of School Tomorrow\n**Key Verified Facts:**\n- [HIGH] D49 (Falcon School District 49): Kindergarteners, 6th graders, and 9th graders start Monday, August 3, 2026\n- [HIGH] All other D49 students start Tuesday, August 4, 2026\n- [HIGH] Staggered start designed to give transition-year students (new to a building) a lower-pressure first day\n- [HIGH] D49 Student Success Center also opens this week at the former Falcon Elementary School of Technology\n- [HIGH] SSC programs: Full-time preschool (Mon–Thu), PEAK (disabilities support), Elevates 18–21 (transition services), BASE49\n- [MEDIUM] The SSC preschool is available districtwide for staff and families\n- [HIGH] Source: d49.org official district updates; confirmed via Springs Daily back-to-school article\n**Confidence Table:**\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| D49 Aug 3 (K/6/9) and Aug 4 (all others) | HIGH | d49.org, Springs Daily |\n| SSC at former Falcon Elementary location | HIGH | d49.org district update |\n| SSC programs: preschool Mon–Thu, PEAK, Elevates, BASE49 | HIGH | d49.org official post |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "CPSC Recalls: B. Childhood Strollers, Bellabu Bear Kids' Robes, Golden Link LED Cups",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Three new CPSC recalls and warnings parents in Colorado Springs should know about this weekend. B. Childhood strollers sold on SHEIN: stop use immediately due to entrapment hazard (opening between seat and grab bar can trap an infant). Bellabu Bear children's robes (sold at Saks Fifth Avenue and online): recalled for burn hazard, violating mandatory sleepwear standards. Golden Link Fantastic Four cups and Captain America containers with LED lights: recalled due to serious injury/death risk from button battery ingestion. All three are products that may be in COS homes.",
+      "posting_window": "10:00 AM MT",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Three recalls to check: B. Childhood strollers (entrapment — stop use now), Bellabu Bear kids' robes (burn hazard), Golden Link LED superhero cups (battery ingestion). Details at cpsc.gov/Recalls. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "10:00 AM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 256
+        },
+        {
+          "label": "Post 2-2",
+          "text": "CPSC warning: B. Childhood strollers sold on SHEIN pose an entrapment hazard. The opening between the seat and grab bar can trap an infant. Stop use immediately. Details at cpsc.gov/Recalls. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "10:00 AM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "Three products you'll want to check if you have them at home.\n\nFirst: B. Childhood \"High Landscape\" strollers sold on SHEIN. The CPSC has issued a stop-use warning because an opening between the seat and the grab bar can allow an infant to become entrapped. If you have one of these strollers, stop using it immediately and check cpsc.gov/Recalls for the full notice and remedy information.\n\nSecond: Bellabu Bear children's robes. These were sold at Saks Fifth Avenue and through online retailers between January 2024 and July 2025. They've been recalled for a burn hazard — the robes don't meet mandatory standards for children's sleepwear. Contact information for the recall is on the CPSC site.\n\nThird: Golden Link Fantastic Four cups and Captain America containers with LED lights. The button batteries in the LED components pose a serious risk of injury or death if a child ingests one. These are sold as cups and food containers — the kind that might look like a kid's water bottle or snack holder.\n\nIf you're unsure whether something you own has been recalled, cpsc.gov/Recalls has a full searchable database. The CPSC also has a free recall alert system you can subscribe to at their site.\n\nHave you ever had a product you owned get recalled? What did the process of getting a refund or replacement look like?\n\n---",
+        "image_caption": "Three CPSC recalls parents should know about this weekend: B. Childhood strollers (entrapment hazard), Bellabu Bear kids' robes (burn hazard), Golden Link LED cups (battery ingestion risk). Full details at cpsc.gov/Recalls.",
+        "posting_time": "10:00 AM MT"
+      },
+      "article": {
+        "filename": "article-02-cpsc-recalls-strollers-robes-cups.html",
+        "headline": "Three Product Recalls COS Parents Should Know About This Weekend",
+        "word_count": 521
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "CPSC Recalls\n\n**x_image** (1080×1350)\nFlat lay of child safety items — a baby monitor, outlet covers, cabinet locks — on a clean white background with soft shadows. A red warning icon subtly integrated. Clean bottom third for text overlay.\n\n**facebook_image** (1080×1350)\nClose-up of a parent's hands carefully inspecting a children's product (generic robe or cup) at a kitchen table, safety checklist visible in soft focus in the background. Neutral home setting. Clean bottom third.\n\n**article_hero** (1200×630)\nWide, clean flat-lay top-down view of various children's products on a white surface — a folded garment, a cup, a generic stroller — with a subtle red caution overlay in the corner. No branding. Clean and informative look.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "CPSC Recalls\n**Key Verified Facts:**\n- [HIGH] B. Childhood \"High Landscape\" strollers sold on shein.com: CPSC warning to stop use immediately; entrapment hazard — opening between seat and grab bar can allow infant to become entrapped; violates mandatory standard for strollers\n- [HIGH] Bellabu Bear children's robes: recalled for burn hazard; violates mandatory standards for children's sleepwear; sold at Saks Fifth Avenue and online retailers; sold January 2024–July 2025\n- [HIGH] Golden Link Fantastic Four cups and Captain America containers with LED lights: recalled due to risk of serious injury or death from battery ingestion hazard (button batteries)\n- [HIGH] Source: cpsc.gov official recall listings\n**Confidence Table:**\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| B. Childhood strollers — entrapment hazard warning | HIGH | cpsc.gov |\n| Bellabu Bear robes — burn hazard recall | HIGH | cpsc.gov |\n| Golden Link LED cups — battery ingestion recall | HIGH | cpsc.gov |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "D11 Board Votes Tuesday on $775M Bond — First in Over 20 Years",
+      "tier": 2,
+      "status": "",
+      "angle": "Colorado Springs School District 11's board of education meets Tuesday, August 5 at 5:30 PM to vote on whether to place a $775 million bond measure on the November 2026 ballot. If approved by the board, voters will decide in November. The bond would fund HVAC upgrades, safety improvements, school modernizations, and new construction — the first major D11 bond effort in over 20 years. Cost to homeowners: approximately $6.50/month per $100,000 of assessed property value. D11's first day of school is August 12, one week from Tuesday.",
+      "posting_window": "12:00 PM MT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "D11 board meets Tuesday Aug. 5 at 5:30 p.m. to vote on a $775M bond for the November ballot. It would fund HVAC, safety upgrades, and school renovations — D11's first major bond in 20+ years. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "12:00 PM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": {
+        "long_form": "Colorado Springs School District 11's board of education meets this Tuesday, August 5, at 5:30 p.m. On the agenda: a vote on whether to place a $775 million bond measure on the November 2026 ballot.\n\nIf the board votes yes, voters will decide in November whether to approve the bond. The money would fund facility improvements across D11 schools — HVAC upgrades in buildings that have gone decades without them, safety and security upgrades, school modernizations, and new construction where needed.\n\nFor context: this would be D11's first major bond measure in more than 20 years. The estimated cost to homeowners is roughly $6.50 per month for every $100,000 of assessed property value.\n\nD11's first day of school is August 12 — just one week after Tuesday's vote. Whatever the board decides, families will be heading back to those same buildings in 10 days.\n\nIf you want to learn more before Tuesday, d112026bondplanning.com has information about what the bond would fund and why D11 says it's needed. The board meeting is public, and the vote is typically the final agenda item.\n\nWould you support a $775M bond measure for D11 school improvements, or do you have concerns about the price tag?\n\n---",
+        "image_caption": "D11 board meets Tuesday Aug. 5 at 5:30 p.m. to vote on placing a $775M bond on the November ballot. First major D11 bond in 20+ years — would fund HVAC, safety upgrades, and school renovations.",
+        "posting_time": "12:00 PM MT"
+      },
+      "article": {
+        "filename": "article-03-d11-bond-vote-tuesday-august-5.html",
+        "headline": "D11 Board Votes Tuesday on $775M Bond That Would Fund School Renovations",
+        "word_count": 508
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D11 Bond Vote Tuesday\n\n**x_image** (1080×1350)\nExterior of a classic brick school building on a sunny afternoon — American flag visible, clear Colorado sky, no students in frame. Dignified, civic tone. Clean bottom third.\n\n**facebook_image** (1080×1350)\nInside an empty school hallway — rows of lockers, clean floors, natural light streaming from a window at the end. Sense of possibility and infrastructure. Clean bottom third.\n\n**article_hero** (1200×630)\nWide exterior shot of a large school campus — sprawling building, well-kept grounds, Colorado foothills in the background. No identifiable logos. Civic, forward-looking tone.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D11 Bond Vote\n**Key Verified Facts:**\n- [HIGH] D11 board of education meets Tuesday, August 5, 2026 at 5:30 PM to vote on placing bond on November ballot\n- [HIGH] Bond amount: $775 million\n- [HIGH] Purpose: school facility improvements, HVAC, safety upgrades, school modernizations, new construction\n- [HIGH] First major D11 bond in over 20 years (since approximately 2004)\n- [MEDIUM] Estimated cost to homeowners: ~$6.50/month per $100,000 of assessed property value\n- [HIGH] D11 first day of school: August 12, 2026\n- [HIGH] Source: Colorado Springs Gazette (July 29, 2026), KRDO, KOAA, d11.org, d112026bondplanning.com\n**Confidence Table:**\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Board meeting Aug. 5, 5:30 PM | HIGH | KOAA, d11.org |\n| $775 million bond amount | HIGH | Gazette, KRDO, KOAA |\n| First bond in 20+ years | HIGH | Multiple local sources |\n| ~$6.50/month per $100K | MEDIUM | Single source (KRDO/Gazette) |\n| D11 first day Aug. 12 | HIGH | d11.org student calendar |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Last Weekend Events Before School — Renaissance Festival Final Day and Sunday Market",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Today is the final day of the Colorado Renaissance Festival (through August 2 at 650 W Perry Park Ave, Larkspur — between Denver and Colorado Springs on I-25). The festival runs 10 a.m.–6:30 p.m. and is open to all ages. Tomorrow, Sunday August 3: Colorado Springs Sunday Market at Acacia Park (9 a.m.–2 p.m., free to attend, 60+ vendors, live music, local produce, artisan goods). The U.S. Olympic and Paralympic Hall of Fame offers guided experiences daily starting at noon throughout August. With D49 starting Monday, this is the last free family weekend before the school year kicks off.",
+      "posting_window": "3:00 PM MT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Last weekend before D49 starts Monday. Today: Renaissance Festival final day at Larkspur, 10 a.m.–6:30 p.m. Tomorrow: COS Sunday Market at Acacia Park, 9 a.m.–2 p.m., free, 60+ vendors. Get it in. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "3:00 PM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "One more weekend before D49 kicks off the school year on Monday. If you're looking for a way to fill it, here are two good options within reach.\n\nToday — Sunday, August 2 — is the final day of the Colorado Renaissance Festival at 650 W Perry Park Ave in Larkspur, which is right on I-25 between Colorado Springs and Denver. It runs until 6:30 p.m. If you've been saying you'd go this summer and haven't yet, today's your last shot. The festival has medieval entertainment, crafts, food, and activities for all ages.\n\nTomorrow — Sunday, August 3 — the Colorado Springs Sunday Market runs at Acacia Park from 9 a.m. to 2 p.m. More than 60 vendors, local produce, artisan goods, live music. It's free to attend and a genuinely pleasant way to spend a Sunday morning before the week-of-school chaos begins.\n\nIf you'd rather something lower-key, the U.S. Olympic and Paralympic Hall of Fame offers guided experiences starting at noon daily through August. It's a good rainy-day backup plan or a short trip that doesn't require half your Sunday.\n\nD49 families, this is technically the last weekend of summer. Make it count.\n\nWhat's your family doing to close out summer before school starts?\n\n---",
+        "image_caption": "Today is the last day of the Colorado Renaissance Festival at Larkspur (10 a.m.–6:30 p.m.). Tomorrow: COS Sunday Market at Acacia Park (9 a.m.–2 p.m., free, 60+ vendors). One more weekend before school starts for D49.",
+        "posting_time": "3:00 PM MT"
+      },
+      "article": {
+        "filename": "article-04-weekend-events-renaissance-festival-sunday-market.html",
+        "headline": "Last Weekend Picks Before D49 School Starts Monday — COS Family Events Today and Tomorrow",
+        "word_count": 453
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Weekend Events Before School\n\n**x_image** (1080×1350)\nA family of four browsing an outdoor market — colorful vendor tents, fresh produce, smiling faces (generic, non-identifiable), Colorado mountain backdrop in the distance. Sunny summer morning feel. Clean bottom third.\n\n**facebook_image** (1080×1350)\nTwo children in medieval costume — tunics and simple crowns — laughing and eating giant turkey legs at an outdoor festival. Fun, festive, summer energy. No identifiable faces. Clean bottom third.\n\n**article_hero** (1200×630)\nWide shot of a vibrant outdoor farmers/artisan market in a Colorado town square — colorful tents, bustling crowd, mountains visible in the distance. Bright summer colors. Clean bottom third.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Weekend Events\n**Key Verified Facts:**\n- [HIGH] Colorado Renaissance Festival: final day is Sunday August 2, 2026 (season runs June 13–August 2)\n- [HIGH] Location: 650 W Perry Park Ave, Larkspur, CO (between Denver and Colorado Springs on I-25)\n- [HIGH] Hours: 10 a.m.–6:30 p.m. daily\n- [HIGH] Colorado Springs Sunday Market: continues at Acacia Park; hours 9 a.m.–2 p.m.; 60+ vendors; live music, produce, artisan goods\n- [HIGH] The Sunday Market runs Sundays through the summer season\n- [MEDIUM] U.S. Olympic and Paralympic Hall of Fame: guided experiences daily starting at noon through August\n- [HIGH] Source: visitcos.com, koaa.com events guide, uncovercolorado.com\n**Confidence Table:**\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Renaissance Festival Aug. 2 final day at Larkspur | HIGH | visitcos.com, uncovercolorado |\n| Hours 10 a.m.–6:30 p.m. | HIGH | koaa.com events guide |\n| Sunday Market at Acacia Park, 9 a.m.–2 p.m. | HIGH | Multiple COS sources |\n| 60+ vendors Sunday Market | HIGH | Visit COS |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "COS School Start Dates 2026 — All Three Districts at a Glance",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Quick reference for Colorado Springs families: D49 begins Monday Aug. 3 (K/6th/9th grade) and Tuesday Aug. 4 (all others); D11 first day is August 12; D20 (Academy School District 20) students begin August 17–18. Three districts, three start dates across 15 days. With D49 going first, D11 one week later, and D20 two weeks after that, COS parents stagger back-to-school weekends throughout August. Back-to-school supply tips and what families should confirm before the first day.",
+      "posting_window": "6:00 PM MT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "COS school start dates 2026: D49 → Aug. 3 (K/6th/9th grade) + Aug. 4 (everyone else). D11 → Aug. 12. D20 → Aug. 17. Tag a COS parent who needs this. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "6:00 PM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 208
+        }
+      ],
+      "facebook": {
+        "long_form": "If you're still not sure exactly when school starts in Colorado Springs this year, here's a quick-reference breakdown.\n\nD49 (Falcon School District 49): Kindergarteners, 6th graders, and 9th graders — kids entering a new school building for the first time — start this Monday, August 3. All other D49 students start Tuesday, August 4.\n\nD11 (Colorado Springs School District 11): First day is August 12.\n\nD20 (Academy School District 20): Student first day is August 17–18. (Worth noting: August 13 is a staff and professional development day — you may see that date referenced, but students don't start until the 17th.)\n\nThat means three different first-day weekends across about two weeks: D49 families gear up now, D11 families have 10 days, and D20 families have until August 16 to hit the back-to-school checklist.\n\nBefore the first day, it's worth double-checking: supply list completed, emergency contacts updated in your school's system, transportation route confirmed (especially if the route changed from last year), and school start/end times verified — many schools adjust those slightly from year to year.\n\nWhich district are you in — and are you feeling ready or are you scrambling?\n\n---",
+        "image_caption": "COS school start dates 2026: D49 starts Aug. 3–4 (staggered), D11 starts Aug. 12, D20 students start Aug. 17. Three districts, three different first-day weekends.",
+        "posting_time": "6:00 PM MT"
+      },
+      "article": {
+        "filename": "article-05-cos-school-start-dates-2026.html",
+        "headline": "When Does School Start in Colorado Springs? D49, D11, and D20 Dates for 2026",
+        "word_count": 449
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "COS School Start Dates\n\n**x_image** (1080×1350)\nA colorful wall calendar page showing August 2026 — three dates circled in different colors (Aug 3, Aug 12, Aug 17) with school supply icons around the border. Clean, graphic, easy to read. Clean bottom third for text overlay.\n\n**facebook_image** (1080×1350)\nFlat lay of back-to-school supplies on a light wood desk — notebooks, pencils, a backpack, a ruler — arranged neatly. Warm, organized feel. Clean bottom third.\n\n**article_hero** (1200×630)\nWide shot of a school bus parked in front of a school at sunrise — Colorado foothills visible in the background, golden morning light. Classic back-to-school image. No faces visible."
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "COS School Start Dates\n**Key Verified Facts:**\n- [HIGH] D49: Aug. 3 (K/6th/9th graders), Aug. 4 (all other students) — confirmed from d49.org\n- [HIGH] D11: Aug. 12, 2026 — first day of school (from d11.org student calendar)\n- [HIGH] D20: Aug. 17–18, 2026 (corrected from incorrect \"Aug. 13\" circulating online — Aug. 13 is staff start; student first day is Aug. 17-18, per asd20.org official calendar confirmed in Aug. 1 pipeline)\n- [MEDIUM] General back-to-school prep tips: confirm bus routes, verify school supply lists, update emergency contacts, review school start/end times\n- [HIGH] Source: d49.org, d11.org student calendar PDF, asd20.org official calendar (verified Aug. 1)\n**Confidence Table:**\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| D49 Aug. 3/4 staggered start | HIGH | d49.org official |\n| D11 Aug. 12 first day | HIGH | d11.org student calendar |\n| D20 Aug. 17-18 student first day | HIGH | asd20.org (verified Aug. 1 correction) |",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

@@ -2,6 +2,50 @@
 
 ---
 
+## August 2, 2026
+
+### Story 1: D49 First Day of School Is Tomorrow — August 3 for Kindergarteners, 6th, and 9th Graders
+- **Date:** 2026-08-02
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (Aug 1 covered SSC opening specifically; today's angle is first-day-of-school eve/countdown) — D49 first day tomorrow: K/6th/9th graders start Aug. 3, all others Aug. 4. Staggered two-day start gives transition-year students lower-pressure first day. D49 SSC also opens this week at former Falcon Elementary School of Technology.
+- **Content Produced:** Article (Jamie Rivera), 2 X posts, Facebook Long-Form, Facebook Image Caption, Image Concept (x_image + facebook_image + article_hero)
+- **Tier:** 1
+- **Key Facts:** D49 Aug. 3 (K/6th/9th), Aug. 4 (all others); staggered start design: transition-year students get building to themselves on day 1; D49 SSC opens this week: preschool Mon–Thu districtwide, PEAK, Elevates 18–21, BASE49; Sources: d49.org, Springs Daily back-to-school coverage
+
+### Story 2: Three CPSC Recalls — B. Childhood Strollers, Bellabu Bear Kids' Robes, Golden Link LED Cups
+- **Date:** 2026-08-02
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (Aug 1 covered VEVOR baby swings, NFSVLB bath seats, Ocensmice magnets — different products) — B. Childhood "High Landscape" strollers on SHEIN: stop-use warning, entrapment hazard (opening between seat/grab bar); Bellabu Bear children's robes: recall for burn hazard (mandatory sleepwear standard violation), sold Saks/online Jan 2024–Jul 2025; Golden Link Fantastic Four cups and Captain America containers: recall for button battery ingestion risk (serious injury/death).
+- **Content Produced:** Article (Sarah Morales), 2 X posts, Facebook Long-Form, Facebook Image Caption, Image Concept (x_image + facebook_image + article_hero)
+- **Tier:** 2
+- **Key Facts:** B. Childhood strollers: SHEIN, stop-use immediately, entrapment hazard; Bellabu Bear robes: Saks/online, Jan 2024–Jul 2025, burn hazard, mandatory sleepwear standard; Golden Link LED cups: Fantastic Four/Captain America, button battery ingestion, serious injury/death risk; all: cpsc.gov/Recalls; Sources: cpsc.gov official recall listings
+
+### Story 3: D11 Board Votes Tuesday on $775M Bond — First in Over 20 Years
+- **Date:** 2026-08-02
+- **Content Pillar:** Local News
+- **Angle:** FOLLOW-UP from Aug 1 S5 (D11 bond vote countdown, Jenkins Middle School context) — New angle: vote is 3 days out + homeowner cost breakdown ($6.50/mo per $100K). Board meets Aug. 5 at 5:30 p.m. Bond: $775M for HVAC, safety upgrades, modernizations, new construction. D11 first day Aug. 12 — one week after vote.
+- **Content Produced:** Article (Jamie Rivera), 1 X post, Facebook Long-Form, Facebook Image Caption, Image Concept (x_image + facebook_image + article_hero)
+- **Tier:** 2
+- **Key Facts:** D11 board vote: Aug. 5, 5:30 PM; bond: $775M; uses: HVAC, safety, modernizations, new construction; first major D11 bond in 20+ years; cost: ~$6.50/month per $100K assessed value; D11 first day: Aug. 12; d112026bondplanning.com; Sources: Colorado Springs Gazette (Jul 29), KRDO, KOAA, d11.org
+
+### Story 4: Last Weekend Events Before School — Renaissance Festival Final Day and Sunday Market
+- **Date:** 2026-08-02
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Final day Colorado Renaissance Festival (Aug. 2, Larkspur, 10 a.m.–6:30 p.m., all ages). Tomorrow: COS Sunday Market at Acacia Park (Aug. 3, 9 a.m.–2 p.m., free, 60+ vendors). Also: USOPFM guided experiences daily from noon through August. D49 starts Monday — last free family weekend.
+- **Content Produced:** Article (Sarah Morales), 1 X post, Facebook Long-Form, Facebook Image Caption, Image Concept (x_image + facebook_image + article_hero)
+- **Tier:** 2
+- **Key Facts:** Renaissance Festival: Aug. 2 final day, 650 W Perry Park Ave Larkspur, 10 a.m.–6:30 p.m.; COS Sunday Market: Aug. 3, Acacia Park, 9 a.m.–2 p.m., free, 60+ vendors; USOPFM: guided experiences noon daily through August; Sources: visitcos.com, koaa.com events guide, uncovercolorado.com
+
+### Story 5: COS School Start Dates 2026 — All Three Districts at a Glance
+- **Date:** 2026-08-02
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (Aug 1 covered D20 date correction; today's angle is all-districts roundup with practical prep) — D49: Aug. 3 (K/6th/9th) + Aug. 4 (all others); D11: Aug. 12; D20: Aug. 17-18 (students — not Aug. 13 which is staff/PD day). Three districts, three start weekends across 15 days. Back-to-school prep checklist.
+- **Content Produced:** Article (Jamie Rivera), 1 X post, Facebook Long-Form, Facebook Image Caption, Image Concept (x_image + facebook_image + article_hero)
+- **Tier:** 2
+- **Key Facts:** D49: Aug. 3 (K/6th/9th), Aug. 4 (all); D11: Aug. 12; D20: Aug. 17-18 students (Aug. 13 is staff-only); Sources: d49.org, d11.org student calendar, asd20.org (D20 date verified Aug. 1 correction)
+
+---
+
 ## August 1, 2026
 
 ### Story 1: D49 Student Success Center Opens Monday, August 3
