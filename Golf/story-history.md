@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-08-02
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-08-02 | T1 | Davis Riley Wins the Final-Ever Rocket Classic at Detroit Golf Club | X, FB, Article | NEW |
+| 2026-08-02 | T1 | AIG Women's Open Final Round — Yealimi Noh Leads at -7 as Ryu Faces a Historic Comeback | X, FB, Article | FOLLOW UP |
+| 2026-08-02 | T2 | FedExCup Bubble Reshuffled: Koepka Out With Ulnar Nerve Injury, Wyndham Is the Last Chance | X, FB, Article | FOLLOW UP |
+| 2026-08-02 | T2 | Wyndham Championship Preview — $8.5M, Last Regular-Season Stop Before Playoffs | X, FB, Article | FOLLOW UP |
+| 2026-08-02 | T2 | LIV Bedminster Four Days Away — 13 Major Champions, Future Still Uncertain | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Davis Riley Wins the Final-Ever Rocket Classic at Detroit Golf Club
+- **Tier:** 1
+- **Category:** PGA Tour / Rocket Classic / FedExCup
+- **Key facts:** Davis Riley won at -15, 1 shot over Michael Brennan (-14); closing 63 in final round; 54-foot birdie on hole 17, 10-footer on hole 18; entered week 146th in FedExCup with 139 points; 500 FedExCup points and $1.8M winner's share; vaults into approximately 50-60th in standings; his first PGA Tour win in 2+ years; final-ever Rocket Classic (Rocket Companies exiting sponsorship after 2026); Detroit Golf Club is a Donald Ross 1914 design; Cameron Young and Patrick Cantlay had co-led through R2/R3 but both fell Sunday
+- **Status:** NEW
+- **Follow-up ideas:** FedExCup standings update post-Rocket Classic; Detroit Golf Club's future; replacement event for 2027
+
+### STORY 2: AIG Women's Open Final Round — Yealimi Noh Leads at -7
+- **Tier:** 1
+- **Category:** LPGA / AIG Women's Open / Women's Majors
+- **Key facts:** Yealimi Noh leads at -7, 3 shots clear entering final round; R3 three consecutive birdies from par-3 9th; T2 at -4: Esther Henseleit, Lucy Li, Jeeno Thitikul, Haeran Ryu, Shiho Kuwaki; Ryu collapsed with 5 bogeys in 8-hole stretch in R3; Nelly Korda effectively out (two double bogeys in R3 incl. 18th, ~8 shots back); Ryu won KPMG + Evian — third major would match Inbee Park 2013 record; Korda won ANA Chevron + US Women's Open; venue: Royal Lytham & St Annes; final round Sunday Aug 2; $10M purse (record women's major); Charley Hull and Lottie Woad in contention; FINAL RESULT NOT YET CONFIRMED (tournament in progress when content created)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Final round winner confirmation; historic record tracking; winner coverage
+
+### STORY 3: FedExCup Bubble After Rocket Classic
+- **Tier:** 2
+- **Category:** PGA Tour / FedExCup / Bubble Watch
+- **Key facts:** Brooks Koepka WD from Rocket Classic with ulnar nerve injury (left hand grip sensation); was 84th in FedExCup; previously forced WD from RBC Canadian Open final round same injury; missed cuts at US Open and Scottish Open; T-28 at The Open; Riley 500 pts vaults from 146th to ~50-60th; Jason Day also withdrew Rocket Classic; pre-Rocket standings: Koivun ~70th (~535 pts), Bradley ~76th, Koepka ~84th, Finau ~87th; Koepka confirmed entry Wyndham as last shot; Wyndham also has Finau, Matsuyama, Berger, Spieth, Thomas; Wyndham is 34th and final regular-season event; top 70 advance to FedEx St. Jude (Memphis, Aug 13-16, TPC Southwind)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Post-Wyndham bubble final; Koepka result in Greensboro; St. Jude field
+
+### STORY 4: Wyndham Championship Preview
+- **Tier:** 2
+- **Category:** PGA Tour / Wyndham Championship / FedExCup
+- **Key facts:** Dates August 5-9 (competitive rounds Aug 6-9); venue Sedgefield Country Club, Greensboro NC; purse $8.5M; winner's share ~$1.53M; 500 FedExCup points for winner; 34th and final regular-season event; top 70 → FedEx St. Jude Aug 13-16 Memphis; winner earns 2-year Tour exemption + invites to Sentry, PLAYERS, Masters, PGA; field: Koepka, Finau, Spieth, Thomas, Matsuyama, Berger; Wyndham has served as regular-season finale since 2008
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Final standings after Wyndham; who made/missed playoffs; tournament winner
+
+### STORY 5: LIV Bedminster Four Days Away
+- **Tier:** 2
+- **Category:** LIV Golf / Business / Bedminster
+- **Key facts:** LIV Golf New York at Trump National Bedminster Aug 6-9 (4 days from Aug 2); 57 players, 13 major champions, 23 combined majors; major champions: Smith, Rahm, DeChambeau, Niemann, Hatton, Johnson, Reed, Mickelson, Watson, Garcia; O'Neil hasn't guaranteed remaining events; two events already cancelled 2026 (New Orleans, Michigan); PIF exiting LIV funding after 2026; LIV sought $250-350M outside investment; Indianapolis Aug 20-23 is the final 2026 LIV event
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Bedminster event result; Indianapolis status; post-2026 LIV structure announcement
+
 ## 2026-08-01
 
 | Date | Tier | Story | Platforms | Status |

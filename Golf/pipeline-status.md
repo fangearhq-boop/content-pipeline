@@ -1,10 +1,21 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
-- **Date**: 2026-08-01
-- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish skipped — credentials not set; git committed and pushed)
+- **Date**: 2026-08-02
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-08-02
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters (longest: 275 chars)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Marcus Cole)
+- **PostPlanner exports:** gfr-postplanner-2026-08-02.xlsx (7 posts) + gfr-postplanner-tobi-2026-08-02.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-08-02/review-dashboard.html (22 items)
+- **Notes:** ROCKET CLASSIC FINAL — Davis Riley wins at -15, 1 shot over Michael Brennan; closing 63; 54-ft birdie on 17, 10-ft on 18; Riley was 146th FedExCup (139 pts), 500 pts vaults him to ~50-60th; first PGA Tour win in 2+ years; final-ever Rocket Classic (Rocket Companies exiting); Cameron Young/Cantlay fell Sunday; AIG WOMEN'S OPEN FINAL ROUND — Yealimi Noh leads at -7 (3-shot lead entering final round); R3 three consecutive birdies from par-3 9th; T2 at -4: Henseleit, Lucy Li, Thitikul, Ryu, Kuwaki; Ryu collapsed (5 bogeys in 8 holes R3); Korda ~8 back (two double bogeys R3 incl. 18th), out of contention; Royal Lytham & St Annes; $10M record purse; FINAL RESULT NOT CONFIRMED (tournament in progress when content created); FEDEXCUP BUBBLE — Koepka WD Rocket Classic (ulnar nerve injury, left hand); was 84th; Riley 500 pts vaults from 146th; Day also withdrew; Koivun ~70th; Finau 87th; Bradley 76th; Koepka + Finau confirmed Wyndham; also Spieth, Thomas, Matsuyama, Berger; WYNDHAM — Aug 6-9 at Sedgefield CC; $8.5M; 500 pts; last regular-season event; top 70 → St. Jude Memphis Aug 13-16; LIV BEDMINSTER — Aug 6-9 at Trump National; 57 players, 13 major champions, 23 combined majors; O'Neil still hasn't guaranteed; 2 events cancelled (New Orleans + Michigan); PIF exiting after 2026; Indianapolis Aug 20-23 final event
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-08-01
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish skipped — WP credentials not in environment)
