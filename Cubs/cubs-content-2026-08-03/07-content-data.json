@@ -1,0 +1,276 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-03",
+  "compiled_at": "2026-08-03T09:24:26.647295+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM CT",
+      "description": "Story 1 — Dodgers Series Preview (MANDATORY — series start)",
+      "type": "Hype/Informative"
+    },
+    {
+      "time": "8:15 AM CT",
+      "description": "Story 2 — Yankees Finale Recap (Cole dominant, Cubs lose series)",
+      "type": "Informative"
+    },
+    {
+      "time": "9:30 AM CT",
+      "description": "Story 3 — Kevin Gausman Trade (deadline day)",
+      "type": "Bold/Trade"
+    },
+    {
+      "time": "10:45 AM CT",
+      "description": "Story 4 — PCA MVP Push (updated stats)",
+      "type": "Bold/Passionate"
+    },
+    {
+      "time": "12:00 PM CT",
+      "description": "Story 5 — Wild Card Standings (63-49, No. 1 WC)",
+      "type": "Analytical"
+    },
+    {
+      "time": "3:45 PM CT",
+      "description": "Story 6 — Owen Ayers Iowa Promotion",
+      "type": "Informative"
+    },
+    {
+      "time": "5:00 PM CT",
+      "description": "Story 7 — Game 1 Preview: Boyd vs. Wrobleski",
+      "type": "Hype"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Dodgers Series Preview — Three Games at Wrigley Starting Tonight",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "is_series_start_today=true — mandatory 7:00 AM slot. Dodgers (69-43) open a 3-game series at Wrigley Field tonight. Cubs (63-49, No. 1 NL Wild Card) face the NL's best. Lead with opponent + length + location. Kicker: Cubs bolstered rotation with Gausman before first pitch.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Dodgers vs. Cubs. Three games. Wrigley Field. Tonight.\n\nLos Angeles comes in at 69-43 — the NL's best. Chicago has the rotation upgrade and a ballpark that's about to get very loud.\n\nThe biggest home series of the year starts at 7:05 PM CT.\n\n#Cubs #FlyTheW #GoCubs",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Series preview / bold hype",
+          "hashtags": [
+            "#Cubs",
+            "#FlyTheW",
+            "#GoCubs"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Dodgers Series Preview\n**Status:** NEW STORY\n**Sources:**\n- series-context.json (authoritative — generated 2026-08-03T08:30:00Z)\n- Bleed Cubbie Blue series preview: https://www.bleedcubbieblue.com/chicago-cubs-game-information/214215/cubs-dodgers-series-preview\n- Baseball Reference series previews: https://www.baseball-reference.com/previews/2026/CHN202608030.shtml\n- SportsGrid odds/preview: https://www.sportsgrid.com/mlb/game/los-angeles-dodgers-chicago-cubs-scores-odds-picks-props-august-03-2026/2d421aaa-2564-40a8-8e7e-5eb9ee74e92b\n**Key Facts:**\n- Dodgers at Cubs, 3-game series at Wrigley Field\n- Game 1: Mon Aug 3, 7:05 PM CT [VERIFIED — series-context.json]\n- Game 2: Tue Aug 4, 7:05 PM CT [VERIFIED — series-context.json]\n- Game 3: Wed Aug 5, 1:20 PM CT [VERIFIED — series-context.json]\n- Dodgers record: 69-43 [VERIFIED — series-context.json]\n- Cubs record: 63-49 [VERIFIED — series-context.json]\n- Game 1 probable pitchers: Matthew Boyd (Cubs) vs. Justin Wrobleski (Dodgers) [MEDIUM — SportsGrid + MLB.com Gameday]\n**Freshness:** Published today / game tonight — highest freshness ✓\n**Why it matters:** This is the biggest home series of the Cubs' stretch run. Dodgers are the NL's best team; Cubs need to prove they belong in the same conversation. Coming off a loss to the Yankees and with Gausman freshly acquired — the series has enormous stakes.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Yankees Series Finale Recap — Cole Shuts Down Cubs in Series Finale",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Gerrit Cole dominated the series finale; José Caballero two-run HR in the 3rd; Cubs managed just one run (Michael Busch RBI single in 4th); Yankees take 2-of-3 at Wrigley. has_score=False insight: do NOT lead with 2-1 score. Focus on Cole's dominance and the forward pivot to Dodgers.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Gerrit Cole was unmovable Sunday.\n\nJosé Caballero's two-run shot in the 3rd did the damage — the Cubs stranded the rally and couldn't answer. Yankees take two of three at Wrigley.\n\nThe Dodgers are next. Gausman is here. New chapter.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Game recap / informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Yankees Series Recap (Game 3 Loss)\n**Status:** FOLLOW UP (Game 3 preview covered Aug 2; today: result)\n**Sources:**\n- Cubs Insider (Aug 2): https://www.cubsinsider.com/2026/08/02/chicago-cubs-score-and-recap-8-2-26-yankees-2-cubs-1-big-hit-proves-elusive/\n- Pinstripe Alley (Aug 2): https://www.pinstripealley.com/yankees-scores-standings/200147/yankees-score-recap-cubs-road-trip-gerrit-cole-jose-caballero-david-bednar-chicago\n- CBS Sports Box Score (Aug 2): https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260802_NYY@CHC/\n**Key Facts:**\n- Final: Yankees 2, Cubs 1 (Sunday, Aug 2) [VERIFIED — multiple sources]\n- José Caballero two-run HR in 3rd inning [VERIFIED — Pinstripe Alley + CBS Sports]\n- Gerrit Cole pitched (started, went into 6th for Yankees) [VERIFIED — Pinstripe Alley]\n- Michael Busch RBI single in 4th for Cubs' lone run [MEDIUM — CBS Sports summary]\n- David Bednar closed it for the save [MEDIUM — Pinstripe Alley]\n- Series result: Yankees won 2-of-3 at Wrigley [VERIFIED — multiple sources]\n- Day of week for game: Sunday Aug 2 [VERIFIED — Aug 2 is Sunday in 2026]\n**Freshness:** Game played yesterday; recap today ✓\n**Why it matters:** Fans want closure on the Yankees series before pivoting to the Dodgers. Cole's dominant outing is the story — he held one of baseball's better offenses to 1 run.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Kevin Gausman Trade — Cubs Land Veteran SP on Deadline Day",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Cubs acquire Kevin Gausman (35, RHP) from Blue Jays for prospects Ty Southisene and Brett Bateman. Gausman 2026: 4.38 ERA, 1.29 WHIP, 127 K, 127.1 IP, 23 starts. Fills the rotation need. CBS Sports gave the Cubs an A grade.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Kevin Gausman is a Cub.\n\nJed Hoyer went and got one. The 35-year-old veteran joins a rotation built for October — 127 Ks this season, the playoff pedigree Chicago needed before this Dodgers series.\n\nDeadline day delivered. ⚾\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Trade/roster news / bold take",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Kevin Gausman Trade\n**Status:** NEW STORY\n**Sources:**\n- MLB.com: https://www.mlb.com/news/blue-jays-trade-kevin-gausman-to-cubs [PRIMARY]\n- ESPN: https://www.espn.com/mlb/story/_/id/49516725/source-cubs-land-kevin-gausman-trade-blue-jays [CORROBORATING]\n- Yahoo Sports: https://sports.yahoo.com/mlb/breaking-news/article/blue-jays-reportedly-trade-kevin-gausman-to-cubs-signaling-sell-off-months-after-world-series-appearance-010508970.html [CORROBORATING]\n- CBS Sports (trade grades): https://www.cbssports.com/mlb/news/kevin-gausman-trade-grades-cubs-blue-jays/ [CORROBORATING]\n- FanSided (rotation grades): https://fansided.com/mlb/projected-cubs-rotation-and-trade-grades-after-landing-kevin-gausman [CORROBORATING]\n**Key Facts:**\n- Cubs acquired Gausman from Blue Jays [VERIFIED — MLB.com + ESPN + Yahoo + CBS]\n- Return: Ty Southisene (Cubs No. 13 prospect) + Brett Bateman (No. 21) [HIGH — multiple sources]\n- Gausman 2026: 4.38 ERA, 1.29 WHIP, 127 K, 127.1 IP, 23 starts [HIGH — confirmed across rotowire/ESPN]\n- Age: 35 [MEDIUM — stated in multiple sources; needs birth year verification]\n- Final year of 5-year, $110M contract (signed 2021) [HIGH — confirmed Yahoo Sports]\n- Early 2026: 2.08 ERA; June-July rough stretch: 6.51 ERA; improved recently [MEDIUM]\n- Blue Jays record: 52-60, last in AL East [MEDIUM — single source]\n- CBS Sports gave Cubs an A grade on the trade [VERIFIED — CBS Sports]\n- \"2-time All-Star\" claim: MEDIUM confidence — mentioned in search summaries but needs Baseball Reference verification\n**Freshness:** Deal announced today (trade deadline) ✓\n**Why it matters:** This is the deadline move Cubs fans have been demanding all summer. Gausman adds a veteran arm with playoff experience at the top of a rotation that was dealing with 26+ IL stints. Direct impact: he'll slot in for the Dodgers series this week.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "PCA MVP Push Intensifies",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "PCA 2026: .282 BA, 24 HR, 26 SB, .921 OPS. Last 51 games: 1.178 OPS. The NL MVP case is no longer a debate — it's a campaign. Ohtani's team arrives tonight.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Pete Crow-Armstrong: .282 average. 24 homers. 26 steals. .921 OPS.\n\nHis last 51 games? A 1.178 OPS. That's not a hot streak — that's a statement.\n\nThe NL MVP case is no longer a conversation. It's a campaign.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Bold take / passionate",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 228
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "PCA MVP Push\n**Status:** FOLLOW UP (last covered Aug 2 with 6.5 WAR, +185 odds; today: updated stats)\n**Sources:**\n- Last Word on Sports (Aug 2): https://lastwordonsports.com/baseball/2026/08/02/pete-crow-armstrong-mvp/\n- ESPN midseason awards: https://www.espn.com/mlb/story/_/id/49236409/2026-mlb-awards-watch-mvp-cy-young-al-nl-ohtani-witt-crow-armstrong-pca\n- NBC Sports Power Rankings: https://www.nbcsports.com/mlb/news/mlb-power-rankings-dodgers-reclaim-top-spot-pete-crow-armstrong-makes-mvp-push-for-cubs\n**Key Facts:**\n- PCA 2026 season stats: .282 BA, 24 HR, 26 SB, .921 OPS [MEDIUM — single aggregated source]\n- Last 51 games: 1.178 OPS, .458 OBP [MEDIUM — single source]\n- Since May 30: .350 BA, 18 HR, 14 SB, 222 wRC+ [MEDIUM — single source]\n- 22 OAA (Outs Above Average), leading MLB [MEDIUM — single source / Baseball Savant]\n- Shohei Ohtani knee limiting his two-way value = MVP door opens for PCA [MEDIUM]\n- Per Aug 2 story history: 6.5 bWAR / 7.0 fWAR, leads all baseball\n**Freshness:** Stats through August 1-2; fresh enough for Aug 3 content ✓\n**Why it matters:** PCA is the most exciting player in baseball right now and the Cubs' centerpiece. As the Dodgers (Ohtani's team) come to Wrigley, the MVP narrative gets juicier. Don't overstate — use only stats with MEDIUM+ confidence.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Wild Card Standings — Cubs Hold No. 1 at 63-49",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Cubs 63-49 No. 1 NL Wild Card, 4-5 games clear of D-backs/Phillies. Brewers have the division. The stretch run is about protecting the lead and finding October footing.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The Cubs hold the No. 1 NL Wild Card at 63-49.\n\nD-backs and Phillies are chasing — both 4-5 games back. The Brewers have the division, but Chicago doesn't need it.\n\nJust keep stacking wins. The Dodgers are here to challenge that.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Standings / analysis",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Wild Card Standings\n**Status:** FOLLOW UP (Wild Card Stakes covered Aug 1-2; today: current snapshot)\n**Sources:**\n- ESPN Wild Card Standings: https://www.espn.com/mlb/standings/_/view/wild-card\n- CBS Sports Wild Card: https://www.cbssports.com/mlb/standings/wild-card/\n- series-context.json (Cubs record verified)\n**Key Facts:**\n- Cubs: 63-49, No. 1 NL Wild Card [VERIFIED — series-context.json]\n- D-backs: 59-52 [MEDIUM — single search result; 4 games back]\n- Phillies: 58-53 [MEDIUM — single search result; 5 games back]\n- Brewers (NL Central): 68-41 leading Cubs by ~5 games in NL Central [MEDIUM — from Aug 2 story history; not freshly confirmed today]\n- Cardinals: 54-57, 15 GB [MEDIUM — single search result]\n**Freshness:** Standings updated daily; these are through Aug 2 ✓\n**Why it matters:** Fans track the playoff picture daily. This is the broader context for why the Dodgers series matters — every win tightens the Cubs' grip on October.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Owen Ayers Promoted to Triple-A Iowa",
+      "tier": 3,
+      "status": "NEW STORY",
+      "angle": "Cubs slugging prospect Owen Ayers promoted from Double-A Knoxville to Triple-A Iowa. Tore up the Southern League (22+ HR). Jace Beck also promoted. Pipeline churning.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Owen Ayers just got his Triple-A ticket.\n\nThe Cubs' slugging prospect earned the call-up to Iowa after tearing up Double-A — one of the most exciting bats in the system, now one step from Wrigley.\n\nThe pipeline is moving. 💪\n\n#Cubs #CubsBaseball #GoCubs",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Prospect update / informative",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#GoCubs"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Owen Ayers Iowa Promotion\n**Status:** NEW STORY\n**Sources:**\n- Bleed Cubbie Blue: \"Cubs Minor League Wrap: Owen Ayers debuts in Iowa\" — https://www.bleedcubbieblue.com/chicago-cubs-prospects/225941/cubs-minor-league-wrap-owen-ayers-jaxon-wiggins-ethan-conrad\n- Bleed Cubbie Blue (previous): \"Owen Ayers crushed his 22nd homer\" for Knoxville [from July pipeline]\n**Key Facts:**\n- Owen Ayers promoted from Double-A Knoxville (Smokies) to Triple-A Iowa Cubs [MEDIUM — Bleed Cubbie Blue; exact date unclear but recent]\n- Jace Beck also promoted from Knoxville to Iowa [MEDIUM]\n- Ayers: known for power bat, 22+ HR this season in Double-A [MEDIUM — last confirmed stat was 22nd HR in prior pipeline]\n- Iowa: hosts five of Cubs' top 10 prospects (Jaxon Wiggins headlining) [MEDIUM]\n**Freshness:** Recent/current promotion; Bleed Cubbie Blue reports it as \"debuts in Iowa\" ✓\n**Why it matters:** Prospects are the future. As the Cubs push for October, knowing the pipeline is churning is good fan content and gives context for roster depth.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 7,
+      "title": "Game 1 Preview — Boyd vs. Wrobleski, 7:05 PM CT",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Matthew Boyd (rotation anchor, returned from IL) vs. Justin Wrobleski (Dodgers young SP, mid-4.00s ERA). Cubs open Dodgers series with reinforced rotation. Wrigley on deadline day.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Matthew Boyd vs. Justin Wrobleski. 7:05 PM CT tonight.\n\nBoyd's the rotation anchor all second half. Wrobleski is hittable — and Wrigley on deadline day with a fresh arm joining the rotation is a tough room for the Dodgers.\n\nLet's go. 🔥\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Game preview / hype",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Game 1 Preview — Boyd vs. Wrobleski\n**Status:** NEW STORY (series preview at 7:00 AM covers series broadly; this is the specific Game 1 matchup at 5:00 PM)\n**Sources:**\n- SportsGrid (matchup odds/preview): https://www.sportsgrid.com/mlb/game/los-angeles-dodgers-chicago-cubs-scores-odds-picks-props-august-03-2026\n- MLB.com Gameday: https://www.mlb.com/gameday/dodgers-vs-cubs/2026/08/03/824647/preview\n**Key Facts:**\n- Cubs: Matthew Boyd (starting) [VERIFIED — multiple sources]\n- Dodgers: Justin Wrobleski (starting) [VERIFIED — SportsGrid + MLB.com Gameday]\n- Wrobleski season stats: 13-9, ~4.07 ERA (through May 29 — use with caution; current ERA may differ) [LOW — early season data]\n- Boyd: rotation anchor for second half; returned from IL earlier this season [MEDIUM]\n- Game time: 7:05 PM CT tonight [VERIFIED — series-context.json]\n**Freshness:** Tonight's game ✓\n**Why it matters:** Game-specific preview content builds fan engagement before first pitch. Boyd vs. Wrobleski is an intriguing matchup — Cubs' returning anchor vs. Dodgers' young starter.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

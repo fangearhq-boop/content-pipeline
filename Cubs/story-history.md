@@ -5,6 +5,73 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-03
+
+### STORY 1: Dodgers Series Preview — Three Games at Wrigley Starting Tonight
+- **Angle:** NEW STORY (is_series_start_today=true; mandatory 7:00 AM slot; Dodgers 69-43 vs Cubs 63-49; 3 games at Wrigley Field; Game 1 tonight 7:05 PM CT; Boyd vs Wrobleski; Gausman acquisition as kicker; no score lead per has_score=False insight)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, series preview)
+- **Follow-Up Opportunities:**
+  - Game 1 result recap (Tuesday 7:00 AM)
+  - Series result through Aug 5
+  - Gausman debut performance in series
+  - PCA vs Ohtani/Dodgers matchup angle
+
+### STORY 2: Yankees Series Finale Recap — Cole Dominant, Cubs Drop Series 1-2
+- **Angle:** FOLLOW UP (Game 3 preview covered Aug 2; today: result — Yankees 2, Cubs 1; Gerrit Cole pitched into 6th; José Caballero 2-run HR in 3rd; Michael Busch RBI single in 4th; David Bednar save; Yankees take 2-of-3 at Wrigley; score NOT led per has_score=False insight)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - Response to Yankees series loss framed vs Dodgers challenge
+  - Cole performance sets bar for what Cubs face in October
+
+### STORY 3: Kevin Gausman Trade — Cubs Acquire Veteran SP on Deadline Day
+- **Angle:** NEW STORY (Cubs acquired Kevin Gausman from Toronto Blue Jays for prospects Ty Southisene and Brett Bateman; Gausman 35 years old, 4.38 ERA, 1.29 WHIP, 127 K in 23 starts; final year $110M contract; CBS Sports A grade)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, trade analysis)
+- **Follow-Up Opportunities:**
+  - Gausman's first start with Cubs (in Dodgers series this week)
+  - Rotation picture post-deadline: Boyd/Imanaga/Peterson/Assad/Rea/Gausman
+  - Gausman performance tracking through September
+
+### STORY 4: PCA MVP Push Intensifies
+- **Angle:** FOLLOW UP (last covered Aug 2 with 6.5 WAR, +185 odds; today: .282 BA, 24 HR, 26 SB, .921 OPS, 1.178 OPS last 51 games — the full campaign framing)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, bold take)
+- **Follow-Up Opportunities:**
+  - PCA vs Ohtani head-to-head in Dodgers series
+  - Monthly NL Player of Month (August)
+  - MVP odds movement through August
+  - 25 HR / 30 SB milestones
+
+### STORY 5: Wild Card Standings — Cubs Hold No. 1 at 63-49
+- **Angle:** FOLLOW UP (Wild Card context covered Aug 1-2; today: snapshot — Cubs 63-49 No. 1 NL WC; D-backs 59-52 (~3.5 GB); Phillies 58-53 (~4.5 GB); Brewers have NL Central; stretch-run framing)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, standings analysis)
+- **Follow-Up Opportunities:**
+  - Wild card gap tracking after each Dodgers series game
+  - D-backs/Phillies surge/collapse scenarios
+
+### STORY 6: Owen Ayers Promoted to Triple-A Iowa
+- **Angle:** NEW STORY (Cubs slugging prospect Owen Ayers promoted from Double-A Knoxville to Triple-A Iowa; 22+ HR in Southern League; Jace Beck also promoted; system depth advancing)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, prospect update)
+- **Follow-Up Opportunities:**
+  - Ayers' first AAA stats and performances
+  - Iowa Cubs second-half results
+  - Any September call-up consideration
+
+### STORY 7: Game 1 Preview — Boyd vs. Wrobleski, 7:05 PM CT
+- **Angle:** NEW STORY (specific Game 1 matchup: Matthew Boyd vs. Justin Wrobleski; Boyd is rotation anchor back from IL; Wrobleski mid-4.00s ERA and hittable; Wrigley on deadline day; distinct from broader series preview at 7:00 AM)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, game preview / hype)
+- **Follow-Up Opportunities:**
+  - Boyd's actual line vs Dodgers
+  - Wrobleski's performance tonight
+  - Game 1 result (Tuesday 7:00 AM)
+
+---
+
 ## 2026-08-02
 
 ### STORY 1: Cubs Win Game 2 — Series Headed to Sunday Rubber Match

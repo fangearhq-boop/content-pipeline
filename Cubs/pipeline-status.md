@@ -1,3 +1,50 @@
+# Cubs Pipeline Status — Updated 2026-08-03
+
+## Latest Run
+- **Date:** 2026-08-03 (Monday)
+- **Run time:** ~09:00 UTC
+- **Stories:** 7
+- **X posts:** 7
+- **Platforms:** X/Twitter only
+- **Status:** ✅ Complete
+
+## Insights Summary (2026-08-03)
+- **Snapshot generated:** 2026-08-03T08:30:00Z (fresh)
+- **Measured tweets:** 120
+- **Significant findings (1):**
+  - `has_score=False` beats `has_score=True` — small effect (δ=0.297, p=0.0053)
+  - Winner median impressions: 135 (n=67, no score) vs 97 (n=53, has score)
+  - **Applied:** No tweet today leads with or includes a game score. Yankees recap leads with "Gerrit Cole was unmovable Sunday" not "Yankees 2, Cubs 1."
+- No other findings cleared significance gates; fall-through to brand voice defaults
+
+## Series Context (2026-08-03)
+- `is_series_start_today`: TRUE (Dodgers, 69-43)
+- `off_day`: false
+- **MANDATORY 7:00 AM slot:** Cubs-Dodgers Series Preview
+- Series: 3 games at Wrigley Field — Mon 7:05 PM CT / Tue 7:05 PM CT / Wed 1:20 PM CT
+- Game 1 tonight: Matthew Boyd vs. Justin Wrobleski
+
+## Today's Content
+| Slot | Story | Tier |
+|------|-------|------|
+| 7:00 AM CT | Dodgers Series Preview (MANDATORY — is_series_start_today=true) | 1 |
+| 8:15 AM CT | Yankees Finale Recap — Cole dominant, Cubs lose series 1-2 | 1 |
+| 9:30 AM CT | Kevin Gausman Trade — deadline day, 127 K, 4.38 ERA | 1 |
+| 10:45 AM CT | PCA MVP Push — .282 / 24 HR / 26 SB / 1.178 OPS last 51 games | 2 |
+| 12:00 PM CT | Wild Card Standings — Cubs 63-49, No. 1 NL WC | 2 |
+| 3:45 PM CT | Owen Ayers Iowa Promotion | 3 |
+| 5:00 PM CT | Game 1 Preview: Boyd vs. Wrobleski, 7:05 PM CT | 2 |
+
+## Dashboard
+- Review dashboard: Cubs/cubs-content-2026-08-03/review-dashboard.html ✅
+- Content data JSON: Cubs/cubs-content-2026-08-03/07-content-data.json ✅ (7 stories, 7 x_posts)
+- Unified dashboard publish: push timed out (recurring content-dashboards issue — non-blocking for cubs-x-bot)
+
+## Issues
+- content-dashboards publish push timed out again (non-blocking; 07-content-data.json is the deliverable cubs-x-bot reads)
+
+---
+
 # Cubs Pipeline Status — Updated 2026-08-02
 
 ## Latest Run
