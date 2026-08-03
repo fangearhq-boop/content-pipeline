@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-08-02 |
-| Writing | Complete (all steps) | 2026-08-02 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 35 claims, 81 HIGH) | 2026-08-02 |
-| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles) | 2026-08-02 |
-| Dashboard | Complete (review-dashboard.html, 27 items) | 2026-08-02 |
-| PostPlanner Export | Complete (standard 7 posts; TOBI 7 posts) | 2026-08-02 |
-| WordPress Publish | Attempted — WP API blocked by proxy egress policy (403 Forbidden; same environment restriction as all prior runs) | 2026-08-02 |
-| Dashboard Push | Attempted — Push failed: proxy blocks write to content-dashboards repo (same as all prior runs) | 2026-08-02 |
+| Research | Complete | 2026-08-03 |
+| Writing | Complete (all steps) | 2026-08-03 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 32 claims, 76 HIGH) | 2026-08-03 |
+| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles) | 2026-08-03 |
+| Dashboard | Complete (review-dashboard.html, 27 items) | 2026-08-03 |
+| PostPlanner Export | Complete (standard 7 posts; TOBI 7 posts) | 2026-08-03 |
+| WordPress Publish | Attempted — credentials not found in environment (WP_FANRUMOR_USERNAME not set); same proxy restriction as all prior runs | 2026-08-03 |
+| Dashboard Push | Attempted — Push failed: proxy blocks write to content-dashboards repo (same as all prior runs) | 2026-08-03 |
 
 ## Queue
 
@@ -24,6 +24,23 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-08-03 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
+- **Articles:** 5 (bylines: Ryan Calloway [S1, S4], Elena Voss [S2, S5], Marcus Cole [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-08-03.xlsx (7 posts, 13:02–20:38 ET), tfr-postplanner-tobi-2026-08-03.xlsx (7 TOBI posts)
+- **Coverage:** DC Open WTA Final RESULT: Pegula (No. 1) def. Eala 6-4, 6-3 — match suspended Sunday by rain (Pegula led 6-4, 1-2), resumed Monday noon ET; Pegula's 12th career title, 3rd of 2026; Eala career-high No. 24. DC Open ATP Final PREVIEW: Fritz (No. 3 seed) vs. Jódar (ESP, 19, unseeded), scheduled ~1 PM ET Monday after rain delay Sunday; Jódar guaranteed Top 20 debut; CORRECTION: Fritz was No. 3 seed (NOT No. 1 — de Minaur was No. 1 and lost in QF). WTA Toronto Day 1: Rakhimova def. Venus 6-4, 6-1; Sebov (CAN) def. Ito 6-3, 6-4 — first Canadian to advance in 2026 draw; Bouzas Maneiro def. Arseneault 6-2, 6-4; Sabalenka (1) + Rybakina (2) have byes. ATP Montreal draw preview: Zverev (1), FAA (2, home crowd, first Masters 1000 No. 2 seeding of career), Shelton (3, defending), de Minaur (4), Medvedev (5); Sinner/Alcaraz/Djokovic all absent; starts Aug 4. North American hardcourt swing overview: Sinner targeting Cincinnati (Aug 13), Alcaraz targeting Cincinnati + US Open, Djokovic skipping Canada; US Open Aug 24.
+- **Notes:**
+  - verify-facts.py: passed; 32 claims, 76 HIGH; IMAGE MISSING warnings cosmetic (imagn source, expected — same as all prior runs); "No claim-patterns.py found" cosmetic
+  - compile: 5 stories, 7 X posts, 5 FB posts, 5 articles; posting window warnings cosmetic; Research Notes "none found" + Fact-Check "no log found" cosmetic (same as prior runs)
+  - Dashboard: 27 items generated; push failed (proxy restriction — same as all prior runs)
+  - PostPlanner exports: standard (7 posts) and TOBI (7 posts) generated successfully; 13:02–20:38 ET
+  - WordPress: credentials not found in environment (WP_FANRUMOR_USERNAME not set); proxy restriction same as all prior runs
+  - Byline rotation: Ryan Calloway [S1, S4], Elena Voss [S2, S5], Marcus Cole [S3] (rotating from Aug 2: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
+  - KEY CORRECTION applied today: prior pipeline referred to Fritz as "No. 1 seed" — he was No. 3 seed; de Minaur was No. 1 seed and fell in QF. Corrected in all Aug 3 content.
+  - Player name correction: research confirmed player is "Rafael Jódar" (not "Martin Jodar" as misidentified in prior research); "Rafa Jodar" in common usage.
 
 ### 2026-08-02 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
