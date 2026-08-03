@@ -3,6 +3,63 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-08-03
+
+### Story 1: USA Softball International Cup — Medal Games TODAY
+- **Date:** 2026-08-03
+- **Tier:** 1
+- **Classification:** FOLLOW UP (tournament conclusion — medal games today at Devon Park OKC)
+- **Angle:** Both USA squads in medal round. WNT 3-0 pool play (10-7 comeback vs Canada from 5-0; 10-1 run-rule vs China). Elite 2-1 (lost to Japan 9-2 in group). Semifinals Aug 2: all-USA matchup + Canada vs Japan. Medal games today. USA 83-8 all-time / 11 of 14 gold medals at International Cup. 2027 WC Group Stage qualification at stake.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Medal game results (after today's games complete)
+  - 2027 WC qualification standings update
+  - USA WNT post-tournament analysis
+
+### Story 2: LLSWS 2026 — Day 1 Results + Day 2 Action Today
+- **Date:** 2026-08-03
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Day 1 results confirmed; Day 2 today)
+- **Angle:** Game 1: Southeast (Lake Mary, FL) 14, Northwest (Snohomish, WA) 0 — Chloe Cheek CG shutout (4 IP, 3 K, 0 R); Brynn Fieser + Callie Ousley 3 RBI each. Game 2: Asia-Pacific (Kinki Softball LL, Sangō Japan) def Mid-Atlantic (Toms River NJ) — Sara Matsuda W pitcher — weather delay. Game 4 (Canada vs North Carolina) postponed to TODAY 9 AM ET. Day 2 action continues.
+- **Content Produced:** Article (article-02, Emily Rawlings), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Daily tournament results Aug 3-9
+  - Weather-postponed game 4 result (Canada vs NC today)
+  - Bracket analysis as losers/winners bracket shapes
+
+### Story 3: PGF Nationals Week 2 — Championship Results
+- **Date:** 2026-08-03
+- **Tier:** 2
+- **Classification:** FOLLOW UP (championships were Aug 2 at Deanna Manning Stadium Irvine CA)
+- **Angle:** 14U, 12U, 10U Premier titles crowned Aug 2. September 1 recruiting window 29 days out — phones start ringing for champions. PGF.TV coverage.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - September 1 window preview (29 days)
+  - Fall season recruiting coverage
+
+### Story 4: Texas Tech 2027 National Title Case
+- **Date:** 2026-08-03
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Day 3 of coverage; new synthesis angle — full 2027 case)
+- **Angle:** WCWS Finals + No. 1 transfer class (Beachum .406/10HR/69RBI; 2024 NFCA FOY; 2026 2nd Team AA) + Pickering from OU = legitimate 2027 national title contender. September 1 = 29 days.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - September 1 recruiting class roundup
+  - TTU fall practice preview
+  - 2027 preseason poll release
+
+### Story 5: 2026 Asian Games Softball — 54 Days Out
+- **Date:** 2026-08-03
+- **Tier:** 3
+- **Classification:** FOLLOW UP (Day 2 of coverage; deeper team breakdown angle)
+- **Angle:** Sept 26–Oct 3, Anjō Sports Park Softball Ground, Aichi-Nagoya, Japan. 8 teams. Japan host+No.1. China/Chinese Taipei main competition. Philippines+South Korea held joint training camp in Seoul. 2027 WC Group Stage qualification at stake. 54 days out.
+- **Content Produced:** Article (article-05, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Pre-event preview (mid-September)
+  - Results coverage (late September/early October)
+
+---
+
 ## 2026-08-02
 
 ### Story 1: USA Softball International Cup — Semifinals TODAY

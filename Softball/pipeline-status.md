@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-08-03
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch + research agent, 5 stories verified HIGH confidence), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations — fixed to #### Text Post format), FB posts (5 stories), image concepts, image manifest (14 items, not_started), articles (5), fact-check, compile (5 stories, 7 tweets, 5 articles), dashboard (22 items), PostPlanner exports (7 posts each). WordPress 403 (proxy blocks ilovesoftball.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks ilovesoftball.com — known). Dashboard publish push failed (proxy known restriction). IMAGE MISSING expected (not_started — manifest format mismatch known). FB posts: 0 compiled (format known). PostPlanner: 7 posts compiled successfully (fixed format).
+- **Key Stories**: USA Softball International Cup medal games TODAY/Devon Park OKC/WNT 3-0 pool play (came back from 5-0 vs Canada 10-7, ran China 10-1)/Elite 2-1 (lost to Japan 9-2)/all-USA semifinal + Canada vs Japan/2027 WC qual (Tier 1 FOLLOW UP), LLSWS 2026 Day 1 results: SE 14-0 NW (Chloe Cheek shutout; Fieser+Ousley 3 RBI each)/Asia-Pacific def Mid-Atlantic (Sara Matsuda)/Game 4 postponed to TODAY 9AM ET/Day 2 at Stallings (Tier 1 FOLLOW UP), PGF Week 2 champions crowned Aug 2/14U+12U+10U Premier/Sept 1 window=29 days (Tier 2 FOLLOW UP), Texas Tech 2027 contender case: WCWS Finals+No.1 transfer class+Beachum(.406/10HR/69RBI)+Pickering/Sept 1=29 days (Tier 2 FOLLOW UP), 2026 Asian Games Softball Sept 26-Oct 3 Aichi-Nagoya/8 teams/54 days out/2027 WC qual (Tier 3 FOLLOW UP)
+
+## Last Run
 - **Date**: 2026-08-02
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via research agent, 5 stories verified HIGH/MEDIUM confidence), brief (5 stories), research notes, story analysis, X posts (8; 0 char violations — all ≤280), FB posts (5 stories), image concepts (9 items), image manifest (11 items, not_started), articles (5), fact-check (48 claims), compile (5 stories, 8 tweets, 0 FB posts — format known, 5 articles, 23 items), dashboard (23 items), PostPlanner exports (0 posts compiled — format known). WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
