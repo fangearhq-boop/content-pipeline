@@ -2,6 +2,50 @@
 
 ---
 
+## August 3, 2026
+
+### Story 1: D49 First Day Is Here — Kindergarteners, 6th Graders, and 9th Graders Report Monday
+- **Date:** 2026-08-03
+- **Content Pillar:** Local News
+- **Angle:** FOLLOW-UP from Aug 2 S1 (D49 first-day-eve) and Aug 1 S1 (D49 SSC) — today is the actual first day; K/6th/9th only on Aug. 3, all remaining grades Aug. 4. Heat Advisory in effect 9 AM–8 PM MDT (~100°F), dismissal inside advisory window. D49 serves eastern COS/Falcon; bell schedules school-by-school.
+- **Content Produced:** Article (Sarah Morales), 2 X posts, Facebook Long-Form, Facebook Image Caption, Image Concept (x_image + facebook_image + article_hero)
+- **Tier:** 1
+- **Key Facts:** Aug. 3: K, 6th, 9th grades (staggered start, new-building transition year); Aug. 4: all remaining D49 grades; Heat Advisory: 9 AM–8 PM MDT El Paso County (NWS Pueblo); ~100°F forecast; no D49 district-wide heat early-release confirmed; Sources: D49 Back to School 2026-2027 post (d49.org), Springs Daily, KRDO/NWS Pueblo
+
+### Story 2: CPSC Recall Alert — WonderStone Infant Walkers, Babypark Carriers, Target Gigglescape Toy
+- **Date:** 2026-08-03
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (distinct from Aug 2 S2: B.Childhood strollers, Bellabu Bear robes, Golden Link LED cups; and Aug 1 S2: NFSVLB bath seats, VEVOR swings, Ocensmice magnets) — 3 new CPSC actions: WonderStone infant walkers (fall/death hazard, Models 616 and 616-1, ~70 units Walmart Apr 2026 ~$80, Jul 10 recall); Babypark 3-in-1 soft carriers (fall hazard, Amazon Apr 2024–May 2026 ~$27, Jul 2 warning); Target Gigglescape Under the Sea Popping Toy (choking hazard, #26-598, ~49,000 units Target Aug 2025–Jan 2026 ~$10, Jul 2 recall, 9 incidents).
+- **Content Produced:** Article (Jamie Rivera), 2 X posts, Facebook Long-Form, Facebook Image Caption, Image Concept (x_image + facebook_image + article_hero)
+- **Tier:** 2
+- **Key Facts:** WonderStone walkers: Models 616/616-1, ~70 units, Walmart.com, Apr 2026, ~$80, fits standard doorway + fails at step edges, refund via wonderstonerecall@outlook.com; Babypark carriers: Amazon, Apr 2024–May 2026, ~$27, leg openings too large; Gigglescape #26-598: ~49,000 units, Target, Aug 2025–Jan 2026, ~$10, dome detaches exposing small balls, return to Target; Sources: cpsc.gov primary (HIGH confidence all three)
+
+### Story 3: D11 Bond Vote Is Two Days Away — $775M Decision on Wednesday
+- **Date:** 2026-08-03
+- **Content Pillar:** Local News
+- **Angle:** FOLLOW-UP from Aug 2 S3 (vote 3 days away) and Aug 1 S5 (vote 4 days out) — now 2 days out; board vote Aug. 5 5:30 PM places measure on Nov. 2026 ballot; D11 first day Aug. 12 one week after vote.
+- **Content Produced:** Article (Sarah Morales), 1 X post, Facebook Long-Form, Facebook Image Caption, Image Concept (x_image + facebook_image + article_hero)
+- **Tier:** 2
+- **Key Facts:** Board vote Aug. 5 at 5:30 PM; $775M; ~$6.50/mo per $100K home value; HVAC, safety, modernization, new construction; avg D11 building 58 yrs old; deferred maintenance exceeds $422M; first major D11 bond 20+ years; D11 first day Aug. 12; d112026bondplanning.com; Sources: Gazette Jul 29, d112026bondplanning.com
+
+### Story 4: Beat the Heat Monday — Family Options for a Hot Week in Colorado Springs
+- **Date:** 2026-08-03
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Heat Advisory active 9 AM–8 PM today (~100°F); free options: Garden of the Gods morning nature programs Mon–Wed 10 AM; America the Beautiful Park splash pad; Cheyenne Mountain Zoo shaded paths + indoor exhibits (admission); Westside Community Center indoor programming; Fountain Creek splash pads.
+- **Content Produced:** Article (Jamie Rivera), 1 X post, Facebook Long-Form, Facebook Image Caption, Image Concept (x_image + facebook_image + article_hero)
+- **Tier:** 2
+- **Key Facts:** Heat Advisory: 9 AM–8 PM MDT El Paso County; Garden of the Gods: free programs Mon–Wed 10 AM, Visitor Center AC; America the Beautiful splash pad: free, central location; Cheyenne Mountain Zoo: shaded paths + indoor exhibits, admission required; Sources: prior pipeline research (Garden of Gods programs, Aug 1), NWS Pueblo
+
+### Story 5: AAP Screen Time 5 C's — School-Year Reset for COS Families
+- **Date:** 2026-08-03
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — School year start prompts screen time conversation; AAP replaced old blanket rules ("no screens under 2," "1 hr/day under 5") with 5 C's framework: Child, Content, Context, Communication, Crowd; research shows relationship matters more than total minutes; healthychildren.org.
+- **Content Produced:** Article (Sarah Morales), 1 X post, Facebook Long-Form, Facebook Image Caption, Image Concept (x_image + facebook_image + article_hero)
+- **Tier:** 2
+- **Key Facts:** AAP 5 C's: Child (individual needs/maturity/sleep), Content (educational vs passive), Context (alone/together, timing), Communication (talking about media), Crowd (peers/algorithms/group chats); no magic number — relationship matters; healthychildren.org full resource; Sources: Official AAP guidance (HIGH confidence)
+
+---
+
 ## August 2, 2026
 
 ### Story 1: D49 First Day of School Is Tomorrow — August 3 for Kindergarteners, 6th, and 9th Graders

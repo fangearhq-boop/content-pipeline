@@ -1,5 +1,44 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: August 3, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | D49 first day confirmed: K/6th/9th Aug. 3, all others Aug. 4; Heat Advisory 9 AM–8 PM MDT El Paso County (~100°F); 3 new CPSC actions — WonderStone walkers (Models 616/616-1, Walmart, Jul 10 recall), Babypark carriers (Amazon, Jul 2 warning), Target Gigglescape toy (#26-598, ~49K units, Jul 2 recall, choking hazard); D11 bond vote Aug. 5 5:30 PM ($775M, board places on Nov. ballot); beat-the-heat resources confirmed (Garden of Gods Mon–Wed 10 AM free, splash pads, zoo, community centers); AAP 5 C's framework confirmed (healthychildren.org) |
+| Story History Check | COMPLETE | 5 stories: S1 follow-up (Aug 2 S1 — actual first day, different angle), S2 new (distinct recalls from all prior days), S3 follow-up (Aug 2 S3 — 2 days out, same facts new angle), S4 new (heat advisory + options), S5 new (AAP screen time 5 C's) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (1 Tier 1, 4 Tier 2); bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; CPSC recall details with specific model numbers, units, prices |
+| Story Analysis | COMPLETE | 02-story-analysis.md — 5 story sections |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (S1:2, S2:2, S3:1, S4:1, S5:1); char-limit corrections applied to S2 Post A (282→254) and S4 Post A (285→278); all ≤280 chars; 4 hashtags each; times in MT |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form posts + 5 Image Captions; engagement questions; NO hashtags; COS voice; max 1 exclamation mark per post |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts; 1080×1350 (X/FB) and 1200×630 (hero); clean bottom third; no celebrity likenesses; no brand logos |
+| Articles | COMPLETE | 5 articles (500–1000 words; semantic HTML5; What's Next sections; 0 exclamation marks; no figure tags; quick reference tables); bylines: Sarah Morales (A1, A3, A5), Jamie Rivera (A2, A4) |
+| Fact-Check | COMPLETE | verify-facts.py passed; 99 claims extracted; char limit warnings corrected; 5 image not_started warnings cosmetic (expected for gemini source) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 5 stories × 3 image types = 15 entries; all not_started; gemini base_only; kAHCKfCZgk0 brand kit |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles, 27 dashboard items; posting window warnings cosmetic |
+| Dashboard | COMPLETE | review-dashboard.html — 27 items |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-08-03.xlsx (7 posts 13:18–20:42 MT, 74 min apart) + cosp-postplanner-tobi-2026-08-03.xlsx (7 TOBI posts) |
+| Dashboard Push | Attempted — proxy blocks write to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API (403 Forbidden) | Same environment restriction as all prior runs |
+
+### 2026-08-03 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (1 Tier 1, 4 Tier 2)
+- **Posts:** 7 X posts (PostPlanner xlsx: 7 posts 13:18–20:42 MT, 74 min apart; 7 TOBI)
+- **Articles:** 5 (bylines: Sarah Morales [A1, A3, A5], Jamie Rivera [A2, A4])
+- **PostPlanner exports:** cosp-postplanner-2026-08-03.xlsx (7 posts, 13:18–20:42 MT), cosp-postplanner-tobi-2026-08-03.xlsx (7 TOBI posts)
+- **Coverage:** D49 first day (K/6th/9th Aug. 3, all others Aug. 4; Heat Advisory 9 AM–8 PM ~100°F; no early-release policy found); 3 CPSC actions — WonderStone walkers (Models 616/616-1, Walmart Apr 2026 ~$80, ~70 units, fall/death hazard, Jul 10 recall), Babypark 3-in-1 carriers (Amazon Apr 2024–May 2026 ~$27, fall hazard, Jul 2 warning), Target Gigglescape Under the Sea Popping Toy (#26-598, ~49,000 units, Aug 2025–Jan 2026, ~$10, choking hazard, Jul 2 recall, 9 incidents); D11 bond vote Aug. 5 5:30 PM ($775M, HVAC/safety/modernization/new construction, ~$6.50/mo per $100K, avg building 58 yrs, deferred maint >$422M, d112026bondplanning.com); Beat the Heat — Garden of Gods free Mon–Wed 10 AM, splash pads, zoo, community centers; AAP 5 C's screen time framework (Child/Content/Context/Communication/Crowd, healthychildren.org)
+- **Notes:**
+  - verify-facts.py: 2 char-limit warnings corrected in X posts (S2 Post A trimmed from 282 to 254 chars; S4 Post A trimmed from 285 to 278 chars); 5 image not_started warnings cosmetic (expected for gemini source)
+  - compile: all clear; 7 X posts, 5 FB posts, 5 articles, 27 dashboard items; posting window warnings cosmetic
+  - WordPress: WP API blocked by proxy (403 Forbidden); same restriction as all prior runs
+  - Dashboard push failed: proxy blocks write to content-dashboards repo
+  - Byline rotation: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4] (rotating from Aug 2: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4])
+  - Research: all facts from web search (background agent); CPSC recall details HIGH confidence (cpsc.gov confirmed); D11 vote date MEDIUM confidence (consistent with Gazette "next week" from Jul 29)
+  - CPSC deduplication: WonderStone walkers/Babypark carriers/Target Gigglescape are fully distinct from all Aug 1–2 covered products
+
+---
+
 ## Latest Run: August 2, 2026
 
 | Step | Status | Notes |
