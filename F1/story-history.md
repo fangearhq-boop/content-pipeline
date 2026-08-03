@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-08-03
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-08-03 | T1 | Alonso's Summer Break Decision — Retire or Race On in 2027? | X, FB, Article | FOLLOW UP |
+| 2026-08-03 | T1 | Verstappen vs. Red Bull — The Contradiction Nobody Can Explain | X, FB, Article | FOLLOW UP |
+| 2026-08-03 | T2 | Zandvoort's Farewell — The Last-Ever Dutch GP Will Be a Sprint | X, FB, Article | FOLLOW UP |
+| 2026-08-03 | T2 | George Russell's 2027 Status — The Performance Clause Nobody Has Defined | X, FB, Article | NEW |
+| 2026-08-03 | T2 | Aston Martin B-Spec Step 2 + Honda PU Upgrade Both Arrive at Zandvoort | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Alonso's Summer Break Decision — Retire or Race On?
+- **Tier:** 1
+- **Category:** F1 Driver Market / Fernando Alonso / Aston Martin
+- **Key facts:** Alonso 44, contract expires end 2026; Ted Kravitz (Sky Sports) says he'll retire; Spanish insiders say decision made; B-spec debuted Hungary, Alonso Q2 first time all 2026 season; Alonso quote: "That adrenaline was missed"; B-spec step 2 + Honda PU upgrade at Zandvoort; announcement expected post-break
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Zandvoort performance with upgrades; retirement announcement; 2027 Aston Martin driver alternatives
+
+### STORY 2: Verstappen vs. Red Bull — The Contradiction
+- **Tier:** 1
+- **Category:** F1 Driver Market / Max Verstappen / Red Bull / McLaren
+- **Key facts:** SportBible (July 7): "closing stages" of move; GrandPrix.com: "commits to Red Bull" — directly contradictory; Verstappen 7th in championship, exit clause active; October deadline; Helmut Marko says staying; Zak Brown denied McLaren talks; Red Bull reportedly offered €65M/yr through 2029 (clause removal required); no public announcement as of Aug 3
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Verstappen Dutch GP announcement; October clause trigger or expiry; McLaren 2027 seat resolution
+
+### STORY 3: Zandvoort's Farewell — Last-Ever Dutch GP With Sprint
+- **Tier:** 2
+- **Category:** F1 Calendar / Dutch Grand Prix / Zandvoort
+- **Key facts:** Dutch GP Aug 21-23 at Zandvoort; confirmed last-ever F1 race at circuit; first-ever Sprint at Zandvoort; Sprint + GP Qualifying Saturday, Main Race Sunday; Verstappen won Dutch GP 2021/2022/2023; first race back from summer break; Antonelli leads by 50 pts
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Race result; Verstappen exit clause announcement; Sprint result
+
+### STORY 4: George Russell 2027 Performance Clause
+- **Tier:** 2
+- **Category:** F1 Driver Market / George Russell / Mercedes
+- **Key facts:** Russell on performance-clause contract at Mercedes for 2027; currently 3rd in championship (160 pts); 59 behind Antonelli, 9 behind Hamilton; clause terms not publicly defined; 15 of 22 2027 seats unresolved; Russell performing at high level but Antonelli outperforming all teammates
+- **Status:** NEW
+- **Follow-up ideas:** Mercedes 2027 lineup announcement; driver market resolution at Monza/Singapore
+
+### STORY 5: Aston Martin B-Spec Step 2 + Honda PU Upgrade at Zandvoort
+- **Tier:** 2
+- **Category:** F1 Technical / Aston Martin / Honda / Fernando Alonso
+- **Key facts:** B-spec (16 parts) debuted Hungary, Alonso Q2 first time all 2026; step 2 coming to Zandvoort; Honda PU upgrade also at Dutch GP; Alonso Q2 → 14th race; Stroll 13th; Alonso: "more glued to the ground, more predictable, easier to drive"
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Zandvoort qualifying result; Q3 ambition vs Q2 baseline; midfield standings shift
+
 ## 2026-08-02
 
 | Date | Tier | Story | Platforms | Status |

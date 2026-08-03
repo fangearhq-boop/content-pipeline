@@ -1,7 +1,18 @@
 # F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
-- **Date**: 2026-08-02
+- **Date**: 2026-08-03
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway)
+- **PostPlanner exports:** f1fr-postplanner-2026-08-03.xlsx (7 posts) + f1fr-postplanner-tobi-2026-08-03.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-08-03/review-dashboard.html (22 items)
+- **Notes:** Alonso summer retirement decision (Ted Kravitz says retire; Spanish insiders say decided; B-spec "adrenaline" complicates; step 2 + Honda PU at Zandvoort); Verstappen contradiction (SportBible "closing stages" vs GrandPrix.com "commits" — no resolution, Oct deadline); Zandvoort farewell last-ever Dutch GP with Sprint format (Aug 21-23, 3x Verstappen winner); Russell performance clause 2027 undefined terms; Aston Martin B-spec step 2 + Honda PU both at Dutch GP
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+## 2026-08-02
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
