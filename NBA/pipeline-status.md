@@ -1,7 +1,18 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Last Run
-- **Date**: 2026-08-02
+- **Date**: 2026-08-03
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** hh-postplanner-2026-08-03.xlsx (7 posts) + hh-postplanner-tobi-2026-08-03.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-08-03/review-dashboard.html (22 items)
+- **Notes:** LeBron NYC living/Philly commute new angle (76ers opener Oct 20); Kawhi NBPA arbitration could push to 2027 (Silver deadline now uncertain); Wembanyama France FIBA roster confirmed (Gobert+Fournier; qualifiers Aug 27+30); Curry extension-eligible Aug 29; Patrick Ewing joins Wizards staff (Davis/Sarr/Ayton coaching role)
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+## 2026-08-02
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)
 - **X Posts:** 6 written, all under 280 characters

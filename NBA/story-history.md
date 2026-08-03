@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-08-03
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-08-03 | T1 | LeBron James Will Live in NYC, Commute to Philadelphia — 76ers Era on His Terms | X, FB, Article | FOLLOW UP |
+| 2026-08-03 | T1 | Kawhi Leonard Investigation — NBPA Arbitration Threat Extends Case Toward 2027 | X, FB, Article | FOLLOW UP |
+| 2026-08-03 | T2 | Wembanyama France FIBA Roster Official — Gobert, Fournier Join for August Qualifiers | X, FB, Article | FOLLOW UP |
+| 2026-08-03 | T2 | Stephen Curry Becomes Extension-Eligible August 29 — Warriors' Key Offseason Moment | X, FB, Article | NEW |
+| 2026-08-03 | T2 | Patrick Ewing Joins Washington Wizards Staff — NBA Coaching Carousel Closes Out | X, FB, Article | NEW |
+
+### STORY 1: LeBron James Will Live in NYC, Commute to Philadelphia
+- **Tier:** 1
+- **Category:** NBA Offseason / LeBron James / Philadelphia 76ers
+- **Key facts:** LeBron signed 2yr/$7.94M with 76ers (late July 2026); plans to live in NYC and commute to Philadelphia; no introductory press conference; projected starting 5: Maxey/Edgecombe/Brown/LeBron/Embiid (5 combined MVP awards); KCP expected via Memphis buyout; opening night Oct 20
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** 76ers August mini camps; NBA schedule release Aug 13-14; opening night Oct 20
+
+### STORY 2: Kawhi Leonard Investigation — NBPA Arbitration Extends Toward 2027
+- **Tier:** 1
+- **Category:** NBA Investigation / Kawhi Leonard / Los Angeles Clippers / Toronto Raptors
+- **Key facts:** NBPA can demand CBA arbitration if no settlement — no hard deadline; Wachtell Lipton done; NBA reviewing; Silver's pre-season deadline now uncertain; Toronto trade frozen (Ingram+Dick+unprotected 2031/2033 firsts+picks+2027 swap); Kawhi 2026-27 salary $50.3M; second endorsement deal also under probe; Dillon Brooks told streamer trade won't happen
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Settlement vs arbitration announcement; NBPA formal filing; Raptors trade resolution or collapse
+
+### STORY 3: Wembanyama France FIBA Roster Official
+- **Tier:** 2
+- **Category:** NBA Offseason / Victor Wembanyama / France National Team
+- **Key facts:** France 15-man roster confirmed; Wembanyama leads; Rudy Gobert + Evan Fournier (returning); prep vs. Serbia Aug 20+23; qualifiers vs. Slovenia Aug 27 + Sweden Aug 30; France atop Group L at 5-1; Wembanyama: "I miss FIBA"
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Serbia prep games Aug 20+23; qualifying results Aug 27+30; Spurs training camp
+
+### STORY 4: Stephen Curry Becomes Extension-Eligible August 29
+- **Tier:** 2
+- **Category:** NBA Contracts / Golden State Warriors / Stephen Curry
+- **Key facts:** Curry extension-eligible Aug 29; Warriors expected to open talks immediately; Draymond Green back 1yr/$27.7M; Gary Payton II back 1yr/$3.88M; Curry age 38; no terms reported yet
+- **Status:** NEW
+- **Follow-up ideas:** Extension announced; terms and length; Warriors season outlook
+
+### STORY 5: Patrick Ewing Joins Washington Wizards Staff
+- **Tier:** 2
+- **Category:** NBA Coaching / Washington Wizards / Patrick Ewing
+- **Key facts:** Ewing joins Wizards as assistant coach under Brian Keefe; previously Knicks advisor/Ambassador 2 years; works with Anthony Davis, Alex Sarr, Deandre Ayton; six new NBA HCs this offseason; coaching carousel now nearly complete
+- **Status:** NEW
+- **Follow-up ideas:** Wizards training camp; Davis/Sarr development reports; Washington's East projection
+
 ## 2026-08-02
 
 | Date | Tier | Story | Platforms | Status |
