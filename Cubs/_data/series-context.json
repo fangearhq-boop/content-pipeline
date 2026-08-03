@@ -1,42 +1,58 @@
 {
-  "generated_at": "2026-08-02T08:30:00.500785+00:00",
-  "today_ct": "2026-08-02",
+  "generated_at": "2026-08-03T08:30:00.375012+00:00",
+  "today_ct": "2026-08-03",
   "off_day": false,
-  "is_series_start_today": false,
+  "is_series_start_today": true,
   "series": {
-    "opponent": "New York Yankees",
-    "opponent_id": 147,
-    "opponent_record": "62-49",
-    "cubs_record": "63-48",
+    "opponent": "Los Angeles Dodgers",
+    "opponent_id": 119,
+    "opponent_record": "69-43",
+    "cubs_record": "63-49",
     "is_cubs_home": true,
     "venue": "Wrigley Field",
-    "series_length": 1,
+    "series_length": 3,
     "games": [
       {
-        "game_pk": "824648",
-        "game_date_iso": "2026-08-02T18:20:00Z",
-        "game_date_ct": "Sun 1:20 PM CT",
+        "game_pk": "824647",
+        "game_date_iso": "2026-08-04T00:05:00Z",
+        "game_date_ct": "Mon 7:05 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      },
+      {
+        "game_pk": "824645",
+        "game_date_iso": "2026-08-05T00:05:00Z",
+        "game_date_ct": "Tue 7:05 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      },
+      {
+        "game_pk": "824646",
+        "game_date_iso": "2026-08-05T18:20:00Z",
+        "game_date_ct": "Wed 1:20 PM CT",
         "cubs_probable": "TBD",
         "opponent_probable": "TBD",
         "status": "Preview"
       }
     ],
-    "rationale": "Same opponent (New York Yankees) as yesterday \u2014 this is mid-series, not a series opener."
+    "rationale": "Yesterday vs New York Yankees; today vs Los Angeles Dodgers \u2192 game 1 of 3 (home)."
   },
   "today_cubs_game": {
-    "game_pk": "824648",
+    "game_pk": "824647",
     "status": "Preview",
     "detailed_status": "Scheduled",
-    "game_date_iso": "2026-08-02T18:20:00Z",
-    "game_date_ct": "Sun 1:20 PM CT",
+    "game_date_iso": "2026-08-04T00:05:00Z",
+    "game_date_ct": "Mon 7:05 PM CT",
     "is_cubs_home": true,
-    "opponent_id": 147,
-    "opponent_name": "New York Yankees",
-    "opponent_record": "62-49",
-    "cubs_record": "63-48",
+    "opponent_id": 119,
+    "opponent_name": "Los Angeles Dodgers",
+    "opponent_record": "69-43",
+    "cubs_record": "63-49",
     "cubs_probable": "TBD",
     "opponent_probable": "TBD",
     "venue": "Wrigley Field"
   },
-  "rationale": "Same opponent (New York Yankees) as yesterday \u2014 this is mid-series, not a series opener."
+  "rationale": "Yesterday vs New York Yankees; today vs Los Angeles Dodgers \u2192 game 1 of 3 (home)."
 }
