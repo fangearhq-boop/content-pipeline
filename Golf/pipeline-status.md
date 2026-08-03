@@ -1,10 +1,21 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
-- **Date**: 2026-08-02
+- **Date**: 2026-08-03
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-08-03
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters (longest: 263 chars)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** gfr-postplanner-2026-08-03.xlsx (7 posts) + gfr-postplanner-tobi-2026-08-03.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-08-03/review-dashboard.html (22 items)
+- **Notes:** AIG WOMEN'S OPEN FINAL — Shiho Kuwaki wins at -5 in playoff over Esther Henseleit at Royal Lytham; Henseleit holed 45-ft birdie on 72nd hole to force playoff; on 2nd playoff hole, Henseleit's tee shot hit marshal, finished in bush → bogey; Kuwaki two-putted par; 7th major start, first LPGA title; $1.5M from $10M record purse; Japan's 2nd consecutive AIG Women's Open champion; Yealimi Noh (led at -7 entering R4) could not hold on; Haeran Ryu finished T6 at -1 (Grand Slam bid — 3 consecutive majors — ends; had won KPMG + Evian 2026); WYNDHAM CHAMPIONSHIP — Aug 6-9 Sedgefield CC Greensboro NC; $8.5M; 500 FedExCup pts; last regular-season event; top 70 → FedEx St. Jude Memphis Aug 13-16; Cameron Young defends (first Tour win at Sedgefield 2025); Davis Riley ~50-60th after Rocket Classic 500 pts; Koepka (ulnar nerve), Finau, Bradley on bubble; Scheffler/Fitzpatrick/Clark sitting out; LIV GOLF CRISIS — WARN Act filed U.S. + U.K. (60-day mass layoff notice); $600M committed, $200M delivered, $400M gap; PIF not funding beyond 2026; seeking $250-350M outside investment; Team Championship "in serious jeopardy"; 10-event schedule proposed; $1M Stinger Golf settlement; LIV BEDMINSTER — Aug 6-9 Trump National Bedminster; 57 players, 13 major champions; Rahm leads individual standings, can clinch if DeChambeau T2 or worse at Bedminster; DeChambeau/Smith/Hatton in field; HAERAN RYU — KPMG + Evian = 2 majors in 2026; led AIG Women's Open halfway; finished T6 at -1; 2-major season still historic even without Grand Slam
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-08-02
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

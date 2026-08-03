@@ -1,0 +1,251 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-03",
+  "compiled_at": "2026-08-03T11:49:53.100216+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Shiho Kuwaki Wins the AIG Women's Open in a Playoff at Royal Lytham (T1 — FRESH)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Shiho Kuwaki wins the AIG Women's Open at Royal Lytham.\n\nHenseleit holed a 45-footer on 18 to force a playoff — then her tee shot hit a marshal on the 2nd hole.\n\nKuwaki made par. Title won.\n\nJapan's 2nd straight AIG Women's Open champion. 🏆\n\n#LPGA #AIGWomensOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA",
+            "#AIGWomensOpen"
+          ],
+          "char_count": 262
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Yealimi Noh led the AIG Women's Open entering the final round at -7.\n\nShiho Kuwaki won it at -5 in a playoff.\n\nHaeran Ryu — who won the KPMG and Evian this year — finished T6 at -1.\n\nThree different stories. One champion. 🏆\n\n#LPGA #AIGWomensOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA",
+            "#AIGWomensOpen"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-kuwaki-wins-aig-womens-open-playoff-royal-lytham.html",
+        "headline": "Shiho Kuwaki Wins the 2026 AIG Women's Open in a Playoff at Royal Lytham",
+        "word_count": 630
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Shiho Kuwaki Wins the AIG Women's Open\n\n**Image Concept 1 — Champion Celebration**\n- Search: `Shiho Kuwaki`\n- Use: Feature image for article and social posts\n- Description: Kuwaki celebrating after winning; emotion on 18th hole\n\n**Image Concept 2 — Haeran Ryu**\n- Search: `Haeran Ryu`\n- Use: Secondary image for article, illustrating the Grand Slam storyline\n- Description: Ryu in competition; illustrates her season-long pursuit\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Wyndham Championship Starts Thursday — Last FedExCup Chance (T1 — PREVIEW)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The Wyndham Championship starts Thursday at Sedgefield CC.\n\n$8.5M. 500 FedExCup points. Last regular-season event.\n\nTop 70 after Wyndham → Playoffs.\n\nFor the bubble players, every shot counts.\n\nAug 6-9. Greensboro, NC. ⛳\n\n#PGATour #WyndhamChampionship",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour",
+            "#WyndhamChampionship"
+          ],
+          "char_count": 251
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Cameron Young defends at Wyndham — he won his first Tour title at Sedgefield in 2025.\n\nDavis Riley just jumped into the top 70 after his Rocket Classic win.\n\nFinau, Bradley, and Koepka still on the outside.\n\nOne week left. ⛳\n\n#PGATour #WyndhamChampionship",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour",
+            "#WyndhamChampionship"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-wyndham-championship-preview-fedexcup-bubble-2026.html",
+        "headline": "Wyndham Championship 2026 Preview: The Last Regular-Season Chance for FedExCup Bubble Players",
+        "word_count": 662
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Wyndham Championship Starts Thursday — Last FedExCup Chance\n\n**Image Concept 1 — Cameron Young**\n- Search: `Cameron Young`\n- Use: Feature image for article\n- Description: Young in competition; captures defending champion angle\n\n**Image Concept 2 — Sedgefield Country Club**\n- Search: `Sedgefield Country Club`\n- Use: Course imagery to illustrate venue\n- Description: Course aerial or signature hole for Wyndham preview\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "LIV Golf Crisis — WARN Act Filed, Team Championship in Jeopardy (T2 — DEVELOPING)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "LIV Golf filed WARN Act notices in the U.S. and U.K. this month.\n\nWARN Act = 60-day advance notice before mass layoffs.\n\nPIF has delivered $200M of a $600M commitment. The $400M gap is real.\n\nThe Team Championship is \"in serious jeopardy.\"\n\n#LIVGolf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-liv-golf-warn-act-team-championship-jeopardy-2026.html",
+        "headline": "LIV Golf Files WARN Act Notices as $400M Funding Gap Puts Team Championship in Jeopardy",
+        "word_count": 603
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LIV Golf Crisis — WARN Act Filed, Team Championship in Jeopardy\n\n**Image Concept 1 — Jon Rahm LIV**\n- Search: `Jon Rahm`\n- Use: Feature image for article and social\n- Description: Rahm in LIV Golf competition; represents both crisis story and Bedminster preview\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Haeran Ryu — Grand Slam Bid Ends, But 2-Major Season Is Historic (T2 — RECAP)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Haeran Ryu won the KPMG Women's PGA and the Evian Championship in 2026.\n\nBack-to-back majors. Six weeks apart.\n\nShe then led the AIG Women's Open at halftime at Royal Lytham.\n\nShe finished T6 at -1.\n\nTwo majors in one year is still historic. ⛳\n\n#LPGA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-haeran-ryu-grand-slam-ends-two-major-season-historic.html",
+        "headline": "Haeran Ryu's Grand Slam Bid Is Over. Her 2026 Season Is Still Historic.",
+        "word_count": 557
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Haeran Ryu — Grand Slam Bid Ends, But 2-Major Season Is Still Historic\n\n**Image Concept 1 — Haeran Ryu**\n- Search: `Haeran Ryu`\n- Use: Feature image for article\n- Description: Ryu with a trophy or in competition; season retrospective angle\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "LIV Bedminster + Rahm Individual Title Race (T2 — PREVIEW)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "LIV Golf New York begins Thursday at Trump National in Bedminster.\n\nJon Rahm can clinch the 2026 individual title this week.\n\nBut behind the scenes: WARN Act filed, $400M funding gap, Team Championship in jeopardy.\n\nThe show goes on — for now. ⚠️\n\n#LIVGolf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-liv-bedminster-rahm-individual-title-2026.html",
+        "headline": "LIV Golf New York: Rahm Closing In on Individual Title as League's Future Hangs in the Balance",
+        "word_count": 588
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LIV Bedminster + Rahm Individual Title Race\n\n**Image Concept 1 — Jon Rahm**\n- Search: `Jon Rahm`\n- Use: Feature image for article\n- Description: Rahm in competition; title race angle"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

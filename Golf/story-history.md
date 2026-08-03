@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-08-03
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-08-03 | T1 | Shiho Kuwaki Wins the AIG Women's Open in a Playoff at Royal Lytham | X, FB, Article | NEW |
+| 2026-08-03 | T1 | Wyndham Championship 2026 Preview — FedExCup Last Regular-Season Event | X, FB, Article | FOLLOW UP |
+| 2026-08-03 | T2 | LIV Golf Files WARN Act Notices — $400M Gap, Team Championship in Jeopardy | X, FB, Article | FOLLOW UP |
+| 2026-08-03 | T2 | Haeran Ryu — Grand Slam Bid Ends at Royal Lytham, Two-Major Season Still Historic | X, FB, Article | FOLLOW UP |
+| 2026-08-03 | T2 | LIV Golf New York + Rahm Closing In on Individual Title at Bedminster | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Shiho Kuwaki Wins the AIG Women's Open in a Playoff at Royal Lytham
+- **Tier:** 1
+- **Category:** LPGA / AIG Women's Open / Women's Majors
+- **Key facts:** Shiho Kuwaki wins 2026 AIG Women's Open at Royal Lytham & St Annes; playoff vs Esther Henseleit; both finished at -5 (279); Henseleit holed 45-foot birdie on 72nd hole to force playoff; on 2nd playoff hole (18th replayed), Henseleit's tee shot struck a marshal's ankle and finished in a bush → bogey; Kuwaki two-putted par to win; Kuwaki's 7th major start; first LPGA title; $1.5M from $10M record purse; Japan's 2nd consecutive AIG Women's Open champion; Yealimi Noh led at -7 entering final round (3-shot lead) but could not hold on; Haeran Ryu finished T6 at -1 (Grand Slam bid — 3rd consecutive major — ends; had won KPMG + Evian in 2026)
+- **Status:** NEW
+- **Follow-up ideas:** Kuwaki profile; Japan's AIG Women's Open dynasty; Noh's collapse; Ryu's second-half season
+
+### STORY 2: Wyndham Championship Preview
+- **Tier:** 1
+- **Category:** PGA Tour / Wyndham Championship / FedExCup
+- **Key facts:** Aug 6-9 at Sedgefield CC, Greensboro NC; $8.5M purse; 500 FedExCup points; 34th and final regular-season event; top 70 → FedEx St. Jude Championship Memphis Aug 13-16 TPC Southwind; Cameron Young defends (won first PGA Tour title at Sedgefield 2025); top FedExCup players (Scheffler, Fitzpatrick, Clark, Gotterup) not playing; Davis Riley vaulted to ~50-60th with Rocket Classic win (500 pts from 146th); bubble: Koepka (ulnar nerve injury, confirmed playing), Finau, Bradley, Spieth, Thomas, Matsuyama, Berger; Wyndham regular-season finale since 2008
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Final standings after Wyndham; who made/missed playoffs; tournament winner; Koepka result
+
+### STORY 3: LIV Golf WARN Act / Financial Crisis
+- **Tier:** 2
+- **Category:** LIV Golf / Business / Crisis
+- **Key facts:** WARN Act notices filed in U.S. and U.K. (60-day mass layoff advance notice); LIV spokesperson: "no changes to current workforce, operations, or schedule"; PIF committed $600M for 2026, delivered ~$200M, $400M gap; PIF will not fund LIV beyond 2026; LIV seeking $250-350M outside investment; operating on loans; Team Championship "in serious jeopardy of not being played"; 2 events already cancelled 2026 (New Orleans, Michigan); 10-event annual schedule proposed for profitability in 3 years; LIV reached $1M settlement with Stinger Golf
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Outside investor announcement (or absence); Team Championship final status; Indianapolis confirmation; workforce changes
+
+### STORY 4: Haeran Ryu — Grand Slam Ends, 2-Major Season
+- **Tier:** 2
+- **Category:** LPGA / Haeran Ryu / Season Recap
+- **Key facts:** Ryu won KPMG Women's PGA + Evian Championship in 2026 (back-to-back majors, 6 weeks apart); entered AIG Women's Open chasing 3rd consecutive major (would match Inbee Park 2013 record); led at halfway at Royal Lytham; finished T6 at -1; Grand Slam bid over; 2 majors in one year still among most accomplished LPGA seasons in recent history
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Ryu second-half season; historical comparison to 2-major seasons; LPGA season race
+
+### STORY 5: LIV Golf New York + Rahm Individual Title
+- **Tier:** 2
+- **Category:** LIV Golf / LIV New York / Jon Rahm
+- **Key facts:** LIV Golf New York at Trump National Bedminster Aug 6-9; field 57 players, 13 major champions; Rahm leads 2026 LIV individual standings; clinch scenario: Rahm clinches if DeChambeau finishes in 3-way tie for 2nd or worse (400+ pts clear); DeChambeau, Cameron Smith, Hatton in field; backdrop of WARN Act, $400M gap, Team Championship uncertainty; Indianapolis Aug 20-23 is final regular-season event
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Bedminster result; Rahm title clinch; Indianapolis confirmation; Team Championship status update
+
 ## 2026-08-02
 
 | Date | Tier | Story | Platforms | Status |
