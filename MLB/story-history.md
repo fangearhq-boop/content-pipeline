@@ -5,6 +5,63 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-03
+
+### Story 1: 2026 MLB Trade Deadline — Wrap-Up
+- **Date:** 2026-08-03
+- **Tier:** 1
+- **Classification:** FOLLOW UP (tracked daily since July 13; deadline closes TODAY Aug 3 at 6 PM ET)
+- **Angle:** Deadline TODAY 6 PM ET. Confirmed: Skubal→LAD (Hope+Ryan+Smith to DET), Peralta→TB (Smith+Hill+Pitre to NYM), García Jr.→NYY (Grable+Cruz+Bird+Cebert to WSH), Thomas+Falter→ATL (Braun+Holton to KC), Castillo→CWS ($24.2M, Domínguez+Jones+B.Smith to SEA), Naylor+Heuer→MIL (Yoho+Perkins to CLE), Silseth+O'Hoppe→TEX (Arredondo to LAA), Minter→MIN, Doval→PIT, Kremer→MIN, Mead→BOS, Taillon→TOR/Gausman→CHC. Rutschman NOT confirmed (10-day IL wrist inflammation).
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Skubal first Dodgers start
+  - Post-deadline standings update
+  - Rutschman return/trade status
+
+### Story 2: Dodgers + Skubal — World Series Favorites
+- **Date:** 2026-08-03
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Skubal trade confirmed Aug 2; today = post-deadline World Series assessment)
+- **Angle:** Dodgers rotation: Skubal (2.79 ERA 31% K rate rental/FA after 2026) + Glasnow + Ohtani (returning; 31-pitch bullpen session ~July 29-30; Roberts "at least week to 10 days" before game; last pitched July 3). 5 teams bid. LAD paid: Hope (No. 5 prospect, Pipeline Top 25) + Ryan + Smith. Clear World Series favorites heading into second half.
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Skubal first Dodgers start
+  - Ohtani return date confirmation
+  - October rotation tracking
+
+### Story 3: Dylan Cease — AL Cy Young Frontrunner (Post-Deadline)
+- **Date:** 2026-08-03
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Cease tracked since July 15; new angle: post-deadline, Skubal in LA, Cease is clear No. 1)
+- **Angle:** Cease 7-5, 2.46 ERA, 167 K, 113.1 IP. July ERA 1.00 (4th-lowest single-month in BJ history min 30 IP). 1-hit CG vs BOS (12K, first BJ 1-hit CG in 16 years). K/9 13.26 (AL-leading). fWAR 4.1 (2nd behind Schlittler 4.2). Blue Jays NOT trading. Skubal mid-season move splits his 2026 narrative — Cease has full-season continuity advantage.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - AL Cy Young race second-half tracking
+  - Cease next start results
+
+### Story 4: White Sox — From 121 Losses to Deadline Buyers
+- **Date:** 2026-08-03
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Castillo trade confirmed Aug 2; standalone White Sox transformation angle)
+- **Angle:** Two years after 41-121 (2024 MLB record for losses), CWS showed up as deadline buyers. Got Castillo from SEA (3-9, 5.06 ERA, $24.2M/yr): bet on pedigree (2021-22 All-Star, 2022 playoff ace). Sent Domínguez + Jones + Smith to Seattle. Fastest rebuild arc in recent memory.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Castillo second-half performance with CWS
+  - White Sox 2026 standings update
+
+### Story 5: Kyle Schwarber HR Chase — 33 HR, Pace for 72
+- **Date:** 2026-08-03
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Schwarber tracked since July 26, July 29, July 30; entering August angle)
+- **Angle:** 33 HR entering August. On pace ~72 (Bonds record: 73). First Phillies player to reach 30 HR before August. Lost 2026 Home Run Derby final to Cardinals Jordan Walker 12-11. 6 consecutive 30+ HR seasons (longest active streak in MLB). 60 HR club conversation now real in second half.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Schwarber HR No. 40 milestone
+  - 60 HR club watch September
+  - Second-half pace tracking
+
+---
+
 ## 2026-08-02
 
 ### Story 1: Tarik Skubal to Dodgers — Confirmed

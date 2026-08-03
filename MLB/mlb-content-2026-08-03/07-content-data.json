@@ -1,0 +1,137 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-03",
+  "compiled_at": "2026-08-03T10:45:07.220623+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "2026 MLB Trade Deadline — Wrap-Up, All Confirmed Moves",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-01-mlb-trade-deadline-2026-wrap-up.html",
+        "headline": "2026 MLB Trade Deadline: Every Major Move, Ranked by Impact",
+        "word_count": 760
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Dodgers + Skubal — World Series Favorites",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-02-dodgers-skubal-world-series-favorites.html",
+        "headline": "Dodgers Add Skubal to an Already Loaded Rotation — They're the World Series Favorites",
+        "word_count": 637
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Dylan Cease — AL Cy Young Frontrunner, Post-Deadline",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-03-dylan-cease-al-cy-young-frontrunner.html",
+        "headline": "Dylan Cease Is the AL Cy Young Frontrunner — And the Trade Deadline Just Made It Official",
+        "word_count": 661
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "White Sox Shock Everyone — From Rebuilders to Deadline Buyers",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-04-white-sox-deadline-buyers-castillo.html",
+        "headline": "Two Years After 121 Losses, the White Sox Are Deadline Buyers",
+        "word_count": 627
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Kyle Schwarber Is Chasing 73 — The HR Race Nobody Expected",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-05-kyle-schwarber-hr-chase-2026.html",
+        "headline": "Kyle Schwarber Entered August With 33 HR. The Barry Bonds Record Is Now in the Conversation.",
+        "word_count": 701
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 0,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No X/Twitter posts found",
+      "Story 1: No Facebook posts found",
+      "Story 1: No posting window specified",
+      "Story 2: No X/Twitter posts found",
+      "Story 2: No Facebook posts found",
+      "Story 2: No posting window specified",
+      "Story 3: No X/Twitter posts found",
+      "Story 3: No Facebook posts found",
+      "Story 3: No posting window specified",
+      "Story 4: No X/Twitter posts found",
+      "Story 4: No Facebook posts found",
+      "Story 4: No posting window specified",
+      "Story 5: No X/Twitter posts found",
+      "Story 5: No Facebook posts found",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

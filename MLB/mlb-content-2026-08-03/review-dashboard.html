@@ -1,0 +1,2544 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ballpark Banter — Content Review Dashboard</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: #f5f5f5;
+            display: flex;
+            min-height: 100vh;
+            color: #333;
+        }
+
+        .sidebar {
+            width: 280px;
+            background: #1a1a2e;
+            color: white;
+            padding: 30px 20px;
+            position: fixed;
+            height: 100vh;
+            overflow-y: auto;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+            z-index: 10;
+        }
+
+        .sidebar h1 { font-size: 18px; margin-bottom: 10px; color: #FF8A00; font-weight: 700; }
+        .sidebar-date { font-size: 12px; color: #aaa; margin-bottom: 30px; padding-bottom: 20px; border-bottom: 1px solid #333; }
+        .sidebar-section { margin-bottom: 25px; }
+        .sidebar-section-title { font-size: 12px; text-transform: uppercase; color: #999; margin-bottom: 12px; font-weight: 600; letter-spacing: 1px; }
+
+        .nav-item {
+            display: block; padding: 12px 15px; margin-bottom: 8px; border-radius: 6px;
+            cursor: pointer; transition: all 0.3s ease; font-size: 14px; color: #ddd; user-select: none;
+        }
+        .nav-item:hover { background: #2d2d44; color: #FF8A00; }
+        .nav-item.active { background: #FF8A00; color: white; }
+        .nav-item-count { float: right; background: rgba(255, 107, 53, 0.3); padding: 2px 8px; border-radius: 3px; font-size: 12px; }
+        .nav-item.active .nav-item-count { background: rgba(0, 0, 0, 0.2); }
+
+        .main-content { margin-left: 280px; flex: 1; display: flex; flex-direction: column; }
+
+        .header {
+            background: white; padding: 25px 40px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-bottom: 3px solid #FF8A00;
+        }
+        .header h1 { font-size: 28px; color: #1a1a2e; margin-bottom: 10px; }
+        .header-meta { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px; }
+        .progress-bar { flex: 1; min-width: 200px; }
+        .progress-label { font-size: 13px; color: #666; margin-bottom: 8px; font-weight: 500; }
+        .progress-container { width: 100%; height: 8px; background: #ddd; border-radius: 4px; overflow: hidden; }
+        .progress-fill { height: 100%; background: linear-gradient(90deg, #FF8A00, #E53935); transition: width 0.3s ease; }
+        .header-actions { display: flex; gap: 10px; }
+
+        .btn {
+            padding: 10px 16px; border: none; border-radius: 6px; font-size: 14px;
+            font-weight: 600; cursor: pointer; transition: all 0.3s ease; white-space: nowrap;
+        }
+        .btn-primary { background: #FF8A00; color: white; }
+        .btn-primary:hover { background: #E53935; }
+        .btn-secondary { background: #f0f0f0; color: #333; }
+        .btn-secondary:hover { background: #e0e0e0; }
+
+        .filter-bar {
+            background: white; padding: 20px 40px; display: flex;
+            gap: 10px; flex-wrap: wrap; border-bottom: 1px solid #eee;
+        }
+        .filter-btn {
+            padding: 8px 14px; border: 1px solid #ddd; background: white;
+            border-radius: 5px; cursor: pointer; font-size: 13px; transition: all 0.3s ease;
+        }
+        .filter-btn:hover { border-color: #FF8A00; color: #FF8A00; }
+        .filter-btn.active { background: #FF8A00; color: white; border-color: #FF8A00; }
+
+        .content { flex: 1; padding: 30px 40px; overflow-y: auto; }
+
+        .cards-container { display: flex; flex-direction: column; gap: 20px; max-width: 900px; }
+
+        .card {
+            background: white; border-radius: 8px; padding: 24px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1); transition: all 0.3s ease;
+            border-left: 5px solid #ccc; display: none;
+        }
+        .card.show { display: block; }
+        .card.approved { border-left-color: #22c55e; }
+        .card.needs-edit { border-left-color: #eab308; }
+        .card.rejected { border-left-color: #ef4444; }
+        .card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.12); }
+
+        .card-header { display: flex; justify-content: space-between; align-items: start; margin-bottom: 15px; }
+        .card-title { font-size: 16px; font-weight: 600; color: #1a1a2e; flex: 1; margin-right: 10px; }
+
+        .card-badge {
+            display: inline-block; padding: 4px 10px; border-radius: 4px;
+            font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;
+        }
+        .badge-x-post { background: #1da1f2; color: white; }
+        .badge-facebook { background: #4267b2; color: white; }
+        .badge-article { background: #9333ea; color: white; }
+        .badge-image { background: #06b6d4; color: white; }
+        .badge-brief { background: #10b981; color: white; }
+
+        .fact-check-badge {
+            display: inline-block; padding: 3px 8px; border-radius: 4px;
+            font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;
+            margin-left: 6px;
+        }
+        .fact-check-verified { background: #dcfce7; color: #166534; border: 1px solid #86efac; }
+        .fact-check-warning { background: #fef9c3; color: #854d0e; border: 1px solid #fde047; }
+        .fact-check-unverified { background: #fee2e2; color: #991b1b; border: 1px solid #fca5a5; }
+
+        /* Content area — preview (collapsed) and full (expanded) */
+        .card-content {
+            background: #f9f9f9; padding: 15px; border-radius: 6px;
+            margin-bottom: 15px; font-size: 13px; line-height: 1.6; color: #555;
+            position: relative;
+        }
+        .card-content-text {
+            white-space: pre-wrap; word-break: break-word;
+        }
+
+        /* Collapsed state: limit height with fade */
+        .card-content.collapsed {
+            max-height: 200px; overflow: hidden;
+        }
+        .card-content.collapsed::after {
+            content: '';
+            position: absolute; bottom: 0; left: 0; right: 0; height: 60px;
+            background: linear-gradient(transparent, #f9f9f9);
+            pointer-events: none;
+        }
+
+        /* Expanded state: no limit */
+        .card-content.expanded {
+            max-height: none; overflow: visible;
+        }
+        .card-content.expanded::after { display: none; }
+
+        .expand-toggle {
+            display: inline-block; margin-bottom: 12px; padding: 6px 14px;
+            background: #eee; border: 1px solid #ddd; border-radius: 4px;
+            cursor: pointer; font-size: 12px; font-weight: 600; color: #555;
+            transition: all 0.2s ease;
+        }
+        .expand-toggle:hover { background: #ddd; color: #333; }
+
+        /* Inline editing */
+        .edit-textarea {
+            width: 100%; padding: 15px; border: 2px solid #FF8A00;
+            border-radius: 6px; font-size: 13px; font-family: inherit;
+            line-height: 1.6; resize: vertical; min-height: 200px;
+            background: #fffef5; color: #333; display: none;
+        }
+        .edit-textarea:focus {
+            outline: none; box-shadow: 0 0 0 3px rgba(255, 107, 53, 0.15);
+        }
+        .card.editing .card-content { display: none; }
+        .card.editing .edit-textarea { display: block; }
+        .card.editing .expand-toggle { display: none; }
+
+        .edit-bar {
+            display: none; gap: 8px; margin-bottom: 12px; padding: 10px;
+            background: #fff8f0; border: 1px solid #ffcc99; border-radius: 6px;
+            align-items: center;
+        }
+        .card.editing .edit-bar { display: flex; }
+        .edit-bar-label { font-size: 12px; font-weight: 600; color: #cc6600; flex: 1; }
+        .edit-bar .btn { padding: 7px 14px; font-size: 12px; }
+
+        .tweet-meta-bar {
+            display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; padding: 0;
+        }
+        .tweet-meta-badge {
+            display: inline-block; padding: 4px 10px; border-radius: 4px;
+            font-size: 11px; font-weight: 600; letter-spacing: 0.3px;
+        }
+        .tweet-meta-label { background: #e0e7ff; color: #3730a3; }
+        .tweet-meta-time { background: #fef3c7; color: #92400e; }
+        .tweet-meta-type { background: #d1fae5; color: #065f46; }
+        .tweet-meta-tier { background: #f3e8ff; color: #6b21a8; }
+        .tweet-meta-hashtags { background: #dbeafe; color: #1e40af; font-family: monospace; }
+
+        .char-count {
+            font-size: 12px; margin: 0 0 10px 0; padding: 8px;
+            background: #f0f0f0; border-radius: 4px;
+        }
+        .char-count.warning { background: #fee2e2; color: #991b1b; }
+
+        .card-actions { display: flex; gap: 8px; margin-bottom: 12px; flex-wrap: wrap; }
+        .action-btn {
+            flex: 1; padding: 10px; border: none; border-radius: 5px;
+            cursor: pointer; font-size: 13px; font-weight: 600;
+            transition: all 0.3s ease; white-space: nowrap; min-width: 100px;
+        }
+        .btn-approve { background: #e8f5e9; color: #22c55e; border: 1px solid #22c55e; }
+        .btn-approve:hover { background: #22c55e; color: white; }
+        .btn-edit { background: #fff3e0; color: #e65100; border: 1px solid #ff9800; }
+        .btn-edit:hover { background: #ff9800; color: white; }
+        .btn-reject { background: #fee2e2; color: #ef4444; border: 1px solid #ef4444; }
+        .btn-reject:hover { background: #ef4444; color: white; }
+        .btn-copy { background: #f0f0f0; color: #333; border: 1px solid #ddd; }
+        .btn-copy:hover { background: #e0e0e0; }
+
+        .notes-section { display: none; margin-bottom: 12px; }
+        .notes-section.show { display: block; }
+        .notes-label { font-size: 12px; font-weight: 600; color: #666; margin-bottom: 6px; }
+        .notes-textarea {
+            width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px;
+            font-size: 13px; font-family: inherit; resize: vertical; min-height: 60px;
+        }
+        .notes-textarea:focus { outline: none; border-color: #FF8A00; box-shadow: 0 0 0 3px rgba(255, 107, 53, 0.1); }
+
+        .status-label {
+            font-size: 11px; font-weight: 600; text-transform: uppercase;
+            padding: 4px 8px; border-radius: 3px; margin-top: 10px; display: inline-block;
+        }
+        .status-approved { background: #e8f5e9; color: #22c55e; }
+        .status-needs-edit { background: #fffbeb; color: #f59e0b; }
+        .status-rejected { background: #fee2e2; color: #ef4444; }
+        .status-edited { background: #e3f2fd; color: #1565c0; }
+
+        .empty-state { text-align: center; padding: 60px 20px; color: #999; }
+        .empty-state-icon { font-size: 48px; margin-bottom: 15px; }
+
+        /* Approval stats bar */
+        .approval-stats {
+            display: flex; gap: 16px; margin-top: 12px; flex-wrap: wrap;
+        }
+        .stat-chip {
+            display: inline-flex; align-items: center; gap: 6px;
+            padding: 4px 12px; border-radius: 20px; font-size: 13px; font-weight: 600;
+        }
+        .stat-approved { background: #dcfce7; color: #16a34a; }
+        .stat-rejected { background: #fee2e2; color: #dc2626; }
+        .stat-unreviewed { background: #f3f4f6; color: #6b7280; }
+        .stat-dot { width: 8px; height: 8px; border-radius: 50%; }
+        .stat-approved .stat-dot { background: #22c55e; }
+        .stat-rejected .stat-dot { background: #ef4444; }
+        .stat-unreviewed .stat-dot { background: #9ca3af; }
+
+        /* PostPlanner XLSX button */
+        .btn-csv { background: #7c3aed; color: white; }
+        .btn-csv:hover { background: #6d28d9; }
+        .btn-csv:disabled { background: #c4b5fd; cursor: not-allowed; }
+
+        /* Schedule settings panel */
+        .schedule-panel {
+            display: none; position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%);
+            background: white; border-radius: 12px; padding: 30px; z-index: 1000;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3); width: 500px; max-width: 90vw; max-height: 80vh; overflow-y: auto;
+        }
+        .schedule-panel.show { display: block; }
+        .schedule-overlay { display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.5); z-index: 999; }
+        .schedule-overlay.show { display: block; }
+        .schedule-panel h3 { color: #1a1a2e; margin-bottom: 20px; font-size: 18px; }
+        .schedule-section { margin-bottom: 20px; }
+        .schedule-section label { display: block; font-size: 13px; font-weight: 600; color: #555; margin-bottom: 6px; }
+        .schedule-section input { width: 100%; padding: 8px 12px; border: 1px solid #ddd; border-radius: 4px; font-size: 14px; }
+        .schedule-section input:focus { outline: none; border-color: #7c3aed; }
+        .time-slots { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; }
+        .time-slot {
+            display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px;
+            background: #f3f0ff; border: 1px solid #c4b5fd; border-radius: 20px; font-size: 13px;
+        }
+        .time-slot .remove-slot { cursor: pointer; color: #999; font-weight: bold; }
+        .time-slot .remove-slot:hover { color: #ef4444; }
+        .add-slot-btn {
+            padding: 6px 14px; background: #f3f0ff; border: 1px dashed #7c3aed; border-radius: 20px;
+            cursor: pointer; font-size: 13px; color: #7c3aed;
+        }
+        .add-slot-btn:hover { background: #ede9fe; }
+        .schedule-actions { display: flex; gap: 10px; justify-content: flex-end; margin-top: 20px; }
+
+        /* Photo search links for image concepts */
+        .photo-section {
+            margin-bottom: 15px; padding: 12px; background: #f0f9ff;
+            border: 1px solid #bae6fd; border-radius: 6px;
+        }
+        .photo-section-title {
+            font-size: 12px; font-weight: 700; color: #0369a1; text-transform: uppercase;
+            letter-spacing: 0.5px; margin-bottom: 8px;
+        }
+        .photo-links { display: flex; flex-wrap: wrap; gap: 6px; }
+        .photo-link {
+            display: inline-block; padding: 6px 12px; background: #0ea5e9;
+            color: white; border-radius: 4px; font-size: 12px; font-weight: 500;
+            text-decoration: none; transition: all 0.2s ease; cursor: pointer;
+        }
+        .photo-link:hover { background: #0284c7; }
+
+        /* Image URL input and preview for image concepts */
+        .image-url-section {
+            margin-bottom: 15px; padding: 12px; background: #f0fdf4;
+            border: 1px solid #bbf7d0; border-radius: 6px;
+        }
+        .image-url-section label {
+            display: block; font-size: 12px; font-weight: 700; color: #166534;
+            text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 6px;
+        }
+        .image-url-input {
+            width: 100%; padding: 8px 10px; border: 1px solid #86efac;
+            border-radius: 4px; font-size: 13px; font-family: monospace;
+            background: white; box-sizing: border-box;
+        }
+        .image-url-input:focus { outline: none; border-color: #22c55e; box-shadow: 0 0 0 2px rgba(34,197,94,0.2); }
+        .image-url-hint {
+            font-size: 11px; color: #6b7280; margin-top: 4px;
+        }
+        .image-preview {
+            margin-top: 8px; text-align: center;
+        }
+        .image-preview img {
+            max-width: 100%; max-height: 200px; border-radius: 4px;
+            border: 1px solid #d1d5db; display: none;
+        }
+        .image-preview img.loaded { display: inline-block; }
+
+        /* Image production status badges */
+        .image-badge {
+            display: inline-block; padding: 2px 8px; border-radius: 3px;
+            font-size: 10px; font-weight: 700; text-transform: uppercase;
+            letter-spacing: 0.5px; margin-left: 6px;
+        }
+        .image-exported { background: #dcfce7; color: #166534; }
+        .image-in-progress { background: #fef3c7; color: #92400e; }
+        .image-not-started { background: #f3f4f6; color: #6b7280; }
+
+        /* Text overlay preview for image concepts */
+        .overlay-section {
+            margin-bottom: 15px; padding: 15px; background: #1a1a2e;
+            border-radius: 6px; text-align: center;
+        }
+        .overlay-line {
+            font-family: 'Bebas Neue', Impact, 'Arial Black', sans-serif;
+            color: #ffd700; font-size: 18px; font-weight: 700; line-height: 1.4;
+            text-transform: uppercase; letter-spacing: 1px;
+        }
+        .overlay-line.sub { color: #ffffff; font-size: 14px; font-weight: 400; letter-spacing: 0; text-transform: none; }
+
+        /* Article content rendered as HTML */
+        .article-frame {
+            width: 100%; border: 1px solid #ddd; border-radius: 6px;
+            background: white; min-height: 300px;
+        }
+
+        @media (max-width: 768px) {
+            .sidebar { width: 100%; height: auto; position: relative; padding: 20px; }
+            .main-content { margin-left: 0; }
+            .content { padding: 20px; }
+            .header { padding: 15px 20px; }
+            .header h1 { font-size: 20px; }
+            .filter-bar { padding: 15px 20px; }
+            .header-meta { flex-direction: column; align-items: stretch; }
+            .progress-bar { min-width: auto; }
+        }
+
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: #f1f1f1; }
+        ::-webkit-scrollbar-thumb { background: #888; border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: #555; }
+    </style>
+</head>
+<body>
+    <div class="sidebar">
+        <h1>Ballpark Banter</h1>
+        <div class="sidebar-date">Review Dashboard<br>2026-08-03</div>
+
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Content Types</div>
+            <div class="nav-item" onclick="filterByType('daily_brief')">
+                Daily Brief
+                <span class="nav-item-count">5</span>
+            </div>
+            <div class="nav-item" onclick="filterByType('article')">
+                Articles
+                <span class="nav-item-count">5</span>
+            </div>
+
+            <div class="nav-item" onclick="filterByType('all')">
+                All Items
+                <span class="nav-item-count">10</span>
+            </div>
+        </div>
+
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Status Filter</div>
+            <div class="nav-item" onclick="filterByStatus('all')">All</div>
+            <div class="nav-item" onclick="filterByStatus('unreviewed')">Unreviewed</div>
+            <div class="nav-item" onclick="filterByStatus('approved')">Approved</div>
+            <div class="nav-item" onclick="filterByStatus('needs-edit')">Needs Edit</div>
+            <div class="nav-item" onclick="filterByStatus('rejected')">Rejected</div>
+        </div>
+
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Actions</div>
+            <div class="nav-item" onclick="approveAll()" style="color: #22c55e;">
+                Approve All
+            </div>
+            <div class="nav-item" onclick="exportApprovals()" style="color: #FF8A00;">
+                Export Results JSON
+            </div>
+            <div class="nav-item" onclick="downloadPostPlannerCSV()" style="color: #a78bfa;">
+                PostPlanner Upload
+            </div>
+            <div class="nav-item" onclick="downloadTOBIExport()" style="color: #f472b6;">
+                TOBI Upload
+            </div>
+        </div>
+    </div>
+
+    <div class="main-content">
+        <div class="header">
+            <h1>Ballpark Banter — Content Review Dashboard</h1>
+            <div class="header-meta">
+                <div class="progress-bar">
+                    <div class="progress-label">
+                        <span id="reviewed-count">0</span> of <span id="total-count">10</span> items reviewed
+                    </div>
+                    <div class="progress-container">
+                        <div class="progress-fill" id="progress-fill" style="width: 0%"></div>
+                    </div>
+                    <div class="approval-stats" id="approval-stats">
+                        <span class="stat-chip stat-approved"><span class="stat-dot"></span> <span id="stat-approved-count">0</span> approved</span>
+                        <span class="stat-chip stat-rejected"><span class="stat-dot"></span> <span id="stat-rejected-count">0</span> rejected</span>
+                        <span class="stat-chip stat-unreviewed"><span class="stat-dot"></span> <span id="stat-unreviewed-count">0</span> unreviewed</span>
+                    </div>
+                </div>
+                <div class="header-actions">
+                    <button class="btn btn-secondary" onclick="resetAll()">Reset All</button>
+                    <button class="btn btn-csv" id="btn-csv" onclick="downloadPostPlannerCSV()" disabled>PostPlanner Upload (0 approved)</button>
+                    <button class="btn btn-csv" id="btn-tobi" onclick="downloadTOBIExport()" disabled style="background: #831843; border-color: #f472b6;">TOBI Upload (0 approved)</button>
+                    <button class="btn btn-primary" onclick="exportApprovals()">Export JSON</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="filter-bar">
+            <button class="filter-btn active" onclick="filterByStatus('all')">All</button>
+            <button class="filter-btn" onclick="filterByStatus('unreviewed')">Unreviewed</button>
+            <button class="filter-btn" onclick="filterByStatus('approved')">Approved</button>
+            <button class="filter-btn" onclick="filterByStatus('needs-edit')">Needs Edit</button>
+            <button class="filter-btn" onclick="filterByStatus('rejected')">Rejected</button>
+        </div>
+
+
+        <div class="content">
+            <div class="cards-container" id="cards-container">
+                <div class="card" data-id="story-1-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">2026 MLB Trade Deadline — Wrap-Up, All Confirmed Moves</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-1-daily_brief">
+                        <div class="card-content-text">2026 MLB Trade Deadline — Wrap-Up, All Confirmed Moves</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-1-daily_brief" placeholder="Edit content here...">2026 MLB Trade Deadline — Wrap-Up, All Confirmed Moves</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-1-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-1-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-1-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-1-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-1-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-1-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-1-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-1-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-1-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-1-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-1-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-2-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Dodgers + Skubal — World Series Favorites</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-2-daily_brief">
+                        <div class="card-content-text">Dodgers + Skubal — World Series Favorites</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-2-daily_brief" placeholder="Edit content here...">Dodgers + Skubal — World Series Favorites</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-2-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-2-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-2-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-2-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-2-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-2-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-2-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-2-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-2-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-2-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-2-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-3-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Dylan Cease — AL Cy Young Frontrunner, Post-Deadline</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-3-daily_brief">
+                        <div class="card-content-text">Dylan Cease — AL Cy Young Frontrunner, Post-Deadline</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-3-daily_brief" placeholder="Edit content here...">Dylan Cease — AL Cy Young Frontrunner, Post-Deadline</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-3-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-3-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-3-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-3-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-3-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-3-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-3-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-3-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-3-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-3-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-3-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-4-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">White Sox Shock Everyone — From Rebuilders to Deadline Buyers</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-4-daily_brief">
+                        <div class="card-content-text">White Sox Shock Everyone — From Rebuilders to Deadline Buyers</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-4-daily_brief" placeholder="Edit content here...">White Sox Shock Everyone — From Rebuilders to Deadline Buyers</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-4-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-4-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-4-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-4-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-4-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-4-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-4-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-4-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-4-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-4-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-4-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-5-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Kyle Schwarber Is Chasing 73 — The HR Race Nobody Expected</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-5-daily_brief">
+                        <div class="card-content-text">Kyle Schwarber Is Chasing 73 — The HR Race Nobody Expected</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-5-daily_brief" placeholder="Edit content here...">Kyle Schwarber Is Chasing 73 — The HR Race Nobody Expected</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-5-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-5-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-5-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-5-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-5-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-5-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-5-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-5-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-5-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-5-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-5-daily_brief"></div>
+                </div>
+                <div class="card" data-id="article-article-01-mlb-trade-deadline-2026-wrap-up" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">2026 MLB Trade Deadline: Every Major Move, Ranked by Impact</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-01-mlb-trade-deadline-2026-wrap-up">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;>
+<title>2026 MLB Trade Deadline: Every Major Move, Ranked by Impact</title>
+<meta name=&quot;description&quot; content=&quot;The 2026 MLB trade deadline closes at 6 PM ET today. Here's every confirmed major move and what it means for October.&quot;>
+</head>
+<body>
+
+<article>
+
+<h1>2026 MLB Trade Deadline: Every Major Move, Ranked by Impact</h1>
+
+<p><em>By Marcus Cole | Ballpark Banter</em></p>
+
+<p>The 2026 MLB trade deadline closes at 6 PM ET today — and it has already been one of the most active markets in recent memory. Teams across both leagues spent the final days loading up for October or cashing in prospects while the price was right. Here's a breakdown of every major confirmed move, and what each deal means for the second half.</p>
+
+<h2>The Blockbuster: Tarik Skubal to Los Angeles</h2>
+
+<p>The deadline's defining deal was already done before the calendar turned to August 3. Tarik Skubal — two-time AL Cy Young Award winner, 2.79 ERA in 16 starts this season — is now a Los Angeles Dodger. Detroit got a premium package in return: Zyhir Hope (the Dodgers' No. 5 prospect and a top-25 overall talent per MLB Pipeline), right-hander River Ryan (No. 7 in the system), and Brady Smith (No. 17). The Dodgers paid a genuine price for a genuine ace. Skubal is a free agent after 2026, making this a win-now move at full cost.</p>
+
+<h2>The Rotation Moves</h2>
+
+<p><strong>Freddy Peralta to the Rays:</strong> The Mets sent Peralta to Tampa Bay as part of the ongoing sell-off, receiving prospects Aidan Smith, Gary Gill Hill, and Émilien Pitre. Peralta gives a Rays rotation that constantly finds ways to compete another arm with legitimate swing-and-miss stuff.</p>
+
+<p><strong>Luis García Jr. to the Yankees:</strong> Washington continued to sell. New York added García Jr. from the Nationals, returning Ben Grable, Yovanny Cruz, Jake Bird, and Jack Cebert to the capital. The Yankees needed rotation depth for an October run, and García provides length.</p>
+
+<p><strong>Luis Castillo to the White Sox:</strong> The surprise of the deadline. Castillo is 3-9 with a 5.06 ERA in 2026 — not the line you expect to trigger a trade. But Seattle wanted the $24.2 million salary off the books after sliding out of Wild Card contention, and Chicago sent Seranthony Domínguez, Nolan Jones, and Boston Smith to get him. The White Sox are betting on pedigree: Castillo was a back-to-back All-Star in 2021 and 2022 and the ace of Seattle's 2022 playoff run. The stuff is still in there somewhere.</p>
+
+<p><strong>Bailey Falter to the Braves:</strong> Came over from Kansas City alongside Lane Thomas in a two-for-one deal. The Braves sent Lucas Braun and Carter Holton to the Royals. Falter joins an Atlanta rotation anchored by Chris Sale, who is 12-6 with a 2.08 ERA at age 37.</p>
+
+<p><strong>Dean Kremer and AJ Minter to the Twins:</strong> Minnesota made two separate deals — acquiring Kremer from Baltimore and Minter from Atlanta. The Twins are in a tight AL Wild Card race and needed both rotation depth and bullpen help. They got both.</p>
+
+<p><strong>Camilo Doval to the Pirates:</strong> San Francisco continued to sell its veterans while Pittsburgh adds a proven high-leverage arm. Doval has the closing experience Pittsburgh needs as a young team tries to stay competitive down the stretch.</p>
+
+<h2>The Position Player Deals</h2>
+
+<p><strong>Lane Thomas to the Braves</strong> (part of the Royals package) gives Atlanta an outfielder who has shown he can contribute in a bench or platoon role for a pennant contender.</p>
+
+<p><strong>Logan O'Hoppe and Chase Silseth to the Rangers:</strong> The Angels continued a sell-off, moving the catching prospect O'Hoppe and right-hander Silseth to Texas. The Rangers sent Angel Arredondo back to Anaheim.</p>
+
+<p><strong>Bo Naylor and Codi Heuer to the Brewers:</strong> Cleveland traded the catcher and reliever to Milwaukee, receiving Craig Yoho and Blake Perkins. The Brewers added depth for a postseason push.</p>
+
+<p><strong>Curtis Mead to the Red Sox:</strong> Tampa Bay's versatile prospect heads to Boston in a prospect-for-depth deal as the Rays continue their annual roster churn.</p>
+
+<h2>The Veteran Rotation Swap</h2>
+
+<p>In one of the more unusual moves of the deadline, Toronto and Chicago swapped veteran starters: the Blue Jays acquired Jameson Taillon from the Cubs, while Kevin Gausman went from Toronto to Chicago. Both are rentals, both teams get a change of scenery for proven arms.</p>
+
+<h2>The One Who Didn't Move: Adley Rutschman</h2>
+
+<p>Baltimore catcher Adley Rutschman had been the most-discussed player not yet on the move heading into deadline day. He landed on the 10-day IL with wrist inflammation — effectively taking him off the market before 6 PM ET. Whether Baltimore was truly prepared to trade him remains unclear. He's under team control through 2028.</p>
+
+<p>When the deadline buzzer sounds this evening, the teams that made their moves will begin the work of integration. The real evaluation begins in October.</p>
+
+</article>
+
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-01-mlb-trade-deadline-2026-wrap-up" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+&lt;title&gt;2026 MLB Trade Deadline: Every Major Move, Ranked by Impact&lt;/title&gt;
+&lt;meta name=&quot;description&quot; content=&quot;The 2026 MLB trade deadline closes at 6 PM ET today. Here&#x27;s every confirmed major move and what it means for October.&quot;&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;article&gt;
+
+&lt;h1&gt;2026 MLB Trade Deadline: Every Major Move, Ranked by Impact&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;By Marcus Cole | Ballpark Banter&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The 2026 MLB trade deadline closes at 6 PM ET today — and it has already been one of the most active markets in recent memory. Teams across both leagues spent the final days loading up for October or cashing in prospects while the price was right. Here&#x27;s a breakdown of every major confirmed move, and what each deal means for the second half.&lt;/p&gt;
+
+&lt;h2&gt;The Blockbuster: Tarik Skubal to Los Angeles&lt;/h2&gt;
+
+&lt;p&gt;The deadline&#x27;s defining deal was already done before the calendar turned to August 3. Tarik Skubal — two-time AL Cy Young Award winner, 2.79 ERA in 16 starts this season — is now a Los Angeles Dodger. Detroit got a premium package in return: Zyhir Hope (the Dodgers&#x27; No. 5 prospect and a top-25 overall talent per MLB Pipeline), right-hander River Ryan (No. 7 in the system), and Brady Smith (No. 17). The Dodgers paid a genuine price for a genuine ace. Skubal is a free agent after 2026, making this a win-now move at full cost.&lt;/p&gt;
+
+&lt;h2&gt;The Rotation Moves&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Freddy Peralta to the Rays:&lt;/strong&gt; The Mets sent Peralta to Tampa Bay as part of the ongoing sell-off, receiving prospects Aidan Smith, Gary Gill Hill, and Émilien Pitre. Peralta gives a Rays rotation that constantly finds ways to compete another arm with legitimate swing-and-miss stuff.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Luis García Jr. to the Yankees:&lt;/strong&gt; Washington continued to sell. New York added García Jr. from the Nationals, returning Ben Grable, Yovanny Cruz, Jake Bird, and Jack Cebert to the capital. The Yankees needed rotation depth for an October run, and García provides length.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Luis Castillo to the White Sox:&lt;/strong&gt; The surprise of the deadline. Castillo is 3-9 with a 5.06 ERA in 2026 — not the line you expect to trigger a trade. But Seattle wanted the $24.2 million salary off the books after sliding out of Wild Card contention, and Chicago sent Seranthony Domínguez, Nolan Jones, and Boston Smith to get him. The White Sox are betting on pedigree: Castillo was a back-to-back All-Star in 2021 and 2022 and the ace of Seattle&#x27;s 2022 playoff run. The stuff is still in there somewhere.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bailey Falter to the Braves:&lt;/strong&gt; Came over from Kansas City alongside Lane Thomas in a two-for-one deal. The Braves sent Lucas Braun and Carter Holton to the Royals. Falter joins an Atlanta rotation anchored by Chris Sale, who is 12-6 with a 2.08 ERA at age 37.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dean Kremer and AJ Minter to the Twins:&lt;/strong&gt; Minnesota made two separate deals — acquiring Kremer from Baltimore and Minter from Atlanta. The Twins are in a tight AL Wild Card race and needed both rotation depth and bullpen help. They got both.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Camilo Doval to the Pirates:&lt;/strong&gt; San Francisco continued to sell its veterans while Pittsburgh adds a proven high-leverage arm. Doval has the closing experience Pittsburgh needs as a young team tries to stay competitive down the stretch.&lt;/p&gt;
+
+&lt;h2&gt;The Position Player Deals&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Lane Thomas to the Braves&lt;/strong&gt; (part of the Royals package) gives Atlanta an outfielder who has shown he can contribute in a bench or platoon role for a pennant contender.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Logan O&#x27;Hoppe and Chase Silseth to the Rangers:&lt;/strong&gt; The Angels continued a sell-off, moving the catching prospect O&#x27;Hoppe and right-hander Silseth to Texas. The Rangers sent Angel Arredondo back to Anaheim.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bo Naylor and Codi Heuer to the Brewers:&lt;/strong&gt; Cleveland traded the catcher and reliever to Milwaukee, receiving Craig Yoho and Blake Perkins. The Brewers added depth for a postseason push.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Curtis Mead to the Red Sox:&lt;/strong&gt; Tampa Bay&#x27;s versatile prospect heads to Boston in a prospect-for-depth deal as the Rays continue their annual roster churn.&lt;/p&gt;
+
+&lt;h2&gt;The Veteran Rotation Swap&lt;/h2&gt;
+
+&lt;p&gt;In one of the more unusual moves of the deadline, Toronto and Chicago swapped veteran starters: the Blue Jays acquired Jameson Taillon from the Cubs, while Kevin Gausman went from Toronto to Chicago. Both are rentals, both teams get a change of scenery for proven arms.&lt;/p&gt;
+
+&lt;h2&gt;The One Who Didn&#x27;t Move: Adley Rutschman&lt;/h2&gt;
+
+&lt;p&gt;Baltimore catcher Adley Rutschman had been the most-discussed player not yet on the move heading into deadline day. He landed on the 10-day IL with wrist inflammation — effectively taking him off the market before 6 PM ET. Whether Baltimore was truly prepared to trade him remains unclear. He&#x27;s under team control through 2028.&lt;/p&gt;
+
+&lt;p&gt;When the deadline buzzer sounds this evening, the teams that made their moves will begin the work of integration. The real evaluation begins in October.&lt;/p&gt;
+
+&lt;/article&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-01-mlb-trade-deadline-2026-wrap-up">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-01-mlb-trade-deadline-2026-wrap-up')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-01-mlb-trade-deadline-2026-wrap-up')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-01-mlb-trade-deadline-2026-wrap-up">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-01-mlb-trade-deadline-2026-wrap-up')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-01-mlb-trade-deadline-2026-wrap-up')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-01-mlb-trade-deadline-2026-wrap-up')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-01-mlb-trade-deadline-2026-wrap-up')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-01-mlb-trade-deadline-2026-wrap-up">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-01-mlb-trade-deadline-2026-wrap-up" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-01-mlb-trade-deadline-2026-wrap-up"></div>
+                </div>
+                <div class="card" data-id="article-article-02-dodgers-skubal-world-series-favorites" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Dodgers Add Skubal to an Already Loaded Rotation — They&#x27;re the World Series Favorites</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-02-dodgers-skubal-world-series-favorites">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;>
+<title>Dodgers Add Skubal to an Already Loaded Rotation — They're the World Series Favorites</title>
+<meta name=&quot;description&quot; content=&quot;With Tarik Skubal now in Dodger blue and Shohei Ohtani working toward a return, Los Angeles is the clear World Series favorite heading into the second half.&quot;>
+</head>
+<body>
+
+<article>
+
+<h1>Dodgers Add Skubal to an Already Loaded Rotation — They're the World Series Favorites</h1>
+
+<p><em>By Jake Torres | Ballpark Banter</em></p>
+
+<p>When the Los Angeles Dodgers entered the 2026 season, the plan was to let Shohei Ohtani run their rotation. He posted a 1.79 ERA in 14 starts before a left knee and right biceps combination pulled him from the mound. The Dodgers needed a contingency plan. They didn't settle for one. They acquired the best starting pitcher available on the trade market.</p>
+
+<p>Tarik Skubal — two-time reigning AL Cy Young Award winner, 2.79 ERA in 16 starts this season — is now a Los Angeles Dodger. The deal, confirmed August 2, sent outfielder Zyhir Hope (the Dodgers' No. 5 prospect and a top-25 overall talent per MLB Pipeline), right-hander River Ryan (No. 7 in the system), and Brady Smith to Detroit. It was a real price, paid for a real ace.</p>
+
+<h2>What Skubal Brings</h2>
+
+<p>Skubal's 2026 numbers with Detroit — 2.79 ERA, 31 percent strikeout rate, 16 starts — are dominant. He missed time earlier in the year but returned to the level he's been at for two Cy Young cycles. His stuff is legitimate: a high-spin fastball that plays up in the zone, a slider that misses barrels at an elite clip, and the command to work deep into games against lineup top-to-bottom.</p>
+
+<p>Five teams were bidding for Skubal when the market opened. The Dodgers won that bidding war, and the price tells you something: this was a genuine contest among serious organizations. Los Angeles simply paid the most.</p>
+
+<p>There is a significant caveat. Skubal is a free agent after 2026. This is a one-year rental. The Dodgers are not acquiring him for a dynasty — they're acquiring him to win a World Series this October, and they're making the financial and prospect math work on that timeline alone.</p>
+
+<h2>The Rotation Picture</h2>
+
+<p>Here's what the Dodgers' October rotation looks like, pending Ohtani's return:</p>
+
+<p>Tarik Skubal. Tyler Glasnow. Shohei Ohtani — if and when he returns from the biceps and knee issues that have kept him off the mound since July 3.</p>
+
+<p>That is not a normal baseball rotation. That is a problem for every other team's lineup card.</p>
+
+<p>Dave Roberts confirmed last week, after Ohtani completed a 31-pitch bullpen session, that it would be &quot;at least a week to 10 days&quot; before Ohtani pitches in a game. He will not pitch on the current road trip. His 2026 ERA before going down was 1.79. If he returns healthy and progresses on schedule, he could pitch in games through August and be ready for a full October workload.</p>
+
+<p>The Dodgers don't need Ohtani to get back. With Skubal and Glasnow, they have two legitimate aces for a potential playoff rotation. Ohtani returning would simply make them historical.</p>
+
+<h2>The World Series Picture</h2>
+
+<p>The Dodgers were already one of baseball's best teams before the Skubal trade. They lead the NL West by a comfortable margin, their lineup remains among the best in baseball, and their bullpen has been reliable throughout the season.</p>
+
+<p>Adding Skubal removes the only genuine question mark anyone had about Los Angeles: rotation depth in a seven-game series. The Dodgers now have an answer for Games 1 and 2 in any playoff round, with Glasnow available for Game 3 and Ohtani — if healthy — available for Games 4 and 5.</p>
+
+<p>The rest of the field still exists. The Braves have Chris Sale. The Phillies have a lineup that could beat anyone. The American League has multiple contenders. But there is one team that separated from the rest of the field at this deadline.</p>
+
+<p>The Dodgers are the team to beat. They chose to be. They paid the price to earn it.</p>
+
+</article>
+
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-02-dodgers-skubal-world-series-favorites" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+&lt;title&gt;Dodgers Add Skubal to an Already Loaded Rotation — They&#x27;re the World Series Favorites&lt;/title&gt;
+&lt;meta name=&quot;description&quot; content=&quot;With Tarik Skubal now in Dodger blue and Shohei Ohtani working toward a return, Los Angeles is the clear World Series favorite heading into the second half.&quot;&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;article&gt;
+
+&lt;h1&gt;Dodgers Add Skubal to an Already Loaded Rotation — They&#x27;re the World Series Favorites&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;By Jake Torres | Ballpark Banter&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;When the Los Angeles Dodgers entered the 2026 season, the plan was to let Shohei Ohtani run their rotation. He posted a 1.79 ERA in 14 starts before a left knee and right biceps combination pulled him from the mound. The Dodgers needed a contingency plan. They didn&#x27;t settle for one. They acquired the best starting pitcher available on the trade market.&lt;/p&gt;
+
+&lt;p&gt;Tarik Skubal — two-time reigning AL Cy Young Award winner, 2.79 ERA in 16 starts this season — is now a Los Angeles Dodger. The deal, confirmed August 2, sent outfielder Zyhir Hope (the Dodgers&#x27; No. 5 prospect and a top-25 overall talent per MLB Pipeline), right-hander River Ryan (No. 7 in the system), and Brady Smith to Detroit. It was a real price, paid for a real ace.&lt;/p&gt;
+
+&lt;h2&gt;What Skubal Brings&lt;/h2&gt;
+
+&lt;p&gt;Skubal&#x27;s 2026 numbers with Detroit — 2.79 ERA, 31 percent strikeout rate, 16 starts — are dominant. He missed time earlier in the year but returned to the level he&#x27;s been at for two Cy Young cycles. His stuff is legitimate: a high-spin fastball that plays up in the zone, a slider that misses barrels at an elite clip, and the command to work deep into games against lineup top-to-bottom.&lt;/p&gt;
+
+&lt;p&gt;Five teams were bidding for Skubal when the market opened. The Dodgers won that bidding war, and the price tells you something: this was a genuine contest among serious organizations. Los Angeles simply paid the most.&lt;/p&gt;
+
+&lt;p&gt;There is a significant caveat. Skubal is a free agent after 2026. This is a one-year rental. The Dodgers are not acquiring him for a dynasty — they&#x27;re acquiring him to win a World Series this October, and they&#x27;re making the financial and prospect math work on that timeline alone.&lt;/p&gt;
+
+&lt;h2&gt;The Rotation Picture&lt;/h2&gt;
+
+&lt;p&gt;Here&#x27;s what the Dodgers&#x27; October rotation looks like, pending Ohtani&#x27;s return:&lt;/p&gt;
+
+&lt;p&gt;Tarik Skubal. Tyler Glasnow. Shohei Ohtani — if and when he returns from the biceps and knee issues that have kept him off the mound since July 3.&lt;/p&gt;
+
+&lt;p&gt;That is not a normal baseball rotation. That is a problem for every other team&#x27;s lineup card.&lt;/p&gt;
+
+&lt;p&gt;Dave Roberts confirmed last week, after Ohtani completed a 31-pitch bullpen session, that it would be &quot;at least a week to 10 days&quot; before Ohtani pitches in a game. He will not pitch on the current road trip. His 2026 ERA before going down was 1.79. If he returns healthy and progresses on schedule, he could pitch in games through August and be ready for a full October workload.&lt;/p&gt;
+
+&lt;p&gt;The Dodgers don&#x27;t need Ohtani to get back. With Skubal and Glasnow, they have two legitimate aces for a potential playoff rotation. Ohtani returning would simply make them historical.&lt;/p&gt;
+
+&lt;h2&gt;The World Series Picture&lt;/h2&gt;
+
+&lt;p&gt;The Dodgers were already one of baseball&#x27;s best teams before the Skubal trade. They lead the NL West by a comfortable margin, their lineup remains among the best in baseball, and their bullpen has been reliable throughout the season.&lt;/p&gt;
+
+&lt;p&gt;Adding Skubal removes the only genuine question mark anyone had about Los Angeles: rotation depth in a seven-game series. The Dodgers now have an answer for Games 1 and 2 in any playoff round, with Glasnow available for Game 3 and Ohtani — if healthy — available for Games 4 and 5.&lt;/p&gt;
+
+&lt;p&gt;The rest of the field still exists. The Braves have Chris Sale. The Phillies have a lineup that could beat anyone. The American League has multiple contenders. But there is one team that separated from the rest of the field at this deadline.&lt;/p&gt;
+
+&lt;p&gt;The Dodgers are the team to beat. They chose to be. They paid the price to earn it.&lt;/p&gt;
+
+&lt;/article&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-02-dodgers-skubal-world-series-favorites">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-02-dodgers-skubal-world-series-favorites')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-02-dodgers-skubal-world-series-favorites')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-02-dodgers-skubal-world-series-favorites">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-02-dodgers-skubal-world-series-favorites')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-02-dodgers-skubal-world-series-favorites')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-02-dodgers-skubal-world-series-favorites')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-02-dodgers-skubal-world-series-favorites')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-02-dodgers-skubal-world-series-favorites">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-02-dodgers-skubal-world-series-favorites" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-02-dodgers-skubal-world-series-favorites"></div>
+                </div>
+                <div class="card" data-id="article-article-03-dylan-cease-al-cy-young-frontrunner" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Dylan Cease Is the AL Cy Young Frontrunner — And the Trade Deadline Just Made It Official</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-03-dylan-cease-al-cy-young-frontrunner">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;>
+<title>Dylan Cease Is the AL Cy Young Frontrunner — And the Trade Deadline Just Made It Official</title>
+<meta name=&quot;description&quot; content=&quot;With Tarik Skubal now in Los Angeles, Dylan Cease stands alone as the AL Cy Young frontrunner heading into the second half. His July ERA of 1.00 says everything.&quot;>
+</head>
+<body>
+
+<article>
+
+<h1>Dylan Cease Is the AL Cy Young Frontrunner — And the Trade Deadline Just Made It Official</h1>
+
+<p><em>By Ryan Calloway | Ballpark Banter</em></p>
+
+<p>The trade deadline has a way of clarifying things. When Tarik Skubal was traded from Detroit to Los Angeles on August 2, it didn't just change the World Series odds. It changed the AL Cy Young race.</p>
+
+<p>Dylan Cease is now the frontrunner. And after watching what he did in July, that designation feels entirely earned.</p>
+
+<h2>The July That Defined His Case</h2>
+
+<p>Cease's July ERA was 1.00. Not 1.09, not 1.14. One-point-zero-zero, in a full calendar month of starts in the American League. That figure ranks as the fourth-lowest single-month ERA in Toronto Blue Jays franchise history for any pitcher with at least 30 innings pitched. He is in rare company in a franchise that has iced Roger Clemens in his prime.</p>
+
+<p>His signature moment in July: a one-hit complete game against the Boston Red Sox, striking out 12. It was the first one-hit complete game by a Blue Jays pitcher in 16 years. That's not just a good outing — that's a franchise-history-worthy performance, tucked into what has been the best month of pitching Toronto has seen in years.</p>
+
+<p>Season-wide, his numbers hold up to any scrutiny. Cease is 7-5 with a 2.46 ERA, 167 strikeouts in 113.1 innings across 17 starts. His K/9 rate of 13.26 leads the American League. He has been, quietly or not, one of the three or four best pitchers in the sport all season.</p>
+
+<h2>Why the Trade Changes Things</h2>
+
+<p>Before the deadline, the AL Cy Young race was at minimum a two-horse conversation. Tarik Skubal, with a 2.79 ERA in 16 starts for Detroit, had a legitimate case of his own — better numbers on a per-game basis, with the full-season Cy Young narrative in play.</p>
+
+<p>That narrative fractured the moment Skubal boarded a plane to Los Angeles.</p>
+
+<p>Cy Young voters evaluate pitchers' full seasons with one club. A mid-season trade — even a trade that gives Skubal a legitimate shot at a ring — breaks the season in half. His Detroit numbers count, but his Dodgers numbers will be compiled in a different league, with different opponents, as a newcomer to a new system. That's not an advantage.</p>
+
+<p>Cease, by contrast, is going nowhere. The Blue Jays signed him in December 2025 to a 7-year, $210 million contract. They did not accept any trade offers at this deadline. Cease will finish 2026 in Toronto, with every start in one uniform, compiling one continuous body of work for Cy Young voters to evaluate.</p>
+
+<h2>Who's Chasing Him?</h2>
+
+<p>Cam Schlittler sits second in AL fWAR at 4.2, just ahead of Cease's 4.1. That gap is close enough that the race remains genuinely competitive. Schlittler has his own excellent season to point to. But fWAR is one input among many for Cy Young voters — ERA and strikeouts carry real weight, and Cease's 2.46 ERA and 167 Ks provide a compelling case in those traditional categories.</p>
+
+<p>The field beyond Schlittler is largely a second tier. No other AL starter has separated himself the way Cease has over the course of a full season.</p>
+
+<h2>The Second Half Question</h2>
+
+<p>The Cy Young is won in the second half. Cease has to prove that July wasn't a peak. He has to sustain — not necessarily 1.00 ERA territory, but the level that makes him the best pitcher in the league entering September.</p>
+
+<p>Based on what he's shown, that's not a stretch. His stuff hasn't wavered. His command has been consistent. And the Blue Jays, fighting for their own playoff position, will give him every opportunity to make his case start by start.</p>
+
+<p>The deadline is done. Skubal is in Los Angeles. The AL Cy Young race has a clear leader.</p>
+
+<p>His name is Dylan Cease, and he's just getting started.</p>
+
+</article>
+
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-03-dylan-cease-al-cy-young-frontrunner" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+&lt;title&gt;Dylan Cease Is the AL Cy Young Frontrunner — And the Trade Deadline Just Made It Official&lt;/title&gt;
+&lt;meta name=&quot;description&quot; content=&quot;With Tarik Skubal now in Los Angeles, Dylan Cease stands alone as the AL Cy Young frontrunner heading into the second half. His July ERA of 1.00 says everything.&quot;&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;article&gt;
+
+&lt;h1&gt;Dylan Cease Is the AL Cy Young Frontrunner — And the Trade Deadline Just Made It Official&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;By Ryan Calloway | Ballpark Banter&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The trade deadline has a way of clarifying things. When Tarik Skubal was traded from Detroit to Los Angeles on August 2, it didn&#x27;t just change the World Series odds. It changed the AL Cy Young race.&lt;/p&gt;
+
+&lt;p&gt;Dylan Cease is now the frontrunner. And after watching what he did in July, that designation feels entirely earned.&lt;/p&gt;
+
+&lt;h2&gt;The July That Defined His Case&lt;/h2&gt;
+
+&lt;p&gt;Cease&#x27;s July ERA was 1.00. Not 1.09, not 1.14. One-point-zero-zero, in a full calendar month of starts in the American League. That figure ranks as the fourth-lowest single-month ERA in Toronto Blue Jays franchise history for any pitcher with at least 30 innings pitched. He is in rare company in a franchise that has iced Roger Clemens in his prime.&lt;/p&gt;
+
+&lt;p&gt;His signature moment in July: a one-hit complete game against the Boston Red Sox, striking out 12. It was the first one-hit complete game by a Blue Jays pitcher in 16 years. That&#x27;s not just a good outing — that&#x27;s a franchise-history-worthy performance, tucked into what has been the best month of pitching Toronto has seen in years.&lt;/p&gt;
+
+&lt;p&gt;Season-wide, his numbers hold up to any scrutiny. Cease is 7-5 with a 2.46 ERA, 167 strikeouts in 113.1 innings across 17 starts. His K/9 rate of 13.26 leads the American League. He has been, quietly or not, one of the three or four best pitchers in the sport all season.&lt;/p&gt;
+
+&lt;h2&gt;Why the Trade Changes Things&lt;/h2&gt;
+
+&lt;p&gt;Before the deadline, the AL Cy Young race was at minimum a two-horse conversation. Tarik Skubal, with a 2.79 ERA in 16 starts for Detroit, had a legitimate case of his own — better numbers on a per-game basis, with the full-season Cy Young narrative in play.&lt;/p&gt;
+
+&lt;p&gt;That narrative fractured the moment Skubal boarded a plane to Los Angeles.&lt;/p&gt;
+
+&lt;p&gt;Cy Young voters evaluate pitchers&#x27; full seasons with one club. A mid-season trade — even a trade that gives Skubal a legitimate shot at a ring — breaks the season in half. His Detroit numbers count, but his Dodgers numbers will be compiled in a different league, with different opponents, as a newcomer to a new system. That&#x27;s not an advantage.&lt;/p&gt;
+
+&lt;p&gt;Cease, by contrast, is going nowhere. The Blue Jays signed him in December 2025 to a 7-year, $210 million contract. They did not accept any trade offers at this deadline. Cease will finish 2026 in Toronto, with every start in one uniform, compiling one continuous body of work for Cy Young voters to evaluate.&lt;/p&gt;
+
+&lt;h2&gt;Who&#x27;s Chasing Him?&lt;/h2&gt;
+
+&lt;p&gt;Cam Schlittler sits second in AL fWAR at 4.2, just ahead of Cease&#x27;s 4.1. That gap is close enough that the race remains genuinely competitive. Schlittler has his own excellent season to point to. But fWAR is one input among many for Cy Young voters — ERA and strikeouts carry real weight, and Cease&#x27;s 2.46 ERA and 167 Ks provide a compelling case in those traditional categories.&lt;/p&gt;
+
+&lt;p&gt;The field beyond Schlittler is largely a second tier. No other AL starter has separated himself the way Cease has over the course of a full season.&lt;/p&gt;
+
+&lt;h2&gt;The Second Half Question&lt;/h2&gt;
+
+&lt;p&gt;The Cy Young is won in the second half. Cease has to prove that July wasn&#x27;t a peak. He has to sustain — not necessarily 1.00 ERA territory, but the level that makes him the best pitcher in the league entering September.&lt;/p&gt;
+
+&lt;p&gt;Based on what he&#x27;s shown, that&#x27;s not a stretch. His stuff hasn&#x27;t wavered. His command has been consistent. And the Blue Jays, fighting for their own playoff position, will give him every opportunity to make his case start by start.&lt;/p&gt;
+
+&lt;p&gt;The deadline is done. Skubal is in Los Angeles. The AL Cy Young race has a clear leader.&lt;/p&gt;
+
+&lt;p&gt;His name is Dylan Cease, and he&#x27;s just getting started.&lt;/p&gt;
+
+&lt;/article&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-03-dylan-cease-al-cy-young-frontrunner">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-03-dylan-cease-al-cy-young-frontrunner')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-03-dylan-cease-al-cy-young-frontrunner')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-03-dylan-cease-al-cy-young-frontrunner">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-03-dylan-cease-al-cy-young-frontrunner')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-03-dylan-cease-al-cy-young-frontrunner')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-03-dylan-cease-al-cy-young-frontrunner')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-03-dylan-cease-al-cy-young-frontrunner')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-03-dylan-cease-al-cy-young-frontrunner">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-03-dylan-cease-al-cy-young-frontrunner" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-03-dylan-cease-al-cy-young-frontrunner"></div>
+                </div>
+                <div class="card" data-id="article-article-04-white-sox-deadline-buyers-castillo" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Two Years After 121 Losses, the White Sox Are Deadline Buyers</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-04-white-sox-deadline-buyers-castillo">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;>
+<title>Two Years After 121 Losses, the White Sox Are Deadline Buyers</title>
+<meta name=&quot;description&quot; content=&quot;The Chicago White Sox acquired Luis Castillo at the 2026 trade deadline — a stunning reversal for a franchise that set the MLB record for losses in 2024.&quot;>
+</head>
+<body>
+
+<article>
+
+<h1>Two Years After 121 Losses, the White Sox Are Deadline Buyers</h1>
+
+<p><em>By Marcus Cole | Ballpark Banter</em></p>
+
+<p>Two years ago, the Chicago White Sox lost 121 games. It was the worst single-season record in the history of Major League Baseball — a milestone nobody wanted to reach, a franchise scraping the bottom of its rebuild in full public view.</p>
+
+<p>Yesterday, they were a trade deadline buyer.</p>
+
+<p>The Chicago White Sox acquired Luis Castillo from the Seattle Mariners before the August 3 deadline, sending Seranthony Domínguez, Nolan Jones, and Boston Smith to the Pacific Northwest. It is the most unexpected move of this deadline market — and one of the fastest rebuild turnarounds in recent memory.</p>
+
+<h2>Understanding the Castillo Deal</h2>
+
+<p>On the surface, Luis Castillo's 2026 numbers don't inspire confidence. He's 3-9 with a 5.06 ERA in 99.2 innings pitched with Seattle. The ERA is nearly two full runs above what a contending team typically wants from a rotation piece they trade prospects to acquire.</p>
+
+<p>But this deal wasn't made on 2026 ERA. It was made on Castillo's track record, his age (33), and the circumstances that explain — at least partially — the difficult year.</p>
+
+<p>Castillo was a back-to-back All-Star in 2021 and 2022. He was the ace of the Mariners' 2022 playoff rotation, the arm Seattle leaned on when they ended their 21-year postseason drought. He has 99.2 innings this season, which means the stuff hasn't disappeared — it just hasn't been producing results at the level his pedigree suggests it should.</p>
+
+<p>The White Sox are betting that a change of context produces a change of outcomes. That is a bet, not a certainty. But it's an informed one.</p>
+
+<p>For Seattle, the motivation was cleaner. The Mariners are sliding out of Wild Card contention in 2026, and Castillo carries a $24.2 million salary this year — with a $22.75 million club option for 2027 that becomes a genuine question if the team is rebuilding rather than competing. Moving him now clears salary and brings back prospects. It's a logical sell-off for a team in the wrong part of their cycle.</p>
+
+<h2>The Chicago Timeline</h2>
+
+<p>What makes this remarkable is the speed of the reversal. The White Sox's 2024 collapse — 41 wins, 121 losses, record-setting futility — was genuinely historic. Teams that lose at that rate typically spend three to five years in developmental mode before they're relevant enough to buy at the deadline.</p>
+
+<p>Chicago has apparently compressed that timeline.</p>
+
+<p>It's worth noting what &quot;buyer&quot; means in context. The White Sox are not the Dodgers. They aren't adding Skubal for a World Series run. But appearing at this deadline as an organization willing to trade prospects for an established pitcher signals something real: the front office believes the window is opening, and they're willing to invest in it now rather than wait.</p>
+
+<p>Whether that calculation is correct will play out over the rest of 2026 and into next year. Castillo needs to find his footing quickly for it to matter this season. A full offseason with the organization will matter more for what 2027 looks like.</p>
+
+<h2>The Broader Signal</h2>
+
+<p>The Castillo trade isn't an isolated move. It fits a pattern of a White Sox organization that has shed its full-tank mentality and started building toward relevance on a specific timeline. When an organization with 121 losses two years in their past shows up as a deadline buyer, it deserves attention — not necessarily as a World Series contender in 2026, but as a franchise that is serious about getting there.</p>
+
+<p>From 121 losses to the deadline market in two years. The rebuild isn't done, but it's moving faster than the most pessimistic projections suggested it would.</p>
+
+</article>
+
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-04-white-sox-deadline-buyers-castillo" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+&lt;title&gt;Two Years After 121 Losses, the White Sox Are Deadline Buyers&lt;/title&gt;
+&lt;meta name=&quot;description&quot; content=&quot;The Chicago White Sox acquired Luis Castillo at the 2026 trade deadline — a stunning reversal for a franchise that set the MLB record for losses in 2024.&quot;&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;article&gt;
+
+&lt;h1&gt;Two Years After 121 Losses, the White Sox Are Deadline Buyers&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;By Marcus Cole | Ballpark Banter&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Two years ago, the Chicago White Sox lost 121 games. It was the worst single-season record in the history of Major League Baseball — a milestone nobody wanted to reach, a franchise scraping the bottom of its rebuild in full public view.&lt;/p&gt;
+
+&lt;p&gt;Yesterday, they were a trade deadline buyer.&lt;/p&gt;
+
+&lt;p&gt;The Chicago White Sox acquired Luis Castillo from the Seattle Mariners before the August 3 deadline, sending Seranthony Domínguez, Nolan Jones, and Boston Smith to the Pacific Northwest. It is the most unexpected move of this deadline market — and one of the fastest rebuild turnarounds in recent memory.&lt;/p&gt;
+
+&lt;h2&gt;Understanding the Castillo Deal&lt;/h2&gt;
+
+&lt;p&gt;On the surface, Luis Castillo&#x27;s 2026 numbers don&#x27;t inspire confidence. He&#x27;s 3-9 with a 5.06 ERA in 99.2 innings pitched with Seattle. The ERA is nearly two full runs above what a contending team typically wants from a rotation piece they trade prospects to acquire.&lt;/p&gt;
+
+&lt;p&gt;But this deal wasn&#x27;t made on 2026 ERA. It was made on Castillo&#x27;s track record, his age (33), and the circumstances that explain — at least partially — the difficult year.&lt;/p&gt;
+
+&lt;p&gt;Castillo was a back-to-back All-Star in 2021 and 2022. He was the ace of the Mariners&#x27; 2022 playoff rotation, the arm Seattle leaned on when they ended their 21-year postseason drought. He has 99.2 innings this season, which means the stuff hasn&#x27;t disappeared — it just hasn&#x27;t been producing results at the level his pedigree suggests it should.&lt;/p&gt;
+
+&lt;p&gt;The White Sox are betting that a change of context produces a change of outcomes. That is a bet, not a certainty. But it&#x27;s an informed one.&lt;/p&gt;
+
+&lt;p&gt;For Seattle, the motivation was cleaner. The Mariners are sliding out of Wild Card contention in 2026, and Castillo carries a $24.2 million salary this year — with a $22.75 million club option for 2027 that becomes a genuine question if the team is rebuilding rather than competing. Moving him now clears salary and brings back prospects. It&#x27;s a logical sell-off for a team in the wrong part of their cycle.&lt;/p&gt;
+
+&lt;h2&gt;The Chicago Timeline&lt;/h2&gt;
+
+&lt;p&gt;What makes this remarkable is the speed of the reversal. The White Sox&#x27;s 2024 collapse — 41 wins, 121 losses, record-setting futility — was genuinely historic. Teams that lose at that rate typically spend three to five years in developmental mode before they&#x27;re relevant enough to buy at the deadline.&lt;/p&gt;
+
+&lt;p&gt;Chicago has apparently compressed that timeline.&lt;/p&gt;
+
+&lt;p&gt;It&#x27;s worth noting what &quot;buyer&quot; means in context. The White Sox are not the Dodgers. They aren&#x27;t adding Skubal for a World Series run. But appearing at this deadline as an organization willing to trade prospects for an established pitcher signals something real: the front office believes the window is opening, and they&#x27;re willing to invest in it now rather than wait.&lt;/p&gt;
+
+&lt;p&gt;Whether that calculation is correct will play out over the rest of 2026 and into next year. Castillo needs to find his footing quickly for it to matter this season. A full offseason with the organization will matter more for what 2027 looks like.&lt;/p&gt;
+
+&lt;h2&gt;The Broader Signal&lt;/h2&gt;
+
+&lt;p&gt;The Castillo trade isn&#x27;t an isolated move. It fits a pattern of a White Sox organization that has shed its full-tank mentality and started building toward relevance on a specific timeline. When an organization with 121 losses two years in their past shows up as a deadline buyer, it deserves attention — not necessarily as a World Series contender in 2026, but as a franchise that is serious about getting there.&lt;/p&gt;
+
+&lt;p&gt;From 121 losses to the deadline market in two years. The rebuild isn&#x27;t done, but it&#x27;s moving faster than the most pessimistic projections suggested it would.&lt;/p&gt;
+
+&lt;/article&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-04-white-sox-deadline-buyers-castillo">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-04-white-sox-deadline-buyers-castillo')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-04-white-sox-deadline-buyers-castillo')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-04-white-sox-deadline-buyers-castillo">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-04-white-sox-deadline-buyers-castillo')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-04-white-sox-deadline-buyers-castillo')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-04-white-sox-deadline-buyers-castillo')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-04-white-sox-deadline-buyers-castillo')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-04-white-sox-deadline-buyers-castillo">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-04-white-sox-deadline-buyers-castillo" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-04-white-sox-deadline-buyers-castillo"></div>
+                </div>
+                <div class="card" data-id="article-article-05-kyle-schwarber-hr-chase-2026" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Kyle Schwarber Entered August With 33 HR. The Barry Bonds Record Is Now in the Conversation.</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-05-kyle-schwarber-hr-chase-2026">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;>
+<title>Kyle Schwarber Entered August With 33 HR. The Barry Bonds Record Is Now in the Conversation.</title>
+<meta name=&quot;description&quot; content=&quot;Kyle Schwarber is on pace for 72 home runs, just one shy of Barry Bonds' all-time record of 73. Here's why the second half matters more than any projection.&quot;>
+</head>
+<body>
+
+<article>
+
+<h1>Kyle Schwarber Entered August With 33 HR. The Barry Bonds Record Is Now in the Conversation.</h1>
+
+<p><em>By Jake Torres | Ballpark Banter</em></p>
+
+<p>The number sits out there quietly, not yet screaming but impossible to ignore once you see it: 72. That's the pace Kyle Schwarber is on for home runs in 2026. Barry Bonds' all-time record is 73, set in 2001 — the year that many assumed would end the era of genuine 70-home-run threats in baseball.</p>
+
+<p>Twenty-five years later, Schwarber is making it look possible again.</p>
+
+<h2>Where He Stands</h2>
+
+<p>Schwarber entered August with 33 home runs. He is the first Philadelphia Phillies player to reach the 30-home-run mark before August in franchise history. That alone would be worth noting. But the pace is what turns this from a good season into a potential piece of baseball history.</p>
+
+<p>He has now hit 30 or more home runs in six consecutive seasons — the longest active streak in Major League Baseball. He didn't start that streak with one exceptional year and fade; he built it, maintained it, and in 2026 has pushed it into territory nobody expected from a player who has always been more feared than dominant over a full year.</p>
+
+<p>The June and July performance is what powered the pace projection. His first-half pace has been relentless in a way that his previous seasons haven't always been — fewer cold stretches, fewer multi-week droughts where the power dried up. The consistency has been different this year, and that consistency is what produces a 72-HR pace rather than the 40-something that has been his actual finishing number most years.</p>
+
+<h2>The Derby That Didn't Help</h2>
+
+<p>Schwarber was the runner-up at the 2026 Home Run Derby, losing to St. Louis Cardinals outfielder Jordan Walker 12-11 in the final. It was a legitimately close contest. It also served as a reminder that Schwarber can generate power at a rate that gets attention in a showcase environment.</p>
+
+<p>Derby performance doesn't predict second-half numbers, but it does speak to the quality of the swing. Schwarber's swing still generates elite exit velocity. The contact rate has never been his strength — his career average reflects a pull-happy approach that produces pop but also strikeouts — but the power tool that drives everything is clearly still operating at full output.</p>
+
+<h2>The Record, Put in Context</h2>
+
+<p>To actually reach 73 home runs, Schwarber would need to maintain roughly his current pace through the remaining two months of the season. That's approximately 39-40 home runs in the second half alone — a number only a handful of players have ever approached in any single half of a season.</p>
+
+<p>The more realistic and still historically significant conversations are in the 55-65 range:</p>
+
+<p>Roger Maris hit 61 in 1961, which stood as the American League record for decades and the NL-style record in many reference points. The 60-homer club — Bonds (73, 2001), Sammy Sosa (66, 64, 63 across multiple seasons), Mark McGwire (70, 65) — is the short list of the most prolific single-season power performances in history. If Schwarber reaches 60, he joins a group of four players who have done it in over 150 years of professional baseball.</p>
+
+<p>That's the number worth watching in August. Not 73, but 60. And then 65. And then see what's left on the calendar.</p>
+
+<h2>What the Second Half Looks Like</h2>
+
+<p>Schwarber's historical second-half splits have occasionally shown a slight decline — not a collapse, but a reversion toward a slightly lower pace than his white-hot first halves. The Phillies lineup around him remains excellent; Bryce Harper, Nick Castellanos, and the rest of the order give opposing pitchers very few places to put Schwarber on base intentionally without consequences.</p>
+
+<p>He will get pitches to hit. Whether he hits them at the rate needed to stay on pace for 70-plus is the question August will begin to answer.</p>
+
+<p>For now, though, 33 home runs entering August with the Phillies in the thick of a pennant race is a remarkable place to be. The second half of Kyle Schwarber's 2026 season is going to be worth watching. All of it.</p>
+
+</article>
+
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-05-kyle-schwarber-hr-chase-2026" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+&lt;title&gt;Kyle Schwarber Entered August With 33 HR. The Barry Bonds Record Is Now in the Conversation.&lt;/title&gt;
+&lt;meta name=&quot;description&quot; content=&quot;Kyle Schwarber is on pace for 72 home runs, just one shy of Barry Bonds&#x27; all-time record of 73. Here&#x27;s why the second half matters more than any projection.&quot;&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;article&gt;
+
+&lt;h1&gt;Kyle Schwarber Entered August With 33 HR. The Barry Bonds Record Is Now in the Conversation.&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;By Jake Torres | Ballpark Banter&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The number sits out there quietly, not yet screaming but impossible to ignore once you see it: 72. That&#x27;s the pace Kyle Schwarber is on for home runs in 2026. Barry Bonds&#x27; all-time record is 73, set in 2001 — the year that many assumed would end the era of genuine 70-home-run threats in baseball.&lt;/p&gt;
+
+&lt;p&gt;Twenty-five years later, Schwarber is making it look possible again.&lt;/p&gt;
+
+&lt;h2&gt;Where He Stands&lt;/h2&gt;
+
+&lt;p&gt;Schwarber entered August with 33 home runs. He is the first Philadelphia Phillies player to reach the 30-home-run mark before August in franchise history. That alone would be worth noting. But the pace is what turns this from a good season into a potential piece of baseball history.&lt;/p&gt;
+
+&lt;p&gt;He has now hit 30 or more home runs in six consecutive seasons — the longest active streak in Major League Baseball. He didn&#x27;t start that streak with one exceptional year and fade; he built it, maintained it, and in 2026 has pushed it into territory nobody expected from a player who has always been more feared than dominant over a full year.&lt;/p&gt;
+
+&lt;p&gt;The June and July performance is what powered the pace projection. His first-half pace has been relentless in a way that his previous seasons haven&#x27;t always been — fewer cold stretches, fewer multi-week droughts where the power dried up. The consistency has been different this year, and that consistency is what produces a 72-HR pace rather than the 40-something that has been his actual finishing number most years.&lt;/p&gt;
+
+&lt;h2&gt;The Derby That Didn&#x27;t Help&lt;/h2&gt;
+
+&lt;p&gt;Schwarber was the runner-up at the 2026 Home Run Derby, losing to St. Louis Cardinals outfielder Jordan Walker 12-11 in the final. It was a legitimately close contest. It also served as a reminder that Schwarber can generate power at a rate that gets attention in a showcase environment.&lt;/p&gt;
+
+&lt;p&gt;Derby performance doesn&#x27;t predict second-half numbers, but it does speak to the quality of the swing. Schwarber&#x27;s swing still generates elite exit velocity. The contact rate has never been his strength — his career average reflects a pull-happy approach that produces pop but also strikeouts — but the power tool that drives everything is clearly still operating at full output.&lt;/p&gt;
+
+&lt;h2&gt;The Record, Put in Context&lt;/h2&gt;
+
+&lt;p&gt;To actually reach 73 home runs, Schwarber would need to maintain roughly his current pace through the remaining two months of the season. That&#x27;s approximately 39-40 home runs in the second half alone — a number only a handful of players have ever approached in any single half of a season.&lt;/p&gt;
+
+&lt;p&gt;The more realistic and still historically significant conversations are in the 55-65 range:&lt;/p&gt;
+
+&lt;p&gt;Roger Maris hit 61 in 1961, which stood as the American League record for decades and the NL-style record in many reference points. The 60-homer club — Bonds (73, 2001), Sammy Sosa (66, 64, 63 across multiple seasons), Mark McGwire (70, 65) — is the short list of the most prolific single-season power performances in history. If Schwarber reaches 60, he joins a group of four players who have done it in over 150 years of professional baseball.&lt;/p&gt;
+
+&lt;p&gt;That&#x27;s the number worth watching in August. Not 73, but 60. And then 65. And then see what&#x27;s left on the calendar.&lt;/p&gt;
+
+&lt;h2&gt;What the Second Half Looks Like&lt;/h2&gt;
+
+&lt;p&gt;Schwarber&#x27;s historical second-half splits have occasionally shown a slight decline — not a collapse, but a reversion toward a slightly lower pace than his white-hot first halves. The Phillies lineup around him remains excellent; Bryce Harper, Nick Castellanos, and the rest of the order give opposing pitchers very few places to put Schwarber on base intentionally without consequences.&lt;/p&gt;
+
+&lt;p&gt;He will get pitches to hit. Whether he hits them at the rate needed to stay on pace for 70-plus is the question August will begin to answer.&lt;/p&gt;
+
+&lt;p&gt;For now, though, 33 home runs entering August with the Phillies in the thick of a pennant race is a remarkable place to be. The second half of Kyle Schwarber&#x27;s 2026 season is going to be worth watching. All of it.&lt;/p&gt;
+
+&lt;/article&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-05-kyle-schwarber-hr-chase-2026">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-05-kyle-schwarber-hr-chase-2026')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-05-kyle-schwarber-hr-chase-2026')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-05-kyle-schwarber-hr-chase-2026">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-05-kyle-schwarber-hr-chase-2026')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-05-kyle-schwarber-hr-chase-2026')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-05-kyle-schwarber-hr-chase-2026')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-05-kyle-schwarber-hr-chase-2026')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-05-kyle-schwarber-hr-chase-2026">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-05-kyle-schwarber-hr-chase-2026" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-05-kyle-schwarber-hr-chase-2026"></div>
+                </div>
+            </div>
+
+            <div class="empty-state" id="empty-state" style="display: none;">
+                <div class="empty-state-icon">No items match your filter</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Schedule settings modal -->
+    <div class="schedule-overlay" id="schedule-overlay" onclick="closeSchedulePanel()"></div>
+    <div class="schedule-panel" id="schedule-panel">
+        <h3>Posting Schedule Settings</h3>
+        <div class="schedule-section">
+            <label>Post Date (defaults to content date)</label>
+            <input type="date" id="schedule-date" />
+        </div>
+        <div class="schedule-section">
+            <label>X / Twitter Time Slots</label>
+            <div class="time-slots" id="x-time-slots"></div>
+            <div style="margin-top:8px;">
+                <input type="time" id="new-x-time" style="width:auto;display:inline-block;margin-right:8px;" />
+                <span class="add-slot-btn" onclick="addTimeSlot('x')">+ Add Slot</span>
+            </div>
+        </div>
+        <div class="schedule-section">
+            <label>Facebook Time Slots</label>
+            <div class="time-slots" id="fb-time-slots"></div>
+            <div style="margin-top:8px;">
+                <input type="time" id="new-fb-time" style="width:auto;display:inline-block;margin-right:8px;" />
+                <span class="add-slot-btn" onclick="addTimeSlot('fb')">+ Add Slot</span>
+            </div>
+        </div>
+        <div class="schedule-section" style="background:#f9f9f9;padding:12px;border-radius:6px;font-size:12px;color:#666;">
+            Posts will be assigned to time slots in order. If you have more posts than slots, they wrap around. After downloading, upload the file directly to PostPlanner via Bulk Upload.
+        </div>
+        <div class="schedule-actions">
+            <button class="btn btn-secondary" onclick="closeSchedulePanel()">Cancel</button>
+            <button class="btn btn-csv" onclick="generateAndDownload()">Generate &amp; Download XLSX</button>
+        </div>
+    </div>
+
+    <!-- SheetJS for XLSX generation (loaded async so it doesn't block) -->
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+    <script>
+
+        const DATE = '2026-08-03';
+        const BRAND_NAME = 'Ballpark Banter';
+        const REVIEW_STORAGE_KEY = 'mlb-content-review';
+        const SCHEDULE_STORAGE_KEY = 'mlb-content-schedule-config';
+        const PHOTO_SOURCE = 'imagn';
+        let reviewData = {};
+        const allStories = [{"id": "story-1-daily_brief", "title": "2026 MLB Trade Deadline \u2014 Wrap-Up, All Confirmed Moves", "content": "2026 MLB Trade Deadline \u2014 Wrap-Up, All Confirmed Moves", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-2-daily_brief", "title": "Dodgers + Skubal \u2014 World Series Favorites", "content": "Dodgers + Skubal \u2014 World Series Favorites", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-3-daily_brief", "title": "Dylan Cease \u2014 AL Cy Young Frontrunner, Post-Deadline", "content": "Dylan Cease \u2014 AL Cy Young Frontrunner, Post-Deadline", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-4-daily_brief", "title": "White Sox Shock Everyone \u2014 From Rebuilders to Deadline Buyers", "content": "White Sox Shock Everyone \u2014 From Rebuilders to Deadline Buyers", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-5-daily_brief", "title": "Kyle Schwarber Is Chasing 73 \u2014 The HR Race Nobody Expected", "content": "Kyle Schwarber Is Chasing 73 \u2014 The HR Race Nobody Expected", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-01-mlb-trade-deadline-2026-wrap-up", "title": "2026 MLB Trade Deadline: Every Major Move, Ranked by Impact", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>2026 MLB Trade Deadline: Every Major Move, Ranked by Impact<\/title>\n<meta name=\"description\" content=\"The 2026 MLB trade deadline closes at 6 PM ET today. Here's every confirmed major move and what it means for October.\">\n<\/head>\n<body>\n\n<article>\n\n<h1>2026 MLB Trade Deadline: Every Major Move, Ranked by Impact<\/h1>\n\n<p><em>By Marcus Cole | Ballpark Banter<\/em><\/p>\n\n<p>The 2026 MLB trade deadline closes at 6 PM ET today \u2014 and it has already been one of the most active markets in recent memory. Teams across both leagues spent the final days loading up for October or cashing in prospects while the price was right. Here's a breakdown of every major confirmed move, and what each deal means for the second half.<\/p>\n\n<h2>The Blockbuster: Tarik Skubal to Los Angeles<\/h2>\n\n<p>The deadline's defining deal was already done before the calendar turned to August 3. Tarik Skubal \u2014 two-time AL Cy Young Award winner, 2.79 ERA in 16 starts this season \u2014 is now a Los Angeles Dodger. Detroit got a premium package in return: Zyhir Hope (the Dodgers' No. 5 prospect and a top-25 overall talent per MLB Pipeline), right-hander River Ryan (No. 7 in the system), and Brady Smith (No. 17). The Dodgers paid a genuine price for a genuine ace. Skubal is a free agent after 2026, making this a win-now move at full cost.<\/p>\n\n<h2>The Rotation Moves<\/h2>\n\n<p><strong>Freddy Peralta to the Rays:<\/strong> The Mets sent Peralta to Tampa Bay as part of the ongoing sell-off, receiving prospects Aidan Smith, Gary Gill Hill, and \u00c9milien Pitre. Peralta gives a Rays rotation that constantly finds ways to compete another arm with legitimate swing-and-miss stuff.<\/p>\n\n<p><strong>Luis Garc\u00eda Jr. to the Yankees:<\/strong> Washington continued to sell. New York added Garc\u00eda Jr. from the Nationals, returning Ben Grable, Yovanny Cruz, Jake Bird, and Jack Cebert to the capital. The Yankees needed rotation depth for an October run, and Garc\u00eda provides length.<\/p>\n\n<p><strong>Luis Castillo to the White Sox:<\/strong> The surprise of the deadline. Castillo is 3-9 with a 5.06 ERA in 2026 \u2014 not the line you expect to trigger a trade. But Seattle wanted the $24.2 million salary off the books after sliding out of Wild Card contention, and Chicago sent Seranthony Dom\u00ednguez, Nolan Jones, and Boston Smith to get him. The White Sox are betting on pedigree: Castillo was a back-to-back All-Star in 2021 and 2022 and the ace of Seattle's 2022 playoff run. The stuff is still in there somewhere.<\/p>\n\n<p><strong>Bailey Falter to the Braves:<\/strong> Came over from Kansas City alongside Lane Thomas in a two-for-one deal. The Braves sent Lucas Braun and Carter Holton to the Royals. Falter joins an Atlanta rotation anchored by Chris Sale, who is 12-6 with a 2.08 ERA at age 37.<\/p>\n\n<p><strong>Dean Kremer and AJ Minter to the Twins:<\/strong> Minnesota made two separate deals \u2014 acquiring Kremer from Baltimore and Minter from Atlanta. The Twins are in a tight AL Wild Card race and needed both rotation depth and bullpen help. They got both.<\/p>\n\n<p><strong>Camilo Doval to the Pirates:<\/strong> San Francisco continued to sell its veterans while Pittsburgh adds a proven high-leverage arm. Doval has the closing experience Pittsburgh needs as a young team tries to stay competitive down the stretch.<\/p>\n\n<h2>The Position Player Deals<\/h2>\n\n<p><strong>Lane Thomas to the Braves<\/strong> (part of the Royals package) gives Atlanta an outfielder who has shown he can contribute in a bench or platoon role for a pennant contender.<\/p>\n\n<p><strong>Logan O'Hoppe and Chase Silseth to the Rangers:<\/strong> The Angels continued a sell-off, moving the catching prospect O'Hoppe and right-hander Silseth to Texas. The Rangers sent Angel Arredondo back to Anaheim.<\/p>\n\n<p><strong>Bo Naylor and Codi Heuer to the Brewers:<\/strong> Cleveland traded the catcher and reliever to Milwaukee, receiving Craig Yoho and Blake Perkins. The Brewers added depth for a postseason push.<\/p>\n\n<p><strong>Curtis Mead to the Red Sox:<\/strong> Tampa Bay's versatile prospect heads to Boston in a prospect-for-depth deal as the Rays continue their annual roster churn.<\/p>\n\n<h2>The Veteran Rotation Swap<\/h2>\n\n<p>In one of the more unusual moves of the deadline, Toronto and Chicago swapped veteran starters: the Blue Jays acquired Jameson Taillon from the Cubs, while Kevin Gausman went from Toronto to Chicago. Both are rentals, both teams get a change of scenery for proven arms.<\/p>\n\n<h2>The One Who Didn't Move: Adley Rutschman<\/h2>\n\n<p>Baltimore catcher Adley Rutschman had been the most-discussed player not yet on the move heading into deadline day. He landed on the 10-day IL with wrist inflammation \u2014 effectively taking him off the market before 6 PM ET. Whether Baltimore was truly prepared to trade him remains unclear. He's under team control through 2028.<\/p>\n\n<p>When the deadline buzzer sounds this evening, the teams that made their moves will begin the work of integration. The real evaluation begins in October.<\/p>\n\n<\/article>\n\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-02-dodgers-skubal-world-series-favorites", "title": "Dodgers Add Skubal to an Already Loaded Rotation \u2014 They're the World Series Favorites", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>Dodgers Add Skubal to an Already Loaded Rotation \u2014 They're the World Series Favorites<\/title>\n<meta name=\"description\" content=\"With Tarik Skubal now in Dodger blue and Shohei Ohtani working toward a return, Los Angeles is the clear World Series favorite heading into the second half.\">\n<\/head>\n<body>\n\n<article>\n\n<h1>Dodgers Add Skubal to an Already Loaded Rotation \u2014 They're the World Series Favorites<\/h1>\n\n<p><em>By Jake Torres | Ballpark Banter<\/em><\/p>\n\n<p>When the Los Angeles Dodgers entered the 2026 season, the plan was to let Shohei Ohtani run their rotation. He posted a 1.79 ERA in 14 starts before a left knee and right biceps combination pulled him from the mound. The Dodgers needed a contingency plan. They didn't settle for one. They acquired the best starting pitcher available on the trade market.<\/p>\n\n<p>Tarik Skubal \u2014 two-time reigning AL Cy Young Award winner, 2.79 ERA in 16 starts this season \u2014 is now a Los Angeles Dodger. The deal, confirmed August 2, sent outfielder Zyhir Hope (the Dodgers' No. 5 prospect and a top-25 overall talent per MLB Pipeline), right-hander River Ryan (No. 7 in the system), and Brady Smith to Detroit. It was a real price, paid for a real ace.<\/p>\n\n<h2>What Skubal Brings<\/h2>\n\n<p>Skubal's 2026 numbers with Detroit \u2014 2.79 ERA, 31 percent strikeout rate, 16 starts \u2014 are dominant. He missed time earlier in the year but returned to the level he's been at for two Cy Young cycles. His stuff is legitimate: a high-spin fastball that plays up in the zone, a slider that misses barrels at an elite clip, and the command to work deep into games against lineup top-to-bottom.<\/p>\n\n<p>Five teams were bidding for Skubal when the market opened. The Dodgers won that bidding war, and the price tells you something: this was a genuine contest among serious organizations. Los Angeles simply paid the most.<\/p>\n\n<p>There is a significant caveat. Skubal is a free agent after 2026. This is a one-year rental. The Dodgers are not acquiring him for a dynasty \u2014 they're acquiring him to win a World Series this October, and they're making the financial and prospect math work on that timeline alone.<\/p>\n\n<h2>The Rotation Picture<\/h2>\n\n<p>Here's what the Dodgers' October rotation looks like, pending Ohtani's return:<\/p>\n\n<p>Tarik Skubal. Tyler Glasnow. Shohei Ohtani \u2014 if and when he returns from the biceps and knee issues that have kept him off the mound since July 3.<\/p>\n\n<p>That is not a normal baseball rotation. That is a problem for every other team's lineup card.<\/p>\n\n<p>Dave Roberts confirmed last week, after Ohtani completed a 31-pitch bullpen session, that it would be \"at least a week to 10 days\" before Ohtani pitches in a game. He will not pitch on the current road trip. His 2026 ERA before going down was 1.79. If he returns healthy and progresses on schedule, he could pitch in games through August and be ready for a full October workload.<\/p>\n\n<p>The Dodgers don't need Ohtani to get back. With Skubal and Glasnow, they have two legitimate aces for a potential playoff rotation. Ohtani returning would simply make them historical.<\/p>\n\n<h2>The World Series Picture<\/h2>\n\n<p>The Dodgers were already one of baseball's best teams before the Skubal trade. They lead the NL West by a comfortable margin, their lineup remains among the best in baseball, and their bullpen has been reliable throughout the season.<\/p>\n\n<p>Adding Skubal removes the only genuine question mark anyone had about Los Angeles: rotation depth in a seven-game series. The Dodgers now have an answer for Games 1 and 2 in any playoff round, with Glasnow available for Game 3 and Ohtani \u2014 if healthy \u2014 available for Games 4 and 5.<\/p>\n\n<p>The rest of the field still exists. The Braves have Chris Sale. The Phillies have a lineup that could beat anyone. The American League has multiple contenders. But there is one team that separated from the rest of the field at this deadline.<\/p>\n\n<p>The Dodgers are the team to beat. They chose to be. They paid the price to earn it.<\/p>\n\n<\/article>\n\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-03-dylan-cease-al-cy-young-frontrunner", "title": "Dylan Cease Is the AL Cy Young Frontrunner \u2014 And the Trade Deadline Just Made It Official", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>Dylan Cease Is the AL Cy Young Frontrunner \u2014 And the Trade Deadline Just Made It Official<\/title>\n<meta name=\"description\" content=\"With Tarik Skubal now in Los Angeles, Dylan Cease stands alone as the AL Cy Young frontrunner heading into the second half. His July ERA of 1.00 says everything.\">\n<\/head>\n<body>\n\n<article>\n\n<h1>Dylan Cease Is the AL Cy Young Frontrunner \u2014 And the Trade Deadline Just Made It Official<\/h1>\n\n<p><em>By Ryan Calloway | Ballpark Banter<\/em><\/p>\n\n<p>The trade deadline has a way of clarifying things. When Tarik Skubal was traded from Detroit to Los Angeles on August 2, it didn't just change the World Series odds. It changed the AL Cy Young race.<\/p>\n\n<p>Dylan Cease is now the frontrunner. And after watching what he did in July, that designation feels entirely earned.<\/p>\n\n<h2>The July That Defined His Case<\/h2>\n\n<p>Cease's July ERA was 1.00. Not 1.09, not 1.14. One-point-zero-zero, in a full calendar month of starts in the American League. That figure ranks as the fourth-lowest single-month ERA in Toronto Blue Jays franchise history for any pitcher with at least 30 innings pitched. He is in rare company in a franchise that has iced Roger Clemens in his prime.<\/p>\n\n<p>His signature moment in July: a one-hit complete game against the Boston Red Sox, striking out 12. It was the first one-hit complete game by a Blue Jays pitcher in 16 years. That's not just a good outing \u2014 that's a franchise-history-worthy performance, tucked into what has been the best month of pitching Toronto has seen in years.<\/p>\n\n<p>Season-wide, his numbers hold up to any scrutiny. Cease is 7-5 with a 2.46 ERA, 167 strikeouts in 113.1 innings across 17 starts. His K/9 rate of 13.26 leads the American League. He has been, quietly or not, one of the three or four best pitchers in the sport all season.<\/p>\n\n<h2>Why the Trade Changes Things<\/h2>\n\n<p>Before the deadline, the AL Cy Young race was at minimum a two-horse conversation. Tarik Skubal, with a 2.79 ERA in 16 starts for Detroit, had a legitimate case of his own \u2014 better numbers on a per-game basis, with the full-season Cy Young narrative in play.<\/p>\n\n<p>That narrative fractured the moment Skubal boarded a plane to Los Angeles.<\/p>\n\n<p>Cy Young voters evaluate pitchers' full seasons with one club. A mid-season trade \u2014 even a trade that gives Skubal a legitimate shot at a ring \u2014 breaks the season in half. His Detroit numbers count, but his Dodgers numbers will be compiled in a different league, with different opponents, as a newcomer to a new system. That's not an advantage.<\/p>\n\n<p>Cease, by contrast, is going nowhere. The Blue Jays signed him in December 2025 to a 7-year, $210 million contract. They did not accept any trade offers at this deadline. Cease will finish 2026 in Toronto, with every start in one uniform, compiling one continuous body of work for Cy Young voters to evaluate.<\/p>\n\n<h2>Who's Chasing Him?<\/h2>\n\n<p>Cam Schlittler sits second in AL fWAR at 4.2, just ahead of Cease's 4.1. That gap is close enough that the race remains genuinely competitive. Schlittler has his own excellent season to point to. But fWAR is one input among many for Cy Young voters \u2014 ERA and strikeouts carry real weight, and Cease's 2.46 ERA and 167 Ks provide a compelling case in those traditional categories.<\/p>\n\n<p>The field beyond Schlittler is largely a second tier. No other AL starter has separated himself the way Cease has over the course of a full season.<\/p>\n\n<h2>The Second Half Question<\/h2>\n\n<p>The Cy Young is won in the second half. Cease has to prove that July wasn't a peak. He has to sustain \u2014 not necessarily 1.00 ERA territory, but the level that makes him the best pitcher in the league entering September.<\/p>\n\n<p>Based on what he's shown, that's not a stretch. His stuff hasn't wavered. His command has been consistent. And the Blue Jays, fighting for their own playoff position, will give him every opportunity to make his case start by start.<\/p>\n\n<p>The deadline is done. Skubal is in Los Angeles. The AL Cy Young race has a clear leader.<\/p>\n\n<p>His name is Dylan Cease, and he's just getting started.<\/p>\n\n<\/article>\n\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-04-white-sox-deadline-buyers-castillo", "title": "Two Years After 121 Losses, the White Sox Are Deadline Buyers", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>Two Years After 121 Losses, the White Sox Are Deadline Buyers<\/title>\n<meta name=\"description\" content=\"The Chicago White Sox acquired Luis Castillo at the 2026 trade deadline \u2014 a stunning reversal for a franchise that set the MLB record for losses in 2024.\">\n<\/head>\n<body>\n\n<article>\n\n<h1>Two Years After 121 Losses, the White Sox Are Deadline Buyers<\/h1>\n\n<p><em>By Marcus Cole | Ballpark Banter<\/em><\/p>\n\n<p>Two years ago, the Chicago White Sox lost 121 games. It was the worst single-season record in the history of Major League Baseball \u2014 a milestone nobody wanted to reach, a franchise scraping the bottom of its rebuild in full public view.<\/p>\n\n<p>Yesterday, they were a trade deadline buyer.<\/p>\n\n<p>The Chicago White Sox acquired Luis Castillo from the Seattle Mariners before the August 3 deadline, sending Seranthony Dom\u00ednguez, Nolan Jones, and Boston Smith to the Pacific Northwest. It is the most unexpected move of this deadline market \u2014 and one of the fastest rebuild turnarounds in recent memory.<\/p>\n\n<h2>Understanding the Castillo Deal<\/h2>\n\n<p>On the surface, Luis Castillo's 2026 numbers don't inspire confidence. He's 3-9 with a 5.06 ERA in 99.2 innings pitched with Seattle. The ERA is nearly two full runs above what a contending team typically wants from a rotation piece they trade prospects to acquire.<\/p>\n\n<p>But this deal wasn't made on 2026 ERA. It was made on Castillo's track record, his age (33), and the circumstances that explain \u2014 at least partially \u2014 the difficult year.<\/p>\n\n<p>Castillo was a back-to-back All-Star in 2021 and 2022. He was the ace of the Mariners' 2022 playoff rotation, the arm Seattle leaned on when they ended their 21-year postseason drought. He has 99.2 innings this season, which means the stuff hasn't disappeared \u2014 it just hasn't been producing results at the level his pedigree suggests it should.<\/p>\n\n<p>The White Sox are betting that a change of context produces a change of outcomes. That is a bet, not a certainty. But it's an informed one.<\/p>\n\n<p>For Seattle, the motivation was cleaner. The Mariners are sliding out of Wild Card contention in 2026, and Castillo carries a $24.2 million salary this year \u2014 with a $22.75 million club option for 2027 that becomes a genuine question if the team is rebuilding rather than competing. Moving him now clears salary and brings back prospects. It's a logical sell-off for a team in the wrong part of their cycle.<\/p>\n\n<h2>The Chicago Timeline<\/h2>\n\n<p>What makes this remarkable is the speed of the reversal. The White Sox's 2024 collapse \u2014 41 wins, 121 losses, record-setting futility \u2014 was genuinely historic. Teams that lose at that rate typically spend three to five years in developmental mode before they're relevant enough to buy at the deadline.<\/p>\n\n<p>Chicago has apparently compressed that timeline.<\/p>\n\n<p>It's worth noting what \"buyer\" means in context. The White Sox are not the Dodgers. They aren't adding Skubal for a World Series run. But appearing at this deadline as an organization willing to trade prospects for an established pitcher signals something real: the front office believes the window is opening, and they're willing to invest in it now rather than wait.<\/p>\n\n<p>Whether that calculation is correct will play out over the rest of 2026 and into next year. Castillo needs to find his footing quickly for it to matter this season. A full offseason with the organization will matter more for what 2027 looks like.<\/p>\n\n<h2>The Broader Signal<\/h2>\n\n<p>The Castillo trade isn't an isolated move. It fits a pattern of a White Sox organization that has shed its full-tank mentality and started building toward relevance on a specific timeline. When an organization with 121 losses two years in their past shows up as a deadline buyer, it deserves attention \u2014 not necessarily as a World Series contender in 2026, but as a franchise that is serious about getting there.<\/p>\n\n<p>From 121 losses to the deadline market in two years. The rebuild isn't done, but it's moving faster than the most pessimistic projections suggested it would.<\/p>\n\n<\/article>\n\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-05-kyle-schwarber-hr-chase-2026", "title": "Kyle Schwarber Entered August With 33 HR. The Barry Bonds Record Is Now in the Conversation.", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>Kyle Schwarber Entered August With 33 HR. The Barry Bonds Record Is Now in the Conversation.<\/title>\n<meta name=\"description\" content=\"Kyle Schwarber is on pace for 72 home runs, just one shy of Barry Bonds' all-time record of 73. Here's why the second half matters more than any projection.\">\n<\/head>\n<body>\n\n<article>\n\n<h1>Kyle Schwarber Entered August With 33 HR. The Barry Bonds Record Is Now in the Conversation.<\/h1>\n\n<p><em>By Jake Torres | Ballpark Banter<\/em><\/p>\n\n<p>The number sits out there quietly, not yet screaming but impossible to ignore once you see it: 72. That's the pace Kyle Schwarber is on for home runs in 2026. Barry Bonds' all-time record is 73, set in 2001 \u2014 the year that many assumed would end the era of genuine 70-home-run threats in baseball.<\/p>\n\n<p>Twenty-five years later, Schwarber is making it look possible again.<\/p>\n\n<h2>Where He Stands<\/h2>\n\n<p>Schwarber entered August with 33 home runs. He is the first Philadelphia Phillies player to reach the 30-home-run mark before August in franchise history. That alone would be worth noting. But the pace is what turns this from a good season into a potential piece of baseball history.<\/p>\n\n<p>He has now hit 30 or more home runs in six consecutive seasons \u2014 the longest active streak in Major League Baseball. He didn't start that streak with one exceptional year and fade; he built it, maintained it, and in 2026 has pushed it into territory nobody expected from a player who has always been more feared than dominant over a full year.<\/p>\n\n<p>The June and July performance is what powered the pace projection. His first-half pace has been relentless in a way that his previous seasons haven't always been \u2014 fewer cold stretches, fewer multi-week droughts where the power dried up. The consistency has been different this year, and that consistency is what produces a 72-HR pace rather than the 40-something that has been his actual finishing number most years.<\/p>\n\n<h2>The Derby That Didn't Help<\/h2>\n\n<p>Schwarber was the runner-up at the 2026 Home Run Derby, losing to St. Louis Cardinals outfielder Jordan Walker 12-11 in the final. It was a legitimately close contest. It also served as a reminder that Schwarber can generate power at a rate that gets attention in a showcase environment.<\/p>\n\n<p>Derby performance doesn't predict second-half numbers, but it does speak to the quality of the swing. Schwarber's swing still generates elite exit velocity. The contact rate has never been his strength \u2014 his career average reflects a pull-happy approach that produces pop but also strikeouts \u2014 but the power tool that drives everything is clearly still operating at full output.<\/p>\n\n<h2>The Record, Put in Context<\/h2>\n\n<p>To actually reach 73 home runs, Schwarber would need to maintain roughly his current pace through the remaining two months of the season. That's approximately 39-40 home runs in the second half alone \u2014 a number only a handful of players have ever approached in any single half of a season.<\/p>\n\n<p>The more realistic and still historically significant conversations are in the 55-65 range:<\/p>\n\n<p>Roger Maris hit 61 in 1961, which stood as the American League record for decades and the NL-style record in many reference points. The 60-homer club \u2014 Bonds (73, 2001), Sammy Sosa (66, 64, 63 across multiple seasons), Mark McGwire (70, 65) \u2014 is the short list of the most prolific single-season power performances in history. If Schwarber reaches 60, he joins a group of four players who have done it in over 150 years of professional baseball.<\/p>\n\n<p>That's the number worth watching in August. Not 73, but 60. And then 65. And then see what's left on the calendar.<\/p>\n\n<h2>What the Second Half Looks Like<\/h2>\n\n<p>Schwarber's historical second-half splits have occasionally shown a slight decline \u2014 not a collapse, but a reversion toward a slightly lower pace than his white-hot first halves. The Phillies lineup around him remains excellent; Bryce Harper, Nick Castellanos, and the rest of the order give opposing pitchers very few places to put Schwarber on base intentionally without consequences.<\/p>\n\n<p>He will get pitches to hit. Whether he hits them at the rate needed to stay on pace for 70-plus is the question August will begin to answer.<\/p>\n\n<p>For now, though, 33 home runs entering August with the Phillies in the thick of a pennant race is a remarkable place to be. The second half of Kyle Schwarber's 2026 season is going to be worth watching. All of it.<\/p>\n\n<\/article>\n\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}];
+        const imageManifest = {};
+        let imageURLs = {}; // Runtime store: {'1_x_image': 'url', '1_facebook_image': 'url', ...}
+
+        // Image URL management
+        function updateImageURL(inputEl) {
+            var story = inputEl.dataset.story;
+            var platform = inputEl.dataset.platform;
+            var url = inputEl.value.trim();
+            var key = story + '_' + platform;
+            imageURLs[key] = url;
+
+            // Update preview thumbnail
+            var preview = document.getElementById('img-preview-' + story + '-' + platform);
+            if (preview) {
+                if (url) {
+                    preview.src = url;
+                    preview.classList.add('loaded');
+                    preview.onerror = function() { this.classList.remove('loaded'); };
+                } else {
+                    preview.src = '';
+                    preview.classList.remove('loaded');
+                }
+            }
+        }
+
+        function getImageURLForStory(storyTitle, platform) {
+            // Try runtime imageURLs first (user-pasted)
+            // Extract story number from title
+            for (var key in imageURLs) {
+                if (imageURLs[key] && key.endsWith('_' + platform)) {
+                    var storyNum = key.split('_')[0];
+                    // Check if this story matches by looking at allStories
+                    for (var i = 0; i < allStories.length; i++) {
+                        if (allStories[i].title === storyTitle &&
+                            allStories[i].id.indexOf('story-' + storyNum) !== -1) {
+                            return imageURLs[key];
+                        }
+                    }
+                }
+            }
+
+            // Try manifest data
+            for (var num in imageManifest) {
+                var mdata = imageManifest[num];
+                if (mdata && mdata[platform] && mdata[platform].exported_url) {
+                    // Check if this story number matches
+                    for (var j = 0; j < allStories.length; j++) {
+                        if (allStories[j].title === storyTitle &&
+                            allStories[j].id.indexOf('story-' + num) !== -1) {
+                            return mdata[platform].exported_url;
+                        }
+                    }
+                }
+            }
+
+            return '';
+        }
+
+        function initializeApp() {
+            const saved = localStorage.getItem(REVIEW_STORAGE_KEY + '-' + DATE);
+            if (saved) {
+                try {
+                    reviewData = JSON.parse(saved);
+                } catch (e) {
+                    reviewData = {};
+                }
+            }
+
+            allStories.forEach(function(story) {
+                if (!reviewData[story.id]) {
+                    reviewData[story.id] = {
+                        id: story.id,
+                        type: story.type,
+                        status: 'unreviewed',
+                        notes: '',
+                        content: story.content,
+                        editedContent: null
+                    };
+                }
+                // Migrate old data: ensure editedContent field exists
+                if (reviewData[story.id].editedContent === undefined) {
+                    reviewData[story.id].editedContent = null;
+                }
+            });
+
+            // Restore UI state
+            Object.keys(reviewData).forEach(function(storyId) {
+                var data = reviewData[storyId];
+                var card = document.querySelector('[data-id="' + storyId + '"]');
+                if (card) {
+                    card.setAttribute('data-status', data.status);
+                    var textarea = document.getElementById('textarea-' + storyId);
+                    if (textarea) textarea.value = data.notes || '';
+                    // If content was edited, update the display and editor
+                    if (data.editedContent) {
+                        var contentText = card.querySelector('.card-content-text');
+                        if (contentText) contentText.textContent = data.editedContent;
+                        var editor = document.getElementById('editor-' + storyId);
+                        if (editor) editor.value = data.editedContent;
+                    }
+                    updateCardVisuals(storyId, data.status, !!data.editedContent);
+                }
+            });
+
+            updateProgress();
+            filterByStatus('all');
+        }
+
+        function toggleExpand(storyId) {
+            var content = document.getElementById('content-' + storyId);
+            var toggle = document.getElementById('toggle-' + storyId);
+            if (content.classList.contains('collapsed')) {
+                content.classList.remove('collapsed');
+                content.classList.add('expanded');
+                toggle.textContent = 'Collapse';
+            } else {
+                content.classList.remove('expanded');
+                content.classList.add('collapsed');
+                toggle.textContent = 'Show Full Content';
+            }
+        }
+
+        function startEdit(storyId) {
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (!card) return;
+            card.classList.add('editing');
+            var editor = document.getElementById('editor-' + storyId);
+            if (editor) {
+                // If previously edited, load edited content; otherwise load original
+                var data = reviewData[storyId];
+                if (data && data.editedContent) {
+                    editor.value = data.editedContent;
+                }
+                editor.focus();
+                // Auto-resize for articles
+                editor.style.minHeight = Math.max(300, editor.scrollHeight) + 'px';
+            }
+        }
+
+        function saveAndApprove(storyId) {
+            var editor = document.getElementById('editor-' + storyId);
+            if (!editor) return;
+            var newContent = editor.value;
+
+            // Save the edited content
+            if (!reviewData[storyId]) {
+                reviewData[storyId] = { id: storyId, status: 'approved', notes: '', content: '', editedContent: null };
+            }
+            reviewData[storyId].editedContent = newContent;
+
+            // Update the display text
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            var contentText = card ? card.querySelector('.card-content-text') : null;
+            if (contentText) contentText.textContent = newContent;
+
+            // Exit edit mode
+            if (card) card.classList.remove('editing');
+
+            // Approve
+            setStatus(storyId, 'approved');
+            updateCardVisuals(storyId, 'approved', true);
+
+            // Update char count for X posts
+            updateCharCount(storyId, newContent);
+        }
+
+        function cancelEdit(storyId) {
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (card) card.classList.remove('editing');
+        }
+
+        function updateCharCount(storyId, text) {
+            var el = document.getElementById('charcount-' + storyId);
+            if (!el) return;
+            // Strip metadata tags before counting
+            var clean = text.replace(/\[CHARACTER COUNT:.*?\]/gi, '');
+            clean = clean.replace(/\[CHAR COUNT:.*?\]/gi, '');
+            clean = clean.replace(/\[\d+\/280\]/g, '');
+            // Remove URLs for Twitter count
+            var textNoUrls = clean.replace(/https?:\/\/\S+/g, '');
+            var count = textNoUrls.trim().length;
+            el.textContent = 'Characters: ' + count + '/280' + (count > 280 ? '  OVER LIMIT' : '');
+            el.className = count > 280 ? 'char-count warning' : 'char-count';
+        }
+
+        function approveCard(storyId) {
+            setStatus(storyId, 'approved');
+            document.getElementById('notes-' + storyId).classList.remove('show');
+        }
+
+        function rejectCard(storyId) {
+            setStatus(storyId, 'rejected');
+            document.getElementById('notes-' + storyId).classList.add('show');
+        }
+
+        function setStatus(storyId, status) {
+            if (!reviewData[storyId]) {
+                var story = allStories.find(function(s) { return s.id === storyId; });
+                reviewData[storyId] = {
+                    id: storyId,
+                    type: story ? story.type : '',
+                    status: status,
+                    notes: '',
+                    content: story ? story.content : '',
+                    editedContent: null
+                };
+            }
+
+            reviewData[storyId].status = status;
+
+            var textarea = document.getElementById('textarea-' + storyId);
+            if (textarea) reviewData[storyId].notes = textarea.value;
+
+            localStorage.setItem(REVIEW_STORAGE_KEY + '-' + DATE, JSON.stringify(reviewData));
+
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (card) card.setAttribute('data-status', status);
+            updateCardVisuals(storyId, status, !!(reviewData[storyId] && reviewData[storyId].editedContent));
+            updateProgress();
+        }
+
+        function updateCardVisuals(storyId, status, wasEdited) {
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (!card) return;
+
+            card.classList.remove('approved', 'needs-edit', 'rejected');
+            if (status !== 'unreviewed') card.classList.add(status);
+
+            var statusLabel = document.getElementById('status-' + storyId);
+            if (statusLabel) {
+                statusLabel.className = 'status-label';
+                if (status === 'approved' && wasEdited) {
+                    statusLabel.textContent = 'APPROVED (EDITED)';
+                    statusLabel.classList.add('status-edited');
+                } else if (status === 'approved') {
+                    statusLabel.textContent = 'APPROVED';
+                    statusLabel.classList.add('status-approved');
+                } else if (status === 'needs-edit') {
+                    statusLabel.textContent = 'NEEDS EDIT';
+                    statusLabel.classList.add('status-needs-edit');
+                } else if (status === 'rejected') {
+                    statusLabel.textContent = 'REJECTED';
+                    statusLabel.classList.add('status-rejected');
+                } else {
+                    statusLabel.textContent = '';
+                }
+            }
+        }
+
+        function updateProgress() {
+            var approved = 0, rejected = 0, unreviewed = 0;
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (!data || data.status === 'unreviewed') unreviewed++;
+                else if (data.status === 'approved') approved++;
+                else if (data.status === 'rejected') rejected++;
+                else unreviewed++;
+            });
+            var reviewed = approved + rejected;
+            var total = allStories.length;
+            var percentage = total > 0 ? (reviewed / total * 100) : 0;
+            document.getElementById('reviewed-count').textContent = reviewed;
+            document.getElementById('total-count').textContent = total;
+            document.getElementById('progress-fill').style.width = percentage + '%';
+            // Update stat chips
+            document.getElementById('stat-approved-count').textContent = approved;
+            document.getElementById('stat-rejected-count').textContent = rejected;
+            document.getElementById('stat-unreviewed-count').textContent = unreviewed;
+            // Update CSV button
+            var csvBtn = document.getElementById('btn-csv');
+            var tobiBtn = document.getElementById('btn-tobi');
+            var socialApproved = countApprovedSocialPosts();
+            if (csvBtn) {
+                if (socialApproved > 0) {
+                    csvBtn.disabled = false;
+                    csvBtn.textContent = 'PostPlanner Upload (' + socialApproved + ' posts)';
+                } else {
+                    csvBtn.disabled = true;
+                    csvBtn.textContent = 'PostPlanner Upload (0 approved)';
+                }
+            }
+            // Update TOBI button (counts only X/Twitter text posts)
+            if (tobiBtn) {
+                var xApproved = countApprovedXPosts();
+                if (xApproved > 0) {
+                    tobiBtn.disabled = false;
+                    tobiBtn.textContent = 'TOBI Upload (' + xApproved + ' posts)';
+                } else {
+                    tobiBtn.disabled = true;
+                    tobiBtn.textContent = 'TOBI Upload (0 approved)';
+                }
+            }
+        }
+
+        function countApprovedSocialPosts() {
+            var count = 0;
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (data && data.status === 'approved' && (story.type === 'x_post' || story.type === 'facebook')) {
+                    count++;
+                }
+            });
+            return count;
+        }
+
+        function countApprovedXPosts() {
+            var count = 0;
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (data && data.status === 'approved' && story.type === 'x_post') {
+                    count++;
+                }
+            });
+            return count;
+        }
+
+        function escapeCSVField(text) {
+            if (!text) return '';
+            // If field contains comma, quote, or newline, wrap in quotes and escape inner quotes
+            if (text.indexOf(',') !== -1 || text.indexOf('"') !== -1 || text.indexOf('\n') !== -1) {
+                return '"' + text.replace(/"/g, '""') + '"';
+            }
+            return text;
+        }
+
+        function extractHashtags(text) {
+            if (!text) return '';
+            var matches = text.match(/#\w+/g);
+            return matches ? matches.join(' ') : '';
+        }
+
+        // ========== POSTING SCHEDULE SYSTEM ==========
+        var defaultXSlots = ['09:00', '12:00', '15:00', '18:00', '21:00'];
+        var defaultFBSlots = ['10:00', '13:00', '17:00'];
+
+        function getScheduleConfig() {
+            var saved = localStorage.getItem(SCHEDULE_STORAGE_KEY);
+            if (saved) {
+                try { return JSON.parse(saved); } catch(e) {}
+            }
+            return { xSlots: defaultXSlots.slice(), fbSlots: defaultFBSlots.slice() };
+        }
+
+        function saveScheduleConfig(config) {
+            localStorage.setItem(SCHEDULE_STORAGE_KEY, JSON.stringify(config));
+        }
+
+        function renderTimeSlots() {
+            var config = getScheduleConfig();
+            var xContainer = document.getElementById('x-time-slots');
+            var fbContainer = document.getElementById('fb-time-slots');
+
+            xContainer.innerHTML = config.xSlots.map(function(t, i) {
+                return '<span class="time-slot">' + t + ' <span class="remove-slot" onclick="removeTimeSlot(\x27x\x27,' + i + ')">&times;</span></span>';
+            }).join('');
+
+            fbContainer.innerHTML = config.fbSlots.map(function(t, i) {
+                return '<span class="time-slot">' + t + ' <span class="remove-slot" onclick="removeTimeSlot(\x27fb\x27,' + i + ')">&times;</span></span>';
+            }).join('');
+        }
+
+        function addTimeSlot(platform) {
+            var inputId = platform === 'x' ? 'new-x-time' : 'new-fb-time';
+            var val = document.getElementById(inputId).value;
+            if (!val) return;
+            var config = getScheduleConfig();
+            var arr = platform === 'x' ? config.xSlots : config.fbSlots;
+            if (arr.indexOf(val) === -1) {
+                arr.push(val);
+                arr.sort();
+            }
+            saveScheduleConfig(config);
+            renderTimeSlots();
+            document.getElementById(inputId).value = '';
+        }
+
+        function removeTimeSlot(platform, index) {
+            var config = getScheduleConfig();
+            var arr = platform === 'x' ? config.xSlots : config.fbSlots;
+            arr.splice(index, 1);
+            saveScheduleConfig(config);
+            renderTimeSlots();
+        }
+
+        function downloadPostPlannerCSV() {
+            // Open schedule panel instead of direct download
+            openSchedulePanel();
+        }
+
+        function openSchedulePanel() {
+            document.getElementById('schedule-date').value = DATE;
+            renderTimeSlots();
+            document.getElementById('schedule-panel').classList.add('show');
+            document.getElementById('schedule-overlay').classList.add('show');
+        }
+
+        function closeSchedulePanel() {
+            document.getElementById('schedule-panel').classList.remove('show');
+            document.getElementById('schedule-overlay').classList.remove('show');
+        }
+
+        function formatTimeForPostPlanner(time24, dateStr) {
+            // Output PostPlanner V2 format: MM/DD/YYYY  HH:MM (24hr)
+            var parts = dateStr.split('-');
+            return parts[1] + '/' + parts[2] + '/' + parts[0] + '  ' + time24;
+        }
+
+        function redistributeTimes(rows) {
+            // Ensure all post times are at least 30 min from now,
+            // evenly spaced through the rest of the day.
+            if (rows.length === 0) return rows;
+
+            var now = new Date();
+            var nowMinutes = now.getHours() * 60 + now.getMinutes();
+            var floorMinutes = nowMinutes + 30;
+            var endMinutes = 22 * 60; // 10:00 PM cutoff
+
+            // Check if ANY post times have already passed
+            var anyPast = rows.some(function(row) {
+                var parts = row.time.split(':');
+                var rowMin = parseInt(parts[0], 10) * 60 + parseInt(parts[1], 10);
+                return rowMin < floorMinutes;
+            });
+
+            if (!anyPast) return rows; // all times are in the future, keep them
+
+            if (floorMinutes >= endMinutes) {
+                alert('It is past 9:30 PM — not enough time remaining to schedule all posts today. Posts will use original times.');
+                return rows;
+            }
+
+            var availableMinutes = endMinutes - floorMinutes;
+            var spacing = Math.floor(availableMinutes / rows.length);
+            if (spacing < 15) spacing = 15; // minimum 15 min gap
+            if (spacing > 90) spacing = 90; // maximum 90 min gap
+
+            rows.forEach(function(row, i) {
+                var postMinutes = floorMinutes + (i * spacing);
+                if (postMinutes >= 24 * 60) postMinutes = 23 * 60 + 45;
+                var h = Math.floor(postMinutes / 60);
+                var m = postMinutes % 60;
+                row.time = (h < 10 ? '0' : '') + h + ':' + (m < 10 ? '0' : '') + m;
+            });
+
+            var firstTime = rows[0].time;
+            var lastTime = rows[rows.length - 1].time;
+            console.log('PostPlanner export: redistributed ' + rows.length + ' posts from ' + firstTime + ' to ' + lastTime + ' (' + spacing + ' min apart)');
+            return rows;
+        }
+
+        // Parse actual time from posting_window string like "7:00 AM CT" -> "07:00"
+        function parsePostingTime(timeStr) {
+            if (!timeStr) return null;
+            var m = timeStr.match(/(\d{1,2}):(\d{2})\s*(AM|PM)/i);
+            if (!m) return null;
+            var h = parseInt(m[1], 10);
+            var min = m[2];
+            var ampm = m[3].toUpperCase();
+            if (ampm === 'PM' && h !== 12) h += 12;
+            if (ampm === 'AM' && h === 12) h = 0;
+            return (h < 10 ? '0' : '') + h + ':' + min;
+        }
+
+        // Generic window name fallback
+        var windowToTime = {
+            'Morning': '09:00',
+            'Midday': '12:00',
+            'Afternoon': '15:00',
+            'Evening': '18:00',
+            'Late Night': '21:00'
+        };
+
+        function generateAndDownload() {
+            var config = getScheduleConfig();
+            var postDate = document.getElementById('schedule-date').value || DATE;
+
+            var xRows = [];
+            var fbRows = [];
+
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (!data || data.status !== 'approved') return;
+                var finalContent = data.editedContent || story.content;
+
+                if (story.type === 'x_post') {
+                    // If this is an individual tweet card (has tweet_label), use directly
+                    if (story.tweet_label) {
+                        xRows.push({
+                            content: finalContent,
+                            type: story.tweet_type || 'text',
+                            hashtags: story.hashtags || extractHashtags(finalContent),
+                            story: story.title,
+                            posting_window: story.posting_window || ''
+                        });
+                    } else {
+                        // Legacy: parse full story markdown for individual tweets
+                        var sections = parseXPostContent(finalContent, story.title);
+                        sections.forEach(function(post) {
+                            xRows.push({
+                                content: post.text,
+                                type: post.type,
+                                hashtags: extractHashtags(post.text),
+                                story: story.title
+                            });
+                        });
+                    }
+                } else if (story.type === 'facebook') {
+                    var fbPost = parseFacebookContent(finalContent, story.title);
+                    if (fbPost) {
+                        fbRows.push(fbPost);
+                    }
+                }
+            });
+
+            if (xRows.length === 0 && fbRows.length === 0) {
+                alert('No approved social posts to export.');
+                return;
+            }
+
+            // Assign times: use posting_window property first, then content tag, then round-robin
+            function assignTimes(rows, slots, label) {
+                if (slots.length === 0) slots = ['12:00'];
+                var timeFallbacks = [];
+                return rows.map(function(row, i) {
+                    row.date = postDate;
+                    // 1. Try posting_window property (e.g., "7:00 AM CT")
+                    var parsed = parsePostingTime(row.posting_window);
+                    if (parsed) {
+                        row.time = parsed;
+                        return row;
+                    }
+                    // 2. Try [POSTING WINDOW: ...] tag in content
+                    var windowMatch = row.content ? row.content.match(/\[POSTING WINDOW:\s*([^\]]+)\]/) : null;
+                    if (windowMatch) {
+                        parsed = parsePostingTime(windowMatch[1]);
+                        if (parsed) {
+                            row.time = parsed;
+                            return row;
+                        }
+                        if (windowToTime[windowMatch[1].trim()]) {
+                            row.time = windowToTime[windowMatch[1].trim()];
+                            return row;
+                        }
+                    }
+                    // 3. Fall back to round-robin
+                    row.time = slots[i % slots.length];
+                    timeFallbacks.push('Post ' + (i + 1) + ': no parsed time, using ' + row.time);
+                    return row;
+                });
+                // Warn if any posts had to use fallback times
+                if (timeFallbacks.length > 0) {
+                    console.warn('TIME WARNING (' + label + '): ' + timeFallbacks.length + ' post(s) had no parsed posting time:\n' + timeFallbacks.join('\n'));
+                }
+            }
+
+            xRows = assignTimes(xRows, config.xSlots, 'X/Twitter');
+            fbRows = assignTimes(fbRows, config.fbSlots, 'Facebook');
+
+            // Generate XLSX in PostPlanner Bulk Upload V2 format
+            if (typeof XLSX === 'undefined') {
+                alert('SheetJS library not loaded. Falling back to CSV download.');
+                fallbackCSVDownload(xRows, fbRows, postDate);
+                return;
+            }
+
+            // Combine all rows and sort by original time
+            var allRows = xRows.concat(fbRows);
+            allRows.sort(function(a, b) {
+                return a.time.localeCompare(b.time);
+            });
+
+            // Smart time redistribution
+            allRows = redistributeTimes(allRows);
+
+            var wb = XLSX.utils.book_new();
+
+            // PostPlanner V3.1 format: Row 1 = version marker, Row 2 = headers, Row 3+ = data
+            var data = [
+                ['## ' + BRAND_NAME + ' -- PostPlanner Bulk Upload', 'BULK UPLOAD VERSION 3.1 – Please DO NOT EDIT this cell.', '', '', '', '', '', '', ''],
+                ['## POSTING TIME', 'CAPTION', 'LINK', 'MEDIA', 'TITLE', 'FIRST COMMENT', 'FIRST COMMENT DELAY', 'TOBI BACKGROUND', 'REEL OR STORY']
+            ];
+
+            allRows.forEach(function(row) {
+                var caption = cleanMarkdownForPost(row.content);
+                var mediaUrl = '';
+                if (row.type === 'image' || row.type === 'IMAGE') {
+                    mediaUrl = getImageURLForStory(row.story, row.platform === 'facebook' ? 'facebook_image' : 'x_image') || '';
+                }
+                data.push([
+                    formatTimeForPostPlanner(row.time, postDate),
+                    caption,
+                    '',
+                    mediaUrl,
+                    '', '', '', '', ''
+                ]);
+            });
+
+            var sheet = XLSX.utils.aoa_to_sheet(data);
+            sheet['!cols'] = [
+                {wch: 20}, {wch: 80}, {wch: 30}, {wch: 30}, {wch: 10}, {wch: 20}, {wch: 18}, {wch: 18}, {wch: 14}
+            ];
+            XLSX.utils.book_append_sheet(wb, sheet, 'Sheet1');
+
+            // Download
+            XLSX.writeFile(wb, 'postplanner-upload-' + postDate + '.xlsx');
+            closeSchedulePanel();
+
+            var msg = 'Downloaded postplanner-upload-' + postDate + '.xlsx with ';
+            var parts = [];
+            if (xRows.length > 0) parts.push(xRows.length + ' X posts');
+            if (fbRows.length > 0) parts.push(fbRows.length + ' Facebook posts');
+            alert(msg + parts.join(' and ') + '.\n\nUpload this file to PostPlanner via Bulk Upload.');
+        }
+
+        function cleanMarkdownForPost(text) {
+            // Strip markdown formatting and metadata that shouldn't appear in social posts
+            if (!text) return '';
+            return text
+                .replace(/\[CHARACTER COUNT:.*?\]/gi, '')
+                .replace(/\[CHAR COUNT:.*?\]/gi, '')
+                .replace(/\[\d+\/280\]/g, '')
+                .replace(/\*\*\[POSTING WINDOW:.*?\]\*\*/g, '')
+                .replace(/\[POSTING WINDOW:.*?\]/g, '')
+                .replace(/\*\*([^*]+)\*\*/g, '$1')
+                .replace(/\*([^*]+)\*/g, '$1')
+                .replace(/^#+\s+/gm, '')
+                .replace(/^[-*]\s+/gm, '')
+                .replace(/```[\s\S]*?```/g, '')
+                .replace(/\n{3,}/g, '\n\n')
+                .trim();
+        }
+
+        function fallbackCSVDownload(xRows, fbRows, postDate) {
+            // Fallback if SheetJS fails to load — generates CSV in V2-like format
+            var allRows = xRows.concat(fbRows);
+            allRows.sort(function(a, b) { return a.time.localeCompare(b.time); });
+            if (allRows.length === 0) {
+                alert('No approved posts to export.');
+                closeSchedulePanel();
+                return;
+            }
+            // Smart time redistribution (same as XLSX path)
+            allRows = redistributeTimes(allRows);
+            var csv = '## ' + BRAND_NAME + ' -- PostPlanner Bulk Upload,' + escapeCSVField('BULK UPLOAD VERSION 3.1 – Please DO NOT EDIT this cell.') + ',,,,,,,\n';
+            csv += '## POSTING TIME,CAPTION,LINK,MEDIA,TITLE,FIRST COMMENT,FIRST COMMENT DELAY,TOBI BACKGROUND,REEL OR STORY\n';
+            allRows.forEach(function(row) {
+                csv += escapeCSVField(formatTimeForPostPlanner(row.time, postDate)) + ',' +
+                       escapeCSVField(cleanMarkdownForPost(row.content)) + ',' +
+                       ',,,,,,\n';
+            });
+            downloadFile(csv, 'postplanner-upload-' + postDate + '.csv', 'text/csv');
+            closeSchedulePanel();
+        }
+
+        function downloadTOBIExport() {
+            // Generate TOBI XLSX directly (no schedule panel needed — uses same times)
+            generateAndDownloadTOBI();
+        }
+
+        function stripHashtags(text) {
+            // Remove lines that are entirely hashtags, and trailing blank lines
+            var lines = text.split('\n');
+            var cleaned = [];
+            for (var i = 0; i < lines.length; i++) {
+                var stripped = lines[i].trim();
+                if (stripped && stripped.split(/\s+/).every(function(w) { return w.charAt(0) === '#'; })) {
+                    continue;
+                }
+                cleaned.push(lines[i]);
+            }
+            while (cleaned.length > 0 && !cleaned[cleaned.length - 1].trim()) {
+                cleaned.pop();
+            }
+            return cleaned.join('\n');
+        }
+
+        function generateAndDownloadTOBI() {
+            var postDate = document.getElementById('schedule-date') ?
+                document.getElementById('schedule-date').value || DATE : DATE;
+
+            // Collect approved X/Twitter text posts only
+            var xRows = [];
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (!data || data.status !== 'approved') return;
+                if (story.type !== 'x_post') return;
+
+                var finalContent = data.editedContent || story.content;
+                if (story.tweet_label) {
+                    xRows.push({
+                        content: finalContent,
+                        posting_window: story.posting_window || '',
+                        story: story.title
+                    });
+                }
+            });
+
+            if (xRows.length === 0) {
+                alert('No approved X/Twitter posts for TOBI export.');
+                return;
+            }
+
+            // Assign times — use same logic as regular export (posting_window → content tag → round-robin)
+            var tobiSlots = defaultXSlots.slice();
+            if (tobiSlots.length === 0) tobiSlots = ['12:00'];
+            var tobiTimeFallbacks = [];
+            xRows = xRows.map(function(row, i) {
+                row.date = postDate;
+                // 1. Try posting_window property (e.g., "7:00 AM CT")
+                var parsed = parsePostingTime(row.posting_window);
+                if (parsed) {
+                    row.time = parsed;
+                    return row;
+                }
+                // 2. Try [POSTING WINDOW: ...] tag in content
+                var windowMatch = row.content ? row.content.match(/\[POSTING WINDOW:\s*([^\]]+)\]/) : null;
+                if (windowMatch) {
+                    parsed = parsePostingTime(windowMatch[1]);
+                    if (parsed) {
+                        row.time = parsed;
+                        return row;
+                    }
+                }
+                // 3. Fall back to round-robin through time slots (NOT 12:00)
+                row.time = tobiSlots[i % tobiSlots.length];
+                tobiTimeFallbacks.push('Post ' + (i + 1) + ': no parsed time, using ' + row.time);
+                return row;
+            });
+            // Warn if any posts had to use fallback times
+            if (tobiTimeFallbacks.length > 0) {
+                console.warn('TOBI TIME WARNING: ' + tobiTimeFallbacks.length + ' post(s) had no parsed posting time:\n' + tobiTimeFallbacks.join('\n'));
+            }
+
+            // Sort by time
+            xRows.sort(function(a, b) { return a.time.localeCompare(b.time); });
+
+            // Smart time redistribution
+            xRows = redistributeTimes(xRows);
+
+            // TOBI processing: preserve hashtags + emojis as much as possible
+            var TOBI_LIMIT = 130;
+
+            function extractHashtags(text) {
+                var matches = text.match(/#\w+/g);
+                return matches || [];
+            }
+
+            function extractTrailingEmoji(text) {
+                var m = text.match(/\s*([\u{1F300}-\u{1FAFF}\u2600-\u27BF\u2B50\u26A0-\u26FF]+)\s*$/u);
+                if (m) {
+                    return { emoji: m[1], text: text.substring(0, m.index).trimEnd() };
+                }
+                return { emoji: null, text: text };
+            }
+
+            function truncateAtSentence(text, limit) {
+                var sentences = text.split(/(?<=[.!?])\s+/);
+                // Merge standalone emoji fragments into preceding sentence
+                var merged = [];
+                for (var s = 0; s < sentences.length; s++) {
+                    var trimmed = sentences[s].trim();
+                    if (!trimmed) continue;
+                    if (merged.length > 0 && !/[A-Za-z0-9]/.test(trimmed)) {
+                        merged[merged.length - 1] = merged[merged.length - 1] + ' ' + trimmed;
+                    } else {
+                        merged.push(trimmed);
+                    }
+                }
+                var truncated = '';
+                for (var s = 0; s < merged.length; s++) {
+                    var candidate = truncated ? truncated + ' ' + merged[s] : merged[s];
+                    if (candidate.length <= limit) {
+                        truncated = candidate;
+                    } else {
+                        break;
+                    }
+                }
+                // Clean up trailing abbreviation fragments (Dr., Mr., vs.)
+                if (truncated) {
+                    var parts = truncated.split(' ');
+                    var last = parts[parts.length - 1];
+                    if (parts.length > 1 && last.length <= 4 && /^[A-Za-z]+\.$/.test(last)) {
+                        parts.pop();
+                        truncated = parts.join(' ');
+                    }
+                }
+                return truncated || text.substring(0, limit - 3) + '...';
+            }
+
+            function fitHashtagsWithinLimit(text, hashtags, limit) {
+                if (!hashtags.length) return text;
+                // Try all hashtags, then progressively fewer
+                for (var n = hashtags.length; n > 0; n--) {
+                    var tagBlock = '\n\n' + hashtags.slice(0, n).join(' ');
+                    if ((text + tagBlock).length <= limit) {
+                        return text + tagBlock;
+                    }
+                }
+                return text;
+            }
+
+            if (typeof XLSX === 'undefined') {
+                alert('SheetJS library not loaded. Cannot generate TOBI XLSX.');
+                return;
+            }
+
+            var wb = XLSX.utils.book_new();
+            var data = [
+                ['## ' + BRAND_NAME + ' -- PostPlanner TOBI Bulk Upload', 'BULK UPLOAD VERSION 3.1 – Please DO NOT EDIT this cell.', '', '', '', '', '', '', ''],
+                ['## POSTING TIME', 'CAPTION', 'LINK', 'MEDIA', 'TITLE', 'FIRST COMMENT', 'FIRST COMMENT DELAY', 'TOBI BACKGROUND', 'REEL OR STORY']
+            ];
+
+            var keptHashtags = 0;
+            var strippedHashtags = 0;
+
+            xRows.forEach(function(row, i) {
+                var caption = cleanMarkdownForPost(row.content);
+
+                // If full caption fits under limit, use as-is — ALL hashtags + emojis preserved
+                if (caption.length <= TOBI_LIMIT) {
+                    if (extractHashtags(caption).length > 0) keptHashtags++;
+                    data.push([
+                        formatTimeForPostPlanner(row.time, postDate),
+                        caption, '', '', '', '', '', 'true-black', ''
+                    ]);
+                    return;
+                }
+
+                // Over limit — decompose and rebuild intelligently
+                var hashtags = extractHashtags(caption);
+                var coreText = stripHashtags(caption).trimEnd();
+                var emojiResult = extractTrailingEmoji(coreText);
+                var trailing_emoji = emojiResult.emoji;
+                var coreNoEmoji = emojiResult.text.trimEnd();
+
+                // Step 1: Get core text under limit
+                var result;
+                if (coreNoEmoji.length <= TOBI_LIMIT) {
+                    result = coreNoEmoji;
+                } else {
+                    result = truncateAtSentence(coreNoEmoji, TOBI_LIMIT);
+                }
+
+                // Step 2: Try to add back trailing emoji
+                if (trailing_emoji) {
+                    var withEmoji = result + ' ' + trailing_emoji;
+                    if (withEmoji.length <= TOBI_LIMIT) {
+                        result = withEmoji;
+                    }
+                }
+
+                // Step 3: Try to add back as many hashtags as possible
+                if (hashtags.length > 0) {
+                    var before = result;
+                    result = fitHashtagsWithinLimit(result, hashtags, TOBI_LIMIT);
+                    if (result !== before) keptHashtags++;
+                    else strippedHashtags++;
+                }
+
+                data.push([
+                    formatTimeForPostPlanner(row.time, postDate),
+                    result, '', '', '', '', '', 'true-black', ''
+                ]);
+            });
+
+            var sheet = XLSX.utils.aoa_to_sheet(data);
+            sheet['!cols'] = [
+                {wch: 20}, {wch: 80}, {wch: 10}, {wch: 10}, {wch: 10}, {wch: 20}, {wch: 18}, {wch: 18}, {wch: 14}
+            ];
+            XLSX.utils.book_append_sheet(wb, sheet, 'Sheet1');
+
+            XLSX.writeFile(wb, 'postplanner-tobi-upload-' + postDate + '.xlsx');
+
+            alert('Downloaded TOBI export with ' + xRows.length + ' posts.\n\n' +
+                  keptHashtags + ' posts kept hashtags, ' + strippedHashtags + ' had hashtags removed for length.\n\n' +
+                  'Background: true-black (Column H).\nUpload to PostPlanner for Facebook TOBI posts.');
+        }
+
+        function parseXPostContent(content, storyTitle) {
+            var posts = [];
+            var lines = content.split('\n');
+
+            var inTextPost = false;
+            var inThread = false;
+            var currentTweetNum = 0;
+            var currentText = [];
+
+            for (var i = 0; i < lines.length; i++) {
+                var line = lines[i];
+                var trimmed = line.trim();
+
+                if (trimmed.match(/^###\s+Text Post/i)) {
+                    flushPost();
+                    inTextPost = true;
+                    inThread = false;
+                    currentText = [];
+                    continue;
+                }
+                if (trimmed.match(/^###\s+Thread Concept/i)) {
+                    flushPost();
+                    inTextPost = false;
+                    inThread = true;
+                    currentText = [];
+                    currentTweetNum = 0;
+                    continue;
+                }
+                if (trimmed.match(/^###\s+Image Post/i)) {
+                    flushPost();
+                    inTextPost = false;
+                    inThread = false;
+                    continue;
+                }
+                if (trimmed.match(/^###\s/)) {
+                    flushPost();
+                    inTextPost = false;
+                    inThread = false;
+                    continue;
+                }
+
+                if (inThread && trimmed.match(/^\*\*Tweet\s+\d+/i)) {
+                    flushPost();
+                    currentTweetNum++;
+                    currentText = [];
+                    continue;
+                }
+
+                if (inTextPost || (inThread && currentTweetNum > 0)) {
+                    if (trimmed !== '') {
+                        currentText.push(line);
+                    }
+                }
+            }
+            flushPost();
+
+            function flushPost() {
+                if (currentText.length === 0) return;
+                var text = currentText.join('\n').trim();
+                if (!text) return;
+
+                if (inTextPost) {
+                    posts.push({ text: text, type: 'text' });
+                } else if (inThread && currentTweetNum > 0) {
+                    posts.push({
+                        text: text,
+                        type: currentTweetNum === 1 ? 'thread_start' : 'thread_reply'
+                    });
+                }
+                currentText = [];
+            }
+
+            return posts;
+        }
+
+        function parseFacebookContent(content, storyTitle) {
+            var lines = content.split('\n');
+            var inLongForm = false;
+            var inImagePost = false;
+            var longFormLines = [];
+            var imageCaption = '';
+
+            for (var i = 0; i < lines.length; i++) {
+                var trimmed = lines[i].trim();
+
+                if (trimmed.match(/^###\s+Long-Form Post/i)) {
+                    inLongForm = true;
+                    inImagePost = false;
+                    longFormLines = [];
+                    continue;
+                }
+                if (trimmed.match(/^###\s+Image Post Caption/i) || trimmed.match(/^###\s+Image Post/i)) {
+                    inLongForm = false;
+                    inImagePost = true;
+                    continue;
+                }
+                if (trimmed.match(/^###\s/) || trimmed.match(/^---/)) {
+                    inLongForm = false;
+                    inImagePost = false;
+                    continue;
+                }
+
+                if (inLongForm) {
+                    longFormLines.push(lines[i]);
+                }
+                if (inImagePost && trimmed !== '') {
+                    imageCaption = trimmed;
+                    inImagePost = false;
+                }
+            }
+
+            var longForm = longFormLines.join('\n').trim();
+            if (!longForm) return null;
+
+            return {
+                content: longForm,
+                image_caption: imageCaption,
+                story: storyTitle
+            };
+        }
+
+        function downloadFile(content, filename, mimeType) {
+            var blob = new Blob([content], { type: mimeType });
+            var url = URL.createObjectURL(blob);
+            var link = document.createElement('a');
+            link.href = url;
+            link.download = filename;
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+            URL.revokeObjectURL(url);
+        }
+
+        var currentStatusFilter = 'all';
+        var currentTypeFilter = 'all';
+
+        function filterByStatus(status) {
+            currentStatusFilter = status;
+            applyFilters();
+            document.querySelectorAll('.filter-btn').forEach(function(btn) {
+                btn.classList.remove('active');
+                if (btn.textContent.trim().toLowerCase().replace(/\s+/g, '') === status.replace('-', '').toLowerCase() ||
+                    (status === 'all' && btn.textContent.trim() === 'All') ||
+                    (status === 'needs-edit' && btn.textContent.trim() === 'Needs Edit')) {
+                    btn.classList.add('active');
+                }
+            });
+            document.querySelectorAll('.sidebar .nav-item').forEach(function(item) { item.classList.remove('active'); });
+        }
+
+        function filterByType(type) {
+            currentTypeFilter = type;
+            currentStatusFilter = 'all';
+            applyFilters();
+            document.querySelectorAll('.sidebar .nav-item').forEach(function(item) { item.classList.remove('active'); });
+            document.querySelectorAll('.filter-btn').forEach(function(btn) {
+                btn.classList.remove('active');
+                if (btn.textContent.trim() === 'All') btn.classList.add('active');
+            });
+        }
+
+        function applyFilters() {
+            var cards = document.querySelectorAll('.card');
+            var visibleCount = 0;
+            cards.forEach(function(card) {
+                var cardStatus = card.getAttribute('data-status');
+                var cardType = card.getAttribute('data-type');
+                var matchesStatus = (currentStatusFilter === 'all') || (cardStatus === currentStatusFilter);
+                var matchesType = (currentTypeFilter === 'all') || (cardType === currentTypeFilter);
+                if (matchesStatus && matchesType) {
+                    card.classList.add('show');
+                    visibleCount++;
+                } else {
+                    card.classList.remove('show');
+                }
+            });
+            document.getElementById('empty-state').style.display = visibleCount === 0 ? 'block' : 'none';
+        }
+
+        function approveAll() {
+            if (!confirm('Approve all ' + allStories.length + ' items?')) return;
+            allStories.forEach(function(story) { setStatus(story.id, 'approved'); });
+        }
+
+        function resetAll() {
+            if (confirm('Reset all reviews? This cannot be undone.')) {
+                localStorage.removeItem(REVIEW_STORAGE_KEY + '-' + DATE);
+                location.reload();
+            }
+        }
+
+        function copyContent(storyId) {
+            var data = reviewData[storyId];
+            var story = allStories.find(function(s) { return s.id === storyId; });
+            var text = (data && data.editedContent) ? data.editedContent : (story ? story.content : '');
+            navigator.clipboard.writeText(text).then(function() {
+                var btn = document.querySelector('[data-id="' + storyId + '"] .btn-copy');
+                if (btn) { var orig = btn.textContent; btn.textContent = 'Copied!'; setTimeout(function() { btn.textContent = orig; }, 1500); }
+            });
+        }
+
+        function exportApprovals() {
+            var items = [];
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id] || {};
+                items.push({
+                    id: story.id,
+                    type: story.type,
+                    title: story.title,
+                    status: data.status || 'unreviewed',
+                    notes: data.notes || '',
+                    content: story.content,
+                    editedContent: data.editedContent || null,
+                    finalContent: data.editedContent || story.content
+                });
+            });
+
+            var exportData = {
+                date: DATE,
+                reviewed_by: '',
+                reviewed_at: new Date().toISOString(),
+                items: items
+            };
+
+            var dataStr = JSON.stringify(exportData, null, 2);
+            var dataBlob = new Blob([dataStr], { type: 'application/json' });
+            var url = URL.createObjectURL(dataBlob);
+            var link = document.createElement('a');
+            link.href = url;
+            link.download = 'approvals-' + DATE + '.json';
+            link.click();
+            URL.revokeObjectURL(url);
+        }
+
+        // Auto-save notes as you type
+        document.addEventListener('input', function(e) {
+            if (e.target.classList.contains('notes-textarea')) {
+                var storyId = e.target.id.replace('textarea-', '');
+                if (reviewData[storyId]) {
+                    reviewData[storyId].notes = e.target.value;
+                    localStorage.setItem(REVIEW_STORAGE_KEY + '-' + DATE, JSON.stringify(reviewData));
+                }
+            }
+        });
+
+        initializeApp();
+
+    </script>
+</body>
+</html>
