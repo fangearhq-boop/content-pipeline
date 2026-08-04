@@ -1,0 +1,255 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-04",
+  "compiled_at": "2026-08-04T11:36:00.223761+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Norris Wins Hungarian GP — Verstappen's Red Bull Exit Clause Now Officially Active",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Lando Norris wins the Hungarian GP. 🏆\n\nMax Verstappen finishes P2 — but that result still leaves him outside the top 2 in the championship.\n\nHis Red Bull exit clause is now officially active.\n\nRed Bull offered €8 million to buy it out. He said no.\n\nMcLaren awaits. 👀\n\n#F1 #HungarianGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#HungarianGP"
+          ],
+          "char_count": 284
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Max Verstappen's Red Bull exit clause is active.\n\nHe's outside the top 2 heading into the summer break.\n\nRed Bull tried to buy out the clause. He refused.\n\nAn October deadline is coming. McLaren is waiting.\n\nThe most significant driver market story of the summer is just getting started. 🔴\n\n#F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 294
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-norris-wins-hungary-verstappen-exit-clause.html",
+        "headline": "Norris Wins Hungary — Verstappen's Red Bull Exit Clause Is Now Officially Active",
+        "word_count": 777
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Norris Wins Hungarian GP — Verstappen Exit Clause Active\n\n#### Image Concept 1 — Social (1080x1350)\n- **Photo source:** imagn\n- **Search term:** \"Lando Norris McLaren\"\n- **Overlay text:** \"NORRIS WINS — VERSTAPPEN'S EXIT CLAUSE TRIGGERED\"\n- **Color palette:** McLaren papaya orange and dark grey\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Photo source:** imagn\n- **Search term:** \"Max Verstappen Red Bull\"\n- **Overlay text:** \"The October Decision: Verstappen vs. Red Bull\"\n- **Color palette:** Red Bull dark navy and red\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Lewis Hamilton's 4 Penalties in 3 Weekends — The Controversy Nobody Can Ignore",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Lewis Hamilton has received 4 F1 penalties across 3 consecutive race weekends.\n\nIncluding: a 5-second penalty at Monaco for going 0.1 km/h over the pit lane limit.\n\nHe sits 50 points behind Antonelli.\n\nEvery call is costing him ground he cannot get back. 🔴\n\n#F1 #LewisHamilton",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#LewisHamilton"
+          ],
+          "char_count": 276
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Hamilton at Monaco: got a 5-second penalty for exceeding the pit lane speed limit by 0.1 km/h.\n\nSky Sports asked: is it proportionate?\n\nThe short answer: the rulebook says yes.\n\nThe context says this is becoming a problem for his championship chances. ⚙️\n\n#F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-hamilton-four-penalties-three-weekends.html",
+        "headline": "Hamilton's 4 Penalties in 3 Weekends — And the Championship Pressure Behind Every Call",
+        "word_count": 745
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hamilton's 4 Penalties in 3 Weekends\n\n#### Image Concept 1 — Social (1080x1350)\n- **Photo source:** imagn\n- **Search term:** \"Lewis Hamilton Ferrari\"\n- **Overlay text:** \"4 PENALTIES — 3 WEEKENDS — 50 POINTS DOWN\"\n- **Color palette:** Ferrari red and black\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Photo source:** imagn\n- **Search term:** \"Lewis Hamilton Ferrari\"\n- **Overlay text:** \"Hamilton vs. The Penalty List\"\n- **Color palette:** Ferrari scarlet\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Antonelli's Championship Lead — What 219 Points and a 50-Point Buffer Means",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Kimi Antonelli enters the F1 summer break with 219 points.\n\nLewis Hamilton: 169 points.\n\nGap: 50.\n\nAntonelli's stats in 11 starts: 6 wins. 6 poles. 9 podiums.\n\nIf he wins this title, he's the youngest F1 champion since Sebastian Vettel in 2010. 🏆\n\n#F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-antonelli-championship-lead-analysis.html",
+        "headline": "Kimi Antonelli's Championship Lead by the Numbers — and What Stands Between Him and History",
+        "word_count": 777
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli Championship Lead\n\n#### Image Concept 1 — Social (1080x1350)\n- **Photo source:** imagn\n- **Search term:** \"Kimi Antonelli Mercedes\"\n- **Overlay text:** \"219 POINTS — 6 WINS — YOUNGEST CHAMPION SINCE VETTEL?\"\n- **Color palette:** Mercedes silver and teal\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "FIA Admits Leclerc Should Have Been Penalized at Spa — But Won't Act",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The FIA stewards admitted it.\n\nAt the Belgian GP, Leclerc squeezed Piastri into Les Combes. Contact. Floor damage.\n\nNo penalty at the time. Now the stewards say: \"we would judge the incident differently now.\"\n\nBut no retroactive action is being taken.\n\nThe call was wrong. It stands. ⚠️\n\n#F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 291
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-fia-admits-leclerc-piastri-spa-error.html",
+        "headline": "FIA Admits Leclerc Should Have Been Penalized at Spa — But the Call Stands",
+        "word_count": 752
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "FIA Admits Leclerc Error\n\n#### Image Concept 1 — Social (1080x1350)\n- **Photo source:** imagn\n- **Search term:** \"Charles Leclerc Ferrari\"\n- **Overlay text:** \"FIA ADMITS: LECLERC SHOULD HAVE BEEN PENALIZED\"\n- **Color palette:** Warning red/yellow\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Dutch GP Preview — The Last Race at Zandvoort and a Sprint Weekend With Everything at Stake",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "August 21-23. Zandvoort. The final F1 Dutch Grand Prix ever. 🇳🇱\n\nFirst-ever Sprint weekend at this circuit.\n\nVerstappen's exit clause is active. He faces his home crowd with his Red Bull future unresolved.\n\nAntonelli arrives 50 points clear.\n\nThis is going to be something special. 🏎️\n\n#F1 #DutchGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#DutchGP"
+          ],
+          "char_count": 298
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-dutch-gp-preview-last-zandvoort.html",
+        "headline": "The Last Race at Zandvoort — Why the 2026 Dutch GP Is Bigger Than Any Race Weekend in Years",
+        "word_count": 747
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Dutch GP Preview\n\n#### Image Concept 1 — Social (1080x1350)\n- **Photo source:** imagn\n- **Search term:** \"Zandvoort Formula 1\"\n- **Overlay text:** \"FINAL DUTCH GP EVER — AUG 21-23 ZANDVOORT\"\n- **Color palette:** Dutch orange on dark background\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [
+      "Story 1, Post 1-1: 284 chars (over 280 limit)",
+      "Story 1, Post 1-2: 294 chars (over 280 limit)",
+      "Story 4, Post 4: 291 chars (over 280 limit)",
+      "Story 5, Post 5: 298 chars (over 280 limit)"
+    ],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

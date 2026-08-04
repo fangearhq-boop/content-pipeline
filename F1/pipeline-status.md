@@ -1,6 +1,18 @@
 # F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
+- **Date**: 2026-08-04
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Elena Voss, Marcus Cole, Ryan Calloway, Elena Voss)
+- **PostPlanner exports:** f1fr-postplanner-2026-08-04.xlsx (7 posts) + f1fr-postplanner-tobi-2026-08-04.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-08-04/review-dashboard.html (22 items)
+- **Notes:** Norris wins Hungary (Verstappen P2, Antonelli P3); Verstappen exit clause officially active (Red Bull refused €8M buyout, October deadline); Hamilton 4 penalties in 3 weekends (Monaco 0.1km/h = 5-sec, blames Ferrari); Antonelli leads 219-169 (6 wins, 6 poles, 9 podiums); FIA admits Leclerc should have been penalized at Spa-Piastri contact — no retroactive action; Dutch GP Aug 21-23 last-ever Zandvoort, first Sprint format
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+## 2026-08-03
 - **Date**: 2026-08-03
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)

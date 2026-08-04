@@ -4889,3 +4889,44 @@
 - **Key facts:** Alonso turned 45 summer 2026; Aston Martin contract expires end 2026; promised post-summer break decision; 1 point from 11 races (Monaco only) before Hungary; B-spec gave first Q2 of season in Hungary; Ted Kravitz (Sky Sports) predicts retirement; Spanish insider says decision already made; "Spa and Silverstone isn't the dream" quote; Honda boost at Zandvoort could change calculus
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Retirement announcement (expected imminently); Aston Martin replacement driver announcement; Alonso's final race(s) of career
+
+| 2026-08-04 | T1 | Norris Wins Hungarian GP — Verstappen Exit Clause Now Active | X, FB, Article | FOLLOW UP |
+| 2026-08-04 | T1 | Hamilton's 4 Penalties in 3 Race Weekends | X, FB, Article | NEW |
+| 2026-08-04 | T2 | Antonelli Championship Lead — 219 Points, 50 Ahead | X, FB, Article | FOLLOW UP |
+| 2026-08-04 | T2 | FIA Admits Leclerc Should Have Been Penalized at Spa | X, FB, Article | NEW |
+| 2026-08-04 | T2 | Dutch GP Preview — Last Zandvoort Race, Sprint Debut | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Norris Wins Hungarian GP — Verstappen Exit Clause Now Active
+- **Tier:** 1
+- **Category:** F1 / Hungarian Grand Prix / Max Verstappen / Red Bull / McLaren
+- **Key facts:** Norris won from pole (P2 Verstappen, P3 Antonelli); Piastri led briefly then DNF; Verstappen's exit clause officially active (outside top 2 at summer break); Red Bull offered €8M buyout — Verstappen refused; McLaren most-linked destination; October deadline to trigger clause; championship: Antonelli 219 / Hamilton 169 / Verstappen ~7th
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** October clause trigger decision; McLaren confirmation; Red Bull contingency plan
+
+### STORY 2: Hamilton's 4 Penalties in 3 Race Weekends
+- **Tier:** 1
+- **Category:** F1 / Lewis Hamilton / Ferrari / FIA Stewards
+- **Key facts:** 4 penalties across 3 consecutive race weekends; Monaco: 5-sec penalty for 0.1 km/h over pit lane limit; Hamilton blamed Ferrari for Hungarian GP pit lane infringement; Sky Sports ran full analysis on proportionality; Hamilton 50 pts behind Antonelli; 2026 season change: superlicence points only for dangerous/deliberate acts (0 points issued all season)
+- **Status:** NEW
+- **Follow-up ideas:** Second half penalty count; FIA consistency analysis; Hamilton race pace vs. penalty cost
+
+### STORY 3: Antonelli Championship Lead — 219 Points, 50 Ahead of Hamilton
+- **Tier:** 2
+- **Category:** F1 Championship / Kimi Antonelli / Mercedes
+- **Key facts:** Antonelli 219 pts, Hamilton ~169 (gap: 50); 6 wins, 6 poles, 9 podiums from 11 starts; Mercedes Constructors: 379 pts; 291 points remain in 11 rounds; youngest champion since Vettel 2010 if he wins; two Mercedes DNFs this season (Barcelona battery, Silverstone wheel shield)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Second half championship standings; Hamilton recovery attempt; Zandvoort result
+
+### STORY 4: FIA Admits Leclerc Should Have Been Penalized at Spa
+- **Tier:** 2
+- **Category:** F1 Controversy / FIA / Charles Leclerc / Oscar Piastri
+- **Key facts:** Belgian GP at Spa: Leclerc squeezed Piastri at Les Combes; contact made; floor damage to Piastri's McLaren; no penalty at time; stewards later said "would judge incident differently now" (5-sec penalty warranted); no retroactive action taken; GPFans coverage confirmed
+- **Status:** NEW
+- **Follow-up ideas:** Stewarding consistency in second half; Piastri/McLaren points impact
+
+### STORY 5: Dutch GP Preview — Last Zandvoort Race, Sprint Debut
+- **Tier:** 2
+- **Category:** F1 Race Preview / Dutch Grand Prix / Zandvoort
+- **Key facts:** Round 12, Aug 21-23, MASCOT Circuit Zandvoort; final F1 race ever at Zandvoort; first Sprint weekend format at this circuit; Sprint Qualifying Fri / Sprint Sat AM / Qualifying Sat PM / Race Sun Aug 23; 72 laps, 306.587 km; Verstappen faces home crowd with exit clause active; Antonelli 50 pts clear
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Sprint result; qualifying; race result and championship impact; Verstappen announcement timing
