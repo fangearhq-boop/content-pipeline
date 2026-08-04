@@ -1,0 +1,275 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-04",
+  "compiled_at": "2026-08-04T12:38:04.437980+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Eala Wins WTA DC Open — First Filipino WTA Champion in History",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "HISTORY. Alexandra Eala wins the DC Open WTA 500, defeating No. 1 seed Pegula 4-6, 6-4, 6-0. The 21-year-old becomes the first Filipino player to win a WTA Tour singles title. Career-high No. 24. #TennisNews #WTA #DCOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisNews",
+            "#WTA",
+            "#DCOpen"
+          ],
+          "char_count": 220
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Eala's DC Open week: def. Zheng (R1) → def. Fernandez, the defending champ (R2) → def. Svitolina (QF) → def. Osaka (SF) → def. No. 1 Pegula 4-6, 6-4, 6-0 (F). Rain gave her one more night. She used it. #TennisNews #WTA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisNews",
+            "#WTA"
+          ],
+          "char_count": 218
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-eala-wins-wta-dc-open-historic-title.html",
+        "headline": "Alexandra Eala Wins DC Open WTA 500 — Becomes First Filipino WTA Singles Champion",
+        "word_count": 584
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Eala Wins WTA DC Open — First Filipino WTA Champion\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search Term:** `Alexandra Eala Philippines`\n- **Usage:** X Post A, X Post B, Facebook Long-Form\n- **Notes:** Action or celebration shot. Use image showing emotion/celebration if available.\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search Term:** `Alexandra Eala`\n- **Usage:** Article featured image\n- **Notes:** Wide landscape shot; clear subject identification\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Eala Wins WTA DC Open — First Filipino WTA Champion\n**Confidence: HIGH** (WTA Official, Tennis Majors, Olympics.com, GMA News, Inquirer Sports)\n- **Result:** Alexandra Eala (PHI, world No. 28 pre-tournament) def. Jessica Pegula (USA, No. 1 seed, world No. 3) **4-6, 6-4, 6-0** [HIGH]\n- **Venue:** Rock Creek Park Tennis Center, Washington, D.C. [HIGH]\n- **Tournament:** Mubadala DC Open WTA 500 [HIGH]\n- **Final format:** Final was suspended Sunday Aug 2 evening due to thunderstorms with Pegula leading 6-4 and Eala ahead 2-1 in the second set. Resumed Monday Aug 3 at noon ET. [HIGH]\n- **Third set:** Eala won 6-0 after resumption — dominant closure [HIGH]\n- **Historic significance:** Eala becomes the first tennis player from the Philippines to win a WTA Tour singles title [HIGH — multiple Philippine sports outlets + WTA Official]\n- **Age:** 21 years old [HIGH]\n- **Career-high ranking:** Approximately No. 24 (live ranking post-tournament) [HIGH]\n- **Eala's DC Open path:** [MEDIUM — from prior pipeline research]\n- R1: def. Qinwen Zheng 4-6, 6-4, 6-1\n- R2: def. Leylah Fernandez (defending DC Open champ) 6-2, 7-6(1)\n- QF: def. Elina Svitolina (world No. 10) 6-3, 6-4\n- SF: def. Naomi Osaka (No. 3 seed) 6-4, 6-2\n- F: def. Jessica Pegula (No. 1 seed) 4-6, 6-4, 6-0\n- **WTA Star of the Swing award:** Eala won this award for Wimbledon [MEDIUM]\n**Sources:** wtatennis.com, tennismajors.com/wta-tour-news/breaking-newe-eala-lifts-the-trophy-at-washington, olympics.com/en/news/alex-eala-wins-mubadala-dc-open-2026, GMA Network, Inquirer Sports",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Fritz Wins DC Open ATP 500 — 11th Career Title, First in Washington",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Taylor Fritz wins the DC Open ATP 500, defeating 19-year-old Jódar 7-6(2), 6-4. His 11th career ATP title and first in Washington. Three final losses this year before this one. Fritz breaks through. #TennisNews #ATP #DCOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisNews",
+            "#ATP",
+            "#DCOpen"
+          ],
+          "char_count": 223
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Both DC Open finals were washed out Sunday, played Monday. Fritz def. Jódar 7-6(2), 6-4. Eala def. Pegula 4-6, 6-4, 6-0. A Monday of results that will shape the entire North American hard court swing. #TennisNews #ATP #WTA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisNews",
+            "#ATP",
+            "#WTA"
+          ],
+          "char_count": 222
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-fritz-wins-dc-open-atp-500-title.html",
+        "headline": "Taylor Fritz Wins DC Open ATP 500, Ending 2026 Final Drought with 11th Career Title",
+        "word_count": 534
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Fritz Wins DC Open ATP 500\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search Term:** `Taylor Fritz United States`\n- **Usage:** X Post A, X Post B, Facebook Long-Form\n- **Notes:** Prefer action or trophy moment\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search Term:** `Taylor Fritz`\n- **Usage:** Article featured image\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Fritz Wins DC Open ATP 500\n**Confidence: HIGH** (ATP Tour official, Tennis Majors, Washington Times, Tennis365, Tennis Up To Date)\n- **Result:** Taylor Fritz (USA, No. 3 seed) def. Rafael Jódar (ESP, 19, unseeded) **7-6(2), 6-4** [HIGH]\n- **Fritz's path to final:** def. Brandon Nakashima (SF) 3-6, 6-3, 6-3 [MEDIUM — from Aug 3 brief]\n- **Jódar's path to final:** def. Alejandro Tabilo (SF) 6-7(5), 6-4, 6-4 [MEDIUM — from Aug 3 brief]\n- **Title count:** Fritz's **11th career ATP title** [HIGH]\n- **Event significance:** First DC Open ATP title for Fritz [HIGH]\n- **Context:** Fritz had lost three consecutive finals in 2026 [HIGH]\n- **Rain delay:** Final postponed from Sunday Aug 2 to Monday Aug 3 due to rain [HIGH]\n- **Jódar's ranking:** Guaranteed ATP Top 20 debut regardless of final result; was 19 years old [HIGH]\n- **Tournament:** Mubadala DC Open ATP 500, William H.G. FitzGerald Tennis Center, Washington D.C. [HIGH]\n**Sources:** atptour.com/en/news/fritz-jodar-washington-2026-monday-final, tennismajors.com, washingtontimes.com, tennis365.com, tennisuptodate.com",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "ATP Montreal Masters 1000 — Main Draw Opens Day 1",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "ATP Montreal Masters 1000 is underway. Zverev (1), Auger-Aliassime (2, home crowd), Shelton (3, defending), de Minaur (4) lead a draw missing Sinner, Alcaraz, and Djokovic. Wide open. #TennisNews #ATP #CanadianOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisNews",
+            "#ATP",
+            "#CanadianOpen"
+          ],
+          "char_count": 214
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-atp-montreal-masters-day-one.html",
+        "headline": "ATP Montreal Masters 1000 Opens: Zverev, FAA, Shelton Lead Wide-Open Draw Without Sinner or Alcaraz",
+        "word_count": 483
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "ATP Montreal Masters 1000 — Day 1\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search Term:** `Felix Auger-Aliassime Canada`\n- **Usage:** X Post, Facebook Long-Form\n- **Notes:** FAA is the home crowd story; prefer match action\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search Term:** `Alexander Zverev Germany`\n- **Usage:** Article featured image\n- **Notes:** Top seed in Montreal; wide landscape\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "ATP Montreal Masters 1000 — Day 1\n**Confidence: MEDIUM** (ATP Tour official schedule + Olympics.com; specific Aug 4 scores not yet confirmed at research time)\n- **Tournament:** National Bank Open presented by Rogers, ATP Masters 1000, IGA Stadium, Montreal [HIGH]\n- **Main draw opens:** Tuesday August 4, 2026 [HIGH]\n- **Seeds:** Zverev (1), FAA (2), Shelton (3, defending), de Minaur (4), Medvedev (5) [HIGH]\n- **FAA significance:** Career-first Masters 1000 seeding; playing at home in Montreal [HIGH]\n- **Major absences:** Sinner (elbow injury sustained at Wimbledon), Alcaraz (right wrist since April), Djokovic [HIGH]\n- **Draper wildcard:** Jack Draper (GBR) received a wildcard — first tour match since 2025 injury [HIGH]\n- **Rain disruption:** Sunday first-round matches cancelled due to rain [MEDIUM]\n- **Other players in action Day 1:** de Minaur, Shapovalov, Tsitsipas, Rublev, Cobolli, Draper [MEDIUM]\n- **Bracket note:** Zverev and Fritz in same quarter; potential QF matchup [MEDIUM — from Aug 3 brief]\n**Sources:** atptour.com/en/news/montreal-2026-results, olympics.com, yahoo Sports draw",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "WTA Toronto Day 1 — Bartunkova Upsets Andreescu on Canadian Home Soil",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "WTA Toronto Day 1 upset: Nikola Bartunkova def. Bianca Andreescu 7-5, 6-4 on Canadian home soil. Sabalenka (1) and Rybakina (2) have byes and enter in round two. #TennisNews #WTA #CanadianOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisNews",
+            "#WTA",
+            "#CanadianOpen"
+          ],
+          "char_count": 192
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-wta-toronto-national-bank-open-day-one.html",
+        "headline": "WTA Toronto Day 1: Bartunkova Upsets Andreescu on Home Soil as National Bank Open Main Draw Opens",
+        "word_count": 495
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "WTA Toronto Day 1\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search Term:** `Aryna Sabalenka`\n- **Usage:** X Post, Facebook Long-Form\n- **Notes:** Sabalenka is No. 1 seed in Toronto entering in round 2\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search Term:** `Bianca Andreescu Canada`\n- **Usage:** Article featured image\n- **Notes:** Andreescu homecoming angle; landscape orientation\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "WTA Toronto Day 1 Results (August 3)\n**Confidence: MEDIUM** (WTA Official tournament page, Las Vegas Sun wire results)\n- **Tournament:** National Bank Open presented by Rogers, WTA 1000, Sobeys Stadium, Toronto [HIGH]\n- **Main draw Day 1:** Monday August 3, 2026 [HIGH]\n- **Seeds with byes:** Sabalenka (1) and Rybakina (2) have first-round byes [HIGH — Aug 3 brief]\n- **Bartunkova def. Andreescu 7-5, 6-4** (Notable: Andreescu Canadian wild card on home soil) [MEDIUM]\n- **Korneeva def. Kudermetova 6-0, 3-0 ret.** [MEDIUM]\n- **Pliskova def. Oliynykova 6-4, 6-4** [MEDIUM]\n- **Cross def. Boulter 7-6(3), 7-5** [MEDIUM]\n- **Bondar def. Kalinina 6-4, 7-5** [MEDIUM]\n- **Day def. Parry 3-6, 6-3, 7-5** [MEDIUM]\n- **Kessler def. Brace 6-3, 6-3** [MEDIUM]\n- **Zhang def. Putintseva 6-4, 6-1** [MEDIUM]\n- **Tararudee def. Jones 7-6(2), 6-2** [MEDIUM]\n- **Sramkova def. Blinkova 6-3, 6-3** [MEDIUM]\n- **Gibson def. Cocciaretto 6-2, 3-2 ret.** [MEDIUM]\n- **Ruse def. Stearns 6-0, 7-5** [MEDIUM]\n- Day 2 (Aug 4): Seeded players entering; Pegula expected as one of the top seeds [MEDIUM]\n**Sources:** wtatennis.com/tournaments/806/national-bank-open-toronto/2026/scores, lasvegassun.com wire results Aug 3",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Alcaraz Targets Cincinnati After Five-Month Wrist Injury Absence",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Carlos Alcaraz is back. He's targeting the Cincinnati Open (Aug 13-23) for his return after five months out with a right wrist injury. He's the defending Cincinnati champion. He faces a Jannik Sinner who won every Masters 1000 this year. #TennisNews #ATP #CincinnatiOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisNews",
+            "#ATP",
+            "#CincinnatiOpen"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-alcaraz-cincinnati-return-sinner-rivalry.html",
+        "headline": "Alcaraz Targets Cincinnati Return After Five Months Out — Facing a Sinner Who Has Won Everything",
+        "word_count": 508
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alcaraz Cincinnati Return\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search Term:** `Carlos Alcaraz Spain`\n- **Usage:** X Post, Facebook Long-Form\n- **Notes:** Return narrative; action shot preferred\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search Term:** `Carlos Alcaraz`\n- **Usage:** Article featured image\n- **Notes:** Landscape orientation; clear subject\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Alcaraz Returns at Cincinnati — Sinner's Historic Summer\n**Confidence: HIGH for Alcaraz injury/return; MEDIUM for Sinner season totals**\n- **Alcaraz:** World No. 3 (approx); right wrist injury; shut down in April 2026 [HIGH]\n- **Missed:** French Open and Wimbledon [HIGH]\n- **Return tournament:** Cincinnati Open, August 13–23, 2026 [HIGH]\n- **Defending Cincinnati champion:** Alcaraz won 2025 Cincinnati (Sinner retired from final due to illness) [HIGH]\n- **Sinner 2026:** World No. 1; reportedly won all 5 Masters 1000 titles; defended Wimbledon title [MEDIUM]\n- **Djokovic at Cincinnati:** Confirmed in entry list [HIGH]\n- **Gauff at Cincinnati:** Confirmed in entry list [HIGH]\n- **US Open:** Main draw begins August 24, 2026 [HIGH]\n- **Sinner injury:** Elbow injury from Wimbledon; targeting Cincinnati (Aug 13) [HIGH]\n**Sources:** outlookindia.com (Alcaraz Cincinnati return), forbes.com/adamzagoria (Cincinnati headliners), tennisnow.com (Alcaraz entry list)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

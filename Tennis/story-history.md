@@ -1291,3 +1291,51 @@ Track previously covered stories to avoid repetition and maintain content freshn
 - **Byline:** Elena Voss
 - **Key Facts:** Pegula def. Kalinskaya 6-3, 7-5; Shnaider def. Samsonova 6-3, 6-4; Osaka def. Cocciaretto 4-6, 6-4, 6-3; Eala def. Svitolina 6-3, 6-4; Sources: Washington Times, Inquirer, Tennis Majors, TennisUpToDate, WTA Tour
 - **Follow-Up Opportunities:** DC Open WTA SF/Final results Aug 1-2
+
+
+## 2026-08-04
+
+### Story 1: Eala Wins WTA DC Open — First Filipino WTA Singles Champion
+- **Date:** 2026-08-04
+- **Angle:** FOLLOW-UP (Aug 3, 2026 — S1: DC Open WTA Final — corrected result) — Alexandra Eala (PHI, 21, world No. 28) defeated No. 1 seed Jessica Pegula (USA) 4-6, 6-4, 6-0 in the DC Open WTA 500 final Monday. Final was suspended Sunday evening at 6-4, 2-1 (Eala leading second set). On resumption, Eala won 15 of the last 18 games. Historic: first Filipino player to win a WTA Tour singles title. Career-high live ranking ~No. 24. Eala's path: def. Zheng (R1) 4-6, 6-4, 6-1; def. Fernandez (R2, defending champ) 6-2, 7-6(1); def. Svitolina (QF) 6-3, 6-4; def. Osaka (SF) 6-4, 6-2; def. Pegula (F) 4-6, 6-4, 6-0.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Elena Voss
+- **Key Facts:** Eala def. Pegula 4-6, 6-4, 6-0; first Filipino WTA champion; career-high ~No. 24; 6-0 third set after resumption; Sources: WTA Official, Tennis Majors, Olympics.com, GMA News, Inquirer Sports
+- **Follow-Up Opportunities:** WTA Toronto seeding/performance; Eala at Cincinnati and US Open
+
+### Story 2: Fritz Wins DC Open ATP 500 — 11th Career Title
+- **Date:** 2026-08-04
+- **Angle:** FOLLOW-UP (Aug 3, 2026 — S2: Fritz vs. Jódar DC Open ATP Final preview) — Taylor Fritz (USA, No. 3 seed) defeated Rafael Jódar (ESP, 19) 7-6(2), 6-4 Monday. Fritz's 11th career ATP title, first DC Open win. Ended three consecutive final losses in 2026. Jódar makes ATP Top 20 debut this week regardless of result. Final postponed from Sunday to Monday due to rain.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Marcus Cole
+- **Key Facts:** Fritz def. Jódar 7-6(2), 6-4; 11th ATP title; first DC Open; 3 prior final losses in 2026; Jódar Top 20 debut; Sources: ATP Tour, Tennis Majors, Washington Times, Tennis365
+- **Follow-Up Opportunities:** Fritz at Montreal; Jódar ranking progress
+
+### Story 3: ATP Montreal Masters 1000 — Day 1 Main Draw Opens
+- **Date:** 2026-08-04
+- **Angle:** FOLLOW-UP (Aug 3, 2026 — S4: ATP Montreal draw preview) — Main draw opened Aug 4 at IGA Stadium. Seeds: Zverev (1), FAA (2, career-first Masters 1000 seeding on home soil), Shelton (3, defending), de Minaur (4), Medvedev (5). Sinner (elbow), Alcaraz (wrist), Djokovic all absent. Jack Draper wildcard (first tour match since 2025 injury). Rain cancelled Sunday R1 matches.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Ryan Calloway
+- **Key Facts:** Zverev (1), FAA (2) home seeding, Shelton (3) defending; Sinner/Alcaraz/Djokovic absent; Draper wildcard; rain delay; Sources: ATP Tour, Olympics.com
+- **Follow-Up Opportunities:** Montreal R1/R2 results; FAA home run; Draper first match
+
+### Story 4: WTA Toronto Day 1 — Bartunkova Upsets Andreescu on Home Soil
+- **Date:** 2026-08-04
+- **Angle:** FOLLOW-UP (Aug 3, 2026 — S3: WTA Toronto Day 1 of main draw opens) — Day 1 Monday Aug 3. Bartunkova def. Andreescu (Canadian wild card) 7-5, 6-4. Korneeva def. Kudermetova 6-0, 3-0 ret. Pliskova def. Oliynykova 6-4, 6-4. Cross def. Boulter 7-6(3), 7-5. Sabalenka (1) and Rybakina (2) have byes; enter in R2. Day 2 (Aug 4) brings seeded players.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Elena Voss
+- **Key Facts:** Bartunkova def. Andreescu 7-5, 6-4; Sabalenka/Rybakina have byes; 12 matches Day 1; Sources: WTA Official, Las Vegas Sun wire
+- **Follow-Up Opportunities:** WTA Toronto R2 results; Sabalenka/Rybakina entries; Pegula entry
+
+### Story 5: Alcaraz Targets Cincinnati After Five-Month Wrist Injury Absence
+- **Date:** 2026-08-04
+- **Angle:** NEW STORY — Carlos Alcaraz (world No. 3) targeting Cincinnati Open (Aug 13-23) for return after right wrist injury (shut down April; missed French Open and Wimbledon). Defending Cincinnati champion (Sinner retired from 2025 Cincinnati final ill). Sinner 2026: won all 5 Masters 1000 + defended Wimbledon. US Open begins Aug 24.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Marcus Cole
+- **Key Facts:** Alcaraz returns Cincinnati Aug 13-23; right wrist injury; missed FO and Wimbledon; Sinner won all 5 Masters 1000; Sinner defended Wimbledon; US Open Aug 24; Sources: Outlook India, Forbes, Tennis Now
+- **Follow-Up Opportunities:** Alcaraz Cincinnati performance; Sinner vs. Alcaraz rematch; US Open draw
