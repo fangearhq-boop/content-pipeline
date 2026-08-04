@@ -1,10 +1,21 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
-- **Date**: 2026-08-03
+- **Date**: 2026-08-04
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-08-04
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters (2 tweets fixed after verify-facts.py)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres)
+- **PostPlanner exports:** gfr-postplanner-2026-08-04.xlsx (7 posts) + gfr-postplanner-tobi-2026-08-04.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-08-04/review-dashboard.html (22 items)
+- **Notes:** ROCKET CLASSIC FINAL — Michael Thorbjornsen wins first PGA Tour title in 65th start; final-ever Rocket Classic at Detroit Golf Club; 18-under 262; final round 7-under 63; beat Xander Schauffele by 2; $1,800,000; 500 FedEx Cup points, clinched playoff spot; LIV GOLF UK — Lucas Herbert wins wire-to-wire at JCB Golf & Country Club, Rocester, England; 30-under total; 6-shot margin; 2nd wire-to-wire win in last 4 LIV Golf starts; FEDEX CUP PLAYOFFS — starts Aug 13; St. Jude Championship (Top 70, Memphis, Aug 13-16) → BMW Championship (Top 50, St. Louis, Aug 20-23) → TOUR Championship (Top 30, East Lake Atlanta, Aug 27-30); TOUR Championship = 72-hole stroke play from even par, low score wins; SCHEFFLER — 201 total weeks at OWGR No. 1; 167 consecutive; 2026 MAJORS RECAP — McIlroy Masters (back-to-back), Aaron Rai PGA Championship (first English winner since 1919), Wyndham Clark US Open wire-to-wire Shinnecock Hills, Ryan Fox The Open Royal Birkdale -10 (1 shot over Cameron Young)
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-08-03
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

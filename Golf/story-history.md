@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-08-04
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-08-04 | T1 | Michael Thorbjornsen Wins the Rocket Classic — First PGA Tour Win in 65 Starts | X, FB, Article | NEW |
+| 2026-08-04 | T1 | Lucas Herbert Wins LIV Golf UK Wire-to-Wire at 30-Under | X, FB, Article | NEW |
+| 2026-08-04 | T2 | FedEx Cup Playoffs Format and Schedule Breakdown | X, FB, Article | NEW |
+| 2026-08-04 | T2 | Scottie Scheffler's 201 Weeks at World No. 1 — 167 Consecutive | X, FB | NEW |
+| 2026-08-04 | T2 | The 2026 Major Champions — Four Different Winners | X, FB, Article | NEW |
+
+### STORY 1: Michael Thorbjornsen Wins the Rocket Classic
+- **Tier:** 1
+- **Category:** PGA Tour / Rocket Classic / First Win
+- **Key facts:** Thorbjornsen wins final Rocket Classic at Detroit Golf Club; 65th PGA Tour start, first win; final round 7-under 63; 18-under 262 total; beat Xander Schauffele by 2; $1,800,000 prize; 500 FedEx Cup points; clinched playoff spot
+- **Status:** NEW
+- **Follow-up ideas:** Thorbjornsen's playoff journey; first-time winner profile; Detroit Golf Club history
+
+### STORY 2: Lucas Herbert Wins LIV Golf UK Wire-to-Wire
+- **Tier:** 1
+- **Category:** LIV Golf / LIV Golf UK
+- **Key facts:** Herbert wins LIV Golf UK at JCB Golf & Country Club, Rocester, England; 30-under total; won by 6; wire-to-wire; 2nd wire-to-wire win in last 4 LIV Golf starts
+- **Status:** NEW
+- **Follow-up ideas:** Herbert's 2026 LIV season totals; wire-to-wire stat history
+
+### STORY 3: FedEx Cup Playoffs Format Breakdown
+- **Tier:** 2
+- **Category:** PGA Tour / FedEx Cup Playoffs
+- **Key facts:** St. Jude Championship Aug 13-16 TPC Southwind Memphis Top 70; BMW Championship Aug 20-23 Bellerive CC St. Louis Top 50; TOUR Championship Aug 27-30 East Lake Atlanta Top 30; TOUR Championship = 72-hole stroke play from even par, low score wins
+- **Status:** NEW
+- **Follow-up ideas:** Weekly recap of each playoff event
+
+### STORY 4: Scheffler 201 Weeks at World No. 1
+- **Tier:** 2
+- **Category:** PGA Tour / World Rankings / Scheffler
+- **Key facts:** Scottie Scheffler 201 total weeks at OWGR No. 1; 167 consecutive; entering FedEx Cup Playoffs as world's top-ranked player
+- **Status:** NEW
+- **Follow-up ideas:** Total weeks record chase; FedEx Cup ranking
+
+### STORY 5: 2026 Major Champions Season Recap
+- **Tier:** 2
+- **Category:** Golf / Majors / Season Recap
+- **Key facts:** McIlroy wins Masters back-to-back; Aaron Rai wins PGA Championship (first English winner since 1919); Wyndham Clark wins US Open wire-to-wire at Shinnecock Hills; Ryan Fox wins The Open at Royal Birkdale (-10, 1 shot over Cameron Young)
+- **Status:** NEW
+- **Follow-up ideas:** End-of-year major champions profile
+
 ## 2026-08-03
 
 | Date | Tier | Story | Platforms | Status |
