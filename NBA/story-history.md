@@ -5103,3 +5103,44 @@
 - **Key facts:** LaVine exercises $49M player option per agent Rich Paul; averaged 19.2 PPG in 39 games before hand injury; Kings have no plans to cut ties; Kings waived DeRozan to reshape roster
 - **Status:** NEW
 - **Follow-up ideas:** Kings training camp roster; LaVine's health coming into camp; Western Conference outlook
+
+| 2026-08-04 | T1 | LeBron James — 10 All-Time Records in Sight for 24th Season | X, FB, Article | FOLLOW UP |
+| 2026-08-04 | T1 | Kawhi Leonard Trade Frozen — Dillon Brooks Says 'It Won't Happen' | X, FB, Article | FOLLOW UP |
+| 2026-08-04 | T2 | Giannis Antetokounmpo Joins Miami Heat | X, FB, Article | FOLLOW UP |
+| 2026-08-04 | T2 | NBA Schedule Drops August 13-14 | X, FB, Article | NEW |
+| 2026-08-04 | T2 | Wembanyama Organizes Paris Team Trip — Spurs Chemistry Drive | X, FB, Article | FOLLOW UP |
+
+### STORY 1: LeBron James — 10 All-Time Records in Sight for 24th Season
+- **Tier:** 1
+- **Category:** NBA / LeBron James / Philadelphia 76ers
+- **Key facts:** 672 career 30-pt games (Jordan: 671 — one more = sole record); 24th season breaks Vince Carter's seasons-played record (22); already holds career scoring/assists-by-forward/minutes records; signed 2yr/$7.94M with 76ers July 26; 20.9/7.2/6.1 in 60 games last season; first to win titles with 4 franchises if Philly wins; projected starting 5: Maxey/Edgecombe/Brown/LeBron/Embiid
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** First regular-season game; first 30-point game; record-breaking moments
+
+### STORY 2: Kawhi Leonard Trade Frozen — Dillon Brooks Says 'It Won't Happen'
+- **Tier:** 1
+- **Category:** NBA Investigation / Clippers / Raptors
+- **Key facts:** Dillon Brooks told streamer Neon July 31 trade "won't happen"; trade agreed June 30 (Kawhi → Toronto for Ingram+Dick+2031+2033 unprotected firsts+2027 swap+2nds); NBPA can demand CBA arbitration extending case into 2027; Clippers claim victim of fraud (Sanberg convicted 14 yrs); Raptors refuse penalty liability; Kawhi $50.3M 2026-27 salary; Commissioner Silver deadline uncertain
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** NBPA arbitration filing; NBA ruling; training camp status
+
+### STORY 3: Giannis Antetokounmpo Joins Miami Heat
+- **Tier:** 2
+- **Category:** NBA Trades / Miami Heat / Bucks
+- **Key facts:** Giannis traded to Heat ~9 days after Knicks won 2026 title; two-time MVP (2019, 2021); led Bucks to 2021 championship; drafted 15th overall 2013; spent 13 seasons in Milwaukee; Heat continue pattern of acquiring elite talent to build around
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** First Heat game; Bucks rebuild assets; Heat's Eastern Conference standing
+
+### STORY 4: NBA Schedule Drops August 13-14
+- **Tier:** 2
+- **Category:** NBA Season Preview
+- **Key facts:** Schedule expected Aug 13-14; most anticipated release in years; LeBron Philly debut date TBD; Knicks banner night Oct 20 MSG; Giannis Heat opener; Wembanyama vs. Embiid dates; Heat preseason opens Oct 3 Quebec City vs. Toronto; Nets preseason Oct 6-14
+- **Status:** NEW
+- **Follow-up ideas:** Schedule breakdown when released; opening night preview
+
+### STORY 5: Wembanyama Organizes Paris Team Trip — Spurs Chemistry Drive
+- **Tier:** 2
+- **Category:** NBA Offseason / Spurs / Victor Wembanyama
+- **Key facts:** Organizing 8-10 Spurs players for France team trip; training personally in Paris with coach Guillaume Alquier; signed 5yr/$252M extension (left ~$50M on table at 25% max); 3 seasons: DPOY, 2x All-Star, 2x All-Defensive First Team, Rookie of Year; France FIBA qualifiers Aug 27+30 (Group L 5-1); prep vs. Serbia Aug 20+23
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Training camp chemistry; Spurs season preview; Castle/Harper development

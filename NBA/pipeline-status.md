@@ -1,6 +1,18 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Last Run
+- **Date**: 2026-08-04
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce, Jake Torres)
+- **PostPlanner exports:** hh-postplanner-2026-08-04.xlsx (7 posts) + hh-postplanner-tobi-2026-08-04.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-08-04/review-dashboard.html (22 items)
+- **Notes:** LeBron records chase (672 30-pt games, 1 from passing Jordan; 24th season breaks Vince Carter record); Kawhi trade frozen (Dillon Brooks July 31 "won't happen"; NBPA arbitration threat → 2027 timeline); Giannis to Heat (9 days after Knicks won title); NBA schedule drops Aug 13-14 (Knicks banner night Oct 20 MSG); Wembanyama Paris team trip (8-10 Spurs, training w/ Alquier)
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+## 2026-08-03
 - **Date**: 2026-08-03
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)
