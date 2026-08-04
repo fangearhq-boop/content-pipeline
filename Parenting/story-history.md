@@ -5317,3 +5317,52 @@
 - **Tier:** 2
 - **Key Facts:** 12 miles SW of COS via Gold Camp Road; 9,600+ ft; fishing mid-May–Oct 5am-9pm; flies/lures only; CO fishing license or SWA pass required ages 16+; 0.5-mile hike; no swimming; camping status uncertain; Sources: CSU.org, cpw.state.co.us, KOAA, KRDO, uncovercolorado.com
 - **Follow-Up Opportunities:** Campground opening confirmation when available; fishing report/community feedback
+
+---
+
+## 2026-08-04
+
+### Story 1: D49 First Full School Day — All Remaining Grades Start Tuesday With Heat Advisory
+- **Date:** 2026-08-04
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — District 49 first full school day for all grades (Monday Aug 3 was staggered: K, 6th, 9th only). Heat advisory in effect; afternoon highs near 100°F. Practical guidance for families on afternoon pickup, hydration, bus route timing. Also positions the D49 start in context of COS district calendar (Harrison Aug 10, D11 Aug 12, D20 Aug 17-18).
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 1 Image Concept
+- **Tier:** 2
+- **Key Facts:** D49 staggered start Aug 3 (K, 6th, 9th); all other grades Aug 4; heat advisory in effect; highs near 100°F; El Paso County 6,000+ ft elevation; Sources: d49.org, NWS
+- **Follow-Up Opportunities:** D11 first day Aug 12; D20 first day Aug 17-18
+
+### Story 2: CPSC Recalls 116,908 TOMY Boon PIVOT Toddler Tower Step Stools — Tip-Over Hazard
+- **Date:** 2026-08-04
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recall of 116,908 TOMY Boon PIVOT Collapsible Toddler Tower Kitchen Step Stools. Sold Jan 2023–June 2026 at Amazon, Target, Babylist for ~$150. 11 reports of instability/leaning; 0 injuries. Stop using immediately; contact TOMY for free stabilizing repair part. Part of broader pattern: 11 toddler tower recalls since Sept 2025 (434,176 total units, 141 incidents, 54 child injuries across brands). No mandatory CPSC safety standard yet.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 1 Image Concept
+- **Tier:** 1
+- **Key Facts:** 116,908 units; Amazon/Target/Babylist Jan 2023–June 2026; ~$150; 11 instability reports; 0 injuries; free repair part from TOMY; 11 brands recalled since Sept 2025; 434,176 total units; 141 incidents; 54 injuries across brands; cpsc.gov; Sources: CPSC.gov recall announcement
+- **Follow-Up Opportunities:** CPSC mandatory safety standard finalization (expected in coming months)
+
+### Story 3: D11 Board Votes Tomorrow on $775M Bond Measure
+- **Date:** 2026-08-04
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — D11 Board of Education votes Wednesday Aug 5 at 5:30 PM on whether to place $775M bond measure on November 2026 general election ballot. Average D11 school age: 58 years. Identified repair backlog: $422M+. Annual capital budget: ~$17M. Bond would fund HVAC upgrades, safety improvements, modernization, one new construction. Estimated homeowner cost: ~$6.50/month per $100K assessed value. First major D11 bond in 20+ years.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 1 Image Concept
+- **Tier:** 2
+- **Key Facts:** Vote Aug 5 at 5:30 PM; $775M; avg school age 58 yrs; $422M+ backlog; $17M annual capital budget; $6.50/mo per $100K assessed value; 20+ year gap; d11.org/bond; Sources: d11.org, Colorado Springs Gazette
+- **Follow-Up Opportunities:** Vote result coverage Wednesday Aug 5 evening; November ballot campaign
+
+### Story 4: D20 Start Dates Correction — Correct Dates Are August 17-18, Not August 13
+- **Date:** 2026-08-04
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — Correction of circulating misinformation: D20 start date is NOT August 13. Confirmed correct dates: Aug 17 (preschool, elementary, 6th grade, 9th grade) and Aug 18 (all other grades). Staggered approach mirrors D49's transition-year model. Includes full COS district start date reference table. Source confirmed directly with D20.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 1 Image Concept
+- **Tier:** 2
+- **Key Facts:** D20 Aug 17 (preschool/elem/6th/9th) and Aug 18 (all other grades); NOT Aug 13; D49 in session; Harrison Aug 10; D11 Aug 12; asd20.org; Sources: D20 confirmed directly (Springs Daily)
+- **Follow-Up Opportunities:** D20 first day coverage Aug 17-18
+
+### Story 5: D11 Back-to-School Prep — Free Supply Kits for 14,000 Students Via Edukit Partnership
+- **Date:** 2026-08-04
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — D11 partnered with Edukit to provide free, grade-specific school supply kits to all K-8 students (14,000+) on the first day of school (Aug 12). No sign-up, no cost to families. Kits distributed at school. Practical 8-day countdown checklist for families: parent portal check, transportation, forms, sleep schedule adjustment.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 1 Image Concept
+- **Tier:** 2
+- **Key Facts:** 14,000+ K-8 students; Edukit partnership; grade-specific kits; distributed at school Aug 12; no sign-up required; free; supply cost savings $50-$100+ per child; d11.org; Sources: d11.org, Edukit partnership announcement
+- **Follow-Up Opportunities:** D11 first day Aug 12 coverage

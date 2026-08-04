@@ -1951,3 +1951,41 @@
 | PostPlanner Export | COMPLETE | Standard (8) + TOBI (8) |
 | Dashboard Push | Attempted — PAT lacks write access | Same environment restriction |
 | WordPress Publish | Attempted — Host not in allowlist | Same environment restriction |
+
+---
+
+## Latest Run: August 4, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | D49 first full day (all grades Aug 4 after staggered K/6th/9th Aug 3); CPSC TOMY Boon PIVOT recall (116,908 units, Amazon/Target/Babylist, Jan 2023–Jun 2026, ~$150, tip-over/fall hazard, 11 reports 0 injuries, free repair part); D11 bond vote Aug 5 5:30 PM ($775M, 58-yr avg school age, $422M+ backlog, $6.50/mo per $100K); D20 start dates correction (Aug 17-18, NOT Aug 13); D11 Edukit free supply kits (14,000+ K-8 students, grade-specific, no sign-up, first day Aug 12) |
+| Story History Check | COMPLETE | 5 NEW STORIES |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (1 Tier 1, 4 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 6 posts; 4 hashtags each; all under 280 chars; 0 exclamation marks; COS voice rules |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts, 2 per story) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — YAML in markdown block; 10 images; all not_started; photo_source: gemini; brand_kit_id: kAHCKfCZgk0 |
+| Articles | COMPLETE | 5 articles (500-1000 words each); Quick Reference sections; What's Next sections; 0 exclamation marks; Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| Fact-Check | COMPLETE | verify-facts.py — 5 stories present; 114 claims; image not_started warnings cosmetic (gemini base_only) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 6 X posts, 0 FB posts (parser compat), 5 articles, 5 images |
+| Dashboard | COMPLETE | review-dashboard.html — 21 items |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-08-04.xlsx (6 posts) + cosp-postplanner-tobi-2026-08-04.xlsx (6 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API (403 Forbidden) | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-08-04)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (1 Tier 1, 4 Tier 2)
+- **Posts:** 6 X posts in PostPlanner xlsx; posting windows 13:19–20:29 (86 min apart)
+- **Articles:** 5 (bylines: Sarah Morales x3 [S1, S3, S5], Jamie Rivera x2 [S2, S4])
+- **PostPlanner exports:** cosp-postplanner-2026-08-04.xlsx (6 posts), cosp-postplanner-tobi-2026-08-04.xlsx (6 TOBI posts)
+- **Coverage:** D49 first full day Aug 4 with heat advisory; CPSC TOMY Boon PIVOT toddler tower recall (116,908 units); D11 $775M bond vote Aug 5 at 5:30 PM; D20 start dates correction (Aug 17-18 NOT Aug 13); D11 Edukit free supply kits for 14,000+ K-8 students
+- **Notes:**
+  - verify-facts.py: image manifest not parsed (YAML in markdown code block — known limitation); 114 claims checked; no char violations
+  - compile: 5 stories, 6 X posts, 0 FB posts (PostPlanner xlsx has full 6 posts), 5 articles
+  - dashboard: 21 items
+  - PostPlanner exports: both standard (6) and TOBI (6) generated successfully; redistribution 13:19–20:29 MT
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)

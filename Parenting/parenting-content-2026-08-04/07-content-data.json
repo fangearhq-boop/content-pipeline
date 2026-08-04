@@ -1,0 +1,270 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-04",
+  "compiled_at": "2026-08-04T12:49:24.897586+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "D49 First Full School Day — All Remaining Grades Report Today",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Today is the first full day of school for ALL D49 families — staggered start wraps up with every remaining grade heading in. Heat advisory in effect: temps near 100°F. Keep kids hydrated and skip afternoon outdoor play. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-d49-first-full-day-all-grades.html",
+        "headline": "D49 First Full Day: All Remaining Grades Start School Tuesday With Heat Advisory in Effect",
+        "word_count": 496
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D49 First Full School Day\n\n#### Image Concept 1 — Social (1080x1350)\n**Gemini prompt:** A sunlit elementary school entrance on a warm summer morning in Colorado. Blue sky visible, brick building facade with glass double doors propped open. A colorful row of children's backpacks resting against a wall near the entrance. No faces visible. Warm golden morning light. Clean bottom third free of objects — soft blurred grass or pavement. Photorealistic, warm and welcoming tone.\n**Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n**Gemini prompt:** Wide-angle landscape view of a Colorado school building exterior on a sunny summer morning. Mountains faintly visible on the horizon. Green lawn in foreground. Neutral brick and glass school architecture. No people. Warm, natural daylight. Clean, photorealistic.\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D49 First Full School Day — All Remaining Grades\n**Confidence: HIGH** (d49.org official, Springs Daily, prior pipeline coverage)\n- **D49 staggered start:** Aug 3 (Mon) = K, 6th, 9th graders; Aug 4 (Tue) = ALL remaining grades [HIGH]\n- **Rationale:** Gives transition-year students one day to orient before full school population arrives [HIGH]\n- **Heat advisory:** In effect for Colorado Springs; afternoon highs upper 90s / near 100°F this week [HIGH — KRDO, CBS Colorado]\n- **El Paso County forecast:** Aug 4 high approximately 98°F; expected to persist through weekend [HIGH]\n- **Safety reminder for families:** Afternoon pickup in peak heat; children should hydrate; avoid strenuous outdoor play after school [HIGH — KRDO, NWS]\n- **D49 official:** d49.org/p/~board/2026-2027-news-in-district/post/back-to-school-2026-2027 [HIGH]\n**Sources:** d49.org, springsdaily.com, krdo.com, cbsnews.com/colorado",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "CPSC Recall — TOMY Boon PIVOT Toddler Tower Step Stools (116,908 Units)",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "CPSC RECALL: TOMY Boon PIVOT Toddler Tower Step Stools — 116,908 units recalled for tip-over and fall hazard. Stop using immediately. Sold at Amazon, Target, Babylist (~$150). TOMY provides free repair part. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 267
+        },
+        {
+          "label": "Post 2-2",
+          "text": "11 toddler tower brands recalled since Sep 2025: 434,176 units, 54 child injuries. Consumer Reports is pushing for a mandatory safety standard. Check your child's kitchen step stool — it may be one of them. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-cpsc-toddler-tower-tomy-boon-pivot-recall.html",
+        "headline": "CPSC Recalls 116,908 TOMY Boon PIVOT Toddler Tower Step Stools for Tip-Over and Fall Hazard",
+        "word_count": 556
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "CPSC Toddler Tower Recall\n\n#### Image Concept 1 — Social (1080x1350)\n**Gemini prompt:** A wooden children's learning tower kitchen step stool photographed on a clean white kitchen tile floor. Natural window light from the left side. The stool is seen at a slight angle, suggesting instability. No child present, no faces. Clean bottom third of image clear — white floor visible below the stool. Photorealistic product photography style, neutral and factual tone.\n**Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n**Gemini prompt:** Close-up of a collapsible wooden kitchen step stool for children, photographed on a light-colored hardwood floor in a home kitchen setting. Soft natural light. No people, no child. The focus is on the stool structure. Photorealistic, landscape orientation, clean composition.\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "CPSC Recall — TOMY Boon PIVOT Toddler Tower Step Stools\n**Confidence: HIGH** (CPSC.gov official recall page, Consumer Reports)\n- **Product:** TOMY Boon PIVOT Collapsible Toddler Tower Kitchen Step Stools [HIGH]\n- **Units recalled:** 116,908 [HIGH]\n- **Hazard:** Tip-over and fall hazard — towers can tip while a toddler is standing on them; risk of serious injury and death [HIGH]\n- **Incidents/injuries:** 11 reports of instability or leaning; no injuries yet reported (as of recall date) [HIGH]\n- **Where sold:** Amazon, Target, Babylist [HIGH]\n- **Sale period:** January 2023 through June 2026 [HIGH]\n- **Price:** Approximately $150 [HIGH]\n- **Remedy:** Stop using immediately; TOMY will provide a free stabilizing repair part and instructions [HIGH]\n- **What to do:** Contact TOMY for free repair part before resuming use [HIGH]\n- **CPSC page:** cpsc.gov/Recalls/2026/TOMY-Recalls-Boon-PIVOT... [HIGH]\n**Broader toddler tower recall context (HIGH — Consumer Reports):**\n- 11 total toddler tower product recalls since September 2025 [HIGH]\n- Combined total units across all 11 brands: 434,176 [HIGH]\n- Combined documented incidents: 141 [HIGH]\n- Combined child injuries: 54 [HIGH]\n- Consumer Reports is urging the CPSC to finalize a mandatory safety standard for this product category [HIGH]\n**Also active — related recalls worth monitoring (MEDIUM — prior pipeline coverage):**\n- Bellabu Bear Children's Robes: burn hazard, flammability standard violation\n- Sanven/Vevor Baby Swings: suffocation hazard, inclined sleeper ban\n**Sources:** cpsc.gov, advocacy.consumerreports.org",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "D11 Bond Vote Is Tomorrow — Last Chance to Know What's at Stake",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "D11 Board votes TOMORROW (Aug 5, 5:30 PM) on placing a $775M bond on the November ballot. Average D11 school is 58 years old — $422M in repairs needed. Know what's at stake before the vote. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-d11-bond-vote-tomorrow-775-million.html",
+        "headline": "D11 Board Votes Tomorrow on $775M Bond Measure — Here Is What Colorado Springs Families Need to Know",
+        "word_count": 575
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D11 Bond Vote Tomorrow\n\n#### Image Concept 1 — Social (1080x1350)\n**Gemini prompt:** A Colorado school building exterior photographed in late summer afternoon light. Blue sky with a few light clouds. American flag on a flagpole. Mountains visible in the soft distance. Lush lawn in foreground, trees on sides. No people. Warm, inviting institutional architecture. Clean bottom third — grass and sidewalk clearly visible. Photorealistic.\n**Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n**Gemini prompt:** Wide establishing shot of a Colorado public school building at midday. Flat-roofed or pitched-roof architecture typical of American elementary or middle school. Parking lot in foreground, mountains in the background. Clean blue sky. No people. Photorealistic, landscape orientation.\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D11 Bond Vote Tomorrow — $775M\n**Confidence: HIGH** (Gazette, KRDO, d11.org)\n- **Vote date/time:** Wednesday August 5, 5:30 PM [HIGH]\n- **Body:** D11 Board of Education [HIGH]\n- **Amount:** $775 million [HIGH]\n- **What the vote decides:** Whether to place the bond on the November 2026 general election ballot (not whether to approve the bond itself) [HIGH]\n- **Average school building age:** 58 years [HIGH]\n- **Identified repair backlog:** Exceeds $422 million [HIGH]\n- **Annual capital repair budget:** Only $17 million [HIGH]\n- **Taxpayer cost (if passed by voters):** Approximately $6.50 per month per $100,000 of assessed home value [HIGH]\n- **Total D11 facility assets:** $4.9 billion in assets at risk of deterioration [MEDIUM]\n- **Bond funds:** HVAC upgrades, school safety, modernization, new construction [HIGH]\n- **First significant D11 bond in:** More than 20 years [HIGH]\n- **D11 first day of school:** August 12, 2026 [HIGH]\n- **Where to find more:** d11.org/bond/faq [HIGH]\n**Sources:** gazette.com (July 29), krdo.com (May 27), d11.org/bond/faq, d11.org/boe/meetings",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "D20 Start Dates Correction — It Is August 17-18, Not August 13",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "D20 families: the correct first day of school is August 17 (elementary/preschool/6th/9th) and August 18 (all other grades) — NOT August 13. If you planned around Aug 13, update your calendar now. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-d20-school-start-dates-correction-august-17.html",
+        "headline": "D20 School Start Dates Update: It Is August 17-18, Not August 13 — Here Are the Correct Dates for Every Colorado Springs District",
+        "word_count": 510
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D20 Start Dates Correction\n\n#### Image Concept 1 — Social (1080x1350)\n**Gemini prompt:** An open planner or calendar on a wooden desk, showing the month of August with several dates visible. A pencil rests across the page. Warm natural window light from the side. No specific dates marked or circled. Clean bottom third — wooden desk surface visible below the planner. Photorealistic, close-up photography style.\n**Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n**Gemini prompt:** A family calendar hanging on a refrigerator or wall, shown from a slight distance with a bright kitchen background. The month of August is visible but dates are not readable. Clean, welcoming home environment. No faces. Warm, natural light. Photorealistic, landscape orientation.\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D20 School Start Dates Correction\n**Confidence: HIGH** (Springs Daily, official sources)\n- **D20 (Academy District 20) correct start dates:**\n- August 17: Preschool, elementary, 6th graders, 9th graders [HIGH]\n- August 18: All other students [HIGH]\n- **Incorrect date circulated:** August 13 (was reported earlier; Springs Daily correction confirmed dates as Aug 17-18) [HIGH]\n- **Harrison School District 2 (D2) start:** August 10, 2026 [HIGH]\n- **D11 start:** August 12, 2026 [HIGH]\n- **D49 start:** August 3-4, 2026 (staggered, this week) [HIGH]\n**Sources:** springsdaily.com/articles/cos-school-start-dates-updated-d20-begins-august-17-18-not-august-13-plus-d11s-free-supplies",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "D11 Back-to-School Prep — Free Supply Kits for 14,000+ K-8 Students",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "D11 families: school starts August 12. More than 14,000 K–8 students will receive free grade-specific supply kits on the first day through a district partnership with Edukit. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-d11-back-to-school-prep-edukit-free-supplies.html",
+        "headline": "D11 First Day Is August 12: Free Supply Kits for 14,000 Students and an 8-Day Prep Guide for Families",
+        "word_count": 644
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D11 Edukit Free Supply Kits\n\n#### Image Concept 1 — Social (1080x1350)\n**Gemini prompt:** A neatly arranged flat-lay of colorful school supplies on a white surface: pencils, crayons, a notebook, scissors, an eraser, and a pencil case. Bright, cheerful natural light from above. No packaging, no logos, no brand names visible. Clean bottom third of image completely clear. Photorealistic, slightly overhead angle.\n**Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n**Gemini prompt:** A cardboard supply kit box partially opened on a school desk, showing neatly packed school supplies inside — pencils, crayons, folders — in vibrant colors. Warm classroom light. No logos or brand names visible. No faces. Photorealistic, landscape orientation, warm and positive tone.\n**Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D11 Edukit Free Supply Kits\n**Confidence: HIGH** (Springs Daily)\n- **Partnership:** D11 and Edukit [HIGH]\n- **Students served:** More than 14,000 K-8 students [HIGH]\n- **What they receive:** Free, grade-specific school supply kits [HIGH]\n- **When delivered:** First day of school — August 12, 2026 [HIGH]\n- **How delivered:** At school on first day [HIGH]\n- **Significance:** Major community support for D11 families [HIGH]\n- **D11 first day:** August 12 — 8 days away as of Aug 4 [HIGH]\n**Also from research:**\n- RAM (Remote Area Medical) hosted free medical, dental, vision clinic at Pikes Peak State College Aug 1-2, including school physicals (this has passed, background context only) [MEDIUM]\n**Sources:** springsdaily.com/articles/cos-school-start-dates-updated-d20-begins-august-17-18-not-august-13-plus-d11s-free-supplies",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
