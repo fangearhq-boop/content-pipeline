@@ -1,0 +1,223 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-04",
+  "compiled_at": "2026-08-04T09:25:06.880475+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM CT",
+      "description": "Story 1 — Game 1 Recap (Boyd 7-1, 3 HRs, Busch 3 RBI)",
+      "type": "Informative"
+    },
+    {
+      "time": "8:15 AM CT",
+      "description": "Story 2 — Full Deadline Haul (Holmes, Zeferjahn, Garrett, Taylor)",
+      "type": "Bold/Trade"
+    },
+    {
+      "time": "9:30 AM CT",
+      "description": "Story 3 — Wild Card Standings (64-49, No. 1 NL WC)",
+      "type": "Analytical"
+    },
+    {
+      "time": "10:45 AM CT",
+      "description": "Story 4 — PCA MVP Surge (+100 odds, .349 BA in last 235 PA)",
+      "type": "Bold/Passionate"
+    },
+    {
+      "time": "2:30 PM CT",
+      "description": "Story 5 — Merryweather to IL (2nd stint), Thompson/Palencia recalled",
+      "type": "Informative"
+    },
+    {
+      "time": "6:30 PM CT",
+      "description": "Story 6 — Skubal Dodgers Debut vs Assad, 7:05 PM CT",
+      "type": "Hype"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Game 1 Recap — Cubs Hammer Dodgers, Boyd Moves to 7-1",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Cubs won emphatically Monday night — Boyd earns the win (now 7-1). Seiya Suzuki, Carson Kelly, and Kevin Alcántara each hit 2-run HRs. Michael Busch drove in 3 runs against his former team. Dodgers drop their 4th straight. has_score=False insight: do NOT lead with final score.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Matthew Boyd, 7-1. That happened in August.\n\nSuzuki, Kelly, and Alcántara all went deep. Busch drove in three against his former team. The Dodgers are now in a four-game slide.\n\nPost-deadline Cubs mean business. 🔥\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Game recap / informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Full Deadline Haul — Jed Hoyer Makes Four Deals in 24 Hours",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Yesterday's pipeline only covered Gausman. Fresh angle: the full picture — Clay Holmes (2.39 ERA before May fractured fibula) + Ryan Zeferjahn (reliever, from Angels) + Braxton Garrett (LHP, from Marlins) + Tyrone Taylor (OF, from Mets). Four separate deals to add pitching depth and bench depth. Hoyer quote: \"In some ways we were as focused as I can remember in a deadline.\"",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Gausman. Holmes. Garrett. Zeferjahn. Taylor.\n\nJed Hoyer made four deadline deals in 24 hours. Holmes posted a 2.39 ERA before May's fractured fibula. That's a No. 3 starter on the mend.\n\nThe message is clear: Cubs are here to win in October.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Trade analysis / bold take",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Wild Card Standings — Cubs Extend Lead at 64-49",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Cubs 64-49, No. 1 NL Wild Card. D-backs and Phillies both around 4 games back. Brewers have the Central. Cardinals irrelevant at 54-57. Gap is growing — solid chance to push it further tonight.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Cubs: 64-49. No. 1 NL Wild Card.\nD-backs and Phillies: both around 4 games back.\nCardinals: irrelevant.\n\nThat gap doesn't close itself — and last night made it bigger.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Standings / analysis",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 192
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "PCA MVP Surge — Now at +100 vs Ohtani's -130",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "PCA's odds surged from +3000 six weeks ago to +100. Ohtani fell from -1500 to -130 due to knee inflammation and biceps issues. PCA's last 235 PA: .349 BA, 18 HR, .728 SLG. He's playing against Ohtani's team TONIGHT — direct MVP showdown narrative. Bold take: PCA is the best player in the NL.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Six weeks ago Ohtani was -1500 to win NL MVP. Tonight he's -130 — and PCA is +100.\n\nPete Crow-Armstrong: .349 BA over his last 235 PA, 18 HRs in that stretch. 24 HR, 26 SB on the season.\n\nHe's the best player in the National League. 🏆\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Bold take / stat breakdown",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Roster Moves — Merryweather Back on IL (2nd Stint)",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Julian Merryweather returns to IL with right knee tendonitis — his second stint this season. Keegan Thompson and Daniel Palencia recalled. Jack Neely optioned. Deadline haul (Zeferjahn, Garrett) gives Hoyer the depth to absorb the setback.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Julian Merryweather is back on the IL — right knee tendonitis, second stint this season.\n\nThompson and Palencia recalled. Zeferjahn already in the fold from the deadline.\n\nHoyer built a bullpen with depth for exactly this reason.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Roster/injury update / informative",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Skubal Dodgers Debut Tonight at Wrigley — Assad vs Skubal",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Tarik Skubal (two-time Cy Young winner) makes his FIRST Dodgers start TONIGHT at Wrigley Field. Cubs are literally the first team in MLB to face the new Dodger ace. Assad (6-1, 3.86 ERA) is the counter. Dodgers on a 4-game skid, Cubs already won game 1 in style. Maximum hype slot: don't lead with Skubal's stats — lead with the matchup itself (opponent + stakes). Kicker: the narrative.",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Two-time Cy Young winner. Dodgers ace. Wrigley Field. Tonight.\n\nTarik Skubal makes his Dodgers debut in the loudest possible venue — and Javier Assad has a 6-1 record and something to say about it.\n\n7:05 PM CT. Let's go. 🔥\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "Game time hype / pre-game preview",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

@@ -1,6 +1,44 @@
-# Cubs Pipeline Status — Updated 2026-08-03
+# Cubs Pipeline Status — Updated 2026-08-04
 
 ## Latest Run
+- **Date:** 2026-08-04 (Tuesday)
+- **Run time:** ~09:00 UTC
+- **Stories:** 6
+- **X posts:** 6
+- **Platforms:** X/Twitter only
+- **Status:** ✅ Complete
+
+## Insights Summary (2026-08-04)
+- **Snapshot generated:** 2026-08-04T08:30:00Z (fresh)
+- **Measured tweets:** 122
+- **Significant findings (1):**
+  - `has_score=False` beats `has_score=True` — small effect (δ=0.316, p=0.009)
+  - Winner median impressions: 146 (n=34, no score) vs 98 (n=24, has score)
+  - **Applied:** No tweet today leads with or includes a game score. Game recap leads with "Matthew Boyd, 7-1. That happened in August." not the final score.
+- No other findings cleared significance gates; fall-through to brand voice defaults
+
+## Series Context (2026-08-04)
+- `is_series_start_today`: FALSE (mid-series, game 2 of 3 vs Dodgers)
+- `off_day`: false
+- Game 2 tonight: Assad vs. Skubal (Skubal's Dodgers debut), 7:05 PM CT
+- Game 3 tomorrow: 1:20 PM CT
+- No mandatory series-preview slot
+
+## Today's Content
+| Slot | Story | Tier |
+|------|-------|------|
+| 7:00 AM CT | Game 1 Recap — Boyd 7-1, 3 HRs, Busch 3 RBI, Dodgers 4-game slide | 1 |
+| 8:15 AM CT | Full Deadline Haul — Holmes/Zeferjahn/Garrett/Taylor + Gausman | 1 |
+| 9:30 AM CT | Wild Card Standings — Cubs 64-49, No. 1 NL WC | 2 |
+| 10:45 AM CT | PCA MVP Surge — +100 odds vs Ohtani -130, .349 BA last 235 PA | 2 |
+| 2:30 PM CT | Roster Moves — Merryweather to IL (2nd stint), Thompson/Palencia recalled | 2 |
+| 6:30 PM CT | Skubal Dodgers Debut vs Assad, 7:05 PM CT | 1 |
+
+## Dashboard
+- Review dashboard: Cubs/cubs-content-2026-08-04/review-dashboard.html ✅
+- Content data JSON: Cubs/cubs-content-2026-08-04/07-content-data.json ✅ (6 stories, 6 x_posts)
+
+## Previous Run (2026-08-03)
 - **Date:** 2026-08-03 (Monday)
 - **Run time:** ~09:00 UTC
 - **Stories:** 7
@@ -24,7 +62,7 @@
 - Series: 3 games at Wrigley Field — Mon 7:05 PM CT / Tue 7:05 PM CT / Wed 1:20 PM CT
 - Game 1 tonight: Matthew Boyd vs. Justin Wrobleski
 
-## Today's Content
+## Content (2026-08-03)
 | Slot | Story | Tier |
 |------|-------|------|
 | 7:00 AM CT | Dodgers Series Preview (MANDATORY — is_series_start_today=true) | 1 |
@@ -34,10 +72,6 @@
 | 12:00 PM CT | Wild Card Standings — Cubs 63-49, No. 1 NL WC | 2 |
 | 3:45 PM CT | Owen Ayers Iowa Promotion | 3 |
 | 5:00 PM CT | Game 1 Preview: Boyd vs. Wrobleski, 7:05 PM CT | 2 |
-
-## Dashboard
-- Review dashboard: Cubs/cubs-content-2026-08-03/review-dashboard.html ✅
-- Content data JSON: Cubs/cubs-content-2026-08-03/07-content-data.json ✅ (7 stories, 7 x_posts)
 - Unified dashboard publish: push timed out (recurring content-dashboards issue — non-blocking for cubs-x-bot)
 
 ## Issues

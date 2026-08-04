@@ -5,6 +5,64 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-04
+
+### STORY 1: Game 1 Recap — Cubs Hammer Dodgers, Boyd Moves to 7-1
+- **Angle:** NEW STORY (Cubs won game 1 of Dodgers series; Boyd earns win (now 7-1); Suzuki, Kelly, Alcántara each hit 2-run HRs; Busch 3 RBI vs former team; Dodgers on 4-game losing streak; no score lead per has_score=False insight)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - Game 2 result recap (Wednesday 7:00 AM)
+  - Boyd's 2026 second-half record tracking
+  - Series result (Cubs win series vs Dodgers?)
+
+### STORY 2: Full Deadline Haul — Holmes, Zeferjahn, Garrett, Taylor + Gausman
+- **Angle:** NEW STORY (Gausman covered Aug 3; today: full picture — Clay Holmes (2.39 ERA pre-injury, fractured fibula, on rehab), Ryan Zeferjahn (reliever, from Angels), Braxton Garrett (LHP, from Marlins), Tyrone Taylor (OF, from Mets); four deals in 24 hours; Hoyer quote used)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, trade analysis)
+- **Follow-Up Opportunities:**
+  - Clay Holmes rehab assignment progress and MLB return date
+  - Zeferjahn/Garrett in high-leverage situations
+  - Full deadline haul performance review mid-August
+
+### STORY 3: Wild Card Standings — Cubs Now 64-49
+- **Angle:** FOLLOW UP (last covered Aug 3 at 63-49; today: updated after last night's win — 64-49, D-backs and Phillies ~4 GB back, Brewers have Central, Cardinals irrelevant)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, standings analysis)
+- **Follow-Up Opportunities:**
+  - Wild card gap tracking after each Dodgers series game
+  - D-backs/Phillies surge scenarios
+
+### STORY 4: PCA MVP Surge — Odds Tighten to +100 vs Ohtani -130
+- **Angle:** FOLLOW UP (last covered Aug 3 at +185 odds; today: odds tightened to +100 vs Ohtani -130; PCA .349 BA over last 235 PA, 18 HR in that stretch; Ohtani knee + biceps issues; PCA playing vs Dodgers tonight — MVP showdown angle)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, bold take)
+- **Follow-Up Opportunities:**
+  - PCA vs Ohtani head-to-head performance in tonight's game
+  - Monthly NL Player of Month (August) candidate
+  - MVP odds movement through August
+  - 25 HR / 30 SB milestones
+
+### STORY 5: Roster Moves — Merryweather to IL (2nd Stint)
+- **Angle:** NEW STORY (Julian Merryweather to 15-day IL, right knee tendonitis, second stint 2026; Keegan Thompson recalled; Daniel Palencia recalled; Jack Neely optioned; Milner and Cabrera on Iowa rehab assignments)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, roster update)
+- **Follow-Up Opportunities:**
+  - Merryweather's return timeline
+  - Thompson/Palencia performance in high-leverage spots
+
+### STORY 6: Skubal Dodgers Debut — Tonight at Wrigley vs Assad
+- **Angle:** NEW STORY (Tarik Skubal two-time Cy Young, makes first Dodgers start tonight at Wrigley vs Cubs; Assad (6-1, 3.86 ERA) counters; Dodgers on 4-game skid; Cubs won game 1 big; 7:05 PM CT, TBS)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT, game time hype)
+- **Follow-Up Opportunities:**
+  - Skubal's debut performance (hit/miss vs Cubs)
+  - Assad's line tonight
+  - Game 2 result recap (Wednesday 7:00 AM)
+  - Series clincher preview (tomorrow, 1:20 PM CT, game 3)
+
+---
+
 ## 2026-08-03
 
 ### STORY 1: Dodgers Series Preview — Three Games at Wrigley Starting Tonight
