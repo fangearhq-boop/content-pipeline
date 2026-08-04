@@ -5,6 +5,65 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-04
+
+### Story 1: Trade Deadline Report Card — Dodgers Win, Orioles and Twins Lose
+- **Date:** 2026-08-04
+- **Tier:** 1
+- **Classification:** FOLLOW UP (deadline closed Aug 3; first post-deadline grades piece)
+- **Angle:** Dodgers earn A+ — Skubal (2.79 ERA, 31% K rate) joins Glasnow + potential Ohtani pitching return. Red Sox high marks for Rutschman. Cubs double-dipped (Gausman + Holmes). White Sox turned buyers (Castillo + Doyle). Orioles went full seller mode — called out publicly. Twins sat one game from playoff spot and barely moved. Dodgers = universal World Series favorite.
+- **Content Produced:** Article (article-01, Ryan Calloway), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Skubal first Dodgers start
+  - Twins/Orioles August watch
+  - October rotation depth tracking
+
+### Story 2: Alec Burleson Hits 3 HRs, Cardinals Outlast Yankees 13-7
+- **Date:** 2026-08-04
+- **Tier:** 1
+- **Classification:** NEW (Aug 3 game result; first coverage)
+- **Angle:** Burleson (27, Cardinals 1B) hit 3 two-run HRs off 3 pitchers: Schlittler (1st, 350 ft), Hill (4th, short porch, 6-0 lead), Chivilli (8th, 418 ft 2nd-deck, capped 7-run inning). García Jr. homered in his first Yankees at-bat (7th, 7-6 lead) but Cardinals won 13-7. First Cardinals 1B with 3 HRs since Goldschmidt, May 7, 2023.
+- **Content Produced:** Article (article-02, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Burleson season stats watch
+  - Cardinals second-half assessment
+  - García Jr. Yankees debut follow-up
+
+### Story 3: AL Cy Young Race — Cease vs. Schlittler Post-Deadline
+- **Date:** 2026-08-04
+- **Tier:** 1
+- **Classification:** FOLLOW UP (race tracked since July 15; new angle — Skubal to NL makes it two-man)
+- **Angle:** Skubal now in NL. AL Cy Young = Cease (Blue Jays, 7-5, 2.46 ERA, 148 K, 36.9% K rate) vs. Schlittler (Yankees, 14-9, 2.36 ERA, 249 K, 154 Cy Young pts, 23 first-place votes). Schlittler's Aug 3 rough start (Burleson HR in 1st) adds drama. Cease has 1-hit CG shutout (12 K vs Red Sox). Jays 48-58; Yankees 62-49. Team context favors Schlittler.
+- **Content Produced:** Article (article-03, Jake Torres), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Monthly Cy Young race updates
+  - Schlittler next start result
+  - September voting analysis
+
+### Story 4: Aaron Judge Return — Late Aug/Early Sept Window Confirmed
+- **Date:** 2026-08-04
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Judge injury tracked since June 5; re-imaging cautiously optimistic update)
+- **Angle:** Judge on 60-day IL since June 5 (stress fracture, first right rib). Re-imaging showed "some progress." Cashman "optimistic." Judge: "Yeah, definitely [returning]. I don't see why I wouldn't." Window: late Aug/early Sept. Yankees went 18-47 in 47 games without him. García Jr. homered in first Yankees at-bat (Aug 3). Judge + García Jr. = dangerous October lineup.
+- **Content Produced:** Article (article-04, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Judge activation date announcement
+  - First game back coverage
+  - Yankees playoff seeding tracking
+
+### Story 5: Kyle Schwarber at 33 HRs — 60 HR Club Conversation
+- **Date:** 2026-08-04
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Schwarber HR chase tracked since July 26; entering August angle)
+- **Angle:** Schwarber enters August with 33 HRs. Led NL with 56 in 2025. Had 20 HRs in team's first 49 games (one of 18 instances in MLB history). Did not homer Aug 3 (Phillies 6-3 vs Nationals; Harper + Hill HRed). ESPN ran dedicated 60 HR club piece. Historical: 5 crossings of 60 HR threshold by 4 players (McGwire 70, Sosa 66/63/64, Maris 61). Bonds record: 73 (2001).
+- **Content Produced:** Article (article-05, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Weekly HR chase updates through August/September
+  - Milestone coverage at 40, 50, 55, 60
+  - September stretch run framing
+
+---
+
 ## 2026-08-03
 
 ### Story 1: 2026 MLB Trade Deadline — Wrap-Up
