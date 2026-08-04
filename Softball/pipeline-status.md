@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-08-04
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via 2 research agents + direct searches, 5 stories verified HIGH/MEDIUM confidence), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations — all ≤280), FB posts (5 stories), image concepts (13 items), image manifest (14 items, not_started), articles (5), fact-check (64 claims), compile (5 stories, 0 tweets — format known, 0 FB — format known, 5 articles, 15 items), dashboard (15 items), PostPlanner exports (7 posts each — standard + TOBI). WordPress 403 (proxy blocks ilovesoftball.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks ilovesoftball.com — known). Dashboard publish push failed (proxy known restriction). IMAGE MISSING expected (not_started — manifest format mismatch known). FB posts: 0 compiled (format known). Tweets: 0 compiled (format known — PostPlanner export found 7 posts directly). 0 char violations.
+- **Key Stories**: USA WNT wins International Cup gold/Montana Fouts near-perfect vs Japan 2-0/no baserunner until 7th inning/WNT 6-2 over Elite in semis/Japan 6-5 Canada comeback in 7th/Devon Park OKC July 30-Aug 3 (Tier 1 FOLLOW UP complete — tournament done), LLSWS Day 2 results/NC (Johnston County first-ever appearance) 16-4 Canada (12 runs in 3rd)/Latin America (Guayama PR) 7 Asia-Pacific 2 (Nieves 12K 6IP; Mejia 3 RBI)/Southeast 15 Europe-Africa 0 (run rule 3 innings)/Day 3 loser-bracket begins today (Tier 1 FOLLOW UP), September 1 = 28 days/D1 first-contact for Class of 2028 (Tier 2 FOLLOW UP), Texas Tech+Florida dual-portal leaders for 2027/Beachum+Pickering to TTU/Edwards (LSU SLG record .802) to Florida (Tier 2 FOLLOW UP), Asian Games 53 days out/Philippines+South Korea joint training/Japan host+No.1 (Tier 3 FOLLOW UP)
+
+## Last Run
 - **Date**: 2026-08-03
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch + research agent, 5 stories verified HIGH confidence), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations — fixed to #### Text Post format), FB posts (5 stories), image concepts, image manifest (14 items, not_started), articles (5), fact-check, compile (5 stories, 7 tweets, 5 articles), dashboard (22 items), PostPlanner exports (7 posts each). WordPress 403 (proxy blocks ilovesoftball.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).

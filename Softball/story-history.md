@@ -3,6 +3,64 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-08-04
+
+### Story 1: USA WNT Wins International Cup Gold — Montana Fouts Near-Perfect
+- **Date:** 2026-08-04
+- **Tier:** 1
+- **Classification:** FOLLOW UP (medal games were Aug 3; WNT wins gold 2-0 over Japan; tournament complete)
+- **Angle:** Montana Fouts carried a no-hitter into the 7th inning; USA WNT beat No. 1 Japan 2-0 for gold. Semis: WNT 6-2 over Elite; Japan 6-5 over Canada (7th-inning comeback). Elite vs Canada played bronze game (result not confirmed in search). Tournament: Devon Park OKC, July 30 – Aug 3.
+- **Content Produced:** Article (article-01, Emily Rawlings), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - WBSC Group C qualifier (USA, OKC, Sept 12-16) — the actual World Cup qualifying event
+  - Post-tournament WNT roster analysis
+  - 2026 Asian Games (Sept 26 — softball continues internationally)
+
+### Story 2: LLSWS 2026 — Day 2 Results + Day 3 (Loser Bracket Begins)
+- **Date:** 2026-08-04
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Day 2 results Aug 3; loser-bracket begins today Aug 4)
+- **Angle:** NC (Johnston County — first-ever LLSWS appearance) 16, Canada 4 (12 runs in 3rd). Latin America (Guayama PR) 7, Asia-Pacific (Japan) 2 — Nieves 12 K in 6 IP; Mejia 2-for-3 3 RBI. SE (Lake Mary FL) 15, Europe-Africa (Italy) 0 — run rule in 3 innings. Today: 4 elimination games, including Canada vs. Italy at 7 PM ET.
+- **Content Produced:** Article (article-02, Jordan Reeves), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Daily LLSWS coverage Aug 5-9
+  - NC first-ever World Series run as story thread
+  - Latin America/Puerto Rico storyline (Nieves)
+
+### Story 3: September 1 Recruiting Window — 28 Days Out
+- **Date:** 2026-08-04
+- **Tier:** 2
+- **Classification:** FOLLOW UP (first dedicated September 1 piece; 28 days out)
+- **Angle:** September 1 = D1 coaches can call Class of 2028 directly for the first time. Summer showcases done. First calls signal priority. 28 days from today.
+- **Content Produced:** Article (article-03, Sarah Mitchell), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - September 1 live coverage / "phones are ringing" piece
+  - Early commit announcements from Class of 2028
+
+### Story 4: Texas Tech + Florida Lead the 2027 Portal Reshuffling
+- **Date:** 2026-08-04
+- **Tier:** 2
+- **Classification:** FOLLOW UP (TTU/Beachum tracked Aug 1-3; new angle — TTU + Florida Edwards dual-program framing)
+- **Angle:** TTU: Beachum (.406/10 HR/69 RBI; 2024 NFCA FOY; 2026 2nd Team AA) + Pickering from OU = No. 1 transfer class, 7 All-Americans. Florida: Tori Edwards from LSU (single-season SLG record .802; 18 HR freshman; 2026: .284/12 HR/43 RBI, ranked No. 2 available transfer). Both programs already elite; both meaningfully better for 2027.
+- **Content Produced:** Article (article-04, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Fall practice previews (both programs)
+  - 2027 preseason poll coverage
+  - September 1 class of 2028 impact on both programs
+
+### Story 5: 2026 Asian Games Softball — 53 Days Out
+- **Date:** 2026-08-04
+- **Tier:** 3
+- **Classification:** FOLLOW UP (Day 3 of coverage; today's angle — prep and training camp phase, Philippines/South Korea joint camp)
+- **Angle:** 53 days to Sept 26 in Aichi-Nagoya. Japan host + No. 1. Philippines + South Korea joint training camp in Seoul. 8-team field. 2027 World Cup cycle implications.
+- **Content Produced:** Article (article-05, Jordan Reeves), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Roster announcements for competing nations
+  - Mid-September pre-event preview
+  - Live results coverage (Sept 26 – Oct 3)
+
+---
+
 ## 2026-08-03
 
 ### Story 1: USA Softball International Cup — Medal Games TODAY
