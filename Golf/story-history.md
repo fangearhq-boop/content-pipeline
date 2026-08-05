@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-08-05
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-08-05 | T1 | Wyndham Championship Opens Thursday — Cameron Young Defending, FedExCup Bubble | X, FB, Article | NEW |
+| 2026-08-05 | T1 | LIV Golf New York at Bedminster — Rahm vs. DeChambeau in a $20M Showdown | X, FB, Article | NEW |
+| 2026-08-05 | T2 | Shiho Kuwaki Wins AIG Women's Open — Japan's Major Champion at Royal Lytham | X, FB, Article | NEW |
+| 2026-08-05 | T2 | Scottie Scheffler's Winless Drought — World No. 1, Zero Wins Since January | X, FB, Article | NEW |
+| 2026-08-05 | T2 | FedExCup Playoffs Begin in One Week — $25M Race Preview | X, FB, Article | NEW |
+
+### STORY 1: Wyndham Championship Opens Thursday — Cameron Young Defending
+- **Tier:** 1
+- **Category:** PGA Tour / Wyndham Championship / FedExCup
+- **Key facts:** Wyndham Championship Aug 6-9, Sedgefield CC, Greensboro NC; $8.5M purse; par 70, 7,127 yds, Donald Ross design; Cameron Young defending (won by 6 shots in 2025); runner-up at The Open (lost to Ryan Fox by 1); top 70 in FedExCup advance to St. Jude Championship; winning scores regularly reach 20-under
+- **Status:** NEW
+- **Follow-up ideas:** First-round leader recap; FedExCup bubble movers; Cameron Young title defense result
+
+### STORY 2: LIV Golf New York at Bedminster — Rahm vs. DeChambeau
+- **Tier:** 1
+- **Category:** LIV Golf / LIV Golf New York / Jon Rahm / Bryson DeChambeau
+- **Key facts:** LIV Golf New York Aug 6-9, Trump National Golf Club Bedminster NJ; $20M individual purse ($4M to winner); $10M team purse ($3M to team winner); Rahm 9/2 favorite; leads LIV individual standings by 219 pts over DeChambeau; DeChambeau 6/1; Hatton 13/2; Niemann 9/1; Herbert 14/1; course 7,651 yds (stretched 125+ yds since 2023); second-longest on 2026 LIV calendar
+- **Status:** NEW
+- **Follow-up ideas:** Rahm LIV title clinch if wins; team winner; DeChambeau distance on long course
+
+### STORY 3: Shiho Kuwaki Wins AIG Women's Open
+- **Tier:** 2
+- **Category:** LPGA / AIG Women's Open / Major
+- **Key facts:** Kuwaki wins AIG Women's Open Aug 2 at Royal Lytham & St Annes; defeated Esther Henseleit (Germany) in 2-hole playoff; both finished at -5 (279); Kuwaki shot final-round 70; $1.5M from record $10M purse; Henseleit received $994,669; Yealimi Noh (overnight leader) shot 74, finished third; Korda + Thitikul (world No. 1 and No. 2) tied fourth; 50th staging of the championship
+- **Status:** NEW
+- **Follow-up ideas:** Kuwaki's LPGA season going forward; Korda/Thitikul seeking major in 2026
+
+### STORY 4: Scottie Scheffler Winless Drought
+- **Tier:** 2
+- **Category:** PGA Tour / Scottie Scheffler / FedExCup
+- **Key facts:** Last win: American Express January 2026 (20th career, -27 by 4 shots); five runner-up finishes since (incl. 3M Open behind Michael Kim's 59); still No. 1 in FedExCup standings; committed to St. Jude Championship Aug 13-16; skipped The Open Championship; McIlroy beat Scheffler at 2026 Masters
+- **Status:** NEW
+- **Follow-up ideas:** Scheffler drought ends; FedExCup Playoffs performance; first win since January
+
+### STORY 5: FedExCup Playoffs Preview — One Week Away
+- **Tier:** 2
+- **Category:** PGA Tour / FedExCup Playoffs
+- **Key facts:** Playoffs begin Aug 13; St. Jude Championship (Memphis TPC Southwind, Aug 13-16, top 70); BMW Championship (Bellerive CC St. Louis, Aug 20-23, top 50); TOUR Championship (East Lake Atlanta, Aug 27-30, top 30); $25M to FedExCup champion; Wyndham is last qualifying event; Scheffler leads standings
+- **Status:** NEW
+- **Follow-up ideas:** FedExCup weekly progress; each playoff event recap
+
 ## 2026-08-04
 
 | Date | Tier | Story | Platforms | Status |

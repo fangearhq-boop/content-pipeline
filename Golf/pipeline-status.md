@@ -1,10 +1,21 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
-- **Date**: 2026-08-04
-- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+- **Date**: 2026-08-05
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish skipped — WP credentials not in environment; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-08-05
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish skipped — WP credentials not set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters (1 tweet fixed after verify-facts.py: Story 1 tweet 1 trimmed 281→270)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres)
+- **PostPlanner exports:** gfr-postplanner-2026-08-05.xlsx (7 posts) + gfr-postplanner-tobi-2026-08-05.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-08-05/review-dashboard.html (22 items)
+- **Notes:** WYNDHAM CHAMPIONSHIP — Aug 6-9 Sedgefield CC Greensboro NC; $8.5M; par 70 7,127 yds Donald Ross design; Cameron Young defending (won by 6 in 2025); runner-up at The Open (lost to Ryan Fox by 1); top 70 → St. Jude Memphis Aug 13-16; winning scores reach 20-under; LIV GOLF NEW YORK — Aug 6-9 Trump National Bedminster NJ; $20M individual ($4M winner); $10M team ($3M team winner); Rahm 9/2 fav leads standings by 219 pts over DeChambeau; DeChambeau 6/1; Hatton 13/2; Niemann 9/1; Herbert 14/1; course 7,651 yds (stretched 125+ yds since 2023); AIG WOMEN'S OPEN FINAL — Shiho Kuwaki wins Aug 2 at Royal Lytham; defeated Esther Henseleit in 2-hole playoff; both at -5 (279); Kuwaki final-round 70; $1.5M from record $10M purse; Henseleit $994,669; Noh led, shot 74, finished T3; Korda + Thitikul (world No. 1+2) T4; 50th staging; SCHEFFLER DROUGHT — last win American Express January 2026 (20th career, -27 by 4); 5 runner-up finishes since (incl. 3M Open behind Kim's 59); No. 1 FedExCup; committed St. Jude Aug 13-16; skipped The Open; McIlroy beat him at Masters; FEDEXCUP PLAYOFFS — begin Aug 13; St. Jude (TPC Southwind Memphis, top 70); BMW (Bellerive CC St. Louis, top 50); TOUR Championship (East Lake Atlanta, top 30); $25M to FedExCup champion; Wyndham is last qualifying event
+- **WordPress:** Skipped — WP_FANRUMOR_USERNAME and WP_FANRUMOR_APP_PASSWORD not set in environment
 
 ### 2026-08-04
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
