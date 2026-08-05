@@ -4930,3 +4930,44 @@
 - **Key facts:** Round 12, Aug 21-23, MASCOT Circuit Zandvoort; final F1 race ever at Zandvoort; first Sprint weekend format at this circuit; Sprint Qualifying Fri / Sprint Sat AM / Qualifying Sat PM / Race Sun Aug 23; 72 laps, 306.587 km; Verstappen faces home crowd with exit clause active; Antonelli 50 pts clear
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Sprint result; qualifying; race result and championship impact; Verstappen announcement timing
+
+| 2026-08-05 | T1 | George Russell's Season of Disasters — "I've Never Had a Year Like This" | X, FB, Article | NEW |
+| 2026-08-05 | T1 | Verstappen's Red Bull Future — Exit Clause Active, Summer Break Decision | X, FB, Article | FOLLOW UP |
+| 2026-08-05 | T2 | FIA Admits It Saw 2026 Power Unit Problems Coming — Couldn't Act | X, FB, Article | NEW |
+| 2026-08-05 | T2 | Antonelli Summer Break Lead — 219 Points, 50 Ahead, History in Reach | X, FB, Article | FOLLOW UP |
+| 2026-08-05 | T2 | New Teams Making Noise — Audi Jumps Williams, Cadillac Impresses | X, FB, Article | NEW |
+
+### STORY 1: George Russell's Season of Disasters — "I've Never Had a Year Like This"
+- **Tier:** 1
+- **Category:** F1 / George Russell / Mercedes
+- **Key facts:** Russell 59 pts behind team-mate Antonelli despite identical machinery; won Australia + China Sprint; disasters: technical failure China, safety car Japan, penalty Monaco, engine DNF while leading Canada, PU issues Belgium, anti-stall before Turn 1 Hungary; Sky Sports direct quote: "I've never had a season like this in my career"; Coulthard: "beyond a Rocky story" (Motorsport.com)
+- **Status:** NEW
+- **Follow-up ideas:** Russell second-half comeback; Dutch GP result
+
+### STORY 2: Verstappen's Red Bull Future — Exit Clause Active, Summer Break Decision
+- **Tier:** 1
+- **Category:** F1 / Max Verstappen / Red Bull Racing
+- **Key facts:** Exit clause active (not top 2 after 11 rounds); Red Bull contract through 2028 but clause allows departure from 2027; manager wants decision before/after summer break; Verstappen raised retirement possibility after Japanese GP (Sky Sports); Red Bull/Ford PU (not Honda)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Announcement before Dutch GP; Zandvoort race with decision pending
+
+### STORY 3: FIA Admits 2026 Power Unit Problems Were Coming
+- **Tier:** 2
+- **Category:** F1 / Technical Regulations / FIA
+- **Key facts:** 2026 regs: 50/50 ICE/electric split, 350kW MGU-K (vs. 120kW before), no DRS, sustainable fuel; Tombazis (FIA single-seater chief) admits couldn't intervene sooner — lacked manufacturer backing; called it "a shame"; Verstappen: "Formula E on steroids"; Piastri: grids decided by "computers behaving or misbehaving"
+- **Status:** NEW
+- **Follow-up ideas:** Second-half power unit developments; which manufacturer closes gap to Mercedes
+
+### STORY 4: Antonelli Summer Break Championship Lead — 219 Points
+- **Tier:** 2
+- **Category:** F1 / Championship / Kimi Antonelli / Mercedes
+- **Key facts:** 219 pts after 11 rounds; 50 ahead of Hamilton; 6 wins, 6 poles, 9 podiums; Mercedes 379 Constructors pts; 291 pts remain in 11 rounds; youngest champion since Vettel 2010 if wins; Dutch GP Aug 21-23 first race back
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Dutch GP result; Hamilton closes gap or not; championship math after each round
+
+### STORY 5: New Teams Making Noise — Audi/Cadillac
+- **Tier:** 2
+- **Category:** F1 / New Teams / Audi / Cadillac
+- **Key facts:** Audi: 12 pts, jumped Williams to P8 Constructors; Hulkenberg+Bortoleto; Barcelona PU upgrade triggered 10 of 12 pts; McNish: "positively surprised"; no PU update until 2027; Cadillac: Perez+Bottas; Perez drawing rival interest; Perez: "massive hurry to find performance"
+- **Status:** NEW
+- **Follow-up ideas:** Audi second-half development; Perez team interest materializing; Cadillac points haul

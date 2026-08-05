@@ -1,0 +1,254 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-05",
+  "compiled_at": "2026-08-05T11:35:08.589587+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "George Russell's Season of Disasters — \"I've Never Had a Year Like This\"",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Russell won Australia. He drives for championship-leading Mercedes.\n\nHe's 59 points behind his own team-mate.\n\nAnti-stall failure. Engine DNF. Mechanical after mechanical.\n\n\"I've never had a season like this.\"\n\nCoulthard: \"Beyond a Rocky story.\" 😤\n\n#F1 #GeorgeRussell",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#GeorgeRussell"
+          ],
+          "char_count": 267
+        },
+        {
+          "label": "Post 1-2",
+          "text": "George Russell's 2026 disasters:\n\n❌ China — technical failure\n❌ Japan — safety car timing\n❌ Monaco — penalty\n❌ Canada — engine DNF while leading\n❌ Belgium — power unit issue\n❌ Hungary — anti-stall at Turn 1\n\nSame car as the championship leader. 59 points behind. 😤\n\n#F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 269
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-russell-season-disasters-never-had-year-like-this.html",
+        "headline": "George Russell Says He's 'Never Had a Season Like This' — 59 Points Behind His Own Team-Mate With the Fastest Car",
+        "word_count": 779
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "George Russell's Season of Disasters\n\n#### Image Concept 1A — Social (1080x1350)\n- **Type:** imagn photo\n- **Search terms:** George Russell Mercedes\n- **Usage:** X post + Facebook image caption post\n- **Visual goal:** Russell in Mercedes livery, ideally showing frustration or determination\n- **Status:** not_started\n\n#### Image Concept 1B — Article Hero (1200x630)\n- **Type:** imagn photo\n- **Search terms:** George Russell Mercedes\n- **Usage:** Article hero image\n- **Visual goal:** Clean action shot in 2026 Mercedes\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Verstappen's Red Bull Future — The Summer Break Decision That Reshapes F1",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Verstappen's Red Bull exit clause is now active.\n\nNot in the top 2 — clause triggered.\n\nHis manager wants a decision before summer ends.\n\nAfter Japan, he raised retiring entirely.\n\nThe biggest F1 story of the summer just got bigger. 🔴\n\n#F1 #Verstappen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Verstappen"
+          ],
+          "char_count": 251
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Max Verstappen in 2026:\n\n• Red Bull contract: through 2028\n• Exit clause: ACTIVE (not in top 2)\n• Power unit: Red Bull/Ford (not Honda)\n• Mentions retirement: after Japan GP\n• Decision deadline: post-summer break\n\nWhere does he go?\n\n#F1 #RedBull #Verstappen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#RedBull",
+            "#Verstappen"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-verstappen-red-bull-future-summer-break.html",
+        "headline": "Verstappen's Exit Clause Is Active — The Summer Break Decision That Could Reshape F1's 2027 Grid",
+        "word_count": 792
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen's Red Bull Future\n\n#### Image Concept 2A — Social (1080x1350)\n- **Type:** imagn photo\n- **Search terms:** Max Verstappen Red Bull\n- **Usage:** X post + Facebook image caption post\n- **Visual goal:** Verstappen in Red Bull gear, looking intense\n- **Status:** not_started\n\n#### Image Concept 2B — Article Hero (1200x630)\n- **Type:** imagn photo\n- **Search terms:** Max Verstappen Red Bull\n- **Usage:** Article hero image\n- **Visual goal:** Verstappen in cockpit or pit lane\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "FIA Admits It Saw the 2026 Power Unit Problems Coming — And Why It Couldn't Act",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The FIA knew 2026 power units would cause chaos.\n\nThey just didn't have manufacturer backing to change anything.\n\nFIA's Tombazis: \"a shame.\"\n\n350kW MGU-K. No DRS. 50/50 ICE-electric split.\n\nVerstappen called it \"Formula E on steroids.\"\n\nHe wasn't wrong. ⚡\n\n#F1 #Formula1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Formula1"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-f1-2026-power-unit-crisis-fia-admission.html",
+        "headline": "The FIA Knew 2026's Power Unit Problems Were Coming — Why It Couldn't Stop Them",
+        "word_count": 805
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "2026 Power Unit Crisis\n\n#### Image Concept 3A — Social (1080x1350)\n- **Type:** imagn photo\n- **Search terms:** Formula 1 car 2026\n- **Usage:** X post + Facebook image caption post\n- **Visual goal:** Generic F1 car shot showing technical complexity\n- **Status:** not_started\n\n#### Image Concept 3B — Article Hero (1200x630)\n- **Type:** imagn photo\n- **Search terms:** Formula 1 car 2026\n- **Usage:** Article hero image\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Antonelli's Summer Break Lead — 219 Points, 11 Races Left, Heading for History",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Kimi Antonelli at the F1 summer break:\n\n• 219 points\n• 50 ahead of Hamilton\n• 6 wins, 6 poles, 9 podiums\n• 20 years old\n• 11 races left\n\nIf he wins the 2026 title: youngest champion since Vettel in 2010.\n\nThis championship is his to lose. 🏆\n\n#F1 #Antonelli",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Antonelli"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-antonelli-summer-break-championship-lead.html",
+        "headline": "Antonelli at Summer Break: 219 Points, 50-Point Lead, and a Historic Title Within Reach",
+        "word_count": 660
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli Championship Lead\n\n#### Image Concept 4A — Social (1080x1350)\n- **Type:** imagn photo\n- **Search terms:** Kimi Antonelli Mercedes\n- **Usage:** X post + Facebook image caption post\n- **Visual goal:** Antonelli celebrating or in Mercedes livery\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "New Teams Making Noise — Audi Jumps Williams, Cadillac's Perez Turns Heads",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The F1 class of 2026 is overachieving:\n\n🔵 Audi — 12 pts, jumped Williams, P8 Constructors\n🏁 Cadillac — Perez drawing rival team interest\n\nHulkenberg. Bortoleto. Perez. Bottas.\n\nFour drivers nobody expected to be in the news in August.\n\nThe grid is better for it. 🌟\n\n#F1 #Formula1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Formula1"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-audi-cadillac-new-teams-2026-f1.html",
+        "headline": "The F1 Class of 2026 Is Overachieving — Audi Jumps Williams, Cadillac's Perez Turns Heads",
+        "word_count": 758
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "New Teams — Audi and Cadillac\n\n#### Image Concept 5A — Social (1080x1350)\n- **Type:** imagn photo\n- **Search terms:** Nico Hulkenberg Audi\n- **Usage:** X post + Facebook image caption post\n- **Visual goal:** Hulkenberg or Bortoleto in Audi car\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
