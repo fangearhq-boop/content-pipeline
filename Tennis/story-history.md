@@ -1339,3 +1339,51 @@ Track previously covered stories to avoid repetition and maintain content freshn
 - **Byline:** Marcus Cole
 - **Key Facts:** Alcaraz returns Cincinnati Aug 13-23; right wrist injury; missed FO and Wimbledon; Sinner won all 5 Masters 1000; Sinner defended Wimbledon; US Open Aug 24; Sources: Outlook India, Forbes, Tennis Now
 - **Follow-Up Opportunities:** Alcaraz Cincinnati performance; Sinner vs. Alcaraz rematch; US Open draw
+
+
+## 2026-08-05
+
+### Story 1: Draper Breaks Down in Tears as Atmane Ends Montreal Comeback
+- **Date:** 2026-08-05
+- **Angle:** FOLLOW-UP (Aug 4, 2026 — S3: ATP Montreal Day 1 — Draper wildcard entry) — Jack Draper (GBR, former No. 4) lost to Terence Atmane (FRA) 6-3, 2-6, 6-2 in Montreal R1. Draper was in tears during the third set. First Masters 1000 match since Eastbourne in June. Recurring bone bruise in left arm. US Open (Aug 24) participation uncertain.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Elena Voss
+- **Key Facts:** Atmane def. Draper 6-3, 2-6, 6-2; 1h 51m; wildcard; bone bruise left arm; tears in 3rd set; Sources: Sky Sports, Tennis Majors, Yardbarker, Sofascore
+- **Follow-Up Opportunities:** Draper US Open decision; Draper 2026 season review; Atmane R2 performance
+
+### Story 2: Navone Saves 11/12 Break Points, Defeats Berrettini in Montreal
+- **Date:** 2026-08-05
+- **Angle:** NEW STORY — Mariano Navone (ARG, ~No. 44) def. Matteo Berrettini (ITA, ~No. 40) 6-3, 6-7(5), 6-3 in Montreal R1. Saved 11 of 12 break points. 156 minutes. Career-best 19th win of 2026. Match split across two days due to rain.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Marcus Cole
+- **Key Facts:** Navone def. Berrettini 6-3, 6-7(5), 6-3; 11/12 BPs saved; 19th win (career-best); rain delay; Sources: ATP Tour, Perfect Tennis, TennisTemple
+- **Follow-Up Opportunities:** Navone Montreal R2 result; Berrettini 2026 season struggles; Navone hard-court evolution
+
+### Story 3: Sabalenka Opens Toronto With Dominant 6-3, 6-3 Win
+- **Date:** 2026-08-05
+- **Angle:** FOLLOW-UP (Aug 4, 2026 — S4: WTA Toronto Day 1) — Sabalenka (No. 1) def. Uchijima (qualifier, JPN) 6-3, 6-3 in Toronto opener. 24th win in last 25 hard-court matches in 2026. Next: Zhang Shuai (who adv. when Ostapenko ret. 6-0, 4-0).
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Ryan Calloway
+- **Key Facts:** Sabalenka def. Uchijima 6-3, 6-3; 24/25 hard courts 2026; Ostapenko ret. vs. Zhang; Sources: Philstar.com (Aug 5 dateline), WTA Official
+- **Follow-Up Opportunities:** Sabalenka vs. Zhang Shuai R2; Sabalenka Toronto run; US Open draw
+
+### Story 4: Swiatek Crushes Bejlek 6-0, 6-3 in Toronto R1
+- **Date:** 2026-08-05
+- **Angle:** NEW STORY — Iga Swiatek (POL) def. Sara Bejlek (CZE) 6-0, 6-3 in WTA Toronto R1. Bagel in the first set. US Open (Aug 24) build-up officially underway.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Elena Voss
+- **Key Facts:** Swiatek def. Bejlek 6-0, 6-3; former world No. 1; Toronto R1; US Open Aug 24; Sources: WTA search results Aug 5
+- **Follow-Up Opportunities:** Swiatek Toronto R2; Swiatek Cincinnati performance; Swiatek vs. Sabalenka at US Open
+
+### Story 5: Cincinnati Preview — Sinner Chases History, Alcaraz Returns, Zverev Eyes No. 1
+- **Date:** 2026-08-05
+- **Angle:** FOLLOW-UP (Aug 4, 2026 — S5: Alcaraz Cincinnati return preview) — Cincinnati Open Aug 13-23. Sinner (world No. 1) chases unprecedented 6th consecutive Masters 1000 title. Alcaraz (defending champion) returns from 5-month right wrist injury. Zverev (world No. 2, Roland Garros champion 2026) chases No. 1 ranking. US Open Aug 24.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 3
+- **Byline:** Marcus Cole
+- **Key Facts:** Cincinnati Aug 13-23; Sinner 5 Masters 1000 + Wimbledon 2026; Alcaraz defending champion; Zverev world No. 2 + RG champion; Sabalenka tops WTA field; Sources: Cincinnati Open official, Livescore preview, WTA Cincinnati entry list
+- **Follow-Up Opportunities:** Cincinnati draw release; Alcaraz first match back; Sinner vs. Zverev semifinal potential
