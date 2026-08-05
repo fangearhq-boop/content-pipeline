@@ -1,0 +1,255 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-05",
+  "compiled_at": "2026-08-05T09:27:05.446018+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM CT",
+      "description": "Story 1 — Game 2 Recap (Swanson HR, Assad, Skubal debut spoiled)",
+      "type": "Informative"
+    },
+    {
+      "time": "8:15 AM CT",
+      "description": "Story 2 — Series Sweep in Reach (Cubs 2-0, Dodgers 5-game skid)",
+      "type": "Bold/Passionate"
+    },
+    {
+      "time": "9:30 AM CT",
+      "description": "Story 3 — Imanaga Hot Streak (1.77 ERA last 6 starts)",
+      "type": "Analytical/Informative"
+    },
+    {
+      "time": "10:45 AM CT",
+      "description": "Story 4 — PCA MVP (7.3 fWAR, leading all position players)",
+      "type": "Bold/Passionate"
+    },
+    {
+      "time": "12:00 PM CT",
+      "description": "Story 5 — Pre-Game Hype (Imanaga vs Lauer, 1:20 PM CT)",
+      "type": "Hype"
+    },
+    {
+      "time": "2:30 PM CT",
+      "description": "Story 6 — Palencia to IL (elbow inflammation, day after recall)",
+      "type": "Informative"
+    },
+    {
+      "time": "3:45 PM CT",
+      "description": "Story 7 — Cardinals Free-Fall (54-57, 15th in NL WC)",
+      "type": "Humor/Rival"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Game 2 Recap — Cubs Spoil Skubal's Dodgers Debut",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Javier Assad was excellent against a tough Dodger lineup. Dansby Swanson hit a solo homer off Skubal's first pitch of the 3rd inning to break it open. PCA and Hoerner drove in runs with singles. Skubal pitched 6 innings of 2-run ball (6 K, 2 BB) but took the loss. Dodgers have now lost 5 in a row. NO score in tweet per has_score=False insight.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Dansby Swanson took Skubal's first pitch of the third and drove it to left-center. Wrigley erupted.\n\nAssad was excellent. Hoerner and PCA drove in runs. The Cubs spoiled Tarik Skubal's Dodgers debut in convincing fashion.\n\nTwo down. One more to go.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Game recap / informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Series Sweep in Reach — Dodgers Can't Get Right",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Cubs lead this series 2-0 with a chance to sweep the best team in the NL (Dodgers 69-45). Dodgers on a 5-game skid and can't string wins together. Cubs No. 1 in the NL Wild Card at 65-49. Bold take framing.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "The Dodgers are 0-2 in this series and have now lost five in a row. The Cubs are the No. 1 NL Wild Card team.\n\nToday at 1:20 PM CT, Imanaga takes the ball for a chance to sweep Ohtani's squad at Wrigley.\n\nThey're doing it.\n\n#Cubs #FlyTheW #GoCubs",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold take / fan energy",
+          "hashtags": [
+            "#Cubs",
+            "#FlyTheW",
+            "#GoCubs"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Imanaga's Hot Streak — The Best Cubs Pitcher Right Now",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Stat breakdown of Imanaga's last 6 starts: 1.77 ERA, 31 K, 6 BB over 35.2 innings. He's the Cubs' most consistent arm heading into today's Game 3. Informative setup for today's matchup.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Shota Imanaga's last six starts: 1.77 ERA, 31 strikeouts, 6 walks across 35.2 innings.\n\nThe Cubs' most consistent arm right now is squaring off against a Dodgers lineup that just can't get a run across.\n\nThat's a good matchup to be in.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Stat breakdown / informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "PCA MVP Watch — 7.3 fWAR, Leading All Position Players in MLB",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "PCA leads all position players in fWAR. His teammates are campaigning for him. Bold take: he's the best player in the NL and it's not close.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Pete Crow-Armstrong leads every MLB position player in fWAR at 7.3 this season.\n\nEven Nico Hoerner was publicly making the case after Tuesday's win.\n\nThe best player in the NL plays on the North Side. That's not a debate anymore.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Bold take / passionate",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Pre-Game Hype — Sweep Attempt, 1:20 PM CT",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Imanaga faces a slumping Dodgers team that can't win a game. Cubs at Wrigley, looking for the sweep. Most winnable matchup of the series. Maximum hype for the day game.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Imanaga. Wrigley. 1:20 PM CT.\n\nThe Cubs are one win away from sweeping the best record in baseball. The Dodgers haven't won in five games.\n\nToday's a great day to make it six.\n\n#Cubs #FlyTheW #GoCubs",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Pre-game hype",
+          "hashtags": [
+            "#Cubs",
+            "#FlyTheW",
+            "#GoCubs"
+          ],
+          "char_count": 199
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Roster News — Palencia to IL (Right Elbow Inflammation)",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Daniel Palencia goes to the 15-day IL with right elbow inflammation — one day after being recalled from Triple-A. Rotation/bullpen depth continues to be tested in August. Deadline haul (Gausman, Holmes, Zeferjahn, Garrett) built for exactly this.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Daniel Palencia goes to the 15-day IL with right elbow inflammation — one day after being recalled from Triple-A.\n\nOne step forward, one step back. The deadline haul (Gausman, Holmes, Zeferjahn, Garrett) was built specifically for moments like this one.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Roster/injury update / informative",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "Cardinals Free-Fall — Rival Watch",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Cardinals have completely fallen out of the wild card picture. Lost 7 of 10, sitting at 54-57. The No. 1 NL Wild Card spot is occupied and it's not St. Louis. Sharp jab angle.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "The Cardinals are 54-57. They've lost seven of their last 10. They're sitting 15th in the NL Wild Card standings.\n\nThe No. 1 spot is occupied, and it's not by anyone from St. Louis.\n\nThat mid-season Cardinals surge feels like a very long time ago.\n\n#Cubs #GoCubs #NorthSiders",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Rival watch / humor",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#NorthSiders"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

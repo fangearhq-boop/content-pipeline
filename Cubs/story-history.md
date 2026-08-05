@@ -5185,3 +5185,63 @@ Each day's stories are appended at the top (newest first).
   - Brewers record vs Cubs after August 3
 
 ---
+
+---
+
+## 2026-08-05
+
+### STORY 1: Game 2 Recap — Cubs Spoil Skubal's Dodgers Debut
+- **Angle:** NEW STORY (Cubs 5, Dodgers 1; Dansby Swanson solo HR off Skubal's first pitch of the 3rd inning (17th HR); Assad held Dodgers to 1 run (Tucker solo HR); PCA and Hoerner drove in runs; Skubal 6 IP, 2 ER, 6 K, 2 BB — Dodgers debut spoiled; Dodgers now on 5-game losing streak; NO score in tweet per has_score=False insight)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - Today's game 3 result (recap tomorrow morning)
+  - Swanson's HR total approaching 20
+
+### STORY 2: Series Sweep in Reach — Dodgers 0-2 in Series, 5-Game Skid
+- **Angle:** NEW STORY (Cubs lead series 2-0, going for sweep of best record in baseball; Dodgers 69-45 but on 5-game losing streak; Cubs 65-49, No. 1 NL Wild Card; Imanaga vs Lauer at 1:20 PM CT)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold take / fan energy)
+- **Follow-Up Opportunities:**
+  - Series sweep result
+  - Dodgers losing streak extension
+
+### STORY 3: Imanaga Hot Streak — 1.77 ERA in Last 6 Starts
+- **Angle:** NEW STORY (Shota Imanaga last 6 starts: 1.77 ERA, 31 K, 6 BB over 35.2 IP; season: 7-9, 3.67 ERA, 1.07 WHIP; going against Eric Lauer (6-5, 4.50 ERA) in series finale)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, stat breakdown)
+- **Follow-Up Opportunities:**
+  - Imanaga's actual Game 3 performance
+  - Continued hot stretch through August
+
+### STORY 4: PCA MVP Watch — 7.3 fWAR, Leading All Position Players
+- **Angle:** FOLLOW UP (PCA MVP arc; Aug 4 covered +100 odds; today's angle = 7.3 fWAR leads all MLB position players; Hoerner publicly made the case post-Aug 4 game; bold take: best player in the NL)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, bold take / passionate)
+- **Follow-Up Opportunities:**
+  - PCA milestone HR or SB
+  - Official MVP ballot coverage in September
+
+### STORY 5: Pre-Game Hype — Sweep Attempt, 1:20 PM CT
+- **Angle:** NEW STORY (day game hype; Imanaga on the mound; Dodgers on 5-game skid; Cubs at Wrigley for the series finale; sweep in reach; 1:20 PM CT)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, pre-game hype)
+- **Follow-Up Opportunities:**
+  - Game 3 result (recap tomorrow morning)
+  - Series sweep celebration angle
+
+### STORY 6: Palencia to IL — Right Elbow Inflammation
+- **Angle:** NEW STORY (Daniel Palencia to 15-day IL with right elbow inflammation, one day after being recalled; pitching depth tested; deadline haul (Gausman, Holmes, Zeferjahn, Garrett) provides cover)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, roster/injury update)
+- **Follow-Up Opportunities:**
+  - Palencia return timeline (mid-August)
+  - Cubs pitching depth through August
+
+### STORY 7: Cardinals Free-Fall — 54-57, 15th in NL Wild Card
+- **Angle:** FOLLOW UP (Cardinals collapse arc; July 30 had them at 54-54; now 54-57, lost 7 of 10, 15th in NL WC standings — functionally eliminated from playoff race)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, rival watch / humor)
+- **Follow-Up Opportunities:**
+  - Cardinals mathematical elimination from wild card
+
