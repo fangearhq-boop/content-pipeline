@@ -5144,3 +5144,44 @@
 - **Key facts:** Organizing 8-10 Spurs players for France team trip; training personally in Paris with coach Guillaume Alquier; signed 5yr/$252M extension (left ~$50M on table at 25% max); 3 seasons: DPOY, 2x All-Star, 2x All-Defensive First Team, Rookie of Year; France FIBA qualifiers Aug 27+30 (Group L 5-1); prep vs. Serbia Aug 20+23
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Training camp chemistry; Spurs season preview; Castle/Harper development
+
+| 2026-08-05 | T1 | Stephen Curry Extension Window Opens — Warriors Expected to Offer 2-Year, $136.7M Max Deal | X, FB, Article | NEW |
+| 2026-08-05 | T1 | Kawhi Leonard Investigation — Raptors Developing Cold Feet, Still Weeks Away | X, FB, Article | FOLLOW UP |
+| 2026-08-05 | T2 | Ja Morant Lands in Portland — Trail Blazers Build Lillard-Morant Backcourt | X, FB, Article | NEW |
+| 2026-08-05 | T2 | Wembanyama Paris Camp — Confirmed Teammate Roster (Fox, Castle, Harper et al.) | X, FB, Article | FOLLOW UP |
+| 2026-08-05 | T2 | LeBron and Embiid — Joel Declares Himself Healthy, Partnership Begins | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Stephen Curry Extension Window Opens — Warriors Expected to Offer 2-Year, $136.7M Max Deal
+- **Tier:** 1
+- **Category:** NBA Contracts / Golden State Warriors / Stephen Curry
+- **Key facts:** Extension window opens Aug 6; Warriors expected to offer 2yr/$136.7M (~$68M/year); carries Curry through age-40 season; ESPN's Slater reports mutual interest; Curry will not request a trade; Draymond Green re-signed 1yr/$27.7M; Gary Payton II back 1yr/$3.9M; formal signing expected ~Aug 29; shot 42% from 3 last season at age 38
+- **Status:** NEW
+- **Follow-up ideas:** Official signing announcement; training camp; Warriors 2026-27 preview
+
+### STORY 2: Kawhi Leonard Investigation — Raptors Developing Cold Feet, Still Weeks Away
+- **Tier:** 1
+- **Category:** NBA Investigation / Kawhi Leonard / Los Angeles Clippers / Toronto Raptors
+- **Key facts:** Raptors developing cold feet per Shams Charania; still weeks from resolution; if no settlement → neutral arbitrator with no hard deadline (could push to 2027); Silver "hopeful" for summer resolution; Clippers funneled ~$28M through Aspiration (Ballmer $50M invested); Sanberg 14 years prison; Kawhi $50.3M 2026-27 salary
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Settlement announcement; arbitration filing; training camp status
+
+### STORY 3: Ja Morant Lands in Portland — Trail Blazers Build Lillard-Morant Backcourt
+- **Tier:** 2
+- **Category:** NBA Trades / Portland Trail Blazers / Memphis Grizzlies
+- **Key facts:** Memphis traded Morant to Portland for Jerami Grant, Kris Murray, cash (no picks); Lillard already back in Portland on 3yr deal; projected backcourt; Morant 26yo, owed 5yr/$197M through 2027-28; only 79 games over 3 seasons due to injury/off-court issues; Portland made playoffs last season (first since 2021)
+- **Status:** NEW
+- **Follow-up ideas:** Portland preseason; Morant health; Western Conference outlook
+
+### STORY 4: Wembanyama Paris Camp — Confirmed Teammate Roster (Fox, Castle, Harper et al.)
+- **Tier:** 2
+- **Category:** NBA Offseason / San Antonio Spurs / Victor Wembanyama
+- **Key facts:** ESPN confirmed teammates: De'Aaron Fox, Stephon Castle, Dylan Harper, Tobias Harris, Harrison Barnes, Carter Bryant, Jordan McLaughlin (~8 total); Wemby training with Guillaume Alquier; France schedule: vs. Serbia Aug 20+23, World Cup qualifying vs. Slovenia Aug 27, Sweden Aug 30
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Training camp; Spurs season preview; France national team results
+
+### STORY 5: LeBron and Embiid — Joel Declares Himself Healthy, Partnership Begins
+- **Tier:** 2
+- **Category:** NBA Offseason / Philadelphia 76ers / LeBron James / Joel Embiid
+- **Key facts:** Embiid publicly assured LeBron and fans he is healthy and ready for Day 1 (late July); projected starting five: LeBron/Embiid/Brown/Maxey/Edgecombe (5 combined MVP awards); LeBron signed 2yr/$7.94M July 26; Brown from Celtics July 6 for Paul George+picks; training camp late September; Philly Inquirer: Embiid health is single biggest swing variable
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Training camp open; first practice; LeBron Philly debut date (from schedule Aug 13-14)
