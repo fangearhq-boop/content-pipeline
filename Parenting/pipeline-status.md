@@ -1,5 +1,44 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: August 5, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | D11 bond vote tonight at 5:30 PM ($775M, board decides ballot referral); Blodgett Open Space 7 new trail miles open (July 2026, free, 50-stall parking at Quarry Trailhead); Pioneer Rodeo Aug 14-16 at Norris Penrose (kids under 5 free, 15% to COS nonprofit); AAP 2026 screen time update (Jan 2026, no hour limits for ages 6+, 5 Cs framework); 3 CPSC infant product recalls — Vevor baby swings (suffocation/inclined sleeper ban), Cpzzkq loungers (Amazon, expanded, suffocation), Vevor loungers (entrapment/fall) |
+| Story History Check | COMPLETE | 5 stories: S1 follow-up (Aug 4 S3 — vote happening tonight, different angle), S2 new (Blodgett expansion not covered this cycle), S3 new (Pioneer Rodeo 2026 not covered this cycle), S4 new (2026 AAP update, different angle from Aug 3 S5 5 Cs overview), S5 new (distinct recalls from Aug 4 TOMY + Aug 3/1 prior recalls) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (1 Tier 1, 4 Tier 2); bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH confidence all 5 stories; sources: d11.org, KOAA, KRDO, Norris Penrose, FSU News, Jellies App, CPSC.gov (all 3 recall pages), Motherly |
+| Story Analysis | COMPLETE | 02-story-analysis.md — 5 story sections (### STORY N: headers) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 5 posts (1 per story); char-limit corrections applied (S1: 284→279, S2: 287→274, S4: 289→264, S5: 319→277); all ≤280 chars; 4 hashtags each; no exclamation marks |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form posts + 5 Image Captions; engagement questions; NO hashtags; COS voice; 0 exclamation marks |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts; 1200×675 (X) and 1200×630 (FB); clean bottom third; no celebrity likenesses; no brand logos; ### STORY N: headers |
+| Articles | COMPLETE | 5 articles (500–1000 words; semantic HTML5; What's Next sections; 0 exclamation marks; no figure tags; quick reference tables); bylines: Sarah Morales (A1, A3, A5), Jamie Rivera (A2, A4) |
+| Fact-Check | COMPLETE | verify-facts.py passed; 69 claims extracted; all stories present in all content files; 5 image not_started warnings cosmetic (expected for gemini source) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 5 stories × 2 image types (X+FB) = 10 entries; all not_started; gemini base_only; kAHCKfCZgk0 brand kit |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 5 X posts, 5 FB posts, 5 articles, 25 dashboard items; posting window warnings cosmetic |
+| Dashboard | COMPLETE | review-dashboard.html — 25 items |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-08-05.xlsx (5 posts 13:22–19:22 MT, 90 min apart) + cosp-postplanner-tobi-2026-08-05.xlsx (5 TOBI posts) |
+| Dashboard Push | Attempted — proxy blocks write to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — WP credentials not in env (proxy also blocks WP API) | Same environment restriction as all prior runs |
+
+### 2026-08-05 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (1 Tier 1, 4 Tier 2)
+- **Posts:** 5 X posts (PostPlanner xlsx: 5 posts 13:22–19:22 MT, 90 min apart; 5 TOBI)
+- **Articles:** 5 (bylines: Sarah Morales [A1, A3, A5], Jamie Rivera [A2, A4])
+- **PostPlanner exports:** cosp-postplanner-2026-08-05.xlsx (5 posts), cosp-postplanner-tobi-2026-08-05.xlsx (5 TOBI posts)
+- **Coverage:** D11 bond vote tonight 5:30 PM (S1, Tier 1 — $775M, avg building 58 yrs, $422M backlog, $17M annual capital, ~$6.50/mo per $100K, D11 first day Aug. 12); Blodgett Open Space new trails (S2 — 7 miles Phase 1 July 2026, 14+ miles by year-end, multi-use/hiking/MTB, 50-stall Quarry Trailhead lot, free); Pioneer Rodeo Aug 14-16 (S3 — Norris Penrose, kids under 5 free, 15% of tickets to COS nonprofit of choice from 72+ orgs, Fri/Sat rodeo, Sun demolition derby); AAP 2026 screen time update (S4 — Jan 2026, no rigid hour limits for ages 6+, 5 Cs framework, ages 2-5 unchanged at 1 hr); CPSC baby product recalls (S5 — Vevor baby swings suffocation/inclined sleeper ban, Cpzzkq loungers expanded recall suffocation, Vevor loungers entrapment/fall, all infants under 12 months)
+- **Notes:**
+  - verify-facts.py: 4 char-limit violations corrected in X posts (S1: 284→279, S2: 287→274, S4: 289→264, S5: 319→277); story-analysis and image-concepts header format fixed (## Story N: → ### STORY N:); 5 image not_started warnings cosmetic
+  - compile: 5 X posts, 5 FB posts, 5 articles, 25 dashboard items; posting window warnings cosmetic; FB posts picked up correctly (5)
+  - WordPress: WP credentials not in environment + proxy blocks WP API (403); same restriction as all prior runs
+  - Dashboard push failed: proxy blocks write to content-dashboards repo
+  - Byline rotation: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4]
+  - No Thursday Weekend Roundup required (today is Wednesday Aug. 5)
+  - Research: all facts from web search; CPSC recall details HIGH confidence (cpsc.gov official pages for all 3 recalls)
+
+---
+
 ## Latest Run: August 3, 2026
 
 | Step | Status | Notes |

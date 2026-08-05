@@ -2,6 +2,50 @@
 
 ---
 
+## August 5, 2026
+
+### Story 1: D11 Bond Vote Is Tonight — What COS Parents Need to Know Before 5:30 PM
+- **Date:** 2026-08-05
+- **Content Pillar:** Local News
+- **Angle:** FOLLOW-UP from Aug 4 S3 (D11 bond vote tomorrow preview) — Vote happening tonight at 5:30 PM. Board decides whether to place $775M bond on November general election ballot. D11's most consequential vote in 20+ years. D11 first day Aug. 12.
+- **Content Produced:** Article (Sarah Morales), 1 X post, Facebook Long-Form, Facebook Image Caption, Image Concept (x_image + facebook_image)
+- **Tier:** 1
+- **Key Facts:** D11 Board vote: Aug. 5 at 5:30 PM; $775M bond (if board approves, goes to November ballot); avg D11 building age 58 yrs; deferred maintenance backlog $422M+; annual capital budget ~$17M; estimated homeowner cost ~$6.50/month per $100K assessed value; D11 first day Aug. 12; Sources: d11.org, Springs Daily, Colorado Springs Gazette (confirmed from prior pipeline research)
+
+### Story 2: 7 New Miles of Free Family Trails Just Opened at Blodgett Open Space
+- **Date:** 2026-08-05
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (Blodgett trail expansion not previously covered in this pipeline cycle) — 7 miles of new managed trails opened July 2026 at Blodgett Open Space; 14+ miles total by end of year. New 50-stall parking lot at Quarry Trailhead. Multi-use, hiking, mountain-bike routes. Free and family-accessible.
+- **Content Produced:** Article (Jamie Rivera), 1 X post, Facebook Long-Form, Facebook Image Caption, Image Concept (x_image + facebook_image)
+- **Tier:** 2
+- **Key Facts:** 7 miles open (July 2026, Phase 1); 14+ miles by end of 2026; trail types: hiking, multi-use, mountain-bike; new 50-stall parking at Quarry Trailhead; decommissioned informal social trails; managed by City of Colorado Springs PRCS; free; Sources: KOAA, KRDO, coloradosprings.gov/TOPS2026, coloradosprings.gov/BlodgettOpenSpace
+
+### Story 3: Pioneer Rodeo Returns Aug 14–16 — Family Guide for Colorado Springs
+- **Date:** 2026-08-05
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (Pioneer Rodeo 2026 not previously covered this pipeline cycle) — Pioneer Rodeo and Demolition Derby, Norris Penrose Event Center, Aug 14-16. Kids under 5 free. 15% of tickets go to a COS nonprofit of choice (72+ organizations). Fri/Sat rodeo, Sunday demolition derby finale (5 classes). Gates open 3 PM Saturday.
+- **Content Produced:** Article (Sarah Morales), 1 X post, Facebook Long-Form, Facebook Image Caption, Image Concept (x_image + facebook_image)
+- **Tier:** 2
+- **Key Facts:** Aug 14-16, 2026; Norris Penrose Event Center; Fri/Sat = rodeo, Sun = Demolition Derby Finale (5 classes); kids under 5 free; gates open 3 PM Saturday; 15% ticket proceeds to COS nonprofit of choice (72+ orgs); Fan Zone, local vendors; Sources: AllEvents, Norris Penrose official, ticketspice (Norris Penrose), Sparrow Foundation
+
+### Story 4: The AAP Updated Screen Time Guidance in 2026 — What Changed for Kids 6 and Up
+- **Date:** 2026-08-05
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (2026 AAP screen time guideline update — different from Aug 3 S5 which covered the 5 C's framework broadly) — Specific focus on the January 2026 update: rigid hour limits for kids 6+ replaced by quality/context-based "5 Cs" approach. Timely for back-to-school screen habit reset.
+- **Content Produced:** Article (Jamie Rivera), 1 X post, Facebook Long-Form, Facebook Image Caption, Image Concept (x_image + facebook_image)
+- **Tier:** 2
+- **Key Facts:** AAP guideline update: January 2026; key change: no rigid hour limits for ages 6+; new framework: "5 Cs" (content, context, etc.); unchanged: no screens under 18 months (except video calls), 1 hr/day high-quality for ages 2–5; focus for 6+: quality, context, whether screens displace sleep/play/connection; Sources: FSU News (Feb 2026), Jellies App, screentimerecommendationsbyageus.com
+
+### Story 5: CPSC Summer 2026 Alert — Multiple Baby Swings and Loungers Recalled
+- **Date:** 2026-08-05
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (distinct from Aug 4 TOMY toddler tower recall and Aug 3/Aug 1 prior recall coverage) — Three separate CPSC actions: Vevor baby swings (Sanven Technology, inclined sleeper ban violation, suffocation hazard, ~1,020 units); Cpzzkq baby loungers (CetoPMax on Amazon, expanded recall, suffocation); Vevor baby loungers (entrapment/fall). All target infants under 12 months.
+- **Content Produced:** Article (Sarah Morales), 1 X post, Facebook Long-Form, Facebook Image Caption, Image Concept (x_image + facebook_image)
+- **Tier:** 2
+- **Key Facts:** Vevor baby swings (Sanven Technology): models BB501K/BB702A/BB005, incline >10° violates Safe Sleep for Babies Act, suffocation hazard, ~1,020 units; Cpzzkq baby loungers (CetoPMax/Amazon): expanded recall, suffocation hazard, fails mandatory infant support cushion standard; Vevor baby loungers: entrapment/fall, fails mandatory infant sleep product standard; all: stop use immediately, cpsc.gov/Recalls; Sources: CPSC.gov official recall pages (all three), Motherly, Medical Daily
+
+---
+
 ## August 3, 2026
 
 ### Story 1: D49 First Day Is Here — Kindergarteners, 6th Graders, and 9th Graders Report Monday
