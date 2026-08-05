@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-08-05
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch, 5 stories verified HIGH confidence), brief (5 stories), research notes, story analysis, X posts (8; 1 char violation fixed — Story 2 tweet 1: 296→274); FB posts (5 stories; labels fixed to Long-Form Post/Image Caption format), image concepts (13 items; headers fixed to ### STORY), image manifest (13 items, not_started; format corrected to script-expected yaml structure), articles (5), fact-check (33 claims HIGH; claim-patterns.py missing known), compile (5 stories, 8 tweets, 5 FB posts, 5 articles, 5 images), dashboard (28 items), PostPlanner exports (8 posts each — standard + TOBI). WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard publish push failed (proxy known restriction). IMAGE NOT STARTED (manifest recognized but images not yet produced in Canva). claim-patterns.py missing (known). PostPlanner FB: 0 posts compiled (PostPlanner script parsing — known). 0 char violations after fix.
+- **Key Stories**: Skubal Dodgers debut (6IP/4H/2ER/2BB/6K/99.3mph)/Swanson solo HR off first pitch in 3rd/Cubs 5 Dodgers 1/Dodgers season-high 5-game losing streak (Tier 1 FOLLOW UP), Troy Melton 7-1/1.58 ERA/14 consecutive scoreless innings/Tigers 8-0 Mariners/6 straight 8+ run games (franchise record tie)/Tigers 55-58/1.5 games from Wild Card (Tier 1 NEW), Red Sox 14-2 White Sox/Patrick Sandoval first W since May 7 2024 (TJ surgery)/Abreu 2 HRs/6-game win streak/24-3 in last 27 (Tier 2 FOLLOW UP), George Lombard Jr. debut HR/Yankees 2-0 Cardinals/Bednar save 25/27/AL-best 12th shutout (Tier 2 NEW), Field of Dreams Aug 13 Phillies vs Twins Netflix/Schwarber 33 HRs/Arraez+Raley added at deadline (Tier 3 NEW)
+
+## Last Run
 - **Date**: 2026-08-04
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (prior session context + daily brief carried from earlier in session, 5 stories verified HIGH confidence), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations — all ≤280), FB posts (5 stories), image concepts (9 items), image manifest (14 items, not_started), articles (5), fact-check (34 claims, all HIGH), compile (5 stories, 0 tweets — format known, 0 FB — format known, 5 articles, 10 items), dashboard (10 items), PostPlanner exports (0 posts — format known). WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).

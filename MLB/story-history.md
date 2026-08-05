@@ -5,6 +5,65 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-05
+
+### Story 1: Tarik Skubal's Dodgers Debut — Cubs 5, Dodgers 1
+- **Date:** 2026-08-05
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Skubal acquired at deadline; debut on Aug 4 at Wrigley)
+- **Angle:** Skubal's Dodgers debut: 6 IP, 4H, 2 ER, 2 BB, 6 K, 99.3 mph. Dansby Swanson hit the first pitch Skubal threw in the 3rd for a solo HR (17th). Cubs 5, Dodgers 1. Dodgers' 5th consecutive loss = season-high losing streak. Dave Roberts said this was "Skubal or nothing." Skubal's record: 7-6.
+- **Content Produced:** Article (article-01, Ryan Calloway), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Skubal next start
+  - Dodgers losing streak — can they stop it?
+  - Swanson season stats
+
+### Story 2: Troy Melton / Tigers Wild Card Chase
+- **Date:** 2026-08-05
+- **Tier:** 1
+- **Classification:** NEW (Melton emergence as post-Skubal Tigers ace; franchise record context)
+- **Angle:** Tigers 8, Mariners 0. Melton: 7 IP, 3H, 2BB, 4K, ERA 1.58, record 7-1. 14 consecutive scoreless innings. Tigers now have 6 straight games with 8+ runs — franchise record tie (Yahoo Sports). Tigers 55-58, 1.5 games from final Wild Card spot. Riley Greene homered in 5th.
+- **Content Produced:** Article (article-02, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Tigers wild card race daily coverage
+  - Melton AL Cy Young dark horse angle
+  - Cleveland standings watch
+
+### Story 3: Red Sox 24-3 in Last 27 Games
+- **Date:** 2026-08-05
+- **Tier:** 2
+- **Classification:** FOLLOW UP (24-3 is the new record in the streak; Patrick Sandoval Tommy John comeback angle is fresh)
+- **Angle:** Red Sox 14, White Sox 2. Patrick Sandoval's first win since May 7, 2024 — ~15 months recovering from Tommy John surgery. Wilyer Abreu hit 2 solo HRs. Red Sox on 6-game win streak, 24-3 in last 27 games. Adley Rutschman acquired at deadline. Boston surging toward postseason.
+- **Content Produced:** Article (article-03, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Red Sox playoff odds tracking
+  - Sandoval recovery story follow-up
+  - Rutschman integration into lineup
+
+### Story 4: George Lombard Jr. Debut HR — Yankees 2, Cardinals 0
+- **Date:** 2026-08-05
+- **Tier:** 2
+- **Classification:** NEW (debut HR is fresh; Yankees' AL-best 12th shutout is new superlative)
+- **Angle:** George Lombard Jr. homered in his MLB debut (Aug 4). Yankees 2, Cardinals 0. David Bednar recorded save No. 25 in 27 chances (four-out save, entered in 8th). Yankees record: 62-49, AL-best 12th shutout.
+- **Content Produced:** Article (article-04, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Lombard Jr. follow-up (2nd MLB start)
+  - Bednar save pace tracking
+  - Yankees playoff positioning
+
+### Story 5: Field of Dreams Game — August 13, Phillies vs. Twins, Netflix
+- **Date:** 2026-08-05
+- **Tier:** 3
+- **Classification:** NEW (8-day countdown; first time on Netflix; Schwarber HR chase context)
+- **Angle:** 2026 Field of Dreams Game is August 13 in Dyersville, Iowa — Phillies vs. Twins, first time streaming live on Netflix. Schwarber entered August with 33 HRs (56 in 2025). Bryce Harper moving to right field after Luis Arraez trade deadline acquisition. Luis Arraez: three-time batting champion, .329 career average.
+- **Content Produced:** Article (article-05, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Field of Dreams Game recap (Aug 14)
+  - Schwarber HR chase updates
+  - Arraez lineup impact on Phillies
+
+---
+
 ## 2026-08-04
 
 ### Story 1: Trade Deadline Report Card — Dodgers Win, Orioles and Twins Lose
