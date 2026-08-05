@@ -3,6 +3,65 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-08-05
+
+### Story 1: LLSWS Day 3 Results + AUSL Pro Game Tonight at 7 PM ET
+- **Date:** 2026-08-05
+- **Tier:** 1
+- **Classification:** FOLLOW UP (LLSWS tracked Aug 1-4; Day 3 results confirmed; AUSL Pro Game tonight is marquee event)
+- **Angle:** Day 3 at Stallings Stadium: NW 7, SW 3 (Madison Locke 3H/4RBI); Mid-Atlantic 13, NE 3 (mercy rule, 4 innings). NC (Johnston County) still 2-0, undefeated. Tonight: AUSL Pro Game at 7 PM ET on ESPN2 — 24 AUSL players, Lisa Fernandez vs Natasha Watley coaching.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - LLSWS Day 4 results (Aug 6 coverage)
+  - AUSL Pro Game recap
+  - NC Johnston County undefeated run as story thread
+
+### Story 2: Montana Fouts Won the AUSL and the International Cup — In the Same Two Weeks
+- **Date:** 2026-08-05
+- **Tier:** 1
+- **Classification:** NEW (AUSL Championship July 26 + awards not previously covered; new angle tying both wins together)
+- **Angle:** Utah Talons won 2026 AUSL Championship July 26 in College Station — beat Chicago Bandits 6-1; back-to-back titles. Jadelyn Allchin MVP (HR, double, 3 RBI, diving catch). Montana Fouts: AUSL Pitcher of the Year (7-4, 2.36 ERA, 63 K in 61.1 IP, 63:10 K:BB, .200 opp avg). Three weeks later, Fouts pitched USA WNT to International Cup gold over Japan. AUSL All-Star Cup starts Aug 8 in Rosemont IL.
+- **Content Produced:** Article (article-02, Emily Rawlings), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - AUSL All-Star Cup coverage (Aug 8-30, Rosemont IL)
+  - Allchin 2026 season wrap
+  - Maya Brady International Cup Tournament MVP angle
+
+### Story 3: Texas Tech Transfer Class — Kasidi Pickering (Corrects Prior "Karlyn Pickering" Error)
+- **Date:** 2026-08-05
+- **Tier:** 2
+- **Classification:** FOLLOW UP (TTU portal covered Aug 1-4 with Beachum headline; Pickering detail + Heavener not previously covered; corrects name error from prior coverage)
+- **Angle:** Kasidi Pickering (NOT Karlyn Pickering — separate person) committed to TTU from OU: .384 career BA, 50 HR, 169 RBI in 186 games; 2026: .370/20 HR/61 RBI. 2024 national champion, WCWS All-Tournament. Jayden Heavener (LSU, 13-9/2.81 ERA, 2yr eligibility) also added. With Beachum+Pickering+Heavener, Texas Tech is the No. 1 transfer class. IMPORTANT: Karlyn Pickens = AUSL pitcher, not TTU transfer.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1-2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - TTU season preview 2027
+  - Beachum on-campus (fall practice)
+  - Heavener pitching depth comparison to WCWS contenders
+
+### Story 4: September 1 Recruiting Window — 27 Days Out
+- **Date:** 2026-08-05
+- **Tier:** 2
+- **Classification:** FOLLOW UP (27 days vs 28 days Aug 4; new angle — showcase film locked, coaches finalizing Class of 2028 call lists)
+- **Angle:** September 1 is 27 days away. Summer film done — PGF Nationals, major showcases, LLSWS all complete. Coaches now reviewing, finalizing who they call first for Class of 2028. First call signals priority. Fall showcases still matter for prospects who underperformed.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - September 1 day-of coverage
+  - Class of 2028 first wave of commitments
+  - Fall showcase circuit preview
+
+### Story 5: Philippines "Blu Girls" Chasing First Asian Games Medal Since 1998
+- **Date:** 2026-08-05
+- **Tier:** 3
+- **Classification:** NEW (Philippines angle on Asian Games not previously covered; fresh from Aug 4 Manila Times)
+- **Angle:** Philippines (No. 13 world/4th Asia) heading to 2026 Asian Games in Aichi-Nagoya (Sept 26–Oct 3) targeting first medal since 1998. Three straight 4th-place finishes (2014/2018/2022). Beat Puerto Rico (No. 3) 5-4 walk-off at WBSC Lima qualifier. Japan enters as host + No. 1 favorite.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Philippines roster preview
+  - Asian Games full preview (Sept countdown)
+  - Japan host-nation angle
+
+---
+
 ## 2026-08-04
 
 ### Story 1: USA WNT Wins International Cup Gold — Montana Fouts Near-Perfect
