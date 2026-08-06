@@ -1,10 +1,21 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
-- **Date**: 2026-08-05
-- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish skipped — WP credentials not in environment; git committed and pushed)
+- **Date**: 2026-08-06
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy 403; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-08-06
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 7 written, all under 280 characters (4 tweets fixed after verify-facts.py: Stories 1×2, 2×1, 3×1 all trimmed)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway)
+- **PostPlanner exports:** gfr-postplanner-2026-08-06.xlsx (7 posts) + gfr-postplanner-tobi-2026-08-06.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-08-06/review-dashboard.html (27 items)
+- **Notes:** WYNDHAM CHAMPIONSHIP — opens Aug 6-9 at Sedgefield CC Greensboro NC; par 70 7,127 yds Donald Ross design; Cameron Young defending (won 2025 by 6 shots); top 70 after Wyndham → FedExCup Playoffs; winning scores reach 20-under; LIV GOLF NEW YORK — Aug 6-9 Trump National Bedminster NJ; $20M purse ($4M individual winner, $3M team captain winner); Rahm leads standings 938.44 pts, 219.04 ahead of DeChambeau (719.40); Herbert 3rd at 531.23 (2 wins in last 4 events); DeChambeau needs 19+ pt swing to stay alive; course 7,651 yds; AIG WOMEN'S OPEN — Shiho Kuwaki (Japan) wins Aug 2 at Royal Lytham & St Annes; 50th staging; 2-hole playoff over Esther Henseleit (Germany); Henseleit holed 40-ft birdie on 72nd hole to force playoff; both at -5 (279); Kuwaki shot final-round 70; $1.5M from record $10M purse; Henseleit $994,669; Noh led entering R4, shot 74, T3; Korda + Thitikul T4; SCHEFFLER FEDEXCUP — leads standings with 4,123 pts across 17 events; last win American Express January 2026 (20th career, -27 by 4 shots); 5 runner-up finishes since (incl. Min Woo Lee shot 59 at 3M Open); lost to McIlroy at 2026 Masters; No. 1 seed at Tour Championship gets most favorable staggered starting score; committed to St. Jude Aug 12-16; skipped The Open; FEDEXCUP PLAYOFFS PREVIEW — St. Jude (TPC Southwind Memphis, Aug 12-16, top 70); BMW Championship (Bellerive CC St. Louis, Aug 20-23, top 50); Tour Championship (East Lake Atlanta, Aug 27-30, top 30); $25M to FedExCup champion; McIlroy 4x FedExCup champion and top challenger; Wyndham is last qualifying event
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-08-05
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish skipped — WP credentials not set)

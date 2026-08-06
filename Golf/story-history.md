@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-08-06
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-08-06 | T1 | Wyndham Championship Opens — Last Playoff Ticket Deadline Arrives | X, FB, Article | NEW |
+| 2026-08-06 | T1 | LIV Golf New York Opens — Rahm Eyes Third Straight Individual Title | X, FB, Article | NEW |
+| 2026-08-06 | T1 | Shiho Kuwaki Wins the AIG Women's Open at Royal Lytham | X, FB, Article | NEW |
+| 2026-08-06 | T2 | Scottie Scheffler Leads the FedExCup with 4,123 Points | X, FB, Article | NEW |
+| 2026-08-06 | T2 | FedExCup Playoffs Preview — What Fans Need to Know | X, FB, Article | NEW |
+
+### STORY 1: Wyndham Championship Opens — Last Playoff Ticket Deadline Arrives
+- **Tier:** 1
+- **Category:** PGA Tour / Wyndham Championship / FedExCup Playoffs
+- **Key facts:** Wyndham Championship Aug 6-9 at Sedgefield CC, Greensboro NC; par 70, 7,127 yds, Donald Ross design; Cameron Young defending champion (won 2025 by 6 shots); top 70 in FedExCup standings after Wyndham advance to St. Jude Championship; typical winning scores reach 20-under
+- **Status:** NEW
+- **Follow-up ideas:** R1/R2 bubble movers; Cameron Young defense result; final qualifying standings
+
+### STORY 2: LIV Golf New York Opens — Rahm Eyes Third Straight Individual Title
+- **Tier:** 1
+- **Category:** LIV Golf / LIV Golf New York / Jon Rahm / Individual Championship
+- **Key facts:** LIV Golf New York Aug 6-9 at Trump National Golf Club, Bedminster NJ; $20M purse ($4M individual winner, $3M team winner captain); Rahm leads individual standings with 938.44 pts, 219.04 ahead of DeChambeau (719.40); Lucas Herbert 3rd at 531.23 (two recent wins); DeChambeau needs 19+ pt swing to keep race alive; course at 7,651 yds
+- **Status:** NEW
+- **Follow-up ideas:** Rahm individual title clinch; DeChambeau gap closing or widening; Herbert podium finish
+
+### STORY 3: Shiho Kuwaki Wins the AIG Women's Open at Royal Lytham
+- **Tier:** 1
+- **Category:** LPGA / AIG Women's Open / Major Championship
+- **Key facts:** Kuwaki (Japan) wins 2026 AIG Women's Open on Aug 2 at Royal Lytham & St Annes; 50th staging of the championship; defeated Germany's Esther Henseleit in 2-hole sudden-death playoff; both finished at -5 (279); Kuwaki carded closing 70; Henseleit holed 40-foot birdie on 72nd hole to force playoff; $1.5M winner's share from record $10M purse; Henseleit received $994,669; Ayaka Noh led entering final round, shot 74, T3; Korda + Thitikul (world No. 1 and No. 2) tied fourth
+- **Status:** FOLLOW-UP (first appeared 2026-08-05 as T2)
+- **Follow-up ideas:** Kuwaki's LPGA season trajectory; Henseleit major follow-up; Korda/Thitikul major drought
+
+### STORY 4: Scottie Scheffler Leads the FedExCup with 4,123 Points
+- **Tier:** 2
+- **Category:** PGA Tour / FedExCup / Scottie Scheffler
+- **Key facts:** Scheffler leads FedExCup standings with 4,123 points in 17 events; last win American Express January 2026 (20th career PGA Tour title, -27 by 4 shots); 5 runner-up finishes since including T2 at 3M Open (Min Woo Lee shot 59 to beat him); lost to McIlroy at 2026 Masters; No. 1 seed at Tour Championship gets most favorable staggered starting score; committed to FedEx St. Jude Championship Aug 12-16; skipped The Open
+- **Status:** FOLLOW-UP (winless drought angle first appeared 2026-08-05 as T2)
+- **Follow-up ideas:** Scheffler wins St. Jude or BMW; FedExCup Playoffs progression; drought ends story
+
+### STORY 5: FedExCup Playoffs Preview — What Fans Need to Know
+- **Tier:** 2
+- **Category:** PGA Tour / FedExCup Playoffs
+- **Key facts:** Three events: St. Jude Championship (Memphis TPC Southwind, Aug 12-16, top 70); BMW Championship (Bellerive CC St. Louis, Aug 20-23, top 50); Tour Championship (East Lake Atlanta, Aug 27-30, top 30); $25M to FedExCup champion; Tour Championship uses staggered starting scores by FedExCup rank; Scheffler is No. 1 seed; McIlroy is top challenger (4x FedExCup champion); 2026 Masters winner for McIlroy confirmed
+- **Status:** FOLLOW-UP (format preview first appeared 2026-08-04 and 2026-08-05)
+- **Follow-up ideas:** Weekly Playoffs recap; Tour Championship preview
+
 ## 2026-08-05
 
 | Date | Tier | Story | Platforms | Status |
