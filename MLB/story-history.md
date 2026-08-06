@@ -5,6 +5,65 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-06
+
+### Story 1: Dodgers Lose Their 6th Straight — Crow-Armstrong Beats Them with Two HRs
+- **Date:** 2026-08-06
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Skubal Dodgers debut covered Aug 5 — Cubs 5 Dodgers 1; today's story = 6th consecutive loss)
+- **Angle:** Cubs 7, Dodgers 6 on Aug 5. Pete Crow-Armstrong 2 HR 4 RBI. Shohei Ohtani leadoff HR No. 29 as Dodger (passes Davey Lopes for 2nd on franchise all-time leadoff HR list), 9-game hitting streak. Dodgers left 8 runners on base. Swept in 2nd straight series. Season-high 6-game losing streak. Dodgers record: 69-45, still atop NL West.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Can the Dodgers stop the skid?
+  - Ohtani leadoff HR milestone (franchise record chase)
+  - Pete Crow-Armstrong continued season stats
+
+### Story 2: Matt Olson Passes Stan Musial — 8th All-Time in Consecutive Games
+- **Date:** 2026-08-06
+- **Tier:** 1
+- **Classification:** NEW (Olson's 896th consecutive game on Aug 5 breaks Musial's mark — franchise milestone, historic in MLB context)
+- **Angle:** Braves 4, Marlins 1 on Aug 5. Olson's 896th consecutive game passes Stan Musial (895) for sole possession of 8th all-time in MLB history. Streak started May 2, 2021 (Oakland Athletics). Bryce Elder 7 IP 1 H; Drake Baldwin 2 RBI; Braves 7th consecutive win (season-high).
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Olson streak updates (daily if milestone proximity)
+  - Braves winning streak continuation
+  - Next all-time consecutive games milestone above Olson
+
+### Story 3: Sonny Gray Is 14-2 — Red Sox Are 30-5 Since June 25
+- **Date:** 2026-08-06
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Red Sox 24-3 in last 27 covered Aug 5; now 30-5 since June 25 on a 7-game win streak)
+- **Angle:** Red Sox 4, White Sox 0 on Aug 5. Gray: 6 IP 3H 2BB 8K — 14-2 record, AL wins leader. Wilyer Abreu 2-for-3 3 runs 20th HR. Red Sox 7-game win streak, 30-5 since June 25. White Sox still lead AL Central by 3 games (Cleveland + Minnesota also lost Aug 5).
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Red Sox playoff odds tracking
+  - Gray win total (pace toward 20 wins?)
+  - AL Central standings watch
+
+### Story 4: Angel Genao Makes Guardians History — 4 Hits in His MLB Debut
+- **Date:** 2026-08-06
+- **Tier:** 2
+- **Classification:** NEW (Genao debut Aug 5; first player in Cleveland Guardians franchise history to record 4 hits in MLB debut)
+- **Angle:** Mets 6, Guardians 5 on Aug 5. Genao: 4 hits in MLB debut, franchise history first. Tying run scored 9th inning on Brayan Rocchio error (fumbled bases-loaded grounder by A.J. Ewing; Jared Young scored 2 outs). Historic debut in a loss.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Genao 2nd MLB start/game
+  - Rocchio error impact on team
+  - Guardians roster evaluation
+
+### Story 5: Field of Dreams Game — 7 Days Away, Phillies vs. Twins on Netflix
+- **Date:** 2026-08-06
+- **Tier:** 3
+- **Classification:** FOLLOW UP (Field of Dreams previewed Aug 5 as 8 days away; today = 7 days out)
+- **Angle:** Aug 13 Dyersville Iowa — Phillies vs. Twins, first time streaming live on Netflix. Schwarber 33 HRs. Luis Arraez: acquired at deadline, career .329 average, 3-time batting champion. Logan Raley also added at deadline. 7 days away.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Game day coverage Aug 13
+  - Schwarber HR chase narrative
+  - Arraez Phillies integration
+
+---
+
 ## 2026-08-05
 
 ### Story 1: Tarik Skubal's Dodgers Debut — Cubs 5, Dodgers 1
