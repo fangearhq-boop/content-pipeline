@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-08-06
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch + 2 research agents, 5 stories verified HIGH/MEDIUM confidence), brief (5 stories), research notes, story analysis, X posts (6; 2 char violations fixed — Story 3 tweet 288→270, Story 4 tweet 303→259), FB posts (5 stories), image concepts (12 items; ### STORY headers), image manifest (10 items, not_started), articles (5), fact-check (89 claims), compile (5 stories, 6 tweets, 5 FB posts, 5 articles, 5 images), dashboard (26 items), PostPlanner exports (6 posts each — standard + TOBI). WordPress 403 (proxy blocks ilovesoftball.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks ilovesoftball.com — known). Dashboard publish push failed (proxy known restriction). IMAGE NOT STARTED (manifest recognized but images not yet produced in Canva). PostPlanner FB: 0 posts compiled (PostPlanner script parsing — known). 2 char violations fixed before verify-facts pass. 0 char violations after fix.
+- **Key Stories**: LLSWS Day 4 results (Washington 9 Canada 1/Locke 12K; Mid-Atlantic 11 Japan 0 avenges Day 1)/Today Day 5: Lake Mary FL vs Clayton NC at 1PM ET ESPN — both 2-0 (Lake Mary 29-0)/Game 16 5PM ET (Tier 1 FOLLOW UP), Team Watley 6 Team Fernandez 2/AUSL Pro Game ESPN2 Aug 5/AUSL All-Star Cup starts Saturday Aug 8 Rosemont IL/45 players/12 games (Tier 2 FOLLOW UP), September 1 = 26 days/1,226 Class of 2028 nominations — record (Extra Inning Softball) (Tier 2 FOLLOW UP), Texas Tech 2027 full roster preview/Beachum+Pickering+Heavener onto WCWS Finals core/fall camp weeks away (Tier 2 FOLLOW UP), USA WNT WBSC World Cup Group C Qualifier Sept 12-16 OKC/37 days/same venue as International Cup gold (Tier 3 NEW)
+
+## Last Run
 - **Date**: 2026-08-05
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch, 5 stories verified HIGH/MEDIUM confidence), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations after trim on Story 3 tweet), FB posts (5 stories; labels fixed to Long-Form Post/Image Caption format), image concepts (13 items; headers fixed to ### STORY), image manifest (13 items, not_started; format corrected to script-expected yaml structure), articles (5), fact-check (78 claims — 76 HIGH/31 MEDIUM/45 LOW), compile (5 stories, 7 tweets, 5 FB posts, 5 articles, 5 images), dashboard (27 items), PostPlanner exports (7 posts each — standard + TOBI). WordPress 403 (proxy blocks ilovesoftball.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).

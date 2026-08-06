@@ -1,0 +1,257 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-06",
+  "compiled_at": "2026-08-06T10:30:00.105702+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "LLSWS Day 4 Results + Day 5 Today — The Unbeaten Showdown",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "LLSWS Day 4 — Two more teams go home:\n\n🥎 Washington 9, Canada 1 — Locke: 12 K in 6 innings\n🥎 Mid-Atlantic 11, Japan 0 — Toms River avenges Day 1\n\nToday: Lake Mary FL vs. NC at 1 PM ET on ESPN.\n\nBoth 2-0. One stays perfect.\n\n#LLSWS #Softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LLSWS",
+            "#Softball"
+          ],
+          "char_count": 240
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Lake Mary, FL has outscored opponents 29-0 at the #LLSWS.\n\n14-0. Then 15-0.\n\nToday they face the host team — Clayton, NC — which is also 2-0 (16-4, 2-1).\n\n1 PM ET on ESPN. Both teams still unbeaten. Not for long.\n\n#Softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LLSWS",
+            "#Softball"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "🥎 **LLSWS DAY 4 RECAP + THE SHOWDOWN THAT'S HAPPENING RIGHT NOW**\n\nDay 4 at Stallings Stadium in Greenville eliminated two more teams and set up the most anticipated game of the tournament so far.\n\nWednesday morning, Washington (Snohomish, WA) took care of Canada 9-1. Madison Locke was everything — 6 innings, 4 hits, 1 run, 0 walks, 12 strikeouts. Janessa Malone went 3-for-3 with 2 RBI. Canada is eliminated.\n\nWednesday afternoon, Toms River, New Jersey's Mid-Atlantic squad finished what Day 1 started. Japan (Sangō, Asia-Pacific) had beaten them 4-1 on opening day. On Day 4, Toms River returned the favor — 11-0 shutout in what was supposed to be an elimination game for the NJ team. Japan is eliminated. Toms River avenged their loss and moved on.\n\nNow here's today's story:\n\nLake Mary, Florida (Southeast) and Clayton, North Carolina (the NC host team) are both 2-0. They play each other TODAY at 1 PM ET on ESPN. Lake Mary has run-ruled two opponents and outscored the field 29-0. Clayton is the host team from Johnston County making their first-ever LLSWS run — they won 16-4 over Canada and 2-1 over Texas. Neither team has given up a run.\n\nOne of them is about to.\n\n---",
+        "image_caption": "Day 4 at #LLSWS: Washington 9, Canada 1. Mid-Atlantic 11, Japan 0. Today: Lake Mary FL vs. NC — both 2-0, both never scored on. 1 PM ET on ESPN. 🥎",
+        "posting_time": "9:30 AM ET"
+      },
+      "article": {
+        "filename": "article-01-llsws-day4-results-day5-showdown.html",
+        "headline": "LLSWS Day 4: Washington and Mid-Atlantic Advance, Lake Mary vs. NC Tops Today's Schedule",
+        "word_count": 499
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LLSWS Day 4 + Day 5 Showdown\n\n### Image 1 — Social Post (1080x1350)\n- search_term: \"Little League Softball World Series players\"\n- usage: social post — Story 1 (Day 4 results scoreboard)\n- dimensions: 1080x1350\n- overlay_text: \"LLSWS DAY 4 | WASHINGTON 9 CANADA 1 | MID-ATLANTIC 11 JAPAN 0 | TODAY: LAKE MARY vs. NC 1 PM ESPN\"\n- status: not_started\n\n### Image 2 — Social Post (1080x1350)\n- search_term: \"softball pitcher strikeout youth tournament\"\n- usage: social post — Story 1 (Madison Locke 12K spotlight)\n- dimensions: 1080x1350\n- overlay_text: \"MADISON LOCKE | 6 IP, 12 K, 0 BB | WASHINGTON ADVANCES | #LLSWS\"\n- status: not_started\n\n### Image 3 — Article Hero (1200x630)\n- search_term: \"softball Little League World Series Greenville stadium\"\n- usage: article hero — article-01\n- dimensions: 1200x630\n- status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LLSWS Day 4 Results + Day 5 Today\n**Day 4 — August 5, 2026:**\nPurple Bracket — Game 13:\n- Washington (Snohomish, WA) def. Canada (Repentigny, Quebec) **9-1**\n- Canada eliminated\n- Madison Locke (P): 6 IP, 4 H, 1 R, 0 BB, 12 K\n- Janessa Malone: 3-for-3, 2 RBI, 1 Run\n- Layla Bailey: 1-for-2, 2 RBI",
+        "sources": "- Sources: Bleacher Report, Yahoo Sports (HIGH confidence)\nOrange Bracket — Game 14:\n- Toms River, NJ (Mid-Atlantic) def. Sangō, Japan (Asia-Pacific) **11-0**\n- Japan eliminated; Mid-Atlantic avenges 4-1 opening loss from Aug 2\n- Pitching by Jaelyn Brown; third-base defense from Analeise Curley\n- New Jersey scored in first with pair of Japanese errors; scored on sacrifice flies in first 3 innings\n- Sources: Shore News Network, Salisbury Post (HIGH confidence)\n**Unbeaten teams heading into Day 5:**\n- Lake Mary, FL (Southeast) — 2-0; outscored opponents 29-0\n- Aug 2: 14-0 (run rule <4 innings)\n- Aug 4: 15-0 vs. Bologna, Italy (run rule <4 innings)\n- Source: Just Women's Sports (HIGH confidence)\n- Clayton, NC (North Carolina — host entry) — 2-0\n- Defeated Canada 16-4\n- Defeated Texas 2-1\n- Source: Salisbury Post (HIGH confidence)\n- Washington (Snohomish, WA) — advanced past Canada Day 4\n- Toms River, NJ (Mid-Atlantic) — advanced past Japan Day 4\n**Day 5 Schedule — August 6:**\n- Game 15: 1:00 PM ET, ESPN — Lake Mary FL vs. Clayton NC\n- Game 16: 5:00 PM ET, ESPN — Latin America vs. Game 8 winner\n- Source: ESPN/Little League (HIGH confidence)"
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Team Watley Wins the AUSL Pro Game 6-2 at Stallings Stadium",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Team Watley 6, Team Fernandez 2.\n\nThe AUSL Pro Game at Stallings Stadium is official — Natasha Watley's squad beat Lisa Fernandez's team Wednesday night on ESPN2.\n\nNext up: the AUSL All-Star Cup starts this Saturday in Rosemont, IL.\n\n45 players. 12 games. 🥎\n\n#AUSL #Softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#AUSL",
+            "#Softball"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": {
+        "long_form": "🥎 **TEAM WATLEY WINS THE AUSL PRO GAME — AND THE ALL-STAR CUP IS THIS SATURDAY**\n\nWednesday night at Stallings Stadium in Greenville — while the Little League Softball World Series was on a brief pause — the AUSL Pro Game delivered exactly what it was supposed to be.\n\nTeam Watley defeated Team Fernandez 6-2 in a full nine-inning exhibition. Twenty-four of the best softball players in the world, split into two teams wearing their regular-season AUSL uniforms, coached by Natasha Watley and Lisa Fernandez. The final box score: Watley 6 runs, 7 hits, 1 error; Fernandez 2 runs, 5 hits, 3 errors.\n\nThe context made it better than any final score can capture. These players had spent Tuesday at the LLSWS games, doing first pitches and meet-and-greets with the competing teams. Wednesday morning they ran a youth Tee Ball clinic for two local Little League programs. Then that night, they played in front of the LLSWS crowd — kids who had been competing in the same stadium all week, now watching the best softball players in the world.\n\nThat's the whole point of it.\n\nWhat's next: the 2026 AUSL All-Star Cup starts this Saturday, August 8, in Rosemont, Illinois — and runs through August 30. Forty-five players, 12 games broadcast on ESPN, MLB Network, and CBS Sports Network. If you enjoyed the Pro Game, the All-Star Cup is the longer version.\n\n---",
+        "image_caption": "Team Watley 6, Team Fernandez 2. The AUSL Pro Game is official. Next up: the AUSL All-Star Cup starts Saturday, August 8 in Rosemont, IL. 45 players. 12 games. 🥎 #AUSL",
+        "posting_time": "11:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-ausl-pro-game-recap-allstar-cup.html",
+        "headline": "Team Watley Wins the AUSL Pro Game 6-2 — and the All-Star Cup Is Saturday",
+        "word_count": 506
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "AUSL Pro Game Recap\n\n### Image 4 — Social Post (1080x1350)\n- search_term: \"Natasha Watley USA softball player\"\n- usage: social post — Story 2 (Team Watley wins)\n- dimensions: 1080x1350\n- overlay_text: \"TEAM WATLEY 6, TEAM FERNANDEZ 2 | AUSL PRO GAME | AUG 5 ESPN2 | ALL-STAR CUP STARTS SAT\"\n- status: not_started\n\n### Image 5 — Social Post (1080x1350)\n- search_term: \"softball professional players field exhibition\"\n- usage: social post — Story 2 (AUSL All-Star Cup preview)\n- dimensions: 1080x1350\n- overlay_text: \"AUSL ALL-STAR CUP | AUG 8-30 ROSEMONT IL | ESPN + MLB NETWORK + CBS SPORTS NETWORK\"\n- status: not_started\n\n### Image 6 — Article Hero (1200x630)\n- search_term: \"softball players dugout professional\"\n- usage: article hero — article-02\n- dimensions: 1200x630\n- status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "AUSL Pro Game Result\n- Team Watley def. Team Fernandez **6-2** on August 5 at 7 PM ET on ESPN2\n- Location: Stallings Stadium, Greenville, NC\n- Box score: Watley — 6 R, 7 H, 1 E; Fernandez — 2 R, 5 H, 3 E\n- Exhibition format; 24 AUSL players in two teams; regular-season uniforms\n- Coaches: Natasha Watley (winner), Lisa Fernandez",
+        "sources": "- Source: Multiple search summaries; AUSL game page theausl.com/game/1189/ (MEDIUM-HIGH confidence)\n**Devyn Netz stats (LOW confidence — single search summary, direct page 403):**\n- Reported 2 HRs attributed to \"D Netz\" in one summary — NOT used in articles pending verification\n**AUSL All-Star Cup:**\n- August 8-30, Rosemont, IL\n- 45 players, 12 games\n- Networks: ESPN, MLB Network, CBS Sports Network\n- Source: AUSL official (HIGH confidence)"
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "September 1 Recruiting Window — 26 Days Out",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "September 1 is 26 days away.\n\nExtra Inning Softball: 1,226 Class of 2028 nominations — a record.\n\nCoaches have seen the film. They're finalizing call lists now.\n\nThe biggest phone day in college softball recruiting is coming. 📞🥎\n\n#SoftballRecruiting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SoftballRecruiting"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": {
+        "long_form": "🥎 **SEPTEMBER 1 IS 26 DAYS AWAY — AND THE CLASS OF 2028 IS THE BIGGEST EVER EVALUATED**\n\nExtra Inning Softball has received 1,226 nominations for the Class of 2028 — the most in their company's history. Not by a little. More than any previous class.\n\nThose 1,226 names represent players who went through PGF Nationals, major showcases, the LLSWS, summer tournaments — everything on the 2026 evaluation circuit. Division I coaches across the country have been watching. They've seen the film, logged the stats, compared the scouting reports. The summer is done.\n\nSeptember 1 is when it becomes real. That's the day D1 coaches can pick up the phone and call a Class of 2028 prospect directly for the first time. Before that date, they can receive questionnaires and attend events, but they cannot initiate contact. The first call from a program is a significant signal — it tells a prospect where she stands in that staff's priorities.\n\nFor a record class of prospects, September 1 is 26 days away.\n\nThe coaches know who they're calling. The prospects don't.\n\n---",
+        "image_caption": "September 1 is 26 days away. Extra Inning Softball reports a record 1,226 Class of 2028 nominations — the most ever. Coaches are finalizing call lists right now. 📞🥎 #SoftballRecruiting",
+        "posting_time": "1:30 PM ET"
+      },
+      "article": {
+        "filename": "article-03-september-1-recruiting-26-days-record-class.html",
+        "headline": "September 1 Is 26 Days Away — and the Class of 2028 Is the Biggest Ever Evaluated",
+        "word_count": 513
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "September 1 Recruiting Window\n\n### Image 7 — Social Post (1080x1350)\n- search_term: \"softball college recruiting player coach\"\n- usage: social post — Story 3 (Sept 1 countdown)\n- dimensions: 1080x1350\n- overlay_text: \"SEPTEMBER 1 | 26 DAYS | 1,226 CLASS OF 2028 NOMINATIONS — RECORD | D1 COACHES CAN CALL\"\n- status: not_started\n\n### Image 8 — Article Hero (1200x630)\n- search_term: \"college softball pitcher batting practice\"\n- usage: article hero — article-03\n- dimensions: 1200x630\n- status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "September 1 Recruiting Window\n- September 1, 2026 = D1 first-contact opener for Class of 2028 (current juniors, class graduating spring 2028)\n- August 6 = 26 days to September 1\n- Extra Inning Softball: 1,226 nominations for Class of 2028 — most in company history\n- Before Sept 1: D1 coaches cannot initiate direct contact; can receive questionnaires, attend showcases, watch film",
+        "sources": "- Source: NextCommit NCAA Calendar, Extra Inning Softball mentions (HIGH confidence for mechanics; MEDIUM for record nominations)"
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Texas Tech 2027 — On Paper, the Most Complete Roster in the Country",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Texas Tech's 2027 transfers:\n\n✅ Beachum — .406 BA, 10 HR, 69 RBI (FSU)\n✅ Pickering — .384 career BA, 50 HR (OU)\n✅ Heavener — 13-9, 2.81 ERA (LSU)\n\nNo. 1 transfer class. 2026 WCWS Finalists. Zero games together yet. 🥎\n\n#Softball #SoftballRecruiting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Softball",
+            "#SoftballRecruiting"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "🥎 **TEXAS TECH 2027 — HERE'S WHAT THE ROSTER ACTUALLY LOOKS LIKE**\n\nFor five days, the coverage of Texas Tech's transfer class focused on one name at a time. Jaysoni Beachum. Then Kasidi Pickering. Then Jayden Heavener. Now let's put it together.\n\n**What Texas Tech is adding:**\n- Jaysoni Beachum (from FSU): .406 average, 10 HR, 69 RBI; 2024 NFCA Freshman of the Year; 2026 2nd-Team All-American\n- Kasidi Pickering (from OU): .384 career average at Oklahoma; 50 home runs, 169 RBI in 186 games; .370 average with 20 HR and 61 RBI in 2026 alone; 2024 national champion and WCWS All-Tournament selection\n- Jayden Heavener (from LSU): 13-9 with a 2.81 ERA in 2026; two full years of eligibility remaining\n\n**What they're returning:**\nTexas Tech already reached the 2026 Women's College World Series Finals. They already had a top-five caliber offense. Now they add one of the most prolific hitters in recent college softball history (Pickering), a proven FSU star who was an impact freshman before she learned the game (Beachum), and pitching depth that was the one gap in their title picture (Heavener).\n\nThis class hasn't played a game together yet. Fall camp starts in a few weeks. By the time the 2027 season opens, a Texas Tech win column built on these pieces could look like anything.\n\n---",
+        "image_caption": "Beachum + Pickering + Heavener + 2026 WCWS Finalists. Texas Tech's 2027 roster is on paper the most complete in college softball. They haven't played a game together yet. 🥎 #Softball #SoftballRecruiting",
+        "posting_time": "3:30 PM ET"
+      },
+      "article": {
+        "filename": "article-04-texas-tech-2027-roster-preview.html",
+        "headline": "Texas Tech 2027: What the Full Roster Looks Like — and What It Would Take to Win It All",
+        "word_count": 521
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas Tech 2027\n\n### Image 9 — Social Post (1080x1350)\n- search_term: \"Texas Tech softball player batter\"\n- usage: social post — Story 4 (TTU 2027 roster preview)\n- dimensions: 1080x1350\n- overlay_text: \"TEXAS TECH 2027 | BEACHUM + PICKERING + HEAVENER | WCWS FINALISTS + No. 1 TRANSFER CLASS\"\n- status: not_started\n\n### Image 10 — Article Hero (1200x630)\n- search_term: \"Texas Tech softball team dugout\"\n- usage: article hero — article-04\n- dimensions: 1200x630\n- status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Texas Tech 2027 Roster\n(All figures previously verified HIGH confidence in prior pipelines)\n- Jaysoni Beachum (from FSU): .406 BA, 10 HR, 69 RBI; 2024 NFCA Freshman of the Year; 2026 2nd-Team All-American\n- Kasidi Pickering (from OU): .384 career BA, 50 HR, 169 RBI in 186 games; 2026: .370/20 HR/61 RBI; 2024 national champion, WCWS All-Tournament\n- Jayden Heavener (from LSU): 13-9, 2.81 ERA in 2026; 2 years eligibility remaining\n- Texas Tech reached 2026 WCWS Finals\n- Ranked No. 1 transfer class",
+        "sources": "- Source: Prior pipeline (all HIGH from Aug 1-5 pipelines)"
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "USA WNT's Next Challenge — WBSC World Cup Group C Qualifier in Oklahoma City",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "USA Softball won International Cup gold on August 3.\n\nNext stop: the WBSC World Cup Group C qualifier — September 12 in Oklahoma City.\n\nSame venue. Same USA WNT.\n\n37 days to the next one. 🥎🇺🇸\n\n#USASoftball #Softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#USASoftball",
+            "#Softball"
+          ],
+          "char_count": 215
+        }
+      ],
+      "facebook": {
+        "long_form": "🥎 **USA SOFTBALL WON THE INTERNATIONAL CUP. HERE'S WHAT'S NEXT.**\n\nThree days ago, Montana Fouts carried a no-hitter into the seventh inning of the International Cup gold medal game and beat Japan 2-0 at Devon Park in Oklahoma City. USA WNT claimed gold.\n\nThe next milestone on the calendar: the WBSC Softball Women's World Cup Group C qualifier — September 12-16, 2026 — in Oklahoma City. Same venue. Same national team program. Different tournament, with World Cup qualification on the line.\n\nWinning the International Cup was the summer showcase. The World Cup qualifier is the pathway. USA softball's international calendar doesn't stop after one gold medal. For a team with 2028 Olympic ambitions, every tournament between now and Los Angeles is meaningful — and the Group C qualifier is 37 days away.\n\nThe WNT has won the gold. Now they go earn what comes next.\n\n---",
+        "image_caption": "USA WNT won International Cup gold August 3. Next: WBSC World Cup Group C qualifier in Oklahoma City, September 12. The road to 2028 keeps going. 🥎🇺🇸 #USASoftball #Softball",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-usa-wnt-road-ahead-world-cup-qualifier.html",
+        "headline": "USA Softball Won the International Cup. Now the World Cup Qualifier Is 37 Days Away.",
+        "word_count": 497
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "USA WNT World Cup Qualifier\n\n### Image 11 — Social Post (1080x1350)\n- search_term: \"USA softball women national team players\"\n- usage: social post — Story 5 (USA WNT qualifier)\n- dimensions: 1080x1350\n- overlay_text: \"USA SOFTBALL WNT | NEXT: WBSC WORLD CUP GROUP C QUALIFIER | SEPT 12 OKLAHOMA CITY\"\n- status: not_started\n\n### Image 12 — Article Hero (1200x630)\n- search_term: \"USA softball national team pitch\"\n- usage: article hero — article-05\n- dimensions: 1200x630\n- status: not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "USA WNT World Cup Qualifier\n- WBSC Softball Women's World Cup Group C Qualifier: September 12-16, 2026 in Oklahoma City\n- Same location: Devon Park OKC (same venue as International Cup)\n- USA WNT won International Cup gold Aug 3 over Japan (Montana Fouts near-perfect)\n- Qualifier feeds into 2027 World Cup / 2028 Olympics path\n- 37 days from August 6 to September 12",
+        "sources": "- Source: WBSC website via prior pipeline research (MEDIUM confidence — event details from Aug 4 pipeline follow-up list)\n### Confidence Summary\n| Claim | Level |\n|-------|-------|\n| LLSWS Day 4 scores (9-1 and 11-0) | HIGH — multiple sources |\n| Madison Locke 12K performance | HIGH — multiple sources |\n| AUSL Pro Game result (Watley 6-2) | MEDIUM-HIGH — multiple summaries |\n| Devyn Netz 2 HRs | LOW — single summary, not used |\n| AUSL All-Star Cup details | HIGH — AUSL official |\n| Sept 1 mechanics | HIGH |\n| Record 1,226 nominations | MEDIUM — EIS via search summary |\n| TTU roster figures | HIGH — prior pipeline |\n| WBSC qualifier details | MEDIUM |"
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

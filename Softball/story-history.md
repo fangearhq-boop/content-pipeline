@@ -3,6 +3,63 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-08-06
+
+### Story 1: LLSWS Day 4 Results + Day 5 Today — The Unbeaten Showdown
+- **Date:** 2026-08-06
+- **Tier:** 1
+- **Classification:** FOLLOW UP (LLSWS tracked Aug 1-5; Day 4 results Aug 5 confirmed; Day 5 features undefeated matchup Lake Mary FL vs Clayton NC)
+- **Angle:** Day 4 at Stallings Stadium: Washington 9, Canada 1 (Madison Locke 6IP/12K); Mid-Atlantic 11, Japan 0 (avenges opening-day 4-1 loss). Today: Lake Mary FL (29-0 in 2 games) vs. Clayton NC (2-0 host team) at 1 PM ET on ESPN — the first meeting of two unbeaten teams in 2026 tournament. Game 16: Latin America vs. Game 8 winner at 5 PM ET.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - LLSWS Day 5 results (Aug 7 coverage)
+  - Lake Mary FL vs Clayton NC — undefeated run story
+  - Tournament champion path from here
+
+### Story 2: Team Watley Wins AUSL Pro Game 6-2 / All-Star Cup Preview
+- **Date:** 2026-08-06
+- **Tier:** 2
+- **Classification:** FOLLOW UP (AUSL Pro Game previewed Aug 5; result now confirmed)
+- **Angle:** Team Watley 6, Team Fernandez 2 on Aug 5 at 7 PM ET ESPN2 at Stallings Stadium. Box score: Watley 7H 1E; Fernandez 5H 3E. AUSL players had spent Tue–Wed at LLSWS before the exhibition. AUSL All-Star Cup starts Saturday Aug 8 in Rosemont IL — 45 players, 12 games on ESPN/MLB Network/CBS Sports Network through Aug 30.
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - AUSL All-Star Cup results/coverage (Aug 8-30)
+  - Day 1 All-Star Cup recap Aug 9
+
+### Story 3: September 1 Recruiting Window — 26 Days / Record Class of 2028
+- **Date:** 2026-08-06
+- **Tier:** 2
+- **Classification:** FOLLOW UP (countdown covered Aug 3-5; new angle: record 1,226 Class of 2028 nominations by Extra Inning Softball — most in their history)
+- **Angle:** September 1 is 26 days away. Extra Inning Softball has received 1,226 nominations for the Class of 2028 — the most in their company's history. Coaches finalizing who to call first. First D1 direct contact is September 1, 2026 (a Wednesday).
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - September 1 day-of coverage
+  - First-wave commit announcements
+
+### Story 4: Texas Tech 2027 — Full Roster Preview
+- **Date:** 2026-08-06
+- **Tier:** 2
+- **Classification:** FOLLOW UP (TTU portal covered Aug 1-5 player-by-player; today's angle = full roster picture + fall camp context)
+- **Angle:** Beachum (.406/10HR/69RBI FSU) + Pickering (.384 career/50HR/169RBI OU) + Heavener (13-9/2.81 ERA LSU, 2yr eligibility) onto 2026 WCWS Finals roster = most complete paper roster in college softball. Fall camp weeks away. No games together yet.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Texas Tech fall camp/first games
+  - September commit additions
+  - 2027 season preview
+
+### Story 5: USA WNT Road Ahead — WBSC World Cup Group C Qualifier Sept 12
+- **Date:** 2026-08-06
+- **Tier:** 3
+- **Classification:** NEW (World Cup qualifier angle not previously covered; logical follow-up to International Cup gold Aug 3)
+- **Angle:** USA WNT won International Cup gold Aug 3 (Fouts near-perfect over Japan). Next milestone: WBSC Softball Women's World Cup Group C qualifier Sept 12-16 in Oklahoma City at Devon Park — same venue. World Cup qualification + 2028 Olympics path. 37 days away.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - WBSC qualifier field/roster announcement
+  - Sept 12 day-of coverage
+  - Asian Games Sept 26 (Philippines, Japan as host)
+
+---
+
 ## 2026-08-05
 
 ### Story 1: LLSWS Day 3 Results + AUSL Pro Game Tonight at 7 PM ET
