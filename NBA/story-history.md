@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-08-06
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-08-06 | T1 | Kawhi Leonard Investigation — Could Drag Into 2027, Trade Still Frozen | X, FB, Article | FOLLOW UP |
+| 2026-08-06 | T1 | LeBron and Maxey — 5 AM Workouts Reveal a Partnership Built on Sweat | X, FB, Article | FOLLOW UP |
+| 2026-08-06 | T2 | NBA 2026-27 Schedule Expected Thursday, August 13 | X, FB, Article | NEW |
+| 2026-08-06 | T2 | Curry Extension Window Opens August 29 — Mutual Interest Confirmed | X, FB, Article | FOLLOW UP |
+| 2026-08-06 | T2 | Dillon Brooks Signs 3-Year, $73M Extension with Phoenix Suns | X, FB, Article | NEW |
+
+### STORY 1: Kawhi Leonard Investigation — Could Drag Into 2027, Trade Still Frozen
+- **Tier:** 1
+- **Category:** NBA Investigation / Kawhi Leonard / Los Angeles Clippers / Toronto Raptors
+- **Key facts:** ESPN reports investigation could extend into 2027 if no settlement; neutral CBA arbitrator has no hard deadline; NBPA ready to arbitrate; Raptors trade frozen after NBA said Toronto assumes full liability; Sanberg sentenced 14 years; Kawhi $50.3M salary; Clippers deny wrongdoing; penalties include void contract / suspension / $7.5M fine / draft picks
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Settlement announcement; arbitration filing; training camp status update
+
+### STORY 2: LeBron and Maxey — 5 AM Workouts
+- **Tier:** 1
+- **Category:** NBA Offseason / Philadelphia 76ers / LeBron James / Tyrese Maxey
+- **Key facts:** LeBron (41) and Maxey conducting 5 AM pre-dawn workouts; LeBron quote: "Every morning, 5 a.m., we're in the gym…and you just see his dedication"; Embiid confirmed healthy by coaching staff; 5 combined MVP awards in projected starting five (LeBron/Embiid/Brown/Maxey/Edgecombe); preseason debut projected Oct 8 at Brooklyn; training camp late September
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Training camp open; first practice; season opener
+
+### STORY 3: NBA Schedule Expected August 13
+- **Tier:** 2
+- **Category:** NBA / 2026-27 Season
+- **Key facts:** Marc Stein: schedule "on course to be announced next week"; likely Thursday Aug 13 (historical pattern); Knicks banner night Oct 20 MSG; LeBron 76ers opener expected marquee; 6 new head coaches; LeBron's decision cleared path for schedule release
+- **Status:** NEW
+- **Follow-up ideas:** Schedule release day coverage; opening night preview
+
+### STORY 4: Curry Extension Window Opens August 29
+- **Tier:** 2
+- **Category:** NBA Contracts / Golden State Warriors / Stephen Curry
+- **Key facts:** Aug 29 eligibility date (not Aug 6); 2yr/$136.7M expected (~$68.35M/yr); Curry's current deal: $62.6M in 2026-27; "mutual interest" per ESPN Slater; Curry wants career end in GSW; Draymond 1yr/$27.7M; GP2 1yr/$3.9M; LeBron chose Philly not Warriors; Windhorst floated 1-year deal idea (unconfirmed)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official signing announcement Aug 29+; training camp
+
+### STORY 5: Dillon Brooks 3yr/$73M Suns Extension
+- **Tier:** 2
+- **Category:** NBA Contracts / Phoenix Suns
+- **Key facts:** 3-year, $73M extension (~$24.3M/yr); veteran defensive wing; Suns building defensive identity for 2026-27; deal confirmed Aug 5-6 per transaction reports (MEDIUM confidence)
+- **Status:** NEW
+- **Follow-up ideas:** Suns full roster preview; training camp
+
 ## 2026-08-03
 
 | Date | Tier | Story | Platforms | Status |
