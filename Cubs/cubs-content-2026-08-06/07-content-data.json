@@ -1,0 +1,255 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-06",
+  "compiled_at": "2026-08-06T09:27:34.044137+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Story 1 — Series Preview (Blue Jays at Wrigley, 1-game series)",
+      "type": "Preview"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Story 2 — Cubs Sweep Dodgers / PCA Historic 25/25 Milestone",
+      "type": "Passionate/Informative"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 3 — PCA MVP Stat Breakdown (7.0 fWAR, 22 OAA, Era record)",
+      "type": "Analytical"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "Story 4 — Cardinals Collapse Rival Watch",
+      "type": "Humor/Rival"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 5 — Pre-Game Hype (Peterson vs Cease, 1:20 PM CT)",
+      "type": "Bold/Hype"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Story 6 — Gausman Activated, Cubs Debut Friday at KC",
+      "type": "Informative"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Story 7 — Prospect Pipeline (Ayers, Wiggins, Bowser)",
+      "type": "Informative"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Series Preview — Blue Jays at Wrigley, 1:20 PM CT",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Single-game interleague series at Wrigley Field. David Peterson vs. Dylan Cease, the $210M arm Toronto locked up this offseason. Cubs (66-49) vs. Blue Jays (54-61). Series-start protocol reserves this slot. Lead with matchup/location/length; pitcher stakes as kicker.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Blue Jays at Wrigley. 1-game series. 1:20 PM CT.\n\nDavid Peterson vs. Dylan Cease — the $210M arm Toronto locked up in the offseason. Cubs are 66-49. Blue Jays are 54-61.\n\nFriendly Confines > a fat contract.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Preview / informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Cubs Sweep Dodgers — PCA Makes History",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Cubs swept the Dodgers (Aug 3-5). PCA went 3-for-5, 2 HR, 4 RBI in the series clincher. Milestone: first Cubs player ever with consecutive 25 HR/25 SB seasons. Hoerner 3 hits. Ohtani homered twice but Cubs won. Dodgers now on 6-game losing streak, swept in back-to-back series. Cubs 32-15 since June 11. NO score in tweet per has_score=False insight.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Pete Crow-Armstrong did something no Cub has ever done — back-to-back 25 HR/25 SB seasons.\n\nHe went 3-for-5 with two homers and four RBI to cap the sweep of Ohtani and the Dodgers.\n\nThe MVP race has a new frontrunner.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Passionate / informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 241
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "PCA MVP Case — Stat Breakdown",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Deep dive on PCA's season line: .288 BA, 26 HR, 28 SB, 7.0+ fWAR (No. 1 MLB position players). OAA 22 (No. 1 MLB). 33 Statcast five-star catches (Era record). Ohtani limited to DH. PCA is the clear NL MVP frontrunner.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "PCA through August 5: .288 BA, 26 HR, 28 SB, 7.0 fWAR — No. 1 among all MLB position players.\n\nAlso No. 1 in the league in Outs Above Average (22). His 33 Statcast five-star catches set a new Era record.\n\nThis isn't a hot streak. It's a level change.\n\n#Cubs #ChicagoCubs #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Analytical / stat breakdown",
+          "hashtags": [
+            "#Cubs",
+            "#ChicagoCubs",
+            "#MLB"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Cardinals Free-Fall — Rival Watch",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Cardinals at 54-57, 15th in NL WC — functionally eliminated. Cubs at 66-49, No. 1 NL Wild Card. Sharp rival jab angle: summer is over for St. Louis.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Cardinals update: 54-57. 15th in NL Wild Card standings.\n\nThey've been functionally eliminated from the playoff picture for weeks.\n\nMeanwhile, the Cubs sit at 66-49 — No. 1 NL Wild Card — and are just getting started.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Humor / rival watch",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Pre-Game Hype — Peterson vs Cease at Wrigley",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Single game at Wrigley, 1:20 PM CT. Cubs (66-49) vs Blue Jays (54-61). David Peterson vs Dylan Cease (7yr/$210M). Only one of these teams is actually in the playoff race. Wrigley factor bold take.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "One game. Wrigley Field. 1:20 PM CT.\n\nCubs (66-49) host the Blue Jays (54-61) — only one of these teams is in the playoff race.\n\nDylan Cease is good. David Peterson and 40,000 Wrigley faithful are better.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Bold / hype",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 228
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Kevin Gausman — Cubs Debut Friday",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Gausman officially activated Aug 5 (from deadline trade with Blue Jays). Antoine Kelly optioned. Cubs debut Friday at Kansas City Royals. Adds veteran arm to rotation behind Imanaga.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Kevin Gausman is officially a Cub — and he makes his debut FRIDAY in Kansas City.\n\nThe 35-year-old deadline pickup gives Chicago a proven veteran arm behind Imanaga at the top of the rotation.\n\nThe Cubs aren't done building.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Informative / roster",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "Prospect Pipeline — Ayers, Wiggins, Bowser",
+      "tier": 3,
+      "status": "NEW STORY",
+      "angle": "Owen Ayers promoted to Triple-A Iowa (power-hitting catcher). Jaxon Wiggins working through command issues at Iowa (Aug 4 rough outing) but stuff is elite (97-98 mph, 19+ IVB). Drew Bowser hit first career grand slam with Knoxville Smokies.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Farm report: Owen Ayers promoted to Triple-A Iowa — the power-hitting catcher is one step from the Show.\n\nJaxon Wiggins is still ironing out command issues at Iowa, but the stuff is ELECTRIC. That fastball's going to be a problem for the NL someday.\n\n#Cubs #CubsBaseball #GoCubs",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Informative / prospect",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#GoCubs"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

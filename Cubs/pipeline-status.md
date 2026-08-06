@@ -1,53 +1,51 @@
-# Cubs Pipeline Status — Updated 2026-08-05
+# Cubs Pipeline Status — Updated 2026-08-06
 
 ## Latest Run
-- **Date:** 2026-08-05 (Wednesday)
+- **Date:** 2026-08-06 (Thursday)
 - **Run time:** ~09:00 UTC
 - **Stories:** 7
 - **X posts:** 7
 - **Platforms:** X/Twitter only
 - **Status:** ✅ Complete
 
-## Insights Summary (2026-08-05)
-- **Snapshot generated:** 2026-08-05T08:30:00Z (fresh)
-- **Significant findings (2):**
-  1. `has_score=False` beats `has_score=True` — medium effect (δ=0.343, p=0.001)
-     - Winner median impressions: 157 (n=68, no score) vs 98 (n=53, with score)
-     - **Applied:** Zero tweets include any game score. Recap leads with "Dansby Swanson took Skubal's first pitch of the third and drove it to left-center" — narrative-first, no scoreline.
-  2. `opening=allcaps_lead` loser vs `not_allcaps_lead` winner — small-medium effect (δ=0.303, p=0.046)
-     - Winner median: 133 (not caps) vs 92 (caps)
-     - **Applied:** No tweet opens with ALL CAPS text. Brand voice's "1-2 words in ALL CAPS for emphasis" retained only in mid-tweet position, not as opening.
-- Both findings applied. No other significant findings.
+## Insights Summary (2026-08-06)
+- **Snapshot generated:** 2026-08-06T08:30:00Z (fresh)
+- **Significant findings (1):**
+  1. `has_score=False` beats `has_score=True` — medium effect (δ=medium, p=0.0006)
+     - n_winner=34 (no score), n_loser=24 (with score)
+     - **Applied:** Zero tweets include any game score. Recap of Cubs sweep leads with PCA's historic 25/25 milestone rather than the "7-6" scoreline. All 7 tweets confirmed score-free.
+- No other significant findings. `not_allcaps_lead` finding from Aug 5 did not clear significance threshold today — not applied (fallback to brand voice, which limits ALL CAPS to 1-2 words mid-tweet anyway).
 
-## Series Context (2026-08-05)
-- `is_series_start_today`: FALSE (mid-series, game 3 of 3 vs Dodgers)
+## Series Context (2026-08-06)
+- `is_series_start_today`: TRUE — mandatory 7:00 AM series preview slot
 - `off_day`: false
-- Game 3 today: Imanaga vs Lauer, 1:20 PM CT at Wrigley Field
-- Cubs lead series 2-0, going for sweep
-- Dodgers on 5-game losing streak heading into today
-- No mandatory series-preview slot
+- Single-game series: Cubs vs Toronto Blue Jays, 1:20 PM CT at Wrigley Field
+- Cubs (66-49) vs Blue Jays (54-61)
+- David Peterson (6-7, 5.52 ERA) vs Dylan Cease (7-5, 2.41 ERA, $210M Blue Jays ace)
+- 7:00 AM slot reserved for series preview per protocol
 
 ## Today's Content
 | Slot | Story | Tier |
 |------|-------|------|
-| 7:00 AM CT | Game 2 Recap — Swanson HR, Assad holds Dodgers, Skubal debut spoiled | 1 |
-| 8:15 AM CT | Series sweep in reach — Dodgers 0-2, 5-game skid | 1 |
-| 9:30 AM CT | Imanaga hot streak — 1.77 ERA in last 6 starts | 2 |
-| 10:45 AM CT | PCA MVP — 7.3 fWAR, leads all MLB position players | 2 |
-| 12:00 PM CT | Pre-game hype — Sweep attempt, 1:20 PM CT | 1 |
-| 2:30 PM CT | Palencia to 15-day IL (elbow inflammation) | 2 |
-| 3:45 PM CT | Cardinals free-fall — 54-57, 15th in NL WC | 2 |
+| 7:00 AM CT | Series Preview — Blue Jays at Wrigley (1-game series, 1:20 PM CT) | 1 |
+| 8:15 AM CT | Cubs Sweep Dodgers — PCA makes history (consecutive 25/25 seasons) | 1 |
+| 9:30 AM CT | PCA MVP Stat Breakdown (.288, 26 HR, 28 SB, 7.0 fWAR, 22 OAA) | 2 |
+| 10:45 AM CT | Cardinals Free-Fall (54-57, 15th in NL WC, functionally eliminated) | 2 |
+| 12:00 PM CT | Pre-Game Hype — Peterson vs Cease (1:20 PM CT) | 1 |
+| 2:30 PM CT | Gausman Activated — Cubs Debut Friday at KC Royals | 2 |
+| 3:45 PM CT | Prospect Pipeline (Ayers promoted to Iowa; Wiggins command; Bowser slam) | 3 |
 
 ## Pipeline Health
-- JSON compiled: ✓ 07-content-data.json valid
+- JSON compiled: ✓ 07-content-data.json valid (schema 2.0, 0 errors, 0 warnings)
 - Review dashboard: ✓ Generated locally
 - Dashboard push: ⚠ Skipped (content-dashboards repo not in session scope)
-- Fact-check: ✓ All compound claims cross-referenced
-- Palencia IL flag: ⚠ Timing unverified vs. official MLB transaction log — high confidence based on FanGraphs injury report + Aug 4 recall context
+- Fact-check: ✓ All compound claims cross-referenced; 1 flagged as PLAUSIBLE (PCA OBP/SLG post-game; used pre-game stats, directionally accurate)
+- Insights applied: ✓ has_score=False enforced across all 7 tweets
 
 ## Prior Runs (recent)
 | Date | Stories | X Posts | Notes |
 |------|---------|---------|-------|
+| 2026-08-05 | 7 | 7 | Dodgers sweep game 3; Imanaga wins; 2 insights applied |
 | 2026-08-04 | 6 | 6 | Assad vs Skubal night game; 1 insight applied |
 | 2026-08-03 | 6 | 6 | Series opener vs Dodgers; Boyd 7-1 |
 | 2026-08-02 | 5 | 5 | Deadline day; Gausman announced |

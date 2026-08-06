@@ -5245,3 +5245,62 @@ Each day's stories are appended at the top (newest first).
 - **Follow-Up Opportunities:**
   - Cardinals mathematical elimination from wild card
 
+
+---
+
+## 2026-08-06
+
+### STORY 1: Series Preview — Blue Jays at Wrigley, 1:20 PM CT
+- **Angle:** NEW STORY (is_series_start_today=true; single-game series; David Peterson vs Dylan Cease ($210M Blue Jays ace); Cubs 66-49 vs Blue Jays 54-61; 1:20 PM CT at Wrigley)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, series preview)
+- **Follow-Up Opportunities:**
+  - Game result (recap tomorrow morning)
+  - Cease vs Cubs outcome angle
+
+### STORY 2: Cubs Sweep Dodgers — PCA Makes History
+- **Angle:** NEW STORY (Cubs 7, Dodgers 6 on Aug 5; PCA 3-for-5, 2 HR, 4 RBI; first Cubs player with consecutive 25 HR/25 SB seasons; Hoerner 3 hits; Dodgers on 6-game losing streak; Cubs 32-15 since June 11; NO score in tweet per has_score=False insight)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - PCA HR total approaching 30
+  - Dodgers losing streak extension
+
+### STORY 3: PCA MVP Case — Stat Breakdown
+- **Angle:** FOLLOW UP (PCA MVP arc; consecutive 25/25 milestone; .288/.384/.535, 26 HR, 28 SB, 7.0 fWAR leads all MLB position players; 22 OAA leads MLB; 33 Statcast five-star catches = Era record; Ohtani limited to DH)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, stat breakdown)
+- **Follow-Up Opportunities:**
+  - PCA milestone HR (approaching 30)
+  - September MVP ballot watch
+
+### STORY 4: Cardinals Free-Fall — Rival Watch
+- **Angle:** FOLLOW UP (Cardinals at 54-57, 15th in NL Wild Card — functionally eliminated; Cubs at 66-49 No. 1 NL WC)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, humor / rival watch)
+- **Follow-Up Opportunities:**
+  - Cardinals mathematical elimination from wild card
+
+### STORY 5: Pre-Game Hype — Peterson vs Cease at Wrigley
+- **Angle:** NEW STORY (single-game 1:20 PM CT; Cubs (66-49) vs Blue Jays (54-61); Peterson (6-7, 5.52 ERA) vs Cease (7-5, 2.41 ERA, $210M); Wrigley factor bold take)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, pre-game hype)
+- **Follow-Up Opportunities:**
+  - Game result recap (tomorrow morning)
+  - Peterson performance angle
+
+### STORY 6: Kevin Gausman — Cubs Debut Friday at KC
+- **Angle:** NEW STORY (Gausman officially activated Aug 5 from deadline trade; debut Friday at Kansas City Royals; Antoine Kelly optioned; rotation depth narrative)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, informative / roster)
+- **Follow-Up Opportunities:**
+  - Gausman debut performance Friday
+  - Full rotation order with Gausman slotted in
+
+### STORY 7: Prospect Pipeline — Ayers, Wiggins, Bowser
+- **Angle:** NEW STORY (Owen Ayers promoted to Iowa; Jaxon Wiggins command issues continue at Iowa but elite stuff; Drew Bowser first grand slam with Knoxville Smokies)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, informative / prospect)
+- **Follow-Up Opportunities:**
+  - Wiggins command improvements / call-up timeline
+  - Ayers performance at Iowa level
