@@ -1,42 +1,42 @@
 {
-  "generated_at": "2026-08-05T08:30:00.601267+00:00",
-  "today_ct": "2026-08-05",
+  "generated_at": "2026-08-06T08:30:00.789785+00:00",
+  "today_ct": "2026-08-06",
   "off_day": false,
-  "is_series_start_today": false,
+  "is_series_start_today": true,
   "series": {
-    "opponent": "Los Angeles Dodgers",
-    "opponent_id": 119,
-    "opponent_record": "69-45",
-    "cubs_record": "65-49",
+    "opponent": "Toronto Blue Jays",
+    "opponent_id": 141,
+    "opponent_record": "54-61",
+    "cubs_record": "66-49",
     "is_cubs_home": true,
     "venue": "Wrigley Field",
     "series_length": 1,
     "games": [
       {
-        "game_pk": "824646",
-        "game_date_iso": "2026-08-05T18:20:00Z",
-        "game_date_ct": "Wed 1:20 PM CT",
+        "game_pk": "824664",
+        "game_date_iso": "2026-08-06T18:20:00Z",
+        "game_date_ct": "Thu 1:20 PM CT",
         "cubs_probable": "TBD",
         "opponent_probable": "TBD",
         "status": "Preview"
       }
     ],
-    "rationale": "Same opponent (Los Angeles Dodgers) as yesterday \u2014 this is mid-series, not a series opener."
+    "rationale": "Yesterday vs Los Angeles Dodgers; today vs Toronto Blue Jays \u2192 game 1 of 1 (home)."
   },
   "today_cubs_game": {
-    "game_pk": "824646",
+    "game_pk": "824664",
     "status": "Preview",
     "detailed_status": "Scheduled",
-    "game_date_iso": "2026-08-05T18:20:00Z",
-    "game_date_ct": "Wed 1:20 PM CT",
+    "game_date_iso": "2026-08-06T18:20:00Z",
+    "game_date_ct": "Thu 1:20 PM CT",
     "is_cubs_home": true,
-    "opponent_id": 119,
-    "opponent_name": "Los Angeles Dodgers",
-    "opponent_record": "69-45",
-    "cubs_record": "65-49",
+    "opponent_id": 141,
+    "opponent_name": "Toronto Blue Jays",
+    "opponent_record": "54-61",
+    "cubs_record": "66-49",
     "cubs_probable": "TBD",
     "opponent_probable": "TBD",
     "venue": "Wrigley Field"
   },
-  "rationale": "Same opponent (Los Angeles Dodgers) as yesterday \u2014 this is mid-series, not a series opener."
+  "rationale": "Yesterday vs Los Angeles Dodgers; today vs Toronto Blue Jays \u2192 game 1 of 1 (home)."
 }
