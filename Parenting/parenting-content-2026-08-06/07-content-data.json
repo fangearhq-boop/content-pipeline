@@ -1,0 +1,312 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-06",
+  "compiled_at": "2026-08-06T12:52:46.582331+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "D11 Board Votes YES — $775M Bond Headed to November Ballot",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "D11 board voted YES last night. The $775M bond is headed to November voters. Every school gets repairs — buildings averaging 58 years old, $422M in deferred maintenance. First day: August 12. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 251
+        },
+        {
+          "label": "Post 1-2",
+          "text": "COS D11 voters will decide on a $775M bond in November. The measure funds school repairs and frees money for teacher pay — about $6.50/month per $100K of home value. What do you think? #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-d11-bond-vote-approved-november-ballot.html",
+        "headline": "D11 Board Votes Yes on $775M Bond — Colorado Springs Voters Decide in November",
+        "word_count": 483
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D11 Bond Vote Approved\n\n**Image Concept 1 — Social (1080x1350)**\n- **Mode:** base_only\n- **Prompt:** A clean, well-lit Colorado public school hallway in warm morning light. Lockers lining the walls, sunlight streaming through large windows onto a polished floor. The scene feels hopeful and slightly vintage — a building that has character but shows its age. Soft beige and amber tones. No people. No text. Clean bottom third for text overlay. Style: editorial photography aesthetic, warm light, slightly nostalgic.\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Mode:** base_only\n- **Prompt:** A wide-angle view of a Colorado school exterior on a clear summer morning — brick facade, mountains faintly visible in the distance, a flagpole, blue sky. The building looks established but aged. No people. No text. Horizontal composition with open space in the lower third. Style: journalistic, natural light, warm daylight.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D11 Bond Vote Approved\n**Verified Facts (HIGH confidence):**\n- D11 Board of Education voted Wednesday night August 5, 2026 to approve ballot language — Gazette, KKTV\n- $775 million bond measure — Gazette (Aug 5 article)\n- Will appear on November 2026 coordinated election ballot — Gazette, KOAA\n- Funding addresses repairs at every D11 school — d11.org bond FAQ\n- Average building age: 58 years — confirmed from prior pipeline (Aug 5, sourced from d11.org)\n- Deferred maintenance backlog: $422 million — confirmed from prior pipeline (Aug 5)\n- Annual capital budget: approximately $17 million — confirmed from prior pipeline (Aug 5)\n- Estimated tax impact: approximately $6.50/month per $100,000 of property value — confirmed from prior pipeline (Aug 5)\n- D11 first day of school: August 12, 2026 — springsdaily.com\n**Sources:** gazette.com, kktv.com, koaa.com, d11.org, springsdaily.com",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "D11 First Day Aug 12 — Free Edukit Supplies Delivered to 14,000+ K-8 Students",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "D11 families: no supply shopping needed. More than 14,000 K-8 students get free, grade-specific kits delivered on first day, August 12. Check teacher's list too — but the basics are covered. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-d11-edukit-school-supplies-august-12.html",
+        "headline": "D11 First Day August 12: Free School Supply Kits for 14,000+ K-8 Students",
+        "word_count": 414
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D11 Edukit School Supplies\n\n**Image Concept 1 — Social (1080x1350)**\n- **Mode:** base_only\n- **Prompt:** A neatly arranged set of school supplies — pencils, crayons, a ruler, erasers, notebooks — laid out on a clean white surface. Warm natural light from the side. Bright, cheerful colors. No branding or logos visible. No people. Clean bottom third for text overlay. Style: flat lay product photography, bright and clean.\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Mode:** base_only\n- **Prompt:** A child's school desk with a small box of grade-appropriate supplies — pencils, a notebook, crayons — arranged neatly. A sunny classroom window in the background, slightly soft-focused. No child visible, just the desk and supplies. Warm morning light. Horizontal composition. Style: editorial, natural light.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D11 Edukit School Supplies\n**Verified Facts (HIGH confidence):**\n- D11 partnering with Edukit — Springs Daily article\n- Free, grade-specific school supply kits — Springs Daily\n- Delivered directly to 14,000+ K-8 students — Springs Daily (\"more than 14,000 K-8 students\")\n- Delivered on first day of school, August 12 — Springs Daily\n- Parents do not need to shop or order — Springs Daily\n- Does not replace teacher's specific supply list — Springs Daily\n- Significantly reduces back-to-school shopping burden — Springs Daily\n**MEDIUM confidence:**\n- Specific Edukit company details — not independently verified on a second source\n**Sources:** springsdaily.com (\"COS School Start Dates Updated\" article)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "D20 First Day Moved to August 17-18 — What COS Families Need to Know",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "D20 families: the first day of school is NOT August 13. Updated dates — PreK/K/6th/9th start Monday, Aug 17. All other students start Tuesday, Aug 18. Save this. D49 is already back. D11 starts Aug 12. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-d20-start-dates-cos-back-to-school-guide.html",
+        "headline": "D20 First Day Is August 17-18, Not August 13 — Complete COS Back-to-School Date Guide",
+        "word_count": 472
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D20 Start Dates\n\n**Image Concept 1 — Social (1080x1350)**\n- **Mode:** base_only\n- **Prompt:** A cheerful August calendar with back-to-school themed elements — a small pencil, a star sticker, school bus icon — on a clean light-colored background. No specific dates marked or legible. Bright, clean, summery palette. No people. Clean bottom third. Style: flat lay lifestyle, graphic but warm.\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Mode:** base_only\n- **Prompt:** A Colorado neighborhood street on a clear August morning — sidewalk, green trees, a suburban school zone sign in the background. Feels like the last weeks of summer transitioning to the school year. No people. Horizontal frame. Style: editorial, warm natural light.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D20 School Start Dates\n**Verified Facts (HIGH confidence):**\n- D20 preschool, K, 6th grade, 9th grade: August 17 (Monday) — Springs Daily\n- D20 all other students: August 18 (Tuesday) — Springs Daily\n- Previous reports had said August 13 — Springs Daily headline confirms date changed\n- D49 started: August 3 (K, 6th, 9th) and August 4 (all others) — confirmed from Parenting pipeline Aug 3\n- D11 starts: August 12 — confirmed above\n**Sources:** springsdaily.com",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "GOPO Toys Teething Toy Recall — 70,000 Units Pulled for Choking Hazard",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Recall alert: 70,000 GOPO Toys teething toys recalled. Silicone strings too long — 3 reports of choking. Sold on Amazon, Aug 2023–Mar 2026. Stop use, cut all strings, email for full refund. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-gopo-toys-teething-recall-70000-units.html",
+        "headline": "GOPO Toys Pull String Teething Toy Recall: 70,000 Units, Choking Risk, Full Refund Available",
+        "word_count": 537
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "GOPO Toys Teething Recall\n\n**Image Concept 1 — Social (1080x1350)**\n- **Mode:** base_only\n- **Prompt:** A close-up of a generic silicone teething toy on a clean white surface — a soft, disc-shaped toy with colorful pull strings. No brand logos or markings. The image feels clinical and informational — like a product safety photo. Clean light, slightly overhead angle. No people. Clean bottom third for text overlay: \"RECALL ALERT\". Style: product safety documentation aesthetic, clean and factual.\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Mode:** base_only\n- **Prompt:** An assortment of silicone baby teething toys arranged on a soft white background. Generic — no branding. Clean, evenly lit product shot. No people. Horizontal composition. Style: product safety documentation, clean studio light.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "GOPO Toys Teething Recall\n**Verified Facts (HIGH confidence):**\n- CPSC recall announced June 19, 2026 — CPSC Twitter / CPSC.gov\n- Product: GOPO Toys Pull String Teething Toys\n- Units recalled: approximately 70,000 — Fox Business, Yahoo News, CPSC.gov\n- Hazard: silicone strings smaller and longer than permitted by mandatory toy safety standards — CPSC.gov\n- Three reported incidents: strings reached back of child's throat, causing choking or respiratory distress — CPSC.gov\n- Sold on Amazon.com from August 2023 through March 2026 — CPSC.gov\n- Price: $11 to $15 — CPSC.gov\n- Description: off-white disc with grey ball center, six pull-string \"tentacles,\" seven push buttons — CPSC.gov\n- Remedy: stop use, cut all silicone strings, write \"DESTROYED,\" photograph, email to recalls@gopotoys.com for full refund — CPSC.gov\n**Sources:** cpsc.gov, foxbusiness.com, yahoo.com/news, livenowfox.com",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Colorado Farm & Art Market — Free Family Activity Every Wednesday in COS",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Free every Wednesday through October 9: Colorado Farm & Art Market at Alamo Square Park, 3–7 PM. Local produce, artisan goods, family-friendly. A great after-school outing now that D49 is back and D11 starts next week. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-colorado-farm-art-market-alamo-square.html",
+        "headline": "Colorado Farm & Art Market: Free Wednesday Family Activity at Alamo Square Park Through October",
+        "word_count": 498
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Colorado Farm & Art Market\n\n**Image Concept 1 — Social (1080x1350)**\n- **Mode:** base_only\n- **Prompt:** An outdoor farmers market scene in a Colorado setting — bright summer day, tables covered in fresh produce and artisan goods, mountains visible in the background. Wide view of the market space. Diverse community energy visible but no specific faces identifiable. Warm afternoon light. Clean bottom third for text overlay. Style: editorial lifestyle photography, warm golden light, vibrant produce colors.\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Mode:** base_only\n- **Prompt:** A close-up of a farmers market table with colorful vegetables — tomatoes, corn, peppers, herbs — arranged on a wooden surface, with a Colorado mountain backdrop slightly soft-focused in the background. No people. Horizontal composition. Style: food and lifestyle editorial, warm natural light.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Colorado Farm & Art Market\n**Verified Facts (HIGH confidence):**\n- Market runs Wednesdays through October 9, 2026 — uncover colorado events August 2026 search\n- Location: Alamo Square Park, Colorado Springs — confirmed search result\n- Hours: 3:00 PM to 7:00 PM — confirmed search result\n- Features: local fruits, vegetables, herbs, handcrafted artisan goods — confirmed search result\n- Free to attend — confirmed from source (no admission mentioned)\n**Sources:** uncovercolorado.com events listing, Colorado Springs event calendar search",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Weekend Family Roundup — Things to Do with Kids in COS, August 7–9",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Last weekend before school starts, Colorado Springs families. Garden of Gods (free), CMZoo Dog Days (Fri), Mountain Arts Fest in Woodland Park (Sat-Sun), Acacia Park Market (Sun 9AM-2PM), PPLD programs. Make it count. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-06-weekend-things-to-do-kids-cos-august-7-9.html",
+        "headline": "Things to Do with Kids in Colorado Springs This Weekend (August 7–9)",
+        "word_count": 723
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Weekend Family Roundup — August 7–9\n\n**Image Concept 1 — Social (1080x1350)**\n- **Mode:** base_only\n- **Prompt:** A bright Colorado summer weekend scene — a family-friendly outdoor space with a park trail, red rock formations softly visible in the background, green grass and blue sky. Late afternoon golden light. No people. Clean bottom third for text overlay. Style: editorial lifestyle photography, warm golden light, wide open Colorado feel.\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Mode:** base_only\n- **Prompt:** A wide-angle view of a Colorado outdoor park on a clear summer morning — lush green grass, tall trees, mountains in the background, blue sky. The scene feels like the last days of summer — warm, spacious, unhurried. No people. Horizontal composition with open sky in the upper portion. Style: editorial, natural daylight, Colorado summer atmosphere."
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 6,
+    "image_concepts_count": 6
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

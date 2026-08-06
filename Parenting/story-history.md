@@ -5410,3 +5410,61 @@
 - **Tier:** 2
 - **Key Facts:** 14,000+ K-8 students; Edukit partnership; grade-specific kits; distributed at school Aug 12; no sign-up required; free; supply cost savings $50-$100+ per child; d11.org; Sources: d11.org, Edukit partnership announcement
 - **Follow-Up Opportunities:** D11 first day Aug 12 coverage
+
+
+## 2026-08-06
+
+### Story 1: D11 Board Votes YES — $775M Bond to November Ballot
+- **Date:** 2026-08-06
+- **Angle:** FOLLOW-UP (2026-08-05 S1: D11 bond vote tonight at 5:30 PM) — D11 Board voted YES Wednesday evening Aug 5, 2026. $775M bond measure approved for November 2026 coordinated election ballot. Repairs at every D11 school. Average building age 58 years, $422M deferred maintenance, ~$17M annual capital budget. ~$6.50/mo per $100K home value. D11 first day: August 12.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** Board voted YES; $775M; November 2026 ballot; every D11 school; 58-yr avg age; $422M backlog; $6.50/mo per $100K; D11 first day Aug 12; Sources: Gazette, KKTV, KOAA, d11.org
+- **Follow-Up Opportunities:** Nov voter decision; campaign coverage; individual school repair plans
+
+### Story 2: D11 Aug 12 First Day — Free Edukit School Supplies
+- **Date:** 2026-08-06
+- **Angle:** NEW STORY — D11 partnering with Edukit to deliver free, grade-specific school supply kits to 14,000+ K-8 students on first day, August 12. No shopping or ordering required. Does not replace teacher supply lists.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts
+- **Tier:** 2
+- **Key Facts (HIGH):** Edukit partnership; 14,000+ K-8 students; delivered Aug 12; free; no ordering; doesn't replace teacher list; Sources: Springs Daily
+- **Follow-Up Opportunities:** Edukit impact; D11 supply list details; comparison to other district programs
+
+### Story 3: D20 First Day Updated to August 17-18 — Full COS Start Dates Guide
+- **Date:** 2026-08-06
+- **Angle:** NEW STORY — D20 start dates corrected: PreK/K/6th/9th Aug 17; all others Aug 18 (NOT Aug 13). Full guide: D49 started Aug 3/4; D11 Aug 12; D20 Aug 17-18.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts
+- **Tier:** 2
+- **Key Facts (HIGH):** D20 PreK/K/6th/9th Aug 17; D20 all others Aug 18; D49 Aug 3/4 (already back); D11 Aug 12; date was NOT Aug 13; Sources: Springs Daily
+- **Follow-Up Opportunities:** First-day coverage for each district; staggered start experience
+
+### Story 4: GOPO Toys Pull String Teething Toy Recall
+- **Date:** 2026-08-06
+- **Angle:** NEW STORY — CPSC recall June 19, 2026: ~70,000 GOPO Toys Pull String Teething Toys. Silicone strings too long/thin — 3 reports of choking. Sold Amazon Aug 2023–Mar 2026, $11–$15. Remedy: cut strings, write DESTROYED, email photo for full refund.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts
+- **Tier:** 2
+- **Key Facts (HIGH):** ~70,000 units; CPSC recall June 19 2026; 3 choking incidents; silicone strings too long/thin; Amazon Aug 2023–Mar 2026; $11–$15; recalls@gopotoys.com; Sources: CPSC.gov, Fox Business, Yahoo News
+- **Follow-Up Opportunities:** Additional silicone teething toy safety roundup
+
+### Story 5: Colorado Farm & Art Market — Free Wednesdays at Alamo Square
+- **Date:** 2026-08-06
+- **Angle:** NEW STORY — Colorado Farm & Art Market, every Wednesday through Oct 9, 2026, Alamo Square Park, 3–7 PM MT, free. Local produce, artisan goods, family-friendly. After-school timing, central COS location.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts
+- **Tier:** 2
+- **Key Facts (HIGH):** Every Wednesday through Oct 9; Alamo Square Park; 3–7 PM; free; local produce + artisan goods; Sources: Uncover Colorado events, COS event calendar
+- **Follow-Up Opportunities:** Feature individual vendors; seasonal harvest angles; October market wrap-up
+
+### Story 6: Weekend Family Roundup — Things to Do with Kids in Colorado Springs This Weekend (August 7–9)
+- **Date:** 2026-08-06
+- **Content Pillar:** Local Events
+- **Angle:** RECURRING (Thursday Weekend Roundup — mandatory) — Last full free weekend before D11 starts August 12. Five picks: Garden of the Gods (free, always); CMZoo Dog Days Fri Aug 7 (dogs + zoo animals); Mountain Arts Festival Woodland Park Sat-Sun Aug 8-9 (70+ artists); Acacia Park Farmers Market Sun Aug 9 9AM-2PM (free to browse); PPLD end-of-summer programs (free). Article auto-publishes to springsdaily.com via parenting-ingest bridge.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** Garden of Gods: free, daily sunrise–sunset; CMZoo Dog Days: Aug 7, regular admission, dogs must be leashed + vaccinated, confirm hours at cmzoo.org; Mountain Arts Festival: Aug 8-9, Woodland Park, 70+ artists, confirm cost with organizers; Acacia Park Market: Aug 9, 9AM-2PM, free to browse, through Oct 25; PPLD: free, multiple branches, ppld.org for hours; Sources: Cheyenne Mountain Zoo, Mountain Arts Festival organizers, COS Parks & Rec, PPLD
+- **Follow-Up Opportunities:** Weekend recap; Pioneer Rodeo Aug 14-16 preview (already covered Aug 5); D11 first day coverage Aug 12

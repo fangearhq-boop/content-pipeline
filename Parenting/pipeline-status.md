@@ -1,5 +1,43 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: August 6, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | D11 board voted YES on $775M bond (Nov ballot); D11 Edukit free school supplies for 14,000+ K-8 students Aug 12; D20 first day updated to Aug 17-18 (NOT Aug 13); GOPO Toys teething recall 70,000 units, 3 choking incidents, Amazon Aug 2023–Mar 2026; Colorado Farm & Art Market free Wednesdays through Oct 9 at Alamo Square Park 3-7 PM; Weekend Family Roundup Aug 7-9 (Garden of Gods, CMZoo Dog Days, Mountain Arts Fest Woodland Park, Acacia Park Market, PPLD) |
+| Story History Check | COMPLETE | 6 stories: S1 follow-up (Aug 5 S1 — vote result; different angle); S2-S5 new; S6 Thursday Weekend Roundup (mandatory recurring) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 6 stories (1 Tier 1, 5 Tier 2); S6 appended (Weekend Roundup mandatory Thursday); bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4, S6) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH confidence all 5 news stories; sources: KKTV, KOAA, Gazette, d11.org, Springs Daily, CPSC.gov, Uncover Colorado |
+| Story Analysis | COMPLETE | 02-story-analysis.md — 6 story sections (### STORY N: headers); S6 added after context switch |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (S1: 2 posts, S2-S6: 1 each); all ≤280 chars; 4 hashtags each; code-fenced tweet text |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 6 Long-Form posts + 6 Image Captions; engagement questions; NO hashtags; COS voice; 0 exclamation marks |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts; 1080×1350 (social) and 1200×630 (hero); 6 stories × 2 = 12 concepts; clean bottom third |
+| Articles | COMPLETE | 6 articles (500-1000 words; semantic HTML5; What's Next sections; 0 exclamation marks; Quick Reference tables; springsdaily.com links in S6); bylines: Sarah Morales (A1, A3, A5), Jamie Rivera (A2, A4, A6) |
+| Fact-Check | COMPLETE | verify-facts.py passed; 133 claims; all stories present in all content files; 6 image not_started warnings cosmetic (expected for gemini source) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 6 stories × 2 image types (X+FB) = 12 entries; all not_started; gemini base_only; kAHCKfCZgk0 brand kit |
+| Compile | COMPLETE | 07-content-data.json — 6 stories, 7 X posts, 0 FB posts (known issue), 6 articles, 25 dashboard items |
+| Dashboard | COMPLETE | review-dashboard.html — 25 items |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-08-06.xlsx (7 posts 13:23–20:41 MT, 73 min apart) + cosp-postplanner-tobi-2026-08-06.xlsx (7 TOBI posts) |
+| Dashboard Push | Attempted — proxy blocks write to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — proxy blocks WP API (403) | Same environment restriction as all prior runs |
+
+### 2026-08-06 — Full Pipeline Run (Thursday)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 6 stories (1 Tier 1, 5 Tier 2)
+- **Posts:** 7 X posts (S1 has 2; S2-S6 have 1 each); PostPlanner xlsx: 7 posts 13:23–20:41 MT, 73 min apart; 7 TOBI
+- **Articles:** 6 (bylines: Sarah Morales [A1, A3, A5], Jamie Rivera [A2, A4, A6])
+- **PostPlanner exports:** cosp-postplanner-2026-08-06.xlsx (7 posts), cosp-postplanner-tobi-2026-08-06.xlsx (7 TOBI posts)
+- **Coverage:** D11 board votes YES on $775M bond (S1, Tier 1 — $775M, Nov ballot, 58-yr avg building age, $422M backlog, ~$6.50/mo per $100K, D11 first day Aug 12); D11 Edukit free supplies for 14,000+ K-8 students Aug 12 (S2); D20 start dates corrected to Aug 17-18, not Aug 13 (S3); GOPO Toys teething recall 70,000 units, 3 choking incidents (S4 — Amazon Aug 2023-Mar 2026, cut strings, email recalls@gopotoys.com for full refund); Colorado Farm & Art Market free Wednesdays through Oct 9, Alamo Square Park 3-7 PM (S5); Weekend Roundup Aug 7-9 — Garden of Gods, CMZoo Dog Days Fri, Mountain Arts Fest Woodland Park Sat-Sun, Acacia Park Market Sun, PPLD programs (S6, Thursday mandatory recurring)
+- **Notes:**
+  - Thursday → mandatory Weekend Family Roundup triggered; S6 added as article-06, appended to all content files
+  - verify-facts.py: all 6 stories present in all content files; 133 claims; 6 image not_started warnings cosmetic (markdown table format — expected)
+  - compile: 7 X posts, 0 FB posts (known pipeline issue — compile picks up 0 FB regardless), 6 articles, 25 dashboard items
+  - WordPress: proxy blocks WP API (403); same as all prior runs
+  - Dashboard push: proxy blocks content-dashboards repo write; same as all prior runs
+  - Byline rotation: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4, S6]
+
+---
+
 ## Latest Run: August 5, 2026
 
 | Step | Status | Notes |
