@@ -1387,3 +1387,51 @@ Track previously covered stories to avoid repetition and maintain content freshn
 - **Byline:** Marcus Cole
 - **Key Facts:** Cincinnati Aug 13-23; Sinner 5 Masters 1000 + Wimbledon 2026; Alcaraz defending champion; Zverev world No. 2 + RG champion; Sabalenka tops WTA field; Sources: Cincinnati Open official, Livescore preview, WTA Cincinnati entry list
 - **Follow-Up Opportunities:** Cincinnati draw release; Alcaraz first match back; Sinner vs. Zverev semifinal potential
+
+
+## 2026-08-06
+
+### Story 1: Griekspoor Upsets No. 1 Zverev in Montreal
+- **Date:** 2026-08-06
+- **Angle:** FOLLOW-UP (2026-08-05 S3: ATP Montreal Masters 1000 Day 1 Main Draw Opens) — Tallon Griekspoor (NED) def. Alexander Zverev 6-7(3), 6-2, 6-4 in R2 on Aug 5. Zverev was No. 1 seed. Griekspoor's 8th career top-10 win. First player to beat the NBO top seed in their opener since Kyrgios def. Medvedev in 2022. H2H: Griekspoor was 3-9 vs. Zverev (lost last 4). 20 forehand winners, 17/18 net points.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Ryan Calloway
+- **Key Facts:** Griekspoor def. Zverev 6-7(3), 6-2, 6-4; 8th top-10 win; first NBO R1 top-seed upset since Kyrgios 2022; 20 forehand winners; 17/18 net points; H2H was 3-9; Sources: ATP Tour, Tennis Majors, Tennis World USA, National Bank Open official
+- **Follow-Up Opportunities:** Griekspoor R3 result; draw implications; Zverev Cincinnati/US Open prep
+
+### Story 2: Montreal Chaos — Van de Zandschulp Stuns Medvedev, Tirante Ousts Fritz
+- **Date:** 2026-08-06
+- **Angle:** FOLLOW-UP (2026-08-05 S3: ATP Montreal; 2026-08-04 S2: Fritz wins DC Open) — Same day as Zverev upset: Van de Zandschulp (NED) def. Medvedev (4th seed) 6-3, 7-6(5); Tirante (ARG) def. Fritz (8th seed, DC Open champion) 7-5, 6-3. Fritz converted zero break points; struggled physically in 2nd set. VdZ improved to 1-4 vs. Medvedev. Tirante's 3rd career top-10 win.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Elena Voss
+- **Key Facts:** VdZ def. Medvedev 6-3, 7-6(5) in 1h 39m; Tirante def. Fritz 7-5, 6-3; Fritz converted 0 BPs; Tirante's 3rd top-10 win; Sources: ATP Tour, Sofascore, Tennis Majors, Tennis Temple
+- **Follow-Up Opportunities:** VdZ R3 result; Tirante R3 vs. advancing player; Fritz Cincinnati/US Open
+
+### Story 3: Fonseca Beats Tsitsipas — First Brazilian in Canadian Masters R3 Since Kuerten
+- **Date:** 2026-08-06
+- **Angle:** NEW STORY — Joao Fonseca (BRA, 19) def. Tsitsipas 7-6(3), 7-5 in Montreal R2. Late drama: dropped serve at 5-4, won 8 of next 9 points to close. First Brazilian in R3 at Canadian Masters since Gustavo Kuerten. ATP H2H vs. Tsitsipas now 2-0 (also beat him in Davis Cup). First tour match since Wimbledon R3 loss to Safiullin.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Marcus Cole
+- **Key Facts:** Fonseca def. Tsitsipas 7-6(3), 7-5; first Brazilian in R3 at Canadian Masters since Kuerten; ATP H2H 2-0 vs. Tsitsipas; drama at 5-4 (8 of 9 pts); Sources: ATP Tour, Sofascore, Prokerala
+- **Follow-Up Opportunities:** Fonseca R3 result; Fonseca Montreal run; Tsitsipas recovery
+
+### Story 4: WTA Toronto Round 3 — Sabalenka vs. Zhang, Swiatek in Action
+- **Date:** 2026-08-06
+- **Angle:** FOLLOW-UP (2026-08-05 S3: Sabalenka Toronto opener; 2026-08-05 S4: Swiatek beats Bejlek) — Round 3 day at WTA Toronto. Sabalenka (No. 1) vs. Zhang Shuai (H2H 4-1 Sabalenka; extended hard-court winning streak to 13). Zhang advanced via Ostapenko retirement 6-0, 4-0. Swiatek in R3 action. US Open Aug 24.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Ryan Calloway
+- **Key Facts:** Sabalenka vs. Zhang Shuai R3; Sabalenka leads H2H 4-1; 13-match hard-court winning streak 2026; Swiatek also in R3; Sources: WTA Official, nationalbankopen.com, tennis.com
+- **Follow-Up Opportunities:** Sabalenka QF result; Swiatek QF result; Sabalenka-Swiatek potential SF
+
+### Story 5: Montreal Round 3 Preview — FAA Home, de Minaur vs. Norrie, Fils vs. Navone
+- **Date:** 2026-08-06
+- **Angle:** FOLLOW-UP (2026-08-05 S3: ATP Montreal; 2026-08-05 S2: Navone beats Berrettini) — Thursday R3: de Minaur (3rd seed) vs. Norrie; Fils vs. Navone (career-best 2026 run); FAA (2nd seed, Canadian on home soil); Shelton (defending champion) in R3. Zverev/Medvedev/Fritz all eliminated.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Elena Voss
+- **Key Facts:** de Minaur vs. Norrie Centre Court 6PM; Fils vs. Navone; FAA home soil 2nd seed; Shelton defending; draw wide open; Sources: tennis.com, nationalbankopen.com, ATP Tour
+- **Follow-Up Opportunities:** R3 results; Montreal QF lineup; title contender picture
