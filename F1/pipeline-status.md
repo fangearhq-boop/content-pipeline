@@ -1,6 +1,18 @@
 # F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
+- **Date**: 2026-08-06
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters (1 tweet fixed after verify-facts: Story 3 tweet trimmed)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Ryan Calloway, Elena Voss, Marcus Cole, Ryan Calloway)
+- **PostPlanner exports:** f1fr-postplanner-2026-08-06.xlsx (7 posts) + f1fr-postplanner-tobi-2026-08-06.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-08-06/review-dashboard.html (27 items)
+- **Notes:** Verstappen exit clause NOW ACTIVE (P6/109pts at summer break; DNF British GP triggered clause; Mercedes/McLaren suitors; Red Bull leadership "split"); Norris wins Hungarian GP (McLaren first 2026 win; Antonelli P3; championship: Antonelli 219/Hamilton 169/Verstappen 109); Russell "toughest psychological battle" (energy deployment deficit, Resta admits team still investigating); Hamilton P2 (169pts, 50 behind Antonelli, Spanish GP win, "worlds away" from 2025); Summer silly season (Alonso retirement decision this break, 9 seats under threat, Dutch GP Aug 21 epicenter)
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+## 2026-08-05
 - **Date**: 2026-08-05
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)

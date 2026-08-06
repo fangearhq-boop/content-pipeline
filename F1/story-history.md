@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-08-06
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-08-06 | T1 | Max Verstappen Exit Clause Active — Red Bull Summer Crisis | X, FB, Article | NEW |
+| 2026-08-06 | T1 | Norris Wins Hungary — Antonelli Leads by 50 at Summer Break | X, FB, Article | FOLLOW UP |
+| 2026-08-06 | T2 | George Russell's 2026 Technical Nightmare — Same Car, Different Story | X, FB, Article | FOLLOW UP |
+| 2026-08-06 | T2 | Lewis Hamilton Ferrari Redemption — P2 and Closing the Gap | X, FB, Article | FOLLOW UP |
+| 2026-08-06 | T2 | F1 Summer Silly Season — Verstappen Domino Could Reshape the Grid | X, FB, Article | NEW |
+
+### STORY 1: Max Verstappen Exit Clause Active — Red Bull Summer Crisis
+- **Tier:** 1
+- **Category:** F1 Driver Market / Red Bull / Max Verstappen
+- **Key facts:** Clause triggered by DNF at British GP (outside top 2 at summer break); P6 in championship with 109pts; window to activate through October; potential suitors Mercedes/McLaren; clause negotiated in 2022 by Raymond Vermeulen over 2026 reg concerns; Red Bull leadership "split"; Verstappen not committed to 2027 at Red Bull
+- **Status:** NEW
+- **Follow-up ideas:** Official announcement (stay or go); Dutch GP Aug 21 (first race post-summer); team reactions
+
+### STORY 2: Norris Wins Hungary — Title Picture at Summer Break
+- **Tier:** 1
+- **Category:** F1 Race Result / Hungarian Grand Prix / 2026 Championship
+- **Key facts:** Norris P1 (McLaren's first 2026 win, 12th career win, McLaren 14th Hungary win); Verstappen P2 (+15.080s); Antonelli P3; championship: Antonelli 219pts, Hamilton ~169pts (50 behind), Verstappen 109pts (P6); Mercedes leads constructors 379pts, 8 wins; next race Dutch GP Zandvoort Aug 21-23
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Dutch GP preview; Antonelli title watch; Verstappen exit news
+
+### STORY 3: George Russell Technical Nightmare
+- **Tier:** 2
+- **Category:** F1 Technical / Mercedes / George Russell
+- **Key facts:** Russell: "toughest psychological battle" of career; energy deployment deficit (top speed loss at Silverstone/Spa); Mercedes deputy TD Simone Resta: "still struggling to understand every single contributor"; software glitches, worn engine parts, cracked engine blocks; outpaced by rookie Antonelli in same car; contracted beyond 2026, no seat change
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Pre-Dutch GP technical update; whether fix found during summer break
+
+### STORY 4: Lewis Hamilton Ferrari Redemption
+- **Tier:** 2
+- **Category:** F1 Championship / Ferrari / Lewis Hamilton
+- **Key facts:** Hamilton P2 in championship (~169pts); 50pts behind Antonelli; 1 win (Spanish GP); 5 podiums through 11 races; 0.017s ahead of Leclerc in qualifying average; Ferrari weakness: 0.3-0.4s straight-line deficit on power circuits; Hamilton: car "worlds away" from 2025
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Hamilton Dutch GP; title math if Antonelli falters
+
+### STORY 5: F1 Summer Silly Season
+- **Tier:** 2
+- **Category:** F1 Driver Market / Summer Break
+- **Key facts:** 9 seats under threat per SportBible; Alonso retirement decision during summer break (before Dutch GP Aug 21); Verstappen exit clause triggers cascade; Dutch GP and Italian GP expected announcement epicenters; Cadillac/Perez drawing rival interest; summer break approx Aug 1-20
+- **Status:** NEW
+- **Follow-up ideas:** Verstappen/Alonso announcements; Dutch GP paddock news
+
 ## 2026-08-03
 
 | Date | Tier | Story | Platforms | Status |
