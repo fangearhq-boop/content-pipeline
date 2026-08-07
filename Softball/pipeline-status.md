@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-08-07
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch + research agent, 5 stories verified HIGH/MEDIUM confidence), brief (5 stories), research notes, story analysis, X posts (7; 6 char violations fixed — all ≤280 after rewrite), FB posts (5 stories), image concepts (10 items; ### STORY headers), image manifest (10 items, not_started), articles (5), fact-check (86 claims), compile (5 stories, 7 tweets, 0 FB posts — format known, 5 articles, 5 images), dashboard (22 items), PostPlanner exports (7 posts each — standard + TOBI). WordPress 403 (proxy blocks ilovesoftball.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks ilovesoftball.com — known). Dashboard publish push failed (proxy known restriction). IMAGE NOT STARTED (manifest recognized but images not yet produced in Canva). PostPlanner FB: 0 posts compiled (PostPlanner script parsing — known). 6 char violations fixed before compile pass. 0 char violations after fix.
+- **Key Stories**: LLSWS Day 5: NC (Clayton) 5 FL (Lake Mary) 2 — Clark 13K CG/NC 3-0 into Sat Purple Bracket Championship; Kentucky 2 Puerto Rico 0 — KY 3-0 into Sat Orange Bracket Championship; Today Day 6: FL vs Washington 3PM ET ESPN elimination (Tier 1 FOLLOW UP), AUSL All-Star Cup starts tomorrow Aug 8 Rosemont IL/45 players/12 games/4 redraft series/individual champion/fan-elected Pickens+Coleman+6 others/ESPN+MLBNet+CBS (Tier 2 FOLLOW UP), September 1 = 25 days/1,226 Class of 2028 nominations EIS record (Tier 2 FOLLOW UP), Texas Tech 2027: Beachum+Pickering+Heavener+Terry+Williams joining WCWS Finalists/fall campus arrivals beginning (Tier 2 FOLLOW UP), USA WNT WBSC World Cup Group Stage Sept 12-16 OKC/group: Netherlands+Mexico+China+NZ+S Africa/36 days/Garcia+Mulipola+Fouts+Brady (Tier 3 FOLLOW UP)
+
+## Last Run
 - **Date**: 2026-08-06
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch + 2 research agents, 5 stories verified HIGH/MEDIUM confidence), brief (5 stories), research notes, story analysis, X posts (6; 2 char violations fixed — Story 3 tweet 288→270, Story 4 tweet 303→259), FB posts (5 stories), image concepts (12 items; ### STORY headers), image manifest (10 items, not_started), articles (5), fact-check (89 claims), compile (5 stories, 6 tweets, 5 FB posts, 5 articles, 5 images), dashboard (26 items), PostPlanner exports (6 posts each — standard + TOBI). WordPress 403 (proxy blocks ilovesoftball.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).

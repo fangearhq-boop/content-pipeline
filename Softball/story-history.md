@@ -3,6 +3,64 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-08-07
+
+### Story 1: LLSWS Day 5 Results + Day 6 Today — NC and Kentucky Both Go 3-0
+- **Date:** 2026-08-07
+- **Tier:** 1
+- **Classification:** FOLLOW UP (LLSWS tracked Aug 1-6; Day 5 results Aug 6 confirmed; Day 6 features elimination games today)
+- **Angle:** Day 5 at Stallings Stadium: NC (Clayton LL) 5, FL (Lake Mary LL) 2 — Anna-Lynn Clark CG 6 IP 13 K; 5-run 5th inning was decisive; NC 3-0 into Saturday Purple Bracket Championship. Kentucky (Daviess County LL) 2, Puerto Rico 0 — Kentucky 3-0 into Orange Bracket Championship Saturday. Today Day 6: FL vs Washington elimination 3 PM ET ESPN; Orange bracket elimination 6 PM ET. NC + Kentucky both rest today.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - LLSWS Day 6 results (Aug 8 coverage)
+  - Saturday bracket championship games (NC in Purple, KY in Orange)
+  - Anna-Lynn Clark consecutive double-digit strikeout performances story
+
+### Story 2: AUSL All-Star Cup Starts Tomorrow — 45 Players, 12 Games, Rosemont IL
+- **Date:** 2026-08-07
+- **Tier:** 2
+- **Classification:** FOLLOW UP (AUSL covered Aug 5-6; All-Star Cup starts Saturday Aug 8; full format/roster preview is new)
+- **Angle:** AUSL All-Star Cup opens Aug 8 at Parkway Bank Sports Complex in Rosemont IL, runs through Aug 30. Format: 45 players, 12 games, 4 draft series — teams fully redrafted before each, no permanent rosters; Athletes Unlimited individual scoring crowns an individual champion. Fan-elected 8: Reese Atwood, Rylie Boone, Alyssa Brito, Bri Ellis, Jayda Coleman, Megan Grant, Karlyn Pickens, Jordan Woolery. Team breakdown: Bandits 9, Blaze 9, Talons 9, Spark 8, Cascade 6, Volts 6. TV: ESPN/MLB Network/CBS Sports Network.
+- **Content Produced:** Article (article-02, Emily Rawlings), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - AUSL All-Star Cup Series 1 recap (Aug 9)
+  - Individual points leader after first series
+  - Karlyn Pickens performance
+
+### Story 3: September 1 Recruiting Window — 25 Days / Record 1,226 Class of 2028 Nominations
+- **Date:** 2026-08-07
+- **Tier:** 2
+- **Classification:** FOLLOW UP (countdown covered Aug 3-6; 26 days ran yesterday; today = 25 days; EIS record nominations angle still fresh)
+- **Angle:** September 1 = 25 days away. First D1 direct contact for Class of 2028 (current high school juniors). EIS record 1,226+ nominations for Class of 2028 — highest ever. Window mechanics explained. Before Sept 1: coaches cannot initiate contact at all. Sept 1 midnight: calls, texts, emails, visits all open simultaneously.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - September 1 day-of coverage
+  - First-wave Class of 2028 commit announcements
+
+### Story 4: Texas Tech 2027 — Seven All-Americans (or Near-All-Americans) on Paper
+- **Date:** 2026-08-07
+- **Tier:** 2
+- **Classification:** FOLLOW UP (TTU portal covered Aug 1-6 with Beachum/Pickering/Heavener; today = full roster picture + fall arrival context)
+- **Angle:** Jaysoni Beachum (FSU, .406 BA/10 HR/69 RBI, 2nd Team AA, #3 portal 5-star) + Kasidi Pickering (OU, .370 BA/20 HR/61 RBI, 2024 national champion, #2 portal) + Jayden Heavener (LSU, 2.81 ERA/13-9/128 K, NFCA All-Region) + Kaitlyn Terry (UCLA, 2-time AA) + Mia Williams (Florida, 2026 NFCA AA) + returners. Glasco took TTU to 2026 WCWS Finals. Campus arrivals beginning August. Fall practice weeks away.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Texas Tech fall camp/first games
+  - September commit additions
+  - 2027 season preview closer to spring
+
+### Story 5: USA WNT — WBSC World Cup Group Stage OKC, Sept 12-16, 36 Days Away
+- **Date:** 2026-08-07
+- **Tier:** 3
+- **Classification:** FOLLOW UP (qualifier angle introduced Aug 6 as NEW; today = 36 days with confirmed group opponents)
+- **Angle:** International Cup gold Aug 3 (Fouts near-perfect 2-0 over Japan). Next: WBSC Softball Women's World Cup Group Stage Sept 12-16, Devon Park OKC (same venue). USA auto berth as host. Group confirmed: Netherlands (No. 6), Mexico (No. 7), China (No. 8), New Zealand (No. 23), South Africa (No. 36). 16-player WNT named: Garcia, Mulipola, Fouts, Brady, Wells (OU debut), Shumaker (FL debut). SEC-heavy (10 athletes). 2027 World Cup + 2028 Olympics path.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - WBSC World Cup Group Stage Sept 12 day-of
+  - USA group results
+  - Asian Games Sept 26 (Philippines, Japan host)
+
+---
+
 ## 2026-08-06
 
 ### Story 1: LLSWS Day 4 Results + Day 5 Today — The Unbeaten Showdown
