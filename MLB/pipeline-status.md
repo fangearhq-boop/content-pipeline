@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-08-07
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch + research agent, 5 stories verified HIGH confidence), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations — all ≤280), FB posts (5 stories), image concepts (7 items), image manifest (10 items, not_started), articles (5), fact-check (48 claims HIGH; claim-patterns.py missing known), compile (5 stories, 7 tweets, 0 FB posts — format known, 5 articles, 5 images), dashboard (22 items), PostPlanner exports (7 posts each — standard + TOBI). WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard publish push failed (proxy known restriction). IMAGE NOT STARTED (manifest recognized but images not yet produced in Canva). claim-patterns.py missing (known). PostPlanner FB: 0 posts compiled (PostPlanner script parsing — known). 0 char violations.
+- **Key Stories**: Braves 11-3 Marlins/Acuña HR 10+11 (deflection HR)/Olson 897 consecutive games (8th all-time)/Braves 8-game win streak season-high (Tier 1 FOLLOW UP), Dodgers 6-game losing streak entering Arizona — Skubal paradox (first team with reigning 2-time MVP + 2-time Cy Young ever)/Roki Sasaki tonight/AZ result UNCONFIRMED (Tier 1 FOLLOW UP), Red Sox 12-11 White Sox 13 innings — Durbin walkoff 13th off Fedde/8-game streak/25-3 since July 3 (Tier 2 FOLLOW UP), Field of Dreams Aug 13 Dyersville Iowa/Netflix 7:30 ET/Kevin Costner voiceover/25+ HOFs (largest since 2008 ASG)/MiLB precursor Aug 11 (Tier 3 FOLLOW UP), Nationals 10 Phillies 4 11 innings/6-run 11th/Abrams 2-run triple/Mariners Speier 3-game suspension+Wilson 1-game (both appealing) (Tier 2 NEW)
+
+## Last Run
 - **Date**: 2026-08-06
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch + prior session research agents, 5 stories verified HIGH confidence), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations — all ≤280), FB posts (5 stories), image concepts (7 items), image manifest (10 items, not_started), articles (5), fact-check (37 claims HIGH; claim-patterns.py missing known), compile (5 stories, 7 tweets, 5 FB posts, 5 articles, 5 images), dashboard (27 items), PostPlanner exports (7 posts each — standard + TOBI). WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).

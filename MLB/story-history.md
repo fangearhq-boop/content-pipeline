@@ -5,6 +5,67 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-07
+
+### Story 1: Braves 8-Game Win Streak + Olson 897 Consecutive Games — Acuña Hits Two
+- **Date:** 2026-08-07
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Olson streak covered Aug 6 at 896/passing Musial; today = 897; Braves 8-game win streak new season-high)
+- **Angle:** Braves 11-3 Marlins Aug 6. Olson: 422-ft solo HR (32nd), doubled, 2 BB; streak = 897 (May 2 2021 Athletics). Acuña Jr.: HRs 10+11 (one deflected off OF glove). Braves swept Miami in three games; 8 consecutive wins — season-best.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Olson streak daily update (next milestone: 7th all-time, whoever is above 897)
+  - Braves winning streak continuation/end
+  - Acuña season HR pace
+
+### Story 2: Dodgers Losing Streak / Skubal Paradox
+- **Date:** 2026-08-07
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Dodgers 6-game losing streak covered Aug 6; today = entering Day 7 in Arizona; Skubal paradox is the new angle)
+- **Angle:** Dodgers 6-game losing streak entering Aug 7. Travel day Aug 6 (no game). Tonight: Roki Sasaki vs. Merrill Kelly at Chase Field. Tarik Skubal trade July 28: acquired from Detroit (Hope+Ryan+Smith return). First MLB team ever with reigning 2-time MVP (Ohtani) + reigning 2-time Cy Young (Skubal) simultaneously. Arizona game result UNCONFIRMED as of content creation. Do not publish AZ result.
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Dodgers losing streak resolution (win or 7th loss)
+  - Skubal's first Dodgers start/performance
+  - Ohtani leadoff HR record chase (approaching 1st all-time franchise)
+
+### Story 3: Red Sox 12-11 White Sox (13 Innings) — Durbin Walkoff, 8-Game Streak
+- **Date:** 2026-08-07
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Red Sox 7-game streak + 30-5 since June 25 covered Aug 6; today = 8-game streak after 13-inning walkoff Aug 6)
+- **Angle:** Red Sox 12 White Sox 11 in 13 innings Aug 6. Caleb Durbin walkoff single in 13th off Erick Fedde; scored Nick Sogard. Red Sox 8-game win streak. 25-3 since July 3 (franchise-best stretch over that span).
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Red Sox win streak updates
+  - Sonny Gray Cy Young case as streak continues
+  - AL playoff race implications
+
+### Story 4: Field of Dreams 2026 — 6 Days Away, Netflix Premiere, 25+ HOFs
+- **Date:** 2026-08-07
+- **Tier:** 3
+- **Classification:** FOLLOW UP (previewed Aug 5-6 as 8 then 7 days away; today = 6 days with Netflix/HOF ceremony as headline details)
+- **Angle:** Aug 13 Dyersville Iowa. Phillies vs. Twins. Netflix, 7:30 PM ET first pitch. Kevin Costner voiceover. 25+ Hall of Famers at pregame (largest gathering since 2008 ASG at old Yankee Stadium). MiLB precursor: Saints vs. Iowa Cubs Aug 11 at same site. Schwarber 33 HR. Arraez .329 career avg, 3-time batting champion. Raley also acquired.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Field of Dreams day-of coverage Aug 13
+  - MiLB precursor game Aug 11
+  - Netflix broadcast review/reaction
+
+### Story 5: Nationals 10, Phillies 4 (11 innings); Mariners Suspensions
+- **Date:** 2026-08-07
+- **Tier:** 2
+- **Classification:** NEW (Nationals 11-inning explosion not previously covered; Mariners suspensions first mention)
+- **Angle:** Nationals 10, Phillies 4, 11 innings, Aug 6. 7 runs in extra innings (6 in 11th). CJ Abrams 2-run triple in 11th. Mariners: Speier 3-game suspension (hit Torres Aug 5); Wilson 1-game suspension; both appealing; Speier available while appeal pending.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Speier/Wilson appeal resolution
+  - Phillies NL playoff chase impact
+  - Nationals second-half storylines
+
+---
+
+---
+
 ## 2026-08-06
 
 ### Story 1: Dodgers Lose Their 6th Straight — Crow-Armstrong Beats Them with Two HRs
