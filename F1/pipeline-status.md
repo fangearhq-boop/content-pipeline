@@ -1,8 +1,18 @@
 # F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
-- **Date**: 2026-08-06
+- **Date**: 2026-08-07
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters (Story 5 tweet fixed after verify-facts: trimmed from 288 to 253)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Elena Voss, Marcus Cole, Ryan Calloway, Elena Voss, Marcus Cole)
+- **PostPlanner exports:** f1fr-postplanner-2026-08-07.xlsx (7 posts) + f1fr-postplanner-tobi-2026-08-07.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-08-07/review-dashboard.html (27 items)
+- **Notes:** Zandvoort farewell (final F1 race at circuit, first sprint format, sold out, Verstappen exit clause active); Alonso summer decision (Ted Kravitz predicts retirement, "probably my last Barcelona race", decision this break); Mercedes "sizeable" upgrade at Zandvoort (Resta confirmed, season's largest aero package); Ocon under axe at Haas (3 pts vs Bearman ~18, Camara/Fornaroli on shortlist); Hamilton leads Leclerc +31 at Ferrari (Spain win, 5 podiums, Vasseur extending contract)
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+## 2026-08-06
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)
 - **X Posts:** 7 written, all under 280 characters (1 tweet fixed after verify-facts: Story 3 tweet trimmed)
 - **Facebook Posts:** 5 stories, long-form + caption each

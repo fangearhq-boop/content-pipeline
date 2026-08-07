@@ -1,0 +1,270 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-07",
+  "compiled_at": "2026-08-07T11:30:16.570489+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Zandvoort Farewell — Dutch GP Will Be the Final F1 Race at the Circuit",
+      "tier": 1,
+      "status": "",
+      "angle": "The 2026 Dutch Grand Prix (Aug 21-23) is confirmed as the last F1 race at Circuit Zandvoort, ending a six-year chapter that began in 2021; the weekend is also the first-ever sprint format at Zandvoort and tickets are sold out",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The 2026 Dutch GP (Aug 21-23) will be the LAST Formula 1 race at Circuit Zandvoort.\n\nSix years. Sold out every year. And Verstappen's exit clause is active for his final home race.\n\nThe most emotionally loaded GP of the season is two weeks away. 🇳🇱\n\n#F1 #DutchGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#DutchGP"
+          ],
+          "char_count": 262
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Did you know? Zandvoort 2026 is also the first-ever F1 sprint weekend at the circuit.\n\nSprint Race: Saturday, 24 laps.\nMain Race: Sunday, 72 laps.\nTickets: SOLD OUT.\n\nVerstappen drives his final Dutch GP with his exit clause active.\n\nThis one will be remembered. #F1 #DutchGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#DutchGP"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": {
+        "long_form": "🇳🇱 Formula 1 is coming back to Zandvoort in two weeks — and it will be for the very last time.\n\nThe 2026 Dutch Grand Prix (August 21-23) is confirmed as the final F1 race at Circuit Zandvoort. The circuit returned to the calendar in 2021 after a 36-year absence, and in six seasons it became one of the most atmospheric venues in the sport — sold out every year, a sea of orange, and one of the most passionate fanbases in the world.\n\nBut it's not just a farewell. The 2026 edition also introduces the first-ever sprint weekend format at Zandvoort:\n— Friday: Sprint Qualifying\n— Saturday: Sprint Race (24 laps) + GP Qualifying\n— Sunday: Main Race (72 laps)\n\nAnd hanging over the entire weekend is the single biggest storyline in the sport: Max Verstappen's exit clause is active. He sits sixth in the championship, 103 points behind leader Kimi Antonelli. He has until October to formally notify Red Bull of his intention to leave.\n\nHe will be driving his final Dutch GP with his future in Formula 1 uncertain, in front of fans who have followed his every move since karting. There will not be another weekend like this one.\n\nTickets are sold out.\n\n💬 Will Verstappen give Zandvoort the perfect send-off? Or will this race mark the end of an era in more ways than one?\n\n---",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-zandvoort-farewell-final-dutch-gp.html",
+        "headline": "Zandvoort's Final Chapter: The 2026 Dutch GP Is the Last F1 Race at the Circuit",
+        "word_count": 569
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Zandvoort Farewell\n\n**Image Concept 1 — Social (1080x1350)**\n- Search: \"Max Verstappen Red Bull Racing\"\n- Usage: X post + FB image caption\n- Overlay text: \"ZANDVOORT FAREWELL\" / \"Final F1 Race at Circuit Zandvoort — Aug 21-23\"\n- Credit: (USA TODAY Sports Images)\n\n**Image Concept 2 — Article Hero (1200x630)**\n- Search: \"Circuit Zandvoort Formula 1\"\n- Usage: Article featured image\n- Overlay text: \"The Last Dance at Zandvoort — 2026 Dutch Grand Prix\"\n- Credit: (Imagn Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Zandvoort Farewell — Dutch GP Final Race at Circuit\n**Verified Facts:**\n- [HIGH] Dutch GP 2026: August 21-23, Zandvoort. Round 12 of 22. — official F1.com, WorldofSpeed\n- [HIGH] This is the final F1 race at Circuit Zandvoort — confirmed WorldofSpeed and multiple outlets; six-year run started 2021\n- [HIGH] First-ever sprint weekend at Zandvoort: Sprint Qualifying Fri Aug 21 16:30 CET; Sprint Race Sat Aug 22 12:00 CET (24 laps); GP Qualifying Sat Aug 22 16:00 CET; Race Sun Aug 23 15:00 CET (72 laps) — WorldofSpeed, ScuderiaFans, F1.com\n- [HIGH] Tickets are sold out — dutchgp.com official site\n- [HIGH] Verstappen exit clause is now active (can formally leave Red Bull from October) — adds enormous emotional weight to his home race\n**Sources:** F1.com, WorldofSpeed, dutchgp.com, ScuderiaFans",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Alonso's Summer of Decision — \"This Is Probably My Last Barcelona Race\"",
+      "tier": 1,
+      "status": "",
+      "angle": "Fernando Alonso has not officially announced retirement but all signs point to 2026 being his final season; his contract expires end of year, Ted Kravitz publicly predicted retirement, and his own quote — \"this is probably my last Barcelona race in Formula 1\" — says everything",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Fernando Alonso at Barcelona: \"This is probably my last race in Formula 1 here.\"\n\nHe's 44. His Aston Martin contract expires this year. Sky Sports' Ted Kravitz predicts he retires.\n\nNo official announcement yet. But the summer break is when he promised to decide.\n\n#F1 #Alonso",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Alonso"
+          ],
+          "char_count": 276
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Alonso's retirement logic: \"If we are competitive, there is more chance that I stop. If we are not competitive, it will be very hard to give up.\"\n\n23 seasons. 2 world championships. 32 race wins.\n\nWhatever he decides — no one has ever made F1 look like this at 44.\n\n#F1 #Alonso",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Alonso"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": {
+        "long_form": "🏎️ Fernando Alonso is 44 years old. He has raced in Formula 1 for 23 seasons. He has two world championships and 32 race victories. And this summer, the world is waiting to find out if he ever races again.\n\nAt the Spanish Grand Prix earlier this season, Alonso said something that no one missed: \"This is probably my last Barcelona race in Formula 1.\"\n\nNot a retirement announcement. Not a confirmation. But when someone who chooses every word carefully says \"probably my last\" — you listen.\n\nHis contract with Aston Martin expires at the end of 2026. The team has undergone transformation — Adrian Newey, hired away from Red Bull, is overseeing design. A Honda power unit has come on stream. There are upgrades promised and a future Alonso has been part of building.\n\nBut the car hasn't been fast enough to fully satisfy him. His own decision framework is pure Alonso logic: \"If we are competitive, there is more chance that I stop. If we are not competitive, it will be very hard to give up without trying again.\"\n\nTranslation: if the car is good enough to leave racing behind with dignity, he goes. If the car isn't good enough and the work feels unfinished — he stays.\n\nSky Sports F1 journalist Ted Kravitz has publicly predicted Alonso will retire at the end of 2026. The summer break, Alonso said, is when the decision comes.\n\nWhatever it is — F1 has never seen anything quite like Fernando Alonso, and it never will again.\n\n💬 What's your verdict? Does Alonso come back for one more season — or is 2026 the last chapter?\n\n---",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-alonso-summer-decision-retirement.html",
+        "headline": "Fernando Alonso's Summer of Decision: \"This Is Probably My Last Barcelona Race\"",
+        "word_count": 583
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alonso Retirement Decision\n\n**Image Concept 1 — Social (1080x1350)**\n- Search: \"Fernando Alonso Aston Martin\"\n- Usage: X post + FB image caption\n- Overlay text: \"THE LAST CHAPTER?\" / \"Alonso to Decide This Summer\"\n- Credit: (USA TODAY Sports Images)\n\n**Image Concept 2 — Article Hero (1200x630)**\n- Search: \"Fernando Alonso Formula 1\"\n- Usage: Article featured image\n- Overlay text: \"23 Seasons. 2 Titles. The Summer of Decision.\"\n- Credit: (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Alonso's Summer of Decision\n**Verified Facts:**\n- [HIGH] Alonso contract expires end of 2026; no retirement officially announced as of August 7 — Autosport, RacingNews365, GPFans\n- [HIGH] Quote (direct): \"This is probably my last Barcelona race in Formula 1.\" — GPFans, multiple outlets confirmed\n- [HIGH] Quote (decision criteria): \"If we are competitive, there is more chance that I stop. If we are not competitive, it will be very hard to give up without trying again.\" — multiple outlets confirmed\n- [HIGH] Ted Kravitz (Sky Sports F1) publicly predicted Alonso will retire at end of 2026 — GPFans reporting\n- [HIGH] Alonso is 44-45 years old, in his 23rd F1 season — multiple outlets\n- [MEDIUM] Decision expected \"around summer break\" or shortly after — Autosport, RacingNews365\n- [MEDIUM] Adrian Newey hired by Aston Martin from Red Bull; Honda PU partnership; upgrades promised — SportBible, GPFans\n- [LOW] Fox News headline \"Fernando Alonso announces retirement from series\" — treat as LOW; no primary source confirmation, weight of evidence says decision still pending\n**Sources:** Autosport, RacingNews365, GPFans, Sky Sports (via GPFans)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Mercedes' \"Sizeable\" Dutch GP Upgrade Package",
+      "tier": 2,
+      "status": "",
+      "angle": "Mercedes Deputy TD Simone Resta confirmed the team is targeting a \"sizeable\" upgrade at Zandvoort — their largest aero package of the season; could extend Antonelli's lead or change the championship picture for the second half",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Mercedes Deputy TD Simone Resta on the Dutch GP: \"something more sizeable.\"\n\nTheir largest upgrade package of the 2026 season. Debuts at Zandvoort, Aug 21.\n\nAntonelli leads by 50 points. A \"sizeable\" upgrade at his home circuit.\n\nRed Bull and Ferrari are watching. 👀\n\n#F1 #DutchGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#DutchGP"
+          ],
+          "char_count": 280
+        }
+      ],
+      "facebook": {
+        "long_form": "🔧 Mercedes is coming to Zandvoort with something different.\n\nDeputy Technical Director Simone Resta's choice of words stood out for anyone paying attention: \"something more sizeable.\" In Formula 1, where engineers choose their words carefully and \"upgrade\" can mean anything from a bolt change to a fundamental redesign, \"sizeable\" is a meaningful signal.\n\nThis is Mercedes' largest aerodynamic and technical upgrade package of the 2026 season. It debuts at the Dutch GP on August 21. The goal: give Kimi Antonelli — already leading the championship by 50 points — an even stronger car heading into the second half of the season.\n\nOr, from the opposition's perspective: a Mercedes that might have already won everything, getting stronger.\n\nRed Bull is also bringing updates to Zandvoort. Ferrari is saving its critical power unit upgrade for Monza (Italian GP), which comes shortly after the Dutch GP. The technical development race during the summer break is as important as anything that happens on track.\n\nFor Antonelli, a \"sizeable\" upgrade in his car at a venue he's never raced at in F1 (Zandvoort is new to the sprint format) is a significant advantage. For Hamilton, Russell, and the rest of the field — the gap just got harder to close.\n\n💬 Can any team close the gap to Mercedes in the second half of 2026?\n\n---",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-mercedes-sizeable-dutch-gp-upgrade.html",
+        "headline": "Mercedes Targets \"Sizeable\" Dutch GP Upgrade — The Season's Biggest Technical Bet",
+        "word_count": 495
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Mercedes Upgrade\n\n**Image Concept 1 — Social (1080x1350)**\n- Search: \"Kimi Antonelli Mercedes AMG\"\n- Usage: X post + FB image caption\n- Overlay text: \"SOMETHING MORE SIZEABLE\" / \"Mercedes' Biggest Upgrade of 2026 Debuts at Zandvoort\"\n- Credit: (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Mercedes Sizeable Dutch GP Upgrade\n**Verified Facts:**\n- [HIGH] Simone Resta (Mercedes Deputy TD) used the word \"sizeable\" describing Dutch GP upgrade — Formula1.com official article, Crash.net, PlanetF1\n- [HIGH] This is described as Mercedes' largest aerodynamic/technical package of the season — multiple outlets\n- [HIGH] Red Bull also bringing updates to Zandvoort — RacingNews365, The Race\n- [MEDIUM] Ferrari saving critical engine upgrade for Monza (Italian GP) after Dutch GP — ScuderiaFans\n**Sources:** Formula1.com, Crash.net, PlanetF1, The Race, RacingNews365",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Ocon Under the Axe — Haas Seat in Danger With Camara and Fornaroli Waiting",
+      "tier": 2,
+      "status": "",
+      "angle": "Esteban Ocon has scored just 3 points in 11 races at Haas vs. rookie teammate Oliver Bearman's ~18; the team is reportedly considering Rafael Camara and Leonardo Fornaroli as Bearman's 2027 partner",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Esteban Ocon in 2026:\n\n📊 3 points from 11 races\n📊 Teammate Oliver Bearman: ~18 points\n\nHaas is reportedly looking at Rafael Camara and Leonardo Fornaroli as Bearman's 2027 partner.\n\nOcon's seat is not safe. #F1 #Haas",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Haas"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "⚠️ Esteban Ocon has scored three points from eleven Formula 1 races in 2026.\n\nHis teammate Oliver Bearman — a 20-year-old racing in his first full F1 season — has scored approximately six times as many in the same period.\n\nThe situation at Haas is not subtle. Motorsport.com has reported that the team is already considering alternatives for 2027: specifically Rafael Camara and Leonardo Fornaroli, two highly-rated junior drivers waiting for their opportunity. Former Haas team principal Guenther Steiner, who knows the Haas environment as well as anyone, has delivered what was described as a \"blunt verdict\" on Ocon's future with the team.\n\nOcon joined Haas this season as an experienced hand — a driver with race wins in his career, a full season at Alpine, and a reputation for racecraft. The expectation was that he would be a steadying presence alongside the young Bearman.\n\nInstead, Bearman has been doing the steadying.\n\nThis is not purely an Ocon story. It is also an Oliver Bearman story — a driver quietly building a very good rookie season while his more experienced teammate struggles to score. In a sport where opportunity is everything, Bearman's performance is exactly the kind that changes careers.\n\nThere are still nine grands prix to go. Ocon has time to reverse this. But the summer break is also when contracts are negotiated — and the numbers don't favor him right now.\n\n💬 Can Ocon turn this around in the second half? Or is Haas going younger for 2027?\n\n---",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-ocon-haas-seat-under-threat-bearman.html",
+        "headline": "Esteban Ocon's Haas Seat Is Under Threat — And Oliver Bearman Is Why",
+        "word_count": 554
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ocon Under Pressure\n\n**Image Concept 1 — Social (1080x1350)**\n- Search: \"Esteban Ocon Haas\"\n- Usage: X post + FB image caption\n- Overlay text: \"3 POINTS FROM 11 RACES\" / \"Ocon's Seat Is Under Threat\"\n- Credit: (Imagn Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Ocon vs. Bearman — Haas Seat Pressure\n**Verified Facts:**\n- [HIGH] Esteban Ocon has scored 3 points from 11 races at Haas in 2026 — Motorsport.com, PlanetF1, TheJudge13\n- [HIGH] Oliver Bearman has scored approximately 18 points in same period — same sources\n- [HIGH] Haas reportedly considering Rafael Camara and Leonardo Fornaroli as Bearman's 2027 partner — Motorsport.com, PlanetF1\n- [MEDIUM] Former Haas boss Guenther Steiner delivered a \"blunt verdict\" on Ocon's future (negative) — Motorsport.com\n**Sources:** Motorsport.com, PlanetF1, TheJudge13",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Hamilton vs. Leclerc — Ferrari's Internal Battle at the Summer Break",
+      "tier": 2,
+      "status": "",
+      "angle": "Hamilton leads Ferrari's internal standings by 31 points after 11 races; Vasseur confirmed intent to exercise Hamilton's contract option; 2026 is his first Ferrari season and he rates it \"slightly above average\" at the midpoint",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Lewis Hamilton on his 2026 Ferrari vs. 2025 Mercedes: \"worlds away.\"\n\nHe leads Leclerc by 31 points inside Ferrari. 1 win, 5 podiums.\n\nFerrari boss Vasseur expects to extend his contract.\n\nFrom disaster to title contender in 12 months. #F1 #Hamilton #Ferrari",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Hamilton",
+            "#Ferrari"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": {
+        "long_form": "🐎 The Ferrari garage has two of the best drivers in Formula 1 — and one of them is clearly winning the internal battle so far.\n\nLewis Hamilton leads Charles Leclerc by 31 points in the Ferrari head-to-head standings at the summer break. For context: Hamilton arrived at Maranello having described his final Mercedes season as the worst of his career. He said his new Ferrari was \"worlds away\" from what he'd been driving. He meant it as a relief — not a complaint.\n\nThe results show it. Hamilton's first Ferrari win came at Barcelona. He has five podiums through the first eleven races. ESPN's midterm grades for the season gave him an A-minus — the highest mark in the field aside from Kimi Antonelli's A-plus. He is 31 points clear of his teammate inside the same car.\n\nFor Leclerc, this is a complicated moment. He is undeniably fast — three-time Spa pole winner, multiple victories in recent seasons. But Hamilton, in his first year in red, has adjusted to the car quickly and proven capable of extracting more from it week to week.\n\nFerrari boss Fred Vasseur has confirmed he expects to exercise the option on Hamilton's contract, keeping him at Maranello beyond this season. For Leclerc, the implications of that are clear: the man he thought would take time to settle in has settled in faster than expected.\n\nThe second half of the season begins at Zandvoort. Ferrari has a power unit upgrade coming at Monza. The gap to Mercedes is 72 points in the Constructors' Championship.\n\nEverything is still to play for.\n\n💬 Who comes out ahead at Ferrari by season's end — Hamilton or Leclerc?\n\n---",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-hamilton-leclerc-ferrari-head-to-head.html",
+        "headline": "Hamilton vs. Leclerc: Ferrari's Internal Battle at the Halfway Point of 2026",
+        "word_count": 559
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hamilton vs. Leclerc\n\n**Image Concept 1 — Social (1080x1350)**\n- Search: \"Lewis Hamilton Ferrari\"\n- Usage: X post + FB image caption\n- Overlay text: \"LEADING FERRARI FROM WITHIN\" / \"Hamilton +31 vs. Leclerc at Summer Break\"\n- Credit: (USA TODAY Sports Images)"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Hamilton vs. Leclerc at Ferrari\n**Verified Facts:**\n- [HIGH] Hamilton is at Ferrari in 2026 (moved from Mercedes ahead of this season) — official F1.com\n- [HIGH] Hamilton leads Leclerc by 31 points in the Ferrari internal standings at summer break — RaceFans.net head-to-head confirmed\n- [HIGH] Hamilton's first Ferrari win was in Spain (Barcelona); 5 podiums from approximately 6 races — ESPN, PlanetF1\n- [HIGH] Hamilton rates his 2026 season \"slightly above average\" at the midpoint — PlanetF1, ESPN\n- [HIGH] Ferrari boss Fred Vasseur confirmed intent to exercise option on Hamilton's contract — multiple sources\n- [MEDIUM] ESPN midterm grades: Antonelli A+, Hamilton A-\n**Sources:** F1.com, RaceFans.net, ESPN, PlanetF1, Autosport",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

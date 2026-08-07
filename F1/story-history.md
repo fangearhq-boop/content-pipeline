@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-08-07
+
+### STORY 1: Zandvoort Farewell — Dutch GP Will Be the Final F1 Race at the Circuit
+- **Tier:** 1
+- **Category:** F1 / Dutch Grand Prix / Circuit Zandvoort / Verstappen
+- **Key facts:** Dutch GP Aug 21-23 confirmed as final F1 race at Zandvoort (six-year run started 2021); first-ever sprint format at Zandvoort; tickets sold out; Verstappen exit clause active = most emotionally loaded GP on calendar
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Race weekend coverage; Verstappen performance at final home GP
+
+### STORY 2: Alonso's Summer of Decision — "Probably My Last Barcelona Race"
+- **Tier:** 1
+- **Category:** F1 / Fernando Alonso / Aston Martin / Retirement
+- **Key facts:** No official retirement announcement; contract expires end 2026; age 44-45, 23rd season; quote: "This is probably my last Barcelona race in F1"; decision criteria: "If competitive, more chance I stop / if not, hard to give up"; Ted Kravitz predicts retirement; decision expected around Dutch GP
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official retirement announcement; Dutch GP confirmation
+
+### STORY 3: Mercedes' "Sizeable" Dutch GP Upgrade
+- **Tier:** 2
+- **Category:** F1 / Technical / Mercedes / Dutch Grand Prix
+- **Key facts:** Deputy TD Simone Resta confirmed "sizeable" upgrade targeting Zandvoort debut; season's largest aero package; Red Bull also upgrading; Ferrari saving engine upgrade for Monza
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Qualifying pace at Zandvoort; upgrade effectiveness
+
+### STORY 4: Ocon Under the Axe at Haas
+- **Tier:** 2
+- **Category:** F1 / Driver Market / Haas / Esteban Ocon / Oliver Bearman
+- **Key facts:** Ocon 3 pts from 11 races; Bearman ~18 pts same period; Haas reportedly eyeing Camara + Fornaroli for 2027; Steiner negative verdict; 9 F1 seats under threat heading into summer negotiations
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Haas 2027 seat announcement; Ocon second-half performance
+
+### STORY 5: Hamilton vs. Leclerc — Ferrari Internal Battle
+- **Tier:** 2
+- **Category:** F1 / Ferrari / Lewis Hamilton / Charles Leclerc
+- **Key facts:** Hamilton leads Ferrari head-to-head by 31 pts at summer break; first win Spain; 5 podiums; rates season "slightly above average"; "worlds away" from 2025; Vasseur to exercise contract option; Ferrari Monza engine upgrade coming
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Monza upgrade effectiveness; second-half head-to-head
+
 ## 2026-08-06
 
 | Date | Tier | Story | Platforms | Status |
