@@ -1,42 +1,58 @@
 {
-  "generated_at": "2026-08-06T08:30:00.789785+00:00",
-  "today_ct": "2026-08-06",
+  "generated_at": "2026-08-07T08:30:00.693751+00:00",
+  "today_ct": "2026-08-07",
   "off_day": false,
   "is_series_start_today": true,
   "series": {
-    "opponent": "Toronto Blue Jays",
-    "opponent_id": 141,
-    "opponent_record": "54-61",
-    "cubs_record": "66-49",
-    "is_cubs_home": true,
-    "venue": "Wrigley Field",
-    "series_length": 1,
+    "opponent": "Kansas City Royals",
+    "opponent_id": 118,
+    "opponent_record": "48-68",
+    "cubs_record": "67-49",
+    "is_cubs_home": false,
+    "venue": "Kauffman Stadium",
+    "series_length": 3,
     "games": [
       {
-        "game_pk": "824664",
-        "game_date_iso": "2026-08-06T18:20:00Z",
-        "game_date_ct": "Thu 1:20 PM CT",
+        "game_pk": "824081",
+        "game_date_iso": "2026-08-08T00:10:00Z",
+        "game_date_ct": "Fri 7:10 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      },
+      {
+        "game_pk": "824079",
+        "game_date_iso": "2026-08-08T23:10:00Z",
+        "game_date_ct": "Sat 6:10 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      },
+      {
+        "game_pk": "824078",
+        "game_date_iso": "2026-08-09T18:10:00Z",
+        "game_date_ct": "Sun 1:10 PM CT",
         "cubs_probable": "TBD",
         "opponent_probable": "TBD",
         "status": "Preview"
       }
     ],
-    "rationale": "Yesterday vs Los Angeles Dodgers; today vs Toronto Blue Jays \u2192 game 1 of 1 (home)."
+    "rationale": "Yesterday vs Toronto Blue Jays; today vs Kansas City Royals \u2192 game 1 of 3 (on the road)."
   },
   "today_cubs_game": {
-    "game_pk": "824664",
+    "game_pk": "824081",
     "status": "Preview",
     "detailed_status": "Scheduled",
-    "game_date_iso": "2026-08-06T18:20:00Z",
-    "game_date_ct": "Thu 1:20 PM CT",
-    "is_cubs_home": true,
-    "opponent_id": 141,
-    "opponent_name": "Toronto Blue Jays",
-    "opponent_record": "54-61",
-    "cubs_record": "66-49",
+    "game_date_iso": "2026-08-08T00:10:00Z",
+    "game_date_ct": "Fri 7:10 PM CT",
+    "is_cubs_home": false,
+    "opponent_id": 118,
+    "opponent_name": "Kansas City Royals",
+    "opponent_record": "48-68",
+    "cubs_record": "67-49",
     "cubs_probable": "TBD",
     "opponent_probable": "TBD",
-    "venue": "Wrigley Field"
+    "venue": "Kauffman Stadium"
   },
-  "rationale": "Yesterday vs Los Angeles Dodgers; today vs Toronto Blue Jays \u2192 game 1 of 1 (home)."
+  "rationale": "Yesterday vs Toronto Blue Jays; today vs Kansas City Royals \u2192 game 1 of 3 (on the road)."
 }
