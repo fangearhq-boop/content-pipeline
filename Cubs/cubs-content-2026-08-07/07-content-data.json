@@ -1,0 +1,287 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-07",
+  "compiled_at": "2026-08-07T09:26:07.904261+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Story 1 — Series Preview (3-game road trip at KC, Gausman debut tonight)",
+      "type": "Preview"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Story 2 — Walk-Off Recap (Bregman HR + PCA 11th-inning walk-off vs Blue Jays)",
+      "type": "Passionate/Informative"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 3 — Bregman Hot Streak (.370, 1.082 OPS in last 11 games)",
+      "type": "Stat Breakdown"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "Story 4 — PCA MVP Watch (last 15 games hot, season bWAR leads MLB)",
+      "type": "Bold/Analytical"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 5 — Gausman + Holmes Rotation Depth",
+      "type": "Bold/Informative"
+    },
+    {
+      "time": "1:15 PM",
+      "description": "Story 6 — Wild Card Watch (67-49, Cardinals done)",
+      "type": "Humor/Rival"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Story 7 — Cabrera Rehab (4 IP, 8 K, 97.4 mph)",
+      "type": "Informative/Roster"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 8 — Pre-Game Hype (Gausman debut at 7:10 PM CT)",
+      "type": "Bold/Hype"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Series Preview — Cubs at Kansas City Royals, 3-Game Road Trip",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "3-game road trip opens at Kauffman Stadium. Kevin Gausman makes his Cubs debut tonight at 7:10 PM CT. Clay Holmes debuts Saturday. Cubs (67-49) vs. Royals (48-68). Lead with matchup + series length + location; pitcher/stakes as kicker.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Cubs at Kansas City Royals — three games, Kauffman Stadium.\n\nKevin Gausman makes his Cubs debut tonight at 7:10 PM CT. Clay Holmes follows Saturday. The deadline haul arrives in KC.\n\nThe Royals are 48-68. The Cubs are here to handle business.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Preview / informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Walk-Off Win Recap — Bregman's 9th-Inning HR + PCA Steals Game in the 11th",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Bregman 2-run shot off Varland in the 9th (two-strike, two-out, 12th HR) tied it 2-2. PCA led off 11th with single, broke for third, scored when Blue Jays catcher's throw sailed into left. 11th walk-off win of the season. Dylan Cease wasted (7 IP, 2 H, 10 K). NO score per has_score=False insight.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Bregman with a two-out, two-run shot in the ninth to tie it.\n\nThen PCA singled in the 11th, broke for third, and scored when the Blue Jays throw sailed into left.\n\nThat's 11 walk-off wins this season. Good teams find a way.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Passionate / informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Alex Bregman Hot Streak — .370, 1.082 OPS in Last 11 Games",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Bregman quietly building a big second half. Last 11 games: .370 avg, 1.082 OPS. Hit 12th HR on Aug 6. Lineup depth angle alongside PCA MVP buzz. The Cubs' 3-4-5 punch is legitimate.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Alex Bregman in his last 11 games: .370 average, 1.082 OPS.\n\nHe's been quietly doing this while everyone is (rightfully) watching PCA. The third baseman is locked in at exactly the right time.\n\nThe Cubs' lineup is genuinely scary right now.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Stat breakdown / informative",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "PCA MVP Watch — .288/.386/.552, 26 HR, 28 SB, 7.3 bWAR, Hot in Last 15",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Fresh data point: last 15 games .333, 5 HR, 16 RBI, 3 SBs. Full season line bests all MLB position players in WAR. Ohtani limited to DH. PCA is NL MVP frontrunner. Note: historical \"unprecedented\" pace claim flagged as single-source — using hedged language.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Pete Crow-Armstrong in his last 15 games: .333, 5 HR, 16 RBI, 3 steals.\n\nSeason line: .288/.386/.552, 26 HR, 28 SB, 7.3 bWAR — leading all MLB position players.\n\nWith Ohtani limited to DH, the NL MVP trophy has PCA's name on it right now.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Bold take / analytical",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Gausman + Holmes — The Cubs Rotation Gets Dangerous",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Gausman makes his Cubs debut tonight at 7:10 PM CT. Holmes Saturday. Cabrera on track for mid-August return. Rotation is about to become legitimately scary for playoff opponents.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Kevin Gausman makes his Cubs debut tonight at Kauffman Stadium, 7:10 PM CT.\n\nClay Holmes follows Saturday. Cabrera on track for mid-August. This rotation just got very interesting.\n\nStretch run starts now.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Bold / informative (rotation depth)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Wild Card Watch — Cubs at 67-49, Cardinals Below .500",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Cubs No. 1 NL Wild Card at 67-49. Cardinals below .500, functionally done. Brewers lead NL Central at 70-43. Cubs path to October is clear. Sharp rival jab + standings context.",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Cubs are No. 1 in the NL Wild Card at 67-49.\n\nCardinals are below .500 and cooked. Brewers lead the NL Central. The Cubs' path to October is getting clearer by the day.\n\nGood teams win ugly. This one does both.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Humor / rival watch",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "Edward Cabrera Rehab Update — 4 IP, 8 K, 0 BB, Mid-August Return on Track",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Cabrera's 2nd Iowa rehab start: 4 IP, 1 ER (unearned), 8 K, 0 BB, 97.4 mph avg four-seam. On track for mid-August return (target Aug 14-19 homestand vs Cardinals/White Sox). Adding to the rotation depth narrative.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Edward Cabrera's second Iowa rehab start: 4 innings, 8 strikeouts, 0 walks, 97.4 mph average on his four-seam.\n\nThe right-hander is on track for a mid-August return. That's a legitimate rotation boost just as the stretch run gets real.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Informative / roster",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 8,
+      "title": "Pre-Game Hype — Gausman's Cubs Debut, 7:10 PM CT at Kauffman",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Final push before first pitch. Gausman on the mound for the first time in blue. Royals at 48-68. This is stretch run baseball.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 8",
+          "text": "Gausman. Kauffman Stadium. 7:10 PM CT tonight.\n\nThe Cubs' deadline addition makes his debut against a Royals team that's 48-68. This is a statement game for the new rotation.\n\nTune in. Stretch run baseball.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Bold / hype",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 8,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

@@ -5304,3 +5304,75 @@ Each day's stories are appended at the top (newest first).
 - **Follow-Up Opportunities:**
   - Wiggins command improvements / call-up timeline
   - Ayers performance at Iowa level
+
+---
+
+## 2026-08-07
+
+### STORY 1: Series Preview — Cubs at Kansas City Royals, 3-Game Road Trip
+- **Angle:** NEW STORY (is_series_start_today=true; 3-game road series at Kauffman Stadium; Kevin Gausman makes Cubs debut tonight, 7:10 PM CT; Clay Holmes debuts Saturday; Cubs (67-49) vs Royals (48-68))
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, series preview)
+- **Follow-Up Opportunities:**
+  - Gausman debut performance recap (tomorrow morning)
+  - Holmes debut Saturday
+  - Series result and recap
+
+### STORY 2: Walk-Off Win Recap — Bregman's 9th-Inning HR + PCA Steals Game in the 11th
+- **Angle:** NEW STORY (Cubs 3, Blue Jays 2 in 11 innings on Aug 6; Bregman 12th HR, two-strike two-out 2-run shot off Varland in 9th; PCA singled, broke for third, scored on catcher Valenzuela's throwing error; 11th walk-off win; Cease wasted 10 K in 7 IP; NO score per has_score=False insight)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, walk-off recap)
+- **Follow-Up Opportunities:**
+  - Bregman HR total approaching 15
+  - Walk-off count as season storyline (14th?)
+  - Cease/Blue Jays narrative
+
+### STORY 3: Alex Bregman Hot Streak — .370, 1.082 OPS in Last 11 Games
+- **Angle:** NEW STORY (Bregman last 11 games: .370 avg, 1.082 OPS; 12th HR on Aug 6; Aug 2026: .766 OPS; big second half brewing; "quiet while PCA gets MVP buzz" angle)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, stat breakdown)
+- **Follow-Up Opportunities:**
+  - Bregman second-half OPS vs contract year narrative
+  - Bregman vs KC tonight
+
+### STORY 4: PCA MVP Watch — .333 in Last 15, Leading MLB in bWAR
+- **Angle:** FOLLOW UP (PCA MVP arc; Aug 6 covered consecutive 25/25 milestone; today's angle = last 15 games hot (.333, 5 HR, 16 RBI, 3 SBs); current season line: .288/.386/.552, 26 HR, 28 SB, 7.3 bWAR leads all MLB position players; Ohtani limited to DH)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, bold/analytical)
+- **Follow-Up Opportunities:**
+  - PCA 30 HR milestone (4 away)
+  - PCA 30 SB milestone (2 away)
+  - Official MVP ballot discussion in September
+
+### STORY 5: Gausman + Holmes — Cubs Rotation Gets Dangerous
+- **Angle:** NEW STORY (Gausman Cubs debut tonight, Holmes Saturday; Cabrera on track for mid-August return; rotation transformation complete; stretch run bold take)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, bold/informative)
+- **Follow-Up Opportunities:**
+  - Gausman debut performance (tomorrow recap)
+  - Holmes debut Saturday
+  - Cabrera return Aug 14-19
+
+### STORY 6: Wild Card Watch — Cubs 67-49, Cardinals Below .500
+- **Angle:** FOLLOW UP (Cardinals collapse arc; Aug 6 had them at 54-57, 15th NL WC; today confirmed below .500 and functionally eliminated; Cubs at 67-49 No. 1 NL WC; Brewers 70-43 NL Central)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, humor/rival watch)
+- **Follow-Up Opportunities:**
+  - Cardinals mathematical elimination
+  - Cubs vs Brewers division gap
+
+### STORY 7: Edward Cabrera Rehab Update — 4 IP, 8 K, 0 BB at Iowa
+- **Angle:** NEW STORY (Cabrera 2nd Iowa rehab start: 4 IP, 1 ER unearned, 8 K, 0 BB, 97.4 mph four-seam; on track for mid-August return target Aug 14-19 homestand vs Cardinals/White Sox)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, informative/roster)
+- **Follow-Up Opportunities:**
+  - Cabrera 3rd rehab start (one more needed)
+  - Cabrera activation date confirmed
+  - Cabrera debut vs Cardinals angle
+
+### STORY 8: Pre-Game Hype — Gausman Debut at 7:10 PM CT
+- **Angle:** NEW STORY (pre-game push; Gausman on the mound at Kauffman Stadium; Royals 48-68; stretch run baseball)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, bold/hype)
+- **Follow-Up Opportunities:**
+  - Gausman debut performance (tomorrow morning recap)
