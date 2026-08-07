@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-08-07
+
+### STORY 1: Maxey Beats LeBron to the Gym — "Rese for President"
+- **Tier:** 1
+- **Category:** NBA Offseason / Philadelphia 76ers / Tyrese Maxey / LeBron James
+- **Key facts:** Maxey beat LeBron to 6:15 AM workout, called him out publicly; LeBron responded with "Rese for President" workout post; both share agent Rich Paul; projected five: LeBron/Embiid/Brown/Maxey/Edgecombe (5 MVP awards); LeBron joined July 24; unofficial preseason debut Oct 8 at Brooklyn; training camp late September
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** First day of training camp; preseason opener Oct 8
+
+### STORY 2: Wembanyama Back in France — FIBA Return and Spurs Camp
+- **Tier:** 2
+- **Category:** NBA Offseason / San Antonio Spurs / Victor Wembanyama / France Basketball
+- **Key facts:** Named to France's 15-man FIBA World Cup qualifying roster; quote: "I miss FIBA"; hosting Spurs teammates in France (Fox/Castle/Harper confirmed); France vs. Serbia Aug 20+23, Slovenia Aug 27, Sweden Aug 30; first FIBA since 2024 Paris Olympics gold; DPOY + WCF MVP 2025-26; 5yr/$252M extension (25% max, left $50M on table)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** FIBA qualifying results; Spurs training camp
+
+### STORY 3: NBA Schedule Week — Cup Tuesday, Full Slate Thursday
+- **Tier:** 2
+- **Category:** NBA / 2026-27 Season Preview / NBA Cup
+- **Key facts:** NBA Cup schedule expected Tue Aug 11; full 2026-27 schedule expected Thu Aug 13; last 3 releases all on Thursdays; Bleacher Report: unusually high demand; marquee games: LeBron Philly opener, Knicks banner night Oct 20 MSG; 6 new head coaches
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Schedule release Aug 13; marquee game analysis
+
+### STORY 4: LeBron's Historic Triple — 42K+/11K+/11K+
+- **Tier:** 2
+- **Category:** NBA / LeBron James / Career Milestones
+- **Key facts:** LeBron closed 2025-26 with 43,440 career points; only player ever with 42K+ pts AND 11K+ reb AND 11K+ ast simultaneously (ESPN/NBA.com); KD passed Jordan for No. 5 all-time; Curry passed KG/Havlicek/Pierce; LeBron joins Sixers for more history
+- **Status:** NEW
+- **Follow-up ideas:** LeBron scoring milestones during 2026-27 season
+
+### STORY 5: Fred VanVleet Opts Into $25M — Rockets Return From ACL
+- **Tier:** 2
+- **Category:** NBA Contracts / Houston Rockets / Fred VanVleet
+- **Key facts:** VanVleet tore ACL September 2025, missed all of 2025-26; opted into $25M player option with Houston; recovery on track for training camp; gives Rockets a proven starting PG when healthy
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Training camp participation level; preseason health update
+
 ## 2026-08-06
 
 | Date | Tier | Story | Platforms | Status |

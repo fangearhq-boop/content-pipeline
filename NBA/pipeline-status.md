@@ -1,8 +1,18 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Last Run
-- **Date**: 2026-08-06
+- **Date**: 2026-08-07
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+- **Stories:** 5 total (1 Tier 1, 4 Tier 2)
+- **X Posts:** 6 written, all under 280 characters (Story 2 tweet fixed after verify-facts: trimmed from 289 to 236)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce)
+- **PostPlanner exports:** hh-postplanner-2026-08-07.xlsx (6 posts) + hh-postplanner-tobi-2026-08-07.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-08-07/review-dashboard.html (26 items)
+- **Notes:** Maxey beats LeBron to 6:15 AM gym (Rese for President post); Wembanyama France FIBA qualifying roster (I miss FIBA quote, hosting Spurs teammates); NBA Cup schedule Aug 11 + full slate Aug 13; LeBron 42K+/11K+/11K+ unique triple milestone; VanVleet $25M opt-in after torn ACL
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+## 2026-08-06
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)
 - **X Posts:** 7 written, all under 280 characters
 - **Facebook Posts:** 5 stories, long-form + caption each
