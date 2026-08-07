@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-08-07
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-08-07 | T1 | Hossler's 9-Under 61 Leads Wyndham as Spieth Fights for His Playoff Life | X, FB, Article | NEW |
+| 2026-08-07 | T1 | LIV Golf Secures Lead Investor and Unveils "LIV 2.0" — Player Ownership, 10 Events from 2027 | X, FB, Article | NEW |
+| 2026-08-07 | T2 | Brooks Koepka Returns to the PGA Tour — Most Significant LIV Departure of 2026 | X, FB, Article | NEW |
+| 2026-08-07 | T2 | FedExCup Playoffs Begin August 12 — Full Preview From St. Jude to East Lake | X, FB, Article | NEW |
+| 2026-08-07 | T2 | Scheffler's Win Drought: World No. 1 Hasn't Won Since January, POTY Race Wide Open | X, FB, Article | NEW |
+
+### STORY 1: Hossler's 9-Under 61 Leads Wyndham as Spieth Fights for His Playoff Life
+- **Tier:** 1
+- **Category:** PGA Tour / Wyndham Championship / FedExCup Playoffs Bubble
+- **Key facts:** Hossler leads at -9 (61 R1, tournament-record-tying); 4 consecutive birdies front nine, eagle 15, two late bogeys; T2: Theegala + Ben James at -8; James eagled both par-5s; Hossler outside top 70, needs win to make playoffs; Spieth at exactly No. 50 FedExCup (bubble), hit OB opening tee shot R1; Round 2 live August 7
+- **Status:** NEW
+- **Follow-up ideas:** Hossler wins Wyndham; Spieth survives or misses playoffs; R3/R4 bubble leaderboard update
+
+### STORY 2: LIV Golf Secures Lead Investor and Unveils "LIV 2.0" — Player Ownership, 10 Events from 2027
+- **Tier:** 1
+- **Category:** LIV Golf / Business of Golf / LIV 2.0 / Player Ownership
+- **Key facts:** CEO O'Neil confirmed board-approved lead investor August 5; investor identity undisclosed; reported investment $250M+; 10+ additional parties interested as minority investors; players will hold majority equity stake; LIV 2.0 = 10 events (5 US, 5 international) starting 2027; Saudi PIF ending all funding close of 2026 (~$5B invested since 2022); prior reports LIV awaiting ~$400M, final 2 events potentially in jeopardy; DeChambeau told to expect new contract under restructured entity
+- **Status:** NEW
+- **Follow-up ideas:** Investor identity reveal; player contract announcements; LIV 2.0 event calendar; PIF exit official date
+
+### STORY 3: Brooks Koepka Returns to the PGA Tour — Most Significant LIV Departure of 2026
+- **Tier:** 2
+- **Category:** PGA Tour / LIV Golf / Brooks Koepka / Returning Member Program
+- **Key facts:** Koepka returned to PGA Tour from LIV via Returning Member Program; 5-time major champion (PGA Championship 2018/2019, US Open 2017/2018, Open Championship 2024); original 2022 LIV signing; most significant individual LIV defection of 2026; timing coincides with LIV 2.0 restructuring announcement
+- **Status:** NEW
+- **Follow-up ideas:** Koepka first PGA Tour start back; other LIV players considering return; Returning Member Program field impact
+
+### STORY 4: FedExCup Playoffs Begin August 12 — Full Preview From St. Jude to East Lake
+- **Tier:** 2
+- **Category:** PGA Tour / FedExCup Playoffs / St. Jude Championship
+- **Key facts:** St. Jude Championship Aug 12-16 TPC Southwind Memphis (top 70); BMW Championship Aug 20-23 Bellerive CC St. Louis (top 50); Tour Championship Aug 27-30 East Lake Atlanta (top 30); $25M FedExCup prize; Scheffler FedExCup No. 1 (4,123 pts); McIlroy 4x FedExCup champion; Spieth bubble drama at No. 50
+- **Status:** FOLLOW-UP (format/preview first appeared multiple prior dates; this edition uses Wyndham R2 context as hook)
+- **Follow-up ideas:** Weekly Playoffs results; Tour Championship field; FedExCup champion
+
+### STORY 5: Scheffler's Win Drought: World No. 1 Hasn't Won Since January, POTY Race Wide Open
+- **Tier:** 2
+- **Category:** PGA Tour / Scottie Scheffler / FedExCup / Player of the Year
+- **Key facts:** Last win American Express January 2026 (20th career, -27 by 4 shots); 5 runner-up finishes since; World No. 1 (201st week total, 167th overall); leads FedExCup 4,123 pts; POTY race most open since 2021 (CBS Sports); Cameron Young No. 3 rising; Fleetwood/DeChambeau also in POTY contention; won Jack Nicklaus Award 4 straight years (2022-2025)
+- **Status:** FOLLOW-UP (Scheffler drought angle appeared 2026-08-05 and 2026-08-06; this edition framed around playoffs window)
+- **Follow-up ideas:** Scheffler wins St. Jude or BMW; POTY award announcement; East Lake result
+
 ## 2026-08-06
 
 | Date | Tier | Story | Platforms | Status |

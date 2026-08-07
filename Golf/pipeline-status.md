@@ -1,10 +1,21 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
-- **Date**: 2026-08-06
+- **Date**: 2026-08-07
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy 403; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-08-07
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** gfr-postplanner-2026-08-07.xlsx (7 posts) + gfr-postplanner-tobi-2026-08-07.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-08-07/review-dashboard.html (19 items)
+- **Notes:** WYNDHAM R2 LIVE — Hossler leads at -9 (61 R1, tournament-record-tying, 4 consecutive birdies front nine, eagle 15, two late bogeys); T2: Theegala + Ben James at -8 (James eagled both par-5s, two late bogeys); Spieth entered at No. 50 FedExCup (exactly on bubble), hit opening tee shot OB R1; Hossler outside top 70 and needs win to make playoffs; Round 2 live August 7; LIV GOLF LIV 2.0 — CEO O'Neil confirmed board-approved lead investor Aug 5; investor identity undisclosed; reported $250M+ investment; players will hold majority equity stake; LIV 2.0 = 10 events (5 US, 5 international) starting 2027; Saudi PIF announced April ending all funding close of 2026 (~$5B invested since 2022); prior reports LIV awaiting ~$400M, last 2 events in jeopardy; KOEPKA RETURNS — Brooks Koepka returned to PGA Tour from LIV via Returning Member Program; 5-time major champion; original 2022 LIV signing; most significant individual LIV defection of 2026; ST. JUDE PREVIEW — Aug 12-16 TPC Southwind Memphis (top 70); BMW Aug 20-23 Bellerive CC St. Louis (top 50); Tour Championship Aug 27-30 East Lake Atlanta (top 30); $25M FedExCup prize; McIlroy 4x FedExCup champion; SCHEFFLER DROUGHT — last win American Express January 2026 (20th career, -27 by 4 shots); 5 runner-up finishes in 2026; World No. 1 (201st week total, 167th overall); leads FedExCup 4,123 pts; POTY race most open since 2021 (CBS Sports); Cameron Young No. 3 rising; Fleetwood/DeChambeau also in POTY contention
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-08-06
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
