@@ -3,6 +3,64 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-08-08
+
+### Story 1: LLSWS Day 6 Results + Bracket Championship Day — NC, KY, NJ Advance to Sunday Grand Final
+- **Date:** 2026-08-08
+- **Tier:** 1
+- **Classification:** FOLLOW UP (LLSWS tracked Aug 1-7; Day 6 bracket championships today; Sunday Grand Final 3PM ET ABC)
+- **Angle:** Day 6 bracket championships: FL 5 Washington 0 (elimination); NJ (Barnegat) beat Puerto Rico 4-0 (NJ advances to Grand Final); NC (Clayton) rallied past FL to secure Purple Championship; KY (Daviess County) won Orange Championship. Grand Final Sunday: NC vs KY, 3PM ET ABC. NC's Anna-Lynn Clark continued dominant pitching run. NJ eliminating PR in semifinal was the Day 6 result that opened the Grand Final bracket.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - LLSWS Grand Final Sunday — NC vs KY (Aug 9 coverage)
+  - Anna-Lynn Clark championship game performance
+  - NJ's run to the Grand Final — Barnegat LL story
+
+### Story 2: AUSL All-Star Cup Series 1 Opens — Garcia, Ricketts, Corrick Named Captains
+- **Date:** 2026-08-08
+- **Tier:** 2
+- **Classification:** FOLLOW UP (AUSL All-Star Cup previewed Aug 7; today = Series 1 opens Rosemont IL)
+- **Angle:** Series 1 live at Parkway Bank Sports Complex, Rosemont IL. Rachel Garcia, Keilani Ricketts, and Georgina Corrick (2026 AUSL Pitcher of Year, 2.04 ERA) named Series 1 captains. Each had up to 2 mins per pick in the draft. No permanent teams — Athletes Unlimited individual scoring format; 45 players, 12 games, 4 redraft series through Aug 30. Fan-elected 8 included Karlyn Pickens, Jordan Woolery, Jayda Coleman, Rylie Boone, Reese Atwood, Alyssa Brito, Bri Ellis, Megan Grant. ESPN/MLB Network/CBS Sports Network broadcast rights.
+- **Content Produced:** Article (article-02, Emily Rawlings), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - AUSL Series 1 results (Aug 9-10)
+  - Individual points leaderboard after first games
+  - Georgina Corrick vs Garcia head-to-head angles
+
+### Story 3: September 1 Recruiting Window — 24 Days / Record 1,226 Class of 2028 Nominations
+- **Date:** 2026-08-08
+- **Tier:** 2
+- **Classification:** FOLLOW UP (countdown covered Aug 3-7; 25 days ran yesterday; today = 24 days)
+- **Angle:** September 1 = 24 days away. First D1 direct contact for Class of 2028 (current high school juniors). EIS record 1,226 nominations — highest ever for any class. Window mechanics: before Sept 1, coaches cannot initiate contact; on Sept 1, all contact opens simultaneously. Top prospects could receive calls from a dozen programs in the first hour.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - September 1 day-of coverage
+  - First-wave Class of 2028 commit announcements
+
+### Story 4: Texas Tech 2027 Fall Camp Around the Corner — Beachum, Pickering, Heavener Arriving
+- **Date:** 2026-08-08
+- **Tier:** 2
+- **Classification:** FOLLOW UP (TTU portal covered Aug 1-7; today = fall camp context + campus arrivals beginning)
+- **Angle:** Beachum (.406/10 HR/69 RBI, 2024 NFCA FOY, 2026 2nd Team AA), Pickering (.370/20 HR/61 RBI, 2024 national champion), Heavener (13-9/2.81 ERA/128 K, LSU), Terry (UCLA, 2-time AA), Williams (Florida, 2026 AA) all arriving. Glasco took TTU to 2026 WCWS Finals. No. 1 transfer class ranking by multiple services. Fall camp is first real test — depth charts, rotation decisions, and scrimmage schedule.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Texas Tech first fall scrimmage
+  - Depth chart and rotation announcements
+  - 2027 season preview (September/October)
+
+### Story 5: USA Softball WNT — WBSC World Cup Group Stage 35 Days Away
+- **Date:** 2026-08-08
+- **Tier:** 3
+- **Classification:** FOLLOW UP (World Cup covered Aug 5-7; 36 days on Aug 7; today = 35 days)
+- **Angle:** 35 days to WBSC Softball Women's World Cup Group Stage (Sept 12-16, Devon Park OKC). USA (No. 2 world ranking behind Japan) hosts; group includes Netherlands (No. 6), Mexico (No. 7), China (No. 8), New Zealand (No. 23), South Africa (No. 36). 16-player roster includes Garcia, Mulipola, Fouts, Brady + two debutants: Valerie Wells (Oklahoma) and Taylor Shumaker (Florida). 10 of 16 athletes from SEC programs. Group Stage is direct path to 2027 World Cup and 2028 Olympic qualification.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Group Stage schedule/broadcast announcements
+  - USA roster training camp update (closer to Sept 12)
+  - WBSC World Cup coverage Sept 12-16
+
+---
+
 ## 2026-08-07
 
 ### Story 1: LLSWS Day 5 Results + Day 6 Today — NC and Kentucky Both Go 3-0
