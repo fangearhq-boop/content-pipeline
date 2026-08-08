@@ -1435,3 +1435,51 @@ Track previously covered stories to avoid repetition and maintain content freshn
 - **Byline:** Elena Voss
 - **Key Facts:** de Minaur vs. Norrie Centre Court 6PM; Fils vs. Navone; FAA home soil 2nd seed; Shelton defending; draw wide open; Sources: tennis.com, nationalbankopen.com, ATP Tour
 - **Follow-Up Opportunities:** R3 results; Montreal QF lineup; title contender picture
+
+
+## 2026-08-08
+
+### Story 1: Fonseca Beats Ruud — Sets Blockbuster R16 Showdown With Shelton
+- **Date:** 2026-08-08
+- **Angle:** FOLLOW-UP (2026-08-06 S3: Fonseca Beats Tsitsipas) — Joao Fonseca (BRA, 19) def. Casper Ruud (NOR, No. 9 seed) 7-6(6), 6-3 in Montreal R3. Next opponent: defending champion Ben Shelton (USA, 2nd seed). Back-to-back seeded scalps (Tsitsipas R2, Ruud R3) at same Masters 1000 — first time in Fonseca's career. Two teens in Montreal R16 first time since Shapovalov/Tsitsipas 2018.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Marcus Cole
+- **Key Facts:** Fonseca def. Ruud 7-6(6), 6-3; 3rd Masters 1000 R16; two teens in R16 first time since 2018; Sources: atptour.com, prokerala.com, nationalbankopen.com
+- **Follow-Up Opportunities:** Fonseca vs. Shelton R16 result; Montreal QF picture; Fonseca US Open seeding
+
+### Story 2: Fernandez Stuns Roland Garros Champion Andreeva 6-1, 6-4 in Toronto R3
+- **Date:** 2026-08-08
+- **Angle:** NEW STORY — Leylah Fernandez (CAN) def. Mirra Andreeva (RUS, No. 5 seed) 6-1, 6-4 in WTA Toronto R3. Andreeva is the reigning 2026 Roland Garros champion (youngest Grand Slam winner since 1992). Biggest win for Fernandez since 2021 US Open final run. Last Canadian standing in combined NBO field.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Ryan Calloway
+- **Key Facts:** Fernandez def. Andreeva 6-1, 6-4; Andreeva 2026 RG champion; biggest win since 2021 USO; last Canadian standing; Sources: cp24.com, tsn.ca, nationalbankopen.com, tennisnow.com
+- **Follow-Up Opportunities:** Fernandez R16 result; Fernandez Toronto QF bid; Andreeva US Open
+
+### Story 3: Montreal R16 Set — Only Shelton Remains in Top 10
+- **Date:** 2026-08-08
+- **Angle:** FOLLOW-UP (2026-08-06 S2: Montreal Chaos; 2026-08-06 S5: Montreal R3 Preview) — Shelton only top-10 player remaining. Eliminated: Zverev (R2), Medvedev (R2), Fritz (R2), Hurkacz (R3), Ruud (R3), Paul (R3). R16: Fonseca vs. Shelton; Mensik vs. VdZ; Tien vs. Tirante; Griekspoor vs. Merida.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Elena Voss
+- **Key Facts:** Shelton only top-10 remaining; 6 seeds eliminated; R16 bracket set; Sources: nationalbankopen.com, atptour.com
+- **Follow-Up Opportunities:** R16 results; Montreal QF lineup; first-time champion narrative
+
+### Story 4: Kostyuk vs. Swiatek — Toronto R16 Rematch After Roland Garros Upset
+- **Date:** 2026-08-08
+- **Angle:** FOLLOW-UP (2026-08-06 S4: WTA Toronto R3 Day) — Kostyuk (UKR) def. Keys 6-3, 6-1 in R3. R16 rematch vs. Swiatek (who Kostyuk beat at Roland Garros 2026). Sabalenka vs. Alexandrova also R16 Sat Aug 8. Eala beats McNally 6-3, 5-7, 6-4. Rybakina leads WTA Tour with 306 aces in 2026.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Marcus Cole
+- **Key Facts:** Kostyuk def. Keys 6-3, 6-1; Kostyuk beat Swiatek at RG 2026; Eala def. McNally 6-3, 5-7, 6-4; Rybakina 306 aces; Sources: glavnoe.in.ua, tennistemple.com, nationalbankopen.com, thecanadianpressnews.ca
+- **Follow-Up Opportunities:** Kostyuk/Swiatek R16 result; Sabalenka QF; Toronto SF picture
+
+### Story 5: Alcaraz Withdraws From Cincinnati — US Open Defence in Serious Doubt
+- **Date:** 2026-08-08
+- **Angle:** FOLLOW-UP (2026-08-05 S5: Cincinnati Preview) — Carlos Alcaraz (ESP) withdrew from Cincinnati Open (Aug 13-23) due to tenosynovitis in right wrist. Last match April (Barcelona). Missed Roland Garros, Wimbledon, now Cincinnati. US Open (Aug 24) participation in doubt. Defending US Open and Cincinnati champion.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Elena Voss
+- **Key Facts:** Cincinnati withdrawal confirmed; tenosynovitis right wrist; last match April; missed RG + Wimbledon + Cincinnati; US Open Aug 24; Sources: olympics.com, skysports.com, espn.com, tennismajors.com
+- **Follow-Up Opportunities:** Alcaraz US Open decision; Cincinnati draw implications; Sinner dominance narrative

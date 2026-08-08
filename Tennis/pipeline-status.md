@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-08-06 |
-| Writing | Complete (all steps) | 2026-08-06 |
-| Fact-check | Complete (verify-facts.py run — 5 stories, 26 claims) | 2026-08-06 |
-| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 5 articles) | 2026-08-06 |
-| Dashboard | Complete (review-dashboard.html, 22 items) | 2026-08-06 |
-| PostPlanner Export | Complete (standard 7 posts 13:07–20:43 ET; TOBI 7 posts) | 2026-08-06 |
-| WordPress Publish | Attempted — proxy blocks write to WordPress API (same as all prior runs) | 2026-08-06 |
-| Dashboard Push | Attempted — Push failed: proxy blocks git push to content-dashboards repo (same as all prior runs) | 2026-08-06 |
+| Research | Complete | 2026-08-08 |
+| Writing | Complete (all steps) | 2026-08-08 |
+| Fact-check | Complete (verify-facts.py run — 5 stories, 21 claims) | 2026-08-08 |
+| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 5 articles) | 2026-08-08 |
+| Dashboard | Complete (review-dashboard.html, 22 items) | 2026-08-08 |
+| PostPlanner Export | Complete (standard 7 posts 12:57–20:39 ET; TOBI 7 posts) | 2026-08-08 |
+| WordPress Publish | Attempted — proxy blocks write to WordPress API (same as all prior runs) | 2026-08-08 |
+| Dashboard Push | Attempted — Push failed: proxy blocks git push to content-dashboards repo (same as all prior runs) | 2026-08-08 |
 
 ## Queue
 
@@ -63,4 +63,14 @@ Dashboard subfolder: `tfr`
 - **PostPlanner exports:** tfr-postplanner-2026-08-05.xlsx (7 posts, 13:05–20:41 ET), tfr-postplanner-tobi-2026-08-05.xlsx (7 TOBI posts)
 - **Key stories:** Draper in tears Montreal R1 loss (Atmane 6-3, 2-6, 6-2 — emotional injury story); Navone saves 11/12 BPs to beat Berrettini (career-best 19th win 2026); Sabalenka opens Toronto 6-3, 6-3 (24/25 hard courts); Swiatek bagels Bejlek 6-0, 6-3 in Toronto R1; Cincinnati preview (Sinner/Alcaraz/Zverev)
 - **Issues:** FB posts not picked up by compile script (0 FB posts in JSON — known issue); WordPress blocked by proxy; dashboard push blocked by proxy; image manifest all not_started (expected)
+- **Story history:** Updated with all 5 stories
+
+### 2026-08-08 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
+- **Articles:** 5 (bylines: Marcus Cole [S1, S4], Ryan Calloway [S2], Elena Voss [S3, S5])
+- **PostPlanner exports:** tfr-postplanner-2026-08-08.xlsx (7 posts 12:57–20:39 ET), tfr-postplanner-tobi-2026-08-08.xlsx (7 TOBI posts)
+- **Key stories:** Fonseca (19) beats Ruud to set up Shelton R16 showdown (2 teens in Montreal R16 first since Shapovalov/Tsitsipas 2018); Fernandez stuns Roland Garros champion Andreeva 6-1, 6-4 in Toronto (biggest win since 2021 USO final); Montreal R16 set — Shelton only top-10 remaining (Zverev/Medvedev/Fritz/Hurkacz/Ruud/Paul all eliminated); Kostyuk vs. Swiatek Toronto R16 rematch after Roland Garros upset; Alcaraz withdraws from Cincinnati — US Open title defence in doubt (tenosynovitis, last match April)
+- **Issues:** FB posts not picked up by compile script (0 FB posts in JSON — known issue); image manifest all not_started (expected for imagn source); WordPress blocked by proxy; dashboard push blocked by proxy
 - **Story history:** Updated with all 5 stories

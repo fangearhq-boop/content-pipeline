@@ -1,0 +1,268 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-08",
+  "compiled_at": "2026-08-08T12:27:00.092518+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Fonseca Beats Ruud — Sets Blockbuster R16 Showdown With Shelton",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Joao Fonseca beats Tsitsipas. Then Ruud. Back-to-back at the same Masters 1000. The 19-year-old from Brazil is into the Montreal R16 — and facing defending champion Ben Shelton next. #ATP #NBO2026 #MontrealOpen #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATP",
+            "#NBO2026",
+            "#MontrealOpen",
+            "#Tennis"
+          ],
+          "char_count": 218
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Fonseca vs. Shelton is the Montreal R16 match you didn't know you needed. Two teenagers. One defending champion. The first time two teens have faced off in an NBO R16 since Shapovalov and Tsitsipas in 2018. #ATP #NBO2026 #Tennis #MontrealOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATP",
+            "#NBO2026",
+            "#Tennis",
+            "#MontrealOpen"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-fonseca-beats-ruud-shelton-showdown-montreal.html",
+        "headline": "Fonseca Beats Ruud to Set Up Blockbuster R16 Showdown With Shelton in Montreal",
+        "word_count": 524
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Fonseca Beats Ruud — Shelton Showdown Set\n\n**Image Concept 1 (X/Facebook — Social Card):**\n- **Type:** Text overlay card\n- **Search terms (imagn):** `Joao Fonseca`\n- **Headline:** FONSECA INTO MONTREAL R16\n- **Subheading:** Beats Tsitsipas. Beats Ruud. Now faces Shelton.\n- **Platform:** X + Facebook (1080x1350)\n\n**Image Concept 2 (Article Hero):**\n- **Type:** Action shot\n- **Search terms (imagn):** `Ben Shelton`\n- **Caption context:** Defending champion Shelton faces the surging 19-year-old Fonseca in Round 16\n- **Platform:** Article hero (1200x630)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Fernandez Stuns Andreeva 6-1, 6-4 — Last Canadian Standing in Toronto",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Leylah Fernandez defeats Mirra Andreeva 6-1, 6-4 in Toronto R3. Andreeva is the reigning Roland Garros champion. Fernandez gave her a bagel in the opening set. In front of a home crowd. Her biggest win since the 2021 US Open. #WTA #NBO2026 #Tennis #TorontoOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTA",
+            "#NBO2026",
+            "#Tennis",
+            "#TorontoOpen"
+          ],
+          "char_count": 260
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The French Open champion came to Toronto as No. 5 seed. She left Round 3 with a 6-1, 6-4 scoreline against her. Leylah Fernandez is the last Canadian standing — and she is playing the tennis of her career. #WTA #NBO2026 #Tennis #Fernandez",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTA",
+            "#NBO2026",
+            "#Tennis",
+            "#Fernandez"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-fernandez-stuns-andreeva-toronto-r3.html",
+        "headline": "Fernandez Stuns Roland Garros Champion Andreeva 6-1, 6-4 — Last Canadian Standing in Toronto",
+        "word_count": 579
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Fernandez Stuns Andreeva in Toronto\n\n**Image Concept 1 (X/Facebook — Social Card):**\n- **Type:** Text overlay card\n- **Search terms (imagn):** `Leylah Fernandez`\n- **Headline:** FERNANDEZ SHOCKS THE FRENCH OPEN CHAMPION\n- **Subheading:** def. Andreeva 6-1, 6-4 · Toronto R3\n- **Platform:** X + Facebook (1080x1350)\n\n**Image Concept 2 (Article Hero):**\n- **Type:** Celebration/match action\n- **Search terms (imagn):** `Mirra Andreeva`\n- **Caption context:** Andreeva, the 2026 Roland Garros champion, eliminated by Fernandez in Toronto R3\n- **Platform:** Article hero (1200x630)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Montreal R16 Set — Only Shelton Remains in Top 10 After Historic Chaos",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Montreal's Round of 16 has no player ranked in the top 10 — except Ben Shelton. Zverev, Medvedev, Fritz, Hurkacz, Ruud, Paul: all gone. This could produce a first-time Masters 1000 champion. #ATP #NBO2026 #MontrealOpen #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATP",
+            "#NBO2026",
+            "#MontrealOpen",
+            "#Tennis"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-montreal-r16-shelton-only-top-10-draw-open.html",
+        "headline": "Montreal R16 Set — Shelton Is the Last Top-10 Player Standing After Historic Upset Week",
+        "word_count": 640
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Montreal R16 Draw Overview\n\n**Image Concept 1 (X/Facebook — Social Card):**\n- **Type:** Draw graphic / text card\n- **Search terms (imagn):** `Ben Shelton`\n- **Headline:** MONTREAL R16 — ONE TOP-10 PLAYER LEFT\n- **Subheading:** Zverev · Medvedev · Fritz · Hurkacz · Ruud · Paul · All Gone\n- **Platform:** X + Facebook (1080x1350)\n\n**Image Concept 2 (Article Hero):**\n- **Type:** Tournament atmosphere / stadium\n- **Search terms (imagn):** `National Bank Open Montreal`\n- **Caption context:** The 2026 Montreal draw has produced an unprecedented number of upsets\n- **Platform:** Article hero (1200x630)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Kostyuk vs. Swiatek — Toronto R16 Rematch After Roland Garros Upset",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Marta Kostyuk beat Madison Keys 6-3, 6-1 to set up a Toronto R16 rematch with Iga Swiatek — the same player she upset at Roland Garros 2026. This one matters with the US Open 16 days away. #WTA #NBO2026 #Tennis #TorontoOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTA",
+            "#NBO2026",
+            "#Tennis",
+            "#TorontoOpen"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-kostyuk-swiatek-toronto-r16-rematch.html",
+        "headline": "Kostyuk vs. Swiatek: The Toronto R16 Rematch That Has the US Open Build-Up Buzzing",
+        "word_count": 585
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Kostyuk vs. Swiatek — Toronto R16\n\n**Image Concept 1 (X/Facebook — Social Card):**\n- **Type:** Matchup card\n- **Search terms (imagn):** `Marta Kostyuk`\n- **Headline:** KOSTYUK VS SWIATEK — REMATCH\n- **Subheading:** She beat Swiatek at Roland Garros. Now Toronto R16. #WTA\n- **Platform:** X + Facebook (1080x1350)\n\n**Image Concept 2 (Article Hero):**\n- **Type:** Action shot\n- **Search terms (imagn):** `Iga Swiatek`\n- **Caption context:** Iga Swiatek faces Kostyuk in a Toronto R16 rematch of their Roland Garros 2026 clash\n- **Platform:** Article hero (1200x630)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Alcaraz Withdraws From Cincinnati — US Open Defence Now in Serious Doubt",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Carlos Alcaraz has withdrawn from Cincinnati. His last match was in April. He missed Roland Garros. He missed Wimbledon. The US Open is August 24. The defending champion's title defence is now in serious doubt. #Tennis #USOpen2026 #ATP #Alcaraz",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#USOpen2026",
+            "#ATP",
+            "#Alcaraz"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-alcaraz-withdraws-cincinnati-us-open-doubt.html",
+        "headline": "Alcaraz Withdraws From Cincinnati — US Open Title Defence in Serious Doubt",
+        "word_count": 629
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alcaraz Cincinnati Withdrawal\n\n**Image Concept 1 (X/Facebook — Social Card):**\n- **Type:** Text/news card\n- **Search terms (imagn):** `Carlos Alcaraz`\n- **Headline:** ALCARAZ OUT OF CINCINNATI\n- **Subheading:** Wrist injury. US Open defence in doubt.\n- **Platform:** X + Facebook (1080x1350)\n\n**Image Concept 2 (Article Hero):**\n- **Type:** Match/practice shot\n- **Search terms (imagn):** `Carlos Alcaraz`\n- **Caption context:** Alcaraz's last competitive match was in April; his US Open defence is now in serious doubt\n- **Platform:** Article hero (1200x630)"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
