@@ -5,6 +5,64 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-08
+
+### Story 1: Dodgers 7-Game Losing Streak — Waldschmidt Walk-Off, Longest Since 2017
+- **Date:** 2026-08-08
+- **Tier:** 1
+- **Classification:** FOLLOW UP (6-game streak covered Aug 7 entering Arizona; result confirmed today — 7-game streak)
+- **Angle:** Waldschmidt 2-run walk-off HR off Díaz sealed D-backs 4-3 win Thursday. Seven consecutive Dodgers losses — longest skid since 2017. Ohtani still not throwing (elbow issue). Snell returns from IL August 11. Skubal acquired at deadline. Roster is deep on paper; wins have stopped coming regardless.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Does Snell's Aug 11 return change outcomes?
+  - Dodgers streak resolution — win or extend to 8
+  - Ohtani elbow timeline
+
+### Story 2: Red Sox 9-Game Win Streak — Tolle Career-High 14 Ks, 99.5 MPH, 13-1 Rout
+- **Date:** 2026-08-08
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Red Sox 8-game streak covered Aug 7; today = 9th win after Tolle's dominant outing)
+- **Angle:** Payton Tolle 14 Ks in 6 IP (career high), 99.5 mph, Red Sox 13-1 over Athletics. 9-game win streak. Rutschman (acquired from BAL at deadline) could begin rehab this weekend — another weapon entering the stretch run.
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Red Sox streak continuation
+  - Rutschman rehab start confirmation
+  - Tolle's next start
+
+### Story 3: Braves' 8-Game Win Streak Ends — Olson HR 33 (Streak 898), Old Timers' Day Today
+- **Date:** 2026-08-08
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Braves 8-game streak + Olson 897 covered Aug 7; today = streak ends, Olson 898; Old Timers' Day rematch today)
+- **Angle:** Yankees 3, Braves 2 in 10 innings. Tyler Mahle Braves debut. Olson HR No. 33, consecutive games streak 898. Ben Rice 2-run double in 9th to tie. McMahon walk-off sac fly off Kinley in 10th. Today: Old Timers' Day at Yankee Stadium — Chris Sale (ATL) vs. Gerrit Cole (NYY) rematch.
+- **Content Produced:** Article (article-03, Ryan Calloway), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Sale vs. Cole result today
+  - Mahle second start for Atlanta
+  - Olson streak next milestone
+
+### Story 4: Field of Dreams 2026 — Five Days Away, Netflix, 25+ Hall of Famers
+- **Date:** 2026-08-08
+- **Tier:** 3
+- **Classification:** FOLLOW UP (previewed Aug 5, 6, 7 at 8, 7, 6 days out; today = 5 days)
+- **Angle:** Aug 13, Dyersville Iowa. Phillies vs. Twins. Netflix 7:30 PM ET. Kevin Costner broadcast involvement. 25+ HOFs: Schmidt, Carlton, Mauer, Carew — largest gathering since 2008 All-Star Game. MiLB precursor: St. Paul Saints vs. Iowa Cubs, Aug 11.
+- **Content Produced:** 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Day-of Field of Dreams coverage (Aug 13)
+  - MiLB precursor game (Aug 11)
+
+### Story 5: White Sox First Place — 59-52 After Two Years from Rock Bottom
+- **Date:** 2026-08-08
+- **Tier:** 2
+- **Classification:** FOLLOW UP (White Sox AL Central lead covered through Aug 7; today = 59-52 post-deadline posture update)
+- **Angle:** 59-52, AL Central leaders. From 41-121 (2024, worst modern MLB record) to deadline buyers (Castillo, Doyle) to first place in August 2026. Colson Montgomery as franchise cornerstone. One of the most remarkable organizational turnarounds in recent baseball history.
+- **Content Produced:** Article (article-05, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - White Sox September standings
+  - Montgomery second-half numbers
+  - AL Central race as Guardians/Twins chase
+
+---
+
 ## 2026-08-07
 
 ### Story 1: Braves 8-Game Win Streak + Olson 897 Consecutive Games — Acuña Hits Two

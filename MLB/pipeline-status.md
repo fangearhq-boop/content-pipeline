@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-08-08
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch + research agent, 5 stories verified HIGH confidence), brief (5 stories), research notes, story analysis (fixed to ### STORY N: format with key facts), X posts (9; all ≤280), FB posts (5 stories), image concepts (9 items; imagn source), image manifest (10 items, not_started), articles (5), fact-check (34 claims HIGH; claim-patterns.py missing known), compile (5 stories, 9 tweets, 0 FB posts — format known, 5 articles, 5 images), dashboard (24 items), PostPlanner exports (9 posts each — standard + TOBI). WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard publish push failed (proxy known restriction). IMAGE NOT STARTED (manifest recognized but images not yet produced in Canva). claim-patterns.py missing (known). PostPlanner FB: 0 posts compiled (PostPlanner script parsing — known). 0 char violations. Daily brief format required fix (## Story N: → ### STORY N: inside ## Today's Top Stories).
+- **Key Stories**: Dodgers 7-game losing streak — Waldschmidt walk-off HR off Díaz/D-backs 4-3/longest since 2017/Ohtani not throwing/Snell returns Aug 11 (Tier 1 FOLLOW UP), Red Sox 9-game win streak — Tolle 14 Ks career high/99.5 mph/13-1 vs Athletics/Rutschman rehab possibly starting (Tier 1 FOLLOW UP), Braves win streak ends at 8 — Yankees 3-2 in 10/Mahle debut/Olson HR 33 streak 898/Ben Rice 2-run double/McMahon walk-off sac fly off Kinley/Old Timers' Day today: Sale vs Cole (Tier 2 FOLLOW UP), Field of Dreams Aug 13/Netflix 7:30 ET/25+ HOFs Schmidt+Carlton+Mauer+Carew/Kevin Costner/MiLB precursor Aug 11/5 days away (Tier 3 FOLLOW UP), White Sox 59-52 AL Central leaders — from 41-121 in 2024 to deadline buyers (Castillo+Doyle) to first place (Tier 2 FOLLOW UP)
+
+## Last Run
 - **Date**: 2026-08-07
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch + research agent, 5 stories verified HIGH confidence), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations — all ≤280), FB posts (5 stories), image concepts (7 items), image manifest (10 items, not_started), articles (5), fact-check (48 claims HIGH; claim-patterns.py missing known), compile (5 stories, 7 tweets, 0 FB posts — format known, 5 articles, 5 images), dashboard (22 items), PostPlanner exports (7 posts each — standard + TOBI). WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).

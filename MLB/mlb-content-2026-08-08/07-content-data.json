@@ -1,0 +1,285 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-08",
+  "compiled_at": "2026-08-08T10:39:05.377815+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Dodgers Drop Seventh Straight — Waldschmidt Walk-Off, Longest Skid Since 2017",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The Dodgers have lost SEVEN straight games.\n\nWaldschmidt's walk-off 2-run homer off Díaz gave Arizona a 4-3 win last night.\n\nLast time LA dropped 7 in a row: 2017. Ohtani not throwing. Snell returns Aug. 11.\n\n#BallparkBanter #Dodgers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#Dodgers",
+            "#MLB"
+          ],
+          "char_count": 238
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Most expensive roster in baseball. Seven-game losing streak.\n\nThe Dodgers have Skubal, a returning Snell, and an Ohtani who can't throw yet.\n\nAugust is supposed to be their warm-up. It hasn't felt like one. 🔵\n\n#BallparkBanter #Dodgers #Baseball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#Dodgers",
+            "#Baseball"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-dodgers-seven-game-losing-streak.html",
+        "headline": "Seven Straight: The Dodgers' Losing Streak Has Reached a Level Nobody Expected",
+        "word_count": 476
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Dodgers 7-Game Losing Streak\n\n**X Post Image:**\n- Search term: Shohei Ohtani Los Angeles Dodgers\n- Overlay text: \"7-GAME LOSING STREAK | LONGEST SINCE 2017 | WALDSCHMIDT WALK-OFF HR | OHTANI STILL NOT THROWING | SNELL BACK AUG 11 #BallparkBanter\"\n- Dimensions: 1080x1350\n\n**Facebook Image:**\n- Search term: Los Angeles Dodgers Arizona Diamondbacks\n- Overlay text: \"DODGERS 7-GAME SLIDE | ARI 4 LAD 3 | WALDSCHMIDT WALK-OFF OFF DÍAZ | LONGEST STREAK SINCE 2017\"\n- Dimensions: 1080x1350"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Red Sox Win Ninth Straight — Tolle Fans 14, Touches 99.5 MPH in 13-1 Rout",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Payton Tolle: 14 strikeouts, 6 innings, 99.5 mph.\n\nCareer high across the board. Red Sox win 13-1.\n\nBoston has now won NINE straight games. The AL East race just got complicated. ⚾\n\n#BallparkBanter #RedSox #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#RedSox",
+            "#MLB"
+          ],
+          "char_count": 210
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Nine wins in a row for the Red Sox.\n\nThey've gone from \"interesting\" to \"legitimate\" in about three weeks.\n\nRutschman rehab could start this weekend. The reinforcements are coming. 📈\n\n#BallparkBanter #RedSox #Baseball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#RedSox",
+            "#Baseball"
+          ],
+          "char_count": 217
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-red-sox-tolle-14-strikeouts-nine-game-streak.html",
+        "headline": "Payton Tolle Fans 14 in Six Innings as the Red Sox Win Their Ninth Straight",
+        "word_count": 465
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Red Sox 9-Game Win Streak\n\n**X Post Image:**\n- Search term: Payton Tolle Boston Red Sox pitcher\n- Overlay text: \"14 STRIKEOUTS | CAREER HIGH | 99.5 MPH | 9-GAME WIN STREAK | RED SOX 13 ATHLETICS 1 #BallparkBanter\"\n- Dimensions: 1080x1350\n\n**Facebook Image:**\n- Search term: Boston Red Sox pitcher mound\n- Overlay text: \"NINE STRAIGHT WINS | TOLLE 14 K | 6 IP | 13-1 BLOWOUT | RED SOX SURGING IN AL EAST\"\n- Dimensions: 1080x1350"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Braves' 8-Game Streak Ends — Old Timers' Day Today Features Sale vs. Cole",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "The Braves' 8-game win streak is over.\n\nMcMahon's walk-off sac fly off Kinley in the 10th. Ben Rice tied it with a 2-run double in the 9th.\n\nOlson hit No. 33, streak now 898. Mahle debuted. Yankees 3, Braves 2. ⚾\n\n#BallparkBanter #Braves #Yankees",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#Braves",
+            "#Yankees"
+          ],
+          "char_count": 246
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Chris Sale vs. Gerrit Cole.\n\nOld Timers' Day at Yankee Stadium — the backdrop for today's Braves-Yankees rematch.\n\nTwo aces. One of baseball's great traditions. First pitch this afternoon. 🗽\n\n#BallparkBanter #Yankees #Braves",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#Yankees",
+            "#Braves"
+          ],
+          "char_count": 224
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-braves-win-streak-ends-mahle-debut-old-timers-day.html",
+        "headline": "The Braves' 8-Game Streak Is Over — Old Timers' Day Brings Sale vs. Cole Today",
+        "word_count": 517
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Braves Win Streak Ends / Old Timers' Day\n\n**X Post Image:**\n- Search term: Matt Olson Atlanta Braves home run\n- Overlay text: \"BRAVES WIN STREAK OVER | YANKEES 3 BRAVES 2 (10) | MAHLE DEBUTS | OLSON HR #33 — STREAK 898 | MCMAHON WALK-OFF SAC FLY\"\n- Dimensions: 1080x1350\n\n**Facebook Image:**\n- Search term: Gerrit Cole New York Yankees pitcher\n- Overlay text: \"OLD TIMERS' DAY | SALE vs COLE | YANKEE STADIUM | BRAVES-YANKEES REMATCH TODAY #BallparkBanter\"\n- Dimensions: 1080x1350"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Field of Dreams 2026 — Five Days Away, Netflix, 25+ Hall of Famers",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Five days until the Field of Dreams Game.\n\nPhillies vs. Twins. Netflix. 7:30 PM ET. 25+ Hall of Famers on site.\n\nKevin Costner. Mike Schmidt. Joe Mauer. Rod Carew.\n\nIt's going to be something special. 🌽\n\n#BallparkBanter #MLB #Baseball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#MLB",
+            "#Baseball"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-field-of-dreams-2026-phillies-twins-five-days.html",
+        "headline": "Five Days Until the Field of Dreams — The Phillies and Twins Head to Dyersville",
+        "word_count": 472
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Field of Dreams 2026\n\n**X Post Image:**\n- Search term: Field of Dreams Dyersville Iowa baseball stadium\n- Overlay text: \"5 DAYS | PHILLIES vs TWINS | DYERSVILLE IOWA | NETFLIX 7:30 PM ET AUG 13 | 25+ HALL OF FAMERS | SCHMIDT CARLTON MAUER CAREW\"\n- Dimensions: 1080x1350"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "White Sox Lead AL Central at 59-52 — From 41-121 to First Place in Two Years",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5-1",
+          "text": "The Chicago White Sox are in FIRST PLACE.\n\n59-52. Leading the AL Central. Two years after going 41-121.\n\nOne of the most remarkable turnarounds in recent baseball history is still happening. 📊\n\n#BallparkBanter #WhiteSox #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#WhiteSox",
+            "#MLB"
+          ],
+          "char_count": 224
+        },
+        {
+          "label": "Post 5-2",
+          "text": "White Sox went buyers at the deadline. Added Castillo. Added Doyle.\n\nFrom the worst record in modern baseball history (2024) to AL Central leaders (2026).\n\nColson Montgomery is a star. This is real. ⚾\n\n#BallparkBanter #WhiteSox #Baseball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#WhiteSox",
+            "#Baseball"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-white-sox-first-place-al-central.html",
+        "headline": "The White Sox Are 59-52 and in First Place. This Turnaround Is Not a Fluke.",
+        "word_count": 470
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "White Sox First Place\n\n**X Post Image:**\n- Search term: Colson Montgomery Chicago White Sox\n- Overlay text: \"FIRST PLACE | CHICAGO WHITE SOX 59-52 | AL CENTRAL LEADERS | 2024: 41-121 | 2026: BUYERS AT THE DEADLINE #BallparkBanter\"\n- Dimensions: 1080x1350\n\n**Facebook Image:**\n- Search term: Chicago White Sox dugout players\n- Overlay text: \"59-52 | FIRST PLACE AL CENTRAL | FROM WORST IN HISTORY TO CONTENDERS | WHITE SOX TURNAROUND 2026\"\n- Dimensions: 1080x1350\n\n---\n\n## Article Heroes\n\n| Story | Search Term | Dimensions |\n|-------|-------------|------------|\n| 1 | Shohei Ohtani Los Angeles Dodgers | 1200x630 |\n| 2 | Payton Tolle Boston Red Sox | 1200x630 |\n| 3 | Matt Olson Atlanta Braves | 1200x630 |\n| 4 | Field of Dreams Dyersville Iowa baseball | 1200x630 |\n| 5 | Colson Montgomery Chicago White Sox | 1200x630 |\n\n## Canva Notes\n- Brand Kit: (see niche-config.yaml)\n- Social posts (1080x1350): overlay text as specified above\n- Article heroes (1200x630): no overlay text\n- Source: imagn sports photography"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
