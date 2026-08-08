@@ -2066,3 +2066,42 @@
   - PostPlanner exports: both standard (6) and TOBI (6) generated successfully; redistribution 13:19–20:29 MT
   - WordPress proxy error: same environment restriction as all prior runs
   - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+
+---
+
+## Latest Run: August 8, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Build-A-Bear Heartwarming Hugs recall (~36K units, Jan-Mar 2026, choking hazard, return for refund); PIXLABBY Magnetic Fidget Sliders recall (~860 units, Amazon, high-powered magnets, 1 child hospitalized); D11 first day Aug 12 (Jump Start Aug 11 for K/6th/9th, enrollment open, free Edukit K-8 kits); 81% toddler foods ultra-processed (UT Austin, 2,783 products, 49% fail WHO rec, NUTRITION 2026); CMZoo $40M giraffe center "opening very soon" (12,000 sq ft, ETFE roof, 11 feeding zones, centennial year) |
+| Story History Check | COMPLETE | 4 NEW STORIES + 1 FOLLOW-UP |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts; 4 hashtags each; all under 280 chars (2nd verify run passed); 0 exclamation marks; COS voice rules |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts, 2 per story) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — YAML in markdown block; 10 images; all not_started; photo_source: gemini; brand_kit_id: kAHCKfCZgk0 |
+| Articles | COMPLETE | 5 articles (500-1000 words each); Quick Reference sections; What's Next sections; 0 exclamation marks; Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| Fact-Check | COMPLETE | verify-facts.py passed (2nd run); 5 stories present; char violations fixed before 2nd run |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts (parser compat), 5 articles, 5 images |
+| Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-08-08.xlsx (7 posts 13:05–20:41 MT) + cosp-postplanner-tobi-2026-08-08.xlsx (7 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API (403 Forbidden) | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-08-08)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts in PostPlanner xlsx; posting windows 13:05–20:41 (76 min apart)
+- **Articles:** 5 (bylines: Sarah Morales x3 [S1, S3, S5], Jamie Rivera x2 [S2, S4])
+- **PostPlanner exports:** cosp-postplanner-2026-08-08.xlsx (7 posts), cosp-postplanner-tobi-2026-08-08.xlsx (7 TOBI posts)
+- **Coverage:** Build-A-Bear Heartwarming Hugs recall (36K units, choking hazard, return for refund); PIXLABBY Magnetic Fidget Sliders recall (860 units, high-powered magnets, 1 child hospitalized); D11 first day countdown Aug 12 (Jump Start Day Aug 11; enrollment open; free Edukit kits); 81% toddler foods ultra-processed UT Austin study (49% fail WHO rec); CMZoo $40M giraffe center opening very soon (12K sq ft ETFE barn, 11 feeding zones)
+- **Notes:**
+  - verify-facts.py: 5 char violations fixed on first pass; 2nd pass clean; 79 claims checked
+  - compile: 5 stories, 7 X posts, 0 FB posts (PostPlanner xlsx has full 7 posts), 5 articles
+  - dashboard: 22 items
+  - PostPlanner exports: both standard (7) and TOBI (7) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Story history: Updated with all 5 stories

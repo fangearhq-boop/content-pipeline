@@ -1,0 +1,268 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-08",
+  "compiled_at": "2026-08-08T12:35:18.492982+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Build-A-Bear Recalls 36,000 Heartwarming Hugs Bears — Return to Store Now",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "RECALL: Build-A-Bear Heartwarming Hugs Bears (~36,000 units, Jan-Mar 2026). Zipper on heated bead pouch can detach — choking hazard. Stop use. Return to any Build-A-Bear store for a full refund or gift card. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 267
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Build-A-Bear recall: if your family has a Heartwarming Hugs Bear (Jan-Mar 2026), stop using it now. The zipper on the bead pouch can detach — a choking hazard. Return to any store for a full refund or gift card. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-build-a-bear-heartwarming-hugs-recall-choking-hazard.html",
+        "headline": "Build-A-Bear Recalls 36,000 Heartwarming Hugs Bears Over Choking Hazard — What Colorado Springs Families Need to Do",
+        "word_count": 531
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Build-A-Bear Heartwarming Hugs Bears Recall\n\n**Image Concept 1 (X/Facebook — Social Card):**\n- **Type:** gemini base_only\n- **Prompt:** A soft plush bear toy lying on a neutral light gray surface, photographed from above. The bear has a visible zipper pouch on its side with small round beads visible. Warm but cautionary visual mood. Clean minimal background suitable for text overlay. No people in the image.\n- **Headline overlay:** RECALL: BUILD-A-BEAR HEARTWARMING HUGS BEAR\n- **Subheading overlay:** Choking hazard — return to store for full refund\n- **Platform:** X + Facebook (1080x1350)\n\n**Image Concept 2 (Article Hero):**\n- **Type:** gemini base_only\n- **Prompt:** Close-up of small ceramic beads spilling from a fabric zipper pouch onto a light wooden table surface. The beads are smooth, round, and white or cream-colored. Soft natural light, clean composition. Safety awareness visual tone.\n- **Platform:** Article hero (1200x630)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "PIXLABBY Magnetic Fidget Sliders Recalled — Child Hospitalized After Magnet Ingestion",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "RECALL: PIXLABBY Magnetic Fidget Sliders (Amazon, 2025-2026, ~$10). Casing releases high-powered magnets — one child hospitalized after swallowing two. Stop use, photograph disposal, contact PIXLABBY for refund. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 271
+        },
+        {
+          "label": "Post 2-2",
+          "text": "High-powered magnets attract across intestinal walls and can cause perforation or worse. The PIXLABBY Fidget Slider recall is serious — one child already hospitalized. Check your home. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-pixlabby-magnetic-fidget-slider-recall-magnet-danger.html",
+        "headline": "PIXLABBY Magnetic Fidget Sliders Recalled After Child Hospitalized — One of the Most Serious Toy Hazards Parents Should Know",
+        "word_count": 621
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "PIXLABBY Magnetic Fidget Sliders Recall\n\n**Image Concept 1 (X/Facebook — Social Card):**\n- **Type:** gemini base_only\n- **Prompt:** A small silver metallic fidget slider toy on a clean white surface, with a silicone casing shown separately beside it and tiny silver cylinder magnets nearby. Sharp modern product photography style, overhead angle. Neutral background suitable for text overlay.\n- **Headline overlay:** URGENT RECALL: MAGNETIC FIDGET SLIDERS\n- **Subheading overlay:** High-powered magnets — stop use immediately\n- **Platform:** X + Facebook (1080x1350)\n\n**Image Concept 2 (Article Hero):**\n- **Type:** gemini base_only\n- **Prompt:** Small high-powered cylindrical magnets arranged in a cluster on a clean white surface, with a blurred child's hand visible at the edge of frame. The visual communicates danger without being graphic. Clean minimal style with shallow depth of field.\n- **Platform:** Article hero (1200x630)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "D11 First Day Is Tuesday — 4-Day Countdown for Colorado Springs Families",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "D11 first day is Tuesday, August 12 — four days away. Monday Aug 11 is Jump Start Day for K, 6th, and 9th graders. Enrollment is still open. Free Edukit supply kits go home with all K-8 students on day one. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-d11-first-day-august-12-countdown-cos-families.html",
+        "headline": "D11 First Day Is Tuesday, August 12 — 4-Day Countdown for Colorado Springs Families",
+        "word_count": 576
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D11 First Day Countdown\n\n**Image Concept 1 (X/Facebook — Social Card):**\n- **Type:** gemini base_only\n- **Prompt:** A cheerful flat-lay composition on a clean desk: a new backpack, pencils, a composition notebook, and a small paper calendar showing the number \"12\" circled. Natural warm light, light background, modern family-friendly aesthetic. No faces. Clean enough for text overlay.\n- **Headline overlay:** D11 FIRST DAY: TUESDAY AUGUST 12\n- **Subheading overlay:** 4 days away — here is what Colorado Springs families need to know\n- **Platform:** X + Facebook (1080x1350)\n\n**Image Concept 2 (Article Hero):**\n- **Type:** gemini base_only\n- **Prompt:** An overhead flat-lay of a school supply kit spread out on a neutral surface: notebooks, crayons, pencils, scissors, glue stick, and a ruler arranged neatly. Warm natural light, organized and positive visual tone, diverse mix of items suggesting a complete supply kit.\n- **Platform:** Article hero (1200x630)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "81% of Toddler Foods at the Grocery Store Are Ultra-Processed, New Study Finds",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "New study: 81% of toddler foods are ultra-processed. Nearly half fail at least one WHO nutrition recommendation. For parents of children under 3 — reading the label matters more than the packaging. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-toddler-foods-ultra-processed-study-cos-parents.html",
+        "headline": "81% of Toddler Foods at the Grocery Store Are Ultra-Processed, New Study Finds — What Colorado Springs Parents Should Know",
+        "word_count": 735
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Toddler Foods Ultra-Processed Study\n\n**Image Concept 1 (X/Facebook — Social Card):**\n- **Type:** gemini base_only\n- **Prompt:** A flat-lay of five or six colorful toddler food products — including pouches, small snack containers, and a puff canister — on a clean white kitchen counter. Viewed from above, warm natural light. The products should look like typical grocery store toddler snacks. Clean composition suitable for text overlay.\n- **Headline overlay:** 81% OF TODDLER FOODS ARE ULTRA-PROCESSED\n- **Subheading overlay:** New study. What COS parents should know.\n- **Platform:** X + Facebook (1080x1350)\n\n**Image Concept 2 (Article Hero):**\n- **Type:** gemini base_only\n- **Prompt:** Close-up of an adult's hand holding a small toddler food pouch while reading the nutrition facts label on the back. Shallow depth of field with the label in soft focus. Warm kitchen tones, positive and informational mood. Suggests mindful grocery shopping.\n- **Platform:** Article hero (1200x630)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "CMZoo's $40M Giraffe Center Opening Very Soon — What COS Families Need to Know",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Cheyenne Mountain Zoo's $40M giraffe center is opening very soon — 12,000 sq ft barn, 11 feeding zones, and the largest ETFE animal exhibit roof in North America. No exact date announced yet. Check cmzoo.org for updates. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 280
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-cmzoo-giraffe-center-opening-soon-cos-families.html",
+        "headline": "CMZoo's $40M Giraffe Center Is Opening Very Soon — What Colorado Springs Families Need to Know",
+        "word_count": 619
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "CMZoo Giraffe Center Opening Soon\n\n**Image Concept 1 (X/Facebook — Social Card):**\n- **Type:** gemini base_only\n- **Prompt:** An illustration-style graphic showing a giraffe's long neck extending upward from lush greenery, against a pale sky-blue background. Clean, vibrant, family-friendly visual. The giraffe should have a gentle, curious expression. Suitable for text overlay. Modern flat design style.\n- **Headline overlay:** CMZOO'S NEW GIRAFFE CENTER — OPENING SOON\n- **Subheading overlay:** $40M facility, 11 feeding zones, largest ETFE animal exhibit roof in North America\n- **Platform:** X + Facebook (1080x1350)\n\n**Image Concept 2 (Article Hero):**\n- **Type:** gemini base_only\n- **Prompt:** A wide landscape-style illustration of a modern zoo giraffe habitat with a large glass and steel structure in the background, giraffes visible in a spacious outdoor yard, mountains visible in the far distance. Bright daylight, family-friendly, aspirational feel. Colorado mountain backdrop implied.\n- **Platform:** Article hero (1200x630)"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

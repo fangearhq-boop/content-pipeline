@@ -5468,3 +5468,56 @@
 - **Tier:** 2
 - **Key Facts (HIGH):** Garden of Gods: free, daily sunrise–sunset; CMZoo Dog Days: Aug 7, regular admission, dogs must be leashed + vaccinated, confirm hours at cmzoo.org; Mountain Arts Festival: Aug 8-9, Woodland Park, 70+ artists, confirm cost with organizers; Acacia Park Market: Aug 9, 9AM-2PM, free to browse, through Oct 25; PPLD: free, multiple branches, ppld.org for hours; Sources: Cheyenne Mountain Zoo, Mountain Arts Festival organizers, COS Parks & Rec, PPLD
 - **Follow-Up Opportunities:** Weekend recap; Pioneer Rodeo Aug 14-16 preview (already covered Aug 5); D11 first day coverage Aug 12
+
+
+## 2026-08-08
+
+### Story 1: Build-A-Bear Recalls 36,000 Heartwarming Hugs Bears — Choking Hazard
+- **Date:** 2026-08-08
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recall: ~36,000 Build-A-Bear Workshop Heartwarming Hugs Bears. Zipper slider on side pouch (holds 2.5 lbs ceramic heating/cooling beads) can detach — choking hazard. Sold Jan-Mar 2026 at Build-A-Bear stores, ~$48. 1 zipper detachment in UK; 0 U.S. injuries. Return to any store for full refund or gift card.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** ~36,000 units; Build-A-Bear stores Jan-Mar 2026; ~$48; zipper detaches from bead pouch; 1 UK report; 0 US injuries; return for refund/gift card; Sources: CPSC.gov, NBC News, Newsweek
+- **Follow-Up Opportunities:** CPSC update if US injuries reported; Build-A-Bear replacement product announcement
+
+### Story 2: PIXLABBY Magnetic Fidget Sliders Recalled — Child Hospitalized After Magnet Ingestion
+- **Date:** 2026-08-08
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recall: ~860 PIXLABBY Magnetic Fidget Sliders (Amazon, Oct 2025-May 2026, ~$10). Silicone casing removable → exposes high-powered magnets. Multiple magnets swallowed attract across intestinal walls → perforation, death. 1 child hospitalized. Stop use; photograph disposal; contact PIXLABBY for full refund.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** ~860 units; Amazon Oct 2025-May 2026; ~$10; silicone casing removable → magnets exposed; 1 hospitalization; photograph disposal + full refund; Sources: CPSC.gov, ConsumerAffairs Aug 7
+- **Follow-Up Opportunities:** CPSC magnet regulation update; broader high-powered magnet toy safety roundup
+
+### Story 3: D11 First Day Is Tuesday — 4-Day Countdown for COS Families
+- **Date:** 2026-08-08
+- **Content Pillar:** Local News
+- **Angle:** FOLLOW-UP (2026-08-06 S1: D11 Bond Vote; S2: D11 Edukit) — D11 first day is Tuesday Aug 12; Jump Start Day Mon Aug 11 for K/6th/9th; enrollment still open; free Edukit kits for all K-8 students. Full COS calendar: D49 in school; D11 Aug 12; D20 Aug 17-18.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** D11 Aug 12; Jump Start Aug 11 (K/6th/9th); enrollment open d11.org; Edukit free kits K-8; Sources: d11.org, Springs Daily
+- **Follow-Up Opportunities:** D11 first day Aug 12 coverage; Jump Start Day recap; D20 start Aug 17-18
+
+### Story 4: 81% of Toddler Foods Are Ultra-Processed, UT Austin Study Finds
+- **Date:** 2026-08-08
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — University of Texas at Austin study: 81% of 2,783 toddler food products (ages 6-36 months) audited are ultra-processed; 49% fail at least one WHO nutrient recommendation. Presented at NUTRITION 2026 conference. Practical shopping guidance for COS parents.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** 81% ultra-processed; 49% fail WHO rec; 25% too much sodium; 17% too much sugar; UT Austin; NUTRITION 2026 conference; Sources: Forbes Aug 1, ScienceDaily July 27, EurekAlert, CBS42, UT Austin CNS
+- **Follow-Up Opportunities:** Peer-reviewed publication; FDA response; local pediatrician reaction
+
+### Story 5: CMZoo's $40M Giraffe Center Opening Very Soon
+- **Date:** 2026-08-08
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — CMZoo's $40M International Center for the Care and Conservation of Giraffe opening "very soon" per KKTV Aug 6. 12,000 sq ft barn, ETFE roof (largest of its kind in North America), 11 feeding zones (up from 3), new café + gift shop. Part of CMZoo centennial year. No official date announced — check cmzoo.org.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** $40M project; 12,000 sq ft; ETFE roof (largest in North America); 11 feeding zones; centennial year; no exact opening date; cmzoo.org; Sources: KKTV Aug 6, Gazette June 25, CMZoo.org
+- **Follow-Up Opportunities:** Official opening date announcement; opening day family coverage; CMZoo centennial milestones
