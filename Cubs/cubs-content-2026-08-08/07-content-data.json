@@ -1,0 +1,287 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-08",
+  "compiled_at": "2026-08-08T09:24:07.831035+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Story 1 — Gausman debut recap (7 IP, 2 ER, fifth straight W)",
+      "type": "Passionate/Informative"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Story 2 — PCA MVP Watch (tied at -110, on pace for 30-30 again)",
+      "type": "Bold/Analytical"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 3 — Bregman hot streak (.314 BA, 4 HR, 11 RBI in 12 games)",
+      "type": "Stat Breakdown"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "Story 4 — Wild Card watch (68-49, Cardinals irrelevant)",
+      "type": "Analysis/Rival"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 5 — Clay Holmes debut preview (6:10 PM CT)",
+      "type": "Preview/Informative"
+    },
+    {
+      "time": "1:15 PM",
+      "description": "Story 6 — Cardinals roast (54-57, 15 GB)",
+      "type": "Humor/Rival"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Story 7 — Steele mound work + Hollowell to IL",
+      "type": "Informative/Roster"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 8 — Holmes pre-game hype (first pitch 6:10 PM CT)",
+      "type": "Bold/Hype"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Gausman Cubs Debut Recap — 7 IP, Sharp, Fifth Straight Win",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Gausman pitched 7 innings in his first Cubs start — 2 ER, 4H, 1BB, 4K on 96 pitches, the longest start of the season by any Cubs pitcher. Splitter was working. Cubs extended winning streak to five straight. No score per has_score=False insight. Lead with Gausman's line and what it means for the rotation.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Kevin Gausman looked every bit like the ace the Cubs paid for.\n\n7 IP, 2 ER, 96 pitches — the longest Cubs start of the season. Splitter was filthy. Command was there all night.\n\nFive straight wins. The rotation just got real.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Passionate / informative (game recap)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "PCA MVP Race — Dead Even with Ohtani at -110 Odds",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "PCA and Ohtani both at -110 on FanDuel as of Aug 6; covers.com named PCA the new NL award favorite Aug 7. Season: .289 BA, 26 HR, 29 SB — on pace for second straight 30-30. Bold take: this race is real. No OPS cited (single-source). No game score.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Pete Crow-Armstrong and Shohei Ohtani are dead even in the NL MVP race — -110 odds each.\n\nPCA: .289 BA, 26 HR, 29 SB. On pace for a second straight 30-30 season. He's doing it with his legs, his arm, and his bat.\n\nOhtani is great. This isn't a layup anymore.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold take / analytical",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Bregman Hot Streak — .314 BA, 4 HR, 11 RBI in Last 12 Games",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Bregman's last 12 games: .314 BA, 4 HR, 11 RBI — attacking the zone more, per Bleacher Nation Aug 7 analysis. August is historically his best month (career). The Cubs' lineup has two legitimate stars both peaking in August. Stat-backed, not hyperbole.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Alex Bregman is getting hot at exactly the right time.\n\nOver his last 12 games: .314 BA, 4 HR, 11 RBI — and he's attacking the zone more aggressively than he has all season.\n\nAugust is historically his best month. He looks locked in right now.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Stat breakdown / informative",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 269
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Wild Card Watch — Cubs 68-49, Cushion Growing",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Cubs now 68-49 after the Gausman win. NL Wild Card No. 1 spot with Phillies and D-backs roughly six games back. Cardinals at 54-57 — a non-factor since June. Sharp rival jab folded into standings analysis.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Cubs are 68-49 and hold the No. 1 NL Wild Card spot.\n\nPhillies and D-backs are roughly six games back. The Cardinals are 54-57 — a non-factor since June.\n\nChicago is playing October baseball. The only question is how deep they go.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Analysis / rival watch (informative with edge)",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Clay Holmes Debut Preview — 6:10 PM CT at Kauffman Stadium",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Holmes making his first Cubs start tonight at 6:10 PM CT. Carried a 2.39 ERA in 9 Mets starts before fracturing his fibula. Activated from 60-day IL. Connects to Gausman's successful Friday debut — the Cubs' two big deadline starters taking the mound on back-to-back nights.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Clay Holmes makes his Cubs debut tonight at 6:10 PM CT at Kauffman Stadium.\n\nBefore his fibula injury, he carried a 2.39 ERA in 9 Mets starts. Activated from the 60-day IL for this.\n\nGausman delivered on Friday. Now it's Holmes's turn.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Game preview / informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Cardinals Roast — 54-57 and Watching From the Couch",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "Cardinals are 54-57 and 15 games out. Cubs are in a Wild Card race. Sharp, witty jab anchored to real standings data. No engagement question — state the contrast and let it land.",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "The Cardinals are 54-57 and 15 games out of first place in August.\n\nCubs fans are watching a Wild Card race unfold in real time. Cardinals fans are watching other teams play meaningful baseball.\n\nSome summers are more fun than others.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Humor / rival watch (bold)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "Steele Back on Mound — Roster Moves as Cubs Manage Depth",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Justin Steele threw off a mound Saturday — targeting a September bullpen role. Gavin Hollowell placed on 15-day IL (right shoulder inflammation), Antoine Kelly added to roster. Cubs actively managing pitching depth as stretch run intensifies.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Justin Steele threw off a mound Saturday — targeting a September bullpen role in his recovery.\n\nGavin Hollowell hit the 15-day IL (shoulder inflammation). Antoine Kelly called up to fill the spot.\n\nDepth managed. Stretch run ready.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Informative / roster update",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 8,
+      "title": "Holmes Pre-Game Hype — The Debut Is Here",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Game in ~70 minutes at 6:10 PM CT. Holmes's moment. Punchy, emotionally charged. Connect to Gausman's Friday success — two consecutive nights of debut starts. Let the matchup and moment speak.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 8",
+          "text": "Clay Holmes. Kauffman Stadium. First pitch at 6:10 PM CT.\n\nHis first start in a Cubs uniform — working back from a fractured fibula, ready for the stretch run.\n\nGausman said yes on Friday.\n\nHolmes answers tonight.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Bold / pre-game hype",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 8,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

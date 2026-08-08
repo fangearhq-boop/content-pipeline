@@ -5,6 +5,74 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-08
+
+### STORY 1: Gausman Cubs Debut Recap — 7 IP, Sharp, Fifth Straight Win
+- **Angle:** NEW STORY (Gausman debut Aug 7: 7 IP, 2 ER, 4H, 1BB, 4K, 96 pitches; longest Cubs start of season; Cubs' fifth straight win; no score per has_score=False insight; lead with pitching line, kicker on rotation depth)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - Gausman's second Cubs start (next series)
+  - Holmes debut result (tonight's game recap Aug 9)
+  - Five-game winning streak tracking
+
+### STORY 2: PCA MVP Race — Dead Even with Ohtani at -110 Odds
+- **Angle:** FOLLOW UP (last covered Aug 7 with WAR/season stats; today: odds milestone — PCA and Ohtani both at -110 on FanDuel as of Aug 6; covers.com named PCA new NL award favorite Aug 7; season .289 BA, 26 HR, 29 SB; on pace for 2nd straight 30-30; no score per insight)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold take)
+- **Follow-Up Opportunities:**
+  - PCA 30th HR milestone
+  - PCA 30th SB milestone
+  - September MVP odds movement
+
+### STORY 3: Bregman Hot Streak — .314 BA, 4 HR, 11 RBI in Last 12 Games
+- **Angle:** FOLLOW UP (last covered Aug 7 at .370/1.082 OPS over 11 games; today's window is 12 games with production focus: .314 BA, 4 HR, 11 RBI; August historically his best month; attacking zone more per BN analysis)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, stat breakdown)
+- **Follow-Up Opportunities:**
+  - Bregman September performance tracking
+  - If Bregman extends streak into 15+ games
+
+### STORY 4: Wild Card Watch — Cubs 68-49, Cushion Growing
+- **Angle:** FOLLOW UP (last covered Aug 7 at 67-49; today: 68-49 after Gausman debut win; Phillies/D-backs ~6 GB back; Cardinals 54-57 non-factor; sharp rival jab embedded)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, standings analysis)
+- **Follow-Up Opportunities:**
+  - Wild card gap after KC series finale (Aug 9)
+  - Cardinals September irrelevance tracking
+
+### STORY 5: Clay Holmes Debut Preview — 6:10 PM CT at Kauffman Stadium
+- **Angle:** NEW STORY (Holmes makes first Cubs start tonight; 2.39 ERA in 9 Mets starts pre-fibula; activated from 60-day IL; faces Seth Lugo; day-after Gausman debut — both deadline starters on back-to-back nights; no score per insight)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Holmes debut result (tomorrow's 7:00 AM recap)
+  - Holmes vs Gausman comparison after back-to-back debuts
+
+### STORY 6: Cardinals Roast — 54-57 and Watching From the Couch
+- **Angle:** FOLLOW UP (ongoing Cardinals irrelevance arc; anchored to 54-57 record, 15 GB; Cubs 68-49 in Wild Card race; sharp witty jab — NL Central hierarchy is settled)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, humor/rival)
+- **Follow-Up Opportunities:**
+  - Cardinals elimination watch (magic number tracking)
+
+### STORY 7: Steele Back on Mound — Roster Moves as Cubs Manage Depth
+- **Angle:** NEW STORY (Steele threw off mound Saturday, targeting September bullpen role; Hollowell to 15-day IL shoulder inflammation; Kelly called up; different from yesterday's Cabrera rehab angle; depth management in stretch run)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, roster update)
+- **Follow-Up Opportunities:**
+  - Steele's first MLB appearance in September (if it happens)
+  - Hollowell return timeline from shoulder injury
+
+### STORY 8: Holmes Pre-Game Hype — The Debut Is Here
+- **Angle:** NEW STORY (pre-game hype 70 min before first pitch; Holmes debut moment; connects to Gausman's Friday success; "Gausman said yes on Friday / Holmes answers tonight" kicker)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, pre-game hype)
+- **Follow-Up Opportunities:**
+  - Holmes debut result (tomorrow recap)
+
+---
+
 ## 2026-08-04
 
 ### STORY 1: Game 1 Recap — Cubs Hammer Dodgers, Boyd Moves to 7-1
