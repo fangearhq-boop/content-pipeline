@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-08-08
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-08-08 | T1 | Hossler Leads Wyndham at -12 Entering Weekend — Needs Win to Make Playoffs | X, FB, Article | FOLLOW UP |
+| 2026-08-08 | T1 | Jordan Spieth Makes Wyndham Cut — Drains 24-Foot Par Putt on Final Hole | X, FB, Article | FOLLOW UP |
+| 2026-08-08 | T2 | LIV Golf 2.0 — BC Partners Named as Mystery Investor (Bloomberg, FT) | X, FB, Article | FOLLOW UP |
+| 2026-08-08 | T2 | FedExCup Playoffs Countdown — Scheffler's Win Drought Meets the Postseason | X, FB, Article | FOLLOW UP |
+| 2026-08-08 | T2 | Brooks Koepka — 14 Events Into PGA Tour Return, St. Jude Is Next | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Hossler Leads Wyndham at -12 Entering Weekend — Needs Win to Make Playoffs
+- **Tier:** 1
+- **Category:** PGA Tour / Wyndham Championship / Beau Hossler / FedExCup Bubble
+- **Key facts:** Hossler -12 (67-61) after 36 holes, leads by 1 over Ben James + Jordan Smith at -11; Theegala shot 62 R2 to move into FedExCup playoff position; Hossler ranked 122nd FedExCup entering week, needs win to crack top 70; purse $8.5M/$1.53M winner; 34-minute weather delay Friday; ~100 FedExCup pts separate positions 65-80 on bubble
+- **Status:** FOLLOW UP (from 08-07: Hossler R1 leader at -9)
+- **Follow-up ideas:** Hossler wins or loses Wyndham; bubble players' final standings; Wyndham winner and full leaderboard
+
+### STORY 2: Jordan Spieth Makes Wyndham Cut — Drains 24-Foot Par Putt on Final Hole
+- **Tier:** 1
+- **Category:** PGA Tour / Wyndham Championship / Jordan Spieth / FedExCup Bubble
+- **Key facts:** Spieth hit opening tee shot OB in R1 (shot 68); drained 24-foot par putt on final hole of R2 to survive cut at -3; No. 50 FedExCup (bubble); no Tour win since April 2022; missed cut at 2026 Open Championship last month
+- **Status:** FOLLOW UP (from 08-07: Spieth OB on opening tee, entered at No. 50 FedExCup)
+- **Follow-up ideas:** Spieth weekend result + playoff status confirmation; bubble players' week summary
+
+### STORY 3: LIV Golf 2.0 — BC Partners Named as Mystery Investor (Bloomberg, FT)
+- **Tier:** 2
+- **Category:** LIV Golf / Investment / LIV 2.0
+- **Key facts:** Bloomberg + FT identify BC Partners as lead investor (not officially confirmed by LIV/BC); players become majority equity holders; 10 events (5 US before major weeks + 5 international "Team Majors"); transaction finalizes September 2026; launches 2027; Saudi PIF exits end of 2026 (~$5B invested since 2022)
+- **Status:** FOLLOW UP (from 08-07: CEO confirmed investor identity undisclosed)
+- **Follow-up ideas:** Official confirmation from LIV/BC Partners; player contract announcements; 2027 event schedule details
+
+### STORY 4: FedExCup Playoffs Countdown — Scheffler's Win Drought Meets the Postseason
+- **Tier:** 2
+- **Category:** PGA Tour / FedExCup Playoffs / Scottie Scheffler
+- **Key facts:** FedEx St. Jude Championship Aug 13-16, TPC Southwind Memphis, top 70, $20M purse/$3.6M winner; Scheffler leads FedExCup at 4,123 pts; no win since American Express January 2026; 5 runner-ups; Scheffler quote: "I've been really close to winning some tournaments, and that can be frustrating"; McIlroy headlines field; defending champion Justin Rose; BMW Aug 20-23 Bellerive CC St. Louis (top 50); Tour Championship Aug 27-30 East Lake Atlanta (top 30); $25M FedExCup prize
+- **Status:** FOLLOW UP (ongoing Scheffler drought / FedExCup preview)
+- **Follow-up ideas:** St. Jude results; Scheffler win or continued drought; FedExCup standings entering BMW
+
+### STORY 5: Brooks Koepka — 14 Events Into PGA Tour Return, St. Jude Is Next
+- **Tier:** 2
+- **Category:** PGA Tour / Brooks Koepka / LIV Golf Returns
+- **Key facts:** Koepka via Returning Member Program since January 2026 (Farmers Insurance Open Torrey Pines); 5-time major champion; quote: "weight has been lifted off my shoulders"; gave up: equity shares 5 yrs (~$50-85M potential) + $100M FedExCup bonus ineligibility + $5M charitable donation; 14 events in; committed to St. Jude (15th event, minimum required); most significant individual LIV defection of 2026
+- **Status:** FOLLOW UP (ongoing from 08-07)
+- **Follow-up ideas:** Koepka's St. Jude performance; whether he makes BMW field; comparison to other LIV returners
+
 ## 2026-08-07
 
 | Date | Tier | Story | Platforms | Status |

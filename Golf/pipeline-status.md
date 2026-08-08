@@ -1,10 +1,21 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
-- **Date**: 2026-08-07
+- **Date**: 2026-08-08
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy 403; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-08-08
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters (3 tweets fixed after verify-facts.py: Stories 3, 4, 5 each trimmed)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres)
+- **PostPlanner exports:** gfr-postplanner-2026-08-08.xlsx (7 posts) + gfr-postplanner-tobi-2026-08-08.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-08-08/review-dashboard.html (27 items)
+- **Notes:** WYNDHAM R2/WEEKEND — Hossler -12 (67-61) leads by 1 over Ben James + Jordan Smith -11; Theegala shot 62 R2 to vault into playoff position; Hossler ranked 122nd FedExCup, needs win for top 70; $8.5M purse/$1.53M winner; 34-min weather delay Friday; ~100 pts separate positions 65-80 on bubble; SPIETH CUT DRAMA — OB opening tee shot R1 (shot 68); drained 24-ft par putt on 18 R2 to make cut at -3; No. 50 FedExCup bubble; no win since April 2022; missed 2026 Open cut; LIV 2.0/BC PARTNERS — Bloomberg + FT identify BC Partners as lead investor; players become majority equity holders; 10 events (5 US before major weeks + 5 international "Team Majors"); transaction finalizes September 2026; launches 2027; Saudi PIF exits end of 2026 (~$5B invested); SCHEFFLER/FEDEXCUP — St. Jude Aug 13-16 TPC Southwind Memphis (top 70, $20M/$3.6M); BMW Aug 20-23 Bellerive CC St. Louis (top 50); Tour Championship Aug 27-30 East Lake Atlanta (top 30); Scheffler leads at 4,123 pts; no win since American Express January 2026; 5 runner-ups; Scheffler quote: "I've been really close to winning some tournaments, and that can be frustrating"; McIlroy headlines St. Jude; defending champ Justin Rose; KOEPKA RETURN — 14 events in via Returning Member Program since Jan 2026 (Farmers Insurance Open Torrey Pines); forfeited: equity shares 5 yrs (~$50-85M) + $100M FedExCup bonus ineligibility + $5M charitable donation; quote: "weight has been lifted off my shoulders"; committed to St. Jude (15th event, minimum required)
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-08-07
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
