@@ -5053,3 +5053,44 @@
 - **Key facts:** Audi: 12 pts, jumped Williams to P8 Constructors; Hulkenberg+Bortoleto; Barcelona PU upgrade triggered 10 of 12 pts; McNish: "positively surprised"; no PU update until 2027; Cadillac: Perez+Bottas; Perez drawing rival interest; Perez: "massive hurry to find performance"
 - **Status:** NEW
 - **Follow-up ideas:** Audi second-half development; Perez team interest materializing; Cadillac points haul
+
+| 2026-08-08 | T1 | Dutch GP — Final Zandvoort Race Two Weeks Away (Aug 21-23) | X, FB, Article | FOLLOW UP |
+| 2026-08-08 | T1 | Verstappen Exit Clause — Decision Window Officially Open | X, FB, Article | FOLLOW UP |
+| 2026-08-08 | T2 | Fernando Alonso — Taking Retirement Decision "Day By Day" | X, FB, Article | FOLLOW UP |
+| 2026-08-08 | T2 | Hamilton Second-Half Chase — 50 Points Behind Antonelli, 291 Available | X, FB, Article | FOLLOW UP |
+| 2026-08-08 | T2 | Haas 2027 Driver Shortlist Narrows — Ocon's Seat in Jeopardy | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Dutch GP — Final Zandvoort Race Two Weeks Away
+- **Tier:** 1
+- **Category:** F1 Race Preview / Dutch Grand Prix / Zandvoort
+- **Key facts:** Dutch GP Aug 21-23 Circuit Zandvoort (4.259 km, 72 laps); final F1 race ever at Zandvoort; first-ever Sprint at circuit; format: FP1+Sprint Qual Fri / Sprint+GP Qual Sat / Race Sun 15:00 local; summer shutdown ends Aug 17 (teams return 3 days before race); DJ Martin Garrix performing; tickets sold out; Verstappen exit clause active for home race
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Sprint result; qualifying; race result; Verstappen announcement timing
+
+### STORY 2: Verstappen Exit Clause — Decision Window Officially Open
+- **Tier:** 1
+- **Category:** F1 Driver News / Max Verstappen / Red Bull Racing
+- **Key facts:** Clause active after British GP DNF (couldn't be top 2 after July 2026); window: August–October 2026; Red Bull gets NO compensation if triggered; clause added due to Verstappen's apprehension about 2026 regs; Verstappen refused to publicly discuss future; Red Bull claims "key advantage" in hunt for first 2026 win
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Announcement before Dutch GP; destination confirmation; Red Bull contingency
+
+### STORY 3: Fernando Alonso — Retirement Decision "Day By Day"
+- **Tier:** 2
+- **Category:** F1 Driver News / Fernando Alonso / Aston Martin
+- **Key facts:** ESPN: "Alonso says 2026 is his last year in F1"; Aston Martin contract expires end of 2026; Motorsport.com: taking 2026 "day by day"; Ted Kravitz predicts retirement; Newsweek "bombshell"; Barcelona "probably my last time" (not on 2027 calendar); retirement hinges on car competitiveness: "hard to retire if car not competitive"; Newey leading Aston Martin technical development for 2027
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official announcement; Aston Martin 2027 driver lineup; Newey car development
+
+### STORY 4: Hamilton Second-Half Chase — 50 Points Back, 291 Available
+- **Tier:** 2
+- **Category:** F1 Championship / Lewis Hamilton / Ferrari / Kimi Antonelli
+- **Key facts:** Standings after R11: Antonelli 219 / Hamilton 169 / Russell 160; Mercedes Constructors 379 / Ferrari ~307; Hamilton won Spain (emotional); 5 podiums, no finish outside top 6 all season; now 0.017s/lap faster than Leclerc in qualifying (reversal from 2025: was 2.5 tenths slower); Ferrari "chasing power" second half; Wolff "striking engine claim" countering Ferrari; 291 pts remaining in 11 rounds
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Dutch GP result; Ferrari power update; championship gap after each round
+
+### STORY 5: Haas 2027 Driver Shortlist Narrows — Ocon's Seat at Risk
+- **Tier:** 2
+- **Category:** F1 Team News / Haas / Esteban Ocon / Oliver Bearman
+- **Key facts:** Bearman 18 pts vs. Ocon 3 pts through 7 races; Yahoo Sports: 2027 shortlist narrowed to 2 names; Ryo Hirakawa given FP1 time at Hungarian GP; Ocon replaced for Austrian GP FP1; GPFans: "Haas to make driver lineup change at Hungarian GP" (Bearman/Hirakawa); Ocon 2nd season at Haas, 10-year F1 veteran
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** 2027 lineup announcement; Hirakawa confirmation; Ocon second-half results

@@ -1,7 +1,18 @@
 # F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
-- **Date**: 2026-08-07
+- **Date**: 2026-08-08
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters (all passed verify-facts without fixes)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Elena Voss, Marcus Cole, Ryan Calloway, Elena Voss)
+- **PostPlanner exports:** f1fr-postplanner-2026-08-08.xlsx (7 posts) + f1fr-postplanner-tobi-2026-08-08.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-08-08/review-dashboard.html (27 items)
+- **Notes:** Dutch GP final Zandvoort race Aug 21-23 (2 weeks away) with first-ever Sprint format; shutdown ends Aug 17; Verstappen exit clause officially active (window Aug–Oct, no Red Bull compensation); Alonso "day by day" ESPN confirms 2026 last year, Aston Martin contract expires Dec; Hamilton 50 pts back (169 pts), Antonelli 219, 291 remaining — Hamilton ahead of Leclerc in qual pace for first time; Haas 2027 shortlist narrowed to 2 names, Bearman 18 pts vs Ocon 3, Hirakawa FP1 time at Hungary
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+## 2026-08-07
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)
 - **X Posts:** 7 written, all under 280 characters (Story 5 tweet fixed after verify-facts: trimmed from 288 to 253)
