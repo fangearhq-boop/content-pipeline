@@ -1,7 +1,18 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Last Run
-- **Date**: 2026-08-07
+- **Date**: 2026-08-08
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters (Story 2 tweet 2 fixed after verify-facts: trimmed from 286 to 245)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** hh-postplanner-2026-08-08.xlsx (7 posts) + hh-postplanner-tobi-2026-08-08.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-08-08/review-dashboard.html (27 items)
+- **Notes:** NBA schedule drops Aug 13 (Cup slate Aug 11); Kawhi investigation month 11, NBPA arbitration threat (most likely outcome = negotiated settlement); Curry extension window Aug 29 (confirmed correction), 2yr/$136.7M mutual interest, Sept signing expected; Spurs coaches AND staff flew to Paris with Wemby (new development), new coach Fauthoux, Serbia exhibitions Aug 20+23, qualifiers Aug 27+30; Embiid slim-down viral photo, LeBron reacted publicly, 76ers chemistry building
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+## 2026-08-07
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 - **Stories:** 5 total (1 Tier 1, 4 Tier 2)
 - **X Posts:** 6 written, all under 280 characters (Story 2 tweet fixed after verify-facts: trimmed from 289 to 236)

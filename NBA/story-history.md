@@ -5267,3 +5267,44 @@
 - **Key facts:** Embiid publicly assured LeBron and fans he is healthy and ready for Day 1 (late July); projected starting five: LeBron/Embiid/Brown/Maxey/Edgecombe (5 combined MVP awards); LeBron signed 2yr/$7.94M July 26; Brown from Celtics July 6 for Paul George+picks; training camp late September; Philly Inquirer: Embiid health is single biggest swing variable
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Training camp open; first practice; LeBron Philly debut date (from schedule Aug 13-14)
+
+| 2026-08-08 | T1 | NBA Schedule Release — Five Days Away (Cup Aug 11, Full Aug 13) | X, FB, Article | FOLLOW UP |
+| 2026-08-08 | T1 | Kawhi Leonard — NBPA Arbitration Threat, Trade Frozen at Month 11 | X, FB, Article | FOLLOW UP |
+| 2026-08-08 | T2 | Stephen Curry Extension Window Opens August 29 — $136.7M Max Expected | X, FB, Article | FOLLOW UP |
+| 2026-08-08 | T2 | Wembanyama and Spurs Staff Head to Paris — France vs. Serbia Aug 20+23 | X, FB, Article | FOLLOW UP |
+| 2026-08-08 | T2 | Joel Embiid Slims Down — LeBron Reacts, 76ers Chemistry Building | X, FB, Article | FOLLOW UP |
+
+### STORY 1: NBA Schedule Release — Five Days Away
+- **Tier:** 1
+- **Category:** NBA Season Preview / Schedule
+- **Key facts:** Full 2026-27 schedule drops Aug 13; NBA Cup slate Aug 11; season starts Oct 20 (73 days away); Knicks banner night Oct 20 MSG; LeBron's Philly opener TBD; Christmas Day matchups TBD; Wemby vs. Embiid dates; all-Star Feb 21 Phoenix; 6 groups of 5 for NBA Cup, championship at Hinkle Fieldhouse Dec 11
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Schedule breakdown once released; opening night preview; Christmas Day matchup angles
+
+### STORY 2: Kawhi Leonard — NBPA Arbitration Threat, Trade Frozen at Month 11
+- **Tier:** 1
+- **Category:** NBA Investigation / Los Angeles Clippers / Toronto Raptors / Kawhi Leonard
+- **Key facts:** Investigation now 11 months old; NBPA "wouldn't hesitate" to demand neutral arbitration; arbitration ruling subject to binding 3-person appeals panel; most likely outcome = negotiated settlement (ESPN, CBS Sports); both teams still publicly committed to completing trade; Kawhi owed $50.3M in 2026-27; trade: Leonard to Toronto for Ingram, Dick, unprotected 2031+2033 firsts
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Settlement announcement; arbitration filing; training camp status
+
+### STORY 3: Stephen Curry Extension Window Opens August 29
+- **Tier:** 2
+- **Category:** NBA Contracts / Golden State Warriors / Stephen Curry
+- **Key facts:** Window opens Aug 29 (confirmed — not Aug 6); 2yr/$136.7M max; mutual interest confirmed; Warriors ready to offer full amount; September signing widely expected; Curry plans to stay 2026-27 regardless; without extension → UFA next summer for first time; Draymond Green 1yr/$27.7M back; Gary Payton II 1yr/$3.9M back; Warriors finished 37-45 last season
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Signing announcement (expect September); Warriors 2026-27 roster outlook
+
+### STORY 4: Wembanyama and Spurs Staff Head to Paris
+- **Tier:** 2
+- **Category:** NBA Offseason / San Antonio Spurs / Victor Wembanyama / France FIBA
+- **Key facts:** Spurs COACHES and staff also traveled to Paris (new development); Wemby's first France return since 2024 Paris Olympics; France roster: Wemby + Gobert + Fournier (first since Paris Games); new coach Frederic Fauthoux (first time coaching Wemby); France Aug schedule: vs Serbia Belgrade Aug 20, Orleans Aug 23; qualifiers vs Slovenia Aug 27 (home), Sweden Aug 30 (away); Group L 5-1 in first round; Wemby quote: "I do not miss the NBA right now, I miss FIBA basketball"
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Serbia exhibition results; qualifier results; Spurs training camp
+
+### STORY 5: Joel Embiid Slims Down — LeBron Reacts, 76ers Chemistry Building
+- **Tier:** 2
+- **Category:** NBA Offseason / Philadelphia 76ers / Joel Embiid / LeBron James
+- **Key facts:** Embiid posted viral slim-down photo; LeBron reacted publicly; Embiid declared healthy Day 1 (July); coaching staff confirmed; LeBron 2yr/$8M signed (called it his "last decision"); LeBron/Embiid were 2024 Paris Olympic gold medal teammates; projected 5: LeBron/Embiid/Maxey/Brown/Edgecombe (5 combined MVPs); training camp late September
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Training camp open; Embiid first practice photos; 76ers preseason results
