@@ -1,10 +1,21 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
-- **Date**: 2026-08-08
+- **Date**: 2026-08-09
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy 403; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-08-09
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters (2 tweets fixed after verify-facts.py: Story 1 tweet #2 trimmed 285→275; Story 4 tweet #1 trimmed 290→254)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway)
+- **PostPlanner exports:** gfr-postplanner-2026-08-09.xlsx (7 posts) + gfr-postplanner-tobi-2026-08-09.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-08-09/review-dashboard.html (22 items)
+- **Notes:** WYNDHAM FINAL ROUND — Hossler + Brennan co-lead at -16; Tom Kim -15 after Saturday 63; Hossler 122nd FedExCup needs win; Brennan 105th needs at least 3-way tie for 2nd; Koepka 86th needs solo 4th; Bradley 73rd barely survived cut (15 consecutive playoff streak at risk); Theegala tied PGA Tour record with 6 consecutive opening birdies R1; two lightning suspensions Saturday (5:22 PM + 6:09 PM ET); $8.5M purse/$1.53M winner; 500 FedExCup pts; Golf Channel 1-3 PM ET / CBS 3-6 PM ET; ST. JUDE PREVIEW — FedEx St. Jude Championship Aug 12-16 TPC Southwind Memphis; $20M purse; 750 FedExCup pts; McIlroy headlines chasing historic 4th FedExCup title; Scheffler No. 1 seed 4,123 pts; Fleetwood defending FedExCup champion; Rose defending St. Jude; top 50 → BMW Bellerive CC St. Louis Aug 20-23; top 30 → Tour Championship East Lake Atlanta Aug 27-30; SCHEFFLER DROUGHT — last win American Express January 2026 (20th career); 5 runner-ups (Masters, RBC Heritage, Cadillac, Travelers, 3M); Scottish Open missed cut ended 35 consecutive top-25 streak; FedExCup leader 4,123 pts; quote: "I've been really close to winning some tournaments, and that can be frustrating"; LIV 2.0/BC PARTNERS — Bloomberg + FT (Aug 5): BC Partners credit arm leads $250-350M deal; CEO confirmed "signed and approved by the board"; players become majority equity holders; purses drop; 10 events 2027; closes September 2026; PIF exits end 2026 (~$5B invested); 12+ minority investor parties in discussions; LIV NEW YORK — Niemann -14 leads at Trump National Bedminster; bogey-free 64-65 R1-R2 then 70 R3; Varner III -12 after R3 65; Torque GC 5-shot team lead
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-08-08
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

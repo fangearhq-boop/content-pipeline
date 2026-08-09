@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-08-09
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-08-09 | T1 | Wyndham Championship Final Round — Hossler and Brennan Co-Lead at -16, FedExCup Playoff Lives on the Line | X, FB, Article | NEW |
+| 2026-08-09 | T1 | FedExCup Playoffs — St. Jude Championship Starts Thursday, McIlroy Headlines | X, FB, Article | NEW |
+| 2026-08-09 | T2 | Scottie Scheffler — Five Second-Places, Zero Wins, 35 Consecutive Top-25 Streak Snapped | X, FB, Article | NEW |
+| 2026-08-09 | T2 | LIV Golf 2.0 — BC Partners Deal Advancing, Players to Become Majority Owners | X, FB, Article | NEW |
+| 2026-08-09 | T2 | LIV Golf New York — Niemann at -14 Leads Final Round at Trump National Bedminster | X, FB, Article | NEW |
+
+### STORY 1: Wyndham Championship Final Round — Hossler and Brennan Co-Lead at -16, FedExCup Playoff Lives on the Line
+- **Tier:** 1
+- **Category:** PGA Tour / Wyndham Championship / FedExCup Bubble
+- **Key facts:** Hossler + Brennan co-lead at -16; Tom Kim -15 after Saturday 63; Hossler ranked 122nd needs win; Brennan ranked 105th needs at least 3-way tie for 2nd; Koepka 86th needs solo 4th; Bradley 73rd barely survived cut (15 consecutive playoff streak at risk); Theegala tied PGA Tour record with 6 consecutive opening birdies R1; two lightning suspensions Saturday (5:22 PM + 6:09 PM ET); $8.5M purse/$1.53M winner; 500 FedExCup pts; Golf Channel 1-3 PM ET / CBS 3-6 PM ET
+- **Status:** NEW (follow-up from Aug 8: Hossler -12 co-led entering weekend)
+- **Follow-up ideas:** Wyndham winner; full FedExCup bubble resolution; who makes top 70 for St. Jude
+
+### STORY 2: FedExCup Playoffs — St. Jude Championship Starts Thursday, McIlroy Headlines
+- **Tier:** 1
+- **Category:** PGA Tour / FedExCup Playoffs / St. Jude Championship
+- **Key facts:** FedEx St. Jude Championship Aug 12-16 TPC Southwind Memphis; $20M purse; 750 FedExCup pts; McIlroy headlines chasing historic 4th FedExCup title (all-time record); Scheffler No. 1 seed at 4,123 pts; Fleetwood defending FedExCup champion; Rose defending St. Jude champion; top 50 after St. Jude → BMW at Bellerive CC St. Louis Aug 20-23; top 30 → Tour Championship East Lake Atlanta Aug 27-30
+- **Status:** NEW
+- **Follow-up ideas:** St. Jude R1 results; McIlroy/Scheffler matchup storyline; FedExCup standings after Memphis
+
+### STORY 3: Scottie Scheffler — Five Second-Places, Zero Wins, 35 Consecutive Top-25 Streak Snapped
+- **Tier:** 2
+- **Category:** PGA Tour / Scottie Scheffler / FedExCup Playoffs
+- **Key facts:** Last win: American Express January 2026 (20th career); 5 runner-ups in 2026: Masters, RBC Heritage, Cadillac Championship, Travelers Championship, 3M Open; Scottish Open missed cut snapped 35 consecutive top-25 streak; World No. 1 (201 total weeks); FedExCup leader 4,123 pts; Scheffler quote: "I've been really close to winning some tournaments, and that can be frustrating"
+- **Status:** NEW (deepened from Aug 8 angle which emphasized playoff drought framing)
+- **Follow-up ideas:** Scheffler's St. Jude result; whether he wins at any playoff event; Scheffler vs. McIlroy
+
+### STORY 4: LIV Golf 2.0 — BC Partners Deal Advancing, Players to Become Majority Owners
+- **Tier:** 2
+- **Category:** LIV Golf / Business / LIV 2.0
+- **Key facts:** Bloomberg + FT (Aug 5): BC Partners credit arm leading $250-350M deal; CEO confirmed lead investor deal "signed and approved by the board"; players become majority equity holders; purses drop; 10 events 2027; deal closes September 2026; PIF exits end of 2026 (~$5B invested since 2022); 12+ additional minority investor parties in discussions; BC Partners contingent on retaining enough star players
+- **Status:** NEW (Aug 8 covered BC Partners named but without player-majority-owners structural detail as primary angle)
+- **Follow-up ideas:** Official close of BC Partners deal; player contract announcements for 2027; 2027 schedule details
+
+### STORY 5: LIV Golf New York — Niemann at -14 Leads Final Round at Trump National Bedminster
+- **Tier:** 2
+- **Category:** LIV Golf / LIV Golf New York / Joaquin Niemann
+- **Key facts:** Venue: Trump National Golf Club Bedminster NJ; Niemann -14 entering final round (bogey-free 64-65 R1-R2, 70 R3); Varner III -12 after R3 65 (2 shots back); Lee Westwood -10 (single source); Tom McKibbin -7 (single source); Torque GC 5-shot team lead
+- **Status:** NEW
+- **Follow-up ideas:** Niemann wins or Varner III charges; full LIV New York results; team standings final
+
 ## 2026-08-08
 
 | Date | Tier | Story | Platforms | Status |
