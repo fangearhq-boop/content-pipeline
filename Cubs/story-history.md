@@ -5,6 +5,55 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-09
+
+### STORY 1: Holmes Debut Recap — 4 IP, 4 ER in Shaky Return
+- **Angle:** NEW STORY (Holmes returned from fractured fibula for Cubs debut Aug 8: 4 IP, 4 ER, 6H, 2BB, 1K, 70 pitches; Caglianone crushed 2 HRs (448-ft first inning); Lugo outpitched Holmes; five-game win streak snapped; no score per has_score=False insight; lead with Holmes' pitching line, kicker on Boyd today)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - Holmes second Cubs start (performance tracking)
+  - Holmes vs Gausman comparison after back-to-back debuts
+  - Series finale result tonight (Boyd vs Dobnak)
+
+### STORY 2: PCA Now Leads NL MVP Race — Outright (DraftKings -120)
+- **Angle:** FOLLOW UP (last covered Aug 8 at -110 tied on FanDuel; today: DraftKings PCA -120 vs Ohtani +100 — PCA is solo frontrunner; WAR 7.3 MLB-best; Ohtani knee keeping him off mound since July 3; no game score per insight)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold take)
+- **Follow-Up Opportunities:**
+  - PCA 30th HR milestone
+  - PCA 30th SB milestone
+  - September MVP odds movement
+  - Monthly NL Player of Month candidate
+
+### STORY 3: Wild Card Watch — Cubs 68-50, Cushion at ~6 Games
+- **Angle:** FOLLOW UP (last covered Aug 8 at 68-49 after Gausman win; today: 68-50 after Royals loss; Phillies/D-backs ~6 GB back; Brewers have Central; framing shift to "protecting the cushion" through September)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, standings analysis)
+- **Follow-Up Opportunities:**
+  - Wild card gap after KC series finale (today's Boyd game)
+  - Cardinals elimination watch (magic number tracking)
+  - Phillies/D-backs surge monitoring
+
+### STORY 4: Bregman Playoff Weapon — Contract Delivering at the Right Time
+- **Angle:** FOLLOW UP (last covered Aug 8 with hot streak stats .314 BA / 4 HR / 11 RBI over 12 games; today's angle: CONTEXT — why it matters that he's peaking now; contract was for playoff moments; two stars [PCA + Bregman] peaking simultaneously)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, bold/analytical)
+- **Follow-Up Opportunities:**
+  - Bregman September performance tracking
+  - If Bregman extends streak into 15+ games
+
+### STORY 5: Boyd Series Finale Preview — 1:10 PM CT at Kauffman
+- **Angle:** FOLLOW UP (on KC series; Boyd's specific start not covered yet this trip; 7-1, 3.59 ERA; faces Dobnak 2-0 1.16 ERA; series tied 1-1; Holmes stumbled yesterday — Boyd as the answer; no score per insight)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, pre-game preview)
+- **Follow-Up Opportunities:**
+  - Boyd result recap (Monday 7:00 AM)
+  - Boyd's 8th win milestone
+  - KC series result and road trip summary
+
+---
+
 ## 2026-08-08
 
 ### STORY 1: Gausman Cubs Debut Recap — 7 IP, Sharp, Fifth Straight Win

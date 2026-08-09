@@ -1,0 +1,231 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-09",
+  "compiled_at": "2026-08-09T09:22:43.037044+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Story 1 — Holmes debut recap (4 IP, 4 ER, series tied 1-1)",
+      "type": "Passionate/Informative"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Story 2 — PCA now outright NL MVP favorite (DraftKings -120)",
+      "type": "Bold/Analytical"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 3 — Wild Card watch (Cubs 68-50, 6 GB cushion)",
+      "type": "Informative/Standings"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "Story 4 — Bregman playoff weapon (.314 BA, 4 HR, 11 RBI last 12)",
+      "type": "Bold/Analytical"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 5 — Boyd series finale preview (1:10 PM CT)",
+      "type": "Pre-game/Informative"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Holmes Debut Recap — 4 IP, 4 ER in Shaky Return",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Clay Holmes made his Cubs debut Saturday night after fracturing his fibula in May. The rust was evident: 4 innings, 4 ER, 6H, 2BB, 1K on 70 pitches. Jac Caglianone crushed two HRs to pace the Royals. Seth Lugo outpitched Holmes. Win streak ended at five. No final score per has_score=False insight — lead with Holmes' line and set up Boyd today.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Clay Holmes came back from a fractured fibula — and his first Cubs start showed it.\n\n4 innings, 4 runs allowed, 70 pitches. Jac Caglianone crushed two HRs off him to pace the Royals.\n\nThe good news: it's one start. Boyd gets the ball today at 1:10 PM CT.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Passionate / informative (game recap)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 4,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Holmes Debut Recap — 4 IP, 4 ER in Shaky Return\n- **[HIGH]** Royals defeated Cubs on Aug 8, 2026 — confirmed ESPN, Washington Post, Bleacher Nation, KCTV5\n- **[HIGH]** Clay Holmes: 4 IP, 6H, 4ER, 2BB, 1K, 70 pitches — confirmed multiple sources (ESPN, WashPost, NBC Sports)\n- **[HIGH]** Holmes suffered fibula fracture May 15 (liner off the bat of Spencer Jones, Yankees) — confirmed ESPN, WashPost\n- **[HIGH]** Jac Caglianone: 4-for-4, 2 HR (including 448-ft first-inning shot to right-center), 2 doubles, 4 RBI — confirmed ESPN, WashPost, BN\n- **[HIGH]** Seth Lugo: 6 IP, 5H, 3ER, 1BB, 5K — confirmed ESPN\n- **[HIGH]** Cubs' five-game win streak was snapped by this loss — confirmed by pre-game preview articles\n- **[MEDIUM]** Holmes' loss record — listed as L in recap; series record ends at whatever it was before this game; exact W-L record for Holmes not stated but this was his first Cubs start (debut)\n- **[HIGH]** Boyd starts Sunday series finale: 1:10 PM CT — confirmed from multiple series preview sources",
+        "sources": "Sources:\n- ESPN recap: espn.com/mlb/recap?gameId=401816446\n- Washington Post: washingtonpost.com/sports/mlb/2026/08/08/cubs-royals-score/\n- NBC Sports: nbcsports.com/fantasy/baseball/player-news/2026-08-08/clay-holmes-loses-to-royals-in-cubs-debut\n- Bleacher Nation: bleachernation.com/cubs/2026/08/08/enhanced-box-score-royals-6-cubs-3-august-8-2026/"
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "PCA Now Leads the NL MVP Race — Outright",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Pete Crow-Armstrong overtook Ohtani as sole NL MVP favorite on DraftKings (-120 vs Ohtani +100). WAR 7.3 is MLB-best. Ohtani's knee limiting him off the mound. Bold take: PCA's case is now the stronger one. No OPS cited (single-source). No game score.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Pete Crow-Armstrong now leads the NL MVP race — outright.\n\nDraftKings: PCA -120, Ohtani +100. That's not a coin flip anymore. That's a verdict.\n\nWAR 7.3 tops MLB. The trophy is his to lose.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold take / analytical",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 209
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 4,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "PCA Now Leads the NL MVP Race — Outright\n- **[HIGH]** PCA WAR 7.3 — MLB-best per CBS Sports and covers.com (two independent sources)\n- **[HIGH]** DraftKings: PCA -120, Ohtani +100 — CBS Sports article \"Pete Crow-Armstrong Overtaking Shohei Ohtani in NL MVP Race\"\n- **[MEDIUM]** FanDuel: PCA -110, Ohtani -110 (as of Aug 8 story history; may have shifted since)\n- **[HIGH]** Ohtani not pitched off mound since July 3 (knee soreness) — CBS Sports / SI.com\n- **[HIGH]** At All-Star break Ohtani was -1000 favorite, PCA was +700 — CBS Sports confirms dramatic shift\n- **[MEDIUM]** PCA season stats: .289 BA, 26 HR, 29 SB (from story history Aug 8, not updated since last night's game vs Lugo; after tonight game may shift)\n- **[HIGH]** covers.com named PCA new NL award favorite as of Aug 7",
+        "sources": "Sources:\n- CBS Sports: cbssports.com/betting/news/mlb-futures-odds-pete-crow-armstrong-overtaking-shohei-ohtani-in-nl-mvp-race/\n- SI.com: si.com/betting/nl-mvp-odds-pete-crow-armstrong-overtakes-shohei-ohtani-as-mvp-favorite\n- covers.com: covers.com/industry/crow-armstrong-cease-new-favorites-in-mlb-award-races-aug-7-2026\n- FOX Sports: foxsports.com/stories/mlb/mlb-mvp-race"
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Wild Card Watch — Cubs 68-50, Lead Built to Stay",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "After Saturday's loss the Cubs are 68-50 — still No. 1 in the NL Wild Card race. Phillies and D-backs roughly six games back. Brewers locked in the Central. The Cubs' cushion is meaningful but the stretch run demands it get defended. No final score in copy.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "After Saturday's loss to KC, the Cubs are still 68-50 — No. 1 in the NL Wild Card race.\n\nPhillies and D-backs are both roughly six games back. Brewers locked in the Central.\n\nChicago's built a cushion. Now it's about protecting it through September.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Informative / standings analysis",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 5,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Wild Card Watch — Cubs 68-50, Lead Built to Stay\n- **[HIGH]** Cubs record 68-50 — confirmed from series-context.json snapshot (generated Aug 9, 2026)\n- **[HIGH]** Cubs No. 1 NL Wild Card — confirmed FOX Sports 2026 playoff picture\n- **[MEDIUM]** Phillies ~62-54, D-backs ~61-55 (approximately 6 games back) — CBS Sports / MLB.com search results consistent with this range\n- **[HIGH]** Brewers leading NL Central — confirmed multiple sources\n- **[HIGH]** Cardinals 54-57, 15 GB in NL Central — consistent across story history and search",
+        "sources": "Sources:\n- cubs-series-context.json (series-context.json snapshot, generated_at 2026-08-09T08:30:00 UTC)\n- FOX Sports: foxsports.com/stories/mlb/2026-mlb-postseason-races-standings-wild-card\n- CBS Sports standings: cbssports.com/mlb/standings/wild-card/"
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Bregman Playoff Weapon — Contract Delivering at the Right Time",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Bregman was signed to play in October. His last 12 games — .314 BA, 4 HR, 11 RBI — are the contract making good. The Cubs have two legitimate stars (PCA + Bregman) both peaking entering August's crunch. Bold framing, stat-backed.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Alex Bregman was brought to Chicago to win in October.\n\nHis last 12 games — .314 BA, 4 HRs, 11 RBIs — are exactly what that contract promised.\n\nThe Cubs have two stars peaking at once when it matters most.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Bold / analytical",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 3,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Bregman Playoff Weapon — Contract Delivering at the Right Time\n- **[HIGH]** Bregman last 12 games: .314 BA, 4 HR, 11 RBI — cross-referenced story history (Aug 8 pipeline entry) and Bleacher Nation Aug 7 analysis\n- **[HIGH]** Bregman attacking the zone more aggressively — Bleacher Nation Aug 7 analysis: bleachernation.com/cubs/2026/08/07/alex-bregman-big-moment/\n- **[MEDIUM]** \"August historically his best month\" — per multiple Cubs analysis pieces; not independently cross-referenced from a stat source\n- **[MEDIUM]** Bregman signed as free agent — general knowledge / Cubs transaction; exact contract value not cited in this story (not needed for this tweet angle)",
+        "sources": "Sources:\n- Story history Aug 8 (pipeline record of STORY 3)\n- Bleacher Nation Aug 7: bleachernation.com/cubs/2026/08/07/alex-bregman-big-moment/\n- Bleed Cubbie Blue: bleedcubbieblue.com (various Bregman pieces)"
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Boyd Series Finale Preview — 1:10 PM CT at Kauffman",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Matthew Boyd (7-1, 3.59 ERA) starts the series finale. Series tied 1-1 after Holmes' rough debut yesterday. Boyd has been the Cubs' most consistent starter all season. Concrete stakes and matchup details (Boyd vs Dobnak). Must post before 1:10 PM CT first pitch.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Matthew Boyd (7-1, 3.59 ERA) starts the KC series finale at 1:10 PM CT.\n\nSeries tied 1-1. Holmes stumbled yesterday — now it's Boyd's turn to remind everyone why he's been the Cubs' most consistent arm all season.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Pre-game preview / informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 5,
+        "claims_flagged": 3,
+        "errors_corrected": 2
+      },
+      "research": {
+        "facts": "Boyd Series Finale Preview — 1:10 PM CT at Kauffman\n- **[HIGH]** Matthew Boyd starts today — confirmed series preview (cubsinsider.com, MLB.com probable pitchers)\n- **[HIGH]** Boyd record 7-1, ERA 3.59 — from series preview source (sportsgrid, cubsinsider Aug 7 preview); slight discrepancy with CBS Stats (6-1, 3.41) due to timing — 7-1 is current (includes Aug 4 win per story history)\n- **[MEDIUM]** Boyd ERA: 3.59 per series preview sources; CBS stats page shows 3.41 — minor discrepancy, using 3.59 as most recent\n- **[HIGH]** Randy Dobnak starts for Royals — 2-0, 1.16 ERA (confirmed series preview)\n- **[HIGH]** First pitch: 1:10 PM CT — confirmed from series-context.json\n- **[HIGH]** Series tied 1-1 (Cubs won Aug 7 6-4, Royals won Aug 8 6-3) — confirmed from both game recaps",
+        "sources": "Sources:\n- series-context.json (generated_at 2026-08-09T08:30:00 UTC)\n- CubsInsider.com: cubsinsider.com/2026/08/07/chicago-cubs-kansas-city-royals-series-preview-august-7-9-overview-game-and-broadcast-info-starting-pitchers-w2w4/\n- Bleed Cubbie Blue: bleedcubbieblue.com/chicago-cubs-game-information/227346/cubs-royals-series-preview"
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
