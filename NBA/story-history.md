@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-08-09
+
+| Date | Tier | Story | Formats | Status |
+|------|------|-------|---------|--------|
+| 2026-08-09 | T1 | NBA Schedule Release — Four Days Away, Christmas Day Speculation | X, FB, Article | FOLLOW UP |
+| 2026-08-09 | T1 | Kawhi Leonard — NBA Probe Could Extend Into 2027, Trade Frozen | X, FB, Article | FOLLOW UP |
+| 2026-08-09 | T2 | Stephen Curry — On Track to Be First NBA Player to Earn $60M in a Season | X, FB, Article | FOLLOW UP |
+| 2026-08-09 | T2 | Wembanyama and France — Serbia Exhibition 11 Days Away, Group L 5-1 | X, FB, Article | FOLLOW UP |
+| 2026-08-09 | T2 | LeBron "Trust The Process" — Embiid Transformation, Gansey Confirms Health | X, FB, Article | FOLLOW UP |
+
+### STORY 1: NBA Schedule Release — Four Days Away, Christmas Day Speculation Heats Up
+- **Tier:** 1
+- **Category:** NBA Season Preview / Schedule Release
+- **Key facts:** Full schedule drops Aug 13; NBA Cup slate Aug 11; season tips Oct 20 (72 days); Christmas Day speculation — LeBron/76ers vs. Knicks most likely marquee; Giannis in Miami, Wemby in SA all Christmas Day candidates; Knicks banner night Oct 20 MSG; NBA Cup championship Dec 11 Hinkle Fieldhouse Indianapolis; 6 groups of 5 for Cup
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Schedule breakdown once released; Christmas Day matchup confirmed; opening night opponent
+
+### STORY 2: Kawhi Leonard — NBA Probe Could Extend Into 2027
+- **Tier:** 1
+- **Category:** NBA Investigation / Los Angeles Clippers / Toronto Raptors / Kawhi Leonard
+- **Key facts:** ESPN: probe could extend into 2027; centers on $28M Aspiration endorsement deal (Clippers also had $300M/23-yr deal with Aspiration, now bankrupt); trade agreed ~June 30 (Kawhi to Toronto for Ingram, Dick, unprotected 2031+2033 firsts); trade frozen; NBA told Raptors they'd assume risk if they finalize; NBPA arbitration threat active; arbitration subject to binding 3-person panel; most likely = negotiated settlement; Kawhi owed $50.3M in 2026-27; training camp ~7 weeks away
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Settlement announcement; arbitration filing; training camp status
+
+### STORY 3: Stephen Curry — $60M Single-Season Milestone
+- **Tier:** 2
+- **Category:** NBA Contracts / Golden State Warriors / Stephen Curry
+- **Key facts:** Extension window opens Aug 29; 2yr/$136.7M max; CBS Sports: would make Curry first NBA player to earn $60M in a single season (existing $65M + extension year); Warriors ready to offer full amount; September signing expected; no interest in trade/FA; Draymond Green 1yr/$27.7M back; Gary Payton II 1yr/$3.9M back; Warriors 37-45 last season
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Signing announcement; Warriors training camp
+
+### STORY 4: Wembanyama / France — Serbia 11 Days Away
+- **Tier:** 2
+- **Category:** NBA Offseason / San Antonio Spurs / Victor Wembanyama / France FIBA
+- **Key facts:** Serbia exhibitions: Aug 20 Belgrade, Aug 23 Orleans; qualifiers: vs Slovenia Aug 27 (home), vs Sweden Aug 30 (away); France Group L 5-1 first round; new coach Frederic Fauthoux (first time coaching Wemby); France roster includes Wemby + Gobert + Fournier (first together since Paris Olympics); Wemby quote: "I don't miss the NBA at the moment, but I do miss FIBA"; Spurs coaches and staff traveled to Paris
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Serbia exhibition results; qualifier results
+
+### STORY 5: LeBron "Trust The Process" — Embiid Transformation
+- **Tier:** 2
+- **Category:** NBA Offseason / Philadelphia 76ers / Joel Embiid / LeBron James
+- **Key facts:** Embiid posted viral slim-down photo; LeBron reposted with "Trust The Process!" caption; 76ers president Mike Gansey: Embiid completed "one of the first offseasons he is healthy going into it" — full program no restrictions; LeBron 2yr/~$8M signed; projected five: LeBron/Embiid/Maxey/Brown/Edgecombe (5 combined MVPs); training camp late September
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Training camp open; Embiid first practice; 76ers preseason results
+
 ## 2026-08-07
 
 ### STORY 1: Maxey Beats LeBron to the Gym — "Rese for President"
