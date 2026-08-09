@@ -1,0 +1,270 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-09",
+  "compiled_at": "2026-08-09T11:29:02.602574+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Dutch GP — 12 Days Away, Aston Martin to Debut New Honda PU at Zandvoort",
+      "tier": 1,
+      "status": "",
+      "angle": "The Dutch Grand Prix is 12 days away (Aug 21-23), and the farewell to Zandvoort now carries an extra subplot: Aston Martin will debut Honda's upgraded power unit in competition for the very first time. Honda ran the updated spec during a filming day at the Hungaroring during the summer shutdown. Estimated at 30-50 additional horsepower. The final Dutch GP — already F1's most emotional race weekend of 2026 — is now also the most significant technical test of Aston Martin's second half.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Aston Martin debuted Honda's new power unit at the Hungaroring.\n\nThe race-spec version debuts in competition for the first time at Zandvoort — in 12 days.\n\nAlonso called the current one \"less powerful than F2.\"\n\nChange is coming. #F1 #DutchGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#DutchGP"
+          ],
+          "char_count": 242
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Zandvoort, Aug 21-23.\n\nFinal F1 race ever at this circuit.\nFirst-ever Sprint format here.\nShutdown ends Aug 17 — teams return 3 days before the race.\n\nAND Aston Martin debuts a new Honda power unit on race day.\n\nThe most loaded Dutch GP in history. #F1 #DutchGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#DutchGP"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": {
+        "long_form": "🏎️ The Dutch Grand Prix is 12 days away — and it just got a major new storyline.\n\nDuring the F1 summer shutdown, Aston Martin used a filming day at the Hungaroring to debut Honda's updated power unit on track. The race-spec version enters competition for the first time at Zandvoort. And the timing could not be more loaded.\n\nThe Dutch GP was already the most emotionally significant race of the 2026 season:\n- It is the final Formula 1 race at Circuit Zandvoort, ever. After the 2026 race, the Dutch GP leaves the calendar permanently.\n- It is the first-ever Sprint weekend at Zandvoort, adding a Saturday mini-race to the format.\n- The summer shutdown ends August 17, meaning teams have just three days of preparation before the Dutch GP weekend begins.\n\nNow add the Honda power unit upgrade. Alonso himself described the current unit in \"battery-clip mode\" as feeling \"less powerful than F2\" after the Spa round. Reports estimate the new Honda spec delivers 30-50 additional horsepower, with changes to the combustion chamber geometry, pre-chamber design, and lubrication system.\n\nFor Aston Martin — who have been \"defenseless\" on power-sensitive tracks all season — Zandvoort is a pivotal moment. The Sprint format means they get competitive data on Saturday morning, before Sunday's race, giving the team earlier evidence of whether the upgrade closes the gap to Mercedes and Ferrari.\n\nThe farewell to Zandvoort just became the most technically significant race of the F1 second half. 12 days.\n\n🏁 Will the Honda update change Aston Martin's season? Drop your prediction below.\n\n---",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-dutch-gp-aston-martin-honda-pu-debut-zandvoort.html",
+        "headline": "The Dutch GP Just Got a New Storyline: Aston Martin's Honda Power Unit Debuts at Zandvoort",
+        "word_count": 620
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Dutch GP — Honda PU Debut at Zandvoort\n\n**Image Concept A — Social (1080×1350)**\n- Search terms: `Fernando Alonso Aston Martin`\n- Style: Alonso in cockpit/race face, orange Aston Martin livery\n- Text overlay: \"12 Days | Dutch GP | Honda PU Debuts | Final Zandvoort Race\"\n- Priority: HIGH\n\n**Image Concept B — Article Hero (1200×630)**\n- Search terms: `Aston Martin Formula 1`\n- Style: Wide car/track shot, Zandvoort atmosphere element\n- Text overlay: \"Honda's New Power Unit Debuts at Zandvoort\"\n- Priority: MEDIUM\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Dutch GP — Honda PU Debut at Zandvoort\n**Sources:**\n- formula1news.co.uk: \"Honda set to deliver updated power unit to Aston Martin at Dutch Grand Prix\"\n- autosport.com: \"Aston Martin to use new Honda engine at F1 Dutch GP\"\n- formula1.com: \"Honda's updated power unit debuts during Aston Martin filming day at Hungaroring\"\n- GPFans: \"Honda unleash upgraded F1 power unit — Aston Martin debut at Hungaroring\"\n- worldofspeed.org: Dutch GP 2026 schedule / Sprint TV guide\n**Key facts (confidence tagged):**\n- [HIGH] Dutch GP August 21-23, Circuit Zandvoort — confirmed\n- [HIGH] Final F1 race ever at Zandvoort — confirmed\n- [HIGH] First-ever Sprint format at Zandvoort — confirmed; Sprint Qual Friday 16:30 CET, Sprint Race Saturday 12:00 CET (24 laps), Race Sunday\n- [HIGH] Summer shutdown ends August 17 — teams return 3 days before race\n- [HIGH] Honda ran updated PU during filming day at Hungaroring — reported multiple sources\n- [MEDIUM] Estimated +30-50 additional horsepower from Honda update — single source range estimate\n- [HIGH] Race-spec Honda PU debuts in competition at Zandvoort — multiple sources confirm\n- [MEDIUM] Changes to combustion chamber, pre-chamber geometry, revised lubrication — technical detail from single source\n- [HIGH] Alonso called current hybrid system in battery-clip mode \"less powerful than F2\" (after Spa) — reported quote",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Verstappen Exit Clause — Red Bull Tables €65M/Year Counter-Offer, McLaren Talks in \"Closing Stages\"",
+      "tier": 1,
+      "status": "",
+      "angle": "The Verstappen saga has moved fast. Red Bull reportedly tabled a new contract worth €65 million per season through 2029 that would eliminate the exit clause entirely — the offer has been with Verstappen's camp for weeks with no formal response. Meanwhile, PlanetF1 and SportBible report McLaren negotiations are in \"closing stages,\" with a Verstappen-for-Piastri swap rumored. Zak Brown and Oscar Piastri's manager both pushed back publicly. The actual deadline is mid-October — meaning this shadows the Dutch GP, Italian GP, and Singapore.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The Verstappen story has moved.\n\nRed Bull reportedly offered €65M/year through 2029 to eliminate the exit clause.\n\nVerstappen's camp has had the offer for weeks.\n\nNo response.\n\n#F1 #Verstappen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Verstappen"
+          ],
+          "char_count": 192
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Multiple sources report McLaren-Verstappen talks are in \"closing stages.\"\n\nZak Brown denied it. Piastri's manager denied it.\n\nThe actual clause deadline is mid-October — not August.\n\nThis saga will shadow the Dutch GP, Italian GP, and Singapore. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": {
+        "long_form": "⚡ The Verstappen exit clause saga just escalated on two fronts simultaneously.\n\n**Front 1: Red Bull makes its offer.**\nRed Bull reportedly tabled a new contract worth €65 million per season through 2029 — contingent on Verstappen agreeing to eliminate the exit clause entirely. The offer has been with Verstappen's management team (Raymond Vermeulen) for several weeks. As of today, there has been no formal response from the Verstappen camp. The silence, in itself, is telling.\n\n**Front 2: McLaren talks in \"closing stages.\"**\nMultiple sources — including SportBible and PlanetF1 — reported in early July that Verstappen's camp initiated contact with McLaren and that negotiations were at an advanced stage. The rumored structure: Verstappen to McLaren, Oscar Piastri to Red Bull in a straight swap. Zak Brown denied it publicly. Piastri's manager Mark Webber pushed back. But denials in the F1 silly season rarely end a story; they tend to complicate it.\n\n**The timeline most fans don't know:**\nThe exit clause window runs from August to October 2026. Verstappen does not have to decide in August — he has until approximately mid-October to formally invoke the clause. That means this saga will shadow not only the Dutch Grand Prix (his home race, in 12 days), but the Italian GP at Monza and the Singapore GP as well.\n\nRed Bull's counter-offer is a remarkable admission of leverage. They are, effectively, offering €65 million per year to stop Verstappen from walking out for nothing. The clause requires no compensation to Red Bull if triggered. No payment. No negotiation. Verstappen can leave, and they cannot demand a penny.\n\nThe Dutch GP is the first race since the clause became active. All eyes on Verstappen.\n\n---",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-verstappen-red-bull-65m-mclaren-closing-stages.html",
+        "headline": "Red Bull Offers Verstappen €65M a Year. McLaren Talks Are in \"Closing Stages.\" No Answer.",
+        "word_count": 632
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Exit Clause\n\n**Image Concept A — Social (1080×1350)**\n- Search terms: `Max Verstappen Red Bull`\n- Style: Verstappen intense/focused, split Red Bull/McLaren graphic element\n- Text overlay: \"Red Bull: €65M/Year | McLaren: Closing Stages | Deadline: October\"\n- Priority: HIGH\n\n**Image Concept B — Article Hero (1200×630)**\n- Search terms: `Max Verstappen Red Bull`\n- Style: Verstappen in car, Red Bull livery\n- Text overlay: \"The Verstappen Saga: Red Bull's Counter, McLaren's Move\"\n- Priority: MEDIUM\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen Exit Clause — Red Bull Counter-Offer, McLaren Talks\n**Sources:**\n- SportBible: \"Verstappen/McLaren — closing stages deal\" (July 7-8)\n- PlanetF1: \"Max Verstappen McLaren move — Red Bull exit clause contract talks\"\n- GPFans: \"Max Verstappen exit clause — Red Bull F1 October ticking timebomb\"\n- TheJudge13: \"No response from Verstappen after Red Bull's fresh contract offer ahead of crucial exit clause deadline\" (July 28)\n- ESPN: \"Verstappen refuses to commit to Red Bull 2026 amid growing McLaren exit rumours\"\n- RacingNews365: \"Max Verstappen can now trigger exit clause to potentially leave Red Bull\"\n**Key facts (confidence tagged):**\n- [HIGH] Exit clause active — triggered by not finishing top 2 in championship at summer break (109 pts, P3)\n- [HIGH] Window runs August to October 2026 — actual hard deadline ~October 15-20\n- [HIGH] Red Bull gets NO compensation if clause triggered — confirmed\n- [MEDIUM] Red Bull tabled €65M/year counter-offer through 2029 to eliminate clause — sourced, not officially confirmed\n- [MEDIUM] Verstappen camp (Raymond Vermeulen) received offer weeks ago, no formal response as of Aug 9 — multiple sources\n- [MEDIUM] McLaren negotiations in \"closing stages\" per SportBible/PlanetF1 — sourced, McLaren denied publicly\n- [MEDIUM] Rumored structure: Verstappen to McLaren, Piastri to Red Bull — reported, denied by Piastri manager Mark Webber\n- [HIGH] Zak Brown denied McLaren talks publicly — confirmed\n- [HIGH] Verstappen has refused to publicly commit to Red Bull — multiple sources",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Alonso Retirement Decision — Post-Summer, Could Drop Any Day",
+      "tier": 2,
+      "status": "",
+      "angle": "Fernando Alonso said explicitly he would make his retirement decision \"after summer.\" The summer break ends August 17. That means an announcement could land any day between shutdown ending and the Dutch GP (Aug 21). The Honda upgrade at Zandvoort is the deciding variable — if it delivers 50+ hp, Alonso might continue. If it underdelivers, a retirement statement before or during the Dutch GP is increasingly likely. Adrian Newey, now at Aston Martin, has been described as \"pretty confident\" Alonso will stay.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Fernando Alonso said he'd make his retirement decision \"after summer.\"\n\nThe summer break ends August 17.\n\nThe decision window is now open.\n\nThe Dutch GP tests the new Honda PU — and probably answers Alonso's question. #F1 #Alonso",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Alonso"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": {
+        "long_form": "🏆 Fernando Alonso said it clearly before the summer break: he would make his retirement decision \"after summer.\" The F1 summer break ends August 17.\n\nThat means the window is open. The announcement that would end the career of one of the greatest drivers in Formula 1 history could drop any day between August 17 and the Dutch Grand Prix weekend on August 21.\n\nHere is where things stand as of today:\n\n**The case for retirement:** Alonso turns 45 in July 2026. His Aston Martin contract expires at the end of this season. Ted Kravitz (Sky Sports) has been vocal in predicting he will announce his retirement. Barcelona — where Alonso said it was \"probably my last time\" racing — is not on the 2027 F1 calendar.\n\n**The case for continuing:** Adrian Newey joined Aston Martin this year and has reportedly told people he is \"pretty confident\" Alonso will be back. The Honda power unit upgrade debuting at Zandvoort could change the competitive picture significantly. Alonso's own framing has consistently been: \"Hard to retire if the car is not competitive\" — suggesting he stays if the car gives him something to fight for.\n\n**The Zandvoort variable:** The Dutch GP is literally the first time Aston Martin competes with the new Honda spec. If the upgrade delivers what the engineers are promising, Alonso may choose to see out the 2027 Aston Martin project under Newey. If it disappoints — if the car is still \"less powerful than F2\" on the straights — a retirement announcement becomes the logical next step.\n\nA 46-time Grand Prix winner. Two-time World Champion. One of the fiercest competitors the sport has ever seen. The decision is coming. 🏁\n\n---",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-alonso-retirement-decision-window-now-open.html",
+        "headline": "Alonso Said \"After Summer.\" The Summer Break Ends August 17. The Decision Window Is Now Open.",
+        "word_count": 628
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alonso Retirement Decision\n\n**Image Concept A — Social (1080×1350)**\n- Search terms: `Fernando Alonso Aston Martin`\n- Style: Alonso portrait/celebration, emotional tone\n- Text overlay: \"Decision Window Now Open | 'After Summer' = Now | Aug 17+\"\n- Priority: HIGH\n\n**Image Concept B — Article Hero (1200×630)**\n- Search terms: `Fernando Alonso Aston Martin`\n- Style: Alonso mid-race, dramatic lighting\n- Text overlay: \"Alonso: The Retirement Decision Is Coming\"\n- Priority: MEDIUM\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Alonso Retirement Decision\n**Sources:**\n- GPFans: \"Fernando Alonso F1 retirement 2026 — Aston Martin, Ted Kravitz, Sky Sports\"\n- PlanetF1: \"Fernando Alonso future — Adrian Newey 'pretty confident' Aston Martin stay\"\n- total-motorsport.com: \"Fernando Alonso retirement decision Aston Martin\"\n- Yahoo Sports: \"'Probably last' — Fernando Alonso drops hints\" (Barcelona)\n**Key facts (confidence tagged):**\n- [HIGH] Alonso said he would make retirement decision \"after summer\" — direct quote/reporting\n- [HIGH] Summer break ends August 17 for most teams\n- [HIGH] Aston Martin contract expires end of 2026 — confirmed\n- [HIGH] Barcelona was \"probably my last time\" there (Barcelona not on 2027 F1 calendar) — Alonso statement\n- [HIGH] Ted Kravitz predicts retirement — Sky Sports journalist\n- [MEDIUM] Adrian Newey \"pretty confident\" Alonso will stay — sourced claim\n- [MEDIUM] Honda upgrade at Zandvoort is the deciding variable for Alonso — reported, plausible\n- [HIGH] Newey joined Aston Martin this year — confirmed",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Hamilton and Ferrari — ADUO Upgrade Token and the Second-Half Chase",
+      "tier": 2,
+      "status": "",
+      "angle": "Lewis Hamilton flagged a 0.3-0.4s/lap straight-line speed deficit heading into the break, but Ferrari has one more Additional Development Upgrade Opportunity (ADUO) token to deploy before season's end. Ferrari sources are \"bullish\" it can meaningfully close the gap. Hamilton is \"pushing hard\" and heads into the second half as Ferrari's clear No. 1, sitting 31 points ahead of Leclerc. The Dutch GP Sprint on Saturday will provide the first post-break data point on whether the balance has shifted.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Hamilton heads into the second half 50 points back — but Ferrari still has an ADUO upgrade token.\n\nSources say it can close the 0.3-0.4s/lap straight-line deficit.\n\nThe Dutch GP Sprint Saturday is the first data point.\n\nCan Maranello deliver? #F1 #Hamilton #Ferrari",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Hamilton",
+            "#Ferrari"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": {
+        "long_form": "🔴 Lewis Hamilton is 50 points behind Kimi Antonelli with 291 remaining. On paper: still very much alive. But the gap is real, and closing it requires Ferrari to solve a specific problem.\n\nHamilton has flagged a 0.3-0.4 seconds per lap deficit on the straights — a structural disadvantage compared to the Mercedes W16 package. That's not a setup problem, not a tire strategy issue. That's raw power and drag efficiency. And it is where Ferrari is focused for the second half.\n\nHere is what makes the second half realistic for Hamilton:\n\n**The ADUO token.** Ferrari has one more Additional Development Upgrade Opportunity available under this season's technical regulations. Unlike a standard development program, ADUO tokens are explicitly designed to allow power unit improvements during the racing season. Ferrari sources are described as \"bullish\" about this final token's impact — suggesting the team believes it can meaningfully close the straight-line deficit to Mercedes.\n\n**The No.1 status.** Hamilton is 31 points ahead of Leclerc in the Ferrari intra-team standings. That gives Fred Vasseur and the team clarity: Hamilton is their championship contender. The team's strategy calls, upgrades, and development priorities align behind one driver from this point forward.\n\n**Dutch GP Sprint on Saturday.** The first race after the summer break is a Sprint weekend — which means Saturday will provide meaningful competitive data before Sunday's race. If Ferrari's preparation has shifted anything heading into the second half, the Zandvoort Sprint will show it.\n\nAntonelli leads and is in remarkable form. But Formula 1 second halves have a history of surprises. 291 points is not a memorial — it is a math problem.\n\n---",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-hamilton-ferrari-aduo-token-second-half-chase.html",
+        "headline": "Hamilton Is 50 Points Back. Ferrari Has One ADUO Token Left. The Second Half Starts at Zandvoort.",
+        "word_count": 641
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hamilton / Ferrari ADUO\n\n**Image Concept A — Social (1080×1350)**\n- Search terms: `Lewis Hamilton Ferrari`\n- Style: Hamilton in Ferrari red, determined expression\n- Text overlay: \"50 Pts Back | ADUO Token Remains | Ferrari Pushing Hard\"\n- Priority: HIGH\n\n**Image Concept B — Article Hero (1200×630)**\n- Search terms: `Lewis Hamilton Ferrari`\n- Style: Hamilton in car, Maranello red\n- Text overlay: \"Hamilton's Second-Half Path to the Title\"\n- Priority: MEDIUM\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Hamilton / Ferrari — ADUO Upgrade, Second-Half Chase\n**Sources:**\n- ESPN: \"Lewis Hamilton eyes stronger second half — Ferrari chase for power\"\n- GPFans: \"Lewis Hamilton 2026 F1 title fight — upgrades, Ferrari pushing hard\"\n- news.gp: F1 standings after Hungarian GP — Antonelli 219, Hamilton 169, Russell 160\n- f1oversteer.com: \"Lewis Hamilton just gave Ferrari the perfect reason to make him No.1\"\n**Key facts (confidence tagged):**\n- [HIGH] Championship standings after R11: Antonelli 219 / Hamilton 169 / Russell 160\n- [HIGH] 291 points remain in 11 rounds\n- [HIGH] Hamilton flagged 0.3-0.4s/lap straight-line speed deficit — own statement\n- [MEDIUM] Ferrari has one more ADUO (Additional Development Upgrade Opportunity) token remaining — reported\n- [MEDIUM] Ferrari sources \"bullish\" ADUO can meaningfully close straight-line gap — sourced claim\n- [HIGH] Hamilton 31 points ahead of Leclerc in Ferrari intra-team battle\n- [HIGH] Ferrari brought engine upgrade at Austrian GP (earlier in season) — confirmed\n- [HIGH] Dutch GP Sprint Saturday will be first post-break data point",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Haas 2027 Seat — Fornaroli Is the Frontrunner, Ocon's F1 Seat Effectively Gone",
+      "tier": 2,
+      "status": "",
+      "angle": "Leonardo Fornaroli — back-to-back FIA F3 (2024) and F2 (2025) champion, McLaren reserve — is the frontrunner for the second Haas seat in 2027, with reports of an \"agreement in principle.\" Rafael Camara (Ferrari junior) is reportedly being offered a reserve role rather than the race seat. Esteban Ocon's case is described as \"effectively over.\" Hirakawa is \"out of luck\" despite the Hungary FP1 appearance. A formal announcement hasn't been made, but Haas principal Komatsu has been sidestepping Ocon questions for weeks.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The Haas 2027 seat situation is close to resolved.\n\nLeonardo Fornaroli — McLaren reserve, back-to-back F3 + F2 champion — is the frontrunner.\n\nReports: agreement in principle.\n\nEsteban Ocon's case is described as \"effectively over.\"\n\n#F1 #Haas #Formula2",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Haas",
+            "#Formula2"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": {
+        "long_form": "🔑 The Haas 2027 driver situation has reached what looks like its final shape — and the name at the top of the list is one you might not have expected.\n\nLeonardo Fornaroli. 21 years old. McLaren reserve driver. Back-to-back FIA Formula 3 champion (2024) and FIA Formula 2 champion (2025). Multiple reports — led by gpblog.com, who cited an exclusive — indicate that Fornaroli and Haas have an \"agreement in principle\" for 2027. McLaren has reportedly signaled willingness to loan him to the team.\n\nWhere does that leave the other names?\n\n**Rafael Camara (Ferrari junior):** Per reporting, Camara is being offered a reserve driver role at Haas for 2027 — not the race seat. Ferrari's lobbying through the Haas-Ferrari technical alliance carries genuine weight, but the paddock consensus seems to be that Camara benefits from another season of F2 development. He is third in the current F2 standings.\n\n**Esteban Ocon:** Autosport described Ocon's case as \"effectively over\" on July 31. Haas principal Ayao Komatsu has been visibly sidestepping Ocon questions at recent press conferences. Ocon carries just 3 points to teammate Oliver Bearman's 18. A 10-year Formula 1 veteran, Ocon may be facing the end of his F1 career.\n\n**Ryo Hirakawa:** The Japanese driver, despite receiving FP1 time at the Hungarian GP, is reported by gpblog to be \"out of luck\" for the Haas race seat.\n\nAn official announcement hasn't come yet — Haas had indicated a May-July decision window and has slipped past it. But the shape of the 2027 lineup looks increasingly clear.\n\n---",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-haas-2027-fornaroli-frontrunner-ocon-done.html",
+        "headline": "Haas 2027: Fornaroli Is the Frontrunner, Ocon's F1 Career May Be Over",
+        "word_count": 618
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Haas 2027 Seat\n\n**Image Concept A — Social (1080×1350)**\n- Search terms: `Esteban Ocon Haas`\n- Style: Split graphic — Ocon vs. young driver placeholder\n- Text overlay: \"Haas 2027: Fornaroli Frontrunner | Ocon: 'Effectively Over'\"\n- Priority: HIGH\n\n**Image Concept B — Article Hero (1200×630)**\n- Search terms: `Haas Formula 1`\n- Style: Haas car in action\n- Text overlay: \"Haas 2027 Seat: The Decision Is Near\"\n- Priority: MEDIUM"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Haas 2027 Seat — Fornaroli vs. Camara\n**Sources:**\n- Yahoo Sports: \"Three drivers running — Esteban Ocon\" (Fornaroli, Camara, Tsunoda)\n- autosport.com: \"Why nationality should be no factor as Haas consider Fornaroli and Camara for F1 2027\"\n- gpblog.com: \"McLaren driver in talks with Haas to replace Ocon\" (Fornaroli exclusive)\n- TheJudge13: \"Ocon set to lose Haas F1 seat if McLaren's Fornaroli enters the frame\" (July 31)\n- gpblog.com: \"This driver dreams of a full-time seat at Haas but looks to be out of luck\" (Hirakawa)\n- racingnews365.com: Bottas Cadillac\n**Key facts (confidence tagged):**\n- [HIGH] Bearman 18 pts vs. Ocon 3 pts — confirmed standings\n- [MEDIUM] Leonardo Fornaroli (McLaren reserve) is frontrunner — multiple sources, agreement in principle reported\n- [HIGH] Fornaroli won FIA F3 2024 and F2 2025 — career record confirmation needed but widely reported\n- [MEDIUM] Rafael Camara (Ferrari junior) offered reserve role not race seat — reported\n- [HIGH] Ferrari lobbying for Camara via Haas-Ferrari technical alliance — reported\n- [HIGH] Haas Komatsu sidestepping Ocon questions at press conferences — observed\n- [HIGH] Ryo Hirakawa given FP1 at Hungary — confirmed\n- [MEDIUM] Hirakawa \"out of luck\" per gpblog.com — single source assessment",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

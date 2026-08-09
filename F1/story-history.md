@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-08-09
+
+| Date | Tier | Story | Formats | Status |
+|------|------|-------|---------|--------|
+| 2026-08-09 | T1 | Dutch GP — 12 Days Away, Honda PU Debuts at Zandvoort | X, FB, Article | FOLLOW UP |
+| 2026-08-09 | T1 | Verstappen Exit Clause — Red Bull €65M Counter-Offer, McLaren "Closing Stages" | X, FB, Article | FOLLOW UP |
+| 2026-08-09 | T2 | Alonso Retirement Decision Window Now Open — Post-Shutdown Announcement Imminent | X, FB, Article | FOLLOW UP |
+| 2026-08-09 | T2 | Hamilton/Ferrari — ADUO Upgrade Token, Second-Half Chase Begins | X, FB, Article | FOLLOW UP |
+| 2026-08-09 | T2 | Haas 2027 Seat — Fornaroli Frontrunner (Agreement in Principle), Ocon Effectively Done | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Dutch GP — Honda PU Debuts at Zandvoort
+- **Tier:** 1
+- **Category:** F1 Race Preview / Dutch Grand Prix / Aston Martin / Honda
+- **Key facts:** Dutch GP Aug 21-23, Circuit Zandvoort; final F1 race ever at Zandvoort; first-ever Sprint at circuit (Sprint Qual Fri 16:30 CET, Sprint Sat 12:00 CET 24 laps, Race Sun); shutdown ends Aug 17 (teams back 3 days before); Honda ran updated PU at Hungaroring filming day during shutdown; race-spec Honda PU debuts in competition at Zandvoort; estimated +30-50hp; combustion chamber + pre-chamber geometry changes, revised lubrication; Alonso called current unit "less powerful than F2" (Spa); Martin Garrix performing; tickets sold out
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Sprint result; qualifying; race result; Alonso post-race assessment
+
+### STORY 2: Verstappen Exit Clause — Red Bull Counter-Offer, McLaren Closing Stages
+- **Tier:** 1
+- **Category:** F1 Driver News / Max Verstappen / Red Bull Racing / McLaren
+- **Key facts:** Exit clause active; actual deadline ~mid-October (not August only); Red Bull reportedly offered €65M/year through 2029 to eliminate clause; offer with Verstappen management (Raymond Vermeulen) for weeks, no formal response; McLaren talks in "closing stages" per SportBible/PlanetF1; rumored structure: Verstappen to McLaren, Piastri to Red Bull; Zak Brown denied; Piastri manager Mark Webber denied; Verstappen refuses to commit publicly; saga shadows Dutch GP, Italian GP, Singapore
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Pre-Dutch GP announcement; McLaren/Piastri response; formal clause invocation; October deadline
+
+### STORY 3: Alonso Retirement — Decision Window Now Open
+- **Tier:** 2
+- **Category:** F1 Driver News / Fernando Alonso / Aston Martin
+- **Key facts:** Alonso said decision "after summer"; shutdown ends Aug 17; announcement window open; Honda PU debut at Zandvoort is deciding variable; Newey "pretty confident" Alonso stays; Barcelona "probably my last time"; Ted Kravitz predicts retirement; Aston Martin contract expires end 2026
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Retirement announcement; Dutch GP Alonso media session; Honda PU performance assessment
+
+### STORY 4: Hamilton / Ferrari — ADUO Token, Second-Half Chase
+- **Tier:** 2
+- **Category:** F1 Championship / Lewis Hamilton / Ferrari / Kimi Antonelli
+- **Key facts:** Standings: Antonelli 219 / Hamilton 169 / Russell 160; 291 pts remain; Hamilton flagged 0.3-0.4s/lap straight-line deficit; Ferrari has one ADUO token remaining; Ferrari sources "bullish" it can close gap; Hamilton 31 pts ahead of Leclerc (Ferrari No.1 clarity); Dutch GP Sprint Saturday = first post-break data point
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** ADUO timing confirmed; Dutch GP result; championship gap after each round
+
+### STORY 5: Haas 2027 Seat — Fornaroli Frontrunner
+- **Tier:** 2
+- **Category:** F1 Team News / Haas / Leonardo Fornaroli / Esteban Ocon
+- **Key facts:** Leonardo Fornaroli (McLaren reserve, back-to-back F3 2024 + F2 2025 champion, 21yo) is frontrunner; "agreement in principle" reported (gpblog exclusive); McLaren willing to loan; Camara offered reserve role not race seat; Ocon case "effectively over" per Autosport; Komatsu sidestepping Ocon questions; Hirakawa "out of luck" (gpblog); Haas slipped past May-July stated decision timeline; no official announcement yet
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official announcement (expected Dutch GP or Monza); Ocon 2027 options
+
 ## 2026-08-07
 
 ### STORY 1: Zandvoort Farewell — Dutch GP Will Be the Final F1 Race at the Circuit

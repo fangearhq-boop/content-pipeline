@@ -1,6 +1,18 @@
 # F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
+- **Date**: 2026-08-09
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters (2 tweets fixed after verify-facts: Story 1 tweet 1 trimmed from 313 to 248; Story 4 tweet 1 trimmed from 297 to 270)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Ryan Calloway, Elena Voss, Marcus Cole, Ryan Calloway)
+- **PostPlanner exports:** f1fr-postplanner-2026-08-09.xlsx (7 posts) + f1fr-postplanner-tobi-2026-08-09.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-08-09/review-dashboard.html (27 items)
+- **Notes:** Dutch GP 12 days away — Honda PU debuts at Zandvoort (filming day at Hungaroring during shutdown, +30-50hp estimated); Verstappen — Red Bull €65M/year counter-offer with no response, McLaren "closing stages" per SportBible/PlanetF1, actual deadline mid-October; Alonso retirement decision window open (shutdown ends Aug 17, Honda upgrade deciding variable, Newey "pretty confident"); Hamilton/Ferrari — ADUO token remaining, 0.3-0.4s/lap deficit targeted, Dutch GP Sprint first data point; Haas — Fornaroli frontrunner (agreement in principle), Camara gets reserve offer, Ocon "effectively over"
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+## 2026-08-08
 - **Date**: 2026-08-08
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)
