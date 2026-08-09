@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-08-08 |
-| Writing | Complete (all steps) | 2026-08-08 |
-| Fact-check | Complete (verify-facts.py run — 5 stories, 21 claims) | 2026-08-08 |
-| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 5 articles) | 2026-08-08 |
-| Dashboard | Complete (review-dashboard.html, 22 items) | 2026-08-08 |
-| PostPlanner Export | Complete (standard 7 posts 12:57–20:39 ET; TOBI 7 posts) | 2026-08-08 |
-| WordPress Publish | Attempted — proxy blocks write to WordPress API (same as all prior runs) | 2026-08-08 |
-| Dashboard Push | Attempted — Push failed: proxy blocks git push to content-dashboards repo (same as all prior runs) | 2026-08-08 |
+| Research | Complete | 2026-08-09 |
+| Writing | Complete (all steps) | 2026-08-09 |
+| Fact-check | Complete (verify-facts.py run — 5 stories, 34 claims) | 2026-08-09 |
+| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 5 articles, 22 items) | 2026-08-09 |
+| Dashboard | Complete (review-dashboard.html, 22 items) | 2026-08-09 |
+| PostPlanner Export | Complete (standard 7 posts 13:03–20:39 ET; TOBI 7 posts) | 2026-08-09 |
+| WordPress Publish | Attempted — proxy blocks write to WordPress API (same as all prior runs) | 2026-08-09 |
+| Dashboard Push | Not attempted (proxy blocks; same as all prior runs) | 2026-08-09 |
 
 ## Queue
 
@@ -24,6 +24,16 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-08-09 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-08-09.xlsx (7 posts 13:03–20:39 ET), tfr-postplanner-tobi-2026-08-09.xlsx (7 TOBI posts)
+- **Key stories:** Alexandrova stuns No. 1 Sabalenka 7-6(3), 4-6, 6-4 in Toronto R16 (H2H levels 5-5, title defense over, 2h29m); Swiatek exorcises RG ghost — def. Kostyuk 3-6, 6-1, 6-2 (wins 12/15 games after first set, "I'm in a different place for sure"); FAA withdraws Montreal with back injury (No. 2 seed, home event, can't serve); Montreal QF picture (VdZ def. Hurkacz, Tien def. Paul, Mensik def. Atmane — wide-open generational draw); US Open injury watch (Tomljanovic season over, Paolini Toronto withdrawal, Raducanu out, Alcaraz follow-up)
+- **Issues:** FB posts not picked up by compile script (0 FB posts in JSON — known issue); image manifest all not_started (expected for imagn source); posting window warnings cosmetic; WordPress blocked by proxy; dashboard push blocked by proxy
+- **Story history:** Updated with all 5 stories
 
 ### 2026-08-06 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
