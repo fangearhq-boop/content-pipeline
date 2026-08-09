@@ -3,6 +3,65 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-08-09
+
+### Story 1: LLSWS Grand Final — NC vs Kentucky, 3 PM ET on ABC
+- **Date:** 2026-08-09
+- **Tier:** 1
+- **Classification:** FOLLOW UP (LLSWS tracked Aug 1-8; bracket championships complete; Grand Final TODAY)
+- **Angle:** Championship preview — NC (Johnston County, Clayton NC) vs KY (Daviess County, Owensboro KY) at 3PM ET on ABC at Stallings Stadium Greenville NC. NC's Anna-Lynn Clark leads tournament with 35 K (three 11+ K games); NC 4-0 over FL in Purple semifinal. KY 2-1 over NJ in Orange semifinal on Evelyn Chelstrom two-out RBI single (5th). NC chasing 4th LLSWS title (2015/2019/2024).
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - LLSWS Grand Final result (Aug 10 recap if not confirmed)
+  - Anna-Lynn Clark final stat line and tournament summary
+  - Kentucky/NC team season wrap
+
+### Story 2: AUSL All-Star Cup Series 1 Day 2 — Corrick vs Ricketts Tonight
+- **Date:** 2026-08-09
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Series 1 opened Aug 8; Day 2 = Corrick vs Ricketts at 8PM ET tonight)
+- **Angle:** Day 2 of Series 1 at Parkway Bank Sports Complex, Rosemont IL. Team Corrick vs Team Ricketts at 8PM ET. Defending champion Kayla Kowalik (.486 BA, 1,590 pts in 2025) unavailable for Series 1; open individual race. Rachel Garcia, Keilani Ricketts, Georgina Corrick are Series 1 captains. Day 3 = Ricketts vs Garcia Monday Aug 10 at 7PM ET.
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - AUSL Series 1 results and leaderboard after Day 2
+  - Day 3 Monday Aug 10 game
+  - Individual points race after Series 1 concludes
+
+### Story 3: September 1 Recruiting Window — 23 Days / Class of 2028
+- **Date:** 2026-08-09
+- **Tier:** 2
+- **Classification:** FOLLOW UP (countdown daily since Aug 3; today = 23 days)
+- **Angle:** 23 days to D1 first-contact window for Class of 2028. Record 1,226 EIS nominations. Coaches have finalized call lists; midnight Sept 1 is the starting gun. Article angle: what happens when the window opens — calls, texts, visits all activate simultaneously.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Continue daily countdown (22 days Aug 10)
+  - September 1 arrival coverage
+  - Commitment wave aftermath
+
+### Story 4: Texas Tech 2027 — Seven All-Americans, Fall Camp Weeks Away
+- **Date:** 2026-08-09
+- **Tier:** 2
+- **Classification:** FOLLOW UP (TTU portal tracked Aug 1-8; today = 7 AA frame + fall camp imminent)
+- **Angle:** Seven current/former All-Americans: Kaitlyn Terry, Mia Williams, Taylor Pannell, Moriah Polar, Kasidi Pickering (.370/20HR/61RBI from OU), Jasmyn Burns, Jaysoni Beachum (.406/10HR/69RBI from FSU). Jayden Heavener (13-9/2.81ERA/128K from LSU) adds pitching. None have practiced together. Fall camp begins when fall semester opens. Coach Gerry Glasco.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Fall camp opening coverage
+  - Fall scrimmage results
+  - 2027 preseason rankings when released
+
+### Story 5: USA WNT — 34 Days to WBSC World Cup Group Stage OKC
+- **Date:** 2026-08-09
+- **Tier:** 3
+- **Classification:** FOLLOW UP (qualifier/countdown angle; today = 34 days)
+- **Angle:** 34 days to WBSC Softball Women's World Cup Group C at Devon Park OKC Sept 12-16. USA opens vs Mexico Sept 12 (final game opening day). Group: Netherlands No. 6, Mexico No. 7, China No. 8, NZ No. 23, SA No. 36. Coach Patty Gasso. Roster: Garcia, Mulipola, Fouts, Brady. USA No. 2 world. Results feed 2027 WC qual and LA28 pipeline.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Continue 33-day countdown (Aug 10)
+  - USA roster/schedule updates
+  - Event preview as Sept 12 approaches
+
+---
+
 ## 2026-08-08
 
 ### Story 1: LLSWS Day 6 Results + Bracket Championship Day — NC, KY, NJ Advance to Sunday Grand Final
