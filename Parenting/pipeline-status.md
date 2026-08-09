@@ -1,5 +1,42 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: August 9, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Liam Stewart School Zone Act (HB26-1318) eff. Aug 12 — same day D11; D11 Jumpstart Day Aug 11 (kinder, 6th, 9th graders); PIXLABBY Magnetic Fidget Sliders recall (860 units, 1 hospitalization); Wnttmt Baby Walkers recall (1,310 units, fall risk); D49 opening 2 new ECE classrooms at Student Success Center; Pediatrics study: 81% toddler foods ultra-processed |
+| Story History Check | COMPLETE | 5 stories: S1 new (school zone law — distinct from any prior coverage); S2 new (D11 Jumpstart Day first-day-specific); S3 new (PIXLABBY + Wnttmt recalls not previously covered); S4 new (D49 ECE expansion); S5 new (Pediatrics ultra-processed study) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH confidence all 5 stories; sources: Colorado legislature, CPSC.gov, d11.org, D49 web, Pediatrics/AAP |
+| Story Analysis | COMPLETE | 02-story-analysis.md — 5 story sections (### STORY N: headers) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (S1: 2, S3: 2, S2/S4/S5: 1 each); char-limit corrections applied (S3 tweet A: 293→261, S3 tweet B: 291→261); all ≤280 chars; 4 hashtags each; 0 exclamation marks |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form posts + 5 Image Captions; engagement questions; NO hashtags; COS voice; max 1 exclamation mark per post |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts; 1080×1350 (social) and 1200×630 (hero); clean bottom third; no celebrity likenesses; no brand logos |
+| Articles | COMPLETE | 5 articles (500-1000 words; semantic HTML5; What's Next sections; 0 exclamation marks; no figure tags; quick reference tables); bylines: Sarah Morales (A1, A3, A5), Jamie Rivera (A2, A4) |
+| Fact-Check | COMPLETE | verify-facts.py passed; 92 claims extracted; all stories present in all content files; 10 image not_started cosmetic (expected for gemini source) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 5 stories × 2 image types (social + hero) = 10 entries; all not_started; gemini base_only; kAHCKfCZgk0 brand kit |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts (known pipeline issue), 5 articles, 22 dashboard items |
+| Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-08-09.xlsx (7 posts 13:20–20:44 MT, 74 min apart) + cosp-postplanner-tobi-2026-08-09.xlsx (7 TOBI posts) |
+| Dashboard Push | Attempted — proxy blocks write to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — proxy blocks WP API (403) | Same environment restriction as all prior runs |
+
+### 2026-08-09 — Full Pipeline Run (Sunday)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts (S1: 2, S3: 2, S2/S4/S5: 1 each); PostPlanner xlsx: 7 posts 13:20–20:44 MT, 74 min apart; 7 TOBI
+- **Articles:** 5 (bylines: Sarah Morales [A1, A3, A5], Jamie Rivera [A2, A4])
+- **PostPlanner exports:** cosp-postplanner-2026-08-09.xlsx (7 posts), cosp-postplanner-tobi-2026-08-09.xlsx (7 TOBI posts)
+- **Coverage:** Liam Stewart School Zone Act eff. Aug 12 (S1, Tier 1 — 1,000 ft zones, doubled fines, 10 mph school streets, D11 first day Aug 12); D11 Jumpstart Day Aug 11 — kinder/6th/9th graders (S2, Tier 2 — all students Aug 12, Edukit K-8); PIXLABBY Magnetic Fidget Sliders + Wnttmt Baby Walkers recalls (S3, Tier 1 — 1 hospitalization PIXLABBY, 860 units; 1,310 units walkers); D49 opening 2 ECE classrooms at Student Success Center, 3850 Pony Tracks Dr (S4, Tier 2 — ages 3-kinder, 719-494-8840); Pediatrics: 81% toddler foods ultra-processed (S5, Tier 2 — 2,800 products audited, NOVA system)
+- **Notes:**
+  - verify-facts.py: char limit errors on S3 tweets (293, 291 chars) → trimmed to 261 each; second run passed clean
+  - compile: 7 X posts, 0 FB posts (known pipeline issue), 5 articles, 22 dashboard items
+  - WordPress: proxy blocks WP API (403); same as all prior runs
+  - Dashboard push: proxy blocks content-dashboards repo write; same as all prior runs
+  - Byline rotation: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4]
+
+---
+
 ## Latest Run: August 6, 2026
 
 | Step | Status | Notes |

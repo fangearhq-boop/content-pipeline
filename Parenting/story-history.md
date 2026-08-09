@@ -2,6 +2,50 @@
 
 ---
 
+## August 9, 2026
+
+### Story 1: New Colorado School Zone Law Takes Effect August 12 — Same Day D11 Starts
+- **Date:** 2026-08-09
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — Liam Stewart School Zone Act (HB26-1318) takes effect August 12, 2026 — same day D11 first day. School zones now 1,000 feet from school property. Fines doubled. New "school street" designation: 10 mph, yield to pedestrians and cyclists. Named for Liam Stewart, Littleton 8th grader killed biking to school in 2023. Also covers existing school bus law (since May 2025): stop 20 feet from buses with flashing red lights, all directions.
+- **Content Produced:** Article (Sarah Morales), 2 X posts, Facebook Long-Form, Facebook Image Caption, Image Concept (social + hero)
+- **Tier:** 1
+- **Key Facts:** HB26-1318; 1,000 feet minimum school zone; fines doubled; school street = 10 mph + yield; public hearing required to reduce zone; named for Liam Stewart (2023, Littleton); sponsors: Kenny Nguyen, Meg Froelich; passed House 42-21; signed May 29, 2026; school bus law (May 2025): 20 feet minimum, painted medians no longer exempt; Sources: Colorado legislature, CPSC.gov, KOAA, web research
+
+### Story 2: D11 Jumpstart Day Is Monday — What Kindergarteners, 6th Graders, and 9th Graders Need to Know
+- **Date:** 2026-08-09
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — D11 Jumpstart Day August 11 for transition-year students: kindergarteners, incoming 6th graders, incoming 9th graders. Full first day for all D11 K-12 students: August 12. Free Edukit school supplies for K-8 on August 12. D11 enrollment still open at d11.org and 1033 N. Franklin Street, M-F 8 AM–4 PM MT.
+- **Content Produced:** Article (Jamie Rivera), 1 X post, Facebook Long-Form, Facebook Image Caption, Image Concept (social + hero)
+- **Tier:** 2
+- **Key Facts:** Jumpstart Day: Monday August 11 (kinder, 6th, 9th graders); All D11 first day: Wednesday August 12; Edukit supply bags: K-8 students on August 12; Enrollment: d11.org or 1033 N. Franklin Street, M-F 8 AM–4 PM MT; D20 first day: August 17-18; Sources: d11.org, web research
+
+### Story 3: CPSC Recall — Magnetic Fidget Toy Sent a Child to the Hospital, Plus a Baby Walker Recall
+- **Date:** 2026-08-09
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — Two CPSC recalls, both Amazon-sold: (1) PIXLABBY Magnetic Fidget Sliders (~860 units, ~$10, Oct 2025–May 2026): child hospitalized after ingesting two magnets; refund via ah1998zxc@gmail.com. (2) Wnttmt Baby Walkers (~1,310 units): fits through standard doorway, fails to stop at step edge; refund via wbabywalker-recall@outlook.com. Both stop use immediately.
+- **Content Produced:** Article (Sarah Morales), 2 X posts, Facebook Long-Form, Facebook Image Caption, Image Concept (social + hero)
+- **Tier:** 1
+- **Key Facts:** PIXLABBY: ~860 units, ~$10, Amazon, Oct 2025–May 2026, 1 confirmed hospitalization, email ah1998zxc@gmail.com; Wnttmt: ~1,310 units, Amazon, email wbabywalker-recall@outlook.com; CPSC announced 17 recalls on single day early Aug 2026; Sources: CPSC.gov recall notices
+
+### Story 4: D49 Is Opening Two New Early Childhood Education Classrooms This Fall
+- **Date:** 2026-08-09
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — D49 opening 2 new ECE classrooms at Student Success Center, 3850 Pony Tracks Drive, Colorado Springs 80922. Ages 3 through kindergarten eligibility. Program starts 2026-27 school year. Phone: 719-494-8840.
+- **Content Produced:** Article (Jamie Rivera), 1 X post, Facebook Long-Form, Facebook Image Caption, Image Concept (social + hero)
+- **Tier:** 2
+- **Key Facts:** 2 new classrooms; Student Success Center, 3850 Pony Tracks Drive, COS 80922; 719-494-8840; ages 3 through kindergarten eligibility; 2026-27 school year; Sources: D49 web research
+
+### Story 5: 81% of Toddler Grocery Foods Are Ultra-Processed, Study Finds
+- **Date:** 2026-08-09
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — Study published in Pediatrics (AAP journal) audited nearly 2,800 toddler food products sold in grocery stores; 81% classified as ultra-processed (NOVA system). Front-of-package marketing often misleads ("organic," "natural," "real vegetables" on ultra-processed products). AAP guidance shifting toward whole foods for toddlers. Best check: ingredient list not front of package.
+- **Content Produced:** Article (Sarah Morales), 1 X post, Facebook Long-Form, Facebook Image Caption, Image Concept (social + hero)
+- **Tier:** 2
+- **Key Facts:** ~2,800 toddler food products audited; 81% ultra-processed; published in Pediatrics (AAP journal); NOVA classification system; Sources: Pediatrics journal, AAP healthychildren.org, web research
+
+---
+
 ## August 5, 2026
 
 ### Story 1: D11 Bond Vote Is Tonight — What COS Parents Need to Know Before 5:30 PM

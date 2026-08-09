@@ -1,0 +1,283 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-09",
+  "compiled_at": "2026-08-09T12:49:59.672335+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "New Colorado school zone law takes effect August 12 [TIER 1]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "A new Colorado law takes effect Wednesday, August 12 — the same day D11 kids head back to school. School zones now extend to 1,000 feet. Fines are doubled. New 10 mph \"school street\" zones near school entrances. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 271
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The Liam Stewart School Zone Act is named for a Littleton 8th grader killed biking to school in 2023. It becomes law Wednesday — the same morning D11's doors open. Slow down near every school in Colorado Springs. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-colorado-school-zone-law-august-12-d11.html",
+        "headline": "New Colorado School Zone Law Takes Effect August 12 — Same Day D11 Starts",
+        "word_count": 559
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Liam Stewart School Zone Act\n\n#### Social Image (1080×1350, 4:5 vertical)\n**Prompt:** A quiet suburban school zone street in early morning golden light. A bright yellow crosswalk stretches across an empty two-lane road, with a yellow diamond-shaped school zone warning sign visible on the right side of the street. Tree-lined sidewalks, a residential neighborhood in the background softly out of focus. Warm golden-hour sunrise tones with soft blue sky above. Photorealistic style, hopeful but serious mood. Clean open space in the bottom third of the image with the asphalt road filling that zone.\n**Status:** not_started\n\n#### Article Hero (1200×630, 1.91:1 landscape)\n**Prompt:** Wide-angle view of a school zone street in a Colorado neighborhood at morning light. Yellow school zone signs and crosswalk markings visible on an empty road. Sidewalks flanked by mature trees with dappled light. Clear blue Rocky Mountain sky in the background. Calm, serious, community-safety mood. Warm yellows and clean blues. Photorealistic. Clean sky in the upper portion, road in the lower.\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Liam Stewart School Zone Act (HB26-1318)\n**Law name:** Liam Stewart School Zone Act — **HIGH** (bill number HB26-1318, multiple sources)\n**Effective date:** August 12, 2026 — **HIGH** (KDVR, Yellow Scene, CBS Colorado, Colorado Senate Democrats)\n**Named for:** Liam Stewart, Littleton middle schooler struck and killed while biking to school 2023 — **HIGH** (KDVR confirmed)\n**School zone expansion:** School zones defined as roadways within at least 1,000 feet of school property boundary — **HIGH** (KDVR, CBS Colorado)\n**Fines:** Fines doubled within school zones — **HIGH** (KDVR)\n**School streets:** New \"school streets\" designation — roadways immediately adjacent to school property, max 10 mph, vehicles must yield to all pedestrians and cyclists — **HIGH** (KDVR)\n**Community process for zone reduction:** Communities wanting to reduce zone below 1,000 feet must hold public hearing first — **HIGH** (CBS Colorado)\n**Signed into law:** May 29, 2026 — **HIGH** (Colorado Senate Democrats release)\n**Sponsors:** Representatives Kenny Nguyen and Meg Froelich — **HIGH** (Colorado Senate Democrats)\n**House vote:** Passed 42-21 — **HIGH** (Colorado Senate Democrats)\n**D11 first day:** August 12, 2026 — **HIGH** (confirmed prior pipelines)\n**School bus law note:** Since May 2025, ALL drivers in ALL directions must stop at least 20 feet from school bus with red flashing lights; painted medians no longer permit passing — **HIGH** (Colorado State Patrol)",
+        "sources": "Sources: KDVR, Yellow Scene (Aug 8), CBS Colorado, Colorado Senate Democrats, HB26-1318 full text"
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "D11 Jumpstart Day Monday — countdown for transition-year students [TIER 2]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "D11 families: Jumpstart Day for kindergarteners, 6th graders, and 9th graders is Monday, August 11. These are the students entering a new building this year. First day for ALL D11 students is Wednesday, August 12. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-d11-jumpstart-day-august-11-first-day.html",
+        "headline": "D11 Jumpstart Day Is Monday — What Kindergarteners, 6th Graders, and 9th Graders Need to Know",
+        "word_count": 512
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D11 Jumpstart Day\n\n#### Social Image (1080×1350, 4:5 vertical)\n**Prompt:** A bright, welcoming elementary school hallway on the first day of school. Colorful backpacks hanging on wall hooks outside bright classroom doors. Morning sunlight streaming through a window at the end of the hallway. Empty hallway — no students visible. Cheerful school colors — primary reds, blues, and yellows. Warm, optimistic, fresh-start mood. Clean flat illustration style with soft shadows. Open space in the bottom third.\n**Status:** not_started\n\n#### Article Hero (1200×630, 1.91:1 landscape)\n**Prompt:** Welcoming school entrance doors thrown open on a bright late-summer morning, warm Colorado sunlight pouring in. A clean school entry corridor visible beyond the open doors. Cheerful, optimistic, back-to-school mood. Warm golden tones with soft blue sky visible outside. Photorealistic. Clean bottom section with the sunlit floor.\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D11 Jumpstart Day + First Day\n**Jumpstart Day date:** Monday, August 11, 2026 — **HIGH** (d11.org Back to School page)\n**Who attends Jumpstart:** Kindergarteners, 6th graders, 9th graders (students entering new building level) — **HIGH** (d11.org)\n**Purpose:** New-to-building orientation before full student body arrives — **HIGH** (d11.org)\n**All D11 students first day:** Wednesday, August 12, 2026 — **HIGH** (d11.org, confirmed prior pipelines)\n**Enrollment still open:** Online d11.org; in-person 1033 N. Franklin St., Mon-Fri 8 AM-4 PM — **HIGH** (d11.org)\n**D11 Edukit:** Free school supplies for 14,000+ K-8 students Aug 12 — **HIGH** (covered Aug 8 pipeline)",
+        "sources": "Sources: d11.org Back to School, Springs Daily COS back-to-school 2026"
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "CPSC recalls — PIXLABBY Magnetic Fidget Sliders (child hospitalized) + Wnttmt baby walkers [TIER 1]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "RECALL: PIXLABBY Magnetic Fidget Sliders (Amazon, ~$10, ~860 units). A child swallowed two magnets after removing the silicone casing and was hospitalized. Stop use. Email ah1998zxc@gmail.com for a refund. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 265
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Also recalled: Wnttmt Baby Walkers (~1,310 units, Amazon). Fits through a standard doorway and fails to stop at step edges — serious fall risk. Stop use. Email wbabywalker-recall@outlook.com for a refund. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-pixlabby-magnetic-slider-recall-cpsc.html",
+        "headline": "CPSC Recall: Magnetic Fidget Toy Sent a Child to the Hospital — Plus a Baby Walker Recall",
+        "word_count": 543
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "CPSC Recalls — Magnets + Baby Walkers\n\n#### Social Image (1080×1350, 4:5 vertical)\n**Prompt:** Close-up of a collection of colorful small toy magnets and small plastic pieces scattered on a white wooden surface, photographed from above. Bold, alert color palette — deep reds and oranges contrasting with the white surface. Dramatic overhead lighting creating clear shadows. Safety-warning visual mood — visually arresting without being graphic. No logos, no branding, no text. Clean white space in the bottom third.\n**Status:** not_started\n\n#### Article Hero (1200×630, 1.91:1 landscape)\n**Prompt:** Flat lay of small colorful children's toy pieces on a white background, viewed from above with dramatic studio lighting. Mix of small magnetic-type toys and plastic elements. Clean, clinical, safety-focused mood. Bold red accents against white. No branding, no text, no logos. Photorealistic product photography style.\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "CPSC Recalls — PIXLABBY Magnets + Wnttmt Walkers\n**PIXLABBY Magnetic Fidget Sliders:**\n- Units: Approximately 860 — **HIGH** (CPSC.gov)\n- Sold: Amazon.com, October 2025–May 2026, approximately $10 — **HIGH** (CPSC.gov)\n- Hazard: High-powered magnets can be liberated from silicone casing; if multiple swallowed, attract inside digestive tract causing perforations, blockage, blood poisoning, or death — **HIGH** (CPSC.gov)\n- Incident: CPSC confirmed one child removed silicone casing, ingested two magnets, hospitalized — **HIGH** (CPSC.gov)\n- Action: Stop use; email ah1998zxc@gmail.com with photo of disposed toy for full refund — **HIGH** (CPSC.gov)\n- Hazard classification: Serious injury/death — **HIGH**\n**Wnttmt Baby Walkers:**\n- Units: Approximately 1,310 — **HIGH** (ConsumerAffairs Aug 7 recall roundup)\n- Sold: Amazon.com — **HIGH**\n- Hazard: Walker narrow enough to pass through standard doorway; fails to stop at edge of step; serious fall and entrapment risks — **HIGH** (ConsumerAffairs)\n- Action: Contact wbabywalker-recall@outlook.com for refund — **HIGH** (ConsumerAffairs)\n**Recall date context:** CPSC announced 17 product recalls on August 6, 2026 — **HIGH** (Franklin County Free Press)",
+        "sources": "Sources: CPSC.gov PIXLABBY recall page, ConsumerAffairs Aug 7 2026 recall roundup, Franklin County Free Press Aug 6 2026"
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "D49 opens 2 new ECE classrooms this fall [TIER 2]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "D49 is opening 2 new Early Childhood Education classrooms this fall at the Student Success Center, 3850 Pony Tracks Drive. Ages 3 through kindergarten eligibility. East COS families, call 719-494-8840 to learn more. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-d49-early-childhood-education-classrooms.html",
+        "headline": "D49 Is Opening Two New Early Childhood Education Classrooms This Fall",
+        "word_count": 564
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D49 ECE Classrooms\n\n#### Social Image (1080×1350, 4:5 vertical)\n**Prompt:** A bright, cheerful preschool classroom with small colorful child-sized tables and chairs in a circle. Colorful alphabet letters and learning materials visible on the walls. Morning sunlight streaming through large classroom windows. Warm primary colors — reds, yellows, blues, greens. Empty of children — furniture and materials only. Optimistic, welcoming, educational mood. Clean flat illustration style with depth. Open space in the bottom third.\n**Status:** not_started\n\n#### Article Hero (1200×630, 1.91:1 landscape)\n**Prompt:** Wide view of a bright early childhood education classroom, colorful small furniture arranged in activity areas, educational posters and learning materials on the walls, large windows with warm Colorado morning light. Clean, modern classroom. Welcoming and optimistic mood. Photorealistic. Clear floor space in the lower portion.\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D49 New ECE Classrooms\n**Number of classrooms:** Two new ECE classrooms — **HIGH** (d49.org Back to School 2026-2027)\n**Location:** D49 Student Success Center — **HIGH** (d49.org)\n**Address:** 3850 Pony Tracks Drive, Colorado Springs 80922 — **HIGH** (d49.org)\n**Phone:** 719-494-8840 (D49 Early Childhood Education Office) — **HIGH** (d49.org)\n**Ages served:** Ages 3 through kindergarten eligibility — **HIGH** (d49.org)\n**Timing:** Opening with start of 2026-27 school year this August — **HIGH** (d49.org)",
+        "sources": "Sources: d49.org Back to School 2026-2027, d49.org preschool page"
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "81% of toddler grocery foods are ultra-processed [TIER 2]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "A new study in Pediatrics audited nearly 2,800 toddler foods sold in grocery stores. 81% were ultra-processed — often looking healthier on the label than they actually are. Worth a look at what's in the cart. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-toddler-foods-ultra-processed-study.html",
+        "headline": "81% of Toddler Grocery Foods Are Ultra-Processed, Study Finds",
+        "word_count": 707
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Toddler Foods Ultra-Processed\n\n#### Social Image (1080×1350, 4:5 vertical)\n**Prompt:** Grocery store aisle with colorful packaged toddler and baby food products stacked on shelves, viewed from a parent's eye level looking down the aisle. Bright fluorescent store lighting from above. Vivid packaging colors — greens, yellows, oranges — against white shelf backgrounds. Slightly dramatic perspective to emphasize the sheer volume of products. Curious, questioning mood. Photorealistic. Clean floor space in the lower third.\n**Status:** not_started\n\n#### Article Hero (1200×630, 1.91:1 landscape)\n**Prompt:** Top-down flat lay of assorted colorful packaged toddler food pouches and containers arranged on a clean white surface. Varied packaging shapes and bright colors. Clean, clinical, investigative mood. Bright even studio lighting. No logos, no readable brand text. Photorealistic product photography style.\n**Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Toddler Foods Ultra-Processed Study\n**Finding:** 81% of toddler food products audited were ultra-processed — **HIGH** (Pediatrics/AAP journal)\n**Products audited:** Nearly 2,800 toddler food products from grocery stores — **HIGH** (Pediatrics)\n**Study context:** Published in Pediatrics (the AAP journal) — **HIGH** (AAP publications)\n**Study location:** Conducted in Texas (grocery store audit) — **MEDIUM** (ConsumerAffairs/research summary)\n**Issue:** Packaging/labeling often makes products appear healthier than they are — **HIGH** (study finding)\n**Definition:** Ultra-processed = industrial formulations with little whole food; often high in sugar, sodium, artificial additives — **MEDIUM** (contextual — standard NOVA definition)\n**AAP guidance note:** AAP has consistently recommended whole foods and limiting ultra-processed foods for young children — **HIGH** (healthychildren.org)",
+        "sources": "Sources: AAP Pediatrics journal Volume 158 Issue 2, AAP news releases"
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
