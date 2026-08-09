@@ -5,6 +5,60 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-09
+
+### Story 1: Dodgers End 7-Game Losing Streak — Ohtani Walk-Off in 10th, 2-1 vs Arizona
+- **Date:** 2026-08-09
+- **Tier:** 1
+- **Classification:** FOLLOW UP (7-game streak covered Aug 3-8; streak ended Aug 8 in Arizona with 2-1 walk-off win)
+- **Angle:** Kyle Tucker HR in 8th for 1-0 lead; Arizona tied in 9th on back-to-back triples (Perdomo + Carroll); Ohtani walk-off infield single deflected off Tim Tawa's glove in 10th — Tucker scored from 3rd (advanced on wild pitch as automatic runner). Dodgers 2-1. Longest losing streak since 2017 ends. Ohtani still not pitching since July 3 (knee + biceps, no timeline).
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Ohtani pitching return timeline
+  - Dodgers win streak building off the turnaround
+  - Skubal next start update
+
+### Story 2: Red Sox 9-Game Win Streak Ends — 7-3 Loss to Oakland Athletics
+- **Date:** 2026-08-09
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Red Sox 9-game streak covered Aug 1-8; streak ended Aug 8 vs Oakland 7-3)
+- **Angle:** 9-game win streak ends with 7-3 loss to Athletics; bases loaded left in 9th. Context: Red Sox also had 15-game streak earlier this season (tied 1946 franchise record, Ted Williams era); team was 32-46 before the first streak. One more win would have made them first team ever with multiple 10-game win streaks in same season.
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Red Sox second half push toward playoffs
+  - Season win streak totals vs historical comps
+
+### Story 3: Field of Dreams Game — 4 Days Out, Twins vs Phillies on Netflix Aug 13
+- **Date:** 2026-08-09
+- **Tier:** 3
+- **Classification:** FOLLOW UP (Field of Dreams previewed Aug 5-8; today = 4 days out; full event details confirmed)
+- **Angle:** Aug 13, Netflix, 7:30 PM ET. 25+ HOFs (Schmidt, Carlton, Rolen/Phillies; Mauer, Carew, Blyleven, Molitor/Twins; Thome + Kaat both clubs). Kevin Costner in broadcast. 8,000 seats, 335/380/400 dimensions, gates 3:30 PM ET. First game since 2022 after major renovation. Key players: Buxton, Harper, Schwarber (33 HR).
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Field of Dreams Game day recap (Aug 14)
+
+### Story 4: White Sox 60-56, Leading AL Central by 3 Games
+- **Date:** 2026-08-09
+- **Tier:** 2
+- **Classification:** FOLLOW UP (White Sox AL Central lead tracked Aug 3-8; 60-56 after Aug 8 win vs Cleveland 6-3)
+- **Angle:** Beat Cleveland 6-3 on Aug 8; Murakami HR; Peters + Meidroth 2 RBI each in 5-run 6th; Montgomery RBI in 8th. Record 60-56, 3 games ahead of Cleveland/Minnesota. Turnaround from 41-121 in 2024 (worst record in modern MLB). Trade deadline buyers (Castillo, Doyle). Legitimate October contenders.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - AL Central standings updates
+  - White Sox October push coverage
+
+### Story 5: Matt Olson — 8th All-Time in Consecutive Games, Approaching 900
+- **Date:** 2026-08-09
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Olson streak covered Aug 4-8; passed Musial (895) around Aug 4-5; ~899 as of Aug 8)
+- **Angle:** Passed Stan Musial (895) to claim sole 8th place on all-time consecutive games list. Streak began May 2, 2021 (Oakland A's). Broke Braves franchise record at game 741 (surpassed Dale Murphy). Next: Joe Sewell at 1,103. All-time: Cal Ripken Jr. 2,632. Braves lost to Yankees 5-4 on Aug 8 (Cole vs Sale) but Olson was in the lineup as always.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Continue streak updates as Olson approaches 900 milestone
+  - Sewell (1,103) timeline if streak continues
+
+---
+
 ## 2026-08-08
 
 ### Story 1: Dodgers 7-Game Losing Streak — Waldschmidt Walk-Off, Longest Since 2017

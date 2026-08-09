@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-08-09
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via research agent, 5 stories verified HIGH confidence), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations — all ≤280), FB posts (5 stories), image concepts (9 items; imagn source), image manifest (9 items, not_started), articles (5), fact-check (41 claims HIGH; claim-patterns.py missing known), compile (5 stories, 7 tweets, 0 FB posts — format known, 5 articles, 5 images), dashboard (22 items), PostPlanner exports (0 posts — format known). WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard publish push failed (proxy known restriction). IMAGE NOT STARTED (manifest recognized but images not yet produced in Canva). claim-patterns.py missing (known). PostPlanner: 0 posts compiled (format known). 0 char violations. Red Sox streak opponent discrepancy: CBS Boston says Twins, Boston.com + WashPost confirm Athletics — used Athletics (2 sources).
+- **Key Stories**: Dodgers end 7-game losing streak — Ohtani walk-off infield single in 10th/Tucker scores from 3rd/Tucker HR in 8th/AZ tied on back-to-back triples (Perdomo+Carroll) in 9th (Tier 1 FOLLOW UP), Red Sox 9-game win streak ends — 7-3 vs Oakland/bases loaded left in 9th/also had 15-game streak earlier (franchise record tie 1946)/team was 32-46 pre-streak (Tier 1 FOLLOW UP), Field of Dreams Aug 13 Netflix 7:30 ET/Twins vs Phillies/25+ HOFs/Kevin Costner/4 days away (Tier 3 FOLLOW UP), White Sox 60-56 AL Central leaders — Murakami HR/Peters+Meidroth 2 RBI each/6-3 vs Cleveland/from 41-121 in 2024 (Tier 2 FOLLOW UP), Matt Olson ~899 consecutive games — passed Musial (895) for sole 8th all-time/streak since May 2021/next Sewell 1103 (Tier 2 FOLLOW UP)
+
+## Last Run
 - **Date**: 2026-08-08
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch + research agent, 5 stories verified HIGH confidence), brief (5 stories), research notes, story analysis (fixed to ### STORY N: format with key facts), X posts (9; all ≤280), FB posts (5 stories), image concepts (9 items; imagn source), image manifest (10 items, not_started), articles (5), fact-check (34 claims HIGH; claim-patterns.py missing known), compile (5 stories, 9 tweets, 0 FB posts — format known, 5 articles, 5 images), dashboard (24 items), PostPlanner exports (9 posts each — standard + TOBI). WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
