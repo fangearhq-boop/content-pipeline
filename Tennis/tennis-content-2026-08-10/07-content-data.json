@@ -1,0 +1,277 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-10",
+  "compiled_at": "2026-08-10T12:48:34.585450+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Alexandrova Beats Svitolina to Reach Toronto SF [TIER 1]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Alexandrova def. Svitolina in the Toronto QF. 8 aces, 5/13 BPs. Two days after ending Sabalenka's title defence. She is in the semifinals. #WTA #Tennis #NBO2026 #TorontoOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTA",
+            "#Tennis",
+            "#NBO2026",
+            "#TorontoOpen"
+          ],
+          "char_count": 173
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Alexandrova beat No. 1 Sabalenka Saturday. Then Svitolina Monday. She has not dropped a set in either match. Into the Toronto SF without anyone expecting it two days ago. #WTA #Tennis #NBO2026",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTA",
+            "#Tennis",
+            "#NBO2026"
+          ],
+          "char_count": 192
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-alexandrova-into-toronto-sf.html",
+        "headline": "Alexandrova Into the Toronto Semifinals — Two Wins Over Top Players in 48 Hours",
+        "word_count": 585
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alexandrova into Toronto SF\n\n**Image 1A** — Article Hero (1200x630)\n- **Search Term:** `Ekaterina Alexandrova WTA`\n- **Credit:** (USA TODAY Sports Images)\n- **Usage:** Article hero for article-01\n- **Text Overlay Concept:** \"ALEXANDROVA INTO THE TORONTO SF\" in Championship Purple on dark background bar\n- **Composition:** Celebration or mid-match action shot, ideally horizontal orientation\n- **Status:** not_started\n\n**Image 1B** — Social (1080x1350)\n- **Search Term:** `Alexandrova tennis celebrating`\n- **Credit:** (Imagn Images)\n- **Usage:** X + Facebook image post\n- **Text Overlay Concept:** \"BEATS SABALENKA. BEATS SVITOLINA. TORONTO SF.\" stacked vertical text on Court Green\n- **Composition:** Vertical crop showing player from waist up with court/crowd in background\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Alexandrova def. Svitolina in Toronto QF\n**Source 1:** WTA Tennis official — https://www.wtatennis.com/news/4556610/alexandrova-cracks-the-sabalenka-code-again-to-make-toronto-quarterfinals\n**Source 2:** Deadspin — https://deadspin.com/iga-swiatek-diana-shnaider-advance-to-quarters-in-toronto/\n**Source 3:** Sunday Guardian — https://sundayguardianlive.com/sports/wta-canadian-open-2026-results-coco-gauff-crushes-alina-korneeva-as-elena-rybakina-naomi-osaka-enter-quarterfinals-257698/\n**Source 4:** Tennis.com — https://www.tennis.com/tournaments/national-bank-open-presented-by-rogers/matches/d-shnaider-vs-i-swiatek-2026-08-10\n**Key Facts (HIGH confidence):**\n- Alexandrova def. Svitolina in Toronto QF (Monday Aug 10)\n- Match time: 2h 29m\n- 8 aces for Alexandrova\n- 5/13 break point conversion\n- Svitolina was the 2017 Toronto champion and was 40-11 on the season entering this match\n- Two days earlier (Sat Aug 8), Alexandrova beat Sabalenka 7-6(3), 4-6, 6-4 in R16\n- Third career win over a world No. 1 for Alexandrova (previously beat Swiatek at Miami 2024, Sabalenka at Doha 2025)\n- Alexandrova into her first Toronto SF\n**Freshness:** Match played August 10, 2026 — confirmed fresh.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Shelton Beats Fonseca 6-3, 7-6(3) — Defends Montreal QF Spot [TIER 1]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Ben Shelton def. Joao Fonseca 6-3, 7-6(3) in Montreal. Defending champion into the QF. Fonseca had beaten Tsitsipas and Ruud to get here. Shelton was the ceiling. #ATP #Tennis #NBO2026",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATP",
+            "#Tennis",
+            "#NBO2026"
+          ],
+          "char_count": 184
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Fonseca's Montreal run is over. He beat Tsitsipas, then Ruud. Shelton 6-3, 7-6(3) was the wall he could not get past. The 19-year-old made everyone stop and watch this week. #ATP #Tennis #NBO2026",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATP",
+            "#Tennis",
+            "#NBO2026"
+          ],
+          "char_count": 195
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-shelton-ends-fonseca-montreal.html",
+        "headline": "Shelton Ends Fonseca's Remarkable Montreal Run — Defending Champion Advances to QF",
+        "word_count": 578
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Shelton def. Fonseca\n\n**Image 2A** — Article Hero (1200x630)\n- **Search Term:** `Ben Shelton ATP`\n- **Credit:** (USA TODAY Sports Images)\n- **Usage:** Article hero for article-02\n- **Text Overlay Concept:** \"SHELTON ADVANCES TO MONTREAL QF\" on Midnight bar\n- **Composition:** Horizontal serving action or post-match celebration\n- **Status:** not_started\n\n**Image 2B** — Social (1080x1350)\n- **Search Term:** `Joao Fonseca ATP`\n- **Credit:** (Imagn Images)\n- **Usage:** X + Facebook image post\n- **Text Overlay Concept:** \"A MONTRAL RUN TO REMEMBER\" with Fonseca photo; Tennis Ball Yellow accent\n- **Composition:** Fonseca mid-match, vertical crop\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Shelton def. Fonseca 6-3, 7-6(3) in Montreal R16\n**Source 1:** ATP Tour — https://www.atptour.com/en/news/fonseca-shelton-montreal-2026-saturday\n**Source 2:** ATP Tour video — https://www.atptour.com/en/video/highlights-shelton-ends-fonsecas-montreal-2026-run-in-r4\n**Source 3:** Yahoo Sports — https://sports.yahoo.com/articles/shelton-sweeps-fonseca-to-reach-another-montreal-quarter-final-003900189.html\n**Source 4:** Tennis Temple — https://en.tennistemple.com/actu/montreal-shelton-ousts-fonseca-mensik-advances/N1dI\n**Source 5:** Tennis.com match page — https://www.tennis.com/tournaments/national-bank-open-presented-by-rogers-3/matches/j-fonseca-vs-b-shelton-2026-08-09\n**Key Facts (HIGH confidence):**\n- Shelton def. Fonseca 6-3, 7-6(3) in Montreal R16 (R4/last-16 stage)\n- Shelton broke twice across the match\n- Defending champion Shelton has not dropped a set this week\n- Fonseca (19 years old) had previously beaten Tsitsipas in R2 and Ruud in R3\n- Shelton leads overall H2H vs. Fonseca 2-0 (also beat Fonseca in Munich earlier in 2026)\n- Shelton advances to QF vs. Mensik (No. 13 seed)\n**Freshness:** Match concluded August 9-10, 2026 — fresh.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Tien and Merida Complete Montreal QF — A Generational Draw [TIER 2]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Montreal QF: Shelton vs. Mensik. Tien vs. Merida. Fils vs. Jodar. Nakashima vs. Darderi. Shelton is the only top-10 player left. Most wide-open Masters 1000 QF in recent memory. #ATP #Tennis #NBO2026",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATP",
+            "#Tennis",
+            "#NBO2026"
+          ],
+          "char_count": 199
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-tien-merida-complete-montreal-qf.html",
+        "headline": "Tien Hits Milestone, Merida Makes Statement: The Montreal QF Is the Future of Men's Tennis",
+        "word_count": 672
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Tien and Merida complete QF\n\n**Image 3A** — Article Hero (1200x630)\n- **Search Term:** `Learner Tien ATP`\n- **Credit:** (USA TODAY Sports Images)\n- **Usage:** Article hero for article-03\n- **Text Overlay Concept:** \"TIEN'S 50th HARD COURT WIN\" on Court Green bar\n- **Composition:** Horizontal action or post-match shot\n- **Status:** not_started\n\n**Image 3B** — Social (1080x1350)\n- **Search Term:** `Daniel Merida ATP`\n- **Credit:** (Imagn Images)\n- **Usage:** X + Facebook image post\n- **Text Overlay Concept:** \"FIRST ATP QF. FIRST MASTERCLASS.\" on Championship Purple\n- **Composition:** Vertical mid-match action\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Tien def. Tirante 6-4, 6-4; Merida def. Griekspoor 6-3, 6-1\n**Source 1:** Tennis Majors (Tien) — https://www.tennismajors.com/atp/tien-matches-his-masters-1000-best-as-his-level-keeps-climbing-in-montreal-858117.html\n**Source 2:** SofaScore — https://www.sofascore.com/news/learner-tien-beats-tirante-6-4-6-4-in-montreal\n**Source 3:** Field Level Media — https://fieldlevelmedia.com/atp-tour/learner-tien-daniel-merida-advance-to-quarterfinals-in-montreal/\n**Source 4:** Sunday Guardian ATP — https://sundayguardianlive.com/sports/atp-canadian-open-2026-results-ben-shelton-jakub-mensik-learner-tien-reach-quarterfinals-257694/\n**Source 5:** Perfect Tennis Day 8 — https://www.perfect-tennis.com/national-bank-open-2026-montreal-day-eight-recap/\n**Key Facts (HIGH confidence):**\n- Tien def. Tirante 6-4, 6-4 in Montreal R16\n- Tien's 50th career tour-level hard-court win\n- Tien is 20 years old — youngest American in Montreal QF since Andy Roddick (19) in 2002\n- Tien first serve: 59/80 (74%) vs. Tirante's 40/67 (60%)\n- Merida def. Griekspoor 6-3, 6-1\n- Merida (21, ESP) — first career ATP QF; won 25/30 first-serve points vs. Griekspoor\n- Full QF bracket: Shelton vs. Mensik; Tien vs. Merida; Fils vs. Jodar; Nakashima vs. Darderi\n- QF matches begin Monday-Tuesday Aug 10-11\n**Freshness:** August 10, 2026 — fresh.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Swiatek vs. Shnaider — Toronto QF Preview [TIER 2]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Toronto QF tonight: Swiatek vs. Shnaider. Shnaider beat Pegula 6-3, 6-2 in 73 minutes Saturday. Swiatek leads H2H 1-0 but that was clay. Can the left-hander pull another upset? #WTA #Tennis #NBO2026",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTA",
+            "#Tennis",
+            "#NBO2026"
+          ],
+          "char_count": 198
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-swiatek-shnaider-toronto-qf-preview.html",
+        "headline": "Can Shnaider Pull Another Toronto Upset? Swiatek Faces the Left-Hander Tonight",
+        "word_count": 639
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Swiatek vs. Shnaider preview\n\n**Image 4A** — Article Hero (1200x630)\n- **Search Term:** `Iga Swiatek WTA`\n- **Credit:** (USA TODAY Sports Images)\n- **Usage:** Article hero for article-04\n- **Text Overlay Concept:** \"SWIATEK VS. SHNAIDER — TORONTO QF TONIGHT\" on Midnight bar\n- **Composition:** Horizontal Swiatek action shot\n- **Status:** not_started\n\n**Image 4B** — Social (1080x1350)\n- **Search Term:** `Diana Shnaider WTA`\n- **Credit:** (Imagn Images)\n- **Usage:** X + Facebook image post\n- **Text Overlay Concept:** \"CAN SHE PULL ANOTHER UPSET?\" in Tennis Ball Yellow on dark bg\n- **Composition:** Vertical Shnaider match action\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Swiatek vs. Shnaider Toronto QF Preview\n**Source 1:** Last Word on Sports — https://lastwordonsports.com/tennis/2026/08/09/wta-toronto-shnaider-swiatek/\n**Source 2:** Tennis.com match page — https://www.tennis.com/tournaments/national-bank-open-presented-by-rogers/matches/d-shnaider-vs-i-swiatek-2026-08-10\n**Source 3:** RallyHer — https://rallyher.com/canadian-open-2026-wta-results-draw-scores-schedule/\n**Source 4:** Philstar — https://www.philstar.com/sports/2026/08/09/2548096/shnaider-upsets-pegula-book-toronto-quarterfinal-swiatek\n**Key Facts (HIGH confidence):**\n- Shnaider def. Pegula 6-3, 6-2 in 73 minutes in R16 (Saturday Aug 8-9)\n- Shnaider is 22 years old, left-handed, Russian\n- Swiatek def. Kostyuk 3-6, 6-1, 6-2 in R16 (Saturday Aug 8-9) — covered in Aug 9 pipeline\n- Swiatek leads H2H 1-0 (Madrid 2025, clay)\n- Match scheduled: Centre Court, approximately 7:00 PM ET Monday Aug 10\n- Swiatek ranked No. 8; Shnaider unseeded\n**Freshness:** Shnaider's R16 win was Aug 8-9; the QF match is scheduled Aug 10 — confirmed fresh preview.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Tiafoe Undergoes Hand Surgery — US Open Timeline at Risk [TIER 2]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Tiafoe underwent surgery on his right hand after retiring at the Canadian Open. He says he will be back soon. The US Open main draw starts August 30. That timeline is very tight. #ATP #Tennis #USOpen2026",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATP",
+            "#Tennis",
+            "#USOpen2026"
+          ],
+          "char_count": 203
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-tiafoe-surgery-us-open-uncertain.html",
+        "headline": "Tiafoe Had Surgery on His Right Hand. The US Open Is in Three Weeks.",
+        "word_count": 732
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Tiafoe surgery\n\n**Image 5A** — Article Hero (1200x630)\n- **Search Term:** `Frances Tiafoe ATP`\n- **Credit:** (USA TODAY Sports Images)\n- **Usage:** Article hero for article-05\n- **Text Overlay Concept:** \"TIAFOE: SURGERY. US OPEN: 3 WEEKS AWAY.\" on Midnight bar\n- **Composition:** Horizontal Tiafoe action or neutral expression\n- **Status:** not_started\n\n**Image 5B** — Social (1080x1350)\n- **Search Term:** `Frances Tiafoe United States`\n- **Credit:** (Imagn Images)\n- **Usage:** X + Facebook image post\n- **Text Overlay Concept:** \"WILL HE MAKE FLUSHING?\" in Championship Purple accent\n- **Composition:** Vertical portrait-style or mid-match crop\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Tiafoe Hand Surgery\n**Source 1:** Pro Football Network — https://www.profootballnetwork.com/tennis/story/frances-tiafoe-health-update-surgery-august-08-2026/\n**Source 2:** Yardbarker — https://www.yardbarker.com/tennis/articles/frances_tiafoe_undergoes_surgery_after_canadian_open_setback_puts_us_open_preparations_at_risk/s1_17460_44151347\n**Source 3:** Yahoo Sports — https://sports.yahoo.com/articles/frances-tiafoe-discloses-why-retired-190223363.html\n**Source 4:** EssentiallySports — https://www.essentiallysports.com/tennis-news/frances-tiafoe-forced-to-retire-mid-match-after-injury-scare-at-national-bank-open/\n**Key Facts (HIGH confidence):**\n- Tiafoe retired mid-match vs. Arthur Rinderknech at the Canadian Open (ATP Toronto event) with a right-hand cyst\n- Underwent successful cyst removal surgery in New York on or around August 8, 2026\n- Quote: \"I'll be back soon.\"\n- US Open main draw starts August 30, 2026\n- Tiafoe's 2026 season included: back injury at Monte-Carlo + Madrid, return, won Terra Wortmann Open (grass), reached French Open R4, now hand surgery\n- Alcaraz, FAA, Tiafoe all injured heading into US Open series\n**Freshness:** Surgery confirmed ~August 8, 2026 — less than 48 hours old. Confirmed fresh.\n## Additional Research: Cincinnati Open Preview\n- Cincinnati Open starts Thursday August 13; draw announced Tuesday August 11 at 3:00 PM\n- Men's seeds: Sinner (1), Zverev (2), FAA (3), Djokovic (4), Medvedev (5), de Minaur (6), Fritz (7), Cobolli (8), Shelton (9)\n- Notable absence: Alcaraz (defending champion, wrist injury)",
+        "sources": "- Sources: ATP Tour Cincinnati, LTA.org.uk, Forbes, cincinnatiopen.com\n## WTA Toronto QF Bracket (context)\n- Swiatek vs. Shnaider (tonight)\n- Alexandrova advanced (beat Svitolina)\n- Gauff advanced (beat Korneeva)\n- Rybakina advanced (beat Samsonova in 3 sets)\n- Osaka advanced (beat Fernandez 6-4, 6-4)\n- Bencic advanced (beat Eala on Aug 10)\n## Story History Status\n- S1 (Alexandrova SF): FOLLOW-UP from 2026-08-09 S1 (Alexandrova beats Sabalenka R16)\n- S2 (Shelton/Fonseca): FOLLOW-UP from 2026-08-08 S1 (Fonseca beats Ruud for Shelton R16 showdown)\n- S3 (Tien/Merida QF): FOLLOW-UP from 2026-08-09 S4 (Montreal QF picture)\n- S4 (Swiatek/Shnaider): FOLLOW-UP from 2026-08-09 S2 (Swiatek beats Kostyuk)\n- S5 (Tiafoe surgery): NEW STORY"
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
