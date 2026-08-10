@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-08-10
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch + research agent, 5 stories verified HIGH/MEDIUM confidence), brief (5 stories), research notes, story analysis, X posts (6; all ≤280 — counts verified), FB posts (5 stories), image concepts (9 items; ### STORY headers), image manifest (9 items, not_started), articles (5), fact-check (76 claims), compile (5 stories, 6 tweets, 0 FB posts — format known, 5 articles, 5 images), dashboard (21 items), PostPlanner exports (0 posts — format known). WordPress 403 (proxy blocks ilovesoftball.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks ilovesoftball.com — known). Dashboard publish push failed (proxy known restriction). IMAGE NOT STARTED (manifest recognized but images not yet produced in Canva). PostPlanner: 0 posts compiled (format known). 0 char violations.
+- **Key Stories**: North Carolina wins 2026 LLSWS championship 2-0 over Kentucky/Anna-Lynn Clark 41 tournament K/93 pitches CG shutout in final/NC 4th title (2015/2019/2024/2026)/Johnston County (Tier 1 FOLLOW UP), AUSL All-Star Cup Series 1 Finale tonight — Team Garcia vs Team Ricketts/Kowalik still sitting out Series 1/individual race wide open/Corrick 2026 AUSL POY 2.04 ERA (Tier 2 FOLLOW UP), September 1 = 22 days/1,226 Class of 2028 nominations EIS record (Tier 2 FOLLOW UP), Texas Tech 2027: 7 All-Americans/Heavener (2.81 ERA)/none practiced together yet/fall camp weeks away/Glasco extension through 2030 (Tier 2 FOLLOW UP), USA WNT WBSC World Cup Group Stage Sept 12-16 OKC/33 days/5-0 IC gold same venue/opens vs Mexico/Garcia+Mulipola+Fouts+Brady/Patty Gasso (Tier 3 FOLLOW UP)
+
+## Last Run
 - **Date**: 2026-08-09
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via research agent, 5 stories verified HIGH/MEDIUM confidence), brief (5 stories), research notes, story analysis, X posts (6; 1 char violation fixed — Story 4 tweet 281→275; all ≤280), FB posts (5 stories), image concepts (9 items; ### STORY headers), image manifest (9 items, not_started), articles (5), fact-check (72 claims), compile (5 stories, 6 tweets, 0 FB posts — format known, 5 articles, 5 images), dashboard (21 items), PostPlanner exports (0 posts — format known). WordPress 403 (proxy blocks ilovesoftball.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).

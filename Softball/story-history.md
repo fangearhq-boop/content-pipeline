@@ -520,3 +520,61 @@ _This file tracks every story covered, the angle used, content produced, and fol
 - **Follow-Up Opportunities:**
   - Championship results August 2
   - September 1 window preview
+
+---
+
+## 2026-08-10
+
+### Story 1: LLSWS 2026 — North Carolina Wins 4th Championship Title
+- **Date:** 2026-08-10
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Grand Final previewed Aug 9; championship result leads Aug 10)
+- **Angle:** Johnston County wins 2026 LLSWS championship 2-0 over Kentucky. Anna-Lynn Clark CG shutout (93 pitches, 3H, 6K); 41 tournament strikeouts total; pitched 20/24 tournament innings, 3 ER allowed all week. Belle Cox RBI single (scored Cerda) + KY error = 2 runs. NC's 4th title (2015/2019/2024/2026).
+- **Content Produced:** Article (article-01, Emily Rawlings), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Johnston County homecoming celebration coverage
+  - Clark profile/retrospective (dominant tournament performance)
+  - 2027 LLSWS preview (next summer)
+
+### Story 2: AUSL All-Star Cup Series 1 — Finale Tonight
+- **Date:** 2026-08-10
+- **Tier:** 2
+- **Classification:** FOLLOW UP (All-Star Cup opened Aug 8; Day 1 Garcia-Corrick, Day 2 Corrick-Ricketts; Day 3 finale = tonight)
+- **Angle:** Team Garcia vs Team Ricketts closes Series 1. Kowalik (2025 champ, .486/.1590 pts) still sitting out. Individual race wide open. Corrick = 2026 AUSL POY (2.04 ERA). 4 series through Aug 30; full redraft before Series 2.
+- **Content Produced:** Article (article-02, Jordan Reeves), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Series 1 finale result recap (tomorrow)
+  - Series 1 leaderboard standings after tonight
+  - Kowalik return for Series 2
+
+### Story 3: September 1 — 22 Days Out, Class of 2028
+- **Date:** 2026-08-10
+- **Tier:** 2
+- **Classification:** FOLLOW UP (countdown tracked Aug 3-9; 23 days Aug 9; today = 22 days)
+- **Angle:** 22 days to D1 first contact for Class of 2028. Record 1,226 EIS nominations. Last 3 weeks = prep window for prospects.
+- **Content Produced:** Article (article-03, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - September 1 itself (21 days Aug 11; arrives Sept 1)
+  - Early commitment wave coverage after Sept 1
+
+### Story 4: Texas Tech 2027 — Seven All-Americans, Fall Camp
+- **Date:** 2026-08-10
+- **Tier:** 2
+- **Classification:** FOLLOW UP (roster covered Aug 1-9; today's angle = fall camp imminent, team has never practiced together)
+- **Angle:** Seven All-Americans (Terry/Williams/Pannell/Polar/Pickering/Burns/Beachum), Heavener (13-9/2.81ERA/128K), none practiced together yet. Glasco contract through 2030. Back-to-back WCWS finalists. Fall camp weeks away — chemistry question begins now.
+- **Content Produced:** Article (article-04, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Fall camp opening coverage
+  - First scrimmage/fall practice results
+  - 2027 Big 12 preseason ranking
+
+### Story 5: USA WNT WBSC World Cup — 33 Days to OKC
+- **Date:** 2026-08-10
+- **Tier:** 3
+- **Classification:** FOLLOW UP (countdown covered Aug 6-9; 34 days Aug 9; today = 33 days; add IC gold momentum)
+- **Angle:** 33 days to OKC Group Stage Sept 12-16. USA WNT went 5-0 at IC (same venue, Devon Park), outscored 32-8. Garcia+Mulipola (2020 Olympians). No. 7 Mexico opens Sept 12. World Cup Finals → Redcliffe Australia April 5-11 2027 → LA28 pipeline.
+- **Content Produced:** Article (article-05, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Final USA WNT roster announcement
+  - Group Stage preview (Sept 11)
+  - Game-by-game coverage Sept 12-16
