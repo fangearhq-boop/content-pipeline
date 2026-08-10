@@ -5493,3 +5493,77 @@ Each day's stories are appended at the top (newest first).
 - **Content Produced:** X Text Post (1 post — 5:00 PM CT, bold/hype)
 - **Follow-Up Opportunities:**
   - Gausman debut performance (tomorrow morning recap)
+
+---
+
+## 2026-08-10
+
+### STORY 1: Matthew Boyd / KC Road Trip Recap
+- **Angle:** NEW STORY (Boyd Aug 9: 7 IP, 2 ER; Ian Happ 2-for-4, HR, double; 17 team hits; Cubs took KC series 2-1; Counsell: "Pitching is what drives things"; NO score per has_score=False insight; lead with Boyd's line and rotation narrative)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, informative recap)
+- **Follow-Up Opportunities:**
+  - Boyd season record / ERA update
+  - Boyd next start at Washington
+
+### STORY 2: PCA MVP — 7.8 fWAR, Historic Cubs Season
+- **Angle:** FOLLOW UP (last covered Aug 9 with DraftKings -120 odds; today's angle = WAR milestone: 7.8 fWAR MLB best by wide margin; "one of 10 best position player seasons in Cubs history" per BN; on pace for 2nd straight 30-30; Ohtani still not pitching)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold/analytical)
+- **Follow-Up Opportunities:**
+  - PCA 30th HR milestone (4 away)
+  - PCA 30th SB milestone (near threshold)
+  - September MVP odds movement
+  - Official MVP ballot discussion
+
+### STORY 3: Rotation Depth — Gausman + Holmes + Boyd + Cabrera Incoming
+- **Angle:** NEW STORY (Gausman + Holmes + Boyd all started within 4 days; Counsell: "Pitching is what drives things"; Cabrera targeting mid-August to join; specific pitching lines for all three referenced; bold stretch-run rotation narrative)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, informative/stat breakdown)
+- **Follow-Up Opportunities:**
+  - Cabrera activation date (tracking against target)
+  - Holmes second Cubs start (performance tracking)
+  - Gausman second Cubs start at Washington
+
+### STORY 4: Nationals Series Preview — Gausman vs Cavalli, Tuesday 4:45 PM CT
+- **Angle:** NEW STORY (3-game road series at Washington Aug 11-13; Gausman vs Cavalli (3.57 ERA) Game 1 at 4:45 PM CT; Peterson vs Mikolas Game 2; NL's No. 1 Wild Card framing; no easy starts in stretch run)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, preview/informative)
+- **Follow-Up Opportunities:**
+  - Gausman start result recap (Wednesday morning)
+  - Nationals series result
+  - Peterson start recap
+
+### STORY 5: Cabrera Return Watch — One Rehab Start Away
+- **Angle:** FOLLOW UP (Cabrera rehab referenced in team notes; first standalone "return watch" post; Aug 5 Iowa: 4 IP, 8 K, 0 BB, 97.4 mph; needs 1 more rehab outing; targets Aug 14-19 homestand vs Cardinals + White Sox)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, roster/informative)
+- **Follow-Up Opportunities:**
+  - Cabrera 3rd rehab start result
+  - Cabrera activation announcement
+  - Cabrera Cubs debut vs Cardinals
+
+### STORY 6: Cardinals Sold at Deadline, Now Coming to Wrigley
+- **Angle:** FOLLOW UP (Cardinals ribbed Aug 7 and Aug 8; today's new peg: shipped Dustin May + JoJo Romero to Brewers on Aug 3; hovering around .500; coming to Wrigley Aug 14; "Cardinals fans, save your energy" closer)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, bold/rival humor)
+- **Follow-Up Opportunities:**
+  - Cardinals series at Wrigley Aug 14-16 results
+  - Cardinals mathematical elimination watch
+
+### STORY 7: Ian Happ — Back-to-Back HRs, Stretch Run Timing
+- **Angle:** NEW STORY (Happ HR Aug 8 and Aug 9 in KC; 2026 season BA .212; stretch run timing framing; honest about the season-long numbers; "The timing might be perfect" kicker)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, informative/bold)
+- **Follow-Up Opportunities:**
+  - Happ performance during Cardinals series (Aug 14-16)
+  - Happ second-half BA tracking
+
+### STORY 8: Prospect Pipeline — Bowser Grand Slam, Wiggins Update
+- **Angle:** FOLLOW UP (prospects covered Aug 5 and Aug 7; today peg = Bowser's first Double-A grand slam at Knoxville; Wiggins No. 2 Cubs prospect with elite stuff but command work-in-progress at Iowa after 6 BB in 2.2 IP)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, prospect feature)
+- **Follow-Up Opportunities:**
+  - Wiggins command improvement tracking
+  - Bowser next milestones at Double-A
+  - Iowa Cubs results with Cabrera rehabbing

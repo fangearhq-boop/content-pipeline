@@ -1,0 +1,287 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-10",
+  "compiled_at": "2026-08-10T09:30:15.645668+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Story 1 — Boyd / KC series recap (7 IP, 2 ER; 17 hits; Happ HR)",
+      "type": "Informative"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Story 2 — PCA 7.8 fWAR, historic Cubs season, solo NL MVP leader",
+      "type": "Bold/Analytical"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 3 — Rotation depth: Gausman + Holmes + Boyd + Cabrera incoming",
+      "type": "Informative"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "Story 4 — Nationals series preview: Gausman vs Cavalli, Tuesday 4:45 PM CT",
+      "type": "Preview"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 5 — Cabrera return watch: 1 rehab start away, Cardinals homestand target",
+      "type": "Roster/Informative"
+    },
+    {
+      "time": "1:15 PM",
+      "description": "Story 6 — Cardinals sold May + Romero, coming to Wrigley in 4 days",
+      "type": "Bold/Humor"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Story 7 — Happ back-to-back HRs, .212 BA, stretch run timing",
+      "type": "Informative/Bold"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Story 8 — Prospect pipeline: Bowser slam (Knoxville), Wiggins update (Iowa)",
+      "type": "Feature"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Matthew Boyd / KC Road Trip Recap",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Boyd delivered 7 IP, 2 ER to close the Kansas City series. Cubs won the finale and took the series 2-1. Ian Happ went yard for the second straight game. Team had 17 hits. Lead with Boyd's pitching line; kicker on the rotation narrative. No final score per has_score=False insight.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Matthew Boyd. Seven innings. Two earned runs.\n\nThe Cubs took the Kansas City series behind Boyd's gem and 17 hits from the lineup — Ian Happ going deep among them.\n\nThis rotation isn't slowing down.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative / game recap",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 222
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "PCA MVP — 7.8 fWAR, Historic Cubs Season",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Pete Crow-Armstrong's 7.8 fWAR leads all MLB position players by a wide margin. He's on pace for a second straight 30-30 season. Ohtani hasn't pitched since July 3. Bold take: the NL MVP is in Chicago. No game score.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Pete Crow-Armstrong has a 7.8 fWAR this season.\n\nThat's MLB's best position player mark — by a WIDE margin. He's on pace for a second straight 30-30 season and Shohei Ohtani hasn't pitched since July 3.\n\nThe NL MVP is in Chicago.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold take / analytical",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Rotation Depth — Gausman + Holmes + Boyd + Cabrera Incoming",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Gausman, Holmes, and Boyd all started within four days. Counsell's quote: \"Pitching is what drives things.\" Cabrera is targeting mid-August to join the rotation. This is a legitimately dangerous staff for the stretch run.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The Cubs' rotation just had Gausman, Holmes, and Boyd all start within four days.\n\nGausman: 7 IP sharp in his debut. Holmes: 4 IP in a rocky return. Boyd: seven strong Sunday in KC.\n\nCabrera's targeting this month to join them.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Stat breakdown / informative",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Nationals Series Preview — Gausman vs Cavalli, Tuesday 4:45 PM CT",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "3-game road series at Washington starts Tuesday at 4:45 PM CT. Gausman vs Cade Cavalli (3.57 ERA) in Game 1. The Nationals aren't a contender but Cavalli is a legitimate arm. No easy starts in the stretch run. Kicker: NL's No. 1 Wild Card — act like it.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The Cubs open a 3-game road series at Washington Tuesday, 4:45 PM CT — Gausman vs. Cade Cavalli in Game 1.\n\nThe Nationals aren't in the race, but Cavalli carries a 3.57 ERA. No easy starts in the stretch run.\n\nNL's No. 1 Wild Card. Act like it.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Preview / informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Cabrera Return Watch — One Rehab Start Away, Cardinals Homestand Target",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Cabrera's Aug 5 Iowa outing: 4 IP, 8 K, 0 BB, 97.4 mph. Counsell says he needs at least 3 rehab starts; two are done. Target return window: Aug 14-19 homestand vs Cardinals + White Sox. Adding Cabrera to an already deep rotation is nearly unfair.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Edward Cabrera needs one more rehab start.\n\nHe went 4 IP, 8 K, 0 BB at Iowa on Aug. 5 — touching 97.4 mph. His return target: the Aug. 14 homestand vs. the Cardinals.\n\nAdding a healthy Cabrera to this rotation is just unfair.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Roster / informative",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Cardinals Sold at Deadline, Now Coming to Wrigley",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "The Cardinals are in full sell mode — shipped two pitchers to division rival Milwaukee. Hovering around .500. And they're coming to Wrigley in four days. Rivalry humor, witty, never mean-spirited.",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "The Cardinals shipped Dustin May and JoJo Romero to Milwaukee at the deadline.\n\nThey're hovering around .500 and in full sell mode while the Cubs are chasing a World Series.\n\nAnd they're coming to Wrigley in four days.\n\nCardinals fans, save your energy.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Bold / rival humor",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "Ian Happ — Back-to-Back HRs, Stretch Run Timing",
+      "tier": 3,
+      "status": "NEW STORY",
+      "angle": "Happ hit HRs in back-to-back games at Kauffman. His 2026 season BA is .212 — a tough year. But the stretch run is when Counsell needs his bat most. Restrained optimism, honest about the season-long numbers.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Ian Happ went yard in back-to-back games at Kauffman Stadium.\n\nHe's been fighting a tough season (.212 BA), but the stretch run is exactly when Counsell needs his bat to wake up.\n\nThe timing might be perfect.\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Informative / bold",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 8,
+      "title": "Prospect Pipeline — Bowser Grand Slam (Knoxville), Wiggins Update (Iowa)",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "Drew Bowser hit his first Double-A grand slam for the Knoxville Smokies. Jaxon Wiggins (No. 2 Cubs prospect) has elite stuff but command is the work in progress at Iowa. Brief, honest pipeline update.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 8",
+          "text": "Drew Bowser launched his first Double-A grand slam for the Knoxville Smokies last week.\n\nJaxon Wiggins — the No. 2 Cubs prospect — has elite stuff but is still a work in progress at Iowa.\n\nThe pipeline is stacked. The future's close.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Prospect feature / informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 8,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
