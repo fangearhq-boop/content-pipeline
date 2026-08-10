@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-08-10
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via research agent, 5 stories verified HIGH confidence), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations — all ≤280), FB posts (5 stories), image concepts (9 items; imagn source), image manifest (9 items, not_started), articles (5), fact-check (44 claims HIGH; claim-patterns.py missing known), compile (5 stories, 6 tweets, 0 FB posts — format known, 5 articles, 5 images), dashboard (21 items), PostPlanner exports (0 posts — format known). WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard publish push failed (proxy known restriction). IMAGE NOT STARTED (manifest recognized but images not yet produced in Canva). claim-patterns.py missing (known). PostPlanner: 0 posts compiled (format known). 0 char violations.
+- **Key Stories**: Matt Olson 900 consecutive games — Braves beat Yankees 2-1/streak since May 2, 2021/8th all-time/passed Musial (895) last week/next: Sewell 1103 (Tier 1 NEW), Field of Dreams 2026 — 3 days away/Aug 13 Netflix 7:30 ET/Twins vs Phillies/25+ HOFs including Schmidt+Carlton+Rolen+Mauer+Carew+Thome+Kaat/throwback uniforms (Tier 2 FOLLOW UP), White Sox win 5-3 — Montgomery 26th HR (3-run)/4-run 3rd inning vs Guardians/AL Central lead 3.5 games over Detroit (Tier 2 FOLLOW UP), Dodgers drop series finale to D-backs 4-2 — one day after ending 7-game losing streak/Skubal Dodgers debut Tuesday/pattern of inconsistency (Tier 2 FOLLOW UP), Cubs 10-2 Royals — 68-50 top NL Wild Card/6 games ahead of D-backs+Phillies (62-56)/Braves lead NL East by 8.5 (Tier 3 NEW)
+
+## Last Run
 - **Date**: 2026-08-09
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via research agent, 5 stories verified HIGH confidence), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations — all ≤280), FB posts (5 stories), image concepts (9 items; imagn source), image manifest (9 items, not_started), articles (5), fact-check (41 claims HIGH; claim-patterns.py missing known), compile (5 stories, 7 tweets, 0 FB posts — format known, 5 articles, 5 images), dashboard (22 items), PostPlanner exports (0 posts — format known). WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).

@@ -5,6 +5,65 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-10
+
+### Story 1: Matt Olson Plays in His 900th Consecutive Game — Braves Beat Yankees 2-1
+- **Date:** 2026-08-10
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Olson's consecutive games streak covered since July 22; milestone game arrived Aug 10)
+- **Angle:** Atlanta beats New York Yankees 2-1 on Sunday. Olson plays his 900th consecutive game — streak started May 2, 2021 (Oakland A's). Now 8th all-time in MLB history. Passed Stan Musial (895) the week prior. Next milestone: Joe Sewell at 1,103 (would require staying healthy through most of 2028). Streak spans his entire Atlanta tenure and then some.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Olson reaching 950 (estimated October)
+  - Braves postseason push
+  - Olson approaching Sewell at 1,103
+
+### Story 2: Field of Dreams 2026 — Three Days Away, Netflix Debut Thursday August 13
+- **Date:** 2026-08-10
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Field of Dreams preview covered multiple times since Aug 5; game is Aug 13)
+- **Angle:** Game is Thursday August 13, 7:30 PM ET on Netflix — streaming giant's first Field of Dreams broadcast. Minnesota Twins vs Philadelphia Phillies in Dyersville, Iowa. First game at the site since 2022. 25+ Hall of Famers in pregame ceremony (Schmidt, Carlton, Rolen for Phillies; Mauer, Carew, Blyleven, Molitor for Twins; Thome + Kaat for both). Throwback uniforms: Phillies in 1939-1941 road grays; Twins in 1960s originals.
+- **Content Produced:** Article (article-02, Jake Torres), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Game recap Aug 14
+  - Netflix viewership numbers
+  - Hall of Famer ceremony coverage
+
+### Story 3: White Sox Win 5-3 — Montgomery's 26th HR, AL Central Lead Grows to 3.5 Games
+- **Date:** 2026-08-10
+- **Tier:** 2
+- **Classification:** FOLLOW UP (White Sox AL Central lead covered since July 17; Montgomery HR streak ongoing)
+- **Angle:** Chicago beats Cleveland Guardians 5-3 on Sunday. Colson Montgomery's 26th HR of the season — a three-run shot in the 3rd inning that capped a four-run rally. White Sox now lead the AL Central by 3.5 games over the second-place Detroit Tigers. Cleveland and Minnesota are four games back. Context: White Sox were 41-121 in 2024 (worst record in modern MLB history).
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - White Sox vs Tigers head-to-head
+  - Montgomery pace toward 30+ HRs
+  - AL Central standings in September
+
+### Story 4: Dodgers Drop Series Finale to D-backs 4-2 — One Day After Ending 7-Game Losing Streak
+- **Date:** 2026-08-10
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Dodgers struggles covered since Aug 3; day-after pattern continues)
+- **Angle:** Los Angeles loses 4-2 to Arizona in the series finale on Sunday — one day after Ohtani's walk-off ended a 7-game losing streak. Pattern: one win that restores confidence, one loss that strips it away. Skubal expected to make Dodgers debut Tuesday. Dodgers still lead NL West but playing inconsistently for a 2-time defending champion.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Skubal Dodgers debut (Tuesday Aug 12)
+  - Dodgers win streak building
+  - NL West standings
+
+### Story 5: Cubs Roll 10-2 Over Royals — 68-50, Top NL Wild Card, Six-Game Lead
+- **Date:** 2026-08-10
+- **Tier:** 3
+- **Classification:** NEW
+- **Angle:** Cubs beat Kansas City Royals 10-2 on Sunday. Now 68-50, holding the top NL Wild Card spot. Arizona Diamondbacks and Philadelphia Phillies tied at 62-56 — six games back. With 44 games remaining, Cubs control their own destiny. Playing .500 ball gets them in; they've been better than .500. NL context: Braves lead NL East by 8.5 games (likely No. 1 seed); Brewers lead NL Central; Dodgers lead NL West.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Cubs vs D-backs head-to-head
+  - NL Wild Card seeding implications
+  - Cubs September schedule
+
+---
+
 ## 2026-08-09
 
 ### Story 1: Dodgers End 7-Game Losing Streak — Ohtani Walk-Off in 10th, 2-1 vs Arizona
