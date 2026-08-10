@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-08-10
+
+| Date | Tier | Story | Formats | Status |
+|------|------|-------|---------|--------|
+| 2026-08-10 | T1 | NBA Cup Slate Drops Tomorrow — Full Schedule Thursday, Season 71 Days Out | X, FB, Article | FOLLOW UP |
+| 2026-08-10 | T1 | Kawhi Leonard — Six Weeks to Training Camp, Trade Still Frozen | X, FB, Article | FOLLOW UP |
+| 2026-08-10 | T2 | Stephen Curry — 19 Days Until Extension Window Opens | X, FB, Article | FOLLOW UP |
+| 2026-08-10 | T2 | Wembanyama and France — 10 Days to Belgrade | X, FB, Article | FOLLOW UP |
+| 2026-08-10 | T2 | Philadelphia 76ers — East's Most Compelling Training Camp Storyline | X, FB, Article | FOLLOW UP |
+
+### STORY 1: NBA Cup Slate Drops Tomorrow — Full Schedule Thursday
+- **Tier:** 1
+- **Category:** NBA Season Preview / Schedule Release
+- **Key facts:** NBA Cup groups released Aug 11; full 2026-27 schedule drops Aug 13; season tips Oct 20 (71 days); Knicks banner night Oct 20 MSG; Christmas Day slate: LeBron/76ers, Giannis/Heat, Wemby/Spurs are marquee candidates; NBA Cup championship Dec 11 Hinkle Fieldhouse Indianapolis
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** NBA Cup group reactions; schedule breakdown and marquee game analysis; opening night preview
+
+### STORY 2: Kawhi Leonard — Six Weeks to Training Camp, Trade Frozen
+- **Tier:** 1
+- **Category:** NBA Investigation / Los Angeles Clippers / Toronto Raptors / Kawhi Leonard
+- **Key facts:** Probe could extend to 2027; second deal (Daktronics) now under review alongside $28M Aspiration deal; trade: Kawhi to Toronto for Ingram + Dick + unprotected 2031+2033 firsts; trade frozen (Raptors don't want to assume risk); NBPA arbitration threat active; Kawhi owed $50.3M in 2026-27; training camp ~6 weeks away; most likely = negotiated settlement
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Settlement announcement; arbitration filing; training camp status
+
+### STORY 3: Stephen Curry Extension — 19 Days
+- **Tier:** 2
+- **Category:** NBA Contracts / Golden State Warriors / Stephen Curry
+- **Key facts:** Window opens Aug 29 (19 days); 2yr/$136.7M max; would make Curry first player to surpass $60M in single season (CBS Sports); mutual interest confirmed; September signing expected; Draymond Green 1yr/$27.7M; Gary Payton II 1yr/$3.9M; Warriors 37-45 last season
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Signing announcement; Warriors 2026-27 roster outlook
+
+### STORY 4: Wembanyama / France — 10 Days to Belgrade
+- **Tier:** 2
+- **Category:** NBA Offseason / San Antonio Spurs / Victor Wembanyama / France FIBA
+- **Key facts:** Serbia exhibitions: Aug 20 Belgrade, Aug 23 Orleans; qualifiers: vs Slovenia Aug 27 (home), at Sweden Aug 30 (away); France Group L 5-1; new coach Frederic Fauthoux (first time coaching Wemby); France roster: Wemby + Gobert + Fournier (first since Paris Olympics); Wemby quote: "I do not miss the NBA but I do miss FIBA"; Spurs coaches/staff traveled to Paris
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Serbia exhibition results; qualifier results
+
+### STORY 5: Philadelphia 76ers — East's Most Compelling Training Camp Story
+- **Tier:** 2
+- **Category:** NBA Offseason / Philadelphia 76ers / LeBron James / Joel Embiid
+- **Key facts:** Projected five: LeBron/Embiid/Maxey/Brown/Edgecombe (5 combined MVPs); LeBron 2yr/~$8M player option ("last decision"); Embiid completed healthiest offseason — Gansey: "one of the first offseasons he is healthy going into it"; LeBron/Maxey early-morning workouts (Maxey beat LeBron to 6:15 AM gym); East competitors: Knicks (defending champs), Giannis/Heat, Celtics; training camp late September
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Training camp open; first practice; 76ers preseason results
+
 ## 2026-08-09
 
 | Date | Tier | Story | Formats | Status |
