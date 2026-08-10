@@ -1,5 +1,42 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: August 10, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | NWS Pueblo Heat Advisory El Paso County 11 AM–7 PM MDT today (95°F, 4th consecutive); D11 Jumpstart Day Aug 11 / all students Aug 12; A2batt EEMB coin battery charger recall (4,930 units); KC Imports laser keychain recall (9,600 units); D20 first day Aug 17-18; D49 9 new Purple Star Schools (CDE); AAP-Apple iOS 27 Family Media Plan partnership (WWDC June 8) |
+| Story History Check | COMPLETE | 5 stories: S1 new (heat advisory + D11 back-to-school combined — distinct from prior coverage); S2 new (coin battery recalls — A2batt/KC Imports, distinct from PIXLABBY/Wnttmt); S3 new (D20 specific first-day preview); S4 new (D49 Purple Star Schools); S5 new (AAP-Apple iOS 27 partnership, distinct from Aug 5 AAP 5Cs story) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH confidence all 5 stories; sources: KRDO/NWS Pueblo, CPSC.gov, AcademyD20.org, D49 district news, AAP News/Apple Newsroom |
+| Story Analysis | COMPLETE | 02-story-analysis.md — 5 story sections (### STORY N: headers) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (S1: 2, S2: 2, S3/S4/S5: 1 each); all ≤280 chars; 4 hashtags each; 0 exclamation marks |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form posts + 5 Image Captions; engagement questions; NO hashtags; COS voice; max 1 exclamation mark per post |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts; 1080×1350 (social) and 1200×630 (hero); clean bottom third; no celebrity likenesses; no brand logos |
+| Articles | COMPLETE | 5 articles (500-1000 words; semantic HTML5; What's Next sections; Quick Reference sections; 0 exclamation marks; no figure tags); bylines: Sarah Morales (A1, A3, A5), Jamie Rivera (A2, A4) |
+| Fact-Check | COMPLETE | verify-facts.py passed; 119 claims extracted; all stories present in all content files; 10 image not_started cosmetic (expected for gemini source) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 5 stories × 2 image types (social + hero) = 10 entries; all not_started; gemini base_only; kAHCKfCZgk0 brand kit |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts (known pipeline issue), 5 articles, 22 dashboard items |
+| Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-08-10.xlsx (7 posts 13:40–20:46 MT, 71 min apart) + cosp-postplanner-tobi-2026-08-10.xlsx (7 TOBI posts) |
+| Dashboard Push | Attempted — proxy blocks write to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — proxy blocks WP API (403) | Same environment restriction as all prior runs |
+
+### 2026-08-10 — Full Pipeline Run (Monday)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts (S1: 2, S2: 2, S3/S4/S5: 1 each); PostPlanner xlsx: 7 posts 13:40–20:46 MT, 71 min apart; 7 TOBI
+- **Articles:** 5 (bylines: Sarah Morales [A1, A3, A5], Jamie Rivera [A2, A4])
+- **PostPlanner exports:** cosp-postplanner-2026-08-10.xlsx (7 posts), cosp-postplanner-tobi-2026-08-10.xlsx (7 TOBI posts)
+- **Coverage:** El Paso County Heat Advisory 95°F 11 AM–7 PM + D11 first day Wed Aug 12 (S1, Tier 1); A2batt EEMB coin battery charger recall (4,930 units) + KC Imports laser keychain recall (9,600 units) — both violate Reese's Law (S2, Tier 1); D20 first day Aug 17 (preschool/elementary/6th/9th) and Aug 18 (others), AcademyD20.org (S3, Tier 2); D49 Purple Star Schools — 9 new campuses for 2026-27, CDE designation for military-connected student support, d49.org (S4, Tier 2); Apple + AAP Family Media Plan partnership iOS 27 (WWDC June 8, Ask to Browse / Contact Approval / Time Allowances, HealthyChildren.org/MediaUsePlan) (S5, Tier 2)
+- **Notes:**
+  - verify-facts.py: 6 char limit errors on first run (tweets over 280) → trimmed; second run passed clean
+  - compile: 7 X posts, 0 FB posts (known pipeline issue), 5 articles, 22 dashboard items
+  - WordPress: proxy blocks WP API (403); same as all prior runs
+  - Dashboard push: proxy blocks content-dashboards repo write; same as all prior runs
+  - Byline rotation: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4]
+
+---
+
 ## Latest Run: August 9, 2026
 
 | Step | Status | Notes |

@@ -1,0 +1,283 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-10",
+  "compiled_at": "2026-08-10T13:10:39.215542+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "El Paso County Heat Advisory + D11 First Day Wednesday [TIER 1]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Heat Advisory in El Paso County until 7 PM today. High near 95°F. D11 heads back Wednesday. If you have outdoor plans, mornings are the safer window — afternoon thunderstorms possible after 1:30 PM. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 258
+        },
+        {
+          "label": "Post 1-2",
+          "text": "D11 Jumpstart Day (K, 6th, 9th graders) is tomorrow, August 11. All students start Wednesday. Afternoon cloud cover is building — good day to stay cool and get backpacks ready. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-heat-advisory-d11-first-day-back-to-school.html",
+        "headline": "El Paso County Heat Advisory in Effect — And D11 Starts Wednesday",
+        "word_count": 716
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Heat Advisory + D11 First Day\n\n#### Social Image (1080×1350, 4:5 vertical)\n**Prompt:** A bright Colorado summer morning scene: a residential neighborhood sidewalk in warm golden early-morning light, with a school backpack leaning against a mailbox post. A tall glass of ice water with condensation visible on the glass sits beside the backpack on the sidewalk. Clear blue Colorado sky with a hint of haze on the horizon suggesting heat. Lush green summer trees in the background. Warm, cautionary mood. Photorealistic style. Clean open pavement in the bottom third of the frame.\n**Status:** not_started\n\n#### Article Hero (1200×630, 1.91:1 landscape)\n**Prompt:** Wide aerial-perspective view of a Colorado Springs residential street on a hot summer morning. Heat shimmer visible above the asphalt of a quiet neighborhood road. A row of ranch-style homes with xeriscaped front yards, deep blue Rocky Mountain sky with scattered high clouds above. Warm, slightly hazy atmosphere suggesting extreme heat. Late-summer Colorado mood. Photorealistic. Clear sky in the upper third, road and sidewalk in the lower portion.\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "El Paso County Heat Advisory + D11 First Day\n**Heat Advisory type:** NWS Pueblo Heat Advisory — **HIGH** (KRDO confirmed, NWS Pueblo issued 5:41 AM MDT Aug 10)\n**Advisory valid:** 11:00 AM – 7:00 PM MDT, Monday August 10, 2026 — **HIGH** (KRDO weather alerts)\n**Zones covered:** Colorado Springs Vicinity/Southern El Paso County/Rampart Range Below 7400 ft; Northern El Paso County/Monument Ridge/Rampart Range Below 7500 ft — **HIGH** (NWS Pueblo zone alert)\n**Colorado Springs forecast high:** 95°F — **HIGH** (KRDO daily forecast Aug 10)\n**Pueblo forecast high:** 101°F — **HIGH** (KRDO)\n**Consecutive advisories:** 4th consecutive Heat Advisory for El Paso and Pueblo counties — **HIGH** (KRDO local forecast recap)\n**Afternoon weather:** Cloud cover expected by 12–1 PM; spotty showers/thunderstorms 1:30–7:00 PM — **HIGH** (KRDO)\n**August heat context:** Colorado Springs tracking 7 out of 10 August days in the 90s — **MEDIUM** (KRDO summary)\n**D11 Teacher Work Day:** Today, Monday August 10 — no students — **HIGH** (D11 back-to-school calendar)\n**D11 Jumpstart Day:** Tuesday August 11 (kindergarteners, 6th graders, 9th graders — new-to-building) — **HIGH** (D11 back-to-school calendar; CORRECTION from Aug 9 brief which said \"Monday Aug 11\" — Aug 11 is Tuesday not Monday)\n**D11 all K-12 first day:** Wednesday August 12 — **HIGH** (D11 calendar, Springs Daily, confirmed prior pipelines)",
+        "sources": "Sources: KRDO weather alerts Aug 10; KRDO daily weather web Aug 10; KRDO local forecast Aug 9; NWS Pueblo; Springs Daily back-to-school 2026; D11 Back to School page (d11.org)"
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "CPSC Recalls — Coin Battery Dangers in Two Products [TIER 1]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "RECALL: KC Imports Laser Pointer Keychains sold at gas stations (~$0.42, ~9,600 units). Button batteries children can reach — violates Reese's Law. Refund: email photo of disposed product to kcimport90058@hotmail.com. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 277
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Recalled Aug 6: A2batt EEMB Coin Battery Chargers (~4,930 units, Amazon, ~$14). Coin batteries accessible to children — violates Reese's Law. Write \"RECALL\" on the charger, then contact A2batt for a refund. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-coin-battery-recalls-a2batt-kc-imports-cpsc.html",
+        "headline": "Two More Products Recalled for Coin Battery Hazard — Including One Sold at Gas Stations",
+        "word_count": 760
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "CPSC Coin Battery Recalls\n\n#### Social Image (1080×1350, 4:5 vertical)\n**Prompt:** Close-up flat lay on a bright white surface: a handful of small shiny CR2032 coin-cell batteries scattered alongside a miniature laser pointer keychain. Dramatic overhead studio lighting creating sharp shadows. Bold warning-red color accents — a red circle on the white surface framing the batteries — but no text or symbols. Safety-alert visual mood, clinical and arresting. No logos, no branding, no readable text anywhere. Clean white space in the lower third of the frame.\n**Status:** not_started\n\n#### Article Hero (1200×630, 1.91:1 landscape)\n**Prompt:** Top-down product photography style: several small silver coin-cell batteries (CR2032 style) arranged on a white surface beside a small cylindrical laser pointer device, all dramatically lit with a single overhead studio light creating strong contrast. Clean, clinical, cautionary mood. No branding, no text, no logos visible. White background with the objects centered and clear white space below them.\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "CPSC Recalls — Coin Battery Hazards (A2batt + KC Imports)\n**Recall announcement date:** August 6, 2026 (part of CPSC's 17-recall batch) — **HIGH** (CPSC.gov)\n**A2batt EEMB Lithium-ion Coin Battery Chargers:**\n- Units: Approximately 4,930 — **HIGH** (CPSC.gov)\n- Product: EEMB Lithium-ion Coin Battery Chargers, model SKLC-0420-0040 (includes charger, 4 rechargeable CR2032 batteries, USB cable) — **HIGH** (CPSC.gov)\n- Sold: Amazon.com, August 2024 – March 2026, approximately $14 — **HIGH** (CPSC.gov)\n- Hazard: Coin batteries accessible to children; packaging does not meet child-resistant design standards and lacks required warnings under Reese's Law; swallowed coin batteries cause internal chemical burns and can be fatal — **HIGH** (CPSC.gov)\n- Incidents/injuries: None reported — **HIGH** (CPSC.gov)\n- Remedy: Full refund; write \"RECALL\" on the charger; contact A2batt for return instructions — **HIGH** (CPSC.gov)\n- CPSC URL: cpsc.gov/Recalls/2026/A2batt-Recalls-EEMB-Lithium-Coin-Battery-Chargers — **HIGH**\n**KC Imports and Exports Mini Laser Pointer Keychains:**\n- Units: Approximately 9,600 — **HIGH** (CPSC.gov)\n- Product: Laser & LED Light Mini Laser Pointer Keychains, model KKC-6071 — **HIGH** (CPSC.gov)\n- Sold: Gas stations, discount stores nationwide, and online at divaatheartsj.com, June 2025 – June 2026, approximately $0.42 per unit — **HIGH** (CPSC.gov)\n- Hazard: Button battery accessible to children; packaging lacks required Reese's Law warnings; ingested button batteries cause internal burns — **HIGH** (CPSC.gov)\n- Incidents/injuries: None reported — **HIGH** (CPSC.gov)\n- Remedy: Full refund; email photo of disposed product to kcimport90058@hotmail.com — **HIGH** (CPSC.gov)\n- CPSC URL: cpsc.gov/Recalls/2026/KC-Imports-and-Exports-Recalls-Mini-Laser-Pointer-Keychains — **HIGH**\n**Reese's Law context:** Reese's Law (enacted 2022) requires child-resistant packaging and specific warnings on consumer products containing button/coin batteries after multiple child deaths — **HIGH** (CPSC.gov)",
+        "sources": "Sources: CPSC.gov recall pages for both products; ConsumerAffairs Aug 7 2026 recall roundup"
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "D20 Academy District First Day Preview [TIER 2]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "D20 families: preschoolers, elementary, 6th graders, and 9th graders start Monday August 17. Everyone else starts Tuesday August 18. One week to go. Supply lists and enrollment info at AcademyD20.org or 719-234-1200. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-d20-academy-district-first-day-august-17.html",
+        "headline": "D20 Academy District: First Day Is Monday August 17 — What to Do This Week",
+        "word_count": 633
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D20 Academy District First Day Preview\n\n#### Social Image (1080×1350, 4:5 vertical)\n**Prompt:** A cheerful school hallway in a well-lit modern Colorado school building: lockers in navy blue and silver lining both sides, polished floors reflecting the morning light, open classroom doors visible at the end of the hall. No students — just the fresh, anticipatory mood of the first week of school. Primary and secondary school color palette (navy, silver, white). Warm morning light from windows. Clean flat illustration style with depth. Open floor space in the bottom third.\n**Status:** not_started\n\n#### Article Hero (1200×630, 1.91:1 landscape)\n**Prompt:** A wide shot of the front entrance of a modern Colorado school on a clear late-summer morning. The school exterior features clean lines and a welcoming entry portico. Bright Colorado blue sky above. A welcome sign and flagpole visible. Empty — no students yet. The building is framed by mature trees just starting to show early hints of the coming season. Hopeful, anticipatory mood. Photorealistic. Clear sky in upper portion.\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D20 Academy District First Day Dates\n**D20 first day — preschool, elementary, 6th grade, 9th grade:** Monday August 17, 2026 — **HIGH** (Springs Daily back-to-school dates; AcademyD20.org)\n**D20 first day — all remaining students:** Tuesday August 18, 2026 — **HIGH** (Springs Daily; AcademyD20.org)\n**Enrollment website:** AcademyD20.org — **HIGH** (official district site)\n**District office address:** 1110 Chapel Hills Drive, Colorado Springs, CO 80920 — **HIGH** (D20 contact page)\n**District phone:** 719-234-1200 — **HIGH** (D20 contact page)\n**Number of schools:** 32 schools in D20 — **MEDIUM** (D20 district overview)\n**Geographic service area:** North Colorado Springs, Monument, Palmer Lake, Tri-Lakes area — **HIGH** (D20 district profile)\n**Supply lists:** Posted school-by-school at AcademyD20.org — **MEDIUM** (standard practice confirmed)",
+        "sources": "Sources: Springs Daily COS back-to-school 2026 article; AcademyD20.org district announcements"
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "D49 Earns 9 More Purple Star School Designations [TIER 2]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "D49 added 9 more Purple Star Schools for 2026-27 — Colorado's designation for campuses supporting military-connected students. Fort Carson and Space Force bases mean this matters for east COS families. More at d49.org. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-d49-purple-star-schools-military-families.html",
+        "headline": "D49 Adds 9 More Purple Star Schools — What It Means for Military Families in East COS",
+        "word_count": 770
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D49 Purple Star Schools\n\n#### Social Image (1080×1350, 4:5 vertical)\n**Prompt:** A clean, symbolic flat-lay on a light gray surface: a five-pointed star shape rendered in deep purple and soft gold colors, surrounded by small school-themed items — an open notebook, a pencil, a miniature American flag — all arranged naturally around the star. No branding, no text, no logos. Warm, respectful, community-pride mood. Studio lighting with gentle shadows. Clean gray space in the lower third.\n**Status:** not_started\n\n#### Article Hero (1200×630, 1.91:1 landscape)\n**Prompt:** Wide establishing shot of a clean, welcoming Colorado school exterior on a bright morning. A wide-angle view emphasizing the flag of the United States flying on a flagpole in front of the school entrance. Colorado mountains visible in the soft blue distance. Military appreciation and community pride mood, without showing any military uniforms or equipment. Photorealistic. Clear blue Colorado sky.\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D49 Purple Star Schools\n**Designation:** Colorado Department of Education Purple Star School — **HIGH** (D49 news, CDE)\n**Number of new D49 campuses:** 9 additional campuses for 2026-27 — **HIGH** (D49 district news)\n**School types:** 7 district-operated, 2 charter schools — **HIGH** (D49 news)\n**What Purple Star means:** Schools with a demonstrated commitment to supporting military-connected students and families — dedicated point of contact, counselors trained in military transitions, peer support programs — **HIGH** (CDE Purple Star program description)\n**COS military installations nearby:** Fort Carson, Peterson Space Force Base, Schriever Space Force Base, NORAD/NORTHCOM — **HIGH** (known, verified military installations in El Paso County)\n**D49 service area:** Eastern Colorado Springs, Falcon, Peyton — **HIGH** (D49 district profile; Fort Carson adjacent to D49 footprint)\n**How families identify schools:** Look for Purple Star badge at school profile on D49 website (d49.org) or CDE Purple Star list — **MEDIUM** (standard CDE process)",
+        "sources": "Sources: D49 district news (d49.org); Colorado Department of Education Purple Star School program page"
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "AAP + Apple Family Media Plan — iOS 27 Back-to-School [TIER 2]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "iOS 27 will include AAP-backed parental controls: Ask to Browse, Contact Approval, Time Allowances by category. D11 starts Wednesday. The AAP calls back-to-school the best moment to reset screen agreements. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-apple-aap-ios27-family-media-plan.html",
+        "headline": "Apple Built the Pediatrician's Advice Into Your Kid's iPhone. Here's What Changes This Fall.",
+        "word_count": 937
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "AAP + Apple iOS 27 Family Media Plan\n\n#### Social Image (1080×1350, 4:5 vertical)\n**Prompt:** A soft-focus overhead view of a family kitchen table: an iPad and a smartphone placed face-down beside a half-eaten breakfast, suggesting intentional device-free mealtime. A coffee mug and a glass of orange juice flank the devices. Warm morning kitchen light. Cozy, mindful, family-values mood. No visible screens, no brand logos, no text anywhere. Clean, warm, inviting color palette — creamy whites, warm wood tones. Open table surface in the lower third.\n**Status:** not_started\n\n#### Article Hero (1200×630, 1.91:1 landscape)\n**Prompt:** A warm, softly lit scene of a child's bedroom in early evening: a smartphone and tablet placed on a shelf outside the bedroom door (not inside), suggesting a device-free bedroom rule in practice. Cozy bedroom visible through the doorway — warm lamplight, a colorful bedspread, books on a nightstand. Calm, intentional, peaceful mood. No brand logos, no visible screens. Photorealistic. Soft warm tones.\n**Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "AAP + Apple Family Media Plan / iOS 27\n**Partnership announcement:** Apple and AAP partnership announced at WWDC, June 8, 2026 — **HIGH** (AAP News, Apple Newsroom)\n**Description:** Apple adapting the AAP Family Media Plan into iOS 27 device settings — **HIGH** (AAP News; Apple Newsroom)\n**iOS 27 release timeline:** Fall 2026 — **HIGH** (Apple Newsroom; WWDC announcement)\n**New feature — Ask to Browse:** Child cannot access any Safari website until a parent approves it — **HIGH** (Apple Newsroom; Appleosophy)\n**New feature — Mandatory Child Account:** Child Account required for all users under 13; available for users up to 18 — **HIGH** (Apple Newsroom)\n**New feature — Time Allowances:** App usage managed by category — **HIGH** (Apple Newsroom)\n**New feature — Contact Approval:** New contacts for a child's device require parent approval first — **HIGH** (Apple Newsroom)\n**New feature — Expanded Communication Safety:** Now detects gore and violent content in addition to nudity — **HIGH** (Apple Newsroom)\n**AAP Family Media Plan tool:** Free, interactive tool at HealthyChildren.org/MediaUsePlan since 2016 — **HIGH** (AAP HealthyChildren.org)\n**Back-to-school timing note:** AAP identifies start of school year as #1 recommended time for families to reset media agreements — **HIGH** (AAP guidance via Standard-Examiner article)",
+        "sources": "Sources: AAP News (publications.aap.org); Apple Newsroom (apple.com/newsroom/2026/06); Appleosophy (June 8, 2026); Standard-Examiner (June 16, 2026); Help Net Security (June 9, 2026); HealthyChildren.org"
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

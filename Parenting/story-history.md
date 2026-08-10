@@ -2,6 +2,50 @@
 
 ---
 
+## August 10, 2026
+
+### Story 1: El Paso County Heat Advisory + D11 First Day Wednesday
+- **Date:** 2026-08-10
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — NWS Pueblo Heat Advisory for El Paso County, valid 11:00 AM–7:00 PM MDT Monday August 10; 4th consecutive advisory; Colorado Springs forecast high 95°F; afternoon thunderstorms expected 1:30–7:00 PM. Combined with D11 first-day countdown: Jumpstart Day (K/6th/9th) Tuesday August 11; all K-12 students Wednesday August 12. Practical back-to-school heat guide.
+- **Content Produced:** Article (Sarah Morales), 2 X posts, Facebook Long-Form, Facebook Image Caption, Image Concept (social + hero)
+- **Tier:** 1
+- **Key Facts:** Advisory valid 11 AM–7 PM MDT Aug 10; COS high 95°F; 4th consecutive advisory; afternoon storm relief expected; D11 Jumpstart Day Aug 11 (K/6th/9th); D11 all K-12 first day Aug 12; Sources: KRDO weather alerts, NWS Pueblo, d11.org
+
+### Story 2: CPSC Recalls — Coin Battery Hazards (A2batt EEMB Charger + KC Imports Keychain)
+- **Date:** 2026-08-10
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — Two CPSC recalls from Aug 6, 2026 batch, both violating Reese's Law (coin/button battery accessibility): (1) A2batt EEMB Lithium-ion Coin Battery Chargers (~4,930 units, Amazon, Aug 2024–Mar 2026, ~$14; model SKLC-0420-0040 with 4 rechargeable CR2032 batteries; refund via A2batt after writing "RECALL" on charger). (2) KC Imports Mini Laser Pointer Keychains (~9,600 units, gas stations/discount stores/divaatheartsj.com, Jun 2025–Jun 2026, ~$0.42/unit; refund via kcimport90058@hotmail.com). No injuries reported for either product.
+- **Content Produced:** Article (Jamie Rivera), 2 X posts, Facebook Long-Form, Facebook Image Caption, Image Concept (social + hero)
+- **Tier:** 1
+- **Key Facts:** A2batt: ~4,930 units, Amazon, ~$14, model SKLC-0420-0040, write "RECALL" then contact A2batt; KC Imports: ~9,600 units, gas stations/discount stores, ~$0.42, email kcimport90058@hotmail.com; both violate Reese's Law; swallowed coin/button batteries cause internal burns; Sources: CPSC.gov
+
+### Story 3: D20 Academy District Back-to-School — First Day August 17
+- **Date:** 2026-08-10
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — Academy District 20 (north COS, Monument, Tri-Lakes, 32 schools) staggered start: preschool/elementary/6th grade/9th grade start Monday August 17; all remaining students start Tuesday August 18. Enrollment: AcademyD20.org or 1110 Chapel Hills Drive, Colorado Springs 80920, 719-234-1200. Supply lists at AcademyD20.org school-by-school.
+- **Content Produced:** Article (Sarah Morales), 1 X post, Facebook Long-Form, Facebook Image Caption, Image Concept (social + hero)
+- **Tier:** 2
+- **Key Facts:** D20 Aug 17 (preschool/elementary/6th/9th), Aug 18 (all others); AcademyD20.org; 1110 Chapel Hills Drive, COS 80920; 719-234-1200; 32 schools; Sources: Springs Daily, AcademyD20.org
+
+### Story 4: D49 Purple Star Schools — 9 New Campuses for 2026-27
+- **Date:** 2026-08-10
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — Colorado Department of Education awarded Purple Star School designation to 9 additional D49 campuses (7 district-operated + 2 charter) for 2026-27. Purple Star = schools with dedicated support for military-connected students (PCS transitions, deployment support, peer programs). Highly relevant for east COS/Falcon given Fort Carson, Peterson Space Force Base, Schriever Space Force Base, NORAD/NORTHCOM nearby.
+- **Content Produced:** Article (Jamie Rivera), 1 X post, Facebook Long-Form, Facebook Image Caption, Image Concept (social + hero)
+- **Tier:** 2
+- **Key Facts:** 9 more D49 campuses; 7 district-operated + 2 charter; Colorado CDE Purple Star designation; for military-connected students; d49.org; Sources: D49 district news, Colorado CDE
+
+### Story 5: AAP + Apple Family Media Plan — iOS 27 Back-to-School
+- **Date:** 2026-08-10
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (distinct from Aug 5 AAP 5Cs screen time guideline coverage) — Apple and AAP partnership announced at WWDC June 8, 2026: Apple adapting AAP Family Media Plan into iOS 27 (fall 2026 release). New features: Ask to Browse (Safari URL approval gate), Mandatory Child Account (under-13 required, up to 18 available), Contact Approval, Time Allowances by app category, Expanded Communication Safety (adds gore/violence detection). Free AAP Family Media Plan at HealthyChildren.org/MediaUsePlan.
+- **Content Produced:** Article (Sarah Morales), 1 X post, Facebook Long-Form, Facebook Image Caption, Image Concept (social + hero)
+- **Tier:** 2
+- **Key Facts:** WWDC June 8, 2026; iOS 27 fall 2026; Ask to Browse; Child Account under-13 required; Contact Approval; Time Allowances by category; Expanded Communication Safety; free tool at HealthyChildren.org/MediaUsePlan; Sources: AAP News, Apple Newsroom, Appleosophy, Standard-Examiner
+
+---
+
 ## August 9, 2026
 
 ### Story 1: New Colorado School Zone Law Takes Effect August 12 — Same Day D11 Starts
