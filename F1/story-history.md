@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-08-10
+
+| Date | Tier | Story | Formats | Status |
+|------|------|-------|---------|--------|
+| 2026-08-10 | T1 | Dutch GP — 11 Days Away, Final Zandvoort Race and Honda PU Debut | X, FB, Article | FOLLOW UP |
+| 2026-08-10 | T1 | Verstappen Exit Clause — Dutch GP Home Race Adds Emotional Weight | X, FB, Article | FOLLOW UP |
+| 2026-08-10 | T2 | Kimi Antonelli — 50 Points Up, Dutch GP Opens Second Half | X, FB, Article | FOLLOW UP |
+| 2026-08-10 | T2 | Fernando Alonso — Honda PU Debut at Zandvoort Decides His Future | X, FB, Article | FOLLOW UP |
+| 2026-08-10 | T2 | Audi Commits Bortoleto Long-Term; Cadillac Shifts 100% to 2027 | X, FB, Article | NEW |
+
+### STORY 1: Dutch GP — 11 Days Away
+- **Tier:** 1
+- **Category:** F1 Race Preview / Dutch Grand Prix / Zandvoort / Honda
+- **Key facts:** Dutch GP Aug 21-23 Circuit Zandvoort; final F1 race ever at Zandvoort; first-ever Sprint at circuit; shutdown ends Aug 17 (teams back 3 days before); Honda PU updated during shutdown (filming day at Hungaroring); race-spec Honda PU debuts Zandvoort; ~+30-50hp estimated; tickets sold out; DJ Martin Garrix performing
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Sprint result; qualifying; race result; Honda PU performance data
+
+### STORY 2: Verstappen Exit Clause — Dutch GP Home Race
+- **Tier:** 1
+- **Category:** F1 Driver News / Max Verstappen / Red Bull Racing / McLaren
+- **Key facts:** Exit clause active (triggered after British GP); decision window Aug–Oct; Red Bull €65M/year counter-offer unanswered; McLaren talks "closing stages" per SportBible/PlanetF1; Piastri manager + Zak Brown denied; Verstappen 0 wins/4 podiums/109 pts (P6); Helmut Marko: will fulfill 2026 contract; Dutch GP home race adds emotional weight
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Pre-Dutch GP announcement; McLaren/Piastri response; clause invocation confirmation
+
+### STORY 3: Kimi Antonelli — 50 Points Up, Dutch GP First Race Back
+- **Tier:** 2
+- **Category:** F1 Championship / Kimi Antonelli / Mercedes
+- **Key facts:** 219 pts after 11 rounds; 50 ahead of Hamilton (169); Russell 3rd (160); Mercedes Constructors 379 pts; 6 wins, 6 poles, 9 podiums; youngest polesitter and youngest championship leader records; 291 pts remain; youngest champion since Vettel 2010 if wins at 19; Dutch GP Aug 21-23 first race back
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Dutch GP result; championship gap after each round
+
+### STORY 4: Fernando Alonso — Honda PU Decides His Future
+- **Tier:** 2
+- **Category:** F1 Driver News / Fernando Alonso / Aston Martin / Honda
+- **Key facts:** Decision "after the summer"; shutdown ends Aug 17; Honda ran updated PU at Hungaroring filming day; PU changes: combustion chamber + pre-chamber geometry, lubrication updates; estimated +30-50hp; Newey "pretty confident" Alonso stays; Aston Martin contract expires end 2026; Alonso "Barcelona probably my last time"; Ted Kravitz predicts retirement
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official announcement at or around Dutch GP; Honda PU performance data; Aston Martin 2027 driver
+
+### STORY 5: New Teams at Midpoint — Audi/Bortoleto + Cadillac Freeze
+- **Tier:** 2
+- **Category:** F1 Team News / Audi / Gabriel Bortoleto / Cadillac / Valtteri Bottas
+- **Key facts:** Bortoleto signed multi-year Audi deal; committed "many years"; won F3 2024 + F2 2025; drives with Hulkenberg; defended 2026 regs (contrast to Verstappen); Audi scored 12 pts, jumped Williams to P8 Constructors; Bottas confirmed Cadillac "imminently" stopping 2026 car development; quote: "no magic, nothing huge"; Bottas+Perez debut season as 11th team; pivoting 100% to 2027
+- **Status:** NEW
+- **Follow-up ideas:** Bortoleto results second half; Cadillac 2027 development milestones; Ocon Audi/Cadillac future?
+
 ## 2026-08-09
 
 | Date | Tier | Story | Formats | Status |

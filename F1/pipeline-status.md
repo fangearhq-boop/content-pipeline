@@ -1,6 +1,18 @@
 # F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
+- **Date**: 2026-08-10
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters (Story 5 tweet fixed after verify-facts: trimmed from 286 to 251)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Elena Voss, Marcus Cole, Ryan Calloway, Elena Voss, Marcus Cole)
+- **PostPlanner exports:** f1fr-postplanner-2026-08-10.xlsx (7 posts) + f1fr-postplanner-tobi-2026-08-10.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-08-10/review-dashboard.html (27 items)
+- **Notes:** Dutch GP 11 days away (final Zandvoort race, Sprint format, Honda PU debut, teams back Aug 17); Verstappen — exit clause active, Red Bull €65M counter-offer unanswered, McLaren "closing stages," Dutch GP home race emotional backdrop; Antonelli 50 pts ahead of Hamilton (219 vs 169), Dutch GP first race of second half, youngest champion since Vettel angle; Alonso decision imminent (shutdown ends Aug 17, Honda PU debuts Zandvoort, Newey "pretty confident" Alonso stays); NEW: Bortoleto multi-year Audi deal + Cadillac development freeze ("no magic, nothing huge" — pivoting to 2027)
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+## 2026-08-09
 - **Date**: 2026-08-09
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)
