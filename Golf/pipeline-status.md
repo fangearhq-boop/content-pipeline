@@ -1,10 +1,21 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
-- **Date**: 2026-08-09
+- **Date**: 2026-08-10
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy 403; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-08-10
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 8 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** gfr-postplanner-2026-08-10.xlsx (8 posts) + gfr-postplanner-tobi-2026-08-10.xlsx (8 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-08-10/review-dashboard.html (23 items)
+- **Notes:** WYNDHAM WINNER — Brennan wins at 22-under 258; $1.53M; 500 FedExCup pts; entered week 105th; Steven Fisk bumped from top 70; 70-player St. Jude field locked; ST. JUDE PREVIEW — FedEx St. Jude Championship Aug 13-16 TPC Southwind Memphis; $20M purse; 750 FedExCup pts; Scheffler No. 1 seed 4,123 pts; McIlroy chasing 4th FedExCup title (record); Fleetwood defending FedExCup champion; top 50 → BMW Bellerive CC St. Louis Aug 20-23; top 30 → Tour Championship East Lake Atlanta Aug 27-30; LIV NEW YORK RESULTS — Niemann wins at 16-under 268 (3 shots over Varner III); 9th career LIV title; $4M; Torque GC team win; Rahm clinches 3rd consecutive LIV individual season title (T41 finish sufficient — standings locked); SCHEFFLER WINLESS — last win American Express January 2026 (20th career); 5 runner-ups (Masters, RBC Heritage, Cadillac, Travelers, 3M); 35 top-25 streak snapped at Scottish Open; playoffs start Thursday Memphis; LIV BC PARTNERS — CEO O'Neil confirmed at Bedminster: BC Partners credit arm lead investor; ~$250-300M; deal signed + board-approved; players become majority equity holders; purses decrease; 10 events 2027; closes September 2026; PIF exits end 2026 (~$5B invested)
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-08-09
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-08-10
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-08-10 | T1 | Wyndham Championship — Michael Brennan Wins at 22-Under, Punches FedExCup Playoff Ticket | X, FB, Article | NEW |
+| 2026-08-10 | T1 | FedExCup Playoffs — St. Jude Championship Starts Thursday; Scheffler No. 1 Seed, McIlroy Chases 4th Title | X, FB, Article | FOLLOW UP |
+| 2026-08-10 | T1 | LIV Golf New York — Niemann Wins at 16-Under; Rahm Clinches 3rd Consecutive Individual Season Title | X, FB, Article | FOLLOW UP |
+| 2026-08-10 | T2 | Scottie Scheffler — Winless in 2026, FedExCup Reset Awaits in Memphis | X, FB, Article | FOLLOW UP |
+| 2026-08-10 | T2 | LIV Golf BC Partners Deal Confirmed by CEO; Players Become Majority Owners in LIV 2.0 | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Wyndham Championship — Michael Brennan Wins at 22-Under
+- **Tier:** 1
+- **Category:** PGA Tour / Wyndham Championship / FedExCup
+- **Key facts:** Brennan wins at 22-under 258; $1.53M winner's check; 500 FedExCup points; entered week ranked 105th; Steven Fisk bumped out of top 70; 70-player St. Jude field now officially locked; Beau Hossler (122nd, needed win) finished short of win — season ends
+- **Status:** NEW (follow-up from Aug 9: Brennan and Hossler co-led at -16 entering final round)
+- **Follow-up ideas:** Brennan's St. Jude results; Fisk off-season story; full FedExCup points standings post-Wyndham
+
+### STORY 2: FedExCup Playoffs — St. Jude Championship Preview
+- **Tier:** 1
+- **Category:** PGA Tour / FedExCup Playoffs / St. Jude Championship
+- **Key facts:** FedEx St. Jude Championship Aug 13-16 TPC Southwind Memphis; $20M purse; 750 FedExCup pts; 70-player field locked post-Wyndham; Scheffler No. 1 seed 4,123 pts; McIlroy chasing historic 4th FedExCup title; Fleetwood defending FedExCup champion; top 50 → BMW at Bellerive CC St. Louis Aug 20-23; top 30 → Tour Championship East Lake Atlanta Aug 27-30
+- **Status:** FOLLOW UP (from Aug 9 preview; field now officially locked)
+- **Follow-up ideas:** St. Jude R1 results; Scheffler/McIlroy Thursday rounds; FedExCup standings post-Memphis
+
+### STORY 3: LIV Golf New York — Niemann Wins, Rahm Clinches Season Title
+- **Tier:** 1
+- **Category:** LIV Golf / LIV Golf New York / Joaquin Niemann / Jon Rahm
+- **Key facts:** Niemann wins at 16-under 268; 3 shots clear of Harold Varner III; 9th career LIV title; $4M payout; Torque GC wins team competition; Rahm clinches 3rd consecutive LIV individual season title (T41 finish; standings locked in his favor); 3 consecutive season titles — no other LIV player has done this
+- **Status:** FOLLOW UP (from Aug 9: Niemann led final round at -14; Varner III at -12 after Saturday 65)
+- **Follow-up ideas:** LIV Golf season standings final; Niemann career LIV records; Rahm's equity stake in LIV 2.0
+
+### STORY 4: Scottie Scheffler — Winless in 2026, FedExCup Reset
+- **Tier:** 2
+- **Category:** PGA Tour / Scottie Scheffler / FedExCup Playoffs
+- **Key facts:** Last win: American Express January 2026 (20th career); 5 runner-ups (Masters, RBC Heritage, Cadillac Championship, Travelers Championship, 3M Open); 35-consecutive top-25 streak snapped at Genesis Scottish Open; No. 1 seed at 4,123 FedExCup pts; playoffs begin Thursday Memphis
+- **Status:** FOLLOW UP (deepened from Aug 9; regular season now complete)
+- **Follow-up ideas:** Scheffler's St. Jude R1-R4; whether win drought ends at FedExCup Playoffs
+
+### STORY 5: LIV Golf BC Partners Investment Deal Confirmed
+- **Tier:** 2
+- **Category:** LIV Golf / Business / LIV 2.0 / BC Partners
+- **Key facts:** CEO Scott O'Neil confirmed at Bedminster event; BC Partners credit arm lead investor; ~$250-300M deal; deal signed by investor, approved by board; players become majority equity holders; tournament purses decrease; 10 events 2027; deal closes September 2026; Saudi PIF exits end of 2026 (~$5B invested since 2022); 12+ additional minority investor parties in discussions
+- **Status:** FOLLOW UP (from Aug 9: Bloomberg/FT reported structure; today CEO confirmed on record at event)
+- **Follow-up ideas:** Official deal close in September; player contract decisions for 2027; 2027 schedule announcement
+
 ## 2026-08-09
 
 | Date | Tier | Story | Platforms | Status |
