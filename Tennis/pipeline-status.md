@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-08-10 |
-| Writing | Complete (all steps) | 2026-08-10 |
-| Fact-check | Complete (verify-facts.py run — 5 stories, 43 claims) | 2026-08-10 |
-| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 5 articles, 22 items) | 2026-08-10 |
-| Dashboard | Complete (review-dashboard.html, 22 items) | 2026-08-10 |
-| PostPlanner Export | Complete (standard 7 posts 13:18–20:42 ET; TOBI 7 posts) | 2026-08-10 |
-| WordPress Publish | Attempted — proxy blocks WordPress API (same as all prior runs) | 2026-08-10 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-08-10 |
+| Research | Complete | 2026-08-11 |
+| Writing | Complete (all steps) | 2026-08-11 |
+| Fact-check | Complete (verify-facts.py run — 5 stories, 34 claims) | 2026-08-11 |
+| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 5 articles, 22 items) | 2026-08-11 |
+| Dashboard | Complete (review-dashboard.html, 22 items) | 2026-08-11 |
+| PostPlanner Export | Complete (standard 7 posts 13:15–20:45 ET; TOBI 7 posts) | 2026-08-11 |
+| WordPress Publish | Attempted — proxy blocks WordPress API (same as all prior runs) | 2026-08-11 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-08-11 |
 
 ## Queue
 
@@ -24,6 +24,16 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-08-11 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
+- **Articles:** 5 (bylines: Ryan Calloway [S1, S4], Elena Voss [S2, S5], Marcus Cole [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-08-11.xlsx (7 posts 13:15–20:45 ET), tfr-postplanner-tobi-2026-08-11.xlsx (7 TOBI posts)
+- **Key stories:** Svitolina def. Alexandrova 3-6, 6-0, 6-3 (93 min; from set down; WTA 1000 streak to 10); Swiatek def. Shnaider 6-2, 6-1 (64 min, 0 BPs faced, 88% 1st serve); Toronto SF: Swiatek vs. Svitolina Aug 12 (H2H 4-3 Swiatek; Svitolina won both 2026 meetings); Montreal all-2000s QF (first in ATP history — all 8 born in 2000s, first all-25-under since Paris 2007); Sinner Cincinnati withdrawal (knee, joins Alcaraz/wrist; Zverev top seed; Djokovic returning); Shelton vs. Mensik QF (Shelton no sets dropped, Mensik H2H 2-1)
+- **Issues:** FB posts not picked up by compile script (0 FB posts in JSON — known issue); image manifest all not_started (expected for imagn source); posting window warnings cosmetic; WordPress blocked by proxy; dashboard push blocked by proxy
+- **Story history:** Updated with all 5 stories
 
 ### 2026-08-10 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)

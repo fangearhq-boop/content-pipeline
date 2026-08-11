@@ -1,0 +1,321 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-11",
+  "compiled_at": "2026-08-11T12:45:27.076996+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Svitolina Stages Stunning Comeback, Toronto SF Set — Swiatek vs. Svitolina [TIER 1]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Svitolina def. Alexandrova 3-6, 6-0, 6-3 in the Toronto QF. Down a set to the player who beat the world No. 1 two days ago. Won 11 of the next 12 games. WTA 1000 winning streak: 10. #WTA #Tennis #NBO2026",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTA",
+            "#Tennis",
+            "#NBO2026"
+          ],
+          "char_count": 203
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Swiatek def. Shnaider 6-2, 6-1 in 64 minutes. Did not face a break point. Won 88% of first-serve points. Toronto SF is set: Swiatek vs. Svitolina on Wednesday. #WTA #Tennis #NBO2026 #TorontoOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTA",
+            "#Tennis",
+            "#NBO2026",
+            "#TorontoOpen"
+          ],
+          "char_count": 194
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-svitolina-rallies-toronto-sf-set.html",
+        "headline": "Svitolina Rallies from a Set Down to Beat Alexandrova, Sets Up Swiatek Showdown in Toronto",
+        "word_count": 603
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "article-01 hero image"
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "social post S1"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Montreal ATP QF — Historic All-2000s Bracket [TIER 1]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "All 8 Montreal QF players were born in the 2000s. First time in ATP history. Shelton. Mensik. Tien. Merida. Fils. Jodar. Nakashima. Darderi. The generation is here. #ATP #Tennis #NBO2026",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATP",
+            "#Tennis",
+            "#NBO2026"
+          ],
+          "char_count": 186
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Last time all 8 QF players at an ATP event were 25-and-under: Paris, 2007. Last time all 8 were born in the 2000s: never. Montreal 2026 is a first. #ATP #Tennis #NBO2026",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATP",
+            "#Tennis",
+            "#NBO2026"
+          ],
+          "char_count": 169
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-montreal-all-2000s-qf-historic.html",
+        "headline": "All Eight Montreal Quarterfinals Feature Players Born in the 2000s — A First in ATP History",
+        "word_count": 700
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "article-02 hero image"
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "social post S2"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Sinner Withdraws Cincinnati — Both No. 1 and No. 3 Skip the Masters [TIER 2]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Jannik Sinner has withdrawn from Cincinnati (right knee). Alcaraz already out (wrist). Zverev is now the top seed. Djokovic returns to the tour for the first time since Wimbledon. US Open Aug 25. #ATP #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATP",
+            "#Tennis"
+          ],
+          "char_count": 208
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-sinner-cincinnati-withdrawal-us-open.html",
+        "headline": "Sinner Joins Alcaraz in Withdrawing from Cincinnati; US Open Preparation Takes New Shape",
+        "word_count": 569
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "article-03 hero image"
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "social post S3"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Toronto SF Preview — Swiatek vs. Svitolina, August 12 [TIER 2]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Swiatek vs. Svitolina in the Toronto SF Wednesday. H2H: Swiatek leads 4-3 career, but Svitolina has won both 2026 meetings — Indian Wells and Rome. One of the best rivalries in women's tennis right now. #WTA #Tennis #NBO2026",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTA",
+            "#Tennis",
+            "#NBO2026"
+          ],
+          "char_count": 224
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-swiatek-svitolina-toronto-sf-preview.html",
+        "headline": "Swiatek vs. Svitolina in Toronto: The Rivalry That Keeps Reversing in 2026",
+        "word_count": 549
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "article-04 hero image"
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "social post S4"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Shelton vs. Mensik — Defending Champion's Toughest Test Yet [TIER 2]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Shelton vs. Mensik in the Montreal QF. Shelton has not dropped a set in four matches. He is the only top-10 player remaining. Mensik leads the H2H 2-1. The defending champion's clearest test yet. #ATP #Tennis #NBO2026",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATP",
+            "#Tennis",
+            "#NBO2026"
+          ],
+          "char_count": 217
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-shelton-mensik-montreal-qf-preview.html",
+        "headline": "Shelton vs. Mensik in Montreal: The Defending Champion Meets His Clearest Test Yet",
+        "word_count": 534
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "article-05 hero image"
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "social post S5"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
