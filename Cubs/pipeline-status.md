@@ -1,69 +1,71 @@
-# Cubs Pipeline Status — Updated 2026-08-10
+# Cubs Pipeline Status — Updated 2026-08-11
 
 ## Latest Run
-- **Date:** 2026-08-10 (Monday)
+- **Date:** 2026-08-11 (Tuesday)
 - **Run time:** ~09:00 UTC
-- **Stories:** 8
-- **X posts:** 8
+- **Stories:** 7
+- **X posts:** 7
 - **Platforms:** X/Twitter only
 - **Status:** ✅ Complete
 
-## Insights Summary (2026-08-10)
-- **Snapshot generated:** 2026-08-10T08:30:00Z (fresh, 30 min before trigger)
-- **measured_tweet_count:** 124 (robust sample)
+## Insights Summary (2026-08-11)
+- **Snapshot generated:** 2026-08-11T08:30:00Z (fresh, 30 min before trigger)
+- **measured_tweet_count:** 126 (robust sample)
 - **Significant findings (1):**
-  1. `has_score=False` beats `has_score=True` — medium effect (Cliff's delta=0.367, p=0.0005, n=73 vs 51)
-     - **Applied:** All 8 tweets drafted without final game scores. Boyd recap uses pitching line ("Seven innings. Two earned runs.") and win narrative, not "Cubs 10, Royals 2." Cardinals tweet references sell-mode and upcoming visit without a score.
-- `significant_findings_note`: null — single finding cleared all three gates; no other contrasts were significant.
-- Signal note: has_score finding is consistent across Aug 8, 9, and 10 snapshots and growing in sample size. Reliable and actionable.
+  1. `has_score=False` beats `has_score=True` — small effect (Cliff's delta=0.305, p=0.0039, n=76 vs 50, median impressions 127.5 vs 84.5)
+     - **Applied:** All 7 tweets drafted without final game scores. Series preview uses matchup + time framing. Wild Card tweet uses "six games clear" (standings gap, not score). Pre-game hype has no score context. Imanaga tweet uses ERA stats only.
+- `significant_findings_note`: null — single finding cleared all three gates; no other contrasts significant.
+- Signal note: has_score finding is now consistent across Aug 8–11 snapshots with growing sample (124→126). Reliable and actionable. Effect size remains "small" (0.305) vs "medium" (0.367) in the Aug 10 snapshot — slight decrease but still well above the 0.20 threshold.
 
-## Series Context (2026-08-10)
-- `is_series_start_today`: FALSE
-- `off_day`: TRUE — no Cubs game on today's CT date
-- Next game: Tuesday Aug 11 at Washington Nationals, 4:45 PM CT
-- Next homestand: Aug 14-19 vs Cardinals (3 games) and White Sox
-- Applied: Leaned into off-day content. No game-day slots used (6:30 PM, 8:00 PM, 9:30 PM skipped). 8 tweets from 7:00 AM to 3:45 PM covering recap, MVP watch, rotation depth, preview, return watch, rival humor, Happ, and prospects.
+## Series Context (2026-08-11)
+- `is_series_start_today`: TRUE
+- `off_day`: FALSE — Cubs at Washington Nationals, 5:45 PM CT
+- Series: 3-game road trip at Nationals Park (Aug 11-13)
+- Game 1: Imanaga vs Jake Irvin (5.37 ERA), 5:45 PM CT
+- Applied: 7:00 AM slot reserved for mandatory Series Preview. Lead with matchup + location; Imanaga/stakes as kicker.
 
-## Today's Content (2026-08-10)
+## Today's Content (2026-08-11)
 | Slot | Story | Tier |
 |------|-------|------|
-| 7:00 AM CT | Boyd / KC road trip recap (7 IP, 2 ER; Happ HR) | 1 |
-| 8:15 AM CT | PCA 7.8 fWAR, historic Cubs season, solo NL MVP leader | 2 |
-| 9:30 AM CT | Rotation depth: Gausman + Holmes + Boyd + Cabrera incoming | 2 |
-| 10:45 AM CT | Nationals series preview (Gausman vs Cavalli, Tue 4:45 PM CT) | 2 |
-| 12:00 PM CT | Cabrera return watch (1 rehab start away; targets Cardinals homestand) | 2 |
-| 1:15 PM CT | Cardinals sold Dustin May + Romero; coming to Wrigley in 4 days | 3 |
-| 2:30 PM CT | Happ back-to-back HRs in KC; .212 BA season; stretch run timing | 3 |
-| 3:45 PM CT | Prospect pipeline: Bowser grand slam (Knoxville); Wiggins (Iowa) | 3 |
+| 7:00 AM CT | Series preview: Cubs at Nationals, 3-game series, 5:45 PM CT (Imanaga vs Irvin) | 1 |
+| 8:15 AM CT | Imanaga: 7 straight ≤2 ER starts, 2.06 ERA since June 10 | 2 |
+| 9:30 AM CT | PCA MVP frontrunner: officially jumped Ohtani; 37/39/10.8 pace | 2 |
+| 10:45 AM CT | Ian Happ: broke 0-for-22 slump; 70-PA HR drought; Counsell quote; free agency | 2 |
+| 12:00 PM CT | Wild Card watch: 6-1 last 7; six games clear; Cardinals Friday at Wrigley | 2 |
+| 1:15 PM CT | Matchup advantage: Imanaga vs Irvin (5.37 ERA); James Wood IL | 3 |
+| 5:00 PM CT | Pre-game hype: Imanaga, Nationals Park, 5:45 PM CT | 1 |
 
-## Cubs Record as of 2026-08-10
+## Cubs Record as of 2026-08-11 (pre-game)
 - **Record:** 69-50 (No. 1 NL Wild Card)
-- **NL WC cushion:** ~6-7 games over 3rd WC spot (Phillies/D-backs ~62-56)
-- **Brewers:** 73-44 (NL Central leaders)
-- **Cardinals:** ~59-59 (sell mode, coming to Wrigley Aug 14)
+- **NL WC cushion:** 6 games over D-backs (63-56) and Phillies (63-56)
+- **Brewers:** 74-44 (NL Central leaders, 5 GB ahead of Cubs)
+- **Cardinals:** 59-59 (out of contention; coming to Wrigley Aug 14-16)
 
 ## Key Storylines to Watch
-- **Cabrera return:** 3rd rehab start pending; target Aug 14-19 homestand
-- **PCA MVP race:** 7.8 fWAR MLB best; -120 odds; on pace for 2nd 30-30
-- **Nationals series (Aug 11-13):** Road trip; Gausman goes Game 1 vs Cavalli (4:45 PM CT)
-- **Cardinals homestand (Aug 14-16):** First of two upcoming home series
-- **Happ:** Back-to-back HRs in KC; watching stretch run production
+- **Tonight's game:** Imanaga vs Irvin at Nationals Park, 5:45 PM CT
+- **PCA MVP:** Officially jumped Ohtani; 37/39/10.8 pace; approaching 30 HR
+- **Cabrera return:** 3rd rehab start pending; target week of Aug 17 / Aug 14-19 homestand
+- **Happ bounce-back:** Broke 0-for-22 slump in KC; free agency after 2026
+- **James Wood:** Eligible to return Aug 14 (oblique IL since Aug 4)
+- **Cardinals homestand (Aug 14-16):** First Cubs home series vs division rival in sell mode
+- **Nationals series result (Aug 11-13):** Road trip in D.C.
 
-## Pipeline Health (2026-08-10)
-- JSON compiled: ✓ 07-content-data.json valid (schema 2.0, 8 stories, 8 X posts)
-- Char count validation: ✓ All 8 posts under 280 chars (max 277; compile script confirmed)
-- Review dashboard: ✓ Generated locally
-- Dashboard push: ⚠ Skipped (content-dashboards repo not in session scope — expected)
-- Fact-check: ✓ All claims verified; 3 conditional passes (PCA fWAR exact figure, Cavalli ERA single-source, Wiggins ranking from snippet) — all low-risk with hedged language
-- Insights applied: ✓ has_score=False enforced across all 8 tweets
+## Pipeline Health (2026-08-11)
+- JSON compiled: ✓ 07-content-data.json valid (schema 2.0, 7 stories, 7 X posts)
+- Char count validation: ✓ All 7 posts under 280 chars (max 278; compile script confirmed all clear)
+- Review dashboard: ✓ Generated locally (review-dashboard.html)
+- Dashboard push: ⚠ Skipped (content-dashboards repo not in session scope — expected, same as prior runs)
+- Fact-check: ✓ 5 fully verified, 2 conditional passes (Story 2: Cease/Luzardo comparison single-source; Story 3: PCA 37/39/10.8 historic claim single-source — both low-risk, hedged language used)
+- Insights applied: ✓ has_score=False enforced across all 7 tweets
+- Story history: ✓ Appended 7 stories to Cubs/story-history.md
 
 ## Prior Runs (recent)
 | Date | Stories | X Posts | Notes |
 |------|---------|---------|-------|
+| 2026-08-11 | 7 | 7 | Series start (Nationals); Imanaga streak; PCA MVP #1; Happ slump recovery; WC watch; matchup analysis; pre-game hype |
 | 2026-08-10 | 8 | 8 | Off day; Boyd recap; PCA WAR milestone; rotation depth; Nationals preview; Cabrera watch; Cardinals roast; Happ; prospects |
 | 2026-08-09 | 5 | 5 | Holmes recap; PCA solo MVP frontrunner; Wild Card; Bregman; Boyd preview |
 | 2026-08-08 | 8 | 8 | Holmes debut day; Gausman recap; PCA/Bregman arcs; 2 insights applied |
 | 2026-08-07 | 8 | 8 | KC road trip opener; Gausman + Holmes debuts; 2 insights applied |
 | 2026-08-06 | 7 | 7 | Blue Jays single game; PCA 25/25 milestone; 1 insight applied |
 | 2026-08-05 | 7 | 7 | Dodgers sweep game 3; Imanaga wins; 2 insights applied |
-| 2026-08-04 | 6 | 6 | Assad vs Skubal night game; 1 insight applied |

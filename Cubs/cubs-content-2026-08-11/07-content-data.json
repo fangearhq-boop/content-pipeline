@@ -1,0 +1,276 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-11",
+  "compiled_at": "2026-08-11T09:28:13.728927+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Story 1 — Series preview: Cubs at Nationals Park, 5:45 PM CT tonight (Imanaga vs Irvin)",
+      "type": "Informative"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Story 2 — Imanaga 7 straight ≤2 ER starts, 2.06 ERA since June 10",
+      "type": "Informative/Stat"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 3 — PCA officially jumped Ohtani in NL MVP race; 37/39/10.8 pace",
+      "type": "Bold/Analytical"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "Story 4 — Ian Happ broke 0-for-22 slump in KC; free agency context",
+      "type": "Narrative/Informative"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 5 — Wild Card watch: 6 games clear; D-backs/Phillies knotted; Cardinals Friday",
+      "type": "Standings/Bold"
+    },
+    {
+      "time": "1:15 PM",
+      "description": "Story 6 — Matchup advantage: Imanaga vs Irvin (5.37 ERA), James Wood IL'd",
+      "type": "Bold/Analytical"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 7 — Pre-game hype: Imanaga, Nationals Park, 5:45 PM CT",
+      "type": "Hype"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Series Preview — Cubs at Washington Nationals, 3-Game Road Trip",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Cubs (69-50, 6-1 in last 7) open a 3-game road series at Nationals Park tonight at 5:45 PM CT. Shota Imanaga starts Game 1 vs Jake Irvin (5.37 ERA). Washington is 4.5 games out of the Wild Card and missing James Wood (oblique IL). Cubs are playing to extend a stretch-run hot streak. Lead with matchup + location per is_series_start_today rule; Imanaga + stakes as kicker.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Cubs open a 3-game road series at Nationals Park tonight. First pitch: 5:45 PM CT.\n\nWashington is 4.5 games out of the Wild Card — they need wins. Chicago is playing to run it up.\n\nShota Imanaga takes the hill. He's been lights-out. This is a great spot.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative / series preview",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Series Preview — Cubs at Washington Nationals (3-game road series)\n**Facts:**\n- Series: Cubs at Washington Nationals, Nationals Park, 3 games (Aug 11–13)\n- Game 1: Tue Aug 11, 5:45 PM CT — Shota Imanaga vs Jake Irvin\n- Game 2: Wed Aug 12, 5:45 PM CT (probables: Peterson vs Mikolas per pipeline-status notes; not in series-context.json)\n- Game 3: Thu Aug 13, 3:05 PM CT\n- Cubs record: 69-50 (No. 1 NL Wild Card)\n- Nationals record: 59-61\n- H2H 2026: Nationals lead season series 2-1 entering this 3-game set\n- Cubs recent: 6-1 in last 7 games (confirmed via SportsGrid preview)\n- Nationals: \"4.5 games out of a Wild Card spot\" (SportsGrid)\n- Nationals just swept Cincinnati (2 wins); without James Wood (oblique IL since Aug 4)\n- rationale: is_series_start_today=TRUE per series-context.json\n**Key angles:**\n- Cubs come in hot (6-1) vs. Nationals playing for survival in WC race\n- Imanaga vs Irvin (5.37 ERA) is a strong Cubs pitching advantage\n- James Wood absence weakens Nationals lineup significantly\n- Cubs trail in season H2H but have much stronger overall record\n**Sources:** Series-context.json (local), SportsGrid (game preview), MLB.com (gameday), Bleacher Nation (probables post)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Imanaga Dominance — 7 Straight Starts with 2 ER or Fewer",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Shota Imanaga has allowed 2 earned runs or fewer in SEVEN consecutive starts. Since June 10 his ERA in 10 outings is 2.06 — only Cease and Luzardo have been better in that span. He pitches tonight. The Nationals are catching him at the worst possible time.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Shota Imanaga has allowed 2 earned runs or fewer in SEVEN consecutive starts.\n\nSince June 10: 2.06 ERA across 10 outings — only Cease and Luzardo have been better in that span.\n\nHe takes the mound tonight in D.C. The Nationals are in trouble.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Stat breakdown / informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Imanaga Dominance — 7 Straight Starts ≤2 ER\n**Facts:**\n- Season line: 8-9, 3.60 ERA\n- Since June 10 (last 10 starts): 2.06 ERA, 56.2 IP\n- Streak: ≤2 ER allowed in 7 consecutive starts\n- Aug 5 vs Dodgers: 5 IP, 1 ER, 6 K (in Cubs 7-6 win)\n- Last 5 starts before Aug 5: 1.53 ERA, 27 K\n- Context: Only Cease (1.54 ERA in span) and Luzardo (1.98) better than Imanaga's 2.06 ERA since June 10\n- Tonight: starts Game 1 vs Nationals\n**Key angles:**\n- The \"turnaround artist\" arc — Imanaga was 4.74 ERA through first 13 starts, now 2.06 in last 10\n- Pitching tonight against Irvin (5.37 ERA) — stark contrast\n**Sources:** Bleacher Nation (probables post, Imanaga stats), Cubs Insider (Aug 5 lineup), SI.com (projected starters vs Nationals)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "PCA MVP — Officially Jumped Ohtani in NL Race",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Pete Crow-Armstrong has jumped ahead of Shohei Ohtani as the NL MVP frontrunner. His 2026 pace: 37 HR, 39 SB, 10.8 fWAR. Ohtani hasn't pitched since July 3. PCA's two-way dominance — top offensive numbers AND MLB-leading defense — makes the argument overwhelming. He's not just winning the award. He's chasing historic numbers.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Pete Crow-Armstrong has officially jumped ahead of Shohei Ohtani in the NL MVP race.\n\nHis pace: 37 HR, 39 SB, 10.8 fWAR. That combination has never been done in a single MLB season.\n\nPCA isn't just a frontrunner. He's chasing history.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Bold take / analytical",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 262
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "PCA MVP Frontrunner — Jumped Ohtani\n**Facts:**\n- PCA jumped ahead of Shohei Ohtani as NL MVP favorite (Fox Sports, NBC Sports)\n- Previous odds: PCA was at +750 just weeks ago; now the frontrunner\n- Season pace: 37 HR / 39 SB / 10.8 fWAR (from Yardbarker)\n- Context claim: \"There has never been a season in MLB history where a player had 35 HR, 30 SB, and 10 fWAR\" (Yardbarker) — MEDIUM confidence (single source, needs cross-ref)\n- Current fWAR: 7.8 (per pipeline-status Aug 10; \"leads all MLB position players\")\n- Recent: .412 BA in first 5 days of August; last 15 G: .333, 5 HR, 16 RBI, 3 SB\n- Aug 5 vs Dodgers: 6-for-13, 2 HR, 5 RBI in sweep (Chicago Sun-Times)\n- Ohtani note: still limited to DH role (not pitching), which affects his WAR\n**Key angles:**\n- Historic pace framing (37/39/10.8)\n- Head-to-head MVP argument (Ohtani DH-only)\n- PCA not just winning — potentially making history\n**Sources:** Fox Sports, NBC Sports, Yardbarker, Chicago Sun-Times, Last Word on Sports",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Ian Happ — Broke the Slump, Contract Year Urgency",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Ian Happ went 22 at-bats without a hit and 70 plate appearances without a home run. He broke it in Kansas City. Counsell's quote: \"Hopefully we're getting the good Ian back.\" With free agency at the end of 2026, this timing matters. The pivot point is here.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Ian Happ went 22 at-bats without a hit. HR drought: 70 plate appearances.\n\nHe barreled three balls in KC and broke out with a homer.\n\nCounsell: \"Hopefully we're getting the good Ian back.\"\n\nFree agency after 2026. The timing to get hot is RIGHT NOW.\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Narrative / informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Ian Happ — Slump-Breaker in KC\n**Facts:**\n- 2026 season BA: .212 (noted pipeline-status Aug 10)\n- Slump depth: 0-for-22 at-bats, 70 consecutive plate appearances without a HR (drought from July 20)\n- Broke out: HR in Kansas City on Aug 9 (381 ft); also had back-to-back HRs Aug 8–9 per pipeline-status\n- Counsell quote (exact): \"He hit three balls on the screws tonight. So, very good night. He'll sleep good. And hopefully, we're getting the good Ian back.\"\n- Free agent: Happ is a free agent at end of 2026 season\n- Team context: Cubs are 35-16 since June 11 despite Happ's slump\n**Key angles:**\n- Contract-year urgency — this is his audition for his next deal\n- The depth of the slump makes the bounce-back story compelling\n- Counsell's optimism vs. season-long .212 reality\n**Sources:** Daily Herald (series win takeaways), MLB.com/Cubs (Happ HR), Bleed Cubbie Blue (heroes and goats), Cubbies Crib (slump analysis)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Wild Card Watch — Six Games Clear, Cardinals Friday",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Cubs 6-1 in last 7, holding the No. 1 NL Wild Card spot six games clear of the D-backs and Phillies (both 63-56). The race behind them is knotted. Cardinals (59-59) come to Wrigley Friday. This stretch run is starting to feel like a statement.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Cubs have won six of their last seven and hold the No. 1 NL Wild Card spot — six games clear.\n\nThe D-backs and Phillies are knotted for the final two spots. The race behind the Cubs is TIGHT.\n\nCardinals arrive at Wrigley on Friday. Stretch run is here.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Standings / bold",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Wild Card Watch — 6 Games Clear, Cardinals on Friday\n**Facts:**\n- Cubs: 69-50 (No. 1 NL WC)\n- WC2: D-backs 63-56\n- WC3: Phillies 63-56\n- Cubs' lead over WC2/WC3: 6 GB (math: (69-63 + 56-50)/2 = 6)\n- Cubs streak entering series: 6-1 in last 7 games\n- Cardinals: 59-59 — out of Wild Card contention; sold at deadline\n- Cardinals arrive at Wrigley: Aug 14 (Friday)\n- Brewers: 74-44 — 5 GB ahead of Cubs in NL Central; Cubs not closing that gap fast\n**Key angles:**\n- Cubs' cushion is real but the WC2/WC3 race behind them is competitive\n- Cardinals visit Friday as a pivot point (Cubs should beat up on a 59-59 sell-mode team)\n- D-backs and Phillies knotted — Cubs want to watch that race tighten for seeding purposes\n**Sources:** FanGraphs / MLB standings (confirmed via search), Fox Sports (playoff picture), pipeline-status.md",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Matchup Advantage — Imanaga vs Irvin, Wood on IL",
+      "tier": 3,
+      "status": "NEW STORY",
+      "angle": "Tonight's pitching matchup is one of the most favorable the Cubs have had all year. Imanaga (2.06 ERA last 10 starts) vs Jake Irvin (5.37 ERA). The Nationals are also without James Wood — their best hitter — on the IL. Great spot to extend the streak.",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Tonight's matchup tips heavily in the Cubs' favor.\n\nImanaga: 2.06 ERA in his last 10 starts. Jake Irvin: 5.37 ERA on the season.\n\nJames Wood — Washington's best hitter — is on the IL with an oblique.\n\nThis is a great spot to run the streak to seven.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Bold take / game analysis",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 269
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Matchup Advantage — Imanaga vs Irvin + Wood IL\n**Facts:**\n- Jake Irvin season line: 2-5, 5.37 ERA (SportsGrid)\n- Imanaga season line: 8-9, 3.60 ERA overall; 2.06 ERA last 10 starts (confirmed above)\n- James Wood (Nationals): IL'd Aug 4 with left oblique strain, described as \"mild\" / \"subtle\" by manager Blake Butera\n- Wood eligible to return Aug 14 (minimum 10-day IL)\n- Wood described as \"two-time All-Star\" / Nationals' best offensive player (multiple sources)\n- Cubs 1-2 in season H2H vs Nationals, but that record predates Imanaga's current hot streak\n**Key angles:**\n- ERA contrast is stark (2.06 vs 5.37 in relevant recent form)\n- Wood's absence removes Washington's biggest lineup threat for at least Game 1\n- Cubs lineup is healthy (Suzuki back, Happ bouncing back, Bregman hot)\n**Sources:** SportsGrid, Washington Post, MLB Trade Rumors, NBC Sports (Wood IL), Bleacher Nation (Imanaga probables)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 7,
+      "title": "Pre-Game Hype — Imanaga. Nationals Park. 5:45 PM CT.",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "45 minutes before first pitch. Imanaga on the hill, Cubs on a six-game win streak. Short, punchy, fires up fans. This stretch-run team means business.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Shota Imanaga. Nationals Park. 5:45 PM CT.\n\nCubs have won six of their last seven. Imanaga has been virtually unhittable for two months.\n\nGet comfortable. This stretch-run team means business.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Bold / hype",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Pre-Game Hype — Imanaga. Nationals Park. 5:45 PM CT.\n**Facts:**\n- Game time: 5:45 PM CT (confirmed: series-context.json `game_date_ct: \"Tue 5:45 PM CT\"`)\n- Location: Nationals Park, Washington D.C.\n- Cubs: 6-1 last 7 games\n- Imanaga: 7 straight starts ≤2 ER\n- This is a winnable Game 1 on paper\n**Key angles:**\n- Pure momentum + hype: posting ~45 min before first pitch\n- Minimal detail needed — let the streak speak\n**Sources:** Series-context.json (game time), all prior research (streak)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

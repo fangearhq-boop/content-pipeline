@@ -5567,3 +5567,65 @@ Each day's stories are appended at the top (newest first).
   - Wiggins command improvement tracking
   - Bowser next milestones at Double-A
   - Iowa Cubs results with Cabrera rehabbing
+
+---
+
+## 2026-08-11
+
+### STORY 1: Series Preview — Cubs at Washington Nationals, 3-Game Road Trip
+- **Angle:** NEW STORY (is_series_start_today=true; Cubs 69-50, 6-1 last 7; at Nationals Park; Imanaga vs Jake Irvin (5.37 ERA); 5:45 PM CT Game 1; Nationals 59-61, 4.5 GB out of WC; James Wood on IL)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, series preview)
+- **Follow-Up Opportunities:**
+  - Game result recap (tomorrow morning)
+  - Imanaga start performance angle
+  - Series result through Aug 13
+
+### STORY 2: Imanaga Dominance — 7 Straight Starts ≤2 ER, 2.06 ERA Last 10
+- **Angle:** NEW STORY (Imanaga 8-9, 3.60 ERA overall; since June 10: 2.06 ERA across 10 starts; 7 consecutive starts ≤2 ER; pitching tonight in D.C.; only Cease and Luzardo better in that span; NO score per has_score=False insight)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, stat breakdown)
+- **Follow-Up Opportunities:**
+  - Imanaga start result (tomorrow recap)
+  - Streak extension / break
+
+### STORY 3: PCA MVP Frontrunner — Jumped Ohtani
+- **Angle:** FOLLOW UP (last covered Aug 10 with WAR milestone; today's new angle: PCA officially jumped Ohtani in NL MVP race; pace of 37 HR/39 SB/10.8 fWAR; Ohtani still DH-only since July 3; NO score per has_score=False insight)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, bold/analytical)
+- **Follow-Up Opportunities:**
+  - PCA 30th HR milestone (3-4 away)
+  - PCA 30th SB milestone (near threshold)
+  - September MVP ballot watch
+  - Ohtani response
+
+### STORY 4: Ian Happ — Broke 0-for-22 Slump, Contract Year Urgency
+- **Angle:** FOLLOW UP (Happ covered Aug 10 with back-to-back HRs angle; today's new peg: depth of slump — 0-for-22, 70-PA HR drought — + Counsell quote + free agency at end of 2026 as urgency frame; NO score per has_score=False insight)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, narrative/informative)
+- **Follow-Up Opportunities:**
+  - Happ stretch-run production tracking
+  - Happ vs Nationals tonight
+
+### STORY 5: Wild Card Watch — Six Games Clear, Cardinals Friday
+- **Angle:** NEW STORY (Cubs 69-50 WC1; D-backs 63-56 WC2; Phillies 63-56 WC3; Cubs lead by 6 GB; 6-1 in last 7; Cardinals 59-59, coming to Wrigley Aug 14 (Friday); stretch run framing)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, standings/bold)
+- **Follow-Up Opportunities:**
+  - Wild Card gap update after Nationals series
+  - Cardinals series results (Aug 14-16)
+
+### STORY 6: Matchup Advantage — Imanaga vs Irvin (5.37 ERA), James Wood IL
+- **Angle:** NEW STORY (head-to-head breakdown: Imanaga 2.06 ERA last 10 vs Irvin 5.37 season ERA; Nationals missing James Wood on oblique IL; favorable spot to win series opener)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, bold/analytical)
+- **Follow-Up Opportunities:**
+  - James Wood return (eligible Aug 14)
+  - Irvin second matchup performance
+
+### STORY 7: Pre-Game Hype — Imanaga. Nationals Park. 5:45 PM CT.
+- **Angle:** NEW STORY (game-day hype; Imanaga on the hill; Cubs 6-1 last 7; 45 minutes before first pitch)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, bold/hype)
+- **Follow-Up Opportunities:**
+  - Game result recap (tomorrow morning)
