@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-08-11
+
+| Date | Tier | Story | Formats | Status |
+|------|------|-------|---------|--------|
+| 2026-08-11 | T1 | NBA Cup Broadcast Schedule Released — Full Season Schedule Wednesday | X, FB, Article | FOLLOW UP |
+| 2026-08-11 | T1 | Kawhi Leonard — Six-Week Resolution Window, Trade Expected to Clear Before Camp | X, FB, Article | FOLLOW UP |
+| 2026-08-11 | T2 | Stephen Curry — 18 Days Until Extension Window, Discount Debate Brewing | X, FB, Article | FOLLOW UP |
+| 2026-08-11 | T2 | Wembanyama and France — 9 Days to Belgrade, First FIBA Since Paris Olympics | X, FB, Article | FOLLOW UP |
+| 2026-08-11 | T2 | Philadelphia 76ers — Embiid's Best Offseason in Years, LeBron Hyping It | X, FB, Article | FOLLOW UP |
+
+### STORY 1: NBA Cup Broadcast Schedule Released — Full Season Schedule Wednesday
+- **Tier:** 1
+- **Category:** NBA Season Preview / Emirates NBA Cup 2026
+- **Key facts:** NBA Cup broadcast schedule released today (Aug 11) by @NBAPR; Group Play tips off Oct 30; Cup Nights Oct 30, Nov 6, 13, 20, 24, 25, 27; Quarterfinals Dec 4-5; Semifinals Dec 8-9; Championship Dec 11 at Hinkle Fieldhouse (Indianapolis); Prime Video + ESPN + NBC + NBA TV broadcast partners; Western Conference groups: A (Denver/Houston/Phoenix/Dallas/Utah), B (OKC/Minnesota/Clippers/New Orleans/Memphis), C (Spurs/Lakers/Portland/Warriors/Kings); full 2026-27 schedule drops Wednesday Aug 13
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Full schedule release Wednesday; Christmas Day matchup breakdown; Knicks banner night opponent
+
+### STORY 2: Kawhi Leonard — Six-Week Resolution Window
+- **Tier:** 1
+- **Category:** NBA Investigation / Los Angeles Clippers / Toronto Raptors / Kawhi Leonard
+- **Key facts:** HoopsHype Aug 10: belief in league circles that resolution could come within six weeks; Kawhi Leonard himself expects trade to clear before training camp; Silver: "This needs to be wrapped up before the beginning of next season"; fact-finding phase complete, now in resolution mode; trade: Leonard to Toronto for Ingram, Dick, unprotected 2031+2033 picks, 2027 pick swap, 2 second-round picks; probe: $28M Aspiration + Daktronics second deal; Raptors bear risk if they finalize early; penalties possible: fines up to $7.5M, draft picks, suspensions; Kawhi owed $50.3M in 2026-27
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Resolution announcement; penalty structure; trade finalized/vetoed
+
+### STORY 3: Stephen Curry — 18 Days Until Extension Window
+- **Tier:** 2
+- **Category:** NBA Contracts / Golden State Warriors / Stephen Curry
+- **Key facts:** Window opens Aug 29 (18 days); 2yr/$136.7M max expected (~$68M/yr, through age-40 season); mutual interest confirmed (ESPN Slater); would be first NBA player to earn $60M+ in single season; discount debate: Windhorst floated shorter-term structure for flexibility; Western exec: Curry will explore options; Curry said "absolutely" open to sacrifice; Warriors GM Dunleavy: open to whatever structure Curry wants; Warriors 37-45 last season; LeBron chose Philly over GS
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Signing announcement (expect September); terms finalized; Warriors roster moves post-extension
+
+### STORY 4: Wembanyama / France — 9 Days to Belgrade
+- **Tier:** 2
+- **Category:** NBA Offseason / San Antonio Spurs / Victor Wembanyama / France FIBA
+- **Key facts:** Belgrade Aug 20 (9 days away); Orleans rematch Aug 23; qualifiers vs Slovenia Aug 27, at Sweden Aug 30; first FIBA since 2024 Paris Olympics; Fauthoux coaching Wemby for first time; roster includes Gobert + Fournier; France 5-1 in Group L; Wemby quote: "I don't miss the NBA. I miss FIBA."
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Serbia exhibition results; qualifier results; Spurs training camp; Wemby workload report
+
+### STORY 5: Philadelphia 76ers — Embiid Health + LeBron Hype
+- **Tier:** 2
+- **Category:** NBA Offseason / Philadelphia 76ers / Joel Embiid / LeBron James
+- **Key facts:** Nick Nurse confirmed Embiid "in optimal shape" — "probably the first time in a couple of summers. He's in shape, he's active."; Gansey: "the first summer in a long time where he has been healthy"; Embiid viral workout photos; LeBron "Trust the Process" Instagram reaction; LeBron/Maxey working out with trainer Chris Johnson; KCP signed 1yr/$3.88M (Aug 5); Big Four: LeBron/Embiid/Maxey/Brown + Edgecombe (5 combined MVP awards); training camp late September; 76ers haven't won title since 1983
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Training camp opens; Embiid first practice reports; 76ers preseason results; schedule release (Wed) — LeBron debut date
+
 ## 2026-08-10
 
 | Date | Tier | Story | Formats | Status |

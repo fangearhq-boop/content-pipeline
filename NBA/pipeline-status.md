@@ -1,6 +1,18 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Last Run
+- **Date**: 2026-08-11
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters (Stories 2 and 5 tweets trimmed after verify-facts)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** hh-postplanner-2026-08-11.xlsx (7 posts) + hh-postplanner-tobi-2026-08-11.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-08-11/review-dashboard.html (27 items)
+- **Notes:** NBA Cup broadcast schedule released today (full 2026-27 schedule Wednesday Aug 13); Kawhi probe entering resolution phase — 6-week window reported, trade expected to clear before camp; Curry window Aug 29 (18 days), discount debate brewing (Windhorst short-term structure idea); Wemby Belgrade 9 days (Aug 20, first FIBA since Paris Olympics, Fauthoux debut); Embiid best offseason in years — Nick Nurse + Gansey confirmed health, LeBron "Trust the Process" hype
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+## 2026-08-10
 - **Date**: 2026-08-10
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)
