@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-08-11
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch + 2 research agents, 5 stories verified HIGH/MEDIUM confidence), brief (5 stories), research notes (AUSL Series 1 results updated: Ricketts won finale 2-0, Corrick won Game 2 4-3 Grant grand slam, Garcia won Game 1), story analysis, X posts (6; 1 char violation fixed — Story 4 tweet 285→256; all ≤280), FB posts (5 stories), image concepts (9 items; ### STORY headers), image manifest (9 items, not_started), articles (5), fact-check (70 claims), compile (5 stories, 6 tweets, 0 FB posts — format known, 5 articles, 5 images), dashboard (21 items), PostPlanner exports (0 posts — format known). WordPress 403 (proxy blocks ilovesoftball.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks ilovesoftball.com — known). Dashboard publish push failed (proxy known restriction). IMAGE NOT STARTED (manifest recognized but images not yet produced in Canva). PostPlanner: 0 posts compiled (format known). 1 char violation fixed (Story 4 tweet 285→256). 0 char violations after fix.
+- **Key Stories**: LLSWS Johnston County homecoming/Clark legacy — 4th title (2015/2019/2024/2026)/41 Ks/NC trails only TX(14)/FL(8)/CA(5)/Catarozzoli quote (Tier 1 FOLLOW UP), AUSL Series 1 complete — Ricketts won finale 2-0/Corrick Game 2 4-3 Grant grand slam/Garcia Game 1 Williams MVP/Kowalik enters Series 2 (Tier 2 FOLLOW UP), September 1 = 21 days/1,226 Class of 2028 EIS nominations record/Extra Elite 100 published (Tier 2 FOLLOW UP), Texas Tech 2027: Pickering No.2 transfer portal/Beachum .406/.549/.671/Heavener 139.1IP 2.81ERA/none practiced together/fall camp imminent (Tier 2 FOLLOW UP), USA WNT WBSC World Cup Group Stage Sept 12-16 OKC/32 days/5-0 IC gold same venue/Garcia+Mulipola/Gasso (Tier 3 FOLLOW UP)
+
+## Last Run
 - **Date**: 2026-08-10
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch + research agent, 5 stories verified HIGH/MEDIUM confidence), brief (5 stories), research notes, story analysis, X posts (6; all ≤280 — counts verified), FB posts (5 stories), image concepts (9 items; ### STORY headers), image manifest (9 items, not_started), articles (5), fact-check (76 claims), compile (5 stories, 6 tweets, 0 FB posts — format known, 5 articles, 5 images), dashboard (21 items), PostPlanner exports (0 posts — format known). WordPress 403 (proxy blocks ilovesoftball.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
