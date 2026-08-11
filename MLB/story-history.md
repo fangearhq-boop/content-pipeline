@@ -5,6 +5,62 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-11
+
+### Story 1: Field of Dreams 2026 — Two Days Away, Iowa Cubs vs. St. Paul Saints Tonight at Dyersville
+- **Date:** 2026-08-11
+- **Tier:** 1
+- **Classification:** FOLLOW UP (previewed Aug 6-10; game Aug 13 on Netflix; MiLB preview game at Dyersville tonight)
+- **Angle:** 2 days to the August 13 Netflix Field of Dreams game (Twins vs. Phillies, 7:30 PM ET). Tonight: Iowa Cubs vs. St. Paul Saints at Dyersville — only 2nd minor league game ever at the site, 7:30 PM ET MLB Network. HS All-American Game Wednesday Aug 12. 25+ Hall of Famers attending Thursday pregame (Schmidt/Carlton/Rolen for PHI; Mauer/Carew/Blyleven/Molitor for MIN; Thome/Kaat for both) — largest HOF gathering since 2008 ASG. Twins in 1960s pinstripes; Phillies in 1939-41 gray road unis with centennial sleeve patch.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Field of Dreams game recap Aug 14
+  - Netflix viewership numbers
+
+### Story 2: Tarik Skubal Dodgers Debut — 6 IP, 6 K, 2 ER; Cubs Win 5-1 at Wrigley
+- **Date:** 2026-08-11
+- **Tier:** 1
+- **Classification:** NEW (Skubal trade tracked Aug 9-10; debut was Aug 11 at Wrigley — first LA start in 5-1 loss)
+- **Angle:** Two-time AL Cy Young winner Tarik Skubal debuted for the Dodgers today at Wrigley vs. Cubs — 6 IP, 4 H, 2 ER, 2 BB, 6 K. Dodgers lost 5-1. Skubal pitched like the ace he is; offense gave him nothing. Acquired from Detroit for Zyhir Hope, River Ryan, Brady Smith. Pre-trade 2026 stats: 7-5, 2.79 ERA, 116 K in 96⅔ IP. Dodgers inconsistent all August (ended 7-game losing streak Aug 8, lost Aug 9, now lost again Aug 11 despite quality start).
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Skubal next start (5 days)
+  - Dodgers offense regression/improvement
+  - NL West implications
+
+### Story 3: Munetaka Murakami's Japanese-Born HR Record — 7 HRs in First 21 MLB Games
+- **Date:** 2026-08-11
+- **Tier:** 2
+- **Classification:** NEW (record set in first 21 games of 2026 season starting March 26; revisiting milestone as Murakami approaches IL return)
+- **Angle:** Murakami homered in his first MLB at-bat (Opening Day, March 26) and hit 7 HRs in first 21 MLB games — most by any Japanese-born player in first 21 games, surpassing Ohtani's 5 (2018). Also hit 10 in first 25 games and 20 in first 55 games (3rd-fastest ever, behind Bellinger 22 in 2017 and Berger 21 in 1930). Placed on IL with Grade 2 right hamstring strain, missed ~35 games; approaching return from Triple-A Charlotte rehab. Two-time NPB Triple Crown winner. (Note: separate record — Kazuma Okamoto/Blue Jays broke Ohtani's Japanese-born rookie season HR record — different milestone.)
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Murakami return from IL
+  - White Sox stretch run with full lineup
+
+### Story 4: White Sox 61-56, Lead AL Central by 3.5 — 50 Games to Go
+- **Date:** 2026-08-11
+- **Tier:** 2
+- **Classification:** FOLLOW UP (White Sox AL Central lead tracked since July 17; 61-56, Tigers 58-60; angle = final stretch framing)
+- **Angle:** White Sox 61-56, Tigers 58-60, Twins 58-61, Guardians 58-61, Royals 49-70. Colson Montgomery at 26 HRs (3-run shot Aug 9 vs Guardians in 5-3 win). From 41-121 in 2024. ~50 games remaining — division race entering final phase.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - White Sox vs Tigers head-to-head
+  - Montgomery pace toward 30+ HRs
+  - Murakami return impact
+
+### Story 5: Cubs 69-50 — 6-Game NL Wild Card Lead, 43 Games Left
+- **Date:** 2026-08-11
+- **Tier:** 3
+- **Classification:** FOLLOW UP (Cubs NL Wild Card tracked since Aug 5; 69-50, 6 games ahead of D-backs/Phillies at 63-56)
+- **Angle:** Cubs 69-50, top NL Wild Card. D-backs 63-56, Phillies 63-56 (6 games back, same GP). 43 games remaining. Trade deadline adds: Clay Holmes (Mets), Kevin Gausman (Blue Jays). Playing .500 gets them in; they've been better than that all season.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Cubs wild card clinch
+  - D-backs/Phillies pressure
+
+---
+
 ## 2026-08-10
 
 ### Story 1: Matt Olson Plays in His 900th Consecutive Game — Braves Beat Yankees 2-1
