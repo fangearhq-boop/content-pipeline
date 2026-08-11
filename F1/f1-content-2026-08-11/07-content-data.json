@@ -1,0 +1,296 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-11",
+  "compiled_at": "2026-08-11T11:48:18.838376+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Dutch GP — 10 Days to Zandvoort's Final Farewell Sprint",
+      "tier": 1,
+      "status": "",
+      "angle": "The Dutch Grand Prix is 10 days away — and it's the last one ever. Circuit Zandvoort loses its F1 deal after this edition, making August 21-23 the final Formula 1 race at the iconic circuit. To cap it off, it's also the first-ever Sprint weekend at Zandvoort. Championship leader Kimi Antonelli faces Verstappen's home crowd with a 50-point advantage and the most consequential race weekend of the season so far. The summer shutdown ends August 17 — teams return to the factory in just 6 days.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "10 days until the final Dutch Grand Prix.\n\nCircuit Zandvoort hosts F1 for the last time ever on Aug 21-23.\n\nIt's also the first-ever Sprint weekend at Zandvoort.\n\nShutdown ends Aug 17. Six days until teams are back.\n\nThe second half starts now. #F1 #DutchGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#DutchGP"
+          ],
+          "char_count": 257
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Dutch GP weekend format (Aug 21-23):\n\n🏎 Fri: FP1 + Sprint Qualifying\n🏎 Sat AM: Sprint Race\n🏎 Sat PM: GP Qualifying\n🏎 Sun: Race (72 laps) — 15:00 CET\n\nIt's Zandvoort's farewell. First ever Sprint here.\nChampionship on the line. #F1 #DutchGP #Zandvoort",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#DutchGP",
+            "#Zandvoort"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "🏁 10 days. That's all the time left before Circuit Zandvoort hosts its final Formula 1 Grand Prix — ever.\n\nThe Dutch GP takes place August 21-23, and when the chequered flag falls on Sunday August 23, that's it. No more F1 at Zandvoort. The circuit's deal with the sport ends after this edition. It's a farewell run that every F1 fan — not just Dutch fans — should mark on their calendar.\n\nAnd to make it even more memorable, this is also the first-ever Sprint weekend held at Zandvoort. Here's the full format:\n\n- **Friday:** Free Practice 1 + Sprint Qualifying\n- **Saturday AM:** Sprint Race\n- **Saturday PM:** Grand Prix Qualifying\n- **Sunday:** Main Race — 72 laps, 15:00 CET\n\nThe championship context: Kimi Antonelli arrives at his rival's home circuit with a 50-point lead. Max Verstappen, the four-time world champion whose very identity is intertwined with this track and this crowd, has zero race wins in 2026 and an exit clause window sitting open. His team, Red Bull Racing, has been assessed as \"one second off\" the leaders. The home crowd will be watching with complicated feelings.\n\nThe teams return from the summer break on August 17 — six days from now. Then it's five days to race weekend.\n\n💬 Will you be watching Zandvoort's farewell live?\n\n---",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-dutch-gp-zandvoort-farewell-10-days-sprint-debut.html",
+        "headline": "10 Days Until the Last Dutch Grand Prix Ever — And It's a Sprint Weekend",
+        "word_count": 541
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Dutch GP — Zandvoort Farewell\n\n**Image Concept 1 (Social 1080x1350)**\n- **Type:** Gemini AI generated\n- **Mode:** base_only\n- **Prompt:** An aerial view of a dramatic coastal racing circuit with banked corners, sand dunes visible beyond the barriers, dramatic Dutch sky. Sunset lighting, cinematic mood. Space for text overlay at top and bottom. No branding.\n- **Text overlay (Canva):** \"The Last Dutch GP\" / \"Aug 21-23 · Zandvoort\" / \"#DutchGP\"\n\n**Image Concept 2 (Social 1080x1350)**\n- **Type:** Imagn (licensed sports photography)\n- **Search terms:** \"Formula 1 Zandvoort\"\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Dutch GP — 10 Days to Zandvoort's Final Sprint\n**Sources:**\n- Formula1.com: Official 2026 schedule\n- RacingNews365: 2026 Calendar + Dutch GP Preview\n- WorldOfSpeed: Dutch GP schedule, Sprint format guide\n**Key facts (HIGH confidence):**\n- Dutch GP: Round 12 of 22, August 21-23, 2026, Circuit Zandvoort\n- FINAL EVER Dutch Grand Prix — circuit loses F1 deal after this edition\n- FIRST EVER Sprint weekend at Zandvoort\n- Sprint format: FP1 + Sprint Qualifying Friday / Sprint Race + GP Qualifying Saturday / Main Race Sunday 15:00 CET\n- Race: 72 laps at Zandvoort (4.259 km)\n- Summer shutdown ends August 17 (teams return 6 days from now)\n- Season: 22 races total (Bahrain and Saudi Arabian GPs cancelled due to Middle East conflict); 11 rounds remain\n- 291 championship points remain\n- Upcoming after Dutch GP: Italian GP (Monza) September 4-6, Singapore GP later September",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Red Bull's Stinging Midseason Review — Winless, Assessed 5/10, \"Given Up\" on 2026",
+      "tier": 1,
+      "status": "",
+      "angle": "Motorsport Week published a \"stinging assessment\" of Red Bull Racing on August 7, rating the team 5/10 at the summer break. The reigning champions have zero wins in 11 races — a stunning fall from their era of dominance. Former race engineer Rob Smedley put the assessment on record. Reports suggest Red Bull has internally \"given up\" on 2026 and redirected resources to the 2027 car. Verstappen's exit clause window is active through October.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Red Bull Racing: 0 wins in 11 Grands Prix.\n\nFormer race engineer Rob Smedley rated them 5/10 at the summer break.\n\nReports suggest the team has already \"given up\" on 2026 and redirected resources to 2027.\n\nThe fall of the champions continues. #F1 #RedBull",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#RedBull"
+          ],
+          "char_count": 255
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Red Bull's 2026 diagnosis:\n\n❌ 0 race wins\n🔎 Car identified as \"one second off\" leaders\n🔧 Chassis is the problem (not the Ford PU)\n🪙 Development tokens exhausted\n🔮 Resources reportedly shifted to 2027\n\nMax Verstappen has 109 pts and an exit clause window open. #F1 #RedBull",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#RedBull"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": {
+        "long_form": "🔴 Zero wins. Five tenths off the pace. A team that's reportedly already moved on to 2027.\n\nIf you'd said this would describe Red Bull Racing at the summer break of 2026, nobody would have believed you. But here we are.\n\nFormer Formula 1 race engineer Rob Smedley published a mid-year assessment of the 2026 field earlier this month — and he gave Red Bull a 5 out of 10. The reigning dominant team of the sport's recent era has zero wins from 11 Grands Prix. Their car, the RB22, has been described as running \"one second off\" the leaders at some circuits.\n\nHere's what's gone wrong — and what it means:\n\n**The chassis, not the engine.** This is the key distinction: the FIA assessed Red Bull's Ford power unit as among the strongest on the grid. The problem is the aerodynamic package and mechanical platform around it. Red Bull built the wrong chassis for 2026's 50/50 hybrid regulations, and they've now exhausted their development tokens — meaning no meaningful upgrade is coming in the second half of this season.\n\n**Already looking at 2027.** Reports from inside the paddock suggest Red Bull has effectively written off 2026 and redirected significant resources toward building a contender for 2027's rule set. It's a pragmatic decision — but it's also an admission that this season cannot be saved.\n\n**Verstappen's exit clause window.** Max Verstappen's contract runs until 2028, but a performance-related exit clause allows him to leave from 2027 onwards. That window is open right now, running through October 2026. The Dutch GP — at Verstappen's home circuit, in front of his home crowd — arrives with that question unanswered.\n\nThe best results for Verstappen this season: P3 at the Canadian GP (Red Bull's first podium of 2026) and P3 at the Belgian GP (the team's historic 300th F1 podium). In an era where he won 21 Grands Prix in 2023, two podiums as highlights is a sobering number.\n\nThe summer break is ending. Red Bull needs the Dutch GP badly. 📉\n\n---",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-red-bull-stinging-assessment-zero-wins-winless-2026.html",
+        "headline": "Red Bull Racing: Zero Wins, a Stinging Assessment, and a Season Already Being Written Off",
+        "word_count": 592
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Red Bull Midseason\n\n**Image Concept 1 (Social 1080x1350)**\n- **Type:** Gemini AI generated\n- **Mode:** base_only\n- **Prompt:** A red race car blurred in motion, dramatically lit against a dark background. The feeling of speed that has been elusive — powerful yet slightly off-tempo. Atmospheric, not literal. Space for text overlay.\n- **Text overlay (Canva):** \"0 Wins from 11 Races\" / \"The Fall of the Champions\" / \"#F1\"\n\n**Image Concept 2 (Social 1080x1350)**\n- **Type:** Imagn (licensed sports photography)\n- **Search terms:** \"Max Verstappen Red Bull Racing\"\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Red Bull's Stinging Midseason Assessment\n**Sources:**\n- Motorsport Week, Aug 7: Red Bull \"stinging assessment\" — Rob Smedley 5/10 rating\n- Motorsport.com: Red Bull \"one second off\" — sobering reality\n- GiveMeSport: Red Bull reportedly \"giving up\" on 2026\n- ESPN: Verstappen refuses to commit to Red Bull 2026 amid McLaren exit rumors\n- Various: Championship standings confirmed\n**Key facts (HIGH confidence):**\n- Red Bull: 0 wins in 11 Grands Prix of 2026\n- Rob Smedley (former race engineer) rated Red Bull's season 5/10 at midpoint\n- Red Bull admitted car has \"significant shortcomings\" after Chinese GP\n- Team reportedly running \"one second off\" leaders at some circuits\n- Car problem identified as CHASSIS, not Ford power unit (FIA assessed RB Ford ICE as strongest on grid)\n- Red Bull has exhausted development tokens — no significant 2026 car improvement coming\n- Reports Red Bull has \"given up on 2026\" — resources redirected to 2027\n- Isack Hadjar (promoted from Racing Bulls) has P4, P6 among results\n- Verstappen: 0 wins, 4 podiums, approximately 109 points (P6 in championship)\n- Red Bull historic 300th podium at Belgian GP (Spa) — Verstappen P3\n- Red Bull first podium of 2026: Canadian GP (Verstappen P3, Montreal)\n- Exit clause window: active Aug-Oct 2026\n**Key facts (MEDIUM confidence):**\n- McLaren exit rumors described as in \"closing stages\" (SportBible/PlanetF1)\n- Red Bull offered Verstappen €65M/year counter-offer (per pipeline status Aug 10)\n- F1 CEO Domenicali confirmed talks with Verstappen about future",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Kimi Antonelli — 50 Points Clear, 6 Wins, History Within Reach",
+      "tier": 2,
+      "status": "",
+      "angle": "Kimi Antonelli enters the summer break as the dominant force of the 2026 Formula 1 season. The 19-year-old Mercedes driver holds 219 points — 50 ahead of Lewis Hamilton in second — after winning 6 of the first 11 Grands Prix. If he wins the title, he would be the youngest world champion since Sebastian Vettel in 2010. With 291 points still to be scored across 11 rounds, the championship is mathematically open. But Antonelli's lead looks anything but fragile.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Kimi Antonelli at the summer break:\n\n🏆 219 points\n📊 50 ahead of Hamilton\n🏁 6 wins, 6 poles, 9 podiums\n📅 11 rounds remaining\n\nIf he wins the championship, he'd be the youngest F1 World Champion since Vettel in 2010.\n\nHe's 19. #F1 #Antonelli",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Antonelli"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "🏆 Halfway through 2026, one truth is impossible to ignore: Kimi Antonelli is controlling this Formula 1 World Championship.\n\nThe 19-year-old Mercedes driver enters the summer break with 219 points — 50 ahead of Lewis Hamilton in second place. In his rookie season, he has won 6 of the first 11 Grands Prix, taken 6 pole positions, and stood on the podium 9 times. He has not finished outside the points.\n\nLet's put the historical context in perspective. If Antonelli wins the 2026 Formula 1 World Championship, he would be the youngest world champion in the sport's history since Sebastian Vettel claimed his first title in 2010. Vettel was 23. Antonelli would be 19.\n\nThe math: 291 championship points remain across the 11 remaining rounds (including two Sprint weekends). Antonelli's lead of 50 points is real but not insurmountable — Hamilton, Russell, and Leclerc are all within theoretical reach. A string of bad results for Antonelli (as Mercedes has experienced — two DNFs already this season) and a hot second half from Hamilton could change everything.\n\nBut \"could change everything\" is where the caveat stops. Antonelli hasn't lost a session of concentration or composure all season. At his age. In his first year. In a car that happens to be the fastest on the grid under the new 2026 regulations — but a car that demands precision with energy deployment that even experienced drivers have struggled with. Antonelli makes it look easy.\n\nThe Dutch GP, August 21-23, is Round 12. The second half starts with Antonelli in command. 👑\n\n---",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-kimi-antonelli-summer-break-lead-youngest-champion-vettel.html",
+        "headline": "219 Points, 50 Ahead, Age 19: Kimi Antonelli Is Controlling This Championship",
+        "word_count": 494
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Kimi Antonelli\n\n**Image Concept 1 (Social 1080x1350)**\n- **Type:** Gemini AI generated\n- **Mode:** base_only\n- **Prompt:** Trophy podium concept — tall championship trophy silhouetted against dramatic silver and blue gradient background. Stars scattered. Sense of achievement and youth. Space for text overlay.\n- **Text overlay (Canva):** \"219 Points\" / \"50 Ahead at Summer Break\" / \"#Antonelli #F1\"\n\n**Image Concept 2 (Social 1080x1350)**\n- **Type:** Imagn (licensed sports photography)\n- **Search terms:** \"Kimi Antonelli Mercedes\"\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Kimi Antonelli — Championship Leader\n**Sources:**\n- F1-Fansite: 2026 standings\n- RacingNews365: Standings\n- Motorsport.com: \"Championship: Antonelli regains comfort zone\"\n- Formula1.com: Antonelli \"in numbers\" article\n**Key facts (HIGH confidence):**\n- Standings after 11 rounds: Antonelli 219 pts, Hamilton 169 pts, Russell 160 pts, Leclerc 138 pts, Verstappen 109 pts\n- Antonelli: 6 wins, 6 poles, 9 podiums from 11 starts\n- Age: 19 years old\n- Team: Mercedes\n- Youngest potential champion since Sebastian Vettel in 2010 if he wins the title\n- Lando Norris won Hungarian GP — McLaren's FIRST WIN of 2026 season\n- 291 points remaining in 11 rounds (including 2 Sprints)\n- Mercedes Constructors: 379 pts (P1); Ferrari ~307 pts (P2)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Lewis Hamilton at Ferrari — First Win, Stronger H2 Promised, One PU Upgrade Still Coming",
+      "tier": 2,
+      "status": "",
+      "angle": "After a difficult 2025 debut at Ferrari, Lewis Hamilton's 2026 season is \"worlds away\" by his own assessment. He's won Spain, scored points in all 11 races (zero retirements), and sits 2nd in the championship. But the straight-line speed deficit persists — Hamilton has said he loses 0.3-0.4 seconds per lap on straights compared to Mercedes. Ferrari's final ADUO power unit upgrade is still available and coming in the second half. Hamilton is not ruling out a title challenge.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Lewis Hamilton at the summer break:\n\n169 pts. P2 in the championship.\nWon Spain. 0 retirements in 11 races.\nStill 50 behind Antonelli.\n\nFerrari has one PU upgrade remaining for H2.\n\nHamilton: \"It will be stronger.\" #F1 #Ferrari #LH44",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Ferrari",
+            "#LH44"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "🔴 Lewis Hamilton calls his 2026 Ferrari campaign \"worlds away\" from 2025. He's not wrong.\n\nOne year ago, Hamilton was fighting to adapt to a car that felt alien to him, struggling in qualifying, and watching his new teammate Charles Leclerc outperform him. The 2025 season was, by Hamilton's own standards, a difficult transition year.\n\nThe 2026 season has been something different. Hamilton won the Spanish Grand Prix — his first-ever victory for Ferrari. He has scored points in all 11 races, with zero retirements, and currently sits second in the World Championship on 169 points. He has 5 podiums. And in qualifying, he has actually edged ahead of Leclerc — 0.017 seconds per lap faster on average, a reversal from a year earlier when he was 2.5 tenths slower than his teammate.\n\nSo why is he still 50 points behind Antonelli? Two reasons:\n\n1. **Straight-line speed.** Hamilton has consistently described losing 0.3-0.4 seconds per lap compared to the Mercedes on the straights. Ferrari's aerodynamic efficiency under the 2026 50/50 hybrid regulations has lagged behind Mercedes' mastery of the power deployment system.\n\n2. **Ferrari has one more shot.** Under the FIA's Additional Development Upgrade Opportunity (ADUO) system, teams get one bonus power unit upgrade per season. Ferrari used theirs at the Austrian GP. Wait — they still have one more available. Ferrari boss Fred Vasseur has confirmed it's coming in the second half, alongside chassis updates.\n\nHamilton's own prediction: \"It will be stronger.\" That word choice is deliberate. He's not calling it a guaranteed title run. He's putting his team on notice that the second half will be better.\n\nWith 291 points remaining and 50 to make up, better might be just enough. 🏎\n\n---",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-lewis-hamilton-ferrari-second-half-upgrade-title-chase.html",
+        "headline": "Hamilton Says This Ferrari Is \"Worlds Away\" From 2025. He Has One More Weapon Still to Come.",
+        "word_count": 596
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hamilton at Ferrari\n\n**Image Concept 1 (Social 1080x1350)**\n- **Type:** Imagn (licensed sports photography)\n- **Search terms:** \"Lewis Hamilton Ferrari\"\n- **Credit:** (USA TODAY Sports Images)\n\n**Image Concept 2 (Social 1080x1350)**\n- **Type:** Gemini AI generated\n- **Mode:** base_only\n- **Prompt:** Red Ferrari-colored racing car on a long straight, shot from behind, receding toward a horizon with golden light. Symbolizes chasing the leader. Dramatic atmosphere. Space for text overlay.\n- **Text overlay (Canva):** \"50 Points to Close\" / \"H2 Upgrade Coming\" / \"#Hamilton #Ferrari\"\n\n---"
+        }
+      ],
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Hamilton at Ferrari — H2 Outlook\n**Sources:**\n- Silverstone.co.uk: Hamilton 2026 review\n- Motorsport Week, July 30: Hamilton \"stronger\" prediction\n- ESPN: Hamilton eyes stronger H2\n- RaceFans, Aug 6: Hamilton vs. Leclerc H2H at summer break\n- Sky Sports: Vasseur on improvement areas\n**Key facts (HIGH confidence):**\n- Hamilton: 169 pts, P2 in championship; 50 pts behind Antonelli\n- Won Spanish Grand Prix (his first win for Ferrari)\n- Scored points in ALL 11 races (no retirements) — crucial consistency advantage\n- 5 podiums total, no finish outside top 6\n- H2H vs. Leclerc: qualifying 6-5 Leclerc leads; race results 6-5 Hamilton leads\n- Hamilton consistently 0.017s faster than Leclerc in qualifying (reversal from 2025)\n- Ferrari's straight-line speed deficit: Hamilton says loses 0.3-0.4 sec/lap vs Mercedes on straights\n- Ferrari's ADUO (Additional Development Upgrade Opportunity): one PU upgrade remaining for H2\n- Ferrari brought previous PU upgrade for Austrian GP; one more available\n- Hamilton quote: \"worlds away\" from his 2025 difficulties at Ferrari\n- Hamilton predicts Ferrari will be \"stronger\" in H2\n**Key facts (MEDIUM confidence):**\n- Ferrari boss Vasseur confirmed will bring chassis upgrades through H2\n- Leclerc quote: \"overtaking has become significantly more complicated\" in 2026",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "George Russell Proposes During the Summer Break — A Season of Disasters Gets a Happy Chapter",
+      "tier": 2,
+      "status": "",
+      "angle": "George Russell proposed to long-term girlfriend Carmen Mundt during the F1 summer break — and she said yes. It's a joyful personal milestone for a driver whose 2026 season has been defined by bad luck: technical failure in China, safety car timing in Japan, a Monaco penalty, an engine DNF while leading in Canada, power unit issues in Belgium, and an anti-stall issue at the start in Hungary. He said: \"I've never had a season like this in my career.\" For one week, the 2026 season is background noise.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "After the DNF while leading Canada... the Monaco penalty... the Belgium PU failure...\n\nGeorge Russell proposed to Carmen Mundt during the summer break.\n\nShe said yes. 💍\n\nBest news of his 2026 season. #F1 #GeorgeRussell",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#GeorgeRussell"
+          ],
+          "char_count": 218
+        }
+      ],
+      "facebook": {
+        "long_form": "💍 In a 2026 season full of bad timing for George Russell, the summer break came with the best timing imaginable.\n\nThe Mercedes driver proposed to his long-term girlfriend, Carmen Mundt, during the Formula 1 summer break. She said yes.\n\nFor Russell, who is objectively having one of the most frustrating seasons any driver with genuine pace and pace potential could experience, this is the happiest news of the year.\n\nHere's what his 2026 has looked like so far:\n\n- **Australia:** Won the race. Started with promise.\n- **China:** Technical failure ended his race.\n- **China Sprint:** Won the Sprint. A glimmer.\n- **Japan:** Safety car timing that wiped out his strategy.\n- **Monaco:** A penalty that cost him a strong result.\n- **Canada:** DNF — while *leading* the race. An engine failure took him out of what would have been a commanding victory.\n- **Belgium:** Power unit issues.\n- **Hungary:** Anti-stall engaged before Turn 1, destroying his race start.\n\nHe sits third in the championship on 160 points — theoretically competitive with the leaders. But he has won just two races this season, compared to Antonelli's six, and every near-miss has been the result of forces beyond his control. David Coulthard said Russell's season is \"beyond a Rocky story.\" Sky Sports quoted him directly: \"I've never had a season like this in my career.\"\n\nAnd then: one perfect moment during the break.\n\nThe second half is about to begin — at Zandvoort, on August 21. For a week, George Russell gets to be just a man who proposed to the person he loves. 🥂\n\n---",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-george-russell-proposes-carmen-mundt-summer-break.html",
+        "headline": "After a Season of Disasters, George Russell Got the Best News of His Year During the Break",
+        "word_count": 511
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Russell Proposes\n\n**Image Concept 1 (Social 1080x1350)**\n- **Type:** Gemini AI generated\n- **Mode:** base_only\n- **Prompt:** Close-up of a diamond engagement ring on a dark velvet box, soft bokeh background with warm golden light. Romantic and celebratory. Space for text at top.\n- **Text overlay (Canva):** \"She Said Yes 💍\" / \"#GeorgeRussell\"\n\n**Image Concept 2 (Social 1080x1350)**\n- **Type:** Imagn (licensed sports photography)\n- **Search terms:** \"George Russell Mercedes\"\n- **Credit:** (USA TODAY Sports Images)"
+        }
+      ],
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 11,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "George Russell Proposes During Summer Break\n**Sources:**\n- GPFans summer break roundup\n- Sky Sports: Russell \"I've never had a season like this\"\n- Motorsport.com: Coulthard assessment\n**Key facts (HIGH confidence):**\n- George Russell proposed to long-term girlfriend Carmen Mundt during summer break\n- She said yes\n- Russell's 2026 season misfortunes: technical failure China, safety car timing Japan, Monaco penalty, engine DNF while leading Canada, PU issues Belgium, anti-stall Hungary\n- Russell quote: \"I've never had a season like this in my career\"\n- Russell: 160 pts, P3 in championship behind Antonelli and Hamilton\n- Russell's wins: Won Australia and China Sprint (the only race wins he has in 2026)\n- David Coulthard described Russell's season as \"beyond a Rocky story\" (Motorsport.com)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

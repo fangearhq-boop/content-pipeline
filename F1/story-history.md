@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-08-11
+
+| Date | Tier | Story | Formats | Status |
+|------|------|-------|---------|--------|
+| 2026-08-11 | T1 | Dutch GP — 10 Days to Zandvoort's Final Farewell Sprint | X, FB, Article | FOLLOW UP |
+| 2026-08-11 | T1 | Red Bull's Stinging Midseason Review — Winless, 5/10, "Given Up" on 2026 | X, FB, Article | FOLLOW UP |
+| 2026-08-11 | T2 | Kimi Antonelli — 50 Points Clear, 6 Wins, Youngest Since Vettel 2010 | X, FB, Article | FOLLOW UP |
+| 2026-08-11 | T2 | Lewis Hamilton at Ferrari — First Win, H2 Upgrade Plan, Title Still in Play | X, FB, Article | FOLLOW UP |
+| 2026-08-11 | T2 | George Russell Proposes to Carmen Mundt During Summer Break | X, FB, Article | NEW |
+
+### STORY 1: Dutch GP — 10 Days to Zandvoort's Final Sprint
+- **Tier:** 1
+- **Category:** F1 Race Preview / Dutch Grand Prix / Zandvoort
+- **Key facts:** Round 12 of 22, Aug 21-23, Circuit Zandvoort; FINAL EVER Dutch GP (circuit loses F1 deal); FIRST EVER Sprint at Zandvoort; Sprint format: FP1+Sprint Qual Fri / Sprint+GP Qual Sat / Race Sun 15:00 CET; 72 laps; 291 pts remaining; shutdown ends Aug 17 (6 days); next: Italian GP Monza Sept 4-6
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Sprint result; GP qualifying; race result; Verstappen Dutch GP performance with exit clause active
+
+### STORY 2: Red Bull Stinging Midseason Assessment
+- **Tier:** 1
+- **Category:** F1 Team Analysis / Red Bull Racing / Max Verstappen
+- **Key facts:** Rob Smedley 5/10 assessment (Motorsport Week, Aug 7); 0 wins from 11 GPs; car "one second off" leaders; chassis is problem (not Ford PU); tokens exhausted; reports: resources redirected to 2027; Verstappen ~109 pts P6; best results: P3 Canada (first podium of 2026), P3 Belgium (300th team podium); Hadjar promoted from Racing Bulls; exit clause window Aug-Oct active
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Dutch GP result; Verstappen exit clause decision; Red Bull 2027 development update
+
+### STORY 3: Kimi Antonelli Championship Lead
+- **Tier:** 2
+- **Category:** F1 Championship / Kimi Antonelli / Mercedes
+- **Key facts:** 219 pts, 50 ahead of Hamilton; 6 wins, 6 poles, 9 podiums in 11 starts; age 19; Mercedes Constructors 379 pts; 291 pts remaining in 11 rounds; youngest potential champion since Vettel 2010 (who was 23); Norris won Hungarian GP (McLaren's first 2026 win)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Dutch GP result; championship math after Round 12; H2 challenge from Hamilton
+
+### STORY 4: Hamilton at Ferrari — H2 Plan
+- **Tier:** 2
+- **Category:** F1 Championship / Lewis Hamilton / Ferrari
+- **Key facts:** 169 pts P2; Spanish GP win (first ever Ferrari win); 0 retirements in 11 races; 5 podiums; 0.017s/lap faster than Leclerc in qualifying (reversal from 2025); straight-line deficit 0.3-0.4 sec/lap vs Mercedes; one ADUO PU upgrade remaining; "worlds away" from 2025; predicts H2 "will be stronger"; H2H vs Leclerc: qualifying 6-5 Leclerc, race results 6-5 Hamilton
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Dutch GP result; Ferrari ADUO upgrade arrival; championship gap trajectory
+
+### STORY 5: George Russell Proposes to Carmen Mundt
+- **Tier:** 2
+- **Category:** F1 Off-Track / George Russell / Mercedes
+- **Key facts:** Proposed to Carmen Mundt during F1 summer break; she said yes; Russell's 2026 disasters: China failure, Japan safety car, Monaco penalty, Canada engine DNF while leading, Belgium PU issues, Hungary anti-stall; quote: "I've never had a season like this in my career"; Coulthard: "beyond a Rocky story"; Russell 160 pts P3 in championship; won Australia + China Sprint
+- **Status:** NEW
+- **Follow-up ideas:** Wedding announcement; Russell second-half results
+
 ## 2026-08-10
 
 | Date | Tier | Story | Formats | Status |

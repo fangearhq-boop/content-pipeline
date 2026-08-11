@@ -1,6 +1,18 @@
 # F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
+- **Date**: 2026-08-11
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters (Story 5 tweet trimmed after verify-facts: 284→218 chars)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Elena Voss, Marcus Cole, Ryan Calloway, Elena Voss)
+- **PostPlanner exports:** f1fr-postplanner-2026-08-11.xlsx (7 posts) + f1fr-postplanner-tobi-2026-08-11.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-08-11/review-dashboard.html (27 items)
+- **Notes:** Dutch GP 10 days away (Aug 21-23 Zandvoort, final ever race, first Sprint at circuit, shutdown ends Aug 17); Red Bull 0 wins in 11 races, Rob Smedley 5/10 assessment (Aug 7), tokens exhausted, reports team redirected to 2027, Verstappen exit clause window still open; Antonelli 219 pts (50 clear), 6 wins, youngest since Vettel 2010 if wins; Hamilton 169 pts P2, Spanish GP win, 0 retirements, 5 podiums, one ADUO PU upgrade remaining H2, predicts "stronger"; Russell proposes to Carmen Mundt during summer break — she said yes
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+## 2026-08-10
 - **Date**: 2026-08-10
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)
