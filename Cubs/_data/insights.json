@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-10T08:30:00.148390+00:00",
+  "generated_at": "2026-08-11T08:30:00.236734+00:00",
   "account": "cubs",
   "window_days": 21,
-  "tweet_count": 124,
-  "measured_tweet_count": 124,
-  "measured_median_impressions": 113.5,
-  "measured_mean_impressions": 332.08,
-  "median_impressions": 113.5,
-  "mean_impressions": 332.08,
+  "tweet_count": 126,
+  "measured_tweet_count": 126,
+  "measured_median_impressions": 105.5,
+  "measured_mean_impressions": 325.11,
+  "median_impressions": 105.5,
+  "mean_impressions": 325.11,
   "max_impressions": 12603,
   "significant_findings": [
     {
@@ -15,13 +15,13 @@
       "kind": "binary",
       "winner": "False",
       "loser": "True",
-      "median_impressions_winner": 146,
-      "median_impressions_loser": 92,
-      "n_winner": 73,
-      "n_loser": 51,
-      "p_value": 0.0005,
-      "effect_size_cliffs_delta": 0.367,
-      "effect_size_label": "medium"
+      "median_impressions_winner": 127.5,
+      "median_impressions_loser": 84.5,
+      "n_winner": 76,
+      "n_loser": 50,
+      "p_value": 0.0039,
+      "effect_size_cliffs_delta": 0.305,
+      "effect_size_label": "small"
     }
   ],
   "significant_findings_note": null,
@@ -37,9 +37,36 @@
   },
   "raw_buckets": {
     "by_hour_ct": {
+      "15": {
+        "n": 6,
+        "mean": 2174.67,
+        "median": 97.5,
+        "top": {
+          "impressions": 12603,
+          "text": "Owen Ayers just got his Triple-A ticket.\n\nThe Cubs' slugging prospect earned the call-up to Iowa after tearing up Double-A \u2014 one of the most exciting bats in the system, now one step from Wrigley.\n\nThe pipeline is moving. \ud83d\udcaa\n\n#Cubs #CubsBase"
+        }
+      },
+      "14": {
+        "n": 6,
+        "mean": 1186.5,
+        "median": 173.5,
+        "top": {
+          "impressions": 6445,
+          "text": "Julian Merryweather is back on the IL \u2014 right knee tendonitis, second stint this season.\n\nThompson and Palencia recalled. Zeferjahn already in the fold from the deadline.\n\nHoyer built a bullpen with depth for exactly this reason.\n\n#Cubs #Cu"
+        }
+      },
+      "13": {
+        "n": 4,
+        "mean": 68.75,
+        "median": 63.0,
+        "top": {
+          "impressions": 94,
+          "text": "Cubs are 58-45 \u2014 No. 1 NL Wild Card \u2014 and they just won in extras with a thinned-out rotation.\n\nThe Phillies and D-backs are chasing. The Cubs are finding ways to win.\n\nThat's the difference right now.\n\n#Cubs #NorthSiders #MLB"
+        }
+      },
       "12": {
         "n": 18,
-        "mean": 215.11,
+        "mean": 216.44,
         "median": 145.5,
         "top": {
           "impressions": 848,
@@ -48,8 +75,8 @@
       },
       "10": {
         "n": 19,
-        "mean": 149.42,
-        "median": 98,
+        "mean": 145.95,
+        "median": 87,
         "top": {
           "impressions": 686,
           "text": "13 days to the deadline. The Cubs just saw Thornton leave with a comebacker to the leg. The rotation that needed Taillon to come back healthy got 4.1 rusty innings.\n\nSonny Gray. Joe Ryan. Michael Wacha. Jed Hoyer has the chips and the need."
@@ -57,8 +84,8 @@
       },
       "9": {
         "n": 20,
-        "mean": 328.7,
-        "median": 133.0,
+        "mean": 324.15,
+        "median": 115.5,
         "top": {
           "impressions": 1421,
           "text": "Alex Bregman is getting hot at exactly the right time.\n\nOver his last 12 games: .314 BA, 4 HR, 11 RBI \u2014 and he's attacking the zone more aggressively than he has all season.\n\nAugust is historically his best month. He looks locked in right n"
@@ -66,7 +93,7 @@
       },
       "8": {
         "n": 20,
-        "mean": 121.7,
+        "mean": 119.5,
         "median": 95.5,
         "top": {
           "impressions": 295,
@@ -75,8 +102,8 @@
       },
       "7": {
         "n": 20,
-        "mean": 133.1,
-        "median": 97.5,
+        "mean": 130.6,
+        "median": 95.5,
         "top": {
           "impressions": 641,
           "text": "Pete Crow-Armstrong won it in the seventh.\n\nA go-ahead triple from PCA, Nico Hoerner's sixth home run to tie things first \u2014 the Cubs answered Game 1's shutout and forced a rubber match.\n\nSunday at Wrigley. Winner takes the series. \u26be\n\n#Cubs "
@@ -84,29 +111,11 @@
       },
       "17": {
         "n": 10,
-        "mean": 175.1,
+        "mean": 175.7,
         "median": 111.0,
         "top": {
           "impressions": 550,
           "text": "Cardinals fans have been calling themselves contenders since spring.\n\nThey're 53-52. The Cubs are 59-46 and holding down the No. 1 Wild Card.\n\nBusch Stadium tonight. Let's sort this out.\n\n#Cubs #GoCubs #FlyTheW"
-        }
-      },
-      "14": {
-        "n": 5,
-        "mean": 1413,
-        "median": 190,
-        "top": {
-          "impressions": 6445,
-          "text": "Julian Merryweather is back on the IL \u2014 right knee tendonitis, second stint this season.\n\nThompson and Palencia recalled. Zeferjahn already in the fold from the deadline.\n\nHoyer built a bullpen with depth for exactly this reason.\n\n#Cubs #Cu"
-        }
-      },
-      "13": {
-        "n": 3,
-        "mean": 72,
-        "median": 67,
-        "top": {
-          "impressions": 94,
-          "text": "Cubs are 58-45 \u2014 No. 1 NL Wild Card \u2014 and they just won in extras with a thinned-out rotation.\n\nThe Phillies and D-backs are chasing. The Cubs are finding ways to win.\n\nThat's the difference right now.\n\n#Cubs #NorthSiders #MLB"
         }
       },
       "16": {
@@ -117,22 +126,22 @@
           "impressions": 372,
           "text": "The Brewers are reportedly among the frontrunners for Tarik Skubal.\n\nThe same Brewers already 6.5 games ahead of the Cubs in the NL Central.\n\nIf Milwaukee lands him, Hoyer loses his top target AND the gap widens.\n\nFour days left.\n\n#Cubs #ML"
         }
-      },
-      "15": {
-        "n": 6,
-        "mean": 2192.33,
-        "median": 117.0,
+      }
+    },
+    "by_weekday_ct": {
+      "Mon": {
+        "n": 22,
+        "mean": 789.86,
+        "median": 122.5,
         "top": {
           "impressions": 12603,
           "text": "Owen Ayers just got his Triple-A ticket.\n\nThe Cubs' slugging prospect earned the call-up to Iowa after tearing up Double-A \u2014 one of the most exciting bats in the system, now one step from Wrigley.\n\nThe pipeline is moving. \ud83d\udcaa\n\n#Cubs #CubsBase"
         }
-      }
-    },
-    "by_weekday_ct": {
+      },
       "Sun": {
         "n": 16,
-        "mean": 142.62,
-        "median": 85.5,
+        "mean": 145.75,
+        "median": 86.5,
         "top": {
           "impressions": 641,
           "text": "Pete Crow-Armstrong won it in the seventh.\n\nA go-ahead triple from PCA, Nico Hoerner's sixth home run to tie things first \u2014 the Cubs answered Game 1's shutout and forced a rubber match.\n\nSunday at Wrigley. Winner takes the series. \u26be\n\n#Cubs "
@@ -149,10 +158,10 @@
       },
       "Fri": {
         "n": 14,
-        "mean": 118.93,
-        "median": 103.0,
+        "mean": 122.14,
+        "median": 106.5,
         "top": {
-          "impressions": 244,
+          "impressions": 254,
           "text": "Kevin Gausman makes his Cubs debut tonight at Kauffman Stadium, 7:10 PM CT.\n\nClay Holmes follows Saturday. Cabrera on track for mid-August. This rotation just got very interesting.\n\nStretch run starts now.\n\n#Cubs #GoCubs #FlyTheW"
         }
       },
@@ -182,22 +191,13 @@
           "impressions": 6445,
           "text": "Julian Merryweather is back on the IL \u2014 right knee tendonitis, second stint this season.\n\nThompson and Palencia recalled. Zeferjahn already in the fold from the deadline.\n\nHoyer built a bullpen with depth for exactly this reason.\n\n#Cubs #Cu"
         }
-      },
-      "Mon": {
-        "n": 20,
-        "mean": 884.3,
-        "median": 163.0,
-        "top": {
-          "impressions": 12603,
-          "text": "Owen Ayers just got his Triple-A ticket.\n\nThe Cubs' slugging prospect earned the call-up to Iowa after tearing up Double-A \u2014 one of the most exciting bats in the system, now one step from Wrigley.\n\nThe pipeline is moving. \ud83d\udcaa\n\n#Cubs #CubsBase"
-        }
       }
     },
     "by_content_type": {
       "brief": {
-        "n": 124,
-        "mean": 332.08,
-        "median": 113.5,
+        "n": 126,
+        "mean": 325.11,
+        "median": 105.5,
         "top": {
           "impressions": 12603,
           "text": "Owen Ayers just got his Triple-A ticket.\n\nThe Cubs' slugging prospect earned the call-up to Iowa after tearing up Double-A \u2014 one of the most exciting bats in the system, now one step from Wrigley.\n\nThe pipeline is moving. \ud83d\udcaa\n\n#Cubs #CubsBase"
@@ -205,28 +205,28 @@
       }
     },
     "by_opening": {
-      "stat_lead": {
-        "n": 13,
-        "mean": 183.23,
-        "median": 120,
-        "top": {
-          "impressions": 666,
-          "text": "Pete Crow-Armstrong in 2026: .290/.388/.545, .932 OPS, 23 HR, 26 SB.\n\nHe's doing this while the Cubs have shuffled through rotation injuries all season. Not a hot streak \u2014 this is who he is now.\n\nThe NL MVP conversation doesn't start withou"
-        }
-      },
       "statement": {
-        "n": 94,
-        "mean": 393.47,
-        "median": 113.5,
+        "n": 98,
+        "mean": 377.47,
+        "median": 101.5,
         "top": {
           "impressions": 12603,
           "text": "Owen Ayers just got his Triple-A ticket.\n\nThe Cubs' slugging prospect earned the call-up to Iowa after tearing up Double-A \u2014 one of the most exciting bats in the system, now one step from Wrigley.\n\nThe pipeline is moving. \ud83d\udcaa\n\n#Cubs #CubsBase"
         }
       },
+      "stat_lead": {
+        "n": 12,
+        "mean": 190.67,
+        "median": 116.5,
+        "top": {
+          "impressions": 666,
+          "text": "Pete Crow-Armstrong in 2026: .290/.388/.545, .932 OPS, 23 HR, 26 SB.\n\nHe's doing this while the Cubs have shuffled through rotation injuries all season. Not a hot streak \u2014 this is who he is now.\n\nThe NL MVP conversation doesn't start withou"
+        }
+      },
       "allcaps_lead": {
-        "n": 17,
-        "mean": 106.47,
-        "median": 108,
+        "n": 16,
+        "mean": 105.25,
+        "median": 110.0,
         "top": {
           "impressions": 206,
           "text": "First pitch at PNC Park in 40 minutes. \ud83d\udd25\n\nMatthew Boyd brings a 4-game win streak into Pittsburgh. Jared Jones returns from Tommy John surgery tonight trying to match him.\n\nWild Card standings on the line. The Cubs don't back down. Let's go"
@@ -234,22 +234,22 @@
       }
     },
     "by_len_bucket": {
-      "200-260": {
-        "n": 74,
-        "mean": 417.76,
-        "median": 119.0,
-        "top": {
-          "impressions": 12603,
-          "text": "Owen Ayers just got his Triple-A ticket.\n\nThe Cubs' slugging prospect earned the call-up to Iowa after tearing up Double-A \u2014 one of the most exciting bats in the system, now one step from Wrigley.\n\nThe pipeline is moving. \ud83d\udcaa\n\n#Cubs #CubsBase"
-        }
-      },
       "260+": {
         "n": 47,
-        "mean": 213.64,
-        "median": 116,
+        "mean": 208.47,
+        "median": 98,
         "top": {
           "impressions": 1421,
           "text": "Alex Bregman is getting hot at exactly the right time.\n\nOver his last 12 games: .314 BA, 4 HR, 11 RBI \u2014 and he's attacking the zone more aggressively than he has all season.\n\nAugust is historically his best month. He looks locked in right n"
+        }
+      },
+      "200-260": {
+        "n": 76,
+        "mean": 407.14,
+        "median": 109.0,
+        "top": {
+          "impressions": 12603,
+          "text": "Owen Ayers just got his Triple-A ticket.\n\nThe Cubs' slugging prospect earned the call-up to Iowa after tearing up Double-A \u2014 one of the most exciting bats in the system, now one step from Wrigley.\n\nThe pipeline is moving. \ud83d\udcaa\n\n#Cubs #CubsBase"
         }
       },
       "140-200": {
@@ -264,9 +264,9 @@
     },
     "by_hashtag_count": {
       "3": {
-        "n": 124,
-        "mean": 332.08,
-        "median": 113.5,
+        "n": 126,
+        "mean": 325.11,
+        "median": 105.5,
         "top": {
           "impressions": 12603,
           "text": "Owen Ayers just got his Triple-A ticket.\n\nThe Cubs' slugging prospect earned the call-up to Iowa after tearing up Double-A \u2014 one of the most exciting bats in the system, now one step from Wrigley.\n\nThe pipeline is moving. \ud83d\udcaa\n\n#Cubs #CubsBase"
@@ -274,50 +274,50 @@
       }
     },
     "by_has_score": {
+      "False": {
+        "n": 76,
+        "mean": 451.17,
+        "median": 127.5,
+        "top": {
+          "impressions": 12603,
+          "text": "Owen Ayers just got his Triple-A ticket.\n\nThe Cubs' slugging prospect earned the call-up to Iowa after tearing up Double-A \u2014 one of the most exciting bats in the system, now one step from Wrigley.\n\nThe pipeline is moving. \ud83d\udcaa\n\n#Cubs #CubsBase"
+        }
+      },
       "True": {
-        "n": 51,
-        "mean": 134.67,
-        "median": 92,
+        "n": 50,
+        "mean": 133.5,
+        "median": 84.5,
         "top": {
           "impressions": 848,
           "text": "The Cubs hold the No. 1 NL Wild Card at 63-49.\n\nD-backs and Phillies are chasing \u2014 both 4-5 games back. The Brewers have the division, but Chicago doesn't need it.\n\nJust keep stacking wins. The Dodgers are here to challenge that.\n\n#Cubs #No"
         }
-      },
-      "False": {
-        "n": 73,
-        "mean": 470,
-        "median": 146,
-        "top": {
-          "impressions": 12603,
-          "text": "Owen Ayers just got his Triple-A ticket.\n\nThe Cubs' slugging prospect earned the call-up to Iowa after tearing up Double-A \u2014 one of the most exciting bats in the system, now one step from Wrigley.\n\nThe pipeline is moving. \ud83d\udcaa\n\n#Cubs #CubsBase"
-        }
       }
     },
     "by_has_stat": {
-      "True": {
-        "n": 52,
-        "mean": 199.69,
-        "median": 118.0,
-        "top": {
-          "impressions": 1421,
-          "text": "Alex Bregman is getting hot at exactly the right time.\n\nOver his last 12 games: .314 BA, 4 HR, 11 RBI \u2014 and he's attacking the zone more aggressively than he has all season.\n\nAugust is historically his best month. He looks locked in right n"
-        }
-      },
       "False": {
-        "n": 72,
-        "mean": 427.69,
-        "median": 105.0,
+        "n": 73,
+        "mean": 419.58,
+        "median": 100,
         "top": {
           "impressions": 12603,
           "text": "Owen Ayers just got his Triple-A ticket.\n\nThe Cubs' slugging prospect earned the call-up to Iowa after tearing up Double-A \u2014 one of the most exciting bats in the system, now one step from Wrigley.\n\nThe pipeline is moving. \ud83d\udcaa\n\n#Cubs #CubsBase"
+        }
+      },
+      "True": {
+        "n": 53,
+        "mean": 195,
+        "median": 110,
+        "top": {
+          "impressions": 1421,
+          "text": "Alex Bregman is getting hot at exactly the right time.\n\nOver his last 12 games: .314 BA, 4 HR, 11 RBI \u2014 and he's attacking the zone more aggressively than he has all season.\n\nAugust is historically his best month. He looks locked in right n"
         }
       }
     },
     "by_has_emoji_first_line": {
       "False": {
-        "n": 120,
-        "mean": 338.47,
-        "median": 110.0,
+        "n": 122,
+        "mean": 331.16,
+        "median": 104.0,
         "top": {
           "impressions": 12603,
           "text": "Owen Ayers just got his Triple-A ticket.\n\nThe Cubs' slugging prospect earned the call-up to Iowa after tearing up Double-A \u2014 one of the most exciting bats in the system, now one step from Wrigley.\n\nThe pipeline is moving. \ud83d\udcaa\n\n#Cubs #CubsBase"
@@ -334,22 +334,22 @@
       }
     },
     "by_has_allcaps": {
-      "True": {
-        "n": 99,
-        "mean": 256.37,
-        "median": 116,
-        "top": {
-          "impressions": 6445,
-          "text": "Julian Merryweather is back on the IL \u2014 right knee tendonitis, second stint this season.\n\nThompson and Palencia recalled. Zeferjahn already in the fold from the deadline.\n\nHoyer built a bullpen with depth for exactly this reason.\n\n#Cubs #Cu"
-        }
-      },
       "False": {
-        "n": 25,
-        "mean": 631.88,
-        "median": 100,
+        "n": 27,
+        "mean": 586.26,
+        "median": 92,
         "top": {
           "impressions": 12603,
           "text": "Owen Ayers just got his Triple-A ticket.\n\nThe Cubs' slugging prospect earned the call-up to Iowa after tearing up Double-A \u2014 one of the most exciting bats in the system, now one step from Wrigley.\n\nThe pipeline is moving. \ud83d\udcaa\n\n#Cubs #CubsBase"
+        }
+      },
+      "True": {
+        "n": 99,
+        "mean": 253.89,
+        "median": 110,
+        "top": {
+          "impressions": 6445,
+          "text": "Julian Merryweather is back on the IL \u2014 right knee tendonitis, second stint this season.\n\nThompson and Palencia recalled. Zeferjahn already in the fold from the deadline.\n\nHoyer built a bullpen with depth for exactly this reason.\n\n#Cubs #Cu"
         }
       }
     }
@@ -357,49 +357,49 @@
   "raw_buckets_engagement_above_median": {
     "by_content_type": {
       "brief": {
-        "n": 62,
-        "mean_rate": 0.0044,
-        "median_rate": 0.0006
+        "n": 63,
+        "mean_rate": 0.0045,
+        "median_rate": 0.0012
       }
     },
     "by_opening": {
+      "allcaps_lead": {
+        "n": 9,
+        "mean_rate": 0.0031,
+        "median_rate": 0.0
+      },
       "statement": {
         "n": 47,
-        "mean_rate": 0.0044,
-        "median_rate": 0.0012
-      },
-      "allcaps_lead": {
-        "n": 8,
-        "mean_rate": 0.0024,
+        "mean_rate": 0.0042,
         "median_rate": 0.0
       },
       "stat_lead": {
         "n": 7,
-        "mean_rate": 0.0072,
-        "median_rate": 0.003
+        "mean_rate": 0.0085,
+        "median_rate": 0.0075
       }
     },
     "by_has_score": {
       "False": {
-        "n": 42,
-        "mean_rate": 0.0047,
+        "n": 44,
+        "mean_rate": 0.0048,
         "median_rate": 0.0012
       },
       "True": {
-        "n": 20,
-        "mean_rate": 0.0038,
-        "median_rate": 0.0006
+        "n": 19,
+        "mean_rate": 0.004,
+        "median_rate": 0.0012
       }
     },
     "by_has_stat": {
       "False": {
-        "n": 35,
-        "mean_rate": 0.0036,
-        "median_rate": 0.0012
+        "n": 34,
+        "mean_rate": 0.0038,
+        "median_rate": 0.0018
       },
       "True": {
-        "n": 27,
-        "mean_rate": 0.0055,
+        "n": 29,
+        "mean_rate": 0.0054,
         "median_rate": 0.0
       }
     }
@@ -458,14 +458,14 @@
   ],
   "bottom_performers": [
     {
-      "posted_at": "2026-08-05 16:30 CT",
+      "posted_at": "2026-08-10 09:31 CT",
       "content_type": "brief",
-      "impressions": 45,
+      "impressions": 44,
       "engagement": 1,
-      "engagement_rate": 0.0222,
+      "engagement_rate": 0.0227,
       "opening": "statement",
-      "len": 275,
-      "text": "The Cardinals are 54-57. They've lost seven of their last 10. They're sitting 15th in the NL Wild Card standings.\n\nThe No. 1 spot is occupied, and it's not by anyone from St. Louis.\n\nThat mid-season Cardinals surge feels like a very long time ago.\n\n#Cubs #GoCubs #NorthSiders"
+      "len": 253,
+      "text": "The Cubs' rotation just had Gausman, Holmes, and Boyd all start within four days.\n\nGausman: 7 IP sharp in his debut. Holmes: 4 IP in a rocky return. Boyd: seven strong Sunday in KC.\n\nCabrera's targeting this month to join them.\n\n#Cubs #CubsBaseball #MLB"
     },
     {
       "posted_at": "2026-07-28 07:15 CT",
@@ -478,14 +478,24 @@
       "text": "Bregman snapped an 0-for-12 slump with FOUR hits Monday \u2014 HR, two doubles, 3 runs scored.\n\nHoerner went 4-for-4 with a 9th-inning two-run shot. Peterson: 5\u2154 innings, two runs. Fourteen hits as a team.\n\nCardinals are 3-8 since the break. Cubs are hunting.\n\n#Cubs #GoCubs #FlyTheW"
     },
     {
-      "posted_at": "2026-08-09 09:31 CT",
+      "posted_at": "2026-08-10 10:46 CT",
       "content_type": "brief",
-      "impressions": 42,
+      "impressions": 41,
+      "engagement": 2,
+      "engagement_rate": 0.0488,
+      "opening": "statement",
+      "len": 264,
+      "text": "The Cubs open a 3-game road series at Washington Tuesday, 4:45 PM CT \u2014 Gausman vs. Cade Cavalli in Game 1.\n\nThe Nationals aren't in the race, but Cavalli carries a 3.57 ERA. No easy starts in the stretch run.\n\nNL's No. 1 Wild Card. Act like it.\n\n#Cubs #GoCubs #MLB"
+    },
+    {
+      "posted_at": "2026-08-07 08:15 CT",
+      "content_type": "brief",
+      "impressions": 36,
       "engagement": 0,
       "engagement_rate": 0.0,
       "opening": "statement",
-      "len": 274,
-      "text": "After Saturday's loss to KC, the Cubs are still 68-50 \u2014 No. 1 in the NL Wild Card race.\n\nPhillies and D-backs are both roughly six games back. Brewers locked in the Central.\n\nChicago's built a cushion. Now it's about protecting it through September.\n\n#Cubs #NorthSiders #MLB"
+      "len": 247,
+      "text": "Bregman with a two-out, two-run shot in the ninth to tie it.\n\nThen PCA singled in the 11th, broke for third, and scored when the Blue Jays throw sailed into left.\n\nThat's 11 walk-off wins this season. Good teams find a way.\n\n#Cubs #GoCubs #FlyTheW"
     },
     {
       "posted_at": "2026-07-23 09:30 CT",
@@ -496,16 +506,6 @@
       "opening": "statement",
       "len": 230,
       "text": "57-45. Still No. 1 NL Wild Card.\n\nEven after the Tigers series loss, the Cubs remain in the driver's seat. Next stop: Pittsburgh Friday, then St. Louis next week.\n\nAugust 3 looms over every game from here.\n\n#Cubs #NorthSiders #MLB"
-    },
-    {
-      "posted_at": "2026-08-07 08:15 CT",
-      "content_type": "brief",
-      "impressions": 34,
-      "engagement": 0,
-      "engagement_rate": 0.0,
-      "opening": "statement",
-      "len": 247,
-      "text": "Bregman with a two-out, two-run shot in the ninth to tie it.\n\nThen PCA singled in the 11th, broke for third, and scored when the Blue Jays throw sailed into left.\n\nThat's 11 walk-off wins this season. Good teams find a way.\n\n#Cubs #GoCubs #FlyTheW"
     }
   ]
 }
