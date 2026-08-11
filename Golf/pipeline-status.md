@@ -1,10 +1,21 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
-- **Date**: 2026-08-10
+- **Date**: 2026-08-11
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy 403; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-08-11
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres)
+- **PostPlanner exports:** gfr-postplanner-2026-08-11.xlsx (7 posts) + gfr-postplanner-tobi-2026-08-11.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-08-11/review-dashboard.html (22 items)
+- **Notes:** ST. JUDE PREVIEW — FedEx St. Jude Championship Aug 13-16 TPC Southwind Memphis (top 70); Scheffler +500; McIlroy +1,300; TPC Southwind Par 70 7,233 yds; 93°F heat/10-20mph winds; top 50 → BMW Bellerive CC St. Louis Aug 20-23; top 30 → Tour Championship East Lake Atlanta Aug 27-30; SCHEFFLER POTY — 1 win (American Express Jan), 5 runner-ups, 9 top-5s, World No. 1 (167+ consecutive weeks), 0 majors; Gotterup leads POTY with 3 wins; Johnson Wagner predicts Scheffler needs 2 more playoff wins; Scheffler quote: "I've been really close to winning some tournaments, and that can be frustrating"; MCILROY 4th FEDEXCUP — back-to-back Masters (2025, 2026), The Players 2026, 6 career majors, 3 FedExCup titles (2016/2019/2022), 4th would be record; skipped RBC Heritage/Cadillac/Travelers; 32nd US Open, 40th The Open; confirmed start St. Jude; RAHM THREE-PEAT — clinched 3rd consecutive LIV Individual Championship at LIV New York despite T41 finish; final standings: 944.54 vs DeChambeau 726.20 (218+ pt margin); 2 wins (Hong Kong, Mexico City), 4 runner-ups, 8 top-10s in first 9 starts; since joining LIV (2024): 1 finish outside top 10 in 25 starts; LIV Indianapolis next Aug 20-23 Chatham Hills Westfield Indiana; BC Partners deal closes September 2026; PIF exits end 2026; KUWAKI AIG WOMENS OPEN — Shiho Kuwaki wins 50th AIG Women's Open Royal Lytham (Aug 2); defeated Esther Henseleit 2-hole playoff (both -5/279); Henseleit holed 40-ft birdie 72nd hole to force playoff; SD hole 2: Henseleit tee shot hit marshal/bush → bogey; Kuwaki par wins; Noh led by 3 Sunday shot 74 T3 at -4; Korda/Thitikul T4 -2; Kuwaki: first LPGA major, 7th major start, $1.5M from record $10M purse; Japan 2nd straight AIG champion; Portland Classic begins Aug 13-16 Columbia Edgewater CC Portland OR $2M
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-08-10
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-08-11
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-08-11 | T1 | FedEx St. Jude Championship — Playoffs Begin Thursday in Memphis; Scheffler +500 Favorite | X, FB, Article | FOLLOW UP |
+| 2026-08-11 | T1 | Scottie Scheffler — 1 Win, 5 Runner-Ups, POTY Race He Could Lose; Gotterup Has 3 Wins | X, FB, Article | FOLLOW UP |
+| 2026-08-11 | T2 | Rory McIlroy Returns — Chasing Record 4th FedExCup Title in Memphis | X, FB, Article | FOLLOW UP |
+| 2026-08-11 | T2 | Jon Rahm — 3rd Straight LIV Individual Championship; Clinched at Bedminster Despite T41 | X, FB, Article | FOLLOW UP |
+| 2026-08-11 | T2 | LPGA — Shiho Kuwaki Wins AIG Women's Open at Royal Lytham; Portland Classic Starts Thursday | X, FB, Article | FOLLOW UP |
+
+### STORY 1: FedEx St. Jude Championship — Playoffs Begin Thursday
+- **Tier:** 1
+- **Category:** PGA Tour / FedExCup Playoffs / St. Jude Championship
+- **Key facts:** FedEx St. Jude Championship Aug 13-16 TPC Southwind Memphis; $20M purse; 750 FedExCup pts; 70-player field; Scheffler No. 1 seed +500 favorite; McIlroy +1,300; Schauffele +1,800; TPC Southwind Par 70 7,233 yards, narrow fairways, small greens; highs 93°F, 10-20 mph winds; Sam Burns 2 historical top-5s at Southwind; Morikawa leads field in SG approach; top 50 advance to BMW Bellerive CC St. Louis Aug 20-23; top 30 advance to Tour Championship East Lake Atlanta Aug 27-30
+- **Status:** FOLLOW UP (from Aug 10 preview; now 2 days away)
+- **Follow-up ideas:** St. Jude R1 results Thursday; leaderboard updates; Scheffler/McIlroy first rounds
+
+### STORY 2: Scottie Scheffler — POTY Race
+- **Tier:** 1
+- **Category:** PGA Tour / Scottie Scheffler / Player of the Year / FedExCup
+- **Key facts:** 1 win in 2026 (The American Express, January, 20th career win); 5 runner-up finishes; 9 top-5s; World No. 1 (167+ consecutive weeks); 0 major wins; 1 missed cut (Scottish Open); Chris Gotterup leads tour with 3 wins; Johnson Wagner predicts Scheffler needs 2 more playoff wins for POTY; Scheffler quote: "I've been really close to winning some tournaments, and that can be frustrating"
+- **Status:** FOLLOW UP (from Aug 10 season analysis)
+- **Follow-up ideas:** Scheffler's playoff results; whether POTY race swings based on St. Jude result
+
+### STORY 3: Rory McIlroy — 4th FedExCup Title Chase
+- **Tier:** 2
+- **Category:** PGA Tour / Rory McIlroy / FedExCup Playoffs
+- **Key facts:** Won 2025 Masters + 2026 Masters (back-to-back); won The Players Championship 2026; 6 career majors (ties Mickelson/Faldo/Trevino); 3 FedExCup titles (2016, 2019, 2022); 4th would be all-time record; skipped RBC Heritage, Cadillac, Travelers 2026; finished 32nd US Open, 40th The Open; confirmed start at St. Jude (+1,300)
+- **Status:** FOLLOW UP (from Aug 10 playoff preview)
+- **Follow-up ideas:** McIlroy's R1 at TPC Southwind; FedExCup standings implications
+
+### STORY 4: Jon Rahm — 3rd Straight LIV Individual Championship
+- **Tier:** 2
+- **Category:** LIV Golf / Jon Rahm / LIV Individual Championship
+- **Key facts:** Clinched 3rd consecutive LIV Individual Championship at LIV New York despite T41 finish; final standings: Rahm 944.54 pts vs. DeChambeau 726.20 (margin 218+ pts); 2026: 2 wins (Hong Kong, Mexico City), 4 runner-ups, 8 top-10s in first 9 starts; since joining LIV (2024): 1 finish outside top 10 in 25 career starts; LIV Indianapolis next (Aug 20-23, Chatham Hills, Westfield, Indiana); BC Partners deal closes September 2026; players become majority equity holders; PIF exits end of 2026
+- **Status:** FOLLOW UP (from Aug 10: Rahm clinched at LIV New York with T41 finish)
+- **Follow-up ideas:** LIV Indianapolis result; Rahm equity stake details under BC Partners deal
+
+### STORY 5: LPGA — Kuwaki AIG Women's Open / Portland Classic
+- **Tier:** 2
+- **Category:** LPGA / AIG Women's Open / Portland Classic / Shiho Kuwaki
+- **Key facts:** Shiho Kuwaki (Japan) wins 50th AIG Women's Open at Royal Lytham & St Annes (Aug 2); defeated Esther Henseleit in 2-hole playoff (both -5, 279); Henseleit holed 40-foot birdie on 72nd hole to force playoff; in SD, Henseleit tee shot hit marshal/landed in bush → bogey; Kuwaki made par to win; Yealimi Noh led by 3 entering Sunday, shot 74, finished T3 at -4; Korda/Thitikul T4 at -2; Kuwaki: first LPGA major, 7th major start, $1.5M from record $10M purse; Japan's 2nd consecutive AIG Women's Open champion; The Standard Portland Classic begins Thursday Aug 13-16 Columbia Edgewater CC Portland OR ($2M)
+- **Status:** FOLLOW UP (from Aug 6-10 coverage; Portland Classic preview new)
+- **Follow-up ideas:** Portland Classic R1 results; Kuwaki's next LPGA start
+
 ## 2026-08-10
 
 | Date | Tier | Story | Platforms | Status |
