@@ -2,6 +2,50 @@
 
 ---
 
+## August 11, 2026
+
+### Story 1: Liuqibax Bed Rail Recall — CPSC
+- **Date:** 2026-08-11
+- **Content Pillar:** National Parenting (Safety / CPSC)
+- **Angle:** NEW STORY — CPSC recalled ~12,000 Liuqibax adult portable bed rails (Model BR-11) sold on Amazon by Luqiba, July 2024–May 2026, ~$60. Hazard: entrapment between rail and mattress → asphyxiation death risk. Also lacks required warning labels. Stop use immediately. Destroy (dismantle, cut strap/bag, write "RECALLED" on both rails), photo, email Liuqibax@outlook.com for full refund. No injuries reported.
+- **Content Produced:** Article (Sarah Morales), 2 X posts, Facebook Long-Form, Facebook Image Caption, Image Concept (social + hero)
+- **Tier:** 1
+- **Key Facts:** ~12,000 units; Amazon (sold by Luqiba); July 2024–May 2026; ~$60; Model BR-11; black or white; 30.5" x 40.5"; 6 lbs; Liuqibax@outlook.com; no injuries; Sources: CPSC.gov
+
+### Story 2: Pioneer Rodeo Aug. 14–16 at Norris Penrose
+- **Date:** 2026-08-11
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Pioneer Rodeo returns Aug. 14–16 at Norris Penrose Event Center, 1045 Lower Gold Camp Rd, Colorado Springs. Fri/Sat: rodeo competition. Sun: Demolition Derby Finale. Doors 4 PM, show 7 PM all nights. Kids under 5 free (GA); kids 2 and under free in box (lap). Petting zoo, inflatable park, mechanical bull, food vendors. Tickets at pioneerrodeo.com. Times well with D11 first week of school (starts Aug 12).
+- **Content Produced:** Article (Jamie Rivera), 1 X post, Facebook Long-Form, Facebook Image Caption, Image Concept (social + hero)
+- **Tier:** 2
+- **Key Facts:** Aug 14–16; 1045 Lower Gold Camp Rd, COS; doors 4 PM, show 7 PM; kids under 5 GA free; kids 2-and-under box free (lap); pioneerrodeo.com; Sources: pioneerrodeo.com, web research
+
+### Story 3: Switchbacks FC vs. Birmingham Legion — Aug. 15 at Weidner Field
+- **Date:** 2026-08-11
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Colorado Springs Switchbacks FC host Birmingham Legion FC at Weidner Field, Saturday August 15, kickoff 7:00 PM. USL Championship match. Tickets from $14 via AXS, Ticketmaster. Downtown COS, family-friendly. First full weekend after D11 school starts Aug 12.
+- **Content Produced:** Article (Sarah Morales), 1 X post, Facebook Long-Form, Facebook Image Caption, Image Concept (social + hero)
+- **Tier:** 2
+- **Key Facts:** Saturday Aug 15; 7:00 PM kickoff; Weidner Field, Colorado Springs; USL Championship; Opponent: Birmingham Legion FC; tickets from $14; via AXS/Ticketmaster; Sources: web research, USL Championship
+
+### Story 4: AAP Screen Time Guidance — Context and Type Over Hour Limits
+- **Date:** 2026-08-11
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (distinct from Aug 10 Apple/AAP iOS 27 coverage and Aug 5 AAP 5Cs coverage) — AAP-backed report based on review of hundreds of studies over 20 years shifts guidance away from rigid hour limits. What matters is type and context: co-viewing, educational/relational content vs. passive/isolating use. Dr. Tiffany Munzer (Univ. of Michigan Hospital): "Simply taking devices away or enforcing rigid rules can backfire." Practical framework: watch together, ask questions, choose connective content, model behavior.
+- **Content Produced:** Article (Jamie Rivera), 2 X posts, Facebook Long-Form, Facebook Image Caption, Image Concept (social + hero)
+- **Tier:** 2
+- **Key Facts:** Hundreds of studies, 20 years of research; Dr. Tiffany Munzer, Univ. of Michigan Hospital; AAP position shift (formal policy TBD); Sources: ABC News report, AAP-affiliated researchers
+
+### Story 5: D11 First Day Tomorrow — Edukit Supply Bags for K-8
+- **Date:** 2026-08-11
+- **Content Pillar:** Local News
+- **Angle:** FOLLOW-UP (distinct angle from Aug 9 Jumpstart Day preview) — Day-before reminder with actionable new information: Edukit supply kit delivery confirmed for all K-8 students (14,000+) on first day Aug 12. Jumpstart Day happened today (Aug 11) for K, 6th, 9th graders. Enrollment still open. D20 start dates Aug 17-18; D49 already started Aug 4.
+- **Content Produced:** Article (Sarah Morales), 1 X post, Facebook Long-Form, Facebook Image Caption, Image Concept (social + hero)
+- **Tier:** 2
+- **Key Facts:** First day Aug 12; Edukit kits K-8 (14,000+ students); enrollment d11.org or 1033 N. Franklin St, M-F 8 AM–4 PM MT; D20 Aug 17-18; D49 started Aug 4; Sources: d11.org, web research
+
+---
+
 ## August 10, 2026
 
 ### Story 1: El Paso County Heat Advisory + D11 First Day Wednesday
