@@ -2,6 +2,50 @@
 
 ---
 
+## August 12, 2026
+
+### Story 1: D11 First Day Is Here — All K-12 Students Start Today
+- **Date:** 2026-08-12
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (distinct from Aug 11 S5 "day before" preview) — D11 first day of school for all K–12 students, Wednesday August 12, 2026. All K–8 students (14,000+) receive free grade-specific Edukit supply kits on arrival. D20 starts Aug 17 (preschool/elem/6th/9th) and Aug 18 (all others). D49 started Aug 3–4. D11 enrollment still open at d11.org or 1033 N. Franklin St., M-F 8 AM–4 PM MT.
+- **Content Produced:** Article (Jamie Rivera), 2 X posts, Facebook Long-Form, Facebook Image Caption, Image Concept (Gemini)
+- **Tier:** 1
+- **Key Facts:** First day all K–12 Aug 12; Edukit kits K–8 (14,000+); D20 Aug 17-18; D49 Aug 3-4; d11.org enrollment; Sources: Springs Daily, d11.org
+
+### Story 2: CPSC Infant Walker and Swing Recalls — August 2026
+- **Date:** 2026-08-12
+- **Content Pillar:** National Parenting (Safety / CPSC)
+- **Angle:** NEW STORY (different product category from Aug 11 Liuqibax bed rail recall) — CPSC recalled 3 infant walker brands (Wnttmt/WURUI.BABY ~1,310 units Amazon; Uuoeebb/BaoD Amazon; WonderStone/Wonder Stone Toys Walmart.com) and issued stop-use warning for Bimuva Infant Swings (~2,970 units Amazon Oct 2024–Aug 2025, ~$100). All walkers: fall/entrapment hazard, violate federal mandatory standard (can fit through doorway, fail to stop at step edge). Bimuva: incline >10°, Safe Sleep for Babies Act violation, suffocation risk.
+- **Content Produced:** Article (Sarah Morales), 2 X posts, Facebook Long-Form, Facebook Image Caption, Image Concept (Gemini)
+- **Tier:** 1
+- **Key Facts:** Wnttmt ~1,310 units; Bimuva ~2,970 units ~$100; all walkers = fall/entrapment; Bimuva = suffocation; cpsc.gov; Sources: CPSC.gov
+
+### Story 3: Bear Creek Nature Center 50th Anniversary Bear-thday Party
+- **Date:** 2026-08-12
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Bear Creek Nature Center (Colorado's first nature center, est. 1976 as Solar Trails Center) celebrates 50th anniversary with free Bear-thday Party on Saturday August 22, 10 AM–2 PM at 245 Bear Creek Rd, COS, CO 80906. Free to public; Living Nature Hike requires pre-registration. Activities: living-history hikes, nature activities, book readings, art, educational exhibits, food, community partners. New exhibit ribbon-cutting: "Life in the Shadows." El Paso County Board proclamation: August 22 declared a day of celebration.
+- **Content Produced:** Article (Jamie Rivera), 1 X post, Facebook Long-Form, Facebook Image Caption, Image Concept (Gemini)
+- **Tier:** 2
+- **Key Facts:** Aug 22, 10 AM–2 PM; 245 Bear Creek Rd; free; Living Nature Hike pre-reg required; new exhibit "Life in the Shadows"; est. 1976; elpasoco.com/bcnc50; Sources: elpasoco.com, KRDO, visitcos.com
+
+### Story 4: AAP 2026-27 Flu Vaccine Recommendations
+- **Date:** 2026-08-12
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (distinct from Aug 11 S4 AAP screen time guidance) — AAP released 2026–27 influenza vaccine recommendations. Annual flu vaccine for all children 6 months+ without medical contraindications. Any licensed vaccine appropriate for age/health; no formulation preference. Ideally vaccinated by end of October. Context: 2025–26 season = 190 pediatric deaths in U.S.; 85% of those children were unvaccinated.
+- **Content Produced:** Article (Sarah Morales), 1 X post, Facebook Long-Form, Facebook Image Caption, Image Concept (Gemini)
+- **Tier:** 2
+- **Key Facts:** All children 6 months+ (without contraindication); by end of October; 190 pediatric deaths 2025–26; 85% unvaccinated; Sources: publications.aap.org, HealthyChildren.org, Clinical Advisor
+
+### Story 5: Back-to-School Anxiety Guide for COS Parents
+- **Date:** 2026-08-12
+- **Content Pillar:** Evergreen
+- **Angle:** NEW STORY (distinct from Aug 10–11 D11 school coverage) — Evergreen anxiety guide timed to D11 first day. Expert attribution: Safe Passage (COS children's advocacy center). Tips: communicate early, build routines before school starts, pack bag/choose clothes night before, brief specific check-ins. Parental stress impact: children take emotional cues from parents. Warning signs: anxiety lasting weeks affecting sleep/attendance/home relationships. Colorado 988 Mental Health Lifeline (call or text, 24/7).
+- **Content Produced:** Article (Jamie Rivera), 1 X post, Facebook Long-Form, Facebook Image Caption, Image Concept (Gemini)
+- **Tier:** 2
+- **Key Facts:** Safe Passage (COS); specific check-in questions; 988 lifeline; warning signs for weeks-long anxiety; Sources: KOAA, Fox21, Colorado Parent
+
+---
+
 ## August 11, 2026
 
 ### Story 1: Liuqibax Bed Rail Recall — CPSC

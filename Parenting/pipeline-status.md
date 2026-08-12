@@ -1,25 +1,43 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: August 11, 2026
+## Latest Run: August 12, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|
-| Research (web search) | COMPLETE | Liuqibax bed rail recall (12,000 units, CPSC, entrapment/asphyxiation); Pioneer Rodeo Aug 14-16 at Norris Penrose; Switchbacks FC vs. Birmingham Legion Aug 15 at Weidner Field, 7 PM, from $14; AAP screen time guidance shift (hundreds of studies, 20 years, Dr. Munzer quote); D11 first day Aug 12 confirmed with Edukit supply kits for K-8 (14,000+ students) |
-| Story History Check | COMPLETE | 5 stories: S1 new (Liuqibax BR-11 recall — distinct from PIXLABBY/A2batt/KC Imports/Wnttmt prior recalls); S2 new (Pioneer Rodeo — new local event, not previously covered); S3 new (Switchbacks FC Aug 15 — new local event); S4 new (AAP screen time context/type guidance — distinct from Aug 10 Apple/iOS 27 and Aug 5 AAP 5Cs coverage); S5 follow-up (D11 first day, distinct angle: day-before with confirmed Edukit delivery and Jumpstart Day outcome) |
-| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (1 Tier 1, 4 Tier 2); bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
-| Research Notes | COMPLETE | 01-research-notes.md — HIGH confidence all 5 stories; sources: CPSC.gov, pioneerrodeo.com, USL Championship, ABC News/AAP, d11.org |
-| Story Analysis | COMPLETE | 02-story-analysis.md — 5 story sections (### STORY N: headers) |
-| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (S1: 2, S4: 2, S2/S3/S5: 1 each); all ≤280 chars; 4 hashtags each; 0 exclamation marks |
-| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form posts + 5 Image Captions; engagement questions; NO hashtags; COS voice; max 1 exclamation mark per post |
-| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts; 1080×1350 (social) and 1200×630 (hero); clean bottom third; no celebrity likenesses; no brand logos |
-| Articles | COMPLETE | 5 articles (500-1000 words; semantic HTML5; What's Next sections; Quick Reference tables for S1/S2/S3/S5; 0 exclamation marks; no figure tags); bylines: Sarah Morales (A1, A3, A5), Jamie Rivera (A2, A4) |
-| Fact-Check | COMPLETE | verify-facts.py passed; 114 claims extracted; all stories present in all content files; 10 image not_started cosmetic (expected for gemini source) |
+| Research (web search) | COMPLETE | D11 first day all K-12 Aug 12, Edukit supply kits K-8; CPSC recalls: Wnttmt/WURUI.BABY (~1,310 units), Uuoeebb (BaoD), WonderStone (Walmart) walkers + Bimuva swings (~2,970 units) stop-use warning; Bear Creek Nature Center 50th Bear-thday Party Aug 22 free event; AAP 2026-27 flu vaccine guidance (all 6 months+, by Oct, 190 pediatric deaths 2025-26); back-to-school anxiety tips (Safe Passage COS, 988 lifeline) |
+| Story History Check | COMPLETE | 5 stories: S1 follow-up/new angle (D11 actual first day vs. Aug 11 S5 preview); S2 new (CPSC infant walkers/swings — distinct from Aug 11 Liuqibax bed rail); S3 new (Bear Creek 50th party); S4 new (AAP flu vaccine 2026-27 — distinct from Aug 11 screen time); S5 new (back-to-school anxiety guide — distinct from school schedule coverage) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Jamie Rivera (S1, S3, S5), Sarah Morales (S2, S4) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH confidence: D11/D20/D49 dates, CPSC recall details, Bear Creek event, AAP guidance; MEDIUM: back-to-school anxiety expert attribution |
+| Story Analysis | COMPLETE | 02-story-analysis.md — 5 story sections with 5 angles and headlines each |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (S1: 2, S2: 2, S3/S4/S5: 1 each); all ≤280 chars; 4 hashtags each; 0 exclamation marks |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form posts + 5 Image Captions; engagement questions; NO hashtags; COS voice; 0 exclamation marks in articles |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts; 1200×675 (social) and 1200×630 (hero); clean bottom third; no celebrity likenesses; no brand logos |
+| Articles | COMPLETE | 5 articles (500-1000 words; semantic HTML5; What's Next sections; Quick Reference tables for S2/S3; 0 exclamation marks; no figure tags); bylines: Jamie Rivera (A1, A3, A5), Sarah Morales (A2, A4) |
+| Fact-Check | COMPLETE | verify-facts.py run — 68 claims extracted; 10 image entries not_started (expected for gemini source); consistency warnings cosmetic (story title partial match) |
 | Image Manifest | COMPLETE | 07-image-manifest.md — 5 stories × 2 image types (social + hero) = 10 entries; all not_started; gemini base_only; kAHCKfCZgk0 brand kit |
-| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts (known pipeline issue), 5 articles, 22 dashboard items |
-| Dashboard | COMPLETE | review-dashboard.html — 22 items |
-| PostPlanner Export | COMPLETE | cosp-postplanner-2026-08-11.xlsx (7 posts 13:27–20:45 MT, 73 min apart) + cosp-postplanner-tobi-2026-08-11.xlsx (7 TOBI posts) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts (known pipeline issue), 5 articles, 17 dashboard items |
+| Dashboard | COMPLETE | review-dashboard.html — 17 items |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-08-12.xlsx (7 posts 13:25–20:43 MT, 73 min apart) + cosp-postplanner-tobi-2026-08-12.xlsx (7 TOBI posts) |
 | Dashboard Push | Attempted — proxy blocks write to content-dashboards repo | Same environment restriction as all prior runs |
 | WordPress Publish | Attempted — proxy blocks WP API (403) | Same environment restriction as all prior runs |
+
+### 2026-08-12 — Full Pipeline Run (Wednesday)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts (S1: 2, S2: 2, S3/S4/S5: 1 each); PostPlanner xlsx: 7 posts 13:25–20:43 MT, 73 min apart; 7 TOBI
+- **Articles:** 5 (bylines: Jamie Rivera [A1, A3, A5], Sarah Morales [A2, A4])
+- **PostPlanner exports:** cosp-postplanner-2026-08-12.xlsx (7 posts 13:25–20:43 MT), cosp-postplanner-tobi-2026-08-12.xlsx (7 TOBI posts)
+- **Coverage:** D11 first day all K-12 Aug 12, free Edukit kits K-8 (14,000+), D20 Aug 17-18 (S1, Tier 1); CPSC recalls — Wnttmt/WURUI.BABY ~1,310 units, Uuoeebb, WonderStone walkers + Bimuva swings ~2,970 units stop-use warning, all cpsc.gov (S2, Tier 1); Bear Creek Nature Center 50th Bear-thday Party Aug 22 10 AM-2 PM free, 245 Bear Creek Rd, "Life in the Shadows" exhibit (S3, Tier 2); AAP 2026-27 flu vaccine — all 6 months+, by Oct, 190 pediatric deaths 2025-26, 85% unvaccinated (S4, Tier 2); Back-to-school anxiety guide — Safe Passage COS, specific check-ins, parental stress, 988 lifeline (S5, Tier 2)
+- **Notes:**
+  - verify-facts.py: 68 claims extracted; 10 image entries not_started (expected for gemini source); story title consistency warnings cosmetic
+  - compile: 7 X posts, 0 FB posts (known pipeline issue), 5 articles, 17 dashboard items
+  - WordPress: proxy blocks WP API (403); same as all prior runs
+  - Dashboard push: proxy blocks content-dashboards repo write; same as all prior runs
+  - Byline rotation: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] (reversed from Aug 11)
+  - Next Thursday (Aug 13) requires Weekend Family Roundup article
+  - Story history updated with all 5 stories
+
+---
 
 ### 2026-08-11 — Full Pipeline Run (Tuesday)
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
