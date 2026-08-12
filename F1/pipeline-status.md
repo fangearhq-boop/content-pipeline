@@ -1,6 +1,18 @@
 # F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
+- **Date**: 2026-08-12
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway)
+- **PostPlanner exports:** f1fr-postplanner-2026-08-12.xlsx (17 posts) + f1fr-postplanner-tobi-2026-08-12.xlsx (12 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-08-12/review-dashboard.html (22 items)
+- **Notes:** F1 summer break (factories reopen Aug 17); Dutch GP 9 days away (Aug 21-23, farewell Zandvoort, first-ever sprint at circuit); Verstappen exit clause confirmed active (entered break 6th/~110 pts back), October deadline, McLaren frontrunner (Lambiase CRO + Verstappen Racing/McLaren joint junior deal); Antonelli 219/Hamilton 169/Russell 160 — 50-pt lead into second half, youngest champion since Vettel 2010 within reach; Hamilton 4 penalties last 3 races but still 2nd; Norris won Hungarian GP 15-sec margin (first McLaren win of 2026)
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+## 2026-08-11
 - **Date**: 2026-08-11
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)

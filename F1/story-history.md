@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-08-12
+
+| Date | Tier | Story | Formats | Status |
+|------|------|-------|---------|--------|
+| 2026-08-12 | T1 | Dutch GP — Nine Days Away, Farewell Zandvoort, Sprint Format Debut | X, FB, Article | FOLLOW UP |
+| 2026-08-12 | T1 | Verstappen Exit Clause — Active, McLaren in Picture, October Deadline | X, FB, Article | FOLLOW UP |
+| 2026-08-12 | T1 | Antonelli — 50-Point Lead, 219 pts, Path to Youngest Champion Since Vettel | X, FB, Article | FOLLOW UP |
+| 2026-08-12 | T2 | Hamilton at Ferrari — Spanish GP Win, 4 Penalties Last 3 Rounds | X, FB, Article | FOLLOW UP |
+| 2026-08-12 | T2 | Norris Wins Hungarian GP — McLaren's First Win of 2026, 15 Seconds Clear | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Dutch GP — Nine Days Away, Farewell Zandvoort, Sprint Format Debut
+- **Tier:** 1
+- **Category:** F1 Race Preview / Dutch Grand Prix / Zandvoort
+- **Key facts:** Dutch GP Aug 21-23 Zandvoort (4.259 km, 72 laps); final-ever F1 race at circuit; first-ever sprint weekend at Zandvoort; factories reopen Aug 17 (4 days before race); race Sunday 9AM ET; DJ Martin Garrix performing; tickets sold out; Antonelli arrives with 50-pt lead; Verstappen exit clause active for his home race
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Sprint result; qualifying; race result; Verstappen announcement timing
+
+### STORY 2: Verstappen Exit Clause — Active, McLaren in Picture, October Deadline
+- **Tier:** 1
+- **Category:** F1 Driver News / Max Verstappen / Red Bull Racing / McLaren
+- **Key facts:** Clause active (entered break 6th, ~110 pts behind Antonelli); October 2026 deadline; Red Bull gets NO compensation; Lambiase signed McLaren CRO April 2026; Verstappen Racing + McLaren joint support for Belgian driver Dries van Langendonck; Brown: talks "didn't go anywhere"; British media: "close to deal"; ESPN: "wide of the mark"; Norris through 2027/Piastri through 2028 would need moving for Verstappen
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Announcement before Dutch GP; destination confirmed; Red Bull contingency plan
+
+### STORY 3: Antonelli — 50-Point Lead, 219 pts, Path to Youngest Champion Since Vettel
+- **Tier:** 1
+- **Category:** F1 Championship / Kimi Antonelli / Mercedes
+- **Key facts:** After R11: Antonelli 219 / Hamilton 169 / Russell 160 / Leclerc 138; Mercedes Constructors 379 pts; Antonelli stats: 6 wins (China/Japan/Miami/Canada/Monaco/Belgium), 6 poles, 9 podiums; 291 pts remain in 11 rounds; youngest champion if wins since Vettel 2010; quote: "F1 break was now needed"; Belgian GP win by 1.952 sec over Leclerc
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Dutch GP result; Hamilton closes gap or not; championship math after each round
+
+### STORY 4: Hamilton at Ferrari — Spanish GP Win, 4 Penalties Last 3 Rounds
+- **Tier:** 2
+- **Category:** F1 Driver News / Lewis Hamilton / Ferrari
+- **Key facts:** Hamilton 2nd 169 pts; maiden Ferrari win Spanish GP Barcelona; 5 podiums in 11 rounds; 4 penalties last 3 weekends (5-sec Silverstone false start / 5-sec Spa collision with Russell / two at Hungary incl. pit lane speeding); outscoring Leclerc by 31 pts; 0.017s/lap faster than Leclerc in quali (reversed from 2025); Ferrari straight-line deficit ~0.3-0.4s/lap vs Mercedes; Motorsport Week Aug 6: "title bid gathering power"
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Dutch GP result; Ferrari power update; penalty pattern improves or not
+
+### STORY 5: Norris Wins Hungarian GP — McLaren's First Win of 2026, 15 Seconds Clear
+- **Tier:** 2
+- **Category:** F1 Race Results / Hungarian Grand Prix / Lando Norris / McLaren
+- **Key facts:** Hungarian GP July 24-26 Round 11 Hungaroring; Norris won by ~15 sec; 2. Verstappen, 3. Antonelli, 4. Leclerc, 5. Hamilton (5-sec penalty pit speeding, dropped behind Leclerc), 7. Russell; early Piastri/Norris squabble resolved; McLaren's first win of 2026; Norris is reigning 2025 champion; Norris through 2027/Piastri through 2028
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Dutch GP — McLaren genuine form or Hungary anomaly; Norris points gap to Antonelli
+
 ## 2026-08-11
 
 | Date | Tier | Story | Formats | Status |
