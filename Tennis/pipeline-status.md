@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-08-11 |
-| Writing | Complete (all steps) | 2026-08-11 |
-| Fact-check | Complete (verify-facts.py run — 5 stories, 34 claims) | 2026-08-11 |
-| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 5 articles, 22 items) | 2026-08-11 |
-| Dashboard | Complete (review-dashboard.html, 22 items) | 2026-08-11 |
-| PostPlanner Export | Complete (standard 7 posts 13:15–20:45 ET; TOBI 7 posts) | 2026-08-11 |
-| WordPress Publish | Attempted — proxy blocks WordPress API (same as all prior runs) | 2026-08-11 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-08-11 |
+| Research | Complete | 2026-08-12 |
+| Writing | Complete (all steps) | 2026-08-12 |
+| Fact-check | Complete (verify-facts.py run — 5 stories, 34 claims) | 2026-08-12 |
+| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 5 articles, 22 items) | 2026-08-12 |
+| Dashboard | Complete (review-dashboard.html, 22 items) | 2026-08-12 |
+| PostPlanner Export | Complete (standard 7 posts 13:10–20:40 ET; TOBI 7 posts) | 2026-08-12 |
+| WordPress Publish | Attempted — proxy blocks WordPress API (same as all prior runs) | 2026-08-12 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-08-12 |
 
 ## Queue
 
@@ -24,6 +24,16 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-08-12 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
+- **Articles:** 5 (bylines: Marcus Cole [S1, S4], Elena Voss [S2, S5], Ryan Calloway [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-08-12.xlsx (7 posts 13:10–20:40 ET), tfr-postplanner-tobi-2026-08-12.xlsx (7 TOBI posts)
+- **Key stories:** Montreal QF blitz — Shelton 6-3 6-1 (18 winners, 3 UE, 89% first-serve pts), Tien 6-3 6-2, Nakashima 6-2 6-3 (11 aces, 1h17m), Jodar 7-6(5) 6-3; 3 Americans in Canadian Masters SF (first since 1992); Jodar (ESP, 19) first player born 2006+ in Masters SF, 34W-13L, No. 11 live; Rybakina def. Osaka 4-6, 7-6(5), 6-4 (13 aces, 2h33m); Gauff walkover (Bencic hip); Toronto SFs: Swiatek/Svitolina today, Gauff/Rybakina Aug 13; Cincinnati ATP draw (Zverev 1, Djokovic 3, same half, starts Aug 13); Cincinnati WTA draw (Sabalenka 1, Rybakina 2, Swiatek defending, starts Aug 13)
+- **Issues:** FB posts not picked up by compile script (0 FB posts in JSON — known issue); image manifest all not_started (expected for imagn source); posting window warnings cosmetic; WordPress blocked by proxy; dashboard push blocked by proxy
+- **Story history:** Updated with all 5 stories
 
 ### 2026-08-11 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
