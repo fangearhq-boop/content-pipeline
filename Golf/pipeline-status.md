@@ -1,10 +1,21 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
-- **Date**: 2026-08-11
+- **Date**: 2026-08-12
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy 403; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-08-12
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 7 written, all under 280 characters (3 tweets fixed after verify-facts.py: Story 1 tweet #1, tweet #2, Story 2 tweet #1 each trimmed)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway)
+- **PostPlanner exports:** gfr-postplanner-2026-08-12.xlsx (17 posts) + gfr-postplanner-tobi-2026-08-12.xlsx (12 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-08-12/review-dashboard.html (22 items)
+- **Notes:** FEDEX ST. JUDE PREVIEW — FedEx St. Jude Championship Aug 13-16 TPC Southwind Memphis (Par 70, 7,233 yds); top 70 advance; projected 93°F heat + 10-20mph winds; 500 FedExCup pts; $18M FedExCup champion prize; Scheffler +500 (defending 2025 St. Jude champion); McIlroy +1,300; SCHEFFLER POTY — World No. 1 (167+ consecutive weeks); 1 win (American Express January), 5 runner-ups, 9 top-5s; 0 majors; Gotterup leads POTY with 3 wins; Johnson Wagner predicts Scheffler needs 2+ playoff wins; Scheffler quote: "I've been really close to winning some tournaments, and that can be frustrating"; RAHM LIV THREE-PEAT — clinched 3rd consecutive LIV Individual Championship despite T41 at LIV New York; final standings: Rahm 944.54 pts vs DeChambeau 726.20 (218+ pt margin); 2026: 2 wins (Hong Kong, Mexico City), 4 runner-ups, 8 top-10s in 9 starts; since joining LIV (2024): 1 finish outside top 10 in 25 starts; LIV Indianapolis next Aug 20-23 Chatham Hills Westfield Indiana; BC Partners deal closes September 2026; PIF exits end 2026; MCILROY 4TH FEDEXCUP — 3 FedExCup titles (2016, 2019, 2022); 4th would be record; confirmed St. Jude +1,300; back-to-back Masters (2025, 2026); 6 career majors; 32nd entering playoffs; skipped RBC Heritage/Cadillac/Travelers; chasing 7th major (European record, tied Faldo at 6); LPGA PORTLAND CLASSIC — starts Aug 13-16 Columbia Edgewater CC Portland Oregon; $2M purse; Kuwaki enters as reigning AIG Women's Open champion (won Aug 2 Royal Lytham -5/279, defeated Henseleit 2-hole playoff); Japan 2 straight AIG titles; Korda T4 (-2) at AIG
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-08-11
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

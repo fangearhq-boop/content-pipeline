@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-08-12
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-08-12 | T1 | FedEx St. Jude Championship — Starts Tomorrow at TPC Southwind; Scheffler +500, McIlroy +1,300 | X, FB, Article | FOLLOW UP |
+| 2026-08-12 | T1 | Scottie Scheffler — World No. 1 Without a Win, FedExCup on the Line; Gotterup Leads POTY | X, FB, Article | FOLLOW UP |
+| 2026-08-12 | T1 | Jon Rahm — LIV Three-Peat Clinched; 944.54 pts, 218-pt margin; Indianapolis Aug 20-23 | X, FB, Article | FOLLOW UP |
+| 2026-08-12 | T2 | Rory McIlroy — Chasing Record 4th FedExCup Title; 32nd Entering Playoffs | X, FB, Article | FOLLOW UP |
+| 2026-08-12 | T2 | LPGA Portland Classic — Starts Tomorrow Aug 13-16; Post-Kuwaki AIG Momentum | X, FB, Article | NEW STORY |
+
+### STORY 1: FedEx St. Jude Championship — Starts Tomorrow at TPC Southwind
+- **Tier:** 1
+- **Category:** PGA Tour / FedExCup Playoffs / FedEx St. Jude Championship
+- **Key facts:** FedEx St. Jude Championship Aug 13-16 TPC Southwind Memphis; Par 70, 7,233 yards; 93°F projected heat; 10-20 mph winds; top 70 advance to BMW Championship Bellerive CC St. Louis Aug 20-23; top 30 advance to Tour Championship East Lake Atlanta Aug 27-30; 500 FedExCup pts to winner; $18M FedExCup champion prize; Scheffler +500 (defending 2025 St. Jude champion); McIlroy +1,300; field: top 125 FedEx Cup points leaders
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** St. Jude R1 results Thursday; Scheffler/McIlroy first-round scorecards; leaderboard leaders
+
+### STORY 2: Scottie Scheffler — World No. 1 Without a Win, FedExCup on the Line
+- **Tier:** 1
+- **Category:** PGA Tour / Scottie Scheffler / Player of the Year / FedExCup Playoffs
+- **Key facts:** World No. 1 (167+ consecutive weeks); 1 win in 2026 (American Express, January); 5 runner-up finishes; 9 top-5s; 0 majors in 2026; Chris Gotterup leads POTY with 3 wins; Johnson Wagner predicts Scheffler needs at least 2 playoff wins to win POTY; Scheffler quote: "I've been really close to winning some tournaments, and that can be frustrating"; Scheffler +500 at St. Jude (defending champion)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Scheffler R1 result; POTY race update after St. Jude
+
+### STORY 3: Jon Rahm — LIV Three-Peat Clinched
+- **Tier:** 1
+- **Category:** LIV Golf / Jon Rahm / LIV Individual Championship
+- **Key facts:** Clinched 3rd consecutive LIV Individual Championship despite T41 at LIV New York; final standings: Rahm 944.54 pts vs DeChambeau 726.20 (218+ pt margin); 2026 season: 2 wins (Hong Kong, Mexico City), 4 runner-ups, 8 top-10s in 9 starts; since joining LIV (2024): 1 finish outside top 10 in 25 starts; LIV Indianapolis Aug 20-23 Chatham Hills Westfield Indiana (penultimate event); BC Partners deal closes September 2026; PIF exits end 2026
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** LIV Indianapolis result; BC Partners deal closing details
+
+### STORY 4: Rory McIlroy — Chasing Record 4th FedExCup Title
+- **Tier:** 2
+- **Category:** PGA Tour / Rory McIlroy / FedExCup Playoffs
+- **Key facts:** 3 FedExCup titles (2016, 2019, 2022); 4th would be record; confirmed for St. Jude (+1,300); back-to-back Masters wins (2025, 2026); 6 career majors; 32nd in FedEx Cup standings entering playoffs; skipped RBC Heritage/Cadillac/Travelers 2026; chasing 7th major (European record, tied with Faldo at 6)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** McIlroy R1 at TPC Southwind; FedExCup standings after St. Jude
+
+### STORY 5: LPGA Portland Classic — Starts Tomorrow
+- **Tier:** 2
+- **Category:** LPGA / Portland Classic / Columbia Edgewater CC
+- **Key facts:** Portland Classic Aug 13-16 Columbia Edgewater CC Portland Oregon; $2M purse; Shiho Kuwaki (Japan) enters as reigning AIG Women's Open champion (won Aug 2 at Royal Lytham -5/279, defeated Henseleit 2-hole playoff); Japan 2 straight AIG Women's Open titles; Korda T4 (-2) at AIG; Korean contingent strong at Columbia Edgewater
+- **Status:** NEW STORY
+- **Follow-up ideas:** Portland Classic R1 results; Kuwaki's performance at Columbia Edgewater
+
 ## 2026-08-11
 
 | Date | Tier | Story | Platforms | Status |
