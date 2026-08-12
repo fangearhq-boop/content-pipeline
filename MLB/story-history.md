@@ -5,6 +5,52 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-12
+
+### Story 1: Field of Dreams 2026 — Tomorrow Night on Netflix
+- **Date:** 2026-08-12
+- **Tier:** 1
+- **Classification:** FOLLOW UP (covered Aug 8-11; tomorrow is game day)
+- **Angle:** Event preview for Aug 13 Twins vs Phillies, Netflix exclusive. ABS challenge system not installed at Dyersville (Phillies refused ABS all season). Throwback uniforms: Phillies 1939-41 gray, Twins 1961 inaugural pinstripes. HOF guests: Schmidt, Carlton, Mauer, Carew. Kevin Costner in broadcast. Third edition after 2021/2022/3-year hiatus for rebuild.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:** Game recap after Aug 13 (score, highlights, HOF moments, Netflix viewership stats)
+
+### Story 2: White Sox 61-56 — Pope Hat Night Loss in 10
+- **Date:** 2026-08-12
+- **Tier:** 2
+- **Classification:** FOLLOW UP (White Sox AL Central covered regularly)
+- **Angle:** Lost to Reds 5-4 (10 innings) on "Pope Hat Night" at GRFS. De La Cruz walk-off sac fly in 10th. Still 1st in AL Central at 61-56 (DET -3.5, MIN -4.0). From 41-121 in 2024.
+- **Content Produced:** Article (article-02, Jake Torres), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:** AL Central standings updates; White Sox record progression toward playoffs
+
+### Story 3: Mason Miller 30th Save — Career First
+- **Date:** 2026-08-12
+- **Tier:** 2
+- **Classification:** NEW
+- **Angle:** Miller records 30th save in Padres 3-2 win over Brewers on Aug 11. Career first. Tied 2nd in MLB behind Bryan Baker (34). Jackson Merrill two-run HR. Lockridge thrown out stealing to end 9th.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:** Miller save total progression; Padres NL standings
+
+### Story 4: Skubal Dodger Stadium Home Debut — Winless in LA
+- **Date:** 2026-08-12
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Skubal trade covered Aug 11)
+- **Angle:** Home debut at Dodger Stadium: 5 IP, 4H, 3ER, 6K, 95 pitches, no-decision. 0-for-2 (no wins) since trade from DET. Dodgers won 6-5 vs Royals; broke 8-of-9 skid. "Spotty command" noted; Skubal called it "special to me."
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:** Skubal next start; Dodgers NL West standings
+
+### Story 5: Cubs 69-50 — NL Wild Card Lead at 5 Games
+- **Date:** 2026-08-12
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Cubs Wild Card covered regularly)
+- **Angle:** 5-game lead over D-backs and Phillies (both 64-56). Gausman + Holmes + Garrett acquired Aug 3 deadline; already delivering. CC Sabathia: "did enough at deadline." 43 games remaining.
+- **Content Produced:** Article (article-05, Jake Torres), 2 X posts, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:** Wild Card standings tracking; individual pitcher performance (Gausman, Holmes ERA post-deadline)
+
+---
+
+---
+
 ## 2026-08-11
 
 ### Story 1: Field of Dreams 2026 — Two Days Away, Iowa Cubs vs. St. Paul Saints Tonight at Dyersville

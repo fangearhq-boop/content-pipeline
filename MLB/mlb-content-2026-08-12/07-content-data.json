@@ -1,0 +1,318 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-12",
+  "compiled_at": "2026-08-12T10:43:30.979497+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Field of Dreams 2026 — Tomorrow Night on Netflix in Dyersville, Iowa",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Tomorrow: Field of Dreams Game.\n\nTwins vs. Phillies. Dyersville, Iowa. Netflix exclusive. First pitch 7:30 PM ET.\n\nPhillies in their 1939 throwbacks. Twins in their 1961 inaugural pinstripes. No ABS challenge system at the new stadium. ⚾ #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 242
+        },
+        {
+          "label": "Post 1-2",
+          "text": "MLB ruled there will be NO Automated Ball-Strike system at tomorrow's Field of Dreams Game.\n\nThe Phillies have reportedly refused to use ABS all season. So they play their Iowa showcase under traditional ump calls. ⚾ #MLB #Phillies",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#Phillies"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-field-of-dreams-2026-twins-phillies.html",
+        "headline": "Field of Dreams 2026: Twins Meet Phillies in Iowa Tomorrow — Netflix Exclusive, No Robot Ump",
+        "word_count": 532
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Field of Dreams Game — August 13, Netflix\n**Sources verified (10+ sources, HIGH confidence):**\n- MLB.com: Official event page confirmed Twins vs Phillies, Aug 13, 7:30 PM ET\n- Forbes (Lammers, 7/22): Netflix to livestream — first MLB event on platform\n- Forbes (Chawaga, 8/11): MLB confirmed NO ABS challenge system at Dyersville\n- BroBible: Phillies-Twins ABS rules confirmed; Phillies refused ABS all season\n- Star Tribune / Twins Daily: Twins uniform details — 1961 inaugural pinstripes, vintage TC logo, blue-and-red \"Twins\" script\n- Yahoo Sports: Phillies uniform details — 1939-41 gray jerseys with centennial patch\n- Central Jersey.com / KROC News: Venue details — new permanent stadium, ~4,200 fixed seats + bleachers ~8,000; right-field windows frame cornfield\n- ESPN: Historical context — previous games (2021 CWS-NYY, 2022 CHC-CIN); three-year hiatus for rebuild\n**Key verified facts (HIGH confidence):**\n- Date/time: Thursday, August 13, 2026, 7:30 PM ET; pre-game 6:30 PM ET\n- Teams: Minnesota Twins (host) vs Philadelphia Phillies\n- Venue: New permanent stadium, ~¼ mile west of original movie-site diamond, Dyersville, Iowa; capacity ~8,000\n- Streaming: Netflix exclusive (first MLB event on Netflix)\n- History: 3rd edition; 2021 (CWS-NYY), 2022 (CHC-CIN); 3-year hiatus for venue rebuild\n- Throwbacks: Phillies 1939-41 gray jerseys; Twins 1961 inaugural pinstripes w/ vintage TC logo\n- HOF guests: Mike Schmidt, Steve Carlton (PHI); Joe Mauer, Rod Carew (MIN)\n- Kevin Costner appearing in broadcast\n- NO ABS challenge system at Dyersville; Phillies refused ABS all 2026 season",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "White Sox Hold AL Central Lead After Loss — Reds Win in 10 Innings",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "The White Sox lost in 10 innings on \"Pope Hat Night\" to Elly De La Cruz's walk-off sac fly.\n\nThey're still in first place in the AL Central at 61-56 — 3.5 games ahead of Detroit.\n\nThis team was 41-121 a year ago. Let that sink in. ⚾ #WhiteSox #MLBStandings",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox",
+            "#MLBStandings"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-white-sox-al-central-pope-hat-night.html",
+        "headline": "Pope Hat Night Couldn't Stop Them: White Sox Still Lead AL Central at 61-56",
+        "word_count": 394
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "White Sox AL Central Standings\n**Sources verified (HIGH confidence):**\n- SI.com: \"White Sox answer another huge test\" — standings context\n- Washington Post (8/11 game story): Reds 5, White Sox 4 (10 innings)\n- Sox Machine: \"Reds 5, White Sox 4 (10 innings): Pope hats aren't rally caps\"\n- MLB.com official standings: 61-56, 1st in AL Central\n- Redleg Nation: De La Cruz walk-off sac fly in 10th\n**Key verified facts (HIGH confidence):**\n- Record: 61-56, 1st in AL Central as of August 12\n- Home record: 36-22 at Guaranteed Rate Field\n- Aug 11 result: Reds 5, White Sox 4 (10 innings)\n- Elly De La Cruz: walk-off sacrifice fly in 10th inning\n- \"Pope Hat\" giveaway night at the park\n- Division gaps: Detroit Tigers -3.5; Minnesota Twins -4.0\n- Context: 41-121 in 2024; now leading the division",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Mason Miller's 30th Save — Padres Edge Brewers 3-2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Mason Miller just notched his 30th save of the season — a career first.\n\nHe's tied for 2nd in baseball, behind Bryan Baker (34).\n\nJackson Merrill hit the two-run HR that made it possible. Padres win 3-2. ⚾ #Padres",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Padres"
+          ],
+          "char_count": 213
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-mason-miller-30-saves-padres.html",
+        "headline": "Mason Miller Reaches 30 Saves for the First Time — Padres Edge Brewers 3-2",
+        "word_count": 324
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 6",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Mason Miller 30th Save\n**Sources verified (HIGH confidence):**\n- CBS Sports: \"Padres Mason Miller notches 30th save\"\n- FantasyPros: \"Mason Miller records save Monday\" (confirmed career first for 30 saves)\n**Key verified facts (HIGH confidence):**\n- Date: August 11, 2026 (Monday night)\n- Game: San Diego Padres 3, Milwaukee Brewers 2\n- Miller: 30th save of 2026 — career first\n- Standing: Tied 2nd in MLB behind Bryan Baker (34 saves)\n- Jackson Merrill: Two-run home run for San Diego\n- Miller's work: Walked one batter, recorded a strikeout; Brandon Lockridge thrown out trying to steal 2nd, ending the inning",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Skubal Remains Winless in LA — Dodgers Edge Royals 6-5 in Home Debut",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Tarik Skubal's Dodger Stadium home debut: 5 IP, 3 ER, 6 K, 95 pitches. No-decision.\n\nTwo back-to-back AL Cy Young Awards. Still winless in Dodger blue after two starts.\n\nThe Dodgers won 6-5. Skubal just hasn't gotten the decision yet. ⚾ #Dodgers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#MLB"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-skubal-dodger-stadium-debut-winless.html",
+        "headline": "Tarik Skubal's Dodger Stadium Debut: Still Winless in LA, But the Dodgers Are Rolling",
+        "word_count": 386
+      },
+      "image_concepts": [
+        {
+          "label": "Image 7",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 8",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Skubal Dodger Stadium Home Debut\n**Sources verified (HIGH confidence):**\n- ESPN: \"Skubal not his best in home debut, but Dodgers rally for win vs Royals\"\n- Deadspin: \"Tarik Skubal remains winless since trade, but Dodgers edge Royals\"\n- Japan Times: Confirms stats and result\n- The Sporting Tribune: Game story confirmation\n- True Blue LA: Home debut recap\n- Yahoo Sports/Field Level Media: Stats confirmation\n**Key verified facts (HIGH confidence):**\n- Date: August 11, 2026 (Monday night)\n- Game: Dodgers 6, Kansas City Royals 5\n- Skubal's line: 5.0 IP, 4 H, 3 ER, 6 K, 95 pitches — No-Decision\n- Skubal: 0-for-2 (no-decision) since trade; still winless in Dodger blue\n- \"Spotty command of his fastball\" noted by MLB.com\n- Skubal called the start \"special to me\"\n- Dodgers had lost 8 of previous 9 games; this win broke that skid\n- Background: Skubal won back-to-back AL Cy Young Awards with Detroit; traded to LA at deadline",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Cubs Lead NL Wild Card by 5 Games — Deadline Haul Delivering",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5-1",
+          "text": "The Chicago Cubs are 69-50 and lead the NL Wild Card by 5 games.\n\nKevin Gausman. Clay Holmes. Braxton Garrett. All acquired at the trade deadline. All producing.\n\nCC Sabathia says they \"did enough\" to hold on. The Cubs might be the best team nobody's talking about. ⚾ #Cubs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 273
+        },
+        {
+          "label": "Post 5-2",
+          "text": "Cubs NL Wild Card standings:\n\nChicago Cubs: 69-50 (1st)\nArizona D-backs: 64-56 (-5)\nPhiladelphia Phillies: 64-56 (-5)\n\n5-game cushion with 43 games to go. ⚾ #Cubs #NLWildCard",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#NLWildCard"
+          ],
+          "char_count": 174
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-cubs-nl-wild-card-deadline-haul.html",
+        "headline": "Cubs 69-50, Five Games Clear: The Trade Deadline Haul Is Paying Off",
+        "word_count": 410
+      },
+      "image_concepts": [
+        {
+          "label": "Image 9",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Cubs NL Wild Card Lead\n**Sources verified (HIGH confidence):**\n- Fox 32 Chicago: Trade deadline moves graded\n- Yahoo Sports: Gausman and Holmes debut dates announced\n- Chicago Sun-Times: \"World Series hunger fuels Gausman, Holmes\"\n- NBC Sports / CC Sabathia: \"Cubs did enough at deadline to hold onto top Wild Card spot\"\n- Bleacher Nation: Cubs record and standings\n- MLB.com trade news: Confirmed all deadline acquisitions\n**Key verified facts (HIGH confidence):**\n- Record: 69-50, 1st in NL Wild Card\n- Wild Card gap: D-backs and Phillies both at 64-56 — Cubs lead by ~5 games\n- Trade deadline (August 3): Gausman (SP, from Toronto), Clay Holmes (from Mets, with Tyrone Taylor), Braxton Garrett (SP, from Miami), Ryan Zeferjahn (RP, from Angels)\n- Post-deadline rotation: Gausman, Holmes, Matthew Boyd, Shota Imanaga, David Peterson\n- CC Sabathia quote (NBC): Cubs \"did enough at trade deadline to hold onto top Wild Card spot\"\n- Cubs beat Royals 5-4 on Monday (August 11) — same night as Skubal start",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 9
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
