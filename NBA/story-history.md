@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-08-12
+
+| Date | Tier | Story | Formats | Status |
+|------|------|-------|---------|--------|
+| 2026-08-12 | T1 | NBA Schedule Release — Opening Night + Christmas Day Revealed | X, FB, Article | FOLLOW UP |
+| 2026-08-12 | T1 | Kawhi Leonard — Daktronics Scoreboard Deal Exposed as Second Cap Circumvention | X, FB, Article | FOLLOW UP |
+| 2026-08-12 | T1 | Giannis Antetokounmpo to Miami — Building Chemistry, $275M Supermax Coming Jan 6 | X, FB, Article | FOLLOW UP |
+| 2026-08-12 | T2 | Stephen Curry Extension Window Opens August 29 — 17 Days Away | X, FB, Article | FOLLOW UP |
+| 2026-08-12 | T2 | Wembanyama and France — Eight Days to Belgrade, New Coach Fauthoux | X, FB, Article | FOLLOW UP |
+
+### STORY 1: NBA Schedule Release — Opening Night + Christmas Day Revealed
+- **Tier:** 1
+- **Category:** NBA Season Preview / Schedule Release
+- **Key facts:** Aug 12 = Cup schedule release day; Full schedule Aug 13 3PM ET; Opening Night Oct 20 NBC/Peacock tripleheader: Celtics at Pistons (3PM), 76ers at Knicks (7PM — LeBron debut + Knicks banner night since 1973), Thunder at Spurs (9:30PM); Knicks won 2025-26 title over Spurs, Brunson Finals MVP, Mike Brown coach; Christmas Day 5 games (ABC/ESPN): Spurs vs. Knicks (Finals rematch), Heat vs. Celtics, Thunder vs. Wolves, 76ers vs. Lakers (LeBron's return to LA), Nuggets vs. Warriors; season starts Oct 20, 69 days away
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Full schedule breakdown Aug 13; Opening Night preview; Christmas Day deep dives; Knicks banner night coverage
+
+### STORY 2: Kawhi Leonard — Daktronics Scoreboard Deal Exposed as Second Cap Circumvention
+- **Tier:** 1
+- **Category:** NBA Investigation / Los Angeles Clippers / Toronto Raptors / Kawhi Leonard
+- **Key facts:** Second alleged deal exposed: Daktronics (publicly traded, built Intuit Dome halo scoreboard); source to Pablo Torre: "1,000% a way to circumvent the salary cap," money "funneling from Clippers through Daktronics back to Kawhi"; Leonard did no public work; Daktronics PR: "no deal with Kawhi right now"; Wachtell Lipton investigation; resolution expected ~6 weeks; NBPA arbitration threat live; trade frozen (Kawhi to Toronto for Ingram/Dick/picks); Kawhi owed $50.3M in 2026-27; Ballmer denies allegations; Kawhi strongly believes trade will happen
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Settlement announcement; arbitration filing; training camp status; Clippers sanctions
+
+### STORY 3: Giannis Antetokounmpo to Miami — Building Chemistry, $275M Supermax Coming Jan 6
+- **Tier:** 1
+- **Category:** NBA Offseason / Miami Heat / Giannis Antetokounmpo / Bam Adebayo
+- **Key facts:** Trade executed July 6; Bucks received Herro/Ware/Jaquez/Jakucionis/unprotected 2031+2033 firsts/No.13 pick/2030 swap/2033 second; Heat received Giannis + Bobby Portis; pairs with Bam Adebayo; supermax Jan 6, 2027: 4yr/$275M; Giannis skipping late-August FIBA window (Heat managing workload); Heat considered immediate title contender alongside Philly
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Training camp open; Giannis/Bam first practice photos; Heat preseason results; supermax signing Jan 6
+
+### STORY 4: Stephen Curry Extension Window Opens August 29 — 17 Days Away
+- **Tier:** 2
+- **Category:** NBA Contracts / Golden State Warriors / Stephen Curry
+- **Key facts:** Window opens Aug 29; extension: 2yr/$136.7M (~$68M/year); current deal $62.6M in 2026-27 (first NBA player ever over $60M single season); Warriors GM Dunleavy: "super aggressive," confident Curry wants to stay; Windhorst "pay sacrifice" concept floated; without extension → UFA at 39; Draymond Green back 1yr/$27.7M; Gary Payton II back 1yr/$3.9M; September signing expected
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Signing announcement (expect September); Warriors training camp roster
+
+### STORY 5: Wembanyama and France — Eight Days to Belgrade, New Coach Fauthoux
+- **Tier:** 2
+- **Category:** NBA Offseason / San Antonio Spurs / Victor Wembanyama / France FIBA
+- **Key facts:** Aug 20 vs. Serbia (Belgrade); Aug 23 vs. Serbia (Orleans); Aug 27 vs. Slovenia qualifier (home); Aug 30 at Sweden qualifier; France 5-1 Group L; roster: Wemby+Gobert+Fournier; new coach Frederic Fauthoux (first time coaching Wemby); quotes: "Coming back here does my heart a lot of good" / "I do not miss the NBA right now, I miss FIBA"; Giannis skipping FIBA (Heat protecting); France won 2024 Olympic silver
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Serbia game result (Aug 20); qualifier results; Spurs training camp
+
 ## 2026-08-11
 
 | Date | Tier | Story | Formats | Status |

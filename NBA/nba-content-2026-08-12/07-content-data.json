@@ -1,0 +1,328 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-12",
+  "compiled_at": "2026-08-12T11:33:18.373206+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "NBA Schedule Release — Opening Night and Christmas Day Games Unveiled",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Opening Night is SET.\n\nOct 20 on NBC:\n- Celtics-Pistons 3PM\n- 76ers-Knicks 7PM (LeBron debuts + Knicks banner night)\n- Thunder-Spurs 9:30PM\n\nChristmas at MSG. LeBron back in LA. The 2026-27 season is going to be something else.\n\n#NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA"
+          ],
+          "char_count": 233
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Christmas Day NBA lineup:\n\nSpurs vs. Knicks (Finals rematch)\nHeat vs. Celtics\nThunder vs. Wolves\n76ers vs. Lakers (LeBron returns to LA)\nNuggets vs. Warriors\n\nFull schedule drops tomorrow at 3PM ET. Circle all of these.\n\n#NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-nba-schedule-release-opening-night-christmas-day.html",
+        "headline": "NBA Drops 2026-27 Opening Night and Christmas Day Slate — LeBron's Sixers Debut Headlines a Historic October 20",
+        "word_count": 649
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NBA Schedule Release\n**HIGH confidence:**\n- Today (Aug 12) = Emirates NBA Cup schedule release day [NBA.com, CBS Sports, Yahoo Sports]\n- Aug 13, 3 PM ET = Full 2026-27 regular season schedule release [NBA.com]\n- Opening Night: Oct 20, 2026 — NBC/Peacock tripleheader [CBS Sports, FanSided]\n- Game 1 Oct 20: Boston Celtics at Detroit Pistons, 3 PM ET\n- Game 2 Oct 20: Philadelphia 76ers at New York Knicks, 7 PM ET\n- Game 3 Oct 20: Oklahoma City Thunder at San Antonio Spurs, 9:30 PM ET\n- New York Knicks won the 2025-26 NBA title, defeating the Spurs in the Finals [NBA.com]\n- Jalen Brunson was 2025-26 Finals MVP [NBA.com]\n- Mike Brown coached the Knicks [NBA.com]\n- Knicks' last title before 2026: 1973 [historical record]\n- Canyon of Heroes parade held June 18, 2026 [confirmed]\n- Mayor Zohran Mamdani presented Keys to the City [confirmed]\n- Christmas Day (5 games, ABC/ESPN): Spurs vs. Knicks, Heat vs. Celtics, Thunder vs. Timberwolves, 76ers vs. Lakers, Nuggets vs. Warriors [CBS Sports, Basketnews]\n- LeBron James signed with 76ers: 2 years, $8M, player option Year 2 [ESPN]\n- LeBron's Opening Night debut: at MSG vs. Knicks, Oct 20 [NBA.com]\n- LeBron's Christmas Day game: 76ers vs. Lakers (his return to LA) [CBS Sports]\n**MEDIUM confidence:**\n- \"69 days away\" until Oct 20 season start (calculated from Aug 12) — verify: Aug 12 to Oct 20 = 69 days ✓",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Kawhi Leonard — New Scoreboard Deal Exposes Deeper Clippers Scandal",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The Kawhi investigation just got wilder.\n\nA source told Pablo Torre the Daktronics deal — with the Intuit Dome scoreboard maker — was \"1,000% a way to circumvent the cap.\"\n\nNo public work. No active deal. Money allegedly flowed through.\n\n#NBA #Clippers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA",
+            "#Clippers"
+          ],
+          "char_count": 252
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Two deals. One investigation.\n\nThe Clippers face NBA scrutiny for both the Aspiration AND Daktronics agreements with Kawhi Leonard.\n\nResolution expected in ~6 weeks. Trade to Toronto still frozen. Kawhi believes he'll be a Raptor.\n\n#NBA #Clippers #Raptors",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA",
+            "#Clippers",
+            "#Raptors"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-kawhi-leonard-daktronics-clippers-investigation.html",
+        "headline": "New Daktronics Deal Deepens Clippers Investigation: Source Says Kawhi Arrangement Was '1,000%' Cap Circumvention",
+        "word_count": 577
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Kawhi Leonard / Daktronics / Clippers Investigation\n**HIGH confidence:**\n- Kawhi trade: Clippers to Toronto for Brandon Ingram, Gradey Dick, future picks [NBA.com]\n- Trade placed on hold July 9 [NBA.com]\n- NBA investigation: hired Wachtell Lipton Rosen & Katz law firm [HoopsRumors, CBS Sports]\n- Daktronics is publicly traded company that manufactured halo scoreboard at Intuit Dome [confirmed public record]\n- Daktronics PR confirmed: \"Daktronics doesn't have a deal with Kawhi right now\" [CBS Sports]\n- Leonard did no public-facing work for Daktronics [CBS Sports, HoopsRumors]",
+        "sources": "- Source to Pablo Torre: \"1,000% a way to circumvent the salary cap\" [Front Office Sports, CBS Sports]\n- Resolution expected within ~6 weeks per HoopsHype [HoopsRumors]\n- Kawhi's 2026-27 salary: $50.3M [HoopsRumors]\n- NBPA arbitration threat: \"wouldn't hesitate\" to demand neutral arbitrator [NBC Sports]\n- Kawhi \"strongly believes\" trade will go through [ClutchPoints]\n- Original Aspiration deal: still under investigation alongside Daktronics [CBS Sports]\n**MEDIUM confidence:**\n- Trade includes unprotected 2031 and 2033 firsts from Toronto to Clippers [ESPN trade tracker]"
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Giannis Antetokounmpo to Miami — First Summer Together",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Giannis is skipping the late-August FIBA window.\n\nThe Heat are protecting their asset. He and Bam Adebayo build chemistry in Miami, and a 4-year, $275M supermax window opens January 6.\n\nTwo super-teams. One October. Let it cook.\n\n#NBA #Heat",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA",
+            "#Heat"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-giannis-heat-miami-summer-supermax.html",
+        "headline": "Giannis and Bam Are Building Something in Miami — and a $275M Decision Is Coming in January",
+        "word_count": 554
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Giannis to Miami\n**HIGH confidence:**\n- Trade executed July 6, 2026 [ESPN, NBA.com]\n- Bucks received: Tyler Herro, Kel'el Ware, Jaime Jaquez Jr., Kasparas Jakucionis, unprotected 2031+2033 firsts, No. 13 pick, 2030 swap, 2033 second [ESPN, NBC Miami]\n- Heat received: Giannis Antetokounmpo + Bobby Portis [ESPN]\n- Giannis pairs with Bam Adebayo [confirmed roster]\n- Supermax eligibility: Jan 6, 2027; value: 4 years, $275M [Bleacher Report]\n- Giannis will NOT play FIBA late-August window — Heat managing workload [Yahoo Sports]\n**MEDIUM confidence:**\n- Heat considered \"immediate title contender\" alongside Philly — multiple analyst assessments",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Stephen Curry Extension Window Opens August 29",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Stephen Curry's extension window opens August 29.\n\n2 years. $136.7M. The Warriors are ready to offer every dollar.\n\nHe'll be the first NBA player ever to earn $60M+ in a single season (2026-27).\n\n17 days until the window. September signing expected.\n\n#NBA #Warriors",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA",
+            "#Warriors"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-stephen-curry-extension-warriors-crossroads.html",
+        "headline": "Stephen Curry's Extension Window Opens August 29 — And the Warriors Have 17 Days to Figure Out Their Future",
+        "word_count": 628
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Stephen Curry Extension\n**HIGH confidence:**\n- Extension window opens Aug 29 [Yardbarker, CBS Sports confirmed]\n- Extension value: 2 years, $136.7M [Spotrac, CBS Sports]\n- 2026-27 existing contract: $62.6M [Flashscore, CBS Sports]\n- First NBA player ever to surpass $60M in single season [CBS Sports]\n- Warriors GM Mike Dunleavy: \"I'm confident he wants to win and finish career as a Warrior\" [Bleacher Report]\n- Dunleavy: \"super aggressive\" offseason, \"cold calls,\" trying hard to add players [Bleacher Report]\n- Without extension: Curry becomes UFA after 2026-27 at age 39 [Yardbarker]\n- Draymond Green returned: 1 year, $27.7M [ESPN]\n- Gary Payton II returned: 1 year, $3.9M [ESPN]\n**MEDIUM confidence:**\n- Windhorst \"pay sacrifice\" concept — floated on NBCS Bay Area, not confirmed by Curry or team",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Wembanyama and France — Eight Days to Serbia",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Victor Wembanyama on returning to France's national team:\n\n\"I do not miss the NBA right now. I miss FIBA basketball.\"\n\nHe plays in Belgrade on August 20 vs. Serbia. New coach Fauthoux leads him for the first time.\n\nEight days away.\n\n#NBA #Spurs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA",
+            "#Spurs"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-wembanyama-france-national-team-fiba-return.html",
+        "headline": "Wembanyama Is Heading to Belgrade — and His Return to France Says Everything About Who He Is",
+        "word_count": 635
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Wembanyama / France FIBA\n**HIGH confidence:**\n- France named 15-man roster July 18 [France 24, KSAT]\n- Aug 20: France vs. Serbia (Belgrade) [FIBA official]\n- Aug 23: France vs. Serbia (Orleans, France) [FIBA official]\n- Aug 27: France vs. Slovenia, FIBA World Cup qualifier (home) [FIBA]\n- Aug 30: France at Sweden, FIBA World Cup qualifier [FIBA]\n- Roster: Wembanyama + Rudy Gobert + Evan Fournier [Eurohoops]\n- New coach: Frederic Fauthoux (replaced Vincent Collet post-Olympics) [France 24]\n- First time Fauthoux coaches Wembanyama [France 24]\n- Wemby quote: \"Coming back here does my heart a lot of good.\" [Yahoo Sports]\n- Wemby quote: \"I do not miss the NBA right now, I miss FIBA.\" [FIBA official site]\n- France Group L record: 5-1 in first round [FIBA]\n- Giannis skipping late-August FIBA window [Yahoo Sports]\n- France won 2024 Paris Olympics silver (lost gold to Team USA) [historical record]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
