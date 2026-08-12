@@ -5,6 +5,62 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-12
+
+### STORY 1: Game 1 Recap — Three Cubs Go Deep in D.C., Chicago Reaches 70 Wins
+- **Angle:** NEW STORY (Cubs 8, Nationals 6 on Aug 11; PCA HR #27, Bregman HR #13, Suzuki HR #20 all in same game; Imanaga exits 5th after 3 HRs allowed but with 6-4 lead; Rolison (7-1) bridges to finish; Cubs reach 70-50, season-best 20 games over .500; no score per has_score=False insight; lead with three-homer night)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - If Imanaga struggles again in next start, "cracking the wall" story
+  - Rolison's emerging 7-1 record as a full story
+  - Cubs 75-win milestone
+
+### STORY 2: Seiya Suzuki — 20th Home Run, Contract Year Statement
+- **Angle:** NEW STORY (Suzuki hit 20th HR on Aug 11; 68 RBIs; final year of $85M 5-year deal signed before 2022; contract year performance angle; offensive depth beyond PCA)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold take)
+- **Follow-Up Opportunities:**
+  - Suzuki's extension talks or trade rumors in September
+  - Suzuki 25 HR milestone
+  - Contract year final push in September/October
+
+### STORY 3: Cubs 70-50 — Season-Best 20 Games Over .500
+- **Angle:** NEW STORY (Cubs were 34-34 on June 10; gone 36-16 since; 70-50 is first time at 20 games over .500 all season; "this is a level change" framing; no score per insight)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, stat breakdown / bold)
+- **Follow-Up Opportunities:**
+  - 75-win milestone
+  - September win streak for division clinch backup
+  - End-of-month analysis of the 36-16 run's drivers
+
+### STORY 4: Wild Card Watch — Cubs Hold 6-Game Cushion, Cardinals Out of It
+- **Angle:** FOLLOW UP (last covered Aug 11 at "six games clear"; today: Cubs 70-50, D-backs/Phillies 64-56 = ~6 GB; Cardinals ~59-59 and irrelevant; Cardinal roast embedded; cushion is real)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, standings humor / rival jab)
+- **Follow-Up Opportunities:**
+  - Wild card clinch watch (magic number tracking)
+  - Cardinals elimination watch
+  - D-backs/Phillies potential surge scenarios
+
+### STORY 5: Game Preview — Peterson vs Mikolas, Nationals Bullpen Is the Key
+- **Angle:** NEW STORY (Game 2 at Nationals Park, 5:45 PM CT; David Peterson (6.09 ERA) vs Miles Mikolas; Nationals bullpen 4.84 ERA is the vulnerability; attack early to force Washington's pen; no score per insight)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Game 2 result recap (Aug 13 7:00 AM)
+  - Peterson shoulder concern to monitor (search flagged potential issue after next start)
+  - Series result (Cubs win series 2-1?)
+
+### STORY 6: Pre-Game Hype — Peterson on the Hill, 5:45 PM CT
+- **Angle:** NEW STORY (pre-game energy post; 45 min before first pitch; series lead on the line)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, hype)
+- **Follow-Up Opportunities:**
+  - Tonight's result recap
+
+---
+
 ## 2026-08-09
 
 ### STORY 1: Holmes Debut Recap — 4 IP, 4 ER in Shaky Return

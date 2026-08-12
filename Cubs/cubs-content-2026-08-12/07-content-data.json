@@ -1,0 +1,271 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-12",
+  "compiled_at": "2026-08-12T09:27:05.549545+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Story 1 — Game recap: Three Cubs homer in D.C. win; Chicago reaches 70-50",
+      "type": "Informative"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Story 2 — Suzuki's 20th HR; contract year statement",
+      "type": "Bold/Informative"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 3 — Cubs 70-50, 20 games over .500, 36-16 since June 10",
+      "type": "Analytical"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "Story 4 — Wild Card watch; Cubs lead by 6, Cardinals out of it",
+      "type": "Bold/Humor"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 5 — Game 2 preview: Peterson vs Mikolas, Nats bullpen is the key",
+      "type": "Informative"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 6 — Pre-game hype: Peterson on the mound, 5:45 PM CT",
+      "type": "Hype"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Game 1 Recap — Three Cubs Go Deep in D.C., Chicago Reaches 70 Wins",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "PCA (HR No. 27), Bregman (No. 13), and Suzuki (No. 20) all homered as the Cubs took Game 1 in Washington. Imanaga left in the 5th inning with a 6-4 lead after allowing three home runs; Rolison (7-1) bridged the gap. Cubs improve to 70-50 — 20 games over .500 for the first time this season. Lead with the three-homer night, NOT the game score per has_score=False insight.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "PCA. Bregman. Suzuki.\n\nThree Cubs went deep in Washington last night. All three in the same game. All three in a road W.\n\nChicago is 70-50. Twenty games over .500 for the first time this season.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative / game recap",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 218
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 6,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Game 1 Recap — Three Cubs Go Deep in D.C., Chicago Reaches 70 Wins\n- **[HIGH]** Final result: Cubs 8, Nationals 6 — confirmed by ESPN box score, MLB.com, CBS Sports\n- **[HIGH]** PCA hit his 27th HR of the season, driving in his 72nd run — CBS Sports recap\n- **[HIGH]** Seiya Suzuki hit his 20th HR of the season, total 68 RBIs — CBS Sports recap\n- **[HIGH]** Alex Bregman hit his 13th HR of the season, total 54 RBIs — CBS Sports recap\n- **[HIGH]** Imanaga exited after 4.2 IP (two outs in the fifth inning), having allowed three home runs and departing with a 6-4 lead — CBS Sports/MLB.com recap\n- **[HIGH]** Ryan Rolison (7-1 record) recorded the next 4 outs after Imanaga — CBS Sports recap\n- **[HIGH]** Cubs record after win: 70-50 — multiple sources\n- **[HIGH]** 20 games over .500 is a season-best for the 2026 Cubs — Yahoo Sports/CBS Sports\n- **[MEDIUM]** Imanaga allowed three home runs for the fourth time this season — CBS Sports summary (single source; not cross-referenced)",
+        "sources": "Sources: ESPN box score; MLB.com game story; CBS Sports gametracker recap; Yahoo Sports"
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Seiya Suzuki — 20th Home Run, Contract Year Statement",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Suzuki hit his 20th HR of 2026 last night — in the final year of his $85M contract. He now has 20 HRs and 68 RBIs as of mid-August. The Cubs' offense runs deeper than just PCA. This is a contract-year Seiya performance worth calling out.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Seiya Suzuki hit his 20th home run of the season last night.\n\nFinal year of his contract. 20 HRs, 68 RBIs as of mid-August. The Cubs' offense runs deeper than just PCA.\n\nContract year Seiya is showing up.\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold take / informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 4,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Seiya Suzuki — 20th Home Run, Contract Year Statement\n- **[HIGH]** Suzuki hit his 20th HR of the 2026 season on August 11 — confirmed by multiple recap sources\n- **[HIGH]** Suzuki has 68 RBIs as of Aug 11 — CBS Sports recap data\n- **[HIGH]** Suzuki signed a 5-year, $85M contract prior to the 2022 season — well-documented public record (Spotrac, multiple news sources)\n- **[HIGH]** 2026 is the final (5th) year of that contract — math: 2022 + 4 = 2026\n- **[MEDIUM]** Claim that this is \"the best offensive campaign of his Cubs tenure\" — plausible given 20 HR / 68 RBI pace through mid-August, but requires cross-reference with prior season stats (do not make this claim in tweet; omit for now)",
+        "sources": "Sources: CBS Sports recap; Spotrac (Suzuki contract record); MLB.com"
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Cubs 70-50 — Season-Best 20 Games Over .500",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Chicago was 34-34 on June 10. Since then: 36-16. That's the best 50-game stretch this organization has produced in years. They're now 20 games over .500 for the first time all season. This isn't a hot streak — it's a level change.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Chicago was 34-34 on June 10.\n\nSince then, they've gone 36-16. Best stretch of baseball anyone in this organization has played in years.\n\nThey're 20 games over .500 for the first time all season. This isn't a hot streak. It's a level change.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Informative / stat breakdown / bold take",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 4,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Cubs 70-50 — Season-Best 20 Games Over .500\n- **[HIGH]** Cubs record: 70-50 as of Aug 11 — multiple sources\n- **[HIGH]** 70 - 50 = 20 games over .500 — arithmetic verified\n- **[HIGH]** Cubs were 34-34 on June 10 — Yahoo Sports / CBS Sports (explicitly stated: \"They were 34-34 on June 10\")\n- **[HIGH]** Since June 10: 36-16 — arithmetic: (70-34) = 36 wins, (50-34) = 16 losses. Verified ✓\n- **[HIGH]** 20 games over .500 is a season-best — confirmed by search (\"season-best 20 games over .500\")",
+        "sources": "Sources: Yahoo Sports, CBS Sports, multiple news sources"
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Wild Card Watch — Cubs Hold 6-Game Cushion, Cardinals Are Couch-Locked",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Cubs 70-50 (No. 1 NL Wild Card). D-backs and Phillies more than five games back and knotted together. Cardinals are well out of the race. Rivals are competing for the scraps behind Chicago. The cushion is real — but September will sort out the rest.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "NL Wild Card picture after last night:\n\nCubs 70-50. No. 1.\nD-backs and Phillies more than five games back — tied with each other.\n\nThe Cardinals are miles behind, watching from the couch. Chicago's cushion is REAL.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Bold take / standings / rival humor",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 4,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Wild Card Watch — Cubs Lead by 6+, Cardinals Out of It\n- **[HIGH]** Cubs are No. 1 NL Wild Card at 70-50 — multiple sources\n- **[HIGH]** D-backs 64-56, Phillies 64-56 (pre-Aug 11 data) — sportbusy.com, ESPN\n- **[MEDIUM]** Cubs' current lead over D-backs/Phillies: 6 games (pre-Aug 11 games; post-Aug 11 actual gap may vary 5.5–6.5 GB) — calculated based on pre-game standings\n- Games Behind formula: [(70-64) + (56-50)] / 2 = [6+6] / 2 = 6.0 GB\n- Using \"more than five\" or \"six\" games back is accurate to within 0.5 games\n- **[HIGH]** Brewers lead NL Central at 74-45 — search confirmed\n- **[MEDIUM]** Cardinals at ~59-59 (pre-Aug 11); \"well out of the race\" is accurate regardless of exact record — confirmed by multiple sources and prior research",
+        "sources": "Sources: sportbusy.com standings; ESPN Wild Card standings; MLB.com; prior research (Aug 11 brief)"
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Game Preview — Peterson vs Mikolas, Nationals Bullpen Is the Vulnerability",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Game 2 tonight at 5:45 PM CT. David Peterson (6.09 ERA) starts for the Cubs vs Miles Mikolas. Peterson's results have been inconsistent, but the Cubs' blueprint is clear: attack early and force the Nationals' bullpen (4.84 ERA) into action by the middle innings. The Cubs' lineup is too deep for Washington's relief corps to handle.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Game 2 in Washington. First pitch: 5:45 PM CT tonight.\n\nDavid Peterson starts for Chicago vs. Miles Mikolas.\n\nThe Nationals' bullpen has a 4.84 ERA — attack early and they'll be finishing in pen hell by the seventh.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Informative / game preview",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 4,
+        "claims_flagged": 2,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Game Preview — Peterson vs Mikolas, Nationals Bullpen Is the Vulnerability\n- **[HIGH]** Game 2 at Nationals Park, 5:45 PM CT — series-context.json (local), SportsGrid, CubsInsider confirmed\n- **[HIGH]** David Peterson starts for Cubs — confirmed by Bleacher Nation, CubsInsider, SportsGrid\n- **[HIGH]** Miles Mikolas starts for Nationals — confirmed by SportsGrid, CubsInsider\n- **[HIGH]** David Peterson's 2026 season ERA: 6.09 in 68 innings — FanGraphs, ESPN game log reference\n- **[HIGH]** Nationals bullpen ERA: 4.84 — SportsGrid series preview (single source; marked MEDIUM pending cross-reference)\n- **[MEDIUM]** Nationals bullpen ERA 4.84 — from SportsGrid only; confident but single source",
+        "sources": "Sources: series-context.json; SportsGrid game preview; CubsInsider series preview; FanGraphs"
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Pre-Game Hype — Peterson and the Cubs in D.C., 5:45 PM CT",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "45 minutes before first pitch. Cubs looking for the series lead with Peterson on the hill. Short, punchy, energizes fans headed into game time.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "David Peterson on the hill. Cubs looking for the series lead in D.C.\n\nFirst pitch: 5:45 PM CT. Let's go.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Bold / hype",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 128
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 2,
+        "claims_flagged": 2,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Pre-Game Hype\n- **[HIGH]** Peterson starts, 5:45 PM CT — same as Story 5 (verified above)\n- **[HIGH]** Cubs seeking series lead (won Game 1) — confirmed by Game 1 recap sources",
+        "sources": "Sources: Same as Stories 1 and 5"
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
