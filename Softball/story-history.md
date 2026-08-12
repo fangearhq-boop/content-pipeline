@@ -3,6 +3,65 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-08-12
+
+### Story 1: AUSL All-Star Cup 2026 — Series 2 Underway, Kowalik Absent Entire Event
+- **Date:** 2026-08-12
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Series 1 covered Aug 8-11; today = Series 2 begins + Kowalik absence confirmed)
+- **Angle:** Correction of prior coverage — Kayla Kowalik is NOT in the 2026 AUSL All-Star Cup at all (announced unavailable before competition; prior day incorrectly anticipated her return for Series 2). Georgina Corrick elevated to Team 3 captain for Series 1; Bubba Nickles-Camarena (OKC Spark) added as player replacement. Sami Williams won Series 1 MVP (two-RBI double, Aug 8, Team Garcia). Series 2 in progress this week; individual race wide open with defending champion absent.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Series 2 game results and MVP (due mid-week)
+  - Individual standings after Series 2
+  - Series 3 preview (~Aug 24)
+
+### Story 2: LLSWS Johnston County — Homecoming Celebration
+- **Date:** 2026-08-12
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Championship Aug 10 covered Aug 11; today = homecoming angle + Clark's full tournament legacy)
+- **Angle:** Johnston County returns home to Clayton NC. Anna-Lynn Clark pitched back-to-back shutouts on consecutive days (109-pitch/11-K semifinal; 93-pitch/6-K final). 41 total tournament strikeouts, most of any pitcher. Belle Cox drove in first run with single (2nd inning). NC's 4th title (2015/2019/2024/2026); first time Johnston County represented NC at LLSWS.
+- **Content Produced:** Article (article-02, Emily Rawlings), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Johnston County parade/homecoming celebration details
+  - Clark's future (high school career/college recruitment)
+  - NC softball pipeline story
+
+### Story 3: Texas Tech Softball — Portal Update (Lindemuth Out, Gallaway In)
+- **Date:** 2026-08-12
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Texas Tech roster covered regularly; today = new portal movement)
+- **Angle:** Bailey Lindemuth (3B, .396/50H/5HR/32RBI in 68 games) enters transfer portal. Bradi Gallaway (Louisiana Tech, .317/11HR/47RBI as freshman) commits to TTU. Core stays intact: Canady (senior year, AUSL No. 2 pick), Pickering (.370, 50 HR from OU), Heavener (139.1 IP, 2.81 ERA from LSU), Beachum (.406/.549/.671). No. 1 transfer class per Softball America; 15 of 23 players didn't start at TTU.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Lindemuth landing spot
+  - Fall camp opening + roster finalization
+  - 2027 preseason rankings when released
+
+### Story 4: USA WNT WBSC World Cup Group Stage — 31-Day Countdown
+- **Date:** 2026-08-12
+- **Tier:** 3
+- **Classification:** FOLLOW UP (World Cup covered regularly; today = 31 days + OU leads roster angle + Brazil replacing South Africa)
+- **Angle:** 31 days to Group Oklahoma (Sept 12-16, Devon Park OKC). Oklahoma leads all schools with 4 WC spots (Brito, Coleman, Jennings, Maxwell). Brazil replaced South Africa in group. 16-player roster set (Garcia, Mulipola, Grant, Jennings, Maxwell, Brito, Coleman + others). USA went 8-2 at International Cup at same venue July 30-Aug 3.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Group stage opens Sept 12 (30 days from Aug 13)
+  - USA schedule/match times in OKC
+  - Countdown milestones
+
+### Story 5: Aspen Boulware Reclassifies, Enrolls Early at South Carolina
+- **Date:** 2026-08-12
+- **Tier:** 2
+- **Classification:** NEW
+- **Angle:** Aspen Boulware (No. 1 prospect in Class of 2027 nationally, shortstop) reclassified to 2026 and enrolled early at South Carolina. All-World Team honors at 2025 U-18 WBSC WC (led tournament in runs scored, USA won gold). Eligible to compete in 2027 spring season. SC 2026 class ranked No. 9 nationally.
+- **Content Produced:** Article (article-05, Emily Rawlings), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Boulware's spring 2027 debut at South Carolina
+  - South Carolina 2027 season outlook
+  - Class of 2026 final rankings post-reclassification
+
+---
+
 ## 2026-08-11
 
 ### Story 1: LLSWS 2026 — Johnston County Returns Home as Champions
