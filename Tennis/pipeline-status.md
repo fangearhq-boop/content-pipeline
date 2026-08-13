@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-08-12 |
-| Writing | Complete (all steps) | 2026-08-12 |
-| Fact-check | Complete (verify-facts.py run — 5 stories, 34 claims) | 2026-08-12 |
-| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 5 articles, 22 items) | 2026-08-12 |
-| Dashboard | Complete (review-dashboard.html, 22 items) | 2026-08-12 |
-| PostPlanner Export | Complete (standard 7 posts 13:10–20:40 ET; TOBI 7 posts) | 2026-08-12 |
-| WordPress Publish | Attempted — proxy blocks WordPress API (same as all prior runs) | 2026-08-12 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-08-12 |
+| Research | Complete | 2026-08-13 |
+| Writing | Complete (all steps) | 2026-08-13 |
+| Fact-check | Complete (verify-facts.py run — 5 stories, 27 claims) | 2026-08-13 |
+| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 5 articles, 22 items) | 2026-08-13 |
+| Dashboard | Complete (review-dashboard.html, 22 items) | 2026-08-13 |
+| PostPlanner Export | Complete (standard 7 posts 13:12–20:42 ET; TOBI 7 posts) | 2026-08-13 |
+| WordPress Publish | Attempted — proxy blocks WordPress API (same as all prior runs) | 2026-08-13 |
+| Dashboard Push | Attempted — proxy lacks write access to content-dashboards repo (same as all prior runs) | 2026-08-13 |
 
 ## Queue
 
@@ -24,6 +24,16 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-08-13 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-08-13.xlsx (7 posts 13:12–20:42 ET), tfr-postplanner-tobi-2026-08-13.xlsx (7 TOBI posts)
+- **Key stories:** Nakashima def. Jodar 7-6(3), 6-4; Shelton def. Tien 6-2, 6-3 (Shelton injured — collided with LCD ad panel, bleeding elbow/hand, coach Erin Stubbs furious, "payback" win; Tien had led H2H 2-0); All-American final tonight not before 8 PM ET; Swiatek def. Svitolina 6-3, 1-6, 6-3 (first win vs. Svitolina in 3 2026 meetings, first 2026 WTA 1000 final); Rybakina def. Gauff 5-7, 6-2, 6-2 (3rd set-down comeback in Toronto); Toronto final tonight 6 PM ET H2H 6-6; Cincinnati Day 1 open (Zverev 1, Djokovic 3, same half, Sinner/Alcaraz/Raducanu/Paolini all withdrawn); US Open injury watch (Alcaraz/Sinner/Tiafoe/Raducanu/Paolini)
+- **Issues:** posting window warnings cosmetic (known issue); image manifest all not_started (expected for imagn source); WordPress blocked by proxy; dashboard push blocked by proxy
+- **Story history:** Updated with all 5 stories
 
 ### 2026-08-12 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
