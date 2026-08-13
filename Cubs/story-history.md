@@ -5,6 +5,50 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-13
+
+### STORY 1: Game 2 Recap — Cubs Offense Pours It On in D.C.
+- **Angle:** NEW STORY (Cubs 12, Nationals 6 on Aug 12; Bregman continued strong series; Swanson homered; Peterson outpitched his 6.09 ERA through 5 innings; Jacob Webb bullpen hero per BCB; no score per has_score=False insight; Cubs now 71-50)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - Tonight's game recap (Aug 14 7:00 AM) — potential sweep result
+  - Bregman's full series stats once box score verified
+
+### STORY 2: Cardinals Still .500, Cubs Are Not
+- **Angle:** FOLLOW UP (Cardinals now 59-59 while Cubs are 71-50 and playing road ball; NL Central gap is stark; sharp Cardinals roast; Wild Card cushion ~7 GB over D-backs/Padres)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold/rival jab)
+- **Follow-Up Opportunities:**
+  - Cardinals elimination watch (magic number approaching)
+  - Wild card clinch watch as Cubs approach September
+
+### STORY 3: Pete Crow-Armstrong — WAR 7.5, NL MVP Frontrunner
+- **Angle:** FOLLOW UP (PCA WAR updated to 7.5 MLB-best; DraftKings -120 vs Ohtani +100; framing as recalibration not hot streak; Ohtani's knee keeps him off mound since July; All-Star break PCA was +700)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, analytical/bold)
+- **Follow-Up Opportunities:**
+  - PCA 30th HR milestone watch (currently at 26)
+  - September MVP odds movement
+  - Monthly NL Player of Month candidate
+
+### STORY 4: Game Preview — Gausman vs Cavalli, Series Sweep on the Line
+- **Angle:** NEW STORY (Game 3 at Nationals Park, 3:05 PM CT; Kevin Gausman (6-10, 4.29 ERA) vs Cade Cavalli (9-5, 3.57 ERA); Cubs up 2-0 in series; sweep on the table; Gausman as deadline acquisition fulfilling purpose)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Sweep result recap (Aug 14 7:00 AM if Cubs win)
+  - Gausman's performance tracking through September
+
+### STORY 5: Pre-Game Hype — Two Down, Sweep Incoming
+- **Angle:** NEW STORY (pre-game energy post, ~1h 50m before first pitch; Cubs' series dominance angle; "when this team has momentum, they're impossible to stop")
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, hype)
+- **Follow-Up Opportunities:**
+  - Game result
+
+---
+
 ## 2026-08-12
 
 ### STORY 1: Game 1 Recap — Three Cubs Go Deep in D.C., Chicago Reaches 70 Wins

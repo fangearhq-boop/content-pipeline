@@ -1,0 +1,206 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-13",
+  "compiled_at": "2026-08-13T09:25:19.643691+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Story 1 — Game 2 recap: Cubs offense dominates in D.C.",
+      "type": "Informative"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Story 2 — Cardinals at .500 while Cubs are 71-50",
+      "type": "Bold/Rival"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 3 — PCA: WAR 7.5, NL MVP frontrunner",
+      "type": "Analytical"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 4 — Game 3 preview: Gausman vs Cavalli, 3:05 PM CT",
+      "type": "Informative"
+    },
+    {
+      "time": "1:15 PM",
+      "description": "Story 5 — Pre-game hype: series sweep on the line",
+      "type": "Hype"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Game 2 Recap — Cubs Offense Pours It On in D.C.",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Cubs put up a monster offensive game in Game 2 at Nationals Park. Bregman continued his dominant series, Swanson homered, Peterson outpitched his 6.09 ERA through five innings, and Jacob Webb was the bullpen hero per Bleed Cubbie Blue. Lead with the performers — NOT the final score per has_score=False insight. Series finale today at 3:05 PM CT.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Bregman and Swanson went to work again last night.\n\nDavid Peterson outpitched his 6.09 ERA through five. Jacob Webb slammed the door. Cubs offense? Relentless.\n\nSeries finale today at Nationals Park. 3:05 PM CT.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative / game recap",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Game 2 Recap — Cubs 12, Nationals 6 (August 12)\n**Facts (with confidence):**\n- Final: Cubs 12, Nationals 6 — HIGH (MLB.com gameday, confirmed headline)\n- David Peterson started for Cubs, 5 innings, 6 strikeouts — MEDIUM (AI summary, ESPN)\n- Peterson's season ERA entering game: 6.09 — MEDIUM (from story history, CBS Sports)\n- Alex Bregman continued strong series performance — MEDIUM (multiple sources confirm \"outstanding performance\")\n- Dansby Swanson homered — MEDIUM (AI summary says \"homer from Dansby Swanson\")\n- Jacob Webb was bullpen standout (\"Superhero\" per Bleed Cubbie Blue headline) — MEDIUM\n- Cubs 71-50 after the win — HIGH (series context JSON)\n- Bregman's specific HR count in Game 2: NOT using — LOW confidence, risk of AI distortion (claim of \"3 HRs in this game\" is suspicious; BCB headline doesn't reference Bregman as the hero)\n**Sources:**\n- https://www.mlb.com/gameday/cubs-vs-nationals/2026/08/12/822698/final/box\n- https://www.bleachernation.com/cubs/2026/08/12/enhanced-box-score-cubs-12-nationals-6-august-12-2026/\n- https://www.bleedcubbieblue.com/chicago-cubs-scores/229086/2026-cubs-heroes-and-goats-jacob-webb-superhero-nationals\n- https://www.foxsports.com/mlb/chicago-cubs-vs-washington-nationals-aug-12-2026-game-boxscore-96480\n**Story type:** NEW STORY",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Cardinals Still .500, Cubs Are Not",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Cardinals at 59-59. Cubs at 71-50. The gap speaks for itself — and the Cardinals spent all summer expecting to contend. The NL Central picture heading into late August couldn't be clearer. Sharp rivalry jab, grounded in standings reality.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "The Cardinals are 59-59.\n\nThey've spent the whole summer talking about their 'window.' Cubs are 71-50 and currently embarrassing the Nationals on the road.\n\nAugust is here. The NL Central picture couldn't be clearer.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold take / rival jab",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 241
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cardinals Buried — Wild Card Update\n**Facts (with confidence):**\n- Cardinals record: 59-59 — MEDIUM (search results, multiple sources)\n- Brewers record: 74-47 — MEDIUM (search results)\n- Cubs Wild Card lead: ~7 games over D-backs/Padres (~64-57 each) — MEDIUM (multiple standings aggregators)\n- Cubs No. 1 NL Wild Card — HIGH (consistent across all sources)\n- Cardinals not in Wild Card picture — HIGH (59-59 is 12+ games out of the third WC spot)\n**Sources:**\n- https://www.mlb.com/cardinals/standings/wild-card\n- https://sportsbrackets.net/2026/05/23/2026-mlb-standings/\n- https://www.foxsports.com/mlb/standings?type=wild+card\n**Story type:** FOLLOW UP (last covered Aug 12 with Cardinals at \"~59-59 and irrelevant\")",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Pete Crow-Armstrong — WAR 7.5, NL MVP Frontrunner",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "PCA's WAR now at 7.5 — No. 1 in all of baseball. At the All-Star break he was a +700 long shot; he's now -120 on DraftKings with Ohtani pushed to +100. Frame this as a recalibration, not a hot streak. The voters are catching up to what the stats have shown all season.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Pete Crow-Armstrong's WAR sits at 7.5 — No. 1 in ALL of baseball.\n\nThe jump from +700 at the All-Star break to -120 on DraftKings isn't a hot streak. It's a recalibration. The voters are catching up to what Chicago fans already knew.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Informative / bold take",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "PCA MVP Odds Update — WAR 7.5\n**Facts (with confidence):**\n- Pete Crow-Armstrong 2026 stats: .288 BA, 26 HR, 78 R, 69 RBI, 28 SB, .938 OPS — MEDIUM\n- WAR: 7.5 (MLB-best; only Ohtani and Cristopher Sanchez above 6.0) — MEDIUM\n- Fielding Run Value: +20 (tops in MLB) — MEDIUM\n- NL MVP odds, DraftKings: PCA -120, Ohtani +100 — MEDIUM (consistent across 2+ sources)\n- All-Star break odds: PCA was +700, Ohtani was -1000 — MEDIUM (single AI summary; consistent framing across articles)\n- Ohtani removed from rotation due to knee injury in July — MEDIUM (confirmed by multiple MVP odds articles)\n**Two-source check:** PCA's WAR and odds movement confirmed independently by SI.com and Covers.com articles. MEDIUM confidence upgraded from LOW.\n**Sources:**\n- https://www.si.com/betting/nl-mvp-odds-pete-crow-armstrong-remains-favored-shohei-ohtani-still-plus-money\n- https://www.covers.com/industry/crow-armstrong-cease-new-favorites-in-mlb-award-races-aug-7-2026\n- https://www.mlb.com/news/pete-crow-armstrong-2026-mvp-case\n**Story type:** FOLLOW UP (last covered Aug 9 with PCA at -120 DraftKings vs Ohtani +100; today confirms ongoing favorite status, updated WAR from 7.3 to 7.5)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Game Preview — Gausman vs Cavalli, Series Sweep on the Line",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Kevin Gausman (acquired at the trade deadline from Toronto) takes the mound for the Cubs at 3:05 PM CT at Nationals Park. Cubs are up 2-0 in the series and can complete a sweep. Cade Cavalli (9-5, 3.57 ERA) offers a real test but the Cubs' offense has been relentless. Frame Gausman's start as fulfilling his trade deadline purpose.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Kevin Gausman takes the mound at Nationals Park today. First pitch 3:05 PM CT.\n\nAcquired at the deadline to make exactly this kind of start — two wins in, series sweep on the table.\n\nCade Cavalli (9-5, 3.57 ERA) is a test. This lineup has answers.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Informative / game preview",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Game 3 Preview — Gausman vs Cavalli\n**Facts (with confidence):**\n- Game time: 3:05 PM CT (Thu, Aug 13, 2026) — HIGH (series context JSON: \"Thu 3:05 PM CT\")\n- Venue: Nationals Park — HIGH (series context JSON)\n- Kevin Gausman starting for Cubs: 6-10, 4.29 ERA — MEDIUM (FanDuel Research AI summary)\n- Cade Cavalli starting for Nationals: 9-5, 3.57 ERA — MEDIUM (FanDuel Research AI summary)\n- Series record: Cubs lead 2-0, sweep possible — HIGH (implied from Aug 11 game 1 win 8-6 and Aug 12 game 2 win 12-6)\n- Gausman acquired from Toronto Blue Jays at 2026 trade deadline — MEDIUM (ESPN deadline recap)\n**Sources:**\n- https://www.fanduel.com/research/cubs-vs-nationals-mlb-odds-prediction-point-spread-over-under-and-betting-trends-for-8-13-2026\n- Cubs/_data/series-context.json (first-party data, HIGH confidence for game time/venue)\n- https://www.cubsinsider.com/2026/08/11/chicago-cubs-washington-nationals-series-preview-august-11-13-overview-game-and-broadcast-info-starting-pitchers-w2w4/\n**Story type:** NEW STORY",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Pre-Game Hype — Two Down, Sweep Incoming",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "45 minutes before first pitch, hype post. Cubs have won two straight from Washington. Gausman on the hill at 3:05 PM CT. Short, punchy, energizes fans before game time. \"When this team has momentum, they're impossible to stop.\"",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Two down in D.C. One more to go.\n\nThe Cubs offense hasn't given the Nationals a moment's rest. Gausman on the hill at 3:05 PM CT for the chance to close out a sweep.\n\nWhen this team has momentum, they're impossible to stop.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Bold / hype",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Pre-Game Hype — Series Sweep Push\n**Facts (with confidence):**\n- Cubs 71-50 going into game 3 — HIGH\n- Cubs went 37-16 since June 10 (based on story history: \"34-34 on June 10, 36-16 since\" updated by Aug 12 win) — MEDIUM\n- Series: Cubs 2-0 in the series — HIGH\n- Gausman on the hill, 3:05 PM CT — HIGH\n**Note:** \"34-34 on June 10\" angle already covered in Aug 12 Story 3 (avoided in today's tweet). Today's hype focuses on the sweep momentum, not the season record.\n**Story type:** NEW STORY (series sweep hype angle; no duplicate of Aug 12 content)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
