@@ -5,6 +5,50 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-13
+
+### Story 1: Field of Dreams Game Day — Tonight on Netflix
+- **Date:** 2026-08-13
+- **Tier:** 1
+- **Classification:** FOLLOW UP (covered Aug 6-12; today is game day)
+- **Angle:** Shift from preview to "game day is here." First pitch 7:30 PM ET on Netflix; HOF pregame (Schmidt, Carlton, Mauer, Carew); Kevin Costner in broadcast; Twins 1961 inaugural pinstripes; Phillies 1939-41 gray road jerseys; no ABS system; third edition (2021/2022, then 3-year hiatus for permanent stadium rebuild).
+- **Content Produced:** Article (article-01, Ryan Calloway), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:** Game recap after Aug 13 (final score, highlights, viewership numbers on Netflix)
+
+### Story 2: Luis Castillo 10 Ks — White Sox Blank Reds 5-0
+- **Date:** 2026-08-13
+- **Tier:** 2
+- **Classification:** FOLLOW UP (White Sox AL Central covered regularly; Aug 12 game result is NEW)
+- **Angle:** Castillo struck out 10 in 7 innings in a 5-0 shutout on Aug 12, bouncing back from Pope Hat Night loss. White Sox 62-56, 1st in AL Central (DET -3.5, MIN -4.0). From 41-121 in 2024.
+- **Content Produced:** Article (article-02, Marcus Cole), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:** AL Central standings; White Sox vs Tigers head-to-head; Castillo next start
+
+### Story 3: MLB HR Race — Four-Way Tie at 35 (Schwarber, Alvarez, Olson, Caminero)
+- **Date:** 2026-08-13
+- **Tier:** 2
+- **Classification:** NEW
+- **Angle:** Four players from four different teams tied at 35 HRs each — Schwarber (PHI), Alvarez (HOU), Olson (ATL), Caminero (TB). Schwarber playing tonight in Field of Dreams game, connecting the two biggest stories of the day. Schwarber hit 56 HRs in 2025; was 18th player in MLB history with 20+ HRs in first 49 games.
+- **Content Produced:** Article (article-03, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:** HR race updates daily as any player pulls away; Schwarber pace vs. his 2025 season
+
+### Story 4: Cubs 70-50 — Wild Card Lead Extends to 6 Games
+- **Date:** 2026-08-13
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Cubs Wild Card covered Aug 10-12; gained one game)
+- **Angle:** Cubs moved from 69-50 (5-game lead) to 70-50 (6-game lead). Padres and D-backs holding other two NL WC spots (~64-57). Gausman + Holmes + Garrett all delivering post-deadline. ~42 games remaining.
+- **Content Produced:** Article (article-04, Ryan Calloway), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:** Wild Card standings tracking; individual pitcher ERAs (Gausman, Holmes) post-deadline
+
+### Story 5: Skubal 0-1 in Two Dodger Starts — Adjustment Window Open
+- **Date:** 2026-08-13
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Skubal debut covered Aug 11; home start covered Aug 12; third-chapter framing)
+- **Angle:** Two starts as a Dodger — 6K in each, personal record 0-1, team 1-1. Fastball command spotty in start 2. Next start coming. Context: 1,000th career K on July 29 while still a Tiger. Dodgers acquired him for playoff anchor role.
+- **Content Produced:** Article (article-05, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:** Skubal's next start result; Dodgers NL West standings; Ohtani return timeline
+
+---
+
 ## 2026-08-12
 
 ### Story 1: Field of Dreams 2026 — Tomorrow Night on Netflix

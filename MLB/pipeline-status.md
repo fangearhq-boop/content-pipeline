@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-08-13
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch + research agent, 5 stories verified HIGH confidence), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations — all ≤280), FB posts (5 stories), image concepts (9 items; imagn source), image manifest (9 items, not_started), articles (5), fact-check (32 claims; claim-patterns.py missing known), compile (5 stories, 7 tweets, 0 FB posts — format known, 5 articles, 9 images), dashboard (22 items), PostPlanner exports (7 posts each — standard + TOBI). WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard publish push failed (proxy known restriction). IMAGE NOT STARTED (manifest recognized but images not yet produced in Canva). claim-patterns.py missing (known). PostPlanner FB: 0 posts compiled (format known). 0 char violations.
+- **Key Stories**: Field of Dreams TONIGHT Aug 13 Netflix 7:30 ET/Twins vs Phillies/game day angle/Schmidt+Carlton+Mauer+Carew+Costner/1961 pinstripes+1939-41 grays/no ABS (Tier 1 FOLLOW UP), White Sox blank Reds 5-0/Castillo 10 K 7 IP shutout/62-56 AL Central 1st/DET -3.5/MIN -4.0/from 41-121 in 2024 (Tier 2 FOLLOW UP), MLB HR race four-way tie at 35/Schwarber+Alvarez+Olson+Caminero/Schwarber playing Field of Dreams tonight/hit 56 in 2025 (Tier 2 NEW), Cubs 70-50 NL Wild Card 6-game lead/Padres+D-backs ~64-57/Gausman+Holmes+Garrett delivering/~42 games to go (Tier 2 FOLLOW UP), Skubal 0-1 in two Dodger starts/Start1: Aug4 6IP 2ER 6K loss/Start2: Aug10 5IP 3ER 6K ND/next start coming/1000th K on July 29 as Tiger (Tier 2 FOLLOW UP)
+
+## Last Run
 - **Date**: 2026-08-12
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch + research agent, 5 stories verified HIGH confidence), brief (5 stories), research notes, story analysis, X posts (7; 2 char violations fixed Story 1 tweets 290/293→229/240; all ≤280), FB posts (5 stories), image concepts (9 items; imagn source), image manifest (9 items, not_started), articles (5), fact-check (29 claims; claim-patterns.py missing known), compile (5 stories, 7 tweets, 0 FB posts — format known, 5 articles, 9 images), dashboard (22 items), PostPlanner exports (0 posts — format known). WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
