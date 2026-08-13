@@ -1,8 +1,19 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Last Run
-- **Date**: 2026-08-12
+- **Date**: 2026-08-13
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 8 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** hh-postplanner-2026-08-13.xlsx (18 posts) + hh-postplanner-tobi-2026-08-13.xlsx (13 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-08-13/review-dashboard.html (23 items)
+- **Notes:** SCHEDULE RELEASE DAY — Full 2026-27 NBA schedule dropped Aug 13 3PM ET (Paris: Spurs/Pelicans Jan 14; Mexico City Nov 7; Christmas: 76ers-Lakers LeBron return; NBA Cup opens Oct 30 Knicks-76ers/Lakers-Warriors); Russell Westbrook retirement announced (18 seasons, all-time triple-double leader, Michael B. Jordan video); Kawhi Leonard investigation fact-finding complete, resolution ~6 weeks; Giannis-Heat NBA Cup/Christmas Day schedule now visible; Curry extension window Aug 29 (16 days)
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+### 2026-08-12
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
 - **Stories:** 5 total (3 Tier 1, 2 Tier 2)
 - **X Posts:** 7 written, all under 280 characters
 - **Facebook Posts:** 5 stories, long-form + caption each

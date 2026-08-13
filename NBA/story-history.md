@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-08-13
+
+| Date | Tier | Story | Formats | Status |
+|------|------|-------|---------|--------|
+| 2026-08-13 | T1 | NBA 2026-27 Full Schedule Released — Paris, Mexico City, NBA Cup, All the Dates | X, FB, Article | NEW |
+| 2026-08-13 | T1 | Russell Westbrook Retires After 18 NBA Seasons | X, FB, Article | NEW |
+| 2026-08-13 | T1 | Kawhi Leonard Investigation — Fact-Finding Phase Complete, Resolution Imminent | X, FB, Article | FOLLOW UP |
+| 2026-08-13 | T2 | Giannis + Heat: NBA Cup Schedule Reveals Miami's Fall Debut | X, FB, Article | FOLLOW UP |
+| 2026-08-13 | T2 | Curry Extension Countdown — 16 Days Until the Window Opens | X, FB, Article | FOLLOW UP |
+
+### STORY 1: NBA 2026-27 Full Schedule Released — Paris, Mexico City, NBA Cup, All the Dates
+- **Tier:** 1
+- **Category:** NBA Season Preview / Schedule Release
+- **Key facts:** Full 82-game schedule released Aug 13 at 3 PM ET. International games: Spurs vs. Pelicans in Paris (Jan 14); Mexico City game (Nov 7). NBA Cup Group Stage opens Oct 30: Knicks vs. 76ers and Lakers vs. Warriors. Black Friday: Wembanyama vs. Lakers. Christmas Day 5 games: Spurs vs. Knicks (Finals rematch), Heat vs. Celtics, Thunder vs. Wolves, 76ers vs. Lakers, Nuggets vs. Warriors. Opening Night Oct 20: Celtics-Pistons 3PM / 76ers-Knicks 7PM / Thunder-Spurs 9:30PM (NBC/Peacock). All-Star Game: Feb 21 Phoenix.
+- **Status:** NEW
+- **Follow-up ideas:** Full schedule breakdown; Opening Night preview; Christmas Day deep dives; Knicks banner night coverage
+
+### STORY 2: Russell Westbrook Retires After 18 NBA Seasons
+- **Tier:** 1
+- **Category:** NBA Retirement / Hall of Fame
+- **Key facts:** Retirement announced Aug 13, 2026 via social media video narrated by Michael B. Jordan. 18 seasons played. Career: 9-time NBA All-Star, 9-time All-NBA, 2017 Kia MVP. All-time triple-double leader. 5th all-time in assists, 14th all-time in points. Retires without a championship. Was offered minimum contracts by Kings and Wizards but chose retirement. Age 37.
+- **Status:** NEW
+- **Follow-up ideas:** Hall of Fame eligibility; legacy analysis; triple-double record standing
+
+### STORY 3: Kawhi Leonard Investigation — Fact-Finding Phase Complete, Resolution Imminent
+- **Tier:** 1
+- **Category:** NBA Investigation / Los Angeles Clippers / Kawhi Leonard
+- **Key facts:** Fact-finding phase now complete. Two deals under scrutiny: Aspiration ($28M endorsement) and Daktronics (halo scoreboard at Intuit Dome — alleged cap circumvention). NBPA arbitration threat remains live. Clippers-Raptors trade still frozen. Resolution expected within 6 weeks. Leonard owed $50.3M in 2026-27.
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Resolution announcement; trade completion or collapse; training camp implications
+
+### STORY 4: Giannis + Heat: NBA Cup Schedule Reveals Miami's Fall Debut
+- **Tier:** 2
+- **Category:** NBA Season Preview / Miami Heat / Giannis Antetokounmpo
+- **Key facts:** Giannis-Heat trade executed July 6. Supermax window: Jan 6, 2027 (4 years, $275M). Giannis skipped late-August FIBA window (Heat managing workload). Christmas Day: Heat vs. Celtics. NBA Cup group stage opens Oct 30. Full schedule now official.
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Giannis preseason debut; Miami opening night; Christmas Day Heat-Celtics angle
+
+### STORY 5: Curry Extension Countdown — 16 Days Until the Window Opens
+- **Tier:** 2
+- **Category:** NBA Contracts / Golden State Warriors / Stephen Curry
+- **Key facts:** Extension window opens Aug 29 (16 days from today). Value: 2yr/$136.7M (~$68M/year). Curry's 2026-27 salary: $62.6M — first player to earn $60M+ in a season. GM Dunleavy: "super aggressive" offseason; "confident" Curry finishes as a Warrior. Without extension → UFA at 39. Full schedule now visible for both sides.
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Signing announcement (expect September); extension official; Warriors opening night preview
+
 ## 2026-08-12
 
 | Date | Tier | Story | Formats | Status |

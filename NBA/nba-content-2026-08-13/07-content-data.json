@@ -1,0 +1,362 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-13",
+  "compiled_at": "2026-08-13T11:36:12.108477+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "S1 — Schedule Release",
+      "type": "X"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "S2 — Westbrook Retirement",
+      "type": "X"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "S2 — Westbrook Retirement",
+      "type": "X"
+    },
+    {
+      "time": "2:00 PM",
+      "description": "S3 — Kawhi Investigation",
+      "type": "X"
+    },
+    {
+      "time": "4:00 PM",
+      "description": "S3 — Kawhi Investigation",
+      "type": "X"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "S1 — Schedule Release",
+      "type": "X"
+    },
+    {
+      "time": "7:00 PM",
+      "description": "S4 — Giannis/Heat",
+      "type": "X"
+    },
+    {
+      "time": "9:30 PM",
+      "description": "S5 — Curry Extension",
+      "type": "X"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "NBA 2026-27 Full Schedule Released — Paris, Mexico City, NBA Cup, All the Dates",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The 2026-27 NBA schedule is HERE.\n\nKey dates to circle:\n• Oct 30 — NBA Cup opens (Knicks-76ers, Lakers-Warriors)\n• Nov 7 — Mexico City game\n• Jan 14 — Paris: Spurs vs. Pelicans\n• Black Friday — Wemby vs. Lakers\n• Dec 25 — LeBron returns to LA\n\n#NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA"
+          ],
+          "char_count": 248
+        },
+        {
+          "label": "Post 1-2",
+          "text": "NBA Cup Group Stage kicks off October 30 with two marquee games:\n\nKnicks vs. 76ers\nLakers vs. Warriors\n\nThe Cup begins with the biggest names in the league on the same night. This league does NOT miss.\n\n#NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA"
+          ],
+          "char_count": 207
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-nba-full-schedule-released-paris-mexico-cup-dates.html",
+        "headline": "NBA Releases Full 2026-27 Schedule — Paris, Mexico City, LeBron's Christmas Return, and Every Marquee Date",
+        "word_count": 630
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NBA 2026-27 Full Schedule Released\n**HIGH confidence:**\n- Full 2026-27 regular season schedule released Aug 13 at 3 PM ET [Yahoo Sports live updates, CBS Sports, NBC Sports]\n- Prior release: NBA Cup schedule Aug 11; opening night reveal Aug 11 on Good Morning America [CBS Sports]\n- Opening Night: Oct 20, 2026 — NBC/Peacock tripleheader [NBC Sports, CBS Sports]\n- Game 1: Boston Celtics at Detroit Pistons, 3 PM ET\n- Game 2: Philadelphia 76ers at New York Knicks, 7 PM ET (LeBron debut + Knicks banner night)\n- Game 3: Oklahoma City Thunder at San Antonio Spurs, 9:30 PM ET\n- International games: Spurs vs. Pelicans in Paris (Jan 14); Mexico City game (Nov 7) [CBS Sports, Yahoo Sports]\n- NBA Cup Group Stage opens Oct 30: Knicks vs. 76ers and Lakers vs. Warriors as opening tip-off games [CBS Sports, Olympics.com]\n- Black Friday feature game: Wembanyama vs. Lakers [CBS Sports]\n- Christmas Day: LeBron James returns to Los Angeles to face the Lakers [CBS Sports]\n- All-Star Game: Feb 21, Phoenix [CBS Sports]\n- Knicks won 2025-26 NBA title; Jalen Brunson Finals MVP [NBA.com]\n**MEDIUM confidence:**\n- Christmas Day 5-game slate confirmed: Spurs vs. Knicks (Finals rematch), Heat vs. Celtics, Thunder vs. Timberwolves, 76ers vs. Lakers, Nuggets vs. Warriors [CBS Sports, Basketnews]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Russell Westbrook Retires After 18 NBA Seasons",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Russell Westbrook has retired from the NBA.\n\n18 seasons. 9 All-Star selections. 2017 MVP.\nAll-time triple-double record.\n5th all-time in assists. 14th in points.\n\nHe did it his way. Every single night.\n\n#NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA"
+          ],
+          "char_count": 207
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Russ went out with a retirement video narrated by Michael B. Jordan.\n\nThat is the most Russell Westbrook thing imaginable and I love it.\n\nA career unlike any other. First ballot Hall of Famer.\n\n#NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA"
+          ],
+          "char_count": 198
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-russell-westbrook-retires-18-seasons-triple-double-record.html",
+        "headline": "Russell Westbrook Retires After 18 Seasons — The All-Time Triple-Double Record Belongs to Him Forever",
+        "word_count": 636
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Russell Westbrook Retirement\n**HIGH confidence:**\n- Westbrook announced retirement Aug 13, 2026 [NBA.com, NBC Sports, Yahoo Sports]\n- Retirement announcement video narrated by actor Michael B. Jordan [NBC Sports]\n- 18 seasons played in NBA [NBA.com]\n- Career: 9-time NBA All-Star, 9-time All-NBA selection [NBA.com]\n- 2017 Kia MVP Award winner [NBA.com]\n- All-time triple-double leader [NBA.com historical record]\n- 5th all-time in assists [NBA.com]\n- 14th all-time in points [NBA.com]\n- Age: 37 at time of retirement [NBA.com]\n- Retires without an NBA championship [NBA.com historical record]\n- Was offered minimum contracts by Sacramento Kings and Washington Wizards [Yardbarker]\n- Chose retirement over another season as a reserve [NBC Sports, Yahoo Sports]\n- Westbrook will be a first-ballot Hall of Famer [multiple analyst consensus]\n**MEDIUM confidence:**\n- Multiple sources confirm retirement but exact wording of announcement may vary by outlet",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Kawhi Leonard Investigation — Fact-Finding Phase Complete, Resolution Imminent",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "NBA investigation update: the fact-finding phase is complete.\n\nTwo deals under scrutiny — Aspiration AND Daktronics.\nNBPA arbitration threat still live.\nClippers-Raptors trade still frozen.\n\nResolution expected within 6 weeks. Clock is ticking.\n\n#NBA #Clippers #Raptors",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA",
+            "#Clippers",
+            "#Raptors"
+          ],
+          "char_count": 269
+        },
+        {
+          "label": "Post 3-2",
+          "text": "The Kawhi Leonard investigation in one sentence:\n\nA scoreboard company (that built the Clippers' own arena board) allegedly funneled money from the team back to Kawhi — and someone called it \"1,000%\" cap circumvention.\n\nThis is wild.\n\n#NBA #Clippers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA",
+            "#Clippers"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-kawhi-leonard-investigation-fact-finding-complete-resolution-imminent.html",
+        "headline": "Kawhi Leonard Investigation: Fact-Finding Phase Complete, Resolution Expected Within Six Weeks",
+        "word_count": 544
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Kawhi Leonard Investigation\n**HIGH confidence:**\n- Fact-finding phase of NBA investigation complete [HoopsHype, CBS Sports]\n- Two deals under scrutiny: Aspiration ($28M endorsement) and Daktronics (Intuit Dome scoreboard maker) [CBS Sports, Yahoo Sports, Front Office Sports]",
+        "sources": "- Source to Pablo Torre: Daktronics deal was \"1,000% a way to circumvent the salary cap\" [CBS Sports, Front Office Sports]\n- Leonard did no public-facing work for Daktronics [CBS Sports, HoopsRumors]\n- Daktronics PR confirmed no current deal with Leonard [CBS Sports]\n- NBA hired law firm Wachtell Lipton Rosen & Katz [CBS Sports, HoopsRumors]\n- Clippers-Raptors trade remains frozen [HoopsHype, Bolavip]\n- NBPA threatened neutral arbitration if punishment pursued without evidence [NBC Sports]\n- Resolution expected within ~6 weeks per HoopsHype [HoopsHype]\n- Leonard owed $50.3M in 2026-27 [HoopsRumors]\n- Trade package: Leonard to Toronto for Brandon Ingram, Gradey Dick, future picks [NBA.com]\n- Kawhi \"strongly believes\" trade will go through [ClutchPoints]"
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Giannis + Heat: NBA Cup Schedule Reveals Miami's Fall Debut",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The schedule is out. Mark Christmas Day:\n\nHeat vs. Celtics.\n\nGiannis Antetokounmpo. Bam Adebayo. Against Boston on the biggest stage.\n\nHe's building toward a $275M supermax in January. The Heat era is officially on the clock.\n\n#NBA #Heat",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA",
+            "#Heat"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-giannis-heat-christmas-day-schedule-contender-preview.html",
+        "headline": "Giannis Gets a Christmas Day Stage — Heat vs. Celtics Headlines What the 2026-27 Schedule Reveals About Miami's Rise",
+        "word_count": 539
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Giannis to Miami — NBA Cup Schedule\n**HIGH confidence:**\n- Giannis trade executed July 6, 2026 [ESPN, NBA.com]\n- Heat received Giannis + Bobby Portis [ESPN]\n- Bucks received: Tyler Herro, Kel'el Ware, Jaime Jaquez Jr., Kasparas Jakucionis, 2031+2033 unprotected firsts, No. 13 pick, 2030 swap, 2033 second [ESPN]\n- Supermax window: Jan 6, 2027; value: 4 years, $275M [Bleacher Report]\n- Giannis skipped late-August FIBA window [Yahoo Sports]\n- NBA Cup Group Stage opens Oct 30 with Knicks vs. 76ers and Lakers vs. Warriors [CBS Sports]\n- Christmas Day: Heat vs. Celtics [CBS Sports, Basketnews]\n- Giannis partners with Bam Adebayo [confirmed roster]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Curry Extension Countdown — 16 Days Until the Window Opens",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Stephen Curry's extension window opens in 16 days (August 29).\n\nThe ask: 2 years, $136.7M. He's already the first NBA player to earn $60M in a single season.\n\nA September signing is expected. The full season schedule is set. Now just sign the paper.\n\n#NBA #Warriors",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA",
+            "#Warriors"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-stephen-curry-extension-countdown-16-days-warriors-future.html",
+        "headline": "16 Days: Stephen Curry's Extension Window Opens August 29, and the Warriors' Future Hangs on What Happens Next",
+        "word_count": 559
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Stephen Curry Extension\n**HIGH confidence:**\n- Extension window opens Aug 29 [Yardbarker, CBS Sports]\n- 16 days from Aug 13 to Aug 29 [calculated ✓]\n- Extension value: 2 years, $136.7M [Spotrac, CBS Sports]\n- Curry's 2026-27 salary: $62.6M — first NBA player to earn $60M+ in a season [CBS Sports]\n- GM Mike Dunleavy Jr.: \"super aggressive\" offseason, \"confident\" Curry finishes in Golden State [Bleacher Report]\n- Without extension → UFA after 2026-27 at age 39 [Yardbarker]\n- Draymond Green returned: 1yr/$27.7M [ESPN]\n- Gary Payton II returned: 1yr/$3.9M [ESPN]\n- September signing widely expected [multiple sources]\n- Full 2026-27 schedule now public [NBA.com, Aug 13]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 8
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
