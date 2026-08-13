@@ -1,10 +1,21 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
-- **Date**: 2026-08-12
-- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy 403; git committed and pushed)
+- **Date**: 2026-08-13
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy 403)
 
 ## Pipeline Run Log
+
+### 2026-08-13
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 8 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres)
+- **PostPlanner exports:** gfr-postplanner-2026-08-13.xlsx (18 posts) + gfr-postplanner-tobi-2026-08-13.xlsx (13 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-08-13/review-dashboard.html (23 items)
+- **Notes:** FEDEX CUP PLAYOFFS BEGIN — FedEx St. Jude R1 underway at TPC Southwind (Aug 13-16, $20M purse, top 70 advance to BMW); Scheffler No. 1 seed 4th time in 5 years (4,123-pt lead, 794 over Fitzpatrick); LIV Golf double crisis ($40M Michigan event canceled, Saudi PIF ending funding, new investor announced by CEO O'Neil at Bedminster, "LIV 2.0" player-equity plan); Shiho Kuwaki wins 50th AIG Women's Open at Royal Lytham in playoff over Henseleit; Michael Brennan wins Wyndham at -22 (final-hole birdie, Ben James final-round 61); LPGA Portland Classic R1 today at Columbia Edgewater
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-08-12
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

@@ -1,0 +1,360 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-13",
+  "compiled_at": "2026-08-13T11:42:24.497185+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "S1 — Dutch GP Preview",
+      "type": "X"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "S2 — Antonelli Championship",
+      "type": "X"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "S3 — Verstappen Exit Clause",
+      "type": "X"
+    },
+    {
+      "time": "2:00 PM",
+      "description": "S2 — Antonelli Championship",
+      "type": "X"
+    },
+    {
+      "time": "4:00 PM",
+      "description": "S3 — Verstappen Exit Clause",
+      "type": "X"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "S1 — Dutch GP Preview",
+      "type": "X"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "S4 — Mercedes Reliability",
+      "type": "X"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "S5 — Cadillac / Perez",
+      "type": "X"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Dutch Grand Prix — Eight Days Away, Sprint Format, Final Race at Zandvoort",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Eight days until the Dutch GP.\n\nThe last F1 race ever at Zandvoort.\nThe first Sprint weekend at this circuit.\nThe championship leader faces his biggest second-half test.\n\nSummer is ending. The title fight resumes August 21.\n\n#F1 #DutchGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#DutchGP"
+          ],
+          "char_count": 237
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Quick Dutch GP schedule reminder:\n\nFriday Aug 21 — Sprint Qualifying\nSaturday Aug 22 — Sprint + GP Qualifying\nSunday Aug 23 — Race (9 AM ET / 3 PM local)\n\nSix years of racing at Zandvoort. One race left. Make it count.\n\n#F1 #DutchGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#DutchGP"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-dutch-gp-preview-last-zandvoort-race-sprint-format.html",
+        "headline": "Dutch Grand Prix Preview: Eight Days to Zandvoort's Final F1 Race, in Sprint Format",
+        "word_count": 546
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Dutch Grand Prix Preview\n**HIGH confidence:**\n- Dutch GP date: August 21-23, 2026, Circuit Zandvoort [PlanetF1, Formula1.com, Autosport]\n- Sprint weekend format confirmed [PlanetF1]\n- Schedule: Sprint Qualifying Friday 3:30 PM; Sprint Saturday 11:00 AM; GP Qualifying Saturday 3:00 PM; Race Sunday 2:00 PM [PlanetF1]\n- Zandvoort exits F1 calendar after 2026 race [GrandPrix247]\n- Track: 4.259 km, 72 laps [circuit specifications]\n- Teams return from summer shutdown August 17 [GPFans, Motorsport.com]\n- Six races held at Zandvoort in modern era: 2021-2026 [F1 calendar records]\n- Championship leader Antonelli: 219 points [RacingNews365]\n**MEDIUM confidence:**\n- Race Sunday local time 15:00 / 9:00 AM ET — consistent with previous Dutch GP slot [inferred from schedule]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Kimi Antonelli — Championship Leader Entering the Second Half",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "After 11 rounds, here is the F1 Drivers' Championship:\n\nNo. 1 Antonelli — 219 pts\nNo. 2 Hamilton — 169 pts\nNo. 3 Russell — 160 pts\n\nA 21-year-old leads by 50 points. 291 still available. 12 races to go.\n\n#F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 207
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Kimi Antonelli entering the second half of 2026:\n\n• 6 wins\n• 6 pole positions\n• 9 podiums\n• 50-point championship lead\n\nNow the bad news: he and Russell are both expected to take grid penalties for power unit changes.\n\nThe title is real but so is the risk.\n\n#F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-antonelli-championship-lead-50-points-hamilton-second-half.html",
+        "headline": "Kimi Antonelli Leads Lewis Hamilton by 50 Points — What the F1 Summer Break Means for the 2026 Title Fight",
+        "word_count": 617
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli Championship Standings\n**HIGH confidence:**\n- Standings after Round 11 (Hungarian GP, July 24-26): Antonelli 219 pts, Hamilton 169 pts, Russell 160 pts [RacingNews365, Wikipedia]\n- Antonelli stats: 6 wins, 6 poles, 9 podiums through Round 11 [RacingNews365]\n- Mercedes Constructors Championship: 379 pts [RacingNews365]\n- Ferrari estimated ~307 pts (second in Constructors) [ESPN, Sky Sports]\n- 291 points remain in drivers' championship [calculated from 2026 race calendar]\n- 505 points remain in constructors' championship [calculated]\n- 12 races remain from Dutch GP onward [Formula1.com 2026 calendar]\n- Both Antonelli and Russell expected to face grid penalties — power unit components [GrandPrix247, Sky Sports]\n- Kimi Antonelli age: 21 years old [Wikipedia]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Verstappen Exit Clause — Decision Window Open, Dutch GP the Likely Deadline",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Max Verstappen's exit clause from Red Bull is active.\n\nThe window: August–October 2026.\nHis home race at Zandvoort: August 23.\n\nAnnouncement before or during Dutch GP weekend is widely expected. Red Bull gets nothing if he walks.\n\n#F1 #DutchGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#DutchGP"
+          ],
+          "char_count": 243
+        },
+        {
+          "label": "Post 3-2",
+          "text": "The reason Verstappen has an exit clause at all: he was worried about the 2026 technical regulations before they ever hit the track.\n\nHe was right to be worried. Red Bull hasn't won a race yet this season.\n\nThe clause is active. The window is closing. Eight days.\n\n#F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-verstappen-exit-clause-dutch-gp-deadline-red-bull.html",
+        "headline": "Verstappen's Exit Clause Is Active — And His Home Race at Zandvoort Is Eight Days Away",
+        "word_count": 585
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Max Verstappen Exit Clause\n**HIGH confidence:**\n- Exit clause activated: triggered after Red Bull failed to have a driver in top 2 of standings after July 2026 [F1 story history, Aug 8 coverage]\n- Window active: August–October 2026 [story history coverage]\n- Red Bull receives no compensation if clause triggered [story history]\n- Verstappen refused to publicly discuss future [story history]\n- Clause originally added due to Verstappen's apprehension about 2026 technical regulations [story history]\n- Dutch GP: August 21-23 (Verstappen's home race) [PlanetF1]\n- Red Bull claims \"key advantage\" in hunt for first 2026 win [story history]\n- Isack Hadjar races for Red Bull as Verstappen's current teammate [BVM Sports, PlanetF1]\n**MEDIUM confidence:**\n- Announcement expected before or during Dutch GP weekend — analyst consensus, not confirmed by Verstappen",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Mercedes Reliability Crisis — Grid Penalties Loom for Antonelli and Russell",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Mercedes has warned that both Antonelli and Russell are \"likely\" to take grid penalties in the second half of the season.\n\nPower unit component limits exceeded.\n\nChampionship leader taking a grid drop at the wrong race could change everything.\n\n#F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-mercedes-grid-penalties-antonelli-russell-championship-risk.html",
+        "headline": "Mercedes Warns of Grid Penalties Ahead — The Complication Looming Over Antonelli's Championship Lead",
+        "word_count": 572
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Mercedes Reliability / Grid Penalties\n**HIGH confidence:**\n- Both Antonelli (P1) and Russell (P3) expected to face grid penalties in second half [GrandPrix247, Sky Sports]\n- Reason: exceeding permitted power unit component allocations [Sky Sports F1]\n- Grid penalties incurred when teams use more than regulated number of engine elements [F1 technical regulations]\n- Antonelli leads championship by 50 pts (219 vs Hamilton 169) [RacingNews365]\n- Ferrari described as \"a thorn\" in the double championship hunt [RacingNews365]\n- Ferrari has shown mid-season performance improvement [ESPN, Sky Sports]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Cadillac F1 — Debut Season Progress and the Verstappen Question",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Sergio Perez is reportedly drawing interest from rival F1 teams while racing for Cadillac in their debut season.\n\nFirst year as an F1 team. First midfield drama. Welcome to Formula 1, Cadillac.\n\n#F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 198
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-cadillac-f1-debut-season-perez-bottas-second-half.html",
+        "headline": "Cadillac F1 at Midseason: How the 11th Team's Debut Year Is Unfolding",
+        "word_count": 536
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Cadillac F1 Debut\n**HIGH confidence:**\n- Cadillac F1 drivers: Valtteri Bottas and Sergio Perez [BVM Sports, Motor Sport Magazine, PlanetF1]\n- Team Principal: Marcin Budkowski (replaced Graeme Lowdon) [BVM Sports]\n- Cadillac is 11th team on 2026 grid [PlanetF1]\n- Grid expanded to 11 teams and 22 drivers in 2026 [PlanetF1]\n- Arvid Lindblad: only full rookie on grid, Racing Bulls [Motor Sport Magazine]\n- Isack Hadjar: promoted to Red Bull Racing [Motor Sport Magazine]\n- Yuki Tsunoda: left grid after five seasons, took reserve driver role [Motor Sport Magazine]\n- 2026 season features completely new technical regulations [ESPN]\n- Perez drawing interest from rival teams [Sky Sports live blog]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 8
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-08-13
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-08-13 | T1 | FedEx St. Jude Championship — Round 1 Underway at TPC Southwind | X, FB, Article | NEW |
+| 2026-08-13 | T1 | LIV Golf in Crisis — $40M Finale Canceled, New Investor Announced | X, FB, Article | NEW |
+| 2026-08-13 | T1 | Shiho Kuwaki Wins AIG Women's Open — Japan's First Major Champion of 2026 | X, FB, Article | FOLLOW UP |
+| 2026-08-13 | T2 | Scottie Scheffler Leads FedEx Cup Entering Playoffs — Four Times No. 1 in Five Years | X, FB, Article | NEW |
+| 2026-08-13 | T2 | Michael Brennan Wins Wyndham Championship / LPGA Portland Classic Opens | X, FB, Article | NEW |
+
+### STORY 1: FedEx St. Jude Championship — Round 1 Underway at TPC Southwind
+- **Tier:** 1
+- **Category:** PGA Tour / FedEx Cup Playoffs / Round 1
+- **Key facts:** FedEx St. Jude Championship: Aug 13-16, TPC Southwind, Memphis, TN. $20 million purse ($3.6M to winner). Top 70 players in FedExCup standings qualified. Round 1 in progress today. Playoff format: top 50 advance to BMW Championship (Aug 20-23, Bellerive CC, St. Louis); top 30 advance to Tour Championship (Aug 27-30, East Lake GC, Atlanta). FedEx Cup bonus: $25 million total. Scheffler leads standings.
+- **Status:** NEW
+- **Follow-up ideas:** St. Jude R1-R4 results; Scheffler/McIlroy scorecards; leaderboard; BMW field cut
+
+### STORY 2: LIV Golf in Crisis — $40M Finale Canceled, New Investor Announced
+- **Tier:** 1
+- **Category:** LIV Golf / Business / Future of the League
+- **Key facts:** LIV canceled $40M Michigan team championship (The Cardinal, Saint John's Resort, suburban Detroit; scheduled Aug 27-30). Second cancellation of 2026 (New Orleans $30M scrapped June). Saudi PIF pulling funding at end of 2026. New lead investor announced by CEO Scott O'Neil at Trump National Bedminster — identity undisclosed, approved by LIV Board. "LIV 2.0": five team majors + five U.S. signature events; players become majority equity holders. Transaction expected to finalize September 2026. 2026 season now ends at Club at Chatham Hills, Westfield, Indiana.
+- **Status:** NEW
+- **Follow-up ideas:** Investor identity confirmed; LIV 2.0 details; player reactions; Chatham Hills results
+
+### STORY 3: Shiho Kuwaki Wins AIG Women's Open — Japan's First Major Champion of 2026
+- **Tier:** 1
+- **Category:** LPGA / AIG Women's Open / Major Championship
+- **Key facts:** Tournament: 50th AIG Women's Open, July 30–Aug 2, 2026, Royal Lytham & St. Annes. Winner: Shiho Kuwaki (Japan), two-hole playoff over Esther Henseleit (Germany). Henseleit holed a "monster birdie putt" on 72nd hole to force playoff. Kuwaki's first LPGA Tour victory, first major in seventh major start. Earned $1.5M of $10M purse.
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Kuwaki next start; Henseleit response; Japan golf market impact
+
+### STORY 4: Scottie Scheffler Leads FedEx Cup Entering Playoffs — Four Times No. 1 in Five Years
+- **Tier:** 2
+- **Category:** PGA Tour / FedEx Cup / Scottie Scheffler
+- **Key facts:** Scheffler entered at No. 1 with 4,123-pt lead, 794 ahead of No. 2 Matt Fitzpatrick. Fourth time in five years as No. 1 seed. 2026 regular season: 1 win, 5 runner-up, 5 additional top-10s, 1 missed cut. FedExCup Top 12: Scheffler, Fitzpatrick, Cameron Young, Wyndham Clark, Chris Gotterup, Collin Morikawa, Si Woo Kim, Sam Burns, Tommy Fleetwood, Ludvig Aberg, Xander Schauffele, Rory McIlroy (No. 12).
+- **Status:** NEW
+- **Follow-up ideas:** St. Jude Scheffler result; POTY race; McIlroy playoff run
+
+### STORY 5: Michael Brennan Wins Wyndham Championship / LPGA Portland Classic Opens
+- **Tier:** 2
+- **Category:** PGA Tour / LPGA / Wyndham Championship / Portland Classic
+- **Key facts:** Wyndham Championship (Aug 7-10, Sedgefield CC, Greensboro): Brennan -22 (258), final-round 64, birdie on 72nd hole, 3-shot margin. Runner-up: Beau Hossler. Third: Ben James (final-round 61). Brennan earned $1,530,000 of $8,500,000 purse. LPGA Portland Classic: Aug 13-16, Columbia Edgewater CC, Portland, OR — R1 today. Next LPGA: CPKC Women's Open, Aug 20-23, Royal Mayfair GC, Edmonton.
+- **Status:** NEW
+- **Follow-up ideas:** Portland Classic R1-R4 results; CPKC Women's Open preview; Brennan reaction
+
 ## 2026-08-12
 
 | Date | Tier | Story | Platforms | Status |

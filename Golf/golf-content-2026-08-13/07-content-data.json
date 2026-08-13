@@ -1,0 +1,363 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-13",
+  "compiled_at": "2026-08-13T11:42:24.532879+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "S1 — FedEx St. Jude Opens",
+      "type": "X"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "S2 — LIV Golf Crisis",
+      "type": "X"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "S3 — Kuwaki AIG Women's Open",
+      "type": "X"
+    },
+    {
+      "time": "2:00 PM",
+      "description": "S2 — LIV Golf Crisis",
+      "type": "X"
+    },
+    {
+      "time": "3:30 PM",
+      "description": "S3 — Kuwaki AIG Women's Open",
+      "type": "X"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "S1 — FedEx St. Jude Leaderboard",
+      "type": "X"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "S4 — Scheffler FedEx Cup",
+      "type": "X"
+    },
+    {
+      "time": "8:30 PM",
+      "description": "S5 — Wyndham / Portland Classic",
+      "type": "X"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "FedEx St. Jude Championship — Round 1 Underway at TPC Southwind",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The FedEx Cup Playoffs are HERE.\n\nRound 1 of the FedEx St. Jude Championship is underway at TPC Southwind in Memphis.\n\nTop 70 players. $20M purse. Three weeks. $25M FedEx Cup on the line.\n\nLet's go.\n\n#PGATour #FedExCup",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour",
+            "#FedExCup"
+          ],
+          "char_count": 218
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The playoff format reminder as Round 1 wraps up at TPC Southwind:\n\n• Top 50 here → BMW Championship (St. Louis, Aug 20-23)\n• Top 30 at BMW → Tour Championship (East Lake, Aug 27-30)\n\nEvery shot matters. Every position matters. It's the playoffs.\n\n#PGATour #FedExCup",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour",
+            "#FedExCup"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-fedex-st-jude-championship-round-1-playoffs-begin.html",
+        "headline": "FedEx Cup Playoffs Begin: Round 1 of the St. Jude Championship Is Underway at TPC Southwind",
+        "word_count": 594
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "FedEx St. Jude Championship — Round 1\n**HIGH confidence:**\n- FedEx St. Jude Championship dates: Aug 13-16, 2026 [CBS Sports, The Golf News Net]\n- Venue: TPC Southwind, Memphis, Tennessee [CBS Sports]\n- Purse: $20 million; winner earns $3.6 million [CBS Sports, The Golf News Net]\n- Field: Top 70 FedExCup points qualifiers [CBS Sports, Golf Digest]\n- Round 1 in progress today, Aug 13 [PGA Tour, CBS Sports]\n- This is the 20th edition of the FedEx Cup Playoffs since 2007 [The Golf News Net]\n- Playoff format: Top 50 advance from St. Jude to BMW Championship [CBS Sports]\n- BMW Championship: Aug 20-23, Bellerive CC, St. Louis [CBS Sports]\n- Tour Championship: Aug 27-30, East Lake GC, Atlanta [CBS Sports]\n- Top 30 advance from BMW to Tour Championship [CBS Sports]\n- FedEx Cup total bonus pool: $25 million [CBS Sports]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "LIV Golf in Crisis — $40M Finale Canceled, New Investor Announced",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "LIV Golf has canceled its $40M season finale in Michigan.\n\nIt's the second event canceled this season. PIF is pulling its funding after 2026. And yet the CEO is also announcing a new investor.\n\nThe most chaotic chapter in LIV Golf history is happening right now.\n\n#LIVGolf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf"
+          ],
+          "char_count": 272
+        },
+        {
+          "label": "Post 2-2",
+          "text": "\"LIV 2.0\" per CEO Scott O'Neil:\n\n• 5 team majors + 5 U.S.-based team signature events\n• LIV players would become majority equity holders\n• New lead investor secured (identity undisclosed)\n• Deal to close in September\n\nHistoric or desperate? Both can be true.\n\n#LIVGolf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-liv-golf-crisis-40m-finale-canceled-new-investor.html",
+        "headline": "LIV Golf Cancels $40M Season Finale, Loses Saudi Funding — But CEO Announces New Investor in \"LIV 2.0\" Pitch",
+        "word_count": 623
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LIV Golf Crisis / New Investor\n**HIGH confidence:**\n- LIV Golf canceled $40M Michigan team championship [Golf Digest, Front Office Sports, Yahoo Sports]\n- Venue of canceled event: The Cardinal at Saint John's Resort, suburban Detroit [Golf Digest]\n- Scheduled dates of canceled event: Aug 27-30 [Golf Digest, Front Office Sports]\n- Second 2026 cancellation: New Orleans $30M event scrapped in June [Front Office Sports, Yahoo Sports]\n- Saudi Arabia's PIF pulling funding at end of 2026 season [announced April 2026]\n- CEO Scott O'Neil announced new lead investor at Trump National Golf Club, Bedminster, NJ [Forbes, ESPN]\n- Investor identity: undisclosed, but LIV Board approved agreement [Forbes]\n- More than a dozen parties interested as minority investors [Forbes, ESPN]\n- \"LIV 2.0\": five team majors + five U.S.-based team signature events [Forbes, CNN]\n- Players would become majority equity holders [Forbes]\n- Transaction expected to finalize September 2026 [Forbes, ESPN]\n- 2026 LIV season concludes at The Club at Chatham Hills, Westfield, Indiana [Golf Digest]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Shiho Kuwaki Wins AIG Women's Open — Japan's First Major Champion of 2026",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Shiho Kuwaki won the AIG Women's Open.\n\nHer first LPGA Tour win.\nHer first major.\nIn only her SEVENTH major start.\n\nAt Royal Lytham. In a two-hole playoff. At the 50th edition of the tournament.\n\nJapanese women's golf is rising.\n\n#LPGA #WomensOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA",
+            "#WomensOpen"
+          ],
+          "char_count": 247
+        },
+        {
+          "label": "Post 3-2",
+          "text": "How it ended at Royal Lytham:\n\nEsther Henseleit holes a monster birdie on 72 to force a playoff.\nShiho Kuwaki wins on the second playoff hole.\n\nOne of the more dramatic major finishes of 2026. What a tournament.\n\n#LPGA #WomensOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA",
+            "#WomensOpen"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-shiho-kuwaki-wins-aig-womens-open-playoff-royal-lytham.html",
+        "headline": "Shiho Kuwaki Wins the AIG Women's Open at Royal Lytham — Japan's New Major Champion Claims Her First Title in a Playoff",
+        "word_count": 561
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Shiho Kuwaki Wins AIG Women's Open\n**HIGH confidence:**\n- Tournament: 50th AIG Women's Open [LPGA.com, AIG Women's Open official site]\n- Dates: July 30–August 2, 2026 [LPGA.com]\n- Venue: Royal Lytham &amp; St. Annes, England [LPGA.com]\n- Winner: Shiho Kuwaki (Japan) [LPGA.com, Yahoo Sports, NBC Sports]\n- Won in two-hole playoff over Esther Henseleit (Germany) [NBC Sports, LPGA.com]\n- Henseleit holed \"monster birdie putt\" on 72nd hole to force playoff [NBC Sports]\n- Kuwaki's first LPGA Tour victory [LPGA.com]\n- First major: seventh major start [LPGA.com, Yahoo Sports]\n- Kuwaki prize money: $1.5 million [LPGA.com]\n- Total purse: $10 million [LPGA.com]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Scottie Scheffler Leads FedEx Cup Entering Playoffs — Four Times No. 1 in Five Years",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Scottie Scheffler enters the FedEx Cup Playoffs as No. 1 for the 4th time in 5 years.\n\nHis 2026 regular season: 1 win, 5 runners-up, 5 other top-10s, 1 missed cut.\n\nHe is the standard. In Memphis, he has to prove it again.\n\n#PGATour #FedExCup",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour",
+            "#FedExCup"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-scheffler-fedex-cup-no1-seed-four-times-five-years.html",
+        "headline": "Scottie Scheffler Is No. 1 Again — And for the Fourth Time in Five Years, He Has to Prove It in October",
+        "word_count": 589
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Scheffler FedExCup Standing\n**HIGH confidence:**\n- Scheffler No. 1 seed entering playoffs [Yahoo Sports, ESPN, Golf Digest]\n- Points lead: 4,123 points [Yahoo Sports]\n- Lead over No. 2 Matt Fitzpatrick: 794 points [Yahoo Sports]\n- Fourth time in five years as No. 1 seed [Yahoo Sports]\n- 2026 regular season: 1 win, 5 runner-up finishes, 5 additional top-10s, 1 missed cut [Yahoo Sports, ESPN]\n- Top 12 entering playoffs: (1) Scheffler, (2) Fitzpatrick, (3) Cameron Young, (4) Wyndham Clark, (5) Chris Gotterup, (6) Collin Morikawa, (7) Si Woo Kim, (8) Sam Burns, (9) Tommy Fleetwood, (10) Ludvig Aberg, (11) Xander Schauffele, (12) Rory McIlroy [Yahoo Sports, Golf Digest]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Michael Brennan Wins Wyndham Championship / LPGA Portland Classic Opens",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Michael Brennan wins the Wyndham Championship at -22, closing with a 64 and a birdie on 18.\n\nMeanwhile the LPGA Standard Portland Classic opened Round 1 today at Columbia Edgewater CC.\n\nTwo tours. One Thursday.\n\n#PGATour #LPGA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour",
+            "#LPGA"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-michael-brennan-wyndham-championship-winner-lpga-portland.html",
+        "headline": "Michael Brennan Wins the Wyndham Championship at -22 — The Regular Season Ends With a Birdie on 18",
+        "word_count": 538
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Wyndham Championship + LPGA Portland Classic\n**HIGH confidence:**\n- Wyndham Championship: Aug 7-10, Sedgefield CC, Greensboro, NC [The Golf News Net]\n- Winner: Michael Brennan [The Golf News Net, Sky Sports]\n- Winning score: -22 (258), closing 64 [The Golf News Net]\n- Final-hole birdie sealed win [The Golf News Net]\n- Margin: 3 shots [The Golf News Net]\n- Runner-up: Beau Hossler [The Golf News Net]\n- Third place: Ben James (shot final-round 61) [The Golf News Net]\n- Fourth: Kevin Yu [The Golf News Net]\n- Brennan prize: $1,530,000 of $8,500,000 purse [The Golf News Net]\n- LPGA Standard Portland Classic: Aug 13-16, Columbia Edgewater CC, Portland, OR [LPGA.com, Sky Sports]\n- Round 1 in progress today [LPGA.com]\n- Next LPGA event: CPKC Women's Open, Aug 20-23, Royal Mayfair GC, Edmonton, Alberta [Sky Sports]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 8
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

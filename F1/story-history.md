@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-08-13
+
+| Date | Tier | Story | Formats | Status |
+|------|------|-------|---------|--------|
+| 2026-08-13 | T1 | Dutch Grand Prix — Eight Days Away, Sprint Format, Final Race at Zandvoort | X, FB, Article | FOLLOW UP |
+| 2026-08-13 | T1 | Kimi Antonelli — Championship Leader Entering the Second Half | X, FB, Article | FOLLOW UP |
+| 2026-08-13 | T1 | Verstappen Exit Clause — Decision Window Open, Dutch GP the Likely Deadline | X, FB, Article | FOLLOW UP |
+| 2026-08-13 | T2 | Mercedes Reliability Crisis — Grid Penalties Loom for Antonelli and Russell | X, FB, Article | NEW |
+| 2026-08-13 | T2 | Cadillac F1 — Debut Season Progress and the Verstappen Question | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Dutch Grand Prix — Eight Days Away, Sprint Format, Final Race at Zandvoort
+- **Tier:** 1
+- **Category:** F1 Race Preview / Dutch Grand Prix / Circuit Zandvoort
+- **Key facts:** Dutch GP: Aug 21-23, Circuit Zandvoort (4.259 km, 72 laps). Sprint weekend format: Sprint Qualifying Friday, Sprint + GP Qualifying Saturday, Race Sunday at 15:00 local / 9:00 AM ET. Teams return from summer shutdown Aug 17. Zandvoort exits F1 calendar after 2026. Antonelli leads championship by 50 pts. Circuit farewell race.
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Sprint result; qualifying; race result; Verstappen announcement timing
+
+### STORY 2: Kimi Antonelli — Championship Leader Entering the Second Half
+- **Tier:** 1
+- **Category:** F1 Championship / Kimi Antonelli / Mercedes
+- **Key facts:** After 11 of 22 rounds (through Hungarian GP July 24-26): Antonelli 219 pts / Hamilton 169 pts / Russell 160 pts. Mercedes leads Constructors 379 pts. Antonelli: 6 wins, 6 poles, 9 podiums. 291 pts remain in drivers' title. Both Antonelli and Russell expected to face grid penalties (power unit component changes).
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Dutch GP result; grid penalty timing; Hamilton chase angles
+
+### STORY 3: Verstappen Exit Clause — Decision Window Open, Dutch GP the Likely Deadline
+- **Tier:** 1
+- **Category:** F1 Driver News / Max Verstappen / Red Bull Racing
+- **Key facts:** Exit clause triggered by Red Bull's failure to have driver in top 2 after July 2026. Window: August–October 2026. Red Bull gets no compensation. Verstappen refused to discuss future publicly. Clause added due to his apprehension about 2026 regs. Home race at Zandvoort Aug 21-23 seen as natural announcement point.
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Announcement before or during Dutch GP; destination confirmation; Red Bull contingency
+
+### STORY 4: Mercedes Reliability Crisis — Grid Penalties Loom for Antonelli and Russell
+- **Tier:** 2
+- **Category:** F1 Technical / Mercedes / Reliability
+- **Key facts:** Both Antonelli (P1) and Russell (P3) expected to face grid penalties in second half for exceeding permitted power unit component allocation. Ferrari described as "a thorn" — mid-season improvement adding championship threat. Wrong-race penalty could hand rivals crucial points.
+- **Status:** NEW
+- **Follow-up ideas:** Penalty announcements; race impact; Ferrari performance update
+
+### STORY 5: Cadillac F1 — Debut Season Progress and the Verstappen Question
+- **Tier:** 2
+- **Category:** F1 Teams / Cadillac F1 / New Teams
+- **Key facts:** Cadillac and General Motors entered F1 as the 11th team in 2026. Debut season scored first points in early races. Drivers: Nico Hülkenberg and Mick Schumacher. Team linked to Verstappen rumors as potential destination if clause triggered (per paddock speculation). Constructors' 10th with modest but credible debut.
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Verstappen destination clarity; second half results; 2027 driver lineup
+
 ## 2026-08-12
 
 | Date | Tier | Story | Formats | Status |
