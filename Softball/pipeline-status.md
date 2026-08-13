@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-08-13
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch + research agent, 5 stories verified HIGH/MEDIUM confidence; KEY CORRECTION to Aug 12: Kowalik DID return for Series 2 — Aug 12 pipeline wrong to say she was absent entire event; Series 2 captains Kowalik/Willis/Falby confirmed; Kowalik leads race), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations — all ≤280), FB posts (5 stories), image concepts (9 items; ### STORY headers), image manifest (9 items, not_started), articles (5), fact-check (50 claims; verify-facts.py ran), compile (5 stories, 7 tweets, 0 FB posts — format known, 5 articles, 9 images), dashboard (22 items), PostPlanner exports (0 posts — format known). WordPress 403 (proxy blocks ilovesoftball.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks ilovesoftball.com — known). Dashboard publish push failed (proxy known restriction). IMAGE NOT STARTED (manifest recognized but images not yet produced in Canva). PostPlanner: 0 posts compiled (format known). 0 char violations.
+- **Key Stories**: AUSL All-Star Cup — Kowalik RETURNS for Series 2 (corrects Aug 12 error)/Team Kowalik unbeaten Series 2/Kowalik leads individual race/Series 2 captains Kowalik+Willis+Falby/Williams Series 1 MVP (Tier 1 FOLLOW UP CORRECTION), September 1 = 19 days/Class of 2028/record 1,226 EIS nominations (Tier 2 FOLLOW UP), Texas Longhorns back-to-back WCWS champs/Kavan two-time MOP first in WCWS history/49-12 2026/3-peat chase (Tier 2 NEW), USA WNT World Cup Sept 12-16 OKC/30 days/Wells+Shumaker debut/top 2 → Brisbane April 5-11 2027 (Tier 3 FOLLOW UP), Texas Tech 2027 portal — 4 additions reported/core Canady+Pickering+Heavener/Glasco Year 2 (Tier 2 FOLLOW UP)
+
+## Last Run
 - **Date**: 2026-08-12
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch + research agent, 5 stories verified HIGH/MEDIUM confidence; KEY CORRECTION: Kowalik NOT in 2026 AUSL Cup at all — prior coverage anticipated her return for Series 2), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations — all ≤280), FB posts (5 stories), image concepts (9 items; ### STORY headers), image manifest (9 items, not_started), articles (5), fact-check (70 claims), compile (5 stories, 7 tweets, 0 FB posts — format known, 5 articles, 9 images), dashboard (22 items), PostPlanner exports (0 posts — format known). WordPress 403 (proxy blocks ilovesoftball.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
