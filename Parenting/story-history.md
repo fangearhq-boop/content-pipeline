@@ -2,6 +2,50 @@
 
 ---
 
+## August 13, 2026
+
+### Story 1: Weekend Family Roundup — August 14–16, 2026
+- **Date:** 2026-08-13
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (required Thursday Weekend Roundup) — 3-day family weekend guide for Colorado Springs: Pioneer Rodeo Aug 14–16 at Norris Penrose (gates 4 PM, show 7 PM, kids under 5 free); Sunflower Days through Aug 16 at Graber Olive House Farm (Sat–Sun, adults $10, kids under 6 free); free Eco-Eaters scavenger hunt at Garden of the Gods Sun Aug 17; Switchbacks FC at Weidner Field Aug 15 7 PM from $14; Palmer Park trail day. Afternoon storms 58–76% each day — morning timing recommended.
+- **Content Produced:** Article (Sarah Morales), 2 X posts, Facebook Long-Form, Facebook Image Caption, Image Concept (Gemini)
+- **Tier:** 1
+- **Key Facts:** Pioneer Rodeo Aug 14–16, Norris Penrose, gates 4 PM/show 7 PM, kids under 5 free, pioneerrodeo.com; Sunflower Days through Aug 16, adults $10, under 6 free; Eco-Eaters free Garden of the Gods; NWS 58–76% storm chance each afternoon; Required SpringsDaily links included; Sources: NWS Pueblo, pioneerrodeo.com, visitcos.com, kiowavalleysunflowers.com
+
+### Story 2: CPSC Recalls — GOPO Teething Toys & HARPPA Toddler Tower Stools
+- **Date:** 2026-08-13
+- **Content Pillar:** National Parenting (Safety / CPSC)
+- **Angle:** NEW STORY (new product categories, distinct from Aug 12 infant walkers/swings recall) — Two CPSC recalls: (1) GOPO Toys Pull String Teething Toys (~70,410 units) — silicone strings detach, can reach child's throat; 3 incidents reported; stop use, cut/mark DESTROYED, email recalls@gopotoys.com for refund. (2) HARPPA Nordi Toddler Tower Stool (Model HANS0002, ~41,166 units, Amazon Aug 2023–Feb 2026, ~$120) — can collapse; child can become entrapped in openings; no injuries; free repair kit via harppa.com/recalls or 888-427-7722 M-F 9AM–5PM ET.
+- **Content Produced:** Article (Jamie Rivera), 2 X posts, Facebook Long-Form, Facebook Image Caption, Image Concept (Gemini)
+- **Tier:** 1
+- **Key Facts:** GOPO ~70,410 units, 3 incidents, recalls@gopotoys.com; HARPPA ~41,166 units, Amazon Aug 2023–Feb 2026, ~$120, 888-427-7722, harppa.com/recalls; Sources: CPSC.gov
+
+### Story 3: D20 Back-to-School Starts Monday August 17
+- **Date:** 2026-08-13
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY with date correction (distinct from Aug 12 D11 first day coverage) — D20 starts Mon Aug 17 (preschool, elem, 6th, 9th graders) and Tue Aug 18 (all others); earlier reports incorrectly said Aug 13. D11 all students started Aug 12. D49 started Aug 3 (kinder/6th/9th) and Aug 4. Weekend prep checklist: bus routes at AcademyD20.org, room assignments, supply lists, morning routine trial run.
+- **Content Produced:** Article (Sarah Morales), 1 X post, Facebook Long-Form, Facebook Image Caption, Image Concept (Gemini)
+- **Tier:** 2
+- **Key Facts:** D20 Aug 17 (preschool/elem/6th/9th), Aug 18 (all others); bus routes AcademyD20.org; D11 Aug 12 all K-12; D49 Aug 3-4; Sources: AcademyD20.org, KRDO, Gazette
+
+### Story 4: Vevor Baby Swings Recalled — Suffocation Risk
+- **Date:** 2026-08-13
+- **Content Pillar:** National Parenting (Safety / CPSC)
+- **Angle:** NEW STORY (distinct product — Vevor/Sanven Technology swings; Bimuva swings covered Aug 12) — CPSC recall: Vevor Baby Swings (BB501K, BB702A, BB005K, ~1,020 units) sold on VEVOR.com, Amazon, Wayfair Nov 2024–Jan 2026 ~$30. Incline >10 degrees violates Safe Sleep for Babies Act; suffocation risk. Full refund: 855-599-6320 M-F 9AM–5PM PT, recalling@vevor.com, vevor.com/pages/vevor-baby-swing-recall.
+- **Content Produced:** Article (Jamie Rivera), 1 X post, Facebook Long-Form, Facebook Image Caption, Image Concept (Gemini)
+- **Tier:** 2
+- **Key Facts:** ~1,020 units; BB501K/BB702A/BB005K; Amazon/VEVOR.com/Wayfair; Nov 2024–Jan 2026; ~$30; 855-599-6320; recalling@vevor.com; Sources: CPSC.gov
+
+### Story 5: Screen Time & Mental Health Study — 50,231 Kids
+- **Date:** 2026-08-13
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (new study with specific risk quantification, distinct from Aug 11 AAP screen time guidance shift) — 2026 study in Humanities and Social Sciences Communications (Nature portfolio): 50,231 U.S. kids ages 6–17 from National Survey of Children's Health. 4+ hours/day entertainment screens = 45% higher anxiety risk, 61% higher depression risk. Mechanism: sleep displacement — bedroom screens after 9 PM highest-risk behavior. U.S. adolescents average 7–9 hrs/day. AAP guidance: no screens <18 months; 1 hr/day max ages 2–5; device-free bedrooms for 6+. Family Media Plan: HealthyChildren.org/MediaUsePlan.
+- **Content Produced:** Article (Sarah Morales), 1 X post, Facebook Long-Form, Facebook Image Caption, Image Concept (Gemini)
+- **Tier:** 2
+- **Key Facts:** 50,231 kids ages 6–17; 4+ hrs/day = 45% higher anxiety, 61% higher depression; U.S. teens avg 7–9 hrs/day; bedroom screens after 9 PM highest-risk; HealthyChildren.org/MediaUsePlan; Sources: Humanities and Social Sciences Communications (Nature), AAP
+
+---
+
 ## August 12, 2026
 
 ### Story 1: D11 First Day Is Here — All K-12 Students Start Today

@@ -1,5 +1,44 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: August 13, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Weekend roundup events: Pioneer Rodeo Aug 14-16 (kids under 5 free), Sunflower Days through Aug 16 (adults $10, under 6 free), free Eco-Eaters at Garden of the Gods; CPSC recalls: GOPO Pull String Teething Toys (~70,410 units), HARPPA Nordi Toddler Tower Stool (~41,166 units); D20 back-to-school Aug 17-18 with date correction; Vevor baby swings recall (~1,020 units); screen time study 50,231 kids 45% higher anxiety / 61% higher depression at 4+ hrs/day |
+| Story History Check | COMPLETE | 5 stories: S1 new required Thursday Weekend Roundup; S2 new (GOPO teething + HARPPA stool — distinct from Aug 12 infant walkers/swings); S3 new D20 angle with date correction; S4 new (Vevor swings — distinct from Aug 12 Bimuva swings); S5 new (new study with specific risk data — distinct from Aug 11 AAP framework shift) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH confidence: all event dates/prices/locations, CPSC recall details; MEDIUM: screen time study attribution |
+| Story Analysis | COMPLETE | 02-story-analysis.md — 5 story sections with angles and headlines |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (S1: 2, S2: 2, S3/S4/S5: 1 each); all ≤280 chars (4 tweets fixed after verify-facts first run); 4 hashtags each; 0 exclamation marks |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form posts + 5 Image Captions; engagement questions; NO hashtags; COS voice; 0 exclamation marks |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts; 1200×675 (social) and 1200×630 (hero); clean bottom third; no celebrity likenesses; no brand logos |
+| Articles | COMPLETE | 5 articles (500-1000 words; semantic HTML5; What's Next sections; 0 exclamation marks; no figure tags); bylines: Sarah Morales (A1, A3, A5), Jamie Rivera (A2, A4) |
+| Fact-Check | COMPLETE | verify-facts.py — 124 claims extracted; all tweets pass ≤280 chars; 10 image entries not_started (expected for gemini source) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 5 stories × 2 image types (social + hero) = 10 entries; all not_started; gemini base_only; kAHCKfCZgk0 brand kit |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts (known pipeline issue), 5 articles, 22 dashboard items |
+| Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-08-13.xlsx (7 posts 13:26–20:44 MT, 73 min apart) + cosp-postplanner-tobi-2026-08-13.xlsx (7 TOBI posts) |
+| Dashboard Push | Attempted — proxy blocks write to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — proxy blocks WP API (403) | Same environment restriction as all prior runs |
+
+### 2026-08-13 — Full Pipeline Run (Thursday)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts (S1: 2, S2: 2, S3/S4/S5: 1 each); PostPlanner xlsx: 7 posts 13:26–20:44 MT, 73 min apart; 7 TOBI
+- **Articles:** 5 (bylines: Sarah Morales [A1, A3, A5], Jamie Rivera [A2, A4])
+- **PostPlanner exports:** cosp-postplanner-2026-08-13.xlsx (7 posts 13:26–20:44 MT), cosp-postplanner-tobi-2026-08-13.xlsx (7 TOBI posts)
+- **Coverage:** Weekend family roundup Aug 14-16 — Pioneer Rodeo (kids under 5 free), Sunflower Days (adults $10 / under 6 free), Eco-Eaters free Garden of the Gods, afternoon storm warnings (S1, Tier 1, Thursday required); GOPO Pull String Teething Toys ~70,410 units + HARPPA Nordi Toddler Tower Stool ~41,166 units CPSC recalls (S2, Tier 1); D20 back-to-school Aug 17 (preschool/elem/6th/9th) and Aug 18 (all others), date correction from erroneous Aug 13 reports (S3, Tier 2); Vevor Baby Swings ~1,020 units (BB501K/BB702A/BB005K), incline >10° violates Safe Sleep for Babies Act, full refund 855-599-6320 (S4, Tier 2); screen time study 50,231 kids — 4+ hrs/day = 45% higher anxiety, 61% higher depression, bedroom screens after 9 PM highest-risk, HealthyChildren.org/MediaUsePlan (S5, Tier 2)
+- **Notes:**
+  - verify-facts.py: 124 claims; 4 tweets over 280 chars on first run — all fixed; clean pass on second run
+  - compile: 7 X posts, 0 FB posts (known pipeline issue), 5 articles, 22 dashboard items
+  - WordPress: proxy blocks WP API (403); same as all prior runs
+  - Dashboard push: proxy blocks content-dashboards repo write; same as all prior runs
+  - Byline rotation: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4]
+  - Required Thursday Weekend Roundup: article-01 includes all 3 mandatory SpringsDaily anchor links
+  - Story history updated with all 5 stories
+
+---
+
 ## Latest Run: August 12, 2026
 
 | Step | Status | Notes |
