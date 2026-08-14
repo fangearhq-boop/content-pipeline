@@ -5,6 +5,65 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-14
+
+### Story 1: Phillies 7, Twins 1 — Field of Dreams Game (Schwarber Two HRs, Breaks Four-Way Tie)
+- **Date:** 2026-08-14
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Aug 13 was game-day preview; today = recap of actual game results)
+- **Angle:** Phillies dominated Twins 7-1 in 2026 Field of Dreams game on Netflix in Dyersville, Iowa. Schwarber hit HRs #36 and #37 off Taj Bradley, breaking the four-way tie for the MLB home run lead. Soto 3-run HR. Harper 3-run HR. Wheeler went 6 IP. Costner appeared via 2-minute pre-game video (did NOT physically walk out of corn).
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - MLB HR race lead for Schwarber (now at 37)
+  - Phillies continue postseason push
+  - Netflix viewership numbers if released
+
+### Story 2: Schwarber Leads MLB Home Run Race Alone at 37 (Alvarez, Olson, Caminero at 35)
+- **Date:** 2026-08-14
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Aug 13 four-way tie at 35 was the setup; today Schwarber breaks away)
+- **Angle:** Schwarber 37 HRs, two clear of Alvarez (0 HRs since July 28), Olson (8 HRs in 14 games, 903rd consecutive game), Caminero (11 HR + 22 RBI in 13 games — historically fast pace for 23-year-old). Schwarber's 47 career leadoff HRs ties Curtis Granderson for 7th all-time.
+- **Content Produced:** Article (article-02, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Daily HR race updates through September
+  - Caminero pace tracking (youngest consecutive 35-HR seasons chase)
+  - Alvarez hot streak when it resumes
+
+### Story 3: Jacob Misiorowski — Historic 2026 Cy Young Season (1.76 ERA, 204 K, 0.73 WHIP)
+- **Date:** 2026-08-14
+- **Tier:** 2
+- **Classification:** NEW (first full deep-dive on Misiorowski's historic season)
+- **Angle:** Misiorowski leads all MLB in ERA + strikeouts + WHIP simultaneously. Second-fastest pitcher in MLB history to 200 Ks (129.1 IP), behind only Spencer Strider (123.1 IP in 2022). NL Cy Young odds -550. Milwaukee out of playoff race doesn't change the ballot. Belongs in Koufax/Pedro/deGrom conversation for 2026.
+- **Content Produced:** Article (article-03, Ryan Calloway), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Every Misiorowski start is national news
+  - Cy Young voter tracking
+  - Final innings/K count at season end
+
+### Story 4: White Sox at Tigers — AL Central 3-Game Series in Detroit (ChiSox Lead 2.5 Games)
+- **Date:** 2026-08-14
+- **Tier:** 2
+- **Classification:** FOLLOW UP (ongoing AL Central race; ChiSox 62-58 entering Detroit)
+- **Angle:** White Sox (62-58) enter Comerica with 2.5-game lead over Tigers (60-61 overall but 37-23 since June, 16-9 since All-Star break). DET sweeps = within 0.5 game of 1st. CWS sweeps = 5-6 game cushion. Series outcome shapes final six weeks of AL Central race for franchise that lost 121 games in 2024.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Series results Fri-Sun (Aug 14-16)
+  - AL Central standings after series
+  - Castillo next start performance
+
+### Story 5: Cavalli Near No-Hitter — Nationals Rout Cubs 7-0 (8 IP, 10 K, 103 Pitches)
+- **Date:** 2026-08-14
+- **Tier:** 2
+- **Classification:** FOLLOW UP (ongoing Cubs Wild Card watch; Nationals emergence angle)
+- **Angle:** Cade Cavalli took no-hitter into 7th (retired 19 of first 21 batters). Michael Busch ended it with opposite-field bloop single in 7th with 2 outs. Cavalli finished 8 IP, 10 K, 103 pitches — career highs. Ortiz rookie 3-run HR in 5th. Cubs 70-51 Wild Card lead remains (~5-6 games over Padres and D-backs).
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Cavalli next start (can he build on this?)
+  - Cubs recovery and Wild Card race
+  - Ortiz rookie production tracking
+
+---
+
 ## 2026-08-13
 
 ### Story 1: Field of Dreams Game Day — Tonight on Netflix

@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-08-14
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch + research agents, 5 stories verified HIGH confidence), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations — all ≤280), FB posts (5 stories), image concepts (8 items; imagn source), image manifest (9 items, not_started), articles (5), fact-check (24 claims; claim-patterns.py missing known), compile (5 stories, 7 tweets, 0 FB posts — format known, 5 articles, 8 images), dashboard (22 items), PostPlanner exports (0 posts — format known). WordPress credentials not configured (skipped; expected). Dashboard push failed (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress credentials not set (skipped — expected). Dashboard publish push failed (proxy known restriction). IMAGE NOT STARTED (manifest recognized but images not yet produced in Canva). claim-patterns.py missing (known). PostPlanner: 0 posts compiled (format known). 0 char violations.
+- **Key Stories**: Phillies 7 Twins 1 Field of Dreams/Schwarber 2 HRs (#36+37)/Soto 3-run HR/Harper 3-run HR/Netflix/Iowa cornfield/Taj Bradley gave up both (Tier 1 FOLLOW UP), MLB HR race Schwarber leads at 37/Alvarez+Olson+Caminero still at 35/Caminero 11HR+22RBI in 13 games/Olson 903rd consecutive game/Schwarber 47 career leadoff HRs ties Granderson 7th all-time (Tier 2 FOLLOW UP), Jacob Misiorowski historic Cy Young 2026/1.76 ERA+204K+0.73 WHIP leads all MLB/second-fastest to 200K ever behind Strider 2022/NL Cy Young odds -550 (Tier 2 NEW), White Sox at Tigers AL Central 3-game series/ChiSox 62-58 leads DET by 2.5 games/DET 37-23 since June/Castillo shutdown vs Reds Wed then 9-8 loss same week (Tier 2 FOLLOW UP), Cavalli near no-hitter nationals rout Cubs 7-0/8IP 10K 103P/Busch ended no-no with 2 outs in 7th/Cubs 70-51 Wild Card lead intact (Tier 2 FOLLOW UP)
+
+## Last Run
 - **Date**: 2026-08-13
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch + research agent, 5 stories verified HIGH confidence), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations — all ≤280), FB posts (5 stories), image concepts (9 items; imagn source), image manifest (9 items, not_started), articles (5), fact-check (32 claims; claim-patterns.py missing known), compile (5 stories, 7 tweets, 0 FB posts — format known, 5 articles, 9 images), dashboard (22 items), PostPlanner exports (7 posts each — standard + TOBI). WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).

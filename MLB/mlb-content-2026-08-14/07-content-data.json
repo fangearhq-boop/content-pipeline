@@ -1,0 +1,293 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-14",
+  "compiled_at": "2026-08-14T10:41:05.287593+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Phillies 7, Twins 1 — Schwarber Plants Two Into the Field of Dreams Corn, Nets Bows Out in Iowa",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Kyle Schwarber hit two home runs into the corn at the Field of Dreams last night. HRs No. 36 AND No. 37. Off Taj Bradley. In Iowa. On Netflix. The Phillies beat the Twins 7-1 and Schwarber now leads the MLB home run race alone. What a night. ⚾ #Phillies #FieldOfDreams",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Phillies",
+            "#FieldOfDreams"
+          ],
+          "char_count": 268
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Field of Dreams Game recap: PHI 7, MIN 1. Schwarber with the 2-HR night. Brandon Marsh with another HR into the corn. Aaron Nola: 5 IP, 1 ER, 9 K. Luke Keaschall the lone Twins highlight. Netflix's first Field of Dreams was everything it needed to be. ⚾ #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-phillies-field-of-dreams-schwarber-two-homers.html",
+        "headline": "Schwarber Plants Two in the Corn — Phillies Beat Twins 7-1 at Field of Dreams on Netflix",
+        "word_count": 580
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Schwarber Leads MLB Home Run Race Alone at 37 — Alvarez, Olson, Caminero All at 35",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "MLB home run race after Field of Dreams night: Kyle Schwarber leads alone with 37. Alvarez, Olson, and Caminero all at 35. Alvarez hasn't gone deep since July 28. Caminero has 11 HRs in his last 13 games. The race to 40 is on. ⚾ #MLB #HRrace",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#HRrace"
+          ],
+          "char_count": 241
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-schwarber-mlb-home-run-race-leader-37.html",
+        "headline": "The Field of Dreams Four-Way Tie Is Over — Schwarber Leads the MLB Home Run Race at 37",
+        "word_count": 544
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Jacob Misiorowski Is Having a Historic Season — 1.76 ERA, 204 K, 0.73 WHIP for the Brewers",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Jacob Misiorowski, Brewers, 24 years old: 1.76 ERA. 204 strikeouts. 0.73 WHIP. 133 innings. Leads MLB in all three. Second-fastest ever to 200 strikeouts. NL Cy Young odds: -550. If you haven't been watching him, you've been missing one of the best pitching seasons in years. ⚾",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 277
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Only Spencer Strider reached 200 strikeouts faster than Jacob Misiorowski has in 2026. Misiorowski struck out 22 in his last two starts. He leads MLB in ERA, strikeouts, and WHIP at the same time. On the Brewers. The 2026 NL Cy Young is not a debate. ⚾ #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-misiorowski-brewers-historic-cy-young-season-2026.html",
+        "headline": "Jacob Misiorowski Is Having One of the Best Pitching Seasons in Years — and Not Enough People Are Watching",
+        "word_count": 536
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "White Sox at Tigers — AL Central Showdown Opens in Detroit Tonight",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The Chicago White Sox (62-58, 1st AL Central) open a 3-game series tonight at Detroit (60-61). 2.5 games separate them. Tigers have gone 37-23 since June. White Sox dropped 3 straight at Comerica last time. This is the most important series of Chicago's 2026. ⚾ #WhiteSox #Tigers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox",
+            "#Tigers"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-white-sox-tigers-al-central-critical-series-detroit.html",
+        "headline": "White Sox Enter Detroit With a 2.5-Game Lead — and a Division Race That Just Got Critical",
+        "word_count": 530
+      },
+      "image_concepts": [
+        {
+          "label": "Image 6",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Cubs Fall 7-0 as Cavalli Dominates — Nationals Righty Takes No-Hitter Into 7th",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Cade Cavalli took a no-hitter into the 7th inning last night against the Cubs. 8 innings. 10 strikeouts. Career highs in both. Abimelec Ortiz hit a 3-run HR. Nationals 7, Cubs 0. The Cubs' Wild Card lead still holds — but Cavalli was the story. ⚾ #Nationals #Cubs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Nationals",
+            "#Cubs"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-cavalli-near-no-hitter-nationals-cubs-7-0.html",
+        "headline": "Cavalli Dominates — Takes No-Hitter Into the 7th as Nationals Rout Cubs 7-0",
+        "word_count": 498
+      },
+      "image_concepts": [
+        {
+          "label": "Image 7",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 8",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 8
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
