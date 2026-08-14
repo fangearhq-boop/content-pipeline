@@ -1,10 +1,21 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
-- **Date**: 2026-08-13
-- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy 403)
+- **Date**: 2026-08-14
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish skipped — WP credentials not set)
 
 ## Pipeline Run Log
+
+### 2026-08-14
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish skipped — WP credentials not set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway)
+- **PostPlanner exports:** gfr-postplanner-2026-08-14.xlsx (7 posts) + gfr-postplanner-tobi-2026-08-14.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-08-14/review-dashboard.html (22 items)
+- **Notes:** ST. JUDE R2 LEADERBOARD — Tommy Fleetwood 13-under (R1 63 + R2 64) leads FedEx St. Jude Championship at TPC Southwind; Scheffler 7-under, 6 back after R2 66 (4 bogeys, 3 on back nine); Adam Scott opened with 66; top 70 advance to BMW Championship; SPIETH/HOMA BUBBLE — Spieth 54th in FedExCup standings needs solo 23rd to advance; 14th straight playoff year; no top-10 all 2026 regular season; tied for R1 lead; Homa 52nd also on bubble; top 50 advance to BMW; SCHEFFLER $10M BONUS — 4th time in 5 years No. 1 FedExCup regular season; 4,123 pts, 794-pt lead over Fitzpatrick; $10M regular-season bonus; PGA TOUR NO MERGER — CEO Rolapp (Bloomberg Aug 7): "There's no merger, no conversations"; LIV TV 17x smaller; LIV no OWGR pts (denied Oct 2023); framework agreement June 2023 still produced no deal (26+ months); LIV 2.0 announced at Bedminster; LPGA PORTLAND CLASSIC — Grace Kim 6-under 66 R1 one back of leader at Columbia Edgewater CC; Yubol bogey-free; field: Thitikul, Woad, Ryu, Green; $2M purse; CPKC Women's Open next Aug 20-23 Edmonton $2.75M
+- **WordPress:** Skipped — WP_FANRUMOR_USERNAME and WP_FANRUMOR_APP_PASSWORD not set in environment
 
 ### 2026-08-13
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

@@ -1,0 +1,310 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-14",
+  "compiled_at": "2026-08-14T11:49:19.726738+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Tommy Fleetwood Leads St. Jude Championship at Halfway — 13-Under at TPC Southwind",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Tommy Fleetwood is absolutely cooking at TPC Southwind.\n\nR1: 63\nR2: 64\n\n13-under through 36 holes. That is ELITE ball-striking in the Memphis heat.\n\nScottie Scheffler is 6 back at 7-under.\n\n#FedExStJude #PGATour #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#FedExStJude",
+            "#PGATour",
+            "#Golf"
+          ],
+          "char_count": 217
+        },
+        {
+          "label": "Post 1-2",
+          "text": "LEADERBOARD UPDATE — FedEx St. Jude Championship, R2 Halfway\n\n🥇 Tommy Fleetwood: -13\n🔟 Scottie Scheffler: -7\n\nThe No. 1 seed needs to hunt Fleetwood down over the weekend to protect his FedExCup advantage. #PGATour\n\n#Golf #FedExStJude",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour",
+            "#Golf",
+            "#FedExStJude"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-tommy-fleetwood-leads-fedex-st-jude-championship-round-2.html",
+        "headline": "Fleetwood at 13-Under: The Englishman Is Running Away from the Field at TPC Southwind",
+        "word_count": 588
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Tommy Fleetwood Leads St. Jude Championship\n**Sources:**\n- Yahoo Sports (Scheffler R2 score article)\n- Yahoo Sports (St. Jude R2 leaderboard article)\n- CBS Sports (St. Jude leaderboard live)\n- Golf Channel (Adam Scott R1 66)\n- ESPN (R2 tee times)\n**Verified Facts (HIGH confidence):**\n- FedEx St. Jude Championship: Aug. 13-16, 2026 at TPC Southwind, Memphis, TN\n- Prize purse: $20 million\n- First event of 2026 FedEx Cup Playoffs\n- **Tommy Fleetwood: R1 63 + R2 64 = 13-under (tournament leader after R2)**\n- **Scottie Scheffler: R2 66 (4-under), total 7-under, 6 shots behind Fleetwood**\n- Scheffler's R2 included four bogeys (three on back nine)\n- Adam Scott fired opening-round 66\n- Jordan Spieth tied on top after Round 1 (CBS Sports headline)\n- Top 70 players advance to BMW Championship\n**Verified Facts (MEDIUM confidence):**\n- Arpichaya Yubol posted bogey-free round (from LPGA note, different tournament — do not include)\n- Rory McIlroy in the field (per ESPN R2 tee times headline)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Jordan Spieth's Last Stand — Must Finish Top 23 to Survive FedEx Cup Playoffs",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Jordan Spieth has reached the FedEx Cup Playoffs 14 straight years.\n\nHe needs a solo 23rd finish THIS WEEK to avoid going home early.\n\nHe tied for the lead in R1. Now it's survival mode in Memphis. 💪\n\n#JordanSpieth #FedExStJude #PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#JordanSpieth",
+            "#FedExStJude",
+            "#PGATour"
+          ],
+          "char_count": 236
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The FedEx Cup bubble watch is real.\n\nSpieth (54th) and Max Homa (52nd) are clinging to their playoff lives in Memphis.\n\nTop 50 advance to BMW. The grind is on.\n\nWho makes it through? 👀\n\n#FedExStJude #PGATour #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#FedExStJude",
+            "#PGATour",
+            "#Golf"
+          ],
+          "char_count": 213
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-jordan-spieth-fedex-cup-bubble-playoff-survival.html",
+        "headline": "Jordan Spieth's Playoff Streak Is on the Line: The Math, the Bubble, and the Task at Hand in Memphis",
+        "word_count": 570
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Jordan Spieth Playoff Bubble\n**Sources:**\n- CBS Sports (FedEx Cup bubble watch article)\n- Yahoo Sports (FedEx Cup bubble watch article)\n- Roundtable.io (Spieth/Koivun bubble)\n- ESPN (FedEx Cup playoffs preview)\n- PGA Tour (first look article)\n**Verified Facts (HIGH confidence):**\n- Jordan Spieth entering St. Jude: 54th in FedEx Cup standings\n- Max Homa entering St. Jude: 52nd in FedEx Cup standings\n- Spieth needs to finish at least **solo 23rd** to advance to BMW Championship\n- **14th consecutive year reaching FedEx Cup Playoffs** (streak)\n- Spieth has not had a top-10 finish all season entering St. Jude\n- Jordan Spieth tied for the lead after Round 1 (per CBS Sports R1 update: \"Jordan Spieth tied on top\")\n- Top 50 advance from St. Jude to BMW Championship\n- Homa: had top 10 at Masters + runner-up at John Deere to Chris Gotterup\n**Verified Facts (MEDIUM confidence):**\n- Spieth did not advance past Memphis in 2024 or 2025 (per CBS Sports)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Scheffler Earned $10M Regular Season Bonus — But the Playoffs Are a Different Game",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Scottie Scheffler won $10 million just for finishing No. 1 in FedExCup regular season standings.\n\n4th time in 5 years. 794-point lead over the field.\n\nNow he trails Fleetwood by 6 at the St. Jude. The playoff game is different.\n\n#ScottieScheffler #PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ScottieScheffler",
+            "#PGATour"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-scheffler-10m-regular-season-bonus-fedexcup.html",
+        "headline": "Scheffler Banked $10 Million Before the Playoffs Started. Now He Has to Win Them.",
+        "word_count": 571
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Scheffler $10M Regular Season Bonus\n**Sources:**\n- Yahoo Sports (Scheffler $10M article)\n- Golf Channel (same story)\n- Yahoo Sports (FedEx Cup bubble watch)\n- ESPN (FedEx Cup playoffs preview)\n**Verified Facts (HIGH confidence):**\n- Scottie Scheffler finished No. 1 in FedEx Cup regular season standings\n- Regular season bonus for No. 1 finish: **$10 million**\n- Scheffler's regular season points total: more than 4,000 points (exact: 4,123 per Aug 13 pipeline note)\n- Scheffler's lead over No. 2 Matt Fitzpatrick: 794 points\n- Scheffler's lead over No. 3 Cameron Young: 963 points\n- Regular season top 10: Scheffler, Fitzpatrick, Young, Wyndham Clark, Chris Gotterup, Collin Morikawa, Si Woo Kim, Sam Burns, Tommy Fleetwood, Ludvig Åberg\n- **4th time in 5 years** Scheffler finished No. 1 in regular season standings",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "PGA Tour CEO: \"There's No Merger\" with LIV Golf — Final Verdict",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "PGA Tour CEO Brian Rolapp: \"There's no merger, no conversations.\"\n\nAfter 3+ years of framework agreements and failed talks, it's official: LIV Golf and the PGA Tour are separate — and staying that way.\n\nLIV's TV audience is 17x smaller. #Golf\n\n#PGATour #LIVGolf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Golf",
+            "#PGATour",
+            "#LIVGolf"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-pga-tour-no-merger-liv-golf-rolapp.html",
+        "headline": "PGA Tour CEO Says It Out Loud: \"There's No Merger, No Conversations\" with LIV Golf",
+        "word_count": 602
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "PGA Tour \"No Merger\" with LIV Golf\n**Sources:**\n- Bloomberg (Aug 7, 2026: PGA Tour CEO Rolapp statement)\n- Golf Daily (merger update)\n- MyGolfSpy (partnership is dead)\n- Front Office Sports (LIV CEO pushback)\n**Verified Facts (HIGH confidence):**\n- PGA Tour CEO: **Brian Rolapp**\n- Rolapp quote: \"There's no merger, no conversations, we've been really concentrated on the PGA Tour\"\n- Bloomberg report: Aug. 7, 2026\n- LIV Golf's TV audience is **17 times smaller** than PGA Tour's\n- LIV still has no Official World Golf Rankings points in 2026\n- LIV CEO has not submitted a new OWGR application (original denied Oct 2023)\n- Framework agreement between PGA Tour and PIF (Public Investment Fund) was signed June 2023 — never produced a deal\n- 26+ months since framework agreement, still no merger\n**Verified Facts (MEDIUM confidence):**\n- LIV 2.0 player-equity plan announced (per Aug 13 pipeline notes: \"new investor announced by CEO O'Neil at Bedminster\")",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "LPGA Portland Classic — Grace Kim Fires 66, Sets Up Weekend Showdown",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Grace Kim fired a 6-under 66 in Round 1 of The Standard Portland Classic at Columbia Edgewater CC.\n\nShe's one back of the leader with Thitikul, Woad, and Ryu all in the field.\n\nThe LPGA's top players are all in Portland this week. 🌹\n\n#LPGA #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA",
+            "#Golf"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-lpga-portland-classic-grace-kim-round-1.html",
+        "headline": "Grace Kim Fires 66 in Round 1 of the Portland Classic, One Back of the Leader at Columbia Edgewater",
+        "word_count": 547
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LPGA Portland Classic\n**Sources:**\n- LPGA.com (field breakdown, featured groups)\n- The Golf Newsnet (TV schedule)\n- LPGA.com/tournaments (Portland Classic overview)\n**Verified Facts (HIGH confidence):**\n- Tournament: **The Standard Portland Classic** (presented by The Standard, an insurance company)\n- Venue: **Columbia Edgewater Country Club**, Portland, Oregon\n- Dates: **Aug. 13-16, 2026** (rounds 1-4)\n- Purse: **$2 million**\n- 20th event of the 2026 LPGA Tour season\n- Field: 144 players\n- **Grace Kim fired 6-under 66 in Round 1**, sitting one back of the leader\n- **Arpichaya Yubol posted bogey-free round**\n- Notable players in field: Jeeno Thitikul, Lottie Woad, Haeran Ryu, Hannah Green\n- TV: Golf Channel (Thu-Fri 6-9 PM ET); CNBC (Sat 3-6 PM ET, Sun 2-5 PM ET)\n- Next LPGA event: **CPKC Women's Open**, Aug. 20-23, Royal Mayfair Golf Club, Edmonton, Alberta, Canada, **$2.75 million** purse\n**Verified Facts (MEDIUM confidence):**\n- Grace Kim is one back of the leader (implies leader shot 7-under or better in R1)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

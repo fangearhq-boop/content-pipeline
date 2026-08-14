@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-08-14
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-08-14 | T1 | Tommy Fleetwood Leads FedEx St. Jude Championship at 13-Under — R1 63 + R2 64 at TPC Southwind | X, FB, Article | FOLLOW UP |
+| 2026-08-14 | T1 | Jordan Spieth on FedEx Cup Playoff Bubble — 54th, Needs Solo 23rd to Advance to BMW Championship | X, FB, Article | FOLLOW UP |
+| 2026-08-14 | T2 | Scottie Scheffler's $10M Regular Season Bonus — No. 1 for the 4th Time in 5 Years | X, FB, Article | FOLLOW UP |
+| 2026-08-14 | T2 | PGA Tour CEO Brian Rolapp: "There's No Merger, No Conversations" with LIV Golf | X, FB, Article | FOLLOW UP |
+| 2026-08-14 | T2 | LPGA Standard Portland Classic — Grace Kim Fires 66 in Round 1 at Columbia Edgewater CC | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Tommy Fleetwood Leads FedEx St. Jude Championship at 13-Under
+- **Tier:** 1
+- **Category:** PGA Tour / FedEx St. Jude Championship / Round 2
+- **Key facts:** FedEx St. Jude Championship Aug 13-16, TPC Southwind, Memphis, TN. $20M purse. Tommy Fleetwood: R1 63 + R2 64 = 13-under (tournament leader after R2). Scottie Scheffler: R2 66 (4-under), 7-under total, 6 shots behind Fleetwood. Scheffler's R2 included 4 bogeys (3 on back nine). Adam Scott shot opening-round 66. Top 70 advance to BMW Championship. Fleetwood ranked 9th in FedExCup entering week.
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** St. Jude R3-R4 winner; Fleetwood vs Scheffler final leaderboard; FedExCup points implications
+
+### STORY 2: Jordan Spieth on FedEx Cup Playoff Bubble
+- **Tier:** 1
+- **Category:** PGA Tour / FedEx Cup Playoffs / Jordan Spieth
+- **Key facts:** Jordan Spieth entered St. Jude ranked 54th in FedExCup standings. Top 50 advance to BMW Championship. Needs solo 23rd or better to advance. 14th consecutive year reaching FedEx Cup Playoffs. No top-10 finish all 2026 regular season. Spieth tied for the lead after Round 1. Max Homa 52nd (also on bubble); had top-10 at Masters + runner-up at John Deere.
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Spieth/Homa final standings; BMW field after St. Jude cut; bubble resolution
+
+### STORY 3: Scottie Scheffler's $10M Regular Season Bonus
+- **Tier:** 2
+- **Category:** PGA Tour / FedExCup / Scottie Scheffler
+- **Key facts:** Scheffler finished No. 1 in FedExCup regular-season standings for the 4th time in 5 years. $10M bonus for No. 1 finish. 4,123 points total, 794-point lead over No. 2 Matt Fitzpatrick. Regular-season top 10: Scheffler, Fitzpatrick, Cameron Young, Wyndham Clark, Chris Gotterup, Collin Morikawa, Si Woo Kim, Sam Burns, Tommy Fleetwood, Ludvig Åberg. Scheffler currently trails Fleetwood by 6 at St. Jude after R2.
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** St. Jude final result; Tour Championship seeding; FedEx Cup title race
+
+### STORY 4: PGA Tour CEO — "No Merger, No Conversations" with LIV Golf
+- **Tier:** 2
+- **Category:** Golf Industry / PGA Tour / LIV Golf
+- **Key facts:** PGA Tour CEO Brian Rolapp told Bloomberg Aug 7, 2026: "There's no merger, no conversations, we've been really concentrated on the PGA Tour." LIV TV audience 17x smaller than PGA Tour. LIV has no OWGR points in 2026 (application denied Oct 2023; no new application submitted). Framework agreement signed June 2023 between PGA Tour and Saudi PIF — 26+ months without a deal. LIV 2.0 announced with new investor involvement (CEO O'Neil at Bedminster).
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** LIV 2.0 investor reveal; OWGR new application; Indianapolis LIV final event
+
+### STORY 5: LPGA Standard Portland Classic — Grace Kim Fires 66
+- **Tier:** 2
+- **Category:** LPGA / Standard Portland Classic / Grace Kim
+- **Key facts:** The Standard Portland Classic: Aug 13-16, Columbia Edgewater CC, Portland, OR. $2M purse. 20th event of 2026 LPGA season. 144 players. Grace Kim shot 6-under 66 in Round 1, one back of the leader. Arpichaya Yubol posted bogey-free round. Notable field: Jeeno Thitikul, Lottie Woad, Haeran Ryu, Hannah Green. Next event: CPKC Women's Open, Aug 20-23, Royal Mayfair GC, Edmonton, Alberta, $2.75M purse.
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Portland Classic R2-R4 results; Kim final position; CPKC Women's Open Edmonton preview
+
 ## 2026-08-13
 
 | Date | Tier | Story | Platforms | Status |
