@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-08-14
+
+| Date | Tier | Story | Formats | Status |
+|------|------|-------|---------|--------|
+| 2026-08-14 | T1 | Dutch Grand Prix Sprint Preview — First Sprint at Zandvoort, 7 Days Away | X, FB, Article | FOLLOW UP |
+| 2026-08-14 | T1 | Verstappen Exit Clause — Dutch GP Home Race Pressure | X, FB, Article | FOLLOW UP |
+| 2026-08-14 | T2 | Hamilton Ferrari Post-Break Confidence — "I Really Believe We Can Fight" | X, FB, Article | FOLLOW UP |
+| 2026-08-14 | T2 | Kimi Antonelli Championship Leader — "Surprising Claim" About His Level | X, FB, Article | FOLLOW UP |
+| 2026-08-14 | T2 | George Russell Contract Delay — Mercedes Verstappen Pursuit | X, FB, Article | NEW |
+
+### STORY 1: Dutch Grand Prix Sprint Preview — Zandvoort Farewell
+- **Tier:** 1
+- **Category:** F1 Race Preview / Dutch Grand Prix / Zandvoort
+- **Key facts:** Dutch GP Aug 21-23; Round 12 of 22; FIRST-EVER F1 Sprint at Zandvoort; FINAL Dutch GP at Zandvoort (6-year run 2021-2026 ending); Sprint Qualifying Fri + Sprint Race Sat AM + GP Qualifying Sat PM + Race Sun 15:00 CET (72 laps); Antonelli leads +50 pts; Norris won Hungarian GP; circuit: sand dunes, high-adrenaline, Orange Army
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Sprint results; qualifying; race result; Zandvoort tribute content
+
+### STORY 2: Verstappen Exit Clause — Dutch GP Home Race
+- **Tier:** 1
+- **Category:** F1 Driver Market / Max Verstappen / Red Bull
+- **Key facts:** Verstappen contracted Red Bull through 2028 with performance break clauses; exit window Aug-Oct; 6th in championship ~110 pts off lead; Dutch GP home race natural announcement point; McLaren frontrunner; Toto Wolff interest direct; Russell contract delay linked to Verstappen pursuit
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Verstappen Dutch GP statement/silence; contract announcement; McLaren official confirmation
+
+### STORY 3: Hamilton Ferrari Title Bid
+- **Tier:** 2
+- **Category:** F1 Driver / Lewis Hamilton / Ferrari
+- **Key facts:** 169 pts (50 behind Antonelli); 5 podiums + 1 win (Barcelona); straight-line deficit 0.3-0.4 sec/lap; ADUO second upgrade available; Hamilton quote: "I really believe we can fight" + "more focused than ever"; Leclerc 2nd win (British GP); Hamilton contract confirmed through at least 2027
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Ferrari engine upgrade announcement; Dutch GP result for Hamilton
+
+### STORY 4: Kimi Antonelli Championship Leader
+- **Tier:** 2
+- **Category:** F1 Driver / Kimi Antonelli / Mercedes
+- **Key facts:** 219 pts; 6 wins (5 consecutive); youngest WDC leader (19y 216d); Mercedes constructors 379 pts (+72 over Ferrari, 8 wins); Antonelli says he's not at his level yet; Verstappen praised him specifically; "surprising claim" making rounds
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Dutch GP result; next milestone records; championship margin
+
+### STORY 5: George Russell Contract Delay
+- **Tier:** 2
+- **Category:** F1 Driver Market / George Russell / Mercedes
+- **Key facts:** 3rd in championship 160 pts; no new contract; Mercedes pursuing Verstappen (exit clause Oct deadline) causing delay; Toto Wolff open about interest; Leclerc signed through 2028 (June 2026); Norris through 2027; Piastri through 2028; Russell is outlier
+- **Status:** NEW
+- **Follow-up ideas:** Russell contract signing; Verstappen decision affecting Mercedes planning
+
 ## 2026-08-13
 
 | Date | Tier | Story | Formats | Status |

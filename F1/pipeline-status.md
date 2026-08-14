@@ -1,6 +1,18 @@
 # F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
+- **Date**: 2026-08-14
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway)
+- **PostPlanner exports:** f1fr-postplanner-2026-08-14.xlsx (7 posts) + f1fr-postplanner-tobi-2026-08-14.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-08-14/review-dashboard.html (22 items)
+- **Notes:** DUTCH GP 7 DAYS AWAY — First-ever F1 Sprint at Zandvoort + Zandvoort farewell race (final Dutch GP at circuit); Antonelli 219/Hamilton 169/Russell 160 into second half; Verstappen exit clause window open (Aug-Oct, Dutch GP home race natural announcement point, McLaren frontrunner); Hamilton "more focused than ever" (ADUO upgrade still available, lost 0.3-0.4 sec/lap on straights, one win Barcelona); Antonelli "surprising claim" he's not at his level yet (6 wins, 5 consecutive, 19y 216d youngest WDC leader); Russell contract delay while Mercedes pursues Verstappen (Leclerc/Norris/Piastri all signed, Russell outlier)
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+### 2026-08-13
 - **Date**: 2026-08-13
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
 - **Stories:** 5 total (3 Tier 1, 2 Tier 2)
