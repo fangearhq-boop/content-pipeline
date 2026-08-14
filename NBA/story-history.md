@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-08-14
+
+| Date | Tier | Story | Formats | Status |
+|------|------|-------|---------|--------|
+| 2026-08-14 | T1 | NBA 2026-27 Full Schedule Released — LeBron Returns to LA on Christmas Day | X, FB, Article | FOLLOW UP |
+| 2026-08-14 | T1 | Russell Westbrook Retires After 18 Seasons — End of an Era | X, FB, Article | FOLLOW UP |
+| 2026-08-14 | T2 | Kawhi Leonard — Resolution Expected Within Six Weeks, Raptors Preparing | X, FB, Article | FOLLOW UP |
+| 2026-08-14 | T2 | Stephen Curry Extension Window Opens in 15 Days — Warriors GM Confident | X, FB, Article | FOLLOW UP |
+| 2026-08-14 | T2 | Wembanyama Returns to France FIBA — Belgrade Showdown 6 Days Away | X, FB, Article | FOLLOW UP |
+
+### STORY 1: NBA 2026-27 Full Schedule Released — Christmas Day / Opening Night Details
+- **Tier:** 1
+- **Category:** NBA Season Preview / Schedule Release
+- **Key facts:** Full schedule released Aug 13 at 3 PM ET; Opening Night Oct 20 tripleheader (Celtics-Pistons 3 PM, 76ers at Knicks 7 PM banner night, Thunder at Spurs 9:30 PM); Christmas Day: Knicks vs. Spurs noon (Finals rematch), Heat at Celtics 2:30 PM, 76ers at Lakers 5 PM (LeBron returns to LA), Thunder at Wolves 8 PM, Nuggets at Warriors 10:30 PM; Jaylen Brown returns to Boston Jan 21; Giannis returns to Milwaukee Jan 28; 76ers face Knicks/Pistons/Pacers/Cavs twice in first 14 games; ABC/NBC broadcasting 90 games (+14%)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Training camp open; opening night preview; Christmas Day countdown
+
+### STORY 2: Russell Westbrook Retires After 18 Seasons
+- **Tier:** 1
+- **Category:** NBA Retirement / Hall of Fame
+- **Key facts:** Retired via Michael B. Jordan-narrated video (Aug 12-13); 18 seasons, 9x All-Star, 9x All-NBA, 2017 MVP; all-time triple-double leader 209; first to avg triple-double since Oscar Robertson (1962); 5th all-time assists (10,351); 14th all-time points (27,176); teams: Thunder/Rockets/Wizards/Lakers/Clippers/Nuggets/Kings; declined Kings/Wizards minimum deals to retire
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Hall of Fame induction timeline; reaction from former teammates
+
+### STORY 3: Kawhi Leonard — Resolution Expected Within Six Weeks
+- **Tier:** 2
+- **Category:** NBA Investigation / Toronto Raptors / Los Angeles Clippers
+- **Key facts:** HoopsHype Aug 10: resolution within six weeks; ~Sept 22 timeline; Raptors Quebec City training camp Sept 29; Kawhi expects to be with Toronto (NBC Sports/Fischer); sanctions against Clippers expected + trade clearance; Wachtell law firm 11 months on investigation; trade: Leonard for Ingram + Dick + two unprotected firsts
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** NBA announcement; trade completion; Leonard training camp report
+
+### STORY 4: Stephen Curry Extension Window Opens Aug 29
+- **Tier:** 2
+- **Category:** NBA Contracts / Golden State Warriors
+- **Key facts:** Window opens Aug 29 (15 days from Aug 14); 2yr/$136.7M max; Warriors GM Dunleavy: "He wants to finish his career as a Warrior"; mutual interest (ESPN/Slater); September signing expected; Warriors 37-45 last season; Draymond Green 1yr/$27.7M back; without extension → UFA next summer
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Extension signing announcement; Warriors training camp outlook
+
+### STORY 5: Wembanyama — France vs. Serbia in Belgrade Aug 20
+- **Tier:** 2
+- **Category:** NBA Offseason / San Antonio Spurs / France FIBA
+- **Key facts:** Exhibition vs Serbia Belgrade Aug 20; exhibition Orleans Aug 23; qualifiers vs Slovenia Aug 27 (home), Sweden Aug 30 (away); France roster: Wemby + Gobert + Fournier; coach Frederic Fauthoux (first time coaching Wemby); Wemby quote: "I do not miss the NBA right now, I miss FIBA basketball"; France 5-1 Group L; first since 2024 Paris Olympics
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Serbia result Aug 20; qualifier results; Spurs training camp
+
 ## 2026-08-13
 
 | Date | Tier | Story | Formats | Status |

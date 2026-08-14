@@ -1,6 +1,18 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Last Run
+- **Date**: 2026-08-14
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce, Jake Torres)
+- **PostPlanner exports:** hh-postplanner-2026-08-14.xlsx (7 posts) + hh-postplanner-tobi-2026-08-14.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-08-14/review-dashboard.html (22 items)
+- **Notes:** SCHEDULE DEEP-DIVE — Full 2026-27 schedule released Aug 13 (Christmas Day: LeBron returns to LA 5 PM, Knicks vs Spurs noon Finals rematch, Giannis vs Celtics 2:30 PM; Opening Night Oct 20 76ers at Knicks banner night + Thunder at Spurs); Russell Westbrook retirement (18 seasons, 209 triple-doubles all-time record, Michael B. Jordan video); Kawhi Leonard ~Sept 22 resolution (HoopsHype 6-week timeline, Kawhi expects Raptors, Quebec City camp Sept 29); Curry extension window Aug 29 15 days (Dunleavy confident, 2yr/$136.7M); Wemby vs Serbia Belgrade Aug 20 (6 days, "I miss FIBA basketball", Gobert+Fournier)
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+### 2026-08-13
 - **Date**: 2026-08-13
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
 - **Stories:** 5 total (3 Tier 1, 2 Tier 2)
