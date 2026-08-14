@@ -2,6 +2,50 @@
 
 ---
 
+## August 14, 2026
+
+### Story 1: WPX-4 Slide Playset CPSC Warning — 17-Month-Old Died
+- **Date:** 2026-08-14
+- **Content Pillar:** National Parenting (Safety / CPSC)
+- **Angle:** NEW STORY — CPSC issued urgent warning August 13 to stop using Model WPX-4 Slide Playsets (indoor/outdoor plastic playsets with tunnel, slide, basketball hoop; Wenzhou Yidian Amusement Equipment). Multiple openings where toddler torso passes through but head cannot — head/neck entrapment risk. One 17-month-old died. No refund mechanism (warning, not formal recall). Action: stop use, dispose of product, do not donate or resell.
+- **Content Produced:** Article (Jamie Rivera), 2 X posts, Facebook Long-Form, Facebook Image Caption, Image Concept (Gemini)
+- **Tier:** 1
+- **Key Facts:** Model WPX-4; manufacturer Wenzhou Yidian Amusement Equipment; 1 confirmed death (17-month-old); head/neck entrapment hazard; CPSC warning Aug 13, 2026; dispose, do not donate or resell; Sources: CPSC.gov, Click2Houston, The Hill
+
+### Story 2: Goody King Magnetic Building Cubes Recalled — 213,500 Units, 2 Surgeries
+- **Date:** 2026-08-14
+- **Content Pillar:** National Parenting (Safety / CPSC)
+- **Angle:** NEW STORY — CPSC recall Aug 13: Goody King Magnetic Building Cubes and Blocks (~213,500 units, Yi Suen Commerce, Hong Kong); sold exclusively on Amazon.com Jan 2024–Jul 2026; sets of 45/56/100/120/150/300 cubes; forest/dino/unicorn themes. Cubes break open exposing high-powered magnets; swallowing 2+ magnets causes intestinal wall perforations, blockage, blood poisoning risk. 27 break reports; 2 children needed surgery. Full refund: contact Yi Suen Commerce, prepaid return label, refund after receipt.
+- **Content Produced:** Article (Sarah Morales), 2 X posts, Facebook Long-Form, Facebook Image Caption, Image Concept (Gemini)
+- **Tier:** 1
+- **Key Facts:** ~213,500 units; Amazon-only Jan 2024–Jul 2026; 27 break reports; 2 surgeries; importer Yi Suen Commerce; full refund, prepaid label; recall date Aug 13, 2026; Sources: CPSC.gov, ABC News, Fox Business
+
+### Story 3: CMZoo Little Paws Preschool Opens August 24
+- **Date:** 2026-08-14
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Colorado's first state-accredited, nature-based outdoor preschool inside a zoo opens inaugural class Aug 24 at Cheyenne Mountain Zoo. Accredited by Colorado Department of Early Childhood. Age 3: Tu/Th 9 AM–noon, $220.75/mo. Ages 4-5: M/W/F 9 AM–1 PM, $460.75/mo. Classes ~15 students. Play-based outdoor curriculum; licensed teachers. Enrollment still open: littlepawspreschool@cmzoo.org.
+- **Content Produced:** Article (Jamie Rivera), 1 X post, Facebook Long-Form, Facebook Image Caption, Image Concept (Gemini)
+- **Tier:** 2
+- **Key Facts:** Little Paws Preschool at CMZoo; Colorado's first zoo-based outdoor preschool; opens Aug 24, 2026; age 3 $220.75/mo Tu/Th; ages 4-5 $460.75/mo M/W/F; ~15 students/class; littlepawspreschool@cmzoo.org; Sources: CMZoo.org, KOAA, KKTV
+
+### Story 4: Jenkins Middle School Reopens After 18 Months
+- **Date:** 2026-08-14
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — D11 Jenkins Middle School ribbon cutting Aug 12, 2026 (same as D11 first day of school). Closed due to cracking/separating floors and walls — building never properly anchored to foundation. 6th/7th graders spent 2025-26 in parking lot portables; 8th graders at Doherty High School. New wing: 20,000 sq ft, 20 classrooms (10/floor), anchored to new stable foundation. Groundbreaking Oct 2025.
+- **Content Produced:** Article (Sarah Morales), 1 X post, Facebook Long-Form, Facebook Image Caption, Image Concept (Gemini)
+- **Tier:** 2
+- **Key Facts:** Jenkins Middle School, D11; ribbon cutting Aug 12, 2026; 18 months displaced; new 20,000 sq ft wing; 20 classrooms; groundbreaking Oct 2025; 6th/7th in portables, 8th at Doherty; Sources: FOX21, KRDO, KKTV
+
+### Story 5: Palmer High School $100M Renovation and Traffic Alert
+- **Date:** 2026-08-14
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — D11's Palmer High School (COS oldest high school, founded 1874) in Phase 1 of $100M renovation (certificate of participation funds). Phase 1: demolish tech building/cafeteria, new academic wing; completion spring 2028. Campus open/operational throughout; modular classrooms added. Boulder Street permanently closed (City Council reversed initial vote May 2026) — connects both campus halves. 12 new school zones at D11 middle/high schools citywide.
+- **Content Produced:** Article (Jamie Rivera), 1 X post, Facebook Long-Form, Facebook Image Caption, Image Concept (Gemini)
+- **Tier:** 2
+- **Key Facts:** Palmer High School, D11; founded 1874; $100M renovation; Phase 1 completion spring 2028; Boulder Street permanently closed; 12 new school zones COS-wide; Sources: KRDO, KOAA, Colorado Springs Gazette
+
+---
+
 ## August 13, 2026
 
 ### Story 1: Weekend Family Roundup — August 14–16, 2026

@@ -1,5 +1,43 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: August 14, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | WPX-4 Slide Playset CPSC warning (1 death, 17-month-old, entrapment hazard); Goody King Magnetic Building Cubes recall (~213,500 units, Amazon, 2 surgeries); CMZoo Little Paws Preschool opening Aug 24 (CO's first zoo-based outdoor preschool); Jenkins Middle School D11 reopening (new 20,000 sq ft wing, 18 months displaced); Palmer High $100M renovation, Boulder Street permanently closed, 12 new school zones COS |
+| Story History Check | COMPLETE | 5 stories: S1 new (WPX-4 warning — new product/distinct from all prior recalls); S2 new (Goody King magnetic cubes — distinct from Aug 13 GOPO teething toys); S3 new (CMZoo Little Paws Preschool — first-ever zoo preschool); S4 new (Jenkins Middle School specific reopening — Aug 12 D11 coverage did not highlight Jenkins); S5 new (Palmer renovation traffic alert) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Jamie Rivera (S1, S3, S5), Sarah Morales (S2, S4) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH confidence: all CPSC recall details, CMZoo prices/dates/email, Jenkins wing details, Palmer funding/scope/timeline |
+| Story Analysis | COMPLETE | 02-story-analysis.md — 5 story sections with angles, headlines, voice checks |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (S1: 2, S2: 2, S3/S4/S5: 1 each); all ≤280 chars (5 tweets fixed after verify-facts first run); 4 hashtags each; 0 exclamation marks |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form posts + 5 Image Captions; engagement questions; NO hashtags; COS voice; 0 exclamation marks |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts; 1200×675 (social) and 1200×630 (hero); clean bottom third; no celebrity likenesses; no brand logos |
+| Articles | COMPLETE | 5 articles (500-1000 words; semantic HTML5; What's Next sections; Quick Reference tables for S1/S2/S3/S5; 0 exclamation marks; no figure tags); bylines: Jamie Rivera (A1, A3, A5), Sarah Morales (A2, A4) |
+| Fact-Check | COMPLETE | verify-facts.py — 61 claims extracted; all tweets pass ≤280 chars; 10 image entries not_started (expected for gemini source) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 5 stories × 2 image types (social + hero) = 10 entries; all not_started; gemini base_only; kAHCKfCZgk0 brand kit |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts (known pipeline issue), 5 articles, 17 dashboard items |
+| Dashboard | COMPLETE | review-dashboard.html — 17 items |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-08-14.xlsx (7 posts 14:09–20:51 ET, 67 min apart) + cosp-postplanner-tobi-2026-08-14.xlsx (7 TOBI posts) |
+| Dashboard Push | Attempted — proxy blocks write to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — proxy blocks WP API (403) | Same environment restriction as all prior runs |
+
+### 2026-08-14 — Full Pipeline Run (Friday)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts (S1: 2, S2: 2, S3/S4/S5: 1 each); PostPlanner xlsx: 7 posts 14:09–20:51 ET, 67 min apart; 7 TOBI
+- **Articles:** 5 (bylines: Jamie Rivera [A1, A3, A5], Sarah Morales [A2, A4])
+- **PostPlanner exports:** cosp-postplanner-2026-08-14.xlsx (7 posts 14:09–20:51 ET), cosp-postplanner-tobi-2026-08-14.xlsx (7 TOBI posts)
+- **Coverage:** WPX-4 Slide Playset CPSC warning — 17-month-old died, head/neck entrapment, dispose do not donate (S1, Tier 1); Goody King Magnetic Building Cubes ~213,500 units recalled — cubes break open, 2 surgeries, full refund Yi Suen Commerce (S2, Tier 1); CMZoo Little Paws Preschool — CO's first zoo-based outdoor preschool, opens Aug 24, ages 3/4-5, enrollment open littlepawspreschool@cmzoo.org (S3, Tier 2); Jenkins Middle School D11 reopens — 18 months in portables/Doherty, new 20,000 sq ft 20-classroom wing (S4, Tier 2); Palmer High $100M renovation — Boulder Street permanently closed, 12 new school zones COS-wide, spring 2028 Phase 1 completion (S5, Tier 2)
+- **Notes:**
+  - verify-facts.py: 61 claims; 5 tweets over 280 chars on first run (newlines not counted in initial estimates) — all fixed; clean pass on second run
+  - compile: 7 X posts, 0 FB posts (known pipeline issue), 5 articles, 17 dashboard items
+  - WordPress: proxy blocks WP API (403); same as all prior runs
+  - Dashboard push: proxy blocks content-dashboards repo write; same as all prior runs
+  - Byline rotation: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4]
+  - Story history updated with all 5 stories
+
+---
+
 ## Latest Run: August 13, 2026
 
 | Step | Status | Notes |
