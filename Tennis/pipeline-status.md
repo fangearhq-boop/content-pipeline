@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-08-13 |
-| Writing | Complete (all steps) | 2026-08-13 |
-| Fact-check | Complete (verify-facts.py run — 5 stories, 27 claims) | 2026-08-13 |
-| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 5 articles, 22 items) | 2026-08-13 |
-| Dashboard | Complete (review-dashboard.html, 22 items) | 2026-08-13 |
-| PostPlanner Export | Complete (standard 7 posts 13:12–20:42 ET; TOBI 7 posts) | 2026-08-13 |
-| WordPress Publish | Attempted — proxy blocks WordPress API (same as all prior runs) | 2026-08-13 |
-| Dashboard Push | Attempted — proxy lacks write access to content-dashboards repo (same as all prior runs) | 2026-08-13 |
+| Research | Complete | 2026-08-14 |
+| Writing | Complete (all steps) | 2026-08-14 |
+| Fact-check | Complete (verify-facts.py run — 5 stories, 16 claims) | 2026-08-14 |
+| Compile | Complete (07-content-data.json — 5 stories, 6 X posts, 5 articles, 21 items) | 2026-08-14 |
+| Dashboard | Complete (review-dashboard.html, 21 items) | 2026-08-14 |
+| PostPlanner Export | Complete (standard 6 posts 13:46–20:36 ET; TOBI 6 posts) | 2026-08-14 |
+| WordPress Publish | Attempted — proxy blocks WordPress API (same as all prior runs) | 2026-08-14 |
+| Dashboard Push | Attempted — proxy lacks write access to content-dashboards repo (same as all prior runs) | 2026-08-14 |
 
 ## Queue
 
@@ -24,6 +24,16 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-08-14 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 6 X posts + 5 FB posts (5 long-form + 5 captions) = 11 total
+- **Articles:** 5 (bylines: Marcus Cole [S1, S4], Ryan Calloway [S2, S5], Elena Voss [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-08-14.xlsx (6 posts 13:46–20:36 ET), tfr-postplanner-tobi-2026-08-14.xlsx (6 TOBI posts)
+- **Key stories:** Shelton def. Nakashima 6-3, 7-6(4) — defends Montreal, first since Nadal (2018-19) to back-to-back Canadian Masters, joins Murray/Djokovic in Open Era club; entered week 1-4 in Masters 1000; Swiatek def. Rybakina 6-2, 6-3 — first title of 2026, 10-month drought snapped, 12th career WTA 1000, completes North American swing career sweep; Nakashima rises to career-high No. 22 (both UVA alums — all-Cavaliers Masters 1000 final); Cincinnati Day 2 underway (Zverev/Djokovic debut Aug 15); US Open 2-week preview (Sinner knee, Alcaraz wrist, Shelton/Swiatek frontrunners)
+- **Issues:** posting window warnings cosmetic (known issue); image manifest all not_started (expected for imagn source); WordPress blocked by proxy; dashboard push blocked by proxy
+- **Story history:** Updated with all 5 stories
 
 ### 2026-08-13 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
