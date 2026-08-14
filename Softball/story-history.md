@@ -3,6 +3,65 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-08-14
+
+### Story 1: AUSL All-Star Cup Series 3 — Captains Set, Kowalik Leads Individual Race Into Aug. 24 Opener
+- **Date:** 2026-08-14
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Aug 13 covered Series 2 Kowalik return/lead; today = Series 3 captains announced)
+- **Angle:** Series 3 captains: Kowalik (Individual leader), Ricketts (Series 1 captain returns), Coffey, Netz. Series 3 opens Aug 24 doubleheader at 3:00 PM ET at Palmer Drive, Rosemont IL. Rookies watch: Otis moved up 22 spots to No. 10. Two series remain (3 + 4), final individual champion Aug 30.
+- **Content Produced:** Article (article-01, Emily Rawlings), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Series 3 Day 1 results (Aug 24)
+  - Individual standings after Series 3
+  - Final individual champion (Aug 30)
+
+### Story 2: September 1 — 18 Days to D1 First-Contact Window (Class of 2028)
+- **Date:** 2026-08-14
+- **Tier:** 2
+- **Classification:** FOLLOW UP (daily countdown, 19 days on Aug 13)
+- **Angle:** 18 days to Sept 1. D1 coaches can call Class of 2028 recruits for first time. Record 1,226 EIS nominations. Commitment wave expected within days of window opening.
+- **Content Produced:** Article (article-02, Jordan Reeves), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Continue countdown (17 days Aug 15)
+  - September 1 arrival coverage
+  - Commitment announcements wave
+
+### Story 3: Texas Longhorns 2027 — Defending Champions Begin New Chase With Kavan's Senior Year
+- **Date:** 2026-08-14
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Aug 13 was first full deep-dive; today adds Kavan senior year angle)
+- **Angle:** Kavan entering senior year as reigning two-time WCWS MOP (first in WCWS history to win consecutive). Texas swept Tech 4-1 in 2026 WCWS final. Mike White navigating back-to-back. Three-peat narrative building toward 2027 season.
+- **Content Produced:** Article (article-03, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Kavan preseason honors
+  - Texas 2027 fall camp/preseason rankings
+  - Three-peat narrative milestones
+
+### Story 4: USA WNT WBSC World Cup Group Stage — 29-Day Countdown
+- **Date:** 2026-08-14
+- **Tier:** 3
+- **Classification:** FOLLOW UP (30-day milestone was Aug 13; today = 29 days)
+- **Angle:** 29 days to Group Stage Oklahoma City (Sept 12-16 Devon Park). USA went 8-2 at International Cup at same venue. Full roster includes Wells + Shumaker international debuts. Top 2 → 2027 Finals Brisbane April 5-11.
+- **Content Produced:** Article (article-04, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Group stage opens Sept 12 (29 days from Aug 14)
+  - USA match schedule/broadcast times
+  - 28-day countdown (Aug 15)
+
+### Story 5: Texas Tech Softball 2027 — Building Without Canady, Glasco Eyes Return
+- **Date:** 2026-08-14
+- **Tier:** 2
+- **Classification:** FOLLOW UP (MAJOR CORRECTION — prior pipeline Aug 3-13 incorrectly stated Canady entering senior year; she turned professional, drafted No. 2 overall by Texas Volts in May 2026 AUSL draft)
+- **Angle:** Texas Tech 2027 without Canady (pro). Glasco builds around Kasidi Pickering (.384 career avg, 50 HR) and Natalie Heavener (2.81 ERA LSU transfer). No. 1 rated transfer class. Fall camp approaching.
+- **Content Produced:** Article (article-05, Jordan Reeves), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Fall camp opening
+  - Texas Tech preseason rankings
+  - Canady performance with Texas Volts in AUSL
+
+---
+
 ## 2026-08-13
 
 ### Story 1: AUSL All-Star Cup — Kowalik Returns for Series 2, Leads Individual Race
