@@ -5,6 +5,59 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-14
+
+### STORY 1: Cardinals Series Preview — Game 1 of 3 at Wrigley Field
+- **Angle:** NEW STORY (Cubs 71-51 vs Cardinals 61-60, Game 1 of 3, Wrigley Field, 1:20 PM CT, Apple TV+; Holmes 2.86 ERA vs Liberatore 5-9/5.15 ERA; Cardinals 7-3 in last 10 but still .500 club; no score per has_score=False insight; lead with matchup/length/location, kicker on Cardinals being a .500 team)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, series preview)
+- **Follow-Up Opportunities:**
+  - Game 1 result recap (Aug 15 7:00 AM)
+  - Holmes second Cubs start performance tracking
+  - Series result (Cubs vs Cardinals, 3-game home series Aug 14-16)
+
+### STORY 2: Nationals Recap — Cavalli Near No-Hitter, Gausman Struggles
+- **Angle:** NEW STORY (Nationals 7-0 win on Aug 13 — Cavalli no-hit into 7th; Michael Busch broke it up; Gausman 4.2 IP, 6 R in second Cubs start; series goes 2-1; no score per has_score=False; lead with Cavalli's near no-hitter)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - Gausman performance tracking (second Cubs start rough — monitor)
+  - Cubs offensive bounce-back vs Cardinals
+
+### STORY 3: PCA 30-30 Watch — 27 HR, 30 SB, Leads MLB in WAR
+- **Angle:** FOLLOW UP (PCA coverage shifted to 30-30 milestone angle: 30 SB already, 27 HR, needs 3 more for back-to-back 30-30; leads MLB in WAR; "historic Cubs season" framing; previous coverage on Aug 13 used MVP odds angle)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, stat breakdown)
+- **Follow-Up Opportunities:**
+  - PCA 30th HR milestone (3 away as of today)
+  - September MVP race final push
+
+### STORY 4: Bregman on Fire Walking Into Cardinals Series
+- **Angle:** FOLLOW UP (.394/.460/.788 since July 27, 6 HR in 16 games; contextualizing hot bat vs today's favorable matchup — Liberatore 5-9/5.15 ERA; Cardinals jab kicker; distinct angle from earlier hot-streak coverage which lacked Cardinals matchup context)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, bold/analytical)
+- **Follow-Up Opportunities:**
+  - Bregman multi-HR game tonight watch (vs Liberatore 5.15 ERA)
+  - Full series stats Bregman Aug 14-16
+
+### STORY 5: Pre-Game Hype — Cubs 71-51 vs Cardinals 61-60
+- **Angle:** NEW STORY (Wrigley Field, Friday afternoon, rivalry game; team records contrast 71-51 vs 61-60; Cubs No. 1 in Wild Card; midday slot per posting_window=midday_12_18 wins finding)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, hype)
+- **Follow-Up Opportunities:**
+  - Game result recap
+  - Weekend series standings update
+
+### STORY 6: Bold Take — H2H vs Standings Contrast
+- **Angle:** NEW STORY (Cardinals lead 2026 H2H 4-2 but Cubs have 10 more wins; "only one of them matters for October" framing; posted 5 min before first pitch; second midday slot to capitalize on winning posting window)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, bold/rival)
+- **Follow-Up Opportunities:**
+  - H2H series update after weekend (Aug 14-16 can swing it 5-2 or 4-5)
+  - Cardinals series implications for Wild Card race
+
+---
+
 ## 2026-08-13
 
 ### STORY 1: Game 2 Recap — Cubs Offense Pours It On in D.C.
