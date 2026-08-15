@@ -5,6 +5,59 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-15
+
+### STORY 1: Cubs Shut Out Cardinals in Game 1 — Holmes, Suzuki Deliver
+- **Angle:** NEW STORY (Holmes dominant in shutout; Suzuki 3-run HR in 6th off Soriano; Webb closes 9th; no score per has_score=False insight; Cubs 72-51, Cardinals 61-61; Cubs lead series 1-0)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - Game 2 result recap (Aug 16 7:00 AM) — Boyd vs McGreevy outcome
+  - Holmes second Cubs start performance tracking (strong rebound vs Cardinals)
+  - Series sweep watch (Aug 16 7:00 AM)
+
+### STORY 2: Boyd vs McGreevy — Series Lead on the Line at 1:20 PM CT
+- **Angle:** NEW STORY (Boyd 8-1, 2.35 ERA L7 vs McGreevy 4-9, 5.68 xERA; Cardinals 18th in MLB vs LHP; 1:20 PM CT Wrigley; game preview must post before first pitch)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, game preview/bold take)
+- **Follow-Up Opportunities:**
+  - Boyd performance recap (Aug 16 morning)
+  - McGreevy regression angle if he allows runs
+
+### STORY 3: Edward Cabrera Returns Sunday
+- **Angle:** NEW STORY (Cabrera off IL to start Aug 16 Game 3 at Wrigley; replaces Imanaga's slot; final rehab 5 IP, 0 H, 7 K at Knoxville Aug 11; rotation boost with Horton/Miller out for year)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, roster news)
+- **Follow-Up Opportunities:**
+  - Cabrera debut recap (Aug 16 morning)
+  - Rotation depth story for September push
+
+### STORY 4: PCA's 30-30 Chase and Bregman's MVP Endorsement
+- **Angle:** FOLLOW UP (from Aug 14 30-30 framing; new hook: Bregman quote "I think Pete should win MVP"; 7.5 WAR MLB-best; 30 SB, 27 HR, 3 from back-to-back 30-30)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, stat/bold)
+- **Follow-Up Opportunities:**
+  - PCA 30th HR milestone (3 away)
+  - September MVP race coverage as Ohtani/PCA separate
+
+### STORY 5: Cardinals Are Mathematically in It, Realistically Gone
+- **Angle:** FOLLOW UP (ongoing Cardinals standings angle; fresh hook = post-shutout context; 61-61, 7 GB out of Wild Card, Cubs now lead season series 6-5)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, rival jab)
+- **Follow-Up Opportunities:**
+  - Cardinals elimination watch as September approaches
+  - Cubs Wild Card clinch countdown
+
+### STORY 6: Ben Cowles Powers Iowa — Prospect Pipeline Update
+- **Angle:** NEW STORY (Cowles 2 HR / 4 RBI for Iowa vs St. Paul 10-3 on Aug 14; Palencia rehabbing; Cabrera graduated; pipeline depth narrative despite MLB injury toll)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, prospect feature)
+- **Follow-Up Opportunities:**
+  - Cowles call-up watch if Cubs need OF depth in September
+  - Palencia activation update
+
+---
+
 ## 2026-08-14
 
 ### STORY 1: Cardinals Series Preview — Game 1 of 3 at Wrigley Field

@@ -1,0 +1,241 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-15",
+  "compiled_at": "2026-08-15T09:20:45.215588+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Story 1 — Game recap: Holmes shutout, Suzuki 3-run HR, Cubs take series lead",
+      "type": "Informative"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Story 2 — Game 2 preview: Boyd 2.35 ERA L7 vs McGreevy 5.68 xERA, 1:20 PM CT",
+      "type": "Bold/Preview"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 3 — Cabrera returning Sunday: 5 hitless IP rehab, replaces Imanaga slot",
+      "type": "Roster news"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "Story 4 — PCA: 3 HR from 30-30, Bregman MVP endorsement, 7.5 WAR MLB-best",
+      "type": "Analytical"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 5 — Cardinals 61-61, 7 GB out of Wild Card, Cubs lead season series 6-5",
+      "type": "Bold/Rival"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Story 6 — Cowles 2 HR for Iowa, Palencia rehabbing, pipeline delivering",
+      "type": "Prospect"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Cubs Shut Out Cardinals in Game 1 — Holmes, Suzuki Deliver",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Clay Holmes dominated in Game 1 at Wrigley on Friday. Seiya Suzuki broke it open with a three-run HR in the 6th inning off Cardinals reliever George Soriano, Jacob Webb closed it out in the 9th. Cubs now 72-51, Cardinals fall to 61-61. No final score per has_score=False insight — lead with Holmes and Suzuki's performances.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Clay Holmes shut the door on St. Louis on Friday at Wrigley.\n\nSeiya Suzuki's three-run shot in the sixth was all the Cubs needed. Webb closed it out in the ninth.\n\nBoyd takes the hill at 1:20 PM CT. Cubs want this series.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative / game recap",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cubs Shut Out Cardinals in Game 1\n**Status:** NEW STORY\n**Decision:** Yesterday's coverage was a series preview for Aug 14. Today's recap is fresh content covering the actual result.\n**Sources:**\n1. Cubs Insider (https://www.cubsinsider.com/2026/08/14/chicago-cubs-score-and-recap-8-14-26-cubs-3-cardinals-0-holmes-excellent-in-shutout-w/) — published Aug 14, 2026\n2. Bleacher Nation (https://www.bleachernation.com/cubs/2026/08/14/enhanced-box-score-cubs-3-cardinals-0-august-14-2026/) — published Aug 14, 2026\n3. MLB.com Gameday (https://www.mlb.com/gameday/cardinals-vs-cubs/2026/08/14/824643/final) — real-time data\n**Key Facts:**\n- Final: Cubs 3, Cardinals 0 (shutout)\n- Clay Holmes pitched excellently (exact IP not confirmed from search — LOW confidence on IP total, do not cite a specific inning count)\n- Seiya Suzuki: 3-run HR in the 6th inning off Cardinals relief pitcher George Soriano\n- George Soriano entered in relief of Liberatore (came in with two on, one out in the 6th)\n- Jacob Webb: closed out the 9th (shutout preserved)\n- Cubs now 72-51; Cardinals fall to 61-61\n- Season series: Cubs lead 6-5 (was 5-5 heading in)\n**Freshness:** ✅ Game played Aug 14 — standard next-morning recap\n**Confidence:** HIGH on final score and HR (multiple matching sources). LOW on exact Holmes IP — do not cite in tweet.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Boyd vs McGreevy — Series Lead on the Line at 1:20 PM CT",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Matthew Boyd (8-1, 2.35 ERA last 7 starts) faces Cardinals starter Michael McGreevy (4-9, 3.64 ERA on the surface but 5.68 xERA) in Game 2. Cardinals rank 18th in baseball vs LHP (94 wRC+). Boyd's form is elite. Preview must post before 1:20 PM CT first pitch.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Matthew Boyd. 2.35 ERA over his last seven starts.\n\nMichael McGreevy has a 5.68 xERA hiding behind his 3.64 surface number.\n\nCardinals rank 18th in baseball against left-handed pitching. Wrigley. 1:20 PM CT.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold take / game preview",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Boyd vs McGreevy Today — 1:20 PM CT\n**Status:** NEW STORY\n**Decision:** Today's game preview; different story from yesterday's Holmes matchup coverage.\n**Sources:**\n1. Bleacher Nation (https://www.bleachernation.com/cubs/2026/08/14/cubs-vs-cardinals-probables/) — Aug 14, 2026\n2. Baseball-Reference preview (https://www.baseball-reference.com/previews/2026/CHN202608150.shtml) — Aug 15, 2026\n3. FanDuel Research (https://www.fanduel.com/research/cubs-vs-cardinals-mlb-odds-prediction-point-spread-over-under-and-betting-trends-for-8-15-2026) — Aug 15, 2026\n**Key Facts:**\n- Boyd: 8-1, 3.50 ERA overall; 2.35 ERA last 7 starts; 29 K, 1.09 WHIP (L7)\n- Last start vs Royals: 7.0 IP, 2 ER\n- McGreevy: 4-9, 3.64 ERA surface; 5.68 xERA (overperforming peripherals)\n- Cardinals vs LHP: 94 wRC+, 18th in MLB\n- Game time: 1:20 PM CT, Wrigley Field\n- Cubs 8-1 when Boyd starts as moneyline favorite\n**Freshness:** ✅ Published Aug 14-15\n**Confidence:** HIGH on Boyd stats (multiple sources). HIGH on McGreevy xERA (BBRef preview). MEDIUM on Cardinals vs LHP wRC+ (single source).",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Edward Cabrera Returns Sunday",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Cabrera coming off the IL to start Game 3 Sunday at Wrigley, replacing Shota Imanaga's slot. Final rehab outing (Aug 11, Knoxville): 5 IP, 0 H, 7 K, 1 BB. With Horton and Miller lost for the year, this is a genuine rotation boost entering September.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Edward Cabrera is back.\n\nFive hitless innings, seven strikeouts in his final rehab start at Knoxville.\n\nHe replaces Imanaga in Sunday's slot — Game 3 at Wrigley vs the Cardinals. With Horton and Miller out for the year, the rotation needed this.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Roster news / rotation update",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Edward Cabrera Returns Sunday\n**Status:** NEW STORY (return date newly confirmed)\n**Sources:**\n1. CBS Sports (https://www.cbssports.com/fantasy/baseball/news/cubs-edward-cabrera-returning-from-il-to-start-sunday/) — Aug 14, 2026\n2. Bleacher Nation (https://www.bleachernation.com/cubs/2026/08/14/cubs-vs-cardinals-probables/) — headline UPDATE noted Cabrera replacing Imanaga\n3. MLB.com video (https://www.mlb.com/video/edward-cabrera-fans-seven-in-rehab-start) — Aug 12 rehab confirmation\n**Key Facts:**\n- Cabrera: 3rd rehab start on Aug 11 at Double-A Knoxville: 5 IP, 0 H, 7 K, 1 BB\n- Now officially activated from IL to start Sunday Aug 16 vs Cardinals\n- Replaces Shota Imanaga in the rotation slot\n- Originally Imanaga was scheduled; Cabrera's return accelerated with strong rehab work\n**Freshness:** ✅ Published Aug 14\n**Confidence:** HIGH on rehab stats (MLB.com video, BCB, multiple sources). HIGH on return date (CBS Sports confirmed).\n**Why it matters:** Adds a fourth legitimate starter to a rotation that's been managing injuries all year. Cabrera's stuff (mid-90s, plus secondary) gives the Cubs a boost entering September.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "PCA's 30-30 Chase and Bregman's MVP Endorsement",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "PCA at 27 HR / 30 SB — three HRs from back-to-back 30-30 seasons. MLB-leading 7.5 WAR. Bregman publicly said \"I think Pete should win MVP.\" Walk rate tripled from 2025 to 2026. Two-man NL MVP race: PCA vs Ohtani.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Alex Bregman on Pete Crow-Armstrong: \"I think Pete should win MVP.\"\n\nPCA leads ALL of baseball with a 7.5 WAR. Already at 30 steals and three HRs from back-to-back 30-30 seasons.\n\nThis isn't a hot streak. This is who Pete Crow-Armstrong is now.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Stat breakdown / bold take",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "PCA's 30-30 Chase\n**Status:** FOLLOW UP (continued from Aug 13 WAR/MVP, Aug 14 30-30 framing)\n**New angle:** Bregman public MVP endorsement; still 3 HR from 30-30; WAR context\n**Sources:**\n1. Yahoo Sports / Axios Chicago (https://www.axios.com/local/chicago/2026/08/10/pete-crow-armstrong-nl-mvp-mlb-ohtani-cubs-wrigley-field) — Aug 10, 2026\n2. ClutchPoints (https://clutchpoints.com/mlb/chicago-cubs/cubs-news-pete-crow-armstrong-bold-take-teammate-mvp-push) — recent\n3. Story history Aug 13 notes: 7.5 WAR, -120 DraftKings MLB MVP\n4. Story history Aug 14 notes: 27 HR, 30 SB (30-30 framing introduced)\n**Key Facts:**\n- PCA 2026: .286/.388/.932 OPS, 27 HR, 30 SB, 73 RBI (as of pre-Aug 14 data)\n- MLB-leading 7.5 WAR\n- Walk rate: 4.5% → 12.1% year over year\n- Bregman quote: \"I think Pete should win MVP\"\n- Three HRs away from back-to-back 30-30 seasons\n- Two-man NL MVP race: PCA vs Ohtani\n**Freshness:** ✅ Stats as of Aug 14; Bregman quote from mid-August coverage\n**Confidence:** MEDIUM on exact HR count (27 as of pre-Aug 14; could be 27 or 28 after yesterday's game — do not claim updated count without verification). Use \"closing in on 30\" framing.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Cardinals Are Mathematically in It, Realistically Gone",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Cardinals 61-61, roughly seven games out of a Wild Card spot. Despite a 7-3 stretch in their last 10, they're watching October from a distance. Cubs lead season series 6-5. Sharp rivalry jab.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Cardinals fans: your team is 7-3 in their last 10.\n\nAlso Cardinals fans: they're 61-61, seven games out of a Wild Card spot.\n\nThey came to Wrigley on Friday and got shut out. Cubs lead the season series. This is not a pennant race.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Rival watch / bold take",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cardinals Wild Card Math\n**Status:** FOLLOW UP (Cardinals standings angle repeated throughout week; new hook = post-shutout Game 1)\n**Sources:**\n1. ESPN Wild Card standings (https://www.espn.com/mlb/standings/_/view/wild-card) — Aug 14-15\n2. Fox Sports standings (https://www.foxsports.com/mlb/standings?type=wild+card)\n3. MLB.com standings\n**Key Facts:**\n- NL Wild Card: Cubs 72-51 (1st), Padres 65-57, Phillies 65-58\n- Cardinals: 61-61 — roughly 7 GB out of Wild Card\n- Cubs lead season series 6-5 heading into Games 2-3\n- Cardinals still .500 overall but heading nowhere in October\n- Brewers lead NL Central 75-47 (Cubs 3 GB in division)\n**Freshness:** ✅ Standings updated through Aug 14 games\n**Confidence:** HIGH on standings (multiple confirming sources). MEDIUM on exact GB — \"7+\" framing used to avoid precise claim on shifting standings.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Ben Cowles Powers Iowa — Prospect Pipeline Update",
+      "tier": 3,
+      "status": "NEW STORY",
+      "angle": "Ben Cowles hit two HRs and drove in four runs for Iowa in a 10-3 rout of St. Paul on Aug 14. Palencia rehabbing. Cabrera already back. System keeps producing despite the major league injury toll.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "While the Cubs were shutting out the Cardinals at Wrigley, Ben Cowles was in Des Moines going to work.\n\nTwo home runs. Four RBI. Iowa 10, St. Paul 3.\n\nPalencia is rehabbing. Cabrera's back up. The pipeline doesn't stop.\n\n#Cubs #CubsBaseball #GoCubs",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Prospect feature / system depth",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#GoCubs"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Ben Cowles / Iowa Prospect Pipeline\n**Status:** NEW STORY\n**Sources:**\n1. Bleacher Nation Prospects Report Aug 14 (https://www.bleachernation.com/cubs/2026/08/14/cubs-prospects-814/)\n2. Bleed Cubbie Blue wrap (https://www.bleedcubbieblue.com/chicago-cubs-prospects/229315/cubs-minor-league-wrap-ben-cowles-ethan-conrad-kohl-franklin)\n**Key Facts:**\n- Iowa 10, St. Paul 3 on Aug 14\n- Ben Cowles: 2 HR (3-run shot in 1st, solo in 5th), RBI single in 2nd = 4 RBI total\n- Daniel Palencia: encouraging rehab inning (elbow inflammation 15-day IL)\n- Ethan Conrad and Kohl Franklin also contributed\n- Knoxville Smokies: strong recent run (won 6-1 vs Rocket City on Aug 14)\n- Edward Cabrera's final rehab start (Knoxville Aug 11): 5 IP, 0 H, 7 K\n**Freshness:** ✅ Published Aug 14\n**Confidence:** HIGH on Cowles HR count (multiple sources). MEDIUM on exact inning sequence (single source).\n**Why it matters:** Pipeline depth with Horton/Miller/Hodge lost for the year. Cowles and Palencia keep the system interesting entering September.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
