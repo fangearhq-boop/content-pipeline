@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-08-15
+
+| Date | Tier | Story | Formats | Status |
+|------|------|-------|---------|--------|
+| 2026-08-15 | T1 | Verstappen Unveils "Timeless" Delftware Helmet for "Last Home Race" at Zandvoort | X, FB, Article | NEW |
+| 2026-08-15 | T1 | Dutch GP 6 Days — Farewell Sprint Debut, Ferrari Floor Upgrade, Factories Reopen Monday | X, FB, Article | FOLLOW UP |
+| 2026-08-15 | T2 | George Russell Gets Engaged — Oval Yellow Diamond, Antonelli and Sainz React | X, FB, Article | NEW |
+| 2026-08-15 | T2 | Antonelli 219 Points Into Second Half — Youngest Championship Leader in F1 History | X, FB, Article | FOLLOW UP |
+| 2026-08-15 | T2 | Ferrari ADUO-2 Monza Plan — 15hp Turbo Boost for Hamilton's Second-Half Title Push | X, FB, Article | NEW |
+
+### STORY 1: Verstappen "Timeless" Delftware Helmet
+- **Tier:** 1
+- **Category:** F1 Driver News / Max Verstappen / Dutch Grand Prix
+- **Key facts:** Helmet called "Timeless"; Delftware-inspired white/blue ceramics, intricate floral patterns; Red Bull/Oracle branding maintained; lion logo at top; unveiled Aug 14; Verstappen called Dutch GP his "last home race"; GPFans headline: "Is he retiring?"; quote: "I never have any extra motivation because that would be bad. Then it means I'm not motivated enough for the other ones"; plans to race Zandvoort privately after F1 leaves; 6th in championship 109 pts; multiple sources: Crash.net, Motorsport.com, RacingNews365, GPFans, News.GP (Aug 14)
+- **Status:** NEW
+- **Follow-up ideas:** Verstappen Dutch GP qualifying/race result; any retirement/contract announcement
+
+### STORY 2: Dutch GP 6 Days — Farewell + Sprint Debut + Ferrari Upgrade
+- **Tier:** 1
+- **Category:** F1 Race Preview / Dutch Grand Prix / Zandvoort
+- **Key facts:** Dutch GP Aug 21-23; final ever at Zandvoort (promoter not continuing); first-ever Sprint weekend at circuit; Sprint format FP1+SQ Fri / Sprint+GP Qual Sat / Race Sun 15:00 local; factories reopen Aug 17; Ferrari 3rd aero package (major floor upgrade) for Zandvoort's banked layout; Ferrari chassis advantage at circuit; ADUO-2 engine reserved for Monza
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Dutch GP Sprint result; qualifying; race result; Ferrari floor performance
+
+### STORY 3: George Russell Engagement
+- **Tier:** 2
+- **Category:** F1 Personal News / George Russell / Mercedes
+- **Key facts:** Engaged to Carmen Montero Mundt; announced Instagram ~Aug 9-10; proposed at candlelit dinner by the sea; ring: oval yellow diamond; together since 2020; Kimi Antonelli and Carlos Sainz reacted; sources: GPBlog, Motorsport Week, AthlonSports, HITC, JustJared
+- **Status:** NEW
+- **Follow-up ideas:** Social engagement stats; paddock wedding news
+
+### STORY 4: Antonelli 219pts Youngest Championship Leader
+- **Tier:** 2
+- **Category:** F1 Championship / Kimi Antonelli / Mercedes
+- **Key facts:** 219 pts entering second half; Hamilton 169; Russell 160; Verstappen 6th at 109 (110 behind); youngest championship leader in F1 history (19 yrs old, born Aug 25 2006); 291 pts remain, 11 rounds; quote: "I did not expect" to be leading; rest + karting during break; "busting my balls" quote; momentum expected to carry; youngest champion since Vettel 2010 still possible; sources: Yahoo Sports, RacingNews365, GPBlog, AthlonSports
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Dutch GP result; championship margin update; Vettel comparison milestone
+
+### STORY 5: Ferrari ADUO-2 Monza 15hp
+- **Tier:** 2
+- **Category:** F1 Technical / Ferrari / Lewis Hamilton / Power Unit
+- **Key facts:** ADUO-2 arrives at Monza (race after Dutch GP); ~15hp additional power; redesigned turbocharger; 0.2s/lap gain at Monza; ADUO-1 at Austria (~7hp) + ADUO-2 at Monza (~15hp) = ~30hp total gain vs season start; Ferrari reverting to older engine at Singapore; major floor upgrade at Zandvoort (aero only); Leclerc "open-minded" on 2026 cars (Aug 14 interview); Hamilton 50 pts behind Antonelli; sources: GPFans, ScuderiaFans, MotorBiscuit, Formula Live Pulse (Aug 14-15), Crash.net
+- **Status:** NEW
+- **Follow-up ideas:** ADUO-2 performance at Monza; Hamilton Monza result; championship impact
+
 ## 2026-08-14
 
 | Date | Tier | Story | Formats | Status |

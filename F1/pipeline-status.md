@@ -1,6 +1,18 @@
 # F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
+- **Date**: 2026-08-15
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss)
+- **PostPlanner exports:** f1fr-postplanner-2026-08-15.xlsx (7 posts) + f1fr-postplanner-tobi-2026-08-15.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-08-15/review-dashboard.html (22 items)
+- **Notes:** DUTCH GP 6 DAYS AWAY — Final Dutch GP ever at Zandvoort + first-ever Sprint weekend at circuit; factories reopen Aug 17; Verstappen "Timeless" Delftware helmet (white/blue ceramics) unveiled Aug 14, called Zandvoort his "last home race" triggering fan panic; Ferrari floor upgrade at Zandvoort (3rd aero package) + ADUO-2 engine reserved for Monza (~15hp, 0.2s/lap); Antonelli 219/Hamilton 169/Russell 160 — youngest championship leader in F1 history; George Russell engaged to Carmen Montero Mundt (oval yellow diamond)
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+### 2026-08-14
 - **Date**: 2026-08-14
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)

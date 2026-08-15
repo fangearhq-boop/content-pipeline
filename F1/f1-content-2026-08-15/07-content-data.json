@@ -1,0 +1,389 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-15",
+  "compiled_at": "2026-08-15T11:40:34.577230+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 (Verstappen helmet)",
+      "type": "X"
+    },
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 (Verstappen helmet)",
+      "type": "Facebook"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "Story 2 (Dutch GP countdown)",
+      "type": "X"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "Story 2 (Dutch GP countdown)",
+      "type": "Facebook"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 3 (Russell engagement)",
+      "type": "X"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 3 (Russell engagement)",
+      "type": "Facebook"
+    },
+    {
+      "time": "2:00 PM",
+      "description": "Story 2 (Dutch GP countdown)",
+      "type": "X"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 4 (Antonelli lead)",
+      "type": "X"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 4 (Antonelli lead)",
+      "type": "Facebook"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 5 (Ferrari ADUO-2)",
+      "type": "X"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 5 (Ferrari ADUO-2)",
+      "type": "Facebook"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Verstappen Unveils \"Timeless\" Delftware Helmet for \"Last Home Race\" at Zandvoort",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Max Verstappen just unveiled his Dutch GP helmet and fans are losing it.\n\nDelftware blue and white ceramics. Intricate floral patterns. He's calling Zandvoort his \"last home race.\"\n\nThe helmet looks like a goodbye. 🇳🇱\n\n#DutchGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#DutchGP",
+            "#F1"
+          ],
+          "char_count": 231
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Verstappen on his \"last home race\" helmet:\n\n\"I never have any extra motivation because that would be bad. Then it means I'm not motivated enough for the other ones.\"\n\nDeflecting — but the Delftware design says everything. 🏁\n\n#MaxVerstappen #DutchGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MaxVerstappen",
+            "#DutchGP",
+            "#F1"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-verstappen-delftware-helmet-zandvoort-farewell.html",
+        "headline": "Verstappen Unveils Delftware Helmet for 'Last Home Race' — and F1 Fans Panic",
+        "word_count": 674
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen Special Helmet\n**Facts verified (HIGH confidence):**\n- Verstappen unveiled Delftware-inspired helmet for 2026 Dutch GP [Crash.net, Motorsport.com, RacingNews365, Yahoo Sports, News.GP — multiple outlets]\n- Design: white and blue colorway inspired by traditional Dutch Delftware ceramics, intricate floral patterns, ornate blue detailing around lower edges [Motorsport.com, Yahoo Sports]\n- Red Bull / Oracle branding maintained at front; Verstappen's lion logo integrated into top [Motorsport.com]\n- Fan reaction: \"Is he retiring?\" panic circulating on social media [GPFans headline: \"'Is he retiring?' - Max Verstappen unveils special helmet for 'last home race' and F1 fans panic\"]\n- Verstappen called Dutch GP his \"last home race\" in the context of the helmet unveiling [GPBlog, News.GP]\n**Facts verified (MEDIUM confidence):**\n- Verstappen is 6th in championship with 109 points, 110 behind Antonelli (219) [search result from first query — \"Verstappen heads into his final home grand prix sitting sixth in the drivers' standings with 109 points, 110 points behind championship leader Kimi Antonelli\"]\n- Verstappen \"remains without a win at the halfway stage of F1 2026\" [same source]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Dutch GP 6 Days — Farewell Sprint Debut, Ferrari Floor Upgrade, Factories Reopen Monday",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "6 days until the final Dutch Grand Prix. Ever.\n\n• First Sprint weekend at Zandvoort\n• Ferrari bringing a major floor upgrade\n• Factories reopen Monday\n\nZandvoort's last F1 race is going to be unlike any before it. 🇳🇱🏁\n\n#DutchGP #F1 #Zandvoort",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#DutchGP",
+            "#F1",
+            "#Zandvoort"
+          ],
+          "char_count": 242
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Ferrari's floor upgrade at Zandvoort could flip the weekend.\n\nThey're expected to have a chassis advantage on the banked layout. Add a fresh aero package and the ADUO-2 engine at Monza next…\n\nThe second half of 2026 is getting interesting. 🔴\n\n#Ferrari #DutchGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Ferrari",
+            "#DutchGP",
+            "#F1"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-dutch-gp-countdown-sprint-debut-ferrari-upgrade.html",
+        "headline": "Six Days to Go: The Final Dutch Grand Prix Is Almost Here — and It's Unlike Any Before It",
+        "word_count": 631
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Dutch GP Weekend\n**Facts verified (HIGH confidence):**\n- Dutch GP: August 21-23, 2026, Circuit Zandvoort [F1.com, ESPN, Sky Sports]\n- Final Dutch GP ever — promoter confirmed not continuing beyond 2026 [ESPN, F1.com]\n- First-ever Sprint weekend at Circuit Zandvoort [Sky Sports: \"first time that the Dutch Grand Prix features it\"; F1.com]\n- Sprint format: FP1+Sprint Qualifying Friday / Sprint+GP Qualifying Saturday / Race Sunday 15:00 local [Sky Sports]\n- F1 summer shutdown ends (factories reopen) August 17 [from previous pipeline coverage, consistent with 2026 F1 regulations]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "George Russell Gets Engaged — Oval Yellow Diamond, Antonelli and Sainz React",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "George Russell is ENGAGED. 💍\n\nOval yellow diamond. Candlelit dinner by the sea. Carmen Montero Mundt said yes.\n\nAntonelli and Sainz have already congratulated them. The whole paddock is celebrating.\n\nCongrats, George! 🥂\n\n#GeorgeRussell #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GeorgeRussell",
+            "#F1"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-george-russell-engaged-carmen-montero-mundt.html",
+        "headline": "George Russell Is Engaged: Oval Yellow Diamond, a Candlelit Proposal, and the Whole Paddock Reacts",
+        "word_count": 473
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli Championship Math\n**Facts verified (HIGH confidence):**\n- Antonelli: 219 pts [multiple sources consistent]\n- Hamilton: 169 pts [multiple sources consistent]\n- Russell: 160 pts [from pipeline coverage — consistent with \"59 points behind Antonelli\"]\n- Verstappen: 109 pts, 6th [first search result]\n- 291 points remaining in 11 rounds [pipeline coverage consistent with 22-round calendar]\n- Antonelli is 19 years old (born Aug 25, 2006) [known fact]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Antonelli 219 Points Into Second Half — Youngest Championship Leader in F1 History",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Kimi Antonelli enters the second half of 2026 as the youngest championship leader in F1 history.\n\n219 pts. Hamilton 169. Russell 160. Verstappen 6th at 109.\n\nHe's 19 years old. \"I did not expect\" this — his words.\n\nThe coronation watch begins. 🏆\n\n#KimiAntonelli #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#KimiAntonelli",
+            "#F1"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-antonelli-219-youngest-championship-leader-f1-history.html",
+        "headline": "219 Points, 11 Rounds, One Teenager: Antonelli Enters Second Half as F1's Youngest-Ever Championship Leader",
+        "word_count": 568
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Hamilton / Ferrari 2027\n**Facts verified (HIGH confidence):**\n- Ferrari boss Fred Vasseur confirmed team intends to exercise option to extend Hamilton's contract for 2027 [Formula1.com contract article, ESPN]\n- Hamilton signed multi-year deal with Ferrari [widely reported]\n- Hamilton at 169 pts, 50 behind Antonelli, 291 remaining — mathematically in title fight [standings verified]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Ferrari ADUO-2 Monza Plan — 15hp Turbo Boost for Hamilton's Second-Half Title Push",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Ferrari's ADUO-2 engine upgrade arrives at Monza.\n\n~15hp extra power. Redesigned turbocharger. 0.2s/lap expected gain.\n\nCombined with ADUO-1 at Austria: ~30hp total gained this season.\n\nHamilton is 50 pts back. Monza might be his moment. 🔴\n\n#LewisHamilton #Ferrari #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LewisHamilton",
+            "#Ferrari",
+            "#F1"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-ferrari-aduo2-monza-15hp-hamilton-title-push.html",
+        "headline": "Ferrari's 15hp Secret Weapon: The ADUO-2 Engine Upgrade Coming to Monza for Hamilton's Title Push",
+        "word_count": 549
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Alonso Retirement\n**Facts verified (HIGH confidence):**\n- Alonso's contract expires end of 2026 [Motor Sport Magazine, PlanetF1, Sportskeeda — multiple consistent sources]\n- Has spoken about taking 2026 \"day by day\" regarding future [previous pipeline coverage — Motorsport.com]\n- Retirement hinges on car competitiveness: \"hard to retire if car not competitive\" [previous pipeline coverage]\n- Adrian Newey leading Aston Martin technical development for 2027 [previous pipeline coverage]\n**Facts verified (MEDIUM confidence):**\n- Alonso is 44 years old during the 2026 season (born July 29, 1981) [widely known, calculable from birthday]\n- Dutch GP one of his final 2026 races remaining [calendar math]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
