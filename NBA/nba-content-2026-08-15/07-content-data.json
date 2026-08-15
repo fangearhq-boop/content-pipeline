@@ -1,0 +1,308 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-15",
+  "compiled_at": "2026-08-15T11:24:00.321253+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 (KD/Westbrook)",
+      "type": "X"
+    },
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 (KD/Westbrook)",
+      "type": "Facebook"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 2 (Beal)",
+      "type": "X"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 2 (Beal)",
+      "type": "Facebook"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3 (Kawhi)",
+      "type": "X"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3 (Kawhi)",
+      "type": "Facebook"
+    },
+    {
+      "time": "4:00 PM",
+      "description": "Story 1 (KD/Westbrook)",
+      "type": "X"
+    },
+    {
+      "time": "7:00 PM",
+      "description": "Story 4 (Wemby)",
+      "type": "X"
+    },
+    {
+      "time": "7:00 PM",
+      "description": "Story 4 (Wemby)",
+      "type": "Facebook"
+    },
+    {
+      "time": "9:30 PM",
+      "description": "Story 5 (Curry)",
+      "type": "X"
+    },
+    {
+      "time": "9:30 PM",
+      "description": "Story 5 (Curry)",
+      "type": "Facebook"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Kevin Durant's Tribute to Russell Westbrook — KD Reconciliation + Jersey Retirement Push",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Kevin Durant's tribute to Russell Westbrook hit different.\n\nKD called the career \"iconic\" and said Russ was \"quiet and methodical.\"\n\nNow Jalen Williams is pushing for Opening Night jersey retirement. The No. 0 belongs in the OKC rafters. #OKCThunder",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#OKCThunder"
+          ],
+          "char_count": 249
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Jalen Williams said \"dare I say opening night\" when asked about retiring Westbrook's No. 0.\n\nThunder home opener: Oct. 22.\n\nIf OKC does it, Westbrook joins Nick Collison as just the second jersey retired in franchise history. The legacy is growing fast. #OKCThunder",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#OKCThunder"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-kevin-durant-westbrook-tribute-jersey-retirement.html",
+        "headline": "Kevin Durant's Tribute to Russell Westbrook Reframes a Complicated Legacy — and Now the Thunder Face a Question",
+        "word_count": 656
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Kevin Durant's Tribute to Russell Westbrook\n\n**Concept 1 — Social (1080x1350)**\n- **Type:** Social image\n- **Imagn search:** \"Russell Westbrook Oklahoma City Thunder\"\n- **Art direction:** Westbrook in OKC uniform, emotional celebration or intense game moment. Text overlay: \"QUIET AND METHODICAL\" (KD's words) in bold white. Subtext: \"KD on Westbrook's Legacy.\"\n- **Credit:** (USA TODAY Sports Images)\n\n**Concept 2 — Article Hero (1200x630)**\n- **Type:** Article hero\n- **Imagn search:** \"Kevin Durant Oklahoma City Thunder\"\n- **Art direction:** KD in OKC uniform — a moment that evokes the Thunder partnership era. Can be used without text overlay for article header.\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Kevin Durant Tribute to Russell Westbrook\n**Facts verified (HIGH confidence):**\n- KD posted tribute on social media Aug 13-14 calling career \"iconic\"; described Westbrook as \"quiet and methodical\" despite outward emotions on court; acknowledged complicated relationship directly [Bleacher Report, Heavy]\n- Retirement video produced with Academy Award-winning actor Michael B. Jordan [Revolt.tv]\n- Jalen Williams posted \"dare I say opening night...🤓\" in response to fan suggestion of immediate jersey retirement [Heavy, Thunderous Intentions]\n- Thunder home opener is October 22 [schedule released Aug 13]\n- Westbrook's No. 0 would be only the second jersey retired in OKC franchise history (joining Nick Collison) [SI]\n- Other tributes: Donovan Mitchell, Trae Young, Kendrick Perkins (recalled Scott Brooks quote about Westbrook giving team \"swag\") [FOX Sports]\n- Career totals: 209 triple-doubles all-time record, 18 seasons, nine-time All-Star, 2017 MVP [multiple sources]\n**Facts verified (MEDIUM confidence):**\n- KD tribute generated secondary reaction wave from CJ McCollum and other players [Bleacher Report, Heavy — consistent but secondary sourcing]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Bradley Beal Re-Signs with Clippers — 2yr/$13.2M",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Bradley Beal is back with the Clippers.\n\nTwo years, $13.2M, player option in Year 2. He played just 6 games last season before a hip injury.\n\nNow 33, Beal gets another chance in LA. The Clippers are betting that health returns. #LAClippers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LAClippers"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-bradley-beal-re-signs-clippers-health-bet.html",
+        "headline": "Bradley Beal Returns to the Clippers on 2yr/$13.2M — Now Health Has to Hold",
+        "word_count": 536
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Bradley Beal Re-Signs with Clippers\n\n**Concept 1 — Social (1080x1350)**\n- **Type:** Social image\n- **Imagn search:** \"Bradley Beal Los Angeles Clippers\"\n- **Art direction:** Beal in Clippers uniform. Text overlay: \"BEAL IS BACK\" in bold. Subtext: \"2 Years / $13.2M — The Health Bet.\"\n- **Credit:** (USA TODAY Sports Images)\n\n**Concept 2 — Article Hero (1200x630)**\n- **Type:** Article hero\n- **Imagn search:** \"Bradley Beal Los Angeles Clippers\"\n- **Art direction:** Action shot of Beal, landscape orientation for article header.\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Bradley Beal Re-Signs with Clippers\n**Facts verified (HIGH confidence):**\n- Two years, $13.2M, player option on Year 2, $3M guaranteed [NBC Sports, Yahoo Sports]\n- Beal, 33, had declined $5.6M player option [NBC Sports]\n- Explored Miami Heat interest before returning [Yahoo Sports]\n- Played only 6 games in 2025-26 before hip injury ended season [NBC Sports, Yahoo Sports]\n- Joins rotation with Darius Garland, Rui Hachimura, Bennedict Mathurin [NBC Sports]\n- Confirmed Aug. 14 [multiple outlets]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Kawhi Leonard — Six-Week Resolution Window Points to Sept. 22",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The Kawhi Leonard investigation has a target date: ~Sept. 22.\n\nThat's 6 weeks out and one week before Toronto's training camp in Quebec City.\n\nKey detail: the CBA doesn't allow player suspension for cap circumvention. The Clippers face sanctions. Kawhi goes to Toronto. #Raptors",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Raptors"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-kawhi-leonard-investigation-sept-22-resolution.html",
+        "headline": "The Kawhi Leonard Investigation Has a Target Date: September 22, Quebec City, and a Trade That's Almost Done",
+        "word_count": 556
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Kawhi Leonard Investigation\n\n**Concept 1 — Social (1080x1350)**\n- **Type:** Social image\n- **Imagin search:** \"Kawhi Leonard Los Angeles Clippers\"\n- **Art direction:** Kawhi in Clippers uniform. Text overlay: \"6 WEEKS\" in bold red. Subtext: \"The Investigation Has a Deadline.\"\n- **Credit:** (USA TODAY Sports Images)\n\n**Concept 2 — Article Hero (1200x630)**\n- **Type:** Article hero\n- **Imagn search:** \"Kawhi Leonard Toronto Raptors\"\n- **Art direction:** Kawhi in Raptors uniform — forward-looking, signals the trade destination.\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Kawhi Leonard Investigation\n**Facts verified (HIGH confidence):**\n- Wachtell, Lipton, Rosen & Katz completed fact-finding; NBA currently reviewing [HoopsHype, ESPN]\n- Investigation is 11 months old [HoopsHype]\n- Trade: Leonard to Toronto for Brandon Ingram, Gradey Dick, unprotected 2031+2033 first-round picks [multiple sources]\n- Kawhi owed $50.3M in 2026-27 [multiple sources]\n- Current CBA does not list player suspension as punishment for cap circumvention [SI/All Clippers]\n- Leonard personally is largely insulated; Clippers face sanctions [HoopsHype, ESPN]\n**Facts verified (MEDIUM confidence):**\n- Resolution expected within 6 weeks (~Sept. 22) per league circles [HoopsHype — single sourcing on internal belief]\n- Leonard expects trade to Toronto to be completed [RealGM]\n- Quebec City training camp Sept. 28-29 window [HoopsHype]\n**Tension to flag:** ESPN and HoopsHype both have July 29 reporting that investigation could extend into 2027 if complications arise. The 6-week estimate is league circles, not the NBA office.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Wembanyama 5 Days from Belgrade — France FIBA Roster Locks In",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Five days. Wembanyama returns to FIBA in Belgrade on Aug. 20.\n\nHis first appearance for France since the 2024 Paris Olympics silver medal.\n\nFrance brings Rudy Gobert and Evan Fournier. Under new coach Fauthoux. France is 5-1 in Group L. The Alien is back. #SpursNation",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SpursNation"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-wembanyama-france-fiba-belgrade-five-days.html",
+        "headline": "Five Days: Wembanyama Returns to FIBA in Belgrade as France Locks In Its Roster",
+        "word_count": 568
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Wembanyama / France FIBA\n\n**Concept 1 — Social (1080x1350)**\n- **Type:** Social image\n- **Imagn search:** \"Victor Wembanyama San Antonio Spurs\"\n- **Art direction:** Wemby in Spurs uniform, dynamic action moment. Text overlay: \"5 DAYS\" in bold. Subtext: \"Wemby Returns to FIBA — Aug. 20, Belgrade.\"\n- **Credit:** (USA TODAY Sports Images)\n\n**Concept 2 — Article Hero (1200x630)**\n- **Type:** Article hero\n- **Imagn search:** \"Victor Wembanyama San Antonio Spurs\"\n- **Art direction:** Wemby portrait or game action, landscape orientation.\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Wembanyama / France FIBA\n**Facts verified (HIGH confidence):**\n- France 15-player FIBA roster: Victor Wembanyama, Rudy Gobert, Evan Fournier confirmed [FIBA official, Eurohoops]\n- Schedule: Aug. 20 exhibition vs. Serbia (Belgrade), Aug. 23 exhibition (Orleans), Aug. 27 qualifier vs. Slovenia (home), Aug. 30 qualifier in Sweden [FIBA official]\n- France atop Group L at 5-1 entering second round [Eurohoops]\n- First FIBA appearance for Wemby since 2024 Paris Olympics silver medal; skipped EuroBasket 2025 [France 24, Eurohoops]\n- New French national team coach: Frederic Fauthoux [Eurohoops]\n- Wemby is 22 years old, NBA All-Star, Defensive Player of the Year [multiple sources]\n- Quote: \"I don't miss the NBA at the moment, but I do miss FIBA.\" [Eurohoops, France 24]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Stephen Curry Extension Countdown — 14 Days to Aug. 29 Window",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Stephen Curry's extension window opens in 14 days — Aug. 29.\n\nTwo years, $136.7M. Golden State's answer: whatever Steph wants.\n\nBrian Windhorst says don't rush — $65-70M/yr limits flexibility. Curry says he's staying either way. The countdown is on. #Warriors",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Warriors"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-stephen-curry-extension-countdown-14-days.html",
+        "headline": "Fourteen Days: Stephen Curry's Extension Window Opens Aug. 29 — What the Warriors Do Next",
+        "word_count": 561
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Stephen Curry Extension\n\n**Concept 1 — Social (1080x1350)**\n- **Type:** Social image\n- **Imagn search:** \"Stephen Curry Golden State Warriors\"\n- **Art direction:** Curry in Warriors uniform, celebration or shooting moment. Text overlay: \"14 DAYS\" in bold gold. Subtext: \"$136.7M Extension Window — Aug. 29.\"\n- **Credit:** (USA TODAY Sports Images)\n\n**Concept 2 — Article Hero (1200x630)**\n- **Type:** Article hero\n- **Imagn search:** \"Stephen Curry Golden State Warriors\"\n- **Art direction:** Curry action shot, landscape orientation for article header.\n- **Credit:** (USA TODAY Sports Images)"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Stephen Curry Extension\n**Facts verified (HIGH confidence):**\n- Window opens Aug. 29 — 14 days away [confirmed across multiple sources]\n- Extension value: 2 years, $136.7M [Yahoo Sports, Bleacher Report]\n- Curry is 38 years old, in final year of current deal [Yahoo Sports]\n- Mutual interest confirmed by ESPN's Anthony Slater [Bleacher Report]\n- Warriors posture: full offer, whatever Curry decides [Bleacher Report, Yahoo Sports]\n- GM Mike Dunleavy Jr. aligned with Curry's wishes [Yahoo Sports]\n- Brian Windhorst argued Warriors should NOT rush signing — $65-70M/yr limits flexibility [NBC Sports Bay Area, Yahoo Sports]\n- Draymond Green back on 1yr/$27.7M [multiple sources]\n**Facts verified (MEDIUM confidence):**\n- Curry expected to sign per multiple reports [Bleacher Report, Yahoo Sports — not confirmed by Curry directly]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

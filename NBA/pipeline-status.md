@@ -1,6 +1,18 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Last Run
+- **Date**: 2026-08-15
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce)
+- **PostPlanner exports:** hh-postplanner-2026-08-15.xlsx (6 posts) + hh-postplanner-tobi-2026-08-15.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-08-15/review-dashboard.html (21 items)
+- **Notes:** KD TRIBUTE/WESTBROOK LEGACY — KD called career "iconic," Westbrook "quiet and methodical"; Jalen Williams pushing Opening Night jersey retirement (Oct. 22 home opener); Westbrook would join Nick Collison as 2nd OKC jersey retired; BEAL RE-SIGNS CLIPPERS — 2yr/$13.2M confirmed Aug 14, explored Heat interest, 6 games played in 2025-26 (hip injury), age 33; KAWHI CLOCK — ~Sept. 22 target resolution (6 weeks); Toronto camp Quebec City Sept. 28-29; CBA doesn't allow player suspension; WEMBY BELGRADE — 5 days to Aug. 20 vs Serbia, Gobert+Fournier+Fauthoux, France 5-1 Group L; CURRY WINDOW — 14 days to Aug. 29, $136.7M, Windhorst dissent (flexibility)
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+### 2026-08-14
 - **Date**: 2026-08-14
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)

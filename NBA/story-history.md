@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-08-15
+
+| Date | Tier | Story | Formats | Status |
+|------|------|-------|---------|--------|
+| 2026-08-15 | T1 | Kevin Durant Tribute to Russell Westbrook — KD Reconciliation + Jersey Retirement Push | X, FB, Article | FOLLOW UP |
+| 2026-08-15 | T1 | Bradley Beal Re-Signs with Clippers — 2yr/$13.2M, Health Is the Story | X, FB, Article | NEW |
+| 2026-08-15 | T2 | Kawhi Leonard — Six-Week Resolution Window Points to Sept. 22 | X, FB, Article | FOLLOW UP |
+| 2026-08-15 | T2 | Wembanyama 5 Days from Belgrade — France FIBA Roster Locks In | X, FB, Article | FOLLOW UP |
+| 2026-08-15 | T2 | Stephen Curry Extension Countdown — 14 Days to Aug. 29 Window | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Kevin Durant's Tribute to Russell Westbrook — KD Reconciliation + Jersey Retirement Push
+- **Tier:** 1
+- **Category:** NBA Offseason / Oklahoma City Thunder / Russell Westbrook
+- **Key facts:** KD posted tribute calling career "iconic," described Westbrook as "quiet and methodical" (reframing years of perceived tension); Michael B. Jordan retirement video; Jalen Williams pushed "dare I say opening night" for No. 0 jersey retirement; Thunder home opener Oct. 22; Westbrook would join Nick Collison as only 2nd jersey retired in OKC franchise history; 209 triple-doubles, 18 seasons, nine-time All-Star, 2017 MVP
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official OKC jersey retirement announcement; Westbrook Hall of Fame induction timeline
+
+### STORY 2: Bradley Beal Re-Signs with Clippers — 2yr/$13.2M
+- **Tier:** 1
+- **Category:** NBA Transactions / Los Angeles Clippers / Bradley Beal
+- **Key facts:** Two years, $13.2M, player option Year 2, $3M guaranteed; declined $5.6M player option; explored Heat interest; played 6 games in 2025-26 before hip injury; age 33; joins Darius Garland, Rui Hachimura, Bennedict Mathurin; confirmed Aug. 14
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Beal health at training camp; Clippers preseason performance
+
+### STORY 3: Kawhi Leonard Investigation — Six-Week Resolution Window
+- **Tier:** 2
+- **Category:** NBA Investigation / Los Angeles Clippers / Toronto Raptors / Kawhi Leonard
+- **Key facts:** Target resolution ~Sept. 22; 6 days before Toronto Media Day; 1 week before Quebec City camp; Wachtell Lipton fact-finding complete; NBA reviewing; CBA does not allow player suspension for cap circumvention; Clippers face sanctions, Kawhi largely insulated; Leonard expects Raptors trade to complete; counterpoint: could extend to 2027 per ESPN/HoopsHype July 29
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Resolution announcement; Raptors trade completion; Kawhi at Quebec City camp
+
+### STORY 4: Wembanyama France FIBA — 5 Days to Belgrade
+- **Tier:** 2
+- **Category:** NBA Offseason / San Antonio Spurs / Victor Wembanyama / France FIBA
+- **Key facts:** Aug. 20 exhibition vs. Serbia in Belgrade; Aug. 23 Orleans; Aug. 27 qualifier vs. Slovenia (home); Aug. 30 qualifier in Sweden; full roster: Wemby + Gobert + Fournier; new coach Frederic Fauthoux; France 5-1 in Group L; first FIBA appearance since 2024 Paris Olympics silver medal (skipped EuroBasket 2025); Wemby quote: "I don't miss the NBA at the moment, but I do miss FIBA basketball"
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Belgrade game result (Aug 20); Orleans result (Aug 23); qualifier results
+
+### STORY 5: Stephen Curry Extension Countdown — 14 Days
+- **Tier:** 2
+- **Category:** NBA Contracts / Golden State Warriors / Stephen Curry
+- **Key facts:** Window opens Aug. 29 (14 days); 2yr/$136.7M max; Warriors posture: full offer, whatever Curry wants; GM Dunleavy aligned; Windhorst dissent: Warriors should NOT rush, $65-70M/yr limits flexibility; Curry says staying regardless; Draymond back 1yr/$27.7M
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Extension signing announcement; Warriors training camp roster
+
 ## 2026-08-14
 
 | Date | Tier | Story | Formats | Status |
