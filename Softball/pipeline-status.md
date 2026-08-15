@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-08-15
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch + research agents, 5 stories verified HIGH/MEDIUM confidence), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations — all ≤280), FB posts (5 stories), image concepts (9 items; ### STORY headers), image manifest (9 items, not_started), articles (5), fact-check (48 claims; verify-facts.py ran), compile (5 stories, 6 tweets, 0 FB posts — format known, 5 articles, 9 images), dashboard (21 items), PostPlanner exports (0 posts — format known). WordPress 403 (proxy blocks ilovesoftball.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks ilovesoftball.com — known). Dashboard publish push failed (proxy known restriction). IMAGE NOT STARTED (manifest recognized but images not yet produced in Canva). PostPlanner: 0 posts compiled (format known). 0 char violations.
+- **Key Stories**: AUSL All-Star Cup Series 3 four-team format/9 days to Aug 24 opener/Kowalik leads individual race/rookie Lemley+Otis momentum (Tier 1 FOLLOW UP), September 1 = 17 days/Class of 2028 first-contact window/record 1226 nominations (Tier 2 FOLLOW UP), Texas Longhorns 2027 coaching staff/Fremin as AHC (10yr HC at SLU)/Freeman as hitting coach/Kavan senior season (Tier 2 FOLLOW UP), USA WNT World Cup 28 days/group opponents Netherlands+Mexico+China+Brazil+New Zealand/top 2 to Brisbane (Tier 3 FOLLOW UP), Oklahoma leads all schools 4 players on World Cup roster/Brito+Coleman+Jennings+Maxwell/25pct of team/Gasso pipeline (Tier 3 NEW)
+
+## Last Run
 - **Date**: 2026-08-14
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch + research agents, 5 stories verified HIGH/MEDIUM confidence; KEY CORRECTION: NiJaree Canady turned professional — drafted No. 2 overall by Texas Volts in May 2026 AUSL draft; prior pipeline Aug 3-13 incorrectly stated she was entering senior year at Texas Tech; all Story 5 content updated to reflect pro status), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations — all ≤280), FB posts (5 stories), image concepts (9 items; ### STORY headers), image manifest (9 items, not_started), articles (5), fact-check (54 claims; verify-facts.py ran), compile (5 stories, 7 tweets, 0 FB posts — format known, 5 articles, 9 images), dashboard (22 items), PostPlanner exports (0 posts — format known). WordPress credentials not configured (skipped; expected). Dashboard push failed (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).

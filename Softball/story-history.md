@@ -3,6 +3,64 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-08-15
+
+### Story 1: AUSL All-Star Cup Series 3 — Expanded to 4 Teams, 9 Days to Aug. 24 Opener
+- **Date:** 2026-08-15
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Aug 14 covered Series 3 captains being set; today = expanded 4-team format angle, 9 days out)
+- **Angle:** Series 3 is the first four-team series of the 2026 All-Star Cup (Series 1 and 2 had 3 teams each). Captains: Kowalik (leads individual race), Ricketts, Coffey, Netz. Aug 24 doubleheader: Team Coffey vs Team Ricketts (3PM ET), Team Netz vs Team Kowalik. Rookie movers from Series 2: Lemley up 26 spots, Otis up 22 to No. 10. Sami Williams (Series 1 MVP) remains in contention.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Draft results when rosters are set
+  - Series 3 games Aug 24+
+  - Individual race standings after Series 3
+
+### Story 2: September 1 — 17 Days to D1 First Contact for Class of 2028
+- **Date:** 2026-08-15
+- **Tier:** 2
+- **Classification:** FOLLOW UP (daily countdown, was 18 days Aug 14)
+- **Angle:** 17 days. Record 1,226 EIS nominations. Extra Elite 100 published. Final quiet stretch before D1 coaches can call Class of 2028 directly.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Continue daily countdown (16 days Aug 16)
+  - September 1 arrival coverage
+  - Early commitment wave post-Sept 1
+
+### Story 3: Texas Longhorns 2027 — New Coaching Staff Hired for Three-Peat Chase
+- **Date:** 2026-08-15
+- **Tier:** 2
+- **Classification:** FOLLOW UP (general three-peat coverage Aug 13-14; today = specific staff additions)
+- **Angle:** Rick Fremin hired as AHC (10 seasons HC at SE Louisiana, 2016-2026). Amber Freeman as hitting coach from Arizona (Wildcats 85-31 in her two seasons). Pattie Ruth Taylor returns as pitching coach. Kavan entering senior year as first back-to-back WCWS MOP in history. Texas 49-12 in 2026, beat TTU in WCWS final both years. Only UCLA (1988-1990) and OU (2021-2023) have won 3 consecutive titles.
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Preseason rankings (fall)
+  - Kavan preseason honors
+  - Transfer adds confirmed roster
+
+### Story 4: USA WNT — 28 Days to WBSC World Cup Group Stage, Group Preview
+- **Date:** 2026-08-15
+- **Tier:** 3
+- **Classification:** FOLLOW UP (29-day milestone Aug 14; today = 28 days with group opponent detail)
+- **Angle:** Sept 12-16 Devon Park OKC = 28 days. Group: Netherlands (No. 6), Mexico (No. 7), China (No. 8), Brazil, New Zealand (No. 23). Top 2 to Brisbane April 5-11, 2027. OU leads all schools with 4 players on 16-athlete roster. Wells + Shumaker international debuts.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Continue countdown
+  - Group stage match schedule details
+  - Opening match previews vs Netherlands/Mexico/China
+
+### Story 5: Oklahoma Softball Pipeline — 4 Sooners on USA World Cup Roster
+- **Date:** 2026-08-15
+- **Tier:** 3
+- **Classification:** NEW (first explicit OU pipeline story in this cycle)
+- **Angle:** OU leads all schools with 4 players on 16-athlete WC roster: Brito, Coleman, Jennings, Maxwell. UCLA next with 3; Kentucky + Tennessee each at 2. 25% of team from one program. Patty Gasso's pipeline unmatched even after Pickering transfer to TTU.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - World Cup group stage results Sept 12-16
+  - OU 2027 roster construction post-portal
+
+---
+
 ## 2026-08-14
 
 ### Story 1: AUSL All-Star Cup Series 3 — Captains Set, Kowalik Leads Individual Race Into Aug. 24 Opener
