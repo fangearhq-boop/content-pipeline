@@ -3,6 +3,65 @@
 This file tracks all stories covered by the MLB content pipeline.
 Each day's stories are appended at the top (newest first).
 
+## 2026-08-15
+
+### Story 1: White Sox 9, Tigers 5 — AL Central Lead Grows to 3.5 Games (Series Game 1)
+- **Date:** 2026-08-15
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Aug 14 was series preview; today = Game 1 recap)
+- **Angle:** White Sox dominated Tigers 9-5 at Comerica. Vargas 2 HRs, Murakami solo, Peters solo — 4 HRs for Chicago. AL Central lead 2.5 → 3.5 games. Detroit had framed series as must-win; Game 1 answered that framing decisively. White Sox now 63-58, Tigers 60-62.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Game 2 result (Aug 15, Comerica)
+  - Game 3 result (Aug 16, Comerica)
+  - White Sox lead trajectory through August
+
+### Story 2: Matt Olson 7 HRs in Last 11 Games — HR Race Now Schwarber vs. Olson
+- **Date:** 2026-08-15
+- **Tier:** 2
+- **Classification:** FOLLOW UP (HR race ongoing; today = Olson surge as new angle, Alvarez fading)
+- **Angle:** 7 HRs in 11 games is hottest power stretch in baseball. Olson at 35, Schwarber at 37 and leading. Alvarez and Caminero at 35 but stalling. Historical context: four-way tie at 35 on Aug 11 was first since 1982. Olson's 423-foot blast Aug 11. Consecutive games at ~903 (since May 2, 2021).
+- **Content Produced:** 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Olson HR No. 36 (ties Schwarber) — top story when it happens
+  - Daily HR race tracking
+  - Olson consecutive games milestones
+
+### Story 3: Misiorowski Loses to Dodgers 3-1 — Now 11-6, Cy Young Case Intact
+- **Date:** 2026-08-15
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Aug 14 was breakthrough deep-dive NEW story; today = Dodger loss follow-up)
+- **Angle:** Dodgers 3-1 on Aug 14 at Dodger Stadium. Misiorowski falls to 11-6. Season stats entering: 1.76 ERA, 204 K, 133.2 IP, 0.73 WHIP. 2nd-fastest to 200 Ks in MLB history (behind Strider 2022). NL Cy Young odds -550. Single loss doesn't move the needle on ballot.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Misiorowski next start
+  - Cy Young voting as season winds down
+  - Final season ERA/K totals
+
+### Story 4: Cubs 3, Cardinals 0 — NL Wild Card Lead at 6 Games
+- **Date:** 2026-08-15
+- **Tier:** 2
+- **Classification:** FOLLOW UP (ongoing Cubs Wild Card race coverage)
+- **Angle:** Cubs 71-51. Blanked Cardinals 3-0 at Wrigley on Aug 14. Lead Padres (65-57) by 6 games; Phillies (65-58) by 6.5 games. ~40 games left. Two 10-game win streaks in 2026. Magic number dropping.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Magic number clinch tracking
+  - Home-field seeding implications
+  - NL Wild Card series matchup scenarios
+
+### Story 5: Yordan Alvarez — 0 HRs in August, HR Race Moving Without Him
+- **Date:** 2026-08-15
+- **Tier:** 3
+- **Classification:** NEW (first explicit Alvarez power drought story; separate angle from HR race coverage)
+- **Angle:** Alvarez 0 HRs since July 28 despite .297 BA in August. At 35 HRs, 2 behind Schwarber. Olson surging from same spot. NBC Sports "Race to 40" tracker shows Alvarez as longest odds among leaders. No confirmed injury/mechanical explanation.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Alvarez first August HR — will be big news
+  - Alvarez HR No. 40 when/if reached
+  - End-season total vs. Schwarber/Olson
+
+---
+
 ---
 
 ## 2026-08-14

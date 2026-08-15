@@ -1,0 +1,266 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-15",
+  "compiled_at": "2026-08-15T10:32:43.207388+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "White Sox 9, Tigers 5 — AL Central Lead Grows to 3.5 Games in Series Opener",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The White Sox just answered Detroit's must-win framing with a 9-5 win in Game 1. Vargas hit two. Murakami and Peters went deep. Four Chicago home runs at Comerica. AL Central lead: 3.5 games. #WhiteSox #Tigers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox",
+            "#Tigers"
+          ],
+          "char_count": 209
+        },
+        {
+          "label": "Post 1-2",
+          "text": "One year ago the White Sox were 41-121. Now they're 63-58, lead the AL Central by 3.5 games, and just crushed Detroit in a series opener Detroit called a must-win. The rebuild is real. #WhiteSox",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox"
+          ],
+          "char_count": 194
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-white-sox-9-tigers-5-al-central-lead-grows.html",
+        "headline": "White Sox 9, Tigers 5 — Chicago Blows Open AL Central Lead to 3.5 Games in Series Opener",
+        "word_count": 456
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Matt Olson Is the Hottest HR Hitter in Baseball — 7 HRs in His Last 11 Games",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Matt Olson has hit 7 home runs in his last 11 games — the hottest power stretch in baseball right now. He's at 35 HRs. Schwarber leads at 37. Alvarez hasn't gone deep since July 28. This HR race is Schwarber vs. Olson. #Braves",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Braves"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-matt-olson-surge-seven-hrs-eleven-games-hr-race.html",
+        "headline": "Matt Olson Has Hit 7 Home Runs in 11 Games — The HR Race Has a New Threat",
+        "word_count": 477
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Misiorowski Takes the Loss to the Dodgers (3-1) — His Cy Young Case Doesn't Blink",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Jacob Misiorowski lost 3-1 to the Dodgers last night. He's now 11-6. His ERA is 1.76. His WHIP is 0.73. He has 204 strikeouts — 2nd-fastest to 200 Ks in MLB history. He still owns the NL Cy Young at -550 odds. #Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers"
+          ],
+          "char_count": 218
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-misiorowski-dodgers-loss-cy-young-case-intact.html",
+        "headline": "Misiorowski Lost to the Dodgers 3-1. His Cy Young Case Didn't Move an Inch.",
+        "word_count": 479
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Cubs Blank Cardinals 3-0 — NL Wild Card Lead Now 6 Games With 40 to Play",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Cubs blanked the Cardinals 3-0 last night. They're 71-51. They lead the NL Wild Card by 6 games over the Padres. About 40 games left. This thing is almost over. #Cubs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 166
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-cubs-3-cardinals-0-nl-wild-card-six-games.html",
+        "headline": "Cubs Blank the Cardinals 3-0 — NL Wild Card Lead Is Now 6 Games With 40 to Play",
+        "word_count": 457
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Yordan Alvarez Is 0 HRs in August — The HR Race Is Leaving Him Behind",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Yordan Alvarez is batting .297 in August. He also hasn't hit a single home run since July 28. He entered August tied for the MLB HR lead at 35. He's now watching Olson surge and the race run away from him. #Astros",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Astros"
+          ],
+          "char_count": 213
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-yordan-alvarez-zero-home-runs-august-hr-race.html",
+        "headline": "Yordan Alvarez Has Hit Zero Home Runs in August — The HR Race May Be Leaving Him Behind",
+        "word_count": 501
+      },
+      "image_concepts": [
+        {
+          "label": "Image 6",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 6
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

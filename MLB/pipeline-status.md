@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-08-15
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch + research agents, 5 stories verified HIGH/MEDIUM confidence), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations — all ≤280), FB posts (5 stories), image concepts (6 items; imagn source), image manifest (6 items, not_started), articles (5), fact-check (37 claims; verify-facts.py ran; claim-patterns.py missing known), compile (5 stories, 6 tweets, 0 FB posts — format known, 5 articles, 6 images), dashboard (21 items), PostPlanner exports (0 posts — format known). WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard publish push failed (proxy known restriction). IMAGE NOT STARTED (manifest recognized but images not yet produced in Canva). claim-patterns.py missing (known). PostPlanner: 0 posts compiled (format known). 0 char violations.
+- **Key Stories**: White Sox 9 Tigers 5/Vargas 2 HRs/Murakami+Peters solo/4 HRs total/AL Central lead 2.5→3.5 games (Tier 1 FOLLOW UP), Matt Olson 7 HRs in last 11 games/hottest power in baseball/35 HRs closing on Schwarber 37/historic 4-way tie at 35 was first since 1982 Aug 11 (Tier 2 FOLLOW UP), Misiorowski takes loss to Dodgers 3-1/now 11-6/1.76 ERA+204K+0.73 WHIP leads all MLB/Cy Young case intact/-550 odds (Tier 2 FOLLOW UP), Cubs 3 Cardinals 0/71-51/NL Wild Card lead 6 games over Padres/6.5 over Phillies/40 games left (Tier 2 FOLLOW UP), Yordan Alvarez 0 HRs in August/last HR July 28/.297 BA but no power/race moving without him (Tier 3 NEW)
+
+## Last Run
 - **Date**: 2026-08-14
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch + research agents, 5 stories verified HIGH confidence), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations — all ≤280), FB posts (5 stories), image concepts (8 items; imagn source), image manifest (9 items, not_started), articles (5), fact-check (24 claims; claim-patterns.py missing known), compile (5 stories, 7 tweets, 0 FB posts — format known, 5 articles, 8 images), dashboard (22 items), PostPlanner exports (0 posts — format known). WordPress credentials not configured (skipped; expected). Dashboard push failed (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
