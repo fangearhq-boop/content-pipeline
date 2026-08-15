@@ -1,0 +1,374 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-15",
+  "compiled_at": "2026-08-15T11:54:22.958196+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 (Scheffler 61 / R3 preview)",
+      "type": "X"
+    },
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 (Scheffler 61 / R3 preview)",
+      "type": "Facebook"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2 (Spieth bogey-free 65)",
+      "type": "X"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2 (Spieth bogey-free 65)",
+      "type": "Facebook"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 1 (Scheffler R3 underway)",
+      "type": "X"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3 (McIlroy nightmare)",
+      "type": "Facebook"
+    },
+    {
+      "time": "3:30 PM",
+      "description": "Story 3 (McIlroy)",
+      "type": "X"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 4 (LPGA Portland R2)",
+      "type": "X"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 4 (LPGA Portland R2)",
+      "type": "Facebook"
+    },
+    {
+      "time": "8:30 PM",
+      "description": "Story 5 (BMW bubble)",
+      "type": "X"
+    },
+    {
+      "time": "8:30 PM",
+      "description": "Story 5 (BMW bubble)",
+      "type": "Facebook"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Scheffler's Course-Record 61 Gives Him 3-Shot Lead at FedEx St. Jude Heading Into R3",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Scottie Scheffler ties the TPC Southwind course record with a 9-under 61.\n\n6 birdies in his first 7 holes. 54 feet of birdie putts drained.\n\nHe leads the FedEx St. Jude Championship at 11-under. 3 shots clear heading into Round 3. 🔥\n\n#FedExStJude #PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#FedExStJude",
+            "#PGATour"
+          ],
+          "char_count": 255
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Round 3 is LIVE at the FedEx St. Jude Championship. 🏌️\n\nScheffler (11-under, leading by 3) tees off at 1:45 PM ET alongside Sungjae Im.\n\nWatch on Golf Channel 1-3 PM, then CBS 3-6 PM.\n\n#FedExStJude #PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#FedExStJude",
+            "#PGATour"
+          ],
+          "char_count": 206
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-scheffler-course-record-61-fedex-st-jude-r3-lead.html",
+        "headline": "Scheffler Ties Course Record With 61 — Leads FedEx St. Jude by 3 Heading Into Saturday",
+        "word_count": 514
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Scheffler Course-Record 61 / R3 Lead\n**Facts verified (HIGH confidence):**\n- Scottie Scheffler fired 9-under 61 in R2 of FedEx St. Jude Championship, tying TPC Southwind course record [Golf Channel, CBS Sports, Heavy.com, Central Oregon Daily — multiple outlets]\n- Scheffler leads at 11-under par after R2 [multiple sources consistent]\n- Lead of 3 shots over Sungjae Im and Viktor Hovland [multiple sources consistent]\n- Scheffler birdied first 5 holes in R2 [Golf Channel]\n- Scheffler birdied 6 of first 7 holes [CBS Sports]\n- Scheffler drained 54 feet of birdie putts in R2 [CBS Sports]\n- R2 was \"the best round of the week by three shots\" [CBS Sports]\n- R3 tee time: Scheffler and Im at 1:45 PM ET Saturday [Yahoo Sports, golf.com]\n- TV broadcast: Golf Channel 1-3 PM, CBS 3-6 PM ET Saturday [Golf Channel announcement]\n- Tournament: Aug 13-16 at TPC Southwind, Memphis, $20M purse [F1.com, ESPN]\n**Facts verified (MEDIUM confidence):**\n- Par at TPC Southwind: 70 [inferred from score context]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Spieth's Bogey-Free 65 Gives BMW Championship Hope — 54th to Projected Top 50",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Jordan Spieth entered the FedEx playoffs 54th in FedExCup — outside the top 50 BMW cutoff.\n\nThen he went bogey-free. 65. R1 co-leader.\n\n14th straight playoff year. Zero top-10s in the regular season. Still Spieth.\n\n\"In a very different place.\" 🙌\n\n#JordanSpieth #FedExStJude",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#JordanSpieth",
+            "#FedExStJude"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-spieth-bogey-free-65-bmw-championship-hopes.html",
+        "headline": "Spieth Opens Bogey-Free 65 to Share St. Jude Lead — and Put BMW Hopes Back Alive",
+        "word_count": 506
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Spieth Bogey-Free 65 / FedEx Bubble\n**Facts verified (HIGH confidence):**\n- Spieth shot bogey-free 5-under 65 in R1 [PGA Tour, ESPN, AthlonSports — multiple]\n- Spieth shared R1 lead in 5-way tie [multiple: ESPN, AthlonSports, Detroit News, Yahoo Sports]\n- Five-way tie: Spieth, Michael Thorbjornsen, Kurt Kitayama, Michael Kim, Jake Knapp [Detroit News]\n- Spieth entered at 54th in FedExCup standings [PGA Tour, Yahoo Sports, multiple]\n- Top 50 advance to BMW Championship (not top 70 — St. Jude has 70 players) [PGA Tour]\n- Spieth projected to move inside top 50 after R1 [multiple sources]\n- Max Homa entered at 52nd FedExCup standings [golf.com / previous pipeline coverage — consistent]\n- 14th consecutive year in FedEx Cup Playoffs [Washington Times — Aug 11 article]\n- No top-10 finish in 2026 regular season [PGA Tour, Washington Times]\n- Spieth quote: \"In a very different place\" [golf.com / Yahoo Sports]\n- Scheffler and Rory McIlroy headlined the field entering [Golf Channel preview]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "McIlroy's Memphis Nightmare — Opened 4-Over, Near Bottom of Field, Fighting to Survive",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Rory McIlroy returned to Memphis in 2026 after skipping the 2025 St. Jude.\n\nRound 1 result: 4-over par. 68th of 69 players.\n\nThe world No. 2 is near the bottom of the field and fighting to survive.\n\n#RoryMcIlroy #FedExStJude #PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RoryMcIlroy",
+            "#FedExStJude",
+            "#PGATour"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-mcilroy-memphis-nightmare-fedex-st-jude.html",
+        "headline": "McIlroy Returns to Memphis — Opens 4-Over and Sits 68th of 69 in Playoff Opener",
+        "word_count": 514
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "McIlroy Memphis Nightmare\n**Facts verified (HIGH confidence):**\n- McIlroy shot 4-over par in R1 [Sky Sports headline: \"FedExCup Playoffs: Rory McIlroy makes woeful start at FedEx St. Jude Championship with four-over par opening round\"]\n- McIlroy ranked 68th out of 69 players after R1 [search result]\n- McIlroy returned to Memphis for 2026 after skipping 2025 St. Jude [CBS Sports; article \"Why is Rory McIlroy not in 2025 St. Jude Championship field\"]\n- \"FedEx Cup playoffs winners, losers: Rory McIlroy near bottom at St. Jude Championship\" [Central Oregon Daily headline]\n**Facts verified (MEDIUM confidence):**\n- McIlroy was paired with Scheffler for R2 [Golf Channel tee times article]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "LPGA Portland Classic R2 — Yubol at 12-Under, R3 Saturday at Columbia Edgewater",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "LPGA Portland Classic R2 leaderboard at Columbia Edgewater:\n\n🥇 Yubol — 12-under\nT2 Anannarukarn — 11-under\nT2 Somi Lee Schubert — 11-under\nT4 Thitikul — 9-under\n\nRound 3 is Saturday. Two rounds left. 🌹\n\n#LPGATour #PortlandClassic",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGATour",
+            "#PortlandClassic"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-lpga-portland-classic-r2-yubol-leads.html",
+        "headline": "Yubol Leads Portland Classic at 12-Under With Two Rounds to Play — Anannarukarn One Back",
+        "word_count": 445
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LPGA Portland Classic R2\n**Facts verified (HIGH confidence):**\n- The Standard Portland Classic: Aug 13-16, Columbia Edgewater CC, Portland, OR [LPGA]\n- $2M purse [previous pipeline coverage — consistent]\n- R2 leader: Arpichaya Yubol (THA) at 12-under [Flashscore leaderboard Aug 15]\n- T2: Patty Anannarukarn (THA) and Somi Lee Schubert (USA) at 11-under [Flashscore]\n- T2 also: Hye-Jin Choi (KOR) at 11-under [Flashscore]\n- T5 group at 9-under: Ruoning Zhang, Eri Hara, Jeeno Thitikul, Haeran Ryu [Flashscore]\n- Megha Ganne making LPGA debut as pro this week [ESPN / LPGA]\n- Ganne received exemption from winning Inkster Award (highest-ranked college golfer in final year) [ESPN]\n- Ganne: four-time All-American at Stanford, which won two NCAA titles during her tenure [ESPN]\n- Ganne won U.S. Women's Amateur last summer at Bandon Dunes [ESPN]\n- Next LPGA event: CPKC Women's Open, Aug 20-23, Royal Mayfair GC, Edmonton, Alberta, $2.75M purse [previous pipeline]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "BMW Bubble Watch — Who Makes It From St. Jude? Top 50 Advance to Next Leg",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "70 players at the FedEx St. Jude Championship.\n\nOnly the top 50 in FedExCup standings advance to the BMW Championship.\n\nSpieth (54th in): projecting to move in after his 65. 🟢\nMcIlroy: started 4-over, projecting out. 🔴\n\nEvery shot this weekend counts. #FedExStJude",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#FedExStJude"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-bmw-bubble-watch-fedex-cup-top-50.html",
+        "headline": "50 Tickets to the BMW Championship: Here's Who's In, Who's Out Heading Into the St. Jude Weekend",
+        "word_count": 523
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "BMW Bubble Watch\n**Facts verified (HIGH confidence):**\n- St. Jude Championship is first of three FedEx Cup Playoff events [PGA Tour]\n- 70 players compete in St. Jude; top 50 FedExCup points advance to BMW Championship [PGA Tour]\n- Bubble players entering week: Spieth 54th, Homa 52nd [multiple]\n- BMW Championship follows St. Jude Championship [PGA Tour schedule]\n**Facts verified (MEDIUM confidence):**\n- Spieth leading R1 projected to move into top 50 [Yahoo Sports / multiple]\n- McIlroy started 4-over, risks falling further [Sky Sports + standings context]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

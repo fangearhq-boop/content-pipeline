@@ -1,10 +1,26 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
-- **Date**: 2026-08-14
-- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish skipped — WP credentials not set)
+- **Date**: 2026-08-15
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres)
+- **PostPlanner exports:** gfr-postplanner-2026-08-15.xlsx (6 posts) + gfr-postplanner-tobi-2026-08-15.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-08-15/review-dashboard.html (21 items)
+- **Notes:** ST. JUDE R3 SATURDAY — Scheffler leads at 11-under (course-record 61 in R2: 5 birdies first 5 holes, 6 birdies in 7, 54 feet of putts), 3 shots over Im/Hovland entering R3; Fleetwood and Spieth both at -6; Spieth bogey-free 65 in R1 projects from 54th into top 50 FedExCup (BMW hope alive, 14th straight playoff year, no top-10 all season); McIlroy opened 4-over, 68th of 69, returned after skipping 2025 St. Jude, chasing 4th FedExCup title but fighting from bottom; LPGA Portland Classic R2: Yubol -12, Anannarukarn/Schubert -11, Thitikul -9; Megha Ganne LPGA debut; CPKC Women's Open next Aug 20-23 Edmonton $2.75M
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ## Pipeline Run Log
+
+### 2026-08-15
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres)
+- **PostPlanner exports:** gfr-postplanner-2026-08-15.xlsx + gfr-postplanner-tobi-2026-08-15.xlsx
 
 ### 2026-08-14
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish skipped — WP credentials not set)

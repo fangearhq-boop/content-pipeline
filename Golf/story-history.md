@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-08-15
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-08-15 | T1 | Scheffler's Course-Record 61 Gives Him 3-Shot Lead at FedEx St. Jude Heading Into R3 | X, FB, Article | FOLLOW UP |
+| 2026-08-15 | T1 | Spieth's Bogey-Free 65 Gives BMW Championship Hope — 54th to Projected Top 50 | X, FB, Article | FOLLOW UP |
+| 2026-08-15 | T2 | McIlroy's Memphis Nightmare — Opened 4-Over, Near Bottom of Field, Fighting to Survive | X, FB, Article | FOLLOW UP |
+| 2026-08-15 | T2 | LPGA Portland Classic R2 — Yubol at 12-Under, R3 Saturday at Columbia Edgewater | X, FB, Article | FOLLOW UP |
+| 2026-08-15 | T2 | BMW Bubble Watch — Who Makes It From St. Jude? Top 50 Advance to Next Leg | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Scheffler Course-Record 61 / R3 Lead
+- **Tier:** 1
+- **Category:** PGA Tour / FedEx St. Jude Championship / Scottie Scheffler
+- **Key facts:** Scheffler fires 9-under 61 in R2, tying TPC Southwind course record; birdied first 5 holes, 6 of first 7; drained 54 feet of birdie putts; leads at 11-under, 3 shots over Sungjae Im and Viktor Hovland; Aberg at -7, Spieth and Fleetwood both at -6; Scheffler tees off R3 at 1:45 PM ET alongside Im; TV: Golf Channel 1-3 PM / CBS 3-6 PM ET; CBS: "best round of the week by three shots"; sources: Golf Channel, CBS Sports, Central Oregon Daily, Heavy.com
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** St. Jude R3-R4 winner; FedExCup points implications; Scheffler Tour Championship seeding
+
+### STORY 2: Spieth Bogey-Free 65 / BMW Hope
+- **Tier:** 1
+- **Category:** PGA Tour / FedEx Cup Playoffs / Jordan Spieth / BMW Championship
+- **Key facts:** Spieth opened with bogey-free 65 in R1 (5-under); 5-way tie for R1 lead with Thorbjornsen, Kitayama, Kim, Knapp; entered at 54th FedExCup (outside top 50 BMW cutoff); projected to move inside top 50 after strong R1; 14th consecutive FedEx playoff year; zero top-10s in 2026 regular season; quote: "In a very different place"; Max Homa also on bubble at 52nd; sources: ESPN, PGA Tour, AthlonSports, golf.com, Yahoo Sports
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** St. Jude final FedExCup standings; Spieth BMW confirmation; Homa fate
+
+### STORY 3: McIlroy Memphis Nightmare
+- **Tier:** 2
+- **Category:** PGA Tour / FedEx St. Jude Championship / Rory McIlroy
+- **Key facts:** McIlroy opened 4-over in R1; 68th of 69 players after R1; returned to Memphis after skipping 2025 St. Jude; 12th in FedExCup standings entering; paired with Scheffler for R2; also has PGA Tour dual-status concern (15-event minimum, projected to fall one short); quote: "keen to see where his game is"; won 2026 Masters (defending champion); chasing record 4th FedExCup title; sources: Sky Sports, PGA Tour, Central Oregon Daily, Golf Channel, ESPN
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** McIlroy R2-R4 recovery; FedExCup seeding impact; BMW Championship positioning
+
+### STORY 4: LPGA Portland Classic R2 / Yubol Leads
+- **Tier:** 2
+- **Category:** LPGA / Standard Portland Classic / Arpichaya Yubol
+- **Key facts:** Portland Classic Aug 13-16, Columbia Edgewater CC, Portland OR, $2M purse; after R2: Yubol -12 (THA), Anannarukarn -11 (THA), Somi Lee Schubert -11 (USA), Hye-Jin Choi -11; T5 at -9: Thitikul, Hara, Zhang, Ryu; Grace Kim at -9 (dropped from R1 T2 position); Megha Ganne LPGA pro debut (Inkster Award; 4x All-American Stanford, 2 NCAA titles, US Women's Amateur winner Bandon Dunes); next: CPKC Women's Open Aug 20-23 Royal Mayfair GC Edmonton $2.75M; Nelly Korda expected to lead field; sources: LPGA, Golf Channel, ESPN, Flashscore
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Portland Classic final result; CPKC Women's Open preview
+
+### STORY 5: BMW Bubble Watch / Top 50 Stakes
+- **Tier:** 2
+- **Category:** PGA Tour / FedEx Cup Playoffs / BMW Championship
+- **Key facts:** 70 players at St. Jude, top 50 FedExCup points advance to BMW Championship; Spieth at 54th projecting in after 65; Homa at 52nd also on bubble; McIlroy at 12th FedExCup, BMW safe but seeding at risk; Scheffler as No. 1 seed (10-under starting advantage at Tour Championship); FedExCup title winner gets $23M; sources: PGA Tour, ESPN, Yahoo Sports
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Final BMW field after St. Jude; bubble resolution Sunday
+
 ## 2026-08-14
 
 | Date | Tier | Story | Platforms | Status |
