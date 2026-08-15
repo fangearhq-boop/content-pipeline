@@ -1,0 +1,257 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-15",
+  "compiled_at": "2026-08-15T12:27:21.367179+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Shapovalov Dominates Jodar 6-1, 6-4 in Cincinnati R2 *(TIER 1)*",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Shapovalov doesn't do close calls against Jodar.\n\n6-1, 6-4. The Montreal SF hero gets a harsh Cincinnati reality check from the Canadian veteran.\n\nSecond time Shapo's beaten him in 2026 — Dallas was the first.\n\n#Tennis #CincinnatiOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#CincinnatiOpen"
+          ],
+          "char_count": 234
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Jodar arrived in Cincinnati as the 19-year-old who'd just made his first Masters 1000 semifinal.\n\nHe left after 62 minutes.\n\nShapovalov 6-1, 6-4. A reminder that the generation gap works both ways.\n\n#CincinnatiOpen #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CincinnatiOpen",
+            "#Tennis"
+          ],
+          "char_count": 222
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-shapovalov-jodar-cincinnati-r2.html",
+        "headline": "Shapovalov Dismantles Montreal Hero Jodar 6-1, 6-4 in Cincinnati R2",
+        "word_count": 538
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Shapovalov def. Jodar 6-1, 6-4\n\n**Image Concept 1A — Social (1080x1350)**\n- **Type:** imagn\n- **Search Term:** `Denis Shapovalov`\n- **Description:** Shapovalov in mid-swing on a hard court, follow-through visible, intensity expression\n- **Canva Text:** \"SHAPOVALOV 6-1, 6-4\" / \"Cincinnati R2\"\n- **Status:** not_started\n\n**Image Concept 1B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search Term:** `Rafael Jodar`\n- **Description:** Jodar in action on hard court or post-match expression\n- **Canva Text:** None (hero image only)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Djokovic Makes Cincinnati Return — Chasing 4th Title vs Tirante *(TIER 1)*",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Novak Djokovic hasn't played Cincinnati in 2 years.\n\nHe's a 3-time champion with a 10-match win streak here.\n\nSinner's out. Alcaraz is out. The path has never been clearer.\n\nThe King of Cincy is back. 🎾\n\n#Tennis #CincinnatiOpen #Djokovic",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#CincinnatiOpen",
+            "#Djokovic"
+          ],
+          "char_count": 237
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Djokovic vs Tirante — the opponent who beat Taylor Fritz in Montreal last week.\n\nNothing comes easy at this level, but this is Djokovic on his favourite hard-court stage.\n\n3-time champion. 10-match streak. The draw is wide open.\n\n#Tennis #CincinnatiOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#CincinnatiOpen"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-djokovic-cincinnati-return.html",
+        "headline": "Djokovic Makes His Cincinnati Return — Three Titles, a 10-Match Streak, and a Wide-Open Draw",
+        "word_count": 536
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Djokovic Returns to Cincinnati\n\n**Image Concept 2A — Social (1080x1350)**\n- **Type:** imagn\n- **Search Term:** `Novak Djokovic`\n- **Description:** Djokovic celebrating or serving on hard court; confident pose\n- **Canva Text:** \"THE KING IS BACK\" / \"3x Cincinnati Champion\"\n- **Status:** not_started\n\n**Image Concept 2B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search Term:** `Novak Djokovic`\n- **Description:** Djokovic at net or celebration shot, Cincinnati background if available\n- **Canva Text:** None (hero image only)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Hijikata Denies Monfils in Tearful Final Cincinnati Appearance *(TIER 2)*",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Rinky Hijikata rallied past Gael Monfils 2-6, 7-6, 6-3 in what may be Monfils' last Cincinnati match ever.\n\nMonfils is retiring at season's end. He had the crowd. Hijikata had the result.\n\nBittersweet doesn't cover it.\n\n#Tennis #CincinnatiOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#CincinnatiOpen"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-hijikata-monfils-emotional-r1.html",
+        "headline": "Hijikata Rallies Past Monfils 2-6, 7-6, 6-3 in What May Be Monfils' Final Cincinnati Match",
+        "word_count": 524
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hijikata def. Monfils\n\n**Image Concept 3A — Social (1080x1350)**\n- **Type:** imagn\n- **Search Term:** `Gael Monfils`\n- **Description:** Monfils interacting with crowd, emotional shot or mid-point celebration\n- **Canva Text:** \"FAREWELL, CINCY\" / \"Monfils' final Cincinnati\"\n- **Status:** not_started\n\n**Image Concept 3B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search Term:** `Rinky Hijikata`\n- **Description:** Hijikata in action or celebration shot\n- **Canva Text:** None (hero image only)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Sabalenka vs Rybakina — WTA No. 1 Rankings Battle Reaches Cincinnati *(TIER 2)*",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Sabalenka. Rybakina. Same draw. WTA No. 1 ranking on the line.\n\nSwiatek won Toronto last week and is the defending Cincinnati champion.\n\nThe women's US Open picture gets clearer every match this week.\n\n#Tennis #CincinnatiOpen #WTATennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#CincinnatiOpen",
+            "#WTATennis"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-sabalenka-rybakina-wta-no1-battle.html",
+        "headline": "Sabalenka and Rybakina Bring Their WTA No. 1 Battle to Cincinnati",
+        "word_count": 513
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Sabalenka vs Rybakina WTA Battle\n\n**Image Concept 4A — Social (1080x1350)**\n- **Type:** imagn\n- **Search Term:** `Aryna Sabalenka`\n- **Description:** Sabalenka in power serve or forehand strike, dominant expression\n- **Canva Text:** \"NO. 1 ON THE LINE\" / \"WTA Cincinnati 2026\"\n- **Status:** not_started\n\n**Image Concept 4B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search Term:** `Elena Rybakina`\n- **Description:** Rybakina in hard-court action, Cincinnati or US swing feel\n- **Canva Text:** None (hero image only)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "9 Days to the US Open — Sinner, Alcaraz Absences Reshape Title Picture *(TIER 2)*",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "9 days until the US Open.\n\nSinner: doubtful (knee). Alcaraz: doubtful (wrist — hasn't played since April).\n\nZverev, Djokovic, and Shelton are circling. Swiatek just won Toronto.\n\nCincinnati is the last chance to make a statement.\n\n#Tennis #USOpen #CincinnatiOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#USOpen",
+            "#CincinnatiOpen"
+          ],
+          "char_count": 262
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-us-open-9-days-countdown.html",
+        "headline": "9 Days to the US Open: Sinner and Alcaraz Fitness Crisis Reshapes Who Can Win Flushing Meadows",
+        "word_count": 719
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "US Open Countdown\n\n**Image Concept 5A — Social (1080x1350)**\n- **Type:** imagn\n- **Search Term:** `Alexander Zverev`\n- **Description:** Zverev in celebration or power shot, hard-court surface\n- **Canva Text:** \"9 DAYS TO THE US OPEN\" / \"Sinner out. Alcaraz out. Who takes the title?\"\n- **Status:** not_started\n\n**Image Concept 5B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search Term:** `Ben Shelton`\n- **Description:** Shelton serving or celebrating, American flag energy\n- **Canva Text:** None (hero image only)\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

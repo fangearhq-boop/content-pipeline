@@ -1513,3 +1513,51 @@ Track previously covered stories to avoid repetition and maintain content freshn
 - **Byline:** Elena Voss
 - **Key Facts:** Cincinnati withdrawal confirmed; tenosynovitis right wrist; last match April; missed RG + Wimbledon + Cincinnati; US Open Aug 24; Sources: olympics.com, skysports.com, espn.com, tennismajors.com
 - **Follow-Up Opportunities:** Alcaraz US Open decision; Cincinnati draw implications; Sinner dominance narrative
+
+
+## 2026-08-15
+
+### Story 1: Shapovalov def. Jodar 6-1, 6-4 — Cincinnati R2
+- **Date:** 2026-08-15
+- **Angle:** NEW STORY — Denis Shapovalov (CAN) def. Rafael Jodar (ESP, 19) 6-1, 6-4 in Cincinnati R2. Second time Shapovalov beat Jodar in 2026 (also beat him in Dallas earlier this year). Jodar had made his first Masters 1000 SF in Montreal last week with a 30-12 record in 2026. Shapovalov dominates; Jodar exits in ~62 minutes.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Elena Voss
+- **Key Facts:** Shapovalov def. Jodar 6-1, 6-4 R2 Cincinnati; 2nd Shapovalov win vs Jodar in 2026 (also Dallas); Jodar 30-12 record entering Cincinnati; Jodar 19 years old; Sources: Cincinnati Open Saturday preview/search snippets confirming score
+- **Follow-Up Opportunities:** Shapovalov R3 result; Shapovalov US Open path; Jodar US Open preparation
+
+### Story 2: Djokovic Returns to Cincinnati — Chasing 4th Title vs Tirante
+- **Date:** 2026-08-15
+- **Angle:** NEW STORY — Novak Djokovic (SRB, 3rd seed) makes Cincinnati return after 2-year absence. He is a 3-time Cincinnati champion with a 10-match win streak at the tournament. Faces Tirante (who beat Fritz in Montreal last week) in R2 today. Sinner (knee) and Alcaraz (wrist) both withdrawn; Djokovic and Zverev in same half for potential SF.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Marcus Cole
+- **Key Facts:** Djokovic 3-time Cincinnati champion; 10-match win streak; 2-year Cincinnati absence; vs Tirante R2; Sinner/Alcaraz both withdrawn; Djokovic-Zverev same half; Sources: cincinnatiopen.com, atptour.com, multiple draw previews
+- **Follow-Up Opportunities:** Djokovic R2 result vs Tirante; Djokovic R3; potential Djokovic-Zverev SF
+
+### Story 3: Hijikata def. Monfils 2-6, 7-6, 6-3 in Emotional Final Cincinnati Appearance
+- **Date:** 2026-08-15 (match played Aug 13)
+- **Angle:** NEW STORY — Rinky Hijikata (AUS, 25) rallied past Gaël Monfils (FRA) 2-6, 7-6, 6-3 in 2h 31m on Aug 13. Monfils announced retirement at end of 2026 season — this was almost certainly his last Cincinnati match. Hijikata's first ATP win on hard courts. He played collegiately at North Carolina. Next: faces Luciano Darderi (ITA) in R2.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Ryan Calloway
+- **Key Facts:** Hijikata def. Monfils 2-6, 7-6, 6-3 in 2h 31m; Monfils retiring end 2026; first ATP win on hard courts for Hijikata; Hijikata vs Darderi R2; Sources: Yahoo Sports, Washington Post, tennis.com.au, tennistonic.com
+- **Follow-Up Opportunities:** Hijikata R2 vs Darderi result; Monfils remaining 2026 schedule; retirement farewell coverage
+
+### Story 4: Sabalenka vs Rybakina — WTA No. 1 Battle at Cincinnati
+- **Date:** 2026-08-15
+- **Angle:** NEW STORY — Sabalenka (BLR, WTA No. 1, top seed) and Rybakina (KAZ, No. 2, 2nd seed) both in Cincinnati draw with WTA ranking stakes high pre-US Open. Rybakina leads WTA with 306 aces in 2026. Swiatek (7th seed, defending Cincinnati champion, just won Toronto) also in bottom half with Rybakina. Gauff (4th), Andreeva (5th), Svitolina lead top half.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Elena Voss
+- **Key Facts:** Sabalenka No. 1/top seed; Rybakina No. 2/2nd seed; Rybakina 306 aces 2026; Swiatek defending Cincinnati champion; WTA No. 1 ranking on the line; Sources: WTA draw announcements, wtatennis.com draw preview
+- **Follow-Up Opportunities:** Sabalenka R2 result; Rybakina R2 result; potential Rybakina-Swiatek bottom half clash
+
+### Story 5: US Open 9-Day Countdown — Sinner, Alcaraz Fitness Crisis
+- **Date:** 2026-08-15
+- **Angle:** FOLLOW-UP (2026-08-08 S5: Alcaraz withdraws Cincinnati) — US Open begins Aug 24 (9 days away). Both Sinner (knee) and Alcaraz (wrist, last match April) withdrew from Cincinnati, raising serious doubts about US Open participation. Zverev (Roland Garros 2026 champion, No. 1 seed Cincinnati), Djokovic (3-time Cincinnati champion), and Shelton (Canadian Open back-to-back) lead men's contenders. Swiatek frontrunner on women's side after Toronto title. Tiafoe also on injury watch (right-hand cyst surgery ~Aug 8).
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Marcus Cole
+- **Key Facts:** US Open starts Aug 24; Sinner out (knee); Alcaraz out (wrist, last match April); Zverev Roland Garros champion; Shelton back-to-back Canada; Swiatek won Toronto; Tiafoe surgery ~Aug 8; Sources: Prior story history + confirmed tournament withdrawal reports
+- **Follow-Up Opportunities:** Alcaraz US Open decision; Sinner US Open fitness; US Open draw release
