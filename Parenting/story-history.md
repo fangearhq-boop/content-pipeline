@@ -2,6 +2,50 @@
 
 ---
 
+## August 15, 2026
+
+### Story 1: Academy District 20 Back-to-School August 17-18 — Staggered Start
+- **Date:** 2026-08-15
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — Academy District 20 opens 2026-27 school year with staggered two-day start. Preschool, elementary, 6th, and 9th graders start Monday August 17 (transition-year orientation day). All other students start Tuesday August 18. Start date was shifted from earlier planned August 13 date.
+- **Content Produced:** Article (Sarah Morales), 2 X posts, Facebook Long-Form, Facebook Image Caption, Image Concept (Gemini)
+- **Tier:** 1
+- **Key Facts:** D20 preschool/elementary/6th/9th start Aug 17; all others Aug 18; staggered start; D11 started Aug 12; Sources: KOAA News 5, springsdaily.com, asd20.org
+
+### Story 2: Taleco Gear Baby Jumpers and Swings Recalled — ~41,100 Units, 3 Hazard Types
+- **Date:** 2026-08-15
+- **Content Pillar:** National Parenting (Safety / CPSC)
+- **Angle:** NEW STORY — CPSC recall August 13: Taleco Gear baby jumpers and swings (~41,100 US, 150 Canada). Three hazards: unstable units (fall/impact), hanging restraint straps (strangulation), oversized seat openings (entrapment). 52 incidents, 32 injuries. Sold on Amazon, Walmart, TalecoGear.com April 2021–July 2026, $65–$120. Model number on fabric wash/care label inside seat cover. Remedy: stop use, contact Taleco Gear, full refund, destroy product.
+- **Content Produced:** Article (Jamie Rivera), 2 X posts, Facebook Long-Form, Facebook Image Caption, Image Concept (Gemini)
+- **Tier:** 1
+- **Key Facts:** ~41,100 US units recalled; recall date Aug 13, 2026; 52 incidents, 32 injuries; Amazon/Walmart/TalecoGear.com; Apr 2021–Jul 2026; $65–$120; full refund; destroy product; Sources: CPSC.gov, multiple affiliate news networks
+
+### Story 3: TESSA Pasta in the Park — Tonight August 15 at Myron Stratton Home
+- **Date:** 2026-08-15
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — TESSA's annual Pasta in the Park fundraiser is tonight (Aug 15) at 6 PM at Myron Stratton Home, Colorado Springs. Theme: "Shelter from the Storm." Pasta tasting competition, beverages, live entertainment, silent and live auctions. $120 tickets. Goal: raise $150,000 for domestic violence and sexual assault survivors in Pikes Peak region.
+- **Content Produced:** Article (Sarah Morales), 1 X post, Facebook Long-Form, Facebook Image Caption, Image Concept (Gemini)
+- **Tier:** 2
+- **Key Facts:** Pasta in the Park; tonight Aug 15, 6 PM; Myron Stratton Home COS; $120 tickets; $150,000 goal; TESSA nonprofit; El Paso and Teller counties; Sources: fox21news.com, koaa.com, gazette.com
+
+### Story 4: D49 Early Childhood Education Opens Two New Preschool Classrooms at Student Success Center
+- **Date:** 2026-08-15
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — D49 ECE opening two new full-time preschool classrooms at Student Success Center in August 2026. SSC now in permanent location at former Falcon Elementary School of Technology building (FESoT relocated to Bennett Ranch Elementary campus). Classes meet Mon–Thu. Part of Falcon Zone long-range plan (includes projected new PreK-8 school).
+- **Content Produced:** Article (Jamie Rivera), 1 X post, Facebook Long-Form, Facebook Image Caption, Image Concept (Gemini)
+- **Tier:** 2
+- **Key Facts:** D49 SSC; 2 new preschool classrooms; August 2026; former FESoT building; Mon–Thu; Falcon Zone long-range plan; projected new PreK-8 school; Sources: d49.org
+
+### Story 5: AAP Updated Screen Time Guidelines 2026
+- **Date:** 2026-08-15
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — AAP updated screen time guidelines: no screens before 18 months (except video calls); 1 hr/day high-quality content for ages 2-5; older kids: balance over burnout (don't replace sleep/activity/family time/free play); device-free bedrooms and mealtimes; co-viewing and talking about content; modeling healthy digital habits.
+- **Content Produced:** Article (Sarah Morales), 1 X post, Facebook Long-Form, Facebook Image Caption, Image Concept (Gemini)
+- **Tier:** 2
+- **Key Facts:** AAP guidelines; no screens <18 months; 1 hr/day ages 2-5; balance over burnout for older kids; device-free bedrooms/mealtimes; co-viewing; Sources: healthychildren.org, aap.org, health.choc.org
+
+---
+
 ## August 14, 2026
 
 ### Story 1: WPX-4 Slide Playset CPSC Warning — 17-Month-Old Died

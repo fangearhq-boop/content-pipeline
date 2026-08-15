@@ -1,5 +1,43 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: August 15, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | D20 back-to-school Aug 17-18 staggered start; Taleco Gear baby jumpers/swings recall (~41,100 units, 3 hazard types, full refund); TESSA Pasta in the Park tonight 6 PM Myron Stratton Home $120; D49 SSC 2 new preschool classrooms at former FESoT building Mon–Thu; AAP updated screen time guidelines 2026 |
+| Story History Check | COMPLETE | 5 stories: S1 new (D20 Aug 17-18 — Aug 13 run covered D20 date announcement, this covers the staggered day-by-day breakdown as start approaches); S2 new (Taleco Gear — distinct brand from all prior recalls); S3 new (TESSA Pasta in the Park — annual event, not covered previously); S4 new (D49 SSC classrooms — not previously covered); S5 new (AAP screen time — updated 2026 guidelines, distinct from Aug 11 screen time study) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH confidence: all CPSC recall details (cpsc.gov), D20 start dates, TESSA event details, D49 SSC details; MEDIUM: D20 original date shift, D49 long-range plan details |
+| Story Analysis | COMPLETE | 02-story-analysis.md — 5 story sections with angles, tiers, voice checks |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (S1: 2, S2: 2, S3/S4/S5: 1 each); all ≤280 chars (Post 5 corrected: 282→274); 4 hashtags each; 0 exclamation marks |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form posts + 5 Image Captions; engagement questions; NO hashtags; COS voice; 0 exclamation marks; fixed header format (## → ### STORY N:) for compile-content-data.py compatibility |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts; 1200×675 (social) and 1200×630 (hero); clean bottom third; no celebrity likenesses; no brand logos |
+| Articles | COMPLETE | 5 articles (500-1000 words; semantic HTML5; What's Next sections; Quick Reference tables in all 5; 0 exclamation marks; no figure tags; no photo credits); bylines: Sarah Morales (A1, A3, A5), Jamie Rivera (A2, A4) |
+| Fact-Check | COMPLETE | verify-facts.py — 64 claims extracted; all tweets pass ≤280 chars; 10 image entries not_started (expected for gemini source, image manifest table format not parsed by YAML parser — known non-blocking warning) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 5 stories × 2 image types (social + hero) = 10 entries; all not_started; gemini base_only; kAHCKfCZgk0 brand kit |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles, 22 dashboard items |
+| Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-08-15.xlsx (7 posts 13:15–20:45 MT, 75 min apart) + cosp-postplanner-tobi-2026-08-15.xlsx (7 TOBI posts) |
+| Dashboard Push | Attempted — proxy blocks write to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — proxy blocks WP API (403) | Same environment restriction as all prior runs |
+
+### 2026-08-15 — Full Pipeline Run (Saturday)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts (S1: 2, S2: 2, S3/S4/S5: 1 each); PostPlanner xlsx: 7 posts 13:15–20:45 MT, 75 min apart; 7 TOBI
+- **Articles:** 5 (bylines: Sarah Morales [A1, A3, A5], Jamie Rivera [A2, A4])
+- **PostPlanner exports:** cosp-postplanner-2026-08-15.xlsx (7 posts), cosp-postplanner-tobi-2026-08-15.xlsx (7 TOBI posts)
+- **Coverage:** D20 back-to-school staggered start Aug 17-18 — preschool/elem/6th/9th on Monday, all others Tuesday (S1, Tier 1); Taleco Gear baby jumpers/swings ~41,100 units recalled Aug 13 — 3 hazard types (fall/strangulation/entrapment), 52 incidents, 32 injuries, full refund (S2, Tier 1); TESSA Pasta in the Park tonight 6 PM Myron Stratton Home — $120 tickets, $150,000 goal, domestic violence survivors (S3, Tier 2); D49 SSC 2 new preschool classrooms at former FESoT building Mon-Thu, Falcon Zone plan (S4, Tier 2); AAP updated screen time guidelines — no screens <18mo, 1 hr/day ages 2-5, balance over burnout older kids, device-free bedrooms/meals (S5, Tier 2)
+- **Notes:**
+  - verify-facts.py: 64 claims; all tweets ≤280 chars; image manifest table format produces IMAGE MISSING warnings (non-blocking, expected)
+  - compile: 7 X posts, 5 FB posts, 5 articles, 22 dashboard items
+  - WordPress: proxy blocks WP API (403); same as all prior runs
+  - Dashboard push: proxy blocks content-dashboards repo write; same as all prior runs
+  - Byline rotation: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4]
+  - Story history updated with all 5 stories
+
+---
+
 ## Latest Run: August 14, 2026
 
 | Step | Status | Notes |
