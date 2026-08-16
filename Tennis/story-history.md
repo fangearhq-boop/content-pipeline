@@ -1561,3 +1561,51 @@ Track previously covered stories to avoid repetition and maintain content freshn
 - **Byline:** Marcus Cole
 - **Key Facts:** US Open starts Aug 24; Sinner out (knee); Alcaraz out (wrist, last match April); Zverev Roland Garros champion; Shelton back-to-back Canada; Swiatek won Toronto; Tiafoe surgery ~Aug 8; Sources: Prior story history + confirmed tournament withdrawal reports
 - **Follow-Up Opportunities:** Alcaraz US Open decision; Sinner US Open fitness; US Open draw release
+
+
+## 2026-08-16
+
+### Story 1: Tirante Stuns Djokovic in Cincinnati R2 — Biggest Upset of Hard-Court Swing
+- **Date:** 2026-08-16
+- **Angle:** NEW STORY — Thiago Agustín Tirante (ARG, No. 50) defeated [3] Novak Djokovic (SRB) 2-6, 6-4, 6-4 in Cincinnati R2 on August 15. Djokovic appeared to vomit at a changeover and took a medical timeout at 2-2 in the second set. Tirante became just the 14th player to beat Djokovic at Masters 1000 level after losing the first set since 2005. Djokovic's 3-title Cincinnati comeback over. Match was delayed by rain on Saturday before completing.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Marcus Cole
+- **Key Facts:** Tirante def. Djokovic 2-6, 6-4, 6-4; Djokovic vomited/medical timeout at 2-2 second set; Tirante ranked No. 50; 14th player to beat Djokovic at M1000 after losing first set since 2005; Djokovic 3-time Cincinnati champion; Sources: atptour.com, aljazeera.com, skysports.com, tennismajors.com, Washington Post, lufkindailynews.com (Reuters)
+- **Follow-Up Opportunities:** Tirante R3 result; Djokovic US Open participation status; Cincinnati R3 picture
+
+### Story 2: Jodar Saves Match Point, Completes Stunning Comeback vs Shapovalov — Shoelace Controversy
+- **Date:** 2026-08-16 (match played Aug 15)
+- **Angle:** FOLLOW-UP + CORRECTION (2026-08-15 S1 incorrectly reported Shapovalov def. Jodar 6-1, 6-4; actual result was Jodar def. Shapovalov 7-5, 4-6, 7-5) — Rafael Jodar (ESP, 19) rallied from 1-5 down in the third set, saving multiple match points, to beat Denis Shapovalov (CAN) 7-5, 4-6, 7-5. Jodar's shoelaces broke twice during the comeback, infuriating Shapovalov. Jodar is 14-3 in deciding sets in 2026.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Ryan Calloway
+- **Key Facts:** Jodar def. Shapovalov 7-5, 4-6, 7-5; came back from 1-5 third set, saved match points; shoelaces broke twice; Jodar 14-3 deciding sets 2026; Sources: atptour.com, tennis.com, TennisTemple, tsn.ca, sofascore.com, tennisnow.com
+- **Follow-Up Opportunities:** Jodar R3 result; Shapovalov US Open status; Jodar Cincinnati QF bid
+
+### Story 3: Venus Williams' Cincinnati Farewell — Arango Wins 6-2, 6-2 With Serena Watching
+- **Date:** 2026-08-16 (match played Aug 13-14)
+- **Angle:** NEW STORY — Venus Williams (USA, 46, ranked 615th) lost to Emiliana Arango (COL, No. 95) 6-2, 6-2 in WTA Cincinnati R1. Venus now 0-14 in 2026 singles; last win July 2025. Serena Williams was in the stands watching. Arango advanced to face [7] Swiatek in R2 on Sunday.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Elena Voss
+- **Key Facts:** Arango def. Venus 6-2, 6-2 in 65 minutes; Venus ranked 615; Venus 0-14 in 2026 singles; last win July 2025; Serena watching courtside; Sources: NBCSports, wtatennis.com, yardbarker.com
+- **Follow-Up Opportunities:** Arango vs Swiatek R2 result; Venus 2026 season future; Cincinnati WTA R3 picture
+
+### Story 4: Sabalenka Survives Gibson 4-6, 6-1, 7-5; Zverev Outlasts Norrie 3-6, 6-3, 6-3
+- **Date:** 2026-08-16
+- **Angle:** NEW STORY — WTA No. 1 Aryna Sabalenka (BLR) dropped the first set before beating Talia Gibson (AUS) 4-6, 6-1, 7-5 in Cincinnati R2 on Aug 16. ATP No. 1 seed Alexander Zverev (GER) survived a late-night match vs Cameron Norrie (GBR) 3-6, 6-3, 6-3 on Aug 15. Both top seeds advance in a draw already shaken by Djokovic's upset.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Marcus Cole
+- **Key Facts:** Sabalenka def. Gibson 4-6, 6-1, 7-5; Zverev def. Norrie 3-6, 6-3, 6-3; WTA No. 1 ranking battle ongoing; Sources: Yahoo Sports, atptour.com, sportytrader.com
+- **Follow-Up Opportunities:** Sabalenka R3; Zverev R3; Rybakina vs Townsend R2 result; WTA No. 1 ranking picture
+
+### Story 5: US Open 8-Day Countdown — Djokovic Out of Warm-Up, Sinner and Alcaraz Dark Horses
+- **Date:** 2026-08-16
+- **Angle:** FOLLOW-UP (2026-08-15 S5: US Open 9-Day Countdown) — With 8 days to US Open main draw (Aug 30), Djokovic just lost in Cincinnati R2 while ill. Sinner (knee) and Alcaraz (wrist, long absence) also skipped Cincinnati. Draw ceremony Aug 27. Zverev only elite man with match practice. Swiatek (won Toronto), Sabalenka, Rybakina top women's contenders.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Ryan Calloway
+- **Key Facts:** US Open main draw Aug 30; draw ceremony Aug 27; Sinner/Alcaraz/Djokovic all without hard-court prep; Zverev Roland Garros 2026 champion; Shelton back-to-back Canada; Swiatek won Toronto; Sources: flashscore.com, wikipedia 2026 US Open, frontofficesports.com, olympics.com
+- **Follow-Up Opportunities:** US Open draw release Aug 27; Sinner/Alcaraz fitness updates; Cincinnati finals picture

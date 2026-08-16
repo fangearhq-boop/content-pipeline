@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-08-15 |
-| Writing | Complete (all steps) | 2026-08-15 |
-| Fact-check | Complete (verify-facts.py run — 5 stories, 30 claims) | 2026-08-15 |
-| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 5 articles, 22 items) | 2026-08-15 |
-| Dashboard | Complete (review-dashboard.html, 22 items) | 2026-08-15 |
-| PostPlanner Export | Complete (standard 7 posts 12:57–20:39 ET; TOBI 7 posts) | 2026-08-15 |
-| WordPress Publish | Attempted — proxy blocks WordPress API (same as all prior runs) | 2026-08-15 |
-| Dashboard Push | Attempted — proxy lacks write access to content-dashboards repo (same as all prior runs) | 2026-08-15 |
+| Research | Complete | 2026-08-16 |
+| Writing | Complete (all steps) | 2026-08-16 |
+| Fact-check | Complete (verify-facts.py run — 5 stories, 28 claims) | 2026-08-16 |
+| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 5 articles, 27 items) | 2026-08-16 |
+| Dashboard | Complete (review-dashboard.html, 27 items) | 2026-08-16 |
+| PostPlanner Export | Complete (standard 7 posts 13:02–20:38 ET; TOBI 7 posts) | 2026-08-16 |
+| WordPress Publish | Attempted — proxy blocks WordPress API (same as all prior runs) | 2026-08-16 |
+| Dashboard Push | Attempted — proxy lacks write access to content-dashboards repo (same as all prior runs) | 2026-08-16 |
 
 ## Queue
 
@@ -24,6 +24,16 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-08-16 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
+- **Articles:** 5 (bylines: Marcus Cole [S1, S4], Ryan Calloway [S2, S5], Elena Voss [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-08-16.xlsx (7 posts 13:02–20:38 ET), tfr-postplanner-tobi-2026-08-16.xlsx (7 TOBI posts)
+- **Key stories:** Tirante (No. 50, ARG) stuns Djokovic 2-6, 6-4, 6-4 in Cincinnati R2 — Djokovic vomited/medical timeout, only 14th M1000 loss from set up since 2005, Cincinnati comeback over, US Open fitness in doubt; Jodar def. Shapovalov 7-5, 4-6, 7-5 (corrects Aug 15 incorrect report of Shapovalov win) — came back from 1-5, saved match points, shoelaces broke twice, Shapovalov furious, Jodar 14-3 deciding sets 2026; Venus Williams (46, ranked 615) loses to Arango 6-2, 6-2 with Serena watching — 0-14 in 2026 singles; Sabalenka survives Gibson 4-6, 6-1, 7-5 + Zverev outlasts Norrie 3-6, 6-3, 6-3 — both No. 1 seeds drop first set but advance; US Open 8-day countdown (Djokovic out, Sinner/Alcaraz fitness crisis deepens, draw Aug 27)
+- **Issues:** Aug 15 pipeline had incorrect Shapovalov win result — corrected in today's coverage; FB posts not picked up by compile script (0 FB posts in JSON — known issue); image manifest all not_started (expected for imagn source); posting window warnings cosmetic (known issue); WordPress blocked by proxy; dashboard push blocked by proxy
+- **Story history:** Updated with all 5 stories (including correction note for S2)
 
 ### 2026-08-15 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
