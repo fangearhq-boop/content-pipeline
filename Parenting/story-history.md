@@ -5829,3 +5829,56 @@
 - **Tier:** 2
 - **Key Facts (HIGH):** $40M project; 12,000 sq ft; ETFE roof (largest in North America); 11 feeding zones; centennial year; no exact opening date; cmzoo.org; Sources: KKTV Aug 6, Gazette June 25, CMZoo.org
 - **Follow-Up Opportunities:** Official opening date announcement; opening day family coverage; CMZoo centennial milestones
+
+
+## 2026-08-16
+
+### Story 1: Cheyenne Mountain Zoo Opens Little Paws Nature Preschool — August 24
+- **Date:** 2026-08-16
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — CMZoo launching state-accredited outdoor preschool, inaugural class August 24. Accredited by Colorado Department of Early Childhood. Calendar follows Cheyenne Mountain School District 12. Two tracks: 3-year-olds (Tue/Thu, 9am-noon, $220.75/month), 4-5-year-olds (Mon/Wed/Fri, 9am-1pm, $460.75/month). Class size ~15; state-licensed teachers. Zoo trails/habitats as primary learning environment. Registration still open: LittlePawsPreschool@cmzoo.org. Distinct from CMZoo Giraffe Center ($40M) covered Aug 8.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** Opens Aug 24; CDEC accredited; CMS12 calendar; 3yo track $220.75/month Tue/Thu; 4-5yo track $460.75/month MWF; ~15 students/class; contact LittlePawsPreschool@cmzoo.org; Sources: KKTV July 15, KOAA, Springs Mag, CMZoo press release
+- **Follow-Up Opportunities:** Opening day Aug 24 recap; enrollment update; curriculum coverage
+
+### Story 2: AAP 2026-27 Flu Vaccine Guidelines — 190 Pediatric Deaths Last Season
+- **Date:** 2026-08-16
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — AAP 2026-27 influenza policy statement: 190 pediatric deaths last season; 85% unvaccinated; only 49.4% of children 6mo-17yr vaccinated through May 2026. All children 6mo+ without contraindication should vaccinate. Two-dose rule for ages 6mo-8yr if: first-time, only 1 lifetime dose before July 1, or unknown history — doses 4 weeks apart. No formulation preference. COS timing: D20 starting Aug 17-18, ideal to schedule now.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** 190 pediatric flu deaths 2025-26; 85% unvaccinated; 49.4% coverage; two-dose rule ages 6mo-8yr; 4 weeks between doses; no formulation preference; Sources: AAP Pediatrics journal, CIDRAP, Clinical Advisor
+- **Follow-Up Opportunities:** COS flu shot availability Sep; pediatric flu data El Paso County; vaccination rate follow-up
+
+### Story 3: COS Family Events Aug 16-23
+- **Date:** 2026-08-16
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (weekly events roundup) — Garden of the Gods nature scavenger Sun Aug 16 11 AM (ages 8+); Bancroft Park free concert Wed Aug 19 6 PM; Olympic City food tour Sat Aug 22 10 AM; CMZoo Tails/Tunes/Tastes ongoing; Little Paws preview Mon Aug 24.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** All events confirmed per visitcos.com, Springs Event Hub, CMZoo listings; Sources: visitcos.com, FOX21, agent research
+- **Follow-Up Opportunities:** Next week's roundup; Little Paws opening day Aug 24
+
+### Story 4: CPSC Recalls — Vevor Baby Swings and Finger Lights
+- **Date:** 2026-08-16
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (recalls not yet covered) — Vevor Baby Swings (Sanven Technology): violates federal infant sleep standard and inclined sleepers ban, suffocation risk, sold Amazon/Vevor.com Jan-Aug 2025, $65-$80, no US injuries. POPOOO Jungle Safari LED Finger Lights (~62,490 units) + Delightmi Oitnlaughter (~1,012 units): button battery access hazard, severe internal burns risk.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** Vevor violates infant sleep standard + inclined sleepers ban; sold Amazon/Vevor.com 2025 $65-80; Finger Lights POPOOO ~62,490 units + Delightmi ~1,012 units; button battery = ER immediately; Sources: CPSC.gov, ConsumerAffairs Aug 7
+- **Follow-Up Opportunities:** CPSC portal checks; pediatric ER guidance button battery ingestion
+
+### Story 5: D20 Starts Tomorrow — Final Checklist for Academy District 20 Families
+- **Date:** 2026-08-16
+- **Content Pillar:** Local News
+- **Angle:** FOLLOW-UP (2026-08-15 S1: D20 Aug 17-18 staggered start) — Day-before reminder: Mon Aug 17 (preschool/K/6th/9th), Tue Aug 18 (all others). Tonight's checklist: confirm transportation, parent portal, staggered schedule, wake-up times, pack backpack. Douglass Valley Elementary groundbreaking Aug 3 (context for west-side families).
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** D20 Mon Aug 17 (preschool/K/6th/9th), Tue Aug 18 (all others); Douglass Valley groundbreaking Aug 3; Sources: academyd20.org, Springs Daily, prior pipeline Aug 4/6/8/15
+- **Follow-Up Opportunities:** D20 first day recap; transportation updates; Douglass Valley construction timeline

@@ -1,5 +1,43 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: August 16, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | CMZoo Little Paws Preschool opens Aug 24 (ages 3-5, CDEC-accredited, nature-based); AAP 2026-27 flu vaccine guidelines (190 deaths, 85% unvaccinated, vaccinate 6mo+, two-dose rule for kids under 9); Family events Aug 16-23 (Garden of Gods scavenger, Bancroft Park concert, Olympic City food tour, CMZoo Tails/Tunes); Vevor baby swings (suffocation/federal law violation) + Finger Lights button battery recall (POPOOO 62,490 units + Delightmi 1,012 units); D20 starts tomorrow Aug 17-18 staggered |
+| Story History Check | COMPLETE | 5 stories: S1 new (CMZoo Little Paws — Aug 14 covered announcement, this covers registration open + pricing as Aug 24 opening approaches); S2 new (AAP flu vaccine 2026-27 — not previously covered); S3 new (Family events Aug 16-23 — weekly roundup, new week); S4 new (Vevor swings + Finger Lights — Taleco covered Aug 15, these are distinct brands not yet covered); S5 new (D20 night-before checklist — Aug 15 covered schedule, this is operational prep) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Jamie Rivera (S1, S3, S5), Sarah Morales (S2, S4) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH confidence: CMZoo prices/email/dates, CPSC recall details (cpsc.gov), D20 start dates; MEDIUM: AAP flu death stats, finger lights unit counts |
+| Story Analysis | COMPLETE | 02-story-analysis.md — 5 story sections with angles, tiers, COS voice checks |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (S1: 2, S2: 2, S3/S4/S5: 1 each); all ≤280 chars (initial overages fixed — newline counting corrected); 4 hashtags each; 0 exclamation marks |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form posts + 5 Image Captions; engagement questions; NO hashtags; COS voice; 0 exclamation marks |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts; 1200×675 (social) and 1200×630 (hero); clean bottom third; no celebrity likenesses; no brand logos |
+| Articles | COMPLETE | 5 articles (500-1000 words; semantic HTML5; What's Next sections; Quick Reference tables in all 5; 0 exclamation marks; no figure tags); bylines: Jamie Rivera (A1, A3, A5), Sarah Morales (A2, A4) |
+| Fact-Check | COMPLETE | verify-facts.py — 102 claims extracted; all tweets pass ≤280 chars; 10 image entries not_started (expected for gemini source) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 5 stories × 2 image types (social + hero) = 10 entries; all not_started; gemini base_only; kAHCKfCZgk0 brand kit |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles, 27 dashboard items |
+| Dashboard | COMPLETE | review-dashboard.html — 27 items |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-08-16.xlsx (7 posts 13:13–20:43 MT) + cosp-postplanner-tobi-2026-08-16.xlsx (7 TOBI posts) |
+| Dashboard Push | Attempted — proxy blocks write to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — proxy blocks WP API (403) | Same environment restriction as all prior runs |
+
+### 2026-08-16 — Full Pipeline Run (Sunday)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts (S1: 2, S2: 2, S3/S4/S5: 1 each); PostPlanner xlsx: 7 posts 13:13–20:43 MT; 7 TOBI
+- **Articles:** 5 (bylines: Jamie Rivera [A1, A3, A5], Sarah Morales [A2, A4])
+- **PostPlanner exports:** cosp-postplanner-2026-08-16.xlsx (7 posts), cosp-postplanner-tobi-2026-08-16.xlsx (7 TOBI posts)
+- **Coverage:** CMZoo Little Paws Preschool — CO's first zoo-based outdoor preschool, opens Aug 24, ages 3/4-5, two tuition tracks, email LittlePawsPreschool@cmzoo.org (S1, Tier 1); AAP 2026-27 flu vaccine guidelines — 190 deaths, 85% unvaccinated, vaccinate 6mo+, two-dose rule for first-timers under 9, start as soon as fall vaccines arrive (S2, Tier 1); Family events Aug 16-23 — Garden of Gods scavenger 11 AM, Bancroft Park free concert Wed 6 PM, Olympic City food tour Sat 10 AM, CMZoo Tails/Tunes ongoing (S3, Tier 2); Vevor baby swings suffocation hazard (federal infant sleep law violation, Vevor.com/Amazon Jan–Aug 2025, $65-80) + POPOOO/Delightmi Finger Lights button battery recall — 63,502 total units, ER immediately if swallowed (S4, Tier 2); D20 starts tomorrow — Aug 17 preschool/kindergarten/6th/9th, Aug 18 all others, five-item tonight checklist (S5, Tier 2)
+- **Notes:**
+  - verify-facts.py: 102 claims; X post character overages on first run (newline counting) — all fixed; clean pass on second run
+  - compile: 7 X posts, 5 FB posts, 5 articles, 27 dashboard items
+  - WordPress: proxy blocks WP API (403); same as all prior runs
+  - Dashboard push: proxy blocks content-dashboards repo write; same as all prior runs
+  - Byline rotation: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4]
+  - Story history updated with all 5 stories
+
+---
+
 ## Latest Run: August 15, 2026
 
 | Step | Status | Notes |
