@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-08-16
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-08-16 | T1 | Sam Burns Wins FedEx St. Jude — Scheffler Falters with Fill-in Caddie | X, FB, Article | NEW |
+| 2026-08-16 | T1 | Akie Iwai Wins LPGA Portland Classic — Twin Sister Chisato Sprays Her with Champagne | X, FB, Article | NEW |
+| 2026-08-16 | T2 | Jordan Spieth Lives to Fight Another Day — 15th Straight BMW Berth Secured | X, FB, Article | FOLLOW UP |
+| 2026-08-16 | T2 | Rory McIlroy's Brutal St. Jude Week Ends — BMW Still Waits | X, FB, Article | FOLLOW UP |
+| 2026-08-16 | T2 | Three Events Next Week: BMW Championship, LIV Indianapolis, CPKC Women's Open | X, FB, Article | NEW |
+
+### STORY 1: Sam Burns Wins FedEx St. Jude Championship
+- **Tier:** 1
+- **Category:** PGA Tour / FedEx Cup Playoffs / Sam Burns / Scottie Scheffler
+- **Key facts:** Sam Burns (Shreveport, Louisiana) wins the FedEx St. Jude Championship ($20M purse); Burns entered R4 at T-2 after a 62 in R3 (15/18 GIR); Scheffler entered Sunday with a 2-shot lead at -13 (confirmed NBC Sports T-3 finish); Scheffler's regular caddie Ted Scott left for a family emergency Saturday night; PGA Tour chaplain Brad Payne flew in ~2am Sunday to serve as fill-in caddie for the final round; Scheffler post-round: "just ball wasn't going in"; JJ Spaun charged, fell short; sources: NBC Sports, Yahoo News, CBS Sports, Yardbarker
+- **Status:** NEW
+- **Follow-up ideas:** Burns at BMW Championship; Scheffler reset at Bellerive; Brad Payne caddie story follow-up
+
+### STORY 2: Akie Iwai Wins LPGA Portland Classic
+- **Tier:** 1
+- **Category:** LPGA / Portland Classic / Akie Iwai / Chisato Iwai
+- **Key facts:** Akie Iwai (23, Japanese rookie) wins at -24 (67-67-64-66), 4-shot win over Gurleen Kaur (-20); closed with bogey-free 66; birdied final two holes; twin sister Chisato T-3 at -19, sprayed Akie with champagne on 18th green; both Iwai twins have won in their rookie LPGA season (Chisato won at Mayakoba in May); Linn Grant also T-3 (-19); Grace Kim 5th (-18); sources: ESPN, Golf Channel, Fox Sports, Globe and Mail
+- **Status:** NEW
+- **Follow-up ideas:** CPKC Women's Open — can Chisato win in Edmonton?; both twins at the CPKC
+
+### STORY 3: Jordan Spieth 15th BMW Berth
+- **Tier:** 2
+- **Category:** PGA Tour / FedEx Cup Playoffs / Jordan Spieth / BMW Championship
+- **Key facts:** Spieth advanced from No. 54 FedExCup to inside top 50 after opening with bogey-free 65 in R1 at St. Jude; finished ~-6 alongside Tommy Fleetwood; 15th consecutive FedEx Playoffs year; no top-10 all 2026 regular season; Fox Sports BMW scorecard confirms Spieth in field; sources: Fox Sports, PGA Tour, CBS Sports bubble watch
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Spieth at Bellerive BMW; can he advance to Tour Championship?
+
+### STORY 4: Rory McIlroy Brutal St. Jude Week
+- **Tier:** 2
+- **Category:** PGA Tour / FedEx Cup Playoffs / Rory McIlroy
+- **Key facts:** McIlroy opened with 74 (+4) in R1 (Golf Channel headlined immediately); tough R3; finished near the bottom of 70-player field; was No. 12 FedExCup entering event — almost certainly advances to BMW; Heavy.com pre-R4 "Concerning Rory McIlroy News Emerges Before Final Round"; sources: Golf Channel, Sky Sports, Heavy.com
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** McIlroy at Bellerive — form questions; can he reset?
+
+### STORY 5: Three Events Next Week Preview
+- **Tier:** 2
+- **Category:** Golf Preview / BMW Championship / LIV Golf / LPGA
+- **Key facts:** BMW Championship at Bellerive CC St. Louis Aug 20-23 (first return since 2018 PGA Championship, top 50 advance); LIV Golf Indianapolis at Chatham Hills Golf Club Westfield Indiana; CPKC Women's Open Edmonton Alberta Canada $2.75M purse; all three events Aug 20-23; sources: PGA Tour, LIV Golf official, LPGA
+- **Status:** NEW
+- **Follow-up ideas:** First-round BMW coverage; LIV Indianapolis results; CPKC Women's Open day one
+
 ## 2026-08-15
 
 | Date | Tier | Story | Platforms | Status |

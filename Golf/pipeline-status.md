@@ -1,18 +1,27 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
-- **Date**: 2026-08-15
+- **Date**: 2026-08-16
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)
 - **X Posts:** 6 written, all under 280 characters
 - **Facebook Posts:** 5 stories, long-form + caption each
-- **Articles:** 5 (pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres)
-- **PostPlanner exports:** gfr-postplanner-2026-08-15.xlsx (6 posts) + gfr-postplanner-tobi-2026-08-15.xlsx (6 TOBI posts)
-- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-08-15/review-dashboard.html (21 items)
-- **Notes:** ST. JUDE R3 SATURDAY — Scheffler leads at 11-under (course-record 61 in R2: 5 birdies first 5 holes, 6 birdies in 7, 54 feet of putts), 3 shots over Im/Hovland entering R3; Fleetwood and Spieth both at -6; Spieth bogey-free 65 in R1 projects from 54th into top 50 FedExCup (BMW hope alive, 14th straight playoff year, no top-10 all season); McIlroy opened 4-over, 68th of 69, returned after skipping 2025 St. Jude, chasing 4th FedExCup title but fighting from bottom; LPGA Portland Classic R2: Yubol -12, Anannarukarn/Schubert -11, Thitikul -9; Megha Ganne LPGA debut; CPKC Women's Open next Aug 20-23 Edmonton $2.75M
+- **Articles:** 5 (pen names: Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway)
+- **PostPlanner exports:** gfr-postplanner-2026-08-16.xlsx (6 posts) + gfr-postplanner-tobi-2026-08-16.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-08-16/review-dashboard.html (16 items)
+- **Notes:** ST. JUDE FINAL — Sam Burns wins FedEx St. Jude Championship; Scheffler T-3 (confirmed NBC Sports), entered R4 with 2-shot lead but caddie Ted Scott left for family emergency Saturday night; PGA Tour chaplain Brad Payne flew in ~2am as fill-in caddie; Burns (Shreveport) entered R4 at T-2 after 62 in R3; JJ Spaun charged, fell short; LPGA PORTLAND CLASSIC — Akie Iwai wins at -24 (67-67-64-66) by 4 shots; twin sister Chisato T-3, sprayed champagne on 18th green; both Iwai twins won in rookie LPGA season (Chisato won Mayakoba May); SPIETH — bogey-free 65 R1, ~-6 at event end, advanced No. 54 to inside top 50, 15th straight FedEx Playoffs year; MCILROY — opened 74, tough week, almost certainly advances (was No. 12 FedExCup); next week: BMW at Bellerive CC St. Louis + LIV Indianapolis Chatham Hills + CPKC Women's Open Edmonton $2.75M (all Aug 20-23)
 - **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ## Pipeline Run Log
+
+### 2026-08-16
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway)
+- **PostPlanner exports:** gfr-postplanner-2026-08-16.xlsx (6 posts) + gfr-postplanner-tobi-2026-08-16.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-08-16/review-dashboard.html (16 items)
 
 ### 2026-08-15
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)

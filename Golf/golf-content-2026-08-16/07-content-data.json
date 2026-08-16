@@ -1,0 +1,268 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-16",
+  "compiled_at": "2026-08-16T11:42:15.791482+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 (Burns/St. Jude)",
+      "type": "X"
+    },
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 (Burns/St. Jude)",
+      "type": "Facebook"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2 (Iwai/Portland)",
+      "type": "X"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2 (Iwai/Portland)",
+      "type": "Facebook"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3 (Spieth/BMW)",
+      "type": "X"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3 (Spieth/BMW)",
+      "type": "Facebook"
+    },
+    {
+      "time": "3:30 PM",
+      "description": "Story 4 (McIlroy/St. Jude)",
+      "type": "X"
+    },
+    {
+      "time": "3:30 PM",
+      "description": "Story 4 (McIlroy/St. Jude)",
+      "type": "Facebook"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 1 (Burns/St. Jude)",
+      "type": "X"
+    },
+    {
+      "time": "8:30 PM",
+      "description": "Story 5 (Next Week)",
+      "type": "X"
+    },
+    {
+      "time": "8:30 PM",
+      "description": "Story 5 (Next Week)",
+      "type": "Facebook"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Sam Burns Wins FedEx St. Jude — Scheffler Falters with Fill-in Caddie",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Sam Burns wins the FedEx St. Jude Championship.\n\nScheffler entered Sunday with a 2-shot lead — but his regular caddie left for a family emergency. A PGA Tour chaplain flew in at 2am to loop for him.\n\nScheffler T-3. Burns wins. #PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour"
+          ],
+          "char_count": 235
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Scottie Scheffler's caddie Ted Scott left Saturday night for a family emergency.\n\nBrad Payne — the PGA Tour's chaplain — flew in at 2am and caddied for him in the final round of a $20M tournament.\n\nScheffler finished T-3. #PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-sam-burns-wins-st-jude-scheffler-fill-in-caddie.html",
+        "headline": "Sam Burns Wins the FedEx St. Jude Championship as Scheffler's Caddie Drama Unfolds",
+        "word_count": 659
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Akie Iwai Wins LPGA Portland Classic — Twin Sister Chisato Sprays Her with Champagne",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Akie Iwai wins the LPGA Portland Classic by 4 shots.\n\nHer twin sister Chisato finished T-3 — and then sprayed her with champagne on the 18th green.\n\nBoth Iwai twins have now won on the LPGA Tour in their rookie season. #LPGA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA"
+          ],
+          "char_count": 224
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-akie-iwai-portland-classic-twin-sister-champagne.html",
+        "headline": "Akie Iwai Wins the LPGA Portland Classic — Twin Sister Chisato Sprays Her with Champagne",
+        "word_count": 591
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Jordan Spieth Lives to Fight Another Day",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Jordan Spieth is going to the BMW Championship.\n\nHe opened with a bogey-free 65 at St. Jude. Advanced from No. 54 in FedExCup standings to inside the top 50.\n\nIt's his 15th consecutive FedEx Playoffs year. No top-10 all season. Still alive. #PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-spieth-15th-bmw-berth-fedexcup.html",
+        "headline": "Jordan Spieth Secures His 15th Consecutive FedEx Playoffs Berth at the BMW Championship",
+        "word_count": 513
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Rory McIlroy's Brutal St. Jude Week Ends",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Rory McIlroy opened with a 74 (+4) at the FedEx St. Jude.\n\nHe was No. 12 in the FedExCup entering the week — so he almost certainly advances to BMW.\n\nBut the form heading into Bellerive is deeply concerning. #PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-mcilroy-brutal-st-jude-week.html",
+        "headline": "Rory McIlroy's Brutal Week at the FedEx St. Jude Championship Is Over — BMW Still Waits",
+        "word_count": 550
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Three Events Next Week — BMW, LIV Indianapolis, CPKC Women's Open",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Three golf events next week. Same window (Aug 20–23).\n\nBMW Championship — Bellerive CC, St. Louis. First return since 2018. Top 50 only.\nLIV Golf Indianapolis — Chatham Hills, Westfield, Indiana.\nCPKC Women's Open — Edmonton. $2.75M purse.\n\nBig week ahead. #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Golf"
+          ],
+          "char_count": 262
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-bmw-liv-indianapolis-cpkc-preview.html",
+        "headline": "Three Major Golf Events Next Week: BMW Championship, LIV Indianapolis, and the CPKC Women's Open",
+        "word_count": 690
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
