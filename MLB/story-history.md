@@ -3,6 +3,65 @@
 This file tracks all stories covered by the MLB content pipeline.
 Each day's stories are appended at the top (newest first).
 
+## 2026-08-16
+
+### Story 1: White Sox 4, Tigers 3 — Series Sweep, AL Central Lead Season-Best 4.5 Games
+- **Date:** 2026-08-16
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Aug 15 was Game 1 recap; today = Game 2 sweep completion)
+- **Angle:** White Sox completed a series sweep at Comerica Park with a 4-3 win. Andrew Benintendi go-ahead single in the 7th. Chicago 64-58, season-best 4.5-game AL Central lead. 5-3 season series vs. Detroit. 22-13 vs. AL Central. Tigers fall to 60-62. From 41-121 in 2024 to AL Central leaders.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Game 3 result (Aug 17)
+  - AL Central lead trajectory through August
+  - White Sox clinch magic number tracking
+
+### Story 2: Yordan Alvarez HR No. 36 — 13-Game Drought Ends, Triple Crown Chase Alive
+- **Date:** 2026-08-16
+- **Tier:** 1
+- **Classification:** FOLLOW UP + NEW development (Aug 15 covered drought continuing; today = drought breaks with new Triple Crown narrative)
+- **Angle:** Alvarez hit solo HR off George Kirby on Aug 15 — first HR Kirby ever allowed to Astros hitter in 12 starts/255 PA. Astros won 10-7 in extras. Alvarez 2-for-4. He was spotted taking on-field BP (a rarity) before game. Slash: .323/.437/.626, 36 HR, 88 RBI. Triple Crown contention — MLB.com and Yahoo both running coverage. Last TC winner: Cabrera 2012.
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Alvarez HR No. 37 (ties Schwarber)
+  - Triple Crown race tracking through September
+  - AL RBI lead confirmation
+
+### Story 3: Misiorowski Beats Dodgers 4-1 — Ohtani K With Bases Loaded, Brewers Delay Next Start
+- **Date:** 2026-08-16
+- **Tier:** 2
+- **Classification:** FOLLOW UP + NEW development (prior coverage on Aug 15 was about the Dodger loss; today = Aug 15 start result was actually a WIN 4-1; also new: extra rest announcement)
+- **Angle:** Misiorowski won 4-1 on Aug 15. Key moment: bases loaded/one out/Ohtani up — struck out on slider/fastball/slider sequence (104.1 mph swinging strike). Season: 204 K in 133 IP, 2nd-fastest to 200K in MLB history (Strider 2022 was fastest). Cy Young odds ~-550. NEW: Brewers delaying next start to ~Aug 23 for extra rest.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Misiorowski next start (~Aug 23)
+  - Cy Young vote tracking
+  - Final season ERA/K totals
+
+### Story 4: MLB HR Race — Historically Tight, Alvarez Back In It
+- **Date:** 2026-08-16
+- **Tier:** 2
+- **Classification:** FOLLOW UP (ongoing race coverage; today = historic 1982 comparison angle)
+- **Angle:** Schwarber leads at 37, Alvarez at 36 (drought ended), Olson surging (5 HRs in first 9 games of August). Last time race was this bunched this late: Sept 8-9, 1982 (Thomas/Jackson/Murphy/Kingman all at 34). Caminero also in range.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - HR No. 40 milestones for any contender
+  - Daily race tracking
+  - September race analysis
+
+### Story 5: Cubs 72-51 — NL Wild Card Lead at 6 Games, Seeding Conversation Begins
+- **Date:** 2026-08-16
+- **Tier:** 3
+- **Classification:** FOLLOW UP (ongoing Wild Card coverage)
+- **Angle:** Cubs 72-51, Padres 66-57 (6 games back), D-backs 65-58. ~39 games left. Question shifts from "will they make it" to "who do they play and where." SI already running Wild Card Series matchup analysis. Cubs positioned to host at Wrigley with best record among NL WC teams.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Magic number tracking
+  - Padres/D-backs win streak threat scenarios
+  - Wild Card Series matchup preview
+
+---
+
 ## 2026-08-15
 
 ### Story 1: White Sox 9, Tigers 5 — AL Central Lead Grows to 3.5 Games (Series Game 1)

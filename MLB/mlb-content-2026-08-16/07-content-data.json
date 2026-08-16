@@ -1,0 +1,257 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-16",
+  "compiled_at": "2026-08-16T10:32:32.784893+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "White Sox Sweep Tigers at Comerica — AL Central Lead Reaches Season-Best 4.5 Games",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "White Sox 4, Tigers 3. Series sweep at Comerica. AL Central lead: season-best 4.5 games. Benintendi go-ahead single in the seventh. Chicago is 22-13 against AL Central opponents. This division has a new boss. #WhiteSox #GoGo #ALCentral",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox",
+            "#GoGo",
+            "#ALCentral"
+          ],
+          "char_count": 235
+        },
+        {
+          "label": "Post 1-2",
+          "text": "White Sox are 64-58. Season-best 4.5 game lead in the AL Central. 5-3 on the season vs. Detroit. 5 wins in their last 7. From 41-121 in 2024 to AL Central leaders in 2026. The turnaround is real. #WhiteSox #GoGo",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox",
+            "#GoGo"
+          ],
+          "char_count": 211
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-white-sox-sweep-tigers-al-central-lead-season-best.html",
+        "headline": "White Sox Sweep Tigers at Comerica — AL Central Lead Reaches Season-Best 4.5 Games",
+        "word_count": 536
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "White Sox Sweep Tigers\n\n**Image Concept 1A — Social (1080x1350)**\n- **Search term:** Andrew Benintendi White Sox\n- **Usage:** X post + FB image caption (8:00 AM)\n- **Concept:** Benintendi batting or celebrating hit. Overlay: \"Series Sweep • 4.5 Game Lead • AL Central\"\n- **Credit:** (USA TODAY Sports Images)\n- **Status:** not_started\n\n**Image Concept 1B — Social (1080x1350)**\n- **Search term:** White Sox Comerica Park 2026\n- **Usage:** FB post alternate\n- **Concept:** Team celebration or dugout action. Overlay: season-best lead statistic\n- **Credit:** (USA TODAY Sports Images)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Alvarez Snaps 13-Game HR Drought — Triple Crown Chase Back in Play",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Yordan Alvarez hit HR No. 36 off George Kirby on Saturday. It was the first homer Kirby had EVER allowed to an Astros hitter — across 12 starts and 255 plate appearances. 13-game drought over. Triple Crown chase back on. #Astros #YordanAlvarez",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Astros",
+            "#YordanAlvarez"
+          ],
+          "char_count": 243
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Yordan Alvarez: .323 BA. 36 HR. 88 RBI. He's now a legitimate Triple Crown contender — something no player has done since Miguel Cabrera in 2012. The August drought is over. The story is back. #Astros #YordanAlvarez #TripleCrown",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Astros",
+            "#YordanAlvarez",
+            "#TripleCrown"
+          ],
+          "char_count": 228
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-yordan-alvarez-hr-drought-triple-crown-chase.html",
+        "headline": "Alvarez Ends 13-Game HR Drought — And the Triple Crown Chase Is Back On",
+        "word_count": 576
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alvarez HR Drought-Breaker — Triple Crown\n\n**Image Concept 2A — Social (1080x1350)**\n- **Search term:** Yordan Alvarez Astros\n- **Usage:** X post + FB image caption (12:30 PM)\n- **Concept:** Alvarez home run swing or trot. Overlay: \"HR No. 36 • Drought Over • Triple Crown Chase\"\n- **Credit:** (USA TODAY Sports Images)\n- **Status:** not_started\n\n**Image Concept 2B — Social (1080x1350)**\n- **Search term:** Yordan Alvarez batting\n- **Usage:** FB post alternate\n- **Concept:** Alvarez at the plate, full follow-through. Overlay: \".323 BA • 36 HR • 88 RBI\"\n- **Credit:** (USA TODAY Sports Images)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Misiorowski Beats Dodgers 4-1 — Brewers Delay Next Start for Extra Rest",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Bases loaded. One out. Shohei Ohtani at the plate. Jacob Misiorowski went slider/fastball/slider — 104.1 mph swinging strike — and punched him out. Then got a popout to escape. Brewers win 4-1. He's otherworldly. #Brewers #Misiorowski",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#Misiorowski"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-misiorowski-dodgers-ohtani-k-extra-rest.html",
+        "headline": "Misiorowski Beats Dodgers 4-1 — Strikes Out Ohtani With Bases Loaded, Brewers Give Him Extra Rest",
+        "word_count": 546
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Misiorowski vs. Dodgers\n\n**Image Concept 3A — Social (1080x1350)**\n- **Search term:** Jacob Misiorowski Brewers\n- **Usage:** X post + FB image caption (10:00 PM)\n- **Concept:** Misiorowski pitching delivery. Overlay: \"204 K • 4-1 vs Dodgers • Cy Young -550\"\n- **Credit:** (USA TODAY Sports Images)\n- **Status:** not_started\n\n**Image Concept 3B — Social (1080x1350)**\n- **Search term:** Shohei Ohtani Dodgers batter\n- **Usage:** Illustrative for \"Misiorowski K'd Ohtani\" angle\n- **Concept:** Ohtani at bat. Contrast with Misiorowski story.\n- **Credit:** (USA TODAY Sports Images)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "MLB HR Race — Historically Tight, Alvarez Back In It",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The HR race is historically tight. Schwarber leads at 37. Alvarez just hit No. 36 to end a 13-game drought. Olson has 5 HRs in his last 9 games in August. The last time the chase was this bunched this late in a season: 1982. #MLB #HRRace",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#HRRace"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-mlb-hr-race-historically-tight-1982-comparison.html",
+        "headline": "The 2026 MLB Home Run Race Is Historically Tight — And It Just Got More Interesting",
+        "word_count": 564
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "MLB HR Race\n\n**Image Concept 4A — Social (1080x1350)**\n- **Search term:** Kyle Schwarber Phillies home run\n- **Usage:** X post + FB image caption (12:30 PM)\n- **Concept:** Schwarber home run swing or trot. Overlay: \"HR Race 2026 • Historically Tight\"\n- **Credit:** (USA TODAY Sports Images)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Cubs 72-51 — NL Wild Card Lead at 6 Games, Conversation Shifts to Seeding",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Cubs are 72-51. NL Wild Card lead: 6 games over the Padres. 39 games left. The question is no longer \"will they make it?\" The question is now \"who do they play?\" October is coming to Chicago. #Cubs #GoCubsGo #NLWildCard",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubsGo",
+            "#NLWildCard"
+          ],
+          "char_count": 219
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-cubs-wild-card-lead-six-games-conversation-shifts-october.html",
+        "headline": "Cubs at 72-51, Wild Card Lead at 6 — The Conversation Has Shifted to October",
+        "word_count": 561
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cubs Wild Card\n\n**Image Concept 5A — Social (1080x1350)**\n- **Search term:** Chicago Cubs Wrigley Field\n- **Usage:** X post + FB image caption (3:00 PM)\n- **Concept:** Cubs game action at Wrigley or team celebration. Overlay: \"72-51 • 6 Game Lead • October Is Coming\"\n- **Credit:** (USA TODAY Sports Images)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-08-16
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch + research agents, 5 stories verified HIGH/MEDIUM confidence), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations — all ≤280), FB posts (5 stories), image concepts (7 items; imagn source), image manifest (10 entries, not_started), articles (5), fact-check (21 claims; verify-facts.py ran; claim-patterns.py missing known), compile (5 stories, 7 tweets, 0 FB posts — format known, 5 articles, 5 images), dashboard (22 items), PostPlanner exports (0 posts — format known). WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard publish push failed (proxy known restriction). IMAGE NOT STARTED (manifest recognized but images not yet produced in Canva). claim-patterns.py missing (known). PostPlanner: 0 posts compiled (format known). 0 char violations.
+- **Key Stories**: White Sox 4 Tigers 3 series sweep/Benintendi go-ahead 7th inning/AL Central lead season-best 4.5 games/64-58/22-13 vs division (Tier 1 FOLLOW UP), Alvarez HR No. 36 ends 13-game drought/first HR Kirby allowed to Astros hitter in 12 starts/Triple Crown chase .323 BA+88 RBI/Cabrera 2012 last TC (Tier 1 FOLLOW UP + NEW), Misiorowski beats Dodgers 4-1/Ohtani K bases loaded 104mph/Brewers delay next start to Aug 23/204K in 133 IP/Cy Young -550 (Tier 2 FOLLOW UP), HR race historically tight/Schwarber 37+Alvarez 36+Olson surge/1982 comparison (Tier 2 FOLLOW UP), Cubs 72-51/NL WC lead 6 games/39 left/seeding conversation begins (Tier 3 FOLLOW UP)
+
+## Last Run
 - **Date**: 2026-08-15
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch + research agents, 5 stories verified HIGH/MEDIUM confidence), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations — all ≤280), FB posts (5 stories), image concepts (6 items; imagn source), image manifest (6 items, not_started), articles (5), fact-check (37 claims; verify-facts.py ran; claim-patterns.py missing known), compile (5 stories, 6 tweets, 0 FB posts — format known, 5 articles, 6 images), dashboard (21 items), PostPlanner exports (0 posts — format known). WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
