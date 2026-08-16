@@ -1,0 +1,328 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-16",
+  "compiled_at": "2026-08-16T11:31:20.032090+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 2 (Dutch GP Preview)",
+      "type": "X"
+    },
+    {
+      "time": "8:00 AM",
+      "description": "Story 2 (Dutch GP Preview)",
+      "type": "Facebook"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "Story 4 (Ferrari upgrades)",
+      "type": "X"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "Story 4 (Ferrari upgrades)",
+      "type": "Facebook"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 1 (Verstappen)",
+      "type": "X"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 1 (Verstappen)",
+      "type": "Facebook"
+    },
+    {
+      "time": "2:00 PM",
+      "description": "Story 3 (Antonelli)",
+      "type": "X"
+    },
+    {
+      "time": "2:00 PM",
+      "description": "Story 3 (Antonelli)",
+      "type": "Facebook"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 1 (Verstappen)",
+      "type": "X"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 5 (Silly Season)",
+      "type": "X"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 5 (Silly Season)",
+      "type": "Facebook"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 2 (Dutch GP Preview)",
+      "type": "X"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Verstappen Exit Clause — Dutch GP Is the Expected Announcement Moment",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "F1 insider today: Verstappen's bond with Red Bull is \"broken.\"\n\nRed Bull made a fresh contract offer. No response.\n\nThe exit clause is active through October. Dutch GP is in 5 days. Zandvoort has always been his home. This could be where he says goodbye. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 258
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Max Verstappen on his F1 future: \"There's nothing to say.\"\n\nHe's said it twice now.\n\nThe exit clause window closes in October. McLaren is the frontrunner. The Dutch GP in 5 days is his last home race at Zandvoort — and the most logical stage for an announcement. #F1 #DutchGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#DutchGP"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-verstappen-exit-clause-dutch-gp-announcement.html",
+        "headline": "Verstappen's Bond with Red Bull Is \"Broken\" — and the Dutch GP Is Five Days Away",
+        "word_count": 578
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Exit Clause — Dutch GP\n\n**Concept 1 — Social (1080x1350)**\n- **Type:** Social image\n- **Imagn search:** \"Max Verstappen Red Bull Racing\"\n- **Art direction:** Verstappen in Red Bull livery, intense or contemplative moment. Text overlay: \"BROKEN BOND\" in bold red. Subtext: \"THE EXIT CLAUSE IS TICKING.\"\n- **Credit:** (USA TODAY Sports Images)\n\n**Concept 2 — Article Hero (1200x630)**\n- **Type:** Article hero\n- **Imagn search:** \"Max Verstappen Red Bull Racing\"\n- **Art direction:** Verstappen in cockpit or paddock, landscape orientation — pensive, forward-looking.\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen Exit Clause\n**[HIGH]** Exit clause is currently ACTIVE. It triggered automatically because Verstappen couldn't finish top-2 in the championship after the first half. He sits 6th with approximately 109 points.\n**[HIGH]** Clause window runs August through October 2026.\n**[HIGH]** No formal decision has been announced. Verstappen said only \"There's nothing to say\" when publicly pressed — twice.\n**[HIGH]** Dutch GP at Zandvoort (Aug 21-23) is universally cited as natural announcement point — his \"last home race\" and the emotional setting.\n**[HIGH]** Factories reopen August 17 (tomorrow). Expect wave of news through Dutch GP week.\n**[MEDIUM]** McLaren is the most-discussed destination. Multiple sources (ESPN, Planet F1, RacingNews365) report talks advancing. However, ESPN sources described McLaren rumours as \"wide of the mark.\"\n**[MEDIUM]** An F1 insider (GPFans Aug 16) claims Verstappen's bond with Red Bull is \"broken.\" Red Bull made a fresh contract offer with no response from Verstappen.\n**[MEDIUM]** Mercedes listed as second major destination option. Both Mercedes 2027 seats officially listed as \"not 100% confirmed\" by F1.\n**[HIGH]** Red Bull gets no compensation if clause is triggered.",
+        "sources": "Sources: GPFans Transfer Roundup Aug 16, ESPN, RacingNews365, Planet F1."
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Dutch GP Final Edition Preview — 5 Days, First Sprint, Last Zandvoort Race",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "5 days to the last-ever Dutch GP at Zandvoort.\n\nIt's also the first-ever F1 Sprint at Zandvoort — one practice session, then straight to sprint qualifying.\n\nZero 2026-car setup data. 85% rain Sunday. This is the most unpredictable race weekend of the year. #DutchGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#DutchGP",
+            "#F1"
+          ],
+          "char_count": 269
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Max Verstappen just unveiled his \"Timeless\" helmet for his final home race at Zandvoort.\n\nBlue and white Delft ceramics. Intricate florals. A lion on top.\n\nHe called it \"traditional and beautiful.\" He called Zandvoort his \"final race here.\" The farewell tour is real. #DutchGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#DutchGP",
+            "#F1"
+          ],
+          "char_count": 280
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-dutch-gp-preview-final-zandvoort-sprint.html",
+        "headline": "Five Days to the Last-Ever Dutch GP: A Sprint Weekend, a Farewell Race, and 85% Rain",
+        "word_count": 606
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Dutch GP Final Edition\n\n**Concept 1 — Social (1080x1350)**\n- **Type:** Social image\n- **Imagn search:** \"Max Verstappen Zandvoort\"\n- **Art direction:** Verstappen racing at Zandvoort, Dutch fans visible in background. Text overlay: \"THE FINAL LAP\" in bold orange. Subtext: \"LAST DUTCH GP · ZANDVOORT · AUG. 21-23\"\n- **Credit:** (USA TODAY Sports Images)\n\n**Concept 2 — Article Hero (1200x630)**\n- **Type:** Article hero\n- **Imagn search:** \"Zandvoort Formula 1 circuit\"\n- **Art direction:** Circuit action or grandstand shot, landscape orientation. Final race farewell feel.\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Dutch GP Preview\n**[HIGH]** Dutch GP August 21-23 at Zandvoort — 5 days away from today.\n**[HIGH]** This is the FINAL Dutch GP at Zandvoort. Promoter confirmed no renewal beyond 2026.\n**[HIGH]** First-ever Sprint weekend at Zandvoort circuit.\n**[HIGH]** Sprint format means only ONE practice session before sprint qualifying — extremely challenging for setup.\n**[HIGH]** 2026 F1 cars (350kW electrical power, no MGU-H, active aero) have ZERO Zandvoort data under current regulations.\n**[MEDIUM]** 85% rain forecast for Sunday race day (Sky Sports).\n**[HIGH]** Verstappen unveiled \"Timeless\" Delftware helmet on August 14 — blue/white ceramics inspired by Delft pottery, intricate florals, lion logo integrated. Verstappen: \"One of my race wins came with a painted tile trophy like this... instead of going orange again, I wanted something unique for our final race here.\"\n**[HIGH]** Verstappen called Zandvoort his \"last home race\" — generating emotional resonance in Dutch media.",
+        "sources": "Sources: Sky Sports, GPBlog, Autosport1.com, GPFans, Motorsport.com."
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Antonelli Championship Math — 50 Points Clear, 12 Rounds Remain",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Kimi Antonelli leads the 2026 F1 championship by 50 points.\n\n12 rounds remain. 316 points available.\n\nHe's the youngest championship leader in F1 history at 19 years old. Formula1.com just put the math on how his lead compares to past champions. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-antonelli-championship-math-50-points-12-rounds.html",
+        "headline": "Antonelli's Championship Math: 50 Points, 12 Rounds, and a Historical Comparison That Favors Him",
+        "word_count": 574
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli Championship Math\n\n**Concept 1 — Social (1080x1350)**\n- **Type:** Social image\n- **Imagn search:** \"Kimi Antonelli Mercedes Formula 1\"\n- **Art direction:** Antonelli in Mercedes livery, celebrating or focused. Text overlay: \"+50 POINTS\" in bold. Subtext: \"12 ROUNDS · 316 POINTS LEFT / ANTONELLI 219 / HAMILTON 169\"\n- **Credit:** (USA TODAY Sports Images)\n\n**Concept 2 — Article Hero (1200x630)**\n- **Type:** Article hero\n- **Imagn search:** \"Kimi Antonelli Mercedes Formula 1\"\n- **Art direction:** Antonelli at speed or on podium, landscape orientation.\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli Championship Math\n**[HIGH]** Championship standings after Round 11 (Hungarian GP): Antonelli 219 / Hamilton 169 / Russell 160. Verstappen approximately 6th at ~109 pts.\n**[HIGH]** Antonelli's lead: 50 points over Hamilton, 59 over Russell.\n**[HIGH]** 12 rounds remain (12 GPs + 2 Sprint races) = 316 driver points available.\n**[HIGH]** Antonelli has 6 wins, 6 poles, 9 podiums in 11 races.\n**[HIGH]** At 19 years and 216 days, Antonelli is the youngest championship leader in F1 history.\n**[HIGH]** Mercedes Constructors leads at 379 points; Ferrari second at approximately 307 (72-point gap).\n**[HIGH]** Formula1.com published \"In Numbers\" piece comparing Antonelli's advantage to previous championship-winning seasons. Described as statistically significant.",
+        "sources": "Sources: Formula1.com (In Numbers article), Motorsport.com, multiple championship tracking sources."
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Ferrari's Two-Phase Upgrade Plan — New Chassis at Zandvoort, ADUO-2 at Monza",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Ferrari's 2026 second-half upgrade plan is now mapped:\n\n🔧 Zandvoort: All-new chassis + floor for Hamilton\n🔧 Monza: ADUO-2 engine (+15hp, +0.2s/lap)\n🔧 Singapore: Both combined\n\nVasseur: can't fully close the power gap to Mercedes. But this is Ferrari's best shot. #F1 #DutchGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#DutchGP"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-ferrari-chassis-floor-zandvoort-aduo2-monza.html",
+        "headline": "Ferrari's Second-Half Plan Is Now Mapped: New Chassis at Zandvoort, ADUO-2 Engine at Monza",
+        "word_count": 621
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ferrari Two-Phase Upgrades\n\n**Concept 1 — Social (1080x1350)**\n- **Type:** Social image\n- **Imagn search:** \"Lewis Hamilton Ferrari Formula 1\"\n- **Art direction:** Hamilton in Ferrari red, intense race moment or paddock shot. Text overlay: \"ADUO-2 / +15HP MONZA\" in bold. Subtext: \"NEW CHASSIS ZANDVOORT → ENGINE MONZA → BOTH SINGAPORE\"\n- **Credit:** (USA TODAY Sports Images)\n\n**Concept 2 — Article Hero (1200x630)**\n- **Type:** Article hero\n- **Imagn search:** \"Lewis Hamilton Ferrari\"\n- **Art direction:** Hamilton in Ferrari cockpit or technical discussion, landscape orientation.\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Ferrari Upgrades\n**[HIGH]** Lewis Hamilton receives an all-new chassis at Zandvoort.\n**[HIGH]** Ferrari also bringing significant floor evolution at Zandvoort — fast-tracked after engineers identified improvements from Austrian and British GP data comparison.\n**[HIGH]** ADUO-2 engine upgrade is NOT coming to Zandvoort. Reserved for Monza (Sept 4-6).\n**[HIGH]** ADUO-2 specifics: completely redesigned turbocharger, same impeller diameter but revised blade count/angle and advanced materials. Power gain: +15 horsepower over current spec.\n**[HIGH]** Ferrari simulations project ADUO-2 worth approximately +0.2 seconds per lap at Monza.\n**[HIGH]** Fred Vasseur publicly stated ADUO-2 will help but ruled out fully closing the gap to Mercedes on power this season.\n**[HIGH]** Ferrari's unusual engine strategy: Zandvoort (aero/chassis) → Monza (engine ADUO-2) → Singapore (combined both).\n**[HIGH]** ADUO-1 debuted at Austrian GP earlier this season: modest +7-8 horsepower gain.",
+        "sources": "Sources: GPFans, Scuderia Fans, MotorBiscuit, F1 Oversteer, Motorsport.com, F1-fansite.com."
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "F1 Silly Season Explodes — 14 of 20 2027 Seats Still Unconfirmed",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "GPFans today: 14 of 20 F1 seats for 2027 are STILL unconfirmed.\n\nVerstappen: no answer on his exit clause.\nSainz: in \"final stages\" with Williams.\nBortoleto: confirmed Audi long-term.\n\nFactories reopen tomorrow. This week is going to be loud. #F1 #Sillseason",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Sillseason"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-f1-silly-season-14-seats-verstappen-sainz-bortoleto.html",
+        "headline": "F1 Silly Season Reaches Peak Chaos: 14 of 20 2027 Seats Are Still Open",
+        "word_count": 600
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "F1 Silly Season\n\n**Concept 1 — Social (1080x1350)**\n- **Type:** Social image\n- **Imagn search:** \"Carlos Sainz Williams Formula 1\"\n- **Art direction:** Sainz in Williams livery if available, or paddock shot. Text overlay: \"14 SEATS OPEN\" in bold. Subtext: \"THE VERSTAPPEN DOMINO IS STILL FALLING / F1 SILLY SEASON 2026\"\n- **Credit:** (USA TODAY Sports Images)"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "F1 Silly Season\n**[HIGH]** GPFans published August 16 Transfer Roundup headlined: \"Verstappen McLaren warning, Audi statement and FOURTEEN seats still open.\"\n**[HIGH]** 14 of 20 2027 F1 race seats are not yet 100% confirmed — \"remarkably unsettled grid\" per sources. Driven primarily by the Verstappen domino effect.\n**[MEDIUM]** Carlos Sainz in \"final stages of negotiations with Williams for a new one-year contract\" for 2027. Source: Spanish outlet Marca, cited by GPFans Aug 16.\n**[HIGH]** Gabriel Bortoleto clarified his Audi contract runs \"long-term\" through at least 2028. Quiets rumours linking him to McLaren and others.\n**[HIGH]** George Russell announced engagement to Carmen Montero Mundt during summer break (announced approximately August 9). Ring: oval yellow diamond.\n**[HIGH]** Lewis Hamilton confirmed on Ferrari contract through at least 2027 (third year at Ferrari, confirmed at Canadian GP).\n**[HIGH]** Lando Norris confirmed at McLaren through at least end of 2027.\n**[MEDIUM]** Both Mercedes 2027 seats listed as \"not 100% confirmed\" for 2027 per official F1.",
+        "sources": "Sources: GPFans Aug 16 Transfer Roundup, Marca (via GPFans), F1 official, JustJared, Motorsport.com."
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

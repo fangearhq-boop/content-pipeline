@@ -1,6 +1,18 @@
 # F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
+- **Date**: 2026-08-16
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters (Story 3 tweet fixed: 288→254 after verify-facts)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole)
+- **PostPlanner exports:** f1fr-postplanner-2026-08-16.xlsx (7 posts) + f1fr-postplanner-tobi-2026-08-16.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-08-16/review-dashboard.html (22 items)
+- **Notes:** VERSTAPPEN EXIT CLAUSE — GPFans Aug 16 insider: bond with Red Bull "broken"; Red Bull made fresh offer no response; McLaren frontrunner (ESPN says "wide of mark"); clause active Aug-Oct; Dutch GP in 5 days "last home race"; DUTCH GP FINAL — Aug 21-23 Zandvoort farewell; first-ever Sprint at circuit (1 practice, zero 2026 car data); 85% rain Sunday; Verstappen "Timeless" Delftware helmet (Aug 14); factories reopen Aug 17; ANTONELLI MATH — 219/169/160; 50pt lead; 12 rounds/316pts remain; youngest championship leader ever (19y 216d); FERRARI UPGRADES — new chassis + floor at Zandvoort; ADUO-2 saved for Monza (+15hp +0.2s); three-phase plan; SILLY SEASON — 14 of 20 2027 seats unconfirmed; Sainz "final stages" Williams; Bortoleto Audi 2028+; Russell engaged (Aug 9)
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+### 2026-08-15
 - **Date**: 2026-08-15
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)

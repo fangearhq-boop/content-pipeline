@@ -5409,3 +5409,44 @@
 - **Key facts:** Bearman 18 pts vs. Ocon 3 pts through 7 races; Yahoo Sports: 2027 shortlist narrowed to 2 names; Ryo Hirakawa given FP1 time at Hungarian GP; Ocon replaced for Austrian GP FP1; GPFans: "Haas to make driver lineup change at Hungarian GP" (Bearman/Hirakawa); Ocon 2nd season at Haas, 10-year F1 veteran
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** 2027 lineup announcement; Hirakawa confirmation; Ocon second-half results
+
+| 2026-08-16 | T1 | Verstappen Exit Clause — Dutch GP Is the Expected Announcement Moment | X, FB, Article | FOLLOW UP |
+| 2026-08-16 | T1 | Dutch GP Final Edition Preview — 5 Days, First Sprint, Last Zandvoort Race | X, FB, Article | FOLLOW UP |
+| 2026-08-16 | T2 | Antonelli Championship Math — 50 Points Clear, 12 Rounds Remain | X, FB, Article | FOLLOW UP |
+| 2026-08-16 | T2 | Ferrari's Two-Phase Upgrade Plan — New Chassis at Zandvoort, ADUO-2 at Monza | X, FB, Article | FOLLOW UP |
+| 2026-08-16 | T2 | F1 Silly Season Explodes — 14 of 20 2027 Seats Still Unconfirmed | X, FB, Article | NEW |
+
+### STORY 1: Verstappen Exit Clause — Dutch GP Announcement
+- **Tier:** 1
+- **Category:** F1 Driver News / Max Verstappen / Red Bull Racing
+- **Key facts:** Exit clause active Aug-Oct; Verstappen 6th ~109 pts; GPFans Aug 16 insider: bond with Red Bull "broken"; Red Bull made fresh offer, no response; McLaren frontrunner (ESPN sources say "wide of the mark"); Mercedes linked; 14 seats domino; Dutch GP (5 days) his "last home race"; no announcement yet
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Announcement at Dutch GP; confirmation of destination; Red Bull replacement search
+
+### STORY 2: Dutch GP Final Edition Preview
+- **Tier:** 1
+- **Category:** F1 Race Preview / Dutch Grand Prix / Zandvoort
+- **Key facts:** Aug 21-23, final Dutch GP at Zandvoort (promoter confirmed no renewal); first-ever Sprint at circuit (1 practice before SQ); 2026 cars have zero Zandvoort data; 85% rain Sunday (Sky Sports); Verstappen "Timeless" Delftware helmet (blue/white ceramics, Aug 14); factories reopen Aug 17
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Sprint result; qualifying; race result
+
+### STORY 3: Antonelli Championship Math
+- **Tier:** 2
+- **Category:** F1 Championship / Kimi Antonelli / Mercedes
+- **Key facts:** 219/169/160 after R11; 50pt lead over Hamilton; 59pt lead over Russell; 12 rounds remain (316 pts available); 19y 216d youngest championship leader in F1 history; 6 wins 6 poles 9 podiums; Mercedes Constructors 379-307 Ferrari; Formula1.com "In Numbers" piece published
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Dutch GP championship result; Ferrari upgrades impact; title race mid-season analysis
+
+### STORY 4: Ferrari Two-Phase Upgrade Plan
+- **Tier:** 2
+- **Category:** F1 Technical / Ferrari / Lewis Hamilton
+- **Key facts:** All-new chassis + significant floor evolution at Zandvoort (fast-tracked from Silverstone data); ADUO-2 NOT at Zandvoort — saved for Monza: +15hp, +0.2s/lap; Vasseur: can't close full gap to Mercedes; strategy: Zandvoort (aero) → Monza (engine) → Singapore (combined); ADUO-1 was +7-8hp
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Zandvoort chassis performance; Monza ADUO-2 lap times; Singapore combined package
+
+### STORY 5: F1 Silly Season — 14 Seats Open
+- **Tier:** 2
+- **Category:** F1 Silly Season / Driver Transfers
+- **Key facts:** GPFans Aug 16: 14 of 20 2027 seats unconfirmed; Sainz in "final stages" with Williams (new 1yr deal); Bortoleto confirmed Audi long-term (through 2028+); Russell engaged to Carmen Montero Mundt (Aug 9, oval yellow diamond); Hamilton confirmed Ferrari 2027; Norris confirmed McLaren 2027+; both Mercedes 2027 seats "not 100% confirmed"
+- **Status:** NEW
+- **Follow-up ideas:** Verstappen announcement; Sainz-Williams confirmation; Mercedes seat resolution
