@@ -5,6 +5,60 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-16
+
+### STORY 1: Joshua Báez Historic MLB Debut — Game 2 Recap
+- **Angle:** NEW STORY (Cardinals 8, Cubs 4 on Aug 15; Joshua Báez became the first player in MLB history to homer in his first three career at-bats — 449 ft, 382 ft, 368 ft — with 30 family members at Wrigley; no score per has_score=False insight; lead with history not scoreline)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game recap/informative)
+- **Follow-Up Opportunities:**
+  - Game 3 result recap (Aug 17 7:00 AM)
+  - Báez follow-up performance in upcoming Cardinals games
+
+### STORY 2: Cabrera Returns — Series Decider at 2:15 PM CT
+- **Angle:** NEW STORY (Cabrera (5-4, 5.10 ERA) returns from IL for deciding Game 3 at Wrigley, ABC national broadcast; first MLB start since June 24 hamstring/adductor strain; 9 scoreless rehab innings, 15 Ks; poetic comeback spot)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, preview/bold hype)
+- **Follow-Up Opportunities:**
+  - Cabrera Game 3 performance recap (Aug 17 morning)
+  - Cabrera next start tracking through September
+  - Rotation depth update
+
+### STORY 3: PCA MVP / 30-30 Chase — Three HRs from History
+- **Angle:** FOLLOW UP (last covered Aug 15 with Bregman MVP endorsement; today's fresh peg = "3 HRs from back-to-back 30-30" countdown frame; 27 HR, 30 SB, MLB-best fWAR)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, stat breakdown/bold)
+- **Follow-Up Opportunities:**
+  - PCA 30th HR milestone watch
+  - September MVP race coverage
+  - Ohtani response / NL MVP ballot finalists
+
+### STORY 4: Cardinals Wild Card Reality Check — Báez Debut Can't Mask the Record
+- **Angle:** NEW STORY (Báez debut fresh peg; Cardinals 62-61, 3 GB from WC3 D-backs; sold Dustin May + JoJo Romero at deadline; Báez is a building block, not an October ticket; sharp rival jab after Game 2 loss)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, rival analysis/jab)
+- **Follow-Up Opportunities:**
+  - Cardinals Wild Card elimination watch as September approaches
+  - Báez sophomore tracking in 2027
+
+### STORY 5: Cubs Rotation Depth — Why Cabrera's Return Matters Beyond Today
+- **Angle:** NEW STORY (connects Cabrera return to broader injury picture: Horton TJ, Miller TJ, Harvey 60-day IL; Cabrera's 9 scoreless rehab innings = genuine rotation piece for September stretch run)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, informative/analytical)
+- **Follow-Up Opportunities:**
+  - Palencia activation watch (rehabbing elbow)
+  - Harvey return timeline when bullpen session develops
+  - September rotation depth update
+
+### STORY 6: Pre-Game Hype — Series Decider at Wrigley on ABC
+- **Angle:** NEW STORY (series tied 1-1, 2:15 PM CT first pitch, ABC national TV, Cabrera on the mound; game-day energy 60 min before first pitch)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, bold/fan energy)
+- **Follow-Up Opportunities:**
+  - Game 3 result (Aug 17 recap)
+
+---
+
 ## 2026-08-15
 
 ### STORY 1: Cubs Shut Out Cardinals in Game 1 — Holmes, Suzuki Deliver

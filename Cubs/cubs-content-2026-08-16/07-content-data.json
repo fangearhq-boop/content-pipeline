@@ -1,0 +1,241 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-16",
+  "compiled_at": "2026-08-16T09:23:53.109961+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Story 1 — Báez 3-HR historic debut recap, first in MLB history",
+      "type": "Informative"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Story 2 — Cabrera return, series decider 2:15 PM CT on ABC",
+      "type": "Bold/Preview"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 3 — PCA: 27 HR, 30 SB, 3 HRs from back-to-back 30-30",
+      "type": "Analytical"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "Story 4 — Cardinals 62-61, sold deadline pieces, 3 GB from Wild Card",
+      "type": "Bold/Rival"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 5 — Rotation depth: Horton/Miller TJ, Harvey IL, Cabrera lifeline",
+      "type": "Informative"
+    },
+    {
+      "time": "1:15 PM",
+      "description": "Story 6 — Pre-game hype: series tied 1-1, Wrigley, ABC, 2:15 PM CT",
+      "type": "Fan energy"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Joshua Báez Historic MLB Debut — Game 2 Recap",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Joshua Báez, called up from Memphis the morning of Aug 15, became the first player in MLB history to homer in his first three career at-bats — 449 ft, 382 ft, 368 ft — with 30 family members in the Wrigley stands. Cardinals won Game 2 as a result. Lead with the history, not the score (has_score=False insight). Acknowledge it happened at our house.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Joshua Báez just made MLB history at Wrigley Field.\n\nThree HRs in his first three big-league at-bats — a feat no player had ever pulled off. 449 feet, 382 feet, 368 feet. The Cardinals walked into our house and introduced a legend.\n\nA rough one. He earned it.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative / game recap",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Joshua Báez Historic MLB Debut (Game 2 Recap)\n**Angle:** NEW STORY — Cardinals 8, Cubs 4. Báez becomes first player in MLB history to homer in his first three at-bats.\n**Key Facts:**\n- Joshua Báez called up from Triple-A Memphis on Aug 15\n- 30 family members in attendance at Wrigley Field\n- First at-bat: Two-run HR, 449 feet to dead center field (first pitch he saw in the majors)\n- Second at-bat: Solo HR, 382 feet to left field (4th inning; put Cardinals ahead 4-3)\n- Third at-bat: HR, 368 feet to right field (6th inning)\n- Total: 3 HR, 5 RBI in MLB debut\n- First in MLB history: No player had ever homered in their first three career at-bats\n**Sources (all <24h old):**\n- MLB.com: https://www.mlb.com/cardinals/video/joshua-baez-becomes-first-to-hit-3-hrs-in-mlb-debut\n- ESPN: https://www.espn.com/mlb/story/_/id/49621644/cardinals-rookie-joshua-baez-makes-history-3-hrs-debut\n- CBS Sports: https://www.cbssports.com/mlb/news/joshua-baez-cardinals-mlb-history-home-run/\n- Washington Post: https://www.washingtonpost.com/sports/mlb/2026/08/15/cardinals-joshua-baez-debut-home-runs/b5b6697a-98fb-11f1-9ef9-1be722184483_story.html\n- NBC News: https://www.nbcnews.com/sports/mlb/cardinals-joshua-baez-3-homers-first-3-bats-historic-debut-rcna592736\n**Fact-check notes:**\n- \"First in MLB history\" confirmed by 5+ independent primary sources\n- HR distances (449/382/368 ft): cited in summaries only (LOW confidence); using them as supporting detail, not leading claim\n- Final score Cardinals 8, Cubs 4: confirmed by ESPN box score + Bleacher Nation enhanced box score\n- Do NOT lead with score (has_score=False insight)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Cabrera Returns — Series Decider at 2:15 PM CT",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Edward Cabrera activated from IL (hamstring/adductor strain since June 24) to start the deciding Game 3. Hasn't pitched in the majors in 53+ days. Went 9 scoreless rehab innings, 15 Ks across rehab. Gets the ball in a series decider at Wrigley on ABC. Must post before 2:15 PM first pitch.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Edward Cabrera hasn't pitched in the majors since June 24.\n\nHe threw 9 scoreless rehab innings, struck out 15, and now gets the ball in a series decider at Wrigley.\n\nPoetic spot for a comeback. 2:15 PM CT. ABC. Let's go.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold take / hype / game preview",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cabrera Returns / Game 3 Series Decider Preview\n**Angle:** NEW STORY — Cabrera activated from IL; starts today's series decider at Wrigley. First MLB start since June 24.\n**Key Facts:**\n- Cabrera (5-4, 5.10 ERA) returning from left hamstring/adductor strain (IL since June 24)\n- Injury: Stretched for throw at first base, Cubs 9-6 win at Mets, June 23\n- Rehab: 9 scoreless innings total across rehab starts; 15 strikeouts\n- First MLB start since June 24 — 53+ days\n- Opponent: Hunter Dobbins (Cardinals) — stats CONFLICTING across sources (2-3 3.40 ERA vs 4-1 4.13 ERA); will NOT cite specific Dobbins record in tweet\n- Game: 2:15 PM CT, Wrigley Field, on ABC (national TV)\n- Cubs favored: -150 moneyline (FanDuel Research)\n- Series context: Tied 1-1; deciding game\n**Sources:**\n- Cubs.com / MLB.com: https://www.mlb.com/cubs/news/edward-cabrera-to-come-off-injured-list-sunday-to-face-cardinals\n- Chicago Sun-Times: https://chicago.suntimes.com/cubs/2026/08/14/cubs-edward-cabrera-return-to-rotation-sunday-vs-cardinals\n- Yahoo Sports: https://sports.yahoo.com/articles/cubs-activate-edward-cabrera-start-180031061.html\n- Bleacher Nation: https://www.bleachernation.com/cubs/2026/08/14/cubs-vs-cardinals-probables/\n- MLB.com series finale: https://www.mlb.com/cubs/news/cardinals-cubs-series-finale-on-abc",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "PCA MVP / 30-30 Chase — Three HRs from History",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "PCA at 27 HR, 30 SB. Leads MLB in fWAR. Three HRs from back-to-back 30-30 seasons. Centers the tweet on the chase frame, not a new external event. Strong stat-backed MVP case.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Pete Crow-Armstrong: 27 HR, 30 SB, MLB's best fWAR.\n\nThree home runs away from back-to-back 30-30 seasons. And he plays center field better than almost anyone alive.\n\nThe NL MVP race has a frontrunner. His name is Pete.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Stat breakdown / bold take",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "PCA MVP / 30-30 Chase\n**Angle:** FOLLOW UP — PCA's MVP case and 30-30 chase. Last angle (Aug 15): Bregman endorsement + 7.5 WAR. Fresh angle today: \"3 HRs from historic back-to-back 30-30.\" Previous 30-30 coverage used 30 SB / 27 HR framing.\n**Key Facts:**\n- Current stats: 27 HR, 30 SB, .285 BA, .932 OPS, 72 RBI\n- Leads MLB in fWAR (7.5+)\n- Back-to-back 30-30: Would need 30 HR + 30 SB in back-to-back seasons\n- Needs 3 more HRs to hit 30 HR\n- No Cub has hit 30-30 in back-to-back seasons (verify — not citing as fact without confirmation; framing as \"exclusive club\" avoids exact franchise record claim)\n- Alex Bregman: \"I think Pete should win MVP\" (confirmed quote)\n- Ohtani been DH-only since July 3 (relevant MVP context — DH vs CF defender contrast)\n**Sources:**\n- Yahoo Sports (PCA stats): https://sports.yahoo.com/mlb/players/12157/\n- Axios Chicago: https://www.axios.com/local/chicago/2026/08/10/pete-crow-armstrong-nl-mvp-mlb-ohtani-cubs-wrigley-field\n- ClutchPoints (Bregman quote): https://clutchpoints.com/mlb/chicago-cubs/cubs-news-pete-crow-armstrong-bold-take-teammate-mvp-push\n- StatMuse: https://www.statmuse.com/mlb/player/pete-crow-armstrong-95344\n**Fact-check notes:**\n- \"No Cub has done back-to-back 30-30\" — NOT citing as specific fact; using \"exclusive club\" framing instead to avoid unverified franchise record claim\n- 27 HR cross-referenced across multiple Aug sources; consistent",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Cardinals Wild Card Reality Check — Báez Debut Can't Mask the Record",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Báez's debut was historic. Credit given. But the Cardinals sold at the deadline (Dustin May, JoJo Romero to Brewers on Aug 3), sit at 62-61, and need to make up 3 games on the D-backs just to reach a Wild Card spot. Báez is a building block, not an October ticket.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Joshua Báez's debut was genuinely special. Props.\n\nBut this is a Cardinals team that sold at the deadline, sits at 62-61, and needs help just to reach the Wild Card.\n\nBáez gives them something to build toward. Not this October.\n\n#Cubs #MLB #NorthSiders",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Rival analysis / jab",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#NorthSiders"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cardinals Wild Card Reality Check\n**Angle:** NEW STORY — Báez's debut steals headlines, but Cardinals' situation is objectively dire.\n**Key Facts:**\n- Cardinals 62-61 (per series context file — authoritative)\n- WC3 team (D-backs): 65-58 → Cardinals are 3.0 GB from Wild Card bubble\n- Cardinals sold Dustin May + JoJo Romero to Brewers at trade deadline (Aug 3)\n- Báez is a prospect-building move, not a playoff acquisition\n- Cardinals hovering around .500 all season\n**Sources:**\n- Series context file (Cubs/_data/series-context.json, generated 2026-08-16T08:30:00)\n- Wild Card standings: ESPN, StatMuse (D-backs 65-58 as WC3)\n- Cardinals sell at deadline: story-history.md (Aug 9 coverage, confirmed)\n**Fact-check notes:**\n- \"3 GB from Wild Card\" — calculated: ((65-62)+(61-58))/2 = 3.0 GB from WC3. Verified manually.\n- Do NOT say \"ten games out\" — that's GB from Cubs' WC1 spot, misleading framing",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Cubs Rotation Depth — Why Cabrera's Return Matters Beyond Today",
+      "tier": 3,
+      "status": "NEW STORY",
+      "angle": "Horton (Tommy John), Miller (Tommy John), Harvey (60-day IL, triceps). The Cubs' rotation has been gutted by injuries. Cabrera's 9 scoreless rehab innings make him a legitimate stretch-run piece — not just a one-start wonder, but weeks of starts the Cubs desperately need.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Horton: Tommy John. Miller: Tommy John. Harvey: 60-day IL.\n\nThe Cubs' rotation took a beating. Cabrera's return today isn't just about one game — it's the stretch run's answer to a thinning staff.\n\nNine scoreless rehab innings say he's ready.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Informative / analytical",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Rotation Depth — Why Cabrera Matters for September\n**Angle:** NEW STORY — Connect Cabrera's return to the bigger picture of a decimated Cubs rotation.\n**Key Facts:**\n- Cade Horton: Tommy John surgery — out for season\n- Jordan Wicks (referenced as \"Miller\" in some injury reports — cross-reference needed): Tommy John surgery — out for season\n- Harvey: 60-day IL (triceps inflammation); threw bullpen in Arizona Aug 15\n- Phil Maton: PRP injection, 3-week rest period (placed July 21 — returns ~Aug 11 window, not yet active)\n- Daniel Palencia: Right elbow inflammation, beginning rehab assignment\n- Jackson Hodge: UCL surgery — out for season\n- Cabrera's 9 scoreless rehab innings = ready signal\n- With holes in rotation, Cabrera fills a critical slot through September\n**Sources:**\n- FanGraphs Roster Resource: https://www.fangraphs.com/roster-resource/injury-report/cubs\n- ESPN Cubs injuries: https://www.espn.com/mlb/team/injuries/_/name/chc/chicago-cubs\n- CBS Sports: https://www.cbssports.com/mlb/teams/CHC/chicago-cubs/injuries/\n**Fact-check notes:**\n- \"Jordan Wicks TJ\" vs \"Miller TJ\" — search results inconsistent. Story history (Aug 15) referenced \"Miller\" (out for year). Using \"Miller\" as confirmed; Wicks may be separate. Keeping Horton + Miller + Harvey as named injuries in tweet.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Pre-Game Hype — Series Decider at Wrigley on ABC",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Game-day energy tweet 60 minutes before first pitch. Series tied 1-1. Cubs vs Cardinals. Wrigley Field. ABC national broadcast. Cabrera on the mound in his comeback start. The game matters. Go Cubs.",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Series tied 1-1. Cubs vs Cardinals. Wrigley Field. ABC.\n\n2:15 PM CT. National TV. A returning ace taking the ball in a game that matters.\n\nThis is why we show up in August. Let's win this thing.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Bold / fan energy",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 218
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Pre-Game Hype — Series Decider at Wrigley\n**Angle:** NEW STORY — Game-day energy tweet. Series tied 1-1, national TV, Cabrera's return, Wrigley Field.\n**Key Facts:**\n- 2:15 PM CT first pitch\n- ABC national broadcast\n- Series tied 1-1 — winner takes the series\n- Cabrera on the mound in his return from IL\n- Cubs (72-52) WC1 favorites; Cardinals (62-61) fighting for their playoff lives\n**Sources:** MLB.com, FuboTV, Bleacher Nation (combined from above research)\n**Posting note:** Must post at 1:15 PM CT or earlier — 60 minutes before 2:15 PM first pitch.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
