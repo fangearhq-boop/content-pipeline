@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-08-16
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch + research agents, 5 stories verified HIGH/MEDIUM confidence), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations — all ≤280), FB posts (5 stories), image concepts (9 items), image manifest (10 entries, not_started), articles (5), fact-check (46 claims; verify-facts.py ran), compile (5 stories, 7 tweets, 0 FB posts — format known, 5 articles, 5 images), dashboard (22 items), PostPlanner exports (0 posts — format known). WordPress 403 (proxy blocks ilovesoftball.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks ilovesoftball.com — known). Dashboard publish push failed (proxy known restriction). IMAGE NOT STARTED (manifest recognized but images not yet produced in Canva). PostPlanner: 0 posts compiled (format known). 0 char violations.
+- **Key Stories**: AUSL All-Star Cup Series 3/8 days to Aug 24 opener/Kowalik leads individual race/first 4-team series/Ricketts+Coffey+Netz captains (Tier 1 FOLLOW UP), North Carolina wins 2026 LLSWS/Johnston County vs Kentucky 2-0/Anna-Lynn Clark back-to-back shutouts/Belle Cox RBI single (Tier 1 NEW), September 1 = 16 days/Class of 2028 first-contact window/what actually happens on Sept 1 explainer (Tier 2 FOLLOW UP), USA WNT World Cup 27 days/OU reunion angle/Brito+Coleman+Jennings+Maxwell in OKC (Tier 3 FOLLOW UP), Texas Longhorns staff complete/Fremin AHC+Freeman hitting/Kavan senior year/three-peat chase (Tier 2 FOLLOW UP)
+
+## Last Run
 - **Date**: 2026-08-15
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch + research agents, 5 stories verified HIGH/MEDIUM confidence), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations — all ≤280), FB posts (5 stories), image concepts (9 items; ### STORY headers), image manifest (9 items, not_started), articles (5), fact-check (48 claims; verify-facts.py ran), compile (5 stories, 6 tweets, 0 FB posts — format known, 5 articles, 9 images), dashboard (21 items), PostPlanner exports (0 posts — format known). WordPress 403 (proxy blocks ilovesoftball.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).

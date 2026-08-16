@@ -3,6 +3,64 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-08-16
+
+### Story 1: AUSL All-Star Cup Series 3 — 8 Days to Opener, Kowalik Leads Individual Race
+- **Date:** 2026-08-16
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Series 3 captains/format covered Aug 14-15; today = 8-day countdown with Kowalik leading individual race)
+- **Angle:** Series 3 opens August 24 at Parkway Bank Sports Complex, Rosemont IL. First 4-team series of the 2026 All-Star Cup (Series 1 and 2 had 3 teams). Kowalik leads the individual points race heading in as captain again. Ricketts, Coffey, Netz also captaining. Rookies Lemley (up 26) and Otis (up 22 to No. 10) bring momentum. Individual champion crowned Aug 30 after Series 4.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Series 3 draft results (before Aug 24)
+  - Series 3 Day 1 results (Aug 24)
+  - Individual standings after Series 3
+
+### Story 2: North Carolina Wins 2026 Little League Softball World Series
+- **Date:** 2026-08-16
+- **Tier:** 1
+- **Classification:** NEW (fresh national championship result)
+- **Angle:** Johnston County LL (Clayton, NC) def. Kentucky 2-0 at Stallings Stadium, Greenville NC. Anna-Lynn Clark: back-to-back shutouts to close tournament (109 pitches/11K semifinal vs Florida; 93 pitches/6K/3H championship vs Kentucky). Belle Cox: RBI single in 2nd inning same spot as game before.
+- **Content Produced:** Article (article-02, Emily Rawlings), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - 2027 LLSWS preview (next summer)
+  - NC players to watch in future years
+
+### Story 3: September 1 — 16 Days to D1 First-Contact Window (Class of 2028)
+- **Date:** 2026-08-16
+- **Tier:** 2
+- **Classification:** FOLLOW UP (daily countdown; was 17 days Aug 15)
+- **Angle:** 16 days. Explainer angle: what actually happens on September 1 — live calls, texts, off-campus meetings all open. Since June 15, coaches limited to printed materials + certain electronic comms only. Phone rings on Sept 1 morning. Advice for families navigating first contact.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Continue countdown (15 days Aug 17)
+  - September 1 arrival coverage
+  - Early commitment wave post-Sept 1
+
+### Story 4: USA WNT — 27 Days to WBSC World Cup Group Stage in OKC
+- **Date:** 2026-08-16
+- **Tier:** 3
+- **Classification:** FOLLOW UP (27-day countdown; OU reunion angle)
+- **Angle:** 27 days to Sept 12-16 at Devon Park OKC. Four OU alums — Brito, Coleman, Jennings, Maxwell — reunited in the city where they played college ball, now wearing USA. Gasso pipeline: OU leads all schools with 4 players. Group: Netherlands, Mexico, China, Brazil, New Zealand. Top 2 to Brisbane 2027.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Continue countdown (26 days Aug 17)
+  - Group stage match previews
+  - Opening match vs Netherlands
+
+### Story 5: Texas Longhorns 2027 — Staff Complete, Three-Peat Chase Begins
+- **Date:** 2026-08-16
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Fremin/Freeman hires covered Aug 15; today = staff complete/"now what" angle)
+- **Angle:** With Fremin (AHC) and Freeman (hitting coach) in place, Mike White's full staff is assembled. Earleywine departed to Tennessee, Zaleski also departed. Fremin brings 21 years of HC experience into the AHC role — unusual and powerful dynamic. Freeman's Arizona teams 85-31. Kavan enters senior year as first-ever 2x WCWS MOP.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Fall practice preview
+  - Preseason rankings (fall)
+  - Kavan preseason honors
+
+---
+
 ## 2026-08-15
 
 ### Story 1: AUSL All-Star Cup Series 3 — Expanded to 4 Teams, 9 Days to Aug. 24 Opener
