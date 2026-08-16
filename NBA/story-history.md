@@ -5623,3 +5623,44 @@
 - **Key facts:** Embiid posted viral slim-down photo; LeBron reacted publicly; Embiid declared healthy Day 1 (July); coaching staff confirmed; LeBron 2yr/$8M signed (called it his "last decision"); LeBron/Embiid were 2024 Paris Olympic gold medal teammates; projected 5: LeBron/Embiid/Maxey/Brown/Edgecombe (5 combined MVPs); training camp late September
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Training camp open; Embiid first practice photos; 76ers preseason results
+
+| 2026-08-16 | T1 | Giannis to Miami — Christmas Day vs. Celtics Is Now the NBA's Biggest New Matchup | X, FB, Article | FOLLOW UP |
+| 2026-08-16 | T1 | Kawhi Leonard Investigation — ESPN Warns Trade Could Push Into 2027 | X, FB, Article | FOLLOW UP |
+| 2026-08-16 | T2 | LeBron vs. Knicks on Opening Night — The Most Anticipated Opener in Years | X, FB, Article | FOLLOW UP |
+| 2026-08-16 | T2 | NBA's Back-to-Back Revolution — Fewest Ever in a Single Season | X, FB, Article | NEW |
+| 2026-08-16 | T2 | Stephen Curry's 13-Day Countdown — Christmas Day vs. Nuggets Frames the Stakes | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Giannis to Miami — Christmas Day vs. Celtics Is Now the NBA's Biggest New Matchup
+- **Tier:** 1
+- **Category:** NBA Trades / Miami Heat / Giannis Antetokounmpo / Milwaukee Bucks
+- **Key facts:** Bucks sent Giannis (31, 10x All-Star, 2x MVP) + Bobby Portis to Miami for Herro/Ware/Jaquez/Jakucionis/No.13 pick/2031+2033 unprotected 1sts/2030 swap/2033 2nd; Giannis eligible for $275M supermax Jan 6 2027; Christmas Day: Heat vs. Celtics; Celtics lost Jaylen Brown (to Philly for Paul George + picks)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Heat opening night; Giannis Christmas Day performance; supermax extension announcement (Jan 6, 2027)
+
+### STORY 2: Kawhi Leonard Investigation — ESPN Warns Trade Could Push Into 2027
+- **Tier:** 1
+- **Category:** NBA Investigation / Kawhi Leonard / Los Angeles Clippers / Toronto Raptors
+- **Key facts:** Outside law firm finished fact-finding ~Aug 10 (HoopsHype); sanctions on Clippers expected; ESPN warned could push into 2027; Leonard says expects trade to clear before camp; trade: Leonard to Toronto for Ingram, Dick, 2031+2033 unprotected 1sts; Kawhi $50.3M 2026-27; CBA: no player suspension for cap circumvention; $28M Aspiration endorsement deal center of investigation; Toronto camp Quebec City Sept 28-29
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official sanction announcement; trade completion; Sept 22 target date
+
+### STORY 3: LeBron vs. Knicks on Opening Night
+- **Tier:** 2
+- **Category:** NBA Schedule / Philadelphia 76ers / LeBron James / New York Knicks
+- **Key facts:** 76ers at Knicks at MSG Oct 20 (Opening Night triple-header with Celtics-Pistons + Spurs-Thunder); Embiid "looking healthier than he has in a long time" per Mike Gansey (Yahoo Sports); projected 5: Maxey/Edgecombe/Brown/LeBron/Embiid (5 combined MVPs); LeBron called Philly his "last decision"
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** First 76ers practice; preseason games; Oct 20 opener
+
+### STORY 4: NBA Back-to-Back Revolution
+- **Tier:** 2
+- **Category:** NBA Schedule / Player Health
+- **Key facts:** 2026-27 averages 14.2 back-to-backs/team (lowest ever since NBA Cup era); no team has more than 16; first time ever: no team plays 4-in-5 days; no team plays 8-in-12 or 18-in-30
+- **Status:** NEW
+- **Follow-up ideas:** Season-long impact; player health outcomes
+
+### STORY 5: Stephen Curry 13-Day Countdown
+- **Tier:** 2
+- **Category:** NBA Contracts / Golden State Warriors / Stephen Curry
+- **Key facts:** Window opens Aug 29 (13 days); expected 2yr/$136.7M max; Warriors "super aggressive" (Dunleavy); Slater confirmed mutual interest; without deal = UFA 2027 for first time ever; Christmas Day: Nuggets vs. Warriors; Warriors 37-45 last season; Curry 42% from 3 at age 38
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Extension signing announcement (expect Aug 29-Sept); Warriors preseason roster

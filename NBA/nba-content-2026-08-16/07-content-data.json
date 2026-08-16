@@ -1,0 +1,322 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-16",
+  "compiled_at": "2026-08-16T11:22:53.140330+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 (Giannis/Heat)",
+      "type": "X"
+    },
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 (Giannis/Heat)",
+      "type": "Facebook"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 3 (LeBron Opening Night)",
+      "type": "X"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 3 (LeBron Opening Night)",
+      "type": "Facebook"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 2 (Kawhi)",
+      "type": "X"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 2 (Kawhi)",
+      "type": "Facebook"
+    },
+    {
+      "time": "4:00 PM",
+      "description": "Story 1 (Giannis/Heat)",
+      "type": "X"
+    },
+    {
+      "time": "4:00 PM",
+      "description": "Story 4 (Back-to-Backs)",
+      "type": "X"
+    },
+    {
+      "time": "4:00 PM",
+      "description": "Story 4 (Back-to-Backs)",
+      "type": "Facebook"
+    },
+    {
+      "time": "7:00 PM",
+      "description": "Story 2 (Kawhi)",
+      "type": "X"
+    },
+    {
+      "time": "9:30 PM",
+      "description": "Story 5 (Curry)",
+      "type": "X"
+    },
+    {
+      "time": "9:30 PM",
+      "description": "Story 5 (Curry)",
+      "type": "Facebook"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Giannis to Miami — Christmas Day vs. Celtics Is Now the NBA's Biggest New Matchup",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Giannis to Miami. Jaylen Brown to Philly. Jayson Tatum still standing in Boston.\n\nChristmas Day: Heat vs. Celtics.\n\nThis is the rivalry the NBA didn't know it needed. The East just reshuffled itself around this matchup. #HeatNation",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HeatNation"
+          ],
+          "char_count": 231
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The Bucks trade Giannis. The Heat get a 2x MVP at 31. He becomes eligible for a $275M supermax on Jan. 6.\n\nMiami's next move is letting him prove it was worth it.\n\nChristmas Day vs. the Celtics is where it starts. #HeatNation",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HeatNation"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-giannis-miami-heat-christmas-day-celtics.html",
+        "headline": "Giannis to Miami Has Its Marquee Moment: Christmas Day Against the Celtics",
+        "word_count": 579
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Giannis to Miami — Christmas Day vs. Celtics\n\n**Concept 1 — Social (1080x1350)**\n- **Type:** Social image\n- **Imagn search:** \"Giannis Antetokounmpo Miami Heat\"\n- **Art direction:** Giannis in Heat uniform, powerful action shot or celebration. Text overlay: \"CHRISTMAS DAY\" in bold white. Subtext: \"HEAT vs. CELTICS / DEC. 25\"\n- **Credit:** (USA TODAY Sports Images)\n\n**Concept 2 — Article Hero (1200x630)**\n- **Type:** Article hero\n- **Imagn search:** \"Giannis Antetokounmpo Milwaukee Bucks\"\n- **Art direction:** Giannis in Bucks uniform, landscape orientation — the \"before\" image of the trade that changed everything.\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Giannis Antetokounmpo to Miami Heat\n**[HIGH]** Trade completed July 6: Bucks sent Giannis Antetokounmpo (31, 10x All-Star, 2x MVP) and Bobby Portis to Miami Heat.\n**[HIGH]** Heat sent: Tyler Herro, Kel'el Ware, Jaime Jaquez Jr., Kasparas Jakucionis, No. 13 pick in 2026 draft, unprotected 2031 and 2033 first-rounders, 2030 pick swap, 2033 second-round pick.\n**[HIGH]** Giannis becomes eligible for 4-year, $275 million supermax extension on January 6, 2027.\n**[HIGH]** Christmas Day schedule: Heat vs. Celtics on December 25. (Source: NBA.com, CBS Sports schedule release)\n**[MEDIUM]** Heat are among preseason Eastern Conference contenders per multiple outlets; exact ranking varies by source.",
+        "sources": "Sources: ESPN (trade announcement July 6), NBC Miami, NBA.com schedule release Aug 13, CBS Sports schedule coverage."
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Kawhi Leonard Investigation — ESPN Warns Trade Could Push Into 2027",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The NBA's outside law firm has finished fact-finding on the Kawhi Leonard investigation.\n\nBut ESPN warns the probe could still push into 2027.\n\nThe trade agreed in June. Sanctions on the Clippers are expected. No deadline exists. The clock has no hands. #Raptors #LAClippers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Raptors",
+            "#LAClippers"
+          ],
+          "char_count": 274
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Kawhi Leonard told reporters he expects the trade to go through before training camp.\n\nToronto training camp: Sept. 28-29 in Quebec City.\n\nThe investigation has been running for 11 months. Kawhi is betting on Sept. The NBA has made no promises. #Raptors",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Raptors"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-kawhi-leonard-investigation-espn-2027-warning.html",
+        "headline": "ESPN Warns the Kawhi Leonard Investigation Could Push Into 2027 — And No One Has a Deadline",
+        "word_count": 621
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Kawhi Leonard Investigation — ESPN Warns 2027\n\n**Concept 1 — Social (1080x1350)**\n- **Type:** Social image\n- **Imagn search:** \"Kawhi Leonard Los Angeles Clippers\"\n- **Art direction:** Kawhi in Clippers uniform. Text overlay: \"2027?\" in bold red. Subtext: \"THE INVESTIGATION HAS NO DEADLINE\"\n- **Credit:** (USA TODAY Sports Images)\n\n**Concept 2 — Article Hero (1200x630)**\n- **Type:** Article hero\n- **Imagn search:** \"Kawhi Leonard Toronto Raptors\"\n- **Art direction:** Kawhi in Raptors uniform — forward-looking, signals the agreed trade destination.\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Kawhi Leonard Investigation\n**[HIGH]** Trade agreed June 30: Leonard to Toronto Raptors for Brandon Ingram, Gradey Dick, unprotected 2031 and 2033 first-rounders, 2027 first-round swap, two second-round picks. (Source: Shams Charania / ESPN)\n**[HIGH]** Trade paused July 9 when NBA opened cap circumvention investigation. (Source: NBA.com, ESPN)\n**[HIGH]** Investigation centers on Clippers funneling ~$28M to Leonard via Aspiration endorsement deal during NBA/league business relationship. (Source: multiple reports)\n**[HIGH]** Outside law firm hired by NBA reportedly finished fact-finding around Aug 10. (Source: HoopsHype, ~Aug 10)\n**[HIGH]** Leonard owes $50.3M in 2026-27 salary. (Source: multiple contract databases)\n**[HIGH]** CBA does not allow player suspension for cap circumvention — Clippers face sanctions, not Leonard. (Source: CBS Sports, ESPN)\n**[HIGH]** Leonard publicly stated he expects the trade to be completed before training camp. (Source: HoopsHype/Hoops Rumors Aug 10 report)\n**[MEDIUM]** ESPN warned (late July) investigation could drag into 2027 if complications arise. (Source: ESPN)\n**[HIGH]** Toronto training camp in Quebec City approximately Sept. 28-29.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "LeBron vs. Knicks on Opening Night — The Most Anticipated Opener in Years",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Opening Night: LeBron James and the 76ers walk into Madison Square Garden to face the defending-champion Knicks.\n\nJoel Embiid is described as \"looking healthier than he has in a long time.\"\n\nOctober 20. The most anticipated opener in years. #Sixers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sixers"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-lebron-76ers-opening-night-knicks-msg.html",
+        "headline": "LeBron James and the 76ers Walk Into MSG on Opening Night — Against the Defending Champions",
+        "word_count": 599
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LeBron Opening Night vs. Knicks\n\n**Concept 1 — Social (1080x1350)**\n- **Type:** Social image\n- **Imagn search:** \"LeBron James Philadelphia 76ers\"\n- **Art direction:** LeBron in 76ers uniform. Text overlay: \"OPENING NIGHT\" in bold white. Subtext: \"SIXERS vs. KNICKS / OCT. 20 / MSG\"\n- **Credit:** (USA TODAY Sports Images)\n\n**Concept 2 — Article Hero (1200x630)**\n- **Type:** Article hero\n- **Imagn search:** \"Joel Embiid Philadelphia 76ers\"\n- **Art direction:** Embiid in 76ers uniform, landscape orientation. Healthy and dominant.\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LeBron James and 76ers Opening Night\n**[HIGH]** 76ers at Knicks at Madison Square Garden — Opening Night October 20. (Source: NBA.com schedule)\n**[HIGH]** Opening Night is a triple-header: Celtics at Pistons (afternoon), 76ers at Knicks (evening), Spurs at Thunder.\n**[HIGH]** LeBron James signed 2-year deal with Philadelphia 76ers in July 2026; called it his \"last decision.\" (Source: NBA.com, NBC Sports Philadelphia)\n**[HIGH]** Embiid described as \"looking healthier than he has in a long time\" by Mike Gansey (team personnel). (Source: Yahoo Sports)\n**[HIGH]** 76ers schedule built with reduced back-to-backs; fewer than previous seasons. (Source: ClutchPoints, NBA schedule release)\n**[HIGH]** Projected starting five: Tyrese Maxey, VJ Edgecombe, Jaylen Brown, LeBron James, Joel Embiid. Five combined MVP awards.\n**[MEDIUM]** 76ers listed among preseason Finals favorites by multiple outlets; not a consensus top pick.",
+        "sources": "Sources: NBA.com, NBC Sports Philadelphia, Yahoo Sports, ClutchPoints."
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "NBA's Back-to-Back Revolution — Fewest Ever in a Single Season",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The 2026-27 NBA schedule averages 14.2 back-to-back games per team — the lowest ever.\n\nFor the first time in league history, no team will play 4 games in 5 days.\n\nPlayers have been asking for this for years. The schedule finally caught up.",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-nba-back-to-back-revolution-14-point-2.html",
+        "headline": "The NBA's Quietest Win: The 2026-27 Schedule Sets a Historic Low for Back-to-Backs",
+        "word_count": 570
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NBA Back-to-Back Revolution\n\n**Concept 1 — Social (1080x1350)**\n- **Type:** Social image\n- **Imagn search:** \"NBA players bench rest\"\n- **Art direction:** Players on the sideline, restful moment. Text overlay: \"14.2 BACK-TO-BACKS\" in bold. Subtext: \"THE LOWEST AVERAGE EVER / 2026-27 NBA SCHEDULE\"\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NBA Back-to-Back Reduction\n**[HIGH]** 2026-27 schedule averages 14.2 back-to-back games per team — lowest since NBA Cup era began. (Source: NBA.com schedule release Aug 13, CBS Sports)\n**[HIGH]** No team will have more than 16 back-to-backs.\n**[HIGH]** For first time in NBA history, no team will play four games in five days.\n**[HIGH]** No team will play eight games in 12 days.\n**[HIGH]** No team will play 18 games in 30 days.",
+        "sources": "Sources: NBA.com official schedule release, CBS Sports, Yahoo Sports schedule breakdown."
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Stephen Curry's 13-Day Countdown — Christmas Day vs. Nuggets Frames the Stakes",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "13 days until Stephen Curry's extension window opens.\n\nThe reported offer: 2 years, $136.7M. The Warriors say they're \"super aggressive\" to keep him.\n\nChristmas Day: Nuggets vs. Warriors — the league is already counting on Curry being there. #Warriors",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Warriors"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-stephen-curry-13-days-christmas-nuggets.html",
+        "headline": "Thirteen Days to Stephen Curry's Extension Window — and Christmas Day Just Told You Everything",
+        "word_count": 572
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Curry 13-Day Countdown\n\n**Concept 1 — Social (1080x1350)**\n- **Type:** Social image\n- **Imagn search:** \"Stephen Curry Golden State Warriors\"\n- **Art direction:** Curry celebrating a three-pointer or iconic moment in Warriors uniform. Text overlay: \"13 DAYS\" in bold. Subtext: \"$136.7M / AUG. 29 EXTENSION WINDOW\"\n- **Credit:** (USA TODAY Sports Images)\n\n**Concept 2 — Article Hero (1200x630)**\n- **Type:** Article hero\n- **Imagn search:** \"Stephen Curry Golden State Warriors\"\n- **Art direction:** Curry shooting form or celebration, landscape orientation for article header.\n- **Credit:** (USA TODAY Sports Images)"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Stephen Curry Extension\n**[HIGH]** Extension eligibility window opens August 29 — 13 days from today. (Source: ESPN, multiple)\n**[HIGH]** Expected deal: 2-year, $136.7 million max extension. (~$68M/year, carrying Curry through age-40 season)\n**[HIGH]** Warriors GM Mike Dunleavy Jr. described team as \"super aggressive\" in retaining Curry. (Source: Bleacher Report)\n**[HIGH]** ESPN's Anthony Slater confirmed mutual interest; signing expected as soon as window opens. (Source: ESPN)\n**[MEDIUM]** ESPN's Brian Windhorst floated concept of shorter deal for roster flexibility. (Source: ESPN)\n**[HIGH]** Without extension, Curry would be an unrestricted free agent in summer 2027 — first time in his career. (Source: multiple)\n**[HIGH]** Christmas Day 2026: Nuggets vs. Warriors confirmed on ESPN/ABC. (Source: NBA.com schedule)\n**[HIGH]** Warriors finished 37-45 in 2025-26. Curry shot 42% from 3-point range at age 38.\n**[HIGH]** Curry earns $65 million in 2026-27 under his current deal (final year).",
+        "sources": "Sources: Bleacher Report, ESPN, Yahoo Sports, Yardbarker, NBA.com."
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
