@@ -1,18 +1,27 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
-- **Date**: 2026-08-16
+- **Date**: 2026-08-17
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)
-- **X Posts:** 6 written, all under 280 characters
+- **X Posts:** 7 written, all under 280 characters (Story 5 tweet trimmed after verify-facts.py found 293-char tweet)
 - **Facebook Posts:** 5 stories, long-form + caption each
-- **Articles:** 5 (pen names: Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway)
-- **PostPlanner exports:** gfr-postplanner-2026-08-16.xlsx (6 posts) + gfr-postplanner-tobi-2026-08-16.xlsx (6 TOBI posts)
-- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-08-16/review-dashboard.html (16 items)
-- **Notes:** ST. JUDE FINAL — Sam Burns wins FedEx St. Jude Championship; Scheffler T-3 (confirmed NBC Sports), entered R4 with 2-shot lead but caddie Ted Scott left for family emergency Saturday night; PGA Tour chaplain Brad Payne flew in ~2am as fill-in caddie; Burns (Shreveport) entered R4 at T-2 after 62 in R3; JJ Spaun charged, fell short; LPGA PORTLAND CLASSIC — Akie Iwai wins at -24 (67-67-64-66) by 4 shots; twin sister Chisato T-3, sprayed champagne on 18th green; both Iwai twins won in rookie LPGA season (Chisato won Mayakoba May); SPIETH — bogey-free 65 R1, ~-6 at event end, advanced No. 54 to inside top 50, 15th straight FedEx Playoffs year; MCILROY — opened 74, tough week, almost certainly advances (was No. 12 FedExCup); next week: BMW at Bellerive CC St. Louis + LIV Indianapolis Chatham Hills + CPKC Women's Open Edmonton $2.75M (all Aug 20-23)
+- **Articles:** 5 (pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres)
+- **PostPlanner exports:** gfr-postplanner-2026-08-17.xlsx (7 posts) + gfr-postplanner-tobi-2026-08-17.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-08-17/review-dashboard.html (17 items)
+- **Notes:** BMW CHAMPIONSHIP PREVIEW — Bellerive CC St. Louis Aug 20-23; top 50 FedExCup qualify; top 30 advance to Tour Championship at East Lake Aug 27-30; $20M purse; par 70, 7,448 yards; Scheffler No. 1 seed; Burns fresh from St. Jude Championship win; McIlroy/Schauffele/Young/Morikawa/Matsuyama in field; Koepka won 2018 PGA Championship at Bellerive with 264; CPKC WOMEN'S OPEN PREVIEW — 52nd edition at Royal Mayfair GC Edmonton Alberta Aug 19-23; $2.75M purse; Stanley Thompson 1922 design, par 70 6,452 yds, North Saskatchewan River Valley; Korda (World No. 1, 3 majors in 2026 incl. Chevron) leads field; Henderson defending (won Mississaugua last year, 14th LPGA title), anchors 15-player Canadian contingent; Lydia Ko won at Royal Mayfair 2013 at age 15; MCILROY — 66th at St. Jude (8-over, zero sub-par rounds); Golf Channel: "finds encouragement," focus turns to BMW; 3x FedExCup champion; ~No. 12 FedExCup entering playoffs; Koepka failed to qualify 2026 FedExCup; LIV INDIANAPOLIS — Chatham Hills Westfield Indiana Aug 21-23; Pete Dye's final course design; Thomas Rhett Friday/Disco Lines Saturday; Rahm individual title clinched (944.54 pts, 218-pt margin); team championship live stakes; SPIETH — 15th consecutive BMW berth; entered St. Jude 54th (outside top 50); bogey-free R1 65 moved inside top 50; winless in 2026; no top-10 all 2026 regular season; needs top 30 at BMW for East Lake
 - **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ## Pipeline Run Log
+
+### 2026-08-17
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters (Story 5 tweet trimmed after verify-facts.py found 293-char tweet)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres)
+- **PostPlanner exports:** gfr-postplanner-2026-08-17.xlsx (7 posts) + gfr-postplanner-tobi-2026-08-17.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-08-17/review-dashboard.html (17 items)
 
 ### 2026-08-16
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)

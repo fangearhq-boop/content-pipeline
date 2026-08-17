@@ -1,0 +1,2677 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Golf Fanrecap — Content Review Dashboard</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: #f5f5f5;
+            display: flex;
+            min-height: 100vh;
+            color: #333;
+        }
+
+        .sidebar {
+            width: 280px;
+            background: #1a1a2e;
+            color: white;
+            padding: 30px 20px;
+            position: fixed;
+            height: 100vh;
+            overflow-y: auto;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+            z-index: 10;
+        }
+
+        .sidebar h1 { font-size: 18px; margin-bottom: 10px; color: #FF8A00; font-weight: 700; }
+        .sidebar-date { font-size: 12px; color: #aaa; margin-bottom: 30px; padding-bottom: 20px; border-bottom: 1px solid #333; }
+        .sidebar-section { margin-bottom: 25px; }
+        .sidebar-section-title { font-size: 12px; text-transform: uppercase; color: #999; margin-bottom: 12px; font-weight: 600; letter-spacing: 1px; }
+
+        .nav-item {
+            display: block; padding: 12px 15px; margin-bottom: 8px; border-radius: 6px;
+            cursor: pointer; transition: all 0.3s ease; font-size: 14px; color: #ddd; user-select: none;
+        }
+        .nav-item:hover { background: #2d2d44; color: #FF8A00; }
+        .nav-item.active { background: #FF8A00; color: white; }
+        .nav-item-count { float: right; background: rgba(255, 107, 53, 0.3); padding: 2px 8px; border-radius: 3px; font-size: 12px; }
+        .nav-item.active .nav-item-count { background: rgba(0, 0, 0, 0.2); }
+
+        .main-content { margin-left: 280px; flex: 1; display: flex; flex-direction: column; }
+
+        .header {
+            background: white; padding: 25px 40px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-bottom: 3px solid #FF8A00;
+        }
+        .header h1 { font-size: 28px; color: #1a1a2e; margin-bottom: 10px; }
+        .header-meta { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px; }
+        .progress-bar { flex: 1; min-width: 200px; }
+        .progress-label { font-size: 13px; color: #666; margin-bottom: 8px; font-weight: 500; }
+        .progress-container { width: 100%; height: 8px; background: #ddd; border-radius: 4px; overflow: hidden; }
+        .progress-fill { height: 100%; background: linear-gradient(90deg, #FF8A00, #E53935); transition: width 0.3s ease; }
+        .header-actions { display: flex; gap: 10px; }
+
+        .btn {
+            padding: 10px 16px; border: none; border-radius: 6px; font-size: 14px;
+            font-weight: 600; cursor: pointer; transition: all 0.3s ease; white-space: nowrap;
+        }
+        .btn-primary { background: #FF8A00; color: white; }
+        .btn-primary:hover { background: #E53935; }
+        .btn-secondary { background: #f0f0f0; color: #333; }
+        .btn-secondary:hover { background: #e0e0e0; }
+
+        .filter-bar {
+            background: white; padding: 20px 40px; display: flex;
+            gap: 10px; flex-wrap: wrap; border-bottom: 1px solid #eee;
+        }
+        .filter-btn {
+            padding: 8px 14px; border: 1px solid #ddd; background: white;
+            border-radius: 5px; cursor: pointer; font-size: 13px; transition: all 0.3s ease;
+        }
+        .filter-btn:hover { border-color: #FF8A00; color: #FF8A00; }
+        .filter-btn.active { background: #FF8A00; color: white; border-color: #FF8A00; }
+
+        .content { flex: 1; padding: 30px 40px; overflow-y: auto; }
+
+        .cards-container { display: flex; flex-direction: column; gap: 20px; max-width: 900px; }
+
+        .card {
+            background: white; border-radius: 8px; padding: 24px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1); transition: all 0.3s ease;
+            border-left: 5px solid #ccc; display: none;
+        }
+        .card.show { display: block; }
+        .card.approved { border-left-color: #22c55e; }
+        .card.needs-edit { border-left-color: #eab308; }
+        .card.rejected { border-left-color: #ef4444; }
+        .card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.12); }
+
+        .card-header { display: flex; justify-content: space-between; align-items: start; margin-bottom: 15px; }
+        .card-title { font-size: 16px; font-weight: 600; color: #1a1a2e; flex: 1; margin-right: 10px; }
+
+        .card-badge {
+            display: inline-block; padding: 4px 10px; border-radius: 4px;
+            font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;
+        }
+        .badge-x-post { background: #1da1f2; color: white; }
+        .badge-facebook { background: #4267b2; color: white; }
+        .badge-article { background: #9333ea; color: white; }
+        .badge-image { background: #06b6d4; color: white; }
+        .badge-brief { background: #10b981; color: white; }
+
+        .fact-check-badge {
+            display: inline-block; padding: 3px 8px; border-radius: 4px;
+            font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;
+            margin-left: 6px;
+        }
+        .fact-check-verified { background: #dcfce7; color: #166534; border: 1px solid #86efac; }
+        .fact-check-warning { background: #fef9c3; color: #854d0e; border: 1px solid #fde047; }
+        .fact-check-unverified { background: #fee2e2; color: #991b1b; border: 1px solid #fca5a5; }
+
+        /* Content area — preview (collapsed) and full (expanded) */
+        .card-content {
+            background: #f9f9f9; padding: 15px; border-radius: 6px;
+            margin-bottom: 15px; font-size: 13px; line-height: 1.6; color: #555;
+            position: relative;
+        }
+        .card-content-text {
+            white-space: pre-wrap; word-break: break-word;
+        }
+
+        /* Collapsed state: limit height with fade */
+        .card-content.collapsed {
+            max-height: 200px; overflow: hidden;
+        }
+        .card-content.collapsed::after {
+            content: '';
+            position: absolute; bottom: 0; left: 0; right: 0; height: 60px;
+            background: linear-gradient(transparent, #f9f9f9);
+            pointer-events: none;
+        }
+
+        /* Expanded state: no limit */
+        .card-content.expanded {
+            max-height: none; overflow: visible;
+        }
+        .card-content.expanded::after { display: none; }
+
+        .expand-toggle {
+            display: inline-block; margin-bottom: 12px; padding: 6px 14px;
+            background: #eee; border: 1px solid #ddd; border-radius: 4px;
+            cursor: pointer; font-size: 12px; font-weight: 600; color: #555;
+            transition: all 0.2s ease;
+        }
+        .expand-toggle:hover { background: #ddd; color: #333; }
+
+        /* Inline editing */
+        .edit-textarea {
+            width: 100%; padding: 15px; border: 2px solid #FF8A00;
+            border-radius: 6px; font-size: 13px; font-family: inherit;
+            line-height: 1.6; resize: vertical; min-height: 200px;
+            background: #fffef5; color: #333; display: none;
+        }
+        .edit-textarea:focus {
+            outline: none; box-shadow: 0 0 0 3px rgba(255, 107, 53, 0.15);
+        }
+        .card.editing .card-content { display: none; }
+        .card.editing .edit-textarea { display: block; }
+        .card.editing .expand-toggle { display: none; }
+
+        .edit-bar {
+            display: none; gap: 8px; margin-bottom: 12px; padding: 10px;
+            background: #fff8f0; border: 1px solid #ffcc99; border-radius: 6px;
+            align-items: center;
+        }
+        .card.editing .edit-bar { display: flex; }
+        .edit-bar-label { font-size: 12px; font-weight: 600; color: #cc6600; flex: 1; }
+        .edit-bar .btn { padding: 7px 14px; font-size: 12px; }
+
+        .tweet-meta-bar {
+            display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; padding: 0;
+        }
+        .tweet-meta-badge {
+            display: inline-block; padding: 4px 10px; border-radius: 4px;
+            font-size: 11px; font-weight: 600; letter-spacing: 0.3px;
+        }
+        .tweet-meta-label { background: #e0e7ff; color: #3730a3; }
+        .tweet-meta-time { background: #fef3c7; color: #92400e; }
+        .tweet-meta-type { background: #d1fae5; color: #065f46; }
+        .tweet-meta-tier { background: #f3e8ff; color: #6b21a8; }
+        .tweet-meta-hashtags { background: #dbeafe; color: #1e40af; font-family: monospace; }
+
+        .char-count {
+            font-size: 12px; margin: 0 0 10px 0; padding: 8px;
+            background: #f0f0f0; border-radius: 4px;
+        }
+        .char-count.warning { background: #fee2e2; color: #991b1b; }
+
+        .card-actions { display: flex; gap: 8px; margin-bottom: 12px; flex-wrap: wrap; }
+        .action-btn {
+            flex: 1; padding: 10px; border: none; border-radius: 5px;
+            cursor: pointer; font-size: 13px; font-weight: 600;
+            transition: all 0.3s ease; white-space: nowrap; min-width: 100px;
+        }
+        .btn-approve { background: #e8f5e9; color: #22c55e; border: 1px solid #22c55e; }
+        .btn-approve:hover { background: #22c55e; color: white; }
+        .btn-edit { background: #fff3e0; color: #e65100; border: 1px solid #ff9800; }
+        .btn-edit:hover { background: #ff9800; color: white; }
+        .btn-reject { background: #fee2e2; color: #ef4444; border: 1px solid #ef4444; }
+        .btn-reject:hover { background: #ef4444; color: white; }
+        .btn-copy { background: #f0f0f0; color: #333; border: 1px solid #ddd; }
+        .btn-copy:hover { background: #e0e0e0; }
+
+        .notes-section { display: none; margin-bottom: 12px; }
+        .notes-section.show { display: block; }
+        .notes-label { font-size: 12px; font-weight: 600; color: #666; margin-bottom: 6px; }
+        .notes-textarea {
+            width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px;
+            font-size: 13px; font-family: inherit; resize: vertical; min-height: 60px;
+        }
+        .notes-textarea:focus { outline: none; border-color: #FF8A00; box-shadow: 0 0 0 3px rgba(255, 107, 53, 0.1); }
+
+        .status-label {
+            font-size: 11px; font-weight: 600; text-transform: uppercase;
+            padding: 4px 8px; border-radius: 3px; margin-top: 10px; display: inline-block;
+        }
+        .status-approved { background: #e8f5e9; color: #22c55e; }
+        .status-needs-edit { background: #fffbeb; color: #f59e0b; }
+        .status-rejected { background: #fee2e2; color: #ef4444; }
+        .status-edited { background: #e3f2fd; color: #1565c0; }
+
+        .empty-state { text-align: center; padding: 60px 20px; color: #999; }
+        .empty-state-icon { font-size: 48px; margin-bottom: 15px; }
+
+        /* Approval stats bar */
+        .approval-stats {
+            display: flex; gap: 16px; margin-top: 12px; flex-wrap: wrap;
+        }
+        .stat-chip {
+            display: inline-flex; align-items: center; gap: 6px;
+            padding: 4px 12px; border-radius: 20px; font-size: 13px; font-weight: 600;
+        }
+        .stat-approved { background: #dcfce7; color: #16a34a; }
+        .stat-rejected { background: #fee2e2; color: #dc2626; }
+        .stat-unreviewed { background: #f3f4f6; color: #6b7280; }
+        .stat-dot { width: 8px; height: 8px; border-radius: 50%; }
+        .stat-approved .stat-dot { background: #22c55e; }
+        .stat-rejected .stat-dot { background: #ef4444; }
+        .stat-unreviewed .stat-dot { background: #9ca3af; }
+
+        /* PostPlanner XLSX button */
+        .btn-csv { background: #7c3aed; color: white; }
+        .btn-csv:hover { background: #6d28d9; }
+        .btn-csv:disabled { background: #c4b5fd; cursor: not-allowed; }
+
+        /* Schedule settings panel */
+        .schedule-panel {
+            display: none; position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%);
+            background: white; border-radius: 12px; padding: 30px; z-index: 1000;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3); width: 500px; max-width: 90vw; max-height: 80vh; overflow-y: auto;
+        }
+        .schedule-panel.show { display: block; }
+        .schedule-overlay { display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.5); z-index: 999; }
+        .schedule-overlay.show { display: block; }
+        .schedule-panel h3 { color: #1a1a2e; margin-bottom: 20px; font-size: 18px; }
+        .schedule-section { margin-bottom: 20px; }
+        .schedule-section label { display: block; font-size: 13px; font-weight: 600; color: #555; margin-bottom: 6px; }
+        .schedule-section input { width: 100%; padding: 8px 12px; border: 1px solid #ddd; border-radius: 4px; font-size: 14px; }
+        .schedule-section input:focus { outline: none; border-color: #7c3aed; }
+        .time-slots { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; }
+        .time-slot {
+            display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px;
+            background: #f3f0ff; border: 1px solid #c4b5fd; border-radius: 20px; font-size: 13px;
+        }
+        .time-slot .remove-slot { cursor: pointer; color: #999; font-weight: bold; }
+        .time-slot .remove-slot:hover { color: #ef4444; }
+        .add-slot-btn {
+            padding: 6px 14px; background: #f3f0ff; border: 1px dashed #7c3aed; border-radius: 20px;
+            cursor: pointer; font-size: 13px; color: #7c3aed;
+        }
+        .add-slot-btn:hover { background: #ede9fe; }
+        .schedule-actions { display: flex; gap: 10px; justify-content: flex-end; margin-top: 20px; }
+
+        /* Photo search links for image concepts */
+        .photo-section {
+            margin-bottom: 15px; padding: 12px; background: #f0f9ff;
+            border: 1px solid #bae6fd; border-radius: 6px;
+        }
+        .photo-section-title {
+            font-size: 12px; font-weight: 700; color: #0369a1; text-transform: uppercase;
+            letter-spacing: 0.5px; margin-bottom: 8px;
+        }
+        .photo-links { display: flex; flex-wrap: wrap; gap: 6px; }
+        .photo-link {
+            display: inline-block; padding: 6px 12px; background: #0ea5e9;
+            color: white; border-radius: 4px; font-size: 12px; font-weight: 500;
+            text-decoration: none; transition: all 0.2s ease; cursor: pointer;
+        }
+        .photo-link:hover { background: #0284c7; }
+
+        /* Image URL input and preview for image concepts */
+        .image-url-section {
+            margin-bottom: 15px; padding: 12px; background: #f0fdf4;
+            border: 1px solid #bbf7d0; border-radius: 6px;
+        }
+        .image-url-section label {
+            display: block; font-size: 12px; font-weight: 700; color: #166534;
+            text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 6px;
+        }
+        .image-url-input {
+            width: 100%; padding: 8px 10px; border: 1px solid #86efac;
+            border-radius: 4px; font-size: 13px; font-family: monospace;
+            background: white; box-sizing: border-box;
+        }
+        .image-url-input:focus { outline: none; border-color: #22c55e; box-shadow: 0 0 0 2px rgba(34,197,94,0.2); }
+        .image-url-hint {
+            font-size: 11px; color: #6b7280; margin-top: 4px;
+        }
+        .image-preview {
+            margin-top: 8px; text-align: center;
+        }
+        .image-preview img {
+            max-width: 100%; max-height: 200px; border-radius: 4px;
+            border: 1px solid #d1d5db; display: none;
+        }
+        .image-preview img.loaded { display: inline-block; }
+
+        /* Image production status badges */
+        .image-badge {
+            display: inline-block; padding: 2px 8px; border-radius: 3px;
+            font-size: 10px; font-weight: 700; text-transform: uppercase;
+            letter-spacing: 0.5px; margin-left: 6px;
+        }
+        .image-exported { background: #dcfce7; color: #166534; }
+        .image-in-progress { background: #fef3c7; color: #92400e; }
+        .image-not-started { background: #f3f4f6; color: #6b7280; }
+
+        /* Text overlay preview for image concepts */
+        .overlay-section {
+            margin-bottom: 15px; padding: 15px; background: #1a1a2e;
+            border-radius: 6px; text-align: center;
+        }
+        .overlay-line {
+            font-family: 'Bebas Neue', Impact, 'Arial Black', sans-serif;
+            color: #ffd700; font-size: 18px; font-weight: 700; line-height: 1.4;
+            text-transform: uppercase; letter-spacing: 1px;
+        }
+        .overlay-line.sub { color: #ffffff; font-size: 14px; font-weight: 400; letter-spacing: 0; text-transform: none; }
+
+        /* Article content rendered as HTML */
+        .article-frame {
+            width: 100%; border: 1px solid #ddd; border-radius: 6px;
+            background: white; min-height: 300px;
+        }
+
+        @media (max-width: 768px) {
+            .sidebar { width: 100%; height: auto; position: relative; padding: 20px; }
+            .main-content { margin-left: 0; }
+            .content { padding: 20px; }
+            .header { padding: 15px 20px; }
+            .header h1 { font-size: 20px; }
+            .filter-bar { padding: 15px 20px; }
+            .header-meta { flex-direction: column; align-items: stretch; }
+            .progress-bar { min-width: auto; }
+        }
+
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: #f1f1f1; }
+        ::-webkit-scrollbar-thumb { background: #888; border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: #555; }
+    </style>
+</head>
+<body>
+    <div class="sidebar">
+        <h1>Golf Fanrecap</h1>
+        <div class="sidebar-date">Review Dashboard<br>2026-08-17</div>
+
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Content Types</div>
+            <div class="nav-item" onclick="filterByType('daily_brief')">
+                Daily Brief
+                <span class="nav-item-count">5</span>
+            </div>
+            <div class="nav-item" onclick="filterByType('x_post')">
+                X / Twitter Posts
+                <span class="nav-item-count">7</span>
+            </div>
+            <div class="nav-item" onclick="filterByType('article')">
+                Articles
+                <span class="nav-item-count">5</span>
+            </div>
+
+            <div class="nav-item" onclick="filterByType('all')">
+                All Items
+                <span class="nav-item-count">17</span>
+            </div>
+        </div>
+
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Status Filter</div>
+            <div class="nav-item" onclick="filterByStatus('all')">All</div>
+            <div class="nav-item" onclick="filterByStatus('unreviewed')">Unreviewed</div>
+            <div class="nav-item" onclick="filterByStatus('approved')">Approved</div>
+            <div class="nav-item" onclick="filterByStatus('needs-edit')">Needs Edit</div>
+            <div class="nav-item" onclick="filterByStatus('rejected')">Rejected</div>
+        </div>
+
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Actions</div>
+            <div class="nav-item" onclick="approveAll()" style="color: #22c55e;">
+                Approve All
+            </div>
+            <div class="nav-item" onclick="exportApprovals()" style="color: #FF8A00;">
+                Export Results JSON
+            </div>
+            <div class="nav-item" onclick="downloadPostPlannerCSV()" style="color: #a78bfa;">
+                PostPlanner Upload
+            </div>
+            <div class="nav-item" onclick="downloadTOBIExport()" style="color: #f472b6;">
+                TOBI Upload
+            </div>
+        </div>
+    </div>
+
+    <div class="main-content">
+        <div class="header">
+            <h1>Golf Fanrecap — Content Review Dashboard</h1>
+            <div class="header-meta">
+                <div class="progress-bar">
+                    <div class="progress-label">
+                        <span id="reviewed-count">0</span> of <span id="total-count">17</span> items reviewed
+                    </div>
+                    <div class="progress-container">
+                        <div class="progress-fill" id="progress-fill" style="width: 0%"></div>
+                    </div>
+                    <div class="approval-stats" id="approval-stats">
+                        <span class="stat-chip stat-approved"><span class="stat-dot"></span> <span id="stat-approved-count">0</span> approved</span>
+                        <span class="stat-chip stat-rejected"><span class="stat-dot"></span> <span id="stat-rejected-count">0</span> rejected</span>
+                        <span class="stat-chip stat-unreviewed"><span class="stat-dot"></span> <span id="stat-unreviewed-count">0</span> unreviewed</span>
+                    </div>
+                </div>
+                <div class="header-actions">
+                    <button class="btn btn-secondary" onclick="resetAll()">Reset All</button>
+                    <button class="btn btn-csv" id="btn-csv" onclick="downloadPostPlannerCSV()" disabled>PostPlanner Upload (0 approved)</button>
+                    <button class="btn btn-csv" id="btn-tobi" onclick="downloadTOBIExport()" disabled style="background: #831843; border-color: #f472b6;">TOBI Upload (0 approved)</button>
+                    <button class="btn btn-primary" onclick="exportApprovals()">Export JSON</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="filter-bar">
+            <button class="filter-btn active" onclick="filterByStatus('all')">All</button>
+            <button class="filter-btn" onclick="filterByStatus('unreviewed')">Unreviewed</button>
+            <button class="filter-btn" onclick="filterByStatus('approved')">Approved</button>
+            <button class="filter-btn" onclick="filterByStatus('needs-edit')">Needs Edit</button>
+            <button class="filter-btn" onclick="filterByStatus('rejected')">Rejected</button>
+        </div>
+
+
+        <div class="content">
+            <div class="cards-container" id="cards-container">
+                <div class="card" data-id="story-1-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">BMW Championship Preview — Scheffler vs. Burns, 3 Days to Bellerive</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-1-daily_brief">
+                        <div class="card-content-text">BMW Championship Preview — Scheffler vs. Burns, 3 Days to Bellerive
+- **Tier:** 1</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-1-daily_brief" placeholder="Edit content here...">BMW Championship Preview — Scheffler vs. Burns, 3 Days to Bellerive
+- **Tier:** 1</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-1-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-1-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-1-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-1-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-1-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-1-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-1-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-1-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-1-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-1-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-1-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-1-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">BMW Championship Preview — Scheffler vs. Burns, 3 Days to Bellerive</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 1-1</span><span class="tweet-meta-badge tweet-meta-tier">Tier 1</span><span class="tweet-meta-badge tweet-meta-hashtags">#PGATour #BMWChampionship</span></div>
+
+                    <div class="card-content expanded" id="content-story-1-x_post-1">
+                        <div class="card-content-text">Three days to Bellerive.
+
+BMW Championship: top 50 compete. Top 30 advance to the Tour Championship.
+
+Scheffler is the No. 1 seed. Burns arrives fresh from winning the St. Jude last week.
+
+$20M purse. 20 careers end in St. Louis.
+
+#PGATour #BMWChampionship</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-1-x_post-1" placeholder="Edit content here...">Three days to Bellerive.
+
+BMW Championship: top 50 compete. Top 30 advance to the Tour Championship.
+
+Scheffler is the No. 1 seed. Burns arrives fresh from winning the St. Jude last week.
+
+$20M purse. 20 careers end in St. Louis.
+
+#PGATour #BMWChampionship</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-1-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-1-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-1-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-1-x_post-1">Characters: 256/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-1-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-1-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-1-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-1-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-1-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-1-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-1-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-1-x_post-1"></div>
+                </div>
+                <div class="card" data-id="story-1-x_post-2" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">BMW Championship Preview — Scheffler vs. Burns, 3 Days to Bellerive</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 1-2</span><span class="tweet-meta-badge tweet-meta-tier">Tier 1</span><span class="tweet-meta-badge tweet-meta-hashtags">#PGATour #FedExCup</span></div>
+
+                    <div class="card-content expanded" id="content-story-1-x_post-2">
+                        <div class="card-content-text">The BMW Championship field:
+
+Scheffler. Burns. McIlroy. Schauffele. Young. Morikawa.
+
+Top 50 in for $20M. Top 30 advance to East Lake.
+
+Bellerive Country Club. Aug 20-23. The FedExCup is getting real.
+
+#PGATour #FedExCup</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-1-x_post-2" placeholder="Edit content here...">The BMW Championship field:
+
+Scheffler. Burns. McIlroy. Schauffele. Young. Morikawa.
+
+Top 50 in for $20M. Top 30 advance to East Lake.
+
+Bellerive Country Club. Aug 20-23. The FedExCup is getting real.
+
+#PGATour #FedExCup</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-1-x_post-2">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-1-x_post-2')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-1-x_post-2')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-1-x_post-2">Characters: 220/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-1-x_post-2">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-1-x_post-2')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-1-x_post-2')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-1-x_post-2')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-1-x_post-2')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-1-x_post-2">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-1-x_post-2" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-1-x_post-2"></div>
+                </div>
+                <div class="card" data-id="story-2-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">CPKC Women&#x27;s Open — Korda and Henderson Headline at Royal Mayfair, Edmonton</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-2-daily_brief">
+                        <div class="card-content-text">CPKC Women&#x27;s Open — Korda and Henderson Headline at Royal Mayfair, Edmonton
+- **Tier:** 1</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-2-daily_brief" placeholder="Edit content here...">CPKC Women&#x27;s Open — Korda and Henderson Headline at Royal Mayfair, Edmonton
+- **Tier:** 1</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-2-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-2-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-2-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-2-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-2-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-2-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-2-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-2-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-2-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-2-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-2-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-2-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">CPKC Women&#x27;s Open — Korda and Henderson Headline at Royal Mayfair, Edmonton</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 2-1</span><span class="tweet-meta-badge tweet-meta-tier">Tier 1</span><span class="tweet-meta-badge tweet-meta-hashtags">#LPGA #CPKCWomensOpen</span></div>
+
+                    <div class="card-content expanded" id="content-story-2-x_post-1">
+                        <div class="card-content-text">Nelly Korda vs. Brooke Henderson. This week in Edmonton.
+
+The CPKC Women&#x27;s Open starts Aug 19 at Royal Mayfair Golf Club — $2.75M purse, 15 Canadian players, and a defending champion playing on home soil.
+
+Korda has 3 majors this year alone.
+
+#LPGA #CPKCWomensOpen</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-2-x_post-1" placeholder="Edit content here...">Nelly Korda vs. Brooke Henderson. This week in Edmonton.
+
+The CPKC Women&#x27;s Open starts Aug 19 at Royal Mayfair Golf Club — $2.75M purse, 15 Canadian players, and a defending champion playing on home soil.
+
+Korda has 3 majors this year alone.
+
+#LPGA #CPKCWomensOpen</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-2-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-2-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-2-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-2-x_post-1">Characters: 264/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-2-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-2-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-2-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-2-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-2-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-2-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-2-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-2-x_post-1"></div>
+                </div>
+                <div class="card" data-id="story-2-x_post-2" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">CPKC Women&#x27;s Open — Korda and Henderson Headline at Royal Mayfair, Edmonton</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 2-2</span><span class="tweet-meta-badge tweet-meta-tier">Tier 1</span><span class="tweet-meta-badge tweet-meta-hashtags">#LPGA #Golf</span></div>
+
+                    <div class="card-content expanded" id="content-story-2-x_post-2">
+                        <div class="card-content-text">Royal Mayfair Golf Club in Edmonton. A Stanley Thompson design from 1922 carved through the North Saskatchewan River Valley.
+
+The 52nd CPKC Women&#x27;s Open starts Wednesday with Nelly Korda and Brooke Henderson as the marquee names.
+
+#LPGA #Golf</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-2-x_post-2" placeholder="Edit content here...">Royal Mayfair Golf Club in Edmonton. A Stanley Thompson design from 1922 carved through the North Saskatchewan River Valley.
+
+The 52nd CPKC Women&#x27;s Open starts Wednesday with Nelly Korda and Brooke Henderson as the marquee names.
+
+#LPGA #Golf</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-2-x_post-2">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-2-x_post-2')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-2-x_post-2')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-2-x_post-2">Characters: 242/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-2-x_post-2">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-2-x_post-2')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-2-x_post-2')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-2-x_post-2')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-2-x_post-2')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-2-x_post-2">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-2-x_post-2" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-2-x_post-2"></div>
+                </div>
+                <div class="card" data-id="story-3-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Rory McIlroy&#x27;s BMW Redemption — Returning to Bellerive After St. Jude Horror</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-3-daily_brief">
+                        <div class="card-content-text">Rory McIlroy&#x27;s BMW Redemption — Returning to Bellerive After St. Jude Horror
+- **Tier:** 2</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-3-daily_brief" placeholder="Edit content here...">Rory McIlroy&#x27;s BMW Redemption — Returning to Bellerive After St. Jude Horror
+- **Tier:** 2</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-3-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-3-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-3-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-3-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-3-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-3-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-3-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-3-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-3-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-3-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-3-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-3-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Rory McIlroy&#x27;s BMW Redemption — Returning to Bellerive After St. Jude Horror</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 3</span><span class="tweet-meta-badge tweet-meta-tier">Tier 2</span><span class="tweet-meta-badge tweet-meta-hashtags">#PGATour #RoryMcIlroy</span></div>
+
+                    <div class="card-content expanded" id="content-story-3-x_post-1">
+                        <div class="card-content-text">Rory McIlroy finished 66th at the FedEx St. Jude. 8-over. Not one sub-par round.
+
+Now he goes to Bellerive — a course that rewards exactly what McIlroy does best.
+
+Three-time FedExCup champion. He&#x27;s not done yet.
+
+#PGATour #RoryMcIlroy</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-3-x_post-1" placeholder="Edit content here...">Rory McIlroy finished 66th at the FedEx St. Jude. 8-over. Not one sub-par round.
+
+Now he goes to Bellerive — a course that rewards exactly what McIlroy does best.
+
+Three-time FedExCup champion. He&#x27;s not done yet.
+
+#PGATour #RoryMcIlroy</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-3-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-3-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-3-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-3-x_post-1">Characters: 235/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-3-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-3-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-3-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-3-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-3-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-3-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-3-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-3-x_post-1"></div>
+                </div>
+                <div class="card" data-id="story-4-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">LIV Golf Indianapolis — Team Championship at Chatham Hills (4 Days Away)</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-4-daily_brief">
+                        <div class="card-content-text">LIV Golf Indianapolis — Team Championship at Chatham Hills (4 Days Away)
+- **Tier:** 2</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-4-daily_brief" placeholder="Edit content here...">LIV Golf Indianapolis — Team Championship at Chatham Hills (4 Days Away)
+- **Tier:** 2</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-4-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-4-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-4-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-4-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-4-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-4-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-4-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-4-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-4-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-4-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-4-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-4-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">LIV Golf Indianapolis — Team Championship at Chatham Hills (4 Days Away)</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 4</span><span class="tweet-meta-badge tweet-meta-tier">Tier 2</span><span class="tweet-meta-badge tweet-meta-hashtags">#LIVGolf #Indianapolis</span></div>
+
+                    <div class="card-content expanded" id="content-story-4-x_post-1">
+                        <div class="card-content-text">LIV Golf Indianapolis is 4 days away at The Club at Chatham Hills.
+
+Pete Dye&#x27;s final course design. Rahm already has the individual title locked. The team championship is what&#x27;s left.
+
+August 21-23. Western Indiana. Golf history.
+
+#LIVGolf #Indianapolis</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-4-x_post-1" placeholder="Edit content here...">LIV Golf Indianapolis is 4 days away at The Club at Chatham Hills.
+
+Pete Dye&#x27;s final course design. Rahm already has the individual title locked. The team championship is what&#x27;s left.
+
+August 21-23. Western Indiana. Golf history.
+
+#LIVGolf #Indianapolis</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-4-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-4-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-4-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-4-x_post-1">Characters: 253/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-4-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-4-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-4-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-4-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-4-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-4-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-4-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-4-x_post-1"></div>
+                </div>
+                <div class="card" data-id="story-5-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Jordan Spieth at BMW — FedExCup Dream Alive After Near-Miss in Memphis</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-5-daily_brief">
+                        <div class="card-content-text">Jordan Spieth at BMW — FedExCup Dream Alive After Near-Miss in Memphis
+- **Tier:** 2</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-5-daily_brief" placeholder="Edit content here...">Jordan Spieth at BMW — FedExCup Dream Alive After Near-Miss in Memphis
+- **Tier:** 2</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-5-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-5-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-5-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-5-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-5-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-5-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-5-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-5-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-5-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-5-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-5-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-5-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Jordan Spieth at BMW — FedExCup Dream Alive After Near-Miss in Memphis</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 5</span><span class="tweet-meta-badge tweet-meta-tier">Tier 2</span><span class="tweet-meta-badge tweet-meta-hashtags">#PGATour #JordanSpieth</span></div>
+
+                    <div class="card-content expanded" id="content-story-5-x_post-1">
+                        <div class="card-content-text">Jordan Spieth: 15 straight BMW Championships.
+
+Nearly missed it this year — entered St. Jude ranked 54th, outside the top 50. Bogey-free 65 in R1 saved him.
+
+Winless in 2026. Needs top 30 at Bellerive to reach East Lake.
+
+#PGATour #JordanSpieth</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-5-x_post-1" placeholder="Edit content here...">Jordan Spieth: 15 straight BMW Championships.
+
+Nearly missed it this year — entered St. Jude ranked 54th, outside the top 50. Bogey-free 65 in R1 saved him.
+
+Winless in 2026. Needs top 30 at Bellerive to reach East Lake.
+
+#PGATour #JordanSpieth</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-5-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-5-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-5-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-5-x_post-1">Characters: 244/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-5-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-5-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-5-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-5-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-5-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-5-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-5-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-5-x_post-1"></div>
+                </div>
+                <div class="card" data-id="article-article-01-bmw-championship-preview-scheffler-burns-bellerive" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">BMW Championship Preview: Scheffler, Burns, and the Battle for 30 Spots at Bellerive</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-01-bmw-championship-preview-scheffler-burns-bellerive">
+                        <iframe class="article-frame" srcdoc="<article>
+  <header>
+    <h1>BMW Championship Preview: Scheffler, Burns, and the Battle for 30 Spots at Bellerive</h1>
+    <p class=&quot;byline&quot;>By Ryan Calloway | August 17, 2026</p>
+    <p class=&quot;deck&quot;>The FedExCup Playoffs reach their decisive moment this week as 50 players converge on Bellerive Country Club in St. Louis — and only 30 of them will have a season left when it's over.</p>
+  </header>
+
+  <section>
+    <p>Three days from now, the BMW Championship tees off at Bellerive Country Club in St. Louis, and the FedExCup Playoffs move into their second-to-last chapter. Fifty players qualify. Thirty advance to the Tour Championship at East Lake. Twenty go home. The format is as clean and brutal as anything in professional golf, and the $20 million purse attached to it makes Bellerive one of the richest events on the PGA Tour calendar.</p>
+    <p>This is the week where careers pivot. This is the week where regular-season accomplishments mean almost nothing anymore.</p>
+  </section>
+
+  <section>
+    <h2>Scheffler Arrives as the Clear Favorite</h2>
+    <p>Scottie Scheffler enters the BMW Championship as the No. 1 seed in the FedExCup standings, carrying a points lead built over one of the most dominant regular seasons in recent PGA Tour history. His game is built precisely for the challenges Bellerive presents.</p>
+    <p>Bellerive Country Club is a par 70 layout measuring 7,448 yards — long, demanding, and unforgiving of directional mistakes. The course rewards accurate driving, elite iron play from mid-to-long range, and the kind of mental composure that separates top players from everyone else under pressure. Those are exactly Scheffler's three best attributes. He doesn't win ugly. He wins by executing the plan better than everyone else on the course.</p>
+    <p>Bellerive last hosted a major in 2018, when Brooks Koepka shot a 72-hole total of 264 to win the PGA Championship — one of the lowest totals in major championship history. The course has been stretched and refined since, but its fundamental character remains: long hitters who control their irons win here. Scheffler fits that profile as well as anyone in the field.</p>
+  </section>
+
+  <section>
+    <h2>Sam Burns Arrives with Momentum</h2>
+    <p>If Scheffler is the chalk, Sam Burns is the story. The Louisiana native won the FedEx St. Jude Championship last week at TPC Southwind, converting a third-round 62 into a Sunday title run that will be remembered as one of the more dramatic Playoff victories in recent years. He heads to Bellerive with the validation of a Playoff win and the confidence of a player who just went through the fire and came out the other side holding a trophy.</p>
+    <p>Burns's ability to sustain that momentum into a second consecutive Playoff event is one of the most compelling questions of the week. Players who win at St. Jude and then win or contend at the BMW are rare. But it happens — and Burns's game, particularly his ball-striking and ability to build momentum over four rounds, gives him a legitimate path at Bellerive.</p>
+  </section>
+
+  <section>
+    <h2>The Rest of the Field</h2>
+    <p>Beyond Scheffler and Burns, the BMW Championship field is rich with marquee names. Rory McIlroy, a three-time FedExCup champion, arrives looking for redemption after a 66th-place finish at St. Jude that left him 8-over par without a single sub-par round. Xander Schauffele, Cameron Young, Collin Morikawa, and Hideki Matsuyama round out a group of former major champions and consistent contenders who all know how to navigate pressure-packed formats.</p>
+    <p>The field of 50 means the fringe of the top-30 cut line is where the real drama unfolds. Players ranked 25th through 45th in the FedExCup standings enter knowing their entire season could come down to four rounds in St. Louis. That pressure produces some of the most compelling golf of the Playoff calendar.</p>
+  </section>
+
+  <section>
+    <h2>What's Next</h2>
+    <p>The BMW Championship runs August 20–23 at Bellerive Country Club in St. Louis. The top 30 in the FedExCup standings after the event advance to the Tour Championship at East Lake Golf Club in Atlanta (August 27–30). The points are reset dramatically at the Tour Championship, meaning anyone inside the top 30 carries a realistic mathematical chance at the FedExCup title. For 20 players, however, the 2026 season ends on Sunday in St. Louis.</p>
+  </section>
+</article>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-01-bmw-championship-preview-scheffler-burns-bellerive" placeholder="Edit content here...">&lt;article&gt;
+  &lt;header&gt;
+    &lt;h1&gt;BMW Championship Preview: Scheffler, Burns, and the Battle for 30 Spots at Bellerive&lt;/h1&gt;
+    &lt;p class=&quot;byline&quot;&gt;By Ryan Calloway | August 17, 2026&lt;/p&gt;
+    &lt;p class=&quot;deck&quot;&gt;The FedExCup Playoffs reach their decisive moment this week as 50 players converge on Bellerive Country Club in St. Louis — and only 30 of them will have a season left when it&#x27;s over.&lt;/p&gt;
+  &lt;/header&gt;
+
+  &lt;section&gt;
+    &lt;p&gt;Three days from now, the BMW Championship tees off at Bellerive Country Club in St. Louis, and the FedExCup Playoffs move into their second-to-last chapter. Fifty players qualify. Thirty advance to the Tour Championship at East Lake. Twenty go home. The format is as clean and brutal as anything in professional golf, and the $20 million purse attached to it makes Bellerive one of the richest events on the PGA Tour calendar.&lt;/p&gt;
+    &lt;p&gt;This is the week where careers pivot. This is the week where regular-season accomplishments mean almost nothing anymore.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;Scheffler Arrives as the Clear Favorite&lt;/h2&gt;
+    &lt;p&gt;Scottie Scheffler enters the BMW Championship as the No. 1 seed in the FedExCup standings, carrying a points lead built over one of the most dominant regular seasons in recent PGA Tour history. His game is built precisely for the challenges Bellerive presents.&lt;/p&gt;
+    &lt;p&gt;Bellerive Country Club is a par 70 layout measuring 7,448 yards — long, demanding, and unforgiving of directional mistakes. The course rewards accurate driving, elite iron play from mid-to-long range, and the kind of mental composure that separates top players from everyone else under pressure. Those are exactly Scheffler&#x27;s three best attributes. He doesn&#x27;t win ugly. He wins by executing the plan better than everyone else on the course.&lt;/p&gt;
+    &lt;p&gt;Bellerive last hosted a major in 2018, when Brooks Koepka shot a 72-hole total of 264 to win the PGA Championship — one of the lowest totals in major championship history. The course has been stretched and refined since, but its fundamental character remains: long hitters who control their irons win here. Scheffler fits that profile as well as anyone in the field.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;Sam Burns Arrives with Momentum&lt;/h2&gt;
+    &lt;p&gt;If Scheffler is the chalk, Sam Burns is the story. The Louisiana native won the FedEx St. Jude Championship last week at TPC Southwind, converting a third-round 62 into a Sunday title run that will be remembered as one of the more dramatic Playoff victories in recent years. He heads to Bellerive with the validation of a Playoff win and the confidence of a player who just went through the fire and came out the other side holding a trophy.&lt;/p&gt;
+    &lt;p&gt;Burns&#x27;s ability to sustain that momentum into a second consecutive Playoff event is one of the most compelling questions of the week. Players who win at St. Jude and then win or contend at the BMW are rare. But it happens — and Burns&#x27;s game, particularly his ball-striking and ability to build momentum over four rounds, gives him a legitimate path at Bellerive.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;The Rest of the Field&lt;/h2&gt;
+    &lt;p&gt;Beyond Scheffler and Burns, the BMW Championship field is rich with marquee names. Rory McIlroy, a three-time FedExCup champion, arrives looking for redemption after a 66th-place finish at St. Jude that left him 8-over par without a single sub-par round. Xander Schauffele, Cameron Young, Collin Morikawa, and Hideki Matsuyama round out a group of former major champions and consistent contenders who all know how to navigate pressure-packed formats.&lt;/p&gt;
+    &lt;p&gt;The field of 50 means the fringe of the top-30 cut line is where the real drama unfolds. Players ranked 25th through 45th in the FedExCup standings enter knowing their entire season could come down to four rounds in St. Louis. That pressure produces some of the most compelling golf of the Playoff calendar.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+    &lt;p&gt;The BMW Championship runs August 20–23 at Bellerive Country Club in St. Louis. The top 30 in the FedExCup standings after the event advance to the Tour Championship at East Lake Golf Club in Atlanta (August 27–30). The points are reset dramatically at the Tour Championship, meaning anyone inside the top 30 carries a realistic mathematical chance at the FedExCup title. For 20 players, however, the 2026 season ends on Sunday in St. Louis.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-01-bmw-championship-preview-scheffler-burns-bellerive">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-01-bmw-championship-preview-scheffler-burns-bellerive')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-01-bmw-championship-preview-scheffler-burns-bellerive')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-01-bmw-championship-preview-scheffler-burns-bellerive">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-01-bmw-championship-preview-scheffler-burns-bellerive')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-01-bmw-championship-preview-scheffler-burns-bellerive')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-01-bmw-championship-preview-scheffler-burns-bellerive')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-01-bmw-championship-preview-scheffler-burns-bellerive')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-01-bmw-championship-preview-scheffler-burns-bellerive">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-01-bmw-championship-preview-scheffler-burns-bellerive" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-01-bmw-championship-preview-scheffler-burns-bellerive"></div>
+                </div>
+                <div class="card" data-id="article-article-02-cpkc-womens-open-korda-henderson-royal-mayfair-edmonton" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">CPKC Women&#x27;s Open: Nelly Korda Meets Brooke Henderson at Royal Mayfair</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-02-cpkc-womens-open-korda-henderson-royal-mayfair-edmonton">
+                        <iframe class="article-frame" srcdoc="<article>
+  <header>
+    <h1>CPKC Women's Open: Nelly Korda Meets Brooke Henderson at Royal Mayfair</h1>
+    <p class=&quot;byline&quot;>By Jake Torres | August 17, 2026</p>
+    <p class=&quot;deck&quot;>The biggest women's golf event in Canada opens Wednesday at one of the country's most historic courses — and the matchup between the world's best player and the defending champion makes it must-watch television.</p>
+  </header>
+
+  <section>
+    <p>The 52nd CPKC Women's Open begins August 19 at Royal Mayfair Golf Club in Edmonton, Alberta — and the field assembled for this week's $2.75 million event is as compelling as any the LPGA Tour has to offer. World No. 1 Nelly Korda leads the way. Defending champion Brooke Henderson returns to defend a title she won in front of a passionate Canadian crowd. Fifteen Canadian players make up a contingent that gives the week its distinctive national character.</p>
+    <p>This is the biggest week in Canadian women's golf, and it has the talent to match the occasion.</p>
+  </section>
+
+  <section>
+    <h2>Korda's 2026 Season Has Been Extraordinary</h2>
+    <p>Nelly Korda arrived in Edmonton as the clear favorite and the story of the LPGA Tour's 2026 season. She has won three major championships this year, including the Chevron Championship in April. She is the world's No. 1 ranked player by a significant margin. She has played with a consistency and composure this season that has made the rest of the field look like they're playing a different sport.</p>
+    <p>And yet women's golf has a way of humbling even the most dominant players. The LPGA Tour's depth is real. On any given week, 20 players can win. Korda knows that better than anyone — she has been on both sides of upsets before. She arrives in Edmonton as the favorite, but she arrives knowing the scoreboard on Sunday is the only thing that matters.</p>
+    <p>Royal Mayfair is a par 70 layout at 6,452 yards, designed by the legendary Stanley Thompson in 1922 and routed through the North Saskatchewan River Valley. Its mature tree lines and precision approach demands will test every player in the field, including Korda. Patience and iron control will be rewarded here. Wild swings from birdie to bogey will be punished.</p>
+  </section>
+
+  <section>
+    <h2>Henderson Has a Nation Behind Her</h2>
+    <p>Brooke Henderson won the CPKC Women's Open last year at Mississaugua to claim her 14th LPGA title. Returning to defend that championship, on Canadian soil, in front of a crowd that considers her a national treasure — that is a narrative the sport of golf rarely produces this cleanly.</p>
+    <p>Henderson anchors the 15-player Canadian contingent competing this week, and the energy surrounding her tee times at Royal Mayfair will be unlike anything most of the field has experienced. Canadian fans understand the history here. They understand what Henderson's victories mean. They show up in force, and they make noise.</p>
+    <p>The pressure that creates is real. But so is the advantage. Henderson has played in front of Canadian galleries her entire career. She knows how to use the energy rather than be consumed by it.</p>
+  </section>
+
+  <section>
+    <h2>A Course Rich in History</h2>
+    <p>Royal Mayfair is hosting the CPKC Women's Open for the third time in the championship's history. The Stanley Thompson design has aged gracefully — its river valley setting gives it a visual distinction that stands out on the LPGA Tour calendar, and its routing through mature trees creates the kind of strategic golf that rewards thinking players over power hitters.</p>
+    <p>Lydia Ko won at Royal Mayfair in 2013 at just 15 years old, becoming one of the youngest major winners in the sport's history. Lorena Ochoa, the dominant force in women's golf during her era, is also among the past champions at this event. The history of the CPKC Women's Open — and of Royal Mayfair specifically — provides a rich backdrop for this week's competition.</p>
+  </section>
+
+  <section>
+    <h2>What's Next</h2>
+    <p>The CPKC Women's Open runs August 19–23 at Royal Mayfair Golf Club in Edmonton, Alberta. Pro-am and practice rounds continue through Tuesday. Competitive rounds begin Wednesday. With Korda gunning for a fourth LPGA win of 2026 and Henderson fighting to do something few players in any sport manage — defend a national title at home — the week promises to deliver exactly the kind of storylines the LPGA Tour does best.</p>
+  </section>
+</article>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-02-cpkc-womens-open-korda-henderson-royal-mayfair-edmonton" placeholder="Edit content here...">&lt;article&gt;
+  &lt;header&gt;
+    &lt;h1&gt;CPKC Women&#x27;s Open: Nelly Korda Meets Brooke Henderson at Royal Mayfair&lt;/h1&gt;
+    &lt;p class=&quot;byline&quot;&gt;By Jake Torres | August 17, 2026&lt;/p&gt;
+    &lt;p class=&quot;deck&quot;&gt;The biggest women&#x27;s golf event in Canada opens Wednesday at one of the country&#x27;s most historic courses — and the matchup between the world&#x27;s best player and the defending champion makes it must-watch television.&lt;/p&gt;
+  &lt;/header&gt;
+
+  &lt;section&gt;
+    &lt;p&gt;The 52nd CPKC Women&#x27;s Open begins August 19 at Royal Mayfair Golf Club in Edmonton, Alberta — and the field assembled for this week&#x27;s $2.75 million event is as compelling as any the LPGA Tour has to offer. World No. 1 Nelly Korda leads the way. Defending champion Brooke Henderson returns to defend a title she won in front of a passionate Canadian crowd. Fifteen Canadian players make up a contingent that gives the week its distinctive national character.&lt;/p&gt;
+    &lt;p&gt;This is the biggest week in Canadian women&#x27;s golf, and it has the talent to match the occasion.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;Korda&#x27;s 2026 Season Has Been Extraordinary&lt;/h2&gt;
+    &lt;p&gt;Nelly Korda arrived in Edmonton as the clear favorite and the story of the LPGA Tour&#x27;s 2026 season. She has won three major championships this year, including the Chevron Championship in April. She is the world&#x27;s No. 1 ranked player by a significant margin. She has played with a consistency and composure this season that has made the rest of the field look like they&#x27;re playing a different sport.&lt;/p&gt;
+    &lt;p&gt;And yet women&#x27;s golf has a way of humbling even the most dominant players. The LPGA Tour&#x27;s depth is real. On any given week, 20 players can win. Korda knows that better than anyone — she has been on both sides of upsets before. She arrives in Edmonton as the favorite, but she arrives knowing the scoreboard on Sunday is the only thing that matters.&lt;/p&gt;
+    &lt;p&gt;Royal Mayfair is a par 70 layout at 6,452 yards, designed by the legendary Stanley Thompson in 1922 and routed through the North Saskatchewan River Valley. Its mature tree lines and precision approach demands will test every player in the field, including Korda. Patience and iron control will be rewarded here. Wild swings from birdie to bogey will be punished.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;Henderson Has a Nation Behind Her&lt;/h2&gt;
+    &lt;p&gt;Brooke Henderson won the CPKC Women&#x27;s Open last year at Mississaugua to claim her 14th LPGA title. Returning to defend that championship, on Canadian soil, in front of a crowd that considers her a national treasure — that is a narrative the sport of golf rarely produces this cleanly.&lt;/p&gt;
+    &lt;p&gt;Henderson anchors the 15-player Canadian contingent competing this week, and the energy surrounding her tee times at Royal Mayfair will be unlike anything most of the field has experienced. Canadian fans understand the history here. They understand what Henderson&#x27;s victories mean. They show up in force, and they make noise.&lt;/p&gt;
+    &lt;p&gt;The pressure that creates is real. But so is the advantage. Henderson has played in front of Canadian galleries her entire career. She knows how to use the energy rather than be consumed by it.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;A Course Rich in History&lt;/h2&gt;
+    &lt;p&gt;Royal Mayfair is hosting the CPKC Women&#x27;s Open for the third time in the championship&#x27;s history. The Stanley Thompson design has aged gracefully — its river valley setting gives it a visual distinction that stands out on the LPGA Tour calendar, and its routing through mature trees creates the kind of strategic golf that rewards thinking players over power hitters.&lt;/p&gt;
+    &lt;p&gt;Lydia Ko won at Royal Mayfair in 2013 at just 15 years old, becoming one of the youngest major winners in the sport&#x27;s history. Lorena Ochoa, the dominant force in women&#x27;s golf during her era, is also among the past champions at this event. The history of the CPKC Women&#x27;s Open — and of Royal Mayfair specifically — provides a rich backdrop for this week&#x27;s competition.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+    &lt;p&gt;The CPKC Women&#x27;s Open runs August 19–23 at Royal Mayfair Golf Club in Edmonton, Alberta. Pro-am and practice rounds continue through Tuesday. Competitive rounds begin Wednesday. With Korda gunning for a fourth LPGA win of 2026 and Henderson fighting to do something few players in any sport manage — defend a national title at home — the week promises to deliver exactly the kind of storylines the LPGA Tour does best.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-02-cpkc-womens-open-korda-henderson-royal-mayfair-edmonton">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-02-cpkc-womens-open-korda-henderson-royal-mayfair-edmonton')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-02-cpkc-womens-open-korda-henderson-royal-mayfair-edmonton')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-02-cpkc-womens-open-korda-henderson-royal-mayfair-edmonton">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-02-cpkc-womens-open-korda-henderson-royal-mayfair-edmonton')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-02-cpkc-womens-open-korda-henderson-royal-mayfair-edmonton')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-02-cpkc-womens-open-korda-henderson-royal-mayfair-edmonton')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-02-cpkc-womens-open-korda-henderson-royal-mayfair-edmonton')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-02-cpkc-womens-open-korda-henderson-royal-mayfair-edmonton">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-02-cpkc-womens-open-korda-henderson-royal-mayfair-edmonton" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-02-cpkc-womens-open-korda-henderson-royal-mayfair-edmonton"></div>
+                </div>
+                <div class="card" data-id="article-article-03-mcilroy-bmw-redemption-bellerive-after-st-jude" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Rory McIlroy at Bellerive: A Course Built for Redemption</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-03-mcilroy-bmw-redemption-bellerive-after-st-jude">
+                        <iframe class="article-frame" srcdoc="<article>
+  <header>
+    <h1>Rory McIlroy at Bellerive: A Course Built for Redemption</h1>
+    <p class=&quot;byline&quot;>By Marcus Cole | August 17, 2026</p>
+    <p class=&quot;deck&quot;>After a stunning 66th-place finish at the FedEx St. Jude Championship, McIlroy heads to a venue that rewards exactly the qualities that have made him one of the most dangerous players in the world.</p>
+  </header>
+
+  <section>
+    <p>Rory McIlroy finished 66th at the FedEx St. Jude Championship last week. Sixty-sixth. He shot 8-over par across four rounds in Memphis without once breaking par. For a player who has won the FedExCup three times, who has four major championships and a résumé that places him among the greatest players of his generation, it was a jarring result.</p>
+    <p>And yet McIlroy isn't done. He's far from it.</p>
+  </section>
+
+  <section>
+    <h2>What Went Wrong at St. Jude</h2>
+    <p>Golf Channel reported after the final round that McIlroy &quot;finds encouragement&quot; despite the 66th-place finish, and that his focus had immediately shifted to the BMW Championship at Bellerive. That framing — finding encouragement in a week of 8-over golf — is worth examining.</p>
+    <p>TPC Southwind, the host of the FedEx St. Jude Championship, demands precise iron play to short, tight targets. It is not a venue that rewards the kind of aggressive, sweeping ball flight that McIlroy generates at his best. His game translates better to longer, more open layouts — courses where he can use his distance off the tee to attack par 4s and 5s with mid-irons rather than wedges. Southwind punishes the profile. Bellerive does not.</p>
+  </section>
+
+  <section>
+    <h2>Why Bellerive Changes Everything</h2>
+    <p>Bellerive Country Club is a par 70 at 7,448 yards. It is one of the longest courses in FedExCup Playoff rotation. It rewards big-hitting, long-iron play, and the ability to attack holes from distance with controlled, penetrating ball flights. Those are the exact qualities that have made McIlroy one of the most feared players in the world for over a decade.</p>
+    <p>The last time the PGA Tour played Bellerive was the 2018 PGA Championship, when Brooks Koepka shot 264 to win — one of the lowest 72-hole scores in major championship history. Koepka won that week by being the most accurate driver and the best long-iron player in the field under pressure. McIlroy can do those same things when he's dialed in. Bellerive gives him the right canvas.</p>
+    <p>Notably, Koepka did not qualify for the 2026 FedExCup Playoffs at all — a reminder of how quickly fortunes shift in professional golf, and why McIlroy's one rough week should not be treated as a trend. Three FedExCup titles says the trend runs the other direction.</p>
+  </section>
+
+  <section>
+    <h2>The Stakes for McIlroy This Week</h2>
+    <p>McIlroy enters Bellerive ranked approximately No. 12 in the FedExCup standings — a position that comfortably places him inside the top 30 required to advance to the Tour Championship at East Lake. He does not need to win this week to extend his season. But for a player of McIlroy's ambitions, cruising into the Tour Championship ranked 12th is not the objective. He has won this competition three times. He wants to win it again.</p>
+    <p>A strong performance at Bellerive would accomplish several things: it would reset the narrative from the St. Jude disaster, position him inside the top-10 seed range heading into East Lake's staggered starting format, and restore the confidence of a player whose ball-striking ability is never really in question — only his putting consistency and ability to convert when his iron play generates the right looks.</p>
+  </section>
+
+  <section>
+    <h2>What's Next</h2>
+    <p>McIlroy tees it up at the BMW Championship beginning August 20 at Bellerive Country Club in St. Louis. The top 30 from this week's field advance to the Tour Championship at East Lake Golf Club (August 27–30), where the points reset gives every qualifier a mathematical path to the FedExCup title. For McIlroy, the path to a fourth FedExCup title runs through Bellerive first. And if ever there was a course to remind the world what Rory McIlroy is capable of, it is this one.</p>
+  </section>
+</article>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-03-mcilroy-bmw-redemption-bellerive-after-st-jude" placeholder="Edit content here...">&lt;article&gt;
+  &lt;header&gt;
+    &lt;h1&gt;Rory McIlroy at Bellerive: A Course Built for Redemption&lt;/h1&gt;
+    &lt;p class=&quot;byline&quot;&gt;By Marcus Cole | August 17, 2026&lt;/p&gt;
+    &lt;p class=&quot;deck&quot;&gt;After a stunning 66th-place finish at the FedEx St. Jude Championship, McIlroy heads to a venue that rewards exactly the qualities that have made him one of the most dangerous players in the world.&lt;/p&gt;
+  &lt;/header&gt;
+
+  &lt;section&gt;
+    &lt;p&gt;Rory McIlroy finished 66th at the FedEx St. Jude Championship last week. Sixty-sixth. He shot 8-over par across four rounds in Memphis without once breaking par. For a player who has won the FedExCup three times, who has four major championships and a résumé that places him among the greatest players of his generation, it was a jarring result.&lt;/p&gt;
+    &lt;p&gt;And yet McIlroy isn&#x27;t done. He&#x27;s far from it.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;What Went Wrong at St. Jude&lt;/h2&gt;
+    &lt;p&gt;Golf Channel reported after the final round that McIlroy &quot;finds encouragement&quot; despite the 66th-place finish, and that his focus had immediately shifted to the BMW Championship at Bellerive. That framing — finding encouragement in a week of 8-over golf — is worth examining.&lt;/p&gt;
+    &lt;p&gt;TPC Southwind, the host of the FedEx St. Jude Championship, demands precise iron play to short, tight targets. It is not a venue that rewards the kind of aggressive, sweeping ball flight that McIlroy generates at his best. His game translates better to longer, more open layouts — courses where he can use his distance off the tee to attack par 4s and 5s with mid-irons rather than wedges. Southwind punishes the profile. Bellerive does not.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;Why Bellerive Changes Everything&lt;/h2&gt;
+    &lt;p&gt;Bellerive Country Club is a par 70 at 7,448 yards. It is one of the longest courses in FedExCup Playoff rotation. It rewards big-hitting, long-iron play, and the ability to attack holes from distance with controlled, penetrating ball flights. Those are the exact qualities that have made McIlroy one of the most feared players in the world for over a decade.&lt;/p&gt;
+    &lt;p&gt;The last time the PGA Tour played Bellerive was the 2018 PGA Championship, when Brooks Koepka shot 264 to win — one of the lowest 72-hole scores in major championship history. Koepka won that week by being the most accurate driver and the best long-iron player in the field under pressure. McIlroy can do those same things when he&#x27;s dialed in. Bellerive gives him the right canvas.&lt;/p&gt;
+    &lt;p&gt;Notably, Koepka did not qualify for the 2026 FedExCup Playoffs at all — a reminder of how quickly fortunes shift in professional golf, and why McIlroy&#x27;s one rough week should not be treated as a trend. Three FedExCup titles says the trend runs the other direction.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;The Stakes for McIlroy This Week&lt;/h2&gt;
+    &lt;p&gt;McIlroy enters Bellerive ranked approximately No. 12 in the FedExCup standings — a position that comfortably places him inside the top 30 required to advance to the Tour Championship at East Lake. He does not need to win this week to extend his season. But for a player of McIlroy&#x27;s ambitions, cruising into the Tour Championship ranked 12th is not the objective. He has won this competition three times. He wants to win it again.&lt;/p&gt;
+    &lt;p&gt;A strong performance at Bellerive would accomplish several things: it would reset the narrative from the St. Jude disaster, position him inside the top-10 seed range heading into East Lake&#x27;s staggered starting format, and restore the confidence of a player whose ball-striking ability is never really in question — only his putting consistency and ability to convert when his iron play generates the right looks.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+    &lt;p&gt;McIlroy tees it up at the BMW Championship beginning August 20 at Bellerive Country Club in St. Louis. The top 30 from this week&#x27;s field advance to the Tour Championship at East Lake Golf Club (August 27–30), where the points reset gives every qualifier a mathematical path to the FedExCup title. For McIlroy, the path to a fourth FedExCup title runs through Bellerive first. And if ever there was a course to remind the world what Rory McIlroy is capable of, it is this one.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-03-mcilroy-bmw-redemption-bellerive-after-st-jude">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-03-mcilroy-bmw-redemption-bellerive-after-st-jude')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-03-mcilroy-bmw-redemption-bellerive-after-st-jude')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-03-mcilroy-bmw-redemption-bellerive-after-st-jude">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-03-mcilroy-bmw-redemption-bellerive-after-st-jude')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-03-mcilroy-bmw-redemption-bellerive-after-st-jude')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-03-mcilroy-bmw-redemption-bellerive-after-st-jude')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-03-mcilroy-bmw-redemption-bellerive-after-st-jude')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-03-mcilroy-bmw-redemption-bellerive-after-st-jude">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-03-mcilroy-bmw-redemption-bellerive-after-st-jude" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-03-mcilroy-bmw-redemption-bellerive-after-st-jude"></div>
+                </div>
+                <div class="card" data-id="article-article-04-liv-golf-indianapolis-chatham-hills-pete-dye-rahm" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">LIV Golf Indianapolis: Jon Rahm, Pete Dye&#x27;s Final Course, and the Team Title Still Up for Grabs</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-04-liv-golf-indianapolis-chatham-hills-pete-dye-rahm">
+                        <iframe class="article-frame" srcdoc="<article>
+  <header>
+    <h1>LIV Golf Indianapolis: Jon Rahm, Pete Dye's Final Course, and the Team Title Still Up for Grabs</h1>
+    <p class=&quot;byline&quot;>By Ryan Calloway | August 17, 2026</p>
+    <p class=&quot;deck&quot;>The LIV Golf circuit heads to Westfield, Indiana for its season-closing team championship event — on a course that carries one of the most significant labels in golf architecture history.</p>
+  </header>
+
+  <section>
+    <p>The Club at Chatham Hills in Westfield, Indiana sits 25 miles north of Indianapolis, surrounded by rolling farmland and country roads that seem far removed from professional golf's traditional center of gravity. But this week, it is exactly where golf's alternative circuit wants to be — and the venue it has chosen carries a piece of history that no other course on the LIV Golf schedule can claim.</p>
+    <p>The course at Chatham Hills was designed by Pete Dye. It was Pete Dye's final course design before his death in January 2020.</p>
+  </section>
+
+  <section>
+    <h2>Pete Dye's Last Chapter</h2>
+    <p>Pete Dye spent more than five decades reshaping what golf courses could be. He designed Sawgrass — the TPC course that hosts THE PLAYERS Championship and its iconic island green 17th hole. He designed Whistling Straits, host of multiple major championships. He designed Harbour Town Golf Links. He designed Crooked Stick. He designed Kiawah Island's Ocean Course, host of the 1991 Ryder Cup and two PGA Championships.</p>
+    <p>His signature was everywhere at Chatham Hills: railroad ties framing bunkers and water hazards, risk-reward decision points on nearly every hole, greens that punish indecision and reward precision. The Club at Chatham Hills has been voted Best Golf Course in Indiana by golfers who know it well. Dye built it to last, and he built it to challenge.</p>
+    <p>Walking Chatham Hills this week is, in a real sense, walking the last thing Pete Dye built for golf. That context is not lost on the professionals who will compete there.</p>
+  </section>
+
+  <section>
+    <h2>Rahm Has Already Won the Individual Title</h2>
+    <p>Jon Rahm clinched his third consecutive LIV Golf Individual Championship earlier in the 2026 season. He enters Indianapolis with 944.54 points and a 218-point margin over the field — numbers that make the individual competition a formality. He will compete at Chatham Hills as a champion who already knows the outcome of his personal race.</p>
+    <p>That shifts the competitive framing entirely. The team championship is the live storyline at Indianapolis. With the individual title settled, every meaningful result this week belongs to team standings and postseason pride. LIV Golf's team format — which assigns players to squads and tracks aggregate performance across the season — reaches its conclusion in Indiana.</p>
+  </section>
+
+  <section>
+    <h2>Festival Golf in Western Indiana</h2>
+    <p>LIV Golf Indianapolis follows the circuit's established template of combining competitive golf with concert entertainment. Thomas Rhett performs Friday night. Disco Lines brings a high-energy set on Saturday. The atmosphere that results — golf fans mixing with concert-goers on a Pete Dye course that most of them have never seen — is precisely the format LIV has used to build its distinct brand identity.</p>
+    <p>The event is scheduled for August 21–23 with a shotgun start format that keeps the competitive window tight and the entertainment footprint broad. For golf fans in the midwest, it represents one of the rare opportunities to see world-class players on a marquee Pete Dye design without traveling to Florida, Wisconsin, or the Carolinas.</p>
+  </section>
+
+  <section>
+    <h2>What's Next</h2>
+    <p>LIV Golf Indianapolis runs August 21–23 at The Club at Chatham Hills in Westfield, Indiana. The individual championship narrative belongs to Rahm. The team championship adds competitive urgency to a week that might otherwise feel like a victory lap. And Pete Dye's fingerprints on every fairway and bunker give the venue a resonance that makes the event worth paying attention to regardless of where you stand on professional golf's current landscape.</p>
+  </section>
+</article>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-04-liv-golf-indianapolis-chatham-hills-pete-dye-rahm" placeholder="Edit content here...">&lt;article&gt;
+  &lt;header&gt;
+    &lt;h1&gt;LIV Golf Indianapolis: Jon Rahm, Pete Dye&#x27;s Final Course, and the Team Title Still Up for Grabs&lt;/h1&gt;
+    &lt;p class=&quot;byline&quot;&gt;By Ryan Calloway | August 17, 2026&lt;/p&gt;
+    &lt;p class=&quot;deck&quot;&gt;The LIV Golf circuit heads to Westfield, Indiana for its season-closing team championship event — on a course that carries one of the most significant labels in golf architecture history.&lt;/p&gt;
+  &lt;/header&gt;
+
+  &lt;section&gt;
+    &lt;p&gt;The Club at Chatham Hills in Westfield, Indiana sits 25 miles north of Indianapolis, surrounded by rolling farmland and country roads that seem far removed from professional golf&#x27;s traditional center of gravity. But this week, it is exactly where golf&#x27;s alternative circuit wants to be — and the venue it has chosen carries a piece of history that no other course on the LIV Golf schedule can claim.&lt;/p&gt;
+    &lt;p&gt;The course at Chatham Hills was designed by Pete Dye. It was Pete Dye&#x27;s final course design before his death in January 2020.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;Pete Dye&#x27;s Last Chapter&lt;/h2&gt;
+    &lt;p&gt;Pete Dye spent more than five decades reshaping what golf courses could be. He designed Sawgrass — the TPC course that hosts THE PLAYERS Championship and its iconic island green 17th hole. He designed Whistling Straits, host of multiple major championships. He designed Harbour Town Golf Links. He designed Crooked Stick. He designed Kiawah Island&#x27;s Ocean Course, host of the 1991 Ryder Cup and two PGA Championships.&lt;/p&gt;
+    &lt;p&gt;His signature was everywhere at Chatham Hills: railroad ties framing bunkers and water hazards, risk-reward decision points on nearly every hole, greens that punish indecision and reward precision. The Club at Chatham Hills has been voted Best Golf Course in Indiana by golfers who know it well. Dye built it to last, and he built it to challenge.&lt;/p&gt;
+    &lt;p&gt;Walking Chatham Hills this week is, in a real sense, walking the last thing Pete Dye built for golf. That context is not lost on the professionals who will compete there.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;Rahm Has Already Won the Individual Title&lt;/h2&gt;
+    &lt;p&gt;Jon Rahm clinched his third consecutive LIV Golf Individual Championship earlier in the 2026 season. He enters Indianapolis with 944.54 points and a 218-point margin over the field — numbers that make the individual competition a formality. He will compete at Chatham Hills as a champion who already knows the outcome of his personal race.&lt;/p&gt;
+    &lt;p&gt;That shifts the competitive framing entirely. The team championship is the live storyline at Indianapolis. With the individual title settled, every meaningful result this week belongs to team standings and postseason pride. LIV Golf&#x27;s team format — which assigns players to squads and tracks aggregate performance across the season — reaches its conclusion in Indiana.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;Festival Golf in Western Indiana&lt;/h2&gt;
+    &lt;p&gt;LIV Golf Indianapolis follows the circuit&#x27;s established template of combining competitive golf with concert entertainment. Thomas Rhett performs Friday night. Disco Lines brings a high-energy set on Saturday. The atmosphere that results — golf fans mixing with concert-goers on a Pete Dye course that most of them have never seen — is precisely the format LIV has used to build its distinct brand identity.&lt;/p&gt;
+    &lt;p&gt;The event is scheduled for August 21–23 with a shotgun start format that keeps the competitive window tight and the entertainment footprint broad. For golf fans in the midwest, it represents one of the rare opportunities to see world-class players on a marquee Pete Dye design without traveling to Florida, Wisconsin, or the Carolinas.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+    &lt;p&gt;LIV Golf Indianapolis runs August 21–23 at The Club at Chatham Hills in Westfield, Indiana. The individual championship narrative belongs to Rahm. The team championship adds competitive urgency to a week that might otherwise feel like a victory lap. And Pete Dye&#x27;s fingerprints on every fairway and bunker give the venue a resonance that makes the event worth paying attention to regardless of where you stand on professional golf&#x27;s current landscape.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-04-liv-golf-indianapolis-chatham-hills-pete-dye-rahm">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-04-liv-golf-indianapolis-chatham-hills-pete-dye-rahm')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-04-liv-golf-indianapolis-chatham-hills-pete-dye-rahm')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-04-liv-golf-indianapolis-chatham-hills-pete-dye-rahm">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-04-liv-golf-indianapolis-chatham-hills-pete-dye-rahm')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-04-liv-golf-indianapolis-chatham-hills-pete-dye-rahm')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-04-liv-golf-indianapolis-chatham-hills-pete-dye-rahm')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-04-liv-golf-indianapolis-chatham-hills-pete-dye-rahm')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-04-liv-golf-indianapolis-chatham-hills-pete-dye-rahm">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-04-liv-golf-indianapolis-chatham-hills-pete-dye-rahm" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-04-liv-golf-indianapolis-chatham-hills-pete-dye-rahm"></div>
+                </div>
+                <div class="card" data-id="article-article-05-jordan-spieth-bmw-championship-15-consecutive-fedexcup" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Jordan Spieth&#x27;s 15-Year Streak: Winless in 2026 but Still Very Much Alive</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-05-jordan-spieth-bmw-championship-15-consecutive-fedexcup">
+                        <iframe class="article-frame" srcdoc="<article>
+  <header>
+    <h1>Jordan Spieth's 15-Year Streak: Winless in 2026 but Still Very Much Alive</h1>
+    <p class=&quot;byline&quot;>By Jake Torres | August 17, 2026</p>
+    <p class=&quot;deck&quot;>He entered Memphis ranked 54th, nearly out of the Playoffs before they started. He leaves with his 15th consecutive BMW Championship berth — and a genuine shot at the Tour Championship if he can find his form at Bellerive.</p>
+  </header>
+
+  <section>
+    <p>Jordan Spieth almost didn't make it to Bellerive. Let that settle for a moment, because the context matters: Jordan Spieth, three-time major champion, 2015 FedExCup winner, one of the most decorated players of his generation, entered the FedEx St. Jude Championship ranked 54th in the FedExCup standings — four spots outside the cut line that qualifies for the BMW Championship.</p>
+    <p>He needed Memphis. He delivered in Memphis. A bogey-free 65 in the first round pushed him inside the top 50, and he did enough over the remaining rounds to hold his position. His 15th consecutive BMW Championship berth is secure. The streak lives.</p>
+  </section>
+
+  <section>
+    <h2>What the Streak Actually Means</h2>
+    <p>Fifteen consecutive appearances at the BMW Championship stretches back to 2012. In that time, Spieth has navigated the kind of career arc that would have ended lesser players' runs years ago. He broke onto the scene as a teenager with impossible composure. He dominated from 2015 through 2017, winning three majors in three years, nearly completing the Grand Slam at The Masters in 2016 before one of golf's most famous collapses on the back nine Sunday. He struggled with his putting mechanics for three seasons in a way that made analysts question whether he would ever recapture what he had.</p>
+    <p>And yet here he is, in August of 2026, standing on the tee at Bellerive for the 15th straight year. The streak is not a statistic. It is a testimony to professional golf's basic truth: showing up when it matters is harder than it looks, and Spieth has shown up, every single year, regardless of form.</p>
+  </section>
+
+  <section>
+    <h2>The Challenge Ahead at Bellerive</h2>
+    <p>Spieth has not won on the PGA Tour in 2026. He has no top-10 finishes from the regular season. He arrives at the BMW Championship carrying the weight of a year that has not produced the results he expected — and with only four rounds at Bellerive standing between him and a Tour Championship appearance.</p>
+    <p>The top 30 in the FedExCup standings after the BMW advance to East Lake. The points reset at the Tour Championship is dramatic enough that any player inside the top 30 carries a mathematical shot at the title. For Spieth, reaching East Lake would represent more than just a tournament appearance. It would be validation — evidence that despite a difficult year, he still belongs in the game's elite conversation.</p>
+    <p>Bellerive's par 70 layout at 7,448 yards sets up as a place where Spieth can compete. His iron play, when it's working, is elite. His short game around the greens remains one of the best on Tour. The question, as it always is with Spieth, is his putter. If it cooperates at Bellerive, he is capable of any result on this leaderboard.</p>
+  </section>
+
+  <section>
+    <h2>What's Next</h2>
+    <p>The BMW Championship runs August 20–23 at Bellerive Country Club in St. Louis. Spieth will tee it up having entered the week inside the top 50 — comfortably enough to keep the Tour Championship dream alive if he can put together four competitive rounds. His first FedExCup title came in 2015 at East Lake. A decade later, with a streak intact and a career that has survived everything thrown at it, the question is whether he can get back there. Bellerive is the answer — or the end of the road for 2026.</p>
+  </section>
+</article>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-05-jordan-spieth-bmw-championship-15-consecutive-fedexcup" placeholder="Edit content here...">&lt;article&gt;
+  &lt;header&gt;
+    &lt;h1&gt;Jordan Spieth&#x27;s 15-Year Streak: Winless in 2026 but Still Very Much Alive&lt;/h1&gt;
+    &lt;p class=&quot;byline&quot;&gt;By Jake Torres | August 17, 2026&lt;/p&gt;
+    &lt;p class=&quot;deck&quot;&gt;He entered Memphis ranked 54th, nearly out of the Playoffs before they started. He leaves with his 15th consecutive BMW Championship berth — and a genuine shot at the Tour Championship if he can find his form at Bellerive.&lt;/p&gt;
+  &lt;/header&gt;
+
+  &lt;section&gt;
+    &lt;p&gt;Jordan Spieth almost didn&#x27;t make it to Bellerive. Let that settle for a moment, because the context matters: Jordan Spieth, three-time major champion, 2015 FedExCup winner, one of the most decorated players of his generation, entered the FedEx St. Jude Championship ranked 54th in the FedExCup standings — four spots outside the cut line that qualifies for the BMW Championship.&lt;/p&gt;
+    &lt;p&gt;He needed Memphis. He delivered in Memphis. A bogey-free 65 in the first round pushed him inside the top 50, and he did enough over the remaining rounds to hold his position. His 15th consecutive BMW Championship berth is secure. The streak lives.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;What the Streak Actually Means&lt;/h2&gt;
+    &lt;p&gt;Fifteen consecutive appearances at the BMW Championship stretches back to 2012. In that time, Spieth has navigated the kind of career arc that would have ended lesser players&#x27; runs years ago. He broke onto the scene as a teenager with impossible composure. He dominated from 2015 through 2017, winning three majors in three years, nearly completing the Grand Slam at The Masters in 2016 before one of golf&#x27;s most famous collapses on the back nine Sunday. He struggled with his putting mechanics for three seasons in a way that made analysts question whether he would ever recapture what he had.&lt;/p&gt;
+    &lt;p&gt;And yet here he is, in August of 2026, standing on the tee at Bellerive for the 15th straight year. The streak is not a statistic. It is a testimony to professional golf&#x27;s basic truth: showing up when it matters is harder than it looks, and Spieth has shown up, every single year, regardless of form.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;The Challenge Ahead at Bellerive&lt;/h2&gt;
+    &lt;p&gt;Spieth has not won on the PGA Tour in 2026. He has no top-10 finishes from the regular season. He arrives at the BMW Championship carrying the weight of a year that has not produced the results he expected — and with only four rounds at Bellerive standing between him and a Tour Championship appearance.&lt;/p&gt;
+    &lt;p&gt;The top 30 in the FedExCup standings after the BMW advance to East Lake. The points reset at the Tour Championship is dramatic enough that any player inside the top 30 carries a mathematical shot at the title. For Spieth, reaching East Lake would represent more than just a tournament appearance. It would be validation — evidence that despite a difficult year, he still belongs in the game&#x27;s elite conversation.&lt;/p&gt;
+    &lt;p&gt;Bellerive&#x27;s par 70 layout at 7,448 yards sets up as a place where Spieth can compete. His iron play, when it&#x27;s working, is elite. His short game around the greens remains one of the best on Tour. The question, as it always is with Spieth, is his putter. If it cooperates at Bellerive, he is capable of any result on this leaderboard.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+    &lt;p&gt;The BMW Championship runs August 20–23 at Bellerive Country Club in St. Louis. Spieth will tee it up having entered the week inside the top 50 — comfortably enough to keep the Tour Championship dream alive if he can put together four competitive rounds. His first FedExCup title came in 2015 at East Lake. A decade later, with a streak intact and a career that has survived everything thrown at it, the question is whether he can get back there. Bellerive is the answer — or the end of the road for 2026.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-05-jordan-spieth-bmw-championship-15-consecutive-fedexcup">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-05-jordan-spieth-bmw-championship-15-consecutive-fedexcup')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-05-jordan-spieth-bmw-championship-15-consecutive-fedexcup')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-05-jordan-spieth-bmw-championship-15-consecutive-fedexcup">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-05-jordan-spieth-bmw-championship-15-consecutive-fedexcup')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-05-jordan-spieth-bmw-championship-15-consecutive-fedexcup')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-05-jordan-spieth-bmw-championship-15-consecutive-fedexcup')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-05-jordan-spieth-bmw-championship-15-consecutive-fedexcup')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-05-jordan-spieth-bmw-championship-15-consecutive-fedexcup">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-05-jordan-spieth-bmw-championship-15-consecutive-fedexcup" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-05-jordan-spieth-bmw-championship-15-consecutive-fedexcup"></div>
+                </div>
+            </div>
+
+            <div class="empty-state" id="empty-state" style="display: none;">
+                <div class="empty-state-icon">No items match your filter</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Schedule settings modal -->
+    <div class="schedule-overlay" id="schedule-overlay" onclick="closeSchedulePanel()"></div>
+    <div class="schedule-panel" id="schedule-panel">
+        <h3>Posting Schedule Settings</h3>
+        <div class="schedule-section">
+            <label>Post Date (defaults to content date)</label>
+            <input type="date" id="schedule-date" />
+        </div>
+        <div class="schedule-section">
+            <label>X / Twitter Time Slots</label>
+            <div class="time-slots" id="x-time-slots"></div>
+            <div style="margin-top:8px;">
+                <input type="time" id="new-x-time" style="width:auto;display:inline-block;margin-right:8px;" />
+                <span class="add-slot-btn" onclick="addTimeSlot('x')">+ Add Slot</span>
+            </div>
+        </div>
+        <div class="schedule-section">
+            <label>Facebook Time Slots</label>
+            <div class="time-slots" id="fb-time-slots"></div>
+            <div style="margin-top:8px;">
+                <input type="time" id="new-fb-time" style="width:auto;display:inline-block;margin-right:8px;" />
+                <span class="add-slot-btn" onclick="addTimeSlot('fb')">+ Add Slot</span>
+            </div>
+        </div>
+        <div class="schedule-section" style="background:#f9f9f9;padding:12px;border-radius:6px;font-size:12px;color:#666;">
+            Posts will be assigned to time slots in order. If you have more posts than slots, they wrap around. After downloading, upload the file directly to PostPlanner via Bulk Upload.
+        </div>
+        <div class="schedule-actions">
+            <button class="btn btn-secondary" onclick="closeSchedulePanel()">Cancel</button>
+            <button class="btn btn-csv" onclick="generateAndDownload()">Generate &amp; Download XLSX</button>
+        </div>
+    </div>
+
+    <!-- SheetJS for XLSX generation (loaded async so it doesn't block) -->
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+    <script>
+
+        const DATE = '2026-08-17';
+        const BRAND_NAME = 'Golf Fanrecap';
+        const REVIEW_STORAGE_KEY = 'golf-content-review';
+        const SCHEDULE_STORAGE_KEY = 'golf-content-schedule-config';
+        const PHOTO_SOURCE = 'imagn';
+        let reviewData = {};
+        const allStories = [{"id": "story-1-daily_brief", "title": "BMW Championship Preview \u2014 Scheffler vs. Burns, 3 Days to Bellerive", "content": "BMW Championship Preview \u2014 Scheffler vs. Burns, 3 Days to Bellerive\n- **Tier:** 1", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-1-x_post-1", "title": "BMW Championship Preview \u2014 Scheffler vs. Burns, 3 Days to Bellerive", "content": "Three days to Bellerive.\n\nBMW Championship: top 50 compete. Top 30 advance to the Tour Championship.\n\nScheffler is the No. 1 seed. Burns arrives fresh from winning the St. Jude last week.\n\n$20M purse. 20 careers end in St. Louis.\n\n#PGATour #BMWChampionship", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#PGATour #BMWChampionship", "tweet_label": "Post 1-1"}, {"id": "story-1-x_post-2", "title": "BMW Championship Preview \u2014 Scheffler vs. Burns, 3 Days to Bellerive", "content": "The BMW Championship field:\n\nScheffler. Burns. McIlroy. Schauffele. Young. Morikawa.\n\nTop 50 in for $20M. Top 30 advance to East Lake.\n\nBellerive Country Club. Aug 20-23. The FedExCup is getting real.\n\n#PGATour #FedExCup", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#PGATour #FedExCup", "tweet_label": "Post 1-2"}, {"id": "story-2-daily_brief", "title": "CPKC Women's Open \u2014 Korda and Henderson Headline at Royal Mayfair, Edmonton", "content": "CPKC Women's Open \u2014 Korda and Henderson Headline at Royal Mayfair, Edmonton\n- **Tier:** 1", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-2-x_post-1", "title": "CPKC Women's Open \u2014 Korda and Henderson Headline at Royal Mayfair, Edmonton", "content": "Nelly Korda vs. Brooke Henderson. This week in Edmonton.\n\nThe CPKC Women's Open starts Aug 19 at Royal Mayfair Golf Club \u2014 $2.75M purse, 15 Canadian players, and a defending champion playing on home soil.\n\nKorda has 3 majors this year alone.\n\n#LPGA #CPKCWomensOpen", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#LPGA #CPKCWomensOpen", "tweet_label": "Post 2-1"}, {"id": "story-2-x_post-2", "title": "CPKC Women's Open \u2014 Korda and Henderson Headline at Royal Mayfair, Edmonton", "content": "Royal Mayfair Golf Club in Edmonton. A Stanley Thompson design from 1922 carved through the North Saskatchewan River Valley.\n\nThe 52nd CPKC Women's Open starts Wednesday with Nelly Korda and Brooke Henderson as the marquee names.\n\n#LPGA #Golf", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#LPGA #Golf", "tweet_label": "Post 2-2"}, {"id": "story-3-daily_brief", "title": "Rory McIlroy's BMW Redemption \u2014 Returning to Bellerive After St. Jude Horror", "content": "Rory McIlroy's BMW Redemption \u2014 Returning to Bellerive After St. Jude Horror\n- **Tier:** 2", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-3-x_post-1", "title": "Rory McIlroy's BMW Redemption \u2014 Returning to Bellerive After St. Jude Horror", "content": "Rory McIlroy finished 66th at the FedEx St. Jude. 8-over. Not one sub-par round.\n\nNow he goes to Bellerive \u2014 a course that rewards exactly what McIlroy does best.\n\nThree-time FedExCup champion. He's not done yet.\n\n#PGATour #RoryMcIlroy", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#PGATour #RoryMcIlroy", "tweet_label": "Post 3"}, {"id": "story-4-daily_brief", "title": "LIV Golf Indianapolis \u2014 Team Championship at Chatham Hills (4 Days Away)", "content": "LIV Golf Indianapolis \u2014 Team Championship at Chatham Hills (4 Days Away)\n- **Tier:** 2", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-4-x_post-1", "title": "LIV Golf Indianapolis \u2014 Team Championship at Chatham Hills (4 Days Away)", "content": "LIV Golf Indianapolis is 4 days away at The Club at Chatham Hills.\n\nPete Dye's final course design. Rahm already has the individual title locked. The team championship is what's left.\n\nAugust 21-23. Western Indiana. Golf history.\n\n#LIVGolf #Indianapolis", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#LIVGolf #Indianapolis", "tweet_label": "Post 4"}, {"id": "story-5-daily_brief", "title": "Jordan Spieth at BMW \u2014 FedExCup Dream Alive After Near-Miss in Memphis", "content": "Jordan Spieth at BMW \u2014 FedExCup Dream Alive After Near-Miss in Memphis\n- **Tier:** 2", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-5-x_post-1", "title": "Jordan Spieth at BMW \u2014 FedExCup Dream Alive After Near-Miss in Memphis", "content": "Jordan Spieth: 15 straight BMW Championships.\n\nNearly missed it this year \u2014 entered St. Jude ranked 54th, outside the top 50. Bogey-free 65 in R1 saved him.\n\nWinless in 2026. Needs top 30 at Bellerive to reach East Lake.\n\n#PGATour #JordanSpieth", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#PGATour #JordanSpieth", "tweet_label": "Post 5"}, {"id": "article-article-01-bmw-championship-preview-scheffler-burns-bellerive", "title": "BMW Championship Preview: Scheffler, Burns, and the Battle for 30 Spots at Bellerive", "content": "<article>\n  <header>\n    <h1>BMW Championship Preview: Scheffler, Burns, and the Battle for 30 Spots at Bellerive<\/h1>\n    <p class=\"byline\">By Ryan Calloway | August 17, 2026<\/p>\n    <p class=\"deck\">The FedExCup Playoffs reach their decisive moment this week as 50 players converge on Bellerive Country Club in St. Louis \u2014 and only 30 of them will have a season left when it's over.<\/p>\n  <\/header>\n\n  <section>\n    <p>Three days from now, the BMW Championship tees off at Bellerive Country Club in St. Louis, and the FedExCup Playoffs move into their second-to-last chapter. Fifty players qualify. Thirty advance to the Tour Championship at East Lake. Twenty go home. The format is as clean and brutal as anything in professional golf, and the $20 million purse attached to it makes Bellerive one of the richest events on the PGA Tour calendar.<\/p>\n    <p>This is the week where careers pivot. This is the week where regular-season accomplishments mean almost nothing anymore.<\/p>\n  <\/section>\n\n  <section>\n    <h2>Scheffler Arrives as the Clear Favorite<\/h2>\n    <p>Scottie Scheffler enters the BMW Championship as the No. 1 seed in the FedExCup standings, carrying a points lead built over one of the most dominant regular seasons in recent PGA Tour history. His game is built precisely for the challenges Bellerive presents.<\/p>\n    <p>Bellerive Country Club is a par 70 layout measuring 7,448 yards \u2014 long, demanding, and unforgiving of directional mistakes. The course rewards accurate driving, elite iron play from mid-to-long range, and the kind of mental composure that separates top players from everyone else under pressure. Those are exactly Scheffler's three best attributes. He doesn't win ugly. He wins by executing the plan better than everyone else on the course.<\/p>\n    <p>Bellerive last hosted a major in 2018, when Brooks Koepka shot a 72-hole total of 264 to win the PGA Championship \u2014 one of the lowest totals in major championship history. The course has been stretched and refined since, but its fundamental character remains: long hitters who control their irons win here. Scheffler fits that profile as well as anyone in the field.<\/p>\n  <\/section>\n\n  <section>\n    <h2>Sam Burns Arrives with Momentum<\/h2>\n    <p>If Scheffler is the chalk, Sam Burns is the story. The Louisiana native won the FedEx St. Jude Championship last week at TPC Southwind, converting a third-round 62 into a Sunday title run that will be remembered as one of the more dramatic Playoff victories in recent years. He heads to Bellerive with the validation of a Playoff win and the confidence of a player who just went through the fire and came out the other side holding a trophy.<\/p>\n    <p>Burns's ability to sustain that momentum into a second consecutive Playoff event is one of the most compelling questions of the week. Players who win at St. Jude and then win or contend at the BMW are rare. But it happens \u2014 and Burns's game, particularly his ball-striking and ability to build momentum over four rounds, gives him a legitimate path at Bellerive.<\/p>\n  <\/section>\n\n  <section>\n    <h2>The Rest of the Field<\/h2>\n    <p>Beyond Scheffler and Burns, the BMW Championship field is rich with marquee names. Rory McIlroy, a three-time FedExCup champion, arrives looking for redemption after a 66th-place finish at St. Jude that left him 8-over par without a single sub-par round. Xander Schauffele, Cameron Young, Collin Morikawa, and Hideki Matsuyama round out a group of former major champions and consistent contenders who all know how to navigate pressure-packed formats.<\/p>\n    <p>The field of 50 means the fringe of the top-30 cut line is where the real drama unfolds. Players ranked 25th through 45th in the FedExCup standings enter knowing their entire season could come down to four rounds in St. Louis. That pressure produces some of the most compelling golf of the Playoff calendar.<\/p>\n  <\/section>\n\n  <section>\n    <h2>What's Next<\/h2>\n    <p>The BMW Championship runs August 20\u201323 at Bellerive Country Club in St. Louis. The top 30 in the FedExCup standings after the event advance to the Tour Championship at East Lake Golf Club in Atlanta (August 27\u201330). The points are reset dramatically at the Tour Championship, meaning anyone inside the top 30 carries a realistic mathematical chance at the FedExCup title. For 20 players, however, the 2026 season ends on Sunday in St. Louis.<\/p>\n  <\/section>\n<\/article>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-02-cpkc-womens-open-korda-henderson-royal-mayfair-edmonton", "title": "CPKC Women's Open: Nelly Korda Meets Brooke Henderson at Royal Mayfair", "content": "<article>\n  <header>\n    <h1>CPKC Women's Open: Nelly Korda Meets Brooke Henderson at Royal Mayfair<\/h1>\n    <p class=\"byline\">By Jake Torres | August 17, 2026<\/p>\n    <p class=\"deck\">The biggest women's golf event in Canada opens Wednesday at one of the country's most historic courses \u2014 and the matchup between the world's best player and the defending champion makes it must-watch television.<\/p>\n  <\/header>\n\n  <section>\n    <p>The 52nd CPKC Women's Open begins August 19 at Royal Mayfair Golf Club in Edmonton, Alberta \u2014 and the field assembled for this week's $2.75 million event is as compelling as any the LPGA Tour has to offer. World No. 1 Nelly Korda leads the way. Defending champion Brooke Henderson returns to defend a title she won in front of a passionate Canadian crowd. Fifteen Canadian players make up a contingent that gives the week its distinctive national character.<\/p>\n    <p>This is the biggest week in Canadian women's golf, and it has the talent to match the occasion.<\/p>\n  <\/section>\n\n  <section>\n    <h2>Korda's 2026 Season Has Been Extraordinary<\/h2>\n    <p>Nelly Korda arrived in Edmonton as the clear favorite and the story of the LPGA Tour's 2026 season. She has won three major championships this year, including the Chevron Championship in April. She is the world's No. 1 ranked player by a significant margin. She has played with a consistency and composure this season that has made the rest of the field look like they're playing a different sport.<\/p>\n    <p>And yet women's golf has a way of humbling even the most dominant players. The LPGA Tour's depth is real. On any given week, 20 players can win. Korda knows that better than anyone \u2014 she has been on both sides of upsets before. She arrives in Edmonton as the favorite, but she arrives knowing the scoreboard on Sunday is the only thing that matters.<\/p>\n    <p>Royal Mayfair is a par 70 layout at 6,452 yards, designed by the legendary Stanley Thompson in 1922 and routed through the North Saskatchewan River Valley. Its mature tree lines and precision approach demands will test every player in the field, including Korda. Patience and iron control will be rewarded here. Wild swings from birdie to bogey will be punished.<\/p>\n  <\/section>\n\n  <section>\n    <h2>Henderson Has a Nation Behind Her<\/h2>\n    <p>Brooke Henderson won the CPKC Women's Open last year at Mississaugua to claim her 14th LPGA title. Returning to defend that championship, on Canadian soil, in front of a crowd that considers her a national treasure \u2014 that is a narrative the sport of golf rarely produces this cleanly.<\/p>\n    <p>Henderson anchors the 15-player Canadian contingent competing this week, and the energy surrounding her tee times at Royal Mayfair will be unlike anything most of the field has experienced. Canadian fans understand the history here. They understand what Henderson's victories mean. They show up in force, and they make noise.<\/p>\n    <p>The pressure that creates is real. But so is the advantage. Henderson has played in front of Canadian galleries her entire career. She knows how to use the energy rather than be consumed by it.<\/p>\n  <\/section>\n\n  <section>\n    <h2>A Course Rich in History<\/h2>\n    <p>Royal Mayfair is hosting the CPKC Women's Open for the third time in the championship's history. The Stanley Thompson design has aged gracefully \u2014 its river valley setting gives it a visual distinction that stands out on the LPGA Tour calendar, and its routing through mature trees creates the kind of strategic golf that rewards thinking players over power hitters.<\/p>\n    <p>Lydia Ko won at Royal Mayfair in 2013 at just 15 years old, becoming one of the youngest major winners in the sport's history. Lorena Ochoa, the dominant force in women's golf during her era, is also among the past champions at this event. The history of the CPKC Women's Open \u2014 and of Royal Mayfair specifically \u2014 provides a rich backdrop for this week's competition.<\/p>\n  <\/section>\n\n  <section>\n    <h2>What's Next<\/h2>\n    <p>The CPKC Women's Open runs August 19\u201323 at Royal Mayfair Golf Club in Edmonton, Alberta. Pro-am and practice rounds continue through Tuesday. Competitive rounds begin Wednesday. With Korda gunning for a fourth LPGA win of 2026 and Henderson fighting to do something few players in any sport manage \u2014 defend a national title at home \u2014 the week promises to deliver exactly the kind of storylines the LPGA Tour does best.<\/p>\n  <\/section>\n<\/article>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-03-mcilroy-bmw-redemption-bellerive-after-st-jude", "title": "Rory McIlroy at Bellerive: A Course Built for Redemption", "content": "<article>\n  <header>\n    <h1>Rory McIlroy at Bellerive: A Course Built for Redemption<\/h1>\n    <p class=\"byline\">By Marcus Cole | August 17, 2026<\/p>\n    <p class=\"deck\">After a stunning 66th-place finish at the FedEx St. Jude Championship, McIlroy heads to a venue that rewards exactly the qualities that have made him one of the most dangerous players in the world.<\/p>\n  <\/header>\n\n  <section>\n    <p>Rory McIlroy finished 66th at the FedEx St. Jude Championship last week. Sixty-sixth. He shot 8-over par across four rounds in Memphis without once breaking par. For a player who has won the FedExCup three times, who has four major championships and a r\u00e9sum\u00e9 that places him among the greatest players of his generation, it was a jarring result.<\/p>\n    <p>And yet McIlroy isn't done. He's far from it.<\/p>\n  <\/section>\n\n  <section>\n    <h2>What Went Wrong at St. Jude<\/h2>\n    <p>Golf Channel reported after the final round that McIlroy \"finds encouragement\" despite the 66th-place finish, and that his focus had immediately shifted to the BMW Championship at Bellerive. That framing \u2014 finding encouragement in a week of 8-over golf \u2014 is worth examining.<\/p>\n    <p>TPC Southwind, the host of the FedEx St. Jude Championship, demands precise iron play to short, tight targets. It is not a venue that rewards the kind of aggressive, sweeping ball flight that McIlroy generates at his best. His game translates better to longer, more open layouts \u2014 courses where he can use his distance off the tee to attack par 4s and 5s with mid-irons rather than wedges. Southwind punishes the profile. Bellerive does not.<\/p>\n  <\/section>\n\n  <section>\n    <h2>Why Bellerive Changes Everything<\/h2>\n    <p>Bellerive Country Club is a par 70 at 7,448 yards. It is one of the longest courses in FedExCup Playoff rotation. It rewards big-hitting, long-iron play, and the ability to attack holes from distance with controlled, penetrating ball flights. Those are the exact qualities that have made McIlroy one of the most feared players in the world for over a decade.<\/p>\n    <p>The last time the PGA Tour played Bellerive was the 2018 PGA Championship, when Brooks Koepka shot 264 to win \u2014 one of the lowest 72-hole scores in major championship history. Koepka won that week by being the most accurate driver and the best long-iron player in the field under pressure. McIlroy can do those same things when he's dialed in. Bellerive gives him the right canvas.<\/p>\n    <p>Notably, Koepka did not qualify for the 2026 FedExCup Playoffs at all \u2014 a reminder of how quickly fortunes shift in professional golf, and why McIlroy's one rough week should not be treated as a trend. Three FedExCup titles says the trend runs the other direction.<\/p>\n  <\/section>\n\n  <section>\n    <h2>The Stakes for McIlroy This Week<\/h2>\n    <p>McIlroy enters Bellerive ranked approximately No. 12 in the FedExCup standings \u2014 a position that comfortably places him inside the top 30 required to advance to the Tour Championship at East Lake. He does not need to win this week to extend his season. But for a player of McIlroy's ambitions, cruising into the Tour Championship ranked 12th is not the objective. He has won this competition three times. He wants to win it again.<\/p>\n    <p>A strong performance at Bellerive would accomplish several things: it would reset the narrative from the St. Jude disaster, position him inside the top-10 seed range heading into East Lake's staggered starting format, and restore the confidence of a player whose ball-striking ability is never really in question \u2014 only his putting consistency and ability to convert when his iron play generates the right looks.<\/p>\n  <\/section>\n\n  <section>\n    <h2>What's Next<\/h2>\n    <p>McIlroy tees it up at the BMW Championship beginning August 20 at Bellerive Country Club in St. Louis. The top 30 from this week's field advance to the Tour Championship at East Lake Golf Club (August 27\u201330), where the points reset gives every qualifier a mathematical path to the FedExCup title. For McIlroy, the path to a fourth FedExCup title runs through Bellerive first. And if ever there was a course to remind the world what Rory McIlroy is capable of, it is this one.<\/p>\n  <\/section>\n<\/article>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-04-liv-golf-indianapolis-chatham-hills-pete-dye-rahm", "title": "LIV Golf Indianapolis: Jon Rahm, Pete Dye's Final Course, and the Team Title Still Up for Grabs", "content": "<article>\n  <header>\n    <h1>LIV Golf Indianapolis: Jon Rahm, Pete Dye's Final Course, and the Team Title Still Up for Grabs<\/h1>\n    <p class=\"byline\">By Ryan Calloway | August 17, 2026<\/p>\n    <p class=\"deck\">The LIV Golf circuit heads to Westfield, Indiana for its season-closing team championship event \u2014 on a course that carries one of the most significant labels in golf architecture history.<\/p>\n  <\/header>\n\n  <section>\n    <p>The Club at Chatham Hills in Westfield, Indiana sits 25 miles north of Indianapolis, surrounded by rolling farmland and country roads that seem far removed from professional golf's traditional center of gravity. But this week, it is exactly where golf's alternative circuit wants to be \u2014 and the venue it has chosen carries a piece of history that no other course on the LIV Golf schedule can claim.<\/p>\n    <p>The course at Chatham Hills was designed by Pete Dye. It was Pete Dye's final course design before his death in January 2020.<\/p>\n  <\/section>\n\n  <section>\n    <h2>Pete Dye's Last Chapter<\/h2>\n    <p>Pete Dye spent more than five decades reshaping what golf courses could be. He designed Sawgrass \u2014 the TPC course that hosts THE PLAYERS Championship and its iconic island green 17th hole. He designed Whistling Straits, host of multiple major championships. He designed Harbour Town Golf Links. He designed Crooked Stick. He designed Kiawah Island's Ocean Course, host of the 1991 Ryder Cup and two PGA Championships.<\/p>\n    <p>His signature was everywhere at Chatham Hills: railroad ties framing bunkers and water hazards, risk-reward decision points on nearly every hole, greens that punish indecision and reward precision. The Club at Chatham Hills has been voted Best Golf Course in Indiana by golfers who know it well. Dye built it to last, and he built it to challenge.<\/p>\n    <p>Walking Chatham Hills this week is, in a real sense, walking the last thing Pete Dye built for golf. That context is not lost on the professionals who will compete there.<\/p>\n  <\/section>\n\n  <section>\n    <h2>Rahm Has Already Won the Individual Title<\/h2>\n    <p>Jon Rahm clinched his third consecutive LIV Golf Individual Championship earlier in the 2026 season. He enters Indianapolis with 944.54 points and a 218-point margin over the field \u2014 numbers that make the individual competition a formality. He will compete at Chatham Hills as a champion who already knows the outcome of his personal race.<\/p>\n    <p>That shifts the competitive framing entirely. The team championship is the live storyline at Indianapolis. With the individual title settled, every meaningful result this week belongs to team standings and postseason pride. LIV Golf's team format \u2014 which assigns players to squads and tracks aggregate performance across the season \u2014 reaches its conclusion in Indiana.<\/p>\n  <\/section>\n\n  <section>\n    <h2>Festival Golf in Western Indiana<\/h2>\n    <p>LIV Golf Indianapolis follows the circuit's established template of combining competitive golf with concert entertainment. Thomas Rhett performs Friday night. Disco Lines brings a high-energy set on Saturday. The atmosphere that results \u2014 golf fans mixing with concert-goers on a Pete Dye course that most of them have never seen \u2014 is precisely the format LIV has used to build its distinct brand identity.<\/p>\n    <p>The event is scheduled for August 21\u201323 with a shotgun start format that keeps the competitive window tight and the entertainment footprint broad. For golf fans in the midwest, it represents one of the rare opportunities to see world-class players on a marquee Pete Dye design without traveling to Florida, Wisconsin, or the Carolinas.<\/p>\n  <\/section>\n\n  <section>\n    <h2>What's Next<\/h2>\n    <p>LIV Golf Indianapolis runs August 21\u201323 at The Club at Chatham Hills in Westfield, Indiana. The individual championship narrative belongs to Rahm. The team championship adds competitive urgency to a week that might otherwise feel like a victory lap. And Pete Dye's fingerprints on every fairway and bunker give the venue a resonance that makes the event worth paying attention to regardless of where you stand on professional golf's current landscape.<\/p>\n  <\/section>\n<\/article>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-05-jordan-spieth-bmw-championship-15-consecutive-fedexcup", "title": "Jordan Spieth's 15-Year Streak: Winless in 2026 but Still Very Much Alive", "content": "<article>\n  <header>\n    <h1>Jordan Spieth's 15-Year Streak: Winless in 2026 but Still Very Much Alive<\/h1>\n    <p class=\"byline\">By Jake Torres | August 17, 2026<\/p>\n    <p class=\"deck\">He entered Memphis ranked 54th, nearly out of the Playoffs before they started. He leaves with his 15th consecutive BMW Championship berth \u2014 and a genuine shot at the Tour Championship if he can find his form at Bellerive.<\/p>\n  <\/header>\n\n  <section>\n    <p>Jordan Spieth almost didn't make it to Bellerive. Let that settle for a moment, because the context matters: Jordan Spieth, three-time major champion, 2015 FedExCup winner, one of the most decorated players of his generation, entered the FedEx St. Jude Championship ranked 54th in the FedExCup standings \u2014 four spots outside the cut line that qualifies for the BMW Championship.<\/p>\n    <p>He needed Memphis. He delivered in Memphis. A bogey-free 65 in the first round pushed him inside the top 50, and he did enough over the remaining rounds to hold his position. His 15th consecutive BMW Championship berth is secure. The streak lives.<\/p>\n  <\/section>\n\n  <section>\n    <h2>What the Streak Actually Means<\/h2>\n    <p>Fifteen consecutive appearances at the BMW Championship stretches back to 2012. In that time, Spieth has navigated the kind of career arc that would have ended lesser players' runs years ago. He broke onto the scene as a teenager with impossible composure. He dominated from 2015 through 2017, winning three majors in three years, nearly completing the Grand Slam at The Masters in 2016 before one of golf's most famous collapses on the back nine Sunday. He struggled with his putting mechanics for three seasons in a way that made analysts question whether he would ever recapture what he had.<\/p>\n    <p>And yet here he is, in August of 2026, standing on the tee at Bellerive for the 15th straight year. The streak is not a statistic. It is a testimony to professional golf's basic truth: showing up when it matters is harder than it looks, and Spieth has shown up, every single year, regardless of form.<\/p>\n  <\/section>\n\n  <section>\n    <h2>The Challenge Ahead at Bellerive<\/h2>\n    <p>Spieth has not won on the PGA Tour in 2026. He has no top-10 finishes from the regular season. He arrives at the BMW Championship carrying the weight of a year that has not produced the results he expected \u2014 and with only four rounds at Bellerive standing between him and a Tour Championship appearance.<\/p>\n    <p>The top 30 in the FedExCup standings after the BMW advance to East Lake. The points reset at the Tour Championship is dramatic enough that any player inside the top 30 carries a mathematical shot at the title. For Spieth, reaching East Lake would represent more than just a tournament appearance. It would be validation \u2014 evidence that despite a difficult year, he still belongs in the game's elite conversation.<\/p>\n    <p>Bellerive's par 70 layout at 7,448 yards sets up as a place where Spieth can compete. His iron play, when it's working, is elite. His short game around the greens remains one of the best on Tour. The question, as it always is with Spieth, is his putter. If it cooperates at Bellerive, he is capable of any result on this leaderboard.<\/p>\n  <\/section>\n\n  <section>\n    <h2>What's Next<\/h2>\n    <p>The BMW Championship runs August 20\u201323 at Bellerive Country Club in St. Louis. Spieth will tee it up having entered the week inside the top 50 \u2014 comfortably enough to keep the Tour Championship dream alive if he can put together four competitive rounds. His first FedExCup title came in 2015 at East Lake. A decade later, with a streak intact and a career that has survived everything thrown at it, the question is whether he can get back there. Bellerive is the answer \u2014 or the end of the road for 2026.<\/p>\n  <\/section>\n<\/article>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}];
+        const imageManifest = {};
+        let imageURLs = {}; // Runtime store: {'1_x_image': 'url', '1_facebook_image': 'url', ...}
+
+        // Image URL management
+        function updateImageURL(inputEl) {
+            var story = inputEl.dataset.story;
+            var platform = inputEl.dataset.platform;
+            var url = inputEl.value.trim();
+            var key = story + '_' + platform;
+            imageURLs[key] = url;
+
+            // Update preview thumbnail
+            var preview = document.getElementById('img-preview-' + story + '-' + platform);
+            if (preview) {
+                if (url) {
+                    preview.src = url;
+                    preview.classList.add('loaded');
+                    preview.onerror = function() { this.classList.remove('loaded'); };
+                } else {
+                    preview.src = '';
+                    preview.classList.remove('loaded');
+                }
+            }
+        }
+
+        function getImageURLForStory(storyTitle, platform) {
+            // Try runtime imageURLs first (user-pasted)
+            // Extract story number from title
+            for (var key in imageURLs) {
+                if (imageURLs[key] && key.endsWith('_' + platform)) {
+                    var storyNum = key.split('_')[0];
+                    // Check if this story matches by looking at allStories
+                    for (var i = 0; i < allStories.length; i++) {
+                        if (allStories[i].title === storyTitle &&
+                            allStories[i].id.indexOf('story-' + storyNum) !== -1) {
+                            return imageURLs[key];
+                        }
+                    }
+                }
+            }
+
+            // Try manifest data
+            for (var num in imageManifest) {
+                var mdata = imageManifest[num];
+                if (mdata && mdata[platform] && mdata[platform].exported_url) {
+                    // Check if this story number matches
+                    for (var j = 0; j < allStories.length; j++) {
+                        if (allStories[j].title === storyTitle &&
+                            allStories[j].id.indexOf('story-' + num) !== -1) {
+                            return mdata[platform].exported_url;
+                        }
+                    }
+                }
+            }
+
+            return '';
+        }
+
+        function initializeApp() {
+            const saved = localStorage.getItem(REVIEW_STORAGE_KEY + '-' + DATE);
+            if (saved) {
+                try {
+                    reviewData = JSON.parse(saved);
+                } catch (e) {
+                    reviewData = {};
+                }
+            }
+
+            allStories.forEach(function(story) {
+                if (!reviewData[story.id]) {
+                    reviewData[story.id] = {
+                        id: story.id,
+                        type: story.type,
+                        status: 'unreviewed',
+                        notes: '',
+                        content: story.content,
+                        editedContent: null
+                    };
+                }
+                // Migrate old data: ensure editedContent field exists
+                if (reviewData[story.id].editedContent === undefined) {
+                    reviewData[story.id].editedContent = null;
+                }
+            });
+
+            // Restore UI state
+            Object.keys(reviewData).forEach(function(storyId) {
+                var data = reviewData[storyId];
+                var card = document.querySelector('[data-id="' + storyId + '"]');
+                if (card) {
+                    card.setAttribute('data-status', data.status);
+                    var textarea = document.getElementById('textarea-' + storyId);
+                    if (textarea) textarea.value = data.notes || '';
+                    // If content was edited, update the display and editor
+                    if (data.editedContent) {
+                        var contentText = card.querySelector('.card-content-text');
+                        if (contentText) contentText.textContent = data.editedContent;
+                        var editor = document.getElementById('editor-' + storyId);
+                        if (editor) editor.value = data.editedContent;
+                    }
+                    updateCardVisuals(storyId, data.status, !!data.editedContent);
+                }
+            });
+
+            updateProgress();
+            filterByStatus('all');
+        }
+
+        function toggleExpand(storyId) {
+            var content = document.getElementById('content-' + storyId);
+            var toggle = document.getElementById('toggle-' + storyId);
+            if (content.classList.contains('collapsed')) {
+                content.classList.remove('collapsed');
+                content.classList.add('expanded');
+                toggle.textContent = 'Collapse';
+            } else {
+                content.classList.remove('expanded');
+                content.classList.add('collapsed');
+                toggle.textContent = 'Show Full Content';
+            }
+        }
+
+        function startEdit(storyId) {
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (!card) return;
+            card.classList.add('editing');
+            var editor = document.getElementById('editor-' + storyId);
+            if (editor) {
+                // If previously edited, load edited content; otherwise load original
+                var data = reviewData[storyId];
+                if (data && data.editedContent) {
+                    editor.value = data.editedContent;
+                }
+                editor.focus();
+                // Auto-resize for articles
+                editor.style.minHeight = Math.max(300, editor.scrollHeight) + 'px';
+            }
+        }
+
+        function saveAndApprove(storyId) {
+            var editor = document.getElementById('editor-' + storyId);
+            if (!editor) return;
+            var newContent = editor.value;
+
+            // Save the edited content
+            if (!reviewData[storyId]) {
+                reviewData[storyId] = { id: storyId, status: 'approved', notes: '', content: '', editedContent: null };
+            }
+            reviewData[storyId].editedContent = newContent;
+
+            // Update the display text
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            var contentText = card ? card.querySelector('.card-content-text') : null;
+            if (contentText) contentText.textContent = newContent;
+
+            // Exit edit mode
+            if (card) card.classList.remove('editing');
+
+            // Approve
+            setStatus(storyId, 'approved');
+            updateCardVisuals(storyId, 'approved', true);
+
+            // Update char count for X posts
+            updateCharCount(storyId, newContent);
+        }
+
+        function cancelEdit(storyId) {
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (card) card.classList.remove('editing');
+        }
+
+        function updateCharCount(storyId, text) {
+            var el = document.getElementById('charcount-' + storyId);
+            if (!el) return;
+            // Strip metadata tags before counting
+            var clean = text.replace(/\[CHARACTER COUNT:.*?\]/gi, '');
+            clean = clean.replace(/\[CHAR COUNT:.*?\]/gi, '');
+            clean = clean.replace(/\[\d+\/280\]/g, '');
+            // Remove URLs for Twitter count
+            var textNoUrls = clean.replace(/https?:\/\/\S+/g, '');
+            var count = textNoUrls.trim().length;
+            el.textContent = 'Characters: ' + count + '/280' + (count > 280 ? '  OVER LIMIT' : '');
+            el.className = count > 280 ? 'char-count warning' : 'char-count';
+        }
+
+        function approveCard(storyId) {
+            setStatus(storyId, 'approved');
+            document.getElementById('notes-' + storyId).classList.remove('show');
+        }
+
+        function rejectCard(storyId) {
+            setStatus(storyId, 'rejected');
+            document.getElementById('notes-' + storyId).classList.add('show');
+        }
+
+        function setStatus(storyId, status) {
+            if (!reviewData[storyId]) {
+                var story = allStories.find(function(s) { return s.id === storyId; });
+                reviewData[storyId] = {
+                    id: storyId,
+                    type: story ? story.type : '',
+                    status: status,
+                    notes: '',
+                    content: story ? story.content : '',
+                    editedContent: null
+                };
+            }
+
+            reviewData[storyId].status = status;
+
+            var textarea = document.getElementById('textarea-' + storyId);
+            if (textarea) reviewData[storyId].notes = textarea.value;
+
+            localStorage.setItem(REVIEW_STORAGE_KEY + '-' + DATE, JSON.stringify(reviewData));
+
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (card) card.setAttribute('data-status', status);
+            updateCardVisuals(storyId, status, !!(reviewData[storyId] && reviewData[storyId].editedContent));
+            updateProgress();
+        }
+
+        function updateCardVisuals(storyId, status, wasEdited) {
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (!card) return;
+
+            card.classList.remove('approved', 'needs-edit', 'rejected');
+            if (status !== 'unreviewed') card.classList.add(status);
+
+            var statusLabel = document.getElementById('status-' + storyId);
+            if (statusLabel) {
+                statusLabel.className = 'status-label';
+                if (status === 'approved' && wasEdited) {
+                    statusLabel.textContent = 'APPROVED (EDITED)';
+                    statusLabel.classList.add('status-edited');
+                } else if (status === 'approved') {
+                    statusLabel.textContent = 'APPROVED';
+                    statusLabel.classList.add('status-approved');
+                } else if (status === 'needs-edit') {
+                    statusLabel.textContent = 'NEEDS EDIT';
+                    statusLabel.classList.add('status-needs-edit');
+                } else if (status === 'rejected') {
+                    statusLabel.textContent = 'REJECTED';
+                    statusLabel.classList.add('status-rejected');
+                } else {
+                    statusLabel.textContent = '';
+                }
+            }
+        }
+
+        function updateProgress() {
+            var approved = 0, rejected = 0, unreviewed = 0;
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (!data || data.status === 'unreviewed') unreviewed++;
+                else if (data.status === 'approved') approved++;
+                else if (data.status === 'rejected') rejected++;
+                else unreviewed++;
+            });
+            var reviewed = approved + rejected;
+            var total = allStories.length;
+            var percentage = total > 0 ? (reviewed / total * 100) : 0;
+            document.getElementById('reviewed-count').textContent = reviewed;
+            document.getElementById('total-count').textContent = total;
+            document.getElementById('progress-fill').style.width = percentage + '%';
+            // Update stat chips
+            document.getElementById('stat-approved-count').textContent = approved;
+            document.getElementById('stat-rejected-count').textContent = rejected;
+            document.getElementById('stat-unreviewed-count').textContent = unreviewed;
+            // Update CSV button
+            var csvBtn = document.getElementById('btn-csv');
+            var tobiBtn = document.getElementById('btn-tobi');
+            var socialApproved = countApprovedSocialPosts();
+            if (csvBtn) {
+                if (socialApproved > 0) {
+                    csvBtn.disabled = false;
+                    csvBtn.textContent = 'PostPlanner Upload (' + socialApproved + ' posts)';
+                } else {
+                    csvBtn.disabled = true;
+                    csvBtn.textContent = 'PostPlanner Upload (0 approved)';
+                }
+            }
+            // Update TOBI button (counts only X/Twitter text posts)
+            if (tobiBtn) {
+                var xApproved = countApprovedXPosts();
+                if (xApproved > 0) {
+                    tobiBtn.disabled = false;
+                    tobiBtn.textContent = 'TOBI Upload (' + xApproved + ' posts)';
+                } else {
+                    tobiBtn.disabled = true;
+                    tobiBtn.textContent = 'TOBI Upload (0 approved)';
+                }
+            }
+        }
+
+        function countApprovedSocialPosts() {
+            var count = 0;
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (data && data.status === 'approved' && (story.type === 'x_post' || story.type === 'facebook')) {
+                    count++;
+                }
+            });
+            return count;
+        }
+
+        function countApprovedXPosts() {
+            var count = 0;
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (data && data.status === 'approved' && story.type === 'x_post') {
+                    count++;
+                }
+            });
+            return count;
+        }
+
+        function escapeCSVField(text) {
+            if (!text) return '';
+            // If field contains comma, quote, or newline, wrap in quotes and escape inner quotes
+            if (text.indexOf(',') !== -1 || text.indexOf('"') !== -1 || text.indexOf('\n') !== -1) {
+                return '"' + text.replace(/"/g, '""') + '"';
+            }
+            return text;
+        }
+
+        function extractHashtags(text) {
+            if (!text) return '';
+            var matches = text.match(/#\w+/g);
+            return matches ? matches.join(' ') : '';
+        }
+
+        // ========== POSTING SCHEDULE SYSTEM ==========
+        var defaultXSlots = ['09:00', '12:00', '15:00', '18:00', '21:00'];
+        var defaultFBSlots = ['10:00', '13:00', '17:00'];
+
+        function getScheduleConfig() {
+            var saved = localStorage.getItem(SCHEDULE_STORAGE_KEY);
+            if (saved) {
+                try { return JSON.parse(saved); } catch(e) {}
+            }
+            return { xSlots: defaultXSlots.slice(), fbSlots: defaultFBSlots.slice() };
+        }
+
+        function saveScheduleConfig(config) {
+            localStorage.setItem(SCHEDULE_STORAGE_KEY, JSON.stringify(config));
+        }
+
+        function renderTimeSlots() {
+            var config = getScheduleConfig();
+            var xContainer = document.getElementById('x-time-slots');
+            var fbContainer = document.getElementById('fb-time-slots');
+
+            xContainer.innerHTML = config.xSlots.map(function(t, i) {
+                return '<span class="time-slot">' + t + ' <span class="remove-slot" onclick="removeTimeSlot(\x27x\x27,' + i + ')">&times;</span></span>';
+            }).join('');
+
+            fbContainer.innerHTML = config.fbSlots.map(function(t, i) {
+                return '<span class="time-slot">' + t + ' <span class="remove-slot" onclick="removeTimeSlot(\x27fb\x27,' + i + ')">&times;</span></span>';
+            }).join('');
+        }
+
+        function addTimeSlot(platform) {
+            var inputId = platform === 'x' ? 'new-x-time' : 'new-fb-time';
+            var val = document.getElementById(inputId).value;
+            if (!val) return;
+            var config = getScheduleConfig();
+            var arr = platform === 'x' ? config.xSlots : config.fbSlots;
+            if (arr.indexOf(val) === -1) {
+                arr.push(val);
+                arr.sort();
+            }
+            saveScheduleConfig(config);
+            renderTimeSlots();
+            document.getElementById(inputId).value = '';
+        }
+
+        function removeTimeSlot(platform, index) {
+            var config = getScheduleConfig();
+            var arr = platform === 'x' ? config.xSlots : config.fbSlots;
+            arr.splice(index, 1);
+            saveScheduleConfig(config);
+            renderTimeSlots();
+        }
+
+        function downloadPostPlannerCSV() {
+            // Open schedule panel instead of direct download
+            openSchedulePanel();
+        }
+
+        function openSchedulePanel() {
+            document.getElementById('schedule-date').value = DATE;
+            renderTimeSlots();
+            document.getElementById('schedule-panel').classList.add('show');
+            document.getElementById('schedule-overlay').classList.add('show');
+        }
+
+        function closeSchedulePanel() {
+            document.getElementById('schedule-panel').classList.remove('show');
+            document.getElementById('schedule-overlay').classList.remove('show');
+        }
+
+        function formatTimeForPostPlanner(time24, dateStr) {
+            // Output PostPlanner V2 format: MM/DD/YYYY  HH:MM (24hr)
+            var parts = dateStr.split('-');
+            return parts[1] + '/' + parts[2] + '/' + parts[0] + '  ' + time24;
+        }
+
+        function redistributeTimes(rows) {
+            // Ensure all post times are at least 30 min from now,
+            // evenly spaced through the rest of the day.
+            if (rows.length === 0) return rows;
+
+            var now = new Date();
+            var nowMinutes = now.getHours() * 60 + now.getMinutes();
+            var floorMinutes = nowMinutes + 30;
+            var endMinutes = 22 * 60; // 10:00 PM cutoff
+
+            // Check if ANY post times have already passed
+            var anyPast = rows.some(function(row) {
+                var parts = row.time.split(':');
+                var rowMin = parseInt(parts[0], 10) * 60 + parseInt(parts[1], 10);
+                return rowMin < floorMinutes;
+            });
+
+            if (!anyPast) return rows; // all times are in the future, keep them
+
+            if (floorMinutes >= endMinutes) {
+                alert('It is past 9:30 PM — not enough time remaining to schedule all posts today. Posts will use original times.');
+                return rows;
+            }
+
+            var availableMinutes = endMinutes - floorMinutes;
+            var spacing = Math.floor(availableMinutes / rows.length);
+            if (spacing < 15) spacing = 15; // minimum 15 min gap
+            if (spacing > 90) spacing = 90; // maximum 90 min gap
+
+            rows.forEach(function(row, i) {
+                var postMinutes = floorMinutes + (i * spacing);
+                if (postMinutes >= 24 * 60) postMinutes = 23 * 60 + 45;
+                var h = Math.floor(postMinutes / 60);
+                var m = postMinutes % 60;
+                row.time = (h < 10 ? '0' : '') + h + ':' + (m < 10 ? '0' : '') + m;
+            });
+
+            var firstTime = rows[0].time;
+            var lastTime = rows[rows.length - 1].time;
+            console.log('PostPlanner export: redistributed ' + rows.length + ' posts from ' + firstTime + ' to ' + lastTime + ' (' + spacing + ' min apart)');
+            return rows;
+        }
+
+        // Parse actual time from posting_window string like "7:00 AM CT" -> "07:00"
+        function parsePostingTime(timeStr) {
+            if (!timeStr) return null;
+            var m = timeStr.match(/(\d{1,2}):(\d{2})\s*(AM|PM)/i);
+            if (!m) return null;
+            var h = parseInt(m[1], 10);
+            var min = m[2];
+            var ampm = m[3].toUpperCase();
+            if (ampm === 'PM' && h !== 12) h += 12;
+            if (ampm === 'AM' && h === 12) h = 0;
+            return (h < 10 ? '0' : '') + h + ':' + min;
+        }
+
+        // Generic window name fallback
+        var windowToTime = {
+            'Morning': '09:00',
+            'Midday': '12:00',
+            'Afternoon': '15:00',
+            'Evening': '18:00',
+            'Late Night': '21:00'
+        };
+
+        function generateAndDownload() {
+            var config = getScheduleConfig();
+            var postDate = document.getElementById('schedule-date').value || DATE;
+
+            var xRows = [];
+            var fbRows = [];
+
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (!data || data.status !== 'approved') return;
+                var finalContent = data.editedContent || story.content;
+
+                if (story.type === 'x_post') {
+                    // If this is an individual tweet card (has tweet_label), use directly
+                    if (story.tweet_label) {
+                        xRows.push({
+                            content: finalContent,
+                            type: story.tweet_type || 'text',
+                            hashtags: story.hashtags || extractHashtags(finalContent),
+                            story: story.title,
+                            posting_window: story.posting_window || ''
+                        });
+                    } else {
+                        // Legacy: parse full story markdown for individual tweets
+                        var sections = parseXPostContent(finalContent, story.title);
+                        sections.forEach(function(post) {
+                            xRows.push({
+                                content: post.text,
+                                type: post.type,
+                                hashtags: extractHashtags(post.text),
+                                story: story.title
+                            });
+                        });
+                    }
+                } else if (story.type === 'facebook') {
+                    var fbPost = parseFacebookContent(finalContent, story.title);
+                    if (fbPost) {
+                        fbRows.push(fbPost);
+                    }
+                }
+            });
+
+            if (xRows.length === 0 && fbRows.length === 0) {
+                alert('No approved social posts to export.');
+                return;
+            }
+
+            // Assign times: use posting_window property first, then content tag, then round-robin
+            function assignTimes(rows, slots, label) {
+                if (slots.length === 0) slots = ['12:00'];
+                var timeFallbacks = [];
+                return rows.map(function(row, i) {
+                    row.date = postDate;
+                    // 1. Try posting_window property (e.g., "7:00 AM CT")
+                    var parsed = parsePostingTime(row.posting_window);
+                    if (parsed) {
+                        row.time = parsed;
+                        return row;
+                    }
+                    // 2. Try [POSTING WINDOW: ...] tag in content
+                    var windowMatch = row.content ? row.content.match(/\[POSTING WINDOW:\s*([^\]]+)\]/) : null;
+                    if (windowMatch) {
+                        parsed = parsePostingTime(windowMatch[1]);
+                        if (parsed) {
+                            row.time = parsed;
+                            return row;
+                        }
+                        if (windowToTime[windowMatch[1].trim()]) {
+                            row.time = windowToTime[windowMatch[1].trim()];
+                            return row;
+                        }
+                    }
+                    // 3. Fall back to round-robin
+                    row.time = slots[i % slots.length];
+                    timeFallbacks.push('Post ' + (i + 1) + ': no parsed time, using ' + row.time);
+                    return row;
+                });
+                // Warn if any posts had to use fallback times
+                if (timeFallbacks.length > 0) {
+                    console.warn('TIME WARNING (' + label + '): ' + timeFallbacks.length + ' post(s) had no parsed posting time:\n' + timeFallbacks.join('\n'));
+                }
+            }
+
+            xRows = assignTimes(xRows, config.xSlots, 'X/Twitter');
+            fbRows = assignTimes(fbRows, config.fbSlots, 'Facebook');
+
+            // Generate XLSX in PostPlanner Bulk Upload V2 format
+            if (typeof XLSX === 'undefined') {
+                alert('SheetJS library not loaded. Falling back to CSV download.');
+                fallbackCSVDownload(xRows, fbRows, postDate);
+                return;
+            }
+
+            // Combine all rows and sort by original time
+            var allRows = xRows.concat(fbRows);
+            allRows.sort(function(a, b) {
+                return a.time.localeCompare(b.time);
+            });
+
+            // Smart time redistribution
+            allRows = redistributeTimes(allRows);
+
+            var wb = XLSX.utils.book_new();
+
+            // PostPlanner V3.1 format: Row 1 = version marker, Row 2 = headers, Row 3+ = data
+            var data = [
+                ['## ' + BRAND_NAME + ' -- PostPlanner Bulk Upload', 'BULK UPLOAD VERSION 3.1 – Please DO NOT EDIT this cell.', '', '', '', '', '', '', ''],
+                ['## POSTING TIME', 'CAPTION', 'LINK', 'MEDIA', 'TITLE', 'FIRST COMMENT', 'FIRST COMMENT DELAY', 'TOBI BACKGROUND', 'REEL OR STORY']
+            ];
+
+            allRows.forEach(function(row) {
+                var caption = cleanMarkdownForPost(row.content);
+                var mediaUrl = '';
+                if (row.type === 'image' || row.type === 'IMAGE') {
+                    mediaUrl = getImageURLForStory(row.story, row.platform === 'facebook' ? 'facebook_image' : 'x_image') || '';
+                }
+                data.push([
+                    formatTimeForPostPlanner(row.time, postDate),
+                    caption,
+                    '',
+                    mediaUrl,
+                    '', '', '', '', ''
+                ]);
+            });
+
+            var sheet = XLSX.utils.aoa_to_sheet(data);
+            sheet['!cols'] = [
+                {wch: 20}, {wch: 80}, {wch: 30}, {wch: 30}, {wch: 10}, {wch: 20}, {wch: 18}, {wch: 18}, {wch: 14}
+            ];
+            XLSX.utils.book_append_sheet(wb, sheet, 'Sheet1');
+
+            // Download
+            XLSX.writeFile(wb, 'postplanner-upload-' + postDate + '.xlsx');
+            closeSchedulePanel();
+
+            var msg = 'Downloaded postplanner-upload-' + postDate + '.xlsx with ';
+            var parts = [];
+            if (xRows.length > 0) parts.push(xRows.length + ' X posts');
+            if (fbRows.length > 0) parts.push(fbRows.length + ' Facebook posts');
+            alert(msg + parts.join(' and ') + '.\n\nUpload this file to PostPlanner via Bulk Upload.');
+        }
+
+        function cleanMarkdownForPost(text) {
+            // Strip markdown formatting and metadata that shouldn't appear in social posts
+            if (!text) return '';
+            return text
+                .replace(/\[CHARACTER COUNT:.*?\]/gi, '')
+                .replace(/\[CHAR COUNT:.*?\]/gi, '')
+                .replace(/\[\d+\/280\]/g, '')
+                .replace(/\*\*\[POSTING WINDOW:.*?\]\*\*/g, '')
+                .replace(/\[POSTING WINDOW:.*?\]/g, '')
+                .replace(/\*\*([^*]+)\*\*/g, '$1')
+                .replace(/\*([^*]+)\*/g, '$1')
+                .replace(/^#+\s+/gm, '')
+                .replace(/^[-*]\s+/gm, '')
+                .replace(/```[\s\S]*?```/g, '')
+                .replace(/\n{3,}/g, '\n\n')
+                .trim();
+        }
+
+        function fallbackCSVDownload(xRows, fbRows, postDate) {
+            // Fallback if SheetJS fails to load — generates CSV in V2-like format
+            var allRows = xRows.concat(fbRows);
+            allRows.sort(function(a, b) { return a.time.localeCompare(b.time); });
+            if (allRows.length === 0) {
+                alert('No approved posts to export.');
+                closeSchedulePanel();
+                return;
+            }
+            // Smart time redistribution (same as XLSX path)
+            allRows = redistributeTimes(allRows);
+            var csv = '## ' + BRAND_NAME + ' -- PostPlanner Bulk Upload,' + escapeCSVField('BULK UPLOAD VERSION 3.1 – Please DO NOT EDIT this cell.') + ',,,,,,,\n';
+            csv += '## POSTING TIME,CAPTION,LINK,MEDIA,TITLE,FIRST COMMENT,FIRST COMMENT DELAY,TOBI BACKGROUND,REEL OR STORY\n';
+            allRows.forEach(function(row) {
+                csv += escapeCSVField(formatTimeForPostPlanner(row.time, postDate)) + ',' +
+                       escapeCSVField(cleanMarkdownForPost(row.content)) + ',' +
+                       ',,,,,,\n';
+            });
+            downloadFile(csv, 'postplanner-upload-' + postDate + '.csv', 'text/csv');
+            closeSchedulePanel();
+        }
+
+        function downloadTOBIExport() {
+            // Generate TOBI XLSX directly (no schedule panel needed — uses same times)
+            generateAndDownloadTOBI();
+        }
+
+        function stripHashtags(text) {
+            // Remove lines that are entirely hashtags, and trailing blank lines
+            var lines = text.split('\n');
+            var cleaned = [];
+            for (var i = 0; i < lines.length; i++) {
+                var stripped = lines[i].trim();
+                if (stripped && stripped.split(/\s+/).every(function(w) { return w.charAt(0) === '#'; })) {
+                    continue;
+                }
+                cleaned.push(lines[i]);
+            }
+            while (cleaned.length > 0 && !cleaned[cleaned.length - 1].trim()) {
+                cleaned.pop();
+            }
+            return cleaned.join('\n');
+        }
+
+        function generateAndDownloadTOBI() {
+            var postDate = document.getElementById('schedule-date') ?
+                document.getElementById('schedule-date').value || DATE : DATE;
+
+            // Collect approved X/Twitter text posts only
+            var xRows = [];
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (!data || data.status !== 'approved') return;
+                if (story.type !== 'x_post') return;
+
+                var finalContent = data.editedContent || story.content;
+                if (story.tweet_label) {
+                    xRows.push({
+                        content: finalContent,
+                        posting_window: story.posting_window || '',
+                        story: story.title
+                    });
+                }
+            });
+
+            if (xRows.length === 0) {
+                alert('No approved X/Twitter posts for TOBI export.');
+                return;
+            }
+
+            // Assign times — use same logic as regular export (posting_window → content tag → round-robin)
+            var tobiSlots = defaultXSlots.slice();
+            if (tobiSlots.length === 0) tobiSlots = ['12:00'];
+            var tobiTimeFallbacks = [];
+            xRows = xRows.map(function(row, i) {
+                row.date = postDate;
+                // 1. Try posting_window property (e.g., "7:00 AM CT")
+                var parsed = parsePostingTime(row.posting_window);
+                if (parsed) {
+                    row.time = parsed;
+                    return row;
+                }
+                // 2. Try [POSTING WINDOW: ...] tag in content
+                var windowMatch = row.content ? row.content.match(/\[POSTING WINDOW:\s*([^\]]+)\]/) : null;
+                if (windowMatch) {
+                    parsed = parsePostingTime(windowMatch[1]);
+                    if (parsed) {
+                        row.time = parsed;
+                        return row;
+                    }
+                }
+                // 3. Fall back to round-robin through time slots (NOT 12:00)
+                row.time = tobiSlots[i % tobiSlots.length];
+                tobiTimeFallbacks.push('Post ' + (i + 1) + ': no parsed time, using ' + row.time);
+                return row;
+            });
+            // Warn if any posts had to use fallback times
+            if (tobiTimeFallbacks.length > 0) {
+                console.warn('TOBI TIME WARNING: ' + tobiTimeFallbacks.length + ' post(s) had no parsed posting time:\n' + tobiTimeFallbacks.join('\n'));
+            }
+
+            // Sort by time
+            xRows.sort(function(a, b) { return a.time.localeCompare(b.time); });
+
+            // Smart time redistribution
+            xRows = redistributeTimes(xRows);
+
+            // TOBI processing: preserve hashtags + emojis as much as possible
+            var TOBI_LIMIT = 130;
+
+            function extractHashtags(text) {
+                var matches = text.match(/#\w+/g);
+                return matches || [];
+            }
+
+            function extractTrailingEmoji(text) {
+                var m = text.match(/\s*([\u{1F300}-\u{1FAFF}\u2600-\u27BF\u2B50\u26A0-\u26FF]+)\s*$/u);
+                if (m) {
+                    return { emoji: m[1], text: text.substring(0, m.index).trimEnd() };
+                }
+                return { emoji: null, text: text };
+            }
+
+            function truncateAtSentence(text, limit) {
+                var sentences = text.split(/(?<=[.!?])\s+/);
+                // Merge standalone emoji fragments into preceding sentence
+                var merged = [];
+                for (var s = 0; s < sentences.length; s++) {
+                    var trimmed = sentences[s].trim();
+                    if (!trimmed) continue;
+                    if (merged.length > 0 && !/[A-Za-z0-9]/.test(trimmed)) {
+                        merged[merged.length - 1] = merged[merged.length - 1] + ' ' + trimmed;
+                    } else {
+                        merged.push(trimmed);
+                    }
+                }
+                var truncated = '';
+                for (var s = 0; s < merged.length; s++) {
+                    var candidate = truncated ? truncated + ' ' + merged[s] : merged[s];
+                    if (candidate.length <= limit) {
+                        truncated = candidate;
+                    } else {
+                        break;
+                    }
+                }
+                // Clean up trailing abbreviation fragments (Dr., Mr., vs.)
+                if (truncated) {
+                    var parts = truncated.split(' ');
+                    var last = parts[parts.length - 1];
+                    if (parts.length > 1 && last.length <= 4 && /^[A-Za-z]+\.$/.test(last)) {
+                        parts.pop();
+                        truncated = parts.join(' ');
+                    }
+                }
+                return truncated || text.substring(0, limit - 3) + '...';
+            }
+
+            function fitHashtagsWithinLimit(text, hashtags, limit) {
+                if (!hashtags.length) return text;
+                // Try all hashtags, then progressively fewer
+                for (var n = hashtags.length; n > 0; n--) {
+                    var tagBlock = '\n\n' + hashtags.slice(0, n).join(' ');
+                    if ((text + tagBlock).length <= limit) {
+                        return text + tagBlock;
+                    }
+                }
+                return text;
+            }
+
+            if (typeof XLSX === 'undefined') {
+                alert('SheetJS library not loaded. Cannot generate TOBI XLSX.');
+                return;
+            }
+
+            var wb = XLSX.utils.book_new();
+            var data = [
+                ['## ' + BRAND_NAME + ' -- PostPlanner TOBI Bulk Upload', 'BULK UPLOAD VERSION 3.1 – Please DO NOT EDIT this cell.', '', '', '', '', '', '', ''],
+                ['## POSTING TIME', 'CAPTION', 'LINK', 'MEDIA', 'TITLE', 'FIRST COMMENT', 'FIRST COMMENT DELAY', 'TOBI BACKGROUND', 'REEL OR STORY']
+            ];
+
+            var keptHashtags = 0;
+            var strippedHashtags = 0;
+
+            xRows.forEach(function(row, i) {
+                var caption = cleanMarkdownForPost(row.content);
+
+                // If full caption fits under limit, use as-is — ALL hashtags + emojis preserved
+                if (caption.length <= TOBI_LIMIT) {
+                    if (extractHashtags(caption).length > 0) keptHashtags++;
+                    data.push([
+                        formatTimeForPostPlanner(row.time, postDate),
+                        caption, '', '', '', '', '', 'true-black', ''
+                    ]);
+                    return;
+                }
+
+                // Over limit — decompose and rebuild intelligently
+                var hashtags = extractHashtags(caption);
+                var coreText = stripHashtags(caption).trimEnd();
+                var emojiResult = extractTrailingEmoji(coreText);
+                var trailing_emoji = emojiResult.emoji;
+                var coreNoEmoji = emojiResult.text.trimEnd();
+
+                // Step 1: Get core text under limit
+                var result;
+                if (coreNoEmoji.length <= TOBI_LIMIT) {
+                    result = coreNoEmoji;
+                } else {
+                    result = truncateAtSentence(coreNoEmoji, TOBI_LIMIT);
+                }
+
+                // Step 2: Try to add back trailing emoji
+                if (trailing_emoji) {
+                    var withEmoji = result + ' ' + trailing_emoji;
+                    if (withEmoji.length <= TOBI_LIMIT) {
+                        result = withEmoji;
+                    }
+                }
+
+                // Step 3: Try to add back as many hashtags as possible
+                if (hashtags.length > 0) {
+                    var before = result;
+                    result = fitHashtagsWithinLimit(result, hashtags, TOBI_LIMIT);
+                    if (result !== before) keptHashtags++;
+                    else strippedHashtags++;
+                }
+
+                data.push([
+                    formatTimeForPostPlanner(row.time, postDate),
+                    result, '', '', '', '', '', 'true-black', ''
+                ]);
+            });
+
+            var sheet = XLSX.utils.aoa_to_sheet(data);
+            sheet['!cols'] = [
+                {wch: 20}, {wch: 80}, {wch: 10}, {wch: 10}, {wch: 10}, {wch: 20}, {wch: 18}, {wch: 18}, {wch: 14}
+            ];
+            XLSX.utils.book_append_sheet(wb, sheet, 'Sheet1');
+
+            XLSX.writeFile(wb, 'postplanner-tobi-upload-' + postDate + '.xlsx');
+
+            alert('Downloaded TOBI export with ' + xRows.length + ' posts.\n\n' +
+                  keptHashtags + ' posts kept hashtags, ' + strippedHashtags + ' had hashtags removed for length.\n\n' +
+                  'Background: true-black (Column H).\nUpload to PostPlanner for Facebook TOBI posts.');
+        }
+
+        function parseXPostContent(content, storyTitle) {
+            var posts = [];
+            var lines = content.split('\n');
+
+            var inTextPost = false;
+            var inThread = false;
+            var currentTweetNum = 0;
+            var currentText = [];
+
+            for (var i = 0; i < lines.length; i++) {
+                var line = lines[i];
+                var trimmed = line.trim();
+
+                if (trimmed.match(/^###\s+Text Post/i)) {
+                    flushPost();
+                    inTextPost = true;
+                    inThread = false;
+                    currentText = [];
+                    continue;
+                }
+                if (trimmed.match(/^###\s+Thread Concept/i)) {
+                    flushPost();
+                    inTextPost = false;
+                    inThread = true;
+                    currentText = [];
+                    currentTweetNum = 0;
+                    continue;
+                }
+                if (trimmed.match(/^###\s+Image Post/i)) {
+                    flushPost();
+                    inTextPost = false;
+                    inThread = false;
+                    continue;
+                }
+                if (trimmed.match(/^###\s/)) {
+                    flushPost();
+                    inTextPost = false;
+                    inThread = false;
+                    continue;
+                }
+
+                if (inThread && trimmed.match(/^\*\*Tweet\s+\d+/i)) {
+                    flushPost();
+                    currentTweetNum++;
+                    currentText = [];
+                    continue;
+                }
+
+                if (inTextPost || (inThread && currentTweetNum > 0)) {
+                    if (trimmed !== '') {
+                        currentText.push(line);
+                    }
+                }
+            }
+            flushPost();
+
+            function flushPost() {
+                if (currentText.length === 0) return;
+                var text = currentText.join('\n').trim();
+                if (!text) return;
+
+                if (inTextPost) {
+                    posts.push({ text: text, type: 'text' });
+                } else if (inThread && currentTweetNum > 0) {
+                    posts.push({
+                        text: text,
+                        type: currentTweetNum === 1 ? 'thread_start' : 'thread_reply'
+                    });
+                }
+                currentText = [];
+            }
+
+            return posts;
+        }
+
+        function parseFacebookContent(content, storyTitle) {
+            var lines = content.split('\n');
+            var inLongForm = false;
+            var inImagePost = false;
+            var longFormLines = [];
+            var imageCaption = '';
+
+            for (var i = 0; i < lines.length; i++) {
+                var trimmed = lines[i].trim();
+
+                if (trimmed.match(/^###\s+Long-Form Post/i)) {
+                    inLongForm = true;
+                    inImagePost = false;
+                    longFormLines = [];
+                    continue;
+                }
+                if (trimmed.match(/^###\s+Image Post Caption/i) || trimmed.match(/^###\s+Image Post/i)) {
+                    inLongForm = false;
+                    inImagePost = true;
+                    continue;
+                }
+                if (trimmed.match(/^###\s/) || trimmed.match(/^---/)) {
+                    inLongForm = false;
+                    inImagePost = false;
+                    continue;
+                }
+
+                if (inLongForm) {
+                    longFormLines.push(lines[i]);
+                }
+                if (inImagePost && trimmed !== '') {
+                    imageCaption = trimmed;
+                    inImagePost = false;
+                }
+            }
+
+            var longForm = longFormLines.join('\n').trim();
+            if (!longForm) return null;
+
+            return {
+                content: longForm,
+                image_caption: imageCaption,
+                story: storyTitle
+            };
+        }
+
+        function downloadFile(content, filename, mimeType) {
+            var blob = new Blob([content], { type: mimeType });
+            var url = URL.createObjectURL(blob);
+            var link = document.createElement('a');
+            link.href = url;
+            link.download = filename;
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+            URL.revokeObjectURL(url);
+        }
+
+        var currentStatusFilter = 'all';
+        var currentTypeFilter = 'all';
+
+        function filterByStatus(status) {
+            currentStatusFilter = status;
+            applyFilters();
+            document.querySelectorAll('.filter-btn').forEach(function(btn) {
+                btn.classList.remove('active');
+                if (btn.textContent.trim().toLowerCase().replace(/\s+/g, '') === status.replace('-', '').toLowerCase() ||
+                    (status === 'all' && btn.textContent.trim() === 'All') ||
+                    (status === 'needs-edit' && btn.textContent.trim() === 'Needs Edit')) {
+                    btn.classList.add('active');
+                }
+            });
+            document.querySelectorAll('.sidebar .nav-item').forEach(function(item) { item.classList.remove('active'); });
+        }
+
+        function filterByType(type) {
+            currentTypeFilter = type;
+            currentStatusFilter = 'all';
+            applyFilters();
+            document.querySelectorAll('.sidebar .nav-item').forEach(function(item) { item.classList.remove('active'); });
+            document.querySelectorAll('.filter-btn').forEach(function(btn) {
+                btn.classList.remove('active');
+                if (btn.textContent.trim() === 'All') btn.classList.add('active');
+            });
+        }
+
+        function applyFilters() {
+            var cards = document.querySelectorAll('.card');
+            var visibleCount = 0;
+            cards.forEach(function(card) {
+                var cardStatus = card.getAttribute('data-status');
+                var cardType = card.getAttribute('data-type');
+                var matchesStatus = (currentStatusFilter === 'all') || (cardStatus === currentStatusFilter);
+                var matchesType = (currentTypeFilter === 'all') || (cardType === currentTypeFilter);
+                if (matchesStatus && matchesType) {
+                    card.classList.add('show');
+                    visibleCount++;
+                } else {
+                    card.classList.remove('show');
+                }
+            });
+            document.getElementById('empty-state').style.display = visibleCount === 0 ? 'block' : 'none';
+        }
+
+        function approveAll() {
+            if (!confirm('Approve all ' + allStories.length + ' items?')) return;
+            allStories.forEach(function(story) { setStatus(story.id, 'approved'); });
+        }
+
+        function resetAll() {
+            if (confirm('Reset all reviews? This cannot be undone.')) {
+                localStorage.removeItem(REVIEW_STORAGE_KEY + '-' + DATE);
+                location.reload();
+            }
+        }
+
+        function copyContent(storyId) {
+            var data = reviewData[storyId];
+            var story = allStories.find(function(s) { return s.id === storyId; });
+            var text = (data && data.editedContent) ? data.editedContent : (story ? story.content : '');
+            navigator.clipboard.writeText(text).then(function() {
+                var btn = document.querySelector('[data-id="' + storyId + '"] .btn-copy');
+                if (btn) { var orig = btn.textContent; btn.textContent = 'Copied!'; setTimeout(function() { btn.textContent = orig; }, 1500); }
+            });
+        }
+
+        function exportApprovals() {
+            var items = [];
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id] || {};
+                items.push({
+                    id: story.id,
+                    type: story.type,
+                    title: story.title,
+                    status: data.status || 'unreviewed',
+                    notes: data.notes || '',
+                    content: story.content,
+                    editedContent: data.editedContent || null,
+                    finalContent: data.editedContent || story.content
+                });
+            });
+
+            var exportData = {
+                date: DATE,
+                reviewed_by: '',
+                reviewed_at: new Date().toISOString(),
+                items: items
+            };
+
+            var dataStr = JSON.stringify(exportData, null, 2);
+            var dataBlob = new Blob([dataStr], { type: 'application/json' });
+            var url = URL.createObjectURL(dataBlob);
+            var link = document.createElement('a');
+            link.href = url;
+            link.download = 'approvals-' + DATE + '.json';
+            link.click();
+            URL.revokeObjectURL(url);
+        }
+
+        // Auto-save notes as you type
+        document.addEventListener('input', function(e) {
+            if (e.target.classList.contains('notes-textarea')) {
+                var storyId = e.target.id.replace('textarea-', '');
+                if (reviewData[storyId]) {
+                    reviewData[storyId].notes = e.target.value;
+                    localStorage.setItem(REVIEW_STORAGE_KEY + '-' + DATE, JSON.stringify(reviewData));
+                }
+            }
+        });
+
+        initializeApp();
+
+    </script>
+</body>
+</html>

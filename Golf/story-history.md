@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-08-17
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-08-17 | T1 | BMW Championship Preview — Scheffler vs. Burns, 3 Days to Bellerive ($20M, Top 50, Top 30 Advance) | X, FB, Article | NEW |
+| 2026-08-17 | T1 | CPKC Women's Open Preview — Korda vs. Henderson at Royal Mayfair Edmonton ($2.75M, Aug 19-23) | X, FB, Article | NEW |
+| 2026-08-17 | T2 | Rory McIlroy BMW Redemption — 66th at St. Jude (8-over, Zero Sub-Par Rounds), Heads to Bellerive | X, FB, Article | FOLLOW UP |
+| 2026-08-17 | T2 | LIV Golf Indianapolis Preview — Pete Dye's Final Course, Rahm Individual Title Clinched, Team Championship Live | X, FB, Article | FOLLOW UP |
+| 2026-08-17 | T2 | Jordan Spieth BMW Stakes — 15th Consecutive BMW Berth, Winless in 2026, Needs Top 30 for Tour Championship | X, FB, Article | FOLLOW UP |
+
+### STORY 1: BMW Championship Preview
+- **Tier:** 1
+- **Category:** PGA Tour / FedExCup Playoffs / BMW Championship / Scottie Scheffler / Sam Burns
+- **Key facts:** BMW Championship at Bellerive Country Club, St. Louis, Aug 20-23; top 50 in FedExCup qualify; top 30 advance to Tour Championship at East Lake (Aug 27-30); $20M purse; par 70, 7,448 yards; Scheffler is No. 1 seed (massive regular-season points lead); Burns arrives fresh from St. Jude Championship win last week; McIlroy, Schauffele, Young, Morikawa, Matsuyama in field; last PGA Tour event at Bellerive was 2018 PGA Championship (Koepka won with 264 total); sources: PGA Tour, Lineups.com, GolfMagic, Druids.com
+- **Status:** NEW
+- **Follow-up ideas:** BMW Championship R1 coverage; Scheffler vs. Burns head-to-head storyline; who falls out of top 30
+
+### STORY 2: CPKC Women's Open Preview
+- **Tier:** 1
+- **Category:** LPGA / CPKC Women's Open / Nelly Korda / Brooke Henderson
+- **Key facts:** 52nd CPKC Women's Open at Royal Mayfair Golf Club, Edmonton, Alberta, Aug 19-23; $2.75M purse; third time Royal Mayfair hosts the championship; Stanley Thompson design from 1922, par 70, 6,452 yards, North Saskatchewan River Valley; Nelly Korda (World No. 1) leads the field; Korda has 3 majors in 2026 (including Chevron Championship in April); Brooke Henderson defending champion (won at Mississaugua last year for her 14th LPGA title); Henderson anchors 15-player Canadian contingent; past champions include Lorena Ochoa and Lydia Ko (who won at 15 in 2013 at Royal Mayfair); sources: Golf Canada, JustWomensSports, CPKC Women's Open official, LPGA official
+- **Status:** NEW
+- **Follow-up ideas:** CPKC Women's Open R1 coverage; Korda vs. Henderson head-to-head; first Canadian winner since Henderson 2025?
+
+### STORY 3: Rory McIlroy BMW Redemption
+- **Tier:** 2
+- **Category:** PGA Tour / Rory McIlroy / BMW Championship
+- **Key facts:** McIlroy finished 66th at FedEx St. Jude Championship (8-over par, zero sub-par rounds in 4 rounds); Golf Channel reported he "finds encouragement" and "focus turns to BMW Championship"; McIlroy is a three-time FedExCup champion; entered playoffs ranked ~No. 12 in FedExCup standings (comfortably inside top 30); Bellerive is par 70, 7,448 yards — rewards long iron play (McIlroy's strength); Koepka shot 264 to win 2018 PGA Championship at Bellerive; Koepka did not qualify for 2026 FedExCup Playoffs; sources: Golf Channel, Last Word On Sports, Lineups.com
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** McIlroy first-round BMW result; does he contend at Bellerive?
+
+### STORY 4: LIV Golf Indianapolis Preview
+- **Tier:** 2
+- **Category:** LIV Golf / Indianapolis / Team Championship
+- **Key facts:** LIV Golf Indianapolis at The Club at Chatham Hills, Westfield, Indiana, Aug 21-23; shotgun start format; Pete Dye designed course (his final course design); Dye known for Sawgrass, Whistling Straits, Harbour Town; Chatham Hills voted Best Golf Course in Indiana; Jon Rahm clinched 3rd consecutive LIV Individual Championship (944.54 pts, 218-pt margin); team championship is the live competition at Indianapolis; Thomas Rhett performs Friday night; Disco Lines on Saturday; BC Partners investment (LIV 2.0) confirmed; sources: LIV Golf official, Indiana Sports Corp
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** LIV Indianapolis R1 results; team championship standings
+
+### STORY 5: Jordan Spieth BMW Stakes
+- **Tier:** 2
+- **Category:** PGA Tour / Jordan Spieth / FedExCup Playoffs / BMW Championship
+- **Key facts:** Spieth secured 15th consecutive BMW Championship berth; entered St. Jude ranked 54th (outside top 50); opening bogey-free 65 in R1 at St. Jude moved him inside top 50; has not won on PGA Tour in 2026; no top-10 finishes in 2026 regular season; needs top 30 at BMW to reach Tour Championship at East Lake; 2015 FedExCup champion; career includes 3 majors (Masters, US Open, Open Championship); sources: GolfMagic, PGA Tour, pipeline notes Aug 16
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Spieth R1 at BMW; does he crack top 30 and reach East Lake?
+
 ## 2026-08-16
 
 | Date | Tier | Story | Platforms | Status |
