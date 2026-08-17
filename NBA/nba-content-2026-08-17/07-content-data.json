@@ -1,0 +1,269 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-17",
+  "compiled_at": "2026-08-17T11:26:38.463352+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Kawhi Leonard — Second Secret Endorsement Deal Exposed (Daktronics)",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The Kawhi investigation just got DEEPER.\n\nA second undisclosed deal — with Daktronics, the company that built the scoreboard at the Clippers' own Intuit Dome — is under scrutiny.\n\nAllegation: Daktronics was used to funnel money from the Clippers to Kawhi.\n\n#NBA #Clippers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA",
+            "#Clippers"
+          ],
+          "char_count": 271
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Kawhi Leonard expects his trade to Toronto to clear before camp.\n\nBut the NBA probe now covers TWO suspect deals — the $28M Aspiration Fund AND Daktronics.\n\nSanctions on the Clippers are expected. The trade is expected to complete. Clock's ticking.\n\n#NBA #Raptors",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA",
+            "#Raptors"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-kawhi-leonard-daktronics-investigation.html",
+        "headline": "Kawhi Leonard Investigation Expands: Second Endorsement Deal With Scoreboard Maker Surfaces",
+        "word_count": 603
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Kawhi Leonard — Second Secret Endorsement Deal\n\n**Image Concept 1 (Social 1080x1350)**\n- Search term: \"Kawhi Leonard Los Angeles Clippers\"\n- Usage: Primary social post graphic\n- Caption overlay idea: \"INVESTIGATION EXPANDS\" / \"Second Deal Surfaces\"\n- Status: not_started\n\n**Image Concept 2 (Article Hero 1200x630)**\n- Search term: \"Kawhi Leonard Toronto Raptors\"\n- Usage: Article hero image\n- Caption overlay idea: Investigation timeline graphic\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Kawhi Leonard — Second Secret Endorsement Deal Exposed (Daktronics)\n**Sources searched:** NBC Sports, CBS Sports, HoopsHype, ESPN, NBA.com, Yahoo Sports\n**Verified facts (CONFIDENCE LEVELS):**\n- HIGH: NBA investigation into Kawhi Leonard trade to Toronto opened after $28M Aspiration Fund endorsement deal raised cap circumvention concerns (NBA.com, ESPN)\n- HIGH: Investigation expanded to include second endorsement deal with Daktronics — scoreboard/jumbotron manufacturer that supplied the video board at Clippers' Intuit Dome (NBC Sports, CBS Sports)\n- HIGH: Allegation is Daktronics was used as vehicle to funnel money from Clippers to Leonard (CBS Sports)\n- HIGH: Trade terms — Leonard to Toronto for Ingram, Dick, 2031+2033 unprotected 1sts, 2027 swap, 2 2nds (ESPN, NBA.com)\n- MEDIUM: HoopsHype (Aug 10): resolution expected within six weeks, with sanctions expected against Clippers but trade expected to be cleared\n- MEDIUM: Kawhi working under belief investigation will conclude before training camp (HoopsHype Aug 10)\n- HIGH: Kawhi owed $50.3M in 2026-27 season\n- MEDIUM: Commissioner Adam Silver publicly explained the league's investigation process (SI/All Clippers)\n- MEDIUM: Toronto training camp Sept 28-29 in Quebec City\n- HIGH: CBA does not allow player suspension for cap circumvention\n**Story angle:** The Daktronics angle is the fresh news — a second suspicious deal involving a company that literally supplies equipment to the Clippers' own arena makes this investigation look more damaging to the Clippers organization.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Stephen Curry Extension — 12 Days to the Window (Aug 29)",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "12 days.\n\nThat's how long until Stephen Curry can sign a 2-year, $136.7M max extension with Golden State.\n\nGM Dunleavy: \"Pretty confident Steph will finish his career\" as a Warrior.\n\nAug 29 window opens. Sign — or become a free agent for the first time ever.\n\n#Warriors #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Warriors",
+            "#NBA"
+          ],
+          "char_count": 274
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The Warriors couldn't get LeBron this offseason.\n\nThat makes Curry's August 29 extension decision even bigger.\n\n2 years. $136.7M. Still shooting 42% from three at 38.\n\nThe most important contract in Warriors history since KD left.\n\n#Warriors #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Warriors",
+            "#NBA"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-stephen-curry-extension-12-days.html",
+        "headline": "Stephen Curry's Extension Window Opens in 12 Days — And the Warriors Can't Afford to Lose Him",
+        "word_count": 625
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Stephen Curry — 12 Days to Extension Window\n\n**Image Concept 1 (Social 1080x1350)**\n- Search term: \"Stephen Curry Golden State Warriors\"\n- Usage: Countdown graphic — \"12 DAYS\"\n- Caption overlay idea: \"AUG 29\" date graphic with Warriors colors\n- Status: not_started\n\n**Image Concept 2 (Article Hero 1200x630)**\n- Search term: \"Stephen Curry Warriors celebration\"\n- Usage: Article hero\n- Caption overlay idea: Contract decision article header\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Stephen Curry — Extension Window Opens Aug 29 (12 Days)\n**Sources searched:** Yahoo Sports, HoopsRumors, Bleacher Report, Swipe Sports, Eastern Herald\n**Verified facts:**\n- HIGH: Extension window opens August 29, 2026 (confirmed across multiple sources)\n- HIGH: Two-year, $136.7M maximum contract through 2028-29 (Yahoo Sports, HoopsRumors)\n- HIGH: GM Mike Dunleavy Jr.: \"pretty confident Steph will finish his career\" as a Warrior (HoopsRumors, Bleacher Report)\n- MEDIUM: Curry told people close to him he wants to finish career as a Warrior, but Warriors need to give him something to compete for (Eastern Herald, July 30)\n- HIGH: Without extension, Curry becomes UFA next summer for first time in his career (multiple sources)\n- HIGH: Warriors finished 37-45 last season\n- MEDIUM: Warriors failed to recruit LeBron James this offseason — adds urgency to Curry decision (Yahoo Sports)\n- HIGH: Draymond Green signed 1yr/$27.7M; Gary Payton II signed 1yr/$3.9M\n- MEDIUM: Curry age 38, 42% from three last season\n- MEDIUM: Swipe Sports: \"if Steph wants the full $136.7 million through the 2028-29 season, he will get that\"\n**Story angle:** Countdown framing — 12 days until the most important contract signing in Warriors history since KD left. The LeBron context (Warriors couldn't get LeBron, making Curry even more essential) adds drama.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Wembanyama — France vs. Serbia Arrives Thursday (3 Days Away)",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Wemby returns to FIBA basketball Thursday.\n\nFrance vs. Serbia in Belgrade — his first game since the 2024 Olympic final.\n\nNew coach. Same mission. His words: \"I do not miss the NBA right now, I miss FIBA basketball.\"\n\n3 days. 👀\n\n#NBA #Spurs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA",
+            "#Spurs"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-wembanyama-france-serbia-preview.html",
+        "headline": "Wembanyama Returns to FIBA Thursday — France vs. Serbia Preview",
+        "word_count": 586
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Wembanyama — France vs. Serbia Thursday\n\n**Image Concept 1 (Social 1080x1350)**\n- Search term: \"Victor Wembanyama San Antonio Spurs\"\n- Usage: Preview graphic with France flag colors\n- Caption overlay idea: \"FRANCE VS. SERBIA\" / \"Thursday Aug 20\"\n- Status: not_started\n\n**Image Concept 2 (Article Hero 1200x630)**\n- Search term: \"Victor Wembanyama Spurs\"\n- Usage: Article hero\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Wembanyama — France vs. Serbia Thursday (3 Days Away)\n**Sources searched:** FIBA.basketball, Eurohoops, Yahoo Sports, KSAT, Sports Inquirer\n**Verified facts:**\n- HIGH: France vs. Serbia in Belgrade on Aug 20 (exhibition/friendly)\n- HIGH: France vs. Serbia in Orleans on Aug 23 (exhibition/friendly)\n- HIGH: France vs. Slovenia Aug 27 (FIBA World Cup qualifier, home)\n- HIGH: France vs. Sweden Aug 30 (FIBA World Cup qualifier, away)\n- HIGH: Wemby quote: \"I do not miss the NBA right now, I miss FIBA basketball.\" (FIBA.basketball, Yahoo Sports, Eurohoops)\n- HIGH: First France appearance since 2024 Olympic final (Sports Inquirer, KSAT)\n- HIGH: Rudy Gobert and Evan Fournier also on roster (Eurohoops)\n- HIGH: Frederic Fauthoux is new head coach — replaced Vincent Collet after 2024 Olympics; first time coaching Wemby (Yahoo Sports)\n- MEDIUM: France 5-1 in Group L World Cup qualifying (from yesterday's pipeline notes)\n- HIGH: Spurs coaches/staff also traveled to Paris with Wemby (from pipeline notes Aug 8)\n**Story angle:** Thursday preview — the world's best basketball player returns to international play for the first time in nearly 2 years. This is a global TV event for basketball fans.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "LaMelo Ball Trades to Minnesota — A New Big-3 Takes Shape",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "LaMelo Ball to the Minnesota Timberwolves.\n\nAnthony Edwards. LaMelo Ball. Together.\n\nThe Western Conference just got a lot more dangerous — and a lot more fun to watch.\n\n#NBA #Timberwolves",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA",
+            "#Timberwolves"
+          ],
+          "char_count": 188
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-lamelo-ball-minnesota-timberwolves.html",
+        "headline": "LaMelo Ball to Minnesota: The Timberwolves Just Became Must-See TV",
+        "word_count": 528
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LaMelo Ball to Minnesota\n\n**Image Concept 1 (Social 1080x1350)**\n- Search term: \"LaMelo Ball Charlotte Hornets\"\n- Usage: Trade announcement graphic\n- Caption overlay idea: \"LAMELO TO MINNESOTA\" wolf-themed overlay\n- Status: not_started\n\n**Image Concept 2 (Article Hero 1200x630)**\n- Search term: \"Anthony Edwards Minnesota Timberwolves\"\n- Usage: Article hero — Edwards to welcome LaMelo angle\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LaMelo Ball to Minnesota Timberwolves\n**Sources searched:** ESPN offseason buzz tracker, NBA.com offseason roundup\n**Verified facts:**\n- MEDIUM: LaMelo Ball traded to Minnesota Timberwolves in offseason deal (ESPN, NBA.com offseason roundup)\n- LOW: Specific trade terms not confirmed in available search results — DO NOT FABRICATE\n- MEDIUM: Ball joins Anthony Edwards on Timberwolves (inferred from team context)\n**WARNING:** Specific trade details and exact players involved could not be confirmed from search results. This story should be written carefully with what's confirmed. The Charlotte/Cleveland swap mentioned in search results may be unrelated. Need to be cautious about trade specifics.\n**Decision:** Write the LaMelo story focusing on what's confirmed — he's with Minnesota — and focus on the basketball/fan angle rather than specific trade asset details that couldn't be verified.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Giannis Promises Heat Fans: \"I Will Dominate\"",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Giannis Antetokounmpo on his first Miami season:\n\n\"I will dominate.\"\n\n2x MVP. 31 years old. Christmas Day vs. the Celtics. $275M extension eligibility Jan. 6.\n\nSouth Beach is ready. Are you?\n\n#Heat #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Heat",
+            "#NBA"
+          ],
+          "char_count": 202
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-giannis-miami-dominate-promise.html",
+        "headline": "Giannis Promises to \"Dominate\" in Miami — And the NBA Should Believe Him",
+        "word_count": 609
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Giannis — Miami Promise\n\n**Image Concept 1 (Social 1080x1350)**\n- Search term: \"Giannis Antetokounmpo Milwaukee Bucks\"\n- Usage: Social graphic with quote overlay\n- Caption overlay idea: \"I WILL DOMINATE\" — Giannis on Miami debut\n- Status: not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Giannis Promises to \"Dominate\" in Miami\n**Sources searched:** Heavy.com, Bleacher Report, NBA.com, ESPN\n**Verified facts:**\n- HIGH: Giannis traded from Milwaukee Bucks to Miami Heat (with Bobby Portis) for Herro/Ware/Jaquez/Jakucionis/No.13 pick/2031+2033 1sts/2030 swap/2033 2nd (ESPN, NBA.com)\n- HIGH: Giannis told NBA Europe he will \"dominate\" the rest of the league in Miami (Heavy.com)\n- HIGH: Tyler Herro viral reaction: \"Y'all Did Lost Your Motherf--king Mind\" (Bleacher Report)\n- HIGH: Giannis joins Bam Adebayo and Andrew Wiggins in Miami (Heavy.com)\n- HIGH: Giannis eligible for $275M supermax extension on January 6, 2027\n- HIGH: Giannis is 31 years old, 10x All-Star, 2x MVP\n- HIGH: Celtics-Heat on Christmas Day (Heat now the draw)\n- MEDIUM: Trade made on eve of 2026 NBA Draft (late June 2026)\n**Story angle:** Motivation and promise — Giannis has a chip on his shoulder leaving Milwaukee. His \"dominate\" quote sets up a compelling narrative for the Heat's season.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

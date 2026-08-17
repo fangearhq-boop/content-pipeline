@@ -1,6 +1,18 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Last Run
+- **Date**: 2026-08-17
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** hh-postplanner-2026-08-17.xlsx (7 posts) + hh-postplanner-tobi-2026-08-17.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-08-17/review-dashboard.html (22 items)
+- **Notes:** KAWHI DAKTRONICS — Second endorsement deal surfaces; Daktronics (scoreboard maker at Intuit Dome) under scrutiny; allegation they funneled money from Clippers to Kawhi; resolution expected within 6 weeks of Aug 10; CURRY 12 DAYS — Aug 29 extension window; $136.7M max; GM Dunleavy "pretty confident" he stays; Warriors failed LeBron pursuit adds urgency; WEMBY THURSDAY — France vs. Serbia Belgrade Aug 20 (3 days); first France game since 2024 Olympic final; new coach Fauthoux; Gobert + Fournier; "I miss FIBA basketball"; LAMELO MINNESOTA — LaMelo traded to Timberwolves, joins Edwards backcourt; GIANNIS DOMINATES — "I will dominate" quote to NBA Europe; Heat vs. Celtics Christmas Day; $275M supermax Jan 6 2027
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+### 2026-08-16
 - **Date**: 2026-08-16
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)

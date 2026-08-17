@@ -5664,3 +5664,44 @@
 - **Key facts:** Window opens Aug 29 (13 days); expected 2yr/$136.7M max; Warriors "super aggressive" (Dunleavy); Slater confirmed mutual interest; without deal = UFA 2027 for first time ever; Christmas Day: Nuggets vs. Warriors; Warriors 37-45 last season; Curry 42% from 3 at age 38
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Extension signing announcement (expect Aug 29-Sept); Warriors preseason roster
+
+| 2026-08-17 | T1 | Kawhi Leonard — Second Endorsement Deal (Daktronics) Surfaces in NBA Investigation | X, FB, Article | FOLLOW UP |
+| 2026-08-17 | T1 | Stephen Curry Extension — 12 Days to August 29 Window, $136.7M Max Expected | X, FB, Article | FOLLOW UP |
+| 2026-08-17 | T2 | Wembanyama France FIBA Return — Serbia Preview 3 Days Away (Aug 20 Belgrade) | X, FB, Article | FOLLOW UP |
+| 2026-08-17 | T2 | LaMelo Ball Traded to Minnesota Timberwolves — Edwards Backcourt Formed | X, FB, Article | FOLLOW UP |
+| 2026-08-17 | T2 | Giannis "I Will Dominate" — 2x MVP Promises to Lead Miami in Debut Season | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Kawhi Leonard — Second Endorsement Deal (Daktronics) Surfaces
+- **Tier:** 1
+- **Category:** NBA Investigation / Los Angeles Clippers / Kawhi Leonard
+- **Key facts:** Second endorsement deal under investigation — Daktronics (scoreboard manufacturer that supplied Intuit Dome jumbotron) now under scrutiny; allegation: Daktronics used to funnel money from Clippers to Leonard; original deal: $28M Aspiration Fund; NBA outside law firm finished fact-finding ~Aug 10; sanctions expected against Clippers; trade expected to complete; Kawhi expects trade to clear before camp; Toronto camp Sept 28-29 Quebec City
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official sanction announcement; trade completion; training camp update
+
+### STORY 2: Stephen Curry Extension — 12 Days to August 29 Window
+- **Tier:** 1
+- **Category:** NBA Contracts / Golden State Warriors / Stephen Curry
+- **Key facts:** Extension window opens Aug 29 (12 days); 2yr/$136.7M max; GM Dunleavy "pretty confident Steph will finish career" as Warrior; Curry wants to stay but wants team to give him something competitive; Warriors failed to recruit LeBron this offseason; Curry 42% from 3 at age 38; Draymond Green back on 1yr/$27.7M; without extension = UFA 2027 for first time ever
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Extension signing announcement (expect Aug 29-Sept); Warriors preseason
+
+### STORY 3: Wembanyama France FIBA Return — Serbia Preview
+- **Tier:** 2
+- **Category:** NBA Offseason / San Antonio Spurs / Victor Wembanyama / France FIBA
+- **Key facts:** France vs. Serbia Belgrade Aug 20 (3 days); Orleans Aug 23; qualifiers vs Slovenia Aug 27 (home), Sweden Aug 30 (away); first France game since 2024 Olympic final; Wemby quote: "I do not miss the NBA right now, I miss FIBA basketball"; new coach Frederic Fauthoux (first time coaching Wemby); Gobert + Fournier on roster; France 5-1 in Group L qualifying
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Serbia game results; qualifier results; Spurs training camp
+
+### STORY 4: LaMelo Ball to Minnesota Timberwolves
+- **Tier:** 2
+- **Category:** NBA Trades / Minnesota Timberwolves / Charlotte Hornets / LaMelo Ball
+- **Key facts:** LaMelo Ball traded from Charlotte Hornets to Minnesota Timberwolves; joins Anthony Edwards to form backcourt; specific trade terms not confirmed in research; Minnesota becomes Western Conference contender
+- **Status:** NEW
+- **Follow-up ideas:** Trade details; training camp chemistry; Minnesota season outlook
+
+### STORY 5: Giannis "I Will Dominate" — Miami Promise
+- **Tier:** 2
+- **Category:** NBA Offseason / Miami Heat / Giannis Antetokounmpo
+- **Key facts:** Giannis told NBA Europe he will "dominate" the rest of the league in Miami; 2x MVP, 10x All-Star, age 31; joins Bam Adebayo and Andrew Wiggins in Miami; Herro viral reaction "Y'all Did Lost Your Motherf--king Mind"; Christmas Day: Heat vs. Celtics; $275M supermax eligible Jan 6 2027
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Heat training camp; Christmas Day matchup buildup; supermax extension (Jan 2027)
