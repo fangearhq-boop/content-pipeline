@@ -2,6 +2,60 @@
 
 ---
 
+## August 17, 2026
+
+### Story 1: D20 First Day of School — Preschool, K, 6th, and 9th Grade Start Today
+- **Date:** 2026-08-17
+- **Content Pillar:** Local News
+- **Angle:** FOLLOW-UP + LIVE COVERAGE (2026-08-04 S4, 2026-08-15 S1, 2026-08-16 S5) — First day of 2026-27 school year for Academy District 20 preschool, kindergarten, 6th, and 9th grade. All other D20 grades start Tue Aug 18. Staggered opening intentional for new-to-building students. D11 opened Aug 12; D49 opened Aug 4.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** D20 first day Aug 17 (preschool/K/6th/9th) + Aug 18 (all others); D11 first day was Aug 12; D49 first day was Aug 4; staggered start is by design; Sources: Springs Daily, asd20.org, educounty.net
+- **Follow-Up Opportunities:** Aug 18 full-district open recap; first-week routine follow-up
+
+### Story 2: CPSC Warning — Budget Baby Boost Crib Bumpers
+- **Date:** 2026-08-17
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC issued Aug 6, 2026 warning to stop using Budget Baby Boost Crib Bumpers immediately. Suffocation hazard; violates federal ban on crib bumpers under Safe Sleep for Babies Act. About 141 units. Dispose — do NOT resell or give away.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** CPSC warning Aug 6, 2026; ~141 units; suffocation hazard; violates federal crib bumper ban (Safe Sleep for Babies Act 2022); AAP: bare crib only; Sources: CPSC.gov, prnewswire.com, theautochannel.com
+- **Follow-Up Opportunities:** CPLRECR + LDLXLHTE crib bumper warnings (same week); AAP safe sleep resource guide
+
+### Story 3: COS Family Weekend Events Aug 22-23 — Bear Creek 50th Bear-thday, Sunflower Days, Comic Con
+- **Date:** 2026-08-17
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Bear Creek Nature Center 50th "Bear-thday" celebration Sat Aug 22, 10 AM-2 PM, 245 Bear Creek Rd (free); Sunflower Days at Gather Mountain Blooms 5210 S US Hwy 85 87 (Aug 15-29, $0-$11.17, under 6 free); COS Comic Con Aug 21-23 at Broadmoor World Arena. El Paso County officially declared Aug 22 a day of celebration for BCNC.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** BCNC 50th Aug 22 10 AM-2 PM, 245 Bear Creek Rd, free; opened 1976 as Solar Trails Center — Colorado's first nature center; new Life in the Shadows exhibit ribbon-cutting; Living Nature Hike requires pre-registration; Sunflower Days Aug 15-29, $0-$11.17, under 6 free; COS Comic Con Aug 21-23 Broadmoor World Arena 3185 Venetucci Blvd; Sources: elpasoco.com, KRDO Aug 11, gazette.com Aug 8, peakradar.com, visitcos.com
+- **Follow-Up Opportunities:** BCNC event recap; Sunflower Days visitor tips; Labor Day weekend preview
+
+### Story 4: Target Recalls Gigglescape Under the Sea Popping Toy — 49,000 Units, Choking Hazard
+- **Date:** 2026-08-17
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — Target recalled ~49,000 Gigglescape Under the Sea Popping Toys after 9 dome-detachment reports incl. 1 child choking. Blue whale-shape, clear dome, small plastic balls, plunger. Target-exclusive Aug 2025-Jan 2026, ~$10. Recall #26-598. Return to any Target for full refund.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** ~49,000 units; Target-exclusive; sold Aug 2025-Jan 2026; ~$10; recall #26-598; 9 dome-detachment reports; 1 child began choking; choking hazard from small plastic balls; return to any Target for full refund; Sources: CPSC.gov, target.com/help/article/000224798, growingyourbaby.com, ktla.com, dailyvoice.com
+- **Follow-Up Opportunities:** El Paso County pediatric ER choking response guide; Target Cat & Jack sandal recall follow-up; monthly recall check habit article
+
+### Story 5: Back-to-School Sleep Reset — Pediatric Guidance for COS Families
+- **Date:** 2026-08-17
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (evergreen with local timing hook) — D49 13 days in, D11 5 days in, D20 opens today. AAP guidance: ages 6-12 need 9-12 hrs, 13-18 need 8-10 hrs. Reset technique: 15 min earlier bedtime per night for 1 week. Screens off 60 min pre-bed. Blackout curtains for late COS summer sunsets.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** AAP sleep guidelines by age (6-12: 9-12 hrs; 13-18: 8-10 hrs; 3-5 preschool: 10-13 hrs incl. naps; 1-2 toddlers: 11-14 hrs); 15-min bedtime shift per night; screens off 60 min before bed; blackout curtains for COS late sunsets (7:45+ PM); cool room 65-68°F; Sources: AAP HealthyChildren.org standard guidance
+- **Follow-Up Opportunities:** COS pediatric sleep clinic resource guide; teen-specific sleep piece; first-week routines follow-up
+
+---
+
 ## August 15, 2026
 
 ### Story 1: Academy District 20 Back-to-School August 17-18 — Staggered Start

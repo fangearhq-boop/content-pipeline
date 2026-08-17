@@ -1,5 +1,44 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: August 17, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | D20 first day today (Aug 17) preschool/K/6th/9th + Aug 18 all others; Budget Baby Boost Crib Bumpers CPSC warning Aug 6 (suffocation hazard, ~141 units, violates federal ban); Bear Creek Nature Center 50th Bear-thday Sat Aug 22 free (245 Bear Creek Rd, 10 AM-2 PM, EPC declared day of celebration); Sunflower Days Gather Mountain Blooms Aug 15-29 ($0-$11.17, under 6 free); Target Gigglescape popping toy recall ~49,000 units, 9 dome-detachment reports incl. 1 choking, sold Aug 2025-Jan 2026 ~$10, recall #26-598; back-to-school sleep AAP guidance |
+| Story History Check | COMPLETE | 5 stories: S1 follow-up (D20 first day, prior coverage Aug 4/15/16); S2 new (Budget Baby Boost CPSC warning — different brand from Aug 8 Build-A-Bear/PIXLABBY); S3 new (Bear Creek 50th + weekend events); S4 new (Target Gigglescape recall); S5 new (back-to-school sleep evergreen) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Jamie Rivera (S1, S3, S5), Sarah Morales (S2, S4) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH confidence on all D20 dates, CPSC recall details, Bear Creek event, Gigglescape recall specifics, AAP sleep guidance |
+| Story Analysis | COMPLETE | 02-story-analysis.md — 5 story sections with angles, tiers, COS voice checks |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (S1: 2, S2: 2, S3/S4/S5: 1 each); all ≤280 chars (fixed after initial parser format issue — code blocks added); 4 hashtags each; 0 exclamation marks |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; NO hashtags; COS voice; 0 exclamation marks |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts; 1200×675 (social) + 1200×630 (hero); clean bottom third; no faces/logos |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries (5 stories × 2); all not_started; gemini base_only; kAHCKfCZgk0 |
+| Fact-Check | COMPLETE | verify-facts.py — 93 claims (139 HIGH, 56 MEDIUM, 39 LOW); image manifest cosmetic warnings (known parser limitation for markdown-embedded YAML) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts (parser compat known issue), 5 articles, 5 images, 22 dashboard items |
+| Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-08-17.xlsx (7 posts 14:01–20:49 MT) + cosp-postplanner-tobi-2026-08-17.xlsx (7 TOBI posts) |
+| Dashboard Push | Attempted — proxy blocks write to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — proxy blocks WP API (403) | Same environment restriction as all prior runs |
+
+### 2026-08-17 — Full Pipeline Run (Monday)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts (S1: 2, S2: 2, S3/S4/S5: 1 each); 7 PostPlanner + 7 TOBI
+- **Articles:** 5 (bylines: Jamie Rivera [A1, A3, A5], Sarah Morales [A2, A4])
+- **PostPlanner exports:** cosp-postplanner-2026-08-17.xlsx (7 posts 14:01–20:49 MT), cosp-postplanner-tobi-2026-08-17.xlsx (7 TOBI posts)
+- **Coverage:** D20 first day today (Tier 1) — preschool/K/6th/9th open Mon Aug 17, all other grades open Tue Aug 18, staggered by design, D11 opened Aug 12, D49 opened Aug 4; Budget Baby Boost Crib Bumpers CPSC warning (Tier 1) — Aug 6 warning, suffocation risk, ~141 units, violates federal crib bumper ban, dispose don't resell; Weekend events Aug 22-23 (Tier 2) — Bear Creek 50th Bear-thday Sat 10 AM-2 PM 245 Bear Creek Rd FREE, Sunflower Days Aug 15-29 $0-$11.17 kids under 6 free, COS Comic Con Aug 21-23 Broadmoor World Arena; Target Gigglescape popping toy recall (Tier 2) — ~49,000 units, blue whale + clear dome + plastic balls, 9 dome-detach reports incl. 1 child choking, sold Aug 2025-Jan 2026 ~$10, recall #26-598, full refund at any Target; Back-to-school sleep reset (Tier 2) — AAP: ages 6-12 need 9-12 hrs, 13-18 need 8-10 hrs, shift bedtime 15 min earlier per night for a week, screens off 60 min pre-bed, blackout curtains for COS late sunsets
+- **Notes:**
+  - verify-facts.py: 93 claims (139 HIGH, 56 MEDIUM, 39 LOW); image manifest cosmetic warnings (known parser limitation for markdown-embedded YAML)
+  - compile: 7 X posts (initial format issue with hashtag-lines inside code blocks needed fix — added ``` code fences around each tweet); 5 articles; 5 stories
+  - dashboard: 22 items
+  - PostPlanner exports: both standard (7) and TOBI (7) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: proxy blocks content-dashboards repo (same as all prior runs)
+  - Byline rotation: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4]
+  - Story history updated with all 5 stories
+
+---
+
 ## Latest Run: August 16, 2026
 
 | Step | Status | Notes |
