@@ -1609,3 +1609,51 @@ Track previously covered stories to avoid repetition and maintain content freshn
 - **Byline:** Ryan Calloway
 - **Key Facts:** US Open main draw Aug 30; draw ceremony Aug 27; Sinner/Alcaraz/Djokovic all without hard-court prep; Zverev Roland Garros 2026 champion; Shelton back-to-back Canada; Swiatek won Toronto; Sources: flashscore.com, wikipedia 2026 US Open, frontofficesports.com, olympics.com
 - **Follow-Up Opportunities:** US Open draw release Aug 27; Sinner/Alcaraz fitness updates; Cincinnati finals picture
+
+
+## 2026-08-17
+
+### Story 1: Serena and Venus Williams Accept Cincinnati Doubles Wild Card
+- **Date:** 2026-08-17
+- **Angle:** NEW STORY — Serena Williams (USA, 44) and Venus Williams (USA, 46) accepted a wild card into the 2026 Cincinnati Open women's doubles draw — their first appearance together since the 2022 US Open. Serena had withdrawn from Wimbledon 2026 doubles with Venus due to a right knee issue. Match scheduled Monday evening.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Elena Voss
+- **Key Facts:** First doubles together since 2022 US Open; Serena 44 years old; Venus 46 years old; 14 Grand Slam doubles titles together; 3 Olympic gold medals; Serena withdrew Wimbledon 2026 doubles (knee); Cincinnati match Monday evening; Sources: NBCSports, tennis official reports, WTA media
+- **Follow-Up Opportunities:** Serena/Venus match result; Serena's ongoing comeback timeline; Cincinnati doubles draw
+
+### Story 2: Swiatek Crushes Arango 6-3, 6-0 in Cincinnati R2
+- **Date:** 2026-08-17
+- **Angle:** FOLLOW-UP (2026-08-16 S3: Venus vs. Arango; 2026-08-14 S1: Toronto title) — Iga Swiatek (POL) dismantled Emiliana Arango (COL, No. 95) 6-3, 6-0 in 72 minutes in Cincinnati R2. Seven consecutive wins. Swiatek defending Cincinnati champion (2025). Won 7 of 8 service games and 5 of 7 return games. Faces Sakkari in R3 on Monday.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Marcus Cole
+- **Key Facts:** Swiatek def. Arango 6-3, 6-0 in 72 min; 7-match win streak; 7/8 service games won; 5/7 return games won; H2H vs Sakkari 5-4; Sources: WTA official, skysports.com, Swiatek official
+- **Follow-Up Opportunities:** Swiatek vs Sakkari R3 result; Cincinnati QF picture; US Open seeding
+
+### Story 3: Shelton Eliminated in R2 by Faria; Eala Marches Into Cincinnati R3
+- **Date:** 2026-08-17
+- **Angle:** FOLLOW-UP (Shelton: 2026-08-14 S1 Montreal title; Eala: 2026-08-03 S1 DC Open final) — Jaime Faria (POR) beat No. 5 seed Ben Shelton (USA) 6-4, 6-4 in Cincinnati R2. Shelton was defending back-to-back Montreal champion. Alexandra Eala (PHI) beat Elena-Gabriela Ruse (ROU) 6-1, 3-0 ret. to reach R3; faces Anisimova (USA) Monday.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Ryan Calloway
+- **Key Facts:** Faria def. Shelton 6-4, 6-4; Shelton was No. 5 seed, back-to-back Montreal champion; Eala def. Ruse 6-1, 3-0 ret.; Eala 22-9 on hard courts in 2026; Sources: atptour.com, wtatennis.com, ATPtour official
+- **Follow-Up Opportunities:** Eala vs Anisimova R3 result; Shelton US Open focus; Cincinnati men's draw picture
+
+### Story 4: Cincinnati R3 Day — Zverev, Swiatek, Rybakina, Jodar, Tirante All In Action
+- **Date:** 2026-08-17
+- **Angle:** NEW STORY — Monday R3 schedule at the Cincinnati Open: WTA: Rybakina vs Frech (12:30 PM), Swiatek vs Sakkari (3 PM), Eala vs Anisimova (8:30 PM). ATP: Tirante vs Landaluce (morning), Jodar vs Tabilo (3 PM), Zverev vs Atmane (8:30 PM). Sabalenka plays Tuesday.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Elena Voss
+- **Key Facts:** Rybakina leads Frech H2H 3-0 (2-0 HC); Swiatek leads Sakkari 5-4; Jodar H2H vs Tabilo split (Tabilo IW win, Jodar DC SF win); Zverev vs Atmane not before 8:30 PM; Sabalenka vs Wang Xinyu Tuesday; Sources: atptour.com, wtatennis.com, Cincinnati Open official
+- **Follow-Up Opportunities:** All R3 results; QF bracket; Sabalenka R3 Tuesday
+
+### Story 5: US Open Countdown — Raducanu OUT (Stress Fracture), Andreescu OUT (Back), Alcaraz Eyes Winston-Salem
+- **Date:** 2026-08-17
+- **Angle:** FOLLOW-UP (2026-08-16 S5: Countdown; 2026-08-13 S5: US Open injury watch) — Emma Raducanu (GBR) confirmed out of US Open with stress fracture in right lower leg. Bianca Andreescu (CAN) confirmed out with stress fracture in back. Carlos Alcaraz (ESP, defending champion) reportedly eyeing Winston-Salem Open (ATP 250, Aug 23) as match prep. Sinner described as "stable" and on track for US Open.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Marcus Cole
+- **Key Facts:** Raducanu out (stress fracture right lower leg); Andreescu out (stress fracture back); Alcaraz eyeing Winston-Salem Aug 23; Sinner stable/on track; US Open main draw Aug 30; Draw ceremony Aug 27; Women's final Sept 12; Men's final Sept 13; Sources: sky sports, WTA withdrawals, ATP reports
+- **Follow-Up Opportunities:** Alcaraz Winston-Salem entry decision; Sinner fitness update; US Open draw release Aug 27

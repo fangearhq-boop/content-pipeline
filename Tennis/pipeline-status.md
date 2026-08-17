@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-08-16 |
-| Writing | Complete (all steps) | 2026-08-16 |
-| Fact-check | Complete (verify-facts.py run — 5 stories, 28 claims) | 2026-08-16 |
-| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 5 articles, 27 items) | 2026-08-16 |
-| Dashboard | Complete (review-dashboard.html, 27 items) | 2026-08-16 |
-| PostPlanner Export | Complete (standard 7 posts 13:02–20:38 ET; TOBI 7 posts) | 2026-08-16 |
-| WordPress Publish | Attempted — proxy blocks WordPress API (same as all prior runs) | 2026-08-16 |
-| Dashboard Push | Attempted — proxy lacks write access to content-dashboards repo (same as all prior runs) | 2026-08-16 |
+| Research | Complete | 2026-08-17 |
+| Writing | Complete (all steps) | 2026-08-17 |
+| Fact-check | Complete (verify-facts.py run — 5 stories, 37 claims, 85% HIGH) | 2026-08-17 |
+| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 5 articles, 27 items) | 2026-08-17 |
+| Dashboard | Complete (review-dashboard.html, 27 items) | 2026-08-17 |
+| PostPlanner Export | Complete (standard 7 posts 13:31–20:43 ET; TOBI 7 posts) | 2026-08-17 |
+| WordPress Publish | Attempted — proxy blocks WordPress API (same as all prior runs) | 2026-08-17 |
+| Dashboard Push | Attempted — proxy lacks write access to content-dashboards repo (same as all prior runs) | 2026-08-17 |
 
 ## Queue
 
@@ -24,6 +24,16 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-08-17 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-08-17.xlsx (7 posts 13:31–20:43 ET), tfr-postplanner-tobi-2026-08-17.xlsx (7 TOBI posts)
+- **Key stories:** Serena + Venus Williams accept Cincinnati doubles wild card (first together since 2022 US Open — Serena 44, Venus 46; match Monday evening); Swiatek crushes Arango 6-3, 6-0 in 72 min (7-match win streak; defending Cincinnati champion; faces Sakkari R3 Monday); Shelton out — Faria def. No. 5 seed 6-4, 6-4 (back-to-back Montreal champion eliminated in R2); Eala advances (def. Ruse 6-1, 3-0 ret.; 22-9 HC record; faces Anisimova Monday); Cincinnati R3 full schedule (Rybakina/Frech 12:30, Swiatek/Sakkari 3PM, Zverev/Atmane 8:30 PM, Tirante/Landaluce, Jodar/Tabilo; Sabalenka Tuesday); US Open countdown (Raducanu OUT — stress fracture right leg; Andreescu OUT — stress fracture back; Alcaraz eyeing Winston-Salem Aug 23; Sinner stable/on track; US Open Aug 30)
+- **Issues:** image manifest all not_started (expected for imagn source); posting window warnings cosmetic (known issue); WordPress blocked by proxy; dashboard push blocked by proxy (content-dashboards not in session authorized repos)
+- **Story history:** Updated with all 5 stories
 
 ### 2026-08-16 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
