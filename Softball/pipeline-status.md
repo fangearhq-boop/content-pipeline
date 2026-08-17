@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-08-17
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch + 4 research agents, 5 stories verified HIGH/MEDIUM confidence; KEY CORRECTION: Aug 15-16 coverage stated Kowalik was one of four Series 3 captains — confirmed only 3 captains Ricketts/Coffey/Netz; Kowalik is non-captain individual race leader), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations — all ≤280), FB posts (5 stories), image concepts (5 stories), image manifest (10 entries, not_started), articles (5), fact-check (33 claims; verify-facts.py ran), compile (5 stories, 7 tweets, 0 FB posts — format known, 5 articles, 5 images), dashboard (22 items), PostPlanner exports (0 posts — format known). WordPress 403 (proxy blocks ilovesoftball.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks ilovesoftball.com — known). Dashboard publish push failed (proxy known restriction). IMAGE NOT STARTED (manifest recognized but images not yet produced in Canva). PostPlanner: 0 posts compiled (format known). 0 char violations.
+- **Key Stories**: AUSL Series 3 captains set (Ricketts/Coffey/Netz)/draft Aug 22/Kowalik 370pts leads individual race as non-captain/Romero +42 to No. 9 (Tier 1 FOLLOW UP CORRECTION), Oklahoma first WCWS miss since 2015/Mississippi State Super Regional/Gasso portal search/Guachino from Ole Miss/Westra enrolled No. 2 recruit (Tier 2 NEW), September 1 = 15 days/EIS nominations also close Sept 1/coaches call lists built/film should include August footage (Tier 2 FOLLOW UP), USA WNT 26 days/Group C preview Netherlands+Mexico+China+NZ+SA/top 2 to Brisbane/SEC 10 of 16 players/OU leads 4 players (Tier 3 FOLLOW UP), Texas 11 new additions/Mike White quote/Kavan 2x WCWS MOP history/only UCLA+OU won 3 straight (Tier 2 FOLLOW UP)
+
+## Last Run
 - **Date**: 2026-08-16
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch + research agents, 5 stories verified HIGH/MEDIUM confidence), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations — all ≤280), FB posts (5 stories), image concepts (9 items), image manifest (10 entries, not_started), articles (5), fact-check (46 claims; verify-facts.py ran), compile (5 stories, 7 tweets, 0 FB posts — format known, 5 articles, 5 images), dashboard (22 items), PostPlanner exports (0 posts — format known). WordPress 403 (proxy blocks ilovesoftball.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).

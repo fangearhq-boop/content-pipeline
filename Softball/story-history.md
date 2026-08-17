@@ -3,6 +3,67 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-08-17
+
+### Story 1: AUSL All-Star Cup Series 3 — Captains Set, Draft Aug 22, Kowalik Leads
+- **Date:** 2026-08-17
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Series 3 captains confirmed; draft Aug 22; Kowalik leads individual race as non-captain)
+- **Angle:** Ricketts, Coffey, Netz are the three Series 3 captains — NOT four (prior Aug 15-16 error corrected: Kowalik is NOT a captain). Draft Aug 22 at Parkway Bank Sports Complex. Kowalik 370 points (220 MVP + 150 stat), four-game MOP sweep, leads individual race without captain advantage. Romero +42 to No. 9 (2nd-highest Series 2 pts), Lemley +26. Individual champion crowned Aug 30 after Series 4.
+- **Content Produced:** Article (article-01, Jordan Reeves), 2 X posts, FB long-form + caption, 2 image concepts
+- **Corrections Made:** Aug 15-16 coverage stated 4 captains including Kowalik — confirmed only 3 captains (Ricketts/Coffey/Netz); Kowalik is non-captain points leader.
+- **Follow-Up Opportunities:**
+  - Draft rosters Aug 22
+  - Series 3 Day 1 results Aug 24
+  - Individual standings after Series 3
+
+### Story 2: Oklahoma Softball Rebuilds After First WCWS Miss Since 2015
+- **Date:** 2026-08-17
+- **Tier:** 2
+- **Classification:** NEW (first coverage of Oklahoma's WCWS miss and rebuild angle)
+- **Angle:** Oklahoma's 11-year WCWS streak (2016-2026) ended when Mississippi State won the Super Regional. First miss since 2015. Gasso quote: "We definitely are going to take a look-see in the portal." Departures: Berkley Zache (P), Riley Zache (C/IF), Tia Milloy (UT). Addition: Miali Guachino from Ole Miss (pitcher). Payton Westra enrolled (No. 2 overall recruit, Class of 2026). Kai Minor and Ella Parker return as outfield core. Portal ace search ongoing through December.
+- **Content Produced:** Article (article-02, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Portal pitcher additions (December signing period)
+  - Fall practice preview
+  - 2027 preseason ranking
+
+### Story 3: September 1 — 15 Days, EIS Nominations Deadline
+- **Date:** 2026-08-17
+- **Tier:** 2
+- **Classification:** FOLLOW UP (daily countdown; was 16 days Aug 16; new angle: EIS nominations deadline)
+- **Angle:** 15 days to Sept 1. New angle: EIS Class of 2028 ranking nominations also close Sept 1. Coaches have had call lists built for weeks. Players who appeared at late-summer showcases vs. those in coaches' databases since spring are in different positions. Film should include August showcase footage; contact with target programs should be clean.
+- **Content Produced:** Article (article-03, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Continue countdown (14 days Aug 18)
+  - September 1 arrival coverage
+  - Early commitment wave post-Sept 1
+  - EIS Class of 2028 rankings release
+
+### Story 4: USA WNT — 26 Days, World Cup Group C Deep Dive
+- **Date:** 2026-08-17
+- **Tier:** 3
+- **Classification:** FOLLOW UP (26-day countdown; new angle: Group C detailed preview vs. prior OU reunion angle)
+- **Angle:** 26 days to Sept 12-16 Devon Park OKC. Group C breakdown: Netherlands (No. 6), Mexico (No. 7), China (No. 8), New Zealand (No. 23), South Africa (No. 36). Top 2 advance to Brisbane 2027. SEC dominates roster (10/16 players). OU leads schools with 4 (Brito, Coleman, Jennings, Maxwell). Garcia and Mulipola (2020 Olympic gold). 10 players competed in 2025 Down Under Series. 7 competed at 2025 World Games.
+- **Content Produced:** Article (article-04, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Continue countdown (25 days Aug 18)
+  - Group stage schedule confirmation
+  - Opening match preview vs Netherlands
+
+### Story 5: Texas Longhorns — 11 New Faces, Three-Peat Chase
+- **Date:** 2026-08-17
+- **Tier:** 2
+- **Classification:** FOLLOW UP (new angle: 11 new additions/roster competition vs. staff complete/Kavan angle Aug 16)
+- **Angle:** Mike White quote: "Of the 24 players on our roster, 11 are new additions, so that means a lot of competition within the team for starting positions this year." Nearly half roster new. Texas went 49-12 in 2026, won SEC Tournament, won national championship (second straight). Kavan: only player in college softball history to win back-to-back WCWS MOPs. Only UCLA (1988-90) and Oklahoma (2021-23) have won 3 straight. Staff with Fremin and Freeman now complete.
+- **Content Produced:** Article (article-05, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Fall practice preview
+  - Preseason rankings
+  - Kavan preseason honors
+
+---
+
 ## 2026-08-16
 
 ### Story 1: AUSL All-Star Cup Series 3 — 8 Days to Opener, Kowalik Leads Individual Race
