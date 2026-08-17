@@ -1,0 +1,259 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-17",
+  "compiled_at": "2026-08-17T10:51:24.271481+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Crosstown Classic Opens at Wrigley — White Sox (65-58) at Cubs (72-53), Tonight 7:05 PM CT",
+      "tier": 1,
+      "status": "",
+      "angle": "Preview — two playoff-bound Chicago teams meet with postseason implications on both sides; White Sox riding sweep momentum, Cubs trying to shake off Cardinals series loss",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The best rivalry in Chicago starts tonight at Wrigley.\n\nWhite Sox: 65-58, AL Central leaders, 5.5-game lead after sweeping Detroit.\nCubs: 72-53, No. 1 NL Wild Card, 5 games ahead.\n\nBoth going to October. Tonight, only one can win.\n\nFirst pitch: 7:05 PM CT. #WhiteSox #Cubs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox",
+            "#Cubs"
+          ],
+          "char_count": 272
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Two Chicago teams. One October city.\n\nWhite Sox extended their AL Central lead to a season-high 5.5 games.\nCubs sit 5 ahead in the NL Wild Card race.\n\nThe Crosstown Classic is back — tonight at Wrigley. 7:05 PM CT. #WhiteSox #Cubs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox",
+            "#Cubs"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-crosstown-classic-white-sox-cubs-wrigley-aug-17.html",
+        "headline": "Crosstown Classic at Wrigley: The Best Rivalry in Chicago Gets a New Meaning This Year",
+        "word_count": 579
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Crosstown Classic — White Sox at Cubs\n\n#### Image Concept 1 (X post image)\n- **Type:** X image\n- **Search term:** Chicago White Sox\n- **Caption:** Two Chicago teams, one Wrigley Field. Crosstown Classic — tonight, 7:05 PM CT.\n- **Text overlay:** CROSSTOWN CLASSIC | TONIGHT 7:05 PM CT\n- **Status:** not_started\n\n#### Image Concept 2 (Facebook image)\n- **Type:** Facebook image\n- **Search term:** Chicago Cubs Wrigley Field\n- **Caption:** Cubs vs. White Sox at Wrigley Field — August 17.\n- **Text overlay:** CROSSTOWN CLASSIC | WHITE SOX VS CUBS | TONIGHT\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Joshua Baez Makes MLB History — First Player Ever to Homer in Each of His First 3 Career At-Bats",
+      "tier": 1,
+      "status": "",
+      "angle": "Historical milestone — what it means, how rare, why it matters",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Joshua Baez just made MLB history.\n\nHe homered in each of his first 3 career at-bats.\n\nNo player had ever done that. Not once. Not in 150+ years of baseball.\n\nCards beat Cubs 8-4. Baez: 3-for-4, 5 RBI. First HR: 449 feet. 🔴 #STLCards",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#STLCards"
+          ],
+          "char_count": 233
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Before last night, Joshua Baez led all of Triple-A with 34 home runs.\n\nHe had 30 family members in the Wrigley stands for his debut.\n\nHe hit a home run in all three of his first career at-bats.\n\nFirst time ever in MLB history. #STLCards",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#STLCards"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-joshua-baez-cardinals-mlb-history-3-home-runs-debut.html",
+        "headline": "Joshua Baez Just Made History Nobody Had Ever Made Before",
+        "word_count": 594
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Joshua Baez MLB History\n\n#### Image Concept 3 (X post image)\n- **Type:** X image\n- **Search term:** Joshua Baez Cardinals\n- **Caption:** Three at-bats. Three home runs. MLB history made.\n- **Text overlay:** MLB HISTORY | BAEZ | 3 HRs IN FIRST 3 AT-BATS\n- **Status:** not_started\n\n#### Image Concept 4 (Facebook image)\n- **Type:** Facebook image\n- **Search term:** Joshua Baez Cardinals\n- **Caption:** First player in history to homer in each of his first three MLB at-bats.\n- **Text overlay:** FIRST IN MLB HISTORY | JOSHUA BAEZ | 3 HRs, FIRST 3 AT-BATS\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Yordan Alvarez and the First Triple Crown in 14 Years — .329 BA, 36 HR, 88 RBI",
+      "tier": 2,
+      "status": "",
+      "angle": "Can Alvarez close the HR gap and become the first Triple Crown winner since Cabrera 2012?",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Yordan Alvarez leads all three Triple Crown categories:\n\n→ .329 BA — leads MLB by .029+\n→ 88 RBI — leads MLB by 7+\n→ 36 HR — 1 behind Schwarber\n\nLast Triple Crown winner: Cabrera, 2012.\n\nAlvarez has 46 games to close it. #Astros",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Astros"
+          ],
+          "char_count": 228
+        },
+        {
+          "label": "Post 3-2",
+          "text": "The HR gap is 1. Schwarber 37, Alvarez 36.\n\nSchwarber hit 2 at the Field of Dreams game to grab the lead.\n\nAlvarez leads BA by .029. Leads RBI by 7+.\n\nIf he passes Schwarber in HRs, Alvarez wins the Triple Crown. First since 2012. #Astros",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Astros"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-yordan-alvarez-triple-crown-chase-329-36-88.html",
+        "headline": "Yordan Alvarez Is Leading All Three Triple Crown Categories and Has Been for Weeks",
+        "word_count": 661
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alvarez Triple Crown Chase\n\n#### Image Concept 5 (X/Facebook image)\n- **Type:** Social image\n- **Search term:** Yordan Alvarez Astros\n- **Caption:** .329 | 36 HR | 88 RBI — leading all three Triple Crown categories.\n- **Text overlay:** TRIPLE CROWN CHASE | ALVAREZ | .329 / 36 HR / 88 RBI\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Brett Callahan Hits 2-Run Triple on First MLB Pitch — First Tiger to Do That Since 1912",
+      "tier": 2,
+      "status": "",
+      "angle": "Historic debut with a 114-year callback and full-circle alumni connection",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Brett Callahan's first MLB pitch: 2-run triple.\n\nHe became the first Tiger to hit a triple in his MLB debut since Ed Irwin in 1912.\n\nThat 1912 game? The famous Ty Cobb protest game. The pitcher? A St. Joseph's Univ. student.\n\nCallahan also went to St. Joseph's. #Tigers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tigers"
+          ],
+          "char_count": 269
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-brett-callahan-tigers-debut-triple-1912-st-josephs.html",
+        "headline": "Brett Callahan's First MLB Pitch Was a Triple — and the 1912 Connection Makes It Even Stranger",
+        "word_count": 534
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Brett Callahan Debut\n\n#### Image Concept 6 (X/Facebook image)\n- **Type:** Social image\n- **Search term:** Brett Callahan Tigers\n- **Caption:** 2-run triple. First pitch. First MLB at-bat. First Tiger to do that since 1912.\n- **Text overlay:** HISTORIC DEBUT | CALLAHAN | TRIPLE ON FIRST MLB PITCH\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Misiorowski's Cy Young Case Gets Extra Rest — 1.76 ERA, -550 Odds, Next Start ~Aug 23",
+      "tier": 3,
+      "status": "",
+      "angle": "Misiorowski Cy Young case + how the Brewers are protecting their ace down the stretch",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Jacob Misiorowski update:\n\n11-5, 1.76 ERA, 204 K in 133 IP, 0.74 WHIP.\nNL Cy Young odds: -550.\n\nThe Brewers are giving him extra rest — next start around Aug 23.\n\nThe only question left is how high the K total goes. #Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers"
+          ],
+          "char_count": 224
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-misiorowski-brewers-cy-young-extra-rest-550-odds.html",
+        "headline": "The Brewers Are Protecting Misiorowski — and the Cy Young Case Is Already Closed",
+        "word_count": 536
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Misiorowski Cy Young\n\n#### Image Concept 7 (X/Facebook image)\n- **Type:** Social image\n- **Search term:** Jacob Misiorowski Brewers\n- **Caption:** 11-5, 1.76 ERA, 204 K — NL Cy Young odds: -550.\n- **Text overlay:** CY YOUNG FRONTRUNNER | MISIOROWSKI | 1.76 ERA | 204 K\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

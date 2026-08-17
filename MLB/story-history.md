@@ -3,6 +3,64 @@
 This file tracks all stories covered by the MLB content pipeline.
 Each day's stories are appended at the top (newest first).
 
+## 2026-08-17
+
+### Story 1: Crosstown Classic Opens at Wrigley — White Sox (65-58) at Cubs (72-53), Tonight 7:05 PM CT
+- **Date:** 2026-08-17
+- **Tier:** 1
+- **Classification:** NEW
+- **Angle:** Preview of Game 1 of 3-game Crosstown Classic at Wrigley. White Sox arrive at season-high 5.5-game AL Central lead after sweeping Detroit (9-5, 4-3, 7-5). Cubs just lost 2 of 3 to Cardinals but hold NL Wild Card No. 1 (72-53, 5 games ahead of Phillies/Padres at 67-58). White Sox took 2 of 3 at Rate Field in May (Quero walk-off 10th). Both teams heading to October.
+- **Content Produced:** Article (article-01, Ryan Calloway), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Crosstown Classic Game 2 and 3 results (Aug 18-19)
+  - White Sox AL Central magic number tracking
+  - Cubs Wild Card seeding conversation
+
+### Story 2: Joshua Baez Makes MLB History — First Player to Homer in First 3 Career At-Bats
+- **Date:** 2026-08-17
+- **Tier:** 1
+- **Classification:** NEW
+- **Angle:** Baez homered in each of his first three career at-bats on Aug 15 (Cardinals 8, Cubs 4 at Wrigley). First player in MLB history to do this. Went 3-for-4 with 5 RBI. First HR was 449 feet to dead center. Had 34 HRs in Triple-A before call-up. 30 family members in stands.
+- **Content Produced:** Article (article-02, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Baez's next starts and how pitchers adjust
+  - Cardinals August/September run with new addition
+
+### Story 3: Yordan Alvarez Triple Crown Chase — .329 BA, 36 HR, 88 RBI
+- **Date:** 2026-08-17
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Aug 16 covered drought-ending HR No. 36; today = full Triple Crown analysis with historical context)
+- **Angle:** Alvarez leads all three TC categories: .329 BA (leads MLB by .029+), 88 RBI (leads MLB by 7+), 36 HR (trails Schwarber 37 by 1). Schwarber hit 2 at Field of Dreams game (Aug 14) to reach 37 and take sole lead. Last TC winner: Cabrera 2012. Olson also surging at ~36.
+- **Content Produced:** Article (article-03, Jake Torres), 2 X posts, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Alvarez HR No. 37 (ties Schwarber)
+  - September TC race tracking
+  - Final BA, RBI, HR totals
+
+### Story 4: Brett Callahan Tigers Debut — 2-Run Triple on First Pitch, First Tiger Since Ed Irwin 1912
+- **Date:** 2026-08-17
+- **Tier:** 2
+- **Classification:** NEW
+- **Angle:** Called up Aug 16, Callahan hit 2-run triple on first pitch of MLB career (off Sean Burke). First Tiger to triple in first MLB PA since Ed Irwin in 1912 (114 years). The 1912 game: Ty Cobb protest game, amateur replacements, Allen Travers (St. Joseph's Univ.) pitched all 8 innings. Callahan also attended St. Joseph's — full-circle connection. Tigers lost 7-5 (White Sox sweep).
+- **Content Produced:** Article (article-04, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Corrections/Notes:** Previous research flagged "Bill Irwin" as 1912 player — confirmed correct name is "Ed Irwin" per Yahoo Sports primary sourcing.
+- **Follow-Up Opportunities:**
+  - Callahan follow-up games through August
+  - Tigers outfield development story
+
+### Story 5: Misiorowski — 1.76 ERA, 204 K, -550 Cy Young Odds, Extra Rest
+- **Date:** 2026-08-17
+- **Tier:** 3
+- **Classification:** FOLLOW UP (ongoing Cy Young coverage; new element: Brewers giving extra rest)
+- **Angle:** 11-5, 1.76 ERA, 204 K in 133 IP, 0.74 WHIP. -550 NL Cy Young odds. Brewers delaying next start to ~Aug 23 for workload management. 2nd-fastest to 200 K in MLB season history (Strider 2022 fastest). Award race effectively decided.
+- **Content Produced:** Article (article-05, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Misiorowski next start (~Aug 23)
+  - Final K total by season end
+  - Cy Young Award announcement (post-season)
+
+---
+
 ## 2026-08-16
 
 ### Story 1: White Sox 4, Tigers 3 — Series Sweep, AL Central Lead Season-Best 4.5 Games

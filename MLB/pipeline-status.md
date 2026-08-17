@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-08-17
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch + 2 research agents, 5 stories verified HIGH/MEDIUM confidence; NEW STORY ADDED: Joshua Baez MLB history — first player to homer in first 3 career at-bats), brief (5 stories), research notes, story analysis, X posts (8; 0 char violations — all ≤280), FB posts (5 stories), image concepts (7 items; imagn source), image manifest (7 entries, not_started), articles (5), fact-check (34 claims; verify-facts.py ran; claim-patterns.py missing known), compile (5 stories, 8 tweets, 0 FB posts — format known, 5 articles, 5 images), dashboard (23 items), PostPlanner exports (8 posts standard + 8 TOBI). WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard publish push failed (proxy known restriction). IMAGE NOT STARTED (manifest recognized but images not yet produced in Canva). claim-patterns.py missing (known). 0 char violations. NOTE: Joshua Baez MLB history story added (first to HR in first 3 at-bats) replacing standalone HR race story.
+- **Key Stories**: Crosstown Classic at Wrigley tonight/White Sox 65-58 AL Central 5.5-game lead/Cubs 72-53 NL Wild Card No. 1/both playoff-bound (Tier 1 NEW), Joshua Baez Cardinals debut/homered in first 3 career at-bats (MLB first)/3-for-4 5RBI/449-foot first HR/34 Triple-A HRs before call-up (Tier 1 NEW), Alvarez Triple Crown chase/.329 BA/36 HR/88 RBI/all three TC categories/Schwarber leads HR 37 by 1/Cabrera 2012 last TC winner (Tier 2 FOLLOW UP), Brett Callahan debut 2-run triple first pitch/first Tiger since Ed Irwin 1912/Ty Cobb protest game/St. Joseph's Univ connection (Tier 2 NEW), Misiorowski 11-5/1.76 ERA/204K/-550 Cy Young odds/extra rest/next start ~Aug 23 (Tier 3 FOLLOW UP)
+
+## Last Run
 - **Date**: 2026-08-16
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch + research agents, 5 stories verified HIGH/MEDIUM confidence), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations — all ≤280), FB posts (5 stories), image concepts (7 items; imagn source), image manifest (10 entries, not_started), articles (5), fact-check (21 claims; verify-facts.py ran; claim-patterns.py missing known), compile (5 stories, 7 tweets, 0 FB posts — format known, 5 articles, 5 images), dashboard (22 items), PostPlanner exports (0 posts — format known). WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
