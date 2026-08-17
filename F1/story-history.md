@@ -5450,3 +5450,44 @@
 - **Key facts:** GPFans Aug 16: 14 of 20 2027 seats unconfirmed; Sainz in "final stages" with Williams (new 1yr deal); Bortoleto confirmed Audi long-term (through 2028+); Russell engaged to Carmen Montero Mundt (Aug 9, oval yellow diamond); Hamilton confirmed Ferrari 2027; Norris confirmed McLaren 2027+; both Mercedes 2027 seats "not 100% confirmed"
 - **Status:** NEW
 - **Follow-up ideas:** Verstappen announcement; Sainz-Williams confirmation; Mercedes seat resolution
+
+| 2026-08-17 | T1 | Verstappen-McLaren — Zak Brown Says "Talks Didn't Go Anywhere" But Insiders Disagree | X, FB, Article | FOLLOW UP |
+| 2026-08-17 | T1 | Dutch GP Sprint Weekend — Factories Reopen, 4 Days to Zandvoort Farewell | X, FB, Article | FOLLOW UP |
+| 2026-08-17 | T2 | Antonelli 50-Point Lead — Defending Championship into Dutch GP | X, FB, Article | FOLLOW UP |
+| 2026-08-17 | T2 | Ferrari Two-Phase Upgrade — New Chassis Zandvoort, ADUO-2 Monza | X, FB, Article | FOLLOW UP |
+| 2026-08-17 | T2 | F1 Silly Season — 14 Seats Open, Sainz in Final Stages with Williams | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Verstappen-McLaren — Brown Says "Talks Didn't Go Anywhere"
+- **Tier:** 1
+- **Category:** F1 Silly Season / Max Verstappen / McLaren / Red Bull
+- **Key facts:** Zak Brown publicly stated Verstappen talks "didn't go anywhere," McLaren "very happy" with Norris/Piastri; PlanetF1: Verstappen in "advanced talks" with McLaren; GPFans Aug 16: bond with Red Bull "broken," Red Bull made fresh offer no response; exit clause active Aug-Oct; Dutch GP (4 days) home race, natural announcement moment; 14 seats unconfirmed
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Dutch GP announcement; confirmation of destination; Red Bull replacement
+
+### STORY 2: Dutch GP Sprint Weekend — Factories Reopen Today
+- **Tier:** 1
+- **Category:** F1 Race Preview / Dutch Grand Prix / Zandvoort Sprint
+- **Key facts:** Factories reopened Aug 17 (today); Dutch GP Aug 21-23 (4 days); FIRST-EVER Sprint at Zandvoort; 1 practice only before Sprint Qualifying; zero 2026 car data at circuit; Zandvoort confirmed final Dutch GP (no renewal); sellout crowd; Verstappen won there 3x; 85% rain Sunday; 72-lap race
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Sprint Qualifying results; Sprint result; Race result
+
+### STORY 3: Antonelli 50-Point Lead — Dutch GP Championship Defense
+- **Tier:** 2
+- **Category:** F1 Championship / Kimi Antonelli / Mercedes
+- **Key facts:** 50pt lead over Hamilton (2nd), 59pt over Russell (3rd); 6 wins, 6 poles, 9 podiums; age 19y 216d youngest championship leader ever; Russell won Austria cutting gap; 12 rounds remain (316pts); Mercedes Constructors leads Ferrari
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Dutch GP championship result; Ferrari aero impact; title race progression
+
+### STORY 4: Ferrari Two-Phase Upgrade Plan
+- **Tier:** 2
+- **Category:** F1 Technical / Ferrari / Lewis Hamilton
+- **Key facts:** All-new chassis + floor at Zandvoort (fast-tracked Silverstone data); ADUO-2 engine saved for Monza (+15hp, +0.2s/lap); Vasseur plan: Zandvoort (aero) → Monza (engine) → Singapore (combined); Hamilton 50pts behind Antonelli
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Zandvoort aero performance; Monza ADUO-2 lap times
+
+### STORY 5: F1 Silly Season — 14 Seats Open, Sainz Williams
+- **Tier:** 2
+- **Category:** F1 Driver Market / Carlos Sainz / Williams / Silly Season
+- **Key facts:** GPFans Aug 16: 14 of 20 2027 seats unconfirmed; Sainz "final stages" with Williams (expected 1-yr deal); Bortoleto Audi long-term through 2028+; Hamilton Ferrari confirmed; Norris McLaren confirmed; Russell Mercedes unconfirmed; Verstappen decision is the domino
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Sainz-Williams confirmation; Verstappen announcement; Russell contract
