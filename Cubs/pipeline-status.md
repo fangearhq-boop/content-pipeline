@@ -1,43 +1,50 @@
-# Cubs Pipeline Status — Updated 2026-08-16
+# Cubs Pipeline Status — Updated 2026-08-17
 
 ## Latest Run
-- **Date:** 2026-08-16 (Sunday)
+- **Date:** 2026-08-17 (Monday)
 - **Run time:** ~09:00 UTC
-- **Stories:** 6
-- **X posts:** 6
+- **Stories:** 7
+- **X posts:** 7
 - **Platforms:** X/Twitter only
 - **Status:** ✅ Complete
 
-## Insights Summary (2026-08-16)
-- **Snapshot generated:** 2026-08-16T08:30:00Z (fresh, 30 min before trigger)
-- **measured_tweet_count:** 124
+## Insights Summary (2026-08-17)
+- **Snapshot generated:** 2026-08-17T08:30:00Z (fresh, 30 min before trigger)
+- **measured_tweet_count:** 125
 - **Significant findings (1):**
-  1. `has_score=False` beats `has_score=True` — **small** effect (Cliff's delta=0.31, p=0.0036, n=75 vs 49, median impressions 110 vs 82)
-     - **Applied:** All 6 tweets drafted without final game scores. Game 2 recap leads with Báez's historic debut (3 HRs in first 3 ABs), not the 8-4 score. Game 3 preview leads with Cabrera's narrative arc, not team records. Cardinals jab tweet uses W-L records (62-61), not a game score.
-- **Note vs yesterday:** Same single `has_score` finding. Dataset slightly smaller (124 vs 125) — likely measurement timing. Finding remains statistically robust (p=0.0036). No other dimensions cleared the significance gates.
+  1. `has_score=False` beats `has_score=True` — **medium** effect (Cliff's delta=0.33, p=0.0019, n=76 vs 49, median impressions 111.5 vs 79)
+     - **Applied:** All 7 tweets drafted without game scores. Cardinals loss referenced as "Cardinals series at Wrigley was ugly" (no 11-4 or 8-4 scores). White Sox Tigers sweep referenced narratively only. The `has_score` finding now strengthened slightly (medium vs small in prior snapshot, p=0.0019 vs 0.0036).
+- **Note vs yesterday:** Finding is same dimension (`has_score`) but effect size upgraded from small (0.31) to medium (0.33) and p-value is stronger (0.0019). Still the only dimension clearing all three gates. No new dimensions.
 
-## Series Context (2026-08-16)
-- `is_series_start_today`: FALSE (mid-series, Game 3 of 3 vs Cardinals at Wrigley)
-- `off_day`: FALSE — Cardinals at Cubs, 2:15 PM CT on ABC
-- Series: Cubs (72-52) vs Cardinals (62-61), Game 3 (deciding) at Wrigley — tied 1-1
-  - Game 1 (Aug 14): Cubs won (Holmes shutout, Suzuki 3-run HR)
-  - Game 2 (Aug 15): Cardinals won 8-4 (Báez historic 3-HR debut)
-  - Game 3 (Aug 16): Cabrera (returning from IL) vs Dobbins (stats conflicting — omitted from tweets)
-- Applied: No dedicated series-preview slot. Báez recap + Cabrera return are the twin leads. Pre-game hype at 1:15 PM.
+## Series Context (2026-08-17)
+- `is_series_start_today`: TRUE — Cubs (72-53) host White Sox (65-58) at Wrigley Field, 3-game series
+- `off_day`: FALSE — Game 1 at 7:05 PM CT
+- Pitching matchup: Imanaga (3.74 ERA) vs Luis Castillo (4.96 ERA)
+- Applied: 7:00 AM slot reserved for Crosstown Classic series preview per series-preview rules. Lead with Cubs vs White Sox + 3 games + Wrigley; pitcher/stakes as kicker.
 
-## Today's Content (2026-08-16)
+## Today's Content (2026-08-17)
 | Slot | Story | Tier |
 |------|-------|------|
-| 7:00 AM CT | Game 2 recap: Báez first-ever 3-HR debut in MLB history at Wrigley | 1 |
-| 8:15 AM CT | Cabrera return / Game 3 preview: 9 scoreless rehab innings, series decider 2:15 PM ABC | 1 |
-| 9:30 AM CT | PCA: 27 HR, 30 SB, MLB-best fWAR — 3 HRs from back-to-back 30-30 | 2 |
-| 10:45 AM CT | Cardinals reality check: 62-61, sold deadline pieces, 3 GB from even Wild Card | 2 |
-| 12:00 PM CT | Rotation depth: Horton/Miller TJ, Harvey 60-day IL — Cabrera's return is a September lifeline | 3 |
-| 1:15 PM CT | Pre-game hype: series tied 1-1, Wrigley, ABC, 2:15 PM CT | 2 |
+| 7:00 AM CT | Crosstown Classic series preview — Cubs vs White Sox, 3 games at Wrigley, 7:05 PM CT | 1 |
+| 8:15 AM CT | Dansby Swanson oblique injury — 10-day IL, MRI Monday, 4-6 week recovery | 1 |
+| 9:30 AM CT | Seiya Suzuki activated from 10-day IL | 2 |
+| 10:45 AM CT | PCA: 27 HR, 30 SB, 3 from back-to-back 30-30, leads all baseball in fWAR, Bregman MVP quote | 2 |
+| 12:00 PM CT | Wild Card: Cubs 72-53 WC1 by 5 games over Phillies/Padres (67-58) | 2 |
+| 5:00 PM CT | Matchup preview: Imanaga vs Castillo, 7:05 PM CT — Cubs have pitching edge | 1 |
+| 6:30 PM CT | First pitch hype — Crosstown Classic, Make them earn it | 1 |
 
-## Cubs Record as of 2026-08-16 (entering game)
-- **Record:** 72-52 (No. 1 NL Wild Card)
-- **NL WC gap:** ~6 games over Padres (66-57), ~7 over D-backs (65-58)
+## Cubs Record as of 2026-08-17 (entering game)
+- **Record:** 72-53 (No. 1 NL Wild Card)
+- **NL WC gap:** 5 games over Phillies (67-58) and Padres (67-58)
+
+---
+
+## Previous Run (2026-08-16)
+- **Date:** 2026-08-16 (Sunday)
+- **Run time:** ~09:00 UTC
+- **Stories:** 6 | **X posts:** 6 | **Status:** ✅ Complete
+- **Insight applied:** has_score=False (small effect, p=0.0036)
+- **Series context:** Mid-series vs Cardinals (Game 3). Báez historic 3-HR debut, Cabrera return, PCA chase, Cardinals reality check, rotation depth, pre-game hype.
 - **Brewers:** 75-48 (NL Central leaders, ~3.5 GB ahead of Cubs)
 - **Cardinals:** 62-61 (3 GB from WC3; sold deadline pieces)
 

@@ -1,0 +1,276 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-17",
+  "compiled_at": "2026-08-17T09:30:00.077892+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Story 1 — Crosstown Classic series preview, 3 games at Wrigley",
+      "type": "Informative"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Story 2 — Swanson oblique IL, Hoerner to short, MRI Monday",
+      "type": "Injury news"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 3 — Seiya Suzuki activated from 10-day IL",
+      "type": "Roster news"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "Story 4 — PCA: 27 HR, 30 SB, 3 from back-to-back 30-30, MVP",
+      "type": "Bold/Analytical"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 5 — Wild Card: Cubs WC1 by 5 over Phillies and Padres",
+      "type": "Informative/Bold"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 6 — Imanaga vs Castillo matchup preview, 7:05 PM CT",
+      "type": "Preview/Hype"
+    },
+    {
+      "time": "6:30 PM",
+      "description": "Story 7 — First pitch hype, Crosstown Classic",
+      "type": "Fan energy"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Crosstown Classic Series Preview — Cubs vs White Sox, 3 Games at Wrigley",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Cubs (72-53, NL WC1) host White Sox (65-58, AL Central leaders) at Wrigley Field. 3-game series. Lead with matchup + length + location per series-preview rules. Stakes kicker: both teams in playoff races, White Sox won May series 2-1 at Rate Field, city bragging rights. Pitcher detail: Imanaga on the hill tonight at 7:05 PM CT.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Cubs vs White Sox. 3 games at Wrigley Field.\n\nAL Central leaders vs NL Wild Card leaders — both teams with something to fight for. White Sox stole the May series on the South Side.\n\nTonight's round 2. Imanaga on the hill. 7:05 PM CT.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative / Series Preview",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Crosstown Classic Series Preview\n**Status:** NEW STORY (mandatory — is_series_start_today=true)\n**Key Facts:**\n- Cubs 72-53 (NL WC1), White Sox 65-58 (AL Central leaders)\n- Series: 3 games at Wrigley Field, Aug 17-19\n- Game 1: Mon 7:05 PM CT — Imanaga (8-9, 3.74 ERA) vs Luis Castillo (4-9, 4.96 ERA) on MARQ/CHSN/Fubo\n- Game 2: Tue 7:05 PM CT — Gausman vs TBD\n- Game 3: Wed 1:20 PM CT — Holmes vs TBD\n- White Sox won May Crosstown series 2-1 at Rate Field (Quero walk-off 2-run HR in 10th)\n- White Sox just swept Tigers in Detroit (9-5, 4-3, 7-5); Murakami and Vargas each with 28 HR\n- White Sox AL Central lead: 5.5 GB over Cleveland and Minnesota\n- Block Club Chicago, SI.com: \"Best Crosstown Classic in 18 years\" — both teams in legit playoff races\n- All-time Crosstown Classic series: Cubs lead 78-77 (going into this series)\n- White Sox H2H 2026: leads 2-1\n**Sources:**\n- https://chicago.suntimes.com/cubs/2026/08/16/white-sox-cubs-crosstown-rivalry-wrigley-field-chicago\n- https://blockclubchicago.org/2026/05/15/the-crosstown-classic-feels-alive-on-both-sides-of-chicago-for-the-1st-time-in-years/\n- https://www.si.com/mlb/cubs/onsi/best-crosstown-classic-in-18-years-cubs-white-sox-gear-up-for-electric-series-15\n- https://www.bleachernation.com/picks/2026/08/15/chicago-cubs-vs-chicago-white-sox-series-aug-17-19-odds-starting-pitchers-predictions/",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Dansby Swanson Oblique Injury — Headed to 10-Day IL",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Swanson left Sunday's game (3rd inning, Aug 16) with oblique tightness. Placed on 10-day IL; MRI on Monday. Best-case recovery 4-6 weeks could put him out for the rest of the regular season. Nico Hoerner slides to SS, Pedro Ramírez in mix at 2B. Counsell: Swanson \"critical to our defense.\" No scores per insight.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Dansby Swanson is headed to the IL after leaving Sunday's game with oblique tightness.\n\nMRI on Monday. Best-case recovery: 4-6 weeks. That puts him deep into September.\n\nHoerner to short, Ramírez in the mix. Not ideal timing heading into a stretch run.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Injury news / Informative",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Dansby Swanson Oblique Injury\n**Status:** NEW STORY (Tier 1)\n**Key Facts:**\n- Left Sunday's 11-4 loss in the 3rd inning after awkward swing-and-miss on a first-pitch Dobbins fastball\n- Immediately headed to dugout; oblique injury confirmed\n- Placed on 10-day IL; MRI on Monday\n- Recovery timeline: 4-6 weeks (oblique strains typical; this range = deep September or beyond)\n- Suzuki precedent: oblique injuries cost him 6 weeks in 2023, 4 weeks in 2024\n- Craig Counsell: Swanson is \"critical to our defense\" and \"one of the better shortstops in the game\"\n- Nico Hoerner slides to SS; Pedro Ramírez in mix at 2B\n- Swanson activation concurrent with Seiya Suzuki activation announcement\n**Sources:**\n- https://www.bleachernation.com/cubs/2026/08/16/dansby-swanson-injury/\n- https://chicago.suntimes.com/cubs/2026/08/16/cubs-shortstop-dansby-swanson-leaves-game-with-apparent-injury\n- https://www.dailyherald.com/20260816/chicago-cubs/cubs-have-roster-questions-after-swanson-injury-another-loss-to-cardinals/",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Seiya Suzuki Activated — Silver Lining on a Rough Monday",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Cubs activated Suzuki from 10-day IL on same day Swanson goes on IL. Healthy right fielder back in the lineup for the Crosstown Classic. Good news on a rough morning.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Seiya Suzuki is back.\n\nActivated from the IL as Swanson heads in the other direction — the Cubs needed some good news this Monday morning.\n\nHealthy Seiya hitting in the middle of this lineup is a weapon. Welcome back to Wrigley.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Roster news / Informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Seiya Suzuki Activated\n**Status:** NEW STORY (Tier 2)\n**Key Facts:**\n- Activated from 10-day IL on same day Swanson goes on IL\n- Cubs press release: \"Cubs activate Seiya Suzuki from 10-day injured list, place INF Dansby Swanson on 10-day IL\"\n- Returns to right field for the Crosstown Classic\n- Healthy bat back in the middle of a lineup that just got swept by Cardinals\n**Sources:**\n- https://mlb.com/press-release/press-release-cubs-activate-of-seiya-suzuki-from-10-day-injured-list-place-inf-dansby-swanson-on-10-day-il",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "PCA — 30 Stolen Bases, Three HRs from Back-to-Back 30-30",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "PCA at 27 HR, 30 SB. Three HRs from back-to-back 30-30 seasons. Leads all of baseball in fWAR. Walk rate tripled year-over-year. Bregman: \"I think Pete should win MVP.\" NL MVP frontrunner.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Pete Crow-Armstrong: 27 HR, 30 SB. Three home runs from back-to-back 30-30 seasons.\n\nHe leads all of baseball in fWAR. Plays the best center field in the NL. That's your frontrunner.\n\nAlex Bregman: \"I think Pete should win MVP.\" Hard to argue.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Bold / Analytical",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "PCA — 30 SB, Back-to-Back 30-30 Chase\n**Status:** FOLLOW UP (last covered Aug 16 briefly; new peg = 30 SBs reached, explicit milestone angle)\n**Key Facts:**\n- Current line: .277/.375/.530, .905 OPS, 27 HR, 73 RBI, 30-for-37 SB (30 SBs officially reached)\n- 3 HRs from back-to-back 30-30 seasons\n- Leads all of baseball in fWAR\n- Walk rate jumped from 4.5% (2025) to 12.1% (2026) — more patient, harder to get out\n- 124 games played, all of them\n- Alex Bregman: \"I think Pete should win MVP\" + \"Pete has just been unbelievable this year in every phase of the game\"\n- NL MVP race vs Ohtani: PCA ahead on WAR; Ohtani DH-only since July 3\n**Sources:**\n- https://sports.yahoo.com/articles/pete-crow-armstrong-mvp-chances-161419497.html\n- https://www.axios.com/local/chicago/2026/08/10/pete-crow-armstrong-nl-mvp-mlb-ohtani-cubs-wrigley-field\n- https://clutchpoints.com/mlb/chicago-cubs/cubs-news-pete-crow-armstrong-bold-take-teammate-mvp-push",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Wild Card Watch — Cubs WC No. 1 Lead Holds at Five Games",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Cubs 72-53, WC1. Phillies and Padres 67-58 (both five back). Cardinals series was painful but the standings are honest. The lead is real. Pivot to Crosstown Classic.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Cubs lead the NL Wild Card by five games.\n\nThe Cardinals series at Wrigley was ugly. But the standings don't care — Cubs still own WC No. 1. Phillies and Padres are both five back.\n\nThe lead is real. Now go win a Crosstown Classic.\n\n#Cubs #MLB #NorthSiders",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Informative / Bold",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#NorthSiders"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Wild Card Standings\n**Status:** FOLLOW UP (last covered Aug 11 with 6-1 record angle; today: Cardinals sweep shifts framing to \"lead holds despite adversity\")\n**Key Facts:**\n- Cubs 72-53 (NL WC1)\n- Phillies 67-58 (NL WC2), 5 GB\n- Padres 67-58 (NL WC3), 5 GB\n- Brewers 76-48 (NL Central leaders — Cubs 4 GB from division)\n- Cardinals: not in WC conversation at this point\n- Cubs got swept by Cardinals but maintained WC1 because Phillies/Padres didn't make up ground\n**Sources:**\n- https://www.espn.com/mlb/standings/_/view/wild-card\n- https://sportsbrackets.net/2026/05/23/2026-mlb-standings/",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Matchup Preview — Imanaga vs Castillo, 7:05 PM CT",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Imanaga (3.74 ERA, one of NL's best since June) vs Castillo (4.96 ERA). Cubs have pitching edge. White Sox dangerous (just swept Detroit). Cubs need to bounce back and make a statement.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Imanaga vs Luis Castillo. 7:05 PM CT. Wrigley Field.\n\nImanaga has been one of the NL's best pitchers since June. Castillo is putting up a 4.96 ERA for a White Sox team that just swept Detroit.\n\nCubs have the edge on the mound tonight. This one matters.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Preview / Hype",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Imanaga vs Castillo Matchup Preview\n**Status:** NEW STORY (game-day preview)\n**Key Facts:**\n- Imanaga: 8-9, 137.1 IP, 3.74 ERA — one of the NL's best pitchers since June (2.06 ERA across 10 starts since June 10 as of Aug 11)\n- Luis Castillo (White Sox): 4-9, 110.2 IP, 4.96 ERA\n- Cubs have clear pitching edge in Game 1\n- White Sox swept Tigers and coming in with momentum\n- Crosstown Classic: White Sox won May series 2-1; Cubs looking to even 2026 series\n**Sources:**\n- https://www.bleachernation.com/picks/2026/08/15/chicago-cubs-vs-chicago-white-sox-series-aug-17-19-odds-starting-pitchers-predictions/\n- https://www.sportsgrid.com/mlb/game/chicago-white-sox-chicago-cubs-scores-odds-picks-props-august-17-2026/27f12017-899a-42f4-a54c-2afde7290660",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 7,
+      "title": "First Pitch Hype — Crosstown Classic, 7:05 PM CT",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Short, emotional, punchy. Cardinals swept us. White Sox show up at Wrigley. Make them earn it. Imanaga ready. Wrigley ready. Go Cubs.",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Cardinals swept us. Now the South Side shows up at Wrigley.\n\nGood. Make them earn it.\n\nImanaga's ready. Wrigley's ready. 7:05 PM CT. Let's go.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "Fan energy / Bold",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 166
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "First Pitch Hype\n**Status:** NEW STORY (game-time slot)\n**Key Facts:**\n- Cardinals just swept Cubs at Wrigley — motivation is high\n- White Sox walking into Wrigley with a 3-game Tiger sweep momentum\n- 7:05 PM CT first pitch\n- Imanaga is ready\n- City rivalry narrative: two teams that both have something to fight for\n**Sources:** (based on series context and game preview data)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

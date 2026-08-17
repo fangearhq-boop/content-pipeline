@@ -5,6 +5,67 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-17
+
+### STORY 1: Crosstown Classic Series Preview — Cubs vs White Sox, 3 Games at Wrigley
+- **Angle:** NEW STORY (is_series_start_today=true; Cubs 72-53 host White Sox 65-58 at Wrigley; 3-game series; Imanaga vs Castillo Game 1 at 7:05 PM CT; White Sox won May series 2-1 at Rate Field; both teams in playoff races; has_score=False insight applied — no scores in tweet)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, series preview)
+- **Follow-Up Opportunities:**
+  - Game 1 result recap (tomorrow morning)
+  - Series result through Aug 19
+  - Imanaga start performance angle
+
+### STORY 2: Dansby Swanson Oblique Injury — 10-Day IL
+- **Angle:** NEW STORY (Swanson exited Aug 16 loss with oblique tightness in 3rd inning; placed on 10-day IL; MRI Monday; best-case 4-6 week recovery; could cost him rest of regular season; Hoerner to SS, Ramírez in mix; NO score per insight)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, injury news)
+- **Follow-Up Opportunities:**
+  - MRI results (Monday Aug 17)
+  - Swanson recovery timeline update
+  - Hoerner performance at SS
+
+### STORY 3: Seiya Suzuki Activated from 10-Day IL
+- **Angle:** NEW STORY (Suzuki activated same day Swanson goes on IL; healthy right fielder back in lineup for Crosstown Classic; silver lining framing)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, roster news)
+- **Follow-Up Opportunities:**
+  - Suzuki performance in Crosstown Classic series
+
+### STORY 4: PCA — 30 SB Milestone, Back-to-Back 30-30 Chase (27 HR)
+- **Angle:** FOLLOW UP (30 SBs reached — first standalone "30 SB milestone" angle; 27 HR; 3 from back-to-back 30-30; leads all of baseball in fWAR; Bregman "I think Pete should win MVP" quote; walk rate 4.5% → 12.1%; NO score per insight)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, bold/analytical)
+- **Follow-Up Opportunities:**
+  - PCA 28th, 29th, 30th HR milestones
+  - MVP ballot movement in September
+  - Ohtani comparison as season ends
+
+### STORY 5: Wild Card Watch — Cubs WC1 Lead Holds at 5 Games Despite Cardinals Sweep
+- **Angle:** FOLLOW UP (last covered Aug 11; fresh peg = Cardinals swept Cubs at Wrigley but Phillies/Padres didn't gain ground; Cubs still 72-53 WC1; Phillies and Padres 67-58; "the lead holds" framing; NO score per insight)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, informative/bold)
+- **Follow-Up Opportunities:**
+  - Wild Card gap after Crosstown Classic series
+  - Brewers division lead (76-48, 4 GB ahead of Cubs)
+
+### STORY 6: Matchup Preview — Imanaga vs Castillo, 7:05 PM CT
+- **Angle:** NEW STORY (game-day preview; Imanaga 3.74 ERA vs White Sox Luis Castillo 4.96 ERA; Cubs pitching edge; White Sox coming off Tigers sweep; Crosstown Classic city bragging rights)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, preview/hype)
+- **Follow-Up Opportunities:**
+  - Imanaga start result (tonight)
+  - Game 1 recap (tomorrow morning)
+
+### STORY 7: First Pitch Hype — Crosstown Classic 7:05 PM CT
+- **Angle:** NEW STORY (game-time energy push; Cardinals swept us, White Sox arrive at Wrigley, make them earn it; Imanaga ready; short punchy format)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT, fan energy)
+- **Follow-Up Opportunities:**
+  - Game result and series recap
+
+---
+
 ## 2026-08-16
 
 ### STORY 1: Joshua Báez Historic MLB Debut — Game 2 Recap
