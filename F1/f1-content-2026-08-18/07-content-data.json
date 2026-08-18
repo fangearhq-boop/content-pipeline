@@ -1,0 +1,269 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-18",
+  "compiled_at": "2026-08-18T11:28:51.795890+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Dutch GP Sprint Weekend — 3 Days to Zandvoort, History on the Line",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "3 days to the final Dutch Grand Prix.\n\nZandvoort gets its first-ever Sprint format this weekend.\n\nONE practice session. Then Sprint Qualifying. Then the race.\n\nNo data. No margin for error. 85% chance of rain Sunday.\n\nThis will be chaos. Brilliant, beautiful chaos.\n\n#DutchGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#DutchGP",
+            "#F1"
+          ],
+          "char_count": 279
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Zandvoort farewell weekend:\n\n📅 Fri Aug 21 — FP1 + Sprint Qualifying\n📅 Sat Aug 22 — Sprint + Grand Prix Qualifying\n📅 Sun Aug 23 — 72-lap Dutch GP (15:00 CEST)\n\nFirst Sprint. Last Dutch GP. Verstappen's home crowd.\n\n3 days. #DutchGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#DutchGP",
+            "#F1"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-dutch-gp-sprint-weekend-preview-zandvoort-farewell.html",
+        "headline": "Dutch GP Sprint Weekend Preview: Zandvoort's Historic Farewell Arrives in Three Days",
+        "word_count": 562
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Dutch GP Sprint Weekend Preview\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search Terms:** Max Verstappen Zandvoort Red Bull\n- **Credit:** (USA TODAY Sports Images)\n- **Canva Overlay Text:** \"FINAL DUTCH GP / AUG 21-23 / FIRST SPRINT AT ZANDVOORT\"\n- **Color Direction:** Dutch orange on dark background, Netherlands flag element\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** imagn\n- **Search Terms:** Zandvoort Circuit Dutch Grand Prix\n- **Credit:** (USA TODAY Sports Images)\n- **Canva Overlay Text:** \"ONE PRACTICE. THEN SPRINT QUALIFYING. / GOODBYE ZANDVOORT.\"\n- **Color Direction:** Dramatic sky-inspired gradient, dark and moody\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Dutch GP Sprint Weekend Preview\n**Sources:** Formula1.com, Sky Sports F1, RacingNews365, Forbes, Forbes (Aug 16 article)\n**Key Facts:**\n- Dutch Grand Prix: August 21-23, 2026, Circuit Zandvoort [HIGH]\n- This is the FIRST-EVER Sprint weekend at Zandvoort [HIGH]\n- Zandvoort is confirmed off the 2027 F1 calendar — this is the final Dutch GP [HIGH]\n- Schedule (CEST times):\n- Friday Aug 21: FP1 12:30 CEST, Sprint Qualifying 16:30 CEST [HIGH]\n- Saturday Aug 22: Sprint race (24 laps) 12:00 CEST, Grand Prix Qualifying 16:00 CEST [HIGH]\n- Sunday Aug 23: 72-lap Dutch Grand Prix 15:00 CEST [HIGH]\n- Only ONE practice session (FP1) for the entire weekend [HIGH]\n- Zero 2026-car data exists at Zandvoort heading into the weekend [HIGH]\n- This is the fifth of six Sprint races in 2026 [HIGH]\n- Rain probability on Sunday: 85% [MEDIUM — from Sky Sports article]\n- Verstappen has won the Dutch GP three consecutive times (home race) [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Verstappen-McLaren — Engineer Switch Intensifies Transfer Speculation",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Verstappen's race engineer for 4 championships — Lambiase — is switching to McLaren.\n\nBoth Red Bull and McLaren confirmed it.\n\nWhen your engineer moves to a rival, the paddock starts asking questions.\n\nDutch GP. Home race. 3 days.\n\n#F1 #Verstappen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Verstappen"
+          ],
+          "char_count": 247
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The Verstappen-McLaren story is still alive.\n\nZak Brown: talks \"didn't go anywhere.\"\n\nBut: Lambiase just signed with McLaren. Exit clause is active. GPFans says his Red Bull bond is \"broken.\"\n\nDutch GP. Home race. 3 days.\n\n#F1 #Verstappen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Verstappen"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-verstappen-mclaren-lambiase-engineer-transfer.html",
+        "headline": "Verstappen's Race Engineer Lambiase Signs with McLaren — Transfer Speculation Intensifies",
+        "word_count": 591
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen-McLaren — Lambiase Move\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search Terms:** Max Verstappen Red Bull Racing\n- **Credit:** (USA TODAY Sports Images)\n- **Canva Overlay Text:** \"VERSTAPPEN'S ENGINEER GOES TO McLAREN / THE PADDOCK IS WATCHING\"\n- **Color Direction:** Red Bull red split with McLaren papaya — tension graphic\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** imagn\n- **Search Terms:** Max Verstappen\n- **Credit:** (USA TODAY Sports Images)\n- **Canva Overlay Text:** \"EXIT CLAUSE ACTIVE / DUTCH GP: 3 DAYS / ANNOUNCEMENT COMING?\"\n- **Color Direction:** Dark background, countdown clock design element\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen-McLaren — Lambiase Engineer Move\n**Sources:** GPFans, PlanetF1, Sky Sports, GBNews, Gulf News\n**Key Facts:**\n- Gianpiero Lambiase (Verstappen's long-time race engineer) is switching to McLaren in 2028 [HIGH]\n- Both Red Bull and McLaren confirmed Lambiase's move [HIGH]\n- Zak Brown (McLaren CEO) publicly stated talks with Verstappen \"didn't go anywhere\" [HIGH]\n- Brown says McLaren is \"very happy\" with Norris/Piastri pairing [HIGH]\n- PlanetF1 reports Verstappen in \"advanced talks\" with McLaren [MEDIUM]\n- GPFans sources (Aug 16): Verstappen's bond with Red Bull is \"broken\"; Red Bull made fresh offer, no response from Verstappen [MEDIUM]\n- Verstappen's exit clause was triggered when he went into the summer break outside the top two in the championship [HIGH]\n- Exit clause window: active August-October [MEDIUM]\n- Dutch GP seen as natural announcement window for Verstappen's future decision [MEDIUM]\n- 14 of 20 2027 F1 seats remain unconfirmed [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Antonelli's 50-Point Lead — Heading Into Dutch GP as Championship Favorite",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Kimi Antonelli enters the Dutch GP with a 50-point lead.\n\n6 wins. 6 poles. 9 podiums. Age 19.\n\nHamilton and Ferrari arrive with a new floor upgrade that could change the picture.\n\nCan anyone stop Antonelli? 316 points still up for grabs.\n\n#F1 #DutchGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#DutchGP"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-kimi-antonelli-50-point-lead-dutch-gp.html",
+        "headline": "Antonelli Leads by 50 Points Heading Into Dutch GP: Can Ferrari's Upgrades Break the Teenager's Run?",
+        "word_count": 581
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli Championship Lead\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search Terms:** Kimi Antonelli Mercedes\n- **Credit:** (USA TODAY Sports Images)\n- **Canva Overlay Text:** \"50 POINTS CLEAR / 6 WINS. 6 POLES. / KIMI ANTONELLI 2026\"\n- **Color Direction:** Mercedes silver and teal on black\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** imagn\n- **Search Terms:** Lewis Hamilton Ferrari\n- **Credit:** (USA TODAY Sports Images)\n- **Canva Overlay Text:** \"HAMILTON: 50 POINTS BACK / FERRARI UPGRADE INCOMING / #F1\"\n- **Color Direction:** Ferrari red, championship pressure graphic\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli 50-Point Championship Lead\n**Sources:** GPFans, Sky Sports F1, Formula1.com, MotorBiscuit, F1 Fansite\n**Key Facts:**\n- Kimi Antonelli (Mercedes) leads the 2026 Drivers' Championship with 219 points [HIGH]\n- Lead over Lewis Hamilton (Ferrari, P2): 50 points [HIGH]\n- Lead over George Russell (Mercedes, P3): 59 points [HIGH]\n- Leclerc (Ferrari, P4): 81 points behind Antonelli [HIGH]\n- Antonelli stats: 6 wins, 6 poles, 9 podiums [HIGH]\n- Antonelli is the youngest championship leader in F1 history [HIGH]\n- Round 12 of 23 (Dutch GP) — 12 rounds remaining [HIGH]\n- Points remaining in season (drivers): 316 (including 2 Sprints) [HIGH]\n- George Russell won the Austrian GP cutting the gap briefly [HIGH]\n- Mercedes leads the Constructors' Championship over Ferrari [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Ferrari's Zandvoort Floor Upgrade — ADUO Engine Saved for Monza",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Ferrari's title plan:\n\n🔴 ZANDVOORT — New SF-26 floor (more downforce)\n🔴 MONZA — ADUO-2 engine (+15hp, +0.2s/lap)\n🔴 SINGAPORE — Combined attack\n\nHamilton is 50 points back. These two upgrades decide if Ferrari can win this.\n\n#F1 #Ferrari",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Ferrari"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-ferrari-zandvoort-floor-upgrade-aduo2-monza.html",
+        "headline": "Ferrari's Two-Phase Upgrade Plan: New Floor at Zandvoort, ADUO-2 Engine at Monza",
+        "word_count": 597
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ferrari Upgrade Plan\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search Terms:** Charles Leclerc Ferrari\n- **Credit:** (USA TODAY Sports Images)\n- **Canva Overlay Text:** \"FERRARI'S PLAN: / ZANDVOORT FLOOR + MONZA ENGINE / +15HP ADUO-2\"\n- **Color Direction:** Ferrari red and yellow with technical diagram aesthetic\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** imagn\n- **Search Terms:** Lewis Hamilton Ferrari racing\n- **Credit:** (USA TODAY Sports Images)\n- **Canva Overlay Text:** \"HAMILTON UPGRADE: / ZANDVOORT AERO / MONZA POWER / SINGAPORE ATTACK\"\n- **Color Direction:** Ferrari red gradient, bold typography\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Ferrari Zandvoort Floor Upgrade / ADUO-2 Monza\n**Sources:** ScuderiaFans, MotorBiscuit, Last Word on Sports, Ferrari blog/pittalk\n**Key Facts:**\n- Ferrari brings new SF-26 floor upgrade to Zandvoort — fast-tracked after Silverstone data review [HIGH]\n- Upgrade is direct evolution of Barcelona floor (round 7) — targeting increased downforce [HIGH]\n- Ferrari engineers identified floor correlation issues from Austrian + British GP data [HIGH]\n- Vasseur's two-phase upgrade plan: Zandvoort (aerodynamics) → Monza (engine) → Singapore (combined) [HIGH]\n- ADUO-2 engine upgrade saved for Monza Italian GP (Sept 4-6): +15hp, +0.2s per lap [HIGH]\n- This is Ferrari's second ADUO engine upgrade in 2026 [HIGH]\n- Charles Leclerc publicly teased the Zandvoort and Monza upgrades [HIGH]\n- Hamilton is 50 points behind Antonelli and needs upgrades to work [HIGH]\n- Leclerc is 81 points behind Antonelli [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Sainz's Williams 2027 Decision — Verdict Imminent, Not Confirmed",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Carlos Sainz's 2027 decision is coming soon.\n\nMost likely: stays at Williams.\n\nCondition: they must show they can compete at the front.\n\n14 of 20 2027 seats still unconfirmed. The Verstappen domino is what everyone's waiting for.\n\n#F1 #SillySeason",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#SillySeason"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-sainz-williams-2027-decision-imminent.html",
+        "headline": "Sainz's 2027 Williams Decision Is Coming: What the Verdict Will Tell the Grid",
+        "word_count": 561
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Sainz Williams 2027\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search Terms:** Carlos Sainz Williams Racing\n- **Credit:** (USA TODAY Sports Images)\n- **Canva Overlay Text:** \"SAINZ 2027 DECISION / COMING SOON / WILLIAMS OR SOMETHING NEW?\"\n- **Color Direction:** Williams blue and white, decision-point design\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** imagn\n- **Search Terms:** Carlos Sainz Formula 1\n- **Credit:** (USA TODAY Sports Images)\n- **Canva Overlay Text:** \"14 OF 20 SEATS UNCONFIRMED / THE VERSTAPPEN DOMINO / #F1SillySeason\"\n- **Color Direction:** Dark background, grid layout graphic showing open seats"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Sainz 2027 Williams Decision Imminent\n**Sources:** PlanetF1, F1 Oversteer, GPFans, F1.com\n**Key Facts:**\n- Sainz will decide his 2027 future \"in the next few weeks\" (post-summer shutdown decision) [HIGH]\n- Remaining at Williams is his most likely outcome [HIGH]\n- Audi option (replacing Hulkenberg) is reported to be \"firmly off the table\" [MEDIUM]\n- Sainz told Williams the only condition that ensures he stays: the team must show ability to compete at the front [HIGH]\n- Sainz described the 2026 Williams car as \"very bad\" early in the season [HIGH]\n- Sainz's 2026 contract with Williams has an option for 2027 [HIGH]\n- Verstappen's destination decision is the main domino affecting the entire grid [HIGH]\n- GPFans Aug 16: 14 of 20 2027 seats unconfirmed [HIGH]\n- Bortoleto confirmed at Audi (formerly Sauber) through 2028+ [HIGH]\n- Hamilton Ferrari confirmed; Norris McLaren confirmed [HIGH]\n- Russell Mercedes 2027 still unconfirmed [HIGH]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

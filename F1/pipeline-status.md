@@ -1,6 +1,18 @@
 # F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
+- **Date**: 2026-08-18
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Elena Voss, Marcus Cole, Ryan Calloway, Marcus Cole)
+- **PostPlanner exports:** f1fr-postplanner-2026-08-18.xlsx (7 posts) + f1fr-postplanner-tobi-2026-08-18.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-08-18/review-dashboard.html (22 items)
+- **Notes:** DUTCH GP SPRINT — 3 days to Zandvoort farewell; first-ever Sprint format; FP1+SQ Fri, Sprint+GQ Sat, Race Sun; zero 2026 data; 85% rain Sun; VERSTAPPEN/MCLAREN — Lambiase engineer confirmed switching to McLaren (2028); exit clause active; PlanetF1 "advanced talks"; GPFans bond "broken"; Dutch GP home race = announcement window; ANTONELLI — 50pt lead (219pts); 6W/6P/9pod; Russell/Hamilton/Leclerc behind; 316pts remain; FERRARI UPGRADE — new SF-26 floor Zandvoort; ADUO-2 +15hp Monza; Hamilton 50pts back; SAINZ 2027 — decision imminent; likely Williams; Audi off table; Verstappen is the domino
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+### 2026-08-17
 - **Date**: 2026-08-17
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)

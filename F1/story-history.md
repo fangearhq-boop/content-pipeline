@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-08-18
+
+| Date | Tier | Story | Formats | Status |
+|------|------|-------|---------|--------|
+| 2026-08-18 | T1 | Dutch GP Sprint Weekend — 3 Days to Zandvoort Farewell, First Sprint Format | X, FB, Article | FOLLOW UP |
+| 2026-08-18 | T1 | Verstappen-McLaren — Lambiase Engineer Switch Confirms Transfer Speculation | X, FB, Article | FOLLOW UP |
+| 2026-08-18 | T2 | Antonelli 50-Point Lead Into Dutch GP — Ferrari Upgrades as the Counter | X, FB, Article | FOLLOW UP |
+| 2026-08-18 | T2 | Ferrari Two-Phase Upgrade: New Floor Zandvoort, ADUO-2 Engine Monza | X, FB, Article | FOLLOW UP |
+| 2026-08-18 | T2 | Sainz Williams 2027 Decision Imminent — Likely Stays, Conditions Attached | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Dutch GP Sprint Weekend Preview
+- **Tier:** 1
+- **Category:** F1 Race Preview / Dutch Grand Prix / Zandvoort Sprint
+- **Key facts:** Dutch GP Aug 21-23; first-ever Sprint at Zandvoort; final Dutch GP (off 2027 calendar); Schedule: FP1 12:30 CEST Aug 21, SQ 16:30 CEST, Sprint 12:00 Aug 22, GQ 16:00, Race 15:00 Aug 23 (72 laps); one practice session only; zero 2026 data at circuit; 85% rain Sunday; 5th Sprint of 2026 season
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** FP1 results; Sprint Qualifying results; Sprint result; Race result; Verstappen home crowd farewell
+
+### STORY 2: Verstappen-McLaren — Lambiase Engineer Move
+- **Tier:** 1
+- **Category:** F1 Silly Season / Max Verstappen / McLaren / Red Bull
+- **Key facts:** Gianpiero Lambiase (Verstappen's engineer, 4 championships) signing with McLaren in 2028; both Red Bull and McLaren confirmed; Zak Brown: talks "didn't go anywhere," happy with Norris/Piastri; PlanetF1: Verstappen in advanced talks with McLaren; GPFans: bond with Red Bull "broken," fresh RB offer no response; exit clause active Aug-Oct; Dutch GP natural announcement window
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Dutch GP announcement; confirmation of destination; Red Bull replacement plan
+
+### STORY 3: Antonelli 50-Point Lead
+- **Tier:** 2
+- **Category:** F1 Championship / Kimi Antonelli / Mercedes
+- **Key facts:** Antonelli 219pts, leads Hamilton by 50, Russell by 59, Leclerc by 81; 6W/6P/9pod; youngest champion leader ever; 12 rounds remain (316pts); George Russell won Austria; Mercedes leads Constructors'
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Dutch GP championship result; Ferrari aero impact at Zandvoort
+
+### STORY 4: Ferrari Two-Phase Upgrade
+- **Tier:** 2
+- **Category:** F1 Technical / Ferrari / Lewis Hamilton
+- **Key facts:** New SF-26 floor Zandvoort (fast-tracked Silverstone data, evolution of Barcelona floor); ADUO-2 engine Monza (Sept 4-6): +15hp, +0.2s/lap; Vasseur plan: Zandvoort aero → Monza engine → Singapore combined; Hamilton 50pts back; Leclerc 81pts back
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Zandvoort floor performance in FP1/Sprint; Monza ADUO-2 lap times
+
+### STORY 5: Sainz Williams 2027 Decision
+- **Tier:** 2
+- **Category:** F1 Driver Market / Carlos Sainz / Williams
+- **Key facts:** Decision in "next few weeks"; likely stays Williams; Audi option off the table; Sainz condition: team must show ability to fight for wins; "very bad" early 2026 car; Verstappen domino; 14 of 20 2027 seats unconfirmed
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Sainz announcement; Williams car development progress; Verstappen announcement (the key trigger)
+
 ## 2026-08-15
 
 | Date | Tier | Story | Formats | Status |
