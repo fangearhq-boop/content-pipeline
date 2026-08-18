@@ -3,6 +3,65 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-08-18
+
+### Story 1: AUSL All-Star Cup Series 3 — Draft 4 Days Away
+- **Date:** 2026-08-18
+- **Tier:** 1
+- **Classification:** FOLLOW UP (draft Aug 22, 4 days; series opens Aug 24; Kowalik No. 1 in standings)
+- **Angle:** Series 3 draft is Thursday Aug 22 at Parkway Bank Sports Complex. Kowalik holds No. 1 in individual standings entering Series 3. Ricketts, Coffey, Netz named as Series 3 captains per theausl.com headline. First four-team series of 2026 All-Star Cup. Individual champion crowned after Series 4 on Aug 30. Romero +42 to No. 9 entering Series 3, Lemley +26.
+- **Content Produced:** Article (article-01, Emily Rawlings), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Series 3 rosters after Aug 22 draft
+  - Series 3 Day 1 results (Aug 24)
+  - Individual standings update after Series 3
+
+### Story 2: Oklahoma Softball — Fall Schedule, Battle Series Returns
+- **Date:** 2026-08-18
+- **Tier:** 2
+- **Classification:** FOLLOW UP (fall schedule released; first look at rebuilt Sooners)
+- **Angle:** Oklahoma released full fall 2026 schedule with five Battle Series events at Love's Field (Oct 3/17/23/31, Nov 6), plus at East Texas A&M Oct 7 and vs Oklahoma Christian Oct 15. All home games 6:30 PM, $10 GA. First competitive preview since WCWS miss. Gasso continues portal search.
+- **Content Produced:** Article (article-02, Jordan Reeves), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - First Battle Series results (Oct 3)
+  - Portal additions through December
+  - 2027 preseason ranking
+
+### Story 3: September 1 — 14 Days, What Happens on First Contact Day
+- **Date:** 2026-08-18
+- **Tier:** 2
+- **Classification:** FOLLOW UP (daily countdown; new angle: what actually happens on Sept 1, mechanics of first contact)
+- **Angle:** 14 days to Sept 1. Since June 15, coaches could send printed/digital materials. Sept 1: coaches can call, text, go off-campus. Call timing reveals program priority. Programs calling first days of Sept = top target. First-week callers vs. October callers vs. silence. Families should have schedule ready, know which programs matter.
+- **Content Produced:** Article (article-03, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Continue countdown (13 days Aug 19)
+  - Sept 1 arrival coverage
+  - Commitment wave post-Sept 1
+
+### Story 4: USA WNT — 25 Days, Opening Match vs. Netherlands
+- **Date:** 2026-08-18
+- **Tier:** 3
+- **Classification:** FOLLOW UP (25-day countdown; new angle: focused preview of Netherlands opener)
+- **Angle:** 25 days to Sept 12-16 Devon Park OKC. Group C: Netherlands (No. 6, opener), Mexico (No. 7), China (No. 8), NZ (No. 23), SA (No. 36). Top 2 → Brisbane Finals April 5-11 2027 (LA28 qualifier). OU leads 4 players (Brito/Coleman/Jennings/Maxwell). Garcia and Mulipola both 2020 Olympic gold.
+- **Content Produced:** Article (article-04, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Continue countdown (24 days Aug 19)
+  - Group stage schedule confirmation
+  - Netherlands preview deep dive
+
+### Story 5: Texas Longhorns — Fall Camp Underway, Three-Peat Road Begins
+- **Date:** 2026-08-18
+- **Tier:** 2
+- **Classification:** FOLLOW UP (new angle: fall camp start / milestone framing vs. yesterday's 11 new faces/roster competition)
+- **Angle:** Texas fall camp kicking off (hookemheadlines.com confirmed). 11 new additions in 24-player roster. Kavan back as back-to-back WCWS MOP (only player in history). Only UCLA (1988-90) and OU (2021-23) won 3 straight. Staff complete: Fremin (AHC) + Freeman (hitting). Texas went 49-12 in 2026.
+- **Content Produced:** Article (article-05, Jordan Reeves), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Fall camp preview/results
+  - Preseason rankings (January)
+  - Kavan preseason honors
+
+---
+
 ## 2026-08-17
 
 ### Story 1: AUSL All-Star Cup Series 3 — Captains Set, Draft Aug 22, Kowalik Leads
