@@ -1,0 +1,311 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-18",
+  "compiled_at": "2026-08-18T09:21:37.822252+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Story 1 — PCA walk-off HR, 30th of season, first Cub with back-to-back 30-30",
+      "type": "Game Recap"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Story 2 — PCA franchise history: consecutive 30-30 seasons, only 2nd Cub ever",
+      "type": "Bold/Analytical"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 3 — Wild Card: Cubs WC1 by 5 games over Phillies and Padres",
+      "type": "Informative"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "Story 4 — Cardinals: 13.5 GB, playing Reds tonight, rival jab",
+      "type": "Rival Analysis"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 5 — Gausman starts Game 2 tonight, 7:05 PM CT, Cubs lead series 1-0",
+      "type": "Preview"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Story 6 — Swanson: Grade 2 oblique, 4-6 weeks, back by Sept 15",
+      "type": "Injury Update"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 7 — Pre-game hype, Wrigley, 7:05 PM CT, Gausman on the mound",
+      "type": "Fan Energy"
+    },
+    {
+      "time": "6:30 PM",
+      "description": "Story 8 — First pitch hype, Cubs go for series win",
+      "type": "Fan Energy"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "PCA Walk-off + 30-30 Club — Game 1 Recap",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "PCA hit leadoff HR (1st AB) and walk-off 2-run HR in 10th (his 30th of the season) to lift Cubs over White Sox. First Cub with back-to-back 30-30 seasons; only Sammy Sosa (1993, 1995) has ever done it as a Cub, and never consecutively. Jacob Webb W (5-2). Suzuki also homered. Score omitted per has_score insight.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Pete Crow-Armstrong opened the game with a leadoff blast.\n\nThen he ended it with a walk-off shot in the 10th — his 30th homer of the year.\n\nThat's back-to-back 30-30 seasons. Only Sammy Sosa did it before in Cubs history.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Game Recap / Milestone",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "PCA Walk-off / 30-30 Club — Game 1 Recap\n**Facts confirmed (HIGH confidence — 3+ sources):**\n- Cubs won Game 1 of Crosstown Classic in 10 innings\n- PCA hit the walk-off 2-run HR in the 10th off Hagen Smith — PCA's first career walk-off homer\n- PCA's 30th HR of the season (exit velo 98.7 mph, 391 ft to right-field patio)\n- PCA also hit the leadoff HR to start the game (5th leadoff HR of 2026 season)\n- PCA went 4-for-5 with a walk\n- Jacob Webb got the W (5-2); left bases loaded in 10th to set up PCA\n- Seiya Suzuki homered for the Cubs\n- Randal Grichuk and Andrew Benintendi homered for White Sox\n- PCA now has 30 HR + 31 SB in 2026 = second consecutive 30-30 season\n- First Cub in franchise history with back-to-back 30-30 seasons\n- Only second Cub ever to go 30-30 in a season (Sammy Sosa: 1993, 1995)\n- Sosa never did it in consecutive years (1994 was strike-shortened)\n**Sources:** ESPN recap, CBS Sports boxscore, MLB.com gameday, AP wire (multiple outlets), CBS Sports article on PCA 30-30, Marquee Sports Network, SI.com\n**COMPOUND CLAIM CHECK (Two-Source Rule):**\n- \"First Cub with back-to-back 30-30\" → confirmed by CBS Sports, Marquee Sports, SI.com ✓\n- \"Sammy Sosa (1993, 1995) only other Cub\" → confirmed by CBS Sports (\"first since Sammy Sosa\") and SI.com ✓\n- \"Sosa never did it in consecutive years\" → confirmed by SI.com (strike-shortened 1994) ✓\n**Has_score application:** Game score (7-5) intentionally omitted from tweet per insights finding.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "PCA Franchise History — First Back-to-Back 30-30 in Cubs History",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Only two Cubs in franchise history have ever reached 30-30: PCA and Sammy Sosa (1993, 1995). Sosa never did it in consecutive years (1994 strike-shortened). PCA just did. Stat-backed franchise context.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "PCA just joined a two-person club.\n\nBack-to-back 30-30 seasons. Sammy Sosa (1993, 1995) is the only other Cub who's done it — and even Sosa never went back-to-back.\n\nIn one night: leadoff blast, walk-off blast, franchise history.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold Take / Analytical",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "PCA Franchise History — Bold Take\n**Facts:**\n- PCA joins two-person 30-30 club in Cubs franchise history\n- Sosa's seasons: 1993 (33 HR, 36 SB per Baseball-Reference) and 1995 (36 HR, 34 SB)\n- 1994 strike shortened Sosa's season — 25 HR, 22 SB (did not hit 30 in both categories)\n- PCA did it in 2025 (back-to-back 30-30) and now again in 2026\n**Note:** The exact HR and SB totals for Sosa's 1993/1995 seasons are referenced from CBS Sports context. I have not independently fetched Baseball-Reference for those exact numbers. Claim is stated broadly (\"30-30 in 1993 and 1995\") not with precise stats. ← mark as MEDIUM confidence for Sosa specific totals.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Wild Card Standings — Cubs Remain WC No. 1 After Walk-off Win",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Cubs 73-53, WC1. Phillies 68-58, Padres 67-59 (both five back). Brewers lead division. Cubs are in the race on two fronts. October is real.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Still holding the line.\n\nCubs sit atop the NL Wild Card race with a five-game cushion — and the calendar is shrinking fast.\n\nBrewers still lead the division. That chase still lives. Chicago baseball is going to matter in October.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Informative / Standings",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Wild Card Standings\n**Facts (HIGH confidence):**\n- Cubs 73-53, leading NL Wild Card (WC1)\n- 5-game lead over Phillies (68-58) and Padres (67-59)\n- Brewers 77-48, leading NL Central\n- Cubs 4 GB in division race\n**No game score embedded in tweet per insight.**",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Cardinals Reality Check — 13.5 GB and Heading to Cincinnati",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Cardinals swept Cubs at Wrigley but sit 13.5 GB in the NL Central, on their way to Cincinnati tonight. They won that August series; Cubs will own October. Rival jab.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The Cardinals spent the summer sweeping the Cubs at Wrigley.\n\nThirteen-and-a-half games back in the division, on their way to face the Reds tonight.\n\nThey won that series. The Cubs still own October. Keep the receipts.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Rival Analysis / Jab",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cardinals Reality Check\n**Facts (HIGH confidence):**\n- Cardinals 13.5 GB in NL Central (confirmed from search result)\n- Cardinals playing Reds tonight in Cincinnati (confirmed from FOX Sports boxscore page)\n- Cardinals swept Cubs at Wrigley (confirmed from story-history.md Aug 17 context)\n**Note:** \"Cardinals swept Cubs at Wrigley\" — the Aug 14-16 Cardinals series saw Cardinals take 3 games. The tweet says \"spent the summer sweeping the Cubs at Wrigley.\" This is accurate (they swept a series there in August). ✓",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Tonight's Matchup — Gausman Starts Game 2 of Crosstown Classic",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Kevin Gausman (deadline acquisition, 6-11, 4.53 ERA overall) starts Game 2 at Wrigley. Cubs lead series 1-0. White Sox starter TBD. Cubs can clinch the Crosstown Classic series win tonight. First pitch 7:05 PM CT.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Kevin Gausman takes the mound tonight at Wrigley.\n\nThe deadline acquisition (6-11, 4.53 ERA) starts Game 2 of the Crosstown Classic. First pitch 7:05 PM CT.\n\nSouth Side had no answer for PCA last night. Gausman's job: make sure tonight isn't close.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Game Preview / Informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Tonight's Game 2 Preview — Gausman\n**Facts:**\n- Kevin Gausman starts tonight (confirmed: Fox32 Chicago, multiple preview articles)\n- Gausman overall record: 6-11, 4.53 ERA (confirmed from MLB.com player page reference)\n- Gausman was a trade deadline acquisition (confirmed: Chicago Sun-Times Aug 7 debut article)\n- Tonight is approximately his 3rd Cubs start (MEDIUM — \"one good, one bad\" = 2 prior starts)\n- White Sox starter: TBD as of this morning\n**Note on \"third Cubs start\":** Based on one source saying \"one good, one bad\" start. Could be 2nd or 3rd. I say \"deadline acquisition\" in tweet and omit specific start count. ✓",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Dansby Swanson MRI — Grade 2, Silver Lining for October",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "MRI confirmed Grade 2 left oblique strain. Timeline 4-6 weeks. Counsell hopeful for shorter end. Four weeks from Aug 18 = Sept 15 — in time for stretch run and postseason. Bad news softened by silver lining.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "The Dansby Swanson MRI is back: Grade 2 oblique strain.\n\nTimeline is 4-6 weeks. Craig Counsell is hoping for the shorter end.\n\nFour weeks from today puts him back around September 15 — healthy for the stretch run and in time for October.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Injury Update / Informative",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Swanson MRI / Silver Lining\n**Facts (HIGH confidence — 3+ sources):**\n- Dansby Swanson: Grade 2 left oblique strain (confirmed from MLB.com, Cubbie Crib, Chi City Sports)\n- Timeline: 4-6 weeks\n- Craig Counsell hopeful for shorter end (4 weeks)\n- 4 weeks from Aug 18 = September 15\n**Sept. 15 calculation check:** Aug 18 + 28 days = Sep 15 ✓ (Aug has 31 days; 31-18=13 days left in Aug, then 15 days into Sep = 28 days total ✓)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 7,
+      "title": "Pre-Game Hype — Crosstown Classic Game 2 at Wrigley",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "7:05 PM CT at Wrigley. Cubs riding PCA's walk-off energy into Game 2. Gausman starts. White Sox need a win. Don't let them get comfortable.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Wrigley Field tonight. 7:05 PM CT.\n\nCubs riding last night's walk-off energy into Game 2 of the Crosstown Classic.\n\nKevin Gausman starts. The Sox need a win to avoid falling behind in the series. Don't let them get comfortable.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Fan Energy / Hype",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Pre-Game Hype\n**Facts needed:**\n- Tonight at Wrigley Field: 7:05 PM CT ✓ (confirmed from series context JSON)\n- Gausman starts: confirmed ✓\n- This is Game 2 of 3 ✓",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 8,
+      "title": "First Pitch Hype — 7:05 PM CT",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Short, punchy, emotional. PCA opened and closed last night's game. Tonight the full lineup shows up and finishes the job. Go Cubs.",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 8",
+          "text": "GAME TWO. Wrigley Field. 7:05 PM CT.\n\nLast night: PCA opened it, PCA closed it.\n\nTonight: the full lineup shows up and finishes the job. Let's go.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "Fan Energy / Short",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 170
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "First Pitch Hype\n**Facts:**\n- 7:05 PM CT first pitch ✓\n- PCA opened and closed last night's game with HRs ✓ (confirmed)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 8,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

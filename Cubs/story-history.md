@@ -5,6 +5,71 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-18
+
+### STORY 1: PCA Walk-off + 30-30 Club — Game 1 Recap (Cubs 7, White Sox 5 in 10)
+- **Angle:** NEW STORY (PCA hit leadoff HR and walk-off 2-run HR in 10th off Hagen Smith; 30th HR of 2026 season; first career walk-off; Cubs win 7-5 in 10 innings; Score omitted per has_score=False insight; lead with PCA milestone not score)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game recap/milestone)
+- **Follow-Up Opportunities:**
+  - Tonight's Game 2 result recap (tomorrow morning)
+  - PCA HR milestones (heading toward career-high?)
+  - Cubs series clinch (tonight or tomorrow)
+
+### STORY 2: PCA Franchise History — First Cub with Back-to-Back 30-30 Seasons
+- **Angle:** FOLLOW UP (yesterday covered PCA at 27 HR/30 SB; today's peg = 30th HR locks in 2nd consecutive 30-30 season; only Sammy Sosa, 1993 and 1995, ever did it as a Cub; Sosa never consecutive due to 1994 strike; PCA first in franchise history with consecutive 30-30)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold/analytical)
+- **Follow-Up Opportunities:**
+  - MVP ballot coverage (September)
+  - PCA career-high HR watch (31+ to surpass 2025)
+
+### STORY 3: Wild Card Standings — Cubs Hold WC1 After Walk-off Win
+- **Angle:** FOLLOW UP (last covered Aug 17; fresh peg = Cubs beat White Sox in extras, WC1 lead holds; Cubs 73-53, Phillies 68-58, Padres 67-59, 5-game WC lead; Brewers 77-48 lead division)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, informative/standings)
+- **Follow-Up Opportunities:**
+  - Division gap with Brewers (4 GB; monitor)
+
+### STORY 4: Cardinals Reality Check — 13.5 GB, Playing Reds Tonight
+- **Angle:** FOLLOW UP (last covered Aug 17 in context of sweep; fresh peg = Cardinals now playing Reds while sitting 13.5 GB in division; they won the August series at Wrigley but the Cubs own October)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, rival analysis/jab)
+- **Follow-Up Opportunities:**
+  - Cardinals vs Cubs any remaining series (check schedule)
+
+### STORY 5: Tonight's Matchup — Gausman Starts Game 2 of Crosstown Classic
+- **Angle:** NEW STORY (Kevin Gausman, 6-11 4.53 ERA, deadline acquisition, starts Game 2 of 3 tonight at Wrigley; Cubs lead series 1-0; White Sox starter TBD; first pitch 7:05 PM CT)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Gausman start result (tomorrow morning)
+  - Series clinch/result
+
+### STORY 6: Dansby Swanson MRI — Grade 2 Oblique, Silver Lining for October
+- **Angle:** FOLLOW UP (first covered Aug 17 as news broke; MRI now confirmed Grade 2 left oblique strain; 4-6 weeks; Counsell hopeful for 4-week end = Sept 15 return; healthy for postseason silver lining)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, injury update)
+- **Follow-Up Opportunities:**
+  - Swanson Sept. 15 activation news (if it happens)
+  - Hoerner/Ramírez coverage at SS through August
+
+### STORY 7: Pre-Game Hype — Crosstown Classic Game 2 at Wrigley
+- **Angle:** NEW STORY (pre-game energy, 5 PM; Cubs riding walk-off energy into tonight; Gausman starts; Sox need win to avoid going down 2-0 in series; don't let them get comfortable)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, fan energy)
+- **Follow-Up Opportunities:**
+  - Game result tonight
+
+### STORY 8: First Pitch Hype — 7:05 PM CT
+- **Angle:** NEW STORY (game-time slot; 6:30 PM; ultra-short punchy; PCA opened and closed last night, tonight the full lineup finishes the job)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT, first pitch hype)
+- **Follow-Up Opportunities:**
+  - Game 2 result (tomorrow morning)
+
+---
+
 ## 2026-08-17
 
 ### STORY 1: Crosstown Classic Series Preview — Cubs vs White Sox, 3 Games at Wrigley
