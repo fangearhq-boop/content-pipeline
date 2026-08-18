@@ -2,6 +2,60 @@
 
 ---
 
+## August 18, 2026
+
+### Story 1: D20 Full District Opens — All Grades Start Today
+- **Date:** 2026-08-18
+- **Content Pillar:** Local News
+- **Angle:** FOLLOW-UP (2026-08-17 S1 covered preschool/K/6th/9th) — All remaining D20 grades (1-5, 7-8, 10-12) begin the 2026-27 school year today. All three COS districts now fully in session simultaneously: D49 (Aug 4), D11 (Aug 12), D20 (Aug 17-18).
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** D20 full district opens Aug 18; staggered start complete; all three COS districts in session; D49 opened Aug 4, D11 opened Aug 12; Sources: Springs Daily, asd20.org
+- **Follow-Up Opportunities:** First-week recap; end-of-first-week community feature
+
+### Story 2: CPSC Urgent Warning — Wenzhou Yidian WPX-4 Slide Playset / Toddler Death
+- **Date:** 2026-08-18
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC issued Aug 13, 2026 urgent warning (not a traditional recall) about Wenzhou Yidian Model WPX-4 indoor/outdoor slide playsets. 17-month-old died from head and neck entrapment. Manufacturer refused to cooperate with recall. Dispose immediately — do not sell or give away.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** CPSC warning Aug 13, 2026; Model WPX-4; 17-month-old death; head/neck entrapment hazard; tunnel + slide + basketball hoop; colors red/navy/coffee/gray/green/yellow; manufacturer uncooperative; dispose, do not sell; Sources: CPSC.gov, Click2Houston, Medical Daily, WBRC
+- **Follow-Up Opportunities:** Update if manufacturer agrees to recall and remedy is established
+
+### Story 3: Goody King Magnetic Building Cubes Recall — 213,500 Units
+- **Date:** 2026-08-18
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recalled 213,500 Goody King Magnetic Building Cubes (Yi Suen Commerce) Aug 13, 2026. 2 children had surgery; 27 additional incidents. Amazon Jan 2024-Jul 2026, $17-$50, sets of 45-300 pieces. Prepaid return + full refund.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** ~213,500 units; Yi Suen Commerce; Amazon Jan 2024-Jul 2026; $17-$50; 45/56/100/120/150/300-piece sets; 2 surgeries; 27 incidents; prepaid return + refund; Sources: CPSC.gov, ABC News, Fox26, WFTV
+- **Follow-Up Opportunities:** None immediate — recall information is complete
+
+### Story 4: First-Week Survival Guide for COS Families
+- **Date:** 2026-08-18
+- **Content Pillar:** Evergreen
+- **Angle:** NEW STORY (distinct from Aug 17 S5 sleep reset) — All three COS districts now in session. Practical first-week guidance: 20-30 min after-school decompression buffer, consistent bedtime/wake time, night-before prep, low-key check-in questions for transition kids (K, 6th, 9th graders).
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 1 X Post + FB Long-Form + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** All three COS districts in session Aug 18; AAP recommends consistent sleep schedules; Sources: AAP HealthyChildren.org, general pediatric guidance
+- **Follow-Up Opportunities:** Mid-September check-in on back-to-school routines
+
+### Story 5: RSV Season Prep — 10 Weeks Out, Act Now
+- **Date:** 2026-08-18
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (distinct from Aug 16 S2 flu vaccine and Aug 17 S5 sleep reset) — RSV season ~10 weeks away in Colorado (late Oct). Kids back in school = exposure windows open. AAP recommends nirsevimab or clesrovimab for infants <8 months; maternal Abrysvo vaccine as alternative; 8-19-month high-risk children also eligible.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** RSV season late Oct-Jan in Colorado; 58,000-80,000 U.S. pediatric hospitalizations/year; AAP recommends nirsevimab/clesrovimab for infants <8 months; Abrysvo maternal vaccine alternative; high-risk 8-19 month children also eligible; Sources: AAP, CDC
+- **Follow-Up Opportunities:** RSV season opener in late October; monthly check-in on hospitalization data
+
+---
+
 ## August 17, 2026
 
 ### Story 1: D20 First Day of School — Preschool, K, 6th, and 9th Grade Start Today

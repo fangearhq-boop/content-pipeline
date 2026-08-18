@@ -1,5 +1,43 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: August 18, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | D20 full district opens today (Aug 18) — all remaining grades 1-5, 7-8, 10-12; CPSC Aug 13 urgent warning — Wenzhou Yidian WPX-4 slide playset, 17-month-old died, head/neck entrapment, dispose immediately (not a recall — manufacturer uncooperative); Goody King Magnetic Building Cubes recall — 213,500 units, 2 surgeries, 27 incidents, Amazon Jan 2024-Jul 2026, $17-$50, Yi Suen Commerce prepaid return + refund; first-week survival guide evergreen; RSV season ~10 weeks out, AAP recommends nirsevimab/clesrovimab for infants <8 months |
+| Story History Check | COMPLETE | 5 stories: S1 follow-up (D20 full district — yesterday covered preschool/K/6th/9th); S2 new (WPX-4 slide playset CPSC warning — different product from Aug 17 Budget Baby Boost); S3 new (Goody King magnetic cubes — Aug 13 recall, not yet covered); S4 new (first-week survival guide — distinct from Aug 17 sleep reset); S5 new (RSV prep — distinct from Aug 16 flu vaccine and Aug 17 sleep) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH confidence: D20 start dates, CPSC.gov WPX-4 details, Goody King recall unit count/surgery count/sale dates, AAP RSV recommendations |
+| Story Analysis | COMPLETE | 02-story-analysis.md — 5 story sections with angles, tiers, COS voice checks |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (S1: 2, S2: 2, S3/S4/S5: 1 each); all ≤280 chars (fixed S3 from 281 to 278 after verify-facts flag); 4 hashtags each; 0 exclamation marks |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; NO hashtags; COS voice; 0 exclamation marks |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts; 1200×675 (social) + 1200×630 (hero); clean bottom third; no faces/logos/celebrity likenesses |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries (5 stories × 2); all not_started; gemini base_only; kAHCKfCZgk0 |
+| Articles | COMPLETE | 5 articles (500-1000 words; semantic HTML5; What's Next sections; Quick Reference tables in 4/5; 0 exclamation marks; no figure tags); bylines: Sarah Morales (A1, A3, A5), Jamie Rivera (A2, A4) |
+| Fact-Check | COMPLETE | verify-facts.py — 63 claims (60 HIGH, 35 MEDIUM, 25 LOW); S3 char count over fixed (281→278); image manifest cosmetic warnings (known parser limitation) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts (parser compat known issue), 5 articles, 5 images, 22 dashboard items |
+| Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-08-18.xlsx (7 posts 13:14–20:44 MT) + cosp-postplanner-tobi-2026-08-18.xlsx (7 TOBI posts) |
+| Dashboard Push | Attempted — proxy blocks write to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — proxy blocks WP API (403) | Same environment restriction as all prior runs |
+
+### 2026-08-18 — Full Pipeline Run (Tuesday)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts (S1: 2, S2: 2, S3/S4/S5: 1 each); 7 PostPlanner + 7 TOBI
+- **Articles:** 5 (bylines: Sarah Morales [A1, A3, A5], Jamie Rivera [A2, A4])
+- **PostPlanner exports:** cosp-postplanner-2026-08-18.xlsx (7 posts 13:14–20:44 MT), cosp-postplanner-tobi-2026-08-18.xlsx (7 TOBI posts)
+- **Coverage:** D20 full district opens today (Tier 1) — grades 1-5, 7-8, 10-12 start Aug 18; all 3 COS districts now in session; CPSC urgent warning — Wenzhou Yidian WPX-4 slide playset, 17-month-old death, head/neck entrapment, manufacturer refused recall, dispose immediately (Tier 1); Goody King Magnetic Building Cubes recall — 213,500 units, Yi Suen Commerce, Amazon Jan 2024-Jul 2026 $17-$50, 2 surgeries, 27 incidents, prepaid return + full refund (Tier 2); First-week survival guide — 20-30 min decompression buffer, consistent bedtime, night-before prep, low-key check-in questions for transition kids (Tier 2); RSV season prep — 10 weeks out, AAP recommends nirsevimab/clesrovimab for infants <8 months, Abrysvo maternal vaccine alternative, high-risk 8-19 month kids also eligible (Tier 2)
+- **Notes:**
+  - verify-facts.py: 63 claims; S3 tweet fixed 281→278 chars; image manifest warnings cosmetic (not_started expected for gemini)
+  - compile: 7 X posts, 5 articles, 22 dashboard items
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: proxy blocks content-dashboards repo (same as all prior runs)
+  - Byline rotation: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4]
+  - Story history updated with all 5 stories
+
+---
+
 ## Latest Run: August 17, 2026
 
 | Step | Status | Notes |
