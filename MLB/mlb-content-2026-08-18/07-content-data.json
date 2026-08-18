@@ -1,0 +1,269 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-18",
+  "compiled_at": "2026-08-18T10:32:42.905658+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Pete Crow-Armstrong Walks Off White Sox for 30th HR — Hits 30-30 Club Again",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Pete Crow-Armstrong walked off the White Sox last night with HR No. 30. Leadoff HR in the 1st. Walk-off HR in the 10th. Cubs win 7-5 in extras. Back-to-back 30-30 seasons. First Cubs player to ever do it. #Cubs #Crosstown",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#Crosstown"
+          ],
+          "char_count": 221
+        },
+        {
+          "label": "Post 1-2",
+          "text": "PCA is the 19th player in MLB history with multiple 30-30 seasons. He's also the 7th player to hit a leadoff AND walk-off homer in the same game. Cubs lead NL Wild Card No. 1 at 73-53. MVPETE. #Cubs #ChicagoCubs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 211
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-pca-walk-off-30-30-crosstown-classic.html",
+        "headline": "Pete Crow-Armstrong Walks Off White Sox With 30th Homer — Hits 30-30 Club for Second Straight Year",
+        "word_count": 465
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "PCA Walk-Off 30-30\n\n#### Image Concept 1 (Social — 1080x1350)\n**Search term:** \"Pete Crow-Armstrong Chicago Cubs\"\n**Usage:** X post + Facebook lead image\n**Text overlay (Canva):** \"30-30. AGAIN.\" / \"Walk-Off HR No. 30\" / \"Cubs 7 • White Sox 5 (10)\"\n**Credit:** (USA TODAY Sports Images)\n**Notes:** PCA batting or home run trot image. Wrigley Field background if available.\n\n#### Image Concept 2 (Social — 1080x1350)\n**Search term:** \"Pete Crow-Armstrong Cubs celebration\"\n**Usage:** Facebook supplemental\n**Text overlay (Canva):** \"MVPETE\" / \"Consecutive 30-30 Seasons\" / \"First Cubs Player Ever\"\n**Credit:** (USA TODAY Sports Images)\n**Notes:** Celebration shot or dugout/mob scene. Wrigley night game atmosphere.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Pete Crow-Armstrong 30-30 Walk-Off\n**Sources:** FOX Sports, theScore, SI, Chicago Sun-Times, NBC Sports, CBS Sports, MLB.com\n**Confirmed facts (HIGH confidence):**\n- Date: August 18, 2026 — Crosstown Classic Game 2, Cubs at Wrigley vs White Sox\n- Final: Cubs 7, White Sox 5 (10 innings)\n- HR #29: Leadoff HR in the first inning\n- HR #30: Walk-off HR in the 10th inning (Carson Kelly scored on the walk-off per MLB.com video title)\n- 31 stolen bases (confirmed: 30-30 club = 30 HR + 30 SB)\n- First Cubs player in history to record consecutive 30-30 seasons\n- 19th player in MLB history with multiple 30-30 seasons\n- 7th player ever to hit both a leadoff AND walk-off HR in the same game\n- Mike Madigan (SI takeaways piece) quoted \"MVPETE\" angle\n- Cubs record: 73-53 after win; White Sox: 65-59",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Joshua Baez Faces Adjustments — Day 4 After MLB History",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Joshua Baez homered in his first 3 career at-bats Aug. 15 — the first player in MLB history to do that. Game 4 of his career is tonight at Cincinnati. Who is this guy? The Cardinals might have found something. #STLCards #Cardinals",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#STLCards",
+            "#Cardinals"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-joshua-baez-after-history-day-4.html",
+        "headline": "Three Days After Making History, Joshua Baez Faces the Real Test in Cincinnati",
+        "word_count": 469
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Joshua Baez\n\n#### Image Concept 3 (Social — 1080x1350)\n**Search term:** \"Joshua Baez Cardinals\"\n**Usage:** X post + Facebook\n**Text overlay (Canva):** \"GAME 4\" / \"3 HR in First 3 ABs\" / \"Cardinals @ Cincinnati Tonight\"\n**Credit:** (USA TODAY Sports Images)\n**Notes:** Baez in Cardinals uniform; batting swing or HR trot on debut.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Joshua Baez Follow-Up\n**Sources:** CBS Sports, Yahoo Sports, MLB.com, stadiumrant.com\n**Confirmed facts (HIGH confidence):**\n- Debut: August 15, 2026 (Saturday) — Cardinals 8, Cubs 4, Wrigley Field\n- First player in MLB history to homer in each of his first three career at-bats\n- Stats on debut: 3-for-4, 3 HR, 5 RBI\n- First HR was 449 feet to dead center\n- Had 34 HRs in Triple-A before call-up\n- 30 family members in stands for debut\n- Age: 25 (Dominican Republic-born outfielder)\n- Next game: Aug 18 @ Cincinnati (game 4 of career) — results not yet confirmed in searches\n- Cardinals forcing 2027 decision: \"Cardinals rookie homers in first 3 career ABs forces 2027 decision\" (stadiumrant.com) — suggests team must decide how to structure around him\n**UNCERTAINTY:** Game 4 stats at Cincinnati not yet available at time of pipeline run.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Yordan Alvarez Keeps Triple Crown Lead — .329, 36 HR, 88 RBI",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Yordan Alvarez: .329 BA. 36 HR. 88 RBI. Leads all three Triple Crown categories. Tim Kurkjian: \"At this point, I think he's going to win the Triple Crown.\" Last winner was Cabrera in 2012. #Astros #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Astros",
+            "#MLB"
+          ],
+          "char_count": 201
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Alvarez's .329 batting average leads MLB by .029 points — analysts call that lead insurmountable. The HR race is the question: Schwarber is at 37. Alvarez at 36. Caminero at 33. One swing changes everything. #Astros #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Astros",
+            "#MLB"
+          ],
+          "char_count": 220
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-yordan-alvarez-triple-crown-kurkjian.html",
+        "headline": "Tim Kurkjian Says Yordan Alvarez Is Winning the Triple Crown — The Numbers Back Him Up",
+        "word_count": 492
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alvarez Triple Crown\n\n#### Image Concept 4 (Social — 1080x1350)\n**Search term:** \"Yordan Alvarez Astros\"\n**Usage:** X post + Facebook\n**Text overlay (Canva):** \"TRIPLE CROWN CHASE\" / \".329 • 36 HR • 88 RBI\" / \"Last Winner: Cabrera 2012\"\n**Credit:** (USA TODAY Sports Images)\n**Notes:** Alvarez batting or celebrating a HR. Clean action shot.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Yordan Alvarez Triple Crown Chase\n**Sources:** Yahoo Sports, FanSided, FOX Sports, MLB.com, CBS Sports, ngscsports.com\n**Confirmed facts (HIGH confidence):**\n- Batting average: .329 (leads MLB by .029+ margin — described as \"essentially insurmountable\")\n- RBI: 88 (leads MLB; some sources say 85-86 — using 88 from Aug 17 pipeline)\n- HR: 36 (MEDIUM — some sources say 35; Schwarber leads at 37)\n- Junior Caminero (Rays) at 33 HR, chasing\n- Last Triple Crown winner: Miguel Cabrera, 2012 (.330 BA, 44 HR, 139 RBI)\n- Tim Kurkjian quote: \"at this point, I think he's going to win the Triple Crown.\"\n- Yahoo Sports article: \"data behind Alvarez's chase for the first MLB Triple Crown in 70 years\" — NOTE: \"70 years\" likely references period before Cabrera (Mantle 1956 was the last before Cabrera); Cabrera won in 2012 (14 years ago). The article may be using \"70 years\" loosely or referencing a different stat. USE: \"first since Cabrera's 2012 Triple Crown\" for accuracy.\n- FOX Sports odds article exists (\"Will Yordan Alvarez win the Triple Crown?\")",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Jacob Misiorowski Sets Brewers Franchise Strikeout Record, Next Start ~Aug 23",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Jacob Misiorowski now holds the Brewers franchise strikeout record. He reached 200 K in just 129.1 innings — second-fastest in MLB history (only Strider in 2022 was faster). ERA: 1.76. Next start ~Aug. 23. Brewers: 77-48. #Brewers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#MLB"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-misiorowski-brewers-franchise-record.html",
+        "headline": "Jacob Misiorowski Sets Brewers Franchise Strikeout Record — And He's Not Done Yet",
+        "word_count": 455
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Misiorowski / Brewers\n\n#### Image Concept 5 (Social — 1080x1350)\n**Search term:** \"Jacob Misiorowski Brewers\"\n**Usage:** X post + Facebook\n**Text overlay (Canva):** \"FRANCHISE RECORD\" / \"204 K • 1.76 ERA\" / \"2nd-Fastest to 200 K in MLB History\"\n**Credit:** (USA TODAY Sports Images)\n**Notes:** Misiorowski pitching, ideally with strikeout momentum. American Family Field backdrop preferred.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Jacob Misiorowski — Cy Young + Brewers\n**Sources:** Yahoo Sports, SI, CBS Sports, FOX Sports, MLB.com\n**Confirmed facts (HIGH confidence):**\n- Record: 11-5\n- ERA: 1.76\n- Strikeouts: 204\n- Innings: 133 (reached 200K in 129.1 IP per CBS Sports)\n- Age: 24\n- Second-fastest to 200K in MLB history (behind Spencer Strider 2022, who did it in 123.1 IP)\n- Sets Brewers franchise strikeout record\n- NL Cy Young odds: -550 (shortest all season)\n- \"After striking out 22 batters in his last two starts, Misiorowski's odds have surged\"\n- Next start: approximately August 23\n- Brewers record: 77-48 (best in MLB)\n- Mariners (59-66) are at Brewers today (Aug 18) per Fubo TV game listing",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "MLB Playoff Picture — Brewers Lead All of Baseball, Cubs in Wild Card No. 1",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "MLB playoff picture with ~44 games left: Brewers own the best record (77-48). Rays lead AL East (75-49). Cubs lead NL Wild Card (73-53). White Sox (65-59) and Cubs both going to October from Chicago. Astros (63-62) barely hold AL West. #MLB #Playoffs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#Playoffs"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-mlb-playoff-picture-44-games-left.html",
+        "headline": "MLB Playoff Picture: 44 Games Left, Two Chicago Teams Heading to October",
+        "word_count": 511
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Playoff Picture\n\n#### Image Concept 6 (Social — 1080x1350)\n**Search term:** \"Brewers American Family Field\"\n**Usage:** Facebook + evergreen post\n**Text overlay (Canva):** \"2026 PLAYOFF PICTURE\" / \"Brewers Lead All of MLB 77-48\" / \"#MLB\"\n**Credit:** (USA TODAY Sports Images)\n**Notes:** Wide stadium shot or team celebration to represent best record in baseball.\n\n#### Image Concept 7 (Social — 1080x1350)\n**Search term:** \"MLB playoff scoreboard\"\n**Usage:** Alternate / supplemental\n**Photo source override:** stock (generic baseball stadium / playoff atmosphere)\n**Text overlay (Canva):** \"44 GAMES LEFT\" / \"Who's Going to October?\" / \"#MLB2026\"\n**Credit:** none (stock)\n**Notes:** Generic stadium or field graphic with playoff energy feel."
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "MLB Playoff Picture\n**Sources:** Bleacher Report, sportsbrackets.net, ESPN, Yahoo Sports, FOX Sports\n**Confirmed facts (HIGH confidence):**\n**AL Division Leaders:**\n- AL East: Rays (75-49)\n- AL Central: White Sox (65-59, after tonight's loss drops from 65-58)\n- AL West: Astros (63-62)\n**AL Wild Cards:**\n- Yankees (69-55)\n- Red Sox (67-58)\n- Orioles (61-64)\n**NL Division Leaders:**\n- NL Central: Brewers (77-48)\n- NL East: Braves (74-51)\n- NL West: Dodgers (75-51)\n**NL Wild Cards:**\n- Cubs (73-53) — No. 1, 5 games ahead\n- Phillies (68-58)\n- Padres (67-59)\n**Note:** Approximate games remaining: ~44 (based on 162-game season)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

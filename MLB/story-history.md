@@ -3,6 +3,64 @@
 This file tracks all stories covered by the MLB content pipeline.
 Each day's stories are appended at the top (newest first).
 
+## 2026-08-18
+
+### Story 1: Pete Crow-Armstrong Walk-Off 30th HR — 30-30 Club, Second Straight Season
+- **Date:** 2026-08-18
+- **Tier:** 1
+- **Classification:** NEW (PCA's walk-off HR #30 in 10th inning vs White Sox, Crosstown Classic Game 2)
+- **Angle:** Cubs 7, White Sox 5 in 10 innings at Wrigley. PCA led off 1st with HR #29, walked off in 10th with HR #30. First Cubs player in franchise history with consecutive 30-30 seasons. 19th player in MLB history with multiple 30-30 seasons. 7th player ever with leadoff + walk-off HR in same game. 31 SBs. Cubs 73-53 (NL WC No. 1); White Sox 65-59 (AL Central).
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Crosstown Classic Game 3 result (Aug 19)
+  - PCA MVP conversation
+  - Cubs NL Wild Card seeding
+
+### Story 2: Joshua Baez — Day 4, Adjustments Come
+- **Date:** 2026-08-18
+- **Tier:** 2
+- **Classification:** FOLLOW UP (debut Aug 15 covered first time in pipeline Aug 17; today = aftermath and adjustment angle)
+- **Angle:** 72 hours after MLB-first 3-HR debut (Aug 15 @ Wrigley, 3-for-4/5RBI/449ft 1st HR/34 Triple-A HRs). Game 4 at Cincinnati tonight. Pitcher adjustment theme. Cardinals 2027 planning angle. Focus on at-bat quality beyond debut results.
+- **Content Produced:** Article (article-02, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Note:** Tonight's game at CIN result unknown at pipeline run time
+- **Follow-Up Opportunities:**
+  - Game stats at CIN (tonight)
+  - Pitcher adjustment patterns
+  - Cardinals September roster decisions
+
+### Story 3: Yordan Alvarez Triple Crown — Tim Kurkjian Says He's Getting It
+- **Date:** 2026-08-18
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Aug 17 covered full TC historical analysis; new angle: Kurkjian's declaration + odds)
+- **Angle:** Kurkjian: "At this point, I think he's going to win the Triple Crown." Alvarez .329 BA (leads by .029+, "insurmountable"), 88 RBI (leads by 7), 36 HR (Schwarber 37 leads; Caminero 33 chasing). Last TC winner Cabrera 2012. FOX Sports TC odds article. BA lead is the strongest element.
+- **Content Produced:** Article (article-03, Ryan Calloway), 2 X posts, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Alvarez HR #37 (ties Schwarber)
+  - September TC race weekly tracking
+  - Clinch moment if/when
+
+### Story 4: Jacob Misiorowski Sets Brewers Franchise Strikeout Record
+- **Date:** 2026-08-18
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Aug 17 covered extra rest/next start; new angle: franchise record + 2nd-fastest to 200K in MLB history)
+- **Angle:** Misiorowski 11-5/1.76 ERA/204K. Sets Brewers franchise strikeout record. Second-fastest to 200K in MLB history (behind Strider 2022, 123.1 IP; Misiorowski 129.1 IP). -550 NL Cy Young odds. Brewers 77-48, best record in MLB. Next start ~Aug 23. Brewers host Mariners (59-66) today.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Misiorowski Aug 23 start result
+  - Brewers clinch timeline
+  - Cy Young odds movement
+
+### Story 5: MLB Playoff Picture — 44 Games Left
+- **Date:** 2026-08-18
+- **Tier:** 3
+- **Classification:** FOLLOW UP (standing update, both Chicago teams angle)
+- **Angle:** ~44 games remaining. AL: Rays 75-49 (East), White Sox 65-59 (Central), Astros 63-62 (West — vulnerable). Yankees/Red Sox WC. NL: Brewers 77-48 (best in MLB), Braves 74-51, Dodgers 75-51. Cubs 73-53 NL WC No. 1 (5 games ahead of Phillies). Both Chicago teams playoff-bound.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - AL West tension (Astros vulnerability)
+  - Cubs playoff seeding (WC vs. division chase)
+  - Brewers World Series odds
+
 ## 2026-08-17
 
 ### Story 1: Crosstown Classic Opens at Wrigley — White Sox (65-58) at Cubs (72-53), Tonight 7:05 PM CT
