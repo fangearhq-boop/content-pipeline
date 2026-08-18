@@ -1,6 +1,18 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
+- **Date**: 2026-08-18
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters (2 tweets fixed after verify-facts.py: Story 1 tweet #2 trimmed 281→255; Story 5 tweet #1 trimmed 293→238)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres)
+- **PostPlanner exports:** gfr-postplanner-2026-08-18.xlsx (7 posts) + gfr-postplanner-tobi-2026-08-18.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-08-18/review-dashboard.html (22 items)
+- **Notes:** CPKC WOMEN'S OPEN PREVIEW — 52nd edition at Royal Mayfair GC Edmonton Alberta Aug 19-23; $2.75M purse; 156 players; par 70 6,452 yds Stanley Thompson 1922; Korda World No. 1 (4 wins/3 majors in 2026: Chevron, Riviera May Open, U.S. Women's Open); Henderson defending champion (14-time LPGA winner), 15-player Canadian contingent; Lydia Ko 3-time champion (first win 2013 at Royal Mayfair age 15); also in field: Hyo Joo Kim/Yamashita/Ruoning Yin/Minjee Lee/Hannah Green; BMW CHAMPIONSHIP PREVIEW — Bellerive CC St. Louis Aug 20-23; top 50 qualify; top 30 advance to East Lake Aug 27-30; $20M purse; Scheffler No. 1 seed (8-shot St. Jude win at 17-under); 1,000+ points clear; $23M bonus locked; McIlroy/Schauffele/Young/Morikawa/Matsuyama in field; Koepka shot 264 at Bellerive for 2018 PGA Championship; LIV INDIANAPOLIS — Chatham Hills Westfield Indiana Aug 21-23 (Pete Dye's final design); Rahm individual title clinched (944.54 pts, 218-pt margin); 4Aces GC (DJ/Pieters/Detry/A. Kim) leads Ripper GC (C. Smith/Leishman/Herbert/Smylie) by 2.25 points; Niemann 9 LIV titles (LIV record); Thomas Rhett Fri/Disco Lines Sat; SPIETH ELIMINATED — 52nd FedExCup; T19 at St. Jude (65-69-72-70, 4-under); missed top 50; zero top-10s all 2026 regular season; only playoff qualifier without top-10; 15-consecutive BMW streak over; SCHEFFLER BMW FAVORITE — 8-shot St. Jude win (17-under over Si Woo Kim); No. 1 FedExCup seed; 1,000+ points clear; $23M bonus locked
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+## Previous Run
 - **Date**: 2026-08-17
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)
@@ -13,6 +25,15 @@
 - **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ## Pipeline Run Log
+
+### 2026-08-18
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters (2 tweets fixed after verify-facts.py)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres)
+- **PostPlanner exports:** gfr-postplanner-2026-08-18.xlsx (7 posts) + gfr-postplanner-tobi-2026-08-18.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-08-18/review-dashboard.html (22 items)
 
 ### 2026-08-17
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)

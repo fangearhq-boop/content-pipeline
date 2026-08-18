@@ -1,0 +1,267 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-18",
+  "compiled_at": "2026-08-18T11:40:01.695911+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "CPKC Women's Open — Starts Tomorrow in Edmonton, Korda vs. Henderson Headlines",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Canada's biggest women's golf week begins TOMORROW.\n\n🏌️‍♀️ CPKC Women's Open — Royal Mayfair GC, Edmonton\n📅 Aug 19-23 | 💰 $2.75M purse\n\nNelly Korda (World No. 1, 4 wins in 2026) vs. Brooke Henderson (defending champion, home crowd).\n\nWho wins Canada? 🍁\n\n#LPGA #CPKCWomensOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA",
+            "#CPKCWomensOpen"
+          ],
+          "char_count": 275
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The CPKC Women's Open field is LOADED:\n\n🔴 Nelly Korda — World No. 1, 3 majors in 2026\n🍁 Brooke Henderson — Defending champion\n🥇 Lydia Ko — 3-time champion, won here at age 15\n\n156 players. $2.75M. Royal Mayfair Edmonton. Starts tomorrow.\n\n#LPGA #CPKCWomensOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA",
+            "#CPKCWomensOpen"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-cpkc-womens-open-preview-korda-henderson-edmonton.html",
+        "headline": "CPKC Women's Open Preview: Korda vs. Henderson Headlines Canada's Biggest Golf Week",
+        "word_count": 638
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "CPKC Women's Open Preview\n\n#### Image Concept 1\n- **Subject:** Nelly Korda\n- **Search terms:** Nelly Korda LPGA\n- **Description:** Korda mid-swing or celebrating a win, showcasing her dominance as World No. 1\n- **Usage:** Story 1 primary image — CPKC Women's Open preview hero\n- **Credit:** (USA TODAY Sports Images)\n\n#### Image Concept 2\n- **Subject:** Brooke Henderson\n- **Search terms:** Brooke Henderson LPGA\n- **Description:** Henderson holding a trophy or acknowledging the crowd, emphasizing her role as defending champion and Canadian fan favorite\n- **Usage:** Story 1 secondary image — Henderson home-crowd angle\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "CPKC Women's Open Preview\n**Sources:** Golf Canada, CPKC Women's Open, Just Women's Sports, LPGA.com, SIRC\n**Key Facts:**\n- Event: CPKC Women's Open (52nd edition) [HIGH]\n- Dates: August 19-23, 2026 [HIGH]\n- Venue: Royal Mayfair Golf Club, Edmonton, Alberta [HIGH]\n- Course: Stanley Thompson design (1922), par-70, 6,452 yards [HIGH]\n- Purse: $2.75 million [HIGH]\n- Field: 156 golfers [HIGH]\n- Play times: approximately 7:00 AM – 7:00 PM daily [HIGH]\n**Key Players:**\n- Nelly Korda: World No. 1; 4 wins in 2026 (Hilton Grand Vacations TOC, Chevron Championship, Riviera May Open, U.S. Women's Open) [HIGH]\n- Brooke Henderson: Defending champion; 14-time LPGA Tour winner; leads 15-player Canadian contingent [HIGH]\n- Lydia Ko: 3-time CPKC Women's Open champion; won Royal Mayfair in 2013 as 15-year-old amateur; 2024 Olympic Gold medalist [HIGH]\n- Also in field: Hyo Joo Kim, Miyu Yamashita, Ruoning Yin, Minjee Lee, Hannah Green (all top-10 world) [HIGH]\n- Korda is seeking her FIRST CPKC Women's Open title [HIGH]\n- Henderson defended at Mississaugua last year (14th LPGA title) [HIGH — from prior research]\n- Tournament is Canada's National Women's Open Championship [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "BMW Championship Preview — Bellerive Awaits in 2 Days",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "BMW Championship starts THURSDAY at Bellerive CC in St. Louis.\n\nTop 50 in. Top 30 advance to the Tour Championship.\n\nScheffler: 8-shot St. Jude winner. 1,000+ points clear. Entering as the overwhelming favorite.\n\n49 other players are fighting for their season.\n\n#BMW #FedExCup",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BMW",
+            "#FedExCup"
+          ],
+          "char_count": 276
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The FedExCup Playoffs are entering crunch time.\n\nBMW Championship at Bellerive: Aug 20-23.\n\nTop 30 advance to East Lake. Anyone outside the bubble is fighting for their Tour Championship life.\n\nScheffler's not worried. Everyone else is.\n\n#PGATour #FedExCup",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour",
+            "#FedExCup"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-bmw-championship-preview-bellerive-fedexcup-playoffs.html",
+        "headline": "BMW Championship Preview: Scheffler Enters Bellerive as Dominant FedExCup Leader",
+        "word_count": 549
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "BMW Championship Preview\n\n#### Image Concept 1\n- **Subject:** Scottie Scheffler\n- **Search terms:** Scottie Scheffler PGA Tour\n- **Description:** Scheffler in action — driving or putting — to capture his dominance heading into Bellerive\n- **Usage:** Story 2 primary image — BMW Championship preview hero\n- **Credit:** (USA TODAY Sports Images)\n\n#### Image Concept 2\n- **Subject:** Bellerive Country Club\n- **Search terms:** Bellerive Country Club golf\n- **Description:** Aerial or fairway view of Bellerive CC, establishing the venue for the FedExCup Playoff event\n- **Usage:** Story 2 secondary image — venue establishing shot\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "BMW Championship Preview\n**Sources:** PGA TOUR, Yahoo Sports, Golf Digest, Golf.com, Bleacher Report\n**Key Facts:**\n- Event: BMW Championship (2nd FedExCup Playoff event) [HIGH]\n- Dates: August 20-23, 2026 [HIGH]\n- Venue: Bellerive Country Club, St. Louis, Missouri [HIGH]\n- Purse: $20 million [HIGH]\n- Advancement: Top 30 after BMW advance to Tour Championship at East Lake [HIGH]\n- Tour Championship dates: August 27-30 [HIGH]\n**Field:**\n- Scottie Scheffler: No. 1 FedExCup seed entering BMW [HIGH]\n- Scheffler won FedEx St. Jude Championship by 8 strokes at 17-under [HIGH]\n- Scheffler over 1,000 FedExCup points clear of No. 2 position [HIGH]\n- Rory McIlroy in field [HIGH — from prior research]\n- Xander Schauffele in field [HIGH]\n- Cameron Young in field [HIGH]\n- Collin Morikawa in field [HIGH]\n- Hideki Matsuyama in field [HIGH]\n- Sam Burns in field (won St. Jude earlier; prior research) [HIGH]\n**Historical note:**\n- Brooks Koepka shot 264 (-16) to win the 2018 PGA Championship at Bellerive [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "LIV Golf Indianapolis — Team Championship Still Live, 3 Days Away",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "LIV Golf Indianapolis starts Thursday at Chatham Hills.\n\nJon Rahm already clinched the 2026 individual title (944 pts).\n\nBut the TEAM championship is alive:\n\n4Aces GC leads Ripper GC by just 2.25 points.\n\nDustin Johnson vs. Cameron Smith. This weekend settles it.\n\n#LIVGolf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-liv-golf-indianapolis-team-championship-4aces-ripper.html",
+        "headline": "LIV Golf Indianapolis: Team Championship on the Line as 4Aces Lead Ripper GC by 2.25 Points",
+        "word_count": 504
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LIV Golf Indianapolis Preview\n\n#### Image Concept 1\n- **Subject:** Dustin Johnson\n- **Search terms:** Dustin Johnson LIV Golf\n- **Description:** Johnson on the course representing 4Aces GC, the team championship leader heading into Indianapolis\n- **Usage:** Story 3 primary image — team title race hero\n- **Credit:** (USA TODAY Sports Images)\n\n#### Image Concept 2\n- **Subject:** Cameron Smith\n- **Search terms:** Cameron Smith LIV Golf\n- **Description:** Smith in action or celebrating, representing Ripper GC as the team 2.25 points behind 4Aces\n- **Usage:** Story 3 secondary image — the other side of the team race\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LIV Golf Indianapolis Preview\n**Sources:** LIV Golf, Golf Digest ME, Golf Magic, Out of the Rough\n**Key Facts:**\n- Event: LIV Golf Indianapolis [HIGH]\n- Dates: August 21-23, 2026 [HIGH]\n- Venue: The Club at Chatham Hills, Westfield, Indiana [HIGH]\n- Course: Pete Dye's final design [HIGH]\n- Field: 57 players [HIGH]\n- Format: Stroke play [HIGH]\n**Individual Championship:**\n- Jon Rahm (Legion XIII) clinched 2026 LIV individual championship [HIGH]\n- Rahm: 944.54 season points, 218-point margin [HIGH]\n- Bryson DeChambeau in second position [HIGH]\n- Joaquin Niemann in third place with 553.66 points; holds LIV record of 9 individual titles in 2026 [HIGH]\n**Team Championship:**\n- 4Aces GC (Dustin Johnson, Thomas Pieters, Thomas Detry, Anthony Kim) leads [HIGH]\n- 4Aces GC holds 2.25-point lead over Ripper GC [HIGH]\n- Ripper GC: Cameron Smith, Marc Leishman, Lucas Herbert, Elvis Smylie [HIGH]\n**Entertainment:**\n- Thomas Rhett performing Friday [HIGH]\n- Disco Lines performing Saturday [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Jordan Spieth Eliminated From FedExCup Playoffs — A Season to Forget",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Jordan Spieth's 2026 season is over.\n\nFinished 52nd in FedExCup — just outside the top 50 for the BMW Championship.\n\nZero top-10 finishes all regular season. The only player to make the Playoffs without one.\n\nA bogey-free 65 raised hope in Round 1. It wasn't enough.\n\n#PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-jordan-spieth-eliminated-fedexcup-playoffs-2026.html",
+        "headline": "Jordan Spieth's 2026 PGA Tour Season Over: Eliminated From FedExCup Playoffs",
+        "word_count": 575
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Jordan Spieth Eliminated From FedExCup Playoffs\n\n#### Image Concept 1\n- **Subject:** Jordan Spieth\n- **Search terms:** Jordan Spieth PGA Tour\n- **Description:** Spieth looking pensive or walking the fairway, conveying the weight of a difficult 2026 season\n- **Usage:** Story 4 primary image — season-ending elimination story\n- **Credit:** (USA TODAY Sports Images)\n\n#### Image Concept 2\n- **Subject:** Jordan Spieth\n- **Search terms:** Jordan Spieth FedEx St. Jude Championship\n- **Description:** Spieth at the St. Jude Championship — his final event of the 2026 season\n- **Usage:** Story 4 secondary image — his final tournament\n- **Credit:** (Imagn Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Jordan Spieth Eliminated From FedExCup Playoffs\n**Sources:** Yahoo Sports, Heavy.com, PGA TOUR, CBS Sports\n**Key Facts:**\n- Spieth finished 52nd in FedExCup standings after FedEx St. Jude Championship [HIGH]\n- 52nd = did NOT qualify for BMW Championship (top 50 needed) [HIGH]\n- Spieth's St. Jude rounds: 65-69-72-70 = 4-under, tied for 19th [HIGH]\n- No top-10 finish during entire 2026 PGA Tour regular season [HIGH]\n- Only player to qualify for FedExCup Playoffs without a top-10 finish [HIGH]\n- Opening 65 was bogey-free [HIGH]\n- Back-nine bogeys in final rounds ended his run [HIGH]\n- Spieth's 15-consecutive BMW Championship streak is over [HIGH — needs verification; from prior pipeline notes it was listed as 15th consecutive]\n- Spieth entered St. Jude at approximately No. 54 in FedExCup [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Scheffler Dominates — Enters BMW as Overwhelming Favorite",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Scottie Scheffler enters the BMW Championship:\n\n✅ No. 1 FedExCup seed\n✅ 8-shot St. Jude win last week at 17-under\n✅ 1,000+ points clear of No. 2\n✅ Already locked in $23M bonus\n\nBellerive opens Thursday. Can anyone beat him?\n\n#BMW #PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BMW",
+            "#PGATour"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-scheffler-bmw-championship-fedexcup-no1-dominant-favorite.html",
+        "headline": "Scheffler Enters BMW Championship as Overwhelming FedExCup Favorite After 8-Stroke St. Jude Win",
+        "word_count": 569
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Scheffler Enters BMW as Dominant Favorite\n\n#### Image Concept 1\n- **Subject:** Scottie Scheffler\n- **Search terms:** Scottie Scheffler FedEx St. Jude\n- **Description:** Scheffler celebrating or fist-pumping after his 8-stroke St. Jude Championship win\n- **Usage:** Story 5 primary image — Scheffler dominance hero\n- **Credit:** (USA TODAY Sports Images)\n\n#### Image Concept 2\n- **Subject:** Scottie Scheffler\n- **Search terms:** Scottie Scheffler FedExCup\n- **Description:** Scheffler in a leadership or champion pose, conveying his overwhelming FedExCup position\n- **Usage:** Story 5 secondary image — FedExCup No. 1 angle\n- **Credit:** (Imagn Images)"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Scheffler Dominates, BMW Favorite\n**Sources:** PGA TOUR, Golf Digest, Bleacher Report, Golf.com, Yahoo Sports\n**Key Facts:**\n- Scheffler won FedEx St. Jude Championship: 17-under, 8 strokes clear of Si Woo Kim [HIGH]\n- Scheffler is No. 1 FedExCup seed entering BMW Championship [HIGH]\n- Over 1,000 FedExCup points clear of No. 2 [HIGH]\n- Locked in $23 million bonus for being No. 1 through BMW Championship [HIGH]\n- Scheffler is heavy BMW Championship betting favorite [HIGH]\n- Scheffler is a multiple-time PGA Tour winner in 2026 [HIGH]\n- BMW Championship starts August 20 at Bellerive CC [HIGH]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

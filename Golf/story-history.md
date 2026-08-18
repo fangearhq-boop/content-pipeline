@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-08-18
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-08-18 | T1 | CPKC Women's Open Preview — Korda vs. Henderson at Royal Mayfair Edmonton (Aug 19-23, $2.75M, 156 players) | X, FB, Article | FOLLOW UP |
+| 2026-08-18 | T1 | BMW Championship Preview — Bellerive CC St. Louis (Aug 20-23, $20M, Top 50 In / Top 30 Advance) | X, FB, Article | FOLLOW UP |
+| 2026-08-18 | T2 | LIV Golf Indianapolis Preview — 4Aces GC Leads Ripper GC by 2.25 Pts, Team Championship Live | X, FB, Article | FOLLOW UP |
+| 2026-08-18 | T2 | Jordan Spieth Eliminated From FedExCup — 52nd in Standings, Zero Top-10s All Regular Season | X, FB, Article | NEW |
+| 2026-08-18 | T2 | Scheffler Enters BMW as Dominant Favorite — 8-Shot St. Jude Win, No. 1 Seed, $23M Bonus | X, FB, Article | FOLLOW UP |
+
+### STORY 1: CPKC Women's Open Preview
+- **Tier:** 1
+- **Category:** LPGA / CPKC Women's Open / Nelly Korda / Brooke Henderson / Lydia Ko
+- **Key facts:** 52nd CPKC Women's Open at Royal Mayfair GC Edmonton Alberta, Aug 19-23; $2.75M purse; 156 players; par 70 6,452 yds Stanley Thompson 1922 design; Korda World No. 1 (4 wins in 2026 incl. 3 majors: Chevron, Riviera May Open, U.S. Women's Open); Henderson defending champion (14-time LPGA winner), leads 15-player Canadian contingent; Lydia Ko 3-time champion, first win at Royal Mayfair 2013 at age 15 as amateur; also in field: Hyo Joo Kim, Miyu Yamashita, Ruoning Yin, Minjee Lee, Hannah Green
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** CPKC Women's Open R1 coverage; Korda first-round score; Henderson pairing/gallery energy
+
+### STORY 2: BMW Championship Preview
+- **Tier:** 1
+- **Category:** PGA Tour / FedExCup Playoffs / BMW Championship / Scottie Scheffler
+- **Key facts:** BMW Championship at Bellerive Country Club, St. Louis, Aug 20-23; top 50 FedExCup qualify; top 30 advance to Tour Championship at East Lake (Aug 27-30); $20M purse; Scheffler No. 1 seed after winning St. Jude by 8 shots at 17-under; Scheffler 1,000+ points clear of No. 2; $23M bonus locked in; McIlroy/Schauffele/Young/Morikawa/Matsuyama in field; Koepka shot 264 at Bellerive for 2018 PGA Championship
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** BMW Championship R1 coverage; bubble players (positions 28-30); Scheffler R1 score
+
+### STORY 3: LIV Golf Indianapolis Preview
+- **Tier:** 2
+- **Category:** LIV Golf / Indianapolis / Team Championship / 4Aces GC / Ripper GC
+- **Key facts:** LIV Golf Indianapolis Aug 21-23 at The Club at Chatham Hills Westfield Indiana (Pete Dye's final design); Rahm clinched 2026 individual title (944.54 pts, 218-pt margin); 4Aces GC (Dustin Johnson, Thomas Pieters, Thomas Detry, Anthony Kim) leads Ripper GC (Cameron Smith, Marc Leishman, Lucas Herbert, Elvis Smylie) by 2.25 points; Niemann 9 individual LIV titles in 2026 (LIV record); entertainment: Thomas Rhett Fri, Disco Lines Sat
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Team championship final standings; individual leader Niemann vs. DeChambeau runner-up race
+
+### STORY 4: Jordan Spieth Eliminated
+- **Tier:** 2
+- **Category:** PGA Tour / Jordan Spieth / FedExCup
+- **Key facts:** Spieth finished 52nd in FedExCup standings after St. Jude Championship (65-69-72-70, T19, 4-under); missed top 50 cutline for BMW Championship; no top-10 all 2026 regular season; only player to qualify for Playoffs without a top-10; 15-consecutive BMW Championship streak over; entered St. Jude at approximately No. 54
+- **Status:** NEW
+- **Follow-up ideas:** What's next for Spieth in 2027; career trajectory analysis
+
+### STORY 5: Scheffler BMW Dominant Favorite
+- **Tier:** 2
+- **Category:** PGA Tour / Scottie Scheffler / FedExCup Playoffs / BMW Championship
+- **Key facts:** Scheffler won St. Jude by 8 strokes (17-under, beat Si Woo Kim); No. 1 FedExCup seed; 1,000+ points clear of No. 2; $23M bonus locked in; overwhelming BMW betting favorite; McIlroy/Schauffele/Morikawa/Young/Matsuyama the main challengers
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** BMW Championship leaderboard; who challenges Scheffler in R1
+
 ## 2026-08-17
 
 | Date | Tier | Story | Platforms | Status |
