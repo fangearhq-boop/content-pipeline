@@ -1,6 +1,18 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Last Run
+- **Date**: 2026-08-18
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** hh-postplanner-2026-08-18.xlsx (7 posts) + hh-postplanner-tobi-2026-08-18.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-08-18/review-dashboard.html (22 items)
+- **Notes:** NBA SCHEDULE RELEASED — Opening Night Oct 20: LeBron/76ers at Knicks (MSG, 7 PM), Celtics at Pistons (3 PM), OKC at Spurs (9:30 PM); Christmas Day 5 games; HOF CLASS 2026 — Parker, Stoudemire, Doc Rivers, Delle Donne, D'Antoni enshrined Aug 15 Springfield MA; CURRY 11 DAYS — Aug 29 window; $136.7M max; mutual interest confirmed; GIANNIS SKIPS GREECE — prioritizing Heat training camp; "My First Day With The Miami HEAT" YouTube; KAWHI PENDING — Aspiration + Daktronics investigation; resolution ~Sept 22; Toronto camp Sept 28-29
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+### 2026-08-17
 - **Date**: 2026-08-17
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)

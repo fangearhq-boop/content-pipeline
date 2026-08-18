@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-08-18
+
+| Date | Tier | Story | Formats | Status |
+|------|------|-------|---------|--------|
+| 2026-08-18 | T1 | NBA Releases 2026-27 Full Schedule — LeBron at MSG Opening Night, Christmas Day Revealed | X, FB, Article | NEW |
+| 2026-08-18 | T1 | Basketball Hall of Fame Class of 2026 Enshrined — Parker, Stoudemire, Rivers, Delle Donne | X, FB, Article | NEW |
+| 2026-08-18 | T2 | Stephen Curry Extension — 11 Days to August 29 Window ($136.7M) | X, FB, Article | FOLLOW UP |
+| 2026-08-18 | T2 | Giannis Skips Greece FIBA Qualifiers to Focus on Miami Heat Training Camp | X, FB, Article | NEW |
+| 2026-08-18 | T2 | Kawhi Leonard Trade to Toronto Still Pending — Two Deals Under Investigation | X, FB, Article | FOLLOW UP |
+
+### STORY 1: NBA 2026-27 Schedule Released
+- **Tier:** 1
+- **Category:** NBA Schedule / 2026-27 Season
+- **Key facts:** Opening Night Oct 20: Celtics at Pistons (3 PM), 76ers at Knicks/LeBron at MSG (7 PM), OKC at Spurs (9:30 PM); Christmas Day 5 games: Spurs vs Knicks (noon), Heat vs Celtics (2:30), 76ers at Lakers/LeBron returns to LA (5 PM), Thunder vs Timberwolves (8 PM), Nuggets vs Warriors (10:30); Season ends April 11, 2027; 81st NBA season
+- **Status:** NEW
+- **Follow-up ideas:** Team schedule releases; marquee game previews; Opening Night coverage
+
+### STORY 2: Basketball Hall of Fame Class of 2026 Enshrined
+- **Tier:** 1
+- **Category:** NBA History / Basketball Hall of Fame
+- **Key facts:** Ceremony Aug 15, Symphony Hall, Springfield MA; Class: Candace Parker, Amar'e Stoudemire, Doc Rivers, Elena Delle Donne, Chamique Holdsclaw, Joey Crawford, Mark Few, Mike D'Antoni, 1996 USA Women's Team; Weekend began Aug 14 at Mohegan Sun
+- **Status:** NEW
+- **Follow-up ideas:** Inductee speeches/reactions; Hall of Fame museum updates
+
+### STORY 3: Stephen Curry Extension — 11 Days
+- **Tier:** 2
+- **Category:** NBA Contracts / Golden State Warriors / Stephen Curry
+- **Key facts:** Extension window opens Aug 29 (11 days); 2yr/$136.7M max; GM Dunleavy "pretty confident"; mutual interest confirmed ESPN Slater; Warriors 37-45 last season; Curry 42% from 3 at 38; without extension = UFA 2027 first time ever
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Extension signing (expect Aug 29+); Warriors preseason
+
+### STORY 4: Giannis Skips Greece FIBA for Heat Camp
+- **Tier:** 2
+- **Category:** NBA Offseason / Miami Heat / Giannis Antetokounmpo / FIBA
+- **Key facts:** Giannis will not play for Greece in FIBA World Cup qualifiers; Heat requested he stay for training camp; "My First Day With The Miami HEAT" YouTube video posted; 13 seasons in Milwaukee; 2x MVP, 10x All-Star, age 31; supermax eligible Jan 6 2027 (~$275M); Christmas Day: Heat vs Celtics Dec 25
+- **Status:** NEW
+- **Follow-up ideas:** Heat training camp updates; preseason games; Greece qualifier results
+
+### STORY 5: Kawhi Leonard Trade Still Pending
+- **Tier:** 2
+- **Category:** NBA Investigation / Toronto Raptors / Los Angeles Clippers / Kawhi Leonard
+- **Key facts:** Trade agreed June 29-30; Leonard for Ingram, Dick, 2031+2033 picks, 2027 swap, 2 seconds; investigation: Aspiration ($28M) + Daktronics; resolution ~Sept 22; Toronto camp Sept 28-29 Quebec City; extension ~$123.7M when trade clears; Kawhi returns to LA Nov. 2
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official trade clearance; extension announcement; Nov. 2 return game
+
 ## 2026-08-15
 
 | Date | Tier | Story | Formats | Status |
