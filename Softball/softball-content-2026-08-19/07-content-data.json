@@ -1,0 +1,248 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-19",
+  "compiled_at": "2026-08-19T10:26:32.069400+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "AUSL All-Star Cup Series 3 — Draft Is 3 Days Away",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The #AUSL All-Star Cup Series 3 draft is three days away. Kayla Kowalik enters as No. 1 in the individual standings, with Ricketts, Coffey and Netz as the Series 3 captains. Series 3 opens Sunday, Aug 24 at Parkway Bank Sports Complex in Rosemont, IL.",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#AUSL"
+          ],
+          "char_count": 251
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The individual race is on in the #AUSL All-Star Cup. Kowalik leads the standings entering Series 3. Romero is at No. 9. Lemley is climbing. Two series remain. The All-Star Cup individual champion is crowned after Series 4 on Aug 30. 🥎",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#AUSL"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-ausl-series-3-draft-three-days-away.html",
+        "headline": "AUSL All-Star Cup Series 3 Draft Is Three Days Away",
+        "word_count": 563
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "AUSL All-Star Cup Series 3 Draft\n\n#### Image Concept 1\n- **Story:** AUSL Series 3 Draft\n- **Format:** Social (1080x1350, 4:5 vertical)\n- **Purpose:** Lead image for X and Facebook\n- **imagn Search Term:** Kayla Kowalik AUSL\n- **Suggested Use:** Pitching or batting action shot of Kowalik in AUSL uniform; use for Series 3 draft lead post\n- **Canva Overlay Text:** \"SERIES 3 DRAFT | AUG 22\" / \"Kowalik leads the individual race\"\n\n#### Image Concept 2\n- **Story:** AUSL Series 3 Captains\n- **Format:** Social (1080x1350, 4:5 vertical)\n- **Purpose:** Secondary post / captain introduction graphic\n- **imagn Search Term:** Keilani Ricketts AUSL\n- **Suggested Use:** Action shot of Ricketts; combine with text overlay listing all three captains\n- **Canva Overlay Text:** \"SERIES 3 CAPTAINS\" / \"Ricketts | Coffey | Netz\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "AUSL All-Star Cup Series 3 Draft\n**Confidence: HIGH**\n- Series 3 draft: August 22 at Parkway Bank Sports Complex, Rosemont, IL (MEDIUM — consistent with format; draft occurs between each series per AUSL format)\n- Series 3 opens August 24 — CONFIRMED (MLB.com: \"AUSL's best ready for All-Star Cup Series 3 begins Aug 24\")\n- Full All-Star Cup runs through August 30\n- Captains for Series 3: Keilani Ricketts, Sydney Coffey, Brianna Netz — CONFIRMED (prior pipeline and theausl.com)\n- Kayla Kowalik: No. 1 in individual standings entering Series 3 — HIGH (established across multiple prior pipeline days with theausl.com sources)\n- Romero: +42 points to No. 9 entering Series 3 — HIGH (prior pipeline Aug 18 confirmed)\n- Lemley: +26 points entering Series 3 — HIGH (prior pipeline Aug 18 confirmed)\n- Individual champion crowned after Series 4 (Aug 30) — HIGH (AUSL format confirmed)\n- 45-player pool, teams redrafted each series — HIGH (OurSportsCentral + justwomenssports.com)\n- Sami Williams earned Series 1 MVP — HIGH (Line Drive Media)\n**Source URLs:**\n- https://www.mlb.com/padres/news/athletes-unlimited-all-star-cup-series-3-begins-aug-24\n- https://theausl.com/news/series-1-captains-2026-ausl-all-star-cup-kayla-kowalik-rachel-garcia-keilani-ricketts/\n- https://www.oursportscentral.com/services/releases/2026-ausl-all-star-cup-schedule-roster-format--tv-info/n-6393773\n**Notes:** Specific 2026 Kowalik point totals not confirmed independently (possibly conflated with 2025 data). Do not publish exact point numbers — describe as \"individual standings leader\" only.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Oklahoma Softball — Portal Rebuild Continues, 4th Verbal Commitment Added",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Patty Gasso is reloading. Macie Harter joins Oklahoma through the transfer portal and the Sooners have added a fourth verbal commitment to their 2027 class. After the first WCWS miss since 2015, OU is rebuilding — one piece at a time. #OUSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#OUSoftball"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-oklahoma-softball-portal-rebuild-harter-joins.html",
+        "headline": "Oklahoma Softball Portal Rebuild: Harter Joins as Gasso Reloads for 2027",
+        "word_count": 564
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Oklahoma Softball Portal Rebuild\n\n#### Image Concept 3\n- **Story:** Oklahoma Portal Rebuild\n- **Format:** Social (1080x1350, 4:5 vertical)\n- **Purpose:** Lead image for OU rebuild story\n- **imagn Search Term:** Patty Gasso Oklahoma\n- **Suggested Use:** Gasso on the field or in the dugout; coaching portrait angle\n- **Canva Overlay Text:** \"GASSO RELOADS\" / \"OU building back after WCWS miss\"\n\n#### Image Concept 4\n- **Story:** Oklahoma 2027 Recruiting\n- **Format:** Social (1080x1350, 4:5 vertical)\n- **Purpose:** Recruiting/transfer angle graphic\n- **imagn Search Term:** Payton Westra Oklahoma\n- **Suggested Use:** Action shot of Westra; represents OU's returning core\n- **Canva Overlay Text:** \"OU SOFTBALL 2027\" / \"Rebuilding. Reloading.\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Oklahoma Softball Portal Rebuild\n**Confidence: HIGH (portal moves confirmed); MEDIUM (4th 2027 commit details)**\n- Macie Harter joins OU through transfer portal — HIGH (OU Daily)\n- Kasidi Pickering departed OU → Texas Tech — HIGH (established from prior pipelines; Yahoo Sports OU portal tracker)\n- Tia Milloy (sophomore utility) departed portal — HIGH (Yahoo Sports OU tracker)\n- Berkley Zache (FR RHP) and Riley Zache (SO C/IF) departed — HIGH (Yahoo Sports)\n- OU adds 4th verbal commitment to 2027 recruiting class — HIGH (SI.com source)\n- Ori Mailo: No. 4 overall recruit in Class of 2027, on campus — HIGH (established prior pipeline)\n- Payton Westra: everyday OF projection — HIGH (established prior pipeline)\n- Gasso: first WCWS miss since 2015 — HIGH (prior pipeline and multiple sources)\n- Texas landed a former Oklahoma pitcher through transfer portal — HIGH (SI.com: \"Texas softball lands former Oklahoma pitcher through transfer portal\")\n**Source URLs:**\n- https://www.oudaily.com/sports/softball-transfer-portal-ou-patty-gasso-kasidi-pickering/article_fe2556b5-35d7-414f-87e3-357c2cf1cbb9.html\n- https://sports.yahoo.com/articles/ou-softball-transfer-portal-tracker-100807692.html\n- https://www.si.com/college/oklahoma/softball/ou-softball-oklahoma-adds-fourth-verbal-commitment-to-2027-recruiting-class-01k5vzrm4qky\n- https://www.si.com/onsi/softball/news/texas-softball-lands-former-oklahoma-pitcher-through-transfer-portal",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "September 1 — 13 Days, The Class of 2028 Prep Checklist",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "13 days to September 1. For Class of 2028 recruits: have your film ready, your top-5 list finalized, and your family decision framework in place. The commitment wave after first-contact day is fast. Know your answer before the phone rings. 🥎",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 241
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-september-1-class-2028-prep-checklist.html",
+        "headline": "September 1 Is 13 Days Away: What Class of 2028 Softball Recruits Need Ready Now",
+        "word_count": 716
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "September 1 Recruiting Countdown\n\n#### Image Concept 5\n- **Story:** September 1 Class of 2028\n- **Format:** Social (1080x1350, 4:5 vertical)\n- **Purpose:** Countdown visual\n- **imagn Search Term:** softball pitcher high school\n- **Note:** If no imagn match for HS pitcher, use USA Softball or college-age pitcher with generic framing\n- **imagn Search Term (alt):** Jordan Woolery USA Softball\n- **Canva Overlay Text:** \"13 DAYS\" / \"September 1 | Class of 2028 First Contact Day\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "September 1 Recruiting Window\n**Confidence: HIGH (structural/calendar facts)**\n- September 1, 2026 = first day D1 coaches can make off-campus contact and phone calls with Class of 2028 recruits — HIGH (established NCAA rule; covered across multiple prior pipeline runs with Extra Inning Softball sources)\n- 13 days away from August 19, 2026 — HIGH (calendar fact)\n- 1,226 Class of 2028 EIS nominations — HIGH (Extra Inning Softball record, per multiple prior pipelines)\n- \"Class of 2028\" is the relevant class for the Sept 1, 2026 window — HIGH (established from prior pipelines and EIS data)\n- History pattern: first-week callers signal top-target status; October callers signal lower priority — HIGH (established softball recruiting convention, widely documented)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "USA Softball WNT — Roster Set for OKC, 24 Days Out",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "USA Softball has released its official 16-player roster for the WBSC Women's Softball World Cup Group Stage in OKC (Sept 12-16). Group C features Netherlands, Mexico and China. Top two advance to Brisbane — and the road to LA28 starts there. 24 days. 🥎",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-usa-wnt-roster-set-okc-qualifier.html",
+        "headline": "USA Softball Announces Official Roster for OKC World Cup Qualifier — 24 Days Out",
+        "word_count": 607
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "USA Softball WNT Roster Announced\n\n#### Image Concept 6\n- **Story:** USA WNT OKC Roster\n- **Format:** Social (1080x1350, 4:5 vertical)\n- **Purpose:** Roster announcement lead graphic\n- **imagn Search Term:** Rachel Garcia USA Softball\n- **Suggested Use:** Garcia in USA uniform, pitching or celebrating; WNT anchor\n- **Canva Overlay Text:** \"ROSTER SET\" / \"WBSC World Cup OKC | Sept 12-16 | 24 Days\"\n\n#### Image Concept 7\n- **Story:** USA WNT / Kavan\n- **Format:** Article hero (1200x630, 1.91:1 landscape)\n- **Purpose:** Article featured image\n- **imagn Search Term:** Teagan Kavan Texas\n- **Suggested Use:** Kavan pitching; anchor for USA article (she's confirmed on the roster)\n- **Canva Overlay Text:** N/A (article hero — no text overlay needed)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "USA Softball WNT Roster for OKC\n**Confidence: HIGH**\n- Official 16-player roster announced for WBSC Women's Softball World Cup Group Stage — HIGH (WBSC.org official)\n- Event: September 12-16, 2026, Devon Park, Oklahoma City — HIGH (WBSC.org official)\n- Group C: Netherlands (No. 6 world), Mexico (No. 7), China (No. 8) — HIGH (WBSC.org)\n- Top 2 teams advance to Brisbane Finals (April 5-11, 2027) — HIGH (WBSC.org)\n- Brisbane Finals = LA28 Olympics qualification pathway — HIGH (WBSC.org)\n- Teagan Kavan on USA roster — HIGH (usasoftball.com)\n- OU connection: Brito, Coleman, Jennings, Maxwell — HIGH (prior pipelines; multiple sources)\n- USA previously went 8-2 at the International Cup, same venue — HIGH (prior pipelines)\n- 24 days to Sept 12 from Aug 19 — HIGH (calendar fact)\n**Source URLs:**\n- https://www.wbsc.org/en/events/2026-wbsc-womens-softball-world-cup-group-stage-oklahoma/home\n- https://www.wbsc.org/en/events/2026-wbsc-womens-softball-world-cup-group-stage-oklahoma/news/usa-softball-announces-roster-for-wbsc-womens-softball-world-cup-group-oklahoma\n- https://www.usasoftball.com/roster/teagan-kavan/",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Texas Softball — Lands Former OU Pitcher, Three-Peat Roster Taking Shape",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Texas softball has added a former Oklahoma pitcher through the transfer portal. With fall camp underway and 11 new additions, the Longhorns are building toward what only UCLA (1988-90) and OU (2021-23) have done — three straight WCWS titles. #HookEm",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HookEm"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-texas-softball-ou-pitcher-portal-three-peat.html",
+        "headline": "Texas Softball Adds Former Oklahoma Pitcher Through Portal, Builds Toward Historic Three-Peat",
+        "word_count": 603
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas Softball Three-Peat Build\n\n#### Image Concept 8\n- **Story:** Texas Portal / Three-Peat\n- **Format:** Social (1080x1350, 4:5 vertical)\n- **Purpose:** Lead social graphic for Texas story\n- **imagn Search Term:** Teagan Kavan Texas\n- **Suggested Use:** Kavan in UT uniform; senior season three-peat angle\n- **Canva Overlay Text:** \"THREE-PEAT BEGINS\" / \"Fall camp is here\"\n\n#### Image Concept 9\n- **Story:** Texas Coaching Staff / Build\n- **Format:** Social (1080x1350, 4:5 vertical)\n- **Purpose:** Secondary graphic — coaching staff / roster build angle\n- **imagn Search Term:** Mike White Texas softball\n- **Suggested Use:** White in UT dugout; program leadership\n- **Canva Overlay Text:** \"BUILDING FOR THREE\" / \"Texas Softball | Fall 2026\""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Texas Longhorns Fall Camp / Portal\n**Confidence: HIGH (championship facts, portal news); MEDIUM (fall camp details)**\n- Texas won 2026 WCWS title (swept Texas Tech) — HIGH (NCAA.com, ESPN)\n- Teagan Kavan: 2x WCWS MOP, first in WCWS history — HIGH (multiple sources)\n- Texas lands former Oklahoma pitcher through transfer portal — HIGH (SI.com)\n- Texas fall camp underway — MEDIUM (single source: HookEmHeadlines)\n- 11 new additions to 24-player roster — HIGH (prior pipeline confirmed)\n- Fremin (AHC, 10yr HC at SLU) + Freeman (hitting coach) staff complete — HIGH (prior pipelines)\n- Texas 49-12 in 2026 — HIGH (prior pipeline confirmed)\n- Only UCLA (1988-90) and OU (2021-23) won 3 straight WCWS titles — HIGH (NCAA records)\n- Texas 2026 recruiting class ranked No. 4 nationally — MEDIUM (research agent, single source context)\n**Source URLs:**\n- https://www.ncaa.com/news/softball/article/2026-06-01/2026-ncaa-softball-tournament-bracket-schedule-womens-college-world-series-scores\n- https://www.si.com/onsi/softball/news/texas-softball-lands-former-oklahoma-pitcher-through-transfer-portal\n- https://hookemheadlines.com/texas-longhorns-news-roundup-fall-camp-kicking-off-horns-dominate-usa-softball-and-more",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

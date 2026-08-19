@@ -3,6 +3,65 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-08-19
+
+### Story 1: AUSL All-Star Cup Series 3 — Draft 3 Days Away
+- **Date:** 2026-08-19
+- **Tier:** 1
+- **Classification:** FOLLOW UP (draft Aug 22, 3 days; series opens Aug 24; Kowalik No. 1 in standings)
+- **Angle:** Series 3 draft Thursday Aug 22 at Parkway Bank Sports Complex. Ricketts, Coffey, Netz as Series 3 captains. New angle: the draft dynamic — what captains select for, individual race implications, Kowalik's placement. Romero at No. 9 (+42 Series 2), Lemley climbing (+26 Series 2). Individual champion crowned after Series 4 Aug 30.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Series 3 rosters after Aug 22 draft
+  - Series 3 Day 1 results (Aug 24)
+  - Individual standings update
+
+### Story 2: Oklahoma Softball — Portal Rebuild, Harter Joins, 4th 2027 Commit
+- **Date:** 2026-08-19
+- **Tier:** 2
+- **Classification:** FOLLOW UP (portal rebuild; new from yesterday's fall schedule story)
+- **Angle:** Macie Harter joins through transfer portal. Departures: Pickering→TTU, Milloy, Berkley/Riley Zache. OU adds 4th verbal commitment to 2027 class. Ori Mailo (No. 4 overall) on campus. Westra projects as everyday OF. First WCWS miss since 2015 driving offseason reshaping.
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Additional portal moves through August 31 deadline
+  - 5th 2027 verbal commitment
+  - First Battle Series results (Oct 3)
+
+### Story 3: September 1 — 13 Days, Class of 2028 Prep Checklist
+- **Date:** 2026-08-19
+- **Tier:** 2
+- **Classification:** FOLLOW UP (daily countdown; new angle: pre-Sept 1 checklist for recruits)
+- **Angle:** 13 days to Sept 1. New angle vs yesterday's mechanics/call timing: what recruits need to have in place BEFORE the window opens — film ready, school list ranked, family decision framework set. The commitment wave hits within 2-3 weeks. Know your answer before the phone rings.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Continue countdown (12 days Aug 20)
+  - Sept 1 arrival coverage
+  - Commitment wave tracking
+
+### Story 4: USA WNT — Official 16-Player Roster Announced, 24 Days Out
+- **Date:** 2026-08-19
+- **Tier:** 2
+- **Classification:** FOLLOW UP (roster announcement = new development; upgraded from Tier 3)
+- **Angle:** Official 16-player roster announced for OKC WBSC Group Stage. Kavan included (usasoftball.com). 4 OU players (Brito/Coleman/Jennings/Maxwell). Group C: Netherlands (No. 6)/Mexico (No. 7)/China (No. 8). Top 2 → Brisbane Finals April 5-11 2027 (LA28 qualifier). Devon Park OKC. 24 days.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Continue countdown (23 days Aug 20)
+  - Schedule within Group C confirmed
+  - Practice reports from OKC
+
+### Story 5: Texas Softball — Lands Former OU Pitcher, Three-Peat Roster Build
+- **Date:** 2026-08-19
+- **Tier:** 2
+- **Classification:** FOLLOW UP (new portal news; different angle from yesterday's fall camp start)
+- **Angle:** Texas adds former OU pitcher through transfer portal. Fall camp underway. 11 new additions in 24-player roster. Kavan 2x WCWS MOP (first in history). Fremin+Freeman staff complete. Texas 49-12 in 2026. Only UCLA (1988-90) + OU (2021-23) won 3 straight WCWS.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Fall camp reports
+  - Preseason rankings (January)
+  - Additional portal additions
+
+---
+
 ## 2026-08-18
 
 ### Story 1: AUSL All-Star Cup Series 3 — Draft 4 Days Away
