@@ -1,6 +1,18 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Last Run
+- **Date**: 2026-08-19
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** hh-postplanner-2026-08-19.xlsx (7 posts) + hh-postplanner-tobi-2026-08-19.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-08-19/review-dashboard.html (27 items)
+- **Notes:** WESTBROOK RETIRES — 18 seasons, 209 triple-doubles, 2017 MVP; KD tribute "iconic"; Jalen Williams pushing OKC No. 0 jersey retirement Opening Night; KAWHI — ESPN "no evidence" vs NBA "numerous inaccuracies" media war; settlement talks started; resolution ~Sept 22; Leonard/Raptors operating as if trade completes; WEMBY BELGRADE — France vs Serbia tomorrow Aug 20; Gobert+Fournier+Wemby roster; Wemby "I miss FIBA basketball"; LAMELO TERMS CONFIRMED — Naz Reid + 2033 unprotected 1st + 3 pick swaps + 3 seconds; Edwards "championship reality check"; CURRY 10 DAYS — Aug 29 window; $136.7M max; may prefer shorter-term structure; Windhorst "bold risky" approach floated
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+### 2026-08-18
 - **Date**: 2026-08-18
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)

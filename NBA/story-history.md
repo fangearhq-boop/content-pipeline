@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-08-19
+
+| Date | Tier | Story | Formats | Status |
+|------|------|-------|---------|--------|
+| 2026-08-19 | T1 | Russell Westbrook Retires — 209 Triple-Doubles, 2017 MVP, 18 Seasons | X, FB, Article | NEW |
+| 2026-08-19 | T1 | Kawhi Investigation: ESPN "No Evidence" + NBA Disputes Report — Settlement Talks Begin | X, FB, Article | FOLLOW UP |
+| 2026-08-19 | T2 | Wembanyama & France Preview Belgrade vs. Serbia — Game Tomorrow Aug 20 | X, FB, Article | FOLLOW UP |
+| 2026-08-19 | T2 | LaMelo-Wolves Full Trade Terms: Naz Reid + 7 Picks for LaMelo + Josh Green | X, FB, Article | FOLLOW UP |
+| 2026-08-19 | T2 | Stephen Curry Extension — 10 Days to August 29 Window ($136.7M Max) | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Russell Westbrook Retires From NBA
+- **Tier:** 1
+- **Category:** NBA Retirements / Oklahoma City Thunder / Russell Westbrook
+- **Key facts:** Announced retirement this week; 18 seasons; 9-time All-Star; 2017 MVP; 209 career triple-doubles (all-time record, obliterating Oscar Robertson's 181); KD posted tribute calling career "iconic"; Jalen Williams pushing for OKC to retire No. 0 "dare I say Opening Night" (Oct 22 home opener); would join Nick Collison as only 2nd number retired in franchise history
+- **Status:** NEW
+- **Follow-up ideas:** Official OKC jersey retirement announcement; Hall of Fame eligibility timeline; KD/Westbrook reunion at ceremony
+
+### STORY 2: Kawhi Leonard Investigation — ESPN/NBA Media War
+- **Tier:** 1
+- **Category:** NBA Investigation / Toronto Raptors / Los Angeles Clippers / Kawhi Leonard
+- **Key facts:** Aug 17 ESPN (Van Natta/Holmes/Shelburne): NBA found "no evidence" Ballmer funneled money to Kawhi; NBA spokesman Mike Bass immediately fired back: report has "numerous and significant inaccuracies"; investigation narrowing to "failure to supervise" violation (Clippers improperly introducing Leonard to partners); NBC Sports: settlement talks between NBA and Clippers started; HoopsHype: Leonard has received NO indication his contract will be voided; Leonard and Raptors operating as if trade completes; target resolution ~Sept 22; Board of Governors mid-September meeting = inflection point
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Settlement announcement; Sept 22 resolution; Raptors Media Day Sept 28; Quebec City camp Sept 29
+
+### STORY 3: Wembanyama France vs. Serbia — Belgrade Preview
+- **Tier:** 2
+- **Category:** NBA Offseason / San Antonio Spurs / Victor Wembanyama / France FIBA
+- **Key facts:** Game Aug 20 Belgrade (tomorrow), Aug 23 Orleans; France roster: Wemby + Gobert + Fournier; new coach Frederic Fauthoux; Wemby quote: "I miss FIBA basketball"; first competitive game since 2024 Olympic final; France 5-1 in Group L qualifying; Air Alamo: "bigger test than just Nikola Jokic" — full Serbian squad
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Belgrade game result (Aug 20); Orleans game result (Aug 23); Slovenia (Aug 27) and Sweden (Aug 30) qualifiers
+
+### STORY 4: LaMelo Ball to Minnesota — Full Trade Terms Confirmed
+- **Tier:** 2
+- **Category:** NBA Trades / Minnesota Timberwolves / Charlotte Hornets / LaMelo Ball
+- **Key facts:** Minnesota received LaMelo Ball + Josh Green; Charlotte received Naz Reid + 2033 unprotected 1st + 3 pick swaps (2028/2029/2030 firsts) + 3 seconds (2029/2032/2033); Edwards delivered "championship reality check"; LaMelo has NEVER played a playoff game; The Ringer: "Wolves betting the Anthony Edwards era" on this trade
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Training camp chemistry; early-season performance; LaMelo-Edwards first-game results
+
+### STORY 5: Stephen Curry Extension — 10 Days to Window
+- **Tier:** 2
+- **Category:** NBA Contracts / Golden State Warriors / Stephen Curry
+- **Key facts:** Window opens Aug 29 (10 days away); 2yr/$136.7M max; mutual interest confirmed (GM Dunleavy "pretty confident," ESPN Slater); reports suggest Curry may prefer shorter-term structure (Windhorst "bold, risky"); Swipe Sports: discount to help Warriors compete; without extension = UFA 2027 first time ever; Warriors failed LeBron pursuit adds urgency
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Extension signing (expect Aug 29+); structure (1yr vs 2yr) revealed; Warriors preseason
+
 ## 2026-08-18
 
 | Date | Tier | Story | Formats | Status |
