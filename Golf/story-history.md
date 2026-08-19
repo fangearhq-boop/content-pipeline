@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-08-19
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-08-19 | T1 | LIV Golf Financial Crisis — Saudi PIF Ends Funding, Prize Money Halved, $1.23M Lawsuit Filed | X, FB, Article | NEW |
+| 2026-08-19 | T1 | Sepp Straka Withdraws From BMW Championship — No. 5 FedExCup Out With Family Matter | X, FB, Article | NEW |
+| 2026-08-19 | T2 | Rory McIlroy at BMW — Back-to-Back Masters Champion, Ranked No. 13 FedExCup After 66th at St. Jude | X, FB, Article | FOLLOW UP |
+| 2026-08-19 | T2 | CPKC Women's Open R1 Tomorrow — Korda (World No. 1), Henderson (Defending), Ko (Chasing 4th Title) | X, FB, Article | FOLLOW UP |
+| 2026-08-19 | T2 | LIV Indianapolis Season Finale Preview — Perez Out, Rottluff In, 4Aces Leads Ripper GC by 2.25 Points | X, FB, Article | FOLLOW UP |
+
+### STORY 1: LIV Golf Financial Crisis
+- **Tier:** 1
+- **Category:** LIV Golf / Saudi PIF / Prize Money / Financial Crisis / Lawsuit
+- **Key facts:** Saudi Arabia's PIF announced April 2026 ending funding after 2026 season (~$5B invested since 2022); Indianapolis individual purse halved from $20M to $10.1M; winner earns $2.02M (down from $4M); Michigan Team Championship cancelled entirely; team championship winner bonus cut from $11.2M to $8.4M; approximately $60M in promised prize money lost across 2026; June Louisiana event cancelled ($30M purse); Fresh Tape Media filed suit in New York Supreme Court July 21 seeking $1.23M+ in unpaid fees for LIV Golf Week (Jan 12-14 West Palm Beach); multiple outlets reporting players waiting on payments; Jon Rahm individual title clinched (944.54 pts, 218-pt margin over DeChambeau); 4Aces vs Ripper GC team championship live at Indianapolis
+- **Status:** NEW
+- **Follow-up ideas:** LIV Indianapolis final team championship result; status of Fresh Tape Media lawsuit; 2027 organizational plans
+
+### STORY 2: Sepp Straka BMW Withdrawal
+- **Tier:** 1
+- **Category:** PGA Tour / BMW Championship / Sepp Straka / FedExCup Playoffs / Bellerive
+- **Key facts:** Straka (Austria) withdraws from BMW Championship citing private family matter; ranked No. 5 FedExCup; manager Butler Melnyk issued statement; field drops from 50 to 49 players; no replacement; still expected at Tour Championship East Lake (Aug 27-30); withdrawal shifts East Lake bubble math for players ranked 28-31 in FedExCup standings; BMW Championship Aug 20-23 at Bellerive Country Club St. Louis
+- **Status:** NEW
+- **Follow-up ideas:** BMW Championship R1; Straka's Tour Championship participation
+
+### STORY 3: Rory McIlroy at BMW
+- **Tier:** 2
+- **Category:** PGA Tour / Rory McIlroy / BMW Championship / FedExCup Playoffs / Masters
+- **Key facts:** McIlroy is reigning back-to-back Masters champion (2025: career Grand Slam completing 11-year wait since 2014 Open, beat DeChambeau in playoff, 3,899 days since prior major; 2026: defended vs. Scheffler by 1 stroke despite surrendering 6-shot R3 lead, first back-to-back since Tiger 2001-02); finished 66th at FedEx St. Jude at 8-over (zero sub-par rounds), quote: "far away from where I need to be"; worked with coach Michael Bannon in South Florida after St. Jude; ranked No. 13 FedExCup; +1600 BMW odds (second to Scheffler +290-300); Bellerive par 70, 7,448 yards (Robert Trent Jones Sr. design, last hosted BMW in 2008 — Camilo Villegas won); bunkers resodded with bentgrass since 2008
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** BMW R1 McIlroy score; FedExCup position entering Tour Championship
+
+### STORY 4: CPKC Women's Open Preview
+- **Tier:** 2
+- **Category:** LPGA / CPKC Women's Open / Nelly Korda / Brooke Henderson / Lydia Ko / Royal Mayfair
+- **Key facts:** 52nd CPKC Women's Open at Royal Mayfair Golf Club Edmonton Alberta Aug 20-23; $2.75M purse; 156 players; par 70 6,452 yds Stanley Thompson design; Wednesday pro-am; Korda World No. 1 (4 wins in 2026 incl. 3 majors: Chevron, Riviera May Open, U.S. Women's Open); Henderson defending champion (closed 67, -15, beat Minjee Lee by 1 for 14th LPGA title in 2025); leads 15-player Canadian contingent (largest in event history); Lydia Ko won at Royal Mayfair 2013 at age 15 as amateur (youngest LPGA winner at time), has won 3 times total (4th would be unprecedented); Ko won 3 Olympic gold medals; also in field: Hyo Joo Kim, Miyu Yamashita, Ruoning Yin, Minjee Lee, Hannah Green
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** CPKC Women's Open R1 coverage; Korda first-round score; Henderson gallery energy
+
+### STORY 5: LIV Indianapolis Season Finale
+- **Tier:** 2
+- **Category:** LIV Golf / Indianapolis / Team Championship / 4Aces GC / Ripper GC / Victor Perez
+- **Key facts:** Victor Perez withdraws for birth of second child; Max Rottluff (Germany) replaces him; Perez's Cleeks GC teammates absorb absence; Indianapolis now sole LIV season finale (Michigan cancelled after PIF announcement); Jon Rahm individual title clinched (944.54 pts, 218-pt margin); 4Aces GC (Dustin Johnson, Thomas Pieters, Thomas Detry, Anthony Kim) leads Ripper GC (Cameron Smith, Marc Leishman, Lucas Herbert, Elvis Smylie) by 2.25 points; Legion XIII third within striking distance; venue: The Club at Chatham Hills, Westfield Indiana (Pete Dye's final design); 72-hole shotgun-start format Aug 21-23; entertainment: Thomas Rhett Friday, Disco Lines Saturday
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** LIV Indianapolis final results; team champion (4Aces vs Ripper GC); 2027 LIV organizational plans
+
 ## 2026-08-18
 
 | Date | Tier | Story | Platforms | Status |

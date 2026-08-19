@@ -1,6 +1,18 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
+- **Date**: 2026-08-19
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters (3 tweets fixed after verify-facts.py: Story 1 trimmed 284→277; Story 3 trimmed 285→247; Story 5 trimmed 293→269)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres)
+- **PostPlanner exports:** gfr-postplanner-2026-08-19.xlsx (7 posts) + gfr-postplanner-tobi-2026-08-19.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-08-19/review-dashboard.html (27 items)
+- **Notes:** LIV FINANCIAL CRISIS — Saudi PIF ends funding after 2026 (~$5B invested); Indianapolis purse halved $20M→$10.1M; winner gets $2.02M (was $4M); Michigan Team Championship cancelled; ~$60M in promised prize money gone; Fresh Tape Media sued July 21 for $1.23M+ in unpaid fees (NY Supreme Court, LIV Golf Week Jan 12-14 WPB); players reportedly awaiting payments; STRAKA BMW WD — Sepp Straka (No. 5 FedExCup) withdraws for private family matter; field drops 50→49; no replacement; still expected at East Lake; shifts East Lake bubble math for positions 28-31; MCILROY BMW — back-to-back Masters champion (2025 career Grand Slam vs. DeChambeau in playoff, 3,899-day wait; 2026 defended vs. Scheffler by 1 in final round); 66th at St. Jude (8-over, zero sub-par rounds), quote "far away from where I need to be"; worked with Michael Bannon; No. 13 FedExCup; +1600 BMW odds (Scheffler +290-300); Bellerive par 70, 7,448 yards (RTJ Sr., last hosted BMW 2008 Villegas win, bunkers resodded bentgrass); CPKC WOMEN'S OPEN — 52nd edition Royal Mayfair GC Edmonton Alberta Aug 20-23; $2.75M; 156 players; par 70 6,452 yds Stanley Thompson; Henderson defending (-15, beat Minjee Lee by 1, 14th LPGA title 2025), anchors 15-player Canadian contingent (largest in event history); Ko 3-time champion (first win 2013 at age 15 as amateur, youngest LPGA winner ever at time, 3 Olympic gold medals); Korda World No. 1 (4 wins/3 majors: Chevron/Riviera May Open/U.S. Women's Open); also: Hyo Joo Kim/Yamashita/Ruoning Yin/Minjee Lee/Hannah Green; LIV INDIANAPOLIS FINALE — Perez WD (second child arriving), Rottluff replaces; Chatham Hills Westfield Indiana Aug 21-23 (Pete Dye's final design); Rahm individual title clinched; 4Aces (DJ/Pieters/Detry/A. Kim) leads Ripper GC (Smith/Leishman/Herbert/Smylie) by 2.25 pts; Legion XIII third; Thomas Rhett Fri/Disco Lines Sat
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+## Previous Run
 - **Date**: 2026-08-18
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)
@@ -25,6 +37,15 @@
 - **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ## Pipeline Run Log
+
+### 2026-08-19
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters (3 tweets fixed after verify-facts.py: S1 284→277, S3 285→247, S5 293→269)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres)
+- **PostPlanner exports:** gfr-postplanner-2026-08-19.xlsx (7 posts) + gfr-postplanner-tobi-2026-08-19.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-08-19/review-dashboard.html (27 items)
 
 ### 2026-08-18
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
