@@ -5,6 +5,56 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-19
+
+### STORY 1: Game 2 Recap — Bregman Walk-off, Cubs 4-3 (Omitted per Insight)
+- **Angle:** NEW STORY (Bregman walk-off single in 9th gave Cubs a 4-3 win over White Sox in Game 2. Rain delay ~90 min after 8th. Gausman exited 4.3 IP with left-hand cramp. Cubs 13th Wrigley walk-off win, leading MLB. Cubs 2-0 in series. Score omitted per has_score=False insight.)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - Game 3 result recap (tomorrow morning)
+  - Bregman clutch narrative (season arc)
+
+### STORY 2: Wrigley Walk-off Culture — 13 Leading MLB
+- **Angle:** NEW STORY (13 walk-off wins at Wrigley Field leads all MLB; bold take on lineup clutch identity; this isn't luck, it's a roster built to punish one bad pitch)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold take)
+- **Follow-Up Opportunities:**
+  - Walk-off No. 14+ (future games)
+  - NBC Chicago noted this is "Cubs history" — may tie a single-season franchise record (1 source; unconfirmed)
+
+### STORY 3: Gausman Injury Update — Glove Hand, Next Start Expected
+- **Angle:** NEW STORY (Kevin Gausman's exit was a LEFT hand cramp — glove hand, not throwing hand. Not expected to IL. Next start expected as normal. Three Cubs outings since deadline acquisition from Blue Jays; still adjusting. Rotation intact for October.)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, injury update)
+- **Follow-Up Opportunities:**
+  - Gausman next start result
+  - Gausman ERA trajectory in Cubs rotation
+
+### STORY 4: NL Standings + Cardinals Jab — Cubs WC1, Cards 13.5 Back
+- **Angle:** FOLLOW UP (last covered Aug 18 as context; fresh peg = Cubs now 74-53 after Game 2 win; Cardinals 64-62 sit 13.5 GB in NL Central; Cubs WC1, 4 GB of Brewers with 7 H2H games remaining)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, rival analysis/standings)
+- **Follow-Up Opportunities:**
+  - Brewers-Cubs head-to-head series (Aug 31-Sep 3, Sep 7-9)
+
+### STORY 5: Game 3 Preview — Sweep Hunt, Newcomb vs Holmes, 1:20 PM CT
+- **Angle:** NEW STORY (Cubs 2-0, going for Crosstown sweep. Sean Newcomb LHP (Cubs) vs Clay Holmes RHP (5-5, 2.56 ERA, White Sox). First pitch 1:20 PM CT at Wrigley. Back-to-back walk-off nights heading into daylight finish.)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Game 3 result (tomorrow morning — series sweep or split)
+  - Newcomb in Cubs rotation (LHP starter role)
+
+### STORY 6: First Pitch Hype — 1:20 PM CT
+- **Angle:** NEW STORY (1:15 PM CT post, 5 min before first pitch; short/punchy; PCA and Bregman as anchors; fly the W three times this week)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, fan energy)
+- **Follow-Up Opportunities:**
+  - Game 3 result (tomorrow morning)
+
+---
+
 ## 2026-08-18
 
 ### STORY 1: PCA Walk-off + 30-30 Club — Game 1 Recap (Cubs 7, White Sox 5 in 10)

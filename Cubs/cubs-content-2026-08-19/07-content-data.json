@@ -1,0 +1,223 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-19",
+  "compiled_at": "2026-08-19T09:24:15.961262+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Story 1 — Bregman walk-off, 13th Wrigley walk-off this season",
+      "type": "Game Recap"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Story 2 — 13 Wrigley walk-offs, leading all MLB, lineup clutch identity",
+      "type": "Bold Take"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 3 — Gausman glove-hand cramp, not throwing hand, next start expected",
+      "type": "Injury Update"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "Story 4 — Cardinals 13.5 back, Cubs WC1, 4 GB Brewers, 7 H2H left",
+      "type": "Rival Analysis"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 5 — Game 3 sweep hunt, Newcomb vs Holmes, 1:20 PM CT",
+      "type": "Preview"
+    },
+    {
+      "time": "1:15 PM",
+      "description": "Story 6 — First pitch hype, 5 min to game",
+      "type": "Fan Energy"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Game 2 Recap — Bregman Walk-off, 13 Wrigley Walk-offs",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Alex Bregman walk-off single in 9th gave Cubs a 4-3 win (score omitted per insight) over White Sox in Game 2. Gausman exited in 4.3 IP with left-hand cramp (glove hand). Rain delay ~90 min after top of 8th. Bregman delivered anyway. This is the Cubs' 13th walk-off win at Wrigley Field this season, leading all of MLB.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Alex Bregman. One out. Ninth inning. Walkoff single.\n\nGausman left early, rain delayed 90 minutes, White Sox tied it up — and Bregman still ended it. That's the 2026 Cubs: 13 Wrigley walk-offs this season, leading MLB.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Game Recap / Milestone",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Wrigley Walk-off Culture — 13 Leading MLB",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "The 2026 Cubs have 13 walk-off wins at Wrigley Field — more than any other MLB team. Bold take on the lineup's clutch identity: this isn't luck, it's a roster built to punish one bad pitch.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "13 walk-off wins at Wrigley Field this season.\n\nNo other team in baseball has more. This isn't luck — it's a lineup built to punish one bad pitch. The 2026 Cubs know exactly who they are: they don't fold, they walk it off.\n\n#Cubs #FlyTheW #ChicagoCubs",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold Take / Fan Energy",
+          "hashtags": [
+            "#Cubs",
+            "#FlyTheW",
+            "#ChicagoCubs"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Gausman Injury Update — Glove Hand, Next Start Expected",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Kevin Gausman's exit from Game 2 was due to a LEFT HAND cramp — his glove hand, not his throwing hand. Not expected to go on IL. Cubs expect him to make his next start. He's still adjusting after the deadline acquisition (three Cubs outings so far).",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Update on Kevin Gausman: left hand cramp — his glove hand, not his throwing hand.\n\nExpected to make his next start. Still finding his footing through three Cubs outings, but the arm is fine. That's all that matters heading into October.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Injury Update / Roster News",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 262
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "NL Standings + Cardinals Jab — Cubs WC1, Cards 13.5 Back",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Cardinals sit 13.5 games back in the NL Central (Brewers 77-48, Cards 64-62). Cubs are No. 1 Wild Card, just 4 back of Milwaukee with 7 head-to-head Brewers games remaining. Rival jab + playoff context in one tweet.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Cardinals sit 13.5 games back in the NL Central and St. Louis fans know it.\n\nMeanwhile, Cubs are No. 1 Wild Card and just 4 back of Milwaukee — with 7 Brewers games left on the schedule. September is about to get interesting.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Rival Analysis / Standings",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Game 3 Preview — Sweep Hunt at Wrigley, 1:20 PM CT",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Cubs 2-0, going for the Crosstown sweep. Sean Newcomb (LHP) starts for the Cubs; Clay Holmes (RHP, 5-5, 2.56 ERA) for the White Sox. First pitch 1:20 PM CT at Wrigley Field. Back-to-back walk-off nights deserve an emphatic afternoon finish.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Sweep time. 1:20 PM CT at Wrigley Field.\n\nNewcomb on the bump for the Cubs, Holmes for the White Sox. Chicago's already won the series — now it's about dominance. Back-to-back walk-off nights deserve one emphatic afternoon finish.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Game Preview / Sweep Hunt",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "First Pitch Hype — 1:20 PM CT",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Short, punchy, emotional. 1:15 PM CT post, 5 minutes before first pitch. PCA and Bregman as lineup anchors. Fly the W three times this week.",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "PCA, Bregman, and the whole lineup ready to put a bow on it.\n\nFirst pitch in five minutes. Let's fly the W three times this week.\n\n#Cubs #FlyTheW #GoCubs",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Fan Energy / Short",
+          "hashtags": [
+            "#Cubs",
+            "#FlyTheW",
+            "#GoCubs"
+          ],
+          "char_count": 153
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

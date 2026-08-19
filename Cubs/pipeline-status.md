@@ -1,6 +1,47 @@
-# Cubs Pipeline Status — Updated 2026-08-18
+# Cubs Pipeline Status — Updated 2026-08-19
 
 ## Latest Run
+- **Date:** 2026-08-19 (Wednesday)
+- **Run time:** ~09:00 UTC
+- **Stories:** 6
+- **X posts:** 6
+- **Platforms:** X/Twitter only
+- **Status:** ✅ Complete
+
+## Insights Summary (2026-08-19)
+- **Snapshot generated:** 2026-08-19T08:30:00Z (fresh, 30 min before trigger)
+- **measured_tweet_count:** 125
+- **Significant findings (1):**
+  1. `has_score=False` beats `has_score=True` — **small** effect (Cliff's delta=0.298, p=0.0052, n=77 vs 48, median impressions 110 vs 81)
+     - **Applied:** All game-recap/result tweets drafted without scores. Cubs 4-3 Game 2 result referenced by describing Bregman's walk-off moment, NOT the score. Finding persists for fourth consecutive day with stronger p-value (0.0052 vs 0.0069 yesterday).
+- **Note:** Same dimension as yesterday (`has_score`). Effect size slightly increased (0.298 vs 0.289). n_winner grew to 77 (from 76). Signal is strengthening, not weakening.
+
+## Series Context (2026-08-19)
+- `is_series_start_today`: FALSE — mid-series vs White Sox (Game 3 of 3, final game)
+- `off_day`: FALSE — Game 3 at 1:20 PM CT at Wrigley Field
+- Cubs record: 74-53 | White Sox: 65-60
+- Probable pitchers: Sean Newcomb LHP (Cubs) vs Clay Holmes RHP (White Sox, 5-5, 2.56 ERA)
+- Applied: No series-preview slot. 7:00 AM used for Game 2 recap (Bregman walk-off). Sweep-hunt framing for Game 3 preview.
+
+## Today's Content (2026-08-19)
+| Slot | Story | Tier |
+|------|-------|------|
+| 7:00 AM CT | Game 2 recap — Bregman walk-off, 13 Wrigley walk-offs this season (ML-leading) | 1 |
+| 8:15 AM CT | Walk-off culture bold take — 13 at Wrigley, MLB-leading, lineup identity | 1 |
+| 9:30 AM CT | Gausman injury update — glove-hand cramp, not throwing hand; next start expected | 2 |
+| 10:45 AM CT | NL standings + Cardinals jab — Cubs WC1, Cards 13.5 GB, 4 back of Brewers | 2 |
+| 12:00 PM CT | Game 3 preview — Newcomb vs Holmes, 1:20 PM CT, sweep hunt | 1 |
+| 1:15 PM CT | First pitch hype — 5 min to game, fly the W three times | 1 |
+
+## Cubs Record as of 2026-08-19 (before today's game)
+- **Record:** 74-53 (No. 1 NL Wild Card)
+- **NL Central gap:** 4 GB behind Brewers (77-48)
+- **NL WC gap:** ~5 games over Phillies/Padres (exact records not confirmed this AM)
+- **White Sox series:** Cubs lead 2-0, going for sweep today
+
+---
+
+## Previous Run (2026-08-18)
 - **Date:** 2026-08-18 (Tuesday)
 - **Run time:** ~09:00 UTC
 - **Stories:** 8
