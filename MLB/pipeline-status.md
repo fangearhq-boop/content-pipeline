@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-08-19
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch + 2 research agents, 5 stories verified HIGH/MEDIUM confidence; KEY CORRECTION: research agent claimed Alvarez TC would be "first since Mantle 1956" — INCORRECT; corrected to Cabrera 2012 per prior pipelines and established historical fact), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations — all ≤280), FB posts (5 stories), image concepts (7 items; imagn source), image manifest (7 entries, not_started), articles (5), fact-check (29 claims; verify-facts.py ran; claim-patterns.py missing known), compile (5 stories, 6 tweets, 0 FB posts — format known, 5 articles, 5 images), dashboard (21 items), PostPlanner exports (standard + TOBI; 0 posts — format known). WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard publish push failed (proxy known restriction). IMAGE NOT STARTED (manifest recognized but images not yet produced in Canva). claim-patterns.py missing (known). PostPlanner: 0 posts compiled (format known). 0 char violations. FACT CORRECTION: Research agent claimed Alvarez TC "first since Mantle 1956" — corrected to Cabrera 2012.
+- **Key Stories**: PCA NL MVP case/back-to-back 30-30 (first Cubs history)/19th player multiple 30-30/6th to hit leadoff+walkoff same game/Cubs 72-52 NL WC No. 1 (Tier 1 FOLLOW UP), Joshua Baez pitcher adjustments/sac fly Aug 18 vs Reds/chess match begins/Walker+Baez duo (Tier 1 FOLLOW UP), Alvarez Triple Crown .329/36HR/88RBI/Schwarber 37 leads HR by 1/Caminero 33/Cabrera 2012 last TC/44 games left (Tier 2 FOLLOW UP), Matt Chapman season-ending surgery/Giants lose 3B/core muscle strain (Tier 2 NEW), Misiorowski Cy Young case/11-5/1.76 ERA/204Ks/40.6% K rate/-550 odds/MIL 77-48 (Tier 3 FOLLOW UP)
+
+## Last Run
 - **Date**: 2026-08-18
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch, 5 stories verified HIGH/MEDIUM confidence), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations — all ≤280), FB posts (5 stories), image concepts (7 items; imagn source), image manifest (10 entries, not_started), articles (5), fact-check (27 claims; verify-facts.py ran; claim-patterns.py missing known), compile (5 stories, 7 tweets, 0 FB posts — format known, 5 articles, 5 images), dashboard (22 items), PostPlanner exports (standard + TOBI). WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push failed (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction).

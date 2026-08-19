@@ -3,6 +3,60 @@
 This file tracks all stories covered by the MLB content pipeline.
 Each day's stories are appended at the top (newest first).
 
+---
+
+## 2026-08-19
+
+### Story 1: Pete Crow-Armstrong — NL MVP Case
+- **Date:** 2026-08-19
+- **Tier:** 1
+- **Classification:** FOLLOW UP (walk-off 30th HR Aug 17 already covered; today's angle: full MVP argument)
+- **Angle:** Back-to-back 30-30 seasons (first in Cubs history), 19th player in MLB history with multiple 30-30 seasons (30 HR / 31 SBs), 6th player ever to hit leadoff HR and walk-off HR in same game, Cubs 72-52 No. 1 NL WC. Full MVP argument laid out.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - PCA stats through rest of season
+  - NL MVP voting coverage (November)
+
+### Story 2: Joshua Baez — Pitcher Adjustments After Historic Debut
+- **Date:** 2026-08-19
+- **Tier:** 1
+- **Classification:** FOLLOW UP (debut covered Aug 15-18; new angle: chess match / pitcher adjustments)
+- **Angle:** Sac fly Aug 18 vs Reds (exit velo 90.6, LA 44°) shows Baez still contributing. The chess match: pitchers studying him, testing inner half/breaking balls. 36 Triple-A HRs before call-up. Walker/Baez Cardinals duo. First two weeks will reveal adjustment story.
+- **Content Produced:** Article (article-02, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Baez stats (K rate, chase rate, hard contact) through Aug 25
+  - Pitcher-specific game plans as they emerge
+
+### Story 3: Yordan Alvarez — Triple Crown Historical Stakes
+- **Date:** 2026-08-19
+- **Tier:** 2
+- **Classification:** FOLLOW UP (.329/36HR/88RBI; new angle: historical context and what's left)
+- **Angle:** .329 BA (+.029 lead), 36 HR (Schwarber 37 leads by 1, Caminero 33), 88 RBI (+7 lead). Last TC: Cabrera 2012. BA most secure, HR most volatile (Schwarber), RBI strong lead. 44 games left. NOTE: Research agent claimed "Mantle 1956" — CORRECTED to Cabrera 2012 (established from prior pipelines).
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Daily HR race Alvarez vs. Schwarber
+  - AL MVP alongside TC chase
+
+### Story 4: Matt Chapman — Season-Ending Surgery (Giants)
+- **Date:** 2026-08-19
+- **Tier:** 2
+- **Classification:** NEW
+- **Angle:** Giants 3B Matt Chapman undergoes season-ending surgery for core muscle (abdominal) strain. Giants lose key bat with 44 games left. 2027 outlook positive. Giants playoff picture impact.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Giants roster moves (48 hours)
+  - Chapman 2027 recovery timeline
+
+### Story 5: Jacob Misiorowski — NL Cy Young Case
+- **Date:** 2026-08-19
+- **Tier:** 3
+- **Classification:** FOLLOW UP (franchise K record established; new angle: full Cy Young argument)
+- **Angle:** 11-5/1.76 ERA/204 Ks/133.2 IP, 40.6% K rate leads MLB, 2nd-fastest to 200 Ks (Strider 2022 only faster), Brewers franchise record, -550 NL Cy Young odds, MIL 77-48 best record in baseball. July 26: 7 straight Ks (franchise record), 12 of first 13 batters K'd, 33 fastballs at 103+ mph (most in single game since tracking began).
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Misiorowski next start ~Aug 23
+  - Cy Young odds tracking
+
 ## 2026-08-18
 
 ### Story 1: Pete Crow-Armstrong Walk-Off 30th HR — 30-30 Club, Second Straight Season
