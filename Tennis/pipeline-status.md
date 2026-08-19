@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-08-18 |
-| Writing | Complete (all steps) | 2026-08-18 |
-| Fact-check | Complete (verify-facts.py run — 5 stories, 24 claims, all HIGH) | 2026-08-18 |
-| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 5 articles, 27 items) | 2026-08-18 |
-| Dashboard | Complete (review-dashboard.html, 27 items) | 2026-08-18 |
-| PostPlanner Export | Complete (standard 7 posts 12:57–20:39 ET; TOBI 7 posts) | 2026-08-18 |
-| WordPress Publish | Attempted — proxy blocks WordPress API (same as all prior runs) | 2026-08-18 |
-| Dashboard Push | Attempted — proxy lacks write access to content-dashboards repo (same as all prior runs) | 2026-08-18 |
+| Research | Complete | 2026-08-19 |
+| Writing | Complete (all steps) | 2026-08-19 |
+| Fact-check | Complete (verify-facts.py run — 5 stories, 30 claims, all HIGH) | 2026-08-19 |
+| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 5 articles, 22 items) | 2026-08-19 |
+| Dashboard | Complete (review-dashboard.html, 22 items) | 2026-08-19 |
+| PostPlanner Export | Complete (standard 7 posts 12:58–20:40 ET; TOBI 7 posts) | 2026-08-19 |
+| WordPress Publish | Attempted — proxy blocks WordPress API (same as all prior runs) | 2026-08-19 |
+| Dashboard Push | Attempted — proxy lacks write access to content-dashboards repo (same as all prior runs) | 2026-08-19 |
 
 ## Queue
 
@@ -24,6 +24,16 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-08-19 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-08-19.xlsx (7 posts 12:58–20:40 ET), tfr-postplanner-tobi-2026-08-19.xlsx (7 TOBI posts)
+- **Key stories:** Nakashima stuns Medvedev 6-7(3), 7-6(4), 6-1 — saved 3 match points (down 0-40 at 4-5 in 2nd set), 2h51m, career-high No. 22, continues remarkable summer (Montreal runner-up → Cincinnati QF); Sabalenka cruises 6-1, 6-3 in 54 min + Gauff 6-1, 7-6(3) over Ann Li + Andreeva 6-1, 7-6(5) over Tjen — all into QF; Svitolina withdraws right ankle injury (Canadian Open SF), Wang Xinyu walkover vs Keys; ATP R16 preview: Zverev vs Paul, de Minaur vs Fils, Jodar vs Cobolli (QFs Aug 20); US Open 11-day countdown: Sinner knee (not played since Wimbledon, monitoring day-by-day, possibly targeting Winston-Salem WC); Alcaraz wrist (4 months inactive, US Open defence in serious doubt); draw Aug 27, main draw Aug 30; Andreeva feature: 17yo (born 2007) into Cincinnati QF vs Kostyuk (H2H 2-1), generational theme with Jodar + Nakashima
+- **Issues:** image manifest all not_started (expected for imagn source); posting window warnings cosmetic (known issue); FB posts 0 in compile (known parser issue); WordPress blocked by proxy; dashboard push blocked by proxy (content-dashboards not in session authorized repos)
+- **Story history:** Updated with all 5 stories
 
 ### 2026-08-18 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
