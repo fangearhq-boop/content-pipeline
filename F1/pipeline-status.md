@@ -1,6 +1,18 @@
 # F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
+- **Date**: 2026-08-19
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters (Story 5 tweet trimmed 281→236 after verify-facts.py)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole)
+- **PostPlanner exports:** f1fr-postplanner-2026-08-19.xlsx (7 posts) + f1fr-postplanner-tobi-2026-08-19.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-08-19/review-dashboard.html (27 items)
+- **Notes:** DUTCH GP 2 DAYS — Final Dutch GP at Zandvoort ever + first-ever Sprint weekend; 1 practice only; zero 2026 car data; 85-91% rain Sunday; Ferrari new floor+chassis; ADUO-2 engine saved Monza; ALBON WILLIAMS 2027 CONFIRMED (Aug 18) — one-year extension signed; SAINZ IMMINENT — "massive contract" before Dutch GP; 14/20 2027 seats unconfirmed; VERSTAPPEN FAREWELL — special Delftware helmet; Red Bull cutting media access; "fed up with car criticism"; extension offer unanswered; 2027 unresolved; ANTONELLI 219PTS — Hamilton moves to 2nd (169), Russell 3rd (~160); 316pts remain; VERSTAPPEN/McLAREN CLARIFIED — "surprise collaboration" is junior driver partnership (Dries van Langendonck), NOT a seat deal; Lambiase at McLaren separately; 2027 seat still open
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+### 2026-08-18
 - **Date**: 2026-08-18
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)

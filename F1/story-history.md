@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-08-19
+
+| Date | Tier | Story | Formats | Status |
+|------|------|-------|---------|--------|
+| 2026-08-19 | T1 | Dutch GP Sprint Weekend Preview — 2 Days to Zandvoort's Final F1 Race | X, FB, Article | FOLLOW UP |
+| 2026-08-19 | T1 | Albon Williams 2027 Confirmed; Sainz 'Massive Contract' Expected Before Dutch GP | X, FB, Article | NEW |
+| 2026-08-19 | T2 | Verstappen: Special Delftware Helmet, Farewell Tribute, Red Bull Media Tension | X, FB, Article | FOLLOW UP |
+| 2026-08-19 | T2 | Antonelli 50-Point Championship Lead Stands — Hamilton Moves to 2nd | X, FB, Article | FOLLOW UP |
+| 2026-08-19 | T2 | The Verstappen/McLaren 'Surprise Collaboration' Is a Junior Driver Story — Not a Seat Deal | X, FB, Article | NEW |
+
+### STORY 1: Dutch GP Sprint Weekend Preview — 2 Days Out
+- **Tier:** 1
+- **Category:** Formula 1 / Dutch Grand Prix / Zandvoort / Sprint Weekend
+- **Key facts:** Final Dutch GP at Zandvoort ever; first-ever Sprint weekend at circuit; schedule: FP1 Fri 12:30 CET, Sprint Q Fri 16:30, Sprint Race 24 laps Sat 12:00, GP Q Sat 16:00, Race 72 laps Sun 15:00; one practice session only; zero 2026 car data; 85-91% rain chance Sunday; Ferrari bringing new floor+chassis (3rd aero upgrade); ADUO-2 engine saved for Monza
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Sprint qualifying results; Sprint Race results; GP qualifying; Race result
+
+### STORY 2: Albon Williams 2027 Confirmed; Sainz Imminent
+- **Tier:** 1
+- **Category:** Formula 1 / Williams Racing / Alex Albon / Carlos Sainz / 2027 Silly Season
+- **Key facts:** Albon signed one-year extension Aug 18; confirmed by Sky Sports/GPFans; Sainz "set to sign massive contract before Dutch GP" (GPFans Aug 18); Sainz terms reportedly exceed typical Williams pay; deal in "final stages" (RacingNews365); Speedweek.com: "Williams confirms Albon, Sainz to follow"; 14 of 20 2027 seats still unconfirmed
+- **Status:** NEW
+- **Follow-up ideas:** Official Sainz announcement; Williams 2027 lineup confirmation; 2027 grid completion
+
+### STORY 3: Verstappen Farewell Helmet + Red Bull Tension
+- **Tier:** 2
+- **Category:** Formula 1 / Max Verstappen / Red Bull Racing / Dutch Grand Prix
+- **Key facts:** Delftware helmet (white/blue Dutch ceramic art tradition) unveiled Aug 16; Red Bull one-off race suits for Verstappen+Hadjar; Verstappen: "a special F1 chapter no one can take that away from us anymore"; Red Bull cutting media access at Dutch GP amid car criticism; Verstappen: "I am fed up with repeating 2026 car criticism — driving it is already hard enough"; Red Bull made fresh extension offer; Verstappen has not responded; 2027 officially unresolved
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Any contract/2027 announcement at Dutch GP; race performance; fan send-off coverage
+
+### STORY 4: Antonelli Championship — Hamilton Now 2nd
+- **Tier:** 2
+- **Category:** Formula 1 / F1 Championship 2026 / Kimi Antonelli / Lewis Hamilton
+- **Key facts:** Antonelli 219pts (6W/6P/9pod); Hamilton 169pts — NEW 2nd place (previously Russell); Russell ~160pts — 3rd; 50-point gap at top; 316 points remain/12 rounds; Mercedes Constructors lead 379pts; Hamilton to Ferrari; Ferrari floor upgrade at Zandvoort; ADUO-2 engine Monza
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Dutch GP points updates; Monza standings after engine upgrade; championship math
+
+### STORY 5: Verstappen/McLaren "Collaboration" Clarification
+- **Tier:** 2
+- **Category:** Formula 1 / Max Verstappen / McLaren / 2027 Transfer Market
+- **Key facts:** "Surprise collaboration" headlines = Verstappen Racing (personal brand) partnering with McLaren for Belgian junior Dries van Langendonck in McLaren Driver Development Programme; NOT a 2027 race seat deal; Lambiase (Verstappen's ex-engineer) joined McLaren as Chief Racing Officer 2026; Verstappen exit clause active; 2027 seat officially unresolved; confirmed Red Bull 2026 to "end speculation"
+- **Status:** NEW
+- **Follow-up ideas:** Actual 2027 seat announcement; Dutch GP media day Verstappen quotes
+
 ## 2026-08-18
 
 | Date | Tier | Story | Formats | Status |
