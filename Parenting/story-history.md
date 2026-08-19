@@ -2,6 +2,60 @@
 
 ---
 
+## August 19, 2026
+
+### Story 1: Taleco Gear Baby Jumpers and Swings Recall
+- **Date:** 2026-08-19
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recalled Taleco Gear Baby Jumpers and Swings on Aug 13, 2026. 52 incidents, 32 injuries. Fall and strangulation hazards. Sold on Amazon, Walmart, and TalecoGear.com for $65-$120 from April 2021-July 2026. Stop use immediately.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** CPSC recall Aug 13, 2026; 52 incidents, 32 injuries; fall and strangulation hazards; sold Amazon/Walmart/TalecoGear.com; $65-$120; April 2021-July 2026; stop use immediately; Sources: CPSC.gov
+- **Follow-Up Opportunities:** Update if remedy/refund details announced
+
+### Story 2: HARPPA Nordi Toddler Tower Stools Recall
+- **Date:** 2026-08-19
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recalled HARPPA Nordi Toddler Tower Stools for entrapment and fall hazards with risk of serious injury and death. Stop use immediately. Check CPSC.gov for remedy details.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** CPSC recall; HARPPA Nordi Toddler Tower Stools; entrapment and fall hazards; risk of serious injury and death; stop use immediately; Sources: CPSC.gov
+- **Follow-Up Opportunities:** Update if unit count or remedy details announced
+
+### Story 3: COS Weekend Events Aug 21-23
+- **Date:** 2026-08-19
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — COS Comic Con at Broadmoor World Arena Aug 21-23 (Fri 3 PM, Sat-Sun 10 AM). SISFA Film Festival at Louisa Performing Arts Center Aug 21-22 at 6:30 PM ($15-$36). D11 families: Monday Aug 24 is a late-start day.
+- **Byline:** Jamie Rivera
+- **Content Produced:** 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** Comic Con at Broadmoor World Arena (3185 Venetucci Blvd) Aug 21-23; Fri 3 PM, Sat-Sun 10 AM; SISFA Film Festival at Louisa PAC (21 Broadmoor Ave) Aug 21-22, 6:30 PM, $15-$36; D11 Aug 24 late-start day; Sources: event sites, d11.org
+- **Follow-Up Opportunities:** Post-event community roundup
+
+### Story 4: AAP Screen Time Guidelines
+- **Date:** 2026-08-19
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — AAP updated screen time framework emphasizes quality and co-viewing over strict time limits. Under 18 months: avoid (except video chat). 18-24 months: high-quality, co-view. Ages 2-5: up to 1 hr/day high-quality. Ages 6+: set consistent limits. Timed to school-year restart.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** AAP age-specific guidance; HealthyChildren.org resource; Sources: AAP, HealthyChildren.org
+- **Follow-Up Opportunities:** Evergreen; revisit at start of summer 2027
+
+### Story 5: D11 Free School Supply Kits + Additional COS Resources
+- **Date:** 2026-08-19
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — D11 partnered with Edukit to give free grade-specific supply kits to more than 14,000 K-8 students on Aug 12 first day. Phil Long Ford Chapel Hills (1565 Chapel Hills Dr) hosting supply drive benefiting Beulah School and Aspen Acres fire families. D11 enrollment still open at d11.org.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** 14,000+ K-8 students; Edukit partnership; Phil Long Ford Chapel Hills supply drive at 1565 Chapel Hills Dr; shield616.org needs list; D11 enrollment at d11.org or 1033 N. Franklin St. M-F 8 AM-4 PM MT; Sources: D11, Springs Daily
+- **Follow-Up Opportunities:** End-of-year recap on Edukit program
+
+---
+
 ## August 18, 2026
 
 ### Story 1: D20 Full District Opens — All Grades Start Today
