@@ -2,6 +2,53 @@
 
 ---
 
+## August 20, 2026
+
+### Story 1: Weekend Family Roundup — Things to Do with Kids in COS This Weekend (Aug 21–23)
+- **Date:** 2026-08-20
+- **Content Pillar:** Local Events
+- **Angle:** THURSDAY MANDATORY — Weekend Roundup auto-published to springsdaily.com. Bear Creek Nature Center 50th "Bear-thday" Party (Sat Aug 22, 10am–2pm, 245 Bear Creek Rd, FREE — register hike at elpasoco.com/bcnc50); COS Comic Con (Aug 21–23, Broadmoor World Arena, 3185 Venetucci Blvd); SISFA Film Festival (Aug 21–22, 6:30pm, Louisa Performing Arts Center, 21 Broadmoor Ave, $15–$36). Includes required springsdaily.com links.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** Bear Creek 50th — Aug 22, 10am–2pm, 245 Bear Creek Rd, FREE, hike registration elpasoco.com/bcnc50; COS Comic Con — Aug 21–23, Broadmoor World Arena 3185 Venetucci Blvd, Fri 3pm/Sat-Sun 10am; SISFA Film Fest — Aug 21–22, 6:30pm, Louisa Performing Arts Center 21 Broadmoor Ave, $15–$36
+
+### Story 2: 3 CPSC Recalls — Magnetic Fidget Toys, Infant Walkers, Children's Pajamas
+- **Date:** 2026-08-20
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — Three August 2026 CPSC recalls: PIXLABBY magnetic fidget sliders (magnet ingestion risk — intestinal perforation/death, sold Amazon); Wnttmt baby walkers ~1,310 units (fit through doorway/stair edge hazard, sold Amazon); Michley Children's Pajamas (fail flammability standards — burn risk, sold SHEIN.com). All: stop use immediately.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** PIXLABBY magnetic fidget recall (Amazon, magnet ingestion, fatal risk); Wnttmt walkers 1,310 units (Amazon, stair hazard); Michley pajamas (SHEIN.com, flammability fail); all sources: cpsc.gov
+
+### Story 3: D20 First Full Week in Session
+- **Date:** 2026-08-20
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — D20 staggered start: K/6th/9th on Aug 17, all others Aug 18. Today (Aug 20) is Thursday of first full week. All three COS districts now in session: D49 since Aug 3–4, D11 since Aug 12, D20 since Aug 17–18. D20 serves ~28,000 students across 45+ schools. Resources at d20.org.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** D20 start dates Aug 17 (K/6th/9th) and Aug 18 (all others); D49 Aug 3–4; D11 Aug 12; D20 ~28,000 students, 45+ schools; d20.org
+
+### Story 4: D49 Opens New Preschool Classrooms at Student Success Center
+- **Date:** 2026-08-20
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — D49 Early Childhood Education opened 2 new preschool classrooms at D49 Student Success Center, start of 2026–27 school year. Expands preschool access in eastern COS/Falcon area. d49.org for info.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (MEDIUM):** D49 ECE 2 new classrooms at Student Success Center; opened fall 2026; d49.org
+
+### Story 5: AAP Research — Parental Mental Health After NICU
+- **Date:** 2026-08-20
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — AAP Pediatrics Vol. 158, Issue 2, August 2026: "The Importance of Addressing Parental Mental Health for Children Born Preterm." Finding: parental anxiety/stress after NICU often untreated; impacts child developmental outcomes. AAP calls for proactive mental health screening in pediatric medical homes. COS resources: UCHealth Memorial, Centura St. Francis, PSI hotline 1-800-944-4773.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (MEDIUM):** AAP Pediatrics Vol. 158 Issue 2, August 2026; parental mental health impacts preterm child outcomes; PSI helpline 1-800-944-4773
+
 ## August 19, 2026
 
 ### Story 1: Taleco Gear Baby Jumpers and Swings Recall
