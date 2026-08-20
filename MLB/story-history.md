@@ -5,6 +5,65 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-20
+
+### Story 1: Cubs 73-53 After Crosstown Split — NL Wild Card Lead Holds
+- **Date:** 2026-08-20
+- **Tier:** 1
+- **Classification:** FOLLOW UP (White Sox took Aug 19 finale 3-0; Cubs still NL WC No. 1)
+- **Angle:** Cubs lost Aug 19 to White Sox 3-0 (Urquidy/Benintendi). Crosstown Series: Cubs won 2-1 overall. Cubs 73-53, NL WC No. 1 — 5 games over Phillies, 6 over Padres. 36 games remaining. PCA .281/30HR/78RBI/31SB/7.7 WAR — NL MVP case still strongest despite loss.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Cubs series results (new opponent after Crosstown)
+  - PCA September stat watch for MVP close
+  - Wild card race tracking (Phillies/Padres)
+
+### Story 2: Joshua Baez — Cardinals Leadoff Experiment, Day Off Aug 19
+- **Date:** 2026-08-20
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Cardinals testing deployment flexibility 5 days in)
+- **Angle:** Marmol moved Baez to leadoff with Wetherholt resting. Day off Aug 19 vs Reds. Stats: .251/.332/.552, 12 HR, 11 SBs, 32.7% K rate. Leadoff vs. middle-order debate. Adjustment period underway.
+- **Content Produced:** Article (article-02, Jake Torres), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Baez return to lineup (Thursday vs Reds)
+  - Batting order confirmation — leadoff vs. 5-hole
+  - September stats as pitchers adjust
+
+### Story 3: Alvarez Triple Crown — Schwarber 37, Alvarez 36, 36 Games Left
+- **Date:** 2026-08-20
+- **Tier:** 2
+- **Classification:** FOLLOW UP (36 games remaining; HR race tightening)
+- **Angle:** Alvarez .329 BA / 36 HR / 88 RBI. Schwarber at 37 HR leads by 1. Caminero climbing. Last TC: Cabrera 2012. BA and RBI leads wide; HR race is the drama.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Daily HR race tracking
+  - Alvarez September power surge or continued drought?
+  - Schwarber/Caminero closing or fading?
+
+### Story 4: Brewers 78-48 — Best Record in Baseball, October Path
+- **Date:** 2026-08-20
+- **Tier:** 2
+- **Classification:** FOLLOW UP (22-0 aftermath; new angle — playoff implications of best record)
+- **Angle:** Brewers 78-48, best record in all of baseball. 22-0 over SEA Aug 18 (modern-era record). Misiorowski 12-5/1.76 ERA/204Ks/-550 Cy Young. Best record = NL HFA. Yelich+Hamilton+Lara 3-run HRs. Julio Rodriguez gaffe.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Misiorowski next start (~Aug 23)
+  - Brewers maintaining best record lead over Dodgers
+  - Postseason bracket clinching scenarios
+
+### Story 5: MLB Playoff Picture — 36 Games Left
+- **Date:** 2026-08-20
+- **Tier:** 3
+- **Classification:** FOLLOW UP (standings update; 36 games to play)
+- **Angle:** AL: Rays 75-50, White Sox 66-60, Astros 63-63. NL: Brewers 78-48, Dodgers 76-51, Braves 74-53. NL WC: Cubs 73-53/Phillies 68-58/Padres 67-59. AL WC: Yankees/Red Sox/Twins in mix. Astros at .500 biggest surprise.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Wild card race tightening (NL Padres/D-backs; AL Wild Card)
+  - White Sox holding AL Central lead
+  - Division clinching dates
+
+---
+
 ## 2026-08-19
 
 ### Story 1: Pete Crow-Armstrong — NL MVP Case
