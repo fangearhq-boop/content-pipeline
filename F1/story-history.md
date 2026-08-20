@@ -5581,3 +5581,44 @@
 - **Key facts:** GPFans Aug 16: 14 of 20 2027 seats unconfirmed; Sainz "final stages" with Williams (expected 1-yr deal); Bortoleto Audi long-term through 2028+; Hamilton Ferrari confirmed; Norris McLaren confirmed; Russell Mercedes unconfirmed; Verstappen decision is the domino
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Sainz-Williams confirmation; Verstappen announcement; Russell contract
+
+| 2026-08-20 | T1 | Verstappen Signs Red Bull Contract Extension Through 2030 — Breaking Today | X, FB, Article | NEW |
+| 2026-08-20 | T1 | Dutch Grand Prix 2026 Preview — Zandvoort's Final Farewell, Sprint Weekend Begins Tomorrow | X, FB, Article | FOLLOW UP |
+| 2026-08-20 | T2 | Carlos Sainz Signs Multi-Year Williams Deal — 2027 Lineup Complete | X, FB, Article | NEW |
+| 2026-08-20 | T2 | F1 2026 Championship Standings — Antonelli's 50-Point Lead Entering Dutch GP | X, FB, Article | FOLLOW UP |
+| 2026-08-20 | T2 | Norris Factor — Can McLaren's Hungary Upgrade Carry Into Zandvoort? | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Verstappen Signs Red Bull Extension Through 2030
+- **Tier:** 1
+- **Category:** F1 Contracts / Red Bull Racing / Max Verstappen
+- **Key facts:** Announced Thursday Aug 20 ahead of Dutch GP; extends through 2030; previous deal ran to 2028 with exit clause; exit clause now dead; McLaren rumors dead; Verstappen praises Laurent Mekies "great year" and "clear vision"; Mekies replaced Horner who was fired; Red Bull + McLaren + Mercedes + Ferrari top seats all locked for 2027; Verstappen had questioned staying in F1 (family time desire)
+- **Status:** NEW
+- **Follow-up ideas:** Dutch GP qualifying/race results; Red Bull technical progress; 2027 grid finalized
+
+### STORY 2: Dutch Grand Prix 2026 Preview
+- **Tier:** 1
+- **Category:** F1 Race Weekend / Dutch Grand Prix / Zandvoort
+- **Key facts:** Final ever Dutch GP at Zandvoort; Sprint weekend first time at Zandvoort; FP1 + Sprint Qualifying Aug 21; Sprint 10:00 UTC Aug 22; Qualifying 14:00 UTC Aug 22; Race Aug 23; Antonelli leads 219pts (+50 over Hamilton); 316pts remain; rain factor (coastal); orange army farewell
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Sprint Qualifying results; Sprint Race results; Race result; championship impact
+
+### STORY 3: Carlos Sainz Multi-Year Williams Deal
+- **Tier:** 2
+- **Category:** F1 Contracts / Williams Racing / Carlos Sainz
+- **Key facts:** Signed multi-year deal for 2027+; announced Aug 19 (one day after Albon); Williams 2027 lineup complete (Albon + Sainz); Williams 9th in constructors with 11pts after 11 rounds; Audi was reportedly an option; exact deal length not disclosed
+- **Status:** NEW
+- **Follow-up ideas:** Williams technical progress; Sainz 2027 performance
+
+### STORY 4: F1 Championship Standings
+- **Tier:** 2
+- **Category:** F1 Championship / Kimi Antonelli / Lewis Hamilton
+- **Key facts:** Antonelli 219pts, Hamilton 169pts (-50), Russell ~160pts (-59); 316pts remain; Norris won Hungary; Mercedes leads constructors 379pts; Ferrari 2nd (307pts, -72); Antonelli: 6 wins, 6 poles, 9 podiums; 21 years old
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Dutch GP results; post-round standings update
+
+### STORY 5: Norris/McLaren Zandvoort Factor
+- **Tier:** 2
+- **Category:** F1 Technical / McLaren / Lando Norris
+- **Key facts:** Norris dominated Hungary with McLaren upgrade; Zandvoort high-speed vs Hungary technical; Sky Sports: "if McLaren's car works as well in Zandvoort as Budapest, Norris cannot be discounted"; Norris reigning world champion (2025); one practice session only (Sprint format)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Sprint Qualifying times; race result; McLaren upgrade assessment post-Zandvoort
