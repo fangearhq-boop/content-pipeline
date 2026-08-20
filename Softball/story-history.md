@@ -3,6 +3,65 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-08-20
+
+### Story 1: AUSL All-Star Cup — Series 3 Draft Tomorrow
+- **Date:** 2026-08-20
+- **Tier:** 1
+- **Classification:** FOLLOW UP (draft Aug 22, tomorrow; series opens Aug 24; Kowalik No. 1; Romero +42 No. 9; Lemley +26)
+- **Angle:** Draft day preview — captains Ricketts, Coffey, Netz face dual-purpose decisions: team wins AND individual standings management. Every pick has two strategic dimensions. Kowalik leads individual standings. Series 3 tips off Aug 24, individual champion crowned after Series 4 Aug 30.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Series 3 rosters after Aug 22 draft
+  - Series 3 Day 1 results (Aug 24)
+  - Individual standings update post-Series 3
+
+### Story 2: September 1 Countdown — 12 Days, Handling Simultaneous Offers
+- **Date:** 2026-08-20
+- **Tier:** 2
+- **Classification:** FOLLOW UP (daily countdown; new angle: how to handle multiple simultaneous offers when the window opens)
+- **Angle:** The first 48 hours after Sept 1 — multiple calls at once, simultaneous offers. Recruits who prepared (ranked schools, family framework, decisions made pre-Sept 1) handle it well. Those who haven't rush into decisions they regret.
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Continue countdown (11 days Aug 21)
+  - Sept 1 arrival coverage
+  - Commitment wave tracking
+
+### Story 3: USA WNT — 23 Days, Group C Opponents Breakdown
+- **Date:** 2026-08-20
+- **Tier:** 2
+- **Classification:** FOLLOW UP (post-roster angle; new focus: Group C opponents and what they mean for qualification)
+- **Angle:** Netherlands (No. 6), Mexico (No. 7), China (No. 8) are Group C opponents. Top 2 advance to Brisbane Finals (LA28 qualifier). 4 OU players on roster. Devon Park OKC Sept 12-16.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Continue countdown (22 days Aug 21)
+  - Practice/team USA camp reports
+  - Group Stage results (Sept 12-16)
+
+### Story 4: Oklahoma Portal Rebuild — 11 Days to August 31 Deadline
+- **Date:** 2026-08-20
+- **Tier:** 2
+- **Classification:** FOLLOW UP (portal deadline angle; new vs. yesterday's Harter-specific news)
+- **Angle:** Portal deadline 11 days away. OU has added Harter, secured Westra (No. 2 overall) + Mailo (No. 4 overall) in 2027 class. Departures: Pickering→TTU, Milloy. First WCWS miss since 2015 driving urgency.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Portal deadline (Aug 31, 11 days)
+  - Additional transfer additions
+  - 5th 2027 verbal commitment
+
+### Story 5: Texas Softball — Three-Peat Roster Takes Shape at Fall Camp
+- **Date:** 2026-08-20
+- **Tier:** 3
+- **Classification:** FOLLOW UP (roster depth angle; fall camp underway)
+- **Angle:** 24-player roster, 11 new additions, former OU pitcher. Kavan 2x WCWS MOP returns. Only UCLA (1988-90) and OU (2021-23) won 3 straight WCWS. Texas 49-12 in 2026.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Fall camp reports
+  - Additional portal additions (before Aug 31)
+  - 2027 preseason rankings (January)
+
+---
+
 ## 2026-08-19
 
 ### Story 1: AUSL All-Star Cup Series 3 — Draft 3 Days Away
