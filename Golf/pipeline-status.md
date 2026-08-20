@@ -1,6 +1,18 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
+- **Date**: 2026-08-20
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters (code-block format confirmed working)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres)
+- **PostPlanner exports:** gfr-postplanner-2026-08-20.xlsx (7 posts) + gfr-postplanner-tobi-2026-08-20.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-08-20/review-dashboard.html (27 items)
+- **Notes:** BMW CHAMPIONSHIP R1 — Scheffler leads FedExCup (4,873 pts, ~1,400 ahead of No. 2 Fitzpatrick), won St. Jude by 8 shots; McIlroy No. 13 (safe), worked with Bannon after 66th at St. Jude; Straka WD for family matter, field 50→49; Bellerive par 70 7,448 yds, last hosted BMW 2008 (Villegas); bubble drama at positions 28-35; CPKC WOMEN'S OPEN R1 — Royal Mayfair GC Edmonton; Korda World No. 1 +440 fav (4 wins/3 majors 2026: Chevron/Riviera May Open/U.S. Women's Open); Henderson defending (2025 Mississaugua, -15, beat Lee by 1, 14th LPGA title); Ko chasing record 4th title (first won 2013 at Royal Mayfair age 15, youngest LPGA winner ever); 15-player Canadian contingent (record); 75-80k projected spectators; $2.75M purse; par 70 6,452 yds; LIV INDIANAPOLIS R1 — Chatham Hills Westfield Indiana (Pete Dye's final design); Rahm individual title clinched for 3rd consecutive year; 4Aces (DJ/Pieters/Detry/A.Kim) leads Ripper GC (Smith/Leishman/Herbert/Smylie) by 2.25 pts; Legion XIII 3rd; Thomas Rhett Fri/Disco Lines Sat; 54-hole concludes Saturday; LIV FINANCIAL CRISIS (follow-up) — Saudi PIF confirms end of backing after 2026 (~$5B invested); Indianapolis prize $20M→$10.1M (winner $2.02M); Michigan cancelled; ~$60M gone; Fresh Tape Media suit July 21 NY Supreme Court $1.23M+ unpaid (LIV Golf Week Jan 12-14 WPB); players reportedly awaiting payments; merger talks with PGA Tour ongoing; FEDEXCUP EAST LAKE BUBBLE — top 30 after BMW advance; East Lake Aug 27-30; Scheffler/McIlroy/Schauffele/Hovland safe; positions 28-35 contested; Straka WD shifts math; points reset at East Lake via strokes handicap
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+## Previous Run
 - **Date**: 2026-08-19
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)

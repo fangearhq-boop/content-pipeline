@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-08-20
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-08-20 | T1 | BMW Championship Round 1 — Scheffler Leads FedExCup Field Into Bellerive, East Lake Bubble Begins | X, FB, Article | FOLLOW UP |
+| 2026-08-20 | T1 | CPKC Women's Open Round 1 — Korda (World No. 1, +440), Henderson Defends, Ko Chasing 4th Title at Royal Mayfair Edmonton | X, FB, Article | FOLLOW UP |
+| 2026-08-20 | T2 | LIV Golf Indianapolis Round 1 — Rahm's 3rd Straight Individual Title Clinched, 4Aces vs. Ripper GC Team Race Live | X, FB, Article | FOLLOW UP |
+| 2026-08-20 | T2 | LIV Golf Financial Crisis — Saudi PIF Confirms End of Funding After 2026, Indianapolis Prize Cut $20M to $10.1M | X, FB, Article | FOLLOW UP |
+| 2026-08-20 | T2 | FedExCup East Lake Bubble Watch — Top 30 After BMW Advance; Positions 28-35 Contested; Straka WD Shifts Math | X, FB, Article | FOLLOW UP |
+
+### STORY 1: BMW Championship Round 1
+- **Tier:** 1
+- **Category:** PGA Tour / BMW Championship / FedExCup Playoffs / Scottie Scheffler / Rory McIlroy / Bellerive
+- **Key facts:** BMW Championship Round 1 underway at Bellerive Country Club St. Louis (par 70, 7,448 yds); 49-player field (Straka withdrew); top 30 advance to East Lake Aug 27-30; Scheffler leads FedExCup with 4,873 pts (~1,400 ahead of No. 2 Fitzpatrick); won St. Jude by 8 shots; McIlroy ranked No. 13 (safe), worked with coach Michael Bannon after 66th at St. Jude; Bellerive last hosted BMW in 2008 (Villegas won); bentgrass bunkers resodded; bubble drama at positions 28-35
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** BMW Championship R1 scores; bubble tracker positions 28-35; Scheffler R1 round
+
+### STORY 2: CPKC Women's Open Round 1
+- **Tier:** 1
+- **Category:** LPGA / CPKC Women's Open / Nelly Korda / Brooke Henderson / Lydia Ko / Royal Mayfair / Edmonton
+- **Key facts:** 52nd CPKC Women's Open Round 1 underway at Royal Mayfair GC Edmonton Alberta; par 70, 6,452 yds; $2.75M purse; Korda World No. 1 (+440 favorite), 4 wins/3 majors in 2026 (Chevron, Riviera May Open, U.S. Women's Open); Henderson defending (won 2025 Mississaugua closing -4 67, beat Minjee Lee by 1 for 14th LPGA title); Ko chasing record 4th title (first win 2013 at Royal Mayfair as 15-year-old amateur, youngest LPGA winner in history at time); 15-player Canadian contingent (largest ever); 75,000-80,000 spectators projected; free admission Thu/Fri for Canadian residents; also in field: Hyo Joo Kim, Miyu Yamashita, Ruoning Yin, Hannah Green, Minjee Lee
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** CPKC Women's Open R1 scores; Korda first-round leaderboard position; Henderson home crowd energy
+
+### STORY 3: LIV Golf Indianapolis Round 1
+- **Tier:** 2
+- **Category:** LIV Golf / Indianapolis / Jon Rahm / 4Aces GC / Ripper GC / Pete Dye / Chatham Hills
+- **Key facts:** LIV Golf Indianapolis Round 1 underway at The Club at Chatham Hills Westfield Indiana (Pete Dye's final design before death 2020); Rahm individual champion for 3rd straight year (title clinched before event); 4Aces GC (Dustin Johnson, Thomas Pieters, Thomas Detry, Anthony Kim) leads Ripper GC (Cameron Smith, Marc Leishman, Lucas Herbert, Elvis Smylie) by 2.25 pts for team championship; Legion XIII in third; entertainment: Thomas Rhett Friday, Disco Lines Saturday; 54-hole format concludes Saturday
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** LIV Indianapolis R1 scores; team championship standings; final result Sunday
+
+### STORY 4: LIV Golf Financial Crisis (Follow-up)
+- **Tier:** 2
+- **Category:** LIV Golf / Saudi PIF / Financial Crisis / Prize Money / Fresh Tape Media Lawsuit
+- **Key facts:** Saudi PIF confirms ending financial backing after 2026 (~$5B invested since 2022 launch); Indianapolis prize cut from $20M to $10.1M (winner $2.02M vs. prior $4M); Michigan Team Championship cancelled; ~$60M in promised prize money not delivered across 2026; Fresh Tape Media lawsuit filed July 21 in New York Supreme Court seeking $1.23M+ for unpaid fees (LIV Golf Week Jan 12-14 West Palm Beach); players reportedly awaiting payments; circuit still operational through 2026; merger talks with PGA Tour ongoing
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** PGA Tour merger developments; LIV post-2026 organizational plans; player guaranteed contract status
+
+### STORY 5: FedExCup East Lake Bubble Watch
+- **Tier:** 2
+- **Category:** PGA Tour / FedExCup / East Lake / BMW Championship / Bubble
+- **Key facts:** Tour Championship at East Lake Aug 27-30; top 30 after BMW Championship advance; Scheffler safe (4,873 pts, ~1,400 lead); McIlroy safe (No. 13); Schauffele safe (No. 11); Hovland safe (No. 22); Straka WD (No. 5) shifts bubble math; positions 28-35 contested; players ranked 31-40 need results this week; top-10 finish dramatically moves bubble; East Lake uses strokes-based handicap reset for all 30 qualifiers
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** BMW Championship final standings; bubble confirmation after R4; East Lake qualifiers list
+
 ## 2026-08-19
 
 | Date | Tier | Story | Platforms | Status |
