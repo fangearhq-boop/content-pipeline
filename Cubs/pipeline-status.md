@@ -1,43 +1,42 @@
-# Cubs Pipeline Status — Updated 2026-08-19
+# Cubs Pipeline Status — Updated 2026-08-20
 
 ## Latest Run
-- **Date:** 2026-08-19 (Wednesday)
+- **Date:** 2026-08-20 (Thursday — OFF DAY)
 - **Run time:** ~09:00 UTC
-- **Stories:** 6
-- **X posts:** 6
+- **Stories:** 7
+- **X posts:** 7
 - **Platforms:** X/Twitter only
 - **Status:** ✅ Complete
 
-## Insights Summary (2026-08-19)
-- **Snapshot generated:** 2026-08-19T08:30:00Z (fresh, 30 min before trigger)
-- **measured_tweet_count:** 125
+## Insights Summary (2026-08-20)
+- **Snapshot generated:** 2026-08-20T08:30:00Z (fresh, 30 min before trigger)
+- **measured_tweet_count:** 123
 - **Significant findings (1):**
-  1. `has_score=False` beats `has_score=True` — **small** effect (Cliff's delta=0.298, p=0.0052, n=77 vs 48, median impressions 110 vs 81)
-     - **Applied:** All game-recap/result tweets drafted without scores. Cubs 4-3 Game 2 result referenced by describing Bregman's walk-off moment, NOT the score. Finding persists for fourth consecutive day with stronger p-value (0.0052 vs 0.0069 yesterday).
-- **Note:** Same dimension as yesterday (`has_score`). Effect size slightly increased (0.298 vs 0.289). n_winner grew to 77 (from 76). Signal is strengthening, not weakening.
+  1. `has_score=False` beats `has_score=True` — **small** effect (Cliff's delta=0.253, p=0.0207, n=79 vs 44, median impressions 108 vs 81.5)
+     - **Applied:** Game 3 recap tweet omits score "White Sox 3, Cubs 0." Focuses on Urquidy's dominant pitching line (8 K, 0 BB, 2 H) and Holmes' outing. Off-day — no other score-containing stories applicable.
+- **Note:** Same `has_score` dimension for 5th consecutive day. Effect size slightly decreased from prior days (0.253 vs 0.298) and p-value slightly higher (0.0207 vs 0.0052), but measured_tweet_count also dropped 2 (123 vs 125). Still the only dimension clearing all three gates. Actionable.
 
-## Series Context (2026-08-19)
-- `is_series_start_today`: FALSE — mid-series vs White Sox (Game 3 of 3, final game)
-- `off_day`: FALSE — Game 3 at 1:20 PM CT at Wrigley Field
-- Cubs record: 74-53 | White Sox: 65-60
-- Probable pitchers: Sean Newcomb LHP (Cubs) vs Clay Holmes RHP (White Sox, 5-5, 2.56 ERA)
-- Applied: No series-preview slot. 7:00 AM used for Game 2 recap (Bregman walk-off). Sweep-hunt framing for Game 3 preview.
+## Series Context (2026-08-20)
+- `is_series_start_today`: FALSE
+- `off_day`: TRUE — no Cubs game today
+- Next game: at Seattle Mariners, Friday Aug 21, 9:10 PM CT
+- Applied: No series-preview slot (off day, not series start). No game-time or recap slots used. Content pivots to: recap, roster updates, standings, prospect pipeline.
 
-## Today's Content (2026-08-19)
+## Today's Content (2026-08-20)
 | Slot | Story | Tier |
 |------|-------|------|
-| 7:00 AM CT | Game 2 recap — Bregman walk-off, 13 Wrigley walk-offs this season (ML-leading) | 1 |
-| 8:15 AM CT | Walk-off culture bold take — 13 at Wrigley, MLB-leading, lineup identity | 1 |
-| 9:30 AM CT | Gausman injury update — glove-hand cramp, not throwing hand; next start expected | 2 |
-| 10:45 AM CT | NL standings + Cardinals jab — Cubs WC1, Cards 13.5 GB, 4 back of Brewers | 2 |
-| 12:00 PM CT | Game 3 preview — Newcomb vs Holmes, 1:20 PM CT, sweep hunt | 1 |
-| 1:15 PM CT | First pitch hype — 5 min to game, fly the W three times | 1 |
+| 7:00 AM CT | Game 3 recap — Urquidy shuts out Cubs (8 K, 0 BB), Holmes 5.1 IP, series splits 3-3 | 1 |
+| 8:15 AM CT | Cardinals reality check — won 2 of 3 in August series, still 13.5 GB | 2 |
+| 9:30 AM CT | Swanson Grade 2 oblique — 4-week target, mid-September return, healthy for October | 2 |
+| 10:45 AM CT | Wild Card standings — Cubs WC1, Phillies ~5 back, 7 H2H Brewers games left | 2 |
+| 12:00 PM CT | Jaxon Wiggins relief debut — 98 mph, September callup case builds | 2 |
+| 1:15 PM CT | PCA off-day take — 30 HR / 31 SB / .938 OPS at 24, NL MVP case | 2 |
+| 2:30 PM CT | Steele and Brown bullpen progress — two potential October arms | 3 |
 
-## Cubs Record as of 2026-08-19 (before today's game)
-- **Record:** 74-53 (No. 1 NL Wild Card)
-- **NL Central gap:** 4 GB behind Brewers (77-48)
-- **NL WC gap:** ~5 games over Phillies/Padres (exact records not confirmed this AM)
-- **White Sox series:** Cubs lead 2-0, going for sweep today
+## Cubs Record as of 2026-08-20
+- **Record:** ~74-54 (No. 1 NL Wild Card; after Aug 19 loss)
+- **NL Central gap:** ~4-4.5 GB behind Brewers (~77-49)
+- **NL WC gap:** ~4-5 games over Phillies for WC1
 
 ---
 

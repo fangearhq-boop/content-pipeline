@@ -5,6 +5,62 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-20
+
+### STORY 1: Game 3 Recap — White Sox Shut Out Cubs, Series Splits 3-3
+- **Angle:** NEW STORY (White Sox 3, Cubs 0. José Urquidy entered in 3rd: 8 K, 0 BB, 2 H allowed. Clay Holmes 5.1 IP, 1 ER — solid but no run support. Tyrone Taylor 2-for-? only Cubs with hits. First White Sox shutout at Wrigley since Aug 2021. Score omitted per has_score=False insight.)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - Holmes next start result
+  - West Coast trip at Mariners starting Aug 21
+
+### STORY 2: Cardinals Reality Check — Won the Series, Still 13.5 Back
+- **Angle:** FOLLOW UP (Cardinals won 2 of 3 vs Cubs in August; still 13.5 GB in NL Central. Rival jab: winning August games doesn't make you a contender. Chicago's focus is October.)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold/rival)
+- **Follow-Up Opportunities:**
+  - Cardinals vs Brewers game result (peripheral)
+
+### STORY 3: Dansby Swanson Update — Grade 2 Oblique, 4-Week Return Target
+- **Angle:** FOLLOW UP (First covered Aug 17; MRI now confirmed Grade 2 left oblique. Target: 4 weeks = mid-September return. Healthy for October per Counsell. Hoerner at SS, Ramírez at 2B.)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, injury update)
+- **Follow-Up Opportunities:**
+  - Swanson first rehab game / activation date (mid-September)
+
+### STORY 4: Wild Card Standings — Cubs Hold WC1, 7 H2H Brewers Games Left
+- **Angle:** FOLLOW UP (Cubs ~74-54, NL WC1; Phillies ~5 GB; Brewers ~4 GB ahead in division. Seven remaining H2H games vs Brewers Aug 31-Sep 3, Sep 7-9.)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, standings/analysis)
+- **Follow-Up Opportunities:**
+  - Brewers-Cubs series preview (Aug 31 start)
+
+### STORY 5: Jaxon Wiggins Relief Debut — September Callup Case Building
+- **Angle:** NEW STORY (No. 2 Cubs prospect makes first Iowa relief appearance. 1 IP, 0 H, 0 R, 2 K. Tops 98 mph. Role shift to bullpen as path to September callup. Control issues as starter now manageable in short stints.)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, prospect)
+- **Follow-Up Opportunities:**
+  - Wiggins official September callup announcement
+
+### STORY 6: PCA Appreciation — 30 HR / 31 SB / .938 OPS at 24
+- **Angle:** FOLLOW UP (Last covered Aug 18 as milestone; fresh peg = off-day bold take; PCA locked in first-ever consecutive 30-30 Cubs seasons; .938 OPS; NL MVP case for September focus)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, bold/stat)
+- **Follow-Up Opportunities:**
+  - PCA 31st HR / 35 SB milestones ahead
+  - MVP award coverage (October/November)
+
+### STORY 7: Steele and Brown Bullpen Progress — October Reinforcements
+- **Angle:** FOLLOW UP (Steele targeting September bullpen return from elbow flexor strain; Brown pain-free, bullpen sessions; neither starter-bound but extra October arms matter)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, roster/informative)
+- **Follow-Up Opportunities:**
+  - Steele first MLB bullpen appearance date
+  - Brown activation from IL
+
+---
+
 ## 2026-08-19
 
 ### STORY 1: Game 2 Recap — Bregman Walk-off, Cubs 4-3 (Omitted per Insight)
