@@ -5795,3 +5795,44 @@
 - **Key facts:** Giannis told NBA Europe he will "dominate" the rest of the league in Miami; 2x MVP, 10x All-Star, age 31; joins Bam Adebayo and Andrew Wiggins in Miami; Herro viral reaction "Y'all Did Lost Your Motherf--king Mind"; Christmas Day: Heat vs. Celtics; $275M supermax eligible Jan 6 2027
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Heat training camp; Christmas Day matchup buildup; supermax extension (Jan 2027)
+
+| 2026-08-20 | T1 | Wemby vs. Jokic — France Takes on Serbia TONIGHT in Belgrade (Game Day) | X, FB, Article | NEW |
+| 2026-08-20 | T1 | Kawhi Leonard — NBA Cleared Leonard Personally, Trade to Toronto Nearing | X, FB, Article | FOLLOW UP |
+| 2026-08-20 | T2 | Stephen Curry Extension — 9 Days to August 29 Window | X, FB, Article | FOLLOW UP |
+| 2026-08-20 | T2 | Anthony Edwards' Bold Take — "We're Going to Beat" Thunder and Spurs | X, FB, Article | FOLLOW UP |
+| 2026-08-20 | T2 | NBA Training Camp Guide — Every Key Date for 2026-27 Season | X, FB, Article | NEW |
+
+### STORY 1: Wemby vs. Jokic — France vs. Serbia TONIGHT in Belgrade
+- **Tier:** 1
+- **Category:** FIBA / San Antonio Spurs / Victor Wembanyama / France National Team
+- **Key facts:** France vs. Serbia Belgrade Aug 20 at 8 PM local (2 PM ET); Wembanyama named captain; first France game since 2024 Olympic final; Wemby quote "I do not miss the NBA right now, but I miss FIBA basketball"; Serbia has Nikola Jokic; France has Gobert + Fournier; coach Frederic Fauthoux (first time coaching Wemby); France schedule: Serbia x2 (Aug 20, 23), Slovenia (Aug 27), Sweden (Aug 30)
+- **Status:** NEW
+- **Follow-up ideas:** Game result; Serbia game 2 (Aug 23); qualifier results; Spurs training camp
+
+### STORY 2: Kawhi Leonard — NBA Cleared Leonard Personally
+- **Tier:** 1
+- **Category:** NBA Investigation / Kawhi Leonard / Los Angeles Clippers / Toronto Raptors
+- **Key facts:** NBA found no evidence Ballmer funneled money to Leonard (multiple sources); investigation into Daktronics deal ongoing; sanctions against Clippers expected but not Leonard; trade (Leonard to Toronto for Ingram + Dick + picks) moving closer; Toronto camp Sept 28 Quebec City; resolution expected within weeks of Aug 10 (~Sept 22)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official sanction announcement; trade completion; Toronto camp update
+
+### STORY 3: Stephen Curry Extension — 9 Days
+- **Tier:** 2
+- **Category:** NBA Contracts / Golden State Warriors / Stephen Curry
+- **Key facts:** Window opens Aug 29 (9 days); expected 2yr/$136.7M max; through age-40 season; GM Dunleavy "pretty confident" Curry finishes career as Warrior; mutual interest confirmed (ESPN Slater); UFA risk if not signed (first time ever); Christmas Day: Nuggets vs. Warriors
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Extension signing announcement (expect Aug 29); Warriors preseason
+
+### STORY 4: Edwards' Bold Take — "We're Going to Beat Them"
+- **Tier:** 2
+- **Category:** NBA Offseason / Minnesota Timberwolves / Anthony Edwards / LaMelo Ball
+- **Key facts:** Edwards told ESPN Timberwolves will beat Thunder and Spurs; Edwards led NBA with 157 clutch points in 2024-25; trade terms confirmed: Ball + Josh Green for Reid + 2033 unprotected 1st + 3 pick swaps + 3 seconds; analysts say LaMelo frees Edwards as off-ball weapon
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Training camp chemistry; regular season opener; playoff run
+
+### STORY 5: NBA Training Camp Guide 2026-27
+- **Tier:** 2
+- **Category:** NBA Season Preview / Training Camp
+- **Key facts:** Overseas teams: Sept 22; all others: Sept 29; preseason games Oct 3; Toronto Media Day Sept 28 Quebec City (Université Laval); Sixers preseason: Oct 5 vs Knicks, Oct 8 at Nets, Oct 10 at Celtics, Oct 16 vs Celtics; regular season opener Oct 20 (76ers at Knicks MSG)
+- **Status:** NEW
+- **Follow-up ideas:** Camp day 1 coverage; roster cuts; preseason game results
