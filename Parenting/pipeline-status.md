@@ -1,5 +1,27 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: August 21, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Vevor baby loungers (CPSC recall, entrapment/fall, Nov 2024–Jan 2026, ~$30, Amazon/VEVOR.com/Wayfair); CooCooBaby baby loungers (~2,355 units, suffocation/fall); D20 wrapping week 1 (started Aug 17–18), D11 week 2 (started Aug 12), D49 week 3+ (started Aug 3–4); Labor Day Lift Off (50th annual, Sep 5–7, Memorial Park, free, $15 parking pre-order, ~200K expected); North Pole Santa's Workshop (5050 Pikes Peak Hwy Cascade, Fri–Sun 10AM–5PM, $35 wristband ages 3–59, 2-and-under free); CDC/AAP Pediatrics study (flu vaccines reduce child death risk 80%), 2026–27 febrile seizure update for under-5 injectable vaccines |
+| Story History Check | COMPLETE | S1 new (Vevor/CooCooBaby — different from Aug 20 PIXLABBY/Wnttmt/Michley recalls); S2 new (school week 1 wrap-up — different angle from Aug 20 D20 start story); S3 new (Labor Day Lift Off preview — not covered before); S4 new (North Pole weekend guide); S5 new (CDC flu vaccine study — different from Aug 20 NICU mental health study) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2); bylines: Jamie Rivera (S1, S3, S5), Sarah Morales (S2, S4) |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: CPSC.gov, northpolecolorado.com, visitcos.com, AAP Pediatrics Vol. 158, AAP News August 2026, district websites |
+| Story Analysis | COMPLETE | 02-story-analysis.md — 5 story sections with angles, tiers, COS voice checks |
+| X Posts | COMPLETE | 03-social-posts-x.md — 8 posts (S1: 2, S2: 1, S3: 2, S4: 1, S5: 2); all ≤280 chars; 4 hashtags each; max 1 exclamation mark per post |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; NO hashtags; COS voice; contractions throughout |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts; 1200×675 (social) + 1200×630 (FB); clean bottom third; no celebrity likenesses or brand logos |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries (5 stories × 2); all not_started; gemini base_only; kAHCKfCZgk0 |
+| Articles | COMPLETE | 5 articles (500-1000 words; semantic HTML5; What's Next sections; 0 exclamation marks; no figure tags; no photo credits); bylines: Jamie Rivera (A1, A3, A5), Sarah Morales (A2, A4) |
+| Fact-Check | COMPLETE | verify-facts.py — 75 claims (98 HIGH, 26 MEDIUM, 43 LOW); image manifest cosmetic warnings (known parser limitation); story-analysis format warnings (cosmetic) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 0 FB posts (parser compat known issue), 5 articles, 23 items |
+| Dashboard | COMPLETE | review-dashboard.html — 23 items |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-08-21.xlsx (8 posts 13:18–20:53 MT) + cosp-postplanner-tobi-2026-08-21.xlsx (8 TOBI posts) |
+| WordPress Publish | ATTEMPTED | WP credentials not configured in environment (same as all prior runs) |
+| Dashboard Push | ATTEMPTED | proxy lacks write access to content-dashboards repo (same as all prior runs) |
+| Git Commit/Push | COMPLETE | committed and pushed to main |
+
 ## Latest Run: August 20, 2026
 
 | Step | Status | Notes |

@@ -2,6 +2,53 @@
 
 ---
 
+## August 21, 2026
+
+### Story 1: CPSC Recalls Multiple Amazon Baby Loungers — Vevor and CooCooBaby
+- **Date:** 2026-08-21
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recalled Vevor Baby Loungers (sold Nov 2024–Jan 2026, ~$30, Amazon/VEVOR.com/Wayfair, entrapment and fall hazards) and CooCooBaby Baby Loungers (~2,355 units, suffocation and fall hazards). Part of broader August 2026 CPSC sweep of Amazon baby lounger category. Stop use immediately. CPSC.gov for remedy.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** Vevor — sold Nov 2024–Jan 2026, ~$30, VEVOR.com/Amazon/Wayfair, entrapment/fall hazard; CooCooBaby — ~2,355 units, suffocation/fall hazard; source: CPSC.gov
+
+### Story 2: First Week Down — COS School District Check-In and Week 2 Tips
+- **Date:** 2026-08-21
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (different angle from Aug 20 D20 start story) — D20 wraps first full week today (started Aug 17–18). D11 completing week 2 (started Aug 12). D49 in week 3+ (started Aug 3–4). Friday check-in for COS parents with practical week 2 tips. Resources: Pikes Peak Mental Health Center 719-572-6100, d11.org, d20.org, d49.org.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (MEDIUM):** D49 start Aug 3–4; D11 start Aug 12; D20 stagger Aug 17 (K/6th/9th), Aug 18 (all others); D11 ~25,000 students; D20 ~28,000 students, 45+ schools
+
+### Story 3: Labor Day Lift Off Preview — 50th Annual, Memorial Park, Sep 5–7
+- **Date:** 2026-08-21
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — 50th annual Labor Day Lift Off at Memorial Park, Colorado Springs, September 5–7, 2026. Free admission. Parking pre-order $15. ~200,000 expected. Hot air balloons, music, food. Two-week-out preview for major COS family event.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** Sep 5–7, 2026; Memorial Park, Colorado Springs; free admission; $15 parking pre-order; 50th annual; ~200,000 expected
+
+### Story 4: North Pole Santa's Workshop — Weekend Family Guide
+- **Date:** 2026-08-21
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — North Pole open Fri–Sun this weekend. 5050 Pikes Peak Hwy, Cascade, CO 80809. Hours: 10 AM–5 PM MT (last wristband 4:15 PM). $35 ride wristband ages 3–59. Kids 2 and under free with paying adult. Free entry. Closed Tue/Wed. northpolecolorado.com.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** 5050 Pikes Peak Hwy Cascade CO 80809; 10 AM–5 PM MT; last wristband 4:15 PM; $35 wristband ages 3–59; 2-and-under free; free entry; closed Tue/Wed
+
+### Story 5: CDC Study — Flu Vaccines Reduce Children's Death Risk by 80%
+- **Date:** 2026-08-21
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CDC study in AAP Pediatrics: flu vaccines reduce children's and teens' risk of dying from flu by 80%. 2026–27 update: injectable flu vaccines carry updated prescribing info for under-5 (febrile seizure risk from postmarketing studies 2023–24 and 2024–25). AAP still recommends vaccination. Action: talk to pediatrician before September. COS options: UCHealth, Centura, CVS/Walgreens.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** 80% flu death risk reduction (CDC study in Pediatrics); updated febrile seizure warning for under-5 injectable vaccines; AAP recommends flu shots all kids 6 months+; source: AAP Pediatrics Vol. 158, AAP News Aug 2026
+
 ## August 20, 2026
 
 ### Story 1: Weekend Family Roundup — Things to Do with Kids in COS This Weekend (Aug 21–23)

@@ -1,0 +1,376 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-21",
+  "compiled_at": "2026-08-21T12:47:59.947255+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "S1 CPSC Recall Alert",
+      "type": "X/Twitter"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "S1 CPSC Recall Details",
+      "type": "X/Twitter"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "S2 School Week Check-In",
+      "type": "X/Twitter"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "S3 Labor Day Lift Off Preview",
+      "type": "X/Twitter"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "S4 North Pole Weekend Guide",
+      "type": "X/Twitter"
+    },
+    {
+      "time": "6:30 PM",
+      "description": "S3 Labor Day Lift Off Details",
+      "type": "X/Twitter"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "S5 Flu Vaccine Study",
+      "type": "X/Twitter"
+    },
+    {
+      "time": "9:00 PM",
+      "description": "S5 Flu Vaccine Update",
+      "type": "X/Twitter"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "CPSC Recalls Multiple Amazon Baby Loungers — Suffocation and Fall Hazards",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "CPSC recalled Vevor Baby Loungers (sold Nov 2024–Jan 2026, ~$30, Amazon/VEVOR.com/Wayfair) and CooCooBaby Baby Loungers (~2,355 units) for entrapment, suffocation, and fall hazards. Safety-first Tier 1 story.",
+      "posting_window": "8:00 AM – 10:00 AM MT",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "⚠️ RECALL: Multiple Amazon baby loungers recalled by CPSC — suffocation and fall hazards. Brands include Vevor and CooCooBaby. If you have a baby lounger bought online in the last 18 months, check CPSC.gov now. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "8:00 AM – 10:00 AM MT",
+          "tweet_type": "Safety Recall",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 270
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Vevor baby loungers: sold Nov 2024–Jan 2026, ~$30 on Amazon, VEVOR.com, and Wayfair. CooCooBaby loungers: ~2,355 units recalled. Hazards: entrapment, suffocation, and fall. Stop use and visit CPSC.gov for remedy details. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "8:00 AM – 10:00 AM MT",
+          "tweet_type": "Safety Recall",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 280
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM – 10:00 AM MT"
+      },
+      "article": {
+        "filename": "article-01-cpsc-baby-lounger-recalls-vevor-coocoobaby.html",
+        "headline": "CPSC Recalls Multiple Amazon Baby Loungers Over Suffocation and Fall Hazards",
+        "word_count": 658
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1200x675)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Facebook (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "First Week Down — COS School District Check-In and Week 2 Tips",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "D20 wraps its first full week today (started Aug 17–18). D11 completing week 2 (started Aug 12). D49 in week 3+ (started Aug 3–4). Parent check-in + week 2 adjustment tips across all three districts.",
+      "posting_window": "12:00 PM MT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "All three COS districts are into their first or second full week of school. D49 started Aug 3–4, D11 started Aug 12, and D20 wrapped its first full week today. How's back-to-school going at your house? #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "12:00 PM MT",
+          "tweet_type": "Local News",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:00 PM MT"
+      },
+      "article": {
+        "filename": "article-02-cos-back-to-school-week-one-check-in.html",
+        "headline": "First Week of School Is Almost Done for D20 — Here's How All Three COS Districts Are Doing",
+        "word_count": 638
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1200x675)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Facebook (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Labor Day Lift Off Preview — 50th Annual Event at Memorial Park, Sep 5–7",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "50th annual Labor Day Lift Off at Memorial Park, Sep 5–7. Free admission, hot air balloons, ~200,000 expected. Pre-order parking $15. Two-week preview for major COS family event.",
+      "posting_window": "3:00 PM – 6:30 PM MT",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "🎈 The 50th annual Labor Day Lift Off is coming to Memorial Park — Sep 5–7, 2026. Free admission. Hot air balloons, music, food, and ~200,000 of your neighbors. Pre-order parking for $15. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "3:00 PM – 6:30 PM MT",
+          "tweet_type": "Local Events Preview",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 246
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Labor Day Lift Off at Memorial Park (Sep 5–7): arrive early, bring chairs, and expect big crowds. It's free to attend — but parking fills fast. Pre-order your spot online for $15. Two weeks to go! #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "3:00 PM – 6:30 PM MT",
+          "tweet_type": "Local Events Preview",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:00 PM – 6:30 PM MT"
+      },
+      "article": {
+        "filename": "article-03-labor-day-lift-off-preview-2026.html",
+        "headline": "50th Annual Labor Day Lift Off Returns to Memorial Park — What Colorado Springs Families Need to Know",
+        "word_count": 764
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1200x675)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Facebook (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "North Pole Santa's Workshop — Weekend Family Guide",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "North Pole open Fri–Sun this weekend. 5050 Pikes Peak Hwy, Cascade. 10 AM–5 PM MT. $35 ride wristband ages 3–59. Kids 2 and under free. Classic COS family outing near Pikes Peak.",
+      "posting_window": "5:00 PM MT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Open this weekend: North Pole — Santa's Workshop at 5050 Pikes Peak Hwy, Cascade. Fri–Sun, 10 AM–5 PM MT. Ride wristbands $35 (ages 3–59). Kids 2 and under free with a paying adult. 🎄 #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "5:00 PM MT",
+          "tweet_type": "Local Events Guide",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:00 PM MT"
+      },
+      "article": {
+        "filename": "article-04-north-pole-santas-workshop-weekend-guide.html",
+        "headline": "North Pole Santa's Workshop Is Open This Weekend — Your Colorado Springs Family Guide",
+        "word_count": 678
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1200x675)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Facebook (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "CDC Study — Flu Vaccines Cut Children's Death Risk by 80%",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "CDC study in Pediatrics: flu vaccines cut children's flu death risk by 80%. 2026–27 update: injectable vaccines carry new febrile seizure warning for under-5. AAP still recommends vaccination. Talk to pediatrician before September.",
+      "posting_window": "8:00 PM – 9:00 PM MT",
+      "x_posts": [
+        {
+          "label": "Post 5-1",
+          "text": "CDC study in Pediatrics: flu vaccines reduce children's risk of dying from flu by 80%. The AAP recommends flu shots for all kids 6 months and older — every year, starting as early as September. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "8:00 PM – 9:00 PM MT",
+          "tweet_type": "National Parenting / Health",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 253
+        },
+        {
+          "label": "Post 5-2",
+          "text": "New for 2026–27: injectable flu vaccines have updated warnings for kids under 5 (febrile seizure risk from postmarketing data). The AAP still recommends vaccination — talk to your pediatrician about the best option. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "8:00 PM – 9:00 PM MT",
+          "tweet_type": "National Parenting / Health",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 PM – 9:00 PM MT"
+      },
+      "article": {
+        "filename": "article-05-cdc-flu-vaccine-study-children-death-risk.html",
+        "headline": "Flu Vaccines Reduce Children's Death Risk by 80%, CDC Study Finds — What Colorado Springs Parents Need to Know for 2026–27",
+        "word_count": 846
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1200x675)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Facebook (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
