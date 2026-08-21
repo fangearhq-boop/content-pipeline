@@ -3,6 +3,63 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-08-21
+
+### Story 1: AUSL All-Star Cup — Draft Is Tomorrow, Kowalik Lead, Final 10 Days
+- **Date:** 2026-08-21
+- **Tier:** 1
+- **Classification:** FOLLOW UP (draft Aug 22 tomorrow; Series 3 opens Aug 24; Kowalik No. 1; Romero +42 No. 9; Lemley +26; individual champion Aug 30)
+- **Angle:** Non-captain perspective — what Romero and Lemley need in Series 3 to challenge Kowalik. Final 10 days math. Draft context and standings mechanics.
+- **Content Produced:** Article (article-01, Emily Rawlings), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Series 3 draft results (Aug 22)
+  - Series 3 Day 1 (Aug 24)
+  - Individual standings post-Series 3
+
+### Story 2: September 1 Countdown — 11 Days, Two-Phase Window (Sept 1 + Sept 9)
+- **Date:** 2026-08-21
+- **Tier:** 2
+- **Classification:** FOLLOW UP (daily countdown; NEW angle: two-phase window — Sept 1 communication, Sept 9 in-person contact at 7 AM ET)
+- **Angle:** Sept 1 opens D1 calls/texts/emails; Sept 9 at 7 AM ET opens in-person contact and official visits. Families preparing only for Sept 1 may miss the Sept 9 visit-scheduling window.
+- **Content Produced:** Article (article-02, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - 10 days (Aug 22)
+  - Sept 1 arrival coverage
+
+### Story 3: USA WNT — 22 Days, Group Oklahoma Format and Path to Brisbane
+- **Date:** 2026-08-21
+- **Tier:** 2
+- **Classification:** FOLLOW UP (corrections: Group Oklahoma not Group C; Redcliffe QLD not Brisbane; 6 teams not 3; Brazil + NZ also in group)
+- **Angle:** Group Oklahoma format explained — 6 teams, top 2 to Redcliffe QLD Finals (April 5-11 2027), LA28 qualifier. USA ranked No. 2. Netherlands/China upset potential. 4 OU players.
+- **KEY CORRECTIONS:** "Group C" → "Group Oklahoma" | "Brisbane Finals" → "Redcliffe, Queensland" | full group: Netherlands, Mexico, China, Brazil, New Zealand
+- **Content Produced:** Article (article-03, Sarah Mitchell), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Schedule/bracket preview
+  - Opening game preview (21 days Aug 22)
+
+### Story 4: Oklahoma Softball — Summer Portal Window Closing, Harter Added
+- **Date:** 2026-08-21
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Harter stats confirmed HIGH: .346 BA, 7 HR, 23 RBI, 2nd Team All-CUSA; summer window closing)
+- **Angle:** Harter adds depth for 2027. Westra (No. 2) + Mailo (No. 4, on campus) class foundation. Pickering at TTU. Portal window closing.
+- **NEW FACT:** Macie Harter stats verified: .346 BA, 7 HR, 23 RBI, Second Team All-Conference USA (MTSU), two years eligibility
+- **Content Produced:** Article (article-04, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Portal window close date
+  - Fall camp announcement
+
+### Story 5: Texas Three-Peat — Historical Rarity Context
+- **Date:** 2026-08-21
+- **Tier:** 3
+- **Classification:** FOLLOW UP (historical framing; only UCLA 1988-90 and OU 2021-23 achieved three-peat)
+- **Angle:** Only 2 programs in modern era won 3 straight WCWS. Texas chasing history. Kavan 2x MOP anchor. 11 new additions.
+- **Content Produced:** Article (article-05, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Fall camp updates
+  - Season preview (Feb 2027)
+
+---
+
 ## 2026-08-20
 
 ### Story 1: AUSL All-Star Cup — Series 3 Draft Tomorrow
