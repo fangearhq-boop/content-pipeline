@@ -1,6 +1,18 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
+- **Date**: 2026-08-21
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 8 written, all under 280 characters (Story 3 tweet 1 trimmed 281→260 after verify-facts.py)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres)
+- **PostPlanner exports:** gfr-postplanner-2026-08-21.xlsx (8 posts) + gfr-postplanner-tobi-2026-08-21.xlsx (8 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-08-21/review-dashboard.html (28 items)
+- **Notes:** MCILROY 64 BMW R1 — McIlroy shoots 64 (-6) at Bellerive to co-lead BMW Championship; five-way tie at -6 (McIlroy, Woodland, Clark, Spaun, Gotterup); Scheffler +2 (T44), 8 shots back; McIlroy went from 66th at St. Jude to co-lead in one week; Bellerive par 70 7,448 yds (RTJ Sr.); R2 in progress Friday; Scheffler FedExCup position safe (4,873 pts); CPKC WOMEN'S OPEN R1 — Yamashita (Japan) leads at -8; Hataoka -7; Romero -6; Korda (World No. 1) at -3 with 67, three shots back; Henderson defending (14th LPGA title 2025 vs. Minjee Lee by 1); Ko chasing 4th title (first win 2013 Royal Mayfair age 15, youngest LPGA winner ever at time); 15 Canadian players (record); $2.75M purse; par 70 6,452 yds Stanley Thompson; R2 Friday; LIV INDIANAPOLIS FINALE — Rahm wins Indianapolis event + clinches 3rd consecutive LIV Individual Season Championship (locked up at LIV New York with 944.54 pts); event at Chatham Hills Westfield Indiana (Pete Dye's final design); purse $10.1M (halved from $20M); winner $2.02M; 4Aces GC (DJ/Pieters/Detry/A.Kim) led Ripper GC (Smith/Leishman/Herbert/Kaufman) by 2.25 pts for team title; Saudi PIF ending direct backing after 2026; FEDEXCUP BUBBLE — Woodland entered BMW at 31st (outside top 30); shot 64 (-6) with hole-out eagle, 5 birdies, 1 bogey to co-lead; Fowler at exactly 30th (last qualifying spot); Cauley 29th; bubble math shifted dramatically after R1; top 30 after BMW advance to East Lake Aug 27-30; SCHEFFLER +2 BMW — Scheffler opens at +2 (T44), 8 shots back; safely into East Lake; needs extraordinary 3-round charge for BMW title
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+## Previous Run
 - **Date**: 2026-08-20
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)

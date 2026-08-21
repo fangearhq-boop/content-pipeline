@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-08-21
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-08-21 | T1 | McIlroy 64 Co-Leads BMW Championship R1 — Five-Way Tie at -6; Scheffler +2 (T44) at Bellerive | X, FB, Article | NEW |
+| 2026-08-21 | T1 | Yamashita Leads CPKC Women's Open at -8 — Hataoka -7, Korda -3 After R1 at Royal Mayfair Edmonton | X, FB, Article | NEW |
+| 2026-08-21 | T1 | Rahm Wins LIV Indianapolis, Clinches Third Consecutive Individual Season Title | X, FB, Article | NEW |
+| 2026-08-21 | T2 | FedExCup Bubble — Woodland's 64 Reshapes East Lake Race; Fowler at Exactly 30th | X, FB, Article | NEW |
+| 2026-08-21 | T2 | Scheffler Opens BMW at +2 — East Lake Safe, Title Charge Needed | X, FB, Article | NEW |
+
+### STORY 1: McIlroy 64 Co-Leads BMW Championship R1
+- **Tier:** 1
+- **Category:** PGA Tour / BMW Championship / FedExCup Playoffs / Rory McIlroy / Bellerive / Scottie Scheffler
+- **Key facts:** McIlroy shoots 64 (-6) at Bellerive Country Club to co-lead BMW Championship R1; five-way tie at -6 (McIlroy, Gary Woodland, Wyndham Clark, J.J. Spaun, Chris Gotterup); Scheffler opens at +2 (T44), 8 shots back; Bellerive par 70, 7,448 yds (Robert Trent Jones Sr.); McIlroy came from 66th at St. Jude (8-over); R2 in progress Friday; top 30 after BMW advance to East Lake Aug 27-30
+- **Status:** NEW
+- **Follow-up ideas:** BMW Championship R2 scores; McIlroy weekend position; Scheffler recovery attempt
+
+### STORY 2: CPKC Women's Open R1 — Yamashita Leads
+- **Tier:** 1
+- **Category:** LPGA / CPKC Women's Open / Miyu Yamashita / Nelly Korda / Brooke Henderson / Lydia Ko / Royal Mayfair / Edmonton
+- **Key facts:** Yamashita (Japan) leads at -8 after R1 at Royal Mayfair GC Edmonton (par 70, 6,452 yds, Stanley Thompson design); Hataoka one back at -7; Kiara Romero -6; Korda (World No. 1) at -3 with 67, three shots back; Henderson defending (14th LPGA title, 2025 win by 1 over Minjee Lee); Ko chasing 4th title (first win 2013 at Royal Mayfair age 15, youngest LPGA winner in history at the time); 15 Canadian players in field (record); $2.75M purse; tournament through Sunday Aug 23; coverage Golf Channel; R2 in progress Friday
+- **Status:** NEW
+- **Follow-up ideas:** CPKC Women's Open R2 scores; Korda closing performance; Henderson home crowd storyline
+
+### STORY 3: Rahm Wins LIV Indianapolis
+- **Tier:** 1
+- **Category:** LIV Golf / Indianapolis / Jon Rahm / 4Aces GC / Ripper GC / Pete Dye / Chatham Hills / Individual Season Championship
+- **Key facts:** Rahm wins LIV Indianapolis event at Chatham Hills (Westfield, Indiana; Pete Dye's final course design); clinched 3rd consecutive LIV Golf Individual Season Championship before Indianapolis (locked up at LIV New York with 944.54 pts); Indianapolis purse $10.1M (reduced from $20M; winner $2.02M); 4Aces GC (DJ, Pieters, Detry, Anthony Kim) led Ripper GC (Smith, Leishman, Herbert, Kaufman) by 2.25 pts for team title; Saudi PIF ending direct backing after 2026
+- **Status:** NEW
+- **Follow-up ideas:** 2026 LIV team championship final result; 4Aces vs. Ripper GC outcome; LIV 2027 format plans
+
+### STORY 4: FedExCup Bubble — Woodland's 64
+- **Tier:** 2
+- **Category:** PGA Tour / FedExCup / BMW Championship / Gary Woodland / Rickie Fowler / East Lake / Bubble
+- **Key facts:** Woodland entered BMW at 31st in FedExCup (outside top 30); shot 64 (-6) with hole-out eagle, 5 birdies, 1 bogey to co-lead; Fowler at exactly 30th (last qualifying spot); Cauley 29th; gap between Fowler and Woodland narrowed dramatically after R1; top 30 after BMW go to Tour Championship East Lake Aug 27-30; standings recalculate after each round
+- **Status:** NEW
+- **Follow-up ideas:** FedExCup bubble standings after BMW R2/R3/R4; Woodland and Fowler weekend results; full East Lake qualifier list
+
+### STORY 5: Scheffler Opens BMW at +2
+- **Tier:** 2
+- **Category:** PGA Tour / Scottie Scheffler / BMW Championship / FedExCup / East Lake / Bellerive
+- **Key facts:** Scheffler opens BMW Championship at +2 (T44), 8 shots back of co-leaders; FedExCup position secure (4,873 pts, ~1,400 lead); won St. Jude by 8 shots one week prior; 7,448-yd par-70 Bellerive demands precision; has history of recovery rounds in 2026; title charge requires extraordinary weekend; R2 in progress Friday
+- **Status:** NEW
+- **Follow-up ideas:** Scheffler BMW R2 round; recovery attempt Friday
+
 ## 2026-08-20
 
 | Date | Tier | Story | Platforms | Status |
