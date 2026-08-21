@@ -5622,3 +5622,44 @@
 - **Key facts:** Norris dominated Hungary with McLaren upgrade; Zandvoort high-speed vs Hungary technical; Sky Sports: "if McLaren's car works as well in Zandvoort as Budapest, Norris cannot be discounted"; Norris reigning world champion (2025); one practice session only (Sprint format)
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Sprint Qualifying times; race result; McLaren upgrade assessment post-Zandvoort
+
+| 2026-08-21 | T1 | Dutch GP FP1 — Ferrari Goes 1-2 at Zandvoort in Final Dutch Grand Prix | X, FB, Article | FOLLOW UP |
+| 2026-08-21 | T1 | Hadjar OUT With Wrist Injury — Lawson Races Red Bull, Tsunoda Returns to Racing Bulls | X, FB, Article | NEW |
+| 2026-08-21 | T2 | Verstappen Red Bull 2030 Extension — Quotes, Context, What It Really Means | X, FB, Article | FOLLOW UP |
+| 2026-08-21 | T2 | Carlos Sainz Signs Multi-Year Williams Extension — Why He Chose Grove Over Audi & Aston Martin | X, FB, Article | FOLLOW UP |
+| 2026-08-21 | T2 | Antonelli's 50-Point Lead — Championship Picture Heading Into Dutch GP Round 12 | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Dutch GP FP1 — Ferrari Leads at Zandvoort
+- **Tier:** 1
+- **Category:** F1 Race Weekend / Dutch Grand Prix / Ferrari
+- **Key facts:** Ferrari 1-2 in FP1 (confirmed by total-motorsport.com headline); Mercedes also in mix; 60-min FP1 only session (Sprint format); zero 2026 car data at Zandvoort; Sprint Qualifying 16:30 CEST; final ever Dutch GP at Zandvoort
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Sprint Qualifying result; Sprint Race result; Grand Prix result
+
+### STORY 2: Hadjar OUT — Lawson/Tsunoda Reshuffle
+- **Tier:** 1
+- **Category:** F1 Driver News / Red Bull Racing / Racing Bulls
+- **Key facts:** Isack Hadjar: wrist injury from boxing gym during summer break; ruled out Dutch GP; Liam Lawson races senior Red Bull; Yuki Tsunoda returns to Racing Bulls alongside Arvid Lindblad (Tsunoda was displaced by Hadjar for 2026 season); confirmed by formula1.com + Sky Sports + ESPN + crash.net + planetf1.com
+- **Status:** NEW
+- **Follow-up ideas:** Lawson race result; Hadjar return timeline
+
+### STORY 3: Verstappen Red Bull 2030 Extension — Context
+- **Tier:** 2
+- **Category:** F1 Contracts / Red Bull Racing / Max Verstappen
+- **Key facts:** Announced Aug 20 ahead of Dutch GP; extends through 2030; exit clauses dead; McLaren talks dead; Verstappen quote: "excited to keep working together to get back to the top again"; Mekies quote: "retaining the best driver on the grid is fantastic news"; Laurent Mekies replaced fired Horner
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Dutch GP performance; Red Bull 2026 car development
+
+### STORY 4: Carlos Sainz Williams Multi-Year
+- **Tier:** 2
+- **Category:** F1 Contracts / Williams Racing / Carlos Sainz
+- **Key facts:** Multi-year extension (length undisclosed); alternatives passed: Audi + Aston Martin; Albon also extended one day earlier; Sainz joined 2025, 2 podiums, Williams 5th Constructors; 2026 more difficult; vote of confidence in James Vowles; Williams 2027 lineup complete (Sainz + Albon)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Williams technical progress; 2027 season
+
+### STORY 5: Antonelli Championship Lead — Dutch GP
+- **Tier:** 2
+- **Category:** F1 Championship / Kimi Antonelli / Mercedes
+- **Key facts:** Standings after Round 11: Antonelli 219pts, Hamilton 169pts (-50), Russell 160pts (-59); 12 rounds/316pts remain; Antonelli: 6 wins/6 poles/9 podiums/21 yrs old; Hamilton first Ferrari season; Ferrari upgrade plan: Zandvoort aero + Monza ADUO-2 engine; Mercedes 379pts constructors leads Ferrari 307pts (-72)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Dutch GP results; championship gap after Sprint + race
