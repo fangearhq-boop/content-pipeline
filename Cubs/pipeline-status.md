@@ -1,42 +1,50 @@
-# Cubs Pipeline Status — Updated 2026-08-20
+# Cubs Pipeline Status — Updated 2026-08-21
 
 ## Latest Run
-- **Date:** 2026-08-20 (Thursday — OFF DAY)
+- **Date:** 2026-08-21 (Friday — GAME DAY, Series Start vs Seattle Mariners)
 - **Run time:** ~09:00 UTC
-- **Stories:** 7
-- **X posts:** 7
+- **Stories:** 5
+- **X posts:** 5
 - **Platforms:** X/Twitter only
 - **Status:** ✅ Complete
 
-## Insights Summary (2026-08-20)
-- **Snapshot generated:** 2026-08-20T08:30:00Z (fresh, 30 min before trigger)
-- **measured_tweet_count:** 123
-- **Significant findings (1):**
-  1. `has_score=False` beats `has_score=True` — **small** effect (Cliff's delta=0.253, p=0.0207, n=79 vs 44, median impressions 108 vs 81.5)
-     - **Applied:** Game 3 recap tweet omits score "White Sox 3, Cubs 0." Focuses on Urquidy's dominant pitching line (8 K, 0 BB, 2 H) and Holmes' outing. Off-day — no other score-containing stories applicable.
-- **Note:** Same `has_score` dimension for 5th consecutive day. Effect size slightly decreased from prior days (0.253 vs 0.298) and p-value slightly higher (0.0207 vs 0.0052), but measured_tweet_count also dropped 2 (123 vs 125). Still the only dimension clearing all three gates. Actionable.
+## Insights Summary (2026-08-21)
+- **Snapshot generated:** 2026-08-21T08:30:00Z (fresh, 30 min before trigger)
+- **measured_tweet_count:** 124
+- **Significant findings:** 0 — no contrasts cleared all three gates (n≥8, p<0.05, |Cliff's delta|≥0.20)
+- **significant_findings_note:** "No contrasts cleared all three gates (n>=8 per group, p<0.05, |Cliff's delta|>=0.2). Either too little data or no format/time differences are large enough yet."
+- **Applied:** Fell through to brand-voice defaults. No performance-data-driven format adjustments. The `has_score` finding that ran Aug 15-20 did not clear gates today (124 tweets measured, pool up from 123). System may start producing new signals in 2-4 weeks as pool grows.
 
-## Series Context (2026-08-20)
-- `is_series_start_today`: FALSE
-- `off_day`: TRUE — no Cubs game today
-- Next game: at Seattle Mariners, Friday Aug 21, 9:10 PM CT
-- Applied: No series-preview slot (off day, not series start). No game-time or recap slots used. Content pivots to: recap, roster updates, standings, prospect pipeline.
+## Series Context (2026-08-21)
+- `is_series_start_today`: TRUE
+- `off_day`: FALSE — Game 1 tonight 9:10 PM CT at T-Mobile Park, Seattle
+- Opponent: Seattle Mariners (60-68, out of playoff race)
+- Cubs record: 74-54
+- Series: 3 games — Aug 21, 22, 23
+- Applied: 7:00 AM CT slot reserved for Series Preview (mandatory per is_series_start_today=true). Lead = matchup + length + location; pitcher + stakes = kicker.
 
-## Today's Content (2026-08-20)
+## Today's Content (2026-08-21)
 | Slot | Story | Tier |
 |------|-------|------|
-| 7:00 AM CT | Game 3 recap — Urquidy shuts out Cubs (8 K, 0 BB), Holmes 5.1 IP, series splits 3-3 | 1 |
-| 8:15 AM CT | Cardinals reality check — won 2 of 3 in August series, still 13.5 GB | 2 |
-| 9:30 AM CT | Swanson Grade 2 oblique — 4-week target, mid-September return, healthy for October | 2 |
-| 10:45 AM CT | Wild Card standings — Cubs WC1, Phillies ~5 back, 7 H2H Brewers games left | 2 |
-| 12:00 PM CT | Jaxon Wiggins relief debut — 98 mph, September callup case builds | 2 |
-| 1:15 PM CT | PCA off-day take — 30 HR / 31 SB / .938 OPS at 24, NL MVP case | 2 |
-| 2:30 PM CT | Steele and Brown bullpen progress — two potential October arms | 3 |
+| 7:00 AM CT | Series Preview — Cubs at Mariners, 3 games, T-Mobile Park, 9:10 PM CT, Boyd vs Hancock | 1 |
+| 9:30 AM CT | Matthew Boyd Game 1 starter — 8-2, 4.02 ERA, 1.24 WHIP through 85 IP | 2 |
+| 12:00 PM CT | Rotation shuffle — Cabrera back on IL (blister), Peterson starts Sat, Assad recalled | 2 |
+| 3:45 PM CT | Wild card / playoff stakes — Cubs WC1 (74-54), Phillies 4 back, Brewers gauntlet ahead | 2 |
+| 8:00 PM CT | First pitch hype — 9:10 PM CT, Boyd on mound, Friday night in Seattle | 2 |
 
-## Cubs Record as of 2026-08-20
-- **Record:** ~74-54 (No. 1 NL Wild Card; after Aug 19 loss)
-- **NL Central gap:** ~4-4.5 GB behind Brewers (~77-49)
-- **NL WC gap:** ~4-5 games over Phillies for WC1
+## Cubs Record as of 2026-08-21
+- **Record:** 74-54 (No. 1 NL Wild Card)
+- **NL Central gap:** ~5 GB behind Brewers
+- **NL WC gap:** Phillies 4 GB back (70-58), Padres 6 GB back (68-60)
+
+---
+
+## Previous Run (2026-08-20)
+- **Date:** 2026-08-20 (Thursday — Off Day, travel to Seattle)
+- **Run time:** ~09:00 UTC
+- **Stories:** 7 | **X posts:** 7 | **Status:** ✅ Complete
+- **Insight applied:** has_score=False (small effect, p=0.0207, Cliff's delta=0.253) — 5th consecutive day this dimension cleared all gates; today (Aug 21) it did not clear.
+- **Series context:** is_series_start_today=FALSE, off_day=TRUE. Content: Game 3 recap (shutout), Cardinals roast, Swanson oblique update, WC standings, Wiggins prospect, PCA MVP case, Steele/Brown bullpen.
 
 ---
 
@@ -102,25 +110,29 @@
 - **Cardinals:** 62-61 (3 GB from WC3; sold deadline pieces)
 
 ## Key Storylines to Watch
-- **Tomorrow's game:** Cubs vs White Sox, Game 3, Wrigley Field (Aug 19, 1:20 PM CT)
-- **PCA:** 30 HR, 31 SB — historic back-to-back 30-30 seasons; MVP race September
-- **Swanson:** Grade 2 oblique; 4-6 weeks; target Sept 15 return; Hoerner at SS meanwhile
-- **Gausman:** Settling into Cubs rotation; tonight his ~3rd Cubs start
-- **Cardinals:** 13.5 GB in NL Central; no longer Wild Card threat (per standings)
-- **Brewers:** 77-48, Cubs 4 GB behind in division race
+- **Tonight's game:** Cubs at Mariners, Game 1 of 3, T-Mobile Park, 9:10 PM CT. Boyd vs Hancock.
+- **Rotation:** Cabrera back on IL (blister); Peterson starts Sat; Imanaga starts Sun. Three different starters in 3 games.
+- **PCA:** 30 HR, 31 SB, .281/.379/.550, 8.2 fWAR — historic back-to-back 30-30 seasons; NL MVP case heating up
+- **Swanson:** Grade 2 oblique; 4-week target = mid-September; Hoerner at SS, Ramírez at 2B meanwhile
+- **Matt Shaw:** On rehab assignment at Iowa (started Aug 19). Recovery from left hand sprain. Expected return TBD.
+- **Cardinals:** ~13.5 GB in NL Central; no threat to wild card
+- **Brewers:** Leading NL Central by ~5; 7 H2H remaining (Aug 31-Sep 3, Sep 7-9)
 
-## Pipeline Health (2026-08-18)
-- JSON compiled: ✓ 07-content-data.json valid (schema 2.0, 8 stories, 8 X posts)
-- Char count validation: ✓ All 8 posts under 280 chars (range: 170–272; confirmed by compile output)
+## Pipeline Health (2026-08-21)
+- JSON compiled: ✓ 07-content-data.json valid (schema 2.0, 5 stories, 5 X posts)
+- Char count validation: ✓ All 5 posts at or under 280 chars (177–280; Post 3 = exactly 280)
 - Review dashboard: ✓ Generated locally (review-dashboard.html)
 - Dashboard push: ⚠ Skipped (content-dashboards repo not in session scope — expected behavior)
-- Fact-check: ✓ 26 claims reviewed; 24 HIGH confidence, 1 MEDIUM (Sosa 1993/1995 exact years — low risk); 0 fails
-- Insights applied: ✓ 1 significant finding applied (has_score=False, small effect, p=0.0069)
-- Story history: ✓ Appended 8 stories to Cubs/story-history.md
+- Fact-check: ✓ All claims reviewed; HIGH for times/records (from series-context.json), MEDIUM for Boyd ERA and Brewers division gap; 0 fails
+- Insights applied: ✓ No significant findings; fell through to brand-voice defaults; documented in 02-story-analysis.md
+- Story history: ✓ Appended 5 stories to Cubs/story-history.md
 
 ## Prior Runs (recent)
 | Date | Stories | X Posts | Notes |
 |------|---------|---------|-------|
+| 2026-08-20 | 7 | 7 | Off day; White Sox recap (shutout); Cardinals roast; Swanson oblique; WC standings; Wiggins prospect; PCA MVP; Steele/Brown bullpen; 1 insight (has_score=False, small) |
+| 2026-08-19 | 5 | 5 | Walk-off recap (Bregman); Wrigley walk-off culture (13 leading MLB); Gausman glove-hand cramp; NL standings/Cardinals jab; Game 3 preview sweep hunt |
+| 2026-08-18 | 8 | 8 | PCA 30th HR walk-off recap; PCA franchise history; WC standings; Cardinals roast; Gausman Game 2 preview; Swanson MRI update; pre-game + first pitch hype; 1 insight applied |
 | 2026-08-17 | 7 | 7 | Crosstown Classic series preview; Swanson IL; Suzuki activated; PCA 27HR/30SB; WC watch; Imanaga matchup preview; first pitch hype; 1 insight applied |
 | 2026-08-16 | 6 | 6 | Báez historic 3-HR debut recap; Cabrera return/series decider; PCA 30-30; Cardinals check; rotation depth; pre-game hype; 1 insight applied |
 | 2026-08-15 | 6 | 6 | Game 1 recap (Holmes shutout); Boyd preview; Cabrera return Sunday; PCA Bregman MVP; Cardinals roast; Cowles prospect; 1 insight applied |
@@ -128,6 +140,3 @@
 | 2026-08-13 | 5 | 5 | Game 2 recap (71-50); Cardinals roast; PCA WAR 7.5; Gausman preview; sweep hype |
 | 2026-08-12 | 6 | 6 | Game 1 recap (70-50 milestone); Suzuki 20 HR; June 10 run; WC watch; Peterson preview; hype |
 | 2026-08-11 | 7 | 7 | Series start (Nationals); Imanaga streak; PCA MVP No. 1; Happ slump recovery; WC watch; matchup analysis; pre-game hype |
-| 2026-08-10 | 8 | 8 | Off day; Boyd recap; PCA WAR milestone; rotation depth; Nationals preview; Cabrera watch; Cardinals roast; Happ; prospects |
-| 2026-08-09 | 5 | 5 | Holmes recap; PCA solo MVP frontrunner; Wild Card; Bregman; Boyd preview |
-| 2026-08-08 | 8 | 8 | Holmes debut day; Gausman recap; PCA/Bregman arcs; 2 insights applied |

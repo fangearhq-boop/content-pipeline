@@ -5,6 +5,47 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-21
+
+### STORY 1: Series Preview — Cubs Open 3-Game Set at Seattle Mariners
+- **Angle:** NEW STORY (Series start: Cubs 74-54 at Mariners 60-68. T-Mobile Park. Game 1 tonight 9:10 PM CT. Boyd vs Hancock. Mariners out of playoff race; Cubs building wild card cushion before Brewers gauntlet.)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, series preview)
+- **Follow-Up Opportunities:**
+  - Game 1 result recap (tomorrow morning)
+  - Series result/recap (Sunday evening or Monday morning)
+
+### STORY 2: Matthew Boyd — Game 1 Starter Profile
+- **Angle:** NEW STORY (Boyd 8-2, 4.02 ERA, 1.24 WHIP in 85 IP. Reliable workhorse on the mound tonight. Informative breakdown.)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, stat breakdown)
+- **Follow-Up Opportunities:**
+  - Boyd's next start result
+
+### STORY 3: Rotation Shuffle — Cabrera Back on IL, Peterson Starts Saturday
+- **Angle:** NEW STORY (Cabrera back on 15-day IL with right middle finger blister after just one return start. David Peterson gets Sat start vs Mariners. Assad recalled from Iowa for bullpen depth.)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, roster news)
+- **Follow-Up Opportunities:**
+  - Peterson's Saturday start result
+  - Cabrera IL timeline / return date
+
+### STORY 4: Wild Card / Playoff Stakes — West Coast Setup for Brewers Run
+- **Angle:** FOLLOW UP (Cubs 74-54, WC1; Phillies 4 back; Padres 6 back; Brewers leading division by ~5. Three Mariners games set up 7 H2H Brewers games in September. Fresh angle: west coast trip as context for what comes next.)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, analysis/bold)
+- **Follow-Up Opportunities:**
+  - Standings update after each series
+
+### STORY 5: First Pitch Hype — 9:10 PM CT at T-Mobile Park
+- **Angle:** NEW STORY (Late-night West Coast game energy. Boyd on mound. Cubs 74-54. Friday night fuel.)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:00 PM CT, game night energy)
+- **Follow-Up Opportunities:**
+  - Game 1 result recap (tomorrow morning)
+
+---
+
 ## 2026-08-20
 
 ### STORY 1: Game 3 Recap — White Sox Shut Out Cubs, Series Splits 3-3

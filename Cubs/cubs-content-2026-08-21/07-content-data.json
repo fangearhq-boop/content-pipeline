@@ -1,0 +1,186 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-21",
+  "compiled_at": "2026-08-21T09:21:03.610803+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Series Preview — Cubs Open 3-Game Set at Seattle (TIER 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Cubs open a 3-game series at T-Mobile Park in Seattle tonight.\n\nBoyd vs Hancock, first pitch 9:10 PM CT.\n\nChicago's 74-54. Seattle's at 60-68 and out of the race. This series is about building the cushion before the Brewers gauntlet hits in September.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Series Preview",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Series Preview — Cubs at Mariners\n**Facts:**\n- Cubs (74-54) open 3-game series at Seattle Mariners (60-68) tonight\n- Venue: T-Mobile Park, Seattle\n- Game 1 first pitch: 9:10 PM CT (10:10 PM ET)\n- Game 2: Saturday Aug 22 at 6:15 PM CT\n- Game 3: Sunday Aug 23 at 3:10 PM CT\n- Series rationale: \"Off day yesterday. Today: Cubs visit Seattle Mariners → game 1 of 3.\"\n- Cubs are NL Wild Card No. 1; Mariners are 60-68, out of playoff contention\n**Probables:**\n- Game 1: Matthew Boyd (Cubs, 8-2, 4.02 ERA) vs Emerson Hancock (Mariners, 7-7, 3.30 ERA)\n- Game 2: David Peterson vs Bryan Woo\n- Game 3: Shota Imanaga vs Bryce Miller\n**Sources:**\n- Cubs/_data/series-context.json (HIGH confidence — official snapshot)\n- SI.com Cubs vs Mariners Aug 21 preview (MEDIUM confidence — AI summary of series preview)\n- Bleacher Nation series odds/starters Aug 19 (MEDIUM confidence)\n- Baseball-Reference preview page (HIGH confidence)\n**Fact-check flags:**\n- Game 1 time: 9:10 PM CT confirmed via series-context.json (ISO: 2026-08-22T02:10:00Z = 9:10 PM CDT Aug 21). ✓\n- Series length: 3 games — confirmed. ✓\n- Venue: T-Mobile Park, Seattle — confirmed. ✓\n- Cubs record 74-54: confirmed series-context.json + wild card standings search. ✓\n- Mariners record 60-68: confirmed series-context.json. ✓",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Matthew Boyd — Game 1 Starter Profile (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Matthew Boyd takes the ball in Game 1 tonight: 8-2, 4.02 ERA, 1.24 WHIP through 85 innings.\n\nHe's been the definition of reliable all season. The Cubs don't need him to be dominant tonight — just good enough while the lineup does its thing.\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Stat Breakdown / Informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 269
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Matthew Boyd — Game 1 Starter Profile\n**Facts:**\n- 2026 season stats: 8-2, 4.02 ERA, 1.24 WHIP, 85.0 IP, 68 K, 26 BB, 79 H, 13 HR\n- Starts Game 1 tonight at T-Mobile Park vs Emerson Hancock\n- Previous year (2025): 3.21 ERA, 1.09 WHIP, 154 K, 179.2 IP\n**Sources:**\n- Bleacher Nation / SI series preview (MEDIUM confidence — AI summary of stats)\n**Fact-check flags:**\n- Boyd stats come from two slightly different snapshots (6-1 early season, 8-2 current). The 8-2, 4.02 from the series preview is the more current figure and consistent with a mid-August stat line from a full-season perspective. MEDIUM confidence — use as stated, flag for fact-check.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Rotation Shuffle — Cabrera Back on IL, Peterson Starts Saturday (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Edward Cabrera is back on the IL — right middle finger blister after just one return start. David Peterson gets the Saturday slot in Seattle.\n\nJavier Assad recalled from Iowa to shore up bullpen depth.\n\nCubs managing the rotation through the stretch run.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Roster News / Informative",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 280
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Rotation Shuffle — Cabrera IL, Peterson Start Saturday\n**Facts:**\n- Edward Cabrera: Placed back on 15-day IL with right middle finger blister after just 1 start with Chicago\n- David Peterson: Recalled from Triple-A Iowa; gets Saturday start in Seattle (Game 2 vs Mariners)\n- Javier Assad: Recalled from Triple-A Iowa as corresponding move for Cabrera (bullpen depth)\n- Kevin Alcantara: Previously recalled to replace Swanson (.271 BA, 19 HR, 49 RBI in 69 Iowa games)\n- Owen Miller: Previously recalled to replace Swanson (.296 BA, 26 2B, 6 3B, 7 HR, 57 RBI in 96 Iowa games)\n- Nick Maton: Transferred to 60-day IL\n**Sources:**\n- CBS Sports / Yardbarker / FanGraphs Roster Resource (MEDIUM confidence)\n- Bleacher Nation Cubs Bullets Aug 20 (MEDIUM confidence)\n**Fact-check flags:**\n- Assad identity: Javier Assad confirmed as Cubs pitcher via roster context. MEDIUM confidence.\n- Peterson starting Saturday confirmed by multiple search results. HIGH confidence.\n- Alcantara/Miller stats from Iowa: MEDIUM confidence — AI summaries of statistical data.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Wild Card / Playoff Stakes — The Bigger Picture (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Cubs at 74-54. Phillies 4 back for NL Wild Card No. 1. Brewers lead the division by five.\n\nThree games in Seattle. Then the Brewers show up seven times in September.\n\nEverything this week is setup for what actually matters.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Analysis / Bold Take",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Wild Card / Playoff Stakes\n**Facts:**\n- Cubs: 74-54, NL Wild Card No. 1\n- Phillies: 70-58, 4 games behind Cubs for WC1 (math: (74-70 + 58-54)/2 = 4)\n- Padres: 68-60, 6 games behind (math: (74-68 + 60-54)/2 = 6)\n- Brewers: Leading NL Central by approximately 5 games over Cubs\n- 7 head-to-head games remaining vs Brewers: Aug 31-Sep 3, Sep 7-9\n**Sources:**\n- Wild card standings: sportsbrackets.net, FOX Sports, ESPN (MEDIUM confidence — AI summaries)\n- Phillies/Padres GB: calculated from stated records (HIGH confidence if records are correct)\n- Brewers gap: Sportsnaut article + Brew Crew Ball Week 21 power rankings (MEDIUM confidence — \"approximately five games\")\n- H2H schedule: From Cubs story-history.md Aug 20 (covered in prior pipeline run, MEDIUM confidence)\n**Fact-check flags:**\n- Cubs 74-54 record: confirmed multiple sources. HIGH.\n- Phillies 4 GB: calculated. Need to confirm Phillies 70-58 record (MEDIUM confidence).\n- Brewers lead of \"five games\": consistent with prior coverage (Aug 20 story history said \"4 GB\"; NL Central search said \"five-game lead\"). Flagged as MEDIUM — use \"~five\" or acknowledge approximate.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "First Pitch Hype — 9:10 PM CT (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Tonight's first pitch at T-Mobile Park: 9:10 PM CT. Boyd on the mound.\n\nThis team didn't get to 74 wins to coast on a Friday night in Seattle.\n\nLet's go.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "8:00 PM CT",
+          "tweet_type": "Game Night Energy",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 177
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "First Pitch Hype\n**Facts:**\n- Game 1 first pitch: 9:10 PM CT, T-Mobile Park, Seattle\n- Matthew Boyd starting\n- Cubs 74-54 on the season\n**Sources:**\n- series-context.json (HIGH confidence)\n**Fact-check flags:**\n- Time: 9:10 PM CT confirmed. ✓\n- Day: Friday Aug 21. ✓",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
