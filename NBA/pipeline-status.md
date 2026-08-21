@@ -1,6 +1,18 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Last Run
+- **Date**: 2026-08-21
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 8 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** hh-postplanner-2026-08-21.xlsx (8 posts) + hh-postplanner-tobi-2026-08-21.xlsx (8 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-08-21/review-dashboard.html (28 items)
+- **Notes:** SERBIA 90 FRANCE 87 — Jokic 20/9/8 outduels Wemby (10 pts/6 TO) in Belgrade captaincy debut; rematch Orleans Aug 23; KAWHI LOOPHOLE — Forbes warns NBA ruling could create salary-cap loophole league-wide; Clippers sanctions expected; trade to Toronto clearing; CURRY 8 DAYS — Aug 29 window; $136.7M max; Dunleavy "whatever he wants"; EDWARDS/LAMELO — Full Wolves roster flew to France for team-bonding; Edwards: "just trying to build it together"; wing depth flagged as concern; HARDEN TO CLEVELAND — 3yr/$97M, player option yr3; 3-team deal: Watson to Cavs, Strus to Clippers, picks to Nuggets; Cam Whitmore from Wizards
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+### 2026-08-20
 - **Date**: 2026-08-20
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)

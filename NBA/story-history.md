@@ -5836,3 +5836,44 @@
 - **Key facts:** Overseas teams: Sept 22; all others: Sept 29; preseason games Oct 3; Toronto Media Day Sept 28 Quebec City (Université Laval); Sixers preseason: Oct 5 vs Knicks, Oct 8 at Nets, Oct 10 at Celtics, Oct 16 vs Celtics; regular season opener Oct 20 (76ers at Knicks MSG)
 - **Status:** NEW
 - **Follow-up ideas:** Camp day 1 coverage; roster cuts; preseason game results
+
+| 2026-08-21 | T1 | Jokic Outduels Wembanyama — Serbia Edges France 90-87 in Belgrade | X, FB, Article | FOLLOW UP |
+| 2026-08-21 | T1 | Kawhi Leonard Investigation — Forbes Warns of NBA Salary-Cap Loophole Precedent | X, FB, Article | FOLLOW UP |
+| 2026-08-21 | T2 | Stephen Curry Extension — 8 Days to August 29 Window | X, FB, Article | FOLLOW UP |
+| 2026-08-21 | T2 | Edwards and LaMelo Fly Timberwolves Roster to France for Team-Bonding Trip | X, FB, Article | FOLLOW UP |
+| 2026-08-21 | T1 | James Harden Signs 3-Year, $97M Deal With Cleveland Cavaliers | X, FB, Article | NEW |
+
+### STORY 1: Jokic Outduels Wembanyama — Serbia Edges France 90-87
+- **Tier:** 1
+- **Category:** FIBA / Serbia / France National Team / Victor Wembanyama / Nikola Jokic
+- **Key facts:** Serbia 90, France 87 (Belgrade Arena, Aug 20); Jokic: 20 pts/9 reb/8 ast in 29 min; Wembanyama: 10 pts/4 reb/6 TO in 24 min; Wemby windmill dunk went viral; Milutinov: 15 pts/5 reb; Avramovic: 13 pts/5 ast/3 stl; Noua: 14 pts (6-of-9); Francisco: 13 pts; Rematch: Orleans Aug 23; qualifiers: Slovenia Aug 27, Sweden Aug 30
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Orleans rematch result (Aug 23); qualifier results (Aug 27, Aug 30); Spurs training camp
+
+### STORY 2: Kawhi Leonard — Forbes Salary-Cap Loophole Warning
+- **Tier:** 1
+- **Category:** NBA Investigation / Los Angeles Clippers / Kawhi Leonard / Toronto Raptors
+- **Key facts:** Forbes (Aug 18): NBA ruling could create salary-cap loophole league-wide; Wachtell Lipton fact-finding complete; two deals: Aspiration ($28M) + Daktronics; Leonard personally cleared; Clippers sanctions expected; trade (Leonard for Ingram + Dick + picks) expected to clear; Toronto camp Sept 28 Quebec City; ESPN raised 2027 timeline risk
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Sanction announcement; trade completion; Toronto camp update
+
+### STORY 3: Stephen Curry Extension — 8 Days
+- **Tier:** 2
+- **Category:** NBA Contracts / Golden State Warriors / Stephen Curry
+- **Key facts:** Window opens Aug 29 (8 days); 2yr/$136.7M max; 1yr/$62.6M alternative also discussed; GM Dunleavy: Warriors will offer "whatever he wants, up to the max"; ESPN Slater confirmed mutual interest; UFA in 2027 if unsigned (first time ever); would carry through age-40 season
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Extension signing announcement (expect Aug 29); Warriors preseason
+
+### STORY 4: Edwards/LaMelo — Timberwolves France Team Trip
+- **Tier:** 2
+- **Category:** NBA Offseason / Minnesota Timberwolves / Anthony Edwards / LaMelo Ball
+- **Key facts:** Edwards organized full Wolves roster trip to France; workouts + sightseeing; trade package confirmed: Ball + Josh Green for Reid + 2033 unprotected 1st + 3 pick swaps (2028/29/30) + 3 seconds (2029/32/33); Edwards quote: "just trying to build it together"; analysts flag wing depth concern; training camp Sept 29
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Training camp chemistry; preseason games; season opener
+
+### STORY 5: James Harden Signs With Cleveland Cavaliers
+- **Tier:** 1
+- **Category:** NBA Free Agency / Cleveland Cavaliers / James Harden
+- **Key facts:** 3yr/$97M, player option in Year 3; 3-team deal: Peyton Watson to Cavs, Max Strus to Clippers, unprotected 2031 Cavs 1st + 2032 SAC 2nd to Nuggets; Tre Mann to Wizards for Cam Whitmore + 2027 2nd; Dallas: 16 guaranteed contracts, must shed one; Klay Thompson trade buzz (open to LA)
+- **Status:** NEW
+- **Follow-up ideas:** Cavaliers training camp; Eastern Conference power rankings update
