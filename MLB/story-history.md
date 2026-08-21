@@ -5,6 +5,65 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-21
+
+### Story 1: PCA NL MVP Case — Head-to-Head with Ohtani, 35 Games to Make History
+- **Date:** 2026-08-21
+- **Tier:** 1
+- **Classification:** FOLLOW UP (PCA vs. Ohtani NL MVP race; Cubs NL WC No. 1 with 35 games left)
+- **Angle:** Pete Crow-Armstrong .281/30HR/78RBI/31SB/7.7 WAR vs Ohtani ~6.4 WAR. First Cubs player ever to put up back-to-back 30-30 seasons. Cubs 73-53 NL WC No. 1. 35 games left. PCA leads every key MVP metric. Two-man race framing.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - PCA September stat watch (SBs milestone, HR milestone)
+  - Ohtani September performance for MVP comparison
+  - Cubs Wild Card seeding race (avoid Brewers in Round 1)
+
+### Story 2: Joshua Baez Returns — Cardinals' Deployment Decision After Day Off
+- **Date:** 2026-08-21
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Baez back after Aug 19 day off; deployment question: leadoff vs. middle order)
+- **Angle:** Baez returns from rest day. .251/.332/.552, 12 HR, 32.7% K rate. Marmol already tried leadoff Aug 17. Middle-order power profile vs. leadoff experiment. Chess match framing with 35 games left in Cardinals' season.
+- **Content Produced:** Article (article-02, Jake Torres), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Batting order confirmation game-by-game
+  - September adjustment period (pitchers scheming against Baez)
+  - Cardinals playoff implications
+
+### Story 3: Yordan Alvarez Triple Crown Math — 35 Games, One Category Tight
+- **Date:** 2026-08-21
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Alvarez Triple Crown chase; Schwarber leads HR by 1 — only tight category)
+- **Angle:** Alvarez .329 BA (leads by ~29 pts), 88 RBI (wide lead), 36 HR (trails Schwarber 37 by 1). Last Triple Crown: Cabrera 2012 (NOT Mantle 1956 — recurring AI error corrected). 35 games left. HR is the only obstacle.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Alvarez HR watch (daily monitoring vs. Schwarber)
+  - Caminero lurk at ~33-34 HR
+  - BA and RBI categories if margins tighten
+
+### Story 4: Misiorowski Cy Young — Final Stretch of the Best Season in Baseball
+- **Date:** 2026-08-21
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Misiorowski Cy Young; next start ~Aug 23 after extra rest; Brewers 78-48)
+- **Angle:** Jacob Misiorowski 12-5/1.76 ERA/204+ Ks/0.73 WHIP/-550 Cy Young odds. Next start ~Aug 23 after Aug 18 22-0 blowout extra rest. Brewers 78-48 best record in baseball. Award is his to lose — 6-8 starts remaining.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Aug 23 start watch
+  - ERA hold below 2.00 (historical rarity in modern era)
+  - Brewers playoff seeding / homefield advantage
+
+### Story 5: NL Wild Card Race — Cubs Lead, Phillies and Padres in Pursuit
+- **Date:** 2026-08-21
+- **Tier:** 3
+- **Classification:** FOLLOW UP (NL Wild Card race standings; seeding incentive to avoid Brewers)
+- **Angle:** Cubs 73-53 No. 1, Phillies 68-58 (5GB), Padres 67-59 (6GB). Three spots available. No. 1 seed avoids Brewers (78-48) in Round 1 — that's the real incentive. 35 games left.
+- **Content Produced:** Article (article-05, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Series-by-series standings tracking
+  - Phillies/Padres closing scenarios
+  - Brewers record watch (if they slip, No. 1 WC faces different opponent)
+
+---
+
 ## 2026-08-20
 
 ### Story 1: Cubs 73-53 After Crosstown Split — NL Wild Card Lead Holds
