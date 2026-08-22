@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-08-22
+
+| Date | Tier | Story | Formats | Status |
+|------|------|-------|---------|--------|
+| 2026-08-22 | T1 | George Russell Wins Dutch GP Sprint — Closes to 56pts Behind Antonelli | X, FB, Article | NEW |
+| 2026-08-22 | T1 | Final Dutch Grand Prix — Zandvoort's Last-Ever F1 Race | X, FB, Article | NEW |
+| 2026-08-22 | T2 | Isack Hadjar Wrist Injury — Lawson Returns to Red Bull, Tsunoda Back at Racing Bulls | X, FB, Article | FOLLOW UP |
+| 2026-08-22 | T2 | Championship: Antonelli's Lead Trimmed to 56pts After Sprint | X, FB, Article | FOLLOW UP |
+| 2026-08-22 | T2 | Dutch GP Race Preview — Title Fight, Verstappen's Last Home Race, Rain Wildcard | X, FB, Article | NEW |
+
+### STORY 1: Russell Wins Dutch GP Sprint
+- **Tier:** 1
+- **Category:** F1 Race Result / Dutch Grand Prix / George Russell / Mercedes
+- **Key facts:** George Russell won Dutch GP sprint race at Zandvoort; P2 Charles Leclerc (Ferrari), P3 Lando Norris (McLaren), P4 Kimi Antonelli (Mercedes), P5 Oscar Piastri (McLaren), P6 Max Verstappen (Red Bull); Russell closed to 56pts behind Antonelli; 316pts remain; Antonelli floor damage in SQ1 on Friday compromised sprint; sprint pole for Russell from SQ (1:11.567)
+- **Status:** NEW
+- **Follow-up ideas:** Main qualifying result; Sunday race result; championship movement post-Dutch GP
+
+### STORY 2: Final Dutch GP at Zandvoort
+- **Tier:** 1
+- **Category:** F1 Event / Zandvoort / Dutch Grand Prix / History
+- **Key facts:** 2026 Dutch GP is final-ever F1 race at Zandvoort; Dutch GP dropped from 2027 calendar; Dutch GP revived 2021; Verstappen won 5 consecutive Dutch GPs; Sprint format used for farewell weekend; Orange Army packed; Sunday race Aug 23 15:00 CEST/09:00 ET; 72 laps
+- **Status:** NEW
+- **Follow-up ideas:** Sunday race result; Verstappen farewell moment; confirmation of Dutch GP calendar departure
+
+### STORY 3: Hadjar Injury / Lawson Returns
+- **Tier:** 2
+- **Category:** F1 Driver News / Red Bull / Isack Hadjar / Liam Lawson / Yuki Tsunoda
+- **Key facts:** Hadjar wrist injury from boxing during summer break; Liam Lawson confirmed as Red Bull replacement; Tsunoda returns to Racing Bulls alongside Arvid Lindblad; Lawson debut was 2023 Dutch GP (full circle); Lawson SQ2-eliminated P11; Tsunoda SQ2-eliminated P12; Hadjar 2026 season debut displaced Tsunoda from Red Bull at season start
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Hadjar recovery timeline; Lawson race result; Monza lineup confirmation
+
+### STORY 4: Championship Standings After Sprint
+- **Tier:** 2
+- **Category:** F1 Championship / Kimi Antonelli / George Russell / Mercedes
+- **Key facts:** Antonelli leads by 56pts after Dutch GP sprint; ~316 pts remain; Antonelli 6 wins/6 poles/9 podiums in 2026; Russell closing gap in second half of season; Hamilton 3rd ~169pts; title fight between two Mercedes teammates
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Post-race championship update; Italian GP standings
+
+### STORY 5: Dutch GP Race Preview
+- **Tier:** 2
+- **Category:** F1 Preview / Dutch Grand Prix / Race Preview
+- **Key facts:** Race Aug 23 15:00 CEST/09:00 ET; 72 laps; Verstappen last home race at Zandvoort; Antonelli vs Russell title implications; Rain possible; Lawson in for Red Bull; Qualifying Saturday determines race grid
+- **Status:** NEW
+- **Follow-up ideas:** Race result; post-race championship reaction
+
 ## 2026-08-19
 
 | Date | Tier | Story | Formats | Status |

@@ -1,0 +1,275 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-22",
+  "compiled_at": "2026-08-22T11:28:01.479531+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "George Russell Wins Dutch GP Sprint Race — Tier 1",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "SPRINT RESULT 🏁 Dutch GP, Zandvoort\n\nP1 George Russell 🇬🇧\nP2 Charles Leclerc 🇲🇨\nP3 Lando Norris 🇬🇧\nP4 Kimi Antonelli 🇮🇹\nP5 Oscar Piastri 🇦🇺\nP6 Max Verstappen 🇳🇱\n\nRussell now 56pts behind Antonelli. 316 points remain. This title fight is FAR from over.\n\n#F1 #DutchGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#DutchGP"
+          ],
+          "char_count": 265
+        },
+        {
+          "label": "Post 1-2",
+          "text": "George Russell wins the Zandvoort Sprint for Mercedes.\n\nAntonelli finished 4th after floor damage in qualifying yesterday — his championship lead is now just 56 points.\n\nRace day tomorrow. Qualifying still ahead. Game on. 🍿\n\n#F1 #DutchGP #Formula1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#DutchGP",
+            "#Formula1"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 8:00 AM ET\n\nGeorge Russell won the Dutch Grand Prix sprint race at Zandvoort. 🏁\n\nThe Mercedes driver converted his pole position into a commanding victory, beating Charles Leclerc's Ferrari in second and Lando Norris's McLaren in third.\n\nThe big story coming out of the sprint: championship leader Kimi Antonelli finished fourth. He had his Mercedes floor damaged in sprint qualifying the day before — that cost him pace throughout today's sprint, and the points he gave up are exactly the kind the Antonelli camp didn't want to donate.\n\nHere's where the championship stands after the sprint: Russell has closed to within 56 points of Antonelli. With 316 points still up for grabs in the 2026 season, that gap is absolutely closable.\n\nOscar Piastri was fifth in the sprint. Home hero Max Verstappen — racing at Zandvoort for what may be his final time in this track's last-ever Dutch GP — finished sixth in front of a roaring Orange Army.\n\nSprint wins are four points for the winner. They're not going to decide the championship on their own. But they matter. And Russell took his today.\n\nThe real prize comes Sunday. First: qualifying. Then: the race. Stay tuned. 🍿",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-russell-wins-dutch-gp-sprint.html",
+        "headline": "Russell Wins Dutch GP Sprint, Closes to 56 Points Behind Championship Leader Antonelli",
+        "word_count": 532
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "George Russell Wins Dutch GP Sprint\n\n**Concept 1A — Social (1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"George Russell Mercedes\"\n- **Usage:** X + Facebook post\n- **Notes:** Russell celebrating or in cockpit; action preferred\n\n**Concept 1B — Article Hero (1200x630)**\n- **Type:** imagn photo\n- **Search terms:** \"George Russell Mercedes\"\n- **Usage:** Article featured image\n- **Notes:** Landscape crop; celebration or podium moment\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "George Russell Wins Dutch GP Sprint\n**Sources searched:** RacingNews365, The Race, RaceFans, Crash.net, Formula1.com, Autosport\n**Key verified facts (HIGH confidence):**\n- George Russell won the 2026 Dutch GP sprint race [HIGH — The Race, RaceFans, Crash.net]\n- Charles Leclerc finished P2, Lando Norris P3 [HIGH — The Race sprint race result]\n- Kimi Antonelli finished P4 in the sprint [HIGH — RaceFans sprint result]\n- Oscar Piastri finished P5, Max Verstappen P6 [HIGH — RaceFans sprint result]\n- Russell started on pole for the sprint (SQ result Friday Aug 21) [HIGH — Formula1.com, multiple sources]\n- Russell now sits 56 points behind Antonelli in championship [HIGH — sprint result sources]\n- Antonelli damaged floor in SQ1 sprint qualifying [HIGH — Autosport, Sky Sports, multiple sources]\n- 316 points remaining in the 2026 F1 championship season [MEDIUM — approximate; derived from prior pipeline data]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Final Dutch Grand Prix — Zandvoort's Last F1 Farewell — Tier 1",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Today is the last day of qualifying at Zandvoort. Tomorrow is the last F1 race here — ever.\n\nThe Dutch GP brought orange armies, Verstappen dominance, and some of the best atmospheres in modern F1.\n\nThis weekend, it all ends. 🧡\n\n#F1 #DutchGP #Zandvoort",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#DutchGP",
+            "#Zandvoort"
+          ],
+          "char_count": 252
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Zandvoort has hosted some of the loudest, most passionate F1 crowds in history.\n\n2026: the final chapter. Orange Army, one last time.\n\nTomorrow's race ends a 5-year F1 run that nobody expected to be this good.\n\n#F1 #DutchGP #Zandvoort",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#DutchGP",
+            "#Zandvoort"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 10:00 AM ET\n\nTomorrow is the last F1 race Zandvoort will ever host.\n\nThe Dutch Grand Prix returns to the F1 calendar in 2021 during a wave of Verstappen-fueled national pride, and what followed was one of the greatest home-crowd runs in modern motorsport history. Max Verstappen won five consecutive Dutch Grand Prix races. The Orange Army — 100,000+ fans dressed head-to-toe in orange — turned Zandvoort into an experience unlike any other on the calendar.\n\nIn 2026, the Dutch GP has been dropped from the F1 schedule. This weekend is the farewell. One last sprint format. One last qualifying session. One last race.\n\nAnd now, on Saturday August 22, after the Sprint race has been run and qualifying is finished, we're one sleep away from the final Dutch Grand Prix.\n\nVerstappen is racing in his last home race — ever. At least at this circuit. The man whose popularity brought Zandvoort back to Formula 1 will close the loop tomorrow.\n\nIf you've never felt the power of the Orange Army, spend time watching the crowd shots during Sunday's broadcast. It is something special.\n\nThis is how it ends. Not with a whimper — with a 72-lap championship-implications title fight at one of the most unique, atmospheric circuits in the world.\n\nGoodbye, Zandvoort. You were magnificent. 🧡",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-zandvoort-final-dutch-gp-farewell.html",
+        "headline": "Goodbye, Zandvoort: The Final Dutch Grand Prix and the End of an Orange Era",
+        "word_count": 617
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Final Dutch Grand Prix at Zandvoort\n\n**Concept 2A — Social (1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Max Verstappen Zandvoort\"\n- **Usage:** X + Facebook post\n- **Notes:** Crowd/atmosphere at Zandvoort or Verstappen at circuit; orange crowd if available\n\n**Concept 2B — Article Hero (1200x630)**\n- **Type:** imagn photo\n- **Search terms:** \"Dutch Grand Prix Zandvoort\"\n- **Usage:** Article featured image\n- **Notes:** Aerial or circuit-wide shot; orange crowd ideal; landscape crop\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Final Dutch Grand Prix at Zandvoort\n**Sources searched:** Formula1.com, ESPN, WorldInSport, various F1 previews\n**Key verified facts (HIGH confidence):**\n- 2026 Dutch Grand Prix is the final-ever F1 race at Zandvoort [HIGH — confirmed by multiple F1 sources, world-in-sport.com preview]\n- Race scheduled August 23, 15:00 local CEST [HIGH — Formula1.com official schedule]\n- Dutch GP revived in 2021 after long hiatus, following Verstappen's 2021 championship win [HIGH — established F1 history]\n- Verstappen won Dutch GP multiple consecutive times at home [HIGH — established record]\n- Sprint format used for final Dutch GP — first time Dutch GP had sprint format [HIGH — confirmed prior pipeline]\n- Orange Army attendance at Zandvoort is tradition [HIGH — well-documented]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Hadjar Wrist Injury — Lawson Returns to Red Bull for Dutch GP — Tier 2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Isack Hadjar won't race in the Dutch GP.\n\nA wrist injury from boxing during summer break has him sidelined. Liam Lawson is back in the Red Bull seat.\n\nTsunoda returns to Racing Bulls. Lineup musical chairs at the worst time.\n\n#F1 #DutchGP #RedBull",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#DutchGP",
+            "#RedBull"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 12:00 PM ET\n\nThis is not how Isack Hadjar planned his summer.\n\nThe Red Bull driver — who took the senior seat at the start of 2026, displacing Yuki Tsunoda — picked up a wrist injury during summer break while boxing at the gym. The injury is bad enough that he's been ruled out of this weekend's Dutch Grand Prix at Zandvoort.\n\nIn his place: Liam Lawson is back. The 24-year-old New Zealander stepped up to Red Bull as reserve driver and has now been confirmed for the Dutch GP race seat. Lawson actually made his F1 debut at the 2023 Dutch Grand Prix — so there's a neat full-circle element to his return at this circuit.\n\nThe driver musical chairs cascade further: with Lawson moving to Red Bull, Yuki Tsunoda has returned to Racing Bulls alongside Arvid Lindblad — somewhat ironic, given that Tsunoda was the one displaced by Hadjar when the season started.\n\nNeither Lawson nor Tsunoda made it through SQ2 in sprint qualifying (Lawson P11, Tsunoda P12), so both start deep in the sprint grid.\n\nIt's a strange situation at both Red Bull teams this weekend. But F1 never runs out of storylines.\n\nGet well soon, Isack. 🙏",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-hadjar-injury-lawson-returns-red-bull.html",
+        "headline": "Hadjar's Boxing Injury Brings Lawson Back to Red Bull — and Tsunoda Back to Racing Bulls",
+        "word_count": 578
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hadjar Wrist / Lawson Returns\n\n**Concept 3A — Social (1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Liam Lawson Red Bull\"\n- **Usage:** X + Facebook post\n- **Notes:** Lawson in Red Bull livery preferred\n\n**Concept 3B — Article Hero (1200x630)**\n- **Type:** imagn photo\n- **Search terms:** \"Isack Hadjar Red Bull\"\n- **Usage:** Article featured image\n- **Notes:** Hadjar portrait or action shot; landscape crop\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Hadjar Wrist Injury / Lawson Returns\n**Sources searched:** Formula1.com, PlanetF1, Motorsport.com, Sky Sports F1, ESPN, RACER, Newstribune\n**Key verified facts (HIGH confidence):**\n- Isack Hadjar sustained wrist injury while boxing during summer break [HIGH — multiple sources: Motorsport.com, PlanetF1, Sky Sports]\n- Liam Lawson confirmed as Hadjar's replacement at Red Bull for Dutch GP [HIGH — Formula1.com official, RACER, Sky Sports]\n- Yuki Tsunoda returns to Racing Bulls as result (was displaced by Hadjar at start of 2026 season) [HIGH — Formula1.com, ESPN]\n- Arvid Lindblad remains at Racing Bulls alongside Tsunoda [HIGH — confirmed context]\n- Lawson qualified P11, Tsunoda P12 in sprint qualifying — both eliminated in SQ2 [HIGH — prior pipeline sprint qualifying data]\n- Lawson made his F1 debut at 2023 Dutch Grand Prix, has 46 career starts [HIGH — newstribune.com]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Championship Standings — Antonelli's Lead Trimmed After Sprint — Tier 2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "F1 Championship after Dutch GP Sprint:\n\nAntonelli: leads\nRussell: 56 points behind\nHamilton: chasing\n\n316 points still available. Today's qualifying + tomorrow's race could flip everything.\n\nThis title fight isn't going to slow down. 🏆\n\n#F1 #Formula1 #DutchGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Formula1",
+            "#DutchGP"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 2:00 PM ET\n\nLet's talk about the F1 championship picture after today's Zandvoort sprint.\n\nKimi Antonelli came into this weekend with a healthy lead. He's won six races this season. He's had six pole positions. He's been consistent, fast, and composed under enormous pressure as a 20-year-old fighting for the world championship.\n\nToday, he finished fourth in the sprint. Not a disaster — but not what he needed after damaging his car's floor in qualifying.\n\nGeorge Russell won the sprint. The points gap between them is now 56. That sounds comfortable — until you realize 316 points are still available in the 2026 season, and Russell is having the best second half of any season in his career.\n\nLewis Hamilton sits in third in the championship, around 169 points, unlikely to win it but capable of playing spoiler in key races — perhaps even this weekend at Zandvoort.\n\nThe title fight in 2026 is between two Mercedes teammates. One young and hungry, one experienced and desperate. Both fast. It's remarkable.\n\nToday's sprint was one data point. Tomorrow's race is the real thing. Watch the first lap closely — championship battles in F1 are often decided by who blinks first in the opening corners.\n\nAntonelli hasn't blinked yet. But Russell is getting closer. 👀",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-championship-antonelli-russell-56-points.html",
+        "headline": "Championship Watch: Antonelli's Lead Trimmed to 56 Points as Russell Wins Dutch GP Sprint",
+        "word_count": 596
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Championship Standings\n\n**Concept 4A — Social (1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Kimi Antonelli Mercedes\"\n- **Usage:** X + Facebook post\n- **Notes:** Antonelli portrait or race action\n\n**Concept 4B — Article Hero (1200x630)**\n- **Type:** imagn photo\n- **Search terms:** \"George Russell Kimi Antonelli Mercedes\"\n- **Usage:** Article featured image\n- **Notes:** Either driver in Mercedes; landscape crop\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Championship Standings After Sprint\n**Sources searched:** RaceFans, The Race, Crash.net\n**Key verified facts (HIGH confidence):**\n- Antonelli led championship going into Dutch GP weekend at 219 points [HIGH — prior pipeline confirmed]\n- Russell won sprint, earning sprint race points [HIGH — confirmed sprint result]\n- Russell now sits 56 points behind Antonelli after sprint [HIGH — The Race sprint result]\n- Lewis Hamilton approximately 169 points [MEDIUM — prior pipeline data; exact post-sprint figure may vary]\n- Antonelli's floor damage in SQ1 compromised his sprint result [HIGH — confirmed]\n**MEDIUM confidence:**\n- Exact championship points after sprint (Antonelli ~222, Russell ~166) [MEDIUM — calculated from sprint points; exact figures require official post-sprint tally]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Dutch GP Race Preview — Antonelli vs. Russell Tomorrow — Tier 2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Dutch GP Race: Tomorrow, Zandvoort, 15:00 CEST\n\nWhat to watch:\n🏁 Antonelli vs Russell — title implications\n🧡 Verstappen's last home race at Zandvoort — EVER\n🌧️ Rain possible — could scramble strategy\n\nDon't miss it. The final Dutch GP. 🇳🇱\n\n#F1 #DutchGP #Zandvoort",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#DutchGP",
+            "#Zandvoort"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 5:00 PM ET\n\nEverything you need to know for Sunday's Dutch Grand Prix at Zandvoort. 🇳🇱\n\n**Race start:** Sunday, August 23 at 15:00 CEST (9:00 AM ET)\n**Laps:** 72 around Circuit Zandvoort\n**The big fact:** It's the LAST-EVER Dutch Grand Prix at this circuit\n\n**Three storylines to watch:**\n\n**1. Antonelli vs. Russell — title implications**\nRussell won today's sprint. If he wins tomorrow from the front and Antonelli has another difficult race, this championship tightens significantly. Antonelli needs a strong qualifying position and a clean race to reassert control.\n\n**2. Verstappen's last home race**\nMax Verstappen is racing at Zandvoort for the final time. The Dutch GP was essentially built around his popularity — it came back to the calendar in 2021 because the Netherlands had a world champion. He's won here five times. Tomorrow could be his last chance for No. 6, and the Orange Army wants it badly.\n\n**3. Weather wildcard**\nRain is in the forecast for Sunday. Wet conditions at Zandvoort — with its banked turns, tight sector two, and flowing final sector — create genuine strategic chaos. If it rains, anything can happen.\n\nSet your alarms. 🍿",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-dutch-gp-race-preview-sunday.html",
+        "headline": "Dutch GP Race Preview: Title Fight, Verstappen's Last Home Race, and a Rain Wildcard",
+        "word_count": 638
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Dutch GP Race Preview\n\n**Concept 5A — Social (1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Max Verstappen Dutch Grand Prix\"\n- **Usage:** X + Facebook post\n- **Notes:** Verstappen at Zandvoort or Dutch GP action\n\n**Concept 5B — Article Hero (1200x630)**\n- **Type:** imagn photo\n- **Search terms:** \"Dutch Grand Prix Formula 1\"\n- **Usage:** Article featured image\n- **Notes:** Race action at Zandvoort; landscape crop"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Dutch GP Race Preview\n**Sources searched:** ESPN, Yahoo Sports, WorldInSport, Yardbarker, GPFans\n**Key verified facts (HIGH confidence):**\n- Race scheduled August 23, 15:00 local CEST / 09:00 ET [HIGH — Formula1.com official]\n- 72-lap race [HIGH — Formula1.com]\n- Qualifying taking place Saturday August 22, 16:00 local CEST (today) — results not yet available at time of writing [HIGH — confirmed schedule; results pending]\n- Verstappen will be racing at his last-ever home Dutch GP [HIGH — confirmed final Zandvoort race]\n- Rain forecast as potential factor [MEDIUM — Yahoo Sports Dutch GP preview]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

@@ -1,6 +1,18 @@
 # F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
+- **Date**: 2026-08-22
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole)
+- **PostPlanner exports:** f1fr-postplanner-2026-08-22.xlsx (7 posts) + f1fr-postplanner-tobi-2026-08-22.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-08-22/review-dashboard.html (27 items)
+- **Notes:** DUTCH GP SPRINT — Russell P1, Leclerc P2, Norris P3, Antonelli P4 (floor damage); Russell now 56pts behind Antonelli; 316pts remain; FINAL ZANDVOORT — Last-ever Dutch GP at Zandvoort; race Sunday Aug 23 15:00 CEST/09:00 ET; 72 laps; Orange Army farewell; HADJAR OUT — Boxing wrist injury; Lawson returns to Red Bull; Tsunoda back at Racing Bulls; Lawson made F1 debut at 2023 Dutch GP; CHAMPIONSHIP — Antonelli leads by 56pts; Russell closing late-season gap; Hamilton 3rd ~169pts; RACE PREVIEW — Antonelli vs Russell; Verstappen last home race; rain possible wildcard
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+### 2026-08-21
 - **Date**: 2026-08-21
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)
