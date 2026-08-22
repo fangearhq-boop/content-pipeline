@@ -5,6 +5,53 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-22
+
+### STORY 1: Game 1 Recap — Mariners Walk Off Cubs in Extras, 6-5
+- **Angle:** NEW STORY (Mariners 6, Cubs 5 in 10 innings. Leo Rivas walk-off single in the 10th. Bregman hit 2 HRs including tying shot off Muñoz in the 9th. PCA and Happ also homered — four Cubs HRs, still a loss. Boyd started; game went to extras.)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - Game 2 result recap (Sunday morning)
+  - Series result (Sunday evening or Monday morning)
+
+### STORY 2: Kade Anderson's MLB Debut — Game 2 Preview
+- **Angle:** NEW STORY (Mariners' 2025 No. 3 pick (LSU) making his MLB debut tonight. 10-1, 1.06 ERA, 135 K in 93 IP at Double-A Arkansas. First player from his draft class to reach the majors. Cubs' David Peterson starts opposite him. First pitch 6:15 PM CT.)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, stat breakdown / game preview)
+- **Follow-Up Opportunities:**
+  - Anderson's debut performance result (Sunday recap)
+
+### STORY 3: Daniel Palencia Activated from IL
+- **Angle:** NEW STORY (Palencia activated Friday from 60-day IL (elbow inflammation) ahead of Seattle series. Not resuming closer role; Craig Counsell using him as "out-getter." Jacob Webb holds closer job (2.25 ERA). Assad optioned. Palencia: 2.70 ERA, 19 K, 16.2 IP before injury.)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, roster news)
+- **Follow-Up Opportunities:**
+  - Palencia's first appearance stats / formal closer transition if it happens
+
+### STORY 4: Matt Shaw Rehab Update
+- **Angle:** FOLLOW UP (Shaw started Triple-A Iowa rehab Aug. 19. Went 1-for-3 in first game at 2B. Season MLB stats: .246/.322/.415 in 56 games. Return imminent for stretch run. Last covered: not previously covered this run — first dedicated Shaw rehab post.)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, roster depth)
+- **Follow-Up Opportunities:**
+  - Shaw's official activation from IL / return to 26-man roster
+
+### STORY 5: Wild Card Standings / September Context
+- **Angle:** FOLLOW UP (Cubs 74-55, NL WC1 with ~5-game cushion. Brewers lead division by 5.5 games. Seven H2H Brewers games in September remain the key measuring stick. Framed as motivational context ahead of tonight's game.)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, bold analysis)
+- **Follow-Up Opportunities:**
+  - Standings update after each series
+
+### STORY 6: First Pitch Hype — Game 2 at T-Mobile Park
+- **Angle:** NEW STORY (Game-time energy post. Peterson vs Anderson's MLB debut. Cubs need to even the series 1-1 before Sunday's finale. 6:15 PM CT.)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 6:15 PM CT, game-time hype)
+- **Follow-Up Opportunities:**
+  - Game 2 result
+
+---
+
 ## 2026-08-21
 
 ### STORY 1: Series Preview — Cubs Open 3-Game Set at Seattle Mariners

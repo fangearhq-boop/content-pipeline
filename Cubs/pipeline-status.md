@@ -1,6 +1,46 @@
-# Cubs Pipeline Status — Updated 2026-08-21
+# Cubs Pipeline Status — Updated 2026-08-22
 
 ## Latest Run
+- **Date:** 2026-08-22 (Saturday — GAME DAY, Game 2 of 3 vs Seattle Mariners at T-Mobile Park)
+- **Run time:** ~09:20 UTC
+- **Stories:** 6
+- **X posts:** 6
+- **Platforms:** X/Twitter only
+- **Status:** ✅ Complete
+
+## Insights Summary (2026-08-22)
+- **Snapshot generated:** 2026-08-22T08:30:00Z (fresh, 30 min before trigger)
+- **significant_findings count:** 1
+- **Finding:** `has_stat=True` beats `has_stat=False` — median impressions 104 vs 87, Cliff's delta=0.214 (small), p=0.046
+- **Applied:** Every tweet drafted with at least one concrete stat embedded. No other brand-voice overrides (no emoji, char length, posting window, or content_type findings today).
+
+## Series Context (2026-08-22)
+- `is_series_start_today`: FALSE (mid-series)
+- `off_day`: FALSE — Game 2 tonight 6:15 PM CT at T-Mobile Park, Seattle
+- Opponent: Seattle Mariners (61-68)
+- Cubs record: 74-55
+- Series: Game 2 of 3 — Cubs lost Game 1 on Aug 21 (6-5 walk-off, 10 innings)
+- Applied: No series-preview slot reserved. Lead slot = game 1 recap. Posting priority followed.
+
+## Today's Content (2026-08-22)
+| Slot | Story | Tier |
+|------|-------|------|
+| 7:00 AM CT | Game 1 recap — Mariners 6-5 (10 inn) walk-off, Bregman 2 HRs | 1 |
+| 9:30 AM CT | Kade Anderson MLB debut preview — No. 3 pick, 10-1, 1.06 ERA at AA | 2 |
+| 12:00 PM CT | Daniel Palencia activated from IL (elbow inflammation) | 2 |
+| 2:30 PM CT | Matt Shaw Triple-A Iowa rehab started Aug 19 | 2 |
+| 5:00 PM CT | Wild card standings — WC1, 5-game cushion, Sept Brewers games | 2 |
+| 6:15 PM CT | First pitch hype — Game 2, Peterson vs Anderson | 2 |
+
+## Issues / Notes (2026-08-22)
+- ESPN and MLB.com direct page fetches blocked by network proxy (CCR egress). Game 1 stats confirmed via search result AI summaries (MEDIUM confidence). No box score discrepancy found in cross-source comparison.
+- Dashboard push to `fangearhq-boop/content-dashboards` blocked (repo not in session's authorized set). Content pipeline repo push succeeded.
+- Story 4 (Shaw rehab) hit exactly 280 chars per compile script — within limit.
+- Brewers NL Central clinch status excluded from tweets (ambiguous 2025 vs 2026 sources).
+
+---
+
+## Prior Run (2026-08-21)
 - **Date:** 2026-08-21 (Friday — GAME DAY, Series Start vs Seattle Mariners)
 - **Run time:** ~09:00 UTC
 - **Stories:** 5

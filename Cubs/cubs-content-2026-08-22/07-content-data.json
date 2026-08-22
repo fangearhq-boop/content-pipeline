@@ -1,0 +1,217 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-22",
+  "compiled_at": "2026-08-22T09:20:32.706530+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Game 1 Recap — Mariners Walk Off Cubs in Extras, 6-5",
+      "tier": 1,
+      "status": "",
+      "angle": "Bregman hit two HRs (including tying shot in 9th), PCA and Happ also went yard — four Cubs homers, still lost on Leo Rivas walk-off single in the 10th.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Bregman hit TWO homers, including a game-tying shot off Muñoz in the 9th. PCA and Happ also went yard.\n\nStill not enough. Leo Rivas walked it off in the 10th — Mariners 6, Cubs 5.\n\nFour home runs. Zero wins. Back at it tonight.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative / Game Recap",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Game 1 Recap — Mariners Walk Off Cubs in Extras, 6-5\n**Facts:**\n- Final score: Mariners 6, Cubs 5 (10 innings)\n- Walk-off: Leo Rivas single with 2 outs in the 10th inning\n- Cubs HRs: Alex Bregman (2), Pete Crow-Armstrong (1), Ian Happ (1) — four total Cubs home runs\n- Bregman's 2nd HR was a solo shot off Andres Muñoz in the 9th that tied the game at 5-5\n- Mariners: Cal Raleigh hit a 3-run HR\n- Starters: Matthew Boyd (CHC) vs Emerson Hancock (SEA)\n- Location: T-Mobile Park, Seattle\n**Sources:**\n- 95.3 The Score (KUJZ-FM): \"Mariners rebound from tough start, walk off Cubs in 10\"\n- Search AI summary from multiple game result pages (ESPN, Fox Sports, CBS Sports, MLB.com)\n**Confidence:** MEDIUM — confirmed from search results but direct box score blocked. Two separate sources agree on score, walk-off, and Bregman's game-tying shot.\n**Story angle:** Drama and near-comeback. Bregman tying it in the 9th was the emotional peak. Four Cubs homers and still a loss sets up frustration → motivation for tonight.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Game 2 Preview — Kade Anderson's MLB Debut",
+      "tier": 2,
+      "status": "",
+      "angle": "Tonight's opponent is making his big-league debut. Anderson: No. 3 pick in 2025 draft, 10-1, 1.06 ERA, 135 K in 93 IP at Double-A. David Peterson gets the ball for Chicago.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Cubs face an intriguing test tonight — Kade Anderson makes his MLB debut on the mound for Seattle.\n\nThe Mariners' 2025 No. 3 pick dominated Double-A: 10-1, 1.06 ERA, 135 K in 93 IP. First pitch 6:15 PM CT.\n\nPeterson gets the ball. Let's even this series up.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Informative / Stat Breakdown",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Kade Anderson's MLB Debut vs Cubs\n**Facts:**\n- Anderson is a 22-year-old LHP making his MLB debut tonight (Saturday, Aug 22)\n- Selected No. 3 overall by the Mariners in the 2025 MLB Draft out of LSU\n- First player from the 2025 draft class to reach the majors\n- Double-A Arkansas (2026): 10-1 record, 1.06 ERA, 135 K, 13 BB in 93.1 IP\n- Cubs starter: David Peterson\n- Game time: 6:15 PM CT, T-Mobile Park\n**Sources:**\n- Fox Sports: \"Mariners prized left-hander Kade Anderson to make major league debut Saturday against Cubs\"\n- CBS Sports: \"Mariners calling up top pitching prospect Kade Anderson\"\n- NBC Sports: \"M's Kade Anderson set to make MLB debut Saturday\"\n- Spokesman-Review: \"Mariners call up Kade Anderson: What to expect with top pitching prospect's debut\"\n**Confidence:** HIGH for all Anderson stats and debut facts\n**Story angle:** Reverse situation — Cubs have the experience, Mariners put a debutant on the mound. The angle is that great stats in Double-A don't guarantee anything in the bigs. Gives the Cubs a psychological edge if framed correctly.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Roster Move — Daniel Palencia Activated from IL",
+      "tier": 2,
+      "status": "",
+      "angle": "Palencia returns to the bullpen after elbow inflammation. 2.70 ERA, 19 K in 16.2 IP before going down. Not reclaiming the closer role yet — Jacob Webb (2.25 ERA) holds it.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Daniel Palencia is back in the Cubs bullpen.\n\nActivated from the IL Friday, he posted a 2.70 ERA and 19 K in 16.2 IP before elbow inflammation hit. Not reclaiming the closer role yet — Jacob Webb (2.25 ERA) holds that job.\n\nThe bullpen just got deeper.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Informative / Roster News",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Daniel Palencia Activated from IL\n**Facts:**\n- Palencia activated from the IL on Friday, Aug 21 (ahead of Seattle series)\n- Had been on the 60-day IL with elbow inflammation\n- Completed five rehab outings before activation\n- 2026 stats before injury: 2.70 ERA, 19 K in 16.2 IP, 3 saves in 19 games\n- NOT returning as immediate closer — Craig Counsell designated as \"out-getter\"\n- Jacob Webb is the current closer: 2.25 ERA, ~56 IP in 2026\n- Javier Assad optioned to Iowa to make room\n- Gabriel Arias added as backup infielder\n**Sources:**\n- On Tap Sports Net: \"Cubs to Activate Closer Daniel Palencia Ahead of Upcoming Series in Seattle\"\n- Yardbarker: Same headline/story\n- Cubbie Crib: \"Cubs activate Daniel Palencia, option Javier Assad\"\n- NBC Sports: \"Daniel Palencia returns to Cubs' bullpen on Friday\"\n- Bleed Cubbie Blue: \"Cubs roster moves: Daniel Palencia activated from IL, Gabriel Arias added\"\n**Confidence:** HIGH for activation; MEDIUM for specific 2.70 ERA / 19 K / 16.2 IP (single source cited these stats)\n**Story angle:** Bullpen reinforcement ahead of playoff push. Webb holds the closer role (the bullpen is in good hands), but Palencia adds depth. A high-impact returner.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Matt Shaw Rehab Update",
+      "tier": 2,
+      "status": "",
+      "angle": "Shaw started Triple-A Iowa rehab Aug. 19 (.246/.322/.415 in 56 MLB games before injury). Went 1-for-3 in first rehab game. Return imminent for the stretch run.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Matt Shaw is on his way back.\n\nThe Cubs' super-utility man started his Triple-A Iowa rehab on Aug. 19, hitting .246/.322/.415 in 56 games before the left-hand sprain. He went 1-for-3 in his first rehab game.\n\nRoster depth incoming for the stretch run.\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Informative / Roster Depth",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 280
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Matt Shaw Rehab Assignment\n**Facts:**\n- Shaw began Triple-A Iowa rehab assignment on Aug. 19 (Wednesday)\n- First rehab game: 1-for-3, played 2B, 5 innings\n- Injured June 29 with a left-hand sprain (fouled a pitch off his hand)\n- 2026 MLB stats: .246/.322/.415 (105 OPS+) in 56 games\n- Has played nearly every position (all three OF spots, and all infield positions except SS)\n- Age: 24\n**Sources:**\n- MLB.com: \"Matt Shaw starts rehab assignment with Triple-A Iowa\"\n- CBS Sports: \"Cubs' Matt Shaw: Begins rehab assignment\"\n- Chicago Sun-Times: \"Matt Shaw expected to head out on rehab assignment this week\" (pre-Aug 15)\n- Yahoo Sports / Bleacher Nation: update pieces\n- OurSports Central (Aug 19 Iowa game notes) confirming debut\n**Confidence:** HIGH for all facts\n**Story angle:** Utility piece for the stretch run. Shaw's versatility (plays everywhere) is exactly what a playoff roster needs. The return is about depth, not a star returning. Frame it as \"one more piece falling into place.\"",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Wild Card Standings / September Outlook",
+      "tier": 2,
+      "status": "",
+      "angle": "Cubs hold NL WC1 with a five-game cushion. Five-and-a-half back of Milwaukee in the division. Seven H2H Brewers games in September frame the stakes. Tonight: focus on Seattle first.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Cubs hold NL WC1 with a five-game cushion, five-and-a-half back of Milwaukee in the division.\n\nSeven H2H games against the Brewers in September will define this year. Tonight? Take care of Seattle first.\n\nPeterson on the mound at 6:15 PM CT. ⚾\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Bold / Analysis",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Wild Card Standings / September Stakes\n**Facts:**\n- Cubs record: 74-55 (after game 1 loss)\n- NL WC1 position with ~5-game cushion\n- Brewers: 79-49 (NL Central leaders)\n- Cubs are 5.5 games back in the NL Central division\n- Seven remaining H2H games vs Brewers: Aug 31–Sep 3 (4 games), Sep 7–9 (3 games)\n- Brewers have NOT clinched 2026 NL Central (per most recent sources — magic number still active)\n**Sources:**\n- sportsbrackets.net, mlbschedule.net, MLB.com standings (search AI summary)\n- Story history from 8/20 and 8/21 for H2H context\n**Confidence:** MEDIUM for all standings figures (search AI summary, not live refresh)\n**Story angle:** Bold framing — the WC1 cushion is solid, but October is the goal. The September Brewers series is the real measuring stick. Motivate without manufacturing anxiety.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "First Pitch Hype — Game 2, T-Mobile Park",
+      "tier": 2,
+      "status": "",
+      "angle": "Peterson vs Anderson's debut. Cubs need to even the series. High-energy pre-game post.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "First pitch tonight at T-Mobile Park.\n\nPeterson vs Anderson — Cubs veteran faces a prospect making his MLB debut. Kade Anderson posted a 1.06 ERA with 135 K in Double-A. That was there.\n\nTie this series up. 6:15 PM CT. Let's go. ⚾\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "6:15 PM CT",
+          "tweet_type": "Bold / Game-Time Hype",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "First Pitch Hype — Game 2\n**Facts:**\n- David Peterson starts for Cubs (debut as a Cub was mentioned as his 9th start)\n- Kade Anderson starts for Mariners (MLB debut)\n- First pitch: 6:15 PM CT, T-Mobile Park\n- Cubs look to even the series at 1-1\n**Story angle:** High energy, brief. Focus on the contrast: Cubs have everything to play for, Mariners hand it to a kid making his first start.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
