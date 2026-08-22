@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-08-22
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-08-22 | T1 | Clark 64-64 Leads BMW Championship at -12; Woodland -11 Off FedExCup Bubble at Bellerive | X, FB, Article | FOLLOW UP |
+| 2026-08-22 | T1 | Yamashita Sets 36-Hole Record 126 (-14) at CPKC Women's Open; Leads Korda by 5 at Royal Mayfair | X, FB, Article | FOLLOW UP |
+| 2026-08-22 | T2 | FedExCup Bubble — Woodland Moves Inside Top 30; Fowler Fighting to Hold 30th | X, FB, Article | FOLLOW UP |
+| 2026-08-22 | T2 | Scheffler -5 After BMW R2 Back-Nine 30; Trails Clark by 7 | X, FB, Article | FOLLOW UP |
+| 2026-08-22 | T2 | CPKC Women's Open R3 Preview — Yamashita vs Korda Saturday in Edmonton | X, FB, Article | NEW |
+
+### STORY 1: Clark 64-64 Leads BMW Championship at -12
+- **Tier:** 1
+- **Category:** PGA Tour / BMW Championship / FedExCup Playoffs / Wyndham Clark / Gary Woodland / Bellerive Country Club
+- **Key facts:** Clark shoots 64-64 = -12 to solo lead BMW Championship at Bellerive CC (par 70); Woodland -11 (64-65), Spaun -10, Gotterup -9; Scheffler moved from +2 to -5 via back-nine 30 in R2; Clark leads by 1 over Woodland; Scheffler 7 back; top 30 after BMW advance to Tour Championship East Lake Aug 27-30
+- **Status:** FOLLOW UP (R1 covered 2026-08-21)
+- **Follow-up ideas:** BMW R3/R4 results; Clark wire-to-wire; Woodland bubble resolution; Scheffler final finish
+
+### STORY 2: Yamashita 36-Hole Record at CPKC Women's Open
+- **Tier:** 1
+- **Category:** LPGA / CPKC Women's Open / Miyu Yamashita / Nelly Korda / Royal Mayfair / Edmonton
+- **Key facts:** Yamashita 62-64=126 (-14) through 36 holes; 36-hole tournament scoring record at Royal Mayfair; 5-shot lead over Korda -9; R3 Saturday; $2.75M purse; par 70 6,452 yds Stanley Thompson; Golf Channel coverage; Henderson defending (won 2025 by 1 over Lee)
+- **Status:** FOLLOW UP (R1 covered 2026-08-21)
+- **Follow-up ideas:** CPKC R3/R4 results; Yamashita vs Korda final rounds; Henderson title chase
+
+### STORY 3: FedExCup Bubble — Woodland Off, Fowler Under Pressure
+- **Tier:** 2
+- **Category:** PGA Tour / FedExCup / BMW Championship / Gary Woodland / Rickie Fowler / Steve Cauley / East Lake
+- **Key facts:** Woodland entered BMW at 31st (outside top 30); after 64-65 now inside top 30; Fowler entered at exactly 30th (last qualifying spot), now under pressure; Cauley at 29th; standings recalculate after each round; East Lake Tour Championship Aug 27-30
+- **Status:** FOLLOW UP (bubble covered 2026-08-21)
+- **Follow-up ideas:** BMW R3/R4 bubble resolution; Fowler/Woodland final positions
+
+### STORY 4: Scheffler Needs Historic Weekend — 7 Back at BMW
+- **Tier:** 2
+- **Category:** PGA Tour / BMW Championship / Scottie Scheffler / Wyndham Clark / Bellerive Country Club
+- **Key facts:** Scheffler -5 through 36 holes (was +2 after R1); back-nine 30 in R2; 7 shots back of Clark; East Lake spot secure; needs extraordinary weekend for BMW title; R3 Saturday
+- **Status:** FOLLOW UP (Scheffler R1 covered 2026-08-21)
+- **Follow-up ideas:** Scheffler R3/R4 results; Clark defense; title outcome
+
+### STORY 5: CPKC Women's Open R3 Preview
+- **Tier:** 2
+- **Category:** LPGA / CPKC Women's Open / Miyu Yamashita / Nelly Korda / Brooke Henderson / Lydia Ko / Royal Mayfair / Edmonton
+- **Key facts:** Yamashita -14 leads by 5 entering R3; Korda -9; Henderson defending (won 2025 CPKC by 1 over Lee); Ko chasing 4th CPKC title (first win 2013 at Royal Mayfair age 15); R3 Saturday; $2.75M purse
+- **Status:** NEW
+- **Follow-up ideas:** CPKC R3 results; Yamashita-Korda gap after Saturday
+
 ## 2026-08-21
 
 | Date | Tier | Story | Platforms | Status |

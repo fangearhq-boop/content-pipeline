@@ -1,6 +1,18 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
+- **Date**: 2026-08-22
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish skipped — WP credentials not in environment (same net result as egress proxy block); dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres)
+- **PostPlanner exports:** gfr-postplanner-2026-08-22.xlsx (7 posts) + gfr-postplanner-tobi-2026-08-22.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-08-22/review-dashboard.html (22 items)
+- **Notes:** BMW R2 CLARK LEADS — Clark 64-64 = -12 solo lead at Bellerive CC (par 70); Woodland -11 (64-65), Spaun -10, Gotterup -9; Scheffler +2 to -5 via back-nine 30 in R2; top 30 after BMW advance to Tour Championship East Lake Aug 27-30; CPKC R2 YAMASHITA RECORD — Yamashita 62-64=126 (-14) at Royal Mayfair Edmonton; new 36-hole tournament scoring record; 5-shot lead over Korda -9; R3 Saturday; $2.75M purse; par 70 6,452 yds Stanley Thompson; FEDEXCUP BUBBLE — Woodland entered at 31st, now inside top 30 after 64-65; Fowler entered at exactly 30th, now under pressure; Cauley at 29th; standings recalculate after R3; SCHEFFLER COMEBACK — World No. 1 trails Clark by 7 shots; back-nine 30 in R2 signals game is arriving at Bellerive; East Lake spot secure; CPKC R3 PREVIEW — Yamashita 5-shot lead entering Saturday; Korda -9 as main chaser; Henderson defending (won 2025 by 1 over Lee); Ko chasing 4th title (won Royal Mayfair 2013 at age 15)
+- **WordPress:** Skipped — WP credentials not in environment (persistent infrastructure issue)
+
+## Previous Run
 - **Date**: 2026-08-21
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
 - **Stories:** 5 total (3 Tier 1, 2 Tier 2)
