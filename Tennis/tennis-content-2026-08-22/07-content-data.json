@@ -1,0 +1,319 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-22",
+  "compiled_at": "2026-08-22T12:22:31.134737+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "S1: Sinner US Open withdrawal",
+      "type": "X Text Post A (breaking news)"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "S2: Nakashima stuns Fritz",
+      "type": "X Text Post A"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "S2: All-American SF set",
+      "type": "X Text Post B"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "S3: Tiafoe beats Musetti",
+      "type": "X Text Post"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "S4: WTA SFs set",
+      "type": "X Text Post"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "S1: Sinner US Open withdrawal",
+      "type": "X Text Post B (analysis)"
+    },
+    {
+      "time": "9:00 PM",
+      "description": "S5: US Open preview",
+      "type": "X Text Post"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Sinner Withdraws From 2026 US Open With Knee Injury — TIER 1",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Jannik Sinner has withdrawn from the 2026 US Open with a right knee injury. 🎾\n\nFirst career Grand Slam withdrawal. Season record: 44-3, six titles. Very sad and disappointed were his words.\n\nAlcaraz is now the only top-2 player in the field.\n\n#Tennis #Sinner #USOpen #USOpen2026",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#Sinner",
+            "#USOpen",
+            "#USOpen2026"
+          ],
+          "char_count": 278
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Sinner's 2026: won 5 straight Masters 1000s, went 44-3.\n\nThen his knee gave out. No Montreal. No Cincinnati. Now no US Open. 😔\n\nHe's targeting the Asian swing in October. Fans have a long wait.\n\n#Tennis #Sinner #USOpen #ATPTour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#Sinner",
+            "#USOpen",
+            "#ATPTour"
+          ],
+          "char_count": 227
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-sinner-withdraws-us-open-2026.html",
+        "headline": "Jannik Sinner Withdraws From the 2026 US Open With Knee Injury",
+        "word_count": 626
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Sinner Withdraws From 2026 US Open\n\n#### Social Image (1080×1350, 4:5 vertical)\n\n**Photo Search Terms:**\n1. Jannik Sinner ATP Tour\n2. Jannik Sinner hard court\n3. Jannik Sinner US Open\n4. Jannik Sinner Cincinnati\n\n**Text Overlay:**\n- Headline: \"SINNER OUT — US OPEN\"\n- Subtitle: \"World No. 1 withdraws with knee injury\"\n- Subtitle color: Warm Coral #FF6F61 (injury/urgent)\n\n**Composition Notes:** Portrait of Sinner, somber expression preferred; or mid-match intensity. Semi-transparent dark bar covers bottom third for text overlay.\n\n---\n\n#### Article Hero (1200×630, 1.91:1 landscape)\n\n**Photo Search Terms:** Same as above.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Sinner Withdraws From 2026 US Open\n**Confidence: HIGH** (multiple major outlets, ATP Tour confirmed, player statement)\n- **Jannik Sinner (ITA, World No. 1)** officially withdrew from the 2026 US Open — announced August 21, 2026\n- Injury: right knee tendon inflammation — no surgery required but needs more time\n- Player quote: \"very sad and disappointed\"\n- This is his **first-ever Grand Slam withdrawal** since his 2019 US Open debut\n- 2026 season record: **44-3**, six titles\n- Won the first five Masters 1000 events of the year (Indian Wells, Miami, Monte-Carlo, Madrid, Rome)\n- Already withdrew from both Montreal and Cincinnati with same knee issue\n- Next target: **Asian hard-court swing** — Beijing/Shanghai in October\n- Context: Third consecutive Grand Slam where either Sinner or Alcaraz has been absent (Alcaraz missed RG and Wimbledon; Sinner now misses US Open)\n- ATP Rankings as of Aug 20: Sinner No. 1 (13,450 pts), Alcaraz No. 2 (8,160 pts)\n**Sources:** ATP Tour, CBS Sports, Al Jazeera, Yahoo Sports, Olympics.com (all Aug 21-22, 2026)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Nakashima Stuns Fritz in Cincinnati QF; All-American ATP SF Set — TIER 1",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "UPSET. Nakashima beats Fritz 7-6(9), 4-6, 6-3 in Cincinnati. 🔥\n\nFritz had H2H 4-1. Led 11-9 in the first-set tiebreak. Nakashima had other ideas.\n\n22 hard-court wins this season — Tour-leading. Back-to-back Masters 1000 SFs.\n\n#Tennis #Nakashima #CincinnatiOpen #ATPTour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#Nakashima",
+            "#CincinnatiOpen",
+            "#ATPTour"
+          ],
+          "char_count": 269
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Tiafoe vs. Nakashima in the Cincinnati SF today.\n\nFirst all-American men's Cincinnati semifinal since Roddick and Mardy Fish in 2010. 🇺🇸\n\nUS tennis is having a moment.\n\n#Tennis #Tiafoe #Nakashima #CincinnatiOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#Tiafoe",
+            "#Nakashima",
+            "#CincinnatiOpen"
+          ],
+          "char_count": 211
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-nakashima-stuns-fritz-cincinnati-qf.html",
+        "headline": "Nakashima Stuns Fritz to Set Up All-American Cincinnati Semifinal",
+        "word_count": 559
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Nakashima Stuns Fritz; All-American Cincinnati SF\n\n#### Social Image (1080×1350, 4:5 vertical)\n\n**Photo Search Terms:**\n1. Brandon Nakashima ATP Tour\n2. Brandon Nakashima Cincinnati\n3. Brandon Nakashima United States\n4. Taylor Fritz Cincinnati\n\n**Text Overlay:**\n- Headline: \"NAKASHIMA STUNS FRITZ\"\n- Subtitle: \"7-6(9), 4-6, 6-3 — Cincinnati QF\"\n- Subtitle color: Soft Gold #F4C542\n\n**Composition Notes:** Nakashima celebrating or serving, arms raised preferred. American flag/patriotic moment if available. Semi-transparent dark bar covers bottom third.\n\n---\n\n#### Article Hero (1200×630, 1.91:1 landscape)\n\n**Photo Search Terms:** Same as above.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Nakashima def. Fritz; All-American ATP SF\n**Confidence: HIGH** (ATP Tour confirmed, Tennis Majors detailed match report)\n- **[27] Brandon Nakashima def. [6] Taylor Fritz 7-6(9), 4-6, 6-3**\n- Fritz H2H heading in: 4-1; Nakashima pulled off the upset\n- First set tiebreak went to 11-9 (Nakashima); 32-shot rally at 4/4 was the turning point\n- Fritz hit 14 aces and won just 3 points behind first serve in first set, still lost the tiebreak\n- Third set: Fritz broke to open, Nakashima broke back at 3-3, then broke again for 5-3 and served out\n- Nakashima now has **22 hard-court wins this season — Tour-leading**\n- **Back-to-back Masters 1000 SFs for the first time in his career** (Montreal was first)\n- ATP SFs Saturday: Tiafoe vs. Nakashima; Cobolli vs. Fils\n- **First all-American men's Cincinnati SF since 2010** (Roddick and Mardy Fish)\n- Career-high ranking No. 22 (set after Montreal runner-up finish)\n**Sources:** ATP Tour, Tennis Majors, Tennis.com (Aug 21-22, 2026)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Tiafoe Beats Musetti in Cincinnati QF; First Masters 1000 SF in Two Years — TIER 2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Tiafoe beats Musetti 7-6(2), 7-5. Into the Cincinnati SF. 🙌\n\nFirst Masters 1000 semifinal in two years. He'd retired in Montreal with a hand injury just weeks ago.\n\nCincinnati always brings the best out of him.\n\n#Tennis #Tiafoe #CincinnatiOpen #ATPTour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#Tiafoe",
+            "#CincinnatiOpen",
+            "#ATPTour"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-tiafoe-musetti-cincinnati-qf.html",
+        "headline": "Tiafoe Beats Musetti to Reach His First Masters 1000 Semifinal in Two Years",
+        "word_count": 499
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Tiafoe Beats Musetti\n\n#### Social Image (1080×1350, 4:5 vertical)\n\n**Photo Search Terms:**\n1. Frances Tiafoe Cincinnati\n2. Frances Tiafoe ATP Tour\n3. Frances Tiafoe hard court\n4. Frances Tiafoe United States\n\n**Text Overlay:**\n- Headline: \"TIAFOE INTO THE SF\"\n- Subtitle: \"First Masters 1000 semi in two years\"\n- Subtitle color: Soft Gold #F4C542\n\n**Composition Notes:** Tiafoe fist pump or crowd celebration moment. Energy/emotion preferred. Semi-transparent dark bar covers bottom third.\n\n---\n\n#### Article Hero (1200×630, 1.91:1 landscape)\n\n**Photo Search Terms:** Same as above.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Tiafoe def. Musetti 7-6(2), 7-5\n**Confidence: HIGH** (ATP Tour confirmed, Tennis Majors)\n- **[17] Frances Tiafoe def. [10] Lorenzo Musetti 7-6(2), 7-5**\n- First set tiebreak: Tiafoe dominated 7-2 after Musetti led 3-2 in the set\n- Musetti broke back at 5-5 in the second; Tiafoe broke immediately again, served out 7-5\n- **First Masters 1000 SF for Tiafoe in two years** (previous was 2024 Cincinnati)\n- Crowd reaction described as \"one of the loudest roars of the week\"\n- Context: Tiafoe had retired in Montreal with a hand injury; Cincinnati run marks strong comeback\n- SF: Tiafoe vs. Nakashima (all-American matchup)\n**Sources:** ATP Tour, Tennis Majors, Tennis.com (Aug 21-22, 2026)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "WTA Cincinnati Semifinals Set — Swiatek vs. Pegula, Gauff vs. Bejlek — TIER 2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "WTA Cincinnati SFs Saturday: Swiatek vs. Pegula and Gauff vs. Bejlek. 🎾\n\nSwiatek: 10-match winning streak. H2H vs. Pegula: 7-5.\n\nBejlek: 20 years old. Beat Sabalenka two days ago. Now faces the defending US Open champion.\n\n#Tennis #WTA #CincinnatiOpen #Swiatek",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#WTA",
+            "#CincinnatiOpen",
+            "#Swiatek"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-wta-cincinnati-semifinals.html",
+        "headline": "WTA Cincinnati Semifinals: Swiatek Faces Pegula; Gauff Meets Cinderella Bejlek",
+        "word_count": 630
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "WTA Cincinnati Semifinals\n\n#### Social Image (1080×1350, 4:5 vertical)\n\n**Photo Search Terms:**\n1. Iga Swiatek Cincinnati\n2. Iga Swiatek hard court\n3. Jessica Pegula Cincinnati\n4. Coco Gauff Cincinnati\n\n**Text Overlay:**\n- Headline: \"WTA SFs — CINCINNATI\"\n- Subtitle: \"Swiatek vs. Pegula | Gauff vs. Bejlek\"\n- Subtitle color: Soft Gold #F4C542\n\n**Composition Notes:** Swiatek action shot preferred; or split graphic concept if Canva allows. Semi-transparent dark bar covers bottom third.\n\n---\n\n#### Article Hero (1200×630, 1.91:1 landscape)\n\n**Photo Search Terms:** Same as above.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "WTA Cincinnati Semifinals\n**Confidence: HIGH** (WTA official, Last Word on Sports, Tennis.com)\n**WTA SF 1: [7] Iga Swiatek vs. [3] Jessica Pegula**\n- Swiatek advanced when Rybakina retired with left ankle injury (trailing 4-1, first set)\n- Swiatek current winning streak: **10 matches**\n- H2H Swiatek leads Pegula **7-5**; last meeting: May 2026 Italian Open QF, Swiatek won 6-1, 6-2\n- Pegula beat Anisimova 6-4, 2-6, 7-6(4), took a medical timeout in second set\n- Rybakina ankle injury raises US Open fitness questions\n**WTA SF 2: [4] Coco Gauff vs. [35] Sara Bejlek**\n- Gauff is the defending US Open champion\n- Bejlek (CZE, 20yo) stunned Sabalenka 7-6(7), 6-4 on Aug 20 — first top-10 win of her career\n- Bejlek's first WTA 1000 SF\n**Sources:** WTA Tennis, Last Word on Sports, Tennis.com (Aug 22, 2026)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "US Open Preview — Record $108M Prize, Draw Ceremony Aug 27, Alcaraz the Last Man Standing — TIER 2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "US Open 2026 preview: 🎾\n\nNo. 1 Sinner — OUT (knee)\nNo. 2 Alcaraz — IN, defending champion, 4 months without a match\nPrize money: $108M — largest in tennis history\n\nDraw ceremony: Aug 27. Main draw: Aug 30.\n\n#Tennis #USOpen #USOpen2026 #Alcaraz",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#USOpen",
+            "#USOpen2026",
+            "#Alcaraz"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-us-open-preview-draw-record-prize.html",
+        "headline": "US Open 2026 Preview: No Sinner, Record Prize Money, and the Most Open Draw in Years",
+        "word_count": 727
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "US Open 2026 Preview\n\n#### Social Image (1080×1350, 4:5 vertical)\n\n**Photo Search Terms:**\n1. Carlos Alcaraz US Open\n2. Carlos Alcaraz USTA\n3. Alcaraz US Open trophy\n4. US Open hard court Flushing\n\n**Text Overlay:**\n- Headline: \"US OPEN 2026\"\n- Subtitle: \"Draw ceremony Aug 27 · $108M record prize\"\n- Subtitle color: Soft Gold #F4C542\n\n**Composition Notes:** Alcaraz celebrating at US Open preferred; iconic USTA venue shots also work. Semi-transparent dark bar covers bottom third.\n\n---\n\n#### Article Hero (1200×630, 1.91:1 landscape)\n\n**Photo Search Terms:** Same as above."
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "US Open 2026 Preview\n**Confidence: HIGH** (Tennis Majors, Sports Video Group, WTA, LTA, Flashscore)\n- **Total prize money: $108 million** — up 21% from 2025, largest in tennis history\n- Fan Week begins: **August 23** (qualifying, Arthur Ashe Kids' Day, Mixed Doubles Championship)\n- Draw ceremony: **Thursday, August 27**\n- Seedings based on rankings of **August 24**\n- Main draw begins: **Sunday, August 30**\n- Women's final: Saturday, September 12; Men's final: Sunday, September 13\n- Defending men's champion: Carlos Alcaraz\n- Defending women's champion: Aryna Sabalenka\n- Sinner withdrawn (knee); Alcaraz confirmed (wrist, returning from April 14 absence)\n- **14 total player withdrawals** from 2026 US Open field\n- Rybakina (ankle) US Open status uncertain after Cincinnati retirement\n- ATP No. 1: Sinner (withdrawn); ATP No. 2: Alcaraz (confirmed, defending champion)\n**Sources:** Tennis Majors, LTA, Flashscore, Tennis365 (Aug 22, 2026)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
