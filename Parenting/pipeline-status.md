@@ -1,5 +1,27 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: August 22, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | CPSC recalls: JINHEZO Mini Waterproof LED Tea Lights + OKK Trading Easter LED Headbands (button battery ingestion hazard, Aug 20, 2026); D49 BOCES dissolution (Board voted Aug 17, state board affirmed Aug 19, Student Success Center takes over hub role); D11 Edukit free supply kits (14,000+ K-8 students); Bear Creek Nature Center 50th "Bear-thday Party" (TODAY, free, 245 Bear Creek Rd, through 2 PM); AAP survey (1 in 5 teens ages 12-21 asked AI chatbot for mental health advice); COS Weekend (Switchbacks vs. El Paso Locomotive 7 PM $30; Sunday Market Acacia Park 9AM-2PM free; possible 94°F record high; Rock Island Trail extension construction started) |
+| Story History Check | COMPLETE | S1 new (JINHEZO/OKK Trading — different from Aug 21 Vevor/CooCooBaby baby lounger recalls, different from Aug 20 PIXLABBY/Wnttmt/Michley); S2 new (D49 BOCES dissolution + D11 Edukit — different from Aug 21 school week check-in); S3 follow-up (Bear Creek 50th day-of guide — Aug 20 weekend roundup included it as a pick); S4 new (AAP AI chatbot mental health — different from Aug 21 CDC flu vaccine study); S5 new (weekend snapshot — Switchbacks + Sunday Market) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: CPSC.gov, WRNJ Radio, AAP News/Publications, El Paso County, PeakRadar, KRDO, KOAA, Gazette, Springs Daily, D49.org, D11.org, Visit COS |
+| Story Analysis | COMPLETE | 02-story-analysis.md — 5 story sections with angles, tiers, engagement hooks, headlines |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (S1: 2, S2: 1, S3: 1, S4: 2, S5: 1); all ≤280 chars (fixed 7 posts after verify-facts flag); 4 hashtags each; max 1 exclamation mark per post |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; NO hashtags; COS voice; contractions throughout |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts; 1200×675 (social) + 1200×630 (article hero); clean bottom third; no celebrity likenesses or brand logos |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries (5 stories × 2); all not_started; gemini base_only; kAHCKfCZgk0 |
+| Articles | COMPLETE | 5 articles (500-1000 words; semantic HTML5; What's Next sections; 0 exclamation marks; no figure tags; no photo credits); bylines: Sarah Morales (A1, A3, A5), Jamie Rivera (A2, A4) |
+| Fact-Check | COMPLETE | verify-facts.py — 99 claims (128 HIGH, 88 MEDIUM, 71 LOW); all char-limit issues fixed before re-run; posting window warnings (cosmetic known issue) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts (parser compat known issue), 5 articles, 22 items |
+| Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-08-22.xlsx (7 posts 13:07–20:43 MT) + cosp-postplanner-tobi-2026-08-22.xlsx (7 TOBI posts) |
+| WordPress Publish | ATTEMPTED | proxy blocks WordPress API — 403 Forbidden (same as all prior runs) |
+| Dashboard Push | ATTEMPTED | proxy lacks write access to content-dashboards repo (same as all prior runs) |
+| Git Commit/Push | COMPLETE | committed and pushed to main |
+
 ## Latest Run: August 21, 2026
 
 | Step | Status | Notes |

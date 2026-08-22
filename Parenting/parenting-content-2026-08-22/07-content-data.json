@@ -1,0 +1,283 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-22",
+  "compiled_at": "2026-08-22T12:37:38.030890+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "CPSC Recalls Two Products Over Button Battery Danger — TIER 1",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "CPSC recalled JINHEZO LED tea lights and OKK Trading Easter headbands for easy child access to button batteries.\n\nA swallowed button battery can cause fatal burns in hours.\n\nCheck your home and CPSC.gov for the remedy.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 279
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Button battery recalls: JINHEZO LED tea lights and OKK Trading Easter LED headbands.\n\nRecalled by CPSC: batteries not properly secured — separate from this week's baby lounger recalls.\n\nDetails at CPSC.gov.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-cpsc-button-battery-recalls.html",
+        "headline": "CPSC Recalls Two Products for Button Battery Danger — Check Your Home Now",
+        "word_count": 722
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "CPSC Button Battery Recalls\n\n#### Social Image (1200×675) — story-1-button-battery-social.png\n**Prompt:**\nA stark, clean product safety scene on a white-to-light-gray gradient background. A small, shiny silver coin-sized button battery rests on a light surface alongside a tiny LED tea light candle with a translucent flickering bulb. The composition is minimal and slightly dramatic — soft directional studio lighting from the upper left creates a gentle shadow, emphasizing the small scale of the battery. The color palette is white, silver, and cool gray with a subtle warm glow from the tea light. Art style: clean editorial product photography aesthetic. Leave the bottom third of the frame clear and uncluttered for text overlay. No text, no labels, no watermarks.\n\n#### Article Hero (1200×630) — story-1-button-battery-hero.png\n**Prompt:**\nA close-up, top-down flat-lay composition on a clean white surface showing a small silver button battery cell next to a disassembled miniature LED product — a tiny circuit board and battery compartment tray, slightly ajar. Soft natural light from a window at the upper edge of frame. Color palette is predominantly white and silver with cool undertones. Art style: clean editorial still-life photography, slightly macro. Bottom third of the image is a plain white or very light surface — clear and unobstructed for text overlay. No text, no watermarks, no brand logos.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "CPSC Button Battery Recalls — JINHEZO + OKK Trading\n**Confidence: HIGH** (CPSC.gov official, WRNJ Radio confirmed)\n**JINHEZO Mini Waterproof LED Tea Lights:**\n- Recalled: August 20, 2026\n- Hazard: Button batteries can be accessed easily by children — poses serious ingestion risk, including death\n- Violation: Mandatory consumer product safety standard for button cell/coin batteries",
+        "sources": "- Source: CPSC.gov, WRNJ Radio\n**OKK Trading Easter LED Headbands:**\n- Recalled for same hazard: button batteries not properly secured\n- Risk of serious injury or death from battery ingestion\n- Violation: Mandatory toy safety standards\n- Source: CPSC.gov\n**Context for article:**\n- CPSC also announced recalls of infant sleepsuits, children's pajamas, hair serum, and toy building sets in this same batch\n- Button batteries remain one of CPSC's top child safety concerns — a swallowed battery can burn through esophageal tissue within 2 hours\n- Parents should check CPSC.gov for remedy (refund or return info)\n- These are SEPARATE from Aug 20-21 baby lounger recalls already covered"
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "D49 Dissolves BOCES; D11 Sends Free School Supplies to 14,000 Kids — TIER 2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Two COS school updates this week:\n\nD49 dissolved its BOCES partnership — state board affirmed Aug 19. Student Success Center takes over.\n\nD11 sending free, grade-specific kits to 14,000+ K-8 students via Edukit.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-d49-boces-d11-edukit-supplies.html",
+        "headline": "D49 Dissolves BOCES Partnership; D11 Sending Free Supplies to 14,000 Students",
+        "word_count": 517
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D49 BOCES + D11 Free School Supplies\n\n#### Social Image (1200×675) — story-2-school-supplies-social.png\n**Prompt:**\nA bright, cheerful flat-lay scene of a neat school supply kit laid out on a clean wood-grain desk: pencils, colored markers, a ruler, a glue stick, a small notebook, and a pencil case arranged in an organized grid. The color palette is warm and optimistic — yellows, teals, and coral accents on a light background. Soft even natural lighting, minimal shadows. Art style: bright editorial lifestyle photography, back-to-school theme. Bottom third of the image is the clean wood-grain desk surface — uncluttered for text overlay. No text, no watermarks.\n\n#### Article Hero (1200×630) — story-2-school-supplies-hero.png\n**Prompt:**\nAn overhead flat-lay of an open school backpack surrounded by colorful school supplies — pencils, a ruler, colored folders, an eraser, and crayons — arranged neatly on a soft light-gray surface. The backpack is a neutral teal or navy color. Color palette: teal, warm yellow, coral accents, light gray background. Bright diffused natural light. Art style: clean, vibrant lifestyle photography editorial style. The bottom third of the image is the clean light-gray surface, clear for text overlay. No text, no watermarks.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D49 BOCES Dissolution + D11 Free Supplies\n**Confidence: HIGH** (district websites, Springs Daily)\n**D49 — BOCES Dissolution:**\n- D49 Board voted August 17 to dissolve ERBOCES (Education ReImagined BOCES)\n- August 19: Colorado State Board of Education affirmed D49 will continue serving students in BOCES-authorized online schools\n- New D49 Student Success Center will serve as hub for specialized learning\n- Preschool expansion and Base49 moving to former Falcon Elementary building\n- D49 is currently in week 3+ of school (started Aug 3-4)\n**D11 — Free School Supply Kits:**\n- D11 partnering with Edukit to deliver free, grade-specific school supply kits\n- More than 14,000 K-8 students will receive kits\n- D11 started Aug 12; currently in week 2\n- Contact: d11.org\n**Context:**\n- D20: Stagger start Aug 17-18; currently in week 1 (K/6th/9th started Aug 17, all others Aug 18)\n- D49 ~23,000 students; D11 ~25,000 students; D20 ~28,000 students\n**Sources:** D49.org, D11.org, Springs Daily (Aug 20, 2026)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Bear Creek Nature Center 50th Party — Today Through 2 PM (Free) — TIER 2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Still time — Bear Creek Nature Center's free 50th party runs until 2 PM today at 245 Bear Creek Rd.\n\nRibbon cutting for the new \"Life in the Shadows\" exhibit at 12:30 PM. Insect sweeps, book readings, and more.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-bear-creek-50th-day-of-guide.html",
+        "headline": "Bear Creek Nature Center's 50th Party Is Happening Right Now — and It's Free",
+        "word_count": 605
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Bear Creek Nature Center 50th Party\n\n#### Social Image (1200×675) — story-3-bear-creek-social.png\n**Prompt:**\nA sunlit outdoor nature scene in Colorado: a trail winding through a lush green riparian area with cottonwood trees, wildflowers in the foreground, and soft golden morning light filtering through the canopy. A small family silhouette — two adults and a child — is visible in the middle distance on the trail, backs to camera, exploring. The mood is warm, joyful, and adventurous. Color palette: greens, warm gold, sky blue. Art style: bright nature lifestyle photography. Bottom third of the image is a softly blurred green meadow or trail ground, clear for text overlay. No text, no watermarks, no identifiable faces.\n\n#### Article Hero (1200×630) — story-3-bear-creek-hero.png\n**Prompt:**\nAn exterior view of a warm, welcoming nature center building nestled among mature cottonwood trees in a Colorado creek-side setting. The building has a rustic-modern park architecture style — wood siding, large windows, a welcoming entrance. Sunlight dapples the scene, casting warm afternoon shadows. Wildflowers are visible near the entrance. The mood is celebratory and inviting. Color palette: warm greens, browns, golden light. Art style: architectural lifestyle photography with natural warmth. Bottom third of the image is a sunlit gravel path or grass lawn, clear for text overlay. No text, no watermarks, no identifiable signage.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Bear Creek Nature Center 50th Party — Today\n**Confidence: HIGH** (El Paso County official site, PeakRadar, KRDO)\n- **Event:** Bear Creek Nature Center 50th Anniversary \"Bear-thday Party\"\n- **Date/Time:** TODAY, Saturday August 22, 2026 — 10:00 AM to 2:00 PM MT\n- **Location:** 245 Bear Creek Road, Colorado Springs, CO\n- **Cost:** FREE (no cost to attend)\n- **Activities:**\n- Living History Hikes at 10:30, 10:45, 11:00, and 11:15 AM (pre-registration required)\n- Book readings by Nancy Bentley\n- Insect sweeps\n- Ribbon cutting for \"Life in the Shadows\" exhibit at 12:30 PM\n- Silent auction custom artwork winner announced at 1:45 PM\n- Bear Creek Plein Air, Peak & Palette visual arts event running alongside\n- **Status:** FOLLOW-UP (Aug 20 Weekend Family Roundup included Bear Creek as a pick; today is the day-of guide)\n**Sources:** elpasoco.com/bcnc50/, PeakRadar, KRDO (Aug 11, 2026)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "AAP Survey: 1 in 5 Teens Turned to AI Chatbots for Mental Health Advice — TIER 1",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4-1",
+          "text": "1 in 5 teens and young adults (ages 12-21) asked an AI chatbot for mental health advice, per a new AAP survey.\n\nWith school back in session, it's worth knowing where your teen is turning when they're struggling.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 272
+        },
+        {
+          "label": "Post 4-2",
+          "text": "AI chatbots can feel low-stakes and judgment-free to a teenager — that's why 1 in 5 are using them for mental health support.\n\nIt's a conversation starter, not a crisis — but it's worth having this weekend.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-teens-ai-chatbots-mental-health.html",
+        "headline": "1 in 5 Teens Asked an AI Chatbot for Mental Health Advice, AAP Survey Finds",
+        "word_count": 800
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "AAP Teens + AI Mental Health\n\n#### Social Image (1200×675) — story-4-teen-ai-mental-health-social.png\n**Prompt:**\nA quiet bedroom scene at dusk: a teenager sitting cross-legged on a bed, back slightly turned toward the camera, holding a glowing smartphone. The room has soft warm lamp light mixed with cooler blue light from the phone screen. The mood is reflective and slightly pensive but not alarming — contemplative rather than distressed. Bookshelves and school items visible in the background. Color palette: warm amber, cool blue-white phone glow, soft shadows. Art style: cinematic lifestyle photography, intimate and authentic. Bottom third of the frame shows the bedspread/duvet in a neutral color — clear for text overlay. No text, no watermarks, no identifiable faces.\n\n#### Article Hero (1200×630) — story-4-teen-ai-mental-health-hero.png\n**Prompt:**\nA young person's hands holding a modern smartphone, thumbs hovering over a chat interface on screen. The background is softly blurred — a comfortable living space with warm tones. The phone screen shows a text conversation interface (no actual readable text — just visual UI elements). Lighting is soft and natural with a slight warm indoor glow. Color palette: warm neutrals, soft teal screen glow, light background. Art style: clean editorial lifestyle photography. Bottom third of the image is the blurred living space background — soft and unobtrusive for text overlay. No text, no watermarks, no identifiable faces or real brand logos on the phone screen.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "AAP Survey — Teens Using AI Chatbots for Mental Health\n**Confidence: MEDIUM** (AAP News confirmed, specific study parameters from search summary)\n- **Survey:** AAP survey of 1,000+ adolescents and young adults ages 12-21\n- **Finding:** 1 in 5 (nearly 20%) had asked an AI chatbot (e.g., ChatGPT) for mental health advice\n- **Published:** AAP News, August 2026\n- **Context:** Study done alongside pediatrics research; AAP urging parents to have conversations about AI use for personal/health matters\n- **Also from AAP August 2026:** Moderate screen time associated with faster concussion recovery in pediatric patients (screen time study using wearable cameras)\n- **Verification note:** The 1 in 5 / ~20% figure is MEDIUM confidence — from search summary. Mark as MEDIUM pending verification.\n**Sources:** AAP News, AAP Publications (August 2026)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "COS Saturday Snapshot — Switchbacks Tonight, Sunday Market, Weather Watch — TIER 2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "COS weekend check:\n\n🌡️ Record high of 94°F today — gusty afternoon, low storm threat\n⚽ Switchbacks vs. El Paso Locomotive tonight, 7 PM, from $30\n🛍️ Sunday Market at Acacia Park tomorrow, 9 AM–2 PM, free\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-cos-weekend-snapshot.html",
+        "headline": "COS Weekend: Switchbacks Tonight, Sunday Market Tomorrow, and Yes, It Might Hit 94",
+        "word_count": 724
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "COS Weekend Snapshot\n\n#### Social Image (1200×675) — story-5-cos-weekend-social.png\n**Prompt:**\nA vibrant Colorado Springs weekend scene: a wide, sun-drenched outdoor market with colorful vendor canopy tents in a park setting, Pikes Peak visible in the background under a brilliant blue sky with a few cumulus clouds. Families strolling among the tents, fresh produce and artisan goods on display. Warm morning light. The mood is festive, community-oriented, and summery. Color palette: bright primary colors on vendor tents, blue sky, green park grass, warm golden sunlight. Art style: bright editorial lifestyle photography. Bottom third of the image is the park grass or a tent canopy edge, clear for text overlay. No text, no watermarks, no identifiable faces close-up.\n\n#### Article Hero (1200×630) — story-5-cos-weekend-hero.png\n**Prompt:**\nA collage-style composite scene evoking a Colorado Springs summer weekend: in one half, a soccer stadium at dusk with stadium lights glowing warm orange and green field visible — the crowd is a colorful blur; in the other half, a bright open-air farmers market in a tree-lined park with mountain silhouette in the distance. The split is a soft diagonal blend rather than a hard line. Color palette: teal, coral, gold, blue sky, deep green. Art style: editorial graphic lifestyle photography with painterly composite blending. Bottom third of the image fades to a soft gradient of the brand's teal — clear for text overlay. No text, no watermarks, no identifiable faces."
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "COS Weekend Snapshot\n**Confidence: HIGH** (KOAA, Visit COS, Gazette, confirmed event listings)\n**Switchbacks FC vs. El Paso Locomotive FC:**\n- Tonight, Saturday August 22, 2026\n- Kickoff: 7:00 PM MT; Gates open 6:00 PM\n- Venue: Weidner Field, Colorado Springs\n- Tickets: From $30",
+        "sources": "- Source: KOAA weekend guide\n**Colorado Springs Sunday Market:**\n- Sunday, August 23, 2026\n- Hours: 9:00 AM – 2:00 PM MT\n- Location: Acacia Park, Colorado Springs\n- Free to attend; local produce, artisan foods, handmade goods, live music\n- Source: KOAA weekend guide\n**Weather:**\n- Possible record high: 94°F (ties/breaks daily record)\n- Skies: mainly clear morning, partly cloudy afternoon\n- Afternoon: spotty chances of gusts; low-level moisture limited; storm threat LOW\n- Overnight low: ~53°F\n- Source: Colorado Springs Gazette (Aug 21, 2026)\n**Rock Island Trail Extension:**\n- Construction began on a 2+ mile extension between Sand Creek and Constitution Avenue\n- Good news for families who use Colorado Springs trails\n- Source: Search (cross-reference needed)\n**Sources:** KOAA, Gazette, Visit COS (Aug 21-22, 2026)"
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

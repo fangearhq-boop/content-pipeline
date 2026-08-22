@@ -2,6 +2,55 @@
 
 ---
 
+## August 22, 2026
+
+### Story 1: CPSC Recalls JINHEZO LED Tea Lights and OKK Trading Easter Headbands for Button Battery Hazard
+- **Date:** 2026-08-22
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recalled JINHEZO Mini Waterproof LED Tea Lights (Aug 20, 2026) and OKK Trading Easter LED Headbands for children's easy access to button batteries. Button battery ingestion can cause fatal esophageal burns within hours. Separate from Aug 20-21 baby lounger recalls. Check CPSC.gov for remedy. Poison Control 1-800-222-1222.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** Recalled Aug 20, 2026; hazard: battery ingestion can cause fatal burns within hours; violates mandatory consumer product safety standard for button cell batteries; check CPSC.gov; Poison Control 1-800-222-1222
+
+### Story 2: D49 Dissolves BOCES Partnership; D11 Sending Free Supply Kits to 14,000+ K-8 Students
+- **Date:** 2026-08-22
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — D49 Board voted Aug 17 to dissolve ERBOCES partnership; Colorado State Board of Education affirmed Aug 19. New Student Success Center takes over hub role for specialized/online learning. Base49 moving to former Falcon Elementary. D11 partnering with Edukit to deliver free, grade-specific supply kits to 14,000+ K-8 students. D49 in week 3+; D11 in week 2; D20 in week 1.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** D49 Board voted Aug 17; state board affirmed Aug 19; D11 Edukit kits to 14,000+ K-8 students; D49 started Aug 3-4; D11 started Aug 12; D20 stagger start Aug 17-18
+
+### Story 3: Bear Creek Nature Center 50th Party — Day-Of Guide (Free, Through 2 PM Today)
+- **Date:** 2026-08-22
+- **Content Pillar:** Local Events
+- **Angle:** FOLLOW-UP (Aug 20 weekend roundup included Bear Creek as a pick) — Day-of guide for Bear Creek Nature Center's free 50th "Bear-thday Party" at 245 Bear Creek Road, through 2 PM. Living history hikes pre-reg only (done by 11:15 AM). Book readings (Nancy Bentley), insect sweeps, "Life in the Shadows" ribbon cutting at 12:30 PM, silent auction reveal at 1:45 PM. Bear Creek Plein Air, Peak & Palette running alongside.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** 245 Bear Creek Road; free; through 2 PM Aug 22, 2026; ribbon cutting 12:30 PM; silent auction reveal 1:45 PM
+
+### Story 4: AAP Survey — 1 in 5 Teens Ages 12-21 Have Asked AI Chatbots for Mental Health Advice
+- **Date:** 2026-08-22
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — AAP survey of 1,000+ adolescents ages 12-21 found nearly 1 in 5 have asked AI chatbots (e.g., ChatGPT) for mental health advice. Back-to-school timing. Why teens turn to AI (accessibility, anonymity). AI limits vs. real mental health support. Conversation guide for parents. Local resources: Pikes Peak Mental Health Center 719-572-6100, school counselors, Crisis Text Line (text HOME to 741741).
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (MEDIUM):** 1 in 5 (~20%) from AAP survey of 1,000+ adolescents ages 12-21 — MEDIUM confidence; Pikes Peak Mental Health Center 719-572-6100 (HIGH); Crisis Text Line HOME to 741741 (HIGH)
+
+### Story 5: COS Weekend Snapshot — Switchbacks Tonight, Sunday Market Tomorrow, Possible 94°F Record
+- **Date:** 2026-08-22
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Weekend guide: Switchbacks vs. El Paso Locomotive FC tonight at Weidner Field (7 PM kickoff, gates 6 PM, from $30); Colorado Springs Sunday Market at Acacia Park Sunday 9 AM-2 PM (free); possible record high of 94°F today with gusty afternoon winds, low storm threat; Rock Island Trail extension construction started between Sand Creek and Constitution Avenue.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** Switchbacks kickoff 7 PM, gates 6 PM, Weidner Field, from $30; Sunday Market Acacia Park 9 AM-2 PM free; possible 94°F record high; afternoon gusty winds; Rock Island Trail extension Sand Creek to Constitution Ave
+
+---
+
 ## August 21, 2026
 
 ### Story 1: CPSC Recalls Multiple Amazon Baby Loungers — Vevor and CooCooBaby
