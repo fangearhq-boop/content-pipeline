@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-08-22
+
+| Date | Tier | Story | Formats | Status |
+|------|------|-------|---------|--------|
+| 2026-08-22 | T1 | Klay Thompson Signs With Miami Heat — 2yr/$13M, Joins Giannis and Bam | X, FB, Article | NEW |
+| 2026-08-22 | T1 | Kawhi Leonard Investigation Could Create League-Wide Salary-Cap Loophole | X, FB, Article | FOLLOW UP |
+| 2026-08-22 | T2 | LeBron James Confirms 24th Season at Fanatics Fest NYC | X, FB, Article | FOLLOW UP |
+| 2026-08-22 | T2 | Stephen Curry Extension — 7 Days to August 29 Window | X, FB, Article | FOLLOW UP |
+| 2026-08-22 | T2 | DeMar DeRozan Signs With Denver Nuggets — 1yr/$3.88M Veteran Minimum | X, FB, Article | NEW |
+
+### STORY 1: Klay Thompson to Miami Heat
+- **Tier:** 1
+- **Category:** NBA Free Agency / Miami Heat / Klay Thompson
+- **Key facts:** Signed 2-year, nearly $13M deal with Heat; Dallas Mavericks bought out final year ($17.5M value) of his contract; cleared waivers; four-time NBA champion; five-time All-Star; averaged 11.7 ppg on 39.3% shooting in Dallas (career-worst); joins Giannis Antetokounmpo and Bam Adebayo; contract includes player option in year 2; Miami lost Tyler Herro and Norman Powell this offseason
+- **Status:** NEW
+- **Follow-up ideas:** Training camp chemistry with Giannis/Bam; preseason performance; Heat playoff outlook
+
+### STORY 2: Kawhi Leonard — Cap Loophole
+- **Tier:** 1
+- **Category:** NBA Investigation / Salary Cap / Los Angeles Clippers / Kawhi Leonard
+- **Key facts:** Forbes analysis warns NBA ruling could create league-wide salary-cap loophole via sponsor introductions; Aspiration ($28M) + Daktronics deals at center; Clippers/NBAPA preparing challenges; NBA narrowed to "failure to supervise"; Kawhi received no indication contract voided; trade to Toronto still expected to complete; Board of Governors mid-September meeting key; resolution ~September 22
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Board of Governors ruling; Sept 22 resolution; Raptors training camp Sept 28-29
+
+### STORY 3: LeBron James — 24th Season Confirmed
+- **Tier:** 2
+- **Category:** NBA Offseason / Philadelphia 76ers / LeBron James
+- **Key facts:** LeBron confirmed 24th season at Fanatics Fest NYC with Tyrese Haliburton; called Philadelphia signing his "last decision"; retirement was real option; 76ers title odds moved 20-1 to 10-1; 2yr/$8M deal signed July 24; roster: LeBron + Embiid + Maxey + Jaylen Brown; Opening Night Oct 20 at MSG (76ers at Knicks)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** 76ers training camp; preseason; Opening Night at MSG; Christmas Day at Lakers
+
+### STORY 4: Stephen Curry Extension — 7 Days
+- **Tier:** 2
+- **Category:** NBA Contracts / Golden State Warriors / Stephen Curry
+- **Key facts:** Extension window opens Aug 29 (7 days); 2yr/$136.7M max available; 1yr/$62.6M shorter structure also reportedly under discussion; GM Dunleavy "pretty confident" + "really, really wants to finish his career as a Warrior"; Warriors 37-45 last season; failed to land LeBron/Giannis/Brown/Davis; without extension Curry is first-time UFA in 2027
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Extension signing August 29+; structure (1yr vs 2yr) revealed; Warriors training camp
+
+### STORY 5: DeMar DeRozan to Denver Nuggets
+- **Tier:** 2
+- **Category:** NBA Free Agency / Denver Nuggets / DeMar DeRozan
+- **Key facts:** Signed 1yr/$3.88M veteran minimum with Nuggets; six-time All-Star; averaged 18.4 ppg over 77 games for Sacramento last season; age 37; chose Denver over Heat, Wizards, Pelicans; joins Jokic and Murray as additional playmaker; waived by Kings in July
+- **Status:** NEW
+- **Follow-up ideas:** Training camp integration with Jokic/Murray; Nuggets Christmas Day vs Warriors
+
 ## 2026-08-19
 
 | Date | Tier | Story | Formats | Status |

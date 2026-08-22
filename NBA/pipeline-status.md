@@ -1,6 +1,18 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Last Run
+- **Date**: 2026-08-22
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** hh-postplanner-2026-08-22.xlsx (7 posts) + hh-postplanner-tobi-2026-08-22.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-08-22/review-dashboard.html (27 items)
+- **Notes:** KLAY TO HEAT — 2yr/$13M, joins Giannis+Bam after Mavs buyout; career-worst 11.7 ppg in Dallas; KAWHI LOOPHOLE — Forbes: NBA ruling could create league-wide cap circumvention precedent via sponsor introductions; Clippers+NBAPA preparing challenges; resolution ~Sept 22; LEBRON 24TH — confirmed at Fanatics Fest NYC with Haliburton; called Philly "last decision"; nearly retired; 76ers odds 20-1 to 10-1; CURRY 7 DAYS — Aug 29 window; 1yr/$62.6M structure reportedly under discussion vs 2yr/$136.7M max; Dunleavy "pretty confident"; DEROZAN DENVER — 1yr/$3.88M veteran minimum; joins Jokic+Murray; 18.4 ppg last season with Sacramento
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+### 2026-08-21
 - **Date**: 2026-08-21
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
 - **Stories:** 5 total (3 Tier 1, 2 Tier 2)
