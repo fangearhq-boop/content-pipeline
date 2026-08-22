@@ -3,6 +3,65 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-08-22
+
+### Story 1: AUSL All-Star Cup — Series 3 Draft Complete, Week Three Opens Sunday
+- **Date:** 2026-08-22
+- **Tier:** 1
+- **Classification:** FOLLOW UP (draft happened Aug 22; Series 3 opens Aug 24; Kowalik leads; Romero +42 in Series 2; Lemley +26; individual champion Aug 30)
+- **Angle:** Draft is done. Series 3 teams are set. Kowalik enters with lead; Romero and Lemley need big Series 3 to challenge. Eight days of racing left.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Series 3 Day 1 results (Aug 24)
+  - Individual standings update mid-series-3
+  - Series 3 final standings and Series 4 preview
+
+### Story 2: September 1 Countdown — 10 Days, The First Hour
+- **Date:** 2026-08-22
+- **Tier:** 2
+- **Classification:** FOLLOW UP (daily countdown; new angle: what the first hour after Sept 1 looks like for coaches and recruits)
+- **Angle:** Coaches have call lists ready. Recruits who prepared know what to say. The first 60 minutes of Sept 1 reward preparation. Sept 9 at 7 AM ET = in-person window.
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - 9 days (Aug 23)
+  - Sept 1 arrival coverage and commitment wave
+
+### Story 3: USA WNT — 21 Days, Opening Game vs Mexico Sept 12
+- **Date:** 2026-08-22
+- **Tier:** 2
+- **Classification:** FOLLOW UP (21 days; new angle: USA's Opening Day game vs Mexico and what a strong Game 1 means)
+- **Angle:** USA opens Group Oklahoma on Sept 12 vs Mexico (No. 7). Six-team field, top 2 advance to 2027 Finals in Redcliffe QLD (LA28 qualifier). Opening Day matters.
+- **KEY FACTS:** Group field: USA (No. 2), Netherlands (No. 6), Mexico (No. 7), China (No. 8), New Zealand (No. 23), South Africa (No. 36). USA's first game: vs Mexico, Sept 12 Opening Day — CONFIRMED wbsc.org.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - 20 days (Aug 23)
+  - Group Oklahoma schedule preview
+  - Opening Day preview (Sept 11)
+
+### Story 4: Oklahoma Softball — Fall Camp Roster Assessment
+- **Date:** 2026-08-22
+- **Tier:** 2
+- **Classification:** FOLLOW UP (summer portal window closed; focus shifts to fall camp)
+- **Angle:** Portal closed. Harter (.346 BA, 7HR, 23RBI from MTSU), Mailo (No. 4, on campus), Westra (No. 2). Position battles and cohesion to prove in fall camp.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Fall camp updates
+  - Position battle reports
+  - Scrimmage coverage
+
+### Story 5: Texas Softball — Isa Torres Joins the Defending Champions
+- **Date:** 2026-08-22
+- **Tier:** 3
+- **Classification:** FOLLOW UP (new detail: Torres is 2026 D1Softball National POY from FSU; Texas three-peat context)
+- **Angle:** Torres (2026 D1Softball National POY at FSU) transferred to Texas. Joins Kavan (2x WCWS MOP), Swan (ASU), Lincoln (TTU). Fall camp with 11 new additions.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Fall camp updates
+  - 2027 preseason rankings
+  - Season preview (Feb 2027)
+
+---
+
 ## 2026-08-21
 
 ### Story 1: AUSL All-Star Cup — Draft Is Tomorrow, Kowalik Lead, Final 10 Days
