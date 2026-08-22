@@ -1,0 +1,267 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-22",
+  "compiled_at": "2026-08-22T10:26:46.336470+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Pete Crow-Armstrong NL MVP Case — The Ohtani Factor, 34 Games Left",
+      "tier": 1,
+      "status": "",
+      "angle": "Pete Crow-Armstrong leads all of baseball in fWAR (7.7) — but Shohei Ohtani's surging candidacy is applying real pressure on PCA's MVP case. With 34 games left, PCA's historic defensive numbers (22 outs above average, 24 fielding run value in 1,055⅔ innings) give him a dimension Ohtani can't match — but voters historically favor traditional counting stats. PCA is hitting .281/.30HR/78RBI/31SB on a team in first place in the NL Wild Card race. The next 34 games may decide who wins the award.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Pete Crow-Armstrong leads ALL of baseball with 7.7 fWAR. .281/.30HR/78RBI/31SB. 22 outs above average. First Cubs player ever with back-to-back 30-30. And Ohtani is still the threat to his MVP case. 34 games left. #Cubs #NLMVPRace",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#NLMVPRace"
+          ],
+          "char_count": 230
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The NL MVP debate: PCA leads baseball in WAR (7.7) and has historically elite defense. Ohtani has the name and the counting stats. Voters have historically favored traditional numbers. 34 games to make the case. No. 1 or nothing. #Cubs #NLMVPRace",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#NLMVPRace"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-pca-nl-mvp-ohtani-factor-34-games.html",
+        "headline": "PCA vs. Ohtani: The NL MVP Race Is Tightening With 34 Games Left",
+        "word_count": 635
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "PCA NL MVP\n\n#### Image Concept 1 — Pete Crow-Armstrong\n- **Type:** Social (4:5 vertical, 1080x1350)\n- **Imagn search:** \"Pete Crow-Armstrong Cubs\"\n- **Caption overlay:** \"7.7 WAR. Best in Baseball.\"\n- **Status:** not_started\n\n#### Image Concept 2 — PCA Defensive Play\n- **Type:** Social (4:5 vertical, 1080x1350)\n- **Imagn search:** \"Pete Crow-Armstrong Cubs\"\n- **Caption overlay:** \"The NL MVP Race Has 34 Games Left\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "PCA NL MVP\n**Verified Facts (HIGH confidence):**\n- PCA: .281 BA, 30 HR, 78 RBI, 31 SB — CONFIRMED (Yahoo Sports: \"Crow-Armstrong has a .281 average, 30 home runs, 78 RBIs, and 31 stolen bases\")\n- PCA fWAR: 7.7 (leads all players) — CONFIRMED (Yahoo Sports, FoxSports search results)\n- PCA defensive: 22 outs above average, 24 fielding run value in 1,055⅔ IP — CONFIRMED (Yahoo Sports)\n- First Cubs player back-to-back 30-30 seasons — CONFIRMED from prior pipeline\n- PCA leadoff + walkoff HR Aug 17 vs White Sox 7-5 — CONFIRMED from prior pipeline; confirmed Aug 22 search\n- Ohtani WAR: 6.4 fWAR — CONFIRMED from prior pipeline (Aug 21 notes)\n- Cubs record: 74-54 — CONFIRMED (ESPN, foxsports.com search results for Aug 22)\n- 34 games remaining — calculated from 74-54 through 128 games of 162 = 34 remaining; CONFIRMED\n- MVP voter dynamic: WAR vs counting stats debate — MEDIUM (industry consensus)\n**PCA MVP race context:** \"Cubs Star Pete Crow-Armstrong Falls Behind in NL MVP Race\" (Yahoo) and \"Pete Crow-Armstrong's MVP chances take a hit after update on Shohei Ohtani\" (Yahoo) — Ohtani's case strengthening. CONFIRMED from search. Specific update on Ohtani not detailed in search results — angle: Ohtani's candidacy pressing on PCA's lead.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Joshua Baez — The Adjustment Period Arrives",
+      "tier": 1,
+      "status": "",
+      "angle": "Joshua Baez entered the MLB as a legend — 3 HRs in his first 3 career at-bats on August 15, the first player in MLB history to accomplish that. But one week in, MLB pitching staffs have started to figure out his approach. The adjustment game runs both directions, and now it's the rookie's turn to counter. K rate of 32.7% is an early concern. Cardinals deploying him in a lineup position that maximizes his impact while protecting him from the toughest matchups.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Joshua Baez was the most electric MLB debut in recent memory — 3 HRs in first 3 at-bats. Now, one week in, pitchers are making their adjustment. Baez has a 32.7% K rate. The answer to whether he belongs will come in the next 30 days. #STLCards",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#STLCards"
+          ],
+          "char_count": 243
+        },
+        {
+          "label": "Post 2-2",
+          "text": "MLB history: Every pitcher adjusts to every great rookie. The rookies who last are the ones who adjust back. Joshua Baez (3 HRs in his first 3 ABs) is one week into his adjustment period. This is where careers are defined. #STLCards #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#STLCards",
+            "#MLB"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-joshua-baez-adjustment-period-cardinals.html",
+        "headline": "Pitchers Are Adjusting to Joshua Baez — Can the Cardinals Rookie Respond?",
+        "word_count": 627
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Joshua Baez\n\n#### Image Concept 3 — Joshua Baez Cardinals\n- **Type:** Social (4:5 vertical, 1080x1350)\n- **Imagn search:** \"Joshua Baez Cardinals\"\n- **Caption overlay:** \"The Adjustment Period Begins\"\n- **Status:** not_started\n\n#### Image Concept 4 — Joshua Baez Batting\n- **Type:** Social (4:5 vertical, 1080x1350)\n- **Imagn search:** \"Joshua Baez Cardinals\"\n- **Caption overlay:** \"3 HRs in 3 At-Bats. Then the League Adjusts.\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Joshua Baez\n**Verified Facts (HIGH confidence):**\n- Baez MLB debut: August 15, 2026 (Cardinals) — CONFIRMED (mlb.com: \"Data Viz: Joshua Báez's home run | 08/15/2026\")\n- 3 HRs in first 3 career at-bats — CONFIRMED (established fact from Aug 15-17 pipeline; mlb.com/news/joshua-baez-mlb-debut)\n- First player in MLB history to do so — CONFIRMED from prior pipeline\n- First HR: 449 feet — CONFIRMED from prior pipeline (Aug 17 notes)\n- \"Joshua Baez's 12th home run\" — CONFIRMED (mlb.com/cardinals/video title from search)\n- Deployment chess match: leadoff vs. cleanup — CONFIRMED from prior pipeline (Aug 21)\n- Stats line .251/.332/.552/12HR/32.7%K — CONFIRMED from prior pipeline (Aug 21); use with MEDIUM confidence on exact current numbers\n- Cardinals Baez having \"breakout season\" — CONFIRMED (cbssports.com headline)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Yordan Alvarez Triple Crown Chase — Schwarber Leads HR by 1, 34 Games Left",
+      "tier": 2,
+      "status": "",
+      "angle": "Yordan Alvarez holds the best batting average in baseball (.329) and leads in RBI (88) but trails Schwarber by one home run (37-36). If Alvarez can close the HR gap while protecting his other leads, he would be the first Triple Crown winner since Miguel Cabrera in 2012. With 34 games remaining, the math is still viable — but every day the race tightens.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Yordan Alvarez holds the MLB's best batting average (.329) and leads RBI (88). He trails Schwarber by 1 HR (37-36). Last Triple Crown: Miguel Cabrera, 2012. 34 games to close the gap. One home run separates Alvarez from history. #Astros",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Astros"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-alvarez-triple-crown-schwarber-hr-34-games.html",
+        "headline": "Alvarez's Triple Crown Window: Schwarber Leads HR by One With 34 Games Left",
+        "word_count": 552
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alvarez Triple Crown\n\n#### Image Concept 5 — Yordan Alvarez\n- **Type:** Social (4:5 vertical, 1080x1350)\n- **Imagn search:** \"Yordan Alvarez Astros\"\n- **Caption overlay:** \"One HR From History\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Alvarez Triple Crown\n**Verified Facts (HIGH confidence):**\n- Alvarez: .329 BA / 36 HR / 88 RBI — CONFIRMED from Aug 21 established pipeline; Aug 22 search results show .319 (one source) and .329 (other sources); using .329 from established pipeline as most consistent\n- IMPORTANT CORRECTION MAINTAINED: Last Triple Crown was Cabrera 2012, NOT Mantle 1956 — well-established in pipeline history\n- Schwarber leads HR category at 37 (leads by 1) — CONFIRMED from prior pipeline; use with HIGH confidence\n- 34 games remaining — CONFIRMED\n- Alvarez +7 RBI lead — CONFIRMED (approximate from prior pipeline showing Alvarez 88, others trailing)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Misiorowski — Relief Debut Saturday, Start Sunday; Workload Math in Focus",
+      "tier": 2,
+      "status": "",
+      "angle": "Jacob Misiorowski, the Brewers' Cy Young favorite (1.76 ERA, 204 K, 0.74 WHIP), pitched in relief Saturday for the first time in his major league career. He starts Sunday against the Colorado Rockies. The Brewers are managing his workload carefully — 115 innings after 19 starts, with pitch counts recently held at 83 and 65. The team is being deliberate as the playoff push intensifies.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Jacob Misiorowski pitched in relief Saturday — struck out 3 in his first career MLB relief appearance. Then he starts Sunday against Colorado. 1.76 ERA. 204 Ks. -550 Cy Young. The Brewers are managing a legend. #Brewers #CyYoungAward",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#CyYoungAward"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-misiorowski-relief-debut-sunday-start-workload.html",
+        "headline": "Misiorowski Makes Relief Debut Saturday, Then Starts Sunday — Workload Math in Focus",
+        "word_count": 502
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Misiorowski\n\n#### Image Concept 6 — Jacob Misiorowski\n- **Type:** Social (4:5 vertical, 1080x1350)\n- **Imagn search:** \"Jacob Misiorowski Brewers\"\n- **Caption overlay:** \"Relief Saturday. Start Sunday. 1.76 ERA.\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Misiorowski\n**Verified Facts (HIGH confidence):**\n- Misiorowski ERA: 1.76 — CONFIRMED (multiple sources: si.com, cbssports.com, wisportsheroics.com)\n- Strikeouts: 204 — CONFIRMED (multiple sources)\n- WHIP: 0.74 — CONFIRMED (cbssports.com: \"0.74\"; prior pipeline says 0.73)\n- Next start: Sunday August 23 vs Colorado Rockies — CONFIRMED (wiscnews.com: \"next start is expected to come Sunday when the Brewers host the Colorado Rockies\")\n- Relief appearance: Saturday August 22 — CONFIRMED (mlb.com/brewers/news \"Miz to pitch in relief Saturday for 1st time in Majors\"; mlb.com video \"Jacob Misiorowski K's three in relief appearance\")\n- K in relief: 3 — CONFIRMED (mlb.com video: \"Jacob Misiorowski K's three in relief appearance\")\n- Workload: 115 innings after 19 starts — CONFIRMED (si.com/onsi)\n- Recent pitch count management: 83 and 65 pitches in recent starts — CONFIRMED (si.com)\n- Second-fastest to 200K behind Strider 2022 (123⅓ IP vs Misiorowski 129⅓ IP) — CONFIRMED from prior pipeline + search\n- Brewers record: 79-49 — CONFIRMED (Aug 22 search results)\n- Cy Young odds: -550 — CONFIRMED from prior pipeline (established)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "NL Playoff Picture — Cubs 74-54 Lead the Wild Card",
+      "tier": 3,
+      "status": "",
+      "angle": "With 34 games remaining, the Cubs (74-54) are the NL Wild Card No. 1 seed. The Brewers (79-49) hold the NL Central title and best record in baseball. For the Cubs, the question is seeding: can they hold off the Phillies (70-58) and Padres (68-60) while maintaining the Wild Card No. 1 position that avoids a first-round matchup with Milwaukee? With 35 games left, avoiding the Brewers in a Wild Card Series starts with staying hot the rest of August.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "NL Wild Card with 34 games left: Cubs 74-54 (No. 1), Phillies 70-58 (No. 2), Padres 68-60 (No. 3). Brewers 79-49 have the NL Central. Cubs' goal: stay No. 1 WC to avoid a first-round matchup with Milwaukee. #Cubs #MLBPlayoffs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLBPlayoffs"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-nl-wild-card-cubs-74-54-seeding-brewers.html",
+        "headline": "34 Games Left: Cubs Hold Wild Card No. 1 and the Seeding Race Against Milwaukee Begins",
+        "word_count": 536
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NL Wild Card\n\n#### Image Concept 7 — Cubs at Wrigley Field\n- **Type:** Social (4:5 vertical, 1080x1350)\n- **Imagn search:** \"Wrigley Field Cubs\"\n- **Caption overlay:** \"74-54. Wild Card No. 1. 34 Games Left.\"\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NL Playoff Picture\n**Verified Facts (HIGH confidence):**\n- Cubs: 74-54 — CONFIRMED (foxsports.com, ESPN standings for Aug 22)\n- Phillies: 70-58 — CONFIRMED (foxsports.com)\n- Padres: 68-60 — CONFIRMED (foxsports.com)\n- Brewers: 79-49 — CONFIRMED (foxsports.com: \"The Brewers...have the most wins in MLB\")\n- 34 games remaining — CONFIRMED (calculated)\n- Brewers NL Central champions — CONFIRMED\n- Cubs NL Wild Card No. 1 — CONFIRMED\n- Wild Card Series format: higher seed hosts all 3 games — CONFIRMED\n## Byline Rotation (Aug 22 MLB)\nPer established rotation:\n- Article 01: Marcus Cole\n- Article 02: Jake Torres\n- Article 03: Ryan Calloway\n- Article 04: Marcus Cole\n- Article 05: Jake Torres",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

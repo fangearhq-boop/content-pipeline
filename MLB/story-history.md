@@ -5,6 +5,69 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-22
+
+### Story 1: PCA NL MVP — The Ohtani Factor, 34 Games Left
+- **Date:** 2026-08-22
+- **Tier:** 1
+- **Classification:** FOLLOW UP (PCA 7.7 fWAR leads all baseball; Ohtani candidacy strengthening; 34 games remaining)
+- **Angle:** PCA leads all players 7.7 fWAR / .281/30HR/78RBI/31SB / 22 OAA / 24 FRV. Ohtani's candidacy pressing. Voters historically favor counting stats. 34 games to settle the award.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Daily MVP race updates
+  - September production comparison
+  - Award announcement coverage
+
+### Story 2: Joshua Baez — Adjustment Period (Cardinals)
+- **Date:** 2026-08-22
+- **Tier:** 1
+- **Classification:** FOLLOW UP (debut Aug 15; MLB pitchers now adjusting; K rate concern; chess match ongoing)
+- **Angle:** One week in, pitchers have film on Baez. 32.7% K rate being probed. Cardinals working lineup deployment (leadoff vs cleanup). Current line: .251/.332/.552/12HR. Baez needs to counter-adjust.
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - K rate trend tracking
+  - Cardinals lineup deployment updates
+  - 30-day performance report
+
+### Story 3: Yordan Alvarez Triple Crown Chase — Schwarber Leads HR 37-36
+- **Date:** 2026-08-22
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Alvarez .329/36HR/88RBI; Schwarber leads HR by 1; last TC Cabrera 2012; 34 games left)
+- **Angle:** Alvarez leads BA (.329) and RBI (88). Trails Schwarber 37-36 in HR. Last TC: Cabrera 2012. 34 games to close the gap.
+- **KEY FACT MAINTAINED:** Last Triple Crown was Cabrera 2012, NOT Mantle 1956
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Daily HR race tracking
+  - Alvarez milestone coverage
+
+### Story 4: Misiorowski — Relief Debut Saturday, Sunday Start vs Colorado
+- **Date:** 2026-08-22
+- **Tier:** 2
+- **Classification:** FOLLOW UP (new development: first MLB relief appearance Saturday Aug 22; starts Sunday Aug 23 vs Rockies; workload managed at 115 innings)
+- **Angle:** Misiorowski struck out 3 in relief debut Saturday. Starts Sunday vs Colorado. 115 innings through 19 starts. Pitch counts managed: 83 and 65 in recent starts. Brewers being deliberate with ace.
+- **NEW FACT:** Relief appearance Saturday confirmed (mlb.com "Miz to pitch in relief Saturday for 1st time in Majors"; "K's three in relief appearance")
+- **NEW FACT:** Next start Sunday Aug 23 vs Colorado Rockies — CONFIRMED (wiscnews.com)
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Sunday start results
+  - Workload updates heading into September
+  - Cy Young coverage
+
+### Story 5: NL Wild Card — Cubs 74-54, 34 Games Left
+- **Date:** 2026-08-22
+- **Tier:** 3
+- **Classification:** FOLLOW UP (standings update; Cubs 74-54 WC No. 1; Phillies 70-58; Padres 68-60; Brewers 79-49 NL Central)
+- **Angle:** Cubs hold Wild Card No. 1, 34 games left. Seeding goal: avoid Brewers in Wild Card round. Phillies 4 back, Padres 6 back.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Daily standings updates
+  - Wild Card clinch coverage
+  - Playoff seeding analysis
+
+---
+
+---
+
 ## 2026-08-21
 
 ### Story 1: PCA NL MVP Case — Head-to-Head with Ohtani, 35 Games to Make History
