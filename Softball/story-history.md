@@ -3,6 +3,57 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-08-23
+
+### Story 1: AUSL All-Star Cup — Series 3 Opens Tomorrow
+- **Date:** 2026-08-23
+- **Tier:** 1
+- **Classification:** FOLLOW UP (eve of Series 3; opens Aug 24 3PM ET ESPNU; Kowalik No.1; Romero +42; Lemley +26; 7 days to individual champion Aug 30)
+- **Angle:** Eve-of-Series-3 preview. Teams set. Romero (+42) and Lemley (+26) chasing Kowalik. Game 13 at 3PM ET ESPNU tomorrow.
+- **Content Produced:** Article (article-01, Jordan Reeves), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Series 3 Day 1 results (Aug 24)
+  - Individual standings update mid-series
+  - Series 4 preview and individual champion crowned (Aug 30)
+
+### Story 2: September 1 Countdown — 9 Days, Call Lists
+- **Date:** 2026-08-23
+- **Tier:** 2
+- **Classification:** FOLLOW UP (daily countdown; new angle: how coaches build call lists and what it means for recruits)
+- **Angle:** Coaches have 8–12 priority prospects for first-hour calls. Sept 9 7AM ET = in-person window. Recruits should confirm interest now.
+- **Content Produced:** Article (article-02, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - 8 days (Aug 24); Sept 1 arrival coverage
+
+### Story 3: USA WNT — 20 Days, Group Oklahoma Full Preview
+- **Date:** 2026-08-23
+- **Tier:** 2
+- **Classification:** FOLLOW UP (20 days out; full six-team group preview with LA28 stakes)
+- **Angle:** Full Group Oklahoma preview — Netherlands (No.6) and Mexico (No.7) are genuine threats; top 2 of 6 advance to Redcliffe QLD/LA28 qualifier; USA opens vs Mexico Sept 12.
+- **Content Produced:** Article (article-03, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - 19 days (Aug 24); roster feature; individual player profiles
+
+### Story 4: Oklahoma Softball — Fall Camp + Sydney Berzon
+- **Date:** 2026-08-23
+- **Tier:** 2
+- **Classification:** FOLLOW UP (fall camp underway; NEW: Sydney Berzon 2x All-American pitcher from LSU confirmed as addition)
+- **Angle:** Berzon changes the pitching staff picture. Harter in lineup. Mailo + Westra incoming. Fall exhibition Oct 4–Nov 9. 4 Sooners on WNT through Sept 16.
+- **Content Produced:** Article (article-04, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Fall exhibition schedule (Oct 4 opener); Sooners WNT return after Sept 16; Battle Series coverage
+
+### Story 5: Texas Softball — Isa Torres, Coming Home
+- **Date:** 2026-08-23
+- **Tier:** 3
+- **Classification:** FOLLOW UP (Torres profile; coming home narrative; fall camp underway)
+- **Angle:** Torres (.530 BA at FSU, D1Softball National POY) is from Georgetown TX and came home to Texas. Provides lineup protection for Stewart (31 HR). Three-peat pursuit with Kavan (2x WCWS MOP).
+- **Content Produced:** Article (article-05, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Fall camp updates; Torres/Martinez shortstop competition; three-peat chase coverage all season
+
+---
+
 ## 2026-08-22
 
 ### Story 1: AUSL All-Star Cup — Series 3 Draft Complete, Week Three Opens Sunday
