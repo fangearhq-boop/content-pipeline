@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-08-23
+
+| Date | Tier | Story | Formats | Status |
+|------|------|-------|---------|--------|
+| 2026-08-23 | T1 | Ja Morant Traded to Portland Trail Blazers | X(2), FB, Article | NEW |
+| 2026-08-23 | T2 | Stephen Curry Extension — 6 Days to August 29 Window | X(2), FB, Article | FOLLOW UP |
+| 2026-08-23 | T2 | Kawhi Leonard Investigation — All-Star Game Stays at Intuit Dome | X(1), FB, Article | FOLLOW UP |
+| 2026-08-23 | T2 | Dillon Brooks Signs 3yr/$73M Extension With Phoenix Suns | X(1), FB, Article | NEW |
+| 2026-08-23 | T2 | France vs. Serbia Orleans Rematch — Wemby Seeks Revenge After Jokic Belgrade Masterclass | X(1), FB, Article | FOLLOW UP |
+
+### STORY 1: Ja Morant to Portland Trail Blazers
+- **Tier:** 1
+- **Category:** NBA Trades / Portland Trail Blazers / Memphis Grizzlies / Ja Morant
+- **Key facts:** Ja Morant traded from Memphis Grizzlies to Portland Trail Blazers; two-time All-Star; No. 2 overall pick in 2019; gives Portland a franchise centerpiece; Memphis begins rebuild; Portland contender conversation begins
+- **Status:** NEW
+- **Follow-up ideas:** Training camp in Portland; preseason performance; first-game result with Blazers; Western Conference outlook
+
+### STORY 2: Stephen Curry Extension — 6 Days
+- **Tier:** 2
+- **Category:** NBA Contracts / Golden State Warriors / Stephen Curry
+- **Key facts:** Window opens Aug 29 (6 days); 2yr/$136.7M max; GM Dunleavy "pretty confident"; mutual interest confirmed ESPN; Warriors 37-45 last season; Curry 38 years old, 42% 3PT; UFA for first time in 2027 without extension; Windhorst floated shorter-term structure; 1yr/$62.6M alternative under discussion
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Extension signing Aug 29+; structure announced; Warriors training camp
+
+### STORY 3: Kawhi Leonard Investigation — All-Star Stays
+- **Tier:** 2
+- **Category:** NBA Investigation / Los Angeles Clippers / Kawhi Leonard
+- **Key facts:** 2026 All-Star Game confirmed to stay at Intuit Dome; NBA narrowed to "failure to supervise" charge; Kawhi received no contract-void indication; Raptors + Kawhi operating as trade completes; resolution ~Sept 22; Board of Governors mid-September; Clippers face sanctions; Aspiration ($28M) + Daktronics deals central
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Board of Governors ruling; Sept 22 resolution; Raptors Media Day Sept 28; Quebec City camp
+
+### STORY 4: Dillon Brooks 3yr/$73M Extension
+- **Tier:** 2
+- **Category:** NBA Contracts / Phoenix Suns / Dillon Brooks
+- **Key facts:** 3-year, $73M extension through 2029-30; career-high 20.2 ppg last season; part of broader Suns push (also added Mark Williams, Miles Bridges, Luke Kennard); Brooks age 30
+- **Status:** NEW
+- **Follow-up ideas:** Training camp Suns; preseason performance; season opener
+
+### STORY 5: France vs. Serbia Orleans Rematch
+- **Tier:** 2
+- **Category:** NBA Offseason / Victor Wembanyama / France FIBA / Nikola Jokic
+- **Key facts:** Second qualifier game today in Orleans (first: Serbia 90-87 Belgrade Aug 20, Jokic 20/9/8, Wemby 10 pts 6 TO); France 5-1 in Group L; coach Frederic Fauthoux; France roster Wemby + Gobert + Fournier; next games Slovenia Aug 27, Sweden Aug 30
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Orleans result; Slovenia game (Aug 27); Sweden game (Aug 30); Wemby FIBA performance summary
+
 ## 2026-08-22
 
 | Date | Tier | Story | Formats | Status |
