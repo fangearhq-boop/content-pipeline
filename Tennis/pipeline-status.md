@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-08-22 |
-| Writing | Complete (all steps) | 2026-08-22 |
-| Fact-check | Complete (verify-facts.py run — 5 stories, 44 claims, all HIGH) | 2026-08-22 |
-| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 5 articles, 22 items) | 2026-08-22 |
-| Dashboard | Complete (review-dashboard.html, 22 items) | 2026-08-22 |
-| PostPlanner Export | Complete (standard 7 posts 12:52–20:40 ET; TOBI 7 posts) | 2026-08-22 |
-| WordPress Publish | Attempted — proxy blocks WordPress API (same as all prior runs) | 2026-08-22 |
-| Dashboard Push | Attempted — proxy lacks write access to content-dashboards repo (same as all prior runs) | 2026-08-22 |
+| Research | Complete | 2026-08-23 |
+| Writing | Complete (all steps) | 2026-08-23 |
+| Fact-check | Complete (verify-facts.py run — 5 stories, 38 claims, all HIGH) | 2026-08-23 |
+| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 5 articles, 22 items) | 2026-08-23 |
+| Dashboard | Complete (review-dashboard.html, 22 items) | 2026-08-23 |
+| PostPlanner Export | Complete (standard 7 posts 12:51–20:39 ET; TOBI 7 posts) | 2026-08-23 |
+| WordPress Publish | Attempted — proxy blocks WordPress API (same as all prior runs) | 2026-08-23 |
+| Dashboard Push | Attempted — proxy lacks write access to content-dashboards repo (same as all prior runs) | 2026-08-23 |
 
 ## Queue
 
@@ -24,6 +24,16 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-08-23 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-08-23.xlsx (7 posts 12:51–20:39 ET), tfr-postplanner-tobi-2026-08-23.xlsx (7 TOBI posts)
+- **Key stories:** Historic Cincinnati Finals Day — ATP: Tiafoe vs. Fils (first-ever ATP Masters 1000 final between two Black players, ATP confirmed); WTA: Gauff vs. Pegula (first all-American Cincinnati women's final since 1970, 56 years); WTA SFs: Pegula dethrones Swiatek 7-5, 4-6, 6-4 (2h47m epic, five service breaks in first seven games, came back from break down in 3rd), Gauff dominant over Bejlek 6-4, 6-1 (76 min); ATP SFs: Tiafoe saved 3 set points to beat Nakashima 7-5, 6-3 (77% 1st-serve pts won), Fils stuns Cobolli 6-3, 6-4; US Open Fan Week opens today (Arthur Ashe Kids' Day + Federer/Roddick vs. McEnroe/Agassi exhibition Aug 25, sold out); US Open draw ceremony Aug 27, Alcaraz sole top-2 player, 14+ withdrawals, $108M prize money
+- **Issues:** image manifest all not_started (expected for imagn source); posting window warnings cosmetic (known issue); FB posts 0 in compile (known parser issue); WordPress blocked by proxy; dashboard push blocked by proxy (content-dashboards not in session authorized repos)
+- **Story history:** Updated with all 5 stories
 
 ### 2026-08-22 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)

@@ -1,0 +1,371 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-23",
+  "compiled_at": "2026-08-23T12:20:54.904709+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "S4: US Open Fan Week opens",
+      "type": "X Text Post"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "S1: Historic Cincinnati Finals Day",
+      "type": "X Text Post A"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "S1: Tiafoe vs. Fils history angle",
+      "type": "X Text Post B"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "S2: Pegula beats Swiatek",
+      "type": "X Text Post A"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "S3: ATP SF recap",
+      "type": "X Text Post"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "S2: Gauff into Cincinnati final",
+      "type": "X Text Post B"
+    },
+    {
+      "time": "9:00 PM",
+      "description": "S5: US Open draw preview",
+      "type": "X Text Post"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Cincinnati Finals Day — Historic Double: First All-Black ATP Masters 1000 Final + First All-American WTA Cincinnati Final in 56 Years — TIER 1",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Historic Sunday in Cincinnati.\n\nATP final: Tiafoe vs. Fils — first ATP Masters 1000 final between two Black players.\n\nWTA final: Gauff vs. Pegula — first all-American Cincinnati final in 56 years.\n\nTwo pieces of history. One afternoon.\n\n#Tennis #CincinnatiOpen #ATPTour #WTA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#CincinnatiOpen",
+            "#ATPTour",
+            "#WTA"
+          ],
+          "char_count": 274
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Tiafoe vs. Fils. Cincinnati final today. Neither has won a Masters 1000.\n\nOne will.\n\nTiafoe: \"It's going to be a great show. I'm very motivated.\"\n\nFirst Masters 1000 final between two Black players in ATP history.\n\n#Tennis #Tiafoe #Fils #CincinnatiOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#Tiafoe",
+            "#Fils",
+            "#CincinnatiOpen"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-cincinnati-historic-double-finals-tiafoe-fils-gauff-pegula.html",
+        "headline": "Cincinnati's Historic Finals Day: Two Landmark Matches, One Sunday",
+        "word_count": 730
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "ATP Final Preview",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "WTA Final Preview",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1C",
+          "size_desc": "Article Hero",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Cincinnati Finals Day — Historic Double\n**Source: sundayguardianlive.com, olympics.com, skysports.com, tennisuptodate.com**\n**ATP Final:** Frances Tiafoe (USA, No. 17 seed) vs. Arthur Fils (FRA, No. 21 seed)\n- First-ever ATP Masters 1000 final between two Black players (per ATP)\n- Both players would be first-time ATP Masters 1000 champions\n- Final scheduled not before 4:30 PM ET, August 23\n- Tiafoe quote pre-final: \"It's going to be a great show. I'm very motivated.\"\n- Tiafoe's second career Masters 1000 final, both at Cincinnati\n- Fils: 3rd Masters 1000 SF of 2026 entering, now in first M1000 final\n- Confidence: **HIGH** (multiple sources confirm historic angle and finalists)\n**WTA Final:** Coco Gauff (USA, No. 4 seed) vs. Jessica Pegula (USA, No. 3 seed)\n- First all-American WTA Cincinnati women's singles final since 1970 (56 years)\n- Gauff and Pegula were Olympic doubles partners at Paris 2024\n- Pegula's 4th WTA final of 2026 (Dubai, Charleston, DC Open, Cincinnati)\n- Gauff: defending US Open champion, won Cincinnati in 2023\n- Final scheduled August 23, 2026\n- Confidence: **HIGH** (confirmed by WTA official, olympics.com, skysports.com, multiple outlets)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "WTA Semifinals — Pegula Dethrones Swiatek in 2h47m Epic; Gauff Dominates Bejlek — TIER 1",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Pegula def. Swiatek 7-5, 4-6, 6-4 in Cincinnati SF. 2h47m.\n\nDown a break in the 3rd — fought back and won.\n\nSwiatek's 10-match win streak over. Title defense done.\n\nGauff vs. Pegula. First all-American Cincinnati final since 1970.\n\n#Tennis #Pegula #Swiatek #CincinnatiOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#Pegula",
+            "#Swiatek",
+            "#CincinnatiOpen"
+          ],
+          "char_count": 272
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Gauff def. Bejlek 6-4, 6-1 in 76 minutes.\n\nBejlek stunned Sabalenka earlier this week. Gauff ended her run cleanly.\n\nInto her first Cincinnati final since she won it in 2023. Defending US Open champ heading in.\n\n#Tennis #Gauff #CincinnatiOpen #WTA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#Gauff",
+            "#CincinnatiOpen",
+            "#WTA"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-wta-cincinnati-semifinals-pegula-swiatek-gauff-bejlek.html",
+        "headline": "Pegula Ends Swiatek's Cincinnati Run; Gauff Eases Past Bejlek Into Final",
+        "word_count": 629
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Pegula",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Gauff",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "WTA Semifinals\n**Source: tennismajors.com, wtatennis.com, sundayguardianlive.com, sofascore.com**\n**Pegula def. Swiatek 7-5, 4-6, 6-4 (2h47m)**\n- Swiatek had been defending Cincinnati champion and on a 10-match winning streak\n- First set produced five consecutive service breaks inside first seven games\n- Pegula came back from a break down in the third set to close it out\n- Swiatek leveled at 4-3 in 3rd set; Pegula broke back and held\n- Swiatek's North American hard-court title defense is over\n- H2H record not specified in sources; Swiatek had led H2H 7-5 entering\n- Match described as \"crazy\" and \"epic\" by WTA and media\n- Confidence: **HIGH** (score confirmed by multiple sources)\n**Gauff def. Bejlek 6-4, 6-1 (76 min)**\n- Gauff dominated, conceded just five games total\n- Gauff's first Cincinnati final since 2023 (won title that year)\n- Bejlek (CZE, No. 35) had been the Cinderella story (stunned Sabalenka in R16)\n- Bejlek's run ends in SFs — still her best Masters 1000 result\n- Confidence: **HIGH** (score confirmed multiple sources including tennismajors.com)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "ATP Semifinals — Tiafoe Saves Three Set Points to Beat Nakashima; Fils Stuns Cobolli — TIER 2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Tiafoe saved THREE set points to beat Nakashima 7-5, 6-3 in the Cincinnati SF.\n\nFils beat No. 7 seed Cobolli 6-3, 6-4 in the other.\n\nNakashima goes home after back-to-back Masters 1000 SFs — remarkable 2026.\n\nTiafoe vs. Fils final today. 🎾\n\n#Tennis #Tiafoe #Fils #CincinnatiOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#Tiafoe",
+            "#Fils",
+            "#CincinnatiOpen"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-atp-cincinnati-semifinals-tiafoe-nakashima-fils-cobolli.html",
+        "headline": "Tiafoe Saves Set Points, Fils Stays Composed: The Making of a Historic Final",
+        "word_count": 615
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Tiafoe",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Fils",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "ATP Semifinals\n**Source: tennismajors.com, atptour.com, sofascore.com, sundayguardianlive.com**\n**Tiafoe def. Nakashima 7-5, 6-3 (1h42m)**\n- Tiafoe saved three set points in the match (per TennisMajors headline)\n- Tiafoe won 30 of 39 first-serve points (77%) vs Nakashima's 21 of 34 (62%)\n- Tiafoe quote: \"It's going to be a great show. I'm very motivated.\" (about upcoming final)\n- Nakashima (USA, career-high No. 22) ends run of back-to-back Masters 1000 SFs\n- Nakashima season: Tour-leading 22 hard-court wins\n- H2H (Tiafoe vs. Nakashima): not specified — Tiafoe won this meeting\n- Confidence: **HIGH** (score confirmed; three-set-points detail from TennisMajors)\n**Fils def. Cobolli 6-3, 6-4**\n- Fils (FRA, No. 21) his 3rd Masters 1000 SF of 2026, now first M1000 final\n- Cobolli (ITA, No. 7 seed) — beaten in SF after reaching his first M1000 SF this tournament\n- Result described as \"stuns\" Cobolli in multiple outlets\n- Confidence: **HIGH** (score confirmed multiple sources)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "US Open Fan Week Opens — Arthur Ashe Kids' Day + Federer Returns August 25 — TIER 2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "US Open Fan Week starts today. 🎾\n\nFree grounds access Aug 23-29 (Fan Access Pass via US Open app).\n\nArthur Ashe Kids' Day: 9:30 AM–6 PM today.\n\nRoger Federer returns Aug 25 — Federer + Roddick vs. McEnroe + Agassi at Arthur Ashe Stadium.\n\n#Tennis #USOpen #USOpen2026 #Federer",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#USOpen",
+            "#USOpen2026",
+            "#Federer"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-us-open-fan-week-2026-federer-exhibition.html",
+        "headline": "US Open Fan Week 2026 Opens: Free Admission, Kids' Day, and Federer Returns August 25",
+        "word_count": 727
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "US Open grounds",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "US Open Fan Week\n**Source: usopen.org, nbcnewyork.com, qns.com, usopentennisinfo.com**\n- Fan Week runs August 23–29 at USTA Billie Jean King National Tennis Center, Flushing\n- Arthur Ashe Kids' Day: August 23 (opening day), 9:30 AM–6 PM, player appearances/clinics, free\n- Fan Access Pass required for all 18+ (free via US Open app)\n- Roger Federer exhibition: August 25, 7 PM at Arthur Ashe Stadium\n- Teams: Federer + Andy Roddick vs. John McEnroe + Andre Agassi\n- Federer's first return to Flushing Meadows since 2019\n- First appearance since retirement from professional tennis in 2022\n- Tickets sold out (face value ~$238); resale only\n- Other events: qualifying matches, Mixed Doubles Championship, media day\n- Confidence: **HIGH** (confirmed on usopen.org official and multiple NYC media outlets)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "US Open Draw Ceremony Preview — Aug 27, Alcaraz Sole Top-2, 14+ Withdrawals — TIER 2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "US Open draw ceremony: Thursday, August 27.\n\nSinner — OUT (knee). Alcaraz — IN, sole top-2, 14+ withdrawals already.\n\nAfter Cincinnati: Tiafoe, Fils, Gauff, Pegula all heading to Flushing with momentum.\n\nMost wide-open US Open draw in years.\n\n#Tennis #USOpen #USOpen2026 #ATPTour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#USOpen",
+            "#USOpen2026",
+            "#ATPTour"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-us-open-draw-ceremony-preview-2026.html",
+        "headline": "US Open Draw Ceremony Preview: The Most Wide-Open Draw in Years",
+        "word_count": 662
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Carlos Alcaraz",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "US Open Draw Ceremony\n**Source: prior pipeline runs, usopen.org, tennismajors.com**\n- Draw ceremony: Thursday, August 27\n- Seedings based on Monday, August 24 ATP/WTA rankings\n- Sinner (ITA, World No. 1) withdrawn — right knee tendon inflammation\n- Alcaraz (ESP) — sole top-2 player in the field, defending champion\n- 14+ total withdrawals as of August 22 (count may grow)\n- Main draw begins: August 30\n- Women's final: September 12; Men's final: September 13\n- Prize money: $108M total (record, up 21% from 2025)\n- Players in form from Cincinnati's North American swing (Fils, Tiafoe, Cobolli, Pegula, Gauff, Nakashima) will seed into draw\n- Confidence: **HIGH** (dates/prize money confirmed; withdrawal count from Aug 22 pipeline)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 9
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
