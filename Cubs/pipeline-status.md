@@ -1,44 +1,53 @@
-# Cubs Pipeline Status — Updated 2026-08-22
+# Cubs Pipeline Status — Updated 2026-08-23
 
 ## Latest Run
-- **Date:** 2026-08-22 (Saturday — GAME DAY, Game 2 of 3 vs Seattle Mariners at T-Mobile Park)
+- **Date:** 2026-08-23 (Sunday — GAME DAY, Series Finale vs Seattle Mariners at T-Mobile Park)
 - **Run time:** ~09:20 UTC
 - **Stories:** 6
 - **X posts:** 6
 - **Platforms:** X/Twitter only
 - **Status:** ✅ Complete
 
-## Insights Summary (2026-08-22)
-- **Snapshot generated:** 2026-08-22T08:30:00Z (fresh, 30 min before trigger)
+## Insights Summary (2026-08-23)
+- **Snapshot generated:** 2026-08-23T08:30:00Z (fresh, 30 min before trigger)
+- **measured_tweet_count:** 127
 - **significant_findings count:** 1
-- **Finding:** `has_stat=True` beats `has_stat=False` — median impressions 104 vs 87, Cliff's delta=0.214 (small), p=0.046
-- **Applied:** Every tweet drafted with at least one concrete stat embedded. No other brand-voice overrides (no emoji, char length, posting window, or content_type findings today).
+- **Finding:** `has_stat=True` beats `has_stat=False` — median impressions 107.5 vs 87, Cliff's delta=0.23 (small), p=0.0335
+- **Applied:** Every tweet drafted with at least one concrete stat embedded. `has_stat` finding now appears for the second+ consecutive run; signal is stable. No other findings; brand-voice defaults apply for emoji, char length, and posting windows.
 
-## Series Context (2026-08-22)
-- `is_series_start_today`: FALSE (mid-series)
-- `off_day`: FALSE — Game 2 tonight 6:15 PM CT at T-Mobile Park, Seattle
-- Opponent: Seattle Mariners (61-68)
-- Cubs record: 74-55
-- Series: Game 2 of 3 — Cubs lost Game 1 on Aug 21 (6-5 walk-off, 10 innings)
-- Applied: No series-preview slot reserved. Lead slot = game 1 recap. Posting priority followed.
+## Series Context (2026-08-23)
+- `is_series_start_today`: FALSE (series finale, Game 3 of 3)
+- `off_day`: FALSE — Series finale today, 3:10 PM CT at T-Mobile Park, Seattle
+- Opponent: Seattle Mariners (62-68)
+- Cubs record: 74-56
+- Cubs 0-2 in series (walk-off losses both Friday and Saturday)
+- Applied: No series-preview slot. Lead slot = Game 2 recap. Finale preview at noon. Pre-game hype at 2:30 PM (before 3:10 first pitch).
 
-## Today's Content (2026-08-22)
+## Today's Content (2026-08-23)
 | Slot | Story | Tier |
 |------|-------|------|
-| 7:00 AM CT | Game 1 recap — Mariners 6-5 (10 inn) walk-off, Bregman 2 HRs | 1 |
-| 9:30 AM CT | Kade Anderson MLB debut preview — No. 3 pick, 10-1, 1.06 ERA at AA | 2 |
-| 12:00 PM CT | Daniel Palencia activated from IL (elbow inflammation) | 2 |
-| 2:30 PM CT | Matt Shaw Triple-A Iowa rehab started Aug 19 | 2 |
-| 5:00 PM CT | Wild card standings — WC1, 5-game cushion, Sept Brewers games | 2 |
-| 6:15 PM CT | First pitch hype — Game 2, Peterson vs Anderson | 2 |
+| 7:00 AM CT | Game 2 recap — Mariners 5-4, Arozarena leadoff + walkoff HR, Peterson 6 IP / 8 Ks | 1 |
+| 9:30 AM CT | Matt Shaw 2 hits for Iowa, September return on track | 2 |
+| 10:45 AM CT | Cardinals rival watch — 66-64, five series wins, 2.5 back of WC | 2 |
+| 12:00 PM CT | Series finale preview — Holmes starts, 3:10 PM CT, sweep avoidance | 2 |
+| 1:15 PM CT | Steele + Brown face live hitters Aug 21 — rotation reinforcements coming | 2 |
+| 2:30 PM CT | First pitch hype — series finale, 3:10 PM CT, Holmes on mound | 2 |
 
-## Issues / Notes (2026-08-22)
-- ESPN and MLB.com direct page fetches blocked by network proxy (CCR egress). Game 1 stats confirmed via search result AI summaries (MEDIUM confidence). No box score discrepancy found in cross-source comparison.
-- Dashboard push to `fangearhq-boop/content-dashboards` blocked (repo not in session's authorized set). Content pipeline repo push succeeded.
-- Story 4 (Shaw rehab) hit exactly 280 chars per compile script — within limit.
-- Brewers NL Central clinch status excluded from tweets (ambiguous 2025 vs 2026 sources).
+## Issues / Notes (2026-08-23)
+- Dashboard push to `fangearhq-boop/content-dashboards` blocked (repo not in session's authorized set). Expected. Content pipeline repo push proceeded normally.
+- Cardinals 66-64 / 2.5 WC gap = MEDIUM confidence (search summary only; two-source cross-reference not available for bold-take content — acceptable per pipeline protocol).
+- Script warnings about "No posting window specified" are story-level warnings; tweet-level `posting_time` is correctly populated (confirmed by JSON inspection). Bot reads tweet-level field.
+- Mariners probable not yet confirmed (listed TBD in series-context.json). Omitted from tweets.
 
 ---
+
+## Prior Run (2026-08-22)
+- **Date:** 2026-08-22 (Saturday — GAME DAY, Game 2 of 3 vs Seattle Mariners at T-Mobile Park)
+- **Run time:** ~09:20 UTC
+- **Stories:** 6 | **X posts:** 6 | **Status:** ✅ Complete
+- **Insight applied:** has_stat=True (small effect, Cliff's delta=0.214, p=0.046) — stats in every tweet
+- **Series context:** is_series_start_today=FALSE, Game 2. Cubs lost Game 1 on Aug 21 walk-off.
+- Content: Game 1 recap; Kade Anderson debut preview; Palencia activated from IL; Shaw rehab started; WC standings; first pitch hype
 
 ## Prior Run (2026-08-21)
 - **Date:** 2026-08-21 (Friday — GAME DAY, Series Start vs Seattle Mariners)
@@ -150,13 +159,22 @@
 - **Cardinals:** 62-61 (3 GB from WC3; sold deadline pieces)
 
 ## Key Storylines to Watch
-- **Tonight's game:** Cubs at Mariners, Game 1 of 3, T-Mobile Park, 9:10 PM CT. Boyd vs Hancock.
-- **Rotation:** Cabrera back on IL (blister); Peterson starts Sat; Imanaga starts Sun. Three different starters in 3 games.
+- **Today's game:** Cubs at Mariners, series finale, T-Mobile Park, 3:10 PM CT. Holmes starts. Cubs 0-2 in series.
+- **Rotation:** Holmes starts today. Steele (elbow) + Brown (neck) both had live BP sessions Aug 21 in Arizona. Brown targeting September return; Steele late-September relief role.
 - **PCA:** 30 HR, 31 SB, .281/.379/.550, 8.2 fWAR — historic back-to-back 30-30 seasons; NL MVP case heating up
 - **Swanson:** Grade 2 oblique; 4-week target = mid-September; Hoerner at SS, Ramírez at 2B meanwhile
-- **Matt Shaw:** On rehab assignment at Iowa (started Aug 19). Recovery from left hand sprain. Expected return TBD.
-- **Cardinals:** ~13.5 GB in NL Central; no threat to wild card
-- **Brewers:** Leading NL Central by ~5; 7 H2H remaining (Aug 31-Sep 3, Sep 7-9)
+- **Matt Shaw:** 2 hits for Iowa Aug 22. Rehab since Aug 19. Counsell targeting back-to-back games next week; September return expected.
+- **Cardinals:** 66-64; five consecutive series wins since deadline; 2.5 games from WC — becoming a September threat
+- **Brewers:** 79-49 (NL Central leaders); ~5 GB ahead of Cubs; 7 H2H September games the key measuring stick
+
+## Pipeline Health (2026-08-23)
+- JSON compiled: ✓ 07-content-data.json valid (schema 2.0, 6 stories, 6 X posts)
+- Char count validation: ✓ All 6 posts under 280 chars (249–278)
+- Review dashboard: ✓ Generated locally (review-dashboard.html)
+- Dashboard push: ⚠ Skipped (content-dashboards repo not in session scope — expected behavior)
+- Fact-check: ✓ All claims reviewed; HIGH for game scores/times/records (series-context.json + multi-source), MEDIUM for Cardinals record + WC gap (bold-take content, acceptable)
+- Insights applied: ✓ has_stat=True finding applied (stats in every tweet); documented in 02-story-analysis.md
+- Story history: ✓ Appended 6 stories to Cubs/story-history.md
 
 ## Pipeline Health (2026-08-21)
 - JSON compiled: ✓ 07-content-data.json valid (schema 2.0, 5 stories, 5 X posts)
@@ -170,6 +188,8 @@
 ## Prior Runs (recent)
 | Date | Stories | X Posts | Notes |
 |------|---------|---------|-------|
+| 2026-08-23 | 6 | 6 | Series finale (Mariners); Arozarena walkoff recap; Shaw 2 hits Iowa; Cardinals WC threat; Holmes starts preview; Steele+Brown live BPs; first pitch hype; 1 insight (has_stat=True, small) |
+| 2026-08-22 | 6 | 6 | Mariners walk-off again recap; Kade Anderson debut preview; Palencia IL return; Shaw rehab start; WC standings; first pitch hype; 1 insight (has_stat=True, small) |
 | 2026-08-20 | 7 | 7 | Off day; White Sox recap (shutout); Cardinals roast; Swanson oblique; WC standings; Wiggins prospect; PCA MVP; Steele/Brown bullpen; 1 insight (has_score=False, small) |
 | 2026-08-19 | 5 | 5 | Walk-off recap (Bregman); Wrigley walk-off culture (13 leading MLB); Gausman glove-hand cramp; NL standings/Cardinals jab; Game 3 preview sweep hunt |
 | 2026-08-18 | 8 | 8 | PCA 30th HR walk-off recap; PCA franchise history; WC standings; Cardinals roast; Gausman Game 2 preview; Swanson MRI update; pre-game + first pitch hype; 1 insight applied |

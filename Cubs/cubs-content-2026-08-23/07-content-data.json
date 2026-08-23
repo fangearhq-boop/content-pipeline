@@ -1,0 +1,217 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-23",
+  "compiled_at": "2026-08-23T09:18:43.090203+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Game 2 Recap — Mariners 5, Cubs 4 (Arozarena Walkoff HR)",
+      "tier": 1,
+      "status": "",
+      "angle": "Randy Arozarena hit the leadoff HR in the 1st AND the walkoff 2-run shot in the 9th — two walk-off losses in two nights for the Cubs. Peterson was sharp (6 IP, 2 ER, 8 Ks), Bregman + Busch homered back-to-back in the 6th to go ahead 4-2. Bullpen blew it.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Mariners 5, Cubs 4.\n\nArozarena: leadoff HR in the 1st, walkoff 2-run HR in the 9th. Two walk-off Ls in two nights.\n\nPeterson: 6 IP, 8 Ks. Bregman + Busch went back-to-back in the 6th to take the lead. Bullpen gave it back.\n\nSeries finale, 3:10 PM CT.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative / Game Recap",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Game 2 Recap — Mariners 5, Cubs 4 (Arozarena Walkoff HR)\n**Facts used:**\n- Final score: Mariners 5, Cubs 4 [HIGH — multiple sources]\n- Arozarena led off 1st with solo HR [HIGH — multiple sources confirm]\n- Arozarena hit walkoff 2-run HR in 9th [HIGH — confirmed by FOX 13, NBC Chicago, mynorthwest]\n- David Peterson: 6 IP, 2 ER, 8 Ks [HIGH — confirmed by NBC Chicago recap]\n- Cubs led 4-2 entering 9th [HIGH — confirmed by game flow in multiple sources]\n- Bregman + Busch hit back-to-back HRs in the 6th to go ahead 4-2 [HIGH — confirmed by game recap]\n- Leo Rivas RBI single in 9th pulled it to 4-3 before Arozarena [HIGH — confirmed]\n- \"Two walk-off losses in two nights\" — Fri: 6-5 extras (Leo Rivas walkoff single per Aug 22 story history); Sat: 5-4 Arozarena walkoff [HIGH]\n**Facts NOT used (verification concerns):**\n- Arozarena \"third player in MLB history\" to achieve specific feat — MEDIUM, conflicting accounts (one says \"seventh player to hit leadoff and walkoff HRs\") — omitted from tweet\n- Box score stat for Anderson's debut innings pitched — not confirmed, omitted\n**Source URLs:**\n- mlb.com/gameday/823100\n- nbcchicago.com (recap)\n- fox13seattle.com (Arozarena walkoff)\n- bleachernation.com (enhanced box score)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Matt Shaw Rehab — 2 Hits Saturday, September Return on Track",
+      "tier": 2,
+      "status": "",
+      "angle": "Shaw went 2-for-? in Iowa's 8-3 win Saturday. Rehab started Aug. 19, Counsell targeting back-to-back games next week before a callup. His .246/.322/.415 line in 56 MLB games could return for the stretch run.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Matt Shaw: 2 hits Saturday for Iowa. September return on track.\n\nRehab started Aug. 19. Counsell's targeting back-to-back games next week before a callup. Shaw hit .246/.322/.415 in 56 MLB games before the injury.\n\nThis lineup wants him back.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Informative / Roster Update",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Matt Shaw Rehab — 2 Hits Saturday, September Return on Track\n**Facts used:**\n- Shaw had 2 hits in Iowa's 8-3 win (Aug 22) [HIGH — Bleed Cubbie Blue wrap]\n- Rehab assignment started Aug. 19 [HIGH — multiple sources, confirmed in story history]\n- Counsell targeting back-to-back games next week [MEDIUM — from search summary, multiple sources confirm \"back-to-back\" goal]\n- Shaw's 2026 MLB slash line: .246/.322/.415 in 56 games [MEDIUM — carried from Aug 22 pipeline; originally sourced from roster resources]\n- September return on track [HIGH — consistent across multiple search results]\n- Hand injury (left hand sprain, June 29) [MEDIUM — sourced from research, consistent]\n**Source URLs:**\n- bleedcubbieblue.com (minor league wrap Aug 22)\n- heavy.com (Shaw update during Mariners series)\n- clutchpoints.com (Shaw rehab steps)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Cardinals Rival Watch — 66-64, Five Series Wins, Only 2.5 Back of WC",
+      "tier": 2,
+      "status": "",
+      "angle": "St. Louis has quietly caught fire since the deadline — five straight series wins, now only 2.5 games behind a wild card spot. The Cubs' cushion isn't as comfortable as it looks if the Cardinals keep this pace.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The Cardinals are just 2.5 games out of a wild card spot.\n\n66-64 with five straight series wins since the deadline. They've quietly become a problem.\n\nCubs (74-56) hold WC1 today. It won't feel comfortable if St. Louis keeps playing like this.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Bold / Rival Watch",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cardinals Rival Watch — 66-64, Five Series Wins, 2.5 Back of WC\n**Facts used:**\n- Cardinals record: 66-64 [MEDIUM — from search summary only, not independently cross-referenced]\n- Five straight series wins since Trade Deadline [MEDIUM — search summary, single source context]\n- Cardinals 2.5 games behind WC [MEDIUM — search summary only]\n- Cubs record: 74-56 [HIGH — confirmed in series context snapshot]\n**Flagged for fact-check:**\n- Cardinals record and wild card gap need cross-reference with standings page — currently MEDIUM confidence only\n- \"Five straight series wins\" is a compound claim — MEDIUM, single source\n**Source URLs:**\n- espn.com: Cardinals vs. Phillies (Aug 23, 2026) — game listed confirms they're playing today\n- mlbschedule.net standings summary",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Series Finale Preview — Holmes Starts, 3:10 PM CT",
+      "tier": 2,
+      "status": "",
+      "angle": "Clay Holmes takes the ball in the finale. Cubs need to avoid a sweep after losing two gut-punch walk-off games. Series recap context (6-5 extras Fri, 5-4 Sat). Big start for Holmes.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Series finale at Seattle, 3:10 PM CT.\n\nClay Holmes on the mound. Cubs need to avoid the sweep after losing two walk-off games — 6-5 in extras Friday, 5-4 Saturday night.\n\nHolmes was one of Chicago's best Trade Deadline adds. Time to prove it on the road.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Informative / Game Preview",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Series Finale Preview — Holmes Starts, 3:10 PM CT\n**Facts used:**\n- Game time: 3:10 PM CT [HIGH — confirmed in series context snapshot (20:10 UTC)]\n- Venue: T-Mobile Park, Seattle [HIGH — confirmed in series snapshot]\n- Clay Holmes starts [HIGH — confirmed by Yahoo Sports / SI headline \"Cubs Lineup for Series Finale: … Holmes Starts\"]\n- Series record: Cubs 0-2 [HIGH — derived from story history + Game 2 result]\n- Loss details: 6-5 in extras (Game 1), 5-4 Saturday (Game 2) [HIGH — confirmed]\n- Mariners record: 62-68 [HIGH — confirmed in series snapshot]\n**Facts NOT used:**\n- Holmes's specific Cubs ERA — not reliably confirmed in searches, omitted\n- Mariners probable starter — listed as TBD in snapshot\n**Source URLs:**\n- Cubs/_data/series-context.json (primary)\n- Yahoo Sports / SI: lineup article (title confirms Holmes)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Rotation Reinforcements — Steele + Brown Face Live Hitters Aug. 21",
+      "tier": 2,
+      "status": "",
+      "angle": "Both Justin Steele and Ben Brown threw to live hitters Aug. 21 in Arizona. Brown targeting September return to rotation; Steele eyeing late-September relief role. The Cubs get healthier as October approaches.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Justin Steele and Ben Brown both faced live hitters Aug. 21.\n\nBrown is targeting a September return to the rotation. Steele is eyeing a late-September relief role.\n\nThis rotation gets healthier right as October approaches. Bad news for the rest of the NL.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Bold / Roster Projection",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Rotation Reinforcements — Steele + Brown Face Live Hitters Aug. 21\n**Facts used:**\n- Justin Steele faced live hitters Aug. 21 in Arizona [HIGH — multiple sources confirm]\n- Ben Brown faced live hitters Aug. 21 in Arizona [HIGH — multiple sources confirm]\n- Brown targeting September return to rotation [HIGH — confirmed by cubbiescrib.com, Bleacher Nation]\n- Steele aiming for late September in relief role [HIGH — confirmed by Yahoo Sports, Sun-Times]\n- Steele injury: left elbow flexor strain [HIGH — confirmed]\n- Brown injury: stress reaction in neck [HIGH — confirmed]\n**Source URLs:**\n- Yahoo Sports: Cubs Get Positive Update on Justin Steele\n- Bleacher Nation: Cubs pitcher injury updates\n- Chicago Sun-Times: Steele recovery update",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "First Pitch Hype — Series Finale, 3:10 PM CT",
+      "tier": 2,
+      "status": "",
+      "angle": "3:10 CT, T-Mobile Park, Holmes on the mound, Cubs need one against a sub-.500 Seattle squad.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "3:10 PM CT first pitch from T-Mobile Park.\n\nClay Holmes on the mound. Two walk-off losses this weekend — one game left to salvage it.\n\n74-56. NL Wild Card leaders. This team doesn't come home 0-3 to a Mariners squad at 62-68.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Bold / Pre-Game Energy",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "First Pitch Hype — Series Finale, 3:10 PM CT\n**Facts used:**\n- 3:10 PM CT first pitch [HIGH — series context snapshot]\n- T-Mobile Park [HIGH — series context snapshot]\n- Clay Holmes starting [HIGH — lineup search result]\n- Cubs 74-56 [HIGH — series context snapshot]\n- Mariners below .500 at 62-68 [HIGH — series context snapshot]\n- Cubs 0-2 in series (implied \"two walk-off losses\") [HIGH]\n**Source URLs:**\n- Cubs/_data/series-context.json",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

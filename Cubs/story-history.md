@@ -5,6 +5,54 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-23
+
+### STORY 1: Game 2 Recap — Mariners 5, Cubs 4 (Arozarena Walkoff HR)
+- **Angle:** NEW STORY (Mariners 5, Cubs 4. Randy Arozarena hit the leadoff HR in the 1st and the walkoff 2-run HR in the 9th — second straight walk-off loss. Peterson: 6 IP, 2 ER, 8 Ks. Bregman + Busch hit back-to-back HRs in the 6th to take a 4-2 lead; bullpen gave it back. Cubs 0-2 in series.)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - Series finale result (today, if night run added)
+  - Arozarena historical feat cross-reference for future articles
+
+### STORY 2: Matt Shaw Rehab — 2 Hits Saturday for Iowa, September Return on Track
+- **Angle:** FOLLOW UP (Shaw 2 hits in Iowa's 8-3 win over Toledo, Aug 22. Rehab started Aug 19. Counsell targeting back-to-back games next week before callup. .246/.322/.415 in 56 MLB games this season pre-injury.)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, roster update)
+- **Follow-Up Opportunities:**
+  - Shaw official activation / return to 26-man roster
+
+### STORY 3: Cardinals Rival Watch — 66-64, Five Series Wins Since Deadline, 2.5 Back of WC
+- **Angle:** FOLLOW UP (Cardinals 66-64. Five straight series wins since Aug 3 Trade Deadline. Only 2.5 games out of a NL wild card spot, playing Phillies today. Bold take: WC cushion won't feel comfortable if St. Louis keeps this pace.)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, rival watch / bold)
+- **Follow-Up Opportunities:**
+  - Cardinals WC chase update each week in September
+
+### STORY 4: Series Finale Preview — Clay Holmes Starts, 3:10 PM CT
+- **Angle:** NEW STORY (Series finale at T-Mobile Park, 3:10 PM CT. Cubs 0-2 in series after walk-off losses (6-5 extras Fri; 5-4 Sat). Holmes starts — one of the Cubs' best Trade Deadline acquisitions. Mariners 62-68.)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Game 3 result / series finale recap
+
+### STORY 5: Rotation Reinforcements — Steele + Brown Face Live Hitters Aug. 21
+- **Angle:** NEW STORY (Justin Steele and Ben Brown both faced live hitters Aug. 21 in Arizona. Brown targeting September return to rotation; Steele eyeing late-September relief role. Bold angle: rotation gets healthier as October approaches.)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, roster projection / bold)
+- **Follow-Up Opportunities:**
+  - Steele or Brown return date announcement
+  - First appearance back
+
+### STORY 6: First Pitch Hype — Series Finale, 3:10 PM CT
+- **Angle:** NEW STORY (Game-time energy: 3:10 PM CT, T-Mobile Park. Holmes on mound. Cubs 74-56 (WC leaders) looking to avoid 0-3 sweep vs 62-68 Mariners.)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, pre-game hype)
+- **Follow-Up Opportunities:**
+  - Series finale result / trip recap
+
+---
+
 ## 2026-08-22
 
 ### STORY 1: Game 1 Recap — Mariners Walk Off Cubs in Extras, 6-5
