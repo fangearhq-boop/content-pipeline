@@ -1,6 +1,18 @@
 # F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
+- **Date**: 2026-08-23
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway)
+- **PostPlanner exports:** f1fr-postplanner-2026-08-23.xlsx (7 posts) + f1fr-postplanner-tobi-2026-08-23.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-08-23/review-dashboard.html (27 items)
+- **Notes:** NORRIS POLE — 1:11.163 "best lap of my life"; Russell P2, Antonelli P3, Piastri P4, Hamilton P5, Leclerc P6, Verstappen P7; final Dutch GP 72 laps 15:00 CEST; FAREWELL ZANDVOORT — Last-ever Dutch GP; Verstappen won 3 (2021/22/23), Norris 2024, Piastri 2025; Verstappen Delftware helmet; quote "end of an era"; Orange Army farewell; CHAMPIONSHIP — Antonelli leads 56pts over Russell; ~316pts remain; Russell P2 vs Antonelli P3 direct grid battle; Antonelli 6W/6P/9pod; VERSTAPPEN — P7, flu, Red Bull fundamental problems, "just want to enjoy it with the fans"; signed 2030 extension Aug 20; MONZA PREVIEW — Italian GP Sep 6; Ferrari saving ADUO-2 engine for Monza; Hamilton first Monza in Ferrari red; 350+ km/h top speeds
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+### 2026-08-22
 - **Date**: 2026-08-22
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)

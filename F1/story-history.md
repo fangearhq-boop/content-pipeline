@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-08-23
+
+| Date | Tier | Story | Formats | Status |
+|------|------|-------|---------|--------|
+| 2026-08-23 | T1 | Norris Takes Pole for Final Dutch GP — McLaren vs Mercedes at Zandvoort | X, FB, Article | NEW |
+| 2026-08-23 | T1 | Farewell Zandvoort — Orange Army Witnesses F1's Last Dutch Grand Prix | X, FB, Article | NEW |
+| 2026-08-23 | T2 | Championship: Antonelli P3, Russell P2 — Title Fight Enters Race Day | X, FB, Article | FOLLOW UP |
+| 2026-08-23 | T2 | Verstappen Qualifies P7 at Last-Ever Home Race — Red Bull Struggles Continue | X, FB, Article | FOLLOW UP |
+| 2026-08-23 | T2 | Italian GP Monza Preview — Ferrari's Home Race, ADUO-2 Engine Debut | X, FB, Article | NEW |
+
+### STORY 1: Norris Pole — Final Dutch GP Race Day
+- **Tier:** 1
+- **Category:** F1 Race / Dutch Grand Prix / Lando Norris / McLaren
+- **Key facts:** Norris pole 1:11.163, described as "best lap of my life"; Russell P2 (+0.102s); Antonelli P3 (+0.133s, admitted Turn 1 mistake cost top spot); Piastri P4; Hamilton P5; Leclerc P6; Verstappen P7 (flu-like illness, Red Bull fundamental problems); weather-compromised late Q3; race 72 laps at 15:00 CEST / 09:00 ET; final-ever Dutch GP at Zandvoort
+- **Status:** NEW
+- **Follow-up ideas:** Race result; Norris win/podium recap; McLaren constructor points update
+
+### STORY 2: Farewell Zandvoort
+- **Tier:** 1
+- **Category:** F1 History / Zandvoort / Dutch Grand Prix / Farewell
+- **Key facts:** 2026 Dutch GP is final-ever F1 race at Zandvoort; Dutch GP dropped from 2027 calendar; Dutch GP revived 2021 (first since 1985); Verstappen won 3 Dutch GPs at Zandvoort (2021, 2022, 2023); Norris won 2024; Piastri won 2025; sprint format used for farewell weekend (first-ever sprint at Zandvoort); Orange Army farewell; Verstappen quote: "It's absolutely the end of an era"; Motorsport.com: "F1 drivers mourn old-school Zandvoort loss"; Verstappen wore Delftware-inspired helmet
+- **Status:** NEW
+- **Follow-up ideas:** Post-race farewell recap; final lap / crowd reaction
+
+### STORY 3: Championship Antonelli vs Russell at Zandvoort
+- **Tier:** 2
+- **Category:** F1 Championship / Kimi Antonelli / George Russell / Mercedes
+- **Key facts:** Antonelli leads championship by 56pts over Russell heading into race; ~316pts remaining; Russell P2, Antonelli P3 on grid — direct confrontation; Russell sprint win showed late-season momentum; Antonelli 2026: 6 wins, 6 poles, 9 podiums; Hamilton P3 in championship ~53pts behind Antonelli; Hamilton starts P5
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Race result and championship gap post-Dutch GP; Monza championship preview
+
+### STORY 4: Verstappen's Last Home Race at Zandvoort
+- **Tier:** 2
+- **Category:** F1 / Max Verstappen / Red Bull Racing / Dutch Grand Prix
+- **Key facts:** Verstappen P7 in qualifying; battling flu-like illness; Red Bull struggling with 2026 car (fundamental problems); final-ever home race at Zandvoort; Verstappen signed Red Bull extension to 2030 (announced Aug 20); Delftware-inspired helmet tribute; special Red Bull livery; quote: "I just want to enjoy it with the fans"; Liam Lawson in Red Bull (Hadjar wrist injury)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Race result; Verstappen charge from P7; emotional farewell moment with Orange Army
+
+### STORY 5: Italian GP Monza Preview
+- **Tier:** 2
+- **Category:** F1 Preview / Italian Grand Prix / Monza / Ferrari
+- **Key facts:** Italian GP at Monza September 6; Ferrari saving ADUO-2 power unit upgrade for Monza (highest straight-line speed circuit); Ferrari brought aero upgrades to Zandvoort (floor/chassis), holding engine for Monza; Lewis Hamilton's first Monza in Ferrari red; Tifosi crowd; top speeds above 350 km/h; low-downforce circuit; engine power is primary differentiator
+- **Status:** NEW
+- **Follow-up ideas:** Monza practice results; Ferrari ADUO-2 performance; Hamilton Tifosi reception
+
 ## 2026-08-22
 
 | Date | Tier | Story | Formats | Status |
