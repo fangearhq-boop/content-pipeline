@@ -1,25 +1,17 @@
 {
-  "generated_at": "2026-08-22T08:30:00.554555+00:00",
-  "today_ct": "2026-08-22",
+  "generated_at": "2026-08-23T08:30:00.634968+00:00",
+  "today_ct": "2026-08-23",
   "off_day": false,
   "is_series_start_today": false,
   "series": {
     "opponent": "Seattle Mariners",
     "opponent_id": 136,
-    "opponent_record": "61-68",
-    "cubs_record": "74-55",
+    "opponent_record": "62-68",
+    "cubs_record": "74-56",
     "is_cubs_home": false,
     "venue": "T-Mobile Park",
-    "series_length": 2,
+    "series_length": 1,
     "games": [
-      {
-        "game_pk": "823100",
-        "game_date_iso": "2026-08-22T23:15:00Z",
-        "game_date_ct": "Sat 6:15 PM CT",
-        "cubs_probable": "TBD",
-        "opponent_probable": "TBD",
-        "status": "Preview"
-      },
       {
         "game_pk": "823099",
         "game_date_iso": "2026-08-23T20:10:00Z",
@@ -32,16 +24,16 @@
     "rationale": "Same opponent (Seattle Mariners) as yesterday \u2014 this is mid-series, not a series opener."
   },
   "today_cubs_game": {
-    "game_pk": "823100",
+    "game_pk": "823099",
     "status": "Preview",
     "detailed_status": "Scheduled",
-    "game_date_iso": "2026-08-22T23:15:00Z",
-    "game_date_ct": "Sat 6:15 PM CT",
+    "game_date_iso": "2026-08-23T20:10:00Z",
+    "game_date_ct": "Sun 3:10 PM CT",
     "is_cubs_home": false,
     "opponent_id": 136,
     "opponent_name": "Seattle Mariners",
-    "opponent_record": "61-68",
-    "cubs_record": "74-55",
+    "opponent_record": "62-68",
+    "cubs_record": "74-56",
     "cubs_probable": "TBD",
     "opponent_probable": "TBD",
     "venue": "T-Mobile Park"
