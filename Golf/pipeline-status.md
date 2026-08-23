@@ -1,6 +1,18 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
+- **Date**: 2026-08-23
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway)
+- **PostPlanner exports:** gfr-postplanner-2026-08-23.xlsx (7 posts) + gfr-postplanner-tobi-2026-08-23.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-08-23/review-dashboard.html (27 items)
+- **Notes:** BMW R3 CLARK -17 — Clark 65 in R3 = -17, five-shot lead over McIlroy + Cantlay at -12; double bogey hole 1 then eagle + 5 birdies in 8-hole stretch; 4 birdies first 5 back nine holes; Clark also had 6-shot lead at U.S. Open (won by 1); final round Sunday; top 30 after BMW advance to East Lake Aug 27-30; CPKC R3 YAMASHITA -19 — Yamashita 65 in R3 = -19, six-shot lead; Gina Kim + Yuri Yoshida at -13; 16-year-old Canadian amateur Deng (Calgary) shot 63 (low round of day) at -10; Royal Mayfair Edmonton par 70; Henderson defending (2025); RAHM LIV THREE-PEAT — Rahm clinched 3rd consecutive LIV individual title at LIV New York despite T41 (8-over); wins: Hong Kong + Mexico City; $6M bonus; quote: "I'll try to enjoy the title once I get over how bad I played this week"; FEDEXCUP BUBBLE — Fowler entered at 30th (last spot), Woodland at 31st; ~3 pts separating 28th-31st; Cantlay + Thorbjornsen moved from outside into contention; final round determines East Lake field; TOUR CHAMPIONSHIP PREVIEW — East Lake GC Atlanta Aug 27-30; 30 players; $40M total; Scheffler defending (2025); McIlroy chasing record 4th FedExCup (2016/2019/2022); staggered start format; practice round Wednesday Aug 26
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+### 2026-08-22
 - **Date**: 2026-08-22
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish skipped — WP credentials not in environment (same net result as egress proxy block); dashboard publish blocked — content-dashboards repo not in session's authorized set)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)

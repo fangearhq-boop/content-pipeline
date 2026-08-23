@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-08-23
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-08-23 | T1 | Clark -17 / Five-Shot Lead at BMW Championship Final Round at Bellerive | X, FB, Article | FOLLOW UP |
+| 2026-08-23 | T1 | Yamashita -19 / Six-Shot Lead at CPKC Women's Open Final Round at Royal Mayfair | X, FB, Article | FOLLOW UP |
+| 2026-08-23 | T2 | Rahm Clinches Third Consecutive LIV Golf Individual Season Title | X, FB, Article | FOLLOW UP |
+| 2026-08-23 | T2 | FedExCup Bubble — BMW Final Round Decides Tour Championship Field | X, FB, Article | FOLLOW UP |
+| 2026-08-23 | T2 | Tour Championship Preview — East Lake Aug 27-30, Scheffler Defends, McIlroy Hunts Record 4th | X, FB, Article | NEW |
+
+### STORY 1: Clark -17 Five-Shot Lead BMW Final Round
+- **Tier:** 1
+- **Category:** PGA Tour / BMW Championship / FedExCup Playoffs / Wyndham Clark / Rory McIlroy / Patrick Cantlay / Bellerive Country Club
+- **Key facts:** Clark at -17 (65 in R3), five-shot lead; double bogey hole 1, then eagle + 5 birdies in 8-hole stretch, 4 birdies in first 5 back nine holes; McIlroy and Cantlay tied at -12; Bellerive CC, St. Louis, par 70; top 30 after BMW advance to Tour Championship East Lake Aug 27-30; Clark had 6-shot lead at U.S. Open, won by 1 at Shinnecock Hills
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** BMW final result; Clark wire-to-wire win; Tour Championship field confirmation
+
+### STORY 2: Yamashita -19 Six-Shot Lead CPKC Women's Open Final Round
+- **Tier:** 1
+- **Category:** LPGA / CPKC Women's Open / Miyu Yamashita / Gina Kim / Royal Mayfair / Edmonton
+- **Key facts:** Yamashita at -19 (65 in R3), six-shot lead; Gina Kim (USA) and Yuri Yoshida (Japan) tied at -13; 16-year-old Canadian amateur Deng from Calgary shot 63 (low round of day) to reach -10; Royal Mayfair GC Edmonton, par 70, $2.75M purse; Brooke Henderson defending champion (2025)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** CPKC final result; Yamashita champion; Deng's amateur run final round
+
+### STORY 3: Rahm LIV Individual Title Three-Peat
+- **Tier:** 2
+- **Category:** LIV Golf / Jon Rahm / Individual Season Title
+- **Key facts:** Rahm clinched 3rd consecutive LIV individual season title; clinched at Trump National Bedminster despite T41 (8-over); 2026 wins: Hong Kong, Mexico City; $6M individual bonus; quote: "I'll try to enjoy the title once I get over how bad I played this week"; 8+ top-10s in 9 starts; first 3 seasons with LIV = 3 straight individual titles
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Final LIV Indianapolis event; 2026 season wrap-up; LIV future / BC Partners transition
+
+### STORY 4: FedExCup Bubble BMW Final Round
+- **Tier:** 2
+- **Category:** PGA Tour / FedExCup / BMW Championship / Rickie Fowler / Gary Woodland / Patrick Cantlay / Michael Thorbjornsen / East Lake
+- **Key facts:** Top 30 after BMW advance to Tour Championship; Fowler entered at 30th (last spot); Woodland entered at 31st, moved inside bubble via strong play; Cantlay and Thorbjornsen also moved from outside into contention; ~3 points separated positions 28-31; final round Sunday determines East Lake field; $40M total prize at Tour Championship
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** BMW final positions; Tour Championship field confirmation; Fowler/Woodland final FedExCup status
+
+### STORY 5: Tour Championship Preview
+- **Tier:** 2
+- **Category:** PGA Tour / Tour Championship / East Lake / FedExCup / Scottie Scheffler / Rory McIlroy
+- **Key facts:** Tour Championship August 27-30, East Lake GC Atlanta; 30-player field; $40M total prize; Scheffler defending (won 2025); McIlroy chasing record 4th FedExCup title (won 2016, 2019, 2022); staggered starting-score format; previous winners: Hovland 2024, McIlroy 2023, Cantlay 2022; par 72 East Lake; practice round Wednesday August 26
+- **Status:** NEW
+- **Follow-up ideas:** Tour Championship R1 results; Scheffler/McIlroy showdown; FedExCup champion and $40M prize winner
+
 ## 2026-08-22
 
 | Date | Tier | Story | Platforms | Status |
