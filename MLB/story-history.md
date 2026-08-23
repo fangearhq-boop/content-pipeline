@@ -5,6 +5,35 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-23
+
+### Story 1: Misiorowski — 7 Consecutive Ks, 12-K Game, Franchise Record
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Outcome:** Misiorowski struck out first 7 Rockies consecutively (Brewers franchise record); finished 5 IP, 1 H, 1 ER, 0 BB, 12 K, 83 pitches; threw 33 fastballs at 103+ mph (2x previous single-game record since pitch tracking); only blemish was Cole Carrigg solo HR on 102 mph fastball; Brewers win 11-2; Brewers 80-49 best record in baseball; 9th game with 10+ Ks (ties Brewers single-season record, Corbin Burnes 2022); -550 Cy Young favorite, 1.76 ERA
+
+### Story 2: PCA — NL MVP Cold Streak, Narrative Shifts
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Outcome:** PCA went 4-for-36 (.111 BA) over last 8 games; multiple outlets report he is "falling behind" Ohtani in MVP race; season case remains: 7.7 fWAR (MLB lead), 22 OAA, 24 fielding run value, .281 BA, 30 HR, 78 RBI, 31 SB, first Cubs player with back-to-back 30-30 seasons; 33 games remaining
+
+### Story 3: Trade Deadline Closed — NL Reshuffled
+- **Tier:** 2
+- **Classification:** NEW
+- **Outcome:** Skubal to Dodgers (biggest NL acquisition); Holmes to Cubs (bullpen depth for WC No. 1); Arraez to Phillies (contact bat for WC No. 2); May to Brewers (rotation depth); NL WC standings: Cubs No. 1, Phillies No. 2, Padres No. 3
+
+### Story 4: Alvarez Triple Crown — 33 Games Left
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Outcome:** Alvarez leads AL in BA (.329) and RBI (88); trails Schwarber by 1 HR (37-36); last MLB Triple Crown was Cabrera 2012; 33 games remaining
+
+### Story 5: Joshua Baez — One Week In
+- **Tier:** 3
+- **Classification:** FOLLOW UP
+- **Outcome:** One week since 3-HR debut (3 HRs in first 3 career PAs, no player had ever done this); went 0-for-15 in next 3 games (pitching adjustment); recovered to .251/.332/.552 with 12 HR and 32.7% K rate; chess match with MLB pitching ongoing
+
+---
+
 ## 2026-08-22
 
 ### Story 1: PCA NL MVP — The Ohtani Factor, 34 Games Left

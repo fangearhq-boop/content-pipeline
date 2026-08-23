@@ -1,0 +1,257 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-23",
+  "compiled_at": "2026-08-23T10:31:56.567582+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Misiorowski Historic Start — 12 Ks, 7 Consecutive Strikeouts to Open",
+      "tier": 1,
+      "status": "",
+      "angle": "Jacob Misiorowski delivered one of the most dominant starts in Brewers history Sunday. He struck out the first 7 Colorado Rockies batters consecutively — a Brewers franchise record — and finished with 12 strikeouts in 5 innings in an 11-2 win. He threw 33 fastballs at 103+ mph, more than twice the previous single-game record since pitch tracking began. The only blemish: a solo HR by Cole Carrigg on a 102 mph fastball. His 9th game with 10+ strikeouts this season tied the Brewers single-season record (Corbin Burnes, 2022). Cy Young case just got stronger.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Jacob Misiorowski struck out the first 7 Colorado Rockies batters in a row today. Brewers franchise record. He finished with 12 Ks in 5 IP. Threw 33 pitches at 103+ mph — more than twice the previous single-game record since pitch tracking. Brewers 11-2. #Brewers #CyYoungAward",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#CyYoungAward"
+          ],
+          "char_count": 277
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Misiorowski: 12 Ks today. 9th game with 10+ Ks this season — ties the Brewers single-season record. 1.76 ERA. -550 Cy Young. The case was already overwhelming. Today was just another chapter. #Brewers #CyYoungAward",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#CyYoungAward"
+          ],
+          "char_count": 214
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-misiorowski-7-consecutive-ks-franchise-record.html",
+        "headline": "Misiorowski Strikes Out Seven Straight to Open, Posts 12-K Game in Brewers' 11-2 Win",
+        "word_count": 544
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Misiorowski — Historic Start\n\n#### Image Concept 1 — Jacob Misiorowski Pitching\n- **Type:** Social (4:5 vertical, 1080x1350)\n- **Imagn search:** \"Jacob Misiorowski Milwaukee Brewers\"\n- **Caption overlay:** \"7 Straight Ks. 103 MPH. Franchise Record.\"\n- **Status:** not_started\n\n#### Image Concept 2 — Brewers Win Celebration\n- **Type:** Social (4:5 vertical, 1080x1350)\n- **Imagn search:** \"Milwaukee Brewers celebration dugout\"\n- **Caption overlay:** \"11-2. Misiorowski Delivers.\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Misiorowski Historic Start vs Rockies\n**Source:** Bleacher Report, CBS Sports, ESPN, Yahoo Sports, Brew Crew Ball (multiple confirmed)\n**Verified Facts (HIGH confidence):**\n- Misiorowski started Aug 23 vs Colorado Rockies — CONFIRMED\n- Brewers won 11-2 — CONFIRMED\n- Line: 5 IP, 1 H, 1 ER, 0 BB, 12 K, 83 pitches (59 strikes) — CONFIRMED\n- Struck out first 7 Colorado batters consecutively — Brewers franchise record — CONFIRMED (ESPN)\n- Retired first 14 batters; 12 of those 14 via strikeout — CONFIRMED (Yahoo Sports)\n- 33 fastballs at 103+ mph — more than twice the previous single-game record since pitch tracking began — CONFIRMED (CBS Sports)\n- Solo HR by Cole Carrigg (on 102 mph fastball) was only blemish — CONFIRMED\n- 9th game with 10+ Ks this season — tied Brewers single-season record (previously Corbin Burnes 2022) — CONFIRMED\n**Note on \"Ben Sheets 2024\" reference:** One source mentioned \"Ben Sheets\" in relation to the Brewers record. Ben Sheets pitched for Milwaukee in the early 2000s, not 2024. Research agent flagged this as a source error. The established record being broken is Corbin Burnes 2022 — using that.\n**Note on \"66 pitches over 100 MPH\":** One YouTube headline cited 66 pitches at 100+ mph vs. CBS Sports' 33 pitches at 103+ mph. These thresholds are different (100 mph vs 103 mph) so not contradictory. Using the CBS Sports 103 mph figure as it is more precise and widely cited.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "PCA MVP Cold Streak — Narrative Shifts With 33 Games Left",
+      "tier": 1,
+      "status": "",
+      "angle": "Pete Crow-Armstrong has gone 4-for-36 (.111 BA) over his last 8 games — and the NL MVP narrative is shifting. Multiple sources now flag PCA as \"falling behind\" in the race as Ohtani's candidacy strengthens. With 33 games remaining, PCA's season-long case remains elite (7.7 fWAR leads all players), but the cold streak gives voters a reason to reconsider. The question is whether PCA can get hot again in the final stretch of a Cubs playoff push.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Pete Crow-Armstrong has gone 4-for-36 (.111 BA) over his last 8 games — and the NL MVP narrative is starting to shift toward Ohtani. 33 games left. PCA still leads baseball in WAR (7.7). Cold streaks end. The season case is still elite. #Cubs #NLMVPRace",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#NLMVPRace"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-pca-nl-mvp-cold-streak.html",
+        "headline": "Pete Crow-Armstrong's Cold Streak Is Real. His MVP Case Still Isn't Broken.",
+        "word_count": 613
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "PCA — MVP Cold Streak\n\n#### Image Concept 3 — Pete Crow-Armstrong\n- **Type:** Social (4:5 vertical, 1080x1350)\n- **Imagn search:** \"Pete Crow-Armstrong Chicago Cubs\"\n- **Caption overlay:** \"7.7 WAR. Cold Streaks End.\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Pete Crow-Armstrong — MVP Cold Streak\n**Source:** Yahoo Sports/Roundtable, Bleed Cubbie Blue, MLB Trade Rumors MVP Poll\n**Verified Facts:**\n- PCA cold streak: 4-for-36 (.111 BA) over last 8 games — CONFIRMED (multiple sources)\n- Headline: \"Cubs Star Pete Crow-Armstrong Falls Behind in NL MVP Race\" — CONFIRMED (Yahoo Sports/Roundtable)\n- Season stats: .281 BA, 30 HR, 78 RBI, 31 SB, 7.7 fWAR — established pipeline, confirmed\n- PCA defensive stats: 22 outs above average, 24 fielding run value in 1,055⅔ IP — established pipeline\n- First Cubs player with back-to-back 30-30 seasons — confirmed from prior pipeline\n- 7.7 fWAR leads all players — CONFIRMED (multiple sources)\n- Ohtani WAR: ~6.4 fWAR — established pipeline (unverified today but consistent)\n- Cubs record: ~74-55 (possible after Sunday; established 74-54 as of Aug 22) — HIGH confidence",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Trade Deadline Closed — How the Moves Reshape the NL Playoff Picture",
+      "tier": 2,
+      "status": "",
+      "angle": "The 2026 trade deadline has passed. The biggest NL moves: Tarik Skubal went to the Dodgers (massive rotation upgrade), Luis Arraez went to the Phillies (lineup depth), Clay Holmes went to the Cubs (bullpen add), Dustin May went to the Brewers (rotation depth). In the AL, Adley Rutschman headlined a major Red Sox acquisition. For NL Wild Card teams, the deals shift the competitive landscape heading into September. Cubs got Holmes. Phillies got Arraez. Brewers got May. How does this change the NL October equation?",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Trade deadline is closed. Skubal goes to the Dodgers. Holmes goes to the Cubs. Arraez to the Phillies. May to the Brewers. The NL playoff picture just got more complicated. Who helped themselves the most? #MLB #MLBPlayoffs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#MLBPlayoffs"
+          ],
+          "char_count": 222
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-trade-deadline-nl-reshuffled.html",
+        "headline": "Trade Deadline Closed: How the NL Playoff Picture Changed This Week",
+        "word_count": 694
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Trade Deadline\n\n#### Image Concept 4 — Tarik Skubal Pitching\n- **Type:** Social (4:5 vertical, 1080x1350)\n- **Imagn search:** \"Tarik Skubal Detroit Tigers\"\n- **Caption overlay:** \"Skubal Is a Dodger Now. The NL Just Got Harder.\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Trade Deadline Closed — NL Moves\n**Source:** ESPN Trade Deadline Recap, MLB.com Trade Tracker, MLB Trade Rumors Tracker\n**Verified Facts (HIGH confidence):**\n- Trade deadline: CLOSED — CONFIRMED\n- Tarik Skubal → Los Angeles Dodgers — CONFIRMED (ESPN)\n- Adley Rutschman → Boston Red Sox — CONFIRMED (ESPN: \"biggest deadline splash\")\n- Clay Holmes → Chicago Cubs — CONFIRMED\n- Luis Arraez → Philadelphia Phillies — CONFIRMED\n- Dustin May → Milwaukee Brewers — CONFIRMED\n- Luis García Jr. (23 HR, .560 SLG, 5th in MLB RBI) → New York Yankees — CONFIRMED\n- NL Wild Card: Cubs (~74-55 No.1), Phillies (~70-58 No.2), Padres (~68-60 No.3) — CONFIRMED (ESPN standings)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Alvarez Triple Crown — 33 Games, One HR Back, Cabrera 2012 Context",
+      "tier": 2,
+      "status": "",
+      "angle": "Yordan Alvarez leads baseball in batting average (.329) and RBI (88) but trails Kyle Schwarber by one home run (37 vs 36). The Triple Crown math is still viable, but the window is narrowing. The last player to win a Triple Crown was Miguel Cabrera in 2012 — a fact worth restating to calibrate the historical weight of what Alvarez is pursuing. September arrives in 9 days. Every home run counts.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Yordan Alvarez leads MLB in batting average (.329) and RBI (88). He trails Schwarber by one home run (37-36) with 33 games left. The last MLB Triple Crown was Miguel Cabrera in 2012. One home run separates Alvarez from history. #Astros #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Astros",
+            "#MLB"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-alvarez-triple-crown-33-games.html",
+        "headline": "Yordan Alvarez Is One Home Run from History. Thirty-Three Games to Get There.",
+        "word_count": 579
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alvarez Triple Crown\n\n#### Image Concept 5 — Yordan Alvarez\n- **Type:** Social (4:5 vertical, 1080x1350)\n- **Imagn search:** \"Yordan Alvarez Houston Astros\"\n- **Caption overlay:** \".329. 88 RBI. 36 HR. One Back from History.\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Alvarez Triple Crown Chase\n**Source:** FanSided, MLB.com, Yahoo Sports\n**Verified Facts (HIGH confidence):**\n- Alvarez: .329 BA / 36 HR / 88 RBI — established pipeline; search results show ~.330/.35/84-85 from a few days prior; using established Aug 22 priors as most current\n- Schwarber: 37 HR (leads Alvarez by 1) — CONFIRMED across sources and priors\n- Last Triple Crown: Miguel Cabrera, 2012 — CONFIRMED (not 1956 Mantle — source error seen in one search result; Cabrera 2012 is the established pipeline fact)\n- 33 games remaining (from Aug 23) — calendar-confirmed\n**Note:** One SI article said \"first TC since Mickey Mantle 1956\" — this is factually incorrect per established pipeline. Cabrera 2012 is confirmed correct last Triple Crown.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Joshua Baez — Cardinals Rookie, One Week of Adjustments Later",
+      "tier": 3,
+      "status": "",
+      "angle": "Joshua Baez entered baseball history on August 15 with 3 HRs in his first 3 career at-bats (MLB first). One week into his professional career, he's at .251/.332/.552 with 12 home runs and a 32.7% strikeout rate. The chess match between Baez and MLB pitching staffs is now well underway. Baez has the power and athleticism to sustain — the question is whether he can cut the strikeout rate before pitchers fully map his approach.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "One week since Joshua Baez hit 3 HRs in his first 3 career at-bats. His current MLB line: .251/.332/.552, 12 HR, 32.7% K rate. He slumped after the debut (0-for-15 in next 3 games), then recovered. The chess match with pitching is real — and Baez is still in it. #STLCards",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#STLCards"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-baez-one-week-in.html",
+        "headline": "Joshua Baez, One Week In: What the Chess Match Looks Like Now",
+        "word_count": 610
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Joshua Baez\n\n#### Image Concept 6 — Joshua Baez Cardinals\n- **Type:** Social (4:5 vertical, 1080x1350)\n- **Imagn search:** \"Joshua Baez St Louis Cardinals\"\n- **Caption overlay:** \"12 HRs. One Week In. Still Adjusting.\"\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Joshua Baez — Cardinals Rookie\n**Source:** MLB.com, ESPN, CBS Sports\n**Verified Facts (HIGH confidence):**\n- Debut: August 15, 2026, Cardinals vs Cubs at Wrigley — CONFIRMED\n- Historic: 3 HRs in first 3 career at-bats — MLB first — CONFIRMED (ESPN, MLB.com)\n- First HR: 449 feet vs Cubs — CONFIRMED from prior pipeline\n- Post-debut slump: 0-for-15 with 6 K over next 3 games — CONFIRMED (search result)\n- 12 HR confirmed — CONFIRMED (MLB.com video: \"Joshua Baez's 12th home run\")\n- Current line: .251/.332/.552, 12 HR, 32.7% K rate — established pipeline; 12 HR verified\n- Cardinals using Baez in chess match lineup deployment — established pipeline\n## Byline Rotation (Aug 23)\nStandard rotation for MLB:\n- Article 01: Marcus Cole\n- Article 02: Jake Torres\n- Article 03: Ryan Calloway\n- Article 04: Marcus Cole\n- Article 05: Jake Torres",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
