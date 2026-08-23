@@ -1,5 +1,27 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: August 23, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Screen time study (50,231 kids, Humanities & Social Sciences Communications 2026, 4+ hrs → 45% higher anxiety/61% depression); Sunday Market at Acacia Park (TODAY Aug 23, 9AM–2PM, 115 E Platte Ave, free, 60+ vendors); back-to-school sleep tips (AAP/Sleep Foundation age ranges: 6-12 need 9-12 hrs, 13-18 need 8-10); CMZoo Dog Days (Aug 26, bring leashed vaccinated dogs, verify at cmzoo.org); COS school district check-in (D49 week 4, D11 week 2, D20 week 1 done) |
+| Story History Check | COMPLETE | S1 new (screen time study — different from Aug 22 AAP AI chatbot survey — total screen time not AI-specific); S2 follow-up distinct scope (Sunday Market full guide — Aug 22 S5 was brief mention in weekend snapshot); S3 new (sleep tips — not covered in prior runs); S4 new (CMZoo Dog Days — not covered before); S5 follow-up distinct angle (district check-in week progress — Aug 22 S2 covered BOCES + Edukit, different angle) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Jamie Rivera (S1, S3, S5), Sarah Morales (S2, S4) |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: medicaldaily.com, nature.com, sleepfoundation.org, akronchildrens.org, springseventhub.com, visitcos.com, cmzoo.org, springsdaily.com, district websites |
+| Story Analysis | COMPLETE | 02-story-analysis.md — 5 story sections with angles, tiers, COS voice checks |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (S1: 2, S2: 2, S3/S4/S5: 1 each); all ≤280 chars (fixed 4 posts after verify-facts flag); 4 hashtags each; max 1 exclamation mark per post |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; NO hashtags; COS voice; contractions throughout |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts; 1200×675 (social) + 1200×630 (article hero); clean bottom third; no celebrity likenesses or brand logos |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries (5 stories × 2); all not_started; gemini base_only; kAHCKfCZgk0 |
+| Articles | COMPLETE | 5 articles (500-1000 words; semantic HTML5; What's Next sections; 0 exclamation marks; no figure tags; no photo credits); bylines: Jamie Rivera (A1, A3, A5), Sarah Morales (A2, A4) |
+| Fact-Check | COMPLETE | verify-facts.py — 74 claims (113 HIGH, 55 MEDIUM, 12 LOW); all char-limit issues fixed before re-run; posting window warnings (cosmetic known issue) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts (parser compat known issue), 5 articles, 22 items |
+| Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-08-23.xlsx (7 posts 13:06–20:42 MT) + cosp-postplanner-tobi-2026-08-23.xlsx (7 TOBI posts) |
+| WordPress Publish | ATTEMPTED | proxy blocks WordPress API — 403 Forbidden (same as all prior runs) |
+| Dashboard Push | ATTEMPTED | proxy lacks write access to content-dashboards repo (same as all prior runs) |
+| Git Commit/Push | COMPLETE | committed and pushed to main |
+
 ## Latest Run: August 22, 2026
 
 | Step | Status | Notes |

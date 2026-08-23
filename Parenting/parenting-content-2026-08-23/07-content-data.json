@@ -1,0 +1,319 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-23",
+  "compiled_at": "2026-08-23T12:35:49.023423+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "S2: Sunday Market today",
+      "type": "X Text Post A"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "S1: Screen time study",
+      "type": "X Text Post A"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "S2: Sunday Market — last call",
+      "type": "X Text Post B"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "S1: Screen time tips",
+      "type": "X Text Post B"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "S3: Sleep tips",
+      "type": "X Text Post"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "S4: Dog Days at CMZoo",
+      "type": "X Text Post"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "S5: COS schools week check-in",
+      "type": "X Text Post"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "New Study Links 4+ Hours of Daily Screen Time to 45% Higher Anxiety in Kids — TIER 1",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "2026 study of 50,000+ kids: 4+ hours/day of screen time → 45% higher anxiety, 61% higher depression.\n\nPassive scrolling is the most harmful type.\n\nNow's a good time to revisit screen habits at home.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 259
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The good news from the 2026 screen time study: kids with under 2 hours/day AND strong social support had the lowest depression rates and highest life satisfaction.\n\nIt's not just about limits — connection matters too.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-screen-time-mental-health-2026-study.html",
+        "headline": "New Study Links 4+ Hours of Daily Screen Time to Higher Anxiety and Depression in Kids",
+        "word_count": 758
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Screen Time & Mental Health Study\n\n#### Image 1A — Social (1200×675)\n**Prompt:**\nA child around 10 years old sits on a couch in a warmly lit living room, face softly illuminated by the glow of a tablet screen, expression slightly blank and distant. The room around them has soft evening light — warm golden tones from a lamp — creating a contrast between the cold blue screen glow on their face and the warm home environment. Style: realistic, painterly, emotionally evocative. Color palette: warm ambers and soft blues. Clean bottom third with no objects, allowing space for a text overlay.\n\n**Slug:** `story-1-screen-time-child-glow`\n\n---\n\n#### Image 1B — Article Hero (1200×630)\n**Prompt:**\nA flat-lay composition from above showing a smartphone face-down on a wooden table next to an open children's book, a small potted plant, and a glass of water. Soft natural daylight. The scene suggests a conscious choice to set the screen aside. Style: clean, minimal, editorial. Color palette: warm wood tones, soft greens, muted whites. Bottom third is empty table surface, suitable for a text overlay.\n\n**Slug:** `story-1-phone-face-down-table`\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Screen Time & Mental Health 2026 Study\n**Source: medicaldaily.com, nature.com (Humanities and Social Sciences Communications), favormentalhealthservices.com**\n- Study population: 50,231 American children and adolescents ages 6-17 (from 2026 National Survey of Children's Health)\n- Published 2026 in Humanities and Social Sciences Communications\n- Key finding: 4+ hours of daily screen time linked to:\n- 45% higher anxiety risk\n- 61% higher depression risk\n- Elevated conduct problems\n- Passive consumption (scrolling, viewing without interaction) most harmful type\n- Social comparison behaviors on social media → anxiety and low self-esteem\n- Protective combination: <2 hours screen time + strong social support = lowest depression rates, highest life satisfaction\n- Yale School of Medicine findings (March 2026): relationship is complex; varies by gender, social media type, anxiety levels, social support available\n- Physical activity and sleep mediate effects (Nature study)",
+        "sources": "- Source confidence: **MEDIUM** (study confirmed from multiple sources; specific percentage figures from secondary reporting, not direct access to journal)\n**Local resources to include:**\n- Pikes Peak Mental Health Center: 719-572-6100 (confirmed from Aug 22 pipeline)\n- Crisis Text Line: text HOME to 741741 (HIGH)"
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Sunday Market at Acacia Park — Free Family Morning TODAY (9 AM-2 PM) — TIER 1",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Free family morning in Colorado Springs — TODAY.\n\nColorado Springs Sunday Market at Acacia Park (115 E Platte Ave)\nToday, Aug 23 | 9 AM–2 PM MT | Free admission\n60+ vendors | Live music | Colorado-grown produce\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 271
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Last few hours at the Colorado Springs Sunday Market!\n\nAcacia Park, 115 E Platte Ave — open until 2 PM MT.\n\nFree to attend. 60+ vendors with local produce, pastries, handmade goods, and live music.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-sunday-market-acacia-park-cos-guide.html",
+        "headline": "Colorado Springs Sunday Market at Acacia Park: Your Family Guide for Today",
+        "word_count": 568
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Sunday Market at Acacia Park\n\n#### Image 2A — Social (1200×675)\n**Prompt:**\nA vibrant outdoor farmers market scene on a sunny morning. Wooden vendor stalls display overflowing baskets of ripe tomatoes, ears of corn, colorful peppers, and fresh-baked bread. A family — two adults and a young child — browse a produce table. The atmosphere is bright and festive with soft natural sunlight filtering through canvas awnings. Style: warm, photorealistic, inviting. Color palette: rich reds, golds, greens, cream. Clean bottom third of grass or pavement with no produce, for text overlay.\n\n**Slug:** `story-2-sunday-market-family-vendors`\n\n---\n\n#### Image 2B — Article Hero (1200×630)\n**Prompt:**\nClose-up of a wooden market table covered with fresh summer produce: clusters of tomatoes in red and yellow, bundles of fresh herbs, golden sunflowers, and a handwoven basket. Morning sunlight casts gentle shadows. Style: editorial food photography, lush and saturated. Color palette: deep reds, soft golds, rich greens. Lower portion of image transitions to empty warm wood surface for text overlay.\n\n**Slug:** `story-2-market-produce-closeup`\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Sunday Market at Acacia Park\n**Source: springseventhub.com, visitcos.com, huntandgathercos.com, downtowncs.com, findglocal.com**\n- Event: Colorado Springs Sunday Market\n- Location: Acacia Park, 115 E Platte Avenue, Downtown Colorado Springs, CO\n- Date: Every Sunday, including TODAY August 23, 2026\n- Hours: 9 AM to 2 PM (MT)\n- Admission: Free (no ticket required)\n- Vendors: 60+ high-quality vendors\n- What's sold: Colorado-grown produce (tomatoes, corn, peppers), fresh breads, pastries, flowers, handmade goods\n- Entertainment: Live local music\n- Season runs: May 10 through October 25, 2026\n- Confidence: **HIGH** (confirmed on Springfield Event Hub for exact date Aug 23, 2026; visitcos.com listing; huntandgathercos.com)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Back-to-School Sleep Tips — COS Families Are 3 Weeks Deep Now — TIER 2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "All three COS districts are back. Sleep debt is real.\n\nKids 6-12 need 9-12 hrs/night. Teens need 8-10.\n\nTip: Shift bedtime 10-15 min earlier each night until you reach the target — not all at once.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-back-to-school-sleep-tips-cos-families.html",
+        "headline": "Back-to-School Sleep Tips for COS Families: D49, D11, and D20 Are All In Now",
+        "word_count": 810
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Back-to-School Sleep Tips\n\n#### Image 3A — Social (1200×675)\n**Prompt:**\nA peaceful child around age 8 sleeping soundly in a cozy bedroom. Soft moonlight filters through curtains onto a neat bed with blue and white linens. A small bookshelf with children's books is visible in the background. A bedside lamp emits a warm amber glow. The room is calm, tidy, and screen-free. Style: warm, serene, slightly illustrative. Color palette: soft blues, warm ambers, creamy whites. Clean bottom third — lower bedding or carpet — for text overlay.\n\n**Slug:** `story-3-child-sleeping-cozy-bedroom`\n\n---\n\n#### Image 3B — Article Hero (1200×630)\n**Prompt:**\nA minimalist flat-lay of a bedroom nightstand: an analog alarm clock showing 8:30, a small glass of water, a children's paperback book, and a dim warm-toned nightlight. No phone or tablet visible. Soft natural shadows. Style: clean editorial, lifestyle. Color palette: soft neutrals, warm cream, amber. Bottom third is empty nightstand surface suitable for a text overlay.\n\n**Slug:** `story-3-nightstand-alarm-clock-no-phone`\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Back-to-School Sleep Tips\n**Source: sleepfoundation.org, thensf.org, akronchildrens.org/inside/2026/08, pediatricpartnerskc.com**\n- Sleep needs by age (AAP/Sleep Foundation):\n- Ages 6-12: 9-12 hours per night\n- Ages 13-18: 8-10 hours per night\n- Strategy: Shift bedtime/wake time 10-15 minutes per day over a week until school schedule reached\n- Screen-free window: 1+ hour before bedtime (no TV, video games, phones)\n- Consistency: Same schedule on weekends and weekdays\n- Pre-bedtime routine: quiet time, warm bath, reading (younger children); reading (older children)\n- Bed is for sleep only: homework/reading/screens should happen in designated other locations",
+        "sources": "- Source confidence: **HIGH** (multiple pediatric/sleep medicine sources; established clinical guidance)\n**COS District context:**\n- D49: started Aug 3-4 (week 3+)\n- D11: started Aug 12 (week 2 wrapping)\n- D20: started Aug 17-18 (first full week ending)\n- Source confidence: **HIGH** (from prior pipeline research, district websites)"
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Cheyenne Mountain Zoo Dog Days — Bring Your Dog This Wednesday, Aug 26 — TIER 2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Dog owners: Cheyenne Mountain Zoo's Dog Days is THIS Wednesday, Aug 26.\n\nOne of the few days families can bring leashed, vaccinated dogs to the zoo.\n\nVerify hours and tickets at cmzoo.org before heading out.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-cheyenne-mountain-zoo-dog-days-aug26.html",
+        "headline": "Dog Days at Cheyenne Mountain Zoo: What COS Families Need to Know Before Wednesday",
+        "word_count": 682
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cheyenne Mountain Zoo Dog Days\n\n#### Image 4A — Social (1200×675)\n**Prompt:**\nA happy golden retriever dog on a leash walks alongside a young child and a parent through a lush, tree-lined outdoor path that evokes a mountain setting. The dog's tongue is out, tail up, clearly enjoying the outing. The humans are seen from a mid-distance angle. Style: warm, joyful, photorealistic. Color palette: greens, warm browns, golden tones. Clear open foreground in the lower third — path or grass — for text overlay.\n\n**Slug:** `story-4-dog-family-mountain-path`\n\n---\n\n#### Image 4B — Article Hero (1200×630)\n**Prompt:**\nA medium-sized dog on a leash sits at a lookout point with a sweeping mountain landscape behind it — forested hills and rocky terrain at high elevation. The dog looks alert and happy. Style: scenic, adventurous, photorealistic. Color palette: deep greens, sky blues, rocky grays. Dog and handler are in mid-ground; foreground is empty rocky ground for text overlay.\n\n**Slug:** `story-4-dog-mountain-zoo-lookout`\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Cheyenne Mountain Zoo Dog Days\n**Source: cmzoo.org (via search results), uncovercolorado.com, visitcos.com**\n- Event: Dog Days at Cheyenne Mountain Zoo\n- Date: Wednesday, August 26, 2026\n- Location: Cheyenne Mountain Zoo, Colorado Springs, CO\n- Elevation: 6,800 feet (America's only mountainside zoo)\n- What: Special day when families can bring well-behaved, leashed dogs to the zoo\n- Requirements (general CMZoo dog policy): Current vaccinations, leashed at all times, well-behaved\n- Zoo hours: Typically 9 AM-5 PM (note: verify on cmzoo.org — using general zoo hours; actual Dog Days hours may differ)\n- Zoo ticket prices: Adult admission approximately $27-32 (MEDIUM — general range; exact 2026 price not confirmed in search results)\n- Confidence: **MEDIUM** — Dog Days date Aug 26 confirmed from search result; exact hours and ticket prices for 2026 are not definitively confirmed (recommend families verify at cmzoo.org before visiting)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "D20 Finishes Week 1, D11 Week 2, D49 Week 3+ — How COS Families Are Settling In — TIER 2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "All three COS districts are now in session — D49 week 4, D11 week 2, D20 finishing week 1.\n\nIf your family is still finding its rhythm: homework spot, teacher contact, bus timing. This is the week it clicks.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-cos-school-districts-week-checkin-aug23.html",
+        "headline": "D20 Finishes Week 1, D11 Week 2, D49 Week 4: How COS Families Are Settling In",
+        "word_count": 871
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "COS School Districts Week Check-In\n\n#### Image 5A — Social (1200×675)\n**Prompt:**\nA school backpack sits by a front door on a hardwood floor, packed and ready to go, alongside a pair of children's sneakers. Morning light streams through a nearby window. Style: warm, realistic, everyday domestic scene. Color palette: warm wood tones, soft morning light, bright backpack colors (teal or orange). Clean bottom third — hardwood floor — for text overlay.\n\n**Slug:** `story-5-backpack-front-door-morning`\n\n---\n\n#### Image 5B — Article Hero (1200×630)\n**Prompt:**\nAn overhead view of a child's homework station: an open notebook with neat handwriting, a pencil, a small desk lamp casting warm light, and a simple planner open to a weekly spread. The surface is clean and organized. Style: editorial, warm, inviting. Color palette: soft warm neutrals, amber lamp light, cream paper. Bottom third of the desk surface is empty for text overlay.\n\n**Slug:** `story-5-homework-station-overhead`\n\n---\n\n## Generation Notes\n- All prompts use `base_only` mode — no text, no overlays, no watermarks in generated image\n- Model: `gemini-2.5-flash-image`\n- Save to: `Parenting/parenting-content-2026-08-23/generated-images/`\n- Filename pattern: `{slug}.png`"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "COS School Districts — Week Check-In\n**Source: springsdaily.com, d11.org, d49.org, asd20.org (from prior pipeline research)**\n- D49: started Aug 3-4; now in week 3+ (oldest back-to-school)\n- BOCES dissolution (Board voted Aug 17; state board affirmed Aug 19) — covered Aug 22\n- Student Success Center opening this school year\n- D11: started Aug 12; completing week 2\n- Edukit free supply kits to 14,000+ K-8 students — covered Aug 22\n- D20: started Aug 17-18; finishing first full week\n- Largest cohort to start most recently\n- General school transition tips: establish homework spot, set routine, communicate with teachers\n- Confidence: **HIGH** (district start dates confirmed multiple sources including springsdaily.com dedicated articles)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

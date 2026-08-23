@@ -2,6 +2,55 @@
 
 ---
 
+## August 23, 2026
+
+### Story 1: New 2026 Study Links 4+ Hours of Daily Screen Time to Higher Anxiety and Depression in Kids
+- **Date:** 2026-08-23
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — 2026 Humanities and Social Sciences Communications study of 50,231 American children/adolescents ages 6-17 found 4+ hours daily screen time linked to 45% higher anxiety risk, 61% higher depression risk. Passive scrolling most harmful. Protective factor: <2 hours + strong social support = lowest depression. With all COS districts back, timely back-to-school hook.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** 50,231 children/adolescents ages 6-17; 4+ hrs → 45% higher anxiety, 61% higher depression; passive scrolling most harmful; Pikes Peak Mental Health Center 719-572-6100; Crisis Text Line HOME to 741741
+
+### Story 2: Colorado Springs Sunday Market at Acacia Park — Free Family Guide (Today, 9 AM–2 PM)
+- **Date:** 2026-08-23
+- **Content Pillar:** Local Events
+- **Angle:** FOLLOW-UP DISTINCT SCOPE (Aug 22 S5 briefly listed Sunday Market as one of two weekend activities; today is a dedicated full guide) — Free family morning at Acacia Park (115 E Platte Ave). Every Sunday May 10–Oct 25, 2026. 60+ vendors, Colorado-grown produce, live music. Same-day urgency.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** Location: 115 E Platte Avenue; Hours: 9 AM–2 PM MT; Free admission; 60+ vendors; Season: May 10–Oct 25, 2026
+
+### Story 3: Back-to-School Sleep Tips — COS Families Are Now 3+ Weeks Deep
+- **Date:** 2026-08-23
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — D49 week 4, D11 week 2, D20 finishing week 1. Sleep Foundation/AAP guidance: ages 6-12 need 9-12 hrs/night; teens 8-10 hrs. Key tips: gradual 10-15 min/day schedule shift; screen-free hour pre-bed; weekend consistency within 1 hour of weekday schedule; bed-for-sleep-only rule.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** Ages 6-12: 9-12 hrs/night; ages 13-18: 8-10 hrs/night; D49 started Aug 3-4; D11 started Aug 12; D20 started Aug 17-18
+
+### Story 4: Dog Days at Cheyenne Mountain Zoo — Bring Your Dog This Wednesday, Aug 26
+- **Date:** 2026-08-23
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — CMZoo's annual Dog Days event Aug 26, 2026. One of few days families can bring well-behaved leashed dogs. Requirements: current vaccinations, leash, well-behaved temperament. Zoo at 6,800 ft (America's only mountainside zoo). Ticket prices/hours: verify at cmzoo.org (MEDIUM confidence on specifics).
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** Event: Dog Days; Date: Aug 26, 2026; Location: Cheyenne Mountain Zoo; Elevation: 6,800 ft; Requirements: current vaccinations + leash
+
+### Story 5: D20 Finishes Week 1, D11 Week 2, D49 Week 4 — How COS Families Are Settling In
+- **Date:** 2026-08-23
+- **Content Pillar:** Local News
+- **Angle:** FOLLOW-UP DISTINCT ANGLE (Aug 22 S2 covered D49 BOCES + D11 Edukit; today covers week-by-week progress + practical settling-in tips) — All three COS districts fully in session. D20 finishing week 1 is the hook. Practical tips: homework spot, teacher contact, bus timing. Reassuring community tone.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** D49 started Aug 3-4 (week 4); D11 started Aug 12 (week 2); D20 started Aug 17-18 (week 1 done)
+
+---
+
 ## August 22, 2026
 
 ### Story 1: CPSC Recalls JINHEZO LED Tea Lights and OKK Trading Easter Headbands for Button Battery Hazard
