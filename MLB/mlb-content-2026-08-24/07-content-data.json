@@ -1,0 +1,243 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-24",
+  "compiled_at": "2026-08-24T10:31:36.979397+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Little League Classic — Braves 4, Brewers 2 at Williamsport",
+      "tier": 1,
+      "status": "",
+      "angle": "Atlanta Braves won 4-2 over the Milwaukee Brewers in the 2026 MLB Little League Classic on Sunday night at Journey Bank Ballpark at Historic Bowman Field in Williamsport, Pennsylvania. It was the first Little League Classic appearance for both franchises. Tyler Mahle delivered 5 strong innings, Michael Harris II hit his 21st homer of the season in the ninth, and Raisel Iglesias closed it out for his 27th save. For the Braves — only their second win in seven games despite being NL East leaders — it was a timely victory in a national showcase. For the Brewers (81-49, best record in baseball), it was a minor blip in a dominant season.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Braves 4, Brewers 2 at Williamsport. Mahle goes 5 strong (5-10). Harris hits his 21st HR off Ashby in the 9th. Iglesias records save No. 27. First Little League Classic for both franchises. Braves win just their 2nd of the last 7. Best game all week. #Braves #Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Braves",
+            "#Brewers"
+          ],
+          "char_count": 267
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Jacob Misiorowski — 12-5, 1.75 ERA, 210+ Ks, -550 Cy Young favorite — watched Sunday's Little League Classic from the broadcast booth. The Brewers lost 4-2. His next start will be a completely different story. #Brewers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#MLB"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-little-league-classic-braves-brewers-recap.html",
+        "headline": "Harris Homers, Mahle Delivers as Braves Beat Brewers 4-2 in Little League Classic",
+        "word_count": 666
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Little League Classic\n\n#### Image 1: Michael Harris II — Social Post\n- **Use:** Social (primary)\n- **Dimensions:** 1080x1350 (4:5 vertical)\n- **imagn_search:** \"Michael Harris Atlanta Braves\"\n- **Caption overlay:** \"Harris HR No. 21. Braves 4, Brewers 2. Williamsport.\"\n- **Notes:** Harris batting or HR celebration\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Pete Crow-Armstrong NL MVP Race — 32 Games Left",
+      "tier": 1,
+      "status": "",
+      "angle": "The cold streak headline that dominated the past few days (4-for-36) is real, but at the macro level, PCA's 2026 season remains extraordinary. With 32 games left, he sits at .281/30HR/78RBI/89R/31SB with 7.7 fWAR — the highest WAR among NL position players. The Cubs are 74-56 and hold the No. 1 Wild Card spot. The question now: does the cold streak matter in the MVP conversation, or does the season-long performance reestablish the dominant case when the votes are counted?",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Pete Crow-Armstrong: .281 BA, 30 HR, 78 RBI, 89 R, 31 SB, 7.7 fWAR. Cubs at 74-56. 32 games left. Yes, there was a cold streak. The season line says what it says. The NL MVP case is still his to lose. #Cubs #NLMVPRace",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#NLMVPRace"
+          ],
+          "char_count": 217
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-pca-mvp-case-32-games-left.html",
+        "headline": "Pete Crow-Armstrong's MVP Case: 32 Games Left and a Season Worth Remembering",
+        "word_count": 574
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Pete Crow-Armstrong NL MVP\n\n#### Image 2: Pete Crow-Armstrong — Social Post\n- **Use:** Social\n- **Dimensions:** 1080x1350 (4:5 vertical)\n- **imagn_search:** \"Pete Crow-Armstrong Chicago Cubs\"\n- **Caption overlay:** \"32 Games Left. MVP Case Still His.\"\n- **Notes:** PCA outfield action or batting\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Yordan Alvarez Triple Crown Chase — 32 Games Remain",
+      "tier": 2,
+      "status": "",
+      "angle": "Thirty-two games remain for Yordan Alvarez to complete the first MLB Triple Crown since Miguel Cabrera in 2012. As of the latest reporting, Alvarez leads the AL in batting average, home runs, and RBIs. In the modern power-strikeout era of baseball, leading all three categories simultaneously — especially batting average — is genuinely rare. The name Cabrera is the relevant benchmark, not Mantle.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Yordan Alvarez leads the AL in batting average, home runs, AND RBIs. With ~32 games left, he's chasing the first MLB Triple Crown since Miguel Cabrera won it in 2012. This is genuinely rare. Don't look away. #Astros #TripleCrown",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Astros",
+            "#TripleCrown"
+          ],
+          "char_count": 228
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-alvarez-triple-crown-32-games-2026.html",
+        "headline": "Yordan Alvarez Has 32 Games to Make History the Astros and Baseball Haven't Seen Since 2012",
+        "word_count": 629
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Yordan Alvarez Triple Crown\n\n#### Image 3: Yordan Alvarez — Social Post\n- **Use:** Social\n- **Dimensions:** 1080x1350 (4:5 vertical)\n- **imagn_search:** \"Yordan Alvarez Houston Astros\"\n- **Caption overlay:** \"BA. HR. RBI. 32 Games Left.\"\n- **Notes:** Alvarez HR swing or celebration\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Misiorowski Cy Young Case — Brewers 81-49",
+      "tier": 2,
+      "status": "",
+      "angle": "Jacob Misiorowski did not pitch in Sunday's Little League Classic at Williamsport — he was in the broadcast booth as a featured guest — while the Brewers fell 4-2 to the Braves. That's context, not a setback. Misiorowski at 12-5 with a 1.75 ERA and 210+ strikeouts is the most dominant pitcher in the NL and the heavy Cy Young favorite. Milwaukee is 81-49, the best record in baseball. His next start is a different story entirely.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The Cy Young conversation starts and ends with Misiorowski: 12-5, 1.75 ERA, 210+ Ks, -550 odds. Brewers are 81-49, best record in baseball. Whatever happens when he's not pitching doesn't change the argument. #Brewers #CyYoung",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#CyYoung"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-misiorowski-cy-young-case-2026.html",
+        "headline": "While His Team Played in Williamsport, Misiorowski Watched From the Booth — His Numbers Remind You Why He's the Cy Young Favorite",
+        "word_count": 591
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Misiorowski Cy Young\n\n#### Image 4: Jacob Misiorowski — Social Post\n- **Use:** Social\n- **Dimensions:** 1080x1350 (4:5 vertical)\n- **imagn_search:** \"Jacob Misiorowski Milwaukee Brewers\"\n- **Caption overlay:** \"12-5. 1.75 ERA. 210+ Ks. -550 Cy Young.\"\n- **Notes:** Misiorowski pitching delivery\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "NL Wild Card Standings — August 24 Update",
+      "tier": 3,
+      "status": "",
+      "angle": "With approximately 32 games left, the NL Wild Card race has a clear leader in the Cubs (74-56) and two teams in position — Phillies (72-58) and Padres (70-60) — plus the Diamondbacks hovering one game behind San Diego for the final spot. For the Cubs, the priority is maintaining No. 1 seed to avoid a potential first-round series against the Brewers (81-49), who hold the best record in baseball. The race for the third spot is the live competition.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "NL Wild Card standings: Cubs 74-56 (No.1), Phillies 72-58 (No.2), Padres 70-60 (No.3). Diamondbacks 1 GB of the final spot. Cubs' goal: stay No. 1 and avoid a first-round series against the 81-49 Brewers. 32 games left. #MLB #NLPlayoffs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#NLPlayoffs"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-nl-wild-card-race-32-games.html",
+        "headline": "NL Wild Card Update: Cubs Lead, But the Race for the Final Spot Is Tightening",
+        "word_count": 558
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NL Wild Card Race\n\n#### Image 5: Cubs / NL Playoffs — Social Post\n- **Use:** Social\n- **Dimensions:** 1080x1350 (4:5 vertical)\n- **imagn_search:** \"Pete Crow-Armstrong Cubs field\"\n- **Caption overlay:** \"Cubs 74-56. NL WC No.1. 32 Games Left.\"\n- **Notes:** Cubs team celebration or Wrigley game action"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

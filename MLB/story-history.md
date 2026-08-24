@@ -5,6 +5,40 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-24
+
+### Story 1: Little League Classic — Braves 4, Brewers 2
+- **Tier:** 1
+- **Classification:** NEW
+- **Outcome:** Braves beat Brewers 4-2 at Journey Bank Ballpark at Historic Bowman Field in Williamsport; first LLC appearance for both franchises; Tyler Mahle 5 IP, 1 ER, 6 H, 4 K (W, 5-10); Michael Harris II solo HR off Aaron Ashby in 9th (21st of season); Raisel Iglesias save No. 27; Garrett Mitchell bruised forearm (HBP, 94 mph Mahle fastball in 4th); Misiorowski in broadcast booth as featured guest; Braves 2nd win in last 7, still NL East leaders; Brewers 81-49
+- **Follow-up:** Misiorowski next start; Braves September consistency; Mitchell injury update
+
+### Story 2: PCA NL MVP Case — 32 Games Left
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Outcome:** PCA season line: .281 BA, 30 HR, 78 RBI, 89 R, 31 SB, 7.7 fWAR (NL lead), 22 OAA; back-to-back 30-30 (first in Cubs history); cold stretch context: 4-for-36 over ~10 days; Cubs 74-56, NL WC No. 1; Ohtani comparison framed; 32 games remaining
+- **Follow-up:** PCA September performance; vote outcomes in November
+
+### Story 3: Alvarez Triple Crown Chase — 32 Games Left
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Outcome:** Alvarez leads AL in BA (.329), HR (36), RBI (88); Schwarber 37 NL HR leader (different league); last TC was Cabrera 2012 (.330/44/139); modern structural barriers examined; Astros competing for playoff position; 32 games remaining
+- **Follow-up:** Alvarez September stats; any AL rivals closing ground
+
+### Story 4: Misiorowski Cy Young — Broadcast Booth at Williamsport
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Outcome:** Misiorowski 12-5, 1.75 ERA, 210+ Ks, 0.73 WHIP, -550 NL Cy Young odds; 33 fastballs at 103+ mph in single start (2x previous single-game record); 9 games with 10+ Ks (ties Brewers franchise record, Burnes 2022); not on roster for LLC game, appeared in broadcast booth; Brewers 81-49 best record in baseball
+- **Follow-up:** Misiorowski next start; Cy Young vote in November
+
+### Story 5: NL Wild Card Race — Cubs 74-56, Padres/D-Backs Battling
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Outcome:** Cubs 74-56 (No. 1), Phillies 72-58 (No. 2), Padres 70-60 (No. 3), D-Backs ~69-61 (1 GB); Cubs incentive to stay No. 1: avoid Brewers/Misiorowski in round 1; Padres vs. D-Backs is the live race; 32 games remaining
+- **Follow-up:** September standings updates; final Wild Card picture
+
+---
+
 ## 2026-08-23
 
 ### Story 1: Misiorowski — 7 Consecutive Ks, 12-K Game, Franchise Record
