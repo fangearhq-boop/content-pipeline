@@ -1,0 +1,263 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-24",
+  "compiled_at": "2026-08-24T09:23:52.349777+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "STORY 1: Series Preview — Cubs at D-backs",
+      "type": "Informative"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "STORY 2: Game Recap — Cubs 19, Mariners 2",
+      "type": "Informative/Bold"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "STORY 3: Happ + Ramírez grand slam history",
+      "type": "Stat/Informative"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "STORY 4: Gausman vs Kelly pitching matchup",
+      "type": "Analysis/Bold"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "STORY 5: Wild card watch standings",
+      "type": "Standings/Bold"
+    },
+    {
+      "time": "1:15 PM",
+      "description": "STORY 6: Matt Shaw rehab update",
+      "type": "Roster/Informative"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "STORY 7: First pitch hype",
+      "type": "Bold/Hype"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Series Preview — Cubs Open 3-Game Road Trip at Arizona Diamondbacks",
+      "tier": 1,
+      "status": "",
+      "angle": "Mandatory series-preview slot (is_series_start_today=true). Cubs 75-56 at D-backs 69-62. Arizona is one game outside WC3 — this is a direct WC battle. 3 games at Chase Field (38-28 at home). 8:40 PM CT tonight.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Cubs head to Chase Field for a 3-game series vs the D-backs tonight.\n\nArizona is 69-62 — one game from a wild card spot. Cubs are 75-56 at WC1. This series is a 6-game swing in the NL standings.\n\n8:40 PM CT. Gausman vs Merrill Kelly (5.37 ERA).\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative / Series Preview",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Game Recap — Cubs 19, Mariners 2 (Happ + Ramírez Grand Slams)",
+      "tier": 1,
+      "status": "",
+      "angle": "Cubs ended 2-game walk-off losing streak with a 19-2 demolition. Happ grand slam (22nd HR, 5 RBI), Ramírez grand slam (5 RBI), PCA 33rd HR, Conforto 11th HR. 17 hits. Avoided sweep.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "The Cubs dropped two straight walk-off losses in Seattle. Then Sunday happened.\n\nIan Happ grand slam (22nd HR, 5 RBI). Pedro Ramírez grand slam (5 RBI). PCA's 33rd HR. Final: 19-2.\n\nTwo walk-offs, then 19 runs. This team doesn't fold.\n\n#Cubs #FlyTheW #GoCubs",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Informative / Game Recap",
+          "hashtags": [
+            "#Cubs",
+            "#FlyTheW",
+            "#GoCubs"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Ian Happ + Pedro Ramírez — 4th Cubs Duo Ever With Grand Slams in Same Game",
+      "tier": 2,
+      "status": "",
+      "angle": "Historic franchise feat. Happ 22nd HR, Ramírez 5 RBI. Contract year Happ timing angle. Insight-aligned: pure stat story.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Ian Happ and Pedro Ramírez hit grand slams in the same game — the 4th Cubs duo in franchise history to do it.\n\nHapp: 22nd HR, 5 RBI. Ramírez: 5 RBI. Ten RBI from two swings.\n\nContract year Happ is warming up at exactly the right time.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Informative / Stat Breakdown",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Pitching Matchup — Gausman vs Merrill Kelly Tonight",
+      "tier": 2,
+      "status": "",
+      "angle": "Cubs hold edge in Game 1 pitching matchup. Gausman 138 K and 1.27 WHIP vs Kelly's 5.37 ERA / 1.52 WHIP. Bold take: Cubs have the clear arm advantage tonight.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Tonight in Phoenix: Gausman vs Merrill Kelly (5.37 ERA, 1.52 WHIP).\n\nGausman isn't at his best this season but this matchup tilts the Cubs' way. Kelly is exactly the kind of starter you want to face in late August.\n\n8:40 PM CT. Game 1. Advantage: Chicago.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Bold / Analysis",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Wild Card Watch — D-backs 1 Game Out, Cubs Lead by 6 Over Phillies",
+      "tier": 2,
+      "status": "",
+      "angle": "NL WC picture entering today. Cubs 75-56, D-backs 69-62. Tonight's opponent is the closest WC pursuer. A sweep here could effectively end Arizona's WC chances; a D-backs series win narrows the gap to 3 games.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "NL wild card standings entering Monday:\n\nWC1: Cubs 75-56\nWC2: Phillies 72-58\nWC3: Padres 70-60\nOn the bubble: D-backs 69-62 (tonight's opponent)\n\nA Cubs sweep in Phoenix is worth more than just three wins. Arizona is hunting the same postseason spot.\n\n#Cubs #MLB #NorthSiders",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Bold / Standings",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#NorthSiders"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Matt Shaw Rehab — On Track for September Callup",
+      "tier": 2,
+      "status": "",
+      "angle": "Shaw 2-for-4 with 2-RBI single for Iowa Aug 22. Counsell targets back-to-back rehab games this week, then activation. Stretch-run depth incoming.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Matt Shaw: 2-for-4 with a 2-RBI single for Iowa on Saturday.\n\nCounsell wants back-to-back rehab starts this week — after that, September callup. Shaw hit .246/.322/.415 in 56 MLB games before the IL.\n\nDepth incoming.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Informative / Roster News",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "First Pitch Hype — 8:40 PM CT at Chase Field",
+      "tier": 2,
+      "status": "",
+      "angle": "Game-time energy. Cubs enter as WC1, D-backs need this more. Gausman on the mound. Bold kicker.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "8:40 PM CT. Chase Field. Gausman on the mound.\n\nCubs are 75-56. The D-backs are 69-62 and need this series more than they'll admit.\n\nDon't feed the snakes.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "8:00 PM CT",
+          "tweet_type": "Bold / Hype",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 179
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

@@ -5,6 +5,65 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-24
+
+### STORY 1: Series Preview — Cubs Open 3-Game Road Trip at Arizona Diamondbacks
+- **Angle:** NEW STORY (is_series_start_today=true; Cubs 75-56 at D-backs 69-62 at Chase Field; 8:40 PM CT Game 1; Gausman vs Merrill Kelly (5.37 ERA); D-backs one game outside WC3; series = direct WC competitor battle)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, series preview)
+- **Follow-Up Opportunities:**
+  - Game 1 result recap (tomorrow morning)
+  - Series result/recap (Thursday morning)
+
+### STORY 2: Game Recap — Cubs 19, Mariners 2 (Grand Slam Blowout)
+- **Angle:** NEW STORY (Cubs 19, Mariners 2; avoided 3-game sweep; Ian Happ grand slam (22nd HR, 5 RBI) and Pedro Ramírez grand slam (5 RBI); PCA 33rd HR; Conforto 11th HR; Imanaga started, Civale 4 scoreless relief innings; 17 hits, 9 runs in 8th)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - Happ contract-year performance tracking
+  - PCA 35th HR milestone watch
+
+### STORY 3: Happ + Ramírez — 4th Cubs Duo With Grand Slams in Same Game
+- **Angle:** NEW STORY (Historical franchise feat; 4th Cubs duo in history per Chicago Sun-Times; Happ 22nd HR + Ramírez 5 RBI = 10 combined RBI in two swings; contract year Happ timing angle)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, stat breakdown)
+- **Follow-Up Opportunities:**
+  - Happ contract status tracking at season end
+  - Ramírez continued emergence as roster depth
+
+### STORY 4: Gausman vs Merrill Kelly — Pitching Matchup Tonight
+- **Angle:** NEW STORY (Game 1 analysis; Gausman 6-11, 4.53 ERA, 1.27 WHIP vs Kelly 5.37 ERA, 1.52 WHIP; Cubs hold pitching edge; 8:40 PM CT at Chase Field)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, analysis/bold)
+- **Follow-Up Opportunities:**
+  - Gausman start result recap (tomorrow)
+  - Holmes Game 2 preview
+
+### STORY 5: Wild Card Watch — D-backs One Game Out, Cubs Lead by 3
+- **Angle:** NEW STORY (Full NL WC standings: Cubs 75-56 WC1, Phillies 72-58 WC2, Padres 70-60 WC3, D-backs 69-62 just outside; tonight's opponent = direct WC competitor; sweep implications framed)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, standings/bold)
+- **Follow-Up Opportunities:**
+  - WC standings update after series
+  - D-backs elimination scenario
+
+### STORY 6: Matt Shaw Rehab — September Callup Imminent
+- **Angle:** FOLLOW UP (Shaw 2-for-4 with 2-RBI single for Iowa Aug 22; rehab since Aug 19; Counsell targets back-to-back games this week → September activation; .246/.322/.415 in 56 MLB games pre-IL)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, roster news)
+- **Follow-Up Opportunities:**
+  - Shaw official activation / 26-man roster return
+  - Shaw first plate appearance of September
+
+### STORY 7: First Pitch Hype — 8:40 PM CT at Chase Field
+- **Angle:** NEW STORY (Game-time energy: 8:40 PM CT, Chase Field; Cubs 75-56 entering as WC1; D-backs 69-62 desperate for wins; Gausman on mound; "Don't feed the snakes" kicker)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:00 PM CT, bold/hype)
+- **Follow-Up Opportunities:**
+  - Game 1 result recap (tomorrow morning)
+
+---
+
 ## 2026-08-23
 
 ### STORY 1: Game 2 Recap — Mariners 5, Cubs 4 (Arozarena Walkoff HR)
