@@ -6236,3 +6236,52 @@
 - **Tier:** 2
 - **Key Facts (HIGH):** D20 Mon Aug 17 (preschool/K/6th/9th), Tue Aug 18 (all others); Douglass Valley groundbreaking Aug 3; Sources: academyd20.org, Springs Daily, prior pipeline Aug 4/6/8/15
 - **Follow-Up Opportunities:** D20 first day recap; transportation updates; Douglass Valley construction timeline
+
+---
+
+## August 24, 2026
+
+### Story 1: CMZoo Little Paws Nature Preschool Opens TODAY
+- **Date:** 2026-08-24
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — Cheyenne Mountain Zoo's Little Paws Nature Preschool opens today, Aug 24, 2026. Colorado Springs' first state-accredited outdoor preschool for ages 3–5. CDEC accredited. Three-year-olds: Tue/Thu 9am–noon, $220.75/mo. Four–five-year-olds: MWF 9am–1pm, $460.75/mo. Class size ~15. Zoo trails as the classroom.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** Opening date: Aug 24, 2026; Ages: 3–5; Location: Cheyenne Mountain Zoo; CDEC accredited; 3-year-olds $220.75/mo Tue/Thu 9am–noon; 4–5-year-olds $460.75/mo MWF 9am–1pm; Class size ~15; Enroll: LittlePawsPreschool@cmzoo.org
+
+### Story 2: CPSC Recalls — Gagaku Magnet Toys and ABC Trading Battery Toys
+- **Date:** 2026-08-24
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recalled Gagaku Ice Cream Toy Playsets (sold Amazon/Brandworl.USA) for magnet ingestion hazard: loose high-powered magnets can cause intestinal perforation or death if multiple swallowed. Separate recall: ABC Trading toy headbands, dinosaur cage toys, bird cage toys for button battery hazard; sold at TOYZ/Joissu stores 2022–2025. Both distinct from Aug 22 JINHEZO/OKK battery recalls.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** Gagaku: sold via Amazon/Brandworl.USA; hazard: magnet ingestion → intestinal perforation or death; ABC Trading: headbands + dinosaur cage + bird cage toys; sold TOYZ/Joissu 2022–2025; hazard: button battery ingestion; check cpsc.gov for remedy
+
+### Story 3: Paid Paternity Leave Benefits Babies — What 2026 Research Shows
+- **Date:** 2026-08-24
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — STAT News Aug 17, 2026 reviewed pediatric evidence: paid paternity leave linked to better infant health outcomes and lower postpartum anxiety/depression in fathers. Northwestern/Lurie Children's Hospital Ohio Fatherhood Survey analysis: fathers without paid leave face significantly higher anxiety and depression. AAP Pediatrics study of 11.4M live births: paid leave improves perinatal outcomes. Fathers average 3 days leave vs. mothers' 7.2 weeks (2026 National Parent Survey). COS military community angle (Peterson, Schriever, Cheyenne Mountain SFS). Colorado FAMLI program.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** Fathers average 3 days leave; mothers average 7.2 weeks; AAP Pediatrics study: 11.4M live singleton births; Colorado FAMLI program: colorado.gov/famli
+
+### Story 4: 2026 National Parent Survey — Income Drop and Child Care Costs
+- **Date:** 2026-08-24
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — New America 2026 National Parent Survey of 5,472 parents (including 2,915 lower-income). Two-parent households: 14% average income drop after children. Single parents (especially women): up to 36% income decrease. Child care central pressure. Colorado CCAP program; El Paso County DPHS administers locally. Colorado Springs infant center-based care can exceed $1,200/month.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** Survey: 5,472 parents; 2,915 lower-income; two-parent: 14% income drop; single parent: up to 36% drop; COS infant care: can exceed $1,200/mo; El Paso County DHS: 719-444-5000; CCAP: cdhs.colorado.gov/ccap
+
+### Story 5: COS Family Week Ahead — Free Library Programs and CMZoo
+- **Date:** 2026-08-24
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Weekly family events guide. Pikes Peak Library District recurring free programs through August: Storytime (Fri, Cheyenne Mountain Library 10:30–11am + Old Colorado City 10:30–11:15am); Sensory Storytime (Sat 10:30–11am, Library 21c); Paws to Read (Sat 10:30–11:30am, Old Colorado City); Reading Roll Call with COS police (Sat 10:30–11am, Library 21c). CMZoo Little Paws opening day; Tails Tunes Tastes Thursdays. US Olympic Museum and Garden of the Gods bonus picks.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** Cheyenne Mountain Library: 1785 S. 8th St; Old Colorado City Library: 2418 W. Pikes Peak Ave; Library 21c: 1175 Chapel Hills Drive; Storytime: Fri 10:30am; Sensory Storytime: Sat 10:30am; Paws to Read: Sat 10:30am; Reading Roll Call: Sat 10:30am; all free; ppld.org

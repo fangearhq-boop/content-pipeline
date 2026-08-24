@@ -1,5 +1,27 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: August 24, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | CMZoo Little Paws Nature Preschool opening day (CDEC accredited, ages 3–5, 3yo $220.75/mo Tue/Thu, 4–5yo $460.75/mo MWF, class ~15, enroll LittlePawsPreschool@cmzoo.org); CPSC recalls: Gagaku Ice Cream Toy Playsets (magnet ingestion hazard, Amazon/Brandworl.USA) + ABC Trading headbands/dinosaur cage/bird cage toys (button battery, TOYZ/Joissu 2022–2025); paid paternity leave research (STAT News Aug 17: Northwestern/Lurie Ohio Fatherhood Survey + AAP Pediatrics 11.4M births; fathers avg 3 days vs. mothers 7.2 weeks; Colorado FAMLI); 2026 National Parent Survey (New America, 5,472 parents, 14% income drop two-parent, 36% single parent, CCAP/El Paso County DHS 719-444-5000); COS family week ahead (PPLD: Storytime Fri, Sensory Storytime Sat, Paws to Read Sat, Reading Roll Call Sat; all free; ppld.org) |
+| Story History Check | COMPLETE | S1 new (CMZoo Little Paws — not covered before, distinct from Aug 23 Dog Days preview); S2 new (Gagaku magnets + ABC Trading batteries — different from Aug 22 JINHEZO/OKK and Aug 16 Vevor/Delightmi/POPOOO recalls); S3 new (paid paternity leave — not covered before); S4 new (2026 National Parent Survey income data — not covered before); S5 new (PPLD weekly programs guide — library lineup not specifically covered before) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: cmzoo.org, CPSC.gov, STAT News, AAP Pediatrics, New America, ppld.org, colorado.gov/famli, elpasoco.com |
+| Story Analysis | COMPLETE | 02-story-analysis.md — 5 story sections with angles, tiers, COS voice checks |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (S1: 2, S2: 2, S3/S4/S5: 1 each); all ≤280 chars (fixed char-limit violations on rewrite — removed TOO LONG drafts from file); 4 hashtags each; max 1 exclamation mark per post |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; NO hashtags; COS voice; contractions throughout |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts; 1200×675 (social) + 1200×630 (article hero); clean bottom third; no celebrity likenesses or brand logos |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries (5 stories × 2); all not_started; gemini base_only; kAHCKfCZgk0 |
+| Articles | COMPLETE | 5 articles (500-1000 words; semantic HTML5; What's Next sections; 0 exclamation marks; no figure tags; no photo credits); bylines: Sarah Morales (A1, A3, A5), Jamie Rivera (A2, A4) |
+| Fact-Check | COMPLETE | verify-facts.py — 87 claims (139 HIGH, 30 MEDIUM, 51 LOW); all char-limit issues resolved before re-run; posting window warnings (cosmetic known issue) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts (parser compat known issue), 5 articles, 22 items |
+| Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-08-24.xlsx (7 posts 13:19–20:43 MT) + cosp-postplanner-tobi-2026-08-24.xlsx (7 TOBI posts) |
+| WordPress Publish | ATTEMPTED | proxy blocks WordPress API — 403 Forbidden (same as all prior runs) |
+| Dashboard Push | ATTEMPTED | proxy lacks write access to content-dashboards repo (same as all prior runs) |
+| Git Commit/Push | COMPLETE | committed and pushed to main |
+
 ## Latest Run: August 23, 2026
 
 | Step | Status | Notes |

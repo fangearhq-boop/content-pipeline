@@ -1,0 +1,319 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-24",
+  "compiled_at": "2026-08-24T12:49:06.157525+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "S1: Little Paws opens TODAY",
+      "type": "X Text Post A"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "S1: Little Paws first day details",
+      "type": "X Text Post B"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "S2: CPSC recalls alert",
+      "type": "X Text Post A"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "S2: CPSC recalls specifics",
+      "type": "X Text Post B"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "S4: National Parent Survey",
+      "type": "X Text Post"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "S3: Paid paternity leave research",
+      "type": "X Text Post"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "S5: Week ahead events",
+      "type": "X Text Post"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "CMZoo Little Paws Nature Preschool Opens TODAY — Opening Day Coverage — TIER 1",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Little Paws Nature Preschool opens TODAY at CMZoo — Colorado Springs' first state-accredited outdoor preschool. Ages 3–5. Zoo trails as the classroom. Enroll: LittlePawsPreschool@cmzoo.org\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 249
+        },
+        {
+          "label": "Post 1-2",
+          "text": "CMZoo Little Paws preschool: 3-year-olds (Tue/Thu, 9am–noon, $220.75/mo) and 4–5-year-olds (MWF, 9am–1pm, $460.75/mo). CDEC accredited. Class size ~15. Opening day is today.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-cmzoo-little-paws-preschool-opens.html",
+        "headline": "CMZoo Little Paws Nature Preschool Opens Today in Colorado Springs",
+        "word_count": 381
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "CMZoo Little Paws Nature Preschool Opens TODAY\n\n**Social Image 1A — 1200x675:**\nPrompt: A group of young children (ages 3–5, diverse, not identifiable) exploring a lush nature trail with a teacher guide, soft morning light filtering through trees, colorful autumn-leaning late-summer foliage, sense of wonder and discovery, clean open lower third suitable for text overlay, photo-realistic style, warm golden tones, Colorado Rocky Mountain landscape background\n\n**Article Hero 1B — 1200x630:**\nPrompt: A close-up of small hands examining a leaf on a sunlit zoo trail, with a blurred zoo habitat background suggesting animals nearby, warm afternoon light, soft focus, earthy natural tones of green and brown, clean lower third for text overlay, inviting and educational mood, photo-realistic\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "CMZoo Little Paws Nature Preschool Opens TODAY\n**Sources consulted:**\n- KOAA News: \"Little Paws Preschool opens at Cheyenne Mountain Zoo in August for young nature explorers\"\n- KKTV (July 15, 2026): \"Cheyenne Mountain Zoo launching nature-based preschool\"\n- cmzoo.org press release: \"Cheyenne Mountain Zoo Launches State-Accredited Outdoor Nature-Based Preschool\"\n- Springsmag.com: \"Cheyenne Mountain Zoo Launches New Nature-Based Preschool\"\n**Verified facts (HIGH — multiple sources):**\n- Opening date: inaugural class August 24, 2026 — confirmed KOAA, KKTV, CMZoo press release, Facebook/KOAA post\n- State-accredited by Colorado Department of Early Childhood (CDEC) — confirmed CMZoo press release, KOAA\n- Calendar follows Cheyenne Mountain School District 12 — confirmed KKTV, CMZoo\n- Class size: approximately 15 students — confirmed KKTV, KOAA\n- 3-year-old track: Tuesdays and Thursdays, 9am–noon, $220.75/month — confirmed KKTV, KOAA\n- 4- and 5-year-old track: Mondays, Wednesdays, Fridays, 9am–1pm, $460.75/month — confirmed KKTV, KOAA\n- Teachers are early childhood professionals meeting state licensure — confirmed CMZoo press release\n- Zoo trails and animal habitats as primary learning environment — confirmed CMZoo, Springsmag\n- Contact: LittlePawsPreschool@cmzoo.org — confirmed prior pipeline (Aug 16 S1)\n**Note:** This is a FOLLOW-UP from Aug 16 pipeline (S1) which covered the pre-opening announcement. Today is the actual opening day, so this is an event-day follow-up with the same core facts confirmed.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "CPSC Recalls Alert — Magnet Toys and Battery Toys Pose Deadly Hazard — TIER 1",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "CPSC RECALL: Gagaku Ice Cream Toy Playsets (Amazon/Brandworl.USA) recalled for magnet ingestion hazard — can cause intestinal perforation or death. Stop use immediately. Check cpsc.gov\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 245
+        },
+        {
+          "label": "Post 2-2",
+          "text": "CPSC RECALL: ABC Trading toy headbands, dinosaur cage toys, and bird cage toys recalled for button battery hazard. Deadly if swallowed. Sold at TOYZ/Joissu stores 2022–2025. Stop use, get a refund.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-cpsc-recalls-magnet-battery-toys.html",
+        "headline": "CPSC Recalls: Gagaku Magnet Toys and ABC Trading Battery Toys — What Colorado Springs Families Need to Know",
+        "word_count": 578
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "CPSC Recalls — Magnet Toys and Battery Toys\n\n**Social Image 2A — 1200x675:**\nPrompt: A clean flat-lay composition on a white surface showing colorful children's toys with a prominent red caution symbol overlay area at the bottom third, no specific brands or logos, generic toy shapes (small figurines, bright colors), sharp clean lighting, warning/alert mood, clean bottom third for text overlay, photo-realistic\n\n**Article Hero 2B — 1200x630:**\nPrompt: A parent's hand holding a small toy above a child's hand in a protective gesture, soft focus background in a warm family home setting, safety and protection mood, warm indoor lighting, neutral tones, clean lower third for text overlay, photo-realistic\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "CPSC Recalls — Magnet Toys and Battery Toys\n**Sources consulted:**\n- CPSC.gov: \"Gagaku Children's Ice Cream Toy Playsets Recalled Due to Risk of Serious Injury or Death from Magnet Ingestion Hazard; Violate Mandatory Standard for Toys; Sold on Amazon by Brandworl.USA\"\n- CPSC.gov: \"ABC Trading Recalls Children's Toys Due to Risk of Serious Injury or Death from Battery Ingestion; Violates Mandatory Standard for Toys\"\n- foodpoisoningbulletin.com: \"ABC Trading Children's Toys Recalled For Battery Ingestion Hazard\"\n- St. Kitts and Nevis Bureau of Standards: \"ABC Trading Recalls Children's Toys...\"\n- WLT Report (Aug 18, 2026): \"Popular Toy Recalled After Multiple Kids Hospitalized With Life-Threatening Injuries\"\n**Verified facts — Gagaku/Brandworl.USA (HIGH — CPSC.gov official):**\n- Product: Gagaku Children's Ice Cream Toy Playsets — confirmed CPSC.gov\n- Hazard: magnet ingestion; magnets can cause perforations, twisting, blockage of intestines, blood poisoning, death — confirmed CPSC.gov\n- Sold on Amazon by Brandworl.USA — confirmed CPSC.gov\n- High-powered magnets can become lodged in digestive system — confirmed CPSC.gov\n**Verified facts — ABC Trading (HIGH — CPSC.gov official):**\n- Products: Toy Headband (model 6300RP, pink with white polka dots, push button on bow); Electronic Pet Cage-Dinosaur Tribes (model 8266/ZH998-22, silver cage with blue bottom); My Pet Bird Cute Bird Tribes (ZH998-23, pink top and bottom with blue bird) — confirmed CPSC.gov\n- Hazard: button cell batteries in accessible compartments; ingestion causes serious injuries, internal chemical burns, death — confirmed CPSC.gov\n- Sold: TOYZ and Joissu Product stores nationwide, November 2022–October 2025, $5–$9 — confirmed CPSC.gov\n- Remedy: stop use immediately, contact ABC Trading for refund — confirmed CPSC.gov\n**Note:** JINHEZO Mini Waterproof LED Tea Lights and OKK Trading LED Headbands (Aug 20, 2026) were covered in Aug 22 pipeline. Vevor Baby Swings + Delightmi/POPOOO Finger Lights were covered in Aug 16 pipeline. Gagaku and ABC Trading are new and not previously covered.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "New Research: Paid Paternity Leave Is Critical for Baby Health — What COS Families Should Know — TIER 2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "New research: paid paternity leave benefits babies, not just fathers. Fathers average 3 days of leave vs. mothers' 7.2 weeks. AAP Pediatrics study of 11M+ births found paid leave improves perinatal outcomes.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-paid-paternity-leave-baby-health.html",
+        "headline": "Paid Paternity Leave Benefits Babies: What the 2026 Research Shows and Why It Matters for Colorado Springs Families",
+        "word_count": 612
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Paid Paternity Leave and Baby Health\n\n**Social Image 3A — 1200x675:**\nPrompt: A father holding a newborn baby close to his chest, soft natural light from a window, both calm and peaceful, warm neutral tones of cream, white, and light wood, sense of bonding and presence, clean open lower third for text overlay, photo-realistic, diverse representation, no identifiable faces\n\n**Article Hero 3B — 1200x630:**\nPrompt: Two parents (diverse couple, adults) sitting together holding their newborn in a home setting, soft morning light, cozy and intimate mood, warm neutral tones, background slightly blurred, clean lower third for text overlay, photo-realistic\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Paid Paternity Leave and Baby Health\n**Sources consulted:**\n- STAT News (Aug 17, 2026): \"Paid paternity leave is critical for babies' health\"\n- Medical Xpress / Northwestern Now (June 2026): \"Paid paternal leave linked to better mental health outcomes for dads\"\n- Northwestern University / Lurie Children's Hospital study (June 2026) — analyzed Ohio Fatherhood Survey 2022-2023\n- AAP Pediatrics journal: \"Impacts of Paid Family Leave on Perinatal Health: A Nationwide Quasi-Experimental Study\" — analyzed 11,452,411 live singleton births, 2016–2022\n- news-medical.net (June 18, 2026): \"Paid paternity leave supports new fathers' mental health, study finds\"\n- Healio: \"Paternal leave improves mental health among new fathers\"\n- contemporarypediatrics.com: \"Study: Longer fathers' work leave improves breastfeeding duration\"\n**Verified facts (HIGH — multiple sources):**\n- STAT News Aug 17, 2026 reported: paid paternity leave is critical for babies' health — confirmed\n- Northwestern/Lurie study: fathers without paid leave face higher anxiety and depression — confirmed multiple sources\n- AAP Pediatrics quasi-experimental study: analyzed 11.4M births; paid family leave policies improve perinatal outcomes — confirmed AAP Pediatrics abstract\n- Fathers average 3 days vs mothers' 7.2 weeks after birth — confirmed news-medical.net (National Parent Survey data)\n- Growing evidence fathers make independent contributions to child health — confirmed multiple sources\n**Verified facts (MEDIUM — single source):**\n- Ohio Fatherhood Survey 2022-2023 was the data source for Northwestern study — news-medical.net only\n- 2026 National Parent Survey found the 3 days/7.2 weeks comparison — need to confirm which specific source",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "2026 National Parent Survey — What Colorado Springs Parents Are Up Against — TIER 2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The 2026 National Parent Survey: two-parent households see a 14% average income drop after children. Single parents — especially women — may see up to 36%. Child care costs are central.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-national-parent-survey-2026.html",
+        "headline": "2026 National Parent Survey: What the Numbers Say About Family Financial Strain and What It Means for COS Families",
+        "word_count": 551
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "2026 National Parent Survey\n\n**Social Image 4A — 1200x675:**\nPrompt: A diverse group of parents with young children in a park or community setting, casual outdoor scene, Colorado mountain landscape in the background, warm summer light, sense of community and everyday family life, clean open lower third for text overlay, photo-realistic, wide shot, Colorado Springs feel\n\n**Article Hero 4B — 1200x630:**\nPrompt: A single parent (woman, diverse) sitting at a kitchen table with a child, papers and a laptop nearby suggesting budget or planning work, warm indoor light, slightly tired but determined expression, everyday family life mood, clean lower third for text overlay, photo-realistic\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "2026 National Parent Survey\n**Sources consulted:**\n- New America: \"Introducing the 2026 National Parent Survey\"\n- New America: \"What Parents of Young Kids Want: Insights from the 2026 National Parent Survey\"\n**Verified facts (HIGH — direct from New America source):**\n- Survey conducted by: New America\n- Sample size: 5,472 parents (including 2,915 with lower incomes)\n- Geographic scope: every corner of the country\n- Average two-parent household income drop after children: 14% — confirmed New America\n- Single parents, especially women: up to 36% income decrease — confirmed New America\n- Topics covered: child care needs, employment changes, household finances, parenting challenges, parental leave preferences, time use\n**Verified facts (MEDIUM):**\n- \"2026\" survey — confirmed from \"Introducing the 2026 National Parent Survey\" title; survey published 2026\n- The 3 days fathers vs 7.2 weeks mothers comparison came from one search summary — may overlap with S3 research; attributed to New America/National Parent Survey or STAT News article",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "COS Family Week Ahead — Pikes Peak Library Programs, CMZoo, and More — TIER 2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Free programs at Pikes Peak Library this week: Storytime Fri, Sensory Storytime Sat, Paws to Read Sat, Reading Roll Call with COS police Sat. All free. Full calendar at ppld.org\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-cos-family-week-ahead-library-cmzoo.html",
+        "headline": "Colorado Springs Family Week Ahead: Free Library Programs, CMZoo Little Paws, and More",
+        "word_count": 569
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "COS Family Week Ahead — Library and CMZoo\n\n**Social Image 5A — 1200x675:**\nPrompt: A child reading a picture book to a friendly golden retriever in a cozy library setting, warm library lighting, bookshelves in the soft background, sense of calm and focus, warm tones of wood and paper, clean open lower third for text overlay, photo-realistic, inviting and family-friendly\n\n**Article Hero 5B — 1200x630:**\nPrompt: Children gathered in a circle for storytime in a bright modern library setting, a librarian reading to the group, diverse children ages 3–7, warm soft lighting, colorful books and cushions, engaging and joyful mood, clean lower third for text overlay, photo-realistic"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "COS Family Week Ahead — Pikes Peak Library Programs\n**Sources consulted:**\n- Colorado Springs Gazette (Aug 16, 2026): \"Colorado Springs area literary events starting Aug. 16\"\n- ppld.org: Pikes Peak Library District events calendar\n- cmzoo.org: Little Paws + Tails Tunes Tastes info\n- FOX21 News: \"Tails, Tunes & Tastes returns to Cheyenne Mountain Zoo starting July 30\"\n- springseventhub.com: family events\n**Verified facts (HIGH — multiple sources):**\n- Pikes Peak Library District Storytime (ages 3–7): Fridays 10:30–11am Cheyenne Mountain Library (1785 S. 8th St.) and Old Colorado City Library (2418 W. Pikes Peak Ave., 10:30–11:15am) — confirmed Gazette/PPLD\n- Sensory Storytime: Saturdays 10:30–11am Library 21c (1175 Chapel Hills Drive) — confirmed Gazette/PPLD\n- Paws to Read: Saturdays 10:30–11:30am Old Colorado City Library — confirmed Gazette/PPLD\n- Reading Roll Call with COS police officers: Saturdays 10:30–11am Library 21c — confirmed Gazette/PPLD\n- CMZoo Tails, Tunes and Tastes: ongoing Thursdays, started July 30 — confirmed FOX21\n**Note:** No specific new \"this week\" event found for Aug 24–25 beyond programs listed. Article frames as a weekly resource guide with standing programs confirmed as ongoing through August.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
