@@ -1,0 +1,319 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-24",
+  "compiled_at": "2026-08-24T12:36:17.566582+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "S1: Cincinnati Finals results",
+      "type": "X Text Post A"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "S1: Fils historic win angle",
+      "type": "X Text Post B"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "S2: Serena/Alcaraz mixed doubles",
+      "type": "X Text Post A"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "S2: Alcaraz singles return",
+      "type": "X Text Post B"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "S3: US Open seedings",
+      "type": "X Text Post"
+    },
+    {
+      "time": "7:30 PM",
+      "description": "S4: US Open qualifying",
+      "type": "X Text Post"
+    },
+    {
+      "time": "9:00 PM",
+      "description": "S5: American stars outlook",
+      "type": "X Text Post"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Cincinnati Finals Results — Fils Claims First Masters 1000, Gauff Wins Second Cincinnati Title — TIER 1",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Arthur Fils wins his first Masters 1000 title — and France's first since Tsonga. Coco Gauff claims her 2nd Cincinnati crown. A Sunday to remember at the Cincinnati Open.\n\n#Tennis #CincinnatiOpen #ATPTour #WTATennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#CincinnatiOpen",
+            "#ATPTour",
+            "#WTATennis"
+          ],
+          "char_count": 214
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Arthur Fils, 22, defeats Frances Tiafoe 6-3, 1-6, 6-0 to become the youngest-ever French Masters 1000 champion. France's first M1000 title since Tsonga. Fils is 10-0 in three-set matches in 2026.\n\n#Tennis #CincinnatiOpen #ATPTour #Fils",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#CincinnatiOpen",
+            "#ATPTour",
+            "#Fils"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-fils-gauff-cincinnati-champions.html",
+        "headline": "Fils and Gauff Win Cincinnati: France's First Masters 1000 in 12 Years, Gauff's Second Crown",
+        "word_count": 713
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cincinnati Finals Results\n\n**Social Image 1A:**\n- Search term: `Arthur Fils Cincinnati`\n- Subject: Arthur Fils celebrating his Cincinnati Open title\n- Credit: (USA TODAY Sports Images)\n\n**Social Image 1B:**\n- Search term: `Coco Gauff Cincinnati`\n- Subject: Coco Gauff with her Cincinnati Open trophy\n- Credit: (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Cincinnati Finals Results\n**Sources consulted:**\n- Washington Post: \"Gauff beats Pegula for 2nd Cincinnati Open title; France's Fils beats American Tiafoe in men's final\" (Aug 23, 2026)\n- Al Jazeera: \"Gauff, Fils win Cincinnati tennis titles in run-up to US Open\" (Aug 24, 2026)\n- tennismajors.com: \"Fils claims maiden Masters 1000 title in Cincinnati\" (Aug 23, 2026)\n- tennisuptodate.com: \"Arthur Fils storms past Tiafoe to claim biggest title of his career\" (Aug 23, 2026)\n- atptour.com: \"Arthur Fils tops Frances Tiafoe in Cincinnati to claim first Masters 1000 title\"\n- Eurosport (Fr): \"Arthur Fils devient le premier Français vainqueur en Masters 1000 depuis Tsonga\"\n**Verified facts (HIGH confidence — multiple sources):**\n- Fils def. Tiafoe 6-3, 1-6, 6-0 — confirmed across all sources\n- Match duration: 1 hour 28 minutes — confirmed tennismajors.com\n- Gauff def. Pegula 6-2, 6-4 — confirmed across all sources\n- Gauff raced to 5-0 lead in first set — confirmed multiple sources\n- Pegula pushed back to 5-4 in second set before Gauff closed — confirmed Washington Post/Al Jazeera\n- Fils: 22 years old — confirmed ATP Tour\n- Fils: first Masters 1000 title — confirmed all sources\n- First French player to win a Masters 1000 since Tsonga — Eurosport says 2014; tennismajors says \"12 years\"\n- Fils: youngest-ever French Masters 1000 champion — confirmed tennismajors.com\n- Fils: 5th career ATP title, 2nd of 2026 (after Barcelona) — confirmed tennismajors.com\n- Fils: 8-0 against American opponents since start of 2025 — confirmed tennisuptodate.com\n- Fils: 10-0 in three-set matches in 2026 — confirmed tennisuptodate.com\n- Gauff: 2nd Cincinnati Open title — confirmed multiple sources\n- Tiafoe: second Masters 1000 final defeat, both at Cincinnati — confirmed tennismajors.com\n- First Masters 1000 final between two Black players (ATP confirmed) — from 2026-08-23 pipeline research\n**Verified facts (MEDIUM — single source):**\n- Tiafoe lost 2024 Cincinnati final to Sinner — tennismajors.com only\n- Fils: 32-10 record for 2026 through Cincinnati — from sofascore/search summary",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Serena Williams and Carlos Alcaraz Granted US Open Mixed Doubles Wildcard — TIER 1",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Serena Williams and Carlos Alcaraz are US Open mixed doubles partners. Serena's first Flushing appearance since 2022. Alcaraz also enters singles — his first Slam back after a right wrist injury.\n\n#Tennis #USOpen2026 #Serena #Alcaraz",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#USOpen2026",
+            "#Serena",
+            "#Alcaraz"
+          ],
+          "char_count": 233
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The 2026 US Open mixed doubles field: Serena/Alcaraz, Sabalenka/Djokovic, Swiatek/Ruud (2025 finalists), defending champs Errani/Vavassori. Star power does not get bigger than this.\n\n#Tennis #USOpen2026 #MixedDoubles #Serena",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#USOpen2026",
+            "#MixedDoubles",
+            "#Serena"
+          ],
+          "char_count": 224
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-serena-alcaraz-us-open-mixed-doubles.html",
+        "headline": "Serena Williams and Carlos Alcaraz Partner for 2026 US Open Mixed Doubles",
+        "word_count": 547
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Serena + Alcaraz US Open Mixed Doubles\n\n**Social Image 2A:**\n- Search term: `Serena Williams US Open`\n- Subject: Serena Williams at the US Open (Flushing Meadows)\n- Credit: (Imagn Images)\n\n**Social Image 2B:**\n- Search term: `Carlos Alcaraz`\n- Subject: Carlos Alcaraz in action on hard court\n- Credit: (Imagn Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Serena/Alcaraz US Open Mixed Doubles Wildcard\n**Sources consulted:**\n- usopen.org: \"Williams and Alcaraz, Navarro and Paul given 2026 US Open mixed doubles wild cards\" (Aug 22, 2026)\n- atptour.com: \"Carlos Alcaraz & Serena Williams to partner for US Open mixed doubles\"\n- olympics.com: \"Tennis: Serena Williams and Carlos Alcaraz handed 2026 US Open mixed doubles wild card\"\n- nbcnews.com: \"Serena Williams will play mixed doubles with Carlos Alcaraz in her return to the U.S. Open\"\n- cbssports.com: Venus Williams received US Open mixed doubles wildcard entry\n- espn.com: \"Serena Williams won't play US Open singles, in doubles with Alcaraz\"\n**Verified facts (HIGH confidence):**\n- Serena Williams and Alcaraz granted wildcard announced Aug 22 — confirmed usopen.org (official)\n- Serena's first US Open since 2022 — confirmed multiple sources\n- Alcaraz confirmed for singles at US Open — confirmed multiple sources\n- Alcaraz has been out since April 2026 with right wrist injury — confirmed context from multiple sources\n- Venus Williams also received mixed doubles wildcard — confirmed cbssports.com\n- 2025 finalists: Swiatek/Ruud — confirmed olympic.com/usopen\n- Defending champions: Errani/Vavassori — confirmed olympics.com\n- Sabalenka/Djokovic pairing — confirmed olympics.com\n- Serena returned to competitive tennis in 2026 — confirmed multiple sources\n- Qualifying begins Aug 24; main draw Aug 30 — confirmed usopen.org/ATP\n- Serena won't play singles — confirmed ESPN\n**Verified facts (MEDIUM):**\n- Serena's first mixed doubles at US Open since returning — need to verify exact context; ESPN says \"won't play singles, in doubles with Alcaraz\"",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "US Open 2026 Seeds Set — Zverev No. 1 Men, Sabalenka No. 1 Women; Draw Ceremony Thursday — TIER 2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "2026 US Open seeds are set. Men: Zverev No. 1, Alcaraz No. 2 (Sinner absent). Women: Sabalenka No. 1, Swiatek No. 2, Gauff No. 3, Pegula No. 4. Draw ceremony Thursday. Main draw Aug 30.\n\n#Tennis #USOpen2026 #ATPTour #WTATennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#USOpen2026",
+            "#ATPTour",
+            "#WTATennis"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-us-open-2026-seeds-draw-preview.html",
+        "headline": "2026 US Open Seeds Set: Zverev No. 1 Men, Sabalenka No. 1 Women; Draw Ceremony Thursday",
+        "word_count": 586
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "US Open Seedings\n\n**Social Image 3:**\n- Search term: `Alexander Zverev`\n- Subject: Alexander Zverev (No. 1 seed) in action\n- Credit: (USA TODAY Sports Images)\n\n**Article Hero 3:**\n- Search term: `Aryna Sabalenka`\n- Subject: Aryna Sabalenka (No. 1 women's seed) in action\n- Credit: (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "US Open 2026 Seedings\n**Sources consulted:**\n- tennis365.com: \"US Open 2026 men's seeds: Alcaraz & Djokovic the big winners as Sinner withdraws\"\n- puntodebreak.com: \"This is the seeding order for the 2026 US Open\" (Aug 23, 2026)\n- aceify.me: \"US Open 2026 Seeds: Projected Men's and Women's List\"\n- heavy.com: \"US Open Men's Top 8 Seeds Revealed After Jannik Sinner Decision\"\n**Verified facts (HIGH confidence):**\n- Men's No. 1 seed: Alexander Zverev — confirmed multiple sources\n- Women's No. 1 seed: Aryna Sabalenka — confirmed multiple sources\n- Men's No. 2: Carlos Alcaraz — confirmed tennis365.com, puntodebreak.com\n- Women's No. 2: Iga Swiatek — confirmed multiple sources\n- Women's No. 3: Coco Gauff — confirmed multiple sources\n- Women's No. 4: Jessica Pegula — confirmed multiple sources\n- Women's No. 5: Mirra Andreeva — confirmed puntodebreak.com\n- Men's No. 4: Novak Djokovic — confirmed tennis365.com, heavy.com\n- Sinner withdrawn — confirmed all sources\n- Draw ceremony: Thursday August 27 — confirmed flashscore.com, LTA\n- Main draw begins: August 30 — confirmed multiple sources\n- Rankings from Aug 24 determine seeds — confirmed LTA\n**Verified facts (MEDIUM — single source):**\n- Men's No. 3: Felix Auger-Aliassime — aceify.me only\n- Men's No. 5: Flavio Cobolli — aceify.me only\n- Men's No. 6: Alex de Minaur — aceify.me only\n- Men's No. 7: Daniil Medvedev — aceify.me only\n- Men's No. 8: Ben Shelton — aceify.me only",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "US Open Qualifying Begins Today — Players Fight for Main Draw Spots — TIER 2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "US Open qualifying is underway at Flushing Meadows. Federer/Roddick vs. McEnroe/Agassi exhibition is tomorrow (Aug 25, sold out). Main draw begins Aug 30. Record $108M prize pool.\n\n#Tennis #USOpen2026 #Federer #Qualifying",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#USOpen2026",
+            "#Federer",
+            "#Qualifying"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-us-open-qualifying-fan-week.html",
+        "headline": "US Open Qualifying Begins: The Road to Flushing Starts Now",
+        "word_count": 557
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "US Open Qualifying\n\n**Social Image 4:**\n- Search term: `US Open tennis Flushing`\n- Subject: USTA Billie Jean King National Tennis Center aerial or court view\n- Credit: (USA TODAY Sports Images)\n\n**Article Hero 4:**\n- Search term: `US Open tennis courts`\n- Subject: Arthur Ashe Stadium or qualifying courts at Flushing Meadows\n- Credit: (Imagn Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "US Open Qualifying Begins\n**Sources consulted:**\n- Olympics.com: \"US Open 2026: Carlos Alcaraz makes injury comeback, Elena Rybakina challenges for world No. 1\"\n- usopen.org: various Fan Week coverage\n- From 2026-08-23 pipeline: Fan Week details confirmed\n**Verified facts (HIGH confidence):**\n- US Open qualifying begins Monday August 24 — confirmed usopen.org/olympics.com (mentioned \"Qualifying begins on Monday\")\n- USTA Billie Jean King National Tennis Center, Flushing, Queens — established fact\n- Federer/Roddick vs McEnroe/Agassi exhibition August 25, sold out — confirmed 2026-08-23 pipeline (multiple sources at that time)\n- $108M record prize pool — confirmed multiple sources from 2026-08-22/23 pipelines\n- Main draw begins August 30 — confirmed multiple sources",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "American Tennis After Cincinnati — Tiafoe, Nakashima, Gauff, Pegula US Open Outlook — TIER 2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Tiafoe, Nakashima, Gauff, and Pegula all head to Flushing with purpose. Tiafoe hungry after his 2nd M1000 final loss. Nakashima with a career-best season. Two American women in the US Open top 4 seeds.\n\n#Tennis #USOpen2026 #ATPTour #WTATennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#USOpen2026",
+            "#ATPTour",
+            "#WTATennis"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-american-stars-us-open-outlook.html",
+        "headline": "American Tennis After Cincinnati: Tiafoe, Nakashima, Gauff, and Pegula Head to Flushing",
+        "word_count": 694
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "American Stars Outlook\n\n**Social Image 5:**\n- Search term: `Frances Tiafoe`\n- Subject: Frances Tiafoe in action (hard court)\n- Credit: (USA TODAY Sports Images)\n\n**Article Hero 5:**\n- Search term: `Brandon Nakashima`\n- Subject: Brandon Nakashima in action (hard court)\n- Credit: (Imagn Images)"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "American Stars US Open Outlook\n**Sources consulted:**\n- atptour.com: Nakashima SF run history\n- Tennis recap from 2026-08-22 and 2026-08-23 pipelines\n- tennismajors.com: Tiafoe's second final loss detail\n**Verified facts (HIGH confidence):**\n- Tiafoe's second Masters 1000 final defeat, both at Cincinnati — tennismajors.com\n- Nakashima: back-to-back Masters 1000 SFs — confirmed 2026-08-22 pipeline\n- Nakashima: Tour-leading 22 hard-court wins in 2026 — confirmed 2026-08-22 pipeline\n- Gauff: two-time Cincinnati champion (2023 and 2026) — confirmed multiple sources\n- Pegula: Cincinnati finalist (lost to Gauff today) — confirmed\n**Verified facts (MEDIUM):**\n- Tiafoe also lost 2024 Cincinnati final to Sinner — single source (tennismajors.com)\n- Nakashima's career-best season in 2026 — supported by multiple references",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
