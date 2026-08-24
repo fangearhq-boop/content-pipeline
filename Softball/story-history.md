@@ -3,6 +3,54 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-08-24
+
+### Story 1: AUSL All-Star Cup — Series 3 Opens Today (Game 13 + Game 14 Results)
+- **Date:** 2026-08-24
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Series 3 opens today; Coffey beats Ricketts 4-2 Game 13; Kowalik crushes Netz 13-5 Game 14; Kowalik 860 pts leads race; 6 days to individual champion Aug 30)
+- **Angle:** Opening day recap — both Series 3 results. Kowalik dominant win widens lead. Individual standings post-Game 14.
+- **Content Produced:** Article (article-01, Emily Rawlings), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Series 3 remaining games and standings updates
+  - Series 4 preview (Aug 30) and individual champion crowned
+
+### Story 2: September 1 Countdown — 8 Days, Two-Phase Window
+- **Date:** 2026-08-24
+- **Tier:** 2
+- **Classification:** FOLLOW UP (8 days; new angle: Sept 9 in-person window and two-phase prep)
+- **Angle:** Two-phase guide — what Sept 1 looks like vs what Sept 9 (in-person) changes. Recruits need to prepare for both.
+- **Content Produced:** Article (article-02, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+
+### Story 3: USA WNT — 19 Days, Four Sooners in Oklahoma City
+- **Date:** 2026-08-24
+- **Tier:** 2
+- **Classification:** FOLLOW UP (19 days; OU player focus angle; 4 Sooners lead all schools)
+- **Angle:** Four Sooners (Brito, Coleman, Jennings, Maxwell) profiles. Devon Park familiarity. LA28 stakes.
+- **Content Produced:** Article (article-03, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - USA vs Mexico opener Sept 12
+  - Group Oklahoma results and advancement to Redcliffe
+
+### Story 4: Oklahoma Softball — Battle Series and Fall Camp
+- **Date:** 2026-08-24
+- **Tier:** 2
+- **Classification:** FOLLOW UP (fall camp underway; Battle Series format angle; Berzon+Harter evaluation)
+- **Angle:** Battle Series — 6 intrasquad scrimmages. Berzon (2x AA, LSU) and Harter (.346) being evaluated from day one.
+- **Content Produced:** Article (article-04, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+
+### Story 5: Texas Softball — Teagan Kavan Senior Year
+- **Date:** 2026-08-24
+- **Tier:** 3
+- **Classification:** FOLLOW UP (Kavan senior year; three-peat history; Torres addition; fall camp underway)
+- **Angle:** Kavan as only 2x WCWS MOP in history, entering senior year with Torres alongside.
+- **Content Produced:** Article (article-05, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Fall exhibition results (Oct 4–Nov 9)
+  - 2027 season preview
+
+---
+
 ## 2026-08-23
 
 ### Story 1: AUSL All-Star Cup — Series 3 Opens Tomorrow
