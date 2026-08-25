@@ -1735,3 +1735,50 @@ Track previously covered stories to avoid repetition and maintain content freshn
 - **Byline:** Ryan Calloway
 - **Key Facts:** Tiafoe 2nd M1000 final loss (both Cincinnati); Nakashima back-to-back M1000 SFs; Nakashima 22 HC wins; Gauff No. 3 seed; Pegula No. 4 seed; Sources: prior pipeline research, tennismajors.com
 - **Follow-Up Opportunities:** US Open draw assignments for all four; first-round results
+
+## 2026-08-25
+
+### Story 1: Federer Returns to Arthur Ashe — Exhibition Tonight with Roddick, McEnroe, Agassi
+- **Date:** 2026-08-25
+- **Angle:** FOLLOW-UP (2026-08-24 S4: US Open Fan Week/qualifying; 2026-08-23 S4: Fan Week opens) — Roger Federer returns to Arthur Ashe Stadium for sold-out Fan Week exhibition (8 PM ET). Singles set: Federer vs. Roddick (no-ad). Doubles set: Federer/McEnroe vs. Roddick/Agassi (no-ad). Federer H2H vs Roddick: 21-3. First time at Arthur Ashe since retirement. Combined 12 US Open singles titles among the four players.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Ryan Calloway
+- **Key Facts:** Exhibition at Arthur Ashe Stadium Aug 25 8 PM ET; sold out; format: Federer vs Roddick singles (no-ad) then Federer/McEnroe vs Roddick/Agassi doubles (no-ad); H2H Federer-Roddick 21-3; Sources: gulfnews.com, yahoo sports, puntodebreak.com, lastwordonsports.com
+- **Follow-Up Opportunities:** Post-match recap; fan reaction; Roddick/Federer quotes
+
+### Story 2: US Open Qualifying Day 2 — 16-Year-Old Jordan Lee Headlines
+- **Date:** 2026-08-25
+- **Angle:** FOLLOW-UP (2026-08-24 S4: Qualifying begins) — Day 2 of US Open qualifying first round at USTA BJKNC. 16-year-old Jordan Lee (wildcard) advanced Day 1. Jacob Fearnley (GBR) and Coleman Wong (HKG) also advanced. 128 total R1 matches split Mon–Tue. Described as "most star-studded ever" qualifying field. Main draw Aug 30.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Elena Voss
+- **Key Facts:** Jordan Lee 16yr wildcard advanced; Fearnley and Coleman Wong advanced Day 1; 128 combined R1 matches (64 men + 64 women) Mon–Tue; Sources: yahoo sports, olympics.com, worldtennismagazine.com
+- **Follow-Up Opportunities:** Jordan Lee R2 result; who earned main draw spots
+
+### Story 3: Alcaraz at Winston-Salem — First Competitive Tennis Since April Wrist Injury
+- **Date:** 2026-08-25
+- **Angle:** FOLLOW-UP (2026-08-24 S2: Alcaraz confirmed for US Open; 2026-08-17 S5: Alcaraz eyes Winston-Salem) — Carlos Alcaraz competing at Winston-Salem Open (ATP 250, Aug 23–29, Wake Forest University) on wildcard. First tournament since April right wrist injury. First time he's entered this tournament. US Open No. 2 seed. Also confirmed for mixed doubles with Serena Williams. US Open draw Aug 27, main draw Aug 30.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Marcus Cole
+- **Key Facts:** Winston-Salem Open ATP 250, Aug 23–29, Wake Forest University; Alcaraz via wildcard, first time entering; first competitive match since April wrist injury; No. 2 US Open seed; Sources: atptour.com, tennishead.net, winstonsalemopen.com
+- **Follow-Up Opportunities:** Alcaraz first-round result; US Open first round match
+
+### Story 4: US Open Draw Ceremony Preview — Thursday at Noon ET
+- **Date:** 2026-08-25
+- **Angle:** FOLLOW-UP (2026-08-24 S3: Seeds set; 2026-08-23 S5: Draw preview) — Draw ceremony Aug 27 noon ET. Seeds from Aug 24 rankings: Zverev No. 1 men, Alcaraz No. 2, Djokovic No. 4; Sabalenka No. 1 women, Swiatek No. 2, Gauff No. 3, Pegula No. 4. Eala seeded first Grand Slam. Sinner absent. 14+ withdrawals. Main draw Aug 30.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Ryan Calloway
+- **Key Facts:** Draw ceremony Aug 27 noon ET; seedings: Zverev No. 1, Alcaraz No. 2, Djokovic No. 4 (men); Sabalenka No. 1, Swiatek No. 2, Gauff No. 3, Pegula No. 4 (women); Eala first Grand Slam seeding; Sinner absent; Sources: tennis365.com, puntodebreak.com, flashscore.com
+- **Follow-Up Opportunities:** Draw release Aug 27; first-round matchup analysis
+
+### Story 5: US Open 2026 — Under-the-Radar Storylines
+- **Date:** 2026-08-25
+- **Angle:** FOLLOW-UP (2026-08-24 S3, S5; multiple prior days) — Five storylines: Eala's historic first Grand Slam seeding (first Filipino); Djokovic pursuing 25th major at No. 4 seed; 14+ withdrawal gap creating open pathways; Fils arriving as Cincinnati M1000 champion (10-0 in 3-set matches); Gauff defending as No. 3 seed and 2x Cincinnati champion.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Elena Voss
+- **Key Facts:** Eala first Filipino Grand Slam seed; Djokovic 24 majors → pursuing 25th; $108M prize pool record; Fils 10-0 in 3-set matches 2026; Gauff defending champion + No. 3 seed; Sources: tennis365.com, puntodebreak.com, prior pipeline
+- **Follow-Up Opportunities:** Eala first round; Djokovic draw; Fils draw placement

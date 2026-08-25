@@ -1,0 +1,346 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-25",
+  "compiled_at": "2026-08-25T12:32:29.523002+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "S1: Federer exhibition tonight",
+      "type": "X Text Post A"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "S1: Federer/Roddick format/history",
+      "type": "X Text Post B"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "S2: Qualifying Day 2 / Jordan Lee",
+      "type": "X Text Post"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "S3: Alcaraz at Winston-Salem",
+      "type": "X Text Post"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "S4: US Open draw ceremony preview",
+      "type": "X Text Post"
+    },
+    {
+      "time": "9:00 PM",
+      "description": "S5: Under-the-radar US Open storylines",
+      "type": "X Text Post"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Federer Returns to Arthur Ashe — The Exhibition That Stopped the Tennis World — TIER 1",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Tonight at Arthur Ashe Stadium: Roger Federer returns. He faces Andy Roddick in a singles set, then Federer and McEnroe take on Roddick and Agassi in doubles. Sold out. 8 PM ET. Four legends. One night.\n\n#Tennis #USOpen2026 #Federer #ATPTour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#USOpen2026",
+            "#Federer",
+            "#ATPTour"
+          ],
+          "char_count": 241
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Federer vs. Roddick. The H2H stands at 21-3. Tonight they share a court at Arthur Ashe Stadium for the first time since Federer's retirement. Then they partner against McEnroe and Agassi. 8 PM ET.\n\n#Tennis #USOpen2026 #Federer #Roddick",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#USOpen2026",
+            "#Federer",
+            "#Roddick"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-federer-roddick-mcenroe-agassi-us-open-exhibition.html",
+        "headline": "Federer Returns to Arthur Ashe: The Exhibition That Stopped the Tennis World",
+        "word_count": 596
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "US Open Qualifying Day 2 — 16-Year-Old Jordan Lee Headlines Again — TIER 2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "US Open qualifying continues today at Flushing Meadows. 16-year-old Jordan Lee headlined Day 1. Jacob Fearnley and Coleman Wong also advanced. One of the most competitive qualifying fields in years — 128 matches, 2 days.\n\n#Tennis #USOpen2026 #ATPTour #WTATennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#USOpen2026",
+            "#ATPTour",
+            "#WTATennis"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-us-open-qualifying-day-2-jordan-lee.html",
+        "headline": "US Open Qualifying Day 2: Jordan Lee, Fearnley, and the Most Star-Studded Field in Years",
+        "word_count": 492
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Alcaraz at Winston-Salem — First Competitive Tennis Since April Wrist Injury — TIER 2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Carlos Alcaraz is competing at the Winston-Salem Open this week — his first tournament since injuring his right wrist in April. A wildcard entry into an event he has never played before, four days before the US Open draw.\n\n#Tennis #Alcaraz #WinstonSalem #USOpen2026",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#Alcaraz",
+            "#WinstonSalem",
+            "#USOpen2026"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-alcaraz-winston-salem-comeback.html",
+        "headline": "Alcaraz at Winston-Salem: His First Competitive Tennis Since the April Wrist Injury",
+        "word_count": 557
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "US Open Draw Ceremony Preview — What to Know Before Thursday's Release — TIER 2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The 2026 US Open draw drops Thursday at noon ET. Zverev No. 1. Sabalenka No. 1 women. Alcaraz No. 2. Gauff No. 3. No Sinner. Alexandra Eala seeded for the first time at a Grand Slam. Main draw starts August 30.\n\n#Tennis #USOpen2026 #ATPTour #WTATennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#USOpen2026",
+            "#ATPTour",
+            "#WTATennis"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-us-open-draw-ceremony-preview-thursday.html",
+        "headline": "US Open Draw Ceremony Preview: Thursday at Noon ET — Everything You Need to Know",
+        "word_count": 501
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "US Open 2026 — The Under-the-Radar Storylines Heading Into Flushing — TIER 2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Five things to watch beyond the top seeds at the 2026 US Open: Eala's historic seeding. Djokovic chasing No. 25. A wide-open draw after 14+ withdrawals. Fils arriving as M1000 champion. Gauff defending on home courts.\n\n#Tennis #USOpen2026 #WTATennis #ATPTour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#USOpen2026",
+            "#WTATennis",
+            "#ATPTour"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-us-open-2026-under-the-radar-storylines.html",
+        "headline": "Five Under-the-Radar Storylines at the 2026 US Open",
+        "word_count": 717
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
