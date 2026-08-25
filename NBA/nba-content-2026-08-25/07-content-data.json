@@ -1,0 +1,261 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-25",
+  "compiled_at": "2026-08-25T11:21:10.945576+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Wemby Gets Revenge — France Edges Serbia 91-90 in Orleans Thriller — Tier 1",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "WEMBANYAMA'S REVENGE.\n\nFrance 91, Serbia 90. Buzzer-beater. Orleans.\n\nWemby: 18 points (nearly 2x his Belgrade output).\nJokic: 34 points, 13 rebounds — still lost.\n\nHoard's fast-break layup sealed it with 11 seconds left. 🔥\n\n#Wembanyama #FIBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wembanyama",
+            "#FIBA"
+          ],
+          "char_count": 242
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Jokic dropped 34 and 13 and it STILL wasn't enough.\n\nFrance beats Serbia 91-90 in the Orleans rematch.\n\nThey blew a 19-point lead... and somehow held on.\n\nBasketball is wild. 🏀\n\n#FIBA #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#FIBA",
+            "#NBA"
+          ],
+          "char_count": 188
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-wemby-france-beats-serbia-orleans.html",
+        "headline": "France Edges Serbia 91-90 in Orleans Thriller — Wembanyama Gets His Revenge",
+        "word_count": 465
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "France Beats Serbia 91-90\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search terms:** Victor Wembanyama France national team\n- **Description:** Action shot of Wembanyama celebrating or driving to basket in French national team uniform\n- **Overlay text:** \"FRANCE 91, SERBIA 90 — WEMBANYAMA'S REVENGE\"\n- **Credit:** (USA TODAY Sports Images)\n\n#### Image Concept 2 — Social (1080x1350)\n- **Search terms:** Nikola Jokic Serbia national team\n- **Description:** Jokic in action or looking intense during FIBA competition\n- **Overlay text:** \"34 PTS. 13 REB. STILL LOST.\"\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "France Beats Serbia 91-90 — Orleans Rematch\n**Sources:**\n- HoopsHype: \"France slips past Serbia in Victor Wembanyama-Nikola Jokic rematch\" — Jaylen Hoard fast-break layup in final 11 seconds; 91-90 final\n- FIBA.basketball: \"Wemby, France survive showdown with Jokic-led Serbia\" — official report\n- Eurohoops.net: \"France blows 19-point lead but beats Jokic, Serbia at the buzzer\"\n**Key verified facts (HIGH confidence):**\n- Final score: France 91, Serbia 90 ✓ (multiple sources)\n- Jokic: 34 pts, 13 reb, 5 ast ✓ (FIBA official + multiple outlets)\n- Wembanyama: 18 points ✓ (multiple sources)\n- Francisco: 20 pts for France ✓\n- Luwawu-Cabarrot: 19 pts ✓\n- Hoard buzzer layup with 11 seconds left ✓\n- France led by 19 at one point before Serbia stormed back ✓\n- Belgrade result (Aug 20): Serbia 90, France 87 — Jokic 20/9/8, Wemby 10 pts/6 TO ✓\n- Next: France vs Slovenia Aug 27, France vs Sweden Aug 30 ✓\n**Freshness:** Game played Aug 23 (2 days ago). Strong follow-up angle — result just confirmed.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Klay Thompson Signs With Miami Heat After Mavs Buyout — Tier 1",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "KLAY THOMPSON IS A MIAMI HEAT.\n\nAfter the Mavs buyout, Klay signed a 2-year deal in South Beach.\n\nHe's joining GIANNIS ANTETOKOUNMPO.\n\nThe East just got exponentially more dangerous. 🔥\n\n#Heat #KlayThompson #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Heat",
+            "#KlayThompson",
+            "#NBA"
+          ],
+          "char_count": 210
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-klay-thompson-miami-heat.html",
+        "headline": "Klay Thompson Signs With Miami Heat After Mavs Buyout — Joins Giannis in Championship Chase",
+        "word_count": 464
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Klay Thompson / Miami Heat\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search terms:** Klay Thompson Miami Heat\n- **Description:** Thompson in Heat gear or celebrating a big shot\n- **Overlay text:** \"KLAY IS A MIAMI HEAT\"\n- **Credit:** (USA TODAY Sports Images)\n\n#### Image Concept 2 — Social (1080x1350)\n- **Search terms:** Giannis Antetokounmpo Miami Heat\n- **Description:** Giannis in Heat uniform, dominant pose\n- **Overlay text:** \"GIANNIS + KLAY. THIS IS REAL.\"\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Klay Thompson Signs With Miami Heat\n**Sources:**\n- NBC Sports: \"Klay Thompson reportedly headed to Miami Heat after reaching buyout with Dallas\"\n- Yahoo Sports: \"Mavericks agree to buy out Klay Thompson's contract, with sharpshooter reportedly joining Heat\"\n- ESPN: \"Klay Thompson to sign 2-year deal with Heat after Mavs buyout\"\n- NBA.com: \"Klay Thompson signs with Heat after Mavericks buyout\"\n**Key verified facts (HIGH confidence):**\n- 2-year deal, nearly $13 million, player option in Year 2 ✓ (ESPN + Yahoo)\n- Thompson told Mavs he wanted to play for a contender ✓\n- Mavs pivoting to build around Cooper Flagg ✓\n- Heat already landed Giannis Antetokounmpo this offseason ✓\n- Thompson's Mavs contract had $16M+ guaranteed remaining (buyout = Mavs eat some salary) ✓\n**MEDIUM confidence:**\n- Exact contract value: \"nearly $13 million\" — varies slightly by source\n**Freshness:** Buyout/signing appears to have happened around Aug 21-23. Story is current.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Stephen Curry Extension — 4 Days to August 29 Window — Tier 2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "4 DAYS.\n\nSteph Curry's extension window opens August 29.\n\n2 years. $136.7 million. The Warriors' entire future.\n\nGM Dunleavy: \"pretty confident.\"\n\nThe clock is ticking. ⏰\n\n#Warriors #StephCurry #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Warriors",
+            "#StephCurry",
+            "#NBA"
+          ],
+          "char_count": 198
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-curry-extension-4-days.html",
+        "headline": "Four Days: Stephen Curry's Extension Window Opens August 29 as Warriors Hold Their Breath",
+        "word_count": 535
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Curry Extension\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search terms:** Stephen Curry Golden State Warriors\n- **Description:** Curry shooting or celebrating at Chase Center\n- **Overlay text:** \"4 DAYS. $136.7M. THE COUNTDOWN IS ON.\"\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Stephen Curry Extension\n**Sources:**\n- Yahoo Sports: \"Stephen Curry Will Sign $136 Million Max Extension With Warriors\"\n- NBC Sports Bay Area: \"Bold, risky Steph Curry contract extension idea floated\"\n- Yardbarker: \"Stephen Curry's August 29 Extension Deadline Is the Golden State Warriors' Ultimate Crossroads\"\n- Eastern Herald: \"Stephen Curry Faces $136.7 Million Extension Decision\"\n**Key verified facts (HIGH confidence):**\n- Extension window opens August 29, 2026 ✓\n- 2-year / $136.7 million max ✓ (multiple sources)\n- GM Mike Dunleavy: \"pretty confident Steph will finish his career\" as a Warrior ✓\n- Would carry Curry through age-40 season (born 1988; 2028-29 = age 40) ✓\n- If unsigned: Curry becomes UFA in 2027 for first time ever ✓\n- Warriors went 37-45 last season ✓\n- Failed to land LeBron, Giannis, Anthony Davis ✓",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Kawhi Leonard Investigation — Trade to Toronto on Hold — Tier 2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Kawhi Leonard trade to Toronto is STILL on hold.\n\nThe NBA investigation drags into September.\n\nLeonard: personally cleared.\nClippers: facing sanctions.\nResolution: expected around Sept. 22.\n\nThis saga is not over. 👀\n\n#Clippers #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Clippers",
+            "#NBA"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-kawhi-leonard-trade-on-hold.html",
+        "headline": "Kawhi Leonard Trade to Toronto Remains on Hold as NBA Investigation Stretches Into September",
+        "word_count": 469
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Kawhi Leonard\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search terms:** Kawhi Leonard Los Angeles Clippers\n- **Description:** Kawhi in neutral pose or walking off court\n- **Overlay text:** \"STILL WAITING. KAWHI TRADE ON HOLD.\"\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Kawhi Leonard Investigation\n**Sources:**\n- Yahoo Sports live tracker: \"Kawhi Leonard trade on hold until NBA investigation wraps\"\n- Multiple outlets: trade (Leonard + Raptors assets) on hold\n- Previously confirmed: NBA cleared Leonard personally; Clippers face \"failure to supervise\" sanctions\n**Key verified facts (HIGH confidence):**\n- Trade to Toronto on hold ✓\n- Leonard personally cleared by NBA ✓\n- Investigation into Clippers (Aspiration + Daktronics deals) ongoing ✓\n- All-Star Game stays at Intuit Dome ✓\n- Resolution expected ~Sept 22 ✓\n- Toronto camp: Sept 28 Quebec City ✓",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "James Harden & Cleveland Cavaliers — Building the 2026-27 Roster — Tier 2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "James Harden. 3 years. $97 million. Cleveland Cavaliers.\n\nOfficial.\n\nThe Cavs are no longer just a contender. They're a PROBLEM.\n\nTraining camp opens Sept. 29. The East had better get ready. 🏀\n\n#Cavaliers #JamesHarden #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cavaliers",
+            "#JamesHarden",
+            "#NBA"
+          ],
+          "char_count": 222
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-harden-cavaliers-title-blueprint.html",
+        "headline": "James Harden and Cleveland: Breaking Down the Cavaliers' New Eastern Conference Blueprint",
+        "word_count": 509
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "James Harden / Cavaliers\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search terms:** James Harden Cleveland Cavaliers\n- **Description:** Harden in Cavaliers uniform, confident pose\n- **Overlay text:** \"HARDEN. CAVALIERS. OFFICIAL.\"\n- **Credit:** (USA TODAY Sports Images)"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "James Harden / Cavaliers\n**Sources:**\n- NBA.com: \"Report: James Harden returns to Cleveland on 3-year deal\"\n- Yahoo Sports free agency tracker\n**Key verified facts (HIGH confidence):**\n- 3-year, $97 million deal ✓ (player option Year 3)\n- 3-team deal: Peyton Watson → Cavs; Max Strus → Clippers; unprotected 2031 Cavs 1st + 2032 SAC 2nd → Nuggets ✓\n- Tre Mann → Wizards for Cam Whitmore + 2027 2nd ✓\n- Cavs training camp: Sept 29 ✓",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

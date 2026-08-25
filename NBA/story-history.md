@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-08-25
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-08-25 | T1 | France Edges Serbia 91-90 in Orleans — Wembanyama Gets Revenge | X, FB, Article | FOLLOW UP |
+| 2026-08-25 | T1 | Klay Thompson Signs With Miami Heat After Mavs Buyout | X, FB, Article | NEW |
+| 2026-08-25 | T2 | Stephen Curry Extension — 4 Days to August 29 Window | X, FB, Article | FOLLOW UP |
+| 2026-08-25 | T2 | Kawhi Leonard Investigation — Trade to Toronto Still on Hold | X, FB, Article | FOLLOW UP |
+| 2026-08-25 | T2 | James Harden and the Cavaliers — Breaking Down the Eastern Conference Blueprint | X, FB, Article | FOLLOW UP |
+
+### STORY 1: France Beats Serbia 91-90 — Orleans Rematch
+- **Tier:** 1
+- **Category:** FIBA / France National Team / Victor Wembanyama / Nikola Jokic
+- **Key facts:** France 91, Serbia 90 (Aug 23, Orleans); Jaylen Hoard buzzer fast-break layup with 11 seconds left; Wembanyama 18 pts (vs 10 in Belgrade); Jokic 34 pts/13 reb/5 ast in losing effort; Francisco 20 pts, Luwawu-Cabarrot 19; France blew 19-point lead before holding on; Serbia won Belgrade 90-87; France 6-1 in Group L; next: Slovenia Aug 27, Sweden Aug 30
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Slovenia qualifier result (Aug 27); Sweden qualifier result (Aug 30); Spurs training camp
+
+### STORY 2: Klay Thompson Signs With Miami Heat
+- **Tier:** 1
+- **Category:** NBA Free Agency / Miami Heat / Klay Thompson / Dallas Mavericks
+- **Key facts:** 2yr/~$13M deal (player option Year 2); Thompson told Mavs he wanted a contender; Mavs absorbed buyout; Miami already has Giannis Antetokounmpo; Cooper Flagg era begins in Dallas; Erik Spoelstra coaching; Heat become Eastern Conference threat
+- **Status:** NEW
+- **Follow-up ideas:** Heat preseason chemistry; opening night; East power rankings
+
+### STORY 3: Stephen Curry Extension — 4 Days
+- **Tier:** 2
+- **Category:** NBA Contracts / Golden State Warriors / Stephen Curry
+- **Key facts:** Window opens Aug 29 (4 days); 2yr/$136.7M max; through age-40 season; GM Dunleavy "pretty confident"; mutual interest confirmed; Warriors 37-45; failed LeBron/Giannis/AD pursuit; UFA risk if unsigned (first time ever); Windhorst floated shorter-term discount structure
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Extension signing announcement (expect Aug 29); Warriors training camp Sept 29
+
+### STORY 4: Kawhi Leonard Investigation — Trade on Hold
+- **Tier:** 2
+- **Category:** NBA Investigation / Kawhi Leonard / Los Angeles Clippers / Toronto Raptors
+- **Key facts:** Trade on hold pending NBA ruling; Leonard personally cleared; Clippers face "failure to supervise" sanctions; All-Star Game stays at Intuit Dome; Aspiration + Daktronics deals under scrutiny; resolution expected ~Sept 22; Toronto camp Sept 28 Quebec City; both sides operating as if trade completes
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Sanction announcement; trade completion; Toronto camp
+
+### STORY 5: James Harden / Cavaliers Blueprint
+- **Tier:** 2
+- **Category:** NBA Free Agency / Cleveland Cavaliers / James Harden
+- **Key facts:** 3yr/$97M (player option Year 3) official; Peyton Watson to Cavs, Max Strus to Clippers, 2031 unprotected Cavs 1st + 2032 SAC 2nd to Nuggets; Tre Mann to Wizards for Cam Whitmore + 2027 2nd; training camp Sept 29; angle: how Harden fits alongside Cavs core
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Training camp; preseason games; Eastern Conference title odds
+
 ## 2026-08-23
 
 | Date | Tier | Story | Formats | Status |

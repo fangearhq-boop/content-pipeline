@@ -1,6 +1,18 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Last Run
+- **Date**: 2026-08-25
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** hh-postplanner-2026-08-25.xlsx (6 posts) + hh-postplanner-tobi-2026-08-25.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-08-25/review-dashboard.html (21 items)
+- **Notes:** FRANCE BEATS SERBIA 91-90 — Wemby 18 pts, Jokic 34/13/5 in losing effort, Hoard buzzer layup with 11 seconds left; France 6-1 in Group L; next: Slovenia Aug 27; KLAY TO HEAT — 2yr/~$13M deal after Mavs buyout; joins Giannis; Dallas pivots to Cooper Flagg; CURRY 4 DAYS — Window Aug 29; 2yr/$136.7M; GM Dunleavy "pretty confident"; Warriors 37-45; KAWHI TRADE ON HOLD — Leonard cleared personally; Clippers face sanctions; All-Star stays at Intuit Dome; resolution ~Sept 22; Toronto camp Sept 28; HARDEN CAVALIERS — 3yr/$97M official; Peyton Watson to Cavs, Max Strus to Clippers; training camp Sept 29
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+### 2026-08-23
 - **Date**: 2026-08-23
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
 - **Stories:** 5 total (1 Tier 1, 4 Tier 2)
