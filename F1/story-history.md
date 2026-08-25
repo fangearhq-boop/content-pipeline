@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-08-25
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-08-25 | T1 | Norris Wins Final Dutch GP — Verstappen Crashes Out on Lap 1 | X, FB, Article | FOLLOW UP |
+| 2026-08-25 | T1 | Championship After Dutch GP — Antonelli 242, Russell/Hamilton Tied at 183 | X, FB, Article | FOLLOW UP |
+| 2026-08-25 | T2 | Verstappen's Zandvoort Farewell — Crashed Out, Final Race, End of an Era | X, FB, Article | FOLLOW UP |
+| 2026-08-25 | T2 | Russell Wins Dutch GP Sprint — Ties Hamilton for Second in Championship | X, FB, Article | FOLLOW UP |
+| 2026-08-25 | T2 | Italian GP Monza Preview — Ferrari ADUO-2, Norris Chasing Three in a Row | X, FB, Article | NEW |
+
+### STORY 1: Norris Wins Final Dutch GP
+- **Tier:** 1
+- **Category:** F1 Race Result / Dutch Grand Prix / McLaren / Lando Norris
+- **Key facts:** Norris wins by 11.536 seconds; Antonelli P2; Russell P3; Verstappen crashed lap 1 in damp banking final corner (red flag); Norris's 2nd consecutive win in 2026; final ever Dutch GP at Zandvoort
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Monza performance; championship gap update
+
+### STORY 2: Championship Standings After Dutch GP
+- **Tier:** 1
+- **Category:** F1 Championship / Kimi Antonelli / Mercedes / McLaren
+- **Key facts:** Antonelli 242pts; Russell 183pts; Hamilton 183pts (Russell tiebreaker: 2 wins vs 1); Norris 159pts; Antonelli lead: 59pts; 11 races remain; Russell tied Hamilton after sprint + race weekend
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Monza result; championship gap update
+
+### STORY 3: Verstappen Zandvoort Farewell
+- **Tier:** 2
+- **Category:** F1 Driver / Max Verstappen / Red Bull / Dutch GP
+- **Key facts:** Crashed on lap 1 in damp final corner banking; lost rear; hit wall heavily; one wheel off; walked away unhurt; quote: "caught me out, it's as simple as that"; weekend: "disappointing pace, disappointing end"; Zandvoort drops off F1 calendar after 2026
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Red Bull Monza pace; Verstappen reaction
+
+### STORY 4: Russell Sprint Win
+- **Tier:** 2
+- **Category:** F1 Sprint / George Russell / Mercedes / Dutch GP
+- **Key facts:** Russell wins Zandvoort Sprint; Leclerc P2; Norris P3; Russell's 2nd sprint win of season; Russell now tied with Hamilton on 183pts (Sprint awarded 8pts for win)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Monza qualifying; Mercedes team dynamics
+
+### STORY 5: Italian GP Monza Preview
+- **Tier:** 2
+- **Category:** F1 Preview / Italian Grand Prix / Monza / Ferrari
+- **Key facts:** Race Sept 4-6, 2026; 15th race of season; Qualifying Sept 5 15:00 BST; Race Sept 6 14:00 BST; no sprint; Ferrari ADUO-2 engine upgrade; Norris chasing 3rd consecutive win; Monza = power-sensitive low-downforce circuit
+- **Status:** NEW
+- **Follow-up ideas:** FP1 power data; qualifying order; race result
+
 ## 2026-08-23
 
 | Date | Tier | Story | Formats | Status |

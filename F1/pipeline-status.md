@@ -1,6 +1,18 @@
 # F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
+- **Date**: 2026-08-25
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole)
+- **PostPlanner exports:** f1fr-postplanner-2026-08-25.xlsx (6 posts) + f1fr-postplanner-tobi-2026-08-25.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-08-25/review-dashboard.html (21 items)
+- **Notes:** NORRIS WINS FINAL DUTCH GP — Wins by 11.536s over Antonelli; Russell P3; Verstappen lap-1 crash (red flag, unhurt); final ever Zandvoort Dutch GP; STANDINGS — Antonelli 242pts, Russell 183pts, Hamilton 183pts (Russell tiebreaker 2 wins), Norris 159pts; 59-point lead; 11 races remain; VERSTAPPEN FAREWELL — damp banking corner; "caught me out"; "disappointing pace, disappointing end"; Zandvoort gone from F1 calendar; RUSSELL SPRINT — wins Zandvoort Sprint, Leclerc P2, Norris P3; 2nd sprint win; MONZA PREVIEW — Sept 4-6; Ferrari ADUO-2 engine; Norris chasing 3rd consecutive win; Race Sept 6 14:00 BST
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+### 2026-08-23
 - **Date**: 2026-08-23
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)

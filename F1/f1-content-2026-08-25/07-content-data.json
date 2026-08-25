@@ -1,0 +1,263 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-25",
+  "compiled_at": "2026-08-25T11:26:59.653819+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Lando Norris Wins Dutch GP — Verstappen Crashes Out in Heartbreaking Finale — Tier 1",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "LANDO NORRIS WINS THE FINAL DUTCH GRAND PRIX IN HISTORY.\n\nBack-to-back wins. Verstappen crashed on lap 1 in front of the orange army.\n\nZandvoort is gone from the F1 calendar forever.\n\nWhat a way to close an era. 🏆\n\n#F1 #DutchGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#DutchGP"
+          ],
+          "char_count": 227
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Norris: 11.5 seconds clear of Antonelli.\nVerstappen: crashed on lap 1, never in the race.\n\nThe final Dutch GP at Zandvoort belonged to McLaren.\n\nTwo wins in a row for Lando. 🧡\n\n#F1 #LandoNorris #DutchGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#LandoNorris",
+            "#DutchGP"
+          ],
+          "char_count": 202
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-norris-wins-final-dutch-gp.html",
+        "headline": "Lando Norris Wins Final Dutch Grand Prix as Verstappen Crashes Out — End of the Zandvoort Era",
+        "word_count": 488
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Norris Wins Dutch GP\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search terms:** Lando Norris McLaren\n- **Description:** Norris celebrating or on podium at Zandvoort\n- **Overlay text:** \"NORRIS WINS ZANDVOORT'S LAST RACE\"\n- **Credit:** (USA TODAY Sports Images)\n\n#### Image Concept 2 — Social (1080x1350)\n- **Search terms:** Max Verstappen Red Bull\n- **Description:** Verstappen walking away from crashed car\n- **Overlay text:** \"CRASHED OUT. LAP 1. THE END OF AN ERA.\"\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Dutch GP Race Result — Norris Wins\n**Sources:**\n- Formula1.com: \"Lando Norris wins dramatic Dutch Grand Prix from Antonelli and Russell as Verstappen crashes out\"\n- Sky Sports F1: \"Dutch GP: Lando Norris beats Kimi Antonelli to victory in Zandvoort to claim second successive race win\"\n- The Race: \"F1 Dutch GP 2026 race results\"\n- McLaren.com race report confirming Norris win\n**Key verified facts (HIGH confidence):**\n- Winner: Lando Norris (McLaren) ✓ (Formula1.com official)\n- Podium: Norris, Antonelli, Russell ✓ (multiple sources)\n- Winning margin: 11.536 seconds ✓\n- Verstappen crashed out on lap 1 ✓ (red flag triggered)\n- Race was red-flagged due to Verstappen crash ✓\n- Final ever Dutch GP at Zandvoort ✓\n- This was Norris's second consecutive victory ✓",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Championship Standings After Dutch GP — Antonelli Extends Lead to 59 Points — Tier 1",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "After the Dutch GP:\n\n🥇 Antonelli — 242 pts\n🥈 Russell — 183 pts\n🥈 Hamilton — 183 pts (behind on tiebreaker)\n4️⃣ Norris — 159 pts\n\n59 points. 11 races. Antonelli leads.\n\n#F1 #F1Standings #DutchGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#F1Standings",
+            "#DutchGP"
+          ],
+          "char_count": 193
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-antonelli-59-point-lead-championship.html",
+        "headline": "Antonelli Extends to 59 Points Clear — Russell and Hamilton Now Tied for Second",
+        "word_count": 529
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Championship Standings\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search terms:** Kimi Antonelli Mercedes\n- **Description:** Antonelli celebrating or in car at Zandvoort\n- **Overlay text:** \"ANTONELLI 242. 59 POINTS CLEAR.\"\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Championship Standings After Dutch GP\n**Sources:**\n- RacingNews365: \"2026 F1 championship standings after Dutch Grand Prix\"\n- Forbes: \"F1 Standings 2026 After The Dutch Grand Prix\"\n- Motorsport.com: \"The 2026 F1 Championship: Kimi Antonelli stays top as Lewis Hamilton loses runner-up spot\"\n- Daily Sabah: \"Norris seals Dutch GP win, Antonelli extends Championship lead\"\n**Key verified facts (HIGH confidence):**\n- Antonelli: 242 points (after Dutch GP) ✓\n- Russell: 183 points ✓\n- Hamilton: 183 points ✓\n- Russell holds tiebreaker over Hamilton (2 wins vs 1) ✓\n- Norris: 159 points ✓\n- Antonelli's lead over Russell/Hamilton: 59 points ✓\n- 11 races remaining in 2026 season ✓\n**Prior data (verified from Aug 21 pipeline):**\n- Before Dutch GP: Antonelli 219pts, Hamilton 169pts, Russell 160pts ✓",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Verstappen's Zandvoort Goodbye — Damp Corner, Heavy Crash, Ending of an Era — Tier 2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Max Verstappen's final Dutch Grand Prix ended on lap 1.\n\nDamp corner. Lost the rear. Into the wall.\n\nThe circuit built for him. The last race he'd ever run there. Gone.\n\nHe called it \"disappointing.\" That's an understatement. 💔\n\n#F1 #MaxVerstappen #DutchGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MaxVerstappen",
+            "#DutchGP"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-verstappen-zandvoort-farewell-crash.html",
+        "headline": "Verstappen's Zandvoort Farewell: Crashed Out on Lap 1, the Dutch GP Era Ends Without Its Hero",
+        "word_count": 505
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Crash\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search terms:** Max Verstappen Red Bull Zandvoort\n- **Description:** Verstappen's car damaged against barrier at Zandvoort\n- **Overlay text:** \"ZANDVOORT'S FINAL DUTCH GP — ENDED IN THE BARRIERS\"\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen Crash\n**Sources:**\n- Formula1.com: \"Verstappen reacts to dramatic Dutch GP crash as he sums up 'disappointing' home weekend\"\n- Sky Sports: \"Max Verstappen: Red Bull driver says huge Dutch Grand Prix crash 'could have been a lot worse'\"\n- The Race: \"F1's Dutch GP red-flagged after monster Verstappen crash\"\n**Key verified facts (HIGH confidence):**\n- Verstappen crashed on opening lap ✓\n- Lost control in damp banking on final corner ✓\n- Hit the wall heavily; one wheel came off ✓\n- Verstappen quote: \"It caught me out, it's as simple as that\" ✓\n- Verstappen quote on weekend: \"disappointing pace, and a disappointing end\" ✓\n- Sky quote: crash \"could have been a lot worse\" ✓\n- Verstappen was unhurt ✓\n- Zandvoort drops off F1 calendar after 2026 ✓",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "George Russell Wins Dutch GP Sprint — Leclerc P2, Norris P3 — Tier 2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "George Russell won the Dutch GP Sprint on Saturday.\n\nHe now ties Lewis Hamilton for 2nd in the championship with 183 points.\n\nAn intra-team battle within a championship battle.\n\nMercedes is about to get very interesting. 👀\n\n#F1 #GeorgeRussell #Mercedes",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#GeorgeRussell",
+            "#Mercedes"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-russell-sprint-win-mercedes-rivalry.html",
+        "headline": "Russell Wins Zandvoort Sprint, Ties Hamilton — The Battle Inside Mercedes Is Now Equal",
+        "word_count": 482
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Russell Sprint Win\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search terms:** George Russell Mercedes\n- **Description:** Russell on podium or celebrating sprint win\n- **Overlay text:** \"RUSSELL WINS THE SPRINT. TIED WITH HAMILTON FOR 2ND.\"\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Dutch GP Sprint — Russell Wins\n**Sources:**\n- Formula1.com: \"Russell surges to victory in Zandvoort Sprint ahead of Leclerc and Norris\"\n**Key verified facts (HIGH confidence):**\n- Sprint winner: George Russell ✓\n- Sprint podium: Russell, Leclerc, Norris ✓\n- Russell's second sprint victory of 2026 season ✓",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Italian GP Monza Preview — Norris Eyes Back-to-Back-to-Back, McLaren ADUO-2 Ready — Tier 2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Italian GP. September 4-6. Monza.\n\nFerrari brings their ADUO-2 engine upgrade to their home race.\n\nNorris is red-hot with 2 straight wins.\n\nAntonelli leads the title. Russell/Hamilton are tied at 2nd.\n\nThe Temple of Speed is about to deliver. 🏎️\n\n#F1 #ItalianGP #Monza",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#ItalianGP",
+            "#Monza"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-monza-italian-gp-preview.html",
+        "headline": "Monza Preview: Ferrari's ADUO-2 Engine, Norris Chasing Three in a Row, Championship at a Crossroads",
+        "word_count": 603
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Monza Preview\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search terms:** Ferrari Monza\n- **Description:** Ferrari car at Monza track, Tifosi in background\n- **Overlay text:** \"MONZA. SEPT 4-6. FERRARI'S HOME RACE.\"\n- **Credit:** (USA TODAY Sports Images)"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Italian GP Monza Preview\n**Sources:**\n- Autodromo Nazionale Monza official: \"FORMULA 1 IN MONZA FROM SEPTEMBER 4 TO 6\"\n- Formula1.com: \"FORMULA 1 PIRELLI GRAN PREMIO D'ITALIA 2026 — full timetable\"\n- RacingNews365: \"F1 2026 Italian GP | Monza Schedule\"\n- RacingPassport.com: \"2026 Italian Grand Prix at Monza: Race Week Preview\"\n**Key verified facts (HIGH confidence):**\n- Italian GP date: September 4-6, 2026 ✓\n- Venue: Autodromo Nazionale Monza ✓\n- Race: Sunday Sept 6 at 14:00 BST / 9:00 AM ET ✓\n- Qualifying: Saturday Sept 5 at 15:00 BST ✓\n- Race is 15th of 2026 season ✓\n- No sprint race — standard format ✓\n- Ferrari ADUO-2 engine upgrade planned for Monza ✓ (from Aug 21 pipeline notes: \"Ferrari upgrade plan Zandvoort aero + Monza ADUO-2\")",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
