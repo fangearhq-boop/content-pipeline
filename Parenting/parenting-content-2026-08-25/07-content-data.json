@@ -1,0 +1,364 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-25",
+  "compiled_at": "2026-08-25T12:41:37.989278+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "S1: D49 Student Success Center",
+      "type": "X Text Post A"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "S1: D49 services detail",
+      "type": "X Text Post B"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "S2: CPSC recalls — baby loungers + walkers",
+      "type": "X Text Post A"
+    },
+    {
+      "time": "1:30 PM",
+      "description": "S2: What to do with recalled products",
+      "type": "X Text Post B"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "S3: AAP 5 C's screen time",
+      "type": "X Text Post"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "S4: D11 Monday late starts",
+      "type": "X Text Post"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "S5: Weekend family guide",
+      "type": "X Text Post"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "D49 Student Success Center Opens This Month — What Families Need to Know — TIER 1",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "District 49 opens its Student Success Center this month at the former Falcon site. Preschool (Mon-Thu), Elevates 18-21 transition services, and PEAK student support. District-wide access for D49 families.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 265
+        },
+        {
+          "label": "Post 1-2",
+          "text": "D49 Student Success Center adds Mon-Thu preschool open to families district-wide. Elevates 18-21 transition services relocating there too. Good news for COS families navigating specialized support.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-d49-student-success-center-opens.html",
+        "headline": "D49 Student Success Center Opens: What Colorado Springs Families Need to Know",
+        "word_count": 540
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "CPSC Recall Alert — Baby Loungers and Infant Walkers — TIER 1",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Two CPSC recalls to check: CooCooBaby Baby Loungers (2,355 units, suffocation + fall risk) and Uuoeebb Infant Walkers on Amazon (fall + entrapment risk). Stop use now. Full refunds available. Details at cpsc.gov.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 273
+        },
+        {
+          "label": "Post 2-2",
+          "text": "CooCooBaby lounger: stop use, cut it up, email photo to get a full refund. Uuoeebb walker: stop use, contact BaoD on Amazon. Both violate mandatory federal infant safety standards. Full details at cpsc.gov.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-cpsc-recall-coocoobaby-uuoeebb-walkers.html",
+        "headline": "CPSC Recall Alert: Check Your Baby Lounger and Infant Walker Now",
+        "word_count": 593
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "AAP 2026 Screen Time Guidelines: The 5 C's Framework Is Here — TIER 2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The AAP dropped the 2-hour screen time rule in February 2026. New framework: 5 C's — Child, Content, Calm, Crowding Out, Communication. No screens before 18 months still holds. Co-viewing matters more than the clock.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-aap-screen-time-5cs-framework-2026.html",
+        "headline": "The AAP Retired the 2-Hour Screen Time Rule: What the New 5 C's Framework Means for Your Family",
+        "word_count": 648
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "D11 Monday Late Starts — What to Know Going Into Week 3 — TIER 2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "D11 families: Monday late starts are built into the calendar all year. Week 3 begins today — check your school's Monday schedule before setting carpools. Enrollment still open at d11.org.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-d11-monday-late-start-days-week-3.html",
+        "headline": "D11 Monday Late Starts: What Families Need to Know Going Into Week 3",
+        "word_count": 501
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "COS End-of-August Family Weekend Guide — TIER 2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "This weekend in Colorado Springs: US Olympic Museum daily noon, Garden of the Gods (free), CMZoo ongoing, PPLD Storytime Friday 10:30am, Sensory Storytime and Paws to Read Saturday 10:30am.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-cos-end-of-august-family-weekend-guide.html",
+        "headline": "COS End-of-August Family Weekend Guide: What to Do Before September Arrives",
+        "word_count": 745
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

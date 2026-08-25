@@ -1,6 +1,27 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: August 24, 2026
+## Latest Run: August 25, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | D49 Student Success Center opening (former Falcon Elem, preschool Mon-Thu district-wide, Elevates 18-21 relocation, PEAK students, FESoT Hawks at Bennett Ranch); CPSC recalls: CooCooBaby Baby Loungers (June 18 2026, ~2,355 units, suffocation+fall) + Uuoeebb Infant Walkers (Amazon/BaoD, ~2,650 units, fall+entrapment); AAP February 2026 5 C's screen time framework (retired 2-hour rule, March 2026 solo screen time study); D11 Monday late starts (built into calendar all year, week 3); COS weekend guide (US Olympic Museum daily noon, Garden of Gods, Cheyenne Mountain SP, CMZoo Little Paws, PPLD free programs) |
+| Story History Check | COMPLETE | S1 new (D49 SSC not covered before); S2 new (CooCooBaby + Uuoeebb — distinct from Aug 24 Gagaku/ABC Trading and prior recalls); S3 new (AAP 5 C's screen time — not covered before); S4 new (D11 Monday late starts — not covered before); S5 new (weekend guide, different from Aug 24 library week-ahead) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Jamie Rivera (S1, S3, S5), Sarah Morales (S2, S4) |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: d49.org, CPSC.gov, wokv.com, mother.ly, yahoo, bloom-path.app, jelliesapp.com, CHOC Health, KRDO13, springsdaily.com, visitcos.com, ppld.org |
+| Story Analysis | COMPLETE | 02-story-analysis.md — 5 story sections with angles, tiers, COS voice checks |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (S1: 2, S2: 2, S3/S4/S5: 1 each); all ≤280 chars (fixed on rewrite — removed TOO LONG drafts); 4 hashtags each; 0 exclamation marks |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; NO hashtags; COS voice |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts; 1080x1350 social; clean space for text overlay; no celebrity likenesses or brand logos |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries; all not_started; gemini base_only; kAHCKfCZgk0 |
+| Articles | COMPLETE | 5 articles (500-1000 words; semantic HTML5; What's Next sections; 0 exclamation marks; no figure tags; no photo credits); bylines: Jamie Rivera (A1, A3, A5), Sarah Morales (A2, A4) |
+| Fact-Check | COMPLETE | verify-facts.py passed (2nd run after char fixes); 5 stories present; 92 claims (86 HIGH, 63 MEDIUM, 54 LOW); posting window warnings cosmetic |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts (parser compat known issue), 5 articles, 22 items |
+| Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-08-25.xlsx (7 posts 13:11–20:41 MT) + cosp-postplanner-tobi-2026-08-25.xlsx (7 TOBI posts) |
+| Dashboard Push | Attempted — proxy lacks write access to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API (403 Forbidden) | Same environment restriction as all prior runs |
+
+## Previous Run: August 24, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|

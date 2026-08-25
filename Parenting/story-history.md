@@ -6285,3 +6285,57 @@
 - **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
 - **Tier:** 2
 - **Key Facts (HIGH):** Cheyenne Mountain Library: 1785 S. 8th St; Old Colorado City Library: 2418 W. Pikes Peak Ave; Library 21c: 1175 Chapel Hills Drive; Storytime: Fri 10:30am; Sensory Storytime: Sat 10:30am; Paws to Read: Sat 10:30am; Reading Roll Call: Sat 10:30am; all free; ppld.org
+
+---
+
+## August 25, 2026
+
+### Story 1: D49 Student Success Center Opens This Month
+- **Date:** 2026-08-25
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — District 49 Student Success Center opening at the start of 2026–2027 school year at former Falcon Elementary School of Technology building. Services: full-time preschool (Mon–Thu, district-wide access), Elevates 18–21 Transition Services (relocating to SSC), PEAK student support. Also: FESoT Hawks co-locating at Bennett Ranch Elementary.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** Location: former Falcon Elementary School of Technology building; Preschool Mon–Thu for families district-wide; Elevates 18–21 relocating; PEAK students gaining more school-like environment; FESoT Hawks at Bennett Ranch; Sources: d49.org official announcement
+- **Follow-Up Opportunities:** Enrollment numbers at SSC preschool; PEAK student outcomes at start of year
+
+### Story 2: CPSC Recalls — CooCooBaby Loungers and Uuoeebb Walkers
+- **Date:** 2026-08-25
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CooCooBaby Baby Loungers (Classic + Deluxe): recalled June 18, 2026, ~2,355 units, sold Dec 2024–Mar 2026, $35–$70; suffocation + fall hazards (sides too short, pad too thick, foot opening); full refund via email to support@coocoobabyofficial.com. Uuoeebb Infant Walkers: sold by BaoD on Amazon, ~2,650 units, Dec 2024–Sep 2025, $60–$90; fall + entrapment hazards (passes through doorways, fails to stop at stairs, head entrapment); full refund via Amazon/BaoD.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** CooCooBaby: recalled June 18 2026, ~2,355 units, suffocation + fall; destroy + email photo for refund; Uuoeebb: recalled 2026, ~2,650 units sold Amazon by BaoD, fall + head entrapment; Sources: CPSC.gov, wokv.com, mother.ly, yahoo.com
+- **Follow-Up Opportunities:** CPSC portal checks next week
+
+### Story 3: AAP 2026 Screen Time Guidelines — The 5 C's Framework
+- **Date:** 2026-08-25
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — AAP retired two-hour screen time limit for children 2+ in February 2026. New 5 C's framework: Child, Content, Calm, Crowding Out, Communication. Unchanged: no screens before 18 months; 1 hour quality content/day for ages 2–5. March 2026 study: solo screen time harmful at 10–30 min/day for children with developmental vulnerabilities; co-viewing changes outcome significantly.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** AAP retired 2-hour rule Feb 2026; 5 C's framework; no screens <18 months unchanged; 1hr/day ages 2-5 unchanged; March 2026 study: 10-30 min solo screen time harms vulnerable kids; Sources: AAP, bloom-path.app, jelliesapp.com, CHOC Health
+- **Follow-Up Opportunities:** Local pediatrician voices; PPLD digital literacy programs
+
+### Story 4: D11 Monday Late Starts — Week 3 Reminder
+- **Date:** 2026-08-25
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — D11 builds Monday late-start days into 2026–2027 calendar all year. Week 3 begins Aug 25. Purpose: teacher professional development before students arrive. Late-start time varies by school level. Enrollment still open at d11.org (in person: 1033 N. Franklin St., Mon–Fri 8 AM–4 PM MT).
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** D11 started Aug 12; Monday late starts all year; varies by school level; enrollment open at d11.org; 1033 N. Franklin St in-person; Sources: KRDO13, d11.org
+- **Follow-Up Opportunities:** D11 calendar full year; enrollment close date
+
+### Story 5: COS End-of-August Family Weekend Guide
+- **Date:** 2026-08-25
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Weekend guide: US Olympic Museum "Discover Legends" (90 min, daily noon through August); Garden of the Gods (free, 1805 N 30th St); Cheyenne Mountain State Park (410 JL Ranch Heights Rd); CMZoo (Little Paws opened Aug 24); PPLD: Storytime Fri 10:30am (Cheyenne Mountain + Old Colorado City), Sensory Storytime Sat 10:30am (Library 21c), Paws to Read Sat 10:30am (Old Colorado City). All library programs free.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** US Olympic Museum: 1 Olympic Plaza, daily noon; Garden of Gods: free, 1805 N 30th St; Cheyenne Mountain SP: 410 JL Ranch Heights Rd; Library 21c: 1175 Chapel Hills Dr; Old Colorado City: 2418 W. Pikes Peak Ave; Cheyenne Mountain Library: 1785 S. 8th St; Sources: visitcos.com, ppld.org, springseventhub.com
+- **Follow-Up Opportunities:** September family events roundup; CMZoo fall programming
