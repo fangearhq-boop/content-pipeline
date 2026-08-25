@@ -1,26 +1,39 @@
 {
-  "generated_at": "2026-08-24T08:30:00.116364+00:00",
+  "generated_at": "2026-08-25T08:30:00.175385+00:00",
   "account": "cubs",
   "window_days": 21,
-  "tweet_count": 127,
-  "measured_tweet_count": 127,
-  "measured_median_impressions": 97,
-  "measured_mean_impressions": 296.03,
-  "median_impressions": 97,
-  "mean_impressions": 296.03,
-  "max_impressions": 12603,
+  "tweet_count": 126,
+  "measured_tweet_count": 126,
+  "measured_median_impressions": 93.0,
+  "measured_mean_impressions": 186.88,
+  "median_impressions": 93.0,
+  "mean_impressions": 186.88,
+  "max_impressions": 6445,
   "significant_findings": [
     {
       "dimension": "has_stat",
       "kind": "binary",
       "winner": "True",
       "loser": "False",
-      "median_impressions_winner": 111.0,
-      "median_impressions_loser": 86,
-      "n_winner": 42,
-      "n_loser": 85,
-      "p_value": 0.0135,
-      "effect_size_cliffs_delta": 0.27,
+      "median_impressions_winner": 103.5,
+      "median_impressions_loser": 85.0,
+      "n_winner": 44,
+      "n_loser": 82,
+      "p_value": 0.0451,
+      "effect_size_cliffs_delta": 0.217,
+      "effect_size_label": "small"
+    },
+    {
+      "dimension": "has_score",
+      "kind": "binary",
+      "winner": "False",
+      "loser": "True",
+      "median_impressions_winner": 102.5,
+      "median_impressions_loser": 80.0,
+      "n_winner": 78,
+      "n_loser": 48,
+      "p_value": 0.0486,
+      "effect_size_cliffs_delta": 0.21,
       "effect_size_label": "small"
     }
   ],
@@ -37,19 +50,10 @@
   },
   "raw_buckets": {
     "by_hour_ct": {
-      "14": {
-        "n": 8,
-        "mean": 914.12,
-        "median": 116.0,
-        "top": {
-          "impressions": 6445,
-          "text": "Julian Merryweather is back on the IL \u2014 right knee tendonitis, second stint this season.\n\nThompson and Palencia recalled. Zeferjahn already in the fold from the deadline.\n\nHoyer built a bullpen with depth for exactly this reason.\n\n#Cubs #Cu"
-        }
-      },
       "13": {
-        "n": 8,
-        "mean": 85.25,
-        "median": 90.5,
+        "n": 9,
+        "mean": 90,
+        "median": 95,
         "top": {
           "impressions": 112,
           "text": "Tonight's matchup tips heavily in the Cubs' favor.\n\nImanaga: 2.06 ERA in his last 10 starts. Jake Irvin: 5.37 ERA on the season.\n\nJames Wood \u2014 Washington's best hitter \u2014 is on the IL with an oblique.\n\nThis is a great spot to run the streak "
@@ -57,65 +61,74 @@
       },
       "12": {
         "n": 20,
-        "mean": 165.15,
+        "mean": 134,
         "median": 137.0,
         "top": {
-          "impressions": 848,
-          "text": "The Cubs hold the No. 1 NL Wild Card at 63-49.\n\nD-backs and Phillies are chasing \u2014 both 4-5 games back. The Brewers have the division, but Chicago doesn't need it.\n\nJust keep stacking wins. The Dodgers are here to challenge that.\n\n#Cubs #No"
+          "impressions": 254,
+          "text": "Kevin Gausman makes his Cubs debut tonight at Kauffman Stadium, 7:10 PM CT.\n\nClay Holmes follows Saturday. Cabrera on track for mid-August. This rotation just got very interesting.\n\nStretch run starts now.\n\n#Cubs #GoCubs #FlyTheW"
         }
       },
       "10": {
         "n": 18,
-        "mean": 102.5,
+        "mean": 92.56,
         "median": 83.5,
         "top": {
-          "impressions": 278,
-          "text": "Pete Crow-Armstrong: .282 average. 24 homers. 26 steals. .921 OPS.\n\nHis last 51 games? A 1.178 OPS. That's not a hot streak \u2014 that's a statement.\n\nThe NL MVP case is no longer a conversation. It's a campaign.\n\n#Cubs #GoCubs #MLB"
+          "impressions": 219,
+          "text": "Alex Bregman on Pete Crow-Armstrong: \"I think Pete should win MVP.\"\n\nPCA leads ALL of baseball with a 7.5 WAR. Already at 30 steals and three HRs from back-to-back 30-30 seasons.\n\nThis isn't a hot streak. This is who Pete Crow-Armstrong is "
         }
       },
       "9": {
         "n": 21,
-        "mean": 160.81,
+        "mean": 147.95,
         "median": 78,
         "top": {
           "impressions": 1437,
           "text": "Alex Bregman is getting hot at exactly the right time.\n\nOver his last 12 games: .314 BA, 4 HR, 11 RBI \u2014 and he's attacking the zone more aggressively than he has all season.\n\nAugust is historically his best month. He looks locked in right n"
         }
       },
+      "8": {
+        "n": 18,
+        "mean": 164.06,
+        "median": 89.0,
+        "top": {
+          "impressions": 1147,
+          "text": "Shota Imanaga has allowed 2 earned runs or fewer in SEVEN consecutive starts.\n\nSince June 10: 2.06 ERA across 10 outings \u2014 only Cease and Luzardo have been better in that span.\n\nHe takes the mound tonight in D.C. The Nationals are in troubl"
+        }
+      },
       "7": {
         "n": 21,
-        "mean": 194.19,
-        "median": 101,
+        "mean": 190.19,
+        "median": 92,
         "top": {
           "impressions": 1242,
           "text": "Matthew Boyd. Seven innings. Two earned runs.\n\nThe Cubs took the Kansas City series behind Boyd's gem and 17 hits from the lineup \u2014 Ian Happ going deep among them.\n\nThis rotation isn't slowing down.\n\n#Cubs #GoCubs #FlyTheW"
         }
       },
-      "17": {
+      "14": {
         "n": 8,
-        "mean": 124.75,
-        "median": 106.5,
+        "mean": 915.5,
+        "median": 116.0,
         "top": {
-          "impressions": 325,
-          "text": "Matthew Boyd vs. Justin Wrobleski. 7:05 PM CT tonight.\n\nBoyd's the rotation anchor all second half. Wrobleski is hittable \u2014 and Wrigley on deadline day with a fresh arm joining the rotation is a tough room for the Dodgers.\n\nLet's go. \ud83d\udd25\n\n#Cu"
+          "impressions": 6445,
+          "text": "Julian Merryweather is back on the IL \u2014 right knee tendonitis, second stint this season.\n\nThompson and Palencia recalled. Zeferjahn already in the fold from the deadline.\n\nHoyer built a bullpen with depth for exactly this reason.\n\n#Cubs #Cu"
+        }
+      },
+      "17": {
+        "n": 7,
+        "mean": 96.14,
+        "median": 104,
+        "top": {
+          "impressions": 111,
+          "text": "Wrigley Field tonight. 7:05 PM CT.\n\nCubs riding last night's walk-off energy into Game 2 of the Crosstown Classic.\n\nKevin Gausman starts. The Sox need a win to avoid falling behind in the series. Don't let them get comfortable.\n\n#Cubs #GoCu"
         }
       },
       "15": {
-        "n": 3,
-        "mean": 4267.67,
-        "median": 107,
+        "n": 2,
+        "mean": 107,
+        "median": 107.0,
         "top": {
-          "impressions": 12603,
-          "text": "Owen Ayers just got his Triple-A ticket.\n\nThe Cubs' slugging prospect earned the call-up to Iowa after tearing up Double-A \u2014 one of the most exciting bats in the system, now one step from Wrigley.\n\nThe pipeline is moving. \ud83d\udcaa\n\n#Cubs #CubsBase"
-        }
-      },
-      "8": {
-        "n": 18,
-        "mean": 170.61,
-        "median": 95.5,
-        "top": {
-          "impressions": 1147,
-          "text": "Shota Imanaga has allowed 2 earned runs or fewer in SEVEN consecutive starts.\n\nSince June 10: 2.06 ERA across 10 outings \u2014 only Cease and Luzardo have been better in that span.\n\nHe takes the mound tonight in D.C. The Nationals are in troubl"
+          "impressions": 121,
+          "text": "Cubs at 74-54. Phillies 4 back for NL Wild Card No. 1. Brewers lead the division by five.\n\nThree games in Seattle. Then the Brewers show up seven times in September.\n\nEverything this week is setup for what actually matters.\n\n#Cubs #NorthSid"
         }
       },
       "16": {
@@ -129,12 +142,21 @@
       }
     },
     "by_weekday_ct": {
+      "Mon": {
+        "n": 20,
+        "mean": 183.55,
+        "median": 93.0,
+        "top": {
+          "impressions": 1242,
+          "text": "Matthew Boyd. Seven innings. Two earned runs.\n\nThe Cubs took the Kansas City series behind Boyd's gem and 17 hits from the lineup \u2014 Ian Happ going deep among them.\n\nThis rotation isn't slowing down.\n\n#Cubs #GoCubs #FlyTheW"
+        }
+      },
       "Sun": {
         "n": 17,
-        "mean": 84,
-        "median": 80,
+        "mean": 90.06,
+        "median": 82,
         "top": {
-          "impressions": 165,
+          "impressions": 176,
           "text": "3:10 PM CT first pitch from T-Mobile Park.\n\nClay Holmes on the mound. Two walk-off losses this weekend \u2014 one game left to salvage it.\n\n74-56. NL Wild Card leaders. This team doesn't come home 0-3 to a Mariners squad at 62-68.\n\n#Cubs #GoCubs"
         }
       },
@@ -149,8 +171,8 @@
       },
       "Fri": {
         "n": 17,
-        "mean": 111.41,
-        "median": 99,
+        "mean": 113.12,
+        "median": 107,
         "top": {
           "impressions": 254,
           "text": "Kevin Gausman makes his Cubs debut tonight at Kauffman Stadium, 7:10 PM CT.\n\nClay Holmes follows Saturday. Cabrera on track for mid-August. This rotation just got very interesting.\n\nStretch run starts now.\n\n#Cubs #GoCubs #FlyTheW"
@@ -182,71 +204,62 @@
           "impressions": 6445,
           "text": "Julian Merryweather is back on the IL \u2014 right knee tendonitis, second stint this season.\n\nThompson and Palencia recalled. Zeferjahn already in the fold from the deadline.\n\nHoyer built a bullpen with depth for exactly this reason.\n\n#Cubs #Cu"
         }
-      },
-      "Mon": {
-        "n": 21,
-        "mean": 850.1,
-        "median": 162,
-        "top": {
-          "impressions": 12603,
-          "text": "Owen Ayers just got his Triple-A ticket.\n\nThe Cubs' slugging prospect earned the call-up to Iowa after tearing up Double-A \u2014 one of the most exciting bats in the system, now one step from Wrigley.\n\nThe pipeline is moving. \ud83d\udcaa\n\n#Cubs #CubsBase"
-        }
       }
     },
     "by_content_type": {
       "brief": {
-        "n": 127,
-        "mean": 296.03,
-        "median": 97,
+        "n": 126,
+        "mean": 186.88,
+        "median": 93.0,
         "top": {
-          "impressions": 12603,
-          "text": "Owen Ayers just got his Triple-A ticket.\n\nThe Cubs' slugging prospect earned the call-up to Iowa after tearing up Double-A \u2014 one of the most exciting bats in the system, now one step from Wrigley.\n\nThe pipeline is moving. \ud83d\udcaa\n\n#Cubs #CubsBase"
+          "impressions": 6445,
+          "text": "Julian Merryweather is back on the IL \u2014 right knee tendonitis, second stint this season.\n\nThompson and Palencia recalled. Zeferjahn already in the fold from the deadline.\n\nHoyer built a bullpen with depth for exactly this reason.\n\n#Cubs #Cu"
         }
       }
     },
     "by_opening": {
-      "statement": {
-        "n": 99,
-        "mean": 335.61,
-        "median": 93,
-        "top": {
-          "impressions": 12603,
-          "text": "Owen Ayers just got his Triple-A ticket.\n\nThe Cubs' slugging prospect earned the call-up to Iowa after tearing up Double-A \u2014 one of the most exciting bats in the system, now one step from Wrigley.\n\nThe pipeline is moving. \ud83d\udcaa\n\n#Cubs #CubsBase"
-        }
-      },
       "allcaps_lead": {
-        "n": 17,
-        "mean": 171.29,
-        "median": 122,
+        "n": 18,
+        "mean": 167.89,
+        "median": 116.0,
         "top": {
           "impressions": 1147,
           "text": "Shota Imanaga has allowed 2 earned runs or fewer in SEVEN consecutive starts.\n\nSince June 10: 2.06 ERA across 10 outings \u2014 only Cease and Luzardo have been better in that span.\n\nHe takes the mound tonight in D.C. The Nationals are in troubl"
         }
       },
+      "statement": {
+        "n": 97,
+        "mean": 198.43,
+        "median": 91,
+        "top": {
+          "impressions": 6445,
+          "text": "Julian Merryweather is back on the IL \u2014 right knee tendonitis, second stint this season.\n\nThompson and Palencia recalled. Zeferjahn already in the fold from the deadline.\n\nHoyer built a bullpen with depth for exactly this reason.\n\n#Cubs #Cu"
+        }
+      },
       "stat_lead": {
         "n": 11,
-        "mean": 132.64,
-        "median": 110,
+        "mean": 116.09,
+        "median": 105,
         "top": {
-          "impressions": 278,
-          "text": "Pete Crow-Armstrong: .282 average. 24 homers. 26 steals. .921 OPS.\n\nHis last 51 games? A 1.178 OPS. That's not a hot streak \u2014 that's a statement.\n\nThe NL MVP case is no longer a conversation. It's a campaign.\n\n#Cubs #GoCubs #MLB"
+          "impressions": 221,
+          "text": "Pete Crow-Armstrong did something no Cub has ever done \u2014 back-to-back 25 HR/25 SB seasons.\n\nHe went 3-for-5 with two homers and four RBI to cap the sweep of Ohtani and the Dodgers.\n\nThe MVP race has a new frontrunner.\n\n#Cubs #GoCubs #FlyThe"
         }
       }
     },
     "by_len_bucket": {
       "200-260": {
-        "n": 76,
-        "mean": 391.96,
-        "median": 102.5,
+        "n": 72,
+        "mean": 213.29,
+        "median": 93.0,
         "top": {
-          "impressions": 12603,
-          "text": "Owen Ayers just got his Triple-A ticket.\n\nThe Cubs' slugging prospect earned the call-up to Iowa after tearing up Double-A \u2014 one of the most exciting bats in the system, now one step from Wrigley.\n\nThe pipeline is moving. \ud83d\udcaa\n\n#Cubs #CubsBase"
+          "impressions": 6445,
+          "text": "Julian Merryweather is back on the IL \u2014 right knee tendonitis, second stint this season.\n\nThompson and Palencia recalled. Zeferjahn already in the fold from the deadline.\n\nHoyer built a bullpen with depth for exactly this reason.\n\n#Cubs #Cu"
         }
       },
       "260+": {
-        "n": 48,
-        "mean": 158.67,
-        "median": 94.0,
+        "n": 51,
+        "mean": 156.84,
+        "median": 93,
         "top": {
           "impressions": 1437,
           "text": "Alex Bregman is getting hot at exactly the right time.\n\nOver his last 12 games: .314 BA, 4 HR, 11 RBI \u2014 and he's attacking the zone more aggressively than he has all season.\n\nAugust is historically his best month. He looks locked in right n"
@@ -273,49 +286,49 @@
     },
     "by_hashtag_count": {
       "3": {
-        "n": 127,
-        "mean": 296.03,
-        "median": 97,
+        "n": 126,
+        "mean": 186.88,
+        "median": 93.0,
         "top": {
-          "impressions": 12603,
-          "text": "Owen Ayers just got his Triple-A ticket.\n\nThe Cubs' slugging prospect earned the call-up to Iowa after tearing up Double-A \u2014 one of the most exciting bats in the system, now one step from Wrigley.\n\nThe pipeline is moving. \ud83d\udcaa\n\n#Cubs #CubsBase"
+          "impressions": 6445,
+          "text": "Julian Merryweather is back on the IL \u2014 right knee tendonitis, second stint this season.\n\nThompson and Palencia recalled. Zeferjahn already in the fold from the deadline.\n\nHoyer built a bullpen with depth for exactly this reason.\n\n#Cubs #Cu"
         }
       }
     },
     "by_has_score": {
-      "True": {
-        "n": 47,
-        "mean": 116.17,
-        "median": 82,
+      "False": {
+        "n": 78,
+        "mean": 240.29,
+        "median": 102.5,
         "top": {
-          "impressions": 848,
-          "text": "The Cubs hold the No. 1 NL Wild Card at 63-49.\n\nD-backs and Phillies are chasing \u2014 both 4-5 games back. The Brewers have the division, but Chicago doesn't need it.\n\nJust keep stacking wins. The Dodgers are here to challenge that.\n\n#Cubs #No"
+          "impressions": 6445,
+          "text": "Julian Merryweather is back on the IL \u2014 right knee tendonitis, second stint this season.\n\nThompson and Palencia recalled. Zeferjahn already in the fold from the deadline.\n\nHoyer built a bullpen with depth for exactly this reason.\n\n#Cubs #Cu"
         }
       },
-      "False": {
-        "n": 80,
-        "mean": 401.7,
-        "median": 104.5,
+      "True": {
+        "n": 48,
+        "mean": 100.08,
+        "median": 80.0,
         "top": {
-          "impressions": 12603,
-          "text": "Owen Ayers just got his Triple-A ticket.\n\nThe Cubs' slugging prospect earned the call-up to Iowa after tearing up Double-A \u2014 one of the most exciting bats in the system, now one step from Wrigley.\n\nThe pipeline is moving. \ud83d\udcaa\n\n#Cubs #CubsBase"
+          "impressions": 274,
+          "text": "Dansby Swanson is headed to the IL after leaving Sunday's game with oblique tightness.\n\nMRI on Monday. Best-case recovery: 4-6 weeks. That puts him deep into September.\n\nHoerner to short, Ram\u00edrez in the mix. Not ideal timing heading into a "
         }
       }
     },
     "by_has_stat": {
       "False": {
-        "n": 85,
-        "mean": 351.07,
-        "median": 86,
+        "n": 82,
+        "mean": 197.23,
+        "median": 85.0,
         "top": {
-          "impressions": 12603,
-          "text": "Owen Ayers just got his Triple-A ticket.\n\nThe Cubs' slugging prospect earned the call-up to Iowa after tearing up Double-A \u2014 one of the most exciting bats in the system, now one step from Wrigley.\n\nThe pipeline is moving. \ud83d\udcaa\n\n#Cubs #CubsBase"
+          "impressions": 6445,
+          "text": "Julian Merryweather is back on the IL \u2014 right knee tendonitis, second stint this season.\n\nThompson and Palencia recalled. Zeferjahn already in the fold from the deadline.\n\nHoyer built a bullpen with depth for exactly this reason.\n\n#Cubs #Cu"
         }
       },
       "True": {
-        "n": 42,
-        "mean": 184.64,
-        "median": 111.0,
+        "n": 44,
+        "mean": 167.59,
+        "median": 103.5,
         "top": {
           "impressions": 1437,
           "text": "Alex Bregman is getting hot at exactly the right time.\n\nOver his last 12 games: .314 BA, 4 HR, 11 RBI \u2014 and he's attacking the zone more aggressively than he has all season.\n\nAugust is historically his best month. He looks locked in right n"
@@ -324,32 +337,32 @@
     },
     "by_has_emoji_first_line": {
       "False": {
-        "n": 127,
-        "mean": 296.03,
-        "median": 97,
+        "n": 126,
+        "mean": 186.88,
+        "median": 93.0,
         "top": {
-          "impressions": 12603,
-          "text": "Owen Ayers just got his Triple-A ticket.\n\nThe Cubs' slugging prospect earned the call-up to Iowa after tearing up Double-A \u2014 one of the most exciting bats in the system, now one step from Wrigley.\n\nThe pipeline is moving. \ud83d\udcaa\n\n#Cubs #CubsBase"
+          "impressions": 6445,
+          "text": "Julian Merryweather is back on the IL \u2014 right knee tendonitis, second stint this season.\n\nThompson and Palencia recalled. Zeferjahn already in the fold from the deadline.\n\nHoyer built a bullpen with depth for exactly this reason.\n\n#Cubs #Cu"
         }
       }
     },
     "by_has_allcaps": {
-      "False": {
-        "n": 41,
-        "mean": 450.51,
-        "median": 101,
-        "top": {
-          "impressions": 12603,
-          "text": "Owen Ayers just got his Triple-A ticket.\n\nThe Cubs' slugging prospect earned the call-up to Iowa after tearing up Double-A \u2014 one of the most exciting bats in the system, now one step from Wrigley.\n\nThe pipeline is moving. \ud83d\udcaa\n\n#Cubs #CubsBase"
-        }
-      },
       "True": {
-        "n": 86,
-        "mean": 222.38,
-        "median": 90.0,
+        "n": 89,
+        "mean": 205.56,
+        "median": 89,
         "top": {
           "impressions": 6445,
           "text": "Julian Merryweather is back on the IL \u2014 right knee tendonitis, second stint this season.\n\nThompson and Palencia recalled. Zeferjahn already in the fold from the deadline.\n\nHoyer built a bullpen with depth for exactly this reason.\n\n#Cubs #Cu"
+        }
+      },
+      "False": {
+        "n": 37,
+        "mean": 141.95,
+        "median": 95,
+        "top": {
+          "impressions": 1242,
+          "text": "Matthew Boyd. Seven innings. Two earned runs.\n\nThe Cubs took the Kansas City series behind Boyd's gem and 17 hits from the lineup \u2014 Ian Happ going deep among them.\n\nThis rotation isn't slowing down.\n\n#Cubs #GoCubs #FlyTheW"
         }
       }
     }
@@ -358,63 +371,53 @@
     "by_content_type": {
       "brief": {
         "n": 64,
-        "mean_rate": 0.0053,
+        "mean_rate": 0.0065,
         "median_rate": 0.0
       }
     },
     "by_opening": {
-      "statement": {
-        "n": 48,
-        "mean_rate": 0.0048,
-        "median_rate": 0.0
-      },
       "allcaps_lead": {
-        "n": 9,
-        "mean_rate": 0.0054,
+        "n": 10,
+        "mean_rate": 0.0085,
+        "median_rate": 0.0034
+      },
+      "statement": {
+        "n": 47,
+        "mean_rate": 0.0052,
         "median_rate": 0.0
       },
       "stat_lead": {
         "n": 7,
-        "mean_rate": 0.009,
-        "median_rate": 0.0091
+        "mean_rate": 0.0121,
+        "median_rate": 0.0095
       }
     },
     "by_has_score": {
-      "True": {
-        "n": 20,
-        "mean_rate": 0.0035,
-        "median_rate": 0.0
-      },
       "False": {
-        "n": 44,
-        "mean_rate": 0.0061,
+        "n": 45,
+        "mean_rate": 0.0073,
+        "median_rate": 0.0026
+      },
+      "True": {
+        "n": 19,
+        "mean_rate": 0.0046,
         "median_rate": 0.0
       }
     },
     "by_has_stat": {
       "False": {
-        "n": 38,
-        "mean_rate": 0.0048,
+        "n": 39,
+        "mean_rate": 0.0061,
         "median_rate": 0.0
       },
       "True": {
-        "n": 26,
-        "mean_rate": 0.0061,
-        "median_rate": 0.0
+        "n": 25,
+        "mean_rate": 0.0072,
+        "median_rate": 0.006
       }
     }
   },
   "top_performers": [
-    {
-      "posted_at": "2026-08-03 15:45 CT",
-      "content_type": "brief",
-      "impressions": 12603,
-      "engagement": 238,
-      "engagement_rate": 0.0189,
-      "opening": "statement",
-      "len": 252,
-      "text": "Owen Ayers just got his Triple-A ticket.\n\nThe Cubs' slugging prospect earned the call-up to Iowa after tearing up Double-A \u2014 one of the most exciting bats in the system, now one step from Wrigley.\n\nThe pipeline is moving. \ud83d\udcaa\n\n#Cubs #CubsBaseball #GoCubs"
-    },
     {
       "posted_at": "2026-08-04 14:30 CT",
       "content_type": "brief",
@@ -454,6 +457,16 @@
       "opening": "allcaps_lead",
       "len": 266,
       "text": "Shota Imanaga has allowed 2 earned runs or fewer in SEVEN consecutive starts.\n\nSince June 10: 2.06 ERA across 10 outings \u2014 only Cease and Luzardo have been better in that span.\n\nHe takes the mound tonight in D.C. The Nationals are in trouble.\n\n#Cubs #GoCubs #FlyTheW"
+    },
+    {
+      "posted_at": "2026-08-17 07:00 CT",
+      "content_type": "brief",
+      "impressions": 540,
+      "engagement": 0,
+      "engagement_rate": 0.0,
+      "opening": "statement",
+      "len": 257,
+      "text": "Cubs vs White Sox. 3 games at Wrigley Field.\n\nAL Central leaders vs NL Wild Card leaders \u2014 both teams with something to fight for. White Sox stole the May series on the South Side.\n\nTonight's round 2. Imanaga on the hill. 7:05 PM CT.\n\n#Cubs #GoCubs #FlyTheW"
     }
   ],
   "bottom_performers": [

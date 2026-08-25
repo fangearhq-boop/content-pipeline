@@ -1,25 +1,17 @@
 {
-  "generated_at": "2026-08-24T08:30:00.513647+00:00",
-  "today_ct": "2026-08-24",
+  "generated_at": "2026-08-25T08:30:00.479817+00:00",
+  "today_ct": "2026-08-25",
   "off_day": false,
-  "is_series_start_today": true,
+  "is_series_start_today": false,
   "series": {
     "opponent": "Arizona Diamondbacks",
     "opponent_id": 109,
-    "opponent_record": "69-62",
-    "cubs_record": "75-56",
+    "opponent_record": "69-63",
+    "cubs_record": "76-56",
     "is_cubs_home": false,
     "venue": "Chase Field",
-    "series_length": 3,
+    "series_length": 2,
     "games": [
-      {
-        "game_pk": "825041",
-        "game_date_iso": "2026-08-25T01:40:00Z",
-        "game_date_ct": "Mon 8:40 PM CT",
-        "cubs_probable": "TBD",
-        "opponent_probable": "TBD",
-        "status": "Preview"
-      },
       {
         "game_pk": "825042",
         "game_date_iso": "2026-08-26T01:40:00Z",
@@ -37,22 +29,22 @@
         "status": "Preview"
       }
     ],
-    "rationale": "Yesterday vs Seattle Mariners; today vs Arizona Diamondbacks \u2192 game 1 of 3 (on the road)."
+    "rationale": "Same opponent (Arizona Diamondbacks) as yesterday \u2014 this is mid-series, not a series opener."
   },
   "today_cubs_game": {
-    "game_pk": "825041",
+    "game_pk": "825042",
     "status": "Preview",
     "detailed_status": "Scheduled",
-    "game_date_iso": "2026-08-25T01:40:00Z",
-    "game_date_ct": "Mon 8:40 PM CT",
+    "game_date_iso": "2026-08-26T01:40:00Z",
+    "game_date_ct": "Tue 8:40 PM CT",
     "is_cubs_home": false,
     "opponent_id": 109,
     "opponent_name": "Arizona Diamondbacks",
-    "opponent_record": "69-62",
-    "cubs_record": "75-56",
+    "opponent_record": "69-63",
+    "cubs_record": "76-56",
     "cubs_probable": "TBD",
     "opponent_probable": "TBD",
     "venue": "Chase Field"
   },
-  "rationale": "Yesterday vs Seattle Mariners; today vs Arizona Diamondbacks \u2192 game 1 of 3 (on the road)."
+  "rationale": "Same opponent (Arizona Diamondbacks) as yesterday \u2014 this is mid-series, not a series opener."
 }
