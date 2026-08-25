@@ -5,6 +5,40 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-25
+
+### Story 1: Mitchell Injury Update — X-Rays Negative, Frelick Returns
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Outcome:** Mitchell right forearm contusion (HBP in LLC); X-rays negative; no IL placement; Frelick (shoulder rehab) expected back vs. Mets Aug 25-27; Brewers 81-49
+- **Follow-up:** Mitchell day-to-day status; Frelick integration; Brewers roster depth for October
+
+### Story 2: PCA NL MVP Race — Cubs 76-56, 30 Games Left
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Outcome:** Cubs climbed to 76-56; PCA cold streak context; season line: .281/30HR/78RBI/31SB/7.7 fWAR/22 OAA/24 FRV; Ohtani .928 OPS challenge; 30 games remaining
+- **Follow-up:** September PCA performance; award vote in November
+
+### Story 3: Alvarez Triple Crown — AL East Challenger Emerges
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Outcome:** Alvarez leads AL: ~.320 BA, 36 HR, 90 RBI; Washington Times "major challenge from the AL East" per Aug 24 piece; last TC: Cabrera 2012; 30 games left
+- **Follow-up:** AL East challenger identification; Alvarez September tracking
+
+### Story 4: Misiorowski — 1.68 ERA, Historical Season Watch
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Outcome:** Last start Aug 21: 6 IP, 0 ER, W; season 13-5, 1.68 ERA, 216 Ks, 0.76 WHIP, 24 starts; next start ~Aug 26-27; sub-1.75 ERA historical context; -550 Cy Young
+- **Follow-up:** Next start Aug 26-27; final ERA figure tracking
+
+### Story 5: NL Wild Card — Cubs Hold No. 1, Schwarber ML HR Leader
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Outcome:** Cubs 76-56 (No. 1), Phillies 73-59 (No. 2), Padres 71-61 (No. 3); Schwarber Aug 24 HR extends ML HR lead; Cubs motivation to avoid Brewers Round 1; 30 games left
+- **Follow-up:** September Wild Card standings; Padres-D-Backs No. 3 battle
+
+---
+
 ## 2026-08-24
 
 ### Story 1: Little League Classic — Braves 4, Brewers 2

@@ -1,0 +1,253 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-25",
+  "compiled_at": "2026-08-25T10:30:57.195467+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Garrett Mitchell Injury Update — Best-Case News, Frelick Returns",
+      "tier": 1,
+      "status": "",
+      "angle": "Following the scary HBP in the Little League Classic on Aug 24, the Brewers got the best possible outcome: X-rays on Garrett Mitchell's right forearm were negative. Official diagnosis is a right forearm contusion. No IL placement announced. Compounding good news: Sal Frelick (right shoulder strain rehab) is expected to return during the Aug 25-27 series vs. the Mets, giving Milwaukee outfield depth exactly when they need it most.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Good news out of Milwaukee: Garrett Mitchell's X-rays after the Little League Classic HBP came back negative. Right forearm contusion. No IL placement. Brewers get some breathing room — and Sal Frelick is expected to return vs. the Mets this week. #Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers"
+          ],
+          "char_count": 256
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Sal Frelick is returning from his shoulder rehab right when the Brewers need outfield depth most. Mitchell's forearm is a contusion, not a fracture. 81-49 Milwaukee doesn't miss a beat heading into the Mets series. #Brewers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#MLB"
+          ],
+          "char_count": 228
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-mitchell-injury-update-frelick-returns.html",
+        "headline": "Brewers Get Best-Case News on Mitchell — Forearm Contusion, No IL, Frelick Returns",
+        "word_count": 565
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Garrett Mitchell Injury Update + Frelick Returns\n\n#### Image 1: Garrett Mitchell — Brewers Outfield\n- **Use:** Social (primary)\n- **Dimensions:** 1080x1350 (4:5 vertical)\n- **imagn_search:** \"Garrett Mitchell Milwaukee Brewers\"\n- **Caption overlay:** \"X-rays negative. Mitchell plays on.\"\n- **Notes:** Mitchell batting or fielding; celebratory if available\n\n#### Image 2: Sal Frelick — Brewers\n- **Use:** Social\n- **Dimensions:** 1080x1350 (4:5 vertical)\n- **imagn_search:** \"Sal Frelick Milwaukee Brewers\"\n- **Caption overlay:** \"Frelick returns. Brewers depth restored.\"\n- **Notes:** Frelick action shot; fielding or batting\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "PCA NL MVP Race — Cubs 76-56, 30 Games Left",
+      "tier": 1,
+      "status": "",
+      "angle": "The Cubs climbed to 76-56 (up from 74-56 two days ago), confirming they've been winning. PCA's cold streak (.111 over last 8 games at peak) was the narrative — but the season case remains the strongest in the NL: 7.7 fWAR (NL lead), .281 BA, 30 HR, 78 RBI, 31 SB, 22 OAA. Ohtani is at .928 OPS. The award discussion is live with 30 games left. Does PCA break out of the slump?",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "PCA cold streak or not, his season case is still the strongest in the NL: 7.7 fWAR, 30 HR, 78 RBI, 31 SB, 22 OAA. Cubs are 76-56. Thirty games left. Ohtani is pushing at .928 OPS. This award goes through how the next month plays out. #Cubs #MVP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MVP"
+          ],
+          "char_count": 244
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The voters are watching. PCA (.906 OPS) vs. Ohtani (.928 OPS) — the gap narrowed during the cold streak. The Cubs are winning. The season is on the line. Thirty games is still plenty of time to make the case. #Cubs #NLMVP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#NLMVP"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-pca-mvp-case-30-games-left.html",
+        "headline": "PCA's MVP Case — Cold Streak, Cubs 76-56, and 30 Games That Decide Everything",
+        "word_count": 668
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "PCA NL MVP Race\n\n#### Image 3: Pete Crow-Armstrong — Chicago Cubs\n- **Use:** Social (primary)\n- **Dimensions:** 1080x1350 (4:5 vertical)\n- **imagn_search:** \"Pete Crow-Armstrong Chicago Cubs\"\n- **Caption overlay:** \"7.7 fWAR. 30 HR. 31 SB. 30 Games Left.\"\n- **Notes:** PCA batting or center field play; excellence framing\n\n#### Image 4: Pete Crow-Armstrong — Cubs Action\n- **Use:** Social\n- **Dimensions:** 1080x1350 (4:5 vertical)\n- **imagn_search:** \"Pete Crow-Armstrong Cubs outfield\"\n- **Caption overlay:** \"The NL MVP case is still standing.\"\n- **Notes:** Defensive play or celebration\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Alvarez Triple Crown — The AL East Challenge, 30 Games Left",
+      "tier": 2,
+      "status": "",
+      "angle": "Yordan Alvarez leads the AL in all three Triple Crown categories, but the Washington Times specifically reported on Aug 24 that his bid \"will have to withstand a major challenge from the AL East.\" An AL East rival (specific player unnamed in search excerpts) is closing ground in at least one category. Alvarez needs to hold all three leads for 30 more games — something only Miguel Cabrera has done in the modern era (2012).",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Yordan Alvarez leads the AL in BA (.320), HR (36), and RBI (90). But the Washington Times flagged a \"major challenge from the AL East\" as of Aug 24. First Triple Crown since Cabrera in 2012. Thirty games left to hold all three. #Astros #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Astros",
+            "#MLB"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-alvarez-triple-crown-al-east-challenge.html",
+        "headline": "Alvarez's Triple Crown Bid Faces an AL East Challenger With 30 Games Left",
+        "word_count": 548
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alvarez Triple Crown\n\n#### Image 5: Yordan Alvarez — Houston Astros\n- **Use:** Social\n- **Dimensions:** 1080x1350 (4:5 vertical)\n- **imagn_search:** \"Yordan Alvarez Houston Astros\"\n- **Caption overlay:** \"BA. HR. RBI. The Triple Crown Bid.\"\n- **Notes:** Alvarez batting; power swing preferred\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Misiorowski — Sub-1.75 ERA, Historical Season in Progress",
+      "tier": 2,
+      "status": "",
+      "angle": "Jacob Misiorowski's most recent start came Aug 21 — 6 shutout innings, 6 K, 13-5 record improved. Updated season line: 13-5, 1.68 ERA, 216 Ks, 0.76 WHIP in 24 starts. For context: finishing a full season below 1.75 ERA would be among the most dominant single-season ERA performances in modern baseball. His next start comes around Aug 26-27. With 6-7 starts remaining, this ERA figure is within reach of the history books. Also: Frelick returning provides depth behind Misiorowski in case he needs protection on strong-run days.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "After Aug 21: Misiorowski is 13-5, 1.68 ERA, 216 Ks, 0.76 WHIP. He hasn't started since. Next outing is ~Aug 26-27. Finishing a full season with a sub-1.75 ERA in the modern era is a historically rare thing. He's right there. #Brewers #CyYoung",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#CyYoung"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-misiorowski-168-era-historical-season.html",
+        "headline": "Misiorowski's 1.68 ERA Is the Kind of Number That Gets Written Into Baseball History",
+        "word_count": 664
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Misiorowski ERA Watch\n\n#### Image 6: Jacob Misiorowski — Milwaukee Brewers\n- **Use:** Social\n- **Dimensions:** 1080x1350 (4:5 vertical)\n- **imagn_search:** \"Jacob Misiorowski Milwaukee Brewers\"\n- **Caption overlay:** \"1.68 ERA. 216 Ks. Historic Season.\"\n- **Notes:** Misiorowski pitching; intense delivery preferred\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "NL Wild Card Race — Cubs Protect No. 1, Schwarber's HR Surge",
+      "tier": 2,
+      "status": "",
+      "angle": "The NL Wild Card picture as of Aug 25: Cubs 76-56 (No. 1, 30 games left), Phillies 73-59 (No. 2, ~30 games left), Padres 71-61 (No. 3). Kyle Schwarber hit a home run on Aug 24 in a Phillies comeback win over the Cardinals, extending his ML HR lead. The Cubs' incentive to hold No. 1 remains: avoid Misiorowski and the Brewers (best record in baseball, 81-49) in Round 1 of the playoffs. The Padres-D-backs race for the No. 3 seed is the live battle.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "NL Wild Card: Cubs 76-56 (No. 1). Phillies 73-59 (No. 2). Padres 71-61 (No. 3). Meanwhile, Kyle Schwarber hit another HR last night. He's the ML home run leader. The Cubs still want nothing to do with the Brewers in Round 1. #MLB #NLWildCard",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#NLWildCard"
+          ],
+          "char_count": 241
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-nl-wild-card-cubs-schwarber-hr-lead.html",
+        "headline": "NL Wild Card: Cubs Hold No. 1 Seed, Phillies' Schwarber Leads All of Baseball in Home Runs",
+        "word_count": 650
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NL Wild Card + Schwarber\n\n#### Image 7: Kyle Schwarber — Philadelphia Phillies\n- **Use:** Social\n- **Dimensions:** 1080x1350 (4:5 vertical)\n- **imagn_search:** \"Kyle Schwarber Philadelphia Phillies\"\n- **Caption overlay:** \"ML HR Leader. Phillies in No. 2 Wild Card.\"\n- **Notes:** Schwarber home run trot or celebration"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
