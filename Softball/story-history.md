@@ -3,6 +3,54 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-08-25
+
+### Story 1: AUSL All-Star Cup — Series 3 Day 2 Results
+- **Date:** 2026-08-25
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Day 2 results: Kowalik holds on for win again; Ricketts bounces back for win; tight games both; 5 days to individual champion Aug 30)
+- **Angle:** Day 2 narrative — both captains win in tight games. Kowalik leads all series results 2-0 in Series 3. Ricketts wins back, keeping race alive but gap persists.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Series 3 remaining games (Aug 26-27)
+  - Series 4 finale Aug 30 — individual champion crowned
+
+### Story 2: September 1 Countdown — 7 Days
+- **Date:** 2026-08-25
+- **Tier:** 2
+- **Classification:** FOLLOW UP (7 days; new angle: how coaches build and finalize call-order lists this week)
+- **Angle:** Call-order list mechanics — 8-12 priority recruits for first-hour Sept 1 calls. What signals move recruits up or down. This week still matters.
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+
+### Story 3: USA WNT — 18 Days, Netherlands & Mexico Threat
+- **Date:** 2026-08-25
+- **Tier:** 2
+- **Classification:** FOLLOW UP (18 days; new angle: Netherlands No.6 and Mexico No.7 as the two genuine threats in Group Oklahoma)
+- **Angle:** Only top 2 of 6 advance. Netherlands (No. 6) and Mexico (No. 7) detailed threat analysis. USA opens vs. Mexico Sept 12. Garcia + Mulipola Olympic veteran anchors.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - USA vs Mexico opener Sept 12
+  - Group Oklahoma results and advancement to Redcliffe
+
+### Story 4: Oklahoma Softball — Transfer Integration in Fall Camp
+- **Date:** 2026-08-25
+- **Tier:** 2
+- **Classification:** FOLLOW UP (fall camp underway; new angle: how Berzon and Harter integrate with returning Sooners while 4 WNT players are away through Sept 16)
+- **Angle:** Transfer integration — Berzon (2x AA from LSU) + Harter (.346 MTSU) learning OU system. 4 Sooners away for WNT through Sept 16. Battle Series public Oct 3.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+
+### Story 5: Teagan Kavan — 500 Career Strikeouts and Senior Season
+- **Date:** 2026-08-25
+- **Tier:** 3
+- **Classification:** FOLLOW UP (milestone angle — 500th career K in April 2026 vs OU; senior season begins; three-peat bid)
+- **Angle:** 500th career strikeout milestone. 2026: 2.33 ERA/260 K/228.2 IP. Senior season with Torres (.530 FSU) alongside. Three-peat: only UCLA and OU have done it.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Fall exhibition results (Sept 5 home opener vs Texas State)
+  - 2027 season preview
+
+---
+
 ## 2026-08-24
 
 ### Story 1: AUSL All-Star Cup — Series 3 Opens Today (Game 13 + Game 14 Results)
