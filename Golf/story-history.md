@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-08-25
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-08-25 | T1 | Tour Championship Preview — East Lake Aug 27-30, Scheffler No. 1, Clark Enters Hot After BMW Win | X, FB, Article | NEW |
+| 2026-08-25 | T1 | Wyndham Clark Wins BMW Championship at Bellerive — Birdies Last 3 Holes, 3-Shot Win, $3.6M | X, FB, Article | NEW |
+| 2026-08-25 | T1 | Miyu Yamashita Ties LPGA 72-Hole Scoring Record — 23-Under 257, 9-Shot Wire-to-Wire Win in Edmonton | X, FB, Article | NEW |
+| 2026-08-25 | T2 | La Sasso Wins LIV Indianapolis at 18-Under; Beats Rahm by 1; Legion XIII Defends Team Title | X, FB, Article | NEW |
+| 2026-08-25 | T2 | Scheffler Leads FedEx Cup for Fifth Straight Year Entering Tour Championship | X, FB, Article | NEW |
+
+### STORY 1: Tour Championship Preview
+- **Tier:** 1
+- **Category:** PGA Tour / Tour Championship / East Lake / FedExCup / Scottie Scheffler / Wyndham Clark / Matt Fitzpatrick / Rory McIlroy
+- **Key facts:** 30-player field; East Lake Golf Club Atlanta Aug 27-30; no starting strokes — lowest 72-hole score wins; Scheffler No. 1 seed (5 straight years); Clark No. 3 (just won BMW); Fitzpatrick No. 2; McIlroy in field; staggered start format; Thursday first round
+- **Status:** NEW
+- **Follow-up ideas:** Tour Championship R1 results; Scheffler/Clark/Fitzpatrick leaderboard; FedExCup champion
+
+### STORY 2: Wyndham Clark BMW Championship Win
+- **Tier:** 1
+- **Category:** PGA Tour / BMW Championship / Wyndham Clark / Patrick Cantlay / Rory McIlroy / Bellerive Country Club
+- **Key facts:** Clark wins at 17-under 263; 3-shot win over Cantlay; McIlroy solo third; birdied holes 16, 17, 18 to close; $3.6M from $20M purse; Clark moves to No. 3 FedExCup; 2nd 2026 win; Bellerive CC; Clark won 2026 U.S. Open at Shinnecock Hills
+- **Status:** NEW
+- **Follow-up ideas:** Tour Championship R1 Clark; FedExCup champion; Clark vs Scheffler
+
+### STORY 3: Yamashita LPGA 72-Hole Record
+- **Tier:** 1
+- **Category:** LPGA / CPKC Women's Open / Miyu Yamashita / Yuri Yoshida / Royal Mayfair / Edmonton
+- **Key facts:** Yamashita 23-under 257; ties all-time LPGA Tour 72-hole scoring record; wire-to-wire; 9-shot win over Yoshida (14-under); Sei Young Kim 3rd (13-under); Gina Kim/Ruoning Yin/A. Huang T4 (12-under); $412,500 from $2.75M purse; Royal Mayfair GC Edmonton
+- **Status:** NEW
+- **Follow-up ideas:** LPGA season standings; Yamashita postseason contention
+
+### STORY 4: LIV Indianapolis Finale
+- **Tier:** 2
+- **Category:** LIV Golf / Michael La Sasso / Jon Rahm / Sergio Garcia / Bryson DeChambeau / Legion XIII / Chatham Hills
+- **Key facts:** La Sasso wins at 18-under, beats Rahm by 1 shot; Garcia + DeChambeau tied 3rd at 16-under; Legion XIII defends team title at 44-under (9 shots clear of HyFlyers); 2026 LIV season finale; LIV financial questions ongoing; CEO Greg Norman declined to guarantee 2027 commitments; Ian Poulter comments on league future
+- **Status:** NEW
+- **Follow-up ideas:** LIV 2027 schedule announcement; player contract status; BC Partners deal
+
+### STORY 5: Scheffler FedExCup Five Straight
+- **Tier:** 2
+- **Category:** PGA Tour / FedExCup / Scottie Scheffler / Matt Fitzpatrick / Wyndham Clark / Cameron Young / Si Woo Kim / East Lake
+- **Key facts:** Scheffler No. 1 FedExCup for 5th consecutive year; FedExCup top 9: Scheffler, Fitzpatrick, Clark, Young, Si Woo Kim, Gotterup, Morikawa, Burns, Fleetwood; East Lake Golf Club Atlanta; no starting strokes — lowest 72-hole score wins; Scheffler won FedExCup in 2024
+- **Status:** NEW
+- **Follow-up ideas:** Tour Championship result; FedExCup champion; Scheffler 2nd FedExCup title
+
 ## 2026-08-23
 
 | Date | Tier | Story | Platforms | Status |

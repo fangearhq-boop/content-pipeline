@@ -1,6 +1,18 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
+- **Date**: 2026-08-25
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 6 written, all under 280 characters (Story 1 Post 2 trimmed 283→265 after compile-content-data.py error)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres)
+- **PostPlanner exports:** gfr-postplanner-2026-08-25.xlsx (6 posts) + gfr-postplanner-tobi-2026-08-25.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-08-25/review-dashboard.html (21 items)
+- **Notes:** TOUR CHAMPIONSHIP — 30-player field East Lake GC Atlanta Aug 27-30; Scheffler No. 1 seed (5 straight years), No. 2 Fitzpatrick, No. 3 Clark; no starting strokes format, lowest 72-hole score wins; Thursday first round; BMW CLARK WIN — Clark 17-under 263 wins BMW Championship at Bellerive CC; 3-shot win over Cantlay; McIlroy solo third; birdied holes 16, 17, 18 to close; $3.6M from $20M purse; 2nd win of 2026; also won 2026 U.S. Open at Shinnecock Hills; YAMASHITA LPGA RECORD — Miyu Yamashita ties all-time LPGA 72-hole scoring record with 23-under 257 at CPKC Women's Open; Royal Mayfair GC Edmonton; wire-to-wire; 9-shot win over Yuri Yoshida (14-under); $412,500 from $2.75M purse; LIV INDIANAPOLIS FINALE — Michael La Sasso wins at 18-under, beats Rahm by 1; Garcia + DeChambeau tied 3rd (16-under); Legion XIII defends team title at 44-under (9 shots clear of HyFlyers); 2026 LIV season complete; CEO Norman declined to guarantee 2027 commitments; SCHEFFLER FEDEXCUP — 5th consecutive year leading FedExCup entering Tour Championship; won FedExCup in 2024; FedExCup top 9: Scheffler/Fitzpatrick/Clark/Young/Si Woo Kim/Gotterup/Morikawa/Burns/Fleetwood
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+### 2026-08-23
 - **Date**: 2026-08-23
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)
