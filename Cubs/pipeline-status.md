@@ -1,12 +1,57 @@
-# Cubs Pipeline Status — Updated 2026-08-24
+# Cubs Pipeline Status — Updated 2026-08-25
 
 ## Latest Run
-- **Date:** 2026-08-24 (Monday — GAME DAY, Series Opener vs Arizona Diamondbacks at Chase Field)
+- **Date:** 2026-08-25 (Tuesday — GAME DAY, Game 2 of 3 at Arizona Diamondbacks, Chase Field)
 - **Run time:** ~09:00 UTC
 - **Stories:** 7
 - **X posts:** 7
 - **Platforms:** X/Twitter only
 - **Status:** ✅ Complete
+
+## Insights Summary (2026-08-25)
+- **Snapshot generated:** 2026-08-25T08:30:00Z (fresh, 30 min before trigger)
+- **significant_findings count:** 2
+- **Finding 1:** `has_stat=True` beats `has_stat=False` — median impressions 103.5 vs 85.0, Cliff's delta=0.217 (small), p=0.045
+- **Finding 2:** `has_score=False` beats `has_score=True` — median impressions 102.5 vs 80.0, Cliff's delta=0.210 (small), p=0.049
+- **Applied:** (1) Every tweet drafted with ≥1 concrete stat. (2) No tweet leads with or includes a final game score — game recap leads with Gausman's stat line (7 IP, 6 K, 0 ER), not "Cubs 7-0." Finding 2 overrides brand-voice score-format rule.
+
+## Series Context (2026-08-25)
+- `is_series_start_today`: FALSE (Game 2 of 3, mid-series)
+- `off_day`: FALSE — Game 2 tonight, 8:40 PM CT at Chase Field
+- Opponent: Arizona Diamondbacks (69-63)
+- Cubs record: 76-56 (NL WC1)
+- Game 1 result: Cubs shutout win (Gausman 7 IP, 6 K, 0 ER)
+- Game 2: Holmes vs Pfaadt, 8:40 PM CT
+- Series finale: Wednesday 2:40 PM CT
+- Applied: No dedicated series-preview slot (is_series_start_today=FALSE). Game 2 preview at 12:00 PM CT.
+
+## Today's Content (2026-08-25)
+| Slot | Story | Tier |
+|------|-------|------|
+| 7:00 AM CT | Game 1 Recap — Gausman 7 IP, 6 K, 0 ER masterclass | 1 |
+| 8:15 AM CT | Cardinals Rival Watch — 66-66, 5 games out | 2 |
+| 9:30 AM CT | PCA MVP Watch — .279/33 HR/31 SB/~8.2 fWAR, leads MLB in fWAR | 2 |
+| 10:45 AM CT | Wild Card Watch — Cubs 76-56, D-backs 69-63 sliding | 2 |
+| 12:00 PM CT | Game 2 Preview — Holmes (2.49 ERA) vs Pfaadt (3.39 ERA), 8:40 PM CT | 1 |
+| 3:45 PM CT | Iowa Prospects — Garrett 5 IP/7 K gem, Shaw rehab continues | 3 |
+| 6:30 PM CT | First Pitch Hype — Holmes, Cubs go for two straight | 2 |
+
+## Key Storylines Active (as of 2026-08-25)
+- **D-backs series:** Cubs 76-56 at Chase Field (lead series 1-0). Game 2 tonight, finale Wednesday.
+- **PCA:** 33 HR, 31 SB, .279 avg, ~8.2 fWAR — NL MVP frontrunner, leading all MLB in fWAR
+- **Swanson:** Grade 2 oblique; targeting mid-September (~4-week timeline from Aug 17)
+- **Matt Shaw:** Continuing Iowa rehab; September activation imminent
+- **Cabrera:** On IL (finger blister); second IL stint of 2026
+- **Steele/Brown:** Both faced live hitters Aug 21; Brown targeting Sept rotation return
+- **Harvey:** Stress reaction in right triceps; Counsell says "running out of time" for 2026 return
+- **Cardinals:** 66-66, 5 games out of WC — fading fast
+- **Brewers:** ~81-49, best record in MLB, commanding NL Central
+
+## Issues / Notes (2026-08-25)
+- Dashboard push to `fangearhq-boop/content-dashboards` blocked (repo not in session's authorized set). Expected.
+- Pfaadt ERA discrepancy between sources: probable pitchers page shows 3.39; Baseball-Reference stats page shows 3.11. Used 3.39 from game-specific probable listing. Flagged MEDIUM confidence.
+- PCA stats: used pipeline-status.md Aug 24 data (33 HR, .279, ~8.2 fWAR) as more recent than mid-August search articles (which showed 30 HR, .281 from earlier in the month).
+- All 7 tweets validated ≤280 chars by compile-content-data.py. All clear.
 
 ## Insights Summary (2026-08-24)
 - **Snapshot generated:** 2026-08-24T08:30:00Z (fresh, 30 min before trigger)

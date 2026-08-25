@@ -5,6 +5,66 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-25
+
+### STORY 1: Game 1 Recap — Gausman Delivers 7-Inning Masterclass, Cubs Shut Out D-backs
+- **Angle:** NEW STORY (Game 1 result: Gausman 7 IP, 3 H, 1 BB, 6 K, 0 ER; Cubs lead series 1-0; per has_score=False insight, led with stat line not final score)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - Game 2 result recap (tomorrow morning)
+  - Series result/recap (Thursday morning)
+  - Gausman post-deadline ERA tracking
+
+### STORY 2: Cardinals Rival Watch — 66-66 in Late August, 5 Games Out
+- **Angle:** FOLLOW UP (Cardinals 66-66, 5 games out of NL WC; fading since Aug 23 pipeline covered 66-64; rival-jab content)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold/humor)
+- **Follow-Up Opportunities:**
+  - Cardinals WC elimination watch (September)
+  - Cardinals vs Cubs season series reference
+
+### STORY 3: Pete Crow-Armstrong MVP Watch
+- **Angle:** FOLLOW UP (.279 avg / 33 HR / 31 SB / ~8.2 fWAR, leads all of baseball in fWAR, 2nd straight 30-30, NL MVP betting leader vs Ohtani)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, stat breakdown)
+- **Follow-Up Opportunities:**
+  - PCA MVP watch monthly update
+  - PCA 35th HR milestone watch (2 behind)
+
+### STORY 4: Wild Card Watch — Cubs 76-56, D-backs Sliding
+- **Angle:** FOLLOW UP (Cubs 76-56 WC1 after Game 1 win; D-backs 69-63 fighting Padres for WC3; October window tightening for Arizona)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, analysis)
+- **Follow-Up Opportunities:**
+  - WC standings update after series finale
+  - D-backs elimination scenario
+
+### STORY 5: Game 2 Preview — Holmes vs. Pfaadt Tonight at Chase Field
+- **Angle:** NEW STORY (Holmes 2.49 ERA vs Pfaadt 3.39 ERA; 8:40 PM CT; Holmes returning from fractured fibula; Cubs have edge on paper)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Holmes start result/series Game 2 recap
+  - Series finale preview (Holmes/Pfaadt result shapes Wednesday)
+
+### STORY 6: Iowa Cubs Prospects Update — Garrett Gem, Shaw Rehab Continues
+- **Angle:** FOLLOW UP (Braxton Garrett 5 IP, 7 K, 0 ER in 4-2 Iowa win vs Toledo Aug 24; Shaw continuing Iowa rehab; September depth building)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, feature/prospect)
+- **Follow-Up Opportunities:**
+  - Shaw official September activation
+  - Garrett starting depth monitoring
+
+### STORY 7: First Pitch Hype — Holmes and the Cubs Go for Two Straight
+- **Angle:** NEW STORY (Game-time energy; Cubs lead series 1-0 after Gausman gem; Holmes takes mound; Arizona must-win stakes)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT, bold/hype)
+- **Follow-Up Opportunities:**
+  - Game 2 result recap (tomorrow morning)
+
+---
+
 ## 2026-08-24
 
 ### STORY 1: Series Preview — Cubs Open 3-Game Road Trip at Arizona Diamondbacks

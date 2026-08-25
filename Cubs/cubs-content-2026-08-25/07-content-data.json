@@ -1,0 +1,276 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-25",
+  "compiled_at": "2026-08-25T09:26:45.165887+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM CT",
+      "description": "Game 1 Recap — Gausman masterclass",
+      "type": "Informative"
+    },
+    {
+      "time": "8:15 AM CT",
+      "description": "Cardinals Rival Watch — 66-66",
+      "type": "Bold/Humor"
+    },
+    {
+      "time": "9:30 AM CT",
+      "description": "PCA MVP Watch — .279/33 HR/31 SB/8.2 fWAR",
+      "type": "Stat Breakdown"
+    },
+    {
+      "time": "10:45 AM CT",
+      "description": "Wild Card Watch — Cubs 76-56, D-backs sliding",
+      "type": "Analysis"
+    },
+    {
+      "time": "12:00 PM CT",
+      "description": "Game 2 Preview — Holmes vs Pfaadt, 8:40 PM CT",
+      "type": "Informative"
+    },
+    {
+      "time": "3:45 PM CT",
+      "description": "Iowa Prospects — Garrett gem, Shaw rehab",
+      "type": "Feature"
+    },
+    {
+      "time": "6:30 PM CT",
+      "description": "First Pitch Hype — Cubs go for two straight",
+      "type": "Bold/Hype"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Game 1 Recap — Gausman Delivers 7-Inning Masterclass, Cubs Shut Out D-backs",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Gausman threw 7 scoreless innings (3 H, 1 BB, 6 K, 0 ER) to shut out Arizona in Game 1. Per has_score=False insight, leads with pitching stat line, not final score.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Kevin Gausman was the best pitcher in the building last night.\n\n7 innings. 6 strikeouts. 3 hits allowed. 0 earned runs.\n\nThe ace the Cubs traded for at the deadline showed up when it mattered most. Cubs lead the series.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative / Game Recap",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Game 1 Recap — Gausman's Masterclass\n**Decision:** NEW STORY (Game 1 of this D-backs series occurred last night; Aug 24 pipeline ran pre-game)\n**Sources:**\n1. MLB.com Cubs news: \"Kevin Gausman throws seven scoreless innings vs. D-backs\" (Aug 24, 2026)\n2. KTOP-AM/multiple radio affiliates: \"Kevin Gausman fires 7 sharp innings as Cubs shut out Diamondbacks\" (Aug 24-25, 2026)\n3. ESPN boxscore: espn.com/mlb/boxscore/_/gameId/401816659\n4. covers.com matchup: covers.com/sport/baseball/mlb/matchup/369765\n**Key Facts:**\n- Final: Cubs 7, Diamondbacks 0 (shutout) — VERIFIED (multiple sources)\n- Gausman: 7 IP, 3 H, 1 BB, 6 K, 0 ER — VERIFIED (MLB.com + affiliate radio)\n- Cubs record: 76-56 — HIGH confidence (confirmed by series-context.json)\n- D-backs record: 69-63 — HIGH confidence (confirmed by series-context.json)\n- Start time: 8:40 PM CT — VERIFIED (series-context.json, consistent with prior pipeline)\n**Freshness:** Source articles from Aug 24-25, 2026 — within 24 hours. ✓\n**Why it matters:** Gausman's trade-deadline acquisition delivered one of his best starts as a Cub. 7 scoreless beats a D-backs offense that came in needing every win. Cubs take commanding Game 1 control of this WC-implications series.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Cardinals Rival Watch — 66-66 in Late August, 5 Games Out",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Cardinals at 66-66, 5 games out of NL WC. Perfect mediocrity at exactly the wrong moment. Rival-jab content.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "The Cardinals are 66-66 in late August — 5 games out of a Wild Card spot.\n\nGenuinely impressed by their ability to be perfectly mediocre at exactly the wrong time of year.\n\nSt. Louis, the NL Central called. They'd like their respectability back.\n\n#Cubs #MLB #NorthSiders",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold / Humor",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#NorthSiders"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cardinals Rival Watch\n**Decision:** FOLLOW UP (Cardinals last covered Aug 23; record now 66-66, continuing decline)\n**Sources:**\n1. Fubo News / various: \"Baltimore Orioles at St. Louis Cardinals\" (Aug 25, 2026)\n2. Search result: Cardinals 66-66, 5 games out of NL Wild Card\n3. Pipeline-status.md (Aug 24): Cardinals at 66-66 (prior entry shows them at 66-64 on Aug 23)\n**Key Facts:**\n- Cardinals record: 66-66 — MEDIUM confidence (single search result; prior data confirms trend)\n- Games out of WC: 5 games — MEDIUM confidence (single search result; exact WC3 holder unclear)\n- Cardinals playing Orioles on Aug 25 — VERIFIED (Fubo News schedule)\n**Freshness:** Aug 25 date confirmed. ✓\n**Why it matters:** Cubs fans love a Cardinals-are-fading narrative. 66-66 in late August with 5 games to make up is a brutal playoff position. This is prime rival-jab content.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Pete Crow-Armstrong MVP Watch — Leads Baseball in fWAR",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "PCA .279/.33 HR/31 SB/~8.2 fWAR, NL MVP betting leader. 2nd straight 30-30 season. Stat-driven case.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Pete Crow-Armstrong: .279 avg. 33 HR. 31 SB. ~8.2 fWAR.\n\nHe leads all of baseball in WAR, has back-to-back 30-30 seasons, and is the current NL MVP betting favorite.\n\nThe debate is over. PCA is the best player in the National League.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Informative / Stat Breakdown",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Pete Crow-Armstrong MVP Watch\n**Decision:** FOLLOW UP (covered Aug 20 pipeline as Tier 2 \"NL MVP frontrunner\"; no new event but stats update builds ongoing arc)\n**Sources:**\n1. Pipeline-status.md (Aug 24, verified prior run): \"PCA: 33 HR, 31 SB, .279/.932 OPS, ~8.2 fWAR\"\n2. Yahoo Sports / Forbes / Axios Chicago articles (Aug 2026): PCA as NL MVP betting leader\n3. Story-history.md Aug 24 entry: \"PCA 33rd HR\" confirmed for Mariners series\n**Key Facts:**\n- Batting average: .279 — MEDIUM confidence (pipeline-status, Aug 24; may have updated slightly)\n- HR: 33 — HIGH confidence (pipeline-status cross-referenced with story-history)\n- SB: 31 — MEDIUM confidence (pipeline-status Aug 24)\n- fWAR: ~8.2 — MEDIUM confidence (pipeline-status Aug 24; approximate)\n- NL MVP betting leader vs Ohtani — MEDIUM confidence (multiple search sources, mid-August)\n- 2nd straight 30-30 season — MEDIUM confidence (30 HR + 31 SB both confirmed individually)\n**NOTE:** Search results from early August showed 30 HR and .281 avg — STALE. Using pipeline-status.md data (Aug 24) as more recent and cross-verified with story-history.\n**Freshness:** Pipeline-status.md updated Aug 24. ✓",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Wild Card Watch — Cubs 76-56, D-backs Sliding",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "After Game 1 win, Cubs extend WC1 lead. D-backs at 69-63 still chasing Padres for WC3. Standings context.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Cubs at 76-56 and WC1. Arizona at 69-63 and fighting off the Padres for the last spot.\n\nLast night's win didn't just take a game — it took air from every team chasing Chicago.\n\nOctober is starting to look like a formality. 🔒\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Informative / Analysis",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Wild Card Watch\n**Decision:** FOLLOW UP (WC standings covered daily; today's update reflects Game 1 result)\n**Sources:**\n1. MLB.com standings page (current)\n2. Yahoo Sports NL WC article (Aug 24, 2026)\n3. Series-context.json: Cubs 76-56, D-backs 69-63\n4. Pipeline-status.md Aug 24: WC3 = Padres (70-60)\n**Key Facts:**\n- Cubs: 76-56 (WC1) — HIGH confidence (series-context.json, confirmed)\n- D-backs: 69-63 — HIGH confidence (series-context.json)\n- Padres: approx 70-60 (WC3) — MEDIUM confidence (prior pipeline data; exact current record needs update)\n- D-backs are fighting for WC3 behind Padres — MEDIUM confidence (search context confirms general framing)\n**Freshness:** Series-context.json generated 2026-08-25T08:30:00Z. ✓",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Game 2 Preview — Holmes vs. Pfaadt Tonight at Chase Field",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Clay Holmes (2.49 ERA) vs Brandon Pfaadt (3.39 ERA). Cubs have the edge on paper. Holmes returning from fractured fibula has been excellent. 8:40 PM CT.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Clay Holmes (2.49 ERA) vs. Pfaadt (3.39 ERA) at Chase Field. 8:40 PM CT.\n\nHolmes has been one of baseball's steadiest starters since returning from a fractured fibula.\n\nCubs have the edge. Two straight dominant starts would be a statement.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Informative / Game Preview",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Game 2 Preview — Holmes vs. Pfaadt\n**Decision:** NEW STORY (today's game preview)\n**Sources:**\n1. CBS Sports gametracker: cbssports.com/mlb/gametracker/stats/MLB_20260825_CHC@ARI/ (Aug 25)\n2. Baseball-Reference preview: baseball-reference.com/previews/2026/ARI202608250.shtml\n3. Bleacher Nation probable pitchers (Aug 24)\n4. Yahoo Sports trade deadline article (Aug 3, 2026): Holmes trade details\n**Key Facts:**\n- Holmes 2026 stats: 5-6, 68.2 IP, 2.49 ERA — MEDIUM confidence (CBS Sports probable pitchers)\n- Note: Pre-trade Mets stats were 4-4, 52.2 IP, 2.39 ERA. Combined including Cubs starts = 2.49 ERA.\n- Pfaadt 2026 stats: 3.39 ERA per probable pitchers; 3.11 ERA per Bref/CBS stats page — MEDIUM confidence\n- Using 3.39 ERA from game-specific probable pitchers listing as more current\n- Game time: 8:40 PM CT — HIGH confidence (series-context.json)\n- Venue: Chase Field — HIGH confidence (series-context.json)\n- Holmes trade context: Mets to Cubs Aug 3 deadline, with Tyrone Taylor — VERIFIED (Fox 32, Sun-Times)\n**Freshness:** CBS Sports gametracker for Aug 25 game. ✓",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Iowa Cubs Prospects Update — Garrett Gems, Shaw Rehab Continues",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "Braxton Garrett 5 IP, 7 K, 0 ER for Iowa in Sunday win. Shaw continuing rehab. System depth building for September.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Iowa's Braxton Garrett delivered Sunday: 5 scoreless innings, 7 K in a 4-2 win over Toledo.\n\nMatt Shaw continues his rehab with the I-Cubs. System depth builds as September approaches.\n\nThe Cubs' roster is getting healthier at exactly the right time. 💪\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Informative / Feature",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Iowa Cubs / Shaw Rehab Update\n**Decision:** FOLLOW UP (Iowa + Shaw both covered Aug 23, Aug 24; new Iowa result Aug 24 provides fresh content angle)\n**Sources:**\n1. Bleacher Nation: \"Cubs Prospects Report | August 24, 2026: Iowa Holds On, Shaw Rehabs, South Bend Walks Off\" (Aug 24)\n2. Bleed Cubbie Blue: Minor league wrap (Aug 24)\n3. MiLB.com: Matt Shaw player page\n**Key Facts:**\n- Iowa won 4-2 vs Toledo (Aug 24) — MEDIUM confidence (Bleacher Nation, Bleed Cubbie Blue)\n- Braxton Garrett: 5 scoreless IP, 2 H, 1 BB, 7 K — MEDIUM confidence (Bleed Cubbie Blue)\n- Shaw continuing rehab (Aug 24) — MEDIUM confidence (Bleacher Nation headline)\n- Shaw's total rehab line: 3-for-7 with 2 RBI (through Aug 22-23 games) — MEDIUM confidence\n**Freshness:** Bleacher Nation Aug 24 prospect report, within 24 hours. ✓",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 7,
+      "title": "First Pitch Hype — Holmes and the Cubs Go for Two Straight",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Cubs lead series 1-0 after Gausman's gem. Holmes takes the mound with Arizona's season on the line. Bold pre-game energy.",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Clay Holmes. Chase Field. 8:40 PM CT.\n\nGausman dealt 7 scoreless last night and set the tone. Now Holmes steps up with the Cubs leading the series.\n\nArizona needed this series. Chicago is here to take it.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "Bold / Hype",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 228
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "First Pitch Hype\n**Decision:** NEW STORY (game-day hype; generated from same Game 2 research)\n**Sources:** Same as Story 5 (Holmes, Pfaadt, series context)\n**Key Facts:**\n- Game time: 8:40 PM CT — HIGH confidence\n- Holmes ERA: 2.49 — MEDIUM confidence\n- Series context: Game 2 of 3; Cubs lead series 1-0 after Gausman shutout — VERIFIED",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
