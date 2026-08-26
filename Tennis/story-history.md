@@ -1782,3 +1782,50 @@ Track previously covered stories to avoid repetition and maintain content freshn
 - **Byline:** Elena Voss
 - **Key Facts:** Eala first Filipino Grand Slam seed; Djokovic 24 majors → pursuing 25th; $108M prize pool record; Fils 10-0 in 3-set matches 2026; Gauff defending champion + No. 3 seed; Sources: tennis365.com, puntodebreak.com, prior pipeline
 - **Follow-Up Opportunities:** Eala first round; Djokovic draw; Fils draw placement
+
+## 2026-08-26
+
+### Story 1: Serena & Alcaraz Exit US Open Mixed Doubles in Quarterfinals
+- **Date:** 2026-08-26
+- **Angle:** FOLLOW-UP (2026-08-24 S2: Alcaraz confirmed for US Open; 2026-08-25 S3: Alcaraz at Winston-Salem) — Williams/Alcaraz won R1 over Routliffe/Glasspool 5-3, 4-1; lost QF to Cobolli/Bencic 5-4(4), 4-1. Alcaraz now shifts to US Open singles (Aug 30, No. 2 seed). Serena's brief return to Flushing Meadows ends.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Elena Voss
+- **Key Facts:** QF loss score: 5-4(4), 4-1 (vs Cobolli/Bencic); R1 win: 5-3, 4-1 (vs Routliffe/Glasspool); Cobolli ace at 7-4 TB; match Aug 26 at USTA BJKNC; Sources: Yahoo Sports, Al Jazeera, ESPN, ATP Tour official
+- **Follow-Up Opportunities:** Alcaraz US Open first-round singles match; Cobolli/Bencic mixed doubles SF
+
+### Story 2: Federer Exhibition Recap — A Night at Arthur Ashe No One Will Forget
+- **Date:** 2026-08-26
+- **Angle:** FOLLOW-UP (2026-08-25 S1: Federer exhibition preview) — Federer def. Roddick 6-3 (singles, no-ad); Federer/McEnroe def. Roddick/Agassi 7-5 (doubles, no-ad). Anna Wintour coin toss. Matthew McConaughey hype reel. Celebrities: Serena, Auger-Aliassime, Ruud, Eala. Event billed "An Icon Returns to New York." Sold out Arthur Ashe Stadium.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Marcus Cole
+- **Key Facts:** Federer def. Roddick 6-3; Federer/McEnroe def. Roddick/Agassi 7-5; Anna Wintour coin toss; Matthew McConaughey narrated hype reel; Serena/Ruud/Eala/Auger-Aliassime courtside; Sources: ATP Tour official, USNews, Yahoo Sports, Whatfinger Sports
+- **Follow-Up Opportunities:** Fan/celebrity reactions; US Open main draw matchups
+
+### Story 3: US Open Draw Ceremony — Today at Noon ET
+- **Date:** 2026-08-26
+- **Angle:** FOLLOW-UP (2026-08-25 S4: Draw ceremony preview; 2026-08-24 S3: Seeds set) — Draw ceremony Aug 27 noon ET. Seedings: Zverev No. 1, Alcaraz No. 2, Djokovic No. 4 (men); Sabalenka No. 1, Swiatek No. 2, Gauff No. 3, Pegula No. 4 (women); Eala first Grand Slam seeding. 14+ withdrawals. Main draw Aug 30.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Ryan Calloway
+- **Key Facts:** Draw ceremony Aug 27 noon ET; seeds unchanged from Aug 24 pipeline; Eala first Grand Slam seed; 14+ withdrawals; Sources: LTA, ATP Tour, olympics.com
+- **Follow-Up Opportunities:** Draw release analysis; first-round matchup previews
+
+### Story 4: US Open Qualifying Day 3 — Jordan Lee One Win From Main Draw
+- **Date:** 2026-08-26
+- **Angle:** FOLLOW-UP (2026-08-25 S2: Qualifying Day 2) — Jordan Lee (16yr wildcard) in R2 vs Daniel Rincon (who upset 5th seed Droguet). Lee won R1 over Lajal 4-6, 6-3, 6-3. Fearnley (GBR) also in R2 after def. Carballes Baena 7-6(3), 6-3. Bianca Andreescu in women's qualifying (return to tour).
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Elena Voss
+- **Key Facts:** Lee R1: def. Lajal 4-6, 6-3, 6-3; Lee R2 vs Rincon; Fearnley R1: def. Carballes Baena 7-6(3), 6-3; Andreescu in women's qualifying; Sources: Yahoo Sports, ATP Tour, World Tennis Magazine, Last Word on Sports
+- **Follow-Up Opportunities:** Lee R2 result; Fearnley R2 result; who earns main draw spots
+
+### Story 5: Winston-Salem Open Final Days Before US Open
+- **Date:** 2026-08-26
+- **Angle:** FOLLOW-UP (2026-08-25 S3: Alcaraz at Winston-Salem) — QF/SF play Aug 26-27 at Wake Forest University. Alcaraz in draw as wildcard (first tournament since April wrist injury). Final wraps Aug 29 before US Open Aug 30.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Marcus Cole
+- **Key Facts:** Winston-Salem ATP 250, Aug 23-29, Wake Forest; Alcaraz wildcard (first time entering); first competitive matches since April wrist injury; QF/SF this week; Sources: atptour.com, winstonsalemopen.com, prior pipeline
+- **Follow-Up Opportunities:** Alcaraz QF/SF results; Winston-Salem champion

@@ -1,0 +1,359 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-26",
+  "compiled_at": "2026-08-26T12:40:32.963244+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "S2: Federer exhibition recap",
+      "type": "X Text Post A"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "S1: Serena/Alcaraz mixed doubles exit",
+      "type": "X Text Post A"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "S1: Alcaraz singles focus angle",
+      "type": "X Text Post B"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "S3: US Open draw ceremony today",
+      "type": "X Text Post"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "S4: Qualifying Day 3 / Jordan Lee",
+      "type": "X Text Post"
+    },
+    {
+      "time": "9:00 PM",
+      "description": "S5: Winston-Salem final days",
+      "type": "X Text Post"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Serena & Alcaraz Exit US Open Mixed Doubles in Quarterfinals — TIER 1",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Serena Williams and Carlos Alcaraz are out of the US Open mixed doubles. They won their R1 match over Routliffe/Glasspool 5-3, 4-1, then lost the quarterfinal to Cobolli and Bencic 5-4(4), 4-1. Fun while it lasted.\n\n#Tennis #USOpen2026 #Alcaraz #SerenaWilliams",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#USOpen2026",
+            "#Alcaraz",
+            "#SerenaWilliams"
+          ],
+          "char_count": 260
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Alcaraz's mixed doubles run at the US Open is over. Now the real test begins: his first Grand Slam singles matches since the April wrist injury. Main draw starts August 30. No. 2 seed.\n\n#Tennis #Alcaraz #USOpen2026 #ATPTour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#Alcaraz",
+            "#USOpen2026",
+            "#ATPTour"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-serena-alcaraz-mixed-doubles-exit-us-open.html",
+        "headline": "Serena and Alcaraz Exit US Open Mixed Doubles in Quarterfinals",
+        "word_count": 541
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Federer Exhibition Recap — A Night at Arthur Ashe No One Will Forget — TIER 1",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Federer won. Roddick 6-3 in the singles set. Then Federer and McEnroe beat Roddick and Agassi 7-5 in doubles. Anna Wintour did the coin toss. Serena, Ruud, and Eala were courtside. One of those nights.\n\n#Tennis #Federer #USOpen2026 #ATPTour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#Federer",
+            "#USOpen2026",
+            "#ATPTour"
+          ],
+          "char_count": 240
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Roger Federer at Arthur Ashe in 2026: back on the court where he won five US Open titles, beating Roddick one more time, 6-3. Matthew McConaughey narrated the hype reel. The place was sold out.\n\n#Federer #USOpen2026 #Tennis #ATPTour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Federer",
+            "#USOpen2026",
+            "#Tennis",
+            "#ATPTour"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-federer-exhibition-recap-arthur-ashe.html",
+        "headline": "Federer Wins: Exhibition Night at Arthur Ashe Delivers Every Moment It Promised",
+        "word_count": 583
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "US Open Draw Ceremony — Today at Noon ET, What to Expect — TIER 2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The 2026 US Open draw drops at noon ET today. Men's top seeds: Zverev No. 1, Alcaraz No. 2, Djokovic No. 4. Women: Sabalenka No. 1, Swiatek No. 2, Gauff No. 3, Pegula No. 4. Eala seeded for the first time at a major.\n\n#Tennis #USOpen2026 #ATPTour #WTATennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#USOpen2026",
+            "#ATPTour",
+            "#WTATennis"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-us-open-draw-ceremony-2026.html",
+        "headline": "2026 US Open Draw Ceremony: What to Watch For at Noon ET Today",
+        "word_count": 546
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "US Open Qualifying Day 3 — Jordan Lee One Win From Main Draw — TIER 2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Jordan Lee is 16 years old and one win away from the US Open main draw. He beat Mark Lajal 4-6, 6-3, 6-3 in R1 as a wildcard. Today in R2 he faces Daniel Rincon. Wimbledon boys champ making noise in New York.\n\n#Tennis #USOpen2026 #JordanLee #Qualifying",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#USOpen2026",
+            "#JordanLee",
+            "#Qualifying"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-us-open-qualifying-day-3-jordan-lee.html",
+        "headline": "US Open Qualifying Day 3: Jordan Lee One Win From the Main Draw",
+        "word_count": 599
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Winston-Salem Open — Final Days Before the US Open — TIER 2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The Winston-Salem Open QFs and SFs are set for this week. Alcaraz is in the draw — his first competitive matches since April. The ATP 250 wraps up Aug 29, one day before the US Open main draw opens.\n\n#Tennis #WinstonSalem #Alcaraz #ATPTour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#WinstonSalem",
+            "#Alcaraz",
+            "#ATPTour"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-winston-salem-open-final-days.html",
+        "headline": "Winston-Salem Open: Final Days Before the US Open",
+        "word_count": 556
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

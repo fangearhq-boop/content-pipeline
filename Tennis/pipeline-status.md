@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-08-25 |
-| Writing | Complete (all steps) | 2026-08-25 |
-| Fact-check | Complete (verify-facts.py run — 5 stories, 25 claims, 30 HIGH) | 2026-08-25 |
-| Compile | Complete (07-content-data.json — 5 stories, 6 X posts, 5 articles, 21 items) | 2026-08-25 |
-| Dashboard | Complete (review-dashboard.html, 21 items) | 2026-08-25 |
-| PostPlanner Export | Complete (standard 6 posts 13:02–20:27 ET; TOBI 6 posts) | 2026-08-25 |
-| WordPress Publish | Attempted — proxy blocks WordPress API (same as all prior runs) | 2026-08-25 |
-| Dashboard Push | Attempted — proxy lacks write access to content-dashboards repo (same as all prior runs) | 2026-08-25 |
+| Research | Complete | 2026-08-26 |
+| Writing | Complete (all steps) | 2026-08-26 |
+| Fact-check | Complete (verify-facts.py run — 5 stories, 34 claims, 45 HIGH) | 2026-08-26 |
+| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 5 articles, 22 items) | 2026-08-26 |
+| Dashboard | Complete (review-dashboard.html, 22 items) | 2026-08-26 |
+| PostPlanner Export | Complete (standard 6 posts 13:10–20:30 ET; TOBI 6 posts) | 2026-08-26 |
+| WordPress Publish | Attempted — proxy blocks WordPress API (same as all prior runs) | 2026-08-26 |
+| Dashboard Push | Attempted — proxy lacks write access to content-dashboards repo (same as all prior runs) | 2026-08-26 |
 
 ## Queue
 
@@ -24,6 +24,16 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-08-26 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts (6 in PostPlanner) + 5 FB posts (5 long-form + 5 captions) = 12 total
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-08-26.xlsx (6 posts 13:10–20:30 ET), tfr-postplanner-tobi-2026-08-26.xlsx (6 TOBI posts)
+- **Key stories:** Serena/Alcaraz out in mixed doubles QF (lost to Cobolli/Bencic 5-4(4), 4-1 after winning R1 5-3, 4-1 same day); Federer exhibition recap (def. Roddick 6-3 singles, Federer/McEnroe def. Roddick/Agassi 7-5 doubles; Wintour coin toss, McConaughey hype reel, Serena/Ruud/Eala/Auger-Aliassime courtside); US Open draw ceremony today noon ET (Zverev/Sabalenka No. 1, Eala first Grand Slam seed, 14+ withdrawals, Alcaraz No. 2); Qualifying Day 3 (Jordan Lee R2 vs Rincon, Fearnley R2, Andreescu in women's qualifying); Winston-Salem QF/SF (Alcaraz wildcard first tournament since April wrist injury)
+- **Issues:** image manifest all not_started (expected for imagn source); posting window warnings cosmetic (known issue); FB posts 0 in compile (known parser issue); WordPress blocked by proxy; dashboard push blocked by proxy (content-dashboards not in session authorized repos)
+- **Story history:** Updated with all 5 stories
 
 ### 2026-08-25 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
