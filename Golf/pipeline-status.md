@@ -1,8 +1,18 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
-- **Date**: 2026-08-25
+- **Date**: 2026-08-26
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway)
+- **PostPlanner exports:** gfr-postplanner-2026-08-26.xlsx (7 posts) + gfr-postplanner-tobi-2026-08-26.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-08-26/review-dashboard.html (22 items)
+- **Notes:** TOUR CHAMPIONSHIP PREVIEW — Starts Aug 27 at East Lake GC Atlanta; $40M purse ($10M winner); 30 players; no staggered starts format; Scheffler/Fitzpatrick pairing 2PM ET; ESPN/Golf Channel; SCHEFFLER NO.1 FIFTH YEAR — 5th straight No. 1 seed; $23M bonus already locked; won FedEx St. Jude by 8 shots (21st career title); A win = 4th FedExCup (would be unprecedented); CLARK HOT HAND — BMW champ (17-under, 3-shot win); birdied 16-17-18 to close; No. 3 seed; 2nd win of 2026 (also won U.S. Open at Shinnecock); MCILROY 4TH FEDEXCUP — 3x champion (2016/2019/2022); nobody has 4; in field after BMW T3; LIV 2027 UNCERTAIN — Season ended Indianapolis (La Sasso won final, Rahm 3rd straight individual title despite T41); Norman declined to guarantee 2027; Poulter warned LIV may run out of time
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+### 2026-08-25
 - **Stories:** 5 total (3 Tier 1, 2 Tier 2)
 - **X Posts:** 6 written, all under 280 characters (Story 1 Post 2 trimmed 283→265 after compile-content-data.py error)
 - **Facebook Posts:** 5 stories, long-form + caption each
