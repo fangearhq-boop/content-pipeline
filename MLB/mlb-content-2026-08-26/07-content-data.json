@@ -1,0 +1,251 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-26",
+  "compiled_at": "2026-08-26T10:32:01.207850+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Waldschmidt Walkoff Stuns Cubs; Cruz Ends Miller's HR-Free Streak",
+      "tier": 1,
+      "status": "",
+      "angle": "Two Tuesday night games produced the best baseball moments of the week. In Chicago, Ryan Waldschmidt entered as a pinch hitter in the 9th with two outs and hit a two-run walkoff homer to give Arizona a 5-4 win — the D-backs' MLB-leading 40th comeback victory. In Pittsburgh, Oneil Cruz connected for the first home run Mason Miller had allowed in over a year, and Paul Skenes delivered his best outing in weeks as the Pirates beat the Padres 1-0.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Ryan Waldschmidt entered as a pinch hitter in the 9th with 2 outs. He left the yard for a 2-run walkoff homer. D-backs 5, Cubs 4. Arizona's MLB-leading 40th comeback win. The Cubs are going to need to solve this team in October. #Cubs #Dbacks",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#Dbacks"
+          ],
+          "char_count": 242
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Oneil Cruz hit a solo shot off Mason Miller — the first HR Miller had allowed in over a year. Paul Skenes had his best start in weeks. Pirates 1, Padres 0. San Diego needed that game for the Wild Card race. They didn't get it. #MLBrecaps ⚾",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLBrecaps"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-waldschmidt-walkoff-cubs-dbacks-cruz-miller-pirates.html",
+        "headline": "Waldschmidt's Walkoff and Cruz's Gem: Two Stunners From Tuesday Night",
+        "word_count": 650
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Waldschmidt Walkoff / Cruz Gem\n\n#### Image 1 — Waldschmidt Celebration\n- **Type:** Social (1080x1350 vertical)\n- **Photo search:** \"Ryan Waldschmidt Arizona Diamondbacks\"\n- **Concept:** Action shot or celebration graphic — \"WALKOFF! D-backs 5, Cubs 4\" headline. \"40th Comeback Win\" callout. Arizona's purple and red palette.\n\n#### Image 2 — Cruz HR vs Miller\n- **Type:** Social (1080x1350 vertical)\n- **Photo search:** \"Oneil Cruz Pittsburgh Pirates\"\n- **Concept:** Cruz home run graphic — \"First HR off Mason Miller in 1+ year\" stat callout. Pirates 1, Padres 0. Black and gold palette.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "PCA NL MVP — 29 of 37 First-Place Votes in Latest Poll",
+      "tier": 1,
+      "status": "",
+      "angle": "The fifth 2026 MLB.com MVP poll is out, and Pete Crow-Armstrong has taken the top spot for the first time. He received 29 of 37 first-place votes and 177 total points, moving ahead of Shohei Ohtani. The case: 7.7 fWAR leads all of baseball, .281/.379/.550, 30 HR, 78 RBI, 31 SB, and a 22 OAA/24 FRV in center field that makes him the best all-around player in the game this year. Cubs fell to 76-57 after Tuesday's loss.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Pete Crow-Armstrong now leads the NL MVP poll for the first time — 29 of 37 first-place votes. The case: 7.7 fWAR (MLB lead), .281/30 HR/78 RBI/31 SB, and 22+ OAA in center. This is not a close race anymore. #Cubs #NLMVP ⚾",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#NLMVP"
+          ],
+          "char_count": 222
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Since July 3, Pete Crow-Armstrong has posted a 171 wRC+, a 1.014 OPS, and 14 home runs. Add the best outfield defense in the game. That's why he's running away with the NL MVP ballot. 29 games left. #Cubs ⚾",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 206
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-pca-nl-mvp-poll-leader-29-of-37-first-place-votes.html",
+        "headline": "Pete Crow-Armstrong Now Leads the NL MVP Poll — And It's Not Close",
+        "word_count": 534
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "PCA NL MVP Poll\n\n#### Image 3 — PCA MVP Case\n- **Type:** Social (1080x1350 vertical)\n- **Photo search:** \"Pete Crow-Armstrong Chicago Cubs\"\n- **Concept:** Bold MVP graphic — \"29 of 37 FIRST-PLACE VOTES\" headline. \"7.7 fWAR | .281/30HR/78RBI/31SB | 22+ OAA\" stat bar. Cubs blue and red palette.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Yordan Alvarez Triple Crown — .320/.36/90, Caminero One Back in HR",
+      "tier": 2,
+      "status": "",
+      "angle": "Yordan Alvarez leads the American League in batting average (.320), home runs (36), and RBIs (90). If he finishes first in all three, he would be the first Triple Crown winner since Miguel Cabrera in 2012. The BA and RBI leads are comfortable. The HR lead is not — Tampa Bay's Junior Caminero has 35, just one behind, and the New York Yankees' Ben Rice has 34. The home run race will decide whether this goes down in history.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Yordan Alvarez leads the AL in batting average (.320), home runs (36), and RBIs (90). The last MLB Triple Crown: Cabrera in 2012. The problem? Caminero has 35 HR — just one back. The HR race decides this. #Astros #TripleCrown ⚾",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Astros",
+            "#TripleCrown"
+          ],
+          "char_count": 227
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-yordan-alvarez-triple-crown-chase-320-36hr-90rbi.html",
+        "headline": "Yordan Alvarez Holds All Three AL Leads. The Home Run Race Is the Problem.",
+        "word_count": 565
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alvarez Triple Crown\n\n#### Image 4 — Triple Crown Chase\n- **Type:** Social (1080x1350 vertical)\n- **Photo search:** \"Yordan Alvarez Houston Astros\"\n- **Concept:** Three-crown graphic — BA: .320, HR: 36, RBI: 90. \"TRIPLE CROWN CHASE\" bold header. \"Caminero just 1 HR back\" subtext. Astros navy and orange.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Misiorowski — Next Start Thursday vs Mets, -550 Cy Young Favorite",
+      "tier": 2,
+      "status": "",
+      "angle": "Jacob Misiorowski takes the mound Thursday against the New York Mets with a 1.68 ERA, 13-5 record, and 216 strikeouts across 24 starts. He is the -550 favorite for the NL Cy Young Award. The 24-year-old became the second-fastest pitcher in MLB history to reach 200 strikeouts in a season. Each start is now a milestone watch.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Jacob Misiorowski takes the mound Thursday against the Mets. He's 13-5 with a 1.68 ERA, 216 Ks, and a 0.76 WHIP through 24 starts. He's -550 to win the NL Cy Young. He's 24 years old. This season is absurd. #Brewers ⚾",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers"
+          ],
+          "char_count": 217
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-misiorowski-thursday-start-mets-cy-young-1-68-era.html",
+        "headline": "Misiorowski Faces the Mets Thursday. His Cy Young Lead Is Already Historic.",
+        "word_count": 540
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Misiorowski Thursday Start\n\n#### Image 5 — Misiorowski Cy Young\n- **Type:** Social (1080x1350 vertical)\n- **Photo search:** \"Jacob Misiorowski Milwaukee Brewers\"\n- **Concept:** Pitching-action graphic — \"13-5 | 1.68 ERA | 216 Ks\" stat block. \"Thursday vs Mets\" game callout. \"-550 NL Cy Young Favorite\" badge. Brewers navy and gold.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "NL Wild Card Picture — Cubs Stumble, D-backs Closing In",
+      "tier": 2,
+      "status": "",
+      "angle": "The NL Wild Card picture tightened Tuesday night. The Cubs dropped to 76-57 after Waldschmidt's walkoff. The Phillies (73-59) are on a four-game winning streak. The Padres (71-61) hold the third wild card spot. The Diamondbacks, with their MLB-leading 40th comeback win, are right outside the cutoff and closing. Cubs' goal has been to avoid a Round 1 matchup with Milwaukee — that requires maintaining their wild card lead and seeding.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "NL Wild Card after Tuesday: Cubs 76-57, Phillies 73-59, Padres 71-61. The D-backs — with 40 MLB-leading comeback wins — are right outside and closing. 29 games left. The Cubs cannot afford many more nights like Tuesday. #Cubs #MLB ⚾",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-nl-wild-card-cubs-stumble-dbacks-closing-phillies-surge.html",
+        "headline": "The D-backs Are Closing In. The NL Wild Card Race Is Getting Interesting.",
+        "word_count": 568
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NL Wild Card Race\n\n#### Image 6 — Wild Card Standings\n- **Type:** Social (1080x1350 vertical)\n- **Photo search:** \"Chicago Cubs Wrigley Field\"\n- **Concept:** Wild Card standings graphic — \"No.1 Cubs 76-57 / No.2 Phillies 73-59 / No.3 Padres 71-61\" table. \"D-backs closing\" alert element. \"29 games left\" countdown footer.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
