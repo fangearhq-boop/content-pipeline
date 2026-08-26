@@ -1,0 +1,268 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-26",
+  "compiled_at": "2026-08-26T11:27:56.016438+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Monaco GP Result Could Change — FIA Court Hearing Held August 25",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The 2026 Monaco GP result could change.\n\nThe FIA's International Court of Appeal held a hearing yesterday in Paris.\n\nFOM admitted its own pitlane speed measurement was wrong. Gasly went from P3 to P7 based on those numbers.\n\nVerdict still pending. ⚖️\n\n#F1 #MonacoGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MonacoGP"
+          ],
+          "char_count": 265
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The FOM measured pitlane speeds incorrectly at Monaco.\n\nGasly: penalized. P3 → P7.\nPiastri: served his penalty mid-race, lost the right to appeal.\n\nNow the ICA decides whether the Monaco result stands.\n\nF1 officiating in 2026 is something else. 🏎️\n\n#F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-monaco-gp-fia-court-hearing.html",
+        "headline": "The 2026 Monaco GP Result May Not Be Final — FIA Court Hears FOM's Measurement Error",
+        "word_count": 444
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Monaco GP FIA Court Hearing\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search Term:** `Pierre Gasly Alpine F1`\n- **Caption Overlay:** MONACO REVISITED | FIA Court Hearing Aug 25 | Gasly P3 → P7?\n- **Mood:** Justice, controversy\n- **Usage:** X + Facebook feed\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search Term:** `Oscar Piastri McLaren F1`\n- **Caption Overlay:** Monaco GP Result In Doubt — FOM Measurement Error\n- **Mood:** Dramatic, contentious\n- **Usage:** Article featured image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Monaco GP FIA Court Hearing — August 25\n**Verified Facts (HIGH confidence):**\n- FIA International Court of Appeal (ICA) held a hearing on August 25, 2026, in Paris at FIA headquarters\n- The hearing was behind closed doors\n- The dispute involves the 2026 Monaco Grand Prix result\n- FOM (Formula One Management) admitted there was an error in pitlane distance measurement, which caused average speeds to be over-reported\n- Pierre Gasly (Alpine) received two time penalties for speeding in the pitlane at Monaco based on these inaccurate readings\n- Gasly originally finished 3rd on the road; the penalties dropped him to 7th\n- McLaren's Oscar Piastri made an additional pitstop to serve his penalty before the race ended, which meant McLaren could not appeal the penalty\n- Both McLaren and Red Bull appealed the Monaco GP result\n- Verdict expected after the August 25 hearing; could change Monaco race classification\n**Verified Facts (MEDIUM confidence):**\n- Lewis Hamilton issued a \"responsibility\" statement as the ICA hearing got underway\n- The Piastri penalty affected McLaren's scoring in a key championship round\n**Source:** FIA.com, RacingNews365, Yahoo Sports, autosport.com, crash.net, gpfans.com",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Antonelli Takes Grid Penalty at Home — Mercedes Strategy at Monza",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Kimi Antonelli turns 20 today.\n\nHis gift: starting his home Italian GP from the back of the grid.\n\nMercedes confirmed the engine change penalty at Monza (Sept 4-6). The championship leader starts last.\n\nHappy birthday. 🎂🏎️\n\n#F1 #ItalianGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#ItalianGP"
+          ],
+          "char_count": 238
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Championship leader. Grid penalty. Home race. Back of the grid.\n\nThat's Kimi Antonelli at Monza.\n\nMercedes says the fresh engine is worth it. They're betting a points hit now for performance later.\n\n59-point lead gives him some cushion. He'll need it. 🏎️\n\n#F1 #ItalianGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#ItalianGP"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-antonelli-grid-penalty-monza.html",
+        "headline": "Happy Birthday, Kimi: Antonelli Starts His Home Race From the Back at Monza",
+        "word_count": 418
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli Grid Penalty at Monza\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search Term:** `Kimi Antonelli Mercedes F1`\n- **Caption Overlay:** HAPPY BIRTHDAY KIMI | Grid Penalty at Monza | Sept 4-6\n- **Mood:** Bold, dramatic\n- **Usage:** X + Facebook feed\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search Term:** `Kimi Antonelli Formula 1`\n- **Caption Overlay:** Antonelli: Starting Last at Home in Monza\n- **Mood:** Challenger, underdog moment\n- **Usage:** Article featured image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli Grid Penalty at Monza\n**Verified Facts (HIGH confidence):**\n- Kimi Antonelli will take a grid penalty at the 2026 Italian Grand Prix (Monza, September 4-6)\n- Penalty is due to taking a new power unit beyond the allowed season allocation\n- Mercedes boss Toto Wolff confirmed the decision\n- Penalty will likely exceed 10 grid places\n- Antonelli's birthday is August 25, 2026 — he turns 20 years old\n- Monza is considered Antonelli's home race (he is Italian, from Bologna)\n- Mercedes views the fresh engine as a strategic asset for the remainder of the season\n- Antonelli leads the championship with 242 points\n**Verified Facts (MEDIUM confidence):**\n- A new power unit beyond the allocation trigger automatic grid penalties under F1 regulations\n- Mercedes strategy: absorb penalty at a high-speed track (where overtaking is easier) to gain engine advantage in remaining races\n**Source:** Sky Sports F1, grandprix247.com, grandepremio.com",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Ferrari Pulls the ADUO-2 Trigger at Monza — Hamilton's Title Shot",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Ferrari's ADUO-2 engine upgrade debuts at Monza.\n\nRoughly 15 extra horsepower. At the highest-top-speed circuit in F1.\n\nAntonelli starting from the back. Hamilton with a new engine.\n\nMonza just became the most important race of 2026. 🏎️\n\n#F1 #ItalianGP #Ferrari",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#ItalianGP",
+            "#Ferrari"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-ferrari-aduo2-monza-hamilton.html",
+        "headline": "Ferrari's ADUO-2 Upgrade Arrives at Monza — and Hamilton Has a Title Shot",
+        "word_count": 404
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ferrari ADUO-2 at Monza\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search Term:** `Lewis Hamilton Ferrari F1`\n- **Caption Overlay:** FERRARI ADUO-2 | +15HP at Monza | Hamilton's Title Moment\n- **Mood:** Power, championship\n- **Usage:** X + Facebook feed\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search Term:** `Ferrari Formula 1 Monza`\n- **Caption Overlay:** Ferrari's Engine Upgrade Could Swing the Championship\n- **Mood:** Ambition, speed\n- **Usage:** Optional article featured image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Ferrari ADUO-2 Engine at Monza\n**Verified Facts (HIGH confidence):**\n- Ferrari is introducing the ADUO-2 engine upgrade for the 2026 Italian Grand Prix at Monza\n- Upgrade is estimated at approximately 15 additional horsepower\n- Lewis Hamilton will benefit from this upgrade at Monza\n- Hamilton is 53 points behind championship leader Antonelli (Hamilton 183pts vs Antonelli 242pts)\n- Antonelli will start from the back of the grid at Monza due to grid penalty\n- Monza features the lowest-downforce, highest-top-speed setups of the F1 season — horsepower is maximally valuable here\n- Monza is Ferrari's home circuit (the team is based in Maranello, ~25km from Monza)\n**Verified Facts (MEDIUM confidence):**\n- Hamilton race at Monza in Ferrari red will be his first (joined Ferrari for 2026)\n- Ferrari's ADUO-2 could shift the championship picture if Hamilton wins and Antonelli finishes poorly\n**Source:** gpblog.com, grandepremio.com, Sky Sports F1",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "2026 F1 Championship Standing — Norris Narrows the Gap",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "2026 F1 standings after Zandvoort:\n\n🥇 Antonelli: 242 pts\n🥈 Russell: 183 pts\n🥉 Hamilton: 183 pts (Russell leads tiebreaker)\n4. Norris: 159 pts\n\n11 races left. 59-point lead.\n\nMonza could shift all of this. Watch Sept 6. 🏎️\n\n#F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-f1-2026-championship-standings.html",
+        "headline": "2026 F1 Championship Standings: Antonelli Leads by 59 With 11 Races Left",
+        "word_count": 414
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Championship Standings\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search Term:** `Kimi Antonelli Mercedes Formula 1`\n- **Caption Overlay:** 2026 F1 STANDINGS | Antonelli 242 | Russell 183 | Hamilton 183 | Norris 159\n- **Mood:** Scoreboard, competition\n- **Usage:** X + Facebook feed\n\n#### Image Concept 2 — Social (1080x1350)\n- **Search Term:** `Formula 1 race field`\n- **Caption Overlay:** 11 Races Left | 59-Point Lead | Monza Awaits\n- **Mood:** Tension, countdown\n- **Usage:** Facebook alternate\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "2026 Championship Standings\n**Verified Facts (HIGH confidence):**\n- After Dutch GP (Round N, Zandvoort, August 24, 2026):\n- Kimi Antonelli: 242 points (championship leader)\n- George Russell: 183 points\n- Lewis Hamilton: 183 points (Russell tiebreaker: 2 wins vs Hamilton's fewer wins)\n- Lando Norris: 159 points\n- Antonelli's lead over Russell: 59 points\n- 11 races remain after the Dutch GP\n- Norris won the Dutch GP; Russell finished P3; Verstappen crashed on lap 1\n- Antonelli has 6 wins and 6 pole positions in 2026\n**Source:** From previous pipeline research (verified Aug 23-25)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Oscar Piastri's Troubling 2026 — McLaren's Floor Mystery",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "McLaren: Oscar Piastri's 2026 struggles are a floor issue, not a driver issue.\n\nThe 2025 World Champion is getting outpaced by Norris week after week.\n\nMcLaren says it's the car. Piastri deserves to be believed. 🏎️\n\n#F1 #McLaren",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#McLaren"
+          ],
+          "char_count": 228
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-piastri-mclaren-floor-issues.html",
+        "headline": "McLaren Points to the Floor: Oscar Piastri's 2026 Struggles Have a Technical Explanation",
+        "word_count": 419
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Oscar Piastri Floor Issues\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search Term:** `Oscar Piastri McLaren`\n- **Caption Overlay:** IT'S THE FLOOR | McLaren on Piastri's 2026 | Technical Fix Incoming\n- **Mood:** Diagnosis, frustration\n- **Usage:** X + Facebook feed\n\n#### Image Concept 2 — Social (1080x1350)\n- **Search Term:** `Lando Norris McLaren F1`\n- **Caption Overlay:** Norris Wins While Piastri Waits | McLaren's Floor Problem Explained\n- **Mood:** Contrast, technical depth\n- **Usage:** Facebook alternate"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Oscar Piastri Technical Issues\n**Verified Facts (HIGH confidence):**\n- McLaren has offered technical insight into Oscar Piastri's 2026 performance struggles\n- Piastri is underperforming compared to teammate Lando Norris this season\n- McLaren identified floor-related issues affecting Piastri's car specifically\n- Norris has been winning races while Piastri trails in the standings\n**Verified Facts (MEDIUM confidence):**\n- Piastri was the 2025 F1 World Champion (defending champion)\n- The floor issue is described as a car-specific problem, not a driver form issue\n- McLaren is working to resolve the issue before the Italian GP\n**Source:** RacingNews365",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
