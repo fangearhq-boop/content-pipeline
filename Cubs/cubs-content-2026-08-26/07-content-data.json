@@ -1,0 +1,223 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-26",
+  "compiled_at": "2026-08-26T09:24:58.042339+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM CT",
+      "description": "Game 2 Recap — Holmes gem, bullpen collapse",
+      "type": "Informative"
+    },
+    {
+      "time": "8:15 AM CT",
+      "description": "Holmes appreciation — 26 IP, 1 ER last 4 starts",
+      "type": "Bold"
+    },
+    {
+      "time": "9:30 AM CT",
+      "description": "Wild Card standings — D-backs on the bubble",
+      "type": "Stat Breakdown"
+    },
+    {
+      "time": "12:00 PM CT",
+      "description": "Series finale preview — Boyd vs Rodriguez, 2:40 PM CT",
+      "type": "Informative"
+    },
+    {
+      "time": "1:15 PM CT",
+      "description": "Roster move — Taillon DFA, Wantz up",
+      "type": "Roster News"
+    },
+    {
+      "time": "2:30 PM CT",
+      "description": "First pitch hype — rubber game, 2:40 PM CT",
+      "type": "Bold/Hype"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Holmes Gem Wasted — Bullpen Blows 4-0 Lead, Series Tied",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Holmes threw 7 scoreless innings (5 K, 0 ER) but the bullpen collapsed. Palencia allowed 3 in the 8th; Waldschmidt pinch-hit walk-off 2-run homer in the 9th. Per has_score=False insight, leads with Holmes' stat line — NOT the 5-4 final. Series now TIED 1-1.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Seven scoreless innings. Five strikeouts. Zero earned runs.\n\nHolmes was masterful — 1 ER in 26 innings across his last four starts.\n\nThe bullpen handed it back in the eighth and ninth.\n\nSeries tied. Rubber game today at 2:40 PM CT.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative / Game Recap",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Clay Holmes Deserves Better — 26 IP, 1 ER Across Last 4 Starts",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Holmes has been quietly elite all month. 26 innings, 1 earned run across his last four starts is ace-level production. He pitched brilliantly and took the no-decision. Bold fan take: he's building his October case.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Clay Holmes deserves better.\n\nSeven scoreless innings Tuesday. Walked off by the bullpen.\n\nLast four starts: 26 innings, 1 earned run. That's what ace-level pitching looks like.\n\nHe's making his case for October.\n\n#Cubs #MLB #ChicagoCubs",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold / Fan Energy",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#ChicagoCubs"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Wild Card Standings — D-backs Chasing WC3, Rubber Game Has Real Stakes",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Full NL Wild Card standings table. Cubs WC1 (76-57), Phillies WC2 (73-59), Padres WC3 (71-61), D-backs bubble (70-63). Today's rubber match is a direct battle against a WC competitor.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "NL Wild Card entering Wednesday:\n\nWC1: Cubs 76-57\nWC2: Phillies 73-59\nWC3: Padres 71-61\nOn the bubble: D-backs 70-63 (today's opponent)\n\nThis afternoon's rubber game is worth more than just a series win. Arizona's hunting the same postseason spot.\n\n#Cubs #MLB #NorthSiders",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Informative / Stat Breakdown",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#NorthSiders"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Series Finale Preview — Boyd vs Rodriguez, 2:40 PM CT",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Head-to-head pitcher breakdown: Boyd (8-2, 4.15 ERA) vs Rodriguez (10-4, 2.71 ERA). Rodriguez has the edge on ERA but Boyd's 8 wins show effectiveness. Rubber match energy.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Rubber game. Chase Field. 2:40 PM CT.\n\nBoyd (8-2, 4.15 ERA) vs E-Rod (10-4, 2.71 ERA).\n\nRodriguez has the edge on paper. Boyd's been tough when it matters — 8 wins for a reason.\n\nCubs took one. D-backs took one. Settle it this afternoon.\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Informative / Game Preview",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Roster Move — Taillon DFA'd, Wantz Up",
+      "tier": 3,
+      "status": "NEW STORY",
+      "angle": "Cubs tighten the October roster. With Boyd, Gausman, Holmes, Imanaga all healthy, Taillon was redundant. Wantz adds bullpen depth — especially relevant after last night's bullpen collapse.",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Cubs DFA Jameson Taillon, call up Andrew Wantz.\n\nWith Boyd, Gausman, Holmes, and Imanaga all healthy — Taillon's roster spot was never safe.\n\nWantz adds bullpen depth for the stretch run. Especially timely after last night.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Informative / Roster News",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "First Pitch Hype — Rubber Game, 2:40 PM CT",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Series tied. Boyd on the mound. Cubs' 2.5-game WC1 lead on the line vs a direct bubble team. Simple, punchy game-time energy.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Boyd. Chase Field. Rubber game.\n\nThe Cubs and D-backs each took one. Now 9 innings decide the series — and Chicago's 2.5-game WC1 lead.\n\n2:40 PM CT. Let's go.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Bold / Pre-Game Hype",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 182
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

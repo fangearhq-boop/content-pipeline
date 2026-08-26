@@ -6376,3 +6376,55 @@ Each day's stories are appended at the top (newest first).
 - **Content Produced:** X Text Post (1 post — 5:00 PM CT, bold/hype)
 - **Follow-Up Opportunities:**
   - Game result recap (tomorrow morning)
+
+---
+
+## 2026-08-26
+
+### STORY 1: Holmes Gem Wasted — Bullpen Blows 4-0 Lead, Series Tied
+- **Angle:** NEW STORY (Game 2 recap: Holmes 7 IP, 5 K, 0 ER; Cubs led 4-0; Palencia allowed 3 in 8th; Waldschmidt pinch-hit walk-off 2-run HR in 9th. Series TIED 1-1. Per has_score=False insight, led with Holmes stat line not 5-4 final.)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - Series finale result recap (tomorrow morning)
+  - Holmes next start result (vs upcoming opponent)
+  - Bullpen accountability follow-up if struggles continue
+
+### STORY 2: Clay Holmes Appreciation — 26 IP, 1 ER Across Last 4 Starts
+- **Angle:** NEW STORY (Bold take: Holmes has been ace-level for a month. 1 ER in 26 innings across last 4 starts. He pitched brilliantly and took a no-decision. Building October case.)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold/fan energy)
+- **Follow-Up Opportunities:**
+  - Holmes next start / season ERA tracking
+  - October playoff start role announcement
+
+### STORY 3: Wild Card Standings — Cubs WC1, D-backs On Bubble
+- **Angle:** FOLLOW UP (Full NL WC table: Cubs 76-57 WC1, Phillies 73-59 WC2, Padres 71-61 WC3, D-backs 70-63 on bubble. Today's rubber game = direct WC competitor battle.)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, stat breakdown)
+- **Follow-Up Opportunities:**
+  - Wild Card standings update after series finale result
+  - D-backs elimination scenario (if Padres extend lead)
+
+### STORY 4: Series Finale Preview — Boyd vs Rodriguez, 2:40 PM CT
+- **Angle:** NEW STORY (Rubber match: Boyd 8-2, 4.15 ERA vs Rodriguez 10-4, 2.71 ERA. Chase Field, 2:40 PM CT. Rodriguez has ERA edge but Boyd has wins. Settle-it-this-afternoon energy.)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Series finale result recap (tomorrow morning)
+  - Boyd start stats after today's appearance
+
+### STORY 5: Roster Move — Taillon DFA'd, Wantz Up
+- **Angle:** NEW STORY (Jameson Taillon DFA'd, Andrew Wantz called up. October rotation (Boyd/Gausman/Holmes/Imanaga) made Taillon redundant. Bullpen depth added post-collapse.)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, roster news)
+- **Follow-Up Opportunities:**
+  - Taillon claimed/released status
+  - Wantz performance in September
+
+### STORY 6: First Pitch Hype — Rubber Game, 2:40 PM CT
+- **Angle:** NEW STORY (Series tied. Boyd on mound. Cubs 2.5-game WC1 lead vs direct bubble team. Simple game-time energy.)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, pre-game hype)
+- **Follow-Up Opportunities:**
+  - Series finale result recap (tomorrow morning)
