@@ -1,25 +1,17 @@
 {
-  "generated_at": "2026-08-25T08:30:00.479817+00:00",
-  "today_ct": "2026-08-25",
+  "generated_at": "2026-08-26T08:30:00.480052+00:00",
+  "today_ct": "2026-08-26",
   "off_day": false,
   "is_series_start_today": false,
   "series": {
     "opponent": "Arizona Diamondbacks",
     "opponent_id": 109,
-    "opponent_record": "69-63",
-    "cubs_record": "76-56",
+    "opponent_record": "70-63",
+    "cubs_record": "76-57",
     "is_cubs_home": false,
     "venue": "Chase Field",
-    "series_length": 2,
+    "series_length": 1,
     "games": [
-      {
-        "game_pk": "825042",
-        "game_date_iso": "2026-08-26T01:40:00Z",
-        "game_date_ct": "Tue 8:40 PM CT",
-        "cubs_probable": "TBD",
-        "opponent_probable": "TBD",
-        "status": "Preview"
-      },
       {
         "game_pk": "825039",
         "game_date_iso": "2026-08-26T19:40:00Z",
@@ -32,16 +24,16 @@
     "rationale": "Same opponent (Arizona Diamondbacks) as yesterday \u2014 this is mid-series, not a series opener."
   },
   "today_cubs_game": {
-    "game_pk": "825042",
+    "game_pk": "825039",
     "status": "Preview",
     "detailed_status": "Scheduled",
-    "game_date_iso": "2026-08-26T01:40:00Z",
-    "game_date_ct": "Tue 8:40 PM CT",
+    "game_date_iso": "2026-08-26T19:40:00Z",
+    "game_date_ct": "Wed 2:40 PM CT",
     "is_cubs_home": false,
     "opponent_id": 109,
     "opponent_name": "Arizona Diamondbacks",
-    "opponent_record": "69-63",
-    "cubs_record": "76-56",
+    "opponent_record": "70-63",
+    "cubs_record": "76-57",
     "cubs_probable": "TBD",
     "opponent_probable": "TBD",
     "venue": "Chase Field"
