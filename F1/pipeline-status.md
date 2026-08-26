@@ -1,8 +1,18 @@
 # F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
-- **Date**: 2026-08-25
+- **Date**: 2026-08-26
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole)
+- **PostPlanner exports:** f1fr-postplanner-2026-08-26.xlsx (7 posts) + f1fr-postplanner-tobi-2026-08-26.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-08-26/review-dashboard.html (22 items)
+- **Notes:** MONACO FIA HEARING — ICA heard Aug 25 in Paris; FOM admitted pitlane distance measurement error; Gasly P3→P7 based on inaccurate speeds; Piastri served penalty mid-race (no appeal right); verdict pending; ANTONELLI MONZA PENALTY — Grid penalty at Italian GP (Sept 4-6) for engine beyond allocation; turns 20 on Aug 25; likely 10+ place drop at home race; Mercedes strategic call; FERRARI ADUO-2 — ~15hp upgrade debuts at Monza; Hamilton 53pts behind Antonelli with Antonelli starting last; best title opportunity yet; F1 STANDINGS — Antonelli 242, Russell 183, Hamilton 183 (Russell tiebreaker), Norris 159; 59pt lead; 11 races remain; PIASTRI FLOOR — McLaren confirmed floor-specific issue affecting Piastri's car (not Norris's); 2025 champion underperforming for technical reasons
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+### 2026-08-25
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)
 - **X Posts:** 6 written, all under 280 characters
 - **Facebook Posts:** 5 stories, long-form + caption each
