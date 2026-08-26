@@ -2613,3 +2613,42 @@
   - WordPress proxy error: same environment restriction as all prior runs
   - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
   - Story history: Updated with all 5 stories
+
+---
+
+## Current Status (2026-08-26)
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 6 posts; 4 hashtags each; all under 280 chars (2nd verify run passed after S4 fix); 0 exclamation marks; COS voice rules |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts, 2 per story) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — YAML in markdown block; 10 images; all not_started; photo_source: gemini; brand_kit_id: kAHCKfCZgk0 |
+| Articles | COMPLETE | 5 articles (500-1000 words each); Quick Reference sections; What's Next sections; 0 exclamation marks; Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| Fact-Check | COMPLETE | verify-facts.py passed (2nd run after S4 tweet char fix); all stories present; 81 claims |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 6 X posts, 0 FB posts (parser compat), 5 articles, 10 images |
+| Dashboard | COMPLETE | review-dashboard.html — 21 items |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-08-26.xlsx (6 posts 13:26–20:31 MT) + cosp-postplanner-tobi-2026-08-26.xlsx (6 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API (403 Forbidden) | Same environment restriction as all prior runs |
+| Story History | COMPLETE | 5 new entries appended to story-history.md |
+
+## Pipeline Run Log (2026-08-26)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 6 X posts in PostPlanner xlsx; posting windows 13:26–20:31 (85 min apart)
+- **Articles:** 5 (bylines: Sarah Morales x3 [S1, S3, S5], Jamie Rivera x2 [S2, S4])
+- **PostPlanner exports:** cosp-postplanner-2026-08-26.xlsx (6 posts), cosp-postplanner-tobi-2026-08-26.xlsx (6 TOBI posts)
+- **Coverage:** 2026 National Parent Survey quality time/childcare barriers (72%, 47% lower-income, 24% gig work); Goody King Magnetic Building Cubes CPSC recall (213,500 units, Amazon Jan 2024–Jul 2026, 2 surgeries, Yi Suen Commerce refund); COS back-to-school week check-in D11/D20/D49 (weeks 2-4); Garden of the Gods free nature detective program (animal tracks, scat, 1805 N. 30th St); Back-to-school sleep tips AAP guidelines (COS elevation 6,035 ft context)
+- **Notes:**
+  - verify-facts.py: S4 tweet char violation (285 chars) fixed on first pass; 2nd pass clean; 81 claims checked
+  - compile: 5 stories, 6 X posts, 0 FB posts (PostPlanner xlsx has full 6 posts), 5 articles
+  - Story 5 had no dedicated X post (covered in FB + article) — working as intended
+  - dashboard: 21 items
+  - PostPlanner exports: both standard (6) and TOBI (6) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Story history: Updated with all 5 stories (Aug 26 entries)

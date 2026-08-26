@@ -6339,3 +6339,53 @@
 - **Tier:** 2
 - **Key Facts (HIGH):** US Olympic Museum: 1 Olympic Plaza, daily noon; Garden of Gods: free, 1805 N 30th St; Cheyenne Mountain SP: 410 JL Ranch Heights Rd; Library 21c: 1175 Chapel Hills Dr; Old Colorado City: 2418 W. Pikes Peak Ave; Cheyenne Mountain Library: 1785 S. 8th St; Sources: visitcos.com, ppld.org, springseventhub.com
 - **Follow-Up Opportunities:** September family events roundup; CMZoo fall programming
+
+### Story 1: 2026 National Parent Survey — Quality Time
+- **Date:** 2026-08-26
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — 2026 national survey of 1,000 U.S. parents: 72% wish for more quality time with children; top barrier is child care costs. Among lower-income parents: 47% say financial barriers prevent spending time as desired; 24% switched to gig work for schedule flexibility. Colorado childcare context: CCAP available at 719-444-5000.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** 72% wish more quality time; childcare costs No. 1 barrier; 47% lower-income financial barriers; 24% gig work for flexibility; CCAP: 719-444-5000; Sources: 2026 National Parent Survey (web research)
+- **Follow-Up Opportunities:** Local COS childcare cost data; CCAP enrollment numbers
+
+### Story 2: Goody King Magnetic Building Cubes Recall
+- **Date:** 2026-08-26
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recall of 213,500 Goody King Magnetic Building Cube sets sold on Amazon January 2024–July 2026 by Yi Suen Commerce. Sets of 45/56/100/120/150/300 cubes. High-powered magnets can be released; two children required surgery after ingestion. Stop using immediately; contact Yi Suen Commerce for full refund + prepaid return shipping. Distinct from Aug 24 coverage (ABC Trading + Gagaku recalls).
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** 213,500 units recalled; sold Amazon Jan 2024–Jul 2026; Yi Suen Commerce; sets of 45/56/100/120/150/300 cubes; 2 surgeries; full refund + prepaid return shipping; Sources: CPSC.gov
+- **Follow-Up Opportunities:** CPSC portal next week for new recalls
+
+### Story 3: COS Back-to-School Week Check-In — D11, D20, D49
+- **Date:** 2026-08-26
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — District-by-district check-in: D49 (started Aug 3-4) in week 4; D11 (started Aug 12) in week 3 with Monday late starts continuing all year; D20 (started Aug 17-18) in week 2. D49 Student Success Center operational. D11 enrollment still open at d11.org / 1033 N. Franklin St. D11+D20: ParentSquare communications platform. D49: d49.org family portal. First parent-teacher conferences in October.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** D49 week 4 (Aug 3-4 start); D11 week 3 (Aug 12 start); D20 week 2 (Aug 17-18 start); D11 enrollment: d11.org / 1033 N. Franklin St Mon-Fri 8AM-4PM MT; Sources: d11.org, d20.org, d49.org
+- **Follow-Up Opportunities:** First parent-teacher conferences (October); D49 SSC preschool enrollment numbers
+
+### Story 4: Garden of the Gods Free Nature Programs
+- **Date:** 2026-08-26
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Garden of the Gods (1805 N. 30th St, Colorado Springs): free year-round entry and parking. Nature detective program for children: animal tracks, scat, wildlife signs. Visitor and Nature Center starting point. Early morning visits recommended (before 10 AM). Dogs welcome on leash. Pairs well with Cheyenne Mountain State Park (410 JL Ranch Heights Rd) and Colorado Farm and Art Market at Alamo Square (Wednesdays through Oct 9).
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** 1805 N. 30th St; free entry + parking; Cheyenne Mountain SP: 410 JL Ranch Heights Rd; Sources: gardenofgods.com, web research
+- **Follow-Up Opportunities:** Fall programming schedule; October nature events
+
+### Story 5: Back-to-School Sleep Tips for Colorado Springs Families
+- **Date:** 2026-08-26
+- **Content Pillar:** Evergreen
+- **Angle:** NEW STORY — AAP sleep recommendations: ages 6-12 need 9-12 hrs/night; teens 13-18 need 8-10 hrs; preschoolers 3-5 need 10-13 hrs (including naps). Strategies: shift bedtime 15 min earlier every 2-3 days; screen cutoff 30-60 min before bed (AAP guidance); morning light exposure. COS elevation factor: 6,035 ft can affect sleep quality. Resource: healthychildren.org. D11/D49 families may be approaching the 4-6 week stabilization window.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only; no dedicated X post — covered in FB + article)
+- **Tier:** 2
+- **Key Facts (HIGH):** AAP: 6-12 yrs 9-12 hrs; 13-18 yrs 8-10 hrs; 3-5 yrs 10-13 hrs; screen cutoff 30-60 min; COS elevation 6,035 ft; healthychildren.org; Sources: AAP, web research
+- **Follow-Up Opportunities:** October sleep check-in as routines solidify
