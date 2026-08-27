@@ -1,0 +1,247 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-27",
+  "compiled_at": "2026-08-27T09:23:24.413094+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Series Finale Recap — D-backs 2, Cubs 0 (Aug 26)",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Eduardo Rodriguez: 9 strikeouts in 7 innings. Boyd was solid — the offense just couldn't touch E-Rod.\n\nCubs drop the series finale 2-0. Went 1-2 in Arizona after Gausman's G1 gem.\n\nBack to Wrigley. Reds come to town Friday.\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative / Game Recap",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 3,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Series Finale Recap — D-backs 2, Cubs 0 (Aug 26)\n**Key Facts:**\n- Final: D-backs 2, Cubs 0\n- D-backs starter: Eduardo Rodriguez — 7 IP, 9 K, dominant\n- Cubs starter: Matthew Boyd — started, gave up 2 runs; pitched decently enough\n- PCA stranded on base after controversial non-balk call (6th inning) that would have scored him\n- Cubs offense was suppressed; very few baserunners vs. Rodriguez\n- D-backs scored one run in early innings and added another in the 8th\n- Series result: Cubs went 1-2 in Arizona (won G1 7-0, split the road trip)\n- Cubs record: ~76-57 entering off day (Aug 27)\n**Sources:**\n- Bleacher Nation: \"Enhanced Box Score: Diamondbacks 2, Cubs 0 - August 26, 2026\" (bleachernation.com)\n- ESPN box score: espn.com/mlb/boxscore/_/gameId/401816689\n- Fox Sports live score page (foxsports.com) — confirmed D-backs 2, Cubs 0\n- UrbanMatter game preview: described the finale as Cubs' \"toughest test of the week\"\n**Confidence:**\n- Final score (D-backs 2, Cubs 0): HIGH — multiple sources\n- E-Rod 9 Ks in 7 IP: MEDIUM — from AI search summary, not box score fetch\n- Boyd started: HIGH — confirmed by multiple sources including game preview and forum\n- PCA non-balk controversy: MEDIUM — mentioned in search summary only\n**Flags:**\n- E-Rod's exact line (9 K, 7 IP) needs verification if used as a hard stat in tweet\n- Boyd's final line not confirmed (pitched \"well enough to win\" per AI summary)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Swanson Injury Update — Oblique Strain Threatens Season",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Dansby Swanson's Grade 2 oblique strain likely ends his regular season.\n\nHoerner moves to shortstop. Ramirez takes over at second. The defense holds.\n\nSwanson could make it back for October — but first, the Cubs need to get there.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold Take / Roster News",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 3,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Swanson Injury Update\n**Key Facts:**\n- Dansby Swanson: Grade 2 left oblique strain\n- Placed on 10-day IL after leaving Aug 17 Cardinals game (awkward swing, 3rd inning)\n- Timeline: 4-6 weeks — could miss remainder of regular season (ends ~Sept 27)\n- Postseason possible if Cubs clinch early enough\n- Nico Hoerner: shifted from 2B to SS to cover\n- Pedro Ramirez: promoted to starting 2B role\n- Kevin Alcántara (OF) and Owen Miller (INF) recalled from Iowa to fill roster spots\n**Sources:**\n- MLB Trade Rumors: \"Cubs To Place Dansby Swanson On 10-Day IL Due To Oblique Injury\"\n- Yahoo Sports: \"Cubs' Dansby Swanson reportedly expected to miss 4-6 weeks\"\n- Washington Post: \"Cubs shortstop Dansby Swanson will miss about a month\"\n- mlb.com news: official IL placement announcement\n- TSN: TSN report confirmed Grade 2 strain\n**Confidence:**\n- IL placement: HIGH — multiple credible sources\n- 4-6 week timeline: HIGH — multiple outlets\n- Grade 2 oblique: HIGH (TSN specific report)\n- Hoerner to SS: HIGH — confirmed by multiple sources\n- Ramirez to 2B: HIGH — confirmed\n- Alcántara + Miller recalled: HIGH — mlb.com press release",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Pete Crow-Armstrong MVP Watch",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Pete Crow-Armstrong leads EVERY player in baseball with 7.9 bWAR.\n\n33 HR. 155 OPS+. .278 average. 29 of 37 MLB experts have him as NL MVP.\n\nThe NL hasn't seen a Cubs season like this in decades. Give him the trophy.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Informative / Stat Breakdown",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 5,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Pete Crow-Armstrong MVP Watch\n**Key Facts:**\n- bWAR: 7.9 (leads all of baseball per Baseball Reference)\n- HR: 33\n- AVG: .278\n- OPS+: 155\n- Stolen bases: 30+ (was 30-for-37 around mid-August)\n- Earlier August slash: .277/.375/.530, .905 OPS\n- Expert vote: 29 of 37 MLB experts vote PCA as NL MVP (Yahoo Sports)\n- Leads baseball in fWAR (Axios, Forbes, Baseball Reference)\n- Aug 17 Crosstown Classic: 4-for-5, 2 HR (leadoff + walk-off), 3 RBI in 7-5 W\n- Recent cold stretch around Aug 12: 4-for-36 in 8 games (OPS dipped ~30 pts)\n- Competition: Shohei Ohtani (AL) — some outlets framing close NL race\n**Sources:**\n- Baseball Reference player page\n- Yahoo Sports: 37-expert vote breakdown\n- SI.com: \"All the Historic Numbers From Pete Crow-Armstrong's MVP Night\"\n- Axios Chicago (Aug 10): PCA NL MVP case\n- Forbes (Aug 19): \"Dazzling Pete Crow-Armstrong Strengthens MVP Case\"\n**Confidence:**\n- bWAR 7.9 / leads baseball: HIGH — from Baseball Reference\n- 33 HR: HIGH — confirmed in multiple stories\n- .278 avg / 155 OPS+: HIGH — Baseball Reference\n- 29/37 experts: HIGH — Yahoo Sports\n- Aug 17 stats (4-for-5, 2 HR, 3 RBI): HIGH — multiple sources mentioning this game",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Wild Card Watch — Cubs Sitting Pretty at 76-57",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Cardinals are 66-66. It's almost September.\n\nCubs are 76-57, holding WC1 — 19 games above .500. Phillies and Padres are the real October competition.\n\nSt. Louis is just noise at this point.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Analysis / Rival Watch",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 214
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 2,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Wild Card Watch\n**Key Facts:**\n- Cubs: 76-57 (WC1, NL's No. 4 seed)\n- Phillies: 73-60 (WC2)\n- Padres: 71-62 (WC3)\n- D-backs: 1 game back of WC3 (approximately 70-62 or 71-63)\n- Cardinals: 66-66 — losing ground (Aug 26 loss to Orioles 8-7)\n- Brewers: Lead NL Central, beat Mets 8-1 on Aug 26\n**Sources:**\n- sportbusy.com: \"MLB Standings 2026 (August 26, 2026)\"\n- Fox Sports standings\n- CBS Sports wild card update\n- ESPN NL Wild Card standings\n**Confidence:**\n- Cubs 76-57 WC1: HIGH — confirmed by multiple sources\n- Phillies 73-60: HIGH — CBS Sports\n- Padres 71-62: MEDIUM — approximate from search summary\n- Cardinals 66-66: HIGH — matches story history reference of 66-64 on Aug 23 + two losses\n- Brewers NL Central lead: HIGH — multiple sources",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Reds Series Preview — Cubs Return Home to Wrigley",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Cubs vs. Reds. 3 games at Wrigley starting Friday at 1:20 PM CT.\n\nCincinnati is 62-70. Cubs are slugging .554 this year.\n\nBack home. Time to stack some Ws.\n\n#Cubs #FlyTheW #GoCubs",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Informative / Game Preview",
+          "hashtags": [
+            "#Cubs",
+            "#FlyTheW",
+            "#GoCubs"
+          ],
+          "char_count": 179
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 3,
+        "claims_flagged": 2,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Reds Series Preview\n**Key Facts:**\n- Opponent: Cincinnati Reds (62-70 record)\n- Venue: Wrigley Field, Chicago\n- Dates: August 28-30, 2026\n- Game 1: Friday, August 28 at 1:20 PM CT (ESPN Unlmtd/MLB.TV)\n- Game 3: Sunday, August 30 — Sunday Night Baseball on Peacock/NBC (~7:00 PM CT)\n- Cubs team slash: .278/.376/.554\n- Reds team slash: .263/.336/.470\n- Cubs home record: 38-27\n- Reds away record: 30-34\n- Probable pitchers: Not confirmed from searches\n**Sources:**\n- SI.com: \"Cincinnati Reds vs Chicago Cubs Preview — August 28, 2026\"\n- Baseball-Reference.com: Aug 28, 29, 30 matchup previews\n- SeatGeek: 1:20 PM CT tip-off confirmed\n- Peacock schedule: Aug 30 Sunday Night Baseball confirmed\n**Confidence:**\n- Series dates/venue: HIGH\n- 1:20 PM first pitch Aug 28: HIGH — multiple ticket/preview sources\n- Teams' records: HIGH\n- Team slash lines: MEDIUM — from search summary (not direct fetch)\n- Sunday Night Baseball on Peacock Aug 30: HIGH — Peacock schedule",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Jaxon Wiggins Prospect Spotlight — Untouchable in Relief",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Jaxon Wiggins: 4 straight scoreless relief appearances for Iowa. ZERO hits allowed across all four outings.\n\nGrant Kipp went 3 innings with 7 strikeouts Tuesday.\n\nSeptember depth is building in Des Moines.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Informative / Prospect Update",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 2,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Jaxon Wiggins Prospect Spotlight\n**Key Facts:**\n- Jaxon Wiggins: Cubs' top pitching prospect; currently in relief role at Iowa\n- 4 consecutive scoreless relief appearances\n- ZERO hits allowed across all four outings\n- Aug 26 outing: 1 K, 1 BB, 0 H, 0 R (scoreless frame)\n- Not yet surrendered a hit in his relief stint\n**Grant Kipp:**\n- Iowa Cubs start Aug 25 vs. Omaha Storm Chasers\n- 3.0 IP, 2 H, 1 BB, 7 K (career-high K total in Triple-A)\n- 0 ER\n**Iowa Aug 26 result:** Lost to Omaha 9-6\n**Sources:**\n- OurSports Central: \"August 26 Game Notes: Iowa Cubs vs. Omaha Storm Chasers\"\n- OurSports Central: \"August 25 Game Notes: Iowa Cubs vs. Omaha Storm Chasers\"\n- Bleacher Nation prospects report Aug 24\n**Confidence:**\n- Wiggins 4 consecutive scoreless appearances / 0 hits allowed: HIGH — OurSports Central game notes\n- Kipp 7 K career-high: HIGH — OurSports Central game notes\n- Iowa Aug 26 loss (9-6): HIGH — OurSports Central\n**Flag:**\n- \"Career-high K total in Triple-A\" for Kipp — need to verify if this exact phrasing was in notes or inferred; MEDIUM confidence on superlative",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

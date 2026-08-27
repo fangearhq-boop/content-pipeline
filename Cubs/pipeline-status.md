@@ -1,48 +1,48 @@
-# Cubs Pipeline Status — Updated 2026-08-26
+# Cubs Pipeline Status — Updated 2026-08-27
 
 ## Latest Run
-- **Date:** 2026-08-26 (Wednesday — GAME DAY, Series Finale Game 3 of 3 at Arizona Diamondbacks, Chase Field)
+- **Date:** 2026-08-27 (Thursday — OFF DAY, no Cubs game; Reds series opens at Wrigley tomorrow Aug 28)
 - **Run time:** ~09:00 UTC
 - **Stories:** 6
 - **X posts:** 6
 - **Platforms:** X/Twitter only
 - **Status:** ✅ Complete
 
-## Insights Summary (2026-08-26)
-- **Snapshot generated:** 2026-08-26T08:30:00Z (fresh, 30 min before trigger)
+## Insights Summary (2026-08-27)
+- **Snapshot generated:** 2026-08-27T08:30:00Z (fresh, 30 min before trigger)
+- **measured_tweet_count:** 126
 - **significant_findings count:** 2
-- **Finding 1:** `has_stat=True` beats `has_stat=False` — median impressions 103.5 vs 84.0, Cliff's delta=0.226 (small), p=0.035
-- **Finding 2:** `has_score=False` beats `has_score=True` — median impressions 104 vs 80.0, Cliff's delta=0.223 (small), p=0.034
-- **Applied:** (1) Every tweet includes ≥1 concrete numeric stat. (2) No tweet includes a final game score — Game 2 recap leads with Holmes' stat line (7 IP, 5 K, 0 ER in 26 innings over last 4 starts), not "D-backs 5-4." Finding 2 overrides brand-voice score-format rule.
+- **Finding 1:** `has_stat=True` beats `has_stat=False` — median impressions 103.5 vs 84.0, Cliff's delta=0.26 (small), p=0.0146
+- **Finding 2:** `has_score=False` beats `has_score=True` — median impressions 100.5 vs 80.0, Cliff's delta=0.223 (small), p=0.0349
+- **Applied:** (1) Every tweet includes ≥1 concrete numeric stat. (2) No tweet leads with or emphasizes a final game score — Aug 26 recap leads with Rodriguez's 9 K stat, not the 2-0 final. Both findings consistent with Aug 26 readings; signals remain stable.
 
-## Series Context (2026-08-26)
-- `is_series_start_today`: FALSE (mid-series, Game 3 rubber match)
-- `off_day`: FALSE — Series finale today, 2:40 PM CT at Chase Field
-- Opponent: Arizona Diamondbacks (70-63)
-- Cubs record: 76-57 (NL WC1)
-- Game 1 result: Cubs won (Gausman 7 IP, 6 K, 0 ER)
-- Game 2 result: D-backs won on Waldschmidt walk-off 2-run HR in 9th (Holmes 7 IP, 0 ER — bullpen blew 4-0 lead)
-- Series: TIED 1-1 heading into rubber match
-- Applied: No dedicated series-preview slot (is_series_start_today=FALSE). Series finale preview at 12:00 PM CT.
+## Series Context (2026-08-27)
+- `is_series_start_today`: FALSE
+- `off_day`: TRUE — No Cubs game today
+- `series`: null
+- `rationale`: "No upcoming Cubs game on today's CT calendar date."
+- Applied: 7:00 AM slot goes to overnight game recap (Aug 26 loss). No game-day hype slots. Lean into roster news, MVP watch, standings, prospect update.
 
-## Today's Content (2026-08-26)
+## Today's Content (2026-08-27)
 | Slot | Story | Tier |
 |------|-------|------|
-| 7:00 AM CT | Game 2 recap — Holmes gem, bullpen collapse, series tied | 1 |
-| 8:15 AM CT | Holmes appreciation — 26 IP, 1 ER last 4 starts | 2 |
-| 9:30 AM CT | Wild Card standings — Cubs WC1, D-backs on bubble | 2 |
-| 12:00 PM CT | Series finale preview — Boyd vs Rodriguez, 2:40 PM CT | 1 |
-| 1:15 PM CT | Roster move — Taillon DFA, Wantz up | 3 |
-| 2:30 PM CT | First pitch hype — rubber game, 2:40 PM CT | 2 |
+| 7:00 AM CT | Series finale recap — E-Rod 9 Ks, Cubs drop G3 0-2 | 1 |
+| 8:15 AM CT | Swanson injury — Grade 2 oblique, regular season likely done | 2 |
+| 9:30 AM CT | PCA MVP Watch — 7.9 bWAR leads baseball | 2 |
+| 10:45 AM CT | Wild Card Watch — Cubs 76-57 WC1, Cardinals 66-66 fading | 2 |
+| 12:00 PM CT | Reds series preview — Wrigley, Aug 28-30 | 2 |
+| 3:45 PM CT | Jaxon Wiggins — 4 straight scoreless outings, 0 hits allowed | 3 |
 
-## Previous Run (2026-08-25)
-- **Stories:** 7 | **X posts:** 7
+## Previous Run (2026-08-26)
+- **Stories:** 6 | **X posts:** 6
 - **Insights:** 2 significant findings (has_stat=True winner; has_score=False winner)
-- **Series context:** Game 2 of 3 at Arizona, 8:40 PM CT; Holmes vs Pfaadt
+- **Series context:** Game 3 rubber match at Arizona, 2:40 PM CT
 
 ## Cumulative Notes
-- Insights signals stable: has_stat=True and has_score=False both confirmed winners across two consecutive measured_tweet_count snapshots (127 measured tweets as of 8/26 vs 127 on 8/25).
-- Dansby Swanson (oblique, Grade 2): targeting mid-September return for postseason.
-- Justin Steele: late-September bullpen return.
-- Matt Shaw: rehab ongoing, September activation likely.
-- Taillon DFA'd (8/26 or prior) — October rotation set: Boyd/Gausman/Holmes/Imanaga.
+- Insights signals stable for 3 consecutive days: has_stat=True and has_score=False confirmed winners (measured_tweet_count now at 126).
+- Dansby Swanson (oblique, Grade 2, IL since Aug 17): 4-6 week timeline = likely misses regular season. Postseason return possible if Cubs clinch early. Hoerner at SS, Ramirez at 2B.
+- Justin Steele: threw 2 IP vs. live hitters Aug 25 — late-September bullpen return on track.
+- Matt Shaw: rehab ongoing at Iowa, September activation uncertain (chicitysports headline: "running out of time").
+- Ben Brown: bridge camp game Aug 25 — progressing.
+- Jaxon Wiggins: 4 straight scoreless relief outings, 0 hits allowed — September callup candidate.
+- October rotation: Boyd/Gausman/Holmes/Imanaga (Taillon DFA'd prior to Aug 26).

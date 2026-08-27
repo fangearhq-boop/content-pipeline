@@ -5,6 +5,58 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-27
+
+### STORY 1: Series Finale Recap — D-backs 2, Cubs 0 (Aug 26)
+- **Angle:** NEW STORY (Game 3 series finale at Chase Field; Eduardo Rodriguez 9 K / 7 IP gem vs Boyd; Cubs dropped series 1-2; per has_score=False insight, led with E-Rod's 9 Ks not the final score)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, morning recap)
+- **Follow-Up Opportunities:**
+  - Reds series result recap (through Aug 30)
+  - Boyd rotation health tracking for October
+
+### STORY 2: Dansby Swanson — Grade 2 Oblique, Regular Season Likely Over
+- **Angle:** FOLLOW UP (Grade 2 oblique strain, IL since Aug 17; 4-6 week timeline = misses regular season; Hoerner to SS, Ramirez at 2B; Alcántara + Owen Miller recalled; postseason return possible)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold/roster news)
+- **Follow-Up Opportunities:**
+  - Swanson postseason activation if Cubs clinch early
+  - Ramirez performance at 2B tracking
+
+### STORY 3: Pete Crow-Armstrong MVP Watch
+- **Angle:** FOLLOW UP (7.9 bWAR leads ALL of baseball; 33 HR, .278 avg, 155 OPS+; 29/37 MLB experts voting NL MVP; Sept run-up intensifies)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, stat breakdown)
+- **Follow-Up Opportunities:**
+  - PCA 35th HR milestone watch (2 behind)
+  - BBWAA MVP voting announcement (November)
+
+### STORY 4: Wild Card Watch — Cubs 76-57, Cardinals Fading at .500
+- **Angle:** FOLLOW UP (Cubs 76-57 WC1; Phillies 73-60 WC2; Padres 71-62 WC3; Cardinals 66-66 falling out; rival-jab content)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, analysis/rival watch)
+- **Follow-Up Opportunities:**
+  - Cardinals WC elimination watch (September)
+  - WC clinch magic number updates
+
+### STORY 5: Reds Series Preview — Cubs Host Cincinnati Aug 28-30 at Wrigley
+- **Angle:** NEW STORY (off-day preview; Cubs 76-57 vs Reds 62-70; 3 games at Wrigley; 1:20 PM CT first pitch Aug 28; Aug 30 Sunday Night Baseball on Peacock)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Game 1 result recap (Aug 28 evening / Aug 29 morning)
+  - Series result and WC standings update
+
+### STORY 6: Iowa Cubs Prospect Spotlight — Wiggins Untouchable in Relief
+- **Angle:** NEW STORY (Jaxon Wiggins 4 straight scoreless outings / 0 hits allowed; Grant Kipp 7 K on Aug 25; September depth building)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, prospect feature)
+- **Follow-Up Opportunities:**
+  - Wiggins September callup watch
+  - Kipp role in September rotation depth
+
+---
+
 ## 2026-08-25
 
 ### STORY 1: Game 1 Recap — Gausman Delivers 7-Inning Masterclass, Cubs Shut Out D-backs
