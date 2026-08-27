@@ -6012,3 +6012,45 @@
 - **Key facts:** 3yr/$97M, player option in Year 3; 3-team deal: Peyton Watson to Cavs, Max Strus to Clippers, unprotected 2031 Cavs 1st + 2032 SAC 2nd to Nuggets; Tre Mann to Wizards for Cam Whitmore + 2027 2nd; Dallas: 16 guaranteed contracts, must shed one; Klay Thompson trade buzz (open to LA)
 - **Status:** NEW
 - **Follow-up ideas:** Cavaliers training camp; Eastern Conference power rankings update
+
+## 2026-08-27
+| 2026-08-27 | T1 | France vs. Slovenia — Wemby Leads France Tonight at Paris Accor Arena | X(2), FB, Article | FOLLOW UP |
+| 2026-08-27 | T1 | Shaedon Sharpe Tears Meniscus — Out 6 Months, Blazers' Season on Hold | X(2), FB, Article | NEW |
+| 2026-08-27 | T2 | Stephen Curry Extension — 2 Days to August 29 Window | X(1), FB, Article | FOLLOW UP |
+| 2026-08-27 | T2 | NBA Opening Night 2026-27 — Knicks Raise the Banner, LeBron Debuts at MSG | X(1), FB, Article | NEW |
+| 2026-08-27 | T2 | Kawhi Leonard Trade — Resolution Expected ~September 22, Still on Hold | X(1), FB, Article | FOLLOW UP |
+
+### STORY 1: France vs. Slovenia — Wemby Leads France Tonight at Paris Accor Arena
+- **Tier:** 1
+- **Category:** FIBA / France National Team / Victor Wembanyama / San Antonio Spurs
+- **Key facts:** France 5-1 in Group L; Slovenia 3-3; Luka Doncic skipping (hamstring + family); Accor Arena Paris, tipoff 6:30 PM UTC; Wembanyama named France captain; next game: Sweden Aug 30
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Game result, Wemby stat line, France path to World Cup
+
+### STORY 2: Shaedon Sharpe Tears Meniscus — Out 6 Months
+- **Tier:** 1
+- **Category:** Portland Trail Blazers / Shaedon Sharpe / Ja Morant / NBA Injuries
+- **Key facts:** Right knee meniscus tear; surgery this week; 6-month recovery = return late Feb/early March 2027; career-high 20.8 ppg in 2025-26; Portland traded for Ja Morant; No. 7 pick 2022 Draft
+- **Status:** NEW
+- **Follow-up ideas:** Surgery update, Portland roster adjustments, return timeline
+
+### STORY 3: Stephen Curry Extension — 2 Days to Window
+- **Tier:** 2
+- **Category:** NBA Contracts / Golden State Warriors / Stephen Curry
+- **Key facts:** Extension window opens Aug 29 (2 days); 2yr/$136.7M max expected; GM Dunleavy "pretty confident"; Windhorst urges waiting; Curry UFA in 2027 if unsigned (first time ever); Christmas: Warriors vs Nuggets
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Extension signing announcement on/after Aug 29
+
+### STORY 4: NBA Opening Night 2026-27 — Knicks Banner, LeBron Debut
+- **Tier:** 2
+- **Category:** NBA Season Preview / New York Knicks / Philadelphia 76ers / LeBron James
+- **Key facts:** Oct 20 tripleheader on NBC; BOS at DET 3PM; PHI at NYK 7PM (Knicks raise first banner since 1973; LeBron+Jaylen Brown Philly debut at MSG); OKC at SA 9:30PM (WCF rematch); Christmas: Nuggets vs Warriors; Knicks won 2025-26 championship
+- **Status:** NEW
+- **Follow-up ideas:** Full schedule breakdown, contender power rankings
+
+### STORY 5: Kawhi Leonard Trade — Resolution Expected ~September 22
+- **Tier:** 2
+- **Category:** NBA Investigation / Kawhi Leonard / Los Angeles Clippers / Toronto Raptors
+- **Key facts:** Trade: Leonard to Toronto for Ingram+Dick+picks (agreed June 30); Aspiration+Daktronics investigations; Leonard personally cleared; Clippers sanctions expected; resolution ~Sept 22 (6 weeks from Aug 10); Toronto camp Sept 28 Quebec City; Kawhi operating under belief trade clears before camp
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Sanction announcement, trade official completion
