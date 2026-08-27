@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-08-27
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-08-27 | T1 | Tour Championship Round 1 Underway — Scheffler No. 1 Seed, $40M Purse, East Lake Atlanta, No Staggered Starts | X, FB, Article | NEW |
+| 2026-08-27 | T1 | LPGA FM Championship Round 1 Underway — Miranda Wang Defends Title at TPC Boston, Thitikul/Korda/Hull in Field | X, FB, Article | NEW |
+| 2026-08-27 | T2 | McIlroy FedExCup History Quest — Chasing Unprecedented 4th Title at East Lake, No Player Has Ever Done It | X, FB, Article | NEW |
+| 2026-08-27 | T2 | Scheffler Historic Season — 5 Straight No. 1 Seeds, 21 Career Wins, $23M Bonus, Seeking 2nd FedExCup | X, FB, Article | FOLLOW UP |
+| 2026-08-27 | T2 | LIV Golf 2027 Future Uncertain — Norman Won't Guarantee Season, Poulter Warns Time Running Out, 50+ Players Affected | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Tour Championship Round 1
+- **Tier:** 1
+- **Category:** PGA Tour / Tour Championship / FedExCup / East Lake / Scottie Scheffler / Tommy Fleetwood / Rory McIlroy / Matthew Fitzpatrick / Wyndham Clark
+- **Key facts:** Underway Aug 27-30 at East Lake GC Atlanta; $40M purse ($10M winner); 30-player field; no staggered starts (level par format); Scheffler No. 1 seed 5th straight year; 21st career win at FedEx St. Jude by 8 shots; Fitzpatrick No. 2; Clark No. 3 (BMW champ); Fleetwood defending; ESPN/Golf Channel
+- **Status:** NEW
+- **Follow-up ideas:** Tour Championship R1/R2/R3/R4 results; FedExCup champion crowned; Scheffler 2nd title
+
+### STORY 2: LPGA FM Championship Round 1
+- **Tier:** 1
+- **Category:** LPGA / FM Championship / TPC Boston / Miranda Wang / Jeeno Thitikul / Nelly Korda / Charley Hull
+- **Key facts:** Underway Aug 27-30 at TPC Boston Norton MA; $4.4M purse; Wang defending (won 2025 at -20, 1-shot over Thitikul); Thitikul/Korda/Hull in field
+- **Status:** NEW
+- **Follow-up ideas:** FM Championship R1/R2/R3/R4 results; Wang back-to-back or Thitikul revenge
+
+### STORY 3: McIlroy FedExCup History Quest
+- **Tier:** 2
+- **Category:** PGA Tour / FedExCup / Rory McIlroy / East Lake / Golf History
+- **Key facts:** 3x FedExCup champion (2016/2019/2022); Tiger Woods had 2; nobody has 4; 66th at Memphis, T3 at BMW; defending Masters champ; active chase at East Lake
+- **Status:** NEW
+- **Follow-up ideas:** McIlroy R1/R2/R3/R4 results; FedExCup champion story if McIlroy wins
+
+### STORY 4: Scheffler Historic Season
+- **Tier:** 2
+- **Category:** PGA Tour / Scottie Scheffler / FedExCup / East Lake / Golf Records
+- **Key facts:** 5 straight No. 1 seeds; 21 career wins; $23M bonus locked; FedExCup 2024 winner; seeking 2nd FedExCup; won FedEx St. Jude by 8 shots
+- **Status:** FOLLOW UP (from 2026-08-25/26)
+- **Follow-up ideas:** Scheffler Tour Championship results; 2nd FedExCup title story
+
+### STORY 5: LIV Golf 2027 Uncertainty
+- **Tier:** 2
+- **Category:** LIV Golf / Greg Norman / Ian Poulter / Jon Rahm / Michael La Sasso / Golf Future
+- **Key facts:** 2026 season ended Indianapolis; La Sasso won final (18-under, beat Rahm by 1); Rahm 3rd straight individual title; Legion XIII team title; Norman declined to guarantee 2027; Poulter warned LIV may run out of time; 50+ players' futures uncertain
+- **Status:** FOLLOW UP (from 2026-08-25/26)
+- **Follow-up ideas:** LIV 2027 announcement or shutdown; player departures/returns to PGA Tour
+
 ## 2026-08-25
 
 | Date | Tier | Story | Platforms | Status |

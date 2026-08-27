@@ -1,8 +1,18 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
-- **Date**: 2026-08-26
+- **Date**: 2026-08-27
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 8 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** gfr-postplanner-2026-08-27.xlsx (8 posts) + gfr-postplanner-tobi-2026-08-27.xlsx (8 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-08-27/review-dashboard.html (18 items)
+- **Notes:** TOUR CHAMPIONSHIP R1 — Underway at East Lake GC Atlanta (Aug 27-30); $40M purse ($10M winner); 30 players; no staggered starts (level par); Scheffler No. 1 seed 5th straight year; 21st career win at FedEx St. Jude by 8 shots; $23M bonus locked; Fitzpatrick No. 2; Clark No. 3 (BMW champ); Fleetwood defending; Scheffler/Fitzpatrick pairing ~2PM ET; ESPN/Golf Channel; LPGA FM CHAMPIONSHIP R1 — Underway at TPC Boston Norton MA (Aug 27-30); $4.4M purse; Miranda Wang defending (won 2025 at -20, 1-shot over Thitikul); Thitikul/Korda/Hull in field; MCILROY 4TH FEDEXCUP — 3x champion (2016/2019/2022); Tiger won 2; 66th at Memphis, T3 at BMW; defending Masters champ; chasing sole record; SCHEFFLER HISTORIC — 5 straight No. 1 seeds; 21 wins; $23M bonus; FedExCup 2024 winner; seeking 2nd title; LIV 2027 UNCERTAIN — 2026 season ended Indianapolis; La Sasso won final (18-under, beat Rahm by 1); Rahm 3rd straight individual title; Legion XIII team title; Norman declined to guarantee 2027; Poulter warned LIV may run out of time; 50+ players' futures uncertain
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+### 2026-08-26
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)
 - **X Posts:** 7 written, all under 280 characters
 - **Facebook Posts:** 5 stories, long-form + caption each

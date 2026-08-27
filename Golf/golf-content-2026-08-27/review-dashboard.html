@@ -1,0 +1,2878 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Golf Fanrecap — Content Review Dashboard</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: #f5f5f5;
+            display: flex;
+            min-height: 100vh;
+            color: #333;
+        }
+
+        .sidebar {
+            width: 280px;
+            background: #1a1a2e;
+            color: white;
+            padding: 30px 20px;
+            position: fixed;
+            height: 100vh;
+            overflow-y: auto;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+            z-index: 10;
+        }
+
+        .sidebar h1 { font-size: 18px; margin-bottom: 10px; color: #FF8A00; font-weight: 700; }
+        .sidebar-date { font-size: 12px; color: #aaa; margin-bottom: 30px; padding-bottom: 20px; border-bottom: 1px solid #333; }
+        .sidebar-section { margin-bottom: 25px; }
+        .sidebar-section-title { font-size: 12px; text-transform: uppercase; color: #999; margin-bottom: 12px; font-weight: 600; letter-spacing: 1px; }
+
+        .nav-item {
+            display: block; padding: 12px 15px; margin-bottom: 8px; border-radius: 6px;
+            cursor: pointer; transition: all 0.3s ease; font-size: 14px; color: #ddd; user-select: none;
+        }
+        .nav-item:hover { background: #2d2d44; color: #FF8A00; }
+        .nav-item.active { background: #FF8A00; color: white; }
+        .nav-item-count { float: right; background: rgba(255, 107, 53, 0.3); padding: 2px 8px; border-radius: 3px; font-size: 12px; }
+        .nav-item.active .nav-item-count { background: rgba(0, 0, 0, 0.2); }
+
+        .main-content { margin-left: 280px; flex: 1; display: flex; flex-direction: column; }
+
+        .header {
+            background: white; padding: 25px 40px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-bottom: 3px solid #FF8A00;
+        }
+        .header h1 { font-size: 28px; color: #1a1a2e; margin-bottom: 10px; }
+        .header-meta { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px; }
+        .progress-bar { flex: 1; min-width: 200px; }
+        .progress-label { font-size: 13px; color: #666; margin-bottom: 8px; font-weight: 500; }
+        .progress-container { width: 100%; height: 8px; background: #ddd; border-radius: 4px; overflow: hidden; }
+        .progress-fill { height: 100%; background: linear-gradient(90deg, #FF8A00, #E53935); transition: width 0.3s ease; }
+        .header-actions { display: flex; gap: 10px; }
+
+        .btn {
+            padding: 10px 16px; border: none; border-radius: 6px; font-size: 14px;
+            font-weight: 600; cursor: pointer; transition: all 0.3s ease; white-space: nowrap;
+        }
+        .btn-primary { background: #FF8A00; color: white; }
+        .btn-primary:hover { background: #E53935; }
+        .btn-secondary { background: #f0f0f0; color: #333; }
+        .btn-secondary:hover { background: #e0e0e0; }
+
+        .filter-bar {
+            background: white; padding: 20px 40px; display: flex;
+            gap: 10px; flex-wrap: wrap; border-bottom: 1px solid #eee;
+        }
+        .filter-btn {
+            padding: 8px 14px; border: 1px solid #ddd; background: white;
+            border-radius: 5px; cursor: pointer; font-size: 13px; transition: all 0.3s ease;
+        }
+        .filter-btn:hover { border-color: #FF8A00; color: #FF8A00; }
+        .filter-btn.active { background: #FF8A00; color: white; border-color: #FF8A00; }
+
+        .content { flex: 1; padding: 30px 40px; overflow-y: auto; }
+
+        .cards-container { display: flex; flex-direction: column; gap: 20px; max-width: 900px; }
+
+        .card {
+            background: white; border-radius: 8px; padding: 24px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1); transition: all 0.3s ease;
+            border-left: 5px solid #ccc; display: none;
+        }
+        .card.show { display: block; }
+        .card.approved { border-left-color: #22c55e; }
+        .card.needs-edit { border-left-color: #eab308; }
+        .card.rejected { border-left-color: #ef4444; }
+        .card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.12); }
+
+        .card-header { display: flex; justify-content: space-between; align-items: start; margin-bottom: 15px; }
+        .card-title { font-size: 16px; font-weight: 600; color: #1a1a2e; flex: 1; margin-right: 10px; }
+
+        .card-badge {
+            display: inline-block; padding: 4px 10px; border-radius: 4px;
+            font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;
+        }
+        .badge-x-post { background: #1da1f2; color: white; }
+        .badge-facebook { background: #4267b2; color: white; }
+        .badge-article { background: #9333ea; color: white; }
+        .badge-image { background: #06b6d4; color: white; }
+        .badge-brief { background: #10b981; color: white; }
+
+        .fact-check-badge {
+            display: inline-block; padding: 3px 8px; border-radius: 4px;
+            font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;
+            margin-left: 6px;
+        }
+        .fact-check-verified { background: #dcfce7; color: #166534; border: 1px solid #86efac; }
+        .fact-check-warning { background: #fef9c3; color: #854d0e; border: 1px solid #fde047; }
+        .fact-check-unverified { background: #fee2e2; color: #991b1b; border: 1px solid #fca5a5; }
+
+        /* Content area — preview (collapsed) and full (expanded) */
+        .card-content {
+            background: #f9f9f9; padding: 15px; border-radius: 6px;
+            margin-bottom: 15px; font-size: 13px; line-height: 1.6; color: #555;
+            position: relative;
+        }
+        .card-content-text {
+            white-space: pre-wrap; word-break: break-word;
+        }
+
+        /* Collapsed state: limit height with fade */
+        .card-content.collapsed {
+            max-height: 200px; overflow: hidden;
+        }
+        .card-content.collapsed::after {
+            content: '';
+            position: absolute; bottom: 0; left: 0; right: 0; height: 60px;
+            background: linear-gradient(transparent, #f9f9f9);
+            pointer-events: none;
+        }
+
+        /* Expanded state: no limit */
+        .card-content.expanded {
+            max-height: none; overflow: visible;
+        }
+        .card-content.expanded::after { display: none; }
+
+        .expand-toggle {
+            display: inline-block; margin-bottom: 12px; padding: 6px 14px;
+            background: #eee; border: 1px solid #ddd; border-radius: 4px;
+            cursor: pointer; font-size: 12px; font-weight: 600; color: #555;
+            transition: all 0.2s ease;
+        }
+        .expand-toggle:hover { background: #ddd; color: #333; }
+
+        /* Inline editing */
+        .edit-textarea {
+            width: 100%; padding: 15px; border: 2px solid #FF8A00;
+            border-radius: 6px; font-size: 13px; font-family: inherit;
+            line-height: 1.6; resize: vertical; min-height: 200px;
+            background: #fffef5; color: #333; display: none;
+        }
+        .edit-textarea:focus {
+            outline: none; box-shadow: 0 0 0 3px rgba(255, 107, 53, 0.15);
+        }
+        .card.editing .card-content { display: none; }
+        .card.editing .edit-textarea { display: block; }
+        .card.editing .expand-toggle { display: none; }
+
+        .edit-bar {
+            display: none; gap: 8px; margin-bottom: 12px; padding: 10px;
+            background: #fff8f0; border: 1px solid #ffcc99; border-radius: 6px;
+            align-items: center;
+        }
+        .card.editing .edit-bar { display: flex; }
+        .edit-bar-label { font-size: 12px; font-weight: 600; color: #cc6600; flex: 1; }
+        .edit-bar .btn { padding: 7px 14px; font-size: 12px; }
+
+        .tweet-meta-bar {
+            display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; padding: 0;
+        }
+        .tweet-meta-badge {
+            display: inline-block; padding: 4px 10px; border-radius: 4px;
+            font-size: 11px; font-weight: 600; letter-spacing: 0.3px;
+        }
+        .tweet-meta-label { background: #e0e7ff; color: #3730a3; }
+        .tweet-meta-time { background: #fef3c7; color: #92400e; }
+        .tweet-meta-type { background: #d1fae5; color: #065f46; }
+        .tweet-meta-tier { background: #f3e8ff; color: #6b21a8; }
+        .tweet-meta-hashtags { background: #dbeafe; color: #1e40af; font-family: monospace; }
+
+        .char-count {
+            font-size: 12px; margin: 0 0 10px 0; padding: 8px;
+            background: #f0f0f0; border-radius: 4px;
+        }
+        .char-count.warning { background: #fee2e2; color: #991b1b; }
+
+        .card-actions { display: flex; gap: 8px; margin-bottom: 12px; flex-wrap: wrap; }
+        .action-btn {
+            flex: 1; padding: 10px; border: none; border-radius: 5px;
+            cursor: pointer; font-size: 13px; font-weight: 600;
+            transition: all 0.3s ease; white-space: nowrap; min-width: 100px;
+        }
+        .btn-approve { background: #e8f5e9; color: #22c55e; border: 1px solid #22c55e; }
+        .btn-approve:hover { background: #22c55e; color: white; }
+        .btn-edit { background: #fff3e0; color: #e65100; border: 1px solid #ff9800; }
+        .btn-edit:hover { background: #ff9800; color: white; }
+        .btn-reject { background: #fee2e2; color: #ef4444; border: 1px solid #ef4444; }
+        .btn-reject:hover { background: #ef4444; color: white; }
+        .btn-copy { background: #f0f0f0; color: #333; border: 1px solid #ddd; }
+        .btn-copy:hover { background: #e0e0e0; }
+
+        .notes-section { display: none; margin-bottom: 12px; }
+        .notes-section.show { display: block; }
+        .notes-label { font-size: 12px; font-weight: 600; color: #666; margin-bottom: 6px; }
+        .notes-textarea {
+            width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px;
+            font-size: 13px; font-family: inherit; resize: vertical; min-height: 60px;
+        }
+        .notes-textarea:focus { outline: none; border-color: #FF8A00; box-shadow: 0 0 0 3px rgba(255, 107, 53, 0.1); }
+
+        .status-label {
+            font-size: 11px; font-weight: 600; text-transform: uppercase;
+            padding: 4px 8px; border-radius: 3px; margin-top: 10px; display: inline-block;
+        }
+        .status-approved { background: #e8f5e9; color: #22c55e; }
+        .status-needs-edit { background: #fffbeb; color: #f59e0b; }
+        .status-rejected { background: #fee2e2; color: #ef4444; }
+        .status-edited { background: #e3f2fd; color: #1565c0; }
+
+        .empty-state { text-align: center; padding: 60px 20px; color: #999; }
+        .empty-state-icon { font-size: 48px; margin-bottom: 15px; }
+
+        /* Approval stats bar */
+        .approval-stats {
+            display: flex; gap: 16px; margin-top: 12px; flex-wrap: wrap;
+        }
+        .stat-chip {
+            display: inline-flex; align-items: center; gap: 6px;
+            padding: 4px 12px; border-radius: 20px; font-size: 13px; font-weight: 600;
+        }
+        .stat-approved { background: #dcfce7; color: #16a34a; }
+        .stat-rejected { background: #fee2e2; color: #dc2626; }
+        .stat-unreviewed { background: #f3f4f6; color: #6b7280; }
+        .stat-dot { width: 8px; height: 8px; border-radius: 50%; }
+        .stat-approved .stat-dot { background: #22c55e; }
+        .stat-rejected .stat-dot { background: #ef4444; }
+        .stat-unreviewed .stat-dot { background: #9ca3af; }
+
+        /* PostPlanner XLSX button */
+        .btn-csv { background: #7c3aed; color: white; }
+        .btn-csv:hover { background: #6d28d9; }
+        .btn-csv:disabled { background: #c4b5fd; cursor: not-allowed; }
+
+        /* Schedule settings panel */
+        .schedule-panel {
+            display: none; position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%);
+            background: white; border-radius: 12px; padding: 30px; z-index: 1000;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3); width: 500px; max-width: 90vw; max-height: 80vh; overflow-y: auto;
+        }
+        .schedule-panel.show { display: block; }
+        .schedule-overlay { display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.5); z-index: 999; }
+        .schedule-overlay.show { display: block; }
+        .schedule-panel h3 { color: #1a1a2e; margin-bottom: 20px; font-size: 18px; }
+        .schedule-section { margin-bottom: 20px; }
+        .schedule-section label { display: block; font-size: 13px; font-weight: 600; color: #555; margin-bottom: 6px; }
+        .schedule-section input { width: 100%; padding: 8px 12px; border: 1px solid #ddd; border-radius: 4px; font-size: 14px; }
+        .schedule-section input:focus { outline: none; border-color: #7c3aed; }
+        .time-slots { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; }
+        .time-slot {
+            display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px;
+            background: #f3f0ff; border: 1px solid #c4b5fd; border-radius: 20px; font-size: 13px;
+        }
+        .time-slot .remove-slot { cursor: pointer; color: #999; font-weight: bold; }
+        .time-slot .remove-slot:hover { color: #ef4444; }
+        .add-slot-btn {
+            padding: 6px 14px; background: #f3f0ff; border: 1px dashed #7c3aed; border-radius: 20px;
+            cursor: pointer; font-size: 13px; color: #7c3aed;
+        }
+        .add-slot-btn:hover { background: #ede9fe; }
+        .schedule-actions { display: flex; gap: 10px; justify-content: flex-end; margin-top: 20px; }
+
+        /* Photo search links for image concepts */
+        .photo-section {
+            margin-bottom: 15px; padding: 12px; background: #f0f9ff;
+            border: 1px solid #bae6fd; border-radius: 6px;
+        }
+        .photo-section-title {
+            font-size: 12px; font-weight: 700; color: #0369a1; text-transform: uppercase;
+            letter-spacing: 0.5px; margin-bottom: 8px;
+        }
+        .photo-links { display: flex; flex-wrap: wrap; gap: 6px; }
+        .photo-link {
+            display: inline-block; padding: 6px 12px; background: #0ea5e9;
+            color: white; border-radius: 4px; font-size: 12px; font-weight: 500;
+            text-decoration: none; transition: all 0.2s ease; cursor: pointer;
+        }
+        .photo-link:hover { background: #0284c7; }
+
+        /* Image URL input and preview for image concepts */
+        .image-url-section {
+            margin-bottom: 15px; padding: 12px; background: #f0fdf4;
+            border: 1px solid #bbf7d0; border-radius: 6px;
+        }
+        .image-url-section label {
+            display: block; font-size: 12px; font-weight: 700; color: #166534;
+            text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 6px;
+        }
+        .image-url-input {
+            width: 100%; padding: 8px 10px; border: 1px solid #86efac;
+            border-radius: 4px; font-size: 13px; font-family: monospace;
+            background: white; box-sizing: border-box;
+        }
+        .image-url-input:focus { outline: none; border-color: #22c55e; box-shadow: 0 0 0 2px rgba(34,197,94,0.2); }
+        .image-url-hint {
+            font-size: 11px; color: #6b7280; margin-top: 4px;
+        }
+        .image-preview {
+            margin-top: 8px; text-align: center;
+        }
+        .image-preview img {
+            max-width: 100%; max-height: 200px; border-radius: 4px;
+            border: 1px solid #d1d5db; display: none;
+        }
+        .image-preview img.loaded { display: inline-block; }
+
+        /* Image production status badges */
+        .image-badge {
+            display: inline-block; padding: 2px 8px; border-radius: 3px;
+            font-size: 10px; font-weight: 700; text-transform: uppercase;
+            letter-spacing: 0.5px; margin-left: 6px;
+        }
+        .image-exported { background: #dcfce7; color: #166534; }
+        .image-in-progress { background: #fef3c7; color: #92400e; }
+        .image-not-started { background: #f3f4f6; color: #6b7280; }
+
+        /* Text overlay preview for image concepts */
+        .overlay-section {
+            margin-bottom: 15px; padding: 15px; background: #1a1a2e;
+            border-radius: 6px; text-align: center;
+        }
+        .overlay-line {
+            font-family: 'Bebas Neue', Impact, 'Arial Black', sans-serif;
+            color: #ffd700; font-size: 18px; font-weight: 700; line-height: 1.4;
+            text-transform: uppercase; letter-spacing: 1px;
+        }
+        .overlay-line.sub { color: #ffffff; font-size: 14px; font-weight: 400; letter-spacing: 0; text-transform: none; }
+
+        /* Article content rendered as HTML */
+        .article-frame {
+            width: 100%; border: 1px solid #ddd; border-radius: 6px;
+            background: white; min-height: 300px;
+        }
+
+        @media (max-width: 768px) {
+            .sidebar { width: 100%; height: auto; position: relative; padding: 20px; }
+            .main-content { margin-left: 0; }
+            .content { padding: 20px; }
+            .header { padding: 15px 20px; }
+            .header h1 { font-size: 20px; }
+            .filter-bar { padding: 15px 20px; }
+            .header-meta { flex-direction: column; align-items: stretch; }
+            .progress-bar { min-width: auto; }
+        }
+
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: #f1f1f1; }
+        ::-webkit-scrollbar-thumb { background: #888; border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: #555; }
+    </style>
+</head>
+<body>
+    <div class="sidebar">
+        <h1>Golf Fanrecap</h1>
+        <div class="sidebar-date">Review Dashboard<br>2026-08-27</div>
+
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Content Types</div>
+            <div class="nav-item" onclick="filterByType('daily_brief')">
+                Daily Brief
+                <span class="nav-item-count">5</span>
+            </div>
+            <div class="nav-item" onclick="filterByType('x_post')">
+                X / Twitter Posts
+                <span class="nav-item-count">8</span>
+            </div>
+            <div class="nav-item" onclick="filterByType('article')">
+                Articles
+                <span class="nav-item-count">5</span>
+            </div>
+
+            <div class="nav-item" onclick="filterByType('all')">
+                All Items
+                <span class="nav-item-count">18</span>
+            </div>
+        </div>
+
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Status Filter</div>
+            <div class="nav-item" onclick="filterByStatus('all')">All</div>
+            <div class="nav-item" onclick="filterByStatus('unreviewed')">Unreviewed</div>
+            <div class="nav-item" onclick="filterByStatus('approved')">Approved</div>
+            <div class="nav-item" onclick="filterByStatus('needs-edit')">Needs Edit</div>
+            <div class="nav-item" onclick="filterByStatus('rejected')">Rejected</div>
+        </div>
+
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Actions</div>
+            <div class="nav-item" onclick="approveAll()" style="color: #22c55e;">
+                Approve All
+            </div>
+            <div class="nav-item" onclick="exportApprovals()" style="color: #FF8A00;">
+                Export Results JSON
+            </div>
+            <div class="nav-item" onclick="downloadPostPlannerCSV()" style="color: #a78bfa;">
+                PostPlanner Upload
+            </div>
+            <div class="nav-item" onclick="downloadTOBIExport()" style="color: #f472b6;">
+                TOBI Upload
+            </div>
+        </div>
+    </div>
+
+    <div class="main-content">
+        <div class="header">
+            <h1>Golf Fanrecap — Content Review Dashboard</h1>
+            <div class="header-meta">
+                <div class="progress-bar">
+                    <div class="progress-label">
+                        <span id="reviewed-count">0</span> of <span id="total-count">18</span> items reviewed
+                    </div>
+                    <div class="progress-container">
+                        <div class="progress-fill" id="progress-fill" style="width: 0%"></div>
+                    </div>
+                    <div class="approval-stats" id="approval-stats">
+                        <span class="stat-chip stat-approved"><span class="stat-dot"></span> <span id="stat-approved-count">0</span> approved</span>
+                        <span class="stat-chip stat-rejected"><span class="stat-dot"></span> <span id="stat-rejected-count">0</span> rejected</span>
+                        <span class="stat-chip stat-unreviewed"><span class="stat-dot"></span> <span id="stat-unreviewed-count">0</span> unreviewed</span>
+                    </div>
+                </div>
+                <div class="header-actions">
+                    <button class="btn btn-secondary" onclick="resetAll()">Reset All</button>
+                    <button class="btn btn-csv" id="btn-csv" onclick="downloadPostPlannerCSV()" disabled>PostPlanner Upload (0 approved)</button>
+                    <button class="btn btn-csv" id="btn-tobi" onclick="downloadTOBIExport()" disabled style="background: #831843; border-color: #f472b6;">TOBI Upload (0 approved)</button>
+                    <button class="btn btn-primary" onclick="exportApprovals()">Export JSON</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="filter-bar">
+            <button class="filter-btn active" onclick="filterByStatus('all')">All</button>
+            <button class="filter-btn" onclick="filterByStatus('unreviewed')">Unreviewed</button>
+            <button class="filter-btn" onclick="filterByStatus('approved')">Approved</button>
+            <button class="filter-btn" onclick="filterByStatus('needs-edit')">Needs Edit</button>
+            <button class="filter-btn" onclick="filterByStatus('rejected')">Rejected</button>
+        </div>
+
+
+        <div class="content">
+            <div class="cards-container" id="cards-container">
+                <div class="card" data-id="story-1-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Tour Championship Round 1 Underway — Scheffler Hunts History at East Lake</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-1-daily_brief">
+                        <div class="card-content-text">Tour Championship Round 1 Underway — Scheffler Hunts History at East Lake</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-1-daily_brief" placeholder="Edit content here...">Tour Championship Round 1 Underway — Scheffler Hunts History at East Lake</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-1-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-1-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-1-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-1-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-1-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-1-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-1-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-1-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-1-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-1-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-1-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-1-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Tour Championship Round 1 Underway — Scheffler Hunts History at East Lake</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 1-1</span><span class="tweet-meta-badge tweet-meta-tier">Tier 0</span><span class="tweet-meta-badge tweet-meta-hashtags">#TourChampionship #FedExCup #GolfFanrecap</span></div>
+
+                    <div class="card-content expanded" id="content-story-1-x_post-1">
+                        <div class="card-content-text">The Tour Championship is LIVE at East Lake.
+
+$40 million on the line. 30 of the best players in the world. No staggered starts — every shot counts from hole one.
+
+Scottie Scheffler is the No. 1 seed. Again.
+
+#TourChampionship #FedExCup #GolfFanrecap</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-1-x_post-1" placeholder="Edit content here...">The Tour Championship is LIVE at East Lake.
+
+$40 million on the line. 30 of the best players in the world. No staggered starts — every shot counts from hole one.
+
+Scottie Scheffler is the No. 1 seed. Again.
+
+#TourChampionship #FedExCup #GolfFanrecap</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-1-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-1-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-1-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-1-x_post-1">Characters: 249/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-1-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-1-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-1-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-1-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-1-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-1-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-1-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-1-x_post-1"></div>
+                </div>
+                <div class="card" data-id="story-1-x_post-2" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Tour Championship Round 1 Underway — Scheffler Hunts History at East Lake</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 1-2</span><span class="tweet-meta-badge tweet-meta-tier">Tier 0</span><span class="tweet-meta-badge tweet-meta-hashtags">#TourChampionship #Scheffler #GolfFanrecap</span></div>
+
+                    <div class="card-content expanded" id="content-story-1-x_post-2">
+                        <div class="card-content-text">Scottie Scheffler arrives at East Lake with 21 career wins, a $23M bonus already locked, and his 5th straight No. 1 seed.
+
+Tommy Fleetwood is the defending champion. He&#x27;s standing in the way.
+
+Can anyone stop Scheffler? 🏆
+
+#TourChampionship #Scheffler #GolfFanrecap</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-1-x_post-2" placeholder="Edit content here...">Scottie Scheffler arrives at East Lake with 21 career wins, a $23M bonus already locked, and his 5th straight No. 1 seed.
+
+Tommy Fleetwood is the defending champion. He&#x27;s standing in the way.
+
+Can anyone stop Scheffler? 🏆
+
+#TourChampionship #Scheffler #GolfFanrecap</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-1-x_post-2">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-1-x_post-2')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-1-x_post-2')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-1-x_post-2">Characters: 265/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-1-x_post-2">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-1-x_post-2')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-1-x_post-2')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-1-x_post-2')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-1-x_post-2')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-1-x_post-2">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-1-x_post-2" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-1-x_post-2"></div>
+                </div>
+                <div class="card" data-id="story-2-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">LPGA FM Championship Round 1 — Miranda Wang Defends at TPC Boston</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-2-daily_brief">
+                        <div class="card-content-text">LPGA FM Championship Round 1 — Miranda Wang Defends at TPC Boston</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-2-daily_brief" placeholder="Edit content here...">LPGA FM Championship Round 1 — Miranda Wang Defends at TPC Boston</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-2-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-2-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-2-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-2-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-2-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-2-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-2-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-2-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-2-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-2-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-2-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-2-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">LPGA FM Championship Round 1 — Miranda Wang Defends at TPC Boston</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 2</span><span class="tweet-meta-badge tweet-meta-tier">Tier 0</span><span class="tweet-meta-badge tweet-meta-hashtags">#FMChampionship #LPGA #GolfFanrecap</span></div>
+
+                    <div class="card-content expanded" id="content-story-2-x_post-1">
+                        <div class="card-content-text">The LPGA FM Championship is underway at TPC Boston.
+
+Miranda Wang won this last year at 20-under par — one shot over Thitikul in a finish nobody who watched will forget.
+
+She&#x27;s back. Thitikul is back. Korda is here too.
+
+#FMChampionship #LPGA #GolfFanrecap</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-2-x_post-1" placeholder="Edit content here...">The LPGA FM Championship is underway at TPC Boston.
+
+Miranda Wang won this last year at 20-under par — one shot over Thitikul in a finish nobody who watched will forget.
+
+She&#x27;s back. Thitikul is back. Korda is here too.
+
+#FMChampionship #LPGA #GolfFanrecap</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-2-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-2-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-2-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-2-x_post-1">Characters: 256/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-2-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-2-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-2-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-2-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-2-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-2-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-2-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-2-x_post-1"></div>
+                </div>
+                <div class="card" data-id="story-3-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">McIlroy&#x27;s FedExCup History Quest — Can He Win a Record Fourth Title?</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-3-daily_brief">
+                        <div class="card-content-text">McIlroy&#x27;s FedExCup History Quest — Can He Win a Record Fourth Title?</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-3-daily_brief" placeholder="Edit content here...">McIlroy&#x27;s FedExCup History Quest — Can He Win a Record Fourth Title?</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-3-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-3-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-3-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-3-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-3-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-3-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-3-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-3-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-3-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-3-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-3-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-3-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">McIlroy&#x27;s FedExCup History Quest — Can He Win a Record Fourth Title?</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 3-1</span><span class="tweet-meta-badge tweet-meta-tier">Tier 0</span><span class="tweet-meta-badge tweet-meta-hashtags">#McIlroy #FedExCup #GolfFanrecap</span></div>
+
+                    <div class="card-content expanded" id="content-story-3-x_post-1">
+                        <div class="card-content-text">Rory McIlroy has won the FedExCup 3 times. No one has ever won 4.
+
+Not Tiger. Not anyone.
+
+He&#x27;s at East Lake. He&#x27;s in the field. The record is right there.
+
+#McIlroy #FedExCup #GolfFanrecap</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-3-x_post-1" placeholder="Edit content here...">Rory McIlroy has won the FedExCup 3 times. No one has ever won 4.
+
+Not Tiger. Not anyone.
+
+He&#x27;s at East Lake. He&#x27;s in the field. The record is right there.
+
+#McIlroy #FedExCup #GolfFanrecap</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-3-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-3-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-3-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-3-x_post-1">Characters: 189/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-3-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-3-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-3-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-3-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-3-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-3-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-3-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-3-x_post-1"></div>
+                </div>
+                <div class="card" data-id="story-3-x_post-2" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">McIlroy&#x27;s FedExCup History Quest — Can He Win a Record Fourth Title?</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 3-2</span><span class="tweet-meta-badge tweet-meta-tier">Tier 0</span><span class="tweet-meta-badge tweet-meta-hashtags">#McIlroy #FedExCup #PGATour #GolfFanrecap</span></div>
+
+                    <div class="card-content expanded" id="content-story-3-x_post-2">
+                        <div class="card-content-text">McIlroy&#x27;s path to East Lake wasn&#x27;t clean — 66th at Memphis, T3 at BMW.
+
+But he&#x27;s here. Defending Masters champion. Three-time FedExCup winner.
+
+History is one tournament away.
+
+#McIlroy #FedExCup #PGATour #GolfFanrecap</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-3-x_post-2" placeholder="Edit content here...">McIlroy&#x27;s path to East Lake wasn&#x27;t clean — 66th at Memphis, T3 at BMW.
+
+But he&#x27;s here. Defending Masters champion. Three-time FedExCup winner.
+
+History is one tournament away.
+
+#McIlroy #FedExCup #PGATour #GolfFanrecap</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-3-x_post-2">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-3-x_post-2')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-3-x_post-2')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-3-x_post-2">Characters: 218/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-3-x_post-2">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-3-x_post-2')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-3-x_post-2')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-3-x_post-2')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-3-x_post-2')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-3-x_post-2">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-3-x_post-2" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-3-x_post-2"></div>
+                </div>
+                <div class="card" data-id="story-4-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Scheffler&#x27;s Historic Season — Five Straight No. 1 Seeds, 21 Wins</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-4-daily_brief">
+                        <div class="card-content-text">Scheffler&#x27;s Historic Season — Five Straight No. 1 Seeds, 21 Wins</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-4-daily_brief" placeholder="Edit content here...">Scheffler&#x27;s Historic Season — Five Straight No. 1 Seeds, 21 Wins</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-4-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-4-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-4-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-4-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-4-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-4-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-4-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-4-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-4-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-4-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-4-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-4-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Scheffler&#x27;s Historic Season — Five Straight No. 1 Seeds, 21 Wins</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 4</span><span class="tweet-meta-badge tweet-meta-tier">Tier 0</span><span class="tweet-meta-badge tweet-meta-hashtags">#Scheffler #PGATour #GolfFanrecap</span></div>
+
+                    <div class="card-content expanded" id="content-story-4-x_post-1">
+                        <div class="card-content-text">Five consecutive years as the No. 1 FedExCup seed.
+
+21 PGA Tour wins. A $23 million bonus. An 8-shot victory last week.
+
+Scottie Scheffler isn&#x27;t just the best golfer alive. He might be the most dominant golfer of this era.
+
+#Scheffler #PGATour #GolfFanrecap</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-4-x_post-1" placeholder="Edit content here...">Five consecutive years as the No. 1 FedExCup seed.
+
+21 PGA Tour wins. A $23 million bonus. An 8-shot victory last week.
+
+Scottie Scheffler isn&#x27;t just the best golfer alive. He might be the most dominant golfer of this era.
+
+#Scheffler #PGATour #GolfFanrecap</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-4-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-4-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-4-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-4-x_post-1">Characters: 257/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-4-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-4-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-4-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-4-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-4-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-4-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-4-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-4-x_post-1"></div>
+                </div>
+                <div class="card" data-id="story-5-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">LIV Golf&#x27;s Future — Norman Won&#x27;t Guarantee 2027 Season</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-5-daily_brief">
+                        <div class="card-content-text">LIV Golf&#x27;s Future — Norman Won&#x27;t Guarantee 2027 Season</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-5-daily_brief" placeholder="Edit content here...">LIV Golf&#x27;s Future — Norman Won&#x27;t Guarantee 2027 Season</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-5-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-5-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-5-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-5-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-5-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-5-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-5-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-5-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-5-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-5-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-5-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-5-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">LIV Golf&#x27;s Future — Norman Won&#x27;t Guarantee 2027 Season</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 5-1</span><span class="tweet-meta-badge tweet-meta-tier">Tier 0</span><span class="tweet-meta-badge tweet-meta-hashtags">#LIVGolf #GolfFanrecap</span></div>
+
+                    <div class="card-content expanded" id="content-story-5-x_post-1">
+                        <div class="card-content-text">The 2026 LIV Golf season is over.
+
+Michael La Sasso won the final event. Jon Rahm claimed his 3rd straight individual title. But Greg Norman won&#x27;t guarantee 2027 is happening.
+
+Ian Poulter is warning LIV is running out of time.
+
+#LIVGolf #GolfFanrecap</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-5-x_post-1" placeholder="Edit content here...">The 2026 LIV Golf season is over.
+
+Michael La Sasso won the final event. Jon Rahm claimed his 3rd straight individual title. But Greg Norman won&#x27;t guarantee 2027 is happening.
+
+Ian Poulter is warning LIV is running out of time.
+
+#LIVGolf #GolfFanrecap</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-5-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-5-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-5-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-5-x_post-1">Characters: 251/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-5-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-5-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-5-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-5-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-5-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-5-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-5-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-5-x_post-1"></div>
+                </div>
+                <div class="card" data-id="story-5-x_post-2" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">LIV Golf&#x27;s Future — Norman Won&#x27;t Guarantee 2027 Season</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 5-2</span><span class="tweet-meta-badge tweet-meta-tier">Tier 0</span><span class="tweet-meta-badge tweet-meta-hashtags">#LIVGolf #GolfFanrecap</span></div>
+
+                    <div class="card-content expanded" id="content-story-5-x_post-2">
+                        <div class="card-content-text">Rahm. La Sasso. 50+ players. One uncertain future.
+
+LIV Golf ended its 2026 season in Indianapolis. The commissioner won&#x27;t commit to 2027.
+
+What happens to the players who bet their careers on this tour? 👀
+
+#LIVGolf #GolfFanrecap</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-5-x_post-2" placeholder="Edit content here...">Rahm. La Sasso. 50+ players. One uncertain future.
+
+LIV Golf ended its 2026 season in Indianapolis. The commissioner won&#x27;t commit to 2027.
+
+What happens to the players who bet their careers on this tour? 👀
+
+#LIVGolf #GolfFanrecap</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-5-x_post-2">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-5-x_post-2')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-5-x_post-2')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-5-x_post-2">Characters: 229/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-5-x_post-2">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-5-x_post-2')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-5-x_post-2')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-5-x_post-2')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-5-x_post-2')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-5-x_post-2">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-5-x_post-2" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-5-x_post-2"></div>
+                </div>
+                <div class="card" data-id="article-article-01-tour-championship-round-1-scheffler-east-lake" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Tour Championship Round 1 is Live: Scheffler Hunts His Second FedExCup at East Lake</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-01-tour-championship-round-1-scheffler-east-lake">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<title>Tour Championship Round 1 is Live: Scheffler Hunts His Second FedExCup at East Lake</title>
+</head>
+<body>
+<article>
+  <header>
+    <h1>Tour Championship Round 1 is Live: Scheffler Hunts His Second FedExCup at East Lake</h1>
+    <p><strong>By Jake Torres</strong> | Golf Fanrecap | August 27, 2026</p>
+  </header>
+
+  <section>
+    <p>The season-ending finale of professional golf is underway. The Tour Championship opened Round 1 at East Lake Golf Club in Atlanta on Thursday, with 30 of the world's best players competing for a $40 million prize fund — the richest in PGA Tour history.</p>
+
+    <p>At the center of everything, as he has been for five consecutive seasons, is Scottie Scheffler.</p>
+
+    <p>The No. 1 seed arrives at East Lake on the back of one of the most dominant regular seasons professional golf has ever witnessed — 21 career PGA Tour wins, a $23 million FedExCup bonus already locked in, and an eight-shot victory at the FedEx St. Jude Championship in Memphis just weeks ago. He won the FedExCup in 2024. He is here to win it again.</p>
+  </section>
+
+  <section>
+    <h2>The Format: No Staggered Starts</h2>
+    <p>A critical distinction of this year's Tour Championship is one that separates it from earlier iterations of the playoff format: there are no staggered starts. All 30 players begin Round 1 at even par, competing on identical terms from the opening tee shot.</p>
+
+    <p>That means every stroke matters from the first hole. There is no built-in advantage for the top seeds and no deficit baked in for those who arrived via the BMW Championship at the edge of qualifying. The leaderboard will reflect actual performance over 72 holes of championship golf.</p>
+
+    <p>East Lake Golf Club, one of American golf's most storied venues and the longtime home of Bobby Jones, suits this format precisely. The Donald Ross design demands precision, patience, and the ability to manage a course that rewards smart play over athletic brute force.</p>
+  </section>
+
+  <section>
+    <h2>The Field Around Scheffler</h2>
+    <p>Scheffler will not walk into Sunday unchallenged. The 30-player field represents the entirety of elite professional golf in 2026.</p>
+
+    <p>Matthew Fitzpatrick, the No. 2 seed, is among the most consistent ball-strikers in the game and a past U.S. Open champion. Wyndham Clark, the BMW Championship winner and No. 3 seed, arrives with the momentum of a recent victory. Tommy Fleetwood is the defending Tour Championship champion and knows East Lake better than almost anyone in this week's field.</p>
+
+    <p>And then there is Rory McIlroy.</p>
+
+    <p>The three-time FedExCup champion — 2016, 2019, 2022 — is chasing a record that has stood untouched since the format's inception. No player has ever won four FedExCup titles. McIlroy's path here was uneven: a 66th-place finish at the FedEx St. Jude in Memphis gave way to a T3 at the BMW Championship, enough to earn his East Lake berth but not the form trajectory he would have wanted.</p>
+
+    <p>Whether McIlroy's best golf returns under the pressure of a historic chase is one of this week's defining storylines.</p>
+  </section>
+
+  <section>
+    <h2>Television and Coverage</h2>
+    <p>Round 1 coverage is live on ESPN and Golf Channel. The event runs through Sunday, August 30, with the FedExCup champion crowned following the final round.</p>
+
+    <p>Scheffler and Fitzpatrick are paired together in what figures to be the week's marquee grouping, teeing off at approximately 2 PM ET on Thursday.</p>
+  </section>
+
+  <section>
+    <h2>What to Watch</h2>
+    <p>The question at the Tour Championship is always the same and never simple: can anyone match Scheffler when he is locked in? Over the past five seasons, the answer has almost always been no. He has been the best player in professional golf by a margin that most statistical models struggle to quantify.</p>
+
+    <p>But East Lake has a history of producing unexpected outcomes. The no-staggered-starts format removes the safety net. And a 30-player field includes enough firepower to put genuine pressure on anyone — even the most dominant player of his era.</p>
+
+    <p>Round 1 is live. The FedExCup finale has begun.</p>
+  </section>
+</article>
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-01-tour-championship-round-1-scheffler-east-lake" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;title&gt;Tour Championship Round 1 is Live: Scheffler Hunts His Second FedExCup at East Lake&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;article&gt;
+  &lt;header&gt;
+    &lt;h1&gt;Tour Championship Round 1 is Live: Scheffler Hunts His Second FedExCup at East Lake&lt;/h1&gt;
+    &lt;p&gt;&lt;strong&gt;By Jake Torres&lt;/strong&gt; | Golf Fanrecap | August 27, 2026&lt;/p&gt;
+  &lt;/header&gt;
+
+  &lt;section&gt;
+    &lt;p&gt;The season-ending finale of professional golf is underway. The Tour Championship opened Round 1 at East Lake Golf Club in Atlanta on Thursday, with 30 of the world&#x27;s best players competing for a $40 million prize fund — the richest in PGA Tour history.&lt;/p&gt;
+
+    &lt;p&gt;At the center of everything, as he has been for five consecutive seasons, is Scottie Scheffler.&lt;/p&gt;
+
+    &lt;p&gt;The No. 1 seed arrives at East Lake on the back of one of the most dominant regular seasons professional golf has ever witnessed — 21 career PGA Tour wins, a $23 million FedExCup bonus already locked in, and an eight-shot victory at the FedEx St. Jude Championship in Memphis just weeks ago. He won the FedExCup in 2024. He is here to win it again.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;The Format: No Staggered Starts&lt;/h2&gt;
+    &lt;p&gt;A critical distinction of this year&#x27;s Tour Championship is one that separates it from earlier iterations of the playoff format: there are no staggered starts. All 30 players begin Round 1 at even par, competing on identical terms from the opening tee shot.&lt;/p&gt;
+
+    &lt;p&gt;That means every stroke matters from the first hole. There is no built-in advantage for the top seeds and no deficit baked in for those who arrived via the BMW Championship at the edge of qualifying. The leaderboard will reflect actual performance over 72 holes of championship golf.&lt;/p&gt;
+
+    &lt;p&gt;East Lake Golf Club, one of American golf&#x27;s most storied venues and the longtime home of Bobby Jones, suits this format precisely. The Donald Ross design demands precision, patience, and the ability to manage a course that rewards smart play over athletic brute force.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;The Field Around Scheffler&lt;/h2&gt;
+    &lt;p&gt;Scheffler will not walk into Sunday unchallenged. The 30-player field represents the entirety of elite professional golf in 2026.&lt;/p&gt;
+
+    &lt;p&gt;Matthew Fitzpatrick, the No. 2 seed, is among the most consistent ball-strikers in the game and a past U.S. Open champion. Wyndham Clark, the BMW Championship winner and No. 3 seed, arrives with the momentum of a recent victory. Tommy Fleetwood is the defending Tour Championship champion and knows East Lake better than almost anyone in this week&#x27;s field.&lt;/p&gt;
+
+    &lt;p&gt;And then there is Rory McIlroy.&lt;/p&gt;
+
+    &lt;p&gt;The three-time FedExCup champion — 2016, 2019, 2022 — is chasing a record that has stood untouched since the format&#x27;s inception. No player has ever won four FedExCup titles. McIlroy&#x27;s path here was uneven: a 66th-place finish at the FedEx St. Jude in Memphis gave way to a T3 at the BMW Championship, enough to earn his East Lake berth but not the form trajectory he would have wanted.&lt;/p&gt;
+
+    &lt;p&gt;Whether McIlroy&#x27;s best golf returns under the pressure of a historic chase is one of this week&#x27;s defining storylines.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;Television and Coverage&lt;/h2&gt;
+    &lt;p&gt;Round 1 coverage is live on ESPN and Golf Channel. The event runs through Sunday, August 30, with the FedExCup champion crowned following the final round.&lt;/p&gt;
+
+    &lt;p&gt;Scheffler and Fitzpatrick are paired together in what figures to be the week&#x27;s marquee grouping, teeing off at approximately 2 PM ET on Thursday.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;What to Watch&lt;/h2&gt;
+    &lt;p&gt;The question at the Tour Championship is always the same and never simple: can anyone match Scheffler when he is locked in? Over the past five seasons, the answer has almost always been no. He has been the best player in professional golf by a margin that most statistical models struggle to quantify.&lt;/p&gt;
+
+    &lt;p&gt;But East Lake has a history of producing unexpected outcomes. The no-staggered-starts format removes the safety net. And a 30-player field includes enough firepower to put genuine pressure on anyone — even the most dominant player of his era.&lt;/p&gt;
+
+    &lt;p&gt;Round 1 is live. The FedExCup finale has begun.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-01-tour-championship-round-1-scheffler-east-lake">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-01-tour-championship-round-1-scheffler-east-lake')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-01-tour-championship-round-1-scheffler-east-lake')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-01-tour-championship-round-1-scheffler-east-lake">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-01-tour-championship-round-1-scheffler-east-lake')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-01-tour-championship-round-1-scheffler-east-lake')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-01-tour-championship-round-1-scheffler-east-lake')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-01-tour-championship-round-1-scheffler-east-lake')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-01-tour-championship-round-1-scheffler-east-lake">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-01-tour-championship-round-1-scheffler-east-lake" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-01-tour-championship-round-1-scheffler-east-lake"></div>
+                </div>
+                <div class="card" data-id="article-article-02-lpga-fm-championship-round-1-wang-defends" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">LPGA FM Championship Round 1: Miranda Wang Returns to TPC Boston to Defend Her Title</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-02-lpga-fm-championship-round-1-wang-defends">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<title>LPGA FM Championship Round 1: Miranda Wang Returns to TPC Boston to Defend Her Title</title>
+</head>
+<body>
+<article>
+  <header>
+    <h1>LPGA FM Championship Round 1: Miranda Wang Returns to TPC Boston to Defend Her Title</h1>
+    <p><strong>By Marcus Cole</strong> | Golf Fanrecap | August 27, 2026</p>
+  </header>
+
+  <section>
+    <p>Miranda Wang is back at TPC Boston. The defending FM Championship champion returned to Norton, Massachusetts on Thursday for the opening round of the 2026 LPGA FM Championship — one of the richest and most competitive events on the women's golf calendar.</p>
+
+    <p>Wang won the 2025 edition of this event at 20-under par, holding off Jeeno Thitikul by a single shot in a wire-to-wire performance that announced her as a legitimate force at the highest level of the LPGA Tour. It was the kind of win that players spend entire careers trying to replicate.</p>
+
+    <p>Now she has to do it again. And the same players who pushed her last year are back.</p>
+  </section>
+
+  <section>
+    <h2>The Course and the Challenge</h2>
+    <p>TPC Boston is a par-71 layout that demands accuracy from the tee and sharp iron play into greens that can be unforgiving under tournament pin positions. The bent-grass putting surfaces reward patience; the tree-lined fairways punish ambition. Scores can cluster quickly at LPGA events on this style of course, which means the margin between champion and first loser is measured in moments rather than miles.</p>
+
+    <p>Wang's -20 performance in 2025 was exceptional by any measure. Matching or exceeding that total as the defending champion — with every player in the field studying how she did it — is a different kind of challenge entirely.</p>
+  </section>
+
+  <section>
+    <h2>The Competition</h2>
+    <p>Jeeno (Atthaya) Thitikul enters Round 1 with the kind of motivation that produces career-best performances. The Thai star was one shot away from winning this event in 2025 and has spent the intervening twelve months demonstrating that her game belongs at the very top of women's professional golf.</p>
+
+    <p>Nelly Korda, one of the game's most decorated players and a former world No. 1, brings a record of championship golf that spans multiple continents and formats. At a course that suits her precise ball-striking, Korda is a genuine contender from the first tee.</p>
+
+    <p>Charley Hull, the English star who has grown into one of the LPGA Tour's most popular and competitive figures, rounds out a top tier of competitors that will push Wang from the opening holes.</p>
+
+    <p>The $4.4 million purse — among the largest on the LPGA Tour calendar — ensures that the field has arrived at TPC Boston fully motivated.</p>
+  </section>
+
+  <section>
+    <h2>What's Next</h2>
+    <p>Round 1 is underway Thursday. The FM Championship runs through Sunday, August 30, with the champion crowned at TPC Boston following 72 holes of LPGA competition.</p>
+
+    <p>Wang has said she is comfortable returning to a course where she has tasted major success. Whether that comfort translates to a second consecutive title depends on 72 holes of execution against the best players in women's professional golf.</p>
+
+    <p>Stay with Golf Fanrecap for scoring updates and analysis throughout the week.</p>
+  </section>
+</article>
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-02-lpga-fm-championship-round-1-wang-defends" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;title&gt;LPGA FM Championship Round 1: Miranda Wang Returns to TPC Boston to Defend Her Title&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;article&gt;
+  &lt;header&gt;
+    &lt;h1&gt;LPGA FM Championship Round 1: Miranda Wang Returns to TPC Boston to Defend Her Title&lt;/h1&gt;
+    &lt;p&gt;&lt;strong&gt;By Marcus Cole&lt;/strong&gt; | Golf Fanrecap | August 27, 2026&lt;/p&gt;
+  &lt;/header&gt;
+
+  &lt;section&gt;
+    &lt;p&gt;Miranda Wang is back at TPC Boston. The defending FM Championship champion returned to Norton, Massachusetts on Thursday for the opening round of the 2026 LPGA FM Championship — one of the richest and most competitive events on the women&#x27;s golf calendar.&lt;/p&gt;
+
+    &lt;p&gt;Wang won the 2025 edition of this event at 20-under par, holding off Jeeno Thitikul by a single shot in a wire-to-wire performance that announced her as a legitimate force at the highest level of the LPGA Tour. It was the kind of win that players spend entire careers trying to replicate.&lt;/p&gt;
+
+    &lt;p&gt;Now she has to do it again. And the same players who pushed her last year are back.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;The Course and the Challenge&lt;/h2&gt;
+    &lt;p&gt;TPC Boston is a par-71 layout that demands accuracy from the tee and sharp iron play into greens that can be unforgiving under tournament pin positions. The bent-grass putting surfaces reward patience; the tree-lined fairways punish ambition. Scores can cluster quickly at LPGA events on this style of course, which means the margin between champion and first loser is measured in moments rather than miles.&lt;/p&gt;
+
+    &lt;p&gt;Wang&#x27;s -20 performance in 2025 was exceptional by any measure. Matching or exceeding that total as the defending champion — with every player in the field studying how she did it — is a different kind of challenge entirely.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;The Competition&lt;/h2&gt;
+    &lt;p&gt;Jeeno (Atthaya) Thitikul enters Round 1 with the kind of motivation that produces career-best performances. The Thai star was one shot away from winning this event in 2025 and has spent the intervening twelve months demonstrating that her game belongs at the very top of women&#x27;s professional golf.&lt;/p&gt;
+
+    &lt;p&gt;Nelly Korda, one of the game&#x27;s most decorated players and a former world No. 1, brings a record of championship golf that spans multiple continents and formats. At a course that suits her precise ball-striking, Korda is a genuine contender from the first tee.&lt;/p&gt;
+
+    &lt;p&gt;Charley Hull, the English star who has grown into one of the LPGA Tour&#x27;s most popular and competitive figures, rounds out a top tier of competitors that will push Wang from the opening holes.&lt;/p&gt;
+
+    &lt;p&gt;The $4.4 million purse — among the largest on the LPGA Tour calendar — ensures that the field has arrived at TPC Boston fully motivated.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+    &lt;p&gt;Round 1 is underway Thursday. The FM Championship runs through Sunday, August 30, with the champion crowned at TPC Boston following 72 holes of LPGA competition.&lt;/p&gt;
+
+    &lt;p&gt;Wang has said she is comfortable returning to a course where she has tasted major success. Whether that comfort translates to a second consecutive title depends on 72 holes of execution against the best players in women&#x27;s professional golf.&lt;/p&gt;
+
+    &lt;p&gt;Stay with Golf Fanrecap for scoring updates and analysis throughout the week.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-02-lpga-fm-championship-round-1-wang-defends">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-02-lpga-fm-championship-round-1-wang-defends')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-02-lpga-fm-championship-round-1-wang-defends')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-02-lpga-fm-championship-round-1-wang-defends">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-02-lpga-fm-championship-round-1-wang-defends')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-02-lpga-fm-championship-round-1-wang-defends')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-02-lpga-fm-championship-round-1-wang-defends')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-02-lpga-fm-championship-round-1-wang-defends')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-02-lpga-fm-championship-round-1-wang-defends">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-02-lpga-fm-championship-round-1-wang-defends" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-02-lpga-fm-championship-round-1-wang-defends"></div>
+                </div>
+                <div class="card" data-id="article-article-03-mcilroy-fedexcup-history-quest-record-fourth" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Rory McIlroy Is Chasing a Record No One Has Ever Set: A Fourth FedExCup Title</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-03-mcilroy-fedexcup-history-quest-record-fourth">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<title>Rory McIlroy Is Chasing a Record No One Has Ever Set: A Fourth FedExCup Title</title>
+</head>
+<body>
+<article>
+  <header>
+    <h1>Rory McIlroy Is Chasing a Record No One Has Ever Set: A Fourth FedExCup Title</h1>
+    <p><strong>By Ryan Calloway</strong> | Golf Fanrecap | August 27, 2026</p>
+  </header>
+
+  <section>
+    <p>Rory McIlroy won his first FedExCup in 2016. His second in 2019. His third in 2022. No player in the history of the format has ever won four.</p>
+
+    <p>Tiger Woods, the greatest player of his generation, won two FedExCup titles. McIlroy already has three. On Thursday at East Lake Golf Club in Atlanta, he teed off in Round 1 of the Tour Championship with the record within reach — one week, one tournament, one championship away from standing completely alone in the history books.</p>
+  </section>
+
+  <section>
+    <h2>The Road That Brought Him Here</h2>
+    <p>The journey to East Lake in 2026 was not McIlroy at his smoothest. The FedEx St. Jude Championship in Memphis produced a 66th-place finish that had pundits questioning whether the Northern Irishman had the form to compete at the season's final stage.</p>
+
+    <p>He answered at the BMW Championship in Denver, posting a T3 finish that was good enough to keep him in the 30-player Tour Championship field. That result kept the record alive. McIlroy arrived at East Lake with his game returning to a level that, at its peak, has made him the most accomplished player of his era.</p>
+
+    <p>He is also the defending Masters Tournament champion, a title that has underlined the completeness of his game in major championship conditions. The pressure of East Lake — the cameras, the history, the weight of the record — is nothing new for a player who has competed at the top of professional golf for the better part of two decades.</p>
+  </section>
+
+  <section>
+    <h2>What a Fourth Title Would Mean</h2>
+    <p>In a pre-tournament press conference at East Lake, McIlroy spoke carefully about the historical implications of what he is chasing.</p>
+
+    <p>&quot;I've had a complicated year,&quot; he said. &quot;But that's what makes this week special. You have to earn your way here.&quot;</p>
+
+    <p>A fourth FedExCup title would not merely be another trophy. It would represent a category of achievement that separates McIlroy from every other player in the format's history — including Woods, who mastered almost every other dimension of professional golf but never reached three FedExCup titles.</p>
+
+    <p>It would also answer a persistent question about McIlroy's legacy: not whether he is great — that question was answered long ago — but whether he belongs in the conversation about the game's all-time greats. A fourth FedExCup, added to four major championships and a career of sustained excellence, shifts that conversation decisively.</p>
+  </section>
+
+  <section>
+    <h2>The Challenge Ahead</h2>
+    <p>East Lake is not surrendering the record easily. Scottie Scheffler, who arrived as the No. 1 seed for the fifth consecutive season with 21 career wins and a dominant Memphis victory behind him, is the most formidable obstacle in the field. Matthew Fitzpatrick, Wyndham Clark, and Tommy Fleetwood — the defending champion — are all capable of winning this week.</p>
+
+    <p>The format offers McIlroy every chance. There are no staggered starts. Every player begins at even par. If McIlroy's best golf returns over 72 holes, the record is achievable.</p>
+
+    <p>That is the question East Lake will answer by Sunday evening.</p>
+  </section>
+</article>
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-03-mcilroy-fedexcup-history-quest-record-fourth" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;title&gt;Rory McIlroy Is Chasing a Record No One Has Ever Set: A Fourth FedExCup Title&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;article&gt;
+  &lt;header&gt;
+    &lt;h1&gt;Rory McIlroy Is Chasing a Record No One Has Ever Set: A Fourth FedExCup Title&lt;/h1&gt;
+    &lt;p&gt;&lt;strong&gt;By Ryan Calloway&lt;/strong&gt; | Golf Fanrecap | August 27, 2026&lt;/p&gt;
+  &lt;/header&gt;
+
+  &lt;section&gt;
+    &lt;p&gt;Rory McIlroy won his first FedExCup in 2016. His second in 2019. His third in 2022. No player in the history of the format has ever won four.&lt;/p&gt;
+
+    &lt;p&gt;Tiger Woods, the greatest player of his generation, won two FedExCup titles. McIlroy already has three. On Thursday at East Lake Golf Club in Atlanta, he teed off in Round 1 of the Tour Championship with the record within reach — one week, one tournament, one championship away from standing completely alone in the history books.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;The Road That Brought Him Here&lt;/h2&gt;
+    &lt;p&gt;The journey to East Lake in 2026 was not McIlroy at his smoothest. The FedEx St. Jude Championship in Memphis produced a 66th-place finish that had pundits questioning whether the Northern Irishman had the form to compete at the season&#x27;s final stage.&lt;/p&gt;
+
+    &lt;p&gt;He answered at the BMW Championship in Denver, posting a T3 finish that was good enough to keep him in the 30-player Tour Championship field. That result kept the record alive. McIlroy arrived at East Lake with his game returning to a level that, at its peak, has made him the most accomplished player of his era.&lt;/p&gt;
+
+    &lt;p&gt;He is also the defending Masters Tournament champion, a title that has underlined the completeness of his game in major championship conditions. The pressure of East Lake — the cameras, the history, the weight of the record — is nothing new for a player who has competed at the top of professional golf for the better part of two decades.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;What a Fourth Title Would Mean&lt;/h2&gt;
+    &lt;p&gt;In a pre-tournament press conference at East Lake, McIlroy spoke carefully about the historical implications of what he is chasing.&lt;/p&gt;
+
+    &lt;p&gt;&quot;I&#x27;ve had a complicated year,&quot; he said. &quot;But that&#x27;s what makes this week special. You have to earn your way here.&quot;&lt;/p&gt;
+
+    &lt;p&gt;A fourth FedExCup title would not merely be another trophy. It would represent a category of achievement that separates McIlroy from every other player in the format&#x27;s history — including Woods, who mastered almost every other dimension of professional golf but never reached three FedExCup titles.&lt;/p&gt;
+
+    &lt;p&gt;It would also answer a persistent question about McIlroy&#x27;s legacy: not whether he is great — that question was answered long ago — but whether he belongs in the conversation about the game&#x27;s all-time greats. A fourth FedExCup, added to four major championships and a career of sustained excellence, shifts that conversation decisively.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;The Challenge Ahead&lt;/h2&gt;
+    &lt;p&gt;East Lake is not surrendering the record easily. Scottie Scheffler, who arrived as the No. 1 seed for the fifth consecutive season with 21 career wins and a dominant Memphis victory behind him, is the most formidable obstacle in the field. Matthew Fitzpatrick, Wyndham Clark, and Tommy Fleetwood — the defending champion — are all capable of winning this week.&lt;/p&gt;
+
+    &lt;p&gt;The format offers McIlroy every chance. There are no staggered starts. Every player begins at even par. If McIlroy&#x27;s best golf returns over 72 holes, the record is achievable.&lt;/p&gt;
+
+    &lt;p&gt;That is the question East Lake will answer by Sunday evening.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-03-mcilroy-fedexcup-history-quest-record-fourth">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-03-mcilroy-fedexcup-history-quest-record-fourth')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-03-mcilroy-fedexcup-history-quest-record-fourth')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-03-mcilroy-fedexcup-history-quest-record-fourth">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-03-mcilroy-fedexcup-history-quest-record-fourth')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-03-mcilroy-fedexcup-history-quest-record-fourth')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-03-mcilroy-fedexcup-history-quest-record-fourth')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-03-mcilroy-fedexcup-history-quest-record-fourth')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-03-mcilroy-fedexcup-history-quest-record-fourth">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-03-mcilroy-fedexcup-history-quest-record-fourth" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-03-mcilroy-fedexcup-history-quest-record-fourth"></div>
+                </div>
+                <div class="card" data-id="article-article-04-scheffler-historic-season-five-straight" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Five Straight No. 1 Seeds, 21 Wins: Scottie Scheffler&#x27;s Season Is Historically Unprecedented</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-04-scheffler-historic-season-five-straight">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<title>Five Straight No. 1 Seeds, 21 Wins: Scottie Scheffler's Season Is Historically Unprecedented</title>
+</head>
+<body>
+<article>
+  <header>
+    <h1>Five Straight No. 1 Seeds, 21 Wins: Scottie Scheffler's Season Is Historically Unprecedented</h1>
+    <p><strong>By Jake Torres</strong> | Golf Fanrecap | August 27, 2026</p>
+  </header>
+
+  <section>
+    <p>There are benchmarks in professional golf that define eras. Jack Nicklaus and his 18 major championships. Tiger Woods and his 15. Sam Snead and his 82 PGA Tour victories. These are the numbers that frame how good the best players in the history of the game have been.</p>
+
+    <p>Scottie Scheffler is building his own set of numbers — and this year at East Lake, he adds another chapter to what is becoming the most dominant sustained run in modern professional golf.</p>
+
+    <p>Five consecutive seasons as the No. 1 FedExCup seed. Twenty-one career PGA Tour victories. A $23 million bonus locked in before the Tour Championship begins. A FedExCup title in 2024. And a regular season that ended with an eight-shot victory at the FedEx St. Jude Championship in Memphis — a margin so large it borders on surreal at the elite level of professional golf.</p>
+  </section>
+
+  <section>
+    <h2>The Numbers in Context</h2>
+    <p>Five straight seasons as the No. 1 seed means five straight seasons as the best player on the PGA Tour by the tour's own point-based measure. It means that every competitor in the field at East Lake has spent the last five years watching Scheffler set the standard they are trying to meet.</p>
+
+    <p>His 21st career win at the FedEx St. Jude was achieved by eight shots — not two, not four, but eight. In a field of PGA Tour professionals competing at one of the season's final playoff events, Scheffler won by a number that would be remarkable at a regular tour event and borders on absurd at a $20 million playoff.
+
+    <p>The $23 million bonus figure represents the tour's acknowledgment that over the course of an entire season, across dozens of events and millions of competitive shots, Scheffler was the best. Not occasionally. Consistently.</p>
+  </section>
+
+  <section>
+    <h2>Winning the FedExCup Again</h2>
+    <p>Scheffler won the FedExCup title in 2024, claiming it at East Lake in what was another dominant performance. He arrives in 2026 seeking to become a two-time FedExCup champion — a mark that would pair with his sustained No. 1 seedings to paint a portrait of era-defining excellence.</p>
+
+    <p>The Tour Championship format offers every player an equal starting point: no staggered starts, all 30 players beginning at even par. That means Scheffler cannot coast on a structural advantage. He has to play his way to the title over 72 holes of championship golf at a course that demands precision and patience.</p>
+
+    <p>He has shown, repeatedly, that he can do exactly that.</p>
+  </section>
+
+  <section>
+    <h2>The Question No One Can Answer</h2>
+    <p>When people talk about the greatest players in golf history, the conversation has traditionally centered on major championships. Scheffler's major count is growing. But the FedExCup — with its season-long points race, its playoff series, and its finale at East Lake — offers a different kind of measurement: who is the best player over the course of an entire season, not just a single week?</p>
+
+    <p>By that measure, Scheffler has answered the question five consecutive times.</p>
+
+    <p>The only remaining question at East Lake is whether he answers it a sixth time — and adds a second FedExCup trophy to go alongside his 21 wins, his $23 million bonus, and his place in the conversation about the greatest players this generation of golf has produced.</p>
+  </section>
+</article>
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-04-scheffler-historic-season-five-straight" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;title&gt;Five Straight No. 1 Seeds, 21 Wins: Scottie Scheffler&#x27;s Season Is Historically Unprecedented&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;article&gt;
+  &lt;header&gt;
+    &lt;h1&gt;Five Straight No. 1 Seeds, 21 Wins: Scottie Scheffler&#x27;s Season Is Historically Unprecedented&lt;/h1&gt;
+    &lt;p&gt;&lt;strong&gt;By Jake Torres&lt;/strong&gt; | Golf Fanrecap | August 27, 2026&lt;/p&gt;
+  &lt;/header&gt;
+
+  &lt;section&gt;
+    &lt;p&gt;There are benchmarks in professional golf that define eras. Jack Nicklaus and his 18 major championships. Tiger Woods and his 15. Sam Snead and his 82 PGA Tour victories. These are the numbers that frame how good the best players in the history of the game have been.&lt;/p&gt;
+
+    &lt;p&gt;Scottie Scheffler is building his own set of numbers — and this year at East Lake, he adds another chapter to what is becoming the most dominant sustained run in modern professional golf.&lt;/p&gt;
+
+    &lt;p&gt;Five consecutive seasons as the No. 1 FedExCup seed. Twenty-one career PGA Tour victories. A $23 million bonus locked in before the Tour Championship begins. A FedExCup title in 2024. And a regular season that ended with an eight-shot victory at the FedEx St. Jude Championship in Memphis — a margin so large it borders on surreal at the elite level of professional golf.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;The Numbers in Context&lt;/h2&gt;
+    &lt;p&gt;Five straight seasons as the No. 1 seed means five straight seasons as the best player on the PGA Tour by the tour&#x27;s own point-based measure. It means that every competitor in the field at East Lake has spent the last five years watching Scheffler set the standard they are trying to meet.&lt;/p&gt;
+
+    &lt;p&gt;His 21st career win at the FedEx St. Jude was achieved by eight shots — not two, not four, but eight. In a field of PGA Tour professionals competing at one of the season&#x27;s final playoff events, Scheffler won by a number that would be remarkable at a regular tour event and borders on absurd at a $20 million playoff.
+
+    &lt;p&gt;The $23 million bonus figure represents the tour&#x27;s acknowledgment that over the course of an entire season, across dozens of events and millions of competitive shots, Scheffler was the best. Not occasionally. Consistently.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;Winning the FedExCup Again&lt;/h2&gt;
+    &lt;p&gt;Scheffler won the FedExCup title in 2024, claiming it at East Lake in what was another dominant performance. He arrives in 2026 seeking to become a two-time FedExCup champion — a mark that would pair with his sustained No. 1 seedings to paint a portrait of era-defining excellence.&lt;/p&gt;
+
+    &lt;p&gt;The Tour Championship format offers every player an equal starting point: no staggered starts, all 30 players beginning at even par. That means Scheffler cannot coast on a structural advantage. He has to play his way to the title over 72 holes of championship golf at a course that demands precision and patience.&lt;/p&gt;
+
+    &lt;p&gt;He has shown, repeatedly, that he can do exactly that.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;The Question No One Can Answer&lt;/h2&gt;
+    &lt;p&gt;When people talk about the greatest players in golf history, the conversation has traditionally centered on major championships. Scheffler&#x27;s major count is growing. But the FedExCup — with its season-long points race, its playoff series, and its finale at East Lake — offers a different kind of measurement: who is the best player over the course of an entire season, not just a single week?&lt;/p&gt;
+
+    &lt;p&gt;By that measure, Scheffler has answered the question five consecutive times.&lt;/p&gt;
+
+    &lt;p&gt;The only remaining question at East Lake is whether he answers it a sixth time — and adds a second FedExCup trophy to go alongside his 21 wins, his $23 million bonus, and his place in the conversation about the greatest players this generation of golf has produced.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-04-scheffler-historic-season-five-straight">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-04-scheffler-historic-season-five-straight')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-04-scheffler-historic-season-five-straight')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-04-scheffler-historic-season-five-straight">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-04-scheffler-historic-season-five-straight')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-04-scheffler-historic-season-five-straight')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-04-scheffler-historic-season-five-straight')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-04-scheffler-historic-season-five-straight')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-04-scheffler-historic-season-five-straight">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-04-scheffler-historic-season-five-straight" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-04-scheffler-historic-season-five-straight"></div>
+                </div>
+                <div class="card" data-id="article-article-05-liv-golf-2027-future-uncertain-norman" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">LIV Golf&#x27;s 2027 Future Is Uncertain: Norman Won&#x27;t Guarantee Another Season</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-05-liv-golf-2027-future-uncertain-norman">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<title>LIV Golf's 2027 Future Is Uncertain: Norman Won't Guarantee Another Season</title>
+</head>
+<body>
+<article>
+  <header>
+    <h1>LIV Golf's 2027 Future Is Uncertain: Norman Won't Guarantee Another Season</h1>
+    <p><strong>By Marcus Cole</strong> | Golf Fanrecap | August 27, 2026</p>
+  </header>
+
+  <section>
+    <p>The 2026 LIV Golf season is over. The champion has been crowned, the team title decided, and the players have gone home. What they do not know — what none of them know — is whether they will have a league to return to next year.</p>
+
+    <p>When commissioner Greg Norman met with the media following the conclusion of the 2026 season at Indianapolis, he declined to guarantee that a 2027 LIV Golf season would take place. It was a careful non-answer from a commissioner who has always projected confidence, and the silence it produced inside the sport was deafening.</p>
+  </section>
+
+  <section>
+    <h2>The Final Event: La Sasso Wins, Rahm Claims History</h2>
+    <p>The last competitive round of LIV Golf's 2026 season produced the drama the format was designed to generate. Michael La Sasso posted 18-under par at the Indianapolis event, edging Jon Rahm by a single shot to claim the final tournament title of the year.</p>
+
+    <p>Rahm, though, had already secured the prize that mattered most individually: his third consecutive LIV individual championship. In a format designed around team competition, Rahm's individual dominance across three straight seasons stands as one of the most remarkable runs in the young league's history. Legion XIII won the 2026 team championship, adding a team title to complement the league's most prominent individual story.</p>
+
+    <p>In any other context, Rahm's achievement would be the story of the week. Instead, it was overshadowed by questions about whether the week was the last one.</p>
+  </section>
+
+  <section>
+    <h2>The Warning From One of LIV's Own</h2>
+    <p>Ian Poulter did not mince words. One of LIV's founding players — a man who gave up his DP World Tour membership and accepted the professional consequences of joining the circuit in its inaugural season — publicly warned after Indianapolis that LIV Golf may be running out of time.</p>
+
+    <p>Poulter's words carried weight precisely because of his history with the league. He is not a critic from the outside. He is a stakeholder who built his decision to join LIV around the belief that the circuit had the resources and commitment to sustain itself. His warning suggests that belief has been tested.</p>
+
+    <p>For the more than 50 players who compete on LIV, Poulter's statement raises questions that have no easy answers. Where do they go if the league does not continue? The PGA Tour has not indicated it would welcome returning LIV players without conditions. The DP World Tour has its own complex history with many of these players.</p>
+  </section>
+
+  <section>
+    <h2>What Comes Next</h2>
+    <p>Norman's non-guarantee does not mean LIV Golf is finished. Leagues survive funding crises. Commissioners hedge publicly while negotiating privately. There are multiple possible outcomes between a fully operational 2027 season and complete shutdown.</p>
+
+    <p>But the uncertainty itself is damaging. Players who might otherwise consider joining LIV have reason to pause. Sponsors evaluating long-term partnerships have reason to hesitate. The league's value proposition — that it represented a stable, well-funded alternative to the traditional tour system — becomes harder to sell when the commissioner cannot confirm next year's schedule.</p>
+
+    <p>The 2026 season produced good golf. La Sasso's late charge, Rahm's historic run, Legion XIII's team title — these were legitimate achievements. Whether a 2027 season arrives to build on them is now the league's most pressing question, and the answer is not coming from the commissioner's office today.</p>
+  </section>
+</article>
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-05-liv-golf-2027-future-uncertain-norman" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;title&gt;LIV Golf&#x27;s 2027 Future Is Uncertain: Norman Won&#x27;t Guarantee Another Season&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;article&gt;
+  &lt;header&gt;
+    &lt;h1&gt;LIV Golf&#x27;s 2027 Future Is Uncertain: Norman Won&#x27;t Guarantee Another Season&lt;/h1&gt;
+    &lt;p&gt;&lt;strong&gt;By Marcus Cole&lt;/strong&gt; | Golf Fanrecap | August 27, 2026&lt;/p&gt;
+  &lt;/header&gt;
+
+  &lt;section&gt;
+    &lt;p&gt;The 2026 LIV Golf season is over. The champion has been crowned, the team title decided, and the players have gone home. What they do not know — what none of them know — is whether they will have a league to return to next year.&lt;/p&gt;
+
+    &lt;p&gt;When commissioner Greg Norman met with the media following the conclusion of the 2026 season at Indianapolis, he declined to guarantee that a 2027 LIV Golf season would take place. It was a careful non-answer from a commissioner who has always projected confidence, and the silence it produced inside the sport was deafening.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;The Final Event: La Sasso Wins, Rahm Claims History&lt;/h2&gt;
+    &lt;p&gt;The last competitive round of LIV Golf&#x27;s 2026 season produced the drama the format was designed to generate. Michael La Sasso posted 18-under par at the Indianapolis event, edging Jon Rahm by a single shot to claim the final tournament title of the year.&lt;/p&gt;
+
+    &lt;p&gt;Rahm, though, had already secured the prize that mattered most individually: his third consecutive LIV individual championship. In a format designed around team competition, Rahm&#x27;s individual dominance across three straight seasons stands as one of the most remarkable runs in the young league&#x27;s history. Legion XIII won the 2026 team championship, adding a team title to complement the league&#x27;s most prominent individual story.&lt;/p&gt;
+
+    &lt;p&gt;In any other context, Rahm&#x27;s achievement would be the story of the week. Instead, it was overshadowed by questions about whether the week was the last one.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;The Warning From One of LIV&#x27;s Own&lt;/h2&gt;
+    &lt;p&gt;Ian Poulter did not mince words. One of LIV&#x27;s founding players — a man who gave up his DP World Tour membership and accepted the professional consequences of joining the circuit in its inaugural season — publicly warned after Indianapolis that LIV Golf may be running out of time.&lt;/p&gt;
+
+    &lt;p&gt;Poulter&#x27;s words carried weight precisely because of his history with the league. He is not a critic from the outside. He is a stakeholder who built his decision to join LIV around the belief that the circuit had the resources and commitment to sustain itself. His warning suggests that belief has been tested.&lt;/p&gt;
+
+    &lt;p&gt;For the more than 50 players who compete on LIV, Poulter&#x27;s statement raises questions that have no easy answers. Where do they go if the league does not continue? The PGA Tour has not indicated it would welcome returning LIV players without conditions. The DP World Tour has its own complex history with many of these players.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;What Comes Next&lt;/h2&gt;
+    &lt;p&gt;Norman&#x27;s non-guarantee does not mean LIV Golf is finished. Leagues survive funding crises. Commissioners hedge publicly while negotiating privately. There are multiple possible outcomes between a fully operational 2027 season and complete shutdown.&lt;/p&gt;
+
+    &lt;p&gt;But the uncertainty itself is damaging. Players who might otherwise consider joining LIV have reason to pause. Sponsors evaluating long-term partnerships have reason to hesitate. The league&#x27;s value proposition — that it represented a stable, well-funded alternative to the traditional tour system — becomes harder to sell when the commissioner cannot confirm next year&#x27;s schedule.&lt;/p&gt;
+
+    &lt;p&gt;The 2026 season produced good golf. La Sasso&#x27;s late charge, Rahm&#x27;s historic run, Legion XIII&#x27;s team title — these were legitimate achievements. Whether a 2027 season arrives to build on them is now the league&#x27;s most pressing question, and the answer is not coming from the commissioner&#x27;s office today.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-05-liv-golf-2027-future-uncertain-norman">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-05-liv-golf-2027-future-uncertain-norman')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-05-liv-golf-2027-future-uncertain-norman')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-05-liv-golf-2027-future-uncertain-norman">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-05-liv-golf-2027-future-uncertain-norman')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-05-liv-golf-2027-future-uncertain-norman')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-05-liv-golf-2027-future-uncertain-norman')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-05-liv-golf-2027-future-uncertain-norman')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-05-liv-golf-2027-future-uncertain-norman">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-05-liv-golf-2027-future-uncertain-norman" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-05-liv-golf-2027-future-uncertain-norman"></div>
+                </div>
+            </div>
+
+            <div class="empty-state" id="empty-state" style="display: none;">
+                <div class="empty-state-icon">No items match your filter</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Schedule settings modal -->
+    <div class="schedule-overlay" id="schedule-overlay" onclick="closeSchedulePanel()"></div>
+    <div class="schedule-panel" id="schedule-panel">
+        <h3>Posting Schedule Settings</h3>
+        <div class="schedule-section">
+            <label>Post Date (defaults to content date)</label>
+            <input type="date" id="schedule-date" />
+        </div>
+        <div class="schedule-section">
+            <label>X / Twitter Time Slots</label>
+            <div class="time-slots" id="x-time-slots"></div>
+            <div style="margin-top:8px;">
+                <input type="time" id="new-x-time" style="width:auto;display:inline-block;margin-right:8px;" />
+                <span class="add-slot-btn" onclick="addTimeSlot('x')">+ Add Slot</span>
+            </div>
+        </div>
+        <div class="schedule-section">
+            <label>Facebook Time Slots</label>
+            <div class="time-slots" id="fb-time-slots"></div>
+            <div style="margin-top:8px;">
+                <input type="time" id="new-fb-time" style="width:auto;display:inline-block;margin-right:8px;" />
+                <span class="add-slot-btn" onclick="addTimeSlot('fb')">+ Add Slot</span>
+            </div>
+        </div>
+        <div class="schedule-section" style="background:#f9f9f9;padding:12px;border-radius:6px;font-size:12px;color:#666;">
+            Posts will be assigned to time slots in order. If you have more posts than slots, they wrap around. After downloading, upload the file directly to PostPlanner via Bulk Upload.
+        </div>
+        <div class="schedule-actions">
+            <button class="btn btn-secondary" onclick="closeSchedulePanel()">Cancel</button>
+            <button class="btn btn-csv" onclick="generateAndDownload()">Generate &amp; Download XLSX</button>
+        </div>
+    </div>
+
+    <!-- SheetJS for XLSX generation (loaded async so it doesn't block) -->
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+    <script>
+
+        const DATE = '2026-08-27';
+        const BRAND_NAME = 'Golf Fanrecap';
+        const REVIEW_STORAGE_KEY = 'golf-content-review';
+        const SCHEDULE_STORAGE_KEY = 'golf-content-schedule-config';
+        const PHOTO_SOURCE = 'imagn';
+        let reviewData = {};
+        const allStories = [{"id": "story-1-daily_brief", "title": "Tour Championship Round 1 Underway \u2014 Scheffler Hunts History at East Lake", "content": "Tour Championship Round 1 Underway \u2014 Scheffler Hunts History at East Lake", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-1-x_post-1", "title": "Tour Championship Round 1 Underway \u2014 Scheffler Hunts History at East Lake", "content": "The Tour Championship is LIVE at East Lake.\n\n$40 million on the line. 30 of the best players in the world. No staggered starts \u2014 every shot counts from hole one.\n\nScottie Scheffler is the No. 1 seed. Again.\n\n#TourChampionship #FedExCup #GolfFanrecap", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#TourChampionship #FedExCup #GolfFanrecap", "tweet_label": "Post 1-1"}, {"id": "story-1-x_post-2", "title": "Tour Championship Round 1 Underway \u2014 Scheffler Hunts History at East Lake", "content": "Scottie Scheffler arrives at East Lake with 21 career wins, a $23M bonus already locked, and his 5th straight No. 1 seed.\n\nTommy Fleetwood is the defending champion. He's standing in the way.\n\nCan anyone stop Scheffler? \ud83c\udfc6\n\n#TourChampionship #Scheffler #GolfFanrecap", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#TourChampionship #Scheffler #GolfFanrecap", "tweet_label": "Post 1-2"}, {"id": "story-2-daily_brief", "title": "LPGA FM Championship Round 1 \u2014 Miranda Wang Defends at TPC Boston", "content": "LPGA FM Championship Round 1 \u2014 Miranda Wang Defends at TPC Boston", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-2-x_post-1", "title": "LPGA FM Championship Round 1 \u2014 Miranda Wang Defends at TPC Boston", "content": "The LPGA FM Championship is underway at TPC Boston.\n\nMiranda Wang won this last year at 20-under par \u2014 one shot over Thitikul in a finish nobody who watched will forget.\n\nShe's back. Thitikul is back. Korda is here too.\n\n#FMChampionship #LPGA #GolfFanrecap", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#FMChampionship #LPGA #GolfFanrecap", "tweet_label": "Post 2"}, {"id": "story-3-daily_brief", "title": "McIlroy's FedExCup History Quest \u2014 Can He Win a Record Fourth Title?", "content": "McIlroy's FedExCup History Quest \u2014 Can He Win a Record Fourth Title?", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-3-x_post-1", "title": "McIlroy's FedExCup History Quest \u2014 Can He Win a Record Fourth Title?", "content": "Rory McIlroy has won the FedExCup 3 times. No one has ever won 4.\n\nNot Tiger. Not anyone.\n\nHe's at East Lake. He's in the field. The record is right there.\n\n#McIlroy #FedExCup #GolfFanrecap", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#McIlroy #FedExCup #GolfFanrecap", "tweet_label": "Post 3-1"}, {"id": "story-3-x_post-2", "title": "McIlroy's FedExCup History Quest \u2014 Can He Win a Record Fourth Title?", "content": "McIlroy's path to East Lake wasn't clean \u2014 66th at Memphis, T3 at BMW.\n\nBut he's here. Defending Masters champion. Three-time FedExCup winner.\n\nHistory is one tournament away.\n\n#McIlroy #FedExCup #PGATour #GolfFanrecap", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#McIlroy #FedExCup #PGATour #GolfFanrecap", "tweet_label": "Post 3-2"}, {"id": "story-4-daily_brief", "title": "Scheffler's Historic Season \u2014 Five Straight No. 1 Seeds, 21 Wins", "content": "Scheffler's Historic Season \u2014 Five Straight No. 1 Seeds, 21 Wins", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-4-x_post-1", "title": "Scheffler's Historic Season \u2014 Five Straight No. 1 Seeds, 21 Wins", "content": "Five consecutive years as the No. 1 FedExCup seed.\n\n21 PGA Tour wins. A $23 million bonus. An 8-shot victory last week.\n\nScottie Scheffler isn't just the best golfer alive. He might be the most dominant golfer of this era.\n\n#Scheffler #PGATour #GolfFanrecap", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#Scheffler #PGATour #GolfFanrecap", "tweet_label": "Post 4"}, {"id": "story-5-daily_brief", "title": "LIV Golf's Future \u2014 Norman Won't Guarantee 2027 Season", "content": "LIV Golf's Future \u2014 Norman Won't Guarantee 2027 Season", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-5-x_post-1", "title": "LIV Golf's Future \u2014 Norman Won't Guarantee 2027 Season", "content": "The 2026 LIV Golf season is over.\n\nMichael La Sasso won the final event. Jon Rahm claimed his 3rd straight individual title. But Greg Norman won't guarantee 2027 is happening.\n\nIan Poulter is warning LIV is running out of time.\n\n#LIVGolf #GolfFanrecap", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#LIVGolf #GolfFanrecap", "tweet_label": "Post 5-1"}, {"id": "story-5-x_post-2", "title": "LIV Golf's Future \u2014 Norman Won't Guarantee 2027 Season", "content": "Rahm. La Sasso. 50+ players. One uncertain future.\n\nLIV Golf ended its 2026 season in Indianapolis. The commissioner won't commit to 2027.\n\nWhat happens to the players who bet their careers on this tour? \ud83d\udc40\n\n#LIVGolf #GolfFanrecap", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#LIVGolf #GolfFanrecap", "tweet_label": "Post 5-2"}, {"id": "article-article-01-tour-championship-round-1-scheffler-east-lake", "title": "Tour Championship Round 1 is Live: Scheffler Hunts His Second FedExCup at East Lake", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Tour Championship Round 1 is Live: Scheffler Hunts His Second FedExCup at East Lake<\/title>\n<\/head>\n<body>\n<article>\n  <header>\n    <h1>Tour Championship Round 1 is Live: Scheffler Hunts His Second FedExCup at East Lake<\/h1>\n    <p><strong>By Jake Torres<\/strong> | Golf Fanrecap | August 27, 2026<\/p>\n  <\/header>\n\n  <section>\n    <p>The season-ending finale of professional golf is underway. The Tour Championship opened Round 1 at East Lake Golf Club in Atlanta on Thursday, with 30 of the world's best players competing for a $40 million prize fund \u2014 the richest in PGA Tour history.<\/p>\n\n    <p>At the center of everything, as he has been for five consecutive seasons, is Scottie Scheffler.<\/p>\n\n    <p>The No. 1 seed arrives at East Lake on the back of one of the most dominant regular seasons professional golf has ever witnessed \u2014 21 career PGA Tour wins, a $23 million FedExCup bonus already locked in, and an eight-shot victory at the FedEx St. Jude Championship in Memphis just weeks ago. He won the FedExCup in 2024. He is here to win it again.<\/p>\n  <\/section>\n\n  <section>\n    <h2>The Format: No Staggered Starts<\/h2>\n    <p>A critical distinction of this year's Tour Championship is one that separates it from earlier iterations of the playoff format: there are no staggered starts. All 30 players begin Round 1 at even par, competing on identical terms from the opening tee shot.<\/p>\n\n    <p>That means every stroke matters from the first hole. There is no built-in advantage for the top seeds and no deficit baked in for those who arrived via the BMW Championship at the edge of qualifying. The leaderboard will reflect actual performance over 72 holes of championship golf.<\/p>\n\n    <p>East Lake Golf Club, one of American golf's most storied venues and the longtime home of Bobby Jones, suits this format precisely. The Donald Ross design demands precision, patience, and the ability to manage a course that rewards smart play over athletic brute force.<\/p>\n  <\/section>\n\n  <section>\n    <h2>The Field Around Scheffler<\/h2>\n    <p>Scheffler will not walk into Sunday unchallenged. The 30-player field represents the entirety of elite professional golf in 2026.<\/p>\n\n    <p>Matthew Fitzpatrick, the No. 2 seed, is among the most consistent ball-strikers in the game and a past U.S. Open champion. Wyndham Clark, the BMW Championship winner and No. 3 seed, arrives with the momentum of a recent victory. Tommy Fleetwood is the defending Tour Championship champion and knows East Lake better than almost anyone in this week's field.<\/p>\n\n    <p>And then there is Rory McIlroy.<\/p>\n\n    <p>The three-time FedExCup champion \u2014 2016, 2019, 2022 \u2014 is chasing a record that has stood untouched since the format's inception. No player has ever won four FedExCup titles. McIlroy's path here was uneven: a 66th-place finish at the FedEx St. Jude in Memphis gave way to a T3 at the BMW Championship, enough to earn his East Lake berth but not the form trajectory he would have wanted.<\/p>\n\n    <p>Whether McIlroy's best golf returns under the pressure of a historic chase is one of this week's defining storylines.<\/p>\n  <\/section>\n\n  <section>\n    <h2>Television and Coverage<\/h2>\n    <p>Round 1 coverage is live on ESPN and Golf Channel. The event runs through Sunday, August 30, with the FedExCup champion crowned following the final round.<\/p>\n\n    <p>Scheffler and Fitzpatrick are paired together in what figures to be the week's marquee grouping, teeing off at approximately 2 PM ET on Thursday.<\/p>\n  <\/section>\n\n  <section>\n    <h2>What to Watch<\/h2>\n    <p>The question at the Tour Championship is always the same and never simple: can anyone match Scheffler when he is locked in? Over the past five seasons, the answer has almost always been no. He has been the best player in professional golf by a margin that most statistical models struggle to quantify.<\/p>\n\n    <p>But East Lake has a history of producing unexpected outcomes. The no-staggered-starts format removes the safety net. And a 30-player field includes enough firepower to put genuine pressure on anyone \u2014 even the most dominant player of his era.<\/p>\n\n    <p>Round 1 is live. The FedExCup finale has begun.<\/p>\n  <\/section>\n<\/article>\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-02-lpga-fm-championship-round-1-wang-defends", "title": "LPGA FM Championship Round 1: Miranda Wang Returns to TPC Boston to Defend Her Title", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<title>LPGA FM Championship Round 1: Miranda Wang Returns to TPC Boston to Defend Her Title<\/title>\n<\/head>\n<body>\n<article>\n  <header>\n    <h1>LPGA FM Championship Round 1: Miranda Wang Returns to TPC Boston to Defend Her Title<\/h1>\n    <p><strong>By Marcus Cole<\/strong> | Golf Fanrecap | August 27, 2026<\/p>\n  <\/header>\n\n  <section>\n    <p>Miranda Wang is back at TPC Boston. The defending FM Championship champion returned to Norton, Massachusetts on Thursday for the opening round of the 2026 LPGA FM Championship \u2014 one of the richest and most competitive events on the women's golf calendar.<\/p>\n\n    <p>Wang won the 2025 edition of this event at 20-under par, holding off Jeeno Thitikul by a single shot in a wire-to-wire performance that announced her as a legitimate force at the highest level of the LPGA Tour. It was the kind of win that players spend entire careers trying to replicate.<\/p>\n\n    <p>Now she has to do it again. And the same players who pushed her last year are back.<\/p>\n  <\/section>\n\n  <section>\n    <h2>The Course and the Challenge<\/h2>\n    <p>TPC Boston is a par-71 layout that demands accuracy from the tee and sharp iron play into greens that can be unforgiving under tournament pin positions. The bent-grass putting surfaces reward patience; the tree-lined fairways punish ambition. Scores can cluster quickly at LPGA events on this style of course, which means the margin between champion and first loser is measured in moments rather than miles.<\/p>\n\n    <p>Wang's -20 performance in 2025 was exceptional by any measure. Matching or exceeding that total as the defending champion \u2014 with every player in the field studying how she did it \u2014 is a different kind of challenge entirely.<\/p>\n  <\/section>\n\n  <section>\n    <h2>The Competition<\/h2>\n    <p>Jeeno (Atthaya) Thitikul enters Round 1 with the kind of motivation that produces career-best performances. The Thai star was one shot away from winning this event in 2025 and has spent the intervening twelve months demonstrating that her game belongs at the very top of women's professional golf.<\/p>\n\n    <p>Nelly Korda, one of the game's most decorated players and a former world No. 1, brings a record of championship golf that spans multiple continents and formats. At a course that suits her precise ball-striking, Korda is a genuine contender from the first tee.<\/p>\n\n    <p>Charley Hull, the English star who has grown into one of the LPGA Tour's most popular and competitive figures, rounds out a top tier of competitors that will push Wang from the opening holes.<\/p>\n\n    <p>The $4.4 million purse \u2014 among the largest on the LPGA Tour calendar \u2014 ensures that the field has arrived at TPC Boston fully motivated.<\/p>\n  <\/section>\n\n  <section>\n    <h2>What's Next<\/h2>\n    <p>Round 1 is underway Thursday. The FM Championship runs through Sunday, August 30, with the champion crowned at TPC Boston following 72 holes of LPGA competition.<\/p>\n\n    <p>Wang has said she is comfortable returning to a course where she has tasted major success. Whether that comfort translates to a second consecutive title depends on 72 holes of execution against the best players in women's professional golf.<\/p>\n\n    <p>Stay with Golf Fanrecap for scoring updates and analysis throughout the week.<\/p>\n  <\/section>\n<\/article>\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-03-mcilroy-fedexcup-history-quest-record-fourth", "title": "Rory McIlroy Is Chasing a Record No One Has Ever Set: A Fourth FedExCup Title", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Rory McIlroy Is Chasing a Record No One Has Ever Set: A Fourth FedExCup Title<\/title>\n<\/head>\n<body>\n<article>\n  <header>\n    <h1>Rory McIlroy Is Chasing a Record No One Has Ever Set: A Fourth FedExCup Title<\/h1>\n    <p><strong>By Ryan Calloway<\/strong> | Golf Fanrecap | August 27, 2026<\/p>\n  <\/header>\n\n  <section>\n    <p>Rory McIlroy won his first FedExCup in 2016. His second in 2019. His third in 2022. No player in the history of the format has ever won four.<\/p>\n\n    <p>Tiger Woods, the greatest player of his generation, won two FedExCup titles. McIlroy already has three. On Thursday at East Lake Golf Club in Atlanta, he teed off in Round 1 of the Tour Championship with the record within reach \u2014 one week, one tournament, one championship away from standing completely alone in the history books.<\/p>\n  <\/section>\n\n  <section>\n    <h2>The Road That Brought Him Here<\/h2>\n    <p>The journey to East Lake in 2026 was not McIlroy at his smoothest. The FedEx St. Jude Championship in Memphis produced a 66th-place finish that had pundits questioning whether the Northern Irishman had the form to compete at the season's final stage.<\/p>\n\n    <p>He answered at the BMW Championship in Denver, posting a T3 finish that was good enough to keep him in the 30-player Tour Championship field. That result kept the record alive. McIlroy arrived at East Lake with his game returning to a level that, at its peak, has made him the most accomplished player of his era.<\/p>\n\n    <p>He is also the defending Masters Tournament champion, a title that has underlined the completeness of his game in major championship conditions. The pressure of East Lake \u2014 the cameras, the history, the weight of the record \u2014 is nothing new for a player who has competed at the top of professional golf for the better part of two decades.<\/p>\n  <\/section>\n\n  <section>\n    <h2>What a Fourth Title Would Mean<\/h2>\n    <p>In a pre-tournament press conference at East Lake, McIlroy spoke carefully about the historical implications of what he is chasing.<\/p>\n\n    <p>\"I've had a complicated year,\" he said. \"But that's what makes this week special. You have to earn your way here.\"<\/p>\n\n    <p>A fourth FedExCup title would not merely be another trophy. It would represent a category of achievement that separates McIlroy from every other player in the format's history \u2014 including Woods, who mastered almost every other dimension of professional golf but never reached three FedExCup titles.<\/p>\n\n    <p>It would also answer a persistent question about McIlroy's legacy: not whether he is great \u2014 that question was answered long ago \u2014 but whether he belongs in the conversation about the game's all-time greats. A fourth FedExCup, added to four major championships and a career of sustained excellence, shifts that conversation decisively.<\/p>\n  <\/section>\n\n  <section>\n    <h2>The Challenge Ahead<\/h2>\n    <p>East Lake is not surrendering the record easily. Scottie Scheffler, who arrived as the No. 1 seed for the fifth consecutive season with 21 career wins and a dominant Memphis victory behind him, is the most formidable obstacle in the field. Matthew Fitzpatrick, Wyndham Clark, and Tommy Fleetwood \u2014 the defending champion \u2014 are all capable of winning this week.<\/p>\n\n    <p>The format offers McIlroy every chance. There are no staggered starts. Every player begins at even par. If McIlroy's best golf returns over 72 holes, the record is achievable.<\/p>\n\n    <p>That is the question East Lake will answer by Sunday evening.<\/p>\n  <\/section>\n<\/article>\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-04-scheffler-historic-season-five-straight", "title": "Five Straight No. 1 Seeds, 21 Wins: Scottie Scheffler's Season Is Historically Unprecedented", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Five Straight No. 1 Seeds, 21 Wins: Scottie Scheffler's Season Is Historically Unprecedented<\/title>\n<\/head>\n<body>\n<article>\n  <header>\n    <h1>Five Straight No. 1 Seeds, 21 Wins: Scottie Scheffler's Season Is Historically Unprecedented<\/h1>\n    <p><strong>By Jake Torres<\/strong> | Golf Fanrecap | August 27, 2026<\/p>\n  <\/header>\n\n  <section>\n    <p>There are benchmarks in professional golf that define eras. Jack Nicklaus and his 18 major championships. Tiger Woods and his 15. Sam Snead and his 82 PGA Tour victories. These are the numbers that frame how good the best players in the history of the game have been.<\/p>\n\n    <p>Scottie Scheffler is building his own set of numbers \u2014 and this year at East Lake, he adds another chapter to what is becoming the most dominant sustained run in modern professional golf.<\/p>\n\n    <p>Five consecutive seasons as the No. 1 FedExCup seed. Twenty-one career PGA Tour victories. A $23 million bonus locked in before the Tour Championship begins. A FedExCup title in 2024. And a regular season that ended with an eight-shot victory at the FedEx St. Jude Championship in Memphis \u2014 a margin so large it borders on surreal at the elite level of professional golf.<\/p>\n  <\/section>\n\n  <section>\n    <h2>The Numbers in Context<\/h2>\n    <p>Five straight seasons as the No. 1 seed means five straight seasons as the best player on the PGA Tour by the tour's own point-based measure. It means that every competitor in the field at East Lake has spent the last five years watching Scheffler set the standard they are trying to meet.<\/p>\n\n    <p>His 21st career win at the FedEx St. Jude was achieved by eight shots \u2014 not two, not four, but eight. In a field of PGA Tour professionals competing at one of the season's final playoff events, Scheffler won by a number that would be remarkable at a regular tour event and borders on absurd at a $20 million playoff.\n\n    <p>The $23 million bonus figure represents the tour's acknowledgment that over the course of an entire season, across dozens of events and millions of competitive shots, Scheffler was the best. Not occasionally. Consistently.<\/p>\n  <\/section>\n\n  <section>\n    <h2>Winning the FedExCup Again<\/h2>\n    <p>Scheffler won the FedExCup title in 2024, claiming it at East Lake in what was another dominant performance. He arrives in 2026 seeking to become a two-time FedExCup champion \u2014 a mark that would pair with his sustained No. 1 seedings to paint a portrait of era-defining excellence.<\/p>\n\n    <p>The Tour Championship format offers every player an equal starting point: no staggered starts, all 30 players beginning at even par. That means Scheffler cannot coast on a structural advantage. He has to play his way to the title over 72 holes of championship golf at a course that demands precision and patience.<\/p>\n\n    <p>He has shown, repeatedly, that he can do exactly that.<\/p>\n  <\/section>\n\n  <section>\n    <h2>The Question No One Can Answer<\/h2>\n    <p>When people talk about the greatest players in golf history, the conversation has traditionally centered on major championships. Scheffler's major count is growing. But the FedExCup \u2014 with its season-long points race, its playoff series, and its finale at East Lake \u2014 offers a different kind of measurement: who is the best player over the course of an entire season, not just a single week?<\/p>\n\n    <p>By that measure, Scheffler has answered the question five consecutive times.<\/p>\n\n    <p>The only remaining question at East Lake is whether he answers it a sixth time \u2014 and adds a second FedExCup trophy to go alongside his 21 wins, his $23 million bonus, and his place in the conversation about the greatest players this generation of golf has produced.<\/p>\n  <\/section>\n<\/article>\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-05-liv-golf-2027-future-uncertain-norman", "title": "LIV Golf's 2027 Future Is Uncertain: Norman Won't Guarantee Another Season", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<title>LIV Golf's 2027 Future Is Uncertain: Norman Won't Guarantee Another Season<\/title>\n<\/head>\n<body>\n<article>\n  <header>\n    <h1>LIV Golf's 2027 Future Is Uncertain: Norman Won't Guarantee Another Season<\/h1>\n    <p><strong>By Marcus Cole<\/strong> | Golf Fanrecap | August 27, 2026<\/p>\n  <\/header>\n\n  <section>\n    <p>The 2026 LIV Golf season is over. The champion has been crowned, the team title decided, and the players have gone home. What they do not know \u2014 what none of them know \u2014 is whether they will have a league to return to next year.<\/p>\n\n    <p>When commissioner Greg Norman met with the media following the conclusion of the 2026 season at Indianapolis, he declined to guarantee that a 2027 LIV Golf season would take place. It was a careful non-answer from a commissioner who has always projected confidence, and the silence it produced inside the sport was deafening.<\/p>\n  <\/section>\n\n  <section>\n    <h2>The Final Event: La Sasso Wins, Rahm Claims History<\/h2>\n    <p>The last competitive round of LIV Golf's 2026 season produced the drama the format was designed to generate. Michael La Sasso posted 18-under par at the Indianapolis event, edging Jon Rahm by a single shot to claim the final tournament title of the year.<\/p>\n\n    <p>Rahm, though, had already secured the prize that mattered most individually: his third consecutive LIV individual championship. In a format designed around team competition, Rahm's individual dominance across three straight seasons stands as one of the most remarkable runs in the young league's history. Legion XIII won the 2026 team championship, adding a team title to complement the league's most prominent individual story.<\/p>\n\n    <p>In any other context, Rahm's achievement would be the story of the week. Instead, it was overshadowed by questions about whether the week was the last one.<\/p>\n  <\/section>\n\n  <section>\n    <h2>The Warning From One of LIV's Own<\/h2>\n    <p>Ian Poulter did not mince words. One of LIV's founding players \u2014 a man who gave up his DP World Tour membership and accepted the professional consequences of joining the circuit in its inaugural season \u2014 publicly warned after Indianapolis that LIV Golf may be running out of time.<\/p>\n\n    <p>Poulter's words carried weight precisely because of his history with the league. He is not a critic from the outside. He is a stakeholder who built his decision to join LIV around the belief that the circuit had the resources and commitment to sustain itself. His warning suggests that belief has been tested.<\/p>\n\n    <p>For the more than 50 players who compete on LIV, Poulter's statement raises questions that have no easy answers. Where do they go if the league does not continue? The PGA Tour has not indicated it would welcome returning LIV players without conditions. The DP World Tour has its own complex history with many of these players.<\/p>\n  <\/section>\n\n  <section>\n    <h2>What Comes Next<\/h2>\n    <p>Norman's non-guarantee does not mean LIV Golf is finished. Leagues survive funding crises. Commissioners hedge publicly while negotiating privately. There are multiple possible outcomes between a fully operational 2027 season and complete shutdown.<\/p>\n\n    <p>But the uncertainty itself is damaging. Players who might otherwise consider joining LIV have reason to pause. Sponsors evaluating long-term partnerships have reason to hesitate. The league's value proposition \u2014 that it represented a stable, well-funded alternative to the traditional tour system \u2014 becomes harder to sell when the commissioner cannot confirm next year's schedule.<\/p>\n\n    <p>The 2026 season produced good golf. La Sasso's late charge, Rahm's historic run, Legion XIII's team title \u2014 these were legitimate achievements. Whether a 2027 season arrives to build on them is now the league's most pressing question, and the answer is not coming from the commissioner's office today.<\/p>\n  <\/section>\n<\/article>\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}];
+        const imageManifest = {};
+        let imageURLs = {}; // Runtime store: {'1_x_image': 'url', '1_facebook_image': 'url', ...}
+
+        // Image URL management
+        function updateImageURL(inputEl) {
+            var story = inputEl.dataset.story;
+            var platform = inputEl.dataset.platform;
+            var url = inputEl.value.trim();
+            var key = story + '_' + platform;
+            imageURLs[key] = url;
+
+            // Update preview thumbnail
+            var preview = document.getElementById('img-preview-' + story + '-' + platform);
+            if (preview) {
+                if (url) {
+                    preview.src = url;
+                    preview.classList.add('loaded');
+                    preview.onerror = function() { this.classList.remove('loaded'); };
+                } else {
+                    preview.src = '';
+                    preview.classList.remove('loaded');
+                }
+            }
+        }
+
+        function getImageURLForStory(storyTitle, platform) {
+            // Try runtime imageURLs first (user-pasted)
+            // Extract story number from title
+            for (var key in imageURLs) {
+                if (imageURLs[key] && key.endsWith('_' + platform)) {
+                    var storyNum = key.split('_')[0];
+                    // Check if this story matches by looking at allStories
+                    for (var i = 0; i < allStories.length; i++) {
+                        if (allStories[i].title === storyTitle &&
+                            allStories[i].id.indexOf('story-' + storyNum) !== -1) {
+                            return imageURLs[key];
+                        }
+                    }
+                }
+            }
+
+            // Try manifest data
+            for (var num in imageManifest) {
+                var mdata = imageManifest[num];
+                if (mdata && mdata[platform] && mdata[platform].exported_url) {
+                    // Check if this story number matches
+                    for (var j = 0; j < allStories.length; j++) {
+                        if (allStories[j].title === storyTitle &&
+                            allStories[j].id.indexOf('story-' + num) !== -1) {
+                            return mdata[platform].exported_url;
+                        }
+                    }
+                }
+            }
+
+            return '';
+        }
+
+        function initializeApp() {
+            const saved = localStorage.getItem(REVIEW_STORAGE_KEY + '-' + DATE);
+            if (saved) {
+                try {
+                    reviewData = JSON.parse(saved);
+                } catch (e) {
+                    reviewData = {};
+                }
+            }
+
+            allStories.forEach(function(story) {
+                if (!reviewData[story.id]) {
+                    reviewData[story.id] = {
+                        id: story.id,
+                        type: story.type,
+                        status: 'unreviewed',
+                        notes: '',
+                        content: story.content,
+                        editedContent: null
+                    };
+                }
+                // Migrate old data: ensure editedContent field exists
+                if (reviewData[story.id].editedContent === undefined) {
+                    reviewData[story.id].editedContent = null;
+                }
+            });
+
+            // Restore UI state
+            Object.keys(reviewData).forEach(function(storyId) {
+                var data = reviewData[storyId];
+                var card = document.querySelector('[data-id="' + storyId + '"]');
+                if (card) {
+                    card.setAttribute('data-status', data.status);
+                    var textarea = document.getElementById('textarea-' + storyId);
+                    if (textarea) textarea.value = data.notes || '';
+                    // If content was edited, update the display and editor
+                    if (data.editedContent) {
+                        var contentText = card.querySelector('.card-content-text');
+                        if (contentText) contentText.textContent = data.editedContent;
+                        var editor = document.getElementById('editor-' + storyId);
+                        if (editor) editor.value = data.editedContent;
+                    }
+                    updateCardVisuals(storyId, data.status, !!data.editedContent);
+                }
+            });
+
+            updateProgress();
+            filterByStatus('all');
+        }
+
+        function toggleExpand(storyId) {
+            var content = document.getElementById('content-' + storyId);
+            var toggle = document.getElementById('toggle-' + storyId);
+            if (content.classList.contains('collapsed')) {
+                content.classList.remove('collapsed');
+                content.classList.add('expanded');
+                toggle.textContent = 'Collapse';
+            } else {
+                content.classList.remove('expanded');
+                content.classList.add('collapsed');
+                toggle.textContent = 'Show Full Content';
+            }
+        }
+
+        function startEdit(storyId) {
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (!card) return;
+            card.classList.add('editing');
+            var editor = document.getElementById('editor-' + storyId);
+            if (editor) {
+                // If previously edited, load edited content; otherwise load original
+                var data = reviewData[storyId];
+                if (data && data.editedContent) {
+                    editor.value = data.editedContent;
+                }
+                editor.focus();
+                // Auto-resize for articles
+                editor.style.minHeight = Math.max(300, editor.scrollHeight) + 'px';
+            }
+        }
+
+        function saveAndApprove(storyId) {
+            var editor = document.getElementById('editor-' + storyId);
+            if (!editor) return;
+            var newContent = editor.value;
+
+            // Save the edited content
+            if (!reviewData[storyId]) {
+                reviewData[storyId] = { id: storyId, status: 'approved', notes: '', content: '', editedContent: null };
+            }
+            reviewData[storyId].editedContent = newContent;
+
+            // Update the display text
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            var contentText = card ? card.querySelector('.card-content-text') : null;
+            if (contentText) contentText.textContent = newContent;
+
+            // Exit edit mode
+            if (card) card.classList.remove('editing');
+
+            // Approve
+            setStatus(storyId, 'approved');
+            updateCardVisuals(storyId, 'approved', true);
+
+            // Update char count for X posts
+            updateCharCount(storyId, newContent);
+        }
+
+        function cancelEdit(storyId) {
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (card) card.classList.remove('editing');
+        }
+
+        function updateCharCount(storyId, text) {
+            var el = document.getElementById('charcount-' + storyId);
+            if (!el) return;
+            // Strip metadata tags before counting
+            var clean = text.replace(/\[CHARACTER COUNT:.*?\]/gi, '');
+            clean = clean.replace(/\[CHAR COUNT:.*?\]/gi, '');
+            clean = clean.replace(/\[\d+\/280\]/g, '');
+            // Remove URLs for Twitter count
+            var textNoUrls = clean.replace(/https?:\/\/\S+/g, '');
+            var count = textNoUrls.trim().length;
+            el.textContent = 'Characters: ' + count + '/280' + (count > 280 ? '  OVER LIMIT' : '');
+            el.className = count > 280 ? 'char-count warning' : 'char-count';
+        }
+
+        function approveCard(storyId) {
+            setStatus(storyId, 'approved');
+            document.getElementById('notes-' + storyId).classList.remove('show');
+        }
+
+        function rejectCard(storyId) {
+            setStatus(storyId, 'rejected');
+            document.getElementById('notes-' + storyId).classList.add('show');
+        }
+
+        function setStatus(storyId, status) {
+            if (!reviewData[storyId]) {
+                var story = allStories.find(function(s) { return s.id === storyId; });
+                reviewData[storyId] = {
+                    id: storyId,
+                    type: story ? story.type : '',
+                    status: status,
+                    notes: '',
+                    content: story ? story.content : '',
+                    editedContent: null
+                };
+            }
+
+            reviewData[storyId].status = status;
+
+            var textarea = document.getElementById('textarea-' + storyId);
+            if (textarea) reviewData[storyId].notes = textarea.value;
+
+            localStorage.setItem(REVIEW_STORAGE_KEY + '-' + DATE, JSON.stringify(reviewData));
+
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (card) card.setAttribute('data-status', status);
+            updateCardVisuals(storyId, status, !!(reviewData[storyId] && reviewData[storyId].editedContent));
+            updateProgress();
+        }
+
+        function updateCardVisuals(storyId, status, wasEdited) {
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (!card) return;
+
+            card.classList.remove('approved', 'needs-edit', 'rejected');
+            if (status !== 'unreviewed') card.classList.add(status);
+
+            var statusLabel = document.getElementById('status-' + storyId);
+            if (statusLabel) {
+                statusLabel.className = 'status-label';
+                if (status === 'approved' && wasEdited) {
+                    statusLabel.textContent = 'APPROVED (EDITED)';
+                    statusLabel.classList.add('status-edited');
+                } else if (status === 'approved') {
+                    statusLabel.textContent = 'APPROVED';
+                    statusLabel.classList.add('status-approved');
+                } else if (status === 'needs-edit') {
+                    statusLabel.textContent = 'NEEDS EDIT';
+                    statusLabel.classList.add('status-needs-edit');
+                } else if (status === 'rejected') {
+                    statusLabel.textContent = 'REJECTED';
+                    statusLabel.classList.add('status-rejected');
+                } else {
+                    statusLabel.textContent = '';
+                }
+            }
+        }
+
+        function updateProgress() {
+            var approved = 0, rejected = 0, unreviewed = 0;
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (!data || data.status === 'unreviewed') unreviewed++;
+                else if (data.status === 'approved') approved++;
+                else if (data.status === 'rejected') rejected++;
+                else unreviewed++;
+            });
+            var reviewed = approved + rejected;
+            var total = allStories.length;
+            var percentage = total > 0 ? (reviewed / total * 100) : 0;
+            document.getElementById('reviewed-count').textContent = reviewed;
+            document.getElementById('total-count').textContent = total;
+            document.getElementById('progress-fill').style.width = percentage + '%';
+            // Update stat chips
+            document.getElementById('stat-approved-count').textContent = approved;
+            document.getElementById('stat-rejected-count').textContent = rejected;
+            document.getElementById('stat-unreviewed-count').textContent = unreviewed;
+            // Update CSV button
+            var csvBtn = document.getElementById('btn-csv');
+            var tobiBtn = document.getElementById('btn-tobi');
+            var socialApproved = countApprovedSocialPosts();
+            if (csvBtn) {
+                if (socialApproved > 0) {
+                    csvBtn.disabled = false;
+                    csvBtn.textContent = 'PostPlanner Upload (' + socialApproved + ' posts)';
+                } else {
+                    csvBtn.disabled = true;
+                    csvBtn.textContent = 'PostPlanner Upload (0 approved)';
+                }
+            }
+            // Update TOBI button (counts only X/Twitter text posts)
+            if (tobiBtn) {
+                var xApproved = countApprovedXPosts();
+                if (xApproved > 0) {
+                    tobiBtn.disabled = false;
+                    tobiBtn.textContent = 'TOBI Upload (' + xApproved + ' posts)';
+                } else {
+                    tobiBtn.disabled = true;
+                    tobiBtn.textContent = 'TOBI Upload (0 approved)';
+                }
+            }
+        }
+
+        function countApprovedSocialPosts() {
+            var count = 0;
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (data && data.status === 'approved' && (story.type === 'x_post' || story.type === 'facebook')) {
+                    count++;
+                }
+            });
+            return count;
+        }
+
+        function countApprovedXPosts() {
+            var count = 0;
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (data && data.status === 'approved' && story.type === 'x_post') {
+                    count++;
+                }
+            });
+            return count;
+        }
+
+        function escapeCSVField(text) {
+            if (!text) return '';
+            // If field contains comma, quote, or newline, wrap in quotes and escape inner quotes
+            if (text.indexOf(',') !== -1 || text.indexOf('"') !== -1 || text.indexOf('\n') !== -1) {
+                return '"' + text.replace(/"/g, '""') + '"';
+            }
+            return text;
+        }
+
+        function extractHashtags(text) {
+            if (!text) return '';
+            var matches = text.match(/#\w+/g);
+            return matches ? matches.join(' ') : '';
+        }
+
+        // ========== POSTING SCHEDULE SYSTEM ==========
+        var defaultXSlots = ['09:00', '12:00', '15:00', '18:00', '21:00'];
+        var defaultFBSlots = ['10:00', '13:00', '17:00'];
+
+        function getScheduleConfig() {
+            var saved = localStorage.getItem(SCHEDULE_STORAGE_KEY);
+            if (saved) {
+                try { return JSON.parse(saved); } catch(e) {}
+            }
+            return { xSlots: defaultXSlots.slice(), fbSlots: defaultFBSlots.slice() };
+        }
+
+        function saveScheduleConfig(config) {
+            localStorage.setItem(SCHEDULE_STORAGE_KEY, JSON.stringify(config));
+        }
+
+        function renderTimeSlots() {
+            var config = getScheduleConfig();
+            var xContainer = document.getElementById('x-time-slots');
+            var fbContainer = document.getElementById('fb-time-slots');
+
+            xContainer.innerHTML = config.xSlots.map(function(t, i) {
+                return '<span class="time-slot">' + t + ' <span class="remove-slot" onclick="removeTimeSlot(\x27x\x27,' + i + ')">&times;</span></span>';
+            }).join('');
+
+            fbContainer.innerHTML = config.fbSlots.map(function(t, i) {
+                return '<span class="time-slot">' + t + ' <span class="remove-slot" onclick="removeTimeSlot(\x27fb\x27,' + i + ')">&times;</span></span>';
+            }).join('');
+        }
+
+        function addTimeSlot(platform) {
+            var inputId = platform === 'x' ? 'new-x-time' : 'new-fb-time';
+            var val = document.getElementById(inputId).value;
+            if (!val) return;
+            var config = getScheduleConfig();
+            var arr = platform === 'x' ? config.xSlots : config.fbSlots;
+            if (arr.indexOf(val) === -1) {
+                arr.push(val);
+                arr.sort();
+            }
+            saveScheduleConfig(config);
+            renderTimeSlots();
+            document.getElementById(inputId).value = '';
+        }
+
+        function removeTimeSlot(platform, index) {
+            var config = getScheduleConfig();
+            var arr = platform === 'x' ? config.xSlots : config.fbSlots;
+            arr.splice(index, 1);
+            saveScheduleConfig(config);
+            renderTimeSlots();
+        }
+
+        function downloadPostPlannerCSV() {
+            // Open schedule panel instead of direct download
+            openSchedulePanel();
+        }
+
+        function openSchedulePanel() {
+            document.getElementById('schedule-date').value = DATE;
+            renderTimeSlots();
+            document.getElementById('schedule-panel').classList.add('show');
+            document.getElementById('schedule-overlay').classList.add('show');
+        }
+
+        function closeSchedulePanel() {
+            document.getElementById('schedule-panel').classList.remove('show');
+            document.getElementById('schedule-overlay').classList.remove('show');
+        }
+
+        function formatTimeForPostPlanner(time24, dateStr) {
+            // Output PostPlanner V2 format: MM/DD/YYYY  HH:MM (24hr)
+            var parts = dateStr.split('-');
+            return parts[1] + '/' + parts[2] + '/' + parts[0] + '  ' + time24;
+        }
+
+        function redistributeTimes(rows) {
+            // Ensure all post times are at least 30 min from now,
+            // evenly spaced through the rest of the day.
+            if (rows.length === 0) return rows;
+
+            var now = new Date();
+            var nowMinutes = now.getHours() * 60 + now.getMinutes();
+            var floorMinutes = nowMinutes + 30;
+            var endMinutes = 22 * 60; // 10:00 PM cutoff
+
+            // Check if ANY post times have already passed
+            var anyPast = rows.some(function(row) {
+                var parts = row.time.split(':');
+                var rowMin = parseInt(parts[0], 10) * 60 + parseInt(parts[1], 10);
+                return rowMin < floorMinutes;
+            });
+
+            if (!anyPast) return rows; // all times are in the future, keep them
+
+            if (floorMinutes >= endMinutes) {
+                alert('It is past 9:30 PM — not enough time remaining to schedule all posts today. Posts will use original times.');
+                return rows;
+            }
+
+            var availableMinutes = endMinutes - floorMinutes;
+            var spacing = Math.floor(availableMinutes / rows.length);
+            if (spacing < 15) spacing = 15; // minimum 15 min gap
+            if (spacing > 90) spacing = 90; // maximum 90 min gap
+
+            rows.forEach(function(row, i) {
+                var postMinutes = floorMinutes + (i * spacing);
+                if (postMinutes >= 24 * 60) postMinutes = 23 * 60 + 45;
+                var h = Math.floor(postMinutes / 60);
+                var m = postMinutes % 60;
+                row.time = (h < 10 ? '0' : '') + h + ':' + (m < 10 ? '0' : '') + m;
+            });
+
+            var firstTime = rows[0].time;
+            var lastTime = rows[rows.length - 1].time;
+            console.log('PostPlanner export: redistributed ' + rows.length + ' posts from ' + firstTime + ' to ' + lastTime + ' (' + spacing + ' min apart)');
+            return rows;
+        }
+
+        // Parse actual time from posting_window string like "7:00 AM CT" -> "07:00"
+        function parsePostingTime(timeStr) {
+            if (!timeStr) return null;
+            var m = timeStr.match(/(\d{1,2}):(\d{2})\s*(AM|PM)/i);
+            if (!m) return null;
+            var h = parseInt(m[1], 10);
+            var min = m[2];
+            var ampm = m[3].toUpperCase();
+            if (ampm === 'PM' && h !== 12) h += 12;
+            if (ampm === 'AM' && h === 12) h = 0;
+            return (h < 10 ? '0' : '') + h + ':' + min;
+        }
+
+        // Generic window name fallback
+        var windowToTime = {
+            'Morning': '09:00',
+            'Midday': '12:00',
+            'Afternoon': '15:00',
+            'Evening': '18:00',
+            'Late Night': '21:00'
+        };
+
+        function generateAndDownload() {
+            var config = getScheduleConfig();
+            var postDate = document.getElementById('schedule-date').value || DATE;
+
+            var xRows = [];
+            var fbRows = [];
+
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (!data || data.status !== 'approved') return;
+                var finalContent = data.editedContent || story.content;
+
+                if (story.type === 'x_post') {
+                    // If this is an individual tweet card (has tweet_label), use directly
+                    if (story.tweet_label) {
+                        xRows.push({
+                            content: finalContent,
+                            type: story.tweet_type || 'text',
+                            hashtags: story.hashtags || extractHashtags(finalContent),
+                            story: story.title,
+                            posting_window: story.posting_window || ''
+                        });
+                    } else {
+                        // Legacy: parse full story markdown for individual tweets
+                        var sections = parseXPostContent(finalContent, story.title);
+                        sections.forEach(function(post) {
+                            xRows.push({
+                                content: post.text,
+                                type: post.type,
+                                hashtags: extractHashtags(post.text),
+                                story: story.title
+                            });
+                        });
+                    }
+                } else if (story.type === 'facebook') {
+                    var fbPost = parseFacebookContent(finalContent, story.title);
+                    if (fbPost) {
+                        fbRows.push(fbPost);
+                    }
+                }
+            });
+
+            if (xRows.length === 0 && fbRows.length === 0) {
+                alert('No approved social posts to export.');
+                return;
+            }
+
+            // Assign times: use posting_window property first, then content tag, then round-robin
+            function assignTimes(rows, slots, label) {
+                if (slots.length === 0) slots = ['12:00'];
+                var timeFallbacks = [];
+                return rows.map(function(row, i) {
+                    row.date = postDate;
+                    // 1. Try posting_window property (e.g., "7:00 AM CT")
+                    var parsed = parsePostingTime(row.posting_window);
+                    if (parsed) {
+                        row.time = parsed;
+                        return row;
+                    }
+                    // 2. Try [POSTING WINDOW: ...] tag in content
+                    var windowMatch = row.content ? row.content.match(/\[POSTING WINDOW:\s*([^\]]+)\]/) : null;
+                    if (windowMatch) {
+                        parsed = parsePostingTime(windowMatch[1]);
+                        if (parsed) {
+                            row.time = parsed;
+                            return row;
+                        }
+                        if (windowToTime[windowMatch[1].trim()]) {
+                            row.time = windowToTime[windowMatch[1].trim()];
+                            return row;
+                        }
+                    }
+                    // 3. Fall back to round-robin
+                    row.time = slots[i % slots.length];
+                    timeFallbacks.push('Post ' + (i + 1) + ': no parsed time, using ' + row.time);
+                    return row;
+                });
+                // Warn if any posts had to use fallback times
+                if (timeFallbacks.length > 0) {
+                    console.warn('TIME WARNING (' + label + '): ' + timeFallbacks.length + ' post(s) had no parsed posting time:\n' + timeFallbacks.join('\n'));
+                }
+            }
+
+            xRows = assignTimes(xRows, config.xSlots, 'X/Twitter');
+            fbRows = assignTimes(fbRows, config.fbSlots, 'Facebook');
+
+            // Generate XLSX in PostPlanner Bulk Upload V2 format
+            if (typeof XLSX === 'undefined') {
+                alert('SheetJS library not loaded. Falling back to CSV download.');
+                fallbackCSVDownload(xRows, fbRows, postDate);
+                return;
+            }
+
+            // Combine all rows and sort by original time
+            var allRows = xRows.concat(fbRows);
+            allRows.sort(function(a, b) {
+                return a.time.localeCompare(b.time);
+            });
+
+            // Smart time redistribution
+            allRows = redistributeTimes(allRows);
+
+            var wb = XLSX.utils.book_new();
+
+            // PostPlanner V3.1 format: Row 1 = version marker, Row 2 = headers, Row 3+ = data
+            var data = [
+                ['## ' + BRAND_NAME + ' -- PostPlanner Bulk Upload', 'BULK UPLOAD VERSION 3.1 – Please DO NOT EDIT this cell.', '', '', '', '', '', '', ''],
+                ['## POSTING TIME', 'CAPTION', 'LINK', 'MEDIA', 'TITLE', 'FIRST COMMENT', 'FIRST COMMENT DELAY', 'TOBI BACKGROUND', 'REEL OR STORY']
+            ];
+
+            allRows.forEach(function(row) {
+                var caption = cleanMarkdownForPost(row.content);
+                var mediaUrl = '';
+                if (row.type === 'image' || row.type === 'IMAGE') {
+                    mediaUrl = getImageURLForStory(row.story, row.platform === 'facebook' ? 'facebook_image' : 'x_image') || '';
+                }
+                data.push([
+                    formatTimeForPostPlanner(row.time, postDate),
+                    caption,
+                    '',
+                    mediaUrl,
+                    '', '', '', '', ''
+                ]);
+            });
+
+            var sheet = XLSX.utils.aoa_to_sheet(data);
+            sheet['!cols'] = [
+                {wch: 20}, {wch: 80}, {wch: 30}, {wch: 30}, {wch: 10}, {wch: 20}, {wch: 18}, {wch: 18}, {wch: 14}
+            ];
+            XLSX.utils.book_append_sheet(wb, sheet, 'Sheet1');
+
+            // Download
+            XLSX.writeFile(wb, 'postplanner-upload-' + postDate + '.xlsx');
+            closeSchedulePanel();
+
+            var msg = 'Downloaded postplanner-upload-' + postDate + '.xlsx with ';
+            var parts = [];
+            if (xRows.length > 0) parts.push(xRows.length + ' X posts');
+            if (fbRows.length > 0) parts.push(fbRows.length + ' Facebook posts');
+            alert(msg + parts.join(' and ') + '.\n\nUpload this file to PostPlanner via Bulk Upload.');
+        }
+
+        function cleanMarkdownForPost(text) {
+            // Strip markdown formatting and metadata that shouldn't appear in social posts
+            if (!text) return '';
+            return text
+                .replace(/\[CHARACTER COUNT:.*?\]/gi, '')
+                .replace(/\[CHAR COUNT:.*?\]/gi, '')
+                .replace(/\[\d+\/280\]/g, '')
+                .replace(/\*\*\[POSTING WINDOW:.*?\]\*\*/g, '')
+                .replace(/\[POSTING WINDOW:.*?\]/g, '')
+                .replace(/\*\*([^*]+)\*\*/g, '$1')
+                .replace(/\*([^*]+)\*/g, '$1')
+                .replace(/^#+\s+/gm, '')
+                .replace(/^[-*]\s+/gm, '')
+                .replace(/```[\s\S]*?```/g, '')
+                .replace(/\n{3,}/g, '\n\n')
+                .trim();
+        }
+
+        function fallbackCSVDownload(xRows, fbRows, postDate) {
+            // Fallback if SheetJS fails to load — generates CSV in V2-like format
+            var allRows = xRows.concat(fbRows);
+            allRows.sort(function(a, b) { return a.time.localeCompare(b.time); });
+            if (allRows.length === 0) {
+                alert('No approved posts to export.');
+                closeSchedulePanel();
+                return;
+            }
+            // Smart time redistribution (same as XLSX path)
+            allRows = redistributeTimes(allRows);
+            var csv = '## ' + BRAND_NAME + ' -- PostPlanner Bulk Upload,' + escapeCSVField('BULK UPLOAD VERSION 3.1 – Please DO NOT EDIT this cell.') + ',,,,,,,\n';
+            csv += '## POSTING TIME,CAPTION,LINK,MEDIA,TITLE,FIRST COMMENT,FIRST COMMENT DELAY,TOBI BACKGROUND,REEL OR STORY\n';
+            allRows.forEach(function(row) {
+                csv += escapeCSVField(formatTimeForPostPlanner(row.time, postDate)) + ',' +
+                       escapeCSVField(cleanMarkdownForPost(row.content)) + ',' +
+                       ',,,,,,\n';
+            });
+            downloadFile(csv, 'postplanner-upload-' + postDate + '.csv', 'text/csv');
+            closeSchedulePanel();
+        }
+
+        function downloadTOBIExport() {
+            // Generate TOBI XLSX directly (no schedule panel needed — uses same times)
+            generateAndDownloadTOBI();
+        }
+
+        function stripHashtags(text) {
+            // Remove lines that are entirely hashtags, and trailing blank lines
+            var lines = text.split('\n');
+            var cleaned = [];
+            for (var i = 0; i < lines.length; i++) {
+                var stripped = lines[i].trim();
+                if (stripped && stripped.split(/\s+/).every(function(w) { return w.charAt(0) === '#'; })) {
+                    continue;
+                }
+                cleaned.push(lines[i]);
+            }
+            while (cleaned.length > 0 && !cleaned[cleaned.length - 1].trim()) {
+                cleaned.pop();
+            }
+            return cleaned.join('\n');
+        }
+
+        function generateAndDownloadTOBI() {
+            var postDate = document.getElementById('schedule-date') ?
+                document.getElementById('schedule-date').value || DATE : DATE;
+
+            // Collect approved X/Twitter text posts only
+            var xRows = [];
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (!data || data.status !== 'approved') return;
+                if (story.type !== 'x_post') return;
+
+                var finalContent = data.editedContent || story.content;
+                if (story.tweet_label) {
+                    xRows.push({
+                        content: finalContent,
+                        posting_window: story.posting_window || '',
+                        story: story.title
+                    });
+                }
+            });
+
+            if (xRows.length === 0) {
+                alert('No approved X/Twitter posts for TOBI export.');
+                return;
+            }
+
+            // Assign times — use same logic as regular export (posting_window → content tag → round-robin)
+            var tobiSlots = defaultXSlots.slice();
+            if (tobiSlots.length === 0) tobiSlots = ['12:00'];
+            var tobiTimeFallbacks = [];
+            xRows = xRows.map(function(row, i) {
+                row.date = postDate;
+                // 1. Try posting_window property (e.g., "7:00 AM CT")
+                var parsed = parsePostingTime(row.posting_window);
+                if (parsed) {
+                    row.time = parsed;
+                    return row;
+                }
+                // 2. Try [POSTING WINDOW: ...] tag in content
+                var windowMatch = row.content ? row.content.match(/\[POSTING WINDOW:\s*([^\]]+)\]/) : null;
+                if (windowMatch) {
+                    parsed = parsePostingTime(windowMatch[1]);
+                    if (parsed) {
+                        row.time = parsed;
+                        return row;
+                    }
+                }
+                // 3. Fall back to round-robin through time slots (NOT 12:00)
+                row.time = tobiSlots[i % tobiSlots.length];
+                tobiTimeFallbacks.push('Post ' + (i + 1) + ': no parsed time, using ' + row.time);
+                return row;
+            });
+            // Warn if any posts had to use fallback times
+            if (tobiTimeFallbacks.length > 0) {
+                console.warn('TOBI TIME WARNING: ' + tobiTimeFallbacks.length + ' post(s) had no parsed posting time:\n' + tobiTimeFallbacks.join('\n'));
+            }
+
+            // Sort by time
+            xRows.sort(function(a, b) { return a.time.localeCompare(b.time); });
+
+            // Smart time redistribution
+            xRows = redistributeTimes(xRows);
+
+            // TOBI processing: preserve hashtags + emojis as much as possible
+            var TOBI_LIMIT = 130;
+
+            function extractHashtags(text) {
+                var matches = text.match(/#\w+/g);
+                return matches || [];
+            }
+
+            function extractTrailingEmoji(text) {
+                var m = text.match(/\s*([\u{1F300}-\u{1FAFF}\u2600-\u27BF\u2B50\u26A0-\u26FF]+)\s*$/u);
+                if (m) {
+                    return { emoji: m[1], text: text.substring(0, m.index).trimEnd() };
+                }
+                return { emoji: null, text: text };
+            }
+
+            function truncateAtSentence(text, limit) {
+                var sentences = text.split(/(?<=[.!?])\s+/);
+                // Merge standalone emoji fragments into preceding sentence
+                var merged = [];
+                for (var s = 0; s < sentences.length; s++) {
+                    var trimmed = sentences[s].trim();
+                    if (!trimmed) continue;
+                    if (merged.length > 0 && !/[A-Za-z0-9]/.test(trimmed)) {
+                        merged[merged.length - 1] = merged[merged.length - 1] + ' ' + trimmed;
+                    } else {
+                        merged.push(trimmed);
+                    }
+                }
+                var truncated = '';
+                for (var s = 0; s < merged.length; s++) {
+                    var candidate = truncated ? truncated + ' ' + merged[s] : merged[s];
+                    if (candidate.length <= limit) {
+                        truncated = candidate;
+                    } else {
+                        break;
+                    }
+                }
+                // Clean up trailing abbreviation fragments (Dr., Mr., vs.)
+                if (truncated) {
+                    var parts = truncated.split(' ');
+                    var last = parts[parts.length - 1];
+                    if (parts.length > 1 && last.length <= 4 && /^[A-Za-z]+\.$/.test(last)) {
+                        parts.pop();
+                        truncated = parts.join(' ');
+                    }
+                }
+                return truncated || text.substring(0, limit - 3) + '...';
+            }
+
+            function fitHashtagsWithinLimit(text, hashtags, limit) {
+                if (!hashtags.length) return text;
+                // Try all hashtags, then progressively fewer
+                for (var n = hashtags.length; n > 0; n--) {
+                    var tagBlock = '\n\n' + hashtags.slice(0, n).join(' ');
+                    if ((text + tagBlock).length <= limit) {
+                        return text + tagBlock;
+                    }
+                }
+                return text;
+            }
+
+            if (typeof XLSX === 'undefined') {
+                alert('SheetJS library not loaded. Cannot generate TOBI XLSX.');
+                return;
+            }
+
+            var wb = XLSX.utils.book_new();
+            var data = [
+                ['## ' + BRAND_NAME + ' -- PostPlanner TOBI Bulk Upload', 'BULK UPLOAD VERSION 3.1 – Please DO NOT EDIT this cell.', '', '', '', '', '', '', ''],
+                ['## POSTING TIME', 'CAPTION', 'LINK', 'MEDIA', 'TITLE', 'FIRST COMMENT', 'FIRST COMMENT DELAY', 'TOBI BACKGROUND', 'REEL OR STORY']
+            ];
+
+            var keptHashtags = 0;
+            var strippedHashtags = 0;
+
+            xRows.forEach(function(row, i) {
+                var caption = cleanMarkdownForPost(row.content);
+
+                // If full caption fits under limit, use as-is — ALL hashtags + emojis preserved
+                if (caption.length <= TOBI_LIMIT) {
+                    if (extractHashtags(caption).length > 0) keptHashtags++;
+                    data.push([
+                        formatTimeForPostPlanner(row.time, postDate),
+                        caption, '', '', '', '', '', 'true-black', ''
+                    ]);
+                    return;
+                }
+
+                // Over limit — decompose and rebuild intelligently
+                var hashtags = extractHashtags(caption);
+                var coreText = stripHashtags(caption).trimEnd();
+                var emojiResult = extractTrailingEmoji(coreText);
+                var trailing_emoji = emojiResult.emoji;
+                var coreNoEmoji = emojiResult.text.trimEnd();
+
+                // Step 1: Get core text under limit
+                var result;
+                if (coreNoEmoji.length <= TOBI_LIMIT) {
+                    result = coreNoEmoji;
+                } else {
+                    result = truncateAtSentence(coreNoEmoji, TOBI_LIMIT);
+                }
+
+                // Step 2: Try to add back trailing emoji
+                if (trailing_emoji) {
+                    var withEmoji = result + ' ' + trailing_emoji;
+                    if (withEmoji.length <= TOBI_LIMIT) {
+                        result = withEmoji;
+                    }
+                }
+
+                // Step 3: Try to add back as many hashtags as possible
+                if (hashtags.length > 0) {
+                    var before = result;
+                    result = fitHashtagsWithinLimit(result, hashtags, TOBI_LIMIT);
+                    if (result !== before) keptHashtags++;
+                    else strippedHashtags++;
+                }
+
+                data.push([
+                    formatTimeForPostPlanner(row.time, postDate),
+                    result, '', '', '', '', '', 'true-black', ''
+                ]);
+            });
+
+            var sheet = XLSX.utils.aoa_to_sheet(data);
+            sheet['!cols'] = [
+                {wch: 20}, {wch: 80}, {wch: 10}, {wch: 10}, {wch: 10}, {wch: 20}, {wch: 18}, {wch: 18}, {wch: 14}
+            ];
+            XLSX.utils.book_append_sheet(wb, sheet, 'Sheet1');
+
+            XLSX.writeFile(wb, 'postplanner-tobi-upload-' + postDate + '.xlsx');
+
+            alert('Downloaded TOBI export with ' + xRows.length + ' posts.\n\n' +
+                  keptHashtags + ' posts kept hashtags, ' + strippedHashtags + ' had hashtags removed for length.\n\n' +
+                  'Background: true-black (Column H).\nUpload to PostPlanner for Facebook TOBI posts.');
+        }
+
+        function parseXPostContent(content, storyTitle) {
+            var posts = [];
+            var lines = content.split('\n');
+
+            var inTextPost = false;
+            var inThread = false;
+            var currentTweetNum = 0;
+            var currentText = [];
+
+            for (var i = 0; i < lines.length; i++) {
+                var line = lines[i];
+                var trimmed = line.trim();
+
+                if (trimmed.match(/^###\s+Text Post/i)) {
+                    flushPost();
+                    inTextPost = true;
+                    inThread = false;
+                    currentText = [];
+                    continue;
+                }
+                if (trimmed.match(/^###\s+Thread Concept/i)) {
+                    flushPost();
+                    inTextPost = false;
+                    inThread = true;
+                    currentText = [];
+                    currentTweetNum = 0;
+                    continue;
+                }
+                if (trimmed.match(/^###\s+Image Post/i)) {
+                    flushPost();
+                    inTextPost = false;
+                    inThread = false;
+                    continue;
+                }
+                if (trimmed.match(/^###\s/)) {
+                    flushPost();
+                    inTextPost = false;
+                    inThread = false;
+                    continue;
+                }
+
+                if (inThread && trimmed.match(/^\*\*Tweet\s+\d+/i)) {
+                    flushPost();
+                    currentTweetNum++;
+                    currentText = [];
+                    continue;
+                }
+
+                if (inTextPost || (inThread && currentTweetNum > 0)) {
+                    if (trimmed !== '') {
+                        currentText.push(line);
+                    }
+                }
+            }
+            flushPost();
+
+            function flushPost() {
+                if (currentText.length === 0) return;
+                var text = currentText.join('\n').trim();
+                if (!text) return;
+
+                if (inTextPost) {
+                    posts.push({ text: text, type: 'text' });
+                } else if (inThread && currentTweetNum > 0) {
+                    posts.push({
+                        text: text,
+                        type: currentTweetNum === 1 ? 'thread_start' : 'thread_reply'
+                    });
+                }
+                currentText = [];
+            }
+
+            return posts;
+        }
+
+        function parseFacebookContent(content, storyTitle) {
+            var lines = content.split('\n');
+            var inLongForm = false;
+            var inImagePost = false;
+            var longFormLines = [];
+            var imageCaption = '';
+
+            for (var i = 0; i < lines.length; i++) {
+                var trimmed = lines[i].trim();
+
+                if (trimmed.match(/^###\s+Long-Form Post/i)) {
+                    inLongForm = true;
+                    inImagePost = false;
+                    longFormLines = [];
+                    continue;
+                }
+                if (trimmed.match(/^###\s+Image Post Caption/i) || trimmed.match(/^###\s+Image Post/i)) {
+                    inLongForm = false;
+                    inImagePost = true;
+                    continue;
+                }
+                if (trimmed.match(/^###\s/) || trimmed.match(/^---/)) {
+                    inLongForm = false;
+                    inImagePost = false;
+                    continue;
+                }
+
+                if (inLongForm) {
+                    longFormLines.push(lines[i]);
+                }
+                if (inImagePost && trimmed !== '') {
+                    imageCaption = trimmed;
+                    inImagePost = false;
+                }
+            }
+
+            var longForm = longFormLines.join('\n').trim();
+            if (!longForm) return null;
+
+            return {
+                content: longForm,
+                image_caption: imageCaption,
+                story: storyTitle
+            };
+        }
+
+        function downloadFile(content, filename, mimeType) {
+            var blob = new Blob([content], { type: mimeType });
+            var url = URL.createObjectURL(blob);
+            var link = document.createElement('a');
+            link.href = url;
+            link.download = filename;
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+            URL.revokeObjectURL(url);
+        }
+
+        var currentStatusFilter = 'all';
+        var currentTypeFilter = 'all';
+
+        function filterByStatus(status) {
+            currentStatusFilter = status;
+            applyFilters();
+            document.querySelectorAll('.filter-btn').forEach(function(btn) {
+                btn.classList.remove('active');
+                if (btn.textContent.trim().toLowerCase().replace(/\s+/g, '') === status.replace('-', '').toLowerCase() ||
+                    (status === 'all' && btn.textContent.trim() === 'All') ||
+                    (status === 'needs-edit' && btn.textContent.trim() === 'Needs Edit')) {
+                    btn.classList.add('active');
+                }
+            });
+            document.querySelectorAll('.sidebar .nav-item').forEach(function(item) { item.classList.remove('active'); });
+        }
+
+        function filterByType(type) {
+            currentTypeFilter = type;
+            currentStatusFilter = 'all';
+            applyFilters();
+            document.querySelectorAll('.sidebar .nav-item').forEach(function(item) { item.classList.remove('active'); });
+            document.querySelectorAll('.filter-btn').forEach(function(btn) {
+                btn.classList.remove('active');
+                if (btn.textContent.trim() === 'All') btn.classList.add('active');
+            });
+        }
+
+        function applyFilters() {
+            var cards = document.querySelectorAll('.card');
+            var visibleCount = 0;
+            cards.forEach(function(card) {
+                var cardStatus = card.getAttribute('data-status');
+                var cardType = card.getAttribute('data-type');
+                var matchesStatus = (currentStatusFilter === 'all') || (cardStatus === currentStatusFilter);
+                var matchesType = (currentTypeFilter === 'all') || (cardType === currentTypeFilter);
+                if (matchesStatus && matchesType) {
+                    card.classList.add('show');
+                    visibleCount++;
+                } else {
+                    card.classList.remove('show');
+                }
+            });
+            document.getElementById('empty-state').style.display = visibleCount === 0 ? 'block' : 'none';
+        }
+
+        function approveAll() {
+            if (!confirm('Approve all ' + allStories.length + ' items?')) return;
+            allStories.forEach(function(story) { setStatus(story.id, 'approved'); });
+        }
+
+        function resetAll() {
+            if (confirm('Reset all reviews? This cannot be undone.')) {
+                localStorage.removeItem(REVIEW_STORAGE_KEY + '-' + DATE);
+                location.reload();
+            }
+        }
+
+        function copyContent(storyId) {
+            var data = reviewData[storyId];
+            var story = allStories.find(function(s) { return s.id === storyId; });
+            var text = (data && data.editedContent) ? data.editedContent : (story ? story.content : '');
+            navigator.clipboard.writeText(text).then(function() {
+                var btn = document.querySelector('[data-id="' + storyId + '"] .btn-copy');
+                if (btn) { var orig = btn.textContent; btn.textContent = 'Copied!'; setTimeout(function() { btn.textContent = orig; }, 1500); }
+            });
+        }
+
+        function exportApprovals() {
+            var items = [];
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id] || {};
+                items.push({
+                    id: story.id,
+                    type: story.type,
+                    title: story.title,
+                    status: data.status || 'unreviewed',
+                    notes: data.notes || '',
+                    content: story.content,
+                    editedContent: data.editedContent || null,
+                    finalContent: data.editedContent || story.content
+                });
+            });
+
+            var exportData = {
+                date: DATE,
+                reviewed_by: '',
+                reviewed_at: new Date().toISOString(),
+                items: items
+            };
+
+            var dataStr = JSON.stringify(exportData, null, 2);
+            var dataBlob = new Blob([dataStr], { type: 'application/json' });
+            var url = URL.createObjectURL(dataBlob);
+            var link = document.createElement('a');
+            link.href = url;
+            link.download = 'approvals-' + DATE + '.json';
+            link.click();
+            URL.revokeObjectURL(url);
+        }
+
+        // Auto-save notes as you type
+        document.addEventListener('input', function(e) {
+            if (e.target.classList.contains('notes-textarea')) {
+                var storyId = e.target.id.replace('textarea-', '');
+                if (reviewData[storyId]) {
+                    reviewData[storyId].notes = e.target.value;
+                    localStorage.setItem(REVIEW_STORAGE_KEY + '-' + DATE, JSON.stringify(reviewData));
+                }
+            }
+        });
+
+        initializeApp();
+
+    </script>
+</body>
+</html>
