@@ -1,0 +1,253 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-27",
+  "compiled_at": "2026-08-27T10:35:37.351917+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Misiorowski Takes His First Loss — \"Gets Tagged for the First Time\" by the Mets",
+      "tier": 1,
+      "status": "",
+      "angle": "The NL Cy Young favorite (-550) with a 1.68 ERA took his first notable loss of the 2026 season Thursday against the Mets. Before today: 13-5, 1.68 ERA, 216 Ks in 145 IP. How one bad start frames the bigger Cy Young conversation — and whether the award is still his.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The Mets tagged Misiorowski for the first time in 2026. He came in 13-5 with a 1.68 ERA and a Cy Young market of -550. One loss doesn't change that — but it changes the narrative. The flawless run is over. #Brewers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#MLB"
+          ],
+          "char_count": 219
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Misiorowski's first loss of the year doesn't mean the Cy Young is open. He's 13-6 with a 1.68 ERA and 216 strikeouts. One bad start in August is not a collapse — it's a data point. The market still has him -550. #Brewers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#MLB"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-misiorowski-first-loss-mets-cy-young-race-aug-27.html",
+        "headline": "Misiorowski Gets Tagged for the First Time. The Mets End His Flawless 2026 Run.",
+        "word_count": 678
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Misiorowski First Loss\n\n#### Image 1 — Misiorowski Reaction Graphic\n- **Type:** Social (1080x1350 vertical)\n- **Photo search:** \"Jakob Misiorowski Milwaukee Brewers\"\n- **Concept:** \"First Loss of 2026\" bold headline over action shot. Pre-loss stats: 13-5 / 1.68 ERA / 216 Ks. \"Cy Young -550\" callout footer. Dramatic, sobering tone — not celebratory.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "PCA NL MVP — Cubs Drop Back-to-Back to D-backs, Lead Still Holds",
+      "tier": 1,
+      "status": "",
+      "angle": "D-backs took back-to-back games from the Cubs (Waldschmidt walk-off Aug 25; 2-0 Aug 26). Cubs now 76-57. PCA (.281 BA, 33 HR, 83 RBI, 32 SB, 7.8 fWAR) still leads the NL MVP poll with 29 of 37 first-place votes — but the Cubs' losing streak adds pressure to the team-success angle in the race.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "PCA: .281 BA, 33 HR, 83 RBI, 32 SB, 7.8 fWAR. Cubs just dropped back-to-back to the D-backs. Ohtani is 8 fWAR back. The Cubs' slide adds a team-performance question to the MVP conversation — but PCA's numbers still lead. #Cubs #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB"
+          ],
+          "char_count": 231
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Pete Crow-Armstrong leads the NL MVP poll 29 of 37 first-place votes. He's on track for back-to-back 30-30 seasons — first Cubs player ever to do that — while leading the majors in CF Fielding Run Value with 24. #Cubs #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB"
+          ],
+          "char_count": 222
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-pca-mvp-lead-cubs-back-to-back-losses-d-backs-32-games-left.html",
+        "headline": "The Cubs Lost Two Straight to the D-backs. PCA's MVP Lead Still Holds.",
+        "word_count": 651
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "PCA NL MVP\n\n#### Image 2 — MVP Poll Leader Graphic\n- **Type:** Social (1080x1350 vertical)\n- **Photo search:** \"Pete Crow-Armstrong Cubs\"\n- **Concept:** \"NL MVP Leader\" header. PCA stat block: .281 BA / 33 HR / 83 RBI / 32 SB / 7.8 fWAR. \"29 of 37 First-Place Votes\" callout. Cubs navy and red palette.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Yordan Alvarez Triple Crown Chase — ZiPS Says 66.5% Odds, Cabrera 2012 Was the Last",
+      "tier": 2,
+      "status": "",
+      "angle": "Alvarez leads the AL in batting average (.329-.330), home runs (35), and RBI (84-85). ZiPS projects 66.5% odds. His batting average lead is \"essentially insurmountable\" (+29 points). 7-game hitting streak with 4 HRs. The last player to win the Triple Crown was Miguel Cabrera in 2012.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Yordan Alvarez leads the AL in BA, HR, and RBI. ZiPS gives him a 66.5% chance to win the Triple Crown — nearly 2-in-3. The last player to do it was Miguel Cabrera in 2012. Alvarez has a 7-game hitting streak and an RBI lead of 7. #Astros #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Astros",
+            "#MLB"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-yordan-alvarez-triple-crown-66-percent-cabrera-2012-last.html",
+        "headline": "Yordan Alvarez Is Chasing the Triple Crown. ZiPS Says He Has a 2-in-3 Shot.",
+        "word_count": 636
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alvarez Triple Crown\n\n#### Image 3 — Triple Crown Chase Graphic\n- **Type:** Social (1080x1350 vertical)\n- **Photo search:** \"Yordan Alvarez Houston Astros\"\n- **Concept:** Triple crown visual treatment — three bold categories: BA leader / HR leader / RBI leader. \"Last TC: Cabrera 2012\" historical note. \"ZiPS: 66.5% odds\" footer. Astros orange palette.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "NL Wild Card Race — D-backs Closing, Cubs' Cushion Shrinks",
+      "tier": 2,
+      "status": "",
+      "angle": "Arizona (70-63) won back-to-back from the Cubs (76-57) and is now 6 games back of the Cubs in the Wild Card. With the Phillies (73-60) at 3 GB and Padres (71-62) at 5 GB, the Cubs have room — but the D-backs are trending at the right time.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "NL Wild Card with 32 games left: Cubs 76-57 (No. 1), Phillies 73-60 (No. 2), Padres 71-62 (No. 3), D-backs 70-63 (closing). Arizona just took back-to-back from Chicago. The buffer is there — but the D-backs are trending. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-nl-wild-card-race-d-backs-closing-cubs-phillies-padres.html",
+        "headline": "The D-backs Won Two From the Cubs. The NL Wild Card Cushion Is Shrinking.",
+        "word_count": 570
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NL Wild Card Race\n\n#### Image 4 — Wild Card Standings Graphic\n- **Type:** Social (1080x1350 vertical)\n- **Photo search:** \"MLB Wild Card baseball\"\n- **Concept:** NL Wild Card standings board — 1. Cubs 76-57 / 2. Phillies 73-60 / 3. Padres 71-62 / Bubble: D-backs 70-63. \"32 Games Left\" countdown. Arrow showing D-backs trend upward.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Dustin May Survives a 106 MPH Comebacker — Brewers Win 8-1 Anyway",
+      "tier": 2,
+      "status": "",
+      "angle": "On the first pitch of his Mets start Tuesday, A.J. Ewing lined a comebacker at 106 mph off Dustin May's back. May was removed, diagnosed with a right scapula contusion (bruised shoulder blade) — negative X-rays. Robert Gasser came in and delivered roughly 6 innings of emergency relief as the Brewers dominated anyway. May's status going forward.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "On the first pitch of his start Tuesday, a 106 MPH line drive off A.J. Ewing's bat hit Dustin May in the back. Removed immediately. Diagnosis: right scapula contusion. Negative X-rays. Robert Gasser took over and the Brewers won 8-1. #Brewers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#MLB"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-dustin-may-106-mph-comebacker-scapula-contusion-gasser-brewers-8-1.html",
+        "headline": "A 106 MPH Line Drive Off His Back on the First Pitch. Then the Brewers Won 8-1 Without Dustin May.",
+        "word_count": 609
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Dustin May Injury\n\n#### Image 5 — Brewers Survive Graphic\n- **Type:** Social (1080x1350 vertical)\n- **Photo search:** \"Dustin May Milwaukee Brewers\"\n- **Concept:** \"106 MPH. 1st Pitch. Removed.\" bold three-line header. \"Scapula Contusion — Negative X-Rays\" subhead. \"Brewers Win 8-1 / Gasser 6 IP\" footer. Brewers blue and gold. Dramatic but factual tone.\n\n---\n\n### Additional: STORY 1 (Misiorowski)\n\n#### Image 6 — Cy Young Race Context\n- **Type:** Social (1080x1350 vertical)\n- **Photo search:** \"Jakob Misiorowski Milwaukee Brewers\"\n- **Concept:** \"Still -550. Still Leading.\" counter-narrative graphic. Emphasizes Cy Young case even after first loss. Season stats prominent."
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

@@ -5,6 +5,49 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-27
+
+### Story 1: Misiorowski Takes His First Loss — "Gets Tagged for the First Time" by the Mets
+- **Date:** 2026-08-27
+- **Tier:** 1
+- **Classification:** FOLLOW UP (first notable loss of 2026 season; was 13-5/1.68 ERA/-550 Cy Young; NBC Sports: "gets tagged for 1st time"; Cy Young still his)
+- **Angle:** The flawless run ends. One bad start doesn't change the Cy Young math — but it changes the narrative. Next start will matter.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+
+### Story 2: PCA NL MVP — Cubs Drop Back-to-Back to D-backs, Lead Still Holds
+- **Date:** 2026-08-27
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Cubs 76-57 after back-to-back D-backs losses; PCA .281/33HR/83RBI/32SB/7.8 fWAR; leads MVP poll 29 of 37; 32 games left)
+- **Angle:** Team-success pressure angle enters the conversation. PCA still leads by every metric. 32 games left.
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - PCA stats update going into September
+  - Cubs WC positioning
+
+### Story 3: Alvarez Triple Crown — ZiPS 66.5% Odds, Cabrera 2012 Was the Last
+- **Date:** 2026-08-27
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Alvarez .330 BA/35 HR/85 RBI leads all 3 AL categories; ZiPS 66.5%; 7-game hitting streak; 18 consecutive games on base; last TC Cabrera 2012)
+- **Angle:** Statistical depth on the Triple Crown chase. ZiPS projection, historical context (Cabrera 2012 — NOT Mantle 1956), recent hot streak.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **CORRECTION NOTE:** AI sources flagged "first since Mantle 1956" — INCORRECT. Established pipeline fact: Cabrera 2012. Used Cabrera 2012 throughout.
+
+### Story 4: NL Wild Card Race — D-backs Closing, Cubs' Cushion Shrinks
+- **Date:** 2026-08-27
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Cubs 76-57, Phillies 73-60, Padres 71-62, D-backs 70-63; D-backs took 2 straight from Cubs; 32 games left)
+- **Angle:** D-backs trending up at exactly the right time. Wild Card math with 32 games remaining.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+
+### Story 5: Dustin May — 106 MPH Comebacker, Scapula Contusion, Brewers Win 8-1
+- **Date:** 2026-08-27
+- **Tier:** 2
+- **Classification:** NEW from Aug 26 (May hit by 106 mph comebacker on first pitch; right scapula contusion; negative X-rays; Gasser ~6 IP emergency relief; Brewers 8-1)
+- **Angle:** First-pitch severity vs. outcome. Brewers' depth (Gasser) saves the day. May's availability going forward.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+
+---
+
 ## 2026-08-25
 
 ### Story 1: Mitchell Injury Update — X-Rays Negative, Frelick Returns
