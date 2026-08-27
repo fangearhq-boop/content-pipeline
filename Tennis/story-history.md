@@ -1829,3 +1829,50 @@ Track previously covered stories to avoid repetition and maintain content freshn
 - **Byline:** Marcus Cole
 - **Key Facts:** Winston-Salem ATP 250, Aug 23-29, Wake Forest; Alcaraz wildcard (first time entering); first competitive matches since April wrist injury; QF/SF this week; Sources: atptour.com, winstonsalemopen.com, prior pipeline
 - **Follow-Up Opportunities:** Alcaraz QF/SF results; Winston-Salem champion
+
+## 2026-08-27
+
+### Story 1: US Open 2026 Draw Revealed — Brackets Set for Sunday
+- **Date:** 2026-08-27
+- **Angle:** FOLLOW-UP (2026-08-26 S3, 2026-08-25 S4: draw ceremony previews) — Draw ceremony held Aug 27 noon ET. Men's seeds: Zverev No. 1, Alcaraz No. 2, Djokovic No. 4. Women's seeds: Sabalenka No. 1, Swiatek No. 2, Gauff No. 3, Pegula No. 4. Alex Eala earns first Grand Slam seeding — historic first for a Filipino player. Sinner absent + 14+ withdrawals. Main draw starts Sunday Aug 30.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Marcus Cole
+- **Key Facts:** Draw ceremony Aug 27 noon ET; Zverev No. 1 (career best seeding), Alcaraz No. 2; Sabalenka No. 1, Swiatek No. 2, Gauff No. 3, Pegula No. 4; Eala first Filipino Grand Slam seed; 14+ withdrawals including Sinner; Sources: tennis365.com, olympics.com, lta.org.uk, atptour.com
+- **Follow-Up Opportunities:** Zverev/Alcaraz first-round results; Eala first-round match; bracket analysis after R1
+
+### Story 2: Alcaraz Confirms US Open Return — Skipping Winston-Salem
+- **Date:** 2026-08-27
+- **Angle:** FOLLOW-UP + CORRECTION (2026-08-25 S3, 2026-08-26 S5: assumed Winston-Salem) — Alcaraz confirmed Thursday he is going directly to the US Open, not competing at Winston-Salem. Last match: April Barcelona (tenosynovitis, right wrist). Missed French Open, Wimbledon, Toronto, Cincinnati, Winston-Salem. No. 2 seed. Only match time: US Open mixed doubles QF exit (Aug 26). Seven Grand Slam titles. Returning cold into first singles match since April.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Ryan Calloway
+- **Key Facts:** Alcaraz skipped Winston-Salem, going directly to US Open; right wrist tenosynovitis; last singles match April Barcelona; missed French Open, Wimbledon, Toronto, Cincinnati; No. 2 US Open seed; Sources: bleacherreport.com, usopen.org, aljazeera.com, atptour.com
+- **Follow-Up Opportunities:** Alcaraz R1 result Aug 30; wrist performance under singles pressure
+
+### Story 3: Jordan Lee and American Teens Fall in Qualifying
+- **Date:** 2026-08-27
+- **Angle:** FOLLOW-UP (2026-08-26 S4: Lee R2 vs Rincon) — Jordan Lee (16, Wimbledon junior champ, Orlando FL) lost to David Rincon (Spain) 6-3, 4-6, 6-1 in qualifying R2. Michael Antonius and Andrew Johnson also out in R2. Lee won R1 over Mark Lajal 4-6, 6-3, 6-3. No American teenager qualifies for main draw.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 1 Image Concept
+- **Tier:** 2
+- **Byline:** Elena Voss
+- **Key Facts:** Lee (16) lost to Rincon 6-3, 4-6, 6-1 in R2; Lee won R1 over Lajal 4-6, 6-3, 6-3; Antonius + Johnson also out R2; Sources: worldtennismagazine.com, Yahoo Sports
+- **Follow-Up Opportunities:** Lee junior circuit; next major qualifying attempt
+
+### Story 4: US Open Qualifying Final Day — 32 Earn Main Draw Spots
+- **Date:** 2026-08-27
+- **Angle:** FOLLOW-UP (2026-08-26 S4: Qualifying Day 3) — Thursday Aug 27 is final qualifying day. 16 men + 16 women complete the 32-qualifier field. Qualifying ran Aug 24-27 (4 days, 3 rounds). Qualifiers placed in main draw for Sunday Aug 30.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 1 Image Concept
+- **Tier:** 2
+- **Byline:** Marcus Cole
+- **Key Facts:** Qualifying Day 4 (final) = Aug 27; 16 men + 16 women advance; 3 rounds over 4 days; Sources: tennis365.com, Yahoo Sports
+- **Follow-Up Opportunities:** Qualifier first-round matchups Aug 30; any qualifier deep run
+
+### Story 5: Winston-Salem Open — Semifinals Day
+- **Date:** 2026-08-27
+- **Angle:** FOLLOW-UP (2026-08-26 S5: Winston-Salem final days) — Semifinals Aug 27 at Wake Forest University. Final Saturday Aug 29. Alcaraz NOT competing (going directly to US Open). Tournament is last hard-court ATP 250 before US Open.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 1 Image Concept
+- **Tier:** 2
+- **Byline:** Ryan Calloway
+- **Key Facts:** Winston-Salem ATP 250, Aug 23-29, Wake Forest; SF today (Aug 27), Final Aug 29; Alcaraz confirmed NOT competing; Sources: atptour.com, winstonsalemopen.com, bleacherreport.com
+- **Follow-Up Opportunities:** Winston-Salem champion; finalist match experience heading into US Open
