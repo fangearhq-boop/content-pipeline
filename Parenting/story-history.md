@@ -6389,3 +6389,57 @@
 - **Tier:** 2
 - **Key Facts (HIGH):** AAP: 6-12 yrs 9-12 hrs; 13-18 yrs 8-10 hrs; 3-5 yrs 10-13 hrs; screen cutoff 30-60 min; COS elevation 6,035 ft; healthychildren.org; Sources: AAP, web research
 - **Follow-Up Opportunities:** October sleep check-in as routines solidify
+
+---
+
+## August 27, 2026
+
+### Story 1: Orton Academy Moving Into Trailblazer Elementary — D11 Co-Location
+- **Date:** 2026-08-27
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — D11 charter school co-location: Orton Academy (D11 charter) now sharing space at Trailblazer Elementary for 2026-27 school year. Arrangement announced April 2026, effective this school year. Practical family guide: drop-off/pick-up logistics, shared facilities, community identity. D11.org / 1033 N. Franklin St.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** D11.org; 1033 N. Franklin St Mon-Fri 8AM-4PM MT; Sources: D11.org, web research
+- **Follow-Up Opportunities:** First-month co-location update; how facilities sharing resolves
+
+### Story 2: CPSC Recall — PIXLABBY Silicone Magnetic Fidget Sliders
+- **Date:** 2026-08-27
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recall of PIXLABBY Silicone Magnetic Fidget Sliders. ~860 units sold Amazon Oct 2025–May 2026 ~$10. High-powered magnets in silicone casing can be accessed by children. One child hospitalized after magnet ingestion. Stop use, contact PIXLABBY, dispose and photo to ah1998zxc@gmail.com for full refund. Distinct from Goody King (Aug 26) and ABC Trading/Gagaku (Aug 24) recalls.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** ~860 units; Amazon Oct 2025–May 2026; ~$10; CPSC 800-638-2772; cpsc.gov/Recalls; Sources: CPSC.gov
+- **Follow-Up Opportunities:** CPSC portal next week for new magnet recalls
+
+### Story 3: NSF 2026 Sleep in America Poll — 44% of Kids Not Getting Enough Sleep
+- **Date:** 2026-08-27
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (distinct from Aug 26 S5 sleep tips) — 2026 NSF Sleep in America Poll findings: 44% of children not consistently getting recommended sleep; parents underestimate needs by 1+ hr/day; 70% see mood/behavior effects; 86% see improvement when child gets good sleep. Research finding: 8 weeks of consistent moderate-to-vigorous physical activity improves children's sleep quality. Quick reference table included. Source: thensf.org + healthychildren.org.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** 44% not getting enough sleep; 1+ hr/day parent underestimate; 70% mood/behavior impact; 86% improvement; ages 6-12: 9-12 hrs; teens: 8-10 hrs; preschool: 10-13 hrs; Sources: NSF 2026 poll, AAP, web research
+- **Follow-Up Opportunities:** Follow-up after fall sports season with sleep data
+
+### Story 4: Weekend Family Roundup — Things to Do with Kids Aug 28-30
+- **Date:** 2026-08-27
+- **Content Pillar:** Local Events
+- **Angle:** REQUIRED THURSDAY ROUNDUP — 6 picks for Aug 28-30 weekend in Colorado Springs. Wings of Change Grand Reveal (free, Pioneers Museum 1 Lake Ave, Fri 5:30-7pm), Story and Crafts with Cynde (free, Reading at the Rock Library, through Aug 31), Rocky Mountain 5K by YMCA (America the Beautiful Park 134 Cimino Dr, Sat 8am), Sunflower Days at Gather Mountain Blooms (Sat 8am-noon), US Olympic Museum (1 Olympic Plaza, daily noon), Spirit of the South at Cottonwood Center (427 E Colorado Ave, free). All 3 required springsdaily.com links embedded.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** Wings of Change: 1 Lake Ave, Aug 28, 5:30-7pm, free; Rocky Mountain 5K: 134 Cimino Dr, Aug 29, 8am; Sunflower Days: Aug 29, 8am-noon; US Olympic Museum: 1 Olympic Plaza, daily noon; Cottonwood Center: 427 E Colorado Ave; Garden of the Gods: 1805 N. 30th St, always free; Required links: springsdaily.com/events/this-weekend-with-kids, /free-this-weekend, /this-weekend
+- **Follow-Up Opportunities:** Next Thursday Weekend Roundup (Sept 4-6)
+
+### Story 5: Free School Support Resources for COS Families
+- **Date:** 2026-08-27
+- **Content Pillar:** Evergreen
+- **Angle:** NEW STORY — Evergreen guide to free/low-cost school-year support resources in Colorado Springs: D11 Edukit (14,000+ K-8 students, grade-specific supply kits, d11.org); El Paso County Public Health immunization records (elpasocountyhealth.org); CCAP childcare assistance (719-444-5000); Colorado FAMLI paid family/medical leave (colorado.gov/famli); PPLD homework help + teen programs (ppld.org). Free/reduced lunch applications also covered.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** CCAP: 719-444-5000; D11 1033 N. Franklin St Mon-Fri 8AM-4PM MT; d11.org; elpasocountyhealth.org; colorado.gov/famli; ppld.org; Sources: D11, PPLD, El Paso County, web research
+- **Follow-Up Opportunities:** FAMLI enrollment deadline reminders; CCAP waitlist updates
