@@ -1,8 +1,18 @@
 # F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
-- **Date**: 2026-08-26
+- **Date**: 2026-08-27
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway)
+- **PostPlanner exports:** f1fr-postplanner-2026-08-27.xlsx (7 posts) + f1fr-postplanner-tobi-2026-08-27.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-08-27/review-dashboard.html (27 items)
+- **Notes:** MONACO APPEAL — ICA hearing Aug 25; no decision; ~2-3 more weeks (~Sept 8-15); Gasly stays P3; FOM distance error admitted; McLaren+Red Bull appellants; FERRARI ADUO-2 — Decision THIS WEEK; ~15hp; 0.2s/lap; redesigned turbocharger+combustion; biggest PU step of 2026; Hamilton 53pts back; Antonelli starting last at Monza; ANTONELLI PENALTY — Full PU change; back of grid Italian GP Sept 4-6; Wolff confirmed; Monza best circuit for recovery; Antonelli 242pts, 59pt lead; turned 20 Aug 25; MONZA PREVIEW — Sept 4-6; Qual Sept 5 15:00 BST; Race Sept 6 14:00 BST; 53 laps; fastest circuit; Ferrari home race; NORRIS THREAT — 2 wins in a row; 159pts (83 back); Antonelli Monza penalty = opportunity window; McLaren strong race pace
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+### 2026-08-26
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)
 - **X Posts:** 7 written, all under 280 characters
 - **Facebook Posts:** 5 stories, long-form + caption each

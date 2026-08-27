@@ -1,0 +1,278 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-27",
+  "compiled_at": "2026-08-27T11:32:03.373987+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Monaco Appeal Verdict — FIA ICA Has No Decision Yet, 2-3 More Weeks",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The FIA's court heard the Monaco GP appeal on Tuesday.\n\nNo decision yet. Won't be one for 2-3 more weeks.\n\nGasly stays P3 for now. Piastri stays P5. The championship race keeps its question mark.\n\n#F1 #MonacoGP #F1Fanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MonacoGP",
+            "#F1Fanrecap"
+          ],
+          "char_count": 222
+        },
+        {
+          "label": "Post 1-2",
+          "text": "FOM admitted to Monaco stewards: the pitlane distance used to calculate Gasly's speeds was WRONG.\n\nThat's why his penalties were rescinded. Now McLaren and Red Bull say that's still not right.\n\nThe FIA Court of Appeal has 2-3 weeks to decide. 🏛️\n\n#F1 #Gasly #F1Fanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Gasly",
+            "#F1Fanrecap"
+          ],
+          "char_count": 269
+        }
+      ],
+      "facebook": {
+        "long_form": "🏛️ The Monaco Grand Prix result is STILL in limbo — and we won't know the answer for at least two more weeks.\n\nThe FIA's International Court of Appeal heard arguments on Tuesday in Paris. McLaren and Red Bull both showed up to argue against the reinstatement of Pierre Gasly to third place after the chaos at Monaco. The panel of four judges listened. Then they went home. No verdict.\n\nHere's a quick recap of how we got here:\n\nAt the Monaco Grand Prix, Gasly was given two 5-second time penalties for exceeding the pit lane speed limit. That initially dropped him from P3 to P7. But then it emerged that FOM — Formula One Management — had measured the pit lane distance incorrectly. The speeds used to calculate Gasly's infractions were based on wrong data. The stewards rescinded both penalties and restored Gasly to P3.\n\nMcLaren (who got Piastri back to P3 briefly) and Red Bull (supporting Hadjar at P4) appealed. Now the court has to decide whether the reinstatement was correct under the regulations, even accounting for the measurement error.\n\nThe verdict is expected in roughly two to three weeks — somewhere around September 8-15. Until then, Gasly officially keeps his Monaco podium. Championship points for Gasly, Hadjar, and Piastri remain officially recorded in current positions.\n\nThis one matters. Those points could swing the Constructor championship by the end of the season.\n\nWho do you think SHOULD have the Monaco podium? 👇",
+        "image_caption": "🏛️ The Monaco GP result is STILL undecided. FIA Court of Appeal heard arguments on Tuesday — no verdict expected for 2-3 more weeks. Gasly stays P3 for now. #F1 #MonacoGP #F1Fanrecap",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-monaco-appeal-no-verdict-ica.html",
+        "headline": "Monaco Grand Prix Appeal Still Unresolved: FIA Court Won't Rule for Two More Weeks",
+        "word_count": 454
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Monaco Grand Prix Appeal — No Verdict\n\n**Image Concept 1 — Social (4:5 vertical, 1080x1350)**\n- **Style:** Complete graphic\n- **Scene:** Courthouse/legal scale of justice icon against Monaco harbor backdrop (night sky, superyachts silhouetted); FIA logo; red/white/black color scheme\n- **Text overlay:** \"MONACO VERDICT — NOT YET\" in bold white; \"FIA Court of Appeal: 2-3 More Weeks\" in subtext\n- **Mood:** Legal drama, suspense\n- **Photo source:** gemini (mode: complete)\n\n**Image Concept 2 — Article Hero (1200x630 landscape)**\n- **Style:** News graphic\n- **Scene:** Wide shot of Monaco circuit corner with \"RESULT PENDING\" stamp overlay; FIA court of appeal badge; muted color palette — red/grey/white\n- **Mood:** Journalistic, unresolved\n- **Photo source:** gemini (mode: complete)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Monaco Appeal — FIA ICA No Decision Yet\n**Verified Facts (HIGH confidence — multiple sources):**\n- FIA International Court of Appeal (ICA) hearing held August 25, Paris (Times Live, Grand Prix 247)\n- Panel of four judges; closed-door hearing\n- Appellants: McLaren and Red Bull (appealing reinstatement of Gasly to P3)\n- Background: Pierre Gasly received two 5-sec penalties for pit lane speeding (60.1 km/h + 60.4 km/h); initially dropped from P3 to P7\n- FOM (Formula One Management) admitted the pit lane distance used to calculate speeds was measured incorrectly\n- Stewards rescinded penalties; Gasly reinstated to P3; Hadjar to P4; Piastri to P5\n- Verdict timeline: not expected for \"2-3 weeks\" from Aug 25 hearing (speedcafe, grand prix 247)\n- Gasly officially remains P3 until verdict\n**MEDIUM confidence:**\n- Exact verdict date (ranges from ~Sept 8-15 based on 2-3 week window)\n- Whether result changes or stands",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Ferrari Must Decide on ADUO-2 Engine This Week",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Ferrari is deciding THIS WEEK whether to run its ADUO-2 engine at Monza.\n\n~15 extra horsepower. ~0.2 seconds per lap. A completely redesigned turbocharger.\n\nAntonelli starts from the back. Hamilton has his best shot at this title. 🔴\n\n#F1 #Ferrari #F1Fanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Ferrari",
+            "#F1Fanrecap"
+          ],
+          "char_count": 258
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Ferrari's ADUO-2 could deliver 0.2 seconds per lap at Monza.\n\nTheir simulations call it the biggest engine step all season.\n\nAntonelli starts LAST. Hamilton needs this upgrade to work.\n\nThis week, Ferrari decides if the championship race changes forever.\n\n#Ferrari #F1 #F1Fanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Ferrari",
+            "#F1",
+            "#F1Fanrecap"
+          ],
+          "char_count": 280
+        }
+      ],
+      "facebook": {
+        "long_form": "🔴 Ferrari is about to make a decision that could change the 2026 F1 championship.\n\nThis week — before the Monza entry deadline — Ferrari must confirm whether their ADUO-2 upgraded power unit will debut at the Italian Grand Prix on September 4-6.\n\nThe numbers are staggering for an engine upgrade: approximately 15 additional horsepower. Around 0.2 seconds per lap at Monza. A completely redesigned turbocharger and combustion chamber. Ferrari's own simulations reportedly call it the biggest power unit step of their entire 2026 season.\n\nWhy does this matter so much RIGHT NOW?\n\nBecause Kimi Antonelli — the championship leader by 59 points — is taking a penalty engine at Monza and will start from the back of the grid. In front of his home Tifosi. At the fastest track on the calendar.\n\nLewis Hamilton, sitting 53 points back from Antonelli, could have a clear shot at victory from a front-row start if the ADUO-2 delivers. A Monza win with Antonelli fighting from the back could cut the championship gap dramatically heading into the final stretch.\n\nFerrari energized. Hamilton energized. The ADUO-2 ready.\n\nThis week is when we find out if the 2026 title fight just got a whole lot closer. 🏆",
+        "image_caption": "🔴 Ferrari decides THIS WEEK on ADUO-2 at Monza. ~15hp. ~0.2s/lap. Redesigned turbocharger. Antonelli starts last. Hamilton has his shot. The championship could change this week. ⚡ #Ferrari #F1 #F1Fanrecap",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-ferrari-aduo2-decision-monza.html",
+        "headline": "Ferrari's ADUO-2 Decision Could Change the 2026 F1 Championship This Week",
+        "word_count": 510
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ferrari ADUO-2 Engine Decision\n\n**Image Concept 1 — Social (4:5 vertical, 1080x1350)**\n- **Style:** Complete graphic\n- **Scene:** Ferrari red/black color scheme; stylized F1 engine cross-section graphic with glowing turbocharger highlighted; lightning bolt accent; \"THIS WEEK\" badge\n- **Text overlay:** \"FERRARI ADUO-2\" header; \"+15HP | +0.2s/LAP\" in large type; \"DECISION THIS WEEK\" footer\n- **Mood:** High-tech, urgent, explosive\n- **Photo source:** gemini (mode: complete)\n\n**Image Concept 2 — Article Hero (1200x630 landscape)**\n- **Style:** Championship battle graphic\n- **Scene:** Ferrari Scuderia red and Monza circuit template split; engine schematic left, championship standings graphic right; Hamilton vs Antonelli points gap visualization; red and silver tones\n- **Mood:** Championship pressure, technical drama\n- **Photo source:** gemini (mode: complete)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Ferrari ADUO-2 Engine Decision\n**Verified Facts (HIGH confidence — motorsport.com, formula1.com, GPFans, Yahoo Sports):**\n- Ferrari ADUO-2: redesigned turbocharger + combustion chamber\n- Expected power gain: ~15 hp at Monza\n- Expected lap time gain: ~0.2 seconds per lap (Ferrari internal simulations, f1oversteer)\n- Combined ADUO program targets ~30hp total across both phases\n- Motorsport.com: \"Ferrari must decide if it will run updated F1 engines in Monza this week\" — decision due at weekend ahead of Monza entry deadline\n- Hamilton and Leclerc both eligible for ADUO-2 without penalties (not over allocation)\n- Hamilton currently 53 pts behind Antonelli (based on Aug 26 standings: Antonelli 242, Hamilton 189)\n- Antonelli confirmed back-of-grid start (full PU change, penalty engine)\n- Ferrari simulations: ADUO-2 could be \"the biggest step forward all season\" per sources\n**MEDIUM confidence:**\n- Whether Ferrari confirms full ADUO-2 deployment vs. partial\n- Exact HP figure (sources range from \"~15hp\" to as high as \"could break the 2026 season\")",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Antonelli Engine Penalty at Monza — Tifosi Watch Their Prodigy Start Last",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Kimi Antonelli will start the Italian Grand Prix from the back of the grid.\n\nFull power unit change at Monza — his home race. In front of the Tifosi.\n\nHe leads by 59 points. 11 races to go.\n\nThis is F1's version of a boss level. 🎮\n\n#F1 #Antonelli #F1Fanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Antonelli",
+            "#F1Fanrecap"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": {
+        "long_form": "🇮🇹 Kimi Antonelli will start the Italian Grand Prix from the back of the grid.\n\nAt his home race. In front of the Tifosi. At the fastest circuit on the Formula 1 calendar.\n\nMercedes boss Toto Wolff confirmed the decision to take a full power unit change at Monza. The reasoning makes sense: Antonelli has accumulated too many component changes due to earlier reliability problems, and the penalty was inevitable. Monza — with its long straights and famous overtaking zones like Lesmo, Variante Chicane, and the run to Parabolica — gives a driver the best chance to recover from a back-of-grid start.\n\nThere's also a silver lining: a fresh engine means Antonelli gets a significant power advantage for the final 11 races of the season. A clean, fully-powered Mercedes engine could actually unlock stronger race pace for the championship run home.\n\nContext on the title picture: Antonelli leads by 59 points over both George Russell and Lewis Hamilton (tied at 183, Russell holds tiebreaker), with Lando Norris at 159 in fourth. With 11 races remaining, the lead is genuinely solid — but losing 25+ points at Monza while rivals take big points could tighten things considerably.\n\nThe Tifosi are going to be rooting for him to come from 20th and challenge for the podium. It's going to be one of the most watched drives of the season.\n\nCan Antonelli pull off an extraordinary recovery at his home race?",
+        "image_caption": "🇮🇹 Kimi Antonelli starts the Italian GP from the BACK. Home race. Monza. Tifosi watching. 59-point championship lead. Can he charge through the field? #F1 #Antonelli #ItalianGP #F1Fanrecap",
+        "posting_time": "2:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-antonelli-monza-grid-penalty.html",
+        "headline": "Kimi Antonelli Starting Last at Monza: A Home Race Drama Nobody Scripted",
+        "word_count": 532
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli Engine Penalty — Monza\n\n**Image Concept 1 — Social (4:5 vertical, 1080x1350)**\n- **Style:** Complete graphic\n- **Scene:** Italian flag (green/white/red) waving behind F1 starting grid graphic; last position highlighted in red with \"ANTONELLI\" nameplate; crowd/Tifosi silhouette\n- **Text overlay:** \"STARTS LAST AT HOME\" main headline; \"Italian Grand Prix | Monza | Sept 4-6\" footer\n- **Mood:** Dramatic, patriotic tension\n- **Photo source:** gemini (mode: complete)\n\n**Image Concept 2 — Article Hero (1200x630 landscape)**\n- **Style:** Grid penalty graphic\n- **Scene:** P20 box highlighted on a race grid lineup graphic (top view); Italian flag colors accent; Monza circuit aerial in background; \"GRID PENALTY\" badge overlay\n- **Mood:** Sports news infographic style\n- **Photo source:** gemini (mode: complete)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli Engine Penalty\n**Verified Facts (HIGH confidence — Formula1.com, Sky Sports, ESPN, Speedcafe):**\n- Full power unit change confirmed for Monza (Italian GP, Sept 4-6)\n- Toto Wolff confirmed decision publicly (multiple sources confirm)\n- Back of grid start at Monza for Antonelli\n- Monza selected: fastest track, best for overtaking/recovery from back\n- Championship: Antonelli 242 pts; Russell 183; Hamilton 183 (Russell tiebreaker via wins); Norris 159\n- 59-point championship lead; 11 races remaining (max ~275 points available)\n- Antonelli turned 20 on August 25\n- Mercedes reliability problems earlier in season forced penalty situation",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Italian Grand Prix Preview — 8 Days to the Temple of Speed",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "8 days until the Italian Grand Prix.\n\n📅 Sept 4-6 | Autodromo Nazionale Monza\n🏎 Fastest circuit on the calendar\n🏆 Championship on the line\n🔴 Ferrari's home race — with their new engine\n\nThe Temple of Speed is waiting.\n\n#F1 #ItalianGP #Monza #F1Fanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#ItalianGP",
+            "#Monza",
+            "#F1Fanrecap"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": {
+        "long_form": "⚡ 8 days until the Italian Grand Prix. And this one is going to be ICONIC.\n\nThe Formula 1 circus descends on the Autodromo Nazionale Monza — the Temple of Speed — from September 4-6 for the 2026 Italian Grand Prix. Here's what you need to know:\n\n📅 **The Schedule:**\n- Friday, Sept 4: Free Practice 1 + Free Practice 2\n- Saturday, Sept 5: Qualifying — 15:00 BST\n- Sunday, Sept 6: Race — 14:00 BST (15:00 local time)\n- Race length: 53 laps or 120 minutes\n\n🔴 **Ferrari's Moment:**\nThis is Ferrari's home race, and they have their ADUO-2 engine upgrade on the line. If the upgrade makes it to the grid, Monza could be Ferrari's strongest showing of the year.\n\n👑 **Antonelli's Gauntlet:**\nThe championship leader starts from the back. 19 young drivers ahead of him on one of the most overtaking-friendly circuits in the sport. The Tifosi will be on their feet.\n\n🟡 **Norris Watch:**\nLando Norris has back-to-back wins. If he's on pole or front row and Antonelli is 20th... the maths get interesting.\n\nWho is your pick to win the 2026 Italian Grand Prix? 👇",
+        "image_caption": "8 DAYS ⚡ Italian Grand Prix | Sept 4-6 | Monza. Ferrari's home race. Ferrari's new engine. Antonelli from the back. Championship on the line. The Temple of Speed awaits. #F1 #ItalianGP #Monza #F1Fanrecap",
+        "posting_time": "5:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-italian-gp-monza-preview.html",
+        "headline": "Italian Grand Prix Preview: Eight Days to the Temple of Speed and a Championship Inflection Point",
+        "word_count": 524
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Italian Grand Prix Preview\n\n**Image Concept 1 — Social (4:5 vertical, 1080x1350)**\n- **Style:** Complete graphic\n- **Scene:** Monza circuit silhouette with famous high-speed banking; \"TEMPLE OF SPEED\" text in gold/white serif font; Italian flag colors; night/twilight atmosphere\n- **Text overlay:** \"ITALIAN GRAND PRIX\" header; \"SEPT 4-6 | MONZA\" date badge; \"8 DAYS AWAY\" countdown\n- **Mood:** Grand, historic, anticipatory\n- **Photo source:** gemini (mode: complete)\n\n**Image Concept 2 — Article Hero (1200x630 landscape)**\n- **Style:** Schedule/preview graphic\n- **Scene:** Weekend schedule laid out: FP1/FP2 Sept 4 | Qualifying Sept 5 15:00 BST | Race Sept 6 14:00 BST; Monza straight layout graphic in background; Italian tricolor accents; Ferrari red dominant\n- **Mood:** Clean schedule graphic, race week energy\n- **Photo source:** gemini (mode: complete)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Italian Grand Prix Monza Preview\n**Verified Facts (HIGH confidence — Monzanet.it, RacingNews365, formula1.com):**\n- Dates: September 4-6, 2026\n- Circuit: Autodromo Nazionale Monza\n- FP1 + FP2: Friday Sept 4\n- Qualifying: Saturday Sept 5, 15:00 BST\n- Race: Sunday Sept 6, 14:00 BST (15:00 local)\n- Race distance: 53 laps or 120 minutes (whichever shorter)\n- 15th race in 2026 F1 season\n- Fastest circuit on calendar (important for Antonelli's fresh PU/straight-line speed)\n- Ferrari's home race; Antonelli's home race (Italian driver)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Lando Norris — Is McLaren's No. 1 Now Antonelli's Biggest Title Threat?",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Lando Norris has won back-to-back F1 races.\n\nHe's 83 points behind Antonelli with 11 races left.\n\nAntonelli starts LAST at Monza. Ferrari has a 15hp engine upgrade on the way.\n\nWho's your money on now? 👀\n\n#F1 #Norris #McLaren #F1Fanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Norris",
+            "#McLaren",
+            "#F1Fanrecap"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "🎯 The question a lot of F1 fans are starting to ask: is Lando Norris Kimi Antonelli's biggest rival for the 2026 World Championship?\n\nAfter back-to-back race wins — including a commanding 11.5-second victory at the Dutch Grand Prix — Norris has moved to 159 points, sitting 83 behind Antonelli. With 11 races remaining and a maximum 275 points still available, Norris is mathematically alive.\n\nSky Sports raised this question directly after Zandvoort: has Norris become the biggest threat?\n\nHere's the case FOR Norris:\n- McLaren has the best race pace on a variety of track types\n- The floor issue that plagued Oscar Piastri has NOT affected Norris — he has been the clean, consistent performer\n- Antonelli's Monza penalty is a gift: Norris could gain 20-30 points in a single weekend\n- Norris has shown in recent years he can string wins together when momentum is right\n\nHere's the case AGAINST:\n- 83 points is a lot, even with 11 races left\n- George Russell (183 pts) and Lewis Hamilton (183 pts) are actually mathematically closer\n- Ferrari's ADUO-2 could make Hamilton the more dangerous threat at high-speed circuits\n\nBut the storyline is there. Norris. 2 wins in a row. Antonelli about to start last.\n\n👀 The next two Sundays could tell us a lot.",
+        "image_caption": "🎯 Lando Norris: back-to-back F1 wins. 83 points behind Antonelli. 11 races left. Antonelli starting LAST at Monza. Is Norris the real title threat now? #F1 #Norris #McLaren #F1Fanrecap",
+        "posting_time": "12:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-norris-title-threat-2026.html",
+        "headline": "Is Lando Norris Now Antonelli's Biggest Title Threat in 2026?",
+        "word_count": 487
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Norris Title Threat\n\n**Image Concept 1 — Social (4:5 vertical, 1080x1350)**\n- **Style:** Complete graphic\n- **Scene:** McLaren papaya orange background; championship standings bar chart showing Antonelli 242 vs Norris 159; bold \"83 POINTS\" gap callout; \"11 RACES LEFT\" subtext; Monza circuit outline accent\n- **Text overlay:** \"NORRIS: TITLE THREAT?\" main question; clean modern stats graphic design\n- **Mood:** Analytical, exciting, question mark energy\n- **Photo source:** gemini (mode: complete)\n\n**Image Concept 2 — Article Hero (1200x630 landscape)**\n- **Style:** Rivalry graphic\n- **Scene:** McLaren orange vs Mercedes silver split composition; horizontal bar showing points gap; trophy icon at far right; \"2026 F1 CHAMPIONSHIP\" title bar at top; clean minimal design\n- **Mood:** Championship rivalry, data-driven\n- **Photo source:** gemini (mode: complete)"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Lando Norris Title Threat\n**Verified Facts (HIGH confidence — Sky Sports, Formula1.com, Yahoo Sports):**\n- Dutch GP result: Norris wins by 11.536 seconds over Antonelli (formula1.com)\n- 2nd consecutive race win for Norris\n- Norris: 159 points (4th in standings)\n- Gap to Antonelli: 83 points\n- Russell and Hamilton tied at 183 (Russell has tiebreaker via wins)\n- McLaren race pace strong; Piastri underperforming (confirmed floor issue)\n- Sky Sports headline: \"Is McLaren driver now Kimi Antonelli's biggest threat for 2026 F1 world title?\"\n- 11 races remaining; mathematically very much alive",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

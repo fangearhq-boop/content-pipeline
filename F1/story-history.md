@@ -5798,3 +5798,45 @@
 - **Key facts:** Standings after Round 11: Antonelli 219pts, Hamilton 169pts (-50), Russell 160pts (-59); 12 rounds/316pts remain; Antonelli: 6 wins/6 poles/9 podiums/21 yrs old; Hamilton first Ferrari season; Ferrari upgrade plan: Zandvoort aero + Monza ADUO-2 engine; Mercedes 379pts constructors leads Ferrari 307pts (-72)
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Dutch GP results; championship gap after Sprint + race
+
+## 2026-08-27
+| 2026-08-27 | T1 | Monaco Grand Prix Appeal — FIA ICA Has No Decision, 2-3 More Weeks | X(2), FB, Article | FOLLOW UP |
+| 2026-08-27 | T1 | Ferrari Must Decide on ADUO-2 Engine This Week for Monza | X(2), FB, Article | NEW |
+| 2026-08-27 | T2 | Kimi Antonelli Engine Penalty — Back of Grid at Italian GP Home Race | X(1), FB, Article | FOLLOW UP |
+| 2026-08-27 | T2 | Italian Grand Prix Preview — 8 Days to Monza, Sept 4-6 | X(1), FB, Article | NEW |
+| 2026-08-27 | T2 | Lando Norris — Is He Now Antonelli's Biggest Title Threat? | X(1), FB, Article | FOLLOW UP |
+
+### STORY 1: Monaco Grand Prix Appeal — No Verdict Yet
+- **Tier:** 1
+- **Category:** FIA / Monaco Grand Prix / Pierre Gasly / Oscar Piastri / McLaren / Red Bull
+- **Key facts:** ICA hearing held Aug 25 Paris; 4 judges; no decision; verdict ~Sept 8-15; FOM admitted pit lane distance measurement error; Gasly stays P3 (Hadjar P4, Piastri P5) until ruling; McLaren + Red Bull appealed
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** ICA verdict announcement, championship points adjustment
+
+### STORY 2: Ferrari ADUO-2 Engine Decision
+- **Tier:** 1
+- **Category:** Ferrari / ADUO-2 / Lewis Hamilton / Italian Grand Prix
+- **Key facts:** Decision this week before Monza entry deadline; ~15hp gain; ~0.2s/lap at Monza; redesigned turbocharger + combustion chamber; Ferrari simulations call it biggest PU step of 2026; Hamilton 53pts back from Antonelli (242 vs 189); Antonelli starts last at Monza
+- **Status:** NEW
+- **Follow-up ideas:** Confirmation of ADUO-2 deployment, Monza qualifying/race result
+
+### STORY 3: Antonelli Engine Penalty at Monza
+- **Tier:** 2
+- **Category:** Kimi Antonelli / Mercedes / Italian Grand Prix
+- **Key facts:** Full PU change confirmed; back of grid at Monza (Sept 4-6); Wolff confirmed decision; Monza chosen for overtaking opportunities; Antonelli 242pts, leads by 59pts; turned 20 on Aug 25; 11 races remain
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Monza qualifying position, race-day charge from back
+
+### STORY 4: Italian Grand Prix Preview
+- **Tier:** 2
+- **Category:** Italian Grand Prix / Monza / Ferrari / F1 Season
+- **Key facts:** Sept 4-6; FP1+FP2 Sept 4; Qualifying Sept 5 15:00 BST; Race Sept 6 14:00 BST; 53 laps or 120 min; fastest circuit on calendar; Ferrari home race; ADUO-2 decision pending; Antonelli starting last; Norris on back-to-back wins
+- **Status:** NEW
+- **Follow-up ideas:** Ferrari ADUO-2 confirmation, qualifying day, race day
+
+### STORY 5: Lando Norris Title Threat
+- **Tier:** 2
+- **Category:** Lando Norris / McLaren / F1 Championship
+- **Key facts:** Dutch GP win by 11.536s over Antonelli; 2 consecutive wins; Norris 159pts (4th); 83pts behind Antonelli (242); Russell+Hamilton tied at 183; McLaren best race pace; Piastri floor issue not affecting Norris; Antonelli Monza penalty = opportunity window
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Monza qualification, points gap update
