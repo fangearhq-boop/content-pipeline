@@ -3,6 +3,51 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-08-27
+
+### Story 1: AUSL All-Star Cup — Series 4 Draft Complete, Eve of the Finale
+- **Date:** 2026-08-27
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Series 4 draft done; teams set; Friday opener Aug 28 at 7 PM ET CBS Sports Network; Klingler 890 leads Kilfoyl 866; champion Aug 30)
+- **Angle:** Eve of the finale — Series 4 draft complete, standings math heading into the final series. Klingler 4-0 all-time as captain protecting 24-point lead over Kilfoyl.
+- **Content Produced:** Article (article-01, Jordan Reeves), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Series 4 games Aug 28-30
+  - Individual champion crowned Aug 30
+
+### Story 2: September 1 Countdown — 5 Days
+- **Date:** 2026-08-27
+- **Tier:** 2
+- **Classification:** FOLLOW UP (5 days; new angle: what September 1 morning actually looks like — first-hour call mechanics)
+- **Angle:** Hour-by-hour breakdown of the September 1 opening window. First calls before 8 AM. First hour is everything. September 9 at 7 AM ET in-person window.
+- **Content Produced:** Article (article-02, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+
+### Story 3: USA WNT — 16 Days, Game-by-Game Group Stage Stakes
+- **Date:** 2026-08-27
+- **Tier:** 2
+- **Classification:** FOLLOW UP (16 days; new angle: game-by-game stakes — Mexico opener Sept 12, Netherlands top-seed decider)
+- **Angle:** Breakdown of each game's meaning. USA vs. Mexico (No. 7) Sept 12 opener. Netherlands (No. 6) determines top seed. Only 2 of 6 advance to Redcliffe.
+- **Content Produced:** Article (article-03, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - USA vs Mexico opener Sept 12
+  - Group Oklahoma results
+
+### Story 4: Oklahoma — Fall Camp Without the WNT Four
+- **Date:** 2026-08-27
+- **Tier:** 2
+- **Classification:** FOLLOW UP (new angle: Gasso running two-roster fall camp; Berzon/Harter integrating while Brito/Coleman/Jennings/Maxwell in OKC)
+- **Angle:** Two-roster reality in Norman. WNT four away through Sept 16. Berzon and Harter integrating. Gasso sees both versions of the team before anyone.
+- **Content Produced:** Article (article-04, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+
+### Story 5: Texas Tech — NiJaree Canady and the Preseason No. 1 Case
+- **Date:** 2026-08-27
+- **Tier:** 3
+- **Classification:** NEW (Texas Tech not previously covered; preseason No. 1 ranking; Canady + 7 transfers with 105 combined HRs)
+- **Angle:** Preseason No. 1 case. Canady anchors pitching. Seven transfers combined for 105 HRs (vs prior TTU 60 HRs). Big 12 context.
+- **Content Produced:** Article (article-05, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+
+---
+
 ## 2026-08-25
 
 ### Story 1: AUSL All-Star Cup — Series 3 Day 2 Results
