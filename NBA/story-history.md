@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-08-28
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-08-28 | T1 | NBA Clears Clippers — Kawhi Leonard Trade to Raptors Proceeds | X, FB, Article | NEW |
+| 2026-08-28 | T1 | Stephen Curry Extension Window Opens Aug 29 — 2yr/$136.7M Decision | X, FB, Article | FOLLOW UP |
+| 2026-08-28 | T2 | Wembanyama 22 Pts 9 Reb — France Beats Slovenia, Sweden Next Aug 30 | X, FB, Article | FOLLOW UP |
+| 2026-08-28 | T2 | Shaedon Sharpe Torn Meniscus — Blazers Out 6 Months, Morant Carries Load | X, FB, Article | FOLLOW UP |
+| 2026-08-28 | T2 | NBA Opening Night Oct 20 — Knicks Raise Banner vs LeBron's 76ers | X, FB, Article | NEW |
+
+### STORY 1: Kawhi Leonard Cleared — Raptors Trade Proceeds
+- **Tier:** 1
+- **Category:** NBA Trades / Toronto Raptors / LA Clippers / Kawhi Leonard
+- **Key facts:** NBA cleared Clippers of cap circumvention in Aspiration investigation; trade agreed in principle end of June; Leonard returns to Toronto (2019 Finals MVP); Clippers receive Brandon Ingram, Gradey Dick, draft picks; Toronto training camp Sept 28
+- **Status:** NEW
+- **Follow-up ideas:** Official trade completion announcement; Leonard Toronto arrival; Raptors training camp coverage
+
+### STORY 2: Stephen Curry Extension — Window Opens Aug 29
+- **Tier:** 1
+- **Category:** NBA Free Agency / Golden State Warriors / Stephen Curry
+- **Key facts:** Extension eligible Aug 29; 2yr/$136.7M max; Warriors GM Dunleavy "pretty confident"; Windhorst urges waiting; 1yr/$62.6M structure also discussed; $100M cap space possible with shorter deal; Warriors 37-45 last season
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Signing announcement (expected Aug 29); structure of deal (2yr max vs 1yr); cap implications
+
+### STORY 3: Wembanyama France Beats Slovenia
+- **Tier:** 2
+- **Category:** FIBA / France National Team / Victor Wembanyama
+- **Key facts:** Wemby 22 pts, 9 reb vs Slovenia (Aug 27); France 6-1 Group L; Wemby France captain; Sweden game Aug 30; "doesn't miss NBA right now"; 25.0 ppg/11.5 reb/3.1 blk DPOY last season
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Sweden result Aug 30; France FIBA World Cup qualifying standings
+
+### STORY 4: Shaedon Sharpe Torn Meniscus
+- **Tier:** 2
+- **Category:** NBA Injuries / Portland Trail Blazers / Shaedon Sharpe
+- **Key facts:** Torn right meniscus; out ~6 months; return late Feb 2027; career-high 20.8 ppg last season; Blazers acquired Ja Morant from Memphis this offseason; Morant carries offensive load alone
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Surgery timeline; Portland depth chart adjustments; Morant season preview
+
+### STORY 5: NBA Opening Night October 20
+- **Tier:** 2
+- **Category:** NBA Season Preview / New York Knicks / Philadelphia 76ers / Oklahoma City Thunder
+- **Key facts:** Oct 20 tripleheader on NBC; Celtics at Pistons 3PM, 76ers at Knicks 7PM, Thunder at Spurs 9:30PM; Knicks raise first banner since 1973; LeBron + Jaylen Brown + Embiid on 76ers; LeBron called Philly "last decision"; OKC-SA WCF rematch
+- **Status:** NEW
+- **Follow-up ideas:** Training camp coverage; Opening Night preview; banner ceremony details
+
 ## 2026-08-25
 
 | Date | Tier | Title | Platforms | Status |
