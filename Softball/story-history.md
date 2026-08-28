@@ -3,6 +3,52 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-08-28
+
+### Story 1: AUSL All-Star Cup — Series 4 Opens Tonight
+- **Date:** 2026-08-28
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Series 4 LIVE tonight: Klingler vs Flippen 7PM ET CBS Sports Network; Klingler 890 pts leads Kilfoyl 866; champion Aug 30)
+- **Angle:** The finale begins. Kilfoyl — who was on Team Klingler in Series 3 — now captains her own squad. The teammate-turned-rival dynamic; 24-point gap; champion crowned Aug 30.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Series 4 game results (tonight and Aug 29-30)
+  - Individual champion crowned Aug 30
+
+### Story 2: September 1 Countdown — 4 Days
+- **Date:** 2026-08-28
+- **Tier:** 2
+- **Classification:** FOLLOW UP (4 days; angle: final prep window — what the last 4 days look like for Class of 2028 recruits)
+- **Angle:** What coaches are finalizing in the last 4 days. First calls before 8 AM on Sept 1. Sept 9 in-person window.
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+
+### Story 3: USA WNT — 15 Days, Roster Balance for Group Oklahoma
+- **Date:** 2026-08-28
+- **Tier:** 2
+- **Classification:** FOLLOW UP (15 days; new angle: Olympic veterans + World Games gold core; roster balance)
+- **Angle:** Garcia + Mulipola (2020 Olympians) + 7 World Games gold squad members as the experience core. USA opens vs Mexico (No. 7) Sept 12. Netherlands (No. 6) top-seed game.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - USA vs Mexico opener Sept 12
+
+### Story 4: Oklahoma — Gasso Coaching USA WNT While Building at Home
+- **Date:** 2026-08-28
+- **Tier:** 2
+- **Classification:** FOLLOW UP (new angle: entire coaching staff — Gasso, JT Gasso, Rocha — also on USA WNT coaching staff for Sept 12-16)
+- **Angle:** Unprecedented fall — OU coaching staff away in OKC coaching Team USA at same time four Sooners play. Berzon/Harter integrating at home. 2,351 fans first scrimmage.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+
+### Story 5: Lexi Kilfoyl — MVP Award Leader Enters Series 4 as Captain
+- **Date:** 2026-08-28
+- **Tier:** 3
+- **Classification:** NEW (Kilfoyl as standalone subject; teammate-turned-rival; most Game MVPs in 2026 All-Star Cup)
+- **Angle:** 3 Game MVPs (most in league), 866 points (136 stat + 100 MVP bonus), 8-6 captaining record, first time as captain in 2026, was on Team Klingler in Series 3.
+- **Content Produced:** Article (article-05, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Series 4 results for Kilfoyl's team
+
+---
+
 ## 2026-08-27
 
 ### Story 1: AUSL All-Star Cup — Series 4 Draft Complete, Eve of the Finale
