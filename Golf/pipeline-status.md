@@ -1,7 +1,18 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
-- **Date**: 2026-08-27
+- **Date**: 2026-08-28
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres)
+- **PostPlanner exports:** gfr-postplanner-2026-08-28.xlsx (7 posts) + gfr-postplanner-tobi-2026-08-28.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-08-28/review-dashboard.html (27 items)
+- **Notes:** TOUR CHAMPIONSHIP R1 — Min Woo Lee leads at -8 (3-shot lead over Hovland/Morikawa/Gotterup at -6); Scheffler -5 (T5, closed with back-to-back birdies); McIlroy -2 (T20, six shots back, chasing 4th FedExCup); Fleetwood -4; $40M purse ($10M winner); East Lake GC Atlanta; no staggered starts; Rounds 3+4 Aug 29-30; SCHEFFLER FIVE STRAIGHT NO. 1 SEED — unprecedented 5 consecutive FedExCup No. 1 seeds; $23M bonus locked; 21 career wins; won FedExCup 2024; three shots back from Lee; MCILROY 4TH FEDEXCUP — 3x champion (2016/2019/2022); no player has won 4; T20 after R1; needs major R2 charge; LPGA FM CHAMPIONSHIP R1 — R. Choi (Australia) and Y. Yoshida (Japan) co-lead at -3 at TPC Boston; five players at -2 (Dryburgh, Hannah Green, S. Lee, Haeran Ryu, C. Iwai); $4.4M purse; Miranda Wang defending (won 2025 at -20); Thitikul/Korda/Hull in field; Rounds 3+4 Aug 29-30; LIV 2027 UNCERTAIN — Saudi PIF withdrawing after 2026; CEO O'Neil: new investor deal signed, hopes to close September; Norman (Skratch): "I hate to see it wither away. I would rather just see it end."; Poulter: "I think time might run out" + "I genuinely haven't decided yet"; 2026 season over: La Sasso won Indianapolis finale, Rahm 3rd consecutive individual title, Legion XIII team title; LIV 2.0 concept: fewer events, reduced prize money
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+### 2026-08-27
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)
 - **X Posts:** 8 written, all under 280 characters
