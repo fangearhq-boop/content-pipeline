@@ -1876,3 +1876,50 @@ Track previously covered stories to avoid repetition and maintain content freshn
 - **Byline:** Ryan Calloway
 - **Key Facts:** Winston-Salem ATP 250, Aug 23-29, Wake Forest; SF today (Aug 27), Final Aug 29; Alcaraz confirmed NOT competing; Sources: atptour.com, winstonsalemopen.com, bleacherreport.com
 - **Follow-Up Opportunities:** Winston-Salem champion; finalist match experience heading into US Open
+
+## 2026-08-28
+
+### Story 1: US Open 2026 — Two Days Out, Full Draw Preview
+- **Date:** 2026-08-28
+- **Angle:** NEW STORY — US Open full preview two days before Sunday Aug 30 start. Men's seeds: Zverev No. 1 (Sinner withdrew, knee), Alcaraz No. 2 (4-month wrist injury return), Auger-Aliassime No. 3, Djokovic No. 4 (chasing 25th major), Cobolli No. 5, Fils No. 14. Women's seeds: Sabalenka No. 1 (two-time defending champion), Rybakina No. 2 (fitness question), Swiatek No. 8. Notable R1: Fils vs. Tsitsipas, Wawrinka vs. Berrettini, Auger-Aliassime vs. Hijikata. Alcaraz and Djokovic on same side of draw.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Marcus Cole
+- **Key Facts:** Main draw starts Aug 30, USTA Billie Jean King National Tennis Center; Sinner withdrew knee injury; Zverev 18-2 at Grand Slams in 2026 (won Roland Garros, Wimbledon final); Alcaraz last singles match April Barcelona (tenosynovitis); Sabalenka opening vs. Osorio; Djokovic pursuing 25th major; Sources: tennis365.com, heavy.com, bleacherreport.com, profootballnetwork.com, espn.com
+- **Follow-Up Opportunities:** R1 results Aug 30; Alcaraz wrist performance; Rybakina participation confirmation
+
+### Story 2: Rybakina US Open Participation in Doubt — Ankle Injury
+- **Date:** 2026-08-28
+- **Angle:** FOLLOW-UP (2026-08-26 S3, Cincinnati swing coverage) — Rybakina retired Cincinnati QF vs. Swiatek with left ankle injury (Aug 21). Has not practiced at US Open as of Aug 27. Refused to confirm 100% participation. US Open begins Aug 30.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Ryan Calloway
+- **Key Facts:** Retired Cincinnati QF Aug 21 (left ankle injury, awkward landing at net); has NOT practiced at USTA Billie Jean King NTC; "I don't want to rush" (puntodebreak.com Aug 27); two-time Grand Slam champion (2022 Wimbledon); ankle bothering her through consecutive Toronto + Cincinnati weeks; Sources: puntodebreak.com, tennis365.com, yardbarker.com, justwomenssports.com
+- **Follow-Up Opportunities:** Rybakina fitness update/withdrawal confirmation; first-round result if she plays
+
+### Story 3: Winston-Salem Open Semifinals — Duckworth, Fery, Buse, Bonzi
+- **Date:** 2026-08-28
+- **Angle:** FOLLOW-UP (2026-08-27 S5: Winston-Salem SF day) — Actual SF matchups today: Duckworth (Australia) vs. Fery (Great Britain), Buse (Peru, No. 3 seed) vs. Bonzi (France). Final Saturday Aug 29, 4 p.m. ET.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Elena Voss
+- **Key Facts:** Duckworth def. Marozsan in QF; Fery pulled off QF comeback (fieldlevelmedia.com); SF at Wake Forest University Tennis Complex; Final Aug 29 4:00 PM ET; Sources: greensboro.com, tennis.com, fieldlevelmedia.com, abc.net.au
+- **Follow-Up Opportunities:** Winston-Salem champion (Aug 29); finalist's US Open performance
+
+### Story 4: Alex Eala — No. 17 Seed, Historic Grand Slam Milestone
+- **Date:** 2026-08-28
+- **Angle:** NEW STORY — Eala seeded No. 17 at 2026 US Open (announced following draw Aug 27); surpasses her prior record of No. 29 at 2026 Wimbledon. Highest Grand Slam seeding ever by a Filipino player. Opens vs. qualifier in R1 Sunday. Draw quarter headed by Gauff (No. 4); could face Slam winners deep.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Marcus Cole
+- **Key Facts:** No. 17 seed (career best, surpasses No. 29 Wimbledon 2026); opens vs. qualifier R1 Sun; draw quarter = Gauff No. 4; R2 potential: Oliynykova or Brantmeier; Sources: gmanetwork.com, spin.ph, mb.com.ph, tennishead.net, sportbible.com
+- **Follow-Up Opportunities:** Eala R1 result Aug 30; Eala R2+ results
+
+### Story 5: Arthur Fils — Cincinnati Champion Draws Tsitsipas in US Open R1
+- **Date:** 2026-08-28
+- **Angle:** NEW STORY — Fils won 2026 Cincinnati Masters 1000 (def. Tiafoe 6-3, 1-6, 6-0 in final; first Masters 1000 title; first Frenchman to win Cincinnati since Guy Forget 1991; first French Masters title since Tsonga 2014 Canadian Open; historic first two Black men in Masters 1000 final). Now seeded No. 14 at US Open, faces Tsitsipas in R1.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Ryan Calloway
+- **Key Facts:** Def. Tiafoe 6-3, 1-6, 6-0; first Masters 1000 title; 5th career ATP title; first Frenchman in Cincinnati since Forget 1991; first French Masters title since Tsonga 2014 Canadian; first two Black men in Masters 1000 final (Fils+Tiafoe); US Open No. 14 seed; R1 vs. Tsitsipas; Sources: tennismajors.com, sports.yahoo.com, atptour.com, cincinnatiopen.com, en.tennistemple.com
+- **Follow-Up Opportunities:** Fils vs. Tsitsipas R1 result Aug 30; Fils deep run at US Open

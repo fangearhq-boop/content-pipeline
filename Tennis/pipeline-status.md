@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-08-27 |
-| Writing | Complete (all steps) | 2026-08-27 |
-| Fact-check | Complete (verify-facts.py run — 5 stories, 38 claims, 64 HIGH) | 2026-08-27 |
-| Compile | Complete (07-content-data.json — 5 stories, 6 X posts, 5 articles, 26 items) | 2026-08-27 |
-| Dashboard | Complete (review-dashboard.html, 26 items) | 2026-08-27 |
-| PostPlanner Export | 0 posts (parser compat known issue — posts exported to social files but not picked up by exporter) | 2026-08-27 |
-| WordPress Publish | Attempted — proxy blocks WordPress API (same as all prior runs) | 2026-08-27 |
-| Dashboard Push | Attempted — proxy lacks write access to content-dashboards repo (same as all prior runs) | 2026-08-27 |
+| Research | Complete | 2026-08-28 |
+| Writing | Complete (all steps) | 2026-08-28 |
+| Fact-check | Complete (verify-facts.py run — 5 stories, 29 claims) | 2026-08-28 |
+| Compile | Complete (07-content-data.json — 5 stories, 5 X posts, 5 articles, 20 items) | 2026-08-28 |
+| Dashboard | Complete (review-dashboard.html, 20 items) | 2026-08-28 |
+| PostPlanner Export | 0 posts (parser compat known issue) | 2026-08-28 |
+| WordPress Publish | Attempted — proxy blocks WordPress API (same as all prior runs) | 2026-08-28 |
+| Dashboard Push | Attempted — proxy lacks write access to content-dashboards repo (same as all prior runs) | 2026-08-28 |
 
 ## Queue
 
@@ -24,6 +24,17 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-08-28 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 8 X posts + 5 FB posts (5 long-form + 5 captions) = 13 total
+- **Articles:** 5 (bylines: Marcus Cole [S1, S4], Ryan Calloway [S2, S5], Elena Voss [S3])
+- **PostPlanner exports:** 0 posts (known parser compat issue — same as prior runs)
+- **Key stories:** US Open 2026 full preview (Zverev No. 1 after Sinner withdrawal, Alcaraz No. 2 returning from April wrist injury, Sabalenka three-peat bid, Djokovic chasing 25th major, Rybakina fitness question, draw starts Aug 30); Rybakina ankle injury (retired Cincinnati QF Aug 21, has not practiced, refuses to confirm 100% US Open participation); Winston-Salem semifinals (Duckworth vs. Fery, Buse vs. Bonzi — final Aug 29); Alex Eala No. 17 seed (highest Grand Slam seeding ever for Filipino player, opens vs. qualifier); Arthur Fils Cincinnati champion (def. Tiafoe 6-3, 1-6, 6-0, first French Masters 1000 since Tsonga 2014, draws Tsitsipas in R1)
+- **Issues:** image manifest all not_started (expected for imagin source); compile char count errors are known parser issue (FB long-form read as X posts); PostPlanner 0 posts (known parser issue); WordPress blocked by proxy; dashboard push blocked by proxy (content-dashboards not in session authorized repos)
+- **Story history:** Updated with all 5 stories
+- **Seedings note:** Prior pipeline (Aug 27) had Swiatek No. 2, Gauff No. 3, Pegula No. 4 — today's research confirms Rybakina is No. 2 seed, Swiatek No. 8. Using verified draw from multiple sources (tennis365, wtatennis, sundayguardianlive).
 
 ### 2026-08-27 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
