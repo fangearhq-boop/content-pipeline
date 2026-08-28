@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-08-28
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-08-28 | T1 | Monza Preview: Antonelli Starts Last, Ferrari ADUO-2, Hamilton Hunts | X, FB, Article | FOLLOW UP |
+| 2026-08-28 | T1 | Ferrari ADUO-2 Engine Debuts Monza — 15hp, 0.2s Per Lap | X, FB, Article | FOLLOW UP |
+| 2026-08-28 | T2 | Monaco GP Appeal ICA Heard Aug 25 — Verdict in Weeks | X, FB, Article | FOLLOW UP |
+| 2026-08-28 | T2 | Norris Wins Dutch GP — Second Consecutive Victory, 83 Points Back | X, FB, Article | NEW |
+| 2026-08-28 | T2 | F1 Championship Standings: Antonelli 59 Ahead, Four Drivers in Hunt | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Monza Italian GP Preview
+- **Tier:** 1
+- **Category:** F1 Race Preview / Italian GP / Kimi Antonelli / Lewis Hamilton
+- **Key facts:** Italian GP Sept 4-6 Monza; Antonelli starts last (PU penalty, Wolff confirmed); Ferrari ADUO-2 +15hp; Hamilton 53pts back; 97th Italian GP; best recovery circuit due to slipstream
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Qualifying results; FP1/FP2 pace; Hamilton vs Antonelli lap charts
+
+### STORY 2: Ferrari ADUO-2 Engine Upgrade
+- **Tier:** 1
+- **Category:** F1 Technical / Ferrari Power Unit / ADUO-2
+- **Key facts:** ADUO-2 debuts at Monza; ~15hp gain; ~0.2s/lap at Monza; redesigned turbo (larger impeller) + combustion chamber; Mercedes forced to accelerate own upgrade; original 2026 PU had smaller turbo (anti-lag) lost advantage when FIA changed pre-start procedure
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** ADUO-2 real-world performance vs simulations; Monza race pace; title implications
+
+### STORY 3: Monaco GP Appeal ICA Verdict Pending
+- **Tier:** 2
+- **Category:** F1 Governance / Monaco GP / FIA ICA / Pierre Gasly
+- **Key facts:** ICA heard Aug 25 in Paris; McLaren+Red Bull appellants; Gasly restored P3 after FOM distance measurement error; Hadjar P4; Piastri P5; verdict up to 3 weeks (mid-Sept); Monaco race was June 7
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** ICA ruling announcement; points adjustment if verdict reversed
+
+### STORY 4: Norris Dutch GP Win Two Consecutive
+- **Tier:** 2
+- **Category:** F1 Race Results / Dutch GP / Lando Norris / McLaren
+- **Key facts:** Norris wins Zandvoort; 11.5s ahead of Antonelli; Russell P3; Verstappen crash lap 1 red flag; 2nd consecutive win; Norris 83pts back; 11 races remain
+- **Status:** NEW
+- **Follow-up ideas:** Norris Monza preview; McLaren strategy; can he make it 3 in a row?
+
+### STORY 5: F1 Championship Standings After Dutch GP
+- **Tier:** 2
+- **Category:** F1 Championship / Standings / 2026 Season
+- **Key facts:** Antonelli ~242pts (59pt lead); Russell ~183pts 2nd (tiebreaker Hamilton); Hamilton ~183pts; Norris ~159pts (83 back); 11 races remain; Antonelli starts last at Monza
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Post-Monza standings; title probability models
+
 ## 2026-08-25
 
 | Date | Tier | Title | Platforms | Status |

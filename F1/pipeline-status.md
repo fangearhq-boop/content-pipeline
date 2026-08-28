@@ -1,8 +1,18 @@
 # F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
-- **Date**: 2026-08-27
+- **Date**: 2026-08-28
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss)
+- **PostPlanner exports:** f1fr-postplanner-2026-08-28.xlsx (7 posts) + f1fr-postplanner-tobi-2026-08-28.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-08-28/review-dashboard.html (27 items)
+- **Notes:** MONZA PREVIEW — Antonelli starts last (PU penalty, Wolff confirmed); Ferrari ADUO-2 debuts (+15hp, ~0.2s/lap); Hamilton 53pts back; Italian GP Sept 4-6; FERRARI ADUO-2 — Redesigned turbo (larger impeller) + combustion chamber; ~15hp; Monza most power-sensitive circuit; Mercedes forced to accelerate own upgrade; MONACO APPEAL — ICA heard Aug 25 Paris; McLaren+Red Bull vs Gasly P3 reinstatement; verdict 2-3 weeks (mid-Sept); NORRIS DUTCH GP WIN — 2nd consecutive victory; 11.5s ahead of Antonelli; Verstappen crash lap 1 red flag; Russell P3; Norris 83pts back; 11 races remain; F1 STANDINGS — Antonelli ~242pts (59pt lead); Russell ~183 2nd tiebreaker; Hamilton ~183; Norris ~159 (83 back)
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+### 2026-08-27
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)
 - **X Posts:** 7 written, all under 280 characters
 - **Facebook Posts:** 5 stories, long-form + caption each
