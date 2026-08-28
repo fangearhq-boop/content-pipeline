@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-08-27T08:30:00.223563+00:00",
+  "generated_at": "2026-08-28T08:30:00.213231+00:00",
   "account": "cubs",
   "window_days": 21,
-  "tweet_count": 126,
-  "measured_tweet_count": 126,
-  "measured_median_impressions": 92.5,
-  "measured_mean_impressions": 145.71,
-  "median_impressions": 92.5,
-  "mean_impressions": 145.71,
+  "tweet_count": 127,
+  "measured_tweet_count": 127,
+  "measured_median_impressions": 88,
+  "measured_mean_impressions": 148.09,
+  "median_impressions": 88,
+  "mean_impressions": 148.09,
   "max_impressions": 1437,
   "significant_findings": [
-    {
-      "dimension": "has_stat",
-      "kind": "binary",
-      "winner": "True",
-      "loser": "False",
-      "median_impressions_winner": 103.5,
-      "median_impressions_loser": 84.0,
-      "n_winner": 48,
-      "n_loser": 78,
-      "p_value": 0.0146,
-      "effect_size_cliffs_delta": 0.26,
-      "effect_size_label": "small"
-    },
     {
       "dimension": "has_score",
       "kind": "binary",
       "winner": "False",
       "loser": "True",
-      "median_impressions_winner": 100.5,
-      "median_impressions_loser": 80.0,
-      "n_winner": 76,
+      "median_impressions_winner": 99,
+      "median_impressions_loser": 79.0,
+      "n_winner": 77,
       "n_loser": 50,
-      "p_value": 0.0349,
-      "effect_size_cliffs_delta": 0.223,
+      "p_value": 0.0123,
+      "effect_size_cliffs_delta": 0.264,
+      "effect_size_label": "small"
+    },
+    {
+      "dimension": "has_stat",
+      "kind": "binary",
+      "winner": "True",
+      "loser": "False",
+      "median_impressions_winner": 104,
+      "median_impressions_loser": 83.0,
+      "n_winner": 49,
+      "n_loser": 78,
+      "p_value": 0.0137,
+      "effect_size_cliffs_delta": 0.261,
       "effect_size_label": "small"
     }
   ],
@@ -50,27 +50,36 @@
   },
   "raw_buckets": {
     "by_hour_ct": {
-      "13": {
-        "n": 10,
-        "mean": 94.1,
-        "median": 91.0,
+      "15": {
+        "n": 4,
+        "mean": 109.75,
+        "median": 108.5,
         "top": {
-          "impressions": 184,
-          "text": "Matt Shaw: 2-for-4 with a 2-RBI single for Iowa on Saturday.\n\nCounsell wants back-to-back rehab starts this week \u2014 after that, September callup. Shaw hit .246/.322/.415 in 56 MLB games before the IL.\n\nDepth incoming.\n\n#Cubs #CubsBaseball #M"
+          "impressions": 129,
+          "text": "Iowa's Braxton Garrett delivered Sunday: 5 scoreless innings, 7 K in a 4-2 win over Toledo.\n\nMatt Shaw continues his rehab with the I-Cubs. System depth builds as September approaches.\n\nThe Cubs' roster is getting healthier at exactly the r"
         }
       },
       "12": {
         "n": 21,
-        "mean": 140,
-        "median": 131,
+        "mean": 135.71,
+        "median": 107,
         "top": {
-          "impressions": 359,
+          "impressions": 369,
           "text": "NL wild card standings entering Monday:\n\nWC1: Cubs 75-56\nWC2: Phillies 72-58\nWC3: Padres 70-60\nOn the bubble: D-backs 69-62 (tonight's opponent)\n\nA Cubs sweep in Phoenix is worth more than just three wins. Arizona is hunting the same postse"
+        }
+      },
+      "10": {
+        "n": 17,
+        "mean": 85.12,
+        "median": 82,
+        "top": {
+          "impressions": 219,
+          "text": "Alex Bregman on Pete Crow-Armstrong: \"I think Pete should win MVP.\"\n\nPCA leads ALL of baseball with a 7.5 WAR. Already at 30 steals and three HRs from back-to-back 30-30 seasons.\n\nThis isn't a hot streak. This is who Pete Crow-Armstrong is "
         }
       },
       "9": {
         "n": 21,
-        "mean": 147.9,
+        "mean": 148.67,
         "median": 78,
         "top": {
           "impressions": 1437,
@@ -79,8 +88,8 @@
       },
       "8": {
         "n": 18,
-        "mean": 185.44,
-        "median": 84.5,
+        "mean": 209.94,
+        "median": 81.5,
         "top": {
           "impressions": 1147,
           "text": "Shota Imanaga has allowed 2 earned runs or fewer in SEVEN consecutive starts.\n\nSince June 10: 2.06 ERA across 10 outings \u2014 only Cease and Luzardo have been better in that span.\n\nHe takes the mound tonight in D.C. The Nationals are in troubl"
@@ -88,29 +97,20 @@
       },
       "7": {
         "n": 21,
-        "mean": 217.14,
-        "median": 100,
+        "mean": 214.19,
+        "median": 101,
         "top": {
           "impressions": 1242,
           "text": "Matthew Boyd. Seven innings. Two earned runs.\n\nThe Cubs took the Kansas City series behind Boyd's gem and 17 hits from the lineup \u2014 Ian Happ going deep among them.\n\nThis rotation isn't slowing down.\n\n#Cubs #GoCubs #FlyTheW"
         }
       },
-      "15": {
-        "n": 3,
-        "mean": 114.33,
-        "median": 121,
+      "13": {
+        "n": 10,
+        "mean": 100.1,
+        "median": 91.0,
         "top": {
-          "impressions": 129,
-          "text": "Iowa's Braxton Garrett delivered Sunday: 5 scoreless innings, 7 K in a 4-2 win over Toledo.\n\nMatt Shaw continues his rehab with the I-Cubs. System depth builds as September approaches.\n\nThe Cubs' roster is getting healthier at exactly the r"
-        }
-      },
-      "10": {
-        "n": 17,
-        "mean": 85.82,
-        "median": 82,
-        "top": {
-          "impressions": 219,
-          "text": "Alex Bregman on Pete Crow-Armstrong: \"I think Pete should win MVP.\"\n\nPCA leads ALL of baseball with a 7.5 WAR. Already at 30 steals and three HRs from back-to-back 30-30 seasons.\n\nThis isn't a hot streak. This is who Pete Crow-Armstrong is "
+          "impressions": 215,
+          "text": "Matt Shaw: 2-for-4 with a 2-RBI single for Iowa on Saturday.\n\nCounsell wants back-to-back rehab starts this week \u2014 after that, September callup. Shaw hit .246/.322/.415 in 56 MLB games before the IL.\n\nDepth incoming.\n\n#Cubs #CubsBaseball #M"
         }
       },
       "14": {
@@ -142,12 +142,21 @@
       }
     },
     "by_weekday_ct": {
+      "Thu": {
+        "n": 18,
+        "mean": 82.44,
+        "median": 79.0,
+        "top": {
+          "impressions": 253,
+          "text": "Kevin Gausman takes the mound at Nationals Park today. First pitch 3:05 PM CT.\n\nAcquired at the deadline to make exactly this kind of start \u2014 two wins in, series sweep on the table.\n\nCade Cavalli (9-5, 3.57 ERA) is a test. This lineup has a"
+        }
+      },
       "Wed": {
         "n": 16,
-        "mean": 107.06,
-        "median": 74.5,
+        "mean": 151.06,
+        "median": 78.0,
         "top": {
-          "impressions": 515,
+          "impressions": 1136,
           "text": "Clay Holmes deserves better.\n\nSeven scoreless innings Tuesday. Walked off by the bullpen.\n\nLast four starts: 26 innings, 1 earned run. That's what ace-level pitching looks like.\n\nHe's making his case for October.\n\n#Cubs #MLB #ChicagoCubs"
         }
       },
@@ -162,8 +171,8 @@
       },
       "Mon": {
         "n": 20,
-        "mean": 199.1,
-        "median": 97.5,
+        "mean": 201.55,
+        "median": 99.5,
         "top": {
           "impressions": 1242,
           "text": "Matthew Boyd. Seven innings. Two earned runs.\n\nThe Cubs took the Kansas City series behind Boyd's gem and 17 hits from the lineup \u2014 Ian Happ going deep among them.\n\nThis rotation isn't slowing down.\n\n#Cubs #GoCubs #FlyTheW"
@@ -195,22 +204,13 @@
           "impressions": 254,
           "text": "Kevin Gausman makes his Cubs debut tonight at Kauffman Stadium, 7:10 PM CT.\n\nClay Holmes follows Saturday. Cabrera on track for mid-August. This rotation just got very interesting.\n\nStretch run starts now.\n\n#Cubs #GoCubs #FlyTheW"
         }
-      },
-      "Thu": {
-        "n": 17,
-        "mean": 105.18,
-        "median": 86,
-        "top": {
-          "impressions": 253,
-          "text": "Kevin Gausman takes the mound at Nationals Park today. First pitch 3:05 PM CT.\n\nAcquired at the deadline to make exactly this kind of start \u2014 two wins in, series sweep on the table.\n\nCade Cavalli (9-5, 3.57 ERA) is a test. This lineup has a"
-        }
       }
     },
     "by_content_type": {
       "brief": {
-        "n": 126,
-        "mean": 145.71,
-        "median": 92.5,
+        "n": 127,
+        "mean": 148.09,
+        "median": 88,
         "top": {
           "impressions": 1437,
           "text": "Alex Bregman is getting hot at exactly the right time.\n\nOver his last 12 games: .314 BA, 4 HR, 11 RBI \u2014 and he's attacking the zone more aggressively than he has all season.\n\nAugust is historically his best month. He looks locked in right n"
@@ -218,48 +218,57 @@
       }
     },
     "by_opening": {
+      "statement": {
+        "n": 97,
+        "mean": 150.27,
+        "median": 89,
+        "top": {
+          "impressions": 1437,
+          "text": "Alex Bregman is getting hot at exactly the right time.\n\nOver his last 12 games: .314 BA, 4 HR, 11 RBI \u2014 and he's attacking the zone more aggressively than he has all season.\n\nAugust is historically his best month. He looks locked in right n"
+        }
+      },
       "allcaps_lead": {
         "n": 17,
-        "mean": 169.88,
+        "mean": 173.41,
         "median": 84,
         "top": {
           "impressions": 1147,
           "text": "Shota Imanaga has allowed 2 earned runs or fewer in SEVEN consecutive starts.\n\nSince June 10: 2.06 ERA across 10 outings \u2014 only Cease and Luzardo have been better in that span.\n\nHe takes the mound tonight in D.C. The Nationals are in troubl"
         }
       },
-      "statement": {
-        "n": 96,
-        "mean": 145.81,
-        "median": 92.5,
-        "top": {
-          "impressions": 1437,
-          "text": "Alex Bregman is getting hot at exactly the right time.\n\nOver his last 12 games: .314 BA, 4 HR, 11 RBI \u2014 and he's attacking the zone more aggressively than he has all season.\n\nAugust is historically his best month. He looks locked in right n"
-        }
-      },
       "stat_lead": {
         "n": 13,
-        "mean": 113.31,
-        "median": 109,
+        "mean": 98.77,
+        "median": 88,
         "top": {
-          "impressions": 221,
-          "text": "Pete Crow-Armstrong did something no Cub has ever done \u2014 back-to-back 25 HR/25 SB seasons.\n\nHe went 3-for-5 with two homers and four RBI to cap the sweep of Ohtani and the Dodgers.\n\nThe MVP race has a new frontrunner.\n\n#Cubs #GoCubs #FlyThe"
+          "impressions": 159,
+          "text": "Jaxon Wiggins touched 98 mph in his first Iowa relief appearance. One inning, zero runs, two strikeouts.\n\nThe No. 2 Cubs prospect's control has been the question. The bullpen role might be the answer.\n\nSeptember callup case is building.\n\n#C"
         }
       }
     },
     "by_len_bucket": {
       "200-260": {
-        "n": 71,
-        "mean": 139.97,
-        "median": 87,
+        "n": 72,
+        "mean": 144.07,
+        "median": 83.0,
         "top": {
           "impressions": 1242,
           "text": "Matthew Boyd. Seven innings. Two earned runs.\n\nThe Cubs took the Kansas City series behind Boyd's gem and 17 hits from the lineup \u2014 Ian Happ going deep among them.\n\nThis rotation isn't slowing down.\n\n#Cubs #GoCubs #FlyTheW"
         }
       },
+      "140-200": {
+        "n": 1,
+        "mean": 28,
+        "median": 28,
+        "top": {
+          "impressions": 28,
+          "text": "Cubs vs. Reds. 3 games at Wrigley starting Friday at 1:20 PM CT.\n\nCincinnati is 62-70. Cubs are slugging .554 this year.\n\nBack home. Time to stack some Ws.\n\n#Cubs #FlyTheW #GoCubs"
+        }
+      },
       "260+": {
-        "n": 54,
-        "mean": 154.69,
-        "median": 96.0,
+        "n": 53,
+        "mean": 157.34,
+        "median": 97,
         "top": {
           "impressions": 1437,
           "text": "Alex Bregman is getting hot at exactly the right time.\n\nOver his last 12 games: .314 BA, 4 HR, 11 RBI \u2014 and he's attacking the zone more aggressively than he has all season.\n\nAugust is historically his best month. He looks locked in right n"
@@ -277,9 +286,9 @@
     },
     "by_hashtag_count": {
       "3": {
-        "n": 126,
-        "mean": 145.71,
-        "median": 92.5,
+        "n": 127,
+        "mean": 148.09,
+        "median": 88,
         "top": {
           "impressions": 1437,
           "text": "Alex Bregman is getting hot at exactly the right time.\n\nOver his last 12 games: .314 BA, 4 HR, 11 RBI \u2014 and he's attacking the zone more aggressively than he has all season.\n\nAugust is historically his best month. He looks locked in right n"
@@ -288,9 +297,9 @@
     },
     "by_has_score": {
       "False": {
-        "n": 76,
-        "mean": 174.41,
-        "median": 100.5,
+        "n": 77,
+        "mean": 180.32,
+        "median": 99,
         "top": {
           "impressions": 1437,
           "text": "Alex Bregman is getting hot at exactly the right time.\n\nOver his last 12 games: .314 BA, 4 HR, 11 RBI \u2014 and he's attacking the zone more aggressively than he has all season.\n\nAugust is historically his best month. He looks locked in right n"
@@ -298,39 +307,39 @@
       },
       "True": {
         "n": 50,
-        "mean": 102.08,
-        "median": 80.0,
+        "mean": 98.46,
+        "median": 79.0,
         "top": {
-          "impressions": 359,
+          "impressions": 369,
           "text": "NL wild card standings entering Monday:\n\nWC1: Cubs 75-56\nWC2: Phillies 72-58\nWC3: Padres 70-60\nOn the bubble: D-backs 69-62 (tonight's opponent)\n\nA Cubs sweep in Phoenix is worth more than just three wins. Arizona is hunting the same postse"
         }
       }
     },
     "by_has_stat": {
-      "False": {
-        "n": 78,
-        "mean": 121.67,
-        "median": 84.0,
-        "top": {
-          "impressions": 1242,
-          "text": "Matthew Boyd. Seven innings. Two earned runs.\n\nThe Cubs took the Kansas City series behind Boyd's gem and 17 hits from the lineup \u2014 Ian Happ going deep among them.\n\nThis rotation isn't slowing down.\n\n#Cubs #GoCubs #FlyTheW"
-        }
-      },
       "True": {
-        "n": 48,
-        "mean": 184.77,
-        "median": 103.5,
+        "n": 49,
+        "mean": 192.71,
+        "median": 104,
         "top": {
           "impressions": 1437,
           "text": "Alex Bregman is getting hot at exactly the right time.\n\nOver his last 12 games: .314 BA, 4 HR, 11 RBI \u2014 and he's attacking the zone more aggressively than he has all season.\n\nAugust is historically his best month. He looks locked in right n"
+        }
+      },
+      "False": {
+        "n": 78,
+        "mean": 120.06,
+        "median": 83.0,
+        "top": {
+          "impressions": 1242,
+          "text": "Matthew Boyd. Seven innings. Two earned runs.\n\nThe Cubs took the Kansas City series behind Boyd's gem and 17 hits from the lineup \u2014 Ian Happ going deep among them.\n\nThis rotation isn't slowing down.\n\n#Cubs #GoCubs #FlyTheW"
         }
       }
     },
     "by_has_emoji_first_line": {
       "False": {
-        "n": 126,
-        "mean": 145.71,
-        "median": 92.5,
+        "n": 127,
+        "mean": 148.09,
+        "median": 88,
         "top": {
           "impressions": 1437,
           "text": "Alex Bregman is getting hot at exactly the right time.\n\nOver his last 12 games: .314 BA, 4 HR, 11 RBI \u2014 and he's attacking the zone more aggressively than he has all season.\n\nAugust is historically his best month. He looks locked in right n"
@@ -339,9 +348,9 @@
     },
     "by_has_allcaps": {
       "True": {
-        "n": 91,
-        "mean": 137.25,
-        "median": 87,
+        "n": 92,
+        "mean": 142.5,
+        "median": 86.5,
         "top": {
           "impressions": 1437,
           "text": "Alex Bregman is getting hot at exactly the right time.\n\nOver his last 12 games: .314 BA, 4 HR, 11 RBI \u2014 and he's attacking the zone more aggressively than he has all season.\n\nAugust is historically his best month. He looks locked in right n"
@@ -349,8 +358,8 @@
       },
       "False": {
         "n": 35,
-        "mean": 167.69,
-        "median": 101,
+        "mean": 162.8,
+        "median": 97,
         "top": {
           "impressions": 1242,
           "text": "Matthew Boyd. Seven innings. Two earned runs.\n\nThe Cubs took the Kansas City series behind Boyd's gem and 17 hits from the lineup \u2014 Ian Happ going deep among them.\n\nThis rotation isn't slowing down.\n\n#Cubs #GoCubs #FlyTheW"
@@ -361,49 +370,49 @@
   "raw_buckets_engagement_above_median": {
     "by_content_type": {
       "brief": {
-        "n": 63,
+        "n": 64,
         "mean_rate": 0.0069,
         "median_rate": 0.0
       }
     },
     "by_opening": {
       "statement": {
-        "n": 48,
-        "mean_rate": 0.006,
+        "n": 49,
+        "mean_rate": 0.0064,
         "median_rate": 0.0
       },
       "stat_lead": {
         "n": 7,
-        "mean_rate": 0.0125,
-        "median_rate": 0.0126
+        "mean_rate": 0.0096,
+        "median_rate": 0.0114
       },
       "allcaps_lead": {
         "n": 8,
-        "mean_rate": 0.0079,
+        "mean_rate": 0.0075,
         "median_rate": 0.0041
       }
     },
     "by_has_score": {
       "False": {
-        "n": 43,
-        "mean_rate": 0.0083,
-        "median_rate": 0.006
+        "n": 46,
+        "mean_rate": 0.0079,
+        "median_rate": 0.0065
       },
       "True": {
-        "n": 20,
-        "mean_rate": 0.0039,
+        "n": 18,
+        "mean_rate": 0.0043,
         "median_rate": 0.0
       }
     },
     "by_has_stat": {
       "True": {
-        "n": 28,
-        "mean_rate": 0.009,
-        "median_rate": 0.0065
+        "n": 31,
+        "mean_rate": 0.0085,
+        "median_rate": 0.007
       },
       "False": {
-        "n": 35,
-        "mean_rate": 0.0052,
+        "n": 33,
+        "mean_rate": 0.0054,
         "median_rate": 0.0
       }
     }
@@ -440,6 +449,16 @@
       "text": "Shota Imanaga has allowed 2 earned runs or fewer in SEVEN consecutive starts.\n\nSince June 10: 2.06 ERA across 10 outings \u2014 only Cease and Luzardo have been better in that span.\n\nHe takes the mound tonight in D.C. The Nationals are in trouble.\n\n#Cubs #GoCubs #FlyTheW"
     },
     {
+      "posted_at": "2026-08-26 08:15 CT",
+      "content_type": "brief",
+      "impressions": 1136,
+      "engagement": 46,
+      "engagement_rate": 0.0405,
+      "opening": "statement",
+      "len": 237,
+      "text": "Clay Holmes deserves better.\n\nSeven scoreless innings Tuesday. Walked off by the bullpen.\n\nLast four starts: 26 innings, 1 earned run. That's what ace-level pitching looks like.\n\nHe's making his case for October.\n\n#Cubs #MLB #ChicagoCubs"
+    },
+    {
       "posted_at": "2026-08-25 07:01 CT",
       "content_type": "brief",
       "impressions": 752,
@@ -448,39 +467,9 @@
       "opening": "statement",
       "len": 243,
       "text": "Kevin Gausman was the best pitcher in the building last night.\n\n7 innings. 6 strikeouts. 3 hits allowed. 0 earned runs.\n\nThe ace the Cubs traded for at the deadline showed up when it mattered most. Cubs lead the series.\n\n#Cubs #GoCubs #FlyTheW"
-    },
-    {
-      "posted_at": "2026-08-17 07:00 CT",
-      "content_type": "brief",
-      "impressions": 540,
-      "engagement": 0,
-      "engagement_rate": 0.0,
-      "opening": "statement",
-      "len": 257,
-      "text": "Cubs vs White Sox. 3 games at Wrigley Field.\n\nAL Central leaders vs NL Wild Card leaders \u2014 both teams with something to fight for. White Sox stole the May series on the South Side.\n\nTonight's round 2. Imanaga on the hill. 7:05 PM CT.\n\n#Cubs #GoCubs #FlyTheW"
     }
   ],
   "bottom_performers": [
-    {
-      "posted_at": "2026-08-18 10:46 CT",
-      "content_type": "brief",
-      "impressions": 36,
-      "engagement": 0,
-      "engagement_rate": 0.0,
-      "opening": "statement",
-      "len": 246,
-      "text": "The Cardinals spent the summer sweeping the Cubs at Wrigley.\n\nThirteen-and-a-half games back in the division, on their way to face the Reds tonight.\n\nThey won that series. The Cubs still own October. Keep the receipts.\n\n#Cubs #GoCubs #ChicagoCubs"
-    },
-    {
-      "posted_at": "2026-08-07 08:15 CT",
-      "content_type": "brief",
-      "impressions": 36,
-      "engagement": 0,
-      "engagement_rate": 0.0,
-      "opening": "statement",
-      "len": 247,
-      "text": "Bregman with a two-out, two-run shot in the ninth to tie it.\n\nThen PCA singled in the 11th, broke for third, and scored when the Blue Jays throw sailed into left.\n\nThat's 11 walk-off wins this season. Good teams find a way.\n\n#Cubs #GoCubs #FlyTheW"
-    },
     {
       "posted_at": "2026-08-18 08:15 CT",
       "content_type": "brief",
@@ -490,6 +479,16 @@
       "opening": "allcaps_lead",
       "len": 257,
       "text": "PCA just joined a two-person club.\n\nBack-to-back 30-30 seasons. Sammy Sosa (1993, 1995) is the only other Cub who's done it \u2014 and even Sosa never went back-to-back.\n\nIn one night: leadoff blast, walk-off blast, franchise history.\n\n#Cubs #GoCubs #ChicagoCubs"
+    },
+    {
+      "posted_at": "2026-08-27 07:00 CT",
+      "content_type": "brief",
+      "impressions": 32,
+      "engagement": 0,
+      "engagement_rate": 0.0,
+      "opening": "stat_lead",
+      "len": 252,
+      "text": "Eduardo Rodriguez: 9 strikeouts in 7 innings. Boyd was solid \u2014 the offense just couldn't touch E-Rod.\n\nCubs drop the series finale 2-0. Went 1-2 in Arizona after Gausman's G1 gem.\n\nBack to Wrigley. Reds come to town Friday.\n\n#Cubs #GoCubs #CubsBaseball"
     },
     {
       "posted_at": "2026-08-13 09:30 CT",
@@ -504,12 +503,22 @@
     {
       "posted_at": "2026-08-26 12:01 CT",
       "content_type": "brief",
-      "impressions": 26,
+      "impressions": 29,
       "engagement": 0,
       "engagement_rate": 0.0,
       "opening": "statement",
       "len": 266,
       "text": "Rubber game. Chase Field. 2:40 PM CT.\n\nBoyd (8-2, 4.15 ERA) vs E-Rod (10-4, 2.71 ERA).\n\nRodriguez has the edge on paper. Boyd's been tough when it matters \u2014 8 wins for a reason.\n\nCubs took one. D-backs took one. Settle it this afternoon.\n\n#Cubs #GoCubs #CubsBaseball"
+    },
+    {
+      "posted_at": "2026-08-27 12:00 CT",
+      "content_type": "brief",
+      "impressions": 28,
+      "engagement": 0,
+      "engagement_rate": 0.0,
+      "opening": "statement",
+      "len": 179,
+      "text": "Cubs vs. Reds. 3 games at Wrigley starting Friday at 1:20 PM CT.\n\nCincinnati is 62-70. Cubs are slugging .554 this year.\n\nBack home. Time to stack some Ws.\n\n#Cubs #FlyTheW #GoCubs"
     }
   ]
 }
