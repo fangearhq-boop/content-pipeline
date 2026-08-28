@@ -6443,3 +6443,57 @@
 - **Tier:** 2
 - **Key Facts (HIGH):** CCAP: 719-444-5000; D11 1033 N. Franklin St Mon-Fri 8AM-4PM MT; d11.org; elpasocountyhealth.org; colorado.gov/famli; ppld.org; Sources: D11, PPLD, El Paso County, web research
 - **Follow-Up Opportunities:** FAMLI enrollment deadline reminders; CCAP waitlist updates
+
+---
+
+## August 28, 2026
+
+### Story 1: D49 Student Success Center — New Special Education Hub Opens
+- **Date:** 2026-08-28
+- **Content Pillar:** Local News
+- **Angle:** FOLLOW-UP (Aug 26 S3 mentioned SSC briefly in district check-in) — Full dedicated article on D49 Student Success Center opening at former Falcon Elementary of Technology for 2026-27 school year. Programs: 2 full-time preschool classrooms (Mon-Thu), Elevates 18-21 transition program, Motor Team (PTs/OTs), Assistive Technology Team, SWAP Coordinator, homebound special ed teacher.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** SSC at former Falcon Elementary of Technology; preschool Mon-Thu; Elevates ages 18-21; d49.org; Sources: d49.org
+- **Follow-Up Opportunities:** SSC preschool enrollment numbers; first-semester update
+
+### Story 2: CPSC Recall — Vevor Baby Swings (Suffocation Hazard)
+- **Date:** 2026-08-28
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY — CPSC recall: Sanven Technology recalls ~1,020 Vevor baby swings (models BB501K, BB702A, BB005K). Incline >10 degrees violates Safe Sleep for Babies Act and Infant Sleep Products mandatory standard. Suffocation hazard. Full refund. Contact: 855-599-6320 (M-F 9am-5pm PT) / recalling@vevor.com / vevor.com/pages/vevor-baby-swing-recall
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** ~1,020 units; models BB501K/BB702A/BB005K; sold online early 2025; violates Safe Sleep for Babies Act; 855-599-6320; recalling@vevor.com; Sources: cpsc.gov, mother.ly, yahoo.com
+- **Follow-Up Opportunities:** CPSC portal next week for new infant product recalls
+
+### Story 3: OlymPeak City Field Day Saturday + COS Sunday Market Sunday
+- **Date:** 2026-08-28
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (distinct from Aug 27 S4 roundup which covered Wings of Change/YMCA 5K/Sunflower Days) — OlymPeak City Field Day: Sat Aug 29, 10am, Acacia Park, free; school relay races, Kids Market (youth entrepreneurship), food, live entertainment. COS Sunday Market: Sun Aug 30, Acacia Park, 9am-2pm, 60+ vendors, local produce, artisan goods, live music.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** OlymPeak Field Day: Sat Aug 29, 10am, Acacia Park, free; COS Sunday Market: Sun Aug 30, Acacia Park, 9am-2pm; Sources: koaa.com, peakradar.com
+- **Follow-Up Opportunities:** Next weekend events roundup
+
+### Story 4: AAP 2026 Screen Time Guidelines Update
+- **Date:** 2026-08-28
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (distinct from Aug 26 S5 sleep tips, Aug 27 S3 NSF sleep poll) — AAP Jan 2026 major policy update: retired rigid 2-hr daily limit for ages 2+; maintained no screens under 18mo (except video chat); maintained 1 hr high-quality content ages 2-5; ages 6+ use Family Media Plan; new "5 C's" framework (Child, Content, Calm, Crowding Out, Communication); device-free bedrooms/mealtimes still recommended.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** AAP policy update: January 2026; under 18mo: no screens (except video chat); ages 2-5: 1 hr high-quality content; ages 6+: Family Media Plan; "5 C's" framework; healthychildren.org/mediplan; Sources: health.choc.org, jelliesapp.com, bloom-path.app
+- **Follow-Up Opportunities:** Follow-up on Family Media Plan adoption; screen time conversation in COS schools
+
+### Story 5: CPSC Recall — Liizousuda Paint Thinner (Child Poisoning Risk)
+- **Date:** 2026-08-28
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY — CPSC recall: Liizousuda "Odorless Mineral Spirit / Artist Oil Thinning Medium" paint thinner (sold Amazon Mar 2025-Feb 2026, ~$10) lacks child-resistant packaging. Violates Poison Prevention Packaging Act. Hazard: low-viscosity petroleum distillates → chemical pneumonia. Remedy: replacement child-resistant bottle. Distinct from PIXLABBY/Goody King/Vevor recalls.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** Sold Amazon Mar 2025-Feb 2026; ~$10; non-child-resistant packaging; petroleum distillates → chemical pneumonia; cpsc.gov/Recalls; Sources: cpsc.gov
+- **Follow-Up Opportunities:** Art supply safety roundup; El Paso County HHW disposal dates
