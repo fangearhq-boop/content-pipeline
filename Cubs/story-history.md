@@ -5,6 +5,59 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-28
+
+### STORY 1: Series Preview — Cubs vs Reds Game 1 at Wrigley (3 Games, Aug 28-30)
+- **Angle:** NEW STORY (is_series_start_today=true; Cubs 76-58 host Reds 63-71 for Game 1 of 3-game series; Peterson 7-7/5.17 ERA vs Lowder 5-8/5.13 ERA; 1:20 PM CT; Cubs coming off 5-loss-in-7 road trip; no score per has_score=False insight)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, series preview)
+- **Follow-Up Opportunities:**
+  - Game 1 result recap (Aug 29 morning)
+  - Series result (Aug 31 morning)
+
+### STORY 2: Justin Steele Return Watch — October Bullpen Weapon
+- **Angle:** NEW STORY (Steele threw live BP this week in Mesa; nearing MiLB rehab assignment; Hoyer confirmed not starting in 2026; returning as high-leverage October bullpen arm; has_stat applied with rehab context)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold/fan energy)
+- **Follow-Up Opportunities:**
+  - Steele MiLB rehab assignment announcement
+  - Steele September MLB activation
+  - Steele October playoff use
+
+### STORY 3: Pete Crow-Armstrong MVP Watch — 7.7 fWAR, 2nd Straight 30-30 Pace
+- **Angle:** FOLLOW UP (last covered Aug 27 with bWAR angle; today's angle: fWAR leads all of baseball, 2nd consecutive 30-30 pace, 29/37 experts voted No. 1 NL MVP; Ohtani DH-only since July 3; trophy framing)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, stat breakdown)
+- **Follow-Up Opportunities:**
+  - PCA 35th HR milestone watch
+  - September MVP ballot watch
+  - BBWAA MVP voting (November)
+
+### STORY 4: Wild Card + Cardinals Rival Jab — Cardinals 67-68, Nine Games Back
+- **Angle:** FOLLOW UP (last covered Aug 27; today's angle: Cardinals slipped further to 67-68, 9 GB with 28 to play; rival jab standings snapshot; Cardinals effectively eliminated from WC chase)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, analysis/rival watch)
+- **Follow-Up Opportunities:**
+  - Cardinals WC elimination watch (September)
+  - Cubs WC clinch magic number updates
+
+### STORY 5: Game Day Hype — Peterson vs Lowder, 1:20 PM CT
+- **Angle:** NEW STORY (pre-game hype 80 min before first pitch; Peterson 7-7/5.17 ERA on hill; Reds 63-71; Cubs hungry after road trip struggles; short urgent hype tweet)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview/hype)
+- **Follow-Up Opportunities:**
+  - Game 1 result recap (tomorrow morning)
+
+### STORY 6: Jaxon Wiggins September Callup Watch — 4 Straight Hitless Relief Outings
+- **Angle:** FOLLOW UP (same stats as Aug 27 — today's angle reframed to "callup imminent, October implications"; No. 2 Cubs prospect, 0 hits/6 K/98 mph across 4 scoreless Triple-A outings; September call is when not if)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, prospect feature)
+- **Follow-Up Opportunities:**
+  - Wiggins September callup announcement
+  - Wiggins MLB debut performance
+
+---
+
 ## 2026-08-27
 
 ### STORY 1: Series Finale Recap — D-backs 2, Cubs 0 (Aug 26)
