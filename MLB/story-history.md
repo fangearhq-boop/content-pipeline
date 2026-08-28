@@ -5,6 +5,48 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-28
+
+### Story 1: Misiorowski Wins His 14th — But Watch the Velocity. Chourio 2 HR Night.
+- **Date:** 2026-08-28
+- **Tier:** 1
+- **Classification:** FOLLOW UP (CORRECTION: Aug 27 pipeline said Misiorowski lost 13-6; CORRECTED to Brewers 8-2 win, Misiorowski 14-5; velocity/command issues noted by reporters; Chourio 4-for-5/2 HR/4 RBI; May targeting Sunday start)
+- **Angle:** Correction embedded in pipeline. Misiorowski earned 14th win with quality start but reporters flagged reduced velocity. Chourio's 5th career multi-HR game stole the night. May's Sunday start is the key watch.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+
+### Story 2: PCA NL MVP — 29 of 37 Votes, Cubs Play Reds at Home
+- **Date:** 2026-08-28
+- **Tier:** 1
+- **Classification:** FOLLOW UP (PCA 29 of 37 first-place votes/7.7 fWAR/.278/33HR/83RBI/32SB/24 FRV; Cubs 76-58 off day Aug 27; host Reds today; Ohtani 2nd/8 votes; -190 DraftKings)
+- **Angle:** PCA's numbers are airtight. The remaining question is whether the Cubs can make October — team success is entering the conversation. Award is his to lose.
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Cubs W/L trend through September
+  - PCA stats update
+
+### Story 3: Alvarez Triple Crown August Slowdown
+- **Date:** 2026-08-28
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Alvarez 1 HR in August; .320/36HR/90-91RBI still AL leader all 3; Caminero+Rice at 35 HR one back; Alonso ~91 RBI tied; Astros 67-67)
+- **Angle:** August slump turns race from formality to fight. Caminero and Rice closing in HRs. Alonso tied in RBI. Alvarez still leads all three but margins gone. Astros at .500.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+
+### Story 4: NL Wild Card — Cardinals Surging Into the Conversation
+- **Date:** 2026-08-28
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Cubs 76-58/Phillies ~74-60/Padres ~72-62; Cardinals 5 consecutive series wins; 32 games left; Cubs host Reds today)
+- **Angle:** Cardinals 5-series win streak adds new variable to NL WC. Phillies (added Arraez) right behind. Cubs need to hold and extend cushion. Five teams, three spots.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+
+### Story 5: Jackson Chourio Two-HR Night — 21-Year-Old Standalone
+- **Date:** 2026-08-28
+- **Tier:** 3
+- **Classification:** NEW (Chourio individual performance piece; 5th career multi-HR game; 3rd of 2026; did it vs Mets again like 2024 playoffs; 21 years old)
+- **Angle:** At 21, Chourio's five career multi-HR games is rare. He's doing it on the biggest stages and against the same opponent (Mets) as his 2024 playoff performance. Ceiling feels unlimited.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+
+---
+
 ## 2026-08-27
 
 ### Story 1: Misiorowski Takes His First Loss — "Gets Tagged for the First Time" by the Mets

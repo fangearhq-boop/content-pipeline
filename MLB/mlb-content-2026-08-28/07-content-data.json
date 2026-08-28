@@ -1,0 +1,228 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-28",
+  "compiled_at": "2026-08-28T10:35:33.346413+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Misiorowski Goes 14-5 — But Reporters Notice the Velocity",
+      "tier": 1,
+      "status": "",
+      "angle": "Misiorowski earned his 14th win of the season against the Mets, but multiple reporters noted \"reduced velocity\" and \"command issues\" compared to his usual dominant outings. The 14-5 record survives, but the velocity watch begins heading into the final stretch. Meanwhile, Jackson Chourio (4-for-5, 2 HR, 4 RBI) stole the show. Dustin May threw Thursday and is targeting his Sunday start.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Misiorowski is 14-5 after Thursday's 8-2 win over the Mets — but reporters flagged reduced velocity and command issues in his 6 IP. He's still dominant. But the velocity watch starts now. Dustin May targets his Sunday start. The Brewers need both arms healthy. #Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers"
+          ],
+          "char_count": 269
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Jackson Chourio went 4-for-5 with 2 HRs and 4 RBI Thursday against the Mets. That's his 3rd two-HR game of 2026 and 5th of his career. He also hit two HRs against the Mets in the 2024 playoffs. He's 21. #Brewers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#MLB"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-misiorowski-14-5-chourio-two-hr-brewers-mets-august-27.html",
+        "headline": "Misiorowski Wins Again — But Watch the Velocity. Chourio Supplies the Power in Brewers' 8-2 Win.",
+        "word_count": 571
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "PCA Leads NL MVP 29 of 37 — Cubs Return Home to Play Reds",
+      "tier": 1,
+      "status": "",
+      "angle": "Pete Crow-Armstrong has more MVP first-place votes than any NL player — 29 of 37, according to the latest poll. His credentials (7.7 fWAR, 33 HR, 83 RBI, 32 SB, MLB-leading 24 Fielding Run Value in CF) are legitimate. But with 32 games left, Cubs 76-58, and the wild card race tightening, the team-success angle is entering the conversation.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Pete Crow-Armstrong: 29 of 37 first-place votes in the latest NL MVP poll. .278/.376/.554. 33 HR. 83 RBI. 32 SB. MLB-leading 24 Fielding Run Value in CF. 7.7 fWAR. The question isn't whether he's the best player — it's whether his team can make October. #Cubs #NLMVPRace",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#NLMVPRace"
+          ],
+          "char_count": 270
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Cubs are 76-58 with 32 games left. PCA has the most first-place MVP votes in the NL. If this team secures a wild card, the argument is closed. If they stumble, the Ohtani camp will have something to say. The race between team and individual is on. #Cubs #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-pca-nl-mvp-29-37-votes-cubs-wild-card-race-ohtani.html",
+        "headline": "PCA Has 29 of 37 NL MVP Votes. The Question Is Now Whether He Can Win It on a Team That Needs October.",
+        "word_count": 560
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Alvarez's August Slump Is Tightening the Triple Crown Race",
+      "tier": 2,
+      "status": "",
+      "angle": "Entering August, Alvarez appeared to have the AL Triple Crown in his grasp. But the Astros slugger has hit just one home run all month and driven in only nine runs. Caminero (35) and Rice (35) are one back in home runs. Pete Alonso (~91 RBI) is essentially tied in RBIs. Alvarez's batting average remains his most comfortable cushion. Meanwhile, the Astros sit at exactly .500.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Yordan Alvarez has hit ONE home run in August. Caminero (Rays) and Rice (Yankees) are at 35 — one back. Pete Alonso has 22 RBI this month alone and is essentially tied. Alvarez still leads all three AL Triple Crown categories. But the race just got real. #Astros #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Astros",
+            "#MLB"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-alvarez-triple-crown-august-slump-caminero-rice-alonso-challenge.html",
+        "headline": "Yordan Alvarez Has Hit One Home Run in August. The Triple Crown Race Just Got a Lot More Interesting.",
+        "word_count": 566
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "NL Wild Card — Cardinals Are Surging Into the Conversation",
+      "tier": 2,
+      "status": "",
+      "angle": "The NL Wild Card picture has a new variable: the Cardinals have won five consecutive series and are trending toward relevance. The Cubs (76-58) hold the top wild card spot, but the Phillies (~74-60) and Padres (~72-62) are right behind. With 32 games left, every matchup among these clubs matters.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The Cardinals have won 5 consecutive series. The Cubs lead the NL Wild Card at 76-58 but the Phillies and Padres are right behind. Now St. Louis is trending toward relevance with 32 games left. The NL race just got messier. #Cardinals #Cubs #NLWildCard",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cardinals",
+            "#Cubs",
+            "#NLWildCard"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-nl-wild-card-cubs-phillies-padres-cardinals-surge-32-games.html",
+        "headline": "Five Straight Series Wins. The Cardinals Are Making the NL Wild Card Race Uncomfortable for Everyone.",
+        "word_count": 528
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Jackson Chourio's Two-HR Night — 21-Year-Old Does It Again vs the Mets",
+      "tier": 3,
+      "status": "",
+      "angle": "Jackson Chourio's 4-for-5 night with two home runs against the Mets on Thursday was his 5th career multi-HR game and 3rd of 2026. He's 21 years old. He also hit two home runs against the Mets in the 2024 playoffs. There's a pattern here — and a player who is performing at a level that makes the historical comparisons unavoidable.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Jackson Chourio has 5 career multi-HR games. He's 21 years old. Three came in 2026. He also had one against the Mets in the 2024 playoffs. Thursday he went 4-for-5, 2 HR, 4 RBI in the Brewers' 8-2 win. That's not a trend — that's a superstar being born. #Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers"
+          ],
+          "char_count": 262
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-jackson-chourio-two-hr-game-brewers-mets-21-year-old.html",
+        "headline": "Chourio Already Has More Career Two-HR Games at 21 Than Most Players Have at Any Age",
+        "word_count": 477
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
