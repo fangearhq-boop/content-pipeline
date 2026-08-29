@@ -1,0 +1,223 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-29",
+  "compiled_at": "2026-08-29T09:21:29.537686+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM CT",
+      "description": "Thornton bullpen collapse recap",
+      "type": "Informative"
+    },
+    {
+      "time": "8:15 AM CT",
+      "description": "Bullpen red flag — October concern",
+      "type": "Bold take"
+    },
+    {
+      "time": "9:30 AM CT",
+      "description": "PCA MVP stat breakdown",
+      "type": "Stat / informative"
+    },
+    {
+      "time": "10:45 AM CT",
+      "description": "Wild Card standings + Cardinals rival jab",
+      "type": "Analysis"
+    },
+    {
+      "time": "12:00 PM CT",
+      "description": "Gausman vs Abbott Game 2 preview",
+      "type": "Game preview"
+    },
+    {
+      "time": "2:30 PM CT",
+      "description": "Matt Shaw activation",
+      "type": "Roster news"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Thornton Blowup — Cubs Drop Game 1 Despite 8 Runs Scored",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "David Peterson gave them 5 IP, 8 K, 2 ER. Trent Thornton entered the 6th with a lead and allowed 5 ER in 0.2 IP — Trevino 2-run HR, Stephenson 3-run blast. Cubs scored 8, still fell short.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1A",
+          "text": "Trent Thornton had gone 10 scoreless August innings across 11 outings.\n\nFriday, he allowed 5 runs in 0.2 IP. Trevino 2-run HR. Stephenson 3-run blast. Peterson's 8 strikeouts in 5 innings didn't matter.\n\nThe offense put up 8 runs. Still came up short.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Morning recap / informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Bullpen Red Flag With October Approaching",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Thornton's August ERA went from 0.00 (10 scoreless innings) to 4.22 in 0.2 innings. Sun-Times says key relievers may be regressing to the mean. September roster expansion opens Tuesday — Wiggins has 4 straight scoreless Iowa outings.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2A",
+          "text": "Thornton's ERA went from 0.00 to 4.22 in one inning.\n\nCubs relievers are showing cracks at the worst time. The Sun-Times noticed. Counsell needs answers before October.\n\nSeptember callups open Tuesday. Wiggins has 4 straight scoreless Iowa outings.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold take / fan energy",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "PCA MVP Watch — .279/32 HR/31 SB, No. 1 in All of Baseball",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "PCA at .279 BA, .932 OPS, 32 HR, 31 SB, 7.9 bWAR — leads all of baseball in WAR. 29 of 37 MLB experts voting him NL MVP. Back-to-back 30-30 seasons, first Cubs player ever to do it consecutively.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "Pete Crow-Armstrong: .279 BA, 32 HR, 31 SB, 7.9 bWAR — No. 1 in all of baseball.\n\n29 of 37 MLB experts are voting him NL MVP. Back-to-back 30-30 seasons — first Cub to ever do it in consecutive years.\n\nSeptember is just the curtain call.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Stat breakdown / informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Wild Card Watch — Cubs 76-59 WC1, Cardinals Fading",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Cubs at 76-59, still holding WC1 despite Friday's loss. Brewers 83-51. Cardinals 67-68, fading out of the Wild Card picture. 27 games left in the regular season.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": "Cubs: 76-59. Still holding NL WC1 after Friday's loss.\n\nBrewers: 83-51, running away with the division. Fine.\n\nCardinals: 67-68, late August. Somehow still breathing. Won't be for long.\n\nThe stretch run is a 27-game sprint from here. Every game matters.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Analysis / rival watch",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Game 2 Preview — Gausman vs Abbott, 1:20 PM CT at Wrigley",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Gausman last start: 7 IP, 0 ER, 6 K vs D-backs — his best Cubs start. Abbott has a 4.15 ERA; Cubs knocked him out in the 4th earlier this season. Bounce-back opportunity.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5A",
+          "text": "Kevin Gausman. Wrigley. 1:20 PM CT.\n\nLast start: 7 IP, 0 ER, 6 K vs the D-backs. That's what the Cubs got at the deadline.\n\nAndrew Abbott (4.15 ERA) starts for Cincinnati. Cubs chased him in the 4th earlier this year.\n\nTime to bounce back.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Game preview / bold take",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Matt Shaw Returns From IL",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Shaw activated from 10-day IL on Friday (August 28) after nearly two months out. Line: .246/.322/.415 in 56 games, versatile across all infield spots and outfield. Alcántara optioned but returns Sept 1 with expansion.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6A",
+          "text": "Matt Shaw is back on the active roster — activated from the IL Friday after nearly two months out.\n\nHis 2026 line: .246/.322/.415 in 56 games, with reps at every infield spot and the outfield.\n\nSeptember callups open Tuesday. The Cubs just got deeper.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Roster news / informative",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

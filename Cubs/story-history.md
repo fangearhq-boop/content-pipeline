@@ -6533,3 +6533,59 @@ Each day's stories are appended at the top (newest first).
 - **Content Produced:** X Text Post (1 post — 2:30 PM CT, pre-game hype)
 - **Follow-Up Opportunities:**
   - Series finale result recap (tomorrow morning)
+
+---
+
+## 2026-08-29
+
+### STORY 1: Thornton Blowup — Cubs Drop Game 1 to Reds Despite 8 Runs
+- **Angle:** NEW STORY (Game 1 recap: David Peterson 5 IP, 8 K, 2 ER — solid start; Trent Thornton entered 6th, allowed 5 ER in 0.2 IP — Trevino 2-run HR, Stephenson 3-run HR; Cubs scored 8 but fell short; per has_score=False insight, led with Thornton's stat line not the final score)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, morning recap)
+- **Follow-Up Opportunities:**
+  - Game 2 result recap (tomorrow morning)
+  - Thornton bullpen accountability if struggles continue
+  - Counsell September callup decisions
+
+### STORY 2: Bullpen Red Flag With October Approaching
+- **Angle:** FOLLOW UP (Thornton ERA 0.00 → 4.22 in one inning; Sun-Times flagged "key relievers may be regressing to the mean"; forward-looking kicker: September roster expansion Tuesday, Wiggins 4 straight scoreless Iowa outings)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold take)
+- **Follow-Up Opportunities:**
+  - Wiggins September callup announcement
+  - Bullpen ERA tracking through stretch run
+
+### STORY 3: PCA MVP Watch — .279/32 HR/31 SB, Leading Baseball in bWAR
+- **Angle:** FOLLOW UP (PCA .279/.932 OPS/32 HR/31 SB/7.9 bWAR; leads all of baseball in WAR; 29/37 experts voting NL MVP; back-to-back 30-30 confirmed first-ever consecutive Cubs achievement; per has_stat=True insight, stat-heavy tweet)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, stat breakdown)
+- **Follow-Up Opportunities:**
+  - PCA 33rd/34th HR milestone watch
+  - BBWAA MVP voting (November)
+  - September stat-tracking
+
+### STORY 4: Wild Card Watch — Cubs 76-59 WC1, Cardinals Fading
+- **Angle:** FOLLOW UP (Cubs 76-59 WC1 despite loss; Brewers 83-51; Cardinals 67-68 fading; 27 games remaining; rival jab on Cardinals)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, analysis/rival watch)
+- **Follow-Up Opportunities:**
+  - Cardinals WC elimination watch
+  - WC clinch magic number tracking
+  - Cubs clinch scenarios
+
+### STORY 5: Game 2 Preview — Gausman vs Abbott, 1:20 PM CT at Wrigley
+- **Angle:** NEW STORY (Gausman last start: 7 IP/0 ER/6 K vs D-backs; Abbott 4.15 ERA; Cubs chased Abbott in 4th with 4 ER in prior meeting; bounce-back energy; per has_stat=True, folded in ERA and IP stats)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Gausman Game 2 result recap (tomorrow morning)
+  - Series result and WC standings update
+
+### STORY 6: Matt Shaw Returns From IL
+- **Angle:** NEW STORY (Shaw activated from 10-day IL August 28; .246/.322/.415 in 56 games; versatile across 1B/2B/3B/all OF; Alcántara optioned but returns Sept 1 with expansion; stretch run depth confirmed)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, roster news)
+- **Follow-Up Opportunities:**
+  - Shaw stretch-run production tracking
+  - Alcántara September callup
+  - Wiggins callup announcement
