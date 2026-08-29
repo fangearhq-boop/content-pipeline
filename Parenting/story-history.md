@@ -6497,3 +6497,57 @@
 - **Tier:** 2
 - **Key Facts (HIGH):** Sold Amazon Mar 2025-Feb 2026; ~$10; non-child-resistant packaging; petroleum distillates → chemical pneumonia; cpsc.gov/Recalls; Sources: cpsc.gov
 - **Follow-Up Opportunities:** Art supply safety roundup; El Paso County HHW disposal dates
+
+---
+
+## August 29, 2026
+
+### Story 1: CPSC Recall — Kmaier Infant Walkers (Fall Hazard)
+- **Date:** 2026-08-29
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY — CPSC recall: FENUN Inc. (Kmaier) recalls ~243 infant walkers (model RV001, pink/green/white). Can pass through standard doorway and fail to stop at step edge → deadly fall hazard. Violates mandatory federal standard for infant walkers. Sold Target.com June 2026, $62-$70. Remedy: stop use, disassemble, destroy (cut fabric seat, write "Recalled" on tray), photo to TargetplusSJ@outlook.com for full refund.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** ~243 units; model RV001; label under seat; sold Target.com June 2026; $62-$70; pink/green/white; TargetplusSJ@outlook.com; Sources: cpsc.gov
+- **Follow-Up Opportunities:** Infant walker safety roundup; AAP anti-walker recommendation context
+
+### Story 2: CPSC Recall — Little Loves & Co. Youth Clothing Drawstring Entrapment
+- **Date:** 2026-08-29
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY — CPSC recall: Little Loves & Co. recalls ~590 youth clothing sets. Waist drawstrings can snag on objects and trap children → entrapment hazard. Sold Littlelovesandco.com and Whatnot.com, May 2025–July 2026, $15-$30. Remedy: stop use, contact Little Loves & Co. for remedy info.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** ~590 garments; sold Littlelovesandco.com and Whatnot.com; May 2025–July 2026; $15-$30; Sources: cpsc.gov, consumeraffairs.com
+- **Follow-Up Opportunities:** Online marketplace clothing safety roundup
+
+### Story 3: CPSC Recall — HABA Rainbow Rattle Grasping and Teething Toy (Choking Hazard)
+- **Date:** 2026-08-29
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY — CPSC recall (announced Aug 27): Habermaass Corporation (HABA USA) recalls ~2,000 Rainbow Rattle Grasping and Teething Toys (item 2012261001, batch code 0925). Glued knot on elastic cord can untie → small wooden/plastic pieces exposed → choking and ingestion hazard. Sold Amazon, Target, Nordstrom, specialty stores, Dec 2025–Jul 2026, ~$13. 2 reports, no injuries. Remedy: full refund via 800-468-6873, recall@habausa.com, or habausa.com/recalls.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** ~2,000 units; item 2012261001, batch code 0925; Amazon/Target/Nordstrom; Dec 2025–Jul 2026; ~$13; 800-468-6873; recall@habausa.com; Sources: cpsc.gov
+- **Follow-Up Opportunities:** Wooden/natural toy safety roundup; HABA USA recall page
+
+### Story 4: BASE49 and After-School Programs Still Enrolling for 2026-27
+- **Date:** 2026-08-29
+- **Content Pillar:** Local News (D49/D11)
+- **Angle:** NEW STORY — D49's BASE49 (Before and After School Education) still accepting enrollments for 2026-27. Runs Aug 4, 2026 through May 26, 2027 at multiple D49 elementary campuses. Register at d49.ce.eleyo.com. Also covers D11 after-school programs (d11.org) and D20 campus options (asd20.org). Week 4 of school for D49; week 3 for D11; practical afterschool childcare hook.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** BASE49 runs Aug 4–May 26, 2027; d49.ce.eleyo.com; D11: d11.org/administration/investing-in-their-future/after-school-programs; Sources: d49.ce.eleyo.com, d49.org, d11.org
+- **Follow-Up Opportunities:** BASE49 waitlist update; D20 after-school enrollment status
+
+### Story 5: D11 Free School Supplies — Edukit Program Delivered to 14,000+ K-8 Students
+- **Date:** 2026-08-29
+- **Content Pillar:** Local News (D11)
+- **Angle:** NEW STORY — D11 partnered with Edukit for 2026-27 to deliver free, grade-specific school supply kits to 14,000+ K-8 students on the first day of school (Aug 12). Eliminates supply list burden; no-stigma approach (every student gets same kit). Now 3 weeks into school year. D11 serves diverse mixed-income urban population; significant proportion qualifies for free/reduced lunch.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** 14,000+ K-8 students; delivered Aug 12; partner: Edukit; grade-specific kits; d11.org; Sources: springsdaily.com
+- **Follow-Up Opportunities:** Teacher reactions; Edukit program renewal for 2027-28
