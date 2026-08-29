@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-08-29
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-08-29 | T1 | Ferrari Unveils Schumacher Tribute Livery for Monza Italian GP | X(2), FB, Article | NEW |
+| 2026-08-29 | T1 | Hamilton Apologizes for Ferrari Radio Outbursts at Dutch GP | X(2), FB, Article | FOLLOW UP |
+| 2026-08-29 | T2 | Antonelli Leads 59 Points — Mercedes Keeps Team Orders Off the Table | X(1), FB, Article | FOLLOW UP |
+| 2026-08-29 | T2 | Monza Italian GP Preview — One Week Out | X(1), FB, Article | FOLLOW UP |
+| 2026-08-29 | T2 | Monaco Appeal — Verdict Still Pending, Expected Mid-September | X(1), FB, Article | FOLLOW UP |
+
+### STORY 1: Ferrari Unveils Schumacher Tribute Livery for Monza
+- **Tier:** 1
+- **Category:** Ferrari / Michael Schumacher / Italian Grand Prix / Monza
+- **Key facts:** F310-inspired livery; red/black/gold; 7-star race suits for Hamilton and Leclerc; Schumacher logo on suits; 30 years since first Ferrari season; ADUO-2 PU debut (+15hp, ~0.2s/lap)
+- **Status:** NEW
+- **Follow-up ideas:** Race week livery reveal images; driver reactions; Monza performance with ADUO-2
+
+### STORY 2: Hamilton Apologizes for Dutch GP Ferrari Radio Outbursts
+- **Tier:** 1
+- **Category:** Ferrari / Lewis Hamilton / Charles Leclerc / Dutch Grand Prix
+- **Key facts:** P4 finish; Leclerc refused team order; Hamilton radio fury; sarcastic "great way of wasting time"; criticized Ferrari vs Mercedes; apology: "that wasn't the best version of me"
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Team statement; Leclerc response; Monza team chemistry
+
+### STORY 3: Antonelli Leads 59 Points — No Team Orders
+- **Tier:** 2
+- **Category:** Mercedes / Kimi Antonelli / George Russell / Championship
+- **Key facts:** Antonelli 242 pts; Russell 183; Hamilton 183 (Russell tiebreaker); Norris 159; 11 races remain; Mercedes confirmed no team orders; Antonelli starts last at Monza (PU penalty)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Monza result; gap analysis; whether team orders policy changes
+
+### STORY 4: Monza Italian GP Preview
+- **Tier:** 2
+- **Category:** F1 Race Preview / Italian Grand Prix / Monza / Ferrari / Mercedes
+- **Key facts:** Sept 4-6; 53 laps; fastest circuit; Antonelli starts last; Ferrari ADUO-2 debut; Mercedes weakness from Zandvoort; Hamilton title opportunity; Schumacher tribute
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Practice sessions; qualifying; race result
+
+### STORY 5: Monaco Appeal — Verdict Pending
+- **Tier:** 2
+- **Category:** FIA / ICA Appeal / Monaco Grand Prix / Pierre Gasly
+- **Key facts:** ICA heard Aug 25 Paris; no verdict issued; expected mid-September; FOM admitted measurement error; Gasly holds P3; McLaren and Red Bull appellants
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** ICA verdict; points table adjustment
+
 ## 2026-08-28
 
 | Date | Tier | Title | Platforms | Status |

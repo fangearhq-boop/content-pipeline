@@ -1,6 +1,18 @@
 # F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
+- **Date**: 2026-08-29
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole)
+- **PostPlanner exports:** f1fr-postplanner-2026-08-29.xlsx (7 posts) + f1fr-postplanner-tobi-2026-08-29.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-08-29/review-dashboard.html (27 items)
+- **Notes:** FERRARI SCHUMACHER TRIBUTE — Special F310-inspired livery for Monza; red/black/gold; 7-star race suits; 30 years since first Ferrari season; ADUO-2 PU debut (+15hp); HAMILTON APOLOGY — Apologized for Dutch GP radio fury; Leclerc refused team order; P4 result; "wasn't the best version of me"; Monza reset needed; ANTONELLI CHAMPIONSHIP — 242pts, 59-pt lead; no team orders confirmed by Mercedes; starts last at Monza (PU penalty); Russell/Hamilton opportunity; MONZA PREVIEW — Sept 4-6; fastest circuit; ADUO-2 debut; Antonelli penalty; Hamilton title shot; Mercedes Zandvoort weakness; MONACO APPEAL — ICA heard Aug 25 Paris; no verdict; expected mid-September; FOM admitted error; Gasly holds P3
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+### 2026-08-28
 - **Date**: 2026-08-28
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)
