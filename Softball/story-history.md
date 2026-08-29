@@ -3,6 +3,65 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-08-29
+
+### Story 1: AUSL Series 4 — Championship Eve
+- **Date:** 2026-08-29
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Game 2 of Series 4 TONIGHT at 8 PM ET — Team Flippen vs. Team Kilfoyl. Klingler leads 890 pts, Kilfoyl 866 (24 pts back). Champion crowned TOMORROW Aug 30. Kilfoyl 3 Game MVPs (most in league), 8-6 all-time captain. Teammate-turned-rival dynamic (Kilfoyl was on Team Klingler in Series 3).
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Aug 30 champion announcement
+  - Individual standings final recap
+  - AUSL season post-mortem
+
+### Story 2: September 1 Countdown — 3 Days
+- **Date:** 2026-08-29
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** D1 contact window opens in 3 days. First-hour calls before 8 AM. In-person window Sept. 9 at 7 AM ET. Service journalism for Class of 2028 recruits.
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - September 1 arrival coverage
+  - September 9 in-person window opener
+  - First commit announcements from Class of 2028
+
+### Story 3: USA WNT — 14 Days to Group Oklahoma
+- **Date:** 2026-08-29
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** 14 days to Sept. 12 Group Oklahoma opener vs. No. 7 Mexico. Gasso leads coaching staff with JT Gasso + Rocha. 7 World Games gold medalists + Garcia + Mulipola (2020 Olympians). Top 2 advance to Brisbane Finals.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Group Stage countdown (daily)
+  - USA WNT game results Sept. 12-16
+  - Netherlands matchup preview
+
+### Story 4: OU Fall Camp — Gasso Managing Two Rosters
+- **Date:** 2026-08-29
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Battle Series ongoing / 2,351 fans first scrimmage. Berzon (486.1 IP/2.02 ERA/406 Ks LSU) + Harter (.346 BA/7HR/23 RBI MTSU) integrating. Gasso leaves Sept. 12 to coach USA WNT through Sept. 16. Public exhibitions Oct. 3.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Gasso WNT departure Sept. 12
+  - Oct. 3 public exhibition
+  - OU 2027 preseason expectations
+
+### Story 5: Texas 2027 — Three-Peat Begins
+- **Date:** 2026-08-29
+- **Tier:** 3
+- **Classification:** FOLLOW UP
+- **Angle:** Texas back-to-back WCWS champion. Kavan 2x MOP (first in history). Six of nine starters return. Three-peat: only UCLA and OU have done it. Mike White building dynasty.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - 2027 preseason polls (fall)
+  - Kavan senior season profile
+  - Competing programs' response
+
+---
+
 ## 2026-08-28
 
 ### Story 1: AUSL All-Star Cup — Series 4 Opens Tonight
