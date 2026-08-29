@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-08-29
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-08-29 | T1 | Tour Championship R3 Underway: Min Woo Lee Leads at -8, Scheffler and McIlroy in Pursuit at East Lake | X, FB, Article | FOLLOW UP |
+| 2026-08-29 | T1 | Scheffler's Historic FedExCup No. 1 Streak — Fifth Straight Year, $23M Bonus Locked, Still Chasing Second Title | X, FB, Article | FOLLOW UP |
+| 2026-08-29 | T2 | McIlroy Chases Unprecedented 4th FedExCup — Six Back Heading Into Round 3 at East Lake | X, FB, Article | FOLLOW UP |
+| 2026-08-29 | T2 | Sei Young Kim Leads LPGA FM Championship After Bogey-Free 64 — Rain Delays Add Drama at TPC Boston | X, FB, Article | FOLLOW UP |
+| 2026-08-29 | T2 | LIV Golf 2027 Uncertain — Rahm Wins Third Straight Individual Title as PIF Withdraws and New Investor Sought | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Tour Championship R3 — Min Woo Lee -8
+- **Tier:** 1
+- **Category:** PGA Tour / Tour Championship / FedExCup / East Lake / Min Woo Lee / Scottie Scheffler / Rory McIlroy
+- **Key facts:** Min Woo Lee -8 (R1 leader, career-matching 62, bogey-free); Hovland/Morikawa/Gotterup at -6 (T2); Scheffler/Gerard/Bhatia/Åberg at -5 (T5); Fleetwood -4; McIlroy -2 (T20); J.J. Spaun WD before R2; Round 3 underway Aug 29; $40M purse ($10M winner); East Lake GC Atlanta
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Tour Championship R3/R4 results; FedExCup champion crowned Sunday
+
+### STORY 2: Scheffler Historic FedExCup No. 1 Streak
+- **Tier:** 1
+- **Category:** PGA Tour / Scottie Scheffler / FedExCup / Golf Records
+- **Key facts:** 5 consecutive FedExCup No. 1 seeds (unprecedented); $23M bonus locked; won FedEx St. Jude by 8 shots (21st career win); won FedExCup 2024; Fleetwood defending 2025 champion; at -5 (T5), three back of Lee
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Scheffler Tour Championship R3/R4; second FedExCup win
+
+### STORY 3: McIlroy Chasing 4th FedExCup Title
+- **Tier:** 2
+- **Category:** PGA Tour / FedExCup / Rory McIlroy / East Lake / Golf History
+- **Key facts:** 3x FedExCup champion (2016/2019/2022); tied Tiger Woods for all-time record; at -2 (T20) six shots back; T3 at BMW to qualify; reigning Masters champion; needs historic Saturday charge
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** McIlroy R3/R4 result; FedExCup record if he wins
+
+### STORY 4: Sei Young Kim Leads LPGA FM Championship
+- **Tier:** 2
+- **Category:** LPGA / FM Championship / TPC Boston / Sei Young Kim / Nelly Korda / Lottie Woad
+- **Key facts:** Kim leads after bogey-free 8-under 64 (eagle + 6 birdies); R2 suspended by rain Friday; compressed rounds Saturday; $4.4M purse; field includes Korda/Henderson/Woad; Miranda Wang defending (won 2025 at -20)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** FM Championship Saturday results; Sunday final; champion
+
+### STORY 5: LIV Golf 2027 Uncertain — Rahm 3rd Title
+- **Tier:** 2
+- **Category:** LIV Golf / Jon Rahm / Greg Norman / Ian Poulter / Scott O'Neil / Saudi PIF / Golf Future
+- **Key facts:** 2026 LIV season over; La Sasso won Indianapolis finale; Rahm 3rd consecutive individual title; Legion XIII team title; PIF reportedly withdrawing; O'Neil: new investor deal signed, close September; Norman: won't guarantee 2027; Poulter: "time might run out"; 50+ players' futures uncertain
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** New investor deal close in September; player announcements; LIV 2027 confirmation or shutdown
+
 ## 2026-08-28
 
 | Date | Tier | Story | Platforms | Status |
