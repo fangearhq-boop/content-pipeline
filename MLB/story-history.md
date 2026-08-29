@@ -5,6 +5,64 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-29
+
+### Story 1: Misiorowski Velocity Watch — Next Start Tuesday vs. Cubs
+- **Date:** 2026-08-29
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Aug 27 velocity dip to 98.7 mph avg (from 100.5 season avg). Next start Tuesday at Wrigley vs. Cubs. Brewers managing workload. Stats: 14-5/1.68 ERA/216 Ks/0.76 WHIP. Cy Young at -550.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Tuesday velocity reading at Wrigley
+  - September Cy Young clinch watch
+  - Postseason durability question
+
+### Story 2: PCA NL MVP Lead — Cubs 76-59 After Reds Loss
+- **Date:** 2026-08-29
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** PCA leads poll 29/37 votes (177 pts vs Ohtani 154 pts). .278/.376/.554/33HR/83RBI/32SB/7.7 fWAR/22 OAA. Cubs lost to Reds 10-8 Aug 28 (76-59). Ohtani returning to pitching. 31 games left. Team-success narrative.
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Ohtani pitching return results
+  - Cubs win/loss record through September
+  - Final MVP poll (late September)
+
+### Story 3: Alvarez Triple Crown August Slump
+- **Date:** 2026-08-29
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Leads all 3 AL categories: .320/36HR/90-91RBI. Only 1 HR in August. Caminero+Rice each at 35 (one back). Simpson .310 (10 back). ZiPS 66.5%. Cabrera 2012 last TC. Astros ~.500.
+- **Content Produced:** Article (article-03, Ryan Calloway), 2 X posts, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - September HR production watch
+  - Caminero/Rice surge coverage
+  - Triple Crown clinch or miss
+
+### Story 4: NL Wild Card — 31 Games, Cardinals Surging
+- **Date:** 2026-08-29
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Cubs 76-59/Phillies 74-60/Padres 72-62/D-backs 1.5 back. Cardinals 5-consecutive-series-wins streak. 31 games left. Cubs No.1 WC spot = home-field advantage.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Cardinals series record through August
+  - September WC standings tracking
+  - Cubs home-field clinch
+
+### Story 5: Chourio Milestone Chase — One HR From Elite Company
+- **Date:** 2026-08-29
+- **Tier:** 3
+- **Classification:** NEW
+- **Angle:** Age 22 (born March 11, 2004). Needs 1 more career HR to join Cepeda/Cedeño/A.Jones as only NL players with 60+ career HR + 50 SB + 200 RBI before age 23. Aug 27: 4-for-5/2HR/4RBI/4R (5th career multi-HR game/3rd of 2026).
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - HR No. 60 coverage when it happens
+  - Age-23 milestone tracker
+
+---
+
 ## 2026-08-28
 
 ### Story 1: Misiorowski Wins His 14th — But Watch the Velocity. Chourio 2 HR Night.
