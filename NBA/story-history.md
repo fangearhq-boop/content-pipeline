@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-08-29
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-08-29 | T1 | Steph Curry Extension Window Opens — 2yr/$136.7M Deal Expected Today | X(2), FB, Article | FOLLOW UP |
+| 2026-08-29 | T1 | Shaedon Sharpe Surgery Confirmed — Blazers Out Until Late February 2027 | X(2), FB, Article | FOLLOW UP |
+| 2026-08-29 | T2 | Kawhi Cleared — Toronto Trade Finalization Now Imminent | X(1), FB, Article | FOLLOW UP |
+| 2026-08-29 | T2 | Captain Wemby 22 Pts/9 Reb — France 6-1, Sweden Next Aug. 30 | X(1), FB, Article | FOLLOW UP |
+| 2026-08-29 | T2 | NBA Opening Night Oct. 20 on NBC — Knicks Banner, LeBron Philly Debut | X(1), FB, Article | FOLLOW UP |
+
+### STORY 1: Steph Curry Extension Window Opens
+- **Tier:** 1
+- **Category:** NBA Contracts / Golden State Warriors / Stephen Curry
+- **Key facts:** Aug. 29 window opens; 2yr/$136.7M max expected; GM Dunleavy "pretty confident"; ESPN's Anthony Slater: both sides "engaged with mutual desire"; Curry would be UFA for first time ever if unsigned; Warriors 37-45 last season
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Formal signing announcement; terms confirmed; Warriors offseason plan
+
+### STORY 2: Shaedon Sharpe Surgery Confirmed
+- **Tier:** 1
+- **Category:** Portland Trail Blazers / Shaedon Sharpe / NBA Injuries
+- **Key facts:** Lateral meniscus tear right knee; surgery by Dr. Kristofer Jones at UCLA; reevaluation in 6 months (late Feb 2027); 20.8 ppg in 2025-26; Ja Morant acquired this offseason; 6 months = reevaluation, not guaranteed return
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Return timeline update; Portland training camp plans; Morant response
+
+### STORY 3: Kawhi Cleared — Trade Finalization Imminent
+- **Tier:** 2
+- **Category:** NBA Trades / Toronto Raptors / LA Clippers / Kawhi Leonard
+- **Key facts:** NBA cleared Clippers of Aspiration cap circumvention; trade agreed June 30, on hold since July 9; Leonard to Toronto for Ingram+Dick+picks; Toronto camp Sept. 28 Quebec City; Leonard personally cleared throughout; Clippers may still face organizational sanctions
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official trade completion; Leonard Toronto arrival; Clippers penalty
+
+### STORY 4: Captain Wemby / France FIBA Qualifying
+- **Tier:** 2
+- **Category:** FIBA / France National Team / Victor Wembanyama / San Antonio Spurs
+- **Key facts:** France 6-1 in Group L; Wemby named captain (replaced Gobert); 22 pts/9 reb vs Slovenia (60% FG); Sweden Aug. 30 next game; Luka Doncic skipping (hamstring + family)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Sweden result; France advancing/clinching; Wemby stat line through window
+
+### STORY 5: NBA Opening Night October 20 on NBC
+- **Tier:** 2
+- **Category:** NBA Season Preview / New York Knicks / Philadelphia 76ers / NBC
+- **Key facts:** Oct. 20 triple-header; BOS at DET 3 PM; PHI at NYK 7 PM (Knicks raise first banner since 1973; LeBron+Jaylen Brown Philly debut at MSG); OKC at SA 9:30 PM (WCF rematch); all on NBC + Peacock; first time network airs 3 Tip-Off games
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Full schedule release; Christmas games preview; contender power rankings
+
 ## 2026-08-28
 
 | Date | Tier | Title | Platforms | Status |

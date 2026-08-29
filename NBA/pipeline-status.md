@@ -1,6 +1,18 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Last Run
+- **Date**: 2026-08-29
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** hh-postplanner-2026-08-29.xlsx (7 posts) + hh-postplanner-tobi-2026-08-29.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-08-29/review-dashboard.html (27 items)
+- **Notes:** CURRY WINDOW OPEN — Aug 29 extension window opens; 2yr/$136.7M max expected; both sides engaged per ESPN Slater; GM Dunleavy "pretty confident"; SHARPE SURGERY DONE — lateral meniscus repair at UCLA; reevaluation late Feb 2027; 20.8 ppg last season; Morant carries Portland alone; KAWHI CLEARED — NBA clears Clippers of Aspiration cap circumvention; trade to Toronto now clear to finalize; Ingram+Dick+picks to LA; Toronto camp Sept 28 Quebec City; WEMBY FRANCE — captain; 22 pts/9 reb vs Slovenia; France 6-1 Group L; Sweden Aug 30; OPENING NIGHT — Oct 20 triple-header on NBC; Knicks raise first banner since 1973 at MSG; LeBron+Brown Philly debut vs Knicks; OKC vs SA WCF rematch
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+### 2026-08-28
 - **Date**: 2026-08-28
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)
