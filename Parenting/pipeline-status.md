@@ -1,6 +1,34 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: August 29, 2026
+## Latest Run: August 30, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Chillife 5-in-1 Montessori Baby Toy recall (CPSC Aug 28, 2026, 20,134 units, choking hazard); Labor Day Lift Off 50th anniversary (Sept 5-7, Memorial Park, ~65 balloons, free); back-to-school anxiety expert guidance (Child Mind Institute, Hopkins, Mass General Brigham); COS September events (Music in Park Sept 10, UpaDowna hike Sept 12); district week status (D49 wk4, D11 wk3, D20 wk2) |
+| Story History Check | COMPLETE | All 5 stories NEW: S1 Chillife recall (distinct from Aug 29 Kmaier/HABA/Little Loves); S2 Labor Day Lift Off (not previously covered); S3 back-to-school anxiety (Aug 26 was sleep tips, Aug 27 was free resources — this is mental health/anxiety specifically); S4 September events (Music in Park Sept 10 and UpaDowna Sept 12 not covered); S5 week 3 routine check-in (Aug 26 was week 1 check-in, different content) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 2 Tier 2, 1 Tier 3); bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: cpsc.gov, kiro7.com, actionewsjax.com, visitcos.com, rainbowryders.com, childmind.org, hopkinsmedicine.org, massgeneralbrigham.org, City PRCS app |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows, content requirements per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories (2 for each Tier 1, 1 for each Tier 2/3); all ≤280 chars; 4 hashtags each; 0 exclamation marks; code fence format |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; no hashtags; engagement questions; COS voice rules applied |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only prompts (5 stories × 2 formats: 1080x1350 social + 1200x630 hero); clean bottom third; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 Chillife Recall (Sarah Morales, ~600 words, Tier 1, QR table); article-02 Labor Day Lift Off (Jamie Rivera, ~700 words, Tier 1, QR table); article-03 Back-to-School Anxiety (Sarah Morales, ~650 words, Tier 2, QR table); article-04 September Events (Jamie Rivera, ~550 words, Tier 2, QR table); article-05 Week 3 Routine (Sarah Morales, ~650 words, Tier 3, QR table) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 58 claims; HIGH/MEDIUM/LOW prioritized; no X post character violations |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 articles; posting-window warnings are known format mismatch, not errors |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries (5 stories × 2), all not_started, gemini base_only, brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 22 items; image manifest warning expected (images generated separately) |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in session's authorized repository set (403 proxy) — known recurring issue |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser compat issue — generate-postplanner-export.py finds 0 posts; ran both standard and --tobi |
+| WordPress Publish | BLOCKED | WordPress API proxy returns 403 Forbidden — known recurring issue |
+| Story History | COMPLETE | 5 new entries appended to Parenting/story-history.md (Aug 30, 2026 section) |
+
+## Known Issues (Recurring)
+- WordPress publish: 403 proxy block — all 5 articles queued as drafts, pending manual publish or proxy fix
+- PostPlanner export: parser compat issue returns 0 posts every run
+- content-dashboards push: 403 proxy block (not in session authorized repo set)
+- Image manifest warnings from dashboard generator: expected (Gemini image generation is a separate step)
+
+## Previous Run: August 29, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|

@@ -6551,3 +6551,57 @@
 - **Tier:** 2
 - **Key Facts (HIGH):** 14,000+ K-8 students; delivered Aug 12; partner: Edukit; grade-specific kits; d11.org; Sources: springsdaily.com
 - **Follow-Up Opportunities:** Teacher reactions; Edukit program renewal for 2027-28
+
+---
+
+## August 30, 2026
+
+### Story 1: Chillife 5-in-1 Montessori Baby Toy Sets Recall
+- **Date:** 2026-08-30
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recalled Chillife 5-in-1 Montessori Baby Toy Sets (Amazon exclusive) on Aug 28, 2026. 20,134 units. Silicone pull-string teether strings longer/thinner than federal standards; can reach back of child's throat. 32 documented incidents. Sold July 2023–April 2026 for ~$27. Remedy: stop use, cut strings, mark "DESTROYED," photograph, email for partial refund.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** 20,134 units; Amazon exclusive; July 2023–April 2026; ~$27; 5-piece set; silicone strings hazard; cpsc.gov; Sources: cpsc.gov, kiro7.com, actionewsjax.com, consumeraffairs.com, yahoo.com
+- **Follow-Up Opportunities:** Update if refund process changes; broader Montessori toy safety roundup
+
+### Story 2: Labor Day Lift Off 2026 — 50th Anniversary
+- **Date:** 2026-08-30
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — 50th annual Labor Day Lift Off, Sept 5-7 at Memorial Park. ~65 hot air balloons, free general admission. Morning mass ascensions 7 AM daily, evening balloon glows, USAF skydivers, Grizzly drone show, Labor Day 5K, live music, food vendors, artisan markets. Hours 6 AM–11 PM each day. New for 50th: ticketed Overlook Club, special-shape balloons. One week away.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** Dates: Sept 5-7, 2026; Location: Memorial Park, COS; ~65 balloons; free admission; mass ascensions 7 AM; hours 6 AM–11 PM; USAF skydivers; Grizzly drone show; Labor Day 5K; Sources: visitcos.com, rainbowryders.com, america250.org, predicthq.com
+- **Follow-Up Opportunities:** Post-event recap; winner of 5K; crowd size
+
+### Story 3: Back-to-School Anxiety — Week 2-3 Warning Signs
+- **Date:** 2026-08-30
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — Expert guidance (Child Mind Institute, Johns Hopkins, Mass General Brigham) on distinguishing normal back-to-school jitters from persistent anxiety at weeks 2-3. D11 week 3, D20 week 2, D49 week 4. Warning signs: sleep problems 2+ weeks, major behavior changes, school avoidance, morning illness. What helps: predictable routines, open questions, calming techniques.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** childmind.org predictability antidote; massgeneralbrigham.org 2-3 week threshold; geisinger.org calming techniques; Sources: childmind.org, hopkinsmedicine.org, massgeneralbrigham.org, geisinger.org
+- **Follow-Up Opportunities:** Follow-up at weeks 4-5 for update on anxiety patterns; school counselor resource guide
+
+### Story 4: September COS Family Events — Music in Park + UpaDowna Hike
+- **Date:** 2026-08-30
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Two free upcoming September events: Music in the Park at Piñon Valley Park (Sept 10, live band/food trucks/kickball/giveaways) and UpaDowna stroller-friendly family hike at Boulder Park (Sept 12, 10-11 AM, kids craft activity after). Both free. coloradosprings.gov/PRCS.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (MEDIUM):** Music in Park: Sept 10, Piñon Valley Park; UpaDowna: Sept 12, 10-11 AM, Boulder Park, stroller-friendly, no pets; Sources: City of Colorado Springs PRCS app (app.amilia.com)
+- **Follow-Up Opportunities:** Post-event coverage; November/December seasonal events
+
+### Story 5: Week 3 School Routine Check-In
+- **Date:** 2026-08-30
+- **Content Pillar:** Evergreen
+- **Angle:** NEW STORY — D49 week 4, D11 week 3, D20 week 2. Honeymoon phase over; practical routine reset tips. Sleep: AASM recommends 9-12 hrs ages 6-12, 8-10 hrs teens; walk bedtime back if drifted. Afternoon decompression before homework. Open-ended questions at pickup.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 3
+- **Key Facts (HIGH):** D49 Aug 3-4 start; D11 Aug 12 start; D20 Aug 17-18 start; AASM sleep hours (hopkinsmedicine.org); Sources: hopkinsmedicine.org, geisinger.org
+- **Follow-Up Opportunities:** Week 6 check-in; winter routine maintenance

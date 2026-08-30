@@ -1,0 +1,283 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-30",
+  "compiled_at": "2026-08-30T12:37:46.836510+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Chillife 5-in-1 Montessori Baby Toy Sets Recalled — Choking Hazard Silicone Strings",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "RECALL ALERT: Chillife 5-in-1 Montessori Baby Toy Sets (Amazon) recalled — 20,134 units. Silicone strings can reach a child's throat, causing choking. Sold July 2023–April 2026 for $27. Stop use immediately. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 267
+        },
+        {
+          "label": "Post 1-2",
+          "text": "If you have a Chillife Montessori Baby Toy Set from Amazon: cut the silicone strings, mark it \"DESTROYED,\" photograph it, and email for a partial refund. Full CPSC recall details at cpsc.gov #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-chillife-montessori-baby-toy-recall.html",
+        "headline": "Chillife 5-in-1 Montessori Baby Toy Set Recalled Over Choking Hazard — 20,000 Units Sold on Amazon",
+        "word_count": 649
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Chillife Montessori Baby Toy Recall\n\n**Image Concept 1 — Social (1080x1350, 4:5 vertical)**\nPrompt: Clean, bright flat-lay of colorful silicone baby toys on a white surface with a bold red \"RECALL\" label graphic overlay. Lower third is clear for text. Warm natural lighting, top-down view. No text baked in. Teal and coral accents consistent with COS Parenting brand palette. Base only — no people, no brand logos.\nMode: base_only\nBrand kit: kAHCKfCZgk0\n\n**Image Concept 2 — Article Hero (1200x630, landscape)**\nPrompt: Side-angle photograph-style of a parent's hand holding a brightly colored silicone baby toy near a clean white background. Warm overhead lighting, soft shadows. Clean bottom third for headline text overlay. No product logo visible. No people's faces. Base only.\nMode: base_only\nBrand kit: kAHCKfCZgk0\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Chillife 5-in-1 Montessori Baby Toy Sets Recall\n**Sources:**\n- cpsc.gov: \"Montessori Baby Toy Sets Recalled Due to Risk of Serious Injury or Death from Choking; Violate Mandatory Standard for Toys; Sold on Amazon by Chillife Official\"\n- kiro7.com: \"Recall alert: 20K Montessori baby toy sets recalled over choking hazard\" — 20,134 units\n- consumeraffairs.com: \"Consumer product safety recall roundup for August 28, 2026\" — confirmed alongside other recalls\n- yahoo.com: \"Baby toys sold on Amazon recalled in the US after 32 reported choking incidents\" — 32 incidents\n- actionewsjax.com: confirms 20,134 units, choking hazard from long silicone strings\n**Key Facts (HIGH confidence):**\n- 20,134 units recalled [kiro7.com, actionewsjax.com — both citing CPSC]\n- Product: Chillife 5-in-1 Montessori Baby Toy Sets — includes pull-string teether, stacking blocks, sensory toy, shape sorting cube, suction cup spinner [cpsc.gov]\n- Hazard: Silicone strings are longer and thinner than allowed; can reach back of child's throat [cpsc.gov]\n- Where sold: Amazon exclusively, July 2023–April 2026 [cpsc.gov]\n- Price: About $27 [cpsc.gov]\n- Remedy: Stop use, cut all silicone strings, write \"DESTROYED\" on toy, photograph, email to company for partial refund [cpsc.gov]\n**Key Facts (MEDIUM confidence):**\n- 32 reported incidents [yahoo.com — from CPSC report]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Labor Day Lift Off 2026 — 50th Anniversary Balloon Festival at Memorial Park",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "COS families — mark your calendars. The 50th annual Labor Day Lift Off is September 5-7 at Memorial Park. About 65 hot air balloons, USAF skydivers, drone shows, live music, and a 5K. General admission is FREE. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 270
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The Colorado Springs Labor Day Lift Off runs 6 AM–11 PM each day, Sept 5-7. Balloon mass ascensions at 7 AM, evening night glows after dark. Free for families — perfect for any age group. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-labor-day-lift-off-2026.html",
+        "headline": "Labor Day Lift Off 2026 — Colorado Springs' 50th Annual Balloon Festival Returns September 5-7",
+        "word_count": 733
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Labor Day Lift Off 2026\n\n**Image Concept 1 — Social (1080x1350, 4:5 vertical)**\nPrompt: Vibrant wide-angle scene of colorful hot air balloons rising above a park at golden-hour sunrise with mountains in the background, crowd silhouetted below. Sky is vivid blue to orange gradient. Clear lower third for text. Painterly illustration style, joyful family event atmosphere. No text baked in.\nMode: base_only\nBrand kit: kAHCKfCZgk0\n\n**Image Concept 2 — Article Hero (1200x630, landscape)**\nPrompt: Panoramic landscape of multiple hot air balloons floating above Colorado Springs Memorial Park at sunrise, mountains and blue sky visible. Families silhouetted in foreground. Clean bottom third for text. Warm golden light. Illustration or photo-realistic style. No text baked in.\nMode: base_only\nBrand kit: kAHCKfCZgk0\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Labor Day Lift Off 2026\n**Sources:**\n- visitcos.com: \"2026 Labor Day Lift Off | Hot Air Balloon Festival Colorado Springs\" — Sept 5-7, Memorial Park, ~65 balloons, free general admission\n- rainbowryders.com: mass ascensions 7 AM daily, evening balloon glows, USAF skydivers\n- uncovercolorado.com: \"Labor Day Lift Off in Colorado Springs on September 5-7\"\n- peakradar.com: confirms dates, location Memorial Park\n- festivalsinamerica.com: \"Colorado Springs Labor Day Lift Off 2026 — Balloon Festival Dates & Schedule\"\n- america250.org: \"Labor Day Lift off 50th Anniversary\"\n- predicthq.com: hours 6 AM–11 PM each day; ticketed Overlook Club new for 50th anniversary; special-shape balloons added\n- rainbowryders.com: Grizzly drone light shows, Labor Day 5K, live music, food vendors, artisan markets\n**Key Facts (HIGH confidence):**\n- Dates: September 5-7, 2026 [visitcos.com, uncovercolorado.com, multiple sources]\n- Location: Memorial Park, Colorado Springs [visitcos.com, peakradar.com]\n- 50th anniversary edition [america250.org]\n- ~65 hot air balloons [visitcos.com]\n- General admission: FREE [visitcos.com]\n- Morning mass ascensions 7 AM daily [rainbowryders.com]\n- Evening balloon glows [visitcos.com, rainbowryders.com]\n- USAF skydiving demonstrations [visitcos.com]\n- Grizzly drone light shows [rainbowryders.com]\n- Labor Day 5K run [rainbowryders.com]\n- Live music, food vendors, artisan markets [rainbowryders.com, predicthq.com]\n- Hours: 6 AM–11 PM each day [predicthq.com]\n**Key Facts (MEDIUM confidence):**\n- New ticketed Overlook Club for 50th anniversary [predicthq.com]\n- Special-shape balloons added for 50th [predicthq.com]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Back-to-School Anxiety: What COS Parents Can Do When the Jitters Don't Go Away",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Most COS kids are 2-3 weeks into the school year. Normal jitters should be fading. If your child still shows anxiety — sleep issues, behavior changes, school avoidance — experts say it's time to take a closer look. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-back-to-school-anxiety.html",
+        "headline": "Back-to-School Anxiety: When to Watch More Closely and What to Do",
+        "word_count": 845
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Back-to-School Anxiety\n\n**Image Concept 1 — Social (1080x1350, 4:5 vertical)**\nPrompt: Warm, comforting illustration of a parent sitting beside a school-age child on a couch, listening attentively. Soft living room setting, warm afternoon light. Child's backpack visible in background. Gentle, supportive mood. Lower third clear for text. No faces shown clearly — focus on body language. No text baked in.\nMode: base_only\nBrand kit: kAHCKfCZgk0\n\n**Image Concept 2 — Article Hero (1200x630, landscape)**\nPrompt: Soft-focus photo-style image of a child sitting on school steps looking thoughtful, backpack beside them, autumn light coming through trees. Warm tones, gentle and empathetic mood. Clear bottom area for headline text. No text baked in.\nMode: base_only\nBrand kit: kAHCKfCZgk0\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Back-to-School Anxiety\n**Sources:**\n- childmind.org: \"Managing Back-to-School Anxiety\" — predictability is best antidote; anxiety fades when routines become familiar\n- hopkinsmedicine.org: \"5 Tips to Ease Back-to-School Anxiety\" — 5 practical tips\n- geisinger.org: \"Navigating Back-to-School Anxiety\" (Aug 5, 2026)\n- massgeneralbrigham.org: \"Back-To-School Anxiety\" — if anxiety persists 2-3 weeks interfering with daily life, seek professional help\n- aupairinamerica.com: \"Back-to-School Anxiety: How to Help Your Child Feel Confident\" (Aug 11, 2026)\n- valleynewslive.com: \"Experts give tips on dealing with back to school anxiety\" (Aug 26, 2026)\n**Key Facts (HIGH confidence):**\n- Anxiety is normal at start of school year; for most children it fades as routines form [childmind.org]\n- Predictability is one of the best antidotes for anxiety [childmind.org]\n- Consistent bedtime, meal times, homework schedule help [childmind.org]\n- Open, judgment-free conversations help [childmind.org]\n- Warning signs: anxiety persisting 2-3+ weeks, interfering with daily life, sleep problems, major behavior changes [massgeneralbrigham.org]\n- Calm coping techniques: deep breaths, muscle squeezes [geisinger.org]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "September Events for COS Families — Piñon Valley Music in the Park, UpaDowna Hikes",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Free September fun for COS families: Music in the Park at Piñon Valley Park on Sept 10 (live band, food trucks, kickball) and a stroller-friendly UpaDowna hike at Boulder Park on Sept 12 (10-11 AM). #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-september-cos-family-events.html",
+        "headline": "Two Free Family Events Coming to Colorado Springs in September",
+        "word_count": 633
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "September COS Family Events\n\n**Image Concept 1 — Social (1080x1350, 4:5 vertical)**\nPrompt: Cheerful outdoor park scene at golden hour — families on blankets listening to live music, food trucks in background, children running on grass. Colorado mountain backdrop suggested. Warm tones, community festival atmosphere. Lower third clear for text. No faces clearly shown. No text baked in.\nMode: base_only\nBrand kit: kAHCKfCZgk0\n\n**Image Concept 2 — Article Hero (1200x630, landscape)**\nPrompt: Wide landscape shot of a family hiking a gentle Colorado trail through a city park on a clear morning — parents and young children, stroller visible. Pikes Peak suggestion in distant background, soft morning light. Community and wellness mood. Bottom third clear for text overlay. No text baked in.\nMode: base_only\nBrand kit: kAHCKfCZgk0\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "September COS Family Events\n**Sources:**\n- City of Colorado Springs PRCS (app.amilia.com): Music in the Park rescheduled to September 10 at Piñon Valley Park; local band, food trucks, youth kickball, giveaways\n- City of Colorado Springs PRCS: UpaDowna hike September 12, 10-11 AM at Boulder Park; stroller-friendly; no pets; adult supervision required; free\n- coloradosprings.gov: Parks, Recreation and Cultural Services — new registration portal\n**Key Facts (MEDIUM confidence):**\n- Music in the Park: September 10, Piñon Valley Park, live band, food trucks, youth kickball [City PRCS app]\n- UpaDowna family hike: September 12, 10-11 AM, Boulder Park, stroller-friendly, free [City PRCS app]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Week 3 Check-In — When the New-School-Year Excitement Wears Off",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "D11 families are in week 3, D20 in week 2, D49 in week 4. The honeymoon phase of the new school year is over. This week is a great time to reset bedtime routines and homework habits before they slip further. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-week-3-school-routine-check-in.html",
+        "headline": "Week 3 School Routine Check-In — What to Reset Before Things Slip Further",
+        "word_count": 862
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Week 3 School Routine Check-In\n\n**Image Concept 1 — Social (1080x1350, 4:5 vertical)**\nPrompt: Warm, organized kitchen scene — school backpack on chair, homework notebook open on table, healthy snack set out. Afternoon light through window. Calm, domestic, orderly atmosphere suggesting a smooth after-school routine. Lower third clear for text. No faces visible. No text baked in.\nMode: base_only\nBrand kit: kAHCKfCZgk0\n\n**Image Concept 2 — Article Hero (1200x630, landscape)**\nPrompt: School-age child at a kitchen table doing homework with a glass of milk beside them, afternoon light streaming through window. Relaxed, productive home study atmosphere. Books and pencils visible. Parent's hand visible in background suggesting supervision. Bottom third clear for text. No text baked in.\nMode: base_only\nBrand kit: kAHCKfCZgk0"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Week 3 School Routine Check-In\n**Sources:**\n- D49: started Aug 3-4, 2026 (staggered) — now week 4 [prior pipeline D49 start dates]\n- D11: started Aug 12, 2026 — now week 3 [prior pipeline]\n- D20: started Aug 17-18, 2026 — now week 2 [prior pipeline]\n- cbsnews.com: \"Colorado students head back-to-school this week\" (general back-to-school timing)\n- General parenting/sleep research from hopkinsmedicine.org, geisinger.org\n**Key Facts (HIGH confidence):**\n- D49 started Aug 3-4; D11 Aug 12; D20 Aug 17-18 [prior pipeline verified multiple times]\n- Sleep schedule consistency helps children adapt [hopkinsmedicine.org]\n- Routine reset tips from established medical sources",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
