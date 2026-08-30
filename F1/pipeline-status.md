@@ -1,6 +1,18 @@
 # F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
+- **Date**: 2026-08-30
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway)
+- **PostPlanner exports:** f1fr-postplanner-2026-08-30.xlsx (7 posts) + f1fr-postplanner-tobi-2026-08-30.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-08-30/review-dashboard.html (27 items)
+- **Notes:** MONZA PREVIEW — Sept 4-6 Italian GP; Antonelli starts from back (full PU change); 59-pt lead; Norris back-to-back wins (83 pts back); Ferrari ADUO-2 debut; FERRARI SCHUMACHER LIVERY — F310-inspired red/black/gold; 30-year anniversary (1996 first Ferrari season); Hamilton+Leclerc 7-star suits; "Home is calling"; NORRIS MOMENTUM — Back-to-back wins; 83 pts back; Monza low-downforce suits McLaren; MONACO APPEAL — ICA heard Aug 25 Paris; verdict ~mid-September; Gasly holds P3; McLaren+Red Bull appealing; ANTONELLI — 242 pts, 59-pt lead; Mercedes strategic PU penalty at Monza for fresh components for final 7 races
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+### 2026-08-29
 - **Date**: 2026-08-29
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)

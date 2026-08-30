@@ -5930,3 +5930,43 @@
 - **Key facts:** Dutch GP win by 11.536s over Antonelli; 2 consecutive wins; Norris 159pts (4th); 83pts behind Antonelli (242); Russell+Hamilton tied at 183; McLaren best race pace; Piastri floor issue not affecting Norris; Antonelli Monza penalty = opportunity window
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Monza qualification, points gap update
+
+## 2026-08-30
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-08-30 | T1 | Monza Italian GP Preview — Antonelli From Back, Ferrari Tribute Livery, Norris in Form | X(2), FB, Article | FOLLOW UP |
+| 2026-08-30 | T1 | Ferrari Schumacher Tribute Livery — F310 Colors Return to Monza After 30 Years | X(2), FB, Article | FOLLOW UP |
+| 2026-08-30 | T2 | Norris Back-to-Back Wins — Is Monza His Title Moment? | X(1), FB, Article | FOLLOW UP |
+| 2026-08-30 | T2 | Monaco GP Appeal — Verdict Still Weeks Away, Gasly Holds P3 | X(1), FB, Article | FOLLOW UP |
+| 2026-08-30 | T2 | Antonelli Championship — 59 Points Ahead, Starting Last at Monza | X(1), FB, Article | FOLLOW UP |
+
+### STORY 1: Monza Weekend Preview
+- **Tier:** 1
+- **Key facts:** Italian GP Sept 4-6; race Sun Sept 6 2PM local (8AM ET); Antonelli starts from back (full PU change); 59-pt lead; Norris back-to-back wins (83 pts back); Ferrari Schumacher tribute livery; ADUO-2 PU debut (+15hp); fastest circuit (80% full throttle, 350+ km/h)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Qualifying result, race result, championship standings post-Monza
+
+### STORY 2: Ferrari Schumacher Tribute Livery
+- **Tier:** 1
+- **Key facts:** F310-inspired livery (1996 Schumacher first Ferrari season); red/black/gold with gold wheels; "Home is calling" teaser; Hamilton + Leclerc race suits with 7 stars (Schumacher helmet); 30-year anniversary; Hamilton wanted all-red look
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Full livery reveal in practice (Sept 4), on-track photos
+
+### STORY 3: Norris Back-to-Back Wins
+- **Tier:** 2
+- **Key facts:** Won Dutch GP (Zandvoort) + previous race = back-to-back; 83 pts behind Antonelli; Norris P1 + Antonelli P20 = 25-pt swing (gap to ~58); Monza low-downforce suits McLaren
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Monza race result, title gap update
+
+### STORY 4: Monaco Appeal
+- **Tier:** 2
+- **Key facts:** ICA heard case Aug 25 Paris; 4-judge panel; verdict 2-3 weeks (~mid-Sept); McLaren+Red Bull appealed Gasly P3 reinstatement; FOM admitted measurement error; Gasly holds P3 for now
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Verdict announcement (~mid-September)
+
+### STORY 5: Antonelli Championship
+- **Tier:** 2
+- **Key facts:** 242 pts, 59-pt lead; starts from back at Monza; Mercedes strategy: take PU penalty now, get fresh components for final 7 races; no team orders; Russell and Hamilton racing freely
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Monza race result, championship gap post-race
