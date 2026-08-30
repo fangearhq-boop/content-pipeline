@@ -3,6 +3,65 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-08-30
+
+### Story 1: AUSL Series 4 — Championship Night
+- **Date:** 2026-08-30
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** TONIGHT 8 PM ET — Kilfoyl vs. Klingler in the final game of Series 4. Klingler leads 890 pts, Kilfoyl 866 (24 back). Flippen eliminated after Game 2 loss (Kilfoyl def. Flippen 4-1; Willis 5 IP, 1R). Champion crowned after tonight's game. Willis/McQuillin save added new narrative.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Aug 30 champion announcement result
+  - Individual champion feature/profile
+  - AUSL season post-mortem
+
+### Story 2: September 1 Countdown — 2 Days
+- **Date:** 2026-08-30
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** D1 contact window opens in 2 days. First-hour calls before 8 AM. In-person window Sept. 9 at 7 AM ET. Final-prep framing for Class of 2028 recruits.
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - September 1 arrival coverage (day-of)
+  - September 9 in-person window opener
+  - Early commit announcements
+
+### Story 3: USA WNT — 13 Days to Group Oklahoma
+- **Date:** 2026-08-30
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** 13-day countdown. Roster: 7 World Games golds, 2020 Olympians Garcia + Mulipola, 10 Down Under Series veterans. Coach Gasso. Opens vs. No. 7 Mexico Sept. 12. Netherlands No. 6 is the top-seed decider. Top 2 to Redcliffe Finals → LA28.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Daily countdown to Sept. 12 opener
+  - Roster previews per opponent
+  - Group-stage results coverage
+
+### Story 4: OU Battle Series + Fall Schedule
+- **Date:** 2026-08-30
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** NEW — Audrey Lowry (soph. LHP) emerges as Battle Series standout (2.2 IP, 1H, 0BB, 2K). Only 2 returning pitchers (Lowry + Deal). Fall schedule set: opens Sept. 30, outside opps USAO Oct 23 / Seminole State Oct 30 / East Texas A&M Nov 4. Gasso leaves Sept. 12 for USA WNT.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Fall schedule game coverage
+  - Berzon vs. Lowry rotation battle
+  - Gasso return from WNT duty
+
+### Story 5: Texas 2027 Fall Schedule + Portal
+- **Date:** 2026-08-30
+- **Tier:** 3
+- **Classification:** FOLLOW UP
+- **Angle:** NEW — Fall schedule officially announced Aug 28. Opener Sept. 29 vs. Murray State (home, free). Closes Nov. 6 at Texas A&M. Mike White: "will look at transfer portal again." Kavan back as 2x MOP. 6 of 9 starters return. Graduation losses (Atwood etc.) require portal additions.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Transfer portal additions
+  - Fall game coverage
+  - 2027 preseason No. 1 rankings
+
+---
+
 ## 2026-08-29
 
 ### Story 1: AUSL Series 4 — Championship Eve
