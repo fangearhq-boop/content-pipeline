@@ -5,6 +5,63 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-30
+
+### Story 1: PCA Three-HR Game / NL MVP Case Cements
+- **Date:** 2026-08-30
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** PCA hit 3 HRs, 6 RBI in Cubs 17-5 win over Reds Aug 29. 4th player in 50 years with 12+ HR/25+ RBI/6+ SB in one calendar month (Sandberg 1990, Davis 1987, Bonds 1977). NL MVP odds -1100. Ohtani mound return looms as wild card. Cubs 77-59.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Ohtani mound return news
+  - Final month MVP tracking
+  - NL WC positioning
+
+### Story 2: Misiorowski Cy Young -1400 + Velocity Concern
+- **Date:** 2026-08-30
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Cy Young odds surged to -1400 (from -550). Velocity dip confirmed: 100.5→98.7 mph avg. 200 Ks in 129.1 IP (2nd fewest ever). Plouffe urges workload management. Next start Sept 2 vs Cubs at Wrigley (corrected from Aug 31). Sale +750, Sanchez +1100.
+- **Content Produced:** Article (article-02, Jake Torres), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Sept 2 start at Wrigley result
+  - Brewers workload management decisions
+  - Velocity recovery tracking
+
+### Story 3: Alvarez Triple Crown — 30 Games Left
+- **Date:** 2026-08-30
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Alvarez leads AL in BA (.320), HR (36), RBI (90+). Caminero 1 back at 35 HR (tightest race). Cabrera 2012 last AL TC winner. Alvarez slow HR pace in August (only 1 HR in August) is the key vulnerability.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Daily HR race tracking (Caminero gap)
+  - Final-week TC clinch coverage
+
+### Story 4: NL Wild Card Race — Cardinals Surge With 30 Games Left
+- **Date:** 2026-08-30
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** After Cubs 17-5 win: Cubs 77-59 (WC1), Phillies 75-60, Cardinals ~73-62 (5 consecutive series wins), Padres 72-63. Cardinals favorable SOS is the biggest threat. Cubs goal: avoid Brewers in Round 1.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Cardinals streak continuation
+  - Cubs/Phillies direct matchups in September
+  - Wild Card seeding final standings
+
+### Story 5: Chourio 60 Career HR Chase
+- **Date:** 2026-08-30
+- **Tier:** 3
+- **Classification:** FOLLOW UP
+- **Angle:** Chourio at 59 career HRs, 1 away from 60. Age 22 (born March 11, 2004). 5 career multi-HR games (3 in 2026). Most recent: Aug 27 vs Mets 4-for-5, 2 HR, 4 RBI. Framed as ongoing milestone chase — 60th HR not yet confirmed for Aug 30.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - 60th HR milestone coverage
+  - Age comparison historical context
+
+---
+
 ## 2026-08-29
 
 ### Story 1: Misiorowski Velocity Watch — Next Start Tuesday vs. Cubs

@@ -1,0 +1,255 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-30",
+  "compiled_at": "2026-08-30T10:25:56.509400+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Pete Crow-Armstrong's Three-Homer Night Cements His MVP Case (TIER 1 — FOLLOW UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "PCA went 3-for-5 with 3 HRs and 6 RBI as the Cubs demolished the Reds 17-5 at Wrigley on Saturday. His August is historic — just the 4th player in 50 years with 12+ HR, 25+ RBI, and 6+ SB in one month. MVP race: over. ⚡ #Cubs #NLMVPRace",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#NLMVPRace"
+          ],
+          "char_count": 236
+        },
+        {
+          "label": "Post 1-2",
+          "text": "PCA is -1100 for NL MVP after last night's 3-HR game — but Jon Heyman is warning Ohtani returns to the mound in September. One month left. One wild card in play. #Cubs #NLMVPRace",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#NLMVPRace"
+          ],
+          "char_count": 178
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-pca-three-hr-game-mvp-case.html",
+        "headline": "Pete Crow-Armstrong's Three-HR Night Puts His NL MVP Case in Historic Company",
+        "word_count": 491
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "PCA Three-Homer Night — Image 2\n**Usage:** Article hero\n**Dimensions:** 1200x630 (1.91:1 landscape)\n**Photo source:** imagn\n**Search terms:** \"Pete Crow-Armstrong Cubs batting\"\n**Design notes:** PCA at the plate or rounding bases. Horizontal layout for article hero. Overlay: \"Historic August — 3 HRs Saturday Night.\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "PCA Three-Homer Night\n**Confirmed facts (HIGH confidence):**\n- PCA hit 3 home runs and drove in 6 runs in Cubs 17-5 win over Reds at Wrigley, August 29\n- This is the defining performance of the 2026 NL MVP campaign so far\n- PCA is just the 4th player in 50 years with 12+ HRs, 25+ RBIs, 6+ steals in a single calendar month — joins Ryne Sandberg (1990), Eric Davis (1987), Bobby Bonds (1977)\n- NL MVP odds: -1100 (PCA), Ohtani +650 after this game\n- Cubs record moves to 77-59 after the win\n- CBS Sports and Yardbarker both ran stories on this as potentially race-defining\n- Prior pipeline: PCA had 29 of 37 first-place MVP votes; .278/.376/.554, 33 HR, 83 RBI, 32 SB, 7.7 fWAR\n- Jon Heyman (Yahoo Sports) issued warning: Ohtani expected to return to mound in early Sept, which could shift MVP narrative\n**Source notes:**\n- cbssports.com/mlb/news/pete-crow-armstrong-nl-mvp-cubs-reds/ confirms 3-HR game and MVP framing\n- yardbarker.com confirms August historic company (Sandberg, Davis, Bonds)\n- yahoo.com/sports/articles/mlb-insider-issues-warning confirms Heyman Ohtani warning",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Misiorowski's Cy Young Odds Hit -1400 as Velocity Concern Grows (TIER 1 — FOLLOW UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Misiorowski's Cy Young odds are -1400. His avg fastball is 98.7 mph, down from 100.5. He reached 200 Ks in just 129.1 IP — 2nd fewest ever. Next start: Sept. 2 at Wrigley vs. the Cubs. One concern. One milestone. #Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-misiorowski-cy-young-velocity-concern.html",
+        "headline": "Misiorowski's Cy Young Odds Hit -1400 — But His Velocity Dip Has the Brewers Watching Closely",
+        "word_count": 529
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Misiorowski — Image 2\n**Usage:** Article hero\n**Dimensions:** 1200x630 (1.91:1 landscape)\n**Photo source:** imagn\n**Search terms:** \"Misiorowski Brewers pitcher\"\n**Design notes:** Delivery follow-through shot. Clean horizontal layout. Overlay: \"200 Strikeouts — 129.1 Innings.\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Misiorowski Cy Young / Velocity\n**Confirmed facts (HIGH confidence):**\n- Full name: Jacob Misiorowski (NOTE: pipeline has used \"Misiorowski\" without first name; Jacob is correct; avoid confusion with Freddy Peralta, different pitcher now with Mets)\n- Record: 14-5 (confirmed per pipeline context; one source showed 13-5 but that was an older article)\n- ERA: approximately 1.73 (slightly above pipeline's 1.68 — consistent ballpark)\n- Cy Young odds: -1400 per FanDuel/Bleacher Nation as of mid-to-late August (significant move from prior pipeline's -550)\n- Runners-up: Chris Sale at +750, Cristopher Sanchez at +1100\n- 200 Ks reached in 129.1 innings — second-fewest innings ever by an MLB pitcher to reach 200 Ks\n- Velocity dip: average fastball from 100.5 mph to 98.7 mph. Only 9 of 95 pitches hit 100+ mph in a recent start (vs. Mets)\n- Trevor Plouffe (former Twins) publicly called on Brewers to monitor workload — first full MLB season, has nearly doubled prior-season pitch total\n- Next start: projected September 2 vs. Cubs at Wrigley (one source; prior pipeline said Aug 31 — use the more conservative Sept 2 framing)\n**Source notes:**\n- si.com/mlb/brewers/onsi/brewers-jacob-misiorowski-s-fatigue-cause-for-concern confirms velocity dip piece\n- sportskeeda.com confirms Plouffe workload warning\n- yardbarker.com/mlb/articles/should_the_brewers_be_concerned confirms concern framing\n- bleachernation.com/betting confirms Cy Young odds at -1400",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Yordan Alvarez Still Leads All Three Triple Crown Categories (TIER 2 — FOLLOW UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Yordan Alvarez still leads the AL in BA (.320), HR (36), and RBI (90+). Caminero is 1 HR behind at 35. The last AL Triple Crown winner was Cabrera in 2012. 30 games left. The gap is thin. #Astros",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Astros"
+          ],
+          "char_count": 195
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-alvarez-triple-crown-30-games.html",
+        "headline": "Yordan Alvarez Leads All Three Triple Crown Categories With 30 Games Left",
+        "word_count": 464
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alvarez Triple Crown — Image 1\n**Usage:** Social (X + Facebook)\n**Dimensions:** 1080x1350 (4:5 vertical)\n**Photo source:** imagn\n**Search terms:** \"Yordan Alvarez Houston Astros\"\n**Design notes:** Alvarez batting or celebration shot. Astros navy/orange palette. Stats overlay: \".320 BA | 36 HR | 90+ RBI — AL Triple Crown Leader.\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Alvarez Triple Crown\n**Confirmed facts (HIGH confidence):**\n- Yordan Alvarez leads AL in BA (~.320), HR (36), and RBI (90+) as of late August 2026\n- Junior Caminero (Tampa Bay Rays) is one HR back at 35\n- Last AL Triple Crown winner: Miguel Cabrera, 2012 (confirmed correct; prior pipeline caught erroneous \"Mantle 1956\" claim from AI summarizer — CABRERA 2012 is correct)\n- Alvarez confirmed by Yahoo Sports, MLB.com, Fox Sports as leading all three categories\n- Pete Alonso (Baltimore) mentioned as RBI competition in one source; Alvarez remains in the lead\n**Source notes:**\n- yahoo.com/articles/yordan-alvarez-win-triple-crown confirms category leads\n- mlb.com/news/yordan-alvarez-is-vying-for-2026-mlb-triple-crown confirms Triple Crown bid\n- washingtontimes.com/news/2026/aug/24 confirms \"major challenge from AL East\" framing",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "NL Wild Card — Cubs Surge, Cardinals Lurking With 30 Games Left (TIER 2 — FOLLOW UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "NL Wild Card picture after Saturday: Cubs 77-59, Phillies 75-60, Cardinals 73-62 (5 straight series wins), Padres 72-63. 30 games left. The Cardinals' surge is real — and their remaining schedule is favorable. Don't sleep on STL. #Cubs #Cardinals",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#Cardinals"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-nl-wildcard-race-cardinals-surge.html",
+        "headline": "NL Wild Card With 30 Games Left: Cubs Lead, Cardinals Surge, Race Is On",
+        "word_count": 438
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NL Wild Card — Image 1\n**Usage:** Social (X + Facebook)\n**Dimensions:** 1080x1350 (4:5 vertical)\n**Photo source:** imagn\n**Search terms:** \"Chicago Cubs Wrigley Field\"\n**Design notes:** Wrigley aerial or Cubs dugout shot. Blue/red palette. Standings ladder graphic overlay: Cubs 77-59 / Phillies 75-60 / Cardinals 73-62 / Padres 72-63.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NL Wild Card Race\n**Confirmed facts (HIGH confidence):**\n- After Aug 29 Cubs 17-5 win: Cubs 77-59 (WC1)\n- Phillies: approximately 75-60 (WC2 — up from pipeline's 74-60; may have won Aug 29)\n- Cardinals: approximately 73-62 (surging — 5 consecutive series wins confirmed)\n- Padres: approximately 72-63\n- 30 games remaining for most teams\n- Cardinals' surge confirmed by redbirdrants.com piece on updated NL playoff picture\n- Cardinals favorable remaining schedule is the main threat to Cubs/Phillies\n**Source notes:**\n- redbirdrants.com/updated-nl-playoff-picture confirms Cardinals 5-series streak\n- centraloregondaily.com confirms Wild Card standings context\n- mlb.com/gameday confirms Cubs 17-5 Aug 29 win over Reds (game ID 824637)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Chourio One Home Run From 60 Career — The Chase Continues (TIER 3 — FOLLOW UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Jackson Chourio is 22 years old and one home run away from 60 for his career. He has 5 career multi-HR games and 3 of them came in 2026. The milestone is coming. When it does, it puts him in very rare company. #Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers"
+          ],
+          "char_count": 218
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-chourio-60-hr-chase.html",
+        "headline": "Jackson Chourio Is 22 Years Old and One Home Run From 60 for His Career",
+        "word_count": 445
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Chourio Milestone — Image 1\n**Usage:** Social (X + Facebook)\n**Dimensions:** 1080x1350 (4:5 vertical)\n**Photo source:** imagn\n**Search terms:** \"Jackson Chourio Milwaukee Brewers\"\n**Design notes:** Chourio home run celebration or batting shot. Brewers colors. Bold number \"59\" with arrow pointing to \"60?\" in large type. \"The Chase — Career HR No. 60\" as subtitle.\n\n---\n\n## Summary\n- Total image concepts: 7\n- imagn images: 7\n- Social (1080x1350): 5\n- Article hero (1200x630): 2\n- All statuses: not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Chourio 60th HR Chase\n**Confirmed facts (HIGH confidence):**\n- Jackson Chourio: age 22 (born March 11, 2004)\n- Career HR total as of Aug 29: 59 (one away from 60)\n- Fifth career multi-HR game came August 27 vs. Mets (2 HR, 4 RBI, 4-for-5, 4 runs)\n- Third multi-HR game of the 2026 season\n- No confirmation found of 60th HR being hit August 30 — milestone still pending\n**MEDIUM confidence:**\n- Claim that Chourio would be \"among the youngest\" to reach 60 career HRs — plausible but exact historical ranking not verified; use cautious framing\n**Source notes:**\n- yahoo.com/articles/jackson-chourio-aims-join-elite confirms 60 HR aim\n- mlb.com/brewers/video confirms Aug 27 multi-HR game",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
