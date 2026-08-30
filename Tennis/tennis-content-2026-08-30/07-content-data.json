@@ -1,0 +1,273 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-30",
+  "compiled_at": "2026-08-30T12:26:15.453284+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Buse Wins Winston-Salem — Historic Peruvian Champion Heads to US Open",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Buse wins Winston-Salem — 6-3, 6-2 over Fery. The 22-year-old Peruvian is the youngest champion in tournament history and has his second ATP title of 2026. He heads to the US Open with momentum. #TFRtennis #WinstonSalem #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TFRtennis",
+            "#WinstonSalem",
+            "#Tennis"
+          ],
+          "char_count": 227
+        },
+        {
+          "label": "Post 1-2",
+          "text": "History: Ignacio Buse becomes the first Peruvian player to win an ATP Tour final since 2004. 6-3, 6-2 over Arthur Fery in Winston-Salem. Youngest champion in tournament history at 22. #TFRtennis #Tennis #ATPTour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TFRtennis",
+            "#Tennis",
+            "#ATPTour"
+          ],
+          "char_count": 211
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-buse-wins-winston-salem-2026.html",
+        "headline": "Ignacio Buse Wins Winston-Salem Open — Youngest Champion, Historic Win for Peru",
+        "word_count": 608
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Buse Wins Winston-Salem\n\n**Image Concept 1 — Social (1080x1350, 4:5 vertical)**\nSearch terms: \"Ignacio Buse\" (player portrait or action shot, Winston-Salem 2026)\nCredit: (USA TODAY Sports Images)\nUse: X/Facebook/Instagram post — Buse win celebration\n\n**Image Concept 2 — Article Hero (1200x630, landscape)**\nSearch terms: \"Ignacio Buse\" (celebrating with trophy or fist pump at net)\nCredit: (USA TODAY Sports Images)\nUse: Article hero image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Buse Wins Winston-Salem\n**Sources:**\n- en.tennistemple.com: \"Ignacio Buse defeats Arthur Fery at Winston-Salem Open 2026 – Final\"\n- worldtennismagazine.com: \"Ignacio Buse Continues Breakthrough Season With Winston-Salem Open Title\" — second ATP title, first on hard courts\n- en.wikipedia.org/wiki/2026_Winston-Salem_Open_–_Singles — confirms 6-3, 6-2 final result\n- winstonsalemopen.com/en/scores/results — official tournament site\n- larepublica.pe: \"Ignacio Buse tras convertirse en el campeón más joven del ATP 250 Winston-Salem\" — youngest champion at 22 years 5 months\n- infobae.com: \"Ignacio Buse, campeón del ATP 250 de Winston-Salem 2026\" — \"Peru es clave\" quote\n- diariocorreo.pe: confirms second ATP title, Fery was his opponent\n**Key Facts (HIGH confidence):**\n- Result: Buse def. Fery 6-3, 6-2 [Wikipedia, TennisTemple, multiple sources]\n- Youngest Winston-Salem champion at 22y 5m (surpasses Hurkacz by one month) [La República, WorldTennisMagazine]\n- Second ATP title in 2026; first on hard courts [WorldTennisMagazine]\n- First ATP title was Hamburg ATP 500 (clay, May 2026) [WorldTennisMagazine, Infobae]\n- First Peruvian finalist since Luis Horna 2004 [Aug 28/29 pipeline verified, multiple sources]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "US Open 2026 Day 1 — Djokovic Begins 25th Major Quest, Williams and Rybakina in Action",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The 2026 US Open is underway at Flushing Meadows. Tonight (7 PM ET): No. 4 seed Djokovic vs. Navone, chasing a 25th Grand Slam title. #USOpen2026 #TFRtennis #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#USOpen2026",
+            "#TFRtennis",
+            "#Tennis"
+          ],
+          "char_count": 164
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Day 1 at the 2026 US Open: Rybakina vs. Frodin, Pegula vs. Ruse, Medvedev vs. Gaston (day session). Night: Djokovic vs. Navone, Venus Williams vs. Kenin. Big day at Arthur Ashe. #USOpen2026 #TFRtennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#USOpen2026",
+            "#TFRtennis"
+          ],
+          "char_count": 200
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-us-open-2026-day-1.html",
+        "headline": "US Open 2026 Day 1 — Djokovic Chases 25, Rybakina Enters Despite Injury, Williams Returns",
+        "word_count": 667
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "US Open Day 1 Opens\n\n**Image Concept 1 — Social (1080x1350, 4:5 vertical)**\nSearch terms: \"Novak Djokovic\" (Arthur Ashe stadium, US Open, serving or action)\nCredit: (USA TODAY Sports Images)\nUse: Day 1 preview social post\n\n**Image Concept 2 — Article Hero (1200x630, landscape)**\nSearch terms: \"Arthur Ashe Stadium\" OR \"USTA Billie Jean King National Tennis Center\" (wide stadium shot, crowd)\nCredit: (USA TODAY Sports Images)\nUse: US Open Day 1 article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "US Open Day 1\n**Sources:**\n- olympics.com: \"US Open 2026: Full order of play, Sunday 30 August\"\n- atptour.com: \"Former champions Novak Djokovic, Daniil Medvedev headline Day 1 US Open schedule\"\n- yardbarker.com: \"US Open 2026: Djokovic, Medvedev, Williams Headline Action-packed Day 1\"\n- tennis.com/tournaments/us-open/matches/m-navone-vs-n-djokovic-2026-08-30\n- mykhel.com: \"US Open 2026: When Will Novak Djokovic Play His First Match?\"\n- tennisconnected.com: \"US Open 2026 Day 1 Preview: Djokovic Begins Historic Title Chase\"\n- usopen.org: official site, prize money $108M\n**Key Facts (HIGH confidence):**\n- Day 1 both singles draws, starts Aug 30\n- Day session opener: Pegula vs. Ruse (Arthur Ashe), 11 AM ET\n- Medvedev vs. Gaston in day session\n- Rybakina vs. Frodin in day session (3 PM UTC = 11 AM ET)\n- Night session (7 PM ET): Djokovic vs. Navone (Arthur Ashe)\n- Night session also: Venus Williams vs. Kenin\n- Prize money: $108M total\n**Key Facts (MEDIUM confidence):**\n- Djokovic is No. 4 seed (from Aug 28 pipeline, confirmed)\n- Djokovic chasing 25th Grand Slam title (won 24, from story history)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Venus Williams Eliminated R1, Turns Focus to Doubles with Serena",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Venus Williams falls to Kenin in R1 of the 2026 US Open. The 46-year-old wild card won a set but couldn't close it out. She now turns her focus to doubles with Serena Williams. #USOpen2026 #TFRtennis #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#USOpen2026",
+            "#TFRtennis",
+            "#Tennis"
+          ],
+          "char_count": 207
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-venus-williams-williams-sisters-doubles.html",
+        "headline": "Venus Falls in R1, But the Williams Sisters Story at the US Open Is Just Beginning",
+        "word_count": 674
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Venus Williams / Williams Sisters\n\n**Image Concept 1 — Social (1080x1350, 4:5 vertical)**\nSearch terms: \"Venus Williams\" (US Open, 2026, court action or celebration)\nCredit: (USA TODAY Sports Images)\nUse: Venus R1 social post\n\n**Image Concept 2 — Article Hero (1200x630, landscape)**\nSearch terms: \"Serena Williams Venus Williams\" (doubles together, US Open)\nCredit: (USA TODAY Sports Images)\nUse: Williams sisters doubles article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Venus Williams / Williams Sisters\n**Sources:**\n- foxnews.com: \"venus williams bounced us open turns focus doubles event sister\" — confirms Venus lost\n- si.com: \"Venus Williams Wins Impressive Set, but Falls in First Round at U.S. Open\" — confirms she won one set\n- wtatennis.com: \"Serena and Venus Williams awarded US Open wild card in doubles\"\n- espn.com: \"Serena and Venus Williams get wild card for US Open doubles\"\n- usopen.org: \"Serena and Venus Williams receive 2026 US Open doubles wild card\"\n- olympics.com: \"Serena and Venus Williams awarded wildcard for US Open 2026 women's doubles\"\n- newstribune.com: \"Venus and Serena Williams to compete together in US Open doubles\"\n- amny.com: wildcard for women's doubles confirmed\n- sports.yahoo.com: \"venus williams receives wild card\"\n**Key Facts (HIGH confidence):**\n- Serena and Venus both received women's doubles wildcard [usopen.org, wtatennis.com, ESPN]\n- Serena returned to competitive tennis in June 2026 after retirement at 2022 US Open [usopen.org]\n- Venus and Serena: 14-time Grand Slam doubles champions [multiple sources]\n- Won US Open doubles 1999 and 2009 [confirmed historical record]\n- Last played doubles at Grand Slam: 2022 US Open (lost R1) [usa.com, amny.com]\n**Key Facts (MEDIUM confidence):**\n- Venus fell in R1 to Kenin (SI article title: \"Venus Williams Wins Impressive Set, but Falls in First Round\"; Fox News: \"bounced\")\n- Venus had 14-match losing streak entering tournament [britwatchsports.com]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Rybakina Enters US Open Despite Ankle Injury Uncertainty",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Elena Rybakina enters her US Open R1 vs. Frodin six days after retiring from Cincinnati with a left ankle injury. She hadn't practiced, but she's in the draw. #USOpen2026 #TFRtennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#USOpen2026",
+            "#TFRtennis"
+          ],
+          "char_count": 181
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-rybakina-enters-us-open-despite-injury.html",
+        "headline": "Rybakina Steps Onto the US Open Court, Ankle Injury Be Damned",
+        "word_count": 640
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Rybakina\n\n**Image Concept 1 — Social (1080x1350, 4:5 vertical)**\nSearch terms: \"Elena Rybakina\" (US Open, 2026, court action)\nCredit: (USA TODAY Sports Images)\nUse: Rybakina story social post\n\n**Image Concept 2 — Article Hero (1200x630, landscape)**\nSearch terms: \"Elena Rybakina\" (serving or baseline groundstroke)\nCredit: (USA TODAY Sports Images)\nUse: Rybakina article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Rybakina\n**Sources:**\n- wtatennis.com draw: Rybakina vs. Frodin confirmed in first round\n- kz.kursiv.media: \"Elena Rybakina retains No. 2 ranking, withdraws from US Open mixed doubles\"\n- puntodebreak.com Aug 27: \"I haven't been able to practice yet... I want to make sure that everything is okay\"\n- tennis365.com: \"US Open withdrawal list: 16 stars out as Jannik Sinner joined by former world No 4 as Elena Rybakina struggles to walk\"\n- yardbarker.com: \"Elena Rybakina leaves US Open participation in doubt as world No. 2 refuses to rush comeback\"\n**Key Facts (HIGH confidence):**\n- Rybakina did enter singles draw and plays Frodin (Day 1) [wtatennis.com draw, sofascore schedule]\n- Rybakina withdrew from mixed doubles [kz.kursiv.media]\n- Left ankle injury — retired Cincinnati QF Aug 21 [puntodebreak.com, tennis365.com]\n- \"I haven't been able to practice yet... I want to make sure that everything is okay\" — quote from Aug 27 [puntodebreak.com]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Alcaraz Returns Monday, Eala Opens Vs. Stoiana",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Carlos Alcaraz returns Monday vs. Safiullin — first singles match since April. No. 17 seed Alex Eala also opens Monday vs. qualifier Stoiana. Two must-watch storylines at the US Open. #USOpen2026 #TFRtennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#USOpen2026",
+            "#TFRtennis"
+          ],
+          "char_count": 206
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-alcaraz-return-eala-monday.html",
+        "headline": "Day 2 Preview: Alcaraz's Return and Eala's Debut Are the Must-Watch Matches of Monday",
+        "word_count": 676
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alcaraz / Eala\n\n**Image Concept 1 — Social (1080x1350, 4:5 vertical)**\nSearch terms: \"Carlos Alcaraz\" (US Open, 2025 or 2026, court action)\nCredit: (USA TODAY Sports Images)\nUse: Alcaraz return social post\n\n**Image Concept 2 — Article Hero (1200x630, landscape)**\nSearch terms: \"Alex Eala\" (Grand Slam action, 2026)\nCredit: (USA TODAY Sports Images)\nUse: Eala/Alcaraz article hero"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Alcaraz & Eala Monday\n**Sources:**\n- atptour.com: \"Carlos Alcaraz, Novak Djokovic in same half of US Open draw\"\n- sports.yahoo.com: \"US Open Men's Draw 2026: Top Matches, Schedule\"\n- 10sballs.com: \"US Open Draws and Schedule for Sunday, August 30, 2026\" — Alcaraz plays Monday vs. Safiullin\n- philstar.com: \"Eala starts US Open campaign vs American qualifier\"\n- sports.inquirer.net: \"Alex Eala seeded No. 17 at US Open, faces qualifier in first round\"\n- thesummitexpress.com: \"Alex Eala US Open 2026: Schedule, Livestream\"\n- jontotheworld.com: Stoiana earned first Grand Slam main draw spot via qualifying (6-3, 3-6, 6-4 vs. Yue Yuan)\n**Key Facts (HIGH confidence):**\n- Alcaraz plays Safiullin on Monday, Aug 31 [10sballs.com, atptour.com draw]\n- First singles match since April (Barcelona) [from story history, Aug 27 pipeline]\n- Alcaraz had tenosynovitis right wrist — missed French Open, Wimbledon, Toronto, Cincinnati [verified in prior pipeline]\n- Eala opens vs. Stoiana (qualifier, American) [philstar.com, inquirer.net]\n- Stoiana qualified with 6-3, 3-6, 6-4 vs. Yue Yuan [jontotheworld.com]\n- Eala No. 17 seed — highest Grand Slam seeding ever by Filipino [prior pipeline Aug 28 verified]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

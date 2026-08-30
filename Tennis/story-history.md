@@ -1928,3 +1928,50 @@ Track previously covered stories to avoid repetition and maintain content freshn
 - **Byline:** Ryan Calloway
 - **Key Facts:** Def. Tiafoe 6-3, 1-6, 6-0; first Masters 1000 title; 5th career ATP title; first Frenchman in Cincinnati since Forget 1991; first French Masters title since Tsonga 2014 Canadian; first two Black men in Masters 1000 final (Fils+Tiafoe); US Open No. 14 seed; R1 vs. Tsitsipas; Sources: tennismajors.com, sports.yahoo.com, atptour.com, cincinnatiopen.com, en.tennistemple.com
 - **Follow-Up Opportunities:** Fils vs. Tsitsipas R1 result Aug 30; Fils deep run at US Open
+
+## 2026-08-30
+
+### Story 1: Buse Wins Winston-Salem — Youngest Champion, Historic Peruvian Title
+- **Date:** 2026-08-30
+- **Angle:** FOLLOW-UP (2026-08-29 S1: Fery vs. Buse preview) — RESULT: Buse def. Fery 6-3, 6-2. Second ATP title of 2026 (first: Hamburg ATP 500 clay May 2026); first on hard courts. Youngest Winston-Salem champion at 22y 5m (surpasses Hurkacz). First Peruvian ATP finalist/champion since 2004.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Marcus Cole
+- **Key Facts:** Buse def. Fery 6-3, 6-2 (en.tennistemple.com, worldtennismagazine.com, Wikipedia); youngest champion 22y 5m (larepublica.pe); second ATP title 2026, first HC title (worldtennismagazine.com); first Peruvian finalist/champion since 2004 (prior pipeline verified)
+- **Follow-Up Opportunities:** Buse R1 US Open draw and result; Buse deep US Open run potential
+
+### Story 2: US Open 2026 Day 1 — Djokovic, Rybakina, Williams Headline Opening Slate
+- **Date:** 2026-08-30
+- **Angle:** FOLLOW-UP (2026-08-29 S2: US Open eve preview) — Day 1 coverage. Day session: Pegula vs. Ruse, Medvedev vs. Gaston, Rybakina vs. Frodin. Night session: Djokovic vs. Navone (7 PM ET), Venus Williams vs. Kenin.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Elena Voss
+- **Key Facts:** Day 1 schedule confirmed (olympics.com, atptour.com, yardbarker.com); prize money $108M; Djokovic No. 4 seed chasing 25th major; Venus Williams wild card age 46; Rybakina vs. Frodin
+- **Follow-Up Opportunities:** Djokovic R1 result; Rybakina result; Pegula result; Day 2 coverage
+
+### Story 3: Venus Williams Eliminated R1 — Williams Sisters Reunite for Doubles
+- **Date:** 2026-08-30
+- **Angle:** NEW STORY — Venus (46, wild card) fell to Sofia Kenin R1; won an impressive set before falling. She now focuses on women's doubles with Serena (wildcard, Serena's first Grand Slam since 2022 US Open retirement).
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Ryan Calloway
+- **Key Facts:** Venus fell to Kenin R1 (Fox News: "bounced"; SI: "Wins Impressive Set, but Falls"); Venus 14-match losing streak (britwatchsports.com); Serena+Venus wildcard for women's doubles (usopen.org, wtatennis.com, ESPN); Serena returned June 2026; last Grand Slam doubles together 2022 US Open (lost R1); 14-time Grand Slam doubles champions; US Open doubles titles 1999+2009
+- **Follow-Up Opportunities:** Williams sisters doubles R1; Serena's first Grand Slam match since 2022
+
+### Story 4: Rybakina Enters US Open Despite Ankle Injury Uncertainty
+- **Date:** 2026-08-30
+- **Angle:** FOLLOW-UP (Aug 27 S4, Aug 28 S2, Aug 29 S3) — Rybakina confirmed playing Day 1 vs. Frodin; withdrew from mixed doubles; hadn't practiced as of Aug 27. Entered singles draw despite injury.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Marcus Cole
+- **Key Facts:** Rybakina confirmed in singles draw vs. Frodin (wtatennis.com, sofascore); withdrew from mixed doubles (kz.kursiv.media); hadn't practiced as of Aug 27 (puntodebreak.com); quote: "I want to make sure that everything is okay" (puntodebreak.com Aug 27)
+- **Follow-Up Opportunities:** Rybakina R1 result; Rybakina fitness assessment; potential withdrawal update
+
+### Story 5: Alcaraz Returns Monday vs. Safiullin — Eala Opens vs. Stoiana
+- **Date:** 2026-08-30
+- **Angle:** FOLLOW-UP — Alcaraz (Aug 27 S2 return preview) returns Monday, first match since April (tenosynovitis). Eala (Aug 28 S4, Aug 29 S5) opens Monday vs. qualifier Mary Stoiana.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Elena Voss
+- **Key Facts:** Alcaraz vs. Safiullin Monday Aug 31 (10sballs.com, atptour.com); first match since April Barcelona; Eala vs. Stoiana Monday (philstar.com, inquirer.net); Stoiana qualified 6-3, 3-6, 6-4 vs. Yue Yuan (jontotheworld.com); Eala No. 17 seed (prior pipeline verified)
+- **Follow-Up Opportunities:** Alcaraz wrist assessment R1; Alcaraz R2+; Eala R1 result; Eala potential R4 vs. Gauff
