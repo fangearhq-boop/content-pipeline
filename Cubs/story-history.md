@@ -5,6 +5,67 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-30
+
+### STORY 1: PCA Three-Homer Game Recap — Cubs Rout Reds
+- **Angle:** NEW STORY (PCA hit THREE HRs, drove in 6 in Cubs' 17-5 Aug 29 win over Reds; season total: 35 HR/31 SB, leads MLB in WAR; Bregman, Kelly, Suzuki also homered; led with PCA's performance per has_score=False insight)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, morning recap)
+- **Follow-Up Opportunities:**
+  - Game 3 result recap (Aug 31 morning)
+  - PCA 37th HR milestone watch
+
+### STORY 2: Justin Steele Bridge Game — Iowa Rehab Assignment Next
+- **Angle:** FOLLOW UP (last covered Aug 28 with live BP in Mesa; today's angle: bridge game in Arizona on Aug 29 — step immediately before MiLB rehab assignment; expected role: high-leverage October reliever; left elbow surgery April 2025)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, roster/injury news)
+- **Follow-Up Opportunities:**
+  - Steele Iowa rehab assignment announcement
+  - Steele September MLB activation
+  - Steele October playoff use
+
+### STORY 3: PCA NL MVP Odds at -1100 After Historic Night
+- **Angle:** FOLLOW UP (last covered Aug 28 with fWAR angle; today's angle: post-game MVP odds surge from -390 to -1100 at FanDuel, Ohtani at +650; three-homer night sealed the narrative; 7.9 WAR, 35 HR/31 SB, only 30-30 pace player in MLB)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, stat breakdown/bold take)
+- **Follow-Up Opportunities:**
+  - PCA 37th HR milestone watch
+  - BBWAA MVP voting (November)
+
+### STORY 4: Wild Card Watch — Cubs 77-59 WC1, Cardinals Fading
+- **Angle:** FOLLOW UP (last covered Aug 29; today's angle: Cubs 77-59 with 26 games left, Cardinals 67-68 effectively dead in WC chase; Brewers ran away with the division; sharp rival jab + playoff position context)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, analysis/rival watch)
+- **Follow-Up Opportunities:**
+  - Cardinals WC elimination watch (September)
+  - Cubs WC clinch magic number updates
+
+### STORY 5: Dansby Swanson Resumes Defensive Work, September Return on Track
+- **Angle:** FOLLOW UP (last covered Aug 27 as "Grade 2 oblique, season likely over"; today's angle: resumed defensive work at Wrigley, light swinging starts week of Aug 31, postseason activation still the goal — more optimistic framing)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, injury update)
+- **Follow-Up Opportunities:**
+  - Swanson light swinging update (week of Aug 31)
+  - Swanson September IL return
+  - Swanson postseason activation
+
+### STORY 6: Jaxon Wiggins September Callup Case — 3 Straight Scoreless Iowa Outings
+- **Angle:** FOLLOW UP (last covered Aug 28 as "callup imminent"; today's angle: 3 straight scoreless outings confirmed, Counsell aware, CubbieCrib calls it "obvious September call-up decision"; 98 mph, No. 2 Cubs prospect)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, prospect feature)
+- **Follow-Up Opportunities:**
+  - Wiggins September callup announcement
+  - Wiggins MLB debut performance
+
+### STORY 7: Game 3 Series Finale Preview — Gausman vs Abbott, 6:20 PM CT
+- **Angle:** NEW STORY (series tied 1-1, Gausman 7-11/4.37 ERA vs Abbott 6-9/4.15 ERA; Cubs just won 17-5 in Game 2; 6:20 PM CT at Wrigley; series decider framing)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, game preview/hype)
+- **Follow-Up Opportunities:**
+  - Series result recap (Aug 31 morning)
+
+---
+
 ## 2026-08-28
 
 ### STORY 1: Series Preview — Cubs vs Reds Game 1 at Wrigley (3 Games, Aug 28-30)

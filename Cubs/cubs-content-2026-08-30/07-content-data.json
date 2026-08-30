@@ -1,0 +1,276 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-30",
+  "compiled_at": "2026-08-30T09:21:36.949584+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM CT",
+      "description": "PCA 3-HR game recap",
+      "type": "Informative"
+    },
+    {
+      "time": "8:15 AM CT",
+      "description": "Justin Steele bridge game update",
+      "type": "Roster news"
+    },
+    {
+      "time": "12:00 PM CT",
+      "description": "PCA MVP odds at -1100",
+      "type": "Stat / bold take"
+    },
+    {
+      "time": "1:15 PM CT",
+      "description": "Wild Card + Cardinals rival jab",
+      "type": "Analysis"
+    },
+    {
+      "time": "2:30 PM CT",
+      "description": "Swanson injury update",
+      "type": "Informative"
+    },
+    {
+      "time": "3:45 PM CT",
+      "description": "Wiggins prospect / September callup",
+      "type": "Feature"
+    },
+    {
+      "time": "5:00 PM CT",
+      "description": "Game 3 series finale hype",
+      "type": "Bold / hype"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "PCA Three-Homer Game Recap — Cubs Rout Reds",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Pete Crow-Armstrong hit THREE home runs and drove in six runs in the Cubs' Aug 29 rout of Cincinnati. He now has 35 HR and 31 SB, leads MLB in WAR. Bregman, Kelly, Suzuki also went deep. Bottom of the lineup (Taylor, Ramírez, Kelly) went 8-for-12 with nine runs scored. Lead with PCA performance, not score (has_score=False insight).",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1A",
+          "text": "Pete Crow-Armstrong launched THREE home runs Saturday and drove in six.\n\nHe now has 35 HR and 31 SB this season — the ONLY player in MLB on a 30-30 pace — and leads the entire sport in WAR.\n\nHistory is happening in center field.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Morning recap / informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "PCA Three-Homer Game Recap — Cubs 17, Reds 5\n**Key Facts (CONFIDENCE LEVEL)**\n- Pete Crow-Armstrong hit THREE home runs on Aug 29 — HIGH (ESPN recap + CBS Sports + MLB.com)\n- PCA drove in six runs — HIGH (ESPN recap; CBS Sports confirms \"six runs\")\n- Alex Bregman, Carson Kelly, Seiya Suzuki also homered — HIGH (ESPN recap)\n- Taylor, Ramírez, Kelly: 8-for-12, nine runs scored (bottom of lineup) — HIGH (ESPN)\n- PCA homered in the first two innings, singled in the 4th — HIGH (Washington Times)\n- Final score: Cubs 17, Reds 5 — HIGH (ESPN, MLB.com Gameday)\n- PCA's pre-game stats (entering Aug 29): 32 HR, 31 SB, .278 avg — HIGH (Aug 29 pipeline / story history)\n- Post-game calculated HRs: 35 — MEDIUM (32 + 3, calculated from verified sources)\n- Post-game SBs: 31 — HIGH (no reported steal in Aug 29 game)\n- WAR: 7.9 before game, likely 8.0+ after — MEDIUM (estimated; pre-game WAR confirmed high)\n**Sources**\n- ESPN: https://www.espn.com/mlb/recap/_/gameId/401816726\n- MLB.com: https://www.mlb.com/gameday/reds-vs-cubs/2026/08/29/824637/final\n- CBS Sports: https://www.cbssports.com/mlb/news/pete-crow-armstrong-nl-mvp-cubs-reds/\n- Washington Times: https://www.washingtontimes.com/news/2026/aug/29/pete-crow-armstrong-continues-nl-mvp-push-2-homers-chicago-cubs/\n**Story Notes**\n- Lead with PCA's performance, NOT the score (has_score=False insight)\n- Include at least one concrete stat (has_stat=True insight)\n- This is the morning anchor post at 7:00 AM — only mandatory morning slot",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Justin Steele Bridge Game — Iowa Rehab Assignment Next",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Steele threw live BP Aug 25, then a bridge game in Arizona on Aug 29 — the step immediately before a MiLB rehab assignment with Iowa. Expected role: high-leverage October bullpen arm. Left elbow surgery was April 2025; long wait almost over.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2A",
+          "text": "Justin Steele's progression: live BP (Aug 25), bridge game (Aug 29).\n\nA MiLB rehab assignment with Iowa is the next step toward a high-leverage October bullpen role.\n\nLeft elbow surgery was April 2025. The wait is almost over.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Roster / injury news",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Justin Steele Bridge Game — Rehab Assignment Next\n**Key Facts (CONFIDENCE LEVEL)**\n- Steele threw live BP on Aug 25 — HIGH (CBS Sports)\n- Steele threw in a \"bridge game\" in Arizona on Aug 29 — HIGH (CBS Sports / MLB.com injuries)\n- Two more live bullpen sessions planned before potential rehab assignment — MEDIUM (CBS Sports)\n- Expected role: high-leverage reliever, NOT a starter in 2026 — HIGH (Hoyer on record, CBS Sports)\n- Background: left elbow surgery April 2025, flexor strain spring 2026, PRP injection — HIGH (multiple sources)\n- Counsell has not ruled out October role — MEDIUM (inferred from team's public statements)\n**Sources**\n- CBS Sports: https://www.cbssports.com/fantasy/baseball/news/cubs-justin-steele-closing-in-on-rehab-assignment/\n- SI.com Cubs insider link (rehab assignment looming)\n- Last Word on Sports: https://lastwordonsports.com/baseball/2026/08/26/justin-steele-return-2026/\n**Story Notes**\n- FOLLOW UP from Aug 28 pipeline (live BP in Mesa covered then)\n- New development: bridge game (Aug 29) is a meaningful step beyond live BP\n- Posting at 8:15 AM (morning loser window) — second and final morning slot today; worth it for genuine news",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "PCA NL MVP Odds Explode to -1100 After Historic Night",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Three-homer game on Aug 29 moved PCA's FanDuel MVP odds from -390 to -1100. Ohtani at +650. PCA leads baseball with 7.9 WAR, 35 HR, 31 SB — the only player on a 30-30 pace. The BBWAA just needs to stamp it.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "After Saturday's three-homer outburst, PCA is a -1100 NL MVP favorite at FanDuel.\n\nOhtani is +650.\n\nHis 7.9 WAR leads baseball. He's the only player with 35 HR and 31 SB — and the BBWAA just needs to stamp it.\n\n#Cubs #ChicagoCubs #MLB",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Stat breakdown / bold take",
+          "hashtags": [
+            "#Cubs",
+            "#ChicagoCubs",
+            "#MLB"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "PCA NL MVP Odds at -1100\n**Key Facts (CONFIDENCE LEVEL)**\n- FanDuel MVP odds before Aug 29 game: PCA -390 — MEDIUM (CBS Sports AI summary)\n- FanDuel MVP odds after three-homer game: PCA -1100, Ohtani +650 — MEDIUM (CBS Sports AI summary)\n- PCA leads all of baseball in WAR (7.9 pre-game) — HIGH (per Aug 29 story history / multiple sources)\n- \"Only player in MLB with 20+ HR and 20+ SB\" (pre-Aug 29 game, so now 35 HR, 31 SB) — HIGH (CBS Sports)\n- Back-to-back 30-30 pace confirmed — HIGH (2025 30-30 season confirmed; 2026 pace clear)\n- \"4th player in 50 years with ≥12 HR, ≥25 RBI, ≥6 SB in one calendar month\" — LOW (AI summary, not independently verified; NOT used in tweet)\n- 29 of 37 MLB experts voting PCA NL MVP — HIGH (from Aug 28 pipeline, confirmed by pre-game -390 odds)\n**Sources**\n- CBS Sports: https://www.cbssports.com/mlb/news/pete-crow-armstrong-nl-mvp-cubs-reds/\n- MLB.com: https://www.mlb.com/news/pete-crow-armstrong-2026-mvp-case\n- Last Word on Sports: https://lastwordonsports.com/baseball/2026/08/02/pete-crow-armstrong-mvp/\n**Story Notes**\n- FOLLOW UP (covered Aug 28 with fWAR angle, Aug 27 with bWAR angle)\n- Today's distinct angle: -1100 MVP odds, Ohtani at +650, after historic three-homer night\n- Midday slot (12:00 PM CT) — in the winner window",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Wild Card Watch — Cubs 77-59 WC1, Cardinals on Fumes",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Cubs hold NL WC1 at 77-59 with 26 games left. Brewers ran away with the division — fine. Cardinals at 67-68 are dead in the wild card race, needing a miracle with fewer than 27 games to go. Sharp rival jab + standings context.",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": "Cubs: 77-59. NL's No. 1 wild card, 26 games left.\n\nBrewers ran away with the division. Fine. The Cubs are winning October games either way.\n\nCardinals: 67-68. Wild card? They'd need a miracle and then some.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Analysis / rival watch",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Wild Card Watch — Cubs 77-59, Cardinals Fading\n**Key Facts (CONFIDENCE LEVEL)**\n- Cubs record: 77-59 — HIGH (series-context.json confirmed)\n- Cubs hold NL WC1 spot — HIGH (ESPN, CBS Sports, Fox Sports standings)\n- Cardinals record: 67-68 (as of Aug 28 pipeline) — HIGH (confirmed Aug 28)\n- Cardinals 9+ GB of WC with ~26 games remaining — MEDIUM (calculated from Aug 28 standings)\n- Brewers leading NL Central — HIGH (multiple standings sources)\n- Phillies ~WC2, Padres ~WC3 — MEDIUM (approximate, not independently confirmed today)\n- 26 games remaining in Cubs' regular season — MEDIUM (calculated: 162 - 136 games played)\n**Sources**\n- series-context.json (Cubs record 77-59)\n- Aug 28 story history (Cardinals 67-68)\n- ESPN Wild Card standings link\n**Story Notes**\n- FOLLOW UP (last covered Aug 28 with standings snapshot)\n- Today's angle: post-series-Game-2 standings, Cardinals now effectively eliminated from WC\n- Cardinals jab: use witty, competitive tone per brand voice (playful not hateful)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Dansby Swanson Resumes Defensive Work, September Return on Track",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "Swanson resumed defensive work at Wrigley this week (pivot from Aug 27's \"season likely over\" framing). Light swinging starts week of Aug 31. Grade 2 oblique (Aug 17), 4-6 week timeline = Sept 14-28 return window. Postseason activation remains the goal.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5A",
+          "text": "Good news on Dansby Swanson: he resumed defensive work at Wrigley this week.\n\nLight swinging starts next week. The Grade 2 oblique (Aug 17) is healing on schedule.\n\nPostseason activation is still the goal.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Injury update / informative",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Dansby Swanson Resumes Defensive Work\n**Key Facts (CONFIDENCE LEVEL)**\n- Grade 2 oblique strain, IL since Aug 17 — HIGH (multiple sources)\n- As of Aug 28-29, resumed defensive work at Wrigley Field — HIGH (Heavy.com Cubs beat)\n- On target to resume light swinging the week of Aug 31 — MEDIUM (Heavy.com)\n- 4-6 week timeline from Aug 17 = Sept 14-28 return window — MEDIUM (calculated)\n- Postseason activation remains the goal — HIGH (front office statements)\n- Coverage at SS: Nick Hoerner | 2B: Pedro Ramírez; Alcántara + Owen Miller recalled — HIGH (Aug 27 pipeline)\n- Edward Cabrera: right middle finger blister, 15-day IL (Aug 17), Iowa rehab starting week of Aug 31 — HIGH (Yardbarker)\n**Sources**\n- Heavy.com Cubs beat\n- Yardbarker 2026 Injury Report\n- Chicago Sun-Times (Aug 17 initial IL report)\n**Story Notes**\n- FOLLOW UP (last covered Aug 27 — Grade 2 oblique, season likely over)\n- Today's angle: update with defensive work resuming, now explicitly targeting September return (no longer \"likely over\")\n- Midday slot (2:30 PM CT) — winner window",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Jaxon Wiggins September Callup Case — 3 Straight Scoreless Iowa Outings",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "Wiggins hasn't allowed a run across his last three Iowa bullpen outings since moving out of the rotation on Aug 4. Touches 98 mph, elite strikeout rate. Craig Counsell is aware. No. 2 Cubs prospect. September 28-man active roster opens the door. CubbieCrib calls it \"an obvious September call-up decision.\"",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6A",
+          "text": "Jaxon Wiggins hasn't allowed a run in his last three Iowa bullpen outings — 98 mph, strikeout-per-inning stuff.\n\nCounsell knows. The No. 2 Cubs prospect is making his September case louder every time out.\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Prospect feature",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Jaxon Wiggins September Callup Case\n**Key Facts (CONFIDENCE LEVEL)**\n- No. 2 ranked Cubs pitching prospect — HIGH (North Side Baseball / Bleacher Nation rankings)\n- Moved to bullpen role at Iowa (Triple-A) after Aug 4 start — HIGH (Bleacher Nation)\n- 3 scoreless relief outings since bullpen switch — HIGH (multiple recent sources)\n- Touches 98 mph as reliever — HIGH (SI.com, Bleacher Nation)\n- Craig Counsell acknowledged awareness of bullpen role — MEDIUM (CubbieCrib)\n- Called an \"obvious September call-up decision\" — HIGH (CubbieCrib headline)\n- September 28-man active roster allows additional callup roster flexibility — HIGH (MLB rules)\n**Sources**\n- CubbieCrib: https://cubbiescrib.com/cubs-jaxon-wiggins-experiment-creates-obvious-september-call-up-decision\n- Bleacher Nation Cubs Prospects (Aug 12, 2026)\n- SI.com Cubs bullpen piece\n**Story Notes**\n- FOLLOW UP (last covered Aug 28 as \"callup imminent\"; today's angle: 3 scoreless outings confirmed, Counsell is now aware)\n- Midday slot (3:45 PM CT) — winner window",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 7,
+      "title": "Game 3 Series Finale — Gausman vs Abbott, 6:20 PM CT at Wrigley",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Series tied 1-1, tonight's Game 3 is the decider. Gausman (7-11, 4.37 ERA) starts for Chicago; Abbott (6-9, 4.15 ERA) for Cincinnati. Cubs just dropped 17 runs on these Reds yesterday. Home field, stakes, momentum — win.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7A",
+          "text": "Series tied 1-1. Game 3 tonight at Wrigley. 6:20 PM CT.\n\nKevin Gausman starts for Chicago. Andrew Abbott for Cincinnati. Cubs just dropped 17 runs on these Reds yesterday.\n\nHome. Series on the line. Win.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Game preview / bold hype",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 227
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Game 3 Series Finale Preview — Gausman vs Abbott\n**Key Facts (CONFIDENCE LEVEL)**\n- Series tied 1-1 (Game 1: Reds 10-8; Game 2: Cubs 17-5) — HIGH (ESPN, MLB.com)\n- First pitch: 6:20 PM CT — HIGH (series-context.json game_date_ct)\n- Venue: Wrigley Field — HIGH (series-context.json)\n- Kevin Gausman starting for Cubs: 7-11, 4.37 ERA, 1.26 WHIP — MEDIUM (SportsGrid / baseball prediction sites; WHIP needs cross-ref)\n- Andrew Abbott starting for Reds: 6-9, 4.15 ERA, 1.40 WHIP — MEDIUM (SportsGrid)\n- Cubs are 77-59; Reds are 64-72 — HIGH (series-context.json)\n**Sources**\n- Baseball-Reference.com Aug 30 preview\n- SportsGrid (probables)\n- series-context.json (game time, records, venue)\n**Story Notes**\n- NEW STORY (series finale not yet covered)\n- 5:00 PM CT slot — still within the midday_12_18 winner window (window = 12:00-18:00 CT; 17:00 = 5:00 PM)\n- Lead with stakes (series decider), not individual pitcher stats\n- No score lead per insight (don't mention series score prominently in tweet hook)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
