@@ -4300,3 +4300,46 @@ July 12 pipeline contained incorrect winners for Scottish Open (MacIntyre report
 - **Key facts:** DeChambeau received 2-stroke penalty at Open; said "wished I would have given it more on the weekend"; Fox wins carries cultural weight for NZ golf; Young runner-up (major near-miss pattern); Burns T3; Fleetwood/Scheffler T4
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Fox ongoing season; Young major breakthrough; DeChambeau next major
+
+## 2026-08-30
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-08-30 | T1 | Tour Championship Final Round: Hovland Leads Gerard by 1, Scheffler 3 Back at East Lake | X, FB, Article | PUBLISHED |
+| 2026-08-30 | T1 | LPGA FM Championship Final Round: Corpuz, Kim, Yamashita Share Lead at -9 at TPC Boston | X, FB, Article | PUBLISHED |
+| 2026-08-30 | T2 | Scheffler's FedExCup Legacy: Five Consecutive No. 1 Seeds, $23M Bonus Locked | X, FB, Article | PUBLISHED |
+| 2026-08-30 | T2 | LIV Golf Future: PIF Out, $250M–$350M Deal Close, 2027 Season Not Yet Guaranteed | X, FB, Article | PUBLISHED |
+| 2026-08-30 | T2 | McIlroy's FedExCup Chase: Three Titles Down, Chasing Historic 4th at East Lake | X, FB, Article | PUBLISHED |
+
+### STORY 1: Tour Championship Final Round
+- **Tier:** 1
+- **Category:** PGA Tour / Tour Championship / FedExCup / East Lake / Viktor Hovland / Ryan Gerard / Scottie Scheffler
+- **Key facts:** Hovland -15 (leads by 1); Gerard -14 (1 back); Gotterup/Scheffler/Scott/Åberg -12 (T3, 3 back); FedExCup title decided today; $10M winner's purse; $40M total purse; East Lake GC Atlanta; Hovland won 2023 Tour Championship at East Lake; Scheffler $23M FedExCup No. 1 bonus already locked; Scheffler 21 PGA Tour wins
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Tour Championship final round result; FedExCup champion crowned
+
+### STORY 2: LPGA FM Championship Final Round
+- **Tier:** 1
+- **Category:** LPGA / FM Championship / TPC Boston / A. Corpuz / Hyo Joo Kim / Miyu Yamashita
+- **Key facts:** Corpuz/Kim/Yamashita tied at -9 (co-leaders); Yin/Metraux/Bae at -8 (1 back); TPC Boston in Norton, MA; rain suspended R2 on Friday; compressed Saturday (R2+R3 same day); $4.4M purse; Sei Young Kim opened with 64 (eagle + 6 birdies); Miranda Wang defending (won 2025 at -20); Nelly Korda and Brooke Henderson in field
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** FM Championship final round result; 2026 champion
+
+### STORY 3: Scheffler FedExCup Legacy
+- **Tier:** 2
+- **Category:** PGA Tour / Scottie Scheffler / FedExCup / Golf Records
+- **Key facts:** 5 consecutive FedExCup No. 1 seeds (unprecedented); $23M bonus locked; 21 PGA Tour wins entering final round; -12 entering Sunday (T3, 3 back of Hovland)
+- **Status:** PUBLISHED
+
+### STORY 4: LIV Golf Future
+- **Tier:** 2
+- **Category:** LIV Golf / PIF / Saudi Arabia / Golf Business / LIV 2.0
+- **Key facts:** PIF withdrawing after 2026; PIF spent estimated $6B+ over 4 seasons; new deal $250M–$350M "LIV 2.0" reportedly close; Scott O'Neil: deal "signed, close to completion in September"; 4 2027 dates announced (Saudi Arabia, Australia, South Africa, Hong Kong); Greg Norman won't guarantee 2027; Ian Poulter: "time might run out"; 50+ players contracted; Jon Rahm won 3rd consecutive individual title at 2026 Indianapolis finale; new independent board formed
+- **Status:** PUBLISHED
+
+### STORY 5: McIlroy FedExCup Chase
+- **Tier:** 2
+- **Category:** PGA Tour / Rory McIlroy / FedExCup / Golf Records / East Lake
+- **Key facts:** McIlroy 3 FedExCup titles (2016, 2019, 2022); tied with Tiger Woods for all-time record; 4th would give McIlroy sole record; won 2026 Masters (career Grand Slam); entering Sunday ~6 shots off pace; needs 62-63 + leader stumble to claim FedExCup
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** McIlroy final round result; FedExCup champion; record outcome

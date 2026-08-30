@@ -1,16 +1,16 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
-- **Date**: 2026-08-29
-- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish skipped — credentials not configured; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Date**: 2026-08-30
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish blocked — egress proxy 403 Forbidden; dashboard publish blocked — content-dashboards repo not in session's authorized set)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)
 - **X Posts:** 7 written, all under 280 characters
 - **Facebook Posts:** 5 stories, long-form + caption each
-- **Articles:** 5 (pen names: Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway)
-- **PostPlanner exports:** gfr-postplanner-2026-08-29.xlsx (7 posts) + gfr-postplanner-tobi-2026-08-29.xlsx (7 TOBI posts)
-- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-08-29/review-dashboard.html (27 items)
-- **Notes:** TOUR CHAMPIONSHIP R3 — Min Woo Lee leads at -8 after career-matching bogey-free 62 in R1; three shots clear of Hovland/Morikawa/Gotterup at -6 (T2); Scheffler/Gerard/Bhatia/Åberg at -5 (T5); Fleetwood -4; McIlroy -2 (T20, six shots back); J.J. Spaun WD injury before R2; Round 3 underway Aug 29; $40M purse ($10M winner); East Lake GC Atlanta; SCHEFFLER FIVE STRAIGHT NO. 1 SEED — unprecedented 5 consecutive FedExCup No. 1 seeds; $23M bonus locked; won FedEx St. Jude by 8 shots (21st career win); won FedExCup 2024; Fleetwood defending 2025 champion; MCILROY 4TH FEDEXCUP — 3x champion (2016/2019/2022); tied Tiger at 3 (all-time record); at -2 (T20), six shots back; reigning Masters champion; needs major Saturday charge; LPGA FM CHAMPIONSHIP — Sei Young Kim leads after bogey-free 8-under 64 (eagle + 6 birdies) in R1; R2 suspended by rain Friday; compressed rounds Saturday; $4.4M purse at TPC Boston; Korda/Henderson/Woad in field; Miranda Wang defending (won 2025 at -20); LIV 2027 UNCERTAIN — 2026 season over; La Sasso won Indianapolis finale (18-under, beat Rahm by 1); Rahm 3rd consecutive individual title; Legion XIII team title; Saudi PIF reportedly withdrawing; O'Neil: new investor deal signed, close September; Norman (Skratch): won't guarantee 2027; Poulter: "time might run out"; 50+ players' futures uncertain
-- **WordPress:** Skipped — WP_FANRUMOR_USERNAME and WP_FANRUMOR_APP_PASSWORD not configured in session
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** gfr-postplanner-2026-08-30.xlsx (7 posts) + gfr-postplanner-tobi-2026-08-30.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-08-30/review-dashboard.html (27 items)
+- **Notes:** TOUR CHAMPIONSHIP FINAL ROUND — Hovland -15 leads by 1 over Gerard -14; Gotterup/Scheffler/Scott/Åberg -12 (T3, 3 back); FedExCup title decided today; $10M winner; $40M total purse; East Lake GC Atlanta; Hovland won 2023 Tour Championship; Scheffler $23M FedExCup No. 1 bonus locked; Scheffler 21 PGA Tour wins; LPGA FM CHAMPIONSHIP FINAL ROUND — Corpuz/Kim/Yamashita tied at -9; Yin/Metraux/Bae at -8; TPC Boston Norton MA; rain suspended R2 Friday; compressed R2+R3 Saturday; $4.4M purse; Sei Young Kim opened with 64; Miranda Wang defending (won 2025 at -20); SCHEFFLER FEDEXCUP LEGACY — 5 consecutive No. 1 seeds (unprecedented); $23M bonus locked; -12 entering final round; LIV GOLF FUTURE — PIF out after 2026; $250M–$350M LIV 2.0 deal close (O'Neil: signed, close September); 4 2027 dates announced; Greg Norman won't guarantee 2027; Poulter: time might run out; 50+ players contracted; MCILROY FEDEXCUP CHASE — 3 titles (2016/2019/2022); tied Tiger at 3 (all-time record); 4th = sole record; won 2026 Masters; ~6 shots off pace entering Sunday
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-08-28
 - **Date**: 2026-08-28
