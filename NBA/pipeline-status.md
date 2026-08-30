@@ -1,6 +1,18 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Last Run
+- **Date**: 2026-08-30
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce, Jake Torres)
+- **PostPlanner exports:** hh-postplanner-2026-08-30.xlsx (7 posts) + hh-postplanner-tobi-2026-08-30.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-08-30/review-dashboard.html (27 items)
+- **Notes:** CURRY SIGNS 1YR/$62.6M — Extension window opened Aug 29; Curry signed immediately; 1-year deal (over-38 rule); first player to earn $60M+ in single season; 4th past $500M career; always a Warrior; KAWHI IMMINENT — "Increasingly confident" trade finalizes before camp (Sept 28); NBA BOG meeting Sept for final sanctions/greenlight; Ingram+Dick+picks to LA; WEMBY SWEDEN — France vs Sweden Aug 30 3:30 PM UTC; France 6-1 Group L; Wemby captain; 22/9 vs Slovenia last game; TRAINING CAMP 30 DAYS — Sept 29 open; Kuminga to MIN 2yr/$12.43M; DeRozan to DEN 1yr/$3.88M; Mathurin to NO 2yr/$16M; Richards to MIA 1yr/$3.06M; HEAT SUPERTEAM SET — Giannis+Bam+Klay+Richards; 14 players under contract; Christmas vs Celtics; Giannis $275M supermax Jan 6 2027
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+### 2026-08-29
 - **Date**: 2026-08-29
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)

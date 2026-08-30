@@ -6144,3 +6144,48 @@
 - **Key facts:** Trade: Leonard to Toronto for Ingram+Dick+picks (agreed June 30); Aspiration+Daktronics investigations; Leonard personally cleared; Clippers sanctions expected; resolution ~Sept 22 (6 weeks from Aug 10); Toronto camp Sept 28 Quebec City; Kawhi operating under belief trade clears before camp
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Sanction announcement, trade official completion
+
+## 2026-08-30
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-08-30 | T1 | Stephen Curry Signs 1-Year, $62.6M Extension — Historic First $60M Season | X(2), FB, Article | NEW |
+| 2026-08-30 | T1 | Kawhi Leonard Trade to Toronto Increasingly Imminent Before Camp | X(2), FB, Article | FOLLOW UP |
+| 2026-08-30 | T2 | Captain Wemby Leads France vs. Sweden in FIBA World Cup Qualifier | X(1), FB, Article | FOLLOW UP |
+| 2026-08-30 | T2 | 30 Days to NBA Training Camp — Transaction Roundup and Key Dates | X(1), FB, Article | NEW |
+| 2026-08-30 | T2 | Miami Heat Superteam Is Complete — Giannis, Bam, Klay Ready for Camp | X(1), FB, Article | FOLLOW UP |
+
+### STORY 1: Stephen Curry Signs 1-Year, $62.6M Extension
+- **Tier:** 1
+- **Category:** NBA Contracts / Golden State Warriors / Stephen Curry
+- **Key facts:** 1-year $62.6M extension (over-38 rule capped to 1 year); first player to earn $60M+ in single season; 4th past $500M career earnings; agent Jeff Austin/Octagon confirmed to ESPN Woj; window opened Aug 29, signed immediately; Curry 36, never played for another franchise
+- **Status:** NEW
+- **Follow-up ideas:** Season performance, extension beyond 2026-27, Warriors playoff push
+
+### STORY 2: Kawhi Leonard Trade to Toronto
+- **Tier:** 1
+- **Category:** NBA Transactions / Toronto Raptors / Los Angeles Clippers / Kawhi Leonard
+- **Key facts:** "Increasingly confident" trade finalizes before camp; NBA BOG meeting Sept as inflection point; trade: Kawhi → Toronto for Ingram+Dick+2031 UPF+2033 UPF+pick swaps; Aspiration circumvention cleared; Clippers still face sanctions; Toronto camp Sept 28 Quebec City
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official trade announcement, Kawhi physical, BOG sanctions ruling
+
+### STORY 3: Wemby France vs. Sweden — FIBA Qualifier
+- **Tier:** 2
+- **Category:** FIBA / France National Team / Victor Wembanyama / San Antonio Spurs
+- **Key facts:** France vs. Sweden Aug 30 at 3:30 PM UTC; France 6-1 Group L; Wemby captain; last win: France 92-67 Slovenia (Wemby 22/9, 60% FG); prior: France 91-90 Serbia (Wemby 18, Jokic 34/13/5 in loss)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Game result, France record, World Cup qualification path
+
+### STORY 4: NBA Training Camp 30-Day Countdown
+- **Tier:** 2
+- **Category:** NBA Season Preview / Training Camp / Transactions
+- **Key facts:** Veterans report Sept 28; camps open Sept 29; preseason Oct 3; Opening Night Oct 20; Kuminga 2yr/$12.43M to Minnesota; DeRozan 1yr/$3.88M vet min to Denver; Mathurin 2yr/$16M to New Orleans; Nick Richards 1yr/$3.06M to Heat
+- **Status:** NEW
+- **Follow-up ideas:** Training camp storylines, early preseason results
+
+### STORY 5: Miami Heat Superteam Complete
+- **Tier:** 2
+- **Category:** Miami Heat / Giannis Antetokounmpo / Klay Thompson / NBA Season Preview
+- **Key facts:** Roster at 14 players; Giannis traded July 6 (Herro/Ware/Jaquez/picks to MIL); Klay 2yr/$11.48M; Nick Richards 1yr/$3.06M (Aug 27); Hadley+Johnson two-ways (Aug 28); Christmas vs. Celtics Dec 25; Giannis $275M supermax eligible Jan 6 2027
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Supermax extension signing, training camp performance, early season results
