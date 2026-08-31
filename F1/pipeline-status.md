@@ -1,6 +1,18 @@
 # F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
+- **Date**: 2026-08-31
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss)
+- **PostPlanner exports:** f1fr-postplanner-2026-08-31.xlsx (7 posts) + f1fr-postplanner-tobi-2026-08-31.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-08-31/review-dashboard.html (27 items)
+- **Notes:** MONZA PREVIEW — Race Sept 4-6; Antonelli from back (full PU change); Norris 6/4 favorite; Ferrari ADUO-2 debuts; Hamilton 53pts back; 53 laps; Qual Sept 5 15:00 BST; Race Sept 6 14:00 BST; FERRARI ADUO-2 — ~15hp; combustion chamber+turbo revision+Shell fuel; Hamilton+Leclerc get it; NO grid penalty; ~0.2s/lap at Monza; part of 30hp two-phase plan; ANTONELLI PENALTY — Toto Wolff confirmed; full PU change; V6+exhaust+MGU-H exceeded; starts back of 20-car grid at home race; 59-pt lead; fresh PU for final 7 races; MONACO APPEAL — ICA heard Aug 25 Paris; verdict 2-3 weeks (mid-September); Gasly holds P3; FOM admitted measurement error; McLaren+Red Bull argue stewards exceeded remit; NORRIS HAT-TRICK — 2 straight wins; 83pts back; Antonelli penalty = best title opportunity; Monza suits McLaren; 6/4 favorite
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+### 2026-08-30
 - **Date**: 2026-08-30
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)

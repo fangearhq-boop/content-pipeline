@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-08-31
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-08-31 | T1 | Italian GP at Monza — Five Days Out, Race Weekend Preview | X(2), FB, Article | FOLLOW UP |
+| 2026-08-31 | T1 | Ferrari's ADUO-2 Engine Debuts at Monza — No Grid Penalty for Hamilton or Leclerc | X(2), FB, Article | NEW |
+| 2026-08-31 | T2 | Antonelli Confirmed Starting from Back at Home Race in Monza | X(1), FB, Article | FOLLOW UP |
+| 2026-08-31 | T2 | Monaco GP ICA Appeal — Verdict Still Pending After August 25 Hearing | X(1), FB, Article | FOLLOW UP |
+| 2026-08-31 | T2 | Norris Eyes Hat-Trick at Monza — Can He Close the Title Gap? | X(1), FB, Article | FOLLOW UP |
+
+### STORY 1: Italian GP Monza Preview
+- **Tier:** 1
+- **Category:** Italian Grand Prix / Formula 1 / Monza / Race Preview
+- **Key facts:** Sept 4-6 at Monza; Antonelli from back; Norris 6/4 favorite; Ferrari ADUO-2 debuts; Hamilton 53pts back; title race opens up; Qualifying Sept 5 15:00 BST; Race Sept 6 14:00 BST; 53 laps
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Qualifying result, race preview, race report
+
+### STORY 2: Ferrari ADUO-2 Engine Debut
+- **Tier:** 1
+- **Category:** Ferrari / Formula 1 Technical / Italian Grand Prix
+- **Key facts:** ADUO-2 cleared for Monza debut; ~15hp gain; combustion chamber + turbocharger revision + new Shell fuel; Hamilton+Leclerc receive it; NO grid penalty; ~0.2s/lap at Monza; part of 30hp two-phase plan; led by Enrico Gualtieri
+- **Status:** NEW
+- **Follow-up ideas:** Race performance, Hamilton title shot, Ferrari result
+
+### STORY 3: Antonelli Grid Penalty Confirmed
+- **Tier:** 2
+- **Category:** Kimi Antonelli / Mercedes / Italian Grand Prix / Championship
+- **Key facts:** Toto Wolff confirmed full PU change; exceeds V6+exhaust+MGU-H allocation; starts from back of 20-car grid; 59-pt lead; Mercedes logic: absorb at Monza, fresh PU for final 7 races; Russell+Hamilton penalty-free
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Grid positions after qualifying, race recovery from back
+
+### STORY 4: Monaco GP ICA Appeal
+- **Tier:** 2
+- **Category:** Monaco Grand Prix / FIA Appeal / Pierre Gasly / McLaren / Red Bull
+- **Key facts:** ICA heard Aug 25 Paris; appellants: McLaren+Red Bull; Gasly currently holds P3; FOM admitted pitlane distance measurement error; verdict 2-3 weeks (mid-September); argument: stewards exceeded remit accepting Alpine's right-to-review
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** ICA verdict, championship points impact
+
+### STORY 5: Norris Hat-Trick Bid
+- **Tier:** 2
+- **Category:** Lando Norris / McLaren / Italian Grand Prix / F1 Championship
+- **Key facts:** 2 consecutive wins; 83pts back; Antonelli starting last; McLaren strong at Monza; 6/4 favorite; if win+Antonelli P5-or-lower = 17pt swing; 11 races remain after Monza
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Qualifying pace, race result, championship gap update
+
 ## 2026-08-29
 
 | Date | Tier | Title | Platforms | Status |
