@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-08-31
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-08-31 | T1 | Wemby and France Demolish Sweden 84-69 in Record Stockholm Crowd | X(2), FB, Article | FOLLOW UP |
+| 2026-08-31 | T1 | Kawhi Leonard Trade — NBA Board of Governors Meeting Is the Key Inflection Point | X(2), FB, Article | FOLLOW UP |
+| 2026-08-31 | T2 | 29 Days to NBA Training Camp — Mathurin Officially UFA, Roster Moves Update | X(1), FB, Article | NEW/FOLLOW UP |
+| 2026-08-31 | T2 | Heat Superteam Is Built — Giannis, Bam, Klay Ready for Camp | X(1), FB, Article | FOLLOW UP |
+| 2026-08-31 | T2 | Opening Night Preview — LeBron at MSG, Knicks Raise First Banner, OKC vs SA | X(1), FB, Article | NEW |
+
+### STORY 1: Wemby/France 84-69 Sweden
+- **Tier:** 1
+- **Category:** FIBA / France National Team / Victor Wembanyama / San Antonio Spurs
+- **Key facts:** France 84-69 Sweden at Avicii Arena Stockholm Aug 30; Wemby 18/8/3blk 6-of-7 FG; Pelle Larsson 23 pts for Sweden; 14,750 fans (Sweden all-time basketball record); 15 lead changes, 7 ties; Sweden led 65-64 at 5-min mark; France 7-1 Group L
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** World Cup qualification, next France game
+
+### STORY 2: Kawhi Leonard Trade Inflection
+- **Tier:** 1
+- **Category:** NBA Transactions / Toronto Raptors / Los Angeles Clippers / Kawhi Leonard
+- **Key facts:** Trade agreed June 30 (Kawhi→Toronto for Ingram+Dick+2 1sts+1 swap); paused July 9; investigation (Wachtell, Lipton, 11th month); Kawhi personally cleared; Clippers face sanctions; Kawhi expects to be at Toronto camp (Sept 28 Quebec City); BOG meeting in September = inflection point
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** BOG sanctions ruling, trade officially cleared, Kawhi physical
+
+### STORY 3: Training Camp 29 Days
+- **Tier:** 2
+- **Category:** NBA Season Preview / Training Camp / Transactions
+- **Key facts:** Mathurin UFA (Clippers withdrew QO Aug 29); Mathurin agreed 2yr/$16M Pelicans; Konchar waived via stretch by MIN Aug 30; camps open Sept 29; preseason Oct 3; Opening Night Oct 20
+- **Status:** NEW/FOLLOW UP
+- **Follow-up ideas:** Official Mathurin signing, final roster cuts
+
+### STORY 4: Heat Superteam
+- **Tier:** 2
+- **Category:** Miami Heat / Giannis Antetokounmpo / Klay Thompson / NBA Season Preview
+- **Key facts:** 14-player roster complete; Giannis July 6 trade; Klay 2yr/$11.48M; Richards 1yr/$3.06M; Christmas vs Celtics; Giannis $275M supermax eligible Jan 6 2027
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Supermax signing, training camp chemistry
+
+### STORY 5: Opening Night Preview
+- **Tier:** 2
+- **Category:** NBA Season Preview / New York Knicks / Philadelphia 76ers / LeBron James
+- **Key facts:** Oct 20 NBC tripleheader: Sixers at Knicks MSG (7 PM), Celtics at Pistons (3 PM), OKC at SA (9:30 PM); Knicks raise first banner since 1973; LeBron+Embiid+Brown Philly debut; Sixers odds from 20-1 to 10-1; OKC vs SA = WCF rematch
+- **Status:** NEW
+- **Follow-up ideas:** Preseason results, odds movement, Opening Night preview follow-up
+
 ## 2026-08-29
 
 | Date | Tier | Title | Platforms | Status |

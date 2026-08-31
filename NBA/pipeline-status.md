@@ -1,6 +1,18 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Last Run
+- **Date**: 2026-08-31
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce)
+- **PostPlanner exports:** hh-postplanner-2026-08-31.xlsx (7 posts) + hh-postplanner-tobi-2026-08-31.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-08-31/review-dashboard.html (27 items)
+- **Notes:** WEMBY FRANCE 84-69 SWEDEN — France wins at Avicii Arena Stockholm Aug 30; Wemby 18/8/3blk 6-of-7; Pelle Larsson 23pts for Sweden; 14,750 crowd (Sweden all-time record); France 7-1 Group L; Sweden led 65-64 at 5-min mark; KAWHI BOG MEETING — Trade (Kawhi→Toronto for Ingram+Dick+2 1sts+1 swap) agreed June 30, paused July 9; investigation (Wachtell, Lipton) 11th month; Kawhi personally cleared; Clippers face sanctions; BOG meeting Sept = inflection point; Kawhi expects to be at Toronto camp Sept 28 Quebec City; CAMP 29 DAYS — Mathurin UFA (Clippers withdrew QO Aug 29); agreed 2yr/$16M Pelicans; Konchar waived via stretch by MIN Aug 30; camps open Sept 29; HEAT SUPERTEAM — 14-player roster complete; Giannis+Bam+Klay+Richards; Christmas vs Celtics; Giannis $275M supermax Jan 6 2027; OPENING NIGHT — Oct 20 NBC tripleheader: Sixers at Knicks MSG 7PM, Celtics at Pistons 3PM, OKC vs SA 9:30PM; Knicks raise first banner since 1973; LeBron debut; 76ers odds 20-1→10-1
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+### 2026-08-30
 - **Date**: 2026-08-30
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)
