@@ -5,6 +5,62 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-31
+
+### Story 1: PCA NL MVP Bid Enters September
+- **Date:** 2026-08-31
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** PCA homered in Sunday 7-5 Cubs loss to Reds. 2026 stats entering Sept: .282 BA/36HR/89RBI/97R. NL MVP odds -1100. 29 games left. Ohtani pitching return remains only real wildcard. Cubs 77-60 tied with Phillies for NL WC1/WC2 seeds.
+- **Content Produced:** Article (article-01, Ryan Calloway), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Sept 2 vs Misiorowski PCA performance
+  - Ohtani pitching return timeline
+  - Final month MVP tracking
+
+### Story 2: Misiorowski Sept 2 at Wrigley — Velocity Watch
+- **Date:** 2026-08-31
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Misiorowski starts Wed Sept 2 at Wrigley vs Cubs. Season line: 14-5/1.73 ERA/222K/0.75 WHIP/.151 BAA/37.8% whiff rate/Cy Young -1400. Velocity dip: 100.5→98.7 mph avg in recent starts. Peak: 103.7 mph fastest ever by a starter in pitch-tracking era. Brewers front office watching workload entering playoffs.
+- **Content Produced:** Article (article-02, Marcus Cole), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Sept 2 start result + velocity readings
+  - Brewers workload management decisions
+  - Postseason roster/usage planning
+
+### Story 3: Alvarez Triple Crown — 29 Games Remaining
+- **Date:** 2026-08-31
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Alvarez leads all 3 AL Triple Crown cats: .322 BA (14 pts over Simpson .308), 36 HR (Caminero + Rice each 35 — one back), 91 RBI (steadiest lead). Last AL TC winner: Cabrera 2012. 29 games left. Home run category is the most vulnerable with Caminero active in August.
+- **Content Produced:** Article (article-03, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Daily HR race tracking (Caminero/Rice gap)
+  - September BA watch (Simpson closing?)
+  - TC clinch coverage final weekend
+
+### Story 4: NL Wild Card — Cubs and Phillies Both 77-60
+- **Date:** 2026-08-31
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Cubs and Phillies enter September tied 77-60 for NL WC1/WC2 seeds. D-backs 73-65 (4 GB) hold WC3. Seeding matters: WC2 seed risks first-round vs Brewers/Misiorowski. 29 games left including direct Cubs-Phillies matchups later in September.
+- **Content Produced:** Article (article-04, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Cubs-Phillies direct matchup results
+  - D-backs closing the gap
+  - Wild Card seeding final standings
+
+### Story 5: Chourio Reaches 60 Career HR at Age 22
+- **Date:** 2026-08-31
+- **Tier:** 3
+- **Classification:** FOLLOW UP
+- **Angle:** Jackson Chourio hit his 20th HR of 2026 season — his 60th career HR — at age 22 (born March 11, 2004). Three consecutive 20-HR seasons to open career. One of youngest in MLB history to 60 career HRs. Most recent multi-HR game: Aug 27 vs Mets (4-for-5, 2 HR, 4 RBI, 4 R). 5 career multi-HR games (3 in 2026).
+- **Content Produced:** Article (article-05, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Chourio postseason performance
+  - Historical comparison tracking (youngest-ever lists)
+
 ## 2026-08-30
 
 ### Story 1: PCA Three-HR Game / NL MVP Case Cements
