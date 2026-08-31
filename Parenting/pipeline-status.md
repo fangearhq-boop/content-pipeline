@@ -1,6 +1,34 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: August 30, 2026
+## Latest Run: August 31, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Budget Baby Boost crib bumpers CPSC warning (Aug 6, 2026, ~141 units, TikTok Shop, company unresponsive); 52nd Commonwheel Art Festival (Sept 5–7, Memorial Park Manitou Springs, free, 100+ booths); D11 Power School AI rollout (2026–27, data privacy safeguards, teacher-centric); HPV vaccine study AAP Pediatrics Aug 2026 (9–10 vs 11–12 no hesitancy increase); COS PRCS fall youth sports registration open (flag football, soccer, tackle football) |
+| Story History Check | COMPLETE | All 5 stories NEW: S1 Budget Baby Boost (distinct from all prior recalls — TikTok Shop, crib bumper, company unresponsive); S2 Commonwheel (distinct from Labor Day Lift Off Aug 30 — different park/city/art vs balloons); S3 D11 AI (distinct from D11 Edukit Aug 29, D11 co-location Aug 27, D11 School of Technology prior runs); S4 HPV vaccine study (never covered); S5 fall youth sports (never covered) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (1 Tier 1, 3 Tier 2, 1 Tier 3); bylines: Jamie Rivera (S1, S3, S5), Sarah Morales (S2, S4) |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: cpsc.gov (S1), commonwheel.com/eventeny.com (S2), Fox21/Yahoo (S3), AAP Pediatrics Aug 2026 (S4), coloradosprings.gov (S5) |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows, content requirements per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 6 posts across 5 stories (2 for S1 Tier 1, 1 each for S2–S5); all ≤280 chars; 4 hashtags each; 0 exclamation marks; fixed 2 over-limit drafts flagged by verify-facts.py |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; no hashtags; engagement questions; COS voice rules applied |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only prompts (5 stories × 2 formats: 1080x1350 social + 1200x630 hero); clean bottom third; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 Budget Baby Boost Recall (Jamie Rivera, ~600 words, Tier 1, QR table); article-02 Commonwheel Festival (Sarah Morales, ~600 words, Tier 2, QR table); article-03 D11 AI Classrooms (Jamie Rivera, ~550 words, Tier 2, QR table); article-04 HPV Vaccine Study (Sarah Morales, ~650 words, Tier 2, QR table); article-05 Fall Youth Sports (Jamie Rivera, ~550 words, Tier 3, QR table) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 62 claims extracted; HIGH/MEDIUM/LOW prioritized; no X post character violations after corrections |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 6 X posts, 5 articles; posting-window warnings are known format mismatch, not errors |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries (5 stories × 2), all not_started, gemini base_only, brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 21 items; image manifest warning expected (images generated separately) |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in session's authorized repository set (403 proxy) — known recurring issue |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser compat issue — generate-postplanner-export.py finds 0 posts; ran both standard and --tobi |
+| WordPress Publish | BLOCKED | WordPress credentials not configured (WP_FANRUMOR_USERNAME / WP_FANRUMOR_APP_PASSWORD env vars not set) |
+| Story History | COMPLETE | 5 new entries appended to Parenting/story-history.md (Aug 31, 2026 section) |
+
+## Known Issues (Recurring)
+- WordPress publish: credentials not configured — articles need manual publish or env var fix
+- PostPlanner export: parser compat issue returns 0 posts every run
+- content-dashboards push: 403 proxy block (not in session authorized repo set)
+- Image manifest warnings from dashboard generator: expected (Gemini image generation is a separate step)
+
+## Previous Run: August 30, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|

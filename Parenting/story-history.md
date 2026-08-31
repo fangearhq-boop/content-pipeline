@@ -6605,3 +6605,55 @@
 - **Tier:** 3
 - **Key Facts (HIGH):** D49 Aug 3-4 start; D11 Aug 12 start; D20 Aug 17-18 start; AASM sleep hours (hopkinsmedicine.org); Sources: hopkinsmedicine.org, geisinger.org
 - **Follow-Up Opportunities:** Week 6 check-in; winter routine maintenance
+
+## August 31, 2026
+
+### Story 1: Budget Baby Boost Crib Bumpers — CPSC Warning
+- **Date:** 2026-08-31
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC issued urgent warning (Aug 6, 2026) against Budget Baby Boost padded crib bumpers sold on TikTok Shop (March–July 2026, ~$16, ~141 units). Violate federal ban on crib bumpers. Suffocation risk. Company unresponsive to CPSC requests for recall/remedy. TikTok Shop safety angle — social commerce products bypassing traditional retail safety review.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** ~141 units; TikTok Shop; March–July 2026; ~$16; blue/gray/pink/white; 197" long; suffocation hazard; company unresponsive; cpsc.gov; Sources: cpsc.gov
+- **Follow-Up Opportunities:** Update if CPSC enforcement action taken; broader social media shopping safety roundup
+
+### Story 2: 52nd Commonwheel Artists Labor Day Art Festival
+- **Date:** 2026-08-31
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (DISTINCT FROM LIFT OFF) — 52nd annual Commonwheel Art Festival at Memorial Park, Manitou Springs, Sept 5–7. Free admission, 10 AM–5 PM daily. 100+ juried fine art/craft booths, live music, kids activities, food vendors, 12,000+ annual visitors. Distinct from Labor Day Lift Off (different park, different city, art vs. balloons).
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** Dates: Sept 5–7, 2026; Location: Memorial Park, Manitou Springs; Free; 10 AM–5 PM daily; 100+ juried booths; Sources: commonwheel.com, eventeny.com
+- **Follow-Up Opportunities:** Post-event recap; winner of best-in-show
+
+### Story 3: D11 Integrates AI in Classrooms via Power School AI
+- **Date:** 2026-08-31
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — Colorado Springs School District 11 rolled out Power School AI platform for 2026–27 school year. AI supports teachers and personalized learning; data privacy safeguards in place; student data not sold or shared with third parties. Teacher-centric implementation — AI is support layer, not replacement.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (MEDIUM):** Platform: Power School AI; District: D11; 2026–27 school year; data governance by D11 policies; Sources: Fox21 News, Yahoo News
+- **Follow-Up Opportunities:** D20 or D49 AI adoption comparison; parent survey on AI in schools
+
+### Story 4: New AAP Study — HPV Vaccine at Ages 9–10 Doesn't Increase Hesitancy
+- **Date:** 2026-08-31
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — Study published in Pediatrics (AAP), August 2026, found starting HPV vaccination at ages 9–10 does not increase parental hesitancy vs. standard ages 11–12. Clinicians reported similar acceptance and questioning regardless of timing. Back-to-school well-child visit hook.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** Published: Pediatrics (AAP), Aug 2026; 9–10 vs 11–12 comparison; no hesitancy increase; 2 doses if under 15, 3 doses if 15+; Sources: AAP Pediatrics Aug 2026
+- **Follow-Up Opportunities:** Local pediatrician commentary; follow-up study at 12 months
+
+### Story 5: COS Fall Youth Sports Registration Now Open
+- **Date:** 2026-08-31
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Colorado Springs PRCS fall 2026 youth sports registration is open. Sports: flag football, youth soccer, tackle football. Registration at ColoradoSprings.gov/YouthSports. Some divisions filling quickly; earlier registration advised. Games begin after Labor Day.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 3
+- **Key Facts (HIGH):** Sports: flag football, soccer, tackle football; Organizer: Colorado Springs PRCS; Portal: ColoradoSprings.gov/YouthSports; Sources: coloradosprings.gov
+- **Follow-Up Opportunities:** Season opener coverage; registration close date follow-up
