@@ -1,7 +1,18 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
-- **Date**: 2026-08-30
+- **Date**: 2026-08-31
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish blocked — egress proxy 403 Forbidden; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres)
+- **PostPlanner exports:** gfr-postplanner-2026-08-31.xlsx (7 posts) + gfr-postplanner-tobi-2026-08-31.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-08-31/review-dashboard.html (27 items)
+- **Notes:** SCHEFFLER WINS TOUR CHAMPIONSHIP — Scheffler -16 (final-round 4-under 66); Hovland led by 3 entering Sunday, shot 2-over 72, finished -13; $10M winner's share; 2nd FedExCup (2024 + 2026); joins Tiger + Rory as only multi-FedExCup champs; 5th consecutive No. 1 seed; career earnings now $130M+ (passed Tiger's $120.9M); RUONING YIN FM CHAMPIONSHIP — Yin -14/274 (2-under 70 final); beat Hyo Joo Kim by 2; 25-ft birdie on par-5 12th to share lead; Kim 3-putted par-3 16th; Yin birdied par-5 18th to close; Corpuz T3 at -11; Rose Zhang + Sei Young Kim T4 at -10; $660K prize; 6th career LPGA title; first win in ~2 years; weather forced R2+R3 back-to-back Saturday; Miranda Wang defending (2025, -20); TPC Boston Norton MA; LIV GOLF LEAD INVESTOR — PIF officially ending after 2026 ($5B+ invested); Ted Goldthorpe (BC Partners) signed $250M+ term sheet; CEO O'Neil: close in September; LIV 2.0 = 10 events (down from 14), $15M/event (down from $30M); 50+ contracted players waiting; Norman won't guarantee 2027; Poulter uncertain; Rahm 3rd consecutive individual title + La Sasso won Indianapolis finale; SCHEFFLER CAREER MONEY RECORD — $130M+ all-time; passed Tiger's $120.9M official PGA Tour earnings; 22 wins, 2 Masters, 2 FedExCup titles, 5 straight No. 1 seeds; age 30; PGA TOUR FALL SCHEDULE — Biltmore Championship Sept 17-20 Asheville NC; Presidents Cup Sept 24-27 Medinah IL (USA vs International); Bank of Utah Championship Oct 1-4 Ivins UT
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+### 2026-08-30
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish blocked — egress proxy 403 Forbidden; dashboard publish blocked — content-dashboards repo not in session's authorized set)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)
 - **X Posts:** 7 written, all under 280 characters

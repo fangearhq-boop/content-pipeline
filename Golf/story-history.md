@@ -2,6 +2,56 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-08-31
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-08-31 | T1 | Scheffler Wins Tour Championship — Second FedExCup Title in Three Years, Passes Tiger on Career Money List | X, FB, Article | NEW |
+| 2026-08-31 | T1 | Ruoning Yin Wins FM Championship at TPC Boston — 6th Career LPGA Title with Clutch Finish | X, FB, Article | NEW |
+| 2026-08-31 | T2 | LIV Golf Secures New Lead Investor as PIF Exits — BC Partners Signs $250M+ Term Sheet for LIV 2.0 | X, FB, Article | FOLLOW UP |
+| 2026-08-31 | T2 | Scheffler Passes Tiger Woods on PGA Tour's All-Time Career Money List — $130M+ | X, FB, Article | NEW |
+| 2026-08-31 | T2 | PGA Tour Fall Schedule — Biltmore Championship, Presidents Cup at Medinah, and What Comes Next | X, FB, Article | NEW |
+
+### STORY 1: Scheffler Wins Tour Championship / FedExCup 2026
+- **Tier:** 1
+- **Category:** PGA Tour / Tour Championship / FedExCup / Scottie Scheffler / Viktor Hovland / East Lake
+- **Key facts:** Scheffler -16 (4-under 66 Sunday); Hovland -13 (led by 3, shot 72); $10M winner's share; 2nd FedExCup title (also 2024); joins Tiger Woods + Rory McIlroy (only multiple FedExCup champs); 5th consecutive No. 1 seed; career earnings now $130M+ (passed Tiger's $120.9M)
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+- **Follow-up ideas:** Presidents Cup roster; Scheffler 2026 season wrap
+
+### STORY 2: Ruoning Yin Wins FM Championship
+- **Tier:** 1
+- **Category:** LPGA Tour / FM Championship / Ruoning Yin / TPC Boston / Hyo Joo Kim
+- **Key facts:** Yin -14/274 (2-under 70 final round); beat Hyo Joo Kim by 2; 25-footer birdie on par-5 12th; Kim 3-putted par-3 16th; Yin birdied par-5 18th; Corpuz T3 at -11; Rose Zhang + Sei Young Kim T4 at -10; $660K prize; 6th career LPGA title; first win in ~2 years; weather forced R2+R3 back-to-back Saturday
+- **Byline:** Jake Torres
+- **Status:** NEW
+- **Follow-up ideas:** Yin's continued fall season performance
+
+### STORY 3: LIV Golf Lead Investor / LIV 2.0
+- **Tier:** 2
+- **Category:** LIV Golf / Business / 2027 Season / BC Partners / PIF
+- **Key facts:** PIF ends funding after 2026 ($5B+ invested since 2022); Ted Goldthorpe (BC Partners) signed $250M+ term sheet; CEO Scott O'Neil targeting September close; LIV 2.0 = 10 events (down from 14), $15M/event (down from $30M); Norman won't guarantee 2027; Poulter uncertain; Rahm has multiple years left; Jon Rahm 3rd consecutive individual title 2026; La Sasso won Indianapolis finale (team title); 50+ players contracted but uncertain
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** BC Partners deal close; player decisions for 2027
+
+### STORY 4: Scheffler Passes Tiger on Career Money List
+- **Tier:** 2
+- **Category:** PGA Tour / Scottie Scheffler / Records / Tiger Woods
+- **Key facts:** Career earnings $130M+ (passed Tiger's $120.9M); $10M FedExCup win the tipping point; 22 Tour wins; 2 Masters titles; 2 FedExCup titles; 5 consecutive No. 1 seeds; age 30; purse inflation context noted
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+- **Follow-up ideas:** Scheffler's path to Tiger's 82 wins record
+
+### STORY 5: PGA Tour Fall Schedule
+- **Tier:** 2
+- **Category:** PGA Tour / Presidents Cup / Fall Schedule / Medinah
+- **Key facts:** Biltmore Championship Sept 17-20 Asheville NC; Presidents Cup Sept 24-27 Medinah Country Club IL (USA vs International); Bank of Utah Championship Oct 1-4 Ivins UT
+- **Byline:** Jake Torres
+- **Status:** NEW
+- **Follow-up ideas:** Presidents Cup roster announcements; Biltmore field
+
 ## 2026-08-29
 
 | Date | Tier | Story | Platforms | Status |
