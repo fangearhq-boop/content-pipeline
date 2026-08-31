@@ -1,0 +1,255 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-31",
+  "compiled_at": "2026-08-31T09:22:07.519032+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Series Preview — Cubs vs Brewers 4-game at Wrigley",
+      "type": "Series preview"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Reds series recap — 1-2 vs 63-71 Reds, 3-7 in last 10",
+      "type": "Bold take"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Clay Holmes stat profile — 2.26 ERA, stopper on the mound",
+      "type": "Stat breakdown"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "September callups — Wiggins/Baez incoming Sept 1",
+      "type": "Roster news"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "WC standings + division math — 7.5 GB, 26 left",
+      "type": "Analysis"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Swanson + Steele rehab double feature",
+      "type": "Injury update"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Pre-game hype — PCA, Holmes, 6:40 PM CT",
+      "type": "Pre-game hype"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Series Preview — Cubs vs Brewers 4-Game at Wrigley",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "is_series_start_today=true, reserved 7:00 AM slot. Cubs begin 4-game home series vs Milwaukee Brewers (85-52, NL-best). Cubs 77-60, trail by 7.5 with 26 left. First pitch 6:40 PM CT tonight. Holmes vs Harrison. 7 of Cubs' next 10 against Milwaukee — season-defining stretch.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1A",
+          "text": "Cubs vs. Brewers. 4 games. Wrigley Field. First pitch 6:40 PM CT.\n\nMilwaukee is 85-52. The best record in baseball. Chicago trails by 7.5 with 26 left.\n\nClay Holmes vs. Kyle Harrison tonight. Seven of the Cubs' next 10 are against Milwaukee.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Series preview / informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Reds Series Recap — Cubs Finish 1-2, Now Face Milwaukee",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Cubs went 1-2 against a 63-71 Reds team. Game 3 loss: Reds 7-5 (Aug 30). Hector Rodriguez's 3-run HR in 4th inning erased 2-0 Cubs lead. Chase Burns 5.2 IP, 7 K. Cubs are 3-7 in last 10 games. Accountability take before biggest series of second half.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2A",
+          "text": "Cubs went 1-2 against a 63-71 Reds team.\n\nA 17-5 blowout in Game 2 doesn't cover for it. Rodriguez's 3-run shot in the 4th ended Game 3 early. Burns was sharp. The Cubs weren't.\n\n3-7 in the last 10. Milwaukee's next.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold take / accountability",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Clay Holmes — Ace Mode Ahead of Biggest Start",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Holmes (5-6, 2.26 ERA) is the trade deadline acquisition meeting his moment. Last start vs Arizona: 7 scoreless IP, 2 hits. Tonight faces Brewers (85-52, NL-best). He's the stopper this team needs.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "Clay Holmes has a 2.26 ERA since joining the Cubs at the deadline.\n\nHis last start: 7 scoreless innings against Arizona. Two hits. Zero runs.\n\nTonight he faces the team with the best record in baseball. This is exactly why they traded for him.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Stat breakdown / informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "September Callups — Wiggins, Baez Incoming Tomorrow",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Roster expansion begins September 1 (tomorrow). Wiggins: 4 hitless Iowa relief frames, 7 K in 16 batters, touches 101 mph — Cubs' No. 2 pitching prospect, CubbieCrib calls it \"obvious callup.\" Javier Baez confirmed heading up. BJ Murray (.294/.404/.499 in 451 PA at Triple-A) also in mix.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": "September rosters expand tomorrow.\n\nJaxon Wiggins: 101 mph, 7 strikeouts in 16 batters, four hitless Iowa relief frames. The Cubs' No. 2 pitching prospect is the obvious callup.\n\nJavier Baez is also heading up. The cavalry arrives at the right time.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Roster news / informative",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Wild Card Standings + Division Math",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Cubs 77-60, sharing NL WC1 with Phillies entering September. 7.5 GB in Central with 26 left — long shot but not zero. Seven of next 10 vs Milwaukee. Cardinals 67-68 practically eliminated. Rival jab at Cardinals for energy.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5A",
+          "text": "Cubs 77-60. Sharing the NL's top Wild Card with the Phillies entering September.\n\n7.5 back in the Central with 26 left. Seven of the next 10 are against Milwaukee. The math starts tonight.\n\nThe Cardinals? 67-68. Practically cooked.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Analysis / rival watch",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Swanson + Steele Rehab — Both Closing In",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "Dansby Swanson (Grade 2 oblique, IL since Aug 17) resumed defensive work Aug 28, light swinging starts this week per Counsell. Justin Steele throws live BP Tuesday and Friday in Mesa; MiLB rehab assignment is next. Two October weapons inching toward return.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6A",
+          "text": "Dansby Swanson (Grade 2 oblique, IL since Aug 17) resumed defensive work Aug 28. Light swinging starts this week.\n\nJustin Steele throws live BP Tuesday and Friday in Mesa. A MiLB rehab assignment is next.\n\nBoth could be October weapons.\n\n#Cubs #CubsBaseball #GoCubs",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Injury update / informative",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#GoCubs"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "Pre-Game Hype — PCA, Holmes, 6:40 PM CT",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Set the table for 6:40 PM first pitch. PCA (.281, 35 HR, 31 SB, 7.9 WAR — best in baseball) headlines the lineup. Holmes (2.26 ERA, 7 scoreless last time out) takes the mound. Wrigley at full volume for September stakes.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7A",
+          "text": "Pete Crow-Armstrong. .281, 35 HRs, 31 steals, 7.9 WAR — best in baseball.\n\nClay Holmes. 2.26 ERA. Seven scoreless innings his last time out.\n\n6:40 PM CT. Wrigley Field. Milwaukee brings 85 wins.\n\nLet's find out what this team is made of.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Pre-game hype / bold",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

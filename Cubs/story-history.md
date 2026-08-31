@@ -5,6 +5,68 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-08-31
+
+### STORY 1: Series Preview — Cubs vs Brewers 4-Game at Wrigley
+- **Angle:** NEW STORY (is_series_start_today=true; Cubs 77-60 host Brewers 85-52 for Game 1 of 4-game series; Holmes (5-6, 2.26 ERA) vs Harrison (10-3, 2.79 ERA); 6:40 PM CT; Cubs 7.5 GB in NL Central with 26 games left; 7 of next 10 vs MIL; has_stat applied with records)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, series preview)
+- **Follow-Up Opportunities:**
+  - Game 1 result recap (Sept 1 morning)
+  - Series result (Sept 3/4 morning)
+
+### STORY 2: Reds Series Recap — Cubs Finish 1-2 vs Cincinnati
+- **Angle:** FOLLOW UP (last covered Aug 30 as Game 3 preview; result: Reds 7, Cubs 5; Rodriguez 3-run HR; Chase Burns 5.2 IP, 7 K; Cubs now 3-7 in last 10; accountability framing heading into Brewers series)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold take)
+- **Follow-Up Opportunities:**
+  - None (series closed)
+
+### STORY 3: Clay Holmes Stat Profile — 2.26 ERA, 7 Scoreless Last Start
+- **Angle:** NEW STORY (Holmes (5-6, 2.26 ERA) acquired at deadline; last start Aug 26: 7 scoreless IP, 2 hits vs Arizona; faces Brewers (85-52) tonight as the team's ace stopper; trade-deadline acquisition moment framing)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, stat breakdown)
+- **Follow-Up Opportunities:**
+  - Post-start recap (Sept 1 morning)
+  - Holmes September run framing
+
+### STORY 4: September Callups — Wiggins, Baez Incoming (Sept 1)
+- **Angle:** FOLLOW UP (last covered Aug 30 as "obvious callup decision"; today: Sept 1 expansion is TOMORROW; Baez confirmed; Wiggins 4 hitless frames, 101 mph; BJ Murray .294/.404/.499 at Triple-A also in mix; cavalry-arrives framing)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, roster news)
+- **Follow-Up Opportunities:**
+  - Wiggins MLB debut performance
+  - Sept 1 callup announcement confirmation
+  - Wiggins October roster inclusion
+
+### STORY 5: Wild Card Standings + Division Math
+- **Angle:** FOLLOW UP (last covered Aug 30; today's angle: Cubs 77-60 sharing WC1 with Phillies entering September; 7.5 GB in Central with 26 left; Cardinals 67-68 practically cooked; seven of next 10 vs Milwaukee — math starts tonight)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, analysis/rival watch)
+- **Follow-Up Opportunities:**
+  - Cardinals WC elimination watch
+  - Cubs WC clinch magic number updates
+  - Division race tracking (Cubs need ~2-game/week improvement vs MIL)
+
+### STORY 6: Dansby Swanson + Justin Steele Rehab Double Feature
+- **Angle:** FOLLOW UP (Swanson last covered Aug 30; Steele last covered Aug 30 as bridge game; today: Swanson resumed defensive work Aug 28, light swinging this week, postseason activation goal; Steele live BP Tuesday/Friday in Mesa, MiLB rehab next; two October weapons framing)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, injury update)
+- **Follow-Up Opportunities:**
+  - Swanson light swinging update (this week)
+  - Steele MiLB rehab assignment announcement
+  - Steele Iowa rehab start performance
+  - September activations for both
+
+### STORY 7: Pre-Game Hype — PCA/Holmes/6:40 PM CT
+- **Angle:** NEW STORY (PCA .281/35 HR/31 SB/7.9 WAR leads MLB; Holmes 2.26 ERA, 7 scoreless last out; 6:40 PM CT at Wrigley; Brewers 85-52; season-defining series energy)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, pre-game hype)
+- **Follow-Up Opportunities:**
+  - Game 1 result recap
+
+---
+
 ## 2026-08-30
 
 ### STORY 1: PCA Three-Homer Game Recap — Cubs Rout Reds
