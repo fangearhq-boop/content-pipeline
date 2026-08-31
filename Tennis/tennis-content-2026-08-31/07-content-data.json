@@ -1,0 +1,321 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-31",
+  "compiled_at": "2026-08-31T12:34:57.369341+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Djokovic Falls to Navone — Historic US Open R1 Upset (TIER 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "HISTORIC UPSET: Djokovic falls to Navone at the US Open — the first time Novak has EVER lost in R1 at Flushing Meadows. 78 consecutive Grand Slam first-round wins: over. His 25th major will have to wait until 2027. #USOpen #Djokovic #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#USOpen",
+            "#Djokovic",
+            "#Tennis"
+          ],
+          "char_count": 240
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Djokovic battled illness throughout his shocking R1 exit to Navone at the US Open — vomiting courtside, fading in the final sets. He fell 7-6(5), 5-7, 4-6, 6-2, 6-1. At 39, the 25th major pursuit grows harder. #USOpen #Djokovic #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#USOpen",
+            "#Djokovic",
+            "#Tennis"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-djokovic-navone-us-open-r1-upset.html",
+        "headline": "Djokovic Stunned by Navone in Historic First-Round Exit at 2026 US Open",
+        "word_count": 616
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Djokovic story — emotional moment, court-level"
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Navone as winner for article hero"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "US Open Day 2 — Alcaraz Returns, Sabalenka Opens Three-Peat Quest (TIER 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Alcaraz is BACK. Defending US Open champion Carlos Alcaraz faces Roman Safiullin today — his first singles match since April. Four months off, 25th Grand Slam on the line. Welcome back, Carlos. #USOpen #Alcaraz #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#USOpen",
+            "#Alcaraz",
+            "#Tennis"
+          ],
+          "char_count": 218
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Sabalenka chases her 3rd straight US Open title today. Fils battles Tsitsipas. Day 2 at Flushing Meadows is absolutely stacked — and Djokovic's shock exit yesterday made the draw wide open. #USOpen #Sabalenka #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#USOpen",
+            "#Sabalenka",
+            "#Tennis"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-us-open-day-2-alcaraz-sabalenka-fils.html",
+        "headline": "US Open Day 2: Alcaraz Returns, Sabalenka Opens Three-Peat Quest, Fils Faces Tsitsipas",
+        "word_count": 582
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Alcaraz return story — action shot preferred"
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Sabalenka three-peat angle for article hero"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Williams Sisters Fall in US Open Doubles R1 (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Serena and Venus Williams are out of the US Open doubles draw after a first-round loss. Their Grand Slam reunion is over. But what a run it was — 14 major doubles titles, two US Open crowns (1999, 2009). Legends. #USOpen #WilliamsSisters #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#USOpen",
+            "#WilliamsSisters",
+            "#Tennis"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-williams-sisters-doubles-exit.html",
+        "headline": "Serena and Venus Williams Fall in First-Round US Open Doubles — A Grand Slam Farewell",
+        "word_count": 464
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Williams sisters doubles story"
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Venus article hero"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Eala Opens US Open Campaign vs. American Qualifier Stoiana (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Alexandra Eala — No. 17 seed, the highest-ever Grand Slam seeding for a Filipino player — opens her 2026 US Open campaign vs. American qualifier Mary Stoiana today. History is watching. #USOpen #Eala #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#USOpen",
+            "#Eala",
+            "#Tennis"
+          ],
+          "char_count": 207
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-eala-stoiana-us-open-r1.html",
+        "headline": "Eala Opens US Open Campaign vs. Qualifier Stoiana, Carrying Historic Seeding",
+        "word_count": 472
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Eala historic seeding story"
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Eala action for article hero"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Fils-Tsitsipas: Day 2's Must-Watch ATP Clash (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Day 2 ATP must-watch: No. 14 Arthur Fils — Cincinnati Masters champion — faces Stefanos Tsitsipas in R1. Fils leads their H2H 5-2. Can Tsitsipas flip the script? Also: Berrettini vs. Wawrinka. #USOpen #Tennis #Fils",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#USOpen",
+            "#Tennis",
+            "#Fils"
+          ],
+          "char_count": 214
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-fils-tsitsipas-us-open-r1-preview.html",
+        "headline": "Fils vs. Tsitsipas Headlines Day 2 Men's Action at 2026 US Open",
+        "word_count": 508
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Fils Cincinnati champion returning"
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Tsitsipas article hero"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

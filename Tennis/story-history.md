@@ -1975,3 +1975,50 @@ Track previously covered stories to avoid repetition and maintain content freshn
 - **Byline:** Elena Voss
 - **Key Facts:** Alcaraz vs. Safiullin Monday Aug 31 (10sballs.com, atptour.com); first match since April Barcelona; Eala vs. Stoiana Monday (philstar.com, inquirer.net); Stoiana qualified 6-3, 3-6, 6-4 vs. Yue Yuan (jontotheworld.com); Eala No. 17 seed (prior pipeline verified)
 - **Follow-Up Opportunities:** Alcaraz wrist assessment R1; Alcaraz R2+; Eala R1 result; Eala potential R4 vs. Gauff
+
+## 2026-08-31
+
+### Story 1: Djokovic Falls to Navone — Historic US Open R1 Upset
+- **Date:** 2026-08-31
+- **Angle:** FOLLOW-UP (Aug 30 S2: Djokovic vs. Navone R1 preview) — RESULT: Navone def. Djokovic 7-6(5), 5-7, 4-6, 6-2, 6-1. First-ever US Open R1 loss for Djokovic; only second R1 Grand Slam loss since 2006 Australian Open. 78 consecutive Grand Slam R1 wins ended. Djokovic played while ill, vomiting courtside. 25th major pursuit extends to 2027 (12 straight Slams without a title).
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Elena Voss
+- **Key Facts:** Score 7-6(5), 5-7, 4-6, 6-2, 6-1 (CBS Sports, CNN, ABC News, Yardbarker); first US Open R1 loss (CNN); 78 straight Grand Slam R1 wins (CBS Sports); last R1 Grand Slam loss: 2006 Australian Open (CBS Sports); illness confirmed (CBS Sports)
+- **Follow-Up Opportunities:** Navone R2 result; Djokovic statement/future; draw implications
+
+### Story 2: US Open Day 2 — Alcaraz Returns, Sabalenka Opens Three-Peat Quest
+- **Date:** 2026-08-31
+- **Angle:** FOLLOW-UP (Aug 30 S5: Alcaraz/Eala Monday preview) — Day 2 preview. Alcaraz (No. 2) vs. Safiullin — first match since April wrist injury. Sabalenka (No. 1) vs. Osorio — two-time defending champion, chasing third consecutive US Open title. Fils (No. 14) vs. Tsitsipas — ATP "match to watch." Also Berrettini vs. Wawrinka.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Ryan Calloway
+- **Key Facts:** Olympics.com Day 2 schedule; bets.com.au Alcaraz 1 PM ET; TennisConnected Day 2 preview; Safiullin R4 Wimbledon 2026 (beat Rublev, Fonseca); H2H Alcaraz-Safiullin 1-1 (SI.com)
+- **Follow-Up Opportunities:** Alcaraz R1 result; Sabalenka R1 result; Fils vs. Tsitsipas result; Day 3 preview
+
+### Story 3: Williams Sisters Fall in US Open Doubles R1
+- **Date:** 2026-08-31
+- **Angle:** FOLLOW-UP (Aug 30 S3: Williams sisters doubles announced) — Result: Serena and Venus lost R1 doubles (cbsnews.com/sacramento). Venus also lost singles R1 to Kenin Day 1. 14-time Grand Slam doubles champions; last played doubles at Grand Slam together: 2022 US Open (lost R1 to Hradecka/Noskova).
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Marcus Cole
+- **Key Facts:** R1 doubles loss (cbsnews.com/sacramento — MEDIUM confidence, single source); WTA wild card confirmed (wtatennis.com); 14 Grand Slam doubles titles; US Open wins 1999, 2009; Venus age 46 singles R1 exit to Kenin (Aug 30 pipeline)
+- **Follow-Up Opportunities:** No further doubles rounds; Serena future plans
+
+### Story 4: Eala Opens US Open Campaign vs. Qualifier Stoiana
+- **Date:** 2026-08-31
+- **Angle:** FOLLOW-UP (Aug 30 S5: Eala Monday preview) — Eala (No. 17 seed, historic highest-ever Filipino Grand Slam seeding) vs. American qualifier Mary Stoiana. Eala previously beat Stoiana 7-5, 6-2 (ITF junior). Stoiana qualified through 3 rounds. Draw quarter: Gauff (No. 4).
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Elena Voss
+- **Key Facts:** Match scheduled Monday Aug 31 (Philstar, GMA Network); Eala No. 17 (prior pipeline); Stoiana 18, qualified beating Yue Yuan (prior Aug 30 pipeline); Eala beat Stoiana 7-5, 6-2 (astig.ph — MEDIUM, ITF context)
+- **Follow-Up Opportunities:** Eala R1 result; Eala R2+ deep run; Eala vs. Gauff potential R4
+
+### Story 5: Fils-Tsitsipas: Day 2's Must-Watch ATP Clash
+- **Date:** 2026-08-31
+- **Angle:** FOLLOW-UP (Aug 28 S5: Fils draw at US Open) — Fils (No. 14, Cincinnati champion) vs. Tsitsipas R1. Fils leads H2H 5-2. Also: Berrettini vs. Wawrinka Day 2.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Marcus Cole
+- **Key Facts:** ATP Tour "matches to watch" list; H2H 5-2 Fils (tennismajors.com); Tsitsipas quote "Ready for the Challenge" (tennistemple.com); Berrettini-Wawrinka also Day 2 (ATP Tour)
+- **Follow-Up Opportunities:** Fils vs. Tsitsipas result; Berrettini vs. Wawrinka result; Fils R2+
