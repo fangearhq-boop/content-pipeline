@@ -3,6 +3,65 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-08-31
+
+### Story 1: AUSL Series 4 — Kilfoyl Crowned 2026 Champion
+- **Date:** 2026-08-31
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Lexi Kilfoyl crowned 2026 AUSL All-Star Cup individual champion. Came back from 24-point deficit (866 vs Klingler 890) to win 4-3 in Series 4 finale. Sami Williams clutch late. 3 Game MVPs (most in league). First career individual title as captain.
+- **Content Produced:** Article (article-01, Jordan Reeves), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Individual champion profile/feature
+  - AUSL season post-mortem
+  - Kilfoyl pro career outlook
+
+### Story 2: September 1 — D1 Contact Window Opens TODAY
+- **Date:** 2026-08-31
+- **Tier:** 1
+- **Classification:** FOLLOW UP (now live)
+- **Angle:** September 1 arrives — D1 contact window for Class of 2028 is open. First-hour calls reveal coaching boards. In-person window opens Sept. 9 at 7 AM ET.
+- **Content Produced:** Article (article-02, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Early commit announcements from Class of 2028
+  - September 9 in-person window opener
+  - First-wave verbal commits
+
+### Story 3: USA WNT — 12 Days to Group Oklahoma
+- **Date:** 2026-08-31
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** 12-day countdown. Roster: 7 World Games golds, 2020 Olympians Garcia + Mulipola, 10 Down Under Series veterans. Gasso coaching staff. Opens vs. No. 7 Mexico Sept. 12. Netherlands No. 6 is top-seed decider. Top 2 → Redcliffe Finals → LA28.
+- **Content Produced:** Article (article-03, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Daily countdown to Sept. 12 opener
+  - Roster previews per opponent
+  - Group-stage results coverage
+
+### Story 4: OU Fall Camp — Lowry Emerges; Gasso Leaves in 12 Days
+- **Date:** 2026-08-31
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Lowry (soph. LHP) standout in Battle Series 2.2 IP 1H 0BB 2K. Only 2 returning pitchers (Lowry + Deal). Fall opener Sept. 30. Gasso departs WNT duty Sept. 12. Berzon + Harter integration continues.
+- **Content Produced:** Article (article-04, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Fall schedule game coverage
+  - Gasso return from WNT Sept. 16
+  - Berzon vs. Lowry rotation battle
+
+### Story 5: Texas 2027 — Fall Opener 28 Days; Portal Active
+- **Date:** 2026-08-31
+- **Tier:** 3
+- **Classification:** FOLLOW UP
+- **Angle:** Fall opener Sept. 29 vs Murray State at McCombs Field (free, 28 days). Mike White hitting portal again. Kavan returns as 2x MOP. 6 of 9 starters back. Three-peat chase begins.
+- **Content Produced:** Article (article-05, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Portal additions
+  - Fall game coverage
+  - 2027 preseason rankings
+
+---
+
 ## 2026-08-30
 
 ### Story 1: AUSL Series 4 — Championship Night
