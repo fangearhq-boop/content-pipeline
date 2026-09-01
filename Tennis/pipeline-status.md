@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-08-31 |
-| Writing | Complete (all steps) | 2026-08-31 |
-| Fact-check | Complete (verify-facts.py run — 5 stories, 33 claims) | 2026-08-31 |
-| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 5 articles, 22 items) | 2026-08-31 |
-| Dashboard | Complete (review-dashboard.html, 22 items) | 2026-08-31 |
-| PostPlanner Export | 0 posts (parser compat known issue) | 2026-08-31 |
-| WordPress Publish | Attempted — proxy blocks WordPress API (same as all prior runs) | 2026-08-31 |
-| Dashboard Push | Attempted — proxy lacks write access to content-dashboards repo (same as all prior runs) | 2026-08-31 |
+| Research | Complete | 2026-09-01 |
+| Writing | Complete (all steps) | 2026-09-01 |
+| Fact-check | Complete (verify-facts.py run — 5 stories, 26 claims) | 2026-09-01 |
+| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 5 articles, 22 items) | 2026-09-01 |
+| Dashboard | Complete (review-dashboard.html, 22 items) | 2026-09-01 |
+| PostPlanner Export | 0 posts (parser compat known issue) | 2026-09-01 |
+| WordPress Publish | Attempted — proxy blocks WordPress API (same as all prior runs) | 2026-09-01 |
+| Dashboard Push | Attempted — proxy lacks write access to content-dashboards repo (same as all prior runs) | 2026-09-01 |
 
 ## Queue
 
@@ -24,6 +24,16 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-09-01 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
+- **Articles:** 5 (bylines: Ryan Calloway [S1, S4], Elena Voss [S2, S5], Marcus Cole [S3])
+- **PostPlanner exports:** 0 posts (known parser compat issue — same as prior runs)
+- **Key stories:** Alcaraz returns from 139-day absence to win R1 6-4, 6-4, 6-4 vs Safiullin (first match since April wrist injury); Tsitsipas stuns No. 10 Fils 4-6, 7-6(3), 6-1, 6-4 (second major upset after Djokovic D1; Tsitsipas was 0-5 vs Fils); Sabalenka opens three-peat bid def. Osorio 6-4, 6-4; Day 3 preview (Zverev, Gauff, Fritz, Keys, Eala all opening); Men's draw shakeup analysis (Sinner/Djokovic/Fils all gone before R2)
+- **Issues:** image manifest warning (expected for imagn source); compile posting-window warnings cosmetic (known); PostPlanner 0 posts (known parser issue); WordPress blocked by proxy; dashboard push blocked by proxy (content-dashboards not in session authorized repos)
+- **Story history:** Updated with all 5 stories
 
 ### 2026-08-31 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
