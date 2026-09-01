@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-09-01
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-01 | T1 | Clippers 'Fine' With Kawhi Staying If Trade Voided — BOG Meeting Imminent | X(2), FB, Article | FOLLOW UP |
+| 2026-09-01 | T1 | Steph Curry Fired Up for 2026-27 Warriors — Moody, Butler Health Key | X(2), FB, Article | FOLLOW UP |
+| 2026-09-01 | T2 | 28 Days to NBA Training Camp — Kings Hunt Backup PG After Westbrook Retirement | X(1), FB, Article | NEW |
+| 2026-09-01 | T2 | NBA Opening Night Oct. 20 — Knicks Banner Night, LeBron's MSG Debut With Sixers | X(1), FB, Article | FOLLOW UP |
+| 2026-09-01 | T2 | France 7-1 and Rolling — Wemby's FIBA World Cup Dream Comes Into Focus | X(1), FB, Article | FOLLOW UP |
+
+### STORY 1: Clippers 'Fine' With Kawhi Staying If Trade Voided
+- **Tier:** 1
+- **Category:** NBA Transactions / Toronto Raptors / Los Angeles Clippers / Kawhi Leonard
+- **Key facts:** Clippers reportedly "fine" with Kawhi staying if NBA voids trade; trade: Kawhi→Toronto for Ingram+Dick+2031+2033 1sts+2027 swap+2 2nds (agreed June 30, paused July 9); investigation (Wachtell, Lipton) 11 months in; Kawhi personally cleared; Clippers face sanctions; BOG meeting September = key inflection point; Toronto camp Sept 28 Quebec City
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** BOG sanctions ruling, trade officially cleared or voided, Kawhi camp appearance
+
+### STORY 2: Steph Curry Fired Up for 2026-27 Warriors
+- **Tier:** 1
+- **Category:** NBA Contracts / Golden State Warriors / Stephen Curry
+- **Key facts:** Curry signed 1yr/$62.6M extension (first player to earn $60M+ in single season); enters 18th Warriors season; "There's a lot of health coming back" — Moody + Butler returning from injuries; Warriors missed 2026 playoffs; open Oct. 21 vs. Lakers at Chase Center
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Training camp performance, Butler/Moody health updates, opening week results
+
+### STORY 3: 28 Days to NBA Training Camp — Kings Hunt Backup PG
+- **Tier:** 2
+- **Category:** NBA Season Preview / Training Camp / Sacramento Kings
+- **Key facts:** Veterans report Sept 28; camps open Sept 29; preseason Oct 3; Opening Night Oct 20; Kings need veteran PG after Westbrook retired (Acuff Jr. is starter); Hornets need 2+ roster moves
+- **Status:** NEW
+- **Follow-up ideas:** Kings PG signing, final roster moves, camp opens
+
+### STORY 4: NBA Opening Night Oct. 20 — Knicks Banner Night
+- **Tier:** 2
+- **Category:** NBA Season Preview / New York Knicks / LeBron James / Philadelphia 76ers
+- **Key facts:** Oct 20 NBC tripleheader (first ever 3 Tip-Off games on one network); BOS at DET 3PM; PHI at NYK 7PM (Knicks first banner since 1973; LeBron+Brown Sixers debut at MSG); OKC vs SA 9:30PM (WCF rematch); all on NBC/Peacock
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Opening Night preview coverage, training camp storylines
+
+### STORY 5: France 7-1 — Wemby's FIBA World Cup Dream
+- **Tier:** 2
+- **Category:** FIBA / France National Team / Victor Wembanyama / San Antonio Spurs
+- **Key facts:** France 7-1 Group L after 84-69 Sweden win (Aug 30); Wemby: 18/8/3blk 6-of-7 FG; Larsson 23 for Sweden; 14,750 (Sweden all-time record); France's World Cup path looking strong; Wemby returns to NBA camp Sept 29
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** World Cup qualification, next France game, Wemby camp with Spurs
+
 ## 2026-08-31
 
 | Date | Tier | Title | Platforms | Status |

@@ -1,6 +1,18 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Last Run
+- **Date**: 2026-09-01
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** hh-postplanner-2026-09-01.xlsx (7 posts) + hh-postplanner-tobi-2026-09-01.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-09-01/review-dashboard.html (27 items)
+- **Notes:** KAWHI BOG — Clippers "fine" with Kawhi staying if trade voided (HoopsHype Aug 28); BOG meeting September key inflection point; Kawhi+Raptors still operating as if trade completes; Toronto camp Sept 28 Quebec City; CURRY WARRIORS — Signed 1yr/$62.6M extension (Aug 29, first $60M+ single-season player); excited for 2026-27; "lot of health coming back" (Moody+Butler from injuries); Warriors missed 2026 playoffs; open Oct 21 vs Lakers; 28 DAYS — Veterans report Sept 28, camps open Sept 29, preseason Oct 3; Kings need backup PG after Westbrook retirement; Hornets need 2+ roster moves; OPENING NIGHT — Oct 20 NBC tripleheader (3PM BOS@DET, 7PM PHI@NYK banner night LeBron debut, 9:30PM OKC vs SA WCF rematch); WEMBY FRANCE — 7-1 Group L after 84-69 Sweden; Wemby 18/8/3blk 6-of-7; World Cup path strong
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+### 2026-08-31
 - **Date**: 2026-08-31
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)
