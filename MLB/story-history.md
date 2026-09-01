@@ -5,6 +5,64 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-09-01
+
+### Story 1: PCA August Was Historic — September Decides the MVP
+- **Date:** 2026-09-01
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** PCA posted 14 HR and 1.098 OPS in 27 August games. Enters September at .283/38HR/91RBI/32SB. Cubs 78-60. NL MVP frontrunner with Ohtani as primary challenger. September closes the case.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - PCA September stats tracking toward 40 HR
+  - MVP ballot release timing
+  - Cubs Wild Card seeding final stretch
+
+### Story 2: Misiorowski Tomorrow at Wrigley — Sept 2 Start
+- **Date:** 2026-09-01
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Misiorowski (13-5/1.73 ERA/222K/0.755 WHIP) starts Sept 2 at Wrigley vs Cubs. NL Cy Young frontrunner vs NL MVP frontrunner. Velocity dip (100.5→98.7 mph) subplot. Historic feats: first since Gooden with 25 straight starts ≤3 ER; 2nd fastest to 200 K in MLB history.
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Sept 2 start results
+  - Velocity dip progression in September
+  - Cy Young odds movement
+
+### Story 3: Alvarez Triple Crown — 28 Games Left
+- **Date:** 2026-09-01
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Alvarez leads all 3 AL Triple Crown categories: .322 BA (14 pts ahead of Simpson), 36 HR (1 ahead of Caminero and Rice), 91 RBI (tied with Alonso). HR lead is razor-thin. Last winner: Cabrera 2012. 28 games left.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Daily HR tracker (Caminero, Rice as challengers)
+  - September RBI race (Alonso tied)
+  - Final two weeks Triple Crown confirmation
+
+### Story 4: D-Backs Take Third Wild Card — Cubs, Phillies Locked at 78-60
+- **Date:** 2026-09-01
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Arizona surged past San Diego on Aug 31 for third NL WC spot. Cubs + Phillies tied at 78-60 for top 2 seeds. Cubs primary goal: avoid Milwaukee in Round 1. Padres half game back of Arizona.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Arizona vs San Diego third-spot race
+  - Cubs vs Phillies seeding battle
+  - Brewers final record and No. 1 seed confirmation
+
+### Story 5: Chourio 20 HR / Enters Legendary Company
+- **Date:** 2026-09-01
+- **Tier:** 3
+- **Classification:** FOLLOW UP
+- **Angle:** Chourio hit 20th HR of 2026 on Aug 29, becoming 17th player in MLB history with 20+ HR in each of first 3 seasons. Historical company: Williams, Mathews, Mantle, Robinson, Cepeda (all HOF). Second Brewer after Braun. Age 22.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Chourio final 2026 HR total
+  - Brewers No. 1 seed clinch
+
+---
+
 ## 2026-08-31
 
 ### Story 1: PCA NL MVP Bid Enters September

@@ -1,0 +1,281 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-01",
+  "compiled_at": "2026-09-01T10:35:01.198772+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "PCA's August Was Historic — Now September Decides the MVP (TIER 1 — FOLLOW UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Pete Crow-Armstrong in August: 14 HR. 1.098 OPS. 27 games. He enters September at .283, 38 HR, 91 RBI, 32 SB — and the NL MVP conversation is basically over unless Ohtani proves otherwise. #Cubs #NLMVPRace",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#NLMVPRace"
+          ],
+          "char_count": 205
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Cubs are 78-60. PCA has 38 HR and 91 RBI. 28 games left. September decides NL MVP. No one else in the National League is even close to this kind of two-way impact right now. #Cubs #MVP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MVP"
+          ],
+          "char_count": 184
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-pca-august-report-card-september-mvp.html",
+        "headline": "Pete Crow-Armstrong's August Was Historic. September Decides the MVP.",
+        "word_count": 515
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Misiorowski Tomorrow at Wrigley — The Sept 2 Start (TIER 1 — FOLLOW UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Jacob Misiorowski (13-5, 1.73 ERA, 222 K, 0.755 WHIP) pitches at Wrigley tomorrow. NL Cy Young frontrunner vs the Cubs. The most anticipated start of the second half. #Brewers #CyYoung",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#CyYoung"
+          ],
+          "char_count": 184
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Misiorowski's fastball has dropped from 100.5 to 98.7 mph this season. Results haven't changed. But with 28 games left and NL Cy Young on the table, every start is a referendum. He goes tomorrow at Wrigley. #Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers"
+          ],
+          "char_count": 215
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-misiorowski-sept-2-wrigley-cy-young.html",
+        "headline": "Misiorowski Takes the Mound at Wrigley Tomorrow. The Cy Young Race Watches.",
+        "word_count": 541
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Alvarez Triple Crown — 28 Games Left (TIER 2 — FOLLOW UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Yordan Alvarez entering September: .322 BA (14 pts ahead), 36 HR (1 ahead of Caminero and Rice), 91 RBI (tied with Alonso). 28 games. Last Triple Crown: Cabrera 2012. This is as close as it gets. #Astros #TripleCrown",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Astros",
+            "#TripleCrown"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-yordan-alvarez-triple-crown-28-games.html",
+        "headline": "Yordan Alvarez Is Leading Every Triple Crown Category. 28 Games Left.",
+        "word_count": 517
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "D-Backs Take Third Wild Card from Padres — Cubs, Phillies Locked at 78-60 (TIER 2 — FOLLOW UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Arizona took the third NL Wild Card spot from San Diego on Sunday. Cubs and Phillies both sit at 78-60. 28 games left. The NL postseason picture is starting to lock in — and the Cubs still want to avoid Milwaukee in Round 1. #Cubs #NLWildCard",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#NLWildCard"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-nl-wild-card-dbacks-take-third-cubs-phillies-tied.html",
+        "headline": "Arizona Takes Third Wild Card. Cubs and Phillies Tied at 78-60. 28 Games Left.",
+        "word_count": 522
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Chourio's 20 HR Enter Ted Williams Territory (TIER 3 — FOLLOW UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Jackson Chourio just became one of 17 players in MLB history with 20+ HR in each of his first 3 seasons. The others: Ted Williams, Eddie Mathews, Mickey Mantle, Frank Robinson, Cepeda. All in the Hall of Fame. Chourio is 22. #Brewers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#MLB"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-chourio-20hr-three-seasons-legendary-company.html",
+        "headline": "Jackson Chourio Just Joined Ted Williams, Mickey Mantle, and Three Other Hall of Famers",
+        "word_count": 536
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 6
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
