@@ -2,6 +2,56 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-09-01
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-01 | T1 | Scheffler Wins Tour Championship — Passes Tiger Woods in Career PGA Tour Earnings ($130M+) | X, FB, Article | FOLLOW UP |
+| 2026-09-01 | T1 | Presidents Cup 2026 — Captain's Picks Revealed; Team USA Headed to Medinah With Scheffler Anchoring | X, FB, Article | FOLLOW UP |
+| 2026-09-01 | T2 | LIV Golf 2.0 — BC Partners Deal Closing in September; Players to Become Majority Equity Holders | X, FB, Article | FOLLOW UP |
+| 2026-09-01 | T2 | PGA Tour Fall Schedule — Biltmore Championship, Presidents Cup at Medinah, Bank of Utah Next | X, FB, Article | FOLLOW UP |
+| 2026-09-01 | T2 | Solheim Cup 2026 — USA vs. Europe in the Netherlands (Sept 11-13); First-Time Host Country | X, FB, Article | NEW |
+
+### STORY 1: Scheffler Wins Tour Championship / Career Earnings Record
+- **Tier:** 1
+- **Category:** PGA Tour / Tour Championship / FedExCup / Scottie Scheffler / Viktor Hovland / East Lake
+- **Key facts:** Scheffler -16 (4-under 66 Sunday); Hovland -13 (led by 3 entering Sunday, shot 2-over 72); $10M winner's share; $40M total purse; East Lake GC Atlanta; 22nd PGA Tour win; 3rd win of 2026 (American Express, FedEx St. Jude, Tour Championship); 2nd FedExCup title (2024 + 2026); joins Tiger Woods + Rory McIlroy as only multi-FedExCup champions; 5th consecutive No. 1 seed (unprecedented); career earnings $130M+ (passed Tiger's $120.9M official PGA Tour earnings); age 30
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Presidents Cup performance; 2026 season wrap; career trajectory
+
+### STORY 2: Presidents Cup 2026 — Captain's Picks Announced
+- **Tier:** 1
+- **Category:** Presidents Cup / Team USA / Medinah / Brandt Snedeker / Geoff Ogilvy / Scottie Scheffler
+- **Key facts:** Captain's picks announced Aug 31; 12-man rosters complete; Sept 24-27 Medinah CC Medinah IL; Course No. 3 par-72 7,657 yds (redesigned OCM 2024); USA Captain Brandt Snedeker; International Captain Geoff Ogilvy; Known USA: Scheffler, Young, Clark, Burns, Henley, Morikawa + 6 captain's picks; 30 matches (9 foursomes, 9 fourball, 12 singles); practice rounds Sept 22-23; USA motivated by 2025 Ryder Cup loss
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Team matchups; pairings strategy; USA vs. International preview
+
+### STORY 3: LIV Golf 2.0 / BC Partners Deal
+- **Tier:** 2
+- **Category:** LIV Golf / BC Partners / Scott O'Neil / Jon Rahm / PIF / Greg Norman / Ian Poulter
+- **Key facts:** PIF ending involvement after 2026 (invested $5B+); CEO O'Neil: deal "signed and approved by board"; closing expected September 2026; BC Partners credit division leading (~$250M); LIV 2.0: 10 events (down from 14); 5 US / 5 international; purses reduced; players become "majority equity holders" (O'Neil: "first for a major global sports league"); Norman won't guarantee 2027; Poulter: "time might run out"; 50+ players under contract; Jon Rahm 3rd consecutive LIV individual title; La Sasso won Indianapolis finale
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Deal closing confirmation; player commitment decisions; LIV 2027 schedule
+
+### STORY 4: PGA Tour Fall Schedule
+- **Tier:** 2
+- **Category:** PGA Tour / Fall Schedule / Biltmore Championship / Presidents Cup / Bank of Utah Championship
+- **Key facts:** Tour Championship concluded Aug 30; Biltmore Championship Sept 17-20 The Cliffs at Walnut Cove Asheville NC; Presidents Cup Sept 24-27 Medinah CC (team event); Bank of Utah Championship Oct 1-4 Ivins UT; fall schedule follows FedEx Cup Playoffs with different atmosphere
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Biltmore field and preview; Bank of Utah preview
+
+### STORY 5: Solheim Cup 2026
+- **Tier:** 2
+- **Category:** Solheim Cup / LPGA / LET / Team USA / Team Europe / Netherlands / Ruoning Yin
+- **Key facts:** Sept 11-13 's-Hertogenbosch (Den Bosch) Netherlands; first time Netherlands hosts; USA vs. Europe; 14 players per team (LPGA + LET); biennial competition; Ruoning Yin won FM Championship Aug 30 at TPC Boston (-14/274, 2-under 70 final, beat Hyo Joo Kim by 2, $660K, 6th career LPGA title); LPGA 2026: 77th edition 31 events; next LPGA: Walmart NW Arkansas Championship Sept 25-27 Rogers AR
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+- **Follow-up ideas:** Team rosters; match results; Solheim Cup recap
+
 ## 2026-08-31
 
 | Date | Tier | Story | Platforms | Status |

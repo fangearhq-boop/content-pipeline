@@ -1,7 +1,18 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
-- **Date**: 2026-08-31
+- **Date**: 2026-09-01
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish blocked — egress proxy 403 Forbidden; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway)
+- **PostPlanner exports:** gfr-postplanner-2026-09-01.xlsx (7 posts) + gfr-postplanner-tobi-2026-09-01.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-09-01/review-dashboard.html (27 items)
+- **Notes:** SCHEFFLER TOUR CHAMPIONSHIP — Scheffler -16 (4-under 66 Sunday); Hovland -13 (led by 3 entering Sunday, shot 2-over 72); $10M winner's share; $40M total purse; 22nd PGA Tour win; 3rd win of 2026 (American Express, FedEx St. Jude, Tour Championship); 2nd FedExCup title (2024 + 2026); joins Tiger + Rory as only multi-FedExCup champions; 5th consecutive No. 1 seed (unprecedented); career earnings $130M+ (passed Tiger's $120.9M); age 30; PRESIDENTS CUP — captain's picks announced Aug 31; rosters complete; Sept 24-27 Medinah CC Medinah IL; Course No. 3 par-72 7,657 yds (redesigned OCM 2024); USA Captain Snedeker; International Captain Ogilvy; Known USA: Scheffler, Young, Clark, Burns, Henley, Morikawa + 6 picks; 30 matches (9 foursomes, 9 fourball, 12 singles); practice Sept 22-23; USA motivated by 2025 Ryder Cup loss; LIV GOLF 2.0 — PIF ending after 2026 ($5B+ invested); O'Neil: deal "signed and approved"; BC Partners credit division leading (~$250M); 10 events (5 US / 5 international); purses reduced; players become "majority equity holders"; Norman won't guarantee 2027; Poulter: "time might run out"; 50+ contracted; Rahm 3rd consecutive LIV individual title; La Sasso won Indianapolis finale; PGA FALL SCHEDULE — Biltmore Championship Sept 17-20 Asheville NC; Presidents Cup Sept 24-27 Medinah IL; Bank of Utah Championship Oct 1-4 Ivins UT; SOLHEIM CUP — Sept 11-13 's-Hertogenbosch Netherlands (first-time host); USA vs. Europe; 14 players per team; Ruoning Yin won FM Championship Aug 30 (-14, 6th LPGA title, $660K); next LPGA: Walmart NW Arkansas Sept 25-27 Rogers AR
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+### 2026-08-31
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish blocked — egress proxy 403 Forbidden; dashboard publish blocked — content-dashboards repo not in session's authorized set)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)
 - **X Posts:** 7 written, all under 280 characters
