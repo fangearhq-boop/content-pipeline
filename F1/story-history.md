@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-09-01
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-01 | T1 | Italian GP Final Preview — Antonelli Starts Last, Norris Chases Hat-Trick | X(2), FB, Article | NEW |
+| 2026-09-01 | T1 | Ferrari ADUO-2 Debuts at Monza — Hamilton and Leclerc Get +15hp | X(2), FB, Article | NEW |
+| 2026-09-01 | T2 | F1 2026 Championship Battle — Antonelli's 59-Point Lead Under Threat at Monza | X(1), FB, Article | FOLLOW UP |
+| 2026-09-01 | T2 | Monaco Appeal — Gasly P3 Still in Limbo, ICA Verdict Expected Mid-September | X(1), FB, Article | FOLLOW UP |
+| 2026-09-01 | T2 | F1 Season Finale — Qatar and Abu Dhabi Under Review, Europe Contingency Ready | X(1), FB, Article | NEW |
+
+### STORY 1: Italian GP Preview — Antonelli Starts Last, Norris Hat-Trick
+- **Tier:** 1
+- **Category:** F1 / Italian Grand Prix / Kimi Antonelli / Lando Norris / Mercedes / McLaren
+- **Key facts:** Italian GP Sept 4-6 Monza; Qual Sept 5 15:00 BST; Race Sept 6 14:00 BST; Antonelli starts 20th (strategic full PU penalty); 59-pt lead; Norris 6/4 favourite (back-to-back wins); Ferrari ADUO-2 debut + Schumacher livery; 53 laps 5.793km
+- **Status:** NEW
+- **Follow-up ideas:** Qualifying result, race result, title picture post-Monza
+
+### STORY 2: Ferrari ADUO-2 Debut at Monza
+- **Tier:** 1
+- **Category:** F1 / Ferrari / Technical / Lewis Hamilton / Charles Leclerc
+- **Key facts:** ADUO-2: ~15hp; new turbocharger+combustion chamber+Shell fuel; Hamilton+Leclerc both receive; no penalties; paired with F310-inspired Schumacher tribute livery (30th anniversary 1996 first season); Ferrari 53pts back in Constructors'; Phase 1 of 2-phase 30hp program
+- **Status:** NEW
+- **Follow-up ideas:** ADUO-2 performance in practice/qualifying, race result
+
+### STORY 3: F1 2026 Championship Standings — Monza Inflection
+- **Tier:** 2
+- **Category:** F1 / Championship / Kimi Antonelli / Lando Norris / George Russell / Lewis Hamilton
+- **Key facts:** Antonelli 242, Russell 183, Hamilton 183, Norris 159; Antonelli starts last; Norris favourite; max 25pt swing possible; 7 races remaining after Monza
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Post-race standings update
+
+### STORY 4: Monaco Appeal — Gasly P3 Pending
+- **Tier:** 2
+- **Category:** F1 / Monaco GP / Pierre Gasly / Alpine / ICA Appeal
+- **Key facts:** Race June 7; Gasly demoted P3→P7 then restored to P3 via right of review (FOM timing error); McLaren+Red Bull appealed; ICA hearing Aug 25 Paris; verdict pending mid-September; if Gasly loses: Hadjar (Red Bull) regains P3
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** ICA verdict announcement, points redistribution
+
+### STORY 5: F1 Calendar — Qatar/Abu Dhabi Review
+- **Tier:** 2
+- **Category:** F1 / Calendar / Season Planning
+- **Key facts:** 2026 calendar already 22 races (24 planned; Bahrain+Saudi removed); Qatar+Abu Dhabi under review (Mid-East conflict); mid-September F1 deadline; contingency: season ends in Europe; Italy Sept 4-6; Madrid (debut) Sept 12-14; Baku Sept 24-26
+- **Status:** NEW
+- **Follow-up ideas:** Mid-September F1 decision announcement on Qatar/Abu Dhabi
+
 ## 2026-08-31
 
 | Date | Tier | Title | Platforms | Status |
