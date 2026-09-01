@@ -2,6 +2,55 @@
 
 ---
 
+## September 1, 2026
+
+### Story 1: HARPPA Nordi Toddler Tower Stool Recall
+- **Date:** 2026-09-01
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recall of HARPPA HANS0002 Nordi Toddler Tower Stool (47,166 units). Entrapment, fall, and strangulation hazards: torso can fit through side openings, tower can collapse, wood/rope combination creates strangulation risk. Remedy: free repair kit from harppababy.com. Sold Amazon and harppababy.com Sept 2023–June 2026, ~$130. 3 collapse reports, 2 injuries.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 2 X Posts + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** 47,166 units; model HANS0002 on label under platform; sold ~$130 Sept 2023–June 2026; free repair kit via harppababy.com; 3 collapses, 2 injuries
+
+### Story 2: Target Cat & Jack Toddler Sandal Recall
+- **Date:** 2026-09-01
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recall of Target Cat & Jack toddler girls' sandals (~211,000 pairs). Decorative plastic pearls detach, choking hazard. Sizes 5T–12T, tan/raffia/gold buckle design. Sold Target stores and Target.com Jan–May 2026, ~$20. Full refund at any Target store or by mail. 23 reports, no injuries.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 2 X Posts + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** ~211,000 pairs; sizes 5T–12T; tan/raffia/gold buckle/pearls; sold Jan–May 2026 at Target; ~$20; full refund; 1-800-591-3869 (7 AM–10 PM CT)
+
+### Story 3: Pikes Peak Regional Airshow Sept. 19–20
+- **Date:** 2026-09-01
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Pikes Peak Regional Airshow returns to Colorado Springs Airport Sept. 19–20, 2026. F-35A demo (2 PM daily), Wings of Blue, WWII warbirds, kid zones. Gates 8:30 AM, flying 11 AM. Tickets: kids $42.18, adults $53.20, preferred seating $80.75, VIP Canteen $204.17. Advance ticket purchase recommended (event sells out).
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 1 X Post + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** Sept 19–20, 2026; 7330 Embraer Heights COS Airport; kids $42.18, adults $53.20; gates 8:30 AM; flying 11 AM; F-35A 2 PM; PPAirShow.org
+
+### Story 4: D49 Opens Two New Preschool Classrooms
+- **Date:** 2026-09-01
+- **Content Pillar:** Local Schools
+- **Angle:** NEW STORY — Falcon School District 49 opened 2 new preschool classrooms at Student Success Center for 2026–27 school year, expanding early childhood options in east Colorado Springs. Context on D11 CPP, D20 preschool, and CCAP for private options.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 1 X Post + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** D49 Student Success Center; east Colorado Springs; enrollment: d49.org
+
+### Story 5: September Peak Asthma Season — COS Kids
+- **Date:** 2026-09-01
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — September is peak asthma month for children; COS at 6,035 ft adds altitude + ragweed + wildfire smoke on top of national factors (rhinovirus, mold). AAP checklist: rescue inhaler in backpack, backup at school nurse, asthma action plan on file. D11/D20/D49 nurses can help. El Paso County PH 719-578-3199.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 1 X Post + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** COS at 6,035 ft; El Paso County Public Health 719-578-3199; airnow.gov for air quality
+
+---
+
 ## August 23, 2026
 
 ### Story 1: New 2026 Study Links 4+ Hours of Daily Screen Time to Higher Anxiety and Depression in Kids

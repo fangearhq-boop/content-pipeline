@@ -1,6 +1,34 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: August 31, 2026
+## Latest Run: September 1, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | HARPPA Nordi Toddler Tower Stool CPSC recall (47,166 units, model HANS0002, entrapment/fall/strangulation, free repair kit); Target Cat & Jack toddler sandal recall (211,000 pairs, sizes 5T–12T, choking hazard, full refund); Pikes Peak Regional Airshow Sept 19–20 (F-35A, Wings of Blue, WWII warbirds, $42.18 kids); D49 opens 2 new preschool classrooms at Student Success Center; September peak asthma season COS context (6,035 ft, ragweed, wildfire smoke) |
+| Story History Check | COMPLETE | All 5 stories NEW: S1 HARPPA recall (distinct from all prior recalls — Nordi tower stool, specific model HANS0002); S2 Target sandal recall (distinct from all prior recalls — Cat & Jack toddler girls, pearls/choking); S3 Pikes Peak Airshow (not previously covered this season); S4 D49 preschool expansion (distinct from D49 BASE49/enrollment articles — specific new classrooms at Student Success Center); S5 September asthma (never covered — new seasonal health story) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Jamie Rivera (S1, S3, S5), Sarah Morales (S2, S4) |
+| Research Notes | COMPLETE | 01-research-notes.md |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows, content requirements per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories (2 for each Tier 1, 1 each for Tier 2); all ≤280 chars after fixing 2 violations; 4 hashtags each; 0 exclamation marks |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only prompts |
+| Articles (5) | COMPLETE | article-01 HARPPA Recall (Jamie Rivera); article-02 Target Sandal Recall (Sarah Morales); article-03 Pikes Peak Airshow (Jamie Rivera); article-04 D49 Preschool (Sarah Morales); article-05 September Asthma (Jamie Rivera) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 82 claims; HIGH/MEDIUM/LOW prioritized; 2 X post char violations found and fixed (S2 tweet #1 281→227 chars; S5 tweet #1 285→255 chars) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries (5 stories × 2), all not_started, gemini base_only, model gemini-2.5-flash-image, brand kit kAHCKfCZgk0 |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 articles; posting-window warnings are known format mismatch, not errors |
+| Review Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in session's authorized repository set (403 proxy) — known recurring issue |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser compat issue — generate-postplanner-export.py finds 0 posts; ran both standard and --tobi |
+| WordPress Publish | BLOCKED | WordPress API proxy returns 403 Forbidden — known recurring issue |
+| Story History | COMPLETE | 5 new entries added to Parenting/story-history.md (September 1, 2026 section) |
+
+## Known Issues (Recurring)
+- WordPress publish: 403 proxy block — all 5 articles queued as drafts, pending manual publish or proxy fix
+- PostPlanner export: parser compat issue returns 0 posts every run
+- content-dashboards push: 403 proxy block (not in session authorized repo set)
+- Image manifest warnings from dashboard generator: expected (Gemini image generation is a separate step)
+
+## Previous Run: August 31, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|
