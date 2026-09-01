@@ -3,6 +3,61 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-09-01
+
+### Story 1: September 1 — D1 Contact Window NOW OPEN
+- **Date:** 2026-09-01
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** September 1 contact window officially open for Class of 2028. First D1 calls going out. First-hour signal analysis. In-person window Sept 9 at 7 AM ET.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Sept 9 in-person window opener
+  - First major commits from Class of 2028
+
+### Story 2: Kilfoyl — AUSL Champion to Team USA
+- **Date:** 2026-09-01
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Kilfoyl crowned AUSL champion (Aug 30), now 11 days from suiting up for USA WNT at Group Oklahoma in OKC. AUSL-to-WNT pipeline. Valerie Garcia, Dejah Mulipola also on roster.
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - USA WNT Group Oklahoma results (Sept 12-16)
+  - Kilfoyl international performance
+
+### Story 3: USA WNT — 11 Days to Group Oklahoma
+- **Date:** 2026-09-01
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** USA opens Sept 12 vs No. 7 Mexico. Netherlands (No. 6) = top-seed decider. Top 2 advance to Redcliffe, QLD (April 5-11, 2027) LA28 qualifier. Gasso's 16-player roster: 7 World Games gold, 2 Olympians, 10 Down Under vets.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Group Oklahoma daily results (Sept 12-16)
+  - USA vs Netherlands top-seed matchup
+
+### Story 4: OU Fall Camp — Gasso Departs in 11 Days
+- **Date:** 2026-09-01
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Audrey Lowry standout (2.2 IP/1H/0BB/2K), only 2 returning pitchers (Lowry + Deal). Berzon (2x AA LSU) and Harter (.346 MTSU) integrating. Gasso leaves Sept 12 for WNT. Fall opener Sept 30 (29 days). USAO/Seminole State/ETAM opponents.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - OU fall opener Sept 30 at Love's Field
+  - Berzon and Harter progress post-Gasso departure
+
+### Story 5: Texas 2027 — Fall Opener 28 Days; Three-Peat Chase Begins
+- **Date:** 2026-09-01
+- **Tier:** 3
+- **Classification:** FOLLOW UP
+- **Angle:** Texas opens Sept 29 vs Murray State at McCombs Field (free, 6 PM CT). Closes Nov 6 at A&M. White portal-active. Kavan returns (2x WCWS MOP, only in history). 6 of 9 starters back. Three-peat historical rarity: only UCLA (1988-90) and OU (2021-23).
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Texas fall opener (Sept 29)
+  - Transfer portal additions
+  - 2028 class first commits
+
+---
+
 ## 2026-08-31
 
 ### Story 1: AUSL Series 4 — Kilfoyl Crowned 2026 Champion
