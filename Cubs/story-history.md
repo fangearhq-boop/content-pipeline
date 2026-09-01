@@ -5,6 +5,55 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-09-01
+
+### STORY 1: Recap — Cubs 17-3 Brewers, Franchise-Record 9 HRs, Bregman 3 HRs
+- **Angle:** NEW STORY (Alex Bregman 3 HRs/6 RBIs; 9 Cubs total homered — franchise record; Clay Holmes 6 scoreless IP; Cubs capped August with 62 HRs — NL record, 2nd in MLB history behind 2019 Yankees; led with Bregman/record angle per has_score=False insight)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - No direct follow-up (milestone capped)
+
+### STORY 2: Game 2 Preview — Boyd vs Gasser, 6:40 PM CT at Wrigley
+- **Angle:** NEW STORY (Boyd 8-3/3.99 ERA vs Gasser 4-5/4.59 ERA; Gasser's lone Cubs start was 6 scoreless IP, no decision 2024; midday slot per midday_12_18 winner insight)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Game 2 result recap (Sept 2 morning)
+
+### STORY 3: September Callups — BJ Murray Jr. Officially a Cub
+- **Angle:** FOLLOW UP (last covered Aug 31 as "Wiggins/Baez incoming"; today: Sept 1 expansion official; BJ Murray Jr. .294/.395/.500/16 HR in 118 Triple-A games confirmed; Wiggins not yet officially called up; Murray utility profile framing)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, roster news)
+- **Follow-Up Opportunities:**
+  - Jaxon Wiggins official callup announcement
+  - Murray MLB debut performance
+  - September roster utilization
+
+### STORY 4: Cubs Hit 62 HRs in August — NL Record
+- **Angle:** NEW STORY (62 HRs in August = NL record for most in a calendar month; 2nd in MLB history behind 2019 Yankees' 74; 4th team ever to hit 60+ in a month; standalone historical milestone separate from game recap)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, historical milestone)
+- **Follow-Up Opportunities:**
+  - None (milestone complete)
+
+### STORY 5: Wild Card Standings — Cubs Hold WC Spot, Cardinals Fading
+- **Angle:** FOLLOW UP (last covered Aug 31; today: Cubs 78-60 holding WC spot; Cardinals 68-70 on outside; 7 GB behind MIL with 25 to play; division math framing with rival jab)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, analysis/rival watch)
+- **Follow-Up Opportunities:**
+  - Cardinals WC elimination watch
+  - Cubs WC clinch magic number updates
+
+### STORY 6: Pre-Game Hype — Boyd on the Hill, 6:40 PM CT
+- **Angle:** NEW STORY (Boyd 8 wins, bullpen rested after Holmes 6-inning gem; coming off franchise-record 9-HR night; Wrigley home crowd energy)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, pre-game hype)
+- **Follow-Up Opportunities:**
+  - Game 2 result recap
+
+---
+
 ## 2026-08-31
 
 ### STORY 1: Series Preview — Cubs vs Brewers 4-Game at Wrigley

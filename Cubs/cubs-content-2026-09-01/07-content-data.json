@@ -1,0 +1,192 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-01",
+  "compiled_at": "2026-09-01T09:22:56.372104+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Recap — Cubs 17-3 Brewers, Franchise-Record 9 HRs, Bregman 3 HRs",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Alex Bregman hit three HRs (6 RBIs) as nine Cubs total homered in the Aug 31 opener — a Cubs franchise record. Clay Holmes threw 6 scoreless IP. Cubs capped August with 62 HRs (NL record for most in a calendar month; 2nd all-time in MLB behind 2019 Yankees' 74). Lead with Bregman/record angle, NOT the score (has_score=False insight).",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1A",
+          "text": "Alex Bregman: three homers, six RBIs. One Wrigley night.\n\nNINE Cubs left the yard. Franchise record. Clay Holmes threw six scoreless innings against the best team in the NL.\n\nChicago hit 62 HRs in August — a new NL record. September starts now.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative/Bold",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Game 2 Preview — Boyd vs Gasser, 6:40 PM CT at Wrigley",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Matthew Boyd (8-3, 3.99 ERA, 17 starts) takes the hill for Game 2. Brewers send LHP Robert Gasser (4-5, 4.59 ERA); his only Cubs start was 6 scoreless IP with no decision in 2024. Midday slot — aligns with midday_12_18 winner window.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 2A",
+          "text": "Matthew Boyd takes the mound tonight — 8-3, 3.99 ERA in 17 starts this season.\n\nMilwaukee counters with Robert Gasser (4-5, 4.59 ERA). His only career start vs Chicago: six scoreless innings, no decision, 2024.\n\nGame 2. Wrigley. 6:40 PM CT.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "September Callups — BJ Murray Jr. Officially a Cub",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Sept roster expansion activated today. BJ Murray Jr. (.294/.395/.500, 16 HR, 9 3B at Triple-A Iowa in 118 games) is officially on the roster. Switch-hitter who plays corner infield AND outfield — October-ready depth. Jaxon Wiggins (No. 2 prospect, 4 scoreless Iowa relief outings) not yet officially called up; frame Murray as the confirmed arrival.",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "The cavalry just arrived.\n\nBJ Murray Jr. is officially a Cub — .294/.395/.500, 16 HR at Triple-A Iowa, and he plays corner infield AND outfield.\n\nSwitch-hitter. Versatile. October-ready. Counsell's depth just got a serious upgrade.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Informative",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Cubs Hit 62 HRs in August — NL Record",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Cubs' 62-HR August is the most by any NL team in a single calendar month ever. Only the 2019 Yankees (74) hit more in a month in MLB history. Fourth team ever to hit 60+ in a month. Capped by the franchise-record 9-HR game on Aug 31. Deserves its own standalone tweet separate from the game recap.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": "Chicago hit 62 home runs in August.\n\nThat's the most by any NL team in a single calendar month — ever. Only the 2019 Yankees (74) hit more in a month in MLB history.\n\nThis offense isn't just hot. It's historically elite.\n\n#Cubs #ChicagoCubs #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Informative/Bold",
+          "hashtags": [
+            "#Cubs",
+            "#ChicagoCubs",
+            "#MLB"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Wild Card Standings — Cubs Hold WC Spot, Cardinals Fading",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Cubs 78-60 holding Wild Card spot entering September (alongside Phillies and D-backs). Cardinals 68-70 on the outside looking in. Division gap is 7 GB with 25 to play — won't close, but Wild Card is firmly in hand. Rival jab at Cardinals for energy.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5A",
+          "text": "Cubs enter September holding a Wild Card spot.\n\nCardinals are 68-70 and fading. The NL field is thinning.\n\nSeven games back of Milwaukee with 25 to play — the division won't close, but October is absolutely still on the table. Chicago holds its own fate.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Bold/Analysis",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Pre-Game Hype — Boyd on the Hill, 6:40 PM CT",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Boyd (8 wins, 3.99 ERA) takes the mound for Game 2. Bullpen fully rested after Holmes went 6 innings last night. Coming off a franchise-record 9-HR night. Brewers' morale questionable. Wrigley at full volume.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6A",
+          "text": "Boyd on the hill. Wrigley at 6:40 PM CT.\n\nEight wins on the season. The bullpen fully rested after Holmes went six innings last night.\n\nThe Brewers just got torched for nine homers in one game. They know this series isn't over.\n\nLet's do it again.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Bold/Passionate",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
