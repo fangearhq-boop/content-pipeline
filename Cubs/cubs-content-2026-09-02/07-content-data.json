@@ -1,0 +1,223 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-02",
+  "compiled_at": "2026-09-02T09:24:01.700999+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Game 1 recap — Brewers 9, Cubs 4",
+      "type": "Game recap (loss)"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Game 2 preview — Misiorowski vs. Peterson",
+      "type": "Game preview"
+    },
+    {
+      "time": "1:15 PM",
+      "description": "Wild Card watch — Cubs 78-61, Cardinals cooked",
+      "type": "Analysis / rival watch"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Swanson swinging + Steele Iowa rehab this week",
+      "type": "Injury update"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "PCA closing in on 40-40, -1100 MVP favorite",
+      "type": "Stat breakdown / bold take"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Pre-game hype — Cubs must crack Misiorowski",
+      "type": "Pre-game hype"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Recap — Brewers 9, Cubs 4 (Boyd burned in 6th)",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Boyd solid through 5, fell into third-time-through trap in 6th inning; Palencia abysmal in relief; Cubs lose 9-4; record falls to 78-61",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1A",
+          "text": "Boyd looked like he'd escaped. The 6th inning said otherwise.\n\nBrewers 9, Cubs 4. Boyd fell into the third-time-through trap in the 6th — Palencia made it worse. Cubs managed just 4 runs against a Milwaukee staff.\n\nCubs are 78-61. Fix it tonight.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Game recap (loss)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Game 2 Preview — Misiorowski vs. Peterson at Wrigley, 6:40 PM CT",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Misiorowski 14-5/1.73 ERA/222 SO leads MLB in ERA, K, WHIP; Peterson (7-7, 5.11) on the hill for Chicago; Cubs must split the 2-game series",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 2A",
+          "text": "Jacob Misiorowski. 14-5. 1.73 ERA. 222 strikeouts. WHIP of 0.75.\n\nThe best pitcher in baseball starts tonight at Wrigley, 6:40 PM CT. David Peterson (7-7, 5.11 ERA) gets the ball for Chicago.\n\nCubs need a win. Wrigley needs to be loud.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Game preview",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Wild Card Watch — Cubs 78-61, Cardinals Effectively Eliminated",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Cubs hold WC spot at 78-61 with 23 games left; Cardinals ~68-71 and cooked; Phillies also holding a WC; division gap vs Brewers remains ~8 GB",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "Cubs are 78-61 with a Wild Card spot. 23 games to close it out.\n\nCardinals: 68-71. Effectively cooked. Milwaukee ran off and left St. Louis fighting over respectability.\n\nCubs and Phillies holding WC spots. Win games.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Analysis / rival watch",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Swanson Swinging + Steele Iowa Rehab This Week",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Swanson swung a bat Monday for first time since Aug 17 IL stint; Steele begins Triple-A Iowa rehab assignment this week; two October weapons on track simultaneously",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": "Dansby Swanson swung a bat for the first time Monday since his Aug. 17 IL stint.\n\nJustin Steele begins his Triple-A Iowa rehab assignment this week.\n\nTwo October weapons on the same track. Cubs' postseason ceiling just got a lot higher.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Injury update",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 262
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "PCA Closing in on 40-40 / NL MVP Case",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": ".282/.36 HR/32 SB/.944 OPS; 4 HR + 8 SB from 40-40; -1100 MVP favorite; nobody in baseball doing what PCA is doing",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5A",
+          "text": ".282 BA. 36 HR. 32 SB. .944 OPS.\n\nPCA is 4 home runs and 8 stolen bases from a 40-40 season. He's also the -1100 MVP favorite heading into September's final push.\n\nNobody in baseball is doing what he's doing.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Stat breakdown / bold take",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 228
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Pre-Game Hype — Cubs vs. the Best Pitcher in Baseball",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Misiorowski 14-5/1.73 ERA starts at Wrigley, 6:40 PM CT; Cubs need a response; home crowd as the edge",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6A",
+          "text": "Misiorowski is 14-5 with a 1.73 ERA. He leads all of baseball.\n\nCubs have to beat him tonight at Wrigley, 6:40 PM CT. That's the assignment. No excuses, no moral victories.\n\nWrigley's gonna need to be different tonight. Show up.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Pre-game hype",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

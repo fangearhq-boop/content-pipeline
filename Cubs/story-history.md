@@ -5,6 +5,57 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-09-02
+
+### STORY 1: Recap — Brewers 9, Cubs 4 (Boyd Burned in 6th)
+- **Angle:** FOLLOW UP (Boyd fell into third-time-through trap in 6th; Palencia abysmal in relief; Cubs lose 9-4; record falls to 78-61; accountability + bounce-back framing)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - Game 2 result recap (Sept 3 morning)
+
+### STORY 2: Game 2 Preview — Misiorowski (14-5, 1.73 ERA) vs. Peterson (7-7, 5.11 ERA), 6:40 PM CT
+- **Angle:** NEW STORY (Misiorowski leads MLB in ERA/SO/WHIP; Peterson on the mound for Chicago; Cubs must split 2-game series; has_stat winner applied with full stat lines; midday_12_18 window)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Game 2 result recap (Sept 3 morning)
+
+### STORY 3: Wild Card Watch — Cubs 78-61, Cardinals ~68-71 Effectively Eliminated
+- **Angle:** FOLLOW UP (last covered Sept 1; today: Cubs 78-61 holding WC spot, Cardinals ~68-71 cooked, Phillies also in WC, Brewers ~8 GB ahead in division; rival Cardinals jab; 23 games left)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, analysis/rival watch)
+- **Follow-Up Opportunities:**
+  - Cardinals WC elimination watch
+  - Cubs WC clinch magic number updates
+
+### STORY 4: Swanson Swinging + Steele Iowa Rehab This Week
+- **Angle:** FOLLOW UP (last covered Sept 1; today: Swanson swung bat Monday for first time since Aug 17 IL stint; Steele begins Triple-A Iowa rehab assignment this week; two October weapons simultaneously on track)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, injury update)
+- **Follow-Up Opportunities:**
+  - Swanson IL return date / September activation
+  - Steele Iowa rehab start performance
+  - Steele MLB activation before end of season
+
+### STORY 5: PCA Closing in on 40-40 / NL MVP Case
+- **Angle:** FOLLOW UP (last covered Aug 30 as MVP odds; today: .282/.36 HR/32 SB/.944 OPS; 4 HR + 8 SB from 40-40; -1100 MVP favorite; closing-argument framing with 23 games left)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, stat breakdown/bold take)
+- **Follow-Up Opportunities:**
+  - PCA 37th HR / 33rd SB milestone watch
+  - 40-HR or 40-SB individual milestone announcements
+  - MVP voting result (November)
+
+### STORY 6: Pre-Game Hype — Cubs vs. Misiorowski at Wrigley, 6:40 PM CT
+- **Angle:** NEW STORY (Misiorowski 14-5/1.73 ERA starts at Wrigley tonight; Cubs must crack best ERA in baseball; must-split energy; Wrigley atmosphere angle)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, pre-game hype)
+- **Follow-Up Opportunities:**
+  - Game 2 result recap
+
+---
+
 ## 2026-09-01
 
 ### STORY 1: Recap — Cubs 17-3 Brewers, Franchise-Record 9 HRs, Bregman 3 HRs
