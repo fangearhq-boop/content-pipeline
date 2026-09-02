@@ -1579,3 +1579,60 @@ _This file tracks every story covered, the angle used, content produced, and fol
 - **Follow-Up Opportunities:**
   - Championship results August 2
   - September 1 window preview
+
+---
+
+## 2026-09-02
+
+### Story 1: USA WNT — World Cup Group Qualifier Roster Analysis (10 Days Out)
+- **Date:** 2026-09-02
+- **Tier:** 1
+- **Classification:** FOLLOW UP (WNT tracked throughout Aug-Sept pipeline; new angle = full roster breakdown with world rankings)
+- **Angle:** 16-player roster confirmed: Rachel Garcia + Dejah Mulipola (2020 Olympians), 7 World Games gold medalists, 10 Down Under vets, 4 Sooners (Brito/Coleman/Jennings/Maxwell). USA No.2 vs Netherlands No.6/Mexico No.7/China No.8/Brazil No.17/New Zealand No.23. Opens vs Mexico Sept 12. Netherlands = top-seed decider. Top 2 → 2027 Finals in Redcliffe QLD April 5-11. Wild Card via repechage Sept 16.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Tournament coverage Sept 12-16 daily
+  - USA vs Mexico opener result Sept 12
+  - Qualification result and bracket Sept 16
+
+### Story 2: Class of 2028 — What Day 1 Felt Like
+- **Date:** 2026-09-02
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Sept 1 window tracked from 32 days out; day-after angle)
+- **Angle:** First calls went out before 8 AM Sept 1. Sept 9 at 7 AM ET = in-person window opens (1 week away). 1,226 Extra Inning nominations (record). Programs aggressive after tough portal cycle.
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Sept 9 in-person window opening
+  - Early 2028 verbal commitments (October onward)
+
+### Story 3: Four Programs to Watch This Fall (OSU, Nebraska, Duke, Texas)
+- **Date:** 2026-09-02
+- **Tier:** 2
+- **Classification:** NEW (OSU, Duke, Nebraska highlighted for first time; SI fall preview angle)
+- **Angle:** SI names OSU (5 transfers: Everett/Proctor/Hartley/Kennedy/Lewis), Duke (43-17 in 2026, Super Regionals, fall vs NC/SC programs + PSL Vibe), Nebraska (Big Ten darkhorse, Oct 17 at Bowlin Stadium), Texas (defending champs, three-peat chase, 27 days to fall opener Sept 29).
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - OSU fall results
+  - Duke fall results
+  - Nebraska fall opener Oct 17
+
+### Story 4: OU Fall Camp — Gasso Countdown (10 Days)
+- **Date:** 2026-09-02
+- **Tier:** 3
+- **Classification:** FOLLOW UP (OU fall tracked Aug 26-Sept 1; new angle = 10 days until Gasso departs)
+- **Angle:** Gasso departs Sept 12 for USA WNT. 4 Sooners also gone (Brito/Coleman/Jennings/Maxwell). Lowry standout 2.2 IP/1H/0BB/2K. Two returning pitchers (Lowry + Deal). Berzon (2x AA/LSU) + Harter (.346 MTSU) integrating. Fall opener Sept 30. First public game Oct 3.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Fall opener Sept 30 vs Tarleton State
+  - Gasso returns from WNT Sept 16
+
+### Story 5: Texas Tech Fall Chemistry Test
+- **Date:** 2026-09-02
+- **Tier:** 3
+- **Classification:** FOLLOW UP (TTU covered throughout Aug; new angle = chemistry over talent)
+- **Angle:** 7 All-Americans on TTU 2027 roster (Terry/Williams/Pannell/Polar/Pickering/Burns/Beachum), most never practiced together. Beachum (.375 BA/37HR/180RBI FSU), Pickering (.384 BA/50HR/169RBI OU), Heavener (13-9/2.81ERA LSU). Head coach Gerry Glasco. WCWS runner-up 2026 (lost Texas 4-1 Game 2). Transfer class ranked No.1 nationally.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - TTU fall scrimmage results
+  - TTU fall opener date TBD
+  - 2027 preseason rankings (January)
