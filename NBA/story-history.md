@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-09-02
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-02 | T1 | Kawhi Leonard Trade — BOG Meeting Expected This Month, Camp Looms | X(2), FB, Article | FOLLOW UP |
+| 2026-09-02 | T2 | NBA Training Camp 27 Days Out — Key Storylines to Watch | X(1), FB, Article | FOLLOW UP |
+| 2026-09-02 | T2 | Wembanyama Leads France to 7-1 FIBA Window — World Cup Path Clear | X(1), FB, Article | FOLLOW UP |
+| 2026-09-02 | T2 | Bradley Beal Signs With Clippers — Late Offseason Transactions Roundup | X(1), FB, Article | NEW |
+| 2026-09-02 | T2 | NBA Opening Night October 20 — Your Complete Preview | X(2), FB, Article | FOLLOW UP |
+
+### STORY 1: Kawhi Leonard Trade — BOG Meeting Expected This Month
+- **Tier:** 1
+- **Category:** NBA Investigation / Toronto Raptors / Los Angeles Clippers / Kawhi Leonard
+- **Key facts:** Trade agreed June 30 (Kawhi→Toronto for Ingram+Dick+2 UPF+picks); Aspiration investigation cleared Leonard personally; Clippers face sanctions; BOG September meeting = key inflection point; Kawhi+Raptors operating as if trade completes; Toronto camp Sept 28 Quebec City; Clippers "fine" with Kawhi staying if trade voided
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** BOG meeting result; official trade ratification; Clippers sanction announcement
+
+### STORY 2: NBA Training Camp 27 Days Out
+- **Tier:** 2
+- **Category:** NBA Season Preview / Training Camp / Multiple Teams
+- **Key facts:** Veterans report Sept 28; camps open Sept 29; preseason Oct 3; Opening Night Oct 20; Heat superteam first camp (Giannis+Bam+Klay); LeBron+Brown Sixers debut; Curry Warriors ($62.6M, 1yr); OKC WCF rematch game on Opening Night; Portland: Sharpe out 6 months (meniscus)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Camp reports; preseason results; injury updates
+
+### STORY 3: Wembanyama France FIBA Window 7-1
+- **Tier:** 2
+- **Category:** FIBA Basketball / France National Team / Victor Wembanyama / San Antonio Spurs
+- **Key facts:** France 7-1 Group L at end of window; Wemby captain; Aug 27 vs Slovenia 92-67 (Wemby 22/9 60% FG); Aug 30 vs Sweden 84-69 Stockholm (Wemby 18/8/3blk 6-of-7; 14,750 crowd record); window concluded; France clear World Cup qualification favorite in Group L
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** World Cup qualification scenarios; next qualifying window; France camp updates
+
+### STORY 4: Bradley Beal Signs With Clippers / Transactions Roundup
+- **Tier:** 2
+- **Category:** NBA Free Agency / Los Angeles Clippers / Bradley Beal / Offseason Transactions
+- **Key facts:** Beal 2yr/$13.17M to Clippers; DeRozan 1yr/$3.88M to Denver; LaVine exercises $49M option (stays Chicago); Williams 1yr/$2.6M to Golden State (13pts/3.9ast with Dallas); Westbrook formally retired Aug 12
+- **Status:** NEW
+- **Follow-up ideas:** Clippers training camp preview; full roster breakdown
+
+### STORY 5: NBA Opening Night October 20 Preview
+- **Tier:** 2
+- **Category:** NBA Season Preview / New York Knicks / Philadelphia 76ers / LeBron James / Oklahoma City Thunder
+- **Key facts:** Oct 20 NBC tripleheader; 3PM BOS@DET; 7PM PHI@NYK (Knicks raise banner since 1973; LeBron MSG debut); 9:30PM OKC@SA (WCF rematch); 76ers odds 10-1; first Opening Night on NBC since 1990s; 48 days away
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Preseason results; Opening Night betting lines; broadcast details
+
 ## 2026-09-01
 
 | Date | Tier | Title | Platforms | Status |

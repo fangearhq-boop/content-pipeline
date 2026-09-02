@@ -1,6 +1,18 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Last Run
+- **Date**: 2026-09-02
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (1 Tier 1, 4 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce, Jake Torres)
+- **PostPlanner exports:** hh-postplanner-2026-09-02.xlsx (7 posts) + hh-postplanner-tobi-2026-09-02.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-09-02/review-dashboard.html (27 items)
+- **Notes:** KAWHI BOG MONTH — BOG meeting expected September; Leonard personally cleared; Clippers face sanctions; Kawhi+Raptors operating as if trade completes; Toronto camp Sept 28 Quebec City; Clippers "fine" with Kawhi staying if voided; TRAINING CAMP 27 DAYS — Veterans report Sept 28; camps open Sept 29; preseason Oct 3; Opening Night Oct 20; Heat superteam first camp; LeBron Sixers; Curry Warriors $62.6M; OKC WCF rematch; WEMBY FRANCE RECAP — France 7-1 Group L window concluded; Wemby captain; 22/9 vs Slovenia; 18/8/3blk vs Sweden (14,750 Stockholm record); World Cup path clear; BEAL CLIPPERS — 2yr/$13.17M; DeRozan Denver 1yr/$3.88M; LaVine $49M option (stays Chicago); Williams Warriors 1yr/$2.6M; OPENING NIGHT — Oct 20 NBC tripleheader; Knicks banner since 1973; LeBron MSG debut; OKC@SA WCF rematch; first NBC Opening Night since 1990s
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+### 2026-09-01
 - **Date**: 2026-09-01
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)
