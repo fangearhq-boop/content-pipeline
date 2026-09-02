@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-09-02
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-02 | T1 | Antonelli Grid Penalty at Monza — Championship Leader Starts From Back | X(2), FB, Article | FOLLOW UP |
+| 2026-09-02 | T1 | Ferrari Reveals Schumacher Tribute Livery for Italian GP | X(1), FB, Article | FOLLOW UP |
+| 2026-09-02 | T2 | Italian GP Preview — Norris and Ferrari Poised to Challenge | X(2), FB, Article | FOLLOW UP |
+| 2026-09-02 | T2 | Monaco GP Appeal — Verdict Still Weeks Away | X(1), FB, Article | FOLLOW UP |
+| 2026-09-02 | T2 | Italian GP Full Schedule — When to Watch at Monza | X(1), FB, Article | NEW |
+
+### STORY 1: Antonelli Grid Penalty at Monza
+- **Tier:** 1
+- **Category:** F1 Championship / Kimi Antonelli / Mercedes / Italian GP
+- **Key facts:** Starts from back of 20-car grid (full PU change: V6+exhaust+MGU-H); Barcelona reliability failure root cause; Mercedes strategic choice; Monza allows overtaking; 59-pt lead; Wolff: "important period"; fresh PU for final 7 races; standings: Antonelli 242, Russell 183, Hamilton 183, Norris 159
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Qualifying position / grid; race result; championship gap after Monza
+
+### STORY 2: Ferrari Schumacher Tribute Livery
+- **Tier:** 1
+- **Category:** F1 / Ferrari / Michael Schumacher / Italian GP / Lewis Hamilton / Charles Leclerc
+- **Key facts:** F310-inspired (1996) livery; red/gold wheels; white engine cover removed; 7 stars on nose + race suits; Schumi's logo; 5 Monza wins in red (1996/1998/2000/2003/2006); ADUO-2 debut (+15hp, ~0.2s/lap, no penalty); 30-year anniversary; "Home is calling"
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Race result; ADUO-2 performance data in practice; Hamilton/Leclerc qualifying
+
+### STORY 3: Italian GP Preview (Norris, Ferrari)
+- **Tier:** 2
+- **Category:** F1 / Italian GP / Lando Norris / Ferrari / McLaren
+- **Key facts:** Norris back-to-back wins (Hungary + Netherlands); 83pts back; 6/4 favorite; Monza low-downforce suits McLaren+Ferrari; ADUO-2 gives Ferrari +15hp; Russell also 59pts back; Verstappen won 2025 Monza; race Sunday 15:00 CEST (9AM ET)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Qualifying result; race result; championship standings after Monza
+
+### STORY 4: Monaco GP Appeal
+- **Tier:** 2
+- **Category:** F1 / Monaco GP / Pierre Gasly / FIA ICA Appeal / Alpine / McLaren / Red Bull
+- **Key facts:** ICA heard Aug 25 Paris; FOM admitted measurement error; Gasly holds P3; Hadjar P4; Piastri P5; verdict 2-3 weeks (mid-September); could remain unresolved through Monza + Madrid (Sept 13); Gasly vs Hadjar for P3 in Drivers' championship
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** ICA verdict announcement; standings adjustment if appeal succeeds
+
+### STORY 5: Italian GP Schedule / How to Watch
+- **Tier:** 2
+- **Category:** F1 / Italian GP / Monza / Schedule
+- **Key facts:** FP1 12:30 CEST Fri (6:30 AM ET); FP2 16:00 CEST Fri (10AM ET); FP3 12:30 CEST Sat; Q 16:00 CEST Sat (10AM ET); Race 15:00 CEST Sun (9AM ET); ESPN (US); Sky Sports F1 (UK); Canal+ (France); 53 laps; fastest circuit on calendar
+- **Status:** NEW
+- **Follow-up ideas:** Race recap; fastest lap data; full result
+
 ## 2026-09-01
 
 | Date | Tier | Title | Platforms | Status |

@@ -1,6 +1,18 @@
 # F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
+- **Date**: 2026-09-02
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway)
+- **PostPlanner exports:** f1fr-postplanner-2026-09-02.xlsx (7 posts) + f1fr-postplanner-tobi-2026-09-02.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-09-02/review-dashboard.html
+- **Notes:** ITALIAN GP RACE WEEK — Race Sunday Sept 6 15:00 CEST/09:00 ET; Qual Sat Sept 5 16:00 CEST; FP1/FP2 Fri Sept 4; Antonelli starts 20th (strategic PU penalty, 59-pt lead, 242pts); Norris 6/4 favourite for pole + win (back-to-back wins, 83 back); Ferrari ADUO-2 debut (+15hp, ~0.2s/lap at Monza); Hamilton+Leclerc get it penalty-free; Schumacher tribute livery; Russell 59pts back; CHAMPIONSHIP — Antonelli 242, Russell 183, Hamilton 183 (Russell tiebreaker), Norris 159; MONACO APPEAL — ICA heard Aug 25; verdict mid-September; Gasly holds P3 pending; CALENDAR — Qatar+Abu Dhabi under review (Mid-East conflict)
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+### 2026-09-01
 - **Date**: 2026-09-01
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)
