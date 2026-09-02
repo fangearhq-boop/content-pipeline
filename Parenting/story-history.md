@@ -2,6 +2,55 @@
 
 ---
 
+## September 2, 2026
+
+### Story 1: Labor Day Lift Off 2026 — 50th Anniversary
+- **Date:** 2026-09-02
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — 50th annual Labor Day Lift Off, September 5–7 at Memorial Park, free admission, ~65 hot air balloons, morning launches at 7 AM, evening night glows. New this year: expanded north field, Overlook Club elevated seating (ticketed), special-shape balloons, Orangetheory 5K Sunday. Rainbow Ryders balloon rides available.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** 50th annual; Sept 5–7; Memorial Park; free; ~65 balloons; 7 AM launches; night glow evenings; Overlook Club ticketed; Orangetheory 5K Sunday around Prospect Lake
+
+### Story 2: Imagination Library — 3 Millionth Book Delivered in COS
+- **Date:** 2026-09-02
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — Governor Polis delivered Colorado's 3 millionth Imagination Library book at Early Connections, Rio Grande Street, Colorado Springs. Program reaches 89,000+ Colorado kids (26% of ages 0–5). Free monthly book mailed from birth to school age. New: bilingual Spanish/English options, 18,500+ bilingual books mailed in 2026. Enrollment: imaginationlibrarycolorado.org.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** 3 millionth book; 89,000+ Colorado kids; 26% of ages 0–5; free; imaginationlibrarycolorado.org; Early Connections on Rio Grande Street COS; 18,500+ bilingual books in 2026
+
+### Story 3: D11 School of Technology / COS Back-to-School District Update
+- **Date:** 2026-09-02
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — District quick-reference for September: D11 started Aug 12 (Colorado Springs School of Technology now in its 2nd year, STEM pathways for middle/high school); D20 started Aug 17–18; D49 started Aug 3–4. September parent involvement season: PTOs, school councils, volunteer rosters opening. Family resources at d11.org, asd20.org, d49.org.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** D11 Aug 12; D20 Aug 17–18; D49 Aug 3–4; Colorado Springs School of Technology in 2nd year
+
+### Story 4: Dot Days Community Festival — September 9–11
+- **Date:** 2026-09-02
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Dot Days Community Festival September 9–11, Colorado Springs. Three tracks: Cultural Connections, Citizen Science, Our Place in Nature. Colorado Springs Pioneers Museum at Boulder Park involved. Bonus: "We The People: Colorado at 150" lecture September 12 at 2 PM, Boulder Park.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** Sept 9–11; Boulder Park / Pioneers Museum; 3 programming tracks; Colorado at 150 lecture Sept 12 at 2 PM
+
+### Story 5: Buck-A-Roo Ball — Mom and Son Western Evening September 12
+- **Date:** 2026-09-02
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — 3rd annual Buck-A-Roo Ball, September 12 at ProRodeo Hall of Fame and Museum of the American Cowboy, Colorado Springs. Western-themed evening for moms and sons: dinner, dancing, activities. Hosted by Co Springs Mom Collective. Tickets required — has sold out in prior years.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** Sept 12; ProRodeo Hall of Fame COS; 3rd annual; Co Springs Mom Collective; dinner/dancing/activities; tickets required
+
+---
+
 ## September 1, 2026
 
 ### Story 1: HARPPA Nordi Toddler Tower Stool Recall

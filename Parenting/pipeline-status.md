@@ -1,6 +1,35 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: September 1, 2026
+## Latest Run: September 2, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Labor Day Lift Off 50th anniversary (Sept 5–7, Memorial Park, free, ~65 balloons, 7 AM launches, night glows, Orangetheory 5K Sunday); Imagination Library 3 millionth book (Gov. Polis at Early Connections COS, 89,000+ CO kids, 26% ages 0–5, bilingual options, imaginationlibrarycolorado.org); D11 Colorado Springs School of Technology (2nd year, STEM pathways, district start dates D11 Aug 12 / D20 Aug 17–18 / D49 Aug 3–4); Dot Days Community Festival (Sept 9–11, Boulder Park, 3 tracks, Colorado at 150 lecture Sept 12); Buck-A-Roo Ball (Sept 12, ProRodeo Hall of Fame, 3rd annual, Co Springs Mom Collective, moms/sons) |
+| Story History Check | COMPLETE | All 5 stories NEW: S1 Labor Day Lift Off (Aug 30 covered Lift Off briefly but this is the Tier 1 dedicated article); S2 Imagination Library 3M milestone (never covered); S3 D11 School of Technology Sept update (prior runs covered D11 co-location, D11 AI, D11 Edukit — this is specific to School of Technology + Sept district quick-reference, different angle); S4 Dot Days (never covered); S5 Buck-A-Roo Ball (never covered) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Jamie Rivera (S1, S3, S5), Sarah Morales (S2, S4) |
+| Research Notes | COMPLETE | 01-research-notes.md |
+| Story Analysis | COMPLETE | 02-story-analysis.md |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 9 posts across 5 stories (2 for each Tier 1, 1 each for Tier 2); all ≤280 chars; 4 hashtags each; 0 exclamation marks; backtick code fence format |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form (Long-Form Post header) + 5 Image Caption (Image Caption header); no hashtags; engagement questions; COS voice rules applied |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only prompts |
+| Articles (5) | COMPLETE | article-01 Labor Day Lift Off (Jamie Rivera); article-02 Imagination Library (Sarah Morales); article-03 D11 School of Technology (Jamie Rivera); article-04 Dot Days Festival (Sarah Morales); article-05 Buck-A-Roo Ball (Jamie Rivera) |
+| Fact-Check | COMPLETE | verify-facts.py — 51 claims verified; HIGH/MEDIUM/LOW prioritized; no X post character violations |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 9 X posts, 5 FB posts, 5 articles; posting-window warnings are known format mismatch, not errors; initial run showed FB posts: 0 (header format mismatch Long-Form Post vs FB Long-Form) — fixed by rewriting 04-social-posts-facebook.md with correct parser-expected headers |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries (5 stories × 2), all not_started, gemini base_only, model gemini-2.5-flash-image, brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 29 items; image manifest warning expected (images generated separately) |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in session's authorized repository set (403 proxy) — known recurring issue |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser compat issue — generate-postplanner-export.py finds 0 posts; ran both standard and --tobi |
+| WordPress Publish | BLOCKED | WordPress API proxy returns 403 Forbidden — known recurring issue |
+| Story History | COMPLETE | 5 new entries prepended to Parenting/story-history.md (September 2, 2026 section) |
+
+## Known Issues (Recurring)
+- WordPress publish: 403 proxy block — all 5 articles queued as drafts, pending manual publish or proxy fix
+- PostPlanner export: parser compat issue returns 0 posts every run
+- content-dashboards push: 403 proxy block (not in session authorized repo set)
+- Image manifest warnings from dashboard generator: expected (Gemini image generation is a separate step)
+- FB posts header format: parser expects `**Long-Form Post**` / `**Image Caption**` NOT `**FB Long-Form**` / `**FB Image Caption**` — corrected in this run
+
+## Previous Run: September 1, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|
