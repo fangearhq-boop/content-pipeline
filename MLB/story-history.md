@@ -7059,3 +7059,62 @@ Each day's stories are appended at the top (newest first).
 - **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
 - **Follow-Up Opportunities:**
   - July 30 standings update following these results
+
+---
+
+## 2026-09-02
+
+### Story 1: Misiorowski Dominates Cubs, Brewers Seize NL Central
+- **Date:** 2026-09-02
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Misiorowski scoreless outing at Wrigley — 8 K, 101.5 mph velocity — Brewers win and take NL Central first place. Velocity concerns from 98.7 mph dip answered. Entered 14-5/1.73 ERA/222 K. Previous vs Cubs in 2026: 3 starts, 24 K, 2 ER. Ben Sheets franchise K record (264, 2004) in sight.
+- **Content Produced:** Article (article-01, Ryan Calloway), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Misiorowski next start result
+  - Brewers' hold on NL Central first place
+  - Cy Young vote update
+
+### Story 2: PCA Is the NL MVP — 40-40 In Reach
+- **Date:** 2026-09-02
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** PCA enters September .283/38 HR/91 RBI/32 SB, -1100 NL MVP favorite (29 of 37 first-place votes). Needs 2 HR + 8 SB in 27 games for 40-40 club (Canseco 1988/Bonds 1996/ARod 1998/Soriano 2006/Acuña 2023 are the only members). Cubs 78-61, WC1 but Brewers now lead NL Central.
+- **Content Produced:** Article (article-02, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - HR and SB tracking toward 40-40
+  - Final MVP vote totals
+  - Cubs NL Central race
+
+### Story 3: Alvarez Triple Crown — HR Race is the Danger Zone
+- **Date:** 2026-09-02
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Alvarez leads all 3 AL TC cats: .322 BA/36 HR/91 RBI. BA lead most secure (14 pts over Simpson .308). RBI tied with Alonso (91). HR tightest — Caminero AND Rice both at 35, one back. Last TC: Cabrera 2012. 27 games left.
+- **Content Produced:** Article (article-03, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - HR race daily tracking
+  - BA and RBI category shifts
+  - Cabrera 2012 historical comparisons
+
+### Story 4: Brewers Take NL Central — Cubs Wild Card Complications
+- **Date:** 2026-09-02
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Brewers take NL Central first after Miz dominates Sept 2. Cubs (78-61) still WC1 but now trail in NL Central. NL WC: Cubs/Phillies/D-backs in, Padres 0.5 back for WC3. Cubs' goal shifts to winning NL Central to avoid Brewers in Round 1.
+- **Content Produced:** Article (article-04, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - NL Central race daily update
+  - Cubs-Brewers head-to-head schedule
+  - Padres-D-backs WC3 battle
+
+### Story 5: Ben Rice — One HR Behind the AL Triple Crown Leader
+- **Date:** 2026-09-02
+- **Tier:** 3
+- **Classification:** NEW
+- **Angle:** Ben Rice (Yankees, 27yo, debut June 18 2024) has 35 HR — tied with Caminero, one behind Alvarez. Career 68 HR total, 35 in 2026 alone. A September surge could end the AL Triple Crown and give Yankees a major September narrative.
+- **Content Produced:** Article (article-05, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Rice HR tracking in September
+  - Yankee playoff implications
+  - AL HR race resolution

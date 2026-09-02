@@ -1,0 +1,254 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-02",
+  "compiled_at": "2026-09-02T10:49:21.344137+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Misiorowski Dominates Cubs, Brewers Seize NL Central (TIER 1 — FOLLOW UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Jacob Misiorowski silenced Wrigley Field tonight.\n\n8 Ks. Scoreless. 101.5 mph velocity.\n\nThe Brewers just took first place in the NL Central.\n\nMiz (14-5, 1.73 ERA, 222 K) is the best pitcher in baseball. September just proved it.\n\n#Brewers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#MLB"
+          ],
+          "char_count": 244
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Two weeks ago: concern about Misiorowski's velocity dipping to 98.7 mph.\n\nTonight at Wrigley: 101.5 mph. Scoreless. 8 strikeouts.\n\nThe Cy Young race is over.\n\n#Brewers #MisiorowskiCyYoung",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#MisiorowskiCyYoung"
+          ],
+          "char_count": 187
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-misiorowski-dominates-cubs-brewers-take-nl-central.html",
+        "headline": "Misiorowski Silences Wrigley: 8 Strikeouts, Scoreless Outing, Brewers Take NL Central First",
+        "word_count": 607
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Misiorowski Dominates Cubs, Brewers Seize NL Central\n\n#### Image Concept 1 — Social\n- **Imagn search term:** `Jacob Misiorowski Milwaukee Brewers`\n- **Alt search:** `Jacob Misiorowski pitcher`\n- **Canva text overlay:** \"8 Ks. SCORELESS.\" / \"BREWERS TAKE FIRST\" / \"September 2, 2026 · Wrigley Field\" / \"Ballpark Banter logo\"\n- **Style:** Green/gold Brewers palette, dominant atmosphere\n\n#### Image Concept 2 — Article Hero\n- **Imagn search term:** `Jacob Misiorowski Wrigley Field`\n- **Alt search:** `Milwaukee Brewers pitcher Wrigley`\n- **Canva text overlay:** None (article hero — image only)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "PCA Is the NL MVP — Now He Needs the Cubs to Play Like It (TIER 1 — FOLLOW UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Pete Crow-Armstrong's 2026 season:\n\n.283 BA | 38 HR | 91 RBI | 32 SB\n\nHe needs 2 more HRs and 8 more SBs to join the 40-40 club in 27 games.\n\nCanseco. Bonds. A-Rod. Soriano. Acuña.\n\nPCA is next. #Cubs #NLMVP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#NLMVP"
+          ],
+          "char_count": 207
+        },
+        {
+          "label": "Post 2-2",
+          "text": "PCA is -1100 to win NL MVP.\n\n29 of 37 writers already have their ballots in. His name is on top of all of them.\n\nShohei Ohtani is +600.\n\nThe question isn't if. It's by how much. #PeteCrowArmstrong #NLMVP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PeteCrowArmstrong",
+            "#NLMVP"
+          ],
+          "char_count": 203
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-pca-40-40-mvp-frontrunner.html",
+        "headline": "Pete Crow-Armstrong Is the NL MVP. Now He's Chasing 40-40.",
+        "word_count": 530
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "PCA NL MVP — 40-40 in Reach\n\n#### Image Concept 1 — Social\n- **Imagn search term:** `Pete Crow-Armstrong Chicago Cubs`\n- **Alt search:** `Pete Crow-Armstrong center field Cubs`\n- **Canva text overlay:** \"40-40 IN REACH\" / \".283 | 38 HR | 32 SB\" / \"27 Games Left\" / \"Ballpark Banter logo\"\n- **Style:** Cubs navy/red, bold countdown feel\n\n#### Image Concept 2 — Article Hero\n- **Imagn search term:** `Pete Crow-Armstrong batting Cubs`\n- **Alt search:** `Chicago Cubs center fielder swing`\n- **Canva text overlay:** None (article hero — image only)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Alvarez Triple Crown — The Tightest Race Is Home Runs (TIER 2 — FOLLOW UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Yordan Alvarez leads the AL Triple Crown:\n.322 BA | 36 HR | 91 RBI\n\nBut the HR race is 1 swing away from a three-way tie.\n\nJunior Caminero: 35\nBen Rice: 35\n\nMiguel Cabrera was the last to do it (2012). 27 games left. #Astros #TripleCrown",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Astros",
+            "#TripleCrown"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-yordan-alvarez-triple-crown-hr-race-danger-zone.html",
+        "headline": "Alvarez's Triple Crown Bid Has a Danger Zone: The Home Run Race",
+        "word_count": 514
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alvarez Triple Crown\n\n#### Image Concept 1 — Social\n- **Imagn search term:** `Yordan Alvarez Houston Astros`\n- **Alt search:** `Yordan Alvarez bat swing home run`\n- **Canva text overlay:** \"TRIPLE CROWN WATCH\" / \".322 | 36 HR | 91 RBI\" / \"27 Games. One HR Lead.\" / \"Ballpark Banter logo\"\n- **Style:** Astros orange/blue, sharp stats graphic\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Brewers Take NL Central — Cubs' Wild Card Seat Gets Complicated (TIER 2 — FOLLOW UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The Brewers just took first place in the NL Central.\n\nThat means the Cubs — still WC1 — could face Milwaukee in Round 1 of the playoffs.\n\nThe NL Central race now matters more than the Wild Card race for Chicago.\n\n27 games. #Cubs #NLPlayoffs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#NLPlayoffs"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-brewers-take-nl-central-cubs-wild-card-situation.html",
+        "headline": "Brewers Take First in the NL Central. The Cubs Have a New Problem.",
+        "word_count": 479
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NL Wild Card / NL Central Race\n\n#### Image Concept 1 — Social\n- **Imagn search term:** `Chicago Cubs Wrigley Field dugout`\n- **Alt search:** `Chicago Cubs bench September`\n- **Canva text overlay:** \"CENTRAL OR WILD CARD?\" / \"Cubs 78-61 | Brewers Lead the Division\" / \"27 Games to Decide\" / \"Ballpark Banter logo\"\n- **Style:** Split Cubs/Brewers graphic, playoff bracket context\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Ben Rice Is One Home Run Away From Chaos (TIER 3 — NEW)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The name you might not know in the AL HR race:\n\nBen Rice.\nYankees. 27 years old. MLB debut: June 2024.\n\n35 home runs in 2026. One behind Yordan Alvarez.\n\nA Rice surge in September could upend the Triple Crown. #Yankees #BenRice",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#BenRice"
+          ],
+          "char_count": 227
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-ben-rice-yankees-al-home-run-race.html",
+        "headline": "Ben Rice Has 35 Home Runs. The AL Triple Crown Is One Swing Away From New York.",
+        "word_count": 476
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ben Rice\n\n#### Image Concept 1 — Social\n- **Imagn search term:** `Ben Rice New York Yankees`\n- **Alt search:** `New York Yankees first baseman bat`\n- **Canva text overlay:** \"KNOW THIS NAME\" / \"Ben Rice — 35 HR\" / \"One Behind the AL Triple Crown Leader\" / \"Ballpark Banter logo\"\n- **Style:** Yankees navy/white, bold introduction graphic\n\n---\n\n## Summary: 7 Image Concepts\n| # | Story | Type | Search Term |\n|---|-------|------|-------------|\n| 1 | Misiorowski Dominant | Social | Jacob Misiorowski Milwaukee Brewers |\n| 2 | Misiorowski | Article Hero | Jacob Misiorowski Wrigley Field |\n| 3 | PCA 40-40 | Social | Pete Crow-Armstrong Chicago Cubs |\n| 4 | PCA | Article Hero | Pete Crow-Armstrong batting Cubs |\n| 5 | Alvarez Triple Crown | Social | Yordan Alvarez Houston Astros |\n| 6 | NL Wild Card/Central | Social | Chicago Cubs Wrigley Field dugout |\n| 7 | Ben Rice | Social | Ben Rice New York Yankees |"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
