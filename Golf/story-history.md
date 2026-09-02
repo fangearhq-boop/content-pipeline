@@ -2,6 +2,56 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-09-02
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-02 | T1 | LIV Golf Lays Off Majority of Staff After 2026 Season — Future of LIV 2.0 Still Uncertain | X, FB, Article | FOLLOW UP |
+| 2026-09-02 | T1 | Solheim Cup 2026 Preview — Nelly Korda Leads USA Into First-Ever Netherlands Showdown | X, FB, Article | FOLLOW UP |
+| 2026-09-02 | T2 | Presidents Cup 2026 Rosters Complete — Scheffler Leads USA, Matsuyama Anchors International at Medinah | X, FB, Article | FOLLOW UP |
+| 2026-09-02 | T2 | Scottie Scheffler Officially Passes Tiger Woods on PGA Tour Career Earnings List ($130.39M) | X, FB, Article | DONE |
+| 2026-09-02 | T2 | PGA Tour Fall Schedule — Biltmore Championship, Presidents Cup, Two New Events on 2026-27 Slate | X, FB, Article | DONE |
+
+### STORY 1: LIV Golf Layoffs / LIV 2.0 Future
+- **Tier:** 1
+- **Category:** LIV Golf / BC Partners / Scott O'Neil / Greg Norman / Ian Poulter / PIF / Jon Rahm
+- **Key facts:** LIV laid off "majority" of 300+ staff days after Indianapolis finale; PIF withdrew after $5B+ invested; BC Partners signed term sheet ($250M-$350M), board approved, but final transaction not complete; Sept 1 deadline passed; LIV 2.0 = 10 events (5 US, 5 international), reduced purses, players become equity holders; Norman won't guarantee 2027; Poulter: "time might run out"; 50+ contracted players in limbo; Rahm 3rd consecutive individual title; La Sasso won Indianapolis
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** BC Partners deal close confirmation; player commitments; 2027 schedule announcement
+
+### STORY 2: Solheim Cup 2026 Preview
+- **Tier:** 1
+- **Category:** Solheim Cup / Nelly Korda / Charley Hull / Angela Stanford / Anna Nordqvist / LPGA / Netherlands
+- **Key facts:** Sept 7-13 at Bernardus Golf, Cromvoirt, Netherlands (first Dutch host); USA captain Angela Stanford; Europe captain Anna Nordqvist; USA: Nelly Korda (world No. 1, 4 wins + 2 majors 2026), Angel Yin, Jennifer Kupcho, Yealimi Noh, Auston Kim, Lauren Coughlin, Allisen Corpuz, Andrea Lee, Alison Lee; Europe: Charley Hull (No. 7), Julia López Ramírez, Nastasia Nadaud, Mimi Rhodes (captain's picks); 4 European debutantes; USA won 2024 15.5-12.5 in Virginia; Europe won 3 straight before that; USA hasn't won back-to-back since 2015 and 2017
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Match-by-match results; final score; MVP analysis
+
+### STORY 3: Presidents Cup 2026 — Full Rosters
+- **Tier:** 2
+- **Category:** Presidents Cup / Brandt Snedeker / Geoff Ogilvy / Scottie Scheffler / Hideki Matsuyama / Medinah / Jackson Koivun
+- **Key facts:** Sept 24-27 Medinah Country Club Medinah IL; USA auto: Scheffler, Young, Clark, Henley, Burns, Morikawa; USA picks: Gotterup, Schauffele, Thomas, Bridgeman, Cantlay, Koivun (21, youngest ever); International auto: Si Woo Kim, Matsuyama, Fox, Tom Kim, Min Woo Lee, Adam Scott; International picks: Conners, Echavarria, Im, Hisatsune, Taylor, Bezuidenhout; 30 matches; practice Sept 22-23; USA motivated by 2025 Ryder Cup loss
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Pairings strategy; match previews; Day 1 results
+
+### STORY 4: Scheffler Career Earnings Record
+- **Tier:** 2
+- **Category:** Scottie Scheffler / PGA Tour / Tiger Woods / Career Earnings / Tour Championship / FedExCup
+- **Key facts:** Scheffler career official earnings $130,390,661; Tiger's record was $120,999,166; Tour Championship win = $10M to push past mark; 2026 official: $15,256,000 (3 wins) + $23M FedExCup bonus = $53,937,525 combined; first player to pass $30M in official season earnings; 22 wins, 2 Masters, 2 FedExCup titles, 5 consecutive No. 1 seeds; age 30
+- **Byline:** Jake Torres
+- **Status:** DONE
+- **Follow-up ideas:** None — milestone fully covered
+
+### STORY 5: PGA Tour Fall Schedule
+- **Tier:** 2
+- **Category:** PGA Tour / FedExCup Fall / Biltmore Championship / Presidents Cup / Good Good Championship
+- **Key facts:** 8-event fall slate; Biltmore Championship Sept 17-20 Asheville NC (The Cliffs at Walnut Cove, first PGA Tour in Blue Ridge Mountains since Ben Hogan 1940-42); Bank of Utah Oct 1-4 Ivins UT; Baycurrent Classic Oct 8-11 Japan; Butterfield Bermuda Oct 22-25; Good Good Championship Nov 9-15 Austin TX (Omni Barton Creek); two new events (Biltmore + Good Good)
+- **Byline:** Marcus Cole
+- **Status:** DONE
+- **Follow-up ideas:** Biltmore Championship field; Good Good Championship field
+
 ## 2026-09-01
 
 | Date | Tier | Story | Platforms | Status |

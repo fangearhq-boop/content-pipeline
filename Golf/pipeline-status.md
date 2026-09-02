@@ -1,6 +1,18 @@
 # Golf Pipeline Status — Golf Fanrecap
 
 ## Last Run
+- **Date**: 2026-09-02
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish blocked — egress proxy 403 Forbidden; dashboard publish blocked — content-dashboards repo not in session's authorized set)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** gfr-postplanner-2026-09-02.xlsx (7 posts) + gfr-postplanner-tobi-2026-09-02.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-09-02/review-dashboard.html (27 items)
+- **Notes:** LIV GOLF LAYOFFS — Majority of 300+ staff laid off after Indianapolis finale; PIF out ($5B+); BC Partners term sheet signed ($250-350M) but deal not final; Sept 1 deadline passed; LIV 2.0 = 10 events reduced purses player equity; Norman won't guarantee 2027; Poulter: "time might run out"; 50+ contracted players waiting; SOLHEIM CUP — Sept 7-13 Bernardus Golf Cromvoirt Netherlands (first Dutch host); USA captain Stanford, Europe captain Nordqvist; Korda (No.1, 4 wins 2 majors) leads USA; Hull (No.7) headlines Europe; USA won 2024 15.5-12.5; PRESIDENTS CUP — Sept 24-27 Medinah; captain's picks confirmed Sept 1; USA: Scheffler/Young/Clark/Henley/Burns/Morikawa + Schauffele/Thomas/Cantlay/Gotterup/Bridgeman/Koivun (21, youngest ever); International: Matsuyama/Si Woo Kim/Fox/Tom Kim/Min Woo Lee/Scott + picks; SCHEFFLER EARNINGS — $130,390,661 official career earnings (Tiger $120,999,166); 22 wins, 2 Masters, 2 FedExCup, 5 No. 1 seeds, age 30; PGA FALL — Biltmore Sept 17-20 Asheville NC; Bank of Utah Oct 1-4; Baycurrent Classic Japan Oct 8-11; Bermuda Oct 22-25; Good Good Championship Nov 9-15 Austin TX
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+
+### 2026-09-01
 - **Date**: 2026-09-01
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish blocked — egress proxy 403 Forbidden; dashboard publish blocked — content-dashboards repo not in session's authorized set)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)
