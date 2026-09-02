@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-09-01 |
-| Writing | Complete (all steps) | 2026-09-01 |
-| Fact-check | Complete (verify-facts.py run — 5 stories, 26 claims) | 2026-09-01 |
-| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 5 articles, 22 items) | 2026-09-01 |
-| Dashboard | Complete (review-dashboard.html, 22 items) | 2026-09-01 |
-| PostPlanner Export | 0 posts (parser compat known issue) | 2026-09-01 |
-| WordPress Publish | Attempted — proxy blocks WordPress API (same as all prior runs) | 2026-09-01 |
-| Dashboard Push | Attempted — proxy lacks write access to content-dashboards repo (same as all prior runs) | 2026-09-01 |
+| Research | Complete | 2026-09-02 |
+| Writing | Complete (all steps) | 2026-09-02 |
+| Fact-check | Complete (verify-facts.py run — 5 stories, 23 claims) | 2026-09-02 |
+| Compile | Complete (07-content-data.json — 5 stories, 8 X posts, 5 articles, 28 items) | 2026-09-02 |
+| Dashboard | Complete (review-dashboard.html, 28 items) | 2026-09-02 |
+| PostPlanner Export | 0 posts (parser compat known issue) | 2026-09-02 |
+| WordPress Publish | Attempted — proxy blocks WordPress API (same as all prior runs) | 2026-09-02 |
+| Dashboard Push | Attempted — proxy lacks write access to content-dashboards repo (same as all prior runs) | 2026-09-02 |
 
 ## Queue
 
@@ -24,6 +24,16 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-09-02 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 8 X posts + 5 FB posts (5 long-form + 5 captions) = 13 total
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
+- **PostPlanner exports:** 0 posts (known parser compat issue — same as prior runs)
+- **Key stories:** Zverev survives epic 4h53m five-setter vs. Sonego 6-4, 3-6, 6-7(7), 7-5, 6-4; Monfils wins on 40th birthday (oldest man to win US Open match since Connors 1992; 34th US Open win, French record; 18th/final US Open before retirement); Rybakina shakes off Cincinnati ankle injury, beats Frodin 6-3, 6-2 in 74 min; Eala dominates Stoiana 6-1, 6-2 in 78 min (Louis Armstrong, R2 for 2nd straight year vs. Oliynykova); US Open Day 4/R2 preview (Alcaraz vs. Faria, Rybakina vs. Bouzas Maneiro, Gauff R2, Osaka vs. Siniakova, FAA vs. Khachanov)
+- **Issues:** image manifest warning (expected for imagn source); compile posting-window warnings cosmetic (known); PostPlanner 0 posts (known parser issue); WordPress blocked by proxy; dashboard push blocked by proxy (content-dashboards not in session authorized repos)
+- **Story history:** Updated with all 5 stories
 
 ### 2026-09-01 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
