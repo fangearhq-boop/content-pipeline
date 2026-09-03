@@ -1,0 +1,310 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-03",
+  "compiled_at": "2026-09-03T11:48:21.609920+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 — LIV Bankruptcy",
+      "type": "X (Text 1)"
+    },
+    {
+      "time": "8:30 AM",
+      "description": "Story 1 — LIV Bankruptcy",
+      "type": "Facebook Long-Form"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2 — Solheim Cup Preview",
+      "type": "Facebook Long-Form"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 2 — Solheim Cup Preview",
+      "type": "X (Text 1)"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3 — Korda vs Hull",
+      "type": "X (Text 1)"
+    },
+    {
+      "time": "1:30 PM",
+      "description": "Story 3 — Korda vs Hull",
+      "type": "Facebook Long-Form"
+    },
+    {
+      "time": "3:30 PM",
+      "description": "Story 4 — Presidents Cup",
+      "type": "X (Text 1)"
+    },
+    {
+      "time": "4:00 PM",
+      "description": "Story 4 — Presidents Cup",
+      "type": "Facebook Long-Form"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 5 — Biltmore Championship",
+      "type": "X (Text 1)"
+    },
+    {
+      "time": "6:30 PM",
+      "description": "Story 5 — Biltmore Championship",
+      "type": "Facebook Long-Form"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "LIV Golf Bankruptcy Expected by September 7",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "LIV Golf is preparing to file for Chapter 11 bankruptcy protection as soon as September 7 — the same weekend the Solheim Cup opens and four days from today. Player settlements are being offered at pennies on the dollar. BC Partners talks remain unresolved. More than 50 contracted players face uncertainty.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "LIV Golf is preparing to file for bankruptcy as soon as September 7.\n\n50+ contracted players offered pennies on the dollar.\nBC Partners deal: still unsigned.\nPIF's $5B+ investment: ending.\n\nThe league that changed golf is on the brink. ⛳ #LIVGolf #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf",
+            "#Golf"
+          ],
+          "char_count": 252
+        },
+        {
+          "label": "Post 1-2",
+          "text": "If LIV files for bankruptcy this week:\n\n• 50+ players need new homes\n• PGA Tour reinstatement fights begin\n• LIV 2.0 (player-owned, 10 events) unclear\n\nThe golf world is about to get very complicated, very fast.\n\n#LIVGolf #PGATour #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf",
+            "#PGATour",
+            "#Golf"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "LIV Golf is preparing to file for Chapter 11 bankruptcy as soon as September 7. $5B+ in Saudi investment is ending. 50+ players face a choice. The league that changed golf is on the brink.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-liv-golf-bankruptcy-september-2026.html",
+        "headline": "LIV Golf Expected to File for Bankruptcy by September 7 — Players Offered Pennies on the Dollar",
+        "word_count": 696
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LIV Golf Bankruptcy Expected by September 7\n\n**Social Image (1080x1350, 4:5 vertical)**\n- Visual Description: Jon Rahm in LIV Golf attire — team shirt or competition round. Or general LIV Golf on-course action shot.\n- Photo Search Terms (Imagn):\n  1. \"Jon Rahm LIV Golf\"\n  2. \"Bryson DeChambeau LIV Golf\"\n  3. \"Phil Mickelson LIV Golf\"\n  4. \"LIV Golf tournament\"\n- Text Overlay Copy:\n  - Headline: \"BANKRUPTCY FILING IMMINENT.\" (white, Bebas Neue)\n  - Subtitle: \"LIV GOLF'S FUTURE HANGS IN THE BALANCE\" (gold #FFC107, Montserrat)\n  - Background overlay: Dark Midnight #1A1A2E at 50% opacity, bottom third\n- Composition Notes: Dark, serious tone. High-contrast. Player in LIV-branded gear preferred.\n\n**Article Hero (1200x630)**\n- Landscape crop; same search terms; LIV on-course action\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LIV Golf Bankruptcy Expected by September 7\n**Decision:** FOLLOW UP (layoffs confirmed Aug 28-30; now bankruptcy filing imminent)\n**Sources:**\n1. Newsmax/IUX24: \"LIV Golf Prepares for Bankruptcy Filing in September\" — Aug 31, 2026\n2. Yahoo Sports: \"LIV Golf is on the Verge of Bankruptcy, with Player Settlements Worth Pennies on the Dollar\" — sports.yahoo.com\n3. Yahoo Sports: \"LIV Golf Could File for Bankruptcy as Soon as Next Week\" — sports.yahoo.com\n4. Heavy.com: \"LIV Golfers Offered Pennies on the Dollar As League Prepares Bankruptcy Filing\" — heavy.com\n5. Front Office Sports: \"LIV Golf's Next Steps: Bankruptcy, Investor Talks, Contract Buyouts\" — frontofficesports.com\n6. Insider Sport: \"LIV Golf considering bankruptcy following PIF exit\" — Aug 2, 2026\n**Key Facts (Verified):**\n- LIV Golf preparing to file Chapter 11 bankruptcy as soon as September 7 (HIGH — Financial Times report, multiple sources)\n- LIV laid off majority of 300+ staff ahead of filing (HIGH — multiple sources confirmed Aug 28-30)\n- PIF has invested $5B+ in LIV Golf since 2022; funding ends after 2026 season (HIGH — multiple sources)\n- BC Partners Credit in talks for $250M-$350M deal; not finalized (HIGH — huddleup.substack, FOS)\n- Player settlements at \"pennies on the dollar\" for guaranteed contracts (HIGH — Yahoo Sports, Heavy)\n- 50+ contracted players in limbo on next steps (MEDIUM — FOS)\n- Three player scenarios: settle + join LIV 2.0, settle + leave, or pursue claims (MEDIUM — FOS)\n- LIV 2.0 plan: 10 events, player equity ownership, reduced purses (HIGH — previous reporting)\n- Chapter 11 = restructuring, not shutdown (HIGH — multiple explanations)\n- Jon Rahm won third consecutive LIV individual title at Indianapolis finale (HIGH — prior day reporting)\n**Freshness:** Actively developing story; bankruptcy filing expected within days of publication.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Solheim Cup 2026 — Complete Rosters, Four Days Out",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "The 2026 Solheim Cup opens September 7-13 at Bernardus Golf in Cromvoirt, Netherlands — the first-ever Dutch hosting of the event. Team USA enters as defending champions (won 15.5-12.5 in 2024). Both 12-player squads are set.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Solheim Cup 2026 — 4 days away.\n\nTeam USA: Korda, Zhang, Khang, Yin, Kupcho, Noh, Coughlin, Corpuz, Lee x2, Kim, Duncan\n\nTeam Europe: Hull, Woad, Stark, Boutier, Ciganda, Grant, Madsen, Maguire, López, Nadaud, Rhodes\n\nUSA defends. Netherlands awaits. #SolheimCup #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SolheimCup",
+            "#Golf"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "The 2026 Solheim Cup is 4 days away. USA defends. Europe hungers. First-ever Dutch hosting. Korda vs Hull. It's time.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-solheim-cup-2026-preview-teams-netherlands.html",
+        "headline": "Solheim Cup 2026: Complete Team Rosters, Format, and Everything to Know Four Days Out",
+        "word_count": 609
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Solheim Cup 2026 — Complete Rosters, Four Days Out\n\n**Social Image (1080x1350, 4:5 vertical)**\n- Visual Description: Nelly Korda in Team USA gear, celebrating or concentrating. LPGA tournament setting.\n- Photo Search Terms (Imagn):\n  1. \"Nelly Korda Team USA\"\n  2. \"Nelly Korda LPGA\"\n  3. \"Charley Hull Solheim Cup\"\n  4. \"Solheim Cup USA Europe\"\n- Text Overlay Copy:\n  - Headline: \"4 DAYS TO SOLHEIM.\" (white, Bebas Neue)\n  - Subtitle: \"USA DEFENDS. EUROPE HUNGERS.\" (gold #FFC107, Montserrat)\n  - Background overlay: Dark Midnight #1A1A2E at 45% opacity, bottom third\n- Composition Notes: USA red/blue patriotic feel. Korda in action ideal. Energy and anticipation.\n\n**Article Hero (1200x630)**\n- Landscape crop; Korda or team USA at Solheim\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Solheim Cup 2026 — Complete Rosters, Four Days Out\n**Decision:** FOLLOW UP (rosters confirmed Aug 24-26; now 4 days to opening ceremony)\n**Sources:**\n1. Sky Sports: \"Solheim Cup 2026: Angela Stanford names Megan Khang, Rose Zhang and Lindy Duncan as captain's picks\" — skysports.com\n2. Golf Channel: \"Meet the 2026 U.S. Solheim Cup team, including three captain's picks\" — golfchannel.com\n3. Golf Channel: \"Meet the 2026 European Solheim Cup team, including four captain's picks\" — golfchannel.com\n4. CBS Sports: \"2026 Solheim Cup rosters: Nelly Korda and Charley Hull headline U.S. and Europe teams\" — cbssports.com\n5. solheimcup2026.golf: \"U.S. Solheim cup team confirmed\" — official site\n6. Golfmagic: \"Solheim Cup 2026: Full USA and Europe team lineups confirmed\" — golfmagic.com\n**Key Facts (Verified):**\n- Dates: Sept 7-13, 2026; competition Sept 11-13; venue: Bernardus Golf, Cromvoirt, Netherlands (HIGH — official site)\n- First Solheim Cup in the Netherlands (HIGH — multiple sources)\n- USA captain: Angela Stanford; Europe captain: Anna Nordqvist (HIGH — multiple sources)\n- USA auto qualifiers (9): Korda, Yin, Kupcho, Noh, Auston Kim, Coughlin, Corpuz, Andrea Lee, Alison Lee (HIGH — official + Golf Channel)\n- USA captain's picks: Megan Khang, Rose Zhang, Lindy Duncan (HIGH — Sky Sports, official)\n- Megan Khang: fifth Solheim Cup, 7-3-3 career record (HIGH — Sky Sports)\n- Rose Zhang: 4-0 record at 2024 Solheim; third appearance (HIGH — Sky Sports)\n- Lindy Duncan: Solheim Cup debut; one of two USA rookies (HIGH — Golf Channel)\n- Europe auto qualifiers: Hull, Woad, Stark, Boutier, Ciganda, Linn Grant, Madsen, Maguire (HIGH — Golf Channel, CBS)\n- Europe captain's picks (4): López Ramírez, Nadaud, Mimi Rhodes, Leona Maguire (HIGH — CBS Sports, Golf Channel)\n- USA won 15.5-12.5 in Virginia 2024; Europe won 3 straight before that (HIGH — multiple)\n- 28 total points; 14.5 to win; 14 to retain for defending champion (HIGH — LPGA)\n**Freshness:** Rosters complete; match opens in 4 days. Strong timing.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Nelly Korda vs Charley Hull — Solheim Cup's Marquee Duel",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "The 2026 Solheim Cup's most compelling individual storyline: world No. 1 Nelly Korda against Europe's leader Charley Hull. Two of the best female golfers in the world, matched across the pond, carrying their respective team's fortunes.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The biggest individual storyline at the 2026 Solheim Cup:\n\nNelly Korda — world No. 1, 4 wins + 2 majors in 2026, 10-5-1 lifetime Solheim record.\n\nCharley Hull — 8 straight Cups, leads Europe, Laura Davies says she must lead.\n\nWho wins the matchup? 🏌️‍♀️ #SolheimCup #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SolheimCup",
+            "#Golf"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "Nelly Korda: world No. 1, 4 wins + 2 majors in 2026, 10-5-1 Solheim record. Charley Hull: 8 straight Cups, leads Team Europe. Their duel at Bernardus Golf will define the 2026 Solheim Cup.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-korda-hull-solheim-cup-rivalry-2026.html",
+        "headline": "Korda vs Hull: The Individual Rivalry at the Center of the 2026 Solheim Cup",
+        "word_count": 675
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Nelly Korda vs Charley Hull — Solheim Cup's Marquee Duel\n\n**Social Image (1080x1350, 4:5 vertical)**\n- Visual Description: Nelly Korda in LPGA competition — driver follow-through or post-birdie celebration. Dynamic action.\n- Photo Search Terms (Imagn):\n  1. \"Nelly Korda LPGA\"\n  2. \"Charley Hull golf\"\n  3. \"Charley Hull LET\"\n  4. \"Nelly Korda Solheim\"\n- Text Overlay Copy:\n  - Headline: \"KORDA VS HULL.\" (white, Bebas Neue)\n  - Subtitle: \"THE SOLHEIM CUP RIVALRY THAT MATTERS MOST\" (gold #FFC107, Montserrat)\n  - Background overlay: Dark Midnight #1A1A2E at 45% opacity, bottom third\n- Composition Notes: Split-image feel (USA vs Europe) if possible. Otherwise feature Korda driving, with power and confidence.\n\n**Article Hero (1200x630)**\n- Korda or Hull in action; landscape crop\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Nelly Korda vs Charley Hull — Solheim Cup's Marquee Duel\n**Decision:** FOLLOW UP (individual storyline within Solheim)\n**Sources:**\n1. LPGA.com: \"Nelly Korda Clinches Spot on 2026 US Solheim Cup Team\" — lpga.com\n2. Sky Sports: \"Charley Hull must 'step up and lead' Team Europe\" — skysports.com\n3. CBS Sports: \"2026 Solheim Cup rosters: Nelly Korda and Charley Hull headline\" — cbssports.com\n4. Just Women's Sports: \"Charley Hull, Lottie Woad Lock in Solheim Cup 2026 Spots\" — justwomenssports.com\n5. Facebook/LPGA: Nelly Korda 4 wins in 2026 post — lpga.com Facebook\n**Key Facts (Verified):**\n- Korda: world No. 1; 4 LPGA wins + 2 majors in 2026 (HIGH — LPGA, multiple sources)\n- Korda: 10-5-1 lifetime Solheim record; fifth Cup appearance (HIGH — Sky Sports)\n- Hull: 8 consecutive Solheim Cup appearances — longest active streak (HIGH — CBS, Just Women's Sports)\n- Hull topped 2026 Ladies European Tour points list to qualify automatically (HIGH — Just Women's Sports)\n- Dame Laura Davies: Hull must \"step up and lead\" Team Europe (HIGH — Sky Sports direct quote)\n- Hull and Carlota Ciganda: most experienced Europeans on 2026 squad (HIGH — CBS Sports)\n- Rose Zhang: 4-0 perfect record at 2024 Solheim; third Cup appearance (HIGH — multiple)\n- Megan Khang: 7-3-3 career Solheim record across 5 Cups (HIGH — Sky Sports)\n- USA hasn't won back-to-back Solheim Cups since 2015/2017 (HIGH — historical record)\n**Freshness:** Pre-match feature; strong timing 4 days before opening.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Presidents Cup 2026 — Three Weeks to Medinah",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "The 2026 Presidents Cup at Medinah Country Club is three weeks away (Sept 24-27). Both teams are finalized. Team USA, led by world No. 1 Scottie Scheffler under captain Brandt Snedeker, is chasing a record 11th consecutive Presidents Cup title. The International squad under captain Geoff Ogilvy wants its first Cup since 1998.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "3 weeks until Presidents Cup 2026 at Medinah.\n\nTeam USA: Scheffler, Young, Clark, Henley, Burns, Morikawa + 6 picks\nInternational: Si Woo Kim, Matsuyama, Fox, Tom Kim, Min Woo Lee, Scott + 6 picks\n\nJackson Koivun (21) is the youngest pick in Cup history.\n\n#PresidentsCup #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PresidentsCup",
+            "#Golf"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "Presidents Cup 2026 is 3 weeks away. USA chases an 11th straight title. Scheffler leads. Jackson Koivun (21) is the youngest pick ever. The International team wants what they haven't had since 1998.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-presidents-cup-2026-medinah-teams-preview.html",
+        "headline": "Presidents Cup 2026: Full Teams Set, Three Weeks to Medinah",
+        "word_count": 537
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Presidents Cup 2026 — Three Weeks to Medinah\n\n**Social Image (1080x1350, 4:5 vertical)**\n- Visual Description: Scottie Scheffler in Team USA Presidents Cup gear or competition action. Medinah or green background.\n- Photo Search Terms (Imagn):\n  1. \"Scottie Scheffler Presidents Cup\"\n  2. \"Scottie Scheffler PGA Tour\"\n  3. \"Hideki Matsuyama Presidents Cup\"\n  4. \"Si Woo Kim Presidents Cup\"\n- Text Overlay Copy:\n  - Headline: \"3 WEEKS TO MEDINAH.\" (white, Bebas Neue)\n  - Subtitle: \"USA CHASES 11 STRAIGHT PRESIDENTS CUP TITLES\" (gold #FFC107, Montserrat)\n  - Background overlay: Dark Midnight #1A1A2E at 45% opacity, bottom third\n- Composition Notes: Team USA red/white/blue palette fits the event feel. Scheffler in action is the ideal visual anchor.\n\n**Article Hero (1200x630)**\n- Scheffler in action; landscape crop\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Presidents Cup 2026 — Three Weeks to Medinah\n**Decision:** FOLLOW UP (rosters confirmed; 3 weeks out)\n**Sources:**\n1. Chicago Golf Report: \"2026 Presidents Cup at Medinah: Teams, Tickets & Fan Guide\" — chicagogolfreport.com\n2. presidentscup.com: official event site\n3. Wikipedia: \"2026 Presidents Cup\" — en.wikipedia.org\n4. Golfmagic: Prior coverage of captain's picks\n**Key Facts (Verified):**\n- Dates: Sept 24-27, 2026; practice Sept 22-23; venue: Medinah No. 3, Medinah IL (HIGH — presidentscup.com)\n- USA captain: Brandt Snedeker; International captain: Geoff Ogilvy (HIGH — multiple)\n- USA auto (6): Scheffler, Young, Clark, Henley, Burns, Morikawa (HIGH — Wikipedia, Chicago Golf Report)\n- USA picks (6): Gotterup, Schauffele, Thomas, Bridgeman, Cantlay, Koivun (HIGH — prior reporting)\n- Jackson Koivun (21): youngest ever Presidents Cup pick (HIGH — prior reporting)\n- International auto (6): Si Woo Kim (led standings), Matsuyama, Fox, Tom Kim, Min Woo Lee, Adam Scott (HIGH — multiple)\n- International picks (6): Conners, Echavarría, Im, Hisatsune, Taylor, Bezuidenhout (HIGH — Chicago Golf Report)\n- USA has won 10 consecutive Presidents Cups; International last won 1998 (HIGH — historical)\n- USA motivated by 2025 Ryder Cup loss (HIGH — prior reporting context)\n- 30 matches total (HIGH)\n**Freshness:** Three weeks out; strong timing for a preview.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Biltmore Championship — The Fall Swing's Most Intriguing New Event",
+      "tier": 2,
+      "status": "",
+      "angle": "Two weeks from today (Sept 17-20), the inaugural Biltmore Championship tees off at The Cliffs at Walnut Cove in Asheville, North Carolina — marking the PGA Tour's return to the Blue Ridge Mountains for the first time since Ben Hogan played there in the early 1940s. The debut event carries extra significance as a symbol of Asheville's recovery from Hurricane Helene.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The inaugural Biltmore Championship tees off Sept 17 in Asheville, NC.\n\nFirst PGA Tour event in the Blue Ridge Mountains since Ben Hogan played there in the 1940s.\n\nJack Nicklaus course. Pisgah National Forest backdrop.\n\nGolf is going somewhere special. ⛳ #PGATour #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour",
+            "#Golf"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "The inaugural Biltmore Championship starts September 17 in Asheville, NC — the first PGA Tour event in the Blue Ridge Mountains since the Ben Hogan era. Jack Nicklaus course. Pisgah National Forest backdrop. Golf is going somewhere special.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-biltmore-championship-asheville-2026-debut.html",
+        "headline": "The Biltmore Championship Is Two Weeks Away — Here's Why It's the Most Intriguing New Event on Tour",
+        "word_count": 603
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Biltmore Championship — Fall Swing's Most Intriguing New Event\n\n**Social Image (1080x1350, 4:5 vertical)**\n- Visual Description: Mountain golf course scenery — lush fairway with mountain backdrop. Atmospheric landscape photography. No specific player required.\n- Photo Search Terms (Imagn):\n  1. \"Scottie Scheffler PGA Tour\"\n  2. \"Xander Schauffele PGA Tour\"\n  3. \"PGA Tour fall swing\"\n  4. \"mountain golf course\"\n- Text Overlay Copy:\n  - Headline: \"BLUE RIDGE GOLF IS BACK.\" (white, Bebas Neue)\n  - Subtitle: \"BILTMORE CHAMPIONSHIP — SEPT 17-20 ASHEVILLE\" (gold #FFC107, Montserrat)\n  - Background overlay: Dark Midnight #1A1A2E at 45% opacity, bottom third\n- Composition Notes: Scenic, atmospheric. Mountains and fairway preferred. Wide shot to show the scale of the setting.\n\n**Article Hero (1200x630)**\n- Landscape crop; mountain golf course or PGA Tour player in scenic setting"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Biltmore Championship — The Fall Swing's Most Intriguing New Event\n**Decision:** NEW (inaugural event two weeks away)\n**Sources:**\n1. PGA Tour: \"Biltmore Championship in Asheville to debut in 2026 during PGA TOUR's FedExCup Fall\" — pgatour.com\n2. Explore Asheville press release: \"Biltmore Championship Asheville To Debut In 2026\" — exploreasheville.com\n3. Golf Channel: \"2026 Biltmore Championship Asheville\" — golfchannel.com\n4. Athlon Sports: \"The Biltmore Championship: A Beacon of Hope for Asheville's Remarkable Recovery\" — athlonsports.com\n5. Biltmore Estate: \"Biltmore Championship Asheville\" — biltmore.com\n**Key Facts (Verified):**\n- Dates: September 17-20, 2026 (HIGH — PGA Tour official)\n- Venue: The Cliffs at Walnut Cove, Arden NC (near Asheville) (HIGH — PGA Tour)\n- Course: Jack Nicklaus-designed; 7,167 yards; private; borders Pisgah National Forest and Blue Ridge Parkway (HIGH — PGA Tour, exploreasheville.com)\n- First PGA Tour event in Blue Ridge Mountains since Ben Hogan era (early 1940s) (HIGH — PGA Tour press release)\n- 4-year agreement: co-sponsors Biltmore Estate + Explore Asheville (HIGH — official)\n- Part of FedExCup Fall 2026-27 slate (HIGH)\n- Broadcast: Golf Channel, PGA Tour Live (ESPN+), Sirius XM, World Feed (HIGH — PGA Tour)\n- Event symbolizes Asheville's recovery from Hurricane Helene (MEDIUM — Athlon Sports)\n- Field not yet officially released as of Sept 3 (HIGH — confirmed by search; no field list available)\n**Freshness:** Two weeks to first round; field anticipated; strong preview angle.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

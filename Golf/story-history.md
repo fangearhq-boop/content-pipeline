@@ -2,6 +2,56 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-09-03
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-03 | T1 | LIV Golf Bankruptcy Expected by September 7 — Players Offered Pennies on Dollar | X(2), FB, Article | FOLLOW UP |
+| 2026-09-03 | T1 | Solheim Cup 2026 — Complete Rosters, Four Days Out at Bernardus Golf | X(1), FB, Article | FOLLOW UP |
+| 2026-09-03 | T2 | Nelly Korda vs Charley Hull — Solheim Cup's Marquee Individual Duel | X(1), FB, Article | FOLLOW UP |
+| 2026-09-03 | T2 | Presidents Cup 2026 — Full Teams Set, Three Weeks to Medinah | X(1), FB, Article | FOLLOW UP |
+| 2026-09-03 | T2 | Biltmore Championship — Fall Swing's Most Intriguing New Event | X(1), FB, Article | NEW |
+
+### STORY 1: LIV Golf Bankruptcy Expected by September 7
+- **Tier:** 1
+- **Category:** LIV Golf / Bankruptcy / BC Partners / PIF / Players / LIV 2.0
+- **Key facts:** Filing expected as soon as Sept 7; majority of 300+ staff already laid off; PIF funded $5B+ since 2022, ending after 2026; BC Partners $250M-$350M deal unsigned; players offered pennies on dollar in settlements; 50+ contracted players face 3-way choice (settle+join LIV 2.0 / settle+leave / pursue full claims in bankruptcy); LIV 2.0 = 10 events, player equity, reduced purses; Chapter 11 = restructuring not shutdown; Jon Rahm won third straight LIV individual title at Indianapolis
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Bankruptcy filing confirmation; BC Partners deal (if closed); player decisions on reinstatement; PGA Tour response
+
+### STORY 2: Solheim Cup 2026 — Complete Rosters, Four Days Out
+- **Tier:** 1
+- **Category:** Solheim Cup / Team USA / Team Europe / Angela Stanford / Anna Nordqvist / Bernardus Golf / Netherlands / LPGA
+- **Key facts:** Sept 7-13 at Bernardus Golf, Cromvoirt, Netherlands; first-ever Dutch Solheim; USA auto (9): Korda, Yin, Kupcho, Noh, Auston Kim, Coughlin, Corpuz, Andrea Lee, Alison Lee; USA picks (3): Megan Khang, Rose Zhang, Lindy Duncan; Europe auto (8): Hull, Woad, Stark, Boutier, Ciganda, Linn Grant, Madsen, Maguire; Europe picks (4): López Ramírez, Nadaud, Mimi Rhodes, Leona Maguire; USA won 2024 15.5-12.5; Europe won 3 straight before; 28 points total; 14.5 to win, 14 to retain
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Day-by-day match results; pairings breakdown; final score; MVP analysis
+
+### STORY 3: Nelly Korda vs Charley Hull — Solheim Cup's Marquee Duel
+- **Tier:** 2
+- **Category:** Solheim Cup / Nelly Korda / Charley Hull / Team USA / Team Europe / LPGA / LET
+- **Key facts:** Korda: world No. 1, 4 wins + 2 majors in 2026, 10-5-1 Solheim record, fifth Cup; Hull: 8 consecutive Cups (longest active streak), topped 2026 LET standings; Dame Laura Davies challenge to Hull: "step up and lead"; Rose Zhang 4-0 at 2024; Megan Khang 7-3-3 career; USA hasn't won back-to-back since 2015/2017
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Match-by-match performance; singles pairings Sunday; player of the match
+
+### STORY 4: Presidents Cup 2026 — Full Teams, Three Weeks to Medinah
+- **Tier:** 2
+- **Category:** Presidents Cup / Scottie Scheffler / Brandt Snedeker / Geoff Ogilvy / Medinah / Jackson Koivun / Si Woo Kim
+- **Key facts:** Sept 24-27 Medinah No. 3; USA: Scheffler, Young, Clark, Henley, Burns, Morikawa (auto) + Gotterup, Schauffele, Thomas, Bridgeman, Cantlay, Koivun (picks); International: Si Woo Kim, Matsuyama, Fox, Tom Kim, Min Woo Lee, Scott (auto) + Conners, Echavarría, Im, Hisatsune, Taylor, Bezuidenhout (picks); USA 10-win streak; International last won 1998; Koivun (21) youngest pick ever; 30 matches
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Pairings strategy preview; Day 1 results; final score
+
+### STORY 5: Biltmore Championship — Inaugural Fall Swing Event
+- **Tier:** 2
+- **Category:** PGA Tour / FedExCup Fall / Biltmore Championship / Asheville / Blue Ridge Mountains
+- **Key facts:** Sept 17-20 at The Cliffs at Walnut Cove, Arden NC; Jack Nicklaus design; 7,167 yards; first PGA Tour Blue Ridge Mountains event since Ben Hogan era (1940s); 4-year deal Biltmore Estate + Explore Asheville; FedExCup Fall opener; Golf Channel + PGA Tour Live (ESPN+) coverage; field not released as of Sept 3; Asheville post-Hurricane Helene recovery significance
+- **Byline:** Jake Torres
+- **Status:** NEW
+- **Follow-up ideas:** Field announcement; tournament preview with favorites; Round 1 leaderboard
+
 ## 2026-09-02
 
 | Date | Tier | Story | Platforms | Status |
