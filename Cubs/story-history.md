@@ -5,6 +5,61 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-09-03
+
+### STORY 1: Recap — Brewers 9, Cubs 5 (Chourio 4-for-4, Cubs' Slide Hits 3-7 in Last 10)
+- **Angle:** FOLLOW UP (Sept 2 covered Game 2 preview — Misiorowski vs Peterson; now covering result: Cubs lose 9-5, Bregman HR/4 RBI, Cubs now 78-62 and 3-7 in last 10)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - Series finale result recap (Sept 4 morning)
+  - Gausman start quality follow-up
+
+### STORY 2: PCA 40-40 Watch — 38 HR/32 SB (Two HRs Last Night)
+- **Angle:** FOLLOW UP (last covered Sept 2 at 36 HR/32 SB; tonight's loss added 2 HRs; now 2 HR + 8 SB from 40-40 history with ~22 games left)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, stat breakdown/bold take)
+- **Follow-Up Opportunities:**
+  - PCA 39th HR milestone
+  - PCA 40th HR announcement (franchise first)
+  - PCA 40th SB / 40-40 achievement announcement
+  - MVP award framing (November)
+
+### STORY 3: Wild Card Watch — Cubs 78-62, 3-7 Slide, Cardinals 68-70 Cooked
+- **Angle:** FOLLOW UP (last covered Sept 2; today: Cubs 78-62 after loss, 3-7 in last 10, still in WC field; Cardinals 68-70 effectively out of division race; rival jab)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, analysis/rival watch)
+- **Follow-Up Opportunities:**
+  - Cardinals WC elimination watch
+  - Cubs WC clinch magic number updates
+  - Head-to-head WC standings vs Phillies
+
+### STORY 4: Steele Iowa Rehab Starts / Wiggins 4 Straight Scoreless at Iowa
+- **Angle:** FOLLOW UP (last covered Sept 2 as "Steele begins Iowa rehab this week"; today confirmed Steele officially started; Wiggins 4 scoreless bullpen outings, 7 K / 16 batters; October depth building)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, roster/injury update)
+- **Follow-Up Opportunities:**
+  - Steele Iowa rehab start result
+  - Steele MLB activation date
+  - Wiggins official Chicago callup announcement
+
+### STORY 5: Game Preview — Gausman vs Henderson (9-2, 2.48 ERA), 6:15 PM CT
+- **Angle:** NEW STORY (series finale — Gausman on the mound for Chicago vs Henderson, Milwaukee's elite RHP; series finale, Wrigley Field, broadcast FOX)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Game result recap (Sept 4 morning)
+  - Gausman performance follow-up
+
+### STORY 6: Pre-Game Hype — Series Finale, Wrigley, 6:15 PM CT
+- **Angle:** FOLLOW UP (supporting story for tonight's game; urgency of avoiding 4-game series loss vs MLB's best team; Wrigley atmosphere)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, pre-game hype)
+- **Follow-Up Opportunities:**
+  - Game result recap
+
+---
+
 ## 2026-09-02
 
 ### STORY 1: Recap — Brewers 9, Cubs 4 (Boyd Burned in 6th)
