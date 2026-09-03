@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-02T08:30:00.187668+00:00",
+  "generated_at": "2026-09-03T08:30:00.117887+00:00",
   "account": "cubs",
   "window_days": 21,
   "tweet_count": 121,
   "measured_tweet_count": 121,
-  "measured_median_impressions": 96,
-  "measured_mean_impressions": 132.64,
-  "median_impressions": 96,
-  "mean_impressions": 132.64,
+  "measured_median_impressions": 89,
+  "measured_mean_impressions": 132.53,
+  "median_impressions": 89,
+  "mean_impressions": 132.53,
   "max_impressions": 1148,
   "significant_findings": [
     {
@@ -15,38 +15,12 @@
       "kind": "binary",
       "winner": "True",
       "loser": "False",
-      "median_impressions_winner": 109,
-      "median_impressions_loser": 82.0,
-      "n_winner": 49,
-      "n_loser": 72,
-      "p_value": 0.0102,
-      "effect_size_cliffs_delta": 0.276,
-      "effect_size_label": "small"
-    },
-    {
-      "dimension": "posting_window=midday_12_18",
-      "kind": "time_window_vs_rest",
-      "winner": "midday_12_18",
-      "loser": "not_midday_12_18",
-      "median_impressions_winner": 111,
-      "median_impressions_loser": 83.0,
-      "n_winner": 49,
-      "n_loser": 72,
-      "p_value": 0.0395,
-      "effect_size_cliffs_delta": 0.221,
-      "effect_size_label": "small"
-    },
-    {
-      "dimension": "posting_window=morning_06_12",
-      "kind": "time_window_vs_rest",
-      "winner": "not_morning_06_12",
-      "loser": "morning_06_12",
-      "median_impressions_winner": 111,
-      "median_impressions_loser": 83.0,
-      "n_winner": 49,
-      "n_loser": 72,
-      "p_value": 0.0395,
-      "effect_size_cliffs_delta": 0.221,
+      "median_impressions_winner": 106.0,
+      "median_impressions_loser": 84,
+      "n_winner": 50,
+      "n_loser": 71,
+      "p_value": 0.0182,
+      "effect_size_cliffs_delta": 0.253,
       "effect_size_label": "small"
     }
   ],
@@ -65,35 +39,35 @@
     "by_hour_ct": {
       "17": {
         "n": 7,
-        "mean": 167.29,
+        "mean": 170.43,
         "median": 104,
         "top": {
-          "impressions": 557,
+          "impressions": 563,
           "text": "Series tied 1-1. Game 3 tonight at Wrigley. 6:20 PM CT.\n\nKevin Gausman starts for Chicago. Andrew Abbott for Cincinnati. Cubs just dropped 17 runs on these Reds yesterday.\n\nHome. Series on the line. Win.\n\n#Cubs #GoCubs #FlyTheW"
         }
       },
       "15": {
-        "n": 5,
-        "mean": 132.6,
-        "median": 154,
+        "n": 6,
+        "mean": 129.5,
+        "median": 137.5,
         "top": {
-          "impressions": 200,
+          "impressions": 224,
           "text": "Jaxon Wiggins hasn't allowed a run in his last three Iowa bullpen outings \u2014 98 mph, strikeout-per-inning stuff.\n\nCounsell knows. The No. 2 Cubs prospect is making his September case louder every time out.\n\n#Cubs #GoCubs #CubsBaseball"
         }
       },
       "14": {
-        "n": 7,
-        "mean": 126.71,
-        "median": 133,
+        "n": 8,
+        "mean": 124.25,
+        "median": 129.5,
         "top": {
-          "impressions": 194,
+          "impressions": 216,
           "text": "Good news on Dansby Swanson: he resumed defensive work at Wrigley this week.\n\nLight swinging starts next week. The Grade 2 oblique (Aug 17) is healing on schedule.\n\nPostseason activation is still the goal.\n\n#Cubs #CubsBaseball #MLB"
         }
       },
       "13": {
-        "n": 8,
-        "mean": 117.25,
-        "median": 101.0,
+        "n": 9,
+        "mean": 111.44,
+        "median": 97,
         "top": {
           "impressions": 215,
           "text": "Matt Shaw: 2-for-4 with a 2-RBI single for Iowa on Saturday.\n\nCounsell wants back-to-back rehab starts this week \u2014 after that, September callup. Shaw hit .246/.322/.415 in 56 MLB games before the IL.\n\nDepth incoming.\n\n#Cubs #CubsBaseball #M"
@@ -101,7 +75,7 @@
       },
       "12": {
         "n": 21,
-        "mean": 130.76,
+        "mean": 128.52,
         "median": 107,
         "top": {
           "impressions": 369,
@@ -110,7 +84,7 @@
       },
       "7": {
         "n": 21,
-        "mean": 173.05,
+        "mean": 173.1,
         "median": 89,
         "top": {
           "impressions": 805,
@@ -118,27 +92,27 @@
         }
       },
       "10": {
-        "n": 15,
-        "mean": 82.53,
-        "median": 79,
+        "n": 14,
+        "mean": 82.57,
+        "median": 75.0,
         "top": {
           "impressions": 219,
           "text": "Alex Bregman on Pete Crow-Armstrong: \"I think Pete should win MVP.\"\n\nPCA leads ALL of baseball with a 7.5 WAR. Already at 30 steals and three HRs from back-to-back 30-30 seasons.\n\nThis isn't a hot streak. This is who Pete Crow-Armstrong is "
         }
       },
       "9": {
-        "n": 19,
-        "mean": 91.68,
-        "median": 87,
+        "n": 18,
+        "mean": 94.56,
+        "median": 93.0,
         "top": {
           "impressions": 168,
           "text": "Edward Cabrera is back.\n\nFive hitless innings, seven strikeouts in his final rehab start at Knoxville.\n\nHe replaces Imanaga in Sunday's slot \u2014 Game 3 at Wrigley vs the Cardinals. With Horton and Miller out for the year, the rotation needed "
         }
       },
       "8": {
-        "n": 17,
-        "mean": 173.47,
-        "median": 81,
+        "n": 16,
+        "mean": 174.75,
+        "median": 80.0,
         "top": {
           "impressions": 1148,
           "text": "Clay Holmes deserves better.\n\nSeven scoreless innings Tuesday. Walked off by the bullpen.\n\nLast four starts: 26 innings, 1 earned run. That's what ace-level pitching looks like.\n\nHe's making his case for October.\n\n#Cubs #MLB #ChicagoCubs"
@@ -155,10 +129,19 @@
       }
     },
     "by_weekday_ct": {
+      "Wed": {
+        "n": 16,
+        "mean": 148.62,
+        "median": 82.5,
+        "top": {
+          "impressions": 1148,
+          "text": "Clay Holmes deserves better.\n\nSeven scoreless innings Tuesday. Walked off by the bullpen.\n\nLast four starts: 26 innings, 1 earned run. That's what ace-level pitching looks like.\n\nHe's making his case for October.\n\n#Cubs #MLB #ChicagoCubs"
+        }
+      },
       "Tue": {
         "n": 19,
-        "mean": 109.21,
-        "median": 69,
+        "mean": 110.63,
+        "median": 73,
         "top": {
           "impressions": 805,
           "text": "Kevin Gausman was the best pitcher in the building last night.\n\n7 innings. 6 strikeouts. 3 hits allowed. 0 earned runs.\n\nThe ace the Cubs traded for at the deadline showed up when it mattered most. Cubs lead the series.\n\n#Cubs #GoCubs #FlyT"
@@ -175,10 +158,10 @@
       },
       "Sun": {
         "n": 19,
-        "mean": 142.95,
+        "mean": 146.95,
         "median": 87,
         "top": {
-          "impressions": 557,
+          "impressions": 563,
           "text": "Series tied 1-1. Game 3 tonight at Wrigley. 6:20 PM CT.\n\nKevin Gausman starts for Chicago. Andrew Abbott for Cincinnati. Cubs just dropped 17 runs on these Reds yesterday.\n\nHome. Series on the line. Win.\n\n#Cubs #GoCubs #FlyTheW"
         }
       },
@@ -208,22 +191,13 @@
           "impressions": 253,
           "text": "Kevin Gausman takes the mound at Nationals Park today. First pitch 3:05 PM CT.\n\nAcquired at the deadline to make exactly this kind of start \u2014 two wins in, series sweep on the table.\n\nCade Cavalli (9-5, 3.57 ERA) is a test. This lineup has a"
         }
-      },
-      "Wed": {
-        "n": 16,
-        "mean": 155.88,
-        "median": 80.0,
-        "top": {
-          "impressions": 1148,
-          "text": "Clay Holmes deserves better.\n\nSeven scoreless innings Tuesday. Walked off by the bullpen.\n\nLast four starts: 26 innings, 1 earned run. That's what ace-level pitching looks like.\n\nHe's making his case for October.\n\n#Cubs #MLB #ChicagoCubs"
-        }
       }
     },
     "by_content_type": {
       "brief": {
         "n": 121,
-        "mean": 132.64,
-        "median": 96,
+        "mean": 132.53,
+        "median": 89,
         "top": {
           "impressions": 1148,
           "text": "Clay Holmes deserves better.\n\nSeven scoreless innings Tuesday. Walked off by the bullpen.\n\nLast four starts: 26 innings, 1 earned run. That's what ace-level pitching looks like.\n\nHe's making his case for October.\n\n#Cubs #MLB #ChicagoCubs"
@@ -231,28 +205,28 @@
       }
     },
     "by_opening": {
+      "stat_lead": {
+        "n": 18,
+        "mean": 114.56,
+        "median": 107.5,
+        "top": {
+          "impressions": 224,
+          "text": "Jaxon Wiggins hasn't allowed a run in his last three Iowa bullpen outings \u2014 98 mph, strikeout-per-inning stuff.\n\nCounsell knows. The No. 2 Cubs prospect is making his September case louder every time out.\n\n#Cubs #GoCubs #CubsBaseball"
+        }
+      },
       "statement": {
-        "n": 90,
-        "mean": 132.69,
-        "median": 87.5,
+        "n": 88,
+        "mean": 132.76,
+        "median": 87.0,
         "top": {
           "impressions": 1148,
           "text": "Clay Holmes deserves better.\n\nSeven scoreless innings Tuesday. Walked off by the bullpen.\n\nLast four starts: 26 innings, 1 earned run. That's what ace-level pitching looks like.\n\nHe's making his case for October.\n\n#Cubs #MLB #ChicagoCubs"
         }
       },
-      "stat_lead": {
-        "n": 15,
-        "mean": 117.27,
-        "median": 109,
-        "top": {
-          "impressions": 200,
-          "text": "Jaxon Wiggins hasn't allowed a run in his last three Iowa bullpen outings \u2014 98 mph, strikeout-per-inning stuff.\n\nCounsell knows. The No. 2 Cubs prospect is making his September case louder every time out.\n\n#Cubs #GoCubs #CubsBaseball"
-        }
-      },
       "allcaps_lead": {
-        "n": 16,
-        "mean": 146.75,
-        "median": 102.5,
+        "n": 15,
+        "mean": 152.73,
+        "median": 126,
         "top": {
           "impressions": 393,
           "text": "Thornton's ERA went from 0.00 to 4.22 in one inning.\n\nCubs relievers are showing cracks at the worst time. The Sun-Times noticed. Counsell needs answers before October.\n\nSeptember callups open Tuesday. Wiggins has 4 straight scoreless Iowa "
@@ -260,22 +234,22 @@
       }
     },
     "by_len_bucket": {
-      "260+": {
-        "n": 51,
-        "mean": 119.71,
-        "median": 96,
-        "top": {
-          "impressions": 393,
-          "text": "Thornton's ERA went from 0.00 to 4.22 in one inning.\n\nCubs relievers are showing cracks at the worst time. The Sun-Times noticed. Counsell needs answers before October.\n\nSeptember callups open Tuesday. Wiggins has 4 straight scoreless Iowa "
-        }
-      },
       "200-260": {
         "n": 68,
-        "mean": 144.18,
-        "median": 96.5,
+        "mean": 143.25,
+        "median": 92.5,
         "top": {
           "impressions": 1148,
           "text": "Clay Holmes deserves better.\n\nSeven scoreless innings Tuesday. Walked off by the bullpen.\n\nLast four starts: 26 innings, 1 earned run. That's what ace-level pitching looks like.\n\nHe's making his case for October.\n\n#Cubs #MLB #ChicagoCubs"
+        }
+      },
+      "260+": {
+        "n": 52,
+        "mean": 119.67,
+        "median": 92.5,
+        "top": {
+          "impressions": 393,
+          "text": "Thornton's ERA went from 0.00 to 4.22 in one inning.\n\nCubs relievers are showing cracks at the worst time. The Sun-Times noticed. Counsell needs answers before October.\n\nSeptember callups open Tuesday. Wiggins has 4 straight scoreless Iowa "
         }
       },
       "140-200": {
@@ -286,22 +260,13 @@
           "impressions": 72,
           "text": "Cubs vs. Reds. 3 games at Wrigley starting Friday at 1:20 PM CT.\n\nCincinnati is 62-70. Cubs are slugging .554 this year.\n\nBack home. Time to stack some Ws.\n\n#Cubs #FlyTheW #GoCubs"
         }
-      },
-      "<140": {
-        "n": 1,
-        "mean": 68,
-        "median": 68,
-        "top": {
-          "impressions": 68,
-          "text": "David Peterson on the hill. Cubs looking for the series lead in D.C.\n\nFirst pitch: 5:45 PM CT. Let's go.\n\n#Cubs #GoCubs #FlyTheW"
-        }
       }
     },
     "by_hashtag_count": {
       "3": {
         "n": 121,
-        "mean": 132.64,
-        "median": 96,
+        "mean": 132.53,
+        "median": 89,
         "top": {
           "impressions": 1148,
           "text": "Clay Holmes deserves better.\n\nSeven scoreless innings Tuesday. Walked off by the bullpen.\n\nLast four starts: 26 innings, 1 earned run. That's what ace-level pitching looks like.\n\nHe's making his case for October.\n\n#Cubs #MLB #ChicagoCubs"
@@ -309,50 +274,50 @@
       }
     },
     "by_has_score": {
+      "True": {
+        "n": 57,
+        "mean": 114.21,
+        "median": 83,
+        "top": {
+          "impressions": 563,
+          "text": "Series tied 1-1. Game 3 tonight at Wrigley. 6:20 PM CT.\n\nKevin Gausman starts for Chicago. Andrew Abbott for Cincinnati. Cubs just dropped 17 runs on these Reds yesterday.\n\nHome. Series on the line. Win.\n\n#Cubs #GoCubs #FlyTheW"
+        }
+      },
       "False": {
-        "n": 66,
-        "mean": 147.73,
+        "n": 64,
+        "mean": 148.84,
+        "median": 104.5,
+        "top": {
+          "impressions": 1148,
+          "text": "Clay Holmes deserves better.\n\nSeven scoreless innings Tuesday. Walked off by the bullpen.\n\nLast four starts: 26 innings, 1 earned run. That's what ace-level pitching looks like.\n\nHe's making his case for October.\n\n#Cubs #MLB #ChicagoCubs"
+        }
+      }
+    },
+    "by_has_stat": {
+      "True": {
+        "n": 50,
+        "mean": 155.02,
         "median": 106.0,
         "top": {
           "impressions": 1148,
           "text": "Clay Holmes deserves better.\n\nSeven scoreless innings Tuesday. Walked off by the bullpen.\n\nLast four starts: 26 innings, 1 earned run. That's what ace-level pitching looks like.\n\nHe's making his case for October.\n\n#Cubs #MLB #ChicagoCubs"
         }
       },
-      "True": {
-        "n": 55,
-        "mean": 114.53,
-        "median": 82,
-        "top": {
-          "impressions": 557,
-          "text": "Series tied 1-1. Game 3 tonight at Wrigley. 6:20 PM CT.\n\nKevin Gausman starts for Chicago. Andrew Abbott for Cincinnati. Cubs just dropped 17 runs on these Reds yesterday.\n\nHome. Series on the line. Win.\n\n#Cubs #GoCubs #FlyTheW"
-        }
-      }
-    },
-    "by_has_stat": {
       "False": {
-        "n": 72,
-        "mean": 115.57,
-        "median": 82.0,
+        "n": 71,
+        "mean": 116.69,
+        "median": 84,
         "top": {
-          "impressions": 557,
+          "impressions": 563,
           "text": "Series tied 1-1. Game 3 tonight at Wrigley. 6:20 PM CT.\n\nKevin Gausman starts for Chicago. Andrew Abbott for Cincinnati. Cubs just dropped 17 runs on these Reds yesterday.\n\nHome. Series on the line. Win.\n\n#Cubs #GoCubs #FlyTheW"
-        }
-      },
-      "True": {
-        "n": 49,
-        "mean": 157.71,
-        "median": 109,
-        "top": {
-          "impressions": 1148,
-          "text": "Clay Holmes deserves better.\n\nSeven scoreless innings Tuesday. Walked off by the bullpen.\n\nLast four starts: 26 innings, 1 earned run. That's what ace-level pitching looks like.\n\nHe's making his case for October.\n\n#Cubs #MLB #ChicagoCubs"
         }
       }
     },
     "by_has_emoji_first_line": {
       "False": {
         "n": 121,
-        "mean": 132.64,
-        "median": 96,
+        "mean": 132.53,
+        "median": 89,
         "top": {
           "impressions": 1148,
           "text": "Clay Holmes deserves better.\n\nSeven scoreless innings Tuesday. Walked off by the bullpen.\n\nLast four starts: 26 innings, 1 earned run. That's what ace-level pitching looks like.\n\nHe's making his case for October.\n\n#Cubs #MLB #ChicagoCubs"
@@ -360,22 +325,22 @@
       }
     },
     "by_has_allcaps": {
+      "True": {
+        "n": 90,
+        "mean": 126.98,
+        "median": 92.5,
+        "top": {
+          "impressions": 1148,
+          "text": "Clay Holmes deserves better.\n\nSeven scoreless innings Tuesday. Walked off by the bullpen.\n\nLast four starts: 26 innings, 1 earned run. That's what ace-level pitching looks like.\n\nHe's making his case for October.\n\n#Cubs #MLB #ChicagoCubs"
+        }
+      },
       "False": {
         "n": 31,
-        "mean": 147.87,
+        "mean": 148.65,
         "median": 88,
         "top": {
           "impressions": 805,
           "text": "Kevin Gausman was the best pitcher in the building last night.\n\n7 innings. 6 strikeouts. 3 hits allowed. 0 earned runs.\n\nThe ace the Cubs traded for at the deadline showed up when it mattered most. Cubs lead the series.\n\n#Cubs #GoCubs #FlyT"
-        }
-      },
-      "True": {
-        "n": 90,
-        "mean": 127.39,
-        "median": 96.0,
-        "top": {
-          "impressions": 1148,
-          "text": "Clay Holmes deserves better.\n\nSeven scoreless innings Tuesday. Walked off by the bullpen.\n\nLast four starts: 26 innings, 1 earned run. That's what ace-level pitching looks like.\n\nHe's making his case for October.\n\n#Cubs #MLB #ChicagoCubs"
         }
       }
     }
@@ -384,20 +349,20 @@
     "by_content_type": {
       "brief": {
         "n": 61,
-        "mean_rate": 0.006,
+        "mean_rate": 0.0058,
         "median_rate": 0.0
       }
     },
     "by_opening": {
-      "statement": {
-        "n": 43,
-        "mean_rate": 0.0057,
+      "stat_lead": {
+        "n": 11,
+        "mean_rate": 0.0061,
         "median_rate": 0.0
       },
-      "stat_lead": {
-        "n": 10,
-        "mean_rate": 0.0068,
-        "median_rate": 0.005
+      "statement": {
+        "n": 42,
+        "mean_rate": 0.0056,
+        "median_rate": 0.0
       },
       "allcaps_lead": {
         "n": 8,
@@ -406,26 +371,26 @@
       }
     },
     "by_has_score": {
-      "False": {
-        "n": 38,
-        "mean_rate": 0.0071,
-        "median_rate": 0.003
-      },
       "True": {
-        "n": 23,
-        "mean_rate": 0.0041,
+        "n": 24,
+        "mean_rate": 0.004,
+        "median_rate": 0.0
+      },
+      "False": {
+        "n": 37,
+        "mean_rate": 0.0071,
         "median_rate": 0.0
       }
     },
     "by_has_stat": {
       "True": {
         "n": 31,
-        "mean_rate": 0.0068,
+        "mean_rate": 0.0065,
         "median_rate": 0.0
       },
       "False": {
         "n": 30,
-        "mean_rate": 0.0052,
+        "mean_rate": 0.0051,
         "median_rate": 0.0
       }
     }
@@ -454,7 +419,7 @@
     {
       "posted_at": "2026-08-30 17:01 CT",
       "content_type": "brief",
-      "impressions": 557,
+      "impressions": 563,
       "engagement": 1,
       "engagement_rate": 0.0018,
       "opening": "statement",
@@ -484,6 +449,16 @@
   ],
   "bottom_performers": [
     {
+      "posted_at": "2026-09-01 15:45 CT",
+      "content_type": "brief",
+      "impressions": 34,
+      "engagement": 0,
+      "engagement_rate": 0.0,
+      "opening": "statement",
+      "len": 279,
+      "text": "Cubs enter September holding a Wild Card spot.\n\nCardinals are 68-70 and fading. The NL field is thinning.\n\nSeven games back of Milwaukee with 25 to play \u2014 the division won't close, but October is absolutely still on the table. Chicago holds its own fate.\n\n#Cubs #NorthSiders #MLB"
+    },
+    {
       "posted_at": "2026-08-18 08:15 CT",
       "content_type": "brief",
       "impressions": 33,
@@ -492,16 +467,6 @@
       "opening": "allcaps_lead",
       "len": 257,
       "text": "PCA just joined a two-person club.\n\nBack-to-back 30-30 seasons. Sammy Sosa (1993, 1995) is the only other Cub who's done it \u2014 and even Sosa never went back-to-back.\n\nIn one night: leadoff blast, walk-off blast, franchise history.\n\n#Cubs #GoCubs #ChicagoCubs"
-    },
-    {
-      "posted_at": "2026-09-01 15:45 CT",
-      "content_type": "brief",
-      "impressions": 32,
-      "engagement": 0,
-      "engagement_rate": 0.0,
-      "opening": "statement",
-      "len": 279,
-      "text": "Cubs enter September holding a Wild Card spot.\n\nCardinals are 68-70 and fading. The NL field is thinning.\n\nSeven games back of Milwaukee with 25 to play \u2014 the division won't close, but October is absolutely still on the table. Chicago holds its own fate.\n\n#Cubs #NorthSiders #MLB"
     },
     {
       "posted_at": "2026-08-13 09:30 CT",
