@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-03",
+  "compiled_at": "2026-09-03T12:49:33.183213+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [],
+  "pipeline_stats": {
+    "total_stories": 0,
+    "x_posts_count": 0,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

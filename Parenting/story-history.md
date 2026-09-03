@@ -2,6 +2,55 @@
 
 ---
 
+## September 3, 2026
+
+### Story 1: YCXXKJ Baby Bath Seat Recall — CPSC No. 26-146
+- **Date:** 2026-09-03
+- **Content Pillar:** National Parenting / Safety
+- **Angle:** NEW STORY — CPSC recalls approximately 8,960 YCXXKJ Baby Bath Seats (model YD-1958). Unstable, can tip over, drowning risk. Sold on Amazon by BenTalk May 2024–Oct 2025 for $34–$40. Colors: blue, gray, pink, yellow. Full refund: email bentalkhere@outlook.com (write "Recalled" on front in permanent marker + disassembled photo), or call 213-579-2588 M–F 9AM–5PM ET.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** ~8,960 units; model YD-1958; May 2024–Oct 2025; $34–$40; BenTalk on Amazon; full refund; bentalkhere@outlook.com; 213-579-2588; CPSC No. 26-146
+
+### Story 2: AAP 2026-2027 Flu Vaccine Recommendations
+- **Date:** 2026-09-03
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — AAP updated 2026-27 influenza guidance: all kids 6 months+ should get annual flu shot, ideally by end of October. 2025-26 season had 190 pediatric deaths (85% unvaccinated). Flu vaccine cuts pediatric flu death risk by 80% (CDC). First-time vaccinees under 9 need two doses. Vaccines for Children program covers eligible kids at no cost.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** All kids 6 months+; end of October target; 190 pediatric deaths 2025-26; 85% unvaccinated; 80% death-risk reduction (CDC); two doses for first-time vaccinees under 9; AAP policy doi: 10.1542/peds.2026-078778
+
+### Story 3: Uuoeebb Infant Walker Recall — CPSC No. 26-141
+- **Date:** 2026-09-03
+- **Content Pillar:** National Parenting / Safety
+- **Angle:** NEW STORY — CPSC recalls approximately 2,650 Uuoeebb Infant Walkers (BaoD/Hunan Suihuo). Deadly fall hazard (can go through doorways, off steps) and head entrapment hazard. Collapsible, round base, 8 wheels, 7 height settings, gray/black/pink. "Production Batch: 7654" under seat. Amazon Dec 2024–Sept 2025, $60–$90. Full refund: disassemble, write "Recalled" on tray, email photo to Uuoeebbrecalls@outlook.com.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** ~2,650 units; Production Batch: 7654; Dec 2024–Sept 2025; $60–$90; BaoD on Amazon; full refund; Uuoeebbrecalls@outlook.com; CPSC No. 26-141
+
+### Story 4: Weekend Roundup — Things to Do with Kids in Colorado Springs, Sept 4–6, 2026
+- **Date:** 2026-09-03
+- **Content Pillar:** Local Events
+- **Angle:** REQUIRED THURSDAY ROUNDUP — Labor Day weekend guide for COS families. Lead: 50th annual Labor Day Lift Off (Sept 5–7, Memorial Park, free, ~65 balloons, 7 AM launches, Wings of Blue skydiving, night glows Sat/Sun, Orangetheory 5K Sunday at Prospect Lake). Also: Commonwheel Art Fest (Sept 5–7, 502 Manitou Ave, free, 10AM–5PM, 100+ artists, kids activities); Victor Plein Air Show & Sale (Sept 5–7, Victor Elks Lodge, 181 N 3rd St Victor). Required springsdaily.com links included.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** Lift Off Sept 5–7; Memorial Park COS; free; 7 AM launches; Commonwheel Sept 5–7; 502 Manitou Ave; free; 10AM–5PM; Victor Elks Lodge 181 N 3rd St Victor CO; Orangetheory 5K Sunday Prospect Lake
+
+### Story 5: America the Beautiful Park — COS's Free Downtown Family Gem
+- **Date:** 2026-09-03
+- **Content Pillar:** Evergreen
+- **Angle:** NEW STORY — Evergreen guide to America the Beautiful Park, western edge of downtown COS, adjacent to Prospect Lake. Features: "Quirks" interactive art installation, spinner bowls, hammocks, turntables. Free, stroller-friendly, year-round. Paired with Prospect Lake 1.5-mile walking loop. Pikes Peak views. Labor Day weekend tie-in (adjacent to Memorial Park/Lift Off 5K route).
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 3
+- **Key Facts (MEDIUM):** Western edge of downtown COS; adjacent to Prospect Lake; free; spinner bowls, hammocks, Quirks interactive art; Prospect Lake 1.5-mile walking loop
+
+---
+
 ## September 2, 2026
 
 ### Story 1: Labor Day Lift Off 2026 — 50th Anniversary

@@ -1,6 +1,35 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: September 2, 2026
+## Latest Run: September 3, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | YCXXKJ baby bath seat recall (CPSC No. 26-146, ~8,960 units, drowning hazard, Amazon May 2024–Oct 2025, BenTalk); AAP 2026-27 flu guidance (all kids 6m+, end-of-Oct target, 190 pediatric deaths 2025-26 season, 80% risk reduction); Uuoeebb infant walker recall (CPSC No. 26-141, ~2,650 units, fall/entrapment hazard, Amazon Dec 2024–Sept 2025, BaoD); Labor Day Lift Off 50th anniversary (Sept 5-7, Memorial Park, free, ~65 balloons) + Commonwheel Art Fest (Sept 5-7, Manitou Springs, free) + Victor Plein Air (Sept 5-7, Victor); America the Beautiful Park downtown COS (free, interactive art, Prospect Lake adjacent) |
+| Story History Check | COMPLETE | All 5 stories NEW: S1 YCXXKJ bath seat (distinct from HARPPA Aug 29, Target sandal Sep 1 — different product/brand); S2 AAP flu guidance (distinct from Sep 1 asthma — different health topic); S3 Uuoeebb walker (distinct from Kmaier walker Aug 29 — different brand/CPSC number); S4 Weekend Roundup REQUIRED THURSDAY (Labor Day Lift Off was covered Sep 2 standalone, but this is the roundup article with Commonwheel + Victor Plein Air + required springsdaily.com links); S5 America the Beautiful Park (never covered — Garden of the Gods was Aug 26, different park) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 2 Tier 2, 1 Tier 3); bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4); Thursday Weekend Roundup in S4 slot |
+| Research Notes | COMPLETE | 01-research-notes.md |
+| Story Analysis | COMPLETE | 02-story-analysis.md |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 8 posts across 5 stories (2 for each Tier 1 ×2, 1 each for Tier 2 and Tier 3, 2 for Weekend Roundup); all ≤280 chars; 4 hashtags each; 0 exclamation marks; COS voice rules applied |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form Post + 5 Image Caption; no hashtags; engagement questions; COS voice rules applied; used correct parser headers (**Long-Form Post** / **Image Caption**) |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only prompts |
+| Articles (5) | COMPLETE | article-01 YCXXKJ Bath Seat Recall (Sarah Morales); article-02 AAP Flu Guidance (Jamie Rivera); article-03 Uuoeebb Walker Recall (Sarah Morales); article-04 Weekend Roundup Sept 4-6 (Jamie Rivera — required Thursday, includes springsdaily.com links); article-05 America the Beautiful Park (Sarah Morales) |
+| Fact-Check | COMPLETE | verify-facts.py — 1 claim (parser compat known issue with claim count); HIGH: 2 |
+| Compile Content Data | COMPLETE | 07-content-data.json — parser compat known issues: 0 stories parsed from brief, 0 X/FB posts; 5 article files found in directory; posting-window warnings expected |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries (5 stories × 2), all not_started, gemini base_only, model gemini-2.5-flash-image, brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 5 items; image manifest warning expected (images generated separately) |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in session's authorized repository set (403 proxy) — known recurring issue |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser compat issue — generate-postplanner-export.py finds 0 posts; ran both standard and --tobi |
+| WordPress Publish | BLOCKED | WordPress publisher finds 0 articles (parser reads from compiled JSON, which has 0 articles due to compat issue); even if resolved, proxy returns 403 Forbidden — known recurring issue |
+| Story History | COMPLETE | 5 new entries prepended to Parenting/story-history.md (September 3, 2026 section) |
+
+## Known Issues (Recurring)
+- WordPress publish: 403 proxy block — all 5 articles queued as drafts, pending manual publish or proxy fix; also publisher finds 0 articles due to parser compat issue with 07-content-data.json
+- PostPlanner export: parser compat issue returns 0 posts every run
+- content-dashboards push: 403 proxy block (not in session authorized repo set)
+- Image manifest warnings from dashboard generator: expected (Gemini image generation is a separate step)
+- Parser compat: compile finds 0 stories from daily brief format (table-based brief not parsed), 0 X/FB posts — affects WordPress publish lookup; articles found directly from file system
+
+## Previous Run: September 2, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|
