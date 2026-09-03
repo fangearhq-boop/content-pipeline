@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-09-03
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-03 | T1 | Ferrari ADUO-2 Engine Confirmed for Monza — +15hp, No Grid Penalty | X(2), FB, Article | NEW |
+| 2026-09-03 | T1 | Antonelli Starts Last at Home Race — Championship Leader Takes PU Penalty | X(1), FB, Article | FOLLOW UP |
+| 2026-09-03 | T2 | Norris Targets Three Straight — Title Charge Begins at Monza | X(1), FB, Article | FOLLOW UP |
+| 2026-09-03 | T2 | Ferrari Schumacher Tribute Livery Revealed — Barrichello and Vettel Drive F2002 | X(1), FB, Article | FOLLOW UP |
+| 2026-09-03 | T2 | Monaco GP Appeal — FIA Verdict Could Land During Monza Weekend | X(1), FB, Article | FOLLOW UP |
+
+### STORY 1: Ferrari ADUO-2 Engine Confirmed for Monza
+- **Tier:** 1
+- **Category:** F1 / Ferrari / Technical / Lewis Hamilton / Charles Leclerc / Italian GP
+- **Key facts:** ADUO-2 confirmed by Fred Vasseur; +15hp estimated; redesigned turbocharger + new compressor; no new Shell fuel blend; floor and aero changes; software update; no grid penalty for Hamilton or Leclerc; Ferrari "severely hamstrung" on straights in 2026; Hamilton "hopeful to fight for win"
+- **Status:** NEW
+- **Follow-up ideas:** FP1/FP2 pace data vs ADUO-1; qualifying position; race performance vs Mercedes
+
+### STORY 2: Antonelli Starts Last at Home Race
+- **Tier:** 1
+- **Category:** F1 / Kimi Antonelli / Mercedes / Italian GP / Championship
+- **Key facts:** Full PU change (V6, exhaust, MGU-H, MGU-K, ES, turbo all new); starts from back at Monza; championship lead 59 pts (242 vs 183 Russell/Hamilton); Norris 83 pts back; Wolff objective P5 or better; Monza chosen for overtaking opportunities; Hakkinen warns against team orders; 11 races remain
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Race result; recovery position; championship gap after Monza
+
+### STORY 3: Norris Targets Three Straight
+- **Tier:** 2
+- **Category:** F1 / Lando Norris / McLaren / Italian GP / Championship
+- **Key facts:** Norris won Hungary + Dutch GP (back-to-back); 83 pts behind Antonelli; max swing 25 pts if Norris wins and Antonelli out of points; Monza low-downforce suits McLaren; Piastri also strong; Norris ~4:1 favorite; McLaren best race pace on power-circuit tracks
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Qualifying; race result; championship gap post-Monza
+
+### STORY 4: Ferrari Schumacher Tribute Livery
+- **Tier:** 2
+- **Category:** F1 / Ferrari / Michael Schumacher / Italian GP / Lewis Hamilton / Charles Leclerc
+- **Key facts:** SF-26 in F310-inspired livery (red, white rear wing, black detailing, gold wheels, MS logo); seven-star design on helmets; special race suits/gloves/shoes for Hamilton and Leclerc; F310/F2002/248 F1 on display at circuit; Barrichello drives F2002 Saturday; Vettel ceremonial lap Sunday; livery divides fans; Hamilton wanted all-red; 30th anniversary of Schumacher's first Ferrari season
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Fan reaction; race result; Hamilton/Leclerc in tribute gear on podium potential
+
+### STORY 5: Monaco GP Appeal — Verdict Expected During Monza Weekend
+- **Tier:** 2
+- **Category:** F1 / Monaco GP / Pierre Gasly / FIA ICA Appeal / Alpine / McLaren / Red Bull
+- **Key facts:** ICA heard Aug 25 Paris (4-judge panel); verdict 2-3 weeks = ~Sept 8-15; Gasly currently holds P3; McLaren "double intent" argument; FOM admitted measurement error; Hadjar P4, Piastri P5 in amended classification; ruling affects both championships
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** ICA verdict; standings adjustment if Gasly loses P3
+
 ## 2026-09-02
 
 | Date | Tier | Title | Platforms | Status |

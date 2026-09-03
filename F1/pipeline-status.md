@@ -1,151 +1,52 @@
-# F1 Pipeline Status — F1 Fanrecap
+# F1 Fanrecap — Pipeline Status
 
-## Last Run
-- **Date**: 2026-09-02
-- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
-- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
-- **X Posts:** 7 written, all under 280 characters
-- **Facebook Posts:** 5 stories, long-form + caption each
-- **Articles:** 5 (pen names: Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway)
-- **PostPlanner exports:** f1fr-postplanner-2026-09-02.xlsx (7 posts) + f1fr-postplanner-tobi-2026-09-02.xlsx (7 TOBI posts)
-- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-09-02/review-dashboard.html
-- **Notes:** ITALIAN GP RACE WEEK — Race Sunday Sept 6 15:00 CEST/09:00 ET; Qual Sat Sept 5 16:00 CEST; FP1/FP2 Fri Sept 4; Antonelli starts 20th (strategic PU penalty, 59-pt lead, 242pts); Norris 6/4 favourite for pole + win (back-to-back wins, 83 back); Ferrari ADUO-2 debut (+15hp, ~0.2s/lap at Monza); Hamilton+Leclerc get it penalty-free; Schumacher tribute livery; Russell 59pts back; CHAMPIONSHIP — Antonelli 242, Russell 183, Hamilton 183 (Russell tiebreaker), Norris 159; MONACO APPEAL — ICA heard Aug 25; verdict mid-September; Gasly holds P3 pending; CALENDAR — Qatar+Abu Dhabi under review (Mid-East conflict)
-- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+## Last Run: 2026-09-03
 
-### 2026-09-01
-- **Date**: 2026-09-01
-- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
-- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
-- **X Posts:** 7 written, all under 280 characters
-- **Facebook Posts:** 5 stories, long-form + caption each
-- **Articles:** 5 (pen names: Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole)
-- **PostPlanner exports:** f1fr-postplanner-2026-09-01.xlsx (7 posts) + f1fr-postplanner-tobi-2026-09-01.xlsx (7 TOBI posts)
-- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-09-01/review-dashboard.html (27 items)
-- **Notes:** ITALIAN GP PREVIEW — Race Sept 6 14:00 BST, Qual Sept 5 15:00 BST; Antonelli starts 20th (strategic full PU penalty); 242pts 59-pt lead; Norris 6/4 favourite (back-to-back wins); Ferrari ADUO-2 debut (+15hp Hamilton+Leclerc, no penalties); Schumacher tribute livery F310-inspired red/black/gold; CHAMPIONSHIP — Antonelli 242, Russell 183, Hamilton 183, Norris 159; max 25pt swing possible Sunday; MONACO APPEAL — ICA heard Aug 25 Paris; verdict mid-September; Gasly holds P3 or Hadjar regains it; CALENDAR — Qatar+Abu Dhabi under review (Mid-East conflict); F1 mid-September deadline; Europe contingency ready
-- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+**Status:** COMPLETE (with known proxy limitations)
+**Niche:** F1 Fanrecap
+**Stories:** 5
+**Articles:** 5
 
-### 2026-08-31
-- **Date**: 2026-08-31
-- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
-- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
-- **X Posts:** 7 written, all under 280 characters
-- **Facebook Posts:** 5 stories, long-form + caption each
-- **Articles:** 5 (pen names: Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss)
-- **PostPlanner exports:** f1fr-postplanner-2026-08-31.xlsx (7 posts) + f1fr-postplanner-tobi-2026-08-31.xlsx (7 TOBI posts)
-- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-08-31/review-dashboard.html (27 items)
-- **Notes:** MONZA PREVIEW — Race Sept 4-6; Antonelli from back (full PU change); Norris 6/4 favorite; Ferrari ADUO-2 debuts; Hamilton 53pts back; 53 laps; Qual Sept 5 15:00 BST; Race Sept 6 14:00 BST; FERRARI ADUO-2 — ~15hp; combustion chamber+turbo revision+Shell fuel; Hamilton+Leclerc get it; NO grid penalty; ~0.2s/lap at Monza; part of 30hp two-phase plan; ANTONELLI PENALTY — Toto Wolff confirmed; full PU change; V6+exhaust+MGU-H exceeded; starts back of 20-car grid at home race; 59-pt lead; fresh PU for final 7 races; MONACO APPEAL — ICA heard Aug 25 Paris; verdict 2-3 weeks (mid-September); Gasly holds P3; FOM admitted measurement error; McLaren+Red Bull argue stewards exceeded remit; NORRIS HAT-TRICK — 2 straight wins; 83pts back; Antonelli penalty = best title opportunity; Monza suits McLaren; 6/4 favorite
-- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+---
 
-### 2026-08-30
-- **Date**: 2026-08-30
-- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
-- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
-- **X Posts:** 7 written, all under 280 characters
-- **Facebook Posts:** 5 stories, long-form + caption each
-- **Articles:** 5 (pen names: Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway)
-- **PostPlanner exports:** f1fr-postplanner-2026-08-30.xlsx (7 posts) + f1fr-postplanner-tobi-2026-08-30.xlsx (7 TOBI posts)
-- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-08-30/review-dashboard.html (27 items)
-- **Notes:** MONZA PREVIEW — Sept 4-6 Italian GP; Antonelli starts from back (full PU change); 59-pt lead; Norris back-to-back wins (83 pts back); Ferrari ADUO-2 debut; FERRARI SCHUMACHER LIVERY — F310-inspired red/black/gold; 30-year anniversary (1996 first Ferrari season); Hamilton+Leclerc 7-star suits; "Home is calling"; NORRIS MOMENTUM — Back-to-back wins; 83 pts back; Monza low-downforce suits McLaren; MONACO APPEAL — ICA heard Aug 25 Paris; verdict ~mid-September; Gasly holds P3; McLaren+Red Bull appealing; ANTONELLI — 242 pts, 59-pt lead; Mercedes strategic PU penalty at Monza for fresh components for final 7 races
-- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+## Step Completion
 
-### 2026-08-29
-- **Date**: 2026-08-29
-- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
-- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
-- **X Posts:** 7 written, all under 280 characters
-- **Facebook Posts:** 5 stories, long-form + caption each
-- **Articles:** 5 (pen names: Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole)
-- **PostPlanner exports:** f1fr-postplanner-2026-08-29.xlsx (7 posts) + f1fr-postplanner-tobi-2026-08-29.xlsx (7 TOBI posts)
-- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-08-29/review-dashboard.html (27 items)
-- **Notes:** FERRARI SCHUMACHER TRIBUTE — Special F310-inspired livery for Monza; red/black/gold; 7-star race suits; 30 years since first Ferrari season; ADUO-2 PU debut (+15hp); HAMILTON APOLOGY — Apologized for Dutch GP radio fury; Leclerc refused team order; P4 result; "wasn't the best version of me"; Monza reset needed; ANTONELLI CHAMPIONSHIP — 242pts, 59-pt lead; no team orders confirmed by Mercedes; starts last at Monza (PU penalty); Russell/Hamilton opportunity; MONZA PREVIEW — Sept 4-6; fastest circuit; ADUO-2 debut; Antonelli penalty; Hamilton title shot; Mercedes Zandvoort weakness; MONACO APPEAL — ICA heard Aug 25 Paris; no verdict; expected mid-September; FOM admitted error; Gasly holds P3
-- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+| Step | Status | Notes |
+|------|--------|-------|
+| Research / WebSearch | ✅ Complete | 5 stories researched |
+| Daily Brief | ✅ Complete | 00-daily-brief.md |
+| Research Notes | ✅ Complete | 01-research-notes.md |
+| Story Analysis | ✅ Complete | 02-story-analysis.md |
+| X Posts | ✅ Complete | 03-social-posts-x.md — 6 posts, all ≤280 chars |
+| Facebook Posts | ✅ Complete | 04-social-posts-facebook.md — 5 stories |
+| Image Concepts | ✅ Complete | 05-image-concepts.md |
+| Articles | ✅ Complete | 5 HTML articles in articles/ |
+| Fact Check | ✅ Complete | 06-fact-check-log.md — 36 claims verified |
+| Compile Content Data | ✅ Complete | 07-content-data.json |
+| Image Manifest | ✅ Complete | 07-image-manifest.md (10 images, status: not_started) |
+| Review Dashboard | ✅ Complete | review-dashboard.html |
+| Publish Dashboard | ⚠ Partial | Dashboard generated locally; push to content-dashboards blocked (not in authorized repo set) |
+| PostPlanner Export | ✅ Complete | f1fr-postplanner-2026-09-03.xlsx (6 posts) |
+| PostPlanner TOBI | ✅ Complete | f1fr-postplanner-tobi-2026-09-03.xlsx (6 posts) |
+| WordPress Publish | ❌ Blocked | fanrumor.com:443 rejected by egress proxy (403); articles ready for manual publish |
+| Story History | ✅ Complete | story-history.md updated |
 
-### 2026-08-28
-- **Date**: 2026-08-28
-- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
-- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
-- **X Posts:** 7 written, all under 280 characters
-- **Facebook Posts:** 5 stories, long-form + caption each
-- **Articles:** 5 (pen names: Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss)
-- **PostPlanner exports:** f1fr-postplanner-2026-08-28.xlsx (7 posts) + f1fr-postplanner-tobi-2026-08-28.xlsx (7 TOBI posts)
-- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-08-28/review-dashboard.html (27 items)
-- **Notes:** MONZA PREVIEW — Antonelli starts last (PU penalty, Wolff confirmed); Ferrari ADUO-2 debuts (+15hp, ~0.2s/lap); Hamilton 53pts back; Italian GP Sept 4-6; FERRARI ADUO-2 — Redesigned turbo (larger impeller) + combustion chamber; ~15hp; Monza most power-sensitive circuit; Mercedes forced to accelerate own upgrade; MONACO APPEAL — ICA heard Aug 25 Paris; McLaren+Red Bull vs Gasly P3 reinstatement; verdict 2-3 weeks (mid-Sept); NORRIS DUTCH GP WIN — 2nd consecutive victory; 11.5s ahead of Antonelli; Verstappen crash lap 1 red flag; Russell P3; Norris 83pts back; 11 races remain; F1 STANDINGS — Antonelli ~242pts (59pt lead); Russell ~183 2nd tiebreaker; Hamilton ~183; Norris ~159 (83 back)
-- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+---
 
-### 2026-08-27
-- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
-- **X Posts:** 7 written, all under 280 characters
-- **Facebook Posts:** 5 stories, long-form + caption each
-- **Articles:** 5 (pen names: Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway)
-- **PostPlanner exports:** f1fr-postplanner-2026-08-27.xlsx (7 posts) + f1fr-postplanner-tobi-2026-08-27.xlsx (7 TOBI posts)
-- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-08-27/review-dashboard.html (27 items)
-- **Notes:** MONACO APPEAL — ICA hearing Aug 25; no decision; ~2-3 more weeks (~Sept 8-15); Gasly stays P3; FOM distance error admitted; McLaren+Red Bull appellants; FERRARI ADUO-2 — Decision THIS WEEK; ~15hp; 0.2s/lap; redesigned turbocharger+combustion; biggest PU step of 2026; Hamilton 53pts back; Antonelli starting last at Monza; ANTONELLI PENALTY — Full PU change; back of grid Italian GP Sept 4-6; Wolff confirmed; Monza best circuit for recovery; Antonelli 242pts, 59pt lead; turned 20 Aug 25; MONZA PREVIEW — Sept 4-6; Qual Sept 5 15:00 BST; Race Sept 6 14:00 BST; 53 laps; fastest circuit; Ferrari home race; NORRIS THREAT — 2 wins in a row; 159pts (83 back); Antonelli Monza penalty = opportunity window; McLaren strong race pace
-- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+## Known Issues
 
-### 2026-08-26
-- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
-- **X Posts:** 7 written, all under 280 characters
-- **Facebook Posts:** 5 stories, long-form + caption each
-- **Articles:** 5 (pen names: Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole)
-- **PostPlanner exports:** f1fr-postplanner-2026-08-26.xlsx (7 posts) + f1fr-postplanner-tobi-2026-08-26.xlsx (7 TOBI posts)
-- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-08-26/review-dashboard.html (22 items)
-- **Notes:** MONACO FIA HEARING — ICA heard Aug 25 in Paris; FOM admitted pitlane distance measurement error; Gasly P3→P7 based on inaccurate speeds; Piastri served penalty mid-race (no appeal right); verdict pending; ANTONELLI MONZA PENALTY — Grid penalty at Italian GP (Sept 4-6) for engine beyond allocation; turns 20 on Aug 25; likely 10+ place drop at home race; Mercedes strategic call; FERRARI ADUO-2 — ~15hp upgrade debuts at Monza; Hamilton 53pts behind Antonelli with Antonelli starting last; best title opportunity yet; F1 STANDINGS — Antonelli 242, Russell 183, Hamilton 183 (Russell tiebreaker), Norris 159; 59pt lead; 11 races remain; PIASTRI FLOOR — McLaren confirmed floor-specific issue affecting Piastri's car (not Norris's); 2025 champion underperforming for technical reasons
-- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+1. **WordPress publish blocked** — egress proxy rejects fanrumor.com:443 with 403. Run `publish-to-wordpress.py` manually from a machine with direct internet access.
+2. **Content-dashboards push blocked** — fangearhq-boop/content-dashboards not in authorized repository set. Push manually or add repo to session sources.
+3. **Facebook posts = 0 in compile** — compile-content-data.py does not detect FB long-form posts in the current format. Posts are authored in 04-social-posts-facebook.md and ready for manual scheduling.
 
-### 2026-08-25
-- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
-- **X Posts:** 6 written, all under 280 characters
-- **Facebook Posts:** 5 stories, long-form + caption each
-- **Articles:** 5 (pen names: Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole)
-- **PostPlanner exports:** f1fr-postplanner-2026-08-25.xlsx (6 posts) + f1fr-postplanner-tobi-2026-08-25.xlsx (6 TOBI posts)
-- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-08-25/review-dashboard.html (21 items)
-- **Notes:** NORRIS WINS FINAL DUTCH GP — Wins by 11.536s over Antonelli; Russell P3; Verstappen lap-1 crash (red flag, unhurt); final ever Zandvoort Dutch GP; STANDINGS — Antonelli 242pts, Russell 183pts, Hamilton 183pts (Russell tiebreaker 2 wins), Norris 159pts; 59-point lead; 11 races remain; VERSTAPPEN FAREWELL — damp banking corner; "caught me out"; "disappointing pace, disappointing end"; Zandvoort gone from F1 calendar; RUSSELL SPRINT — wins Zandvoort Sprint, Leclerc P2, Norris P3; 2nd sprint win; MONZA PREVIEW — Sept 4-6; Ferrari ADUO-2 engine; Norris chasing 3rd consecutive win; Race Sept 6 14:00 BST
-- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+---
 
-### 2026-08-23
-- **Date**: 2026-08-23
-- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
-- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
-- **X Posts:** 7 written, all under 280 characters
-- **Facebook Posts:** 5 stories, long-form + caption each
-- **Articles:** 5 (pen names: Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway)
-- **PostPlanner exports:** f1fr-postplanner-2026-08-23.xlsx (7 posts) + f1fr-postplanner-tobi-2026-08-23.xlsx (7 TOBI posts)
-- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-08-23/review-dashboard.html (27 items)
-- **Notes:** NORRIS POLE — 1:11.163 "best lap of my life"; Russell P2, Antonelli P3, Piastri P4, Hamilton P5, Leclerc P6, Verstappen P7; final Dutch GP 72 laps 15:00 CEST; FAREWELL ZANDVOORT — Last-ever Dutch GP; Verstappen won 3 (2021/22/23), Norris 2024, Piastri 2025; Verstappen Delftware helmet; quote "end of an era"; Orange Army farewell; CHAMPIONSHIP — Antonelli leads 56pts over Russell; ~316pts remain; Russell P2 vs Antonelli P3 direct grid battle; Antonelli 6W/6P/9pod; VERSTAPPEN — P7, flu, Red Bull fundamental problems, "just want to enjoy it with the fans"; signed 2030 extension Aug 20; MONZA PREVIEW — Italian GP Sep 6; Ferrari saving ADUO-2 engine for Monza; Hamilton first Monza in Ferrari red; 350+ km/h top speeds
-- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+## Articles
 
-### 2026-08-22
-- **Date**: 2026-08-22
-- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
-- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
-- **X Posts:** 7 written, all under 280 characters
-- **Facebook Posts:** 5 stories, long-form + caption each
-- **Articles:** 5 (pen names: Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole)
-- **PostPlanner exports:** f1fr-postplanner-2026-08-22.xlsx (7 posts) + f1fr-postplanner-tobi-2026-08-22.xlsx (7 TOBI posts)
-- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-08-22/review-dashboard.html (27 items)
-- **Notes:** DUTCH GP SPRINT — Russell P1, Leclerc P2, Norris P3, Antonelli P4 (floor damage); Russell now 56pts behind Antonelli; 316pts remain; FINAL ZANDVOORT — Last-ever Dutch GP at Zandvoort; race Sunday Aug 23 15:00 CEST/09:00 ET; 72 laps; Orange Army farewell; HADJAR OUT — Boxing wrist injury; Lawson returns to Red Bull; Tsunoda back at Racing Bulls; Lawson made F1 debut at 2023 Dutch GP; CHAMPIONSHIP — Antonelli leads by 56pts; Russell closing late-season gap; Hamilton 3rd ~169pts; RACE PREVIEW — Antonelli vs Russell; Verstappen last home race; rain possible wildcard
-- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
-
-### 2026-08-21
-- **Date**: 2026-08-21
-- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
-- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
-- **X Posts:** 8 written, all under 280 characters
-- **Facebook Posts:** 5 stories, long-form + caption each
-- **Articles:** 5 (pen names: Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole)
-- **PostPlanner exports:** f1fr-postplanner-2026-08-21.xlsx (8 posts) + f1fr-postplanner-tobi-2026-08-21.xlsx (8 TOBI posts)
-- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-08-21/review-dashboard.html (28 items)
-- **Notes:** FERRARI FP1 — Ferrari 1-2 at Dutch GP FP1; Sprint Qualifying 16:30 CEST; final ever Dutch GP at Zandvoort; HADJAR OUT — Wrist injury (boxing gym summer break); Lawson races senior Red Bull; Tsunoda returns to Racing Bulls (was displaced by Hadjar for 2026!); confirmed 5+ outlets; VERSTAPPEN 2030 REACTION — Quotes confirmed: "get back to the top again"; exit clauses dead; McLaren dead; Laurent Mekies praised; SAINZ WILLIAMS MULTI-YEAR — Passed on Audi + Aston Martin; Albon also extended; Williams 2027 lineup complete; vote of confidence in James Vowles; ANTONELLI 50PTS LEAD — Standings: Antonelli 219pts, Hamilton 169pts (-50), Russell 160pts (-59); 6 wins/6 poles/9 podiums; 316pts remain; Ferrari upgrade plan Zandvoort aero + Monza ADUO-2
-- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
-
-### 2026-08-20
-- **Date**: 2026-08-20
-- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; dashboard publish blocked — content-dashboards repo not in session's authorized set)
-- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
-- **X Posts:** 7 written, all under 280 characters
-- **Facebook Posts:** 5 stories, long-form + caption each
-- **Articles:** 5 (pen names: Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole)
-- **PostPlanner exports:** f1fr-postplanner-2026-08-20.xlsx (7 posts) + f1fr-postplanner-tobi-2026-08-20.xlsx (7 TOBI posts)
-- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-08-20/review-dashboard.html (27 items)
-- **Notes:** VERSTAPPEN 2030 — Signed Red Bull extension to 2030 announced Aug 20 (TODAY); exit clause dead; McLaren talks dead; Mekies "great year" + "clear vision"; all top F1 seats locked 2027; DUTCH GP TOMORROW — Final ever Zandvoort Dutch GP; Sprint weekend first time; FP1+SQ Aug 21; Sprint+Q Aug 22; Race Aug 23; rain factor; orange army farewell; SAINZ WILLIAMS — Multi-year deal confirmed (announced Aug 19); Williams 2027 lineup complete (Albon+Sainz); 9th constructors/11pts; STANDINGS — Antonelli 219pts leads; Hamilton 169pts (-50); Russell ~160pts (-59); Mercedes 379pts constructors; NORRIS FACTOR — Dominated Hungary with upgrade; Zandvoort high-speed different circuit; Sprint format limits adaptation time
-- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
+| File | Author | Story |
+|------|--------|-------|
+| article-01-ferrari-aduo2-engine-monza-hamilton-leclerc.html | Ryan Calloway | Ferrari ADUO-2 |
+| article-02-antonelli-monza-grid-penalty-championship.html | Marcus Cole | Antonelli penalty |
+| article-03-norris-three-straight-title-charge-monza.html | Elena Voss | Norris title charge |
+| article-04-ferrari-schumacher-tribute-livery-monza-2026.html | Ryan Calloway | Schumacher tribute |
+| article-05-monaco-gp-appeal-gasly-p3-verdict-monza.html | Marcus Cole | Monaco GP appeal |

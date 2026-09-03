@@ -1,0 +1,320 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-03",
+  "compiled_at": "2026-09-03T11:37:29.398750+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 2 — Antonelli penalty",
+      "type": "X (Text 1)"
+    },
+    {
+      "time": "8:30 AM",
+      "description": "Story 2 — Antonelli penalty",
+      "type": "Facebook Long-Form"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "Story 1 — Ferrari ADUO-2",
+      "type": "X (Text 1)"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 1 — Ferrari ADUO-2",
+      "type": "Facebook Long-Form"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 4 — Schumacher Livery",
+      "type": "X (Text 1)"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 4 — Schumacher Livery",
+      "type": "Facebook Long-Form"
+    },
+    {
+      "time": "2:00 PM",
+      "description": "Story 3 — Norris title charge",
+      "type": "X (Text 1)"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Story 3 — Norris title charge",
+      "type": "Facebook Long-Form"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 1 — Ferrari ADUO-2",
+      "type": "X (Text 2)"
+    },
+    {
+      "time": "7:00 PM",
+      "description": "Story 5 — Monaco appeal",
+      "type": "X (Text 1)"
+    },
+    {
+      "time": "7:30 PM",
+      "description": "Story 5 — Monaco appeal",
+      "type": "Facebook Long-Form"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Ferrari ADUO-2 Engine Confirmed for Monza — +15hp Without Grid Penalty",
+      "tier": 1,
+      "status": "",
+      "angle": "Ferrari confirmed their long-awaited ADUO-2 power unit upgrade debuts at Monza for Hamilton and Leclerc — no grid penalty, +15hp boost, redesigned turbocharger. Ferrari at home race with new engine AND Schumacher tribute livery.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Ferrari brings a WEAPON to Monza. 🔥\n\nADUO-2 engine confirmed for Italian GP:\n⚡ +15hp estimated\n🔧 New turbocharger + compressor\n✅ No grid penalty for Hamilton or Leclerc\n\nThe Temple of Speed just got faster. #F1 #ItalianGP #Ferrari",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#ItalianGP",
+            "#Ferrari"
+          ],
+          "char_count": 230
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Hot take: Ferrari wins Monza this weekend. 🏁\n\nNew ADUO-2 engine. +15hp. No penalty.\nSchumacher tribute livery.\nHamilton saying he's \"hopeful to fight for the win.\"\n\nThe Temple of Speed rewards power above all else.\n\nFerrari has finally built a weapon. #F1 #ItalianGP #Ferrari",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#ItalianGP",
+            "#Ferrari"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "Ferrari arrives at Monza with their ADUO-2 engine upgrade — estimated +15hp, no grid penalty, and a Schumacher tribute livery on the SF-26. The Temple of Speed just got a lot more interesting.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-ferrari-aduo2-engine-monza-hamilton-leclerc.html",
+        "headline": "Ferrari's ADUO-2 Engine Arrives at Monza: +15hp, No Grid Penalty, Hamilton Ready to Attack",
+        "word_count": 736
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ferrari ADUO-2 Engine Confirmed for Monza\n\n**Social Image (1080x1350, 4:5 vertical)**\n- Visual Description: Lewis Hamilton or Charles Leclerc in Ferrari race suit, cockpit or pit lane setting. Dramatic red and dark atmosphere.\n- Photo Search Terms (Imagn):\n  1. \"Lewis Hamilton Ferrari\"\n  2. \"Charles Leclerc Ferrari\"\n  3. \"Ferrari pit lane Monza\"\n  4. \"Ferrari SF-26\"\n- Text Overlay Copy:\n  - Headline: \"+15 HORSEPOWER.\" (white, Bebas Neue)\n  - Subtitle: \"FERRARI'S NEW WEAPON IS HERE\" (gold #FFC107, Montserrat)\n  - Background overlay: Dark Midnight #1A1A2E at 45% opacity, bottom third\n- Composition Notes: Ferrari red dominant. Driver in cockpit or pit lane preferred. Bold, powerful mood.\n\n**Article Hero (1200x630)**\n- Same search terms; landscape crop with Ferrari car prominent in frame\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Ferrari ADUO-2 Engine Confirmed for Monza\n**Decision:** NEW STORY\n**Sources:**\n1. ScuderiaFans.com: \"Fred Vasseur confirms Ferrari ADUO-2 power unit upgrade for Monza\" — scuderiafans.com\n2. ScuderiaFans.com: \"Ferrari Monza upgrades explained: ADUO-2 engine, floor and aero changes\" — scuderiafans.com\n3. Yahoo Sports: \"Ferrari's ADUO 2 Engine Upgrade at Monza Could Break the 2026 F1 Season\" — sports.yahoo.com\n4. Sky Sports: \"Italian GP: Lewis Hamilton hopeful Ferrari can fight for Monza win as team confirm engine upgrade\" — skysports.com\n5. Crash.net: \"Ferrari makes crucial upgraded F1 engine decision for Italian GP\" — crash.net\n**Key Facts (Verified):**\n- ADUO-2 confirmed for Monza by Fred Vasseur (HIGH — multiple sources, Vasseur direct)\n- Estimated +15 horsepower gain (MEDIUM — scuderiafans estimate, not official figure)\n- Redesigned turbocharger: larger turbo, new compressor (HIGH — scuderiafans technical)\n- No new Shell fuel blend with ADUO-2 unlike ADUO-1 (MEDIUM — scuderiafans)\n- Both Hamilton and Leclerc receive ADUO-2 without grid penalty (HIGH — multiple sources confirm within allocation)\n- Ferrari \"severely hamstrung\" by power deficit on straights (HIGH — acknowledged in multiple reports)\n- Hamilton \"hopeful Ferrari can fight for win\" at Monza (HIGH — Sky Sports direct quote)\n- ADUO-2 includes floor and aero changes alongside engine (MEDIUM — scuderiafans)\n- Software update also included (MEDIUM — scuderiafans)\n**Freshness:** Confirmed September 1-3 ahead of FP1 Sept 4. Very fresh.\n**Why it matters:** Ferrari's engine deficit has been the story of 2026. This upgrade is their biggest power step of the year — at their home race — potentially changing the competitive order. Hamilton + Leclerc on new engine without penalty is massive.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Antonelli's Monza Challenge — Championship Leader Starts from Back",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Kimi Antonelli, 20, leads the 2026 F1 championship by 59 points but will start the Italian GP from the back of the grid due to a full power unit change — at his home race in front of Italian fans",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Kimi Antonelli leads the 2026 F1 championship by 59 points.\n\nHe starts Sunday's Italian GP from LAST PLACE. 😤\n\nAt his home race. In front of Italian fans.\n\nThe most dramatic home race in years. 👀 #F1 #ItalianGP #Antonelli",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#ItalianGP",
+            "#Antonelli"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "Championship leader. 59-point lead. Starting last at his home race. Kimi Antonelli's Italian Grand Prix is already one for the history books — and the race hasn't even started.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-antonelli-monza-grid-penalty-championship.html",
+        "headline": "Starting Last at His Home Race: Antonelli's Italian GP Challenge and Mercedes' Strategic Gamble",
+        "word_count": 814
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli's Monza Challenge — Championship Leader Starts from Back\n\n**Social Image (1080x1350, 4:5 vertical)**\n- Visual Description: Kimi Antonelli in Mercedes gear — helmet on, cockpit or pit lane. Monza atmosphere preferred.\n- Photo Search Terms (Imagn):\n  1. \"Kimi Antonelli Mercedes\"\n  2. \"Kimi Antonelli Formula 1\"\n  3. \"Andrea Kimi Antonelli\"\n  4. \"Mercedes F1 pit lane\"\n- Text Overlay Copy:\n  - Headline: \"STARTING LAST.\" (white, Bebas Neue)\n  - Subtitle: \"CHAMPIONSHIP LEADER. HOME RACE.\" (gold #FFC107, Montserrat)\n  - Background overlay: Dark Midnight #1A1A2E at 45% opacity, bottom third\n- Composition Notes: Dramatic, focused. Silver/black Mercedes palette. Antonelli in helmet gives anonymity that suits the underdog angle.\n\n**Article Hero (1200x630)**\n- Landscape crop; Antonelli or Mercedes car on track\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli's Monza Challenge — Championship Leader Starts from Back\n**Decision:** FOLLOW UP (engine penalty confirmed, now race weekend)\n**Sources:**\n1. Formula1.com: \"Wolff confirms Antonelli is set for grid penalty at Italian Grand Prix\" — formula1.com\n2. ESPN: \"Mercedes' Kimi Antonelli to take grid penalty at Italian GP for new engine\" — espn.com\n3. Sky Sports: \"Kimi Antonelli to take grid penalty at Italian GP in Monza for engine change\" — skysports.com\n4. Motorsport Week: \"Toto Wolff details Kimi Antonelli's objective for Italian GP penalty recovery\" — motorsportweek.com\n5. GrandePrêmio.com: \"Hamilton and Antonelli to headline Italian GP press conference\" — gpblog.com\n6. Sky Sports (Hakkinen): \"F1 fans will 'crucify' teams if team orders are used in 2026 title battle\" — skysports.com\n**Key Facts (Verified):**\n- Full PU change: all components new (HIGH — Formula1.com, multiple sources)\n- Back of grid penalty confirmed (HIGH — multiple sources)\n- Antonelli championship lead: 242 pts (HIGH — verified standings)\n- Russell and Hamilton tied 2nd at 183 pts (HIGH — multiple standings sources)\n- Norris 4th at 159 pts (HIGH)\n- 11 races remain (HIGH)\n- Toto Wolff's strategy: Monza chosen for overtaking opportunities (HIGH — multiple sources)\n- Wolff objective for Antonelli: \"points-scoring finish, ideally P5 or better\" (MEDIUM — Motorsport Week)\n- Hamilton and Antonelli headlining Thursday FIA press conferences (HIGH — GPBlog, Yahoo Sports)\n- Mika Hakkinen quote about team orders (HIGH — Sky Sports direct quote)\n**Freshness:** Race week beginning today September 3. Highly fresh.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Norris Targets Three Straight — Could This Be His Title Moment?",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "After winning Hungary and Zandvoort consecutively, Lando Norris arrives at Monza as the form driver and outright favourite — if Antonelli struggles from the back, this could be the weekend the title race turns dramatic",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Lando Norris has won 2 races in a row.\n\nAntonelli starts last on Sunday. A Norris win + Antonelli out of the points = 25-pt swing.\n\n83 points with 11 races to go could become 58 in one afternoon.\n\nThe title race is ALIVE. 🔥\n\nThree straight for Norris? #F1 #ItalianGP #Norris",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#ItalianGP",
+            "#Norris"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "Lando Norris won the last two races. Antonelli starts from the back. A Norris win at Monza could cut the championship gap to just 58 points with 10 races to go.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-norris-three-straight-title-charge-monza.html",
+        "headline": "Can Norris Win Three Straight? Monza Sets Up the Championship's Most Dramatic Weekend",
+        "word_count": 767
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Norris Targets Three Straight\n\n**Social Image (1080x1350, 4:5 vertical)**\n- Visual Description: Lando Norris celebrating or driving at speed in McLaren papaya livery. High energy.\n- Photo Search Terms (Imagn):\n  1. \"Lando Norris McLaren\"\n  2. \"Lando Norris Formula 1\"\n  3. \"McLaren Monza\"\n  4. \"Oscar Piastri McLaren\"\n- Text Overlay Copy:\n  - Headline: \"THREE IN A ROW?\" (white, Bebas Neue)\n  - Subtitle: \"NORRIS IS ON FIRE — AND MONZA IS NEXT\" (gold #FFC107, Montserrat)\n  - Background overlay: Dark Midnight #1A1A2E at 40% opacity, bottom third\n- Composition Notes: McLaren papaya orange pops visually. Norris mid-celebration or driving at speed. Dynamic, kinetic feel.\n\n**Article Hero (1200x630)**\n- Landscape crop; Norris in McLaren car on circuit\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Norris Targets Three Straight — Title Moment?\n**Decision:** FOLLOW UP (back-to-back wins established; Monza preview angle)\n**Sources:**\n1. F1-fansite.com: \"Italian GP Preview: Three Straight for Norris? Antonelli's Tall Task and Ferrari's Hopes\" — f1-fansite.com\n2. Sportsnaut.com: \"Kimi Antonelli Faces Grid Penalty at Monza as F1 Title Fight Tightens\" — sportsnaut.com\n3. Formula1.com: \"5 storylines we're excited about ahead of the 2026 Italian Grand Prix\" — formula1.com\n**Key Facts (Verified):**\n- Norris won Hungary GP and Dutch GP (Zandvoort) = 2 consecutive wins (HIGH — standings confirmed)\n- Norris 159 pts, 4th in championship (HIGH)\n- Gap to Antonelli: 83 pts (HIGH)\n- If Norris wins + Antonelli outside top 10: 25-pt swing possible (HIGH — math)\n- Norris favored to win Italian GP per oddsmakers (MEDIUM — sportsnaut/f1fansite)\n- Monza: low downforce, high-speed; suited to McLaren's straight-line strengths (HIGH — F1 consensus)\n- 11 races remain after Monza (HIGH)\n- McLaren \"best race pace\" on power-circuit tracks (MEDIUM — multiple preview sources)\n**Freshness:** Monza preview angles fresh for Sept 3 Italian GP week.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "The Schumacher Tribute — Hamilton and Leclerc Race in F310 Colors",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Ferrari reveals full details of Monza tribute livery honoring 30 years since Schumacher's first Ferrari season; Barrichello and Vettel to drive F2002 on track; Hamilton and Leclerc in special race suits",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Ferrari's Schumacher tribute is BEAUTIFUL. 🔴⚫\n\nSF-26 in 1996 F310 livery. White wing. Gold wheels.\nHamilton + Leclerc in Schumacher race suits.\n\nBarrichello drives the F2002 Saturday.\nVettel gets a ceremonial lap Sunday.\n\n30 years. One legend. #F1 #ItalianGP #Ferrari",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#ItalianGP",
+            "#Ferrari"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "Ferrari's Schumacher tribute livery is here — white rear wing, gold wheels, and the MS seven-star logo. Barrichello drives the F2002 on Saturday. Vettel takes it on a ceremonial lap before the race.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-ferrari-schumacher-tribute-livery-monza-2026.html",
+        "headline": "Ferrari's Schumacher Tribute at Monza: F310 Colors, Barrichello, and 30 Years of Red",
+        "word_count": 745
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "The Schumacher Tribute — Hamilton and Leclerc Race in F310 Colors\n\n**Social Image (1080x1350, 4:5 vertical)**\n- Visual Description: Ferrari SF-26 in Schumacher tribute livery — red, white rear wing, gold wheels. Or Ferrari car on Monza straight.\n- Photo Search Terms (Imagn):\n  1. \"Michael Schumacher Ferrari\"\n  2. \"Rubens Barrichello Ferrari\"\n  3. \"Sebastian Vettel Ferrari\"\n  4. \"Ferrari Monza livery\"\n- Text Overlay Copy:\n  - Headline: \"30 YEARS OF RED.\" (white, Bebas Neue)\n  - Subtitle: \"FERRARI HONORS SCHUMACHER AT MONZA\" (gold #FFC107, Montserrat)\n  - Background overlay: Dark Midnight #1A1A2E at 45% opacity, bottom third\n- Composition Notes: Heritage, emotional, reverential. Ferrari red with gold accent matches tribute livery colors. Schumacher-era imagery preferred where available.\n\n**Article Hero (1200x630)**\n- Landscape crop; Ferrari car or Schumacher tribute livery prominent\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "The Schumacher Tribute Livery\n**Decision:** FOLLOW UP (teased Aug 30; now fully revealed)\n**Sources:**\n1. Formula1.com: \"Gallery: Ferrari reveal Schumacher-inspired livery for home Grand Prix at Monza\" — formula1.com\n2. Crash.net: \"Ferrari reveals Michael Schumacher F1 tribute livery for Italian GP at Monza\" — crash.net\n3. GrandePrix.com: \"Ferrari unveils Schumacher-inspired Monza livery\" — grandprix.com\n4. ScuderiaFans.com: \"Ferrari's Michael Schumacher tribute livery divides fans ahead of 2026 Italian GP\" — scuderiafans.com\n5. SpeedCafe.com: \"Ferrari unveils Schumacher tribute livery for Monza\" — speedcafe.com\n**Key Facts (Verified):**\n- Livery: glossy red, white rear wing, black detailing; inspired by 1996 F310 (HIGH — multiple sources)\n- Gold wheel tints; MS (Michael Schumacher) logo (HIGH — multiple sources with photos)\n- Hamilton and Leclerc: special helmets, race suits, gloves, shoes — Schumacher-inspired (HIGH — multiple)\n- Seven-star logo on helmets (Schumacher's 7 world championships) (HIGH — crash.net, formula1.com)\n- Three Schumacher Ferrari cars on display: F310 (1996), F2002, 248 F1 (2006) (HIGH — formula1.com)\n- Rubens Barrichello drives F2002 on Saturday (HIGH — multiple sources)\n- Sebastian Vettel does commemorative F2002 lap before Sunday race (HIGH — multiple sources)\n- 30th anniversary of Schumacher's first Ferrari season (1996) (HIGH — math/facts)\n- Livery \"divides fans\" — some prefer all-red; Hamilton wanted all-red look (MEDIUM — scuderiafans fan reaction)\n- \"Home is calling\" teaser campaign (HIGH — formula1.com)\n**Freshness:** Livery fully revealed September 3 ahead of FP1. Fresh and timely.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Monaco GP Appeal — Verdict Expected in 2 Weeks, Gasly Holds P3",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "McLaren and Red Bull's appeal of Gasly's Monaco P3 reinstatement was heard August 25 in Paris; verdict expected in 2-3 weeks — so around Monza weekend or Singapore GP",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "While drivers race at Monza, the FIA court is still deciding:\n\nWill Gasly's Monaco P3 be overturned?\n\nMcLaren + Red Bull appealed. Verdict due 2-3 weeks from Aug 25.\n\n⚖️ Ruling could land this week.\n\nPoints on the line. #F1 #Monaco #Gasly",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Monaco",
+            "#Gasly"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "The FIA court's Monaco GP verdict could arrive during this weekend's Italian GP. Gasly's P3 reinstatement is still under appeal — and points for both championships are on the line.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-monaco-gp-appeal-gasly-p3-verdict-monza.html",
+        "headline": "Gasly's Monaco P3 Still on the Line: What the FIA Appeal Verdict Could Mean for the 2026 Championship",
+        "word_count": 797
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Monaco GP Appeal — Verdict Could Land This Weekend\n\n**Social Image (1080x1350, 4:5 vertical)**\n- Visual Description: Pierre Gasly in Alpine gear — race suit or podium moment. Neutral/dramatic backdrop.\n- Photo Search Terms (Imagn):\n  1. \"Pierre Gasly Alpine\"\n  2. \"Pierre Gasly Formula 1\"\n  3. \"Alpine F1 pit lane\"\n  4. \"Gasly podium\"\n- Text Overlay Copy:\n  - Headline: \"STILL UNDECIDED.\" (white, Bebas Neue)\n  - Subtitle: \"GASLY'S MONACO P3 UNDER APPEAL\" (gold #FFC107, Montserrat)\n  - Background overlay: Dark Midnight #1A1A2E at 45% opacity, bottom third\n- Composition Notes: Tension, legal drama mood. Blue/pink Alpine colors work as contrast. Gasly looking focused or celebrating — either works for the appeal narrative.\n\n**Article Hero (1200x630)**\n- Landscape crop; Gasly or Alpine car on circuit"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Monaco GP Appeal — Verdict Expected in 2 Weeks\n**Decision:** FOLLOW UP (case heard Aug 25; verdict pending)\n**Sources:**\n1. Speedcafe.com: \"F1 news: FIA Monaco appeal verdict could take weeks\" — speedcafe.com\n2. Sky Sports: \"Monaco GP: McLaren, Red Bull appeal race classification\" — skysports.com\n3. Motorsport.com: \"McLaren, Red Bull formally appeal against Pierre Gasly's Monaco reinstatement\" — motorsport.com\n4. Motorsport Week: \"FIA reveals likely timeline of controversial F1 Monaco GP appeal result\" — motorsportweek.com\n**Key Facts (Verified):**\n- Monaco GP (June 7): Gasly received 2x five-second penalties (pit lane speed 60.1 and 60.4 km/h vs 60km/h limit) (HIGH — multiple sources)\n- Alpine successfully appealed via right of review; proved Monaco pit lane distance measurement was incorrect (HIGH — Sky Sports, multiple)\n- McLaren and Red Bull formally appealed Gasly's reinstatement (HIGH — Motorsport.com)\n- FIA International Court of Appeal heard case August 25, Paris (HIGH — multiple sources)\n- Verdict timeline: 2-3 weeks from Aug 25 = ~September 8-15 (MEDIUM — FIA timeline, Motorsport Week)\n- Current Monaco classification: Gasly P3, Hadjar P4, Piastri P5 (HIGH — standings)\n- McLaren argues \"sporting fairness\" and \"double intent\" (HIGH — Grande Prêmio)\n- FOM admitted measurement error (HIGH — multiple sources)\n**Freshness:** Case heard Aug 25; verdict imminent (potentially during Monza weekend). Timely update.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
