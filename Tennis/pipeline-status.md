@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-09-02 |
-| Writing | Complete (all steps) | 2026-09-02 |
-| Fact-check | Complete (verify-facts.py run — 5 stories, 23 claims) | 2026-09-02 |
-| Compile | Complete (07-content-data.json — 5 stories, 8 X posts, 5 articles, 28 items) | 2026-09-02 |
-| Dashboard | Complete (review-dashboard.html, 28 items) | 2026-09-02 |
-| PostPlanner Export | 0 posts (parser compat known issue) | 2026-09-02 |
-| WordPress Publish | Attempted — proxy blocks WordPress API (same as all prior runs) | 2026-09-02 |
-| Dashboard Push | Attempted — proxy lacks write access to content-dashboards repo (same as all prior runs) | 2026-09-02 |
+| Research | Complete | 2026-09-03 |
+| Writing | Complete (all steps) | 2026-09-03 |
+| Fact-check | Complete (verify-facts.py run — 5 stories, 24 claims) | 2026-09-03 |
+| Compile | Complete (07-content-data.json — 5 stories, 8 X posts, 5 articles, 28 items) | 2026-09-03 |
+| Dashboard | Complete (review-dashboard.html, 28 items) | 2026-09-03 |
+| PostPlanner Export | 0 posts (parser compat known issue) | 2026-09-03 |
+| WordPress Publish | Attempted — proxy blocks WordPress API (same as all prior runs) | 2026-09-03 |
+| Dashboard Push | Attempted — proxy lacks write access to content-dashboards repo (same as all prior runs) | 2026-09-03 |
 
 ## Queue
 
@@ -24,6 +24,16 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-09-03 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 8 X posts + 5 FB posts (5 long-form + 5 captions) = 13 total
+- **Articles:** 5 (bylines: Marcus Cole [S1, S4], Ryan Calloway [S2, S5], Elena Voss [S3])
+- **PostPlanner exports:** 0 posts (known parser compat issue — same as prior runs)
+- **Key stories:** Alcaraz def. Faria 4-6, 6-0, 6-3, 6-2 advancing to R3 (defending champion into third round); Tien def. Monfils 6-3, 0-6, 6-3 in 121 min ending Monfils' emotional US Open farewell (18th and final appearance, signed balls and standing ovation); Eala vs. Oliynykova R2 rematch (Eala No. 17 seed, Oliynykova leads H2H 1-0 from Strasbourg clay); Day 5 evening preview (Gauff vs. Badosa 7PM Arthur Ashe, Zverev vs. Halys, Rybakina vs. Bouzas Maneiro); Men's draw R3 analysis (Alcaraz leads as Sinner/Djokovic/Fils all gone)
+- **Issues:** image manifest warning (expected for imagn source); compile posting-window warnings cosmetic (known); PostPlanner 0 posts (known parser issue); WordPress blocked by proxy; dashboard push blocked by proxy (content-dashboards not in session authorized repos)
+- **Story history:** Updated with all 5 stories
 
 ### 2026-09-02 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
