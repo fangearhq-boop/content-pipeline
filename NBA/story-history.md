@@ -6324,3 +6324,48 @@
 - **Key facts:** Roster at 14 players; Giannis traded July 6 (Herro/Ware/Jaquez/picks to MIL); Klay 2yr/$11.48M; Nick Richards 1yr/$3.06M (Aug 27); Hadley+Johnson two-ways (Aug 28); Christmas vs. Celtics Dec 25; Giannis $275M supermax eligible Jan 6 2027
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Supermax extension signing, training camp performance, early season results
+
+## 2026-09-03
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-03 | T1 | NBA Hammers Clippers: 5 Picks Stripped, $30M Fine, Ballmer Suspended | X(2), FB, Article | NEW |
+| 2026-09-03 | T1 | Kawhi Leonard Trade to Toronto Now Clear to Proceed | X(2), FB, Article | FOLLOW UP |
+| 2026-09-03 | T2 | Wemby Leads France to FIBA Window Sweep; Turkey First to Qualify | X(1), FB, Article | FOLLOW UP |
+| 2026-09-03 | T2 | 2026-27 NBA Power Rankings: Miami and Toronto Rise, Knicks Lead East | X(1), FB, Article | NEW |
+| 2026-09-03 | T2 | Blazers Backcourt Reset: Morant and Lillard Step Up After Sharpe Injury | X(1), FB, Article | FOLLOW UP |
+
+### STORY 1: NBA Hammers Clippers — 5 Picks Stripped, $30M Fine, Ballmer Suspended
+- **Tier:** 1
+- **Category:** Los Angeles Clippers / Kawhi Leonard / NBA Investigation / Steve Ballmer
+- **Key facts:** Investigation by Wachtell, Lipton, Rosen & Katz; Clippers funneled improper endorsements through Aspiration Partners, Boingo Wireless, Daktronics, Lockton Insurance; 5 consecutive first-round picks forfeited starting 2029; $30M fine; Ballmer, Frank, Zucker suspended; Kawhi pays $700K, avoids suspension; Dennis Robertson banned from NBA business; Kawhi trade to Toronto now cleared
+- **Status:** NEW
+- **Follow-up ideas:** Clippers appeal, Ballmer suspension length, team rebuild plans, trade official completion
+
+### STORY 2: Kawhi Leonard Trade to Toronto Now Clear to Proceed
+- **Tier:** 1
+- **Category:** Toronto Raptors / Kawhi Leonard / Los Angeles Clippers / NBA Transactions
+- **Key facts:** Trade: Kawhi → Toronto for Ingram+Dick+2031 UPF+2033 UPF+2027 swap+2 2nds; agreed June 30; frozen July 9; cleared Sept 2 with investigation conclusion; expected official in days; Kawhi expects to be Raptor by camp Sept 28 Quebec City
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official trade announcement, Kawhi physical, Toronto season opener
+
+### STORY 3: Wemby Leads France to FIBA Window Sweep; Turkey First to Qualify
+- **Tier:** 2
+- **Category:** FIBA / France National Team / Victor Wembanyama / San Antonio Spurs / Turkey
+- **Key facts:** France 84-69 Sweden Aug 30 at Avicii Arena; Wemby 18 pts 6-of-7 FG; record crowd 14,750; France 7-1 Group L; Turkey 8-0 first to qualify for 2027 FIBA World Cup; Canada 8-0 Americas; Serbia swept window; VJ Edgecombe 25 pts for Bahamas
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Next qualifying window, France qualification, World Cup field taking shape
+
+### STORY 4: 2026-27 NBA Power Rankings — Miami and Toronto Rise
+- **Tier:** 2
+- **Category:** NBA Season Preview / Power Rankings / New York Knicks / Miami Heat / Contenders
+- **Key facts:** Knicks defending champs (beat Spurs in 5); Miami with Giannis, Toronto with Kawhi; Philly with LeBron+Brown+Embiid; OKC/Spurs/Nuggets lead West; 11 genuine contenders; Opening Night Oct 20; Knicks projected No. 1 East 53-29
+- **Status:** NEW
+- **Follow-up ideas:** Training camp power rankings, preseason results, Opening Night recap
+
+### STORY 5: Blazers Backcourt Reset After Sharpe Meniscus Tear
+- **Tier:** 2
+- **Category:** Portland Trail Blazers / Shaedon Sharpe / Ja Morant / Damian Lillard
+- **Key facts:** Sharpe right knee meniscus tear; 6-month recovery; return late Feb/early March 2027; Morant 19.5 ppg 8.1 apg in 20 games last year; Lillard returning from 2025 Achilles; Holiday also in backcourt; all three veterans to anchor Portland
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Training camp health updates, Morant/Lillard backcourt chemistry, early season performance
