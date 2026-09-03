@@ -5,6 +5,50 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-09-03
+
+### Story 1: PCA 40-40 Chase — Final Month, Final Push
+- **Date:** 2026-09-03
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** PCA needs 2 HR + 8 SB in 26 games for 40-40. Only 5 in history: Canseco/Bonds/ARod/Soriano/Acuña. -1100 NL MVP. Cubs WC1.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:** Daily HR/SB tracking, 40th HR and 40th SB events
+
+### Story 2: Misiorowski — Cy Young Gem at Wrigley
+- **Date:** 2026-09-03
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Sept 2 Wrigley start: 8 K, scoreless, 101.5 mph (velocity question answered). 14-5/1.73 ERA/222K/0.75 WHIP. Brewers now NL Central first. -1400 Cy Young.
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:** Next Misiorowski start ~Sept 7-8, Brewers NL Central race
+
+### Story 3: Cardinals 8-6 Dodgers — Saggese Hero in Extras
+- **Date:** 2026-09-03
+- **Tier:** 1
+- **Classification:** NEW
+- **Angle:** Saggese HR breaks up Yamamoto no-hitter in 6th + go-ahead single in 10th wins it. Dodgers 82-57 but 6-of-8 losses. Ohtani 0-for-4/4K. Cardinals 70-70 WC chase. Leo Bernal first MLB HR.
+- **Content Produced:** Article (article-03, Ryan Calloway), 2 X posts, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:** Cardinals vs Dodgers series result, Ohtani status Thursday, Cardinals WC chase
+
+### Story 4: Alvarez Triple Crown — 26 Games Left
+- **Date:** 2026-09-03
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Alvarez leads AL in BA (.322)/HR (36)/RBI (91). Last TC: Cabrera 2012. Threats: Caminero (35 HR), Rice (35 HR), Simpson (.308 BA), Alonso (~91 RBI). 26 games to hold all 3 leads.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:** Daily TC lead tracking, any lead change in any category
+
+### Story 5: Ohtani "Not Close to Optimal" — Dodgers October Worry
+- **Date:** 2026-09-03
+- **Tier:** 3
+- **Classification:** NEW
+- **Angle:** 7-for-51 since Aug 18, 20 K. Roberts: "not close to optimal." Left knee issue. Rest being discussed. Dodgers 82-57 safe but October concerns growing.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:** Ohtani lineup status Thursday, rest decision, October health trajectory
+
+---
+
 ## 2026-09-01
 
 ### Story 1: PCA August Was Historic — September Decides the MVP

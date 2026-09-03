@@ -1,0 +1,275 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-03",
+  "compiled_at": "2026-09-03T10:27:54.983843+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "PCA's 40-40 Chase — Final Month, Final Push (Tier 1 — FOLLOW UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Pete Crow-Armstrong needs 2 HR and 8 SB in 26 games to reach 40-40.\n\nOnly 5 players in MLB history have done it: Canseco, Bonds, A-Rod, Soriano, Acuña.\n\nPCA is the -1100 NL MVP favorite. Now he's chasing history. ⚾ #Cubs #NLMVPRace",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#NLMVPRace"
+          ],
+          "char_count": 231
+        },
+        {
+          "label": "Post 1-2",
+          "text": "40-40 club members (all-time):\n→ Jose Canseco\n→ Barry Bonds\n→ Alex Rodriguez\n→ Alfonso Soriano\n→ Ronald Acuña Jr.\n\nPete Crow-Armstrong. 26 games. 2 HR. 8 SB.\n\nThe door is open. 🚪⚾ #Cubs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 185
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-pca-40-40-final-month.html",
+        "headline": "Pete Crow-Armstrong's 40-40 Chase: Two Home Runs and Eight Stolen Bases Stand Between History and September",
+        "word_count": 542
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "PCA 40-40 Chase\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search Term:** \"Pete Crow-Armstrong Chicago Cubs\"\n- **Suggested Use:** 40-40 chase lead post\n- **Notes:** Batting action or stolen base slide preferred\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** imagn\n- **Search Term:** \"Pete Crow-Armstrong Cubs outfield\"\n- **Suggested Use:** Secondary MVP/40-40 social post\n- **Notes:** Any action shot acceptable\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "PCA 40-40 Chase\n**Source:** bleacherreport.com, lastwordonsports.com, cbssports.com\n**Verified Facts (HIGH confidence):**\n- PCA as of late August/early Sept: ~38 HR, ~32-34 SB (on 40-40 pace)\n- Per prior pipeline (Sept 2): PCA .283 BA, 38 HR, 91 RBI, 32 SB\n- NL MVP odds: -1100 favorite (FanDuel Sportsbook)\n- 40-40 club historical members: Jose Canseco, Barry Bonds, Alex Rodriguez, Alfonso Soriano, Ronald Acuña Jr. (5 players only)\n- Cubs WC1 position with ~26 games remaining\n- 29 of 37 first-place MVP votes in most recent poll\n**Verified Facts (MEDIUM confidence):**\n- Exact current SB total for 40-40 math — using prior pipeline as most recent: needs 2 HR + 8 SB\n**Source confidence:** HIGH for HR/RBI stats (multiple sources), MEDIUM for exact SB count",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Misiorowski Cements Cy Young Case After Wrigley Gem (Tier 1 — FOLLOW UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Jacob Misiorowski silenced Wrigley Field on Tuesday night.\n\n8 strikeouts. Scoreless outing. 101.5 mph fastball.\n\nThe velocity questions are answered. 14-5. 1.73 ERA. 222 K. 0.75 WHIP.\n\nNL Cy Young race? It's over. 🔒 #Brewers #CyYoung",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#CyYoung"
+          ],
+          "char_count": 233
+        },
+        {
+          "label": "Post 2-2",
+          "text": "After Misiorowski's gem Tuesday night, the Brewers are in first place in the NL Central.\n\nThe Cubs remain WC1, but the division title now runs through Milwaukee.\n\n14-5. 1.73 ERA. 222 K. Misiorowski has been that guy all year. #Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-misiorowski-cy-young-wrigley.html",
+        "headline": "Misiorowski Silences the Doubters at Wrigley — and the NL Cy Young Is His",
+        "word_count": 479
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Misiorowski Cy Young\n\n#### Image Concept 3 — Social (1080x1350)\n- **Type:** imagn\n- **Search Term:** \"Jacob Misiorowski Milwaukee Brewers\"\n- **Suggested Use:** Cy Young post\n- **Notes:** Pitching motion preferred; Wrigley backdrop if available\n\n#### Image Concept 4 — Social (1080x1350)\n- **Type:** imagn\n- **Search Term:** \"Jacob Misiorowski Brewers pitcher\"\n- **Suggested Use:** Velocity/strikeout graphic\n- **Notes:** Any action shot\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Misiorowski NL Cy Young\n**Source:** si.com, fansided.com, brewerfanatic.com, mlb.com\n**Verified Facts (HIGH confidence):**\n- Misiorowski season record: 14-5\n- ERA: 1.73\n- Strikeouts: 222\n- WHIP: 0.75\n- Age: 24 (second year in majors)\n- Sept. 2 start at Wrigley: scoreless outing, 8 K, 101.5 mph fastball (from prior Sept 2 pipeline)\n- Brewers took NL Central first place after that win\n- bWAR: 5.6 / fWAR: 5.7 (as of late August)\n- Average velocity: was 100.5, dipped to 98.7, then 101.5 peak in Sept 2 outing\n- NL Cy Young odds: -1400 (overwhelming favorite)\n- 26 games remaining for Brewers\n**Source confidence:** HIGH — multiple sources corroborate 14-5/1.73/222K/0.75 WHIP",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Cardinals Stun Dodgers in 10th, 8-6 — Saggese the Hero (Tier 1 — NEW)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Thomas Saggese had a night for the ages:\n\n✅ Two-run HR in the 6th — breaks up Yamamoto's no-hitter\n✅ Go-ahead single in the 10th — wins the game\n\nCardinals 8, Dodgers 6. Ohtani 0-for-4, 4 K. LA has lost 6 of 8. ⚾ #STLCards",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#STLCards"
+          ],
+          "char_count": 222
+        },
+        {
+          "label": "Post 3-2",
+          "text": "The Dodgers are 82-57. Safe in the playoff picture.\n\nBut they've lost 6 of their last 8 games. Ohtani 0-for-4 with 4 strikeouts last night. Dave Roberts says he's \"not close to optimal.\"\n\nOctober is coming. ⚾ #Dodgers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers"
+          ],
+          "char_count": 217
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-cardinals-saggese-dodgers-extras.html",
+        "headline": "Saggese Breaks Up the No-No, Then Wins It in the 10th: Cardinals 8, Dodgers 6",
+        "word_count": 489
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cardinals 8-6 Dodgers\n\n#### Image Concept 5 — Social (1080x1350)\n- **Type:** imagn\n- **Search Term:** \"Thomas Saggese St. Louis Cardinals\"\n- **Suggested Use:** Cardinals extra-innings win story\n- **Notes:** Batting action, celebration, or fielding shot\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Cardinals 8-6 Dodgers in 10th\n**Source:** tsn.ca, wral.com, yahoo sports, mlb.com, fultonsun.com\n**Verified Facts (HIGH confidence):**\n- Final score: Cardinals 8, Dodgers 6, 10 innings (September 3, 2026)\n- Thomas Saggese go-ahead infield single in 10th, two-strike count, off Brock Stewart\n- Automatic runner José Fermín scored on Saggese's single for 6-5 lead\n- Joshua Báez double added 2 more runs as pinch-hitter\n- Saggese also hit a two-run HR off Yamamoto in the 6th, breaking up a no-hitter\n- Leo Bernal hit his first MLB HR (debut was Tuesday)\n- Dodgers scored off Freeman (HR) and Betts (HR)\n- Shohei Ohtani: 0-for-4, 4 strikeouts (in same game or Wednesday)\n- Cardinals record: 70-70\n- Dodgers record: 82-57 (lost 6 of last 8 games)\n**Source confidence:** HIGH — multiple outlets (TSN, Yahoo, WRAL, Fulton Sun) confirm 8-6 Cardinals win in 10th with Saggese go-ahead single",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Alvarez Triple Crown Watch — 26 Games to Make History (Tier 2 — FOLLOW UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Yordan Alvarez leads the AL in batting average, home runs, AND RBIs.\n\nLast Triple Crown winner: Miguel Cabrera, 2012.\n\nCaminero is 1 HR behind. Simpson is 14 pts behind in BA. Alonso is right there in RBI.\n\n26 games. ⚾ #Astros #TripleCrown",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Astros",
+            "#TripleCrown"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-alvarez-triple-crown-26-games.html",
+        "headline": "Yordan Alvarez and the Triple Crown: 26 Games to Do What No One Has Done Since 2012",
+        "word_count": 502
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alvarez Triple Crown\n\n#### Image Concept 6 — Social (1080x1350)\n- **Type:** imagn\n- **Search Term:** \"Yordan Alvarez Houston Astros\"\n- **Suggested Use:** Triple Crown storyline visual\n- **Notes:** Batting action preferred\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Yordan Alvarez Triple Crown\n**Source:** si.com, mlb.com, cbssports.com, sportsgrid.com\n**Verified Facts (HIGH confidence):**\n- Alvarez leads AL in all 3 Triple Crown categories\n- Stats (per multiple sources): .316-.322 BA, 36-37 HR, 91-94 RBI\n- Using prior pipeline (most recent): .322 BA, 36 HR, 91 RBI\n- Last Triple Crown winner: Miguel Cabrera, 2012 (AL)\n- Competitors: Junior Caminero (35 HR, 1 behind), Ben Rice (35 HR, 1 behind), Chandler Simpson (.308, ~14 pts behind in BA), Pete Alonso (~91 RBI, tied)\n- ~26 games remaining\n**Source confidence:** HIGH for Triple Crown lead (mlb.com, si.com confirmed), MEDIUM for exact competitor stats",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Ohtani \"Not Close to Optimal\" — Dodgers October Worry Begins (Tier 3 — NEW)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Since Aug. 18: Shohei Ohtani is 7-for-51 with 20 strikeouts.\n\nDave Roberts says he's \"not close to optimal.\" Left knee is the issue. Rest is being discussed.\n\nThe Dodgers are still 82-57. But this trend is worth watching. ⚾ #Dodgers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-ohtani-slump-dodgers-october.html",
+        "headline": "Ohtani \"Not Close to Optimal\": Dodgers Navigate Their Star's September Slump",
+        "word_count": 519
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ohtani Slump\n\n#### Image Concept 7 — Social (1080x1350)\n- **Type:** imagn\n- **Search Term:** \"Shohei Ohtani Los Angeles Dodgers\"\n- **Suggested Use:** Slump/rest storyline visual\n- **Notes:** Any 2026 Dodgers shot; preferably batting stance"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Ohtani Slump\n**Source:** yahoo sports, dodgersnation.com, mlb.com\n**Verified Facts (HIGH confidence):**\n- Ohtani: 0-for-4 with 4 strikeouts in Sept. 2/3 game vs Cardinals\n- Since Aug. 18: 7-for-51, 20 strikeouts (per yahoo sports)\n- Manager Dave Roberts confirmed Ohtani \"not close to optimal\"\n- Left knee issue mentioned by Roberts\n- Roberts considering giving Ohtani rest; will talk to trainers\n- Dodgers record: 82-57\n- Dodgers have lost 6 of their last 8 games\n**Source confidence:** HIGH — yahoo sports, dodgersnation confirm slump stats and Roberts quotes",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
