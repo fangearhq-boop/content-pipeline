@@ -3,6 +3,62 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-09-03
+
+### Story 1: USA WNT — Nine Days to Group Oklahoma
+- **Date:** 2026-09-03
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** 9 days to Devon Park OKC opener. USA vs No. 7 Mexico Sept. 12 at 7:30 PM. Netherlands (No. 6) top-seed decider. 16-player roster: Garcia+Mulipola 2020 Olympians, 7 World Games golds, 4 Sooners (Brito/Coleman/Jennings/Maxwell), Gasso coaches. Top 2 of 6 → Redcliffe QLD April 5-11 2027 Finals (LA28 qualifier).
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Sept. 9 in-person contact window (recruiting)
+  - Sept. 12 opening game USA vs Mexico
+  - Sept. 12-16 full Group Oklahoma results
+
+### Story 2: Class of 2028 — Six Days to In-Person Window
+- **Date:** 2026-09-03
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Sept. 9 at 7 AM ET in-person contact window opens (6 days). Coaches can visit schools and homes. 1,226 EIS nominations (record). Top prospects: Michaela Landers, Kylie Holden, Sophia Schlader. New NCAA 5-5 rules.
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Sept. 9 in-person window opens
+  - First commits from Class of 2028
+
+### Story 3: Oklahoma Fall Camp — Kendall Wells and New-Look Sooners
+- **Date:** 2026-09-03
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Wells (NCAA freshman HR record — 39 HRs, .358 BA, NFCA FOY) returns for year two. Gasso departs Sept. 12 (9 days). Lowry (2.2IP/1H/0BB/2K) only returning pitcher with Deal. Berzon (2x AA LSU, 486.1 IP, 2.02 ERA) and Harter (.346 MTSU) integrating. Fall opener Sept. 30.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - OU fall opener Sept. 30
+  - Gasso returns from WNT Sept. 17
+  - Berzon/Harter integration results
+
+### Story 4: Texas Longhorns — 26 Days to Fall Opener, Three-Peat Chase
+- **Date:** 2026-09-03
+- **Tier:** 3
+- **Classification:** FOLLOW UP
+- **Angle:** Texas opens fall Sept. 29 vs Murray State at McCombs Field (free, 6 PM CT). Kavan (2x WCWS MOP, only in history) senior season. 6 of 9 starters back. Three-peat: only UCLA (1988-90) and OU (2021-23).
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Texas fall opener Sept. 29
+  - Transfer portal additions
+
+### Story 5: Texas Tech — Seven All-Americans in One Camp
+- **Date:** 2026-09-03
+- **Tier:** 3
+- **Classification:** FOLLOW UP
+- **Angle:** 7 All-Americans practicing together for first time: Beachum (.406 BA/10HR/69RBI, All-ACC 1st Team), Pickering (No. 2 transfer, .384 career BA, 50 career HR), Heavener (LHP/13-9/2.81 ERA), Terry/Williams/Pannell/Burns. Glasco Year 2. WCWS runner-up 2026. Chemistry = the question.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - TTU fall scrimmage results
+  - Early chemistry signals
+
+---
+
 ## 2026-09-01
 
 ### Story 1: September 1 — D1 Contact Window NOW OPEN
