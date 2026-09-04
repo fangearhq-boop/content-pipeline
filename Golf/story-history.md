@@ -4543,3 +4543,48 @@ July 12 pipeline contained incorrect winners for Scottish Open (MacIntyre report
 - **Key facts:** McIlroy 3 FedExCup titles (2016, 2019, 2022); tied with Tiger Woods for all-time record; 4th would give McIlroy sole record; won 2026 Masters (career Grand Slam); entering Sunday ~6 shots off pace; needs 62-63 + leader stumble to claim FedExCup
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** McIlroy final round result; FedExCup champion; record outcome
+
+## 2026-09-04
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-04 | T1 | LIV Golf Bankruptcy Filing Could Come This Week — Jon Rahm Owed $100M+ | X(2), FB, Article | FOLLOW UP |
+| 2026-09-04 | T1 | Solheim Cup Countdown — USA and Europe Teams in Netherlands, Three Days Out | X(2), FB, Article | FOLLOW UP |
+| 2026-09-04 | T2 | PGA Tour Commissioner Rolapp: "No Path Back" for LIV Golfers | X(1), FB, Article | NEW |
+| 2026-09-04 | T2 | Presidents Cup 2026 — Three Weeks to Medinah, Tiger Woods Captains USA | X(1), FB, Article | FOLLOW UP |
+| 2026-09-04 | T2 | Walmart NW Arkansas Championship — LPGA's 20th Anniversary Event Sept 25-27 | X(1), FB, Article | NEW |
+
+### STORY 1: LIV Golf Bankruptcy This Week
+- **Tier:** 1
+- **Category:** LIV Golf / Bankruptcy / Jon Rahm / Saudi PIF / LIV 2.0
+- **Key facts:** Bankruptcy filing expected as soon as week of Sept 7; Jon Rahm owed $100M+ from $300M signing deal (joined ahead of 2024 season); PIF spent ~$6B since 2022, ended funding; majority of staff laid off; Michigan team championship cancelled, settled in Indianapolis; Legion XIII (Rahm) won team championship ($8.4M); players offered "cents on the dollar"; BC Partners Credit discussions ongoing; LIV 2.0: 10 events, player equity
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Bankruptcy filing confirmation, BC Partners deal, player reinstatement decisions
+
+### STORY 2: Solheim Cup Preview — 3 Days Out
+- **Tier:** 1
+- **Category:** Solheim Cup / Team USA / Team Europe / Angela Stanford / Anna Nordqvist / Netherlands
+- **Key facts:** Sept 7-13 at Bernardus Golf, Cromvoirt, Netherlands; first Dutch Solheim; USA captain Angela Stanford; Europe captain Anna Nordqvist; USA auto (9): Korda, Yin, Kupcho, Noh, Auston Kim, Coughlin, Corpuz, Andrea Lee, Alison Lee; USA picks: Megan Khang, Rose Zhang, Lindy Duncan; Korda world No. 1, 4 wins + 2 majors, 10-5-1 record; Hull: 8 consecutive Cups; Woad world No. 5 (Europe); USA won 2024 15.5-12.5; 14.5 pts to win
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Pairings, match results (days 1-3), final score
+
+### STORY 3: PGA Tour No Path Back
+- **Tier:** 2
+- **Category:** PGA Tour / Brian Rolapp / LIV Golfers / Reinstatement / Bryson DeChambeau / Jon Rahm / Cameron Smith
+- **Key facts:** Rolapp stated no current plan to reinstate LIV golfers; named DeChambeau, Rahm, Smith; PGA Tour multi-year partnership with DP World Tour + Asian Tour through 2029; Asian Tour previously LIV's feeder circuit
+- **Status:** NEW
+- **Follow-up ideas:** Policy change if LIV formally dissolves, individual reinstatement petitions
+
+### STORY 4: Presidents Cup 2026
+- **Tier:** 2
+- **Category:** Presidents Cup / Medinah / Tiger Woods / Scottie Scheffler / Rory McIlroy / Adam Scott
+- **Key facts:** Sept 22-27 at Medinah Country Club (Medinah, IL); USA captain Tiger Woods; International captain Adam Scott; USA team: Scheffler (FedExCup champion), McIlroy (2026 Masters champion); USA historically dominant in Presidents Cup
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Team rosters finalized, practice rounds, match results
+
+### STORY 5: Walmart NW Arkansas Championship
+- **Tier:** 2
+- **Category:** LPGA / Walmart NW Arkansas Championship / Nelly Korda / Pinnacle Country Club
+- **Key facts:** Sept 25-27 at Pinnacle Country Club, Rogers, AR; 20th anniversary; $3M purse; 144 players; Pinnacle CC hosting since 2007; post-Solheim Cup timing
+- **Status:** NEW
+- **Follow-up ideas:** Field announcement, leaderboard updates during event
