@@ -6150,3 +6150,48 @@
 - **Key facts:** 242 pts, 59-pt lead; starts from back at Monza; Mercedes strategy: take PU penalty now, get fresh components for final 7 races; no team orders; Russell and Hamilton racing freely
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Monza race result, championship gap post-race
+
+## 2026-09-04
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-04 | T1 | Italian GP Weekend Opens — Antonelli Starts Last as Norris Eyes Three Straight | X(2), FB, Article | NEW |
+| 2026-09-04 | T1 | Ferrari Pays Stunning Schumacher Tribute at Monza — Special Livery, Barrichello and Vettel to Drive | X(2), FB, Article | NEW |
+| 2026-09-04 | T2 | F1 Season Finale in Doubt — Qatar and Abu Dhabi at Risk Due to Middle East Conflict | X(1), FB, Article | NEW |
+| 2026-09-04 | T2 | Antonelli's Engine Gamble — Can Mercedes' Champion Recover From the Back? | X(1), FB, Article | NEW |
+| 2026-09-04 | T2 | Norris Enters Monza as Favourite — Three Straight McLaren's Best Hope | X(1), FB, Article | NEW |
+
+### STORY 1: Italian GP Weekend Opens
+- **Tier:** 1
+- **Category:** Italian Grand Prix / Monza / Kimi Antonelli / Lando Norris / F1 Championship
+- **Key facts:** Italian GP Sept 4-6 at Monza; FP1 11:30 AM / FP2 3:00 PM local; Race Sunday 2:00 PM; Antonelli leads by 59 pts, starts last; Norris favourite 2.50 odds, won last 2 races, 83 pts behind; Russell 3.25; Hamilton/Leclerc 7.50; Verstappen 13.00
+- **Status:** NEW
+- **Follow-up ideas:** Qualifying results, race result and championship impact
+
+### STORY 2: Ferrari Schumacher Tribute
+- **Tier:** 1
+- **Category:** Ferrari / Michael Schumacher / Monza / Italian Grand Prix
+- **Key facts:** 30 years since Schumacher joined Ferrari (1996), 20 since last season (2006); Glossy red, white rear wing, black detailing — based on 1996 F310; Gold wheels, MS logo, 7-star logo; Hamilton and Leclerc in Schumacher-inspired suits; 3 historic cars: F310 (1996), F2002 (2002), 248 F1 (2006); Barrichello drives Saturday; Vettel demonstration lap before Sunday race; Sabine Kehm gave emotional response
+- **Status:** NEW
+- **Follow-up ideas:** Race weekend recap, Barrichello/Vettel demo coverage
+
+### STORY 3: F1 Season Finale Calendar Uncertainty
+- **Tier:** 2
+- **Category:** F1 Calendar / Qatar GP / Abu Dhabi GP / Middle East Conflict
+- **Key facts:** Qatar: Nov 27-29 at Lusail; Abu Dhabi: Dec 4-6 at Yas Marina; FOM decision deadline: mid-September; Backup: Europe, Imola leading candidate, Portimao also mentioned; Bahrain and Saudi GPs already cancelled; Bahrain moved to Sepang Malaysia Oct 2-4; US strikes on Iranian targets around Strait of Hormuz
+- **Status:** NEW
+- **Follow-up ideas:** FOM announcement on calendar, if Imola confirmed
+
+### STORY 4: Antonelli Engine Penalty Details
+- **Tier:** 2
+- **Category:** Kimi Antonelli / Mercedes / Italian Grand Prix / Power Unit
+- **Key facts:** Exceeded limits: 4th ICE (max 4), 4th exhaust (max 4), 3rd energy store (max 3), 3rd control electronics (max 3); Race-ending PU failure at Spanish GP reason for needing new unit; Monza chosen for overtaking; Toto Wolff confirmed; Antonelli age 20
+- **Status:** NEW
+- **Follow-up ideas:** Race result, recovery drive performance
+
+### STORY 5: Norris Title Charge at Monza
+- **Tier:** 2
+- **Category:** Lando Norris / McLaren / Italian Grand Prix / F1 Championship
+- **Key facts:** 2025 World Champion; won Dutch GP + one other in streak; 83 pts behind Antonelli; favourite at 2.50; three straight wins would be major statement
+- **Status:** NEW
+- **Follow-up ideas:** Race result, championship gap after Monza

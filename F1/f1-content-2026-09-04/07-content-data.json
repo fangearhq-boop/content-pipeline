@@ -1,0 +1,254 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-04",
+  "compiled_at": "2026-09-04T11:26:44.017877+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Italian GP Weekend Opens — Antonelli Starts From Back as Norris Eyes Three Straight",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "🏁 IT'S MONZA WEEKEND.\n\nFP1 starts in hours. Here's your Italian GP storyline card:\n\n🔴 Antonelli: championship leader, starting LAST\n🟠 Norris: two wins in a row, heavy favourite\n🐎 Ferrari: Schumacher tribute livery. The Tifosi are ready.\n\nLet's go. #ItalianGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ItalianGP",
+            "#F1"
+          ],
+          "char_count": 262
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Kimi Antonelli leads the F1 championship by 59 points.\n\nThis weekend at Monza — his HOME RACE — he starts from the back of the grid.\n\nThat's the story of the 2026 Italian Grand Prix. 🎢 #ItalianGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ItalianGP",
+            "#F1"
+          ],
+          "char_count": 199
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "Monza weekend is here. Antonelli starts from the back. Norris chases three straight wins. Ferrari honors Schumacher. This Italian GP has EVERYTHING. 🏁 #F1 #ItalianGP",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-italian-gp-antonelli-norris-monza-preview.html",
+        "headline": "Italian Grand Prix Preview: Antonelli Starts Last as Norris Eyes Three Straight at Monza",
+        "word_count": 603
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Italian GP Preview\n\n**Social Image 1-A** | 1080x1350 (4:5)\n- **Type:** imagn\n- **Search terms:** \"Lando Norris McLaren\"\n- **Usage:** X Post 1-A, FB\n- **Concept:** Norris in McLaren livery at high speed. Text overlay: \"MONZA WEEKEND — SEPT 4-6\" in orange/black.\n\n**Social Image 1-B** | 1080x1350 (4:5)\n- **Type:** imagn\n- **Search terms:** \"Kimi Antonelli Mercedes\"\n- **Usage:** X Post 1-B\n- **Concept:** Antonelli in Mercedes. Text: \"59-POINT LEAD. STARTS LAST.\" in silver/black.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Ferrari Pays Stunning Schumacher Tribute at Monza — Special Livery, Barrichello and Vettel to Drive",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Ferrari's Schumacher tribute at Monza is absolutely breathtaking. 🔴\n\nGlossy red livery. White rear wing. Gold wheels. MS logo on the car.\n\nHamilton and Leclerc wear Schumacher-inspired race suits.\n\n30 years since he joined Ferrari. 20 since his last season. #F1 #ItalianGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#ItalianGP"
+          ],
+          "char_count": 272
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Rubens Barrichello will drive a Schumacher-era Ferrari at Monza this weekend.\n\nThen Sebastian Vettel takes over for a demonstration lap before Sunday's race.\n\nThis is going to be EMOTIONAL. 🙏 #F1 #ItalianGP #Schumacher",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#ItalianGP",
+            "#Schumacher"
+          ],
+          "char_count": 218
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "Ferrari's Schumacher tribute livery at Monza will give you chills. 30 years since his first Ferrari season. The legend lives on. 🏎️❤️ #F1 #ItalianGP #Schumacher",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-ferrari-schumacher-tribute-livery-monza.html",
+        "headline": "Ferrari's Michael Schumacher Tribute at Monza: A Breathtaking Salute to the Legend",
+        "word_count": 548
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ferrari Schumacher Tribute\n\n**Social Image 2-A** | 1080x1350 (4:5)\n- **Type:** imagn\n- **Search terms:** \"Ferrari Monza\"\n- **Usage:** X Post 2-A, FB\n- **Concept:** Ferrari livery tribute car at Monza. Text: \"FOR MICHAEL. 30 YEARS OF FERRARI LEGEND.\" in red/gold/black.\n\n**Social Image 2-B** | 1080x1350 (4:5)\n- **Type:** imagn\n- **Search terms:** \"Rubens Barrichello Ferrari\"\n- **Usage:** X Post 2-B\n- **Concept:** Historic Ferrari car. Text: \"BARRICHELLO + VETTEL BACK AT MONZA\" in vintage red.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "F1 Season Finale in Doubt — Qatar and Abu Dhabi at Risk Due to Middle East Conflict",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The 2026 F1 season finale is in doubt.\n\nQatar (Nov 27-29) and Abu Dhabi (Dec 4-6) may be cancelled due to ongoing Middle East conflict. F1 has until mid-September to decide.\n\nIf they go: season ends in Europe. Imola is the leading candidate. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "The 2026 F1 season finale may not happen in Qatar or Abu Dhabi. Middle East conflict has FOM considering European alternatives — with Imola as the frontrunner. 🌍 #F1",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-f1-season-finale-qatar-abudhabi-middle-east.html",
+        "headline": "F1 Season Finale in Doubt: Qatar and Abu Dhabi GPs May Be Cancelled Due to Middle East Conflict",
+        "word_count": 509
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Season Finale Uncertainty\n\n**Social Image 3-A** | 1080x1350 (4:5)\n- **Type:** imagn\n- **Search terms:** \"Formula 1 race circuit\"\n- **Usage:** X Post 3-A, FB\n- **Concept:** F1 car on circuit. Bold text: \"SEASON FINALE IN DOUBT\" with red/yellow tension colors.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Antonelli's Engine Gamble — Can Mercedes' 20-Year-Old Champion Recover From the Back?",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Here's WHY Kimi Antonelli is starting from the back at Monza.\n\nHe exceeded the limit on 4 power unit components — ICE, exhaust, energy store, control electronics.\n\nMercedes chose Monza deliberately: best overtaking circuit on the calendar. #F1 #ItalianGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#ItalianGP"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "Kimi Antonelli knows this weekend is going to be tough. But Mercedes chose Monza for his engine penalty deliberately — highest recovery potential in F1. Can he do it? #F1 #ItalianGP",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-antonelli-engine-penalty-monza-championship.html",
+        "headline": "Antonelli's Engine Gamble: Why Mercedes Chose Monza for the Championship Leader's Grid Penalty",
+        "word_count": 591
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli Penalty\n\n**Social Image 4-A** | 1080x1350 (4:5)\n- **Type:** imagn\n- **Search terms:** \"Kimi Antonelli Mercedes Grand Prix\"\n- **Usage:** X Post 4-A, FB\n- **Concept:** Antonelli in Mercedes at speed. Text: \"STARTS LAST. AT HOME. #20 POSITIONS\" in stark black/silver.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Norris Enters Monza as Favourite — Three Straight Titles McLaren's Best Hope",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Lando Norris has won 2 races in a row. He's 83 points behind Antonelli.\n\nBut Antonelli starts from the BACK on Sunday.\n\nIf Norris wins at Monza, this title race is back on. The 2025 champion wants No. 2. #F1 #ItalianGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#ItalianGP"
+          ],
+          "char_count": 218
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "Lando Norris. Two wins in a row. Antonelli starting from the back. This Sunday's Italian GP could change EVERYTHING in the F1 title race. 🏎️🔥 #F1 #ItalianGP",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-norris-three-straight-monza-title-charge.html",
+        "headline": "Norris Enters Monza as Favourite: Can the 2025 Champion Win Three in a Row and Revive the Title Fight?",
+        "word_count": 538
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Norris Title Charge\n\n**Social Image 5-A** | 1080x1350 (4:5)\n- **Type:** imagn\n- **Search terms:** \"Lando Norris McLaren celebration\"\n- **Usage:** X Post 5-A, FB\n- **Concept:** Norris celebrating or in cockpit. Text: \"3 IN A ROW?\" with championship gap callout in papaya orange."
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
