@@ -6369,3 +6369,48 @@
 - **Key facts:** Sharpe right knee meniscus tear; 6-month recovery; return late Feb/early March 2027; Morant 19.5 ppg 8.1 apg in 20 games last year; Lillard returning from 2025 Achilles; Holiday also in backcourt; all three veterans to anchor Portland
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Training camp health updates, Morant/Lillard backcourt chemistry, early season performance
+
+## 2026-09-04
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-04 | T1 | Amen Thompson Signs 5-Year, $208M Extension with Houston Rockets | X(2), FB, Article | NEW |
+| 2026-09-04 | T1 | LeBron James Signs 2-Year, $8M Deal with Philadelphia 76ers — "Last Decision" | X(2), FB, Article | NEW |
+| 2026-09-04 | T2 | DeAndre Ayton Traded to Washington Wizards | X(1), FB, Article | NEW |
+| 2026-09-04 | T2 | Kawhi Leonard Trade to Toronto Nearing Completion | X(1), FB, Article | FOLLOW UP |
+| 2026-09-04 | T2 | LeBron's Move to Philly Reshapes the Entire Eastern Conference Picture | X(1), FB, Article | NEW |
+
+### STORY 1: Amen Thompson Signs 5-Year, $208M Extension
+- **Tier:** 1
+- **Category:** Houston Rockets / Amen Thompson / NBA Contracts
+- **Key facts:** 5 years, $208M, 10% trade kicker; agreed Sept 3; last season: 18.3 ppg, 7.8 reb, 5.3 ast, 1.5 stl, led NBA in minutes (2,943); age 22
+- **Status:** NEW
+- **Follow-up ideas:** Training camp performance, early season stats, Rockets playoff push
+
+### STORY 2: LeBron James to Philadelphia 76ers
+- **Tier:** 1
+- **Category:** Philadelphia 76ers / LeBron James / NBA Free Agency
+- **Key facts:** 2 years, $8M, player option Year 2; "last decision"; age 41; joins Embiid, Brown, Maxey, Edgecombe; Lakers also pursued by Warriors, Heat, Timberwolves
+- **Status:** NEW
+- **Follow-up ideas:** Sixers preseason, LeBron health, Embiid chemistry
+
+### STORY 3: DeAndre Ayton Traded to Wizards
+- **Tier:** 2
+- **Category:** Los Angeles Lakers / Washington Wizards / DeAndre Ayton
+- **Key facts:** Ayton to WAS for Jaden Hardy + 2031 2nd + 2032 2nd; Lakers already have Walker Kessler (from Utah Jazz)
+- **Status:** NEW
+- **Follow-up ideas:** Ayton in Washington, Hardy's role on Lakers
+
+### STORY 4: Kawhi Leonard Trade Update
+- **Tier:** 2
+- **Category:** Toronto Raptors / Kawhi Leonard / Los Angeles Clippers
+- **Key facts:** Trade cleared Sept 2; training camp Sept 28 Quebec City; Kawhi expects to be Raptor by then; deal: Kawhi for Ingram+Dick+2031 UPF+2033 UPF+2027 swap+2 2nds
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official trade announcement, Kawhi physical, early season
+
+### STORY 5: East Power Rankings Reshuffle
+- **Tier:** 2
+- **Category:** NBA Season Preview / Eastern Conference / Power Rankings
+- **Key facts:** Knicks defending champs; Sixers: LeBron+Embiid+Brown; Heat: Giannis; Raptors: Kawhi incoming; Celtics lost Brown
+- **Status:** NEW
+- **Follow-up ideas:** Training camp power rankings, preseason matchups
