@@ -1,71 +1,82 @@
+# Hoop Heroes — Image Manifest
+**Date:** September 4, 2026
+
 ---
-pipeline_date: 2026-09-04
-brand_kit_id: hoop-heroes
-photo_source: imagn
+
+### STORY 1: Amen Thompson Signs 5-Year, $208M Extension With Houston Rockets
+
+**Social Image**
+- filename: nba-2026-09-04-story1-social.jpg
+- dimensions: 1080x1350
+- status: not_started
+- search_terms: ["Amen Thompson Houston Rockets"]
+
+**Article Hero**
+- filename: nba-2026-09-04-story1-hero.jpg
+- dimensions: 1200x630
+- status: not_started
+- search_terms: ["Amen Thompson Houston Rockets"]
+
 ---
 
-### STORY 1: Amen Thompson Extension
+### STORY 2: LeBron James Signs 2-Year, $8M Deal With Philadelphia 76ers
 
-image_1a:
-  story: 1
-  usage: social
-  dimensions: 1080x1350
-  type: imagn
-  search_terms: "Amen Thompson Houston Rockets"
-  status: not_started
+**Social Image**
+- filename: nba-2026-09-04-story2-social.jpg
+- dimensions: 1080x1350
+- status: not_started
+- search_terms: ["LeBron James Philadelphia 76ers"]
 
-image_1b:
-  story: 1
-  usage: social
-  dimensions: 1080x1350
-  type: imagn
-  search_terms: "Amen Thompson Houston Rockets"
-  status: not_started
+**Article Hero**
+- filename: nba-2026-09-04-story2-hero.jpg
+- dimensions: 1200x630
+- status: not_started
+- search_terms: ["LeBron James Philadelphia 76ers"]
 
-### STORY 2: LeBron James 76ers
+---
 
-image_2a:
-  story: 2
-  usage: social
-  dimensions: 1080x1350
-  type: imagn
-  search_terms: "LeBron James Philadelphia 76ers"
-  status: not_started
+### STORY 3: DeAndre Ayton Traded to Washington Wizards
 
-image_2b:
-  story: 2
-  usage: social
-  dimensions: 1080x1350
-  type: imagn
-  search_terms: "LeBron James Philadelphia 76ers"
-  status: not_started
+**Social Image**
+- filename: nba-2026-09-04-story3-social.jpg
+- dimensions: 1080x1350
+- status: not_started
+- search_terms: ["DeAndre Ayton Washington Wizards"]
 
-### STORY 3: Ayton Trade
+**Article Hero**
+- filename: nba-2026-09-04-story3-hero.jpg
+- dimensions: 1200x630
+- status: not_started
+- search_terms: ["DeAndre Ayton Washington Wizards"]
 
-image_3a:
-  story: 3
-  usage: social
-  dimensions: 1080x1350
-  type: imagn
-  search_terms: "DeAndre Ayton Washington Wizards"
-  status: not_started
+---
 
-### STORY 4: Kawhi Leonard Raptors
+### STORY 4: Kawhi Leonard Trade to Toronto Nearing Completion
 
-image_4a:
-  story: 4
-  usage: social
-  dimensions: 1080x1350
-  type: imagn
-  search_terms: "Kawhi Leonard Toronto Raptors"
-  status: not_started
+**Social Image**
+- filename: nba-2026-09-04-story4-social.jpg
+- dimensions: 1080x1350
+- status: not_started
+- search_terms: ["Kawhi Leonard Toronto Raptors"]
 
-### STORY 5: East Power Rankings
+**Article Hero**
+- filename: nba-2026-09-04-story4-hero.jpg
+- dimensions: 1200x630
+- status: not_started
+- search_terms: ["Kawhi Leonard Toronto Raptors"]
 
-image_5a:
-  story: 5
-  usage: social
-  dimensions: 1080x1350
-  type: imagn
-  search_terms: "NBA Eastern Conference basketball"
-  status: not_started
+---
+
+### STORY 5: LeBron's Move to Philly Reshapes Eastern Conference
+
+**Social Image**
+- filename: nba-2026-09-04-story5-social.jpg
+- dimensions: 1080x1350
+- status: not_started
+- search_terms: ["NBA Eastern Conference basketball"]
+
+**Article Hero**
+- filename: nba-2026-09-04-story5-hero.jpg
+- dimensions: 1200x630
+- status: not_started
+- search_terms: ["NBA Eastern Conference basketball"]
