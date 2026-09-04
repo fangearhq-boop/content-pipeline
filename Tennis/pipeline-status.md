@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-09-03 |
-| Writing | Complete (all steps) | 2026-09-03 |
-| Fact-check | Complete (verify-facts.py run — 5 stories, 24 claims) | 2026-09-03 |
-| Compile | Complete (07-content-data.json — 5 stories, 8 X posts, 5 articles, 28 items) | 2026-09-03 |
-| Dashboard | Complete (review-dashboard.html, 28 items) | 2026-09-03 |
-| PostPlanner Export | 0 posts (parser compat known issue) | 2026-09-03 |
-| WordPress Publish | Attempted — proxy blocks WordPress API (same as all prior runs) | 2026-09-03 |
-| Dashboard Push | Attempted — proxy lacks write access to content-dashboards repo (same as all prior runs) | 2026-09-03 |
+| Research | Complete | 2026-09-04 |
+| Writing | Complete (all steps) | 2026-09-04 |
+| Fact-check | Complete (verify-facts.py run — 5 stories, 22 claims) | 2026-09-04 |
+| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 5 articles, 22 items) | 2026-09-04 |
+| Dashboard | Complete (review-dashboard.html, 22 items) | 2026-09-04 |
+| PostPlanner Export | 0 posts (parser compat known issue) | 2026-09-04 |
+| WordPress Publish | Attempted — proxy blocks WordPress API (same as all prior runs) | 2026-09-04 |
+| Dashboard Push | Attempted — proxy lacks write access to content-dashboards repo (same as all prior runs) | 2026-09-04 |
 
 ## Queue
 
@@ -24,6 +24,16 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-09-04 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
+- **PostPlanner exports:** 0 posts (known parser compat issue — same as prior runs)
+- **Key stories:** Eala def. Oliynykova 6-1, 6-4 reaching first US Open R3 in Philippine history (No. 17 seed); Zverev def. Halys 6-4, 4-6, 7-6(3), 6-7(3), 6-3 in second straight five-setter (first top seed in Open Era to do this at start of a major); Gauff def. Badosa 6-4, 7-6(7/5) into R3 vs. Bucsa; Rybakina def. Bouzas Maneiro 6-2, 6-4 (ankle no factor); Day 7 R3 preview (Alcaraz vs. Wu Yibing, Shelton vs. Shapovalov, 16 players remain)
+- **Issues:** image manifest warning (expected for imagn source); compile posting-window warnings cosmetic (known); PostPlanner 0 posts (known parser issue); WordPress blocked by proxy; dashboard push blocked by proxy (content-dashboards not in session authorized repos)
+- **Story history:** Updated with all 5 stories
 
 ### 2026-09-03 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)

@@ -1,0 +1,305 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-04",
+  "compiled_at": "2026-09-04T12:29:26.493111+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Eala Routs Oliynykova 6-1, 6-4 — Reaches US Open R3 for the First Time (TIER 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Alex Eala def. Oliynykova 6-1, 6-4. First US Open third round in Philippine tennis history.\n\nShe avenged her only H2H loss and dropped just 11 games across two rounds at Flushing Meadows. #USOpen #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#USOpen",
+            "#Tennis"
+          ],
+          "char_count": 203
+        },
+        {
+          "label": "Post 1-2",
+          "text": "No. 17 seed Alex Eala is into the US Open R3 for the FIRST TIME.\n\n6-1, 6-4 over Oliynykova. Dominant. Clinical. Historic. #USOpen #WTATennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#USOpen",
+            "#WTATennis"
+          ],
+          "char_count": 140
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-eala-oliynykova-us-open-r3.html",
+        "headline": "Eala Routs Oliynykova to Reach US Open Third Round — A First for Philippine Tennis",
+        "word_count": 478
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Article Hero (1200x630):",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Social (1080x1350):",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Zverev Survives Second Straight Five-Set Thriller vs. Halys (TIER 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Zverev def. Halys 6-4, 4-6, 7-6(3), 6-7(3), 6-3. 4.5 hours.\n\nHe is now the FIRST top seed in Open Era history to play back-to-back five-setters to open a major. No. 1 seed. Still standing. #USOpen #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#USOpen",
+            "#Tennis"
+          ],
+          "char_count": 204
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Halys led 4-1 in the third set vs. Zverev. Had a break point for 5-1. Zverev saved it. Won the set 7-6. Then won the fifth 6-3.\n\nThat is what a No. 1 seed does when the draw makes it hard. #USOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#USOpen"
+          ],
+          "char_count": 196
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-zverev-halys-five-set-us-open.html",
+        "headline": "Zverev Survives Second Straight Five-Setter at US Open in Open Era Historic Fashion",
+        "word_count": 506
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Article Hero (1200x630):",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Social (1080x1350):",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Gauff Downs Badosa 6-4, 7-6(5) to Reach US Open R3 (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Coco Gauff def. Badosa 6-4, 7-6(5) at Arthur Ashe. Defending champion into US Open R3 vs. Bucsa. She has not dropped a set through two rounds. #USOpen #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#USOpen",
+            "#Tennis"
+          ],
+          "char_count": 158
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-gauff-badosa-us-open-r3.html",
+        "headline": "Gauff Downs Badosa in Two Sets to Continue US Open Title Defense",
+        "word_count": 346
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350):",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630):",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Rybakina Efficient Past Bouzas Maneiro 6-2, 6-4 (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Rybakina def. Bouzas Maneiro 6-2, 6-4 in just over an hour.\n\nThree weeks ago she could not walk without pain. Now she is clinical in US Open R2. Ankle is not a factor. #USOpen #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#USOpen",
+            "#Tennis"
+          ],
+          "char_count": 183
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-rybakina-bouzas-us-open-r3.html",
+        "headline": "Rybakina's Ankle No Issue as She Sweeps Into US Open Third Round",
+        "word_count": 369
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350):",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630):",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "US Open Day 7 Preview — Alcaraz, Shelton, Sabalenka Lead R3 Action (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "US Open R3 starts Friday. Alcaraz vs. Wu Yibing on Arthur Ashe. Shelton vs. Shapovalov. 16 players remain after today.\n\nESPN from 11:30 AM ET, primetime at 7 PM. #USOpen #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#USOpen",
+            "#Tennis"
+          ],
+          "char_count": 177
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-us-open-day7-r3-preview.html",
+        "headline": "US Open Third Round Preview: Alcaraz, Shelton Headline a Loaded Friday",
+        "word_count": 439
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350):",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 9
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
