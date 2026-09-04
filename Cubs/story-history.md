@@ -5,6 +5,68 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-09-04
+
+### STORY 1: Series Preview — Cubs Open 3-Game Road Series at Miami Marlins
+- **Angle:** NEW STORY (is_series_start_today=true — reserved 7:00 AM slot). Cubs (79-62) at Marlins (71-70), loanDepot park. Game 1: 6:10 PM CT. 3-game series Sept 4-6. Probable pitchers TBD. Cubs hold WC2 with 21 games left.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, series preview)
+- **Follow-Up Opportunities:**
+  - Game 1 result recap (Sept 5 morning)
+  - Probable pitchers when announced
+  - Series outcome / WC implications
+
+### STORY 2: Game Recap — Gausman's Gem Powers Cubs Past Brewers 2-1
+- **Angle:** NEW STORY (previous night game result). Gausman: 7 IP, 1 ER, 9 K, 60% splitter whiff rate. PCA HR No. 39 (2-run, 3rd inning, 413 ft). Cubs won 2-1, split 4-game Brewers series. 8 GB in division. WC2 intact.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, recap/bold take)
+- **Follow-Up Opportunities:**
+  - Gausman next start (rotation watch)
+
+### STORY 3: PCA 40-40 Watch — HR No. 39
+- **Angle:** FOLLOW UP (was 38 HR/32 SB yesterday; new hook: one HR away from 40 after last night's blast). 39 HR / 32 SB / 21 games left. Needs 1 HR + 8 SB. 32 HRs since June 1.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, stat breakdown)
+- **Follow-Up Opportunities:**
+  - HR No. 40 milestone
+  - SB milestones
+  - MVP case updates
+
+### STORY 4: Wild Card Picture — Cubs Holding WC2 with 21 Games Left
+- **Angle:** FOLLOW UP (ongoing WC standings arc). Phillies WC1, Cubs WC2 (79-62), AZ WC3, Padres 0.5 GB of AZ. Cardinals 3.5 GB out of WC3, effectively eliminated.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, analysis/rival jab)
+- **Follow-Up Opportunities:**
+  - Daily standings checks as season winds down
+  - AZ/SD WC3 race updates
+  - Cubs magic number for WC clinch
+
+### STORY 5: Justin Steele's First Rehab Start + Swanson Update
+- **Angle:** FOLLOW UP (Steele rehab: first actual game stats now available; Swanson: swinging again). Steele: 1.2 IP, 1 ER, 90.3 mph fastball, 17 months of inactivity. Swanson resumed swinging Aug 31, targeting mid-September.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, roster/injury update)
+- **Follow-Up Opportunities:**
+  - Steele's second rehab start
+  - Swanson activation announcement
+  - Shelby Miller bullpen addition possibility
+
+### STORY 6: Jaxon Wiggins — September Callup Case
+- **Angle:** FOLLOW UP (ongoing Wiggins bullpen arc from Aug-Sept). 4 scoreless Iowa bullpen outings, 7 K in 16 batters, 96-98 mph fastball. Bold take: bring him up now for playoff depth.
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, prospect/bold take)
+- **Follow-Up Opportunities:**
+  - Official callup announcement
+  - First MLB outing stats if called up
+
+### STORY 7: Game Time Hype — Cubs at Marlins, 6:10 PM CT
+- **Angle:** NEW STORY (first pitch hype for series opener). 79-62 vs 71-70 at loanDepot park. WC2 on the line. 21 games left.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT, game hype)
+- **Follow-Up Opportunities:**
+  - Game 1 result
+
+---
+
 ## 2026-09-03
 
 ### STORY 1: Recap — Brewers 9, Cubs 5 (Chourio 4-for-4, Cubs' Slide Hits 3-7 in Last 10)

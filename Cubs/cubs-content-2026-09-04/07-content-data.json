@@ -1,0 +1,276 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-04",
+  "compiled_at": "2026-09-04T09:20:50.769739+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM CT",
+      "description": "S1: Series Preview — Cubs at Marlins",
+      "type": "Series preview (required)"
+    },
+    {
+      "time": "8:15 AM CT",
+      "description": "S2: Gausman gem / Cubs 2-1 W",
+      "type": "Recap — bold take"
+    },
+    {
+      "time": "9:30 AM CT",
+      "description": "S3: PCA 40-40 Watch (39/32)",
+      "type": "Stat breakdown"
+    },
+    {
+      "time": "10:45 AM CT",
+      "description": "S4: Wild Card standings",
+      "type": "Analysis + rival jab"
+    },
+    {
+      "time": "2:30 PM CT",
+      "description": "S5: Steele rehab / Swanson",
+      "type": "Roster/injury update"
+    },
+    {
+      "time": "3:45 PM CT",
+      "description": "S6: Wiggins callup case",
+      "type": "Prospect/roster bold take"
+    },
+    {
+      "time": "6:30 PM CT",
+      "description": "S7: Game time hype",
+      "type": "First pitch hype"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Series Preview — Cubs Open 3-Game Road Series at Miami Marlins",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Cubs (79-62) begin 3-game road trip at loanDepot park vs Marlins (71-70). Game 1 tonight at 6:10 PM CT. Probable pitchers TBD. Framing: Wild Card stakes, opponent record, first pitch time, kicker = 21 games left to hold WC2 spot.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1A",
+          "text": "Miami. 3 games. Road trip starts tonight.\n\nCubs (79-62) open a 3-game series at loanDepot park, holding the No. 2 NL Wild Card with 21 games left. Marlins are 71-70 — struggling but not folded.\n\n6:10 PM CT. Let's go get three.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Series Preview — Cubs at Miami Marlins\n**Facts + Sources:**\n- Cubs record: 79-62 (confirmed from series-context.json, official source)\n- Marlins record: 71-70 (confirmed from series-context.json, official source)\n- Venue: loanDepot park, Miami, FL (confirmed from series-context.json)\n- Series length: 3 games (Sept 4-6) (confirmed from series-context.json)\n- Game 1 first pitch: 6:10 PM CT / 7:10 PM ET (confirmed from series-context.json game_date_ct=\"Fri 6:10 PM CT\")\n- Cubs probable pitcher: TBD (confirmed from series-context.json status=\"Preview\")\n- Marlins probable pitcher: TBD (confirmed from series-context.json)\n- Cubs hold No. 2 NL Wild Card spot (confirmed from WC search results)\n- 21 games remaining (math: 79+62=141 played; 162-141=21)\n- Cubs have a league-leading 198 HR this season (MEDIUM — from search result summary)\n- Broadcast: Marlins.TV, MARQ (MEDIUM — from Fubo news article)\n**Confidence summary:** HIGH on record, venue, series dates, game time (series-context.json is official MLB data source). MEDIUM on HR total, broadcast info.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Game Recap — Gausman's Gem Powers Cubs Past Brewers 2-1",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Gausman 7 IP, 9 K, 1 ER with 60% whiff rate on splitter. PCA's 39th HR (2-run, 3rd inning). Cubs won 2-1 and split the 4-game Brewers series. Stay 8 GB in division but WC spot intact. Bold/passionate recap with stat-heavy framing.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2A",
+          "text": "NINE strikeouts. Seven innings. One run.\n\nGausman was FILTHY — 60% whiff rate with the splitter. Cubs took the series finale 2-1 and split with the NL-leading Brewers. Wild card spot: intact.\n\nPCA's 2-run bomb (No. 39) did the heavy lifting.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Game Recap — Gausman's Gem Powers Cubs Past Brewers 2-1\n**Facts + Sources:**\n- Final score: Cubs 2, Brewers 1 (HIGH — FOX6 Milwaukee, WTMJ, mlb.com multiple sources confirm)\n- Gausman pitching line: 7 IP, 1 ER, 5 H, 9 K, 1 BB (HIGH — MLB.com headline \"Kevin Gausman strikes out 9 in 7 innings,\" confirmed via Fox6/WMTV)\n- Gausman splitter whiff rate: 60% (MEDIUM — from Yahoo Sports/FOX search results summaries; 12 swings, 20 swings)\n- PCA HR No. 39: 2-run HR in 3rd inning, 413 feet (HIGH — multiple confirming sources)\n- Andrew Vaughn solo HR in 4th inning for Brewers (MEDIUM — one source)\n- Cubs split the 4-game Brewers series (HIGH — WTMJ/FOX6 headlines confirm \"split\")\n- Cubs remain 8 games behind Brewers in NL Central (HIGH — WTMJ article: \"eight games behind in the division standings\")\n**Confidence summary:** HIGH on final score, Gausman's IP/ER/K line, PCA HR No. 39 and series split. MEDIUM on exact whiff rate, Vaughn HR details.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "PCA 40-40 Watch — HR No. 39 in the Bank",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "After Thursday's 2-run blast, PCA sits at 39 HR / 32 SB. Needs 1 HR + 8 SB in 21 remaining games. 32 HRs since June 1. MVP frontrunner. The countdown is now singular.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "39.\n\nPete Crow-Armstrong hit his 39th homer Thursday. Needs 1 more HR and 8 steals over 21 games to join the 40-40 club.\n\nHe's hit 32 HRs since June 1. Nobody in baseball is close.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 204
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "PCA 40-40 Watch\n**Facts + Sources:**\n- PCA HR total: 39 (HIGH — multiple game recap sources from Sept 3)\n- PCA SB total: 32 (MEDIUM — from pipeline-status.md Sept 3 which listed \"38 HR/32 SB\" — count updated by 1 HR to 39 after last night; SB total unchanged)\n- HRs needed for 40-40: 1 (math from 39 HR total — HIGH)\n- SB needed: 8 (math from 40-32=8 — MEDIUM, pending SB total verification)\n- Games remaining: 21 (math: 162-141=21 — HIGH)\n- 32 HRs since June 1 (MEDIUM — AI search summary from lastwordonsports.com; \"seven more than anyone else in MLB\")\n- Cubs' all-time 40-40 record: Never done by a Cubs player (LOW — AI search summary; not verified from a primary source such as Baseball Reference)\n**Note:** \"Never by a Cubs player\" claim is LOW confidence and has been EXCLUDED from tweet copy. Only verified quantitative facts used.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Wild Card Picture — Cubs Holding WC2 with 21 Games Left",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "NL WC snapshot: Phillies WC1, Cubs WC2 (79-62), AZ WC3, Padres 0.5 GB of AZ. Cardinals 3.5 GB out of WC3. Cubs must protect the lead. Rival-jab kicker on Cardinals.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": "NL Wild Card, September 4:\n\nCubs are IN at 79-62 — holding the No. 2 spot behind the Phillies.\n\nDiamondbacks and Padres are trading punches for the third slot. Cardinals? Three-plus games out with a month left.\n\n21 games to protect it.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Wild Card Picture\n**Facts + Sources:**\n- NL WC spots held by: Phillies (WC1), Cubs (WC2), Diamondbacks (WC3) (MEDIUM — CBS Sports playoff picture article)\n- Cubs record: 79-62 (HIGH — series context)\n- AZ record: 74-67 (MEDIUM — from search result summary)\n- Padres 0.5 GB of AZ for WC3 (MEDIUM — \"Diamondbacks lead by half a game at 74-67 to the Padres' 73-67\")\n- Cardinals 3.5 GB out of WC3 (MEDIUM — \"St. Louis is 3.5 games back\" per search summary)\n- \"Cardinals? Effectively eliminated\" — this framing is editorial/bold take; Cardinals are 3.5 GB behind AZ with 21 games left (MEDIUM)\n**Note:** No specific GB-of-Cubs numbers used in tweet — only \"holding the No. 2 spot\" and categorical WC2 status. Avoids claiming precise gaps I can't fully verify.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Justin Steele's First Rehab Start + Swanson Update",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Steele threw 1.2 IP, 1 ER, 90.3 mph avg fastball in first competitive action since April 2025 (17 months). Swanson resumed swinging Aug. 31; targeting mid-September return. October depth building angle.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5A",
+          "text": "Justin Steele: 1.2 IP, 1 ER, 90.3 mph fastball — first live game action in 17 months.\n\nElbow held. He's pushing hard to make it back for October.\n\nSwanson resumed swinging Aug. 31. Mid-September return remains the target.\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Justin Steele Rehab + Swanson Update\n**Facts + Sources:**\n- Steele rehab date: Sept 3, 2026 (HIGH — Bleacher Nation, SI, Yahoo Sports, OurSports Central all confirm)\n- Steele line: 1.2 IP, 1 ER, 36 pitches, 26 strikes, 2 K, 0 BB (MEDIUM — from SI/Bleacher Nation summaries; \"allowed just one earned run on four hits with two strikeouts\" per SI summary)\n- Avg fastball velocity: 90.3 mph (MEDIUM — from SI article summary)\n- Time since last competitive outing: ~17 months (last game April 7, 2025) (MEDIUM — from search result)\n- Steele quoted \"pushing the envelope\" (MEDIUM — from search result)\n- Swanson resumed swinging: Aug. 31 (MEDIUM — CBS Sports injury report confirmed)\n- Swanson return target: mid-September (Sept 14 at earliest, Sept 28 latest) (MEDIUM — from ESPN/CBS)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Jaxon Wiggins — The Case for a September Callup Is Obvious",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "Wiggins: 4 scoreless Iowa bullpen stints, 7 K in 16 batters, 96-98 mph heater. Cubs moved him from rotation to relief. Stretch-run bullpen reinforcement angle. Bold take: bring him up now.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6A",
+          "text": "Jaxon Wiggins: 4 scoreless Iowa bullpen appearances since August — 7 Ks in 16 batters, 96-98 mph heater.\n\nThe Cubs moved him to relief. The case for a September callup is obvious.\n\nBig arm. Right time. Bring him up.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Jaxon Wiggins — September Callup Case\n**Facts + Sources:**\n- 4 scoreless bullpen appearances since mid-August (MEDIUM — cubbiescrib article)\n- 7 Ks in 16 batters faced (MEDIUM — cubbiescrib, matches pipeline-status.md from Sept 3)\n- 41.7% K-rate, 35% whiff rate (MEDIUM — cubbiescrib)\n- Fastball: 96-98 mph (MEDIUM — cubbiescrib, SI)\n- No hits, no runs in 4 outings (MEDIUM — cubbiescrib: \"4 hitless, scoreless innings\")\n- Overall Iowa stats: 26 IP, 8.31 ERA, 1.96 WHIP (MEDIUM — North Side Baseball article)\n**Note:** No callup officially announced as of research time (Sept 4 morning). Tweet is editorial/bold take framing, appropriately labeled as opinion.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 7,
+      "title": "Game Time Hype — Cubs at Marlins, 6:10 PM CT",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Series opener energy. WC2 at stake. Marlins are fighting for their season too. 79-62 vs 71-70. First pitch hype with stats and urgency.",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7A",
+          "text": "6:10 PM CT. Cubs at loanDepot park. First pitch in Florida.\n\n79-62, WC2, 21 games left — there's no easing into September.\n\nMarlins are 71-70 and fighting for their season. So are we.\n\nLet's go get three.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 228
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Game Time Hype\n**Facts + Sources:**\n- Game time: 6:10 PM CT (HIGH — series context)\n- Cubs 79-62, Marlins 71-70 (HIGH — series context)\n- WC2 position (MEDIUM — search results)\n- 21 games left (HIGH — math)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
