@@ -2,6 +2,55 @@
 
 ---
 
+## September 4, 2026
+
+### Story 1: Skip Hop Elmo Teether Recall — CPSC
+- **Date:** 2026-09-04
+- **Content Pillar:** National Parenting / Safety
+- **Angle:** NEW STORY — CPSC announces recall of Skip Hop Elmo Teether (model 9R263210), approximately 22,660 units. Choking hazard: red bead on Elmo's body can detach. Sold at major retailers and online 2023–2026. Consumers should stop use immediately and contact Skip Hop for full refund. Remedy at skiphoprecall.com.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** model 9R263210; ~22,660 units; CPSC Sep 3 2026 announcement; choking hazard; full refund; skiphoprecall.com
+
+### Story 2: Labor Day Lift Off — Family Survival Guide
+- **Date:** 2026-09-04
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Practical day-of guide for families attending the 50th Labor Day Lift Off, Sept 5–7 at Memorial Park. Tips: arrive by 6:30 AM, 65 balloons, 7 AM launches, evening glows Sat/Sun, Rainbow Ryders rides (5+ only), Wings of Blue skydiving, Grizzly drone show, Orangetheory 5K Sunday at Prospect Lake. Different angle from Sep 2 news article and Sep 3 weekend roundup.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** Sept 5–7; Memorial Park COS; free; 7 AM launches; arrive by 6:30 AM; min age 5 for rides; Orangetheory 5K Sunday Prospect Lake
+
+### Story 3: Back-to-School Vaccine Check 2026
+- **Date:** 2026-09-04
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — AAP + ACIP 2026 immunization schedule reminder for COS families with kids in D11/D20/D49. Core vaccines: DTaP, MMR, varicella, IPV, Hep A/B, meningococcal. Flu vaccine recommended by end of October for all kids 6 months+. Colorado records via CIIS. Different from Sep 3 flu-specific story and Aug 31 HPV study.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (MEDIUM):** AAP + ACIP 2026 schedule; D49 Aug 3–4; D11 Aug 12; D20 Aug 17–18; flu shot by end of October; CIIS registry; Hep A requires two doses 6–18 months apart
+
+### Story 4: Child Passenger Safety Week — Sept 20–26 Preview
+- **Date:** 2026-09-04
+- **Content Pillar:** National Parenting / Safety
+- **Angle:** NEW STORY — National Child Passenger Safety Week Sept 20–26. Free car seat inspections at COS fire stations and Safe Kids Colorado chapters. CDC: 1,000+ child passengers killed annually in U.S. crashes; 43% unrestrained. Three stages (rear-facing, forward-facing, booster). Colorado law: all children under 8 must use appropriate restraint. AAP recommends rear-facing until max height/weight.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** Sept 20–26 national week; free inspections COS fire stations; Colorado law: under 8 in restraint seat; CDC: 1,000+ killed annually; 43% unrestrained
+
+### Story 5: Colorado Springs Fall Family Activities 2026
+- **Date:** 2026-09-04
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Preview of October fall activities for COS families: Rock Ledge Ranch fall programs (October, rockledgeranch.com), Penrose Apple Festival (October 7, Penrose CO, free entry, pancake breakfast to fireworks), aspen leaf season late Sept–mid Oct (Rampart Range Road, Woodland Park, Cripple Creek), Barr Trail on Pikes Peak, Gather Mountain Blooms Sept 26.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 3
+- **Key Facts (MEDIUM):** Rock Ledge Ranch October programs; Penrose Apple Festival Oct 7; Penrose CO ~45 min from COS; free entry; Gather Mountain Blooms Sept 26; Barr Trail; Pikes Peak Gateway opens Sept 26 5 AM
+
+---
+
 ## September 3, 2026
 
 ### Story 1: YCXXKJ Baby Bath Seat Recall — CPSC No. 26-146

@@ -1,6 +1,35 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: September 3, 2026
+## Latest Run: September 4, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Skip Hop Elmo Teether recall (CPSC Sep 3 2026, model 9R263210, ~22,660 units, choking hazard, skiphoprecall.com); Labor Day Lift Off practical guide (Sept 5–7, Memorial Park, 65 balloons, 7 AM launches, arrive 6:30 AM, min age 5 for rides); Back-to-school vaccine check (AAP + ACIP 2026 schedule, D11/D20/D49 back in session, CIIS registry, flu shot by end of October); Child Passenger Safety Week (Sept 20–26, free COS inspections, CDC 1,000+ deaths annually, 43% unrestrained, Colorado law under 8); COS fall family activities (Rock Ledge Ranch October, Penrose Apple Festival Oct 7, aspen season late Sept–mid Oct, Gather Mountain Blooms Sept 26) |
+| Story History Check | COMPLETE | All 5 stories NEW: S1 Skip Hop recall (distinct from YCXXKJ Sep 3, Uuoeebb Sep 3, HARPPA Aug 29 — different brand/product); S2 Lift Off practical guide (distinct from Sep 2 standalone news and Sep 3 weekend roundup — day-of tips angle); S3 vaccine check 2026 schedule (distinct from Sep 3 flu-specific article and Aug 31 HPV study — broader AAP/ACIP schedule review); S4 car seat safety week (never covered); S5 COS fall activities (distinct from Sep 2 Dot Days and Buck-A-Roo Ball — different October events) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (1 Tier 1, 3 Tier 2, 1 Tier 3); bylines: Jamie Rivera (S1, S3, S5), Sarah Morales (S2, S4); posting windows in MT |
+| Research Notes | COMPLETE | 01-research-notes.md |
+| Story Analysis | COMPLETE | 02-story-analysis.md |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 6 posts (2 for S1 Tier 1, 1 each for S2–S5); all ≤280 chars; 4 hashtags each; 0 exclamation marks; backtick code fence format; COS voice rules applied |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form Post + 5 Image Caption; correct parser headers; no hashtags; engagement questions; COS voice rules applied |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only prompts (5 stories × 2 formats: 1080x1350 social + 1200x630 hero) |
+| Articles (5) | COMPLETE | article-01 Skip Hop Recall (Jamie Rivera); article-02 Labor Day Lift Off Guide (Sarah Morales); article-03 Vaccine Check 2026 (Jamie Rivera); article-04 Car Seat Safety Week (Sarah Morales); article-05 COS Fall Activities (Jamie Rivera) |
+| Fact-Check | COMPLETE | verify-facts.py — 56 claims; HIGH: 78, MEDIUM: 25, LOW: 45 |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 6 X posts, 5 FB posts, 5 articles, 10 images; posting-window warnings expected (known format mismatch) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries (5 stories × 2), all not_started, gemini base_only, model gemini-2.5-flash-image, brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 26 items; image manifest warning expected (images generated separately) |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in session's authorized repository set (403 proxy) — known recurring issue |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser compat issue — both standard and --tobi runs return 0 posts |
+| WordPress Publish | BLOCKED | 403 proxy block on fanrumor.com:443 — known recurring issue; all 5 articles queued as drafts pending manual publish or proxy fix |
+| Story History | COMPLETE | 5 new entries prepended to Parenting/story-history.md (September 4, 2026 section) |
+
+## Known Issues (Recurring)
+- WordPress publish: 403 proxy block — all 5 articles queued as drafts, pending manual publish or proxy fix; also publisher finds 0 articles due to parser compat issue with 07-content-data.json
+- PostPlanner export: parser compat issue returns 0 posts every run
+- content-dashboards push: 403 proxy block (not in session authorized repo set)
+- Image manifest warnings from dashboard generator: expected (Gemini image generation is a separate step)
+- Parser compat: compile finds 0 stories from daily brief format (table-based brief not parsed), 0 X/FB posts — affects WordPress publish lookup; articles found directly from file system
+
+## Previous Run: September 3, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|
