@@ -3,6 +3,63 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-09-04
+
+### Story 1: USA WNT — Eight Days to Group Oklahoma
+- **Date:** 2026-09-04
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** 8 days to Devon Park OKC opener. USA opens Sept. 12 vs No. 7 Mexico at 7:30 PM. 6-team field confirmed: USA, Brazil, China, Mexico, Netherlands, New Zealand (NOT South Africa). Tickets on sale via WBSC. USA went 5-0 at International Cup at same venue. Top 2 of 6 → Redcliffe QLD April 5-11 2027 Finals (LA28 qualifier). Netherlands (No. 6) top-seed decider.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Sept. 9 in-person contact window (recruiting)
+  - Sept. 12 opening game USA vs Mexico
+  - Sept. 12-16 full Group Oklahoma results
+
+### Story 2: Class of 2028 — Five Days to In-Person Window
+- **Date:** 2026-09-04
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** 5 days to Sept. 9 in-person window at 7 AM ET. Coaches flooding phones/email/DM this week. 1,226 EIS nominations record. Top prospects: Landers, Holden, Schlader. NCAA 5-5 rules govern class.
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Sept. 9 in-person window opens
+  - First commits from Class of 2028
+
+### Story 3: Oklahoma Fall Camp — Wells Delivers, Berzon Impresses
+- **Date:** 2026-09-04
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** NEW FACT: Wells 4 HRs in first 3 fall scrimmages (SI/Heartland Sports). Berzon retired all 6 batters in OCU exhibition; 2 IP/1R in Battle Series. Gasso praised both (SI). Fall opener Sept. 30. Gasso departs in 8 days for WNT.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - OU fall opener Sept. 30
+  - Gasso returns from WNT Sept. 17
+  - Berzon/Harter rotation development
+
+### Story 4: Texas Longhorns — 25 Days to Fall Opener
+- **Date:** 2026-09-04
+- **Tier:** 3
+- **Classification:** FOLLOW UP
+- **Angle:** 25 days to Sept. 29 fall opener vs Murray State (McCombs Field, 6 PM CT, free). SI named Texas one of "4 Programs to Watch This Fall." Yahoo Sports profiled Kavan as "unbeatable." Katie Stewart + Isa Torres (2026 D1Softball POY from FSU) on campus. Three-peat: only UCLA (1988-90) + OU (2021-23).
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Texas fall opener Sept. 29
+  - Transfer portal additions
+  - Kavan senior season milestones
+
+### Story 5: Texas Tech — The Chemistry Lab
+- **Date:** 2026-09-04
+- **Tier:** 3
+- **Classification:** FOLLOW UP
+- **Angle:** Culture fusion angle: Beachum from FSU, Pickering from OU, Heavener from LSU — 3 different programs, 3 different cultures. Glasco's challenge = building team identity, not just fielding talent. WCWS runner-up 2026.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - TTU fall scrimmage results
+  - Chemistry signals emerging
+
+---
+
 ## 2026-09-03
 
 ### Story 1: USA WNT — Nine Days to Group Oklahoma
