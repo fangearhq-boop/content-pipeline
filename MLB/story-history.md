@@ -5,6 +5,50 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-09-04
+
+### Story 1: PCA 40-40 Chase — Two HRs Away, 25 Games Left
+- **Date:** 2026-09-04
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** PCA needs 2 HR + 8 SB in 25 games. .283/38 HR/32 SB. -1100 NL MVP. Cubs 82-57 WC1. 40-40 club history: Canseco/Bonds/ARod/Soriano/Acuña. WC positioning affects green-light decisions.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:** Daily HR/SB tracking, 40th HR and 40th SB milestone moments
+
+### Story 2: Misiorowski — Day After Wrigley, Cy Young Gets Louder
+- **Date:** 2026-09-04
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Morning after Sept 2 Wrigley gem (scoreless/8K/101.5 mph). 14-5/1.73 ERA/222K/0.75 WHIP. Velocity concern answered. Brewers 87-53 NL Central leaders. -1400 Cy Young. Next start ~Sept 7-8.
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:** Misiorowski next start Sept 7-8, Cy Young award announcement
+
+### Story 3: Cardinals 70-70 — WC Math After Stunning the Dodgers
+- **Date:** 2026-09-04
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Cardinals 8-6 Dodgers in extras (Sept 3). Saggese: HR breaks Yamamoto no-hitter (6th inning) + walk-off single (10th). Leo Bernal first MLB HR. Cardinals 70-70, 3.5 GB WC, 22 games left. Need ~14-8 finish.
+- **Content Produced:** Article (article-03, Ryan Calloway), 2 X posts, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:** Cardinals WC race tracking, Saggese continued emergence
+
+### Story 4: Alvarez Triple Crown — 25 Games, Three Simultaneous Threats
+- **Date:** 2026-09-04
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** .322 BA (Simpson .308, 14 back), 36 HR (Caminero+Rice 35, 1 back), 91 RBI (tied Alonso). All three leads at tightest margins simultaneously. Last AL TC: Cabrera 2012. 25 games left.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:** Any TC category lead change, final 2-week countdown
+
+### Story 5: Ohtani — "Not Optimal" and the October Decision
+- **Date:** 2026-09-04
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Roberts: "not close to optimal." 7-for-51/.137/20 K since Aug 18. Left knee. Rest discussions ongoing. Dodgers 82-57 safe. Rest vs. rhythm tradeoff — the central Dodgers October question.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:** Ohtani rest decision announcement, October health status
+
+---
+
 ## 2026-09-03
 
 ### Story 1: PCA 40-40 Chase — Final Month, Final Push

@@ -1,0 +1,277 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-04",
+  "compiled_at": "2026-09-04T10:33:17.208255+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "PCA 40-40 Chase — Two HRs Away, 25 Games Left (Tier 1 — FOLLOW UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Pete Crow-Armstrong is two home runs away from joining a club with only 5 members.\n\n40 HR + 40 SB in a season: Canseco. Bonds. A-Rod. Soriano. Acuña.\n\nPCA has 25 games to make history. .283/38 HR/32 SB. Cubs at 82-57. This is happening. #Cubs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 242
+        },
+        {
+          "label": "Post 1-2",
+          "text": "PCA needs 8 stolen bases in 25 games for 40-40.\n\nHe's averaged a steal every 3-4 games this season. The math works.\n\nThe question is whether he gets the green light enough with the Cubs protecting a Wild Card lead. #Cubs #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 9:00 AM ET\n\nPete Crow-Armstrong is two home runs and eight stolen bases away from one of the rarest achievements in baseball history.\n\nThe 40-40 club has exactly five members. Jose Canseco did it first in 1988. Barry Bonds in 1996. Alex Rodriguez in 1998. Alfonso Soriano in 2006. Ronald Acuña Jr. in 2023. That's it. Nineteen years passed between Soriano and Acuña. Three years later, we might be watching it happen again.\n\nPCA enters September at .283 with 38 home runs and 32 stolen bases. He has 25 games left. The math is almost done — but the Cubs (82-57) are fighting for a Wild Card position, and every lineup decision, every green light, every at-bat in a close game carries playoff weight.\n\nThat's what makes this different from chasing a milestone on a losing team. PCA isn't just playing for history. He's playing for October. And the Cubs need him for both.\n\nTwo home runs. Eight stolen bases. Twenty-five games. This is the most interesting chase in baseball right now.",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-pca-40-40-chase-25-games.html",
+        "headline": "Pete Crow-Armstrong Is Two Home Runs From History — and the Cubs Need Him to Get There",
+        "word_count": 788
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "PCA 40-40 Chase\n\n**Image Concept 1**\n- **Story:** PCA 40-40 Chase\n- **Type:** imagn\n- **Search Terms:** Pete Crow-Armstrong Cubs\n- **Description:** PCA mid-swing at the plate, home run follow-through or base-running action — captures the dual threat that defines his 40-40 chase\n- **Alt Text:** Pete Crow-Armstrong swinging at the plate for the Chicago Cubs\n\n**Image Concept 2**\n- **Story:** PCA 40-40 Chase\n- **Type:** imagn\n- **Search Terms:** Pete Crow-Armstrong stolen base\n- **Description:** PCA sliding into a base on a stolen base attempt — emphasizes the SB side of the 40-40 equation\n- **Alt Text:** Pete Crow-Armstrong stealing a base for the Chicago Cubs\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "PCA 40-40 Chase\n**Source:** espn.com/mlb, mlb.com, yahoo sports\n**Verified Facts (HIGH confidence):**\n- Pete Crow-Armstrong (Cubs, CF) is pursuing the 40-40 milestone (40 HR + 40 SB)\n- As of Sept. 3 pipeline: .283 BA, ~38 HR, ~32 SB — needs 2 HR + 8 SB in ~25 remaining games\n- Five-member 40-40 club (historical): Jose Canseco (1988), Barry Bonds (1996), Alex Rodriguez (1998), Alfonso Soriano (2006), Ronald Acuña Jr. (2023)\n- PCA is -1100 NL MVP favorite\n- Chicago Cubs standing: 82-57, holding NL WC1 slot\n- NL Wild Card picture: Cubs WC1, Phillies WC2, Diamondbacks WC3 (Padres within ~0.5 games of WC3)\n- Brewers (87-53) lead NL Central — Cubs now trail in division but hold WC1\n- Brewers 87-53 confirmed via sportbusy.com/mlb-standings-2026 (September 2, 2026 standings)\n**Source confidence:** HIGH for club history and NL standings snapshot",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Misiorowski's Cy Young Case — The Day After Wrigley (Tier 1 — FOLLOW UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "14-5. 1.73 ERA. 222 K. 0.75 WHIP.\n\nThen Jakub Misiorowski goes to Wrigley, throws scoreless ball, hits 101.5 mph.\n\nThe Cy Young isn't a race anymore. It's a coronation. -1400. @Brewers lead the NL Central. #Brewers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#MLB"
+          ],
+          "char_count": 219
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Misiorowski's next start projects for Sept. 7 or 8.\n\nAfter that Wrigley gem, the entire baseball world will be watching.\n\n1.73 ERA. 0.75 WHIP. 101.5 mph. What does he do for an encore? #Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers"
+          ],
+          "char_count": 193
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 11:00 AM ET\n\nThe morning after a dominant performance is when the baseball world catches up.\n\nJakub Misiorowski went to Wrigley Field on September 2 and did what he's been doing all season — only louder. Scoreless innings. Eight strikeouts. A peak velocity of 101.5 miles per hour. The velocity concern that had followed him through August? Answered. Definitively.\n\nHis season numbers: 14-5, 1.73 ERA, 222 strikeouts, 0.75 WHIP. The Brewers are 87-53 and lead the NL Central. His Cy Young odds sit at -1400. That's not a race. That's a formality waiting to be announced.\n\nThe question people keep asking is whether anyone can close the gap. The honest answer is that there isn't a gap — there's a canyon. Misiorowski's ERA is nearly a full run lower than the next closest competitor. His WHIP is historically elite. He's pitching for a team in first place.\n\nHis next start projects for September 7 or 8. After what happened at Wrigley, the entire baseball world will be watching.",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-misiorowski-cy-young-day-after-wrigley.html",
+        "headline": "The Day After Wrigley: Jakub Misiorowski's Cy Young Case Has Never Been Stronger",
+        "word_count": 726
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Misiorowski Cy Young\n\n**Image Concept 3**\n- **Story:** Misiorowski Cy Young\n- **Type:** imagn\n- **Search Terms:** Jakub Misiorowski Brewers\n- **Description:** Misiorowski in mid-delivery on the mound, pitching for Milwaukee — showcases the ace delivering his dominant stuff\n- **Alt Text:** Jakub Misiorowski pitching for the Milwaukee Brewers\n\n**Image Concept 4**\n- **Story:** Misiorowski Cy Young\n- **Type:** imagn\n- **Search Terms:** Jakub Misiorowski pitching\n- **Description:** Close-up of Misiorowski in his windup or release point — elite arm slot that produces 101.5 mph velocity\n- **Alt Text:** Jakub Misiorowski in his pitching delivery\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Misiorowski Cy Young Case\n**Source:** espn.com/mlb, cbssports.com, sportbusy.com\n**Verified Facts (HIGH confidence):**\n- Jakub Misiorowski (Milwaukee Brewers, RHP): Sept. 2 start at Wrigley — scoreless, 8 K, 101.5 mph peak velocity\n- Season stats: 14-5, 1.73 ERA, 222 K, 0.75 WHIP\n- Brewers record: 87-53, NL Central first place (per MLB standings September 2026)\n- Cy Young odds: -1400 (dominant frontrunner)\n- Prior velocity concerns (dip from 100.5 to 98.7 mph avg through late August) — the Wrigley start at 101.5 mph answered those questions\n- Next projected start: approximately Sept. 7-8\n**Source confidence:** HIGH for season stats (from pipeline tracking + MLB) and Wrigley start; HIGH for Brewers standings (mlb.com)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Cardinals 70-70 — After Stunning the Dodgers, What's Next? (Tier 1 — FOLLOW UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Thomas Saggese broke up Yamamoto's no-hitter AND hit the walk-off single in extras.\n\nCardinals 8, Dodgers 6. St. Louis moves to 70-70.\n\n22 games left. 3.5 out of the Wild Card. They're still alive. #Cardinals #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cardinals",
+            "#MLB"
+          ],
+          "char_count": 213
+        },
+        {
+          "label": "Post 3-2",
+          "text": "70-70 with 22 games left.\n\nCardinals need to go roughly 14-8 the rest of the way and get help to make October.\n\nNarrow? Yes. Impossible? Not with Saggese playing like this. #Cardinals",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cardinals"
+          ],
+          "char_count": 183
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 8:30 AM ET\n\nThe Cardinals shouldn't still be alive. But Thomas Saggese made sure they are.\n\nOn September 3, St. Louis went to Los Angeles and handed the Dodgers their latest loss in a rough stretch. The final: Cardinals 8, Dodgers 6, in 10 innings. The hero: a 23-year-old third baseman who doesn't seem to know what a pressure situation looks like.\n\nSaggese broke up Yoshinobu Yamamoto's no-hit bid in the sixth inning with a two-run home run. Then, in the 10th, he came up with the go-ahead single to give the Cardinals the lead for good. Leo Bernal added his first career MLB home run. Báez contributed a pinch-hit double. It was a full team effort against one of the best arms in the NL.\n\nNow St. Louis sits at 70-70 with 22 games left. They're 3.5 games out of a Wild Card spot. The math requires about a 14-8 finish and help from other teams. That's a narrow road.\n\nBut narrow isn't closed. Not with Saggese playing like this.",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-cardinals-70-70-wc-math.html",
+        "headline": "Cardinals at 70-70: What It Takes to Turn a Stunning Win Over the Dodgers Into an October Run",
+        "word_count": 730
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cardinals 70-70\n\n**Image Concept 5**\n- **Story:** Cardinals 70-70\n- **Type:** imagn\n- **Search Terms:** Thomas Saggese Cardinals\n- **Description:** Saggese celebrating at home plate or in the dugout following his walk-off hit — captures the moment that kept the Cardinals' season alive\n- **Alt Text:** Thomas Saggese celebrating for the St. Louis Cardinals\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Cardinals 70-70, Saggese Hero\n**Source:** CBS Sports, Yahoo Sports, mlb.com\n**Verified Facts (HIGH confidence):**\n- Sept. 3 game: St. Louis Cardinals 8, Los Angeles Dodgers 6 (10 innings)\n- Thomas Saggese: Hit a two-run HR in the 6th inning to break up Yoshinobu Yamamoto's no-hit bid, then hit a go-ahead single in the 10th inning\n- Leo Bernal: Hit his first career MLB home run in this game\n- Pinch-hit double by Báez provided two insurance runs in the rally\n- Dodgers manager Dave Roberts said Ohtani is \"not close to optimal\" after the game (Ohtani 0-for-4, 4 K)\n- Cardinals record after the win: 70-70\n- Dodgers record: 82-57, had lost 6 of their previous 8 games\n- Cardinals are 3.5 games outside a Wild Card position with approximately 22 games remaining\n**Source confidence:** HIGH — CBS Sports and Yahoo Sports confirmed game result and Saggese details",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Alvarez Triple Crown — The Math Gets Tighter With 25 Games Left (Tier 2 — FOLLOW UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Yordan Alvarez leads the AL in batting average, home runs, AND RBIs.\n\nBA: .322 (Simpson .308, 14 back)\nHR: 36 (Caminero & Rice at 35, 1 back)\nRBI: 91 (tied with Alonso)\n\n25 games. Last AL Triple Crown: Cabrera, 2012. #Astros #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Astros",
+            "#MLB"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 1:00 PM ET\n\nYordan Alvarez is leading the American League in batting average, home runs, and RBIs. All three. Simultaneously. With 25 games left.\n\nThe Triple Crown is one of baseball's rarest achievements. The last American League player to win it was Miguel Cabrera in 2012. Before that, you have to go back to Carl Yastrzemski in 1967. It happens once in a generation, if that.\n\nAlvarez's current lines: .322 batting average, 36 home runs, 91 RBIs. Every category has a challenger. Simpson sits 14 points back in average at .308. Misael Caminero and Ben Rice are each at 35 home runs, one behind. Pete Alonso has matched the 91 RBI total exactly.\n\nThree leads. Three active threats. Twenty-five games to hold them all.\n\nThe pressure here is different from chasing a milestone. Alvarez has to protect three leads at once while opponents go all-out to chase him down. Every game matters in every column. That's the Triple Crown in September.",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-alvarez-triple-crown-25-games.html",
+        "headline": "Yordan Alvarez and the Triple Crown That Nobody Seems to Want to Talk About",
+        "word_count": 706
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alvarez Triple Crown\n\n**Image Concept 6**\n- **Story:** Alvarez Triple Crown\n- **Type:** imagn\n- **Search Terms:** Yordan Alvarez Astros\n- **Description:** Alvarez at the plate in full swing — power stance that defines his Triple Crown chase\n- **Alt Text:** Yordan Alvarez batting for the Houston Astros\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Alvarez Triple Crown\n**Source:** mlb.com, baseball-reference.com, espn.com\n**Verified Facts (HIGH confidence):**\n- Yordan Alvarez (Houston Astros) leads AL in all three Triple Crown categories\n- BA: .322 (nearest challenger: Simpson at .308, 14 points back)\n- HR: 36 (nearest challengers: Misael Caminero and Ben Rice, 35 each — 1 behind)\n- RBI: 91 (tied with Pete Alonso at 91)\n- Last AL Triple Crown winner: Miguel Cabrera, 2012 (Detroit Tigers)\n- 25 games remaining\n- Ben Rice (Yankees): Rookie, 27 years old, debuted June 18, 2024; 35 HR in 2026; one behind Alvarez\n**Source confidence:** HIGH for Alvarez stats and TC history; HIGH for Cabrera 2012 last TC",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Ohtani's October Cloud — Will the Dodgers Rest Their Star? (Tier 2 — FOLLOW UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "\"Not close to optimal.\"\n\nThat's Dave Roberts on Shohei Ohtani — who is 7-for-51 (.137) with 20 strikeouts since Aug. 18.\n\nLeft knee. Rest discussions ongoing. Dodgers are 82-57 and safe.\n\nDo they shut him down to get right for October? #Dodgers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#MLB"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 10:30 PM ET\n\nDave Roberts said it plainly: Shohei Ohtani is \"not close to optimal.\"\n\nFor 17 days, Ohtani has been one of baseball's biggest stories for all the wrong reasons. Since August 18, he's gone 7-for-51 (.137) with 20 strikeouts. On September 3 against the Cardinals — in a game the Dodgers lost 8-6 — he went 0-for-4 with four more strikeouts.\n\nThe left knee is the issue. Rest discussions are happening. And the Dodgers, at 82-57 with a playoff spot locked up, now face the central question of their October preparation: do you keep running Ohtani out there through September, or do you sit him down and let him get right?\n\nThe argument for resting him is obvious. A healthy Ohtani in October is worth far more than a compromised Ohtani in late September regular season games that don't affect the standings. The argument against is harder to quantify — rust, rhythm, the difficulty of just switching a player of his caliber back on after extended rest.\n\nRoberts hasn't announced a decision. But \"not close to optimal\" isn't nothing. It's a signal that the Dodgers are thinking seriously about what October needs from their franchise player.\n\nWhatever they decide, Ohtani's health is now the biggest storyline in Los Angeles baseball.",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-ohtani-rest-question-october-cloud.html",
+        "headline": "The Dodgers' October Question: Do They Rest Shohei Ohtani, and What Happens Either Way?",
+        "word_count": 782
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ohtani Rest Question\n\n**Image Concept 7**\n- **Story:** Ohtani Rest Question\n- **Type:** imagn\n- **Search Terms:** Shohei Ohtani Dodgers\n- **Description:** Ohtani at the plate or in the dugout — expression of focus or concern captures the uncertainty around his health and the October decision ahead\n- **Alt Text:** Shohei Ohtani with the Los Angeles Dodgers"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Ohtani Health/Rest Question\n**Source:** mlb.com, cbssports.com, espn.com\n**Verified Facts (HIGH confidence):**\n- Shohei Ohtani (LA Dodgers): 7-for-51 (.137) with 20 strikeouts since August 18\n- Sept. 3 game vs Cardinals: 0-for-4, 4 strikeouts\n- Dave Roberts quote: Ohtani is \"not close to optimal\"\n- Left knee issue being discussed; rest discussions are happening\n- Dodgers record: 82-57, postseason spot secured\n- Ohtani 2026 hitting season (overall): .941 OPS across ~400 plate appearances despite HR pace drop\n- Ohtani 2026 pitching: 8-2 record, 1.79 ERA, 0.95 WHIP, 95:26 K:BB in 85.2 IP across 14 starts\n- The slump has lasted 17 days (Aug 18 through Sept 3)\n**Source confidence:** HIGH for slump stats and Roberts quote (confirmed by CBS Sports and Yahoo Sports); HIGH for Ohtani season stats (mlb.com)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
