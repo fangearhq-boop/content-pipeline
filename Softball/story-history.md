@@ -3,6 +3,64 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-09-05
+
+### Story 1: USA WNT — Seven Days to Group Oklahoma
+- **Date:** 2026-09-05
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** 7 days to Devon Park OKC opener. USA opens Sept. 12 vs. No. 7 Mexico at 7:30 PM. 6-team field: USA, Brazil, China, Mexico, Netherlands, NZ. Kilfoyl (AUSL champion Aug. 30) returns to Devon Park for Group Oklahoma. Top 2 of 6 advance to Redcliffe QLD April 5-11 2027 Finals (LA28 qualifier). USA 5-0 at IC same venue.
+- **Content Produced:** Article (article-01, Jordan Reeves), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Sept. 9 in-person contact window (recruiting)
+  - Sept. 12 opening game USA vs Mexico
+  - Sept. 12-16 full Group Oklahoma results
+
+### Story 2: Class of 2028 — Four Days to In-Person Window
+- **Date:** 2026-09-05
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** 4 days to Sept. 9 in-person window at 7 AM ET. First major D1 commit: Peyton Ushery chose Georgia (ranked No. 2, Line Drive Media HOT 100; Sept. 1). 1,226 EIS nominations record. Top prospects: Landers, Holden, Schlader. 16 five-star athletes.
+- **Content Produced:** Article (article-02, Sarah Mitchell), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Sept. 9 in-person window opens
+  - First wave of 2028 commits expected
+
+### Story 3: Oklahoma Fall Camp — Final Full Week With Gasso
+- **Date:** 2026-09-05
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Gasso departs in 7 days (Sept. 12) for WNT coaching duty. This is the final full week of fall camp with the complete coaching staff. Wells (32 HR freshman record) building in fall scrimmages. Berzon (2x AA LSU, 486.1 IP, 2.02 ERA) integrating with Harter. Fall opener Sept. 30 at Love's Field.
+- **Content Produced:** Article (article-03, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - OU fall opener Sept. 30
+  - Gasso returns from WNT Sept. 17
+  - Berzon/Harter rotation development
+
+### Story 4: Texas Longhorns — 24 Days, Torres Era Begins
+- **Date:** 2026-09-05
+- **Tier:** 3
+- **Classification:** FOLLOW UP
+- **Angle:** 24 days to Sept. 29 fall opener vs. Murray State. Isa Torres (2026 D1Softball POY, .530 BA, FSU) in first week of fall practice at Texas. Torres + Kavan (2x WCWS MOP) = most dangerous duo in college softball. Three-peat: only UCLA (1988-90) + OU (2021-23).
+- **Content Produced:** Article (article-04, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Texas fall opener Sept. 29
+  - Torres early impressions / quotes from staff
+  - Kavan senior season milestones
+
+### Story 5: Texas Tech — Week 2 of the Chemistry Lab
+- **Date:** 2026-09-05
+- **Tier:** 3
+- **Classification:** FOLLOW UP
+- **Angle:** Week 2 of fall camp. Beachum (FSU, .406 BA, 10 HR), Pickering (OU, .384 career BA, 50 HR), Heavener (LSU, 13-9, 2.81 ERA). Culture fusion — 3 different programs, 3 different cultures. Glasco Year 2. WCWS runner-up 2026.
+- **Content Produced:** Article (article-05, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - TTU fall scrimmage results
+  - Chemistry signals emerging from Week 3+
+  - Glasco media availability quotes
+
+---
+
 ## 2026-09-04
 
 ### Story 1: USA WNT — Eight Days to Group Oklahoma
