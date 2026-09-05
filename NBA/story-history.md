@@ -6414,3 +6414,48 @@
 - **Key facts:** Knicks defending champs; Sixers: LeBron+Embiid+Brown; Heat: Giannis; Raptors: Kawhi incoming; Celtics lost Brown
 - **Status:** NEW
 - **Follow-up ideas:** Training camp power rankings, preseason matchups
+
+## 2026-09-05
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-05 | T1 | Kawhi Leonard Trade Officially Complete — He's a Raptor Again | X(2), FB, Article | FOLLOW UP |
+| 2026-09-05 | T1 | James Harden Signs 3-Year, $97M Deal to Stay with Cavaliers | X(2), FB, Article | NEW |
+| 2026-09-05 | T2 | LeBron's 76ers Debut — Training Camp, Preseason Dates Set | X(1), FB, Article | NEW |
+| 2026-09-05 | T2 | Cavaliers Take Training Camp to Spain | X(1), FB, Article | NEW |
+| 2026-09-05 | T2 | Rockets Trade Finney-Smith to Charlotte, Create $13M Trade Exception | X(1), FB, Article | NEW |
+
+### STORY 1: Kawhi Leonard Trade Officially Complete
+- **Tier:** 1
+- **Category:** Toronto Raptors / Kawhi Leonard / Los Angeles Clippers / NBA Transactions
+- **Key facts:** Trade cleared Sept. 2 after NBA concluded Clippers investigation; Kawhi pays $700K, avoids suspension; trade terms: Kawhi → Toronto for Brandon Ingram+Gradey Dick+2031 UPF+2033 UPF+2027 swap+2 2nds; Kawhi reports to training camp Sept. 28 Quebec City
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Kawhi's first Raptors practice, preseason debut, regular season opener
+
+### STORY 2: James Harden Signs 3-Year, $97M Deal
+- **Tier:** 1
+- **Category:** Cleveland Cavaliers / James Harden / NBA Contracts
+- **Key facts:** Declined $42.3M player option; new deal 3 years, $97M, player option Year 3; career earnings $511M — fourth player to surpass $500M (LeBron, Durant, Curry are others); second player to sign 90M+ at age 37+; Media Day Sept. 28, camp in Spain Sept. 30–Oct. 5
+- **Status:** NEW
+- **Follow-up ideas:** Harden training camp performance, Cavs preseason, title outlook
+
+### STORY 3: LeBron's 76ers Training Camp Countdown
+- **Tier:** 2
+- **Category:** Philadelphia 76ers / LeBron James / NBA Preseason
+- **Key facts:** Camp opens Sept. 28-29; LeBron first game Oct. 8 at Brooklyn; preseason: Oct. 10 at Celtics, Oct. 16 vs. Celtics; regular season opener Oct. 20 at NYK (defending champs); home opener Oct. 22 vs. CLE; roster: LeBron+Embiid+Brown+Maxey+Edgecombe
+- **Status:** NEW
+- **Follow-up ideas:** Training camp reports, preseason performance, LeBron-Embiid chemistry
+
+### STORY 4: Cavaliers Training Camp in Spain
+- **Tier:** 2
+- **Category:** Cleveland Cavaliers / NBA Training Camp / NBA Offseason
+- **Key facts:** Media Day Sept. 28 at Rocket Arena; camp at The Embassy in Andalusia, Spain Sept. 30–Oct. 5; facility partly designed by Jose Calderon (former Cav); Warriors in Hawaii (BYU-Hawaii campus, Sept. 29)
+- **Status:** NEW
+- **Follow-up ideas:** Camp reports, team chemistry stories, preseason performance
+
+### STORY 5: Rockets Trade Finney-Smith to Charlotte
+- **Tier:** 2
+- **Category:** Houston Rockets / Charlotte Hornets / Dorian Finney-Smith / NBA Transactions
+- **Key facts:** Trade: Houston sends Finney-Smith + 2027 (via MEM) + 2028 + 2033 2nds to Charlotte; Houston receives $13M trade exception; Finney-Smith 37g last season 3.3/2.5/1.0; only 2026-27 salary ($13.3M) guaranteed in Charlotte; Rockets freed cap for Smart and Bogdanovic signings
+- **Status:** NEW
+- **Follow-up ideas:** Rockets use of trade exception, Finney-Smith in Charlotte

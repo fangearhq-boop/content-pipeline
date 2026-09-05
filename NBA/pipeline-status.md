@@ -1,7 +1,7 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Current Status
-**Last Run:** 2026-09-04
+**Last Run:** 2026-09-05
 **Steps Completed:** All pipeline steps (1-14); WordPress publish blocked by proxy policy
 
 ## Deploy Info
@@ -11,6 +11,31 @@
 - **Note:** Dashboard publish push blocked (content-dashboards not in authorized repo set)
 
 ## Pipeline Run Log
+
+### 2026-09-05 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
+- Step 10: verify-facts.py run — 5 stories, 23 claims verified
+- Step 10b: compile-content-data.py — 5 stories, 7 tweets, 5 articles compiled
+- Step 11: Image manifest created (not_started for all — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — 22 items in dashboard
+- Step 14a: publish-unified-dashboard.py — push blocked (proxy policy for content-dashboards)
+- Step 14b: generate-postplanner-export.py — 7 posts exported
+- Step 14c: generate-postplanner-export.py --tobi — 7 TOBI posts exported
+- Step 15: publish-to-wordpress.py — BLOCKED (fanrumor.com not allowed by egress proxy)
+- Git commit + push: ✅ Committed
+
+**Stories covered:**
+1. T1 FOLLOW UP: Kawhi Leonard Trade Officially Complete — He's a Raptor Again
+2. T1 NEW: James Harden Signs 3-Year, $97M Deal to Stay with Cavaliers
+3. T2 NEW: LeBron's 76ers Debut — Training Camp, Preseason Dates Set
+4. T2 NEW: Cavaliers Take Training Camp to Spain
+5. T2 NEW: Rockets Trade Finney-Smith to Charlotte, Create $13M Trade Exception
+
+**Issues:**
+- WordPress publish blocked by proxy policy (fanrumor.com not reachable from remote environment)
+- content-dashboards push blocked (not in authorized repo set)
+- FB posts compiled as 0 — known script parsing issue; posts are in 04-social-posts-facebook.md
 
 ### 2026-09-04 ✅ (Automated)
 - Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
