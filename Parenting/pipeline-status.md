@@ -1,6 +1,35 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: September 4, 2026
+## Latest Run: September 5, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Walmart Mainstays 9-drawer dresser recall (CPSC; ~165,250 units; STURDY Act; post-recall liquidator sales; 1-800-925-6278; Walmart.com/recalls); Labor Day Lift Off Day 1 / Balloon Glow (Memorial Park, dusk, 65 balloons, free, parking from $5, tethered rides ages 5+, Wings of Blue, Grizzly drone show); Pikes Peak Regional Airshow Sept 19–20 (Peterson SFB 7330 Embraer-Heights, F-35A + F-18 demo teams, Franklin's Flying Circus, F7F Tigercat, Wings of Blue, gates 8:30 AM, pprairshow.org, proceeds 3 local museums); AAP 2026 screen time update (Feb 2026, "what did it replace?" framework, no screens under 18 months, 1 hr/day ages 2–5, phones out of bedrooms = most protective single habit); CMZ Military Appreciation Week Sept 14–20 (50% off, active-duty/vet/retired + household dependents, advance tickets cmzoo.org/military, sell out) |
+| Story History Check | COMPLETE | All 5 stories NEW: S1 Walmart dresser recall (distinct from Sep 4 Skip Hop teether, Sep 3 bath seat/walker — furniture tip-over is different hazard category); S2 Lift Off Balloon Glow Day 1 (distinct from Sep 4 survival guide and Sep 2 standalone — Day 1 / tonight-specific angle); S3 Pikes Peak Airshow (not previously covered); S4 AAP screen time (not previously covered — Sep 4 vaccine, Sep 3 flu, Aug 31 HPV: clean lane); S5 CMZ Military Appreciation (not previously covered) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (1 Tier 1, 4 Tier 2); bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4); posting windows in MT |
+| Research Notes | COMPLETE | 01-research-notes.md |
+| Story Analysis | COMPLETE | 02-story-analysis.md |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 6 posts (2 for S1 Tier 1, 1 each for S2–S5); all ≤280 chars (3 tweet fixes required after verify-facts.py); 4 hashtags each; 0 exclamation marks; backtick code fence format; COS voice rules applied |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form Post + 5 Image Caption; no hashtags; engagement questions; COS voice rules applied |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only prompts (5 stories × 2 formats: 1080x1350 social + 1200x630 hero) |
+| Articles (5) | COMPLETE | article-01 Walmart Dresser Recall (Sarah Morales); article-02 Labor Day Lift Off Balloon Glow (Jamie Rivera); article-03 Pikes Peak Airshow (Sarah Morales); article-04 AAP Screen Time Guidelines (Jamie Rivera); article-05 CMZ Military Appreciation Week (Sarah Morales) |
+| Fact-Check | COMPLETE | verify-facts.py — 66 claims; HIGH: 127, MEDIUM: 11, LOW: 31; all tweet char limits verified ✓ |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 6 X posts, 0 FB posts (parser compat), 5 articles, 10 images; posting-window warnings expected (known format mismatch) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries (5 stories × 2), all pending, gemini base_only, model gemini-2.5-flash-image, brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 21 items; image manifest warning expected (images generated separately) |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in session's authorized repository set (403 proxy) — known recurring issue |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser compat issue — both standard and --tobi runs return 0 posts |
+| WordPress Publish | BLOCKED | 403 proxy block on fanrumor.com:443 — known recurring issue; all 5 articles queued as drafts pending manual publish or proxy fix |
+| Story History | COMPLETE | 5 new entries prepended to Parenting/story-history.md (September 5, 2026 section) |
+
+## Known Issues (Recurring)
+- WordPress publish: 403 proxy block — all 5 articles queued as drafts, pending manual publish or proxy fix; also publisher finds 0 articles due to parser compat issue with 07-content-data.json
+- PostPlanner export: parser compat issue returns 0 posts every run
+- content-dashboards push: 403 proxy block (not in session authorized repo set)
+- Image manifest warnings from dashboard generator: expected (Gemini image generation is a separate step)
+- Parser compat: compile finds 0 stories from daily brief format (table-based brief not parsed), 0 X/FB posts — affects WordPress publish lookup; articles found directly from file system
+
+## Previous Run: September 4, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|

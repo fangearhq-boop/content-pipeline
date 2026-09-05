@@ -2,6 +2,55 @@
 
 ---
 
+## September 5, 2026
+
+### Story 1: Walmart Mainstays 9-Drawer Fabric Dresser Recall
+- **Date:** 2026-09-05
+- **Content Pillar:** National Parenting / Safety
+- **Angle:** NEW STORY — CPSC recall (reannounced) of Mainstays 9-drawer fabric dresser sold at Walmart Sep 2023–Mar 2026. ~165,250 units. Black metal frame, fabric drawers, ~45" tall, 32 lbs. Tip-over/entrapment hazard; violates STURDY Act. Walmart distributed recalled units through liquidators post-recall, raising urgency. Remedy: full refund from Walmart at 1-800-925-6278 or Walmart.com/recalls. Different from Sep 4 teether (choking) and Sep 3 bath seat (drowning). Furniture tip-over is distinct hazard category.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** ~165,250 units; sold Sep 2023–Mar 2026; black metal frame; ~45" tall; 32 lbs; ~$80; STURDY Act violation; tip-over/entrapment; full refund; 1-800-925-6278; Walmart.com/recalls; continued post-recall sales through liquidators
+
+### Story 2: Labor Day Lift Off Day 1 — Balloon Glow
+- **Date:** 2026-09-05
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (Day 1 / Balloon Glow angle) — Festival underway at Memorial Park; Balloon Glow tonight at dusk with all 65 balloons illuminating simultaneously. Different from Sep 4 survival guide and Sep 2 news announcement. Today's hook: it's happening RIGHT NOW, tonight is the first Balloon Glow.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** Sept 5–7; Memorial Park; 65 balloons; Balloon Glow at dusk Sat+Sun; free admission; parking from $5; morning ascension 7 AM; tethered rides ages 5+; Wings of Blue; Grizzly drone show
+
+### Story 3: Pikes Peak Regional Airshow Sept 19–20
+- **Date:** 2026-09-05
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — First coverage of Pikes Peak Regional Airshow. Two weeks out. F-35A Lightning II demo team, F-18 Hornet demo team, Franklin's Flying Circus, F7F Tigercat, Wings of Blue. Peterson SFB (7330 Embraer-Heights, COS CO 80916). Gates 8:30 AM. Proceeds to National Museum of WWII Aviation, Peterson Air and Space Museum, 4th Infantry Division Museum. Tickets at pprairshow.org. Not previously covered.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** Sept 19–20; Peterson SFB (7330 Embraer-Heights, COS CO 80916); gates 8:30 AM; F-35A Lightning II demo team; F-18 Hornet demo team; Franklin's Flying Circus; F7F Tigercat; Wings of Blue; pprairshow.org; proceeds to 3 local museums
+
+### Story 4: AAP 2026 Screen Time Guidelines
+- **Date:** 2026-09-05
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — February 2026 AAP update shifts from hour-based to context-based framework ("what did this replace?"). No screens before 18 months; 1 hr/day high-quality for ages 2–5; no specific limit for older kids. Phones/tablets out of bedrooms at night = most protective single habit. Back-to-school timing makes September ideal for household rule reset. Different from Sep 4 vaccine and Sep 3 flu — clean lane.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** Feb 2026 AAP update; no screens under 18 months; 1 hr/day ages 2–5; phones out of bedrooms = most protective habit; sleep: ages 6–13 need 9–11 hrs; teens 14–17 need 8–10 hrs
+
+### Story 5: Cheyenne Mountain Zoo Military Appreciation Week Sept 14–20
+- **Date:** 2026-09-05
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — First coverage of CMZ Military Appreciation Week. 50% off base admission for active-duty, veterans, retirees + all household dependents. Advance timed tickets required at cmzoo.org/military; sell out. Military ID verified at gate. Ten days out — good lead time for COS military families. COS has largest military community in US (Fort Carson, Peterson SFB, Schriever SFB, NORAD/USNORTHCOM, USAFA). Not previously covered.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** Sept 14–20 2026; 50% off base admission; active-duty + veteran + retired + household dependents; advance timed tickets; cmzoo.org/military; military ID at gate; tickets sell out
+
+---
+
 ## September 4, 2026
 
 ### Story 1: Skip Hop Elmo Teether Recall — CPSC
