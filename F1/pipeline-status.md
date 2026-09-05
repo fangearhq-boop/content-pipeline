@@ -1,6 +1,6 @@
 # F1 Fanrecap — Pipeline Status
 
-## Last Run: 2026-09-04
+## Last Run: 2026-09-05
 
 **Status:** COMPLETE (with known proxy limitations)
 **Niche:** F1 Fanrecap
@@ -13,7 +13,7 @@
 
 | Step | Status | Notes |
 |------|--------|-------|
-| Research / WebSearch | ✅ Complete | 5 stories researched — Italian GP, Ferrari Schumacher tribute, calendar uncertainty, Antonelli penalty, Norris title charge |
+| Research / WebSearch | ✅ Complete | 5 stories — Italian GP qualifying day, Barrichello/F2002 Schumi tribute, Qatar/Abu Dhabi calendar decision, Norris three-peat, Antonelli penalty math |
 | Daily Brief | ✅ Complete | 00-daily-brief.md |
 | Research Notes | ✅ Complete | 01-research-notes.md |
 | Story Analysis | ✅ Complete | 02-story-analysis.md |

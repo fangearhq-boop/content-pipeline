@@ -6195,3 +6195,48 @@
 - **Key facts:** 2025 World Champion; won Dutch GP + one other in streak; 83 pts behind Antonelli; favourite at 2.50; three straight wins would be major statement
 - **Status:** NEW
 - **Follow-up ideas:** Race result, championship gap after Monza
+
+## 2026-09-05
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-05 | T1 | Italian GP Qualifying Day — Russell Leads, Hamilton Dreams of Pole, Antonelli Starts Last | X(2), FB, Article | FOLLOW UP |
+| 2026-09-05 | T1 | Barrichello Returns to Monza in the F2002 — Schumacher Tribute Saturday | X(2), FB, Article | FOLLOW UP |
+| 2026-09-05 | T2 | F1 Season Finale Decision — FOM Delays Qatar/Abu Dhabi Call to Mid-September | X(1), FB, Article | FOLLOW UP |
+| 2026-09-05 | T2 | Norris Eyes Three-Peat at Monza — McLaren Has Straight-Line Problem | X(1), FB, Article | FOLLOW UP |
+| 2026-09-05 | T2 | Antonelli Championship Math — Why Starting Last at Monza Isn't a Disaster | X(1), FB, Article | FOLLOW UP |
+
+### STORY 1: Italian GP Qualifying Day
+- **Tier:** 1
+- **Category:** Italian Grand Prix / Monza / George Russell / Kimi Antonelli / F1 Championship
+- **Key facts:** Qualifying 16:00 local Sept 5; Russell led FP2 (1:22.559, 0.120s ahead of Leclerc), also led FP3; Antonelli P3 FP2, Norris P4, Hamilton P5; Antonelli starts from back (engine grid penalty); Hamilton wants "dream" Ferrari pole; Norris 6/4 race favorite; McLaren "slowest on straight by quite a long way" (Norris)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Qualifying result, race result, championship impact
+
+### STORY 2: Barrichello Drives F2002 at Monza
+- **Tier:** 1
+- **Category:** Ferrari / Michael Schumacher / Rubens Barrichello / Italian Grand Prix / F1 History
+- **Key facts:** Barrichello drives F2002 Saturday demonstration at Monza; Barrichello won 2002 Italian GP in this car; Ferrari tribute: 30 years since Schumi joined (1996), 20 since last season (2006); Vettel drives F2002 demonstration lap before Sunday race; Hamilton/Leclerc in Schumacher-inspired suits; cars: F310, F2002, 248 F1 on display; livery based on 1996 F310; gold wheels, MS logo, 7-star
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Race day Vettel demo, Hamilton/Leclerc race performance in tribute suits
+
+### STORY 3: F1 Season Finale Calendar Decision
+- **Tier:** 2
+- **Category:** F1 Calendar / Qatar GP / Abu Dhabi GP / Middle East Conflict
+- **Key facts:** Domenicali: decision by mid-September; Qatar Nov 27-29 Lusail; Abu Dhabi Dec 4-6 Yas Marina; Bahrain + Saudi GPs already cancelled; Bahrain rerouted to Malaysia Sepang Oct 2-4; contingency: Imola (leading) or Portimao; US strikes near Strait of Hormuz backdrop
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** FOM announcement, Imola confirmed or Qatar/Abu Dhabi proceed
+
+### STORY 4: Norris Three-Peat Strategy at Monza
+- **Tier:** 2
+- **Category:** Lando Norris / McLaren / Italian Grand Prix / F1 Championship
+- **Key facts:** Norris defending 2025 champion; 6/4 race favorite; back-to-back wins (Dutch GP + prior); McLaren "slowest on straight" per Norris; trails Antonelli by 83 pts; three wins in a row would be major statement
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Race result, championship gap after Monza
+
+### STORY 5: Antonelli Championship Math
+- **Tier:** 2
+- **Category:** Kimi Antonelli / Mercedes / F1 Championship / Italian Grand Prix
+- **Key facts:** Antonelli 242 pts; leads Russell/Hamilton by 59, Norris by 83; age 20; Toto Wolff confirmed Monza chosen deliberately for engine penalty; 4th ICE, 4th exhaust (max 4), 3rd energy store, 3rd control electronics (max 3); started by Spanish GP PU failure; Monza overtaking opportunities for recovery drive
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Race result, recovery drive performance, championship standings after Monza

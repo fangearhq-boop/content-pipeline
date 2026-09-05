@@ -1,0 +1,314 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-05",
+  "compiled_at": "2026-09-05T11:28:46.600222+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Italian GP Qualifying Day — Russell Leads the Pack, Antonelli Starts Last",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Qualifying at Monza starts at 4 PM local time today. 🏎️\n\nGeorge Russell topped both practice sessions. Hamilton wants a \"dream\" Ferrari pole.\n\nMeanwhile, Antonelli starts from the back no matter what. The race is already fascinating.\n\n#ItalianGP #F1",
+          "posting_time": "",
+          "tweet_type": "FOLLOW UP",
+          "hashtags": [
+            "#ItalianGP",
+            "#F1"
+          ],
+          "char_count": 249
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Lewis Hamilton: \"We really need to knuckle down tonight.\"\n\nFerrari's Hamilton wants that dream Monza pole position. Russell led every practice session. Norris is the race favorite.\n\nChampionship leader Antonelli? He's starting last. 🏁 #ItalianGP #F1",
+          "posting_time": "",
+          "tweet_type": "FOLLOW UP",
+          "hashtags": [
+            "#ItalianGP",
+            "#F1"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-italian-gp-qualifying-day-russell-leads.html",
+        "headline": "Italian GP Qualifying Day: Russell Leads, Hamilton Dreams of Pole, Antonelli Starts Last",
+        "word_count": 650
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Barrichello Drives the F2002 at Monza — Schumacher Tribute Continues",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Rubens Barrichello is driving the Ferrari F2002 at Monza today. 🔴\n\nThe same car he won the 2002 Italian Grand Prix in.\n\nFerrari's Schumacher tribute is something else this weekend. #ItalianGP #F1 #Ferrari",
+          "posting_time": "",
+          "tweet_type": "FOLLOW UP",
+          "hashtags": [
+            "#ItalianGP",
+            "#F1",
+            "#Ferrari"
+          ],
+          "char_count": 204
+        },
+        {
+          "label": "Post 2-2",
+          "text": "At Monza this weekend:\n\n✅ Barrichello driving the F2002 Saturday\n✅ Vettel demonstration lap before Sunday's race\n✅ Hamilton & Leclerc in Schumacher-inspired suits\n\n30 years since Schumi joined Ferrari. The tribute is everything. #ItalianGP #F1",
+          "posting_time": "",
+          "tweet_type": "FOLLOW UP",
+          "hashtags": [
+            "#ItalianGP",
+            "#F1"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-barrichello-f2002-monza-schumacher-tribute.html",
+        "headline": "Barrichello Returns to Monza in the F2002 — The Car He Won the 2002 Italian GP In",
+        "word_count": 671
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "F1 Season Finale Decision — FOM Delays Qatar/Abu Dhabi Call to Mid-September",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "F1's Qatar and Abu Dhabi GP decision is coming in mid-September.\n\nDomenicali: \"No decision before mid-September.\"\n\nBahrain/Saudi GPs already cancelled. If Qatar + Abu Dhabi go, Europe — likely Imola — becomes the season finale. #F1",
+          "posting_time": "",
+          "tweet_type": "FOLLOW UP",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-f1-calendar-qatar-abudhabi-decision-mid-september.html",
+        "headline": "F1's Qatar and Abu Dhabi Decision Is Coming — FOM Sets Mid-September Deadline",
+        "word_count": 601
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Norris Eyes Historic Three-Peat — Race Strategy at the Temple of Speed",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Lando Norris on McLaren's Monza challenge:\n\n\"McLaren is the slowest on the straight by quite a long way.\"\n\nBut he's won the last 2 races and is the race favorite. If anyone can figure it out, it's the defending champion. #ItalianGP #F1",
+          "posting_time": "",
+          "tweet_type": "FOLLOW UP",
+          "hashtags": [
+            "#ItalianGP",
+            "#F1"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-norris-mclaren-monza-three-peat-strategy.html",
+        "headline": "Norris Eyes the Three-Peat at Monza — But McLaren Has a Straight-Line Problem",
+        "word_count": 590
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Championship Math — What Antonelli's Grid Penalty Actually Means",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Kimi Antonelli starts last at Monza. His engine penalty forced him to the back.\n\nBut Monza is THE circuit for recovery drives. Toto Wolff chose it deliberately.\n\nHe leads by 83 over Norris and 59 over Russell. At age 20. 🔥 #F1 #ItalianGP",
+          "posting_time": "",
+          "tweet_type": "FOLLOW UP",
+          "hashtags": [
+            "#F1",
+            "#ItalianGP"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-antonelli-championship-math-grid-penalty.html",
+        "headline": "Antonelli's Championship Math — Why Starting Last at Monza Isn't the Disaster It Sounds",
+        "word_count": 597
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
