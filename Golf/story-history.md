@@ -2,6 +2,55 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-09-05
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-05 | T1 | Solheim Cup 2026 — Two Days Out at Bernardus Golf | X(2), FB, Article | FOLLOW UP |
+| 2026-09-05 | T1 | LIV Golf Bankruptcy Chapter 11 Filing Expected Week of Sept 7 | X(2), FB, Article | FOLLOW UP |
+| 2026-09-05 | T2 | Presidents Cup Rosters Set — Snedeker Leads USA, Ogilvy Captains International | X(1), FB, Article | NEW |
+| 2026-09-05 | T2 | Biltmore Championship Asheville — New PGA Tour Event Sept 17-20 | X(1), FB, Article | NEW |
+| 2026-09-05 | T2 | Anna Nordqvist's Pairings Puzzle — Inside Europe's Solheim Strategy | X(1), FB, Article | FOLLOW UP |
+
+### STORY 1: Solheim Cup 2026 — Two Days Out
+- **Tier:** 1
+- **Category:** Solheim Cup / LPGA / Angela Stanford / Anna Nordqvist / Bernardus Golf / Netherlands / Match Play
+- **Key facts:** Sept 7-13 Bernardus Golf Netherlands; match play Sept 11-13; foursomes/fourballs Sept 11-12, singles Sept 13; Angela Stanford USA captain; Anna Nordqvist Europe captain; USA defending champions; full 12-player rosters confirmed; Nordqvist described pairings as a "puzzle"
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Day-by-day results; pairings analysis; MVP; final score
+
+### STORY 2: LIV Golf Bankruptcy Chapter 11 Filing
+- **Tier:** 1
+- **Category:** LIV Golf / Bankruptcy / Chapter 11 / PIF / Player Contracts / Greg Norman
+- **Key facts:** Chapter 11 filing expected week of Sept 7; NJ federal bankruptcy court; PIF emergency loan <$100M; players with multi-year guaranteed contracts face pennies on dollar; 48 players on 12 teams; no PGA Tour merger materialized
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Filing confirmation; player reinstatement decisions; PGA Tour response; LIV team fates
+
+### STORY 3: Presidents Cup Rosters — Snedeker and Koivun
+- **Tier:** 2
+- **Category:** Presidents Cup / Brandt Snedeker / Geoff Ogilvy / Jackson Koivun / USA / International
+- **Key facts:** Sept 1 announcement; Brandt Snedeker USA captain (not Tiger Woods); Geoff Ogilvy International captain; Jackson Koivun (21yo) USA captain's pick; full 12-man rosters both sides confirmed
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 4: Biltmore Championship Asheville
+- **Tier:** 2
+- **Category:** PGA Tour / Biltmore Championship / Asheville NC / The Cliffs at Walnut Cove / New Event
+- **Key facts:** Sept 17-20; The Cliffs at Walnut Cove, Arden NC; inaugural edition; first PGA Tour event in western NC
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 5: Nordqvist Pairings Puzzle
+- **Tier:** 2
+- **Category:** Solheim Cup / Anna Nordqvist / Europe / Pairings / Match Play Strategy
+- **Key facts:** Nordqvist called pairings a "puzzle"; Europe has veteran/rookie mix; foursomes pairings critical; match play starts Sept 11
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+
+---
+
 ## 2026-09-03
 
 | Date | Tier | Story | Platforms | Status |

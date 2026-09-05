@@ -1,0 +1,2785 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Golf Fanrecap — Content Review Dashboard</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: #f5f5f5;
+            display: flex;
+            min-height: 100vh;
+            color: #333;
+        }
+
+        .sidebar {
+            width: 280px;
+            background: #1a1a2e;
+            color: white;
+            padding: 30px 20px;
+            position: fixed;
+            height: 100vh;
+            overflow-y: auto;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+            z-index: 10;
+        }
+
+        .sidebar h1 { font-size: 18px; margin-bottom: 10px; color: #FF8A00; font-weight: 700; }
+        .sidebar-date { font-size: 12px; color: #aaa; margin-bottom: 30px; padding-bottom: 20px; border-bottom: 1px solid #333; }
+        .sidebar-section { margin-bottom: 25px; }
+        .sidebar-section-title { font-size: 12px; text-transform: uppercase; color: #999; margin-bottom: 12px; font-weight: 600; letter-spacing: 1px; }
+
+        .nav-item {
+            display: block; padding: 12px 15px; margin-bottom: 8px; border-radius: 6px;
+            cursor: pointer; transition: all 0.3s ease; font-size: 14px; color: #ddd; user-select: none;
+        }
+        .nav-item:hover { background: #2d2d44; color: #FF8A00; }
+        .nav-item.active { background: #FF8A00; color: white; }
+        .nav-item-count { float: right; background: rgba(255, 107, 53, 0.3); padding: 2px 8px; border-radius: 3px; font-size: 12px; }
+        .nav-item.active .nav-item-count { background: rgba(0, 0, 0, 0.2); }
+
+        .main-content { margin-left: 280px; flex: 1; display: flex; flex-direction: column; }
+
+        .header {
+            background: white; padding: 25px 40px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-bottom: 3px solid #FF8A00;
+        }
+        .header h1 { font-size: 28px; color: #1a1a2e; margin-bottom: 10px; }
+        .header-meta { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px; }
+        .progress-bar { flex: 1; min-width: 200px; }
+        .progress-label { font-size: 13px; color: #666; margin-bottom: 8px; font-weight: 500; }
+        .progress-container { width: 100%; height: 8px; background: #ddd; border-radius: 4px; overflow: hidden; }
+        .progress-fill { height: 100%; background: linear-gradient(90deg, #FF8A00, #E53935); transition: width 0.3s ease; }
+        .header-actions { display: flex; gap: 10px; }
+
+        .btn {
+            padding: 10px 16px; border: none; border-radius: 6px; font-size: 14px;
+            font-weight: 600; cursor: pointer; transition: all 0.3s ease; white-space: nowrap;
+        }
+        .btn-primary { background: #FF8A00; color: white; }
+        .btn-primary:hover { background: #E53935; }
+        .btn-secondary { background: #f0f0f0; color: #333; }
+        .btn-secondary:hover { background: #e0e0e0; }
+
+        .filter-bar {
+            background: white; padding: 20px 40px; display: flex;
+            gap: 10px; flex-wrap: wrap; border-bottom: 1px solid #eee;
+        }
+        .filter-btn {
+            padding: 8px 14px; border: 1px solid #ddd; background: white;
+            border-radius: 5px; cursor: pointer; font-size: 13px; transition: all 0.3s ease;
+        }
+        .filter-btn:hover { border-color: #FF8A00; color: #FF8A00; }
+        .filter-btn.active { background: #FF8A00; color: white; border-color: #FF8A00; }
+
+        .content { flex: 1; padding: 30px 40px; overflow-y: auto; }
+
+        .cards-container { display: flex; flex-direction: column; gap: 20px; max-width: 900px; }
+
+        .card {
+            background: white; border-radius: 8px; padding: 24px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1); transition: all 0.3s ease;
+            border-left: 5px solid #ccc; display: none;
+        }
+        .card.show { display: block; }
+        .card.approved { border-left-color: #22c55e; }
+        .card.needs-edit { border-left-color: #eab308; }
+        .card.rejected { border-left-color: #ef4444; }
+        .card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.12); }
+
+        .card-header { display: flex; justify-content: space-between; align-items: start; margin-bottom: 15px; }
+        .card-title { font-size: 16px; font-weight: 600; color: #1a1a2e; flex: 1; margin-right: 10px; }
+
+        .card-badge {
+            display: inline-block; padding: 4px 10px; border-radius: 4px;
+            font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;
+        }
+        .badge-x-post { background: #1da1f2; color: white; }
+        .badge-facebook { background: #4267b2; color: white; }
+        .badge-article { background: #9333ea; color: white; }
+        .badge-image { background: #06b6d4; color: white; }
+        .badge-brief { background: #10b981; color: white; }
+
+        .fact-check-badge {
+            display: inline-block; padding: 3px 8px; border-radius: 4px;
+            font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;
+            margin-left: 6px;
+        }
+        .fact-check-verified { background: #dcfce7; color: #166534; border: 1px solid #86efac; }
+        .fact-check-warning { background: #fef9c3; color: #854d0e; border: 1px solid #fde047; }
+        .fact-check-unverified { background: #fee2e2; color: #991b1b; border: 1px solid #fca5a5; }
+
+        /* Content area — preview (collapsed) and full (expanded) */
+        .card-content {
+            background: #f9f9f9; padding: 15px; border-radius: 6px;
+            margin-bottom: 15px; font-size: 13px; line-height: 1.6; color: #555;
+            position: relative;
+        }
+        .card-content-text {
+            white-space: pre-wrap; word-break: break-word;
+        }
+
+        /* Collapsed state: limit height with fade */
+        .card-content.collapsed {
+            max-height: 200px; overflow: hidden;
+        }
+        .card-content.collapsed::after {
+            content: '';
+            position: absolute; bottom: 0; left: 0; right: 0; height: 60px;
+            background: linear-gradient(transparent, #f9f9f9);
+            pointer-events: none;
+        }
+
+        /* Expanded state: no limit */
+        .card-content.expanded {
+            max-height: none; overflow: visible;
+        }
+        .card-content.expanded::after { display: none; }
+
+        .expand-toggle {
+            display: inline-block; margin-bottom: 12px; padding: 6px 14px;
+            background: #eee; border: 1px solid #ddd; border-radius: 4px;
+            cursor: pointer; font-size: 12px; font-weight: 600; color: #555;
+            transition: all 0.2s ease;
+        }
+        .expand-toggle:hover { background: #ddd; color: #333; }
+
+        /* Inline editing */
+        .edit-textarea {
+            width: 100%; padding: 15px; border: 2px solid #FF8A00;
+            border-radius: 6px; font-size: 13px; font-family: inherit;
+            line-height: 1.6; resize: vertical; min-height: 200px;
+            background: #fffef5; color: #333; display: none;
+        }
+        .edit-textarea:focus {
+            outline: none; box-shadow: 0 0 0 3px rgba(255, 107, 53, 0.15);
+        }
+        .card.editing .card-content { display: none; }
+        .card.editing .edit-textarea { display: block; }
+        .card.editing .expand-toggle { display: none; }
+
+        .edit-bar {
+            display: none; gap: 8px; margin-bottom: 12px; padding: 10px;
+            background: #fff8f0; border: 1px solid #ffcc99; border-radius: 6px;
+            align-items: center;
+        }
+        .card.editing .edit-bar { display: flex; }
+        .edit-bar-label { font-size: 12px; font-weight: 600; color: #cc6600; flex: 1; }
+        .edit-bar .btn { padding: 7px 14px; font-size: 12px; }
+
+        .tweet-meta-bar {
+            display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; padding: 0;
+        }
+        .tweet-meta-badge {
+            display: inline-block; padding: 4px 10px; border-radius: 4px;
+            font-size: 11px; font-weight: 600; letter-spacing: 0.3px;
+        }
+        .tweet-meta-label { background: #e0e7ff; color: #3730a3; }
+        .tweet-meta-time { background: #fef3c7; color: #92400e; }
+        .tweet-meta-type { background: #d1fae5; color: #065f46; }
+        .tweet-meta-tier { background: #f3e8ff; color: #6b21a8; }
+        .tweet-meta-hashtags { background: #dbeafe; color: #1e40af; font-family: monospace; }
+
+        .char-count {
+            font-size: 12px; margin: 0 0 10px 0; padding: 8px;
+            background: #f0f0f0; border-radius: 4px;
+        }
+        .char-count.warning { background: #fee2e2; color: #991b1b; }
+
+        .card-actions { display: flex; gap: 8px; margin-bottom: 12px; flex-wrap: wrap; }
+        .action-btn {
+            flex: 1; padding: 10px; border: none; border-radius: 5px;
+            cursor: pointer; font-size: 13px; font-weight: 600;
+            transition: all 0.3s ease; white-space: nowrap; min-width: 100px;
+        }
+        .btn-approve { background: #e8f5e9; color: #22c55e; border: 1px solid #22c55e; }
+        .btn-approve:hover { background: #22c55e; color: white; }
+        .btn-edit { background: #fff3e0; color: #e65100; border: 1px solid #ff9800; }
+        .btn-edit:hover { background: #ff9800; color: white; }
+        .btn-reject { background: #fee2e2; color: #ef4444; border: 1px solid #ef4444; }
+        .btn-reject:hover { background: #ef4444; color: white; }
+        .btn-copy { background: #f0f0f0; color: #333; border: 1px solid #ddd; }
+        .btn-copy:hover { background: #e0e0e0; }
+
+        .notes-section { display: none; margin-bottom: 12px; }
+        .notes-section.show { display: block; }
+        .notes-label { font-size: 12px; font-weight: 600; color: #666; margin-bottom: 6px; }
+        .notes-textarea {
+            width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px;
+            font-size: 13px; font-family: inherit; resize: vertical; min-height: 60px;
+        }
+        .notes-textarea:focus { outline: none; border-color: #FF8A00; box-shadow: 0 0 0 3px rgba(255, 107, 53, 0.1); }
+
+        .status-label {
+            font-size: 11px; font-weight: 600; text-transform: uppercase;
+            padding: 4px 8px; border-radius: 3px; margin-top: 10px; display: inline-block;
+        }
+        .status-approved { background: #e8f5e9; color: #22c55e; }
+        .status-needs-edit { background: #fffbeb; color: #f59e0b; }
+        .status-rejected { background: #fee2e2; color: #ef4444; }
+        .status-edited { background: #e3f2fd; color: #1565c0; }
+
+        .empty-state { text-align: center; padding: 60px 20px; color: #999; }
+        .empty-state-icon { font-size: 48px; margin-bottom: 15px; }
+
+        /* Approval stats bar */
+        .approval-stats {
+            display: flex; gap: 16px; margin-top: 12px; flex-wrap: wrap;
+        }
+        .stat-chip {
+            display: inline-flex; align-items: center; gap: 6px;
+            padding: 4px 12px; border-radius: 20px; font-size: 13px; font-weight: 600;
+        }
+        .stat-approved { background: #dcfce7; color: #16a34a; }
+        .stat-rejected { background: #fee2e2; color: #dc2626; }
+        .stat-unreviewed { background: #f3f4f6; color: #6b7280; }
+        .stat-dot { width: 8px; height: 8px; border-radius: 50%; }
+        .stat-approved .stat-dot { background: #22c55e; }
+        .stat-rejected .stat-dot { background: #ef4444; }
+        .stat-unreviewed .stat-dot { background: #9ca3af; }
+
+        /* PostPlanner XLSX button */
+        .btn-csv { background: #7c3aed; color: white; }
+        .btn-csv:hover { background: #6d28d9; }
+        .btn-csv:disabled { background: #c4b5fd; cursor: not-allowed; }
+
+        /* Schedule settings panel */
+        .schedule-panel {
+            display: none; position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%);
+            background: white; border-radius: 12px; padding: 30px; z-index: 1000;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3); width: 500px; max-width: 90vw; max-height: 80vh; overflow-y: auto;
+        }
+        .schedule-panel.show { display: block; }
+        .schedule-overlay { display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.5); z-index: 999; }
+        .schedule-overlay.show { display: block; }
+        .schedule-panel h3 { color: #1a1a2e; margin-bottom: 20px; font-size: 18px; }
+        .schedule-section { margin-bottom: 20px; }
+        .schedule-section label { display: block; font-size: 13px; font-weight: 600; color: #555; margin-bottom: 6px; }
+        .schedule-section input { width: 100%; padding: 8px 12px; border: 1px solid #ddd; border-radius: 4px; font-size: 14px; }
+        .schedule-section input:focus { outline: none; border-color: #7c3aed; }
+        .time-slots { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; }
+        .time-slot {
+            display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px;
+            background: #f3f0ff; border: 1px solid #c4b5fd; border-radius: 20px; font-size: 13px;
+        }
+        .time-slot .remove-slot { cursor: pointer; color: #999; font-weight: bold; }
+        .time-slot .remove-slot:hover { color: #ef4444; }
+        .add-slot-btn {
+            padding: 6px 14px; background: #f3f0ff; border: 1px dashed #7c3aed; border-radius: 20px;
+            cursor: pointer; font-size: 13px; color: #7c3aed;
+        }
+        .add-slot-btn:hover { background: #ede9fe; }
+        .schedule-actions { display: flex; gap: 10px; justify-content: flex-end; margin-top: 20px; }
+
+        /* Photo search links for image concepts */
+        .photo-section {
+            margin-bottom: 15px; padding: 12px; background: #f0f9ff;
+            border: 1px solid #bae6fd; border-radius: 6px;
+        }
+        .photo-section-title {
+            font-size: 12px; font-weight: 700; color: #0369a1; text-transform: uppercase;
+            letter-spacing: 0.5px; margin-bottom: 8px;
+        }
+        .photo-links { display: flex; flex-wrap: wrap; gap: 6px; }
+        .photo-link {
+            display: inline-block; padding: 6px 12px; background: #0ea5e9;
+            color: white; border-radius: 4px; font-size: 12px; font-weight: 500;
+            text-decoration: none; transition: all 0.2s ease; cursor: pointer;
+        }
+        .photo-link:hover { background: #0284c7; }
+
+        /* Image URL input and preview for image concepts */
+        .image-url-section {
+            margin-bottom: 15px; padding: 12px; background: #f0fdf4;
+            border: 1px solid #bbf7d0; border-radius: 6px;
+        }
+        .image-url-section label {
+            display: block; font-size: 12px; font-weight: 700; color: #166534;
+            text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 6px;
+        }
+        .image-url-input {
+            width: 100%; padding: 8px 10px; border: 1px solid #86efac;
+            border-radius: 4px; font-size: 13px; font-family: monospace;
+            background: white; box-sizing: border-box;
+        }
+        .image-url-input:focus { outline: none; border-color: #22c55e; box-shadow: 0 0 0 2px rgba(34,197,94,0.2); }
+        .image-url-hint {
+            font-size: 11px; color: #6b7280; margin-top: 4px;
+        }
+        .image-preview {
+            margin-top: 8px; text-align: center;
+        }
+        .image-preview img {
+            max-width: 100%; max-height: 200px; border-radius: 4px;
+            border: 1px solid #d1d5db; display: none;
+        }
+        .image-preview img.loaded { display: inline-block; }
+
+        /* Image production status badges */
+        .image-badge {
+            display: inline-block; padding: 2px 8px; border-radius: 3px;
+            font-size: 10px; font-weight: 700; text-transform: uppercase;
+            letter-spacing: 0.5px; margin-left: 6px;
+        }
+        .image-exported { background: #dcfce7; color: #166534; }
+        .image-in-progress { background: #fef3c7; color: #92400e; }
+        .image-not-started { background: #f3f4f6; color: #6b7280; }
+
+        /* Text overlay preview for image concepts */
+        .overlay-section {
+            margin-bottom: 15px; padding: 15px; background: #1a1a2e;
+            border-radius: 6px; text-align: center;
+        }
+        .overlay-line {
+            font-family: 'Bebas Neue', Impact, 'Arial Black', sans-serif;
+            color: #ffd700; font-size: 18px; font-weight: 700; line-height: 1.4;
+            text-transform: uppercase; letter-spacing: 1px;
+        }
+        .overlay-line.sub { color: #ffffff; font-size: 14px; font-weight: 400; letter-spacing: 0; text-transform: none; }
+
+        /* Article content rendered as HTML */
+        .article-frame {
+            width: 100%; border: 1px solid #ddd; border-radius: 6px;
+            background: white; min-height: 300px;
+        }
+
+        @media (max-width: 768px) {
+            .sidebar { width: 100%; height: auto; position: relative; padding: 20px; }
+            .main-content { margin-left: 0; }
+            .content { padding: 20px; }
+            .header { padding: 15px 20px; }
+            .header h1 { font-size: 20px; }
+            .filter-bar { padding: 15px 20px; }
+            .header-meta { flex-direction: column; align-items: stretch; }
+            .progress-bar { min-width: auto; }
+        }
+
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: #f1f1f1; }
+        ::-webkit-scrollbar-thumb { background: #888; border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: #555; }
+    </style>
+</head>
+<body>
+    <div class="sidebar">
+        <h1>Golf Fanrecap</h1>
+        <div class="sidebar-date">Review Dashboard<br>2026-09-05</div>
+
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Content Types</div>
+            <div class="nav-item" onclick="filterByType('daily_brief')">
+                Daily Brief
+                <span class="nav-item-count">5</span>
+            </div>
+            <div class="nav-item" onclick="filterByType('x_post')">
+                X / Twitter Posts
+                <span class="nav-item-count">7</span>
+            </div>
+            <div class="nav-item" onclick="filterByType('article')">
+                Articles
+                <span class="nav-item-count">5</span>
+            </div>
+
+            <div class="nav-item" onclick="filterByType('all')">
+                All Items
+                <span class="nav-item-count">17</span>
+            </div>
+        </div>
+
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Status Filter</div>
+            <div class="nav-item" onclick="filterByStatus('all')">All</div>
+            <div class="nav-item" onclick="filterByStatus('unreviewed')">Unreviewed</div>
+            <div class="nav-item" onclick="filterByStatus('approved')">Approved</div>
+            <div class="nav-item" onclick="filterByStatus('needs-edit')">Needs Edit</div>
+            <div class="nav-item" onclick="filterByStatus('rejected')">Rejected</div>
+        </div>
+
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Actions</div>
+            <div class="nav-item" onclick="approveAll()" style="color: #22c55e;">
+                Approve All
+            </div>
+            <div class="nav-item" onclick="exportApprovals()" style="color: #FF8A00;">
+                Export Results JSON
+            </div>
+            <div class="nav-item" onclick="downloadPostPlannerCSV()" style="color: #a78bfa;">
+                PostPlanner Upload
+            </div>
+            <div class="nav-item" onclick="downloadTOBIExport()" style="color: #f472b6;">
+                TOBI Upload
+            </div>
+        </div>
+    </div>
+
+    <div class="main-content">
+        <div class="header">
+            <h1>Golf Fanrecap — Content Review Dashboard</h1>
+            <div class="header-meta">
+                <div class="progress-bar">
+                    <div class="progress-label">
+                        <span id="reviewed-count">0</span> of <span id="total-count">17</span> items reviewed
+                    </div>
+                    <div class="progress-container">
+                        <div class="progress-fill" id="progress-fill" style="width: 0%"></div>
+                    </div>
+                    <div class="approval-stats" id="approval-stats">
+                        <span class="stat-chip stat-approved"><span class="stat-dot"></span> <span id="stat-approved-count">0</span> approved</span>
+                        <span class="stat-chip stat-rejected"><span class="stat-dot"></span> <span id="stat-rejected-count">0</span> rejected</span>
+                        <span class="stat-chip stat-unreviewed"><span class="stat-dot"></span> <span id="stat-unreviewed-count">0</span> unreviewed</span>
+                    </div>
+                </div>
+                <div class="header-actions">
+                    <button class="btn btn-secondary" onclick="resetAll()">Reset All</button>
+                    <button class="btn btn-csv" id="btn-csv" onclick="downloadPostPlannerCSV()" disabled>PostPlanner Upload (0 approved)</button>
+                    <button class="btn btn-csv" id="btn-tobi" onclick="downloadTOBIExport()" disabled style="background: #831843; border-color: #f472b6;">TOBI Upload (0 approved)</button>
+                    <button class="btn btn-primary" onclick="exportApprovals()">Export JSON</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="filter-bar">
+            <button class="filter-btn active" onclick="filterByStatus('all')">All</button>
+            <button class="filter-btn" onclick="filterByStatus('unreviewed')">Unreviewed</button>
+            <button class="filter-btn" onclick="filterByStatus('approved')">Approved</button>
+            <button class="filter-btn" onclick="filterByStatus('needs-edit')">Needs Edit</button>
+            <button class="filter-btn" onclick="filterByStatus('rejected')">Rejected</button>
+        </div>
+
+
+        <div class="content">
+            <div class="cards-container" id="cards-container">
+                <div class="card" data-id="story-1-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Solheim Cup — Two Days Out (T1 Follow Up)</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-1-daily_brief">
+                        <div class="card-content-text">Solheim Cup — Two Days Out (T1 Follow Up)</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-1-daily_brief" placeholder="Edit content here...">Solheim Cup — Two Days Out (T1 Follow Up)</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-1-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-1-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-1-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-1-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-1-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-1-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-1-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-1-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-1-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-1-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-1-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-1-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Solheim Cup — Two Days Out (T1 Follow Up)</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 1-1</span><span class="tweet-meta-badge tweet-meta-tier">Tier 0</span><span class="tweet-meta-badge tweet-meta-hashtags">#SolheimCup</span></div>
+
+                    <div class="card-content expanded" id="content-story-1-x_post-1">
+                        <div class="card-content-text">The Solheim Cup is two days away.
+
+USA 🇺🇸 vs. Europe 🇪🇺 at Bernardus Golf in the Netherlands.
+
+Angela Stanford leads the defending champions. Anna Nordqvist captains Europe.
+
+Match play kicks off September 11. #SolheimCup</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-1-x_post-1" placeholder="Edit content here...">The Solheim Cup is two days away.
+
+USA 🇺🇸 vs. Europe 🇪🇺 at Bernardus Golf in the Netherlands.
+
+Angela Stanford leads the defending champions. Anna Nordqvist captains Europe.
+
+Match play kicks off September 11. #SolheimCup</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-1-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-1-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-1-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-1-x_post-1">Characters: 221/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-1-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-1-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-1-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-1-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-1-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-1-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-1-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-1-x_post-1"></div>
+                </div>
+                <div class="card" data-id="story-1-x_post-2" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Solheim Cup — Two Days Out (T1 Follow Up)</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 1-2</span><span class="tweet-meta-badge tweet-meta-tier">Tier 0</span><span class="tweet-meta-badge tweet-meta-hashtags">#SolheimCup</span></div>
+
+                    <div class="card-content expanded" id="content-story-1-x_post-2">
+                        <div class="card-content-text">Anna Nordqvist says picking her Solheim Cup pairings is a &quot;puzzle&quot; — too many good options.
+
+That&#x27;s a captain&#x27;s dream problem.
+
+Europe&#x27;s depth vs. USA&#x27;s firepower. September 11 can&#x27;t come soon enough. #SolheimCup</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-1-x_post-2" placeholder="Edit content here...">Anna Nordqvist says picking her Solheim Cup pairings is a &quot;puzzle&quot; — too many good options.
+
+That&#x27;s a captain&#x27;s dream problem.
+
+Europe&#x27;s depth vs. USA&#x27;s firepower. September 11 can&#x27;t come soon enough. #SolheimCup</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-1-x_post-2">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-1-x_post-2')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-1-x_post-2')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-1-x_post-2">Characters: 212/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-1-x_post-2">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-1-x_post-2')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-1-x_post-2')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-1-x_post-2')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-1-x_post-2')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-1-x_post-2">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-1-x_post-2" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-1-x_post-2"></div>
+                </div>
+                <div class="card" data-id="story-2-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">LIV Golf Bankruptcy Filing Expected (T1 Follow Up)</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-2-daily_brief">
+                        <div class="card-content-text">LIV Golf Bankruptcy Filing Expected (T1 Follow Up)</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-2-daily_brief" placeholder="Edit content here...">LIV Golf Bankruptcy Filing Expected (T1 Follow Up)</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-2-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-2-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-2-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-2-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-2-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-2-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-2-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-2-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-2-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-2-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-2-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-2-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">LIV Golf Bankruptcy Filing Expected (T1 Follow Up)</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 2-1</span><span class="tweet-meta-badge tweet-meta-tier">Tier 0</span><span class="tweet-meta-badge tweet-meta-hashtags">#LIVGolf</span></div>
+
+                    <div class="card-content expanded" id="content-story-2-x_post-1">
+                        <div class="card-content-text">LIV Golf&#x27;s Chapter 11 bankruptcy filing is expected as early as next week.
+
+NJ federal court. PIF loan: less than $100M.
+
+Players with multi-year guarantees could be left with pennies on the dollar. #LIVGolf</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-2-x_post-1" placeholder="Edit content here...">LIV Golf&#x27;s Chapter 11 bankruptcy filing is expected as early as next week.
+
+NJ federal court. PIF loan: less than $100M.
+
+Players with multi-year guarantees could be left with pennies on the dollar. #LIVGolf</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-2-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-2-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-2-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-2-x_post-1">Characters: 207/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-2-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-2-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-2-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-2-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-2-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-2-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-2-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-2-x_post-1"></div>
+                </div>
+                <div class="card" data-id="story-2-x_post-2" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">LIV Golf Bankruptcy Filing Expected (T1 Follow Up)</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 2-2</span><span class="tweet-meta-badge tweet-meta-tier">Tier 0</span><span class="tweet-meta-badge tweet-meta-hashtags">#LIVGolf</span></div>
+
+                    <div class="card-content expanded" id="content-story-2-x_post-2">
+                        <div class="card-content-text">LIV launched in 2022. Guaranteed contracts. Saudi backing. 48 players. 12 teams.
+
+Four years later: bankruptcy court.
+
+The most disruptive force professional golf had ever seen is about to file Chapter 11. #LIVGolf</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-2-x_post-2" placeholder="Edit content here...">LIV launched in 2022. Guaranteed contracts. Saudi backing. 48 players. 12 teams.
+
+Four years later: bankruptcy court.
+
+The most disruptive force professional golf had ever seen is about to file Chapter 11. #LIVGolf</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-2-x_post-2">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-2-x_post-2')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-2-x_post-2')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-2-x_post-2">Characters: 214/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-2-x_post-2">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-2-x_post-2')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-2-x_post-2')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-2-x_post-2')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-2-x_post-2')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-2-x_post-2">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-2-x_post-2" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-2-x_post-2"></div>
+                </div>
+                <div class="card" data-id="story-3-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Presidents Cup Rosters Confirmed — Snedeker Leads USA (T2 New)</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-3-daily_brief">
+                        <div class="card-content-text">Presidents Cup Rosters Confirmed — Snedeker Leads USA (T2 New)</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-3-daily_brief" placeholder="Edit content here...">Presidents Cup Rosters Confirmed — Snedeker Leads USA (T2 New)</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-3-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-3-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-3-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-3-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-3-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-3-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-3-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-3-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-3-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-3-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-3-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-3-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Presidents Cup Rosters Confirmed — Snedeker Leads USA (T2 New)</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 3</span><span class="tweet-meta-badge tweet-meta-tier">Tier 0</span><span class="tweet-meta-badge tweet-meta-hashtags">#PresidentsCup</span></div>
+
+                    <div class="card-content expanded" id="content-story-3-x_post-1">
+                        <div class="card-content-text">Presidents Cup rosters are set.
+
+Brandt Snedeker leads USA. Geoff Ogilvy captains International.
+
+Biggest surprise: 21-year-old Jackson Koivun earns a spot as a USA captain&#x27;s pick.
+
+Full rosters confirmed. #PresidentsCup</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-3-x_post-1" placeholder="Edit content here...">Presidents Cup rosters are set.
+
+Brandt Snedeker leads USA. Geoff Ogilvy captains International.
+
+Biggest surprise: 21-year-old Jackson Koivun earns a spot as a USA captain&#x27;s pick.
+
+Full rosters confirmed. #PresidentsCup</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-3-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-3-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-3-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-3-x_post-1">Characters: 220/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-3-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-3-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-3-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-3-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-3-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-3-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-3-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-3-x_post-1"></div>
+                </div>
+                <div class="card" data-id="story-4-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Biltmore Championship Asheville — New PGA Tour Event (T2 New)</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-4-daily_brief">
+                        <div class="card-content-text">Biltmore Championship Asheville — New PGA Tour Event (T2 New)</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-4-daily_brief" placeholder="Edit content here...">Biltmore Championship Asheville — New PGA Tour Event (T2 New)</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-4-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-4-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-4-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-4-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-4-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-4-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-4-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-4-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-4-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-4-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-4-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-4-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Biltmore Championship Asheville — New PGA Tour Event (T2 New)</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 4</span><span class="tweet-meta-badge tweet-meta-tier">Tier 0</span><span class="tweet-meta-badge tweet-meta-hashtags">#PGATour</span></div>
+
+                    <div class="card-content expanded" id="content-story-4-x_post-1">
+                        <div class="card-content-text">A brand-new PGA Tour stop is coming to Asheville, NC.
+
+The Biltmore Championship Asheville — September 17-20 at The Cliffs at Walnut Cove.
+
+First edition ever. Western North Carolina just joined the Tour schedule. #PGATour</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-4-x_post-1" placeholder="Edit content here...">A brand-new PGA Tour stop is coming to Asheville, NC.
+
+The Biltmore Championship Asheville — September 17-20 at The Cliffs at Walnut Cove.
+
+First edition ever. Western North Carolina just joined the Tour schedule. #PGATour</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-4-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-4-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-4-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-4-x_post-1">Characters: 222/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-4-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-4-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-4-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-4-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-4-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-4-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-4-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-4-x_post-1"></div>
+                </div>
+                <div class="card" data-id="story-5-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Nordqvist&#x27;s Pairings Puzzle — Inside Europe&#x27;s Solheim Strategy (T2 Follow Up)</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-5-daily_brief">
+                        <div class="card-content-text">Nordqvist&#x27;s Pairings Puzzle — Inside Europe&#x27;s Solheim Strategy (T2 Follow Up)</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-5-daily_brief" placeholder="Edit content here...">Nordqvist&#x27;s Pairings Puzzle — Inside Europe&#x27;s Solheim Strategy (T2 Follow Up)</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-5-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-5-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-5-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-5-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-5-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-5-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-5-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-5-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-5-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-5-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-5-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-5-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Nordqvist&#x27;s Pairings Puzzle — Inside Europe&#x27;s Solheim Strategy (T2 Follow Up)</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 5</span><span class="tweet-meta-badge tweet-meta-tier">Tier 0</span><span class="tweet-meta-badge tweet-meta-hashtags">#SolheimCup</span></div>
+
+                    <div class="card-content expanded" id="content-story-5-x_post-1">
+                        <div class="card-content-text">Anna Nordqvist on building her Solheim Cup lineup: &quot;It&#x27;s a puzzle.&quot;
+
+Europe has veterans and rookies who can all make an impact.
+
+The pairings will be revealed session by session. Match play starts September 11. #SolheimCup</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-5-x_post-1" placeholder="Edit content here...">Anna Nordqvist on building her Solheim Cup lineup: &quot;It&#x27;s a puzzle.&quot;
+
+Europe has veterans and rookies who can all make an impact.
+
+The pairings will be revealed session by session. Match play starts September 11. #SolheimCup</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-5-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-5-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-5-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-5-x_post-1">Characters: 223/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-5-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-5-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-5-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-5-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-5-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-5-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-5-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-5-x_post-1"></div>
+                </div>
+                <div class="card" data-id="article-article-01-solheim-cup-preview-usa-europe-netherlands" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Solheim Cup 2026 Preview — USA and Europe Ready for Match Play Showdown at Bernardus Golf</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-01-solheim-cup-preview-usa-europe-netherlands">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<title>Solheim Cup 2026 Preview — USA and Europe Ready for Match Play Showdown at Bernardus Golf</title>
+</head>
+<body>
+<article>
+  <header>
+    <h1>Solheim Cup 2026 Preview — USA and Europe Ready for Match Play Showdown at Bernardus Golf</h1>
+    <p><strong>By Ryan Calloway</strong> | Golf Fanrecap | September 5, 2026</p>
+  </header>
+
+  <section>
+    <p>In two days, the best women's golfers in the United States and Europe descend on Bernardus Golf in Cromvoirt, Netherlands, for the 2026 Solheim Cup. The competition begins September 7 with practice rounds and Pro-Am events. When match play starts September 11, one of professional golf's most intense rivalries resumes.</p>
+
+    <p>USA captain Angela Stanford carries the weight of defending champions. Europe captain Anna Nordqvist — herself a three-time major winner — is preparing to end that reign on home-continent soil.</p>
+  </section>
+
+  <section>
+    <h2>The Format and Schedule</h2>
+    <p>The Solheim Cup is a match play team competition played across three days of competition: foursomes and fourballs on September 11 and 12, followed by 12 singles matches on September 13. Each session carries points, and each match is either won, lost, or halved. The team that first reaches 14 points wins the cup.</p>
+
+    <p>Bernardus Golf is hosting the Solheim Cup for the first time. The course's parkland layout in the Dutch countryside provides a different test from the links-adjacent venues that often host the European leg — more manicured, more enclosed, with premium on ball-striking consistency across 18 holes.</p>
+  </section>
+
+  <section>
+    <h2>Angela Stanford's USA Side</h2>
+    <p>Stanford took over the USA captaincy with a clear mandate: keep winning. The American team has been dominant in recent editions of the Solheim Cup, and Stanford's roster reflects that continued depth. The United States has historically relied on strong major champions and world-ranked players to impose their quality in match play.</p>
+
+    <p>Defending the cup carries psychological weight. USA players know what it feels like to win the Solheim Cup. Stanford's task is channeling that confidence while preparing for an opponent playing with home-continent energy.</p>
+  </section>
+
+  <section>
+    <h2>Anna Nordqvist's Europe Puzzle</h2>
+    <p>Europe's Nordqvist described her pairings decisions as a &quot;puzzle&quot; with many options — the kind of problem a captain wants to have. The Europe roster includes a blend of experienced Solheim Cup campaigners and talented players making their debuts at this level.</p>
+
+    <p>In foursomes — alternate shot — pairing chemistry is everything. Veterans who know how to manage match play pressure are typically paired with younger players who bring raw energy. Nordqvist herself has lived those moments as a player. Now she brings that experience to the captain's room.</p>
+
+    <p>Europe has not won the Solheim Cup since 2019. Home-continent advantage at Bernardus Golf could be a factor. Dutch fans, European supporters, and the broader LPGA community will be watching to see whether Nordqvist can restore Europe to the top of the standings.</p>
+  </section>
+
+  <section>
+    <h2>What's Next</h2>
+    <p>Practice rounds begin Saturday, September 7. Pairings for the first session — foursomes on Thursday, September 11 — will be announced in the days before play begins. Both captains have full roster flexibility: they choose who plays and who sits for each session, and the order of singles is submitted simultaneously on the morning of September 13.</p>
+
+    <p>The Solheim Cup is professional golf's most compelling head-to-head team competition. Two days from now, Bernardus Golf finds out exactly what that looks like.</p>
+  </section>
+</article>
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-01-solheim-cup-preview-usa-europe-netherlands" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;title&gt;Solheim Cup 2026 Preview — USA and Europe Ready for Match Play Showdown at Bernardus Golf&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;article&gt;
+  &lt;header&gt;
+    &lt;h1&gt;Solheim Cup 2026 Preview — USA and Europe Ready for Match Play Showdown at Bernardus Golf&lt;/h1&gt;
+    &lt;p&gt;&lt;strong&gt;By Ryan Calloway&lt;/strong&gt; | Golf Fanrecap | September 5, 2026&lt;/p&gt;
+  &lt;/header&gt;
+
+  &lt;section&gt;
+    &lt;p&gt;In two days, the best women&#x27;s golfers in the United States and Europe descend on Bernardus Golf in Cromvoirt, Netherlands, for the 2026 Solheim Cup. The competition begins September 7 with practice rounds and Pro-Am events. When match play starts September 11, one of professional golf&#x27;s most intense rivalries resumes.&lt;/p&gt;
+
+    &lt;p&gt;USA captain Angela Stanford carries the weight of defending champions. Europe captain Anna Nordqvist — herself a three-time major winner — is preparing to end that reign on home-continent soil.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;The Format and Schedule&lt;/h2&gt;
+    &lt;p&gt;The Solheim Cup is a match play team competition played across three days of competition: foursomes and fourballs on September 11 and 12, followed by 12 singles matches on September 13. Each session carries points, and each match is either won, lost, or halved. The team that first reaches 14 points wins the cup.&lt;/p&gt;
+
+    &lt;p&gt;Bernardus Golf is hosting the Solheim Cup for the first time. The course&#x27;s parkland layout in the Dutch countryside provides a different test from the links-adjacent venues that often host the European leg — more manicured, more enclosed, with premium on ball-striking consistency across 18 holes.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;Angela Stanford&#x27;s USA Side&lt;/h2&gt;
+    &lt;p&gt;Stanford took over the USA captaincy with a clear mandate: keep winning. The American team has been dominant in recent editions of the Solheim Cup, and Stanford&#x27;s roster reflects that continued depth. The United States has historically relied on strong major champions and world-ranked players to impose their quality in match play.&lt;/p&gt;
+
+    &lt;p&gt;Defending the cup carries psychological weight. USA players know what it feels like to win the Solheim Cup. Stanford&#x27;s task is channeling that confidence while preparing for an opponent playing with home-continent energy.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;Anna Nordqvist&#x27;s Europe Puzzle&lt;/h2&gt;
+    &lt;p&gt;Europe&#x27;s Nordqvist described her pairings decisions as a &quot;puzzle&quot; with many options — the kind of problem a captain wants to have. The Europe roster includes a blend of experienced Solheim Cup campaigners and talented players making their debuts at this level.&lt;/p&gt;
+
+    &lt;p&gt;In foursomes — alternate shot — pairing chemistry is everything. Veterans who know how to manage match play pressure are typically paired with younger players who bring raw energy. Nordqvist herself has lived those moments as a player. Now she brings that experience to the captain&#x27;s room.&lt;/p&gt;
+
+    &lt;p&gt;Europe has not won the Solheim Cup since 2019. Home-continent advantage at Bernardus Golf could be a factor. Dutch fans, European supporters, and the broader LPGA community will be watching to see whether Nordqvist can restore Europe to the top of the standings.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+    &lt;p&gt;Practice rounds begin Saturday, September 7. Pairings for the first session — foursomes on Thursday, September 11 — will be announced in the days before play begins. Both captains have full roster flexibility: they choose who plays and who sits for each session, and the order of singles is submitted simultaneously on the morning of September 13.&lt;/p&gt;
+
+    &lt;p&gt;The Solheim Cup is professional golf&#x27;s most compelling head-to-head team competition. Two days from now, Bernardus Golf finds out exactly what that looks like.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-01-solheim-cup-preview-usa-europe-netherlands">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-01-solheim-cup-preview-usa-europe-netherlands')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-01-solheim-cup-preview-usa-europe-netherlands')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-01-solheim-cup-preview-usa-europe-netherlands">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-01-solheim-cup-preview-usa-europe-netherlands')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-01-solheim-cup-preview-usa-europe-netherlands')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-01-solheim-cup-preview-usa-europe-netherlands')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-01-solheim-cup-preview-usa-europe-netherlands')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-01-solheim-cup-preview-usa-europe-netherlands">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-01-solheim-cup-preview-usa-europe-netherlands" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-01-solheim-cup-preview-usa-europe-netherlands"></div>
+                </div>
+                <div class="card" data-id="article-article-02-liv-golf-bankruptcy-chapter-11-pif" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">LIV Golf&#x27;s Chapter 11 Bankruptcy Filing Is Coming — What It Means for Players and the Game</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-02-liv-golf-bankruptcy-chapter-11-pif">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<title>LIV Golf's Chapter 11 Bankruptcy Filing Is Coming — What It Means for Players and the Game</title>
+</head>
+<body>
+<article>
+  <header>
+    <h1>LIV Golf's Chapter 11 Bankruptcy Filing Is Coming — What It Means for Players and the Game</h1>
+    <p><strong>By Jake Torres</strong> | Golf Fanrecap | September 5, 2026</p>
+  </header>
+
+  <section>
+    <p>Four years after launching with Saudi billions and a promise to upend professional golf, LIV Golf is expected to file for Chapter 11 bankruptcy protection as early as the week of September 7. The filing will go through federal bankruptcy court in New Jersey. The league that promised to change everything has run out of road.</p>
+
+    <p>For the 48 players on LIV's 12 teams — many of whom signed multi-year guaranteed contracts worth tens of millions of dollars — the filing creates immediate and serious uncertainty about what those contracts are now worth.</p>
+  </section>
+
+  <section>
+    <h2>How It Got Here</h2>
+    <p>LIV Golf launched in 2022 with backing from Saudi Arabia's Public Investment Fund, the sovereign wealth fund that has invested across sports, technology, and real estate as part of the kingdom's Vision 2030 economic diversification strategy. The league recruited players aggressively, offering guaranteed money — a structure entirely foreign to traditional golf's prize-purse model — and promised a global tour with 14 events per season.</p>
+
+    <p>The strategy worked in attracting players. It never worked as a business. LIV struggled to secure major television distribution in its early years. A broadcast deal with The CW Network in the United States provided American reach, but ratings and advertising revenue never approached what was needed to offset player guarantees. The league relied on continuous PIF cash infusions to stay operational.</p>
+
+    <p>A hoped-for settlement or merger with the PGA Tour would have offered an exit. Those negotiations stalled and ultimately failed to produce a deal. Without the merger, LIV faced its guaranteed player obligations with no path to profitability in sight.</p>
+  </section>
+
+  <section>
+    <h2>The PIF Loan and What Comes Next</h2>
+    <p>The Saudi Public Investment Fund extended an emergency loan of less than $100 million to LIV Golf before the bankruptcy filing — a relatively small number given the scale of player contracts outstanding. That loan will make PIF a primary secured creditor in the bankruptcy proceedings.</p>
+
+    <p>Under Chapter 11, LIV can reorganize its debts or liquidate assets. Players with outstanding guaranteed contract payments are unsecured creditors — they stand behind secured lenders in priority. In a liquidation scenario, unsecured creditors historically receive a fraction of what they are owed. Players who received large upfront signing payments have already been paid those sums; those waiting on future installments face the most exposure.</p>
+
+    <p>The futures of LIV's 12 team entities — many owned by prominent investors and celebrities — are also uncertain. Some teams may have their own contractual claims. The bankruptcy process will take months to work through the competing interests.</p>
+  </section>
+
+  <section>
+    <h2>What It Means for Professional Golf</h2>
+    <p>LIV's bankruptcy, if it leads to dissolution, removes the primary alternative to PGA Tour and DP World Tour competition. Players who left for LIV and burned bridges with those tours face a complicated path back. The PGA Tour has not indicated blanket reinstatement policies for LIV players returning through a bankruptcy-driven dissolution.</p>
+
+    <p>The LIV experiment tested whether guaranteed money and a team format could attract a fanbase. The answer, ultimately, was not at scale — not without star power at the very top of the game, and not with a tour structure that left players with limited schedule flexibility and no world ranking points for years of its existence.</p>
+
+    <p>Professional golf continues. The Solheim Cup starts in two days. The Presidents Cup is coming. The PGA Tour just added a new event in Asheville, North Carolina. The game goes on — with or without the league that once claimed it would change everything.</p>
+  </section>
+</article>
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-02-liv-golf-bankruptcy-chapter-11-pif" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;title&gt;LIV Golf&#x27;s Chapter 11 Bankruptcy Filing Is Coming — What It Means for Players and the Game&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;article&gt;
+  &lt;header&gt;
+    &lt;h1&gt;LIV Golf&#x27;s Chapter 11 Bankruptcy Filing Is Coming — What It Means for Players and the Game&lt;/h1&gt;
+    &lt;p&gt;&lt;strong&gt;By Jake Torres&lt;/strong&gt; | Golf Fanrecap | September 5, 2026&lt;/p&gt;
+  &lt;/header&gt;
+
+  &lt;section&gt;
+    &lt;p&gt;Four years after launching with Saudi billions and a promise to upend professional golf, LIV Golf is expected to file for Chapter 11 bankruptcy protection as early as the week of September 7. The filing will go through federal bankruptcy court in New Jersey. The league that promised to change everything has run out of road.&lt;/p&gt;
+
+    &lt;p&gt;For the 48 players on LIV&#x27;s 12 teams — many of whom signed multi-year guaranteed contracts worth tens of millions of dollars — the filing creates immediate and serious uncertainty about what those contracts are now worth.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;How It Got Here&lt;/h2&gt;
+    &lt;p&gt;LIV Golf launched in 2022 with backing from Saudi Arabia&#x27;s Public Investment Fund, the sovereign wealth fund that has invested across sports, technology, and real estate as part of the kingdom&#x27;s Vision 2030 economic diversification strategy. The league recruited players aggressively, offering guaranteed money — a structure entirely foreign to traditional golf&#x27;s prize-purse model — and promised a global tour with 14 events per season.&lt;/p&gt;
+
+    &lt;p&gt;The strategy worked in attracting players. It never worked as a business. LIV struggled to secure major television distribution in its early years. A broadcast deal with The CW Network in the United States provided American reach, but ratings and advertising revenue never approached what was needed to offset player guarantees. The league relied on continuous PIF cash infusions to stay operational.&lt;/p&gt;
+
+    &lt;p&gt;A hoped-for settlement or merger with the PGA Tour would have offered an exit. Those negotiations stalled and ultimately failed to produce a deal. Without the merger, LIV faced its guaranteed player obligations with no path to profitability in sight.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;The PIF Loan and What Comes Next&lt;/h2&gt;
+    &lt;p&gt;The Saudi Public Investment Fund extended an emergency loan of less than $100 million to LIV Golf before the bankruptcy filing — a relatively small number given the scale of player contracts outstanding. That loan will make PIF a primary secured creditor in the bankruptcy proceedings.&lt;/p&gt;
+
+    &lt;p&gt;Under Chapter 11, LIV can reorganize its debts or liquidate assets. Players with outstanding guaranteed contract payments are unsecured creditors — they stand behind secured lenders in priority. In a liquidation scenario, unsecured creditors historically receive a fraction of what they are owed. Players who received large upfront signing payments have already been paid those sums; those waiting on future installments face the most exposure.&lt;/p&gt;
+
+    &lt;p&gt;The futures of LIV&#x27;s 12 team entities — many owned by prominent investors and celebrities — are also uncertain. Some teams may have their own contractual claims. The bankruptcy process will take months to work through the competing interests.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;What It Means for Professional Golf&lt;/h2&gt;
+    &lt;p&gt;LIV&#x27;s bankruptcy, if it leads to dissolution, removes the primary alternative to PGA Tour and DP World Tour competition. Players who left for LIV and burned bridges with those tours face a complicated path back. The PGA Tour has not indicated blanket reinstatement policies for LIV players returning through a bankruptcy-driven dissolution.&lt;/p&gt;
+
+    &lt;p&gt;The LIV experiment tested whether guaranteed money and a team format could attract a fanbase. The answer, ultimately, was not at scale — not without star power at the very top of the game, and not with a tour structure that left players with limited schedule flexibility and no world ranking points for years of its existence.&lt;/p&gt;
+
+    &lt;p&gt;Professional golf continues. The Solheim Cup starts in two days. The Presidents Cup is coming. The PGA Tour just added a new event in Asheville, North Carolina. The game goes on — with or without the league that once claimed it would change everything.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-02-liv-golf-bankruptcy-chapter-11-pif">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-02-liv-golf-bankruptcy-chapter-11-pif')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-02-liv-golf-bankruptcy-chapter-11-pif')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-02-liv-golf-bankruptcy-chapter-11-pif">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-02-liv-golf-bankruptcy-chapter-11-pif')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-02-liv-golf-bankruptcy-chapter-11-pif')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-02-liv-golf-bankruptcy-chapter-11-pif')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-02-liv-golf-bankruptcy-chapter-11-pif')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-02-liv-golf-bankruptcy-chapter-11-pif">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-02-liv-golf-bankruptcy-chapter-11-pif" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-02-liv-golf-bankruptcy-chapter-11-pif"></div>
+                </div>
+                <div class="card" data-id="article-article-03-presidents-cup-rosters-snedeker-koivun" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Presidents Cup Rosters Set — Snedeker Leads USA, Ogilvy Captains International, Koivun Is the Surprise Pick</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-03-presidents-cup-rosters-snedeker-koivun">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<title>Presidents Cup Rosters Set — Snedeker Leads USA, Ogilvy Captains International, Koivun Is the Surprise Pick</title>
+</head>
+<body>
+<article>
+  <header>
+    <h1>Presidents Cup Rosters Set — Snedeker Leads USA, Ogilvy Captains International, Koivun Is the Surprise Pick</h1>
+    <p><strong>By Marcus Cole</strong> | Golf Fanrecap | September 5, 2026</p>
+  </header>
+
+  <section>
+    <p>The 2026 Presidents Cup has its captains, its rosters, and its storylines. Full 12-man teams for both the United States and the International side were confirmed September 1, setting the stage for a biennial competition that pits USA against the rest of the world's best outside of Europe.</p>
+
+    <p>The headline from the USA announcement: it's Brandt Snedeker, not Tiger Woods.</p>
+  </section>
+
+  <section>
+    <h2>Snedeker Gets the Nod</h2>
+    <p>Tiger Woods had been the widely discussed candidate for the USA captaincy. His name carried the weight of a 15-time major champion, a cultural figure who transformed the sport, and a man who has gradually increased his involvement in golf administration and competition. The speculation was understandable.</p>
+
+    <p>But the PGA Tour's Presidents Cup committee selected Brandt Snedeker. The selection makes its own kind of sense. Snedeker, a popular figure in the locker room and a player who won the FedEx Cup in 2012, brings genuine credibility as a captain. He played in Presidents Cup teams himself, understands the match play dynamic, and has the trust of players who have competed alongside him at the tour level.</p>
+
+    <p>The USA roster reflects a team built around current world ranking and 2026 season performance. Snedeker's captain's picks completed the 12-player group, and among those picks is the most discussed selection on either side.</p>
+  </section>
+
+  <section>
+    <h2>Jackson Koivun at 21</h2>
+    <p>Jackson Koivun is 21 years old and is on the USA Presidents Cup team. Snedeker used a captain's pick on the youngest American to make either side's roster — a statement of belief in a player who has turned heads in 2026 with performances that justified the selection.</p>
+
+    <p>Koivun's presence reflects a calculation that match play can suit players who bring aggressive, committed golf. At 21, with no Presidents Cup history to weigh him down, Koivun arrives as a wild card — the kind of player who could make a session-winning difference or contribute meaningfully to the overall result. Snedeker's willingness to make that pick signals confidence both in the player and in his team's overall depth.</p>
+  </section>
+
+  <section>
+    <h2>Geoff Ogilvy's International Side</h2>
+    <p>Geoff Ogilvy — the Australian who won the 2006 U.S. Open at Winged Foot — leads the International team. The Presidents Cup International side draws from a broad pool: Australia, South Africa, Japan, South Korea, Colombia, and beyond. Ogilvy's own career gave him experience at the highest levels of major championship golf, and his captaincy brings a respected name and a tactician's approach.</p>
+
+    <p>The International side has historically been the underdog in Presidents Cup history, with USA holding a significant all-time record in the competition. Ogilvy's task is to build a team culture that can overcome that history and close the gap against a strong American squad.</p>
+  </section>
+
+  <section>
+    <h2>What's Next</h2>
+    <p>With rosters set, focus turns to the event itself, scheduled for later in the 2026 season. Presidents Cup week brings together a format — best-ball, foursomes, and singles — that rewards team cohesion as much as individual excellence. Both captains now have months to prepare their pairings strategies and set their teams' mindset. Snedeker and Ogilvy have their rosters. The competition begins when both teams tee it up.</p>
+  </section>
+</article>
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-03-presidents-cup-rosters-snedeker-koivun" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;title&gt;Presidents Cup Rosters Set — Snedeker Leads USA, Ogilvy Captains International, Koivun Is the Surprise Pick&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;article&gt;
+  &lt;header&gt;
+    &lt;h1&gt;Presidents Cup Rosters Set — Snedeker Leads USA, Ogilvy Captains International, Koivun Is the Surprise Pick&lt;/h1&gt;
+    &lt;p&gt;&lt;strong&gt;By Marcus Cole&lt;/strong&gt; | Golf Fanrecap | September 5, 2026&lt;/p&gt;
+  &lt;/header&gt;
+
+  &lt;section&gt;
+    &lt;p&gt;The 2026 Presidents Cup has its captains, its rosters, and its storylines. Full 12-man teams for both the United States and the International side were confirmed September 1, setting the stage for a biennial competition that pits USA against the rest of the world&#x27;s best outside of Europe.&lt;/p&gt;
+
+    &lt;p&gt;The headline from the USA announcement: it&#x27;s Brandt Snedeker, not Tiger Woods.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;Snedeker Gets the Nod&lt;/h2&gt;
+    &lt;p&gt;Tiger Woods had been the widely discussed candidate for the USA captaincy. His name carried the weight of a 15-time major champion, a cultural figure who transformed the sport, and a man who has gradually increased his involvement in golf administration and competition. The speculation was understandable.&lt;/p&gt;
+
+    &lt;p&gt;But the PGA Tour&#x27;s Presidents Cup committee selected Brandt Snedeker. The selection makes its own kind of sense. Snedeker, a popular figure in the locker room and a player who won the FedEx Cup in 2012, brings genuine credibility as a captain. He played in Presidents Cup teams himself, understands the match play dynamic, and has the trust of players who have competed alongside him at the tour level.&lt;/p&gt;
+
+    &lt;p&gt;The USA roster reflects a team built around current world ranking and 2026 season performance. Snedeker&#x27;s captain&#x27;s picks completed the 12-player group, and among those picks is the most discussed selection on either side.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;Jackson Koivun at 21&lt;/h2&gt;
+    &lt;p&gt;Jackson Koivun is 21 years old and is on the USA Presidents Cup team. Snedeker used a captain&#x27;s pick on the youngest American to make either side&#x27;s roster — a statement of belief in a player who has turned heads in 2026 with performances that justified the selection.&lt;/p&gt;
+
+    &lt;p&gt;Koivun&#x27;s presence reflects a calculation that match play can suit players who bring aggressive, committed golf. At 21, with no Presidents Cup history to weigh him down, Koivun arrives as a wild card — the kind of player who could make a session-winning difference or contribute meaningfully to the overall result. Snedeker&#x27;s willingness to make that pick signals confidence both in the player and in his team&#x27;s overall depth.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;Geoff Ogilvy&#x27;s International Side&lt;/h2&gt;
+    &lt;p&gt;Geoff Ogilvy — the Australian who won the 2006 U.S. Open at Winged Foot — leads the International team. The Presidents Cup International side draws from a broad pool: Australia, South Africa, Japan, South Korea, Colombia, and beyond. Ogilvy&#x27;s own career gave him experience at the highest levels of major championship golf, and his captaincy brings a respected name and a tactician&#x27;s approach.&lt;/p&gt;
+
+    &lt;p&gt;The International side has historically been the underdog in Presidents Cup history, with USA holding a significant all-time record in the competition. Ogilvy&#x27;s task is to build a team culture that can overcome that history and close the gap against a strong American squad.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+    &lt;p&gt;With rosters set, focus turns to the event itself, scheduled for later in the 2026 season. Presidents Cup week brings together a format — best-ball, foursomes, and singles — that rewards team cohesion as much as individual excellence. Both captains now have months to prepare their pairings strategies and set their teams&#x27; mindset. Snedeker and Ogilvy have their rosters. The competition begins when both teams tee it up.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-03-presidents-cup-rosters-snedeker-koivun">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-03-presidents-cup-rosters-snedeker-koivun')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-03-presidents-cup-rosters-snedeker-koivun')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-03-presidents-cup-rosters-snedeker-koivun">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-03-presidents-cup-rosters-snedeker-koivun')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-03-presidents-cup-rosters-snedeker-koivun')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-03-presidents-cup-rosters-snedeker-koivun')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-03-presidents-cup-rosters-snedeker-koivun')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-03-presidents-cup-rosters-snedeker-koivun">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-03-presidents-cup-rosters-snedeker-koivun" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-03-presidents-cup-rosters-snedeker-koivun"></div>
+                </div>
+                <div class="card" data-id="article-article-04-biltmore-championship-asheville-pga-tour-debut" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">The Biltmore Championship Is Coming to Asheville — What to Know About the PGA Tour&#x27;s Newest Event</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-04-biltmore-championship-asheville-pga-tour-debut">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<title>The Biltmore Championship Is Coming to Asheville — What to Know About the PGA Tour's Newest Event</title>
+</head>
+<body>
+<article>
+  <header>
+    <h1>The Biltmore Championship Is Coming to Asheville — What to Know About the PGA Tour's Newest Event</h1>
+    <p><strong>By Ryan Calloway</strong> | Golf Fanrecap | September 5, 2026</p>
+  </header>
+
+  <section>
+    <p>The PGA Tour's 2026 schedule has a new entry. The Biltmore Championship Asheville debuts September 17-20 at The Cliffs at Walnut Cove in Arden, North Carolina. It is the first time this event has ever been played, and it places professional golf in one of the most scenically distinctive cities in the American Southeast.</p>
+
+    <p>Asheville, North Carolina, sits in the Blue Ridge Mountains in the western part of the state. It's known for its arts scene, independent food culture, proximity to the Appalachian Trail, and — as the event name signals — its association with one of America's most famous historic estates.</p>
+  </section>
+
+  <section>
+    <h2>The Biltmore Name</h2>
+    <p>The Biltmore Estate is the historic country house built by George Washington Vanderbilt II in the late 19th century. At 178,926 square feet, it remains the largest privately owned house in the United States. The estate sits on thousands of acres in Asheville and draws over a million visitors per year as a tourist destination, hotel, and event venue.</p>
+
+    <p>The tournament name connects professional golf to that legacy — and to a city whose identity is tied to the mountains, the estate, and a heritage of high-quality craftwork. The branding is intentional: this is a tournament that wants to feel like a destination event from day one.</p>
+  </section>
+
+  <section>
+    <h2>The Cliffs at Walnut Cove</h2>
+    <p>The venue is The Cliffs at Walnut Cove, a private residential golf community located in Arden, just south of Asheville. Western North Carolina's topography creates a natural stage for golf — elevation changes, mountain views, tree-lined fairways, and conditions that can shift quickly given the region's weather patterns.</p>
+
+    <p>Hosting a PGA Tour event at a private club requires significant logistical preparation: spectator infrastructure, media facilities, volunteer coordination, and course conditioning to tour standards. The Cliffs at Walnut Cove is hosting this event for the first time, making the debut a logistical milestone as much as a competitive one.</p>
+  </section>
+
+  <section>
+    <h2>Why Now</h2>
+    <p>The PGA Tour has actively worked to expand its geographic footprint to reach markets and fan bases that don't regularly see professional golf in person. Asheville represents that kind of market — an outdoors-oriented, culturally engaged city with a growing professional population and proximity to Charlotte, Knoxville, and the broader western Carolina region.</p>
+
+    <p>Adding a new event to the schedule also responds to the competitive landscape that has shifted in 2026. With LIV Golf's expected bankruptcy filing, the PGA Tour has an opportunity to consolidate its position as professional golf's primary competitive home. New events in new markets strengthen that position.</p>
+  </section>
+
+  <section>
+    <h2>What's Next</h2>
+    <p>The Biltmore Championship Asheville tees off September 17. Field and purse details will be confirmed in the days ahead. For western North Carolina, it is a moment the local golf community has anticipated — professional tour golf, in the mountains, with a venue that fits the landscape it's in.</p>
+  </section>
+</article>
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-04-biltmore-championship-asheville-pga-tour-debut" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;title&gt;The Biltmore Championship Is Coming to Asheville — What to Know About the PGA Tour&#x27;s Newest Event&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;article&gt;
+  &lt;header&gt;
+    &lt;h1&gt;The Biltmore Championship Is Coming to Asheville — What to Know About the PGA Tour&#x27;s Newest Event&lt;/h1&gt;
+    &lt;p&gt;&lt;strong&gt;By Ryan Calloway&lt;/strong&gt; | Golf Fanrecap | September 5, 2026&lt;/p&gt;
+  &lt;/header&gt;
+
+  &lt;section&gt;
+    &lt;p&gt;The PGA Tour&#x27;s 2026 schedule has a new entry. The Biltmore Championship Asheville debuts September 17-20 at The Cliffs at Walnut Cove in Arden, North Carolina. It is the first time this event has ever been played, and it places professional golf in one of the most scenically distinctive cities in the American Southeast.&lt;/p&gt;
+
+    &lt;p&gt;Asheville, North Carolina, sits in the Blue Ridge Mountains in the western part of the state. It&#x27;s known for its arts scene, independent food culture, proximity to the Appalachian Trail, and — as the event name signals — its association with one of America&#x27;s most famous historic estates.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;The Biltmore Name&lt;/h2&gt;
+    &lt;p&gt;The Biltmore Estate is the historic country house built by George Washington Vanderbilt II in the late 19th century. At 178,926 square feet, it remains the largest privately owned house in the United States. The estate sits on thousands of acres in Asheville and draws over a million visitors per year as a tourist destination, hotel, and event venue.&lt;/p&gt;
+
+    &lt;p&gt;The tournament name connects professional golf to that legacy — and to a city whose identity is tied to the mountains, the estate, and a heritage of high-quality craftwork. The branding is intentional: this is a tournament that wants to feel like a destination event from day one.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;The Cliffs at Walnut Cove&lt;/h2&gt;
+    &lt;p&gt;The venue is The Cliffs at Walnut Cove, a private residential golf community located in Arden, just south of Asheville. Western North Carolina&#x27;s topography creates a natural stage for golf — elevation changes, mountain views, tree-lined fairways, and conditions that can shift quickly given the region&#x27;s weather patterns.&lt;/p&gt;
+
+    &lt;p&gt;Hosting a PGA Tour event at a private club requires significant logistical preparation: spectator infrastructure, media facilities, volunteer coordination, and course conditioning to tour standards. The Cliffs at Walnut Cove is hosting this event for the first time, making the debut a logistical milestone as much as a competitive one.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;Why Now&lt;/h2&gt;
+    &lt;p&gt;The PGA Tour has actively worked to expand its geographic footprint to reach markets and fan bases that don&#x27;t regularly see professional golf in person. Asheville represents that kind of market — an outdoors-oriented, culturally engaged city with a growing professional population and proximity to Charlotte, Knoxville, and the broader western Carolina region.&lt;/p&gt;
+
+    &lt;p&gt;Adding a new event to the schedule also responds to the competitive landscape that has shifted in 2026. With LIV Golf&#x27;s expected bankruptcy filing, the PGA Tour has an opportunity to consolidate its position as professional golf&#x27;s primary competitive home. New events in new markets strengthen that position.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+    &lt;p&gt;The Biltmore Championship Asheville tees off September 17. Field and purse details will be confirmed in the days ahead. For western North Carolina, it is a moment the local golf community has anticipated — professional tour golf, in the mountains, with a venue that fits the landscape it&#x27;s in.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-04-biltmore-championship-asheville-pga-tour-debut">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-04-biltmore-championship-asheville-pga-tour-debut')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-04-biltmore-championship-asheville-pga-tour-debut')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-04-biltmore-championship-asheville-pga-tour-debut">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-04-biltmore-championship-asheville-pga-tour-debut')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-04-biltmore-championship-asheville-pga-tour-debut')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-04-biltmore-championship-asheville-pga-tour-debut')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-04-biltmore-championship-asheville-pga-tour-debut')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-04-biltmore-championship-asheville-pga-tour-debut">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-04-biltmore-championship-asheville-pga-tour-debut" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-04-biltmore-championship-asheville-pga-tour-debut"></div>
+                </div>
+                <div class="card" data-id="article-article-05-nordqvist-solheim-cup-captain-pairings-puzzle" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Anna Nordqvist&#x27;s Pairings Puzzle — Inside Europe&#x27;s Solheim Cup Strategy</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-05-nordqvist-solheim-cup-captain-pairings-puzzle">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<title>Anna Nordqvist's Pairings Puzzle — Inside Europe's Solheim Cup Strategy</title>
+</head>
+<body>
+<article>
+  <header>
+    <h1>Anna Nordqvist's Pairings Puzzle — Inside Europe's Solheim Cup Strategy</h1>
+    <p><strong>By Jake Torres</strong> | Golf Fanrecap | September 5, 2026</p>
+  </header>
+
+  <section>
+    <p>When Anna Nordqvist says her Solheim Cup pairings feel like a &quot;puzzle,&quot; she isn't complaining. She's describing a captain's ideal situation: more good options than she has session slots to fill.</p>
+
+    <p>The Europe captain has her 12-player roster set for the 2026 Solheim Cup at Bernardus Golf in the Netherlands. What she's working through now — and will be working through until the morning of each session — is who plays with whom, who sits, and when each player is best deployed over three days of competition starting September 11.</p>
+  </section>
+
+  <section>
+    <h2>Why Pairings Matter in Match Play</h2>
+    <p>The Solheim Cup's format demands strategic thinking that goes far beyond simply fielding your 12 best players. In foursomes — alternate shot — two players share a single ball and take turns hitting. Chemistry, communication, and complementary ball-striking are essential. A pairing that looks strong on paper can fall apart if the players' shot shapes don't fit together, or if their temperaments clash under match play pressure.</p>
+
+    <p>Fourballs — both players playing their own ball, best score counting — is different. There, you want aggression. Players who can go low, who don't blink when the match gets tight, who give their partner the freedom to attack because they know a solid score is already on the card.</p>
+
+    <p>Singles on September 13 are a different calculus again. The captain decides the order: do you front-load with your strongest players to take an early lead, or scatter them to apply pressure throughout the draw?</p>
+  </section>
+
+  <section>
+    <h2>The Nordqvist Advantage</h2>
+    <p>Anna Nordqvist has been in these matches. She is a three-time major champion — ANA Inspiration titles and the Women's British Open — and a Solheim Cup veteran who knows what it looks like when pairings click and when they don't. As a player, she experienced the dynamics she's now navigating as a captain.</p>
+
+    <p>That playing experience is an underrated asset in captaincy. Nordqvist understands which conversations to have with players, which pairings might surprise an opponent, and what kinds of challenges the Netherlands course conditions might create for particular game styles. Her preparation isn't just about the standings — it's about the match.</p>
+  </section>
+
+  <section>
+    <h2>Veterans and Rookies</h2>
+    <p>Europe's roster includes established Solheim Cup campaigners who have won and lost these matches before, alongside players who are new to this level of team competition. Managing that balance is part of the puzzle. Rookies need pairing partners who can steady them when the crowd gets loud, the pressure mounts, and experience suddenly feels like the only thing that matters.</p>
+
+    <p>At the same time, Nordqvist knows that rookies can win matches. Fresh energy, nothing to lose, a point earned that nobody expected — it's happened in every Solheim Cup. Her pairings strategy almost certainly factors in where a motivated rookie might be the right surprise choice.</p>
+  </section>
+
+  <section>
+    <h2>What's Next</h2>
+    <p>Nordqvist will announce her pairings session by session. The pairings for the first foursomes — Thursday, September 11 — will be released ahead of play. Fans, analysts, and the USA coaching staff will all study them immediately. The captain's puzzle becomes public information at that moment.</p>
+
+    <p>Until then, Nordqvist keeps her options close. The pieces are on the board. Match play starts September 11 at Bernardus Golf. The solution to the puzzle is on its way.</p>
+  </section>
+</article>
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-05-nordqvist-solheim-cup-captain-pairings-puzzle" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;title&gt;Anna Nordqvist&#x27;s Pairings Puzzle — Inside Europe&#x27;s Solheim Cup Strategy&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;article&gt;
+  &lt;header&gt;
+    &lt;h1&gt;Anna Nordqvist&#x27;s Pairings Puzzle — Inside Europe&#x27;s Solheim Cup Strategy&lt;/h1&gt;
+    &lt;p&gt;&lt;strong&gt;By Jake Torres&lt;/strong&gt; | Golf Fanrecap | September 5, 2026&lt;/p&gt;
+  &lt;/header&gt;
+
+  &lt;section&gt;
+    &lt;p&gt;When Anna Nordqvist says her Solheim Cup pairings feel like a &quot;puzzle,&quot; she isn&#x27;t complaining. She&#x27;s describing a captain&#x27;s ideal situation: more good options than she has session slots to fill.&lt;/p&gt;
+
+    &lt;p&gt;The Europe captain has her 12-player roster set for the 2026 Solheim Cup at Bernardus Golf in the Netherlands. What she&#x27;s working through now — and will be working through until the morning of each session — is who plays with whom, who sits, and when each player is best deployed over three days of competition starting September 11.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;Why Pairings Matter in Match Play&lt;/h2&gt;
+    &lt;p&gt;The Solheim Cup&#x27;s format demands strategic thinking that goes far beyond simply fielding your 12 best players. In foursomes — alternate shot — two players share a single ball and take turns hitting. Chemistry, communication, and complementary ball-striking are essential. A pairing that looks strong on paper can fall apart if the players&#x27; shot shapes don&#x27;t fit together, or if their temperaments clash under match play pressure.&lt;/p&gt;
+
+    &lt;p&gt;Fourballs — both players playing their own ball, best score counting — is different. There, you want aggression. Players who can go low, who don&#x27;t blink when the match gets tight, who give their partner the freedom to attack because they know a solid score is already on the card.&lt;/p&gt;
+
+    &lt;p&gt;Singles on September 13 are a different calculus again. The captain decides the order: do you front-load with your strongest players to take an early lead, or scatter them to apply pressure throughout the draw?&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;The Nordqvist Advantage&lt;/h2&gt;
+    &lt;p&gt;Anna Nordqvist has been in these matches. She is a three-time major champion — ANA Inspiration titles and the Women&#x27;s British Open — and a Solheim Cup veteran who knows what it looks like when pairings click and when they don&#x27;t. As a player, she experienced the dynamics she&#x27;s now navigating as a captain.&lt;/p&gt;
+
+    &lt;p&gt;That playing experience is an underrated asset in captaincy. Nordqvist understands which conversations to have with players, which pairings might surprise an opponent, and what kinds of challenges the Netherlands course conditions might create for particular game styles. Her preparation isn&#x27;t just about the standings — it&#x27;s about the match.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;Veterans and Rookies&lt;/h2&gt;
+    &lt;p&gt;Europe&#x27;s roster includes established Solheim Cup campaigners who have won and lost these matches before, alongside players who are new to this level of team competition. Managing that balance is part of the puzzle. Rookies need pairing partners who can steady them when the crowd gets loud, the pressure mounts, and experience suddenly feels like the only thing that matters.&lt;/p&gt;
+
+    &lt;p&gt;At the same time, Nordqvist knows that rookies can win matches. Fresh energy, nothing to lose, a point earned that nobody expected — it&#x27;s happened in every Solheim Cup. Her pairings strategy almost certainly factors in where a motivated rookie might be the right surprise choice.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+    &lt;p&gt;Nordqvist will announce her pairings session by session. The pairings for the first foursomes — Thursday, September 11 — will be released ahead of play. Fans, analysts, and the USA coaching staff will all study them immediately. The captain&#x27;s puzzle becomes public information at that moment.&lt;/p&gt;
+
+    &lt;p&gt;Until then, Nordqvist keeps her options close. The pieces are on the board. Match play starts September 11 at Bernardus Golf. The solution to the puzzle is on its way.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-05-nordqvist-solheim-cup-captain-pairings-puzzle">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-05-nordqvist-solheim-cup-captain-pairings-puzzle')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-05-nordqvist-solheim-cup-captain-pairings-puzzle')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-05-nordqvist-solheim-cup-captain-pairings-puzzle">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-05-nordqvist-solheim-cup-captain-pairings-puzzle')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-05-nordqvist-solheim-cup-captain-pairings-puzzle')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-05-nordqvist-solheim-cup-captain-pairings-puzzle')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-05-nordqvist-solheim-cup-captain-pairings-puzzle')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-05-nordqvist-solheim-cup-captain-pairings-puzzle">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-05-nordqvist-solheim-cup-captain-pairings-puzzle" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-05-nordqvist-solheim-cup-captain-pairings-puzzle"></div>
+                </div>
+            </div>
+
+            <div class="empty-state" id="empty-state" style="display: none;">
+                <div class="empty-state-icon">No items match your filter</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Schedule settings modal -->
+    <div class="schedule-overlay" id="schedule-overlay" onclick="closeSchedulePanel()"></div>
+    <div class="schedule-panel" id="schedule-panel">
+        <h3>Posting Schedule Settings</h3>
+        <div class="schedule-section">
+            <label>Post Date (defaults to content date)</label>
+            <input type="date" id="schedule-date" />
+        </div>
+        <div class="schedule-section">
+            <label>X / Twitter Time Slots</label>
+            <div class="time-slots" id="x-time-slots"></div>
+            <div style="margin-top:8px;">
+                <input type="time" id="new-x-time" style="width:auto;display:inline-block;margin-right:8px;" />
+                <span class="add-slot-btn" onclick="addTimeSlot('x')">+ Add Slot</span>
+            </div>
+        </div>
+        <div class="schedule-section">
+            <label>Facebook Time Slots</label>
+            <div class="time-slots" id="fb-time-slots"></div>
+            <div style="margin-top:8px;">
+                <input type="time" id="new-fb-time" style="width:auto;display:inline-block;margin-right:8px;" />
+                <span class="add-slot-btn" onclick="addTimeSlot('fb')">+ Add Slot</span>
+            </div>
+        </div>
+        <div class="schedule-section" style="background:#f9f9f9;padding:12px;border-radius:6px;font-size:12px;color:#666;">
+            Posts will be assigned to time slots in order. If you have more posts than slots, they wrap around. After downloading, upload the file directly to PostPlanner via Bulk Upload.
+        </div>
+        <div class="schedule-actions">
+            <button class="btn btn-secondary" onclick="closeSchedulePanel()">Cancel</button>
+            <button class="btn btn-csv" onclick="generateAndDownload()">Generate &amp; Download XLSX</button>
+        </div>
+    </div>
+
+    <!-- SheetJS for XLSX generation (loaded async so it doesn't block) -->
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+    <script>
+
+        const DATE = '2026-09-05';
+        const BRAND_NAME = 'Golf Fanrecap';
+        const REVIEW_STORAGE_KEY = 'golf-content-review';
+        const SCHEDULE_STORAGE_KEY = 'golf-content-schedule-config';
+        const PHOTO_SOURCE = 'imagn';
+        let reviewData = {};
+        const allStories = [{"id": "story-1-daily_brief", "title": "Solheim Cup \u2014 Two Days Out (T1 Follow Up)", "content": "Solheim Cup \u2014 Two Days Out (T1 Follow Up)", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-1-x_post-1", "title": "Solheim Cup \u2014 Two Days Out (T1 Follow Up)", "content": "The Solheim Cup is two days away.\n\nUSA \ud83c\uddfa\ud83c\uddf8 vs. Europe \ud83c\uddea\ud83c\uddfa at Bernardus Golf in the Netherlands.\n\nAngela Stanford leads the defending champions. Anna Nordqvist captains Europe.\n\nMatch play kicks off September 11. #SolheimCup", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#SolheimCup", "tweet_label": "Post 1-1"}, {"id": "story-1-x_post-2", "title": "Solheim Cup \u2014 Two Days Out (T1 Follow Up)", "content": "Anna Nordqvist says picking her Solheim Cup pairings is a \"puzzle\" \u2014 too many good options.\n\nThat's a captain's dream problem.\n\nEurope's depth vs. USA's firepower. September 11 can't come soon enough. #SolheimCup", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#SolheimCup", "tweet_label": "Post 1-2"}, {"id": "story-2-daily_brief", "title": "LIV Golf Bankruptcy Filing Expected (T1 Follow Up)", "content": "LIV Golf Bankruptcy Filing Expected (T1 Follow Up)", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-2-x_post-1", "title": "LIV Golf Bankruptcy Filing Expected (T1 Follow Up)", "content": "LIV Golf's Chapter 11 bankruptcy filing is expected as early as next week.\n\nNJ federal court. PIF loan: less than $100M.\n\nPlayers with multi-year guarantees could be left with pennies on the dollar. #LIVGolf", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#LIVGolf", "tweet_label": "Post 2-1"}, {"id": "story-2-x_post-2", "title": "LIV Golf Bankruptcy Filing Expected (T1 Follow Up)", "content": "LIV launched in 2022. Guaranteed contracts. Saudi backing. 48 players. 12 teams.\n\nFour years later: bankruptcy court.\n\nThe most disruptive force professional golf had ever seen is about to file Chapter 11. #LIVGolf", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#LIVGolf", "tweet_label": "Post 2-2"}, {"id": "story-3-daily_brief", "title": "Presidents Cup Rosters Confirmed \u2014 Snedeker Leads USA (T2 New)", "content": "Presidents Cup Rosters Confirmed \u2014 Snedeker Leads USA (T2 New)", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-3-x_post-1", "title": "Presidents Cup Rosters Confirmed \u2014 Snedeker Leads USA (T2 New)", "content": "Presidents Cup rosters are set.\n\nBrandt Snedeker leads USA. Geoff Ogilvy captains International.\n\nBiggest surprise: 21-year-old Jackson Koivun earns a spot as a USA captain's pick.\n\nFull rosters confirmed. #PresidentsCup", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#PresidentsCup", "tweet_label": "Post 3"}, {"id": "story-4-daily_brief", "title": "Biltmore Championship Asheville \u2014 New PGA Tour Event (T2 New)", "content": "Biltmore Championship Asheville \u2014 New PGA Tour Event (T2 New)", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-4-x_post-1", "title": "Biltmore Championship Asheville \u2014 New PGA Tour Event (T2 New)", "content": "A brand-new PGA Tour stop is coming to Asheville, NC.\n\nThe Biltmore Championship Asheville \u2014 September 17-20 at The Cliffs at Walnut Cove.\n\nFirst edition ever. Western North Carolina just joined the Tour schedule. #PGATour", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#PGATour", "tweet_label": "Post 4"}, {"id": "story-5-daily_brief", "title": "Nordqvist's Pairings Puzzle \u2014 Inside Europe's Solheim Strategy (T2 Follow Up)", "content": "Nordqvist's Pairings Puzzle \u2014 Inside Europe's Solheim Strategy (T2 Follow Up)", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-5-x_post-1", "title": "Nordqvist's Pairings Puzzle \u2014 Inside Europe's Solheim Strategy (T2 Follow Up)", "content": "Anna Nordqvist on building her Solheim Cup lineup: \"It's a puzzle.\"\n\nEurope has veterans and rookies who can all make an impact.\n\nThe pairings will be revealed session by session. Match play starts September 11. #SolheimCup", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#SolheimCup", "tweet_label": "Post 5"}, {"id": "article-article-01-solheim-cup-preview-usa-europe-netherlands", "title": "Solheim Cup 2026 Preview \u2014 USA and Europe Ready for Match Play Showdown at Bernardus Golf", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Solheim Cup 2026 Preview \u2014 USA and Europe Ready for Match Play Showdown at Bernardus Golf<\/title>\n<\/head>\n<body>\n<article>\n  <header>\n    <h1>Solheim Cup 2026 Preview \u2014 USA and Europe Ready for Match Play Showdown at Bernardus Golf<\/h1>\n    <p><strong>By Ryan Calloway<\/strong> | Golf Fanrecap | September 5, 2026<\/p>\n  <\/header>\n\n  <section>\n    <p>In two days, the best women's golfers in the United States and Europe descend on Bernardus Golf in Cromvoirt, Netherlands, for the 2026 Solheim Cup. The competition begins September 7 with practice rounds and Pro-Am events. When match play starts September 11, one of professional golf's most intense rivalries resumes.<\/p>\n\n    <p>USA captain Angela Stanford carries the weight of defending champions. Europe captain Anna Nordqvist \u2014 herself a three-time major winner \u2014 is preparing to end that reign on home-continent soil.<\/p>\n  <\/section>\n\n  <section>\n    <h2>The Format and Schedule<\/h2>\n    <p>The Solheim Cup is a match play team competition played across three days of competition: foursomes and fourballs on September 11 and 12, followed by 12 singles matches on September 13. Each session carries points, and each match is either won, lost, or halved. The team that first reaches 14 points wins the cup.<\/p>\n\n    <p>Bernardus Golf is hosting the Solheim Cup for the first time. The course's parkland layout in the Dutch countryside provides a different test from the links-adjacent venues that often host the European leg \u2014 more manicured, more enclosed, with premium on ball-striking consistency across 18 holes.<\/p>\n  <\/section>\n\n  <section>\n    <h2>Angela Stanford's USA Side<\/h2>\n    <p>Stanford took over the USA captaincy with a clear mandate: keep winning. The American team has been dominant in recent editions of the Solheim Cup, and Stanford's roster reflects that continued depth. The United States has historically relied on strong major champions and world-ranked players to impose their quality in match play.<\/p>\n\n    <p>Defending the cup carries psychological weight. USA players know what it feels like to win the Solheim Cup. Stanford's task is channeling that confidence while preparing for an opponent playing with home-continent energy.<\/p>\n  <\/section>\n\n  <section>\n    <h2>Anna Nordqvist's Europe Puzzle<\/h2>\n    <p>Europe's Nordqvist described her pairings decisions as a \"puzzle\" with many options \u2014 the kind of problem a captain wants to have. The Europe roster includes a blend of experienced Solheim Cup campaigners and talented players making their debuts at this level.<\/p>\n\n    <p>In foursomes \u2014 alternate shot \u2014 pairing chemistry is everything. Veterans who know how to manage match play pressure are typically paired with younger players who bring raw energy. Nordqvist herself has lived those moments as a player. Now she brings that experience to the captain's room.<\/p>\n\n    <p>Europe has not won the Solheim Cup since 2019. Home-continent advantage at Bernardus Golf could be a factor. Dutch fans, European supporters, and the broader LPGA community will be watching to see whether Nordqvist can restore Europe to the top of the standings.<\/p>\n  <\/section>\n\n  <section>\n    <h2>What's Next<\/h2>\n    <p>Practice rounds begin Saturday, September 7. Pairings for the first session \u2014 foursomes on Thursday, September 11 \u2014 will be announced in the days before play begins. Both captains have full roster flexibility: they choose who plays and who sits for each session, and the order of singles is submitted simultaneously on the morning of September 13.<\/p>\n\n    <p>The Solheim Cup is professional golf's most compelling head-to-head team competition. Two days from now, Bernardus Golf finds out exactly what that looks like.<\/p>\n  <\/section>\n<\/article>\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-02-liv-golf-bankruptcy-chapter-11-pif", "title": "LIV Golf's Chapter 11 Bankruptcy Filing Is Coming \u2014 What It Means for Players and the Game", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<title>LIV Golf's Chapter 11 Bankruptcy Filing Is Coming \u2014 What It Means for Players and the Game<\/title>\n<\/head>\n<body>\n<article>\n  <header>\n    <h1>LIV Golf's Chapter 11 Bankruptcy Filing Is Coming \u2014 What It Means for Players and the Game<\/h1>\n    <p><strong>By Jake Torres<\/strong> | Golf Fanrecap | September 5, 2026<\/p>\n  <\/header>\n\n  <section>\n    <p>Four years after launching with Saudi billions and a promise to upend professional golf, LIV Golf is expected to file for Chapter 11 bankruptcy protection as early as the week of September 7. The filing will go through federal bankruptcy court in New Jersey. The league that promised to change everything has run out of road.<\/p>\n\n    <p>For the 48 players on LIV's 12 teams \u2014 many of whom signed multi-year guaranteed contracts worth tens of millions of dollars \u2014 the filing creates immediate and serious uncertainty about what those contracts are now worth.<\/p>\n  <\/section>\n\n  <section>\n    <h2>How It Got Here<\/h2>\n    <p>LIV Golf launched in 2022 with backing from Saudi Arabia's Public Investment Fund, the sovereign wealth fund that has invested across sports, technology, and real estate as part of the kingdom's Vision 2030 economic diversification strategy. The league recruited players aggressively, offering guaranteed money \u2014 a structure entirely foreign to traditional golf's prize-purse model \u2014 and promised a global tour with 14 events per season.<\/p>\n\n    <p>The strategy worked in attracting players. It never worked as a business. LIV struggled to secure major television distribution in its early years. A broadcast deal with The CW Network in the United States provided American reach, but ratings and advertising revenue never approached what was needed to offset player guarantees. The league relied on continuous PIF cash infusions to stay operational.<\/p>\n\n    <p>A hoped-for settlement or merger with the PGA Tour would have offered an exit. Those negotiations stalled and ultimately failed to produce a deal. Without the merger, LIV faced its guaranteed player obligations with no path to profitability in sight.<\/p>\n  <\/section>\n\n  <section>\n    <h2>The PIF Loan and What Comes Next<\/h2>\n    <p>The Saudi Public Investment Fund extended an emergency loan of less than $100 million to LIV Golf before the bankruptcy filing \u2014 a relatively small number given the scale of player contracts outstanding. That loan will make PIF a primary secured creditor in the bankruptcy proceedings.<\/p>\n\n    <p>Under Chapter 11, LIV can reorganize its debts or liquidate assets. Players with outstanding guaranteed contract payments are unsecured creditors \u2014 they stand behind secured lenders in priority. In a liquidation scenario, unsecured creditors historically receive a fraction of what they are owed. Players who received large upfront signing payments have already been paid those sums; those waiting on future installments face the most exposure.<\/p>\n\n    <p>The futures of LIV's 12 team entities \u2014 many owned by prominent investors and celebrities \u2014 are also uncertain. Some teams may have their own contractual claims. The bankruptcy process will take months to work through the competing interests.<\/p>\n  <\/section>\n\n  <section>\n    <h2>What It Means for Professional Golf<\/h2>\n    <p>LIV's bankruptcy, if it leads to dissolution, removes the primary alternative to PGA Tour and DP World Tour competition. Players who left for LIV and burned bridges with those tours face a complicated path back. The PGA Tour has not indicated blanket reinstatement policies for LIV players returning through a bankruptcy-driven dissolution.<\/p>\n\n    <p>The LIV experiment tested whether guaranteed money and a team format could attract a fanbase. The answer, ultimately, was not at scale \u2014 not without star power at the very top of the game, and not with a tour structure that left players with limited schedule flexibility and no world ranking points for years of its existence.<\/p>\n\n    <p>Professional golf continues. The Solheim Cup starts in two days. The Presidents Cup is coming. The PGA Tour just added a new event in Asheville, North Carolina. The game goes on \u2014 with or without the league that once claimed it would change everything.<\/p>\n  <\/section>\n<\/article>\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-03-presidents-cup-rosters-snedeker-koivun", "title": "Presidents Cup Rosters Set \u2014 Snedeker Leads USA, Ogilvy Captains International, Koivun Is the Surprise Pick", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Presidents Cup Rosters Set \u2014 Snedeker Leads USA, Ogilvy Captains International, Koivun Is the Surprise Pick<\/title>\n<\/head>\n<body>\n<article>\n  <header>\n    <h1>Presidents Cup Rosters Set \u2014 Snedeker Leads USA, Ogilvy Captains International, Koivun Is the Surprise Pick<\/h1>\n    <p><strong>By Marcus Cole<\/strong> | Golf Fanrecap | September 5, 2026<\/p>\n  <\/header>\n\n  <section>\n    <p>The 2026 Presidents Cup has its captains, its rosters, and its storylines. Full 12-man teams for both the United States and the International side were confirmed September 1, setting the stage for a biennial competition that pits USA against the rest of the world's best outside of Europe.<\/p>\n\n    <p>The headline from the USA announcement: it's Brandt Snedeker, not Tiger Woods.<\/p>\n  <\/section>\n\n  <section>\n    <h2>Snedeker Gets the Nod<\/h2>\n    <p>Tiger Woods had been the widely discussed candidate for the USA captaincy. His name carried the weight of a 15-time major champion, a cultural figure who transformed the sport, and a man who has gradually increased his involvement in golf administration and competition. The speculation was understandable.<\/p>\n\n    <p>But the PGA Tour's Presidents Cup committee selected Brandt Snedeker. The selection makes its own kind of sense. Snedeker, a popular figure in the locker room and a player who won the FedEx Cup in 2012, brings genuine credibility as a captain. He played in Presidents Cup teams himself, understands the match play dynamic, and has the trust of players who have competed alongside him at the tour level.<\/p>\n\n    <p>The USA roster reflects a team built around current world ranking and 2026 season performance. Snedeker's captain's picks completed the 12-player group, and among those picks is the most discussed selection on either side.<\/p>\n  <\/section>\n\n  <section>\n    <h2>Jackson Koivun at 21<\/h2>\n    <p>Jackson Koivun is 21 years old and is on the USA Presidents Cup team. Snedeker used a captain's pick on the youngest American to make either side's roster \u2014 a statement of belief in a player who has turned heads in 2026 with performances that justified the selection.<\/p>\n\n    <p>Koivun's presence reflects a calculation that match play can suit players who bring aggressive, committed golf. At 21, with no Presidents Cup history to weigh him down, Koivun arrives as a wild card \u2014 the kind of player who could make a session-winning difference or contribute meaningfully to the overall result. Snedeker's willingness to make that pick signals confidence both in the player and in his team's overall depth.<\/p>\n  <\/section>\n\n  <section>\n    <h2>Geoff Ogilvy's International Side<\/h2>\n    <p>Geoff Ogilvy \u2014 the Australian who won the 2006 U.S. Open at Winged Foot \u2014 leads the International team. The Presidents Cup International side draws from a broad pool: Australia, South Africa, Japan, South Korea, Colombia, and beyond. Ogilvy's own career gave him experience at the highest levels of major championship golf, and his captaincy brings a respected name and a tactician's approach.<\/p>\n\n    <p>The International side has historically been the underdog in Presidents Cup history, with USA holding a significant all-time record in the competition. Ogilvy's task is to build a team culture that can overcome that history and close the gap against a strong American squad.<\/p>\n  <\/section>\n\n  <section>\n    <h2>What's Next<\/h2>\n    <p>With rosters set, focus turns to the event itself, scheduled for later in the 2026 season. Presidents Cup week brings together a format \u2014 best-ball, foursomes, and singles \u2014 that rewards team cohesion as much as individual excellence. Both captains now have months to prepare their pairings strategies and set their teams' mindset. Snedeker and Ogilvy have their rosters. The competition begins when both teams tee it up.<\/p>\n  <\/section>\n<\/article>\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-04-biltmore-championship-asheville-pga-tour-debut", "title": "The Biltmore Championship Is Coming to Asheville \u2014 What to Know About the PGA Tour's Newest Event", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<title>The Biltmore Championship Is Coming to Asheville \u2014 What to Know About the PGA Tour's Newest Event<\/title>\n<\/head>\n<body>\n<article>\n  <header>\n    <h1>The Biltmore Championship Is Coming to Asheville \u2014 What to Know About the PGA Tour's Newest Event<\/h1>\n    <p><strong>By Ryan Calloway<\/strong> | Golf Fanrecap | September 5, 2026<\/p>\n  <\/header>\n\n  <section>\n    <p>The PGA Tour's 2026 schedule has a new entry. The Biltmore Championship Asheville debuts September 17-20 at The Cliffs at Walnut Cove in Arden, North Carolina. It is the first time this event has ever been played, and it places professional golf in one of the most scenically distinctive cities in the American Southeast.<\/p>\n\n    <p>Asheville, North Carolina, sits in the Blue Ridge Mountains in the western part of the state. It's known for its arts scene, independent food culture, proximity to the Appalachian Trail, and \u2014 as the event name signals \u2014 its association with one of America's most famous historic estates.<\/p>\n  <\/section>\n\n  <section>\n    <h2>The Biltmore Name<\/h2>\n    <p>The Biltmore Estate is the historic country house built by George Washington Vanderbilt II in the late 19th century. At 178,926 square feet, it remains the largest privately owned house in the United States. The estate sits on thousands of acres in Asheville and draws over a million visitors per year as a tourist destination, hotel, and event venue.<\/p>\n\n    <p>The tournament name connects professional golf to that legacy \u2014 and to a city whose identity is tied to the mountains, the estate, and a heritage of high-quality craftwork. The branding is intentional: this is a tournament that wants to feel like a destination event from day one.<\/p>\n  <\/section>\n\n  <section>\n    <h2>The Cliffs at Walnut Cove<\/h2>\n    <p>The venue is The Cliffs at Walnut Cove, a private residential golf community located in Arden, just south of Asheville. Western North Carolina's topography creates a natural stage for golf \u2014 elevation changes, mountain views, tree-lined fairways, and conditions that can shift quickly given the region's weather patterns.<\/p>\n\n    <p>Hosting a PGA Tour event at a private club requires significant logistical preparation: spectator infrastructure, media facilities, volunteer coordination, and course conditioning to tour standards. The Cliffs at Walnut Cove is hosting this event for the first time, making the debut a logistical milestone as much as a competitive one.<\/p>\n  <\/section>\n\n  <section>\n    <h2>Why Now<\/h2>\n    <p>The PGA Tour has actively worked to expand its geographic footprint to reach markets and fan bases that don't regularly see professional golf in person. Asheville represents that kind of market \u2014 an outdoors-oriented, culturally engaged city with a growing professional population and proximity to Charlotte, Knoxville, and the broader western Carolina region.<\/p>\n\n    <p>Adding a new event to the schedule also responds to the competitive landscape that has shifted in 2026. With LIV Golf's expected bankruptcy filing, the PGA Tour has an opportunity to consolidate its position as professional golf's primary competitive home. New events in new markets strengthen that position.<\/p>\n  <\/section>\n\n  <section>\n    <h2>What's Next<\/h2>\n    <p>The Biltmore Championship Asheville tees off September 17. Field and purse details will be confirmed in the days ahead. For western North Carolina, it is a moment the local golf community has anticipated \u2014 professional tour golf, in the mountains, with a venue that fits the landscape it's in.<\/p>\n  <\/section>\n<\/article>\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-05-nordqvist-solheim-cup-captain-pairings-puzzle", "title": "Anna Nordqvist's Pairings Puzzle \u2014 Inside Europe's Solheim Cup Strategy", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Anna Nordqvist's Pairings Puzzle \u2014 Inside Europe's Solheim Cup Strategy<\/title>\n<\/head>\n<body>\n<article>\n  <header>\n    <h1>Anna Nordqvist's Pairings Puzzle \u2014 Inside Europe's Solheim Cup Strategy<\/h1>\n    <p><strong>By Jake Torres<\/strong> | Golf Fanrecap | September 5, 2026<\/p>\n  <\/header>\n\n  <section>\n    <p>When Anna Nordqvist says her Solheim Cup pairings feel like a \"puzzle,\" she isn't complaining. She's describing a captain's ideal situation: more good options than she has session slots to fill.<\/p>\n\n    <p>The Europe captain has her 12-player roster set for the 2026 Solheim Cup at Bernardus Golf in the Netherlands. What she's working through now \u2014 and will be working through until the morning of each session \u2014 is who plays with whom, who sits, and when each player is best deployed over three days of competition starting September 11.<\/p>\n  <\/section>\n\n  <section>\n    <h2>Why Pairings Matter in Match Play<\/h2>\n    <p>The Solheim Cup's format demands strategic thinking that goes far beyond simply fielding your 12 best players. In foursomes \u2014 alternate shot \u2014 two players share a single ball and take turns hitting. Chemistry, communication, and complementary ball-striking are essential. A pairing that looks strong on paper can fall apart if the players' shot shapes don't fit together, or if their temperaments clash under match play pressure.<\/p>\n\n    <p>Fourballs \u2014 both players playing their own ball, best score counting \u2014 is different. There, you want aggression. Players who can go low, who don't blink when the match gets tight, who give their partner the freedom to attack because they know a solid score is already on the card.<\/p>\n\n    <p>Singles on September 13 are a different calculus again. The captain decides the order: do you front-load with your strongest players to take an early lead, or scatter them to apply pressure throughout the draw?<\/p>\n  <\/section>\n\n  <section>\n    <h2>The Nordqvist Advantage<\/h2>\n    <p>Anna Nordqvist has been in these matches. She is a three-time major champion \u2014 ANA Inspiration titles and the Women's British Open \u2014 and a Solheim Cup veteran who knows what it looks like when pairings click and when they don't. As a player, she experienced the dynamics she's now navigating as a captain.<\/p>\n\n    <p>That playing experience is an underrated asset in captaincy. Nordqvist understands which conversations to have with players, which pairings might surprise an opponent, and what kinds of challenges the Netherlands course conditions might create for particular game styles. Her preparation isn't just about the standings \u2014 it's about the match.<\/p>\n  <\/section>\n\n  <section>\n    <h2>Veterans and Rookies<\/h2>\n    <p>Europe's roster includes established Solheim Cup campaigners who have won and lost these matches before, alongside players who are new to this level of team competition. Managing that balance is part of the puzzle. Rookies need pairing partners who can steady them when the crowd gets loud, the pressure mounts, and experience suddenly feels like the only thing that matters.<\/p>\n\n    <p>At the same time, Nordqvist knows that rookies can win matches. Fresh energy, nothing to lose, a point earned that nobody expected \u2014 it's happened in every Solheim Cup. Her pairings strategy almost certainly factors in where a motivated rookie might be the right surprise choice.<\/p>\n  <\/section>\n\n  <section>\n    <h2>What's Next<\/h2>\n    <p>Nordqvist will announce her pairings session by session. The pairings for the first foursomes \u2014 Thursday, September 11 \u2014 will be released ahead of play. Fans, analysts, and the USA coaching staff will all study them immediately. The captain's puzzle becomes public information at that moment.<\/p>\n\n    <p>Until then, Nordqvist keeps her options close. The pieces are on the board. Match play starts September 11 at Bernardus Golf. The solution to the puzzle is on its way.<\/p>\n  <\/section>\n<\/article>\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}];
+        const imageManifest = {};
+        let imageURLs = {}; // Runtime store: {'1_x_image': 'url', '1_facebook_image': 'url', ...}
+
+        // Image URL management
+        function updateImageURL(inputEl) {
+            var story = inputEl.dataset.story;
+            var platform = inputEl.dataset.platform;
+            var url = inputEl.value.trim();
+            var key = story + '_' + platform;
+            imageURLs[key] = url;
+
+            // Update preview thumbnail
+            var preview = document.getElementById('img-preview-' + story + '-' + platform);
+            if (preview) {
+                if (url) {
+                    preview.src = url;
+                    preview.classList.add('loaded');
+                    preview.onerror = function() { this.classList.remove('loaded'); };
+                } else {
+                    preview.src = '';
+                    preview.classList.remove('loaded');
+                }
+            }
+        }
+
+        function getImageURLForStory(storyTitle, platform) {
+            // Try runtime imageURLs first (user-pasted)
+            // Extract story number from title
+            for (var key in imageURLs) {
+                if (imageURLs[key] && key.endsWith('_' + platform)) {
+                    var storyNum = key.split('_')[0];
+                    // Check if this story matches by looking at allStories
+                    for (var i = 0; i < allStories.length; i++) {
+                        if (allStories[i].title === storyTitle &&
+                            allStories[i].id.indexOf('story-' + storyNum) !== -1) {
+                            return imageURLs[key];
+                        }
+                    }
+                }
+            }
+
+            // Try manifest data
+            for (var num in imageManifest) {
+                var mdata = imageManifest[num];
+                if (mdata && mdata[platform] && mdata[platform].exported_url) {
+                    // Check if this story number matches
+                    for (var j = 0; j < allStories.length; j++) {
+                        if (allStories[j].title === storyTitle &&
+                            allStories[j].id.indexOf('story-' + num) !== -1) {
+                            return mdata[platform].exported_url;
+                        }
+                    }
+                }
+            }
+
+            return '';
+        }
+
+        function initializeApp() {
+            const saved = localStorage.getItem(REVIEW_STORAGE_KEY + '-' + DATE);
+            if (saved) {
+                try {
+                    reviewData = JSON.parse(saved);
+                } catch (e) {
+                    reviewData = {};
+                }
+            }
+
+            allStories.forEach(function(story) {
+                if (!reviewData[story.id]) {
+                    reviewData[story.id] = {
+                        id: story.id,
+                        type: story.type,
+                        status: 'unreviewed',
+                        notes: '',
+                        content: story.content,
+                        editedContent: null
+                    };
+                }
+                // Migrate old data: ensure editedContent field exists
+                if (reviewData[story.id].editedContent === undefined) {
+                    reviewData[story.id].editedContent = null;
+                }
+            });
+
+            // Restore UI state
+            Object.keys(reviewData).forEach(function(storyId) {
+                var data = reviewData[storyId];
+                var card = document.querySelector('[data-id="' + storyId + '"]');
+                if (card) {
+                    card.setAttribute('data-status', data.status);
+                    var textarea = document.getElementById('textarea-' + storyId);
+                    if (textarea) textarea.value = data.notes || '';
+                    // If content was edited, update the display and editor
+                    if (data.editedContent) {
+                        var contentText = card.querySelector('.card-content-text');
+                        if (contentText) contentText.textContent = data.editedContent;
+                        var editor = document.getElementById('editor-' + storyId);
+                        if (editor) editor.value = data.editedContent;
+                    }
+                    updateCardVisuals(storyId, data.status, !!data.editedContent);
+                }
+            });
+
+            updateProgress();
+            filterByStatus('all');
+        }
+
+        function toggleExpand(storyId) {
+            var content = document.getElementById('content-' + storyId);
+            var toggle = document.getElementById('toggle-' + storyId);
+            if (content.classList.contains('collapsed')) {
+                content.classList.remove('collapsed');
+                content.classList.add('expanded');
+                toggle.textContent = 'Collapse';
+            } else {
+                content.classList.remove('expanded');
+                content.classList.add('collapsed');
+                toggle.textContent = 'Show Full Content';
+            }
+        }
+
+        function startEdit(storyId) {
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (!card) return;
+            card.classList.add('editing');
+            var editor = document.getElementById('editor-' + storyId);
+            if (editor) {
+                // If previously edited, load edited content; otherwise load original
+                var data = reviewData[storyId];
+                if (data && data.editedContent) {
+                    editor.value = data.editedContent;
+                }
+                editor.focus();
+                // Auto-resize for articles
+                editor.style.minHeight = Math.max(300, editor.scrollHeight) + 'px';
+            }
+        }
+
+        function saveAndApprove(storyId) {
+            var editor = document.getElementById('editor-' + storyId);
+            if (!editor) return;
+            var newContent = editor.value;
+
+            // Save the edited content
+            if (!reviewData[storyId]) {
+                reviewData[storyId] = { id: storyId, status: 'approved', notes: '', content: '', editedContent: null };
+            }
+            reviewData[storyId].editedContent = newContent;
+
+            // Update the display text
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            var contentText = card ? card.querySelector('.card-content-text') : null;
+            if (contentText) contentText.textContent = newContent;
+
+            // Exit edit mode
+            if (card) card.classList.remove('editing');
+
+            // Approve
+            setStatus(storyId, 'approved');
+            updateCardVisuals(storyId, 'approved', true);
+
+            // Update char count for X posts
+            updateCharCount(storyId, newContent);
+        }
+
+        function cancelEdit(storyId) {
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (card) card.classList.remove('editing');
+        }
+
+        function updateCharCount(storyId, text) {
+            var el = document.getElementById('charcount-' + storyId);
+            if (!el) return;
+            // Strip metadata tags before counting
+            var clean = text.replace(/\[CHARACTER COUNT:.*?\]/gi, '');
+            clean = clean.replace(/\[CHAR COUNT:.*?\]/gi, '');
+            clean = clean.replace(/\[\d+\/280\]/g, '');
+            // Remove URLs for Twitter count
+            var textNoUrls = clean.replace(/https?:\/\/\S+/g, '');
+            var count = textNoUrls.trim().length;
+            el.textContent = 'Characters: ' + count + '/280' + (count > 280 ? '  OVER LIMIT' : '');
+            el.className = count > 280 ? 'char-count warning' : 'char-count';
+        }
+
+        function approveCard(storyId) {
+            setStatus(storyId, 'approved');
+            document.getElementById('notes-' + storyId).classList.remove('show');
+        }
+
+        function rejectCard(storyId) {
+            setStatus(storyId, 'rejected');
+            document.getElementById('notes-' + storyId).classList.add('show');
+        }
+
+        function setStatus(storyId, status) {
+            if (!reviewData[storyId]) {
+                var story = allStories.find(function(s) { return s.id === storyId; });
+                reviewData[storyId] = {
+                    id: storyId,
+                    type: story ? story.type : '',
+                    status: status,
+                    notes: '',
+                    content: story ? story.content : '',
+                    editedContent: null
+                };
+            }
+
+            reviewData[storyId].status = status;
+
+            var textarea = document.getElementById('textarea-' + storyId);
+            if (textarea) reviewData[storyId].notes = textarea.value;
+
+            localStorage.setItem(REVIEW_STORAGE_KEY + '-' + DATE, JSON.stringify(reviewData));
+
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (card) card.setAttribute('data-status', status);
+            updateCardVisuals(storyId, status, !!(reviewData[storyId] && reviewData[storyId].editedContent));
+            updateProgress();
+        }
+
+        function updateCardVisuals(storyId, status, wasEdited) {
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (!card) return;
+
+            card.classList.remove('approved', 'needs-edit', 'rejected');
+            if (status !== 'unreviewed') card.classList.add(status);
+
+            var statusLabel = document.getElementById('status-' + storyId);
+            if (statusLabel) {
+                statusLabel.className = 'status-label';
+                if (status === 'approved' && wasEdited) {
+                    statusLabel.textContent = 'APPROVED (EDITED)';
+                    statusLabel.classList.add('status-edited');
+                } else if (status === 'approved') {
+                    statusLabel.textContent = 'APPROVED';
+                    statusLabel.classList.add('status-approved');
+                } else if (status === 'needs-edit') {
+                    statusLabel.textContent = 'NEEDS EDIT';
+                    statusLabel.classList.add('status-needs-edit');
+                } else if (status === 'rejected') {
+                    statusLabel.textContent = 'REJECTED';
+                    statusLabel.classList.add('status-rejected');
+                } else {
+                    statusLabel.textContent = '';
+                }
+            }
+        }
+
+        function updateProgress() {
+            var approved = 0, rejected = 0, unreviewed = 0;
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (!data || data.status === 'unreviewed') unreviewed++;
+                else if (data.status === 'approved') approved++;
+                else if (data.status === 'rejected') rejected++;
+                else unreviewed++;
+            });
+            var reviewed = approved + rejected;
+            var total = allStories.length;
+            var percentage = total > 0 ? (reviewed / total * 100) : 0;
+            document.getElementById('reviewed-count').textContent = reviewed;
+            document.getElementById('total-count').textContent = total;
+            document.getElementById('progress-fill').style.width = percentage + '%';
+            // Update stat chips
+            document.getElementById('stat-approved-count').textContent = approved;
+            document.getElementById('stat-rejected-count').textContent = rejected;
+            document.getElementById('stat-unreviewed-count').textContent = unreviewed;
+            // Update CSV button
+            var csvBtn = document.getElementById('btn-csv');
+            var tobiBtn = document.getElementById('btn-tobi');
+            var socialApproved = countApprovedSocialPosts();
+            if (csvBtn) {
+                if (socialApproved > 0) {
+                    csvBtn.disabled = false;
+                    csvBtn.textContent = 'PostPlanner Upload (' + socialApproved + ' posts)';
+                } else {
+                    csvBtn.disabled = true;
+                    csvBtn.textContent = 'PostPlanner Upload (0 approved)';
+                }
+            }
+            // Update TOBI button (counts only X/Twitter text posts)
+            if (tobiBtn) {
+                var xApproved = countApprovedXPosts();
+                if (xApproved > 0) {
+                    tobiBtn.disabled = false;
+                    tobiBtn.textContent = 'TOBI Upload (' + xApproved + ' posts)';
+                } else {
+                    tobiBtn.disabled = true;
+                    tobiBtn.textContent = 'TOBI Upload (0 approved)';
+                }
+            }
+        }
+
+        function countApprovedSocialPosts() {
+            var count = 0;
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (data && data.status === 'approved' && (story.type === 'x_post' || story.type === 'facebook')) {
+                    count++;
+                }
+            });
+            return count;
+        }
+
+        function countApprovedXPosts() {
+            var count = 0;
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (data && data.status === 'approved' && story.type === 'x_post') {
+                    count++;
+                }
+            });
+            return count;
+        }
+
+        function escapeCSVField(text) {
+            if (!text) return '';
+            // If field contains comma, quote, or newline, wrap in quotes and escape inner quotes
+            if (text.indexOf(',') !== -1 || text.indexOf('"') !== -1 || text.indexOf('\n') !== -1) {
+                return '"' + text.replace(/"/g, '""') + '"';
+            }
+            return text;
+        }
+
+        function extractHashtags(text) {
+            if (!text) return '';
+            var matches = text.match(/#\w+/g);
+            return matches ? matches.join(' ') : '';
+        }
+
+        // ========== POSTING SCHEDULE SYSTEM ==========
+        var defaultXSlots = ['09:00', '12:00', '15:00', '18:00', '21:00'];
+        var defaultFBSlots = ['10:00', '13:00', '17:00'];
+
+        function getScheduleConfig() {
+            var saved = localStorage.getItem(SCHEDULE_STORAGE_KEY);
+            if (saved) {
+                try { return JSON.parse(saved); } catch(e) {}
+            }
+            return { xSlots: defaultXSlots.slice(), fbSlots: defaultFBSlots.slice() };
+        }
+
+        function saveScheduleConfig(config) {
+            localStorage.setItem(SCHEDULE_STORAGE_KEY, JSON.stringify(config));
+        }
+
+        function renderTimeSlots() {
+            var config = getScheduleConfig();
+            var xContainer = document.getElementById('x-time-slots');
+            var fbContainer = document.getElementById('fb-time-slots');
+
+            xContainer.innerHTML = config.xSlots.map(function(t, i) {
+                return '<span class="time-slot">' + t + ' <span class="remove-slot" onclick="removeTimeSlot(\x27x\x27,' + i + ')">&times;</span></span>';
+            }).join('');
+
+            fbContainer.innerHTML = config.fbSlots.map(function(t, i) {
+                return '<span class="time-slot">' + t + ' <span class="remove-slot" onclick="removeTimeSlot(\x27fb\x27,' + i + ')">&times;</span></span>';
+            }).join('');
+        }
+
+        function addTimeSlot(platform) {
+            var inputId = platform === 'x' ? 'new-x-time' : 'new-fb-time';
+            var val = document.getElementById(inputId).value;
+            if (!val) return;
+            var config = getScheduleConfig();
+            var arr = platform === 'x' ? config.xSlots : config.fbSlots;
+            if (arr.indexOf(val) === -1) {
+                arr.push(val);
+                arr.sort();
+            }
+            saveScheduleConfig(config);
+            renderTimeSlots();
+            document.getElementById(inputId).value = '';
+        }
+
+        function removeTimeSlot(platform, index) {
+            var config = getScheduleConfig();
+            var arr = platform === 'x' ? config.xSlots : config.fbSlots;
+            arr.splice(index, 1);
+            saveScheduleConfig(config);
+            renderTimeSlots();
+        }
+
+        function downloadPostPlannerCSV() {
+            // Open schedule panel instead of direct download
+            openSchedulePanel();
+        }
+
+        function openSchedulePanel() {
+            document.getElementById('schedule-date').value = DATE;
+            renderTimeSlots();
+            document.getElementById('schedule-panel').classList.add('show');
+            document.getElementById('schedule-overlay').classList.add('show');
+        }
+
+        function closeSchedulePanel() {
+            document.getElementById('schedule-panel').classList.remove('show');
+            document.getElementById('schedule-overlay').classList.remove('show');
+        }
+
+        function formatTimeForPostPlanner(time24, dateStr) {
+            // Output PostPlanner V2 format: MM/DD/YYYY  HH:MM (24hr)
+            var parts = dateStr.split('-');
+            return parts[1] + '/' + parts[2] + '/' + parts[0] + '  ' + time24;
+        }
+
+        function redistributeTimes(rows) {
+            // Ensure all post times are at least 30 min from now,
+            // evenly spaced through the rest of the day.
+            if (rows.length === 0) return rows;
+
+            var now = new Date();
+            var nowMinutes = now.getHours() * 60 + now.getMinutes();
+            var floorMinutes = nowMinutes + 30;
+            var endMinutes = 22 * 60; // 10:00 PM cutoff
+
+            // Check if ANY post times have already passed
+            var anyPast = rows.some(function(row) {
+                var parts = row.time.split(':');
+                var rowMin = parseInt(parts[0], 10) * 60 + parseInt(parts[1], 10);
+                return rowMin < floorMinutes;
+            });
+
+            if (!anyPast) return rows; // all times are in the future, keep them
+
+            if (floorMinutes >= endMinutes) {
+                alert('It is past 9:30 PM — not enough time remaining to schedule all posts today. Posts will use original times.');
+                return rows;
+            }
+
+            var availableMinutes = endMinutes - floorMinutes;
+            var spacing = Math.floor(availableMinutes / rows.length);
+            if (spacing < 15) spacing = 15; // minimum 15 min gap
+            if (spacing > 90) spacing = 90; // maximum 90 min gap
+
+            rows.forEach(function(row, i) {
+                var postMinutes = floorMinutes + (i * spacing);
+                if (postMinutes >= 24 * 60) postMinutes = 23 * 60 + 45;
+                var h = Math.floor(postMinutes / 60);
+                var m = postMinutes % 60;
+                row.time = (h < 10 ? '0' : '') + h + ':' + (m < 10 ? '0' : '') + m;
+            });
+
+            var firstTime = rows[0].time;
+            var lastTime = rows[rows.length - 1].time;
+            console.log('PostPlanner export: redistributed ' + rows.length + ' posts from ' + firstTime + ' to ' + lastTime + ' (' + spacing + ' min apart)');
+            return rows;
+        }
+
+        // Parse actual time from posting_window string like "7:00 AM CT" -> "07:00"
+        function parsePostingTime(timeStr) {
+            if (!timeStr) return null;
+            var m = timeStr.match(/(\d{1,2}):(\d{2})\s*(AM|PM)/i);
+            if (!m) return null;
+            var h = parseInt(m[1], 10);
+            var min = m[2];
+            var ampm = m[3].toUpperCase();
+            if (ampm === 'PM' && h !== 12) h += 12;
+            if (ampm === 'AM' && h === 12) h = 0;
+            return (h < 10 ? '0' : '') + h + ':' + min;
+        }
+
+        // Generic window name fallback
+        var windowToTime = {
+            'Morning': '09:00',
+            'Midday': '12:00',
+            'Afternoon': '15:00',
+            'Evening': '18:00',
+            'Late Night': '21:00'
+        };
+
+        function generateAndDownload() {
+            var config = getScheduleConfig();
+            var postDate = document.getElementById('schedule-date').value || DATE;
+
+            var xRows = [];
+            var fbRows = [];
+
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (!data || data.status !== 'approved') return;
+                var finalContent = data.editedContent || story.content;
+
+                if (story.type === 'x_post') {
+                    // If this is an individual tweet card (has tweet_label), use directly
+                    if (story.tweet_label) {
+                        xRows.push({
+                            content: finalContent,
+                            type: story.tweet_type || 'text',
+                            hashtags: story.hashtags || extractHashtags(finalContent),
+                            story: story.title,
+                            posting_window: story.posting_window || ''
+                        });
+                    } else {
+                        // Legacy: parse full story markdown for individual tweets
+                        var sections = parseXPostContent(finalContent, story.title);
+                        sections.forEach(function(post) {
+                            xRows.push({
+                                content: post.text,
+                                type: post.type,
+                                hashtags: extractHashtags(post.text),
+                                story: story.title
+                            });
+                        });
+                    }
+                } else if (story.type === 'facebook') {
+                    var fbPost = parseFacebookContent(finalContent, story.title);
+                    if (fbPost) {
+                        fbRows.push(fbPost);
+                    }
+                }
+            });
+
+            if (xRows.length === 0 && fbRows.length === 0) {
+                alert('No approved social posts to export.');
+                return;
+            }
+
+            // Assign times: use posting_window property first, then content tag, then round-robin
+            function assignTimes(rows, slots, label) {
+                if (slots.length === 0) slots = ['12:00'];
+                var timeFallbacks = [];
+                return rows.map(function(row, i) {
+                    row.date = postDate;
+                    // 1. Try posting_window property (e.g., "7:00 AM CT")
+                    var parsed = parsePostingTime(row.posting_window);
+                    if (parsed) {
+                        row.time = parsed;
+                        return row;
+                    }
+                    // 2. Try [POSTING WINDOW: ...] tag in content
+                    var windowMatch = row.content ? row.content.match(/\[POSTING WINDOW:\s*([^\]]+)\]/) : null;
+                    if (windowMatch) {
+                        parsed = parsePostingTime(windowMatch[1]);
+                        if (parsed) {
+                            row.time = parsed;
+                            return row;
+                        }
+                        if (windowToTime[windowMatch[1].trim()]) {
+                            row.time = windowToTime[windowMatch[1].trim()];
+                            return row;
+                        }
+                    }
+                    // 3. Fall back to round-robin
+                    row.time = slots[i % slots.length];
+                    timeFallbacks.push('Post ' + (i + 1) + ': no parsed time, using ' + row.time);
+                    return row;
+                });
+                // Warn if any posts had to use fallback times
+                if (timeFallbacks.length > 0) {
+                    console.warn('TIME WARNING (' + label + '): ' + timeFallbacks.length + ' post(s) had no parsed posting time:\n' + timeFallbacks.join('\n'));
+                }
+            }
+
+            xRows = assignTimes(xRows, config.xSlots, 'X/Twitter');
+            fbRows = assignTimes(fbRows, config.fbSlots, 'Facebook');
+
+            // Generate XLSX in PostPlanner Bulk Upload V2 format
+            if (typeof XLSX === 'undefined') {
+                alert('SheetJS library not loaded. Falling back to CSV download.');
+                fallbackCSVDownload(xRows, fbRows, postDate);
+                return;
+            }
+
+            // Combine all rows and sort by original time
+            var allRows = xRows.concat(fbRows);
+            allRows.sort(function(a, b) {
+                return a.time.localeCompare(b.time);
+            });
+
+            // Smart time redistribution
+            allRows = redistributeTimes(allRows);
+
+            var wb = XLSX.utils.book_new();
+
+            // PostPlanner V3.1 format: Row 1 = version marker, Row 2 = headers, Row 3+ = data
+            var data = [
+                ['## ' + BRAND_NAME + ' -- PostPlanner Bulk Upload', 'BULK UPLOAD VERSION 3.1 – Please DO NOT EDIT this cell.', '', '', '', '', '', '', ''],
+                ['## POSTING TIME', 'CAPTION', 'LINK', 'MEDIA', 'TITLE', 'FIRST COMMENT', 'FIRST COMMENT DELAY', 'TOBI BACKGROUND', 'REEL OR STORY']
+            ];
+
+            allRows.forEach(function(row) {
+                var caption = cleanMarkdownForPost(row.content);
+                var mediaUrl = '';
+                if (row.type === 'image' || row.type === 'IMAGE') {
+                    mediaUrl = getImageURLForStory(row.story, row.platform === 'facebook' ? 'facebook_image' : 'x_image') || '';
+                }
+                data.push([
+                    formatTimeForPostPlanner(row.time, postDate),
+                    caption,
+                    '',
+                    mediaUrl,
+                    '', '', '', '', ''
+                ]);
+            });
+
+            var sheet = XLSX.utils.aoa_to_sheet(data);
+            sheet['!cols'] = [
+                {wch: 20}, {wch: 80}, {wch: 30}, {wch: 30}, {wch: 10}, {wch: 20}, {wch: 18}, {wch: 18}, {wch: 14}
+            ];
+            XLSX.utils.book_append_sheet(wb, sheet, 'Sheet1');
+
+            // Download
+            XLSX.writeFile(wb, 'postplanner-upload-' + postDate + '.xlsx');
+            closeSchedulePanel();
+
+            var msg = 'Downloaded postplanner-upload-' + postDate + '.xlsx with ';
+            var parts = [];
+            if (xRows.length > 0) parts.push(xRows.length + ' X posts');
+            if (fbRows.length > 0) parts.push(fbRows.length + ' Facebook posts');
+            alert(msg + parts.join(' and ') + '.\n\nUpload this file to PostPlanner via Bulk Upload.');
+        }
+
+        function cleanMarkdownForPost(text) {
+            // Strip markdown formatting and metadata that shouldn't appear in social posts
+            if (!text) return '';
+            return text
+                .replace(/\[CHARACTER COUNT:.*?\]/gi, '')
+                .replace(/\[CHAR COUNT:.*?\]/gi, '')
+                .replace(/\[\d+\/280\]/g, '')
+                .replace(/\*\*\[POSTING WINDOW:.*?\]\*\*/g, '')
+                .replace(/\[POSTING WINDOW:.*?\]/g, '')
+                .replace(/\*\*([^*]+)\*\*/g, '$1')
+                .replace(/\*([^*]+)\*/g, '$1')
+                .replace(/^#+\s+/gm, '')
+                .replace(/^[-*]\s+/gm, '')
+                .replace(/```[\s\S]*?```/g, '')
+                .replace(/\n{3,}/g, '\n\n')
+                .trim();
+        }
+
+        function fallbackCSVDownload(xRows, fbRows, postDate) {
+            // Fallback if SheetJS fails to load — generates CSV in V2-like format
+            var allRows = xRows.concat(fbRows);
+            allRows.sort(function(a, b) { return a.time.localeCompare(b.time); });
+            if (allRows.length === 0) {
+                alert('No approved posts to export.');
+                closeSchedulePanel();
+                return;
+            }
+            // Smart time redistribution (same as XLSX path)
+            allRows = redistributeTimes(allRows);
+            var csv = '## ' + BRAND_NAME + ' -- PostPlanner Bulk Upload,' + escapeCSVField('BULK UPLOAD VERSION 3.1 – Please DO NOT EDIT this cell.') + ',,,,,,,\n';
+            csv += '## POSTING TIME,CAPTION,LINK,MEDIA,TITLE,FIRST COMMENT,FIRST COMMENT DELAY,TOBI BACKGROUND,REEL OR STORY\n';
+            allRows.forEach(function(row) {
+                csv += escapeCSVField(formatTimeForPostPlanner(row.time, postDate)) + ',' +
+                       escapeCSVField(cleanMarkdownForPost(row.content)) + ',' +
+                       ',,,,,,\n';
+            });
+            downloadFile(csv, 'postplanner-upload-' + postDate + '.csv', 'text/csv');
+            closeSchedulePanel();
+        }
+
+        function downloadTOBIExport() {
+            // Generate TOBI XLSX directly (no schedule panel needed — uses same times)
+            generateAndDownloadTOBI();
+        }
+
+        function stripHashtags(text) {
+            // Remove lines that are entirely hashtags, and trailing blank lines
+            var lines = text.split('\n');
+            var cleaned = [];
+            for (var i = 0; i < lines.length; i++) {
+                var stripped = lines[i].trim();
+                if (stripped && stripped.split(/\s+/).every(function(w) { return w.charAt(0) === '#'; })) {
+                    continue;
+                }
+                cleaned.push(lines[i]);
+            }
+            while (cleaned.length > 0 && !cleaned[cleaned.length - 1].trim()) {
+                cleaned.pop();
+            }
+            return cleaned.join('\n');
+        }
+
+        function generateAndDownloadTOBI() {
+            var postDate = document.getElementById('schedule-date') ?
+                document.getElementById('schedule-date').value || DATE : DATE;
+
+            // Collect approved X/Twitter text posts only
+            var xRows = [];
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (!data || data.status !== 'approved') return;
+                if (story.type !== 'x_post') return;
+
+                var finalContent = data.editedContent || story.content;
+                if (story.tweet_label) {
+                    xRows.push({
+                        content: finalContent,
+                        posting_window: story.posting_window || '',
+                        story: story.title
+                    });
+                }
+            });
+
+            if (xRows.length === 0) {
+                alert('No approved X/Twitter posts for TOBI export.');
+                return;
+            }
+
+            // Assign times — use same logic as regular export (posting_window → content tag → round-robin)
+            var tobiSlots = defaultXSlots.slice();
+            if (tobiSlots.length === 0) tobiSlots = ['12:00'];
+            var tobiTimeFallbacks = [];
+            xRows = xRows.map(function(row, i) {
+                row.date = postDate;
+                // 1. Try posting_window property (e.g., "7:00 AM CT")
+                var parsed = parsePostingTime(row.posting_window);
+                if (parsed) {
+                    row.time = parsed;
+                    return row;
+                }
+                // 2. Try [POSTING WINDOW: ...] tag in content
+                var windowMatch = row.content ? row.content.match(/\[POSTING WINDOW:\s*([^\]]+)\]/) : null;
+                if (windowMatch) {
+                    parsed = parsePostingTime(windowMatch[1]);
+                    if (parsed) {
+                        row.time = parsed;
+                        return row;
+                    }
+                }
+                // 3. Fall back to round-robin through time slots (NOT 12:00)
+                row.time = tobiSlots[i % tobiSlots.length];
+                tobiTimeFallbacks.push('Post ' + (i + 1) + ': no parsed time, using ' + row.time);
+                return row;
+            });
+            // Warn if any posts had to use fallback times
+            if (tobiTimeFallbacks.length > 0) {
+                console.warn('TOBI TIME WARNING: ' + tobiTimeFallbacks.length + ' post(s) had no parsed posting time:\n' + tobiTimeFallbacks.join('\n'));
+            }
+
+            // Sort by time
+            xRows.sort(function(a, b) { return a.time.localeCompare(b.time); });
+
+            // Smart time redistribution
+            xRows = redistributeTimes(xRows);
+
+            // TOBI processing: preserve hashtags + emojis as much as possible
+            var TOBI_LIMIT = 130;
+
+            function extractHashtags(text) {
+                var matches = text.match(/#\w+/g);
+                return matches || [];
+            }
+
+            function extractTrailingEmoji(text) {
+                var m = text.match(/\s*([\u{1F300}-\u{1FAFF}\u2600-\u27BF\u2B50\u26A0-\u26FF]+)\s*$/u);
+                if (m) {
+                    return { emoji: m[1], text: text.substring(0, m.index).trimEnd() };
+                }
+                return { emoji: null, text: text };
+            }
+
+            function truncateAtSentence(text, limit) {
+                var sentences = text.split(/(?<=[.!?])\s+/);
+                // Merge standalone emoji fragments into preceding sentence
+                var merged = [];
+                for (var s = 0; s < sentences.length; s++) {
+                    var trimmed = sentences[s].trim();
+                    if (!trimmed) continue;
+                    if (merged.length > 0 && !/[A-Za-z0-9]/.test(trimmed)) {
+                        merged[merged.length - 1] = merged[merged.length - 1] + ' ' + trimmed;
+                    } else {
+                        merged.push(trimmed);
+                    }
+                }
+                var truncated = '';
+                for (var s = 0; s < merged.length; s++) {
+                    var candidate = truncated ? truncated + ' ' + merged[s] : merged[s];
+                    if (candidate.length <= limit) {
+                        truncated = candidate;
+                    } else {
+                        break;
+                    }
+                }
+                // Clean up trailing abbreviation fragments (Dr., Mr., vs.)
+                if (truncated) {
+                    var parts = truncated.split(' ');
+                    var last = parts[parts.length - 1];
+                    if (parts.length > 1 && last.length <= 4 && /^[A-Za-z]+\.$/.test(last)) {
+                        parts.pop();
+                        truncated = parts.join(' ');
+                    }
+                }
+                return truncated || text.substring(0, limit - 3) + '...';
+            }
+
+            function fitHashtagsWithinLimit(text, hashtags, limit) {
+                if (!hashtags.length) return text;
+                // Try all hashtags, then progressively fewer
+                for (var n = hashtags.length; n > 0; n--) {
+                    var tagBlock = '\n\n' + hashtags.slice(0, n).join(' ');
+                    if ((text + tagBlock).length <= limit) {
+                        return text + tagBlock;
+                    }
+                }
+                return text;
+            }
+
+            if (typeof XLSX === 'undefined') {
+                alert('SheetJS library not loaded. Cannot generate TOBI XLSX.');
+                return;
+            }
+
+            var wb = XLSX.utils.book_new();
+            var data = [
+                ['## ' + BRAND_NAME + ' -- PostPlanner TOBI Bulk Upload', 'BULK UPLOAD VERSION 3.1 – Please DO NOT EDIT this cell.', '', '', '', '', '', '', ''],
+                ['## POSTING TIME', 'CAPTION', 'LINK', 'MEDIA', 'TITLE', 'FIRST COMMENT', 'FIRST COMMENT DELAY', 'TOBI BACKGROUND', 'REEL OR STORY']
+            ];
+
+            var keptHashtags = 0;
+            var strippedHashtags = 0;
+
+            xRows.forEach(function(row, i) {
+                var caption = cleanMarkdownForPost(row.content);
+
+                // If full caption fits under limit, use as-is — ALL hashtags + emojis preserved
+                if (caption.length <= TOBI_LIMIT) {
+                    if (extractHashtags(caption).length > 0) keptHashtags++;
+                    data.push([
+                        formatTimeForPostPlanner(row.time, postDate),
+                        caption, '', '', '', '', '', 'true-black', ''
+                    ]);
+                    return;
+                }
+
+                // Over limit — decompose and rebuild intelligently
+                var hashtags = extractHashtags(caption);
+                var coreText = stripHashtags(caption).trimEnd();
+                var emojiResult = extractTrailingEmoji(coreText);
+                var trailing_emoji = emojiResult.emoji;
+                var coreNoEmoji = emojiResult.text.trimEnd();
+
+                // Step 1: Get core text under limit
+                var result;
+                if (coreNoEmoji.length <= TOBI_LIMIT) {
+                    result = coreNoEmoji;
+                } else {
+                    result = truncateAtSentence(coreNoEmoji, TOBI_LIMIT);
+                }
+
+                // Step 2: Try to add back trailing emoji
+                if (trailing_emoji) {
+                    var withEmoji = result + ' ' + trailing_emoji;
+                    if (withEmoji.length <= TOBI_LIMIT) {
+                        result = withEmoji;
+                    }
+                }
+
+                // Step 3: Try to add back as many hashtags as possible
+                if (hashtags.length > 0) {
+                    var before = result;
+                    result = fitHashtagsWithinLimit(result, hashtags, TOBI_LIMIT);
+                    if (result !== before) keptHashtags++;
+                    else strippedHashtags++;
+                }
+
+                data.push([
+                    formatTimeForPostPlanner(row.time, postDate),
+                    result, '', '', '', '', '', 'true-black', ''
+                ]);
+            });
+
+            var sheet = XLSX.utils.aoa_to_sheet(data);
+            sheet['!cols'] = [
+                {wch: 20}, {wch: 80}, {wch: 10}, {wch: 10}, {wch: 10}, {wch: 20}, {wch: 18}, {wch: 18}, {wch: 14}
+            ];
+            XLSX.utils.book_append_sheet(wb, sheet, 'Sheet1');
+
+            XLSX.writeFile(wb, 'postplanner-tobi-upload-' + postDate + '.xlsx');
+
+            alert('Downloaded TOBI export with ' + xRows.length + ' posts.\n\n' +
+                  keptHashtags + ' posts kept hashtags, ' + strippedHashtags + ' had hashtags removed for length.\n\n' +
+                  'Background: true-black (Column H).\nUpload to PostPlanner for Facebook TOBI posts.');
+        }
+
+        function parseXPostContent(content, storyTitle) {
+            var posts = [];
+            var lines = content.split('\n');
+
+            var inTextPost = false;
+            var inThread = false;
+            var currentTweetNum = 0;
+            var currentText = [];
+
+            for (var i = 0; i < lines.length; i++) {
+                var line = lines[i];
+                var trimmed = line.trim();
+
+                if (trimmed.match(/^###\s+Text Post/i)) {
+                    flushPost();
+                    inTextPost = true;
+                    inThread = false;
+                    currentText = [];
+                    continue;
+                }
+                if (trimmed.match(/^###\s+Thread Concept/i)) {
+                    flushPost();
+                    inTextPost = false;
+                    inThread = true;
+                    currentText = [];
+                    currentTweetNum = 0;
+                    continue;
+                }
+                if (trimmed.match(/^###\s+Image Post/i)) {
+                    flushPost();
+                    inTextPost = false;
+                    inThread = false;
+                    continue;
+                }
+                if (trimmed.match(/^###\s/)) {
+                    flushPost();
+                    inTextPost = false;
+                    inThread = false;
+                    continue;
+                }
+
+                if (inThread && trimmed.match(/^\*\*Tweet\s+\d+/i)) {
+                    flushPost();
+                    currentTweetNum++;
+                    currentText = [];
+                    continue;
+                }
+
+                if (inTextPost || (inThread && currentTweetNum > 0)) {
+                    if (trimmed !== '') {
+                        currentText.push(line);
+                    }
+                }
+            }
+            flushPost();
+
+            function flushPost() {
+                if (currentText.length === 0) return;
+                var text = currentText.join('\n').trim();
+                if (!text) return;
+
+                if (inTextPost) {
+                    posts.push({ text: text, type: 'text' });
+                } else if (inThread && currentTweetNum > 0) {
+                    posts.push({
+                        text: text,
+                        type: currentTweetNum === 1 ? 'thread_start' : 'thread_reply'
+                    });
+                }
+                currentText = [];
+            }
+
+            return posts;
+        }
+
+        function parseFacebookContent(content, storyTitle) {
+            var lines = content.split('\n');
+            var inLongForm = false;
+            var inImagePost = false;
+            var longFormLines = [];
+            var imageCaption = '';
+
+            for (var i = 0; i < lines.length; i++) {
+                var trimmed = lines[i].trim();
+
+                if (trimmed.match(/^###\s+Long-Form Post/i)) {
+                    inLongForm = true;
+                    inImagePost = false;
+                    longFormLines = [];
+                    continue;
+                }
+                if (trimmed.match(/^###\s+Image Post Caption/i) || trimmed.match(/^###\s+Image Post/i)) {
+                    inLongForm = false;
+                    inImagePost = true;
+                    continue;
+                }
+                if (trimmed.match(/^###\s/) || trimmed.match(/^---/)) {
+                    inLongForm = false;
+                    inImagePost = false;
+                    continue;
+                }
+
+                if (inLongForm) {
+                    longFormLines.push(lines[i]);
+                }
+                if (inImagePost && trimmed !== '') {
+                    imageCaption = trimmed;
+                    inImagePost = false;
+                }
+            }
+
+            var longForm = longFormLines.join('\n').trim();
+            if (!longForm) return null;
+
+            return {
+                content: longForm,
+                image_caption: imageCaption,
+                story: storyTitle
+            };
+        }
+
+        function downloadFile(content, filename, mimeType) {
+            var blob = new Blob([content], { type: mimeType });
+            var url = URL.createObjectURL(blob);
+            var link = document.createElement('a');
+            link.href = url;
+            link.download = filename;
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+            URL.revokeObjectURL(url);
+        }
+
+        var currentStatusFilter = 'all';
+        var currentTypeFilter = 'all';
+
+        function filterByStatus(status) {
+            currentStatusFilter = status;
+            applyFilters();
+            document.querySelectorAll('.filter-btn').forEach(function(btn) {
+                btn.classList.remove('active');
+                if (btn.textContent.trim().toLowerCase().replace(/\s+/g, '') === status.replace('-', '').toLowerCase() ||
+                    (status === 'all' && btn.textContent.trim() === 'All') ||
+                    (status === 'needs-edit' && btn.textContent.trim() === 'Needs Edit')) {
+                    btn.classList.add('active');
+                }
+            });
+            document.querySelectorAll('.sidebar .nav-item').forEach(function(item) { item.classList.remove('active'); });
+        }
+
+        function filterByType(type) {
+            currentTypeFilter = type;
+            currentStatusFilter = 'all';
+            applyFilters();
+            document.querySelectorAll('.sidebar .nav-item').forEach(function(item) { item.classList.remove('active'); });
+            document.querySelectorAll('.filter-btn').forEach(function(btn) {
+                btn.classList.remove('active');
+                if (btn.textContent.trim() === 'All') btn.classList.add('active');
+            });
+        }
+
+        function applyFilters() {
+            var cards = document.querySelectorAll('.card');
+            var visibleCount = 0;
+            cards.forEach(function(card) {
+                var cardStatus = card.getAttribute('data-status');
+                var cardType = card.getAttribute('data-type');
+                var matchesStatus = (currentStatusFilter === 'all') || (cardStatus === currentStatusFilter);
+                var matchesType = (currentTypeFilter === 'all') || (cardType === currentTypeFilter);
+                if (matchesStatus && matchesType) {
+                    card.classList.add('show');
+                    visibleCount++;
+                } else {
+                    card.classList.remove('show');
+                }
+            });
+            document.getElementById('empty-state').style.display = visibleCount === 0 ? 'block' : 'none';
+        }
+
+        function approveAll() {
+            if (!confirm('Approve all ' + allStories.length + ' items?')) return;
+            allStories.forEach(function(story) { setStatus(story.id, 'approved'); });
+        }
+
+        function resetAll() {
+            if (confirm('Reset all reviews? This cannot be undone.')) {
+                localStorage.removeItem(REVIEW_STORAGE_KEY + '-' + DATE);
+                location.reload();
+            }
+        }
+
+        function copyContent(storyId) {
+            var data = reviewData[storyId];
+            var story = allStories.find(function(s) { return s.id === storyId; });
+            var text = (data && data.editedContent) ? data.editedContent : (story ? story.content : '');
+            navigator.clipboard.writeText(text).then(function() {
+                var btn = document.querySelector('[data-id="' + storyId + '"] .btn-copy');
+                if (btn) { var orig = btn.textContent; btn.textContent = 'Copied!'; setTimeout(function() { btn.textContent = orig; }, 1500); }
+            });
+        }
+
+        function exportApprovals() {
+            var items = [];
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id] || {};
+                items.push({
+                    id: story.id,
+                    type: story.type,
+                    title: story.title,
+                    status: data.status || 'unreviewed',
+                    notes: data.notes || '',
+                    content: story.content,
+                    editedContent: data.editedContent || null,
+                    finalContent: data.editedContent || story.content
+                });
+            });
+
+            var exportData = {
+                date: DATE,
+                reviewed_by: '',
+                reviewed_at: new Date().toISOString(),
+                items: items
+            };
+
+            var dataStr = JSON.stringify(exportData, null, 2);
+            var dataBlob = new Blob([dataStr], { type: 'application/json' });
+            var url = URL.createObjectURL(dataBlob);
+            var link = document.createElement('a');
+            link.href = url;
+            link.download = 'approvals-' + DATE + '.json';
+            link.click();
+            URL.revokeObjectURL(url);
+        }
+
+        // Auto-save notes as you type
+        document.addEventListener('input', function(e) {
+            if (e.target.classList.contains('notes-textarea')) {
+                var storyId = e.target.id.replace('textarea-', '');
+                if (reviewData[storyId]) {
+                    reviewData[storyId].notes = e.target.value;
+                    localStorage.setItem(REVIEW_STORAGE_KEY + '-' + DATE, JSON.stringify(reviewData));
+                }
+            }
+        });
+
+        initializeApp();
+
+    </script>
+</body>
+</html>
