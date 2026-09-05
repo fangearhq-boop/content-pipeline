@@ -5,6 +5,50 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-09-05
+
+### Story 1: PCA — 39 HR, One Swing from History
+- **Date:** 2026-09-05
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** PCA hits his 39th HR. Now needs 1 HR + 8 SB in 24 games. 6 previous 40-40 members: Canseco/Bonds/ARod/Soriano/Acuña/Ohtani. Cubs WC1. Every at-bat is historic now.
+- **Content Produced:** Article (article-01, Ryan Calloway), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:** 40th HR moment, 40th SB milestone, Cubs postseason clinch and green-light decisions
+
+### Story 2: Misiorowski's First Rough Start — Cy Young Race Shifts
+- **Date:** 2026-09-05
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Sept 3 start vs Cubs: 5 ER, 4 walks, 4 IP — matched career highs in both. First time allowing 5+ ER in 2026 (26-start streak of 3 ER or fewer ended). ERA rose to 1.97 (still MLB's best). Brewers won 9-5.
+- **Content Produced:** Article (article-02, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:** Misiorowski next start ~Sept 8-9, response to adversity, Cy Young vote implications
+
+### Story 3: Ohtani — Out Two Straight, IL Possible
+- **Date:** 2026-09-05
+- **Tier:** 1
+- **Classification:** FOLLOW UP (escalated from Tier 2)
+- **Angle:** Out of lineup for 2nd consecutive game. Roberts: IL "unlikely but not impossible," missing a week "certainly a possibility," "hopeful but not confident" re: IL avoidance. Physical: left knee + biceps + neck soreness. Slump 7-for-51/.137/20K since Aug 18. Dodgers 82-57 safe.
+- **Content Produced:** Article (article-03, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:** Ohtani IL placement decision, roster move announcement, return timeline
+
+### Story 4: Alvarez Triple Crown — Caminero Ties the HR Race
+- **Date:** 2026-09-05
+- **Tier:** 1
+- **Classification:** FOLLOW UP (escalated from Tier 2)
+- **Angle:** Caminero hits 37th HR to tie Alvarez for AL lead (both at 37). HR advantage gone for first time. Alvarez still leads BA (.316) and RBI (94). Last AL TC: Cabrera 2012. 24 games left.
+- **Content Produced:** Article (article-04, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:** Daily HR tracking Alvarez vs Caminero, any category lead change
+
+### Story 5: Cardinals Wild Card Math — 21 Games, 3.5 Back
+- **Date:** 2026-09-05
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Cardinals 70-70, 3.5 GB from WC3 (Padres hold; DBacks 0.5 back of Padres). Post-Saggese walk-off energy. Need ~14-7 in 21 games. Schedule is tough.
+- **Content Produced:** Article (article-05, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:** Cardinals winning/losing streaks, Padres/DBacks results, Saggese continued production
+
+---
+
 ## 2026-09-04
 
 ### Story 1: PCA 40-40 Chase — Two HRs Away, 25 Games Left

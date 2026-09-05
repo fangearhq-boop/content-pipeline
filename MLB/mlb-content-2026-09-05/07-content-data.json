@@ -1,0 +1,62 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-05",
+  "compiled_at": "2026-09-05T10:32:42.302565+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "PCA — 39 HR, One Swing from History",
+      "type": "1"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "Misiorowski's First Stumble",
+      "type": "1"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Ohtani — Out Two Straight, IL Possible",
+      "type": "1"
+    },
+    {
+      "time": "2:00 PM",
+      "description": "Alvarez TC — Caminero Ties the HR Race",
+      "type": "1"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Cardinals — 21 Games, 3.5 Back",
+      "type": "2"
+    }
+  ],
+  "stories": [],
+  "pipeline_stats": {
+    "total_stories": 0,
+    "x_posts_count": 0,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "X posts for story 1 exist but story not in daily brief",
+      "X posts for story 2 exist but story not in daily brief",
+      "X posts for story 3 exist but story not in daily brief",
+      "X posts for story 4 exist but story not in daily brief",
+      "X posts for story 5 exist but story not in daily brief"
+    ],
+    "missing_files": []
+  }
+}

@@ -1,0 +1,2303 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ballpark Banter — Content Review Dashboard</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: #f5f5f5;
+            display: flex;
+            min-height: 100vh;
+            color: #333;
+        }
+
+        .sidebar {
+            width: 280px;
+            background: #1a1a2e;
+            color: white;
+            padding: 30px 20px;
+            position: fixed;
+            height: 100vh;
+            overflow-y: auto;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+            z-index: 10;
+        }
+
+        .sidebar h1 { font-size: 18px; margin-bottom: 10px; color: #FF8A00; font-weight: 700; }
+        .sidebar-date { font-size: 12px; color: #aaa; margin-bottom: 30px; padding-bottom: 20px; border-bottom: 1px solid #333; }
+        .sidebar-section { margin-bottom: 25px; }
+        .sidebar-section-title { font-size: 12px; text-transform: uppercase; color: #999; margin-bottom: 12px; font-weight: 600; letter-spacing: 1px; }
+
+        .nav-item {
+            display: block; padding: 12px 15px; margin-bottom: 8px; border-radius: 6px;
+            cursor: pointer; transition: all 0.3s ease; font-size: 14px; color: #ddd; user-select: none;
+        }
+        .nav-item:hover { background: #2d2d44; color: #FF8A00; }
+        .nav-item.active { background: #FF8A00; color: white; }
+        .nav-item-count { float: right; background: rgba(255, 107, 53, 0.3); padding: 2px 8px; border-radius: 3px; font-size: 12px; }
+        .nav-item.active .nav-item-count { background: rgba(0, 0, 0, 0.2); }
+
+        .main-content { margin-left: 280px; flex: 1; display: flex; flex-direction: column; }
+
+        .header {
+            background: white; padding: 25px 40px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-bottom: 3px solid #FF8A00;
+        }
+        .header h1 { font-size: 28px; color: #1a1a2e; margin-bottom: 10px; }
+        .header-meta { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px; }
+        .progress-bar { flex: 1; min-width: 200px; }
+        .progress-label { font-size: 13px; color: #666; margin-bottom: 8px; font-weight: 500; }
+        .progress-container { width: 100%; height: 8px; background: #ddd; border-radius: 4px; overflow: hidden; }
+        .progress-fill { height: 100%; background: linear-gradient(90deg, #FF8A00, #E53935); transition: width 0.3s ease; }
+        .header-actions { display: flex; gap: 10px; }
+
+        .btn {
+            padding: 10px 16px; border: none; border-radius: 6px; font-size: 14px;
+            font-weight: 600; cursor: pointer; transition: all 0.3s ease; white-space: nowrap;
+        }
+        .btn-primary { background: #FF8A00; color: white; }
+        .btn-primary:hover { background: #E53935; }
+        .btn-secondary { background: #f0f0f0; color: #333; }
+        .btn-secondary:hover { background: #e0e0e0; }
+
+        .filter-bar {
+            background: white; padding: 20px 40px; display: flex;
+            gap: 10px; flex-wrap: wrap; border-bottom: 1px solid #eee;
+        }
+        .filter-btn {
+            padding: 8px 14px; border: 1px solid #ddd; background: white;
+            border-radius: 5px; cursor: pointer; font-size: 13px; transition: all 0.3s ease;
+        }
+        .filter-btn:hover { border-color: #FF8A00; color: #FF8A00; }
+        .filter-btn.active { background: #FF8A00; color: white; border-color: #FF8A00; }
+
+        .content { flex: 1; padding: 30px 40px; overflow-y: auto; }
+
+        .cards-container { display: flex; flex-direction: column; gap: 20px; max-width: 900px; }
+
+        .card {
+            background: white; border-radius: 8px; padding: 24px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1); transition: all 0.3s ease;
+            border-left: 5px solid #ccc; display: none;
+        }
+        .card.show { display: block; }
+        .card.approved { border-left-color: #22c55e; }
+        .card.needs-edit { border-left-color: #eab308; }
+        .card.rejected { border-left-color: #ef4444; }
+        .card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.12); }
+
+        .card-header { display: flex; justify-content: space-between; align-items: start; margin-bottom: 15px; }
+        .card-title { font-size: 16px; font-weight: 600; color: #1a1a2e; flex: 1; margin-right: 10px; }
+
+        .card-badge {
+            display: inline-block; padding: 4px 10px; border-radius: 4px;
+            font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;
+        }
+        .badge-x-post { background: #1da1f2; color: white; }
+        .badge-facebook { background: #4267b2; color: white; }
+        .badge-article { background: #9333ea; color: white; }
+        .badge-image { background: #06b6d4; color: white; }
+        .badge-brief { background: #10b981; color: white; }
+
+        .fact-check-badge {
+            display: inline-block; padding: 3px 8px; border-radius: 4px;
+            font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;
+            margin-left: 6px;
+        }
+        .fact-check-verified { background: #dcfce7; color: #166534; border: 1px solid #86efac; }
+        .fact-check-warning { background: #fef9c3; color: #854d0e; border: 1px solid #fde047; }
+        .fact-check-unverified { background: #fee2e2; color: #991b1b; border: 1px solid #fca5a5; }
+
+        /* Content area — preview (collapsed) and full (expanded) */
+        .card-content {
+            background: #f9f9f9; padding: 15px; border-radius: 6px;
+            margin-bottom: 15px; font-size: 13px; line-height: 1.6; color: #555;
+            position: relative;
+        }
+        .card-content-text {
+            white-space: pre-wrap; word-break: break-word;
+        }
+
+        /* Collapsed state: limit height with fade */
+        .card-content.collapsed {
+            max-height: 200px; overflow: hidden;
+        }
+        .card-content.collapsed::after {
+            content: '';
+            position: absolute; bottom: 0; left: 0; right: 0; height: 60px;
+            background: linear-gradient(transparent, #f9f9f9);
+            pointer-events: none;
+        }
+
+        /* Expanded state: no limit */
+        .card-content.expanded {
+            max-height: none; overflow: visible;
+        }
+        .card-content.expanded::after { display: none; }
+
+        .expand-toggle {
+            display: inline-block; margin-bottom: 12px; padding: 6px 14px;
+            background: #eee; border: 1px solid #ddd; border-radius: 4px;
+            cursor: pointer; font-size: 12px; font-weight: 600; color: #555;
+            transition: all 0.2s ease;
+        }
+        .expand-toggle:hover { background: #ddd; color: #333; }
+
+        /* Inline editing */
+        .edit-textarea {
+            width: 100%; padding: 15px; border: 2px solid #FF8A00;
+            border-radius: 6px; font-size: 13px; font-family: inherit;
+            line-height: 1.6; resize: vertical; min-height: 200px;
+            background: #fffef5; color: #333; display: none;
+        }
+        .edit-textarea:focus {
+            outline: none; box-shadow: 0 0 0 3px rgba(255, 107, 53, 0.15);
+        }
+        .card.editing .card-content { display: none; }
+        .card.editing .edit-textarea { display: block; }
+        .card.editing .expand-toggle { display: none; }
+
+        .edit-bar {
+            display: none; gap: 8px; margin-bottom: 12px; padding: 10px;
+            background: #fff8f0; border: 1px solid #ffcc99; border-radius: 6px;
+            align-items: center;
+        }
+        .card.editing .edit-bar { display: flex; }
+        .edit-bar-label { font-size: 12px; font-weight: 600; color: #cc6600; flex: 1; }
+        .edit-bar .btn { padding: 7px 14px; font-size: 12px; }
+
+        .tweet-meta-bar {
+            display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; padding: 0;
+        }
+        .tweet-meta-badge {
+            display: inline-block; padding: 4px 10px; border-radius: 4px;
+            font-size: 11px; font-weight: 600; letter-spacing: 0.3px;
+        }
+        .tweet-meta-label { background: #e0e7ff; color: #3730a3; }
+        .tweet-meta-time { background: #fef3c7; color: #92400e; }
+        .tweet-meta-type { background: #d1fae5; color: #065f46; }
+        .tweet-meta-tier { background: #f3e8ff; color: #6b21a8; }
+        .tweet-meta-hashtags { background: #dbeafe; color: #1e40af; font-family: monospace; }
+
+        .char-count {
+            font-size: 12px; margin: 0 0 10px 0; padding: 8px;
+            background: #f0f0f0; border-radius: 4px;
+        }
+        .char-count.warning { background: #fee2e2; color: #991b1b; }
+
+        .card-actions { display: flex; gap: 8px; margin-bottom: 12px; flex-wrap: wrap; }
+        .action-btn {
+            flex: 1; padding: 10px; border: none; border-radius: 5px;
+            cursor: pointer; font-size: 13px; font-weight: 600;
+            transition: all 0.3s ease; white-space: nowrap; min-width: 100px;
+        }
+        .btn-approve { background: #e8f5e9; color: #22c55e; border: 1px solid #22c55e; }
+        .btn-approve:hover { background: #22c55e; color: white; }
+        .btn-edit { background: #fff3e0; color: #e65100; border: 1px solid #ff9800; }
+        .btn-edit:hover { background: #ff9800; color: white; }
+        .btn-reject { background: #fee2e2; color: #ef4444; border: 1px solid #ef4444; }
+        .btn-reject:hover { background: #ef4444; color: white; }
+        .btn-copy { background: #f0f0f0; color: #333; border: 1px solid #ddd; }
+        .btn-copy:hover { background: #e0e0e0; }
+
+        .notes-section { display: none; margin-bottom: 12px; }
+        .notes-section.show { display: block; }
+        .notes-label { font-size: 12px; font-weight: 600; color: #666; margin-bottom: 6px; }
+        .notes-textarea {
+            width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px;
+            font-size: 13px; font-family: inherit; resize: vertical; min-height: 60px;
+        }
+        .notes-textarea:focus { outline: none; border-color: #FF8A00; box-shadow: 0 0 0 3px rgba(255, 107, 53, 0.1); }
+
+        .status-label {
+            font-size: 11px; font-weight: 600; text-transform: uppercase;
+            padding: 4px 8px; border-radius: 3px; margin-top: 10px; display: inline-block;
+        }
+        .status-approved { background: #e8f5e9; color: #22c55e; }
+        .status-needs-edit { background: #fffbeb; color: #f59e0b; }
+        .status-rejected { background: #fee2e2; color: #ef4444; }
+        .status-edited { background: #e3f2fd; color: #1565c0; }
+
+        .empty-state { text-align: center; padding: 60px 20px; color: #999; }
+        .empty-state-icon { font-size: 48px; margin-bottom: 15px; }
+
+        /* Approval stats bar */
+        .approval-stats {
+            display: flex; gap: 16px; margin-top: 12px; flex-wrap: wrap;
+        }
+        .stat-chip {
+            display: inline-flex; align-items: center; gap: 6px;
+            padding: 4px 12px; border-radius: 20px; font-size: 13px; font-weight: 600;
+        }
+        .stat-approved { background: #dcfce7; color: #16a34a; }
+        .stat-rejected { background: #fee2e2; color: #dc2626; }
+        .stat-unreviewed { background: #f3f4f6; color: #6b7280; }
+        .stat-dot { width: 8px; height: 8px; border-radius: 50%; }
+        .stat-approved .stat-dot { background: #22c55e; }
+        .stat-rejected .stat-dot { background: #ef4444; }
+        .stat-unreviewed .stat-dot { background: #9ca3af; }
+
+        /* PostPlanner XLSX button */
+        .btn-csv { background: #7c3aed; color: white; }
+        .btn-csv:hover { background: #6d28d9; }
+        .btn-csv:disabled { background: #c4b5fd; cursor: not-allowed; }
+
+        /* Schedule settings panel */
+        .schedule-panel {
+            display: none; position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%);
+            background: white; border-radius: 12px; padding: 30px; z-index: 1000;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3); width: 500px; max-width: 90vw; max-height: 80vh; overflow-y: auto;
+        }
+        .schedule-panel.show { display: block; }
+        .schedule-overlay { display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.5); z-index: 999; }
+        .schedule-overlay.show { display: block; }
+        .schedule-panel h3 { color: #1a1a2e; margin-bottom: 20px; font-size: 18px; }
+        .schedule-section { margin-bottom: 20px; }
+        .schedule-section label { display: block; font-size: 13px; font-weight: 600; color: #555; margin-bottom: 6px; }
+        .schedule-section input { width: 100%; padding: 8px 12px; border: 1px solid #ddd; border-radius: 4px; font-size: 14px; }
+        .schedule-section input:focus { outline: none; border-color: #7c3aed; }
+        .time-slots { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; }
+        .time-slot {
+            display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px;
+            background: #f3f0ff; border: 1px solid #c4b5fd; border-radius: 20px; font-size: 13px;
+        }
+        .time-slot .remove-slot { cursor: pointer; color: #999; font-weight: bold; }
+        .time-slot .remove-slot:hover { color: #ef4444; }
+        .add-slot-btn {
+            padding: 6px 14px; background: #f3f0ff; border: 1px dashed #7c3aed; border-radius: 20px;
+            cursor: pointer; font-size: 13px; color: #7c3aed;
+        }
+        .add-slot-btn:hover { background: #ede9fe; }
+        .schedule-actions { display: flex; gap: 10px; justify-content: flex-end; margin-top: 20px; }
+
+        /* Photo search links for image concepts */
+        .photo-section {
+            margin-bottom: 15px; padding: 12px; background: #f0f9ff;
+            border: 1px solid #bae6fd; border-radius: 6px;
+        }
+        .photo-section-title {
+            font-size: 12px; font-weight: 700; color: #0369a1; text-transform: uppercase;
+            letter-spacing: 0.5px; margin-bottom: 8px;
+        }
+        .photo-links { display: flex; flex-wrap: wrap; gap: 6px; }
+        .photo-link {
+            display: inline-block; padding: 6px 12px; background: #0ea5e9;
+            color: white; border-radius: 4px; font-size: 12px; font-weight: 500;
+            text-decoration: none; transition: all 0.2s ease; cursor: pointer;
+        }
+        .photo-link:hover { background: #0284c7; }
+
+        /* Image URL input and preview for image concepts */
+        .image-url-section {
+            margin-bottom: 15px; padding: 12px; background: #f0fdf4;
+            border: 1px solid #bbf7d0; border-radius: 6px;
+        }
+        .image-url-section label {
+            display: block; font-size: 12px; font-weight: 700; color: #166534;
+            text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 6px;
+        }
+        .image-url-input {
+            width: 100%; padding: 8px 10px; border: 1px solid #86efac;
+            border-radius: 4px; font-size: 13px; font-family: monospace;
+            background: white; box-sizing: border-box;
+        }
+        .image-url-input:focus { outline: none; border-color: #22c55e; box-shadow: 0 0 0 2px rgba(34,197,94,0.2); }
+        .image-url-hint {
+            font-size: 11px; color: #6b7280; margin-top: 4px;
+        }
+        .image-preview {
+            margin-top: 8px; text-align: center;
+        }
+        .image-preview img {
+            max-width: 100%; max-height: 200px; border-radius: 4px;
+            border: 1px solid #d1d5db; display: none;
+        }
+        .image-preview img.loaded { display: inline-block; }
+
+        /* Image production status badges */
+        .image-badge {
+            display: inline-block; padding: 2px 8px; border-radius: 3px;
+            font-size: 10px; font-weight: 700; text-transform: uppercase;
+            letter-spacing: 0.5px; margin-left: 6px;
+        }
+        .image-exported { background: #dcfce7; color: #166534; }
+        .image-in-progress { background: #fef3c7; color: #92400e; }
+        .image-not-started { background: #f3f4f6; color: #6b7280; }
+
+        /* Text overlay preview for image concepts */
+        .overlay-section {
+            margin-bottom: 15px; padding: 15px; background: #1a1a2e;
+            border-radius: 6px; text-align: center;
+        }
+        .overlay-line {
+            font-family: 'Bebas Neue', Impact, 'Arial Black', sans-serif;
+            color: #ffd700; font-size: 18px; font-weight: 700; line-height: 1.4;
+            text-transform: uppercase; letter-spacing: 1px;
+        }
+        .overlay-line.sub { color: #ffffff; font-size: 14px; font-weight: 400; letter-spacing: 0; text-transform: none; }
+
+        /* Article content rendered as HTML */
+        .article-frame {
+            width: 100%; border: 1px solid #ddd; border-radius: 6px;
+            background: white; min-height: 300px;
+        }
+
+        @media (max-width: 768px) {
+            .sidebar { width: 100%; height: auto; position: relative; padding: 20px; }
+            .main-content { margin-left: 0; }
+            .content { padding: 20px; }
+            .header { padding: 15px 20px; }
+            .header h1 { font-size: 20px; }
+            .filter-bar { padding: 15px 20px; }
+            .header-meta { flex-direction: column; align-items: stretch; }
+            .progress-bar { min-width: auto; }
+        }
+
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: #f1f1f1; }
+        ::-webkit-scrollbar-thumb { background: #888; border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: #555; }
+    </style>
+</head>
+<body>
+    <div class="sidebar">
+        <h1>Ballpark Banter</h1>
+        <div class="sidebar-date">Review Dashboard<br>2026-09-05</div>
+
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Content Types</div>
+            <div class="nav-item" onclick="filterByType('article')">
+                Articles
+                <span class="nav-item-count">5</span>
+            </div>
+
+            <div class="nav-item" onclick="filterByType('all')">
+                All Items
+                <span class="nav-item-count">5</span>
+            </div>
+        </div>
+
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Status Filter</div>
+            <div class="nav-item" onclick="filterByStatus('all')">All</div>
+            <div class="nav-item" onclick="filterByStatus('unreviewed')">Unreviewed</div>
+            <div class="nav-item" onclick="filterByStatus('approved')">Approved</div>
+            <div class="nav-item" onclick="filterByStatus('needs-edit')">Needs Edit</div>
+            <div class="nav-item" onclick="filterByStatus('rejected')">Rejected</div>
+        </div>
+
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Actions</div>
+            <div class="nav-item" onclick="approveAll()" style="color: #22c55e;">
+                Approve All
+            </div>
+            <div class="nav-item" onclick="exportApprovals()" style="color: #FF8A00;">
+                Export Results JSON
+            </div>
+            <div class="nav-item" onclick="downloadPostPlannerCSV()" style="color: #a78bfa;">
+                PostPlanner Upload
+            </div>
+            <div class="nav-item" onclick="downloadTOBIExport()" style="color: #f472b6;">
+                TOBI Upload
+            </div>
+        </div>
+    </div>
+
+    <div class="main-content">
+        <div class="header">
+            <h1>Ballpark Banter — Content Review Dashboard</h1>
+            <div class="header-meta">
+                <div class="progress-bar">
+                    <div class="progress-label">
+                        <span id="reviewed-count">0</span> of <span id="total-count">5</span> items reviewed
+                    </div>
+                    <div class="progress-container">
+                        <div class="progress-fill" id="progress-fill" style="width: 0%"></div>
+                    </div>
+                    <div class="approval-stats" id="approval-stats">
+                        <span class="stat-chip stat-approved"><span class="stat-dot"></span> <span id="stat-approved-count">0</span> approved</span>
+                        <span class="stat-chip stat-rejected"><span class="stat-dot"></span> <span id="stat-rejected-count">0</span> rejected</span>
+                        <span class="stat-chip stat-unreviewed"><span class="stat-dot"></span> <span id="stat-unreviewed-count">0</span> unreviewed</span>
+                    </div>
+                </div>
+                <div class="header-actions">
+                    <button class="btn btn-secondary" onclick="resetAll()">Reset All</button>
+                    <button class="btn btn-csv" id="btn-csv" onclick="downloadPostPlannerCSV()" disabled>PostPlanner Upload (0 approved)</button>
+                    <button class="btn btn-csv" id="btn-tobi" onclick="downloadTOBIExport()" disabled style="background: #831843; border-color: #f472b6;">TOBI Upload (0 approved)</button>
+                    <button class="btn btn-primary" onclick="exportApprovals()">Export JSON</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="filter-bar">
+            <button class="filter-btn active" onclick="filterByStatus('all')">All</button>
+            <button class="filter-btn" onclick="filterByStatus('unreviewed')">Unreviewed</button>
+            <button class="filter-btn" onclick="filterByStatus('approved')">Approved</button>
+            <button class="filter-btn" onclick="filterByStatus('needs-edit')">Needs Edit</button>
+            <button class="filter-btn" onclick="filterByStatus('rejected')">Rejected</button>
+        </div>
+
+
+        <div class="content">
+            <div class="cards-container" id="cards-container">
+                <div class="card" data-id="article-article-01-pca-39-hr-one-swing-from-history" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">One Home Run. That&#x27;s It. Pete Crow-Armstrong Is This Close to Baseball History.</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-01-pca-39-hr-one-swing-from-history">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+    <meta charset=&quot;UTF-8&quot;>
+    <meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;>
+    <meta name=&quot;description&quot; content=&quot;Pete Crow-Armstrong hit his 39th home run. He needs one more to join the most exclusive club in baseball history — the 40-40 club. Six players have done it in 130 years.&quot;>
+    <meta property=&quot;og:title&quot; content=&quot;One Home Run. That's It. Pete Crow-Armstrong Is This Close to Baseball History.&quot;>
+    <meta property=&quot;og:description&quot; content=&quot;Pete Crow-Armstrong hit his 39th home run. He needs one more to join the most exclusive club in baseball history — the 40-40 club. Six players have done it in 130 years.&quot;>
+    <meta property=&quot;og:type&quot; content=&quot;article&quot;>
+    <meta property=&quot;og:url&quot; content=&quot;https://ballparkbanter.com/article-01-pca-39-hr-one-swing-from-history&quot;>
+    <meta property=&quot;og:image&quot; content=&quot;&quot;>
+    <title>One Home Run. That's It. Pete Crow-Armstrong Is This Close to Baseball History. | Ballpark Banter</title>
+</head>
+<body>
+    <article>
+        <header>
+            <h1>One Home Run. That's It. Pete Crow-Armstrong Is This Close to Baseball History.</h1>
+            <div class=&quot;byline&quot;>
+                <span class=&quot;author&quot;>By Ryan Calloway</span>
+                <span class=&quot;date&quot;>September 5, 2026</span>
+            </div>
+        </header>
+
+        <section>
+            <h2>Six Names in 130 Years</h2>
+            <p>Six players have ever hit 40 home runs and stolen 40 bases in the same MLB season. Six. In 130 years of professional baseball, across thousands of roster spots and tens of thousands of individual seasons, six people have done it.</p>
+            <p>Jose Canseco started it in 1988. Barry Bonds did it in 1996. Alex Rodriguez joined the club in 1998. Alfonso Soriano got there in 2006. Then a 17-year gap before Ronald Acuña Jr. in 2023 and Shohei Ohtani, also in 2023, accomplished it back to back.</p>
+            <p>Now Pete Crow-Armstrong needs one home run.</p>
+            <p>He hit his 39th Thursday, adding to a season that was already historic by any reasonable measure. He has 32 stolen bases. He has 24 games remaining. The Cubs hold the No. 1 National League Wild Card spot. And every time he steps into the box at Wrigley Field, the entire stadium is aware of the number hanging over the at-bat.</p>
+        </section>
+
+        <section>
+            <h2>The Stolen Base Path Is the Harder Half</h2>
+            <p>The math is manageable. One home run in 24 games is not difficult for a player who has been averaging better than a home run every four games this season. But the stolen base path is more complicated. PCA needs eight more steals with fewer than a month remaining, and his green lights are not guaranteed.</p>
+            <p>The Cubs are in a comfortable spot in the wild card standings, but they are not yet clinched, and managers tend to pull back on aggressive baserunning as the postseason approaches. The calculus shifts when a stolen base attempt gone wrong could end a season-defining moment. Every base PCA takes from here carries that tension.</p>
+            <p>The home run does not carry the same tension. A swing is a swing. He does not need permission.</p>
+        </section>
+
+        <section>
+            <h2>What This Season Has Already Done</h2>
+            <p>Even before the 40-40 chase became the dominant story of the final month, Crow-Armstrong's 2026 was already one of the great individual campaigns in Cubs franchise history. He entered September leading the National League MVP race. His defense in center field has been exceptional. He has hit for average and power while providing the kind of impact on the basepaths that changes games.</p>
+            <p>The 40-40 distinction would add a permanent historical marker to a season that did not need one to be remembered. But that is exactly why it matters. History has a way of framing everything around it, and right now, the most important single swing left in the 2026 season might belong to a 24-year-old center fielder in Chicago who needs exactly one home run to do what only six players have ever done.</p>
+        </section>
+
+        <section>
+            <h2>What's Next</h2>
+            <p>The Cubs play 24 more regular season games. Every PCA at-bat is worth watching. His next home run will be covered coast to coast regardless of who is pitching or what the score is. The stolen base total is the slower-building storyline. Watch for the Cubs' baserunning philosophy to be tested in the coming weeks as the standings tighten and October approaches.</p>
+        </section>
+    </article>
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-01-pca-39-hr-one-swing-from-history" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot;&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+    &lt;meta name=&quot;description&quot; content=&quot;Pete Crow-Armstrong hit his 39th home run. He needs one more to join the most exclusive club in baseball history — the 40-40 club. Six players have done it in 130 years.&quot;&gt;
+    &lt;meta property=&quot;og:title&quot; content=&quot;One Home Run. That&#x27;s It. Pete Crow-Armstrong Is This Close to Baseball History.&quot;&gt;
+    &lt;meta property=&quot;og:description&quot; content=&quot;Pete Crow-Armstrong hit his 39th home run. He needs one more to join the most exclusive club in baseball history — the 40-40 club. Six players have done it in 130 years.&quot;&gt;
+    &lt;meta property=&quot;og:type&quot; content=&quot;article&quot;&gt;
+    &lt;meta property=&quot;og:url&quot; content=&quot;https://ballparkbanter.com/article-01-pca-39-hr-one-swing-from-history&quot;&gt;
+    &lt;meta property=&quot;og:image&quot; content=&quot;&quot;&gt;
+    &lt;title&gt;One Home Run. That&#x27;s It. Pete Crow-Armstrong Is This Close to Baseball History. | Ballpark Banter&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;article&gt;
+        &lt;header&gt;
+            &lt;h1&gt;One Home Run. That&#x27;s It. Pete Crow-Armstrong Is This Close to Baseball History.&lt;/h1&gt;
+            &lt;div class=&quot;byline&quot;&gt;
+                &lt;span class=&quot;author&quot;&gt;By Ryan Calloway&lt;/span&gt;
+                &lt;span class=&quot;date&quot;&gt;September 5, 2026&lt;/span&gt;
+            &lt;/div&gt;
+        &lt;/header&gt;
+
+        &lt;section&gt;
+            &lt;h2&gt;Six Names in 130 Years&lt;/h2&gt;
+            &lt;p&gt;Six players have ever hit 40 home runs and stolen 40 bases in the same MLB season. Six. In 130 years of professional baseball, across thousands of roster spots and tens of thousands of individual seasons, six people have done it.&lt;/p&gt;
+            &lt;p&gt;Jose Canseco started it in 1988. Barry Bonds did it in 1996. Alex Rodriguez joined the club in 1998. Alfonso Soriano got there in 2006. Then a 17-year gap before Ronald Acuña Jr. in 2023 and Shohei Ohtani, also in 2023, accomplished it back to back.&lt;/p&gt;
+            &lt;p&gt;Now Pete Crow-Armstrong needs one home run.&lt;/p&gt;
+            &lt;p&gt;He hit his 39th Thursday, adding to a season that was already historic by any reasonable measure. He has 32 stolen bases. He has 24 games remaining. The Cubs hold the No. 1 National League Wild Card spot. And every time he steps into the box at Wrigley Field, the entire stadium is aware of the number hanging over the at-bat.&lt;/p&gt;
+        &lt;/section&gt;
+
+        &lt;section&gt;
+            &lt;h2&gt;The Stolen Base Path Is the Harder Half&lt;/h2&gt;
+            &lt;p&gt;The math is manageable. One home run in 24 games is not difficult for a player who has been averaging better than a home run every four games this season. But the stolen base path is more complicated. PCA needs eight more steals with fewer than a month remaining, and his green lights are not guaranteed.&lt;/p&gt;
+            &lt;p&gt;The Cubs are in a comfortable spot in the wild card standings, but they are not yet clinched, and managers tend to pull back on aggressive baserunning as the postseason approaches. The calculus shifts when a stolen base attempt gone wrong could end a season-defining moment. Every base PCA takes from here carries that tension.&lt;/p&gt;
+            &lt;p&gt;The home run does not carry the same tension. A swing is a swing. He does not need permission.&lt;/p&gt;
+        &lt;/section&gt;
+
+        &lt;section&gt;
+            &lt;h2&gt;What This Season Has Already Done&lt;/h2&gt;
+            &lt;p&gt;Even before the 40-40 chase became the dominant story of the final month, Crow-Armstrong&#x27;s 2026 was already one of the great individual campaigns in Cubs franchise history. He entered September leading the National League MVP race. His defense in center field has been exceptional. He has hit for average and power while providing the kind of impact on the basepaths that changes games.&lt;/p&gt;
+            &lt;p&gt;The 40-40 distinction would add a permanent historical marker to a season that did not need one to be remembered. But that is exactly why it matters. History has a way of framing everything around it, and right now, the most important single swing left in the 2026 season might belong to a 24-year-old center fielder in Chicago who needs exactly one home run to do what only six players have ever done.&lt;/p&gt;
+        &lt;/section&gt;
+
+        &lt;section&gt;
+            &lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+            &lt;p&gt;The Cubs play 24 more regular season games. Every PCA at-bat is worth watching. His next home run will be covered coast to coast regardless of who is pitching or what the score is. The stolen base total is the slower-building storyline. Watch for the Cubs&#x27; baserunning philosophy to be tested in the coming weeks as the standings tighten and October approaches.&lt;/p&gt;
+        &lt;/section&gt;
+    &lt;/article&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-01-pca-39-hr-one-swing-from-history">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-01-pca-39-hr-one-swing-from-history')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-01-pca-39-hr-one-swing-from-history')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-01-pca-39-hr-one-swing-from-history">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-01-pca-39-hr-one-swing-from-history')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-01-pca-39-hr-one-swing-from-history')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-01-pca-39-hr-one-swing-from-history')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-01-pca-39-hr-one-swing-from-history')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-01-pca-39-hr-one-swing-from-history">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-01-pca-39-hr-one-swing-from-history" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-01-pca-39-hr-one-swing-from-history"></div>
+                </div>
+                <div class="card" data-id="article-article-02-misiorowski-rough-start-cy-young" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Misiorowski Allowed 5 Earned Runs for the First Time All Season. Now What?</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-02-misiorowski-rough-start-cy-young">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+    <meta charset=&quot;UTF-8&quot;>
+    <meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;>
+    <meta name=&quot;description&quot; content=&quot;Jacob Misiorowski allowed 5 earned runs for the first time all season against the Cubs. His ERA is now 1.97. He's still the NL Cy Young favorite. But the conversation has changed.&quot;>
+    <meta property=&quot;og:title&quot; content=&quot;Misiorowski Allowed 5 Earned Runs for the First Time All Season. Now What?&quot;>
+    <meta property=&quot;og:description&quot; content=&quot;Jacob Misiorowski allowed 5 earned runs for the first time all season against the Cubs. His ERA is now 1.97. He's still the NL Cy Young favorite. But the conversation has changed.&quot;>
+    <meta property=&quot;og:type&quot; content=&quot;article&quot;>
+    <meta property=&quot;og:url&quot; content=&quot;https://ballparkbanter.com/article-02-misiorowski-rough-start-cy-young&quot;>
+    <meta property=&quot;og:image&quot; content=&quot;&quot;>
+    <title>Misiorowski Allowed 5 Earned Runs for the First Time All Season. Now What? | Ballpark Banter</title>
+</head>
+<body>
+    <article>
+        <header>
+            <h1>Misiorowski Allowed 5 Earned Runs for the First Time All Season. Now What?</h1>
+            <div class=&quot;byline&quot;>
+                <span class=&quot;author&quot;>By Marcus Cole</span>
+                <span class=&quot;date&quot;>September 5, 2026</span>
+            </div>
+        </header>
+
+        <section>
+            <h2>The Streak Is Over</h2>
+            <p>Through 26 starts this season, Jacob Misiorowski had never once allowed more than three earned runs. Not in April when the weather was bad. Not in June during a seven-day road trip. Not in August when the pennant race tightened and every start carried more weight. Three earned runs was the ceiling. He never touched it.</p>
+            <p>Then he went to Wrigley Field on Wednesday night and allowed five.</p>
+            <p>The details: four innings pitched. Five runs. Five hits. Four walks. Those four walks matched a career high. Hot, humid conditions. A leadoff walk to Pete Crow-Armstrong in the first inning, then a two-run home run from Alex Bregman before he recorded an out. The Cubs chased him by the end of the second inning and Misiorowski never recovered.</p>
+            <p>The Brewers won 9-5 anyway. Their offense bailed him out. It was a Milwaukee win. But it was a Misiorowski loss in the sense that matters for the Cy Young conversation.</p>
+        </section>
+
+        <section>
+            <h2>What the Numbers Still Say</h2>
+            <p>His ERA rose from approximately 1.73 to 1.97 after Wednesday's start. That 1.97 is still the lowest ERA in baseball. He is still the overwhelming NL Cy Young favorite. No one start erases what he has built over 26 outings.</p>
+            <p>The comparison throughout this season has been to Pedro Martinez's 2000 campaign for the Red Sox, when Martinez went 18-6 with a 1.74 ERA, 0.73 WHIP, and 284 strikeouts. That season is widely considered one of the two or three greatest pitching seasons in the modern era. Misiorowski has been in that zip code all year.</p>
+            <p>Martinez had rough starts too. Every pitcher does. The question is whether Wednesday at Wrigley was weather and circumstances, or whether it signals something that could carry into September and affect the award vote or, more importantly, the postseason.</p>
+        </section>
+
+        <section>
+            <h2>The Larger Context</h2>
+            <p>The Brewers are 87-53 and sitting atop the NL Central. They are in fine shape. Misiorowski's next start will likely come around September 8 or 9, and how he looks then will tell more than Wednesday's stumble told by itself.</p>
+            <p>One bad start in September is noise. Two bad starts in September is a signal. Misiorowski's body of work is deep enough to absorb one rough night in hot Wrigley conditions. But the people watching the Cy Young race will be watching his next outing more closely because of what happened Wednesday, and that scrutiny is fair.</p>
+        </section>
+
+        <section>
+            <h2>What's Next</h2>
+            <p>Misiorowski's next scheduled start is around September 8 or 9. His ERA at 1.97 still leads all MLB starters. Watch for how he responds — his September starts will be the most scrutinized of his season, and the Cy Young Award tends to weight late-season performance heavily in close races.</p>
+        </section>
+    </article>
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-02-misiorowski-rough-start-cy-young" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot;&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+    &lt;meta name=&quot;description&quot; content=&quot;Jacob Misiorowski allowed 5 earned runs for the first time all season against the Cubs. His ERA is now 1.97. He&#x27;s still the NL Cy Young favorite. But the conversation has changed.&quot;&gt;
+    &lt;meta property=&quot;og:title&quot; content=&quot;Misiorowski Allowed 5 Earned Runs for the First Time All Season. Now What?&quot;&gt;
+    &lt;meta property=&quot;og:description&quot; content=&quot;Jacob Misiorowski allowed 5 earned runs for the first time all season against the Cubs. His ERA is now 1.97. He&#x27;s still the NL Cy Young favorite. But the conversation has changed.&quot;&gt;
+    &lt;meta property=&quot;og:type&quot; content=&quot;article&quot;&gt;
+    &lt;meta property=&quot;og:url&quot; content=&quot;https://ballparkbanter.com/article-02-misiorowski-rough-start-cy-young&quot;&gt;
+    &lt;meta property=&quot;og:image&quot; content=&quot;&quot;&gt;
+    &lt;title&gt;Misiorowski Allowed 5 Earned Runs for the First Time All Season. Now What? | Ballpark Banter&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;article&gt;
+        &lt;header&gt;
+            &lt;h1&gt;Misiorowski Allowed 5 Earned Runs for the First Time All Season. Now What?&lt;/h1&gt;
+            &lt;div class=&quot;byline&quot;&gt;
+                &lt;span class=&quot;author&quot;&gt;By Marcus Cole&lt;/span&gt;
+                &lt;span class=&quot;date&quot;&gt;September 5, 2026&lt;/span&gt;
+            &lt;/div&gt;
+        &lt;/header&gt;
+
+        &lt;section&gt;
+            &lt;h2&gt;The Streak Is Over&lt;/h2&gt;
+            &lt;p&gt;Through 26 starts this season, Jacob Misiorowski had never once allowed more than three earned runs. Not in April when the weather was bad. Not in June during a seven-day road trip. Not in August when the pennant race tightened and every start carried more weight. Three earned runs was the ceiling. He never touched it.&lt;/p&gt;
+            &lt;p&gt;Then he went to Wrigley Field on Wednesday night and allowed five.&lt;/p&gt;
+            &lt;p&gt;The details: four innings pitched. Five runs. Five hits. Four walks. Those four walks matched a career high. Hot, humid conditions. A leadoff walk to Pete Crow-Armstrong in the first inning, then a two-run home run from Alex Bregman before he recorded an out. The Cubs chased him by the end of the second inning and Misiorowski never recovered.&lt;/p&gt;
+            &lt;p&gt;The Brewers won 9-5 anyway. Their offense bailed him out. It was a Milwaukee win. But it was a Misiorowski loss in the sense that matters for the Cy Young conversation.&lt;/p&gt;
+        &lt;/section&gt;
+
+        &lt;section&gt;
+            &lt;h2&gt;What the Numbers Still Say&lt;/h2&gt;
+            &lt;p&gt;His ERA rose from approximately 1.73 to 1.97 after Wednesday&#x27;s start. That 1.97 is still the lowest ERA in baseball. He is still the overwhelming NL Cy Young favorite. No one start erases what he has built over 26 outings.&lt;/p&gt;
+            &lt;p&gt;The comparison throughout this season has been to Pedro Martinez&#x27;s 2000 campaign for the Red Sox, when Martinez went 18-6 with a 1.74 ERA, 0.73 WHIP, and 284 strikeouts. That season is widely considered one of the two or three greatest pitching seasons in the modern era. Misiorowski has been in that zip code all year.&lt;/p&gt;
+            &lt;p&gt;Martinez had rough starts too. Every pitcher does. The question is whether Wednesday at Wrigley was weather and circumstances, or whether it signals something that could carry into September and affect the award vote or, more importantly, the postseason.&lt;/p&gt;
+        &lt;/section&gt;
+
+        &lt;section&gt;
+            &lt;h2&gt;The Larger Context&lt;/h2&gt;
+            &lt;p&gt;The Brewers are 87-53 and sitting atop the NL Central. They are in fine shape. Misiorowski&#x27;s next start will likely come around September 8 or 9, and how he looks then will tell more than Wednesday&#x27;s stumble told by itself.&lt;/p&gt;
+            &lt;p&gt;One bad start in September is noise. Two bad starts in September is a signal. Misiorowski&#x27;s body of work is deep enough to absorb one rough night in hot Wrigley conditions. But the people watching the Cy Young race will be watching his next outing more closely because of what happened Wednesday, and that scrutiny is fair.&lt;/p&gt;
+        &lt;/section&gt;
+
+        &lt;section&gt;
+            &lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+            &lt;p&gt;Misiorowski&#x27;s next scheduled start is around September 8 or 9. His ERA at 1.97 still leads all MLB starters. Watch for how he responds — his September starts will be the most scrutinized of his season, and the Cy Young Award tends to weight late-season performance heavily in close races.&lt;/p&gt;
+        &lt;/section&gt;
+    &lt;/article&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-02-misiorowski-rough-start-cy-young">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-02-misiorowski-rough-start-cy-young')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-02-misiorowski-rough-start-cy-young')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-02-misiorowski-rough-start-cy-young">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-02-misiorowski-rough-start-cy-young')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-02-misiorowski-rough-start-cy-young')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-02-misiorowski-rough-start-cy-young')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-02-misiorowski-rough-start-cy-young')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-02-misiorowski-rough-start-cy-young">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-02-misiorowski-rough-start-cy-young" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-02-misiorowski-rough-start-cy-young"></div>
+                </div>
+                <div class="card" data-id="article-article-03-ohtani-out-two-straight-il" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Roberts: Missing a Week &quot;Certainly a Possibility&quot; for Ohtani</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-03-ohtani-out-two-straight-il">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+    <meta charset=&quot;UTF-8&quot;>
+    <meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;>
+    <meta name=&quot;description&quot; content=&quot;Shohei Ohtani has missed two straight Dodgers games. Dave Roberts says IL is 'unlikely but not impossible' and missing a week is 'certainly a possibility.' October concerns are growing.&quot;>
+    <meta property=&quot;og:title&quot; content=&quot;Roberts: Missing a Week 'Certainly a Possibility' for Ohtani&quot;>
+    <meta property=&quot;og:description&quot; content=&quot;Shohei Ohtani has missed two straight Dodgers games. Dave Roberts says IL is 'unlikely but not impossible' and missing a week is 'certainly a possibility.' October concerns are growing.&quot;>
+    <meta property=&quot;og:type&quot; content=&quot;article&quot;>
+    <meta property=&quot;og:url&quot; content=&quot;https://ballparkbanter.com/article-03-ohtani-out-two-straight-il&quot;>
+    <meta property=&quot;og:image&quot; content=&quot;&quot;>
+    <title>Roberts: Missing a Week 'Certainly a Possibility' for Ohtani | Ballpark Banter</title>
+</head>
+<body>
+    <article>
+        <header>
+            <h1>Roberts: Missing a Week &quot;Certainly a Possibility&quot; for Ohtani</h1>
+            <div class=&quot;byline&quot;>
+                <span class=&quot;author&quot;>By Jake Torres</span>
+                <span class=&quot;date&quot;>September 5, 2026</span>
+            </div>
+        </header>
+
+        <section>
+            <h2>The Words Dave Roberts Said</h2>
+            <p>For the second consecutive game on Friday, Shohei Ohtani was not in the Los Angeles Dodgers' starting lineup. Dodgers manager Dave Roberts addressed the media before the game, and the quotes are worth reading carefully.</p>
+            <p>Roberts said an injured list stint for Ohtani was &quot;unlikely, but not impossible.&quot; He said missing nearly a week was &quot;certainly a possibility.&quot; When asked directly whether he was confident Ohtani would avoid the IL, his answer was: &quot;Hopeful, but I wouldn't say confident.&quot;</p>
+            <p>Those are not the words of a manager who expects his best player back in the lineup tomorrow. Those are the words of a manager navigating something he does not fully control, trying to be honest about a situation that is evolving day by day.</p>
+        </section>
+
+        <section>
+            <h2>The Physical Picture</h2>
+            <p>Ohtani has not pitched since July 3, when a combination of left knee and biceps soreness pushed the Dodgers to shelve his pitching plans for the season. He has continued to hit throughout August, though the results have been alarming. Since August 18, he is 7-for-51 with 20 strikeouts — a .137 batting average across 51 at-bats.</p>
+            <p>During Wednesday's loss to the Cardinals, he was visibly uncomfortable after some at-bats and expressed neck soreness after the game along with pain along his right arm. That added a new physical concern to the list that already included the knee and the biceps.</p>
+            <p>Roberts' response was to hold Ohtani out Thursday. Then Friday. The missed games are now consecutive, which marks the first time this season Ohtani has sat out back-to-back games.</p>
+        </section>
+
+        <section>
+            <h2>What This Means for October</h2>
+            <p>The Dodgers are 82-57 and in control of the NL West. The postseason is not in doubt. But October is exactly what makes this situation concerning.</p>
+            <p>A player hitting .137 with 20 strikeouts in 51 at-bats is not a postseason weapon, regardless of what his talent level is. If Ohtani goes to the IL now and comes back in two weeks, the Dodgers are betting he can reset physically and rediscover his swing in a short window before the playoffs start. If he does not go to the IL and continues to play through the discomfort, the Dodgers risk both the physical situation and Ohtani's confidence at the plate.</p>
+            <p>The rest-versus-rhythm tradeoff that Roberts described back in early September has now become more urgent. There is no comfortable answer, and the clock is running.</p>
+        </section>
+
+        <section>
+            <h2>What's Next</h2>
+            <p>Watch Roberts' pregame availability in the coming days for any update on Ohtani's status. The Dodgers have not placed him on the injured list as of Friday, but Roberts' language leaves that door clearly open. The next medical evaluation and Roberts' characterization of it will be the biggest Dodgers storyline of the weekend.</p>
+        </section>
+    </article>
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-03-ohtani-out-two-straight-il" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot;&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+    &lt;meta name=&quot;description&quot; content=&quot;Shohei Ohtani has missed two straight Dodgers games. Dave Roberts says IL is &#x27;unlikely but not impossible&#x27; and missing a week is &#x27;certainly a possibility.&#x27; October concerns are growing.&quot;&gt;
+    &lt;meta property=&quot;og:title&quot; content=&quot;Roberts: Missing a Week &#x27;Certainly a Possibility&#x27; for Ohtani&quot;&gt;
+    &lt;meta property=&quot;og:description&quot; content=&quot;Shohei Ohtani has missed two straight Dodgers games. Dave Roberts says IL is &#x27;unlikely but not impossible&#x27; and missing a week is &#x27;certainly a possibility.&#x27; October concerns are growing.&quot;&gt;
+    &lt;meta property=&quot;og:type&quot; content=&quot;article&quot;&gt;
+    &lt;meta property=&quot;og:url&quot; content=&quot;https://ballparkbanter.com/article-03-ohtani-out-two-straight-il&quot;&gt;
+    &lt;meta property=&quot;og:image&quot; content=&quot;&quot;&gt;
+    &lt;title&gt;Roberts: Missing a Week &#x27;Certainly a Possibility&#x27; for Ohtani | Ballpark Banter&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;article&gt;
+        &lt;header&gt;
+            &lt;h1&gt;Roberts: Missing a Week &quot;Certainly a Possibility&quot; for Ohtani&lt;/h1&gt;
+            &lt;div class=&quot;byline&quot;&gt;
+                &lt;span class=&quot;author&quot;&gt;By Jake Torres&lt;/span&gt;
+                &lt;span class=&quot;date&quot;&gt;September 5, 2026&lt;/span&gt;
+            &lt;/div&gt;
+        &lt;/header&gt;
+
+        &lt;section&gt;
+            &lt;h2&gt;The Words Dave Roberts Said&lt;/h2&gt;
+            &lt;p&gt;For the second consecutive game on Friday, Shohei Ohtani was not in the Los Angeles Dodgers&#x27; starting lineup. Dodgers manager Dave Roberts addressed the media before the game, and the quotes are worth reading carefully.&lt;/p&gt;
+            &lt;p&gt;Roberts said an injured list stint for Ohtani was &quot;unlikely, but not impossible.&quot; He said missing nearly a week was &quot;certainly a possibility.&quot; When asked directly whether he was confident Ohtani would avoid the IL, his answer was: &quot;Hopeful, but I wouldn&#x27;t say confident.&quot;&lt;/p&gt;
+            &lt;p&gt;Those are not the words of a manager who expects his best player back in the lineup tomorrow. Those are the words of a manager navigating something he does not fully control, trying to be honest about a situation that is evolving day by day.&lt;/p&gt;
+        &lt;/section&gt;
+
+        &lt;section&gt;
+            &lt;h2&gt;The Physical Picture&lt;/h2&gt;
+            &lt;p&gt;Ohtani has not pitched since July 3, when a combination of left knee and biceps soreness pushed the Dodgers to shelve his pitching plans for the season. He has continued to hit throughout August, though the results have been alarming. Since August 18, he is 7-for-51 with 20 strikeouts — a .137 batting average across 51 at-bats.&lt;/p&gt;
+            &lt;p&gt;During Wednesday&#x27;s loss to the Cardinals, he was visibly uncomfortable after some at-bats and expressed neck soreness after the game along with pain along his right arm. That added a new physical concern to the list that already included the knee and the biceps.&lt;/p&gt;
+            &lt;p&gt;Roberts&#x27; response was to hold Ohtani out Thursday. Then Friday. The missed games are now consecutive, which marks the first time this season Ohtani has sat out back-to-back games.&lt;/p&gt;
+        &lt;/section&gt;
+
+        &lt;section&gt;
+            &lt;h2&gt;What This Means for October&lt;/h2&gt;
+            &lt;p&gt;The Dodgers are 82-57 and in control of the NL West. The postseason is not in doubt. But October is exactly what makes this situation concerning.&lt;/p&gt;
+            &lt;p&gt;A player hitting .137 with 20 strikeouts in 51 at-bats is not a postseason weapon, regardless of what his talent level is. If Ohtani goes to the IL now and comes back in two weeks, the Dodgers are betting he can reset physically and rediscover his swing in a short window before the playoffs start. If he does not go to the IL and continues to play through the discomfort, the Dodgers risk both the physical situation and Ohtani&#x27;s confidence at the plate.&lt;/p&gt;
+            &lt;p&gt;The rest-versus-rhythm tradeoff that Roberts described back in early September has now become more urgent. There is no comfortable answer, and the clock is running.&lt;/p&gt;
+        &lt;/section&gt;
+
+        &lt;section&gt;
+            &lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+            &lt;p&gt;Watch Roberts&#x27; pregame availability in the coming days for any update on Ohtani&#x27;s status. The Dodgers have not placed him on the injured list as of Friday, but Roberts&#x27; language leaves that door clearly open. The next medical evaluation and Roberts&#x27; characterization of it will be the biggest Dodgers storyline of the weekend.&lt;/p&gt;
+        &lt;/section&gt;
+    &lt;/article&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-03-ohtani-out-two-straight-il">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-03-ohtani-out-two-straight-il')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-03-ohtani-out-two-straight-il')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-03-ohtani-out-two-straight-il">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-03-ohtani-out-two-straight-il')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-03-ohtani-out-two-straight-il')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-03-ohtani-out-two-straight-il')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-03-ohtani-out-two-straight-il')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-03-ohtani-out-two-straight-il">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-03-ohtani-out-two-straight-il" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-03-ohtani-out-two-straight-il"></div>
+                </div>
+                <div class="card" data-id="article-article-04-alvarez-caminero-tied-hr-race" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">37-37: Caminero Ties Alvarez, and the Triple Crown Just Got Complicated</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-04-alvarez-caminero-tied-hr-race">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+    <meta charset=&quot;UTF-8&quot;>
+    <meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;>
+    <meta name=&quot;description&quot; content=&quot;Junior Caminero hit his 37th home run to tie Yordan Alvarez for the AL lead. The Triple Crown is now contested on all three fronts with 24 games left. Last AL Triple Crown: Cabrera in 2012.&quot;>
+    <meta property=&quot;og:title&quot; content=&quot;37-37: Caminero Ties Alvarez, and the Triple Crown Just Got Complicated&quot;>
+    <meta property=&quot;og:description&quot; content=&quot;Junior Caminero hit his 37th home run to tie Yordan Alvarez for the AL lead. The Triple Crown is now contested on all three fronts with 24 games left. Last AL Triple Crown: Cabrera in 2012.&quot;>
+    <meta property=&quot;og:type&quot; content=&quot;article&quot;>
+    <meta property=&quot;og:url&quot; content=&quot;https://ballparkbanter.com/article-04-alvarez-caminero-tied-hr-race&quot;>
+    <meta property=&quot;og:image&quot; content=&quot;&quot;>
+    <title>37-37: Caminero Ties Alvarez, and the Triple Crown Just Got Complicated | Ballpark Banter</title>
+</head>
+<body>
+    <article>
+        <header>
+            <h1>37-37: Caminero Ties Alvarez, and the Triple Crown Just Got Complicated</h1>
+            <div class=&quot;byline&quot;>
+                <span class=&quot;author&quot;>By Ryan Calloway</span>
+                <span class=&quot;date&quot;>September 5, 2026</span>
+            </div>
+        </header>
+
+        <section>
+            <h2>The HR Lead Is Gone</h2>
+            <p>For weeks, the home run category looked like Yordan Alvarez's clearest Triple Crown advantage. He led Junior Caminero 36 to 35 entering September. A one-homer cushion is not comfortable, but it is a lead.</p>
+            <p>Then Caminero hit his 37th. With a fourth-inning solo shot that tied the American League home run leaderboard, the Triple Crown race shifted. The one category that was Alvarez's clearest win is now a tie. Every swing Caminero takes now has the potential to put Alvarez in a deficit for the first time all season.</p>
+        </section>
+
+        <section>
+            <h2>Where Alvarez Stands</h2>
+            <p>Despite losing the HR lead, Alvarez still controls two of the three categories. His batting average is .316, which gives him an 8-point lead over Chandler Simpson, who is hitting .308. In RBI, Alvarez is at 94, holding off Pete Alonso of Baltimore.</p>
+            <p>The last American League Triple Crown winner was Miguel Cabrera in 2012. That was 14 years ago. To win the Triple Crown, a player must lead the league in all three categories at season's end. A tie does not count. If Alvarez and Caminero finish with 40 home runs each, neither of them wins the home run title outright — they share it, and neither can claim the Triple Crown.</p>
+            <p>That is the specific danger of a tie. A tie in home runs is not a safe outcome for Alvarez. He needs to be ahead.</p>
+        </section>
+
+        <section>
+            <h2>What the Next 24 Games Look Like</h2>
+            <p>With 24 games remaining, the scenarios multiply daily. Caminero could go cold and Alvarez could separate. Alvarez could go cold and Caminero could take the lead. Simpson could close the batting average gap. Alonso could overtake the RBI race.</p>
+            <p>The Triple Crown has been chased dozens of times in the modern era. What makes it so rare is that holding three simultaneous leads over 162 games requires three separate streaks of good luck to coexist. Alvarez has come closer than almost any player in a decade. The Caminero tie changes the probability significantly. To finish with the Triple Crown, Alvarez now needs to do what he hasn't had to do all season — pull ahead in the home run race while maintaining his leads in two other categories at the same time.</p>
+        </section>
+
+        <section>
+            <h2>What's Next</h2>
+            <p>Watch the Astros' and Rays' schedules over the next two weeks as the HR race between Alvarez and Caminero plays out daily. Any change in the batting average or RBI standings will be worth tracking as well — all three races are now live simultaneously with 24 games to go.</p>
+        </section>
+    </article>
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-04-alvarez-caminero-tied-hr-race" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot;&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+    &lt;meta name=&quot;description&quot; content=&quot;Junior Caminero hit his 37th home run to tie Yordan Alvarez for the AL lead. The Triple Crown is now contested on all three fronts with 24 games left. Last AL Triple Crown: Cabrera in 2012.&quot;&gt;
+    &lt;meta property=&quot;og:title&quot; content=&quot;37-37: Caminero Ties Alvarez, and the Triple Crown Just Got Complicated&quot;&gt;
+    &lt;meta property=&quot;og:description&quot; content=&quot;Junior Caminero hit his 37th home run to tie Yordan Alvarez for the AL lead. The Triple Crown is now contested on all three fronts with 24 games left. Last AL Triple Crown: Cabrera in 2012.&quot;&gt;
+    &lt;meta property=&quot;og:type&quot; content=&quot;article&quot;&gt;
+    &lt;meta property=&quot;og:url&quot; content=&quot;https://ballparkbanter.com/article-04-alvarez-caminero-tied-hr-race&quot;&gt;
+    &lt;meta property=&quot;og:image&quot; content=&quot;&quot;&gt;
+    &lt;title&gt;37-37: Caminero Ties Alvarez, and the Triple Crown Just Got Complicated | Ballpark Banter&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;article&gt;
+        &lt;header&gt;
+            &lt;h1&gt;37-37: Caminero Ties Alvarez, and the Triple Crown Just Got Complicated&lt;/h1&gt;
+            &lt;div class=&quot;byline&quot;&gt;
+                &lt;span class=&quot;author&quot;&gt;By Ryan Calloway&lt;/span&gt;
+                &lt;span class=&quot;date&quot;&gt;September 5, 2026&lt;/span&gt;
+            &lt;/div&gt;
+        &lt;/header&gt;
+
+        &lt;section&gt;
+            &lt;h2&gt;The HR Lead Is Gone&lt;/h2&gt;
+            &lt;p&gt;For weeks, the home run category looked like Yordan Alvarez&#x27;s clearest Triple Crown advantage. He led Junior Caminero 36 to 35 entering September. A one-homer cushion is not comfortable, but it is a lead.&lt;/p&gt;
+            &lt;p&gt;Then Caminero hit his 37th. With a fourth-inning solo shot that tied the American League home run leaderboard, the Triple Crown race shifted. The one category that was Alvarez&#x27;s clearest win is now a tie. Every swing Caminero takes now has the potential to put Alvarez in a deficit for the first time all season.&lt;/p&gt;
+        &lt;/section&gt;
+
+        &lt;section&gt;
+            &lt;h2&gt;Where Alvarez Stands&lt;/h2&gt;
+            &lt;p&gt;Despite losing the HR lead, Alvarez still controls two of the three categories. His batting average is .316, which gives him an 8-point lead over Chandler Simpson, who is hitting .308. In RBI, Alvarez is at 94, holding off Pete Alonso of Baltimore.&lt;/p&gt;
+            &lt;p&gt;The last American League Triple Crown winner was Miguel Cabrera in 2012. That was 14 years ago. To win the Triple Crown, a player must lead the league in all three categories at season&#x27;s end. A tie does not count. If Alvarez and Caminero finish with 40 home runs each, neither of them wins the home run title outright — they share it, and neither can claim the Triple Crown.&lt;/p&gt;
+            &lt;p&gt;That is the specific danger of a tie. A tie in home runs is not a safe outcome for Alvarez. He needs to be ahead.&lt;/p&gt;
+        &lt;/section&gt;
+
+        &lt;section&gt;
+            &lt;h2&gt;What the Next 24 Games Look Like&lt;/h2&gt;
+            &lt;p&gt;With 24 games remaining, the scenarios multiply daily. Caminero could go cold and Alvarez could separate. Alvarez could go cold and Caminero could take the lead. Simpson could close the batting average gap. Alonso could overtake the RBI race.&lt;/p&gt;
+            &lt;p&gt;The Triple Crown has been chased dozens of times in the modern era. What makes it so rare is that holding three simultaneous leads over 162 games requires three separate streaks of good luck to coexist. Alvarez has come closer than almost any player in a decade. The Caminero tie changes the probability significantly. To finish with the Triple Crown, Alvarez now needs to do what he hasn&#x27;t had to do all season — pull ahead in the home run race while maintaining his leads in two other categories at the same time.&lt;/p&gt;
+        &lt;/section&gt;
+
+        &lt;section&gt;
+            &lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+            &lt;p&gt;Watch the Astros&#x27; and Rays&#x27; schedules over the next two weeks as the HR race between Alvarez and Caminero plays out daily. Any change in the batting average or RBI standings will be worth tracking as well — all three races are now live simultaneously with 24 games to go.&lt;/p&gt;
+        &lt;/section&gt;
+    &lt;/article&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-04-alvarez-caminero-tied-hr-race">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-04-alvarez-caminero-tied-hr-race')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-04-alvarez-caminero-tied-hr-race')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-04-alvarez-caminero-tied-hr-race">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-04-alvarez-caminero-tied-hr-race')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-04-alvarez-caminero-tied-hr-race')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-04-alvarez-caminero-tied-hr-race')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-04-alvarez-caminero-tied-hr-race')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-04-alvarez-caminero-tied-hr-race">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-04-alvarez-caminero-tied-hr-race" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-04-alvarez-caminero-tied-hr-race"></div>
+                </div>
+                <div class="card" data-id="article-article-05-cardinals-wc-21-games-left" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">The Cardinals Believe. The Math Says They Need 14-7.</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-05-cardinals-wc-21-games-left">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+    <meta charset=&quot;UTF-8&quot;>
+    <meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;>
+    <meta name=&quot;description&quot; content=&quot;The Cardinals are 70-70 with 21 games left and 3.5 back from a wild card spot. After Saggese's walk-off Wednesday, they still believe. The math says they need to go 14-7.&quot;>
+    <meta property=&quot;og:title&quot; content=&quot;The Cardinals Believe. The Math Says They Need 14-7.&quot;>
+    <meta property=&quot;og:description&quot; content=&quot;The Cardinals are 70-70 with 21 games left and 3.5 back from a wild card spot. After Saggese's walk-off Wednesday, they still believe. The math says they need to go 14-7.&quot;>
+    <meta property=&quot;og:type&quot; content=&quot;article&quot;>
+    <meta property=&quot;og:url&quot; content=&quot;https://ballparkbanter.com/article-05-cardinals-wc-21-games-left&quot;>
+    <meta property=&quot;og:image&quot; content=&quot;&quot;>
+    <title>The Cardinals Believe. The Math Says They Need 14-7. | Ballpark Banter</title>
+</head>
+<body>
+    <article>
+        <header>
+            <h1>The Cardinals Believe. The Math Says They Need 14-7.</h1>
+            <div class=&quot;byline&quot;>
+                <span class=&quot;author&quot;>By Marcus Cole</span>
+                <span class=&quot;date&quot;>September 5, 2026</span>
+            </div>
+        </header>
+
+        <section>
+            <h2>What the Numbers Say</h2>
+            <p>The St. Louis Cardinals are 70-70. They have 21 games remaining. They are 3.5 games out of the third National League wild card spot, which currently belongs to the San Diego Padres. The Arizona Diamondbacks are 0.5 games behind the Padres, meaning St. Louis is essentially 4 teams away from the last playoff berth.</p>
+            <p>To have a realistic shot at the postseason, the Cardinals need to go approximately 14-7 over their final 21 games. That pace — .667 winning percentage — would put them on track for a final record around 84-78. Whether that is enough depends entirely on how the Padres and Diamondbacks finish. The Cardinals cannot control San Diego or Arizona. They can only control their own games.</p>
+        </section>
+
+        <section>
+            <h2>Why They Still Believe</h2>
+            <p>Before the math sounds too cold, here is what Wednesday night in Los Angeles looked like: Nolan Saggese broke up Yoshinobu Yamamoto's no-hitter with a two-run home run in the sixth inning, then delivered a walk-off single in the tenth to beat the Dodgers 8-6. Leo Bernal hit his first career MLB home run. The Cardinals rallied from behind against one of the best rotations in baseball and beat them on their home field.</p>
+            <p>That is the version of this team that can go 14-7. The one that finds a way against elite pitching. The one where Saggese, still relatively new to this roster, keeps producing at-bats like that.</p>
+            <p>Saggese's emergence has been the one consistent bright spot of the Cardinals' second half. He is not a name that was on many national radar screens at the start of the season. He is now. A middle-of-the-order bat who can hit for average and drive in runs gives the Cardinals a different look than they had in April, and that is what makes the final 21 games interesting instead of academic.</p>
+        </section>
+
+        <section>
+            <h2>The Gauntlet Ahead</h2>
+            <p>The schedule is not soft. The Cardinals will face teams fighting for their own positioning in September, and a .667 pace is genuinely difficult to sustain. The Padres have experience in tight September races. The Diamondbacks have proven they can win when it matters.</p>
+            <p>But the Cardinals are not dead. A .500 team that goes 14-7 to close the season is not playing above itself — it is playing like a playoff team. The question is whether they can sustain it for three more weeks when the pressure is at its peak and every game carries consequences.</p>
+        </section>
+
+        <section>
+            <h2>What's Next</h2>
+            <p>Track the Cardinals' daily results against the Padres and Diamondbacks' records as September continues. Any Cardinals winning streak accompanied by a San Diego or Arizona slump is the scenario St. Louis needs. Watch for Saggese's production to continue being a key variable — he has been the most impactful Cardinals bat in the second half.</p>
+        </section>
+    </article>
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-05-cardinals-wc-21-games-left" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot;&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+    &lt;meta name=&quot;description&quot; content=&quot;The Cardinals are 70-70 with 21 games left and 3.5 back from a wild card spot. After Saggese&#x27;s walk-off Wednesday, they still believe. The math says they need to go 14-7.&quot;&gt;
+    &lt;meta property=&quot;og:title&quot; content=&quot;The Cardinals Believe. The Math Says They Need 14-7.&quot;&gt;
+    &lt;meta property=&quot;og:description&quot; content=&quot;The Cardinals are 70-70 with 21 games left and 3.5 back from a wild card spot. After Saggese&#x27;s walk-off Wednesday, they still believe. The math says they need to go 14-7.&quot;&gt;
+    &lt;meta property=&quot;og:type&quot; content=&quot;article&quot;&gt;
+    &lt;meta property=&quot;og:url&quot; content=&quot;https://ballparkbanter.com/article-05-cardinals-wc-21-games-left&quot;&gt;
+    &lt;meta property=&quot;og:image&quot; content=&quot;&quot;&gt;
+    &lt;title&gt;The Cardinals Believe. The Math Says They Need 14-7. | Ballpark Banter&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;article&gt;
+        &lt;header&gt;
+            &lt;h1&gt;The Cardinals Believe. The Math Says They Need 14-7.&lt;/h1&gt;
+            &lt;div class=&quot;byline&quot;&gt;
+                &lt;span class=&quot;author&quot;&gt;By Marcus Cole&lt;/span&gt;
+                &lt;span class=&quot;date&quot;&gt;September 5, 2026&lt;/span&gt;
+            &lt;/div&gt;
+        &lt;/header&gt;
+
+        &lt;section&gt;
+            &lt;h2&gt;What the Numbers Say&lt;/h2&gt;
+            &lt;p&gt;The St. Louis Cardinals are 70-70. They have 21 games remaining. They are 3.5 games out of the third National League wild card spot, which currently belongs to the San Diego Padres. The Arizona Diamondbacks are 0.5 games behind the Padres, meaning St. Louis is essentially 4 teams away from the last playoff berth.&lt;/p&gt;
+            &lt;p&gt;To have a realistic shot at the postseason, the Cardinals need to go approximately 14-7 over their final 21 games. That pace — .667 winning percentage — would put them on track for a final record around 84-78. Whether that is enough depends entirely on how the Padres and Diamondbacks finish. The Cardinals cannot control San Diego or Arizona. They can only control their own games.&lt;/p&gt;
+        &lt;/section&gt;
+
+        &lt;section&gt;
+            &lt;h2&gt;Why They Still Believe&lt;/h2&gt;
+            &lt;p&gt;Before the math sounds too cold, here is what Wednesday night in Los Angeles looked like: Nolan Saggese broke up Yoshinobu Yamamoto&#x27;s no-hitter with a two-run home run in the sixth inning, then delivered a walk-off single in the tenth to beat the Dodgers 8-6. Leo Bernal hit his first career MLB home run. The Cardinals rallied from behind against one of the best rotations in baseball and beat them on their home field.&lt;/p&gt;
+            &lt;p&gt;That is the version of this team that can go 14-7. The one that finds a way against elite pitching. The one where Saggese, still relatively new to this roster, keeps producing at-bats like that.&lt;/p&gt;
+            &lt;p&gt;Saggese&#x27;s emergence has been the one consistent bright spot of the Cardinals&#x27; second half. He is not a name that was on many national radar screens at the start of the season. He is now. A middle-of-the-order bat who can hit for average and drive in runs gives the Cardinals a different look than they had in April, and that is what makes the final 21 games interesting instead of academic.&lt;/p&gt;
+        &lt;/section&gt;
+
+        &lt;section&gt;
+            &lt;h2&gt;The Gauntlet Ahead&lt;/h2&gt;
+            &lt;p&gt;The schedule is not soft. The Cardinals will face teams fighting for their own positioning in September, and a .667 pace is genuinely difficult to sustain. The Padres have experience in tight September races. The Diamondbacks have proven they can win when it matters.&lt;/p&gt;
+            &lt;p&gt;But the Cardinals are not dead. A .500 team that goes 14-7 to close the season is not playing above itself — it is playing like a playoff team. The question is whether they can sustain it for three more weeks when the pressure is at its peak and every game carries consequences.&lt;/p&gt;
+        &lt;/section&gt;
+
+        &lt;section&gt;
+            &lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+            &lt;p&gt;Track the Cardinals&#x27; daily results against the Padres and Diamondbacks&#x27; records as September continues. Any Cardinals winning streak accompanied by a San Diego or Arizona slump is the scenario St. Louis needs. Watch for Saggese&#x27;s production to continue being a key variable — he has been the most impactful Cardinals bat in the second half.&lt;/p&gt;
+        &lt;/section&gt;
+    &lt;/article&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-05-cardinals-wc-21-games-left">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-05-cardinals-wc-21-games-left')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-05-cardinals-wc-21-games-left')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-05-cardinals-wc-21-games-left">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-05-cardinals-wc-21-games-left')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-05-cardinals-wc-21-games-left')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-05-cardinals-wc-21-games-left')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-05-cardinals-wc-21-games-left')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-05-cardinals-wc-21-games-left">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-05-cardinals-wc-21-games-left" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-05-cardinals-wc-21-games-left"></div>
+                </div>
+            </div>
+
+            <div class="empty-state" id="empty-state" style="display: none;">
+                <div class="empty-state-icon">No items match your filter</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Schedule settings modal -->
+    <div class="schedule-overlay" id="schedule-overlay" onclick="closeSchedulePanel()"></div>
+    <div class="schedule-panel" id="schedule-panel">
+        <h3>Posting Schedule Settings</h3>
+        <div class="schedule-section">
+            <label>Post Date (defaults to content date)</label>
+            <input type="date" id="schedule-date" />
+        </div>
+        <div class="schedule-section">
+            <label>X / Twitter Time Slots</label>
+            <div class="time-slots" id="x-time-slots"></div>
+            <div style="margin-top:8px;">
+                <input type="time" id="new-x-time" style="width:auto;display:inline-block;margin-right:8px;" />
+                <span class="add-slot-btn" onclick="addTimeSlot('x')">+ Add Slot</span>
+            </div>
+        </div>
+        <div class="schedule-section">
+            <label>Facebook Time Slots</label>
+            <div class="time-slots" id="fb-time-slots"></div>
+            <div style="margin-top:8px;">
+                <input type="time" id="new-fb-time" style="width:auto;display:inline-block;margin-right:8px;" />
+                <span class="add-slot-btn" onclick="addTimeSlot('fb')">+ Add Slot</span>
+            </div>
+        </div>
+        <div class="schedule-section" style="background:#f9f9f9;padding:12px;border-radius:6px;font-size:12px;color:#666;">
+            Posts will be assigned to time slots in order. If you have more posts than slots, they wrap around. After downloading, upload the file directly to PostPlanner via Bulk Upload.
+        </div>
+        <div class="schedule-actions">
+            <button class="btn btn-secondary" onclick="closeSchedulePanel()">Cancel</button>
+            <button class="btn btn-csv" onclick="generateAndDownload()">Generate &amp; Download XLSX</button>
+        </div>
+    </div>
+
+    <!-- SheetJS for XLSX generation (loaded async so it doesn't block) -->
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+    <script>
+
+        const DATE = '2026-09-05';
+        const BRAND_NAME = 'Ballpark Banter';
+        const REVIEW_STORAGE_KEY = 'mlb-content-review';
+        const SCHEDULE_STORAGE_KEY = 'mlb-content-schedule-config';
+        const PHOTO_SOURCE = 'imagn';
+        let reviewData = {};
+        const allStories = [{"id": "article-article-01-pca-39-hr-one-swing-from-history", "title": "One Home Run. That's It. Pete Crow-Armstrong Is This Close to Baseball History.", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta name=\"description\" content=\"Pete Crow-Armstrong hit his 39th home run. He needs one more to join the most exclusive club in baseball history \u2014 the 40-40 club. Six players have done it in 130 years.\">\n    <meta property=\"og:title\" content=\"One Home Run. That's It. Pete Crow-Armstrong Is This Close to Baseball History.\">\n    <meta property=\"og:description\" content=\"Pete Crow-Armstrong hit his 39th home run. He needs one more to join the most exclusive club in baseball history \u2014 the 40-40 club. Six players have done it in 130 years.\">\n    <meta property=\"og:type\" content=\"article\">\n    <meta property=\"og:url\" content=\"https://ballparkbanter.com/article-01-pca-39-hr-one-swing-from-history\">\n    <meta property=\"og:image\" content=\"\">\n    <title>One Home Run. That's It. Pete Crow-Armstrong Is This Close to Baseball History. | Ballpark Banter<\/title>\n<\/head>\n<body>\n    <article>\n        <header>\n            <h1>One Home Run. That's It. Pete Crow-Armstrong Is This Close to Baseball History.<\/h1>\n            <div class=\"byline\">\n                <span class=\"author\">By Ryan Calloway<\/span>\n                <span class=\"date\">September 5, 2026<\/span>\n            <\/div>\n        <\/header>\n\n        <section>\n            <h2>Six Names in 130 Years<\/h2>\n            <p>Six players have ever hit 40 home runs and stolen 40 bases in the same MLB season. Six. In 130 years of professional baseball, across thousands of roster spots and tens of thousands of individual seasons, six people have done it.<\/p>\n            <p>Jose Canseco started it in 1988. Barry Bonds did it in 1996. Alex Rodriguez joined the club in 1998. Alfonso Soriano got there in 2006. Then a 17-year gap before Ronald Acu\u00f1a Jr. in 2023 and Shohei Ohtani, also in 2023, accomplished it back to back.<\/p>\n            <p>Now Pete Crow-Armstrong needs one home run.<\/p>\n            <p>He hit his 39th Thursday, adding to a season that was already historic by any reasonable measure. He has 32 stolen bases. He has 24 games remaining. The Cubs hold the No. 1 National League Wild Card spot. And every time he steps into the box at Wrigley Field, the entire stadium is aware of the number hanging over the at-bat.<\/p>\n        <\/section>\n\n        <section>\n            <h2>The Stolen Base Path Is the Harder Half<\/h2>\n            <p>The math is manageable. One home run in 24 games is not difficult for a player who has been averaging better than a home run every four games this season. But the stolen base path is more complicated. PCA needs eight more steals with fewer than a month remaining, and his green lights are not guaranteed.<\/p>\n            <p>The Cubs are in a comfortable spot in the wild card standings, but they are not yet clinched, and managers tend to pull back on aggressive baserunning as the postseason approaches. The calculus shifts when a stolen base attempt gone wrong could end a season-defining moment. Every base PCA takes from here carries that tension.<\/p>\n            <p>The home run does not carry the same tension. A swing is a swing. He does not need permission.<\/p>\n        <\/section>\n\n        <section>\n            <h2>What This Season Has Already Done<\/h2>\n            <p>Even before the 40-40 chase became the dominant story of the final month, Crow-Armstrong's 2026 was already one of the great individual campaigns in Cubs franchise history. He entered September leading the National League MVP race. His defense in center field has been exceptional. He has hit for average and power while providing the kind of impact on the basepaths that changes games.<\/p>\n            <p>The 40-40 distinction would add a permanent historical marker to a season that did not need one to be remembered. But that is exactly why it matters. History has a way of framing everything around it, and right now, the most important single swing left in the 2026 season might belong to a 24-year-old center fielder in Chicago who needs exactly one home run to do what only six players have ever done.<\/p>\n        <\/section>\n\n        <section>\n            <h2>What's Next<\/h2>\n            <p>The Cubs play 24 more regular season games. Every PCA at-bat is worth watching. His next home run will be covered coast to coast regardless of who is pitching or what the score is. The stolen base total is the slower-building storyline. Watch for the Cubs' baserunning philosophy to be tested in the coming weeks as the standings tighten and October approaches.<\/p>\n        <\/section>\n    <\/article>\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-02-misiorowski-rough-start-cy-young", "title": "Misiorowski Allowed 5 Earned Runs for the First Time All Season. Now What?", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta name=\"description\" content=\"Jacob Misiorowski allowed 5 earned runs for the first time all season against the Cubs. His ERA is now 1.97. He's still the NL Cy Young favorite. But the conversation has changed.\">\n    <meta property=\"og:title\" content=\"Misiorowski Allowed 5 Earned Runs for the First Time All Season. Now What?\">\n    <meta property=\"og:description\" content=\"Jacob Misiorowski allowed 5 earned runs for the first time all season against the Cubs. His ERA is now 1.97. He's still the NL Cy Young favorite. But the conversation has changed.\">\n    <meta property=\"og:type\" content=\"article\">\n    <meta property=\"og:url\" content=\"https://ballparkbanter.com/article-02-misiorowski-rough-start-cy-young\">\n    <meta property=\"og:image\" content=\"\">\n    <title>Misiorowski Allowed 5 Earned Runs for the First Time All Season. Now What? | Ballpark Banter<\/title>\n<\/head>\n<body>\n    <article>\n        <header>\n            <h1>Misiorowski Allowed 5 Earned Runs for the First Time All Season. Now What?<\/h1>\n            <div class=\"byline\">\n                <span class=\"author\">By Marcus Cole<\/span>\n                <span class=\"date\">September 5, 2026<\/span>\n            <\/div>\n        <\/header>\n\n        <section>\n            <h2>The Streak Is Over<\/h2>\n            <p>Through 26 starts this season, Jacob Misiorowski had never once allowed more than three earned runs. Not in April when the weather was bad. Not in June during a seven-day road trip. Not in August when the pennant race tightened and every start carried more weight. Three earned runs was the ceiling. He never touched it.<\/p>\n            <p>Then he went to Wrigley Field on Wednesday night and allowed five.<\/p>\n            <p>The details: four innings pitched. Five runs. Five hits. Four walks. Those four walks matched a career high. Hot, humid conditions. A leadoff walk to Pete Crow-Armstrong in the first inning, then a two-run home run from Alex Bregman before he recorded an out. The Cubs chased him by the end of the second inning and Misiorowski never recovered.<\/p>\n            <p>The Brewers won 9-5 anyway. Their offense bailed him out. It was a Milwaukee win. But it was a Misiorowski loss in the sense that matters for the Cy Young conversation.<\/p>\n        <\/section>\n\n        <section>\n            <h2>What the Numbers Still Say<\/h2>\n            <p>His ERA rose from approximately 1.73 to 1.97 after Wednesday's start. That 1.97 is still the lowest ERA in baseball. He is still the overwhelming NL Cy Young favorite. No one start erases what he has built over 26 outings.<\/p>\n            <p>The comparison throughout this season has been to Pedro Martinez's 2000 campaign for the Red Sox, when Martinez went 18-6 with a 1.74 ERA, 0.73 WHIP, and 284 strikeouts. That season is widely considered one of the two or three greatest pitching seasons in the modern era. Misiorowski has been in that zip code all year.<\/p>\n            <p>Martinez had rough starts too. Every pitcher does. The question is whether Wednesday at Wrigley was weather and circumstances, or whether it signals something that could carry into September and affect the award vote or, more importantly, the postseason.<\/p>\n        <\/section>\n\n        <section>\n            <h2>The Larger Context<\/h2>\n            <p>The Brewers are 87-53 and sitting atop the NL Central. They are in fine shape. Misiorowski's next start will likely come around September 8 or 9, and how he looks then will tell more than Wednesday's stumble told by itself.<\/p>\n            <p>One bad start in September is noise. Two bad starts in September is a signal. Misiorowski's body of work is deep enough to absorb one rough night in hot Wrigley conditions. But the people watching the Cy Young race will be watching his next outing more closely because of what happened Wednesday, and that scrutiny is fair.<\/p>\n        <\/section>\n\n        <section>\n            <h2>What's Next<\/h2>\n            <p>Misiorowski's next scheduled start is around September 8 or 9. His ERA at 1.97 still leads all MLB starters. Watch for how he responds \u2014 his September starts will be the most scrutinized of his season, and the Cy Young Award tends to weight late-season performance heavily in close races.<\/p>\n        <\/section>\n    <\/article>\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-03-ohtani-out-two-straight-il", "title": "Roberts: Missing a Week \"Certainly a Possibility\" for Ohtani", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta name=\"description\" content=\"Shohei Ohtani has missed two straight Dodgers games. Dave Roberts says IL is 'unlikely but not impossible' and missing a week is 'certainly a possibility.' October concerns are growing.\">\n    <meta property=\"og:title\" content=\"Roberts: Missing a Week 'Certainly a Possibility' for Ohtani\">\n    <meta property=\"og:description\" content=\"Shohei Ohtani has missed two straight Dodgers games. Dave Roberts says IL is 'unlikely but not impossible' and missing a week is 'certainly a possibility.' October concerns are growing.\">\n    <meta property=\"og:type\" content=\"article\">\n    <meta property=\"og:url\" content=\"https://ballparkbanter.com/article-03-ohtani-out-two-straight-il\">\n    <meta property=\"og:image\" content=\"\">\n    <title>Roberts: Missing a Week 'Certainly a Possibility' for Ohtani | Ballpark Banter<\/title>\n<\/head>\n<body>\n    <article>\n        <header>\n            <h1>Roberts: Missing a Week \"Certainly a Possibility\" for Ohtani<\/h1>\n            <div class=\"byline\">\n                <span class=\"author\">By Jake Torres<\/span>\n                <span class=\"date\">September 5, 2026<\/span>\n            <\/div>\n        <\/header>\n\n        <section>\n            <h2>The Words Dave Roberts Said<\/h2>\n            <p>For the second consecutive game on Friday, Shohei Ohtani was not in the Los Angeles Dodgers' starting lineup. Dodgers manager Dave Roberts addressed the media before the game, and the quotes are worth reading carefully.<\/p>\n            <p>Roberts said an injured list stint for Ohtani was \"unlikely, but not impossible.\" He said missing nearly a week was \"certainly a possibility.\" When asked directly whether he was confident Ohtani would avoid the IL, his answer was: \"Hopeful, but I wouldn't say confident.\"<\/p>\n            <p>Those are not the words of a manager who expects his best player back in the lineup tomorrow. Those are the words of a manager navigating something he does not fully control, trying to be honest about a situation that is evolving day by day.<\/p>\n        <\/section>\n\n        <section>\n            <h2>The Physical Picture<\/h2>\n            <p>Ohtani has not pitched since July 3, when a combination of left knee and biceps soreness pushed the Dodgers to shelve his pitching plans for the season. He has continued to hit throughout August, though the results have been alarming. Since August 18, he is 7-for-51 with 20 strikeouts \u2014 a .137 batting average across 51 at-bats.<\/p>\n            <p>During Wednesday's loss to the Cardinals, he was visibly uncomfortable after some at-bats and expressed neck soreness after the game along with pain along his right arm. That added a new physical concern to the list that already included the knee and the biceps.<\/p>\n            <p>Roberts' response was to hold Ohtani out Thursday. Then Friday. The missed games are now consecutive, which marks the first time this season Ohtani has sat out back-to-back games.<\/p>\n        <\/section>\n\n        <section>\n            <h2>What This Means for October<\/h2>\n            <p>The Dodgers are 82-57 and in control of the NL West. The postseason is not in doubt. But October is exactly what makes this situation concerning.<\/p>\n            <p>A player hitting .137 with 20 strikeouts in 51 at-bats is not a postseason weapon, regardless of what his talent level is. If Ohtani goes to the IL now and comes back in two weeks, the Dodgers are betting he can reset physically and rediscover his swing in a short window before the playoffs start. If he does not go to the IL and continues to play through the discomfort, the Dodgers risk both the physical situation and Ohtani's confidence at the plate.<\/p>\n            <p>The rest-versus-rhythm tradeoff that Roberts described back in early September has now become more urgent. There is no comfortable answer, and the clock is running.<\/p>\n        <\/section>\n\n        <section>\n            <h2>What's Next<\/h2>\n            <p>Watch Roberts' pregame availability in the coming days for any update on Ohtani's status. The Dodgers have not placed him on the injured list as of Friday, but Roberts' language leaves that door clearly open. The next medical evaluation and Roberts' characterization of it will be the biggest Dodgers storyline of the weekend.<\/p>\n        <\/section>\n    <\/article>\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-04-alvarez-caminero-tied-hr-race", "title": "37-37: Caminero Ties Alvarez, and the Triple Crown Just Got Complicated", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta name=\"description\" content=\"Junior Caminero hit his 37th home run to tie Yordan Alvarez for the AL lead. The Triple Crown is now contested on all three fronts with 24 games left. Last AL Triple Crown: Cabrera in 2012.\">\n    <meta property=\"og:title\" content=\"37-37: Caminero Ties Alvarez, and the Triple Crown Just Got Complicated\">\n    <meta property=\"og:description\" content=\"Junior Caminero hit his 37th home run to tie Yordan Alvarez for the AL lead. The Triple Crown is now contested on all three fronts with 24 games left. Last AL Triple Crown: Cabrera in 2012.\">\n    <meta property=\"og:type\" content=\"article\">\n    <meta property=\"og:url\" content=\"https://ballparkbanter.com/article-04-alvarez-caminero-tied-hr-race\">\n    <meta property=\"og:image\" content=\"\">\n    <title>37-37: Caminero Ties Alvarez, and the Triple Crown Just Got Complicated | Ballpark Banter<\/title>\n<\/head>\n<body>\n    <article>\n        <header>\n            <h1>37-37: Caminero Ties Alvarez, and the Triple Crown Just Got Complicated<\/h1>\n            <div class=\"byline\">\n                <span class=\"author\">By Ryan Calloway<\/span>\n                <span class=\"date\">September 5, 2026<\/span>\n            <\/div>\n        <\/header>\n\n        <section>\n            <h2>The HR Lead Is Gone<\/h2>\n            <p>For weeks, the home run category looked like Yordan Alvarez's clearest Triple Crown advantage. He led Junior Caminero 36 to 35 entering September. A one-homer cushion is not comfortable, but it is a lead.<\/p>\n            <p>Then Caminero hit his 37th. With a fourth-inning solo shot that tied the American League home run leaderboard, the Triple Crown race shifted. The one category that was Alvarez's clearest win is now a tie. Every swing Caminero takes now has the potential to put Alvarez in a deficit for the first time all season.<\/p>\n        <\/section>\n\n        <section>\n            <h2>Where Alvarez Stands<\/h2>\n            <p>Despite losing the HR lead, Alvarez still controls two of the three categories. His batting average is .316, which gives him an 8-point lead over Chandler Simpson, who is hitting .308. In RBI, Alvarez is at 94, holding off Pete Alonso of Baltimore.<\/p>\n            <p>The last American League Triple Crown winner was Miguel Cabrera in 2012. That was 14 years ago. To win the Triple Crown, a player must lead the league in all three categories at season's end. A tie does not count. If Alvarez and Caminero finish with 40 home runs each, neither of them wins the home run title outright \u2014 they share it, and neither can claim the Triple Crown.<\/p>\n            <p>That is the specific danger of a tie. A tie in home runs is not a safe outcome for Alvarez. He needs to be ahead.<\/p>\n        <\/section>\n\n        <section>\n            <h2>What the Next 24 Games Look Like<\/h2>\n            <p>With 24 games remaining, the scenarios multiply daily. Caminero could go cold and Alvarez could separate. Alvarez could go cold and Caminero could take the lead. Simpson could close the batting average gap. Alonso could overtake the RBI race.<\/p>\n            <p>The Triple Crown has been chased dozens of times in the modern era. What makes it so rare is that holding three simultaneous leads over 162 games requires three separate streaks of good luck to coexist. Alvarez has come closer than almost any player in a decade. The Caminero tie changes the probability significantly. To finish with the Triple Crown, Alvarez now needs to do what he hasn't had to do all season \u2014 pull ahead in the home run race while maintaining his leads in two other categories at the same time.<\/p>\n        <\/section>\n\n        <section>\n            <h2>What's Next<\/h2>\n            <p>Watch the Astros' and Rays' schedules over the next two weeks as the HR race between Alvarez and Caminero plays out daily. Any change in the batting average or RBI standings will be worth tracking as well \u2014 all three races are now live simultaneously with 24 games to go.<\/p>\n        <\/section>\n    <\/article>\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-05-cardinals-wc-21-games-left", "title": "The Cardinals Believe. The Math Says They Need 14-7.", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta name=\"description\" content=\"The Cardinals are 70-70 with 21 games left and 3.5 back from a wild card spot. After Saggese's walk-off Wednesday, they still believe. The math says they need to go 14-7.\">\n    <meta property=\"og:title\" content=\"The Cardinals Believe. The Math Says They Need 14-7.\">\n    <meta property=\"og:description\" content=\"The Cardinals are 70-70 with 21 games left and 3.5 back from a wild card spot. After Saggese's walk-off Wednesday, they still believe. The math says they need to go 14-7.\">\n    <meta property=\"og:type\" content=\"article\">\n    <meta property=\"og:url\" content=\"https://ballparkbanter.com/article-05-cardinals-wc-21-games-left\">\n    <meta property=\"og:image\" content=\"\">\n    <title>The Cardinals Believe. The Math Says They Need 14-7. | Ballpark Banter<\/title>\n<\/head>\n<body>\n    <article>\n        <header>\n            <h1>The Cardinals Believe. The Math Says They Need 14-7.<\/h1>\n            <div class=\"byline\">\n                <span class=\"author\">By Marcus Cole<\/span>\n                <span class=\"date\">September 5, 2026<\/span>\n            <\/div>\n        <\/header>\n\n        <section>\n            <h2>What the Numbers Say<\/h2>\n            <p>The St. Louis Cardinals are 70-70. They have 21 games remaining. They are 3.5 games out of the third National League wild card spot, which currently belongs to the San Diego Padres. The Arizona Diamondbacks are 0.5 games behind the Padres, meaning St. Louis is essentially 4 teams away from the last playoff berth.<\/p>\n            <p>To have a realistic shot at the postseason, the Cardinals need to go approximately 14-7 over their final 21 games. That pace \u2014 .667 winning percentage \u2014 would put them on track for a final record around 84-78. Whether that is enough depends entirely on how the Padres and Diamondbacks finish. The Cardinals cannot control San Diego or Arizona. They can only control their own games.<\/p>\n        <\/section>\n\n        <section>\n            <h2>Why They Still Believe<\/h2>\n            <p>Before the math sounds too cold, here is what Wednesday night in Los Angeles looked like: Nolan Saggese broke up Yoshinobu Yamamoto's no-hitter with a two-run home run in the sixth inning, then delivered a walk-off single in the tenth to beat the Dodgers 8-6. Leo Bernal hit his first career MLB home run. The Cardinals rallied from behind against one of the best rotations in baseball and beat them on their home field.<\/p>\n            <p>That is the version of this team that can go 14-7. The one that finds a way against elite pitching. The one where Saggese, still relatively new to this roster, keeps producing at-bats like that.<\/p>\n            <p>Saggese's emergence has been the one consistent bright spot of the Cardinals' second half. He is not a name that was on many national radar screens at the start of the season. He is now. A middle-of-the-order bat who can hit for average and drive in runs gives the Cardinals a different look than they had in April, and that is what makes the final 21 games interesting instead of academic.<\/p>\n        <\/section>\n\n        <section>\n            <h2>The Gauntlet Ahead<\/h2>\n            <p>The schedule is not soft. The Cardinals will face teams fighting for their own positioning in September, and a .667 pace is genuinely difficult to sustain. The Padres have experience in tight September races. The Diamondbacks have proven they can win when it matters.<\/p>\n            <p>But the Cardinals are not dead. A .500 team that goes 14-7 to close the season is not playing above itself \u2014 it is playing like a playoff team. The question is whether they can sustain it for three more weeks when the pressure is at its peak and every game carries consequences.<\/p>\n        <\/section>\n\n        <section>\n            <h2>What's Next<\/h2>\n            <p>Track the Cardinals' daily results against the Padres and Diamondbacks' records as September continues. Any Cardinals winning streak accompanied by a San Diego or Arizona slump is the scenario St. Louis needs. Watch for Saggese's production to continue being a key variable \u2014 he has been the most impactful Cardinals bat in the second half.<\/p>\n        <\/section>\n    <\/article>\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}];
+        const imageManifest = {};
+        let imageURLs = {}; // Runtime store: {'1_x_image': 'url', '1_facebook_image': 'url', ...}
+
+        // Image URL management
+        function updateImageURL(inputEl) {
+            var story = inputEl.dataset.story;
+            var platform = inputEl.dataset.platform;
+            var url = inputEl.value.trim();
+            var key = story + '_' + platform;
+            imageURLs[key] = url;
+
+            // Update preview thumbnail
+            var preview = document.getElementById('img-preview-' + story + '-' + platform);
+            if (preview) {
+                if (url) {
+                    preview.src = url;
+                    preview.classList.add('loaded');
+                    preview.onerror = function() { this.classList.remove('loaded'); };
+                } else {
+                    preview.src = '';
+                    preview.classList.remove('loaded');
+                }
+            }
+        }
+
+        function getImageURLForStory(storyTitle, platform) {
+            // Try runtime imageURLs first (user-pasted)
+            // Extract story number from title
+            for (var key in imageURLs) {
+                if (imageURLs[key] && key.endsWith('_' + platform)) {
+                    var storyNum = key.split('_')[0];
+                    // Check if this story matches by looking at allStories
+                    for (var i = 0; i < allStories.length; i++) {
+                        if (allStories[i].title === storyTitle &&
+                            allStories[i].id.indexOf('story-' + storyNum) !== -1) {
+                            return imageURLs[key];
+                        }
+                    }
+                }
+            }
+
+            // Try manifest data
+            for (var num in imageManifest) {
+                var mdata = imageManifest[num];
+                if (mdata && mdata[platform] && mdata[platform].exported_url) {
+                    // Check if this story number matches
+                    for (var j = 0; j < allStories.length; j++) {
+                        if (allStories[j].title === storyTitle &&
+                            allStories[j].id.indexOf('story-' + num) !== -1) {
+                            return mdata[platform].exported_url;
+                        }
+                    }
+                }
+            }
+
+            return '';
+        }
+
+        function initializeApp() {
+            const saved = localStorage.getItem(REVIEW_STORAGE_KEY + '-' + DATE);
+            if (saved) {
+                try {
+                    reviewData = JSON.parse(saved);
+                } catch (e) {
+                    reviewData = {};
+                }
+            }
+
+            allStories.forEach(function(story) {
+                if (!reviewData[story.id]) {
+                    reviewData[story.id] = {
+                        id: story.id,
+                        type: story.type,
+                        status: 'unreviewed',
+                        notes: '',
+                        content: story.content,
+                        editedContent: null
+                    };
+                }
+                // Migrate old data: ensure editedContent field exists
+                if (reviewData[story.id].editedContent === undefined) {
+                    reviewData[story.id].editedContent = null;
+                }
+            });
+
+            // Restore UI state
+            Object.keys(reviewData).forEach(function(storyId) {
+                var data = reviewData[storyId];
+                var card = document.querySelector('[data-id="' + storyId + '"]');
+                if (card) {
+                    card.setAttribute('data-status', data.status);
+                    var textarea = document.getElementById('textarea-' + storyId);
+                    if (textarea) textarea.value = data.notes || '';
+                    // If content was edited, update the display and editor
+                    if (data.editedContent) {
+                        var contentText = card.querySelector('.card-content-text');
+                        if (contentText) contentText.textContent = data.editedContent;
+                        var editor = document.getElementById('editor-' + storyId);
+                        if (editor) editor.value = data.editedContent;
+                    }
+                    updateCardVisuals(storyId, data.status, !!data.editedContent);
+                }
+            });
+
+            updateProgress();
+            filterByStatus('all');
+        }
+
+        function toggleExpand(storyId) {
+            var content = document.getElementById('content-' + storyId);
+            var toggle = document.getElementById('toggle-' + storyId);
+            if (content.classList.contains('collapsed')) {
+                content.classList.remove('collapsed');
+                content.classList.add('expanded');
+                toggle.textContent = 'Collapse';
+            } else {
+                content.classList.remove('expanded');
+                content.classList.add('collapsed');
+                toggle.textContent = 'Show Full Content';
+            }
+        }
+
+        function startEdit(storyId) {
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (!card) return;
+            card.classList.add('editing');
+            var editor = document.getElementById('editor-' + storyId);
+            if (editor) {
+                // If previously edited, load edited content; otherwise load original
+                var data = reviewData[storyId];
+                if (data && data.editedContent) {
+                    editor.value = data.editedContent;
+                }
+                editor.focus();
+                // Auto-resize for articles
+                editor.style.minHeight = Math.max(300, editor.scrollHeight) + 'px';
+            }
+        }
+
+        function saveAndApprove(storyId) {
+            var editor = document.getElementById('editor-' + storyId);
+            if (!editor) return;
+            var newContent = editor.value;
+
+            // Save the edited content
+            if (!reviewData[storyId]) {
+                reviewData[storyId] = { id: storyId, status: 'approved', notes: '', content: '', editedContent: null };
+            }
+            reviewData[storyId].editedContent = newContent;
+
+            // Update the display text
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            var contentText = card ? card.querySelector('.card-content-text') : null;
+            if (contentText) contentText.textContent = newContent;
+
+            // Exit edit mode
+            if (card) card.classList.remove('editing');
+
+            // Approve
+            setStatus(storyId, 'approved');
+            updateCardVisuals(storyId, 'approved', true);
+
+            // Update char count for X posts
+            updateCharCount(storyId, newContent);
+        }
+
+        function cancelEdit(storyId) {
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (card) card.classList.remove('editing');
+        }
+
+        function updateCharCount(storyId, text) {
+            var el = document.getElementById('charcount-' + storyId);
+            if (!el) return;
+            // Strip metadata tags before counting
+            var clean = text.replace(/\[CHARACTER COUNT:.*?\]/gi, '');
+            clean = clean.replace(/\[CHAR COUNT:.*?\]/gi, '');
+            clean = clean.replace(/\[\d+\/280\]/g, '');
+            // Remove URLs for Twitter count
+            var textNoUrls = clean.replace(/https?:\/\/\S+/g, '');
+            var count = textNoUrls.trim().length;
+            el.textContent = 'Characters: ' + count + '/280' + (count > 280 ? '  OVER LIMIT' : '');
+            el.className = count > 280 ? 'char-count warning' : 'char-count';
+        }
+
+        function approveCard(storyId) {
+            setStatus(storyId, 'approved');
+            document.getElementById('notes-' + storyId).classList.remove('show');
+        }
+
+        function rejectCard(storyId) {
+            setStatus(storyId, 'rejected');
+            document.getElementById('notes-' + storyId).classList.add('show');
+        }
+
+        function setStatus(storyId, status) {
+            if (!reviewData[storyId]) {
+                var story = allStories.find(function(s) { return s.id === storyId; });
+                reviewData[storyId] = {
+                    id: storyId,
+                    type: story ? story.type : '',
+                    status: status,
+                    notes: '',
+                    content: story ? story.content : '',
+                    editedContent: null
+                };
+            }
+
+            reviewData[storyId].status = status;
+
+            var textarea = document.getElementById('textarea-' + storyId);
+            if (textarea) reviewData[storyId].notes = textarea.value;
+
+            localStorage.setItem(REVIEW_STORAGE_KEY + '-' + DATE, JSON.stringify(reviewData));
+
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (card) card.setAttribute('data-status', status);
+            updateCardVisuals(storyId, status, !!(reviewData[storyId] && reviewData[storyId].editedContent));
+            updateProgress();
+        }
+
+        function updateCardVisuals(storyId, status, wasEdited) {
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (!card) return;
+
+            card.classList.remove('approved', 'needs-edit', 'rejected');
+            if (status !== 'unreviewed') card.classList.add(status);
+
+            var statusLabel = document.getElementById('status-' + storyId);
+            if (statusLabel) {
+                statusLabel.className = 'status-label';
+                if (status === 'approved' && wasEdited) {
+                    statusLabel.textContent = 'APPROVED (EDITED)';
+                    statusLabel.classList.add('status-edited');
+                } else if (status === 'approved') {
+                    statusLabel.textContent = 'APPROVED';
+                    statusLabel.classList.add('status-approved');
+                } else if (status === 'needs-edit') {
+                    statusLabel.textContent = 'NEEDS EDIT';
+                    statusLabel.classList.add('status-needs-edit');
+                } else if (status === 'rejected') {
+                    statusLabel.textContent = 'REJECTED';
+                    statusLabel.classList.add('status-rejected');
+                } else {
+                    statusLabel.textContent = '';
+                }
+            }
+        }
+
+        function updateProgress() {
+            var approved = 0, rejected = 0, unreviewed = 0;
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (!data || data.status === 'unreviewed') unreviewed++;
+                else if (data.status === 'approved') approved++;
+                else if (data.status === 'rejected') rejected++;
+                else unreviewed++;
+            });
+            var reviewed = approved + rejected;
+            var total = allStories.length;
+            var percentage = total > 0 ? (reviewed / total * 100) : 0;
+            document.getElementById('reviewed-count').textContent = reviewed;
+            document.getElementById('total-count').textContent = total;
+            document.getElementById('progress-fill').style.width = percentage + '%';
+            // Update stat chips
+            document.getElementById('stat-approved-count').textContent = approved;
+            document.getElementById('stat-rejected-count').textContent = rejected;
+            document.getElementById('stat-unreviewed-count').textContent = unreviewed;
+            // Update CSV button
+            var csvBtn = document.getElementById('btn-csv');
+            var tobiBtn = document.getElementById('btn-tobi');
+            var socialApproved = countApprovedSocialPosts();
+            if (csvBtn) {
+                if (socialApproved > 0) {
+                    csvBtn.disabled = false;
+                    csvBtn.textContent = 'PostPlanner Upload (' + socialApproved + ' posts)';
+                } else {
+                    csvBtn.disabled = true;
+                    csvBtn.textContent = 'PostPlanner Upload (0 approved)';
+                }
+            }
+            // Update TOBI button (counts only X/Twitter text posts)
+            if (tobiBtn) {
+                var xApproved = countApprovedXPosts();
+                if (xApproved > 0) {
+                    tobiBtn.disabled = false;
+                    tobiBtn.textContent = 'TOBI Upload (' + xApproved + ' posts)';
+                } else {
+                    tobiBtn.disabled = true;
+                    tobiBtn.textContent = 'TOBI Upload (0 approved)';
+                }
+            }
+        }
+
+        function countApprovedSocialPosts() {
+            var count = 0;
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (data && data.status === 'approved' && (story.type === 'x_post' || story.type === 'facebook')) {
+                    count++;
+                }
+            });
+            return count;
+        }
+
+        function countApprovedXPosts() {
+            var count = 0;
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (data && data.status === 'approved' && story.type === 'x_post') {
+                    count++;
+                }
+            });
+            return count;
+        }
+
+        function escapeCSVField(text) {
+            if (!text) return '';
+            // If field contains comma, quote, or newline, wrap in quotes and escape inner quotes
+            if (text.indexOf(',') !== -1 || text.indexOf('"') !== -1 || text.indexOf('\n') !== -1) {
+                return '"' + text.replace(/"/g, '""') + '"';
+            }
+            return text;
+        }
+
+        function extractHashtags(text) {
+            if (!text) return '';
+            var matches = text.match(/#\w+/g);
+            return matches ? matches.join(' ') : '';
+        }
+
+        // ========== POSTING SCHEDULE SYSTEM ==========
+        var defaultXSlots = ['09:00', '12:00', '15:00', '18:00', '21:00'];
+        var defaultFBSlots = ['10:00', '13:00', '17:00'];
+
+        function getScheduleConfig() {
+            var saved = localStorage.getItem(SCHEDULE_STORAGE_KEY);
+            if (saved) {
+                try { return JSON.parse(saved); } catch(e) {}
+            }
+            return { xSlots: defaultXSlots.slice(), fbSlots: defaultFBSlots.slice() };
+        }
+
+        function saveScheduleConfig(config) {
+            localStorage.setItem(SCHEDULE_STORAGE_KEY, JSON.stringify(config));
+        }
+
+        function renderTimeSlots() {
+            var config = getScheduleConfig();
+            var xContainer = document.getElementById('x-time-slots');
+            var fbContainer = document.getElementById('fb-time-slots');
+
+            xContainer.innerHTML = config.xSlots.map(function(t, i) {
+                return '<span class="time-slot">' + t + ' <span class="remove-slot" onclick="removeTimeSlot(\x27x\x27,' + i + ')">&times;</span></span>';
+            }).join('');
+
+            fbContainer.innerHTML = config.fbSlots.map(function(t, i) {
+                return '<span class="time-slot">' + t + ' <span class="remove-slot" onclick="removeTimeSlot(\x27fb\x27,' + i + ')">&times;</span></span>';
+            }).join('');
+        }
+
+        function addTimeSlot(platform) {
+            var inputId = platform === 'x' ? 'new-x-time' : 'new-fb-time';
+            var val = document.getElementById(inputId).value;
+            if (!val) return;
+            var config = getScheduleConfig();
+            var arr = platform === 'x' ? config.xSlots : config.fbSlots;
+            if (arr.indexOf(val) === -1) {
+                arr.push(val);
+                arr.sort();
+            }
+            saveScheduleConfig(config);
+            renderTimeSlots();
+            document.getElementById(inputId).value = '';
+        }
+
+        function removeTimeSlot(platform, index) {
+            var config = getScheduleConfig();
+            var arr = platform === 'x' ? config.xSlots : config.fbSlots;
+            arr.splice(index, 1);
+            saveScheduleConfig(config);
+            renderTimeSlots();
+        }
+
+        function downloadPostPlannerCSV() {
+            // Open schedule panel instead of direct download
+            openSchedulePanel();
+        }
+
+        function openSchedulePanel() {
+            document.getElementById('schedule-date').value = DATE;
+            renderTimeSlots();
+            document.getElementById('schedule-panel').classList.add('show');
+            document.getElementById('schedule-overlay').classList.add('show');
+        }
+
+        function closeSchedulePanel() {
+            document.getElementById('schedule-panel').classList.remove('show');
+            document.getElementById('schedule-overlay').classList.remove('show');
+        }
+
+        function formatTimeForPostPlanner(time24, dateStr) {
+            // Output PostPlanner V2 format: MM/DD/YYYY  HH:MM (24hr)
+            var parts = dateStr.split('-');
+            return parts[1] + '/' + parts[2] + '/' + parts[0] + '  ' + time24;
+        }
+
+        function redistributeTimes(rows) {
+            // Ensure all post times are at least 30 min from now,
+            // evenly spaced through the rest of the day.
+            if (rows.length === 0) return rows;
+
+            var now = new Date();
+            var nowMinutes = now.getHours() * 60 + now.getMinutes();
+            var floorMinutes = nowMinutes + 30;
+            var endMinutes = 22 * 60; // 10:00 PM cutoff
+
+            // Check if ANY post times have already passed
+            var anyPast = rows.some(function(row) {
+                var parts = row.time.split(':');
+                var rowMin = parseInt(parts[0], 10) * 60 + parseInt(parts[1], 10);
+                return rowMin < floorMinutes;
+            });
+
+            if (!anyPast) return rows; // all times are in the future, keep them
+
+            if (floorMinutes >= endMinutes) {
+                alert('It is past 9:30 PM — not enough time remaining to schedule all posts today. Posts will use original times.');
+                return rows;
+            }
+
+            var availableMinutes = endMinutes - floorMinutes;
+            var spacing = Math.floor(availableMinutes / rows.length);
+            if (spacing < 15) spacing = 15; // minimum 15 min gap
+            if (spacing > 90) spacing = 90; // maximum 90 min gap
+
+            rows.forEach(function(row, i) {
+                var postMinutes = floorMinutes + (i * spacing);
+                if (postMinutes >= 24 * 60) postMinutes = 23 * 60 + 45;
+                var h = Math.floor(postMinutes / 60);
+                var m = postMinutes % 60;
+                row.time = (h < 10 ? '0' : '') + h + ':' + (m < 10 ? '0' : '') + m;
+            });
+
+            var firstTime = rows[0].time;
+            var lastTime = rows[rows.length - 1].time;
+            console.log('PostPlanner export: redistributed ' + rows.length + ' posts from ' + firstTime + ' to ' + lastTime + ' (' + spacing + ' min apart)');
+            return rows;
+        }
+
+        // Parse actual time from posting_window string like "7:00 AM CT" -> "07:00"
+        function parsePostingTime(timeStr) {
+            if (!timeStr) return null;
+            var m = timeStr.match(/(\d{1,2}):(\d{2})\s*(AM|PM)/i);
+            if (!m) return null;
+            var h = parseInt(m[1], 10);
+            var min = m[2];
+            var ampm = m[3].toUpperCase();
+            if (ampm === 'PM' && h !== 12) h += 12;
+            if (ampm === 'AM' && h === 12) h = 0;
+            return (h < 10 ? '0' : '') + h + ':' + min;
+        }
+
+        // Generic window name fallback
+        var windowToTime = {
+            'Morning': '09:00',
+            'Midday': '12:00',
+            'Afternoon': '15:00',
+            'Evening': '18:00',
+            'Late Night': '21:00'
+        };
+
+        function generateAndDownload() {
+            var config = getScheduleConfig();
+            var postDate = document.getElementById('schedule-date').value || DATE;
+
+            var xRows = [];
+            var fbRows = [];
+
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (!data || data.status !== 'approved') return;
+                var finalContent = data.editedContent || story.content;
+
+                if (story.type === 'x_post') {
+                    // If this is an individual tweet card (has tweet_label), use directly
+                    if (story.tweet_label) {
+                        xRows.push({
+                            content: finalContent,
+                            type: story.tweet_type || 'text',
+                            hashtags: story.hashtags || extractHashtags(finalContent),
+                            story: story.title,
+                            posting_window: story.posting_window || ''
+                        });
+                    } else {
+                        // Legacy: parse full story markdown for individual tweets
+                        var sections = parseXPostContent(finalContent, story.title);
+                        sections.forEach(function(post) {
+                            xRows.push({
+                                content: post.text,
+                                type: post.type,
+                                hashtags: extractHashtags(post.text),
+                                story: story.title
+                            });
+                        });
+                    }
+                } else if (story.type === 'facebook') {
+                    var fbPost = parseFacebookContent(finalContent, story.title);
+                    if (fbPost) {
+                        fbRows.push(fbPost);
+                    }
+                }
+            });
+
+            if (xRows.length === 0 && fbRows.length === 0) {
+                alert('No approved social posts to export.');
+                return;
+            }
+
+            // Assign times: use posting_window property first, then content tag, then round-robin
+            function assignTimes(rows, slots, label) {
+                if (slots.length === 0) slots = ['12:00'];
+                var timeFallbacks = [];
+                return rows.map(function(row, i) {
+                    row.date = postDate;
+                    // 1. Try posting_window property (e.g., "7:00 AM CT")
+                    var parsed = parsePostingTime(row.posting_window);
+                    if (parsed) {
+                        row.time = parsed;
+                        return row;
+                    }
+                    // 2. Try [POSTING WINDOW: ...] tag in content
+                    var windowMatch = row.content ? row.content.match(/\[POSTING WINDOW:\s*([^\]]+)\]/) : null;
+                    if (windowMatch) {
+                        parsed = parsePostingTime(windowMatch[1]);
+                        if (parsed) {
+                            row.time = parsed;
+                            return row;
+                        }
+                        if (windowToTime[windowMatch[1].trim()]) {
+                            row.time = windowToTime[windowMatch[1].trim()];
+                            return row;
+                        }
+                    }
+                    // 3. Fall back to round-robin
+                    row.time = slots[i % slots.length];
+                    timeFallbacks.push('Post ' + (i + 1) + ': no parsed time, using ' + row.time);
+                    return row;
+                });
+                // Warn if any posts had to use fallback times
+                if (timeFallbacks.length > 0) {
+                    console.warn('TIME WARNING (' + label + '): ' + timeFallbacks.length + ' post(s) had no parsed posting time:\n' + timeFallbacks.join('\n'));
+                }
+            }
+
+            xRows = assignTimes(xRows, config.xSlots, 'X/Twitter');
+            fbRows = assignTimes(fbRows, config.fbSlots, 'Facebook');
+
+            // Generate XLSX in PostPlanner Bulk Upload V2 format
+            if (typeof XLSX === 'undefined') {
+                alert('SheetJS library not loaded. Falling back to CSV download.');
+                fallbackCSVDownload(xRows, fbRows, postDate);
+                return;
+            }
+
+            // Combine all rows and sort by original time
+            var allRows = xRows.concat(fbRows);
+            allRows.sort(function(a, b) {
+                return a.time.localeCompare(b.time);
+            });
+
+            // Smart time redistribution
+            allRows = redistributeTimes(allRows);
+
+            var wb = XLSX.utils.book_new();
+
+            // PostPlanner V3.1 format: Row 1 = version marker, Row 2 = headers, Row 3+ = data
+            var data = [
+                ['## ' + BRAND_NAME + ' -- PostPlanner Bulk Upload', 'BULK UPLOAD VERSION 3.1 – Please DO NOT EDIT this cell.', '', '', '', '', '', '', ''],
+                ['## POSTING TIME', 'CAPTION', 'LINK', 'MEDIA', 'TITLE', 'FIRST COMMENT', 'FIRST COMMENT DELAY', 'TOBI BACKGROUND', 'REEL OR STORY']
+            ];
+
+            allRows.forEach(function(row) {
+                var caption = cleanMarkdownForPost(row.content);
+                var mediaUrl = '';
+                if (row.type === 'image' || row.type === 'IMAGE') {
+                    mediaUrl = getImageURLForStory(row.story, row.platform === 'facebook' ? 'facebook_image' : 'x_image') || '';
+                }
+                data.push([
+                    formatTimeForPostPlanner(row.time, postDate),
+                    caption,
+                    '',
+                    mediaUrl,
+                    '', '', '', '', ''
+                ]);
+            });
+
+            var sheet = XLSX.utils.aoa_to_sheet(data);
+            sheet['!cols'] = [
+                {wch: 20}, {wch: 80}, {wch: 30}, {wch: 30}, {wch: 10}, {wch: 20}, {wch: 18}, {wch: 18}, {wch: 14}
+            ];
+            XLSX.utils.book_append_sheet(wb, sheet, 'Sheet1');
+
+            // Download
+            XLSX.writeFile(wb, 'postplanner-upload-' + postDate + '.xlsx');
+            closeSchedulePanel();
+
+            var msg = 'Downloaded postplanner-upload-' + postDate + '.xlsx with ';
+            var parts = [];
+            if (xRows.length > 0) parts.push(xRows.length + ' X posts');
+            if (fbRows.length > 0) parts.push(fbRows.length + ' Facebook posts');
+            alert(msg + parts.join(' and ') + '.\n\nUpload this file to PostPlanner via Bulk Upload.');
+        }
+
+        function cleanMarkdownForPost(text) {
+            // Strip markdown formatting and metadata that shouldn't appear in social posts
+            if (!text) return '';
+            return text
+                .replace(/\[CHARACTER COUNT:.*?\]/gi, '')
+                .replace(/\[CHAR COUNT:.*?\]/gi, '')
+                .replace(/\[\d+\/280\]/g, '')
+                .replace(/\*\*\[POSTING WINDOW:.*?\]\*\*/g, '')
+                .replace(/\[POSTING WINDOW:.*?\]/g, '')
+                .replace(/\*\*([^*]+)\*\*/g, '$1')
+                .replace(/\*([^*]+)\*/g, '$1')
+                .replace(/^#+\s+/gm, '')
+                .replace(/^[-*]\s+/gm, '')
+                .replace(/```[\s\S]*?```/g, '')
+                .replace(/\n{3,}/g, '\n\n')
+                .trim();
+        }
+
+        function fallbackCSVDownload(xRows, fbRows, postDate) {
+            // Fallback if SheetJS fails to load — generates CSV in V2-like format
+            var allRows = xRows.concat(fbRows);
+            allRows.sort(function(a, b) { return a.time.localeCompare(b.time); });
+            if (allRows.length === 0) {
+                alert('No approved posts to export.');
+                closeSchedulePanel();
+                return;
+            }
+            // Smart time redistribution (same as XLSX path)
+            allRows = redistributeTimes(allRows);
+            var csv = '## ' + BRAND_NAME + ' -- PostPlanner Bulk Upload,' + escapeCSVField('BULK UPLOAD VERSION 3.1 – Please DO NOT EDIT this cell.') + ',,,,,,,\n';
+            csv += '## POSTING TIME,CAPTION,LINK,MEDIA,TITLE,FIRST COMMENT,FIRST COMMENT DELAY,TOBI BACKGROUND,REEL OR STORY\n';
+            allRows.forEach(function(row) {
+                csv += escapeCSVField(formatTimeForPostPlanner(row.time, postDate)) + ',' +
+                       escapeCSVField(cleanMarkdownForPost(row.content)) + ',' +
+                       ',,,,,,\n';
+            });
+            downloadFile(csv, 'postplanner-upload-' + postDate + '.csv', 'text/csv');
+            closeSchedulePanel();
+        }
+
+        function downloadTOBIExport() {
+            // Generate TOBI XLSX directly (no schedule panel needed — uses same times)
+            generateAndDownloadTOBI();
+        }
+
+        function stripHashtags(text) {
+            // Remove lines that are entirely hashtags, and trailing blank lines
+            var lines = text.split('\n');
+            var cleaned = [];
+            for (var i = 0; i < lines.length; i++) {
+                var stripped = lines[i].trim();
+                if (stripped && stripped.split(/\s+/).every(function(w) { return w.charAt(0) === '#'; })) {
+                    continue;
+                }
+                cleaned.push(lines[i]);
+            }
+            while (cleaned.length > 0 && !cleaned[cleaned.length - 1].trim()) {
+                cleaned.pop();
+            }
+            return cleaned.join('\n');
+        }
+
+        function generateAndDownloadTOBI() {
+            var postDate = document.getElementById('schedule-date') ?
+                document.getElementById('schedule-date').value || DATE : DATE;
+
+            // Collect approved X/Twitter text posts only
+            var xRows = [];
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (!data || data.status !== 'approved') return;
+                if (story.type !== 'x_post') return;
+
+                var finalContent = data.editedContent || story.content;
+                if (story.tweet_label) {
+                    xRows.push({
+                        content: finalContent,
+                        posting_window: story.posting_window || '',
+                        story: story.title
+                    });
+                }
+            });
+
+            if (xRows.length === 0) {
+                alert('No approved X/Twitter posts for TOBI export.');
+                return;
+            }
+
+            // Assign times — use same logic as regular export (posting_window → content tag → round-robin)
+            var tobiSlots = defaultXSlots.slice();
+            if (tobiSlots.length === 0) tobiSlots = ['12:00'];
+            var tobiTimeFallbacks = [];
+            xRows = xRows.map(function(row, i) {
+                row.date = postDate;
+                // 1. Try posting_window property (e.g., "7:00 AM CT")
+                var parsed = parsePostingTime(row.posting_window);
+                if (parsed) {
+                    row.time = parsed;
+                    return row;
+                }
+                // 2. Try [POSTING WINDOW: ...] tag in content
+                var windowMatch = row.content ? row.content.match(/\[POSTING WINDOW:\s*([^\]]+)\]/) : null;
+                if (windowMatch) {
+                    parsed = parsePostingTime(windowMatch[1]);
+                    if (parsed) {
+                        row.time = parsed;
+                        return row;
+                    }
+                }
+                // 3. Fall back to round-robin through time slots (NOT 12:00)
+                row.time = tobiSlots[i % tobiSlots.length];
+                tobiTimeFallbacks.push('Post ' + (i + 1) + ': no parsed time, using ' + row.time);
+                return row;
+            });
+            // Warn if any posts had to use fallback times
+            if (tobiTimeFallbacks.length > 0) {
+                console.warn('TOBI TIME WARNING: ' + tobiTimeFallbacks.length + ' post(s) had no parsed posting time:\n' + tobiTimeFallbacks.join('\n'));
+            }
+
+            // Sort by time
+            xRows.sort(function(a, b) { return a.time.localeCompare(b.time); });
+
+            // Smart time redistribution
+            xRows = redistributeTimes(xRows);
+
+            // TOBI processing: preserve hashtags + emojis as much as possible
+            var TOBI_LIMIT = 130;
+
+            function extractHashtags(text) {
+                var matches = text.match(/#\w+/g);
+                return matches || [];
+            }
+
+            function extractTrailingEmoji(text) {
+                var m = text.match(/\s*([\u{1F300}-\u{1FAFF}\u2600-\u27BF\u2B50\u26A0-\u26FF]+)\s*$/u);
+                if (m) {
+                    return { emoji: m[1], text: text.substring(0, m.index).trimEnd() };
+                }
+                return { emoji: null, text: text };
+            }
+
+            function truncateAtSentence(text, limit) {
+                var sentences = text.split(/(?<=[.!?])\s+/);
+                // Merge standalone emoji fragments into preceding sentence
+                var merged = [];
+                for (var s = 0; s < sentences.length; s++) {
+                    var trimmed = sentences[s].trim();
+                    if (!trimmed) continue;
+                    if (merged.length > 0 && !/[A-Za-z0-9]/.test(trimmed)) {
+                        merged[merged.length - 1] = merged[merged.length - 1] + ' ' + trimmed;
+                    } else {
+                        merged.push(trimmed);
+                    }
+                }
+                var truncated = '';
+                for (var s = 0; s < merged.length; s++) {
+                    var candidate = truncated ? truncated + ' ' + merged[s] : merged[s];
+                    if (candidate.length <= limit) {
+                        truncated = candidate;
+                    } else {
+                        break;
+                    }
+                }
+                // Clean up trailing abbreviation fragments (Dr., Mr., vs.)
+                if (truncated) {
+                    var parts = truncated.split(' ');
+                    var last = parts[parts.length - 1];
+                    if (parts.length > 1 && last.length <= 4 && /^[A-Za-z]+\.$/.test(last)) {
+                        parts.pop();
+                        truncated = parts.join(' ');
+                    }
+                }
+                return truncated || text.substring(0, limit - 3) + '...';
+            }
+
+            function fitHashtagsWithinLimit(text, hashtags, limit) {
+                if (!hashtags.length) return text;
+                // Try all hashtags, then progressively fewer
+                for (var n = hashtags.length; n > 0; n--) {
+                    var tagBlock = '\n\n' + hashtags.slice(0, n).join(' ');
+                    if ((text + tagBlock).length <= limit) {
+                        return text + tagBlock;
+                    }
+                }
+                return text;
+            }
+
+            if (typeof XLSX === 'undefined') {
+                alert('SheetJS library not loaded. Cannot generate TOBI XLSX.');
+                return;
+            }
+
+            var wb = XLSX.utils.book_new();
+            var data = [
+                ['## ' + BRAND_NAME + ' -- PostPlanner TOBI Bulk Upload', 'BULK UPLOAD VERSION 3.1 – Please DO NOT EDIT this cell.', '', '', '', '', '', '', ''],
+                ['## POSTING TIME', 'CAPTION', 'LINK', 'MEDIA', 'TITLE', 'FIRST COMMENT', 'FIRST COMMENT DELAY', 'TOBI BACKGROUND', 'REEL OR STORY']
+            ];
+
+            var keptHashtags = 0;
+            var strippedHashtags = 0;
+
+            xRows.forEach(function(row, i) {
+                var caption = cleanMarkdownForPost(row.content);
+
+                // If full caption fits under limit, use as-is — ALL hashtags + emojis preserved
+                if (caption.length <= TOBI_LIMIT) {
+                    if (extractHashtags(caption).length > 0) keptHashtags++;
+                    data.push([
+                        formatTimeForPostPlanner(row.time, postDate),
+                        caption, '', '', '', '', '', 'true-black', ''
+                    ]);
+                    return;
+                }
+
+                // Over limit — decompose and rebuild intelligently
+                var hashtags = extractHashtags(caption);
+                var coreText = stripHashtags(caption).trimEnd();
+                var emojiResult = extractTrailingEmoji(coreText);
+                var trailing_emoji = emojiResult.emoji;
+                var coreNoEmoji = emojiResult.text.trimEnd();
+
+                // Step 1: Get core text under limit
+                var result;
+                if (coreNoEmoji.length <= TOBI_LIMIT) {
+                    result = coreNoEmoji;
+                } else {
+                    result = truncateAtSentence(coreNoEmoji, TOBI_LIMIT);
+                }
+
+                // Step 2: Try to add back trailing emoji
+                if (trailing_emoji) {
+                    var withEmoji = result + ' ' + trailing_emoji;
+                    if (withEmoji.length <= TOBI_LIMIT) {
+                        result = withEmoji;
+                    }
+                }
+
+                // Step 3: Try to add back as many hashtags as possible
+                if (hashtags.length > 0) {
+                    var before = result;
+                    result = fitHashtagsWithinLimit(result, hashtags, TOBI_LIMIT);
+                    if (result !== before) keptHashtags++;
+                    else strippedHashtags++;
+                }
+
+                data.push([
+                    formatTimeForPostPlanner(row.time, postDate),
+                    result, '', '', '', '', '', 'true-black', ''
+                ]);
+            });
+
+            var sheet = XLSX.utils.aoa_to_sheet(data);
+            sheet['!cols'] = [
+                {wch: 20}, {wch: 80}, {wch: 10}, {wch: 10}, {wch: 10}, {wch: 20}, {wch: 18}, {wch: 18}, {wch: 14}
+            ];
+            XLSX.utils.book_append_sheet(wb, sheet, 'Sheet1');
+
+            XLSX.writeFile(wb, 'postplanner-tobi-upload-' + postDate + '.xlsx');
+
+            alert('Downloaded TOBI export with ' + xRows.length + ' posts.\n\n' +
+                  keptHashtags + ' posts kept hashtags, ' + strippedHashtags + ' had hashtags removed for length.\n\n' +
+                  'Background: true-black (Column H).\nUpload to PostPlanner for Facebook TOBI posts.');
+        }
+
+        function parseXPostContent(content, storyTitle) {
+            var posts = [];
+            var lines = content.split('\n');
+
+            var inTextPost = false;
+            var inThread = false;
+            var currentTweetNum = 0;
+            var currentText = [];
+
+            for (var i = 0; i < lines.length; i++) {
+                var line = lines[i];
+                var trimmed = line.trim();
+
+                if (trimmed.match(/^###\s+Text Post/i)) {
+                    flushPost();
+                    inTextPost = true;
+                    inThread = false;
+                    currentText = [];
+                    continue;
+                }
+                if (trimmed.match(/^###\s+Thread Concept/i)) {
+                    flushPost();
+                    inTextPost = false;
+                    inThread = true;
+                    currentText = [];
+                    currentTweetNum = 0;
+                    continue;
+                }
+                if (trimmed.match(/^###\s+Image Post/i)) {
+                    flushPost();
+                    inTextPost = false;
+                    inThread = false;
+                    continue;
+                }
+                if (trimmed.match(/^###\s/)) {
+                    flushPost();
+                    inTextPost = false;
+                    inThread = false;
+                    continue;
+                }
+
+                if (inThread && trimmed.match(/^\*\*Tweet\s+\d+/i)) {
+                    flushPost();
+                    currentTweetNum++;
+                    currentText = [];
+                    continue;
+                }
+
+                if (inTextPost || (inThread && currentTweetNum > 0)) {
+                    if (trimmed !== '') {
+                        currentText.push(line);
+                    }
+                }
+            }
+            flushPost();
+
+            function flushPost() {
+                if (currentText.length === 0) return;
+                var text = currentText.join('\n').trim();
+                if (!text) return;
+
+                if (inTextPost) {
+                    posts.push({ text: text, type: 'text' });
+                } else if (inThread && currentTweetNum > 0) {
+                    posts.push({
+                        text: text,
+                        type: currentTweetNum === 1 ? 'thread_start' : 'thread_reply'
+                    });
+                }
+                currentText = [];
+            }
+
+            return posts;
+        }
+
+        function parseFacebookContent(content, storyTitle) {
+            var lines = content.split('\n');
+            var inLongForm = false;
+            var inImagePost = false;
+            var longFormLines = [];
+            var imageCaption = '';
+
+            for (var i = 0; i < lines.length; i++) {
+                var trimmed = lines[i].trim();
+
+                if (trimmed.match(/^###\s+Long-Form Post/i)) {
+                    inLongForm = true;
+                    inImagePost = false;
+                    longFormLines = [];
+                    continue;
+                }
+                if (trimmed.match(/^###\s+Image Post Caption/i) || trimmed.match(/^###\s+Image Post/i)) {
+                    inLongForm = false;
+                    inImagePost = true;
+                    continue;
+                }
+                if (trimmed.match(/^###\s/) || trimmed.match(/^---/)) {
+                    inLongForm = false;
+                    inImagePost = false;
+                    continue;
+                }
+
+                if (inLongForm) {
+                    longFormLines.push(lines[i]);
+                }
+                if (inImagePost && trimmed !== '') {
+                    imageCaption = trimmed;
+                    inImagePost = false;
+                }
+            }
+
+            var longForm = longFormLines.join('\n').trim();
+            if (!longForm) return null;
+
+            return {
+                content: longForm,
+                image_caption: imageCaption,
+                story: storyTitle
+            };
+        }
+
+        function downloadFile(content, filename, mimeType) {
+            var blob = new Blob([content], { type: mimeType });
+            var url = URL.createObjectURL(blob);
+            var link = document.createElement('a');
+            link.href = url;
+            link.download = filename;
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+            URL.revokeObjectURL(url);
+        }
+
+        var currentStatusFilter = 'all';
+        var currentTypeFilter = 'all';
+
+        function filterByStatus(status) {
+            currentStatusFilter = status;
+            applyFilters();
+            document.querySelectorAll('.filter-btn').forEach(function(btn) {
+                btn.classList.remove('active');
+                if (btn.textContent.trim().toLowerCase().replace(/\s+/g, '') === status.replace('-', '').toLowerCase() ||
+                    (status === 'all' && btn.textContent.trim() === 'All') ||
+                    (status === 'needs-edit' && btn.textContent.trim() === 'Needs Edit')) {
+                    btn.classList.add('active');
+                }
+            });
+            document.querySelectorAll('.sidebar .nav-item').forEach(function(item) { item.classList.remove('active'); });
+        }
+
+        function filterByType(type) {
+            currentTypeFilter = type;
+            currentStatusFilter = 'all';
+            applyFilters();
+            document.querySelectorAll('.sidebar .nav-item').forEach(function(item) { item.classList.remove('active'); });
+            document.querySelectorAll('.filter-btn').forEach(function(btn) {
+                btn.classList.remove('active');
+                if (btn.textContent.trim() === 'All') btn.classList.add('active');
+            });
+        }
+
+        function applyFilters() {
+            var cards = document.querySelectorAll('.card');
+            var visibleCount = 0;
+            cards.forEach(function(card) {
+                var cardStatus = card.getAttribute('data-status');
+                var cardType = card.getAttribute('data-type');
+                var matchesStatus = (currentStatusFilter === 'all') || (cardStatus === currentStatusFilter);
+                var matchesType = (currentTypeFilter === 'all') || (cardType === currentTypeFilter);
+                if (matchesStatus && matchesType) {
+                    card.classList.add('show');
+                    visibleCount++;
+                } else {
+                    card.classList.remove('show');
+                }
+            });
+            document.getElementById('empty-state').style.display = visibleCount === 0 ? 'block' : 'none';
+        }
+
+        function approveAll() {
+            if (!confirm('Approve all ' + allStories.length + ' items?')) return;
+            allStories.forEach(function(story) { setStatus(story.id, 'approved'); });
+        }
+
+        function resetAll() {
+            if (confirm('Reset all reviews? This cannot be undone.')) {
+                localStorage.removeItem(REVIEW_STORAGE_KEY + '-' + DATE);
+                location.reload();
+            }
+        }
+
+        function copyContent(storyId) {
+            var data = reviewData[storyId];
+            var story = allStories.find(function(s) { return s.id === storyId; });
+            var text = (data && data.editedContent) ? data.editedContent : (story ? story.content : '');
+            navigator.clipboard.writeText(text).then(function() {
+                var btn = document.querySelector('[data-id="' + storyId + '"] .btn-copy');
+                if (btn) { var orig = btn.textContent; btn.textContent = 'Copied!'; setTimeout(function() { btn.textContent = orig; }, 1500); }
+            });
+        }
+
+        function exportApprovals() {
+            var items = [];
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id] || {};
+                items.push({
+                    id: story.id,
+                    type: story.type,
+                    title: story.title,
+                    status: data.status || 'unreviewed',
+                    notes: data.notes || '',
+                    content: story.content,
+                    editedContent: data.editedContent || null,
+                    finalContent: data.editedContent || story.content
+                });
+            });
+
+            var exportData = {
+                date: DATE,
+                reviewed_by: '',
+                reviewed_at: new Date().toISOString(),
+                items: items
+            };
+
+            var dataStr = JSON.stringify(exportData, null, 2);
+            var dataBlob = new Blob([dataStr], { type: 'application/json' });
+            var url = URL.createObjectURL(dataBlob);
+            var link = document.createElement('a');
+            link.href = url;
+            link.download = 'approvals-' + DATE + '.json';
+            link.click();
+            URL.revokeObjectURL(url);
+        }
+
+        // Auto-save notes as you type
+        document.addEventListener('input', function(e) {
+            if (e.target.classList.contains('notes-textarea')) {
+                var storyId = e.target.id.replace('textarea-', '');
+                if (reviewData[storyId]) {
+                    reviewData[storyId].notes = e.target.value;
+                    localStorage.setItem(REVIEW_STORAGE_KEY + '-' + DATE, JSON.stringify(reviewData));
+                }
+            }
+        });
+
+        initializeApp();
+
+    </script>
+</body>
+</html>
