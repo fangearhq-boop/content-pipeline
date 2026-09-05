@@ -6929,3 +6929,46 @@ Each day's stories are appended at the top (newest first).
   - Shaw stretch-run production tracking
   - Alcántara September callup
   - Wiggins callup announcement
+
+## 2026-09-05
+
+### STORY 1: Game Recap — Imanaga Leads Cubs to WC1 With 6-1 Win at Miami
+- **Angle:** NEW STORY (Game 1 result: Imanaga 6+ IP, 1 ER, 3 H, 0 BB vs Janson Junk; M. Busch solo HR in 9th; Cubs 6-1 winners; vaulted from WC2 to WC1 at 80-62; per has_score=False insight, led with Imanaga's line not score)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - Game 2 result recap (Sept 6 morning)
+  - Series outcome / WC1 hold confirmation
+
+### STORY 2: Game Preview — Boyd vs Gusto, 3:10 PM CT at loanDepot Park
+- **Angle:** NEW STORY (Boyd 8-3/3.99 ERA vs Gusto 7-10/5.20 ERA; Game 2 of 3-game series at Miami; 3:10 PM CT; Cubs need series win to extend WC1 lead; stat-heavy per has_stat=True insight)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Game 2 result recap (Sept 6 morning)
+  - Boyd season ERA/record tracking
+
+### STORY 3: Wild Card Watch — Cubs Now WC1, Cardinals at .500
+- **Angle:** FOLLOW UP (Cubs moved to WC1 at 80-62 after Friday win; Phillies WC2; Diamondbacks WC3; Cardinals 71-71 exactly .500 and out of WC contention; rival jab)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, analysis/rival watch)
+- **Follow-Up Opportunities:**
+  - WC standings update after weekend games
+  - Cardinals elimination watch
+
+### STORY 4: PCA 40-40 Chase — 39 HR / 32 SB, 20 Games Left
+- **Angle:** FOLLOW UP (stable at 39/32; renewed angle with exactly 20 games left; 6 total 40-40 seasons in MLB history; no Cub has ever done it; 1 HR + 8 SB needed)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, stat breakdown)
+- **Follow-Up Opportunities:**
+  - PCA 40th HR milestone (watch daily)
+  - SB tracking (32 → target 40)
+
+### STORY 5: October Depth — Steele Rehab Update, Swanson Swinging
+- **Angle:** FOLLOW UP (Steele in AAA Iowa rehab; Hoyer best case = playoff bulk arm; 1.2 IP/1 ER/90.3 mph in first outing; Swanson swinging, targeting late-September return from Grade 2 oblique; Horton done for year with TJS)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, injury/roster update)
+- **Follow-Up Opportunities:**
+  - Steele second rehab start result
+  - Swanson activation date
+  - October roster construction decisions
