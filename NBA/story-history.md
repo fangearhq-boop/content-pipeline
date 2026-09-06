@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-09-06
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-06 | T1 | Christian Braun Fires Back at Nuggets Critics Before Camp | X(2), FB, Article | NEW |
+| 2026-09-06 | T1 | Michael Porter Jr. Trade Buzz Intensifies — Nets Expected to Deal Him by Deadline | X(2), FB, Article | NEW |
+| 2026-09-06 | T2 | DeMar DeRozan Signs with Denver Nuggets | X(1), FB, Article | NEW |
+| 2026-09-06 | T2 | NBA Opening Night Set — LeBron Debuts in Philly Uniform at MSG on Oct. 20 | X(1), FB, Article | NEW |
+| 2026-09-06 | T2 | Trail Blazers 2026-27 Preview — Morant + Lillard Backcourt Faces Sharpe Hurdle | X(1), FB, Article | FOLLOW UP |
+
+### STORY 1: Christian Braun — Nuggets Training Camp Motivation
+- **Tier:** 1
+- **Category:** Denver Nuggets / Christian Braun / NBA Training Camp
+- **Key facts:** Braun limited to 44 games (ankle injuries); 12.0 ppg, 4.8 rpg, 2.7 apg last season; projected starter: Murray/Braun/Cam Johnson/Gordon/Jokic; told Denver Post critics are motivating him; "We've got everything we need to win a championship"; camp opens Sept. 29
+- **Status:** NEW
+- **Follow-up ideas:** Training camp health updates, early season performance, Nuggets championship run
+
+### STORY 2: Michael Porter Jr. Trade Rumors — Brooklyn Nets
+- **Tier:** 1
+- **Category:** Brooklyn Nets / Michael Porter Jr. / NBA Trade Rumors
+- **Key facts:** Career-high 24.2 ppg, 7.1 rpg, splits 46/36/86 in 2025-26 with Brooklyn; contract extension talks stalled; expected to be traded before 2027 deadline; Warriors and Pistons interested; acquired from Denver for Cam Johnson + 2032 UPF
+- **Status:** NEW
+- **Follow-up ideas:** Trade destination update, deadline deal, impact on Denver
+
+### STORY 3: DeMar DeRozan Signs with Denver Nuggets
+- **Tier:** 2
+- **Category:** Denver Nuggets / DeMar DeRozan / NBA Free Agency
+- **Key facts:** 1 year, $3.9M veteran minimum; agreement Aug. 21, 2026; 6x All-Star, age 37; 18.4 ppg on ~50% shooting with Sacramento in 2025-26; Kings waived him early (only $10M of $25.7M guaranteed); chose Denver over Heat, Wizards, Pelicans
+- **Status:** NEW
+- **Follow-up ideas:** DeRozan training camp performance, Nuggets rotation, championship outlook
+
+### STORY 4: NBA Opening Night — October 20, 2026
+- **Tier:** 2
+- **Category:** NBA Season Preview / Philadelphia 76ers / New York Knicks / Opening Night
+- **Key facts:** Triple-header Oct. 20 on NBC/Peacock; 3 PM Celtics at Pistons; 7 PM Sixers at Knicks (LeBron debut + Knicks banner raise); 9:30 PM OKC at Spurs (WCF rematch); Christmas: Spurs at Knicks (noon), Sixers at Lakers (5 PM)
+- **Status:** NEW
+- **Follow-up ideas:** Preseason preview, Opening Night recap, LeBron-Knicks storyline
+
+### STORY 5: Portland Trail Blazers 2026-27 Preview
+- **Tier:** 2
+- **Category:** Portland Trail Blazers / Ja Morant / Damian Lillard / Shaedon Sharpe
+- **Key facts:** Morant acquired from Memphis; Lillard returning from 2025 Achilles; Sharpe right knee meniscus tear, return late Feb/early March 2027; 12 guaranteed contracts; Jeremy Sochan competing for roster spot; camp opens Sept. 29
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Training camp health updates, Lillard comeback story, Sharpe return timeline
+
 ## 2026-09-02
 
 | Date | Tier | Title | Platforms | Status |
