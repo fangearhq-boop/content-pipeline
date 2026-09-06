@@ -5,6 +5,50 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-09-06
+
+### Story 1: PCA — Still One Swing Away
+- **Date:** 2026-09-06
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Updated SB count to 33 (confirmed from Sept 4 box score — stole 33rd vs Marlins). PCA went 1-for-3 on Sept 5 (no HR, no SB; Cubs won 6-5). Enters Sept 6 at 39 HR / 33 SB. Needs 1 HR + 7 SB in ~22 games. Cubs in WC1. 6-member 40-40 club: Canseco/Bonds/ARod/Soriano/Acuña/Ohtani.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:** 40th HR moment, 40th SB milestone, Cubs playoff clinch
+
+### Story 2: Misiorowski — Rematch at Wrigley
+- **Date:** 2026-09-06
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** After Sept 3 rough start (5ER/4BB/4IP) ending 26-start ≤3 ER streak, Brewers gave extra rest. Next start Sept 7 or 8 at Wrigley vs the same Cubs lineup that roughed him up. ERA: 1.97. Cy Young frontrunner. Redemption narrative + Brewers playoff stakes. Biggest start of his career.
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:** Misiorowski next start Sept 7-9 result, Cy Young vote implications, Brewers seeding
+
+### Story 3: Yordan Alvarez — Triple Crown Hanging by a Thread
+- **Date:** 2026-09-06
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Alvarez at .317 BA / 37 HR / 94 RBI. All three AL leads contested: Caminero tied at 37 HR, Alonso tied at 94 RBI, Simpson 5 pts back (.312) in BA. Last AL Triple Crown: Cabrera 2012. 22 games left.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:** Caminero HR updates, Alonso RBI race, Simpson BA chase, Alvarez game-by-game tracking
+
+### Story 4: Ohtani — Day 3 Out, October in Question
+- **Date:** 2026-09-06
+- **Tier:** 1
+- **Classification:** FOLLOW UP (escalated)
+- **Angle:** 3rd consecutive game missed (not on IL). Roberts: "Hopeful. I wouldn't say confident, but hopeful." Left knee + right bicep + neck. Pre-absence slump: .137/7-for-51/20K since Aug 18. October six weeks away. No timetable given.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:** Ohtani return date, IL designation if condition worsens, Dodgers' October health update
+
+### Story 5: NL Wild Card — The Last 22 Games
+- **Date:** 2026-09-06
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Cubs WC1 (~0.5 over Phillies WC2). D-backs hold WC3. Padres 0.5 back. Cardinals at 71-72 at Colorado today. ~22-23 games left. WC3 is the only spot still being decided.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:** D-backs vs Padres daily tracking, Cardinals Colorado series result, Cubs/Phillies clinch timeline
+
+---
+
 ## 2026-09-05
 
 ### Story 1: PCA — 39 HR, One Swing from History

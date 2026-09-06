@@ -1,0 +1,254 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-06",
+  "compiled_at": "2026-09-06T10:40:47.222452+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "PCA — Still One Swing Away",
+      "type": "1"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "Misiorowski — Rematch at Wrigley",
+      "type": "1"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Yordan Alvarez — Triple Crown Hanging by a Thread",
+      "type": "1"
+    },
+    {
+      "time": "2:00 PM",
+      "description": "Ohtani — Day 3 Out, October in Question",
+      "type": "1"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "NL Wild Card — The Last 22 Games",
+      "type": "2"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "PCA — Still One Swing Away",
+      "tier": 1,
+      "status": "",
+      "angle": "PCA enters Sept 6 at 39 HR / 33 SB (SB count updated from Sept 4 box score). He went 1-for-3 on Sept 5 — no HR, no SB; Cubs won 6-5. Needs 1 HR and 7 SB in ~22 games. 40-40 club has 6 members in 130+ years: Canseco (1988), Bonds (1996), ARod (1998), Soriano (2006), Acuña (2023), Ohtani. Cubs in WC1.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "**Text Post 1** [9:00 AM]\nPete Crow-Armstrong: 39 HR. 33 SB. ⚾\n\nOne home run. The 40-40 club has had 6 members in the history of baseball.\n\n22 games left. He's right there.\n\n#Cubs #ForeverCubs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#ForeverCubs"
+          ],
+          "char_count": 192
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-pca-39-hr-33-sb-one-swing-from-history.html",
+        "headline": "Pete Crow-Armstrong Is One Home Run From Becoming the Seventh",
+        "word_count": 481
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "PCA — Still One Swing Away\n\n**Social Image (1080x1350)**\n- **Search Terms (imagn):** \"Pete Crow-Armstrong Cubs\" / \"Pete Crow-Armstrong batting\"\n- **Text Overlay Headline:** \"39 HR · 33 SB\"\n- **Text Overlay Subtitle:** \"One Swing from the 40-40 Club\"\n- **Subtitle Color:** #F4C542\n- **Tone:** Urgency and exclusivity — action shot at the plate\n\n**Article Hero (1200x630)**\n- **Search Terms (imagn):** \"Pete Crow-Armstrong Cubs\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Misiorowski — Rematch at Wrigley",
+      "tier": 1,
+      "status": "",
+      "angle": "After his first rough start of 2026 (Sept 3 vs Cubs: 5ER/4BB/4IP, ending his 26-start ≤3 ER streak), Brewers gave him extra rest. Next start Sept 7 or 8 at Wrigley — rematch vs same Cubs team. ERA: 1.97. NL Cy Young frontrunner. Redemption + Brewers playoff stakes.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "**Text Post 1** [10:00 AM]\n26 straight starts. Three earned runs or fewer every time.\n\nThen the Cubs happened. 5 ER. 4 walks. 4 innings.\n\nNow he gets to go back to Wrigley. Same lineup. Same park. Biggest start of his season. #Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-misiorowski-rematch-wrigley-sept-7.html",
+        "headline": "The Cubs Got to Him First. Now Misiorowski Goes Back to Wrigley.",
+        "word_count": 530
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Misiorowski — Rematch at Wrigley\n\n**Social Image (1080x1350)**\n- **Search Terms (imagn):** \"Jakob Misiorowski Brewers\" / \"Jakob Misiorowski pitching\"\n- **Text Overlay Headline:** \"THE REMATCH\"\n- **Text Overlay Subtitle:** \"Misiorowski Returns to Wrigley — Sept. 7\"\n- **Subtitle Color:** #F4C542\n- **Tone:** High-drama, intensity — mid-delivery or stare-in\n\n**Article Hero (1200x630)**\n- **Search Terms (imagn):** \"Jakob Misiorowski Brewers\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Yordan Alvarez — Triple Crown Hanging by a Thread",
+      "tier": 1,
+      "status": "",
+      "angle": "Alvarez at .317 BA / 37 HR / 94 RBI entering Sept 6. All three AL category leads contested: Caminero tied at 37 HR, Alonso tied at 94 RBI, Simpson 5 pts back (.312) in BA. Last AL Triple Crown: Cabrera 2012. ~22 games left.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "**Text Post 1** [12:00 PM]\nYordan Alvarez: .317 / 37 HR / 94 RBI. 🔥\n\nHe leads all three AL categories. But Caminero is tied in HRs. Alonso is tied in RBI. Simpson is 5 back in BA.\n\n22 games. Last AL Triple Crown: Cabrera, 2012. #Astros",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Astros"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-alvarez-triple-crown-contested-leads.html",
+        "headline": "Yordan Alvarez Is Chasing a Triple Crown — and Every Lead Is Contested",
+        "word_count": 538
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alvarez — Triple Crown Hanging by a Thread\n\n**Social Image (1080x1350)**\n- **Search Terms (imagn):** \"Yordan Alvarez Astros\" / \"Yordan Alvarez batting\"\n- **Text Overlay Headline:** \".317 / 37 HR / 94 RBI\"\n- **Text Overlay Subtitle:** \"Every Lead Is Contested — 22 Games Left\"\n- **Subtitle Color:** #F4C542\n- **Tone:** Trophy-hunt gravitas — batting stance or dugout\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Ohtani — Day 3 Out, October in Question",
+      "tier": 1,
+      "status": "",
+      "angle": "Ohtani held out of Saturday lineup — 3rd consecutive game missed. Not on IL. Dave Roberts: \"Hopeful. I wouldn't say confident, but hopeful.\" Left knee + right bicep + neck. Context: .137 avg / 7-for-51 / 20K since Aug 18 before the absence.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "**Text Post 1** [2:00 PM]\nThree straight games. Still no timetable. 🚨\n\nRoberts: \"Hopeful. I wouldn't say confident, but hopeful.\"\n\nLeft knee. Right bicep. Neck.\n\nOhtani isn't on the IL — but he's not playing. October is 6 weeks away. #Dodgers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-ohtani-day-3-out-roberts-hopeful-not-confident.html",
+        "headline": "Ohtani Has Now Missed Three Straight. Roberts Is Hopeful — Not Confident.",
+        "word_count": 540
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ohtani — Day 3, No Timetable\n\n**Social Image (1080x1350)**\n- **Search Terms (imagn):** \"Shohei Ohtani Dodgers\" / \"Shohei Ohtani batting\"\n- **Text Overlay Headline:** \"3 GAMES OUT\"\n- **Text Overlay Subtitle:** \"Roberts: 'Hopeful — Not Confident'\"\n- **Subtitle Color:** #F4C542\n- **Tone:** Concern, tension — bench or dugout shot preferred\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "NL Wild Card — The Last 22 Games",
+      "tier": 2,
+      "status": "",
+      "angle": "Cubs WC1 (~0.5 ahead of Phillies WC2). D-backs holding WC3. Padres 0.5 back. Cardinals at 71-72 at Colorado today. ~22-23 games remaining. WC3 is the only spot still being decided.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "**Text Post 1** [5:00 PM]\n22 games left in the NL Wild Card race. 📊\n\nCubs: WC1. Phillies: WC2. D-backs: WC3.\nPadres: 0.5 back. Cardinals: 71-72, further back.\n\nThat third spot is all that's left to decide. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 210
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-nl-wildcard-race-22-games-left.html",
+        "headline": "22 Games Left: The Only NL Wild Card Spot Still Up for Grabs",
+        "word_count": 523
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NL Wild Card — 22 Games Left\n\n**Social Image (1080x1350)**\n- **Search Terms (imagn):** \"NL Wild Card\" / \"Cubs Phillies Diamondbacks\"\n- **Text Overlay Headline:** \"22 GAMES LEFT\"\n- **Text Overlay Subtitle:** \"NL Wild Card Race — WC3 Is Everything Now\"\n- **Subtitle Color:** #F4C542\n- **Tone:** Race urgency — stadium crowd or scoreboard shot"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
