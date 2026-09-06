@@ -1,0 +1,256 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-06",
+  "compiled_at": "2026-09-06T11:27:34.639197+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Gasly's Sensational Maiden Pole at Monza — Alpine's Greatest Qualifying Shock",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Pierre Gasly just took his FIRST career F1 pole at Monza.\n\n1:21.786 — 0.060s ahead of Russell. Piastri third.\n\nFirst French F1 pole at Monza since Jean Alesi in 1997.\n\nThis was NOT supposed to happen. 🏆 #F1 #ItalianGP",
+          "posting_time": "",
+          "tweet_type": "FOLLOW UP",
+          "hashtags": [
+            "#F1",
+            "#ItalianGP"
+          ],
+          "char_count": 217
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Pierre Gasly. Pole. Monza. 2026.\n\nAlpine hasn't had a pole since they rebranded from Renault.\n\nRussell P2. Piastri P3. Leclerc P4. Hamilton P5. Antonelli starts LAST.\n\nWhat a qualifying session. #F1 #ItalianGP #Alpine",
+          "posting_time": "",
+          "tweet_type": "FOLLOW UP",
+          "hashtags": [
+            "#F1",
+            "#ItalianGP",
+            "#Alpine"
+          ],
+          "char_count": 217
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-gasly-maiden-pole-monza.html",
+        "headline": "Pierre Gasly Claims Maiden F1 Pole at Monza — First French Pole at the Temple of Speed Since 1997",
+        "word_count": 540
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Gasly Pole Position\n\n**Image Concept 1 — Social (1080x1350)**\n- Search terms (imagn): \"Pierre Gasly Alpine\"\n- Platform: X, Facebook\n- Caption overlay: MAIDEN POLE / GASLY STUNS MONZA\n\n**Image Concept 2 — Article Hero (1200x630)**\n- Search terms (imagn): \"Pierre Gasly Alpine F1\"\n- Platform: Article\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Championship Stakes at Monza — What Antonelli, Russell and Norris Need Today",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "MONZA CHAMPIONSHIP STAKES:\n\nAntonelli leads: 242 pts\nRussell: -59\nHamilton: -59\nNorris: -83\n\nAntonelli starts LAST (engine penalty).\nRussell starts P2.\n\nThis Italian GP could change everything. #F1 #ItalianGP",
+          "posting_time": "",
+          "tweet_type": "FOLLOW UP",
+          "hashtags": [
+            "#F1",
+            "#ItalianGP"
+          ],
+          "char_count": 208
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Kimi Antonelli is 20 years old, leads the F1 championship by 59 points — and starts today's Italian GP from LAST.\n\nGeorge Russell starts P2.\n\n11 rounds left. If Russell wins and Antonelli struggles, this title race is on. #F1 #ItalianGP",
+          "posting_time": "",
+          "tweet_type": "FOLLOW UP",
+          "hashtags": [
+            "#F1",
+            "#ItalianGP"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-f1-championship-stakes-monza.html",
+        "headline": "Italian GP Championship Stakes: Antonelli Starts Last, Russell Starts Second — Everything Is at Stake",
+        "word_count": 545
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Championship Stakes — Antonelli vs Russell\n\n**Image Concept 1 — Social (1080x1350)**\n- Search terms (imagn): \"Kimi Antonelli Mercedes\"\n- Platform: X, Facebook\n- Caption overlay: CHAMPIONSHIP SHOWDOWN / MONZA 2026\n\n**Image Concept 2 — Article Hero (1200x630)**\n- Search terms (imagn): \"George Russell Mercedes F1\"\n- Platform: Article\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Vettel's F2002 Demo Lap — Schumacher Tribute Closes at Monza",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Sebastian Vettel drove the Ferrari F2002 at Monza before today's Italian GP.\n\nHamilton and Leclerc race in Schumacher-inspired suits.\n\nFerrari honoring Schumi — 30 years since he joined the team, 20 since his last season.\n\nThe Temple of Speed remembers. 🔴 #F1 #ItalianGP #Ferrari",
+          "posting_time": "",
+          "tweet_type": "FOLLOW UP",
+          "hashtags": [
+            "#F1",
+            "#ItalianGP",
+            "#Ferrari"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-vettel-f2002-schumacher-tribute-monza.html",
+        "headline": "Vettel Drives F2002 at Monza — Ferrari's Schumacher Tribute Reaches Its Emotional Peak",
+        "word_count": 446
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Vettel F2002 / Schumacher Tribute\n\n**Image Concept 1 — Social (1080x1350)**\n- Photo source: gemini\n- Prompt: \"Classic red Ferrari Formula 1 car from early 2000s on historic racing circuit, dramatic low angle shot, warm golden hour lighting, Italian countryside background, photorealistic\"\n- Platform: X, Facebook\n\n**Image Concept 2 — Article Hero (1200x630)**\n- Photo source: gemini\n- Prompt: \"Iconic red Ferrari F1 car on Monza banking, vintage racing atmosphere, dramatic lighting, celebration of motorsport legacy, cinematic style\"\n- Platform: Article\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "F1 Season Finale Still Unclear — Domenicali Promises Decision by Mid-September",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "F1 CEO Domenicali: a decision on the season finale is coming by mid-September.\n\nQatar (Nov 27) and Abu Dhabi (Dec 4) still on calendar — but under review.\n\nBahrain + Saudi Arabia already cancelled. Malaysia replaces Bahrain (Oct 2-4).\n\nImola on standby. #F1",
+          "posting_time": "",
+          "tweet_type": "FOLLOW UP",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-f1-calendar-2026-qatar-abu-dhabi-decision.html",
+        "headline": "F1 Season Finale Decision Coming by Mid-September — Qatar and Abu Dhabi Under Review",
+        "word_count": 421
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "F1 Calendar Decision\n\n**Image Concept 1 — Social (1080x1350)**\n- Photo source: gemini\n- Prompt: \"F1 calendar graphic, multiple race flags from different countries arranged dramatically, blue and white color scheme, modern sleek design, base_only mode for text overlay\"\n- Platform: X, Facebook\n\n**Image Concept 2 — Article Hero (1200x630)**\n- Photo source: gemini\n- Prompt: \"Lusail circuit Doha Qatar at night with F1 race in progress, dramatic lighting, desert skyline, futuristic atmosphere, photorealistic\"\n- Platform: Article\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Hamilton's Ferrari Dream at the Temple of Speed",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Lewis Hamilton has NEVER won the Italian Grand Prix.\n\nToday he started P5 at Monza — in a Ferrari — on the Schumacher tribute weekend.\n\nThe circuit Schumacher won 5 times. The suits. The cars on display.\n\nAll that's missing is a Hamilton victory. #F1 #Ferrari #ItalianGP",
+          "posting_time": "",
+          "tweet_type": "FOLLOW UP",
+          "hashtags": [
+            "#F1",
+            "#Ferrari",
+            "#ItalianGP"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-hamilton-ferrari-italian-gp-monza.html",
+        "headline": "Hamilton's Monza Dream: The Italian Grand Prix Is the One Win He's Never Had",
+        "word_count": 517
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hamilton at Monza\n\n**Image Concept 1 — Social (1080x1350)**\n- Search terms (imagn): \"Lewis Hamilton Ferrari\"\n- Platform: X, Facebook\n- Caption overlay: THE ONLY WIN MISSING\n\n**Image Concept 2 — Article Hero (1200x630)**\n- Search terms (imagn): \"Lewis Hamilton Ferrari F1\"\n- Platform: Article"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

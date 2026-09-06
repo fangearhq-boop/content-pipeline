@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-09-06
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-06 | T1 | Gasly's Sensational Maiden Pole at Monza | X(2), FB, Article | FOLLOW UP |
+| 2026-09-06 | T1 | Championship Stakes at Monza — Antonelli Last, Russell P2 | X(2), FB, Article | FOLLOW UP |
+| 2026-09-06 | T2 | Vettel F2002 Demo — Schumacher Tribute Closes at Monza | X(1), FB, Article | FOLLOW UP |
+| 2026-09-06 | T2 | F1 Season Finale Still Unclear — Domenicali Promises Mid-September Decision | X(1), FB, Article | FOLLOW UP |
+| 2026-09-06 | T2 | Hamilton's Ferrari Dream at Monza — The Win That's Always Been Missing | X(1), FB, Article | FOLLOW UP |
+
+### STORY 1: Gasly Maiden Pole — Monza 2026
+- **Tier:** 1
+- **Category:** Italian Grand Prix / Pierre Gasly / Alpine / Qualifying
+- **Key facts:** Gasly pole 1:21.786; beats Russell by 0.060s; Piastri P3; Leclerc P4; Hamilton P5; Antonelli starts last (engine penalty); first French F1 pole at Monza since Jean Alesi/Benetton 1997; first Alpine pole since Renault rebranding
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Race result, can Gasly convert pole to victory
+
+### STORY 2: Championship Stakes — Monza 2026
+- **Tier:** 1
+- **Category:** F1 Championship / Kimi Antonelli / George Russell / Italian Grand Prix
+- **Key facts:** Antonelli 242 pts leads by 59 over Russell/Hamilton (both 183); Norris 159 pts; Leclerc 155; 11 rounds remaining; Antonelli starts last; Russell starts P2; Norris defending champion; Mercedes leads constructors by 87 pts over Ferrari
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Race result, championship standings after Monza
+
+### STORY 3: Vettel F2002 Demo / Schumacher Tribute
+- **Tier:** 2
+- **Category:** Ferrari / Sebastian Vettel / Michael Schumacher / Italian Grand Prix
+- **Key facts:** Vettel drove F2002 demo lap before Sunday race; Barrichello drove same car Saturday; tribute = 30y Schumi joined Ferrari (1996) + 20y final season (2006); cars: F310, F2002, 248 F1 on display; Hamilton/Leclerc in Schumacher-inspired suits with gold wheels, MS logo, 7-star
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Race recap with tribute elements
+
+### STORY 4: F1 Season Finale Calendar — Domenicali
+- **Tier:** 2
+- **Category:** F1 Calendar / Qatar / Abu Dhabi / Imola / FOM
+- **Key facts:** Qatar Nov 27-29 Lusail; Abu Dhabi Dec 4-6 Yas Marina; both under review; Bahrain + Saudi already cancelled; Malaysia Sepang Oct 2-4 replacement; Imola leading contingency; Domenicali: decision by mid-September
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official calendar announcement
+
+### STORY 5: Hamilton at Monza — Ferrari Italian GP
+- **Tier:** 2
+- **Category:** Lewis Hamilton / Ferrari / Italian Grand Prix
+- **Key facts:** Hamilton has never won Italian GP; starts P5 at Monza; racing in Schumacher tribute suit; third in championship at 183 pts; Schumacher won Italian GP 5 times in Ferrari
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Race result — did Hamilton finally win at Monza?
+
 ## 2026-09-03
 
 | Date | Tier | Title | Platforms | Status |

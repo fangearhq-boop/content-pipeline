@@ -1,11 +1,46 @@
 # F1 Fanrecap — Pipeline Status
 
-## Last Run: 2026-09-05
+## Last Run: 2026-09-06
 
 **Status:** COMPLETE (with known proxy limitations)
 **Niche:** F1 Fanrecap
 **Stories:** 5
 **Articles:** 5
+
+---
+
+## 2026-09-06 Run Log
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research / WebSearch | ✅ Complete | 5 stories — Gasly maiden pole, championship stakes (Antonelli last/Russell P2), Vettel F2002 Schumi tribute, F1 calendar decision, Hamilton at Monza |
+| Daily Brief | ✅ Complete | 00-daily-brief.md |
+| Research Notes | ✅ Complete | 01-research-notes.md |
+| Story Analysis | ✅ Complete | 02-story-analysis.md |
+| X Posts | ✅ Complete | 03-social-posts-x.md — 7 posts |
+| Facebook Posts | ✅ Complete | 04-social-posts-facebook.md |
+| Image Concepts | ✅ Complete | 05-image-concepts.md |
+| Articles | ✅ Complete | 5 HTML articles |
+| Fact Check | ✅ Complete | 06-fact-check-log.md — 24 claims |
+| Compile Content Data | ✅ Complete | 07-content-data.json |
+| Image Manifest | ✅ Complete | 07-image-manifest.md (not_started) |
+| Review Dashboard | ✅ Complete | review-dashboard.html — 22 items |
+| Publish Dashboard | ⚠ Partial | Blocked — content-dashboards not in authorized repo |
+| PostPlanner Export | ✅ Complete | f1fr-postplanner-2026-09-06.xlsx |
+| PostPlanner TOBI | ✅ Complete | f1fr-postplanner-tobi-2026-09-06.xlsx |
+| WordPress Publish | ❌ Blocked | Proxy 403 — same as prior days |
+| Story History | ✅ Complete | story-history.md updated |
+
+**Stories covered:**
+1. T1 FOLLOW UP: Gasly's Sensational Maiden Pole at Monza (qualifying recap)
+2. T1 FOLLOW UP: Championship Stakes — Antonelli starts last, Russell starts P2
+3. T2 FOLLOW UP: Vettel F2002 Demo — Schumacher Tribute Closes at Monza
+4. T2 FOLLOW UP: F1 Season Finale Still Unclear — Mid-September Decision Promised
+5. T2 FOLLOW UP: Hamilton's Ferrari Dream — The Italian GP Win He's Never Had
+
+**Note:** Italian GP race results not yet indexed in search at time of pipeline run. Content covers qualifying result (Gasly pole) and race-day narrative angles. Race results available post-race for follow-up coverage.
+
+---
 
 ---
 
