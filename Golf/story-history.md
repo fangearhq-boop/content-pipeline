@@ -2,6 +2,58 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-09-06
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-06 | T1 | Paul Casey Wins Omega European Masters — Pledges Prize to Crans-Montana Fire Victims | X(2), FB, Article | FOLLOW UP |
+| 2026-09-06 | T1 | LIV Golf Bankruptcy Filing Expected This Week — PIF Ends Funding | X(2), FB, Article | FOLLOW UP |
+| 2026-09-06 | T2 | Solheim Cup Eve — Practice Begins Tomorrow at Bernardus Golf | X(1), FB, Article | FOLLOW UP |
+| 2026-09-06 | T2 | Jackson Koivun — The 21-Year-Old Heading to Medinah | X(1), FB, Article | FOLLOW UP |
+| 2026-09-06 | T2 | Jon Rahm's $100M Question — What LIV Bankruptcy Means for Golf's Biggest Contract | X(1), FB, Article | FOLLOW UP |
+
+### STORY 1: Paul Casey Wins Omega European Masters
+- **Tier:** 1
+- **Category:** Omega European Masters / DP World Tour / Paul Casey / Crans-Montana / Charity / Switzerland
+- **Key facts:** Paul Casey 16-under; R3 63 (29 front nine); three-shot lead into Sunday; pledged entire prize money to Le Constellation bar fire victims (41 killed, 115 injured, Jan. 1); Crans-sur-Sierre GC; age 49
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Final score confirmation; charity total raised; Casey quote
+
+### STORY 2: LIV Golf Bankruptcy Filing
+- **Tier:** 1
+- **Category:** LIV Golf / Bankruptcy / Chapter 11 / PIF / BC Partners / Player Contracts / Restructuring
+- **Key facts:** Filing expected week of Sept. 7; NJ federal court; PIF spent $5B+ since 2022; DIP financing <$100M from PIF; BC Partners negotiating up to $300M; players offered pennies on dollar; Jon Rahm owed $100M+; LIV 2.0 = 10-event schedule with player equity
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Filing confirmation date; BC Partners deal closure; player settlement decisions; PGA Tour reinstatement response
+
+### STORY 3: Solheim Cup Eve
+- **Tier:** 2
+- **Category:** Solheim Cup / Angela Stanford / Anna Nordqvist / USA / Europe / Bernardus Golf / Netherlands / LPGA
+- **Key facts:** Practice begins Sept. 7; PING Junior Solheim Cup also Sept. 7; match play Sept. 11-13; first Dutch Solheim Cup; USA captain Angela Stanford; Europe captain Anna Nordqvist; Nelly Korda world No. 1 for USA; USA won 2024 15.5-12.5
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Day-by-day match results; pairings announcement; MVP analysis; final score
+
+### STORY 4: Jackson Koivun Presidents Cup
+- **Tier:** 2
+- **Category:** Presidents Cup / Jackson Koivun / Brandt Snedeker / Medinah / Auburn / PGA Tour / USA Team
+- **Key facts:** 21 years old; second-youngest American Presidents Cup selection ever (behind Jordan Spieth at 20, 2013); won 3M Open in July (3rd pro start); 25-under 259 tournament record; beat Scheffler by 3; Snedeker pick; Sept. 24-27 Medinah No. 3; Geoff Ogilvy International captain
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Practice round observations; pairings; individual match results
+
+### STORY 5: Jon Rahm LIV Bankruptcy Impact
+- **Tier:** 2
+- **Category:** Jon Rahm / LIV Golf / Bankruptcy / Player Contracts / PGA Tour Reinstatement
+- **Key facts:** Rahm reportedly owed $100M+ in guaranteed money; third consecutive LIV individual title at Indianapolis; three player options (settle+LIV 2.0 / settle+leave / pursue full claims); PGA Tour reinstatement timeline unclear
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Rahm decision announcement; PGA Tour reinstatement terms
+
+---
+
 ## 2026-09-05
 
 | Date | Tier | Story | Platforms | Status |

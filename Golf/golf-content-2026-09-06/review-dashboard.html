@@ -1,0 +1,2713 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Golf Fanrecap — Content Review Dashboard</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: #f5f5f5;
+            display: flex;
+            min-height: 100vh;
+            color: #333;
+        }
+
+        .sidebar {
+            width: 280px;
+            background: #1a1a2e;
+            color: white;
+            padding: 30px 20px;
+            position: fixed;
+            height: 100vh;
+            overflow-y: auto;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+            z-index: 10;
+        }
+
+        .sidebar h1 { font-size: 18px; margin-bottom: 10px; color: #FF8A00; font-weight: 700; }
+        .sidebar-date { font-size: 12px; color: #aaa; margin-bottom: 30px; padding-bottom: 20px; border-bottom: 1px solid #333; }
+        .sidebar-section { margin-bottom: 25px; }
+        .sidebar-section-title { font-size: 12px; text-transform: uppercase; color: #999; margin-bottom: 12px; font-weight: 600; letter-spacing: 1px; }
+
+        .nav-item {
+            display: block; padding: 12px 15px; margin-bottom: 8px; border-radius: 6px;
+            cursor: pointer; transition: all 0.3s ease; font-size: 14px; color: #ddd; user-select: none;
+        }
+        .nav-item:hover { background: #2d2d44; color: #FF8A00; }
+        .nav-item.active { background: #FF8A00; color: white; }
+        .nav-item-count { float: right; background: rgba(255, 107, 53, 0.3); padding: 2px 8px; border-radius: 3px; font-size: 12px; }
+        .nav-item.active .nav-item-count { background: rgba(0, 0, 0, 0.2); }
+
+        .main-content { margin-left: 280px; flex: 1; display: flex; flex-direction: column; }
+
+        .header {
+            background: white; padding: 25px 40px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-bottom: 3px solid #FF8A00;
+        }
+        .header h1 { font-size: 28px; color: #1a1a2e; margin-bottom: 10px; }
+        .header-meta { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px; }
+        .progress-bar { flex: 1; min-width: 200px; }
+        .progress-label { font-size: 13px; color: #666; margin-bottom: 8px; font-weight: 500; }
+        .progress-container { width: 100%; height: 8px; background: #ddd; border-radius: 4px; overflow: hidden; }
+        .progress-fill { height: 100%; background: linear-gradient(90deg, #FF8A00, #E53935); transition: width 0.3s ease; }
+        .header-actions { display: flex; gap: 10px; }
+
+        .btn {
+            padding: 10px 16px; border: none; border-radius: 6px; font-size: 14px;
+            font-weight: 600; cursor: pointer; transition: all 0.3s ease; white-space: nowrap;
+        }
+        .btn-primary { background: #FF8A00; color: white; }
+        .btn-primary:hover { background: #E53935; }
+        .btn-secondary { background: #f0f0f0; color: #333; }
+        .btn-secondary:hover { background: #e0e0e0; }
+
+        .filter-bar {
+            background: white; padding: 20px 40px; display: flex;
+            gap: 10px; flex-wrap: wrap; border-bottom: 1px solid #eee;
+        }
+        .filter-btn {
+            padding: 8px 14px; border: 1px solid #ddd; background: white;
+            border-radius: 5px; cursor: pointer; font-size: 13px; transition: all 0.3s ease;
+        }
+        .filter-btn:hover { border-color: #FF8A00; color: #FF8A00; }
+        .filter-btn.active { background: #FF8A00; color: white; border-color: #FF8A00; }
+
+        .content { flex: 1; padding: 30px 40px; overflow-y: auto; }
+
+        .cards-container { display: flex; flex-direction: column; gap: 20px; max-width: 900px; }
+
+        .card {
+            background: white; border-radius: 8px; padding: 24px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1); transition: all 0.3s ease;
+            border-left: 5px solid #ccc; display: none;
+        }
+        .card.show { display: block; }
+        .card.approved { border-left-color: #22c55e; }
+        .card.needs-edit { border-left-color: #eab308; }
+        .card.rejected { border-left-color: #ef4444; }
+        .card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.12); }
+
+        .card-header { display: flex; justify-content: space-between; align-items: start; margin-bottom: 15px; }
+        .card-title { font-size: 16px; font-weight: 600; color: #1a1a2e; flex: 1; margin-right: 10px; }
+
+        .card-badge {
+            display: inline-block; padding: 4px 10px; border-radius: 4px;
+            font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;
+        }
+        .badge-x-post { background: #1da1f2; color: white; }
+        .badge-facebook { background: #4267b2; color: white; }
+        .badge-article { background: #9333ea; color: white; }
+        .badge-image { background: #06b6d4; color: white; }
+        .badge-brief { background: #10b981; color: white; }
+
+        .fact-check-badge {
+            display: inline-block; padding: 3px 8px; border-radius: 4px;
+            font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;
+            margin-left: 6px;
+        }
+        .fact-check-verified { background: #dcfce7; color: #166534; border: 1px solid #86efac; }
+        .fact-check-warning { background: #fef9c3; color: #854d0e; border: 1px solid #fde047; }
+        .fact-check-unverified { background: #fee2e2; color: #991b1b; border: 1px solid #fca5a5; }
+
+        /* Content area — preview (collapsed) and full (expanded) */
+        .card-content {
+            background: #f9f9f9; padding: 15px; border-radius: 6px;
+            margin-bottom: 15px; font-size: 13px; line-height: 1.6; color: #555;
+            position: relative;
+        }
+        .card-content-text {
+            white-space: pre-wrap; word-break: break-word;
+        }
+
+        /* Collapsed state: limit height with fade */
+        .card-content.collapsed {
+            max-height: 200px; overflow: hidden;
+        }
+        .card-content.collapsed::after {
+            content: '';
+            position: absolute; bottom: 0; left: 0; right: 0; height: 60px;
+            background: linear-gradient(transparent, #f9f9f9);
+            pointer-events: none;
+        }
+
+        /* Expanded state: no limit */
+        .card-content.expanded {
+            max-height: none; overflow: visible;
+        }
+        .card-content.expanded::after { display: none; }
+
+        .expand-toggle {
+            display: inline-block; margin-bottom: 12px; padding: 6px 14px;
+            background: #eee; border: 1px solid #ddd; border-radius: 4px;
+            cursor: pointer; font-size: 12px; font-weight: 600; color: #555;
+            transition: all 0.2s ease;
+        }
+        .expand-toggle:hover { background: #ddd; color: #333; }
+
+        /* Inline editing */
+        .edit-textarea {
+            width: 100%; padding: 15px; border: 2px solid #FF8A00;
+            border-radius: 6px; font-size: 13px; font-family: inherit;
+            line-height: 1.6; resize: vertical; min-height: 200px;
+            background: #fffef5; color: #333; display: none;
+        }
+        .edit-textarea:focus {
+            outline: none; box-shadow: 0 0 0 3px rgba(255, 107, 53, 0.15);
+        }
+        .card.editing .card-content { display: none; }
+        .card.editing .edit-textarea { display: block; }
+        .card.editing .expand-toggle { display: none; }
+
+        .edit-bar {
+            display: none; gap: 8px; margin-bottom: 12px; padding: 10px;
+            background: #fff8f0; border: 1px solid #ffcc99; border-radius: 6px;
+            align-items: center;
+        }
+        .card.editing .edit-bar { display: flex; }
+        .edit-bar-label { font-size: 12px; font-weight: 600; color: #cc6600; flex: 1; }
+        .edit-bar .btn { padding: 7px 14px; font-size: 12px; }
+
+        .tweet-meta-bar {
+            display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; padding: 0;
+        }
+        .tweet-meta-badge {
+            display: inline-block; padding: 4px 10px; border-radius: 4px;
+            font-size: 11px; font-weight: 600; letter-spacing: 0.3px;
+        }
+        .tweet-meta-label { background: #e0e7ff; color: #3730a3; }
+        .tweet-meta-time { background: #fef3c7; color: #92400e; }
+        .tweet-meta-type { background: #d1fae5; color: #065f46; }
+        .tweet-meta-tier { background: #f3e8ff; color: #6b21a8; }
+        .tweet-meta-hashtags { background: #dbeafe; color: #1e40af; font-family: monospace; }
+
+        .char-count {
+            font-size: 12px; margin: 0 0 10px 0; padding: 8px;
+            background: #f0f0f0; border-radius: 4px;
+        }
+        .char-count.warning { background: #fee2e2; color: #991b1b; }
+
+        .card-actions { display: flex; gap: 8px; margin-bottom: 12px; flex-wrap: wrap; }
+        .action-btn {
+            flex: 1; padding: 10px; border: none; border-radius: 5px;
+            cursor: pointer; font-size: 13px; font-weight: 600;
+            transition: all 0.3s ease; white-space: nowrap; min-width: 100px;
+        }
+        .btn-approve { background: #e8f5e9; color: #22c55e; border: 1px solid #22c55e; }
+        .btn-approve:hover { background: #22c55e; color: white; }
+        .btn-edit { background: #fff3e0; color: #e65100; border: 1px solid #ff9800; }
+        .btn-edit:hover { background: #ff9800; color: white; }
+        .btn-reject { background: #fee2e2; color: #ef4444; border: 1px solid #ef4444; }
+        .btn-reject:hover { background: #ef4444; color: white; }
+        .btn-copy { background: #f0f0f0; color: #333; border: 1px solid #ddd; }
+        .btn-copy:hover { background: #e0e0e0; }
+
+        .notes-section { display: none; margin-bottom: 12px; }
+        .notes-section.show { display: block; }
+        .notes-label { font-size: 12px; font-weight: 600; color: #666; margin-bottom: 6px; }
+        .notes-textarea {
+            width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px;
+            font-size: 13px; font-family: inherit; resize: vertical; min-height: 60px;
+        }
+        .notes-textarea:focus { outline: none; border-color: #FF8A00; box-shadow: 0 0 0 3px rgba(255, 107, 53, 0.1); }
+
+        .status-label {
+            font-size: 11px; font-weight: 600; text-transform: uppercase;
+            padding: 4px 8px; border-radius: 3px; margin-top: 10px; display: inline-block;
+        }
+        .status-approved { background: #e8f5e9; color: #22c55e; }
+        .status-needs-edit { background: #fffbeb; color: #f59e0b; }
+        .status-rejected { background: #fee2e2; color: #ef4444; }
+        .status-edited { background: #e3f2fd; color: #1565c0; }
+
+        .empty-state { text-align: center; padding: 60px 20px; color: #999; }
+        .empty-state-icon { font-size: 48px; margin-bottom: 15px; }
+
+        /* Approval stats bar */
+        .approval-stats {
+            display: flex; gap: 16px; margin-top: 12px; flex-wrap: wrap;
+        }
+        .stat-chip {
+            display: inline-flex; align-items: center; gap: 6px;
+            padding: 4px 12px; border-radius: 20px; font-size: 13px; font-weight: 600;
+        }
+        .stat-approved { background: #dcfce7; color: #16a34a; }
+        .stat-rejected { background: #fee2e2; color: #dc2626; }
+        .stat-unreviewed { background: #f3f4f6; color: #6b7280; }
+        .stat-dot { width: 8px; height: 8px; border-radius: 50%; }
+        .stat-approved .stat-dot { background: #22c55e; }
+        .stat-rejected .stat-dot { background: #ef4444; }
+        .stat-unreviewed .stat-dot { background: #9ca3af; }
+
+        /* PostPlanner XLSX button */
+        .btn-csv { background: #7c3aed; color: white; }
+        .btn-csv:hover { background: #6d28d9; }
+        .btn-csv:disabled { background: #c4b5fd; cursor: not-allowed; }
+
+        /* Schedule settings panel */
+        .schedule-panel {
+            display: none; position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%);
+            background: white; border-radius: 12px; padding: 30px; z-index: 1000;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3); width: 500px; max-width: 90vw; max-height: 80vh; overflow-y: auto;
+        }
+        .schedule-panel.show { display: block; }
+        .schedule-overlay { display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.5); z-index: 999; }
+        .schedule-overlay.show { display: block; }
+        .schedule-panel h3 { color: #1a1a2e; margin-bottom: 20px; font-size: 18px; }
+        .schedule-section { margin-bottom: 20px; }
+        .schedule-section label { display: block; font-size: 13px; font-weight: 600; color: #555; margin-bottom: 6px; }
+        .schedule-section input { width: 100%; padding: 8px 12px; border: 1px solid #ddd; border-radius: 4px; font-size: 14px; }
+        .schedule-section input:focus { outline: none; border-color: #7c3aed; }
+        .time-slots { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; }
+        .time-slot {
+            display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px;
+            background: #f3f0ff; border: 1px solid #c4b5fd; border-radius: 20px; font-size: 13px;
+        }
+        .time-slot .remove-slot { cursor: pointer; color: #999; font-weight: bold; }
+        .time-slot .remove-slot:hover { color: #ef4444; }
+        .add-slot-btn {
+            padding: 6px 14px; background: #f3f0ff; border: 1px dashed #7c3aed; border-radius: 20px;
+            cursor: pointer; font-size: 13px; color: #7c3aed;
+        }
+        .add-slot-btn:hover { background: #ede9fe; }
+        .schedule-actions { display: flex; gap: 10px; justify-content: flex-end; margin-top: 20px; }
+
+        /* Photo search links for image concepts */
+        .photo-section {
+            margin-bottom: 15px; padding: 12px; background: #f0f9ff;
+            border: 1px solid #bae6fd; border-radius: 6px;
+        }
+        .photo-section-title {
+            font-size: 12px; font-weight: 700; color: #0369a1; text-transform: uppercase;
+            letter-spacing: 0.5px; margin-bottom: 8px;
+        }
+        .photo-links { display: flex; flex-wrap: wrap; gap: 6px; }
+        .photo-link {
+            display: inline-block; padding: 6px 12px; background: #0ea5e9;
+            color: white; border-radius: 4px; font-size: 12px; font-weight: 500;
+            text-decoration: none; transition: all 0.2s ease; cursor: pointer;
+        }
+        .photo-link:hover { background: #0284c7; }
+
+        /* Image URL input and preview for image concepts */
+        .image-url-section {
+            margin-bottom: 15px; padding: 12px; background: #f0fdf4;
+            border: 1px solid #bbf7d0; border-radius: 6px;
+        }
+        .image-url-section label {
+            display: block; font-size: 12px; font-weight: 700; color: #166534;
+            text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 6px;
+        }
+        .image-url-input {
+            width: 100%; padding: 8px 10px; border: 1px solid #86efac;
+            border-radius: 4px; font-size: 13px; font-family: monospace;
+            background: white; box-sizing: border-box;
+        }
+        .image-url-input:focus { outline: none; border-color: #22c55e; box-shadow: 0 0 0 2px rgba(34,197,94,0.2); }
+        .image-url-hint {
+            font-size: 11px; color: #6b7280; margin-top: 4px;
+        }
+        .image-preview {
+            margin-top: 8px; text-align: center;
+        }
+        .image-preview img {
+            max-width: 100%; max-height: 200px; border-radius: 4px;
+            border: 1px solid #d1d5db; display: none;
+        }
+        .image-preview img.loaded { display: inline-block; }
+
+        /* Image production status badges */
+        .image-badge {
+            display: inline-block; padding: 2px 8px; border-radius: 3px;
+            font-size: 10px; font-weight: 700; text-transform: uppercase;
+            letter-spacing: 0.5px; margin-left: 6px;
+        }
+        .image-exported { background: #dcfce7; color: #166534; }
+        .image-in-progress { background: #fef3c7; color: #92400e; }
+        .image-not-started { background: #f3f4f6; color: #6b7280; }
+
+        /* Text overlay preview for image concepts */
+        .overlay-section {
+            margin-bottom: 15px; padding: 15px; background: #1a1a2e;
+            border-radius: 6px; text-align: center;
+        }
+        .overlay-line {
+            font-family: 'Bebas Neue', Impact, 'Arial Black', sans-serif;
+            color: #ffd700; font-size: 18px; font-weight: 700; line-height: 1.4;
+            text-transform: uppercase; letter-spacing: 1px;
+        }
+        .overlay-line.sub { color: #ffffff; font-size: 14px; font-weight: 400; letter-spacing: 0; text-transform: none; }
+
+        /* Article content rendered as HTML */
+        .article-frame {
+            width: 100%; border: 1px solid #ddd; border-radius: 6px;
+            background: white; min-height: 300px;
+        }
+
+        @media (max-width: 768px) {
+            .sidebar { width: 100%; height: auto; position: relative; padding: 20px; }
+            .main-content { margin-left: 0; }
+            .content { padding: 20px; }
+            .header { padding: 15px 20px; }
+            .header h1 { font-size: 20px; }
+            .filter-bar { padding: 15px 20px; }
+            .header-meta { flex-direction: column; align-items: stretch; }
+            .progress-bar { min-width: auto; }
+        }
+
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: #f1f1f1; }
+        ::-webkit-scrollbar-thumb { background: #888; border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: #555; }
+    </style>
+</head>
+<body>
+    <div class="sidebar">
+        <h1>Golf Fanrecap</h1>
+        <div class="sidebar-date">Review Dashboard<br>2026-09-06</div>
+
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Content Types</div>
+            <div class="nav-item" onclick="filterByType('daily_brief')">
+                Daily Brief
+                <span class="nav-item-count">5</span>
+            </div>
+            <div class="nav-item" onclick="filterByType('x_post')">
+                X / Twitter Posts
+                <span class="nav-item-count">7</span>
+            </div>
+            <div class="nav-item" onclick="filterByType('article')">
+                Articles
+                <span class="nav-item-count">5</span>
+            </div>
+
+            <div class="nav-item" onclick="filterByType('all')">
+                All Items
+                <span class="nav-item-count">17</span>
+            </div>
+        </div>
+
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Status Filter</div>
+            <div class="nav-item" onclick="filterByStatus('all')">All</div>
+            <div class="nav-item" onclick="filterByStatus('unreviewed')">Unreviewed</div>
+            <div class="nav-item" onclick="filterByStatus('approved')">Approved</div>
+            <div class="nav-item" onclick="filterByStatus('needs-edit')">Needs Edit</div>
+            <div class="nav-item" onclick="filterByStatus('rejected')">Rejected</div>
+        </div>
+
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Actions</div>
+            <div class="nav-item" onclick="approveAll()" style="color: #22c55e;">
+                Approve All
+            </div>
+            <div class="nav-item" onclick="exportApprovals()" style="color: #FF8A00;">
+                Export Results JSON
+            </div>
+            <div class="nav-item" onclick="downloadPostPlannerCSV()" style="color: #a78bfa;">
+                PostPlanner Upload
+            </div>
+            <div class="nav-item" onclick="downloadTOBIExport()" style="color: #f472b6;">
+                TOBI Upload
+            </div>
+        </div>
+    </div>
+
+    <div class="main-content">
+        <div class="header">
+            <h1>Golf Fanrecap — Content Review Dashboard</h1>
+            <div class="header-meta">
+                <div class="progress-bar">
+                    <div class="progress-label">
+                        <span id="reviewed-count">0</span> of <span id="total-count">17</span> items reviewed
+                    </div>
+                    <div class="progress-container">
+                        <div class="progress-fill" id="progress-fill" style="width: 0%"></div>
+                    </div>
+                    <div class="approval-stats" id="approval-stats">
+                        <span class="stat-chip stat-approved"><span class="stat-dot"></span> <span id="stat-approved-count">0</span> approved</span>
+                        <span class="stat-chip stat-rejected"><span class="stat-dot"></span> <span id="stat-rejected-count">0</span> rejected</span>
+                        <span class="stat-chip stat-unreviewed"><span class="stat-dot"></span> <span id="stat-unreviewed-count">0</span> unreviewed</span>
+                    </div>
+                </div>
+                <div class="header-actions">
+                    <button class="btn btn-secondary" onclick="resetAll()">Reset All</button>
+                    <button class="btn btn-csv" id="btn-csv" onclick="downloadPostPlannerCSV()" disabled>PostPlanner Upload (0 approved)</button>
+                    <button class="btn btn-csv" id="btn-tobi" onclick="downloadTOBIExport()" disabled style="background: #831843; border-color: #f472b6;">TOBI Upload (0 approved)</button>
+                    <button class="btn btn-primary" onclick="exportApprovals()">Export JSON</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="filter-bar">
+            <button class="filter-btn active" onclick="filterByStatus('all')">All</button>
+            <button class="filter-btn" onclick="filterByStatus('unreviewed')">Unreviewed</button>
+            <button class="filter-btn" onclick="filterByStatus('approved')">Approved</button>
+            <button class="filter-btn" onclick="filterByStatus('needs-edit')">Needs Edit</button>
+            <button class="filter-btn" onclick="filterByStatus('rejected')">Rejected</button>
+        </div>
+
+
+        <div class="content">
+            <div class="cards-container" id="cards-container">
+                <div class="card" data-id="story-1-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Paul Casey Wins Omega European Masters — Pledges Prize to Crans-Montana Fire Victims</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-1-daily_brief">
+                        <div class="card-content-text">Paul Casey Wins Omega European Masters — Pledges Prize to Crans-Montana Fire Victims
+- **Tier:** 1</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-1-daily_brief" placeholder="Edit content here...">Paul Casey Wins Omega European Masters — Pledges Prize to Crans-Montana Fire Victims
+- **Tier:** 1</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-1-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-1-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-1-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-1-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-1-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-1-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-1-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-1-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-1-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-1-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-1-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-1-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Paul Casey Wins Omega European Masters — Pledges Prize to Crans-Montana Fire Victims</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 1-1</span><span class="tweet-meta-badge tweet-meta-type">FOLLOW UP (tournament conclusion)</span><span class="tweet-meta-badge tweet-meta-tier">Tier 1</span><span class="tweet-meta-badge tweet-meta-hashtags">#DPWorldTour</span></div>
+
+                    <div class="card-content expanded" id="content-story-1-x_post-1">
+                        <div class="card-content-text">Paul Casey, 49, wins the Omega European Masters at 16-under — and pledges his entire prize money to victims of the Crans-Montana bar fire that killed 41 people on New Year&#x27;s Day. One of golf&#x27;s most emotional victories. #DPWorldTour</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-1-x_post-1" placeholder="Edit content here...">Paul Casey, 49, wins the Omega European Masters at 16-under — and pledges his entire prize money to victims of the Crans-Montana bar fire that killed 41 people on New Year&#x27;s Day. One of golf&#x27;s most emotional victories. #DPWorldTour</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-1-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-1-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-1-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-1-x_post-1">Characters: 231/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-1-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-1-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-1-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-1-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-1-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-1-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-1-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-1-x_post-1"></div>
+                </div>
+                <div class="card" data-id="story-1-x_post-2" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Paul Casey Wins Omega European Masters — Pledges Prize to Crans-Montana Fire Victims</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 1-2</span><span class="tweet-meta-badge tweet-meta-type">FOLLOW UP (tournament conclusion)</span><span class="tweet-meta-badge tweet-meta-tier">Tier 1</span><span class="tweet-meta-badge tweet-meta-hashtags">#DPWorldTour</span></div>
+
+                    <div class="card-content expanded" id="content-story-1-x_post-2">
+                        <div class="card-content-text">Casey&#x27;s 63 in Round 3 — 29 on the front nine — was the round that sealed it. At 49, he&#x27;s among the oldest DP World Tour winners in recent memory. A storybook weekend at Crans-Montana. #DPWorldTour</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-1-x_post-2" placeholder="Edit content here...">Casey&#x27;s 63 in Round 3 — 29 on the front nine — was the round that sealed it. At 49, he&#x27;s among the oldest DP World Tour winners in recent memory. A storybook weekend at Crans-Montana. #DPWorldTour</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-1-x_post-2">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-1-x_post-2')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-1-x_post-2')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-1-x_post-2">Characters: 196/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-1-x_post-2">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-1-x_post-2')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-1-x_post-2')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-1-x_post-2')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-1-x_post-2')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-1-x_post-2">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-1-x_post-2" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-1-x_post-2"></div>
+                </div>
+                <div class="card" data-id="story-2-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">LIV Golf Bankruptcy Filing Expected This Week — PIF Ends Funding</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-2-daily_brief">
+                        <div class="card-content-text">LIV Golf Bankruptcy Filing Expected This Week — PIF Ends Funding
+- **Tier:** 1</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-2-daily_brief" placeholder="Edit content here...">LIV Golf Bankruptcy Filing Expected This Week — PIF Ends Funding
+- **Tier:** 1</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-2-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-2-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-2-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-2-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-2-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-2-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-2-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-2-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-2-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-2-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-2-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-2-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">LIV Golf Bankruptcy Filing Expected This Week — PIF Ends Funding</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 2-1</span><span class="tweet-meta-badge tweet-meta-type">FOLLOW UP</span><span class="tweet-meta-badge tweet-meta-tier">Tier 1</span><span class="tweet-meta-badge tweet-meta-hashtags">#LIVGolf</span></div>
+
+                    <div class="card-content expanded" id="content-story-2-x_post-1">
+                        <div class="card-content-text">LIV Golf expected to file for Chapter 11 bankruptcy as soon as this week. PIF has spent more than $5 billion since 2022 and is ending its financial commitment after this season. The era may be ending. #LIVGolf</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-2-x_post-1" placeholder="Edit content here...">LIV Golf expected to file for Chapter 11 bankruptcy as soon as this week. PIF has spent more than $5 billion since 2022 and is ending its financial commitment after this season. The era may be ending. #LIVGolf</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-2-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-2-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-2-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-2-x_post-1">Characters: 209/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-2-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-2-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-2-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-2-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-2-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-2-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-2-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-2-x_post-1"></div>
+                </div>
+                <div class="card" data-id="story-2-x_post-2" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">LIV Golf Bankruptcy Filing Expected This Week — PIF Ends Funding</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 2-2</span><span class="tweet-meta-badge tweet-meta-type">FOLLOW UP</span><span class="tweet-meta-badge tweet-meta-tier">Tier 1</span><span class="tweet-meta-badge tweet-meta-hashtags">#LIVGolf</span></div>
+
+                    <div class="card-content expanded" id="content-story-2-x_post-2">
+                        <div class="card-content-text">LIV players are being offered pennies on the dollar for their guaranteed contracts as the league heads toward bankruptcy. Jon Rahm is reportedly owed more than $100 million. The clock is ticking. #LIVGolf</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-2-x_post-2" placeholder="Edit content here...">LIV players are being offered pennies on the dollar for their guaranteed contracts as the league heads toward bankruptcy. Jon Rahm is reportedly owed more than $100 million. The clock is ticking. #LIVGolf</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-2-x_post-2">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-2-x_post-2')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-2-x_post-2')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-2-x_post-2">Characters: 204/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-2-x_post-2">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-2-x_post-2')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-2-x_post-2')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-2-x_post-2')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-2-x_post-2')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-2-x_post-2">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-2-x_post-2" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-2-x_post-2"></div>
+                </div>
+                <div class="card" data-id="story-3-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Solheim Cup Eve — Practice Begins Tomorrow at Bernardus Golf</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-3-daily_brief">
+                        <div class="card-content-text">Solheim Cup Eve — Practice Begins Tomorrow at Bernardus Golf
+- **Tier:** 2</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-3-daily_brief" placeholder="Edit content here...">Solheim Cup Eve — Practice Begins Tomorrow at Bernardus Golf
+- **Tier:** 2</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-3-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-3-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-3-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-3-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-3-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-3-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-3-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-3-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-3-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-3-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-3-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-3-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Solheim Cup Eve — Practice Begins Tomorrow at Bernardus Golf</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 3</span><span class="tweet-meta-badge tweet-meta-type">FOLLOW UP</span><span class="tweet-meta-badge tweet-meta-tier">Tier 2</span><span class="tweet-meta-badge tweet-meta-hashtags">#SolheimCup</span></div>
+
+                    <div class="card-content expanded" id="content-story-3-x_post-1">
+                        <div class="card-content-text">The Solheim Cup begins its practice week tomorrow at Bernardus Golf in the Netherlands. Angela Stanford vs. Anna Nordqvist. Nelly Korda leads Team USA. Match play starts Friday. This is the moment they&#x27;ve been building toward. #SolheimCup</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-3-x_post-1" placeholder="Edit content here...">The Solheim Cup begins its practice week tomorrow at Bernardus Golf in the Netherlands. Angela Stanford vs. Anna Nordqvist. Nelly Korda leads Team USA. Match play starts Friday. This is the moment they&#x27;ve been building toward. #SolheimCup</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-3-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-3-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-3-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-3-x_post-1">Characters: 238/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-3-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-3-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-3-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-3-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-3-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-3-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-3-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-3-x_post-1"></div>
+                </div>
+                <div class="card" data-id="story-4-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Jackson Koivun — The 21-Year-Old Who Could Steal the Presidents Cup Show</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-4-daily_brief">
+                        <div class="card-content-text">Jackson Koivun — The 21-Year-Old Who Could Steal the Presidents Cup Show
+- **Tier:** 2</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-4-daily_brief" placeholder="Edit content here...">Jackson Koivun — The 21-Year-Old Who Could Steal the Presidents Cup Show
+- **Tier:** 2</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-4-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-4-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-4-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-4-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-4-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-4-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-4-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-4-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-4-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-4-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-4-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-4-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Jackson Koivun — The 21-Year-Old Who Could Steal the Presidents Cup Show</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 4</span><span class="tweet-meta-badge tweet-meta-type">FOLLOW UP</span><span class="tweet-meta-badge tweet-meta-tier">Tier 2</span><span class="tweet-meta-badge tweet-meta-hashtags">#PresidentsCup</span></div>
+
+                    <div class="card-content expanded" id="content-story-4-x_post-1">
+                        <div class="card-content-text">Jackson Koivun was playing college golf at Auburn three months ago. On Sept. 24, he will represent the United States at the Presidents Cup at Medinah — at age 21, the second-youngest American ever selected. #PresidentsCup</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-4-x_post-1" placeholder="Edit content here...">Jackson Koivun was playing college golf at Auburn three months ago. On Sept. 24, he will represent the United States at the Presidents Cup at Medinah — at age 21, the second-youngest American ever selected. #PresidentsCup</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-4-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-4-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-4-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-4-x_post-1">Characters: 221/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-4-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-4-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-4-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-4-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-4-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-4-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-4-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-4-x_post-1"></div>
+                </div>
+                <div class="card" data-id="story-5-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Jon Rahm and the $100M Question — What LIV Bankruptcy Means for Golf&#x27;s Biggest Contract</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-5-daily_brief">
+                        <div class="card-content-text">Jon Rahm and the $100M Question — What LIV Bankruptcy Means for Golf&#x27;s Biggest Contract
+- **Tier:** 2</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-5-daily_brief" placeholder="Edit content here...">Jon Rahm and the $100M Question — What LIV Bankruptcy Means for Golf&#x27;s Biggest Contract
+- **Tier:** 2</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-5-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-5-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-5-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-5-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-5-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-5-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-5-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-5-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-5-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-5-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-5-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-5-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Jon Rahm and the $100M Question — What LIV Bankruptcy Means for Golf&#x27;s Biggest Contract</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 5</span><span class="tweet-meta-badge tweet-meta-type">FOLLOW UP</span><span class="tweet-meta-badge tweet-meta-tier">Tier 2</span><span class="tweet-meta-badge tweet-meta-hashtags">#LIVGolf</span></div>
+
+                    <div class="card-content expanded" id="content-story-5-x_post-1">
+                        <div class="card-content-text">Jon Rahm won three straight LIV Golf individual titles. He&#x27;s also reportedly owed more than $100 million in guaranteed money. With bankruptcy coming, what happens next for golf&#x27;s most significant contract? #LIVGolf</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-5-x_post-1" placeholder="Edit content here...">Jon Rahm won three straight LIV Golf individual titles. He&#x27;s also reportedly owed more than $100 million in guaranteed money. With bankruptcy coming, what happens next for golf&#x27;s most significant contract? #LIVGolf</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-5-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-5-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-5-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-5-x_post-1">Characters: 214/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-5-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-5-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-5-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-5-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-5-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-5-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-5-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-5-x_post-1"></div>
+                </div>
+                <div class="card" data-id="article-article-01-paul-casey-omega-european-masters-charity" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Paul Casey Wins Omega European Masters — and Pledges Every Penny to Crans-Montana Fire Victims</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-01-paul-casey-omega-european-masters-charity">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<title>Paul Casey Wins Omega European Masters — and Pledges Every Penny to Crans-Montana Fire Victims</title>
+</head>
+<body>
+<article>
+  <header>
+    <h1>Paul Casey Wins Omega European Masters — and Pledges Every Penny to Crans-Montana Fire Victims</h1>
+    <p><strong>By Ryan Calloway</strong> | Golf Fanrecap | September 6, 2026</p>
+  </header>
+
+  <section>
+    <p>Paul Casey won the Omega European Masters on Sunday afternoon at Crans-sur-Sierre Golf Club. He finished at 16-under par, held on from a three-shot lead he built the day before, and lifted the trophy in the Swiss Alps after one of the most emotionally charged weeks professional golf has seen in years.</p>
+
+    <p>The score mattered. But the story of this week was never really about the score.</p>
+
+    <p>On Saturday evening, after posting a stunning 7-under 63 in the third round — including a 29 on the front nine, six birdies in seven holes — Casey stood before the cameras and told the world what he intended to do with his prize money. His voice broke. The words came out anyway.</p>
+
+    <p>All of it. Every euro. Going to the victims of the Le Constellation bar fire.</p>
+  </section>
+
+  <section>
+    <h2>The Fire That Changed Crans-Montana</h2>
+    <p>On New Year's Day 2026, a fire broke out at the Le Constellation bar in Crans-Montana — the resort village that sits just minutes from the Crans-sur-Sierre Golf Club. The blaze killed 41 people and injured 115 more. It was one of the deadliest disasters in recent Swiss history, and it scarred a community that Casey has visited and competed in throughout his career.</p>
+
+    <p>&quot;There's a lot to play for,&quot; Casey said Saturday, barely holding back tears.</p>
+
+    <p>He was talking about winning. He was also talking about something larger than golf.</p>
+  </section>
+
+  <section>
+    <h2>The Round That Won It</h2>
+    <p>Casey's third round was the turning point. He birdied six of seven holes on the front nine at Crans-sur-Sierre, posting a 29 to make the turn in brilliant form. He added more gains on the back and signed for a 63 — a round that moved him from the chasing pack into a three-shot lead with one round to play.</p>
+
+    <p>At 49, Casey is among the oldest players competing regularly on the DP World Tour. His age is not incidental to the story — it is part of it. To post a round like that, on a moving day, with the context of the week weighing on his mind, required something beyond technique. It required resolve.</p>
+
+    <p>Sunday's final round confirmed it. Casey closed it out and walked off the 18th green as champion.</p>
+  </section>
+
+  <section>
+    <h2>What's Next</h2>
+    <p>Paul Casey will not be keeping his prize money from the 2026 Omega European Masters. It will go to the families and survivors of the Le Constellation fire — a decision that transforms what might have been a fine late-career victory into something that will be remembered far beyond golf. For the residents of Crans-Montana who watched a competitor they know well put on the best performance of his recent career in their town, in their memory, this week will mean everything.</p>
+  </section>
+</article>
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-01-paul-casey-omega-european-masters-charity" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;title&gt;Paul Casey Wins Omega European Masters — and Pledges Every Penny to Crans-Montana Fire Victims&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;article&gt;
+  &lt;header&gt;
+    &lt;h1&gt;Paul Casey Wins Omega European Masters — and Pledges Every Penny to Crans-Montana Fire Victims&lt;/h1&gt;
+    &lt;p&gt;&lt;strong&gt;By Ryan Calloway&lt;/strong&gt; | Golf Fanrecap | September 6, 2026&lt;/p&gt;
+  &lt;/header&gt;
+
+  &lt;section&gt;
+    &lt;p&gt;Paul Casey won the Omega European Masters on Sunday afternoon at Crans-sur-Sierre Golf Club. He finished at 16-under par, held on from a three-shot lead he built the day before, and lifted the trophy in the Swiss Alps after one of the most emotionally charged weeks professional golf has seen in years.&lt;/p&gt;
+
+    &lt;p&gt;The score mattered. But the story of this week was never really about the score.&lt;/p&gt;
+
+    &lt;p&gt;On Saturday evening, after posting a stunning 7-under 63 in the third round — including a 29 on the front nine, six birdies in seven holes — Casey stood before the cameras and told the world what he intended to do with his prize money. His voice broke. The words came out anyway.&lt;/p&gt;
+
+    &lt;p&gt;All of it. Every euro. Going to the victims of the Le Constellation bar fire.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;The Fire That Changed Crans-Montana&lt;/h2&gt;
+    &lt;p&gt;On New Year&#x27;s Day 2026, a fire broke out at the Le Constellation bar in Crans-Montana — the resort village that sits just minutes from the Crans-sur-Sierre Golf Club. The blaze killed 41 people and injured 115 more. It was one of the deadliest disasters in recent Swiss history, and it scarred a community that Casey has visited and competed in throughout his career.&lt;/p&gt;
+
+    &lt;p&gt;&quot;There&#x27;s a lot to play for,&quot; Casey said Saturday, barely holding back tears.&lt;/p&gt;
+
+    &lt;p&gt;He was talking about winning. He was also talking about something larger than golf.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;The Round That Won It&lt;/h2&gt;
+    &lt;p&gt;Casey&#x27;s third round was the turning point. He birdied six of seven holes on the front nine at Crans-sur-Sierre, posting a 29 to make the turn in brilliant form. He added more gains on the back and signed for a 63 — a round that moved him from the chasing pack into a three-shot lead with one round to play.&lt;/p&gt;
+
+    &lt;p&gt;At 49, Casey is among the oldest players competing regularly on the DP World Tour. His age is not incidental to the story — it is part of it. To post a round like that, on a moving day, with the context of the week weighing on his mind, required something beyond technique. It required resolve.&lt;/p&gt;
+
+    &lt;p&gt;Sunday&#x27;s final round confirmed it. Casey closed it out and walked off the 18th green as champion.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+    &lt;p&gt;Paul Casey will not be keeping his prize money from the 2026 Omega European Masters. It will go to the families and survivors of the Le Constellation fire — a decision that transforms what might have been a fine late-career victory into something that will be remembered far beyond golf. For the residents of Crans-Montana who watched a competitor they know well put on the best performance of his recent career in their town, in their memory, this week will mean everything.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-01-paul-casey-omega-european-masters-charity">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-01-paul-casey-omega-european-masters-charity')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-01-paul-casey-omega-european-masters-charity')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-01-paul-casey-omega-european-masters-charity">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-01-paul-casey-omega-european-masters-charity')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-01-paul-casey-omega-european-masters-charity')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-01-paul-casey-omega-european-masters-charity')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-01-paul-casey-omega-european-masters-charity')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-01-paul-casey-omega-european-masters-charity">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-01-paul-casey-omega-european-masters-charity" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-01-paul-casey-omega-european-masters-charity"></div>
+                </div>
+                <div class="card" data-id="article-article-02-liv-golf-bankruptcy-filing-september-2026" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">LIV Golf Bankruptcy Filing Expected This Week — PIF Ends the Experiment</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-02-liv-golf-bankruptcy-filing-september-2026">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<title>LIV Golf Bankruptcy Filing Expected This Week — PIF Ends the Experiment</title>
+</head>
+<body>
+<article>
+  <header>
+    <h1>LIV Golf Bankruptcy Filing Expected This Week — PIF Ends the Experiment</h1>
+    <p><strong>By Jake Torres</strong> | Golf Fanrecap | September 6, 2026</p>
+  </header>
+
+  <section>
+    <p>The week that changes professional golf may have arrived.</p>
+
+    <p>LIV Golf is expected to file for Chapter 11 bankruptcy protection as soon as the week of September 7, according to reporting from the Financial Times and confirmed by multiple outlets. Saudi Arabia's Public Investment Fund, which provided the billions that made LIV Golf possible, is ending its financial commitment to the league following the 2026 season. After more than $5 billion spent since the league's 2022 launch, PIF has determined it will not continue to fund the operation as currently structured.</p>
+
+    <p>The filing, expected in a New Jersey federal court, would be one of the most significant events in professional golf's modern history.</p>
+  </section>
+
+  <section>
+    <h2>What Chapter 11 Means</h2>
+    <p>A Chapter 11 filing is a restructuring, not a shutdown. The distinction matters. Under Chapter 11, LIV Golf would continue to operate while working through its financial obligations under court supervision. PIF is expected to provide less than $100 million in debtor-in-possession financing — emergency funding that keeps the lights on during the proceedings.</p>
+
+    <p>Simultaneously, LIV has been in negotiations with BC Partners, a private capital firm that could invest up to $300 million in LIV's assets as part of a restructured entity. The proposed &quot;LIV 2.0&quot; would be smaller than the current league: a 10-tournament global schedule, reduced purses, and a player equity structure intended to align incentives differently than the guaranteed-money model that defined LIV's original pitch to stars.</p>
+  </section>
+
+  <section>
+    <h2>The Player Problem</h2>
+    <p>The most immediate human impact falls on the players. LIV's model was built on guaranteed contracts — multi-year deals that promised players money regardless of performance or tour health. Those deals are now in jeopardy.</p>
+
+    <p>Settlement offers have reportedly been sent to contracted players. The terms, described by sources as &quot;pennies on the dollar,&quot; represent a fraction of what the players were promised. Jon Rahm — whose contract is reportedly worth more than $100 million — is among those facing the most consequential decision of his professional career.</p>
+
+    <p>Every LIV player now faces a version of the same choice: accept the reduced settlement and stay with a restructured LIV, accept the settlement and leave (potentially pursuing reinstatement to the PGA Tour), or reject the settlement and pursue full contractual claims through the bankruptcy process — a slower and less certain path.</p>
+  </section>
+
+  <section>
+    <h2>What's Next</h2>
+    <p>The week of September 7 will likely mark the beginning of a legal and structural process that takes months to resolve. The filing date, the shape of the BC Partners deal, and the player decisions that follow will collectively determine what professional golf looks like on the other side. For fans who watched LIV reshape the sport — for better or worse — the bankruptcy proceedings represent the final chapter of an era that began with a simple and disruptive premise: that guaranteed money could lure golf's stars away from the established order. It worked, for a while. Now the bill has come due.</p>
+  </section>
+</article>
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-02-liv-golf-bankruptcy-filing-september-2026" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;title&gt;LIV Golf Bankruptcy Filing Expected This Week — PIF Ends the Experiment&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;article&gt;
+  &lt;header&gt;
+    &lt;h1&gt;LIV Golf Bankruptcy Filing Expected This Week — PIF Ends the Experiment&lt;/h1&gt;
+    &lt;p&gt;&lt;strong&gt;By Jake Torres&lt;/strong&gt; | Golf Fanrecap | September 6, 2026&lt;/p&gt;
+  &lt;/header&gt;
+
+  &lt;section&gt;
+    &lt;p&gt;The week that changes professional golf may have arrived.&lt;/p&gt;
+
+    &lt;p&gt;LIV Golf is expected to file for Chapter 11 bankruptcy protection as soon as the week of September 7, according to reporting from the Financial Times and confirmed by multiple outlets. Saudi Arabia&#x27;s Public Investment Fund, which provided the billions that made LIV Golf possible, is ending its financial commitment to the league following the 2026 season. After more than $5 billion spent since the league&#x27;s 2022 launch, PIF has determined it will not continue to fund the operation as currently structured.&lt;/p&gt;
+
+    &lt;p&gt;The filing, expected in a New Jersey federal court, would be one of the most significant events in professional golf&#x27;s modern history.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;What Chapter 11 Means&lt;/h2&gt;
+    &lt;p&gt;A Chapter 11 filing is a restructuring, not a shutdown. The distinction matters. Under Chapter 11, LIV Golf would continue to operate while working through its financial obligations under court supervision. PIF is expected to provide less than $100 million in debtor-in-possession financing — emergency funding that keeps the lights on during the proceedings.&lt;/p&gt;
+
+    &lt;p&gt;Simultaneously, LIV has been in negotiations with BC Partners, a private capital firm that could invest up to $300 million in LIV&#x27;s assets as part of a restructured entity. The proposed &quot;LIV 2.0&quot; would be smaller than the current league: a 10-tournament global schedule, reduced purses, and a player equity structure intended to align incentives differently than the guaranteed-money model that defined LIV&#x27;s original pitch to stars.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;The Player Problem&lt;/h2&gt;
+    &lt;p&gt;The most immediate human impact falls on the players. LIV&#x27;s model was built on guaranteed contracts — multi-year deals that promised players money regardless of performance or tour health. Those deals are now in jeopardy.&lt;/p&gt;
+
+    &lt;p&gt;Settlement offers have reportedly been sent to contracted players. The terms, described by sources as &quot;pennies on the dollar,&quot; represent a fraction of what the players were promised. Jon Rahm — whose contract is reportedly worth more than $100 million — is among those facing the most consequential decision of his professional career.&lt;/p&gt;
+
+    &lt;p&gt;Every LIV player now faces a version of the same choice: accept the reduced settlement and stay with a restructured LIV, accept the settlement and leave (potentially pursuing reinstatement to the PGA Tour), or reject the settlement and pursue full contractual claims through the bankruptcy process — a slower and less certain path.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+    &lt;p&gt;The week of September 7 will likely mark the beginning of a legal and structural process that takes months to resolve. The filing date, the shape of the BC Partners deal, and the player decisions that follow will collectively determine what professional golf looks like on the other side. For fans who watched LIV reshape the sport — for better or worse — the bankruptcy proceedings represent the final chapter of an era that began with a simple and disruptive premise: that guaranteed money could lure golf&#x27;s stars away from the established order. It worked, for a while. Now the bill has come due.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-02-liv-golf-bankruptcy-filing-september-2026">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-02-liv-golf-bankruptcy-filing-september-2026')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-02-liv-golf-bankruptcy-filing-september-2026')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-02-liv-golf-bankruptcy-filing-september-2026">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-02-liv-golf-bankruptcy-filing-september-2026')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-02-liv-golf-bankruptcy-filing-september-2026')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-02-liv-golf-bankruptcy-filing-september-2026')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-02-liv-golf-bankruptcy-filing-september-2026')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-02-liv-golf-bankruptcy-filing-september-2026">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-02-liv-golf-bankruptcy-filing-september-2026" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-02-liv-golf-bankruptcy-filing-september-2026"></div>
+                </div>
+                <div class="card" data-id="article-article-03-solheim-cup-2026-eve-bernardus-golf" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">The Solheim Cup Begins Tomorrow — What to Know Before Practice Rounds Open at Bernardus Golf</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-03-solheim-cup-2026-eve-bernardus-golf">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<title>The Solheim Cup Begins Tomorrow — What to Know Before Practice Rounds Open at Bernardus Golf</title>
+</head>
+<body>
+<article>
+  <header>
+    <h1>The Solheim Cup Begins Tomorrow — What to Know Before Practice Rounds Open at Bernardus Golf</h1>
+    <p><strong>By Marcus Cole</strong> | Golf Fanrecap | September 6, 2026</p>
+  </header>
+
+  <section>
+    <p>Tomorrow morning, two teams of 12 golfers will begin the week that women's golf has circled on its calendar for two years.</p>
+
+    <p>The 2026 Solheim Cup opens its practice week Monday at Bernardus Golf in Cromvoirt, Netherlands — the first Solheim Cup ever played on Dutch soil. The PING Junior Solheim Cup also begins Monday, with young players from across Europe and the United States competing on the same grounds. For the main event, match play competition runs September 11 through September 13, with foursomes and fourballs on Friday and Saturday, and singles on Sunday.</p>
+
+    <p>Before the matches begin, here is everything you need to know.</p>
+  </section>
+
+  <section>
+    <h2>The Teams</h2>
+    <p>Team USA is captained by Angela Stanford, who has assembled a squad built around world No. 1 Nelly Korda. The automatic qualifiers include Yin, Kupcho, Noh, Auston Kim, Coughlin, Corpuz, Andrea Lee, and Alison Lee. Stanford's three captain's picks: Megan Khang, Rose Zhang, and Lindy Duncan.</p>
+
+    <p>Team Europe is captained by Anna Nordqvist, who has spoken about her pairings decisions as a challenging &quot;puzzle.&quot; Europe's roster includes proven match play veterans such as Charley Hull and Leona Maguire alongside some of the tour's rising names.</p>
+
+    <p>The United States are the defending champions, having won the 2024 Solheim Cup 15.5-12.5 in Virginia. Europe had won three consecutive Solheim Cups before that. The momentum belongs to the Americans entering this week — but Nordqvist's squad will be competing on a continent that feels like home.</p>
+  </section>
+
+  <section>
+    <h2>The Venue</h2>
+    <p>Bernardus Golf in Cromvoirt, North Brabant, is a relatively young course by European standards — opened in 2007 — but it has been developed specifically to host elite competition. The course features tree-lined fairways, precise approach demands, and greens that reward the kind of technical short-game precision that both teams possess in abundance.</p>
+
+    <p>A Dutch Solheim Cup is a first in the event's history. Crowd support will likely skew toward Europe, with Dutch fans joining fans from across the continent to cheer on Nordqvist's team. The Americans will need to handle the atmosphere as part of the challenge.</p>
+  </section>
+
+  <section>
+    <h2>The Format</h2>
+    <p>The Solheim Cup uses a match play format with 28 total points available. A team needs 14.5 points to win outright, or 14 points to retain the cup as the defending champion. Friday features four foursomes matches, followed by four fourball matches. Saturday repeats the same structure. Sunday's singles consist of 12 matches — one for each player on both teams — with every match counting.</p>
+
+    <p>Captain's pairings decisions on Thursday will set the tone for the weekend. Stanford and Nordqvist will each reveal their foursomes and fourballs lineups in the days ahead — and those choices may be as consequential as any individual round.</p>
+  </section>
+
+  <section>
+    <h2>What's Next</h2>
+    <p>Practice rounds begin Monday morning. Teams will spend the next four days learning Bernardus Golf, preparing their pairings, and building the chemistry that match play demands. Competition starts Friday, September 11. The Solheim Cup trophy will have a new home by Sunday evening — either staying with the United States or returning to European hands for the first time since 2022. After months of buildup, the week has finally arrived.</p>
+  </section>
+</article>
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-03-solheim-cup-2026-eve-bernardus-golf" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;title&gt;The Solheim Cup Begins Tomorrow — What to Know Before Practice Rounds Open at Bernardus Golf&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;article&gt;
+  &lt;header&gt;
+    &lt;h1&gt;The Solheim Cup Begins Tomorrow — What to Know Before Practice Rounds Open at Bernardus Golf&lt;/h1&gt;
+    &lt;p&gt;&lt;strong&gt;By Marcus Cole&lt;/strong&gt; | Golf Fanrecap | September 6, 2026&lt;/p&gt;
+  &lt;/header&gt;
+
+  &lt;section&gt;
+    &lt;p&gt;Tomorrow morning, two teams of 12 golfers will begin the week that women&#x27;s golf has circled on its calendar for two years.&lt;/p&gt;
+
+    &lt;p&gt;The 2026 Solheim Cup opens its practice week Monday at Bernardus Golf in Cromvoirt, Netherlands — the first Solheim Cup ever played on Dutch soil. The PING Junior Solheim Cup also begins Monday, with young players from across Europe and the United States competing on the same grounds. For the main event, match play competition runs September 11 through September 13, with foursomes and fourballs on Friday and Saturday, and singles on Sunday.&lt;/p&gt;
+
+    &lt;p&gt;Before the matches begin, here is everything you need to know.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;The Teams&lt;/h2&gt;
+    &lt;p&gt;Team USA is captained by Angela Stanford, who has assembled a squad built around world No. 1 Nelly Korda. The automatic qualifiers include Yin, Kupcho, Noh, Auston Kim, Coughlin, Corpuz, Andrea Lee, and Alison Lee. Stanford&#x27;s three captain&#x27;s picks: Megan Khang, Rose Zhang, and Lindy Duncan.&lt;/p&gt;
+
+    &lt;p&gt;Team Europe is captained by Anna Nordqvist, who has spoken about her pairings decisions as a challenging &quot;puzzle.&quot; Europe&#x27;s roster includes proven match play veterans such as Charley Hull and Leona Maguire alongside some of the tour&#x27;s rising names.&lt;/p&gt;
+
+    &lt;p&gt;The United States are the defending champions, having won the 2024 Solheim Cup 15.5-12.5 in Virginia. Europe had won three consecutive Solheim Cups before that. The momentum belongs to the Americans entering this week — but Nordqvist&#x27;s squad will be competing on a continent that feels like home.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;The Venue&lt;/h2&gt;
+    &lt;p&gt;Bernardus Golf in Cromvoirt, North Brabant, is a relatively young course by European standards — opened in 2007 — but it has been developed specifically to host elite competition. The course features tree-lined fairways, precise approach demands, and greens that reward the kind of technical short-game precision that both teams possess in abundance.&lt;/p&gt;
+
+    &lt;p&gt;A Dutch Solheim Cup is a first in the event&#x27;s history. Crowd support will likely skew toward Europe, with Dutch fans joining fans from across the continent to cheer on Nordqvist&#x27;s team. The Americans will need to handle the atmosphere as part of the challenge.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;The Format&lt;/h2&gt;
+    &lt;p&gt;The Solheim Cup uses a match play format with 28 total points available. A team needs 14.5 points to win outright, or 14 points to retain the cup as the defending champion. Friday features four foursomes matches, followed by four fourball matches. Saturday repeats the same structure. Sunday&#x27;s singles consist of 12 matches — one for each player on both teams — with every match counting.&lt;/p&gt;
+
+    &lt;p&gt;Captain&#x27;s pairings decisions on Thursday will set the tone for the weekend. Stanford and Nordqvist will each reveal their foursomes and fourballs lineups in the days ahead — and those choices may be as consequential as any individual round.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+    &lt;p&gt;Practice rounds begin Monday morning. Teams will spend the next four days learning Bernardus Golf, preparing their pairings, and building the chemistry that match play demands. Competition starts Friday, September 11. The Solheim Cup trophy will have a new home by Sunday evening — either staying with the United States or returning to European hands for the first time since 2022. After months of buildup, the week has finally arrived.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-03-solheim-cup-2026-eve-bernardus-golf">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-03-solheim-cup-2026-eve-bernardus-golf')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-03-solheim-cup-2026-eve-bernardus-golf')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-03-solheim-cup-2026-eve-bernardus-golf">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-03-solheim-cup-2026-eve-bernardus-golf')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-03-solheim-cup-2026-eve-bernardus-golf')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-03-solheim-cup-2026-eve-bernardus-golf')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-03-solheim-cup-2026-eve-bernardus-golf')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-03-solheim-cup-2026-eve-bernardus-golf">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-03-solheim-cup-2026-eve-bernardus-golf" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-03-solheim-cup-2026-eve-bernardus-golf"></div>
+                </div>
+                <div class="card" data-id="article-article-04-jackson-koivun-presidents-cup-2026-medinah" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Jackson Koivun: Three Months from Auburn to the Presidents Cup at Medinah</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-04-jackson-koivun-presidents-cup-2026-medinah">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<title>Jackson Koivun: Three Months from Auburn to the Presidents Cup at Medinah</title>
+</head>
+<body>
+<article>
+  <header>
+    <h1>Jackson Koivun: Three Months from Auburn to the Presidents Cup at Medinah</h1>
+    <p><strong>By Ryan Calloway</strong> | Golf Fanrecap | September 6, 2026</p>
+  </header>
+
+  <section>
+    <p>In June 2026, Jackson Koivun was a college golfer at Auburn University.</p>
+
+    <p>On September 24, he will tee it up for the United States at the Presidents Cup at Medinah Country Club — one of the most storied venues in American golf — representing his country in a biennial team event that has featured the best players on the planet for more than three decades.</p>
+
+    <p>He is 21 years old. He has played three professional events.</p>
+  </section>
+
+  <section>
+    <h2>The 3M Open Changed Everything</h2>
+    <p>Koivun turned professional in early summer and made his mark before most players his age had even earned a tour card. In July, in just his third professional start, he entered the 3M Open and dismantled one of the best fields of the summer.</p>
+
+    <p>His final score: 25-under 259 — a new tournament record. He defeated world No. 1 Scottie Scheffler by three strokes. The professional golf world, which had barely had time to learn his name, suddenly knew exactly who he was.</p>
+
+    <p>USA Presidents Cup captain Brandt Snedeker was watching. When Snedeker announced his six captain's picks on September 1, Koivun's name was on the list. Snedeker had one explanation.</p>
+
+    <p>&quot;I just have a gut feeling,&quot; Snedeker said.</p>
+  </section>
+
+  <section>
+    <h2>The History He's About to Make</h2>
+    <p>Koivun is the second-youngest American ever selected for a Presidents Cup. Only Jordan Spieth, who was 20 years old when he made his debut in 2013, was younger. Spieth went on to win three major championships and become one of the defining players of his generation. Koivun is not Spieth — he is his own player, with his own game — but the comparison is not unfair in terms of the moment each arrived at.</p>
+
+    <p>At 21, with fewer than five professional starts to his name, Koivun will walk into Medinah Country Club No. 3 representing the United States alongside players like Scottie Scheffler, Collin Morikawa, and Xander Schauffele — golfers who have won major championships and spent years at the top of the world rankings. The gap in experience is vast. The gap in ability may be narrower than anyone expected.</p>
+  </section>
+
+  <section>
+    <h2>What's Next</h2>
+    <p>The 2026 Presidents Cup runs September 24-27 at Medinah Country Club in Medinah, Illinois. International captain Geoff Ogilvy will lead his squad against Snedeker's Americans. For most of the team, it is a familiar stage. For Jackson Koivun, it is an introduction — to Presidents Cup golf, to team competition at the elite level, and to the expectations that come with winning a major professional title at age 21 in just your third start. Three months ago, he was in college. Now comes Medinah.</p>
+  </section>
+</article>
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-04-jackson-koivun-presidents-cup-2026-medinah" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;title&gt;Jackson Koivun: Three Months from Auburn to the Presidents Cup at Medinah&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;article&gt;
+  &lt;header&gt;
+    &lt;h1&gt;Jackson Koivun: Three Months from Auburn to the Presidents Cup at Medinah&lt;/h1&gt;
+    &lt;p&gt;&lt;strong&gt;By Ryan Calloway&lt;/strong&gt; | Golf Fanrecap | September 6, 2026&lt;/p&gt;
+  &lt;/header&gt;
+
+  &lt;section&gt;
+    &lt;p&gt;In June 2026, Jackson Koivun was a college golfer at Auburn University.&lt;/p&gt;
+
+    &lt;p&gt;On September 24, he will tee it up for the United States at the Presidents Cup at Medinah Country Club — one of the most storied venues in American golf — representing his country in a biennial team event that has featured the best players on the planet for more than three decades.&lt;/p&gt;
+
+    &lt;p&gt;He is 21 years old. He has played three professional events.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;The 3M Open Changed Everything&lt;/h2&gt;
+    &lt;p&gt;Koivun turned professional in early summer and made his mark before most players his age had even earned a tour card. In July, in just his third professional start, he entered the 3M Open and dismantled one of the best fields of the summer.&lt;/p&gt;
+
+    &lt;p&gt;His final score: 25-under 259 — a new tournament record. He defeated world No. 1 Scottie Scheffler by three strokes. The professional golf world, which had barely had time to learn his name, suddenly knew exactly who he was.&lt;/p&gt;
+
+    &lt;p&gt;USA Presidents Cup captain Brandt Snedeker was watching. When Snedeker announced his six captain&#x27;s picks on September 1, Koivun&#x27;s name was on the list. Snedeker had one explanation.&lt;/p&gt;
+
+    &lt;p&gt;&quot;I just have a gut feeling,&quot; Snedeker said.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;The History He&#x27;s About to Make&lt;/h2&gt;
+    &lt;p&gt;Koivun is the second-youngest American ever selected for a Presidents Cup. Only Jordan Spieth, who was 20 years old when he made his debut in 2013, was younger. Spieth went on to win three major championships and become one of the defining players of his generation. Koivun is not Spieth — he is his own player, with his own game — but the comparison is not unfair in terms of the moment each arrived at.&lt;/p&gt;
+
+    &lt;p&gt;At 21, with fewer than five professional starts to his name, Koivun will walk into Medinah Country Club No. 3 representing the United States alongside players like Scottie Scheffler, Collin Morikawa, and Xander Schauffele — golfers who have won major championships and spent years at the top of the world rankings. The gap in experience is vast. The gap in ability may be narrower than anyone expected.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+    &lt;p&gt;The 2026 Presidents Cup runs September 24-27 at Medinah Country Club in Medinah, Illinois. International captain Geoff Ogilvy will lead his squad against Snedeker&#x27;s Americans. For most of the team, it is a familiar stage. For Jackson Koivun, it is an introduction — to Presidents Cup golf, to team competition at the elite level, and to the expectations that come with winning a major professional title at age 21 in just your third start. Three months ago, he was in college. Now comes Medinah.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-04-jackson-koivun-presidents-cup-2026-medinah">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-04-jackson-koivun-presidents-cup-2026-medinah')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-04-jackson-koivun-presidents-cup-2026-medinah')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-04-jackson-koivun-presidents-cup-2026-medinah">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-04-jackson-koivun-presidents-cup-2026-medinah')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-04-jackson-koivun-presidents-cup-2026-medinah')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-04-jackson-koivun-presidents-cup-2026-medinah')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-04-jackson-koivun-presidents-cup-2026-medinah')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-04-jackson-koivun-presidents-cup-2026-medinah">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-04-jackson-koivun-presidents-cup-2026-medinah" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-04-jackson-koivun-presidents-cup-2026-medinah"></div>
+                </div>
+                <div class="card" data-id="article-article-05-jon-rahm-liv-bankruptcy-contract" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Jon Rahm&#x27;s $100 Million Question — What LIV Bankruptcy Means for Golf&#x27;s Biggest Contract</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-05-jon-rahm-liv-bankruptcy-contract">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<title>Jon Rahm's $100 Million Question — What LIV Bankruptcy Means for Golf's Biggest Contract</title>
+</head>
+<body>
+<article>
+  <header>
+    <h1>Jon Rahm's $100 Million Question — What LIV Bankruptcy Means for Golf's Biggest Contract</h1>
+    <p><strong>By Jake Torres</strong> | Golf Fanrecap | September 6, 2026</p>
+  </header>
+
+  <section>
+    <p>When Jon Rahm left the PGA Tour for LIV Golf, he did not leave quietly. He left with what was reported to be the most lucrative player contract in professional golf history — a deal worth more than $100 million in guaranteed money.</p>
+
+    <p>Now, with LIV Golf expected to file for Chapter 11 bankruptcy as soon as this week, the contract that defined his move is at the center of the sport's most complicated financial reckoning.</p>
+
+    <p>Rahm is not alone. Every LIV player with a guaranteed contract faces uncertainty. But Rahm's reported sum makes his situation the most discussed, the most consequential, and the one the rest of the field watches most closely.</p>
+  </section>
+
+  <section>
+    <h2>Three Years, Three Titles, One Question</h2>
+    <p>Rahm's time at LIV has not been without success. He recently won his third consecutive LIV Golf individual title at Indianapolis — a dominant run that underscores his continued elite-level play. Whatever else has gone wrong with the business, Rahm's performance on the course has not been in doubt.</p>
+
+    <p>But performance and payment are separate conversations now. The league that guaranteed his money is approaching insolvency, and the Saudi sovereign wealth fund that bankrolled the operation is pulling its financial support after this season. PIF, which spent more than $5 billion to launch and sustain LIV, has made its decision. The era of unlimited funding is over.</p>
+  </section>
+
+  <section>
+    <h2>The Three Paths</h2>
+    <p>Players in Rahm's position are being offered settlements described as &quot;pennies on the dollar&quot; by sources familiar with the negotiations. The figure — a fraction of what was promised — presents each player with a version of the same decision.</p>
+
+    <p>One path: accept the reduced settlement and remain with a restructured &quot;LIV 2.0&quot; — a smaller circuit with roughly 10 events, player equity, and reduced purses. The money is less. The competitive calendar is smaller. But the tour continues.</p>
+
+    <p>A second path: accept the settlement and walk away, potentially pursuing reinstatement to the PGA Tour or DP World Tour. The timeline for that process is not guaranteed, and the terms of reinstatement would be subject to negotiation with the tours.</p>
+
+    <p>A third path: reject the settlement and pursue full contractual claims through the bankruptcy proceedings. This is the slowest route, with no guaranteed outcome, and extends the uncertainty indefinitely.</p>
+
+    <p>For Rahm, the financial stakes of that choice are larger than for almost anyone else in the field.</p>
+  </section>
+
+  <section>
+    <h2>What's Next</h2>
+    <p>The bankruptcy filing, expected in a New Jersey federal court in the week of September 7, will set the legal framework for everything that follows. Player decisions will cascade over the weeks and months after the filing. For Rahm — who gave up a world No. 1 ranking, multiple major championships, and an established place in the PGA Tour order to chase LIV's promise — the resolution of that decision will define the back half of his career. Golf is waiting to see which path he chooses.</p>
+  </section>
+</article>
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-05-jon-rahm-liv-bankruptcy-contract" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;title&gt;Jon Rahm&#x27;s $100 Million Question — What LIV Bankruptcy Means for Golf&#x27;s Biggest Contract&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;article&gt;
+  &lt;header&gt;
+    &lt;h1&gt;Jon Rahm&#x27;s $100 Million Question — What LIV Bankruptcy Means for Golf&#x27;s Biggest Contract&lt;/h1&gt;
+    &lt;p&gt;&lt;strong&gt;By Jake Torres&lt;/strong&gt; | Golf Fanrecap | September 6, 2026&lt;/p&gt;
+  &lt;/header&gt;
+
+  &lt;section&gt;
+    &lt;p&gt;When Jon Rahm left the PGA Tour for LIV Golf, he did not leave quietly. He left with what was reported to be the most lucrative player contract in professional golf history — a deal worth more than $100 million in guaranteed money.&lt;/p&gt;
+
+    &lt;p&gt;Now, with LIV Golf expected to file for Chapter 11 bankruptcy as soon as this week, the contract that defined his move is at the center of the sport&#x27;s most complicated financial reckoning.&lt;/p&gt;
+
+    &lt;p&gt;Rahm is not alone. Every LIV player with a guaranteed contract faces uncertainty. But Rahm&#x27;s reported sum makes his situation the most discussed, the most consequential, and the one the rest of the field watches most closely.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;Three Years, Three Titles, One Question&lt;/h2&gt;
+    &lt;p&gt;Rahm&#x27;s time at LIV has not been without success. He recently won his third consecutive LIV Golf individual title at Indianapolis — a dominant run that underscores his continued elite-level play. Whatever else has gone wrong with the business, Rahm&#x27;s performance on the course has not been in doubt.&lt;/p&gt;
+
+    &lt;p&gt;But performance and payment are separate conversations now. The league that guaranteed his money is approaching insolvency, and the Saudi sovereign wealth fund that bankrolled the operation is pulling its financial support after this season. PIF, which spent more than $5 billion to launch and sustain LIV, has made its decision. The era of unlimited funding is over.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;The Three Paths&lt;/h2&gt;
+    &lt;p&gt;Players in Rahm&#x27;s position are being offered settlements described as &quot;pennies on the dollar&quot; by sources familiar with the negotiations. The figure — a fraction of what was promised — presents each player with a version of the same decision.&lt;/p&gt;
+
+    &lt;p&gt;One path: accept the reduced settlement and remain with a restructured &quot;LIV 2.0&quot; — a smaller circuit with roughly 10 events, player equity, and reduced purses. The money is less. The competitive calendar is smaller. But the tour continues.&lt;/p&gt;
+
+    &lt;p&gt;A second path: accept the settlement and walk away, potentially pursuing reinstatement to the PGA Tour or DP World Tour. The timeline for that process is not guaranteed, and the terms of reinstatement would be subject to negotiation with the tours.&lt;/p&gt;
+
+    &lt;p&gt;A third path: reject the settlement and pursue full contractual claims through the bankruptcy proceedings. This is the slowest route, with no guaranteed outcome, and extends the uncertainty indefinitely.&lt;/p&gt;
+
+    &lt;p&gt;For Rahm, the financial stakes of that choice are larger than for almost anyone else in the field.&lt;/p&gt;
+  &lt;/section&gt;
+
+  &lt;section&gt;
+    &lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+    &lt;p&gt;The bankruptcy filing, expected in a New Jersey federal court in the week of September 7, will set the legal framework for everything that follows. Player decisions will cascade over the weeks and months after the filing. For Rahm — who gave up a world No. 1 ranking, multiple major championships, and an established place in the PGA Tour order to chase LIV&#x27;s promise — the resolution of that decision will define the back half of his career. Golf is waiting to see which path he chooses.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-05-jon-rahm-liv-bankruptcy-contract">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-05-jon-rahm-liv-bankruptcy-contract')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-05-jon-rahm-liv-bankruptcy-contract')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-05-jon-rahm-liv-bankruptcy-contract">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-05-jon-rahm-liv-bankruptcy-contract')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-05-jon-rahm-liv-bankruptcy-contract')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-05-jon-rahm-liv-bankruptcy-contract')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-05-jon-rahm-liv-bankruptcy-contract')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-05-jon-rahm-liv-bankruptcy-contract">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-05-jon-rahm-liv-bankruptcy-contract" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-05-jon-rahm-liv-bankruptcy-contract"></div>
+                </div>
+            </div>
+
+            <div class="empty-state" id="empty-state" style="display: none;">
+                <div class="empty-state-icon">No items match your filter</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Schedule settings modal -->
+    <div class="schedule-overlay" id="schedule-overlay" onclick="closeSchedulePanel()"></div>
+    <div class="schedule-panel" id="schedule-panel">
+        <h3>Posting Schedule Settings</h3>
+        <div class="schedule-section">
+            <label>Post Date (defaults to content date)</label>
+            <input type="date" id="schedule-date" />
+        </div>
+        <div class="schedule-section">
+            <label>X / Twitter Time Slots</label>
+            <div class="time-slots" id="x-time-slots"></div>
+            <div style="margin-top:8px;">
+                <input type="time" id="new-x-time" style="width:auto;display:inline-block;margin-right:8px;" />
+                <span class="add-slot-btn" onclick="addTimeSlot('x')">+ Add Slot</span>
+            </div>
+        </div>
+        <div class="schedule-section">
+            <label>Facebook Time Slots</label>
+            <div class="time-slots" id="fb-time-slots"></div>
+            <div style="margin-top:8px;">
+                <input type="time" id="new-fb-time" style="width:auto;display:inline-block;margin-right:8px;" />
+                <span class="add-slot-btn" onclick="addTimeSlot('fb')">+ Add Slot</span>
+            </div>
+        </div>
+        <div class="schedule-section" style="background:#f9f9f9;padding:12px;border-radius:6px;font-size:12px;color:#666;">
+            Posts will be assigned to time slots in order. If you have more posts than slots, they wrap around. After downloading, upload the file directly to PostPlanner via Bulk Upload.
+        </div>
+        <div class="schedule-actions">
+            <button class="btn btn-secondary" onclick="closeSchedulePanel()">Cancel</button>
+            <button class="btn btn-csv" onclick="generateAndDownload()">Generate &amp; Download XLSX</button>
+        </div>
+    </div>
+
+    <!-- SheetJS for XLSX generation (loaded async so it doesn't block) -->
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+    <script>
+
+        const DATE = '2026-09-06';
+        const BRAND_NAME = 'Golf Fanrecap';
+        const REVIEW_STORAGE_KEY = 'golf-content-review';
+        const SCHEDULE_STORAGE_KEY = 'golf-content-schedule-config';
+        const PHOTO_SOURCE = 'imagn';
+        let reviewData = {};
+        const allStories = [{"id": "story-1-daily_brief", "title": "Paul Casey Wins Omega European Masters \u2014 Pledges Prize to Crans-Montana Fire Victims", "content": "Paul Casey Wins Omega European Masters \u2014 Pledges Prize to Crans-Montana Fire Victims\n- **Tier:** 1", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-1-x_post-1", "title": "Paul Casey Wins Omega European Masters \u2014 Pledges Prize to Crans-Montana Fire Victims", "content": "Paul Casey, 49, wins the Omega European Masters at 16-under \u2014 and pledges his entire prize money to victims of the Crans-Montana bar fire that killed 41 people on New Year's Day. One of golf's most emotional victories. #DPWorldTour", "type": "x_post", "posting_window": "", "tweet_type": "FOLLOW UP (tournament conclusion)", "hashtags": "#DPWorldTour", "tweet_label": "Post 1-1"}, {"id": "story-1-x_post-2", "title": "Paul Casey Wins Omega European Masters \u2014 Pledges Prize to Crans-Montana Fire Victims", "content": "Casey's 63 in Round 3 \u2014 29 on the front nine \u2014 was the round that sealed it. At 49, he's among the oldest DP World Tour winners in recent memory. A storybook weekend at Crans-Montana. #DPWorldTour", "type": "x_post", "posting_window": "", "tweet_type": "FOLLOW UP (tournament conclusion)", "hashtags": "#DPWorldTour", "tweet_label": "Post 1-2"}, {"id": "story-2-daily_brief", "title": "LIV Golf Bankruptcy Filing Expected This Week \u2014 PIF Ends Funding", "content": "LIV Golf Bankruptcy Filing Expected This Week \u2014 PIF Ends Funding\n- **Tier:** 1", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-2-x_post-1", "title": "LIV Golf Bankruptcy Filing Expected This Week \u2014 PIF Ends Funding", "content": "LIV Golf expected to file for Chapter 11 bankruptcy as soon as this week. PIF has spent more than $5 billion since 2022 and is ending its financial commitment after this season. The era may be ending. #LIVGolf", "type": "x_post", "posting_window": "", "tweet_type": "FOLLOW UP", "hashtags": "#LIVGolf", "tweet_label": "Post 2-1"}, {"id": "story-2-x_post-2", "title": "LIV Golf Bankruptcy Filing Expected This Week \u2014 PIF Ends Funding", "content": "LIV players are being offered pennies on the dollar for their guaranteed contracts as the league heads toward bankruptcy. Jon Rahm is reportedly owed more than $100 million. The clock is ticking. #LIVGolf", "type": "x_post", "posting_window": "", "tweet_type": "FOLLOW UP", "hashtags": "#LIVGolf", "tweet_label": "Post 2-2"}, {"id": "story-3-daily_brief", "title": "Solheim Cup Eve \u2014 Practice Begins Tomorrow at Bernardus Golf", "content": "Solheim Cup Eve \u2014 Practice Begins Tomorrow at Bernardus Golf\n- **Tier:** 2", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-3-x_post-1", "title": "Solheim Cup Eve \u2014 Practice Begins Tomorrow at Bernardus Golf", "content": "The Solheim Cup begins its practice week tomorrow at Bernardus Golf in the Netherlands. Angela Stanford vs. Anna Nordqvist. Nelly Korda leads Team USA. Match play starts Friday. This is the moment they've been building toward. #SolheimCup", "type": "x_post", "posting_window": "", "tweet_type": "FOLLOW UP", "hashtags": "#SolheimCup", "tweet_label": "Post 3"}, {"id": "story-4-daily_brief", "title": "Jackson Koivun \u2014 The 21-Year-Old Who Could Steal the Presidents Cup Show", "content": "Jackson Koivun \u2014 The 21-Year-Old Who Could Steal the Presidents Cup Show\n- **Tier:** 2", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-4-x_post-1", "title": "Jackson Koivun \u2014 The 21-Year-Old Who Could Steal the Presidents Cup Show", "content": "Jackson Koivun was playing college golf at Auburn three months ago. On Sept. 24, he will represent the United States at the Presidents Cup at Medinah \u2014 at age 21, the second-youngest American ever selected. #PresidentsCup", "type": "x_post", "posting_window": "", "tweet_type": "FOLLOW UP", "hashtags": "#PresidentsCup", "tweet_label": "Post 4"}, {"id": "story-5-daily_brief", "title": "Jon Rahm and the $100M Question \u2014 What LIV Bankruptcy Means for Golf's Biggest Contract", "content": "Jon Rahm and the $100M Question \u2014 What LIV Bankruptcy Means for Golf's Biggest Contract\n- **Tier:** 2", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-5-x_post-1", "title": "Jon Rahm and the $100M Question \u2014 What LIV Bankruptcy Means for Golf's Biggest Contract", "content": "Jon Rahm won three straight LIV Golf individual titles. He's also reportedly owed more than $100 million in guaranteed money. With bankruptcy coming, what happens next for golf's most significant contract? #LIVGolf", "type": "x_post", "posting_window": "", "tweet_type": "FOLLOW UP", "hashtags": "#LIVGolf", "tweet_label": "Post 5"}, {"id": "article-article-01-paul-casey-omega-european-masters-charity", "title": "Paul Casey Wins Omega European Masters \u2014 and Pledges Every Penny to Crans-Montana Fire Victims", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Paul Casey Wins Omega European Masters \u2014 and Pledges Every Penny to Crans-Montana Fire Victims<\/title>\n<\/head>\n<body>\n<article>\n  <header>\n    <h1>Paul Casey Wins Omega European Masters \u2014 and Pledges Every Penny to Crans-Montana Fire Victims<\/h1>\n    <p><strong>By Ryan Calloway<\/strong> | Golf Fanrecap | September 6, 2026<\/p>\n  <\/header>\n\n  <section>\n    <p>Paul Casey won the Omega European Masters on Sunday afternoon at Crans-sur-Sierre Golf Club. He finished at 16-under par, held on from a three-shot lead he built the day before, and lifted the trophy in the Swiss Alps after one of the most emotionally charged weeks professional golf has seen in years.<\/p>\n\n    <p>The score mattered. But the story of this week was never really about the score.<\/p>\n\n    <p>On Saturday evening, after posting a stunning 7-under 63 in the third round \u2014 including a 29 on the front nine, six birdies in seven holes \u2014 Casey stood before the cameras and told the world what he intended to do with his prize money. His voice broke. The words came out anyway.<\/p>\n\n    <p>All of it. Every euro. Going to the victims of the Le Constellation bar fire.<\/p>\n  <\/section>\n\n  <section>\n    <h2>The Fire That Changed Crans-Montana<\/h2>\n    <p>On New Year's Day 2026, a fire broke out at the Le Constellation bar in Crans-Montana \u2014 the resort village that sits just minutes from the Crans-sur-Sierre Golf Club. The blaze killed 41 people and injured 115 more. It was one of the deadliest disasters in recent Swiss history, and it scarred a community that Casey has visited and competed in throughout his career.<\/p>\n\n    <p>\"There's a lot to play for,\" Casey said Saturday, barely holding back tears.<\/p>\n\n    <p>He was talking about winning. He was also talking about something larger than golf.<\/p>\n  <\/section>\n\n  <section>\n    <h2>The Round That Won It<\/h2>\n    <p>Casey's third round was the turning point. He birdied six of seven holes on the front nine at Crans-sur-Sierre, posting a 29 to make the turn in brilliant form. He added more gains on the back and signed for a 63 \u2014 a round that moved him from the chasing pack into a three-shot lead with one round to play.<\/p>\n\n    <p>At 49, Casey is among the oldest players competing regularly on the DP World Tour. His age is not incidental to the story \u2014 it is part of it. To post a round like that, on a moving day, with the context of the week weighing on his mind, required something beyond technique. It required resolve.<\/p>\n\n    <p>Sunday's final round confirmed it. Casey closed it out and walked off the 18th green as champion.<\/p>\n  <\/section>\n\n  <section>\n    <h2>What's Next<\/h2>\n    <p>Paul Casey will not be keeping his prize money from the 2026 Omega European Masters. It will go to the families and survivors of the Le Constellation fire \u2014 a decision that transforms what might have been a fine late-career victory into something that will be remembered far beyond golf. For the residents of Crans-Montana who watched a competitor they know well put on the best performance of his recent career in their town, in their memory, this week will mean everything.<\/p>\n  <\/section>\n<\/article>\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-02-liv-golf-bankruptcy-filing-september-2026", "title": "LIV Golf Bankruptcy Filing Expected This Week \u2014 PIF Ends the Experiment", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<title>LIV Golf Bankruptcy Filing Expected This Week \u2014 PIF Ends the Experiment<\/title>\n<\/head>\n<body>\n<article>\n  <header>\n    <h1>LIV Golf Bankruptcy Filing Expected This Week \u2014 PIF Ends the Experiment<\/h1>\n    <p><strong>By Jake Torres<\/strong> | Golf Fanrecap | September 6, 2026<\/p>\n  <\/header>\n\n  <section>\n    <p>The week that changes professional golf may have arrived.<\/p>\n\n    <p>LIV Golf is expected to file for Chapter 11 bankruptcy protection as soon as the week of September 7, according to reporting from the Financial Times and confirmed by multiple outlets. Saudi Arabia's Public Investment Fund, which provided the billions that made LIV Golf possible, is ending its financial commitment to the league following the 2026 season. After more than $5 billion spent since the league's 2022 launch, PIF has determined it will not continue to fund the operation as currently structured.<\/p>\n\n    <p>The filing, expected in a New Jersey federal court, would be one of the most significant events in professional golf's modern history.<\/p>\n  <\/section>\n\n  <section>\n    <h2>What Chapter 11 Means<\/h2>\n    <p>A Chapter 11 filing is a restructuring, not a shutdown. The distinction matters. Under Chapter 11, LIV Golf would continue to operate while working through its financial obligations under court supervision. PIF is expected to provide less than $100 million in debtor-in-possession financing \u2014 emergency funding that keeps the lights on during the proceedings.<\/p>\n\n    <p>Simultaneously, LIV has been in negotiations with BC Partners, a private capital firm that could invest up to $300 million in LIV's assets as part of a restructured entity. The proposed \"LIV 2.0\" would be smaller than the current league: a 10-tournament global schedule, reduced purses, and a player equity structure intended to align incentives differently than the guaranteed-money model that defined LIV's original pitch to stars.<\/p>\n  <\/section>\n\n  <section>\n    <h2>The Player Problem<\/h2>\n    <p>The most immediate human impact falls on the players. LIV's model was built on guaranteed contracts \u2014 multi-year deals that promised players money regardless of performance or tour health. Those deals are now in jeopardy.<\/p>\n\n    <p>Settlement offers have reportedly been sent to contracted players. The terms, described by sources as \"pennies on the dollar,\" represent a fraction of what the players were promised. Jon Rahm \u2014 whose contract is reportedly worth more than $100 million \u2014 is among those facing the most consequential decision of his professional career.<\/p>\n\n    <p>Every LIV player now faces a version of the same choice: accept the reduced settlement and stay with a restructured LIV, accept the settlement and leave (potentially pursuing reinstatement to the PGA Tour), or reject the settlement and pursue full contractual claims through the bankruptcy process \u2014 a slower and less certain path.<\/p>\n  <\/section>\n\n  <section>\n    <h2>What's Next<\/h2>\n    <p>The week of September 7 will likely mark the beginning of a legal and structural process that takes months to resolve. The filing date, the shape of the BC Partners deal, and the player decisions that follow will collectively determine what professional golf looks like on the other side. For fans who watched LIV reshape the sport \u2014 for better or worse \u2014 the bankruptcy proceedings represent the final chapter of an era that began with a simple and disruptive premise: that guaranteed money could lure golf's stars away from the established order. It worked, for a while. Now the bill has come due.<\/p>\n  <\/section>\n<\/article>\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-03-solheim-cup-2026-eve-bernardus-golf", "title": "The Solheim Cup Begins Tomorrow \u2014 What to Know Before Practice Rounds Open at Bernardus Golf", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<title>The Solheim Cup Begins Tomorrow \u2014 What to Know Before Practice Rounds Open at Bernardus Golf<\/title>\n<\/head>\n<body>\n<article>\n  <header>\n    <h1>The Solheim Cup Begins Tomorrow \u2014 What to Know Before Practice Rounds Open at Bernardus Golf<\/h1>\n    <p><strong>By Marcus Cole<\/strong> | Golf Fanrecap | September 6, 2026<\/p>\n  <\/header>\n\n  <section>\n    <p>Tomorrow morning, two teams of 12 golfers will begin the week that women's golf has circled on its calendar for two years.<\/p>\n\n    <p>The 2026 Solheim Cup opens its practice week Monday at Bernardus Golf in Cromvoirt, Netherlands \u2014 the first Solheim Cup ever played on Dutch soil. The PING Junior Solheim Cup also begins Monday, with young players from across Europe and the United States competing on the same grounds. For the main event, match play competition runs September 11 through September 13, with foursomes and fourballs on Friday and Saturday, and singles on Sunday.<\/p>\n\n    <p>Before the matches begin, here is everything you need to know.<\/p>\n  <\/section>\n\n  <section>\n    <h2>The Teams<\/h2>\n    <p>Team USA is captained by Angela Stanford, who has assembled a squad built around world No. 1 Nelly Korda. The automatic qualifiers include Yin, Kupcho, Noh, Auston Kim, Coughlin, Corpuz, Andrea Lee, and Alison Lee. Stanford's three captain's picks: Megan Khang, Rose Zhang, and Lindy Duncan.<\/p>\n\n    <p>Team Europe is captained by Anna Nordqvist, who has spoken about her pairings decisions as a challenging \"puzzle.\" Europe's roster includes proven match play veterans such as Charley Hull and Leona Maguire alongside some of the tour's rising names.<\/p>\n\n    <p>The United States are the defending champions, having won the 2024 Solheim Cup 15.5-12.5 in Virginia. Europe had won three consecutive Solheim Cups before that. The momentum belongs to the Americans entering this week \u2014 but Nordqvist's squad will be competing on a continent that feels like home.<\/p>\n  <\/section>\n\n  <section>\n    <h2>The Venue<\/h2>\n    <p>Bernardus Golf in Cromvoirt, North Brabant, is a relatively young course by European standards \u2014 opened in 2007 \u2014 but it has been developed specifically to host elite competition. The course features tree-lined fairways, precise approach demands, and greens that reward the kind of technical short-game precision that both teams possess in abundance.<\/p>\n\n    <p>A Dutch Solheim Cup is a first in the event's history. Crowd support will likely skew toward Europe, with Dutch fans joining fans from across the continent to cheer on Nordqvist's team. The Americans will need to handle the atmosphere as part of the challenge.<\/p>\n  <\/section>\n\n  <section>\n    <h2>The Format<\/h2>\n    <p>The Solheim Cup uses a match play format with 28 total points available. A team needs 14.5 points to win outright, or 14 points to retain the cup as the defending champion. Friday features four foursomes matches, followed by four fourball matches. Saturday repeats the same structure. Sunday's singles consist of 12 matches \u2014 one for each player on both teams \u2014 with every match counting.<\/p>\n\n    <p>Captain's pairings decisions on Thursday will set the tone for the weekend. Stanford and Nordqvist will each reveal their foursomes and fourballs lineups in the days ahead \u2014 and those choices may be as consequential as any individual round.<\/p>\n  <\/section>\n\n  <section>\n    <h2>What's Next<\/h2>\n    <p>Practice rounds begin Monday morning. Teams will spend the next four days learning Bernardus Golf, preparing their pairings, and building the chemistry that match play demands. Competition starts Friday, September 11. The Solheim Cup trophy will have a new home by Sunday evening \u2014 either staying with the United States or returning to European hands for the first time since 2022. After months of buildup, the week has finally arrived.<\/p>\n  <\/section>\n<\/article>\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-04-jackson-koivun-presidents-cup-2026-medinah", "title": "Jackson Koivun: Three Months from Auburn to the Presidents Cup at Medinah", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Jackson Koivun: Three Months from Auburn to the Presidents Cup at Medinah<\/title>\n<\/head>\n<body>\n<article>\n  <header>\n    <h1>Jackson Koivun: Three Months from Auburn to the Presidents Cup at Medinah<\/h1>\n    <p><strong>By Ryan Calloway<\/strong> | Golf Fanrecap | September 6, 2026<\/p>\n  <\/header>\n\n  <section>\n    <p>In June 2026, Jackson Koivun was a college golfer at Auburn University.<\/p>\n\n    <p>On September 24, he will tee it up for the United States at the Presidents Cup at Medinah Country Club \u2014 one of the most storied venues in American golf \u2014 representing his country in a biennial team event that has featured the best players on the planet for more than three decades.<\/p>\n\n    <p>He is 21 years old. He has played three professional events.<\/p>\n  <\/section>\n\n  <section>\n    <h2>The 3M Open Changed Everything<\/h2>\n    <p>Koivun turned professional in early summer and made his mark before most players his age had even earned a tour card. In July, in just his third professional start, he entered the 3M Open and dismantled one of the best fields of the summer.<\/p>\n\n    <p>His final score: 25-under 259 \u2014 a new tournament record. He defeated world No. 1 Scottie Scheffler by three strokes. The professional golf world, which had barely had time to learn his name, suddenly knew exactly who he was.<\/p>\n\n    <p>USA Presidents Cup captain Brandt Snedeker was watching. When Snedeker announced his six captain's picks on September 1, Koivun's name was on the list. Snedeker had one explanation.<\/p>\n\n    <p>\"I just have a gut feeling,\" Snedeker said.<\/p>\n  <\/section>\n\n  <section>\n    <h2>The History He's About to Make<\/h2>\n    <p>Koivun is the second-youngest American ever selected for a Presidents Cup. Only Jordan Spieth, who was 20 years old when he made his debut in 2013, was younger. Spieth went on to win three major championships and become one of the defining players of his generation. Koivun is not Spieth \u2014 he is his own player, with his own game \u2014 but the comparison is not unfair in terms of the moment each arrived at.<\/p>\n\n    <p>At 21, with fewer than five professional starts to his name, Koivun will walk into Medinah Country Club No. 3 representing the United States alongside players like Scottie Scheffler, Collin Morikawa, and Xander Schauffele \u2014 golfers who have won major championships and spent years at the top of the world rankings. The gap in experience is vast. The gap in ability may be narrower than anyone expected.<\/p>\n  <\/section>\n\n  <section>\n    <h2>What's Next<\/h2>\n    <p>The 2026 Presidents Cup runs September 24-27 at Medinah Country Club in Medinah, Illinois. International captain Geoff Ogilvy will lead his squad against Snedeker's Americans. For most of the team, it is a familiar stage. For Jackson Koivun, it is an introduction \u2014 to Presidents Cup golf, to team competition at the elite level, and to the expectations that come with winning a major professional title at age 21 in just your third start. Three months ago, he was in college. Now comes Medinah.<\/p>\n  <\/section>\n<\/article>\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-05-jon-rahm-liv-bankruptcy-contract", "title": "Jon Rahm's $100 Million Question \u2014 What LIV Bankruptcy Means for Golf's Biggest Contract", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Jon Rahm's $100 Million Question \u2014 What LIV Bankruptcy Means for Golf's Biggest Contract<\/title>\n<\/head>\n<body>\n<article>\n  <header>\n    <h1>Jon Rahm's $100 Million Question \u2014 What LIV Bankruptcy Means for Golf's Biggest Contract<\/h1>\n    <p><strong>By Jake Torres<\/strong> | Golf Fanrecap | September 6, 2026<\/p>\n  <\/header>\n\n  <section>\n    <p>When Jon Rahm left the PGA Tour for LIV Golf, he did not leave quietly. He left with what was reported to be the most lucrative player contract in professional golf history \u2014 a deal worth more than $100 million in guaranteed money.<\/p>\n\n    <p>Now, with LIV Golf expected to file for Chapter 11 bankruptcy as soon as this week, the contract that defined his move is at the center of the sport's most complicated financial reckoning.<\/p>\n\n    <p>Rahm is not alone. Every LIV player with a guaranteed contract faces uncertainty. But Rahm's reported sum makes his situation the most discussed, the most consequential, and the one the rest of the field watches most closely.<\/p>\n  <\/section>\n\n  <section>\n    <h2>Three Years, Three Titles, One Question<\/h2>\n    <p>Rahm's time at LIV has not been without success. He recently won his third consecutive LIV Golf individual title at Indianapolis \u2014 a dominant run that underscores his continued elite-level play. Whatever else has gone wrong with the business, Rahm's performance on the course has not been in doubt.<\/p>\n\n    <p>But performance and payment are separate conversations now. The league that guaranteed his money is approaching insolvency, and the Saudi sovereign wealth fund that bankrolled the operation is pulling its financial support after this season. PIF, which spent more than $5 billion to launch and sustain LIV, has made its decision. The era of unlimited funding is over.<\/p>\n  <\/section>\n\n  <section>\n    <h2>The Three Paths<\/h2>\n    <p>Players in Rahm's position are being offered settlements described as \"pennies on the dollar\" by sources familiar with the negotiations. The figure \u2014 a fraction of what was promised \u2014 presents each player with a version of the same decision.<\/p>\n\n    <p>One path: accept the reduced settlement and remain with a restructured \"LIV 2.0\" \u2014 a smaller circuit with roughly 10 events, player equity, and reduced purses. The money is less. The competitive calendar is smaller. But the tour continues.<\/p>\n\n    <p>A second path: accept the settlement and walk away, potentially pursuing reinstatement to the PGA Tour or DP World Tour. The timeline for that process is not guaranteed, and the terms of reinstatement would be subject to negotiation with the tours.<\/p>\n\n    <p>A third path: reject the settlement and pursue full contractual claims through the bankruptcy proceedings. This is the slowest route, with no guaranteed outcome, and extends the uncertainty indefinitely.<\/p>\n\n    <p>For Rahm, the financial stakes of that choice are larger than for almost anyone else in the field.<\/p>\n  <\/section>\n\n  <section>\n    <h2>What's Next<\/h2>\n    <p>The bankruptcy filing, expected in a New Jersey federal court in the week of September 7, will set the legal framework for everything that follows. Player decisions will cascade over the weeks and months after the filing. For Rahm \u2014 who gave up a world No. 1 ranking, multiple major championships, and an established place in the PGA Tour order to chase LIV's promise \u2014 the resolution of that decision will define the back half of his career. Golf is waiting to see which path he chooses.<\/p>\n  <\/section>\n<\/article>\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}];
+        const imageManifest = {};
+        let imageURLs = {}; // Runtime store: {'1_x_image': 'url', '1_facebook_image': 'url', ...}
+
+        // Image URL management
+        function updateImageURL(inputEl) {
+            var story = inputEl.dataset.story;
+            var platform = inputEl.dataset.platform;
+            var url = inputEl.value.trim();
+            var key = story + '_' + platform;
+            imageURLs[key] = url;
+
+            // Update preview thumbnail
+            var preview = document.getElementById('img-preview-' + story + '-' + platform);
+            if (preview) {
+                if (url) {
+                    preview.src = url;
+                    preview.classList.add('loaded');
+                    preview.onerror = function() { this.classList.remove('loaded'); };
+                } else {
+                    preview.src = '';
+                    preview.classList.remove('loaded');
+                }
+            }
+        }
+
+        function getImageURLForStory(storyTitle, platform) {
+            // Try runtime imageURLs first (user-pasted)
+            // Extract story number from title
+            for (var key in imageURLs) {
+                if (imageURLs[key] && key.endsWith('_' + platform)) {
+                    var storyNum = key.split('_')[0];
+                    // Check if this story matches by looking at allStories
+                    for (var i = 0; i < allStories.length; i++) {
+                        if (allStories[i].title === storyTitle &&
+                            allStories[i].id.indexOf('story-' + storyNum) !== -1) {
+                            return imageURLs[key];
+                        }
+                    }
+                }
+            }
+
+            // Try manifest data
+            for (var num in imageManifest) {
+                var mdata = imageManifest[num];
+                if (mdata && mdata[platform] && mdata[platform].exported_url) {
+                    // Check if this story number matches
+                    for (var j = 0; j < allStories.length; j++) {
+                        if (allStories[j].title === storyTitle &&
+                            allStories[j].id.indexOf('story-' + num) !== -1) {
+                            return mdata[platform].exported_url;
+                        }
+                    }
+                }
+            }
+
+            return '';
+        }
+
+        function initializeApp() {
+            const saved = localStorage.getItem(REVIEW_STORAGE_KEY + '-' + DATE);
+            if (saved) {
+                try {
+                    reviewData = JSON.parse(saved);
+                } catch (e) {
+                    reviewData = {};
+                }
+            }
+
+            allStories.forEach(function(story) {
+                if (!reviewData[story.id]) {
+                    reviewData[story.id] = {
+                        id: story.id,
+                        type: story.type,
+                        status: 'unreviewed',
+                        notes: '',
+                        content: story.content,
+                        editedContent: null
+                    };
+                }
+                // Migrate old data: ensure editedContent field exists
+                if (reviewData[story.id].editedContent === undefined) {
+                    reviewData[story.id].editedContent = null;
+                }
+            });
+
+            // Restore UI state
+            Object.keys(reviewData).forEach(function(storyId) {
+                var data = reviewData[storyId];
+                var card = document.querySelector('[data-id="' + storyId + '"]');
+                if (card) {
+                    card.setAttribute('data-status', data.status);
+                    var textarea = document.getElementById('textarea-' + storyId);
+                    if (textarea) textarea.value = data.notes || '';
+                    // If content was edited, update the display and editor
+                    if (data.editedContent) {
+                        var contentText = card.querySelector('.card-content-text');
+                        if (contentText) contentText.textContent = data.editedContent;
+                        var editor = document.getElementById('editor-' + storyId);
+                        if (editor) editor.value = data.editedContent;
+                    }
+                    updateCardVisuals(storyId, data.status, !!data.editedContent);
+                }
+            });
+
+            updateProgress();
+            filterByStatus('all');
+        }
+
+        function toggleExpand(storyId) {
+            var content = document.getElementById('content-' + storyId);
+            var toggle = document.getElementById('toggle-' + storyId);
+            if (content.classList.contains('collapsed')) {
+                content.classList.remove('collapsed');
+                content.classList.add('expanded');
+                toggle.textContent = 'Collapse';
+            } else {
+                content.classList.remove('expanded');
+                content.classList.add('collapsed');
+                toggle.textContent = 'Show Full Content';
+            }
+        }
+
+        function startEdit(storyId) {
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (!card) return;
+            card.classList.add('editing');
+            var editor = document.getElementById('editor-' + storyId);
+            if (editor) {
+                // If previously edited, load edited content; otherwise load original
+                var data = reviewData[storyId];
+                if (data && data.editedContent) {
+                    editor.value = data.editedContent;
+                }
+                editor.focus();
+                // Auto-resize for articles
+                editor.style.minHeight = Math.max(300, editor.scrollHeight) + 'px';
+            }
+        }
+
+        function saveAndApprove(storyId) {
+            var editor = document.getElementById('editor-' + storyId);
+            if (!editor) return;
+            var newContent = editor.value;
+
+            // Save the edited content
+            if (!reviewData[storyId]) {
+                reviewData[storyId] = { id: storyId, status: 'approved', notes: '', content: '', editedContent: null };
+            }
+            reviewData[storyId].editedContent = newContent;
+
+            // Update the display text
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            var contentText = card ? card.querySelector('.card-content-text') : null;
+            if (contentText) contentText.textContent = newContent;
+
+            // Exit edit mode
+            if (card) card.classList.remove('editing');
+
+            // Approve
+            setStatus(storyId, 'approved');
+            updateCardVisuals(storyId, 'approved', true);
+
+            // Update char count for X posts
+            updateCharCount(storyId, newContent);
+        }
+
+        function cancelEdit(storyId) {
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (card) card.classList.remove('editing');
+        }
+
+        function updateCharCount(storyId, text) {
+            var el = document.getElementById('charcount-' + storyId);
+            if (!el) return;
+            // Strip metadata tags before counting
+            var clean = text.replace(/\[CHARACTER COUNT:.*?\]/gi, '');
+            clean = clean.replace(/\[CHAR COUNT:.*?\]/gi, '');
+            clean = clean.replace(/\[\d+\/280\]/g, '');
+            // Remove URLs for Twitter count
+            var textNoUrls = clean.replace(/https?:\/\/\S+/g, '');
+            var count = textNoUrls.trim().length;
+            el.textContent = 'Characters: ' + count + '/280' + (count > 280 ? '  OVER LIMIT' : '');
+            el.className = count > 280 ? 'char-count warning' : 'char-count';
+        }
+
+        function approveCard(storyId) {
+            setStatus(storyId, 'approved');
+            document.getElementById('notes-' + storyId).classList.remove('show');
+        }
+
+        function rejectCard(storyId) {
+            setStatus(storyId, 'rejected');
+            document.getElementById('notes-' + storyId).classList.add('show');
+        }
+
+        function setStatus(storyId, status) {
+            if (!reviewData[storyId]) {
+                var story = allStories.find(function(s) { return s.id === storyId; });
+                reviewData[storyId] = {
+                    id: storyId,
+                    type: story ? story.type : '',
+                    status: status,
+                    notes: '',
+                    content: story ? story.content : '',
+                    editedContent: null
+                };
+            }
+
+            reviewData[storyId].status = status;
+
+            var textarea = document.getElementById('textarea-' + storyId);
+            if (textarea) reviewData[storyId].notes = textarea.value;
+
+            localStorage.setItem(REVIEW_STORAGE_KEY + '-' + DATE, JSON.stringify(reviewData));
+
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (card) card.setAttribute('data-status', status);
+            updateCardVisuals(storyId, status, !!(reviewData[storyId] && reviewData[storyId].editedContent));
+            updateProgress();
+        }
+
+        function updateCardVisuals(storyId, status, wasEdited) {
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (!card) return;
+
+            card.classList.remove('approved', 'needs-edit', 'rejected');
+            if (status !== 'unreviewed') card.classList.add(status);
+
+            var statusLabel = document.getElementById('status-' + storyId);
+            if (statusLabel) {
+                statusLabel.className = 'status-label';
+                if (status === 'approved' && wasEdited) {
+                    statusLabel.textContent = 'APPROVED (EDITED)';
+                    statusLabel.classList.add('status-edited');
+                } else if (status === 'approved') {
+                    statusLabel.textContent = 'APPROVED';
+                    statusLabel.classList.add('status-approved');
+                } else if (status === 'needs-edit') {
+                    statusLabel.textContent = 'NEEDS EDIT';
+                    statusLabel.classList.add('status-needs-edit');
+                } else if (status === 'rejected') {
+                    statusLabel.textContent = 'REJECTED';
+                    statusLabel.classList.add('status-rejected');
+                } else {
+                    statusLabel.textContent = '';
+                }
+            }
+        }
+
+        function updateProgress() {
+            var approved = 0, rejected = 0, unreviewed = 0;
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (!data || data.status === 'unreviewed') unreviewed++;
+                else if (data.status === 'approved') approved++;
+                else if (data.status === 'rejected') rejected++;
+                else unreviewed++;
+            });
+            var reviewed = approved + rejected;
+            var total = allStories.length;
+            var percentage = total > 0 ? (reviewed / total * 100) : 0;
+            document.getElementById('reviewed-count').textContent = reviewed;
+            document.getElementById('total-count').textContent = total;
+            document.getElementById('progress-fill').style.width = percentage + '%';
+            // Update stat chips
+            document.getElementById('stat-approved-count').textContent = approved;
+            document.getElementById('stat-rejected-count').textContent = rejected;
+            document.getElementById('stat-unreviewed-count').textContent = unreviewed;
+            // Update CSV button
+            var csvBtn = document.getElementById('btn-csv');
+            var tobiBtn = document.getElementById('btn-tobi');
+            var socialApproved = countApprovedSocialPosts();
+            if (csvBtn) {
+                if (socialApproved > 0) {
+                    csvBtn.disabled = false;
+                    csvBtn.textContent = 'PostPlanner Upload (' + socialApproved + ' posts)';
+                } else {
+                    csvBtn.disabled = true;
+                    csvBtn.textContent = 'PostPlanner Upload (0 approved)';
+                }
+            }
+            // Update TOBI button (counts only X/Twitter text posts)
+            if (tobiBtn) {
+                var xApproved = countApprovedXPosts();
+                if (xApproved > 0) {
+                    tobiBtn.disabled = false;
+                    tobiBtn.textContent = 'TOBI Upload (' + xApproved + ' posts)';
+                } else {
+                    tobiBtn.disabled = true;
+                    tobiBtn.textContent = 'TOBI Upload (0 approved)';
+                }
+            }
+        }
+
+        function countApprovedSocialPosts() {
+            var count = 0;
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (data && data.status === 'approved' && (story.type === 'x_post' || story.type === 'facebook')) {
+                    count++;
+                }
+            });
+            return count;
+        }
+
+        function countApprovedXPosts() {
+            var count = 0;
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (data && data.status === 'approved' && story.type === 'x_post') {
+                    count++;
+                }
+            });
+            return count;
+        }
+
+        function escapeCSVField(text) {
+            if (!text) return '';
+            // If field contains comma, quote, or newline, wrap in quotes and escape inner quotes
+            if (text.indexOf(',') !== -1 || text.indexOf('"') !== -1 || text.indexOf('\n') !== -1) {
+                return '"' + text.replace(/"/g, '""') + '"';
+            }
+            return text;
+        }
+
+        function extractHashtags(text) {
+            if (!text) return '';
+            var matches = text.match(/#\w+/g);
+            return matches ? matches.join(' ') : '';
+        }
+
+        // ========== POSTING SCHEDULE SYSTEM ==========
+        var defaultXSlots = ['09:00', '12:00', '15:00', '18:00', '21:00'];
+        var defaultFBSlots = ['10:00', '13:00', '17:00'];
+
+        function getScheduleConfig() {
+            var saved = localStorage.getItem(SCHEDULE_STORAGE_KEY);
+            if (saved) {
+                try { return JSON.parse(saved); } catch(e) {}
+            }
+            return { xSlots: defaultXSlots.slice(), fbSlots: defaultFBSlots.slice() };
+        }
+
+        function saveScheduleConfig(config) {
+            localStorage.setItem(SCHEDULE_STORAGE_KEY, JSON.stringify(config));
+        }
+
+        function renderTimeSlots() {
+            var config = getScheduleConfig();
+            var xContainer = document.getElementById('x-time-slots');
+            var fbContainer = document.getElementById('fb-time-slots');
+
+            xContainer.innerHTML = config.xSlots.map(function(t, i) {
+                return '<span class="time-slot">' + t + ' <span class="remove-slot" onclick="removeTimeSlot(\x27x\x27,' + i + ')">&times;</span></span>';
+            }).join('');
+
+            fbContainer.innerHTML = config.fbSlots.map(function(t, i) {
+                return '<span class="time-slot">' + t + ' <span class="remove-slot" onclick="removeTimeSlot(\x27fb\x27,' + i + ')">&times;</span></span>';
+            }).join('');
+        }
+
+        function addTimeSlot(platform) {
+            var inputId = platform === 'x' ? 'new-x-time' : 'new-fb-time';
+            var val = document.getElementById(inputId).value;
+            if (!val) return;
+            var config = getScheduleConfig();
+            var arr = platform === 'x' ? config.xSlots : config.fbSlots;
+            if (arr.indexOf(val) === -1) {
+                arr.push(val);
+                arr.sort();
+            }
+            saveScheduleConfig(config);
+            renderTimeSlots();
+            document.getElementById(inputId).value = '';
+        }
+
+        function removeTimeSlot(platform, index) {
+            var config = getScheduleConfig();
+            var arr = platform === 'x' ? config.xSlots : config.fbSlots;
+            arr.splice(index, 1);
+            saveScheduleConfig(config);
+            renderTimeSlots();
+        }
+
+        function downloadPostPlannerCSV() {
+            // Open schedule panel instead of direct download
+            openSchedulePanel();
+        }
+
+        function openSchedulePanel() {
+            document.getElementById('schedule-date').value = DATE;
+            renderTimeSlots();
+            document.getElementById('schedule-panel').classList.add('show');
+            document.getElementById('schedule-overlay').classList.add('show');
+        }
+
+        function closeSchedulePanel() {
+            document.getElementById('schedule-panel').classList.remove('show');
+            document.getElementById('schedule-overlay').classList.remove('show');
+        }
+
+        function formatTimeForPostPlanner(time24, dateStr) {
+            // Output PostPlanner V2 format: MM/DD/YYYY  HH:MM (24hr)
+            var parts = dateStr.split('-');
+            return parts[1] + '/' + parts[2] + '/' + parts[0] + '  ' + time24;
+        }
+
+        function redistributeTimes(rows) {
+            // Ensure all post times are at least 30 min from now,
+            // evenly spaced through the rest of the day.
+            if (rows.length === 0) return rows;
+
+            var now = new Date();
+            var nowMinutes = now.getHours() * 60 + now.getMinutes();
+            var floorMinutes = nowMinutes + 30;
+            var endMinutes = 22 * 60; // 10:00 PM cutoff
+
+            // Check if ANY post times have already passed
+            var anyPast = rows.some(function(row) {
+                var parts = row.time.split(':');
+                var rowMin = parseInt(parts[0], 10) * 60 + parseInt(parts[1], 10);
+                return rowMin < floorMinutes;
+            });
+
+            if (!anyPast) return rows; // all times are in the future, keep them
+
+            if (floorMinutes >= endMinutes) {
+                alert('It is past 9:30 PM — not enough time remaining to schedule all posts today. Posts will use original times.');
+                return rows;
+            }
+
+            var availableMinutes = endMinutes - floorMinutes;
+            var spacing = Math.floor(availableMinutes / rows.length);
+            if (spacing < 15) spacing = 15; // minimum 15 min gap
+            if (spacing > 90) spacing = 90; // maximum 90 min gap
+
+            rows.forEach(function(row, i) {
+                var postMinutes = floorMinutes + (i * spacing);
+                if (postMinutes >= 24 * 60) postMinutes = 23 * 60 + 45;
+                var h = Math.floor(postMinutes / 60);
+                var m = postMinutes % 60;
+                row.time = (h < 10 ? '0' : '') + h + ':' + (m < 10 ? '0' : '') + m;
+            });
+
+            var firstTime = rows[0].time;
+            var lastTime = rows[rows.length - 1].time;
+            console.log('PostPlanner export: redistributed ' + rows.length + ' posts from ' + firstTime + ' to ' + lastTime + ' (' + spacing + ' min apart)');
+            return rows;
+        }
+
+        // Parse actual time from posting_window string like "7:00 AM CT" -> "07:00"
+        function parsePostingTime(timeStr) {
+            if (!timeStr) return null;
+            var m = timeStr.match(/(\d{1,2}):(\d{2})\s*(AM|PM)/i);
+            if (!m) return null;
+            var h = parseInt(m[1], 10);
+            var min = m[2];
+            var ampm = m[3].toUpperCase();
+            if (ampm === 'PM' && h !== 12) h += 12;
+            if (ampm === 'AM' && h === 12) h = 0;
+            return (h < 10 ? '0' : '') + h + ':' + min;
+        }
+
+        // Generic window name fallback
+        var windowToTime = {
+            'Morning': '09:00',
+            'Midday': '12:00',
+            'Afternoon': '15:00',
+            'Evening': '18:00',
+            'Late Night': '21:00'
+        };
+
+        function generateAndDownload() {
+            var config = getScheduleConfig();
+            var postDate = document.getElementById('schedule-date').value || DATE;
+
+            var xRows = [];
+            var fbRows = [];
+
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (!data || data.status !== 'approved') return;
+                var finalContent = data.editedContent || story.content;
+
+                if (story.type === 'x_post') {
+                    // If this is an individual tweet card (has tweet_label), use directly
+                    if (story.tweet_label) {
+                        xRows.push({
+                            content: finalContent,
+                            type: story.tweet_type || 'text',
+                            hashtags: story.hashtags || extractHashtags(finalContent),
+                            story: story.title,
+                            posting_window: story.posting_window || ''
+                        });
+                    } else {
+                        // Legacy: parse full story markdown for individual tweets
+                        var sections = parseXPostContent(finalContent, story.title);
+                        sections.forEach(function(post) {
+                            xRows.push({
+                                content: post.text,
+                                type: post.type,
+                                hashtags: extractHashtags(post.text),
+                                story: story.title
+                            });
+                        });
+                    }
+                } else if (story.type === 'facebook') {
+                    var fbPost = parseFacebookContent(finalContent, story.title);
+                    if (fbPost) {
+                        fbRows.push(fbPost);
+                    }
+                }
+            });
+
+            if (xRows.length === 0 && fbRows.length === 0) {
+                alert('No approved social posts to export.');
+                return;
+            }
+
+            // Assign times: use posting_window property first, then content tag, then round-robin
+            function assignTimes(rows, slots, label) {
+                if (slots.length === 0) slots = ['12:00'];
+                var timeFallbacks = [];
+                return rows.map(function(row, i) {
+                    row.date = postDate;
+                    // 1. Try posting_window property (e.g., "7:00 AM CT")
+                    var parsed = parsePostingTime(row.posting_window);
+                    if (parsed) {
+                        row.time = parsed;
+                        return row;
+                    }
+                    // 2. Try [POSTING WINDOW: ...] tag in content
+                    var windowMatch = row.content ? row.content.match(/\[POSTING WINDOW:\s*([^\]]+)\]/) : null;
+                    if (windowMatch) {
+                        parsed = parsePostingTime(windowMatch[1]);
+                        if (parsed) {
+                            row.time = parsed;
+                            return row;
+                        }
+                        if (windowToTime[windowMatch[1].trim()]) {
+                            row.time = windowToTime[windowMatch[1].trim()];
+                            return row;
+                        }
+                    }
+                    // 3. Fall back to round-robin
+                    row.time = slots[i % slots.length];
+                    timeFallbacks.push('Post ' + (i + 1) + ': no parsed time, using ' + row.time);
+                    return row;
+                });
+                // Warn if any posts had to use fallback times
+                if (timeFallbacks.length > 0) {
+                    console.warn('TIME WARNING (' + label + '): ' + timeFallbacks.length + ' post(s) had no parsed posting time:\n' + timeFallbacks.join('\n'));
+                }
+            }
+
+            xRows = assignTimes(xRows, config.xSlots, 'X/Twitter');
+            fbRows = assignTimes(fbRows, config.fbSlots, 'Facebook');
+
+            // Generate XLSX in PostPlanner Bulk Upload V2 format
+            if (typeof XLSX === 'undefined') {
+                alert('SheetJS library not loaded. Falling back to CSV download.');
+                fallbackCSVDownload(xRows, fbRows, postDate);
+                return;
+            }
+
+            // Combine all rows and sort by original time
+            var allRows = xRows.concat(fbRows);
+            allRows.sort(function(a, b) {
+                return a.time.localeCompare(b.time);
+            });
+
+            // Smart time redistribution
+            allRows = redistributeTimes(allRows);
+
+            var wb = XLSX.utils.book_new();
+
+            // PostPlanner V3.1 format: Row 1 = version marker, Row 2 = headers, Row 3+ = data
+            var data = [
+                ['## ' + BRAND_NAME + ' -- PostPlanner Bulk Upload', 'BULK UPLOAD VERSION 3.1 – Please DO NOT EDIT this cell.', '', '', '', '', '', '', ''],
+                ['## POSTING TIME', 'CAPTION', 'LINK', 'MEDIA', 'TITLE', 'FIRST COMMENT', 'FIRST COMMENT DELAY', 'TOBI BACKGROUND', 'REEL OR STORY']
+            ];
+
+            allRows.forEach(function(row) {
+                var caption = cleanMarkdownForPost(row.content);
+                var mediaUrl = '';
+                if (row.type === 'image' || row.type === 'IMAGE') {
+                    mediaUrl = getImageURLForStory(row.story, row.platform === 'facebook' ? 'facebook_image' : 'x_image') || '';
+                }
+                data.push([
+                    formatTimeForPostPlanner(row.time, postDate),
+                    caption,
+                    '',
+                    mediaUrl,
+                    '', '', '', '', ''
+                ]);
+            });
+
+            var sheet = XLSX.utils.aoa_to_sheet(data);
+            sheet['!cols'] = [
+                {wch: 20}, {wch: 80}, {wch: 30}, {wch: 30}, {wch: 10}, {wch: 20}, {wch: 18}, {wch: 18}, {wch: 14}
+            ];
+            XLSX.utils.book_append_sheet(wb, sheet, 'Sheet1');
+
+            // Download
+            XLSX.writeFile(wb, 'postplanner-upload-' + postDate + '.xlsx');
+            closeSchedulePanel();
+
+            var msg = 'Downloaded postplanner-upload-' + postDate + '.xlsx with ';
+            var parts = [];
+            if (xRows.length > 0) parts.push(xRows.length + ' X posts');
+            if (fbRows.length > 0) parts.push(fbRows.length + ' Facebook posts');
+            alert(msg + parts.join(' and ') + '.\n\nUpload this file to PostPlanner via Bulk Upload.');
+        }
+
+        function cleanMarkdownForPost(text) {
+            // Strip markdown formatting and metadata that shouldn't appear in social posts
+            if (!text) return '';
+            return text
+                .replace(/\[CHARACTER COUNT:.*?\]/gi, '')
+                .replace(/\[CHAR COUNT:.*?\]/gi, '')
+                .replace(/\[\d+\/280\]/g, '')
+                .replace(/\*\*\[POSTING WINDOW:.*?\]\*\*/g, '')
+                .replace(/\[POSTING WINDOW:.*?\]/g, '')
+                .replace(/\*\*([^*]+)\*\*/g, '$1')
+                .replace(/\*([^*]+)\*/g, '$1')
+                .replace(/^#+\s+/gm, '')
+                .replace(/^[-*]\s+/gm, '')
+                .replace(/```[\s\S]*?```/g, '')
+                .replace(/\n{3,}/g, '\n\n')
+                .trim();
+        }
+
+        function fallbackCSVDownload(xRows, fbRows, postDate) {
+            // Fallback if SheetJS fails to load — generates CSV in V2-like format
+            var allRows = xRows.concat(fbRows);
+            allRows.sort(function(a, b) { return a.time.localeCompare(b.time); });
+            if (allRows.length === 0) {
+                alert('No approved posts to export.');
+                closeSchedulePanel();
+                return;
+            }
+            // Smart time redistribution (same as XLSX path)
+            allRows = redistributeTimes(allRows);
+            var csv = '## ' + BRAND_NAME + ' -- PostPlanner Bulk Upload,' + escapeCSVField('BULK UPLOAD VERSION 3.1 – Please DO NOT EDIT this cell.') + ',,,,,,,\n';
+            csv += '## POSTING TIME,CAPTION,LINK,MEDIA,TITLE,FIRST COMMENT,FIRST COMMENT DELAY,TOBI BACKGROUND,REEL OR STORY\n';
+            allRows.forEach(function(row) {
+                csv += escapeCSVField(formatTimeForPostPlanner(row.time, postDate)) + ',' +
+                       escapeCSVField(cleanMarkdownForPost(row.content)) + ',' +
+                       ',,,,,,\n';
+            });
+            downloadFile(csv, 'postplanner-upload-' + postDate + '.csv', 'text/csv');
+            closeSchedulePanel();
+        }
+
+        function downloadTOBIExport() {
+            // Generate TOBI XLSX directly (no schedule panel needed — uses same times)
+            generateAndDownloadTOBI();
+        }
+
+        function stripHashtags(text) {
+            // Remove lines that are entirely hashtags, and trailing blank lines
+            var lines = text.split('\n');
+            var cleaned = [];
+            for (var i = 0; i < lines.length; i++) {
+                var stripped = lines[i].trim();
+                if (stripped && stripped.split(/\s+/).every(function(w) { return w.charAt(0) === '#'; })) {
+                    continue;
+                }
+                cleaned.push(lines[i]);
+            }
+            while (cleaned.length > 0 && !cleaned[cleaned.length - 1].trim()) {
+                cleaned.pop();
+            }
+            return cleaned.join('\n');
+        }
+
+        function generateAndDownloadTOBI() {
+            var postDate = document.getElementById('schedule-date') ?
+                document.getElementById('schedule-date').value || DATE : DATE;
+
+            // Collect approved X/Twitter text posts only
+            var xRows = [];
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (!data || data.status !== 'approved') return;
+                if (story.type !== 'x_post') return;
+
+                var finalContent = data.editedContent || story.content;
+                if (story.tweet_label) {
+                    xRows.push({
+                        content: finalContent,
+                        posting_window: story.posting_window || '',
+                        story: story.title
+                    });
+                }
+            });
+
+            if (xRows.length === 0) {
+                alert('No approved X/Twitter posts for TOBI export.');
+                return;
+            }
+
+            // Assign times — use same logic as regular export (posting_window → content tag → round-robin)
+            var tobiSlots = defaultXSlots.slice();
+            if (tobiSlots.length === 0) tobiSlots = ['12:00'];
+            var tobiTimeFallbacks = [];
+            xRows = xRows.map(function(row, i) {
+                row.date = postDate;
+                // 1. Try posting_window property (e.g., "7:00 AM CT")
+                var parsed = parsePostingTime(row.posting_window);
+                if (parsed) {
+                    row.time = parsed;
+                    return row;
+                }
+                // 2. Try [POSTING WINDOW: ...] tag in content
+                var windowMatch = row.content ? row.content.match(/\[POSTING WINDOW:\s*([^\]]+)\]/) : null;
+                if (windowMatch) {
+                    parsed = parsePostingTime(windowMatch[1]);
+                    if (parsed) {
+                        row.time = parsed;
+                        return row;
+                    }
+                }
+                // 3. Fall back to round-robin through time slots (NOT 12:00)
+                row.time = tobiSlots[i % tobiSlots.length];
+                tobiTimeFallbacks.push('Post ' + (i + 1) + ': no parsed time, using ' + row.time);
+                return row;
+            });
+            // Warn if any posts had to use fallback times
+            if (tobiTimeFallbacks.length > 0) {
+                console.warn('TOBI TIME WARNING: ' + tobiTimeFallbacks.length + ' post(s) had no parsed posting time:\n' + tobiTimeFallbacks.join('\n'));
+            }
+
+            // Sort by time
+            xRows.sort(function(a, b) { return a.time.localeCompare(b.time); });
+
+            // Smart time redistribution
+            xRows = redistributeTimes(xRows);
+
+            // TOBI processing: preserve hashtags + emojis as much as possible
+            var TOBI_LIMIT = 130;
+
+            function extractHashtags(text) {
+                var matches = text.match(/#\w+/g);
+                return matches || [];
+            }
+
+            function extractTrailingEmoji(text) {
+                var m = text.match(/\s*([\u{1F300}-\u{1FAFF}\u2600-\u27BF\u2B50\u26A0-\u26FF]+)\s*$/u);
+                if (m) {
+                    return { emoji: m[1], text: text.substring(0, m.index).trimEnd() };
+                }
+                return { emoji: null, text: text };
+            }
+
+            function truncateAtSentence(text, limit) {
+                var sentences = text.split(/(?<=[.!?])\s+/);
+                // Merge standalone emoji fragments into preceding sentence
+                var merged = [];
+                for (var s = 0; s < sentences.length; s++) {
+                    var trimmed = sentences[s].trim();
+                    if (!trimmed) continue;
+                    if (merged.length > 0 && !/[A-Za-z0-9]/.test(trimmed)) {
+                        merged[merged.length - 1] = merged[merged.length - 1] + ' ' + trimmed;
+                    } else {
+                        merged.push(trimmed);
+                    }
+                }
+                var truncated = '';
+                for (var s = 0; s < merged.length; s++) {
+                    var candidate = truncated ? truncated + ' ' + merged[s] : merged[s];
+                    if (candidate.length <= limit) {
+                        truncated = candidate;
+                    } else {
+                        break;
+                    }
+                }
+                // Clean up trailing abbreviation fragments (Dr., Mr., vs.)
+                if (truncated) {
+                    var parts = truncated.split(' ');
+                    var last = parts[parts.length - 1];
+                    if (parts.length > 1 && last.length <= 4 && /^[A-Za-z]+\.$/.test(last)) {
+                        parts.pop();
+                        truncated = parts.join(' ');
+                    }
+                }
+                return truncated || text.substring(0, limit - 3) + '...';
+            }
+
+            function fitHashtagsWithinLimit(text, hashtags, limit) {
+                if (!hashtags.length) return text;
+                // Try all hashtags, then progressively fewer
+                for (var n = hashtags.length; n > 0; n--) {
+                    var tagBlock = '\n\n' + hashtags.slice(0, n).join(' ');
+                    if ((text + tagBlock).length <= limit) {
+                        return text + tagBlock;
+                    }
+                }
+                return text;
+            }
+
+            if (typeof XLSX === 'undefined') {
+                alert('SheetJS library not loaded. Cannot generate TOBI XLSX.');
+                return;
+            }
+
+            var wb = XLSX.utils.book_new();
+            var data = [
+                ['## ' + BRAND_NAME + ' -- PostPlanner TOBI Bulk Upload', 'BULK UPLOAD VERSION 3.1 – Please DO NOT EDIT this cell.', '', '', '', '', '', '', ''],
+                ['## POSTING TIME', 'CAPTION', 'LINK', 'MEDIA', 'TITLE', 'FIRST COMMENT', 'FIRST COMMENT DELAY', 'TOBI BACKGROUND', 'REEL OR STORY']
+            ];
+
+            var keptHashtags = 0;
+            var strippedHashtags = 0;
+
+            xRows.forEach(function(row, i) {
+                var caption = cleanMarkdownForPost(row.content);
+
+                // If full caption fits under limit, use as-is — ALL hashtags + emojis preserved
+                if (caption.length <= TOBI_LIMIT) {
+                    if (extractHashtags(caption).length > 0) keptHashtags++;
+                    data.push([
+                        formatTimeForPostPlanner(row.time, postDate),
+                        caption, '', '', '', '', '', 'true-black', ''
+                    ]);
+                    return;
+                }
+
+                // Over limit — decompose and rebuild intelligently
+                var hashtags = extractHashtags(caption);
+                var coreText = stripHashtags(caption).trimEnd();
+                var emojiResult = extractTrailingEmoji(coreText);
+                var trailing_emoji = emojiResult.emoji;
+                var coreNoEmoji = emojiResult.text.trimEnd();
+
+                // Step 1: Get core text under limit
+                var result;
+                if (coreNoEmoji.length <= TOBI_LIMIT) {
+                    result = coreNoEmoji;
+                } else {
+                    result = truncateAtSentence(coreNoEmoji, TOBI_LIMIT);
+                }
+
+                // Step 2: Try to add back trailing emoji
+                if (trailing_emoji) {
+                    var withEmoji = result + ' ' + trailing_emoji;
+                    if (withEmoji.length <= TOBI_LIMIT) {
+                        result = withEmoji;
+                    }
+                }
+
+                // Step 3: Try to add back as many hashtags as possible
+                if (hashtags.length > 0) {
+                    var before = result;
+                    result = fitHashtagsWithinLimit(result, hashtags, TOBI_LIMIT);
+                    if (result !== before) keptHashtags++;
+                    else strippedHashtags++;
+                }
+
+                data.push([
+                    formatTimeForPostPlanner(row.time, postDate),
+                    result, '', '', '', '', '', 'true-black', ''
+                ]);
+            });
+
+            var sheet = XLSX.utils.aoa_to_sheet(data);
+            sheet['!cols'] = [
+                {wch: 20}, {wch: 80}, {wch: 10}, {wch: 10}, {wch: 10}, {wch: 20}, {wch: 18}, {wch: 18}, {wch: 14}
+            ];
+            XLSX.utils.book_append_sheet(wb, sheet, 'Sheet1');
+
+            XLSX.writeFile(wb, 'postplanner-tobi-upload-' + postDate + '.xlsx');
+
+            alert('Downloaded TOBI export with ' + xRows.length + ' posts.\n\n' +
+                  keptHashtags + ' posts kept hashtags, ' + strippedHashtags + ' had hashtags removed for length.\n\n' +
+                  'Background: true-black (Column H).\nUpload to PostPlanner for Facebook TOBI posts.');
+        }
+
+        function parseXPostContent(content, storyTitle) {
+            var posts = [];
+            var lines = content.split('\n');
+
+            var inTextPost = false;
+            var inThread = false;
+            var currentTweetNum = 0;
+            var currentText = [];
+
+            for (var i = 0; i < lines.length; i++) {
+                var line = lines[i];
+                var trimmed = line.trim();
+
+                if (trimmed.match(/^###\s+Text Post/i)) {
+                    flushPost();
+                    inTextPost = true;
+                    inThread = false;
+                    currentText = [];
+                    continue;
+                }
+                if (trimmed.match(/^###\s+Thread Concept/i)) {
+                    flushPost();
+                    inTextPost = false;
+                    inThread = true;
+                    currentText = [];
+                    currentTweetNum = 0;
+                    continue;
+                }
+                if (trimmed.match(/^###\s+Image Post/i)) {
+                    flushPost();
+                    inTextPost = false;
+                    inThread = false;
+                    continue;
+                }
+                if (trimmed.match(/^###\s/)) {
+                    flushPost();
+                    inTextPost = false;
+                    inThread = false;
+                    continue;
+                }
+
+                if (inThread && trimmed.match(/^\*\*Tweet\s+\d+/i)) {
+                    flushPost();
+                    currentTweetNum++;
+                    currentText = [];
+                    continue;
+                }
+
+                if (inTextPost || (inThread && currentTweetNum > 0)) {
+                    if (trimmed !== '') {
+                        currentText.push(line);
+                    }
+                }
+            }
+            flushPost();
+
+            function flushPost() {
+                if (currentText.length === 0) return;
+                var text = currentText.join('\n').trim();
+                if (!text) return;
+
+                if (inTextPost) {
+                    posts.push({ text: text, type: 'text' });
+                } else if (inThread && currentTweetNum > 0) {
+                    posts.push({
+                        text: text,
+                        type: currentTweetNum === 1 ? 'thread_start' : 'thread_reply'
+                    });
+                }
+                currentText = [];
+            }
+
+            return posts;
+        }
+
+        function parseFacebookContent(content, storyTitle) {
+            var lines = content.split('\n');
+            var inLongForm = false;
+            var inImagePost = false;
+            var longFormLines = [];
+            var imageCaption = '';
+
+            for (var i = 0; i < lines.length; i++) {
+                var trimmed = lines[i].trim();
+
+                if (trimmed.match(/^###\s+Long-Form Post/i)) {
+                    inLongForm = true;
+                    inImagePost = false;
+                    longFormLines = [];
+                    continue;
+                }
+                if (trimmed.match(/^###\s+Image Post Caption/i) || trimmed.match(/^###\s+Image Post/i)) {
+                    inLongForm = false;
+                    inImagePost = true;
+                    continue;
+                }
+                if (trimmed.match(/^###\s/) || trimmed.match(/^---/)) {
+                    inLongForm = false;
+                    inImagePost = false;
+                    continue;
+                }
+
+                if (inLongForm) {
+                    longFormLines.push(lines[i]);
+                }
+                if (inImagePost && trimmed !== '') {
+                    imageCaption = trimmed;
+                    inImagePost = false;
+                }
+            }
+
+            var longForm = longFormLines.join('\n').trim();
+            if (!longForm) return null;
+
+            return {
+                content: longForm,
+                image_caption: imageCaption,
+                story: storyTitle
+            };
+        }
+
+        function downloadFile(content, filename, mimeType) {
+            var blob = new Blob([content], { type: mimeType });
+            var url = URL.createObjectURL(blob);
+            var link = document.createElement('a');
+            link.href = url;
+            link.download = filename;
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+            URL.revokeObjectURL(url);
+        }
+
+        var currentStatusFilter = 'all';
+        var currentTypeFilter = 'all';
+
+        function filterByStatus(status) {
+            currentStatusFilter = status;
+            applyFilters();
+            document.querySelectorAll('.filter-btn').forEach(function(btn) {
+                btn.classList.remove('active');
+                if (btn.textContent.trim().toLowerCase().replace(/\s+/g, '') === status.replace('-', '').toLowerCase() ||
+                    (status === 'all' && btn.textContent.trim() === 'All') ||
+                    (status === 'needs-edit' && btn.textContent.trim() === 'Needs Edit')) {
+                    btn.classList.add('active');
+                }
+            });
+            document.querySelectorAll('.sidebar .nav-item').forEach(function(item) { item.classList.remove('active'); });
+        }
+
+        function filterByType(type) {
+            currentTypeFilter = type;
+            currentStatusFilter = 'all';
+            applyFilters();
+            document.querySelectorAll('.sidebar .nav-item').forEach(function(item) { item.classList.remove('active'); });
+            document.querySelectorAll('.filter-btn').forEach(function(btn) {
+                btn.classList.remove('active');
+                if (btn.textContent.trim() === 'All') btn.classList.add('active');
+            });
+        }
+
+        function applyFilters() {
+            var cards = document.querySelectorAll('.card');
+            var visibleCount = 0;
+            cards.forEach(function(card) {
+                var cardStatus = card.getAttribute('data-status');
+                var cardType = card.getAttribute('data-type');
+                var matchesStatus = (currentStatusFilter === 'all') || (cardStatus === currentStatusFilter);
+                var matchesType = (currentTypeFilter === 'all') || (cardType === currentTypeFilter);
+                if (matchesStatus && matchesType) {
+                    card.classList.add('show');
+                    visibleCount++;
+                } else {
+                    card.classList.remove('show');
+                }
+            });
+            document.getElementById('empty-state').style.display = visibleCount === 0 ? 'block' : 'none';
+        }
+
+        function approveAll() {
+            if (!confirm('Approve all ' + allStories.length + ' items?')) return;
+            allStories.forEach(function(story) { setStatus(story.id, 'approved'); });
+        }
+
+        function resetAll() {
+            if (confirm('Reset all reviews? This cannot be undone.')) {
+                localStorage.removeItem(REVIEW_STORAGE_KEY + '-' + DATE);
+                location.reload();
+            }
+        }
+
+        function copyContent(storyId) {
+            var data = reviewData[storyId];
+            var story = allStories.find(function(s) { return s.id === storyId; });
+            var text = (data && data.editedContent) ? data.editedContent : (story ? story.content : '');
+            navigator.clipboard.writeText(text).then(function() {
+                var btn = document.querySelector('[data-id="' + storyId + '"] .btn-copy');
+                if (btn) { var orig = btn.textContent; btn.textContent = 'Copied!'; setTimeout(function() { btn.textContent = orig; }, 1500); }
+            });
+        }
+
+        function exportApprovals() {
+            var items = [];
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id] || {};
+                items.push({
+                    id: story.id,
+                    type: story.type,
+                    title: story.title,
+                    status: data.status || 'unreviewed',
+                    notes: data.notes || '',
+                    content: story.content,
+                    editedContent: data.editedContent || null,
+                    finalContent: data.editedContent || story.content
+                });
+            });
+
+            var exportData = {
+                date: DATE,
+                reviewed_by: '',
+                reviewed_at: new Date().toISOString(),
+                items: items
+            };
+
+            var dataStr = JSON.stringify(exportData, null, 2);
+            var dataBlob = new Blob([dataStr], { type: 'application/json' });
+            var url = URL.createObjectURL(dataBlob);
+            var link = document.createElement('a');
+            link.href = url;
+            link.download = 'approvals-' + DATE + '.json';
+            link.click();
+            URL.revokeObjectURL(url);
+        }
+
+        // Auto-save notes as you type
+        document.addEventListener('input', function(e) {
+            if (e.target.classList.contains('notes-textarea')) {
+                var storyId = e.target.id.replace('textarea-', '');
+                if (reviewData[storyId]) {
+                    reviewData[storyId].notes = e.target.value;
+                    localStorage.setItem(REVIEW_STORAGE_KEY + '-' + DATE, JSON.stringify(reviewData));
+                }
+            }
+        });
+
+        initializeApp();
+
+    </script>
+</body>
+</html>

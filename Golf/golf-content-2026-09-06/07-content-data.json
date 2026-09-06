@@ -1,0 +1,222 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-06",
+  "compiled_at": "2026-09-06T11:41:59.636148+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Paul Casey Wins Omega European Masters — Pledges Prize to Crans-Montana Fire Victims",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Paul Casey, 49, wins the Omega European Masters at 16-under — and pledges his entire prize money to victims of the Crans-Montana bar fire that killed 41 people on New Year's Day. One of golf's most emotional victories. #DPWorldTour",
+          "posting_time": "",
+          "tweet_type": "FOLLOW UP (tournament conclusion)",
+          "hashtags": [
+            "#DPWorldTour"
+          ],
+          "char_count": 231
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Casey's 63 in Round 3 — 29 on the front nine — was the round that sealed it. At 49, he's among the oldest DP World Tour winners in recent memory. A storybook weekend at Crans-Montana. #DPWorldTour",
+          "posting_time": "",
+          "tweet_type": "FOLLOW UP (tournament conclusion)",
+          "hashtags": [
+            "#DPWorldTour"
+          ],
+          "char_count": 196
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-paul-casey-omega-european-masters-charity.html",
+        "headline": "Paul Casey Wins Omega European Masters — and Pledges Every Penny to Crans-Montana Fire Victims",
+        "word_count": 493
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "LIV Golf Bankruptcy Filing Expected This Week — PIF Ends Funding",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "LIV Golf expected to file for Chapter 11 bankruptcy as soon as this week. PIF has spent more than $5 billion since 2022 and is ending its financial commitment after this season. The era may be ending. #LIVGolf",
+          "posting_time": "",
+          "tweet_type": "FOLLOW UP",
+          "hashtags": [
+            "#LIVGolf"
+          ],
+          "char_count": 209
+        },
+        {
+          "label": "Post 2-2",
+          "text": "LIV players are being offered pennies on the dollar for their guaranteed contracts as the league heads toward bankruptcy. Jon Rahm is reportedly owed more than $100 million. The clock is ticking. #LIVGolf",
+          "posting_time": "",
+          "tweet_type": "FOLLOW UP",
+          "hashtags": [
+            "#LIVGolf"
+          ],
+          "char_count": 204
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-liv-golf-bankruptcy-filing-september-2026.html",
+        "headline": "LIV Golf Bankruptcy Filing Expected This Week — PIF Ends the Experiment",
+        "word_count": 522
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Solheim Cup Eve — Practice Begins Tomorrow at Bernardus Golf",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The Solheim Cup begins its practice week tomorrow at Bernardus Golf in the Netherlands. Angela Stanford vs. Anna Nordqvist. Nelly Korda leads Team USA. Match play starts Friday. This is the moment they've been building toward. #SolheimCup",
+          "posting_time": "",
+          "tweet_type": "FOLLOW UP",
+          "hashtags": [
+            "#SolheimCup"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-solheim-cup-2026-eve-bernardus-golf.html",
+        "headline": "The Solheim Cup Begins Tomorrow — What to Know Before Practice Rounds Open at Bernardus Golf",
+        "word_count": 562
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Jackson Koivun — The 21-Year-Old Who Could Steal the Presidents Cup Show",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Jackson Koivun was playing college golf at Auburn three months ago. On Sept. 24, he will represent the United States at the Presidents Cup at Medinah — at age 21, the second-youngest American ever selected. #PresidentsCup",
+          "posting_time": "",
+          "tweet_type": "FOLLOW UP",
+          "hashtags": [
+            "#PresidentsCup"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-jackson-koivun-presidents-cup-2026-medinah.html",
+        "headline": "Jackson Koivun: Three Months from Auburn to the Presidents Cup at Medinah",
+        "word_count": 468
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Jon Rahm and the $100M Question — What LIV Bankruptcy Means for Golf's Biggest Contract",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Jon Rahm won three straight LIV Golf individual titles. He's also reportedly owed more than $100 million in guaranteed money. With bankruptcy coming, what happens next for golf's most significant contract? #LIVGolf",
+          "posting_time": "",
+          "tweet_type": "FOLLOW UP",
+          "hashtags": [
+            "#LIVGolf"
+          ],
+          "char_count": 214
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-jon-rahm-liv-bankruptcy-contract.html",
+        "headline": "Jon Rahm's $100 Million Question — What LIV Bankruptcy Means for Golf's Biggest Contract",
+        "word_count": 523
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
