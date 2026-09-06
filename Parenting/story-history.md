@@ -2,6 +2,73 @@
 
 ---
 
+## September 6, 2026
+
+### Story 1: Gizoon + Alanca Dresser Recalls
+- **Date:** 2026-09-06
+- **Content Pillar:** National Parenting / Safety
+- **Angle:** NEW STORY — Two additional dresser tip-over recalls: Gizoon (~4,396 units, CPSC Sept 3 2026) and Alanca 6-drawer wood dressers (~261 units, Wayfair April 2025–June 2026, brown and white). Both have tip-over/entrapment hazard when not wall-anchored. Different from Walmart Mainstays (Sept 5) and Skip Hop Elmo Teether (Sept 4). Third distinct dresser recall this week.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** ~4,396 Gizoon units; recalled Sept 3 2026; ~261 Alanca units; sold Wayfair April 2025–June 2026; brown and white; tip-over/entrapment if not wall-anchored; cpsc.gov/Recalls
+
+### Story 2: Labor Day Lift Off Day 2
+- **Date:** 2026-09-06
+- **Content Pillar:** Local Events
+- **Angle:** FOLLOW-UP (Day 2) — Different from Sept 5 Day 1/Balloon Glow coverage. Sunday angle: final Balloon Glow of the weekend tonight at dusk, morning launches at 7 AM (arrive 6:30 AM). Best single day of the festival. Tethered rides (ages 5+), Wings of Blue, Grizzly drone show.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** Sept 5–7; Memorial Park COS; free admission; parking from $5; 7 AM launches; arrive 6:30 AM; ages 5+ for tethered rides; final Balloon Glow tonight at dusk
+
+### Story 3: Rocky Mountain PBS KIDS Fest Sept 19
+- **Date:** 2026-09-06
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — First coverage of Rocky Mountain PBS KIDS Fest at Panorama Park, COS. Free family day, two weeks out.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** Saturday September 19 2026; 10 AM–2 PM; Panorama Park COS; free admission
+
+### Story 4: Pikes Peak Youth Fishing Derby Sept 12
+- **Date:** 2026-09-06
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — First coverage of Youth Fishing Derby at Crystal Reservoir, ages 6+.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** Saturday September 12 2026; 8:30–11:00 AM; Crystal Reservoir; ages 6 and up; hosted by Pikes Peak – America's Mountain
+
+### Story 5: COS Park System Master Plan Comment Period
+- **Date:** 2026-09-06
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — City released draft Park System Master Plan, public comment Sept 2–22 2026. Parks Advisory Board reviews Sept 10. Shapes parks/trails/rec for next 10–15 years.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** Comment period Sept 2–22 2026; Parks Advisory Board Sept 10; 300,000+ residents served annually; 3 community centers; 7 sports complexes; coloradosprings.gov/ParkSystemMasterPlan
+
+### Story 6: AAP COVID-19 Vaccine Guidance 2026–2027
+- **Date:** 2026-09-06
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — AAP 2026–2027 COVID-19 vaccine recommendations for children. Different from Sept 4 routine immunization roundup and Sept 5 screen time guidelines.
+- **Byline:** (social only)
+- **Content Produced:** 1 X Post + FB Long-Form + FB Image Caption
+- **Tier:** 3
+- **Key Facts (MEDIUM):** All infants 6–23 months recommended; immunocompromised 6 months–18 years recommended; ages 2–18 not elevated risk: single dose if parents choose; AAP Pediatrics journal
+
+### Story 7: D49 Student Success Center 2026–2027
+- **Date:** 2026-09-06
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — D49 (Falcon School District 49) opened Student Success Center for 2026–2027 school year. D49 start dates: Aug 3–4 2026.
+- **Byline:** (social only)
+- **Content Produced:** 1 X Post + FB Long-Form + FB Image Caption
+- **Tier:** 3
+- **Key Facts (MEDIUM):** D49 Student Success Center; 2026–2027 school year; D49 start Aug 3–4; d49.org
+
+---
+
 ## September 5, 2026
 
 ### Story 1: Walmart Mainstays 9-Drawer Fabric Dresser Recall
