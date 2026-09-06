@@ -5,6 +5,60 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-09-06
+
+### STORY 1: Game Recap — Cubs 6, Marlins 5 (September 5)
+- **Angle:** NEW STORY. Hoerner 3-for-4 RBI, Conforto HR+single, Amaya+Busch 2 hits each. 13 hits total. Rolison win No. 8, Zeferjahn save No. 5. Cubs 81-62.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - Series sweep result (today's finale)
+  - Rolison continued development as effective middle option
+
+### STORY 2: PCA 40-40 / MVP Résumé
+- **Angle:** FOLLOW UP (.280 BA, 39 HR, 32 SB, .946 OPS — framed as NL MVP résumé vs. 40-40 countdown repeat). 19 games left.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, bold stat take)
+- **Follow-Up Opportunities:**
+  - HR No. 40 franchise milestone
+  - SB milestones en route to 40-40
+  - MVP award announcement (November)
+
+### STORY 3: Game Preview — Clay Holmes vs Tyler Phillips, 12:40 PM CT
+- **Angle:** NEW STORY. Holmes (1.55 ERA, 1.00 WHIP in 5 Cubs starts) vs Phillips (3.43 ERA). Sweep attempt at loanDepot park.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 11:00 AM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Holmes performance in today's game
+  - Series sweep confirmation
+
+### STORY 4: Wild Card Standings — Cubs 81-62, No. 2 WC
+- **Angle:** FOLLOW UP. Cubs 81-62, NL WC No. 2. Brewers 88-54 in NL Central. Padres WC3. 18 games left, multiple teams chasing WC3.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, analysis/standings)
+- **Follow-Up Opportunities:**
+  - Cubs magic number for WC clinch
+  - Daily standings checks through September
+
+### STORY 5: Swanson + Steele Return Timeline
+- **Angle:** FOLLOW UP. Steele: 1.2 IP, 90 mph, 2 K in first Iowa rehab start. Swanson: daily bat work + drills, ~2 weeks from return. Both targeting mid-to-late September.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, roster/injury update)
+- **Follow-Up Opportunities:**
+  - Swanson activation announcement
+  - Steele second/third rehab start
+  - Cabrera and Miller return updates
+
+### STORY 6: Jaxon Wiggins — September Callup Case
+- **Angle:** FOLLOW UP. Wiggins now 8.0 scoreless Iowa IP, 10 K, 7 appearances, 96-98 mph — still no callup. Advocacy angle: his case has never been louder.
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, prospect/bold take)
+- **Follow-Up Opportunities:**
+  - Official callup announcement
+  - First MLB outing stats if called up
+
+---
+
 ## 2026-09-04
 
 ### STORY 1: Series Preview — Cubs Open 3-Game Road Series at Miami Marlins

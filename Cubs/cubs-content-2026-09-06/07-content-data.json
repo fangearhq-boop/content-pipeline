@@ -1,0 +1,253 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-06",
+  "compiled_at": "2026-09-06T09:19:55.365871+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Game recap (Cubs 6, Marlins 5)",
+      "type": "Informative"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "PCA MVP résumé",
+      "type": "Bold/Stat"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Game preview Holmes vs Phillips",
+      "type": "Informative"
+    },
+    {
+      "time": "1:15 PM",
+      "description": "Wild card standings",
+      "type": "Analysis"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Swanson + Steele return",
+      "type": "Roster/Injury"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Wiggins September callup case",
+      "type": "Prospect/Bold"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Game Recap — Cubs 6, Marlins 5 (September 5)",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Offensive barrage fuels second straight Miami W. Hoerner 3-for-4, Conforto HR, Amaya + Busch 2 hits each. 13 hits. Rolison win No. 8, Zeferjahn save No. 5.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Hoerner: 3-for-4, RBI. Conforto: HR, 2 hits. Amaya + Busch: 2 hits each.\n\n13 hits, second straight W at loanDepot park. Rolison win No. 8. Zeferjahn save No. 5.\n\n81-62. Sweep attempt today.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 213
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 0,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "PCA 40-40 / MVP Résumé",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "PCA at .280 BA / .946 OPS / 39 HR / 32 SB with 19 games left — frame as NL MVP résumé rather than repeating 40-40 countdown (covered Sept 4-5).",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Pete Crow-Armstrong: .280 BA. 39 HR. 32 SB. .946 OPS.\n\nThat's what a first-place NL MVP ballot looks like.\n\n19 games to seal it.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Bold/Stat",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 148
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 0,
+        "claims_flagged": 2,
+        "errors_corrected": 0
+      },
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Game Preview — Holmes vs Phillips, 12:40 PM CT",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Clay Holmes (1.55 ERA, 1.00 WHIP in 5 Cubs starts) vs Tyler Phillips (3.43 ERA). Sweep attempt at loanDepot park. Must post before first pitch.",
+      "posting_window": "11:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Clay Holmes: 1.55 ERA, 1.00 WHIP in 5 starts since the trade deadline.\n\nTyler Phillips (3.43 ERA) takes the hill for Miami. This matchup tilts toward Chicago.\n\nSweep attempt. 12:40 PM CT. loanDepot park.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "11:00 AM CT",
+          "tweet_type": "Informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 227
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Wild Card Standings — Cubs 81-62, No. 2 WC",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Cubs 81-62 in WC2. Brewers lead NL Central at 88-54. Padres in WC3. 18 games left, multiple teams chasing.",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Cubs 81-62 — No. 2 in the NL wild card with 18 games left.\n\nBrewers own the NL Central at 88-54. Chicago's October path runs through the wild card.\n\nMultiple teams are chasing the WC3 spot. The Cubs have the cushion. Keep stacking wins.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Analysis",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 0,
+        "claims_flagged": 2,
+        "errors_corrected": 0
+      },
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Swanson + Steele Return Timeline",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Steele: 1.2 IP, 90 mph fastball in Iowa rehab start. Swanson: daily bat work, ~2 weeks from return. Both targeting mid-to-late September.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Justin Steele: 1.2 IP, 90 mph fastball, 2 K in first Iowa rehab start.\n\nDansby Swanson: daily bat work + fielding drills. Club says ~2 weeks from return.\n\nBoth back in September. This roster gets healthier before October.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Roster/Injury update",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Jaxon Wiggins — September Callup Case",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "Wiggins now has 8 scoreless Iowa IP, 10 K, 7 appearances, 96-98 mph — still no callup. Advocacy angle: why isn't he in Chicago yet?",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Jaxon Wiggins: 8.0 IP. 0 ER. 10 K in 7 Iowa appearances.\n\n96-98 mph. Chicago's No. 6 overall prospect hasn't allowed a run.\n\nThe case for a September callup has never been louder. What's the hold?\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Prospect/Bold take",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
