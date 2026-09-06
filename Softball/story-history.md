@@ -3,6 +3,64 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-09-06
+
+### Story 1: USA WNT — Six Days to Group Oklahoma
+- **Date:** 2026-09-06
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** 6 days to Devon Park OKC opener. USA opens Sept. 12 vs. No. 7 Mexico at Devon Park. Top 2 advance directly to the 2027 Finals in Redcliffe QLD (April 5-11). 3rd/4th enter Repechage. Netherlands (No. 6) is the round-robin decider for first-place seeding. Play-off bracket: 1st vs. 2nd at 1 PM Sept. 16 (both go to Finals); 3rd vs. 4th at 4 PM; Repechage at 7 PM.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Sept. 12 opening game USA vs Mexico
+  - Sept. 12-16 full Group Oklahoma results
+  - Sept. 16 play-off bracket outcomes
+
+### Story 2: Class of 2028 — Three Days to In-Person Window
+- **Date:** 2026-09-06
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** 3 days to Sept. 9 in-person window at 7 AM ET. Coaches can show up at schools and homes for the first time. Peyton Ushery (No. 2, HOT 100) already committed to Georgia. 2028 commit wave imminent.
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Sept. 9 in-person window opens
+  - First wave of 2028 commits expected
+
+### Story 3: Oklahoma Fall Camp — Gasso Departs in 6 Days
+- **Date:** 2026-09-06
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Last full week of fall camp with complete staff. Wells went back-to-back off Berzon in fall scrimmage. Gasso departs in 6 days for WNT coaching duty (Sept. 12). Berzon (senior, 52-25, 2.02 ERA, 416 Ks at LSU) integrating. Harter (.346 BA) also competing.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - OU fall opener Sept. 30
+  - Gasso returns from WNT Sept. 17
+  - Berzon/Harter rotation competition
+
+### Story 4: Texas Longhorns — 23 Days, Torres Week Two
+- **Date:** 2026-09-06
+- **Tier:** 3
+- **Classification:** FOLLOW UP
+- **Angle:** Week 2 of fall practice. Torres + Kavan moving from introductions to real live-rep chemistry building. 23 days to Sept. 29 fall opener vs. Murray State. Three-peat context: only UCLA (1988-90) + OU (2021-23) have won 3 consecutive titles. Torres (.530 BA, 16 HR, 56 RBI, 2026 D1Softball POY) brings the missing offensive piece.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Texas fall opener Sept. 29
+  - Torres-Kavan chemistry signals
+  - Kavan senior season milestones
+
+### Story 5: Texas Tech — Week 3 of the Chemistry Lab
+- **Date:** 2026-09-06
+- **Tier:** 3
+- **Classification:** FOLLOW UP
+- **Angle:** Week 3 of fall camp — adjustment phase over, leadership emerging. Beachum (FSU, .406 BA, 10 HR, 69 RBI), Pickering (OU, No. 2-ranked transfer, .384 career BA, 50 HR), Heavener (LSU, 13-9, 2.81 ERA, 128 Ks). Glasco Year 2 — last year WCWS runner-up.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - TTU fall scrimmage results
+  - Leadership emergence signals
+  - Glasco media availability
+
+---
+
 ## 2026-09-05
 
 ### Story 1: USA WNT — Seven Days to Group Oklahoma
