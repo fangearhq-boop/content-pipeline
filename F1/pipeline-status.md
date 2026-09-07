@@ -1,11 +1,49 @@
 # F1 Fanrecap — Pipeline Status
 
-## Last Run: 2026-09-06
+## Last Run: 2026-09-07
 
 **Status:** COMPLETE (with known proxy limitations)
 **Niche:** F1 Fanrecap
 **Stories:** 5
 **Articles:** 5
+
+---
+
+## 2026-09-07 Run Log
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research / WebSearch | ✅ Complete | 5 stories — Antonelli Italian GP win from 19th, Leclerc Lap 2 crash/vision scare, championship standings, Monza podium recap, Spanish GP preview |
+| Daily Brief | ✅ Complete | 00-daily-brief.md |
+| Research Notes | ✅ Complete | 01-research-notes.md |
+| Story Analysis | ✅ Complete | 02-story-analysis.md |
+| X Posts | ✅ Complete | 03-social-posts-x.md — 7 posts |
+| Facebook Posts | ✅ Complete | 04-social-posts-facebook.md |
+| Image Concepts | ✅ Complete | 05-image-concepts.md |
+| Articles | ✅ Complete | 5 HTML articles |
+| Fact Check | ✅ Complete | 06-fact-check-log.md — 24 claims |
+| Compile Content Data | ✅ Complete | 07-content-data.json |
+| Image Manifest | ✅ Complete | 07-image-manifest.md (not_started) |
+| Review Dashboard | ✅ Complete | review-dashboard.html — 22 items |
+| Publish Dashboard | ⚠ Partial | Blocked — content-dashboards not in authorized repo |
+| PostPlanner Export | ✅ Complete | f1fr-postplanner-2026-09-07.xlsx |
+| PostPlanner TOBI | ✅ Complete | f1fr-postplanner-tobi-2026-09-07.xlsx |
+| WordPress Publish | ❌ Blocked | Proxy 403 — same as prior days |
+| Story History | ✅ Complete | story-history.md updated |
+
+**Stories covered:**
+1. T1 NEW: Kimi Antonelli Wins Italian GP from 19th — First Italian to Triumph at Monza Since 1966
+2. T1 NEW: Charles Leclerc's Monza Nightmare — Lap 2 Crash, Red Flag, Vision Scare
+3. T2 FOLLOW UP: Championship Picture — Antonelli 66 Points Clear of Russell After Monza
+4. T2 NEW: Russell P2, Verstappen P3 — Monza Podium Breakdown
+5. T2 NEW: Spanish GP Preview — F1 Heads to Barcelona September 11-13
+
+**Issues:**
+- WordPress publish blocked (fanrumor.com proxy restriction — ongoing)
+- content-dashboards push blocked (not in authorized repo set)
+- FB posts compiled as 0 — known parsing issue; posts are in 04-social-posts-facebook.md
+
+## Last Run: 2026-09-06
 
 ---
 

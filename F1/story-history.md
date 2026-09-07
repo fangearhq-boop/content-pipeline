@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-09-07
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-07 | T1 | Kimi Antonelli Wins Italian GP from 19th — First Italian to Triumph at Monza Since 1966 | X(2), FB, Article | NEW |
+| 2026-09-07 | T1 | Charles Leclerc's Monza Nightmare — Lap 2 Crash, Red Flag, Vision Scare | X(2), FB, Article | NEW |
+| 2026-09-07 | T2 | Championship Picture — Antonelli 66 Points Clear of Russell After Monza | X(1), FB, Article | FOLLOW UP |
+| 2026-09-07 | T2 | Russell P2, Verstappen P3 — Monza Podium Breakdown | X(1), FB, Article | NEW |
+| 2026-09-07 | T2 | Spanish GP Preview — F1 Heads to Barcelona September 11-13 | X(1), FB, Article | NEW |
+
+### STORY 1: Kimi Antonelli — Italian GP Win
+- **Tier:** 1
+- **Category:** Italian Grand Prix / Kimi Antonelli / Mercedes
+- **Key facts:** Won from 19th on grid (engine penalty); first Italian to win Italian GP since Ludovico Scarfiotti in 1966; 2nd-lowest starting position for F1 GP winner in history; beat Russell by 3.857s; took lead on Lap 18 after VSC pit for fresh mediums vs Russell on worn hards; 7th win of 2026 season
+- **Status:** NEW
+- **Follow-up ideas:** Spanish GP preview, championship standings update, Antonelli season overview
+
+### STORY 2: Charles Leclerc — Crash and Red Flag
+- **Tier:** 1
+- **Category:** Italian Grand Prix / Charles Leclerc / Ferrari / Safety
+- **Key facts:** Crashed at Parabolica on Lap 2 fighting Piastri; lost rear, buried into tyre barrier; red flagged for ~30 min; walked to medical car unaided; later revealed vision problems; underwent further medical checks; DNF after 2 laps; Ferrari's home race nightmare
+- **Status:** NEW
+- **Follow-up ideas:** Medical clearance status for Spain, Ferrari Spanish GP plans
+
+### STORY 3: F1 Championship Standings Post-Monza
+- **Tier:** 2
+- **Category:** F1 Championship / Kimi Antonelli / George Russell / Mercedes
+- **Key facts:** Antonelli leads by 66 points over Russell; 7 wins, 6 poles; Mercedes leads Constructors'; 11 rounds remaining, 283 points available; Italian GP was Round 13 of 22
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Spanish GP outcome, championship tracker
+
+### STORY 4: Russell P2, Verstappen P3 — Monza Podium
+- **Tier:** 2
+- **Category:** Italian Grand Prix / George Russell / Max Verstappen / McLaren
+- **Key facts:** Result: 1.Antonelli 2.Russell(+3.857s) 3.Verstappen(+14.718s) 4.Norris 5.Piastri 6.Hamilton 7.Gasly 8.Lindblad 9.Colapinto 10.Tsunoda; Russell led most of race; tyre strategy cost him; Verstappen maximised Red Bull's pace; Hamilton P6 for Ferrari; Gasly fell from pole to P7
+- **Status:** NEW
+- **Follow-up ideas:** Spanish GP qualifying comparison, championship points table
+
+### STORY 5: Spanish GP Preview
+- **Tier:** 2
+- **Category:** Spanish Grand Prix / Circuit de Barcelona-Catalunya / F1 Season
+- **Key facts:** Round 14 of 22; September 11-13; Circuit de Barcelona-Catalunya; high-downforce demands vs Monza low-drag; 11 rounds remaining; Leclerc medical status TBC; next after Spain is Azerbaijan (Sept. 26)
+- **Status:** NEW
+- **Follow-up ideas:** Spanish GP qualifying, race preview, Leclerc status update
+
 ## 2026-09-06
 
 | Date | Tier | Title | Platforms | Status |

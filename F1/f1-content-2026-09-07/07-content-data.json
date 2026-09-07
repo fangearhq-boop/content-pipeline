@@ -1,0 +1,329 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-07",
+  "compiled_at": "2026-09-07T11:26:47.042355+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Kimi Antonelli — Italian GP Win",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "KIMI ANTONELLI 🇮🇹\n\nFrom 19th on the grid to the top step of the podium at MONZA.\n\nThe first Italian to win the Italian Grand Prix since 1966.\n\nAt his home race. On an engine penalty. Absolutely unreal. #F1 #ItalianGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#ItalianGP"
+          ],
+          "char_count": 216
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Antonelli now leads the 2026 championship by 66 points after his Monza miracle.\n\n7 wins. 6 poles. Started 19th. Won anyway.\n\nThe youngest title favourite in F1 just grew up all at once. #F1 #ItalianGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#ItalianGP"
+          ],
+          "char_count": 200
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-antonelli-italian-gp-win-monza-19th.html",
+        "headline": "Kimi Antonelli Wins Italian Grand Prix From 19th — First Italian to Triumph at Monza Since 1966",
+        "word_count": 808
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Kimi Antonelli — Italian GP Win\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Antonelli won the 2026 Italian Grand Prix | HIGH | Formula1.com, ESPN, Sky Sports (multiple) |\n| Started from 19th position due to engine penalty | HIGH | Formula1.com, ESPN, multiple sources |\n| Beat Mercedes teammate George Russell | HIGH | All race result sources |\n| First Italian to win the Italian GP since Ludovico Scarfiotti in 1966 | HIGH | Formula1.com, ESPN (multiple) |\n| P19 is second-lowest starting position for an F1 GP winner in history | MEDIUM | Formula1.com (single source) |\n| Took lead from Russell at start of Lap 18 | HIGH | Formula1.com race report |\n| Used VSC to pit for fresh medium tyres | HIGH | Formula1.com race report |\n| Russell stayed on worn hard tyres | HIGH | Formula1.com race report |\n| Race held at Monza on September 6, 2026 | HIGH | Multiple sources aligned |\n| This was Antonelli's 7th win of the 2026 season | HIGH | Championship standings confirm |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Charles Leclerc — Crash and Red Flag",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Ferrari's worst nightmare at their home race.\n\nLeclerc lost the rear through Parabolica on Lap 2, hit the barriers hard, and brought out the red flag.\n\nHe walked away — but later reported vision problems after the impact. Scary stuff. #F1 #ItalianGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#ItalianGP"
+          ],
+          "char_count": 249
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Charles Leclerc underwent further medical checks after revealing he suffered vision problems following his Lap 2 crash at Monza.\n\nHe walked to the medical car unaided — but this is a serious development.\n\nSending respect to Charles. #F1 #CharlesLeclerc",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#CharlesLeclerc"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-leclerc-crash-monza-lap2-vision-scare.html",
+        "headline": "Charles Leclerc's Monza Nightmare: Lap 2 Crash, Red Flag, and a Vision Scare at Ferrari's Home Race",
+        "word_count": 756
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Charles Leclerc — Crash and Red Flag\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Leclerc crashed on Lap 2 at the Parabolica | HIGH | Formula1.com, Yahoo Sports, multiple |\n| Lost rear of Ferrari while fighting Piastri | HIGH | Multiple crash reports |\n| Car destroyed, heavy impact into tyre barrier | HIGH | Multiple crash reports |\n| Race red-flagged immediately | HIGH | Formula1.com video, multiple sources |\n| Red flag lasted approximately 30 minutes | MEDIUM | France24 mention of \"around half an hour\" |\n| Leclerc walked to medical car unaided | HIGH | Speedcafe, ESPN (multiple) |\n| Leclerc later revealed vision problems after crash | HIGH | Speedcafe specifically — \"further checks after vision scare\" |\n| Leclerc underwent further medical checks | HIGH | Speedcafe, multiple sources |\n| DNF — classified as non-finisher after 2 laps | HIGH | Race result confirmed |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Championship Standings After Monza",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "2026 F1 Championship after the Italian GP:\n\nAntonelli: P1 — 66 points clear\nRussell: P2\n\n11 rounds remaining. 283 points available.\n\nThe title is Kimi's to lose. #F1 #Formula1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Formula1"
+          ],
+          "char_count": 175
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-f1-championship-standings-after-monza.html",
+        "headline": "2026 F1 Championship After Monza: Antonelli 66 Points Clear — Title Momentum All His",
+        "word_count": 651
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Championship Standings After Monza\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Antonelli leads championship by 66 points over Russell | HIGH | Multiple standings sources (cross-referenced) |\n| Antonelli has 7 wins in 2026 | HIGH | Formula1.com win count |\n| Mercedes leads Constructors' Championship | HIGH | Championship standings |\n| 11+ rounds remaining in 2026 season | HIGH | Calendar shows Italy was Round 13 of 22 |\n| Antonelli had 6 poles and 10+ podiums | HIGH | Pre-race statistics (carried forward) |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Russell P2, Verstappen P3 — Monza Podium",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Italian GP podium:\n\n1. Antonelli (from 19th!)\n2. Russell +3.857s\n3. Verstappen +14.718s\n4. Norris\n5. Piastri\n6. Hamilton\n\nGasly fell from pole to P7. Leclerc DNF on Lap 2. What a race. #F1 #ItalianGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#ItalianGP"
+          ],
+          "char_count": 199
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-monza-podium-russell-verstappen-norris.html",
+        "headline": "Italian GP Podium: Russell P2, Verstappen P3, Hamilton P6 — The Full Monza Story Beyond the Winner",
+        "word_count": 739
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Russell P2, Verstappen P3 — Monza Podium\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Final order: 1. Antonelli, 2. Russell (+3.857s), 3. Verstappen (+14.718s) | HIGH | GPFans, Crash.net, PlanetF1 (multiple) |\n| 4. Norris (+19.056s), 5. Piastri (+19.253s), 6. Hamilton (+24.655s) | HIGH | GPFans, Crash.net (multiple) |\n| 7. Gasly (+27.351s) — started from pole position | HIGH | Race result + prior day info |\n| 8. Lindblad (Racing Bulls), 9. Colapinto (Alpine), 10. Tsunoda (Racing Bulls) | HIGH | GPFans race result |\n| Russell started from front row (P2) in qualifying | HIGH | Prior day pipeline (Gasly pole, Russell P2) |\n| Hamilton's best result at Monza in Ferrari: P6 | MEDIUM | Race result (this is the result today) |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Spanish GP Preview",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "F1 doesn't rest.\n\nAfter Monza's chaos, the paddock moves straight to Barcelona for the Spanish GP — September 11-13.\n\nFrom low-downforce Monza to the high-downforce demands of Catalunya. Round 14 of 22. #F1 #SpanishGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#SpanishGP"
+          ],
+          "char_count": 217
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-spanish-gp-preview-barcelona-2026.html",
+        "headline": "Spanish Grand Prix Preview: F1 Heads to Barcelona September 11-13 After Monza's Fireworks",
+        "word_count": 735
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Spanish GP Preview\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Spanish GP is Round 14 of 22 | HIGH | Calendar (Italy was Round 13) |\n| Spanish GP date: September 11-13, 2026 | HIGH | Multiple calendar sources |\n| Circuit: Circuit de Barcelona-Catalunya | HIGH | Official F1 calendar |\n| Next race after Spain: Azerbaijan (September 26) | HIGH | Multiple calendar sources |",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
