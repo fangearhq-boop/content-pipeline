@@ -1,0 +1,332 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-07",
+  "compiled_at": "2026-09-07T11:36:05.066733+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "LIV Golf Bankruptcy",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "LIV Golf could file for bankruptcy protection as soon as THIS WEEK.\n\nPIF poured $5B+ into the league since 2022 — then pulled the plug.\n\nSettlement offers to players? Cents on the dollar.\n\nThis could reshape professional golf forever. #LIVGolf #PGATour #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf",
+            "#PGATour",
+            "#Golf"
+          ],
+          "char_count": 258
+        },
+        {
+          "label": "Post 1-2",
+          "text": "What happens to LIV Golf players if the league files bankruptcy?\n\nBC Partners is considering a $300M investment for a \"LIV 2.0\" restart.\n\nBut guaranteed contracts? Those might be worth a fraction of their face value.\n\nGolf's biggest gamble is coming due. #LIVGolf #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf",
+            "#Golf"
+          ],
+          "char_count": 269
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-liv-golf-bankruptcy-filing-imminent.html",
+        "headline": "LIV Golf Bankruptcy Filing Expected This Week — Players Offered Cents on the Dollar as PIF Pulls Out",
+        "word_count": 782
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LIV Golf Bankruptcy\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| LIV Golf could file Chapter 11 bankruptcy as soon as week of Sept. 7 | HIGH | Financial Times (via multiple outlets) |\n| PIF (Saudi Public Investment Fund) poured $5B+ into LIV since 2022 | HIGH | Multiple sources confirm |\n| PIF said in April 2026 it would cut funding at close of 2026 season | HIGH | Multiple sources confirm |\n| Settlement offers sent to players for \"cents on the dollar\" | HIGH | Yahoo Sports, Heavy.com (multiple) |\n| BC Partners considering $300M investment in LIV assets | MEDIUM | Single source (BigGo Finance/Yahoo) |\n| PIF may provide bankruptcy loan under $100M (no additional commitment) | MEDIUM | Single source reporting |\n| \"LIV 2.0\" pre-packaged restructuring proposed with player equity | MEDIUM | Multiple sources mention concept |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Jon Rahm — $100M LIV Contract at Risk",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Jon Rahm is owed over $100 MILLION by LIV Golf.\n\nHe signed a reported $300M deal to leave the PGA Tour in 2024.\n\nNow LIV is preparing to file bankruptcy — and offering players \"cents on the dollar.\"\n\nThis is one of the biggest financial stories in sports. #Golf #LIVGolf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Golf",
+            "#LIVGolf"
+          ],
+          "char_count": 270
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Jon Rahm left the PGA Tour for LIV Golf with a deal worth hundreds of millions.\n\nIf LIV files bankruptcy this week, what happens to his future guaranteed money?\n\nTwo major championships. Generational talent. A very uncertain financial future. #Golf #JonRahm",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Golf",
+            "#JonRahm"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-jon-rahm-100m-liv-bankruptcy.html",
+        "headline": "Jon Rahm Owed Over $100 Million as LIV Golf Prepares Bankruptcy Filing",
+        "word_count": 779
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Jon Rahm — LIV Contract\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Jon Rahm joined LIV ahead of 2024 season | HIGH | Well-established fact |\n| Rahm's reported deal: ~$300M (some sources say $150M; figures vary) | MEDIUM | Yahoo Sports (\"$150M payout\" in one headline, \"nine figures\" in another) |\n| Rahm still owed more than $100M as of bankruptcy filing | HIGH | Yahoo Sports, Heavy.com (multiple aligned sources) |\n| Rahm is a two-time major champion | HIGH | Known biographical fact (US Open 2021, Masters 2023) |\n| Settlement offers from LIV worth \"cents on dollar\" apply to Rahm | HIGH | Multiple sources |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Solheim Cup — Practice Week",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The Solheim Cup begins in 4 days.\n\nUSA vs. Europe at Bernardus Golf in the Netherlands — September 11-13.\n\nPractice rounds are happening NOW. The world's best women golfers are ready.\n\nDon't sleep on this one. #SolheimCup #Golf #LPGA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SolheimCup",
+            "#Golf",
+            "#LPGA"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-solheim-cup-preview-bernardus-2026.html",
+        "headline": "Solheim Cup Practice Week: USA and Europe Prepare for Battle at Bernardus Golf",
+        "word_count": 636
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Solheim Cup\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Solheim Cup at Bernardus Golf, Den Bosch, Netherlands | HIGH | Wikipedia, LPGA.com |\n| Competition dates: September 11-13, 2026 | HIGH | Wikipedia, Golf Post, LPGA |\n| Format: foursomes/fourball on days 1 and 2, singles day 3 | HIGH | Standard Solheim Cup format |\n| USA vs. Europe format | HIGH | Standard format |\n| September 7 = practice rounds (not match play) | HIGH | Calendar confirmed |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Presidents Cup 2026",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "17 days to the Presidents Cup.\n\nUSA (Snedeker) vs. International (Ogilvy) at Medinah Country Club — September 24-27.\n\nMedinah. Home of the 2012 Ryder Cup. Newly redesigned. This will be must-watch golf.\n\n#PresidentsCup #Golf #PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PresidentsCup",
+            "#Golf",
+            "#PGATour"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-presidents-cup-2026-medinah-preview.html",
+        "headline": "Presidents Cup 2026 Preview: Medinah Awaits as Snedeker and Ogilvy Finalize Their Teams",
+        "word_count": 723
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Presidents Cup\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| 2026 Presidents Cup: September 24-27 at Medinah Country Club, IL | HIGH | Wikipedia, PresidentsCup.com |\n| USA captain: Brandt Snedeker | HIGH | Wikipedia, PresidentsCup.com |\n| International captain: Geoff Ogilvy | HIGH | Wikipedia, PresidentsCup.com |\n| 12 players per team | HIGH | Standard Presidents Cup format |\n| 16th edition of Presidents Cup | HIGH | Wikipedia |\n| Course redesigned by OCM in 2024 | HIGH | PresidentsCup.com |\n| Features larger greens, wider fairways, fescue rough | HIGH | PresidentsCup.com |\n| 17 days from Sept. 7 to Sept. 24 | HIGH | Simple date math |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "PGA Tour Fall Swing",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "No PGA Tour this week — but it's coming fast.\n\nNext up: Biltmore Championship, September 17-20.\n\nThen immediately: Presidents Cup at Medinah (Sept. 24-27).\n\nThe fall stretch of golf starts in 10 days. Get ready. #PGATour #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour",
+            "#Golf"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-pga-tour-fall-swing-preview-2026.html",
+        "headline": "PGA Tour Fall Swing Preview: Biltmore Championship Next as Teams and Players Reset Before Presidents Cup",
+        "word_count": 742
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "PGA Tour Fall Swing\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| No PGA Tour event scheduled for September 7 | HIGH | Multiple schedule sources |\n| Next PGA Tour event: Biltmore Championship, September 17-20 | HIGH | PGA Tour schedule |\n| Presidents Cup: September 24-27 (immediately follows Biltmore) | HIGH | Confirmed above |",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

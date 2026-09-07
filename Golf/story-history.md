@@ -2,6 +2,56 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-09-07
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-07 | T1 | LIV Golf Bankruptcy Filing Imminent — PIF Ends $5B+ Funding Era | X(2), FB, Article | FOLLOW UP |
+| 2026-09-07 | T1 | Jon Rahm Owed Over $100M as LIV Prepares Bankruptcy Filing | X(2), FB, Article | FOLLOW UP |
+| 2026-09-07 | T2 | Solheim Cup Practice Week — USA and Europe Prepare at Bernardus Golf | X(1), FB, Article | FOLLOW UP |
+| 2026-09-07 | T2 | Presidents Cup 2026 Preview — Medinah Awaits Snedeker and Ogilvy | X(1), FB, Article | NEW |
+| 2026-09-07 | T2 | PGA Tour Fall Swing Preview — Biltmore Championship Sept 17-20 | X(1), FB, Article | NEW |
+
+### STORY 1: LIV Golf Bankruptcy Filing Imminent
+- **Tier:** 1
+- **Category:** LIV Golf / Bankruptcy / Chapter 11 / PIF / BC Partners / Restructuring / Player Contracts
+- **Key facts:** Filing expected week of Sept. 7; NJ federal court; PIF ended $5B+ funding; DIP financing <$100M from PIF; BC Partners negotiating up to $300M; players offered cents on dollar; LIV 2.0 = pre-packaged bankruptcy with 10-event schedule and player equity stakes
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Filing date confirmation; BC Partners deal closure; player settlement decisions; PGA Tour reinstatement response
+
+### STORY 2: Jon Rahm Owed Over $100M
+- **Tier:** 1
+- **Category:** Jon Rahm / LIV Golf / Player Contracts / Bankruptcy / PGA Tour Reinstatement
+- **Key facts:** Rahm left PGA Tour for LIV ahead of 2024 season; deal reportedly $150M-$300M guaranteed; $100M+ still owed; settlement offers "cents on dollar"; equity in LIV 2.0 offered in lieu of cash; PGA Tour reinstatement terms unknown
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Settlement terms finalized; reinstatement application; Rahm public statement
+
+### STORY 3: Solheim Cup Practice Week
+- **Tier:** 2
+- **Category:** Solheim Cup / LPGA / USA vs Europe / Bernardus Golf / Netherlands / Team Golf
+- **Key facts:** Competition Sept 11-13 at Bernardus Golf, Den Bosch, Netherlands; practice rounds Sept. 7; foursomes and fourball days 1-2; 12 singles day 3; 14.5 points needed to win; 28 points total available
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Day 1 results; pairing strategies; session scorecards
+
+### STORY 4: Presidents Cup 2026 Preview
+- **Tier:** 2
+- **Category:** Presidents Cup / PGA Tour / Medinah Country Club / USA / International / Team Golf / Brandt Snedeker / Geoff Ogilvy
+- **Key facts:** 16th edition; Sept 24-27 at Medinah Country Club (Course No. 3); Illinois; USA captain Brandt Snedeker; International captain Geoff Ogilvy; OCM redesigned course 2024 (larger greens, wider fairways, fescue rough); 12 players per team; 15.5 points to win
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+- **Follow-up ideas:** Captain's picks announcements; team rosters; pairings preview
+
+### STORY 5: PGA Tour Fall Swing Preview
+- **Tier:** 2
+- **Category:** PGA Tour / Fall Swing / Biltmore Championship / FedEx Cup / Presidents Cup / Schedule
+- **Key facts:** No PGA Tour event week of Sept. 7; Biltmore Championship Sept 17-20; outside FedEx Cup points season; Presidents Cup Sept 24-27 at Medinah immediately follows; fall swing = non-points season events
+- **Byline:** Jake Torres
+- **Status:** NEW
+- **Follow-up ideas:** Biltmore Championship field; Presidents Cup prep reports
+
 ## 2026-09-06
 
 | Date | Tier | Story | Platforms | Status |
