@@ -1865,3 +1865,32 @@ _This file tracks every story covered, the angle used, content produced, and fol
   - TTU fall scrimmage results
   - TTU fall opener date TBD
   - 2027 preseason rankings (January)
+
+---
+
+## September 7, 2026
+
+### Story 1: USA WNT — Five Days to Group Oklahoma (FOLLOW UP — Tier 1)
+- **Status:** FOLLOW UP
+- **Key Facts:** WBSC Women's Softball World Cup Group Oklahoma, Devon Park OKC, Sept 12–16 — 5 days away. USA (No. 2) vs Mexico (No. 7) Sept 12 at 7:30 PM. Netherlands No. 6 top-seed decider. Six nations: USA, Netherlands, Mexico, China, New Zealand, Brazil. Top 2→2027 Finals Redcliffe QLD (LA28 qualifier). Sept 16 play-off bracket: 1st vs 2nd 1:00 PM (direct Finals), 3rd vs 4th 4:00 PM, Repechage 7:00 PM. USA 5-0 at International Cup at Devon Park. Patty Gasso HC for USA (+ JT Gasso + Rocha). Wells international debut; Brito, Coleman, Jennings, Maxwell, Garcia, Ricketts also on roster.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+
+### Story 2: Class of 2028 — In-Person Window Opens Tomorrow (FOLLOW UP — Tier 2)
+- **Status:** FOLLOW UP
+- **Key Facts:** Sept 9 at 7:00 AM ET = in-person contact window opens. Sept 1 communication (calls, texts, FaceTime) started. Peyton Ushery committed to Georgia Sept 1 (No. 2 HOT 100). 1,226 EIS nominations record. Campus visits and off-campus evaluations permitted beginning Sept 9. Commit wave accelerating. NCAA permanent calendar change — dates shift yearly.
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+
+### Story 3: Oklahoma — Final Full Week With Complete Coaching Staff (FOLLOW UP — Tier 2)
+- **Status:** FOLLOW UP
+- **Key Facts:** Gasso + JT Gasso + Rocha depart Sept 12 for WNT — 5 days away. Final full week of fall camp with complete staff. Kendall Wells sophomore; 32 HR NCAA freshman record, .358BA, 88RBI, 1.028SLG, NFCA FOY, SEC FOY, Johnny Bench Award. Wells homered twice off Berzon in fall scrimmages. Sydney Berzon: LSU transfer, 486.1IP, 2.02ERA, 406K, 52-25 (2x AA). Macie Harter: .346BA MTSU. Fall opener Sept 30 vs Tarleton State. 23 days to opener.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+
+### Story 4: Texas Longhorns — Week 3 Fall Camp, 22 Days to Opener (FOLLOW UP — Tier 3)
+- **Status:** FOLLOW UP
+- **Key Facts:** Torres Week 3 fall camp at Texas. Torres: 2026 D1Softball POY (.530BA, 16HR, 56RBI at FSU), Georgetown TX native. Kavan: senior year, 2x WCWS MOP (only ever), three-peat bid. Three-peat: only UCLA 1988-90 + OU 2021-23. Katie Stewart 31 HR Texas record. Fall opener Sept 29 Murray State McCombs 6PM CT free. 22 days to opener. Fall schedule closes Nov 6 at Texas A&M.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+
+### Story 5: Texas Tech — Week 3, Leaders Emerging (FOLLOW UP — Tier 3)
+- **Status:** FOLLOW UP
+- **Key Facts:** Jaysoni Beachum (.406BA, 10HR, 69RBI, All-ACC 1st Team FSU), Kasidi Pickering (No. 2 transfer, .384BA, 50HR OU), Jayden Heavener (LHP 13-9, 2.81ERA, 128Ks LSU) — Week 3 fall camp. Glasco Year 2 TTU; WCWS runner-up 2026 with LSU. 7 All-Americans never practiced together before this fall. Leaders emerging Week 3.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
