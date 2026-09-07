@@ -1,0 +1,329 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-07",
+  "compiled_at": "2026-09-07T11:19:17.610320+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Ben Simmons — Kings Signing",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Ben Simmons is BACK.\n\nThe former No. 1 pick has signed a 1-year, $3.5M deal with Sacramento after sitting out all of 2025-26 rehabbing his back and legs.\n\nAt 30, this is his shot at redemption. Kings camp opens Sept. 29. #Kings #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Kings",
+            "#NBA"
+          ],
+          "char_count": 232
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Sacramento just added one of the NBA's most versatile defenders.\n\nBen Simmons: 6'10\" point guard. Elite rim protection. Elite passing. Switchable on every position.\n\nIf healthy, the Kings have a real sleeper on their hands. #Kings #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Kings",
+            "#NBA"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-ben-simmons-sacramento-kings-return.html",
+        "headline": "Ben Simmons Returns to the NBA, Signs One-Year Deal With Sacramento Kings",
+        "word_count": 757
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Ben Simmons — Kings\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| 1-year, $3.5M contract with Sacramento Kings | HIGH | ESPN, Hoops Rumors, CBS Sports (multiple sources) |\n| Agreement announced ~September 4, 2026 | HIGH | Multiple reports aligned |\n| Simmons missed entire 2025-26 season | HIGH | All sources confirm |\n| Reason: back and leg injuries rehabilitation | HIGH | CBS Sports, ESPN |\n| Simmons age: 30 | HIGH | Known (born Oct 20, 1996) |\n| NBA service years: 9 | HIGH | Consistent across sources |\n| Draft pick: No. 1 overall, 2016 | HIGH | Well-established fact |\n| Kings GM Scott Perry impressed at late-August workout | MEDIUM | Single source (Hoops Rumors) |\n| Simmons had meeting with Perry in late August | MEDIUM | Single source (Hoops Rumors) |\n| Contract is minimum-salary deal | HIGH | Multiple sources (ESPN, CBS) |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Michael Porter Jr. — Nets Trade Rumors",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The MPJ saga is far from over.\n\nMichael Porter Jr. has a $40.8M expiring deal with the Nets in 2026-27. Extension talks stalled. He's the No. 1 trade asset on a rebuilding team.\n\nThe February deadline will be must-watch. #Nets #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Nets",
+            "#NBA"
+          ],
+          "char_count": 231
+        },
+        {
+          "label": "Post 2-2",
+          "text": "MPJ hit 24.2 PPG last season — career high on a rebuild team.\n\nWarriors and Pistons have been linked. With $40.8M expiring, every contender should be calling Brooklyn.\n\nWhere does he land? #NBA #Nets",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA",
+            "#Nets"
+          ],
+          "char_count": 199
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-michael-porter-jr-nets-trade-saga.html",
+        "headline": "Michael Porter Jr.'s $40.8M Question: Will the Nets Trade Their Star Before the Deadline?",
+        "word_count": 716
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Michael Porter Jr. — Nets Trade Rumors\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| MPJ had career-high 24.2 ppg in 2025-26 with Brooklyn | HIGH | From yesterday's story history (was previously verified) |\n| MPJ 2026-27 contract: $40.8M (expiring) | HIGH | ClutchPoints, multiple sources |\n| ESPN's Windhorst: MPJ not officially available | MEDIUM | Single reporter quote |\n| Marc Stein: \"pushback about Nets' willingness to part ways\" | MEDIUM | Single reporter |\n| Warriors and Pistons cited as interested | MEDIUM | Prior reporting, not freshly confirmed today |\n| Extension talks stalled this summer | HIGH | Multiple sources agree |\n| February 2027 deadline = likely trade window | HIGH | Standard NBA deadline |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "OKC vs. Spurs — Title Odds",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The 2026-27 title picture is taking shape.\n\nOKC (SGA/Holmgren/J. Williams) and San Antonio (Wemby) sit atop futures odds — ABOVE the defending champion Knicks.\n\nBoth open camp Sept. 29. The race is on. #Thunder #Spurs #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Thunder",
+            "#Spurs",
+            "#NBA"
+          ],
+          "char_count": 222
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-okc-spurs-title-favorites-2026-27.html",
+        "headline": "OKC and San Antonio Sit Atop 2026-27 Title Odds — Even Above the Defending Champion Knicks",
+        "word_count": 705
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "OKC Thunder — Title Odds\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| OKC and Spurs atop NBA Finals futures odds | HIGH | RealGM, bets.com.au (multiple odds aggregators) |\n| Thunder big three: SGA, Chet Holmgren, Jalen Williams | HIGH | Well-established roster fact |\n| Isaiah Joe, Aaron Wiggins, Luguentz Dort all traded | HIGH | ESPN offseason recap |\n| Reason for trades: avoid second apron | HIGH | ESPN offseason recap |\n| Isaiah Hartenstein retained | HIGH | ESPN offseason recap |\n| Kenrich Williams retained | HIGH | ESPN offseason recap |\n| Jalen Williams missed 49 regular-season games last season | MEDIUM | ESPN under-the-radar concerns article |\n| Williams injuries: wrist surgery, hamstring (4x) | MEDIUM | ESPN article |\n| OKC won one championship | HIGH | Prior reporting (established fact) |\n| Training camp opens Sept. 29 | HIGH | Consistent with league schedule |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Kevin Love — Timberwolves Interest",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Happy 38th birthday, Kevin Love.\n\nThe veteran big is reportedly drawing mutual interest from the Timberwolves — a reunion where he averaged 26 PPG and 12.5 RPG at his peak.\n\nCould a homecoming be next? #Timberwolves #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Timberwolves",
+            "#NBA"
+          ],
+          "char_count": 220
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-kevin-love-timberwolves-reunion.html",
+        "headline": "Kevin Love Turns 38 Today — And a Minnesota Homecoming Might Be Next",
+        "word_count": 660
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Kevin Love — Timberwolves\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Kevin Love played for Utah Jazz in 2025-26 | MEDIUM | Yahoo Sports article |\n| Love is a free agent in 2026 | HIGH | Multiple sources |\n| Mutual interest between Love and Timberwolves | MEDIUM | Yahoo Sports, Larry Brown Sports |\n| Love previously starred for Minnesota | HIGH | Well-established (2008-2014 with Wolves) |\n| Love is a 5x All-Star | HIGH | Known biographical fact |\n| Love age: 38 (born Sept. 7, 1988) | HIGH | Well-established |\n| Last All-Star appearance: 2018 | HIGH | Known fact |\n| Has not averaged double-digit points since 2021-22 | MEDIUM | Single source assessment |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Training Camp Transactions Roundup",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "NBA pre-camp roster moves keep rolling in:\n\nNets sign 7-foot Grant Nelson to Two-Way deal\nHornets waive Jarkel Joiner, shuffle Exhibit 10 spots\n\nCamp opens Sept. 29. Roster battles start NOW. #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA"
+          ],
+          "char_count": 196
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-nba-training-camp-transactions-sept-7.html",
+        "headline": "NBA Training Camp Transactions: Nets Add Grant Nelson, Hornets Continue Pre-Camp Shuffle",
+        "word_count": 688
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Training Camp Transactions\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Grant Nelson signed Two-Way contract with Nets | HIGH | Last Word on Basketball, confirmed |\n| Nelson age: 24 | MEDIUM | Cited in article |\n| Nelson: 7-footer | HIGH | Article description |\n| Nelson had 10-day contract with Nets at end of last season | HIGH | Last Word on Basketball |\n| Hornets waived Jarkel Joiner | HIGH | Last Word on Basketball |\n| Kyle Mangas waived, then re-signed on Exhibit 10 ($1.36M) | MEDIUM | Last Word on Basketball |\n| Josiah Allick added, then released; G-League bonus $91K | MEDIUM | Last Word on Basketball |\n| Teams can have 21-man training camp rosters | HIGH | NBA CBA — standard rule |\n| Training camp opens Sept. 29 | HIGH | Consistent across all sources |",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

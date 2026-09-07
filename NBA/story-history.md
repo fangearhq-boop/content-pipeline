@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-09-07
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-07 | T1 | Ben Simmons Returns — Sacramento Kings Sign Former No. 1 Pick on 1-Year Deal | X(2), FB, Article | NEW |
+| 2026-09-07 | T1 | Michael Porter Jr. $40M Question — Nets Still Fielding Trade Interest | X(2), FB, Article | FOLLOW UP |
+| 2026-09-07 | T2 | OKC and San Antonio Atop Title Odds — 2026-27 Championship Favorites Take Shape | X(1), FB, Article | NEW |
+| 2026-09-07 | T2 | Kevin Love Eyes Timberwolves Return — Mutual Interest Emerges for Veteran Big | X(1), FB, Article | NEW |
+| 2026-09-07 | T2 | Training Camp Transactions — Grant Nelson Two-Way, Hornets Continue Roster Shuffling | X(1), FB, Article | NEW |
+
+### STORY 1: Ben Simmons — Sacramento Kings Return
+- **Tier:** 1
+- **Category:** Sacramento Kings / Ben Simmons / NBA Free Agency
+- **Key facts:** 1-year, $3.5M minimum deal; agreement ~Sept. 4, 2026; missed all of 2025-26 (back and leg rehab); No. 1 overall pick, 2016; age 30, 9 NBA service years; Kings GM Scott Perry impressed at late-August workout; camp opens Sept. 29
+- **Status:** NEW
+- **Follow-up ideas:** Training camp health reports, Kings rotation reveal, preseason performance
+
+### STORY 2: Michael Porter Jr. — Nets Trade Saga
+- **Tier:** 1
+- **Category:** Brooklyn Nets / Michael Porter Jr. / NBA Trade Rumors
+- **Key facts:** Career-high 24.2 ppg in 2025-26 with Brooklyn; $40.8M expiring contract in 2026-27; extension talks stalled this summer; Windhorst (ESPN): not officially available; Stein: "pushback about Nets' willingness to part ways"; Warriors and Pistons linked; February 2027 deadline = likely trade window
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Trade deadline reporting, official availability announcement, destination confirmed
+
+### STORY 3: OKC/Spurs Atop 2026-27 Title Odds
+- **Tier:** 2
+- **Category:** NBA Season Preview / Oklahoma City Thunder / San Antonio Spurs
+- **Key facts:** OKC and Spurs atop futures odds above defending champion Knicks; Thunder big three SGA/Holmgren/J. Williams; Joe/Wiggins/Dort traded to avoid second apron; retained Hartenstein/K. Williams + 2 top-20 picks; Jalen Williams missed 49 games last season (wrist + hamstring); OKC vs Spurs on Opening Night Oct. 20
+- **Status:** NEW
+- **Follow-up ideas:** Training camp health updates, preseason performance, Opening Night recap
+
+### STORY 4: Kevin Love — Timberwolves Mutual Interest
+- **Tier:** 2
+- **Category:** Minnesota Timberwolves / Kevin Love / NBA Free Agency
+- **Key facts:** Love turns 38 today (born Sept. 7, 1988); played Utah Jazz in 2025-26; now a free agent; mutual interest with Timberwolves reported; Love averaged 26 ppg/12.5 rpg peak seasons with Wolves; 5x All-Star; not averaged double-digit points since 2021-22; minimum deal expected
+- **Status:** NEW
+- **Follow-up ideas:** Signing confirmation, camp performance, role with Wolves
+
+### STORY 5: Training Camp Transactions Roundup
+- **Tier:** 2
+- **Category:** Brooklyn Nets / Charlotte Hornets / NBA Transactions
+- **Key facts:** Nets signed Grant Nelson (24, 7-footer) to Two-Way contract; Nelson had 10-day with Nets end of 2025-26; Hornets waived Jarkel Joiner; Kyle Mangas re-signed Exhibit 10 ($1.36M); Josiah Allick added/released with $91K G-League bonus; teams allowed 21-man camp rosters; camp opens Sept. 29
+- **Status:** NEW
+- **Follow-up ideas:** Final roster cuts, camp battle outcomes, Two-Way conversion candidates
+
 ## 2026-09-06
 
 | Date | Tier | Title | Platforms | Status |

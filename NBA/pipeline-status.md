@@ -1,7 +1,7 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Current Status
-**Last Run:** 2026-09-06
+**Last Run:** 2026-09-07
 **Steps Completed:** All pipeline steps (1-14); WordPress publish blocked by proxy policy
 
 ## Deploy Info
@@ -11,6 +11,31 @@
 - **Note:** Dashboard publish push blocked (content-dashboards not in authorized repo set)
 
 ## Pipeline Run Log
+
+### 2026-09-07 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
+- Step 10: verify-facts.py run — 5 stories, 23 claims verified
+- Step 10b: compile-content-data.py — 5 stories, 7 tweets, 5 articles compiled
+- Step 11: Image manifest created (not_started for all — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — 22 items in dashboard
+- Step 14a: publish-unified-dashboard.py — push blocked (proxy policy for content-dashboards)
+- Step 14b: generate-postplanner-export.py — 7 posts exported
+- Step 14c: generate-postplanner-export.py --tobi — 7 TOBI posts exported
+- Step 15: publish-to-wordpress.py — BLOCKED (fanrumor.com not allowed by egress proxy)
+- Git commit + push: ✅ Committed
+
+**Stories covered:**
+1. T1 NEW: Ben Simmons Returns — Sacramento Kings Sign Former No. 1 Pick on 1-Year Deal
+2. T1 FOLLOW UP: Michael Porter Jr. $40M Question — Nets Still Fielding Trade Interest
+3. T2 NEW: OKC and San Antonio Atop Title Odds — 2026-27 Championship Favorites Take Shape
+4. T2 NEW: Kevin Love Eyes Timberwolves Return — Mutual Interest Emerges for Veteran Big
+5. T2 NEW: Training Camp Transactions — Grant Nelson Two-Way, Hornets Continue Roster Shuffling
+
+**Issues:**
+- WordPress publish blocked by proxy policy (fanrumor.com not reachable from remote environment)
+- content-dashboards push blocked (not in authorized repo set)
+- FB posts compiled as 0 — known script parsing issue; posts are in 04-social-posts-facebook.md
 
 ### 2026-09-06 ✅ (Automated)
 - Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
