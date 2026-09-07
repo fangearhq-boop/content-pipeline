@@ -25,6 +25,16 @@ Dashboard subfolder: `tfr`
 
 ## Pipeline Run Log
 
+### 2026-09-07 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 6 X posts + 5 FB posts (5 long-form + 5 captions) = 11 total
+- **Articles:** 5 (bylines: Marcus Cole [S1, S4], Ryan Calloway [S2, S5], Elena Voss [S3])
+- **PostPlanner exports:** 0 posts (known parser compat issue — same as prior runs)
+- **Key stories:** Three Americans (Shelton, Tiafoe, Michelsen) in US Open QF — first since 1995 (Shelton def. Tsitsipas 6-2, 6-3, 6-4; Tiafoe def. Medvedev 7-6, 6-4, 7-6; Michelsen def. Etcheverry 7-6, 6-4, 6-4); Women's QF set (Sabalenka vs. Noskova three-peat bid; Pegula vs. Navarro all-American); Day 9 R4 preview (Swiatek-Zheng, Gauff-Jovic, Rybakina-Osaka today); Eala exits R3 (Jovic 7-5, 3-6, 7-5 — deepest Grand Slam run by Filipino woman); QF preview week 2
+- **Issues:** image manifest all not_started (expected for imagn source); compile posting-window warnings cosmetic (known); PostPlanner 0 posts (known parser issue); WordPress blocked by proxy; dashboard push blocked by proxy (content-dashboards not in session authorized repos)
+- **Story history:** Updated with all 5 stories
+
 ### 2026-09-05 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
 - **Stories:** 5 stories (3 Tier 1, 2 Tier 2)

@@ -2047,3 +2047,50 @@ Track previously covered stories to avoid repetition and maintain content freshn
 - **Byline:** Marcus Cole
 - **Key Facts:** ATP Tour "matches to watch" list; H2H 5-2 Fils (tennismajors.com); Tsitsipas quote "Ready for the Challenge" (tennistemple.com); Berrettini-Wawrinka also Day 2 (ATP Tour)
 - **Follow-Up Opportunities:** Fils vs. Tsitsipas result; Berrettini vs. Wawrinka result; Fils R2+
+
+## 2026-09-07
+
+### Story 1: Three Americans Reach US Open QF — First Time Since 1995
+- **Date:** 2026-09-07
+- **Angle:** FOLLOW-UP (2026-09-05 S4: Four American men in R4) — RESULTS: Shelton def. Tsitsipas 6-2, 6-3, 6-4; Tiafoe def. Medvedev 7-6(1), 6-4, 7-6(6); Michelsen def. Etcheverry 7-6, 6-4, 6-4. Three Americans confirmed in QF: Shelton vs. Alcaraz, Tiafoe vs. Michelsen (all-American). Five Americans in R16 for first time since 1995. Last U.S. men's major champion: Roddick 2003.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Marcus Cole
+- **Key Facts:** Shelton def. Tsitsipas 6-2, 6-3, 6-4 (CBS Sports, Bleacher Report); Tiafoe def. Medvedev 7-6(1), 6-4, 7-6(6) (CBS Sports, ABC News); Michelsen def. Etcheverry 7-6, 6-4, 6-4 (CBS Sports); Michelsen youngest American man in US Open R4 since Roddick 2002 (ATP Tour); 5 Americans in R16 since 1995 (Washington Post)
+- **Follow-Up Opportunities:** Alcaraz vs. Shelton QF result; Tiafoe vs. Michelsen QF result; potential American men's SF
+
+### Story 2: Women's QF Set — Sabalenka-Noskova + Pegula-Navarro All-American
+- **Date:** 2026-09-07
+- **Angle:** FOLLOW-UP — Sabalenka def. Townsend 6-4, 6-3; Noskova def. Kostyuk 7-5, 5-7, 6-4; Pegula def. Cirstea 6-3, 6-4; Navarro def. Kalinskaya 6-4, 6-2. QF: Sabalenka vs. Noskova (three-peat bid vs. Wimbledon champ); Pegula vs. Navarro (all-American QF).
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Ryan Calloway
+- **Key Facts:** All R4 results (CBS Sports, Sunday Guardian Live, Outlook India); Sabalenka chasing third consecutive US Open title; no woman has won 3 straight US Opens since Serena 2012-2014 (MEDIUM); Noskova won Wimbledon 2026
+- **Follow-Up Opportunities:** Sabalenka vs. Noskova QF result; Pegula vs. Navarro QF result; three-peat bid coverage
+
+### Story 3: Day 9 R4 — Swiatek-Zheng, Gauff-Jovic, Rybakina-Osaka
+- **Date:** 2026-09-07
+- **Angle:** NEW STORY — Monday order of play completing R16: Swiatek vs. Zheng 11:30 AM Arthur Ashe; Rybakina vs. Osaka 2:30 PM Louis Armstrong; Gauff vs. Jovic 7 PM Ashe night; Zverev vs. Darderi evening Ashe; Tien vs. Khachanov; Cerundolo vs. Blockx. Rematch angle: Zheng beat Swiatek in Paris Olympics 2024 SF.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Elena Voss
+- **Key Facts:** All match times (olympics.com, Sky Sports, TennisConnected); Tien youngest American in US Open R4 since Roddick 2002 (ATP Tour); Jovic beat Eala R3 (follow-up to Sep 5 S3)
+- **Follow-Up Opportunities:** Results of all R4 Monday matches; complete QF bracket; Tien QF potential
+
+### Story 4: Eala Exits US Open R3 — Historic Campaign Ends
+- **Date:** 2026-09-07
+- **Angle:** FOLLOW-UP (2026-09-05 S3: Eala vs. Jovic R3 preview) — RESULT: Jovic def. Eala 7-5, 3-6, 7-5 in 3 hrs 3 min at Arthur Ashe. Jovic won 5 of last 6 games. Jovic H2H vs. Eala: 3-0. Eala's R3 = deepest Grand Slam run by Filipino woman in history. No. 17 seed = highest-ever Filipino Grand Slam seeding.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Marcus Cole
+- **Key Facts:** Score 7-5, 3-6, 7-5 (usopen.org, ESPN, Daily Tribune); 3 hrs 3 min (usopen.org); 5 of last 6 games (usopen.org); H2H 3-0 (usopen.org); all historical records (prior pipeline)
+- **Follow-Up Opportunities:** Eala Australian Open 2027 seeding; Jovic vs. Gauff R4 result
+
+### Story 5: US Open QF Preview — Week Two Begins Tuesday
+- **Date:** 2026-09-07
+- **Angle:** NEW STORY — QF preview: men's Alcaraz vs. Shelton, Tiafoe vs. Michelsen; women's Sabalenka vs. Noskova, Pegula vs. Navarro. QF starts Tuesday Sept 8. Historical drought framing (Roddick 2003).
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Ryan Calloway
+- **Key Facts:** All QF matchups confirmed (CBS Sports); QF start date Tuesday Sep 8 (tournament schedule)
+- **Follow-Up Opportunities:** Full QF coverage all matchups; SF preview
