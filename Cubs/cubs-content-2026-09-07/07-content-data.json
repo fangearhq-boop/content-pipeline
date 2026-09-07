@@ -1,0 +1,241 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-07",
+  "compiled_at": "2026-09-07T09:19:40.941444+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Series Preview — Cubs at Brewers",
+      "type": "Morning news (required series-start slot)"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Pre-Game Hype — Boyd vs Gasser",
+      "type": "Game preview (midday)"
+    },
+    {
+      "time": "1:15 PM",
+      "description": "PCA 40-40 Watch — HR No. 40",
+      "type": "Bold stat take (midday)"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Ian Happ + Cubs IL Update",
+      "type": "Roster/injury update (midday)"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Misiorowski Warning — Game 2",
+      "type": "Analysis (midday)"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "WC Standings — WC2 with 18 Left",
+      "type": "Standings (midday/evening)"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Series Preview — Cubs Open 3-Game Road Series at Milwaukee",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Cubs (81-63) travel to American Family Field to face Brewers (88-56) in a 3-game set. Boyd vs Gasser in Game 1 (1:10 PM CT). Stakes: October positioning, WC2 status, 7 GB from division title.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Cubs open a 3-game road series at American Family Field today — first pitch 1:10 PM CT.\n\nBoyd (8-3, 4.05 ERA) vs. Gasser (4-5, 4.57 ERA) in Game 1. Milwaukee (88-56) leads the NL Central. Cubs (81-63) hold WC2 — this series is October positioning.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "NEW STORY (is_series_start_today=true — RESERVED 7:00 AM slot per pipeline rules)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Series Preview — Cubs at Brewers (Game 1 of 3)\n**Key Facts:**\n- 3-game road series at American Family Field, Milwaukee, WI\n- Game 1: Monday Sept 7, 1:10 PM CT\n- Game 2: Tuesday Sept 8, 6:40 PM CT\n- Game 3: Wednesday Sept 9, 6:40 PM CT\n- Cubs record: 81-63 (40-32 road)\n- Brewers record: 88-56 (47-25 home)\n- Brewers lead NL Central; Cubs are 7.0 GB back in division\n- Cubs hold NL WC No. 2; Brewers hold NL Central crown\n- Brewers 6-4 in last 10 games\n**Game 1 Probable Pitchers:**\n- Cubs: Matthew Boyd (8-3, 4.05 ERA, 1.23 WHIP, 79 K)\n- Brewers: Robert Gasser (4-5, 4.57 ERA, 1.29 WHIP, 82 K)\n**Other Series Matchups:**\n- G2: David Peterson (7-8, 5.39 ERA, 113 K) vs Jacob Misiorowski\n- G3: Kevin Gausman (9-11, 4.38 ERA, 165 K) vs Logan Henderson (9-3, 2.48 ERA)\n**Source:** Yahoo Sports, Baseball-Reference (series preview), Heavy.com, FantasyPros\n**Confidence:** MEDIUM (series preview AI summaries; pitcher stats from multiple sources align)\n**Series context note (from snapshot):**\n> \"Yesterday vs Miami Marlins; today vs Milwaukee Brewers → game 1 of 3 (on the road).\"",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Game 1 Pre-Game Hype — Boyd vs Gasser",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Boyd (8-3, 4.05 ERA) in prime form over last 7 starts — this is the Cubs' best G1 draw in the series. Gasser (4-5, 4.57 ERA) is beatable. Run support key.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Boyd (8-3, 4.05 ERA) gets the ball in Milwaukee today — first pitch 1:10 PM CT.\n\nOver his last 7 starts, he's been the ace this rotation needed. The Cubs are 65-13 when they score 5+ runs. Give Boyd some run support today.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Pre-Game Hype — Boyd vs Gasser\n**Key Facts:**\n- Matthew Boyd: 8-3, 4.05 ERA, 1.23 WHIP in 2026\n- Had left knee surgery in early May; returned end of June\n- Last 7 starts: performing like a true ace (Yahoo Sports)\n- Cubs are 65-13 when they score 5+ runs (series preview source)\n- Gasser: 4-5, 4.57 ERA — beatable matchup for Cubs offense\n**Source:** Yahoo Sports, CBS Sports, ESPN, Heavy.com (series preview)\n**Confidence:** MEDIUM — \"last 7 starts\" claim from Yahoo, ERA from series preview; ERA stats corroborated across 2 sources",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "PCA 40-40 Watch — HR No. 40",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "PCA hit HR No. 40 on September 6 (403 ft in Miami). Now 40 HR / 33 SB. Needs 7 more SBs for historic 40-40. Only 6 players in MLB history have done it. First Cub with 40 HR + 30 SB.",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Pete Crow-Armstrong hit HR No. 40 yesterday — 403 feet in Miami.\n\nHe's now at 40 HR / 33 SB. Seven steals from the most exclusive club in baseball — only SIX players in MLB history have ever done 40-40. PCA is on the doorstep.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "FOLLOW UP (PCA has been tracked all season; new milestone: HR No. 40)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "PCA 40-40 Watch — HR No. 40\n**Key Facts:**\n- PCA hit HR No. 40 on September 6, 2026 vs Marlins\n- 403-foot leadoff shot in the top of the 5th inning at loanDepot park\n- Also stole his 33rd bag in the same game\n- Current line: 40 HR / 33 SB (needs 7 more SBs for 40-40)\n- Approximately 18 games remaining\n- First Cub EVER with 40 HR + 30 SB in a season\n- 4th player age 24 or younger with 40 HR + 30 SB in MLB history (joins Ronald Acuña Jr., Alex Rodriguez, Jose Canseco)\n- Only 6 players in MLB history have had a 40-40 season (PCA would be the 7th)\n**Source:** ESPN, SI.com, MLB.com\n**Confidence:** HIGH for HR/SB totals (multiple sources confirm 40 HR, 33 SB after Sept 6 game)\n**Confidence:** MEDIUM for historical comparisons (first Cub, 4th age-24-or-younger) — corroborated by SI.com and ESPN but not independently verified against Baseball Reference records\n**⚠️ COMPOUND CLAIM FLAG:** \"4th player age 24 or younger to do 40 HR + 30 SB\" — this is a multi-entity historical claim from AI summary. Treat as MEDIUM confidence. Tweet will say \"one of the youngest\" rather than exact rank to be safe.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Ian Happ Injury + Cubs IL Depth",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Happ (left knee) is day-to-day. Already without Swanson (oblique), Steele (60-day IL), Miller. Cubs' depth is being tested. Still 81-63. Story of roster resilience.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Ian Happ (left knee discomfort) is day-to-day after being scratched Sunday.\n\nWithout Swanson, Steele, and Miller, the Cubs are still 81-63. That's the story of this roster. Built to win shorthanded.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "NEW STORY (Happ scratch was late breaking on Sept 6)",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 224
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Ian Happ Injury + Cubs IL Update\n**Key Facts:**\n- Ian Happ scratched from Sept 6 lineup less than 1 hour before first pitch vs Marlins\n- Reason: left knee discomfort\n- Status: day-to-day (per ClutchPoints, AthlonSports, SI.com)\n- Happ 2026: 23 HR, 64 RBI (per search result; exact BA not confirmed)\n- Dansby Swanson: Grade 2 oblique strain, 10-day IL since Aug 17. Swinging bat + agility drills. ~2 weeks from return. Realistic postseason return scenario.\n- Justin Steele: 60-day IL (left elbow flexor strain). Threw 1.2 IP in first Iowa rehab Sept 2. Relief role if returns.\n- Shelby Miller: Right elbow surgery. Potential late-September return.\n- Tyler Ferguson + BJ Murray added Sept 1\n**Source:** ClutchPoints, AthlonSports, SI.com, CubsCrib, MLB.com\n**Confidence:** HIGH for Happ scratch (multiple sources, day-to-day status); MEDIUM for Swanson/Steele timelines (one-source AI summaries for specific timelines)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Misiorowski Warning — The Real Test Is Game 2",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Game 2 Tuesday features Peterson (7-8, 5.39 ERA) vs Misiorowski (NL Cy Young frontrunner, sub-2.60 ERA, 300+ K). The real challenge of this series isn't today.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The Cubs' Game 1 draw — Boyd vs. Gasser — is the favorable matchup of this series.\n\nGame 2 on Tuesday: David Peterson vs. Jacob Misiorowski, the NL Cy Young frontrunner with a sub-2.60 ERA and 300+ strikeouts this season. That's the real test.\n\n#Cubs #MLB #NorthSiders",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#NorthSiders"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Misiorowski Warning — Game 2\n**Key Facts:**\n- Jacob Misiorowski pitches Game 2 of this series (Tuesday, Sept 8, 6:40 PM CT)\n- Multiple sources cite him as NL Cy Young Award frontrunner (-750 betting favorite)\n- Opponents hitting .151 against him\n- Fastest pitch by a starting pitcher in MLB history: 105.5 mph\n- Statistics — CONFLICTING DATA:\n- Series preview source: 14-5, 1.97 ERA, 227 K\n- Misiorowski-specific search (Aug 27): 19-8, 2.53 ERA, 309 K\n- Resolution: using general \"NL Cy Young frontrunner, sub-2.60 ERA, 300+ strikeouts\" language in tweets. Not citing specific W-L record.\n- David Peterson (Cubs G2 starter): 7-8, 5.39 ERA, 113 K\n**Source:** Baseball-Reference, FOX Sports, LwoSports, ESPN, Fanrecap.com\n**Confidence:** HIGH for Cy Young frontrunner characterization (multiple sources); LOW for specific win totals (conflicting); MEDIUM for ERA sub-2.60 (consistent with both data points)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "NL Wild Card Standings — Cubs Hold WC2 with 18 to Play",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Cubs (81-63) sitting comfortably at WC No. 2, 5.0 games clear of WC3. Phillies WC1. Padres vs D-backs battling for WC3. Cubs' focus: protect WC2 and home-field advantage in Wild Card round.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Cubs (81-63) hold WC No. 2 with 18 games left — 5.0 games clear of the bubble.\n\nPadres WC3, D-backs 0.5 back, Phillies WC1. Eighteen games to lock up home-field in the Wild Card round. The Cubs are in control.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "FOLLOW UP (ongoing WC tracking arc)",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "NL Wild Card Standings\n**Key Facts:**\n- WC1: Philadelphia Phillies\n- WC2: Chicago Cubs (81-63) — 5.0 games clear of WC3\n- WC3: San Diego Padres\n- WC3 competition: Arizona Diamondbacks (0.5 GB of Padres)\n- Cubs: 18 games remaining\n- Cardinals: effectively eliminated from WC race (tracked since Sept 3 pipeline)\n- Note: \"81-63\" reflects today's standing (last night's loss makes Cubs 81-63, confirmed via series snapshot)\n**Source:** FOX Sports, CBS Sports\n**Confidence:** MEDIUM (WC standings from AI summary; Cubs 81-63 record confirmed by series-context snapshot)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

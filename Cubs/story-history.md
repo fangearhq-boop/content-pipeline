@@ -5,7 +5,57 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
-## 2026-09-06
+## 2026-09-07
+
+### STORY 1: Series Preview — Cubs Open 3-Game Road Series at Milwaukee Brewers
+- **Angle:** NEW STORY (is_series_start_today=true — RESERVED 7:00 AM slot). Cubs (81-63) at Brewers (88-56), American Family Field. Game 1: 1:10 PM CT. Boyd vs Gasser. 7.0 GB back in division; Cubs hold WC2 with 18 games left.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, series preview)
+- **Follow-Up Opportunities:**
+  - Game 1 result recap (Sept 8 morning)
+  - G2 Peterson vs Misiorowski result (Sept 9 morning)
+  - Series outcome recap
+
+### STORY 2: Game 1 Pre-Game Hype — Boyd vs Gasser
+- **Angle:** NEW STORY. Boyd (8-3, 4.05 ERA) in strong form over last 7 starts. Gasser (4-5, 4.57 ERA) for Brewers — favorable G1 draw. Cubs 65-13 when scoring 5+ runs.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, pre-game hype)
+- **Follow-Up Opportunities:**
+  - Boyd's line from tonight's game
+
+### STORY 3: PCA 40-40 Watch — HR No. 40
+- **Angle:** FOLLOW UP. PCA hit HR No. 40 on September 6 in Miami (403 ft). Now 40 HR / 33 SB. Needs 7 more SBs. Only 6 players in MLB history have done 40-40. First Cub with 40 HR + 30 SB.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, bold stat/milestone)
+- **Follow-Up Opportunities:**
+  - Each SB milestone en route to 40-40
+  - SB No. 40 announcement (historic 40-40 achievement)
+  - MVP award framing (November)
+
+### STORY 4: Ian Happ Injury + Cubs IL Update
+- **Angle:** NEW STORY. Happ (left knee discomfort) scratched Sept 6, day-to-day. Team also without Swanson (oblique, ~2 weeks), Steele (60-day IL), Miller. Resilience angle: Cubs still 81-63.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, roster/injury update)
+- **Follow-Up Opportunities:**
+  - Happ IL placement if injury worsens
+  - Swanson return activation announcement
+
+### STORY 5: Misiorowski Warning — Game 2 Is the Real Test
+- **Angle:** NEW STORY. Game 2 (Tuesday, 6:40 PM CT): Peterson (7-8, 5.39 ERA) vs Misiorowski (NL Cy Young frontrunner, sub-2.60 ERA, 300+ K). Framed as the series's real challenge vs today's favorable G1 draw.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, analysis/preview)
+- **Follow-Up Opportunities:**
+  - Peterson vs Misiorowski result (Sept 9 morning)
+
+### STORY 6: NL Wild Card Standings — Cubs Hold WC2 with 18 Left
+- **Angle:** FOLLOW UP. Cubs (81-63) WC2, 5.0 games clear of WC3. Phillies WC1. Padres WC3, D-backs 0.5 back. 18 games to clinch home-field in WC round.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, standings/analysis)
+- **Follow-Up Opportunities:**
+  - Daily standings checks through September
+  - Cubs magic number for WC clinch
+
+---## 2026-09-06
 
 ### STORY 1: Game Recap — Cubs 6, Marlins 5 (September 5)
 - **Angle:** NEW STORY. Hoerner 3-for-4 RBI, Conforto HR+single, Amaya+Busch 2 hits each. 13 hits total. Rolison win No. 8, Zeferjahn save No. 5. Cubs 81-62.
