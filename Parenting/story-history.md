@@ -2,6 +2,60 @@
 
 ---
 
+## September 7, 2026
+
+### Story 1: Labor Day Lift Off Final Day — Last Chance to Attend
+- **Date:** 2026-09-07
+- **Content Pillar:** Local Events
+- **Angle:** FOLLOW UP (Day 3 / Final Day angle) — Last chance to attend; final mass ascension + Balloon Glow tonight. D11/D20/D49 return to school tomorrow (Sep 8). Urgency: today is the last day. Different from Sep 5 (Day 1 / Balloon Glow angle) and Sep 2 (initial announcement). Hook: it ends today, get there.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** Final day Sep 7; Prospect Lake in Memorial Park; free; morning mass ascension + evening Balloon Glow; D11/D20/D49 return Sep 8
+
+### Story 2: Fiestas Patrias This Saturday — Colorado Springs Hispanic Heritage Festival
+- **Date:** 2026-09-07
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Fiestas Patrias returns Saturday, September 12. Free family festival downtown COS (Pioneers Museum area). Live music, dancing, lucha libre, food vendors. Kicks off Hispanic Heritage Month (Sep 15–Oct 15). D11/D20/D49 curriculum angle. Not previously covered in Parenting pipeline.
+- **Byline:** Sarah Morales
+- **Content Produced:** 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only) + Article
+- **Tier:** 2
+- **Key Facts (HIGH):** Saturday September 12; free admission; Colorado Springs downtown; live music, dancing, lucha libre, food vendors; Hispanic Heritage Month starts Sep 15
+- **Follow-up Opportunity:** Post-event recap; Hispanic Heritage Month curriculum resources for D11/D20/D49
+
+### Story 3: GLP-1 Weight Loss Drug Prescriptions for Kids Surged 65% After AAP Guidelines
+- **Date:** 2026-09-07
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — National parenting study angle. AAP 2023 guidelines recommended medication alongside lifestyle changes for childhood obesity. Immediate 65% surge in GLP-1 prescriptions; 5% monthly growth after. Sevenfold increase Oct 2022–Sep 2024 (3,400→24,000 per year). Semaglutide (Wegovy/Ozempic) and liraglutide (Saxenda). GI side effects significant; fewer than 10% of eligible kids prescribed. Back-to-school well-child visit timing angle. Different from Sep 4 HPV vaccines and Sep 3 ADHD articles.
+- **Byline:** Jamie Rivera
+- **Content Produced:** 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only) + Article
+- **Tier:** 2
+- **Key Facts (HIGH):** 65% immediate increase after AAP guidelines; 5% per month ongoing; sevenfold increase Oct 2022–Sep 2024; approx 3,400→24,000 prescriptions/year nationally; semaglutide (Wegovy/Ozempic), liraglutide (Saxenda); fewer than 10% eligible kids prescribed
+- **Key Facts (MEDIUM):** 2026 peer-reviewed review found "significantly improved" blood sugar/weight; GI side effects significantly more common than placebo
+- **Follow-up Opportunity:** Long-term safety data as it emerges; AAP guidelines updates
+
+### Story 4: 1 in 5 Teens Are Asking AI Chatbots for Mental Health Advice
+- **Date:** 2026-09-07
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — AAP News survey finding: 1 in 5 adolescents/young adults has asked AI chatbot for mental health advice. Back-to-school anxiety peak timing. Practical guidance for COS parents: open-ended questions, normalize stress, school counselors (D11/D20/D49), backup trusted adult. Crisis Text Line: HOME to 741741. Different from Sep 5 screen time, Sep 4 HPV vaccine, Sep 3 ADHD articles.
+- **Byline:** Sarah Morales
+- **Content Produced:** 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only) + Article
+- **Tier:** 2
+- **Key Facts (HIGH):** 1 in 5 adolescents asked AI chatbot for mental health advice (AAP survey); D11/D20/D49 all have school counselors; Crisis Text Line: HOME to 741741; NAMI Colorado covers El Paso County
+- **Follow-up Opportunity:** COS-specific youth mental health resources; fall school counselor availability updates
+
+### Story 5: Labor Day Routine Reset — How to Get Back on Track Before Tuesday
+- **Date:** 2026-09-07
+- **Content Pillar:** Evergreen
+- **Angle:** NEW STORY — Evergreen routine reset timed to Labor Day weekend. D49 week 6 / D11 week 4 / D20 week 3 resume Sep 8. AASM sleep recommendations (9-12 hrs ages 6-12, 8-10 hrs teens). Gradual bedtime correction (half-gap tonight). Pack backpack/lay out clothes tonight. Different from Aug 26 Back-to-School Week Check-In and Aug 30 weekly tips.
+- **Byline:** Jamie Rivera
+- **Content Produced:** 1 X Post + FB Long-Form + FB Image Caption + 1 Image Concept (Gemini base_only) + Article
+- **Tier:** 3
+- **Key Facts (HIGH):** AASM: 9-12 hrs sleep for ages 6-12, 8-10 hrs teens; D49 week 6 / D11 week 4 / D20 week 3 on Sep 8; D49 started Aug 3-4 / D11 started Aug 12 / D20 started Aug 17-18
+- **Follow-up Opportunity:** Fall routine tips as school year progresses
+
+---
+
 ## September 5, 2026
 
 ### Story 1: Walmart Mainstays 9-Drawer Fabric Dresser Recall

@@ -1,6 +1,36 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: September 5, 2026
+## Latest Run: September 7, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Labor Day Lift Off final day (Sep 7, Prospect Lake Memorial Park, free, mass ascension + Balloon Glow, D11/D20/D49 return Sep 8); Fiestas Patrias (Sep 12, downtown COS, free, live music/dancing/lucha libre/food, Hispanic Heritage Month Sep 15); GLP-1 drugs for kids (65% surge after AAP 2023 guidelines, 5%/month, sevenfold Oct 2022–Sep 2024, 3,400→24,000/year, semaglutide/liraglutide, <10% eligible kids prescribed); Teen AI mental health (AAP survey 1 in 5 teens, back-to-school anxiety, D11/D20/D49 counselors, Crisis Text Line HOME to 741741); Labor Day routine reset (D49 wk 6/D11 wk 4/D20 wk 3, AASM sleep guidelines, gradual correction) |
+| Story History Check | COMPLETE | S1 Labor Day Lift Off Final Day (FOLLOW UP — distinct from Sep 5 Day 1 / Balloon Glow, Sep 2 announcement — final day urgency angle); S2 Fiestas Patrias (NEW — not previously covered); S3 GLP-1 drugs for kids (NEW — distinct from Sep 4 HPV, Sep 3 ADHD); S4 Teen AI mental health (NEW — distinct from Sep 5 screen time, Sep 4 HPV, Sep 3 ADHD); S5 Labor Day routine reset (NEW — distinct from Aug 26/Aug 30 weekly tips) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (1 Tier 1, 3 Tier 2, 1 Tier 3); bylines: Jamie Rivera (S1, S3, S5), Sarah Morales (S2, S4); posting windows in MT |
+| Research Notes | COMPLETE | 01-research-notes.md |
+| Story Analysis | COMPLETE | 02-story-analysis.md |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 6 posts (2 for S1 Tier 1, 1 each for S2–S5); all ≤280 chars; 4 hashtags each; 0 exclamation marks; post label format fixed (added trailing bracket to prevent metadata-inclusion in char count) |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; no hashtags; engagement questions; COS voice rules applied |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only prompts (5 stories × 2 formats: 1080x1350 social + 1200x630 hero) |
+| Articles (5) | COMPLETE | article-01 Labor Day Lift Off Final Day (Jamie Rivera); article-02 Fiestas Patrias (Sarah Morales); article-03 GLP-1 Drugs for Kids (Jamie Rivera); article-04 Teen AI Mental Health (Sarah Morales); article-05 Labor Day Routine Reset (Jamie Rivera) — all with Quick Reference tables + What's Next sections |
+| Fact-Check | COMPLETE | verify-facts.py — 53 claims extracted; no errors |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 6 X posts, 5 FB posts, 5 articles, 10 images; posting-window warnings expected; fixed label format bug (bare **Post XY** labels caused metadata inclusion in char count) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries (5 stories × 2), all not_started, gemini base_only, model gemini-2.5-flash-image, brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 26 items; image manifest warning expected (images generated separately) |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in session's authorized repository set (403 proxy) — known recurring issue |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser compat issue — both standard and --tobi runs return 0 posts |
+| WordPress Publish | BLOCKED | WP credentials not in session env + 403 proxy block on fanrumor.com:443 — known recurring issues; all 5 articles need manual publish |
+| Story History | COMPLETE | 5 new entries prepended to Parenting/story-history.md (September 7, 2026 section) |
+| Git Commit & Push | COMPLETE | All Parenting content for 2026-09-07 committed and pushed |
+
+## Known Issues (Recurring)
+- WordPress publish: WP credentials expire per-session + 403 proxy block — articles need manual publish
+- PostPlanner export: parser compat issue returns 0 posts every run
+- content-dashboards push: 403 proxy block (not in session authorized repo set)
+- Image manifest warnings from dashboard generator: expected (Gemini image generation is a separate step)
+- X post label format: bare **Post XY** labels (no trailing content) cause metadata inclusion in char count — fixed by adding [Posting Window: X | Tier: Y] to each label line
+
+## Previous Run: September 5, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|
