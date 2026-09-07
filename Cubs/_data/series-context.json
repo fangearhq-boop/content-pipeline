@@ -1,42 +1,58 @@
 {
-  "generated_at": "2026-09-06T08:30:00.683725+00:00",
-  "today_ct": "2026-09-06",
+  "generated_at": "2026-09-07T08:30:00.643137+00:00",
+  "today_ct": "2026-09-07",
   "off_day": false,
-  "is_series_start_today": false,
+  "is_series_start_today": true,
   "series": {
-    "opponent": "Miami Marlins",
-    "opponent_id": 146,
-    "opponent_record": "71-72",
-    "cubs_record": "81-62",
+    "opponent": "Milwaukee Brewers",
+    "opponent_id": 158,
+    "opponent_record": "88-56",
+    "cubs_record": "81-63",
     "is_cubs_home": false,
-    "venue": "loanDepot park",
-    "series_length": 1,
+    "venue": "American Family Field",
+    "series_length": 3,
     "games": [
       {
-        "game_pk": "823822",
-        "game_date_iso": "2026-09-06T17:40:00Z",
-        "game_date_ct": "Sun 12:40 PM CT",
+        "game_pk": "823742",
+        "game_date_iso": "2026-09-07T18:10:00Z",
+        "game_date_ct": "Mon 1:10 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      },
+      {
+        "game_pk": "823738",
+        "game_date_iso": "2026-09-08T23:40:00Z",
+        "game_date_ct": "Tue 6:40 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      },
+      {
+        "game_pk": "823739",
+        "game_date_iso": "2026-09-09T23:40:00Z",
+        "game_date_ct": "Wed 6:40 PM CT",
         "cubs_probable": "TBD",
         "opponent_probable": "TBD",
         "status": "Preview"
       }
     ],
-    "rationale": "Same opponent (Miami Marlins) as yesterday \u2014 this is mid-series, not a series opener."
+    "rationale": "Yesterday vs Miami Marlins; today vs Milwaukee Brewers \u2192 game 1 of 3 (on the road)."
   },
   "today_cubs_game": {
-    "game_pk": "823822",
+    "game_pk": "823742",
     "status": "Preview",
     "detailed_status": "Scheduled",
-    "game_date_iso": "2026-09-06T17:40:00Z",
-    "game_date_ct": "Sun 12:40 PM CT",
+    "game_date_iso": "2026-09-07T18:10:00Z",
+    "game_date_ct": "Mon 1:10 PM CT",
     "is_cubs_home": false,
-    "opponent_id": 146,
-    "opponent_name": "Miami Marlins",
-    "opponent_record": "71-72",
-    "cubs_record": "81-62",
+    "opponent_id": 158,
+    "opponent_name": "Milwaukee Brewers",
+    "opponent_record": "88-56",
+    "cubs_record": "81-63",
     "cubs_probable": "TBD",
     "opponent_probable": "TBD",
-    "venue": "loanDepot park"
+    "venue": "American Family Field"
   },
-  "rationale": "Same opponent (Miami Marlins) as yesterday \u2014 this is mid-series, not a series opener."
+  "rationale": "Yesterday vs Miami Marlins; today vs Milwaukee Brewers \u2192 game 1 of 3 (on the road)."
 }
