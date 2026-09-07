@@ -1,0 +1,2934 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ballpark Banter — Content Review Dashboard</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: #f5f5f5;
+            display: flex;
+            min-height: 100vh;
+            color: #333;
+        }
+
+        .sidebar {
+            width: 280px;
+            background: #1a1a2e;
+            color: white;
+            padding: 30px 20px;
+            position: fixed;
+            height: 100vh;
+            overflow-y: auto;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+            z-index: 10;
+        }
+
+        .sidebar h1 { font-size: 18px; margin-bottom: 10px; color: #FF8A00; font-weight: 700; }
+        .sidebar-date { font-size: 12px; color: #aaa; margin-bottom: 30px; padding-bottom: 20px; border-bottom: 1px solid #333; }
+        .sidebar-section { margin-bottom: 25px; }
+        .sidebar-section-title { font-size: 12px; text-transform: uppercase; color: #999; margin-bottom: 12px; font-weight: 600; letter-spacing: 1px; }
+
+        .nav-item {
+            display: block; padding: 12px 15px; margin-bottom: 8px; border-radius: 6px;
+            cursor: pointer; transition: all 0.3s ease; font-size: 14px; color: #ddd; user-select: none;
+        }
+        .nav-item:hover { background: #2d2d44; color: #FF8A00; }
+        .nav-item.active { background: #FF8A00; color: white; }
+        .nav-item-count { float: right; background: rgba(255, 107, 53, 0.3); padding: 2px 8px; border-radius: 3px; font-size: 12px; }
+        .nav-item.active .nav-item-count { background: rgba(0, 0, 0, 0.2); }
+
+        .main-content { margin-left: 280px; flex: 1; display: flex; flex-direction: column; }
+
+        .header {
+            background: white; padding: 25px 40px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-bottom: 3px solid #FF8A00;
+        }
+        .header h1 { font-size: 28px; color: #1a1a2e; margin-bottom: 10px; }
+        .header-meta { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px; }
+        .progress-bar { flex: 1; min-width: 200px; }
+        .progress-label { font-size: 13px; color: #666; margin-bottom: 8px; font-weight: 500; }
+        .progress-container { width: 100%; height: 8px; background: #ddd; border-radius: 4px; overflow: hidden; }
+        .progress-fill { height: 100%; background: linear-gradient(90deg, #FF8A00, #E53935); transition: width 0.3s ease; }
+        .header-actions { display: flex; gap: 10px; }
+
+        .btn {
+            padding: 10px 16px; border: none; border-radius: 6px; font-size: 14px;
+            font-weight: 600; cursor: pointer; transition: all 0.3s ease; white-space: nowrap;
+        }
+        .btn-primary { background: #FF8A00; color: white; }
+        .btn-primary:hover { background: #E53935; }
+        .btn-secondary { background: #f0f0f0; color: #333; }
+        .btn-secondary:hover { background: #e0e0e0; }
+
+        .filter-bar {
+            background: white; padding: 20px 40px; display: flex;
+            gap: 10px; flex-wrap: wrap; border-bottom: 1px solid #eee;
+        }
+        .filter-btn {
+            padding: 8px 14px; border: 1px solid #ddd; background: white;
+            border-radius: 5px; cursor: pointer; font-size: 13px; transition: all 0.3s ease;
+        }
+        .filter-btn:hover { border-color: #FF8A00; color: #FF8A00; }
+        .filter-btn.active { background: #FF8A00; color: white; border-color: #FF8A00; }
+
+        .content { flex: 1; padding: 30px 40px; overflow-y: auto; }
+
+        .cards-container { display: flex; flex-direction: column; gap: 20px; max-width: 900px; }
+
+        .card {
+            background: white; border-radius: 8px; padding: 24px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1); transition: all 0.3s ease;
+            border-left: 5px solid #ccc; display: none;
+        }
+        .card.show { display: block; }
+        .card.approved { border-left-color: #22c55e; }
+        .card.needs-edit { border-left-color: #eab308; }
+        .card.rejected { border-left-color: #ef4444; }
+        .card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.12); }
+
+        .card-header { display: flex; justify-content: space-between; align-items: start; margin-bottom: 15px; }
+        .card-title { font-size: 16px; font-weight: 600; color: #1a1a2e; flex: 1; margin-right: 10px; }
+
+        .card-badge {
+            display: inline-block; padding: 4px 10px; border-radius: 4px;
+            font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;
+        }
+        .badge-x-post { background: #1da1f2; color: white; }
+        .badge-facebook { background: #4267b2; color: white; }
+        .badge-article { background: #9333ea; color: white; }
+        .badge-image { background: #06b6d4; color: white; }
+        .badge-brief { background: #10b981; color: white; }
+
+        .fact-check-badge {
+            display: inline-block; padding: 3px 8px; border-radius: 4px;
+            font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;
+            margin-left: 6px;
+        }
+        .fact-check-verified { background: #dcfce7; color: #166534; border: 1px solid #86efac; }
+        .fact-check-warning { background: #fef9c3; color: #854d0e; border: 1px solid #fde047; }
+        .fact-check-unverified { background: #fee2e2; color: #991b1b; border: 1px solid #fca5a5; }
+
+        /* Content area — preview (collapsed) and full (expanded) */
+        .card-content {
+            background: #f9f9f9; padding: 15px; border-radius: 6px;
+            margin-bottom: 15px; font-size: 13px; line-height: 1.6; color: #555;
+            position: relative;
+        }
+        .card-content-text {
+            white-space: pre-wrap; word-break: break-word;
+        }
+
+        /* Collapsed state: limit height with fade */
+        .card-content.collapsed {
+            max-height: 200px; overflow: hidden;
+        }
+        .card-content.collapsed::after {
+            content: '';
+            position: absolute; bottom: 0; left: 0; right: 0; height: 60px;
+            background: linear-gradient(transparent, #f9f9f9);
+            pointer-events: none;
+        }
+
+        /* Expanded state: no limit */
+        .card-content.expanded {
+            max-height: none; overflow: visible;
+        }
+        .card-content.expanded::after { display: none; }
+
+        .expand-toggle {
+            display: inline-block; margin-bottom: 12px; padding: 6px 14px;
+            background: #eee; border: 1px solid #ddd; border-radius: 4px;
+            cursor: pointer; font-size: 12px; font-weight: 600; color: #555;
+            transition: all 0.2s ease;
+        }
+        .expand-toggle:hover { background: #ddd; color: #333; }
+
+        /* Inline editing */
+        .edit-textarea {
+            width: 100%; padding: 15px; border: 2px solid #FF8A00;
+            border-radius: 6px; font-size: 13px; font-family: inherit;
+            line-height: 1.6; resize: vertical; min-height: 200px;
+            background: #fffef5; color: #333; display: none;
+        }
+        .edit-textarea:focus {
+            outline: none; box-shadow: 0 0 0 3px rgba(255, 107, 53, 0.15);
+        }
+        .card.editing .card-content { display: none; }
+        .card.editing .edit-textarea { display: block; }
+        .card.editing .expand-toggle { display: none; }
+
+        .edit-bar {
+            display: none; gap: 8px; margin-bottom: 12px; padding: 10px;
+            background: #fff8f0; border: 1px solid #ffcc99; border-radius: 6px;
+            align-items: center;
+        }
+        .card.editing .edit-bar { display: flex; }
+        .edit-bar-label { font-size: 12px; font-weight: 600; color: #cc6600; flex: 1; }
+        .edit-bar .btn { padding: 7px 14px; font-size: 12px; }
+
+        .tweet-meta-bar {
+            display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; padding: 0;
+        }
+        .tweet-meta-badge {
+            display: inline-block; padding: 4px 10px; border-radius: 4px;
+            font-size: 11px; font-weight: 600; letter-spacing: 0.3px;
+        }
+        .tweet-meta-label { background: #e0e7ff; color: #3730a3; }
+        .tweet-meta-time { background: #fef3c7; color: #92400e; }
+        .tweet-meta-type { background: #d1fae5; color: #065f46; }
+        .tweet-meta-tier { background: #f3e8ff; color: #6b21a8; }
+        .tweet-meta-hashtags { background: #dbeafe; color: #1e40af; font-family: monospace; }
+
+        .char-count {
+            font-size: 12px; margin: 0 0 10px 0; padding: 8px;
+            background: #f0f0f0; border-radius: 4px;
+        }
+        .char-count.warning { background: #fee2e2; color: #991b1b; }
+
+        .card-actions { display: flex; gap: 8px; margin-bottom: 12px; flex-wrap: wrap; }
+        .action-btn {
+            flex: 1; padding: 10px; border: none; border-radius: 5px;
+            cursor: pointer; font-size: 13px; font-weight: 600;
+            transition: all 0.3s ease; white-space: nowrap; min-width: 100px;
+        }
+        .btn-approve { background: #e8f5e9; color: #22c55e; border: 1px solid #22c55e; }
+        .btn-approve:hover { background: #22c55e; color: white; }
+        .btn-edit { background: #fff3e0; color: #e65100; border: 1px solid #ff9800; }
+        .btn-edit:hover { background: #ff9800; color: white; }
+        .btn-reject { background: #fee2e2; color: #ef4444; border: 1px solid #ef4444; }
+        .btn-reject:hover { background: #ef4444; color: white; }
+        .btn-copy { background: #f0f0f0; color: #333; border: 1px solid #ddd; }
+        .btn-copy:hover { background: #e0e0e0; }
+
+        .notes-section { display: none; margin-bottom: 12px; }
+        .notes-section.show { display: block; }
+        .notes-label { font-size: 12px; font-weight: 600; color: #666; margin-bottom: 6px; }
+        .notes-textarea {
+            width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px;
+            font-size: 13px; font-family: inherit; resize: vertical; min-height: 60px;
+        }
+        .notes-textarea:focus { outline: none; border-color: #FF8A00; box-shadow: 0 0 0 3px rgba(255, 107, 53, 0.1); }
+
+        .status-label {
+            font-size: 11px; font-weight: 600; text-transform: uppercase;
+            padding: 4px 8px; border-radius: 3px; margin-top: 10px; display: inline-block;
+        }
+        .status-approved { background: #e8f5e9; color: #22c55e; }
+        .status-needs-edit { background: #fffbeb; color: #f59e0b; }
+        .status-rejected { background: #fee2e2; color: #ef4444; }
+        .status-edited { background: #e3f2fd; color: #1565c0; }
+
+        .empty-state { text-align: center; padding: 60px 20px; color: #999; }
+        .empty-state-icon { font-size: 48px; margin-bottom: 15px; }
+
+        /* Approval stats bar */
+        .approval-stats {
+            display: flex; gap: 16px; margin-top: 12px; flex-wrap: wrap;
+        }
+        .stat-chip {
+            display: inline-flex; align-items: center; gap: 6px;
+            padding: 4px 12px; border-radius: 20px; font-size: 13px; font-weight: 600;
+        }
+        .stat-approved { background: #dcfce7; color: #16a34a; }
+        .stat-rejected { background: #fee2e2; color: #dc2626; }
+        .stat-unreviewed { background: #f3f4f6; color: #6b7280; }
+        .stat-dot { width: 8px; height: 8px; border-radius: 50%; }
+        .stat-approved .stat-dot { background: #22c55e; }
+        .stat-rejected .stat-dot { background: #ef4444; }
+        .stat-unreviewed .stat-dot { background: #9ca3af; }
+
+        /* PostPlanner XLSX button */
+        .btn-csv { background: #7c3aed; color: white; }
+        .btn-csv:hover { background: #6d28d9; }
+        .btn-csv:disabled { background: #c4b5fd; cursor: not-allowed; }
+
+        /* Schedule settings panel */
+        .schedule-panel {
+            display: none; position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%);
+            background: white; border-radius: 12px; padding: 30px; z-index: 1000;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3); width: 500px; max-width: 90vw; max-height: 80vh; overflow-y: auto;
+        }
+        .schedule-panel.show { display: block; }
+        .schedule-overlay { display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.5); z-index: 999; }
+        .schedule-overlay.show { display: block; }
+        .schedule-panel h3 { color: #1a1a2e; margin-bottom: 20px; font-size: 18px; }
+        .schedule-section { margin-bottom: 20px; }
+        .schedule-section label { display: block; font-size: 13px; font-weight: 600; color: #555; margin-bottom: 6px; }
+        .schedule-section input { width: 100%; padding: 8px 12px; border: 1px solid #ddd; border-radius: 4px; font-size: 14px; }
+        .schedule-section input:focus { outline: none; border-color: #7c3aed; }
+        .time-slots { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; }
+        .time-slot {
+            display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px;
+            background: #f3f0ff; border: 1px solid #c4b5fd; border-radius: 20px; font-size: 13px;
+        }
+        .time-slot .remove-slot { cursor: pointer; color: #999; font-weight: bold; }
+        .time-slot .remove-slot:hover { color: #ef4444; }
+        .add-slot-btn {
+            padding: 6px 14px; background: #f3f0ff; border: 1px dashed #7c3aed; border-radius: 20px;
+            cursor: pointer; font-size: 13px; color: #7c3aed;
+        }
+        .add-slot-btn:hover { background: #ede9fe; }
+        .schedule-actions { display: flex; gap: 10px; justify-content: flex-end; margin-top: 20px; }
+
+        /* Photo search links for image concepts */
+        .photo-section {
+            margin-bottom: 15px; padding: 12px; background: #f0f9ff;
+            border: 1px solid #bae6fd; border-radius: 6px;
+        }
+        .photo-section-title {
+            font-size: 12px; font-weight: 700; color: #0369a1; text-transform: uppercase;
+            letter-spacing: 0.5px; margin-bottom: 8px;
+        }
+        .photo-links { display: flex; flex-wrap: wrap; gap: 6px; }
+        .photo-link {
+            display: inline-block; padding: 6px 12px; background: #0ea5e9;
+            color: white; border-radius: 4px; font-size: 12px; font-weight: 500;
+            text-decoration: none; transition: all 0.2s ease; cursor: pointer;
+        }
+        .photo-link:hover { background: #0284c7; }
+
+        /* Image URL input and preview for image concepts */
+        .image-url-section {
+            margin-bottom: 15px; padding: 12px; background: #f0fdf4;
+            border: 1px solid #bbf7d0; border-radius: 6px;
+        }
+        .image-url-section label {
+            display: block; font-size: 12px; font-weight: 700; color: #166534;
+            text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 6px;
+        }
+        .image-url-input {
+            width: 100%; padding: 8px 10px; border: 1px solid #86efac;
+            border-radius: 4px; font-size: 13px; font-family: monospace;
+            background: white; box-sizing: border-box;
+        }
+        .image-url-input:focus { outline: none; border-color: #22c55e; box-shadow: 0 0 0 2px rgba(34,197,94,0.2); }
+        .image-url-hint {
+            font-size: 11px; color: #6b7280; margin-top: 4px;
+        }
+        .image-preview {
+            margin-top: 8px; text-align: center;
+        }
+        .image-preview img {
+            max-width: 100%; max-height: 200px; border-radius: 4px;
+            border: 1px solid #d1d5db; display: none;
+        }
+        .image-preview img.loaded { display: inline-block; }
+
+        /* Image production status badges */
+        .image-badge {
+            display: inline-block; padding: 2px 8px; border-radius: 3px;
+            font-size: 10px; font-weight: 700; text-transform: uppercase;
+            letter-spacing: 0.5px; margin-left: 6px;
+        }
+        .image-exported { background: #dcfce7; color: #166534; }
+        .image-in-progress { background: #fef3c7; color: #92400e; }
+        .image-not-started { background: #f3f4f6; color: #6b7280; }
+
+        /* Text overlay preview for image concepts */
+        .overlay-section {
+            margin-bottom: 15px; padding: 15px; background: #1a1a2e;
+            border-radius: 6px; text-align: center;
+        }
+        .overlay-line {
+            font-family: 'Bebas Neue', Impact, 'Arial Black', sans-serif;
+            color: #ffd700; font-size: 18px; font-weight: 700; line-height: 1.4;
+            text-transform: uppercase; letter-spacing: 1px;
+        }
+        .overlay-line.sub { color: #ffffff; font-size: 14px; font-weight: 400; letter-spacing: 0; text-transform: none; }
+
+        /* Article content rendered as HTML */
+        .article-frame {
+            width: 100%; border: 1px solid #ddd; border-radius: 6px;
+            background: white; min-height: 300px;
+        }
+
+        @media (max-width: 768px) {
+            .sidebar { width: 100%; height: auto; position: relative; padding: 20px; }
+            .main-content { margin-left: 0; }
+            .content { padding: 20px; }
+            .header { padding: 15px 20px; }
+            .header h1 { font-size: 20px; }
+            .filter-bar { padding: 15px 20px; }
+            .header-meta { flex-direction: column; align-items: stretch; }
+            .progress-bar { min-width: auto; }
+        }
+
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: #f1f1f1; }
+        ::-webkit-scrollbar-thumb { background: #888; border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: #555; }
+    </style>
+</head>
+<body>
+    <div class="sidebar">
+        <h1>Ballpark Banter</h1>
+        <div class="sidebar-date">Review Dashboard<br>2026-09-07</div>
+
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Content Types</div>
+            <div class="nav-item" onclick="filterByType('daily_brief')">
+                Daily Brief
+                <span class="nav-item-count">5</span>
+            </div>
+            <div class="nav-item" onclick="filterByType('x_post')">
+                X / Twitter Posts
+                <span class="nav-item-count">5</span>
+            </div>
+            <div class="nav-item" onclick="filterByType('article')">
+                Articles
+                <span class="nav-item-count">5</span>
+            </div>
+            <div class="nav-item" onclick="filterByType('image_concept')">
+                Image Concepts
+                <span class="nav-item-count">5</span>
+            </div>
+
+            <div class="nav-item" onclick="filterByType('all')">
+                All Items
+                <span class="nav-item-count">20</span>
+            </div>
+        </div>
+
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Status Filter</div>
+            <div class="nav-item" onclick="filterByStatus('all')">All</div>
+            <div class="nav-item" onclick="filterByStatus('unreviewed')">Unreviewed</div>
+            <div class="nav-item" onclick="filterByStatus('approved')">Approved</div>
+            <div class="nav-item" onclick="filterByStatus('needs-edit')">Needs Edit</div>
+            <div class="nav-item" onclick="filterByStatus('rejected')">Rejected</div>
+        </div>
+
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Actions</div>
+            <div class="nav-item" onclick="approveAll()" style="color: #22c55e;">
+                Approve All
+            </div>
+            <div class="nav-item" onclick="exportApprovals()" style="color: #FF8A00;">
+                Export Results JSON
+            </div>
+            <div class="nav-item" onclick="downloadPostPlannerCSV()" style="color: #a78bfa;">
+                PostPlanner Upload
+            </div>
+            <div class="nav-item" onclick="downloadTOBIExport()" style="color: #f472b6;">
+                TOBI Upload
+            </div>
+        </div>
+    </div>
+
+    <div class="main-content">
+        <div class="header">
+            <h1>Ballpark Banter — Content Review Dashboard</h1>
+            <div class="header-meta">
+                <div class="progress-bar">
+                    <div class="progress-label">
+                        <span id="reviewed-count">0</span> of <span id="total-count">20</span> items reviewed
+                    </div>
+                    <div class="progress-container">
+                        <div class="progress-fill" id="progress-fill" style="width: 0%"></div>
+                    </div>
+                    <div class="approval-stats" id="approval-stats">
+                        <span class="stat-chip stat-approved"><span class="stat-dot"></span> <span id="stat-approved-count">0</span> approved</span>
+                        <span class="stat-chip stat-rejected"><span class="stat-dot"></span> <span id="stat-rejected-count">0</span> rejected</span>
+                        <span class="stat-chip stat-unreviewed"><span class="stat-dot"></span> <span id="stat-unreviewed-count">0</span> unreviewed</span>
+                    </div>
+                </div>
+                <div class="header-actions">
+                    <button class="btn btn-secondary" onclick="resetAll()">Reset All</button>
+                    <button class="btn btn-csv" id="btn-csv" onclick="downloadPostPlannerCSV()" disabled>PostPlanner Upload (0 approved)</button>
+                    <button class="btn btn-csv" id="btn-tobi" onclick="downloadTOBIExport()" disabled style="background: #831843; border-color: #f472b6;">TOBI Upload (0 approved)</button>
+                    <button class="btn btn-primary" onclick="exportApprovals()">Export JSON</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="filter-bar">
+            <button class="filter-btn active" onclick="filterByStatus('all')">All</button>
+            <button class="filter-btn" onclick="filterByStatus('unreviewed')">Unreviewed</button>
+            <button class="filter-btn" onclick="filterByStatus('approved')">Approved</button>
+            <button class="filter-btn" onclick="filterByStatus('needs-edit')">Needs Edit</button>
+            <button class="filter-btn" onclick="filterByStatus('rejected')">Rejected</button>
+        </div>
+
+
+        <div class="content">
+            <div class="cards-container" id="cards-container">
+                <div class="card" data-id="story-1-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">PCA Hits No. 40 — Now 7 Steals From Baseball Immortality</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-1-daily_brief">
+                        <div class="card-content-text">PCA Hits No. 40 — Now 7 Steals From Baseball Immortality</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-1-daily_brief" placeholder="Edit content here...">PCA Hits No. 40 — Now 7 Steals From Baseball Immortality</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-1-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-1-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-1-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-1-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-1-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-1-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-1-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-1-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-1-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-1-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-1-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-1-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">PCA Hits No. 40 — Now 7 Steals From Baseball Immortality</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 1</span><span class="tweet-meta-badge tweet-meta-tier">Tier 0</span><span class="tweet-meta-badge tweet-meta-hashtags">#Cubs</span></div>
+
+                    <div class="card-content expanded" id="content-story-1-x_post-1">
+                        <div class="card-content-text">**Text Post 1** [8:00 AM]
+PCA is at 40 HR and 33 SB.
+
+Seven stolen bases. 21 games. That&#x27;s all that stands between him and the most exclusive club in baseball.
+
+The 40-40 club: Canseco. Bonds. A-Rod. Soriano. Acuña. Ohtani. And maybe PCA. #Cubs</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-1-x_post-1" placeholder="Edit content here...">**Text Post 1** [8:00 AM]
+PCA is at 40 HR and 33 SB.
+
+Seven stolen bases. 21 games. That&#x27;s all that stands between him and the most exclusive club in baseball.
+
+The 40-40 club: Canseco. Bonds. A-Rod. Soriano. Acuña. Ohtani. And maybe PCA. #Cubs</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-1-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-1-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-1-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-1-x_post-1">Characters: 244/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-1-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-1-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-1-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-1-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-1-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-1-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-1-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-1-x_post-1"></div>
+                </div>
+                <div class="card" data-id="story-1-image_concept" data-type="image_concept" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">PCA Hits No. 40 — Now 7 Steals From Baseball Immortality — Image Concept</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-image">IMAGE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-1-image_concept">
+                        <div class="card-content-text">**Image — **
+</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-1-image_concept" placeholder="Edit content here...">**Image — **
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-1-image_concept">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-1-image_concept')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-1-image_concept')">Cancel</button>
+                    </div>
+                    
+                    <div class="image-url-section">
+                        <label>Selected Image URL <span class="image-badge image-not-started" title="No image manifest found">NO IMAGES</span></label>
+                        <input type="text" class="image-url-input"
+                               data-story="1" data-platform="facebook_image"
+                               placeholder="Paste Imagn or exported image URL here"
+                               value=""
+                               onchange="updateImageURL(this)"
+                               onpaste="setTimeout(function(){ updateImageURL(event.target) }, 100)">
+                        <div class="image-url-hint">Copy the direct image URL from your photo source after selecting</div>
+                        <div class="image-preview">
+                            <img src="" alt="Image preview" class=""
+                                 id="img-preview-1-facebook_image"
+                                 onerror="this.classList.remove('loaded')">
+                        </div>
+                    </div>
+
+                    <div class="card-actions" id="actions-story-1-image_concept">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-1-image_concept')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-1-image_concept')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-1-image_concept')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-1-image_concept')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-1-image_concept">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-1-image_concept" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-1-image_concept"></div>
+                </div>
+                <div class="card" data-id="story-2-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Misiorowski&#x27;s Bounce-Back Start — Today/Tomorrow at Wrigley</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-2-daily_brief">
+                        <div class="card-content-text">Misiorowski&#x27;s Bounce-Back Start — Today/Tomorrow at Wrigley</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-2-daily_brief" placeholder="Edit content here...">Misiorowski&#x27;s Bounce-Back Start — Today/Tomorrow at Wrigley</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-2-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-2-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-2-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-2-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-2-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-2-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-2-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-2-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-2-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-2-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-2-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-2-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Misiorowski&#x27;s Bounce-Back Start — Today/Tomorrow at Wrigley</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 2</span><span class="tweet-meta-badge tweet-meta-tier">Tier 0</span><span class="tweet-meta-badge tweet-meta-hashtags">#Brewers</span></div>
+
+                    <div class="card-content expanded" id="content-story-2-x_post-1">
+                        <div class="card-content-text">**Text Post 1** [10:30 AM]
+Misiorowski back on the mound today or tomorrow vs the Cubs.
+
+His only rough outing of 2026 (5 ER, 4 IP on Sept. 3) snapped a 26-start streak. Cy Young frontrunner (-750) answers back on extra rest.
+
+Wrigley, round two. #Brewers</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-2-x_post-1" placeholder="Edit content here...">**Text Post 1** [10:30 AM]
+Misiorowski back on the mound today or tomorrow vs the Cubs.
+
+His only rough outing of 2026 (5 ER, 4 IP on Sept. 3) snapped a 26-start streak. Cy Young frontrunner (-750) answers back on extra rest.
+
+Wrigley, round two. #Brewers</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-2-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-2-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-2-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-2-x_post-1">Characters: 255/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-2-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-2-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-2-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-2-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-2-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-2-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-2-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-2-x_post-1"></div>
+                </div>
+                <div class="card" data-id="story-2-image_concept" data-type="image_concept" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Misiorowski&#x27;s Bounce-Back Start — Today/Tomorrow at Wrigley — Image Concept</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-image">IMAGE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-2-image_concept">
+                        <div class="card-content-text">**Image — **
+</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-2-image_concept" placeholder="Edit content here...">**Image — **
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-2-image_concept">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-2-image_concept')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-2-image_concept')">Cancel</button>
+                    </div>
+                    
+                    <div class="image-url-section">
+                        <label>Selected Image URL <span class="image-badge image-not-started" title="No image manifest found">NO IMAGES</span></label>
+                        <input type="text" class="image-url-input"
+                               data-story="2" data-platform="facebook_image"
+                               placeholder="Paste Imagn or exported image URL here"
+                               value=""
+                               onchange="updateImageURL(this)"
+                               onpaste="setTimeout(function(){ updateImageURL(event.target) }, 100)">
+                        <div class="image-url-hint">Copy the direct image URL from your photo source after selecting</div>
+                        <div class="image-preview">
+                            <img src="" alt="Image preview" class=""
+                                 id="img-preview-2-facebook_image"
+                                 onerror="this.classList.remove('loaded')">
+                        </div>
+                    </div>
+
+                    <div class="card-actions" id="actions-story-2-image_concept">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-2-image_concept')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-2-image_concept')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-2-image_concept')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-2-image_concept')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-2-image_concept">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-2-image_concept" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-2-image_concept"></div>
+                </div>
+                <div class="card" data-id="story-3-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Yordan Alvarez&#x27;s Triple Crown — 21 Games to Make History</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-3-daily_brief">
+                        <div class="card-content-text">Yordan Alvarez&#x27;s Triple Crown — 21 Games to Make History</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-3-daily_brief" placeholder="Edit content here...">Yordan Alvarez&#x27;s Triple Crown — 21 Games to Make History</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-3-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-3-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-3-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-3-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-3-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-3-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-3-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-3-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-3-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-3-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-3-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-3-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Yordan Alvarez&#x27;s Triple Crown — 21 Games to Make History</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 3</span><span class="tweet-meta-badge tweet-meta-tier">Tier 0</span><span class="tweet-meta-badge tweet-meta-hashtags">#Astros #MLB</span></div>
+
+                    <div class="card-content expanded" id="content-story-3-x_post-1">
+                        <div class="card-content-text">**Text Post 1** [12:30 PM]
+Yordan Alvarez leads the AL Triple Crown in all three categories.
+
+BA: .317. HR: 37 (tied Caminero). RBI: 94 (tied Alonso).
+
+Last AL Triple Crown winner: Cabrera. 2012. That&#x27;s 14 years without one.
+
+21 games left. Can Yordan hold all three? #Astros #MLB</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-3-x_post-1" placeholder="Edit content here...">**Text Post 1** [12:30 PM]
+Yordan Alvarez leads the AL Triple Crown in all three categories.
+
+BA: .317. HR: 37 (tied Caminero). RBI: 94 (tied Alonso).
+
+Last AL Triple Crown winner: Cabrera. 2012. That&#x27;s 14 years without one.
+
+21 games left. Can Yordan hold all three? #Astros #MLB</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-3-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-3-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-3-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-3-x_post-1">Characters: 280/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-3-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-3-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-3-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-3-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-3-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-3-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-3-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-3-x_post-1"></div>
+                </div>
+                <div class="card" data-id="story-3-image_concept" data-type="image_concept" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Yordan Alvarez&#x27;s Triple Crown — 21 Games to Make History — Image Concept</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-image">IMAGE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-3-image_concept">
+                        <div class="card-content-text">**Image — **
+</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-3-image_concept" placeholder="Edit content here...">**Image — **
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-3-image_concept">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-3-image_concept')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-3-image_concept')">Cancel</button>
+                    </div>
+                    
+                    <div class="image-url-section">
+                        <label>Selected Image URL <span class="image-badge image-not-started" title="No image manifest found">NO IMAGES</span></label>
+                        <input type="text" class="image-url-input"
+                               data-story="3" data-platform="facebook_image"
+                               placeholder="Paste Imagn or exported image URL here"
+                               value=""
+                               onchange="updateImageURL(this)"
+                               onpaste="setTimeout(function(){ updateImageURL(event.target) }, 100)">
+                        <div class="image-url-hint">Copy the direct image URL from your photo source after selecting</div>
+                        <div class="image-preview">
+                            <img src="" alt="Image preview" class=""
+                                 id="img-preview-3-facebook_image"
+                                 onerror="this.classList.remove('loaded')">
+                        </div>
+                    </div>
+
+                    <div class="card-actions" id="actions-story-3-image_concept">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-3-image_concept')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-3-image_concept')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-3-image_concept')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-3-image_concept')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-3-image_concept">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-3-image_concept" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-3-image_concept"></div>
+                </div>
+                <div class="card" data-id="story-4-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Ohtani Expected Back Today vs Cincinnati</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-4-daily_brief">
+                        <div class="card-content-text">Ohtani Expected Back Today vs Cincinnati</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-4-daily_brief" placeholder="Edit content here...">Ohtani Expected Back Today vs Cincinnati</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-4-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-4-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-4-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-4-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-4-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-4-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-4-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-4-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-4-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-4-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-4-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-4-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Ohtani Expected Back Today vs Cincinnati</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 4</span><span class="tweet-meta-badge tweet-meta-tier">Tier 0</span><span class="tweet-meta-badge tweet-meta-hashtags">#Dodgers</span></div>
+
+                    <div class="card-content expanded" id="content-story-4-x_post-1">
+                        <div class="card-content-text">**Text Post 1** [10:30 AM]
+Ohtani back in the Dodgers lineup TODAY vs Cincinnati.
+
+Four straight games missed: left knee, bicep, neck.
+
+Batting .137 since Aug. 18. Pitching return in 2026? Roberts says no — that&#x27;s 2027.
+
+#Dodgers</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-4-x_post-1" placeholder="Edit content here...">**Text Post 1** [10:30 AM]
+Ohtani back in the Dodgers lineup TODAY vs Cincinnati.
+
+Four straight games missed: left knee, bicep, neck.
+
+Batting .137 since Aug. 18. Pitching return in 2026? Roberts says no — that&#x27;s 2027.
+
+#Dodgers</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-4-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-4-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-4-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-4-x_post-1">Characters: 229/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-4-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-4-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-4-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-4-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-4-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-4-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-4-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-4-x_post-1"></div>
+                </div>
+                <div class="card" data-id="story-4-image_concept" data-type="image_concept" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Ohtani Expected Back Today vs Cincinnati — Image Concept</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-image">IMAGE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-4-image_concept">
+                        <div class="card-content-text">**Image — **
+</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-4-image_concept" placeholder="Edit content here...">**Image — **
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-4-image_concept">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-4-image_concept')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-4-image_concept')">Cancel</button>
+                    </div>
+                    
+                    <div class="image-url-section">
+                        <label>Selected Image URL <span class="image-badge image-not-started" title="No image manifest found">NO IMAGES</span></label>
+                        <input type="text" class="image-url-input"
+                               data-story="4" data-platform="facebook_image"
+                               placeholder="Paste Imagn or exported image URL here"
+                               value=""
+                               onchange="updateImageURL(this)"
+                               onpaste="setTimeout(function(){ updateImageURL(event.target) }, 100)">
+                        <div class="image-url-hint">Copy the direct image URL from your photo source after selecting</div>
+                        <div class="image-preview">
+                            <img src="" alt="Image preview" class=""
+                                 id="img-preview-4-facebook_image"
+                                 onerror="this.classList.remove('loaded')">
+                        </div>
+                    </div>
+
+                    <div class="card-actions" id="actions-story-4-image_concept">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-4-image_concept')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-4-image_concept')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-4-image_concept')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-4-image_concept')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-4-image_concept">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-4-image_concept" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-4-image_concept"></div>
+                </div>
+                <div class="card" data-id="story-5-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">NL Wild Card Race Entering September Crunch</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-5-daily_brief">
+                        <div class="card-content-text">NL Wild Card Race Entering September Crunch</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-5-daily_brief" placeholder="Edit content here...">NL Wild Card Race Entering September Crunch</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-5-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-5-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-5-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-5-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-5-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-5-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-5-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-5-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-5-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-5-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-5-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-5-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">NL Wild Card Race Entering September Crunch</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 5</span><span class="tweet-meta-badge tweet-meta-tier">Tier 0</span><span class="tweet-meta-badge tweet-meta-hashtags">#MLB</span></div>
+
+                    <div class="card-content expanded" id="content-story-5-x_post-1">
+                        <div class="card-content-text">**Text Post 1** [3:00 PM]
+The NL Wild Card race with 21 games left:
+
+WC1: Cubs (+0.5 over Phillies)
+WC2: Phillies
+WC3: D-backs (+0.5 over Padres)
+
+Cardinals: 71-72, fading fast. Wild Card Series: Sept. 29.
+
+No margin left. #MLB</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-5-x_post-1" placeholder="Edit content here...">**Text Post 1** [3:00 PM]
+The NL Wild Card race with 21 games left:
+
+WC1: Cubs (+0.5 over Phillies)
+WC2: Phillies
+WC3: D-backs (+0.5 over Padres)
+
+Cardinals: 71-72, fading fast. Wild Card Series: Sept. 29.
+
+No margin left. #MLB</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-5-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-5-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-5-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-5-x_post-1">Characters: 227/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-5-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-5-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-5-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-5-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-5-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-5-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-5-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-5-x_post-1"></div>
+                </div>
+                <div class="card" data-id="story-5-image_concept" data-type="image_concept" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">NL Wild Card Race Entering September Crunch — Image Concept</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-image">IMAGE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-5-image_concept">
+                        <div class="card-content-text">**Image — **
+</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-5-image_concept" placeholder="Edit content here...">**Image — **
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-5-image_concept">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-5-image_concept')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-5-image_concept')">Cancel</button>
+                    </div>
+                    
+                    <div class="image-url-section">
+                        <label>Selected Image URL <span class="image-badge image-not-started" title="No image manifest found">NO IMAGES</span></label>
+                        <input type="text" class="image-url-input"
+                               data-story="5" data-platform="facebook_image"
+                               placeholder="Paste Imagn or exported image URL here"
+                               value=""
+                               onchange="updateImageURL(this)"
+                               onpaste="setTimeout(function(){ updateImageURL(event.target) }, 100)">
+                        <div class="image-url-hint">Copy the direct image URL from your photo source after selecting</div>
+                        <div class="image-preview">
+                            <img src="" alt="Image preview" class=""
+                                 id="img-preview-5-facebook_image"
+                                 onerror="this.classList.remove('loaded')">
+                        </div>
+                    </div>
+
+                    <div class="card-actions" id="actions-story-5-image_concept">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-5-image_concept')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-5-image_concept')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-5-image_concept')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-5-image_concept')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-5-image_concept">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-5-image_concept" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-5-image_concept"></div>
+                </div>
+                <div class="card" data-id="article-article-01-pca-40-40-chase" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">PCA Hits No. 40: Seven Steals From the Most Exclusive Club in Baseball</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-01-pca-40-40-chase">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<title>PCA Hits No. 40: Seven Steals From the Most Exclusive Club in Baseball</title>
+</head>
+<body>
+<article>
+<header>
+<h1>PCA Hits No. 40: Seven Steals From the Most Exclusive Club in Baseball</h1>
+<p class=&quot;byline&quot;>By Marcus Cole | September 7, 2026</p>
+<p class=&quot;category&quot;>Chicago Cubs</p>
+</header>
+
+<section>
+<p>Pete Crow-Armstrong hit his 40th home run of the 2026 season on Sunday, and now the only thing standing between him and baseball immortality is seven stolen bases.</p>
+
+<p>PCA pulled a sweeper from Miami Marlins pitcher Tyler Phillips into the right-field seats in the fifth inning at Marlins Park, clearing the first and most dramatic half of the 40-40 threshold. The Cubs lost the game 10-3, but the loss was an afterthought. What matters now is the math.</p>
+
+<p>He has 33 stolen bases. He needs 40. There are approximately 21 games remaining in the 2026 regular season. The arithmetic says 7-in-21 is doable. The history says it has been done before — but not often, and not by everyone who has tried.</p>
+</section>
+
+<section>
+<h2>The Club He's Chasing</h2>
+<p>The 40-40 club — 40 home runs and 40 stolen bases in the same season — has exactly six members in 138 years of professional baseball. Jose Canseco accomplished it first in 1988. Barry Bonds did it in 1996. Alex Rodriguez matched them in 1998. Alfonso Soriano joined in 2006. Ronald Acuña Jr. became the fifth in 2023, and Shohei Ohtani became the sixth in that same historic year.</p>
+
+<p>No member of that club has done it since. No Cub has ever done it. PCA, at 24 years old, is poised to become the seventh.</p>
+
+<p>He is already in rare company. By reaching 40 home runs and 33 steals, he has become the first Cubs player in franchise history with 40 homers and 30 steals in a single season. More broadly, he is only the fourth player age 24 or younger to reach 40 home runs with 30 steals, joining Acuña, A-Rod, and Canseco — a lineage of transformational talent.</p>
+</section>
+
+<section>
+<h2>The September Chase</h2>
+<p>Seven steals in 21 games is an average of one stolen base every three games. PCA has been running at an elite clip all season — 33 steals through the first 141 games — and his speed has not diminished alongside the power explosion. The question is not capability. It is opportunity.</p>
+
+<p>Base-running decisions shift in September, when playoff races make managers conservative. PCA will need green lights on the basepaths, the right counts, and the patience to pick his spots rather than force the issue. Every steal will feel earned.</p>
+
+<p>The NL MVP race adds another layer. PCA's Cubs hold NL Wild Card No. 1 position, and every PCA plate appearance now carries championship-round implications alongside historic ones. That double burden — club history and team stakes — is what September baseball is made of.</p>
+</section>
+
+<section>
+<h2>What's Next</h2>
+<p>Chicago continues its schedule with approximately 21 games remaining, and every PCA at-bat is a chance to add to the stolen base total. The benchmark is 40. The club has six members. Whether Pete Crow-Armstrong joins them in 2026 is the most compelling individual story in baseball's final month.</p>
+</section>
+</article>
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-01-pca-40-40-chase" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;title&gt;PCA Hits No. 40: Seven Steals From the Most Exclusive Club in Baseball&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;article&gt;
+&lt;header&gt;
+&lt;h1&gt;PCA Hits No. 40: Seven Steals From the Most Exclusive Club in Baseball&lt;/h1&gt;
+&lt;p class=&quot;byline&quot;&gt;By Marcus Cole | September 7, 2026&lt;/p&gt;
+&lt;p class=&quot;category&quot;&gt;Chicago Cubs&lt;/p&gt;
+&lt;/header&gt;
+
+&lt;section&gt;
+&lt;p&gt;Pete Crow-Armstrong hit his 40th home run of the 2026 season on Sunday, and now the only thing standing between him and baseball immortality is seven stolen bases.&lt;/p&gt;
+
+&lt;p&gt;PCA pulled a sweeper from Miami Marlins pitcher Tyler Phillips into the right-field seats in the fifth inning at Marlins Park, clearing the first and most dramatic half of the 40-40 threshold. The Cubs lost the game 10-3, but the loss was an afterthought. What matters now is the math.&lt;/p&gt;
+
+&lt;p&gt;He has 33 stolen bases. He needs 40. There are approximately 21 games remaining in the 2026 regular season. The arithmetic says 7-in-21 is doable. The history says it has been done before — but not often, and not by everyone who has tried.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h2&gt;The Club He&#x27;s Chasing&lt;/h2&gt;
+&lt;p&gt;The 40-40 club — 40 home runs and 40 stolen bases in the same season — has exactly six members in 138 years of professional baseball. Jose Canseco accomplished it first in 1988. Barry Bonds did it in 1996. Alex Rodriguez matched them in 1998. Alfonso Soriano joined in 2006. Ronald Acuña Jr. became the fifth in 2023, and Shohei Ohtani became the sixth in that same historic year.&lt;/p&gt;
+
+&lt;p&gt;No member of that club has done it since. No Cub has ever done it. PCA, at 24 years old, is poised to become the seventh.&lt;/p&gt;
+
+&lt;p&gt;He is already in rare company. By reaching 40 home runs and 33 steals, he has become the first Cubs player in franchise history with 40 homers and 30 steals in a single season. More broadly, he is only the fourth player age 24 or younger to reach 40 home runs with 30 steals, joining Acuña, A-Rod, and Canseco — a lineage of transformational talent.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h2&gt;The September Chase&lt;/h2&gt;
+&lt;p&gt;Seven steals in 21 games is an average of one stolen base every three games. PCA has been running at an elite clip all season — 33 steals through the first 141 games — and his speed has not diminished alongside the power explosion. The question is not capability. It is opportunity.&lt;/p&gt;
+
+&lt;p&gt;Base-running decisions shift in September, when playoff races make managers conservative. PCA will need green lights on the basepaths, the right counts, and the patience to pick his spots rather than force the issue. Every steal will feel earned.&lt;/p&gt;
+
+&lt;p&gt;The NL MVP race adds another layer. PCA&#x27;s Cubs hold NL Wild Card No. 1 position, and every PCA plate appearance now carries championship-round implications alongside historic ones. That double burden — club history and team stakes — is what September baseball is made of.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+&lt;p&gt;Chicago continues its schedule with approximately 21 games remaining, and every PCA at-bat is a chance to add to the stolen base total. The benchmark is 40. The club has six members. Whether Pete Crow-Armstrong joins them in 2026 is the most compelling individual story in baseball&#x27;s final month.&lt;/p&gt;
+&lt;/section&gt;
+&lt;/article&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-01-pca-40-40-chase">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-01-pca-40-40-chase')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-01-pca-40-40-chase')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-01-pca-40-40-chase">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-01-pca-40-40-chase')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-01-pca-40-40-chase')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-01-pca-40-40-chase')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-01-pca-40-40-chase')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-01-pca-40-40-chase">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-01-pca-40-40-chase" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-01-pca-40-40-chase"></div>
+                </div>
+                <div class="card" data-id="article-article-02-misiorowski-wrigley-rematch" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Misiorowski Returns to Wrigley: The Cy Young Frontrunner Answers Back on Extra Rest</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-02-misiorowski-wrigley-rematch">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<title>Misiorowski Returns to Wrigley: The Cy Young Frontrunner Answers Back on Extra Rest</title>
+</head>
+<body>
+<article>
+<header>
+<h1>Misiorowski Returns to Wrigley: The Cy Young Frontrunner Answers Back on Extra Rest</h1>
+<p class=&quot;byline&quot;>By Jake Torres | September 7, 2026</p>
+<p class=&quot;category&quot;>Milwaukee Brewers</p>
+</header>
+
+<section>
+<p>Jacob Misiorowski is scheduled to take the mound today or tomorrow in a rematch that matters more than a typical September start.</p>
+
+<p>On September 3 at Wrigley Field, the Chicago Cubs handed Misiorowski the worst outing of his 2026 season — five runs, four walks, just four innings, and a final line that matched career worsts in every painful category. Worse, the start ended a streak of 26 consecutive appearances allowing three or fewer earned runs, a modern-era feat unmatched since Dwight Gooden opened the 1985 season in the same fashion.</p>
+
+<p>Today, the stage is the same. The ballpark is the same. The opponent is the same. And Misiorowski comes in rested, prepared, and motivated.</p>
+</section>
+
+<section>
+<h2>What That Streak Meant — and What Its End Changes</h2>
+<p>The 26-start run of allowing three or fewer earned runs was the defining statistical achievement of an already-dominant season. His ERA sits at 1.97 — the lowest in baseball — with 222-plus strikeouts and a 0.75 WHIP that renders most offensive lineups irrelevant.</p>
+
+<p>One bad start does not erase that. His NL Cy Young Award odds sit at -750, with Chris Sale of the Braves the only credible competitor at +850. The case was already built over five months of unrivaled performance.</p>
+
+<p>But pitchers are remembered for how they respond. The Brewers hold first place in the NL Central. The postseason is functionally secured. What the team needs now is the version of Misiorowski that made all those other starts look easy — controlled, overpowering, and finishing what he starts.</p>
+</section>
+
+<section>
+<h2>The Rematch Context</h2>
+<p>The Brewers won the September 3 game 9-5 despite Misiorowski's exit, rallying after he left the mound. The offense bailed him out once. The staff's confidence in him never wavered — extra rest was given intentionally, a sign the organization treats this outing as a reset, not a referendum.</p>
+
+<p>The Cubs, for their part, are fighting to hold Wild Card No. 1 position. Every game matters to them as well. This is not a placeholder mid-September start — both teams have real stakes, which makes the rematch at Wrigley a legitimate event.</p>
+</section>
+
+<section>
+<h2>What's Next</h2>
+<p>Misiorowski's start today or tomorrow gives him roughly three or four more regular-season outings to sharpen his Cy Young résumé before October arrives. One rough start in 27 is a footnote — unless it becomes two. Watch for his velocity (which touched 101.5 mph at his September 2 gem), his walk rate, and his ability to navigate the Cubs' lineup for the full game.</p>
+</section>
+</article>
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-02-misiorowski-wrigley-rematch" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;title&gt;Misiorowski Returns to Wrigley: The Cy Young Frontrunner Answers Back on Extra Rest&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;article&gt;
+&lt;header&gt;
+&lt;h1&gt;Misiorowski Returns to Wrigley: The Cy Young Frontrunner Answers Back on Extra Rest&lt;/h1&gt;
+&lt;p class=&quot;byline&quot;&gt;By Jake Torres | September 7, 2026&lt;/p&gt;
+&lt;p class=&quot;category&quot;&gt;Milwaukee Brewers&lt;/p&gt;
+&lt;/header&gt;
+
+&lt;section&gt;
+&lt;p&gt;Jacob Misiorowski is scheduled to take the mound today or tomorrow in a rematch that matters more than a typical September start.&lt;/p&gt;
+
+&lt;p&gt;On September 3 at Wrigley Field, the Chicago Cubs handed Misiorowski the worst outing of his 2026 season — five runs, four walks, just four innings, and a final line that matched career worsts in every painful category. Worse, the start ended a streak of 26 consecutive appearances allowing three or fewer earned runs, a modern-era feat unmatched since Dwight Gooden opened the 1985 season in the same fashion.&lt;/p&gt;
+
+&lt;p&gt;Today, the stage is the same. The ballpark is the same. The opponent is the same. And Misiorowski comes in rested, prepared, and motivated.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h2&gt;What That Streak Meant — and What Its End Changes&lt;/h2&gt;
+&lt;p&gt;The 26-start run of allowing three or fewer earned runs was the defining statistical achievement of an already-dominant season. His ERA sits at 1.97 — the lowest in baseball — with 222-plus strikeouts and a 0.75 WHIP that renders most offensive lineups irrelevant.&lt;/p&gt;
+
+&lt;p&gt;One bad start does not erase that. His NL Cy Young Award odds sit at -750, with Chris Sale of the Braves the only credible competitor at +850. The case was already built over five months of unrivaled performance.&lt;/p&gt;
+
+&lt;p&gt;But pitchers are remembered for how they respond. The Brewers hold first place in the NL Central. The postseason is functionally secured. What the team needs now is the version of Misiorowski that made all those other starts look easy — controlled, overpowering, and finishing what he starts.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h2&gt;The Rematch Context&lt;/h2&gt;
+&lt;p&gt;The Brewers won the September 3 game 9-5 despite Misiorowski&#x27;s exit, rallying after he left the mound. The offense bailed him out once. The staff&#x27;s confidence in him never wavered — extra rest was given intentionally, a sign the organization treats this outing as a reset, not a referendum.&lt;/p&gt;
+
+&lt;p&gt;The Cubs, for their part, are fighting to hold Wild Card No. 1 position. Every game matters to them as well. This is not a placeholder mid-September start — both teams have real stakes, which makes the rematch at Wrigley a legitimate event.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+&lt;p&gt;Misiorowski&#x27;s start today or tomorrow gives him roughly three or four more regular-season outings to sharpen his Cy Young résumé before October arrives. One rough start in 27 is a footnote — unless it becomes two. Watch for his velocity (which touched 101.5 mph at his September 2 gem), his walk rate, and his ability to navigate the Cubs&#x27; lineup for the full game.&lt;/p&gt;
+&lt;/section&gt;
+&lt;/article&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-02-misiorowski-wrigley-rematch">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-02-misiorowski-wrigley-rematch')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-02-misiorowski-wrigley-rematch')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-02-misiorowski-wrigley-rematch">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-02-misiorowski-wrigley-rematch')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-02-misiorowski-wrigley-rematch')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-02-misiorowski-wrigley-rematch')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-02-misiorowski-wrigley-rematch')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-02-misiorowski-wrigley-rematch">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-02-misiorowski-wrigley-rematch" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-02-misiorowski-wrigley-rematch"></div>
+                </div>
+                <div class="card" data-id="article-article-03-alvarez-triple-crown" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Yordan Alvarez&#x27;s Triple Crown: Can He Hold All Three Categories for 21 More Games?</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-03-alvarez-triple-crown">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<title>Yordan Alvarez's Triple Crown: Can He Hold All Three Categories for 21 More Games?</title>
+</head>
+<body>
+<article>
+<header>
+<h1>Yordan Alvarez's Triple Crown: Can He Hold All Three Categories for 21 More Games?</h1>
+<p class=&quot;byline&quot;>By Ryan Calloway | September 7, 2026</p>
+<p class=&quot;category&quot;>Houston Astros</p>
+</header>
+
+<section>
+<p>The last time an American League player led all three Triple Crown categories at the start of September and finished with the hardware was 2012, when Miguel Cabrera became one of the most celebrated individual seasons in baseball history. Yordan Alvarez is chasing that legacy with 21 games left in the 2026 season.</p>
+
+<p>The Houston Astros slugger currently leads the AL in batting average (.317), home runs (37, tied), and RBI (94, tied). All three categories are live. All three categories are contested. And all three categories need to survive approximately 21 more games for Alvarez to become the first AL Triple Crown winner in 14 years.</p>
+</section>
+
+<section>
+<h2>The Threats on All Three Fronts</h2>
+<p>On home runs, Tampa Bay's Yohandy Caminero sits at 37, tied with Alvarez for the AL lead. One Caminero multi-homer game could flip the category overnight. Alvarez needs to outpace him the rest of the way — or at least keep pace.</p>
+
+<p>On RBI, Pete Alonso is also at 94, tied at the top. The RBI title often comes down to lineup protection and clutch-situation volume in September — factors that can swing unpredictably as rosters expand and pennant races shift approaches.</p>
+
+<p>The batting average chase is the most volatile. Chandler Simpson of the Tampa Bay Rays sits at approximately .308 — roughly nine points behind Alvarez's .317. In September, with expanded rosters and bullpen-heavy games, batting averages can shift quickly. A 10-game slump for Alvarez or a 10-game tear from Simpson could close that gap in a hurry.</p>
+</section>
+
+<section>
+<h2>The Historical Weight</h2>
+<p>The Triple Crown — leading the league in batting average, home runs, and RBI simultaneously — is the rarest statistical achievement in baseball. It has happened 18 times in major league history, and only once since 1967 before Cabrera's 2012 season (Frank Robinson in 1966). Cabrera was the sole winner in modern times before now.</p>
+
+<p>If Alvarez holds all three leads, he joins a list that includes Ruth, Williams, Mantle, Robinson, and Yastrzemski. That is not hyperbole — that is the company Triple Crown winners keep.</p>
+</section>
+
+<section>
+<h2>What's Next</h2>
+<p>Houston's remaining schedule, the opposition pitchers Alvarez will face, and the performance of Caminero, Alonso, and Simpson will all determine whether this chase goes the distance. Check the AL leaderboard daily — the race in all three categories is too close to ignore. Alvarez's 21 remaining games might be the most watched in the AL this September.</p>
+</section>
+</article>
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-03-alvarez-triple-crown" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;title&gt;Yordan Alvarez&#x27;s Triple Crown: Can He Hold All Three Categories for 21 More Games?&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;article&gt;
+&lt;header&gt;
+&lt;h1&gt;Yordan Alvarez&#x27;s Triple Crown: Can He Hold All Three Categories for 21 More Games?&lt;/h1&gt;
+&lt;p class=&quot;byline&quot;&gt;By Ryan Calloway | September 7, 2026&lt;/p&gt;
+&lt;p class=&quot;category&quot;&gt;Houston Astros&lt;/p&gt;
+&lt;/header&gt;
+
+&lt;section&gt;
+&lt;p&gt;The last time an American League player led all three Triple Crown categories at the start of September and finished with the hardware was 2012, when Miguel Cabrera became one of the most celebrated individual seasons in baseball history. Yordan Alvarez is chasing that legacy with 21 games left in the 2026 season.&lt;/p&gt;
+
+&lt;p&gt;The Houston Astros slugger currently leads the AL in batting average (.317), home runs (37, tied), and RBI (94, tied). All three categories are live. All three categories are contested. And all three categories need to survive approximately 21 more games for Alvarez to become the first AL Triple Crown winner in 14 years.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h2&gt;The Threats on All Three Fronts&lt;/h2&gt;
+&lt;p&gt;On home runs, Tampa Bay&#x27;s Yohandy Caminero sits at 37, tied with Alvarez for the AL lead. One Caminero multi-homer game could flip the category overnight. Alvarez needs to outpace him the rest of the way — or at least keep pace.&lt;/p&gt;
+
+&lt;p&gt;On RBI, Pete Alonso is also at 94, tied at the top. The RBI title often comes down to lineup protection and clutch-situation volume in September — factors that can swing unpredictably as rosters expand and pennant races shift approaches.&lt;/p&gt;
+
+&lt;p&gt;The batting average chase is the most volatile. Chandler Simpson of the Tampa Bay Rays sits at approximately .308 — roughly nine points behind Alvarez&#x27;s .317. In September, with expanded rosters and bullpen-heavy games, batting averages can shift quickly. A 10-game slump for Alvarez or a 10-game tear from Simpson could close that gap in a hurry.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h2&gt;The Historical Weight&lt;/h2&gt;
+&lt;p&gt;The Triple Crown — leading the league in batting average, home runs, and RBI simultaneously — is the rarest statistical achievement in baseball. It has happened 18 times in major league history, and only once since 1967 before Cabrera&#x27;s 2012 season (Frank Robinson in 1966). Cabrera was the sole winner in modern times before now.&lt;/p&gt;
+
+&lt;p&gt;If Alvarez holds all three leads, he joins a list that includes Ruth, Williams, Mantle, Robinson, and Yastrzemski. That is not hyperbole — that is the company Triple Crown winners keep.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+&lt;p&gt;Houston&#x27;s remaining schedule, the opposition pitchers Alvarez will face, and the performance of Caminero, Alonso, and Simpson will all determine whether this chase goes the distance. Check the AL leaderboard daily — the race in all three categories is too close to ignore. Alvarez&#x27;s 21 remaining games might be the most watched in the AL this September.&lt;/p&gt;
+&lt;/section&gt;
+&lt;/article&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-03-alvarez-triple-crown">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-03-alvarez-triple-crown')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-03-alvarez-triple-crown')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-03-alvarez-triple-crown">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-03-alvarez-triple-crown')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-03-alvarez-triple-crown')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-03-alvarez-triple-crown')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-03-alvarez-triple-crown')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-03-alvarez-triple-crown">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-03-alvarez-triple-crown" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-03-alvarez-triple-crown"></div>
+                </div>
+                <div class="card" data-id="article-article-04-ohtani-return-dodgers" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Ohtani Expected Back in Dodgers Lineup Today — Pitching Return in 2026 Ruled Out</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-04-ohtani-return-dodgers">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<title>Ohtani Expected Back in Dodgers Lineup Today — Pitching Return in 2026 Ruled Out</title>
+</head>
+<body>
+<article>
+<header>
+<h1>Ohtani Expected Back in Dodgers Lineup Today — Pitching Return in 2026 Ruled Out</h1>
+<p class=&quot;byline&quot;>By Marcus Cole | September 7, 2026</p>
+<p class=&quot;category&quot;>Los Angeles Dodgers</p>
+</header>
+
+<section>
+<p>Dave Roberts says Shohei Ohtani is expected back in the Los Angeles Dodgers lineup Monday against the Cincinnati Reds, ending a four-game absence that raised the volume on what had already been a concerning late-season stretch for one of baseball's most watched players.</p>
+
+<p>The return as a designated hitter comes with a caveat that has been building for weeks: Ohtani will not pitch again in 2026. The combination of left knee soreness, right bicep discomfort, and neck issues has convinced the Dodgers and their medical staff that activating him on the mound this season carries more risk than any potential postseason benefit can justify.</p>
+
+<p>Roberts was direct about it. The 2027 rotation is where the pitching version of Ohtani re-enters the conversation.</p>
+</section>
+
+<section>
+<h2>The Hitting Slump That Preceded the Absence</h2>
+<p>Ohtani's bat has been a significant concern independent of his injury status. Since August 18, he is 7-for-51 — a .137 batting average across that stretch, accompanied by 20 strikeouts. That is a severe slump for any player; for Ohtani, it has coincided with the physical discomfort that ultimately kept him out of four consecutive games.</p>
+
+<p>Whether the physical issues caused the slump or the slump revealed the physical issues is the kind of chicken-and-egg question that does not fully answer itself until the player is back in game action. His return Monday will provide the first real data point since September 3.</p>
+</section>
+
+<section>
+<h2>What the Dodgers Need</h2>
+<p>Los Angeles is safely positioned in their division at roughly 82-57. The playoff seed is secure. What the Dodgers need from Ohtani in September is a productive DH who can round back into form before the Wild Card Series begins September 29.</p>
+
+<p>His presence matters structurally — the lineup protection he provides shifts how opposing pitchers approach the batters around him. A fully engaged Ohtani in the lineup is a different offensive threat than a Ohtani managing physical discomfort through at-bats.</p>
+
+<p>The four-day rest appears to have been the plan, not the problem. Roberts scheduled it, communicated confidence in a Monday return, and managed expectations around the pitching side clearly and early. What comes next is how quickly Ohtani's bat catches up to his health.</p>
+</section>
+
+<section>
+<h2>What's Next</h2>
+<p>Ohtani returns to the Dodgers lineup Monday vs Cincinnati. With roughly 21 games remaining, the focus shifts entirely to his offensive production. The Dodgers will be cautious — no unnecessary physical risk with the postseason this close — but expect an active, present DH as Los Angeles builds toward October. His pitching availability in 2027 will be addressed after the season.</p>
+</section>
+</article>
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-04-ohtani-return-dodgers" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;title&gt;Ohtani Expected Back in Dodgers Lineup Today — Pitching Return in 2026 Ruled Out&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;article&gt;
+&lt;header&gt;
+&lt;h1&gt;Ohtani Expected Back in Dodgers Lineup Today — Pitching Return in 2026 Ruled Out&lt;/h1&gt;
+&lt;p class=&quot;byline&quot;&gt;By Marcus Cole | September 7, 2026&lt;/p&gt;
+&lt;p class=&quot;category&quot;&gt;Los Angeles Dodgers&lt;/p&gt;
+&lt;/header&gt;
+
+&lt;section&gt;
+&lt;p&gt;Dave Roberts says Shohei Ohtani is expected back in the Los Angeles Dodgers lineup Monday against the Cincinnati Reds, ending a four-game absence that raised the volume on what had already been a concerning late-season stretch for one of baseball&#x27;s most watched players.&lt;/p&gt;
+
+&lt;p&gt;The return as a designated hitter comes with a caveat that has been building for weeks: Ohtani will not pitch again in 2026. The combination of left knee soreness, right bicep discomfort, and neck issues has convinced the Dodgers and their medical staff that activating him on the mound this season carries more risk than any potential postseason benefit can justify.&lt;/p&gt;
+
+&lt;p&gt;Roberts was direct about it. The 2027 rotation is where the pitching version of Ohtani re-enters the conversation.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h2&gt;The Hitting Slump That Preceded the Absence&lt;/h2&gt;
+&lt;p&gt;Ohtani&#x27;s bat has been a significant concern independent of his injury status. Since August 18, he is 7-for-51 — a .137 batting average across that stretch, accompanied by 20 strikeouts. That is a severe slump for any player; for Ohtani, it has coincided with the physical discomfort that ultimately kept him out of four consecutive games.&lt;/p&gt;
+
+&lt;p&gt;Whether the physical issues caused the slump or the slump revealed the physical issues is the kind of chicken-and-egg question that does not fully answer itself until the player is back in game action. His return Monday will provide the first real data point since September 3.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h2&gt;What the Dodgers Need&lt;/h2&gt;
+&lt;p&gt;Los Angeles is safely positioned in their division at roughly 82-57. The playoff seed is secure. What the Dodgers need from Ohtani in September is a productive DH who can round back into form before the Wild Card Series begins September 29.&lt;/p&gt;
+
+&lt;p&gt;His presence matters structurally — the lineup protection he provides shifts how opposing pitchers approach the batters around him. A fully engaged Ohtani in the lineup is a different offensive threat than a Ohtani managing physical discomfort through at-bats.&lt;/p&gt;
+
+&lt;p&gt;The four-day rest appears to have been the plan, not the problem. Roberts scheduled it, communicated confidence in a Monday return, and managed expectations around the pitching side clearly and early. What comes next is how quickly Ohtani&#x27;s bat catches up to his health.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+&lt;p&gt;Ohtani returns to the Dodgers lineup Monday vs Cincinnati. With roughly 21 games remaining, the focus shifts entirely to his offensive production. The Dodgers will be cautious — no unnecessary physical risk with the postseason this close — but expect an active, present DH as Los Angeles builds toward October. His pitching availability in 2027 will be addressed after the season.&lt;/p&gt;
+&lt;/section&gt;
+&lt;/article&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-04-ohtani-return-dodgers">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-04-ohtani-return-dodgers')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-04-ohtani-return-dodgers')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-04-ohtani-return-dodgers">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-04-ohtani-return-dodgers')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-04-ohtani-return-dodgers')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-04-ohtani-return-dodgers')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-04-ohtani-return-dodgers')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-04-ohtani-return-dodgers">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-04-ohtani-return-dodgers" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-04-ohtani-return-dodgers"></div>
+                </div>
+                <div class="card" data-id="article-article-05-nl-wildcard-crunch" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">NL Wild Card Race With 21 Games Left: Who&#x27;s In, Who&#x27;s Fading, and What It Takes to Survive</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-05-nl-wildcard-crunch">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<title>NL Wild Card Race With 21 Games Left: Who's In, Who's Fading, and What It Takes to Survive</title>
+</head>
+<body>
+<article>
+<header>
+<h1>NL Wild Card Race With 21 Games Left: Who's In, Who's Fading, and What It Takes to Survive</h1>
+<p class=&quot;byline&quot;>By Jake Torres | September 7, 2026</p>
+<p class=&quot;category&quot;>MLB Playoffs</p>
+</header>
+
+<section>
+<p>The National League Wild Card race enters its September crunch phase with 21 games remaining, and the picture is clear in some places and frantic in others. Three spots. A half-dozen teams with a plausible claim. September 29 when it all starts to mean something in elimination games.</p>
+
+<p>The Cubs hold Wild Card No. 1 by roughly half a game over the Phillies. Both teams have enough runway to be considered relatively secure — their margin over the rest of the field provides breathing room that most teams in the scrum below them do not have. The race at the top is more about seeding than survival.</p>
+</section>
+
+<section>
+<h2>The Real Battle: Wild Card No. 3</h2>
+<p>The Arizona Diamondbacks hold the third and final NL Wild Card spot by approximately half a game over the San Diego Padres. That half-game margin is the difference between postseason baseball and an early offseason. Both teams know it.</p>
+
+<p>The Padres have been here before — late-season pressure situations, everything on the line, October experience in the organization's recent DNA. The D-backs, for their part, have been legitimate contenders all year and have no intention of ceding this spot without a fight.</p>
+
+<p>What makes it genuinely uncertain is the schedule. Both teams still have games against playoff-caliber opponents. Neither team plays enough soft opposition in September to simply run off a winning streak by feasting on weak rosters.</p>
+</section>
+
+<section>
+<h2>Who's Fading</h2>
+<p>The St. Louis Cardinals entered this week at 71-72 — the definition of a team that needed to start winning last month. At 3-plus games back of WC3 with 21 left, the Cardinals likely need to win roughly 14 of their remaining 21 games and hope the teams above them lose at an unusual rate. That combination rarely materializes.</p>
+
+<p>The Marlins, Pirates, and other fringe contenders face similar mathematical improbabilities. They are not mathematically eliminated, but the probability calculus has shifted sharply against them.</p>
+</section>
+
+<section>
+<h2>What's Next</h2>
+<p>The Wild Card Series begins September 29. Division Series follows October 3. Every game between now and then is a countdown. The Cubs and Phillies manage their leads. The D-backs and Padres play for their playoff lives. The Cardinals run out of time.</p>
+
+<p>Check the standings daily — in a race this tight, a single series sweep in either direction reshuffles the entire bracket. The September standings are baseball's most compelling reading material.</p>
+</section>
+</article>
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-05-nl-wildcard-crunch" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;title&gt;NL Wild Card Race With 21 Games Left: Who&#x27;s In, Who&#x27;s Fading, and What It Takes to Survive&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;article&gt;
+&lt;header&gt;
+&lt;h1&gt;NL Wild Card Race With 21 Games Left: Who&#x27;s In, Who&#x27;s Fading, and What It Takes to Survive&lt;/h1&gt;
+&lt;p class=&quot;byline&quot;&gt;By Jake Torres | September 7, 2026&lt;/p&gt;
+&lt;p class=&quot;category&quot;&gt;MLB Playoffs&lt;/p&gt;
+&lt;/header&gt;
+
+&lt;section&gt;
+&lt;p&gt;The National League Wild Card race enters its September crunch phase with 21 games remaining, and the picture is clear in some places and frantic in others. Three spots. A half-dozen teams with a plausible claim. September 29 when it all starts to mean something in elimination games.&lt;/p&gt;
+
+&lt;p&gt;The Cubs hold Wild Card No. 1 by roughly half a game over the Phillies. Both teams have enough runway to be considered relatively secure — their margin over the rest of the field provides breathing room that most teams in the scrum below them do not have. The race at the top is more about seeding than survival.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h2&gt;The Real Battle: Wild Card No. 3&lt;/h2&gt;
+&lt;p&gt;The Arizona Diamondbacks hold the third and final NL Wild Card spot by approximately half a game over the San Diego Padres. That half-game margin is the difference between postseason baseball and an early offseason. Both teams know it.&lt;/p&gt;
+
+&lt;p&gt;The Padres have been here before — late-season pressure situations, everything on the line, October experience in the organization&#x27;s recent DNA. The D-backs, for their part, have been legitimate contenders all year and have no intention of ceding this spot without a fight.&lt;/p&gt;
+
+&lt;p&gt;What makes it genuinely uncertain is the schedule. Both teams still have games against playoff-caliber opponents. Neither team plays enough soft opposition in September to simply run off a winning streak by feasting on weak rosters.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h2&gt;Who&#x27;s Fading&lt;/h2&gt;
+&lt;p&gt;The St. Louis Cardinals entered this week at 71-72 — the definition of a team that needed to start winning last month. At 3-plus games back of WC3 with 21 left, the Cardinals likely need to win roughly 14 of their remaining 21 games and hope the teams above them lose at an unusual rate. That combination rarely materializes.&lt;/p&gt;
+
+&lt;p&gt;The Marlins, Pirates, and other fringe contenders face similar mathematical improbabilities. They are not mathematically eliminated, but the probability calculus has shifted sharply against them.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+&lt;p&gt;The Wild Card Series begins September 29. Division Series follows October 3. Every game between now and then is a countdown. The Cubs and Phillies manage their leads. The D-backs and Padres play for their playoff lives. The Cardinals run out of time.&lt;/p&gt;
+
+&lt;p&gt;Check the standings daily — in a race this tight, a single series sweep in either direction reshuffles the entire bracket. The September standings are baseball&#x27;s most compelling reading material.&lt;/p&gt;
+&lt;/section&gt;
+&lt;/article&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-05-nl-wildcard-crunch">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-05-nl-wildcard-crunch')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-05-nl-wildcard-crunch')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-05-nl-wildcard-crunch">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-05-nl-wildcard-crunch')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-05-nl-wildcard-crunch')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-05-nl-wildcard-crunch')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-05-nl-wildcard-crunch')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-05-nl-wildcard-crunch">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-05-nl-wildcard-crunch" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-05-nl-wildcard-crunch"></div>
+                </div>
+            </div>
+
+            <div class="empty-state" id="empty-state" style="display: none;">
+                <div class="empty-state-icon">No items match your filter</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Schedule settings modal -->
+    <div class="schedule-overlay" id="schedule-overlay" onclick="closeSchedulePanel()"></div>
+    <div class="schedule-panel" id="schedule-panel">
+        <h3>Posting Schedule Settings</h3>
+        <div class="schedule-section">
+            <label>Post Date (defaults to content date)</label>
+            <input type="date" id="schedule-date" />
+        </div>
+        <div class="schedule-section">
+            <label>X / Twitter Time Slots</label>
+            <div class="time-slots" id="x-time-slots"></div>
+            <div style="margin-top:8px;">
+                <input type="time" id="new-x-time" style="width:auto;display:inline-block;margin-right:8px;" />
+                <span class="add-slot-btn" onclick="addTimeSlot('x')">+ Add Slot</span>
+            </div>
+        </div>
+        <div class="schedule-section">
+            <label>Facebook Time Slots</label>
+            <div class="time-slots" id="fb-time-slots"></div>
+            <div style="margin-top:8px;">
+                <input type="time" id="new-fb-time" style="width:auto;display:inline-block;margin-right:8px;" />
+                <span class="add-slot-btn" onclick="addTimeSlot('fb')">+ Add Slot</span>
+            </div>
+        </div>
+        <div class="schedule-section" style="background:#f9f9f9;padding:12px;border-radius:6px;font-size:12px;color:#666;">
+            Posts will be assigned to time slots in order. If you have more posts than slots, they wrap around. After downloading, upload the file directly to PostPlanner via Bulk Upload.
+        </div>
+        <div class="schedule-actions">
+            <button class="btn btn-secondary" onclick="closeSchedulePanel()">Cancel</button>
+            <button class="btn btn-csv" onclick="generateAndDownload()">Generate &amp; Download XLSX</button>
+        </div>
+    </div>
+
+    <!-- SheetJS for XLSX generation (loaded async so it doesn't block) -->
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+    <script>
+
+        const DATE = '2026-09-07';
+        const BRAND_NAME = 'Ballpark Banter';
+        const REVIEW_STORAGE_KEY = 'mlb-content-review';
+        const SCHEDULE_STORAGE_KEY = 'mlb-content-schedule-config';
+        const PHOTO_SOURCE = 'imagn';
+        let reviewData = {};
+        const allStories = [{"id": "story-1-daily_brief", "title": "PCA Hits No. 40 \u2014 Now 7 Steals From Baseball Immortality", "content": "PCA Hits No. 40 \u2014 Now 7 Steals From Baseball Immortality", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-1-x_post-1", "title": "PCA Hits No. 40 \u2014 Now 7 Steals From Baseball Immortality", "content": "**Text Post 1** [8:00 AM]\nPCA is at 40 HR and 33 SB.\n\nSeven stolen bases. 21 games. That's all that stands between him and the most exclusive club in baseball.\n\nThe 40-40 club: Canseco. Bonds. A-Rod. Soriano. Acu\u00f1a. Ohtani. And maybe PCA. #Cubs", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#Cubs", "tweet_label": "Post 1"}, {"id": "story-1-image_concept", "title": "PCA Hits No. 40 \u2014 Now 7 Steals From Baseball Immortality \u2014 Image Concept", "content": "**Image \u2014 **\n", "type": "image_concept", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-2-daily_brief", "title": "Misiorowski's Bounce-Back Start \u2014 Today/Tomorrow at Wrigley", "content": "Misiorowski's Bounce-Back Start \u2014 Today/Tomorrow at Wrigley", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-2-x_post-1", "title": "Misiorowski's Bounce-Back Start \u2014 Today/Tomorrow at Wrigley", "content": "**Text Post 1** [10:30 AM]\nMisiorowski back on the mound today or tomorrow vs the Cubs.\n\nHis only rough outing of 2026 (5 ER, 4 IP on Sept. 3) snapped a 26-start streak. Cy Young frontrunner (-750) answers back on extra rest.\n\nWrigley, round two. #Brewers", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#Brewers", "tweet_label": "Post 2"}, {"id": "story-2-image_concept", "title": "Misiorowski's Bounce-Back Start \u2014 Today/Tomorrow at Wrigley \u2014 Image Concept", "content": "**Image \u2014 **\n", "type": "image_concept", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-3-daily_brief", "title": "Yordan Alvarez's Triple Crown \u2014 21 Games to Make History", "content": "Yordan Alvarez's Triple Crown \u2014 21 Games to Make History", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-3-x_post-1", "title": "Yordan Alvarez's Triple Crown \u2014 21 Games to Make History", "content": "**Text Post 1** [12:30 PM]\nYordan Alvarez leads the AL Triple Crown in all three categories.\n\nBA: .317. HR: 37 (tied Caminero). RBI: 94 (tied Alonso).\n\nLast AL Triple Crown winner: Cabrera. 2012. That's 14 years without one.\n\n21 games left. Can Yordan hold all three? #Astros #MLB", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#Astros #MLB", "tweet_label": "Post 3"}, {"id": "story-3-image_concept", "title": "Yordan Alvarez's Triple Crown \u2014 21 Games to Make History \u2014 Image Concept", "content": "**Image \u2014 **\n", "type": "image_concept", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-4-daily_brief", "title": "Ohtani Expected Back Today vs Cincinnati", "content": "Ohtani Expected Back Today vs Cincinnati", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-4-x_post-1", "title": "Ohtani Expected Back Today vs Cincinnati", "content": "**Text Post 1** [10:30 AM]\nOhtani back in the Dodgers lineup TODAY vs Cincinnati.\n\nFour straight games missed: left knee, bicep, neck.\n\nBatting .137 since Aug. 18. Pitching return in 2026? Roberts says no \u2014 that's 2027.\n\n#Dodgers", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#Dodgers", "tweet_label": "Post 4"}, {"id": "story-4-image_concept", "title": "Ohtani Expected Back Today vs Cincinnati \u2014 Image Concept", "content": "**Image \u2014 **\n", "type": "image_concept", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-5-daily_brief", "title": "NL Wild Card Race Entering September Crunch", "content": "NL Wild Card Race Entering September Crunch", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-5-x_post-1", "title": "NL Wild Card Race Entering September Crunch", "content": "**Text Post 1** [3:00 PM]\nThe NL Wild Card race with 21 games left:\n\nWC1: Cubs (+0.5 over Phillies)\nWC2: Phillies\nWC3: D-backs (+0.5 over Padres)\n\nCardinals: 71-72, fading fast. Wild Card Series: Sept. 29.\n\nNo margin left. #MLB", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#MLB", "tweet_label": "Post 5"}, {"id": "story-5-image_concept", "title": "NL Wild Card Race Entering September Crunch \u2014 Image Concept", "content": "**Image \u2014 **\n", "type": "image_concept", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-01-pca-40-40-chase", "title": "PCA Hits No. 40: Seven Steals From the Most Exclusive Club in Baseball", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<title>PCA Hits No. 40: Seven Steals From the Most Exclusive Club in Baseball<\/title>\n<\/head>\n<body>\n<article>\n<header>\n<h1>PCA Hits No. 40: Seven Steals From the Most Exclusive Club in Baseball<\/h1>\n<p class=\"byline\">By Marcus Cole | September 7, 2026<\/p>\n<p class=\"category\">Chicago Cubs<\/p>\n<\/header>\n\n<section>\n<p>Pete Crow-Armstrong hit his 40th home run of the 2026 season on Sunday, and now the only thing standing between him and baseball immortality is seven stolen bases.<\/p>\n\n<p>PCA pulled a sweeper from Miami Marlins pitcher Tyler Phillips into the right-field seats in the fifth inning at Marlins Park, clearing the first and most dramatic half of the 40-40 threshold. The Cubs lost the game 10-3, but the loss was an afterthought. What matters now is the math.<\/p>\n\n<p>He has 33 stolen bases. He needs 40. There are approximately 21 games remaining in the 2026 regular season. The arithmetic says 7-in-21 is doable. The history says it has been done before \u2014 but not often, and not by everyone who has tried.<\/p>\n<\/section>\n\n<section>\n<h2>The Club He's Chasing<\/h2>\n<p>The 40-40 club \u2014 40 home runs and 40 stolen bases in the same season \u2014 has exactly six members in 138 years of professional baseball. Jose Canseco accomplished it first in 1988. Barry Bonds did it in 1996. Alex Rodriguez matched them in 1998. Alfonso Soriano joined in 2006. Ronald Acu\u00f1a Jr. became the fifth in 2023, and Shohei Ohtani became the sixth in that same historic year.<\/p>\n\n<p>No member of that club has done it since. No Cub has ever done it. PCA, at 24 years old, is poised to become the seventh.<\/p>\n\n<p>He is already in rare company. By reaching 40 home runs and 33 steals, he has become the first Cubs player in franchise history with 40 homers and 30 steals in a single season. More broadly, he is only the fourth player age 24 or younger to reach 40 home runs with 30 steals, joining Acu\u00f1a, A-Rod, and Canseco \u2014 a lineage of transformational talent.<\/p>\n<\/section>\n\n<section>\n<h2>The September Chase<\/h2>\n<p>Seven steals in 21 games is an average of one stolen base every three games. PCA has been running at an elite clip all season \u2014 33 steals through the first 141 games \u2014 and his speed has not diminished alongside the power explosion. The question is not capability. It is opportunity.<\/p>\n\n<p>Base-running decisions shift in September, when playoff races make managers conservative. PCA will need green lights on the basepaths, the right counts, and the patience to pick his spots rather than force the issue. Every steal will feel earned.<\/p>\n\n<p>The NL MVP race adds another layer. PCA's Cubs hold NL Wild Card No. 1 position, and every PCA plate appearance now carries championship-round implications alongside historic ones. That double burden \u2014 club history and team stakes \u2014 is what September baseball is made of.<\/p>\n<\/section>\n\n<section>\n<h2>What's Next<\/h2>\n<p>Chicago continues its schedule with approximately 21 games remaining, and every PCA at-bat is a chance to add to the stolen base total. The benchmark is 40. The club has six members. Whether Pete Crow-Armstrong joins them in 2026 is the most compelling individual story in baseball's final month.<\/p>\n<\/section>\n<\/article>\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-02-misiorowski-wrigley-rematch", "title": "Misiorowski Returns to Wrigley: The Cy Young Frontrunner Answers Back on Extra Rest", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Misiorowski Returns to Wrigley: The Cy Young Frontrunner Answers Back on Extra Rest<\/title>\n<\/head>\n<body>\n<article>\n<header>\n<h1>Misiorowski Returns to Wrigley: The Cy Young Frontrunner Answers Back on Extra Rest<\/h1>\n<p class=\"byline\">By Jake Torres | September 7, 2026<\/p>\n<p class=\"category\">Milwaukee Brewers<\/p>\n<\/header>\n\n<section>\n<p>Jacob Misiorowski is scheduled to take the mound today or tomorrow in a rematch that matters more than a typical September start.<\/p>\n\n<p>On September 3 at Wrigley Field, the Chicago Cubs handed Misiorowski the worst outing of his 2026 season \u2014 five runs, four walks, just four innings, and a final line that matched career worsts in every painful category. Worse, the start ended a streak of 26 consecutive appearances allowing three or fewer earned runs, a modern-era feat unmatched since Dwight Gooden opened the 1985 season in the same fashion.<\/p>\n\n<p>Today, the stage is the same. The ballpark is the same. The opponent is the same. And Misiorowski comes in rested, prepared, and motivated.<\/p>\n<\/section>\n\n<section>\n<h2>What That Streak Meant \u2014 and What Its End Changes<\/h2>\n<p>The 26-start run of allowing three or fewer earned runs was the defining statistical achievement of an already-dominant season. His ERA sits at 1.97 \u2014 the lowest in baseball \u2014 with 222-plus strikeouts and a 0.75 WHIP that renders most offensive lineups irrelevant.<\/p>\n\n<p>One bad start does not erase that. His NL Cy Young Award odds sit at -750, with Chris Sale of the Braves the only credible competitor at +850. The case was already built over five months of unrivaled performance.<\/p>\n\n<p>But pitchers are remembered for how they respond. The Brewers hold first place in the NL Central. The postseason is functionally secured. What the team needs now is the version of Misiorowski that made all those other starts look easy \u2014 controlled, overpowering, and finishing what he starts.<\/p>\n<\/section>\n\n<section>\n<h2>The Rematch Context<\/h2>\n<p>The Brewers won the September 3 game 9-5 despite Misiorowski's exit, rallying after he left the mound. The offense bailed him out once. The staff's confidence in him never wavered \u2014 extra rest was given intentionally, a sign the organization treats this outing as a reset, not a referendum.<\/p>\n\n<p>The Cubs, for their part, are fighting to hold Wild Card No. 1 position. Every game matters to them as well. This is not a placeholder mid-September start \u2014 both teams have real stakes, which makes the rematch at Wrigley a legitimate event.<\/p>\n<\/section>\n\n<section>\n<h2>What's Next<\/h2>\n<p>Misiorowski's start today or tomorrow gives him roughly three or four more regular-season outings to sharpen his Cy Young r\u00e9sum\u00e9 before October arrives. One rough start in 27 is a footnote \u2014 unless it becomes two. Watch for his velocity (which touched 101.5 mph at his September 2 gem), his walk rate, and his ability to navigate the Cubs' lineup for the full game.<\/p>\n<\/section>\n<\/article>\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-03-alvarez-triple-crown", "title": "Yordan Alvarez's Triple Crown: Can He Hold All Three Categories for 21 More Games?", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Yordan Alvarez's Triple Crown: Can He Hold All Three Categories for 21 More Games?<\/title>\n<\/head>\n<body>\n<article>\n<header>\n<h1>Yordan Alvarez's Triple Crown: Can He Hold All Three Categories for 21 More Games?<\/h1>\n<p class=\"byline\">By Ryan Calloway | September 7, 2026<\/p>\n<p class=\"category\">Houston Astros<\/p>\n<\/header>\n\n<section>\n<p>The last time an American League player led all three Triple Crown categories at the start of September and finished with the hardware was 2012, when Miguel Cabrera became one of the most celebrated individual seasons in baseball history. Yordan Alvarez is chasing that legacy with 21 games left in the 2026 season.<\/p>\n\n<p>The Houston Astros slugger currently leads the AL in batting average (.317), home runs (37, tied), and RBI (94, tied). All three categories are live. All three categories are contested. And all three categories need to survive approximately 21 more games for Alvarez to become the first AL Triple Crown winner in 14 years.<\/p>\n<\/section>\n\n<section>\n<h2>The Threats on All Three Fronts<\/h2>\n<p>On home runs, Tampa Bay's Yohandy Caminero sits at 37, tied with Alvarez for the AL lead. One Caminero multi-homer game could flip the category overnight. Alvarez needs to outpace him the rest of the way \u2014 or at least keep pace.<\/p>\n\n<p>On RBI, Pete Alonso is also at 94, tied at the top. The RBI title often comes down to lineup protection and clutch-situation volume in September \u2014 factors that can swing unpredictably as rosters expand and pennant races shift approaches.<\/p>\n\n<p>The batting average chase is the most volatile. Chandler Simpson of the Tampa Bay Rays sits at approximately .308 \u2014 roughly nine points behind Alvarez's .317. In September, with expanded rosters and bullpen-heavy games, batting averages can shift quickly. A 10-game slump for Alvarez or a 10-game tear from Simpson could close that gap in a hurry.<\/p>\n<\/section>\n\n<section>\n<h2>The Historical Weight<\/h2>\n<p>The Triple Crown \u2014 leading the league in batting average, home runs, and RBI simultaneously \u2014 is the rarest statistical achievement in baseball. It has happened 18 times in major league history, and only once since 1967 before Cabrera's 2012 season (Frank Robinson in 1966). Cabrera was the sole winner in modern times before now.<\/p>\n\n<p>If Alvarez holds all three leads, he joins a list that includes Ruth, Williams, Mantle, Robinson, and Yastrzemski. That is not hyperbole \u2014 that is the company Triple Crown winners keep.<\/p>\n<\/section>\n\n<section>\n<h2>What's Next<\/h2>\n<p>Houston's remaining schedule, the opposition pitchers Alvarez will face, and the performance of Caminero, Alonso, and Simpson will all determine whether this chase goes the distance. Check the AL leaderboard daily \u2014 the race in all three categories is too close to ignore. Alvarez's 21 remaining games might be the most watched in the AL this September.<\/p>\n<\/section>\n<\/article>\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-04-ohtani-return-dodgers", "title": "Ohtani Expected Back in Dodgers Lineup Today \u2014 Pitching Return in 2026 Ruled Out", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Ohtani Expected Back in Dodgers Lineup Today \u2014 Pitching Return in 2026 Ruled Out<\/title>\n<\/head>\n<body>\n<article>\n<header>\n<h1>Ohtani Expected Back in Dodgers Lineup Today \u2014 Pitching Return in 2026 Ruled Out<\/h1>\n<p class=\"byline\">By Marcus Cole | September 7, 2026<\/p>\n<p class=\"category\">Los Angeles Dodgers<\/p>\n<\/header>\n\n<section>\n<p>Dave Roberts says Shohei Ohtani is expected back in the Los Angeles Dodgers lineup Monday against the Cincinnati Reds, ending a four-game absence that raised the volume on what had already been a concerning late-season stretch for one of baseball's most watched players.<\/p>\n\n<p>The return as a designated hitter comes with a caveat that has been building for weeks: Ohtani will not pitch again in 2026. The combination of left knee soreness, right bicep discomfort, and neck issues has convinced the Dodgers and their medical staff that activating him on the mound this season carries more risk than any potential postseason benefit can justify.<\/p>\n\n<p>Roberts was direct about it. The 2027 rotation is where the pitching version of Ohtani re-enters the conversation.<\/p>\n<\/section>\n\n<section>\n<h2>The Hitting Slump That Preceded the Absence<\/h2>\n<p>Ohtani's bat has been a significant concern independent of his injury status. Since August 18, he is 7-for-51 \u2014 a .137 batting average across that stretch, accompanied by 20 strikeouts. That is a severe slump for any player; for Ohtani, it has coincided with the physical discomfort that ultimately kept him out of four consecutive games.<\/p>\n\n<p>Whether the physical issues caused the slump or the slump revealed the physical issues is the kind of chicken-and-egg question that does not fully answer itself until the player is back in game action. His return Monday will provide the first real data point since September 3.<\/p>\n<\/section>\n\n<section>\n<h2>What the Dodgers Need<\/h2>\n<p>Los Angeles is safely positioned in their division at roughly 82-57. The playoff seed is secure. What the Dodgers need from Ohtani in September is a productive DH who can round back into form before the Wild Card Series begins September 29.<\/p>\n\n<p>His presence matters structurally \u2014 the lineup protection he provides shifts how opposing pitchers approach the batters around him. A fully engaged Ohtani in the lineup is a different offensive threat than a Ohtani managing physical discomfort through at-bats.<\/p>\n\n<p>The four-day rest appears to have been the plan, not the problem. Roberts scheduled it, communicated confidence in a Monday return, and managed expectations around the pitching side clearly and early. What comes next is how quickly Ohtani's bat catches up to his health.<\/p>\n<\/section>\n\n<section>\n<h2>What's Next<\/h2>\n<p>Ohtani returns to the Dodgers lineup Monday vs Cincinnati. With roughly 21 games remaining, the focus shifts entirely to his offensive production. The Dodgers will be cautious \u2014 no unnecessary physical risk with the postseason this close \u2014 but expect an active, present DH as Los Angeles builds toward October. His pitching availability in 2027 will be addressed after the season.<\/p>\n<\/section>\n<\/article>\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-05-nl-wildcard-crunch", "title": "NL Wild Card Race With 21 Games Left: Who's In, Who's Fading, and What It Takes to Survive", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<title>NL Wild Card Race With 21 Games Left: Who's In, Who's Fading, and What It Takes to Survive<\/title>\n<\/head>\n<body>\n<article>\n<header>\n<h1>NL Wild Card Race With 21 Games Left: Who's In, Who's Fading, and What It Takes to Survive<\/h1>\n<p class=\"byline\">By Jake Torres | September 7, 2026<\/p>\n<p class=\"category\">MLB Playoffs<\/p>\n<\/header>\n\n<section>\n<p>The National League Wild Card race enters its September crunch phase with 21 games remaining, and the picture is clear in some places and frantic in others. Three spots. A half-dozen teams with a plausible claim. September 29 when it all starts to mean something in elimination games.<\/p>\n\n<p>The Cubs hold Wild Card No. 1 by roughly half a game over the Phillies. Both teams have enough runway to be considered relatively secure \u2014 their margin over the rest of the field provides breathing room that most teams in the scrum below them do not have. The race at the top is more about seeding than survival.<\/p>\n<\/section>\n\n<section>\n<h2>The Real Battle: Wild Card No. 3<\/h2>\n<p>The Arizona Diamondbacks hold the third and final NL Wild Card spot by approximately half a game over the San Diego Padres. That half-game margin is the difference between postseason baseball and an early offseason. Both teams know it.<\/p>\n\n<p>The Padres have been here before \u2014 late-season pressure situations, everything on the line, October experience in the organization's recent DNA. The D-backs, for their part, have been legitimate contenders all year and have no intention of ceding this spot without a fight.<\/p>\n\n<p>What makes it genuinely uncertain is the schedule. Both teams still have games against playoff-caliber opponents. Neither team plays enough soft opposition in September to simply run off a winning streak by feasting on weak rosters.<\/p>\n<\/section>\n\n<section>\n<h2>Who's Fading<\/h2>\n<p>The St. Louis Cardinals entered this week at 71-72 \u2014 the definition of a team that needed to start winning last month. At 3-plus games back of WC3 with 21 left, the Cardinals likely need to win roughly 14 of their remaining 21 games and hope the teams above them lose at an unusual rate. That combination rarely materializes.<\/p>\n\n<p>The Marlins, Pirates, and other fringe contenders face similar mathematical improbabilities. They are not mathematically eliminated, but the probability calculus has shifted sharply against them.<\/p>\n<\/section>\n\n<section>\n<h2>What's Next<\/h2>\n<p>The Wild Card Series begins September 29. Division Series follows October 3. Every game between now and then is a countdown. The Cubs and Phillies manage their leads. The D-backs and Padres play for their playoff lives. The Cardinals run out of time.<\/p>\n\n<p>Check the standings daily \u2014 in a race this tight, a single series sweep in either direction reshuffles the entire bracket. The September standings are baseball's most compelling reading material.<\/p>\n<\/section>\n<\/article>\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}];
+        const imageManifest = {};
+        let imageURLs = {}; // Runtime store: {'1_x_image': 'url', '1_facebook_image': 'url', ...}
+
+        // Image URL management
+        function updateImageURL(inputEl) {
+            var story = inputEl.dataset.story;
+            var platform = inputEl.dataset.platform;
+            var url = inputEl.value.trim();
+            var key = story + '_' + platform;
+            imageURLs[key] = url;
+
+            // Update preview thumbnail
+            var preview = document.getElementById('img-preview-' + story + '-' + platform);
+            if (preview) {
+                if (url) {
+                    preview.src = url;
+                    preview.classList.add('loaded');
+                    preview.onerror = function() { this.classList.remove('loaded'); };
+                } else {
+                    preview.src = '';
+                    preview.classList.remove('loaded');
+                }
+            }
+        }
+
+        function getImageURLForStory(storyTitle, platform) {
+            // Try runtime imageURLs first (user-pasted)
+            // Extract story number from title
+            for (var key in imageURLs) {
+                if (imageURLs[key] && key.endsWith('_' + platform)) {
+                    var storyNum = key.split('_')[0];
+                    // Check if this story matches by looking at allStories
+                    for (var i = 0; i < allStories.length; i++) {
+                        if (allStories[i].title === storyTitle &&
+                            allStories[i].id.indexOf('story-' + storyNum) !== -1) {
+                            return imageURLs[key];
+                        }
+                    }
+                }
+            }
+
+            // Try manifest data
+            for (var num in imageManifest) {
+                var mdata = imageManifest[num];
+                if (mdata && mdata[platform] && mdata[platform].exported_url) {
+                    // Check if this story number matches
+                    for (var j = 0; j < allStories.length; j++) {
+                        if (allStories[j].title === storyTitle &&
+                            allStories[j].id.indexOf('story-' + num) !== -1) {
+                            return mdata[platform].exported_url;
+                        }
+                    }
+                }
+            }
+
+            return '';
+        }
+
+        function initializeApp() {
+            const saved = localStorage.getItem(REVIEW_STORAGE_KEY + '-' + DATE);
+            if (saved) {
+                try {
+                    reviewData = JSON.parse(saved);
+                } catch (e) {
+                    reviewData = {};
+                }
+            }
+
+            allStories.forEach(function(story) {
+                if (!reviewData[story.id]) {
+                    reviewData[story.id] = {
+                        id: story.id,
+                        type: story.type,
+                        status: 'unreviewed',
+                        notes: '',
+                        content: story.content,
+                        editedContent: null
+                    };
+                }
+                // Migrate old data: ensure editedContent field exists
+                if (reviewData[story.id].editedContent === undefined) {
+                    reviewData[story.id].editedContent = null;
+                }
+            });
+
+            // Restore UI state
+            Object.keys(reviewData).forEach(function(storyId) {
+                var data = reviewData[storyId];
+                var card = document.querySelector('[data-id="' + storyId + '"]');
+                if (card) {
+                    card.setAttribute('data-status', data.status);
+                    var textarea = document.getElementById('textarea-' + storyId);
+                    if (textarea) textarea.value = data.notes || '';
+                    // If content was edited, update the display and editor
+                    if (data.editedContent) {
+                        var contentText = card.querySelector('.card-content-text');
+                        if (contentText) contentText.textContent = data.editedContent;
+                        var editor = document.getElementById('editor-' + storyId);
+                        if (editor) editor.value = data.editedContent;
+                    }
+                    updateCardVisuals(storyId, data.status, !!data.editedContent);
+                }
+            });
+
+            updateProgress();
+            filterByStatus('all');
+        }
+
+        function toggleExpand(storyId) {
+            var content = document.getElementById('content-' + storyId);
+            var toggle = document.getElementById('toggle-' + storyId);
+            if (content.classList.contains('collapsed')) {
+                content.classList.remove('collapsed');
+                content.classList.add('expanded');
+                toggle.textContent = 'Collapse';
+            } else {
+                content.classList.remove('expanded');
+                content.classList.add('collapsed');
+                toggle.textContent = 'Show Full Content';
+            }
+        }
+
+        function startEdit(storyId) {
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (!card) return;
+            card.classList.add('editing');
+            var editor = document.getElementById('editor-' + storyId);
+            if (editor) {
+                // If previously edited, load edited content; otherwise load original
+                var data = reviewData[storyId];
+                if (data && data.editedContent) {
+                    editor.value = data.editedContent;
+                }
+                editor.focus();
+                // Auto-resize for articles
+                editor.style.minHeight = Math.max(300, editor.scrollHeight) + 'px';
+            }
+        }
+
+        function saveAndApprove(storyId) {
+            var editor = document.getElementById('editor-' + storyId);
+            if (!editor) return;
+            var newContent = editor.value;
+
+            // Save the edited content
+            if (!reviewData[storyId]) {
+                reviewData[storyId] = { id: storyId, status: 'approved', notes: '', content: '', editedContent: null };
+            }
+            reviewData[storyId].editedContent = newContent;
+
+            // Update the display text
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            var contentText = card ? card.querySelector('.card-content-text') : null;
+            if (contentText) contentText.textContent = newContent;
+
+            // Exit edit mode
+            if (card) card.classList.remove('editing');
+
+            // Approve
+            setStatus(storyId, 'approved');
+            updateCardVisuals(storyId, 'approved', true);
+
+            // Update char count for X posts
+            updateCharCount(storyId, newContent);
+        }
+
+        function cancelEdit(storyId) {
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (card) card.classList.remove('editing');
+        }
+
+        function updateCharCount(storyId, text) {
+            var el = document.getElementById('charcount-' + storyId);
+            if (!el) return;
+            // Strip metadata tags before counting
+            var clean = text.replace(/\[CHARACTER COUNT:.*?\]/gi, '');
+            clean = clean.replace(/\[CHAR COUNT:.*?\]/gi, '');
+            clean = clean.replace(/\[\d+\/280\]/g, '');
+            // Remove URLs for Twitter count
+            var textNoUrls = clean.replace(/https?:\/\/\S+/g, '');
+            var count = textNoUrls.trim().length;
+            el.textContent = 'Characters: ' + count + '/280' + (count > 280 ? '  OVER LIMIT' : '');
+            el.className = count > 280 ? 'char-count warning' : 'char-count';
+        }
+
+        function approveCard(storyId) {
+            setStatus(storyId, 'approved');
+            document.getElementById('notes-' + storyId).classList.remove('show');
+        }
+
+        function rejectCard(storyId) {
+            setStatus(storyId, 'rejected');
+            document.getElementById('notes-' + storyId).classList.add('show');
+        }
+
+        function setStatus(storyId, status) {
+            if (!reviewData[storyId]) {
+                var story = allStories.find(function(s) { return s.id === storyId; });
+                reviewData[storyId] = {
+                    id: storyId,
+                    type: story ? story.type : '',
+                    status: status,
+                    notes: '',
+                    content: story ? story.content : '',
+                    editedContent: null
+                };
+            }
+
+            reviewData[storyId].status = status;
+
+            var textarea = document.getElementById('textarea-' + storyId);
+            if (textarea) reviewData[storyId].notes = textarea.value;
+
+            localStorage.setItem(REVIEW_STORAGE_KEY + '-' + DATE, JSON.stringify(reviewData));
+
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (card) card.setAttribute('data-status', status);
+            updateCardVisuals(storyId, status, !!(reviewData[storyId] && reviewData[storyId].editedContent));
+            updateProgress();
+        }
+
+        function updateCardVisuals(storyId, status, wasEdited) {
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (!card) return;
+
+            card.classList.remove('approved', 'needs-edit', 'rejected');
+            if (status !== 'unreviewed') card.classList.add(status);
+
+            var statusLabel = document.getElementById('status-' + storyId);
+            if (statusLabel) {
+                statusLabel.className = 'status-label';
+                if (status === 'approved' && wasEdited) {
+                    statusLabel.textContent = 'APPROVED (EDITED)';
+                    statusLabel.classList.add('status-edited');
+                } else if (status === 'approved') {
+                    statusLabel.textContent = 'APPROVED';
+                    statusLabel.classList.add('status-approved');
+                } else if (status === 'needs-edit') {
+                    statusLabel.textContent = 'NEEDS EDIT';
+                    statusLabel.classList.add('status-needs-edit');
+                } else if (status === 'rejected') {
+                    statusLabel.textContent = 'REJECTED';
+                    statusLabel.classList.add('status-rejected');
+                } else {
+                    statusLabel.textContent = '';
+                }
+            }
+        }
+
+        function updateProgress() {
+            var approved = 0, rejected = 0, unreviewed = 0;
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (!data || data.status === 'unreviewed') unreviewed++;
+                else if (data.status === 'approved') approved++;
+                else if (data.status === 'rejected') rejected++;
+                else unreviewed++;
+            });
+            var reviewed = approved + rejected;
+            var total = allStories.length;
+            var percentage = total > 0 ? (reviewed / total * 100) : 0;
+            document.getElementById('reviewed-count').textContent = reviewed;
+            document.getElementById('total-count').textContent = total;
+            document.getElementById('progress-fill').style.width = percentage + '%';
+            // Update stat chips
+            document.getElementById('stat-approved-count').textContent = approved;
+            document.getElementById('stat-rejected-count').textContent = rejected;
+            document.getElementById('stat-unreviewed-count').textContent = unreviewed;
+            // Update CSV button
+            var csvBtn = document.getElementById('btn-csv');
+            var tobiBtn = document.getElementById('btn-tobi');
+            var socialApproved = countApprovedSocialPosts();
+            if (csvBtn) {
+                if (socialApproved > 0) {
+                    csvBtn.disabled = false;
+                    csvBtn.textContent = 'PostPlanner Upload (' + socialApproved + ' posts)';
+                } else {
+                    csvBtn.disabled = true;
+                    csvBtn.textContent = 'PostPlanner Upload (0 approved)';
+                }
+            }
+            // Update TOBI button (counts only X/Twitter text posts)
+            if (tobiBtn) {
+                var xApproved = countApprovedXPosts();
+                if (xApproved > 0) {
+                    tobiBtn.disabled = false;
+                    tobiBtn.textContent = 'TOBI Upload (' + xApproved + ' posts)';
+                } else {
+                    tobiBtn.disabled = true;
+                    tobiBtn.textContent = 'TOBI Upload (0 approved)';
+                }
+            }
+        }
+
+        function countApprovedSocialPosts() {
+            var count = 0;
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (data && data.status === 'approved' && (story.type === 'x_post' || story.type === 'facebook')) {
+                    count++;
+                }
+            });
+            return count;
+        }
+
+        function countApprovedXPosts() {
+            var count = 0;
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (data && data.status === 'approved' && story.type === 'x_post') {
+                    count++;
+                }
+            });
+            return count;
+        }
+
+        function escapeCSVField(text) {
+            if (!text) return '';
+            // If field contains comma, quote, or newline, wrap in quotes and escape inner quotes
+            if (text.indexOf(',') !== -1 || text.indexOf('"') !== -1 || text.indexOf('\n') !== -1) {
+                return '"' + text.replace(/"/g, '""') + '"';
+            }
+            return text;
+        }
+
+        function extractHashtags(text) {
+            if (!text) return '';
+            var matches = text.match(/#\w+/g);
+            return matches ? matches.join(' ') : '';
+        }
+
+        // ========== POSTING SCHEDULE SYSTEM ==========
+        var defaultXSlots = ['09:00', '12:00', '15:00', '18:00', '21:00'];
+        var defaultFBSlots = ['10:00', '13:00', '17:00'];
+
+        function getScheduleConfig() {
+            var saved = localStorage.getItem(SCHEDULE_STORAGE_KEY);
+            if (saved) {
+                try { return JSON.parse(saved); } catch(e) {}
+            }
+            return { xSlots: defaultXSlots.slice(), fbSlots: defaultFBSlots.slice() };
+        }
+
+        function saveScheduleConfig(config) {
+            localStorage.setItem(SCHEDULE_STORAGE_KEY, JSON.stringify(config));
+        }
+
+        function renderTimeSlots() {
+            var config = getScheduleConfig();
+            var xContainer = document.getElementById('x-time-slots');
+            var fbContainer = document.getElementById('fb-time-slots');
+
+            xContainer.innerHTML = config.xSlots.map(function(t, i) {
+                return '<span class="time-slot">' + t + ' <span class="remove-slot" onclick="removeTimeSlot(\x27x\x27,' + i + ')">&times;</span></span>';
+            }).join('');
+
+            fbContainer.innerHTML = config.fbSlots.map(function(t, i) {
+                return '<span class="time-slot">' + t + ' <span class="remove-slot" onclick="removeTimeSlot(\x27fb\x27,' + i + ')">&times;</span></span>';
+            }).join('');
+        }
+
+        function addTimeSlot(platform) {
+            var inputId = platform === 'x' ? 'new-x-time' : 'new-fb-time';
+            var val = document.getElementById(inputId).value;
+            if (!val) return;
+            var config = getScheduleConfig();
+            var arr = platform === 'x' ? config.xSlots : config.fbSlots;
+            if (arr.indexOf(val) === -1) {
+                arr.push(val);
+                arr.sort();
+            }
+            saveScheduleConfig(config);
+            renderTimeSlots();
+            document.getElementById(inputId).value = '';
+        }
+
+        function removeTimeSlot(platform, index) {
+            var config = getScheduleConfig();
+            var arr = platform === 'x' ? config.xSlots : config.fbSlots;
+            arr.splice(index, 1);
+            saveScheduleConfig(config);
+            renderTimeSlots();
+        }
+
+        function downloadPostPlannerCSV() {
+            // Open schedule panel instead of direct download
+            openSchedulePanel();
+        }
+
+        function openSchedulePanel() {
+            document.getElementById('schedule-date').value = DATE;
+            renderTimeSlots();
+            document.getElementById('schedule-panel').classList.add('show');
+            document.getElementById('schedule-overlay').classList.add('show');
+        }
+
+        function closeSchedulePanel() {
+            document.getElementById('schedule-panel').classList.remove('show');
+            document.getElementById('schedule-overlay').classList.remove('show');
+        }
+
+        function formatTimeForPostPlanner(time24, dateStr) {
+            // Output PostPlanner V2 format: MM/DD/YYYY  HH:MM (24hr)
+            var parts = dateStr.split('-');
+            return parts[1] + '/' + parts[2] + '/' + parts[0] + '  ' + time24;
+        }
+
+        function redistributeTimes(rows) {
+            // Ensure all post times are at least 30 min from now,
+            // evenly spaced through the rest of the day.
+            if (rows.length === 0) return rows;
+
+            var now = new Date();
+            var nowMinutes = now.getHours() * 60 + now.getMinutes();
+            var floorMinutes = nowMinutes + 30;
+            var endMinutes = 22 * 60; // 10:00 PM cutoff
+
+            // Check if ANY post times have already passed
+            var anyPast = rows.some(function(row) {
+                var parts = row.time.split(':');
+                var rowMin = parseInt(parts[0], 10) * 60 + parseInt(parts[1], 10);
+                return rowMin < floorMinutes;
+            });
+
+            if (!anyPast) return rows; // all times are in the future, keep them
+
+            if (floorMinutes >= endMinutes) {
+                alert('It is past 9:30 PM — not enough time remaining to schedule all posts today. Posts will use original times.');
+                return rows;
+            }
+
+            var availableMinutes = endMinutes - floorMinutes;
+            var spacing = Math.floor(availableMinutes / rows.length);
+            if (spacing < 15) spacing = 15; // minimum 15 min gap
+            if (spacing > 90) spacing = 90; // maximum 90 min gap
+
+            rows.forEach(function(row, i) {
+                var postMinutes = floorMinutes + (i * spacing);
+                if (postMinutes >= 24 * 60) postMinutes = 23 * 60 + 45;
+                var h = Math.floor(postMinutes / 60);
+                var m = postMinutes % 60;
+                row.time = (h < 10 ? '0' : '') + h + ':' + (m < 10 ? '0' : '') + m;
+            });
+
+            var firstTime = rows[0].time;
+            var lastTime = rows[rows.length - 1].time;
+            console.log('PostPlanner export: redistributed ' + rows.length + ' posts from ' + firstTime + ' to ' + lastTime + ' (' + spacing + ' min apart)');
+            return rows;
+        }
+
+        // Parse actual time from posting_window string like "7:00 AM CT" -> "07:00"
+        function parsePostingTime(timeStr) {
+            if (!timeStr) return null;
+            var m = timeStr.match(/(\d{1,2}):(\d{2})\s*(AM|PM)/i);
+            if (!m) return null;
+            var h = parseInt(m[1], 10);
+            var min = m[2];
+            var ampm = m[3].toUpperCase();
+            if (ampm === 'PM' && h !== 12) h += 12;
+            if (ampm === 'AM' && h === 12) h = 0;
+            return (h < 10 ? '0' : '') + h + ':' + min;
+        }
+
+        // Generic window name fallback
+        var windowToTime = {
+            'Morning': '09:00',
+            'Midday': '12:00',
+            'Afternoon': '15:00',
+            'Evening': '18:00',
+            'Late Night': '21:00'
+        };
+
+        function generateAndDownload() {
+            var config = getScheduleConfig();
+            var postDate = document.getElementById('schedule-date').value || DATE;
+
+            var xRows = [];
+            var fbRows = [];
+
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (!data || data.status !== 'approved') return;
+                var finalContent = data.editedContent || story.content;
+
+                if (story.type === 'x_post') {
+                    // If this is an individual tweet card (has tweet_label), use directly
+                    if (story.tweet_label) {
+                        xRows.push({
+                            content: finalContent,
+                            type: story.tweet_type || 'text',
+                            hashtags: story.hashtags || extractHashtags(finalContent),
+                            story: story.title,
+                            posting_window: story.posting_window || ''
+                        });
+                    } else {
+                        // Legacy: parse full story markdown for individual tweets
+                        var sections = parseXPostContent(finalContent, story.title);
+                        sections.forEach(function(post) {
+                            xRows.push({
+                                content: post.text,
+                                type: post.type,
+                                hashtags: extractHashtags(post.text),
+                                story: story.title
+                            });
+                        });
+                    }
+                } else if (story.type === 'facebook') {
+                    var fbPost = parseFacebookContent(finalContent, story.title);
+                    if (fbPost) {
+                        fbRows.push(fbPost);
+                    }
+                }
+            });
+
+            if (xRows.length === 0 && fbRows.length === 0) {
+                alert('No approved social posts to export.');
+                return;
+            }
+
+            // Assign times: use posting_window property first, then content tag, then round-robin
+            function assignTimes(rows, slots, label) {
+                if (slots.length === 0) slots = ['12:00'];
+                var timeFallbacks = [];
+                return rows.map(function(row, i) {
+                    row.date = postDate;
+                    // 1. Try posting_window property (e.g., "7:00 AM CT")
+                    var parsed = parsePostingTime(row.posting_window);
+                    if (parsed) {
+                        row.time = parsed;
+                        return row;
+                    }
+                    // 2. Try [POSTING WINDOW: ...] tag in content
+                    var windowMatch = row.content ? row.content.match(/\[POSTING WINDOW:\s*([^\]]+)\]/) : null;
+                    if (windowMatch) {
+                        parsed = parsePostingTime(windowMatch[1]);
+                        if (parsed) {
+                            row.time = parsed;
+                            return row;
+                        }
+                        if (windowToTime[windowMatch[1].trim()]) {
+                            row.time = windowToTime[windowMatch[1].trim()];
+                            return row;
+                        }
+                    }
+                    // 3. Fall back to round-robin
+                    row.time = slots[i % slots.length];
+                    timeFallbacks.push('Post ' + (i + 1) + ': no parsed time, using ' + row.time);
+                    return row;
+                });
+                // Warn if any posts had to use fallback times
+                if (timeFallbacks.length > 0) {
+                    console.warn('TIME WARNING (' + label + '): ' + timeFallbacks.length + ' post(s) had no parsed posting time:\n' + timeFallbacks.join('\n'));
+                }
+            }
+
+            xRows = assignTimes(xRows, config.xSlots, 'X/Twitter');
+            fbRows = assignTimes(fbRows, config.fbSlots, 'Facebook');
+
+            // Generate XLSX in PostPlanner Bulk Upload V2 format
+            if (typeof XLSX === 'undefined') {
+                alert('SheetJS library not loaded. Falling back to CSV download.');
+                fallbackCSVDownload(xRows, fbRows, postDate);
+                return;
+            }
+
+            // Combine all rows and sort by original time
+            var allRows = xRows.concat(fbRows);
+            allRows.sort(function(a, b) {
+                return a.time.localeCompare(b.time);
+            });
+
+            // Smart time redistribution
+            allRows = redistributeTimes(allRows);
+
+            var wb = XLSX.utils.book_new();
+
+            // PostPlanner V3.1 format: Row 1 = version marker, Row 2 = headers, Row 3+ = data
+            var data = [
+                ['## ' + BRAND_NAME + ' -- PostPlanner Bulk Upload', 'BULK UPLOAD VERSION 3.1 – Please DO NOT EDIT this cell.', '', '', '', '', '', '', ''],
+                ['## POSTING TIME', 'CAPTION', 'LINK', 'MEDIA', 'TITLE', 'FIRST COMMENT', 'FIRST COMMENT DELAY', 'TOBI BACKGROUND', 'REEL OR STORY']
+            ];
+
+            allRows.forEach(function(row) {
+                var caption = cleanMarkdownForPost(row.content);
+                var mediaUrl = '';
+                if (row.type === 'image' || row.type === 'IMAGE') {
+                    mediaUrl = getImageURLForStory(row.story, row.platform === 'facebook' ? 'facebook_image' : 'x_image') || '';
+                }
+                data.push([
+                    formatTimeForPostPlanner(row.time, postDate),
+                    caption,
+                    '',
+                    mediaUrl,
+                    '', '', '', '', ''
+                ]);
+            });
+
+            var sheet = XLSX.utils.aoa_to_sheet(data);
+            sheet['!cols'] = [
+                {wch: 20}, {wch: 80}, {wch: 30}, {wch: 30}, {wch: 10}, {wch: 20}, {wch: 18}, {wch: 18}, {wch: 14}
+            ];
+            XLSX.utils.book_append_sheet(wb, sheet, 'Sheet1');
+
+            // Download
+            XLSX.writeFile(wb, 'postplanner-upload-' + postDate + '.xlsx');
+            closeSchedulePanel();
+
+            var msg = 'Downloaded postplanner-upload-' + postDate + '.xlsx with ';
+            var parts = [];
+            if (xRows.length > 0) parts.push(xRows.length + ' X posts');
+            if (fbRows.length > 0) parts.push(fbRows.length + ' Facebook posts');
+            alert(msg + parts.join(' and ') + '.\n\nUpload this file to PostPlanner via Bulk Upload.');
+        }
+
+        function cleanMarkdownForPost(text) {
+            // Strip markdown formatting and metadata that shouldn't appear in social posts
+            if (!text) return '';
+            return text
+                .replace(/\[CHARACTER COUNT:.*?\]/gi, '')
+                .replace(/\[CHAR COUNT:.*?\]/gi, '')
+                .replace(/\[\d+\/280\]/g, '')
+                .replace(/\*\*\[POSTING WINDOW:.*?\]\*\*/g, '')
+                .replace(/\[POSTING WINDOW:.*?\]/g, '')
+                .replace(/\*\*([^*]+)\*\*/g, '$1')
+                .replace(/\*([^*]+)\*/g, '$1')
+                .replace(/^#+\s+/gm, '')
+                .replace(/^[-*]\s+/gm, '')
+                .replace(/```[\s\S]*?```/g, '')
+                .replace(/\n{3,}/g, '\n\n')
+                .trim();
+        }
+
+        function fallbackCSVDownload(xRows, fbRows, postDate) {
+            // Fallback if SheetJS fails to load — generates CSV in V2-like format
+            var allRows = xRows.concat(fbRows);
+            allRows.sort(function(a, b) { return a.time.localeCompare(b.time); });
+            if (allRows.length === 0) {
+                alert('No approved posts to export.');
+                closeSchedulePanel();
+                return;
+            }
+            // Smart time redistribution (same as XLSX path)
+            allRows = redistributeTimes(allRows);
+            var csv = '## ' + BRAND_NAME + ' -- PostPlanner Bulk Upload,' + escapeCSVField('BULK UPLOAD VERSION 3.1 – Please DO NOT EDIT this cell.') + ',,,,,,,\n';
+            csv += '## POSTING TIME,CAPTION,LINK,MEDIA,TITLE,FIRST COMMENT,FIRST COMMENT DELAY,TOBI BACKGROUND,REEL OR STORY\n';
+            allRows.forEach(function(row) {
+                csv += escapeCSVField(formatTimeForPostPlanner(row.time, postDate)) + ',' +
+                       escapeCSVField(cleanMarkdownForPost(row.content)) + ',' +
+                       ',,,,,,\n';
+            });
+            downloadFile(csv, 'postplanner-upload-' + postDate + '.csv', 'text/csv');
+            closeSchedulePanel();
+        }
+
+        function downloadTOBIExport() {
+            // Generate TOBI XLSX directly (no schedule panel needed — uses same times)
+            generateAndDownloadTOBI();
+        }
+
+        function stripHashtags(text) {
+            // Remove lines that are entirely hashtags, and trailing blank lines
+            var lines = text.split('\n');
+            var cleaned = [];
+            for (var i = 0; i < lines.length; i++) {
+                var stripped = lines[i].trim();
+                if (stripped && stripped.split(/\s+/).every(function(w) { return w.charAt(0) === '#'; })) {
+                    continue;
+                }
+                cleaned.push(lines[i]);
+            }
+            while (cleaned.length > 0 && !cleaned[cleaned.length - 1].trim()) {
+                cleaned.pop();
+            }
+            return cleaned.join('\n');
+        }
+
+        function generateAndDownloadTOBI() {
+            var postDate = document.getElementById('schedule-date') ?
+                document.getElementById('schedule-date').value || DATE : DATE;
+
+            // Collect approved X/Twitter text posts only
+            var xRows = [];
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (!data || data.status !== 'approved') return;
+                if (story.type !== 'x_post') return;
+
+                var finalContent = data.editedContent || story.content;
+                if (story.tweet_label) {
+                    xRows.push({
+                        content: finalContent,
+                        posting_window: story.posting_window || '',
+                        story: story.title
+                    });
+                }
+            });
+
+            if (xRows.length === 0) {
+                alert('No approved X/Twitter posts for TOBI export.');
+                return;
+            }
+
+            // Assign times — use same logic as regular export (posting_window → content tag → round-robin)
+            var tobiSlots = defaultXSlots.slice();
+            if (tobiSlots.length === 0) tobiSlots = ['12:00'];
+            var tobiTimeFallbacks = [];
+            xRows = xRows.map(function(row, i) {
+                row.date = postDate;
+                // 1. Try posting_window property (e.g., "7:00 AM CT")
+                var parsed = parsePostingTime(row.posting_window);
+                if (parsed) {
+                    row.time = parsed;
+                    return row;
+                }
+                // 2. Try [POSTING WINDOW: ...] tag in content
+                var windowMatch = row.content ? row.content.match(/\[POSTING WINDOW:\s*([^\]]+)\]/) : null;
+                if (windowMatch) {
+                    parsed = parsePostingTime(windowMatch[1]);
+                    if (parsed) {
+                        row.time = parsed;
+                        return row;
+                    }
+                }
+                // 3. Fall back to round-robin through time slots (NOT 12:00)
+                row.time = tobiSlots[i % tobiSlots.length];
+                tobiTimeFallbacks.push('Post ' + (i + 1) + ': no parsed time, using ' + row.time);
+                return row;
+            });
+            // Warn if any posts had to use fallback times
+            if (tobiTimeFallbacks.length > 0) {
+                console.warn('TOBI TIME WARNING: ' + tobiTimeFallbacks.length + ' post(s) had no parsed posting time:\n' + tobiTimeFallbacks.join('\n'));
+            }
+
+            // Sort by time
+            xRows.sort(function(a, b) { return a.time.localeCompare(b.time); });
+
+            // Smart time redistribution
+            xRows = redistributeTimes(xRows);
+
+            // TOBI processing: preserve hashtags + emojis as much as possible
+            var TOBI_LIMIT = 130;
+
+            function extractHashtags(text) {
+                var matches = text.match(/#\w+/g);
+                return matches || [];
+            }
+
+            function extractTrailingEmoji(text) {
+                var m = text.match(/\s*([\u{1F300}-\u{1FAFF}\u2600-\u27BF\u2B50\u26A0-\u26FF]+)\s*$/u);
+                if (m) {
+                    return { emoji: m[1], text: text.substring(0, m.index).trimEnd() };
+                }
+                return { emoji: null, text: text };
+            }
+
+            function truncateAtSentence(text, limit) {
+                var sentences = text.split(/(?<=[.!?])\s+/);
+                // Merge standalone emoji fragments into preceding sentence
+                var merged = [];
+                for (var s = 0; s < sentences.length; s++) {
+                    var trimmed = sentences[s].trim();
+                    if (!trimmed) continue;
+                    if (merged.length > 0 && !/[A-Za-z0-9]/.test(trimmed)) {
+                        merged[merged.length - 1] = merged[merged.length - 1] + ' ' + trimmed;
+                    } else {
+                        merged.push(trimmed);
+                    }
+                }
+                var truncated = '';
+                for (var s = 0; s < merged.length; s++) {
+                    var candidate = truncated ? truncated + ' ' + merged[s] : merged[s];
+                    if (candidate.length <= limit) {
+                        truncated = candidate;
+                    } else {
+                        break;
+                    }
+                }
+                // Clean up trailing abbreviation fragments (Dr., Mr., vs.)
+                if (truncated) {
+                    var parts = truncated.split(' ');
+                    var last = parts[parts.length - 1];
+                    if (parts.length > 1 && last.length <= 4 && /^[A-Za-z]+\.$/.test(last)) {
+                        parts.pop();
+                        truncated = parts.join(' ');
+                    }
+                }
+                return truncated || text.substring(0, limit - 3) + '...';
+            }
+
+            function fitHashtagsWithinLimit(text, hashtags, limit) {
+                if (!hashtags.length) return text;
+                // Try all hashtags, then progressively fewer
+                for (var n = hashtags.length; n > 0; n--) {
+                    var tagBlock = '\n\n' + hashtags.slice(0, n).join(' ');
+                    if ((text + tagBlock).length <= limit) {
+                        return text + tagBlock;
+                    }
+                }
+                return text;
+            }
+
+            if (typeof XLSX === 'undefined') {
+                alert('SheetJS library not loaded. Cannot generate TOBI XLSX.');
+                return;
+            }
+
+            var wb = XLSX.utils.book_new();
+            var data = [
+                ['## ' + BRAND_NAME + ' -- PostPlanner TOBI Bulk Upload', 'BULK UPLOAD VERSION 3.1 – Please DO NOT EDIT this cell.', '', '', '', '', '', '', ''],
+                ['## POSTING TIME', 'CAPTION', 'LINK', 'MEDIA', 'TITLE', 'FIRST COMMENT', 'FIRST COMMENT DELAY', 'TOBI BACKGROUND', 'REEL OR STORY']
+            ];
+
+            var keptHashtags = 0;
+            var strippedHashtags = 0;
+
+            xRows.forEach(function(row, i) {
+                var caption = cleanMarkdownForPost(row.content);
+
+                // If full caption fits under limit, use as-is — ALL hashtags + emojis preserved
+                if (caption.length <= TOBI_LIMIT) {
+                    if (extractHashtags(caption).length > 0) keptHashtags++;
+                    data.push([
+                        formatTimeForPostPlanner(row.time, postDate),
+                        caption, '', '', '', '', '', 'true-black', ''
+                    ]);
+                    return;
+                }
+
+                // Over limit — decompose and rebuild intelligently
+                var hashtags = extractHashtags(caption);
+                var coreText = stripHashtags(caption).trimEnd();
+                var emojiResult = extractTrailingEmoji(coreText);
+                var trailing_emoji = emojiResult.emoji;
+                var coreNoEmoji = emojiResult.text.trimEnd();
+
+                // Step 1: Get core text under limit
+                var result;
+                if (coreNoEmoji.length <= TOBI_LIMIT) {
+                    result = coreNoEmoji;
+                } else {
+                    result = truncateAtSentence(coreNoEmoji, TOBI_LIMIT);
+                }
+
+                // Step 2: Try to add back trailing emoji
+                if (trailing_emoji) {
+                    var withEmoji = result + ' ' + trailing_emoji;
+                    if (withEmoji.length <= TOBI_LIMIT) {
+                        result = withEmoji;
+                    }
+                }
+
+                // Step 3: Try to add back as many hashtags as possible
+                if (hashtags.length > 0) {
+                    var before = result;
+                    result = fitHashtagsWithinLimit(result, hashtags, TOBI_LIMIT);
+                    if (result !== before) keptHashtags++;
+                    else strippedHashtags++;
+                }
+
+                data.push([
+                    formatTimeForPostPlanner(row.time, postDate),
+                    result, '', '', '', '', '', 'true-black', ''
+                ]);
+            });
+
+            var sheet = XLSX.utils.aoa_to_sheet(data);
+            sheet['!cols'] = [
+                {wch: 20}, {wch: 80}, {wch: 10}, {wch: 10}, {wch: 10}, {wch: 20}, {wch: 18}, {wch: 18}, {wch: 14}
+            ];
+            XLSX.utils.book_append_sheet(wb, sheet, 'Sheet1');
+
+            XLSX.writeFile(wb, 'postplanner-tobi-upload-' + postDate + '.xlsx');
+
+            alert('Downloaded TOBI export with ' + xRows.length + ' posts.\n\n' +
+                  keptHashtags + ' posts kept hashtags, ' + strippedHashtags + ' had hashtags removed for length.\n\n' +
+                  'Background: true-black (Column H).\nUpload to PostPlanner for Facebook TOBI posts.');
+        }
+
+        function parseXPostContent(content, storyTitle) {
+            var posts = [];
+            var lines = content.split('\n');
+
+            var inTextPost = false;
+            var inThread = false;
+            var currentTweetNum = 0;
+            var currentText = [];
+
+            for (var i = 0; i < lines.length; i++) {
+                var line = lines[i];
+                var trimmed = line.trim();
+
+                if (trimmed.match(/^###\s+Text Post/i)) {
+                    flushPost();
+                    inTextPost = true;
+                    inThread = false;
+                    currentText = [];
+                    continue;
+                }
+                if (trimmed.match(/^###\s+Thread Concept/i)) {
+                    flushPost();
+                    inTextPost = false;
+                    inThread = true;
+                    currentText = [];
+                    currentTweetNum = 0;
+                    continue;
+                }
+                if (trimmed.match(/^###\s+Image Post/i)) {
+                    flushPost();
+                    inTextPost = false;
+                    inThread = false;
+                    continue;
+                }
+                if (trimmed.match(/^###\s/)) {
+                    flushPost();
+                    inTextPost = false;
+                    inThread = false;
+                    continue;
+                }
+
+                if (inThread && trimmed.match(/^\*\*Tweet\s+\d+/i)) {
+                    flushPost();
+                    currentTweetNum++;
+                    currentText = [];
+                    continue;
+                }
+
+                if (inTextPost || (inThread && currentTweetNum > 0)) {
+                    if (trimmed !== '') {
+                        currentText.push(line);
+                    }
+                }
+            }
+            flushPost();
+
+            function flushPost() {
+                if (currentText.length === 0) return;
+                var text = currentText.join('\n').trim();
+                if (!text) return;
+
+                if (inTextPost) {
+                    posts.push({ text: text, type: 'text' });
+                } else if (inThread && currentTweetNum > 0) {
+                    posts.push({
+                        text: text,
+                        type: currentTweetNum === 1 ? 'thread_start' : 'thread_reply'
+                    });
+                }
+                currentText = [];
+            }
+
+            return posts;
+        }
+
+        function parseFacebookContent(content, storyTitle) {
+            var lines = content.split('\n');
+            var inLongForm = false;
+            var inImagePost = false;
+            var longFormLines = [];
+            var imageCaption = '';
+
+            for (var i = 0; i < lines.length; i++) {
+                var trimmed = lines[i].trim();
+
+                if (trimmed.match(/^###\s+Long-Form Post/i)) {
+                    inLongForm = true;
+                    inImagePost = false;
+                    longFormLines = [];
+                    continue;
+                }
+                if (trimmed.match(/^###\s+Image Post Caption/i) || trimmed.match(/^###\s+Image Post/i)) {
+                    inLongForm = false;
+                    inImagePost = true;
+                    continue;
+                }
+                if (trimmed.match(/^###\s/) || trimmed.match(/^---/)) {
+                    inLongForm = false;
+                    inImagePost = false;
+                    continue;
+                }
+
+                if (inLongForm) {
+                    longFormLines.push(lines[i]);
+                }
+                if (inImagePost && trimmed !== '') {
+                    imageCaption = trimmed;
+                    inImagePost = false;
+                }
+            }
+
+            var longForm = longFormLines.join('\n').trim();
+            if (!longForm) return null;
+
+            return {
+                content: longForm,
+                image_caption: imageCaption,
+                story: storyTitle
+            };
+        }
+
+        function downloadFile(content, filename, mimeType) {
+            var blob = new Blob([content], { type: mimeType });
+            var url = URL.createObjectURL(blob);
+            var link = document.createElement('a');
+            link.href = url;
+            link.download = filename;
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+            URL.revokeObjectURL(url);
+        }
+
+        var currentStatusFilter = 'all';
+        var currentTypeFilter = 'all';
+
+        function filterByStatus(status) {
+            currentStatusFilter = status;
+            applyFilters();
+            document.querySelectorAll('.filter-btn').forEach(function(btn) {
+                btn.classList.remove('active');
+                if (btn.textContent.trim().toLowerCase().replace(/\s+/g, '') === status.replace('-', '').toLowerCase() ||
+                    (status === 'all' && btn.textContent.trim() === 'All') ||
+                    (status === 'needs-edit' && btn.textContent.trim() === 'Needs Edit')) {
+                    btn.classList.add('active');
+                }
+            });
+            document.querySelectorAll('.sidebar .nav-item').forEach(function(item) { item.classList.remove('active'); });
+        }
+
+        function filterByType(type) {
+            currentTypeFilter = type;
+            currentStatusFilter = 'all';
+            applyFilters();
+            document.querySelectorAll('.sidebar .nav-item').forEach(function(item) { item.classList.remove('active'); });
+            document.querySelectorAll('.filter-btn').forEach(function(btn) {
+                btn.classList.remove('active');
+                if (btn.textContent.trim() === 'All') btn.classList.add('active');
+            });
+        }
+
+        function applyFilters() {
+            var cards = document.querySelectorAll('.card');
+            var visibleCount = 0;
+            cards.forEach(function(card) {
+                var cardStatus = card.getAttribute('data-status');
+                var cardType = card.getAttribute('data-type');
+                var matchesStatus = (currentStatusFilter === 'all') || (cardStatus === currentStatusFilter);
+                var matchesType = (currentTypeFilter === 'all') || (cardType === currentTypeFilter);
+                if (matchesStatus && matchesType) {
+                    card.classList.add('show');
+                    visibleCount++;
+                } else {
+                    card.classList.remove('show');
+                }
+            });
+            document.getElementById('empty-state').style.display = visibleCount === 0 ? 'block' : 'none';
+        }
+
+        function approveAll() {
+            if (!confirm('Approve all ' + allStories.length + ' items?')) return;
+            allStories.forEach(function(story) { setStatus(story.id, 'approved'); });
+        }
+
+        function resetAll() {
+            if (confirm('Reset all reviews? This cannot be undone.')) {
+                localStorage.removeItem(REVIEW_STORAGE_KEY + '-' + DATE);
+                location.reload();
+            }
+        }
+
+        function copyContent(storyId) {
+            var data = reviewData[storyId];
+            var story = allStories.find(function(s) { return s.id === storyId; });
+            var text = (data && data.editedContent) ? data.editedContent : (story ? story.content : '');
+            navigator.clipboard.writeText(text).then(function() {
+                var btn = document.querySelector('[data-id="' + storyId + '"] .btn-copy');
+                if (btn) { var orig = btn.textContent; btn.textContent = 'Copied!'; setTimeout(function() { btn.textContent = orig; }, 1500); }
+            });
+        }
+
+        function exportApprovals() {
+            var items = [];
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id] || {};
+                items.push({
+                    id: story.id,
+                    type: story.type,
+                    title: story.title,
+                    status: data.status || 'unreviewed',
+                    notes: data.notes || '',
+                    content: story.content,
+                    editedContent: data.editedContent || null,
+                    finalContent: data.editedContent || story.content
+                });
+            });
+
+            var exportData = {
+                date: DATE,
+                reviewed_by: '',
+                reviewed_at: new Date().toISOString(),
+                items: items
+            };
+
+            var dataStr = JSON.stringify(exportData, null, 2);
+            var dataBlob = new Blob([dataStr], { type: 'application/json' });
+            var url = URL.createObjectURL(dataBlob);
+            var link = document.createElement('a');
+            link.href = url;
+            link.download = 'approvals-' + DATE + '.json';
+            link.click();
+            URL.revokeObjectURL(url);
+        }
+
+        // Auto-save notes as you type
+        document.addEventListener('input', function(e) {
+            if (e.target.classList.contains('notes-textarea')) {
+                var storyId = e.target.id.replace('textarea-', '');
+                if (reviewData[storyId]) {
+                    reviewData[storyId].notes = e.target.value;
+                    localStorage.setItem(REVIEW_STORAGE_KEY + '-' + DATE, JSON.stringify(reviewData));
+                }
+            }
+        });
+
+        initializeApp();
+
+    </script>
+</body>
+</html>

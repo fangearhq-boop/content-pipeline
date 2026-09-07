@@ -5,6 +5,50 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-09-07
+
+### Story 1: PCA — 40 HR, 7 From 40-40
+- **Date:** 2026-09-07
+- **Tier:** 1
+- **Classification:** FOLLOW UP (milestone reached)
+- **Angle:** PCA hits his 40th HR. Needs 7 SB in 21 games to join 40-40 club. First Cub ever with 40 HR and 30 SB in a season. 4th player age 24 or younger (Acuña, A-Rod, Canseco the others). Club: Canseco/Bonds/A-Rod/Soriano/Acuña/Ohtani.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:** Each stolen base toward 40, 40-40 achievement if it happens, Cubs playoff clinch
+
+### Story 2: Misiorowski — Bounce-Back Start at Wrigley
+- **Date:** 2026-09-07
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Misiorowski expected on the mound today or tomorrow at Wrigley vs Cubs on extra rest. Coming off only rough outing of 2026 (5 ER, 4 IP, 4 BB on Sept. 3) that snapped a 26-start streak. Cy Young frontrunner at -750 odds.
+- **Content Produced:** Article (article-02, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:** Misiorowski result tonight/tomorrow, Cy Young odds update, Brewers WC positioning
+
+### Story 3: Alvarez — Triple Crown Lead in All Three
+- **Date:** 2026-09-07
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Alvarez leads AL in all three Triple Crown categories: .317 BA, 37 HR (tied Caminero), 94 RBI (tied Alonso). Last AL Triple Crown winner: Cabrera 2012. 21 games left. Simpson at ~.308 in BA race.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:** Daily leaderboard tracking, Caminero HR, Alonso RBI, Simpson BA — any category flip
+
+### Story 4: Ohtani — Returns as DH, No Pitching in 2026
+- **Date:** 2026-09-07
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Ohtani returns to Dodgers lineup today vs Cincinnati after 4 straight games missed (left knee, bicep, neck). Roberts confirmed no pitching in 2026 — pitching return is 2027. Batting .137 since Aug. 18.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:** Ohtani offensive production in return, Dodgers postseason positioning, 2027 pitching plans
+
+### Story 5: NL Wild Card Race — 21 Games Left
+- **Date:** 2026-09-07
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Cubs WC1 (+0.5 over Phillies WC2). D-backs hold WC3 (+0.5 over Padres). Cardinals at 71-72 fading. Wild Card Series begins Sept. 29.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:** D-backs/Padres daily tracking, Cardinals elimination watch, Cubs/Phillies seeding
+
+---
+
 ## 2026-09-06
 
 ### Story 1: PCA — Still One Swing Away
