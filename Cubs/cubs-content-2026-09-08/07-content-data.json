@@ -1,0 +1,192 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-08",
+  "compiled_at": "2026-09-08T09:20:44.191005+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Game Recap — Brewers 4, Cubs 3 — Late Lead Slips",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Cubs led 2-1 through seven innings but bullpen surrendered two 8th-inning runs. Ramírez solo HR, Bregman go-ahead RBI. Late-lead collapse in Milwaukee.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1A",
+          "text": "Ramírez with the solo shot. Bregman with the go-ahead RBI in the 7th.\n\nCubs had the lead. Brewers walked it back in the 8th. Final: 4-3 Milwaukee.\n\nPeterson vs Misiorowski tonight, 6:40 PM CT. Series needs a win.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative recap / urgency pivot",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Tonight's Game Preview — Peterson vs Misiorowski Rematch",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Misiorowski (14-5, 1.97 ERA, NL Cy Young favorite) vs Peterson (7-8, 5.39 ERA). Cubs knocked Miz around for 5 runs in 4 IP at Wrigley last week. Can they do it again?",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 2A",
+          "text": "Misiorowski: 14-5, 1.97 ERA, 227 strikeouts. NL Cy Young favorite.\n\nThe Cubs knocked him around for 5 runs in 4 innings last week.\n\nTonight's the rematch. Peterson needs to hold down the fort. 6:40 PM CT.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Game preview / bold take",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 228
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "PCA 40-40 Watch — One of the Greatest Seasons in Cubs History",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "40 HR / 33 SB. Needs 7 more steals for the 40-40 club (only 6 players in MLB history). No Cub has ever done it. 17 games to get there.",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "Pete Crow-Armstrong: 40 HR / 33 SB.\n\nSeven stolen bases from the 40-40 club. Six players in MLB history have ever done it. No Cub has ever done it.\n\n17 games to get there.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Bold stat milestone",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 191
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Matt Shaw Returns — Roster Depth Just In Time",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Shaw activated after hand strain (out since June 29). Hit .316 in 5 Iowa rehab games. Returns to fill 2B with Swanson still on oblique IL.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": "Matt Shaw: .316 in 5 Iowa rehab games. 6 hits. 4 RBI. Back in Chicago.\n\nWith Swanson's oblique keeping him sidelined, Shaw returns at EXACTLY the right time. Playoff roster depth activated.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Roster/injury news (informative)",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 215
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Wild Card Standings — Cubs WC1, But Race Is Tight",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Cubs 81-64 NL WC1 with Phillies right behind. Every win in this Brewers series matters for seeding. Making September hard by losing to the division leader.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5A",
+          "text": "Cubs: 81-64, NL WC1 — for now.\n\nThe Phillies are right there. Every game in this Brewers series is a playoff game.\n\nWin tonight. Win tomorrow. Don't make September harder than it has to be.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Standings analysis / bold take",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 214
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Jaxon Wiggins Is Making His October Case",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "4 straight scoreless Iowa bullpen outings. 7 K in 16 BF. Cubs need bullpen depth for October. The argument for calling him up is getting harder to ignore.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6A",
+          "text": "Jaxon Wiggins: 4 straight scoreless outings out of Iowa's bullpen. 7 strikeouts in 16 batters faced.\n\nThe Cubs need October arms. Wiggins is making his case louder every time out.\n\nCall him up. Now.\n\n#Cubs #CubsBaseball #GoCubs",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Prospect update / bold take",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#GoCubs"
+          ],
+          "char_count": 227
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

@@ -5,6 +5,58 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-09-08
+
+### STORY 1: Game Recap — Brewers 4, Cubs 3 — Late Lead Slips
+- **Angle:** NEW STORY. Cubs led 2-1 through seven innings; Ramírez solo HR (5th), Bregman RBI single (7th). Brewers scored twice in the 8th. Cubs fall in Game 1 of the series.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, recap)
+- **Follow-Up Opportunities:**
+  - Game 2 result recap (Sept 9 morning)
+  - Series outcome recap
+
+### STORY 2: Tonight's Game Preview — Peterson vs Misiorowski Rematch
+- **Angle:** NEW STORY. Misiorowski (14-5, 1.97 ERA, 227 K, NL Cy Young favorite) vs Peterson (7-8, 5.39 ERA). Cubs knocked Miz for 5 ER in 4 IP at Wrigley last week. 6:40 PM CT.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Peterson's line from tonight's game
+  - Game 2 result recap
+
+### STORY 3: PCA 40-40 Watch — 40 HR / 33 SB, Seven Away from History
+- **Angle:** FOLLOW UP. PCA at 40 HR / 33 SB. Needs 7 more SBs for 40-40 club (only 6 in MLB history). No Cub has ever done it. 17 games remain.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, bold stat milestone)
+- **Follow-Up Opportunities:**
+  - Each SB milestone en route to 40-40
+  - SB No. 40 announcement (historic 40-40 achievement)
+  - MVP award framing (November)
+
+### STORY 4: Matt Shaw Activated — Roster Depth Returns
+- **Angle:** NEW STORY. Shaw activated after hand strain (out since June 29). Hit .316 in 5 Iowa rehab games (6 hits, 4 RBI, 1 SB). Returns to 2B with Swanson on oblique IL.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, roster/injury news)
+- **Follow-Up Opportunities:**
+  - Shaw's first game stats on return
+  - Swanson activation announcement when it comes
+
+### STORY 5: NL Wild Card Standings — Cubs WC1 at 81-64, Race Tight
+- **Angle:** FOLLOW UP. Cubs 81-64 NL WC1, Phillies close behind. Every game in this Brewers series matters for seeding. 17 games remain.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, standings analysis)
+- **Follow-Up Opportunities:**
+  - Daily standings checks through September
+  - Cubs magic number for WC clinch
+
+### STORY 6: Jaxon Wiggins September Case — 4 Straight Scoreless Outings
+- **Angle:** FOLLOW UP. Wiggins has 4 straight scoreless Iowa bullpen appearances since moving from rotation mid-August; 7 K in 16 BF. Making case for September/October callup.
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, prospect update)
+- **Follow-Up Opportunities:**
+  - Wiggins callup announcement if/when it happens
+
+---
+
 ## 2026-09-07
 
 ### STORY 1: Series Preview — Cubs Open 3-Game Road Series at Milwaukee Brewers
