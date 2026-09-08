@@ -2094,3 +2094,48 @@ Track previously covered stories to avoid repetition and maintain content freshn
 - **Byline:** Ryan Calloway
 - **Key Facts:** All QF matchups confirmed (CBS Sports); QF start date Tuesday Sep 8 (tournament schedule)
 - **Follow-Up Opportunities:** Full QF coverage all matchups; SF preview
+
+### Story 1: Sabalenka Defeats Noskova 6-4, 6-3 — US Open QF Result
+- **Date:** 2026-09-08
+- **Angle:** FOLLOW-UP (2026-09-05 S3: QF preview) — RESULT: Sabalenka def. Noskova 6-4, 6-3 in 75 minutes. 14 winners, 14 UEs, 2 aces, 2 double faults. Moves to semis, keeps three-peat bid alive.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Marcus Cole
+- **Key Facts:** Score 6-4, 6-3 (WTA official); match duration 75 mins (scores24.live); Serena 3-peat 2012-14 (established history); Sabalenka's semis opponent: Gauff or Andreeva
+- **Follow-Up Opportunities:** Sabalenka SF result; three-peat completion
+
+### Story 2: All-American QF — Tiafoe vs. Michelsen
+- **Date:** 2026-09-08
+- **Angle:** NEW STORY — Frances Tiafoe (No. 11) vs. Alex Michelsen (unseeded), 1 PM ET Louis Armstrong. Guaranteed U.S. man in US Open SFs for first time since Roddick 2003. Tiafoe def. Medvedev 7-6(1), 6-4, 7-6(6); Michelsen def. Etcheverry 7-6(6), 6-4, 6-4.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Ryan Calloway
+- **Key Facts:** Match time 1 PM ET Louis Armstrong (CBS Sports); Tiafoe R4 score (ATP Tour); Michelsen R4 score (ATP Tour); Roddick last US Open winner 2003 (established); Michelsen 22 youngest US man in QF since Roddick 2002 (ESPN preview, MEDIUM)
+- **Follow-Up Opportunities:** Tiafoe or Michelsen SF result; U.S. man in final
+
+### Story 3: Gauff vs. Andreeva QF Preview
+- **Date:** 2026-09-08
+- **Angle:** NEW STORY — Coco Gauff (No. 3) vs. Mirra Andreeva (No. 6), evening Arthur Ashe. 2023 US Open champ vs. 2026 French Open champ. Gauff def. Jovic 6-1, 6-4; Andreeva def. Potapova 5-7, 6-4, 6-3. Andreeva beat Gauff at 2026 French Open SF.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Elena Voss
+- **Key Facts:** Gauff def. Jovic 6-1, 6-4 (CBS Sports); Andreeva def. Potapova 5-7, 6-4, 6-3 (mykhel); Gauff 2023 US Open champ (established); Andreeva 2026 FO champ (established prior pipeline); Andreeva beat Gauff FO 2026 SF (prior pipeline, MEDIUM)
+- **Follow-Up Opportunities:** QF result; SF matchup vs. Sabalenka
+
+### Story 4: Alcaraz vs. Shelton Night Session
+- **Date:** 2026-09-08
+- **Angle:** NEW STORY — Alcaraz (No. 2) vs. Shelton (No. 8), night session Ashe approx. 8 PM ET. Alcaraz H2H 3-0. Shelton beat Tsitsipas R4 6-2, 6-3, 6-4 with zero break points faced. Alcaraz returning from 139-day wrist injury.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Marcus Cole
+- **Key Facts:** Shelton def. Tsitsipas 6-2, 6-3, 6-4 no BPs (usopen.org); Alcaraz H2H 3-0 (ESPN preview, MEDIUM); night session approx. 8 PM ET (MEDIUM); Alcaraz injury duration 139 days (established prior pipeline)
+- **Follow-Up Opportunities:** QF result
+
+### Story 5: QF Day 2 Preview — Zverev, Pegula, Navarro, Van de Zandschulp
+- **Date:** 2026-09-08
+- **Angle:** NEW STORY — Wednesday QF Day 2: Zverev (No. 1) vs. Van de Zandschulp; Pegula (No. 3) vs. Navarro (No. 26). Zverev wary of "Botic's love of this tournament." Navarro beat Pegula at 2024 US Open. All-American women's QF guarantees U.S. woman in SFs.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 1 Image Concept
+- **Tier:** 2
+- **Byline:** Ryan Calloway
+- **Key Facts:** Zverev vs. VdZ and Pegula vs. Navarro on Wednesday (Sunday Guardian Live); Zverev quote (tennistemple.com); Navarro beat Pegula 2024 US Open (CBS Sports 2024); VdZ beat Gea R4 (mykhel, MEDIUM)
+- **Follow-Up Opportunities:** QF results Wednesday

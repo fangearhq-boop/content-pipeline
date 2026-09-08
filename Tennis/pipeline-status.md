@@ -1,85 +1,40 @@
 # Tennis Fanrecap — Pipeline Status
 
-Dashboard subfolder: `tfr`
+## Current Run: 2026-09-08
 
-## Current Status
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Sabalenka def. Noskova 6-4, 6-3 (WTA official, scores24.live); Tiafoe vs. Michelsen QF 1 PM ET (ATP Tour, CBS Sports); Gauff vs. Andreeva QF (CBS Sports, Tennis Majors); Alcaraz vs. Shelton night session (usopen.org, ESPN); Zverev vs. VdZ + Pegula vs. Navarro Wed (Sunday Guardian, tennistemple.com) |
+| Story History Check | COMPLETE | S1 follow-up (Sep 5 QF preview); S2 new (all-American QF guaranteed); S3 new (Gauff/Andreeva Gen Z rematch); S4 new (Alcaraz/Shelton night session); S5 new (QF Day 2 preview) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: wtatennis.com, cbssports.com, sundayguardianlive.com, atptour.com, tennismajors.com, usopen.org, espn.com, mykhel.com, tennistemple.com, en.tennistemple.com |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows; bylines: Marcus Cole [S1, S4], Ryan Calloway [S2, S5], Elena Voss [S3] |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories; all ≤280 chars verified; 0 #number usage |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; engagement questions; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 imagn concepts (5 stories × 2 formats: 1080x1350 social + 1200x630 hero); player-name-only search terms |
+| Articles (5) | COMPLETE | article-01 Sabalenka/Noskova (Marcus Cole, ~600 words, Tier 1); article-02 Tiafoe/Michelsen (Ryan Calloway, ~600 words, Tier 1); article-03 Gauff/Andreeva (Elena Voss, ~600 words, Tier 1); article-04 Alcaraz/Shelton (Marcus Cole, ~600 words, Tier 2); article-05 QF Day 2 (Ryan Calloway, ~550 words, Tier 2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 32 claims auto-generated; image manifest all not_started (expected) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles; posting-window warnings known cosmetic issue |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries (5 stories × 2), all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 27 items; image manifest warning expected (imagn images sourced separately) |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in session's authorized repository set (403 proxy) — known recurring issue |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser compat issue — returns 0 posts; ran both standard and --tobi |
+| WordPress Publish | BLOCKED | WordPress API proxy returns 403 Forbidden — known recurring issue; articles queued as drafts |
+| Story History | COMPLETE | 5 new entries appended to Tennis/story-history.md |
 
-| Stage | Status | Last Updated |
-|-------|--------|-------------|
-| Research | Complete | 2026-09-05 |
-| Writing | Complete (all steps) | 2026-09-05 |
-| Fact-check | Complete (verify-facts.py run — 5 stories, 16 claims) | 2026-09-05 |
-| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 5 articles, 22 items) | 2026-09-05 |
-| Dashboard | Complete (review-dashboard.html, 22 items) | 2026-09-05 |
-| PostPlanner Export | 0 posts (parser compat known issue) | 2026-09-05 |
-| WordPress Publish | Attempted — proxy blocks WordPress API (same as all prior runs) | 2026-09-05 |
-| Dashboard Push | Attempted — proxy lacks write access to content-dashboards repo (same as all prior runs) | 2026-09-05 |
-
-## Queue
-
-<!-- Add queued content items here -->
-
-## Published
-
-<!-- Move completed items here with publish date -->
-
-## Pipeline Run Log
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
+- **Articles:** 5 (bylines: Marcus Cole [S1, S4], Ryan Calloway [S2, S5], Elena Voss [S3])
+- **PostPlanner exports:** 0 posts (known parser compat issue)
+- **Key stories:** Sabalenka def. Noskova 6-4, 6-3 QF (three-peat bid alive); All-American QF Tiafoe vs. Michelsen 1 PM (U.S. man guaranteed in SFs first time since 2003); Gauff vs. Andreeva evening QF (2023 US Open champ vs. 2026 FO champ); Alcaraz vs. Shelton night session (3-0 H2H vs. home crowd favorite); QF Day 2 Wednesday Zverev/VdZ + Pegula/Navarro all-American women's QF
+- **Issues:** PostPlanner 0 posts (known); WordPress blocked by proxy; dashboard push blocked (not in session authorized repos)
+- **Story history:** Updated with all 5 stories
 
 ### 2026-09-07 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
-- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
-- **Posts:** 6 X posts + 5 FB posts (5 long-form + 5 captions) = 11 total
-- **Articles:** 5 (bylines: Marcus Cole [S1, S4], Ryan Calloway [S2, S5], Elena Voss [S3])
-- **PostPlanner exports:** 0 posts (known parser compat issue — same as prior runs)
-- **Key stories:** Three Americans (Shelton, Tiafoe, Michelsen) in US Open QF — first since 1995 (Shelton def. Tsitsipas 6-2, 6-3, 6-4; Tiafoe def. Medvedev 7-6, 6-4, 7-6; Michelsen def. Etcheverry 7-6, 6-4, 6-4); Women's QF set (Sabalenka vs. Noskova three-peat bid; Pegula vs. Navarro all-American); Day 9 R4 preview (Swiatek-Zheng, Gauff-Jovic, Rybakina-Osaka today); Eala exits R3 (Jovic 7-5, 3-6, 7-5 — deepest Grand Slam run by Filipino woman); QF preview week 2
-- **Issues:** image manifest all not_started (expected for imagn source); compile posting-window warnings cosmetic (known); PostPlanner 0 posts (known parser issue); WordPress blocked by proxy; dashboard push blocked by proxy (content-dashboards not in session authorized repos)
-- **Story history:** Updated with all 5 stories
-
-### 2026-09-05 — Full Pipeline Run
-- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
-- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
-- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
-- **Articles:** 5 (bylines: Ryan Calloway [S1, S4], Elena Voss [S2, S5], Marcus Cole [S3])
-- **PostPlanner exports:** 0 posts (known parser compat issue — same as prior runs)
-- **Key stories:** Alcaraz def. Wu Yibing 6-3, 6-4, 6-1 (27-3 at Flushing, .900 Open Era record, 17-match Grand Slam win streak, R4 vs. Paul); Shelton def. Shapovalov 7-6(3), 6-7(5), 6-2, 6-4 past 2 AM (147 mph, 14 aces, R4 vs. Tsitsipas); Eala vs. Jovic Arthur Ashe night session R3 7 PM ET (upgraded from Louis Armstrong due to demand, Jovic H2H 2-0, Philippine R4 history on line); four Americans sweep R3 (Paul def. Bublik 5-setter, Tiafoe def. Vacherot, Tiafoe-Medvedev R4 set); Day 8 R4 preview
-- **Issues:** verify-facts warning (imagn images not_started, expected); compile posting-window warnings cosmetic (known); PostPlanner 0 posts (known parser issue); WordPress blocked by proxy; dashboard push blocked by proxy (content-dashboards not in session authorized repos)
-- **Story history:** Updated with all 5 stories
-
-### 2026-09-04 — Full Pipeline Run
-- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
 - **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
 - **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
-- **Articles:** 5 (bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
-- **PostPlanner exports:** 0 posts (known parser compat issue — same as prior runs)
-- **Key stories:** Eala def. Oliynykova 6-1, 6-4 reaching first US Open R3 in Philippine history (No. 17 seed); Zverev def. Halys 6-4, 4-6, 7-6(3), 6-7(3), 6-3 in second straight five-setter (first top seed in Open Era to do this at start of a major); Gauff def. Badosa 6-4, 7-6(7/5) into R3 vs. Bucsa; Rybakina def. Bouzas Maneiro 6-2, 6-4 (ankle no factor); Day 7 R3 preview (Alcaraz vs. Wu Yibing, Shelton vs. Shapovalov, 16 players remain)
-- **Issues:** image manifest warning (expected for imagn source); compile posting-window warnings cosmetic (known); PostPlanner 0 posts (known parser issue); WordPress blocked by proxy; dashboard push blocked by proxy (content-dashboards not in session authorized repos)
-- **Story history:** Updated with all 5 stories
-
-### 2026-09-03 — Full Pipeline Run
-- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
-- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
-- **Posts:** 8 X posts + 5 FB posts (5 long-form + 5 captions) = 13 total
-- **Articles:** 5 (bylines: Marcus Cole [S1, S4], Ryan Calloway [S2, S5], Elena Voss [S3])
-- **PostPlanner exports:** 0 posts (known parser compat issue — same as prior runs)
-- **Key stories:** Alcaraz def. Faria 4-6, 6-0, 6-3, 6-2 advancing to R3 (defending champion into third round); Tien def. Monfils 6-3, 0-6, 6-3 in 121 min ending Monfils' emotional US Open farewell (18th and final appearance, signed balls and standing ovation); Eala vs. Oliynykova R2 rematch (Eala No. 17 seed, Oliynykova leads H2H 1-0 from Strasbourg clay); Day 5 evening preview (Gauff vs. Badosa 7PM Arthur Ashe, Zverev vs. Halys, Rybakina vs. Bouzas Maneiro); Men's draw R3 analysis (Alcaraz leads as Sinner/Djokovic/Fils all gone)
-- **Issues:** image manifest warning (expected for imagn source); compile posting-window warnings cosmetic (known); PostPlanner 0 posts (known parser issue); WordPress blocked by proxy; dashboard push blocked by proxy (content-dashboards not in session authorized repos)
-- **Story history:** Updated with all 5 stories
-
-### 2026-09-02 — Full Pipeline Run
-- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
-- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
-- **Posts:** 8 X posts + 5 FB posts (5 long-form + 5 captions) = 13 total
-- **Articles:** 5 (bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
-- **PostPlanner exports:** 0 posts (known parser compat issue — same as prior runs)
-- **Key stories:** Zverev survives epic 4h53m five-setter vs. Sonego 6-4, 3-6, 6-7(7), 7-5, 6-4; Monfils wins on 40th birthday (oldest man to win US Open match since Connors 1992; 34th US Open win, French record; 18th/final US Open before retirement); Rybakina shakes off Cincinnati ankle injury, beats Frodin 6-3, 6-2 in 74 min; Eala dominates Stoiana 6-1, 6-2 in 78 min (Louis Armstrong, R2 for 2nd straight year vs. Oliynykova); US Open Day 4/R2 preview (Alcaraz vs. Faria, Rybakina vs. Bouzas Maneiro, Gauff R2, Osaka vs. Siniakova, FAA vs. Khachanov)
-- **Issues:** image manifest warning (expected for imagn source); compile posting-window warnings cosmetic (known); PostPlanner 0 posts (known parser issue); WordPress blocked by proxy; dashboard push blocked by proxy (content-dashboards not in session authorized repos)
-- **Story history:** Updated with all 5 stories
-
-### 2026-09-01 — Full Pipeline Run
-- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
-- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
-- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
-- **Articles:** 5 (bylines: Ryan Calloway [S1, S4], Elena Voss [S2, S5], Marcus Cole [S3])
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Ryan Calloway [S2], Marcus Cole [S3, S5])
 - **PostPlanner exports:** 0 posts (known parser compat issue — same as prior runs)
 - **Key stories:** Alcaraz returns from 139-day absence to win R1 6-4, 6-4, 6-4 vs Safiullin (first match since April wrist injury); Tsitsipas stuns No. 10 Fils 4-6, 7-6(3), 6-1, 6-4 (second major upset after Djokovic D1; Tsitsipas was 0-5 vs Fils); Sabalenka opens three-peat bid def. Osorio 6-4, 6-4; Day 3 preview (Zverev, Gauff, Fritz, Keys, Eala all opening); Men's draw shakeup analysis (Sinner/Djokovic/Fils all gone before R2)
 - **Issues:** image manifest warning (expected for imagn source); compile posting-window warnings cosmetic (known); PostPlanner 0 posts (known parser issue); WordPress blocked by proxy; dashboard push blocked by proxy (content-dashboards not in session authorized repos)
@@ -104,23 +59,6 @@ Dashboard subfolder: `tfr`
 - **Key stories:** Buse wins Winston-Salem 6-3, 6-2 over Fery (youngest champion at 22y 5m, first Peruvian since 2004); US Open Day 1 opens (Djokovic vs. Navone tonight 7 PM ET, Rybakina vs. Frodin, Pegula vs. Ruse, Venus Williams vs. Kenin); Venus Williams eliminated R1 by Kenin (focuses on doubles with Serena — Serena's first Grand Slam since 2022 retirement, 14-time Grand Slam doubles champs); Rybakina entered singles draw despite not practicing since Cincinnati ankle injury; Alcaraz returns Monday vs. Safiullin (first match since April), Eala opens Monday vs. Stoiana (historic No. 17 seed)
 - **Issues:** image manifest all not_started (expected for imagn source); compile posting-window warnings cosmetic (known); PostPlanner 0 posts (known parser issue); WordPress blocked by proxy; dashboard push blocked by proxy (content-dashboards not in session authorized repos)
 - **Story history:** Updated with all 5 stories
-
-### 2026-08-29 — Full Pipeline Run
-- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
-- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
-- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
-- **Articles:** 5 (bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
-- **PostPlanner exports:** 0 posts (known parser compat issue — same as prior runs)
-- **Key stories:** Winston-Salem final Fery (GBR) vs. Buse (PER) at 4 PM ET — first ATP final for both, first Peruvian finalist since 2004; US Open main draw preview (starts Aug 30, Zverev No. 1, Alcaraz No. 2 returning from 4+ months, Sabalenka three-peat bid, Rybakina ankle doubt); Rybakina still not practicing (MRI done, "hasn't been on court yet"); Roger Federer Hall of Fame induction tonight 6:30 PM ET Newport RI (Tennis Channel); Eala No. 17 seed opens US Open vs. qualifier Sunday
-- **Issues:** image manifest all not_started (expected for imagn source); compile posting-window warnings cosmetic (known); PostPlanner 0 posts (known parser issue); WordPress blocked by proxy; dashboard push blocked by proxy (content-dashboards not in session authorized repos)
-- **Story history:** Updated with all 5 stories
-
-### 2026-08-28 — Full Pipeline Run
-- **Steps completed:** All 15
-- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
-- **Posts:** 8 X posts + 5 FB posts = 13 total
-- **Articles:** 5 (bylines: Marcus Cole [S1, S4], Ryan Calloway [S2, S5], Elena Voss [S3])
-- **Key stories:** US Open 2026 full preview; Rybakina ankle injury follow-up; Winston-Salem SF day; Eala No. 17 seed; Arthur Fils Cincinnati champion draws Tsitsipas R1
 
 ## Known Issues (Recurring)
 - WordPress publish: 403 proxy block — articles queued as drafts, pending manual publish or proxy fix
