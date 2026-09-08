@@ -6956,3 +6956,55 @@
 - **Tier:** 3
 - **Key Facts (HIGH):** Sports: flag football, soccer, tackle football; Organizer: Colorado Springs PRCS; Portal: ColoradoSprings.gov/YouthSports; Sources: coloradosprings.gov
 - **Follow-Up Opportunities:** Season opener coverage; registration close date follow-up
+
+## 2026-09-08
+
+### Story 1: Kith Children's Sleepwear Recall — Burn Hazard
+- **Date:** 2026-09-08
+- **Angle:** NEW STORY — Kith Retail recalled Kids Kithmas Plaid Lounge Sets (~130 sets, sold Dec 2025–Jan 2026, ~$75). Burn hazard: violates flammability standards. Destroy product, email recalls@kithnyc.com for gift card refund. No injuries reported.
+- **Pillar:** National Parenting
+- **Content Produced:** Article (QR table), 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Jamie Rivera
+- **Key Facts:** CPSC recall (cpsc.gov HIGH); Canada.ca corroboration (HIGH); product details, units, price, date, action steps (HIGH)
+- **Follow-Up Opportunities:** Refund outcome; any reported injuries
+
+### Story 2: Dresser Tip-Over Recalls — Gizoon Direct and Alanca
+- **Date:** 2026-09-08
+- **Angle:** NEW STORY — Two CPSC dresser recalls: Gizoon Direct 6-drawer double dressers (tip-over/entrapment) and Alanca 6-drawer wood dressers (Nanjing Wu Hai, doesn't meet federal standards). Both can trap/crush children. Stop use if not anchored; contact manufacturer for refund.
+- **Pillar:** National Parenting
+- **Content Produced:** Article (QR comparison table), 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Sarah Morales
+- **Key Facts:** Both recalls from CPSC via consumeraffairs.com Sep 4, 2026 roundup (HIGH); action steps (HIGH); anchor guidance (HIGH)
+- **Follow-Up Opportunities:** CPSC dresser safety update; additional recalls
+
+### Story 3: Pikes Peak Regional Airshow — September 19-20
+- **Date:** 2026-09-08
+- **Angle:** NEW STORY — Advance coverage 11 days out. Location: 7330 Embraer-Heights COS Airport. Grounds 8:30 AM, flying 11 AM–2:25 PM. F-35A, F/A-18, Wings of Blue, WWII warbirds. Free parking. Tickets at pprairshow.org.
+- **Pillar:** Local Events
+- **Content Produced:** Article (QR table), 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Jamie Rivera
+- **Key Facts:** Dates, location, hours (pprairshow.org HIGH); aircraft lineup (pprairshow.org/airshowcenter.com HIGH); free parking (visitcos.com HIGH); tickets link (HIGH)
+- **Follow-Up Opportunities:** Post-event coverage; WWII Aviation Museum partner story
+
+### Story 4: KIDS FEST Colorado Springs — September 19
+- **Date:** 2026-09-08
+- **Angle:** NEW STORY — Rocky Mountain PBS KIDS hosts KIDS FEST at Panorama Park, Sat Sep 19, 10 AM–2 PM. Free. Educational activities and crafts. Younger kids (preschool–early elementary). Same day as Airshow.
+- **Pillar:** Local Events
+- **Content Produced:** Article (QR table), 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Sarah Morales
+- **Key Facts:** Date, time, location, host, free admission (rmpbs.org HIGH); age range (MEDIUM editorial)
+- **Follow-Up Opportunities:** KIDS FEST recap; PBS KIDS events calendar
+
+### Story 5: Post-Labor Day School Routine Check-In
+- **Date:** 2026-09-08
+- **Angle:** NEW STORY — D49 wk7, D11 wk5, D20 wk4. Post-Labor Day routine reset guidance: consistent wake times, after-school decompression, activity schedule check. What to watch for in weeks 4-7.
+- **Pillar:** Evergreen
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 1 Image Concept
+- **Tier:** 3
+- **Byline:** Jamie Rivera
+- **Key Facts:** Week counts (MEDIUM — calculated from prior pipeline data); Labor Day Sep 7 (HIGH); district websites (HIGH); general parenting guidance (MEDIUM)
+- **Follow-Up Opportunities:** Mid-semester check-in; fall activity season roundup
