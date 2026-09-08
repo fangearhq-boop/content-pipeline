@@ -6549,3 +6549,48 @@
 - **Key facts:** Trade: Houston sends Finney-Smith + 2027 (via MEM) + 2028 + 2033 2nds to Charlotte; Houston receives $13M trade exception; Finney-Smith 37g last season 3.3/2.5/1.0; only 2026-27 salary ($13.3M) guaranteed in Charlotte; Rockets freed cap for Smart and Bogdanovic signings
 - **Status:** NEW
 - **Follow-up ideas:** Rockets use of trade exception, Finney-Smith in Charlotte
+
+## 2026-09-08
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-08 | T1 | LeBron vs. Knicks on Ring Night — Opening Night Matchup Headlines 2026-27 Schedule | X(2), FB, Article | NEW |
+| 2026-09-08 | T1 | Kawhi Leonard Trade Still Pending — NBA Investigation Delays Toronto Move | X(2), FB, Article | FOLLOW UP |
+| 2026-09-08 | T2 | Blazers' Bold Offseason — Lillard Returns from Achilles, Morant Trade Sets West Contender | X(1), FB, Article | NEW |
+| 2026-09-08 | T2 | Preseason Goes Global — Cavs to Spain, Kawhi Quebec City Camp, Blazers vs. BC London | X(1), FB, Article | NEW |
+| 2026-09-08 | T2 | 76ers Depth Chart Set — Brown, LeBron, Maxey, Embiid and Role Players Ready for Oct. 20 | X(1), FB, Article | NEW |
+
+### STORY 1: LeBron vs. Knicks on Ring Night
+- **Tier:** 1
+- **Category:** Philadelphia 76ers / LeBron James / New York Knicks / NBA Schedule
+- **Key facts:** Opening Night Oct. 20 at MSG is ring night for Knicks; 76ers debut LeBron (year 24, age 41); Knicks swept Sixers in 2026 second round; Knicks re-signed Brunson, Towns, added Drummond; Sixers added Brown, LeBron, KCP, Simons; training camp Sept. 28 (veterans)
+- **Status:** NEW
+- **Follow-up ideas:** Training camp reports, preseason vs. Nets Oct. 8, Opening Night matchup coverage
+
+### STORY 2: Kawhi Leonard Trade Still Pending
+- **Tier:** 1
+- **Category:** Toronto Raptors / Kawhi Leonard / Los Angeles Clippers / NBA Investigation
+- **Key facts:** Trade not ratified by NBA; investigation into undisclosed Clippers/Aspiration sponsorship; trade terms: Kawhi for Ingram+Dick+2031 UPF+2033 UPF+2027 swap+2 2nds; Raptors camp opens Sept. 28 Quebec City
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Investigation conclusion, official trade ratification, Kawhi first practice in Toronto
+
+### STORY 3: Portland Trail Blazers Offseason
+- **Tier:** 2
+- **Category:** Portland Trail Blazers / Damian Lillard / Ja Morant / NBA Training Camp
+- **Key facts:** Lillard cleared from Achilles injury; Morant acquired via trade (two-time All-Star); Branden Carlson signed (veteran minimum); Micah Potter claimed off waivers from Indiana; camp opens Sept. 29
+- **Status:** NEW
+- **Follow-up ideas:** Camp reports, Lillard/Morant chemistry, preseason performance
+
+### STORY 4: International Preseason
+- **Tier:** 2
+- **Category:** NBA Preseason / International Games / Portland Trail Blazers / Cleveland Cavaliers
+- **Key facts:** Blazers vs. BC London Lions Oct. 12 — first NBA vs. British club in history; Cavs train in Andalusia Spain Sept. 30–Oct. 5 at "The Embassy" (designed partly by Jose Calderon); NBA Canada Games Quebec City+Vancouver; preseason begins Oct. 3; regular season Oct. 20
+- **Status:** NEW
+- **Follow-up ideas:** London game preview, Cavs camp reports, Canada Games coverage
+
+### STORY 5: 76ers Depth Chart
+- **Tier:** 2
+- **Category:** Philadelphia 76ers / Joel Embiid / LeBron James / NBA Roster
+- **Key facts:** Starters: Maxey, Brown, LeBron, TBD, Embiid; depth: KCP, Simons, Hukporti, Wade, Philon Jr.; Embiid 57 games last 2 seasons; Sixers swept in 2026 second round; home opener Oct. 22 vs. Cavs
+- **Status:** NEW
+- **Follow-up ideas:** Training camp health reports, Embiid preseason load management, opening week performance
