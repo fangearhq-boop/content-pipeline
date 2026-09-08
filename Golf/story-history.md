@@ -2,6 +2,56 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-09-08
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-08 | T1 | Solheim Cup Final Practice Day — Three Days Out at Bernardus Golf | X(2), FB, Article | FOLLOW UP |
+| 2026-09-08 | T1 | LIV Golf Prepares for Bankruptcy — Saudi PIF Ends Funding After 2026 | X(2), FB, Article | FOLLOW UP |
+| 2026-09-08 | T2 | Presidents Cup 2026 Full Rosters — Three USA Debutants, Medinah Sept. 24-27 | X(1), FB, Article | NEW |
+| 2026-09-08 | T2 | LIV 2.0: Scott O'Neil's $250-350M Deal to Save Golf's Rebel League | X(1), FB, Article | FOLLOW UP |
+| 2026-09-08 | T2 | Scheffler Leads USA at Medinah — World No. 1 and FedExCup Champion | X(1), FB, Article | NEW |
+
+### STORY 1: Solheim Cup Final Practice Day
+- **Tier:** 1
+- **Category:** Solheim Cup / LPGA / USA vs Europe / Bernardus Golf / Netherlands / Nelly Korda / Charley Hull / Lottie Woad
+- **Key facts:** Final practice day Sept. 8; competition Sept. 11-13 at Bernardus Golf, Cromvoirt, Netherlands; USA captain Angela Stanford; Europe captain Anna Nordqvist; USA defending champion (won 15.5-12.5 in 2024); Nelly Korda world No. 1 (10-5-1 record); Charley Hull 8th straight Solheim; Woad world No. 5; 12 players per team; 28 total matches; 14.5 points to win
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Opening foursomes results; Day 1 scoreboard; pairings breakdown
+
+### STORY 2: LIV Golf Bankruptcy
+- **Tier:** 1
+- **Category:** LIV Golf / Bankruptcy / Chapter 11 / PIF / Saudi Arabia / DeChambeau / Rahm / Cameron Smith / Player Settlements
+- **Key facts:** Chapter 11 filing expected as early as next week (Sept. 2026); PIF reportedly invested $5-8B over 4 years; 300+ staff layoffs underway; player settlements at fraction of guaranteed values; PGA Tour CEO Brian Rolapp says no standard reinstatement path; Returning Member Program existed but narrow
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Filing date confirmation; player settlement decisions; PGA Tour reinstatement response
+
+### STORY 3: Presidents Cup Full Rosters
+- **Tier:** 2
+- **Category:** Presidents Cup / PGA Tour / Medinah Country Club / Team USA / International / Brandt Snedeker / Geoff Ogilvy / Scottie Scheffler / Hideki Matsuyama / Jackson Koivun
+- **Key facts:** 16th edition; Sept. 24-27 at Medinah Country Club, Illinois; USA auto qualifiers: Scheffler, Young, Clark, Henley, Burns, Morikawa; USA picks: Cantlay, Schauffele, Thomas, Bridgeman, Gotterup, Koivun (21yo, Auburn, debut); International auto: Si Woo Kim, Matsuyama, Fox, Tom Kim, Min Woo Lee, Adam Scott; International picks: Conners, Im, Hisatsune, Echavarria, Taylor, Bezuidenhout; USA won 11 of 15 editions
+- **Byline:** Marcus Cole
+- **Status:** NEW
+- **Follow-up ideas:** Pairings release; match draw analysis; Day 1 results
+
+### STORY 4: LIV 2.0 Survival Plan
+- **Tier:** 2
+- **Category:** LIV Golf / LIV 2.0 / Scott O'Neil / BC Partners / Private Equity / Restructuring / Player Equity
+- **Key facts:** O'Neil pursuing $250-350M deal; BC Partners identified as potential investor; players would convert guaranteed money owed to equity stakes in new entity; scaled-down schedule; reduced organization vs. 300+ staff LIV; deal in final stages per reports
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Deal closing announcement; player equity acceptance decisions; broadcast deal progress
+
+### STORY 5: Scheffler Leads USA at Presidents Cup
+- **Tier:** 2
+- **Category:** Scottie Scheffler / Presidents Cup / Team USA / FedExCup / Medinah / Jackson Koivun / Brandt Snedeker
+- **Key facts:** Scheffler world No. 1 and 2026 FedExCup champion; USA auto qualifiers: Scheffler, Young, Clark, Henley, Burns, Morikawa; USA picks include 21yo Koivun (debut); Matsuyama is International anchor; USA historically dominant: 11 of 15 editions; Medinah historically USA stronghold
+- **Byline:** Marcus Cole
+- **Status:** NEW
+- **Follow-up ideas:** Pairings preview; Scheffler foursomes partner speculation; match draw analysis
+
 ## 2026-09-07
 
 | Date | Tier | Story | Platforms | Status |
