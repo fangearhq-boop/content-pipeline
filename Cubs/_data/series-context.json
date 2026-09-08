@@ -1,25 +1,17 @@
 {
-  "generated_at": "2026-09-07T08:30:00.643137+00:00",
-  "today_ct": "2026-09-07",
+  "generated_at": "2026-09-08T08:30:00.515273+00:00",
+  "today_ct": "2026-09-08",
   "off_day": false,
-  "is_series_start_today": true,
+  "is_series_start_today": false,
   "series": {
     "opponent": "Milwaukee Brewers",
     "opponent_id": 158,
-    "opponent_record": "88-56",
-    "cubs_record": "81-63",
+    "opponent_record": "89-56",
+    "cubs_record": "81-64",
     "is_cubs_home": false,
     "venue": "American Family Field",
-    "series_length": 3,
+    "series_length": 2,
     "games": [
-      {
-        "game_pk": "823742",
-        "game_date_iso": "2026-09-07T18:10:00Z",
-        "game_date_ct": "Mon 1:10 PM CT",
-        "cubs_probable": "TBD",
-        "opponent_probable": "TBD",
-        "status": "Preview"
-      },
       {
         "game_pk": "823738",
         "game_date_iso": "2026-09-08T23:40:00Z",
@@ -37,22 +29,22 @@
         "status": "Preview"
       }
     ],
-    "rationale": "Yesterday vs Miami Marlins; today vs Milwaukee Brewers \u2192 game 1 of 3 (on the road)."
+    "rationale": "Same opponent (Milwaukee Brewers) as yesterday \u2014 this is mid-series, not a series opener."
   },
   "today_cubs_game": {
-    "game_pk": "823742",
+    "game_pk": "823738",
     "status": "Preview",
     "detailed_status": "Scheduled",
-    "game_date_iso": "2026-09-07T18:10:00Z",
-    "game_date_ct": "Mon 1:10 PM CT",
+    "game_date_iso": "2026-09-08T23:40:00Z",
+    "game_date_ct": "Tue 6:40 PM CT",
     "is_cubs_home": false,
     "opponent_id": 158,
     "opponent_name": "Milwaukee Brewers",
-    "opponent_record": "88-56",
-    "cubs_record": "81-63",
+    "opponent_record": "89-56",
+    "cubs_record": "81-64",
     "cubs_probable": "TBD",
     "opponent_probable": "TBD",
     "venue": "American Family Field"
   },
-  "rationale": "Yesterday vs Miami Marlins; today vs Milwaukee Brewers \u2192 game 1 of 3 (on the road)."
+  "rationale": "Same opponent (Milwaukee Brewers) as yesterday \u2014 this is mid-series, not a series opener."
 }
