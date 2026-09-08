@@ -1,0 +1,244 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-08",
+  "compiled_at": "2026-09-08T10:33:36.177568+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Pete Crow-Armstrong — 40-40 Watch, Seven Steals Needed",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "**Text Post 1** [9:00 AM]\n40 homers. 33 stolen bases. Seven more to history.\n\nPCA needs 7 SBs in roughly 18 games to become the 7th member of the 40-40 club — joining Canseco, Bonds, A-Rod, Soriano, Acuña, and Ohtani.\n\n#Cubs #PCA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#PCA"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-pca-40-40-watch.html",
+        "headline": "Seven Steals Away: Pete Crow-Armstrong Is Chasing the 40-40 Club",
+        "word_count": 538
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Pete Crow-Armstrong — 40-40 Watch\n\n**Image Concept 1**\n- **Format:** Static graphic (1080x1080)\n- **Text:** \"40 HR · 33 SB · 7 to History\" (large center text) / \"Pete Crow-Armstrong\" (below) / \"40-40 Watch\" (top label)\n- **Color palette:** Cubs blue and red on dark background\n- **Photo:** PCA batting or celebrating (imagn search: Pete Crow-Armstrong Cubs)\n- **Use:** Standalone post or X/FB header\n\n**Image Concept 2**\n- **Format:** Static graphic (1080x1080)\n- **Text:** \"The 40-40 Club\" (header) / Listed: Canseco · Bonds · A-Rod · Soriano · Acuña · Ohtani / \"PCA: 40 HR, 33 SB — 7 away\" (bottom)\n- **Color palette:** Dark slate with gold accents\n- **Photo:** No photo — text/infographic format\n- **Use:** FB post or article header\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Pete Crow-Armstrong — 40-40 Watch\n**Sources:** si.com, mlb.com, espn.com, chicago.suntimes.com, clutchpoints.com\n**Verified Facts (HIGH confidence):**\n- PCA hit his 40th HR on Sept. 6, 2026 vs. Miami Marlins (game-tying hit in top of 5th, 403 feet to right field)\n- Cubs fell to the Marlins in that game despite PCA's 40th\n- 40-40 club (all-time): Jose Canseco, Barry Bonds, Alex Rodriguez, Alfonso Soriano, Ronald Acuña Jr., Shohei Ohtani — 6 members; PCA would be 7th\n- PCA has 33 SBs as of Sept. 7 pipeline; needs 7 more in approximately 18 remaining games\n- First Cub to hit 40 HR since Derrek Lee in 2005\n- Youngest Cub to reach 40 HR: 24 years, 165 days old (passing Ernie Banks at 24 years, 214 days in 1955)\n- 4th player age 24 or younger with 40 HR + 30+ SB in same season (joining Acuña, A-Rod, Canseco)\n- NL MVP frontrunner; odds approximately -1100\n- Cubs record: 81-63, WC1\n**Verified Facts (MEDIUM confidence):**\n- PCA's exact SB count as of Sept. 8: carried forward from Sept. 7 pipeline at 33; may have added since",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Misiorowski at American Family Field — Cubs Redux",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "**Text Post 1** [12:30 PM]\nMisiorowski starts today at American Family Field vs. the Cubs.\n\n14-5, 1.97 ERA. His only rough outing in 2026 was Sept. 2 at Wrigley: 5 ER, 4 BB, 4 IP — snapping a 26-start streak.\n\nToday he answers it. #Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-misiorowski-cubs-redux.html",
+        "headline": "One Bad Start, One More Chance: Misiorowski Faces the Cubs Again",
+        "word_count": 540
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Jacob Misiorowski — Cubs Redux at American Family Field\n\n**Image Concept 1**\n- **Format:** Static graphic (1080x1080)\n- **Text:** \"Misiorowski vs. Cubs · Round 2\" (top) / \"14-5 · 1.97 ERA · American Family Field\" (bottom)\n- **Color palette:** Brewers navy and gold\n- **Photo:** Misiorowski mid-delivery (imagn search: Jacob Misiorowski Brewers)\n- **Use:** Standalone post or preview graphic\n\n**Image Concept 2**\n- **Format:** Static graphic (1080x1080)\n- **Text:** \"Sept. 2 at Wrigley: 5 ER · 4 BB · 4 IP\" / \"Sept. 8 at American Family Field: ?\" (question mark, large)\n- **Color palette:** Dark background, white and gold text\n- **Photo:** No photo — contrast/comparison format\n- **Use:** Story teaser or FB post\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Jacob Misiorowski — Cubs Redux at American Family Field\n**Sources:** si.com, mlb.com, brewcrewball.com, yahoo sports\n**Verified Facts (HIGH confidence):**\n- Misiorowski scheduled to start Sept. 8 at American Family Field vs. Cubs (LHP David Peterson)\n- Season record: 14-5, 1.97 ERA\n- This is his 4th start of 2026 against the Cubs\n- Sept. 2 at Wrigley: 5 ER, 5 H, 4 BB, 4 IP — matched career worsts; Brewers won 9-5\n- The Sept. 2 outing snapped a 26-start streak of allowing 3 or fewer earned runs to open the 2026 season\n- NL Cy Young Award frontrunner\n- No other rough start in 2026 besides the Sept. 2 start vs. Cubs\n- Brewers are NL Central leaders with MLB-best record (approx. 86-53)\n- Hall of Famer sent Misiorowski an uplifting message before this start (per SI.com)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Alvarez Triple Crown Chase — Leads All Three, 20 Games Left",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "**Text Post 1** [10:30 AM]\nYordan Alvarez leads the AL in batting average, home runs, and RBIs.\n\nAll three. Roughly 20 games to play.\n\nThe last AL Triple Crown winner was Miguel Cabrera in 2012.\n\n#Astros #TripleCrown",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Astros",
+            "#TripleCrown"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-alvarez-triple-crown.html",
+        "headline": "Fourteen Years Later: Yordan Alvarez Is Chasing the AL Triple Crown",
+        "word_count": 491
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Yordan Alvarez — Triple Crown Chase\n\n**Image Concept 1**\n- **Format:** Static graphic (1080x1080)\n- **Text:** \"Triple Crown Watch\" (header) / \"BA · HR · RBI\" (three columns, each with leader and stat) / \"Yordan Alvarez leads all three\" (bottom)\n- **Color palette:** Astros navy and orange on dark background\n- **Photo:** Alvarez at bat or celebrating (imagn search: Yordan Alvarez Astros)\n- **Use:** Daily Triple Crown tracker post\n\n**Image Concept 2**\n- **Format:** Static graphic (1080x1080)\n- **Text:** \"Last AL Triple Crown: Cabrera 2012\" (top) / \"Next? Alvarez 2026?\" (large center)\n- **Color palette:** Dark background, gold and white\n- **Photo:** No photo — historical comparison format\n- **Use:** Context/historical graphic\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Yordan Alvarez — Triple Crown Chase\n**Sources:** si.com, mlb.com, cbssports.com, sportsgrid.com\n**Verified Facts (HIGH confidence):**\n- Alvarez leads AL in all three Triple Crown categories\n- Last AL Triple Crown winner: Miguel Cabrera (Detroit Tigers), 2012\n- BA: approximately .314-.317 (leads Chandler Simpson by approximately 5-9 points)\n- HR: approximately 37-38 (tied or leading Junior Caminero, Tampa Bay Rays)\n- RBI: approximately 94-95 (tied or leading Pete Alonso, Baltimore Orioles)\n- Approximately 20 games remaining in regular season (season ends Sept. 27)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Shohei Ohtani — Back in the Lineup, Not on the Mound",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "**Text Post 1** [8:00 AM]\nOhtani is back. Returned Sunday after missing 4 days (left knee, right biceps, neck). Dodgers won 6-3 vs. Cincinnati.\n\nHe went 0-for-3 with 2 Ks. He will not pitch in 2026. #Dodgers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers"
+          ],
+          "char_count": 207
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-ohtani-returns.html",
+        "headline": "Back but Not Right: Ohtani Returns to the Dodgers Lineup With Questions Unanswered",
+        "word_count": 549
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Shohei Ohtani — Return to Lineup\n\n**Image Concept 1**\n- **Format:** Static graphic (1080x1080)\n- **Text:** \"Back in the Lineup\" (header) / \"Ohtani returns · Sept. 7\" / \"Won't pitch in 2026\" (subtext)\n- **Color palette:** Dodgers blue and white\n- **Photo:** Ohtani in Dodgers uniform at DH or batting (imagn search: Shohei Ohtani Dodgers)\n- **Use:** Return announcement graphic\n\n**Image Concept 2**\n- **Format:** Static graphic (1080x1080)\n- **Text:** \"Since Aug. 18:\" / \"7-for-51 · .137 BA · 20 Ks\" (large stat line) / \"Ohtani\" (bottom)\n- **Color palette:** Dark background, muted blue-gray with white text\n- **Photo:** No photo — slump stat graphic\n- **Use:** Stats-focused FB or X post\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Shohei Ohtani — Return to Lineup\n**Sources:** clickorlando.com, nbclosangeles.com, 933kjr.iheart.com\n**Verified Facts (HIGH confidence):**\n- Ohtani returned to Dodgers lineup Sept. 7, 2026 after 4-day absence\n- Missed 4 days due to: left knee soreness, right biceps soreness, neck soreness (3 ailments)\n- Return game: Dodgers 6, Reds 3 (Dodgers win)\n- Ohtani's stat line in return: 0-for-3, 2 strikeouts, 1 walk\n- Will NOT pitch again in 2026 (confirmed by Roberts; Ohtani also confirmed through interpreter)\n- Pitching return targeted for 2027\n- Current slump: 7-for-51 (.137 BA), 20 strikeouts since Aug. 18\n- Dodgers focused on protecting Ohtani's health for full DH role through season",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "NL Wild Card — Four Teams, Three Spots, 18 Games Left",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "**Text Post 1** [12:30 PM]\nNL Wild Card standings today:\n\nWC1: Cubs — 81-63\nWC2: Phillies — 80-63 (0.5 GB)\nWC3: D-backs — 76-68\nBubble: Padres — 75-68 (0.5 GB from WC3)\n\n18 games left. Wild Card begins Sept. 29. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-nl-wild-card-race.html",
+        "headline": "Four Teams, Three Spots, 18 Games: The NL Wild Card Race Enters Its Final Chapter",
+        "word_count": 582
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NL Wild Card Race\n\n**Image Concept 1**\n- **Format:** Static graphic (1080x1080)\n- **Text:** \"NL Wild Card · Sept. 8\" (header) / Four-row standings table with team, record, GB / \"18 Games Left · Wild Card begins Sept. 29\" (footer)\n- **Color palette:** Dark background, team colors for each row\n- **Photo:** No photo — standings board format\n- **Use:** Daily standings post\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NL Wild Card Race\n**Sources:** foxsports.com, cbssports.com, forbes.com, yahoo sports\n**Verified Facts (HIGH confidence):**\n- Cubs: 81-63, WC1\n- Phillies: 80-63, WC2 (0.5 GB behind Cubs)\n- Arizona Diamondbacks: 76-68, WC3\n- San Diego Padres: 75-68 (0.5 GB behind D-backs for WC3)\n- 4 teams in genuine contention for 3 NL Wild Card spots\n- Regular season ends Sept. 27; Wild Card Series begins Sept. 29\n- Brewers in NL Central first place (NL's best record ~86-53)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

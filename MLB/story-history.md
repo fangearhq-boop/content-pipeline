@@ -5,6 +5,50 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-09-08
+
+### Story 1: PCA — 40 HR, 33 SB, Seven From 40-40
+- **Date:** 2026-09-08
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** PCA at 40 HR and 33 SB. Needs 7 SBs in roughly 18 games to become the 7th member of the 40-40 club (Canseco/Bonds/A-Rod/Soriano/Acuña/Ohtani). Hit No. 40 Sept. 6 vs Miami Marlins (403 ft, top 5th). First Cub with 40 HR since Derrek Lee 2005. Youngest Cub at 40 HR: 24 yr 165 days (passed Ernie Banks). 4th player age 24 or younger with 40 HR + 30+ SB (joining Acuña, A-Rod, Canseco). NL MVP -1100. Cubs 81-63 WC1.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:** Each stolen base toward 40; 40-40 achievement; Cubs WC race
+
+### Story 2: Misiorowski — Cubs Redux at American Family Field
+- **Date:** 2026-09-08
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Misiorowski starts TODAY at American Family Field vs Cubs. 14-5, 1.97 ERA. 4th Cubs start of 2026. Sept. 2 at Wrigley: 5 ER, 5 H, 4 BB, 4 IP — matched career worsts, snapped 26-start streak of 3 ER or fewer. Hall of Famer sent uplifting message before start (per SI). LHP David Peterson opposing. Brewers ~86-53, MLB best.
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:** Today's result; Cy Young odds; postseason preparation
+
+### Story 3: Alvarez — Triple Crown Chase, Leads All Three, 20 Games Left
+- **Date:** 2026-09-08
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Alvarez leads AL in all 3 Triple Crown categories: ~.315 BA (ahead of Chandler Simpson ~5 pts), ~38 HR (tied Junior Caminero, TB), ~95 RBI (tied Pete Alonso, BAL). Last AL Triple Crown winner: Cabrera 2012. ~20 games remaining.
+- **Content Produced:** Article (article-03, Ryan Calloway), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:** Daily TC leaderboard tracking; any category flip; Alonso/Caminero surges
+
+### Story 4: Ohtani — Returned to Lineup, Won't Pitch in 2026
+- **Date:** 2026-09-08
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Ohtani returned Sept. 7 vs Reds (Dodgers 6-3). 0-for-3, 2 K, 1 BB. Won't pitch in 2026 (confirmed Roberts + Ohtani via interpreter). Pitching return targeted 2027. Slump: 7-for-51 (.137 BA), 20 K since Aug. 18. Three ailments: left knee, right biceps, neck. Dodgers protecting health for DH role through season.
+- **Content Produced:** Article (article-04, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:** Ohtani offensive production recovery; Dodgers postseason positioning
+
+### Story 5: NL Wild Card Race — Four Teams, Three Spots, 18 Games
+- **Date:** 2026-09-08
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Cubs 81-63 WC1, Phillies 80-63 WC2 (0.5 GB), D-backs 76-68 WC3, Padres 75-68 (0.5 GB from WC3). ~18 games remaining. Wild Card Series Sept. 29. Season ends Sept. 27.
+- **Content Produced:** Article (article-05, Jake Torres), 2 X posts, FB post, 1 image concept
+- **Follow-Up Opportunities:** Daily standings update; WC3 battle D-backs vs Padres; Cubs/Phillies WC1 race
+
+---
+
 ## 2026-09-07
 
 ### Story 1: PCA — 40 HR, 7 From 40-40
