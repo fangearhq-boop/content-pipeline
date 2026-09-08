@@ -6330,3 +6330,48 @@
 - **Key facts:** Antonelli 242 pts; leads Russell/Hamilton by 59, Norris by 83; age 20; Toto Wolff confirmed Monza chosen deliberately for engine penalty; 4th ICE, 4th exhaust (max 4), 3rd energy store, 3rd control electronics (max 3); started by Spanish GP PU failure; Monza overtaking opportunities for recovery drive
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Race result, recovery drive performance, championship standings after Monza
+
+## 2026-09-08
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-08 | T1 | Leclerc Cleared for Madrid After Monza Vision Scare — Ferrari Driver Passes Medical Tests | X(2), FB, Article | FOLLOW UP |
+| 2026-09-08 | T1 | F1 Debuts at Madring This Weekend — Madrid Grand Prix Opens New Era for Spanish Racing | X(2), FB, Article | NEW |
+| 2026-09-08 | T2 | Antonelli vs. Russell in Madrid — Championship Leader Targets Three Straight Wins | X(1), FB, Article | FOLLOW UP |
+| 2026-09-08 | T2 | Ferrari's Mission in Madrid — Hamilton and Leclerc Must Score Big to Close Gap | X(1), FB, Article | FOLLOW UP |
+| 2026-09-08 | T2 | Season Finale Calendar in Limbo — Domenicali's Qatar/Abu Dhabi Decision Due Mid-September | X(1), FB, Article | FOLLOW UP |
+
+### STORY 1: Leclerc Cleared for Madrid
+- **Tier:** 1
+- **Category:** Ferrari / Charles Leclerc / Madrid Grand Prix / F1 Medical
+- **Key facts:** 23G crash at Monza Parabolica Lap 2; right-eye vision issues post-crash; imaging in Monaco Monday; Dr. Isabel Ornaque (Madring medical director) required neurological clearance; Leclerc PASSED all checks; cleared to race Madrid Sept. 11-13
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** FP1 times, qualifying, race performance
+
+### STORY 2: Madrid Grand Prix Debut at Madring
+- **Tier:** 1
+- **Category:** F1 Madrid Grand Prix / Madring / IFEMA Madrid / F1 Calendar
+- **Key facts:** Race dates Sept. 11-13; Madring at IFEMA Madrid trade fair complex; F1's first race at this circuit; Spain's second GP in 2026 (Barcelona was Round 8); purpose-built hybrid street/permanent circuit; passed FIA track inspection 2026
+- **Status:** NEW
+- **Follow-up ideas:** FP1 lap times, qualifying pole, race result, circuit review
+
+### STORY 3: Antonelli Championship Momentum
+- **Tier:** 2
+- **Category:** Kimi Antonelli / Mercedes / F1 Championship / Madrid Grand Prix
+- **Key facts:** Antonelli 267 pts, leads by 66 over Russell (201); Hamilton 191, Norris 184; Dutch GP + Italian GP consecutive wins; Mercedes leads Constructors' by 87 over Ferrari
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Madrid qualifying, race result, championship standings
+
+### STORY 4: Ferrari Madrid Mission
+- **Tier:** 2
+- **Category:** Ferrari / Lewis Hamilton / Charles Leclerc / Madrid Grand Prix / Constructors Championship
+- **Key facts:** Ferrari 87 pts behind Mercedes in Constructors'; Hamilton P6 Monza; Leclerc Monza DNF Lap 2; Leclerc cleared for Madrid; 8 rounds remaining
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Ferrari FP times, qualifying, race performance
+
+### STORY 5: Season Finale Calendar
+- **Tier:** 2
+- **Category:** F1 Calendar / Qatar GP / Abu Dhabi GP / Season Finale / Imola / Portimao
+- **Key facts:** Domenicali: decision "by mid-September"; Qatar Nov 27-29; Abu Dhabi Dec 4-6; Bahrain + Saudi cancelled; Malaysia Sepang replacement Oct 2-4; Imola leading contingency; Portimao alternative; US strikes near Strait of Hormuz context
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official FOM announcement, Imola/Portimao confirmed or Middle East proceeds

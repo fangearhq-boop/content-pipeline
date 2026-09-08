@@ -1,0 +1,272 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-08",
+  "compiled_at": "2026-09-08T11:31:49.002901+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Leclerc Cleared for Madrid",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "CONFIRMED: Charles Leclerc has passed all medical checks and will race in Madrid this weekend.\n\nAfter a 23G crash at Monza and a vision scare in his right eye, Ferrari's No. 16 gets the all-clear.\n\nBig relief for Ferrari. 🔴\n\n#F1 #Leclerc #MadridGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Leclerc",
+            "#MadridGP"
+          ],
+          "char_count": 247
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Leclerc cleared for Madrid. His Monza crash hit 23G. He had blurred vision in his right eye. He flew to Monaco for scans. The Madring medical director required neurological clearance.\n\nHe passed everything. The man is made of steel. #F1 #Leclerc",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Leclerc"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-leclerc-cleared-madrid-gp-monza-crash-recovery.html",
+        "headline": "Leclerc Cleared to Race in Madrid After Monza Vision Scare and Medical Checks",
+        "word_count": 660
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Leclerc Cleared for Madrid\n\n**Image Concept 1A — Social (1080x1350)**\n- Search term: `Charles Leclerc Ferrari`\n- Caption overlay: \"CLEARED TO RACE / Leclerc Passes Medical Tests / Madrid GP Ahead\"\n- Mood: Relief, determination, red Ferrari energy\n\n**Image Concept 1B — Article Hero (1200x630)**\n- Search term: `Charles Leclerc Ferrari`\n- Caption overlay: \"Monza Survivor\"\n- Mood: Strong, resilient\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Leclerc Cleared for Madrid\n**Key verified facts (HIGH confidence):**\n- Leclerc crashed at Parabolica on Lap 2 (Lap 3 by some reports) of Italian GP — fought with Piastri, lost rear\n- 23G deceleration on impact with tyre barrier\n- Reported blurred/impaired vision in right eye post-crash\n- Underwent further medical imaging in Monaco (Monday, Sept. 7)\n- Ferrari doctor Dr. Isabel Ornaque (Madring medical director) required neurological clearance\n- Charles Leclerc has passed all medical checks and will race in Madrid",
+        "sources": "- Source: motorsport.com, scuderiafans.com, Yahoo Sports"
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Madrid Grand Prix — Circuit Debut",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "This weekend, F1 races on a brand-new circuit for the first time in 2026.\n\nThe Madring at IFEMA Madrid makes its Formula 1 debut. Sept. 11-13.\n\nTwo Spanish GPs on the calendar this year. Only one of them is entirely new. ¡Vamos! 🇪🇸\n\n#F1 #MadridGP #Madring",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MadridGP",
+            "#Madring"
+          ],
+          "char_count": 255
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Madrid GP weekend schedule:\n\nFri Sept. 11 — Free practice\nSat Sept. 12 — Qualifying\nSun Sept. 13 — Race\n\nAntonelli leads by 66 pts. Leclerc is cleared. Hamilton needs points. This is going to be a weekend. 🏎️\n\n#F1 #MadridGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MadridGP"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-madrid-gp-madring-circuit-f1-debut-preview.html",
+        "headline": "F1 Makes History in Madrid: Everything You Need to Know About the Madring Circuit Debut",
+        "word_count": 697
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Madrid Grand Prix — Madring Debut\n\n**Image Concept 2A — Social (1080x1350)**\n- Search term: stock: Madrid Spain skyline cityscape\n- Photo source: stock (no specific F1 driver — circuit debut)\n- Caption overlay: \"INAUGURAL MADRID GP / Sept. 11-13 / Madring F1 Debut\"\n- Mood: Exciting, historic, Spanish flag colors\n\n**Image Concept 2B — Article Hero (1200x630)**\n- Search term: stock: racing circuit aerial view\n- Photo source: stock\n- Caption overlay: \"New Track, New History\"\n- Mood: Fresh, cinematic\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Madrid Grand Prix — Madring Debut\n**Key verified facts (HIGH confidence):**\n- Race: F1 Madrid Grand Prix / Spanish Grand Prix at Madring circuit, IFEMA Madrid\n- Dates: September 11-13, 2026 (FP1 Friday, Qualifying Saturday, Race Sunday)\n- Circuit: Madring — purpose-built F1 hybrid street/permanent circuit at IFEMA Madrid trade fairgrounds\n- First F1 race at this circuit\n- Spain's second F1 race on 2026 calendar (Barcelona-Catalunya was Round 8, June)",
+        "sources": "- Source: madring.com, formula1.com race calendar, chicandbasic.com"
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Antonelli Championship Momentum",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "Window: 10:00 AM ET\n```\nKimi Antonelli in 2026:\n\n✅ Dutch GP win\n✅ Italian GP win (from P19)\n⬜ Madrid GP win?\n\n267 pts. 66-point lead over Russell. Three wins in a row would be a statement.\n\n#F1 #Antonelli #MadridGP\n```\nCharacter count: ~193 chars ✓",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Antonelli",
+            "#MadridGP"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-antonelli-championship-madrid-three-peat.html",
+        "headline": "Antonelli Targets Three Straight Wins in Madrid as Championship Lead Swells to 66 Points",
+        "word_count": 646
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli Championship\n\n**Image Concept 3A — Social (1080x1350)**\n- Search term: `Kimi Antonelli Mercedes`\n- Caption overlay: \"267 PTS / 66-POINT LEAD / Can Anyone Stop Him?\"\n- Mood: Dominant, blue/silver Mercedes tones\n\n**Image Concept 3B — Article Hero (1200x630)**\n- Search term: `Kimi Antonelli Mercedes`\n- Caption overlay: \"The Road to the Title\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Championship Standings After Monza\n**Key verified facts (HIGH confidence):**\n- Antonelli: 267 points, leads by 66 over Russell (201 pts)\n- Hamilton: 191 points (3rd, 76 pts behind Antonelli)\n- Norris: 184 points (4th, 83 pts behind Antonelli)\n- Antonelli's last 2 wins: Dutch GP + Italian GP\n- Mercedes Constructors' lead over Ferrari: 87 points",
+        "sources": "- Source: crash.net, motorsport.com, racingnews365.com championship standings post-Monza"
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Ferrari's Madrid Mission",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": "Window: 2:00 PM ET\n```\nFerrari is 87 points behind Mercedes in Constructors'. Hamilton was P6 at Monza. Leclerc DNF'd Lap 2.\n\nMadrid is a must-score weekend. The pressure is on. #F1 #Ferrari #MadridGP\n```\nCharacter count: ~178 chars ✓",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Ferrari",
+            "#MadridGP"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-ferrari-madrid-must-score-constructors.html",
+        "headline": "Ferrari Needs a Big Weekend in Madrid: 87 Points Behind in Constructors, Clock Is Ticking",
+        "word_count": 617
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ferrari Mission Madrid\n\n**Image Concept 4A — Social (1080x1350)**\n- Search term: `Lewis Hamilton Ferrari`\n- Caption overlay: \"87 Points Behind / Ferrari's Madrid Must-Have\"\n- Mood: Urgent, red\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Ferrari Performance Context\n**Key verified facts (HIGH confidence):**\n- Monza race: Hamilton P6 for Ferrari (+24.655s behind Antonelli)\n- Leclerc DNF Lap 2 due to crash — 0 championship points\n- Ferrari Constructors' sits behind Mercedes by 87 points\n- Monza is known power-sensitive circuit; Ferrari typically competitive at higher-downforce venues",
+        "sources": "- Source: crash.net race results, motorsport.com standings"
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Season Finale Calendar — Qatar/Abu Dhabi Decision",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5A",
+          "text": "Window: 8:00 PM ET\n```\nDomenicali: F1 season finale decision is coming \"by mid-September.\"\n\nQatar + Abu Dhabi still on the calendar. Bahrain + Saudi already cancelled.\n\nImola is the leading backup plan. Watch this space. #F1\n```\nCharacter count: ~202 chars ✓",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-f1-season-finale-calendar-qatar-abu-dhabi-imola.html",
+        "headline": "F1 Season Finale Calendar in Limbo: Domenicali's Mid-September Deadline Looms",
+        "word_count": 596
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Season Finale Calendar\n\n**Image Concept 5A — Social (1080x1350)**\n- Search term: stock: Formula 1 race track calendar\n- Photo source: stock\n- Caption overlay: \"Qatar? Abu Dhabi? Imola? / Decision by Mid-September\"\n- Mood: Suspenseful, uncertainty"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Season Finale Calendar\n**Key verified facts (HIGH confidence):**\n- Domenicali stated decision on season finale venues \"by mid-September\"\n- Qatar GP: Nov. 27-29, Lusail International Circuit\n- Abu Dhabi GP: Dec. 4-6, Yas Marina Circuit\n- Bahrain and Saudi Arabian GPs already cancelled from 2026 calendar\n- Bahrain rerouted to Malaysia Sepang (Oct. 2-4)\n- Contingency candidates: Imola (leading option) or Portimao\n- Context: US strikes near Strait of Hormuz, regional instability in Middle East",
+        "sources": "- Source: f1-fansite.com, formula1.com calendar"
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
