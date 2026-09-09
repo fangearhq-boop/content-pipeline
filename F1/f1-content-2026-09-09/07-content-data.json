@@ -1,0 +1,255 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-09",
+  "compiled_at": "2026-09-09T11:31:16.760820+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Madrid Grand Prix Debut",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "F1 is in Madrid this weekend. For the first time. Ever.\n\nThe Madring circuit debuts Friday — FP1 at 7:30 AM ET.\n\nNo team has real-world data. No one has raced here before.\n\nThis is what F1 does. 🏎️🇪🇸\n\n#F1 #SpanishGP #Madring",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#SpanishGP",
+            "#Madring"
+          ],
+          "char_count": 224
+        },
+        {
+          "label": "Post 1-2",
+          "text": "September 13, 2026 will be the date of the first Formula 1 race ever held in Madrid.\n\nF1's 81st circuit. The Madring at IFEMA. The banked corner. 340 kph straights.\n\nHistory is happening this Sunday. #F1 #SpanishGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#SpanishGP"
+          ],
+          "char_count": 214
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-madrid-grand-prix-madring-debut-f1-2026.html",
+        "headline": "F1 Makes History in Madrid: Everything You Need to Know About the Madring Circuit Debut",
+        "word_count": 675
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Madrid Grand Prix Debut at Madring\n\n**Image Concept 1A — Social (1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Formula 1 Spain Grand Prix\"\n- **Caption overlay:** \"F1 makes history in Madrid 🇪🇸 Sept 11-13\"\n- **Notes:** Wide shot of F1 action; Madrid debut angle.\n\n**Image Concept 1B — Social (1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Formula 1 paddock circuit debut\"\n- **Caption overlay:** \"Madring. F1's 81st circuit. Nobody has data. 🏎️\"\n- **Notes:** Pit lane or paddock scene.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Antonelli's Championship Momentum",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Kimi Antonelli's championship lead entering Madrid:\n\n+66 over Russell\n+76 over Hamilton\n+96 over Norris\n\n8 rounds left. A third straight win Sunday would put this away.\n\nAnd no one has data for this circuit. 🏆\n\n#F1 #Antonelli",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Antonelli"
+          ],
+          "char_count": 225
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Antonelli won from 19th at Monza last week. Won in the Netherlands the week before.\n\nBack-to-back wins. Championship lead of 66 points. Age 20.\n\nThree in a row is possible. At a circuit nobody's ever raced. #F1 #Antonelli",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Antonelli"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-antonelli-championship-madring-no-data-circuit.html",
+        "headline": "Kimi Antonelli's Championship Race Arrives at the One Circuit Where Nobody Has an Advantage",
+        "word_count": 762
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli Championship\n\n**Image Concept 2A — Social (1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Kimi Antonelli Mercedes\"\n- **Caption overlay:** \"267 pts. 66-point lead. Three in a row? 🏆\"\n- **Notes:** Antonelli driving or celebrating.\n\n**Image Concept 2B — Social (1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"George Russell Mercedes Formula 1\"\n- **Caption overlay:** \"Russell. Hamilton. Norris. All chasing 66+ points at Madring.\"\n- **Notes:** Russell as championship challenger.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Leclerc Cleared for Madring",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "Window: 12:00 PM ET\n```\nLeclerc is cleared to race at Madring after his 23G Monza crash.\n\nFerrari needs a statement result. 112 points down in the Drivers'. 87 down in Constructors'.\n\nNo excuses. Time to score. #F1 #Ferrari\n```\nCharacter count: ~201 chars ✓",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Ferrari"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-leclerc-ferrari-madring-constructors-championship.html",
+        "headline": "Leclerc Is Cleared for Madring. Now Ferrari Needs to Make the Most of It.",
+        "word_count": 690
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Leclerc at Madring\n\n**Image Concept 3A — Social (1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Charles Leclerc Ferrari\"\n- **Caption overlay:** \"Cleared. Ready. Ferrari needs a statement at Madring. 🔴\"\n- **Notes:** Leclerc in Ferrari gear.\n\n**Image Concept 3B — Social (1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Lewis Hamilton Ferrari 2026\"\n- **Caption overlay:** \"Ferrari is 87 points down. This weekend matters. 🔴\"\n- **Notes:** Hamilton in Ferrari uniform for Constructors' context.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Madring Circuit Guide",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": "Window: 2:00 PM ET\n```\nMadring this weekend:\n— 5.47 km, 22 turns\n— Longest banked corner in modern F1\n— 340 kph top speeds\n— No team has EVER raced here\n\nFormula 1 at its most equal. Everyone is guessing. #F1 #Madring\n```\nCharacter count: ~203 chars ✓",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Madring"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-madring-circuit-guide-banked-corner-technical-preview.html",
+        "headline": "Madring Technical Guide: The Banked Corner, 340 kph Straights, and Why This Weekend Is Formula 1's Great Equalizer",
+        "word_count": 772
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Madring Circuit Guide\n\n**Image Concept 4A — Social (1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Formula 1 circuit banked turn\"\n- **Caption overlay:** \"The banked corner. Nobody's raced it yet. #F1 #Madring\"\n- **Notes:** Action shot at a banked corner (archive from another circuit for visual context).\n\n**Image Concept 4B — Social (1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Formula 1 Madrid Spain IFEMA\"\n- **Caption overlay:** \"5.47 km. 22 turns. 340 kph. Madrid debuts Sunday.\"\n- **Notes:** Circuit-related or general F1 action.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Season Finale Calendar",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5A",
+          "text": "Window: 5:00 PM ET\n```\nDomenicali said a decision on the 2026 season finale was coming \"by mid-September.\"\n\nMid-September starts Thursday.\n\nImola? Portimao? The Gulf? A decision could drop any day now. #F1 #F1Calendar\n```\nCharacter count: ~199 chars ✓",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#F1Calendar"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-f1-season-finale-calendar-domenicali-decision-imola-portimao.html",
+        "headline": "The F1 Season Finale Decision Is Coming This Week — Domenicali Said Mid-September, and Mid-September Starts Thursday",
+        "word_count": 658
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Season Finale Calendar\n\n**Image Concept 5A — Social (1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Stefano Domenicali FOM Formula 1\"\n- **Caption overlay:** \"The season finale decision is coming this week. 📋 #F1\"\n- **Notes:** Domenicali or F1 officials for calendar story.\n\n**Image Concept 5B — Social (1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Imola Formula 1 circuit\"\n- **Caption overlay:** \"Imola or Portimao? The answer is coming by mid-September.\"\n- **Notes:** Imola circuit as one of the leading contingency options."
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

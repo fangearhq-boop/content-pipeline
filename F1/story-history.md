@@ -6375,3 +6375,48 @@
 - **Key facts:** Domenicali: decision "by mid-September"; Qatar Nov 27-29; Abu Dhabi Dec 4-6; Bahrain + Saudi cancelled; Malaysia Sepang replacement Oct 2-4; Imola leading contingency; Portimao alternative; US strikes near Strait of Hormuz context
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Official FOM announcement, Imola/Portimao confirmed or Middle East proceeds
+
+## 2026-09-09
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-09 | T1 | F1 Arrives at Madring This Weekend — Everything You Need to Know About Madrid's Debut | X(2), FB, Article | NEW |
+| 2026-09-09 | T1 | Antonelli's Championship at the Unknown Circuit — 267 Points, 66-Point Lead, No Team Has Data | X(2), FB, Article | FOLLOW UP |
+| 2026-09-09 | T2 | Leclerc at Madring — Ferrari's Medical Clearance Was Just the Start | X(1), FB, Article | FOLLOW UP |
+| 2026-09-09 | T2 | Madring Circuit Guide — The Banked Corner, 340 kph Straights, and Why Nobody Knows What to Expect | X(1), FB, Article | NEW |
+| 2026-09-09 | T2 | Season Finale Calendar — Domenicali's Mid-September Decision Is Almost Here | X(1), FB, Article | FOLLOW UP |
+
+### STORY 1: F1 Debut at Madring
+- **Tier:** 1
+- **Category:** F1 Madrid Grand Prix / Madring / IFEMA Madrid / F1 Calendar
+- **Key facts:** Race Sept 11-13; FP1 1330 local (0730 ET) Fri; FP2 1700 local; FP3 1230 Sat; Qualifying 1600 Sat; Race 1500 Sun; 5.47km 22-turn hybrid circuit; F1's 81st circuit; longest banked corner in modern F1; 340 kph top speed; weather 30-33°C
+- **Status:** NEW
+- **Follow-up ideas:** FP1 times, qualifying result, race winner, circuit review
+
+### STORY 2: Antonelli Championship at Madring
+- **Tier:** 1
+- **Category:** Kimi Antonelli / Mercedes / F1 Championship / Madrid Grand Prix
+- **Key facts:** Antonelli 267 pts; leads Russell by 66 (201), Hamilton by 76 (191), Norris by 96 (171); back-to-back wins Dutch+Italian (from 19th); 8 rounds remaining; Mercedes leads Constructors' by 87; Madring equalizes setup knowledge
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Qualifying position, race result, championship standings update
+
+### STORY 3: Leclerc at Madring
+- **Tier:** 2
+- **Category:** Ferrari / Charles Leclerc / Madrid Grand Prix / Constructors Championship
+- **Key facts:** Monza 23G crash Lap 2; vision issues; Monaco imaging; Dr. Ornaque cleared Leclerc; Leclerc 155 pts (5th, 112 behind Antonelli); Ferrari 87 pts behind Mercedes Constructors'
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** FP1 times, qualifying, race performance
+
+### STORY 4: Madring Circuit Guide
+- **Tier:** 2
+- **Category:** Madring / F1 Circuit / Madrid Grand Prix / F1 Technology
+- **Key facts:** 5.47km 22-turn hybrid; IFEMA Madrid northeastern edge; longest banked corner modern F1; 340 kph main straight; public road + permanent track; 30-33°C race day; no real-world F1 data exists
+- **Status:** NEW
+- **Follow-up ideas:** Setup analysis after FP1, tire compound choices revealed
+
+### STORY 5: Season Finale Calendar
+- **Tier:** 2
+- **Category:** F1 Calendar / Season Finale / Domenicali / Imola / Portimao
+- **Key facts:** Domenicali "by mid-September" deadline; Qatar Nov 27-29 + Abu Dhabi Dec 4-6 on calendar; Malaysia Sepang Oct 2-4 added; Imola and Portimao leading contingency options; Bahrain+Saudi cancelled
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official FOM announcement
