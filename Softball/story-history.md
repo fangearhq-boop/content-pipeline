@@ -3,6 +3,65 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-09-09
+
+### Story 1: Class of 2028 — In-Person Window Opens TODAY
+- **Date:** 2026-09-09
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** TODAY at 7 AM ET the in-person contact window opens. Coaches can show up in person at schools, homes, and practices for the first time. 1,226 EIS nominations record. Peyton Ushery already committed to Georgia (No. 2 HOT 100). Commit wave begins.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - First wave of Class of 2028 commits announced today/this week
+  - Official visit scheduling begins
+  - In-person visit recap stories
+
+### Story 2: USA WNT — Three Days to Devon Park
+- **Date:** 2026-09-09
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** 3 days to Devon Park OKC opener. USA opens Sept. 12 vs. No. 7 Mexico at 7:30 PM. Netherlands (No. 6) is the round-robin top-seed decider. Top 2 → Redcliffe 2027 Finals. LA28 on the line. Garcia+Mulipola 2020 Olympians; 7 World Games golds on roster. 5-0 at IC same venue.
+- **Content Produced:** Article (article-02, Emily Rawlings), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Sept. 12 opening game USA vs Mexico
+  - Round-robin USA vs Netherlands
+  - Sept. 16 play-off bracket
+
+### Story 3: Oklahoma — 3 Days Until Gasso Departs
+- **Date:** 2026-09-09
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** 3 days until Gasso, JT Gasso, and Rocha depart for Team USA (Sept. 12). Final stretch of fall camp with complete coaching staff. Wells homered twice off Berzon in scrimmages. Berzon 2x AA LSU 486.1IP 2.02ERA 406K. Harter .346 MTSU. Fall opener Sept. 30 (21 days).
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - OU fall opener Sept. 30
+  - Gasso returns from WNT Sept. 17
+  - Berzon/Harter rotation competition
+
+### Story 4: Texas Longhorns — Week 4, 20 Days to Opener
+- **Date:** 2026-09-09
+- **Tier:** 3
+- **Classification:** FOLLOW UP
+- **Angle:** Week 4 fall practice. Torres+Kavan past the adjustment phase, into execution. 20 days to Sept. 29 opener vs Murray State. Only UCLA (1988-90) + OU (2021-23) have three-peated.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Texas fall opener Sept. 29
+  - Torres-Kavan chemistry signals
+  - Kavan senior season milestones
+
+### Story 5: Texas Tech — Week 4, Compound Setting
+- **Date:** 2026-09-09
+- **Tier:** 3
+- **Classification:** FOLLOW UP
+- **Angle:** Week 4 of fall camp. Beachum (.406 BA FSU), Pickering (No. 2 transfer .384 BA 50HR OU), Heavener (LHP 13-9 2.81ERA 128Ks LSU). 7 All-Americans as one team. Chemistry forming. Glasco Year 2.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - TTU fall scrimmage results
+  - Leadership emergence signals
+  - Glasco media availability
+
+---
+
 ## 2026-09-08
 
 ### Story 1: USA WNT — Four Days to Devon Park
