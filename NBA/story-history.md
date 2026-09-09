@@ -6594,3 +6594,48 @@
 - **Key facts:** Starters: Maxey, Brown, LeBron, TBD, Embiid; depth: KCP, Simons, Hukporti, Wade, Philon Jr.; Embiid 57 games last 2 seasons; Sixers swept in 2026 second round; home opener Oct. 22 vs. Cavs
 - **Status:** NEW
 - **Follow-up ideas:** Training camp health reports, Embiid preseason load management, opening week performance
+
+## 2026-09-09
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-09 | T1 | Kawhi Leonard Photographed in Miami with Raptors — "I Hope So...We Gonna Win" | X(2), FB, Article | FOLLOW UP |
+| 2026-09-09 | T1 | LeBron Effect: 76ers Set Franchise Record with 34 National TV Games in 2026-27 | X(2), FB, Article | NEW |
+| 2026-09-09 | T2 | James Harden Contract Officially Done — Cavs' 19-Day Cap Scramble Ends | X(1), FB, Article | FOLLOW UP |
+| 2026-09-09 | T2 | East Power Rankings Heading Into Training Camp — Every Contender's Status | X(1), FB, Article | NEW |
+| 2026-09-09 | T2 | West Preview: Blazers Backcourt, Thunder Youth, Nuggets Experience Head Into Camp | X(1), FB, Article | NEW |
+
+### STORY 1: Kawhi Leonard in Miami
+- **Tier:** 1
+- **Category:** Toronto Raptors / Kawhi Leonard / NBA Transactions / Training Camp
+- **Key facts:** Photographed in Miami at Raptors mini-camp; limited to individual workouts (trade not ratified); quote: "I hope so...we gonna win"; trade still under NBA investigation (Ballmer + Frank suspended); trade terms: Kawhi for Ingram+Dick+2031/2033 UPF+2027 swap+2 2nds; camp opens Sept 28 Quebec City
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Investigation conclusion, official trade ratification, Kawhi first official Raptors workout
+
+### STORY 2: 76ers Franchise-Record TV Schedule
+- **Tier:** 1
+- **Category:** Philadelphia 76ers / LeBron James / NBA Schedule / National Television
+- **Key facts:** 76ers to have franchise-record 34 nationally televised games in 2026-27; LeBron signing drove commercial impact; Opening Night Oct 20 at MSG vs. Knicks; home opener Oct 22 vs. Cavs; LeBron preseason Oct 8 at Brooklyn
+- **Status:** NEW
+- **Follow-up ideas:** Schedule highlights as season approaches, national TV viewership numbers
+
+### STORY 3: James Harden Contract Official
+- **Tier:** 2
+- **Category:** Cleveland Cavaliers / James Harden / NBA Contracts / Training Camp
+- **Key facts:** 3-year, $97M officially finalized after 19-day cap scramble; declined $42.3M player option; player option in year 3; ~$30M/year; Cavs lost 2026 ECF to Knicks; starters: Harden+Mitchell+[wing]+Mobley+Allen; home opener Oct 22 vs. LeBron's Sixers
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Media Day Sept 28, Spain camp Sept 30-Oct 5, home opener Oct 22
+
+### STORY 4: East Power Rankings
+- **Tier:** 2
+- **Category:** Eastern Conference / NBA Preview / Power Rankings
+- **Key facts:** No.1 Knicks (defending champs); No.2 Sixers (LeBron+Embiid+Brown); No.3 Heat (Giannis); No.4 Raptors (pending Kawhi); No.5 Cavs (Harden+Mitchell+Mobley); Celtics rebuilding; Bucks transitioning
+- **Status:** NEW
+- **Follow-up ideas:** Training camp power rankings update, preseason performance
+
+### STORY 5: West Preview
+- **Tier:** 2
+- **Category:** Western Conference / NBA Preview / Portland Trail Blazers / Oklahoma City Thunder
+- **Key facts:** Portland's Lillard+Morant backcourt is West's top storyline; Blazers camp Sept 29; BC London game Oct 12; OKC Thunder rising; Nuggets/Jokic anchored; Lakers first year without LeBron since 2018
+- **Status:** NEW
+- **Follow-up ideas:** Camp reports, Lillard/Morant preseason chemistry, OKC/Denver early season results
