@@ -2139,3 +2139,50 @@ Track previously covered stories to avoid repetition and maintain content freshn
 - **Byline:** Ryan Calloway
 - **Key Facts:** Zverev vs. VdZ and Pegula vs. Navarro on Wednesday (Sunday Guardian Live); Zverev quote (tennistemple.com); Navarro beat Pegula 2024 US Open (CBS Sports 2024); VdZ beat Gea R4 (mykhel, MEDIUM)
 - **Follow-Up Opportunities:** QF results Wednesday
+
+## 2026-09-09
+
+### Story 1: Ben Shelton Defeats Carlos Alcaraz in Five-Set Marathon
+- **Date:** 2026-09-09
+- **Angle:** FOLLOW-UP (2026-09-08 S4: Alcaraz vs. Shelton night session preview) — RESULT: Shelton def. Alcaraz 6-7(5), 6-1, 6-3, 1-6, 7-6(10-6) in 4h28m, finishing ~3:30 AM ET. First career win for Shelton over Alcaraz. Biggest win of Shelton's career. Advances to third Grand Slam SF.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Elena Voss
+- **Key Facts:** Score 6-7(5), 6-1, 6-3, 1-6, 7-6(10-6) (CBS Sports, Al Jazeera, Yahoo Sports HIGH); 4h28m duration (CBS Sports HIGH); 3:30 AM ET finish (CBS/Al Jazeera MEDIUM); first career Shelton win over Alcaraz (HIGH); Alcaraz returning from 139-day injury (HIGH)
+- **Follow-Up Opportunities:** Tiafoe vs. Shelton SF result; all-American men's final
+
+### Story 2: Frances Tiafoe Defeats Alex Michelsen in Five-Set Comeback
+- **Date:** 2026-09-09
+- **Angle:** FOLLOW-UP (2026-09-08 S2: All-American QF preview) — RESULT: Tiafoe def. Michelsen 5-7, 3-6, 7-5, 6-3, 7-6 after coming back from two-set deficit. Second US Open SF for Tiafoe.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Ryan Calloway
+- **Key Facts:** Score 5-7, 3-6, 7-5, 6-3, 7-6 (Yahoo Sports MEDIUM); two-set comeback (multiple sources HIGH)
+- **Follow-Up Opportunities:** Tiafoe vs. Shelton SF result
+
+### Story 3: All-American Men's SF Preview — Tiafoe vs. Shelton
+- **Date:** 2026-09-09
+- **Angle:** NEW STORY — Historic all-American men's SF scheduled Friday Sep 11. U.S. man guaranteed in US Open final for first time in over two decades.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Marcus Cole
+- **Key Facts:** SF matchup confirmed (CBS Sports/Yahoo Sports HIGH); Friday Sep 11 date (MEDIUM)
+- **Follow-Up Opportunities:** SF result; US Open final
+
+### Story 4: Gauff vs. Andreeva Women's QF Preview (Today 12:30 PM ET)
+- **Date:** 2026-09-09
+- **Angle:** FOLLOW-UP (2026-09-08 S3: Gauff/Andreeva QF preview) — match day coverage. 2023 US Open champ vs. 2026 French Open champ at Arthur Ashe, 12:30 PM ET. Rematch of 2026 FO SF.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Elena Voss
+- **Key Facts:** Match time 12:30 PM ET Arthur Ashe (HIGH); seedings Gauff No. 4, Andreeva No. 5 (HIGH); winner vs. Sabalenka (HIGH)
+- **Follow-Up Opportunities:** QF result; SF vs. Sabalenka
+
+### Story 5: QF Day 2 Evening Preview — Zverev/VdZ + Pegula/Navarro
+- **Date:** 2026-09-09
+- **Angle:** FOLLOW-UP (2026-09-08 S5: QF Day 2 preview) — match-day preview. Zverev vs. VdZ at 6:30 PM ET. Pegula vs. Navarro. All-American women's QF guarantees U.S. woman in semis.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Ryan Calloway
+- **Key Facts:** Zverev vs. VdZ 6:30 PM ET (MEDIUM); Pegula No. 3 Navarro No. 26 (HIGH); Navarro beat Pegula 2024 US Open (MEDIUM)
+- **Follow-Up Opportunities:** QF results Wednesday evening; SF bracket complete
