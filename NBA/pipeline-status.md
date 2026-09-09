@@ -1,7 +1,7 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Current Status
-**Last Run:** 2026-09-08
+**Last Run:** 2026-09-09
 **Steps Completed:** All pipeline steps (1-14); WordPress publish blocked by proxy policy
 
 ## Deploy Info
@@ -11,6 +11,31 @@
 - **Note:** Dashboard publish push blocked (content-dashboards not in authorized repo set)
 
 ## Pipeline Run Log
+
+### 2026-09-09 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
+- Step 10: verify-facts.py run — 5 stories, claims verified
+- Step 10b: compile-content-data.py — 5 stories, 7 tweets, 5 articles compiled (3 char limit fixes applied)
+- Step 11: Image manifest created
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated
+- Step 14a: publish-unified-dashboard.py — push blocked (proxy policy for content-dashboards)
+- Step 14b: generate-postplanner-export.py — 0 posts exported (known parsing issue)
+- Step 14c: generate-postplanner-export.py --tobi — 0 posts (known parsing issue)
+- Step 15: publish-to-wordpress.py — BLOCKED (fanrumor.com not allowed by egress proxy)
+- Git commit + push: ✅ Committed and pushed to main
+
+**Stories covered:**
+1. T1 NEW: Kawhi Leonard Joins Miami — Raptors Minicamp Trade, "I Hope So" Quote
+2. T1 FOLLOW UP: 76ers 34 National TV Games — Franchise Record, LeBron Matchups Drive Schedule
+3. T2 NEW: James Harden Signs 3-Year, $97M Deal with Cavaliers — Official
+4. T2 NEW: NBA East Power Rankings — Celtics, 76ers, Knicks, Pacers, Cavs Top 5
+5. T2 NEW: NBA West Preview — Blazers, Thunder, Nuggets, Lakers Training Camp
+
+**Issues:**
+- WordPress publish blocked by proxy policy (fanrumor.com not reachable from remote environment)
+- content-dashboards push blocked (not in authorized repo set)
+- PostPlanner export parsed 0 posts (known script parsing issue; posts are in 03/04 files)
 
 ### 2026-09-08 ✅ (Automated)
 - Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)

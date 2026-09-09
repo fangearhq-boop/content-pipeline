@@ -2,6 +2,56 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-09-09
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-09 | T1 | LIV Golf Files Chapter 11 Bankruptcy — All Contracts Terminated, Rahm Leads Creditor List at $7.4M | X(2), FB, Article | NEW |
+| 2026-09-09 | T1 | Solheim Cup Preview — USA vs. Europe, Netherlands, Matches Begin Friday | X(2), FB, Article | FOLLOW UP |
+| 2026-09-09 | T2 | Rahm, DeChambeau, Smith: What Comes Next After LIV Golf Bankruptcy? | X(1), FB, Article | NEW |
+| 2026-09-09 | T2 | Presidents Cup Preview — Tiger Captains USA at Medinah, September 22-27 | X(1), FB, Article | FOLLOW UP |
+| 2026-09-09 | T2 | LIV 2.0 and BC Partners — What the Restructuring Plan Means for Alternative Golf | X(1), FB, Article | NEW |
+
+### STORY 1: LIV Golf Files Chapter 11 Bankruptcy
+- **Tier:** 1
+- **Category:** LIV Golf / Bankruptcy / Chapter 11 / Jon Rahm / Bryson DeChambeau / Saudi PIF / LIV 2.0 / BC Partners
+- **Key facts:** Filed Sept. 8, 2026; $500M+ in debt; all player contracts automatically terminated; PIF provides $49.6M DIP financing; Rahm ~$7.4M unsecured; DeChambeau ~$5.7M contingent; Smith and Johnson among leading creditors; BC Partners to fund LIV 2.0 in 2027; PIF spent estimated $5B+ since 2022
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+- **Follow-up ideas:** Court process timeline; player settlement outcomes; BC Partners deal finalization; Greg Norman role announcement
+
+### STORY 2: Solheim Cup Preview
+- **Tier:** 1
+- **Category:** Solheim Cup / LPGA / USA vs Europe / Bernardus Golf / Netherlands / Nelly Korda / Angela Stanford / Anna Nordqvist / Charley Hull / Rose Zhang
+- **Key facts:** Sept. 11-13 at Bernardus Golf, Cromvoirt, Netherlands; USA captain Angela Stanford; Europe captain Anna Nordqvist; Korda world No. 1; USA defending champion (15.5-12.5 in 2024); Hull 8 consecutive Solheim appearances; 14.5 points to win; 3 European rookies: Lopez Ramirez, Nadaud, Mimi Rhodes
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Day 1 foursomes results; Day 2 four-balls scoreboard; Sunday singles pairings
+
+### STORY 3: LIV Players' Future
+- **Tier:** 2
+- **Category:** PGA Tour / LIV Players / Jon Rahm / Bryson DeChambeau / Cameron Smith / Reinstatement / Q-School
+- **Key facts:** Rolapp: "no current path back" — named Rahm, DeChambeau, Smith; Tour offered reinstatement with tight deadline, players declined; Q-School and Monday qualifying available; LIV 2.0 not obligatory; DP World Tour option for European players
+- **Byline:** Marcus Cole
+- **Status:** NEW
+- **Follow-up ideas:** Player reinstatement applications; Q-School entries; LIV 2.0 player signings
+
+### STORY 4: Presidents Cup Preview
+- **Tier:** 2
+- **Category:** Presidents Cup / Medinah / Tiger Woods / Scottie Scheffler / Rory McIlroy / Adam Scott / International Team
+- **Key facts:** Sept. 22-27 at Medinah Country Club; Tiger Woods USA captain; Adam Scott Internationals captain; Scheffler FedExCup champion; McIlroy 2026 Masters champion; USA won 13 of 15 editions; LIV players (Smith, Johnson) absent; Medinah last hosted Ryder Cup 2012
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Captain's picks announcement; pairings preview; Day 1 foursomes results
+
+### STORY 5: LIV 2.0 and BC Partners
+- **Tier:** 2
+- **Category:** LIV Golf / BC Partners / LIV 2.0 / Golf Business / Restructuring / Scott O'Neil
+- **Key facts:** BC Partners London PE firm; deal reported $250-350M; O'Neil: "signed, close to completion"; 10 events; player equity stakes; independent board; 4 2027 venues: Saudi Arabia, Australia, South Africa, Hong Kong; Greg Norman role uncertain
+- **Byline:** Jake Torres
+- **Status:** NEW
+- **Follow-up ideas:** Bankruptcy court approval; player signings; BC Partners press conference; Norman's role clarified
+
 ## 2026-09-08
 
 | Date | Tier | Story | Platforms | Status |

@@ -1,0 +1,252 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-09",
+  "compiled_at": "2026-09-09T11:41:01.739337+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "LIV Golf Bankruptcy Filing",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "BREAKING: LIV Golf has filed for Chapter 11 bankruptcy.\n\nAll player contracts are automatically terminated.\n\nRahm is owed $7.4M. DeChambeau $5.7M. Smith and Johnson also among top creditors.\n\nFour years. $5 billion. It's over as we knew it.\n\n#LIVGolf #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf",
+            "#Golf"
+          ],
+          "char_count": 256
+        },
+        {
+          "label": "Post 1-2",
+          "text": "LIV Golf bankruptcy: the men who left the PGA Tour for guaranteed money are now unsecured creditors in a bankruptcy filing.\n\nJon Rahm: $7.4M owed. Bryson DeChambeau: $5.7M.\n\nThis was not how the Saudi golf experiment was supposed to end. #LIVGolf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-liv-golf-bankruptcy-chapter-11-rahm-dechambeau.html",
+        "headline": "LIV Golf Files Chapter 11 Bankruptcy: All Contracts Terminated, Rahm Leads Creditor List at $7.4M",
+        "word_count": 617
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LIV Golf Bankruptcy\n\n**Article Featured Image**\n- Primary subject: Jon Rahm\n- Search terms: `Jon Rahm LIV Golf`\n- Alt text: Jon Rahm at LIV Golf event\n- Caption: Jon Rahm is the leading creditor in LIV Golf's Chapter 11 bankruptcy filing, owed approximately $7.4 million.\n\n**Social Image**\n- Primary subject: Bryson DeChambeau\n- Search terms: `Bryson DeChambeau LIV Golf`\n- Alt text: Bryson DeChambeau LIV Golf\n- Caption: Bryson DeChambeau is owed approximately $5.7 million in unsecured claims following LIV Golf's bankruptcy filing.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Solheim Cup Preview",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The Solheim Cup starts Friday at Bernardus Golf in the Netherlands 🇳🇱\n\nUSA captain Angela Stanford brings the world No. 1 (Korda), Rose Zhang, and 10 others.\n\nEurope captain Nordqvist and her team are ready.\n\n14.5 points to win. It's on. #SolheimCup",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SolheimCup"
+          ],
+          "char_count": 249
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Team USA is the defending Solheim Cup champion — they beat Europe 15.5-12.5 in 2024.\n\nNelly Korda. Megan Khang. Allisen Corpuz. Rose Zhang.\n\nThis is the most talented American team in years.\n\nNetherlands, get ready. #SolheimCup #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SolheimCup",
+            "#Golf"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-solheim-cup-preview-usa-europe-netherlands-2026.html",
+        "headline": "Solheim Cup 2026 Preview: USA Defends, Korda Leads, Netherlands Hosts",
+        "word_count": 539
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Solheim Cup Preview\n\n**Article Featured Image**\n- Primary subject: Nelly Korda\n- Search terms: `Nelly Korda LPGA`\n- Alt text: Nelly Korda LPGA Tour\n- Caption: World No. 1 Nelly Korda leads Team USA into the 2026 Solheim Cup at Bernardus Golf in the Netherlands.\n\n**Social Image**\n- Primary subject: Angela Stanford\n- Search terms: `Angela Stanford LPGA`\n- Alt text: Angela Stanford LPGA\n- Caption: Angela Stanford captains Team USA at the 2026 Solheim Cup.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "LIV Players' Future — Reinstatement Options",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "Window: 10:30 AM ET\n```\nLIV contracts terminated. What now?\n\nPGA Tour: \"no current path back\" for Rahm, DeChambeau, Smith.\n\nQ-School and LIV 2.0 are options. Neither is easy.\n\nThe biggest career decisions in golf start today. #Golf #LIVGolf\n```\nCharacter count: ~210 chars ✓",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Golf",
+            "#LIVGolf"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-liv-players-future-rahm-dechambeau-smith-pga-tour.html",
+        "headline": "LIV Players' Future: What Rahm, DeChambeau, and Smith Do Now",
+        "word_count": 557
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LIV Players' Future\n\n**Article Featured Image**\n- Primary subject: Cameron Smith\n- Search terms: `Cameron Smith LIV Golf`\n- Alt text: Cameron Smith LIV Golf\n- Caption: Cameron Smith is among the leading creditors in LIV Golf's bankruptcy as players navigate uncertain futures.\n\n**Social Image**\n- Primary subject: Jon Rahm\n- Search terms: `Jon Rahm golf`\n- Alt text: Jon Rahm golf\n- Caption: Jon Rahm faces major career decisions after LIV Golf's bankruptcy terminated his contract.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Presidents Cup Preview",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": "Window: 1:00 PM ET\n```\nDon't let LIV's collapse bury this:\n\nPresidents Cup starts September 22 at Medinah.\n\nTiger Woods captains USA. Scheffler and McIlroy lead.\n\nUSA has won 13 of 15. The dominance continues? #PresidentsCup #Golf\n```\nCharacter count: ~204 chars ✓",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PresidentsCup",
+            "#Golf"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-presidents-cup-preview-tiger-woods-medinah-2026.html",
+        "headline": "Presidents Cup Preview: Tiger Woods Captains USA at Medinah, September 22-27",
+        "word_count": 508
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Presidents Cup Preview\n\n**Article Featured Image**\n- Primary subject: Tiger Woods\n- Search terms: `Tiger Woods golf`\n- Alt text: Tiger Woods golf\n- Caption: Tiger Woods captains Team USA at the 2026 Presidents Cup at Medinah Country Club, September 22-27.\n\n**Social Image**\n- Primary subject: Scottie Scheffler\n- Search terms: `Scottie Scheffler PGA Tour`\n- Alt text: Scottie Scheffler PGA Tour\n- Caption: FedExCup champion Scottie Scheffler headlines Tiger Woods' Team USA roster for the Presidents Cup.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "LIV 2.0 and BC Partners",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5A",
+          "text": "Window: 8:30 PM ET\n```\nLIV Golf filed for bankruptcy. LIV 2.0 is already planned.\n\nBC Partners will fund the restructured league in 2027.\n\n10 events. Player equity. Saudi Arabia, Australia, South Africa, Hong Kong on the calendar. #LIVGolf #Golf\n```\nCharacter count: ~212 chars ✓",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf",
+            "#Golf"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-liv-2-bc-partners-restructuring-2027.html",
+        "headline": "LIV 2.0 Explained: BC Partners, 10 Events, and What Alternative Golf Looks Like in 2027",
+        "word_count": 588
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LIV 2.0 and BC Partners\n\n**Article Featured Image**\n- Primary subject: Bryson DeChambeau\n- Search terms: `Bryson DeChambeau golf`\n- Alt text: Bryson DeChambeau golf\n- Caption: Bryson DeChambeau and other LIV players face a choice: pursue PGA Tour reinstatement or commit to LIV 2.0 under BC Partners.\n\n**Social Image**\n- Primary subject: Jon Rahm\n- Search terms: `Jon Rahm LIV Golf`\n- Alt text: Jon Rahm LIV Golf\n- Caption: The restructured LIV Golf under BC Partners will feature 10 events and player equity starting in 2027."
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

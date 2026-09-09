@@ -1,11 +1,43 @@
 # Golf Fanrecap — Pipeline Status
 
-## Last Run: 2026-09-08
+## Last Run: 2026-09-09
 
 **Status:** COMPLETE (with known proxy limitations)
 **Niche:** Golf Fanrecap
 **Stories:** 5
 **Articles:** 5
+
+---
+
+## 2026-09-09 Run Log
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research / WebSearch | ✅ Complete | 5 stories — LIV Golf Chapter 11 bankruptcy filing, Solheim Cup preview, LIV players' future, Presidents Cup preview, LIV 2.0 BC Partners |
+| Daily Brief | ✅ Complete | 00-daily-brief.md |
+| Research Notes | ✅ Complete | 01-research-notes.md |
+| Story Analysis | ✅ Complete | 02-story-analysis.md |
+| X Posts | ✅ Complete | 03-social-posts-x.md — 7 posts, all ≤280 chars (3 char-limit fixes applied) |
+| Facebook Posts | ✅ Complete | 04-social-posts-facebook.md — 5 stories |
+| Image Concepts | ✅ Complete | 05-image-concepts.md |
+| Articles | ✅ Complete | 5 HTML articles (article-01 Ryan Calloway, article-02 Jake Torres, article-03 Marcus Cole, article-04 Ryan Calloway, article-05 Jake Torres) |
+| Fact Check | ✅ Complete | 06-fact-check-log.md — 19 claims |
+| Compile Content Data | ✅ Complete | 07-content-data.json (7 tweets, 5 articles; FB posts = 0 — known parsing issue) |
+| Image Manifest | ✅ Complete | 07-image-manifest.md (10 images, status: not_started) |
+| Story History | ✅ Complete | story-history.md updated |
+| Review Dashboard | ✅ Complete | review-dashboard.html — 22 items |
+| Publish Dashboard | ⚠ Partial | Dashboard generated locally; push to content-dashboards blocked (not in authorized repo set) |
+| PostPlanner Export | ⚠ Partial | 0 posts exported — known parsing issue; posts exist in markdown files |
+| PostPlanner TOBI | ⚠ Partial | 0 posts exported — known parsing issue |
+| WordPress Publish | ⚠ Blocked | WP credentials not configured (WP_FANRUMOR_USERNAME/WP_FANRUMOR_APP_PASSWORD env vars) |
+| Git Commit + Push | ✅ Complete | Pushed to origin/main |
+
+**Stories covered:**
+1. T1 NEW: LIV Golf Files Chapter 11 Bankruptcy — All Contracts Terminated, Rahm Leads Creditor List at $7.4M
+2. T1 FOLLOW UP: Solheim Cup Preview — USA vs. Europe, Netherlands, Matches Begin Friday
+3. T2 NEW: Rahm, DeChambeau, Smith: What Comes Next After LIV Golf Bankruptcy?
+4. T2 FOLLOW UP: Presidents Cup Preview — Tiger Captains USA at Medinah, September 22-27
+5. T2 NEW: LIV 2.0 and BC Partners — What the Restructuring Plan Means for Alternative Golf
 
 ---
 
