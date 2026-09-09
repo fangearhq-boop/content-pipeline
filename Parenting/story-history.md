@@ -7008,3 +7008,57 @@
 - **Byline:** Jamie Rivera
 - **Key Facts:** Week counts (MEDIUM — calculated from prior pipeline data); Labor Day Sep 7 (HIGH); district websites (HIGH); general parenting guidance (MEDIUM)
 - **Follow-Up Opportunities:** Mid-semester check-in; fall activity season roundup
+
+---
+
+## September 9, 2026
+
+### Story 1: Skip Hop Elmo Silicone Teether Recall
+- **Date:** 2026-09-09
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recall issued Sep 3, 2026. Skip Hop Baby Sesame Street Elmo Silicone Teether (model 9R263210) recalled due to choking hazard: black eyes detach if frozen. ~22,660 units sold Jan 2025–Mar 2026 at Carter's and skiphop.com (~$12). Four consumer reports of eye detachment; no injuries. Remedy: refund via gift card at skiphoprecall.com or 800-692-4674. Urgent because many parents freeze teethers — that's exactly when hazard occurs.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** Model 9R263210; 22,660 units; Jan 2025–Mar 2026 sale period; Carter's + skiphop.com; ~$12; skiphoprecall.com; 800-692-4674; Mon–Fri 9 AM–5:30 PM ET; refund = gift card valid at Carter's/OshKosh/Little Planet/Skip Hop
+- **Follow-Up Opportunity:** Post-recall update if additional reports or injury claims surface
+
+### Story 2: Pikes Peak Youth Fishing Derby
+- **Date:** 2026-09-09
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Third annual Pikes Peak Youth Fishing Derby, September 13, Crystal Creek Reservoir (~6 miles up Pikes Peak Highway). Free for registered youth anglers ages 6–15; parents/guardians free. 8:30 AM–11 AM fishing, 11:30 AM awards + complimentary lunch. First 100 registered youth get free gear. No fishing license required under 16 in Colorado. CPW skills demo before fishing. Organizers: Pikes Peak – America's Mountain, CS Utilities, Colorado Parks and Wildlife. NOTE: Official source states "Saturday September 13" but Sep 13, 2026 is a Sunday — date stated as-given, "Saturday" language avoided in article (MEDIUM confidence).
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** Sep 13, 2026; Crystal Creek Reservoir; free; ages 6–15; 8:30 AM–11 AM; first 100 get free gear; no license required under 16 in CO
+- **Follow-Up Opportunity:** Post-event results; award winners
+
+### Story 3: Dahlia Days at Gather Mountain Blooms
+- **Date:** 2026-09-09
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Dahlia Days at Gather Mountain Blooms, 5210 S. U.S. 85/87, Colorado Springs. Two remaining dates: Sept 12 and Sept 19, 8 AM–noon each day. $10 admission, $30 cup of cut dahlias. Food: 4th Avenue Crepes (brunch), Good Gracious Coffee, floral cocktails. Mini makers market. Original Sept 5 date postponed due to late dahlia arrival. Tickets at simpletix.com.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** Sept 12 and Sept 19; 8 AM–noon; 5210 S. U.S. 85/87; $10 admission; $30 cup of flowers; 4th Avenue Crepes; Good Gracious Coffee; simpletix.com
+- **Follow-Up Opportunity:** No follow-up needed; Sept 19 is final date of 2026 season
+
+### Story 4: Colorado Springs Cool Science Festival 2026
+- **Date:** 2026-09-09
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Colorado Springs Cool Science Festival, Oct 3–18, 2026. 16 days of STEAM events, most free. Carnival Day Oct 3 at UCCS: free, free parking, K–8 focus. Carnival Day highlights: science magic shows, lab tours, rockets, slime, drones, live animals, VR, robots, liquid nitrogen treats. Full schedule at coolscience.org.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** Oct 3–18; Carnival Day Oct 3 at UCCS; free; free parking; K–8 primary audience; coolscience.org
+- **Follow-Up Opportunity:** Carnival Day recap Oct 3; post-festival roundup
+
+### Story 5: Mid-September School Year Check-In
+- **Date:** 2026-09-09
+- **Content Pillar:** Evergreen
+- **Angle:** NEW STORY — Mid-September check-in for COS families. D49 ~week 6 (started Aug 3), D11 ~week 4-5 (started Aug 12), D20 ~week 3-4 (started Aug 17). Themes: after-school fatigue, extracurricular overload, teacher outreach before fall conferences, protecting downtime. Actionable, evergreen guidance.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 1 Image Concept (Gemini base_only)
+- **Tier:** 3
+- **Key Facts (MEDIUM):** Week counts calculated from prior pipeline start-date data; fall parent-teacher conferences typically October in D11/D20/D49
+- **Follow-Up Opportunity:** Fall parent-teacher conference preview; mid-semester academic check-in
