@@ -5,6 +5,55 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-09-09
+
+### STORY 1: Game Recap — Brewers Walk Off Cubs in 10 Innings
+- **Angle:** NEW STORY. Jackson Chourio 2-out HR in 9th tied the game; Luis Lara walked off the Cubs in the 10th. Cubs drop Game 2, fall 0-2 in the Milwaukee series. David Peterson started for Chicago; Jacob Misiorowski for Brewers.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, recap)
+- **Follow-Up Opportunities:**
+  - Game 3 result recap (Sept 10)
+  - Series sweep/salvage resolution
+
+### STORY 2: Game 3 Preview — Gausman vs Henderson, Avoid the Sweep
+- **Angle:** NEW STORY. Kevin Gausman (9-11, 4.38 ERA) vs Logan Henderson (9-3, 2.48 ERA) at American Family Field, 6:40 PM CT. Cubs must win to avoid being swept by NL leaders.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Gausman's pitching line
+  - Game 3 result recap (Sept 10)
+
+### STORY 3: PCA 40-40 Watch — 41 HR / 35 SB, Five Away
+- **Angle:** FOLLOW UP. PCA advances to 41 HR / 35 SB (from 40/33 on Sept 7). Needs 5 more SBs for the 40-40 club (only 6 in MLB history). No Cub ever has done it. 16 games remain.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, bold stat milestone)
+- **Follow-Up Opportunities:**
+  - Each SB milestone en route to 40-40
+  - Historic 40-40 achievement when it happens
+
+### STORY 4: Ian Happ Knee — October Availability at Risk
+- **Angle:** NEW STORY. Happ has missed multiple straight games since Sept 6 with left knee discomfort. Day-to-day; an IL placement would threaten postseason availability. Hitting .275 over last 15 games with 13 RBI.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, injury update)
+- **Follow-Up Opportunities:**
+  - Happ IL placement or return to lineup
+
+### STORY 5: Pre-Game Hype — Must Avoid the Sweep
+- **Angle:** NEW STORY. Cubs face sweep by the NL's best (Brewers 90-56) with 16 games left. Gausman must deliver vs Henderson (2.48 ERA). Allcaps urgency frame.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, pre-game urgency)
+- **Follow-Up Opportunities:**
+  - Post-game
+
+### STORY 6: First Pitch — Gausman vs Henderson
+- **Angle:** NEW STORY. Game-time tweet. Cubs (81-65) at Brewers (90-56). 6:40 PM CT.
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT, first pitch)
+- **Follow-Up Opportunities:**
+  - Post-game recap
+
+---
+
 ## 2026-09-08
 
 ### STORY 1: Game Recap — Brewers 4, Cubs 3 — Late Lead Slips

@@ -1,0 +1,192 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-09",
+  "compiled_at": "2026-09-09T09:22:03.280796+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Game Recap — Brewers Walk Off Cubs in 10 Innings",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Jackson Chourio hit a two-out homer in the 9th to tie it; Luis Lara singled home the walkoff run in the 10th. Cubs drop Game 2, fall 0-2 in Milwaukee. David Peterson started for Chicago; Jacob Misiorowski for Milwaukee.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1A",
+          "text": "Jackson Chourio. Two outs. Ninth inning. Gone.\n\nLuis Lara walked off the Cubs in the 10th an inning later. Cubs drop Game 2 in Milwaukee and fall 0-2 in the series. Still 81-65 with 16 games left.\n\nGausman answers tonight at 6:40 PM CT.\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative recap / urgency pivot",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Game 3 Preview — Gausman vs Henderson, Avoid the Sweep",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Kevin Gausman (9-11, 4.38 ERA) faces Logan Henderson (9-3, 2.48 ERA) at American Family Field. Cubs must win tonight to avoid being swept by the division leaders with 16 games left.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 2A",
+          "text": "Logan Henderson: 9-3, 2.48 ERA. He's been the best arm in this series.\n\nKevin Gausman gets the ball tonight at American Family Field. 6:40 PM CT. Cubs need a win — they're getting swept by the NL's best otherwise.\n\nThe ace. The moment. Game 3.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Game preview / bold take",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "PCA 40-40 Watch — 41 HR / 35 SB, Five Away",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "PCA moved to 41 HR / 35 SB (up from 40/33 on Sept 7). Five stolen bases from joining the most exclusive club in baseball. Only 6 players in MLB history have done it. No Cub ever has. 16 games remain.",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "Pete Crow-Armstrong: 41 HR / 35 SB.\n\nFive stolen bases from the most exclusive club in baseball. Only six players in MLB history have hit 40 homers and stolen 40 bases in a season. No Cub has ever done it.\n\n16 games. PCA is five away.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Bold stat milestone",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Ian Happ Knee — October Availability at Risk",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Happ has missed multiple straight games with left knee discomfort since Sept 6. Day-to-day, but an IL placement at this point would threaten his postseason availability. He's been hitting .275 over his last 15 games with 13 RBI.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": "Ian Happ: .275 over his last 15 games, 13 RBI — one of the Cubs' hottest bats.\n\nHe's missed multiple straight games with left knee discomfort since Sept 6. An IL trip at this point would put his October at real risk.\n\nCounsell needs him back.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Injury update (informative)",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Pre-Game Hype — Gausman Must Deliver",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Cubs facing sweep by the NL's best team with 16 games left. Henderson (2.48 ERA) is the stiffest challenge of the series. Gausman needs to be the ace tonight. The Cubs' playoff positioning depends on getting this one.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5A",
+          "text": "AVOID THE SWEEP. 6:40 PM CT. American Family Field.\n\nLogan Henderson (2.48 ERA) is the toughest start left in this series. Gausman has to be better than his season numbers tonight.\n\nCubs are 81-65. There's no give left in this schedule.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Bold take / urgency pre-game",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "First Pitch — Gausman vs Henderson",
+      "tier": 3,
+      "status": "NEW STORY",
+      "angle": "Game time tweet. Cubs (81-65) vs Brewers (90-56). 6:40 PM CT. American Family Field.",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6A",
+          "text": "6:40 PM CT. American Family Field. Gausman vs Henderson.\n\nCubs (81-65) at Brewers (90-56). Down 0-2 in the series. Win or go home with a series loss.\n\nLet's go get one.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "Game-time brief",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 192
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
