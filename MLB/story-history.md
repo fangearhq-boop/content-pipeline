@@ -5,6 +5,50 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-09-09
+
+### Story 1: Aaron Judge — First Game Back, Yankees Wild Card Push
+- **Date:** 2026-09-09
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Judge played first game back Sept 8 after 99-day IL absence (broken rib). 0-for-3, 2 Ks, standing ovation first at-bat. Yankees won 5-3 vs Rockies. Rodriguez optioned, Hampton DFA'd. Yankees hold first AL Wild Card spot, 3-game lead over Boston.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:** Judge's production in coming games; Yankees Wild Card clinch
+
+### Story 2: PCA — 40 HR, 33 SB, Seven From 40-40
+- **Date:** 2026-09-09
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** PCA enters Sept 9 at 40 HR/33 SB. Needs 7 more SBs in ~17 games to join 40-40 club as 7th member (Canseco/Bonds/A-Rod/Soriano/Acuña/Ohtani). First Cub with 40 HR since Derrek Lee 2005. Youngest Cub ever at 40 HR. NL MVP -1100. Cubs 81-64 WC1.
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:** Each SB toward 40; 40-40 achievement; Cubs WC race
+
+### Story 3: Yordan Alvarez — Triple Crown Chase, 17 Games Left
+- **Date:** 2026-09-09
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Alvarez leads AL in all 3 Triple Crown categories: ~.315 BA (ahead of Simpson ~5 pts), ~38 HR (tied Caminero, TB), ~95 RBI (tied Alonso, BAL). Last AL TC winner: Cabrera 2012. ~17 games remaining.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:** Any category lead change; TC clinch or fail; final standings
+
+### Story 4: Misiorowski — Second Straight Rough Start vs Cubs
+- **Date:** 2026-09-09
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Sept 8 at American Family Field was Misiorowski's worst start of the season vs Cubs. Brewers won with their bats. Coming off Sept 2 at Wrigley (5 ER, 4 IP — ended 26-start streak). Two straight bad outings against same team raises Cy Young and matchup questions. 14-5, ERA rising above 1.97. Brewers 89-56.
+- **Content Produced:** Article (article-04, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:** Next Misiorowski start; Cy Young odds; Cubs matchup in October
+
+### Story 5: NL Wild Card Race — 17 Games Left
+- **Date:** 2026-09-09
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Cubs WC1 (81-64), Phillies WC2 (0.5 GB), D-backs WC3, Padres (0.5 GB from WC3). Wild Card Series begins Sept 29. ~17 games left. PCA's individual chase happening inside Cubs' pennant push.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB post, 1 image concept
+- **Follow-Up Opportunities:** Daily standings updates; clinch moments; Wild Card Series preview
+
+---
+
 ## 2026-09-08
 
 ### Story 1: PCA — 40 HR, 33 SB, Seven From 40-40

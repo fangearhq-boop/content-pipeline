@@ -1,0 +1,137 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-09",
+  "compiled_at": "2026-09-09T10:29:18.334308+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Aaron Judge — First Game Back, Yankees Wild Card Push [Tier 1]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-01-judge-returns-yankees-wild-card.html",
+        "headline": "Aaron Judge Is Back. Now Comes the Hard Part.",
+        "word_count": 511
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "PCA — 40 HR, 33 SB, Seven From History [Tier 1]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-02-pca-40-40-chase-seven-from-history.html",
+        "headline": "Seven From History: Pete Crow-Armstrong and the 40-40 Club",
+        "word_count": 430
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Alvarez — Triple Crown Chase, 17 Games Left [Tier 1]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-03-alvarez-triple-crown-17-games.html",
+        "headline": "Yordan Alvarez Is 17 Games From Making AL History",
+        "word_count": 487
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Misiorowski — Second Straight Rough Start vs Cubs [Tier 1]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-04-misiorowski-cy-young-speed-bump-cubs.html",
+        "headline": "Misiorowski's Cy Young Case Just Hit a Speed Bump — Twice, Against the Cubs",
+        "word_count": 505
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "NL Wild Card Race — 17 Games Left [Tier 2]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-05-nl-wild-card-race-17-games.html",
+        "headline": "Four Teams, Three Spots, 17 Games: The NL Wild Card Race Is Here",
+        "word_count": 444
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 0,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No X/Twitter posts found",
+      "Story 1: No Facebook posts found",
+      "Story 1: No posting window specified",
+      "Story 2: No X/Twitter posts found",
+      "Story 2: No Facebook posts found",
+      "Story 2: No posting window specified",
+      "Story 3: No X/Twitter posts found",
+      "Story 3: No Facebook posts found",
+      "Story 3: No posting window specified",
+      "Story 4: No X/Twitter posts found",
+      "Story 4: No Facebook posts found",
+      "Story 4: No posting window specified",
+      "Story 5: No X/Twitter posts found",
+      "Story 5: No Facebook posts found",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
