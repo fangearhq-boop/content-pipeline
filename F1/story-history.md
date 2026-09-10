@@ -6420,3 +6420,53 @@
 - **Key facts:** Domenicali "by mid-September" deadline; Qatar Nov 27-29 + Abu Dhabi Dec 4-6 on calendar; Malaysia Sepang Oct 2-4 added; Imola and Portimao leading contingency options; Bahrain+Saudi cancelled
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Official FOM announcement
+
+## 2026-09-10
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-10 | T1 | Antonelli Eyes Third Straight Win at Madring — Championship Leader Ready for History's Newest Circuit | X(2), FB, Article | FOLLOW UP |
+| 2026-09-10 | T1 | Madrid Grand Prix Preview — Five Questions That Will Define F1's Debut Weekend at Madring | X(2), FB, Article | NEW |
+| 2026-09-10 | T2 | Ferrari's Crossroads — Hamilton and Leclerc Must Deliver at Madring to Stay Alive in Constructors' | X(1), FB, Article | FOLLOW UP |
+| 2026-09-10 | T2 | Championship Math — What Russell, Hamilton, and Norris Each Need This Weekend | X(1), FB, Article | NEW |
+| 2026-09-10 | T2 | Season Finale Calendar — Domenicali's Mid-September Deadline Is This Week | X(1), FB, Article | FOLLOW UP |
+
+### STORY 1: Antonelli Championship at Madring
+- **Tier:** 1
+- **Category:** Kimi Antonelli / Mercedes / F1 Championship / Madrid Grand Prix
+- **Key facts:** Antonelli 267 pts; leads Russell by 66, Hamilton by 76, Norris by 96; back-to-back wins Dutch+Italian; 8 rounds remaining; no team has Madring data; FP1 Fri 7:30 AM ET; Race Sun Sept.13 9:00 AM ET
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** FP1 times, qualifying result, race winner, standings update
+
+### STORY 2: Madrid GP Preview
+- **Tier:** 1
+- **Category:** F1 Madrid Grand Prix / Madring / Preview / F1 Calendar
+- **Key facts:** Madring: 5.47km, 22 turns, longest banked corner in modern F1, 340 kph straight, 30-33°C; first F1 race here; no team has setup data; FP1 Fri 1330 local (0730 ET); qualifying Sat 1600 local; race Sun 1500 local
+- **Byline:** Elena Voss
+- **Status:** NEW
+- **Follow-up ideas:** FP1 laptimes, qualifying result, race winner
+
+### STORY 3: Ferrari Crossroads at Madring
+- **Tier:** 2
+- **Category:** Ferrari / Charles Leclerc / Lewis Hamilton / F1 Constructors Championship
+- **Key facts:** Ferrari 87 pts behind Mercedes in Constructors'; Hamilton P6 Monza; Leclerc DNF Monza (23G crash); Leclerc cleared by Dr. Ornaque; Leclerc 155 pts (5th, 112 behind Antonelli); 8 rounds left
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Leclerc FP1 form, qualifying, race result, Constructors' gap
+
+### STORY 4: Championship Math
+- **Tier:** 2
+- **Category:** F1 Championship / George Russell / Lewis Hamilton / Lando Norris / Mathematics
+- **Key facts:** Russell -66, Hamilton -76, Norris -96; 8 rounds; ~208 pts available; Russell can close with single DNF+win swing; Hamilton/Norris need more
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+- **Follow-up ideas:** Madrid race result, updated standings
+
+### STORY 5: Season Finale Calendar
+- **Tier:** 2
+- **Category:** F1 Calendar / Stefano Domenicali / Imola / Portimao / Malaysia / Qatar / Abu Dhabi
+- **Key facts:** Domenicali "by mid-September" announcement; Bahrain+Saudi cancelled; Malaysia Sepang Oct.2-4 confirmed; Qatar Nov.27-29 + Abu Dhabi Dec.4-6 still on; Imola leading contingency; Portimao alternative; announcement expected Sept. ~15
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official FOM announcement, full revised calendar

@@ -1,0 +1,312 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-10",
+  "compiled_at": "2026-09-10T11:25:21.570575+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Antonelli Eyes Third Straight Win at Madring",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Kimi Antonelli arrives in Madrid leading the championship by 66 points.\n\nHe has won the last 2 races. No team has real data on Madring.\n\nIf there was ever a weekend for a third straight win, it's this one.\n\nFP1 Friday. 🏎️ #F1 #MadridGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MadridGP"
+          ],
+          "char_count": 235
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Dutch GP: Antonelli wins.\nItalian GP: Antonelli wins from 19th.\nMadrid GP: ?\n\nA new circuit. No setup data for anyone. The championship leader has momentum on his side.\n\nMadring opens Friday. ⚡ #F1 #MadridGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MadridGP"
+          ],
+          "char_count": 207
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-antonelli-madrid-gp-championship-preview.html",
+        "headline": "Antonelli Arrives at Madring With Two Wins, a 66-Point Lead, and an Equalizer Nobody Planned For",
+        "word_count": 851
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli Championship at Madring\n**Key Facts (from prior verified pipeline data):**\n- Kimi Antonelli: 267 points, leads championship\n- George Russell: 201 pts (66 behind Antonelli)\n- Lewis Hamilton: 191 pts (76 behind Antonelli)\n- Lando Norris: 171 pts (96 behind Antonelli)\n- Antonelli won Dutch GP + Italian GP (from 19th on grid at Monza) — back-to-back wins\n- Mercedes leads Constructors' by 87 over Ferrari\n- Madrid GP: Sept. 11-13, Madring at IFEMA Madrid\n- FP1: Friday 1:30 PM local (7:30 AM ET)\n- Race: Sunday Sept. 13, 3:00 PM local (9:00 AM ET)\n- 8 rounds remaining after Madrid\n- Madring: no real-world F1 data exists for any team\n**Confidence:** HIGH (from multiple prior pipeline sessions with consistent facts)\n**Story Type:** FOLLOW UP — from 2026-09-09 Antonelli championship story",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Madrid Grand Prix Preview",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "F1 races at Madring for the FIRST TIME this weekend.\n\n5.47km. 22 turns. The longest banked corner in modern F1. 340 kph straight.\n\nNo team has ever run a lap here in anger. Nobody has a setup baseline.\n\nThat changes Friday. #F1 #MadridGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MadridGP"
+          ],
+          "char_count": 237
+        },
+        {
+          "label": "Post 2-2",
+          "text": "5 questions for the Madrid Grand Prix:\n\n1. Does the blank-slate circuit reset the Antonelli run?\n2. Can Leclerc bounce back from Monza?\n3. Ferrari vs. Mercedes in the Constructors'?\n4. Who finds setup first?\n5. Is the banked corner chaos?\n\nFriday tells us everything. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-madrid-grand-prix-preview-five-questions.html",
+        "headline": "Five Questions That Will Define F1's Madrid Grand Prix Debut at Madring",
+        "word_count": 855
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Madrid Grand Prix Preview\n**Key Facts (from prior verified pipeline data):**\n- Madring at IFEMA Madrid northeastern edge; hybrid street/permanent circuit\n- 5.47km, 22-turn circuit; F1's 81st circuit\n- Longest banked corner in modern F1\n- 340 kph main straight top speed\n- Public road + permanent track sections\n- Weather: 30-33°C race day\n- FIA track inspection: passed 2026\n- FP1: Fri 1:30 PM local (7:30 AM ET); FP2: Fri 5:00 PM local\n- FP3: Sat 12:30 PM local; Qualifying: Sat 4:00 PM local (10:00 AM ET)\n- Race: Sun Sept. 13, 3:00 PM local (9:00 AM ET)\n- Spain's second GP in 2026 (Barcelona was Round 8)\n- First F1 race at Madring\n**Confidence:** HIGH (from prior pipeline)\n**Story Type:** NEW — race weekend preview",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Ferrari's Crossroads at Madring",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "Window: 2:00 PM ET\n```\nFerrari: 87 pts behind Mercedes. 8 rounds left.\n\nLeclerc cleared after his Monza crash. Hamilton is ready.\n\nMadring is their best shot to turn this around.\n\nNo excuses. 🔴 #F1 #Ferrari #MadridGP\n```\nCharacter count: ~195 chars ✓",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Ferrari",
+            "#MadridGP"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-ferrari-madring-constructors-championship.html",
+        "headline": "Ferrari Has Eight Rounds to Close 87 Points — and the Madrid Grand Prix Is the Most Urgent of All",
+        "word_count": 788
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Ferrari at Madring\n**Key Facts (from prior verified pipeline data):**\n- Ferrari: 87 pts behind Mercedes in Constructors' with 8 rounds remaining\n- Lewis Hamilton: P6 at Monza\n- Charles Leclerc: 23G crash at Monza Parabolica, Lap 2; DNF\n- Leclerc suffered right-eye vision issues post-crash; Monaco neurological imaging\n- Dr. Isabel Ornaque (Madring medical director): neurological clearance required; Leclerc PASSED all checks\n- Leclerc: 155 pts (5th in championship, 112 behind Antonelli)\n- Ferrari needs strong results from both cars\n**Confidence:** HIGH (from prior pipeline)\n**Story Type:** FOLLOW UP — Leclerc comeback story",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Championship Math After Monza",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": "Window: 8:00 PM ET\n```\nAntonelli: 267 pts\nRussell: 201 (-66)\nHamilton: 191 (-76)\nNorris: 171 (-96)\n\n8 rounds left. ~208 pts available.\n\nOne DNF for Antonelli + a Russell win = 40-point gap.\n\nStill very much alive. The math is tight. #F1 #MadridGP\n```\nCharacter count: ~218 chars ✓",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MadridGP"
+          ],
+          "char_count": 280
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-f1-championship-math-russell-hamilton-norris.html",
+        "headline": "Championship Math: What Russell, Hamilton, and Norris Each Need Over the Final Eight Rounds",
+        "word_count": 799
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Championship Math\n**Key Facts (from prior verified pipeline data):**\n- Antonelli: 267 pts\n- Russell: 201 pts (-66)\n- Hamilton: 191 pts (-76)\n- Norris: 171 pts (-96)\n- 8 rounds remaining after Madrid\n- Each round max ~26 pts (win + fastest lap + bonus)\n- Max remaining ≈ 208 pts across 8 rounds\n**Confidence:** HIGH (from prior pipeline)\n**Story Type:** NEW — championship analysis",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Season Finale Calendar — Domenicali Deadline",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5A",
+          "text": "Window: 12:00 PM ET\n```\nDomenicali: calendar update \"by mid-September.\"\n\nThat's this week.\n\nBahrain + Saudi cancelled. Malaysia in (Oct. 2-4). Imola or Portimao next?\n\nThe 2026 season finale picture clears up soon. #F1\n```\nCharacter count: ~196 chars ✓",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-f1-season-finale-calendar-domenicali-announcement.html",
+        "headline": "Domenicali's Mid-September Calendar Decision Is This Week — Here Is What the 2026 F1 Finale Looks Like",
+        "word_count": 738
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Season Finale Calendar\n**Key Facts (from prior verified pipeline data):**\n- Domenicali: announcement \"by mid-September\"\n- Bahrain GP + Saudi Arabian GP cancelled (regional security — US strikes near Strait of Hormuz)\n- Malaysia Sepang confirmed as replacement: Oct. 2-4\n- Qatar GP: Nov. 27-29 (on calendar)\n- Abu Dhabi GP: Dec. 4-6 (on calendar, season finale)\n- Imola: leading contingency venue for cancelled Middle East slots\n- Portimão: alternative contingency venue\n- FOM targeting mid-September announcement (approx. Sept. 15)\n**Confidence:** HIGH (from prior pipeline)\n**Story Type:** FOLLOW UP — from prior calendar story",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 8
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
