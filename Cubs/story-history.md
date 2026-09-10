@@ -5,6 +5,51 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-09-10
+
+### STORY 1: Sweep Reaction — Gausman Gets Shelled in Milwaukee
+- **Angle:** FOLLOW UP. Gausman allowed 3 HRs (Yelich 3-run, Chourio solo, Contreras solo) in 4 IP; Brewers complete 3-0 sweep. Cubs rallied 5 runs in the 9th (Conforto 2-run double) but fell short 8-6. Gausman now 9-12.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, sweep reaction)
+- **Follow-Up Opportunities:**
+  - Gausman start vs Pirates (Sept 12-13 probable)
+  - Season ERA analysis heading into final 15 games
+
+### STORY 2: NL Wild Card Standing — Cubs Hold WC2
+- **Angle:** FOLLOW UP. Cubs 81-66, NL WC2, 0.5 GB behind Phillies WC1. Padres WC3; D-backs 0.5 back of WC3. Cubs 99%+ playoff probability. 15 games to clinch home-field in Wild Card round.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, standings)
+- **Follow-Up Opportunities:**
+  - Daily standings check (especially after Pirates series)
+  - Cubs magic number for WC clinch
+
+### STORY 3: PCA 40-40 Watch — 41 HR / 35 SB
+- **Angle:** FOLLOW UP. PCA at 41 HR / 35 SB — needs 5 more SBs in 15 games. Only a handful of players in MLB history have reached 40-40; no Cub ever has.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, bold milestone)
+- **Follow-Up Opportunities:**
+  - Each SB milestone en route to 40-40
+  - Historic achievement announcement when it happens
+
+### STORY 4: Wiggins + Steele — Bullpen Reinforcements En Route
+- **Angle:** FOLLOW UP. Jaxon Wiggins: 8 scoreless Iowa bullpen innings since Aug. 11 (10 K), September callup candidate. Justin Steele: 2 Iowa rehab outings complete (TJ recovery), targeting October bullpen role.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, roster/prospect news)
+- **Follow-Up Opportunities:**
+  - Wiggins callup announcement
+  - Steele activation announcement
+  - October roster projections
+
+### STORY 5: Pirates Series Preview — Wrigley Homestand Starts Tomorrow
+- **Angle:** NEW STORY. Cubs host Pittsburgh Pirates (below .500) for 3 games at Wrigley Field, Sept 11-13, 1:20 PM CT. Mandatory bounce-back homestand after Milwaukee sweep; Braves follow Sept 14-16.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, series preview)
+- **Follow-Up Opportunities:**
+  - Game 1 result recap (Sept 12 morning)
+  - Series sweep/salvage resolution
+
+---
+
 ## 2026-09-09
 
 ### STORY 1: Game Recap — Brewers Walk Off Cubs in 10 Innings

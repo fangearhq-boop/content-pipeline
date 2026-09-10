@@ -1,43 +1,44 @@
-# Cubs Pipeline Status — Updated 2026-09-09
+# Cubs Pipeline Status — Updated 2026-09-10
 
 ## Latest Run
-- **Date:** 2026-09-09 (Wednesday — GAME DAY; Cubs at Milwaukee Brewers, 6:40 PM CT, American Family Field — Game 3 of 3-game road series)
-- **Stories:** 6
-- **X posts:** 6
+- **Date:** 2026-09-10 (Thursday — OFF DAY; Cubs swept 3-0 by Brewers on Sept 7-9)
+- **Stories:** 5
+- **X posts:** 5
 - **Platforms:** X/Twitter only
 - **Status:** ✅ Complete
 
-## Insights Summary (2026-09-09)
-- **Snapshot generated:** 2026-09-09T08:30:00Z (fresh, 30 min before trigger)
+## Insights Summary (2026-09-10)
+- **Snapshot generated:** 2026-09-10T08:30:00Z (fresh, 30 min before trigger)
 - **measured_tweet_count:** 116
-- **significant_findings count:** 5
-- **Finding 1 (strongest):** `has_score=False` wins — median 107 vs 79, Cliff's delta=0.268 (small), p=0.0129
-  - **Applied:** No scores as opening hooks. Recap tweet opens with the dramatic play (Chourio HR), not "Brewers 4, Cubs 3."
-- **Finding 2:** `opening=not_statement` wins — median 115 vs 79, Cliff's delta=0.227 (small), p=0.0466
-  - **Applied:** All 6 tweets use stat_lead or allcaps_lead opening. Zero plain statement openers.
-- **Finding 3:** `posting_window=midday_12_18` wins — median 107 vs 79, Cliff's delta=0.224 (small), p=0.0378
-  - **Applied:** 4 of 6 posts in 12:00–6:30 PM window; only required 7 AM recap post is morning.
-- **Finding 4:** `posting_window=morning_06_12` loses — same delta/p as Finding 3 (inverse)
-  - **Applied:** Eliminated all optional morning slots. Only 7:00 AM game recap (mandatory Tier 1).
-- **Finding 5:** `has_stat=True` wins — median 106 vs 79, Cliff's delta=0.223 (small), p=0.0391
-  - **Applied:** All 6 tweets include at least one concrete stat.
+- **significant_findings count:** 3
+- **Finding 1 (strongest):** `has_score=False` wins — median 110 vs 75.5, Cliff's delta=0.282 (small), p=0.0094
+  - **Applied:** No final scores embedded in any tweet body. Sweep reaction uses narrative framing (three HRs, bullpen rally) not "Brewers 8, Cubs 6."
+- **Finding 2:** `posting_window=midday_12_18` wins — median 107 vs 76.5, Cliff's delta=0.229 (small), p=0.0338
+  - **Applied:** 4 of 5 posts in 12:00–5:00 PM window. Only 7:00 AM post (off-day lead story, purpose-required).
+- **Finding 3:** `posting_window=morning_06_12` loses — mirror of Finding 2
+  - **Applied:** Only one morning post (7:00 AM — off-day sweep reaction; mandatory Tier 1). No 8:15 AM or 9:30 AM slots used.
+- **Note:** Down from 5 findings yesterday (2026-09-09) to 3 today. Likely due to overlap in the midday/morning findings being the same contrast.
 
-## Series Context (2026-09-09)
-- **`is_series_start_today`:** FALSE (mid-series — Game 3 of 3-game road series at Milwaukee)
-- **`off_day`:** false
-- **Series:** Cubs (81-65) at Brewers (90-56), American Family Field, Game 3 tonight (6:40 PM CT)
-- **Action:** No dedicated Series Preview slot. Game 2 recap + Game 3 preview cover the series narrative.
-- **Series result:** Cubs 0-2; must win tonight to avoid sweep.
+## Series Context (2026-09-10)
+- **`is_series_start_today`:** FALSE
+- **`off_day`:** TRUE
+- **Action:** Series-preview 7:00 AM slot NOT reserved. Lead with sweep recap; lean into prospects, standings, upcoming home stand.
+- **Next series:** Pittsburgh Pirates at Wrigley Field, September 11-13, 1:20 PM CT
 
 ## Wild Card Status
-- **Cubs position:** WC1 (approx. — slight degradation after two series losses)
-- **Record:** 81-65
-- **Games remaining:** 16
-- **Brewers NL Central lead:** 90-56
+- **Cubs position:** WC2 (0.5 GB behind Phillies WC1)
+- **Record:** 81-66
+- **Games remaining:** 15
+- **Brewers NL Central lead:** 10.0 GB (91-56 vs 81-66)
 
 ## Dashboard
 - review-dashboard.html: ✅ Generated
 - publish-unified-dashboard.py: ❌ Push to fangearhq-boop/content-dashboards blocked (not in session's authorized repo set — only content-pipeline authorized)
+
+## Previous Run — 2026-09-09
+- **Stories:** 6 | **X posts:** 6 | **Status:** ✅ Complete
+- **Insights:** 5 significant findings (has_score=False WINNER; opening=not_statement WINNER; midday WINNER; morning LOSER; has_stat WINNER)
+- **Series context:** is_series_start_today=FALSE (Game 3 of 3-game road series at Milwaukee)
 
 ## Previous Run — 2026-09-08
 - **Stories:** 6 | **X posts:** 6 | **Status:** ✅ Complete

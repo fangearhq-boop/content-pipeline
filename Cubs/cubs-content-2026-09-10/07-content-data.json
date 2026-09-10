@@ -1,0 +1,165 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-10",
+  "compiled_at": "2026-09-10T09:17:04.765644+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Sweep Reaction — Gausman Gets Shelled in Milwaukee",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Gausman allowed 3 HRs (Yelich 3-run, Chourio solo, Contreras solo) in 4 IP as Brewers completed the sweep. Cubs rallied with 5 in the 9th (Conforto 2-run double) but fell short. Gausman now 9-12.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1A",
+          "text": "Three home runs. Four innings. Gausman got shelled.\n\nYelich, Chourio, Contreras took him deep. Cubs rallied with five in the ninth — too little, too late. The Brewers complete the sweep.\n\nWrigley next. Pirates tomorrow. Time to reset.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Game reaction / narrative take",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "NL Wild Card Standing — Cubs Still Hold WC2",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Despite the sweep, Cubs remain NL WC2, 0.5 GB behind the Phillies. Padres WC3, D-backs on the bubble. Cubs 99%+ playoff probability. 15 games to lock home-field in Wild Card round.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 2A",
+          "text": "The sweep stings. But the Cubs still hold a playoff spot.\n\nNL Wild Card 2 — 0.5 games behind the Phillies. Padres and D-backs fighting for the third seed. Fifteen games to lock up home-field.\n\nThe work starts again tomorrow at Wrigley.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Informative standings",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "PCA 40-40 Watch — 41 HR / 35 SB",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "PCA at 41 HR / 35 SB. Needs 5 more SBs in 15 games to join one of the most exclusive clubs in baseball. No Cub has ever reached 40-40. Off day — stats unchanged, milestone clock still ticking.",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "Pete Crow-Armstrong: 41 HR / 35 SB.\n\nFive stolen bases. Fifteen games. That's what stands between PCA and one of the rarest achievements in baseball history.\n\nOnly a handful of players have ever done 40-40. No Cub has. He's knocking.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Bold stat milestone",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Wiggins + Steele — Bullpen Reinforcements En Route",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Jaxon Wiggins has 8 scoreless Iowa bullpen innings since Aug. 11 (10 K), making his September callup feel overdue. Justin Steele (TJ recovery) has completed 2 Iowa rehab outings and is targeting an October bullpen role.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": "The bullpen needs help. It's coming.\n\nJaxon Wiggins: 8 scoreless Iowa bullpen innings since Aug. 11. Callup feels inevitable.\n\nJustin Steele: two Iowa outings in, targeting an October return from TJ surgery.\n\nReinforcements are on the way.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Roster news / prospect update",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Pirates Series Preview — Wrigley Homestand Starts Tomorrow",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Cubs host the Pittsburgh Pirates (below .500) for 3 games at Wrigley Field starting Sept 11 (1:20 PM CT). A mandatory bounce-back series before the Braves come to town Sept 14-16.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5A",
+          "text": "Wrigley Field. Three games. Pittsburgh Pirates.\n\nThe Cubs just got swept on the road. Now they come home against a below-.500 club with the Braves coming in behind them.\n\nThis is not the time to coast. First pitch tomorrow, 1:20 PM CT.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Series preview / hype",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
