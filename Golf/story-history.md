@@ -2,6 +2,53 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-09-10
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-10 | T1 | Solheim Cup Foursomes Begin Friday — What to Know Before the First Ball Is Hit at Bernardus Golf | X(2), FB, Article | FOLLOW UP |
+| 2026-09-10 | T1 | LIV Golf Bankruptcy Day 2: What the Chapter 11 Process Means — and What Happens Next | X(2), FB, Article | FOLLOW UP |
+| 2026-09-10 | T2 | Jon Rahm and Bryson DeChambeau: The Fork in the Road After LIV Golf Chapter 11 | X(1), FB, Article | FOLLOW UP |
+| 2026-09-10 | T2 | Presidents Cup 2026: Two Weeks Out at Medinah, USA Brings Its Deepest Team in Years | X(1), FB, Article | FOLLOW UP |
+| 2026-09-10 | T2 | Biltmore Championship: The PGA Tour Comes to Asheville for the First Time | X(1), FB, Article | FOLLOW UP |
+
+### STORY 1: Solheim Cup — Competition Eve / Foursomes Preview
+- **Tier:** 1
+- **Category:** Solheim Cup / LPGA / Nelly Korda / Charley Hull / Angela Stanford / Anna Nordqvist / Bernardus Golf / Netherlands
+- **Key facts:** Foursomes begin Friday Sept 11; Fourballs Saturday Sept 12; Singles Sunday Sept 13; Bernardus Golf, Cromvoirt, Netherlands; USA captain Angela Stanford; Europe captain Anna Nordqvist; 12 USA + 12 Europe; 28 total matches; 14.5 to win (14 to retain for Europe); USA defending (won 2024 15.5-12.5); Korda world No. 1, 10-5-1 record; Hull 8 consecutive Solheim Cups; Rose Zhang 4-0 debut 2024; captain's picks Khang, Zhang, Duncan (USA); Woad world No. 5 Europe; rookies: Fassi Lopez Ramirez, Nadaud, Rhodes
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Foursomes pairings, session 1 results, running score through all 3 days
+
+### STORY 2: LIV Golf Bankruptcy — Day 2 / Chapter 11 Explanation
+- **Tier:** 1
+- **Category:** LIV Golf / Chapter 11 / PIF / BC Partners / Jon Rahm / Bryson DeChambeau / Bankruptcy Court
+- **Key facts:** Filed Sept 8, New Jersey federal court; PIF providing $49.6M DIP financing; all 48 player contracts terminated (executory contracts voided); Rahm ~$7.4M unsecured; DeChambeau ~$5.7M contingent; secured > admin > unsecured creditor hierarchy; BC Partners targeting $250-350M for LIV 2.0 (10-event 2027 circuit); venues: Saudi Arabia, Australia, South Africa, Hong Kong
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** DIP financing court approval, BC Partners formalization, player settlement offer terms
+
+### STORY 3: Rahm and DeChambeau Options Post-LIV Bankruptcy
+- **Tier:** 2
+- **Category:** Jon Rahm / Bryson DeChambeau / LIV Golf / PGA Tour / DP World Tour / BC Partners / Reinstatement
+- **Key facts:** Three options: LIV 2.0 equity / court claims / Tour return; Rolapp "no current path back" (named Rahm, DeChambeau, Smith); Rahm ~$7.4M unsecured creditor; DeChambeau ~$5.7M contingent; DP World Tour option for Rahm as European player (bypasses PGA Tour reinstatement question); LIV 2.0 equity-for-debt conversion; unsecured creditor recovery typically cents on dollar or nothing
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Player decisions as they are announced; formal settlement offer terms; PGA Tour policy update
+
+### STORY 4: Presidents Cup 2026 — 2 Weeks Out at Medinah
+- **Tier:** 2
+- **Category:** Presidents Cup / Medinah / Brandt Snedeker / Geoff Ogilvy / Scottie Scheffler / Hideki Matsuyama / Jackson Koivun
+- **Key facts:** Sept 22-27, Medinah Country Club; USA captain Brandt Snedeker; International captain Geoff Ogilvy; Scheffler world No. 1, 2026 FedExCup champion; Morikawa, Burns, Clark, Cantlay, Schauffele, Thomas; captain's pick Jackson Koivun (21 yr old, Auburn, won 3M Open July in 3rd pro start, set tournament record); Koivun 2nd youngest USA selection (Spieth at 20 in 2013 youngest); International: Matsuyama, Si Woo Kim, Tom Kim, Finau, Min Woo Lee, Adam Scott; USA won 13 of 15 editions; International last won 1998 Melbourne
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Practice rounds, pairings, session results
+
+### STORY 5: Biltmore Championship — Inaugural PGA Tour Event in Asheville
+- **Tier:** 2
+- **Category:** Biltmore Championship / PGA Tour Fall Swing / Asheville / The Cliffs at Walnut Cove / Jack Nicklaus
+- **Key facts:** Sept 17-20 at The Cliffs at Walnut Cove, Arden, NC; inaugural event; first PGA Tour event in western North Carolina; Jack Nicklaus signature design; fall swing (outside FedExCup points season); Asheville region recovering from Tropical Storm Helene 2024 flooding; one week before Presidents Cup at Medinah
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Field announcement, first-round tee times, leaderboard
+
+---
+
 ## 2026-09-09
 
 | Date | Tier | Story | Platforms | Status |
