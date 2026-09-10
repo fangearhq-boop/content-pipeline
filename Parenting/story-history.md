@@ -2,6 +2,58 @@
 
 ---
 
+## September 10, 2026
+
+### Story 1: Colorado CCCAP Childcare Waitlist Hit 14,000 Kids
+- **Date:** 2026-09-10
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — Colorado's CCCAP subsidized childcare waitlist grew from 4 kids statewide (2023) to 14,000+ (Sep 2026). El Paso County moved to waitlist model April 2026. 28 of 64 Colorado counties have enrollment freezes or waitlists. $105M restoration bill failed in 2026 legislature. Next opportunity: 2027 session. COS angle: practical steps for families (get on waitlist, Head Start alternatives, El Paso County Human Services contact).
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** 14,000+ statewide waitlist (Sep 2026); 4 kids in 2023; El Paso County waitlist since April 2026; 28 of 64 CO counties affected; $105M estimated to restore; bill failed in 2026 legislature
+- **Follow-up Opportunity:** 2027 legislature session; any El Paso County program changes; Head Start enrollment updates
+
+### Story 2: Weekend Family Roundup — September 11-13, 2026
+- **Date:** 2026-09-10
+- **Content Pillar:** Local Events
+- **Angle:** THURSDAY ROUNDUP — Required weekly slot. Dahlia Days at Gather Mountain Blooms Sep 12 ($10, 5210 S. US-85/87) follow-up [first covered Sep 9]; Pikes Peak Youth Fishing Derby Sep 13 Crystal Creek Reservoir (free, ages 6-15) follow-up [first covered Sep 9]; free options: Monument Valley Park, Garden of the Gods, Pikes Peak Greenway Trail, PPLD story times. Required SpringsDaily SEO links included.
+- **Byline:** Sarah Morales
+- **Content Produced:** 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only) + Article
+- **Tier:** 2
+- **Key Facts (HIGH):** Dahlia Days Sep 12 at 5210 S. US-85/87, $10/person; Fishing Derby Sep 13 Crystal Creek Reservoir, free, ages 6-15; Monument Valley Park/Garden of the Gods free; PPLD branches open
+
+### Story 3: D49 Opens Two New Preschool Classrooms at Student Success Center
+- **Date:** 2026-09-10
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — Falcon School District 49 opened 2 new preschool classrooms at Student Success Center for 2026-27 school year. D49 is fastest-growing district in Pikes Peak region. East COS historically underserved for early childhood options. Contact d49.org for enrollment/eligibility.
+- **Byline:** Jamie Rivera
+- **Content Produced:** 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only) + Article
+- **Tier:** 2
+- **Key Facts (HIGH):** 2 new preschool classrooms at D49 Student Success Center; 2026-27 school year; east Colorado Springs; contact d49.org
+- **Follow-up Opportunity:** Enrollment numbers; any additional D49 early childhood expansion
+
+### Story 4: D20 Board of Education Appoints Kelli Hawkins
+- **Date:** 2026-09-10
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — Academy School District 20 appointed Kelli Hawkins to fill vacant Board of Education seat on September 3, 2026. 7-member board now at full complement. D20 serves 27,000+ students across northern Colorado Springs and Monument (Briargate, Flying Horse, Powers Blvd corridor). D20 first day was August 17, 2026.
+- **Byline:** Sarah Morales
+- **Content Produced:** 1 X Post + FB Long-Form + FB Image Caption + 1 Image Concept (Gemini base_only) + Article
+- **Tier:** 2
+- **Key Facts (HIGH):** Kelli Hawkins appointed Sep 3, 2026; 7-member board now full; D20 serves 27,000+ students; northern Colorado Springs and Monument; asd20.org for board meeting schedule
+- **Follow-up Opportunity:** First full-board vote; D20 board meeting agendas through 2026-27 year
+
+### Story 5: October Family Events Calendar — Colorado Springs
+- **Date:** 2026-09-10
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — October preview for COS families. Oktoberfest at Gather Mountain Blooms Oct 3-4 (5210 S. US-85/87); Western Museum of Mining and Industry pumpkin picking/cider press/steam engine Saturdays through October; Monster Jam at Broadmoor World Arena Oct 23-25; Emma Crawford Coffin Races Manitou Springs Oct 24 10AM-5PM Ruxton Avenue (free); Cheyenne Mountain Zoo Boo late October. Planning-ahead angle for October weekends.
+- **Byline:** Jamie Rivera
+- **Content Produced:** 1 X Post + FB Long-Form + FB Image Caption + 1 Image Concept (Gemini base_only) + Article
+- **Tier:** 3
+- **Key Facts (HIGH):** Oktoberfest Gather Mountain Blooms Oct 3-4; WMMI pumpkin/steam engine Saturdays in October; Monster Jam Broadmoor Oct 23-25; Coffin Races Manitou Oct 24, 10AM-5PM, Ruxton Avenue, free to watch; Cheyenne Mountain Zoo Boo late October
+
+---
+
 ## September 7, 2026
 
 ### Story 1: Labor Day Lift Off Final Day — Last Chance to Attend
