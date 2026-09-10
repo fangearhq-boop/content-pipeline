@@ -6639,3 +6639,53 @@
 - **Key facts:** Portland's Lillard+Morant backcourt is West's top storyline; Blazers camp Sept 29; BC London game Oct 12; OKC Thunder rising; Nuggets/Jokic anchored; Lakers first year without LeBron since 2018
 - **Status:** NEW
 - **Follow-up ideas:** Camp reports, Lillard/Morant preseason chemistry, OKC/Denver early season results
+
+## 2026-09-10
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-10 | T1 | Kawhi Leonard Trade Still Under NBA Review — 18 Days to Raptors Training Camp | X(2), FB, Article | FOLLOW UP |
+| 2026-09-10 | T1 | West Power Rankings — OKC's Dynasty Window, Blazers' New Backcourt, Lakers Without LeBron | X(2), FB, Article | NEW |
+| 2026-09-10 | T2 | Knicks Title Defense — How New York Plans to Repeat With Drummond Added | X(1), FB, Article | FOLLOW UP |
+| 2026-09-10 | T2 | Joel Embiid Health Watch — The Variable That Defines the 76ers' Championship Window | X(1), FB, Article | FOLLOW UP |
+| 2026-09-10 | T2 | OKC Thunder — Shai Gilgeous-Alexander and the West's Youngest Title Contender | X(1), FB, Article | NEW |
+
+### STORY 1: Kawhi Leonard Trade Update
+- **Tier:** 1
+- **Category:** Toronto Raptors / Kawhi Leonard / NBA Investigation / Training Camp
+- **Key facts:** Trade agreed June 30; still not ratified; NBA investigation into Clippers/Aspiration deal ongoing; Ballmer + Frank suspended; no timeline given; Raptors camp Sept. 28 Quebec City; Leonard was in Miami with Raptors; "I hope so...we gonna win"
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Investigation conclusion, official trade ratification, Kawhi first official Raptors workout
+
+### STORY 2: West Power Rankings
+- **Tier:** 1
+- **Category:** Western Conference / NBA Preview / Power Rankings / OKC Thunder / Portland Trail Blazers
+- **Key facts:** No.1 OKC (SGA back-to-back MVP, age 28); No.2 Nuggets (Jokic); No.3 Blazers (Lillard+Morant, camp Sept.29, BC London Oct.12); No.4 Warriors (transition); No.5 Lakers (first year without LeBron since 2018)
+- **Byline:** Marcus Cole
+- **Status:** NEW
+- **Follow-up ideas:** Camp reports, Lillard/Morant debut, SGA MVP race
+
+### STORY 3: Knicks Title Defense
+- **Tier:** 2
+- **Category:** New York Knicks / NBA Championship / Title Defense / Andre Drummond
+- **Key facts:** Knicks 2026 NBA Champions; Perry kept core intact; added Drummond; Brunson+Towns+Anunoby+Hart return; Opening Night Oct.20 ring ceremony at MSG vs. LeBron's Sixers; swept Sixers in 2026 second round
+- **Byline:** Damon Pierce
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Camp reports, Brunson preseason, ring ceremony coverage
+
+### STORY 4: Joel Embiid Health Watch
+- **Tier:** 2
+- **Category:** Philadelphia 76ers / Joel Embiid / LeBron James / Injuries / Load Management
+- **Key facts:** Embiid 57 games in last 2 seasons; Sixers have LeBron+Brown+Embiid; Nurse previewed load management; 70+ games = serious title threat; camp opens Sept.28; Opening Night Oct.20 at MSG vs. Knicks
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Camp health report, preseason Embiid minutes, early season game count
+
+### STORY 5: OKC Thunder Championship Window
+- **Tier:** 2
+- **Category:** Oklahoma City Thunder / Shai Gilgeous-Alexander / NBA Preview / Western Conference
+- **Key facts:** SGA age 28, back-to-back MVP; deep young roster; 4-year rebuild complete; West's No.1 seed favorite; coach Mark Daigneault; strong defense + SGA creation; West challenger to beat
+- **Byline:** Marcus Cole
+- **Status:** NEW
+- **Follow-up ideas:** Camp reports, SGA preseason form, MVP race tracking
