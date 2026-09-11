@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-09-11
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-11 | T1 | Madring FP1 and FP2 — First F1 Practice at New Circuit | X(2), FB, Article | FOLLOW UP |
+| 2026-09-11 | T1 | Russell "Has an Answer" for Antonelli's 66-Point Championship Lead | X(2), FB, Article | FOLLOW UP |
+| 2026-09-11 | T2 | Leclerc Cleared After 60G Monza Crash — Ferrari Needs Him at Madring | X(1), FB, Article | FOLLOW UP |
+| 2026-09-11 | T2 | Power Unit Penalties — Both Antonelli and Russell Must Take Grid Drops | X(1), FB, Article | NEW |
+| 2026-09-11 | T2 | Domenicali Calendar Deadline — Revised 2026 F1 Schedule Expected This Week | X(1), FB, Article | FOLLOW UP |
+
+### STORY 1: Madring FP1 and FP2 — First F1 Practice
+- **Tier:** 1
+- **Category:** Spanish Grand Prix / Madring / Circuit Debut
+- **Key facts:** First F1 cars ever to turn laps at Madring; Turn 12 (La Monumental) is 270-degree banked corner at 24% gradient, over 500 meters long; no team has circuit data or reference lap times; equal ignorance creates level playing field; circuit opened in 2025; 5.47km lap; 18 corners
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Qualifying results, race day strategy, teams' La Monumental approaches
+
+### STORY 2: Russell "Has an Answer" — Championship Pursuit
+- **Tier:** 1
+- **Category:** F1 Championship / George Russell / Kimi Antonelli / Mercedes
+- **Key facts:** Antonelli leads 267 pts; Russell No. 2 at 201 (-66); Hamilton No. 3 at 191 (-76); Norris No. 4 at 171 (-96); 9 rounds remaining; Russell quoted "I have an answer" in response to Antonelli's lead; Madring = first chance to apply pressure at neutral circuit
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Qualifying head-to-head, race result, championship standings update
+
+### STORY 3: Leclerc Cleared — Ferrari at Madring
+- **Tier:** 2
+- **Category:** Charles Leclerc / Ferrari / Medical / Safety
+- **Key facts:** 60G impact at Parabolica (Monza Lap 2); temporary right-eye vision issue after crash; Dr. Isabel Ornaque (Madring medical director) required ophthalmological evaluation before granting race entry; passed all checks; cleared to race; Ferrari 87 points behind Mercedes in Constructors' (9 rounds left); Hamilton P6 at Monza not enough to close gap
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Leclerc qualifying result, Ferrari race performance, Constructors' standings
+
+### STORY 4: Power Unit Penalties — Antonelli and Russell
+- **Tier:** 2
+- **Category:** F1 Technical / Grid Penalties / Mercedes
+- **Key facts:** Both Antonelli and Russell have exceeded permitted power unit element allocations; mandatory grid penalties coming before season ends; teams choosing optimal race to absorb penalty (low-overtaking circuits worst); Madring and Monaco considered worst for penalty absorption; Baku/Spa/Monza most recovery-friendly; same-race double penalty theoretically possible
+- **Status:** NEW
+- **Follow-up ideas:** Penalty timing announcement, which race chosen, championship impact
+
+### STORY 5: Domenicali Calendar Deadline
+- **Tier:** 2
+- **Category:** F1 Calendar / FOM / Stefano Domenicali
+- **Key facts:** Domenicali committed to revised calendar by mid-September; Bahrain and Saudi Arabia cancelled due to regional security concerns (US military activity near Strait of Hormuz); Malaysia/Sepang confirmed replacement (Oct 2-4); Qatar (Nov 27-29) and Abu Dhabi (Dec 4-6) still listed but uncertain; Imola and Portimão leading contingency candidates; deadline this week
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Calendar announcement, venue confirmation, final race venue
+
 ## 2026-09-07
 
 | Date | Tier | Title | Platforms | Status |

@@ -1,0 +1,306 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-11",
+  "compiled_at": "2026-09-11T11:32:43.595270+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Madring FP1 and FP2 — First Ever F1 Practice at the New Madrid Circuit",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "F1 is at Madring for the first time in history.\n\nNo data. No reference laps. No team knows what La Monumental does to lap times.\n\nThe field has never been this equal. This is pure F1 discovery.\n\n#SpanishGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SpanishGP",
+            "#F1"
+          ],
+          "char_count": 209
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Turn 12 at Madring: La Monumental.\n\n270 degrees of banking. 24% gradient. Over 500 meters long.\n\nNo modern F1 circuit has anything like it. Every team is learning how to take it in real time today.\n\nThe race weekend just started getting interesting.\n\n#SpanishGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SpanishGP",
+            "#F1"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-madring-fp1-fp2-first-f1-practice-madrid-2026.html",
+        "headline": "Formula 1 Turns Its First Competitive Laps at Madring — And Nobody Knows What to Expect",
+        "word_count": 638
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Madring FP1 and FP2\n**Key Facts:**\n- Circuit: Madring, Madrid — built around IFEMA exhibition center\n- Length: 5.416 km\n- Corners: 22\n- Turn 12 \"La Monumental\": 270-degree banked hairpin, up to 24% banking, ~550m long\n- Main straight speed: approaching 340 km/h\n- FP1: Friday September 11 at 1:30 PM local (7:30 AM ET)\n- FP2: Friday September 11 at 5:00 PM local (11:00 AM ET)\n- FP3: Saturday September 12 at 12:30 PM local\n- Qualifying: Saturday September 12 at 4:00 PM local\n- Race: Sunday September 13 at 3:00 PM local (57 laps, 308.524 km)\n- No team has real-world F1 data on this circuit\n- Temperature forecast: 30-33°C on Friday\n- New surface gains grip across the weekend — an unusual equalizer\n**Confidence:** HIGH (Formula1.com, Motorsport.com, Yahoo Sports)\n**Story Type:** FOLLOW UP — Spanish GP coverage began Sept 10",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "George Russell's Championship Challenge",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "George Russell on Kimi Antonelli's championship lead:\n\n\"I have an answer.\"\n\n66 points down. 9 rounds left. The gap is real — but Russell isn't conceding anything.\n\nMadrid is where he starts proving it.\n\n#SpanishGP #F1 #GeorgeRussell",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SpanishGP",
+            "#F1",
+            "#GeorgeRussell"
+          ],
+          "char_count": 232
+        },
+        {
+          "label": "Post 2-2",
+          "text": "2026 F1 Championship standings:\n\nNo. 1 Antonelli — 267 pts\nNo. 2 Russell — 201 pts (-66)\nNo. 3 Hamilton — 191 pts (-76)\nNo. 4 Norris — 171 pts (-96)\n\n9 rounds left. Not over — but Antonelli is in control.\n\n#F1 #SpanishGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#SpanishGP"
+          ],
+          "char_count": 220
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-george-russell-championship-answer-antonelli-2026.html",
+        "headline": "George Russell Says He \"Has an Answer\" — But Can He Close a 66-Point Gap in 9 Rounds?",
+        "word_count": 673
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "George Russell Championship Challenge\n**Key Facts:**\n- Antonelli leads championship: 267 points\n- Russell: 201 points (66 behind)\n- Hamilton: 191 points (76 behind)\n- Norris: 171 points (96 behind)\n- 9 rounds remaining after Madring race (this is Round 14 of 22; plus corrections from calendar: 8 rounds after Monza was the claim on Sept 10)\n- Wait — Sept 10 brief said \"8 rounds remaining\" for Madrid. Madrid is Round 14 of 22, so there are 9 rounds including Madrid, 8 after. For today (Sept 11, practice day) there are 9 rounds remaining including this weekend.\n- Russell quote: \"I have an answer\" to Antonelli's pace (Sky Sports)\n- Russell led much of Monza race before tire strategy cost him the win\n- Both Antonelli and Russell face power unit penalties\n**Confidence:** HIGH (Sky Sports, Forbes F1 standings article)\n**Story Type:** FOLLOW UP",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Leclerc Cleared — Ferrari at Madring",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Charles Leclerc hit the barriers at 60G in Monza. Temporary right-eye vision. Passed all medical checks.\n\nHe races in Madrid this weekend.\n\nFerrari is 87 points behind Mercedes in the Constructors'. They need Leclerc fully healthy and fast.\n\n#Ferrari #SpanishGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Ferrari",
+            "#SpanishGP",
+            "#F1"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-leclerc-cleared-ferrari-madring-constructors-2026.html",
+        "headline": "Leclerc Cleared After 60G Monza Crash — Ferrari Arrives at Madring Needing a Turnaround",
+        "word_count": 618
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Leclerc Cleared for Madrid\n**Key Facts:**\n- Monza crash: Lap 2 at Parabolica corner; lost rear; 60G impact into tyre barrier\n- Vision issue: temporary right-eye problem lasting \"very short\" period\n- Medical assessment: passed checks under Dr. Isabel Ornaque (Madring medical director); no abnormalities\n- Leclerc confirmed to race at Spanish GP in Madrid\n- Ferrari Constructors' deficit: 87 points behind Mercedes\n- Hamilton P6 at Monza\n- 9 rounds remaining in Constructors' battle\n**Confidence:** HIGH (Motorsport.com, Planet F1, Scuderia Fans)\n**Story Type:** FOLLOW UP — from Sept 7 and Sept 10 pipeline stories",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Power Unit Penalty Clock Ticking",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Kimi Antonelli and George Russell will both take grid penalties before the season ends.\n\nBoth have exceeded their permitted power unit element allocations.\n\nThe question is: which race do they take the hit?\n\nThe answer could shape the championship.\n\n#F1 #SpanishGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#SpanishGP"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-power-unit-penalties-antonelli-russell-2026.html",
+        "headline": "The Hidden Wildcard: Both Antonelli and Russell Will Take Grid Penalties Before the Season Ends",
+        "word_count": 631
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Power Unit Penalties — Antonelli and Russell\n**Key Facts:**\n- Both Antonelli and Russell will need grid penalties for exceeding power unit allocations before season ends\n- F1 regulations: set number of power unit elements per season; exceeding triggers grid/pit lane penalties\n- Teams strategically choose which race to take the penalty\n- Circuit overtaking ease is a key factor in penalty timing decision\n- No specific race confirmed yet for either driver's penalty\n**Confidence:** MEDIUM (single source summary in search results; mechanism is well-established F1 regulation)\n**Story Type:** NEW",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Season Calendar — Domenicali's Mid-September Deadline",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Stefano Domenicali promised a revised 2026 F1 calendar by mid-September.\n\nBahrain and Saudi Arabia are out. Malaysia is confirmed as a replacement.\n\nThe deadline arrives this week. Imola and Portimão are waiting.\n\nWhere does the season end? We'll know soon.\n\n#F1 2026",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-domenicali-calendar-deadline-f1-2026-season.html",
+        "headline": "Domenicali's Calendar Deadline Arrives This Week — What Replaces Bahrain and Saudi Arabia?",
+        "word_count": 565
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Season Calendar — Domenicali Mid-September Deadline\n**Key Facts:**\n- Bahrain and Saudi Arabia rounds cancelled: regional security concerns (US military activity near Strait of Hormuz)\n- Replacement confirmed: Malaysia Sepang, October 2-4\n- Domenicali promised revised calendar announcement \"by mid-September\"\n- Options for additional replacements: Imola, Portimão (leading contingency venues)\n- Qatar (November 27-29) and Abu Dhabi (December 4-6) remain on calendar\n- Deadline arrival: approximately September 15\n**Confidence:** HIGH (from prior pipeline research, confirmed via search)\n**Story Type:** FOLLOW UP — from Sept 6 and Sept 10 pipeline stories",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

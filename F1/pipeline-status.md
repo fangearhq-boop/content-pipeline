@@ -1,11 +1,43 @@
 # F1 Fanrecap — Pipeline Status
 
-## Last Run: 2026-09-10
+## Last Run: 2026-09-11
 
 **Status:** COMPLETE (with known proxy limitations)
 **Niche:** F1 Fanrecap
 **Stories:** 5
 **Articles:** 5
+
+---
+
+## 2026-09-11 Run Log
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research | ✅ Complete | 5 stories — Madring FP1/FP2, Russell championship declaration, Leclerc cleared, power unit penalties, Domenicali calendar deadline |
+| Daily Brief | ✅ Complete | 00-daily-brief.md |
+| Research Notes | ✅ Complete | 01-research-notes.md |
+| Story Analysis | ✅ Complete | 02-story-analysis.md |
+| X Posts | ✅ Complete | 03-social-posts-x.md — 7 posts (fixed post label format for char parsing) |
+| Facebook Posts | ✅ Complete | 04-social-posts-facebook.md |
+| Image Concepts | ✅ Complete | 05-image-concepts.md |
+| Articles | ✅ Complete | 5 HTML articles |
+| Fact Check | ✅ Complete | 06-fact-check-log.md |
+| Compile Content Data | ✅ Complete | 07-content-data.json — no errors |
+| Image Manifest | ✅ Complete | 07-image-manifest.md (not_started) |
+| Story History | ✅ Complete | story-history.md updated |
+| Review Dashboard | ✅ Complete | review-dashboard.html — 22 items |
+| Publish Dashboard | ⚠ Partial | Blocked — content-dashboards not in authorized repo |
+| PostPlanner Export | ⚠ Partial | 0 posts (known parsing issue) |
+| PostPlanner TOBI | ⚠ Partial | 0 posts (known parsing issue) |
+| WordPress Publish | ⚠ Blocked | Proxy policy — fanrumor.com not reachable |
+| Git Push | ✅ Complete | Committed and pushed to main |
+
+**Stories covered:**
+1. T1 FOLLOW UP: Madring FP1 and FP2 — First F1 Practice at New Circuit
+2. T1 FOLLOW UP: Russell "Has an Answer" for Antonelli's 66-Point Championship Lead
+3. T2 FOLLOW UP: Leclerc Cleared After 60G Monza Crash — Ferrari Needs Him at Madring
+4. T2 NEW: Power Unit Penalties — Both Antonelli and Russell Must Take Grid Drops Before Season End
+5. T2 FOLLOW UP: Domenicali Calendar Deadline — Revised 2026 F1 Schedule Expected This Week
 
 ---
 
