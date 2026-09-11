@@ -3,6 +3,65 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-09-11
+
+### Story 1: USA WNT — ONE DAY to Devon Park
+- **Date:** 2026-09-11
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Eve of opening day at Devon Park. USA vs. Mexico (No. 7) TOMORROW Sept. 12 at 7:30 PM ET. Netherlands (No. 6) = top-seed decider. Top 2 → Redcliffe 2027 Finals (LA28 qualifier). Gasso, JT Gasso, Rocha departed Norman TODAY. Garcia + Mulipola 2020 Olympians; 7 World Games golds; Brito/Coleman/Jennings/Maxwell on roster. USA 5-0 at IC at same Devon Park venue. Six nations: USA/Netherlands/Mexico/China/Brazil/NZ.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - USA vs. Mexico opener result Sept. 12
+  - USA vs. Netherlands round-robin result (top-seed decider)
+  - Sept. 16 play-off bracket and qualification result
+
+### Story 2: Class of 2028 — Commit Wave Underway
+- **Date:** 2026-09-11
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** In-person window opened Sept. 9 (2 days ago). Commit wave accelerating: Tennessee (Galindo + Wilson), LSU (Joley Bennett, 5-star), OU hosting Schlader + Campos. Three dozen juniors committed. Peyton Ushery (No. 2 HOT 100) → Georgia. 1,226 EIS nominations record. Small rosters = intense competition. Middle infielders/catchers headline.
+- **Content Produced:** Article (article-02, Emily Rawlings), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - First wave of named commits continuing to announce
+  - Official visit scheduling begins October
+  - Class rankings solidifying October–November
+
+### Story 3: Oklahoma — Gasso Departs for WNT Today
+- **Date:** 2026-09-11
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Gasso, JT Gasso, Rocha departed Norman TODAY for Team USA at Devon Park. Associate coaches take over OU fall camp through Sept. 16. Wells: 2 HRs off Berzon in scrimmages. Berzon: 486.1 IP, 2.02 ERA, 406 K (2x AA, LSU). Harter: .346 BA (MTSU). Fall opener Sept. 30 vs. Tarleton State (19 days). First public game Oct. 3.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Gasso returns from WNT Sept. 17
+  - OU fall opener Sept. 30 vs. Tarleton State
+  - Berzon/Harter rotation update
+
+### Story 4: Texas Longhorns — Week 5 Fall Camp, 18 Days Out
+- **Date:** 2026-09-11
+- **Tier:** 3
+- **Classification:** FOLLOW UP
+- **Angle:** Week 5 = execution mode. Torres (2026 D1Softball POY, .530BA/16HR/56RBI FSU) + Kavan (2x WCWS MOP, senior). Fall opener Sept. 29 vs. Murray State (McCombs 6 PM CT free, 18 days). Three-peat: only UCLA 1988-90 + OU 2021-23. 2027 schedule released Sept. 8. Katie Stewart: 31 HR Texas program record.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Texas fall opener Sept. 29
+  - Torres-Kavan live reps result
+  - Kavan senior season milestones
+
+### Story 5: Texas Tech — Week 5, Chemistry Forming
+- **Date:** 2026-09-11
+- **Tier:** 3
+- **Classification:** FOLLOW UP
+- **Angle:** Week 5. Jaysoni Beachum (.406BA/10HR/69RBI, All-ACC 1st Team FSU), Kasidi Pickering (No. 2 transfer, .384BA/50HR OU), Jayden Heavener (LHP 13-9/2.81ERA/128K LSU). 7 All-Americans total. Glasco Year 2. WCWS runner-up 2026. Chemistry forming from three different program cultures.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - TTU fall scrimmage results
+  - Leadership emergence signals
+  - Glasco media availability
+
+---
+
 ## 2026-09-09
 
 ### Story 1: Class of 2028 — In-Person Window Opens TODAY
