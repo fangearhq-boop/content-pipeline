@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-09-11
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-11 | T1 | Giannis Antetokounmpo and Miami Heat — How the Eastern Conference Just Got More Dangerous | X(2), FB, Article | NEW |
+| 2026-09-11 | T1 | Kawhi Leonard Trade — 17 Days to Raptors Training Camp, NBA Investigation Still Has No Timeline | X(2), FB, Article | FOLLOW UP |
+| 2026-09-11 | T2 | Jalen Duren / Pistons Contract Standoff — QO Risk Grows as September 29 Camp Date Nears | X(1), FB, Article | NEW |
+| 2026-09-11 | T2 | Milwaukee Bucks Rebuild — First Training Camp Without Giannis in 12 Years | X(1), FB, Article | NEW |
+| 2026-09-11 | T2 | Fred VanVleet — Houston's $25M Bet on a Complete ACL Comeback | X(1), FB, Article | NEW |
+
+### STORY 1: Giannis Antetokounmpo — Miami Heat Power Shift
+- **Tier:** 1
+- **Category:** Miami Heat / Giannis Antetokounmpo / NBA Eastern Conference
+- **Key facts:** Trade: Giannis + Bobby Portis → Miami; Heat sent Tyler Herro, Kel'el Ware, Jaime Jaquez Jr., Kasparas Jakucionis, 3 first-round picks (incl. No. 13 in 2026), 1 second-round pick, 1 pick swap; Heat starting five: Mitchell, Hardaway Jr., Wiggins, Giannis, Adebayo; extension eligible Oct 1, expected to wait until Jan 6 for 4yr/$275M max; odds moved 30-1 → 18-1
+- **Status:** NEW
+- **Follow-up ideas:** Extension signing, training camp first look, East power rankings update
+
+### STORY 2: Kawhi Leonard Trade — Day 17 Countdown
+- **Tier:** 1
+- **Category:** Toronto Raptors / Kawhi Leonard / NBA Investigation
+- **Key facts:** NBA investigation into Aspiration undisclosed sponsorship arrangement; Ballmer + Frank suspended; Kawhi in Miami with Raptors players; quote "I hope so...we gonna win" (Sept 9); trade terms: Brandon Ingram, Gradey Dick, unprotected picks 2031/2033, second-rounds 2030/2033, pick swap 2027 to LA; Raptors training camp Sept 28, Quebec City; 17 days as of Sept 11
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Any NBA statement on investigation timeline; training camp opening
+
+### STORY 3: Jalen Duren / Pistons Contract Standoff
+- **Tier:** 2
+- **Category:** Detroit Pistons / Jalen Duren / NBA Contract
+- **Key facts:** Pistons offering ~$35M/yr on 5yr extension; Duren wants $40M+/yr; gap = ~$25M total; Pistons camp Sept 29; Duren reportedly considering QO (restricted FA next summer); Pistons remain favorite to retain Duren
+- **Status:** NEW
+- **Follow-up ideas:** Extension resolution, camp opening with/without deal, QO signing if applicable
+
+### STORY 4: Milwaukee Bucks Rebuild
+- **Tier:** 2
+- **Category:** Milwaukee Bucks / Rebuild / Tyler Herro
+- **Key facts:** First Bucks camp without Giannis since 2013 (12 years); trade return: Tyler Herro, Kel'el Ware, Jaime Jaquez Jr., Kasparas Jakucionis, 3 first-round picks, 1 second, 1 swap; head coach Doc Rivers; Bucks entering true rebuild
+- **Status:** NEW
+- **Follow-up ideas:** Training camp roster evaluation, Herro as new franchise face, draft pick timeline
+
+### STORY 5: Fred VanVleet — ACL Return
+- **Tier:** 2
+- **Category:** Houston Rockets / Fred VanVleet / NBA Injury Return
+- **Key facts:** Torn ACL in offseason workout September 2025; missed entire 2025-26 season; age 32; opting in to $25M player option for 2026-27; Rockets camp Sept 29; key backcourt piece for Houston
+- **Status:** NEW
+- **Follow-up ideas:** Training camp performance, preseason games, regular season debut
+
 ## 2026-09-07
 
 | Date | Tier | Title | Platforms | Status |

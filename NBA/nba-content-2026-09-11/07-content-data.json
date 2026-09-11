@@ -1,0 +1,315 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-11",
+  "compiled_at": "2026-09-11T11:20:52.006951+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Giannis Antetokounmpo and Miami Heat",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The Miami Heat just became the most dangerous team in the East.\n\nGiannis Antetokounmpo. Bam Adebayo. Donovan Mitchell.\n\nThree All-Stars. One mission. And Giannis can sign his max extension in January.\n\nThe Knicks know the pressure just doubled. #HeatNation #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HeatNation",
+            "#NBA"
+          ],
+          "char_count": 261
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Giannis Antetokounmpo is eligible to sign a Heat extension starting October 1.\n\nHe's expected to wait until January 6 for the full max: 4 years, $275 million.\n\nThat January date is now the most important day on the East calendar.\n\n#HeatNation #Giannis #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HeatNation",
+            "#Giannis",
+            "#NBA"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-giannis-miami-heat-east-contender-2026.html",
+        "headline": "Giannis Antetokounmpo Joins Miami and the Eastern Conference Race Gets a Lot Harder",
+        "word_count": 786
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Giannis Antetokounmpo — Miami Heat\n**Key Facts:**\n- Trade: Milwaukee Bucks sent Giannis Antetokounmpo and Bobby Portis to Miami Heat\n- Heat sent: Tyler Herro, Kel'el Ware, Jaime Jaquez Jr., Kasparas Jakucionis, three first-round picks (including No. 13 in 2026 draft), one second-round pick, one pick swap\n- Giannis is a two-time MVP (back-to-back 2019, 2020)\n- Heat projected starting five: Donovan Mitchell, Tim Hardaway Jr., Andrew Wiggins, Giannis Antetokounmpo, Bam Adebayo\n- Extension eligibility: Giannis can sign extension starting October 1; expected to wait until January 6 (6 months post-trade) for maximum value\n- Max extension available Jan 6: four-year, $275 million\n- Alternative: opt in to $62.8M salary in 2027-28, then extend for three years and $214 million\n- Championship odds before trade: Heat at 30-1; after trade: 18-1\n- Giannis did not participate in Greece's FIBA World Cup qualifying window as he prepared for NBA season\n**Confidence:** HIGH (NBA.com, ESPN, Yahoo Sports)\n**Story Type:** NEW — training camp / extension timeline angle",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Kawhi Leonard Trade Update",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "17 days until Raptors training camp in Quebec City.\n\nThe Kawhi Leonard trade still isn't ratified.\n\nThe NBA has not given a timeline for the investigation.\n\nThe clock is louder than ever.\n\n#Raptors #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Raptors",
+            "#NBA"
+          ],
+          "char_count": 202
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Kawhi Leonard is working out with Raptors players.\n\nHe said \"I hope so...we gonna win.\"\n\nHe is not officially a Raptor. He is acting like one in every way that matters.\n\nThe trade needs to follow the man.\n\n#Raptors #Kawhi #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Raptors",
+            "#Kawhi",
+            "#NBA"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-kawhi-leonard-trade-17-days-raptors-camp.html",
+        "headline": "Kawhi Leonard's Trade to Toronto Is Still Not Official — and Now It's 17 Days to Raptors Camp",
+        "word_count": 750
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Kawhi Leonard Trade — Ongoing Investigation\n**Key Facts:**\n- Trade agreed June 30, 2026: Kawhi Leonard (Clippers → Raptors)\n- Trade terms: Brandon Ingram, Gradey Dick, unprotected first-round picks 2031 and 2033, second-round picks 2030 and 2033, first-round pick swap 2027 going to LA\n- NBA investigation: alleged undisclosed sponsorship arrangement between Leonard and Aspiration (Clippers partner)\n- Clippers owner Steve Ballmer and president Lawrence Frank received suspensions\n- Leonard working out informally with Raptors players in Miami\n- Quote from Leonard (Sept 9): \"I hope so...we gonna win\"\n- Cannot participate in official team activities until trade is ratified\n- Raptors training camp: September 28, Quebec City — 17 days from September 11\n- No public timeline given for investigation conclusion\n**Confidence:** HIGH (from prior verified pipeline sessions + confirmed via search)\n**Story Type:** FOLLOW UP — from September 10 pipeline story",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Jalen Duren / Pistons Contract Standoff",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "Window: 7:00 PM ET\n```\nJalen Duren wants $40M/yr. Pistons are at $35M.\n\nCamp opens September 29 with no deal.\n\nIf they miss this window, Duren signs his QO and becomes a restricted free agent next summer.\n\nClose it. #DetroitPistons #NBA\n```\nCharacter count: ~209 chars ✓",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#DetroitPistons",
+            "#NBA"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-jalen-duren-pistons-contract-standoff-2026.html",
+        "headline": "Jalen Duren and the Pistons Are Still at an Impasse — and Camp Opens September 29",
+        "word_count": 653
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Jalen Duren / Pistons Contract Standoff\n**Key Facts:**\n- Pistons offering: ~$35 million per year on five-year extension\n- Duren camp wants: over $40 million per year\n- Pistons training camp opens: September 29\n- Duren reportedly considering his qualifying offer (QO) if no deal reached\n- QO would make Duren a restricted free agent after 2026-27 season\n- Pistons remain the favorite to sign Duren\n- Two sides remain at an impasse with no reported progress\n**Confidence:** HIGH (CBS Sports, Heavy.com)\n**Story Type:** NEW",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Milwaukee Bucks Rebuild",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": "Window: 9:30 PM ET\n```\nThe Milwaukee Bucks open training camp this fall without Giannis Antetokounmpo.\n\nFirst time since 2013.\n\nTyler Herro. Kel'el Ware. A stack of picks.\n\nIt's not the Giannis era anymore. The rebuild is here.\n\n#Bucks #NBA\n```\nCharacter count: ~220 chars ✓",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Bucks",
+            "#NBA"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-milwaukee-bucks-rebuild-after-giannis-2026.html",
+        "headline": "The Milwaukee Bucks Enter Their First Training Camp Without Giannis in 12 Years",
+        "word_count": 701
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Milwaukee Bucks — First Camp Without Giannis\n**Key Facts:**\n- Giannis Antetokounmpo drafted by Bucks in 2013 (first Bucks camp: 2013-14)\n- This is first Bucks training camp without Giannis since 2013 (13 years)\n- Bucks received: Tyler Herro, Kel'el Ware, Jaime Jaquez Jr., Kasparas Jakucionis, multiple first-round picks\n- Head coach: Doc Rivers\n- Bucks now in rebuild mode after decade of Giannis-led contention\n**Confidence:** HIGH (ESPN, NBA.com)\n**Story Type:** NEW",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Fred VanVleet — ACL Return",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5A",
+          "text": "Window: 4:00 PM ET\n```\nFred VanVleet tore his ACL last September.\n\nHe missed all of 2025-26. He's 32.\n\nHe just opted in for $25M.\n\nHouston is betting on a full comeback. VanVleet has every reason to deliver.\n\n#Rockets #NBA\n```\nCharacter count: ~193 chars ✓",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Rockets",
+            "#NBA"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-fred-vanvleet-acl-return-rockets-2026.html",
+        "headline": "Fred VanVleet Opts In for $25 Million — Houston Is Betting on a 32-Year-Old ACL Comeback",
+        "word_count": 629
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Fred VanVleet — ACL Recovery\n**Key Facts:**\n- VanVleet suffered torn ACL during offseason workout: September 2025\n- Missed entire 2025-26 NBA season\n- Opting into $25 million player option for 2026-27 season\n- Age: 32 years old\n- Team: Houston Rockets\n- Rockets training camp: September 29 (veterans)\n- VanVleet career: started with Toronto Raptors, became key FA signing for Houston\n**Confidence:** HIGH (ESPN, CBS Sports per search summaries)\n**Story Type:** NEW",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 8
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
