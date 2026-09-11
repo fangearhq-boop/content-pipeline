@@ -1,6 +1,37 @@
 # COS Parenting — Pipeline Status
 
-## Current Run: 2026-09-10
+## Current Run: 2026-09-11
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Ricky Joy Sour Crush Candy recall (CPSC Sep 10, 2.3M bottles, choking hazard, rolling ball detaches); Cade California Finger Light Toys recall (CPSC Sep 10, Amazon, button battery hazard); RSV season 2026-27 (AAP guidelines: infants under 8 months, expanded high-risk 8-19 months); Weekend preview Sep 12-13 (Dahlia Days Sat $10 + Fishing Derby Sun free ages 6-15); Fall parent-teacher conference prep (D11/D20/D49 conferences typically October) |
+| Story History Check | COMPLETE | S1 Ricky Joy recall (new — distinct from prior recalls, rollerball candy category, Slime Licker 2024 context); S2 RSV season (new — 2026-27 AAP guidance, expanded high-risk criteria); S3 Weekend preview (follow-up — Dahlia Days + Fishing Derby both first covered Sep 9 separately; this is same-week preview angle, not duplicate); S4 Conference prep (new — evergreen angle, first September conference-prep coverage); S5 Cade California recall (new — Amazon button battery hazard) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: cpsc.gov, rickyjoy.com, healthychildren.org, aap.org, simpletix.com, gather mountain blooms, pikespeakamerica.com, cpw.state.co.us, d49.org, d11.org, asd20.org |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows, voice check |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories; all ≤280 chars (verified after fix pass); 4 hashtags each; 0 exclamation marks; COS voice rules applied |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; no hashtags; engagement questions; COS voice rules applied |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 8 Gemini base_only prompts; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 Ricky Joy recall (Sarah Morales, ~650 words, Tier 1, QR table); article-02 RSV season (Jamie Rivera, ~700 words, Tier 1, QR table); article-03 Weekend guide (Sarah Morales, ~600 words, Tier 2, QR table); article-04 Conference prep (Jamie Rivera, ~650 words, Tier 2, QR table); article-05 Finger light recall (Sarah Morales, ~550 words, Tier 2, QR table) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 70 claims; HIGH/MEDIUM/LOW prioritized; 6 char limit violations fixed before rerun; clean pass on second run |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles; posting-window warnings known cosmetic issue |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 5 entries (1 per story), all not_started, gemini base_only, brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 27 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in session's authorized repository set (403 proxy) — known recurring issue |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser compat issue — returns 0 posts; ran both standard and --tobi |
+| WordPress Publish | BLOCKED | WP credentials not set in environment (WP_FANRUMOR_USERNAME / WP_FANRUMOR_APP_PASSWORD not configured) — known recurring issue |
+| Story History | COMPLETE | 5 new entries prepended to Parenting/story-history.md (Sep 11 section) |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
+- **Articles:** 5 (bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4])
+- **PostPlanner exports:** 0 posts (known parser compat issue)
+- **Key stories:** Ricky Joy Sour Crush Candy recall (2.3M bottles, choking hazard, rickyjoy.com refund); RSV season 2026-27 AAP guidance (under 8 months + expanded high-risk 8-19 months); Weekend preview Sep 12-13 (Dahlia Days + Youth Fishing Derby); Fall parent-teacher conference prep (D11/D20/D49); Cade California Finger Light Toys recall (Amazon, button battery hazard, cpsc.gov/Recalls)
+- **Issues:** 6 X posts initially over 280 chars — fixed before compile pass; PostPlanner 0 posts (known); WordPress blocked (env vars not set); dashboard push blocked (not in session authorized repos)
+
+---
+
+## Previous Run: 2026-09-10
 
 | Step | Status | Notes |
 |------|--------|-------|

@@ -2,6 +2,60 @@
 
 ---
 
+## September 11, 2026
+
+### Story 1: Ricky Joy Sour Crush Candy Recall — Choking Hazard
+- **Date:** 2026-09-11
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recalled 2.3 million Ricky Joy Sour Crush Candy Bottles on September 10, 2026. Rolling ball on cap detaches and poses choking hazard for young children. Sold since 2023 at Walmart, H-E-B, and online. Context: Slime Licker rollerball candy recalled in 2024 (70M bottles; one child death). Refund: rickyjoy.com or 404-975-0352. Stop use immediately.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** 2.3M bottles recalled Sep 10, 2026; sold since 2023 at Walmart, H-E-B, online; rickyjoy.com refund; 404-975-0352 hotline; Slime Licker 2024 recall (70M bottles; 1 child death) as prior context
+- **Follow-up Opportunity:** Any CPSC updates on refund process; scope of El Paso County retail distribution
+
+### Story 2: RSV Season 2026-27 — AAP Guidelines and COS Families
+- **Date:** 2026-09-11
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — RSV season starts October in Colorado; September is the action window. AAP 2026-27 guidelines: all infants under 8 months get RSV immunization (nirsevimab or clesrovimab) before October. Expanded high-risk criteria for ages 8-19 months: premature (<32 weeks), congenital heart disease, pulmonary/neuromuscular conditions, Down syndrome. Pregnant parents: September window for maternal RSV vaccine. COS angle: D49 week 7, D11 week 5, D20 week 4 — school exposure pathways to infants already open.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** RSV peaks October-January in Colorado; infants under 8 months: nirsevimab or clesrovimab; high-risk 8-19 months expanded criteria (premature <32 wks, CHD, pulmonary/neuromuscular, Down syndrome); September window for maternal RSV vaccine; call pediatrician now
+- **Follow-up Opportunity:** Colorado RSV hospitalization data when available; any El Paso County Public Health guidance
+
+### Story 3: This Weekend in COS — Dahlia Days + Youth Fishing Derby
+- **Date:** 2026-09-11
+- **Content Pillar:** Local Events
+- **Angle:** FOLLOW-UP (same-week features angle) — Weekend preview for Sep 12-13. Dahlia Days at Gather Mountain Blooms Sat Sep 12 ($10, 8 AM-noon, 5210 S. US-85/87); Pikes Peak Youth Fishing Derby Sun Sep 13 Crystal Creek Reservoir (free, ages 6-15, 8:30-11 AM). Both events previously covered as standalone stories (Sep 9). This is the weekend-preview companion framing, not duplicate content.
+- **Byline:** Sarah Morales
+- **Content Produced:** 1 X Post + FB Long-Form + FB Image Caption + 1 Image Concept (Gemini base_only) + Article
+- **Tier:** 2
+- **Key Facts (HIGH):** Dahlia Days Sep 12, 8 AM-noon, $10, 5210 S. US-85/87; Derby Sep 13, 8:30-11 AM, free, Crystal Creek Reservoir, ages 6-15; final Dahlia Days Sep 19; first 100 youth get free gear package
+- **Follow-up Opportunity:** Post-event photos; Cool Science Festival Oct 3-18 Carnival Day preview
+
+### Story 4: Fall Parent-Teacher Conference Prep for COS Families
+- **Date:** 2026-09-11
+- **Content Pillar:** Evergreen
+- **Angle:** NEW STORY — D11, D20, and D49 fall parent-teacher conferences typically in October. Practical preparation guide: start a notes document now, email teacher proactively in September, prepare specific questions, confirm IEP/504 accommodations are in place before conference. D49 week 7 / D11 week 5 / D20 week 4 = enough data for a meaningful check-in. Conference season leads directly into Thanksgiving break, so catching issues in September matters.
+- **Byline:** Jamie Rivera
+- **Content Produced:** 1 X Post + FB Long-Form + FB Image Caption + 1 Image Concept (Gemini base_only) + Article
+- **Tier:** 2
+- **Key Facts (HIGH):** D49 week 7 (started Aug 3); D11 week 5 (started Aug 12); D20 week 4 (started Aug 17); conferences typically October across all three districts
+- **Follow-up Opportunity:** Any district conference date announcements; IEP/504 compliance follow-ups
+
+### Story 5: Cade California Finger Light Toys Recall — Button Battery Hazard
+- **Date:** 2026-09-11
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recalled Cade California Electronic Finger Light Toys sold on Amazon on September 10, 2026. Button cell batteries accessible to children; ingestion causes severe internal burns or death within 2 hours. Stop use, remove batteries. cpsc.gov/Recalls for full details. Household audit angle: TV remotes, key fobs, greeting cards, flashlights, hearing aids, bathroom scales also pose similar risks. Poison Control: 1-800-222-1222.
+- **Byline:** Sarah Morales
+- **Content Produced:** 1 X Post + FB Long-Form + FB Image Caption + 1 Image Concept (Gemini base_only) + Article
+- **Tier:** 2
+- **Key Facts (HIGH):** Recalled Sep 10, 2026; sold on Amazon; button cell batteries accessible to children; internal burns within 2 hours; stop use, remove batteries; cpsc.gov/Recalls; Poison Control 1-800-222-1222
+- **Follow-up Opportunity:** Any additional Amazon-sold toy recalls; updated CPSC recall details
+
+---
+
 ## September 10, 2026
 
 ### Story 1: Colorado CCCAP Childcare Waitlist Hit 14,000 Kids
