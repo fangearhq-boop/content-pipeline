@@ -1,6 +1,28 @@
 # Tennis Fanrecap — Pipeline Status
 
-## Current Run: 2026-09-10
+## Current Run: 2026-09-11
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Sabalenka def. Pegula 7-5, 6-2; Rybakina def. Gauff 3-6, 6-4, 6-4 (CBS Sports/CNN/Yahoo); Women's final Sabalenka vs. Rybakina Saturday (Sports Mole/UBITENNIS — H2H 10-7, 3rd GS final meeting); Shelton vs. Tiafoe all-American SF tonight (CBS Sports/NBC/SI — first all-American GS SF in decades, 23-year drought ending); Zverev vs. Khachanov SF today 3 PM ET (ATP Tour/Yahoo) |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Sep 10 S4: Women's SF preview → RESULTS); S2 NEW (Women's final preview — records at stake); S3 FOLLOW-UP (Sep 10 S5: Men's SF preview → match day coverage); S4 NEW (23-year drought feature — mathematically over); S5 FOLLOW-UP (Sep 10 S5: Men's SF preview — Zverev/Khachanov match day) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (4 Tier 1, 1 Tier 2); bylines: Marcus Cole [S1, S4], Elena Voss [S2, S5], Ryan Calloway [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: CBS Sports, CNN, Yahoo Sports, Sports Mole, UBITENNIS, ATP Tour, NBC, SI, Sky Sports, ESPN, Deccan Chronicle, usopen.org |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories; all ≤280 chars verified; code block format |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 9 imagn concepts across 5 stories |
+| Articles (5) | COMPLETE | article-01 Women's SF Results (Marcus Cole T1); article-02 Women's Final Preview (Elena Voss T1); article-03 All-American SF Today (Ryan Calloway T1); article-04 23-Year Drought Feature (Marcus Cole T1); article-05 Zverev/Khachanov SF (Elena Voss T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — auto-generated; 27 claims, all HIGH |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 5 articles; posting-window warnings cosmetic (known) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 9 entries, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 28 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser issue — same as all prior runs |
+| WordPress Publish | BLOCKED | 403 proxy — known recurring issue |
+| Story History | COMPLETE | 5 entries appended to story-history.md |
+
+## Previous Run: 2026-09-10
 
 | Step | Status | Notes |
 |------|--------|-------|

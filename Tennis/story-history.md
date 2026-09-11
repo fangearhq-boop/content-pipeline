@@ -2191,3 +2191,50 @@ Track previously covered stories to avoid repetition and maintain content freshn
 - **Byline:** Ryan Calloway
 - **Key Facts:** Zverev vs. VdZ 6:30 PM ET (MEDIUM); Pegula No. 3 Navarro No. 26 (HIGH); Navarro beat Pegula 2024 US Open (MEDIUM)
 - **Follow-Up Opportunities:** QF results Wednesday evening; SF bracket complete
+
+## 2026-09-11
+
+### Story 1: Sabalenka, Rybakina Reach US Open Final
+- **Date:** 2026-09-11
+- **Angle:** FOLLOW-UP (2026-09-10 S4: Women's SF preview) — RESULTS: Sabalenka def. Pegula 7-5, 6-2; Rybakina def. Gauff 3-6, 6-4, 6-4. Both SFs decided in straight sets. Sabalenka advances to 4th consecutive US Open final. Rybakina (new No. 1) advances seeking 2026 hardcourt double (won 2026 AO).
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Marcus Cole
+- **Key Facts:** Sabalenka def. Pegula 7-5, 6-2 (HIGH — CBS Sports, CNN, Yahoo Sports); Rybakina def. Gauff 3-6, 6-4, 6-4 (HIGH — CBS Sports, Yahoo Sports); 4th consecutive US Open final for Sabalenka (HIGH); Rybakina won 2026 AO (HIGH)
+- **Follow-Up Opportunities:** Women's final result Saturday
+
+### Story 2: Women's Final Preview — Sabalenka vs. Rybakina Saturday
+- **Date:** 2026-09-11
+- **Angle:** NEW STORY — Saturday's blockbuster final: Sabalenka chasing 3rd straight US Open (Open Era record territory); Rybakina bidding to sweep 2026 hardcourt majors; 3rd GS final meeting, split 1-1; Sabalenka leads H2H 10-7; first-set wins in 14 of 17 meetings
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Elena Voss
+- **Key Facts:** Final date Saturday (HIGH); H2H Sabalenka 10-7 (HIGH — Sports Mole); 3rd GS final meeting split 1-1 (HIGH — UBITENNIS); first-set pattern 14 of 17 (HIGH — Sports Mole); Rybakina won 2026 AO (HIGH)
+- **Follow-Up Opportunities:** Women's final result Saturday
+
+### Story 3: Shelton vs. Tiafoe All-American Men's SF Today
+- **Date:** 2026-09-11
+- **Angle:** FOLLOW-UP (2026-09-10 S5: Men's SF preview) — Match-day coverage. First all-American men's GS SF in decades. Winner goes to Sunday's final. 23-year American drought ending this weekend. Shelton's 3:33 AM Alcaraz upset; Tiafoe's 10-0 Louis Armstrong record.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Ryan Calloway
+- **Key Facts:** All-American SF (HIGH); Shelton def. Alcaraz 6-7(5), 6-1, 6-3, 1-6, 7-6(10-7) at 3:33 AM (HIGH — established); Tiafoe 10-0 at Louis Armstrong (HIGH — ATP Tour); 23-year drought (HIGH)
+- **Follow-Up Opportunities:** SF result; American man in Sunday's final
+
+### Story 4: The 23-Year American Men's Grand Slam Drought Ends
+- **Date:** 2026-09-11
+- **Angle:** NEW STORY — Feature: First all-American men's GS final guaranteed (Shelton vs. Tiafoe). Last American GS title: Roddick 2003 US Open. Last American in GS final: Taylor Fritz 2024 US Open. Last all-American men's GS final: Sampras def. Agassi 2002 US Open.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 1 Image Concept
+- **Tier:** 1
+- **Byline:** Marcus Cole
+- **Key Facts:** Roddick 2003 US Open last American GS title (HIGH); Fritz 2024 US Open final last American in GS final (HIGH); Sampras def. Agassi 2002 US Open last all-American GS men's final (MEDIUM — historical)
+- **Follow-Up Opportunities:** Sunday's men's final result
+
+### Story 5: Zverev vs. Khachanov — Roland Garros Champ Eyes US Open SF
+- **Date:** 2026-09-11
+- **Angle:** FOLLOW-UP (2026-09-10 S5: Men's SF preview — Zverev/Khachanov leg) — Match-day. Zverev (Roland Garros 2026) bids for 2026 double; Khachanov in 3rd GS SF; match no earlier than 3 PM ET Arthur Ashe.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Elena Voss
+- **Key Facts:** Zverev won Roland Garros 2026 (HIGH); Khachanov in 3rd GS SF (HIGH); match 3 PM ET (MEDIUM)
+- **Follow-Up Opportunities:** SF result; men's final Sunday
