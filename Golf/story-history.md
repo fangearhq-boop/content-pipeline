@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-09-11
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-11 | T1 | Solheim Cup Day 1 — USA Leads Foursomes 2-1 at Bernardus Golf | X(2), FB, Article | FOLLOW UP |
+| 2026-09-11 | T1 | LIV Golf Bankruptcy Day 3 — Initial Financing Approved, BC Partners Plan Advancing | X(2), FB, Article | FOLLOW UP |
+| 2026-09-11 | T2 | Presidents Cup 2026 — All 24 Players Confirmed for Medinah | X(1), FB, Article | FOLLOW UP |
+| 2026-09-11 | T2 | Biltmore Championship — 6 Days Out, First PGA Tour Event in Western NC in 80 Years | X(1), FB, Article | FOLLOW UP |
+| 2026-09-11 | T3 | Rahm and DeChambeau — Day 3 of Free Agency After LIV Collapse | X(1), FB | FOLLOW UP |
+
+### STORY 1: Solheim Cup Day 1 Foursomes — USA Leads 2-1
+- **Tier:** 1
+- **Category:** Solheim Cup / LPGA / USA vs Europe / Nelly Korda / Allisen Corpuz / Charley Hull / Lottie Woad / Bernardus Golf
+- **Key facts:** Foursomes morning: USA 2–1 Europe after 3/4 matches; Korda/Corpuz beat Hull/Woad to go 5-0 in foursomes — new Solheim Cup pairing record for most consecutive wins; afternoon fourballs upcoming; 28 total matches across 3 days; 14.5 to win; USA defending (won 2024 15.5-12.5)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Afternoon fourballs score, final Day 1 total, Day 2 session results, Sunday singles pairings
+
+### STORY 2: LIV Golf Bankruptcy Day 3 — DIP Financing Approved
+- **Tier:** 1
+- **Category:** LIV Golf / Chapter 11 / DIP Financing / PIF / BC Partners / Judge Kaplan
+- **Key facts:** Judge Kaplan approved complex-case designation, joint administration, and $49.6M PIF DIP financing; BC Partners exit financing plan formally confirmed; LIV 2.0 = 10-event 2027 circuit (Saudi Arabia, Australia, South Africa, Hong Kong); all 48 player contracts still terminated; Rahm ~$7.4M unsecured; DeChambeau ~$5.7M contingent; LIV total debt $500M+
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Creditor committee formation, reorganization plan filing, player settlement terms, BC Partners equity details
+
+### STORY 3: Presidents Cup 2026 — All 24 Players Confirmed
+- **Tier:** 2
+- **Category:** Presidents Cup / Medinah / Brandt Snedeker / Geoff Ogilvy / Scottie Scheffler / Jackson Koivun
+- **Key facts:** USA auto qualifiers: Scheffler, Cameron Young, Wyndham Clark, Sam Burns, Russell Henley, Collin Morikawa; USA picks: Gotterup, Schauffele, Thomas, Bridgeman, Cantlay, Koivun; Intl auto: Si Woo Kim, Ryan Fox, Matsuyama, Tom Kim, Min Woo Lee, Adam Scott; Intl picks: Conners, Taylor, Echavarria, Im, Hisatsune, Bezuidenhout; first round format: fourballs; Sept 22-27 at Medinah
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Practice rounds, pairings, session-by-session results
+
+### STORY 4: Biltmore Championship Preview
+- **Tier:** 2
+- **Category:** Biltmore Championship / PGA Tour / FedExCup Fall / Asheville / The Cliffs at Walnut Cove / Jack Nicklaus
+- **Key facts:** Sept 17-20; The Cliffs at Walnut Cove, Arden, NC; Jack Nicklaus design; 7,167 yards; 100+ player field; first PGA Tour event in western NC in 80+ years; FedExCup Fall (outside points season); Golf Channel + ESPN+ broadcast; Asheville recovering from Tropical Storm Helene 2024
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Field announced, first-round tee times, leaderboard
+
+### STORY 5: Rahm and DeChambeau — Day 3 Free Agency
+- **Tier:** 3
+- **Category:** Jon Rahm / Bryson DeChambeau / LIV Golf / PGA Tour / DP World Tour / BC Partners
+- **Key facts:** PGA Tour Rolapp: "no current path back" for Rahm, DeChambeau, Smith; Rahm DP World Tour option as Spanish national; LIV 2.0 equity-for-debt conversion; DeChambeau ~$5.7M contingent claim; unsecured recovery typically minimal; DIP approval clarifies LIV 2.0 is primary path
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Player formal statements, LIV 2.0 player agreements, DP World Tour Rahm confirmation
+
 ## 2026-09-10
 
 | Date | Tier | Story | Platforms | Status |

@@ -1,11 +1,43 @@
 # Golf Fanrecap — Pipeline Status
 
-## Last Run: 2026-09-10
+## Last Run: 2026-09-11
 
 **Status:** COMPLETE (with known proxy limitations)
 **Niche:** Golf Fanrecap
 **Stories:** 5
-**Articles:** 5
+**Articles:** 4
+
+---
+
+## 2026-09-11 Run Log
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research / WebSearch | ✅ Complete | 5 stories — Solheim Cup Day 1 foursomes, LIV bankruptcy DIP approved, Presidents Cup rosters, Biltmore Championship, Rahm/DeChambeau Day 3 |
+| Daily Brief | ✅ Complete | 00-daily-brief.md |
+| Research Notes | ✅ Complete | 01-research-notes.md |
+| Story Analysis | ✅ Complete | 02-story-analysis.md — ### STORY N: format |
+| X Posts | ✅ Complete | 03-social-posts-x.md — 7 posts, all ≤280 chars |
+| Facebook Posts | ✅ Complete | 04-social-posts-facebook.md — 5 stories |
+| Image Concepts | ✅ Complete | 05-image-concepts.md |
+| Articles | ✅ Complete | 4 HTML articles (T3 story 5 has no article) |
+| Fact Check | ✅ Complete | 06-fact-check-log.md — 13 claims verified |
+| Compile Content Data | ✅ Complete | 07-content-data.json — no errors |
+| Image Manifest | ✅ Complete | 07-image-manifest.md (not_started) |
+| Story History | ✅ Complete | story-history.md updated |
+| Review Dashboard | ✅ Complete | review-dashboard.html — 21 items |
+| Publish Dashboard | ⚠ Partial | Blocked — content-dashboards not in authorized repo |
+| PostPlanner Export | ⚠ Partial | 0 posts (known parsing issue) |
+| PostPlanner TOBI | ⚠ Partial | 0 posts (known parsing issue) |
+| WordPress Publish | ⚠ Blocked | Proxy policy — fanrumor.com not reachable |
+| Git Push | ✅ Complete | Committed and pushed to main |
+
+**Stories covered:**
+1. T1 FOLLOW UP: Solheim Cup Day 1 — USA Leads Foursomes 2-1 at Bernardus Golf (Korda/Corpuz 5-0 record)
+2. T1 FOLLOW UP: LIV Golf Bankruptcy Day 3 — Initial DIP Financing Approved, BC Partners Plan Advancing
+3. T2 FOLLOW UP: Presidents Cup 2026 — All 24 Players Confirmed for Medinah (Gotterup, Koivun among picks)
+4. T2 FOLLOW UP: Biltmore Championship 6 Days Out — First PGA Tour Event in Western NC in 80+ Years
+5. T3 FOLLOW UP: Rahm and DeChambeau — Day 3 of Free Agency, LIV 2.0 the Only Realistic Option
 
 ---
 
