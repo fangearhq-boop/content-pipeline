@@ -1,0 +1,284 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-11",
+  "compiled_at": "2026-09-11T09:19:16.784350+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Series Preview — Game 1, Wrigley vs Pirates",
+      "type": "Informative"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "PCA 40-40 Watch (41/36)",
+      "type": "Bold Take"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Wild Card Stakes — 1.5 GB behind Phillies",
+      "type": "Informative"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "Imanaga's October Audition",
+      "type": "Analysis"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Game Day First Pitch Hype",
+      "type": "Hype"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Swanson Return Timeline Update",
+      "type": "Roster"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Jaxon Wiggins — September Weapon",
+      "type": "Prospect"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Series Preview — Cubs vs Pirates, Game 1 at Wrigley (MANDATORY — series start)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Cubs vs. Pirates. Game 1 of 3 at Wrigley. 1:20 PM CT.\n\nChicago needs this homestand — a four-game skid ends today. Pittsburgh is 8-2 in its last 10 and coming in hot.\n\nTrail the Phillies by 1.5 for WC1. Win now.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Series Preview — Cubs vs Pirates, Game 1 at Wrigley\n**Status**: NEW STORY (specific game-day preview; Sept 10 was advance preview, today's is the actual series-start game-day)\n**Sources**:\n1. Bleed Cubbie Blue — \"On The Horizon: Cubs vs. Pirates series preview\" (Sept 11, 2026): Cubs 81-66 WC2, Pirates 74-73 8-2 in L10, first pitch 2:20 PM ET / 1:20 PM CT\n2. NBC Chicago — \"What is the Cubs' magic number, playoff standing after being swept by Brewers?\" (Sept 10, 2026): Cubs trail Phillies 1.5 GB for WC1; if standings hold, Cubs travel to Philly for WC round\n3. FantasyPros Probables Grid (Sept 11, 2026): Imanaga (LHP, 9-10, 3.91 ERA) confirmed Cubs Game 1 starter\n4. Fubo News preview (Sept 11, 2026): Game broadcast on Marquee Sports Network, SportsNet Pittsburgh, MLB Network\n5. Sun-Times (Sept 10, 2026): Cubs on 4-game skid after Brewers sweep\n**Key Facts**:\n- Cubs record: 81-66 (NL WC2)\n- Pirates record: 74-73\n- Game time: 1:20 PM CT (2:20 PM ET), Wrigley Field\n- Cubs probable G1: Imanaga (9-10, 3.91 ERA) — MEDIUM-HIGH confidence (FantasyPros)\n- Pirates probable G1: Likely Paul Skenes based on rotation timing — LOW-MEDIUM confidence (not explicitly confirmed)\n- Cubs L10: 4-6 (Milwaukee sweep was L4)\n- Pirates L10: 8-2 per Bleed Cubbie Blue preview\n- Series context: Pirates have momentum, Cubs need bounce-back\n- 2026 season series: Cubs 1-2 vs Pirates\n**Freshness**: ✅ All sources within 24 hours (Sept 10-11, 2026)\n**Why it matters**: Game 1 of critical homestand. Cubs need to stop the skid. Every game matters in a tight wild card race.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "PCA 40-40 Watch — 41 HR / 36 SB, Four Away",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Pete Crow-Armstrong: 41 HR / 36 SB.\n\nFour stolen bases. Seventeen games. The 40-40 club has six members in all of MLB history. No Cub has EVER done it.\n\nPCA is about to change that.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 201
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "PCA 40-40 Watch\n**Status**: FOLLOW UP (ongoing; updated to 36 SB after Brewers series)\n**Sources**:\n1. Beisbol Love — \"PCA Is 4 Steals Away From a Historic 40-40 Season\" (Sept 8-9, 2026): 36th SB on Sept 8 vs Brewers; 4 steals remaining for the record\n2. Fox Sports — \"Pete Crow-Armstrong Joins 35/35 Club, And The Much Rarer 40/40 Is In Reach\": 41 HR / 36 SB\n3. MLB.com — \"Pete Crow-Armstrong hits 40th homer of 2026 season\": milestone reference\n4. NBC Sports — \"Cubs' Pete Crow-Armstrong adding more history to his MVP campaign\": 9.6 fWAR leads MLB\n**Key Facts**:\n- Current: 41 HR / 36 SB — needs 4 more SBs in 17 games\n- 40-40 club has 6 members: Canseco (1988), Bonds (1996), A-Rod (1998), Soriano (2006), Acuña (2023), Ohtani (2024) — MEDIUM confidence (need 2-source verify)\n- First Cub with 40+ HRs since Derrek Lee in 2005 — MEDIUM confidence (verify)\n- NL MVP frontrunner\n- 9.6 fWAR leads MLB — MEDIUM confidence (single source)\n- 97 RBI, 110 runs scored\n**Freshness**: ✅ SB count updated from Brewers series (Sept 8)\n**Why it matters**: Rarest milestone in baseball, no Cub has ever done it, potential history-making in front of Wrigley fans",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Wild Card Stakes — Cubs Can't Afford Another Slip",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "NL Wild Card entering Friday:\n\nWC1: Phillies 82-64\nWC2: Cubs 81-66\nWC3: Padres 78-68\n\nWC1 = host Wrigley in October. WC2 = road trip to Philadelphia.\n\nMagic number to clinch: 12. The chase for home-field starts today.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Wild Card Stakes\n**Status**: FOLLOW UP (standings update post-Brewers sweep)\n**Sources**:\n1. NBC Chicago — magic number 12, playoff probability 95.4%, trail Phillies by 1.5 GB (Sept 10, 2026)\n2. Sun-Times — \"After Brewers sweep, Cubs fighting for playoff spot as wild-card standings tighten\" (Sept 10, 2026)\n3. CBS Sports — \"2026 MLB playoff picture: Standings, current bracket\" (Sept 11, 2026): WC1 Phillies 82-64, WC2 Cubs 81-66, WC3 Padres 78-68\n**Key Facts**:\n- Cubs 81-66, WC2\n- Phillies 82-64, WC1 (Cubs trail by 1.5 GB)\n- Padres 78-68, WC3 (Cubs lead by 3 GB)\n- D-backs 0.5 back of WC3\n- Magic number (WC clinch): 12\n- Playoff probability: ~95.4%\n- Brewers hold tiebreaker over Cubs (9-4 in season series per NBC Chicago)\n- Road WC round if Cubs finish as WC2 = travel to Philadelphia\n**Freshness**: ✅ Post-Brewers sweep, Sept 10-11 articles\n**Why it matters**: Home-field in the wild card round is worth a lot. Falling further behind Phillies raises stakes for every game.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Imanaga's October Audition",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Shota Imanaga's last start: 6 innings, 1 run.\n\nHe takes the mound today in must-win Game 1. Counsell has always believed in him — today Imanaga gets to prove why.\n\n9-10, 3.91 ERA. Time to show up.\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Imanaga's October Audition\n**Status**: NEW STORY (today's specific start + season narrative)\n**Sources**:\n1. Sun-Times — \"Cubs' Shota Imanaga wants to 'build trust back,' Craig Counsell says story around lefty 'a little incorrect'\" (Sept 5, 2026): Imanaga's challenges and rebuild\n2. FantasyPros — 9-10, 3.91 ERA confirmed probables\n3. FanDuel Research (Sept 4, 2026): \"Six innings of one-run ball looked to be exactly what the Cubs needed from their lefty\"\n**Key Facts**:\n- Imanaga: 9-10, 3.91 ERA, 152 K in ~150 IP\n- Had a strong 6-inning, 1-ER start in early September (vs Marlins)\n- Starting in a must-win Game 1 context\n- Craig Counsell praised his recent effort\n**Freshness**: ✅ Start confirmed in today's probables; context from recent starts\n**Why it matters**: Imanaga's Game 1 performance sets the tone for the series and the homestand.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Game Day Hype — First Pitch at Wrigley",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Wrigley Field. 1:20 PM CT. Cubs baseball.\n\nFour-game losing streak. Rowdy Pirates. Wild card race heating up.\n\nThis is exactly the kind of afternoon Wrigley was built for. Let's go get one.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 213
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Game Day First Pitch Hype\n**Status**: NEW (game-day content)\n**Sources**: Same as Story 1\n**Key Facts**: 1:20 PM CT, Wrigley Field, end the losing streak\n**Freshness**: ✅ Today",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Swanson Nearing Return — Oblique Recovery Update",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Dansby Swanson update: batting drills daily. Fielding work underway.\n\nGrade 2 oblique strain has kept him out since Aug. 16. Cubs targeting a return in the final week — or October at the latest.\n\nHe's coming back.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Swanson Return Timeline\n**Status**: FOLLOW UP (new development — return timeline emerging)\n**Sources**:\n1. Sports Mockery — \"Dansby Swanson Injury Update: On Schedule To Return Before 2026 Regular Season Ends\" (Sept 2026)\n2. SI.com — \"Dansby Swanson's Injury Timeline is Rough, How Will the Cubs Fill His Void?\" (Sept 2026)\n3. Clutch Points — \"Cubs' Dansby Swanson injury timeline suggests return is near\" (Sept 10, 2026)\n**Key Facts**:\n- On 10-day IL since Aug 16 with Grade 2 left oblique strain\n- Swinging bat daily, doing fielding/agility drills\n- Expected to start game reps (possibly Triple-A or Arizona)\n- Potential return: final week of regular season or postseason\n- Long oblique recovery but progressing well\n**Freshness**: ✅ Sept 10 update confirms progress\n**Why it matters**: Swanson at SS is key to Cubs' defensive alignment. October availability huge.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 7,
+      "title": "Wiggins Is Here — September Weapon for October",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Jaxon Wiggins since moving to the bullpen Aug. 11:\n\n8 scoreless innings. 10 strikeouts. 101 mph. Wipeout slider.\n\nChicago's No. 1 pitching prospect is making his October case. This arm could change the Cubs' bullpen entirely.\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Jaxon Wiggins September Weapon\n**Status**: FOLLOW UP (callup candidate, new info on role)\n**Sources**:\n1. Cubbie Crib — \"Cubs' Jaxon Wiggins experiment creates obvious September call-up decision\" (Sept 2026)\n2. Yardbarker — \"Why Cubs should promote Jaxon Wiggins before the postseason\" (Sept 2026)\n3. Bleacher Nation — \"The Cubs September Callups Have Arrived\" (Sept 1, 2026)\n4. North Side Baseball — \"Who The Cubs Call Up In September Could Change The Race\" (Sept 2026)\n**Key Facts**:\n- Wiggins converted to bullpen Aug 11 due to starter struggles (elbow issues limited his season)\n- 8 scoreless Iowa innings since Aug 11, 10 K, 4 H\n- 101 mph fastball, wipeout slider (60-grade FB)\n- Top Cubs pitching prospect\n- September callup candidate (status uncertain — possibly already up or imminent)\n- Tyler Ferguson and BJ Murray were confirmed Sept 1 callups\n**Freshness**: ✅ Sept 2026 articles all recent\n**Why it matters**: October bullpen depth is crucial. Wiggins brings a different power arm profile.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

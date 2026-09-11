@@ -5,6 +5,67 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-09-11
+
+### STORY 1: Series Preview — Cubs vs Pirates, Game 1 at Wrigley (Series Start)
+- **Angle:** NEW STORY. Cubs (81-66) host Pittsburgh Pirates (74-73) for 3-game series at Wrigley, Sept 11-13, 1:20 PM CT. Cubs on 4-game losing streak; Pirates 8-2 in L10. Imanaga starts Game 1. Cubs trail Phillies by 1.5 for WC1 (home-field in Wild Card Series).
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, series preview / mandatory series-start slot)
+- **Follow-Up Opportunities:**
+  - Game 1 result recap (Sept 12 morning)
+  - Game 2 preview (Holmes vs ?)
+  - Series sweep/salvage resolution
+
+### STORY 2: PCA 40-40 Watch — 41 HR / 36 SB
+- **Angle:** FOLLOW UP. PCA at 41 HR / 36 SB — 4 steals away from joining 6-player 40-40 club (Canseco, Bonds, A-Rod, Soriano, Acuña, Ohtani). No Cub has ever done it. 17 games remain.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold milestone)
+- **Follow-Up Opportunities:**
+  - Each SB milestone en route to 40 SB
+  - Historic 40-40 achievement announcement
+
+### STORY 3: Wild Card Stakes — 1.5 GB Behind Phillies for WC1
+- **Angle:** FOLLOW UP. Cubs 81-66, WC2, trail Phillies (82-64) by 1.5 GB for WC1 seed (home-field). Padres 78-68 in WC3. Cubs magic number to clinch: 12. Brewers sweep pushed Cubs into road-WC-series risk.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, standings/informative)
+- **Follow-Up Opportunities:**
+  - Daily standings updates
+  - Magic number countdown
+  - Phillies series later in season
+
+### STORY 4: Imanaga's October Audition
+- **Angle:** NEW STORY. Imanaga (9-10, 3.91 ERA) starts must-win Game 1. Recent strong outing (6 IP, 1 ER). Big moment for the Cubs' LHP to settle the rotation question heading to October.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, analysis)
+- **Follow-Up Opportunities:**
+  - Imanaga's final line from Game 1
+  - October rotation discussion (Imanaga vs Holmes vs Gausman)
+
+### STORY 5: Game Day First Pitch Hype
+- **Angle:** NEW STORY. Game 1, Wrigley Field, 1:20 PM CT. Bounce-back game hype.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, hype)
+- **Follow-Up Opportunities:** N/A (one-off hype)
+
+### STORY 6: Swanson Return Timeline — Grade 2 Oblique Progressing
+- **Angle:** FOLLOW UP. Swanson (out since Aug 16 with Grade 2 oblique) swinging the bat daily, doing fielding work. Cubs targeting return in final week of regular season or October.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, roster news)
+- **Follow-Up Opportunities:**
+  - Swanson activation announcement
+  - Return game performance
+
+### STORY 7: Jaxon Wiggins — September Weapon
+- **Angle:** FOLLOW UP. Wiggins moved to bullpen Aug 11 (Iowa), 8 scoreless innings, 10 K, 101 mph FB. September callup candidate for October playoff bullpen role.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, prospect feature)
+- **Follow-Up Opportunities:**
+  - Wiggins callup official announcement
+  - First MLB appearance
+  - October roster selection
+
+---
+
 ## 2026-09-10
 
 ### STORY 1: Sweep Reaction — Gausman Gets Shelled in Milwaukee
