@@ -5,6 +5,50 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-09-11
+
+### Story 1: PCA — 41 HR, 35 SB, Five From 40-40
+- **Date:** 2026-09-11
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** PCA now at 41 HR and 35 SB with ~15 games remaining. Needs 5 more steals to join 40-40 club as 7th member. Would be youngest player ever in the club. First Cub with 40 HR since Derrek Lee 2005. NL MVP frontrunner at -1100. Cubs hold NL WC2.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:** Each stolen base attempt down the stretch; 40-40 achievement
+
+### Story 2: Aaron Judge — Approaching 400 Career HR
+- **Date:** 2026-09-11
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Judge returned from 99-day IL (broken rib) Sept 8, sat out Sept 10. With ~385 career HRs, approaching 400 milestone in 2026 or early 2027. Yankees 83-62, first AL Wild Card ~3-game lead over Boston.
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:** Judge's production returning; 400th career HR; Yankees Wild Card clinch
+
+### Story 3: Yordan Alvarez — Triple Crown Chase, Caminero Now Leads HR
+- **Date:** 2026-09-11
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Alvarez leads AL BA (~.315) and previously led all three TC categories. Caminero (Rays, 39 HR) passed Alvarez (38 HR) in home runs. Alonso (Orioles) tied Alvarez in RBI at ~95. Three-category challenge with ~15 games remaining. Last AL Triple Crown: Cabrera 2012.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:** Alvarez reclaiming HR lead; final Triple Crown standings
+
+### Story 4: Jacob Misiorowski — Bounce-Back Start, Cy Young Locked
+- **Date:** 2026-09-11
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** After two rough Cubs starts (Sept 2 at Wrigley, Sept 8 at American Family Field), Misiorowski bounced back with dominant outing (6.1 IP, 1 ER, 9 K). ERA ~1.97 NL best; K ~236 MLB best; Cy Young -700 vs Sale +500. Brewers 89-56.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:** Final Cy Young stretch; Brewers postseason positioning
+
+### Story 5: NL Wild Card — Padres vs. D-backs Final 15
+- **Date:** 2026-09-11
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Phillies WC1, Cubs WC2 (~5-game cushion), Padres WC3. D-backs 0.5 games back. Marlins 4 games out. Padres host D-backs Sept 25-27 at Petco Park — potentially decisive winner-take-all final series. Wild Card Series begins Sept 29.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:** Padres/D-backs standings movement; final series Sept 25-27
+
+---
+
 ## 2026-09-09
 
 ### Story 1: Aaron Judge — First Game Back, Yankees Wild Card Push

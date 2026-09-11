@@ -1,0 +1,268 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-11",
+  "compiled_at": "2026-09-11T10:31:59.044430+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "PCA 40-40 Chase — 41 HR, 35 SB, Five Stolen Bases From History (Tier 1 FOLLOW UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "41 homers. 35 stolen bases. 15 games left.\n\nPete Crow-Armstrong needs 5 more steals to join the most exclusive club in baseball. Canseco. Bonds. A-Rod. Soriano. Acuña. Ohtani.\n\nNo. 7 is right there. #Cubs #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB"
+          ],
+          "char_count": 209
+        },
+        {
+          "label": "Post 1-2",
+          "text": "PCA is running at a pace of 1 steal every 3 games this season.\n\nHe needs 5 in ~15 games remaining. That math works. The 40-40 club hasn't had a new member since Ohtani in 2023. Cubs fans, get ready. #Cubs #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB"
+          ],
+          "char_count": 209
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-pca-40-40-chase.html",
+        "headline": "Pete Crow-Armstrong Is Five Stolen Bases From Baseball History",
+        "word_count": 655
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "PCA 40-40 Chase\n\n**Image Concept 1A**\n- **Description:** Pete Crow-Armstrong mid-stride on the basepaths, full extension leaning into a slide or finishing a stolen base, Cubs uniform, Wrigley Field background\n- **Search Terms:** Pete Crow-Armstrong stolen base Cubs 2026\n- **Alt Text:** Pete Crow-Armstrong steals a base for the Cubs during the 2026 season\n- **Caption:** Pete Crow-Armstrong has 35 stolen bases and needs 5 more to join the 40-40 club.\n- **Source:** imagn\n- **Status:** not_started\n\n**Image Concept 1B**\n- **Description:** Crow-Armstrong at the plate in his follow-through after a home run swing, batting helmet on, Cubs uniform, crowd in background\n- **Search Terms:** Pete Crow-Armstrong home run Cubs 2026\n- **Alt Text:** Pete Crow-Armstrong completes his home run swing for the Chicago Cubs\n- **Caption:** Crow-Armstrong's 41 home runs already put him in elite company — five stolen bases would add his name to history.\n- **Source:** imagn\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "PCA 40-40 Chase\n**Verified Facts (HIGH confidence):**\n- PCA 2026 season: 41 HR (as of around Sept 8-9), 35 SB — confirmed via mlb.com, espn.com\n- Needs 5 more SB in approximately 15 remaining games to reach 40-40\n- 40-40 club (6 members): José Canseco 1988, Barry Bonds 1996, Alex Rodriguez 1998, Alfonso Soriano 2006, Ronald Acuña Jr. 2023, Shohei Ohtani 2023\n- PCA would be the 7th member of 40-40 club\n- First Cub to hit 40 HR since Derrek Lee in 2005\n- NL MVP frontrunner\n- Cubs in NL Wild Card race (WC2)\n**Note:** Pipeline status from Sept 9 confirmed 40 HR / 33 SB as of that date; search results confirm 41 HR / 35 SB from around the same timeframe (Sept 8 game). Updated to latest available.\n**Source:** mlb.com, espn.com, foxsports.com (via WebSearch)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Aaron Judge — Back and Approaching 400 Career HR (Tier 1 FOLLOW UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Aaron Judge is back and approaching 400 career home runs.\n\nReturned from 99 days on the IL (broken rib) Sept. 8. Yankees are 83-62, first AL Wild Card. The milestone is in sight. #Yankees #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#MLB"
+          ],
+          "char_count": 192
+        },
+        {
+          "label": "Post 2-2",
+          "text": "400 career home runs. In reach this season or next.\n\nJudge missed 99 days with a broken rib and still has a shot at 400 in 2026. When healthy, he is simply the best power hitter in the game. #Yankees #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#MLB"
+          ],
+          "char_count": 204
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-judge-career-milestone.html",
+        "headline": "Aaron Judge Is Back — And 400 Career Home Runs Are in Sight",
+        "word_count": 720
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Aaron Judge — Career HR Milestone\n\n**Image Concept 2A**\n- **Description:** Aaron Judge in his batting stance or mid-swing at Yankee Stadium, pinstripe uniform, focused expression\n- **Search Terms:** Aaron Judge home run Yankees 2026\n- **Alt Text:** Aaron Judge swings at Yankee Stadium during the 2026 season\n- **Caption:** Judge is approaching 400 career home runs after returning from a 99-day IL stint.\n- **Source:** imagn\n- **Status:** not_started\n\n**Image Concept 2B**\n- **Description:** Judge in the field or celebrating with teammates after a hit, Yankees dugout visible, return-from-injury context\n- **Search Terms:** Aaron Judge Yankees September 2026 return lineup\n- **Alt Text:** Aaron Judge with Yankees teammates after returning from injury in September 2026\n- **Caption:** The Yankees captain returned from a broken rib injury and is ready to help New York chase October.\n- **Source:** imagn\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Aaron Judge — Career Milestone\n**Verified Facts (HIGH confidence):**\n- Judge returned from IL September 8 (99-day IL, broken rib)\n- Career HR through approximately June 30, 2026: ~385\n- Did not play September 10 (rested)\n- Yankees record: 83-62, first AL Wild Card, approximately 3-game lead over Boston\n- Judge approaching 400 career HRs\n- Two Yankees could join 400 HR club in 2026 (Paul Goldschmidt also mentioned)\n- 400 HR milestone realistic within 2026 season or early 2027\n**Source:** mlb.com, si.com, foxsports.com (via WebSearch)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Yordan Alvarez Triple Crown — Caminero Now Leads HR Race (Tier 1 FOLLOW UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Yordan Alvarez leads the AL in batting average.\nCaminero (Rays) now leads the HR race with 39.\nAlonso (Orioles) tied Alvarez in RBI at ~95.\n\nThree categories. Three challengers. 15 games to go. Cabrera (2012) was the last. #Astros #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Astros",
+            "#MLB"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-alvarez-triple-crown.html",
+        "headline": "Yordan Alvarez's Triple Crown Chase Has Never Been Harder",
+        "word_count": 728
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Yordan Alvarez Triple Crown\n\n**Image Concept 3A**\n- **Description:** Yordan Alvarez in his signature upright batting stance or watching a ball leave the park, Astros uniform, intense expression\n- **Search Terms:** Yordan Alvarez home run Astros 2026\n- **Alt Text:** Yordan Alvarez watches a home run for the Houston Astros in 2026\n- **Caption:** Alvarez still leads the AL in batting average as he chases the first Triple Crown since Cabrera in 2012.\n- **Source:** imagn\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Yordan Alvarez Triple Crown\n**Verified Facts (HIGH confidence):**\n- Alvarez BA: approximately .314-.319 (leads AL)\n- Alvarez HR: 38 (Junior Caminero, Rays, now leads with 39)\n- Alvarez RBI: approximately 95 (tied with Pete Alonso, Orioles)\n- Chandler Simpson (Rays) approximately .308 in BA race, 5-6 points behind Alvarez\n- Last AL Triple Crown: Miguel Cabrera 2012\n- Houston Astros: leading AL West (clinging to first)\n- Approximately 15 games remaining\n**Source:** cbssports.com, si.com, yahoo.com, mlb.com (via WebSearch)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Jacob Misiorowski — Back to Dominant Form, Cy Young Stays His (Tier 1 FOLLOW UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Jacob Misiorowski bounced back after two rough Cubs starts.\n\nERA: ~1.97. K: MLB-leading. Cy Young odds: -700. Chris Sale next at +500. Three weeks left. Cy Miz is still the award to lose. #Brewers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#MLB"
+          ],
+          "char_count": 201
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-misiorowski-cy-young.html",
+        "headline": "Jacob Misiorowski Bounced Back. The Cy Young Was Never Going Anywhere.",
+        "word_count": 714
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Misiorowski Cy Young\n\n**Image Concept 4A**\n- **Description:** Jacob Misiorowski in his pitching delivery, Brewers uniform, follow-through or release point, American Family Field background\n- **Search Terms:** Jacob Misiorowski pitching Brewers 2026\n- **Alt Text:** Jacob Misiorowski delivers a pitch for the Milwaukee Brewers in 2026\n- **Caption:** Misiorowski bounced back from his worst two-week stretch to reassert himself as the NL Cy Young frontrunner.\n- **Source:** imagn\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Jacob Misiorowski Cy Young\n**Verified Facts (HIGH confidence):**\n- Misiorowski ERA: approximately 1.95-1.97 (leads NL qualified starters)\n- Misiorowski record: 14-5\n- Misiorowski K: approximately 227-236 (leads MLB)\n- Misiorowski WHIP: approximately 0.75-0.79 (leads NL)\n- Sept 2 start (at Wrigley vs Cubs): 4 IP, 5 ER — ended 26-start streak of ≤3 ER\n- Sept 8 start (at American Family Field vs Cubs): worst start of season per pipeline\n- Bounced back in subsequent start (6.1 IP, 1 ER, 9 K per search results)\n- Cy Young odds: -700 (Chris Sale at +500; Cristopher Sanchez at +3000)\n- Brewers record: 89-56, NL Central leaders\n**Source:** reviewingthebrew.com, si.com, yahoo.com, heavy.com (via WebSearch)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "NL Wild Card Final 15 — Padres vs. D-backs Goes to the Wire (Tier 2 FOLLOW UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "NL Wild Card WC3 update:\n\nPadres hold the spot.\nD-backs: 0.5 games back.\nMarlins: 4 games back, done.\n\nFinal series: Padres host Arizona Sept. 25-27 at Petco. Could be winner-take-all. Wild Card starts Sept. 29. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-nl-wild-card-padres-dbacks.html",
+        "headline": "The NL Wild Card Race Is Down to Two — and They Play Each Other Last",
+        "word_count": 724
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NL Wild Card — Padres vs. D-backs\n\n**Image Concept 5A**\n- **Description:** Petco Park exterior or wide shot of the stadium during a Padres home game, crowd visible, San Diego backdrop\n- **Search Terms:** Petco Park Padres 2026 stadium crowd\n- **Alt Text:** Petco Park in San Diego during a Padres home game in 2026\n- **Caption:** Petco Park will host what could be the decisive NL Wild Card series when the Padres welcome Arizona on Sept. 25-27.\n- **Source:** imagn\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NL Wild Card Race\n**Verified Facts (HIGH confidence):**\n- NL division leaders: Brewers (Central), Dodgers (West), Braves (East)\n- NL Wild Cards: Phillies (WC1), Cubs (WC2, ~5 games cushion), Padres (WC3)\n- Arizona Diamondbacks: 0.5 games behind Padres for WC3\n- Padres host D-backs Sept 25-27 at Petco Park — potentially decisive series\n- Miami Marlins: 4 games out, no longer realistic contenders\n- Wild Card Series begins: September 29\n- Season ends: approximately September 27-28\n**Source:** foxsports.com, cbssports.com, arizonasports.com, friarsonbase.com (via WebSearch)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
