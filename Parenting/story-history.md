@@ -2,6 +2,60 @@
 
 ---
 
+## September 12, 2026
+
+### Story 1: Aila+Aiden Baby Lounger CPSC Warning
+- **Date:** 2026-09-12
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC issued warning to stop using Aila+Aiden Baby Loungers (Model Nest1). Fall and entrapment hazard: sides too low, foot openings too wide. Company is out of business; no refund available. Must destroy the product. Sold Dec 2023-June 2026 on Amazon for ~$46.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** CPSC warning active; Model Nest1; fall and entrapment hazard; company out of business; no refund; sold Dec 2023-June 2026 on Amazon ~$46; destroy the product; cpsc.gov/Recalls
+- **Follow-up Opportunity:** Any CPSC upgrade to formal recall; similar baby lounger warnings
+
+### Story 2: Pikes Peak Regional Airshow — Next Weekend Preview
+- **Date:** 2026-09-12
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Pikes Peak Regional Airshow returns Sept 19-20 at Colorado Springs Airport. WWII warbirds, modern jets, kid zones. Gates 8:30 AM, performances 10:50 AM-2:25 PM. Adults $53.20+, kids $42.18+. Online-only tickets at pprairshow.org; has sold out in prior years. Free parking.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** Sept 19-20 at COS Airport; gates 8:30 AM; performances 10:50 AM-2:25 PM; adults $53.20+; kids $42.18+; online only pprairshow.org; free parking; previously sold out
+- **Follow-up Opportunity:** Post-show coverage; day-of weather/crowd conditions
+
+### Story 3: Dahlia Days — Today at Gather Mountain Blooms
+- **Date:** 2026-09-12
+- **Content Pillar:** Local Events
+- **Angle:** SAME-DAY EVENT — Dahlia Days at Gather Mountain Blooms is today, 8 AM-noon at 5210 S. U.S. 85/87. $10 admission, $30 cut flowers. Only two dates left this season (today + Sept 19 final). Tomorrow: free Youth Fishing Derby at Bear Creek Regional Park, ages 6-15.
+- **Byline:** Jamie Rivera
+- **Content Produced:** 1 X Post + FB Long-Form + FB Image Caption + 1 Image Concept (Gemini base_only) + Article
+- **Tier:** 2
+- **Key Facts (HIGH):** Today Sept 12, 8 AM-noon; 5210 S. U.S. 85/87; $10 admission; $30 cut flowers; final date Sept 19; Youth Fishing Derby Sept 13, Bear Creek Regional Park, free, ages 6-15
+- **Follow-up Opportunity:** Final Dahlia Days Sept 19 reminder
+
+### Story 4: September School Routine Check-In for COS Families
+- **Date:** 2026-09-12
+- **Content Pillar:** Evergreen
+- **Angle:** NEW STORY — All COS districts are 4-6 weeks into 2026-27 school year (D49 since Aug 3, D11 Aug 12, D20 Aug 17). Mid-September is the right time to assess if the routine is working before October parent-teacher conferences. Focus areas: sleep consistency (9-11 hrs ages 6-13), after-school decompression buffer (20-30 min), D11 Monday late starts.
+- **Byline:** Sarah Morales
+- **Content Produced:** 1 X Post + FB Long-Form + FB Image Caption + 1 Image Concept (Gemini base_only) + Article
+- **Tier:** 2
+- **Key Facts (HIGH):** D49 started Aug 3 (~6 weeks in); D11 started Aug 12 (~4.5 weeks); D20 started Aug 17 (~4 weeks); pediatric sleep 9-11 hrs ages 6-13, 8-10 hrs teens; D11 Monday late starts built into calendar
+- **Follow-up Opportunity:** District conference date announcements; October parent-teacher conference prep
+
+### Story 5: September Outdoor Guide for COS Families
+- **Date:** 2026-09-12
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — September is the top outdoor month in Colorado Springs: avg high 74°F, only 3 rainy days. Free parks: Garden of the Gods (sunrise-10 PM), America the Beautiful Park (Quirks installation), North Cheyenne Cañon. Events: Dahlia Days today and Sept 19 ($10); Pikes Peak Regional Airshow Sept 19-20 ($53+/$42+, pprairshow.org).
+- **Byline:** Jamie Rivera
+- **Content Produced:** 1 X Post + FB Long-Form + FB Image Caption + 1 Image Concept (Gemini base_only) + Article
+- **Tier:** 2
+- **Key Facts (HIGH):** Avg high 74°F; 3 rain days avg; Garden of the Gods free, sunrise-10 PM; America the Beautiful Park free; North Cheyenne Cañon Park free; Dahlia Days $10 admission; Airshow adults $53+, kids $42+
+- **Follow-up Opportunity:** October outdoor guide as weather shifts
+
+---
+
 ## September 11, 2026
 
 ### Story 1: Ricky Joy Sour Crush Candy Recall — Choking Hazard

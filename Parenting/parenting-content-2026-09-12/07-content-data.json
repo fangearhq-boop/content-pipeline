@@ -1,0 +1,268 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-12",
+  "compiled_at": "2026-09-12T12:28:49.263658+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "CPSC Warns Parents to Destroy Aila+Aiden Baby Loungers — No Refund Available (TIER 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "CPSC warning: Stop using Aila+Aiden Baby Loungers (Model Nest1).\n\nFall and entrapment hazard — sides too low, openings too wide.\n\nCompany out of business. No refund. Destroy the product. cpsc.gov/Recalls\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 264
+        },
+        {
+          "label": "Post 1-2",
+          "text": "If you bought a baby lounger on Amazon labeled \"Aila+Aiden\" — check it now.\n\nCPSC says stop using it. The company shut down. No refund is coming. You must destroy it.\n\nSold Dec 2023-June 2026 for ~$46.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 262
+        }
+      ],
+      "facebook": {
+        "long_form": "**Window:** 10:00 AM MT\n\nIf you have an Aila+Aiden Baby Lounger in your home, the Consumer Product Safety Commission wants you to stop using it right now.\n\nThe CPSC issued a safety warning this week against the lounger (Model No: Nest1), which was sold on Amazon from December 2023 through June 2026 for about $46. The problem: the sides are too low to safely contain an infant, the openings at the foot are wider than allowed by mandatory infant sleep product standards, and there is no stand — creating serious fall and entrapment hazards.\n\nHere is what makes this situation harder than most recalls: the company, Aila+Aiden, is out of business. There is no refund available. If you have this product, you need to remove the foam padding, cut the cover in half, and throw it away. Do not sell it. Do not donate it. Destroy it.\n\nThe product label reads \"Aila+Aiden,\" \"Baby Lounger,\" and \"Model No: Nest1\" on a tag stitched to the outside of the cover.\n\nFull details at cpsc.gov/Recalls.\n\nHave you seen this product in your area? If so, share this post so other Colorado Springs families can check their homes.\n\n---",
+        "image_caption": "**Window:** 10:30 AM MT\n\nCPSC safety warning: Aila+Aiden Baby Loungers (Model Nest1) must be destroyed immediately. Fall and entrapment hazards. Sold on Amazon Dec 2023-June 2026. No refund — company is out of business. Full details at cpsc.gov/Recalls.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-aila-aiden-baby-lounger-cpsc-warning.html",
+        "headline": "CPSC Warns Parents to Destroy Aila+Aiden Baby Loungers: No Refund, Company Out of Business",
+        "word_count": 576
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Aila+Aiden Baby Lounger CPSC Warning\n\n**Concept 1A — Social (1080x1350)**\n- **Mode:** base_only\n- **Prompt:** Clean, stark product safety warning image. A soft infant lounger product on a plain white background, slightly blurred or faded to indicate danger. A bold red \"STOP\" symbol or warning triangle overlaid. Bottom third clear for text overlay. Modern, clean design. No specific brand logos. Photorealistic style. Warm neutral lighting.\n- **Overlay Text:** \"STOP USING IMMEDIATELY — CPSC SAFETY WARNING\"\n- **status:** not_started\n\n**Concept 1B — Article Hero (1200x630)**\n- **Mode:** base_only\n- **Prompt:** Safety information graphic. An infant sleep safety conceptual image — a simple, empty baby sleep space (crib or bassinet) with a \"safe sleep\" checklist feel. No infant visible. Clean white and soft blue color palette. Bottom third clear. Professional parenting blog style.\n- **Overlay Text:** \"CPSC Warning: Aila+Aiden Baby Lounger — What Parents Need to Know\"\n- **status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Pikes Peak Regional Airshow — COS's Biggest Family Aviation Event Returns Next Weekend (TIER 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Pikes Peak Regional Airshow returns to COS next weekend — Sept 19-20 at Colorado Springs Airport.\n\nWWII warbirds. Modern jets. Kid zones. Two days.\n\nTickets: online only, sell out. Buy now at pprairshow.org\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 267
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Pikes Peak Regional Airshow — Sept 19-20, COS Airport.\n\nGates 8:30 AM. Performances 10:50 AM-2:25 PM.\nAdults $53+. Kids $42+. Free parking.\n\nOnline tickets only at pprairshow.org — not at the gate.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": {
+        "long_form": "**Window:** 5:00 PM MT\n\nThe Pikes Peak Regional Airshow is back next weekend, and it is worth planning for now.\n\nThe event runs Saturday and Sunday, September 19-20, 2026, at the Colorado Springs Airport at 7330 Embraer Heights. Gates open at 8:30 AM and aerial performances run from 10:50 AM to 2:25 PM both days. The show includes WWII warbirds, modern military jets, precision aerobatics, kid zones, veteran recognition, and static displays of vintage and active-duty aircraft. Parking is free.\n\nHere is the critical detail for Colorado Springs families: tickets are only available online. They are not sold at the gate. And the airshow has sold out in previous years.\n\nAdult tickets start at $53.20; children start at $42.18. Preferred seating is $80.75, and a VIP Canteen Experience (which includes food, drinks, and shade) runs $204.17. Tickets are available at pprairshow.org.\n\nThis is a great one for families with kids who are into planes, history, or just want a full day outdoors next weekend.\n\nAre your kids into aviation? Share this post with Colorado Springs families planning their September weekend.\n\n---",
+        "image_caption": "**Window:** 5:30 PM MT\n\nPikes Peak Regional Airshow — September 19-20, 2026 at Colorado Springs Airport. WWII warbirds, modern jets, kid zones. Gates at 8:30 AM. Tickets online only at pprairshow.org — they have sold out in previous years.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-pikes-peak-airshow-2026-family-guide.html",
+        "headline": "Pikes Peak Regional Airshow Returns September 19-20 — What Colorado Springs Families Need to Know",
+        "word_count": 521
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Pikes Peak Regional Airshow\n\n**Concept 2A — Social (1080x1350)**\n- **Mode:** base_only\n- **Prompt:** Exciting aviation event atmosphere. A wide blue Colorado sky with a vintage WWII-style biplane or warbird doing a banking turn, leaving a light contrail. Crowd silhouettes visible at ground level. Vibrant daytime lighting. Clean patriotic energy — blues and whites. Bottom third clear for text overlay. No recognizable people. Photorealistic wide-angle style.\n- **Overlay Text:** \"PIKES PEAK REGIONAL AIRSHOW — SEPT 19-20, COS AIRPORT\"\n- **status:** not_started\n\n**Concept 2B — Article Hero (1200x630)**\n- **Mode:** base_only\n- **Prompt:** Family at an outdoor aviation event. Parent and child standing together looking up at the sky in excitement, backs to camera, against a bright blue Colorado sky. No recognizable faces. Child appears to be ages 6-10. Wide landscape composition. Warm afternoon sunlight. Bottom third clear.\n- **Overlay Text:** \"Plan Now: Pikes Peak Airshow Is Next Weekend\"\n- **status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Dahlia Days Is Today — What COS Families Need to Know (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Dahlia Days at Gather Mountain Blooms is TODAY — 8 AM to noon.\n\n$10 admission. $30 for a cup of flowers. Address: 5210 S. U.S. 85/87.\n\nOnly two dates left this season. Tomorrow: free Youth Fishing Derby at Bear Creek.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": {
+        "long_form": "**Window:** 8:00 AM MT\n\nDahlia Days is today — and if you go, you need to leave soon.\n\nThe event runs 8 AM to noon at Gather Mountain Blooms, 5210 S. U.S. 85/87. Admission is $10 per person, and a cup of flowers to take home is $30. This is one of only two remaining Dahlia Days dates this season — the other is next Saturday, September 19. The September 5 event was postponed because the dahlias arrived late this year. Tickets at gathermountainblooms.com.\n\nAnd tomorrow: the Youth Fishing Derby at Bear Creek Regional Park is free and open to children ages 6-15. A good Sunday option if the family is in outdoor mode this weekend.\n\nHave a great Saturday, Colorado Springs.\n\n---",
+        "image_caption": "**Window:** 8:30 AM MT\n\nDahlia Days — TODAY, 8 AM to noon at Gather Mountain Blooms. $10 admission. Last two dates of the season (Sept 12 and 19). Tomorrow: Youth Fishing Derby at Bear Creek, free, ages 6-15.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-dahlia-days-today-weekend-guide.html",
+        "headline": "Dahlia Days Is Today in Colorado Springs: What Families Need to Know Before They Go",
+        "word_count": 452
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Dahlia Days Today\n\n**Concept 3A — Social (1080x1350)**\n- **Mode:** base_only\n- **Prompt:** Bright, lush flower field scene. Rows of colorful dahlias in full bloom — pinks, purples, oranges, reds — in a sunny Colorado morning setting. A person's hand (adult, not shown above wrist) gently cradling one large dahlia bloom. Warm morning light. No recognizable faces. Bottom third clear for text overlay. Joyful, pastoral, Colorado outdoors feel.\n- **Overlay Text:** \"DAHLIA DAYS — TODAY 8 AM-NOON at Gather Mountain Blooms\"\n- **status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "September Rhythm — How COS Families Can Lock In a Fall Routine One Month In (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "D49 families have been in school since August 3. D11 since August 12. D20 since August 17.\n\nYou're about a month in. Is the routine actually working?\n\nQuick tips for COS families who need a reset heading into October.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": {
+        "long_form": "**Window:** 12:00 PM MT\n\nAbout one month in. How are the routines holding?\n\nAll three Colorado Springs school districts are well into the 2026-27 school year now — D49 started August 3, D11 August 12, and D20 August 17. That means families are past the honeymoon phase and settling into what actually works (or doesn't) for their household.\n\nMonth one is often where things start to slip. The kids are tired. The novelty of the new school year has worn off. The schedule that looked clean in August is running up against reality. That is completely normal, and it is also a good moment to reset.\n\nA few things that tend to help: a consistent wake time (even on weekends) matters more than a strict bedtime, because sleep timing is what drives morning energy. After-school decompression time before homework — even 20 minutes — tends to improve focus and reduce conflict. D11 families: your Monday late starts are built into the calendar and are a good reset point for the week.\n\nOctober is coming, and with it, parent-teacher conferences across all three districts. The routines you build this month will set the tone for that conversation.\n\nWhat has worked for your family this fall? Share in the comments — Colorado Springs parents, let's help each other out.\n\n---",
+        "image_caption": "**Window:** 12:30 PM MT\n\nD49 is 5 weeks in. D11 is 4 weeks in. D20 is almost 4 weeks in. Is your family's routine actually working? Tips for Colorado Springs families heading into October.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-september-school-routine-cos-families.html",
+        "headline": "One Month In: A September Routine Check-In for Colorado Springs Families",
+        "word_count": 627
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "September Routine Guide\n\n**Concept 4A — Social (1080x1350)**\n- **Mode:** base_only\n- **Prompt:** Back-to-school family routine scene. An organized kitchen or homework space — a backpack hanging on a hook, a reusable water bottle on a counter, a simple weekly schedule on a chalkboard wall. Warm, cozy lighting. Clean and minimal aesthetic. No people. Colorado family home feel. Bottom third clear for text overlay.\n- **Overlay Text:** \"ONE MONTH IN: COS FAMILY FALL ROUTINE GUIDE\"\n- **status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Colorado Springs September Outdoor Guide: Your Family's Last Big Outdoor Weekend (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "September high in Colorado Springs: ~74°F. Rain days: 3.\n\nBest outdoor month of the year. Garden of the Gods: free. America the Beautiful Park: open.\n\nNext weekend: Airshow. Today: Dahlia Days.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "**Window:** 3:00 PM MT\n\nSeptember might be Colorado Springs' best month for outdoor family time, and most of it is free.\n\nThe average high this month is around 74 degrees, with only about three rainy days. The summer crowds have thinned, and the trails are still fully accessible. It's the sweet spot before October brings shorter days and colder temperatures.\n\nWhere to take the family this month:\n\n**Garden of the Gods:** Paved and unpaved trails, open from sunrise to 10 PM, free. The rock formations are incredible any time of year but hit different in September light.\n\n**America the Beautiful Park:** Free access to the Quirks interactive art installation, hammocks, spinner bowls, and open green space.\n\n**North Cheyenne Cañon Park:** Free, with trails ranging from easy walks to challenging climbs. Waterfall views are worth the walk.\n\nAnd coming up:\n- Dahlia Days: Sept 12 and 19 at Gather Mountain Blooms ($10 admission)\n- Pikes Peak Regional Airshow: Sept 19-20 at COS Airport (tickets online at pprairshow.org)\n\nColorado Springs families, what is your go-to September outdoor spot? Drop it in the comments.\n\n---",
+        "image_caption": "**Window:** 3:30 PM MT\n\nSeptember in Colorado Springs: average 74°F highs, 3 rainy days, and the best trails in the state. Garden of the Gods is free and open. Airshow is next weekend. Dahlia Days is today. Get outside.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-september-outdoor-guide-cos-families.html",
+        "headline": "September in Colorado Springs: Your Family Outdoor Guide Before the Weather Turns",
+        "word_count": 693
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "September Outdoor Guide\n\n**Concept 5A — Social (1080x1350)**\n- **Mode:** base_only\n- **Prompt:** Colorado Springs outdoor family scene. Garden of the Gods-inspired dramatic red rock formations in the background against a clear blue September sky. A family group (silhouettes only, not recognizable) walking on a paved trail in the foreground. Warm golden afternoon light. Wide, expansive Colorado landscape feel. Bottom third clear for text overlay.\n- **Overlay Text:** \"SEPTEMBER IN COS: YOUR OUTDOOR FAMILY GUIDE\"\n- **status:** not_started\n\n---\n\n## Summary\n- Total Image Concepts: 7\n- Mode: base_only (all) — clean backgrounds for Canva text overlay ✓\n- Brand Kit ID: kAHCKfCZgk0 ✓\n- Social dimensions: 1080x1350 (4:5 vertical) ✓\n- Article hero dimensions: 1200x630 (1.91:1 landscape) ✓\n- No celebrity likenesses ✓\n- No identifiable real people ✓\n- Colorado Springs / local flavor woven into prompts ✓"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

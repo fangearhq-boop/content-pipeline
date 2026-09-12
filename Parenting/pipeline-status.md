@@ -1,6 +1,37 @@
 # COS Parenting — Pipeline Status
 
-## Current Run: 2026-09-11
+## Current Run: 2026-09-12
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Aila+Aiden Baby Lounger CPSC warning (Model Nest1, fall/entrapment hazard, company out of business, no refund, destroy product); Pikes Peak Regional Airshow Sept 19-20 (COS Airport, gates 8:30 AM, adults $53.20+, kids $42.18+, online only, pprairshow.org); Dahlia Days today at Gather Mountain Blooms ($10, 5210 S. US-85/87, 8 AM-noon); September routine check-in (D49 ~6 wks, D11 ~4.5 wks, D20 ~4 wks; sleep/decompression tips); September outdoor guide (74°F avg, 3 rain days, Garden of Gods/AtBP/N. Cheyenne Cañon all free) |
+| Story History Check | COMPLETE | S1 Aila+Aiden warning (new — distinct from prior recalls; baby lounger category new; company defunct angle unique); S2 Airshow (FOLLOW-UP — first covered Sep 8 as a Tier 2 preview; this is the advance-week Tier 1 guide with full ticketing details); S3 Dahlia Days same-day (FOLLOW-UP — first covered Sep 9, Sep 10 weekend roundup; today-specific angle is not duplicate); S4 routine check-in (FOLLOW-UP — Sep 9 and Sep 11 both had routine angles but different weeks in school; Sep 12 targets mid-September specific window and October conferences); S5 outdoor guide (new — seasonal overview never run before; not duplicate of prior event-specific stories) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Jamie Rivera (S1, S3, S5), Sarah Morales (S2, S4) |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: cpsc.gov, pprairshow.org, gathermountainblooms.com, coloradosprings.gov, d49.org, d11.org, asd20.org, nps.gov/garden-of-the-gods, healthychildren.org |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows, voice check |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories; all ≤280 chars (3 trimmed after verify-facts pass); 4 hashtags each; 0 exclamation marks; COS voice rules applied |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; no hashtags; engagement questions; COS voice rules applied |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 Aila+Aiden CPSC (Jamie Rivera, ~600 words, Tier 1, QR table); article-02 Airshow guide (Sarah Morales, ~650 words, Tier 1, QR table); article-03 Dahlia Days today (Jamie Rivera, ~600 words, Tier 2, QR table); article-04 September routine (Sarah Morales, ~650 words, Tier 2, QR table); article-05 September outdoor guide (Jamie Rivera, ~700 words, Tier 2, QR table) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 75 claims; HIGH/MEDIUM/LOW prioritized; 3 X posts trimmed for char limit; clean pass on second run; image missing warnings expected (Gemini images generated separately) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles; posting-window warnings known cosmetic issue |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 7 entries (S1-S2: 2 each, S3-S5: 1 each), all not_started, gemini base_only, brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 27 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in session's authorized repository set (403 proxy) — known recurring issue |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser compat issue — returns 0 posts; ran both standard and --tobi |
+| WordPress Publish | BLOCKED | WordPress API proxy returns 403 Forbidden — known recurring issue; articles queued as drafts |
+| Story History | COMPLETE | 5 new entries prepended to Parenting/story-history.md (Sep 12 section) |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
+- **Articles:** 5 (bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4])
+- **PostPlanner exports:** 0 posts (known parser compat issue)
+- **Key stories:** Aila+Aiden Baby Lounger CPSC warning (Model Nest1, company defunct, destroy product, cpsc.gov/Recalls); Pikes Peak Regional Airshow Sept 19-20 guide ($53.20/$42.18, pprairshow.org, online only); Dahlia Days same-day reminder (8 AM-noon, $10, final dates Sept 12 + 19); September school routine check-in (D49/D11/D20 mid-season, October conferences window); September outdoor guide (74°F avg, free parks, event calendar)
+- **Issues:** 3 X posts trimmed for char limit during verify-facts pass; PostPlanner 0 posts (known); WordPress blocked by proxy; dashboard push blocked (not in session authorized repos)
+
+---
+
+## Previous Run: 2026-09-11
 
 | Step | Status | Notes |
 |------|--------|-------|
