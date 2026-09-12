@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-09-12
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-12 | T1 | Solheim Cup Day 2 — Europe Leads 7-5 After Saturday Foursomes at Bernardus Golf | X(2), FB, Article | FOLLOW UP |
+| 2026-09-12 | T1 | Nelly Korda Benched — Angela Stanford's Bold Saturday Call at Solheim Cup | X(2), FB, Article | NEW |
+| 2026-09-12 | T2 | LIV Golf Bankruptcy — CEO Scott O'Neil Targets 2027 Restart, $45M+ Owed to Players | X(1), FB, Article | FOLLOW UP |
+| 2026-09-12 | T2 | LIV Players and PGA Tour — Koepka's Return Template, Rahm and DeChambeau Face Uncertain Path | X(1), FB, Article | FOLLOW UP |
+| 2026-09-12 | T2 | Biltmore Championship Preview — PGA Tour Arrives in Asheville in Five Days | X(1), FB, Article | NEW |
+
+### STORY 1: Solheim Cup Day 2 — Europe Leads 7-5 After Saturday Morning Foursomes
+- **Tier:** 1
+- **Category:** Solheim Cup / LPGA / Europe vs USA / Maja Stark / Linn Grant / Nelly Korda / Bernardus Golf
+- **Key facts:** Europe won morning foursomes 3-1, leads 7-5; Stark/Grant beat Korda/Corpuz 3&2; Korda/Corpuz 5-0 foursomes streak ended; Saturday afternoon fourballs in progress; Sunday singles 12 matches; 14 points needed to win
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Afternoon fourballs final score, Day 2 total, Sunday singles order, final result
+
+### STORY 2: Nelly Korda Benched for Saturday Afternoon Fourballs
+- **Tier:** 1
+- **Category:** Nelly Korda / Angela Stanford / USA Solheim Cup / LPGA / Alison Lee / Lauren Coughlin
+- **Key facts:** Korda (World No. 1) benched after 3&2 foursomes loss with Corpuz; Alison Lee also rested despite 3/3 perfect record; Coughlin also benched; both expected in Sunday singles; Stanford managing fatigue and narrative reset
+- **Status:** NEW
+- **Follow-up ideas:** Sunday singles lineup, Korda opponent, Lee placement in order
+
+### STORY 3: LIV Golf Bankruptcy — 2027 Restart Plan
+- **Tier:** 2
+- **Category:** LIV Golf / Chapter 11 / Scott O'Neil / PIF / BC Partners / Jon Rahm / Bryson DeChambeau
+- **Key facts:** CEO Scott O'Neil targeting early 2027 restart; Saudi PIF DIP $49.6M; BC Partners exit financing; Rahm $7.5M owed, DeChambeau $5.7M, Johnson $5.5M, Smith $4.8M, Hatton $3.4M, Koepka $1.7M; $45M+ total player claims; assets $100M-$500M, liabilities $500M-$1B; all 48 contracts terminated
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Court milestones, creditor committee, exit financing terms, player settlement
+
+### STORY 4: LIV Players and PGA Tour Reinstatement
+- **Tier:** 2
+- **Category:** Brooks Koepka / Jon Rahm / Bryson DeChambeau / Cameron Smith / PGA Tour / Brian Rolapp / Returning Member Program
+- **Key facts:** Koepka reinstated via Returning Member Program — $5M to charity, no equity grants 5 years, no bonus pool year one; Rolapp offered same to Rahm/DeChambeau/Smith, all declined; contracts now terminated; no new PGA Tour reinstatement path announced
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** PGA Tour announcement on terms, Rahm/DeChambeau statements, DP World Tour option for Rahm
+
+### STORY 5: Biltmore Championship — 5 Days Out Preview
+- **Tier:** 2
+- **Category:** Biltmore Championship / PGA Tour / FedExCup Fall / Asheville / The Cliffs at Walnut Cove / Jack Nicklaus
+- **Key facts:** Sept 17-20 at The Cliffs at Walnut Cove, Arden NC; 7,167 yards, Jack Nicklaus design; elevation 2,100-2,250 ft; first PGA Tour event in Asheville since 1942; opens FedExCup Fall (8 events, 2027 cards); Golf Channel + ESPN+; 4-year Biltmore Estate / Explore Asheville sponsorship
+- **Status:** NEW
+- **Follow-up ideas:** Full field, first-round tee times, leaderboard
+
 ## 2026-09-11
 
 | Date | Tier | Story | Platforms | Status |
