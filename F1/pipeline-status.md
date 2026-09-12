@@ -1,11 +1,43 @@
 # F1 Fanrecap — Pipeline Status
 
-## Last Run: 2026-09-11
+## Last Run: 2026-09-12
 
 **Status:** COMPLETE (with known proxy limitations)
 **Niche:** F1 Fanrecap
 **Stories:** 5
 **Articles:** 5
+
+---
+
+## 2026-09-12 Run Log
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research | ✅ Complete | 5 stories — Madring qualifying day, Ferrari FP2 results, Madring circuit deep dive, Russell title challenge, championship finale |
+| Daily Brief | ✅ Complete | 00-daily-brief.md |
+| Research Notes | ✅ Complete | 01-research-notes.md |
+| Story Analysis | ✅ Complete | 02-story-analysis.md |
+| X Posts | ✅ Complete | 03-social-posts-x.md — 7 posts |
+| Facebook Posts | ✅ Complete | 04-social-posts-facebook.md |
+| Image Concepts | ✅ Complete | 05-image-concepts.md |
+| Articles | ✅ Complete | 5 HTML articles |
+| Fact Check | ✅ Complete | 06-fact-check-log.md — 18 claims, all HIGH |
+| Compile Content Data | ✅ Complete | 07-content-data.json — no errors |
+| Image Manifest | ✅ Complete | 07-image-manifest.md (not_started) |
+| Story History | ✅ Complete | story-history.md updated |
+| Review Dashboard | ✅ Complete | review-dashboard.html — 22 items |
+| Publish Dashboard | ⚠ Partial | Blocked — content-dashboards not in authorized repo |
+| PostPlanner Export | ⚠ Partial | 0 posts (known parsing issue) |
+| PostPlanner TOBI | ⚠ Partial | 0 posts (known parsing issue) |
+| WordPress Publish | ⚠ Blocked | Proxy policy — fanrumor.com not reachable |
+| Git Push | ✅ Complete | Committed and pushed to main |
+
+**Stories covered:**
+1. T1 NEW: Antonelli / Madring Qualifying Day Preview
+2. T1 FOLLOW UP: Ferrari Closes Gap — Leclerc P2, Hamilton P3 in FP2
+3. T2 NEW: Madring Deep Dive — La Monumental and F1's Return to Madrid After 45 Years
+4. T2 FOLLOW UP: George Russell's Madring Mission
+5. T2 FOLLOW UP: F1 Championship Finale — 10 Rounds Left, 258 Points Available
 
 ---
 

@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-09-12
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-12 | T1 | Antonelli's Title March Arrives at Madring — Qualifying Day at the Inaugural Madrid GP | X(2), FB, Article | NEW |
+| 2026-09-12 | T1 | Ferrari Closes Gap at Madring — Leclerc P2, Hamilton P3 in FP2 | X(2), FB, Article | FOLLOW UP |
+| 2026-09-12 | T2 | Madring Deep Dive — La Monumental and F1's Return to Madrid After 45 Years | X(1), FB, Article | NEW |
+| 2026-09-12 | T2 | George Russell's Madring Mission — Stopping Antonelli at His Own Circuit | X(1), FB, Article | FOLLOW UP |
+| 2026-09-12 | T2 | F1 Championship Finale — 10 Rounds Left, 258 Points Available | X(1), FB, Article | FOLLOW UP |
+
+### STORY 1: Antonelli / Madring Qualifying Day
+- **Tier:** 1
+- **Category:** 2026 F1 Season / Kimi Antonelli / Spanish Grand Prix
+- **Key facts:** Antonelli leads championship 267 pts, 66 ahead of Russell; FP2: Antonelli P1 1:33.662s, Leclerc P2 (0.09s), Hamilton P3 (0.1s); FP1: Russell P1 1:34.077s; Qualifying 16:00 local Sept 12; Race 15:00 local Sept 13; 57 laps; round 14 of 23
+- **Status:** NEW
+- **Follow-up ideas:** Qualifying result, race result, Antonelli pole or not
+
+### STORY 2: Ferrari Closes Gap — FP2
+- **Tier:** 1
+- **Category:** Scuderia Ferrari / Charles Leclerc / Lewis Hamilton
+- **Key facts:** Leclerc P2 in FP2 (0.09s off Antonelli), Hamilton P3 (0.1s off); Ferrari last win: Canadian GP June 2026; Mercedes constructors lead 122 pts; Leclerc cleared after Monza vision scare
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Qualifying result, race result
+
+### STORY 3: Madring Circuit Deep Dive
+- **Tier:** 2
+- **Category:** 2026 Spanish GP / Madring Circuit / F1 History
+- **Key facts:** Circuit: 5.47km, 22 corners, 2 tunnels; La Monumental = Turn 12, 550m banked corner, 24% gradient, 13.5° banking, ~6s at F1 speed; avg speed 218kph predicted; 57 laps; first Madrid-area F1 race since 1981 (Jarama); IFEMA Madrid location; Dino Beganovic first F2 pole at Madring
+- **Status:** NEW
+- **Follow-up ideas:** Race completion, La Monumental passes at race pace
+
+### STORY 4: Russell's Madring Mission
+- **Tier:** 2
+- **Category:** George Russell / 2026 F1 Championship / Mercedes
+- **Key facts:** Russell topped FP1 1:34.077s; trails 66 pts, 201 pts total; 258 available; pole at Barcelona-Catalunya earlier broke Antonelli pole streak
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Qualifying, race result
+
+### STORY 5: Championship Finale — 10 Rounds Left
+- **Tier:** 2
+- **Category:** 2026 F1 Championship / Season Calendar
+- **Key facts:** 267 pts Antonelli vs 201 pts Russell; 258 pts available; 446 constructors available; Mercedes +122 constructors; Domenicali mid-Sept deadline for Qatar/Abu Dhabi
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Domenicali announcement, Russell closes gap or not
+
 ## 2026-09-11
 
 | Date | Tier | Title | Platforms | Status |
