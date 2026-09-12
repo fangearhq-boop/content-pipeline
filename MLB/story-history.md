@@ -5,6 +5,61 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-09-12
+
+### Story 1: PCA — 41 HR, 36 SB, Four From 40-40
+- **Date:** 2026-09-12
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** 41 HR, 36 SB — needs 4 SBs in ~15 games for 40-40. Would be 7th member (Canseco/Bonds/A-Rod/Soriano/Acuña/Ohtani), first Cub ever. Youngest Cub to reach 40 HR (24y 165d, passed Ernie Banks by 49d). First Cub 40 HR since Derrek Lee 2005. Cubs host Pirates at Wrigley today. Cubs WC (tied w/ Phillies).
+- **Content Produced:** Article (article-01, Ryan Calloway), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Daily SB count updates through end of season
+  - 40-40 achievement game coverage
+
+### Story 2: Alvarez Triple Crown — BA leads, HR and RBI need to close
+- **Date:** 2026-09-12
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Leads AL BA (~.315). Trails Caminero (Rays) 39-38 in HR. Trails Alonso (BAL) ~97-95 in RBI. Cabrera 2012 last AL TC. ~15 games left. Power slowed since August.
+- **Content Produced:** Article (article-02, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Daily HR/RBI tracker update
+  - End-of-season TC result
+
+### Story 3: Judge Returns — Subway Series, Career 400 HR in Sight
+- **Date:** 2026-09-12
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Returned Sept 8 from 99-day IL (stress fracture rib). ~385 career HR, approaching 400. Yankees vs Mets today (9/11 anniversary Subway Series). 2026: 61G/.249BA/17HR/38RBI. Yankees first AL WC ~3 games over Boston.
+- **Content Produced:** Article (article-03, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Judge HR No. 400 (milestone)
+  - Yankees Wild Card clinch
+
+### Story 4: Misiorowski — Cy Young Frontrunner Holds Ground
+- **Date:** 2026-09-12
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** 14-5, 1.97 ERA (MLB best), 227 K (MLB best), 0.79 WHIP. Cy Young -700 vs Sale +500. Bounced back in latest start (6.1 IP/1ER/9K) after two rough Cubs starts. Brewers ~90-56.
+- **Content Produced:** Article (article-04, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Final 2-3 regular season starts
+  - Cy Young Award announcement
+
+### Story 5: NL Wild Card Race — Petco Decider Sept 25-27
+- **Date:** 2026-09-12
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Cubs/Phillies tied WC1/WC2. Padres WC3 +0.5 over D-backs. 15 games left. Padres host D-backs Sept 25-27 at Petco potentially decisive. Wild Card Series starts Sept 29.
+- **Content Produced:** Article (article-05, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Daily WC standings
+  - Padres-D-backs Sept 25-27 series coverage
+  - Wild Card bracket announcement
+
+---
+
 ## 2026-09-11
 
 ### Story 1: PCA — 41 HR, 35 SB, Five From 40-40
