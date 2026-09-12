@@ -1,0 +1,223 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-12",
+  "compiled_at": "2026-09-12T09:16:40.178495+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Game Recap — Imanaga/Bregman End Slide",
+      "type": "Informative"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "PCA 40-40 Chase (41/36, 4 away)",
+      "type": "Bold Take"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Wild Card Watch — WC1 Race",
+      "type": "Analysis/Rival Watch"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "Holmes vs Skenes Preview",
+      "type": "Bold Take"
+    },
+    {
+      "time": "1:15 PM",
+      "description": "First Pitch Hype",
+      "type": "Passionate"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Swanson Return — Sept 18 Target",
+      "type": "Roster News"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Game Recap — Imanaga and Bregman End the Slide",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Cubs routed Pirates 12-2 Thursday afternoon. Imanaga went 6 IP (2 ER) and improved to 10-10. Bregman had 3 hits and a 2-run HR (25th of season, 16th since the break). Suzuki added 3 hits including a triple. Busch drove in 3. 16 total hits, every starter on base. Four-game losing streak snapped. Lead with narrative/stats — NOT the score (has_score=False insight).",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Four-game skid? Gone.\n\nImanaga delivered 6 solid innings, Bregman launched his 25th homer (16th since the break), and 16 hits later, the Cubs looked EXACTLY like a playoff team should.\n\nThe offense is awake. The losing streak is over.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "PCA 40-40 Chase — Four Steals From History",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "PCA at 41 HR / 36 SB. Four steals from 40-40, which only six players in MLB history have achieved. No Cub has ever done it. 16 games remain. The chase is very much live.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Four steals from history.\n\nPete Crow-Armstrong is at 41 HR / 36 SB — 4 stolen bases away from the 40-40 club. Six players ever. No Cub has EVER done it.\n\nWith 16 games left, the countdown is live.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 224
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Wild Card Watch — Cubs and Phillies Neck and Neck for WC1",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Cubs 82-66 essentially tied with Phillies for WC1 seed (home-field in Wild Card Series). Cardinals eliminated from contention. Every game down the stretch matters. Rival jab included.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Neck and neck for WC1.\n\nCubs at 82-66 are essentially tied with the Phillies for the top NL Wild Card seed — meaning home field in October. Every game matters. 16 left.\n\nCardinals watching from home. As they should.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Holmes vs Skenes Preview — Cubs Have the Pitching Edge",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Clay Holmes has a 1.55 ERA since the trade deadline (29 IP, 5 starts). Paul Skenes won the 2025 NL Cy Young but is 10-11/3.83 ERA this season — he's mortal. Bold take on Cubs' pitching advantage heading into Game 2.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "1.55 ERA since the deadline. That's what Clay Holmes brings to Game 2 today.\n\nPaul Skenes has the name — and a 3.83 ERA in 2026 to show he's mortal. Holmes is not. First pitch 1:20 PM CT at Wrigley.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 222
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "First Pitch Hype — Game 2 at Wrigley, 1:20 PM CT",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Momentum from 12-2 win. September day game at Wrigley. Holmes on the mound. Sweep in sight. Short and punchy fan-energy tweet.",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "First pitch, 1:20 PM CT.\n\nCubs riding momentum from a 12-2 win. Holmes on the mound. Wrigley's packed for a September day game and the sweep is on the table.\n\nWin it. Fly the W.\n\n#Cubs #GoCubs #WrigleyField",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#WrigleyField"
+          ],
+          "char_count": 206
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Swanson Return — Targeting Sept 18 in Cincinnati",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Dansby Swanson begins Iowa rehab this week (Tue/Wed). Cubs targeting activation September 18 in Cincinnati. Out since Aug 16 with Grade 2 oblique. Two-time Gold Glover returning right on time for October.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "October just got better.\n\nDansby Swanson starts his Iowa rehab this week — and the Cubs are targeting his return for September 18 in Cincinnati. Grade 2 oblique, nearly a month on the shelf. The two-time Gold Glover is almost back.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

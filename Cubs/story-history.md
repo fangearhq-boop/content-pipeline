@@ -7283,3 +7283,56 @@ Each day's stories are appended at the top (newest first).
   - Steele second rehab start result
   - Swanson activation date
   - October roster construction decisions
+
+## 2026-09-12
+
+### STORY 1: Game Recap — Imanaga and Bregman End Four-Game Slide (Cubs 12-2)
+- **Angle:** FOLLOW UP (Game 1 recap: Imanaga 6 IP/2 ER/improved to 10-10; Bregman 3 hits + 2-run HR [25th, 16th since break]; Suzuki 3 hits + triple; Busch 3 RBI; 16 total hits; 4-game losing streak snapped; per has_score=False insight, led with Imanaga's line and narrative — score not in tweet)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, morning recap)
+- **Follow-Up Opportunities:**
+  - Game 2 result recap (Sept 13 morning)
+  - Bregman HR streak tracking (16 since break)
+  - Imanaga October rotation status
+
+### STORY 2: PCA 40-40 Watch — 41 HR / 36 SB, Four Away
+- **Angle:** FOLLOW UP (PCA at 41/36; 4 SB from 40-40; 6 players ever achieved it; no Cub has ever done it; 16 games left; per opening=not_statement insight, opened with fragment "Four steals from history.")
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold milestone)
+- **Follow-Up Opportunities:**
+  - PCA each SB milestone en route to 40 SB
+  - 40-40 achievement announcement
+  - NL MVP candidacy
+
+### STORY 3: Wild Card Watch — Cubs and Phillies Neck and Neck for WC1
+- **Angle:** FOLLOW UP (Cubs 82-66 essentially tied with Phillies for WC1; WC1=home field in Wild Card Series; Cardinals eliminated; 16 games left; rival jab)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, standings/rival watch)
+- **Follow-Up Opportunities:**
+  - Daily standings updates
+  - WC1 clinch magic number tracking
+  - Cardinals elimination watch
+
+### STORY 4: Holmes vs Skenes Preview — Cubs' Pitching Edge in Game 2
+- **Angle:** NEW STORY (Holmes 1.55 ERA since deadline in 29 IP/5 starts; Skenes 10-11/3.83 ERA/2025 Cy Young winner now mortal; Game 2 at 1:20 PM CT; bold take on Cubs' advantage)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, bold take/preview)
+- **Follow-Up Opportunities:**
+  - Holmes Game 2 result and October use case
+  - Skenes vs Cubs head-to-head history
+
+### STORY 5: First Pitch Hype — Game 2 at Wrigley
+- **Angle:** NEW STORY (Day game hype; momentum from 12-2 Game 1 win; Holmes on mound; sweep in sight)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, hype)
+- **Follow-Up Opportunities:** N/A (one-off hype)
+
+### STORY 6: Swanson Return — Targeting September 18 in Cincinnati
+- **Angle:** FOLLOW UP (Swanson starts Iowa rehab Tue/Wed; Cubs targeting Sept 18 activation in Cincinnati; Grade 2 oblique since Aug 16; two-time Gold Glover returning for October)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, roster news)
+- **Follow-Up Opportunities:**
+  - Swanson activation announcement (target: Sept 18)
+  - Return game performance
+  - October roster implications
+
