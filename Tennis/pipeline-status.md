@@ -1,6 +1,38 @@
 # Tennis Fanrecap — Pipeline Status
 
-## Current Run: 2026-09-11
+## Current Run: 2026-09-12
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Shelton def. Tiafoe 4-6, 6-3, 6-3, 7-5 (CBS Sports/NBC Sports/ESPN); Zverev def. Khachanov 6-3, 7-6(7), 7-6(6) — 3rd straight GS final of 2026, 12th man since 1978 on 3 surfaces (Tennis Majors/ATP Tour/ESPN); Women's Final today 4 PM ET Sabalenka vs. Rybakina (Yahoo/Olympics.com — H2H 10-7, Rybakina becomes No. 1 regardless); Men's Final Sunday Zverev vs. Shelton (CBS Sports/ESPN); Ashe legacy angle (Sunday Guardian Live/ESPN — first Black American in US Open final since Ashe 1972) |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Sep 11 S3: all-American SF match-day → RESULT); S2 FOLLOW-UP (Sep 11 S5: Zverev/Khachanov SF → RESULT); S3 FOLLOW-UP (Sep 11 S2: Women's Final preview → match-day); S4 NEW (Men's final Sunday preview); S5 NEW (Arthur Ashe legacy feature) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (4 Tier 1, 1 Tier 2); bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: CBS Sports, NBC Sports, ESPN, Yahoo Sports, ATP Tour, Tennis Majors, Al Jazeera, Sunday Guardian Live, Olympics.com |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 8 posts across 5 stories; all ≤280 chars verified; code block format |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 9 imagn concepts across 5 stories |
+| Articles (5) | COMPLETE | article-01 Shelton def. Tiafoe result (Elena Voss T1); article-02 Zverev def. Khachanov (Marcus Cole T1); article-03 Women's Final today (Ryan Calloway T1); article-04 Men's Final Sunday preview (Elena Voss T1); article-05 Arthur Ashe legacy feature (Marcus Cole T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — auto-generated; 29 claims, all HIGH; image manifest warnings cosmetic (known) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 5 articles; posting-window warnings cosmetic (known) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 9 entries, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 28 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser issue — same as all prior runs |
+| WordPress Publish | BLOCKED | 403 proxy — fanrumor.com blocked (known recurring issue) |
+| Story History | COMPLETE | 5 entries appended to story-history.md |
+
+- **Stories:** 5 stories (4 Tier 1, 1 Tier 2)
+- **Posts:** 8 X posts + 5 FB posts (5 long-form + 5 captions) = 13 total
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
+- **PostPlanner exports:** 0 posts (known parser compat issue)
+- **Key stories:** Shelton def. Tiafoe 4-6, 6-3, 6-3, 7-5 (first GS final; first Black American in US Open final since Ashe 1972); Zverev def. Khachanov 6-3, 7-6(7), 7-6(6) (3rd consecutive GS final of 2026; 12th man since 1978 on 3 surfaces); Women's Final today 4 PM ET — Sabalenka vs. Rybakina (Sabalenka 3-peat bid; Rybakina new No. 1 regardless); Men's Final Sunday — Zverev vs. Shelton (Shelton win = first American GS title since Roddick 2003); Arthur Ashe legacy feature
+- **Issues:** PostPlanner 0 posts (known); WordPress blocked by proxy; dashboard push blocked (not in session authorized repos)
+- **Story history:** Updated with all 5 stories
+
+---
+
+## Previous Run: 2026-09-11
 
 | Step | Status | Notes |
 |------|--------|-------|
@@ -21,111 +53,3 @@
 | PostPlanner Export | COMPLETE (0 posts) | Known parser issue — same as all prior runs |
 | WordPress Publish | BLOCKED | 403 proxy — known recurring issue |
 | Story History | COMPLETE | 5 entries appended to story-history.md |
-
-## Previous Run: 2026-09-10
-
-| Step | Status | Notes |
-|------|--------|-------|
-| Research (web search) | COMPLETE | Gauff def. Andreeva 2-6, 7-6(7), 6-2 (ESPN/Yahoo — saved match points, 39-shot rally); Rybakina def. Zheng 3-6, 6-1, 6-4 + clinched WTA No. 1 (CNN/SI — first Kazakh No. 1, ends Sabalenka 99-week run); Pegula def. Navarro 3-6, 6-4, 6-3 (Al Jazeera/Tribune India — 3rd consecutive US Open SF); Women's SFs today (Olympics.com/WTA — all top-4 seeds first time since 1975); Men's SFs Friday (Local10/ClickHouston — Tiafoe/Shelton + Zverev/Khachanov) |
-| Story History Check | COMPLETE | S1 FOLLOW-UP (Sep 9 S4: Gauff/Andreeva preview → RESULT); S2 FOLLOW-UP (Rybakina fitness thread; No. 1 ranking is new angle); S3 FOLLOW-UP (Sep 9 S5: QF Day 2 preview → Pegula RESULT); S4 NEW (all top-4 in SF is new story); S5 FOLLOW-UP (Sep 9 S3: All-American SF preview — now adds Zverev/Khachanov) |
-| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (4 Tier 1, 1 Tier 2) |
-| Research Notes | COMPLETE | 01-research-notes.md — sources: CBS Sports, Yahoo Sports, ESPN, CNN, SI, Al Jazeera, Tribune India, Olympics.com, WTA Tennis, Sky Sports, Local10 |
-| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows; bylines: Elena Voss [S1, S4], Ryan Calloway [S2, S5], Marcus Cole [S3] |
-| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories; all ≤280 chars verified; code block format |
-| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; engagement questions; no hashtags |
-| Image Concepts | COMPLETE | 05-image-concepts.md — 9 imagn concepts (S1-S4: 2 each = 8; S5: 1 social = 9 total); player-name-only search terms |
-| Articles (5) | COMPLETE | article-01 Gauff/Andreeva QF (Elena Voss, ~600 words, Tier 1); article-02 Rybakina World No. 1 (Ryan Calloway, ~600 words, Tier 1); article-03 Pegula/Navarro QF (Marcus Cole, ~550 words, Tier 1); article-04 Women's SF preview (Elena Voss, ~600 words, Tier 1); article-05 Men's SF preview (Ryan Calloway, ~550 words, Tier 2) |
-| Fact-Check | COMPLETE | 06-fact-check-log.md — auto-generated by verify-facts.py; image manifest 10 entries all not_started (expected) |
-| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 articles; posting-window warnings known cosmetic issue |
-| Image Manifest | COMPLETE | 07-image-manifest.md — 9 entries (S1-S4: 2 each, S5: 1), all not_started, imagn source |
-| Review Dashboard | COMPLETE | review-dashboard.html — 22 items |
-| Publish Dashboard | BLOCKED | content-dashboards repo not in session's authorized repository set (403 proxy) — known recurring issue |
-| PostPlanner Export | COMPLETE (0 posts) | Known parser compat issue — returns 0 posts; ran both standard and --tobi |
-| WordPress Publish | BLOCKED | WordPress API proxy returns 403 Forbidden — known recurring issue; articles queued as drafts |
-| Story History | COMPLETE | 5 new entries appended to Tennis/story-history.md (Sep 10 section) |
-
-- **Stories:** 5 stories (4 Tier 1, 1 Tier 2)
-- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
-- **Articles:** 5 (bylines: Elena Voss [S1, S4], Ryan Calloway [S2, S5], Marcus Cole [S3])
-- **PostPlanner exports:** 0 posts (known parser compat issue)
-- **Key stories:** Gauff def. Andreeva 2-6, 7-6(7), 6-2 (saved match points; 39-shot rally in tiebreak); Rybakina def. Zheng 3-6, 6-1, 6-4 + clinches world No. 1 (first Kazakh player ever at top; ends Sabalenka 99-week run); Pegula def. Navarro 3-6, 6-4, 6-3 (3rd consecutive US Open SF); Women's SF Thursday: all top-4 seeds advance for first time since 1975 (Sabalenka/Pegula + Rybakina/Gauff); Men's SF Friday: Tiafoe vs. Shelton all-American + Zverev vs. Khachanov
-- **Issues:** PostPlanner 0 posts (known); WordPress blocked by proxy; dashboard push blocked (not in session authorized repos)
-- **Story history:** Updated with all 5 stories
-
----
-
-## Previous Run: 2026-09-09
-
-| Step | Status | Notes |
-|------|--------|-------|
-| Research (web search) | COMPLETE | Shelton def. Alcaraz 6-7(5), 6-1, 6-3, 1-6, 7-6(10-6) 4h28m 3:30am ET (CBS Sports, Al Jazeera, Yahoo Sports); Tiafoe def. Michelsen 5-7, 3-6, 7-5, 6-3, 7-6 comeback (Yahoo Sports, CBS Sports); Gauff vs. Andreeva scheduled 12:30 PM ET Sep 9 (Yahoo Sports); Zverev vs. VdZ 6:30 PM ET + Pegula vs. Navarro Wednesday |
-| Story History Check | COMPLETE | S1 follow-up (Sep 8 S4: Alcaraz/Shelton preview → RESULT); S2 follow-up (Sep 8 S2: Tiafoe/Michelsen preview → RESULT); S3 new (all-American SF preview); S4 follow-up (Sep 8 S3: Gauff/Andreeva preview → match day); S5 follow-up (Sep 8 S5: QF Day 2 preview → match day) |
-| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (4 Tier 1, 1 Tier 2) |
-| Research Notes | COMPLETE | 01-research-notes.md — sources: CBS Sports, Yahoo Sports, Al Jazeera, Sunday Guardian Live, WTA Tennis, USOpen.org |
-| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows; bylines: Elena Voss [S1, S4], Ryan Calloway [S2, S5], Marcus Cole [S3] |
-| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories; all ≤280 chars verified; code block format |
-| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; engagement questions; no hashtags |
-| Image Concepts | COMPLETE | 05-image-concepts.md — 10 imagn concepts (5 stories × 2: 1080x1350 social + 1200x630 hero); player-name-only search terms |
-| Articles (5) | COMPLETE | article-01 Shelton/Alcaraz upset (Elena Voss, ~650 words, Tier 1); article-02 Tiafoe comeback (Ryan Calloway, ~600 words, Tier 1); article-03 All-American SF preview (Marcus Cole, ~600 words, Tier 1); article-04 Gauff/Andreeva preview (Elena Voss, ~550 words, Tier 1); article-05 QF Day 2 preview (Ryan Calloway, ~550 words, Tier 2) |
-| Fact-Check | COMPLETE | 06-fact-check-log.md — auto-generated by verify-facts.py; image manifest 10 entries all not_started (expected) |
-| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles; posting-window warnings known cosmetic issue |
-| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries (5 stories × 2), all not_started, imagn source |
-| Review Dashboard | COMPLETE | review-dashboard.html — 27 items |
-| Publish Dashboard | BLOCKED | content-dashboards repo not in session's authorized repository set (403 proxy) — known recurring issue |
-| PostPlanner Export | COMPLETE (0 posts) | Known parser compat issue — returns 0 posts; ran both standard and --tobi |
-| WordPress Publish | BLOCKED | WordPress API proxy returns 403 Forbidden — known recurring issue; articles queued as drafts |
-| Story History | COMPLETE | 5 new entries appended to Tennis/story-history.md (Sep 9 section) |
-
-- **Stories:** 5 stories (4 Tier 1, 1 Tier 2)
-- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
-- **Articles:** 5 (bylines: Elena Voss [S1, S4], Ryan Calloway [S2, S5], Marcus Cole [S3])
-- **PostPlanner exports:** 0 posts (known parser compat issue)
-- **Key stories:** Shelton stuns Alcaraz 6-7(5), 6-1, 6-3, 1-6, 7-6(10-6) in 4h28m finish at 3:30 AM ET (biggest win of Shelton's career; first career win over Alcaraz); Tiafoe def. Michelsen 5-7, 3-6, 7-5, 6-3, 7-6 comeback from 2 sets down; All-American men's SF Tiafoe vs. Shelton set for Friday; Gauff vs. Andreeva women's QF 12:30 PM ET today; Zverev/VdZ + Pegula/Navarro evening QFs
-- **Issues:** PostPlanner 0 posts (known); WordPress blocked by proxy; dashboard push blocked (not in session authorized repos)
-- **Story history:** Updated with all 5 stories
-
-### 2026-09-08 — Full Pipeline Run
-- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
-- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
-- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
-- **Articles:** 5 (bylines: Marcus Cole [S1, S4], Ryan Calloway [S2, S5], Elena Voss [S3])
-- **PostPlanner exports:** 0 posts (known parser compat issue — same as prior runs)
-- **Key stories:** Sabalenka def. Noskova 6-4, 6-3 (WTA official, scores24.live); Tiafoe vs. Michelsen QF 1 PM ET (ATP Tour, CBS Sports); Gauff vs. Andreeva QF (CBS Sports, Tennis Majors); Alcaraz vs. Shelton night session (usopen.org, ESPN); Zverev vs. VdZ + Pegula vs. Navarro Wed (Sunday Guardian, tennistemple.com)
-- **Issues:** image manifest warning (expected for imagn source); compile posting-window warnings cosmetic (known); PostPlanner 0 posts (known parser issue); WordPress blocked by proxy; dashboard push blocked by proxy (content-dashboards not in session authorized repos)
-- **Story history:** Updated with all 5 stories
-
-### 2026-09-07 — Full Pipeline Run
-- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
-- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
-- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
-- **Articles:** 5 (bylines: Elena Voss [S1, S4], Ryan Calloway [S2], Marcus Cole [S3, S5])
-- **PostPlanner exports:** 0 posts (known parser compat issue — same as prior runs)
-- **Key stories:** Alcaraz returns from 139-day absence to win R1 6-4, 6-4, 6-4 vs Safiullin (first match since April wrist injury); Tsitsipas stuns No. 10 Fils 4-6, 7-6(3), 6-1, 6-4 (second major upset after Djokovic D1; Tsitsipas was 0-5 vs Fils); Sabalenka opens three-peat bid def. Osorio 6-4, 6-4; Day 3 preview (Zverev, Gauff, Fritz, Keys, Eala all opening); Men's draw shakeup analysis (Sinner/Djokovic/Fils all gone before R2)
-- **Issues:** image manifest warning (expected for imagn source); compile posting-window warnings cosmetic (known); PostPlanner 0 posts (known parser issue); WordPress blocked by proxy; dashboard push blocked by proxy (content-dashboards not in session authorized repos)
-- **Story history:** Updated with all 5 stories
-
-### 2026-08-31 — Full Pipeline Run
-- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
-- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
-- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
-- **Articles:** 5 (bylines: Elena Voss [S1, S4], Ryan Calloway [S2], Marcus Cole [S3, S5])
-- **PostPlanner exports:** 0 posts (known parser compat issue — same as prior runs)
-- **Key stories:** Djokovic historic R1 exit to Navone 7-6(5), 5-7, 4-6, 6-2, 6-1 while ill (first-ever US Open R1 loss, 78-win streak ended); Day 2 preview (Alcaraz returns vs. Safiullin, Sabalenka opens three-peat bid, Fils vs. Tsitsipas); Williams sisters fall R1 doubles (Grand Slam reunion ends); Eala opens vs. Stoiana (No. 17 seed, historic Filipino record); Fils-Tsitsipas ATP "match to watch"
-- **Issues:** image manifest all not_started (expected for imagn source); compile posting-window warnings cosmetic (known); PostPlanner 0 posts (known parser issue); WordPress blocked by proxy; dashboard push blocked by proxy (content-dashboards not in session authorized repos)
-- **Story history:** Updated with all 5 stories
-
-### 2026-08-30 — Full Pipeline Run
-- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
-- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
-- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
-- **Articles:** 5 (bylines: Marcus Cole [S1, S4], Elena Voss [S2, S5], Ryan Calloway [S3])
-- **PostPlanner exports:** 0 posts (known parser compat issue — same as prior runs)
-- **Key stories:** Buse wins Winston-Salem 6-3, 6-2 over Fery (youngest champion at 22y 5m, first Peruvian since 2004); US Open Day 1 opens (Djokovic vs. Navone tonight 7 PM ET, Rybakina vs. Frodin, Pegula vs. Ruse, Venus Williams vs. Kenin); Venus Williams eliminated R1 by Kenin (focuses on doubles with Serena — Serena's first Grand Slam since 2022 retirement, 14-time Grand Slam doubles champs); Rybakina entered singles draw despite not practicing since Cincinnati ankle injury; Alcaraz returns Monday vs. Safiullin (first match since April), Eala opens Monday vs. Stoiana (historic No. 17 seed)
-- **Issues:** image manifest all not_started (expected for imagn source); compile posting-window warnings cosmetic (known); PostPlanner 0 posts (known parser issue); WordPress blocked by proxy; dashboard push blocked by proxy (content-dashboards not in session authorized repos)
-- **Story history:** Updated with all 5 stories
-
-## Known Issues (Recurring)
-- WordPress publish: 403 proxy block — articles queued as drafts, pending manual publish or proxy fix
-- PostPlanner export: parser compat issue returns 0 posts every run
-- content-dashboards push: 403 proxy block (not in session authorized repo set)
-- Image manifest warnings from dashboard generator: expected (imagn images are sourced separately)

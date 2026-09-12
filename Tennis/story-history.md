@@ -2238,3 +2238,50 @@ Track previously covered stories to avoid repetition and maintain content freshn
 - **Byline:** Elena Voss
 - **Key Facts:** Zverev won Roland Garros 2026 (HIGH); Khachanov in 3rd GS SF (HIGH); match 3 PM ET (MEDIUM)
 - **Follow-Up Opportunities:** SF result; men's final Sunday
+
+## 2026-09-12
+
+### Story 1: Shelton Defeats Tiafoe in All-American Semifinal, Reaches First Grand Slam Final
+- **Date:** 2026-09-12
+- **Angle:** FOLLOW-UP (2026-09-11 S3: Shelton vs. Tiafoe all-American SF match-day) — RESULT: Ben Shelton (USA, No. 8) defeated Frances Tiafoe (USA, No. 11) 4-6, 6-3, 6-3, 7-5. First Grand Slam final for Shelton (age 23). First Black American man in US Open final since Arthur Ashe in 1972. First Black American man in any Grand Slam final since MaliVai Washington at Wimbledon 1996. Will face Zverev Sunday.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Elena Voss
+- **Key Facts:** Score 4-6, 6-3, 6-3, 7-5 (HIGH — CBS Sports, NBC Sports, ESPN); First GS final for Shelton (HIGH); Ashe 1972 last Black American in US Open final (HIGH — ESPN, Sunday Guardian Live); Washington 1996 last Black American in any GS final (HIGH)
+- **Follow-Up Opportunities:** Men's final result Sunday
+
+### Story 2: Zverev Defeats Khachanov to Reach Third Consecutive Grand Slam Final in 2026
+- **Date:** 2026-09-12
+- **Angle:** FOLLOW-UP (2026-09-11 S5: Zverev vs. Khachanov SF match-day) — RESULT: Alexander Zverev (GER, No. 1) defeated Karen Khachanov 6-3, 7-6(7), 7-6(6). Third consecutive Grand Slam final of 2026 (Roland Garros won, Wimbledon finalist, US Open finalist). Only 12th man since 1978 to reach GS finals on 3 different surfaces in one season.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Marcus Cole
+- **Key Facts:** Score 6-3, 7-6(7), 7-6(6) (HIGH — Tennis Majors, ESPN); 12th man since 1978 on 3 surfaces (HIGH — ATP Tour); Khachanov led 4-1 in 3rd set tiebreak (HIGH — Tennis Majors)
+- **Follow-Up Opportunities:** Men's final result Sunday
+
+### Story 3: Women's Final Today — Sabalenka vs. Rybakina 4 PM ET
+- **Date:** 2026-09-12
+- **Angle:** FOLLOW-UP (2026-09-11 S2: Women's Final preview) — MATCH-DAY: Aryna Sabalenka vs. Elena Rybakina at 4 PM ET Saturday at Arthur Ashe. Sabalenka chasing 3rd consecutive US Open (only Serena Williams did this in Open Era, 2012-14). Rybakina becomes world No. 1 Monday regardless. H2H 10-7 Sabalenka, this is their 3rd GS final meeting (split 1-1 entering today). ESPN broadcast.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Ryan Calloway
+- **Key Facts:** Match 4 PM ET Saturday (HIGH — Yahoo Sports, Olympics.com); H2H 10-7 Sabalenka (HIGH); Rybakina won 2026 AO final 6-4, 4-6, 6-4 (HIGH); Rybakina new No. 1 Monday regardless (HIGH)
+- **Follow-Up Opportunities:** Women's final result
+
+### Story 4: Men's Final Sunday — Zverev vs. Shelton Preview
+- **Date:** 2026-09-12
+- **Angle:** NEW STORY — Sunday men's final preview. Zverev (No. 1, Roland Garros champion) vs. Shelton (No. 8, first GS final). Shelton win = first American men's GS title since Roddick 2003. Zverev win = second GS of 2026. 4 PM ET ESPN Sunday.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Elena Voss
+- **Key Facts:** Sunday 4 PM ET final (HIGH); Roddick 2003 last American GS win (HIGH); Zverev won Roland Garros 2026 (HIGH); Zverev H2H lead over Shelton (MEDIUM)
+- **Follow-Up Opportunities:** Men's final result Sunday
+
+### Story 5: First Black American Man in US Open Final Since Arthur Ashe — Legacy Feature
+- **Date:** 2026-09-12
+- **Angle:** NEW STORY — Historical feature. Shelton is first Black American man in US Open final since Ashe 1972. First in any GS final since MaliVai Washington Wimbledon 1996. Both Shelton and Tiafoe reached SF of same draw. Court named after Ashe.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 1 Image Concept
+- **Tier:** 2
+- **Byline:** Marcus Cole
+- **Key Facts:** Ashe 1972 US Open final (HIGH — per sources); Washington 1996 Wimbledon final (HIGH); Arthur Ashe Stadium named for Ashe (HIGH)
+- **Follow-Up Opportunities:** Men's final result / Shelton win would amplify this story enormously
