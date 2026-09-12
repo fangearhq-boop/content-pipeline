@@ -1,7 +1,7 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Current Status
-**Last Run:** 2026-09-11
+**Last Run:** 2026-09-12
 **Steps Completed:** All pipeline steps (1-14); WordPress publish blocked by proxy policy
 
 ## Deploy Info
@@ -11,6 +11,26 @@
 - **Note:** Dashboard publish push blocked (content-dashboards not in authorized repo set)
 
 ## Pipeline Run Log
+### 2026-09-12 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
+- Step 10: verify-facts.py run — 5 stories, 23 claims verified (all HIGH)
+- Step 10b: compile-content-data.py — 5 stories, 7 tweets, 5 articles compiled (no char limit errors)
+- Step 11: Image manifest created (not_started for all — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (22 items)
+- Step 14a: publish-unified-dashboard.py — push blocked (proxy policy for content-dashboards)
+- Step 14b: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 14c: generate-postplanner-export.py --tobi — 0 posts (known parsing issue)
+- Step 15: publish-to-wordpress.py — BLOCKED (fanrumor.com not allowed by egress proxy)
+- Git commit + push: ✅ Committed and pushed to main
+
+**Stories covered:**
+1. T1 FOLLOW UP: Kawhi Leonard — DOJ Federal Criminal Investigation Opens Into Clippers Scoreboard Deal
+2. T1 NEW: Stephen Curry — Warriors Extension Decision Window Narrows, Media Day Sept. 28
+3. T2 FOLLOW UP: Jalen Duren / Pistons Contract Stalemate — $10M Gap, Oct. 1 Qualifying Offer Deadline
+4. T2 FOLLOW UP: Tyler Herro / Bucks Rebuild — Hometown Kid Arrives With Chip on His Shoulder
+5. T2 NEW: Portland Trail Blazers — Lillard and Morant Backcourt Era Begins
+
 ### 2026-09-11 ✅ (Automated)
 - Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
 - Step 10: verify-facts.py run — 5 stories, 24 claims verified (all HIGH)

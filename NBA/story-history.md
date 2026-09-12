@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-09-12
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-12 | T1 | Kawhi Leonard — DOJ Federal Criminal Investigation Opens Into Clippers Scoreboard Deal | X(2), FB, Article | FOLLOW UP |
+| 2026-09-12 | T1 | Stephen Curry — Warriors Extension Decision Window Narrows, Media Day Sept. 28 | X(2), FB, Article | NEW |
+| 2026-09-12 | T2 | Jalen Duren / Pistons Contract Stalemate — $10M Gap, Oct. 1 Qualifying Offer Deadline | X(1), FB, Article | FOLLOW UP |
+| 2026-09-12 | T2 | Tyler Herro / Bucks Rebuild — Hometown Kid Arrives With Chip on His Shoulder | X(1), FB, Article | FOLLOW UP |
+| 2026-09-12 | T2 | Portland Trail Blazers — Lillard and Morant Backcourt Era Begins | X(1), FB, Article | NEW |
+
+### STORY 1: Kawhi Leonard — DOJ Federal Criminal Investigation
+- **Tier:** 1
+- **Category:** Los Angeles Clippers / Kawhi Leonard / DOJ Investigation
+- **Key facts:** DOJ Eastern District of NY opened criminal probe into Clippers-Leonard scoreboard kickback; NBA penalties: $30M fine, 5 first-round picks 2029-33 stripped, Ballmer suspended 1 year, Frank suspended 6 months; Leonard fined $700K, Robertson banned 5 years from NBA business; Trade to Toronto proceeding — Leonard not suspended; SEC contacted Daktronics; Joe Sandberg guilty plea mentioned as factor; investigation in earliest stages
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Federal charges filed or grand jury activity; Kawhi's first game for Raptors; investigation widens or closes
+
+### STORY 2: Stephen Curry — Extension Decision
+- **Tier:** 1
+- **Category:** Golden State Warriors / Stephen Curry / NBA Contract
+- **Key facts:** Eligible since Aug. 29; 2-year max = $136.7M; Warriors gave 3 options: 1-year max, 2-year max, or free agency; media day Sept. 28 = key looming date; Hawaii training camp Sept. 29; Curry says "at the right time"; wants to finish career in Golden State
+- **Status:** NEW
+- **Follow-up ideas:** Extension signed before media day; media day announcement or absence thereof; free agency if unsigned
+
+### STORY 3: Jalen Duren / Pistons Stalemate
+- **Tier:** 2
+- **Category:** Detroit Pistons / Jalen Duren / NBA Contract
+- **Key facts:** Pistons offer: 5yr/$190M; Duren wants: 5yr/$200M; gap = $10M total; Oct. 1 QO deadline; QO value: $9.6M; ESPN: "staring contest"; Duren: third-team All-NBA, Pistons were EC No. 1 seed; camp opens Sept. 29
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Deal or no deal by Oct. 1; QO signed; 2027 RFA competing offers
+
+### STORY 4: Tyler Herro / Bucks Rebuild
+- **Tier:** 2
+- **Category:** Milwaukee Bucks / Tyler Herro / NBA Rebuild
+- **Key facts:** Herro from Whitnall HS, Greenfield WI (20 min from Fiserv Forum); new coach Taylor Jenkins; quote: "we want to win as many games as possible and really set a culture from day one"; Myles Turner expected to start; roster: Kel'el Ware, Jaime Jaquez Jr., Jakucionis, Nate Ament (No. 13); first camp without Giannis since 2013
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Camp performance, Jenkins system install, preseason results
+
+### STORY 5: Portland Trail Blazers — Lillard-Morant Backcourt
+- **Tier:** 2
+- **Category:** Portland Trail Blazers / Damian Lillard / Ja Morant
+- **Key facts:** Morant acquired June 29 from Memphis; Lillard returning from torn Achilles (missed all 2025-26); Lillard age 36; Morant age 27; backcourt also includes Henderson, Holiday, Sharpe; Blazers have 12 guaranteed contracts, final spots up for grabs; coach Chauncey Billups; camp opens Sept. 29; early reports on Lillard recovery described as positive
+- **Status:** NEW
+- **Follow-up ideas:** Health reports from camp, lineup decisions, preseason games
+
 ## 2026-09-11
 
 | Date | Tier | Title | Platforms | Status |

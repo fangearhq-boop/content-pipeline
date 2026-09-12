@@ -1,0 +1,314 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-12",
+  "compiled_at": "2026-09-12T11:18:43.635598+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Kawhi Leonard — Federal Criminal Investigation Opens (T1 FOLLOW UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The NBA hit the Clippers: $30M fine, 5 first-round picks, Ballmer suspended.\n\nNow the DOJ has opened a federal criminal investigation into the same Kawhi Leonard scoreboard deal.\n\nThe Raptors trade is still happening. The legal mess just went federal. #Raptors #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Raptors",
+            "#NBA"
+          ],
+          "char_count": 265
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The Clippers allegedly routed arena scoreboard money into a Kawhi Leonard endorsement deal.\n\nThe NBA penalized them. The DOJ is now asking if it also broke federal law.\n\nOne case is closed. The other is just beginning. #Clippers #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Clippers",
+            "#NBA"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-kawhi-leonard-doj-federal-investigation-clippers.html",
+        "headline": "The Kawhi Leonard Case Just Went Federal",
+        "word_count": 844
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Stephen Curry — Extension Decision Window Narrows (T1 NEW)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Steph Curry is eligible for a 2-year, $136.7M extension with the Warriors.\n\nHe hasn't signed it.\n\nThree options: 1-year max, 2-year max, or free agency. He says he wants to finish in Golden State. Media day is Sept. 28. #Warriors #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Warriors",
+            "#NBA"
+          ],
+          "char_count": 234
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The Warriors gave Steph Curry a blank check to structure his own future.\n\nHe said he wants to finish in Golden State. \"At the right time.\"\n\nMedia day: 16 days away. The right time is approaching. #Warriors #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Warriors",
+            "#NBA"
+          ],
+          "char_count": 210
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-stephen-curry-warriors-extension-decision-2026.html",
+        "headline": "Stephen Curry Has a Decision to Make. The Warriors Have 16 Days to Get an Answer.",
+        "word_count": 774
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Jalen Duren / Pistons Stalemate Deepens (T2 FOLLOW UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Pistons: $190M over 5 years.\nDuren: $200M over 5 years.\n\n$10M gap. Oct. 1 deadline. If no deal, Duren takes the $9.6M QO and walks in 2027.\n\nMost important staring contest in Detroit. #Pistons #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Pistons",
+            "#NBA"
+          ],
+          "char_count": 197
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-jalen-duren-pistons-contract-stalemate-october-deadline.html",
+        "headline": "Pistons and Jalen Duren Are $10 Million Apart. October 1 Is 19 Days Away.",
+        "word_count": 693
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Tyler Herro / Bucks Rebuild — Hometown Chip on Shoulder (T2 FOLLOW UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Tyler Herro went to Whitnall High School — 20 minutes from Fiserv Forum.\n\nNow he's the face of the Milwaukee Bucks rebuild after the Giannis trade.\n\nNew coach. New era. Kid from Greenfield leading the way. #Bucks #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Bucks",
+            "#NBA"
+          ],
+          "char_count": 217
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-tyler-herro-bucks-rebuild-homecoming-2026.html",
+        "headline": "Tyler Herro Went to High School 20 Minutes From Fiserv Forum. Now He's Building Something There.",
+        "word_count": 713
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Portland Trail Blazers — Lillard-Morant Backcourt Era Begins (T2 NEW)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Dame Lillard returning from a torn Achilles.\nJa Morant traded from Memphis in June.\n\nPortland just assembled one of the most electric backcourts in the West.\n\nIt works if both stay healthy. That question has followed both of them. #TrailBlazers #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TrailBlazers",
+            "#NBA"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-portland-blazers-lillard-morant-backcourt-2026.html",
+        "headline": "Portland Built the Most Electric Backcourt in the West. Now It Has to Stay Healthy.",
+        "word_count": 774
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
