@@ -3,6 +3,62 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-09-12
+
+### Story 1: USA WNT — Game Day at Devon Park
+- **Date:** 2026-09-12
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Game day — USA vs. No. 7 Mexico TONIGHT 7:30 PM ET at Devon Park OKC. Gasso departed Norman today. Netherlands (No. 6) = top-seed decider. Top 2 → Redcliffe QLD 2027 Finals (LA28 qualifier). Garcia + Mulipola 2020 Olympians; 7 World Games golds. USA 5-0 at this venue from IC. Play-off bracket Sept. 16: 1st vs. 2nd 1PM, 3rd vs. 4th 4PM, Repechage 7PM.
+- **Content Produced:** Article (article-01, Jordan Reeves), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - USA vs. Mexico opener result (TONIGHT)
+  - USA vs. Netherlands round-robin (top-seed decider)
+  - Sept. 16 play-off bracket and Redcliffe qualification
+
+### Story 2: Class of 2028 — Day 3 of Contact Window
+- **Date:** 2026-09-12
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Day 3 of the Sept. 9 in-person window. OU: Finlee Williams (No. 1 overall) committed. Tennessee: Galindo + Wilson (U-18 WNT). LSU: five-star Joley Bennett. Peyton Ushery (No. 2) → Georgia. 3+ dozen committed. 1,226 EIS nominations record.
+- **Content Produced:** Article (article-02, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Top-10 prospect commits continuing to announce this week
+  - OU official visit schedule
+  - Class rankings solidifying through October
+
+### Story 3: Oklahoma — Gasso in OKC, Associate Coaches Lead Camp
+- **Date:** 2026-09-12
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Gasso, JT Gasso, Rocha now at Devon Park for Team USA through Sept. 16. Associate coaches running OU fall practice. Wells: 2 HRs off Berzon (2x AA, 486.1 IP, 2.02 ERA, 406 K, LSU). Harter: .346 BA (MTSU). Fall opener Sept. 30 vs. Tarleton State (18 days).
+- **Content Produced:** Article (article-03, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Gasso returns Sept. 17 — final 13 days with full staff before opener
+  - OU fall opener Sept. 30
+
+### Story 4: Texas — Week 5, 17 Days Out
+- **Date:** 2026-09-12
+- **Tier:** 3
+- **Classification:** FOLLOW UP
+- **Angle:** Week 5 = execution/refinement. Torres (2026 D1Softball POY, .530BA/16HR/56RBI FSU) + Kavan (2x WCWS MOP, senior). Fall opener Sept. 29 vs. Murray State (McCombs, 6 PM CT free, 17 days). Three-peat: only UCLA 1988-90 + OU 2021-23. 2027 schedule released Sept. 8.
+- **Content Produced:** Article (article-04, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Texas fall opener Sept. 29
+  - Torres first live game action at Texas
+
+### Story 5: Texas Tech — Week 5, Identity Crystallizing
+- **Date:** 2026-09-12
+- **Tier:** 3
+- **Classification:** FOLLOW UP
+- **Angle:** Week 5. Beachum (.406BA/10HR/69RBI FSU), Pickering (No. 2 transfer, .384BA/50HR OU), Heavener (LHP 13-9/2.81ERA/128K LSU). 7 All-Americans. Glasco Year 2. 2026 WCWS runner-up.
+- **Content Produced:** Article (article-05, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - TTU fall opener/scrimmages
+  - Glasco Year 2 team identity media
+
+---
+
 ## 2026-09-11
 
 ### Story 1: USA WNT — ONE DAY to Devon Park
