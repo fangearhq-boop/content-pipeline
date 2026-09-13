@@ -1,6 +1,37 @@
 # Tennis Fanrecap — Pipeline Status
 
-## Current Run: 2026-09-12
+## Current Run: 2026-09-13
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Rybakina def. Sabalenka 6-4, 5-7, 6-2 Women's Final (CNN/WTA/CBS/AlJazeera/ABCNews); Zverev vs. Shelton Men's Final today 2 PM ET ESPN (AlJazeera/ATP Tour/Yahoo); Shelton first Black American in USO final since Ashe 1972 (TennisMajors/SundayGuardian/Olympics.com); Rybakina No. 1 Monday, ends Sabalenka 99-week run (WTA/CNN/Yahoo) |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Sep 12 S3: Women's Final preview → RESULT); S2 FOLLOW-UP (Sep 12 S4: Men's Final preview → match day); S3 FOLLOW-UP (Sep 12 S5: Ashe legacy → Shelton match day history); S4 NEW (Rybakina No. 1 ranking confirmed); S5 NEW (2026 WTA season wrap) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2); bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: CNN, WTA Tennis, CBS Sports, Al Jazeera, ABC News, ATP Tour, Yahoo Sports, Tennis Majors, Sunday Guardian Live, Olympics.com, NBC Sports |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 6 posts across 5 stories; all ≤280 chars verified; code block format |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 8 imagn concepts across 5 stories |
+| Articles (5) | COMPLETE | article-01 Rybakina wins Women's Final (Elena Voss T1); article-02 Zverev vs. Shelton match day (Marcus Cole T1); article-03 Shelton Arthur Ashe legacy (Ryan Calloway T1); article-04 Rybakina new No. 1 (Elena Voss T2); article-05 2026 WTA season wrap (Marcus Cole T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — auto-generated; 40 claims, HIGH; image missing warnings cosmetic (imagn, known) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 6 X posts, 5 articles; posting-window warnings cosmetic (known) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 8 entries, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 26 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser issue — same as all prior runs |
+| WordPress Publish | BLOCKED | 403 proxy — fanrumor.com blocked (known recurring issue) |
+| Story History | COMPLETE | 5 entries prepended to Tennis/story-history.md |
+
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 6 X posts + 5 FB posts (5 long-form + 5 captions) = 11 total
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
+- **PostPlanner exports:** 0 posts (known parser compat issue)
+- **Key stories:** Rybakina def. Sabalenka 6-4, 5-7, 6-2 (3rd GS title, first USO crown, $5.5M prize, new No. 1 Monday); US Open Men's Final today 2 PM ET — Zverev vs. Shelton (ESPN); Shelton first Black American in USO final since Ashe 1972, one win from ending 23-year American drought; Rybakina takes No. 1 ranking from Sabalenka (99-week streak ends); 2026 WTA season wrap (3 champions, top-4 seeds all in SF)
+- **Issues:** PostPlanner 0 posts (known); WordPress blocked by proxy; dashboard push blocked (not in session authorized repos)
+
+---
+
+## Previous Run: 2026-09-12
 
 | Step | Status | Notes |
 |------|--------|-------|
