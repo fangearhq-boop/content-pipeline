@@ -3,6 +3,65 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-09-13
+
+### Story 1: USA WNT — Day 2 at Devon Park, Netherlands Top-Seed Showdown
+- **Date:** 2026-09-13
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** USA beat No. 7 Mexico on Day 1. Day 2 features USA vs. Brazil 2 PM ET then Netherlands No. 6 at 8 PM ET — the top-seed decider. Top 2 teams advance to 2027 Finals in Redcliffe QLD (LA28 qualifier). Sept. 16 play-off bracket follows. USA 5-0 at Devon Park. Gasso/JT Gasso/Rocha coaching staff. Garcia+Mulipola Tokyo 2020 silver medalists. 4 Sooners in lineup (Brito, Coleman, Jennings, Maxwell). Broadcast: AWSN.
+- **Content Produced:** Article (article-01, Emily Rawlings), X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - USA vs. Netherlands result TONIGHT — top-seed locked or contested
+  - Sept. 16 play-off bracket results and Redcliffe qualification announcements
+  - Gasso/WNT staff return to Norman after Sept. 16
+
+### Story 2: Class of 2028 — Day 4 Commit Wave, Power Programs Moving Fast
+- **Date:** 2026-09-13
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Day 4 of Sept. 9 in-person window. FSU: first 2028 commit Paityn Donalson (.693 BA, 11 HR, 50 RBI, 35 SB as a sophomore from Lakeland Christian HS FL — two-way player). Texas Tech: Star Gutierrez (OF, first TTU 2028 commit). Tennessee: Sophia Galindo + Nevaeh Wilson. Florida: Kate Losh (P/two-way) + Ryann Harris (C). OU: Braylyn Saenz (MI, No. 41, 13th at position) — also hosted Schlader + Campos for official visits.
+- **Content Produced:** Article (article-02, Jordan Reeves), X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - No. 1 Finlee Williams (OU commit) confirmed vs. others closing in on top-10
+  - Official visit announcements from OU, FSU, Texas, Florida
+  - Class rankings shifts mid-October
+
+### Story 3: Oklahoma Sooners — Gasso in OKC, Associate Coaches Leading Fall Camp
+- **Date:** 2026-09-13
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Gasso, JT Gasso, Rocha all with WNT in OKC through Sept. 16. Associate coaches running Norman camp independently. Wells (32 HR, NCAA freshman record), Berzon (2x AA, 486.1 IP, 2.02 ERA, 406 K from LSU), Harter (.346 from MTSU). Fall opener vs. Tarleton State Sept. 30 at Love's Field = 17 days. 8 games all at Love's Field through Nov. 4.
+- **Content Produced:** Article (article-03, Sarah Mitchell), X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Gasso return to Norman Sept. 16
+  - First full-staff practice week (Sept. 17-29)
+  - Sept. 30 fall opener results vs. Tarleton State
+
+### Story 4: Texas Longhorns — NFCA Coaching Staff of the Year (2nd Consecutive), 16 Days to Fall Ball
+- **Date:** 2026-09-13
+- **Tier:** 3
+- **Classification:** FOLLOW UP
+- **Angle:** Texas won 2026 WCWS 53-12, swept TTU in championship. NFCA ATEC/NFCA National Coaching Staff of Year 2nd consecutive (Mike White). Isa Torres (D1Softball 2026 POY, .530 BA, 16 HR, 56 RBI from FSU) transferring to Austin — Georgetown TX native. Hannah Kavan = only 2x WCWS MOP in history. Fall opener Sept. 29 vs. Murray State at McCombs Field, free, 6 PM CT. Three-peat would match UCLA 1988-90 and OU 2021-23.
+- **Content Produced:** Article (article-04, Emily Rawlings), X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Sept. 29 fall opener — first chance to see Torres in burnt orange
+  - Torres + Kavan integration through October fall slate
+  - Three-peat narrative through winter signing day
+
+### Story 5: Texas Tech Red Raiders — Glasco Year 2, First 2028 Commit Arrives
+- **Date:** 2026-09-13
+- **Tier:** 3
+- **Classification:** FOLLOW UP
+- **Angle:** TTU 2026 WCWS runner-up (swept 7-3, 4-1 by Texas in championship). Glasco Year 2 with 7 All-Americans: Beachum (.406 BA, 10 HR, 69 RBI from FSU), Pickering (No. 2 transfer, .384 BA, 50 career HR from OU), Heavener (LHP, 13-9, 2.81 ERA, 128 K from LSU). First 2028 commit: Star Gutierrez (OF) before fall camp is 2 weeks old. Chemistry/culture merge = fall camp focus.
+- **Content Produced:** Article (article-05, Jordan Reeves), X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - More TTU 2028 commits as runner-up recruiting momentum builds
+  - Fall scrimmage results and lineup decisions
+  - Beachum/Pickering/Heavener integration evaluation
+
+---
+
 ## 2026-09-12
 
 ### Story 1: USA WNT — Game Day at Devon Park

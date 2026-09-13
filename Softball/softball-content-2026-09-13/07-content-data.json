@@ -1,0 +1,279 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-13",
+  "compiled_at": "2026-09-13T10:24:01.047780+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "X + Facebook",
+      "type": "Story 1 (USA WNT Day 2)"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "X + Facebook",
+      "type": "Story 2 (Class 2028 Day 4)"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "X + Facebook",
+      "type": "Story 3 (OU Fall Camp)"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "X + Facebook",
+      "type": "Story 4 (Texas Fall)"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "X + Facebook",
+      "type": "Story 5 (Texas Tech)"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "X",
+      "type": "Story 1 follow-up (USA vs NL TONIGHT)"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "USA WNT — Day 2 Double-Header at Devon Park",
+      "tier": 1,
+      "status": "",
+      "angle": "USA beat Mexico in a dominant opening-night win Saturday. Today (Day 2), Team USA plays Brazil at 2 PM ET and then faces No. 6 Netherlands at 8 PM ET — the game that decides the top seed and the direct path to Redcliffe 2027 Finals. Top 2 advance; 3rd/4th go to Repechage (Sept. 16). LA28 on the line. Garcia, Mulipola, Brito, Coleman, Jennings, Maxwell all in action.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Team USA beat No. 7 Mexico at Devon Park Saturday night.\n\nUSA vs. Netherlands tonight at 8 PM ET — the top-seed decider. Win and USA locks up a direct path to the 2027 Finals in Redcliffe. LA28 is on the line.\n\n#SoftballNation #TeamUSA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SoftballNation",
+            "#TeamUSA"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-usa-wnt-day-2-netherlands-top-seed.html",
+        "headline": "Day 2 at Devon Park: USA Faces Netherlands Tonight in Top-Seed Showdown",
+        "word_count": 503
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "USA WNT (Additional — Evening post for tonight's NL game)\n\n**Social Image (1080×1350, 4:5 vertical):**\n- Visual Description: USA vs. Netherlands matchup concept; flag imagery or scoreboard graphic feel\n- Photo Search Terms: Rachel Garcia USA Softball, USA softball Devon Park\n- Text Overlay: \"USA vs. No. 6 Netherlands\" / Subtitle: \"TONIGHT 8 PM ET | Devon Park OKC\"\n- Text Colors: Headline: White (#FFFFFF) | Subtitle: Coral (#FF6F61) — urgent/game-night feel\n- Composition: High-energy batting or pitching action; crowd visible in background"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "USA WNT — Day 2 Double-Header at Devon Park\n**Classification:** FOLLOW UP (covered Sept. 12 — game-day preview; now Day 2 with Day 1 result)\n**Sources:**\n1. D1Softball.com — \"Team USA Power Show Highlights Day One of WBSC World Cup Group Stage\" (Sept. 12, 2026): Confirms USA defeated Mexico in a dominant win on Day 1 (Saturday night closer at Devon Park, OKC).\n2. WBSC.org — Schedule & Results page: Confirms Day 2 schedule: USA vs. Brazil 2:00 PM ET, Mexico vs. Netherlands 5:00 PM ET, Netherlands vs. USA 8:00 PM ET.\n3. WBSC.org — \"Day 1 live blog\" and format/stakes article: Confirms tournament structure, top 2 advance to Redcliffe QLD 2027 Finals, play-off bracket Sept. 16.\n4. USA Softball roster announcement: Confirms Rachel Garcia, Dejah Mulipola (2020 Olympians), seven World Games 2025 gold medalists, Brito/Coleman/Jennings/Maxwell on roster.\n5. Previous pipeline coverage (Sept. 12): USA was 5-0 vs. this same field at International Cup same venue.\n**Key Facts (Confidence):**\n- USA defeated Mexico on Day 1 (Sept. 12) — dominant win per D1Softball — HIGH (confirmed headline/article)\n- Day 2 schedule: USA vs. Brazil 2 PM ET; Netherlands vs. USA 8 PM ET — HIGH (WBSC schedule page)\n- Netherlands (No. 6 WBSC) is the top-seed decider — HIGH (WBSC format article)\n- Top 2 advance to Redcliffe QLD 2027 Finals; 3rd/4th go Repechage Sept. 16 — HIGH (WBSC format article)\n- Garcia + Mulipola are 2020 Olympic team members — HIGH (USA Softball announcement)\n- Seven World Games 2025 gold medalists on roster — HIGH (USA Softball announcement)\n- Play-off bracket Sept. 16 — HIGH (WBSC format article)\n- Score of USA vs. Mexico game — UNVERIFIED (article confirms win but specific score not confirmed via web search; do not include exact score)\n- USA was 5-0 vs. this field at IC at Devon Park — MEDIUM (from pipeline, established)\n**Freshness:** Day 2 is happening TODAY (Sept. 13). USA-Mexico result is 12 hours old. This is the most time-sensitive story.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Class of 2028 — Day 4, Power Programs Locking In",
+      "tier": 1,
+      "status": "",
+      "angle": "Day 4 of the Sept. 9 in-person window. FSU lands first 2028 commit: Paityn Donalson (.693 BA, 11 HR, 50 RBI, 35 SB sophomore season, from Lakeland FL). Texas Tech gets its first 2028 commit: outfielder Star Gutierrez. Tennessee added Galindo + Wilson. Florida: Ryann Harris (catcher) and Kate Losh (two-way, 2nd Gators commit). OU: Braylyn Saenz (No. 41) and hosting Schlader + Campos.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Day 4 of the 2028 window. FSU, TTU, Tennessee, Florida and OU all added commits today.\n\nFSU headline: Paityn Donalson. Sophomore stats — .693 BA, 11 HR, 50 RBI, 35 SB.\n\nThe class is moving fast. 🧡\n\n#FSUSoftball #Softball2028",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#FSUSoftball",
+            "#Softball2028"
+          ],
+          "char_count": 224
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-class-2028-day-4-commit-wave-fsu-ttu.html",
+        "headline": "Day 4 Delivers: The 2028 Commit Wave Hits Power Programs",
+        "word_count": 497
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Class of 2028 — Day 4, Power Programs Locking In\n\n**Social Image (1080×1350, 4:5 vertical):**\n- Visual Description: Young player making big commitment, excitement/celebration moment; could be generic high school softball player celebrating\n- Photo Search Terms: High school softball commit (use stock if imagn unavailable), Paityn Donalson Lakeland, FSU softball\n- Text Overlay: \"2028 Commit Wave\" / Subtitle: \"FSU, TTU, Tennessee, Florida & More\"\n- Text Colors: Headline: White (#FFFFFF) | Subtitle: Gold (#F4C542)\n- Composition: Energetic action shot; bright school colors in background or uniform\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Class of 2028 — Day 4 of In-Person Window\n**Classification:** FOLLOW UP (window opened Sept. 9; Day 4)\n**Sources:**\n1. Yahoo Sports / Tomahawk Nation — FSU softball lands Paityn Donalson as first 2028 commit: confirms Lakeland, FL; .693 BA, 11 HR, 50 RBI, 35 SB (28 steals w/only 2 CS per some sources), sophomore year stats. Infielder/outfielder.\n2. Search results (extrainningsoftball.com, on3.com) — Star Gutierrez commits to Texas Tech as first TTU 2028 commit (outfielder).\n3. SI.com/Tennessee — Lady Vols land Sophia Galindo + Nevaeh Wilson for 2028.\n4. Search results — Florida: Ryann Harris (catcher, Sept. 6); Kate Losh (two-way pitcher/hitter, 2nd Gators 2028 commit).\n5. On3.com — OU hosted Sophia Schlader + Caelyn Campos; Braylyn Saenz (No. 41 overall, 13th at position) committed to OU.\n6. Linedrivemedia.com — \"Verbal News: A Big Start to the Recruiting Season for 2028s\" (Sept. 4, 2026): records Tennessee, LSU, OU early activity.\n7. Previous pipeline — 1,226 EIS nominations (record); Finlee Williams No. 1 overall committed to OU Sept. 11.\n**Key Facts (Confidence):**\n- In-person window opened Sept. 9 — HIGH (established)\n- FSU: Paityn Donalson, first 2028 FSU commit — HIGH (multiple sources confirm)\n- Donalson sophomore stats: .693 BA, 11 HR, 50 RBI, 35 SB — HIGH (Yahoo Sports)\n- Donalson from Lakeland Christian High School, Lakeland, FL — HIGH\n- Texas Tech: Star Gutierrez (outfielder) as first TTU 2028 commit — HIGH (search result confirms)\n- Tennessee: Sophia Galindo + Nevaeh Wilson — HIGH (SI.com Tennessee)\n- Florida: Ryann Harris (catcher) + Kate Losh (two-way) — HIGH (Yahoo Sports)\n- OU Braylyn Saenz (No. 41 overall) committed — HIGH (search)\n- OU hosted Sophia Schlader + Caelyn Campos — HIGH (search)\n- Finlee Williams No. 1 overall → OU (committed Sept. 11, Day 2) — HIGH (pipeline previous)\n- 1,226 EIS nominations record — MEDIUM (from earlier pipeline)\n- Over 3 dozen 2028 prospects committed since window opened — MEDIUM (from pipeline)\n**Freshness:** Window is actively ongoing. New commits announced daily this week. Very fresh.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Oklahoma Sooners — Fall at Full Throttle Without Gasso",
+      "tier": 2,
+      "status": "",
+      "angle": "Gasso, JT Gasso, and Rocha are in OKC through Sept. 16 for Team USA. Associate coaches running OU's fall practice. Wells (32 HR NCAA freshman record) and Berzon (2x AA, 486.1 IP, 2.02 ERA, 406 K from LSU) keep competing. Harter (.346 BA, MTSU) integrating. Fall opener Sept. 30 vs. Tarleton State (17 days). All eight fall dates at Love's Field.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "**Post 1 (Informative + Hook)**\n\nGasso, JT Gasso, and Rocha are in OKC coaching Team USA through Sept. 16.\n\nBack in Norman: Wells. Berzon. Harter. 17 days to the fall opener.\n\nThis Sooners squad isn't waiting on anyone. 🌪️\n\n#OUSoftball #Sooners",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#OUSoftball",
+            "#Sooners"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-ou-fall-camp-gasso-wnt-sooners-rolling.html",
+        "headline": "Gasso Is in OKC. The Sooners Are in Norman. Fall Camp Is Rolling Either Way.",
+        "word_count": 473
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Oklahoma Sooners — Fall at Full Throttle Without Gasso\n\n**Social Image (1080×1350, 4:5 vertical):**\n- Visual Description: Oklahoma softball player at fall camp; Love's Field or Sooner uniform prominent\n- Photo Search Terms: Kendall Wells Oklahoma, Sydney Berzon Oklahoma, Macie Harter Oklahoma\n- Text Overlay: \"Fall Camp: Full Throttle\" / Subtitle: \"17 Days to the Opener\"\n- Text Colors: Headline: White (#FFFFFF) | Subtitle: Gold (#F4C542)\n- Composition: Action shot from fall scrimmage; Sooner crimson and cream prominent\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Oklahoma Sooners — Fall at Full Throttle Without Gasso\n**Classification:** FOLLOW UP\n**Sources:**\n1. SoonerSports.com — Fall 2026 schedule: Sept. 30 opener vs. Tarleton State, all games Love's Field.\n2. USA Softball roster announcement / previous pipeline — Gasso, JT Gasso, Rocha all serving as WNT coaching staff through Sept. 16.\n3. Pipeline history (established Aug.-Sept.): Wells 32 HR NCAA freshman record; Berzon 2x AA/486.1 IP/2.02 ERA/406K (LSU); Harter .346 BA (MTSU).\n4. Heartland Sports / SI.com — Confirms OU fall schedule Battle Series through Nov. 4; Love's Field.\n**Key Facts (Confidence):**\n- Gasso + JT Gasso + Rocha at WNT Devon Park through Sept. 16 — HIGH (USA Softball staff listing)\n- Fall opener Sept. 30 vs. Tarleton State — HIGH (OU official schedule)\n- All games at Love's Field — HIGH (OU official)\n- Wells 32 HR NCAA freshman record (sophomore now) — HIGH (established pipeline)\n- Berzon 2x AA, 486.1 IP, 2.02 ERA, 406K (from LSU) — MEDIUM (established pipeline; carried)\n- Harter .346 BA (from MTSU) — MEDIUM (established)\n- 17 days to fall opener — HIGH (Sept. 30 minus Sept. 13 = 17 days)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Texas Longhorns — 16 Days to Fall Opener, Honors Keep Coming",
+      "tier": 3,
+      "status": "",
+      "angle": "Texas received the NFCA Coaching Staff of the Year award for the second consecutive year (June 2026). Back-to-back WCWS champions (53-12 in 2026, swept Texas Tech in championship). Torres (2026 D1Softball POY, .530 BA/16HR/56RBI from FSU) and Kavan (2x WCWS MOP, senior) lead a team 16 days from its Sept. 29 opener vs. Murray State at McCombs Field (6 PM CT, free). Three-peat: only UCLA 1988-90 and OU 2021-23 have done it.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "**Post 1 (Awards + Anticipation)**\n\nNFCA Coaching Staff of the Year. Again. 🏆🏆\n\nBack-to-back WCWS titles. Torres + Kavan locked in.\n\n16 days to the fall opener. Texas is ready to answer the only question left:\n\nCan they make it three? 🤘\n\n#HookEm #LonghornsoftBall #Softball2027",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HookEm",
+            "#LonghornsoftBall",
+            "#Softball2027"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-texas-nfca-honor-16-days-fall-opener.html",
+        "headline": "NFCA Honors, Back-to-Back Titles, and 16 Days to Fall Ball: Texas Is Ready",
+        "word_count": 515
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas Longhorns — 16 Days to Fall Opener, Honors Keep Coming\n\n**Social Image (1080×1350, 4:5 vertical):**\n- Visual Description: Texas Longhorns player or coaching staff celebrating, burnt orange prominent; WCWS trophy imagery optional\n- Photo Search Terms: Hannah Kavan Texas, Isa Torres Texas, Mike White Texas Softball, Texas Longhorns Softball\n- Text Overlay: \"NFCA Coaching Staff of the Year\" / Subtitle: \"16 Days to Fall Ball\"\n- Text Colors: Headline: White (#FFFFFF) | Subtitle: Gold (#F4C542)\n- Composition: Wide shot showing team/staff celebration or Longhorn on-field action\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Texas Longhorns — 16 Days to Fall Opener, Honors Keep Coming\n**Classification:** FOLLOW UP\n**Sources:**\n1. NFCA / TexasLonghorns.com — ATEC/NFCA National Coaching Staff of the Year: 2nd consecutive; staff is Mike White (HC), Rick Fremin, Pattie Ruth Taylor.\n2. Wikipedia / established: Texas 53-12 in 2026, swept Texas Tech in WCWS Championship (7-3, 4-1) June 3-4.\n3. Texas fall schedule: Sept. 29 opener vs. Murray State, McCombs Field, 6 PM CT, free.\n4. Pipeline history: Torres .530 BA/16HR/56RBI (2026 D1Softball POY from FSU); Kavan 2x WCWS MOP senior.\n5. Established: Three-peat bid — only UCLA 1988-90 and OU 2021-23 have won 3 consecutive.\n**Key Facts (Confidence):**\n- NFCA Coaching Staff of Year 2nd consecutive — HIGH (NFCA.org + TexasLonghorns.com)\n- 53-12 in 2026, swept TTU in championship 7-3 and 4-1 — HIGH (search result)\n- Back-to-back WCWS champions (2025, 2026) — HIGH\n- Fall opener Sept. 29 vs. Murray State, McCombs, 6 PM CT, free — HIGH (UT Athletics)\n- Torres 2026 D1Softball POY, .530 BA/16 HR/56 RBI (from FSU) — HIGH (established)\n- Kavan 2x WCWS MOP, senior — HIGH (established)\n- Three-peat: only UCLA 1988-90 + OU 2021-23 — HIGH (established)\n- 16 days to fall opener — HIGH (Sept. 29 minus Sept. 13 = 16 days)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Texas Tech Red Raiders — Glasco Year 2, First 2028 Commit Arrives",
+      "tier": 3,
+      "status": "",
+      "angle": "2026 WCWS runner-up. Glasco's Year 2 roster features Beachum (.406 BA/10HR/69RBI from FSU), Pickering (No. 2 transfer portal, .384 BA/50HR from OU), Heavener (LHP 13-9/2.81 ERA/128K from LSU) and 7 All-Americans. The program's first Class of 2028 commit arrives: outfielder Star Gutierrez signs on, signaling early program confidence.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "**Post 1 (Recruiting + Fall Camp Energy)**\n\nWCWS runner-up. 7 All-Americans. First 2028 commit already in. 🔴\n\nTexas Tech lands outfielder Star Gutierrez. Glasco is building for the next era.\n\nFall camp is just getting started.\n\n#WreckEm #Softball2028",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WreckEm",
+            "#Softball2028"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-texas-tech-glasco-year-2-first-2028-commit.html",
+        "headline": "Glasco Year 2: Texas Tech Lands First 2028 Commit as Fall Camp Takes Shape",
+        "word_count": 529
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas Tech Red Raiders — Glasco Year 2, First 2028 Commit Arrives\n\n**Social Image (1080×1350, 4:5 vertical):**\n- Visual Description: Texas Tech softball player or Glasco coaching, Red Raiders red and black prominent\n- Photo Search Terms: Jaysoni Beachum Texas Tech, Haley Pickering Texas Tech, Jayden Heavener Texas Tech, Gerry Glasco Texas Tech\n- Text Overlay: \"Glasco Year 2 Is Building\" / Subtitle: \"First 2028 Commit Lands in Lubbock\"\n- Text Colors: Headline: White (#FFFFFF) | Subtitle: Gold (#F4C542)\n- Composition: Dugout or celebration shot in red Raiders uniform\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Texas Tech Red Raiders — Glasco Year 2, First 2028 Commit Arrives\n**Classification:** FOLLOW UP\n**Sources:**\n1. Search results — Star Gutierrez (outfielder) commits to Texas Tech as first TTU 2028 recruit.\n2. Wikipedia/pipeline — 2026 Texas Tech Red Raiders: WCWS runner-up (swept by Texas in championship).\n3. TexasTech.com — \"Jaysoni Beachum joins Texas Tech\" (June 2026); \"Red Raiders sign Jayden Heavener\" (June 2026).\n4. Pipeline history: Beachum .406 BA/10HR/69RBI (All-ACC 1st Team, FSU); Pickering No. 2 transfer .384 BA/50HR (from OU); Heavener LHP 13-9/2.81 ERA/128K (from LSU). 7 All-Americans.\n**Key Facts (Confidence):**\n- Star Gutierrez commits to TTU as first 2028 commit — HIGH (search result)\n- Gutierrez is an outfielder — HIGH\n- 2026 WCWS runner-up — HIGH (swept by Texas in Championship Series)\n- Glasco HC Year 2 — HIGH\n- Beachum .406 BA/10HR/69RBI (FSU) — MEDIUM (pipeline; not reverified today)\n- Pickering No. 2 transfer portal, .384 BA/50HR (OU) — MEDIUM (pipeline)\n- Heavener LHP 13-9/2.81 ERA/128K (LSU) — MEDIUM (pipeline)\n- 7 All-Americans — MEDIUM (pipeline)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
