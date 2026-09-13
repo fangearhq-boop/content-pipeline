@@ -1,0 +1,191 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-13",
+  "compiled_at": "2026-09-13T09:17:30.956714+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Game Recap — Comeback in the 8th",
+      "type": "Informative"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Wild Card — Cubs Lead WC1",
+      "type": "Analysis"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Boyd vs Chandler Preview",
+      "type": "Informative"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "Holmes — October's No. 1",
+      "type": "Bold Take"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "First Pitch Hype",
+      "type": "Passionate"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Game Recap — Comeback in the 8th",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Cubs 4-3 rally over Pirates. Two solo HRs off Skenes build the lead; O'Hearn 3-run shot off Holmes flips it; Shaw (PH) walk forces Ramirez home to tie in the 8th; Hoerner HBP scores Bregman for the win. No final score in tweet (insights). Two-game win streak.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Two solo shots off Skenes. Six strikeouts from Holmes.\n\nThen O'Hearn hit a three-run bomb in the 6th and it was a different game.\n\nMatt Shaw walked in the 8th with the bases loaded. Nico Hoerner got hit. Bregman scored.\n\nSecond straight win.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Wild Card Watch — Cubs Lead Phillies for WC1",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Cubs 83-66, ~1 GB ahead of Phillies for WC1 (home-field in Wild Card Series). Cardinals eliminated from contention. 15 games left.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Cubs 83-66. Phillies 82-66. Chicago has the WC1 seat.\n\nHome-field for the Wild Card Series. One game. Fifteen left.\n\nCardinals are watching from home. This stretch run is Cubs vs Phillies — and right now, it's Chicago's lead.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Boyd vs Chandler — Series Finale Preview",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Boyd's 2.08 ERA in 4 starts since returning from IL. Chandler 10-10, 4.25 ERA. Sweep chance at Wrigley.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Matthew Boyd's ERA since returning from the IL: 2.08 in four starts.\n\nHe gets Bubba Chandler (10-10, 4.25 ERA) at 1:20 PM CT. Sweep on the table.\n\nCubs are 2-0 in this series. Boyd is the rotation's steadiest arm right now.\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Holmes — October's No. 1",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Holmes 5⅔ IP, 6 K, 2 ER last night. ~1.82 ERA in 6 starts since the deadline. One bad pitch to O'Hearn; everything else was command and results. Bold take: Cubs have a legit ace.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Clay Holmes: 5⅔ innings, six strikeouts, two earned runs last night.\n\nOne O'Hearn three-run shot got him. The rest was command, sequencing, and an ~1.82 ERA in six starts since the deadline.\n\nThis is what a No. 1 starter looks like heading into October.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "First Pitch Hype",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Wrigley Sunday, sweep in reach, 1:20 PM CT. Short, punchy.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Boyd on the hill. Sweep in the air. Wrigley in the sun.\n\n1:20 PM CT. Let's go get it.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 109
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

@@ -5,6 +5,47 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-09-13
+
+### STORY 1: Game Recap — Cubs 4-3 Pirates, Comeback in the 8th
+- **Angle:** FOLLOW UP. Cubs rallied to beat Pirates 4-3 in 8th inning Saturday. Holmes 5⅔ IP, 6 K, 2 ER (O'Hearn 3-run HR put Cubs down 3-2). Matt Shaw (PH) walked in 8th to tie; Hoerner HBP scored Bregman for walk-off-style win. Second straight win.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game recap). No score stated per has_score=False finding.
+- **Follow-Up Opportunities:**
+  - Game 3 result recap (Sept 14 morning)
+  - Series sweep confirmation
+
+### STORY 2: Wild Card Watch — Cubs Lead Phillies for WC1
+- **Angle:** FOLLOW UP. Cubs 83-66, ~1 GB ahead of Phillies (~82-66) for WC1 (home-field advantage in Wild Card Series). Cardinals eliminated. 15 games left.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, standings analysis)
+- **Follow-Up Opportunities:**
+  - Daily standings updates as stretch run tightens
+  - Magic number countdown
+
+### STORY 3: Boyd vs Chandler — Series Finale Preview
+- **Angle:** NEW STORY. LHP Matthew Boyd (2.08 ERA in 4 starts since IL return) vs RHP Bubba Chandler (10-10, 4.25 ERA). Series sweep on the line at Wrigley, 1:20 PM CT.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, preview)
+- **Follow-Up Opportunities:**
+  - Boyd's outing result
+  - Series sweep/loss context
+
+### STORY 4: Holmes — The October No. 1
+- **Angle:** NEW STORY. Clay Holmes' calculated ~1.82 ERA over 6 starts since deadline (5⅔ IP, 6 K, 2 ER last night). Bold take: Cubs have a legitimate ace heading into October.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, bold take)
+- **Follow-Up Opportunities:**
+  - Holmes final regular-season stats and October rotation role
+
+### STORY 5: First Pitch Hype
+- **Angle:** NEW STORY. Boyd on the mound, Wrigley Sunday, 1:20 PM CT, sweep in reach.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, fan energy)
+- **Follow-Up Opportunities:** N/A (one-off hype)
+
+---
+
 ## 2026-09-11
 
 ### STORY 1: Series Preview — Cubs vs Pirates, Game 1 at Wrigley (Series Start)
