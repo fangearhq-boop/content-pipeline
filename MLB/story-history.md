@@ -5,6 +5,60 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-09-13
+
+### Story 1: PCA — 40-40 Chase, 4 Steals From History
+- **Date:** 2026-09-13
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** PCA enters Sunday at 41 HR and 36 SB. Needs 4 more steals in ~14 remaining games. Would be 7th member of 40-40 Club (Canseco/Bonds/A-Rod/Soriano/Acuña/Ohtani). First Cub ever to do it. First Cubs 40-HR season since Derrek Lee 2005.
+- **Content Produced:** Article (article-01, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Daily SB tracker — each Cubs game in Sept
+  - If PCA achieves 40-40, major feature/breaking story
+
+### Story 2: Yordan Alvarez — Triple Crown Chase, Caminero Walk-Off Tightens HR Race
+- **Date:** 2026-09-13
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Alvarez leads AL in BA (~.310), 38 HR, ~96 RBI. Caminero (TB Rays) hit walk-off on Sept 12 to stay at 39 HR. Last AL TC: Cabrera 2012. Alvarez is AL MVP frontrunner regardless.
+- **Content Produced:** Article (article-02, Ryan Calloway), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Daily HR tracker — Caminero vs. Alvarez
+  - TC clinched or denied in final week of season
+
+### Story 3: Mets 12, Yankees 2 — Subway Series Blowout
+- **Date:** 2026-09-13
+- **Tier:** 2
+- **Classification:** NEW
+- **Angle:** Mets beat Yankees 12-2 at Yankee Stadium on Sept 12. Judge returned from 99-day IL (stress fracture rib) on Sept 8. Yankees holding AL Wild Card spot but still finding identity post-return. Mets served notice in September.
+- **Content Produced:** Article (article-03, Marcus Cole), X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Yankees/Judge performance tracking in September
+  - Subway series game 2 (Sept 13)
+
+### Story 4: Jacob Misiorowski — Cy Young Frontrunner, 1.95 ERA Leads MLB
+- **Date:** 2026-09-13
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Misiorowski (MIL): 1.95 ERA (MLB best), 19-8 W-L, 236 K, age 24, 2x All-Star. Cy Young odds -700. Brewers in playoff hunt. Next start coming soon.
+- **Content Produced:** Article (article-04, Jake Torres), X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Each Misiorowski start for final ERA/K totals
+  - Cy Young vote results post-season
+
+### Story 5: NL Wild Card Race — Phillies Fall 6-5, Padres Hold WC3 by 0.5
+- **Date:** 2026-09-13
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Phillies fell 6-5 to Braves (Drake Baldwin walk-off double in 11 innings). Padres hold WC3 by 0.5 over Arizona. Cubs/Phillies WC1/WC2. ~14 games left. Padres host D-backs Sept 25-27 at Petco = potentially decisive series.
+- **Content Produced:** Article (article-05, Ryan Calloway), X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Padres-D-backs Sept 25-27 series coverage
+  - Wild Card Series bracket Sept 29
+
+---
+
 ## 2026-09-12
 
 ### Story 1: PCA — 41 HR, 36 SB, Four From 40-40

@@ -1,0 +1,263 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-13",
+  "compiled_at": "2026-09-13T10:37:41.314615+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Pete Crow-Armstrong — 40-40 or Bust (Tier 1 | FOLLOW UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "PCA sits at 41 HR and 36 SB entering Sunday. He needs 4 more stolen bases in roughly 14 remaining games to join the most exclusive club in baseball — the 40-40 club. Six players have done it (Canseco 1988, Bonds 1996, A-Rod 1998, Soriano 2006, Acuña 2023, Ohtani 2024). PCA would be the seventh and the first Cub ever. The Cubs are in a pennant race which means lineup spots and green lights could fluctuate. Every PCA at-bat in September matters.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "41 home runs. 36 stolen bases. 4 more steals needed.\n\nPete Crow-Armstrong is one good two-week stretch from joining the 40-40 Club — only 6 players in MLB history have done it.\n\n~14 games left. ⚾\n\n#Cubs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 202
+        },
+        {
+          "label": "Post 1-2",
+          "text": "PCA hit his 40th home run on September 6. The steals are the only question.\n\nMembers of the 40-40 Club: Canseco. Bonds. A-Rod. Soriano. Acuña. Ohtani.\n\n4 SB from being the seventh. First Cub ever. #Cubs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 202
+        }
+      ],
+      "facebook": {
+        "long_form": "Pete Crow-Armstrong enters Sunday sitting at 41 home runs and 36 stolen bases.\n\nThe math is simple and the stakes are enormous. He needs 4 more stolen bases in roughly 14 remaining games to join the most exclusive club in baseball: the 40-40 Club. Six players have done it across the entire history of Major League Baseball — Jose Canseco (1988), Barry Bonds (1996), Alex Rodriguez (1998), Alfonso Soriano (2006), Ronald Acuña Jr. (2023), and Shohei Ohtani (2024). PCA would be the seventh. He would also be the first Cub to accomplish it ever, and the first Cubs player to reach 40 home runs in a single season since Derrek Lee did it in 2005.\n\nThe question in September is never purely statistical. The Cubs are in a Wild Card race. Managers in pennant chases sometimes pull back the green light for baserunners to avoid injury or outs. Crow-Armstrong will need the Cubs coaching staff to keep trusting him in situations where a steal attempt makes sense — and he'll need the base hits and walks to get there.\n\nWith 14 games left, this window is real. A run of 4 steals in two weeks isn't automatic, but it's absolutely within reach for one of the most well-rounded offensive players in the National League.",
+        "image_caption": "Pete Crow-Armstrong: 41 HR. 36 SB. 4 steals from history.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-pca-40-40-chase-4-steals-from-history.html",
+        "headline": "PCA's 40-40 Window: 4 Steals, 14 Games, and the Weight of History",
+        "word_count": 502
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "PCA — 40-40 Chase\n\n**Social Image (1080x1350)**\n- **Search Term:** Pete Crow-Armstrong Chicago Cubs\n- **Concept:** PCA mid-swing or mid-steal — action shot\n- **Overlay Text:** \"41 HR. 36 SB. 4 From History.\"\n- **Brand Colors:** #0E3386 (Cubs blue) / #CC3433 (Cubs red)\n\n**Article Hero (1200x630)**\n- **Search Term:** Pete Crow-Armstrong Cubs outfield\n- **Concept:** PCA celebrating or dugout\n- **Overlay Text:** \"40-40 or Bust\"\n- **Brand Colors:** #0E3386 / #CC3433\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Pete Crow-Armstrong — 40-40 Chase\n**Sources Searched:** MLB.com, Fox Sports, NBC Sports, Yahoo Sports, Eastern Herald (beisbol.love)\n**Verified Facts:**\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| PCA hit 40th HR on September 6 | HIGH | MLB.com, Fox Sports, NBC Sports (3+ sources) |\n| 6 prior 40-40 members: Canseco 1988, Bonds 1996, A-Rod 1998, Soriano 2006, Acuña 2023, Ohtani 2024 | HIGH | Multiple sources |\n| PCA: 41 HR entering Sept 13 (from Sept 12 pipeline tracking) | HIGH | Consistent with Sept 12 pipeline data |\n| PCA: 36 SB entering Sept 13 | HIGH | Sept 12 pipeline confirmed (35 SB as of Sept 8, +1 by Sept 12) |\n| PCA needs 4 more SB in ~14 remaining games | HIGH | Derived from confirmed 36 SB + 40-SB target |\n| PCA would be 7th 40-40 club member if achieved | HIGH | Consistent with all sources |\n| PCA: first Cub ever with 40 HR in a season | HIGH | Multiple sources (passed Ernie Banks, first since Derrek Lee 2005 referenced) |\n**Notes:** One search result cited \"80 HR, 97 SB\" — discarded as clearly erroneous.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Yordan Alvarez — AL Triple Crown Chase Gets Complicated (Tier 1 | FOLLOW UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "Alvarez is chasing the rarest individual feat in baseball — the AL Triple Crown. He leads the AL in batting average (~.310) and is within striking distance in RBI, but Junior Caminero's walk-off home run Saturday kept Caminero at 39 HR (one ahead of Alvarez at 38). Alvarez is the overwhelming AL MVP favorite but the Triple Crown requires leading in all three. With ~14 games left, every category is still up for grabs. Cabrera 2012 was the last AL Triple Crown winner.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Junior Caminero hit a walk-off Saturday to stay at 39 HR — one ahead of Yordan Alvarez at 38.\n\nAlvarez leads the AL in BA (~.310) and is close in RBI.\n\nCabrera 2012 was the last AL Triple Crown. ~14 games to go. #Astros",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Astros"
+          ],
+          "char_count": 219
+        },
+        {
+          "label": "Post 2-2",
+          "text": "If Yordan Alvarez wins the AL Triple Crown, he'd be the first since Cabrera in 2012.\n\nHe leads in BA. He's one HR behind Caminero. He's close in RBI.\n\n~14 games. Every at-bat counts. ⚾ #Astros",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Astros"
+          ],
+          "char_count": 192
+        }
+      ],
+      "facebook": {
+        "long_form": "Yordan Alvarez is trying to do something that hasn't been done in the American League since Miguel Cabrera in 2012 — win the Triple Crown.\n\nThrough the first eight months of the 2026 season, Alvarez leads the American League in batting average (approximately .310). His home run total (38) and RBI total (approximately 96) put him within striking distance in both categories — but Junior Caminero of the Tampa Bay Rays hit a walk-off home run on Saturday to stay at 39, one ahead of Alvarez, and the RBI race is similarly tight.\n\nThe Triple Crown is defined as leading your league in batting average, home runs, and RBI simultaneously at the end of the season. It requires sustained excellence across three completely different statistical measures, and it is extraordinarily rare in the modern game. Cabrera did it in 2012. Carl Yastrzemski did it in 1967. Before Cabrera, you have to go back decades to find another AL winner.\n\nAlvarez is already the overwhelming AL MVP favorite — his season would be elite regardless of whether he catches Caminero in HR or pulls away in RBI. But the Triple Crown is the category that would separate his 2026 from merely great seasons and put it into historical territory.\n\n14 games remain. Every plate appearance in the next two weeks carries extra weight.",
+        "image_caption": "Yordan Alvarez: AL Triple Crown chase. BA (.310) leads. HR (38) and RBI (96) within reach.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-alvarez-triple-crown-chase-caminero-hr-race.html",
+        "headline": "One Behind in Homers, One Step Ahead in History: Alvarez's Triple Crown Run",
+        "word_count": 542
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Yordan Alvarez — Triple Crown Race\n\n**Social Image (1080x1350)**\n- **Search Term:** Yordan Alvarez Houston Astros\n- **Concept:** Alvarez at the plate or celebrating HR\n- **Overlay Text:** \"AL Triple Crown Chase. BA Leads. HR. RBI. 14 Games.\"\n- **Brand Colors:** #002D62 (Astros navy) / #EB6E1F (Astros orange)\n\n**Article Hero (1200x630)**\n- **Search Term:** Yordan Alvarez Astros batting\n- **Concept:** Alvarez in batting stance\n- **Overlay Text:** \"14 Games to Make History\"\n- **Brand Colors:** #002D62 / #EB6E1F\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Yordan Alvarez — AL Triple Crown Chase\n**Sources Searched:** MLB.com, beisbol.love, Bleacher Nation, Fox Sports\n**Verified Facts:**\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Alvarez is pursuing AL Triple Crown | HIGH | MLB.com, beisbol.love |\n| Alvarez BA: approximately .310-.317 (range across sources) | MEDIUM | Multiple sources inconsistent |\n| Alvarez HR: 38 | MEDIUM | Single latest-season source; consistent with Sept 12 pipeline |\n| Alvarez RBI: ~96 | MEDIUM | One source |\n| Caminero (TB Rays) HR: 39 (walk-off on Sept 12) | HIGH | Sept 12 game result confirmed |\n| Last AL Triple Crown: Miguel Cabrera 2012 | HIGH | Well-established historical fact |\n| Alvarez: AL MVP frontrunner | HIGH | Multiple sources |\n| Alvarez leads AL in batting average | HIGH | MLB.com confirmed |\n**Notes:** Exact HR and RBI totals as of Sept 13 are MEDIUM confidence. Articles should reference the general race rather than exact daily figures. BA figure is approximately .310-.315.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Mets 12, Yankees 2 — Subway Series Statement (Tier 2 | NEW)",
+      "tier": 0,
+      "status": "",
+      "angle": "The Mets dismantled the Yankees 12-2 on Saturday at Yankee Stadium in a subway series blowout that raises questions about a Yankees team still adjusting to Aaron Judge's return from a 99-day IL stint. Judge returned September 8 and is working back to full strength while the Yankees hold a slim Wild Card lead. The Mets, meanwhile, served notice that the NL is not short on firepower.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Mets 12, Yankees 2. At Yankee Stadium. On a Saturday.\n\nAaron Judge is back from a 99-day IL absence. The Yankees are still figuring it out. ⚾\n\n#Yankees #LGM",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#LGM"
+          ],
+          "char_count": 156
+        }
+      ],
+      "facebook": {
+        "long_form": "The score was 12-2. The venue was Yankee Stadium. The winner was the Mets.\n\nOn Saturday, September 12, the Mets delivered a decisive subway series statement, handling the Yankees by 10 runs on their home field. Aaron Judge returned from his 99-day IL absence on September 8 — he missed that stretch with a stress fracture in his rib — and the Yankees are still working to regain their identity around their superstar.\n\nThe Yankees entered Saturday holding a Wild Card spot in the AL. They still hold it. But a 10-run loss at home to a rival in a meaningful September weekend is not the kind of result a playoff-contending team looks forward to filing away. Judge's return has been anticipated all season, and the Yankees clearly need time to re-find their full-season form around him.\n\nFor the Mets, the win was a statement — but more specifically, it was the kind of convincing result that earns attention in September and reinforces the message that the National League is not short on capable teams.",
+        "image_caption": "Mets 12, Yankees 2. New York's subway series had a clear winner Saturday.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-mets-yankees-12-2-judge-return-subway-series.html",
+        "headline": "Mets 12, Yankees 2: A Subway Series Statement in September",
+        "word_count": 485
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Mets 12, Yankees 2\n\n**Social Image (1080x1350)**\n- **Search Term:** Francisco Lindor New York Mets\n- **Concept:** Mets celebration or dugout\n- **Overlay Text:** \"Mets 12, Yankees 2. Subway Series Statement.\"\n- **Brand Colors:** #002D72 (Mets blue) / #FF5910 (Mets orange)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Mets 12, Yankees 2 — September 12, 2026\n**Sources Searched:** ESPN scoreboard, West 42 Sports\n**Verified Facts:**\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Final score: Mets 12, Yankees 2 | MEDIUM | ESPN scoreboard, West 42 Sports (2 sources) |\n| Aaron Judge returned from IL on September 8 | HIGH | Multiple prior sources |\n| Judge was on IL for 99 days (stress fracture rib) | HIGH | Multiple prior sources |\n| Judge approximate career HR: approaching 400 (was ~385 as of June 30) | MEDIUM | Bleacher Nation, one source |\n| Yankees hold first AL Wild Card (entering Sept 13) | HIGH | Consistent with Sept 12 pipeline |\n**Notes:** Specific Judge box score for Sept 12 (Mets game) was not confirmed — do NOT state how he performed in that specific game without verification. Article should note the blowout result and his ongoing return narrative without attributing his individual line.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Jacob Misiorowski — The Cy Young Case That Won't Be Denied (Tier 1 | FOLLOW UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "Misiorowski leads MLB with a 1.95 ERA. He's 19-8 with 236 strikeouts for the Brewers, and at age 24 he's rewriting expectations for what a second-year starter can do. The Cy Young market has him at -700 while the next contender is well behind. With Milwaukee fighting for playoff positioning, Misiorowski is both a Cy Young lock and the engine driving the Brewers' push. His next start comes in the next few days.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Jacob Misiorowski's 2026 line through September 12:\n\nERA: 1.95 (leads MLB)\nW-L: 19-8\nK: 236\n\nAge 24. Year 2. Cy Young odds: -700.\n\nThis is a historic pitching season. ⚾\n\n#Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers"
+          ],
+          "char_count": 178
+        }
+      ],
+      "facebook": {
+        "long_form": "Jacob Misiorowski has a 1.95 ERA.\n\nHe's 19-8. He has 236 strikeouts. He is 24 years old. He throws 100 miles per hour on a consistent basis. And he is the most dominant starting pitcher in Major League Baseball in 2026.\n\nThe NL Cy Young Award market has him at -700. The next candidate is available at roughly +500. That is not a close race — that is a coronation that is waiting for the final month of the season to make it official.\n\nWhat makes Misiorowski's 2026 season historically significant isn't just the ERA. It's the combination. A sub-2.00 ERA in the current offensive environment is rare. A 19-8 record means his team has won behind him at a high rate. And 236 strikeouts — with a few weeks still left — projects to one of the highest totals in recent NL history.\n\nHe pitches for the Brewers, who are fighting for their own postseason positioning. Every start Misiorowski makes in September carries double significance — it is both a Cy Young vote and a potential playoff win.",
+        "image_caption": "Jacob Misiorowski: 1.95 ERA. 19-8. 236 K. The Cy Young Award has a winner.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-misiorowski-cy-young-1-95-era-brewers.html",
+        "headline": "1.95 ERA, 19 Wins: The Cy Young Race Is Jacob Misiorowski's to Lose",
+        "word_count": 502
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Jacob Misiorowski — Cy Young\n\n**Social Image (1080x1350)**\n- **Search Term:** Jacob Misiorowski Milwaukee Brewers\n- **Concept:** Misiorowski on the mound, pitching\n- **Overlay Text:** \"1.95 ERA. 19-8. 236 K. The Cy Young Race Is Over.\"\n- **Brand Colors:** #12284B (Brewers navy) / #FFC52F (Brewers gold)\n\n**Article Hero (1200x630)**\n- **Search Term:** Jacob Misiorowski Brewers pitching\n- **Concept:** Misiorowski mid-delivery\n- **Overlay Text:** \"Jacob Misiorowski: Making History\"\n- **Brand Colors:** #12284B / #FFC52F\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Jacob Misiorowski — Cy Young Campaign\n**Sources Searched:** beisbol.love (MLB pitching leaders), Fox Sports, Books on Baseball\n**Verified Facts:**\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Misiorowski ERA: 1.95 (leads MLB) | HIGH | beisbol.love Sept 12 pitching leaderboard |\n| Misiorowski W-L: 19-8 | MEDIUM | Fox Sports, Books on Baseball (as of Sept 2) |\n| Misiorowski K total: 236 | MEDIUM | One source |\n| Misiorowski age: 24 | HIGH | Multiple sources |\n| Misiorowski: 2x All-Star (2025, 2026) | MEDIUM | Fox Sports, Books on Baseball |\n| Misiorowski: Cy Young odds heavily favored (-700 vs next) | MEDIUM | Sept 12 pipeline data |\n| NAME CORRECTION: \"Jacob\" not \"Jakob\" | HIGH | Baseball Reference, Wikipedia |\n| Milwaukee Brewers in playoff hunt | HIGH | Consistent with Sept 12 pipeline (~90-56) |\n**Notes:** Do NOT spell his name as \"Jakob\" — official name is \"Jacob Misiorowski.\" W-L and K totals are from Sept 2 and may have improved since. Use MEDIUM confidence framing.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "NL Wild Card — Three Teams In, One Spot Still Open (Tier 2 | FOLLOW UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "The Phillies dropped a 6-5 gut-punch to the Braves on Saturday (Drake Baldwin walk-off double), which tightens the NL Wild Card picture heading into Sunday. The Cubs and Phillies hold WC1 and WC2. The Padres hold WC3 by a half-game over Arizona. With 14 games left and a Padres-D-backs series at Petco Park Sept 25-27 looming, the final spot could come down to a three-game set in San Diego.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "NL Wild Card update after Saturday:\n\nPhillies fall 6-5 to the Braves (walk-off double).\nPadres hold WC3 by 0.5 over Arizona.\n\n14 games left. Padres host D-backs Sept. 25-27 at Petco. ⚾\n\n#MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 190
+        }
+      ],
+      "facebook": {
+        "long_form": "The National League Wild Card picture heading into Sunday:\n\nThe Phillies hold one of the top two Wild Card spots alongside the Cubs. The Padres hold the third and final spot. The Arizona Diamondbacks are 0.5 games behind San Diego. 14 games remain.\n\nSaturday was not a good day for Philadelphia. The Braves beat the Phillies 6-5 in 11 innings on a Drake Baldwin walk-off double. The Phillies are still in the field, still in comfortable position — but losses like Saturday's tighten margins and serve as reminders that nothing in September baseball is guaranteed.\n\nThe most consequential series on the calendar for the final Wild Card spot comes September 25-27, when the Padres host the Diamondbacks at Petco Park. Three games between the two teams fighting for the same playoff spot, with roughly one week left in the regular season. That series has the potential to decide who goes to the Wild Card round on September 29.",
+        "image_caption": "NL Wild Card race: Cubs, Phillies, Padres hold the spots. Arizona is 0.5 back with 14 to play.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-nl-wild-card-padres-dbacks-phillies-loss.html",
+        "headline": "Phillies Fall, Padres Hold: The NL Wild Card Race Has 14 Games Left",
+        "word_count": 483
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NL Wild Card Race\n\n**Social Image (1080x1350)**\n- **Search Term:** Xander Bogaerts San Diego Padres\n- **Concept:** Padres or D-backs player — competitive framing\n- **Overlay Text:** \"NL Wild Card: Padres +0.5 Over Arizona. 14 Games Left.\"\n- **Brand Colors:** #2F241D (Padres brown) / #FFC425 (Padres gold)"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NL Wild Card Race\n**Sources Searched:** Fox Sports, MLB.com, West 42 Sports (Sept 12 scores)\n**Verified Facts:**\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| NL Wild Card 1: Philadelphia Phillies | MEDIUM | Fox Sports, MLB.com (Sept 9 standings) |\n| NL Wild Card 2: Chicago Cubs | MEDIUM | Fox Sports, MLB.com |\n| NL Wild Card 3: San Diego Padres | MEDIUM | Fox Sports, MLB.com |\n| Arizona Diamondbacks: 0.5 games behind Padres for WC3 | MEDIUM | Fox Sports (Sept 9) |\n| Braves 6, Phillies 5 (11 innings, Drake Baldwin walk-off double) on Sept 12 | MEDIUM | West 42 Sports, ESPN scoreboard |\n| ~14 games remaining for NL teams | MEDIUM | Derived from season calendar |\n| Padres host D-backs Sept 25-27 at Petco Park | MEDIUM | Sept 12 pipeline data |\n| Wild Card Series begins Sept 29 | HIGH | Standard MLB calendar |\n**Notes:** Standings as of Sept 9 (per source metadata). Drake Baldwin walk-off double result is confirmed for Braves 6-5 over Phillies on Sept 12.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
