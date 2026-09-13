@@ -1,11 +1,43 @@
 # Golf Fanrecap — Pipeline Status
 
-## Last Run: 2026-09-12
+## Last Run: 2026-09-13
 
 **Status:** COMPLETE (with known proxy limitations)
 **Niche:** Golf Fanrecap
 **Stories:** 5
 **Articles:** 5
+
+---
+
+## 2026-09-13 Run Log
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research | ✅ Complete | 5 stories — Solheim Cup Sunday singles 8-8, Scheffler Tour Championship/FedExCup, LIV bankruptcy restructuring, Good Good controversy, Rahm at Irish Open |
+| Daily Brief | ✅ Complete | 00-daily-brief.md |
+| Research Notes | ✅ Complete | 01-research-notes.md |
+| Story Analysis | ✅ Complete | 02-story-analysis.md |
+| X Posts | ✅ Complete | 03-social-posts-x.md — 7 posts |
+| Facebook Posts | ✅ Complete | 04-social-posts-facebook.md |
+| Image Concepts | ✅ Complete | 05-image-concepts.md |
+| Articles | ✅ Complete | 5 HTML articles |
+| Fact Check | ✅ Complete | 06-fact-check-log.md — 17 claims, all HIGH |
+| Compile Content Data | ✅ Complete | 07-content-data.json — 5 stories, 7 tweets, 5 articles |
+| Image Manifest | ✅ Complete | 07-image-manifest.md (not_started) |
+| Story History | ✅ Complete | story-history.md updated |
+| Review Dashboard | ✅ Complete | review-dashboard.html — 22 items |
+| Publish Dashboard | ⚠ Partial | Blocked — content-dashboards not in authorized repo |
+| PostPlanner Export | ⚠ Partial | 0 posts (known parsing issue) |
+| PostPlanner TOBI | ⚠ Partial | 0 posts (known parsing issue) |
+| WordPress Publish | ⚠ Blocked | Proxy policy — fanrumor.com not reachable |
+| Git Push | ✅ Complete | Committed and pushed to main |
+
+**Stories covered:**
+1. T1 FOLLOW UP: Solheim Cup Sunday Singles — Europe and USA Locked at 8-8
+2. T1 NEW: Scheffler Wins Tour Championship — Second FedExCup Title
+3. T2 FOLLOW UP: LIV Golf 2.0 — What the Bankruptcy Filing Means
+4. T2 NEW: Good Good Controversy — Callaway, PGA Tour, Golf Channel All Walk Away
+5. T2 FOLLOW UP: Jon Rahm at Irish Open — LIV Player Flux Begins
 
 ---
 

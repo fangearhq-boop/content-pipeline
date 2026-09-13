@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-09-13
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-13 | T1 | Solheim Cup Sunday Singles — Europe and USA Locked at 8-8, Singles Decide Trophy | X(2), FB, Article | FOLLOW UP |
+| 2026-09-13 | T1 | Scheffler Wins Tour Championship — Second FedExCup Title, Joins Woods and McIlroy | X(2), FB, Article | NEW |
+| 2026-09-13 | T2 | LIV Golf 2.0 — What the Bankruptcy Filing Means for Players and Restructuring | X(1), FB, Article | FOLLOW UP |
+| 2026-09-13 | T2 | Good Good Controversy — Golf Channel Cancels Big Break, Callaway and PGA Tour Cut Ties | X(1), FB, Article | NEW |
+| 2026-09-13 | T2 | Jon Rahm at Amgen Irish Open — LIV Player Flux Begins After Contract Terminations | X(1), FB, Article | FOLLOW UP |
+
+### STORY 1: Solheim Cup Sunday Singles
+- **Tier:** 1
+- **Category:** Solheim Cup / LPGA / Europe vs USA / Nelly Korda / Charley Hull / Bernardus Golf
+- **Key facts:** Score 8-8 entering Sunday singles; Europe led 7-5 after Saturday morning foursomes; USA won final 3 fourballs to tie; Charley Hull leads off vs. Megan Khang; Nelly Korda benched Saturday, back Sunday; 14 points to win; 12 singles matches; Nanna Koerstz Madsen beat Allisen Corpuz; Esther Henseleit beat Alison Lee; captains: Nordqvist (Europe) vs. Stanford (USA)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Final result, who claimed the trophy, Korda's singles performance
+
+### STORY 2: Scheffler Tour Championship / FedExCup
+- **Tier:** 1
+- **Category:** Scottie Scheffler / PGA Tour / Tour Championship / FedExCup / East Lake
+- **Key facts:** Scheffler final-round 66; 16-under winning total; 3-shot win over Viktor Hovland (13-under); Ryan Gerard 3rd (4 back); $10M FedExCup bonus; second FedExCup title; joins Tiger Woods (2007, 2009) and McIlroy (2016, 2019, 2022); started round 3 shots back; McIlroy called for Scheffler Player of Year; McIlroy won 2026 Masters
+- **Status:** NEW
+- **Follow-up ideas:** PGA Tour Player of the Year vote, Scheffler 2027 season outlook
+
+### STORY 3: LIV Golf Bankruptcy Restructuring
+- **Tier:** 2
+- **Category:** LIV Golf / Chapter 11 / BC Partners / PIF / Jon Rahm / Bryson DeChambeau / LIV 2.0
+- **Key facts:** Filed Sept 8, 2026; $500M+ debt; assets $100M-$500M; Saudi PIF invested $5B+, providing $49.6M DIP loan and exiting; BC Partners restructuring; LIV 2.0: player-owned, 75 players (up from 57), 54-hole cut introduced; all 48 contracts terminated; player debts: Rahm $7.5M, DeChambeau $5.7M, Johnson $5.5M, Smith $4.8M, Hatton $3.4M, Koepka $1.7M; $45M+ total; CEO O'Neil targeting 2027 restart
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Court milestones, player reinstatement decisions, exit financing timeline
+
+### STORY 4: Good Good Controversy
+- **Tier:** 2
+- **Category:** Good Good / Garrett Clark / Alexis Miestowski / Callaway / PGA Tour / Golf Channel / Big Break
+- **Key facts:** Ad showed Garrett Clark knocking down female golfer Alexis Miestowski for touching Callaway driver with Good Good co-branding; Callaway cut ties; Golf Galaxy cut ties; PGA Tour removed Good Good as November 2026 event sponsor; Golf Channel canceled fully filmed 2026 Big Break season; CNN reported Aug 27, 2026; Charlie Woods signed TaylorMade NIL deal Sept 4 (separate story, context)
+- **Status:** NEW
+- **Follow-up ideas:** Good Good's response, brand recovery efforts, Golf Channel's replacement programming
+
+### STORY 5: Jon Rahm at Irish Open
+- **Tier:** 2
+- **Category:** Jon Rahm / LIV Golf / DP World Tour / Irish Open / Rory McIlroy / PGA Tour reinstatement
+- **Key facts:** Rahm competing in Amgen Irish Open (DP World Tour); McIlroy also in field; Rahm's LIV contract terminated Sept 8; Rahm led LIV 2026 individual standings; owed $7.5M; Rolapp offered Rahm/DeChambeau/Smith PGA Tour reinstatement via Returning Member Program ($5M charity, no equity 5 years, no bonus pool year 1) — all declined; Koepka already reinstated via same program; Rahm gave blunt public comments on LIV-PGA Tour future
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Rahm's decision on PGA Tour vs. LIV 2.0 vs. DP World Tour, Irish Open result
+
 ## 2026-09-12
 
 | Date | Tier | Story | Platforms | Status |
