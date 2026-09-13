@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-09-13
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-13 | T1 | Verstappen Wins Inaugural Madring Spanish Grand Prix as Leclerc Retires | X(2), FB, Article | NEW |
+| 2026-09-13 | T1 | Antonelli Extends Championship Lead After Madring — 9 Rounds Remain | X(2), FB, Article | FOLLOW UP |
+| 2026-09-13 | T2 | Norris Takes Historic First Madring Pole by 0.011 Seconds | X(1), FB, Article | FOLLOW UP |
+| 2026-09-13 | T2 | Hamilton Crashed in FP3, Ignored Team, Still Qualified Fourth | X(1), FB, Article | FOLLOW UP |
+| 2026-09-13 | T3 | Forty-Five Years in the Making: F1 Returns to Madrid at the Madring | X(1), FB, Article | NEW |
+
+### STORY 1: Verstappen Wins Inaugural Madring
+- **Tier:** 1
+- **Category:** 2026 F1 Season / Max Verstappen / Spanish Grand Prix / Madring
+- **Key facts:** Verstappen won from P3 grid; Leclerc retired after leading; Norris P2 (started P1); Verstappen's Red Bull beat McLaren and Mercedes on race day; Madring is Round 14 of 23; 57-lap race at new Madrid circuit (5.47km, 22 corners)
+- **Status:** NEW
+- **Follow-up ideas:** Championship implications, Red Bull's resurgence
+
+### STORY 2: Antonelli Championship Lead After Madring
+- **Tier:** 1
+- **Category:** Kimi Antonelli / Mercedes / 2026 F1 Championship
+- **Key facts:** Antonelli championship leader entering Madring with 267 pts, 66 ahead of Russell; 9 rounds remain after Round 14; max 233 pts still available; Antonelli won Monza from 19th; youngest championship leader in modern F1
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Round 15 preview, Mercedes reliability watch
+
+### STORY 3: Norris Pole at Madring
+- **Tier:** 2
+- **Category:** Lando Norris / McLaren / Qualifying
+- **Key facts:** Norris pole 1m31.824s; Antonelli P2 (+0.011s); Verstappen P3 (+0.140s); Hamilton P4 (+0.189s); Leclerc P5; Norris 19th career pole; Antonelli received FIA warning (no grid penalty); McLaren's new-circuit mastery
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** McLaren race result, Norris title math
+
+### STORY 4: Hamilton FP3 Crash and Recovery
+- **Tier:** 2
+- **Category:** Lewis Hamilton / Ferrari / Qualifying
+- **Key facts:** Hamilton crashed at Turn 22 in FP3; punctured tyre, front wing wedged; ignored team instruction to stop; drove near-full lap with damage; eventually stopped short of pit entry; red flag; then qualified 4th (1m32.013s); Ollie Bearman also crashed FP3
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Team debrief on Hamilton's decision, race from P4
+
+### STORY 5: Madring Historical Debut
+- **Tier:** 3
+- **Category:** Madring / Formula 1 History / Madrid / Spanish Grand Prix
+- **Key facts:** Last F1 race near Madrid was Jarama, Sept 27 1981 (45 years ago); Villeneuve-Jones battle; circuit now at IFEMA Madrid; 5.47km, 22 corners, 2 underground tunnels; La Monumental Turn 12 — 550m banked corner, 24% gradient, 13.5 degrees banking; 218km/h avg speed
+- **Status:** NEW
+- **Follow-up ideas:** Circuit legacy, fan attendance
+
 ## 2026-09-12
 
 | Date | Tier | Title | Platforms | Status |
