@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-09-13
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-13 | T1 | Kawhi Leonard — DOJ Criminal Probe Issues Subpoenas, Clippers Scandal Escalates | X(2), FB, Article | FOLLOW UP |
+| 2026-09-13 | T1 | Stephen Curry — 15 Days to Warriors Media Day, Extension Max Expected | X(2), FB, Article | FOLLOW UP |
+| 2026-09-13 | T2 | Jalen Duren / Pistons — Camp Reports Duren Open to $9.6M QO, Oct. 1 Deadline Looms | X(1), FB, Article | FOLLOW UP |
+| 2026-09-13 | T2 | Miami Heat — Giannis Leads Unofficial California Minicamp, Skips FIBA | X(1), FB, Article | NEW |
+| 2026-09-13 | T2 | Devin Carter — Hawks Waive 2024 Lottery Pick, Celtics Reportedly Interested | X(1), FB, Article | NEW |
+
+### STORY 1: Kawhi Leonard — DOJ Criminal Probe Subpoenas
+- **Tier:** 1
+- **Category:** Los Angeles Clippers / Kawhi Leonard / DOJ Investigation
+- **Key facts:** Eastern District of NY leading probe; at least one subpoena issued; allegation is scoreboard kickback via no-show endorsements; NBA penalties already enacted (5 picks, Ballmer suspended, Frank suspended, Leonard fined $700K, Robertson banned); criminal investigation in "earliest stages"; trade to Toronto proceeding; Leonard not suspended
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Federal charges filed; grand jury activity; investigation scope widens; Kawhi's first Raptors game
+
+### STORY 2: Stephen Curry — Extension Countdown
+- **Tier:** 1
+- **Category:** Golden State Warriors / Stephen Curry / NBA Contract
+- **Key facts:** Extension-eligible since Aug. 29; 2-year max = $136.7M; Warriors media day Sept. 28 (15 days away); Hawaii camp Sept. 29; ESPN's Anthony Slater says "wouldn't be surprised" by max deal; mutual interest confirmed; wants to retire in Golden State; Al Horford signed 2yr/$14M
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Extension signed; media day announcement; free agency if unsigned
+
+### STORY 3: Jalen Duren / Pistons — QO Risk
+- **Tier:** 2
+- **Category:** Detroit Pistons / Jalen Duren / NBA Contract
+- **Key facts:** Pistons offer $190M/5yr; Duren wants $200M+; Oct. 1 QO deadline; QO = $9.6M; camp Sept. 29; Duren camp "increasingly open" to QO per reports; ESPN: "staring contest"
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Deal or QO by Oct. 1; camp opening with/without deal; 2027 RFA market
+
+### STORY 4: Miami Heat — Giannis Minicamp
+- **Tier:** 2
+- **Category:** Miami Heat / Giannis Antetokounmpo / Training Camp
+- **Key facts:** Unofficial player-organized minicamp in California; Giannis skipped FIBA qualifiers to attend; new additions: Giannis, Bobby Portis, Klay Thompson, Tim Hardaway Jr.; activities: basketball + golf + karaoke + day on Thompson's boat; official camp Sept. 29 at Kaseya Center; first preseason game Oct. 3 vs. Raptors in Quebec City; Giannis extension-eligible Oct. 1
+- **Status:** NEW
+- **Follow-up ideas:** Camp performance, Giannis extension timing, first preseason game
+
+### STORY 5: Devin Carter — Hawks Waive
+- **Tier:** 2
+- **Category:** Boston Celtics / Devin Carter / NBA Free Agency
+- **Key facts:** 2024 No. 13 pick (Kings); traded to Atlanta in June 2026 for cap relief; Hawks waived Sept. 11; Celtics reportedly interested (per Jake Fischer); Carter age 24, Providence College; 2025-26: 8.9 PPG, 3.3 RPG, 2.7 APG in 18.4 min (38 games, Kings)
+- **Status:** NEW
+- **Follow-up ideas:** Celtics signing; another contender signing; waiver claim
+
 ## 2026-09-12
 
 | Date | Tier | Title | Platforms | Status |

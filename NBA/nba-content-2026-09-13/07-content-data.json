@@ -1,0 +1,267 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-13",
+  "compiled_at": "2026-09-13T11:16:22.609558+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Kawhi Leonard — DOJ Criminal Investigation",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The DOJ is now investigating the Clippers.\n\nFederal prosecutors in Brooklyn have issued subpoenas in the criminal probe tied to Kawhi Leonard's scoreboard kickback deal.\n\nNBA already hit LA with 5 first-round picks stripped. This could get much worse.\n\n#NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA"
+          ],
+          "char_count": 257
+        },
+        {
+          "label": "Post 1-2",
+          "text": "While the DOJ investigates the Clippers, Kawhi Leonard's trade to Toronto moves forward.\n\nHe's not suspended. He won't face criminal charges (that we know of).\n\nBut he's heading to a team that will be watching every development very closely.\n\n#Raptors #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Raptors",
+            "#NBA"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-doj-clippers-kawhi-criminal-probe.html",
+        "headline": "DOJ Opens Criminal Probe Into Clippers-Kawhi Leonard Scoreboard Deal — Here's What It Means",
+        "word_count": 617
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Kawhi Leonard — DOJ Criminal Investigation\n\n**Image 1A** — Social (1080x1350)\n- **Search term:** `Kawhi Leonard Toronto Raptors`\n- **Usage:** X Post 1A, FB Post 1A\n- **Credit:** (USA TODAY Sports Images)\n- **Notes:** Photo of Leonard in Raptors gear or at practice; overlay DOJ PROBE headline text\n\n**Image 1B** — Social (1080x1350)\n- **Search term:** `Steve Ballmer Los Angeles Clippers`\n- **Usage:** FB Post 1B image caption\n- **Credit:** (Imagn Images)\n- **Notes:** Ballmer at game or press conference; scandal context overlay\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Kawhi Leonard — DOJ Criminal Investigation\n**Sources:**\n- Sportico: \"Clippers Kawhi Cap Scandal Gets DOJ Probe, Raising Legal Risks\" — sportico.com\n- NBC Sports: \"Justice Department opens federal investigation into Clippers' dealings with Kawhi Leonard\" — nbcsports.com\n- ABC7 Los Angeles: \"DOJ opens criminal investigation into Clippers' Kawhi Leonard dealings\" — abc7.com\n- Yahoo Sports / Yardbarker coverage corroborating the Eastern District of NY probe\n**Key Facts (Confidence: HIGH — multiple independent sources):**\n- U.S. Department of Justice opened criminal investigation into Clippers-Leonard dealings\n- Led by U.S. Attorney's Office in Brooklyn (Eastern District of New York)\n- Prosecutors have issued at least one subpoena\n- Allegation: Clippers directed kickback from scoreboard contract (Intuit Dome) to Leonard via no-show endorsement deals worth millions\n- NBA penalties already levied: Clippers surrendered 5 first-round picks (2029-33); Ballmer suspended 1 year; Gillian Zucker suspended 1 year; Lawrence Frank suspended 6 months; Leonard fined $700K; Dennis Robertson banned 5 years from NBA business\n- Criminal investigation in \"earliest stages\" — unclear who faces scrutiny or if charges follow\n- Kawhi's trade to Toronto is proceeding — Leonard himself not suspended\n- SI.com notes a potential decision date has been revealed for the investigation (unspecified)\n**Freshness:** Story first broke Sept. 10-11; DOJ probe is ongoing as of Sept. 12-13. FOLLOW UP from 09-12 coverage.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Stephen Curry Extension — Media Day Countdown",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Stephen Curry has been extension-eligible since Aug. 29.\n\nWarriors media day is Sept. 28. Camp opens Sept. 29 in Hawaii.\n\nESPN's Anthony Slater says he \"wouldn't be surprised\" if Curry takes the 2-year, $136.7M max.\n\nThe clock is ticking. #Warriors #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Warriors",
+            "#NBA"
+          ],
+          "char_count": 253
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Steph Curry's biggest remaining decision isn't about money.\n\nIt's about legacy.\n\nDoes he take the 2-year max and commit through age 40 as a Warrior?\n\nOr does he walk into free agency for the first time?\n\nMutual interest is confirmed. Announcement could come any day. #Warriors",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Warriors"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-stephen-curry-extension-warriors-countdown.html",
+        "headline": "15 Days to Warriors Media Day: Will Stephen Curry Sign His Extension?",
+        "word_count": 575
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Stephen Curry Extension — Warriors\n\n**Image 2A** — Social (1080x1350)\n- **Search term:** `Stephen Curry Golden State Warriors`\n- **Usage:** X Post 2A, FB Post 2A\n- **Credit:** (USA TODAY Sports Images)\n- **Notes:** Curry in Warriors uniform; celebratory or focused action shot; \"15 DAYS\" countdown overlay\n\n**Image 2B** — Social (1080x1350)\n- **Search term:** `Stephen Curry Warriors`\n- **Usage:** FB Post 2B image caption\n- **Credit:** (Imagn Images)\n- **Notes:** Different angle/shot; extension announcement teaser overlay\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Stephen Curry Extension — Warriors Media Day Clock\n**Sources:**\n- ESPN/Yahoo Sports: Bleacher Report: \"New Warriors Rumors on Stephen Curry Contract Extension Talks\" — bleacherreport.com\n- Yahoo Sports: \"Stephen Curry Could Take Maximum Warriors Extension, ESPN Insider Says\"\n- Hoops Rumors: \"NBA 2026 Offseason Check-In: Golden State Warriors\" — hoopsrumors.com\n**Key Facts (Confidence: HIGH):**\n- Curry became extension-eligible Aug. 29, 2026\n- Maximum extension: 2-year deal worth approximately $136.7M total\n- Warriors presented 3 options: 1-year max, 2-year max, or become free agent\n- ESPN's Anthony Slater said he \"wouldn't be surprised\" to see Curry take the max\n- Warriors media day: Sept. 28; Hawaii training camp: Sept. 29\n- Curry has stated he wants to finish career in Golden State\n- Mutual interest confirmed by league sources\n- Al Horford declined $5.97M option, re-signed with Warriors on 2yr/$14M deal\n**Freshness:** Active story; camp is 16 days away. FOLLOW UP from 09-12 coverage.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Jalen Duren / Pistons Stalemate",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Jalen Duren vs. the Pistons: 18 days to decide.\n\nPistons are offering 5yr/$190M. Duren wants more.\n\nIf no deal by Oct. 1, Duren can accept the $9.6M qualifying offer — and bet on himself next summer.\n\nHis camp is reportedly open to that risk. #Pistons #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Pistons",
+            "#NBA"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-jalen-duren-pistons-qualifying-offer-deadline.html",
+        "headline": "Jalen Duren Is Reportedly Open to the $9.6M Qualifying Offer. The Pistons Have 18 Days to Respond.",
+        "word_count": 606
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Jalen Duren / Pistons\n\n**Image 3A** — Social (1080x1350)\n- **Search term:** `Jalen Duren Detroit Pistons`\n- **Usage:** FB Post 3A\n- **Credit:** (USA TODAY Sports Images)\n- **Notes:** Duren in game action; \"STALEMATE\" or \"$9.6M GAMBLE\" overlay\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Jalen Duren / Pistons Stalemate\n**Sources:**\n- ESPN: \"'This is just a staring contest': Where Pistons, Jalen Duren stand in contract stalemate\" — espn.com\n- CBS Sports: \"Jalen Duren, Pistons still in contract standoff: When could the All-NBA center make a decision?\" — cbssports.com\n- Detroit Sports Nation: \"Detroit Pistons and Jalen Duren Remain Apart on Contract Extension\" (09/11/2026) — detroitsportsnation.com\n- Heavy.com: \"Pistons All-Star Prepared for Risky $9.6 Million Decision: Insider\"\n**Key Facts (Confidence: HIGH):**\n- Pistons offer: 5yr/$190M (~$38M/yr); Duren wants: 5yr/$200M+ (he is eligible for max at ~$57M/yr due to All-NBA Third Team)\n- Oct. 1 qualifying offer deadline; QO value: $9.6M\n- Duren's camp is increasingly willing to accept the QO and play as RFA next summer\n- Pistons training camp opens Sept. 29\n- Duren age 22, had third-team All-NBA season\n- ESPN described it as a \"staring contest\"\n**Freshness:** Ongoing standoff; deadline Oct. 1. FOLLOW UP from 09-12 coverage.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Miami Heat Giannis Minicamp",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The Miami Heat aren't waiting for training camp.\n\nGiannis skipped FIBA qualifiers to join teammates at an unofficial minicamp in California.\n\nBasketball, golf, karaoke, and a day on Klay Thompson's boat.\n\nThis team is building something. #HEATTwitter #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HEATTwitter",
+            "#NBA"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-giannis-heat-minicamp-california.html",
+        "headline": "Giannis Skipped FIBA to Join Heat's California Minicamp. That Tells You Everything.",
+        "word_count": 567
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Miami Heat — Giannis Minicamp\n\n**Image 4A** — Social (1080x1350)\n- **Search term:** `Giannis Antetokounmpo Miami Heat`\n- **Usage:** X Post 4A, FB Post 4A\n- **Credit:** (USA TODAY Sports Images)\n- **Notes:** Giannis in Heat uniform or at practice; \"MINICAMP MODE\" overlay with Heat colors\n\n**Image 4B** — Social (1080x1350)\n- **Search term:** `Klay Thompson Miami Heat`\n- **Usage:** FB Post 4B image caption\n- **Credit:** (Imagn Images)\n- **Notes:** Thompson in Heat uniform; team bonding visual concept\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Miami Heat — Giannis Minicamp\n**Sources:**\n- BVM Sports: \"Heat not waiting for training camp to start building around Giannis Antetokounmpo\" (Sept. 12, 2026)\n- Eastern Herald: \"Giannis Leads Heat Minicamp Ahead of Training Camp\" (Sept. 12, 2026)\n- Yardbarker: \"Heat not waiting for training camp to start building around Giannis Antetokounmpo\"\n- LoveNBA.com: \"Giannis Antetokounmpo Joins Teammates For Miami Heat Mini Camp In California\"\n**Key Facts (Confidence: HIGH):**\n- Heat players organized unofficial minicamp in California\n- Giannis Antetokounmpo skipped Greece FIBA qualifiers to attend\n- New additions: Giannis, Bobby Portis, Klay Thompson, Tim Hardaway Jr.\n- Activities: basketball work + golf + karaoke + day on Klay Thompson's boat\n- Official training camp: Sept. 29 at Kaseya Center, Miami\n- First Heat preseason game: Oct. 3 vs. Toronto Raptors in Quebec City\n- Giannis extension eligible Oct. 1; expected to wait until Jan. 6 for 4yr/$275M max\n**Freshness:** Minicamp is happening this week (Sept. 11-13 coverage). NEW story.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Devin Carter — Hawks Waive, Celtics Circle",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The Atlanta Hawks just waived Devin Carter — the No. 13 pick from 2024.\n\nHe's 24, averaged 8.9 points in limited minutes last season, and the Celtics are reportedly interested.\n\nFormer lottery picks don't hit waivers often in September. Boston could pounce. #NBA #Celtics",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA",
+            "#Celtics"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-devin-carter-hawks-waived-celtics-interest.html",
+        "headline": "The Hawks Just Waived the No. 13 Pick From 2024. The Celtics Are Reportedly Watching.",
+        "word_count": 535
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Devin Carter — Hawks / Celtics\n\n**Image 5A** — Social (1080x1350)\n- **Search term:** `Devin Carter Sacramento Kings`\n- **Usage:** X Post 5A, FB Post 5A\n- **Credit:** (USA TODAY Sports Images)\n- **Notes:** Carter in Kings or Hawks jersey; \"FREE AGENT\" or \"LOTTERY PICK AVAILABLE\" overlay"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Devin Carter — Hawks Waive, Celtics Interest\n**Sources:**\n- NBC Sports: \"NBA Offseason News/Rumors 2026: Devin Carter waived by Atlanta, may end up in Boston\"\n- CelticsBlog: \"Celtics reportedly interested in signing former lottery pick\" — celticsblog.com\n- Boston.com: \"Celtics reportedly interested in Providence College product Devin Carter\" (Sept. 11, 2026)\n- RotoWire: \"Devin Carter News: Cut loose by Atlanta\"\n**Key Facts (Confidence: HIGH):**\n- Devin Carter drafted No. 13 overall by Sacramento Kings in 2024\n- Traded to Atlanta Hawks in June 2026 as part of salary dump (Hawks clearing second apron)\n- Hawks officially waived Carter (Friday, Sept. 11, 2026)\n- Carter becomes free agent once clearing waivers\n- Boston Celtics interested, per NBA insider Jake Fischer\n- Carter stats (2025-26, Kings): 8.9 PPG, 3.3 RPG, 2.7 APG in 18.4 min over 38 games\n- Age: 24; college: Providence College\n**Freshness:** Waiver news broke Sept. 11. NEW story.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
