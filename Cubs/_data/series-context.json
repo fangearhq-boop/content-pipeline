@@ -1,25 +1,17 @@
 {
-  "generated_at": "2026-09-12T08:30:00.245855+00:00",
-  "today_ct": "2026-09-12",
+  "generated_at": "2026-09-13T08:30:00.180551+00:00",
+  "today_ct": "2026-09-13",
   "off_day": false,
   "is_series_start_today": false,
   "series": {
     "opponent": "Pittsburgh Pirates",
     "opponent_id": 134,
-    "opponent_record": "74-74",
-    "cubs_record": "82-66",
+    "opponent_record": "74-75",
+    "cubs_record": "83-66",
     "is_cubs_home": true,
     "venue": "Wrigley Field",
-    "series_length": 2,
+    "series_length": 1,
     "games": [
-      {
-        "game_pk": "824630",
-        "game_date_iso": "2026-09-12T18:20:00Z",
-        "game_date_ct": "Sat 1:20 PM CT",
-        "cubs_probable": "TBD",
-        "opponent_probable": "TBD",
-        "status": "Preview"
-      },
       {
         "game_pk": "824628",
         "game_date_iso": "2026-09-13T18:20:00Z",
@@ -32,16 +24,16 @@
     "rationale": "Same opponent (Pittsburgh Pirates) as yesterday \u2014 this is mid-series, not a series opener."
   },
   "today_cubs_game": {
-    "game_pk": "824630",
+    "game_pk": "824628",
     "status": "Preview",
     "detailed_status": "Scheduled",
-    "game_date_iso": "2026-09-12T18:20:00Z",
-    "game_date_ct": "Sat 1:20 PM CT",
+    "game_date_iso": "2026-09-13T18:20:00Z",
+    "game_date_ct": "Sun 1:20 PM CT",
     "is_cubs_home": true,
     "opponent_id": 134,
     "opponent_name": "Pittsburgh Pirates",
-    "opponent_record": "74-74",
-    "cubs_record": "82-66",
+    "opponent_record": "74-75",
+    "cubs_record": "83-66",
     "cubs_probable": "TBD",
     "opponent_probable": "TBD",
     "venue": "Wrigley Field"
