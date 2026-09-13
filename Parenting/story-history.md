@@ -2,6 +2,50 @@
 
 ---
 
+## September 13, 2026
+
+### Story 1: Harppa Nordi Toddler Tower Stool Recall
+- **Date:** 2026-09-13
+- **Tier:** T1
+- **Pillar:** National Parenting (CPSC Safety)
+- **Key Facts:** CPSC recall; 47,166 units; Model HANS0002; collapse/entrapment hazard; sold Harppababy.com + Amazon Sept 2023–June 2026 ~$130; 3 incidents, 2 injuries; free repair kit (nets + stabilizing feet); contact 833-471-9321 / recall@harppababy.com
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 2: CMZoo Military Appreciation Week + Centennial (Sept 13–19)
+- **Date:** 2026-09-13
+- **Tier:** T1
+- **Pillar:** Local Events
+- **Key Facts:** Sept 13–19 Military Appreciation Week; 50% off base admission for military/veterans/dependents; advance e-tickets only at cmzoo.org; CMZoo 100th anniversary centennial events all week; Giraffe Center opens Tuesday Sept 15
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 3: AAP 2026–27 Flu Vaccine Recommendations
+- **Date:** 2026-09-13
+- **Tier:** T1
+- **Pillar:** National Parenting (AAP Health)
+- **Key Facts:** All children 6 months+ should get flu vaccine; by end of October; 2-dose note for ages 6mo–8yr (first time OR only 1 prior dose before July 1 2026); injectable vaccines updated prescribing — small febrile seizure risk in under-5 (~1/22K–41K doses); AAP: benefits outweigh risk
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 4: D49 New Preschool Classrooms at Student Success Center
+- **Date:** 2026-09-13
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** D49 opened 2 new preschool classrooms at Student Success Center for 2026–27; D49 school year started Aug 3
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 5: Uuoeebb Infant Walker Recall (Amazon/BaoD)
+- **Date:** 2026-09-13
+- **Tier:** T2
+- **Pillar:** National Parenting (CPSC Safety)
+- **Key Facts:** CPSC recall; sold on Amazon by BaoD; fall and entrapment hazards; violates mandatory federal safety standard for infant walkers; stop use immediately; cpsc.gov/Recalls
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+---
+
 ## September 12, 2026
 
 ### Story 1: Aila+Aiden Baby Lounger CPSC Warning

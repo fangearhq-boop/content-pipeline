@@ -1,6 +1,37 @@
 # COS Parenting — Pipeline Status
 
-## Current Run: 2026-09-12
+## Current Run: 2026-09-13
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Harppa Nordi recall (CPSC.gov, 47K units, HANS0002, free repair kit); CMZoo Military Week Sept 13–19 (KOAA/KRDO/CMZoo, 50% off, Giraffe Center Sept 15 centennial); AAP flu 2026–27 (healthychildren.org/AAP, all 6mo+, 2-dose note, febrile seizure update); D49 Student Success Center preschool classrooms (d49.org/SpringsDaily); Uuoeebb infant walker recall (CPSC.gov, Amazon/BaoD, fall+entrapment) |
+| Story History Check | COMPLETE | S1 NEW (Harppa Nordi recall — distinct from prior recalls, toddler tower category); S2 NEW (CMZoo Military Week — not covered before; also Centennial angle); S3 NEW (AAP flu 2026–27 — not covered; distinct from Sep 11 RSV story); S4 NEW (D49 preschool classrooms — not covered); S5 NEW (Uuoeebb walker recall — distinct from all prior recalls, different product) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2); bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: CPSC.gov, harppababy.com, medicaldaily.com, karmactive.com, KOAA, KRDO, CMZoo Facebook, cmzoo.org, healthychildren.org, AAP Publications, CIDRAP, cppdocs.org, d49.org, SpringsDaily.com, foxbusiness.com |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows, voice check |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 6 posts across 5 stories; all ≤280 chars verified; 4 hashtags each; 0 exclamation marks; COS voice rules applied |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; no hashtags; engagement questions; COS voice rules applied |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 7 Gemini base_only prompts; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 Harppa Nordi recall (Sarah Morales, ~650 words, T1, QR table); article-02 CMZoo Military Week (Jamie Rivera, ~680 words, T1, QR table); article-03 AAP flu 2026–27 (Sarah Morales, ~650 words, T1, QR table); article-04 D49 preschool (Jamie Rivera, ~550 words, T2, no QR); article-05 Uuoeebb walker recall (Sarah Morales, ~580 words, T2, QR table) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 81 claims; HIGH/MEDIUM/LOW prioritized; image missing warnings expected (Gemini images generated separately) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 6 X posts, 5 FB posts, 5 articles; posting-window warnings known cosmetic |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 7 entries (S1: 2, S2: 2, S3–S5: 1 each), all not_started, gemini base_only, brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 26 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser compat issue — ran both standard and --tobi |
+| WordPress Publish | BLOCKED | 403 proxy — fanrumor.com blocked (known recurring issue) |
+| Story History | COMPLETE | 5 new entries prepended to Parenting/story-history.md (Sep 13 section) |
+
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 6 X posts + 5 FB posts (5 long-form + 5 captions) = 11 total
+- **Articles:** 5 (bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4])
+- **PostPlanner exports:** 0 posts (known parser compat issue)
+- **Key stories:** Harppa Nordi Toddler Tower recall (47K units, HANS0002, free repair kit, 833-471-9321); CMZoo Military Week starts today Sept 13–19 (50% off, cmzoo.org, Giraffe Center Sept 15); AAP flu 2026–27 (all 6mo+, by October, 2-dose note, febrile seizure update); D49 2 new preschool classrooms at Student Success Center; Uuoeebb infant walker recall (Amazon/BaoD, fall/entrapment)
+- **Issues:** PostPlanner 0 posts (known); WordPress blocked by proxy; dashboard push blocked (not in session authorized repos)
+
+---
+
+## Previous Run: 2026-09-12
 
 | Step | Status | Notes |
 |------|--------|-------|
