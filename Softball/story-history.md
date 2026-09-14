@@ -2185,3 +2185,59 @@ _This file tracks every story covered, the angle used, content produced, and fol
 - **Status:** FOLLOW UP
 - **Key Facts:** Jaysoni Beachum (.406BA, 10HR, 69RBI, All-ACC 1st Team FSU), Kasidi Pickering (No. 2 transfer, .384BA, 50HR OU), Jayden Heavener (LHP 13-9, 2.81ERA, 128Ks LSU) — Week 3 fall camp. Glasco Year 2 TTU; WCWS runner-up 2026 with LSU. 7 All-Americans never practiced together before this fall. Leaders emerging Week 3.
 - **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+
+---
+
+## September 14, 2026
+
+### Story 1: USA WNT — 3-0 Through Day 2, Day 3 at Devon Park
+- **Date:** 2026-09-14
+- **Tier:** 1
+- **Classification:** FOLLOW UP (ongoing WNT tournament since Sept 12)
+- **Angle:** USA 3-0 through Day 2 (beat Mexico Day 1, beat Brazil 17-0 Day 2 run-rule, beat Netherlands Day 2 nightcap). Day 3 action today. Playoffs Sept 16. Top 2 → 2027 Finals Redcliffe QLD (LA28 qualifier). USA 5-0 at Devon Park internationally. Gasso/JT/Rocha coaching staff, 4 Sooners on roster, Garcia+Mulipola Tokyo 2020 silver.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Day 3 results (Sept 14)
+  - Day 4 results (Sept 15)
+  - Sept 16 playoff results — top 2 earn direct 2027 Finals berths
+
+### Story 2: Oklahoma — Gasso Returns Monday, Fall Camp Final Phase
+- **Date:** 2026-09-14
+- **Tier:** 2
+- **Classification:** FOLLOW UP (OU fall tracked throughout; Gasso departs angle evolves → Gasso returns angle)
+- **Angle:** Gasso returns Norman Sept 16 after WNT playoffs. 16 days to fall opener (Sept 30 vs Tarleton State). Wells 32HR NCAA FR record, Berzon 2.02ERA/406K, Harter .346 holding down camp.
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Gasso returns Sept 16
+  - Fall opener Sept 30 vs Tarleton State
+
+### Story 3: Class of 2028 — Day 5, Commit Wave Accelerating
+- **Date:** 2026-09-14
+- **Tier:** 2
+- **Classification:** FOLLOW UP (2028 recruiting tracked weekly since Aug/Sept window)
+- **Angle:** Day 5 of in-person window (opened Sept 9). OSU Peyton Cleary (top-100 IF, Liberty North MO, first OSU 2028 pledge), LSU Joley Bennett (five-star), OU hosted Schlader+Campos (five-star), TAMU+Tennessee+SC Top 30 haul.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Weekly commit wave tracking Sept-Oct
+  - Top-10 uncommitted Class 2028 prospects
+
+### Story 4: Texas Longhorns — 15 Days to Opener, Torres Settling In
+- **Date:** 2026-09-14
+- **Tier:** 3
+- **Classification:** FOLLOW UP (Texas tracked throughout fall)
+- **Angle:** Torres (2026 D1Softball POY) Week 2 in Austin. Kavan senior year 2x WCWS MOP. Three-peat = UCLA 1988-90+OU 2021-23. Fall opener Sept 29 Murray State 15 days. NFCA Staff of Year 2nd consecutive.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Fall opener result Sept 29
+  - Three-peat national storyline
+
+### Story 5: 4 Programs to Watch This Fall — Nebraska, OSU, Duke, A&M
+- **Date:** 2026-09-14
+- **Tier:** 3
+- **Classification:** NEW
+- **Angle:** Nebraska WCWS runner-up 2026/trending up. OSU 5 transfers+8 fall exhibitions+first 2028 commit. Duke dark horse. TAMU elite 2028 recruiting haul.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Nebraska vs OSU fall exhibition results
+  - Duke fall camp updates
+  - TAMU 2028 class development
