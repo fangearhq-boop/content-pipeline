@@ -6605,3 +6605,53 @@
 - **Byline:** Elena Voss
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Official FOM announcement, full revised calendar
+
+## 2026-09-14
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-14 | T1 | Hamilton Concedes 2026 F1 Title After Brake Failure at Madring — 'No Stopping' Antonelli | X(2), FB, Article | FOLLOW UP |
+| 2026-09-14 | T1 | Antonelli 81 Clear, Three Wins in a Row — The 2026 F1 Title Is Now His to Lose | X(2), FB, Article | FOLLOW UP |
+| 2026-09-14 | T2 | Ferrari's Madring Double Disaster — Hamilton DNF, Leclerc VSC Miss, McLaren Just 52 Points Back | X(1), FB, Article | FOLLOW UP |
+| 2026-09-14 | T2 | Baku on a Saturday — 2026 Azerbaijan Grand Prix Is Unlike Any Race in Circuit History | X(1), FB, Article | NEW |
+| 2026-09-14 | T2 | Domenicali's Mid-September Deadline Is Today — F1's Season Finale Calendar Decision Is Now | X(1), FB, Article | FOLLOW UP |
+
+### STORY 1: Hamilton Concedes Title After Madring DNF
+- **Tier:** 1
+- **Category:** Lewis Hamilton / Ferrari / Madring Spanish GP / F1 Championship
+- **Key facts:** Hamilton DNF Lap 7 (brake failure, pedal going long); qualified P4; first DNF of 2026; conceded title in post-race; 101 pts behind Antonelli; 233 pts available; 9 rounds left; Ferrari scored 12 pts (Leclerc P4)
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Ferrari brake system fix, Hamilton Baku result, title math update
+
+### STORY 2: Antonelli Championship Lead — 81 Points Clear
+- **Tier:** 1
+- **Category:** Kimi Antonelli / Mercedes / F1 Championship / George Russell
+- **Key facts:** Antonelli: 292 pts (+25 from Madring win); Russell: 211 (-81); Hamilton: 191 (-101); Norris: 186 (-106); Leclerc: 167 (-125); Verstappen: 145 (-147); Race 14 of 23; 9 rounds, 233 pts left; Antonelli VSC strategy win; 3 consecutive wins (Dutch, Monza, Madring)
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Baku result, title clinch math, when earliest Antonelli can clinch
+
+### STORY 3: Ferrari Constructors' Crisis
+- **Tier:** 2
+- **Category:** Ferrari / Lewis Hamilton / Charles Leclerc / F1 Constructors Championship / McLaren
+- **Key facts:** Constructors: Mercedes 503, Ferrari 358 (-145), McLaren 306 (52 behind Ferrari); Hamilton DNF (brakes Lap 7); Leclerc P4 (VSC strategy miss — kept out when Antonelli pitted); Ferrari scored 12 pts; McLaren scored 15; 403 constructors pts remaining
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Ferrari strategic review, McLaren Baku result, constructors gap trend
+
+### STORY 4: Azerbaijan GP Preview — Saturday Race
+- **Tier:** 2
+- **Category:** Azerbaijan Grand Prix / Baku / F1 Calendar / Saturday Race
+- **Key facts:** Azerbaijan GP Sept. 24-26 Baku City Circuit; RACE ON SATURDAY (first ever — National Day of Mourning Sept. 27); 6.003km 20-turn street circuit; no sprint format; Katy Perry + Calvin Harris entertainment; 340 kph main straight; historically chaotic/high safety car rate
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+- **Follow-up ideas:** FP1/qualifying results, race result, championship implications
+
+### STORY 5: Season Finale Calendar Deadline
+- **Tier:** 2
+- **Category:** F1 Calendar / Stefano Domenicali / Qatar / Abu Dhabi / Imola / Season Finale
+- **Key facts:** Domenicali "before mid-September" deadline = today; Qatar Nov. 29 (uncertain); Abu Dhabi Dec. 6 (reportedly confirmed); Bahrain+Saudi already cancelled; Malaysia Sepang Oct. 2-4 replacement; Imola = "ideal solution" for European contingency; Portimao backup
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official FOM announcement, calendar confirmation/replacement announcement

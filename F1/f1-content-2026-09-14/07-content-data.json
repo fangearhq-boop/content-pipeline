@@ -1,0 +1,260 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-14",
+  "compiled_at": "2026-09-14T11:24:41.499106+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Hamilton Concedes 2026 F1 Title After Madring DNF — Brake Failure Ends Championship Hopes",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Lewis Hamilton has conceded the 2026 F1 title.\n\nLap 7 at Madring: brake failure. First DNF of the season. Zero points.\n\nNow 101 behind Antonelli with 233 available. Technically possible. Practically over.\n\n\"No stopping\" Antonelli. 🏆",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 232
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Hamilton's Madring brake failure in numbers:\n\n- Lap 7 DNF (first of 2026)\n- Qualified P4, finished last\n- 101 points behind Antonelli\n- Only Leclerc scored for Ferrari (P4)\n- McLaren now just 52 pts behind Ferrari in Constructors'\n\nFerrari's worst weekend of 2026.",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 264
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-hamilton-concedes-title-madring-dnf.html",
+        "headline": "Hamilton Concedes the 2026 F1 Title After Brake Failure at Madring — 'No Stopping' Antonelli",
+        "word_count": 721
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hamilton DNF Madring\n\n**Image 1 (Social 1080x1350):**\n- Imagn search: \"Lewis Hamilton Ferrari\"\n- Caption overlay: \"TITLE CONCEDED\" / \"DNF Madring Lap 7\"\n- Mode: base_only\n\n**Image 2 (Article hero 1200x630):**\n- Imagn search: \"Lewis Hamilton car\"\n- Mode: complete\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Hamilton Concedes Title After Madring DNF\n**Sources:**\n- ESPN: \"Hamilton concedes F1 title after early Spanish GP retirement; 'no stopping' Antonelli\" (https://www.espn.com/f1/story/_/id/49926922/lewis-hamilton-suffers-early-retirement-spanish-grand-prix)\n- Motorsport Week: \"Lewis Hamilton handed F1 title blow with Spanish GP exit\" (https://www.motorsportweek.com/2026/09/13/lewis-hamilton-out-of-f1-spanish-gp-following-brake-issue/)\n**Verified facts (HIGH confidence):**\n- Hamilton DNF — retired Lap 7 at Madring due to brake failure (pedal going long)\n- Qualified fourth at Madring\n- First DNF of the 2026 season\n- Hamilton conceded the 2026 title to Antonelli after retiring\n- Hamilton now 101 points behind Antonelli\n- Quote referenced: \"no stopping\" Antonelli (ESPN headline)\n- Hamilton stood 5th in championship at Madring start (191 pts)\n**Freshness:** Race was September 13; post-race fallout and Hamilton's title concession is fresh Sept. 14 follow-up.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Post-Madring Standings — Antonelli 292 Points, 81 Clear of Russell With 9 Rounds Left",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "2026 #F1 standings after Madring:\n\n1. Antonelli — 292 pts ✅\n2. Russell — 211 pts (-81)\n3. Hamilton — 191 pts (-101)\n4. Norris — 186 pts (-106)\n\n9 rounds left. 233 pts available. Antonelli's to lose.",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 198
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Kimi Antonelli has now won three consecutive F1 races: Dutch GP, Monza, Madring.\n\nHe's a 20-year-old Mercedes driver closing in on his first World Championship.\n\n9 rounds left. 81-point lead. \"No stopping him.\" #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 214
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-antonelli-81-clear-three-wins-row.html",
+        "headline": "Antonelli 81 Clear, Three Wins in a Row: The 2026 F1 Title Is Now His to Lose",
+        "word_count": 614
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli Championship Lead\n\n**Image 1 (Social 1080x1350):**\n- Imagn search: \"Kimi Antonelli Mercedes\"\n- Caption overlay: \"+81 POINTS\" / \"3 Wins in a Row\"\n- Mode: base_only\n\n**Image 2 (Article hero 1200x630):**\n- Imagn search: \"Kimi Antonelli Formula 1\"\n- Mode: complete\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Post-Madring Championship Standings\n**Sources:**\n- Motorsport.com: \"2026 F1 Championship standings: Kimi Antonelli closes in on the title\" (https://www.motorsport.com/f1/news/standings-antonelli-closes-in-on-the-title/10855447/)\n- RacingNews365: \"2026 F1 championship standings after Spanish Grand Prix at Madrid\" (https://racingnews365.com/2026-f1-championship-standings-after-spanish-grand-prix-at-madrid)\n- GrandePremio: \"F1 standings after Spanish GP: Antonelli opens 81-point lead over Russell\"\n- ScuderiaFans: \"2026 F1 standings after Spanish GP: Antonelli extends lead as Hamilton falls 101 points back\"\n**Verified facts (HIGH confidence):**\n- Post-Madring Driver Standings:\n1. Antonelli (Mercedes): 292 pts\n2. Russell (Mercedes): 211 pts (-81)\n3. Hamilton (Ferrari): 191 pts (-101)\n4. Norris (McLaren): 186 pts (-106)\n5. Leclerc (Ferrari): 167 pts (-125)\n6. Verstappen (Red Bull): 145 pts (-147)\n- Race 14 of 23; 9 rounds remaining\n- Points available remaining: 233 pts (in drivers')\n- Race result: Antonelli P1, Verstappen P2 (+4.351s), Norris P3 (+5.089s), Leclerc P4\n- Antonelli won via VSC pitstop strategy — started P2, gained lead via VSC pit\n- 3 consecutive wins: Dutch GP, Italian GP (Monza), Spanish GP (Madring)\n**Freshness:** Post-race standings just confirmed Sept. 13; analysis on Sept. 14.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Ferrari Constructors' Crisis — Mercedes +145, McLaren Closing Fast After Madring",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Ferrari's Madring damage report:\n\n🔴 Hamilton: DNF lap 7 (brakes)\n🔴 Leclerc: P4 (VSC strategy miss)\n🟡 McLaren: P3 (Norris) and climbing\n\nMercedes: 503 pts. Ferrari: 358 pts (-145). McLaren: 306 pts.\n\nMcLaren is 52 points from second in Constructors'. This isn't over. #F1 #Ferrari",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Ferrari"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-ferrari-constructors-crisis-mclaren-closing.html",
+        "headline": "Ferrari's Madring Double Disaster: Hamilton DNF, Leclerc VSC Miss — McLaren Now Just 52 Points Back",
+        "word_count": 580
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ferrari Constructors' Crisis\n\n**Image 1 (Social 1080x1350):**\n- Imagn search: \"Charles Leclerc Ferrari\"\n- Caption overlay: \"CONSTRUCTORS CRISIS\" / \"McLaren Closing In\"\n- Mode: base_only\n\n**Image 2 (Article hero 1200x630):**\n- Imagn search: \"Ferrari Formula 1 team\"\n- Mode: complete\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Ferrari Constructors' Crisis\n**Sources:**\n- ScuderiaFans: \"2026 F1 constructor standings after Spanish GP: Mercedes leads Ferrari by 145 points\"\n- ScuderiaFans: \"Why Ferrari kept Charles Leclerc out during the Madrid Virtual Safety Car\"\n- GPBlog: \"F1 Driver and Constructors' standings after the Spanish GP\"\n**Verified facts (HIGH confidence):**\n- Constructors' standings after Madring:\n1. Mercedes: 503 pts\n2. Ferrari: 358 pts (-145)\n3. McLaren: 306 pts (-52 behind Ferrari, -197 behind Mercedes)\n4. Red Bull: 230 pts\n- Hamilton DNF (brake issue Lap 7) — zero points for Ferrari at Madring from Hamilton\n- Leclerc finished P4 at Madring — strategic controversy: Ferrari kept Leclerc out during VSC when Antonelli pitted\n- Hamilton 101 pts behind Antonelli; Leclerc 125 pts behind\n- McLaren (Norris P3) cutting Ferrari's Constructors' lead\n**Freshness:** Ferrari's double disaster at Madring (Hamilton DNF + VSC strategy miss) is fresh post-race analysis.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Azerbaijan Grand Prix Preview — Baku Street Race on Saturday, Sept. 27 for the First Time",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Next F1 race: Baku, Azerbaijan. Sept. 24-26.\n\nBut here's the twist: the race is on SATURDAY for the first time in Baku GP history.\n\nNational Day of Mourning falls on Sunday — so F1 shifts the race.\n\nOne of the wildest circuits. Now with an even wilder schedule. #F1 #AzerbaijanGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#AzerbaijanGP"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-baku-saturday-azerbaijan-gp-preview.html",
+        "headline": "Baku on a Saturday: The 2026 Azerbaijan Grand Prix Is Unlike Any Race in the Circuit's History",
+        "word_count": 579
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Azerbaijan GP Preview\n\n**Image 1 (Social 1080x1350):**\n- Imagn search: \"Baku street circuit Formula 1\"\n- Caption overlay: \"BAKU ON A SATURDAY\" / \"Sept. 24-26\"\n- Mode: base_only\n\n**Image 2 (Article hero 1200x630):**\n- Imagn search: \"Azerbaijan Grand Prix\"\n- Mode: complete\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Azerbaijan Grand Prix Preview\n**Sources:**\n- Crash.net: \"When is the next Formula 1 race after the Spanish Grand Prix?\"\n- Baku City Circuit / formula1.com: \"FORMULA 1 AZERBAIJAN GRAND PRIX 2026\"\n- GPDestinations: \"2026 Azerbaijan Grand Prix Travel Guide\"\n**Verified facts (HIGH confidence):**\n- Azerbaijan Grand Prix 2026: September 24-26, Baku City Circuit\n- Race on SATURDAY September 26 (not Sunday) — first time in Baku GP history; avoids Azerbaijan National Day of Mourning on September 27\n- Entertainment: Katy Perry and Calvin Harris headlining\n- No sprint format at Baku 2026\n- Street circuit: 6.003km, 20 turns, famous Castle and old town section\n- 13 days from today (Sept 14)\n**Freshness:** With Madring concluded, all eyes turn to Baku. First-ever Saturday race in Azerbaijan is new angle.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Season Finale Calendar — Domenicali's Mid-September Deadline Is Here",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Domenicali promised a decision \"before mid-September\" on the 2026 F1 season finale.\n\nThat deadline is TODAY.\n\nQatar (Nov. 29) and Abu Dhabi (Dec. 6) are on the calendar. But the regional situation may force a change. Imola is ready if needed.\n\nWatch this space. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-domenicali-mid-september-deadline-season-finale.html",
+        "headline": "Domenicali's Mid-September Deadline Is Today: F1's Season Finale Calendar Decision Is Now",
+        "word_count": 569
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Season Finale Calendar\n\n**Image 1 (Social 1080x1350):**\n- Imagn search: \"Stefano Domenicali Formula 1\"\n- Caption overlay: \"DEADLINE DAY\" / \"Qatar or Abu Dhabi?\"\n- Mode: base_only\n\n**Image 2 (Article hero 1200x630):**\n- Imagn search: \"F1 Abu Dhabi Grand Prix\"\n- Mode: complete"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Season Finale Calendar — Domenicali Deadline Arriving\n**Sources:**\n- Speedcafe: \"F1 news: F1 sets finale deadline as 2027 calendar delayed\"\n- Crash.net: \"Stefano Domenicali makes key announcement over uncertain 2026 and 2027 F1 calendars\"\n- GrandePremio: \"Italian federation points to Imola as 'ideal solution' to host 2026 F1 season finale\"\n- The Week.in: \"F1 confirms 2026 season finale in Abu Dhabi, dispelling rumours\"\n- ABC News: \"Formula 1 CEO Stefano Domenicali says September call on end of season\"\n**Verified facts (HIGH confidence):**\n- Domenicali committed to a decision \"before mid-September\" on Qatar/Abu Dhabi races\n- Qatar scheduled: November 29 (was previously Nov. 27-29)\n- Abu Dhabi scheduled: December 6 (finale)\n- Bahrain and Saudi Arabia races already CANCELLED (replaced by Malaysia Oct. 2-4)\n- Imola positioned as \"ideal solution\" for European alternative finale\n- Portimao also mentioned as contingency\n- Mid-September deadline = THIS WEEK (Sept 14)\n- Conflicting reports: one source (The Week.in from Aug. 24) says Abu Dhabi confirmed; decision appears still pending for Qatar\n**Freshness:** Domenicali's self-imposed mid-September deadline arrives this week.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
