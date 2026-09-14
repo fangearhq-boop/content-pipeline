@@ -1,0 +1,311 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-14",
+  "compiled_at": "2026-09-14T09:21:15.344270+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Series Preview — Cubs vs Braves, Game 1",
+      "type": "Informative"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Game Recap — Pirates 4, Cubs 3",
+      "type": "Recap"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Wild Card Standings — Cubs Lead WC1",
+      "type": "Analysis"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "PCA 40-40 Watch — 41 HR / 36 SB",
+      "type": "Milestone/Bold"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Braves Stakes — Lopez's Last Start",
+      "type": "Bold Take"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Swanson Return — Closing In",
+      "type": "Roster News"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Pre-Game Hype — Wrigley Tonight",
+      "type": "Fan Energy"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Series Preview — Cubs vs Braves, Game 1 at Wrigley",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "MANDATORY series-start slot. Braves (88-62) are NL East leaders. Cubs (83-67) hold WC1. 3-game home series at Wrigley starting tonight (6:40 PM CT). Peterson vs. Lopez. Stakes: WC1 home-field AND possible October NLDS matchup. Lopez comes off worst start of his season vs. Rays.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "88-62 Braves. 83-67 Cubs. Wrigley. Tonight.\n\nAtlanta leads the NL East and is a possible October opponent. Chicago holds WC1 and home-field. 3 games this week that matter beyond just the standings.\n\nFirst pitch 6:40 PM CT. Peterson vs. Lopez.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 7,
+        "claims_flagged": 4,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Series Preview — Cubs vs Braves, Game 1 at Wrigley\n**Verified Facts**\n- **[HIGH]** Cubs are 83-67 (per series-context.json, generated 2026-09-14T08:30:00Z)\n- **[HIGH]** Atlanta Braves are 88-62 (per series-context.json)\n- **[HIGH]** Series is 3 games, Sept 14-16, at Wrigley Field (home for Cubs)\n- **[HIGH]** Game 1 first pitch: 6:40 PM CT (23:40 UTC per series-context.json game_date_iso)\n- **[HIGH]** Braves lead NL East — NL East leaders per multiple search results (CBS Sports, Fox Sports, MLB.com)\n- **[MEDIUM]** Probable pitchers: David Peterson (Cubs, 7-8, 5.28 ERA) vs. Reynaldo Lopez (Braves, 4-4, 4.13 ERA) — from search AI summaries, not primary-source box score; MLB.com gameday preview URL confirmed\n- **[MEDIUM]** Reynaldo Lopez return from injury, had 7 ER in 4.2 IP vs. Rays on Sept 9 — multiple sources (Clutchpoints, MLB Trade Rumors) confirm Lopez activation from IL and poor return start; specific line (7 ER / 4.2 IP) from search AI summary (MEDIUM until verified from box score)\n- **[MEDIUM]** 2026 H2H: Braves lead Cubs 2-1 entering series — from StatMuse search AI summary; MEDIUM",
+        "sources": "Sources:\n- Cubs/_data/series-context.json (generated_at 2026-09-14T08:30:00Z) — primary source for series structure\n- https://www.mlb.com/gameday/braves-vs-cubs/2026/09/14/824629/preview\n- https://www.mlbtraderumors.com/2026/09/braves-to-activate-reynaldo-lopez-on-wednesday.html\n- https://clutchpoints.com/mlb/atlanta-braves/braves-news-atlanta-to-give-reynaldo-lopez-another-chance-vs-cubs-after-disastrous-return-start"
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Game Recap — Pirates 4, Cubs 3 (Series Finale)",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Cubs drop the series finale 4-3. Amaya's 6th HR gave Cubs the lead; a two-run single in the 6th turned it around. Boyd left with runners on, pen couldn't hold. Cubs still took the series 2-1. Reset mindset — Braves tonight.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Miguel Amaya's sixth homer put the Cubs ahead 2-1.\n\nA two-run single in the sixth inning turned it around. Boyd left with runners on; the pen couldn't hold. Final: Pirates 4, Cubs 3.\n\nChicago still took the series 2-1. Braves start tonight.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 5,
+        "claims_flagged": 4,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Game Recap — Pirates 4, Cubs 3 (Series Finale)\n**Verified Facts**\n- **[HIGH]** Final score: Pirates 4, Cubs 3 — confirmed by ESPN URL title \"Pirates 4-3 Cubs (Sep 13, 2026)\", Yahoo Sports headline, Bleed Cubbie Blue headline, MLB.com game story URL\n- **[HIGH]** Series result: Cubs won 2-1 over Pittsburgh — Games 1 and 2 wins per pipeline-status.md; Game 3 loss confirmed above\n- **[MEDIUM]** Miguel Amaya HR (his 6th of the year) giving Cubs a 2-1 lead — from search AI summary of Bleed Cubbie Blue article; BCB article title confirms Amaya; \"sixth\" unverified from primary source\n- **[MEDIUM]** Matthew Boyd started and left with runners on base — consistent across Yahoo Sports (\"Boyd deserved better\"), BCB summary; specific IP not confirmed\n- **[MEDIUM]** Two-run single in 6th inning turned 2-1 Cubs lead to 4-2 — from search AI summary; search attributed to \"Brandon Lowe\" but Lowe's 2026 team not confirmed (historically Rays; possibly traded); elected NOT to name the batter in tweet to avoid potential misattribution\n- **[LOW]** Aaron Civale named as Cubs reliever who allowed the rally — from AI summary; could not verify Civale is on the 2026 Cubs roster; not used in tweet",
+        "sources": "Sources:\n- https://www.espn.com/mlb/boxscore/_/gameId/401816929 (Pirates 4-3 Cubs, Sep 13)\n- https://sports.yahoo.com/articles/pirates-4-cubs-3-matthew-221001813.html\n- https://www.bleedcubbieblue.com/chicago-cubs-scores/233184/cubs-pirates-score-matthew-boyd-miguel-amaya-mlb\n- https://www.mlb.com/stories/game/824628"
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Wild Card Standings — Cubs Lead WC1 by 1 Game",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Cubs 83-67, WC1, magic number ~9. Phillies ~1 game back. 12 games left. Every Braves win builds cushion on home-field for the Wild Card Series.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Cubs 83-67. Magic number to clinch: 9.\n\nWC1 — 1 game up on Philadelphia. 12 games left on the schedule.\n\nEach win this week against the NL East-leading Braves tightens the grip on home-field for the Wild Card Series.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 241
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 4,
+        "claims_flagged": 7,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Wild Card Standings — Cubs Lead WC1 by 1 Game\n**Verified Facts**\n- **[HIGH]** Cubs record: 83-67 (series-context.json primary source)\n- **[HIGH]** Cubs hold WC1 (confirmed consistent across all standings search results entering Sept 14)\n- **[HIGH]** Cardinals eliminated from contention (confirmed prior pipeline; consistent)\n- **[HIGH]** Brewers won NL Central (93-56 per search)\n- **[MEDIUM]** Games remaining: 12 (calculated: 83+67=150 games played; 162-150=12; assumes no doubleheaders yet unplayed; MEDIUM)\n- **[MEDIUM]** Cubs lead Phillies by ~1 game for WC1 — from NL WC search results; Phillies exact record not confirmed after Sept 13 games; estimated ~82-67\n- **[MEDIUM]** Magic number to clinch: ~9 — from cubsmagicnumber.net (most recent page title \"The Chicago Cubs Magic Number: 9\"); MEDIUM, not cross-referenced",
+        "sources": "Sources:\n- Cubs/_data/series-context.json\n- https://www.cbssports.com/mlb/news/2026-mlb-playoff-picture-standings-bracket/\n- https://www.cubsmagicnumber.net/\n- https://sportsbrackets.net/2026/05/23/2026-mlb-standings/"
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "PCA 40-40 Watch — 41 HR / 36 SB",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "PCA at 41 HR / 36 SB, 4 SBs from history. Six players in MLB have ever done it. No Cub ever. 12 games to make history.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Pete Crow-Armstrong: 41 HR / 36 SB.\n\nFour stolen bases from 40-40 history. Six players in MLB have ever done it — Canseco, Bonds, A-Rod, Soriano, Acuña, Ohtani.\n\nNo Cub has EVER joined that club. PCA has 12 games.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 5,
+        "claims_flagged": 4,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "PCA 40-40 Watch — 41 HR / 36 SB\n**Verified Facts**\n- **[HIGH]** PCA: 41 HR / 36 SB entering Sept 14 — consistent across pipeline-status.md (Sept 13 update), CBS Sports search result, multiple search summaries\n- **[HIGH]** No Cub has ever achieved 40-40 in a season — consistent claim in pipeline since Sept 9; no conflicting source found\n- **[MEDIUM]** Six players in MLB history have done 40-40 — from CBS Sports search result quote (\"The 40-40 club has six members in all of MLB history\"); consistent with prior pipeline; MEDIUM because specific membership list not verified from primary source for this run\n- **[MEDIUM]** 12 games remaining — calculated (150 played, 162-150=12); MEDIUM\n- **[MEDIUM]** PCA season stats (context): .948 OPS, 111 runs, 98 RBI — from CBS Sports search result; not cross-referenced",
+        "sources": "Sources:\n- Cubs/pipeline-status.md (Sept 13 run update, PCA 41 HR / 36 SB)\n- https://www.cbssports.com/mlb/players/26615365/pete-crow-armstrong/splits/\n- https://www.si.com/mlb/cubs/where-pete-crow-armstrong-2026-season-ranks-among-best-in-cubs-history"
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Braves Stakes — Lopez's Last Start",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Reynaldo Lopez's return start vs. Rays Sept 9: 7 ER in 4.2 IP. Back on the mound tonight for the NL East leaders. Cubs' lineup won't be forgiving. Bold take: if these teams meet in October, tonight is a preview. Implied advantage to Chicago's bats.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Reynaldo Lopez's last start: 7 earned runs in 4.2 innings vs. Tampa Bay.\n\nHe's back on the mound tonight for the NL East leaders. Chicago's lineup doesn't forgive a rocky IL return.\n\nIf these two meet in October, tonight's first impression counts.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 4,
+        "claims_flagged": 2,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Braves Stakes — Lopez's Last Start\n**Verified Facts**\n- **[HIGH]** Braves are NL East leaders (88-62) — consistent across all standings search results\n- **[MEDIUM]** Reynaldo Lopez's last start (Sept 9 vs. Rays): 7 earned runs in 4.2 innings — from Clutchpoints article and search AI summary; consistent across two sources (Clutchpoints + Field Level Media); MEDIUM because specific pitching line from AI summary\n- **[MEDIUM]** Lopez returned from IL — MLB Trade Rumors article confirms \"Braves To Activate Reynaldo Lopez On Wednesday\"; consistent\n- **[MEDIUM]** Braves 7-3 in last 10 games — from thedatastreak.com search summary; MEDIUM (single source AI summary)\n- **[MEDIUM]** Possible NLDS matchup between Cubs and Braves in October — from CBS Sports playoff picture; ESPN playoff tracker; multiple consistent sources confirm Braves as NL East division winners",
+        "sources": "Sources:\n- https://clutchpoints.com/mlb/atlanta-braves/braves-news-atlanta-to-give-reynaldo-lopez-another-chance-vs-cubs-after-disastrous-return-start\n- https://fieldlevelmedia.com/mlb/braves-reynaldo-lopez-likely-to-return-for-clash-vs-rays/\n- https://www.mlbtraderumors.com/2026/09/braves-to-activate-reynaldo-lopez-on-wednesday.html\n- https://www.cbssports.com/mlb/news/2026-mlb-playoff-picture-standings-bracket/"
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Swanson Return — Closing In",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "22 games, Grade 2 oblique strain, gone since Aug. 16. Dansby Swanson nearing end of IL stint, targeting return this week (Cincinnati, ~Sept 18). Rehab at Iowa continues. 12 games left in the season.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "22 games. Grade 2 oblique strain. Gone since Aug. 16.\n\nDansby Swanson is nearing the end of his IL stint — Cubs are targeting his return this week. Rehab work at Iowa continues.\n\nWith 12 games left, Chicago needs its shortstop back.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 5,
+        "claims_flagged": 6,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Swanson Return — Closing In\n**Verified Facts**\n- **[HIGH]** Dansby Swanson placed on IL Aug 17 with Grade 2 left oblique strain — consistent across Yahoo Sports, Clutchpoints, Athlonsports, Cubs pipeline-status.md\n- **[HIGH]** Swanson has not played since Aug 16 — confirmed per search (\"hasn't played since August 16\") and pipeline-status.md\n- **[MEDIUM]** 22 games missed — from Yahoo Sports search summary; consistent with pipeline-status.md note\n- **[MEDIUM]** Nearing return; Cubs targeting this week — from multiple search results (clutchpoints.com, sportsmockery.com, yardbarker.com confirm \"near-term return\"); specific Cincinnati trip target (Sept 18) from pipeline-status.md",
+        "sources": "Sources:\n- Cubs/pipeline-status.md (Sept 13 run: \"targeting activation Sept 18 in Cincinnati\")\n- https://sports.yahoo.com/articles/cubs-news-dansby-swanson-injury-031459522.html\n- https://clutchpoints.com/mlb/chicago-cubs/cubs-news-dansby-swanson-injury-timeline-return-near\n- https://athlonsports.com/mlb/chicago-cubs/cubs-dansby-swanson-injury-rehab-assignment-update"
+      }
+    },
+    {
+      "story_num": 7,
+      "title": "Pre-Game Hype — Wrigley Tonight",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "David Peterson (7-8, 5.28 ERA) vs. Reynaldo Lopez (coming off worst start of season). Not a marquee matchup, but the Cubs have lineup advantages. Win this one.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "David Peterson: 7-8, 5.28 ERA.\n\nNot the ace matchup — but Reynaldo Lopez is coming off the worst start of his season (7 ER in 4.2 IP). Cubs' lineup is better than their record. Take the advantage.\n\nWrigley tonight. 6:40 PM CT.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 4,
+        "claims_flagged": 8,
+        "errors_corrected": 1
+      },
+      "research": {
+        "facts": "Pre-Game Hype — Wrigley Tonight\n**Verified Facts**\n- **[MEDIUM]** David Peterson: 7-8, 5.28 ERA — from search AI summary (CBS Sports search; FanGraphs link); MEDIUM (specific W-L and ERA from summary, not primary source lookup this run)\n- **[HIGH]** Game tonight at Wrigley, 6:40 PM CT — confirmed by series-context.json\n- **[MEDIUM]** Lopez coming off worst start of season — referenced across multiple sources; \"7 ER in 4.2 IP\" claim MEDIUM per Story 5 notes",
+        "sources": "Sources:\n- Cubs/_data/series-context.json\n- https://www.mlb.com/player/david-peterson-656849\n- Reynaldo Lopez sources (see Story 5)"
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

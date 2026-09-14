@@ -5,6 +5,65 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-09-14
+
+### STORY 1: Series Preview — Cubs vs Braves, Game 1 at Wrigley (Series Start)
+- **Angle:** NEW STORY. MANDATORY series-start slot. Braves (88-62) at Cubs (83-67), 3-game home series at Wrigley Field starting tonight (6:40 PM CT). Peterson vs. Lopez. Stakes: Cubs hold WC1 home-field; Braves (NL East leaders) are a possible October NLDS opponent. Lopez comes off 7 ER / 4.2 IP disaster start vs. Rays on Sept 9.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, mandatory series preview)
+- **Follow-Up Opportunities:**
+  - Game 1 result recap (Sept 15 morning)
+  - Braves series Game 2 preview
+  - Series sweep/salvage resolution
+
+### STORY 2: Game Recap — Pirates 4, Cubs 3 (Series Finale)
+- **Angle:** FOLLOW UP. Cubs lost the series finale 4-3 to Pittsburgh. Amaya's 6th HR gave Cubs a 2-1 lead; a two-run single in the 6th inning flipped it; Boyd left with runners on, pen couldn't hold. Cubs still took series 2-1. Now 83-67.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - Boyd's overall September stretch (ERA since IL return)
+  - Bullpen depth/stability heading into October
+
+### STORY 3: Wild Card Standings — Cubs Hold WC1
+- **Angle:** FOLLOW UP. Cubs 83-67, WC1 with magic number ~9. ~1 game up on Phillies. 12 games remaining. Each Braves series win builds home-field cushion for Wild Card round.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, standings)
+- **Follow-Up Opportunities:**
+  - Daily standings updates
+  - Magic number countdown to clinch
+  - WC1 clinch announcement
+
+### STORY 4: PCA 40-40 Watch — 41 HR / 36 SB
+- **Angle:** FOLLOW UP. PCA at 41 HR / 36 SB, 4 SBs from 40-40 history. Six players in MLB have ever done it. No Cub ever. 12 games remaining.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, milestone)
+- **Follow-Up Opportunities:**
+  - Each stolen base milestone en route to 40-40
+  - Historic 40-40 achievement announcement when it happens
+
+### STORY 5: Braves Stakes — Lopez's Disastrous Last Start
+- **Angle:** NEW STORY. Lopez (4-4, 4.13 ERA) returned from IL and had worst start of his season Sept 9 (7 ER, 4.2 IP vs. Rays). Back on mound tonight. Angle: Cubs' lineup should exploit this. Bold October-preview framing.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, bold take)
+- **Follow-Up Opportunities:**
+  - Lopez's line from tonight's game
+
+### STORY 6: Dansby Swanson Return — Closing In
+- **Angle:** FOLLOW UP. Swanson (Grade 2 oblique, out since Aug. 16, 22 games) nearing end of IL stint. Cubs targeting return this week (Cincinnati trip ~Sept 18). Iowa rehab ongoing.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, roster news)
+- **Follow-Up Opportunities:**
+  - Swanson activation announcement
+  - Return game performance
+
+### STORY 7: Pre-Game Hype — Wrigley Tonight
+- **Angle:** NEW STORY. Peterson (7-8, 5.28 ERA) vs. Lopez. Not the marquee ace matchup, but Cubs' lineup advantage over a shaky returning pitcher. Wrigley tonight, 6:40 PM CT.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, fan energy)
+- **Follow-Up Opportunities:** N/A (one-off hype)
+
+---
+
 ## 2026-09-13
 
 ### STORY 1: Game Recap — Cubs 4-3 Pirates, Comeback in the 8th
