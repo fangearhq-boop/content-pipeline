@@ -1,0 +1,250 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-14",
+  "compiled_at": "2026-09-14T11:35:09.637984+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Europe Wins Solheim Cup 15-13 — Woad and Ciganda Deliver Sunday Singles Heroics",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "EUROPE WINS THE SOLHEIM CUP. 🏆\n\nFinal score: Europe 15, USA 13.\n\nLottie Woad clinched the winning point (2&1 vs. Auston Kim).\nCarlota Ciganda put the seal on it (4&2 vs. Jennifer Kupcho).\n\nFrom 8-8 to European glory in the Netherlands. What a Sunday.",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 250
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Carlota Ciganda. 8 consecutive Solheim Cups. Just won the decisive point at Bernardus Golf.\n\nLottie Woad, 21 years old, world No. 5 — clinched it one match earlier.\n\nTwo completely different generations. One European win. 15-13 in the Netherlands. 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇪🇸",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-europe-wins-solheim-cup-15-13.html",
+        "headline": "Europe Reclaims the Solheim Cup 15-13 — Lottie Woad Clinches in Netherlands, Carlota Ciganda Seals It",
+        "word_count": 603
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Europe Wins Solheim Cup\n\n**Image 1 (Social 1080x1350):**\n- Imagn search: \"Carlota Ciganda\"\n- Caption overlay: \"EUROPE WINS\" / \"Solheim Cup 15-13\"\n- Mode: base_only\n\n**Image 2 (Article hero 1200x630):**\n- Imagn search: \"Lottie Woad\"\n- Mode: complete\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Europe Wins Solheim Cup 15-13\n**Sources:**\n- CBS Sports: \"Solheim 2026 Cup results: Europe edges United States\" (https://www.cbssports.com/golf/news/solheim-2026-cup-results-europe-united-states/)\n- Sky Sports: \"Solheim Cup 2026: Team Europe regain trophy from Team USA after Lottie Woad, Carlota Ciganda close out thrilling home win\" (https://www.skysports.com/golf/news/12176/13585314/)\n- Golf Magic: \"Solheim Cup 2026: Europe defeat USA with stunning Sunday performance at Bernardus Golf\"\n**Verified facts (HIGH confidence):**\n- Europe wins 2026 Solheim Cup 15-13 at Bernardus Golf, Cromvoirt, Netherlands\n- Was 8-8 after two days; Europe won Sunday singles decisively\n- Lottie Woad (England, World No. 5) — clinched the winning point with 2&1 victory over Auston Kim (Match 8)\n- Carlota Ciganda — officially sealed victory with 4&2 win over Jennifer Kupcho (Match 11)\n- USA captain: Angela Stanford; Europe captain: Anna Nordqvist\n- USA won 2024 Solheim Cup 15.5-12.5; Europe RECLAIMS trophy\n- First Dutch Solheim Cup\n**Freshness:** Final result confirmed September 13 after Sunday singles. Post-match analysis fresh Sept. 14.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Presidents Cup Preview — 10 Days to Medinah, Snedeker's USA vs. Ogilvy's Internationals",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "10 days to the Presidents Cup at Medinah (Sept. 24-27).\n\nUSA: Scheffler, Young, Clark, Henley, Burns, Morikawa (auto)\nPicks: Schauffele, Cantlay, Thomas, Bridgeman, Gotterup, Koivun\n\nJackson Koivun, 21, just turned pro from Auburn. This should be fun.",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 251
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Medinah Country Club has hosted three Ryder Cups (1991, 1999, 2012).\n\nNow it hosts the 2026 Presidents Cup (Sept. 24-27).\n\nBrandt Snedeker's USA takes on Geoff Ogilvy's Internationals.\n\nThe big question: can anyone threaten USA dominance in this event?",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-presidents-cup-preview-medinah-snedeker.html",
+        "headline": "10 Days to Medinah: Snedeker's USA Team Set for Presidents Cup — Koivun Headline Addition",
+        "word_count": 853
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Presidents Cup Preview\n\n**Image 1 (Social 1080x1350):**\n- Imagn search: \"Scottie Scheffler\"\n- Caption overlay: \"10 DAYS\" / \"Presidents Cup at Medinah\"\n- Mode: base_only\n\n**Image 2 (Article hero 1200x630):**\n- Imagn search: \"Brandt Snedeker\"\n- Mode: complete\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Presidents Cup Preview — 10 Days\n**Sources:**\n- PGA Tour: \"U.S. Team Captain Brandt Snedeker announces six picks for 2026 Presidents Cup\" (https://www.pgatour.com/article/news/latest/2026/09/01/meet-the-us-presidents-cup-team-heading-to-medinah)\n- Golf Digest: \"2026 Presidents Cup: Rosters revealed with a huge surprise and a few snubs\"\n- Golf Channel / Wikipedia\n**Verified facts (HIGH confidence):**\n- Event: 2026 Presidents Cup, September 24-27, Medinah Country Club, Medinah, IL\n- 16th edition of the Presidents Cup\n- USA captain: Brandt Snedeker\n- International captain: Geoff Ogilvy\n- USA automatic qualifiers (6): Scottie Scheffler, Cameron Young, Wyndham Clark, Russell Henley, Sam Burns, Collin Morikawa\n- USA captain's picks (6): Chris Gotterup, Xander Schauffele, Justin Thomas, Patrick Cantlay, Jacob Bridgeman, Jackson Koivun\n- Jackson Koivun: 21 years old, first Presidents Cup, months after turning pro from Auburn\n- Schauffele + Cantlay: each 10-4-0 career Presidents Cup record; Thomas: 10-3-2\n- Honorary chairman: Donald Trump\n- Rory McIlroy NOT on team (2026 Masters champion but International player — Irish)\n- Note: Earlier story history mentioned Tiger Woods as captain — incorrect per web search; Snedeker is captain\n**Freshness:** Presidents Cup is 10 days away (Sept. 24-27). Fresh preview angle.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "LIV Golf Chapter 11 — Bankruptcy Filed, PIF's $49.6M Lifeline, BC Partners Deal",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "LIV Golf update: Chapter 11 filed Sept. 8.\n\nPIF is providing $49.6M in DIP financing. BC Partners leading restructuring.\n\nGoal: \"LIV 2.0\" — majority owned by players.\n\nJon Rahm owed $100M+. The court will decide what he actually gets.",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 234
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-liv-golf-bankruptcy-chapter11-bc-partners.html",
+        "headline": "LIV Golf's Chapter 11 Bankruptcy: PIF's $49.6M Lifeline, BC Partners Deal, and What It Means for Players Owed Millions",
+        "word_count": 872
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LIV Golf Bankruptcy\n\n**Image 1 (Social 1080x1350):**\n- Imagn search: \"Jon Rahm\"\n- Caption overlay: \"LIV BANKRUPTCY\" / \"Chapter 11 Filed Sept. 8\"\n- Mode: base_only\n\n**Image 2 (Article hero 1200x630):**\n- Imagn search: \"LIV Golf\"\n- Mode: complete\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LIV Golf Bankruptcy Filing\n**Sources:**\n- CNN: \"LIV Golf files for bankruptcy in latest fallout for breakaway tour\" (https://www.cnn.com/2026/09/08/sport/liv-golf-files-bankruptcy)\n- Forbes: \"LIV Golf Declares Bankruptcy — These Top Players Are Owed Millions\" (https://www.forbes.com/sites/antoniopequenoiv/2026/09/08/liv-golf-declares-bankruptcy-these-top-players-are-owed-millions/)\n**Verified facts (HIGH confidence):**\n- LIV Golf filed Chapter 11 bankruptcy protection September 8, 2026\n- Estimated assets: $100M–$500M; liabilities: $500M–$1B\n- PIF agreed to provide $49.6M DIP (debtor-in-possession) financing, pending court approval\n- Restructuring deal with BC Partner Advisors LP — \"innovative player-first ownership model\"\n- Reorganized company expected to be majority owned by players\n- Season ended one week early in August 2026 (Indianapolis finale)\n- Jon Rahm: owed $100M+ from original $300M signing deal; won most wins, individual points, money list in 2026 season\n- PGA Tour CEO Brian Rolapp offered Rahm return deal with tight deadline; Rahm declined\n**Freshness:** Filed September 8; court proceedings ongoing. Update on PIF DIP financing and BC Partners deal is fresh.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Walmart NW Arkansas Championship — LPGA's Next Stop, Sept. 25-27, Post-Solheim Return",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The LPGA Tour returns to Arkansas next week.\n\nWalmart NW Arkansas Championship — Sept. 25-27 at Pinnacle Country Club, Rogers, AR.\n\n20th anniversary. $3M purse. 144 players.\n\nNelly Korda and the Solheim Cup crew are heading stateside after a big week in the Netherlands.",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 270
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-walmart-nw-arkansas-lpga-preview.html",
+        "headline": "Walmart NW Arkansas Championship Preview: Korda, Post-Solheim Returns, and LPGA's 20th Stop at Pinnacle",
+        "word_count": 813
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Walmart NW Arkansas Championship\n\n**Image 1 (Social 1080x1350):**\n- Imagn search: \"Nelly Korda\"\n- Caption overlay: \"SEPT. 25-27\" / \"NW Arkansas Championship\"\n- Mode: base_only\n\n**Image 2 (Article hero 1200x630):**\n- Imagn search: \"LPGA Tour Pinnacle Country Club\"\n- Mode: complete\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Walmart NW Arkansas Championship — LPGA Preview\n**Sources:**\n- Sky Sports LPGA schedule: \"LPGA Tour 2026 schedule: Tournaments, dates, venues, results\"\n- LPGA.com schedule\n**Verified facts (HIGH confidence):**\n- Event: Walmart NW Arkansas Championship presented by P&G\n- Dates: September 25-27\n- Venue: Pinnacle Country Club, Rogers, Arkansas\n- $3M purse (from Sept 4 earlier research)\n- 144 players; Pinnacle CC hosting since 2007; 20th anniversary edition\n- Post-Solheim Cup timing — players returning from Netherlands\n- Nelly Korda: world No. 1, won 2026 Chevron Championship and 2026 U.S. Women's Open; participated in Solheim Cup\n**Freshness:** Upcoming event 11 days away; preview is fresh post-Solheim Cup context.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "USA Solheim Cup Post-Mortem — What Went Wrong for Angela Stanford's Team in Netherlands",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "USA entered Solheim Cup Sunday at 8-8, needing 6.5 from 12 singles.\n\nLost 15-13.\n\nLottie Woad (21, world No. 5) beat Auston Kim 2&1 to clinch.\n\nStanford's team had the players. Europe had the moment. Post-mortem starts now. #SolheimCup",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SolheimCup"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-usa-solheim-cup-post-mortem.html",
+        "headline": "USA's Solheim Cup Post-Mortem: How Europe Turned 8-8 Into a 15-13 Dutch Triumph",
+        "word_count": 947
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "USA Solheim Post-Mortem\n\n**Image 1 (Social 1080x1350):**\n- Imagn search: \"Angela Stanford\"\n- Caption overlay: \"SOLHEIM POST-MORTEM\" / \"USA Falls 15-13\"\n- Mode: base_only\n\n**Image 2 (Article hero 1200x630):**\n- Imagn search: \"Team USA Solheim Cup\"\n- Mode: complete"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "USA Solheim Cup Post-Mortem\n**Sources:**\n- CBS Sports: Solheim Cup 2026 results\n- Sky Sports: Full Sunday singles coverage\n- Golf Magic: Sunday performance analysis\n**Verified facts (HIGH confidence):**\n- USA entered Sunday singles tied 8-8 (needing 6.5 from 12 singles to retain; 14.5 to win)\n- Lottie Woad clinched winning point (beat Auston Kim 2&1, Match 8)\n- Carlota Ciganda officially sealed it (beat Jennifer Kupcho 4&2, Match 11)\n- USA failed to build on going into singles tied\n- Angela Stanford captained USA quest for back-to-back wins (USA won 2024 15.5-12.5)\n- Nelly Korda was USA anchor — world No. 1, partnered with Allisen Corpuz\n- Europe's European home crowd advantage at Bernardus Golf\n- USA's 12-player team: auto qualifiers included Korda, Jennifer Kupcho, Allison Lee, Auston Kim, Andrea Lee, Corpuz; picks included Rose Zhang, Megan Khang, Lindy Duncan, Coughlin, Noh\n**Freshness:** Post-match analysis the day after Sunday singles (Sept. 14).",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

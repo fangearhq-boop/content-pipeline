@@ -1,11 +1,36 @@
 # Golf Fanrecap — Pipeline Status
 
-## Last Run: 2026-09-13
+## Last Run: 2026-09-14
 
 **Status:** COMPLETE (with known proxy limitations)
 **Niche:** Golf Fanrecap
 **Stories:** 5
 **Articles:** 5
+
+---
+
+## 2026-09-14 Run Log
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research | ✅ Complete | 5 stories — Solheim Cup result (Europe 15-13), Presidents Cup preview (Medinah), LIV bankruptcy update, NW Arkansas LPGA preview, USA Solheim post-mortem |
+| Daily Brief | ✅ Complete | 00-daily-brief.md |
+| Research Notes | ✅ Complete | 01-research-notes.md |
+| Story Analysis | ✅ Complete | 02-story-analysis.md |
+| X Posts | ✅ Complete | 03-social-posts-x.md — 7 posts (2 T1 + 2 T1 + 1 T2 + 1 T2 + 1 T2); fixed char limit issues for Stories 2 and 5 |
+| Facebook Posts | ✅ Complete | 04-social-posts-facebook.md — 5 long-form + 5 image captions |
+| Image Concepts | ✅ Complete | 05-image-concepts.md |
+| Articles | ✅ Complete | 5 articles written (article-01 through article-05) |
+| Fact Check | ✅ Complete | 06-fact-check-log.md — 13 claims, 35 HIGH |
+| Compile Data | ✅ Complete | 07-content-data.json — 5 stories, 7 tweets, 5 articles |
+| Image Manifest | ✅ Complete | 07-image-manifest.md — 10 images, all not_started |
+| Review Dashboard | ✅ Complete | review-dashboard.html — 22 items |
+| Publish Dashboard | ❌ Blocked | content-dashboards repo not in authorized set (proxy 403) |
+| PostPlanner Export | ⚠ 0 posts | Known parsing issue — no XLSX generated |
+| PostPlanner Tobi | ⚠ 0 posts | Known parsing issue — no XLSX generated |
+| WordPress Publish | ❌ Blocked | fanrumor.com:443 blocked by proxy (403 Forbidden) |
+| Story History | ✅ Complete | Appended to Golf/story-history.md |
+| Git Commit/Push | ✅ Complete | Pushed to main |
 
 ---
 

@@ -5021,3 +5021,48 @@ July 12 pipeline contained incorrect winners for Scottish Open (MacIntyre report
 - **Key facts:** Sept 25-27 at Pinnacle Country Club, Rogers, AR; 20th anniversary; $3M purse; 144 players; Pinnacle CC hosting since 2007; post-Solheim Cup timing
 - **Status:** NEW
 - **Follow-up ideas:** Field announcement, leaderboard updates during event
+
+## 2026-09-14
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-14 | T1 | Europe Reclaims the Solheim Cup 15-13 — Lottie Woad Clinches, Carlota Ciganda Seals It | X(2), FB, Article | FOLLOW UP |
+| 2026-09-14 | T1 | 10 Days to Medinah: Snedeker's USA Team Set for Presidents Cup — Koivun Headline Addition | X(2), FB, Article | FOLLOW UP |
+| 2026-09-14 | T2 | LIV Golf Chapter 11 Bankruptcy: PIF $49.6M Lifeline, BC Partners, Rahm Owed $100M+ | X(1), FB, Article | FOLLOW UP |
+| 2026-09-14 | T2 | Walmart NW Arkansas Championship Preview — Korda, Post-Solheim Returns, LPGA 20th at Pinnacle | X(1), FB, Article | NEW |
+| 2026-09-14 | T2 | USA Solheim Cup Post-Mortem — How Europe Turned 8-8 Into 15-13 Dutch Triumph | X(1), FB, Article | FOLLOW UP |
+
+### STORY 1: Europe Wins Solheim Cup 15-13
+- **Tier:** 1
+- **Category:** Solheim Cup / LPGA / Europe / Lottie Woad / Carlota Ciganda / Bernardus Golf
+- **Key facts:** Final score Europe 15, USA 13; entered Sunday singles 8-8; Lottie Woad (21, world No. 5) beat Auston Kim 2&1 for clinching point (Match 8); Carlota Ciganda beat Jennifer Kupcho 4&2 (Match 11) for official seal; eighth consecutive Solheim for Ciganda; first Solheim at Bernardus Golf, Netherlands; Captain Stanford's USA needed 6.5 from 12 singles
+- **Status:** FOLLOW UP (Sept. 13 preview → Sept. 14 result)
+- **Follow-up ideas:** Post-mortem on USA, player profiles (Woad, Ciganda), European team celebrations
+
+### STORY 2: Presidents Cup Preview
+- **Tier:** 1
+- **Category:** Presidents Cup / Medinah / Brandt Snedeker / USA / International / Jackson Koivun
+- **Key facts:** Sept. 24-27 at Medinah Country Club; 10 days away; USA captain Brandt Snedeker; auto qualifiers: Scheffler, Young, Clark, Henley, Burns, Morikawa; captain's picks: Gotterup, Schauffele, Thomas, Cantlay, Bridgeman, Koivun; Jackson Koivun 21 years old, turned pro from Auburn; Schauffele and Cantlay each 10-4-0 Presidents Cup; Thomas 10-3-2; International captain Geoff Ogilvy; Medinah hosted Ryder Cups (1991, 1999, 2012); USA won 13 of 15 editions
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** First-round results, pairings announcements, Koivun debut recap
+
+### STORY 3: LIV Golf Bankruptcy
+- **Tier:** 2
+- **Category:** LIV Golf / Bankruptcy / PIF / BC Partners / Jon Rahm / Chapter 11
+- **Key facts:** Chapter 11 filed Sept. 8, 2026; assets $100M-$500M; liabilities $500M-$1B; PIF providing $49.6M DIP financing (court approval pending); BC Partners leading restructuring; goal is "LIV 2.0" majority owned by players; CEO Scott O'Neil; 4 x 2027 events announced (Saudi Arabia, Australia, South Africa, Hong Kong); Jon Rahm owed $100M+; Rahm rejected PGA Tour return offer with tight deadline; PIF invested estimated $6B total in LIV
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Court rulings on DIP financing, restructuring progress, Rahm creditor updates
+
+### STORY 4: Walmart NW Arkansas Championship Preview
+- **Tier:** 2
+- **Category:** LPGA / Walmart NW Arkansas / Nelly Korda / Pinnacle Country Club / Rogers Arkansas
+- **Key facts:** Sept. 25-27 at Pinnacle Country Club, Rogers, AR; 20th anniversary at venue; $3M purse; 144-player field; Nelly Korda (world No. 1, two 2026 majors: Chevron + US Women's Open) returning from Solheim Cup duty; 54-hole stroke play, no cut; post-Solheim psychological transition factor
+- **Status:** NEW
+- **Follow-up ideas:** Field announcement, tee times, leaderboard updates
+
+### STORY 5: USA Solheim Cup Post-Mortem
+- **Tier:** 2
+- **Category:** Solheim Cup / USA / Angela Stanford / Lottie Woad / Bernardus Golf / Post-Mortem
+- **Key facts:** USA fell 15-13; entered Sunday singles at 8-8; needed 6.5 from 12 matches; Lottie Woad (21, world No. 5) beat Auston Kim 2&1 in Match 8 for clincher; Ciganda beat Kupcho 4&2 in Match 11; Bernardus Golf home crowd cited as key European advantage; Stanford lineup decisions face scrutiny; Korda led USA roster; next Solheim Cup is 2028
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Stanford debrief, individual player post-mortems, 2028 planning stories
