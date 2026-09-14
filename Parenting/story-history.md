@@ -2,6 +2,50 @@
 
 ---
 
+## September 14, 2026
+
+### Story 1: Ricky Joy Sour Crush Rolling Candy Bottle Recall
+- **Date:** 2026-09-14
+- **Tier:** T1
+- **Pillar:** National Parenting (CPSC Safety)
+- **Key Facts:** CPSC recall; 2.3 million Sour Crush Rolling Candy Bottles; rollerball top detaches, choking hazard; sold H-E-B, Walmart, CandyFunHouse Jan 2023–May 2026; full refund: 404-975-0352 or rickyjoy.com/pages/recall
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 2: Finger Light Toys Recalled — Button Battery Danger
+- **Date:** 2026-09-14
+- **Tier:** T1
+- **Pillar:** National Parenting (CPSC Safety)
+- **Key Facts:** Multiple CPSC recalls; Cade California Electronic ~179,739 units (Amazon, white/blue/red/green, 50-count, $5–$16, Mar 2015–Jul 2026); also Oitnlaughter/Delightmi, POPOOO, Syera/Senyu on Amazon + TEMU; 3 button cell batteries accessible; if swallowed = severe burns, risk of death; dispose and email photo for full refund (cpsc.gov/Recalls)
+- **Byline:** Sarah Morales
+- **Status:** FOLLOW-UP (Story 5 Sep 11 covered Cade California only; this is expanded multi-brand coverage with full recall details)
+
+### Story 3: CMZoo Giraffe Center Grand Opening
+- **Date:** 2026-09-14
+- **Tier:** T1
+- **Pillar:** Local Events
+- **Key Facts:** Grand opening Sep 15 at 9:30 AM; Mayor Yemi Mobolade attending; 12,000 sq ft giraffe barn; 11 feeding zones (up from 3); new café + gift shop; Military Appreciation Week Sep 14–20 (50% off active duty/veterans/dependents); advance e-tickets only at cmzoo.org; centennial events through Sep 20 (live music, artists, vintage cars)
+- **Byline:** Jamie Rivera
+- **Status:** FOLLOW-UP (Sep 13 covered Military Appreciation Week + Giraffe Center opening angle; today is day-before opening guide with full logistics)
+
+### Story 4: D20 Board Leadership Change — Amy Shandy Resigns, Susan Payne New President
+- **Date:** 2026-09-14
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** Amy Shandy resigned at Sep 3 board meeting (relocating out of state); Susan Payne becomes board president (was VP); Kelli Hawkins appointed to fill vacant seat, serves through Nov 2027; D20 started Aug 17, now in week 4
+- **Byline:** Sarah Morales
+- **Status:** FOLLOW-UP (Sep 10 covered Kelli Hawkins appointment; today is full board leadership change story with Shandy resignation + Payne promotion context)
+
+### Story 5: Back-to-School Screen Time & Sleep Guide
+- **Date:** 2026-09-14
+- **Tier:** T2
+- **Pillar:** National Parenting (Evergreen + Seasonal)
+- **Key Facts:** Pre-bed screens delay sleep onset average 23 minutes (84% increase); AAP 2026 guidance: no screens under 18 months (except video chat); max 1 hr/day high-quality for ages 2–5; context + quality for ages 6+; COS district week counts (D49 wk6, D11 wk5, D20 wk4); practical tips: charge outside bedroom, 30–60 min buffer, non-screen wind-down
+- **Byline:** Jamie Rivera
+- **Status:** NEW (distinct from Aug 26 sleep tips — this focuses specifically on screen-time/sleep research and AAP guidance at the one-month school mark)
+
+---
+
 ## September 13, 2026
 
 ### Story 1: Harppa Nordi Toddler Tower Stool Recall

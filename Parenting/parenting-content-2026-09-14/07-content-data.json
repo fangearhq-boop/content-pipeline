@@ -1,0 +1,270 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-14",
+  "compiled_at": "2026-09-14T12:36:33.347657+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Ricky Joy Sour Crush Candy Bottles Recalled — 2.3 Million Units, Choking Hazard",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "RECALL: 2.3M Ricky Joy Sour Crush Rolling Candy Bottles recalled — the rollerball top can detach and choke a child.\n\nSold at Walmart, H-E-B & CandyFunHouse Jan 2023–May 2026. Refund at rickyjoy.com/pages/recall.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-ricky-joy-candy-bottle-recall.html",
+        "headline": "2.3 Million Ricky Joy Sour Crush Candy Bottles Recalled: What COS Families Need to Know",
+        "word_count": 447
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ricky Joy Sour Crush Candy Recall\n\n**Concept 1-A (Primary — Social 1080x1350)**\nGemini prompt: \"A close-up flat lay of small colorful candy bottles arranged on a white surface, soft natural light, clean minimalist background, blue and red tones, some bottles shown open, no branding or logos, no text, no watermarks. Clean empty space in the bottom third for text overlay. Art style: clean product photography aesthetic.\"\n\n**Concept 1-B (Article Hero — 1200x630)**\nGemini prompt: \"A parent's hand gently removing a small candy bottle from a toddler's reach. Clean kitchen counter background, warm soft lighting, parent's expression is calm and attentive. No text, no logos. Clean space in lower section for text overlay. Art style: warm lifestyle photography, realistic.\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Ricky Joy Sour Crush Candy Bottle Recall\n**Sources:**\n- CPSC.gov: \"Ricky Joy Recalls More Than 2.3 Million Sour Crush Candy Bottles Due to Risk of Serious Injury or Death from Choking Hazard\" (cpsc.gov/Recalls/2026)\n- PIRG: \"2.3 million Ricky Joy rolling liquid candy bottles recalled\"\n- kens5.com, wfaa.com, cbs8.com, king5.com: \"More than 2 million sour candy bottles recalled over choking hazard\"\n- consumeraffairs.com: \"Consumer product safety recall roundup for September 11, 2026\"\n- Daily Voice: \"Ricky Joy Recalls 2.3M Rolling Liquid Candy Bottles\"\n**Key Facts (HIGH — from CPSC.gov):**\n- Recall: 2.3 million+ Sour Crush Rolling Liquid Candy bottles\n- Hazard: rollerball top can detach from bottle — choking hazard (risk of serious injury or death)\n- Product: 1.85 fl oz bottles of sour liquid candy, in blue raspberry, strawberry, green apple, watermelon\n- Sold: individually and in 3- or 12-packs\n- Sold at: H-E-B, Forman Mills, Walmart.com, CandyFunHouse.com, RickyJoy.com, other retailers\n- Sale period: January 2023 through May 2026\n- Price: ~$3 single / $13–$32 pack\n- Injuries: None reported\n- Remedy: stop use immediately, take from children, contact Ricky Joy for full refund\n- Consumer contact: 404-975-0352 (8 AM–5 PM ET Mon–Fri); rickyjoy.com/pages/recall",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Finger Light Toys Recalled — Button Batteries Can Be Accessed by Children",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "RECALL: ~180,000 finger light toys sold on Amazon recalled — button batteries inside can be easily accessed by kids. If swallowed, can cause severe burns or death.\n\nStop use. Email photo of disposed toy for refund.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-finger-light-toys-recall-button-batteries.html",
+        "headline": "Finger Light Toys Recalled Over Button Battery Danger: Nearly 180,000 Units Pulled From Amazon",
+        "word_count": 534
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Finger Light Toys Recall\n\n**Concept 2-A (Primary — Social 1080x1350)**\nGemini prompt: \"Colorful finger light toy rings scattered on a white surface, with a universal warning symbol subtly in background. No text, no brand logos, soft studio lighting, red and orange accent colors suggesting caution. Clean empty space in bottom third for text overlay. Art style: clean flat lay product safety awareness.\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Finger Light Toys Recall (Multiple Companies)\n**Sources:**\n- CPSC.gov: \"Cade California Electronic Recalls Finger Light Toys Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Toys\"\n- CPSC.gov: \"Oitnlaughter Projecting Finger Light Toys Recalled\" (sold by Delightmi on Amazon)\n- CPSC.gov: \"Projecting LED Finger Light Toys Recalled\" (sold by POPOOO on Amazon)\n- CPSC.gov: \"Syera Projecting Finger Light Toys Recalled\" (sold on TEMU by Senyu)\n- consumeraffairs.com: \"Consumer product safety recall roundup for September 11, 2026\"\n- KIRO7: \"Recall alert: Finger light toys recalled because children can access button cell batteries\"\n- Fox Business: \"Hundreds of thousands of finger light toys sold on Amazon recalled over swallowing risk\"\n- Medical Daily: \"Nearly 180,000 Finger Light Toys Sold on Amazon Are Recalled\"\n**Key Facts (HIGH — from CPSC.gov):**\n- Cade California Electronic recall: ~179,739 projecting finger light toys\n- Hazard: three button cell batteries can be easily accessed by children; if swallowed = severe internal chemical burns and death\n- Product: 50-piece box containing finger lights in white, blue, red, green; label reads \"California Cade Electronic\" and \"Finger Flashlights\"\n- Sold at: Amazon.com from March 2015 through July 2026\n- Price: $5–$16\n- Remedy: discard immediately, email photo of disposed product for full refund\n- Additional brands: Oitnlaughter (Delightmi/Amazon), POPOOO (Amazon), Syera (Senyu/TEMU) — same hazard",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "CMZoo Giraffe Center Grand Opening TOMORROW — Colorado Springs Centennial Moment",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Tomorrow: CMZoo opens its brand-new Giraffe Center — 12,000 sq ft, 11 feeding zones (up from 3), new café and gift shop. Mayor Mobolade attends. Gates open 9:30 AM.\n\nMilitary Week through Sun: 50% off at cmzoo.org.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (2026-09-13 S2: CMZoo Military Week coverage)",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 275
+        },
+        {
+          "label": "Post 3-2",
+          "text": "One reminder for COS military families: Cheyenne Mountain Zoo's Military Appreciation Week runs through Sep 20. Active duty, veterans, and dependents get 50% off base admission. Advance e-tickets only at cmzoo.org.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (2026-09-13 S2: CMZoo Military Week coverage)",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-cmzoo-giraffe-center-grand-opening.html",
+        "headline": "CMZoo's New Giraffe Center Opens Tuesday: What COS Families Should Know Before They Go",
+        "word_count": 476
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "CMZoo Giraffe Center\n\n**Concept 3-A (Primary — Social 1080x1350)**\nGemini prompt: \"A tall graceful giraffe at a modern zoo exhibit, warm golden hour lighting, lush green trees in background, family silhouettes visible in distance. No text, no logos. Clean uncluttered space in bottom third for text overlay. Art style: warm lifestyle wildlife photography, bright and inviting.\"\n\n**Concept 3-B (Alternative — Article Hero 1200x630)**\nGemini prompt: \"Wide angle view of a newly opened modern giraffe conservation barn with families exploring. Light wood construction, large open windows, natural light streaming in, families visible in background. No faces shown. No text, no logos. Warm natural palette. Art style: architectural lifestyle photography.\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "CMZoo Giraffe Center Grand Opening Sep 15\n**Sources:**\n- KRDO: \"Cheyenne Mountain Zoo celebrates 100 years with a trifecta of events, including opening of new Giraffe Center\" (Sep 11, 2026)\n- CPR: \"Cheyenne Mountain Zoo in Colorado Springs prepares for centennial celebration with new CEO and giraffe enclosure\" (Aug 27, 2026)\n- The Catalyst: same as CPR\n- Gazette/Socoinsider: background on new giraffe enclosure\n**Key Facts (HIGH):**\n- Giraffe Center grand opening: Tuesday, September 15, 2026 at 9:30 AM\n- Colorado Springs Mayor Yemi Mobolade attending\n- New barn: 12,000 sq ft (significantly larger than former exhibit)\n- Feeding zones: 11 (vs. 3 in former exhibit)\n- New gift shop and café included\n- Expanded giraffe yard\n- Military Appreciation Week: Sep 14-20, 50% off base admission for active duty/veterans/dependents, advance e-tickets at cmzoo.org\n- Centennial celebration: live music, artists, vintage cars through Sunday Sep 20\n- Zoo celebrates 100th anniversary in 2026\n**Key Facts (MEDIUM — from search summaries):**\n- New CEO mentioned in CPR article (identity not specified in search results)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "D20 Board Gets New Leadership — Amy Shandy Out, Susan Payne Takes Over",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "D20 update: Board President Amy Shandy has resigned to relocate out of state. Susan Payne steps up as the new board president. Kelli Hawkins was appointed to fill the vacant seat and serves through Nov 2027.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-d20-board-president-resignation.html",
+        "headline": "D20 Board Gets New President: Amy Shandy Resigns, Susan Payne Steps In",
+        "word_count": 347
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D20 Board Change\n\n**Concept 4-A (Primary — Social 1080x1350)**\nGemini prompt: \"An exterior view of a bright modern school building in Colorado, late summer morning light, American flag visible, clear blue sky, a few students walking in distance. No faces shown, no text, no logos. Clean empty space in bottom third for text overlay. Art style: warm documentary photography, optimistic tone.\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D20 Board President Resignation\n**Sources:**\n- Colorado Springs Gazette: \"Academy D-20 board president Amy Shandy resigns\" (Aug 7, 2026)\n- KOAA: \"D-20 board president resigns ahead of school year as family moves out of state\"\n- KOAA: \"Academy School District 20 Board President stepping down effective June 1\" (earlier story re: resignation notice)\n- KRDO: \"Academy District 20 Board announces plans to part ways with superintendent\" (May 15, 2026 — background)\n**Key Facts (HIGH):**\n- Resigned: Amy Shandy, D20 Board of Education President\n- Reason: Family relocating out of state for husband Ty's new job\n- Final meeting: September 3, 2026\n- New Board President: Susan Payne (formerly Vice President, took over gavel)\n- Appointed to fill vacancy: Kelli Hawkins — serves remainder of Shandy's term through November 2027\n- D20 started 2026-27 school year August 17; now in week 4\n**Key Facts (MEDIUM):**\n- D20 previously parted ways with superintendent in May 2026 (board-superintendent tensions; background context only)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Back-to-School Screen Time Guide: What COS Families Should Know This Fall",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "School is a month in — and COS families are juggling homework, downtime, and devices. Research shows screens before bed push sleep back by 23 minutes on average. AAP: no screens under 18 months; 1 hr/day for ages 2–5.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-back-to-school-screen-time-sleep-guide.html",
+        "headline": "Screen Time and Sleep: What COS Parents Should Know a Month Into the School Year",
+        "word_count": 649
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Screen Time Guide\n\n**Concept 5-A (Primary — Social 1080x1350)**\nGemini prompt: \"A child sitting at a homework desk in warm evening light, books and pencils on desk, a smartphone placed face-down to the side suggesting a break from devices. Cozy bedroom or kitchen setting, golden lamp light, no faces shown. No text, no logos. Clean space in bottom third. Art style: warm lifestyle photography, relatable and calm.\"\n\n---\n\n## Image Manifest Summary\n| Story | Concept | Mode | Dimensions | Status |\n|-------|---------|------|-----------|--------|\n| S1 | 1-A | base_only | 1080x1350 | not_started |\n| S1 | 1-B | base_only | 1200x630 | not_started |\n| S2 | 2-A | base_only | 1080x1350 | not_started |\n| S3 | 3-A | base_only | 1080x1350 | not_started |\n| S3 | 3-B | base_only | 1200x630 | not_started |\n| S4 | 4-A | base_only | 1080x1350 | not_started |\n| S5 | 5-A | base_only | 1080x1350 | not_started |"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Back-to-School Screen Time/Sleep Research\n**Sources:**\n- PMC/NCBI: \"The effect of technology use on sleep quality in primary school-aged children\" (2026)\n- PMC/NCBI: \"Prolonged screen time is associated with increased prevalence of sleep disorders in children\" (2026)\n- AAP: \"Screen Time Affecting Sleep\" (healthychildren.org/aap.org)\n- AAP: \"Sleep Duration, Restfulness, and Screens in the Sleep Environment\" (Pediatrics journal)\n- CHOC Children's: \"Updated AAP recommendations for screen time\"\n**Key Facts (HIGH — from AAP.org/healthychildren.org):**\n- AAP: No screens for children under 18 months\n- AAP: Ages 2-5: 1 hour per day of high-quality content\n- AAP: Ages 6+: prioritize quality and conversation over strict limits\n- Sleep recommendation: 6-13yo need 9-11 hours/night; teens 14-17 need 8-10 hours/night\n**Key Facts (HIGH — from peer-reviewed research, 2026):**\n- Screen use extended sleep latency by 84% on average (equivalent to ~23.1 minutes delayed sleep onset)\n- Strong correlation between screen use and poor sleep habits in elementary school children\n- Screen use 1 hour before bedtime decreases quality and quantity of sleep\n**COS-specific (HIGH):**\n- D11: started Aug 12, week 5 as of Sep 14\n- D49: started Aug 3, week 6 as of Sep 14\n- D20: started Aug 17, week 4 as of Sep 14",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

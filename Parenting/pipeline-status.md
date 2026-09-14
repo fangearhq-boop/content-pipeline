@@ -1,6 +1,37 @@
 # COS Parenting — Pipeline Status
 
-## Current Run: 2026-09-13
+## Current Run: 2026-09-14
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Ricky Joy Sour Crush Candy Bottle recall (CPSC, 2.3M units, rollerball detaches, rickyjoy.com refund); Finger light toys multi-brand recall (Cade California 179K units + Oitnlaughter/POPOOO/Syera, Amazon/TEMU, button battery hazard); CMZoo Giraffe Center grand opening Sep 15 (Mayor Mobolade, 12K sq ft barn, 11 feeding zones, Military Week 50% off, cmzoo.org); D20 board leadership change (Shandy resigned, Payne president, Hawkins appointed Nov 2027, Sep 3 meeting); screen time + sleep research (pre-bed screens +23 min sleep latency, AAP 2026 guidelines, COS district week counts) |
+| Story History Check | COMPLETE | S1 Ricky Joy (NEW — distinct from Cade California Sep 11 and Sep 14 S2; different product category, candy, not toys); S2 Finger light (FOLLOW-UP — Sep 11 covered Cade California only; expanded multi-brand coverage); S3 CMZoo Giraffe Center (FOLLOW-UP — Sep 13 Military Week preview; today is day-before guide with full opening logistics); S4 D20 board (FOLLOW-UP — Sep 10 covered Hawkins appointment only; today is full leadership story with Shandy resignation + Payne promotion); S5 Screen time/sleep (NEW — distinct from Aug 26 sleep tips; focuses on screen-time research + AAP 2026 guidance at one-month school mark) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2); bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: cpsc.gov, rickyjoy.com, CPSC recall pages, KOAA, cmzoo.org, Mayor Mobolade office, asd20.org, AAP healthychildren.org, pediatrics journals 2026 |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows, voice check |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 6 posts across 5 stories; all ≤280 chars (3 trimmed after verify-facts pass); 4 hashtags each; 0 exclamation marks; COS voice rules applied |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; no hashtags; engagement questions; COS voice rules applied |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 7 Gemini base_only prompts; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 Ricky Joy recall (Jamie Rivera, T1, QR table); article-02 finger light recall (Sarah Morales, T1, QR table); article-03 CMZoo Giraffe Center (Jamie Rivera, T1, QR table); article-04 D20 board change (Sarah Morales, T2, no QR); article-05 screen time/sleep guide (Jamie Rivera, T2, AAP table) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 88 claims; HIGH/MEDIUM/LOW prioritized; 3 X posts trimmed for char limit; image missing warnings expected (Gemini images generated separately) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 6 X posts, 0 FB posts parsed, 5 articles; posting-window warnings known cosmetic issue |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 7 entries (S1: 2, S2: 1, S3: 2, S4: 1, S5: 1), all not_started, gemini base_only, brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 21 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser compat issue — ran both standard and --tobi |
+| WordPress Publish | BLOCKED | 403 proxy — fanrumor.com blocked (known recurring issue) |
+| Story History | COMPLETE | 5 new entries prepended to Parenting/story-history.md (Sep 14 section) |
+
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 6 X posts + 5 FB posts (5 long-form + 5 captions) = 11 total
+- **Articles:** 5 (bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4])
+- **PostPlanner exports:** 0 posts (known parser compat issue)
+- **Key stories:** Ricky Joy Sour Crush Candy Bottle recall (2.3M units, rollerball choking hazard, rickyjoy.com/pages/recall, 404-975-0352); Finger light toys multi-brand recall (179K+ units, Amazon/TEMU, button batteries, cpsc.gov/Recalls); CMZoo Giraffe Center grand opening Sep 15 9:30 AM (12K sq ft barn, 11 feeding zones, Military Week 50% off, cmzoo.org advance only); D20 board leadership (Shandy resigned, Payne president, Hawkins appointed through Nov 2027); screen time + sleep guide (23 min sleep delay, AAP 2026 guidelines, COS district week counts)
+- **Issues:** 3 X posts trimmed for char limit during verify-facts pass; PostPlanner 0 posts (known); WordPress blocked by proxy; dashboard push blocked (not in session authorized repos)
+
+---
+
+## Previous Run: 2026-09-13
 
 | Step | Status | Notes |
 |------|--------|-------|
