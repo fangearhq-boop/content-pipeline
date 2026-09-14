@@ -1,42 +1,58 @@
 {
-  "generated_at": "2026-09-13T08:30:00.180551+00:00",
-  "today_ct": "2026-09-13",
+  "generated_at": "2026-09-14T08:30:00.194215+00:00",
+  "today_ct": "2026-09-14",
   "off_day": false,
-  "is_series_start_today": false,
+  "is_series_start_today": true,
   "series": {
-    "opponent": "Pittsburgh Pirates",
-    "opponent_id": 134,
-    "opponent_record": "74-75",
-    "cubs_record": "83-66",
+    "opponent": "Atlanta Braves",
+    "opponent_id": 144,
+    "opponent_record": "88-62",
+    "cubs_record": "83-67",
     "is_cubs_home": true,
     "venue": "Wrigley Field",
-    "series_length": 1,
+    "series_length": 3,
     "games": [
       {
-        "game_pk": "824628",
-        "game_date_iso": "2026-09-13T18:20:00Z",
-        "game_date_ct": "Sun 1:20 PM CT",
+        "game_pk": "824629",
+        "game_date_iso": "2026-09-14T23:40:00Z",
+        "game_date_ct": "Mon 6:40 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      },
+      {
+        "game_pk": "824627",
+        "game_date_iso": "2026-09-15T23:40:00Z",
+        "game_date_ct": "Tue 6:40 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      },
+      {
+        "game_pk": "824626",
+        "game_date_iso": "2026-09-16T23:40:00Z",
+        "game_date_ct": "Wed 6:40 PM CT",
         "cubs_probable": "TBD",
         "opponent_probable": "TBD",
         "status": "Preview"
       }
     ],
-    "rationale": "Same opponent (Pittsburgh Pirates) as yesterday \u2014 this is mid-series, not a series opener."
+    "rationale": "Yesterday vs Pittsburgh Pirates; today vs Atlanta Braves \u2192 game 1 of 3 (home)."
   },
   "today_cubs_game": {
-    "game_pk": "824628",
+    "game_pk": "824629",
     "status": "Preview",
     "detailed_status": "Scheduled",
-    "game_date_iso": "2026-09-13T18:20:00Z",
-    "game_date_ct": "Sun 1:20 PM CT",
+    "game_date_iso": "2026-09-14T23:40:00Z",
+    "game_date_ct": "Mon 6:40 PM CT",
     "is_cubs_home": true,
-    "opponent_id": 134,
-    "opponent_name": "Pittsburgh Pirates",
-    "opponent_record": "74-75",
-    "cubs_record": "83-66",
+    "opponent_id": 144,
+    "opponent_name": "Atlanta Braves",
+    "opponent_record": "88-62",
+    "cubs_record": "83-67",
     "cubs_probable": "TBD",
     "opponent_probable": "TBD",
     "venue": "Wrigley Field"
   },
-  "rationale": "Same opponent (Pittsburgh Pirates) as yesterday \u2014 this is mid-series, not a series opener."
+  "rationale": "Yesterday vs Pittsburgh Pirates; today vs Atlanta Braves \u2192 game 1 of 3 (home)."
 }
