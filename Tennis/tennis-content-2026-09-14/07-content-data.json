@@ -1,0 +1,261 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-14",
+  "compiled_at": "2026-09-14T12:25:35.830769+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Zverev Wins 2026 US Open Men's Final Over Shelton",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Zverev wins the 2026 US Open.\n\nDef. Shelton 6-3, 7-6(2), 5-7, 6-2. Second Grand Slam title of the year (also won Roland Garros). H2H now 6-0.\n\nAmerica's 23-year men's Grand Slam drought continues.\n\n#USOpen #Zverev #Tennis",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (2026-09-13 S2: Men's Final preview)",
+          "hashtags": [
+            "#USOpen",
+            "#Zverev",
+            "#Tennis"
+          ],
+          "char_count": 221
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Zverev's US Open numbers:\n- Only 1 break point faced in 66 service games before S3\n- Won the 4th set on a 24-point rally\n- 6-0 all-time vs. Shelton\n- $7.67M prize money\n\nSecond Grand Slam winner of 2026. #USOpen #Tennis",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (2026-09-13 S2: Men's Final preview)",
+          "hashtags": [
+            "#USOpen",
+            "#Tennis"
+          ],
+          "char_count": 219
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-zverev-wins-2026-us-open-final.html",
+        "headline": "Zverev Wins 2026 US Open, Defeats Shelton in Four Sets for Second Major of the Year",
+        "word_count": 480
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Zverev Wins US Open\n\n**Concept 1-A (Primary — Article Hero / Social)**\n- Search term: `Alexander Zverev US Open`\n- Description: Zverev raising fist or celebrating with trophy at Arthur Ashe Stadium\n- Use: Article hero (1200x630), Social (1080x1350)\n- Credit: (USA TODAY Sports Images) or (Imagn Images)\n\n**Concept 1-B (Alternative)**\n- Search term: `Ben Shelton US Open 2026`\n- Description: Shelton at net post-match handshake, or Zverev and Shelton at net\n- Use: Social alternative (1080x1350)\n- Credit: (Imagn Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Zverev Wins 2026 US Open Men's Final\n**Sources:**\n- CBS Sports: \"2026 US Open results: Alexander Zverev ousts Ben Shelton, extends American men's 23-year Grand Slam drought\" (cbssports.com)\n- ESPN: \"Zverev dashes American hopes, beats Shelton in US Open final for 2nd major\" (espn.com)\n- VAVEL USA: \"Highlights and Sets Zverev vs Shelton (6-3, 7-6, 5-7, 6-2) in US Open 2026\" (vavel.com)\n- The Sports Encounter: \"Zverev Beats Shelton to Win 2026 US Open Title\" (thesportsencounter.com)\n**Key Facts (HIGH confidence):**\n- Score: 6-3, 7-6(2), 5-7, 6-2\n- Zverev's 2nd Grand Slam title of 2026\n- Zverev faced only 1 break point before Shelton broke him in S3 (first break in 66 service games)\n- 24-point rally opened the 4th set, Shelton backhand wide = break\n- Zverev now 6-0 H2H vs. Shelton (career)\n- Winner's prize: $7.67M\n- American men's GS drought extended: 23+ years (last: Roddick USO 2003)\n- Match played Sunday Sep 13 at Arthur Ashe Stadium; result confirmed Sep 14",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Shelton Reacts to Historic Final Defeat — \"This One Stings\"",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Ben Shelton after losing the US Open final to Zverev:\n\n\"This one stings 100 per cent. But I'm motivated. I'm going to show up in Australia even stronger.\"\n\nFirst Black American in a Grand Slam final since MaliVai Washington in 1996. #Shelton #USOpen",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (2026-09-13 S3: Shelton Arthur Ashe legacy/match day)",
+          "hashtags": [
+            "#Shelton",
+            "#USOpen"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-shelton-reaction-us-open-final.html",
+        "headline": "Shelton After US Open Final Loss: \"This One Stings\" — But America's Next Champion Has Arrived",
+        "word_count": 477
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Shelton Reaction\n\n**Concept 2-A (Primary)**\n- Search term: `Ben Shelton`\n- Description: Shelton with emotional expression during or after the final, or post-match interview setup\n- Use: Article hero (1200x630), Social (1080x1350)\n- Credit: (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Shelton Reaction\n**Sources:**\n- ATP Tour: \"Ben Shelton on US Open defeat: 'This one stings'\" (atptour.com)\n- ESPN: \"Ben Shelton's shot at history comes Sunday in the US Open final\" (espn.com)\n- OutKick/Fox News: \"Ben Shelton loses in US Open final to Zverev, but America has found its next big men's tennis star\"\n**Key Facts (HIGH confidence):**\n- Shelton quote: \"I'm motivated. Disappointed with how today went. Happy with how I fought throughout the week, two weeks. Excited with the progress that I feel that I've made, but yeah, this one stings 100 per cent.\"\n- Shelton on next steps: \"try to keep getting better and show up in Australia even stronger than I showed up here\"\n- Shelton: \"I'm a late bloomer. That's just the way that it's always been. I haven't always been successful the very first time that I've been in finals\"\n- First Black American man in a GS final since MaliVai Washington (Wimbledon 1996)\n- First Black American man in US Open final since Arthur Ashe 1972\n- Shelton age: 23",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Zverev's 2026 Grand Slam Dominance — Two Majors in One Year",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Alexander Zverev's 2026 Grand Slam season:\n\n✓ Roland Garros — won\n✓ US Open — won\n\n51-13 match record. Two majors in one calendar year. First German to win two Grand Slams in a single year.\n\nDominant. #Zverev #Tennis #GrandSlam",
+          "posting_time": "",
+          "tweet_type": "NEW",
+          "hashtags": [
+            "#Zverev",
+            "#Tennis",
+            "#GrandSlam"
+          ],
+          "char_count": 227
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-zverev-2026-grand-slam-dominance.html",
+        "headline": "Two Grand Slams in One Year: How Zverev Turned 2026 Into a Historic Season",
+        "word_count": 505
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Zverev 2026 Season\n\n**Concept 3-A (Primary)**\n- Search term: `Alexander Zverev`\n- Description: Zverev mid-serve or overhead — power, dominance angle\n- Use: Article hero (1200x630), Social (1080x1350)\n- Credit: (Imagn Images)\n\n**Concept 3-B (Alternative — RG angle)**\n- Search term: `Alexander Zverev Roland Garros`\n- Description: Zverev celebrating at Roland Garros with clay courts visible\n- Use: Social alternative (1080x1350)\n- Credit: (Imagn Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Zverev's 2026 Season\n**Sources:**\n- Olympics.com: \"French Open 2026: Alexander Zverev wins first Grand Slam title after five-set battle with Flavio Cobolli at Roland-Garros\"\n- ATP Tour: \"Alexander Zverev wins first major title at Roland Garros, completes lifelong dream\"\n- Roland Garros official site: \"Zverev breaks Grand Slam duck in Paris\"\n- US Open site: \"Zverev turns heartbreak into glory with first Grand Slam title at Roland Garros 2026\"\n- tennismylife.org: \"Alexander Zverev 2026 ATP Season – Match Results & Stats\" (51-13 record, .797)\n**Key Facts (HIGH confidence):**\n- RG 2026 score vs. Cobolli: 6-1, 4-6, 6-4, 6-7(5-7), 6-1 (5 sets)\n- USO 2026 score vs. Shelton: 6-3, 7-6(2), 5-7, 6-2 (4 sets)\n- 2026 ATP season record: 51-13 (.797 win rate)\n- Age: 29 (German)\n- First German man to win a major singles title since Boris Becker's 1996 Australian Open (per ATP Tour/Olympics.com)\n- ATP Tour noted he is 3rd German after Becker and Michael Stich to win GS titles\n**Key Facts (MEDIUM confidence — one source):**\n- Described as first player to win 2 GS titles in 2026 calendar year (per search result summary; needs verification that no other player did)\n- Described as \"12th man since 1978 on 3 surfaces\" winning 3 straight GS finals (from Sep 13 story research)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Rybakina Officially No. 1 as New WTA Rankings Released Monday",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Official: Elena Rybakina is WTA No. 1 as of today.\n\nEnds Aryna Sabalenka's 99-week run at the top. Rybakina is the 30th player and first Kazakhstani to reach world No. 1. Leads the Race to WTA Finals by 1,007 points.\n\n#Rybakina #WTA #Tennis",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (2026-09-13 S4: Rybakina No. 1 upcoming)",
+          "hashtags": [
+            "#Rybakina",
+            "#WTA",
+            "#Tennis"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-rybakina-wta-no-1-official.html",
+        "headline": "Rybakina Officially WTA No. 1: New Rankings Released Monday After US Open Win",
+        "word_count": 429
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Rybakina No. 1\n\n**Concept 4-A (Primary)**\n- Search term: `Elena Rybakina`\n- Description: Rybakina with US Open trophy or in action at Flushing Meadows\n- Use: Article hero (1200x630), Social (1080x1350)\n- Credit: (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Rybakina No. 1 Rankings\n**Sources:**\n- ESPN: \"Elena Rybakina reaches US Open semis, claims No. 1 ranking\"\n- WTA/Punto de Break: \"WTA Rankings: Rybakina displaces Sabalenka from the No. 1 spot\" (Sep 13 release)\n- Roland Garros official: \"US Open 2026: It's a double celebration for Rybakina\"\n- Wikipedia: \"2026 Elena Rybakina tennis season\"\n- US Open official: rankings clinched at QF stage\n**Key Facts (HIGH confidence):**\n- Rybakina officially No. 1 as of Monday Sep 14 (ranking release date)\n- Sabalenka's 99-week No. 1 run ends\n- Rybakina: 30th player to reach WTA No. 1 in history\n- First Kazakhstani player (ATP or WTA) to be ranked No. 1\n- Won both hardcourt Majors in 2026 (AO + USO) — 6th woman to do so since 1988\n- Rybakina and Sabalenka: first pair to contest both hardcourt major finals in same year since Graf/Sánchez Vicario 1994\n- 1,007-point cushion at top of Race to WTA Finals\n- 14th career WTA title overall from USO",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Asian Swing Preview — Tennis World Turns East After US Open",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Tennis shifts east after the US Open:\n\nSep 27–Oct 3: Asian Games (Nagoya)\nSep 30–Oct 6: China Open Beijing (ATP)\nSep 30–Oct 11: China Open (WTA)\nOct: Shanghai Masters\n\nSinner eyes his return. Zverev defends No. 1. #Tennis #AsianSwing",
+          "posting_time": "",
+          "tweet_type": "NEW",
+          "hashtags": [
+            "#Tennis",
+            "#AsianSwing"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-asian-swing-preview-after-us-open.html",
+        "headline": "From Flushing to the Far East: What to Expect From Tennis' 2026 Asian Swing",
+        "word_count": 556
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Asian Swing Preview\n\n**Concept 5-A (Primary)**\n- Search term: `China Open tennis`\n- Description: Action shot from Beijing China Open or Asian swing event\n- Use: Article hero (1200x630), Social (1080x1350)\n- Credit: (Imagn Images)\n\n---\n\n## Image Manifest Summary\n| Story | Concept | Search Term | Type | Status |\n|-------|---------|-------------|------|--------|\n| S1 | 1-A | Alexander Zverev US Open | imagn | not_started |\n| S1 | 1-B | Ben Shelton US Open 2026 | imagn | not_started |\n| S2 | 2-A | Ben Shelton | imagn | not_started |\n| S3 | 3-A | Alexander Zverev | imagn | not_started |\n| S3 | 3-B | Alexander Zverev Roland Garros | imagn | not_started |\n| S4 | 4-A | Elena Rybakina | imagn | not_started |\n| S5 | 5-A | China Open tennis | imagn | not_started |"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Asian Swing Preview\n**Sources:**\n- tennis365.com: \"Jannik Sinner's first tournament after 2026 US Open confirmed\"\n- WTA official: China Open 2026 overview (Sep 30–Oct 11 WTA)\n- Wikipedia: Asian Games 2026 (Sep 27–Oct 3, Nagoya)\n- tennisnerd.net: \"The Best of the Asian Hard Court Swing\"\n- tennisshop.ae: \"2026 China Open tennis tournament dates, players\"\n**Key Facts (HIGH confidence):**\n- Asian Games tennis: Sep 27–Oct 3, 2026, Higashiyama Park Tennis Center, Nagoya, Japan\n- China Open Beijing: Women Sep 30–Oct 11; Men (ATP 500) Sep 30–Oct 6\n- Six Kings Slam exhibition: Oct 21–24, Riyadh\n- Shanghai Masters: ATP Masters 1000, October (exact dates TBC)\n- Sinner targeting Asian swing return (missed US Open with knee injury)\n- Rybakina leads Race to WTA Finals by 1,007 points\n**Key Facts (MEDIUM confidence):**\n- Shelton expected to enter Asian swing events\n- Zverev likely to play Beijing/Shanghai",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

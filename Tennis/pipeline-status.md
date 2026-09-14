@@ -1,6 +1,37 @@
 # Tennis Fanrecap — Pipeline Status
 
-## Current Run: 2026-09-13
+## Current Run: 2026-09-14
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Zverev def. Shelton 6-3, 7-6(2), 5-7, 6-2 Men's Final (CBS Sports/ESPN/VAVEL/ATP Tour); Shelton reaction "this one stings" (ATP Tour); Zverev 2026 season 51-13, RG+USO (Olympics.com/ATP Tour/Roland Garros); Rybakina officially No. 1 Monday (WTA/ESPN/Roland Garros); Asian swing schedule (tennis365/WTA/Wikipedia) |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Sep 13 S2: Men's Final preview → RESULT); S2 FOLLOW-UP (Sep 13 S3: Shelton Ashe legacy → defeat reaction); S3 NEW (Zverev 2026 season retrospective); S4 FOLLOW-UP (Sep 13 S4: Rybakina No. 1 upcoming → official); S5 NEW (Asian swing preview) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2); bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: CBS Sports, ESPN, VAVEL, The Sports Encounter, ATP Tour, OutKick/Fox News, Olympics.com, Roland Garros official, US Open official, tennismylife.org, WTA official, Punto de Break, Wikipedia, tennis365, tennisnerd.net |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 6 posts across 5 stories; all ≤280 chars verified; code block format |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 7 imagn concepts across 5 stories |
+| Articles (5) | COMPLETE | article-01 Zverev wins USO (Elena Voss T1); article-02 Shelton reaction (Marcus Cole T1); article-03 Zverev 2026 season (Ryan Calloway T1); article-04 Rybakina No. 1 official (Elena Voss T2); article-05 Asian swing preview (Marcus Cole T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — auto-generated; 32 claims, HIGH; image missing warning cosmetic (imagn, known) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 6 X posts, 5 articles; posting-window warnings cosmetic (known) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 7 entries, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 21 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser issue — same as all prior runs |
+| WordPress Publish | BLOCKED | 403 proxy — fanrumor.com blocked (known recurring issue) |
+| Story History | COMPLETE | 5 entries prepended to Tennis/story-history.md (Sep 14 section) |
+
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 6 X posts + 5 FB posts (5 long-form + 5 captions) = 11 total
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
+- **PostPlanner exports:** 0 posts (known parser compat issue)
+- **Key stories:** Zverev def. Shelton 6-3, 7-6(2), 5-7, 6-2 (2nd GS of 2026 after RG, H2H 6-0, $7.67M); Shelton "this one stings" reaction, first Black American GS finalist since MaliVai Washington 1996; Zverev 2026 season: 51-13, 2 GS (RG+USO), first German with 2 GS in one year; Rybakina officially No. 1 (Monday), 30th player, first Kazakhstani, 1,007-point Race lead; Asian swing preview (Asian Games Sep 27-Oct 3, China Open Sep 30, Shanghai Masters October)
+- **Issues:** PostPlanner 0 posts (known); WordPress blocked by proxy; dashboard push blocked (not in session authorized repos)
+
+---
+
+## Previous Run: 2026-09-13
 
 | Step | Status | Notes |
 |------|--------|-------|
