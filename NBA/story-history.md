@@ -6824,3 +6824,53 @@
 - **Byline:** Marcus Cole
 - **Status:** NEW
 - **Follow-up ideas:** Camp reports, SGA preseason form, MVP race tracking
+
+## 2026-09-14
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-14 | T1 | DOJ Probe Widens — Daktronics Subpoenaed as Clippers Criminal Investigation Deepens | X(2), FB, Article | FOLLOW UP |
+| 2026-09-14 | T1 | 14 Days to Decide — Stephen Curry's Extension Deadline Arrives as Warriors Media Day Looms | X(2), FB, Article | FOLLOW UP |
+| 2026-09-14 | T2 | Oct. 1 Is 17 Days Away — Jalen Duren's $9.6M Gamble Could Reshape the Pistons' Future | X(1), FB, Article | FOLLOW UP |
+| 2026-09-14 | T2 | 21 Days to LeBron's 76ers Debut — What to Watch When Philly's Superteam Takes the Floor Oct. 5 | X(1), FB, Article | NEW |
+| 2026-09-14 | T2 | Ring Hangover or Ready to Repeat? — Three Wild Cards That Will Define the Knicks' Training Camp | X(1), FB, Article | NEW |
+
+### STORY 1: DOJ Clippers Criminal Probe — Daktronics Subpoena
+- **Tier:** 1
+- **Category:** Los Angeles Clippers / DOJ / Kawhi Leonard / Federal Investigation
+- **Key facts:** DOJ criminal probe (EDNY Brooklyn) ongoing; Daktronics subpoenaed; Aspiration deal $28M (Leonard) + $50M Ballmer investment; at least 1 subpoena issued; NBA penalties: 5 picks (2029-2033), $30M fine, Ballmer 1yr suspended, Frank 6mo, Zucker 1yr, Leonard $700K, Robertson 5yr ban; Kawhi trade to Toronto ratified; investigation "earliest stages"
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Charges filed/announced, plea deals, Leonard's first Raptors game
+
+### STORY 2: Stephen Curry Extension Deadline
+- **Tier:** 1
+- **Category:** Golden State Warriors / Stephen Curry / Contract Extension
+- **Key facts:** Sept. 28 Warriors media day = extension deadline; 2-year $137M extension eligible; $62.5M current deal for 2026-27; full extension cuts Warriors $130M+ cap space ~half; "mutual interest" from both sides; training camp opens Sept. 29
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Extension signed or not Sept. 28; Warriors offseason strategy update
+
+### STORY 3: Jalen Duren QO Stalemate
+- **Tier:** 2
+- **Category:** Detroit Pistons / Jalen Duren / Contract / Qualifying Offer
+- **Key facts:** Pistons offer ~$190M/5yr; Duren wants $200M+; gap ~$10M; QO deadline Oct. 1 (17 days); QO value $9.6M; taking QO = UFA after 2026-27; Pistons lose matching rights
+- **Byline:** Damon Pierce
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Deal signed, QO accepted, extension deadline passes
+
+### STORY 4: LeBron 76ers Preseason Debut
+- **Tier:** 2
+- **Category:** Philadelphia 76ers / LeBron James / Joel Embiid / Jaylen Brown / Preseason
+- **Key facts:** Oct. 5 home vs. Knicks 7pm ET (first game); Oct. 8 at Nets 7:30pm ET; Oct. 10 at Celtics; Oct. 20 regular season opener at MSG vs Knicks; franchise-record 34 national TV games; LeBron+Embiid+Brown+Maxey roster; camp opens Sept. 29
+- **Byline:** Jake Torres
+- **Status:** NEW
+- **Follow-up ideas:** Camp opening, LeBron preseason performance, Embiid health status
+
+### STORY 5: Knicks Training Camp Wild Cards
+- **Tier:** 2
+- **Category:** New York Knicks / Training Camp / Title Defense / Andre Drummond
+- **Key facts:** Camp opens Sept. 29; 2026 champions (Brunson Finals MVP); core returns (Brunson, Towns, Anunoby, Hart); Robinson replaced by Drummond; Sochan departed; Diawara 4yr $11.2M; Milicic on Exhibit 10; Oct. 5 first preseason vs. LeBron's Sixers; Opening Night Oct. 20 ring ceremony at MSG
+- **Byline:** Marcus Cole
+- **Status:** NEW
+- **Follow-up ideas:** Camp reports, Drummond integration, preseason results

@@ -1,0 +1,267 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-14",
+  "compiled_at": "2026-09-14T11:17:22.946152+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "DOJ Criminal Probe Into Clippers — Daktronics Subpoena Deepens Scandal",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The Clippers' federal investigation just got bigger.\n\nDOJ prosecutors have now contacted Daktronics — the scoreboard company at the center of the Kawhi kickback scheme.\n\nAt least one subpoena issued. More witnesses in play. This is not slowing down.\n\n#NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA"
+          ],
+          "char_count": 255
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Wire fraud. Conspiracy. These are the charges that could apply if the Clippers DOJ probe advances.\n\nNo charges filed yet. But with Daktronics now subpoenaed, federal investigators are building a full financial picture.\n\nThis one is far from over. #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-doj-probe-daktronics-clippers-deepens.html",
+        "headline": "DOJ Probe Widens: Daktronics Subpoenaed as Clippers Criminal Investigation Deepens",
+        "word_count": 688
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "DOJ Criminal Probe\n\n**Image 1 (Social 1080x1350):**\n- Imagn search: \"Kawhi Leonard Los Angeles Clippers\"\n- Caption overlay: \"FEDERAL PROBE\" / \"Clippers Scandal Deepens\"\n- Mode: base_only (clean background for Canva overlay)\n\n**Image 2 (Article hero 1200x630):**\n- Imagn search: \"Steve Ballmer Los Angeles Clippers\"\n- Caption overlay: none (hero image)\n- Mode: complete\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "DOJ Criminal Probe — Daktronics Subpoena\n**Sources:**\n- Sportico: \"Clippers Kawhi Cap Scandal Gets DOJ Probe, Raising Legal Risks\" (https://www.sportico.com/law/analysis/2026/los-angeles-clippers-kawhi-doj-investigation-1234944754/)\n- Eastern Herald: \"DOJ Opens Criminal Probe Into Clippers' Kawhi Leonard Deals\" (https://easternherald.com/2026/09/13/clippers-kawhi-leonard-doj-criminal-investigation/)\n- SI.com / Yardbarker reporting\n**Verified facts (HIGH confidence):**\n- DOJ criminal investigation opened, led by U.S. Attorney's Office Eastern District of New York (Brooklyn)\n- At least one subpoena issued (confirmed by multiple outlets)\n- NBA penalties: 5 first-round picks (2029-2033), $30M fine, Ballmer suspended 1 year, Frank suspended 6 months, Zucker suspended 1 year, Leonard fined $700K, Dennis Robertson banned 5 years\n- Core allegation: Aspiration green banking company paid Leonard $28M endorsement deal; Aspiration received $50M investment from Ballmer; kickbacks funneled through scoreboard contract\n- Daktronics (scoreboard manufacturer) also contacted by DOJ (earlier reporting)\n- Kawhi Leonard trade to Toronto Raptors was ratified alongside NBA penalties\n- Investigation described as \"earliest stages\"\n**Freshness:** DOJ probe news broke Sept. 13; follow-up context on Daktronics and scope of federal exposure is new angle for Sept. 14.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Stephen Curry Warriors Extension — 14 Days to the Sept. 28 Deadline",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "14 days until Warriors media day (Sept. 28).\n\nStephen Curry is eligible for a 2-year, $137M extension. Still not signed.\n\nBoth sides have \"mutual interest\" — but the clock is ticking on the biggest NBA offseason decision.\n\n#Warriors #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Warriors",
+            "#NBA"
+          ],
+          "char_count": 237
+        },
+        {
+          "label": "Post 2-2",
+          "text": "If Curry takes the full $137M extension, the Warriors lose half their projected $130M+ cap space.\n\nIf he takes a discount, Golden State can build around him.\n\nBoth options have major consequences. Sept. 28 deadline looming.\n\n#Warriors #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Warriors",
+            "#NBA"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-curry-extension-deadline-warriors.html",
+        "headline": "14 Days to Decide: Stephen Curry's Extension Deadline Arrives as Warriors Media Day Looms",
+        "word_count": 677
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Stephen Curry Extension\n\n**Image 1 (Social 1080x1350):**\n- Imagn search: \"Stephen Curry Golden State Warriors\"\n- Caption overlay: \"14 DAYS\" / \"Extension Deadline Looms\"\n- Mode: base_only\n\n**Image 2 (Article hero 1200x630):**\n- Imagn search: \"Stephen Curry Warriors\"\n- Mode: complete\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Stephen Curry Extension Deadline\n**Sources:**\n- Bleacher Report: \"New Warriors Rumors on Stephen Curry Contract Extension Talks\" (https://bleacherreport.com/articles/25459910-new-warriors-rumors-stephen-curry-contract-extension-talks-ahead-2026-nba-season)\n- Heavy.com: \"Warriors, Stephen Curry Eye Looming Date for Contract Extension\" (https://heavy.com/sports/nba/golden-state-warriors/stephen-curry-looming-contract-extension/)\n- Yahoo Sports: \"Warriors' Stephen Curry opens up about current contract situation\"\n**Verified facts (HIGH confidence):**\n- Curry's current contract: $62.5M/year, expires after 2026-27 season\n- Extension eligibility: 2-year, $137M addition\n- Extension deadline: September 28 (Warriors media day)\n- Mutual interest reported in extension\n- Warriors cap implications: full $137M extension would cut projected $130M+ cap space by roughly half\n- NBA training camps open September 29, 2026 for most teams\n- Opening Night: October 20, 2026\n**Freshness:** Sept. 28 deadline is 14 days away from today. Story builds on earlier coverage.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Jalen Duren Qualifying Offer Stalemate — Oct. 1 Deadline Is 17 Days Away",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Pistons-Duren stalemate: Detroit offered ~$190M. Duren wants $200M+.\n\nOct. 1 qualifying offer deadline is 17 days away.\n\nIf no deal: Duren plays 2026-27 for $9.6M — then walks as an unrestricted free agent.\n\nTime to move, Detroit. #Pistons #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Pistons",
+            "#NBA"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-duren-pistons-qualifying-offer-deadline.html",
+        "headline": "Oct. 1 Is 17 Days Away: Jalen Duren's $9.6M Gamble Could Reshape the Pistons' Future",
+        "word_count": 622
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Jalen Duren QO\n\n**Image 1 (Social 1080x1350):**\n- Imagn search: \"Jalen Duren Detroit Pistons\"\n- Caption overlay: \"OCT. 1 DEADLINE\" / \"Duren Stalemate\"\n- Mode: base_only\n\n**Image 2 (Article hero 1200x630):**\n- Imagn search: \"Jalen Duren Pistons\"\n- Mode: complete\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Jalen Duren QO Stalemate\n**Sources:**\n- Yahoo Sports / Yardbarker: \"Jalen Duren Increasingly Prepared To Take $9.6 Million Qualifying Offer\" (https://sports.yahoo.com/articles/jalen-duren-increasingly-prepared-9-170219607.html)\n- Detroit Sports Nation: \"Pistons and Jalen Duren Remain Apart on Contract Extension\" (https://detroitsportsnation.com/jalen-duren-pistons-contract-standstill/)\n- Heavy.com: \"Pistons All-Star Prepared for Risky $9.6 Million Decision\"\n**Verified facts (HIGH confidence):**\n- Pistons offer: 5-year deal ~$190M\n- Duren/camp demand: $200M+ (i.e., full max)\n- Gap: ~$10M+\n- QO value: $9.6M for 2026-27\n- QO deadline: October 1, 2026 (17 days away from today)\n- Taking QO: Duren becomes unrestricted free agent after 2026-27; Pistons lose matching rights\n- Duren described as \"increasingly prepared\" to take QO\n**Freshness:** Deadline pressure increases each day; Oct. 1 now 17 days out.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "LeBron James 76ers Debut — First Preseason Game Oct. 5 vs. Knicks",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Oct. 5. Wells Fargo Center. LeBron James. Joel Embiid. Jaylen Brown.\n\nIn 76ers uniforms. Against the defending champion Knicks.\n\nMost-watched preseason game in years. 21 days away.\n\n#Sixers #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sixers",
+            "#NBA"
+          ],
+          "char_count": 194
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-lebron-76ers-preseason-debut-oct5.html",
+        "headline": "21 Days to LeBron's 76ers Debut: What to Watch When Philly's Superteam Takes the Floor Oct. 5",
+        "word_count": 689
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LeBron 76ers Debut\n\n**Image 1 (Social 1080x1350):**\n- Imagn search: \"LeBron James Philadelphia 76ers\"\n- Caption overlay: \"OCT. 5\" / \"LeBron's Philly Debut\"\n- Mode: base_only\n\n**Image 2 (Article hero 1200x630):**\n- Imagn search: \"Joel Embiid Philadelphia 76ers\"\n- Mode: complete\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LeBron 76ers Preseason Debut\n**Sources:**\n- Liberty Ballers: \"LeBron James, star-studded Sixers heading to Brooklyn for preseason game\" (https://www.libertyballers.com/76ers-schedule/97007/)\n- Sixers preseason schedule via NBC Sports Philadelphia / Liberty Ballers / PhillyVoice\n**Verified facts (HIGH confidence):**\n- Sixers preseason schedule (4 games):\n- Oct. 5: Home vs. Knicks at Xfinity Mobile Arena, 7:00 PM ET (FIRST HOME GAME)\n- Oct. 8: At Brooklyn Nets, Barclays Center, 7:30 PM ET\n- Oct. 10: At Boston Celtics\n- Oct. 20: Regular season opener at MSG vs. Knicks\n- 76ers roster: LeBron James + Joel Embiid + Jaylen Brown + Tyrese Maxey (per reporting)\n- 76ers to have franchise-record 34 nationally televised games in 2026-27\n**Freshness:** Training camps open Sept. 29; first preseason game Oct. 5 is 21 days away. NEW story angle.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Knicks Training Camp Wild Cards — Three Questions for the Defending Champs",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Knicks training camp opens Sept. 29.\n\nThree things to watch: 1) Drummond replacing Robinson 2) Final roster spots 3) Whether they still have championship hunger.\n\nDefending titles is harder than winning them. #Knicks #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Knicks",
+            "#NBA"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-knicks-training-camp-wild-cards-repeat.html",
+        "headline": "Ring Hangover or Ready to Repeat? Three Wild Cards That Will Define the Knicks' Training Camp",
+        "word_count": 721
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Knicks Training Camp\n\n**Image 1 (Social 1080x1350):**\n- Imagn search: \"Jalen Brunson New York Knicks\"\n- Caption overlay: \"CAMP OPENS SEPT. 29\" / \"Knicks Wild Cards\"\n- Mode: base_only\n\n**Image 2 (Article hero 1200x630):**\n- Imagn search: \"New York Knicks\"\n- Mode: complete"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Knicks Training Camp Wild Cards\n**Sources:**\n- SI.com/Knicks: \"3 Big Wild Cards for Knicks as Training Camp Grows Closer\" (https://www.si.com/nba/knicks/onsi/3-big-wild-cards-knicks-training-camp-grows-closer-01kzfc65nam5)\n- RealGM: Knicks training camp roster / Yardbarker repeat piece\n**Verified facts (HIGH confidence):**\n- 2026 NBA champions: New York Knicks (Finals MVP: Jalen Brunson)\n- Core returning: Brunson, Karl-Anthony Towns, OG Anunoby, Josh Hart\n- Key departure: Mitchell Robinson (free agent); replaced by Andre Drummond\n- Also departed: Jeremy Sochan\n- Added: Mo Diawara (4-year, $11.2M), Jordan Clarkson, Jose Alvarado, Landry Shamet\n- Back-end roster still fluid; Igor Milicic Jr. on Exhibit 10\n- Training camp opens Sept. 29; media day before that\n**Freshness:** Wild card questions for camp are fresh; Drummond integration is the new storyline. NEW story angle.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
