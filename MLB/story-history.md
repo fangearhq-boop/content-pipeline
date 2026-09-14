@@ -7579,3 +7579,62 @@ Each day's stories are appended at the top (newest first).
   - Rice HR tracking in September
   - Yankee playoff implications
   - AL HR race resolution
+
+---
+
+## September 14, 2026
+
+### Story 1: PCA — Four Steals from 40-40 History
+- **Date:** 2026-09-14
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** PCA 41HR/36SB/97RBI heading into Sept 14. Needs 4 SB in ~13 games. Would be 7th member 40-40 club (Canseco/Bonds/A-Rod/Soriano/Acuña/Ohtani). First Cub ever. First Cubs 40HR since Derrek Lee 2005. Cubs 81-64 NL WC2, face Phillies in Wild Card Series Sept 29.
+- **Content Produced:** Article (article-01, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - PCA stolen base No. 40 milestone
+  - Daily SB tracking
+  - Cubs Wild Card Series Sept 29
+
+### Story 2: Alvarez Triple Crown — HR Race Tightening
+- **Date:** 2026-09-14
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Alvarez .311 BA leads AL (secure). But Caminero 39 HR leads Alvarez (38) by 1. Alonso 97 RBI leads Alvarez (95) by 2. Triple Crown slipping — was on track, now under pressure. Cabrera 2012 last AL TC. ~13 games remaining.
+- **Content Produced:** Article (article-02, Ryan Calloway), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Daily Triple Crown tracking
+  - Caminero/Alonso performance monitoring
+  - Alvarez's final 13-game stat line
+
+### Story 3: Misiorowski — Greatest Brewers Season in Modern History
+- **Date:** 2026-09-14
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Misiorowski 19-8/1.95 ERA MLB best/236K/age 24/Cy Young -700. First pitcher 1000 pitches at 100+mph in tracking era (set Sept 8). Ben Sheets 264K Brewers franchise record — Misiorowski needs 28 more. Brewers NL Central leaders.
+- **Content Produced:** Article (article-03, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Misiorowski next start
+  - K record chase (needs 28 for 265)
+  - Brewers playoff seeding
+
+### Story 4: Ben Rice — 38 HR, Yankees Win Subway Series Rubber Game
+- **Date:** 2026-09-14
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Rice 38HR career-high (previous best 26). 1st-inning solo HR Sept 13 Subway Series rubber game. Yankees 2-0 Mets. Schlittler 6IP/1H/0R. Judge: 385 career HR, returned Sept 8 from 99-day IL (stress fracture rib), needs 15 for 400.
+- **Content Produced:** Article (article-04, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Rice HR No. 39, 40
+  - Judge 400 career HR
+  - Schlittler AL Cy Young race
+
+### Story 5: NL Playoff Picture — 13 Games Left
+- **Date:** 2026-09-14
+- **Tier:** 3
+- **Classification:** FOLLOW UP
+- **Angle:** NL bracket: Brewers (No.1 bye), Dodgers (No.2 bye), Braves (No.3), Cubs (No.4 WC2 81-64), Phillies (No.5 WC1), Padres (No.6 WC3 2.5 ahead D-backs). Wild Card: Cubs vs Phillies, Braves vs Padres. Season ends Sept 27, WC Series Sept 29. Padres host D-backs Sept 25-27 at Petco — decisive series.
+- **Content Produced:** Article (article-05, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Padres vs D-backs Sept 25-27 series
+  - Cubs clinching WC
+  - Brewers/Dodgers playoff prep
