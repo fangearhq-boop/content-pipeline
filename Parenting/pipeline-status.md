@@ -1,6 +1,37 @@
 # COS Parenting — Pipeline Status
 
-## Current Run: 2026-09-14
+## Current Run: 2026-09-15
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | CMZoo Giraffe Center opens today 9:30 AM (grand opening ceremony, Mayor Mobolade, 12K sq ft barn, 11 feeding zones, largest ETFE roof in NA for animal exhibit, $40M project); SHEIN spiral toy recall (~963 units, small ball ban, SHEIN.com Sep 2025–May 2026, 4th SHEIN recall); OKK Rainbow Squishy Bun Toys recall (~7,200 units, model D08004, water beads exceed expansion limit, recall@okktoys.com); Lontcs Busy Board recall (SQT LLC, Amazon May 2024–Jul 2026, ~$31, lead paint, Lontcs@163.com); COS family events (CMZoo Centennial through Sep 20, Military Week through Sep 19, Simple Gift playgroup today, Pikes Peak Airshow Sep 19–20) |
+| Story History Check | COMPLETE | S1 CMZoo opens (FOLLOW-UP — Sep 14 was day-before guide; today is opening day coverage); S2 SHEIN recall (NEW); S3 OKK recall (NEW); S4 Lontcs recall (NEW); S5 COS Events roundup (NEW) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2); bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: cmzoo.org, CPSC.gov, KOAA, cpsc.gov recall pages, pprairshow.org, Poor Richard's COS |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows, voice check |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 8 posts across 5 stories; all ≤280 chars (1 trimmed during verify-facts pass); 4 hashtags each; 0 exclamation marks; COS voice rules applied |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; no hashtags; engagement questions; COS voice rules applied |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 9 Gemini base_only prompts; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 CMZoo Giraffe Center opens (Sarah Morales, T1, QR table); article-02 SHEIN spiral toy recall (Jamie Rivera, T1, QR table); article-03 OKK squishy bun recall (Sarah Morales, T1, QR table); article-04 Lontcs busy board recall (Jamie Rivera, T2, QR table); article-05 COS family events (Sarah Morales, T2, QR table) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 87 claims; HIGH/MEDIUM/LOW prioritized; image missing warnings expected (Gemini base_only, generated separately) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 0 FB posts parsed, 5 articles; posting-window warnings known cosmetic |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 9 entries (S1: 2, S2: 2, S3: 2, S4: 1, S5: 2), all not_started, gemini base_only, brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 23 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser compat issue — ran both standard and --tobi |
+| WordPress Publish | BLOCKED | 403 proxy — fanrumor.com blocked (known recurring issue) |
+| Story History | COMPLETE | 5 new entries prepended to Parenting/story-history.md (Sep 15 section) |
+
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 5 FB posts (5 long-form + 5 captions) = 13 total
+- **Articles:** 5 (bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4])
+- **PostPlanner exports:** 0 posts (known parser compat issue)
+- **Key stories:** CMZoo International Center for Care and Conservation of Giraffe opens today 9:30 AM (12K sq ft, 11 feeding zones, largest ETFE roof NA, $40M, cmzoo.org advance tickets); SHEIN spiral toy recall (~963 units, choking hazard, 4th SHEIN small-ball recall since Aug 2025); OKK Rainbow Squishy Bun recall (~7,200 units, water bead expansion, intestinal obstruction risk, recall@okktoys.com); Lontcs Busy Board recall (lead paint, Amazon May 2024–Jul 2026, Lontcs@163.com); COS family events week (CMZoo Centennial through Sep 20, Military Week 50% off through Sep 19, Pikes Peak Airshow Sep 19–20, pprairshow.org)
+- **Issues:** 1 X post trimmed for char limit during verify-facts pass; PostPlanner 0 posts (known); WordPress blocked by proxy; dashboard push blocked (not in session authorized repos)
+
+---
+
+## Previous Run: 2026-09-14
 
 | Step | Status | Notes |
 |------|--------|-------|

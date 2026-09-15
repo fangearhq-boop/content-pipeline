@@ -2,6 +2,50 @@
 
 ---
 
+## September 15, 2026
+
+### Story 1: CMZoo Giraffe Center Opens TODAY
+- **Date:** 2026-09-15
+- **Tier:** T1
+- **Pillar:** Local Events
+- **Key Facts:** International Center for the Care and Conservation of Giraffe grand opening 9:30 AM; $40M construction; 12,000 sq ft barn; 11 feeding zones (up from 3); 25% larger outdoor yard; largest ETFE clear roof in North America for animal exhibit; CMZoo Centennial through Sep 20 (live music, vintage cars); Military Week 50% off through Sep 19
+- **Byline:** Sarah Morales
+- **Status:** FOLLOW-UP (Sep 14 was day-before guide; today is opening day coverage)
+
+### Story 2: SHEIN Spiral Toy Recall — Choking Hazard
+- **Date:** 2026-09-15
+- **Tier:** T1
+- **Pillar:** National Parenting (CPSC Safety)
+- **Key Facts:** SHEIN Distribution Corporation recalling ~963 spiral toys; small ball components violate federal small ball ban; sold SHEIN.com Sep 2025–May 2026 for $6–$16; 4th SHEIN recall for small ball violation since Aug 2025; no injuries reported; full refund via SHEIN; CPSC.gov search "SHEIN Distribution Corporation Recalls Spiral Toys"
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 3: OKK Rainbow Squishy Bun Toys Recall — Water Bead Danger
+- **Date:** 2026-09-15
+- **Tier:** T1
+- **Pillar:** National Parenting (CPSC Safety)
+- **Key Facts:** OKK Trading recalling ~7,200 Rainbow Mystery Squishy Bun Toys (model D08004); water beads exceed mandatory expansion size limit; ingestion risk — obstruction, vomiting, dehydration, death; sold various third-party stores May–Aug 2026; no injuries reported; dispose and email photo to recall@okktoys.com for refund
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 4: Lontcs Busy Board Lead Paint Recall
+- **Date:** 2026-09-15
+- **Tier:** T2
+- **Pillar:** National Parenting (CPSC Safety)
+- **Key Facts:** SQT LLC recalling Lontcs Busy Boards; lead paint violation; sold Amazon May 2024–Jul 2026 for ~$31; disassemble, write "RECALLED", email photo to Lontcs@163.com for full refund; no return shipment needed; CPSC.gov search "SQT Recalls Lontcs Busy Boards"
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 5: COS Family Events This Week — CMZoo Centennial, Military Week, Airshow Preview
+- **Date:** 2026-09-15
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** CMZoo Centennial through Sep 20; Military Week 50% off through Sep 19 with military ID; Simple Gift Schoolhouse pop-up playgroup Poor Richard's TODAY 9–11 AM; Pikes Peak Regional Airshow Sep 19–20 at COS Airport (adults $53.20+, children $42.18+, advance tickets pprairshow.org)
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+---
+
 ## September 14, 2026
 
 ### Story 1: Ricky Joy Sour Crush Rolling Candy Bottle Recall
