@@ -5,6 +5,60 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-09-15
+
+### Story 1: PCA — 40-40 Chase, 3 Steals Away From History
+- **Date:** 2026-09-15
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** PCA at 42 HR / 37 SB — 3 steals from 40-40 club (would be 7th member ever, first Cub). First Cub with 40+ HR since Derrek Lee 2005. NL MVP frontrunner. Cubs WC2.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, image concepts
+- **Follow-Up Opportunities:**
+  - Daily SB tracker — each Cubs game in Sept
+  - If PCA achieves 40-40, major feature/breaking story
+
+### Story 2: Yordan Alvarez — Triple Crown Slipping Away?
+- **Date:** 2026-09-15
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Alvarez leads AL in BA (.311) but trails in HR (Caminero, TB) and RBI (Alonso, BAL). Slump since Aug. 2: .242, 3 HR, 12 RBI in 35 games. ~12 games left. Last AL Triple Crown: Cabrera 2012.
+- **Content Produced:** Article (article-02, Jake Torres), 1 X post, FB long-form + caption, image concepts
+- **Follow-Up Opportunities:**
+  - Final ~12 games for Triple Crown math
+  - Batting title still attainable if lead holds
+
+### Story 3: Yankees Clinch + Aaron Judge Returns
+- **Date:** 2026-09-15
+- **Tier:** 1
+- **Classification:** NEW / FOLLOW UP
+- **Angle:** Sept. 14 — Judge 3-run HR in 8th (first since May 24) in 8-3 win over Twins. Yankees clinched record 61st postseason berth. Judge returned from fractured rib IL (~Sept 8).
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, image concepts
+- **Follow-Up Opportunities:**
+  - October Yankees coverage — Judge health, lineup construction
+  - Record 61st postseason milestone story
+
+### Story 4: Jakob Misiorowski — Cy Young Frontrunner
+- **Date:** 2026-09-15
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** 19-8, 1.95 ERA, 236 K — all lead MLB. Age 24. First pitcher in tracking era with 1,000 pitches at 100+ mph. Cy Young -700. Needs 28 K to break Brewers record (Sheets, 264 K, 2004).
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, image concepts
+- **Follow-Up Opportunities:**
+  - Brewers franchise strikeout record chase — each Misiorowski start
+  - Cy Young announcement (offseason)
+
+### Story 5: NL Playoff Race — Final 12 Games
+- **Date:** 2026-09-15
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Brewers No.1 (bye), Dodgers No.2 (bye), Braves No.3. WC1: Phillies, WC2: Cubs, WC3: Padres (2.5 ahead of AZ). Padres host D-backs Sept. 25-27 at Petco — potentially decisive. WC starts Sept. 29.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, image concepts
+- **Follow-Up Opportunities:**
+  - Sept. 25-27 Padres-D-backs series preview + recap
+  - Wild Card round preview (Sept. 29)
+
+---
+
 ## 2026-09-13
 
 ### Story 1: PCA — 40-40 Chase, 4 Steals From History
