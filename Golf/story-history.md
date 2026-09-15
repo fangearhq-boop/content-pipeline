@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-09-15
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-15 | T1 | Presidents Cup — 9 Days to Medinah, Full Rosters Set, Koivun Headlines Team USA Picks | X(2), FB, Article | FOLLOW UP |
+| 2026-09-15 | T1 | Scottie Scheffler Historic 2026 Season — 2nd FedEx Cup, $30.9M Record, Passed Tiger's All-Time Mark | X(2), FB, Article | NEW |
+| 2026-09-15 | T2 | LIV Golf 2026 Season Over — Legion XIII Team Champs, La Sasso Youngest Winner, LIV 2.0 Ahead | X(1), FB, Article | FOLLOW UP |
+| 2026-09-15 | T2 | Walmart NW Arkansas LPGA Preview — 10 Days Out, Korda Headlining, $3M Purse, 20th Year at Pinnacle | X(1), FB, Article | NEW |
+| 2026-09-15 | T2 | Lottie Woad Solheim Hero — Europe's 15-13 Win, World No. 5 at 21, Future of European Women's Golf | X(1), FB, Article | FOLLOW UP |
+
+### STORY 1: Presidents Cup — 9 Days to Medinah
+- **Tier:** 1
+- **Category:** Presidents Cup / Medinah / Brandt Snedeker / Geoff Ogilvy / Jackson Koivun / Scottie Scheffler
+- **Key facts:** 16th Presidents Cup Sept 24-27 at Medinah CC (IL); USA captain Snedeker; auto qualifiers: Scheffler, Young, Clark, Henley, Burns, Morikawa; picks: Gotterup, Schauffele, Thomas, Cantlay, Bridgeman, Koivun (21, Auburn); Intl captain Ogilvy; auto: Si Woo Kim, Matsuyama, Fox, Tom Kim, Min Woo Lee, Scott; picks: Conners, Echavarria, Im, Hisatsune, Taylor, Bezuidenhout; USA won 13 of 15 editions; Schauffele/Cantlay 10-4-0, Thomas 10-3-2; Medinah hosted Ryder Cups 1991, 1999, 2012
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Practice rounds, pairings for foursomes/fourballs, daily results
+
+### STORY 2: Scottie Scheffler Historic 2026 Season
+- **Tier:** 1
+- **Category:** Scottie Scheffler / PGA Tour / FedEx Cup / Career Earnings / TOUR Championship / Tiger Woods
+- **Key facts:** Won TOUR Championship Aug 30 at East Lake, final-round 66, -16, 3 shots over Hovland; 2nd FedEx Cup (joins Woods 2007/2009 and McIlroy 2016/2019/2022); single-season earnings record $30,937,525; FedEx bonus $23M; career earnings $130M+ passing Tiger ($120.99M all-time); 3 wins (American Express, FedEx St. Jude, TOUR Championship); 210-day winless stretch with 5 runner-up finishes; 2026 scoring avg 67.96 — Tour's lowest since 1983; Gerard 3rd (-12, $3.705M), McIlroy tied 4th (-11)
+- **Status:** NEW
+- **Follow-up ideas:** PGA Tour Player of the Year vote, Presidents Cup performance, 2027 season preview
+
+### STORY 3: LIV Golf 2026 Season Concluded
+- **Tier:** 2
+- **Category:** LIV Golf / Legion XIII / Jon Rahm / Michael La Sasso / LIV 2.0 / Bankruptcy / Brooks Koepka / Patrick Reed
+- **Key facts:** Season concluded in Indianapolis; Legion XIII team champions ($8.4M prize); Michael La Sasso youngest LIV winner at 22; 2026 format expanded to 72-hole stroke play (from 54-hole); Koepka and Reed departed before 2026 season to rejoin PGA Tour; Chapter 11 filed Sept 8; PIF DIP $49.6M; BC Partners restructuring to LIV 2.0 player-equity model; 4 2027 events: Saudi Arabia, Australia, South Africa, Hong Kong; Rahm owed $100M+ from original deal
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Bankruptcy court milestones, player settlement, LIV 2.0 equity structure details
+
+### STORY 4: Walmart NW Arkansas LPGA Championship Preview
+- **Tier:** 2
+- **Category:** LPGA / Walmart NW Arkansas Championship / Nelly Korda / Pinnacle Country Club / Race to CME Globe
+- **Key facts:** Event: Walmart NW Arkansas Championship Presented by P&G; Sept 25-27, 2026; Pinnacle Country Club, Rogers AR; $3M purse; 500 CME Globe points; 54-hole stroke play no cut; 20th year at venue; 144 players; Korda world No. 1, two 2026 majors (Chevron + US Women's Open); first LPGA event post-Solheim Cup
+- **Status:** NEW
+- **Follow-up ideas:** Full field announcement, tee times, first-round leaderboard
+
+### STORY 5: Lottie Woad — Solheim Cup Hero
+- **Tier:** 2
+- **Category:** Solheim Cup / Lottie Woad / LPGA / Europe / Auston Kim / Bernardus Golf / Netherlands
+- **Key facts:** Woad age 21, English, world No. 5; clinched Europe 15-13 win; beat Auston Kim 2&1 in Match 8; singles played at Bernardus Golf Netherlands; entered Sunday singles at 8-8; Carlota Ciganda also won (beat Jennifer Kupcho 4&2 in Match 11); next Solheim Cup 2028; Woad's biggest career moment; LPGA Tour veteran
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Woad at Walmart NW Arkansas, LPGA season finish, 2028 Solheim Cup previews
+
 ## 2026-09-13
 
 | Date | Tier | Story | Platforms | Status |
