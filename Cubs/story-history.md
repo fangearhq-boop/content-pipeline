@@ -5,6 +5,63 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-09-15
+
+### STORY 1: Game Recap — Cubs 7, Braves 3 (Game 1 vs Atlanta)
+- **Angle:** FOLLOW UP. Cubs won Game 1 of Braves series 7-3. PCA went 4-for-4, 4 RBI, 42nd HR, 37th SB. PCA's HR No. 42 ties Billy Williams' franchise record for LH home runs in a season (1970). Cubs now 84-67.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - Game 2 result recap (Sept 16 morning)
+  - PCA next SB milestone en route to 40-40
+
+### STORY 2: PCA 40-40 Watch — 42 HR / 37 SB
+- **Angle:** FOLLOW UP. PCA at 42 HR / 37 SB. Three steals from 40-40 club (7th MLB player ever, first Cub in franchise history). 11 games remaining. Angle: franchise history within reach.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, milestone)
+- **Follow-Up Opportunities:**
+  - Each stolen base milestone (38, 39, 40)
+  - Historic 40-40 announcement when achieved
+
+### STORY 3: Wild Card Standings — Cubs 84-67, WC1
+- **Angle:** FOLLOW UP. Cubs 84-67, hold WC1. Phillies lurking but Cubs have real lead after last night's win. 11 games left to lock home-field for Wild Card Series at Wrigley.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, standings)
+- **Follow-Up Opportunities:**
+  - Daily standings updates
+  - Magic number countdown
+  - WC1 clinch announcement
+
+### STORY 4: Game 2 Preview — Gausman vs Pérez
+- **Angle:** NEW STORY. Kevin Gausman (9-12, 4.60 ERA) vs Martin Pérez (LHP, 8-9, 3.08 ERA), 6:40 PM CT, Wrigley. Gausman needs bounce-back after 6-ER meltdown vs Brewers (Sept 9). Pérez allowed ≤1 ER in 3 of last 4 starts.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Gausman's outing result
+  - Game 2 recap (Sept 16 morning)
+
+### STORY 5: Swanson Return Closing In
+- **Angle:** FOLLOW UP. Swanson (Grade 2 oblique, out since Aug 16, ~30 games) doing Trajekt/machine work at Wrigley. Target return: Cincinnati series (~Sept 18) after short Iowa rehab.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, roster/injury news)
+- **Follow-Up Opportunities:**
+  - Swanson activation announcement
+  - Return game performance
+
+### STORY 6: Edward Cabrera Activated / Thornton IL
+- **Angle:** NEW STORY. Cubs activated RHP Edward Cabrera (right-hand blister, 15-day IL). Placed Trent Thornton on IL (left ankle sprain). Bullpen deepening ahead of October.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, roster news)
+- **Follow-Up Opportunities:** N/A
+
+### STORY 7: Pre-Game Hype — Wrigley, Game 2 vs Braves
+- **Angle:** NEW STORY. Cubs up 1-0 in series. Gausman gets the ball at 6:40 PM CT. Win tonight = series control + tighter WC1 grip.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, fan energy)
+- **Follow-Up Opportunities:** N/A
+
+---
+
 ## 2026-09-14
 
 ### STORY 1: Series Preview — Cubs vs Braves, Game 1 at Wrigley (Series Start)

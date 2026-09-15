@@ -1,0 +1,255 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-15",
+  "compiled_at": "2026-09-15T09:17:38.339298+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Game Recap — Cubs 7, Braves 3",
+      "type": "X text post"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "PCA 40-40 Watch",
+      "type": "X text post"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Wild Card Standings",
+      "type": "X text post"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Game 2 Preview",
+      "type": "X text post"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Swanson Return",
+      "type": "X text post"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Cabrera Activated",
+      "type": "X text post"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Pre-Game Hype",
+      "type": "X text post"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Game Recap — Cubs 7, Braves 3",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "PCA went 4-for-4, 4 RBI, 42nd HR, 37th SB in Cubs' Game 1 win over Atlanta. PCA tied Billy Williams' franchise record for LH home runs.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Cubs 7, Braves 3.\n\nPCA: 4-for-4, 4 RBI, HR No. 42, SB No. 37.\n\nHe tied Billy Williams' franchise record for LH home runs at Wrigley. Three steals from 40-40 history.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 189
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "PCA 40-40 Watch — 42 HR / 37 SB",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "PCA three steals from 40-40 club (6 members in MLB history, zero Cubs). Franchise-history milestone in reach with 11 games left.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "42 HR. 37 SB.\n\nThree steals. That's all that stands between PCA and the 40-40 club — six members in MLB history, zero from Chicago.\n\nNo Cub has ever done it. He has 11 games.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 194
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Wild Card Standings — Cubs 84-67, WC1",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Cubs 84-67, hold WC1 and home-field for Wild Card Series at Wrigley. 11 games left to close it out vs the Phillies.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "84-67. WC1.\n\nCubs hold home-field for the Wild Card Series at Wrigley. Phillies are lurking — but after last night's W, the gap is real.\n\n11 games left to slam the door.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 194
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Game 2 Preview — Gausman vs Pérez",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Kevin Gausman (9-12, 4.60 ERA) vs Martin Pérez (8-9, 3.08 ERA), 6:40 PM CT at Wrigley. Gausman needs a bounce-back; Pérez has been excellent lately.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Gausman: 9-12, 4.60 ERA. Pérez: 8-9, 3.08 ERA.\n\nGausman gets the ball tonight at Wrigley (6:40 PM CT). Needs a bounce-back after a 6-ER meltdown vs the Brewers last week.\n\nWrigley crowd, show up loud.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 224
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Swanson Return Closing In",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Dansby Swanson (Grade 2 oblique, out 30 games since Aug 16) doing Trajekt work at Wrigley, targeting return for Cincinnati series (~Sept 18).",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "30 games. 4 weeks. That's how long Dansby Swanson has been out (Grade 2 oblique).\n\nHe's doing Trajekt work at Wrigley this week — targeting a return for the Cincinnati series (~Sept 18).\n\nGold Glove SS back just in time.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Edward Cabrera Activated / Bullpen Depth",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Cubs activated Edward Cabrera (RHP, blister) from 15-day IL; placed Trent Thornton on IL (left ankle sprain). Bullpen deepening with 11 games left.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "15-day IL, cleared.\n\nCubs activated RHP Edward Cabrera (right-hand blister) and placed Trent Thornton on the IL (left ankle sprain).\n\nBullpen depth grows with 11 games left and October around the corner.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "Pre-Game Hype — Wrigley Tonight",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Cubs up 1-0 in series, Gausman on the mound, 6:40 PM CT. Series win tonight locks in control and tightens WC1 grip.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Up 1-0 in the series. 6:40 PM CT at Wrigley.\n\nGausman on the mound. Braves are down 0-1 and pushing for a postseason spot.\n\nWin tonight and Cubs control the series — and tighten that WC1 grip.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
