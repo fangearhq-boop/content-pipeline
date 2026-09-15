@@ -6874,3 +6874,53 @@
 - **Byline:** Marcus Cole
 - **Status:** NEW
 - **Follow-up ideas:** Camp reports, Drummond integration, preseason results
+
+## 2026-09-15
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-15 | T1 | Nike Drops All 30 NBA City Edition Uniforms — 10th Anniversary Remix Revealed | X(2), FB, Article | NEW |
+| 2026-09-15 | T1 | 13 Days to Decide — Curry Extension Clock Ticks Toward Warriors Media Day Sept. 28 | X(2), FB, Article | FOLLOW UP |
+| 2026-09-15 | T1 | DOJ Clippers Probe Stays in Shadows — Federal Investigation Still in "Earliest Stages" | X(2), FB, Article | FOLLOW UP |
+| 2026-09-15 | T2 | Oct. 1 Is 16 Days Away — Duren's $9.6M Decision Could Upend the Pistons' Future | X(1), FB, Article | FOLLOW UP |
+| 2026-09-15 | T2 | SGA Launches Foundation as OKC Thunder Count Down to Oct. 6 Preseason Opener in Tulsa | X(1), FB, Article | NEW |
+
+### STORY 1: Nike NBA City Edition 10th Anniversary Uniform Reveal
+- **Tier:** 1
+- **Category:** NBA Uniforms / Nike / City Edition / Specter Edition
+- **Key facts:** Sept. 15 simultaneous reveal of all 30 teams; 10th anniversary; remix concept (best look from first 9 yrs); iridescent aluminum Swoosh; NBA logo to back neck; Specter Edition for Lakers, Celtics, Warriors, Knicks, 76ers, Pistons, Hawks, Kings (new 5th uniform)
+- **Byline:** Jake Torres
+- **Status:** NEW
+- **Follow-up ideas:** Fan reaction roundup, court reveals, first on-court Specter Edition game
+
+### STORY 2: Stephen Curry Extension — 13 Days to Media Day
+- **Tier:** 1
+- **Category:** Golden State Warriors / Stephen Curry / Contract Extension
+- **Key facts:** 13 days to Sept. 28 Warriors media day; up to 2yr/$136.7M eligible; Warriors "letting Curry decide structure"; ESPN confirmed mutual desire; training camp Sept. 29 then Hawaii; no deal yet
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Extension signed Sept. 28, or media day Q&A with no deal
+
+### STORY 3: DOJ Clippers Federal Probe
+- **Tier:** 1
+- **Category:** Los Angeles Clippers / DOJ / Kawhi Leonard / EDNY
+- **Key facts:** EDNY probe still "earliest stages"; Daktronics subpoena issued; 3 firms paid Leonard $18M; NBA penalties in place ($30M, 5 picks, Ballmer 1yr, Frank 6mo, Zucker 1yr, Robertson 5yr, Leonard $700K); Kawhi to Raptors ratified; no charges filed
+- **Byline:** Damon Pierce
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Grand jury activity, additional subpoenas, DOJ announcement
+
+### STORY 4: Jalen Duren Pistons QO Deadline
+- **Tier:** 2
+- **Category:** Detroit Pistons / Jalen Duren / Qualifying Offer
+- **Key facts:** 16 days to Oct. 1 QO deadline; Pistons 5yr/$190M ($38M AAV); Duren wants $40M+; Pistons won't raise offer; QO=$9.6M; if accepted, Duren UFA next summer, Pistons lose matching rights; Duren age 22; last unsigned RFA
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Deal signed, QO accepted, deadline passes
+
+### STORY 5: SGA Foundation + OKC Preseason Oct. 6
+- **Tier:** 2
+- **Category:** Oklahoma City Thunder / Shai Gilgeous-Alexander / Foundation / Preseason
+- **Key facts:** SGA Foundation launched early Sept.; youth development OKC + Hamilton Ontario; SGA age 28, 2x MVP, 30+ PPG x4 seasons, 4x All-Star/All-NBA 1st; preseason opener Oct. 6 vs. Pelicans in Tulsa; camp opens Sept. 29
+- **Byline:** Marcus Cole
+- **Status:** NEW
+- **Follow-up ideas:** Foundation programming details, preseason Oct. 6 game recap
