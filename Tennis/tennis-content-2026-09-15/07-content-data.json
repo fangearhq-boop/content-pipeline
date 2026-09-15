@@ -1,0 +1,345 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-15",
+  "compiled_at": "2026-09-15T12:21:12.396102+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "ATP Rankings Shake-Up — Shelton No. 4, Djokovic Exits Top 10",
+      "tier": 1,
+      "status": "",
+      "angle": "The 2026 US Open reshuffled the ATP rankings: Ben Shelton reaches a career-high No. 4 (up 5 from No. 9), Frances Tiafoe returns to the top 10 at No. 8, Alexander Zverev climbs to No. 2 (9,690 pts, 1,810 behind Sinner), and Novak Djokovic drops from No. 5 to No. 12 — out of the top 10 for the first time since 2018.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Ben Shelton reaches a career-high No. 4 in the ATP rankings after his US Open final run — up 5 places from No. 9. Frances Tiafoe also returns to the Top 10 at No. 8. American men's tennis is officially back. #USOpen #Tennis #BenShelton #ATPTour",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#USOpen",
+            "#Tennis",
+            "#BenShelton",
+            "#ATPTour"
+          ],
+          "char_count": 244
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Post-US Open ATP rankings: Zverev climbs to No. 2 (9,690 pts), just 1,810 behind Sinner. Djokovic falls from No. 5 to No. 12 — out of the top 10 for the first time since 2018. #ATPRankings #Tennis #Zverev #USOpen",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#ATPRankings",
+            "#Tennis",
+            "#Zverev",
+            "#USOpen"
+          ],
+          "char_count": 212
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-atp-rankings-post-us-open-shake-up.html",
+        "headline": "ATP Rankings Shake-Up: Shelton Soars to No. 4, Djokovic Falls Out of the Top 10",
+        "word_count": 628
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "ATP Rankings Post-US Open\n**Key Facts (all HIGH confidence from multiple sources):**\n- Ben Shelton: career-high No. 4 ATP ranking (up 5 from No. 9 entering US Open) — ATP Tour, Tennis365, Sunday Guardian Live\n- Frances Tiafoe: returns to top 10 at No. 8 — ATP Tour, Yardbarker\n- Alexander Zverev: No. 2 (9,690 pts), 1,810 points behind Sinner (11,500 pts) — ESPN, ATP Tour\n- Novak Djokovic: drops from No. 5 to No. 12 — Punto de Break, Click Orlando, Khel Now\n- Djokovic first-round loss: to Mariano Navone — Khel Now\n- Djokovic out of top 10 for first time since 2018 — Tennis365, ATP Tour\n- Carlos Alcaraz: No. 3 at 5,560 pts — ESPN rankings\n- Zverev leads PIF ATP Live Race to Turin — ATP Tour\n- Shelton highest-ranked former college player since 2006 — Athlonsports\n**Sources:**\n- tennis365.com/atp-tour/atp-rankings-zverev-sinners-lead-shelton-tiafoe-crack-highs-djokovic-exits-top-10-khachanov-24\n- sundayguardianlive.com/sports/atp-rankings-after-us-open-2026-semifinals\n- tennisuptodate.com/atp/atp-rankings-update-zverev-closes-the-gap-to-sinner-as-djokovic-leaves-top-10\n- espn.com/tennis/rankings",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Zverev's Historical Legacy — Second German US Open Champion After Becker 1989",
+      "tier": 1,
+      "status": "",
+      "angle": "Zverev becomes just the second German man to win the US Open (after Boris Becker in 1989), and the fourth player in the Open Era to win his first two Grand Slam titles in the same calendar year. Post-match: \"We went 30 years without winning a Grand Slam, and now we won two in three months.\"",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Zverev won Roland Garros + US Open in 2026 — 2 Slams in one season. He's the 4th Open Era man to win his first two Grand Slams in the same year, and just the 2nd German US Open champion after Becker (1989). #Tennis #Zverev #ATPTour #USOpen",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (2026-09-14 S1: Zverev wins US Open → historical context)",
+          "hashtags": [
+            "#Tennis",
+            "#Zverev",
+            "#ATPTour",
+            "#USOpen"
+          ],
+          "char_count": 239
+        },
+        {
+          "label": "Post 2-2",
+          "text": "\"We went 30 years without winning a Grand Slam, and now we won two in three months.\" — Alexander Zverev, 2026 US Open champion. His brother Mischa had to tell him the match was over. A career moment 30 years in the making. #Tennis #Zverev #USOpen",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (2026-09-14 S1: Zverev wins US Open → historical context)",
+          "hashtags": [
+            "#Tennis",
+            "#Zverev",
+            "#USOpen"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-zverev-historical-legacy-second-german-us-open.html",
+        "headline": "Alexander Zverev's Historical Legacy: A Second German Champion, 37 Years in the Making",
+        "word_count": 587
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Zverev Historical Legacy\n**Key Facts (all HIGH confidence):**\n- Zverev defeated Shelton 6-3, 7-6(2), 5-7, 6-2 — ESPN, ATP Tour\n- Match duration: 3 hours 33 minutes — ESPN\n- Second German US Open men's champion after Boris Becker (1989) — Roland Garros official, tennis365, ESPN\n- Fourth man in Open Era to win first two Grand Slam titles in same calendar year — ESPN, SI.com\n- Won Roland Garros 2026 (first Grand Slam), then US Open 2026 (second) — multiple sources\n- Prize: $5.5M for US Open title — ESPN\n- Post-match quote: \"We went 30 years without winning a Grand Slam, and now we won two within a span of three months.\" — ESPN, SI.com\n- Zverev age 29 — multiple sources\n- Unusual post-match moment: brother Mischa had to tell him match was over — ESPN, SI.com\n**Sources:**\n- espn.com/tennis/story/_/id/49933783/us-open-2026-mens-title-sasha-zverev-ben-shelton-tournament-recap\n- rolandgarros.com/en-us/article/2026-us-open-men-final-alexander-zverev-success-ben-shelton-second-grand-slam-title\n- si.com/tennis/us-open/us-open-winner-did-something-very-weird-after-championship-point-then-explained-why",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "The Big Three Era Is Over — No Federer, Nadal or Djokovic in Top 10 for First Time Since 2002",
+      "tier": 1,
+      "status": "",
+      "angle": "Novak Djokovic's first-round US Open loss to Mariano Navone sent him from No. 5 to No. 12. For the first time since October 2002, none of Federer, Nadal or Djokovic occupy a top-10 spot. Federer retired in 2022, Nadal in 2024. The Big Three era has officially ended.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Djokovic drops to No. 12 after a first-round US Open exit — out of the top 10 for the first time since 2018. For the first time since 2002, no Federer, Nadal or Djokovic is in the top 10. A generation officially ends. #Tennis #Djokovic #ATPRankings",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#Tennis",
+            "#Djokovic",
+            "#ATPRankings"
+          ],
+          "char_count": 248
+        },
+        {
+          "label": "Post 3-2",
+          "text": "The Big Three era is over. Federer retired 2022. Nadal retired 2024. Djokovic, now 39, sits at No. 12 — the first time in 24 years that none of them occupy the top 10. The next generation owns tennis now. #Tennis #BigThree #Djokovic #ATPTour",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#Tennis",
+            "#BigThree",
+            "#Djokovic",
+            "#ATPTour"
+          ],
+          "char_count": 241
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-big-three-era-over-djokovic-top-10.html",
+        "headline": "The Big Three Era Is Over: No Federer, Nadal or Djokovic in the Top 10 for the First Time Since 2002",
+        "word_count": 647
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 6",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Big Three Era Over\n**Key Facts (all HIGH confidence):**\n- Djokovic drops from No. 5 to No. 12 — 7-place drop, lost 790 points — Yardbarker, Social News XYZ\n- First time since October 2002 no Big Three member in top 10 — Click Orlando, The Tennis Gazette\n- Federer retired September 2022 — widely documented\n- Nadal retired November 2024 — widely documented\n- Djokovic first-round loss to Mariano Navone at US Open — Khel Now\n- Djokovic age 39 — widely documented\n- Previous time Djokovic was outside top 10: 2018 — tennis365\n**Sources:**\n- clickorlando.com/sports/2026/09/14/djokovics-drop-in-rankings-marks-1st-time-since-2002-no-member-of-the-big-3-in-top-10/\n- thetennisgazette.com/throwbacks/how-the-atp-rankings-looked-the-last-time-novak-djokovic-was-not-in-the-top-ten\n- yardbarker.com/tennis/articles/atp_rankings_update_zverev_closes_the_gap_to_sinner_as_djokovic_leaves_top_10\n- khelnow.com/tennis/novak-djokovic-latest-atp-rankings-202609",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Rybakina's First Week as No. 1 — Asian Swing Looms",
+      "tier": 2,
+      "status": "",
+      "angle": "Elena Rybakina opens her first full week as WTA world No. 1 with the China Open (Sep 30–Oct 11, Beijing) on the horizon. The Asian swing is her first major ranking test, with former No. 1 Aryna Sabalenka also in the field.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Elena Rybakina opens her first week as WTA No. 1 with the China Open (Sep 30, Beijing) on the horizon — her first major ranking test. Sabalenka will be in the field looking to reclaim the top spot. #WTA #Tennis #Rybakina #ChinaOpen",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (2026-09-14 S4: Rybakina officially No. 1; S5: Asian swing preview)",
+          "hashtags": [
+            "#WTA",
+            "#Tennis",
+            "#Rybakina",
+            "#ChinaOpen"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-rybakina-no1-asian-swing-preview.html",
+        "headline": "Rybakina's First Week at No. 1: China Open and Asian Swing Test Her New Status",
+        "word_count": 501
+      },
+      "image_concepts": [
+        {
+          "label": "Image 7",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Rybakina Asian Swing\n**Key Facts (HIGH confidence):**\n- Rybakina became WTA No. 1 on September 14, 2026 — WTA official, ESPN\n- 30th woman to reach world No. 1, first from Kazakhstan — WTA official\n- Ended Sabalenka's 99-week reign at No. 1 — WTA, ESPN\n- China Open: September 30 – October 11, 2026, Beijing, WTA 1000 — WTA official\n- Wuhan Open: October 12–18, 2026, WTA 1000 — WTA official\n- Rybakina beat Sabalenka in US Open final 6-4, 5-7, 6-2 — WTA, CNN\n**Sources:**\n- wtatennis.com/news/4576288/rankings-watch-rybakina-rises-to-no-1-kostyuk-breaks-top-10\n- wtatennis.com/tournaments/china-open\n- wtatennis.com/tournaments/wuhan-open",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Shelton's ATP Finals Push — No. 4 Puts Turin in Sight",
+      "tier": 2,
+      "status": "",
+      "angle": "Ben Shelton's career-high No. 4 ranking virtually locks in a spot at the Nitto ATP Finals in Turin (November). No American man has qualified since John Isner in 2018. The Asian swing is his next opportunity to build on a historic US Open run.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Ben Shelton's career-high No. 4 ATP ranking puts the Nitto ATP Finals in Turin firmly in his sights. No American man has qualified since John Isner in 2018. At 23, Shelton's ceiling may just be getting started. #Tennis #BenShelton #ATPFinals",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (2026-09-14 S2: Shelton \"this one stings\" reaction)",
+          "hashtags": [
+            "#Tennis",
+            "#BenShelton",
+            "#ATPFinals"
+          ],
+          "char_count": 241
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-shelton-atp-finals-path-turin.html",
+        "headline": "Shelton's No. 4 Ranking Opens the Path to Turin — and a New Chapter for American Tennis",
+        "word_count": 595
+      },
+      "image_concepts": [
+        {
+          "label": "Image 8",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 9",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Shelton ATP Finals Push\n**Key Facts (HIGH confidence):**\n- Shelton career-high No. 4 — ATP Tour, Tennis365\n- Nitto ATP Finals 2026: November, Turin, Italy — ATP Tour\n- Last American man to qualify for ATP Finals: John Isner, 2018 — Tennis365, Athlonsports (MEDIUM — needs verification)\n- Shelton age 23 — widely documented\n- Shelton's 2026 US Open result: finalist — ATP Tour\n- Tiafoe at No. 8 — both Americans now in top 10 — ATP Tour\n**Sources:**\n- athlonsports.com/tennis/ben-shelton-atp-ranking-where-will-he-finish-after-us-open-2026\n- tennisnow.com/shelton-tiafoe-lead-the-rankings-risers-after-us-open-breakthrough\n- mainstreetdailynews.com/sports/gators/ben-shelton-finishes-historic-us-open-run-as-runner-up",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 9
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

@@ -1,6 +1,37 @@
 # Tennis Fanrecap — Pipeline Status
 
-## Current Run: 2026-09-14
+## Current Run: 2026-09-15
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Shelton career-high No. 4, Tiafoe No. 8 (ATP Tour/Tennis365/Sunday Guardian Live); Zverev No. 2, Sinner No. 1 (ESPN); Djokovic drops to No. 12 (Click Orlando/Yardbarker/Khel Now); first time no Big Three in top 10 since Oct 2002; Zverev 2nd German USO champion after Becker 1989, 4th Open Era man to win first 2 GS same year (ESPN/SI/Roland Garros); Rybakina China Open Sep 30 + Wuhan Oct 12 (WTA official) |
+| Story History Check | COMPLETE | S1 NEW (ATP rankings shake-up: Shelton No. 4, Tiafoe No. 8, Djokovic exits top 10); S2 FOLLOW-UP (Sep 14 S1: Zverev wins USO → historical legacy angle); S3 NEW (Big Three era over: no Federer/Nadal/Djokovic in top 10 since 2002); S4 FOLLOW-UP (Sep 14 S4+S5: Rybakina No. 1 + Asian swing → first week as No. 1); S5 FOLLOW-UP (Sep 14 S2: Shelton reaction → ATP Finals push) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2); bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: ATP Tour, Tennis365, TennisUpToDate, ESPN, Sunday Guardian Live, Nagaland Post, Click Orlando, Yardbarker, TennisNow, The Tennis Gazette, Punto de Break, WTA official |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 8 posts across 5 stories; all ≤280 chars verified; code block format |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 9 imagn concepts across 5 stories |
+| Articles (5) | COMPLETE | article-01 ATP rankings (Elena Voss T1); article-02 Zverev legacy (Marcus Cole T1); article-03 Big Three era over (Ryan Calloway T1); article-04 Rybakina Asian swing (Elena Voss T2); article-05 Shelton ATP Finals (Marcus Cole T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — auto-generated; 40 claims, HIGH; image missing warnings cosmetic (imagn, known) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 5 articles; posting-window warnings cosmetic (known) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 9 entries, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 23 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser issue — same as all prior runs |
+| WordPress Publish | BLOCKED | 403 proxy — fanrumor.com blocked (known recurring issue) |
+| Story History | COMPLETE | 5 entries prepended to Tennis/story-history.md (Sep 15 section) |
+
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 5 FB posts (5 long-form + 5 captions) = 13 total
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
+- **PostPlanner exports:** 0 posts (known parser compat issue)
+- **Key stories:** ATP rankings post-US Open (Shelton No. 4, Tiafoe No. 8, Djokovic exits to No. 12); Zverev 2nd German USO champion after Becker 1989, 4th Open Era man to win first 2 GS same year; Big Three era ends — first time since Oct 2002 no Federer/Nadal/Djokovic in top 10; Rybakina first week as No. 1, China Open Sep 30 first test; Shelton No. 4 locks ATP Finals Turin spot, no American man qualified since Isner 2018
+- **Issues:** PostPlanner 0 posts (known); WordPress blocked by proxy; dashboard push blocked (not in session authorized repos)
+
+---
+
+## Previous Run: 2026-09-14
 
 | Step | Status | Notes |
 |------|--------|-------|
