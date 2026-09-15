@@ -1,25 +1,17 @@
 {
-  "generated_at": "2026-09-14T08:30:00.194215+00:00",
-  "today_ct": "2026-09-14",
+  "generated_at": "2026-09-15T08:30:00.221743+00:00",
+  "today_ct": "2026-09-15",
   "off_day": false,
-  "is_series_start_today": true,
+  "is_series_start_today": false,
   "series": {
     "opponent": "Atlanta Braves",
     "opponent_id": 144,
-    "opponent_record": "88-62",
-    "cubs_record": "83-67",
+    "opponent_record": "88-63",
+    "cubs_record": "84-67",
     "is_cubs_home": true,
     "venue": "Wrigley Field",
-    "series_length": 3,
+    "series_length": 2,
     "games": [
-      {
-        "game_pk": "824629",
-        "game_date_iso": "2026-09-14T23:40:00Z",
-        "game_date_ct": "Mon 6:40 PM CT",
-        "cubs_probable": "TBD",
-        "opponent_probable": "TBD",
-        "status": "Preview"
-      },
       {
         "game_pk": "824627",
         "game_date_iso": "2026-09-15T23:40:00Z",
@@ -37,22 +29,22 @@
         "status": "Preview"
       }
     ],
-    "rationale": "Yesterday vs Pittsburgh Pirates; today vs Atlanta Braves \u2192 game 1 of 3 (home)."
+    "rationale": "Same opponent (Atlanta Braves) as yesterday \u2014 this is mid-series, not a series opener."
   },
   "today_cubs_game": {
-    "game_pk": "824629",
+    "game_pk": "824627",
     "status": "Preview",
     "detailed_status": "Scheduled",
-    "game_date_iso": "2026-09-14T23:40:00Z",
-    "game_date_ct": "Mon 6:40 PM CT",
+    "game_date_iso": "2026-09-15T23:40:00Z",
+    "game_date_ct": "Tue 6:40 PM CT",
     "is_cubs_home": true,
     "opponent_id": 144,
     "opponent_name": "Atlanta Braves",
-    "opponent_record": "88-62",
-    "cubs_record": "83-67",
+    "opponent_record": "88-63",
+    "cubs_record": "84-67",
     "cubs_probable": "TBD",
     "opponent_probable": "TBD",
     "venue": "Wrigley Field"
   },
-  "rationale": "Yesterday vs Pittsburgh Pirates; today vs Atlanta Braves \u2192 game 1 of 3 (home)."
+  "rationale": "Same opponent (Atlanta Braves) as yesterday \u2014 this is mid-series, not a series opener."
 }
