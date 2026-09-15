@@ -6655,3 +6655,53 @@
 - **Byline:** Elena Voss
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Official FOM announcement, calendar confirmation/replacement announcement
+
+## 2026-09-15
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-15 | T1 | Decision Day — Domenicali's Sept. 15 Deadline Arrives for Qatar and Abu Dhabi | X(2), FB, Article | FOLLOW UP |
+| 2026-09-15 | T1 | Antonelli's Title Math: Singapore Is Earliest, São Paulo Is Most Likely | X(2), FB, Article | FOLLOW UP |
+| 2026-09-15 | T2 | Ferrari's Constructors' Fight Is in Trouble — McLaren Are Now Just 52 Points Back | X(1), FB, Article | FOLLOW UP |
+| 2026-09-15 | T2 | Williams Are Bringing "An Almost Entirely New Car" to Baku | X(1), FB, Article | NEW |
+| 2026-09-15 | T2 | Title Conceded, Baku Next — Hamilton Needs a Response and the Circuit Could Deliver One | X(1), FB, Article | FOLLOW UP |
+
+### STORY 1: Domenicali Calendar Decision — Sept. 15 Deadline
+- **Tier:** 1
+- **Category:** F1 Calendar / Domenicali / Qatar / Abu Dhabi / Imola
+- **Key facts:** Sept. 15 = Domenicali's deadline; Qatar Nov. 29 / Abu Dhabi Dec. 6 uncertain; security concerns in Middle East; Bahrain+Saudi already cancelled; Malaysia Oct. 2-4 added; Imola = leading contingency; Portimao backup; Qatar "remains confirmed" but monitoring continues; calendar decision = championship clinch timing implications
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official FOM announcement, confirmation or cancellation of Qatar/Abu Dhabi
+
+### STORY 2: Antonelli Title Math
+- **Tier:** 1
+- **Category:** Kimi Antonelli / Mercedes / F1 Championship
+- **Key facts:** Antonelli 292 pts, Russell 211 (-81), Hamilton 191 (-101), Norris 186 (-106); 9 races left, 233 pts available; Baku CANNOT clinch; max gap after Baku = 106 pts with 208 available; earliest clinch = Singapore; most likely = São Paulo; 3 wins in a row (Dutch, Monza, Madring)
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Baku race result, updated title math, Singapore clinch scenario
+
+### STORY 3: Ferrari Constructors Crisis
+- **Tier:** 2
+- **Category:** Ferrari / McLaren / F1 Constructors Championship
+- **Key facts:** After R14: Mercedes 503, Ferrari 358, McLaren 306 (52 back); Madring: Ferrari 12 pts (Hamilton DNF + Leclerc P4), McLaren 15 pts (Norris P3); 403 constructors pts remaining; McLaren avg 6+ pts/race needed to overtake
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Baku constructors result, whether McLaren close further
+
+### STORY 4: Williams Baku Upgrade
+- **Tier:** 2
+- **Category:** Williams / Carlos Sainz / Alex Albon / Azerbaijan GP / Upgrade
+- **Key facts:** Vowles: "almost entirely new car" at Baku; FW48 arrived late and overweight; 8th in constructors, 11 pts; Baku Sept. 24-26, race Saturday Sept. 26; FP1/FP2 Sept. 24, FP3/qual Sept. 25
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+- **Follow-up ideas:** Baku FP1 pace, qualifying position, race result for Williams
+
+### STORY 5: Hamilton Baku Redemption
+- **Tier:** 2
+- **Category:** Lewis Hamilton / Ferrari / Azerbaijan GP / Title Race
+- **Key facts:** Hamilton 3rd, 101 pts behind Antonelli, 233 available; never won at Baku; Madring brake failure DNF Lap 7; Ferrari investigating brake system; Baku main straight 340 kph power circuit; Ferrari engineers working on brake fix
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Brake fix confirmed, Baku qualifying/race result, Hamilton response
