@@ -3,6 +3,65 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-09-15
+
+### Story 1: USA WNT — Day 4, China Showdown TONIGHT (Top-Seed Decider)
+- **Date:** 2026-09-15
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Day 4 of Group Oklahoma at Devon Park. USA 3-0 after run-ruling Mexico (Day 1), Brazil 17-0 (Day 2), continuing Day 3. TONIGHT 8 PM ET: USA vs. China — both unbeaten, top-seed decider for 2027 Finals in Redcliffe QLD (LA28 qualifier). Day 4 opener: Mexico vs. China 2 PM ET. Playoff bracket TOMORROW Sept. 16 (1 PM / 4 PM / 7 PM ET). Top 2 → Redcliffe. Gasso/JT Gasso/Rocha coaching staff. 4 Sooners (Brito, Coleman, Jennings, Maxwell). Garcia + Mulipola Tokyo 2020 silver. 7 World Games golds. USA 5-0 all-time at Devon Park.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Tonight's USA vs. China result — top seed decided
+  - Sept. 16 playoff bracket: who earns Redcliffe berths and who goes to Wild Card
+  - Gasso/WNT staff return to Norman after Sept. 16 bracket
+
+### Story 2: Class of 2028 — Day 6 Commit Wave, Arizona + Multiple Programs
+- **Date:** 2026-09-15
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Day 6 of Sept. 9 in-person window. Arizona landed two in-state commits (Ridling + Stell). South Carolina: Siena Myers (C). Florida: Kate Losh (P/two-way) + Ryann Harris (C). Known committed: Williams No. 1 (OU), Ushery No. 2 (Georgia), Donalson (FSU), Saenz (OU), Gutierrez (TTU), Galindo + Wilson (Tennessee). 1,226 EIS nominations record. Wave ongoing.
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Day 7+ announces continuing daily
+  - Mid-October first class rankings update
+  - Top-10 prospect commitments (multiple still uncommitted)
+
+### Story 3: Oklahoma Sooners — Gasso Returns TOMORROW, 14 Days to Fall Opener
+- **Date:** 2026-09-15
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Gasso, JT Gasso and Rocha return to Norman TOMORROW (Sept. 16) after WNT playoff bracket. 5 days with associate coaches running practice. First full-staff practice Thursday Sept. 17. Fall opener Sept. 30 vs. Tarleton State = 14 days. Wells (32 HR, NCAA freshman record), Berzon (2x AA LSU, 486.1 IP, 2.02 ERA, 406 K), Harter (.346 MTSU). 8 games all at Love's Field.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Sept. 16: Gasso returns + first post-WNT practice
+  - Sept. 17: First full-staff practice of fall
+  - Sept. 30: Fall opener vs. Tarleton State — public first look
+
+### Story 4: Texas Longhorns — 14 Days to Sept. 29, Torres+Kavan Integration
+- **Date:** 2026-09-15
+- **Tier:** 3
+- **Classification:** FOLLOW UP
+- **Angle:** Texas (53-12, 2026 WCWS champs) 14 days from Sept. 29 opener vs. Murray State (McCombs Field, free, 6 PM CT). Isa Torres (2026 D1Softball POY, .530 BA, 16 HR, 56 RBI from FSU, Georgetown TX native) + Hannah Kavan (2x WCWS MOP only in history). NFCA Staff of Year 2nd consecutive (White). Three-peat would match UCLA 1988-90 and OU 2021-23 only. Fall: Murray State Sept. 29, Texas State Oct. 13, Temple Oct. 20.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Sept. 29 fall opener — first public look at Torres in burnt orange
+  - Torres + Kavan integration through October
+  - Three-peat narrative through winter
+
+### Story 5: Oklahoma State Cowgirls — Five Transfers + Peyton Cleary 2028 Commit
+- **Date:** 2026-09-15
+- **Tier:** 3
+- **Classification:** FOLLOW UP
+- **Angle:** OSU 5 transfers: Delainey Everett (P, Miss. State), Kennedy Proctor (C, Utah), Maddie Hartley (UTL, Houston), Payton Kennedy (UTL, Ole Miss), Kendra Lewis (UTL, Wisconsin). First 2028 commit: Peyton Cleary (four-star SS/IF, Liberty North HS MO, top-100). OSU seeded No. 13 in 2026, fell to Nebraska in Super Regional. 8 fall exhibitions. Kenny Gajewski reloading. SI.com "4 Programs to Watch This Fall."
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - More OSU 2028 commits as runner-up recruiting momentum builds
+  - Fall exhibition results
+  - Everett/Proctor/transfers integration evaluation
+
+---
+
 ## 2026-09-13
 
 ### Story 1: USA WNT — Day 2 at Devon Park, Netherlands Top-Seed Showdown
