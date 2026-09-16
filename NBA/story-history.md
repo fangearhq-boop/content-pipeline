@@ -2,6 +2,56 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-09-16
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-16 | T1 | Shaedon Sharpe Tears Meniscus, Expected to Miss Six Months — Blazers Lose 20-PPG Star Before Camp Opens | X(2), FB, Article | NEW |
+| 2026-09-16 | T1 | 12 Days to Decide — Curry Extension Deadline Looms as Warriors Media Day Approaches | X(2), FB, Article | FOLLOW UP |
+| 2026-09-16 | T1 | DOJ Clippers Probe Enters Third Week With No New Developments | X(2), FB, Article | FOLLOW UP |
+| 2026-09-16 | T2 | Oct. 1 Is 15 Days Away — Duren's $9.6M Gamble Could Reshape the Pistons' Future | X(1), FB, Article | FOLLOW UP |
+| 2026-09-16 | T2 | LeBron, Brown, and Maxey's First Workout Video Drops — Sixers Superteam Chemistry Already Building | X(1), FB, Article | NEW |
+
+### STORY 1: Shaedon Sharpe Meniscus Tear
+- **Tier:** 1
+- **Category:** Portland Trail Blazers / Shaedon Sharpe / Injury
+- **Key facts:** Lateral meniscus tear in right knee during offseason workout; surgery successful; out ~6 months; return late Feb/early March 2027; averaged 20.8 PPG in 2025-26; age 23; backcourt still has Morant, Lillard, Holiday
+- **Byline:** Jake Torres
+- **Status:** NEW
+- **Follow-up ideas:** Camp roster moves, return timeline update, Blazers opening night without Sharpe
+
+### STORY 2: Curry Extension Countdown
+- **Tier:** 1
+- **Category:** Golden State Warriors / Stephen Curry / Contract Extension
+- **Key facts:** 12 days to Sept. 28 media day deadline; up to 2yr/$136.7M eligible; current deal $62.6M for 2026-27; "mutual desire" confirmed by ESPN; Warriors "letting Curry decide structure"; no deal signed yet; camp Sept. 29
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Extension signed at media day, or media day Q&A with deadline passed
+
+### STORY 3: DOJ Clippers Probe
+- **Tier:** 1
+- **Category:** Los Angeles Clippers / DOJ / Kawhi Leonard / EDNY
+- **Key facts:** EDNY probe "earliest stages"; 1 subpoena issued; no charges filed; NBA penalties: 5 picks (2029-33), $30M, Ballmer 1yr, Frank 6mo, Zucker 1yr, Robertson 5yr, Leonard $700K; Kawhi to Toronto ratified
+- **Byline:** Damon Pierce
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Grand jury activity, additional subpoenas, DOJ announcement, Leonard's Raptors debut
+
+### STORY 4: Jalen Duren QO Stalemate
+- **Tier:** 2
+- **Category:** Detroit Pistons / Jalen Duren / Qualifying Offer
+- **Key facts:** 15 days to Oct. 1 QO deadline; Pistons offer $190M/5yr; Duren wants $200M+; gap ~$10M; QO=$9.6M; accepting QO makes Duren UFA next summer, Pistons lose matching rights; Detroit can extend to March 1, 2027; Duren age 22
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Deal signed, QO accepted, deadline passes
+
+### STORY 5: LeBron/Brown/Maxey Sixers Workout
+- **Tier:** 2
+- **Category:** Philadelphia 76ers / LeBron James / Jaylen Brown / Tyrese Maxey / Training Camp
+- **Key facts:** First joint workout video published by Bleacher Report; trainer Chris Johnson; pick-and-roll reads, half-court sets; all three healthy; camp Sept. 29; preseason Oct. 8 at Nets (7:30 PM ET); reg-season opener Oct. 20 at MSG vs. Knicks; Sixers haven't won title since 1983
+- **Byline:** Marcus Cole
+- **Status:** NEW
+- **Follow-up ideas:** Camp opening day reports, Embiid health update, first preseason game recap
+
 ## 2026-09-13
 
 | Date | Tier | Title | Platforms | Status |
