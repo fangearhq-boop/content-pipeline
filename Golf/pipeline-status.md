@@ -1,11 +1,43 @@
 # Golf Fanrecap — Pipeline Status
 
-## Last Run: 2026-09-15
+## Last Run: 2026-09-16
 
 **Status:** COMPLETE (with known proxy limitations)
 **Niche:** Golf Fanrecap
 **Stories:** 5
 **Articles:** 5
+
+---
+
+## 2026-09-16 Run Log
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research | ✅ Complete | 5 stories — Biltmore Championship inaugural, LIV bankruptcy Oct. 13 deadline + Rahm noncommittal, Presidents Cup 8 days, Rahm DP World Tour analysis, Scheffler FedEx Cup recap |
+| Daily Brief | ✅ Complete | 00-daily-brief.md |
+| Research Notes | ✅ Complete | 01-research-notes.md |
+| Story Analysis | ✅ Complete | 02-story-analysis.md |
+| X Posts | ✅ Complete | 03-social-posts-x.md — 8 posts, all ≤280 chars |
+| Facebook Posts | ✅ Complete | 04-social-posts-facebook.md — 5 stories |
+| Image Concepts | ✅ Complete | 05-image-concepts.md |
+| Articles | ✅ Complete | 5 HTML articles |
+| Fact Check | ✅ Complete | 06-fact-check-log.md — 21 claims, all HIGH |
+| Compile Content Data | ✅ Complete | 07-content-data.json (8 tweets, 5 articles) |
+| Image Manifest | ✅ Complete | 07-image-manifest.md (10 images, status: not_started) |
+| Story History | ✅ Complete | story-history.md updated |
+| Review Dashboard | ✅ Complete | review-dashboard.html — 28 items |
+| Publish Dashboard | ⚠ Partial | Dashboard generated locally; push to content-dashboards blocked (not in authorized repo set) |
+| PostPlanner Export | ⚠ Partial | 0 posts (known parsing issue) |
+| PostPlanner TOBI | ⚠ Partial | 0 posts (known parsing issue) |
+| WordPress Publish | ❌ Blocked | fanrumor.com:443 rejected by egress proxy (403); articles ready for manual publish |
+| Git Push | ✅ Complete | Committed and pushed to main |
+
+**Stories covered:**
+1. T1 NEW: Biltmore Championship opens Thursday — inaugural Asheville PGA Tour event
+2. T1 FOLLOW UP: LIV bankruptcy Oct. 13 deadline + Rahm "noncommittal on LIV 2.0"
+3. T1 FOLLOW UP: Presidents Cup countdown — 8 days to Medinah, Koivun youngest storyline
+4. T2 FOLLOW UP: What Rahm returning to DP World Tour means for golf
+5. T2 NEW: Scheffler wins 2nd FedEx Cup — fall season begins
 
 ---
 

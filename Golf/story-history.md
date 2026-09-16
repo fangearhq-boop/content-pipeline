@@ -2,6 +2,56 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-09-16
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-16 | T1 | Asheville Hosts Its First PGA Tour Event Since 1942 — The Inaugural Biltmore Championship Tees Off Thursday | X(2), FB, Article | NEW |
+| 2026-09-16 | T1 | LIV Golf's October 13 Deadline Approaches — Rahm Says He's "Noncommittal" on LIV 2.0 | X(2), FB, Article | FOLLOW UP |
+| 2026-09-16 | T1 | Eight Days to Medinah — Full Presidents Cup Rosters Set as Jackson Koivun Eyes History | X(2), FB, Article | FOLLOW UP |
+| 2026-09-16 | T2 | What Jon Rahm Returning to the DP World Tour Would Actually Mean for Golf | X(1), FB, Article | FOLLOW UP |
+| 2026-09-16 | T2 | Scheffler Wins Second FedEx Cup — Now the Fall Season Begins and the History Conversation Does Too | X(1), FB, Article | NEW |
+
+### STORY 1: Biltmore Championship Inaugural
+- **Tier:** 1
+- **Category:** PGA Tour / Biltmore Championship / FedExCup Fall / Asheville NC
+- **Key facts:** The Cliffs at Walnut Cove, Arden NC; Sept. 17-20; first PGA Tour in Asheville since 1942; 132-player field; FedExCup Fall event; 500 Fall pts + 25 OWGR pts to winner; 8 Presidents Cup players in field; headliners: Justin Thomas, Jackson Koivun, JT Poston, Tony Finau, Billy Horschel
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+- **Follow-up ideas:** R1 leaderboard, Presidents Cup players' performance, winner recap
+
+### STORY 2: LIV Bankruptcy + Rahm DP World Tour
+- **Tier:** 1
+- **Category:** LIV Golf / Bankruptcy / Jon Rahm / DP World Tour
+- **Key facts:** LIV Golf Chapter 11 filed Sept. 8 (NJ court); $49.6M DIP from PIF; Oct. 13 critical court deadline; Rahm owed ~$150M; holds $5M+ unsecured claim; Sept. 15 Rahm "noncommittal on LIV 2.0," "sees opportunity" in DP World Tour; clarity when "season is done"
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Oct. 13 court deadline, Rahm announcement, LIV 2.0 player ownership structure
+
+### STORY 3: Presidents Cup 8 Days Out
+- **Tier:** 1
+- **Category:** Presidents Cup / Medinah / Brandt Snedeker / Geoff Ogilvy
+- **Key facts:** Sept. 24-27, Medinah CC; USA auto: Scheffler, Young, Clark, Burns, Henley, Morikawa; USA picks: Gotterup, Schauffele, Koivun, Thomas, Cantlay, Bridgeman; INTL auto: Si Woo, Matsuyama, Fox, Tom Kim, Min Woo, Scott; INTL picks: Conners, Echavarria, Taylor, Im, Hisatsune, Bezuidenhout; Koivun 21 = 2nd youngest American (behind Spieth 2013)
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Opening day pairings, match results, final scoreboard
+
+### STORY 4: Rahm DP World Tour Analysis
+- **Tier:** 2
+- **Category:** Jon Rahm / LIV Golf / DP World Tour / Career Future
+- **Key facts:** Rahm "noncommittal" on LIV 2.0 Sept. 15; DP World Tour as "opportunity"; $150M original contract; $5M+ unsecured claim; DP World Tour reinstatement path discussed; major exemptions via DP World Tour; Oct. 13 bankruptcy deadline matters
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Court rulings, Rahm statement post-season, DP World Tour response
+
+### STORY 5: Scheffler FedEx Cup Champion / Fall Season
+- **Tier:** 2
+- **Category:** Scottie Scheffler / FedExCup / PGA Tour / Tour Championship
+- **Key facts:** Scheffler won 2026 FedEx Cup at East Lake; 16-under, 3 strokes over Hovland; 2nd FedEx Cup in 3 years; joins Woods (2007/09) and McIlroy (2016/19/22); career earnings $130M+ (passed Woods on all-time list); $10M prize; 3 wins in 2026 (Amer. Express, FedEx St. Jude, Tour Championship)
+- **Byline:** Jake Torres
+- **Status:** NEW
+- **Follow-up ideas:** Player of the Year vote, Presidents Cup performance, 2027 season opener
+
 ## 2026-09-15
 
 | Date | Tier | Story | Platforms | Status |
