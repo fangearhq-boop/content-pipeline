@@ -5,6 +5,64 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-09-16
+
+### STORY 1: Game 2 Recap — Braves 4, Cubs 1 (Series Tied 1-1)
+- **Angle:** FOLLOW UP. Braves won Game 2 4-1 to even the series at 1-1. Cubs offense went quiet after Game 1's 7-run outing. Series headed to a rubber game tonight.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - Game 3 result recap (Sept 17 morning)
+  - Series winner context for WC standing
+
+### STORY 2: PCA 40-40 Watch — 42 HR / 37 SB
+- **Angle:** FOLLOW UP. PCA at 42 HR / 37 SB. Three steals from 40-40 club (first Cub ever, sixth MLB player ever). 10 games remaining. Angle: franchise history within reach.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, milestone)
+- **Follow-Up Opportunities:**
+  - Each stolen base milestone (38, 39, 40)
+  - Historic 40-40 announcement when achieved
+
+### STORY 3: Wild Card Standings — Cubs 84-68, WC1
+- **Angle:** FOLLOW UP. Cubs 84-68, WC1 with slim lead over Phillies. 10 games left to lock home-field for Wild Card Series at Wrigley.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, standings)
+- **Follow-Up Opportunities:**
+  - Daily standings updates
+  - Magic number countdown
+  - WC1 clinch announcement
+
+### STORY 4: Game 3 Preview — Imanaga vs JR Ritchie (Series Finale)
+- **Angle:** NEW STORY. Shota Imanaga (10-10, 3.88 ERA) vs JR Ritchie (recalled from Triple-A Gwinnett), 6:40 PM CT, Wrigley. Series tied 1-1. Braves going with a Triple-A arm — Cubs have the pitching edge tonight.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Imanaga's outing result
+  - Game 3 recap (Sept 17 morning)
+  - Series winner note
+
+### STORY 5: Swanson Return Update
+- **Angle:** FOLLOW UP. Iowa rehab assignment starting this week; activation target stays September 18 vs Cincinnati. Grade 2 oblique, out since Aug 16. No setbacks.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, roster/injury update)
+- **Follow-Up Opportunities:**
+  - Swanson activation announcement (Sept 18)
+  - Return game performance
+
+### STORY 6: Pre-Game Hype — Rubber Game Wrigley
+- **Angle:** NEW STORY. Game 3 of 3, series tied 1-1. Imanaga on the mound. Everything on the line at Wrigley tonight.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, fan energy)
+- **Follow-Up Opportunities:** N/A
+
+### STORY 7: First Pitch Hype
+- **Angle:** NEW STORY. Game time tweet. Imanaga vs Ritchie. Series on the line.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT, game time)
+- **Follow-Up Opportunities:** N/A
+
+---
+
 ## 2026-09-15
 
 ### STORY 1: Game Recap — Cubs 7, Braves 3 (Game 1 vs Atlanta)
