@@ -3,6 +3,65 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-09-16
+
+### Story 1: USA WNT — Group Oklahoma Playoff Day: Two Tickets to Redcliffe on the Line
+- **Date:** 2026-09-16
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** TODAY is Group Oklahoma's playoff day at Devon Park, OKC. USA entered the bracket as the top seed after a dominant 4-0 group stage (run-ruled Mexico Day 1, Brazil 17-0 Day 2). Playoff schedule: No. 1 vs. No. 2 at 1 PM ET (direct Redcliffe ticket), No. 3 vs. No. 4 at 4 PM ET, Repechage at 7 PM ET (second Redcliffe ticket). Two direct berths to 2027 WBSC Women's Softball World Cup Finals in Redcliffe QLD available — LA28 qualifier. China, Netherlands also in the bracket. Gasso/JT/Rocha expected to return to Norman today after bracket concludes. 4 Sooners (Brito, Coleman, Jennings, Maxwell). Garcia + Mulipola Tokyo 2020 silver.
+- **Content Produced:** Article (article-01, Jordan Reeves), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Results of today's 1 PM and 7 PM bracket games — who goes to Redcliffe
+  - Gasso's quotes upon returning to Norman
+  - Recap of the full Group Oklahoma event after it concludes
+
+### Story 2: Class of 2028 — Day 8 Commit Wave, Window Still Rolling Strong
+- **Date:** 2026-09-16
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Day 8 of the Sept. 9 in-person contact window. 11+ named commits from programs across five conferences: Williams No. 1 (OU), Ushery No. 2 (Georgia), Donalson (FSU), Saenz (OU), Gutierrez (TTU), Galindo + Wilson (Tennessee), Losh + Harris (Florida), Myers (SC), Ridling + Stell (Arizona). 1,226 EIS nominations record. Window active through mid-October; first class rankings update expected mid-October.
+- **Content Produced:** Article (article-02, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Mid-October first class rankings update
+  - Top-10 uncommitted prospects decisions (Michaela Landers, Kylie Holden, Sophia Schlader)
+  - New commitments daily through end of September
+
+### Story 3: Oklahoma Sooners — Gasso Returns TODAY, First Full Staff Thursday, 14 Days to Opener
+- **Date:** 2026-09-16
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Gasso, JT Gasso and Rocha return to Norman TODAY after Group Oklahoma bracket concludes. Associate coaches ran practice Sept. 12-16. First full-staff practice Thursday Sept. 17. Fall opener Sept. 30 vs. Tarleton State at Love's Field = 14 days. Wells (32 HR NCAA freshman record as sophomore), Berzon (2x AA LSU, 486.1 IP, 2.02 ERA, 406 K), Harter (.346 MTSU). 8-game fall schedule at Love's Field.
+- **Content Produced:** Article (article-03, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - First full-staff practice Thursday Sept. 17
+  - Sept. 30 fall opener vs. Tarleton State — first public look at the roster
+  - Gasso quotes on WNT + fall camp focus
+
+### Story 4: Texas Longhorns — 13 Days to Sept. 29, Torres+Kavan Chemistry Building
+- **Date:** 2026-09-16
+- **Tier:** 3
+- **Classification:** FOLLOW UP
+- **Angle:** Texas (53-12, 2026 WCWS champs) 13 days from Sept. 29 opener vs. Murray State (McCombs Field, free, 6 PM CT). Torres (2026 D1Softball POY, .530 BA, 16 HR, 56 RBI from FSU, Georgetown TX native) + Kavan (2x WCWS MOP only in history). NFCA Staff of Year 2nd consecutive (White). Three-peat would match UCLA 1988-90 and OU 2021-23 only. Fall: Murray State Sept. 29, Texas State Oct. 13, Temple Oct. 20.
+- **Content Produced:** Article (article-04, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Sept. 29 fall opener — first public look at Torres in burnt orange
+  - Torres + Kavan integration through October
+  - Three-peat narrative through winter
+
+### Story 5: Texas Tech Red Raiders — Glasco Year 2, 7 All-Americans in Fall Ball
+- **Date:** 2026-09-16
+- **Tier:** 3
+- **Classification:** FOLLOW UP
+- **Angle:** TTU is in fall camp under Glasco (Year 2) with all 7 All-Americans together for the first time: Beachum (.406 BA, 10 HR, 69 RBI, All-ACC 1st Team from FSU), Pickering (No. 2 transfer, .384 BA, 50 HR from OU), Heavener (LHP, 13-9, 2.81 ERA, 128 K from LSU) plus 4 others. TTU was 2026 WCWS runner-up (fell to Texas in championship). Chemistry test is the central story — 7 All-Americans from 5 programs. Star Gutierrez first 2028 commit. Glasco building toward championship-level identity.
+- **Content Produced:** Article (article-05, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Fall game results as chemistry test plays out
+  - More TTU 2028 commits as runner-up recruiting momentum builds
+  - Glasco Year 2 midseason evaluation
+
+---
+
 ## 2026-09-15
 
 ### Story 1: USA WNT — Day 4, China Showdown TONIGHT (Top-Seed Decider)
