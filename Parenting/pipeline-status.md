@@ -1,6 +1,37 @@
 # COS Parenting — Pipeline Status
 
-## Current Run: 2026-09-15
+## Current Run: 2026-09-16
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Pikes Peak Regional Airshow Sep 19–20 (Adults $53.20, Kids 4-12 $42.18, Under 3 FREE, Gates 8:30 AM, Show 10:50 AM–2:25 PM, free parking, military $5 off, F-35/B-17/P-47/Corsair/B-25, pprairshow.org); 3 dresser recalls (FJTJBSI ~9,000 units Amazon, Gizoon ~4,396 Amazon, Alanca ~261 Wayfair — STURDY Act violations, tip-over hazard, cpsc.gov); D49 Student Success Center 2 new preschool classrooms + 9 new Purple Star Schools (d49.org, cde.state.co.us); COS Parks Master Plan public comment closes Sep 22 (coloradosprings.gov/ParkSystemMasterPlan); Fall events (Bark at Briargate Sep 19 FREE, CMZoo Centennial through Sep 20, Schoolyard free movies Saturdays, North Slope closes Oct 18) |
+| Story History Check | COMPLETE | S1 Airshow (NEW); S2 Dresser recalls (NEW); S3 D49 Student Success Center (NEW); S4 Parks Master Plan (NEW); S5 Fall Events Roundup (NEW) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: pprairshow.org, cpsc.gov recall pages, KOAA, d49.org, cde.state.co.us, coloradosprings.gov, cmzoo.org |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows, voice check |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories; all ≤280 chars (4 trimmed after verify-facts pass); 4 hashtags each; 0 exclamation marks; COS voice rules applied |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; no hashtags; engagement questions; COS voice rules applied |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 Airshow guide (Sarah Morales, T1, ticket table); article-02 dresser recalls (Jamie Rivera, T1, recall table); article-03 D49 SSC (Sarah Morales, T2); article-04 Parks Master Plan (Jamie Rivera, T2); article-05 Fall events roundup (Sarah Morales, T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 89 claims; HIGH/MEDIUM/LOW prioritized; image missing warnings cosmetic (Gemini images generated separately) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles; posting-window warnings known cosmetic |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 9 entries (S1: 2, S2: 2, S3: 1, S4: 1, S5: 2), all not_started, gemini base_only, brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 27 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser compat issue — ran both standard and --tobi |
+| WordPress Publish | BLOCKED | 403 proxy — fanrumor.com blocked (known recurring issue) |
+| Story History | COMPLETE | 5 new entries prepended to Parenting/story-history.md (Sep 16 section) |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
+- **Articles:** 5 (bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4])
+- **PostPlanner exports:** 0 posts (known parser compat issue)
+- **Key stories:** Pikes Peak Regional Airshow Sep 19–20 (Adults $53.20, Kids $42.18, Under 3 FREE, free parking, F-35 + warbirds, pprairshow.org); 3 dresser tip-over recalls (FJTJBSI/Gizoon/Alanca, 16,000+ total units, STURDY Act, cpsc.gov); D49 SSC 2 new preschool classrooms + 9 Purple Star Schools; COS Parks Master Plan comment deadline Sep 22 (coloradosprings.gov/ParkSystemMasterPlan); Fall events (Bark at Briargate FREE Sep 19, CMZoo Centennial through Sep 20, Schoolyard free movies Saturdays)
+- **Issues:** 4 X posts trimmed for char limit during verify-facts pass; PostPlanner 0 posts (known); WordPress blocked by proxy; dashboard push blocked (not in session authorized repos)
+
+---
+
+## Previous Run: 2026-09-15
 
 | Step | Status | Notes |
 |------|--------|-------|

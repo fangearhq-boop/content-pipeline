@@ -2,6 +2,50 @@
 
 ---
 
+## September 16, 2026
+
+### Story 1: Pikes Peak Regional Airshow — Family Guide
+- **Date:** 2026-09-16
+- **Tier:** T1
+- **Pillar:** Local Events
+- **Key Facts:** Sep 19–20 at COS Airport; Adults $53.20, Kids 4-12 $42.18, Under 3 FREE; Gates 8:30 AM, Show 10:50 AM–2:25 PM; Free parking; Military $5 off; Aircraft: F-35, B-17, P-47, Corsair, B-25; pprairshow.org
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 2: Three Dresser Tip-Over Recalls — FJTJBSI, Gizoon, Alanca
+- **Date:** 2026-09-16
+- **Tier:** T1
+- **Pillar:** National Parenting (CPSC Safety)
+- **Key Facts:** FJTJBSI (~9,000 units, Amazon), Gizoon (~4,396, Amazon), Alanca (~261, Wayfair) — all recalled Sep 2026 for STURDY Act violations; six-drawer dressers; tip-over hazard; sold 2024–2026; stop using if not wall-anchored; cpsc.gov
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 3: D49 Student Success Center — New Preschool Classrooms
+- **Date:** 2026-09-16
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** D49 opened 2 new preschool classrooms at Student Success Center (former Falcon Elementary) in Aug 2026; expands Base49 early learning/intervention program; 9 additional D49 campuses named Colorado Purple Star Schools by CDE; d49.org; cde.state.co.us
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 4: COS Parks Master Plan — Public Comment Deadline Sep 22
+- **Date:** 2026-09-16
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** Draft Park System Master Plan presented to Parks Advisory Board Sep 10; public comment open Sep 2–Sep 22; PRCS serves 300,000+ residents, 3 community centers, 7 sports complexes; comment at coloradosprings.gov/ParkSystemMasterPlan
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 5: COS Fall Events Roundup — Bark at Briargate, CMZoo Centennial, Free Movies
+- **Date:** 2026-09-16
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Bark at Briargate Sep 19, 11 AM–3 PM, FREE (dog adoptions, vendors); CMZoo Centennial final days through Sep 20 (vintage cars, live music, included with admission); Schoolyard free outdoor movies every Saturday Sep+Oct; North Slope/Crystal Reservoir fishing closes Oct 18
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+---
+
 ## September 15, 2026
 
 ### Story 1: CMZoo Giraffe Center Opens TODAY

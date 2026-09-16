@@ -1,0 +1,283 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-16",
+  "compiled_at": "2026-09-16T12:35:12.449520+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Pikes Peak Regional Airshow This Weekend — Full Family Guide",
+      "tier": 1,
+      "status": "",
+      "angle": "Pikes Peak Regional Airshow is September 19-20 at Colorado Springs Airport. Gates 8:30 AM, performances 10:50 AM–2:25 PM. Full ticket pricing: adults $53.20, kids 4-12 $42.18, under 3 FREE, military $5 discount. Featured aircraft: F-35, B-17, P-47, Corsair, B-25, WWII warbirds. Free parking. pprairshow.org.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Pikes Peak Regional Airshow — Sep 19-20, COS Airport.\n\nAdults $53.20 | Kids 4-12 $42.18 | Under 3 FREE\nGates: 8:30 AM | Show: 10:50 AM–2:25 PM\nFree parking | Military $5 off\n\n🎟 pprairshow.org\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (2026-09-15 S5: events roundup mentioned Airshow; today is full ticket/logistics preview guide)",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 252
+        },
+        {
+          "label": "Post 1-2",
+          "text": "F-35, B-17, P-47, Corsair, B-25 — the Pikes Peak Regional Airshow brings them all to COS this weekend (Sep 19-20).\n\nKids under 3 get in free. Parking is free. This is a great family outing.\n\n🎟 pprairshow.org #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (2026-09-15 S5: events roundup mentioned Airshow; today is full ticket/logistics preview guide)",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": {
+        "long_form": "*Window: 8:00 AM MT*\n\nIf you haven't started planning your weekend yet, here's the plan: Pikes Peak Regional Airshow, September 19 and 20 at Colorado Springs Airport.\n\nGates open at 8:30 AM. The airshow performances run from 10:50 AM to 2:25 PM both days. You're looking at WWII warbirds, a B-17 Flying Fortress, P-47 Thunderbolt, Corsair, B-25 Mitchell, and a live F-35 demo piloted by Kristin \"Beo\" Wolfe. Plus ground displays, kid zones, veteran recognition, and aviation exhibits your kids can actually explore up close.\n\nTicket pricing: adults are $53.20, kids ages 4 to 12 are $42.18, and children 3 and under get in free. Active military gets a $5 discount on general admission. If you want shade and a meal, the VIP Canteen Experience runs $204.17 and includes preferred seating, food, and drinks. General parking is free for everyone.\n\nOne note: some ticket categories have already shown sold-out status on the advance ticketing sites, so grab yours at pprairshow.org before you head out Saturday morning.\n\nWhat's your family most excited about — the WWII warbirds or the modern jets?\n\n---",
+        "image_caption": "*Window: 8:00 AM MT*\n\nPikes Peak Regional Airshow is this weekend — Sep 19-20 at Colorado Springs Airport. Gates open 8:30 AM, show runs 10:50 AM–2:25 PM. Adults $53.20, kids (4-12) $42.18, under 3 free. Tickets: pprairshow.org",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-pikes-peak-airshow-family-guide.html",
+        "headline": "Pikes Peak Regional Airshow 2026: Your Complete Family Guide",
+        "word_count": 462
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Pikes Peak Regional Airshow\n\n**Concept 1 — Social (1200x675 for X)**\n- **Type:** gemini base_only\n- **Prompt:** Wide-angle view of an airshow in progress on a sunny Colorado day. Silhouettes of parents and children watching from the ground, looking up in awe at a sleek military jet performing a low pass overhead, leaving a white contrail trail against a brilliant blue sky. Rocky Mountain foothills visible in the far background. Warm golden afternoon light. Photorealistic, clean bottom third with open sky for text overlay.\n- **Mode:** base_only\n- **Brand kit:** kAHCKfCZgk0\n\n**Concept 2 — Article Hero (1200x630)**\n- **Type:** gemini base_only\n- **Prompt:** Family — two adults and two children of diverse backgrounds — standing at an airshow flight line, looking up with excitement at a vintage WWII warbird flying past against a clear blue Colorado sky. Children pointing up. Adults smiling. Warm sunlight, golden hour tone. Loose, joyful composition. Clean bottom quarter for text overlay. No brand logos, no licensed aircraft markings.\n- **Mode:** base_only\n- **Brand kit:** kAHCKfCZgk0\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Pikes Peak Regional Airshow\n**Sources:**\n- pprairshow.org (official): Sep 19-20 confirmed; gates 8:30 AM; performances 10:50 AM–2:25 PM; address 7330 Embraer Heights; free parking. [HIGH]\n- Gazette.com (Mar 2026): ticket prices confirmed on sale. [HIGH]\n- pprairshow.org/tickets: adults $53.20, kids (4-12) $42.18, under 3 FREE, military $5 discount, preferred seating $80.75, VIP Canteen Experience $204.17 (includes preferred seating, shade, food + drink). [HIGH]\n- PeakRadar.com: notes \"SOLD OUT\" on at least some ticket categories — families should check in advance. [HIGH]\n- pprairshow.org (aircraft list): F-35 (Kristin \"Beo\" Wolfe), SBD Dauntless, B-17, Kyle Franklin in Dracula, F7F Tigercat, Corsair, Skyraider, B-25, P-47. [HIGH]\n- Visit Colorado Springs: confirms family-friendly attractions, veteran recognition, kid zones, ground displays. [HIGH]\n**Key Facts (verified):**\n- Date: September 19-20, 2026 [HIGH]\n- Address: Colorado Springs Airport, 7330 Embraer Heights, COS 80916 [HIGH]\n- Gates: 8:30 AM [HIGH]\n- Airshow performances: 10:50 AM – 2:25 PM [HIGH]\n- Adults: $53.20 [HIGH — pprairshow.org]\n- Kids 4-12: $42.18 [HIGH]\n- Under 3: FREE [HIGH]\n- Military discount: $5 [HIGH]\n- Preferred seating: $80.75 [HIGH]\n- VIP Canteen: $204.17 (preferred seating + shade + food/drink) [HIGH]\n- Parking: FREE [HIGH]\n- Featured performer: Kristin \"Beo\" Wolfe, F-35 [HIGH]\n- Tickets: pprairshow.org [HIGH]\n- Organized with National Museum of World War II Aviation [HIGH — PeakRadar]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Three Dresser Tip-Over Recalls — FJTJBSI, Gizoon, Alanca (STURDY Act)",
+      "tier": 1,
+      "status": "",
+      "angle": "CPSC announced three dresser recalls in September's first half — 16,650+ total units. FJTJBSI: ~9,000 units (Amazon, ~$170, Nov 2024–Jul 2026); Gizoon: ~4,396 units (Amazon, May 2025–Aug 2026); Alanca: ~261 units (Wayfair, Apr 2025–Jun 2026). All violate STURDY Act mandatory tip-over standard. Stop using if not wall-anchored. Move away from children's areas.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "⚠️ Dresser recall: 3 brands, 16,000+ units — tip-over hazard.\n\nFJTJBSI (~9,000, Amazon), Gizoon (~4,396, Amazon), Alanca (~261, Wayfair). All violate STURDY Act.\n\nStop using if not anchored.\n\ncpsc.gov #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 260
+        },
+        {
+          "label": "Post 2-2",
+          "text": "FJTJBSI, Gizoon, or Alanca dresser? Check if it's recalled.\n\n16,000+ units pulled this month for tip-over risk (STURDY Act). Sold Amazon or Wayfair 2024–2026.\n\nDetails: cpsc.gov #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "*Window: 10:00 AM MT*\n\nImportant safety alert for Colorado Springs families with young kids: three brands of six-drawer dressers were recalled this month for tip-over and entrapment hazards — and together they add up to more than 16,000 units in homes across the country.\n\nHere's what's been recalled and where they were sold:\n\n🔹 FJTJBSI — about 9,000 units, sold on Amazon.com from November 2024 through July 2026 for around $170. Remedy: write \"RECALLED\" in permanent marker on the dresser, then email a photo to FJTJBSIrecall@outlook.com for your refund.\n🔹 Gizoon — about 4,396 units, sold on Amazon from May 2025 through August 2026 for $138 to $171.\n🔹 Alanca — about 261 units, sold on Wayfair from April 2025 through June 2026 for $206 to $240.\n\nAll three violate the mandatory federal safety standard under the STURDY Act, which requires dressers to resist tipping when a child climbs or pulls on them.\n\nIf you have one of these dressers and it is not currently secured to the wall, stop using it and move it out of any area where children can access it. Full recall details are at cpsc.gov — search the brand name plus \"dresser recall.\"\n\nHave you anchored your kids' dressers to the wall? It's worth double-checking today.\n\n---",
+        "image_caption": "*Window: 10:00 AM MT*\n\nRecall alert: three dresser brands (FJTJBSI, Gizoon, Alanca) recalled for tip-over hazard — 16,000+ units. All sold on Amazon or Wayfair 2024-2026. Stop using if not wall-anchored. Full details at cpsc.gov.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-dresser-tip-over-recalls-sturdy-act.html",
+        "headline": "Three Dresser Brands Recalled for Tip-Over Hazard — More Than 16,000 Units Affected",
+        "word_count": 580
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Three Dresser Recalls\n\n**Concept 1 — Social (1200x675 for X)**\n- **Type:** gemini base_only\n- **Prompt:** A tall six-drawer dresser tilting precariously to one side in a child's bedroom, illustrated in a clean flat-design style with a safety warning visual feel. Soft background in pale blue and cream. No children or people shown. Red warning triangle graphic element near top. Clean, clear bottom third for text overlay. Simple, modern safety infographic aesthetic.\n- **Mode:** base_only\n- **Brand kit:** kAHCKfCZgk0\n\n**Concept 2 — Article Hero (1200x630)**\n- **Type:** gemini base_only\n- **Prompt:** Close-up of a parent's hands securing a dresser to a wall using a furniture anchor strap and a stud finder tool, in a warm-toned child's bedroom setting. Soft natural light from a window. Emphasizes home safety action. No faces shown. Clean lower third for text overlay. Realistic photographic style.\n- **Mode:** base_only\n- **Brand kit:** kAHCKfCZgk0\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Three Dresser Tip-Over Recalls\n**Sources:**\n- CPSC.gov: FJTJBSI Recalls Six-Drawer Dressers (CPSC.gov recall page) [HIGH]\n- Medical Daily: \"About 9,000 FJTJBSI Dressers Sold on Amazon Are Recalled Because They Can Tip Over and Trap Children\" [HIGH]\n- Medical Daily: \"Two Six Drawer Dressers Sold on Amazon and Wayfair Recalled for Failing the Federal Tip Over Standard\" (Gizoon + Alanca) [HIGH]\n- Home News Now (Sep 15, 2026): \"CPSC announces 3 clothing storage unit recalls in 1st half of September\" — 16,650 total units [HIGH]\n**Key Facts (verified):**\n- FJTJBSI: ~9,000 units; Amazon.com; Nov 2024–Jul 2026; ~$170; 6-drawer; black or white; 15.1\"L x 27.6\"W x 42.2\"H; 68 lbs; remedy: write \"RECALLED\" + photo to FJTJBSIrecall@outlook.com [HIGH — CPSC.gov]\n- Gizoon: ~4,396 units; Amazon.com; May 2025–Aug 2026; $138–$171; 6-drawer double dresser [HIGH]\n- Alanca: ~261 units; Wayfair.com; Apr 2025–Jun 2026; $206–$240; 6-drawer wood dresser [HIGH]\n- Total units across 3 recalls: more than 16,650 [HIGH — Home News Now]\n- Violation: mandatory standard under STURDY Act [HIGH — CPSC.gov]\n- Hazard: tip-over and entrapment — serious injury or death risk [HIGH — CPSC.gov]\n- Action if not wall-anchored: stop using immediately, move away from children's access [HIGH — CPSC.gov]\n- Injuries reported: search results do not confirm injuries; CPSC recall language typically says \"reports of incidents\" — MEDIUM (need to note as unconfirmed)\n- CPSC.gov recall search: \"FJTJBSI Recalls Six-Drawer Dressers\" [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "D49 Student Success Center Opens — New Preschool Classrooms + Purple Star Schools",
+      "tier": 2,
+      "status": "",
+      "angle": "D49 Early Childhood Education opened two new preschool classrooms at the D49 Student Success Center (former Falcon Elementary) in August 2026, expanding specialized learning, preschool, and Base49 access. Also: nine more D49 campuses named Colorado Purple Star Schools, recognizing military family support.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "D49 opened two new preschool classrooms at the Student Success Center this fall (former Falcon Elementary).\n\nAlso: 9 more D49 campuses named Colorado Purple Star Schools for outstanding military family support.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": {
+        "long_form": "*Window: 8:00 AM MT*\n\nGood news for families in District 49: the D49 Student Success Center is open.\n\nTwo new early childhood classrooms launched at the start of this school year at the former Falcon Elementary building, expanding the center's capacity for preschool and the Base49 program. The Student Success Center is designed to serve as a hub for specialized learning — a single location where D49's most intensive early childhood and support programs can operate under one roof.\n\nThere's more milestone news from D49 this month: nine additional campuses have been named Colorado Purple Star Schools by the Colorado Department of Education, recognizing their exceptional support of military-connected students and families. For a community with significant ties to Fort Carson and Peterson Space Force Base, this recognition matters.\n\nDoes your family have a connection to D49? We'd love to hear what the district is doing well in your neighborhood.\n\n---",
+        "image_caption": "*Window: 8:00 AM MT*\n\nD49's Student Success Center is open this fall at the former Falcon Elementary building — two new preschool classrooms expanding specialized learning and Base49 access. Plus, 9 more D49 schools named Colorado Purple Star Schools.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-d49-student-success-center-preschool.html",
+        "headline": "D49 Opens Student Success Center Preschool Classrooms — And Nine More Campuses Earn Purple Star Status",
+        "word_count": 465
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D49 Student Success Center\n\n**Concept 1 — Social (1200x675 for X)**\n- **Type:** gemini base_only\n- **Prompt:** Bright, cheerful preschool classroom interior with small chairs, colorful educational posters on the walls, and learning stations organized neatly. Warm natural light from large windows. No children or recognizable people visible. Soft blue-green and yellow color palette. Clean bottom third for text overlay. Inviting, welcoming feel.\n- **Mode:** base_only\n- **Brand kit:** kAHCKfCZgk0\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D49 Student Success Center\n**Sources:**\n- D49.org announcements/updates: \"D49 Early Childhood Education announces opening of two new classrooms at the D49 Student Success Center in August 2026\" [HIGH]\n- General search (Sep 2026): \"D49 will open Student Success Center at start of 2026-2027 school year; former Falcon Elementary building\" [HIGH]\n- D49.org: expanding access to preschool and Base49 at former Falcon Elementary [HIGH]\n- D49.org (Sep 10, 2026): 9 more D49 campuses named Colorado Purple Star Schools [HIGH]\n**Key Facts (verified):**\n- Location: former Falcon Elementary School building (Colorado Springs) [HIGH]\n- Opened: August 2026 (start of 2026-27 school year) [HIGH]\n- New: 2 early childhood/preschool classrooms [HIGH]\n- Also serves: specialized learning programs, Base49 [HIGH]\n- Purple Star Schools: 9 more D49 campuses recognized Sep 10, 2026 [HIGH]\n- Purple Star designation: Colorado Dept of Education; recognizes schools that support military families [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "COS Parks Master Plan Public Comment Closes Sep 22 — Have Your Say",
+      "tier": 2,
+      "status": "",
+      "angle": "Colorado Springs' Draft Park System Master Plan public comment period is open through September 22, 2026. Plan was presented to Parks Advisory Board Sep 10. PRCS operates 3 community centers, 7 sports complexes, 5 program areas and serves 300,000 residents. Families' input shapes future parks for years. Comment at coloradosprings.gov/ParkSystemMasterPlan.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Colorado Springs families: comment on the Draft Park System Master Plan by Sep 22.\n\nYour input shapes playgrounds, trails, and open spaces for years.\n\ncoloradosprings.gov #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": {
+        "long_form": "*Window: 12:00 PM MT*\n\nIf you've ever pushed a stroller down a cracked trail, wished your neighborhood had a better playground, or wanted more shaded picnic areas at a city park — here's your chance to actually say something about it.\n\nColorado Springs is in the final stretch of public comments on its Draft Park System Master Plan, and the deadline is September 22. That's six days from today. The plan maps out the city's priorities for parks, trails, and open spaces for years to come, and the Parks Advisory Board reviewed the draft on September 10.\n\nFor context on what's at stake: Colorado Springs Parks, Recreation and Cultural Services operates three community centers, seven sports complexes, and five program areas, and serves more than 300,000 residents each year. This master plan will shape how that system grows (or doesn't) over the next decade.\n\nYou can read the draft and submit feedback at coloradosprings.gov/ParkSystemMasterPlan. It takes less time than you'd think.\n\nWhat's the one park feature or trail improvement you most wish Colorado Springs would prioritize?\n\n---",
+        "image_caption": "*Window: 12:00 PM MT*\n\nComment deadline September 22: Colorado Springs' Draft Park System Master Plan is open for public input. Share your priorities for parks, trails, and open spaces at coloradosprings.gov/ParkSystemMasterPlan. Six days left.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-cos-parks-master-plan-comment-deadline.html",
+        "headline": "Six Days Left to Shape Colorado Springs' Park Future — Public Comment Closes September 22",
+        "word_count": 515
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "COS Parks Master Plan\n\n**Concept 1 — Social (1200x675 for X)**\n- **Type:** gemini base_only\n- **Prompt:** Aerial-style illustration of a Colorado Springs neighborhood park with a playground, walking trail, mature trees, and open grass spaces. Families visible as small figures in the distance. Late summer, golden light. Illustrated flat-design style with a warm, community-oriented feel. Pikes Peak silhouette barely visible in background. Clean bottom third for text overlay.\n- **Mode:** base_only\n- **Brand kit:** kAHCKfCZgk0\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "COS Parks Master Plan\n**Sources:**\n- coloradosprings.gov/ParkSystemMasterPlan [HIGH]\n- KOAA (local news): \"Colorado Springs unveils 2026 parks, trails, and open space priorities\" [HIGH]\n- City of Colorado Springs PRCS page: 3 community centers, 7 sports complexes, 5 program areas, 300,000 residents served annually [HIGH]\n- Parks Advisory Board meeting: Sep 10, 2026 (plan presented) [HIGH]\n- Public comment period: September 2–22, 2026 [HIGH]\n**Key Facts (verified):**\n- Plan name: Draft Park System Master Plan [HIGH]\n- Parks Advisory Board presentation: September 10, 2026 [HIGH]\n- Public comment period: September 2–22, 2026 (closes Sep 22) [HIGH]\n- PRCS stats: 3 community centers, 7 sports complexes, 5 program areas [HIGH]\n- Residents served annually: 300,000+ [HIGH]\n- Comment URL: coloradosprings.gov/ParkSystemMasterPlan [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Fall Events Roundup — Bark at Briargate, CMZoo Centennial Last Days, Free Movies",
+      "tier": 2,
+      "status": "",
+      "angle": "Big family week in COS: Bark at Briargate Sep 19 (free, 11 AM–3 PM, dog adoptions + family fun); CMZoo Centennial through Sep 20 (last days — live music, vintage cars); Free outdoor movies every Saturday evening in September/October (Schoolyard series, bring chairs + dogs); Crystal Reservoir/North Slope closes for season Oct 18 — make fall fishing plans now.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "COS family events this week:\n\n🐾 Bark at Briargate — Sep 19, 11 AM–3 PM (FREE)\n🦒 CMZoo Centennial — last days through Sep 20\n🎬 Free outdoor movies — Saturdays at the Schoolyard\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "*Window: 3:00 PM MT*\n\nIt's a big week for Colorado Springs families, and we've pulled together everything worth knowing about before the weekend:\n\n🐾 **Bark at Briargate** — This Saturday, September 19, from 11 AM to 3 PM. Free admission. Features on-site dog adoptions (great if your family has been thinking about adding a dog), pet-focused vendors, activities, and giveaways. Fun for kids and anyone who loves dogs.\n\n🦒 **CMZoo Centennial — Last Days** — The Colorado Springs Zoo's centennial celebration wraps up September 20. If you haven't made it out for the vintage cars and live music programming, this is your last chance before it closes out. It's included with regular zoo admission.\n\n🎬 **Free Outdoor Movies at the Schoolyard** — Every Saturday evening this month and in October, The Schoolyard hosts free outdoor movies under the stars. Bring your own chairs, dogs are welcome, and there are concessions on site.\n\n🎣 **Last Chance for North Slope Fishing** — The Crystal Reservoir and North Slope Recreation Area closes for fishing season on October 18. If your family fishes, you've got about a month left. Worth a fall weekend trip before the season ends.\n\nWhat's on your family's calendar this weekend?\n\n---",
+        "image_caption": "*Window: 3:00 PM MT*\n\nBig week for COS families: Bark at Briargate (Sep 19, free, dog adoptions), CMZoo Centennial last days through Sep 20, free outdoor movies every Saturday at the Schoolyard, and North Slope fishing open through Oct 18.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-cos-fall-events-roundup-september.html",
+        "headline": "COS Fall Family Events: Bark at Briargate, CMZoo's Last Centennial Days, Free Movies, and More",
+        "word_count": 564
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Fall Events Roundup\n\n**Concept 1 — Social (1200x675 for X)**\n- **Type:** gemini base_only\n- **Prompt:** Warm autumn scene: a family with a dog walking through a Colorado park in early fall, leaves beginning to turn gold and orange on the trees. Parents and two children of diverse backgrounds walking along a paved trail, the dog on a leash. Pikes Peak visible in the distant background. Soft golden hour light. Photorealistic, clean bottom third for text overlay.\n- **Mode:** base_only\n- **Brand kit:** kAHCKfCZgk0\n\n**Concept 2 — Article Hero (1200x630)**\n- **Type:** gemini base_only\n- **Prompt:** Collage-style flat illustration showing four autumn Colorado Springs family activities arranged in quadrants: a dog at a community event, a zoo giraffe head, an outdoor movie screen at night with silhouetted chairs, a fishing rod at a mountain reservoir. Warm autumn color palette — gold, teal, coral. Clean bottom strip for text overlay. No text in image. Minimal, modern illustrative style.\n- **Mode:** base_only\n- **Brand kit:** kAHCKfCZgk0"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Fall Family Events Roundup\n**Sources:**\n- Visit Colorado Springs / Springs Event Hub: Bark at Briargate Sep 19, 11 AM–3 PM, free [HIGH]\n- Visit Colorado Springs: free outdoor movies \"The Schoolyard\" series — Saturdays September + October [HIGH]\n- coloradosprings.gov PRCS: Crystal Reservoir / North Slope Recreation Area closes Oct 18 for the season [HIGH]\n- Previous coverage: CMZoo Centennial through Sep 20 (confirmed Sep 15 pipeline) [HIGH]\n**Key Facts (verified):**\n- Bark at Briargate: Sep 19, 2026; 11 AM–3 PM; free; on-site dog adoptions, pet vendors, activities, giveaways [HIGH]\n- Free outdoor movies: Saturdays in September and October; The Schoolyard venue; bring chairs + dogs; popcorn/concessions available [HIGH — Visit COS]\n- CMZoo Centennial events: through September 20, 2026 [HIGH — confirmed Sep 15 pipeline + cmzoo.org]\n- Crystal Reservoir/North Slope Recreation Area: closes for fishing and season Oct 18, 2026 [HIGH — PRCS]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
