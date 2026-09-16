@@ -1,6 +1,37 @@
 # Tennis Fanrecap — Pipeline Status
 
-## Current Run: 2026-09-15
+## Current Run: 2026-09-16
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Race to Turin standings (Yardbarker/TennisTonic/TennisUpToDate); Sinner training update (PuntodeBreak Sep 14, TennisWorldUSA); Laver Cup 2026 (Yahoo Sports/The O2 official/Classic FM/Wikipedia); WTA rankings (WTA official/Tennis365/ESPN); Davis Cup Qualifiers (Olympics.com/LTA/Davis Cup official) |
+| Story History Check | COMPLETE | S1 NEW (Race to Turin reshuffled); S2 FOLLOW-UP (Sinner injury thread → training update); S3 NEW (Laver Cup 2026 preview); S4 FOLLOW-UP (Rybakina No. 1 + WTA rankings); S5 NEW (Davis Cup Qualifiers 2nd Round) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2); bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: Yardbarker, TennisTonic, TennisUpToDate, TennisTemple, PuntodeBreak, TennisWorldUSA, Tennis365, SundayGuardianLive, Olympics.com, Yahoo Sports, The O2 official, Classic FM, Wikipedia, WTA official, ESPN, LTA, Davis Cup official |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 8 posts across 5 stories; all ≤280 chars verified; code block format; fixed S3 tweet #1 from 284→246 chars |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 9 imagn concepts across 5 stories |
+| Articles (5) | COMPLETE | article-01 Race to Turin (Elena Voss T1); article-02 Sinner knee update (Marcus Cole T1); article-03 Laver Cup preview (Ryan Calloway T1); article-04 WTA rankings (Elena Voss T2); article-05 Davis Cup qualifiers (Marcus Cole T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — auto-generated; 22 claims, HIGH; image missing warnings cosmetic (imagn, known) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 5 articles; posting-window warnings cosmetic (known) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 9 entries, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 28 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser issue — same as all prior runs |
+| WordPress Publish | BLOCKED | 403 proxy — fanrumor.com blocked (known recurring issue) |
+| Story History | COMPLETE | 5 entries prepended to Tennis/story-history.md (Sep 16 section) |
+
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 5 FB posts (5 long-form + 5 captions) = 13 total
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
+- **PostPlanner exports:** 0 posts (known parser compat issue)
+- **Key stories:** Race to Turin reshuffled — Zverev leads (8,650 pts, qualified), Sinner 2nd (7,950, qualified), Shelton 3rd (4,420); Sinner training resumes in Turin, targeting China Open Sep 30; Laver Cup 2026 preview Sep 25-27 London O2 (Zverev/Alcaraz vs Shelton/de Minaur); WTA rankings Kostyuk breaks top 10 first time; Davis Cup Qualifiers 2nd Round Sep 18-20 (14 nations, 7 spots)
+- **Issues:** PostPlanner 0 posts (known); WordPress blocked by proxy; dashboard push blocked (not in session authorized repos)
+
+---
+
+## Previous Run: 2026-09-15
 
 | Step | Status | Notes |
 |------|--------|-------|
