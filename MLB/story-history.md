@@ -5,6 +5,60 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-09-16
+
+### Story 1: PCA — 40-40 Watch, Three Steals Away
+- **Date:** 2026-09-16
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** PCA went 4-for-5 with HR No. 42 (tied Billy Williams' LH Cubs single-season record, off AJ Smith-Shawver) vs. Braves Sept. 15. Cubs won 7-3, now WC1. PCA at 37 SB — 3 from 40-40 club (7th member ever, first Cub). 102 RBI. ~10 games left.
+- **Content Produced:** Article (article-01, Ryan Calloway), 2 X posts, FB long-form + caption, image concepts
+- **Follow-Up Opportunities:**
+  - Daily SB tracker — each Cubs game in Sept
+  - If PCA achieves 40-40, major feature/breaking story
+
+### Story 2: Aaron Judge — First HR Since May 24, Yankees Clinch 61st
+- **Date:** 2026-09-16
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Judge 3-run HR in 8th inning Sept. 15 vs. Twins, 415 feet, first since May 24. Yankees won 8-3. Clinched record 61st postseason berth (9th in 10 years). Judge returned Sept. 8 from 99-day IL (rib stress fracture). 18 HR season.
+- **Content Produced:** Article (article-02, Marcus Cole), 1 X post, FB long-form + caption, image concepts
+- **Follow-Up Opportunities:**
+  - October Yankees — Judge health and form
+  - Franchise record 61st postseason milestone
+
+### Story 3: Yordan Alvarez — Triple Crown Chase
+- **Date:** 2026-09-16
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Alvarez leads AL in BA (.311), trails HR (Caminero hit walk-off 40th, leads 40-38), within range RBI (Alonso BAL leads). ~10 games left. Last AL Triple Crown: Cabrera 2012.
+- **Content Produced:** Article (article-03, Jake Torres), 1 X post, FB long-form + caption, image concepts
+- **Follow-Up Opportunities:**
+  - Final ~10 games for Triple Crown math
+  - Batting title still attainable if lead holds
+
+### Story 4: Misiorowski — Best Pitcher in Baseball
+- **Date:** 2026-09-16
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Misiorowski pitched vs. Pirates Sept. 15 (Brewers 93-57). 19-8, 1.95 ERA MLB best, 236 K MLB best. First pitcher tracking era 1,000 pitches 100+ mph. Cy Young -700. Needs 28 K to break Sheets' Brewers record (264, 2004).
+- **Content Produced:** Article (article-04, Ryan Calloway), 1 X post, FB long-form + caption, image concepts
+- **Follow-Up Opportunities:**
+  - Brewers franchise K record — each start
+  - Cy Young announcement (offseason)
+
+### Story 5: NL Wild Card — Cubs WC1, Padres-D-backs Sept. 25-27 at Petco
+- **Date:** 2026-09-16
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Cubs WC1 (0.5 over Phillies) after 7-3 win vs. Braves. Padres WC3, 2.5 ahead of D-backs. Padres host D-backs Sept. 25-27 at Petco — potentially decisive. Wild Card starts Sept. 29. Brewers No. 1 bye, Dodgers No. 2 bye, Braves No. 3.
+- **Content Produced:** Article (article-05, Marcus Cole), 1 X post, FB long-form + caption, image concepts
+- **Follow-Up Opportunities:**
+  - Sept. 25-27 Padres-D-backs series at Petco
+  - NL Wild Card Series Sept. 29 matchups
+
+---
+
 ## 2026-09-15
 
 ### Story 1: PCA — 40-40 Chase, 3 Steals Away From History

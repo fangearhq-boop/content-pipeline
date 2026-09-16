@@ -1,0 +1,182 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-16",
+  "compiled_at": "2026-09-16T10:29:20.003010+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Pete Crow-Armstrong — 40-40 Watch, Three Away",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-01-pca-40-40-watch-billy-williams-record.html",
+        "headline": "42 Home Runs, 37 Stolen Bases: PCA Ties Billy Williams' Record and Closes In on 40-40 History",
+        "word_count": 545
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080×1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Judge Hits First HR Since May 24 — Yankees Clinch 61st Postseason",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-02-judge-first-hr-since-may-yankees-clinch-61st.html",
+        "headline": "Aaron Judge Ends 114-Day HR Drought as Yankees Clinch Record 61st Postseason Berth",
+        "word_count": 524
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2",
+          "size_desc": "Social (1080×1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Yordan Alvarez and the Triple Crown Nobody Talks About",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-03-alvarez-triple-crown-chase-2026.html",
+        "headline": "The Triple Crown Nobody's Talking About: Yordan Alvarez and the Last 10 Games of His Season",
+        "word_count": 583
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3",
+          "size_desc": "Social (1080×1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Misiorowski Pitched Again — Still the Best in Baseball",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-04-misiorowski-cy-young-1000-pitches-100mph.html",
+        "headline": "The First Pitcher Ever to Throw 1,000 Pitches at 100 MPH Is Also the Best in Baseball",
+        "word_count": 532
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4",
+          "size_desc": "Social (1080×1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "NL Wild Card — Cubs Take WC1, Padres and D-backs Collide Sept. 25",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-05-nl-wild-card-cubs-padres-dbacks-sept25.html",
+        "headline": "Cubs Take WC1, Padres Have a Date at Petco: NL Wild Card With 10 Games Left",
+        "word_count": 496
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5",
+          "size_desc": "Social (1080×1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 0,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No X/Twitter posts found",
+      "Story 1: No Facebook posts found",
+      "Story 1: No posting window specified",
+      "Story 2: No X/Twitter posts found",
+      "Story 2: No Facebook posts found",
+      "Story 2: No posting window specified",
+      "Story 3: No X/Twitter posts found",
+      "Story 3: No Facebook posts found",
+      "Story 3: No posting window specified",
+      "Story 4: No X/Twitter posts found",
+      "Story 4: No Facebook posts found",
+      "Story 4: No posting window specified",
+      "Story 5: No X/Twitter posts found",
+      "Story 5: No Facebook posts found",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
