@@ -2,6 +2,56 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-09-16
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-16 | T1 | Domenicali Confirms Radical 2027 F1 Calendar — 24 Races, 10 Sprints, Monaco Gets a Sprint | X(2), FB, Article | NEW |
+| 2026-09-16 | T1 | 81 Points Clear With 9 Rounds Left — Antonelli Is One Weekend Away From Making History | X(2), FB, Article | FOLLOW UP |
+| 2026-09-16 | T1 | Williams Bring "Almost an Entirely New Car" to Baku — But Sainz and Albon Aren't Promising Much | X(2), FB, Article | FOLLOW UP |
+| 2026-09-16 | T1 | 52 Points and Closing — McLaren's Constructors' Surge Is Ferrari's New Nightmare | X(1), FB, Article | FOLLOW UP |
+| 2026-09-16 | T2 | Lewis Hamilton's 2026 Title Is Gone — But Baku Offers Something Else | X(1), FB, Article | FOLLOW UP |
+
+### STORY 1: 2027 F1 Calendar — 24 Races, 10 Sprints
+- **Tier:** 1
+- **Category:** F1 Calendar / Stefano Domenicali / 2027 Season
+- **Key facts:** Domenicali confirmed Sept. 16; 24 races + 10 sprints; Monaco Sprint first-ever; full calendar in autumn; Bahrain/Saudi mid-March target; Middle East contingency plans; 2026 had 22 rounds (Bahrain + Saudi cancelled)
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+- **Follow-up ideas:** Full calendar release, Monaco Sprint reaction, 2027 season opener confirmation
+
+### STORY 2: Antonelli Championship — 9 Rounds Left
+- **Tier:** 1
+- **Category:** Mercedes / Kimi Antonelli / Drivers' Championship
+- **Key facts:** After R14 (Spanish GP Madrid): 292 pts; George Russell 211 (gap 81); 233 remaining across 9 rounds; 8 wins, 6 poles, 12 podiums; earliest clinch Singapore; next race Baku Sept. 26 (Saturday — moved from Sunday for Azerbaijan Remembrance Day)
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Baku result, Singapore title clinch
+
+### STORY 3: Williams Baku Upgrade
+- **Tier:** 1
+- **Category:** Williams / Baku Upgrade / Carlos Sainz / Alex Albon
+- **Key facts:** James Vowles called it "almost an entirely new car"; Albon: won't fix season; Sainz: "stark warning" — not the rescue package; Williams 9th in constructors' with 11 pts (none since Monaco June); missed Jan Barcelona shakedown → late start to 2026 regs
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Baku free practice pace, race result for Williams
+
+### STORY 4: Ferrari vs. McLaren Constructors'
+- **Tier:** 1
+- **Category:** Ferrari / McLaren / Constructors' Championship
+- **Key facts:** After Spanish GP: Mercedes 503 (leads by 145); Ferrari P2; McLaren 52 behind Ferrari (was 59 after Italian GP — closing); 9 rounds left
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Baku result, constructors' gap after Azerbaijan
+
+### STORY 5: Hamilton Baku Redemption
+- **Tier:** 2
+- **Category:** Lewis Hamilton / Ferrari / Azerbaijan GP
+- **Key facts:** Hamilton 101 pts behind Antonelli after Spanish GP; 3rd in drivers' standings (tied Russell, behind on wins); championship mathematically alive, realistically gone; Baku power-circuit suits Ferrari; Hamilton has historically excelled here; Ferrari fighting McLaren for P2 constructors'
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Baku qualifying, race result, Antonelli title-clinch update
+
 ## 2026-09-13
 
 | Date | Tier | Title | Platforms | Status |
