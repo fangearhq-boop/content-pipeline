@@ -2,6 +2,56 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-09-17
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-17 | T1 | Round 1 Is Live at the Inaugural Biltmore Championship — History Returns to Asheville | X(2), FB, Article | FOLLOW UP |
+| 2026-09-17 | T1 | 7 Days to Medinah — The 2026 Presidents Cup USA Team Is Set | X(2), FB, Article | FOLLOW UP |
+| 2026-09-17 | T1 | LIV Golf Bankruptcy: Oct. 13 Deadline, Rahm Owed $7.5M, and the LIV 2.0 Plan | X(2), FB, Article | FOLLOW UP |
+| 2026-09-17 | T2 | Jackson Koivun's Remarkable 10 Days: Biltmore Favorite, Then Presidents Cup Debut | X(1), FB, Article | FOLLOW UP |
+| 2026-09-17 | T2 | 84 Years Between Rounds — What Asheville's Return to PGA Tour Golf Means | X(1), FB, Article | NEW |
+
+### STORY 1: Biltmore Championship Round 1 Live
+- **Tier:** 1
+- **Category:** PGA Tour / Biltmore Championship / Asheville / FedExCup Fall / Jackson Koivun
+- **Key facts:** Inaugural Biltmore Championship at The Cliffs at Walnut Cove; Sept. 17-20; first PGA Tour in Asheville since 1942; $5M purse, $900K winner; Golf Channel 3-6 PM ET; ESPN+ PGA Tour Live from 7 AM; FedExCup Fall opener; Koivun +1200 favorite; Bridgeman +1600; Thomas withdrew (rest for Presidents Cup)
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R1 leaderboard, R2 leader, weekend leader, champion recap
+
+### STORY 2: Presidents Cup 7 Days Out
+- **Tier:** 1
+- **Category:** Presidents Cup / Medinah / Brandt Snedeker / Geoff Ogilvy / Jackson Koivun
+- **Key facts:** 2026 Presidents Cup Sept. 24-27 Medinah CC; USA auto: Scheffler, Young, Clark, Henley, Burns, Morikawa; USA picks: Schauffele, Thomas, Cantlay, Gotterup, Bridgeman, Koivun; INTL captain Ogilvy; team includes Scott, Matsuyama, Fox; USA 13-1-1 all-time; Koivun youngest USA member (21)
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Opening day pairings, match results, final scoreboard
+
+### STORY 3: LIV Golf Bankruptcy Oct. 13
+- **Tier:** 1
+- **Category:** LIV Golf / Chapter 11 / Jon Rahm / BC Partners / PIF / Restructuring
+- **Key facts:** Chapter 11 filed Sept. 8 NJ court; assets $100M-$500M; liabilities $500M-$1B; PIF $49.6M DIP financing; BC Partners leading restructuring; LIV 2.0 plan (4 events 2027: Saudi, Australia, S. Africa, HK); player-majority ownership; Rahm $7.5M unsecured; DeChambeau $5.8M; Johnson $5.5M; Rahm "noncommittal" on LIV 2.0; Oct. 13 next court deadline
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Oct. 13 court hearing, Rahm decision, BC Partners announcement
+
+### STORY 4: Koivun Double Duty
+- **Tier:** 2
+- **Category:** Jackson Koivun / Biltmore Championship / Presidents Cup / USA Team
+- **Key facts:** Koivun 21, Auburn, 3M Open win 2026, Presidents Cup captain's pick; Biltmore +1200 favorite Sept. 17-20; Presidents Cup debut Sept. 24-27 Medinah; youngest USA team member; 10-day stretch
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Biltmore result, Presidents Cup debut performance
+
+### STORY 5: Asheville Golf History
+- **Tier:** 2
+- **Category:** Biltmore Championship / Asheville / PGA Tour History / Biltmore Estate
+- **Key facts:** Last PGA Tour event Asheville 1942 (84 years); Biltmore Estate: George Vanderbilt, opened 1895, 178K sq ft, largest private home in US; Hurricane Helene 2024; The Cliffs at Walnut Cove is host venue
+- **Byline:** Jake Torres
+- **Status:** NEW
+- **Follow-up ideas:** Event recap, community impact piece, return booking confirmed for 2027
+
 ## 2026-09-16
 
 | Date | Tier | Title | Platforms | Status |
