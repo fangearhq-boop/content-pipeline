@@ -1,0 +1,278 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-17",
+  "compiled_at": "2026-09-17T10:24:23.725277+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "USA WNT — Group Oklahoma Recap: Brady's 3-HR Game Books Redcliffe Ticket, Gasso Back in Norman",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Maya Brady hit THREE home runs. 🥎🇺🇸\n\nUSA defeated China 7-0 (run-rule, 6 innings) to punch their ticket to the 2027 WBSC Women's World Cup Finals in Redcliffe, QLD.\n\nBrady drove in 5. Garcia retired all 9 she faced, struck out 6.\n\nUSA goes to Australia. #USASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#USASoftball"
+          ],
+          "char_count": 266
+        },
+        {
+          "label": "Post 2",
+          "text": "Devon Park is done. Gasso is home.\n\nAfter coaching Team USA through Group Oklahoma (5-0), Patty Gasso and her staff are back in Norman.\n\nFirst full-staff practice at Love's Field: TODAY.\n\n13 days to the fall opener. #Sooners",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners"
+          ],
+          "char_count": 224
+        }
+      ],
+      "facebook": {
+        "long_form": "USA SOFTBALL IS GOING TO AUSTRALIA. 🇺🇸🥎\n\nFive days. Five wins. And on Wednesday afternoon at Devon Park in Oklahoma City, Team USA punched their ticket to the 2027 WBSC Women's Softball World Cup Finals in Redcliffe, Queensland with a dominant 7-0 run-rule victory over China.\n\nThe hero of the day was Maya Brady, who hit THREE home runs and drove in five runs. The decisive blow came in the sixth inning, when Brady launched a 276-foot two-run shot to deep right-center field that triggered the run-ahead rule and ended the game six innings early.\n\nOn the mound, Gabbie Garcia was simply untouchable. Garcia retired all nine batters she faced through the sixth inning, striking out six. USA's defense and pitching was airtight throughout Group Oklahoma — they went unbeaten from Day 1 through the bracket.\n\nHead coach Patty Gasso and her USA staff (including JT Gasso and Rocha) are back in Norman today, returning after the tournament concluded Wednesday evening. And what a homecoming it is: TODAY is the first full-staff practice for Oklahoma softball since Gasso departed for Team USA duties on Sept. 12.\n\nThe 2027 Finals in Redcliffe will serve as a key qualifier on the road to the 2028 Los Angeles Olympics. USA has earned their place at that table. Group Oklahoma is done. Redcliffe is next.",
+        "image_caption": "Maya Brady. Three home runs. USA goes to Redcliffe. 🥎🇺🇸 #USASoftball",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-usa-wnt-group-oklahoma-recap-brady.html",
+        "headline": "Maya Brady Hits Three Home Runs as USA Defeats China 7-0, Books Redcliffe Finals Ticket",
+        "word_count": 630
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Brady Triple HR / USA Punches Ticket",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Group Oklahoma Final Summary",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "USA WNT — Group Oklahoma Recap\n**Sources consulted:** wbsc.org (Group Oklahoma results page, Day 5 blog, USA vs. China recap article), okwnews.com USA 7-0 China recap, SI.com Group Oklahoma coverage, AWSN.tv, Line Drive Media Day 4 preview/recap\n**Key verified facts:**\n- USA defeated China 7-0 in six innings on Sept. 16 to earn a direct berth to the 2027 WBSC Women's Softball World Cup Finals in Redcliffe, QLD\n- Maya Brady hit three home runs and drove in five (including the game-ending two-run 276-foot shot to deep right-center that triggered the run-ahead rule)\n- Garcia (pitcher) retired all nine batters she faced through the 6th inning, striking out six\n- USA finished the Group Oklahoma bracket 5-0 (dominant throughout)\n- Tournament structure: No. 1 vs. No. 2 play-off at 1 PM ET (direct ticket) — USA won; No. 3 vs. No. 4 at 4 PM ET, Repechage at 7 PM ET (second ticket to Netherlands-Mexico winner vs. China)\n- Gasso, JT Gasso and Rocha returned to Norman on Sept. 16 after bracket concluded\n- First full-staff OU practice: TODAY, Sept. 17\n- 4 Sooners on USA roster: Alyssa Brito, Jayda Coleman, Tiare Jennings, Kelly Maxwell\n- Garcia + Mulipola: Tokyo 2020 silver medalists; 7 World Games gold medals",
+        "sources": "- Source for Brady HRs: wbsc.org \"USA power past China\" recap; okwnews.com; SI.com\n**Confidence:** HIGH (USA win + Brady performance — confirmed from wbsc.org and multiple outlets); MEDIUM (exact repechage winner — games concluded Sept. 16 evening, specific result not confirmed)\n**Freshness:** Tournament concluded yesterday — full recap angle"
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Oklahoma Sooners — First Full-Staff Practice TODAY",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "It's official. Patty Gasso is back at Love's Field. 🌪️\n\nFirst full-staff practice: TODAY (Sept. 17).\n\nWells (32 HR, NCAA freshman record). Berzon (486.1 IP, 2.02 ERA). Harter (.346 BA).\n\n13 days to the fall opener. Norman is ready. #Sooners",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "The band is back together at Love's Field. 🌪️\n\nAfter five days with associate coaches running fall camp, Patty Gasso, JT Gasso and Rocha are back in Norman today following the conclusion of Team USA's Group Oklahoma tournament at Devon Park. And TODAY — Thursday, Sept. 17 — marks the first full-staff practice of the 2027 fall campaign for the Oklahoma Sooners.\n\nThis is what Sooner fans have been waiting for. The full coaching staff, assembled with the full roster, including Kendall Wells (who set the NCAA freshman HR record with 32 as a sophomore), Sydney Berzon (2x All-American, 486.1 IP, 2.02 ERA, 406 K at LSU), and Macie Harter (.346 BA from MTSU), now begins its final two weeks of preparation before the fall opener.\n\nSept. 30 vs. Tarleton State at Love's Field is 13 days away. The Battle Series intrasquad games and four outside opponents await. But first: today's practice. The Sooners' 2027 season took another step forward this morning.",
+        "image_caption": "Full staff. Full roster. Love's Field. First full practice of fall 2026 is TODAY. #Sooners",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-oklahoma-sooners-first-full-staff-fall-practice.html",
+        "headline": "Gasso Returns to Love's Field: Oklahoma Sooners Hold First Full-Staff Fall Practice Today",
+        "word_count": 641
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3",
+          "size_desc": "Gasso Returns / First Full Practice",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Oklahoma Sooners — First Full-Staff Practice TODAY\n**Sources consulted:** soonersports.com (fall schedule announcement Aug. 24), SI.com/Sooners fall camp, Heartland Sports fall ball preview, Storming in Norman\n**Key verified facts:**\n- Gasso, JT Gasso, Rocha returned to Norman Sept. 16 after Group Oklahoma concluded at Devon Park\n- Associate coaches ran practice Sept. 12-16 (5 days without full staff) — confirmed from prior pipeline\n- First full-staff practice: TODAY, Sept. 17 — confirmed from story history\n- Fall opener: Sept. 30 vs. Tarleton State at Love's Field — 13 days from today\n- Full fall schedule: Tarleton State Sept. 30, USAO Oct. 23, Seminole State Oct. 30, East Texas A&M Nov. 4; plus 4 Battle Series intrasquad games\n- Kendall Wells: 32 HR, NCAA freshman record (sophomore) — confirmed HIGH\n- Sydney Berzon: 2x All-American, 486.1 IP, 2.02 ERA, 406 K at LSU — confirmed HIGH\n- Macie Harter: .346 BA, 7 HR, 23 RBI at MTSU — confirmed HIGH\n**Confidence:** HIGH (schedule, player stats); HIGH (first full-staff timing — tied to known Group Oklahoma end date)\n**Freshness:** TODAY is the first full-staff practice — genuine news peg",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Class of 2028 — Day 9 Commit Wave",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Day 9 of the in-person window and the 2028 commit list keeps growing:\n\nWilliams No. 1 → OU\nUshery No. 2 → Georgia\nDonalson → FSU\nLosh + Harris → Florida\nMyers → South Carolina\n\n1,226 EIS nominations. The wave rolls on.",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 218
+        }
+      ],
+      "facebook": {
+        "long_form": "Nine days into the in-person contact window and the Class of 2028 commit wave is showing no signs of slowing. 📋\n\nWhen the NCAA opened the in-person recruiting window on September 9 at 7 AM ET, the softball world expected a rush. The reality has been exactly that — a sustained wave of commitments rolling across the SEC, ACC, Big 12 and Pac-12 every single day.\n\nHere's who's already committed: Finlee Williams (No. 1 overall, Oklahoma), Peyton Ushery (No. 2, Georgia), Paityn Donalson (FSU), Braylyn Saenz (Oklahoma), Star Gutierrez (Texas Tech), Sophia Galindo and Nevaeh Wilson (Tennessee), Kate Losh and Ryann Harris (Florida), Siena Myers (South Carolina), and the in-state duo of Ridling and Stell to Arizona.\n\n1,226 Extra Innings Softball nominations make this the largest Class of 2028 field on record. Programs are moving fast — and with mid-October being the expected window for the first class rankings update, the next few weeks will continue to be active.\n\nThe recruiting calendar is clicking. The best Class of 2028 talent is choosing programs now.",
+        "image_caption": "Day 9 of the in-person window. 1,226 nominations. Commits rolling in. The Class of 2028 is taking shape. 📋",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-class-2028-day9-commit-wave.html",
+        "headline": "Class of 2028 Recruiting: Day 9 of the In-Person Window and the Commit Wave Rolls On",
+        "word_count": 644
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4",
+          "size_desc": "Day 9 Commit List",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Class of 2028 — Day 9 Commit Wave\n**Sources consulted:** On3.com 2028 recruiting notebook (Sept. 14), Extra Innings Softball, D1Softball.com recruiting, Line Drive Media recruiting updates\n**Key verified facts:**\n- In-person contact window opened Sept. 9, 2026 at 7 AM ET — now Day 9\n- Named commitments (verified from multiple outlets): Finlee Williams (No. 1 OU), Peyton Ushery (No. 2 Georgia), Paityn Donalson (FSU), Braylyn Saenz (OU), Star Gutierrez (OF, TTU), Sophia Galindo + Nevaeh Wilson (Tennessee), Kate Losh (P) + Ryann Harris (C) (Florida), Siena Myers (C, South Carolina), Ridling + Stell (Arizona)\n- 1,226 EIS nominations — record for Class of 2028\n- Window extends through mid-October; first rankings update expected mid-October\n- SEC leading in volume; ACC, Big 12, Pac-12 all active\n**Confidence:** HIGH for named commits (verified from multiple recruiting outlets); MEDIUM for wave characterization\n**Freshness:** Day 9 natural follow-up; daily window momentum angle",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Texas Longhorns — 12 Days to Sept. 29",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "12 days until the most anticipated fall opener in college softball.\n\nIsa Torres. Hannah Kavan. Sept. 29. McCombs Field. 6 PM CT. Free.\n\nTwo-time defending WCWS champions chasing history that only UCLA and OU have made. #HookEm",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HookEm"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "Twelve days. That's all that stands between college softball fans and the first public look at Isa Torres in burnt orange.\n\nTexas (53-12, back-to-back WCWS champions) hosts Murray State at McCombs Field on Sept. 29 — 6 PM CT, free admission, and what figures to be one of the most watched fall exhibition games in program history. Torres, who won the 2026 D1Softball National Player of the Year award at FSU (.530 BA, 16 HR, 56 RBI) and grew up 30 miles south of Austin in Georgetown, TX, has come home in the best way possible.\n\nShe'll be paired with Hannah Kavan, the only two-time Women's College World Series Most Outstanding Player in history, for a senior season that has three-peat potential. That's rare company: only the UCLA Bruins (1988-90) and the Oklahoma Sooners (2021-23) have ever won three consecutive national championships.\n\nHead coach Mike White, who won the NFCA Coaching Staff of the Year award for the second consecutive season, has a full fall schedule lined up: Murray State (Sept. 29), Texas State (Oct. 13), Temple (Oct. 20), McLennan (Oct. 27), UTSA (Oct. 29), and the final at Texas A&M's Davis Diamond on Nov. 6. \n\nThe countdown is on. 12 days. Free admission. McCombs Field. You won't want to miss it. #HookEm",
+        "image_caption": "12 days. Torres + Kavan. McCombs Field. Free. Sept. 29. #HookEm",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-texas-longhorns-12-days-fall-opener.html",
+        "headline": "12 Days to McCombs Field: Isa Torres, Hannah Kavan and Texas Softball's Three-Peat Chase Begins Sept. 29",
+        "word_count": 756
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5",
+          "size_desc": "Countdown Graphic",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Texas Longhorns — 12 Days to Sept. 29\n**Sources consulted:** texaslonghorns.com (fall schedule Aug. 28), statesman.com, hookemheadlines.com, D1Softball.com, ESPN/Yahoo POY coverage\n**Key verified facts:**\n- Texas won 2026 WCWS with a 53-12 record — confirmed HIGH\n- Fall opener: Sept. 29 vs. Murray State at McCombs Field, 6 PM CT, free admission — confirmed HIGH\n- Full fall schedule: Murray State Sept. 29, Texas State Oct. 13, Temple Oct. 20, McLennan Oct. 27, UTSA Oct. 29, Texas A&M Nov. 6 at Davis Diamond 7 PM CT — confirmed HIGH\n- Isa Torres: 2026 D1Softball National POY; .530 BA, 16 HR, 56 RBI at FSU; Georgetown, TX native — confirmed HIGH\n- Hannah Kavan: 2x WCWS MOP (2025 + 2026) — only player in WCWS history; senior — confirmed HIGH\n- NFCA Coaching Staff of Year 2nd consecutive (Mike White) — confirmed HIGH\n- Three-peat context: Only UCLA (1988-90) and OU (2021-23) have won 3 consecutive national titles — confirmed HIGH\n**Confidence:** HIGH for all key facts\n**Freshness:** 12-day countdown is the daily angle; Torres+Kavan integration ongoing",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Texas Tech Red Raiders — Glasco Year 2, 7 All-Americans Together",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Seven All-Americans. One fall camp. Week 2 of building something special.\n\nBeachum (.406, 10 HR). Pickering (50 HR). Heavener (2.81 ERA).\n\nGlasco's Year 2 at Texas Tech. WCWS runner-up 2026. The lab is open. #WreckEm",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WreckEm"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "Seven All-Americans. One fall camp. Week 2 of Tim Glasco's second year at Texas Tech.\n\nFor the first time in program history, all seven of Tech's All-American-caliber players are practicing together under the same coaching staff. Nicole Beachum (.406 BA, 10 HR, 69 RBI, All-ACC 1st Team from FSU), Jayda Pickering (No. 2 transfer portal player, .384 BA, 50 HR from Oklahoma), and Haley Heavener (LHP, 13-9, 2.81 ERA, 128 K from LSU) headline a group that also includes Terry, Williams, Pannell, Polar, and Burns.\n\nThe Red Raiders were WCWS runner-up in 2026, falling to Texas in the championship series. With a coaching staff in Year 2 and a roster that has now had a full offseason to absorb Glasco's system, expectations are high entering the 2027 season.\n\nThe chemistry being built this fall — combining three distinct program cultures from FSU, Oklahoma and LSU — is what TTU is betting its national title run on.",
+        "image_caption": "Seven All-Americans. Week 2. The chemistry lab is open at Texas Tech. #WreckEm",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-texas-tech-glasco-year2-chemistry.html",
+        "headline": "Seven All-Americans, One Fall Camp: Texas Tech's Chemistry Lab Opens in Glasco's Year 2",
+        "word_count": 724
+      },
+      "image_concepts": [
+        {
+          "label": "Image 6",
+          "size_desc": "All-Americans Lineup Graphic",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Texas Tech Red Raiders — Glasco Year 2\n**Sources consulted:** SI.com TTU fall camp, Heartland Sports TTU preview, D1Softball.com\n**Key verified facts:**\n- Tim Glasco entering Year 2 at Texas Tech — confirmed HIGH\n- Texas Tech was 2026 WCWS runner-up — fell to Texas in championship — confirmed HIGH\n- Nicole Beachum: .406 BA, 10 HR, 69 RBI, All-ACC 1st Team at FSU — confirmed HIGH\n- Jayda Pickering: No. 2 transfer, .384 BA, 50 HR at OU — confirmed HIGH\n- Haley Heavener: LHP, 13-9, 2.81 ERA, 128 K at LSU — confirmed HIGH\n- Seven All-Americans on TTU's 2026-27 roster: Terry, Williams, Pannell, Polar, Pickering, Burns, Beachum — confirmed HIGH\n- Star Gutierrez: first TTU 2028 commit (OF) — confirmed HIGH\n**Confidence:** HIGH for stats and program trajectory\n**Freshness:** Week 2 of fall camp; 7 All-Americans together angle is still fresh through mid-September",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 6
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
