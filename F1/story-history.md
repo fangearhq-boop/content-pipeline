@@ -6755,3 +6755,53 @@
 - **Byline:** Marcus Cole
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Brake fix confirmed, Baku qualifying/race result, Hamilton response
+
+## 2026-09-17
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-17 | T1 | Domenicali's Mid-September Deadline Passed — F1 Still Silent on Qatar and Abu Dhabi | X(2), FB, Article | FOLLOW UP |
+| 2026-09-17 | T1 | Antonelli Title Math: Mexico Clinch Would Shatter Vettel's Record by 3+ Years | X(2), FB, Article | FOLLOW UP |
+| 2026-09-17 | T1 | Baku GP Preview — 9 Days to Saturday's Round 17 | X(2), FB, Article | FOLLOW UP |
+| 2026-09-17 | T2 | Ferrari Leads McLaren 52 Pts in Constructors' — Fight for 2nd With 403 Remaining | X(1), FB, Article | FOLLOW UP |
+| 2026-09-17 | T2 | Kimi Antonelli's 2026 Season in Numbers — 8 Wins, 12 Podiums, 19 Years Old | X(1), FB, Article | NEW |
+
+### STORY 1: F1 Calendar — Deadline Passed
+- **Tier:** 1
+- **Category:** F1 Calendar / Qatar / Abu Dhabi / Domenicali / Middle East
+- **Key facts:** Mid-September Domenicali deadline has passed; Qatar Nov. 29, Abu Dhabi Dec. 6 still on calendar; Bahrain + Saudi already cancelled; Imola = European contingency; 233 pts remaining drops to 208 if both Middle Eastern races cancelled
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official FOM announcement, calendar confirmation/cancellation
+
+### STORY 2: Antonelli Title Record Math
+- **Tier:** 1
+- **Category:** Kimi Antonelli / Mercedes / F1 Championship / Records
+- **Key facts:** Antonelli 292 pts, Russell -81, Hamilton -101, Norris -106; 9 rounds left, 233 pts available; earliest clinch = Singapore; most likely = Mexico City Nov. 1; Mexico clinch age = 20yr 2mo 8days; Vettel record = 23yr 134 days; Antonelli shatters by 3+ years
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Singapore clinch attempt, updated standings post-Baku
+
+### STORY 3: Baku GP Preview
+- **Tier:** 1
+- **Category:** Azerbaijan Grand Prix / Baku / Race Preview
+- **Key facts:** Race Saturday Sept. 26 (first Saturday Baku race); FP1+FP2 Sept. 24; FP3+Qual Sept. 25; 6.003 km street circuit; 2.2 km main straight at 340 kph; setup tension: downforce vs. drag; Williams upgrade; Hamilton never won Baku; Mercedes intra-team battle
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** FP1 pace report, qualifying result, race recap
+
+### STORY 4: Ferrari vs. McLaren Constructors
+- **Tier:** 2
+- **Category:** Ferrari / McLaren / Constructors' Championship
+- **Key facts:** After R14: Mercedes 503, Ferrari 358, McLaren 306; Ferrari leads McLaren by 52; 403 constructors' pts remaining; McLaren need 6+ pts/race better than Ferrari; Baku is high-variance circuit
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Post-Baku constructors update
+
+### STORY 5: Antonelli Season Stats Portrait
+- **Tier:** 2
+- **Category:** Kimi Antonelli / Mercedes / Season Statistics
+- **Key facts:** 8 wins, 6 poles, 12 podiums in 14 races; 20.9 pts/race average; Monza win from P19; still 19 years old (turns 20 in Nov.); 81-pt championship lead
+- **Byline:** Elena Voss
+- **Status:** NEW
+- **Follow-up ideas:** Post-Baku stats update, season milestone celebrations

@@ -1,6 +1,6 @@
 # F1 Fanrecap — Pipeline Status
 
-## Last Run: 2026-09-16
+## Last Run: 2026-09-17
 
 **Status:** COMPLETE (with known proxy limitations)
 **Niche:** F1 Fanrecap
@@ -8,6 +8,36 @@
 **Articles:** 5
 
 ---
+
+## 2026-09-17 Run Log
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research | ✅ Complete | 5 stories — calendar deadline passed, Antonelli record math, Baku preview, Ferrari vs. McLaren constructors, Antonelli stats |
+| Daily Brief | ✅ Complete | 00-daily-brief.md |
+| Research Notes | ✅ Complete | 01-research-notes.md |
+| Story Analysis | ✅ Complete | 02-story-analysis.md |
+| X Posts | ✅ Complete | 03-social-posts-x.md — 8 posts, all ≤280 chars |
+| Facebook Posts | ✅ Complete | 04-social-posts-facebook.md — 5 stories |
+| Image Concepts | ✅ Complete | 05-image-concepts.md |
+| Articles | ✅ Complete | 5 HTML articles |
+| Fact Check | ✅ Complete | 06-fact-check-log.md — 29 claims |
+| Compile Content Data | ✅ Complete | 07-content-data.json — 5 stories, 8 tweets, 5 FB posts, 5 articles |
+| Image Manifest | ✅ Complete | 07-image-manifest.md (10 images, status: not_started) |
+| Story History | ✅ Complete | story-history.md updated |
+| Review Dashboard | ✅ Complete | review-dashboard.html — 28 items |
+| Publish Dashboard | ⚠ Partial | Blocked — content-dashboards not in authorized repo |
+| PostPlanner Export | ⚠ Blocked | openpyxl not installable via proxy |
+| PostPlanner TOBI | ⚠ Blocked | openpyxl not installable via proxy |
+| WordPress Publish | ❌ Blocked | fanrumor.com:443 rejected by egress proxy (403) |
+| Git Push | ✅ Complete | Committed and pushed to main |
+
+**Stories covered:**
+1. T1 FOLLOW UP: Domenicali's Deadline Passed — F1 Still Silent on Qatar and Abu Dhabi
+2. T1 FOLLOW UP: Antonelli Title Math — Mexico Clinch Would Shatter Vettel's Record by 3+ Years
+3. T1 FOLLOW UP: Baku GP Preview — 9 Days to Saturday's Round 17
+4. T2 FOLLOW UP: Ferrari Leads McLaren 52 Pts in Constructors' With 403 Remaining
+5. T2 NEW: Kimi Antonelli's 2026 Season in Numbers — 8 Wins, 12 Podiums, 19 Years Old
 
 ## 2026-09-16 Run Log
 
@@ -38,60 +68,3 @@
 3. T1 FOLLOW UP: Williams "Almost Entirely New Car" for Baku — Sainz and Albon warn of limits
 4. T1 FOLLOW UP: Ferrari vs. McLaren — 52 pts and closing in constructors'
 5. T2 FOLLOW UP: Hamilton's 2026 title is gone — Baku offers redemption
-
----
-
-## 2026-09-15 Run Log
-
-| Step | Status | Notes |
-|------|--------|-------|
-| Research | ✅ Complete | 5 stories — Domenicali calendar deadline, Antonelli title math, Ferrari constructors crisis, Williams Baku upgrade, Hamilton redemption |
-| Daily Brief | ✅ Complete | 00-daily-brief.md |
-| Research Notes | ✅ Complete | 01-research-notes.md |
-| Story Analysis | ✅ Complete | 02-story-analysis.md |
-| X Posts | ✅ Complete | 03-social-posts-x.md — 7 posts |
-| Facebook Posts | ✅ Complete | 04-social-posts-facebook.md |
-| Image Concepts | ✅ Complete | 05-image-concepts.md |
-| Articles | ✅ Complete | 5 HTML articles |
-| Fact Check | ✅ Complete | 06-fact-check-log.md — 20 claims, all HIGH |
-| Compile Content Data | ✅ Complete | 07-content-data.json — 5 stories, 7 tweets, 5 articles |
-| Image Manifest | ✅ Complete | 07-image-manifest.md (not_started) |
-| Story History | ✅ Complete | story-history.md updated |
-| Review Dashboard | ✅ Complete | review-dashboard.html — 22 items |
-| Publish Dashboard | ⚠ Partial | Blocked — content-dashboards not in authorized repo |
-| PostPlanner Export | ⚠ Partial | 0 posts (known parsing issue) |
-| PostPlanner TOBI | ⚠ Partial | 0 posts (known parsing issue) |
-| WordPress Publish | ⚠ Blocked | Proxy policy — fanrumor.com not reachable |
-| Git Push | ✅ Complete | Committed and pushed to main |
-
-**Stories covered:**
-1. T1 FOLLOW UP: Decision Day — Domenicali's Sept. 15 Deadline Arrives for Qatar and Abu Dhabi
-2. T1 FOLLOW UP: Antonelli's Title Math: Singapore Is Earliest, São Paulo Is Most Likely
-3. T2 FOLLOW UP: Ferrari's Constructors' Fight Is in Trouble — McLaren Are Now Just 52 Points Back
-4. T2 NEW: Williams Are Bringing "An Almost Entirely New Car" to Baku
-5. T2 FOLLOW UP: Title Conceded, Baku Next — Hamilton Needs a Response and the Circuit Could Deliver One
-
----
-
-## 2026-09-14 Run Log
-
-| Step | Status | Notes |
-|------|--------|-------|
-| Research | ✅ Complete | 5 stories — Hamilton title concession, Antonelli 81 pts clear, Ferrari constructors crisis, Baku GP preview, Domenicali deadline |
-| Daily Brief | ✅ Complete | 00-daily-brief.md |
-| Research Notes | ✅ Complete | 01-research-notes.md |
-| Story Analysis | ✅ Complete | 02-story-analysis.md |
-| X Posts | ✅ Complete | 03-social-posts-x.md — 7 posts |
-| Facebook Posts | ✅ Complete | 04-social-posts-facebook.md |
-| Image Concepts | ✅ Complete | 05-image-concepts.md |
-| Articles | ✅ Complete | 5 HTML articles |
-| Fact Check | ✅ Complete | 06-fact-check-log.md — 20 claims, all HIGH |
-| Compile Content Data | ✅ Complete | 07-content-data.json — 5 stories, 7 tweets, 5 articles |
-| Image Manifest | ✅ Complete | 07-image-manifest.md (not_started) |
-| Story History | ✅ Complete | story-history.md updated |
-| Review Dashboard | ✅ Complete | review-dashboard.html — 22 items |
-| Publish Dashboard | ⚠ Partial | Blocked — content-dashboards not in authorized repo |
-| PostPlanner Export | ⚠ Partial | 0 posts (known parsing issue) |
-| PostPlanner TOBI | ⚠ Partial | 0 posts (known parsing issue) |
-| WordPress Publish | ⚠ Blocked | Proxy policy — fanrumor.com not reachable |
-| Git Push | ✅ Complete | Committed and pushed to main |
