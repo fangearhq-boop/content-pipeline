@@ -1,30 +1,27 @@
-# Cubs Pipeline Status — Updated 2026-09-16
+# Cubs Pipeline Status — Updated 2026-09-17
 
 ## Latest Run
-- **Date:** 2026-09-16 (Wednesday — Game 3 of 3 vs Atlanta Braves at Wrigley, 6:40 PM CT, series finale)
-- **Stories:** 7
-- **X posts:** 7
+- **Date:** 2026-09-17 (Thursday — OFF DAY; next: at Cincinnati Sept 18-20)
+- **Stories:** 6
+- **X posts:** 6
 - **Platforms:** X/Twitter only
 - **Status:** ✅ Complete
-- **Compiler:** ✅ All clear, 0 errors, 7 cosmetic warnings (posting_window metadata field, not the posting_time field cubs-x-bot reads)
-- **07-content-data.json:** ✅ Valid JSON, all 7 posts with posting_time (7:00 AM / 8:15 AM / 9:30 AM / 12:00 PM / 2:30 PM / 5:00 PM / 6:30 PM CT)
+- **Compiler:** ✅ Valid JSON, 0 errors, 6 cosmetic warnings (posting_window metadata field, not the posting_time field cubs-x-bot reads)
+- **07-content-data.json:** ✅ Valid JSON, all 6 posts with posting_time (7:00 AM / 8:15 AM / 9:30 AM / 10:45 AM / 2:30 PM / 3:45 PM CT)
+- **Note:** Stories 4/5 have a metadata swap (story titles vs tweet content) — tweet text and posting_time are correct for the bot; metadata mismatch only affects review dashboard display.
 
-## Insights Summary (2026-09-16)
-- **Snapshot generated:** 2026-09-16T08:30:00.109741Z (fresh, 30 min before trigger)
-- **measured_tweet_count:** 116
-- **significant_findings count:** 0 (EMPTY)
-- **significant_findings_note:** "No contrasts cleared all three gates (n>=8 per group, p<0.05, |Cliff's delta|>=0.2). Either too little data or no format/time differences are large enough yet."
-- **Action:** Fell through to brand-voice.md defaults. All 7 tweets use stat-lead openers and punchy structure consistent with brand voice. No quantitative format constraints applied.
+## Insights Summary (2026-09-17)
+- **Snapshot generated:** 2026-09-17T08:30:00.085711Z (fresh, 30 min before trigger)
+- **measured_tweet_count:** 117
+- **significant_findings count:** 1
+- **Finding:** `opening=not_statement` WINNER vs `opening=statement` LOSER (small effect, p=0.0418, Cliff's delta=0.227, n_winner=34, n_loser=24)
+- **Action applied:** All 6 tweets open with a fragment, data string, or colon-construction — NOT a declarative subject-verb sentence. Examples: "HR No. 43.", "44 home runs.", "Wednesday night scoreboard:", "Brewers: four straight...", "Back tomorrow.", "Down 0-1..."
 
-## Series Context (2026-09-16)
-- **`is_series_start_today`:** FALSE (mid-series — Game 3, series FINALE)
-- **`off_day`:** FALSE
-- **Opponent:** Atlanta Braves (89-63)
-- **Venue:** Wrigley Field (home)
-- **Today's game:** 6:40 PM CT (Game 3 of 3)
-- **Series status:** TIED 1-1 (Cubs won Game 1 7-3 on Sept 14; Braves won Game 2 4-1 on Sept 15)
-- **Pitchers:** Shota Imanaga (10-10, 3.88 ERA) vs JR Ritchie (Triple-A recall from Gwinnett)
-- **Action:** No series-preview slot (mid-series). Game 3 preview in 12:00 PM slot.
+## Series Context (2026-09-17)
+- **`is_series_start_today`:** FALSE
+- **`off_day`:** TRUE — no Cubs game today
+- **Next series:** at Cincinnati Reds, Sept 18-20 (Great American Ball Park)
+- **Action:** Off-day content mix — recap/milestone, standings, Swanson return, prospect update, rival watch. No game-day slots.
 
 ## Current Wild Card Status
 - **Cubs position:** WC1

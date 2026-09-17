@@ -7551,3 +7551,57 @@ Each day's stories are appended at the top (newest first).
   - Return game performance
   - October roster implications
 
+
+## 2026-09-17
+
+### STORY 1: PCA Franchise Record — HR #43 Breaks Billy Williams, #44 in Same Night
+- **Angle:** FOLLOW UP (PCA now 44 HR / 37 SB after last night's 8-4 win vs Braves; HR #43 broke Billy Williams' Cubs franchise record for LH homers [set 1970]; HR #44 in same game; went 3-for-4/3 RBI/3 runs; per opening=not_statement insight, opened with fragment "HR No. 43.")
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, morning recap)
+- **Follow-Up Opportunities:**
+  - PCA 40-40 completion (3 SBs needed in 9 games)
+  - NL MVP candidacy coverage
+  - PCA individual season wrap as regular season ends
+
+### STORY 2: PCA 40-40 Chase — 44 HR / 37 SB, Three Away
+- **Angle:** FOLLOW UP (44/37; needs 3 SBs; 9 games left; six MLB players ever; no Cub ever; opening fragment: "44 home runs.")
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold take)
+- **Follow-Up Opportunities:**
+  - Each stolen base en route to 40 SB
+  - 40-40 achievement announcement
+  - Post-season 40-40 celebration if achieved
+
+### STORY 3: Wild Card Watch — Cubs 85-68, WC1 After Rivals All Lost
+- **Angle:** FOLLOW UP (Cubs 85-68 WC1; Phillies/Padres/D-backs all lost Wednesday; Cubs hold tiebreakers; 9 games left; opening label fragment)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, informative standings)
+- **Follow-Up Opportunities:**
+  - Daily standings update
+  - Wild card clinch magic number
+  - WC clinch announcement
+
+### STORY 4: Swanson Return — Targeting Sept 18 Activation at Cincinnati
+- **Angle:** FOLLOW UP (activation targeted for tomorrow Sept 18; Grade 2 oblique since Aug 16; Iowa rehab done; Jared Young to Iowa; two-time Gold Glover returns for October; opening fragment "Back tomorrow.")
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, roster news)
+- **Follow-Up Opportunities:**
+  - Swanson activation official announcement
+  - First game back performance
+  - October lineup implications
+
+### STORY 5: Brewers Clinch NL Central — 4th Straight Title
+- **Angle:** NEW STORY (Brewers clinched NL Central Tuesday, 4th consecutive title; 94-57 record; no WS ring since 1982; Cubs WC1 hosting playoff series at Wrigley; rival jab; opening colon-fragment: "Brewers: four straight NL Central titles.")
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, rival watch)
+- **Follow-Up Opportunities:**
+  - October bracket preview (Brewers vs Dodgers likely)
+
+### STORY 6: Knoxville Smokies Playoff Game 2 — Must-Win at Home
+- **Angle:** FOLLOW UP (Smokies lost Game 1 at Rocket City 9-2; Game 2 today at Covenant Health Park; best-of-3 AA Southern League playoffs; opening fragment "Down 0-1 in the Southern League playoffs.")
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, prospect update)
+- **Follow-Up Opportunities:**
+  - Game 2 result (tonight)
+  - Game 3 if needed
+  - Smokies playoff elimination or advance

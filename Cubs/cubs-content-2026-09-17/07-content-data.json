@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-17",
+  "compiled_at": "2026-09-17T09:16:02.764144+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "PCA Franchise Record — Breaks Billy Williams, Hits Two Homers",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "HR No. 43. That's when PCA broke Billy Williams' Cubs record for home runs by a left-handed hitter — a record that had stood since 1970.\n\nThen he hit No. 44 in the same game.\n\n3-for-4. 3 RBI. 3 runs. Cubs 8-4. Season: 44 HR / 37 SB.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "FOLLOW UP (PCA HR watch ongoing; Williams tie was from prior game; RECORD broken last night is NEW)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "PCA 40-40 Chase — Three Away With 9 Games Left",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "44 home runs. 37 stolen bases. Nine games left.\n\nThree steals. That's all that stands between Pete Crow-Armstrong and the most exclusive club in baseball — six players in MLB history with a 40-40 season.\n\nNo Cub has EVER done this.\n\n#Cubs #ChicagoCubs #GoCubs",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "FOLLOW UP (milestone count update with new urgency)",
+          "hashtags": [
+            "#Cubs",
+            "#ChicagoCubs",
+            "#GoCubs"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Wild Card Watch — Cubs 85-68, Lead Phillies by 1.5+ Games",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Wednesday night scoreboard:\n\nCubs: Win. 85-68. WC1.\nPhillies: Loss.\nPadres: Loss.\nD-backs: Loss.\n\nNine games left. Cubs hold tiebreakers over every wild card rival.\n\nWild Card Series at Wrigley is right there.\n\n#Cubs #MLB #NorthSiders",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "FOLLOW UP",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#NorthSiders"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Swanson Returns Tomorrow — Sept 18 at Cincinnati",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Brewers: four straight NL Central titles.\n\nAlso: zero World Series rings since 1982.\n\nMeanwhile, the Cubs are hosting a playoff series at Wrigley this October.\n\nDifferent vibes entirely.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "FOLLOW UP",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 206
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Brewers Clinch NL Central — Cubs Watching From WC Slot",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Back tomorrow.\n\nDansby Swanson — out since Aug. 16 with a Grade 2 oblique — is set to be activated Friday when the Cubs open in Cincinnati.\n\nTwo-time Gold Glover. Nine games to get sharp. Then October.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "NEW STORY (clinch happened this week)",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 227
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Knoxville Smokies Playoff Push — Game 2 Today",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Down 0-1 in the Southern League playoffs.\n\nGame 2 tonight in Knoxville — the Cubs' Double-A affiliate hosting Rocket City in a must-win.\n\nLose and the season's over. Win and it's a Game 3 decider.\n\nFuture Cubs on the line.\n\n#Cubs #CubsBaseball #GoCubs",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "FOLLOW UP (GM 1 loss on Sept 15 already covered; GM 2 is today)",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#GoCubs"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
