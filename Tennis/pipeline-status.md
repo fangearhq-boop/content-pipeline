@@ -1,6 +1,37 @@
 # Tennis Fanrecap — Pipeline Status
 
-## Current Run: 2026-09-16
+## Current Run: 2026-09-17
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Djokovic China Open return (dawn.com/tntsports/yardbarker/atptour); Laver Cup squads (lavercup.com/skysports/tennistemple); Davis Cup QR2 (daviscup.com/tenniscanada.com); Alcaraz fall schedule (tennis365/alcarazdaily); WTA Asian Swing (wtatennis.com/tennistourtalk) |
+| Story History Check | COMPLETE | S1 NEW (Djokovic China Open return — first dedicated coverage); S2 FOLLOW-UP (Sep 16 Laver Cup preview → full squads confirmed); S3 FOLLOW-UP (Sep 16 Davis Cup format overview → match-day preview); S4 NEW (Alcaraz full fall schedule); S5 NEW (WTA Asian Swing — Wuhan all top-10 field) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2); bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: dawn.com, tntsports.co.uk, yardbarker.com, olympics.com, tennis365.com, khelnow.com, tennisuptodate.com, chinadaily.com.cn, atptour.com, gamereactor.eu, lavercup.com, skysports.com, en.tennistemple.com, x.com/alcarazdaily, daviscup.com, tenniscanada.com, wtatennis.com, tennistourtalk.com |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 8 posts across 5 stories; all ≤280 chars verified; fixed S1 tweet #1 from 298→270 chars |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 9 imagn concepts across 5 stories |
+| Articles (5) | COMPLETE | article-01 Djokovic China Open return (Elena Voss T1); article-02 Laver Cup squads (Marcus Cole T1); article-03 Davis Cup QR2 preview (Ryan Calloway T1); article-04 Alcaraz fall schedule (Elena Voss T2); article-05 WTA Asian Swing (Marcus Cole T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — auto-generated; 69 claims, HIGH; image missing warnings cosmetic (imagn, known) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 5 articles; posting-window warnings cosmetic (known) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 9 entries, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 23 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser issue — same as all prior runs |
+| WordPress Publish | BLOCKED | 403 proxy — fanrumor.com blocked (known recurring issue) |
+| Story History | COMPLETE | 5 entries prepended to Tennis/story-history.md (Sep 17 section) |
+
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 5 FB posts (5 long-form + 5 captions) = 13 total
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
+- **PostPlanner exports:** 0 posts (known parser compat issue)
+- **Key stories:** Djokovic confirms China Open return after 11-year absence (6-time champion, dropped to No. 12 after US Open R1 loss to Navone 7-6(5), 5-7, 4-6, 6-2, 6-1); Laver Cup full squads: Europe (Alcaraz, Zverev, Ruud, Cobolli, Mensik, Jodar) vs World (Shelton, Fritz, de Minaur, Bublik, Tien, Paul) — Sinner absent; Davis Cup QR2 starts tomorrow (Canada vs France, Quebec City); Alcaraz fall: Laver Cup→Tokyo→Shanghai→Six Kings→Paris; WTA Wuhan all top-10 confirmed (Rybakina, Sabalenka, Pegula, Gauff, Andreeva, Noskova)
+- **Issues:** S1 tweet #1 trimmed from 298→270 chars; PostPlanner 0 posts (known); WordPress blocked by proxy; dashboard push blocked (not in session authorized repos)
+
+---
+
+## Previous Run: 2026-09-16
 
 | Step | Status | Notes |
 |------|--------|-------|
