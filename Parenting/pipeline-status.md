@@ -1,6 +1,37 @@
 # COS Parenting — Pipeline Status
 
-## Current Run: 2026-09-16
+## Current Run: 2026-09-17
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Two toddler kitchen tower recalls: Boon PIVOT (TOMY, 116,908 units, Target/Amazon/Babylist, Jan 2023–Jun 2026, ~$150, 0 injuries, recall.tomy.com/pivot) and Woodure (91,000 units, 3 models, Amazon, Jul 2024–Jun 2026, $60–$100, 15 injuries, wwoodure.com/recall) — confirmed cpsc.gov; AAP 2026-27 COVID vaccine guidance — infants 6-23 months recommended, high-risk 2-18 recommended, healthy 2-18 offered if parent wants — confirmed publications.aap.org/pediatrics doi 10.1542/peds.2026-079045; Pikes Peak Regional Airshow Sep 19-20 (gates 8:30 AM, demos 10:50 AM–2:25 PM, free parking, under 3 free, pprairshow.org); CMZoo Military Week through Sep 20 (50% off), Giraffe Center open, Dog Days Sep 23; Cool Science Festival Oct 3-18 (UCCS Carnival Day Oct 3, coolscience.org) |
+| Story History Check | COMPLETE | S1 Two toddler tower recalls (NEW — distinct from Sep 16 dresser recalls); S2 AAP COVID vaccine 2026-27 (NEW); S3 Airshow day-of prep (FOLLOW-UP — Sep 16 was ticket guide; today = logistics/prep angle); S4 CMZoo final days + Dog Days (FOLLOW-UP — Sep 15 was Giraffe Center opening); S5 Cool Science Festival (FOLLOW-UP — Sep 9 first coverage) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: cpsc.gov, recall.tomy.com/pivot, wwoodure.com/recall, publications.aap.org/pediatrics, pprairshow.org, cmzoo.org, coolscience.org |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows, voice check |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 8 posts across 5 stories; all ≤280 chars verified; 4 hashtags each; 0 exclamation marks; COS voice rules applied |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; no hashtags; engagement questions; COS voice rules applied |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only prompts; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 two toddler tower recalls (Jamie Rivera, T1, QR table); article-02 AAP COVID vaccine (Sarah Morales, T1, QR table); article-03 airshow day-of guide (Jamie Rivera, T2); article-04 CMZoo military week + Dog Days (Sarah Morales, T2); article-05 Cool Science Festival countdown (Jamie Rivera, T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 77 claims; HIGH/MEDIUM/LOW prioritized; image missing warnings cosmetic (Gemini images generated separately) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 5 FB posts, 5 articles, 10 images |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries (2 per story), all not_started, gemini base_only, brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 28 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser compat issue — ran both standard and --tobi |
+| WordPress Publish | BLOCKED | 403 proxy — fanrumor.com blocked (known recurring issue) |
+| Story History | COMPLETE | 5 new entries prepended to Parenting/story-history.md (Sep 17 section) |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 8 X posts + 5 FB posts (5 long-form + 5 captions) = 13 total
+- **Articles:** 5 (bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4])
+- **PostPlanner exports:** 0 posts (known parser compat issue)
+- **Key stories:** Two toddler kitchen tower recalls combined 207K+ units (Boon PIVOT/TOMY + Woodure, free repair kits via cpsc.gov); AAP 2026-27 COVID vaccine guidance (infants 6-23 months recommended, older high-risk kids recommended, healthy 2-18 parent's choice); Pikes Peak Regional Airshow THIS WEEKEND Sep 19-20 (day-of logistics focus, pprairshow.org); CMZoo Military Week final days through Sep 20 50% off + new Giraffe Center + Dog Days Sep 23; Cool Science Festival Oct 3-18 preview (coolscience.org)
+- **Issues:** PostPlanner 0 posts (known); WordPress blocked by proxy; dashboard push blocked (not in session authorized repos)
+
+---
+
+## Previous Run: 2026-09-16
 
 | Step | Status | Notes |
 |------|--------|-------|

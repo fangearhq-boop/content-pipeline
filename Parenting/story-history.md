@@ -2,6 +2,50 @@
 
 ---
 
+## September 17, 2026
+
+### Story 1: Two Toddler Kitchen Towers Recalled — More Than 207,000 Units Combined
+- **Date:** 2026-09-17
+- **Tier:** T1
+- **Pillar:** National Parenting (Product Safety)
+- **Key Facts:** Boon PIVOT (TOMY, 116,908 units, Target/Amazon/Babylist, Jan 2023–Jun 2026, ~$150, 0 injuries, recall.tomy.com/pivot); Woodure (91,000 units, 3 models WD1764/WD1357/WD1720, Amazon, Jul 2024–Jun 2026, $60–$100, 15 injuries, wwoodure.com/recall); both: stop use, free repair kit available; cpsc.gov
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 2: AAP Issues 2026–2027 COVID Vaccine Guidance for Kids
+- **Date:** 2026-09-17
+- **Tier:** T1
+- **Pillar:** National Parenting (Health)
+- **Key Facts:** AAP recommends 2026-27 COVID vaccine for all infants 6-23 months; high-risk children 2-18 (immunocompromised, congregate settings, unvaccinated, household contact at risk): 1 dose recommended; healthy kids 2-18 not at risk: offered if parent wants; policy statement doi 10.1542/peds.2026-079045; healthychildren.org
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 3: Pikes Peak Regional Airshow — Day-of Prep Guide
+- **Date:** 2026-09-17
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Sep 19-20, COS Airport (7330 Embraer Heights); gates 8:30 AM, flying demos 10:50 AM–2:25 PM; free parking (arrive early); earplugs/headphones for kids; under 3 free; pprairshow.org online-only; day-of logistics angle (Sep 16 covered tickets/schedule)
+- **Byline:** Jamie Rivera
+- **Status:** FOLLOW-UP (Sep 16: ticket/schedule guide; Sep 17: day-of logistics/prep)
+
+### Story 4: CMZoo Military Appreciation Week Final Days + Dog Days Preview
+- **Date:** 2026-09-17
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Military Appreciation Week through Sep 20, 50% off base admission for active-duty/veteran/retired military + household dependents; Giraffe Center opened Sep 15 (12K sq ft, 11 feeding zones, $40M); Stroller Safaris through Oct 4; Dog Days at the Zoo Sep 23; cmzoo.org; 4250 Cheyenne Mountain Zoo Rd
+- **Byline:** Sarah Morales
+- **Status:** FOLLOW-UP (Sep 15: CMZoo/Giraffe Center opening; Sep 17: final 3 days + Dog Days preview)
+
+### Story 5: Cool Science Festival — 2-Week Countdown
+- **Date:** 2026-09-17
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Cool Science Festival Oct 3-18 across COS; UCCS Carnival Day Oct 3 (largest family event); free and low-cost STEM events at multiple COS venues; nonprofit; coolscience.org for schedule/registration
+- **Byline:** Jamie Rivera
+- **Status:** FOLLOW-UP (Sep 9: first coverage; Sep 17: 2-week countdown preview)
+
+---
+
 ## September 16, 2026
 
 ### Story 1: Pikes Peak Regional Airshow — Family Guide
