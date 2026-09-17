@@ -5,6 +5,59 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-09-17
+
+### Story 1: PCA — 44 HR, 3 Steals From 40-40 Club
+- **Date:** 2026-09-17
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** PCA hit HRs 43 AND 44 in 8-4 Cubs win over Atlanta on Sept 16 (3-for-4, 3 RBI, 3 runs). First Cub ever to hit 44 HR — broke Billy Williams' LH franchise record of 42 set in 1970. SB still at 37, needs 3 more for 40-40 club (would be 7th member ever). Cubs 84-68 WC1.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Daily SB tracker — 3 more needed
+  - If PCA achieves 40-40, breaking feature
+
+### Story 2: Brewers Clinch NL Central — 4th Consecutive Title
+- **Date:** 2026-09-17
+- **Tier:** 1
+- **Classification:** NEW
+- **Angle:** Brewers clinched 4th straight NL Central title on Sept 15 with 5-1 win over Pirates at PNC Park. Misiorowski 7K in 5 shutout IP. Clinch came via Cubs loss to Atlanta same night. 94-57, first to clinch in 2026. First team to win 4 straight NL Central since division created 1994. No. 1 NL seed with first-round bye.
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Misiorowski Cy Young announcement (offseason)
+  - Brewers October rotation management
+
+### Story 3: Yordan Alvarez — Triple Crown Slipping
+- **Date:** 2026-09-17
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Alvarez .310 BA leads AL but trails Caminero (Rays) 41-38 in HR and Alonso (BAL) ~100-96 in RBI. Cold since Aug 2: .242/3HR/12RBI in 35G. ~10 games left. Last AL TC: Cabrera 2012.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Final 10 games Triple Crown math daily
+
+### Story 4: NL Wild Card Race — Cubs Catch Breaks
+- **Date:** 2026-09-17
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Phillies, Padres AND D-backs all lost Sept 17. Cubs WC1 at 84-68, 1.0 over Phillies (WC2), 1.5 over Padres (WC3), D-backs 4.0 out. Wild Card starts Sept 29. Sept 25-27 Padres host D-backs at Petco potentially decisive.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Sept 25-27 Padres-D-backs at Petco
+  - NL Wild Card Series Sept 29 matchups
+
+### Story 5: Aaron Judge — Injury Scare, Yankees October
+- **Date:** 2026-09-17
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Judge exited Sept 16 game vs Twins in 6th inning with right lower-leg tightness (0-for-2 when lifted for Heliot Ramos). Said he felt it in the 1st inning in the field. Boone: "Hopefully it's something we were able to catch." No timetable. Just 9 days after returning from 99-day rib fracture IL. Yankees 61st postseason berth clinched. Managing for October.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Judge health updates daily until Wild Card Sept 29
+  - Yankees postseason ceiling with/without healthy Judge
+
+---
+
 ## 2026-09-16
 
 ### Story 1: PCA — 40-40 Watch, Three Steals Away
