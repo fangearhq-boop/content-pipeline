@@ -6974,3 +6974,53 @@
 - **Byline:** Marcus Cole
 - **Status:** NEW
 - **Follow-up ideas:** Foundation programming details, preseason Oct. 6 game recap
+
+## 2026-09-17
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-17 | T1 | 11 Days to Warriors Media Day — Curry Extension Still Unsigned | X(2), FB, Article | FOLLOW UP |
+| 2026-09-17 | T1 | DOJ Clippers Probe Enters Fourth Week — Subpoenas Issued, No Charges Filed | X(2), FB, Article | FOLLOW UP |
+| 2026-09-17 | T1 | Duren "Emboldened" to Sign $9.6M QO as Kings Reportedly Prep Max Offer | X(2), FB, Article | FOLLOW UP |
+| 2026-09-17 | T1 | Oct. 20 Opening Night: Knicks Raise Banner, Then Face LeBron's 76ers | X(2), FB, Article | NEW |
+| 2026-09-17 | T2 | 16 Months After Torn Achilles, Haliburton Returns to Pacers Camp | X(1), FB, Article | NEW |
+
+### STORY 1: Stephen Curry Extension — 11 Days
+- **Tier:** 1
+- **Category:** Golden State Warriors / Stephen Curry / Contract Extension
+- **Key facts:** 11 days to Sept. 28 Warriors media day; 2yr/$136.7M eligible; would make Curry first player to $600M career earnings; Warriors "letting Curry decide structure"; mutual interest confirmed; training camp Sept. 29
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Extension signed Sept. 27-28, or media day unsigned creates pressure
+
+### STORY 2: DOJ Clippers Probe Week Four
+- **Tier:** 1
+- **Category:** Los Angeles Clippers / DOJ / Kawhi Leonard / EDNY
+- **Key facts:** EDNY criminal probe ongoing, "earliest stages"; at least one subpoena issued; no charges; NBA penalties in place ($30M, 5 picks, Ballmer 1yr suspended, Frank 6mo, Zucker 1yr, Robertson 5yr, Leonard $700K); Leonard now with Raptors
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Additional subpoenas, grand jury activity, DOJ announcement
+
+### STORY 3: Jalen Duren "Emboldened" — Kings Max
+- **Tier:** 1
+- **Category:** Detroit Pistons / Jalen Duren / Qualifying Offer / Sacramento Kings
+- **Key facts:** Oct. 1 deadline = 14 days; QO=$9.6M; Pistons offer $190M/5yr ($38M AAV); Duren "emboldened" by Kings reportedly prepared to offer max next offseason; if QO accepted, Pistons lose matching rights; hard deadline March 1, 2027
+- **Byline:** Damon Pierce
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** QO accepted, deal signed, Kings formally confirmed, deadline extended
+
+### STORY 4: Knicks Opening Night vs. 76ers — Oct. 20
+- **Tier:** 1
+- **Category:** New York Knicks / Philadelphia 76ers / Opening Night / Schedule
+- **Key facts:** Opening Night Oct. 20, 7 PM ET, NBC/Peacock; Knicks raise first banner since 1973 (beat Spurs in 5); LeBron James + Jaylen Brown make 76ers debuts at MSG; Celtics-Pistons (3 PM), Thunder-Spurs also on Opening Night
+- **Byline:** Jake Torres
+- **Status:** NEW
+- **Follow-up ideas:** Banner ceremony details, 76ers roster preview, Opening Night coverage
+
+### STORY 5: Tyrese Haliburton Returns to Pacers Camp
+- **Tier:** 2
+- **Category:** Indiana Pacers / Tyrese Haliburton / Training Camp / Achilles Recovery
+- **Key facts:** Haliburton tore Achilles in 2025 NBA Finals; expected full return for camp Sept. 29 (16 months later); Ivica Zubac acquired from Clippers; recovery described as on schedule
+- **Byline:** Marcus Cole
+- **Status:** NEW
+- **Follow-up ideas:** Camp health report, preseason minutes, Pacers preview
