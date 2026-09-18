@@ -1,6 +1,37 @@
 # Tennis Fanrecap — Pipeline Status
 
-## Current Run: 2026-09-17
+## Current Run: 2026-09-18
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Shelton/Paul Laver Cup withdrawals (local10.com/nbcsports/espn/atptour/yardbarker/tennistourtalk/tennistemple); Davis Cup QR2 Day 1 Canada vs France (tenniscanada.com/ctvnews.ca); China Open field (atptour.com/yahoo sports/puntodebreak/ChinaOpen twitter); Wuhan full top-10 (ianslive.in/thepeninsulaqatar.com/tennistourtalk); Djokovic social message (tennis365.com/skysports/forbes) |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Sep 17 Laver Cup squads → two World withdrawals); S2 FOLLOW-UP (Sep 17 Davis Cup preview → Day 1 live); S3 FOLLOW-UP (Sep 17 Djokovic entry + Sep 16 Sinner knee → full field confirmed); S4 FOLLOW-UP (Sep 17 WTA Asian Swing → full top-10 + Swiatek); S5 FOLLOW-UP (Sep 17 Djokovic entry → personal/career angle) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2); bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: atptour.com, nbcsports.com, espn.com, local10.com, yardbarker.com, tennistourtalk.com, en.tennistemple.com, tenniscanada.com, ctvnews.ca, lta.org.uk, daviscup.com, yahoo sports, puntodebreak.com, ianslive.in, thepeninsulaqatar.com, tennis365.com, skysports.com, forbes.com |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 8 posts across 5 stories; all ≤280 chars verified |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 9 imagn concepts across 5 stories |
+| Articles (5) | COMPLETE | article-01 Laver Cup reshuffled (Elena Voss T1); article-02 Davis Cup Canada-France Day 1 (Marcus Cole T1); article-03 China Open back-to-back bid (Ryan Calloway T1); article-04 Wuhan top-10 field (Elena Voss T2); article-05 Djokovic Beijing mission (Marcus Cole T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — auto-generated; 46 claims, HIGH; image missing warnings cosmetic (imagn, known) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 5 articles; posting-window warnings cosmetic (known) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 9 entries, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 23 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser issue — same as all prior runs |
+| WordPress Publish | BLOCKED | 403 proxy — fanrumor.com blocked (known recurring issue) |
+| Story History | COMPLETE | 5 entries prepended to Tennis/story-history.md (Sep 18 section) |
+
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 5 FB posts (5 long-form + 5 captions) = 13 total
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
+- **PostPlanner exports:** 0 posts (known parser compat issue)
+- **Key stories:** Laver Cup Team World reshuffled — Shelton out (Davis Cup conflict), Nakashima in; Paul out (elbow), Cerundolo in; Zverev-Shelton rematch off. Davis Cup QR2 Day 1: Canada vs France (Quebec City, 5 PM ET), FAA leads; Davis Cup tie also: GB-Ecuador, Chile-Germany, Austria-Belgium. China Open field: 7 of top 10 in Beijing, Sinner (defending) bids for first back-to-back since Djokovic 2015, Djokovic 29-0 record returns. Wuhan: all top-10 WTA confirmed including Swiatek; Sabalenka 20-1 record. Djokovic's personal Beijing mission — return to top 10.
+- **Issues:** PostPlanner 0 posts (known); WordPress blocked by proxy; dashboard push blocked (not in session authorized repos)
+
+---
+
+## Previous Run: 2026-09-17
 
 | Step | Status | Notes |
 |------|--------|-------|

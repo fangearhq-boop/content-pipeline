@@ -1,0 +1,283 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-18",
+  "compiled_at": "2026-09-18T12:23:06.500684+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Laver Cup Team World Reshuffled — Shelton Out, Nakashima In; Paul Out, Cerundolo In",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Team World just lost two players ahead of Laver Cup.\n\nShelton out — Davis Cup conflict. Paul out — elbow injury.\n\nIn: Nakashima (No. 16) and Cerundolo. Zverev-Shelton rematch is OFF.\n\nSep 25, The O2 London. #LaverCup #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LaverCup",
+            "#Tennis"
+          ],
+          "char_count": 224
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Updated Laver Cup Team World (Sep 25–27, London):\n\nTaylor Fritz, Alex de Minaur, Alexander Bublik, Learner Tien, Brandon Nakashima, Francisco Cerundolo.\n\nNo Shelton. No Paul. Still dangerous for Team Europe. #LaverCup #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LaverCup",
+            "#Tennis"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-laver-cup-shelton-out-nakashima-in.html",
+        "headline": "Laver Cup Team World Reshuffled: Shelton Out With Davis Cup Conflict, Nakashima Steps In",
+        "word_count": 602
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Laver Cup Team World Reshuffled\n\n**Image 1** (S1-social-1)\n- Type: Social (1080x1350)\n- Search term: \"Brandon Nakashima\"\n- Credit: (Imagn Images)\n- Usage: Main post image for Shelton withdrawal / Nakashima replacement story\n\n**Image 2** (S1-social-2)\n- Type: Social (1080x1350)\n- Search term: \"Ben Shelton\"\n- Credit: (USA TODAY Sports Images)\n- Usage: Support image showing the departing player for context\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Laver Cup Team World Reshuffled\n| Claim | Source | Confidence |\n|-------|--------|------------|\n| Ben Shelton withdrew from Laver Cup; replaced by Nakashima | local10.com, nbcsports.com, espn.com, atptour.com | HIGH |\n| Shelton's reason: Davis Cup conflict (Team USA vs Czech Republic, from Friday) | nbcsports.com | HIGH |\n| Brandon Nakashima ranked No. 16 ATP; Laver Cup debut | atptour.com | HIGH |\n| Tommy Paul withdrew Sep 12; elbow injury from US Open | yardbarker.com, tennistourtalk.com, en.tennistemple.com, yahoo sports | HIGH |\n| Paul's replacement: Francisco Cerundolo | yardbarker.com, tennistourtalk.com | HIGH |\n| Cerundolo: 4th consecutive Laver Cup | en.tennistemple.com | MEDIUM |\n| Updated Team World: Fritz, de Minaur, Bublik, Tien, Nakashima, Cerundolo | lavercup.com, atptour.com | HIGH |\n| Team Europe unchanged: Alcaraz, Zverev, Ruud, Cobolli, Mensik, Jodar | lavercup.com (Sep 17 confirmed) | HIGH |\n| Laver Cup: Sep 25–27, The O2 London | lavercup.com | HIGH |\n| Team Europe 8-0 all-time record (lost 2025) | lavercup.com (Sep 17 research) | HIGH |\n**URLs:**\n- https://www.atptour.com/en/news/nakashima-laver-cup-announcement-2026\n- https://www.nbcsports.com/tennis/news/us-open-runner-up-ben-shelton-withdraws-from-laver-cup-replaced-by-brandon-nakashima\n- https://www.espn.com/tennis/story/_/id/49963672/nakashima-replaces-us-open-runner-shelton-laver-cup\n- https://www.yardbarker.com/tennis/articles/american_star_ruled_out_of_laver_cup_after_us_open_injury_as_team_world_confirmed_replacement/s1_17460_44300718\n- https://tennistourtalk.com/137402/francisco-cerundolo-joins-team-world-for-laver-cup-london-2026\n- https://en.tennistemple.com/actu/laver-cup-tommy-paul-withdraws-francisco-cerundolo/uadP",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Davis Cup QR2 Day 1 — Canada vs. France Opens Tonight in Quebec City",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Canada vs. France TONIGHT in Quebec City — Davis Cup time.\n\nNo. 4 Felix Auger-Aliassime leads Canada against Arthur Fils (No. 7) and France. First serve: 5:00 PM ET.\n\nSeven spots available for Bologna Finals. #DavisCup #TeamCanada",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#DavisCup",
+            "#TeamCanada"
+          ],
+          "char_count": 230
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Davis Cup QR2 is LIVE across multiple venues.\n\nNo. 4 FAA leads Canada vs. France in Quebec City. GB vs. Ecuador in London. Chile vs. Germany in Santiago.\n\nWho advances to the Davis Cup Finals? #DavisCup #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#DavisCup",
+            "#Tennis"
+          ],
+          "char_count": 210
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-davis-cup-canada-france-day-1.html",
+        "headline": "Davis Cup QR2 Opens Tonight: Auger-Aliassime Leads Canada vs. France in Quebec City",
+        "word_count": 541
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Davis Cup QR2 Day 1 — Canada vs. France\n\n**Image 3** (S2-social-1)\n- Type: Social (1080x1350)\n- Search term: \"Felix Auger-Aliassime Canada\"\n- Credit: (Imagn Images)\n- Usage: Main post image — FAA leading Canada into Quebec City tie\n\n**Image 4** (S2-social-2)\n- Type: Social (1080x1350)\n- Search term: \"Liam Draxl\"\n- Credit: (USA TODAY Sports Images)\n- Usage: Support image for Canada's No. 2 singles player\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Davis Cup QR2 Day 1 — Canada vs. France\n| Claim | Source | Confidence |\n|-------|--------|------------|\n| Canada vs. France: Centre Vidéotron, Quebec City, Sep 18–19 | tenniscanada.com | HIGH |\n| Day 1 start time: 5:00 PM ET | tenniscanada.com | HIGH |\n| FAA (No. 4) leads Canada, plays singles + doubles | tenniscanada.com, ctvnews.ca | HIGH |\n| Canada lineup: FAA, Liam Draxl (No. 2 singles), Duncan Chan (doubles debut) | tenniscanada.com | HIGH |\n| France lineup: Arthur Fils (No. 7), Rinderknech, Halys, Herbert | tenniscanada.com | HIGH |\n| Day 1 singles: Draxl vs. Rinderknech (Match 1), FAA vs. Halys (Match 2) | tenniscanada.com | HIGH |\n| Best-of-five format | daviscup.com | HIGH |\n| Winner to Davis Cup Final 8, Bologna, Nov 24–29 | tenniscanada.com, daviscup.com | HIGH |\n| Other ties: GB vs. Ecuador (London), Chile vs. Germany (Santiago), Austria vs. Belgium (Vienna) | lta.org.uk, daviscup.com | MEDIUM |\n**URLs:**\n- https://www.tenniscanada.com/news/pro-tennis/2026/felix-auger-aliassime-gabriel-diallo-liam-draxl-and-duncan-chan-join-team-canada-for-davis-cup-qualifiers-in-quebec-city\n- https://www.tenniscanada.com/news/pro-tennis/2026/auger-aliassime-to-pull-double-duty-for-canada-at-davis-cup-draw-analysis\n- https://www.ctvnews.ca/montreal/sports/article/felix-auger-aliassime-leads-canada-into-davis-cup-tie-vs-france-in-quebec-city/\n- https://www.lta.org.uk/fan-zone/gb-teams/davis-cup/news/2026/great-britain-vs-ecuador-results-and-updates/",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "China Open Field Confirmed — Sinner Bids to be First Back-to-Back Champion Since Djokovic 2015",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "China Open field is OFFICIALLY set.\n\nSeven of the world's top 10 in Beijing (Sep 30–Oct 6):\n\nSinner (defending), Djokovic (29-0 all-time), Zverev (US Open champ), FAA, Medvedev...\n\nThis field is historic. #ChinaOpen #Tennis #ATPTour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ChinaOpen",
+            "#Tennis",
+            "#ATPTour"
+          ],
+          "char_count": 232
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Sinner (defending champion) vs. Djokovic (29-0 in Beijing) at the China Open.\n\nSinner: first back-to-back bid since Djokovic 2015.\nDjokovic: comeback mission, dropped to No. 12.\n\nThis matchup writes itself. #ChinaOpen #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ChinaOpen",
+            "#Tennis"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-sinner-china-open-back-to-back-bid.html",
+        "headline": "China Open Field Set: Sinner Bids for First Back-to-Back Title Since Djokovic in 2015",
+        "word_count": 595
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "China Open — Sinner Back-to-Back Bid\n\n**Image 5** (S3-social-1)\n- Type: Social (1080x1350)\n- Search term: \"Jannik Sinner\"\n- Credit: (Imagn Images)\n- Usage: Main post image — Sinner as defending champion targeting return\n\n**Image 6** (S3-social-2)\n- Type: Social (1080x1350)\n- Search term: \"Novak Djokovic\"\n- Credit: (USA TODAY Sports Images)\n- Usage: Support image — Djokovic as 29-0 Beijing record holder returning\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "China Open Field Confirmed\n| Claim | Source | Confidence |\n|-------|--------|------------|\n| China Open main draw Sep 30–Oct 6; draw Sep 28 | atptour.com, x.com/ChinaOpen | HIGH |\n| Sinner (No. 1) defending champion; 2025 final: def. Tien 6-2, 6-2 | atptour.com | HIGH |\n| Sinner returning from knee (missed Canadian Open, Cincinnati, US Open) | Sep 16 research | HIGH |\n| Sinner back-to-back: first since Djokovic defended 2014→2015 | yahoo sports | HIGH |\n| Djokovic: 29-0 all-time Beijing record; 6 titles | atptour.com, yahoo sports | HIGH |\n| Djokovic's 6 China Open titles: 2009, 2010, 2012, 2013, 2014, 2015 | atptour.com/wikipedia | HIGH |\n| 7 of top 10 in Beijing field | x.com/ChinaOpen, atptour.com, puntodebreak.com | HIGH |\n| Full field: Sinner, Zverev, FAA, Medvedev, Cobolli, de Minaur, Mensik | atptour.com | HIGH |\n| China Open: ATP 500, 500 ranking pts | atptour.com | HIGH |\n**URLs:**\n- https://www.atptour.com/en/news/beijing-2026-entry-list\n- https://sports.yahoo.com/articles/novak-djokovic-feat-jannik-sinner-153000002.html\n- https://www.puntodebreak.com/en/2026/09/01/the-atp-beijing-announces-an-incredible-lineup-featuring-djokovic-and-sinner\n- https://x.com/ChinaOpen/status/2094589463330787579",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Wuhan Open Full Field Confirmed — All Top-10 WTA Including Swiatek",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Wuhan Open (Oct 12): every WTA top-10 player is confirmed.\n\nRybakina, Sabalenka (20-1 record, 3 titles), Gauff (defending), Swiatek, Pegula — ALL of them.\n\n$4M on the line. Who wins Wuhan? #WTA #Tennis #Rybakina",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTA",
+            "#Tennis",
+            "#Rybakina"
+          ],
+          "char_count": 211
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-wuhan-open-top-10-wta-field.html",
+        "headline": "Wuhan Open Completes All-Top-10 WTA Field: Swiatek Joins, Sabalenka Defends 20-1 Record",
+        "word_count": 515
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Wuhan Open Full Top-10 WTA\n\n**Image 7** (S4-social-1)\n- Type: Social (1080x1350)\n- Search term: \"Elena Rybakina\"\n- Credit: (Imagn Images)\n- Usage: Main post image — Rybakina as new No. 1 headlining Wuhan\n\n**Image 8** (S4-social-2)\n- Type: Social (1080x1350)\n- Search term: \"Aryna Sabalenka\"\n- Credit: (USA TODAY Sports Images)\n- Usage: Support image — Sabalenka as 3-time Wuhan champion and defending\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Wuhan Open Full Field\n| Claim | Source | Confidence |\n|-------|--------|------------|\n| All top-10 WTA confirmed for Wuhan Open | ianslive.in, thepeninsulaqatar.com, tennistourtalk.com | HIGH |\n| Swiatek (No. 9) newly confirmed | ianslive.in | MEDIUM |\n| Sabalenka: 20-1 all-time Wuhan record | tennistourtalk.com | HIGH |\n| Sabalenka: 3 titles (2018, 2019, 2024) | tennistourtalk.com | HIGH |\n| Wuhan prize money: $4,088,211 | wtatennis.com (Sep 17 research) | HIGH |\n| 1,000 WTA ranking pts | wtatennis.com | HIGH |\n| First round: Oct 12 | ianslive.in, thepeninsulaqatar.com | HIGH |\n| Rybakina H2H vs Sabalenka: 11-8 Sabalenka (Rybakina won last 3) | Sep 15 research | HIGH |\n| Full top-10: Rybakina, Sabalenka, Pegula, Gauff, Andreeva, Noskova, Svitolina, Muchova, Swiatek, Kostyuk | ianslive.in | HIGH |\n**URLs:**\n- https://ianslive.in/wuhan-open-rybakina-sabalenka-gauff-and-swiatek-lead-star-studded-field--20260917233120\n- http://thepeninsulaqatar.com/article/18/09/2026/rybakina-sabalenka-headline-wuhan-field\n- https://tennistourtalk.com/137495/rybakina-leads-worlds-best-in-wuhan-line-up",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Djokovic Sends Message to Beijing — The Personal Stakes of His China Open Return",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Novak Djokovic to Chinese fans: \"So excited to be back.\"\n\nAfter 11 years away and a stunning US Open exit, he returns to Beijing (Sep 30) — where he is 29-0 and a 6-time champion.\n\nAt 39, this comeback story is worth watching. #Djokovic #Tennis #ChinaOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Djokovic",
+            "#Tennis",
+            "#ChinaOpen"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-djokovic-beijing-personal-stakes.html",
+        "headline": "Djokovic Sends Message to Beijing: What His China Open Return Means at 39",
+        "word_count": 580
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Djokovic Beijing Mission\n\n**Image 9** (S5-social-1)\n- Type: Social (1080x1350)\n- Search term: \"Novak Djokovic Serbia\"\n- Credit: (Imagn Images)\n- Usage: Main post image — Djokovic personal mission/comeback narrative"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Djokovic's Beijing Mission\n| Claim | Source | Confidence |\n|-------|--------|------------|\n| Djokovic posted bilingual (English + Chinese) social media message | tennis365.com | HIGH |\n| \"So excited to be back\" quote | multiple sources (Sep 17 research) | HIGH |\n| Djokovic current ranking: No. 12 | atptour.com (Sep 15 research) | HIGH |\n| Paris Masters dates: Nov 2–8 (last ranking event before ATP Finals) | atptour.com | HIGH |\n| Djokovic age: 39 | wikipedia | HIGH |\n| 24 Grand Slam titles | atptour.com | HIGH |\n| First GS R1 loss since 2006 AO | Sep 15 research | HIGH |\n| 29-0 record and 6 titles in Beijing | atptour.com (Story 3 research) | HIGH |\n**URLs:**\n- https://www.tennis365.com/tennis-news/novak-djokovic-sends-message-after-confirming-he-will-play-the-china-open\n- https://www.skysports.com/tennis/news/12110/13588683/novak-djokovic-to-return-to-atps-china-open-on-sky-sports-after-11-year-absence-from-event\n- https://www.forbes.com/sites/adamzagoria/2026/09/16/novak-djokovic-confirms-beijing-appearance-drops-out-of-top-10/",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
