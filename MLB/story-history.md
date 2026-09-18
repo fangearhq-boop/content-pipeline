@@ -5,6 +5,62 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-09-18
+
+### Story 1: PCA — 47 HR, Three-Homer Game vs Reds, Three Steals From 40-40
+- **Date:** 2026-09-18
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** PCA hit three home runs Thursday night in a 17-5 Cubs rout of the Reds. Now 47 HR / 37 SB. Needs 3 steals to reach the 40-40 club (6 members all-time: Canseco/Bonds/A-Rod/Soriano/Acuña/Ohtani). Would be first Cub ever. ~11 games left.
+- **Content Produced:** Article (article-01, Ryan Calloway), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Daily SB tracker — 3 more needed; could happen any day
+  - If PCA achieves 40-40, breaking feature
+  - Billy Williams legacy comparison (Cubs HR record broken)
+
+### Story 2: NL Wild Card Race — Cubs 85-68, Rivals Faltering
+- **Date:** 2026-09-18
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Cubs 85-68 WC1, Phillies 1.0 back, Padres 1.5 back, D-backs ~4.0 out (effectively eliminated). Wild Card starts Sept. 29. ~11 games left. Cubs hold home-field advantage for Wild Card Series if they hold WC1.
+- **Content Produced:** Article (article-02, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Daily standings updates through Sept. 29
+  - Wild Card bracket set when seeding is locked
+
+### Story 3: Aaron Judge — Right Lower-Leg Tightness, No Timetable
+- **Date:** 2026-09-18
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Judge exited Sept. 16 game vs. Twins with right lower-leg tightness. Just 10 days after returning from 99-day IL (rib stress fracture). No timetable. Yankees protecting him for postseason. Wild Card 11 days away.
+- **Content Produced:** Article (article-03, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Return timeline update as it develops
+  - October availability assessment once timetable clarifies
+
+### Story 4: Yordan Alvarez — Triple Crown Effectively Gone, BA Title Remains
+- **Date:** 2026-09-18
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** .310 BA leads AL; trails Caminero (40 HR vs 38) and Alonso (~100 RBI vs ~96). September slump ~.206/3HR in 10 games. ~8 games left. Last AL TC: Cabrera 2012. BA title still likely.
+- **Content Produced:** Article (article-04, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - AL batting title final standings
+  - MVP race implications as TC bid fades
+
+### Story 5: Misiorowski — 1,000 Pitches at 100 MPH, Cy Young Locked Up
+- **Date:** 2026-09-18
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** First pitcher in Statcast tracking era to throw 1,000 pitches at 100+ mph in a single season. 1.95 ERA MLB best, 236 K MLB best, 0.80 WHIP. NL Cy Young -700 favorite. Brewers clinched 4th straight NL Central (first since division created 1994). Ben Sheets franchise K record (264) is secondary target with 28 more K needed.
+- **Content Produced:** Article (article-05, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Cy Young award vote announcement (offseason)
+  - Sheets K record chase in remaining starts
+  - Brewers October rotation depth
+
+---
+
 ## 2026-09-17
 
 ### Story 1: PCA — 44 HR, 3 Steals From 40-40 Club

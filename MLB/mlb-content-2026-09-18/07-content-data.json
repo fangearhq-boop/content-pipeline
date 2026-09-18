@@ -1,0 +1,223 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-18",
+  "compiled_at": "2026-09-18T10:32:27.894858+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Pete Crow-Armstrong Hits Three More, Reaches 47 Home Runs in Cubs 17-5 Blowout",
+      "tier": 1,
+      "status": "",
+      "angle": "Three more in a rout; the 40-40 conversation is now impossible to avoid.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "47 home runs. 37 stolen bases.\n\nThree more homers last night in a 17-5 rout of the Reds.\n\nPCA needs 3 steals to join the 40-40 club — only 6 players in MLB history. With 11 games left, it's happening. #Cubs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 206
+        },
+        {
+          "label": "Post 2",
+          "text": "The 40-40 club all-time:\n\nCanseco (1988). Bonds (1996). A-Rod (1998). Soriano (2006). Acuña (2023). Ohtani (2023).\n\nPete Crow-Armstrong is 3 stolen bases from being No. 7 — and the first Cub ever. #Cubs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 202
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-pca-47-hr-three-homer-game-cubs-reds.html",
+        "headline": "Pete Crow-Armstrong Hits Three More: 47 Home Runs, Three Steals from 40-40 History",
+        "word_count": 516
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "NL Wild Card Race: Cubs Lead by 1.0, 11 Games Left, Rivals Can't Pull Away",
+      "tier": 2,
+      "status": "",
+      "angle": "Cubs in control — rivals keep missing chances to close the gap.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "NL Wild Card after Thursday:\n\nCubs 85-68 | WC1\nPhillies | 1.0 back\nPadres | 1.5 back\nD-backs | ~4.0 back\n\n11 games left. Wild Card starts Sept. 29. #Cubs #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB"
+          ],
+          "char_count": 158
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-nl-wild-card-race-cubs-lead-eleven-games.html",
+        "headline": "NL Wild Card Race: Cubs Lead by 1.0, Rivals Keep Missing Their Chances With 11 Games Left",
+        "word_count": 475
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Aaron Judge's New Injury Adds Postseason Uncertainty to Yankee Equation",
+      "tier": 2,
+      "status": "",
+      "angle": "Second injury scare in 10 days; what it means for the Yankees' October hopes.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Aaron Judge left Wednesday's game vs. Minnesota with right lower-leg tightness — just 10 days after returning from a 99-day IL stint.\n\nNo timetable. Wild Card is 11 days away. Yankees protecting their MVP for October. #Yankees",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-aaron-judge-injury-lower-leg-yankees-october.html",
+        "headline": "Aaron Judge's Lower-Leg Scare Raises Another Round of October Questions for the Yankees",
+        "word_count": 478
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Yordan Alvarez's Triple Crown Bid Is Essentially Over — What Went Wrong",
+      "tier": 2,
+      "status": "",
+      "angle": "A late-season slide that cost a piece of history.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Yordan Alvarez's Triple Crown math:\n\n🔴 HR: 38, trailing Caminero (40) by 2\n🔴 RBI: ~96, trailing Alonso (~100) by ~4\n🟢 BA: .310, leads AL\n\n~8 games left. Last AL Triple Crown: Cabrera, 2012. #Astros",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Astros"
+          ],
+          "char_count": 197
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-yordan-alvarez-triple-crown-fading-september-slump.html",
+        "headline": "Yordan Alvarez's Triple Crown Bid Is Essentially Over. Here's How September Closed the Door.",
+        "word_count": 549
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Misiorowski at 1,000 Pitches Over 100 MPH — The Most Dominant Cy Young Case in Years",
+      "tier": 1,
+      "status": "",
+      "angle": "The 1,000 pitches milestone puts this season in a tier by itself.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Jacob Misiorowski: first pitcher in Statcast tracking era history to throw 1,000 pitches at 100+ mph in a single season.\n\n1.95 ERA. 236 K. 0.80 WHIP. The NL Cy Young isn't a race — it's a formality. #Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers"
+          ],
+          "char_count": 207
+        },
+        {
+          "label": "Post 7",
+          "text": "The Brewers clinched their 4th straight NL Central title — the first team to do that since the division was created in 1994.\n\nMisiorowski: 1.95 ERA, 236 K, -700 Cy Young favorite. Milwaukee is built for October. #Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers"
+          ],
+          "char_count": 220
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-misiorowski-1000-pitches-100mph-cy-young.html",
+        "headline": "Jacob Misiorowski Becomes First Pitcher in Statcast Era to Throw 1,000 Pitches at 100 MPH — And the NL Cy Young Is His",
+        "word_count": 589
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
