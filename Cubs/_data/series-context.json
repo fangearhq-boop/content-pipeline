@@ -1,9 +1,58 @@
 {
-  "generated_at": "2026-09-17T08:30:00.379159+00:00",
-  "today_ct": "2026-09-17",
-  "off_day": true,
-  "is_series_start_today": false,
-  "series": null,
-  "today_cubs_game": null,
-  "rationale": "No upcoming Cubs game on today's CT calendar date."
+  "generated_at": "2026-09-18T08:30:00.601423+00:00",
+  "today_ct": "2026-09-18",
+  "off_day": false,
+  "is_series_start_today": true,
+  "series": {
+    "opponent": "Cincinnati Reds",
+    "opponent_id": 113,
+    "opponent_record": "71-82",
+    "cubs_record": "85-68",
+    "is_cubs_home": false,
+    "venue": "Great American Ball Park",
+    "series_length": 3,
+    "games": [
+      {
+        "game_pk": "824463",
+        "game_date_iso": "2026-09-18T22:40:00Z",
+        "game_date_ct": "Fri 5:40 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      },
+      {
+        "game_pk": "824461",
+        "game_date_iso": "2026-09-19T22:40:00Z",
+        "game_date_ct": "Sat 5:40 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      },
+      {
+        "game_pk": "824462",
+        "game_date_iso": "2026-09-20T17:40:00Z",
+        "game_date_ct": "Sun 12:40 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      }
+    ],
+    "rationale": "Off day yesterday. Today: Cubs visit Cincinnati Reds \u2192 game 1 of 3."
+  },
+  "today_cubs_game": {
+    "game_pk": "824463",
+    "status": "Preview",
+    "detailed_status": "Scheduled",
+    "game_date_iso": "2026-09-18T22:40:00Z",
+    "game_date_ct": "Fri 5:40 PM CT",
+    "is_cubs_home": false,
+    "opponent_id": 113,
+    "opponent_name": "Cincinnati Reds",
+    "opponent_record": "71-82",
+    "cubs_record": "85-68",
+    "cubs_probable": "TBD",
+    "opponent_probable": "TBD",
+    "venue": "Great American Ball Park"
+  },
+  "rationale": "Off day yesterday. Today: Cubs visit Cincinnati Reds \u2192 game 1 of 3."
 }
