@@ -1,6 +1,6 @@
 # F1 Fanrecap — Pipeline Status
 
-## Last Run: 2026-09-17
+## Last Run: 2026-09-18
 
 **Status:** COMPLETE (with known proxy limitations)
 **Niche:** F1 Fanrecap
@@ -8,6 +8,36 @@
 **Articles:** 5
 
 ---
+
+## 2026-09-18 Run Log
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research | ✅ Complete | 5 stories — Baku 8 days preview, Antonelli Singapore clinch math, Ferrari vs McLaren constructors, Qatar/Abu Dhabi calendar limbo, Williams Baku upgrade |
+| Daily Brief | ✅ Complete | 00-daily-brief.md |
+| Research Notes | ✅ Complete | 01-research-notes.md |
+| Story Analysis | ✅ Complete | 02-story-analysis.md |
+| X Posts | ✅ Complete | 03-social-posts-x.md — 8 posts, all ≤280 chars |
+| Facebook Posts | ✅ Complete | 04-social-posts-facebook.md — 5 stories |
+| Image Concepts | ✅ Complete | 05-image-concepts.md |
+| Articles | ✅ Complete | 5 HTML articles |
+| Fact Check | ✅ Complete | 06-fact-check-log.md — 24 claims |
+| Compile Content Data | ✅ Complete | 07-content-data.json — 5 stories, 5 tweets (posting window warnings — known), FB=0 known |
+| Image Manifest | ✅ Complete | 07-image-manifest.md (10 images, status: not_started) |
+| Story History | ✅ Complete | story-history.md updated |
+| Review Dashboard | ✅ Complete | review-dashboard.html — 20 items |
+| Publish Dashboard | ⚠ Partial | Blocked — content-dashboards not in authorized repo |
+| PostPlanner Export | ⚠ Blocked | 0 posts (known parsing issue) |
+| PostPlanner TOBI | ⚠ Blocked | 0 posts (known parsing issue) |
+| WordPress Publish | ❌ Blocked | fanrumor.com:443 rejected by egress proxy (403) |
+| Git Push | ✅ Complete | Committed and pushed to main |
+
+**Stories covered:**
+1. T1 FOLLOW UP: 8 Days to Baku — Every 2026 F1 Storyline Arrives at the Street Circuit
+2. T1 FOLLOW UP: Antonelli Cannot Clinch at Baku — Singapore Oct. 5 Is the Target
+3. T1 FOLLOW UP: Ferrari Leads McLaren by 52 in Constructors' — Gap Is Closing
+4. T2 FOLLOW UP: F1's End-of-Season Calendar Still Unresolved — Qatar and Abu Dhabi in Limbo
+5. T2 FOLLOW UP: Williams' "Almost Entirely New Car" Arrives at Baku
 
 ## 2026-09-17 Run Log
 

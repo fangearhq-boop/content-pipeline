@@ -2,6 +2,56 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-09-18
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-18 | T1 | 8 Days to Baku — Every 2026 F1 Storyline Arrives at the Street Circuit on Sept. 26 | X(2), FB, Article | FOLLOW UP |
+| 2026-09-18 | T1 | Antonelli Cannot Clinch at Baku — But Singapore on October 5 Is the Target | X(2), FB, Article | FOLLOW UP |
+| 2026-09-18 | T1 | Ferrari Leads McLaren by 52 in Constructors' — 9 Races Left, Gap Is Closing | X(2), FB, Article | FOLLOW UP |
+| 2026-09-18 | T2 | F1's End-of-Season Calendar Is Still Unresolved — Qatar and Abu Dhabi in Limbo | X(1), FB, Article | FOLLOW UP |
+| 2026-09-18 | T2 | Williams' "Almost Entirely New Car" Arrives at Baku — Eight Days Until Vowles' Promise Is Tested | X(1), FB, Article | FOLLOW UP |
+
+### STORY 1: Baku GP Preview — 8 Days
+- **Tier:** 1
+- **Category:** F1 Calendar / Azerbaijan GP / Baku Street Circuit
+- **Key facts:** Sept. 26 Saturday race (moved from Sunday for Azerbaijan Remembrance Day); Round 17 of 23; Antonelli cannot clinch at Baku; 8-day window; Williams new car; Hamilton seeking Baku result; Ferrari vs. McLaren 52-pt gap
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Free practice pace, qualifying result, race recap
+
+### STORY 2: Antonelli Championship Clinch Math — Singapore
+- **Tier:** 1
+- **Category:** Mercedes / Kimi Antonelli / Drivers' Championship
+- **Key facts:** After R14: 292 pts; Russell 211; gap 81; 233 remaining in 9 rounds; Baku cannot clinch; Singapore GP Oct. 5 = earliest clinch; scenario: max Baku + Sprint Singapore = need 12 pts in Singapore GP; age ~20y 1m at Singapore = shatters Vettel record (23y 134d) by 3+ years; 8 wins, 12 podiums, 6 poles
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Baku result updates clinch math; Singapore clinch attempt
+
+### STORY 3: Ferrari vs. McLaren Constructors' — 52 Points
+- **Tier:** 1
+- **Category:** Ferrari / McLaren / Constructors' Championship
+- **Key facts:** Mercedes leads with 503 pts; Ferrari P2; McLaren P3 — 52 pts gap (was 59 after Monza); 9 rounds left; ~403 pts remaining; Baku power-circuit favors Ferrari; McLaren closing progressively
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Baku result updates constructors' gap
+
+### STORY 4: Qatar/Abu Dhabi Calendar Limbo
+- **Tier:** 2
+- **Category:** F1 Calendar / Qatar GP / Abu Dhabi GP / Middle East
+- **Key facts:** Domenicali's mid-Sept deadline passed; no announcement; Qatar scheduled Nov. 29; Abu Dhabi Dec. 6; Bahrain + Saudi already cancelled; Imola as contingency; season could end at São Paulo
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official calendar announcement
+
+### STORY 5: Williams Baku Upgrade
+- **Tier:** 2
+- **Category:** Williams Racing / Baku / Upgrade / Carlos Sainz / Alex Albon
+- **Key facts:** Vowles: "almost entirely new car"; Sainz: "stark warning" — not rescue; Albon: "won't fix season"; P9 constructors' with 11 pts; scoreless since Monaco June; missed Jan Barcelona shakedown
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Free practice comparison lap times, points scored at Baku
+
 ## 2026-09-16
 
 | Date | Tier | Title | Platforms | Status |
