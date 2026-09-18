@@ -1,0 +1,137 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-18",
+  "compiled_at": "2026-09-18T12:38:47.827499+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "D11 Schools Break Off State Watchlist — All High Schools Earn Top Performance Rating",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-01-d11-schools-exit-watchlist.html",
+        "headline": "D11 High Schools Earn State's Top Rating — and the Watchlist Numbers Are Finally Moving",
+        "word_count": 611
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "CooCooBaby Baby Lounger Recalled — 2,355 Units Pose Suffocation and Fall Risk",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-02-coocoobaby-lounger-recall.html",
+        "headline": "CooCooBaby Baby Lounger Recalled: Stop Using It Now and Here's How to Get Your Refund",
+        "word_count": 605
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "D20 Two-Hour Late Start Today — What PLC Days Mean for COS Families",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-03-d20-late-start-fall-calendar.html",
+        "headline": "D20 Is on a Late Start Today — and Here's How to Never Be Caught Off Guard by a PLC Day Again",
+        "word_count": 545
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "The AAP Retired the 2-Hour Screen Time Rule — Here's What Replaced It",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-04-aap-screen-time-five-cs.html",
+        "headline": "The AAP Retired the 2-Hour Screen Time Rule — Here's What the New \"5 Cs\" Framework Means for Your Family",
+        "word_count": 745
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "COS Pumpkin Patch Preview — Where to Take Your Kids This Fall",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-05-cos-pumpkin-patch-preview.html",
+        "headline": "COS Pumpkin Patch Preview: Where to Take Your Kids This Fall",
+        "word_count": 726
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 0,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No X/Twitter posts found",
+      "Story 1: No Facebook posts found",
+      "Story 1: No posting window specified",
+      "Story 2: No X/Twitter posts found",
+      "Story 2: No Facebook posts found",
+      "Story 2: No posting window specified",
+      "Story 3: No X/Twitter posts found",
+      "Story 3: No Facebook posts found",
+      "Story 3: No posting window specified",
+      "Story 4: No X/Twitter posts found",
+      "Story 4: No Facebook posts found",
+      "Story 4: No posting window specified",
+      "Story 5: No X/Twitter posts found",
+      "Story 5: No Facebook posts found",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

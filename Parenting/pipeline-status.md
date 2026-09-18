@@ -1,6 +1,37 @@
 # COS Parenting — Pipeline Status
 
-## Current Run: 2026-09-17
+## Current Run: 2026-09-18
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | D11 high schools all top-rated in preliminary 2025-26 SPF (Aug 31, Gazette/Chalkbeat); CooCooBaby Baby Lounger recall Sep 10 (2,355 units, Classic+Deluxe, Amazon/$35-70, suffocation+fall hazard, cpsc.gov); D20 two-hour PLC late start Sep 18 (asd20.org); AAP Jan 2026 screen time update (retired 2-hr cap, 5 Cs framework, Family Media Plan, healthychildren.org); COS pumpkin patches (Long Neck opens Sep 20, Venetucci Farm early Oct, Miners' Pumpkin Patch at WMMI every Saturday Oct) |
+| Story History Check | COMPLETE | S1 D11 performance (NEW); S2 CooCooBaby recall (NEW — distinct from Sep 16 dresser recalls + Sep 17 toddler tower recalls); S3 D20 late start (NEW — PLC calendar explainer); S4 AAP screen time (NEW — different from Sep 17 COVID vaccine story); S5 Pumpkin patches (NEW — Long Neck opens Saturday, timely) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: gazette.com, chalkbeat.org, cpsc.gov, asd20.org, aap.org, healthychildren.org, gathermountainblooms.com, wmmi.org, visitcos.com |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows, coverage gap check |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories; all ≤280 chars verified; 4 hashtags each; max 1 exclamation mark; COS voice rules applied |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; no hashtags; engagement questions; COS voice rules applied |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only prompts; detailed scene/mood/lighting/palette/style descriptions; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 D11 school performance (Jamie Rivera, T2); article-02 CooCooBaby recall (Sarah Morales, T1, QR table); article-03 D20 late start/PLC explainer (Jamie Rivera, T2); article-04 AAP screen time 5 Cs (Sarah Morales, T1, QR tables); article-05 COS pumpkin patch guide (Jamie Rivera, T2, QR table) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 95 claims; HIGH/MEDIUM/LOW prioritized; consistency warnings cosmetic (parser header mismatch, known) |
+| Compile Content Data | COMPLETE (partial) | 07-content-data.json — 5 stories, 0 X posts, 0 FB posts, 5 articles (parser compat — social posts not counted, known recurring) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries (2 per story), all not_started, gemini base_only, brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 10 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser compat issue — ran both standard and --tobi |
+| WordPress Publish | BLOCKED | 403 proxy — fanrumor.com blocked (known recurring issue) |
+| Story History | COMPLETE | 5 new entries prepended to Parenting/story-history.md (Sep 18 section) |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
+- **Articles:** 5 (bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4])
+- **PostPlanner exports:** 0 posts (known parser compat issue)
+- **Key stories:** D11 all high schools at state's top performance tier (watchlist dropped 33%→10%); CooCooBaby Baby Lounger recall Sep 10 (2,355 units, stop use + email photo for refund, cpsc.gov); D20 two-hour PLC late start TODAY; AAP retired 2-hr screen time rule (5 Cs framework, Family Media Plan at healthychildren.org); COS pumpkin season starts Sep 20 (Long Neck Farm, Venetucci, Miners' WMMI)
+- **Issues:** PostPlanner 0 posts (known); WordPress blocked by proxy; dashboard push blocked (not in session authorized repos)
+
+---
+
+## Previous Run: 2026-09-17
 
 | Step | Status | Notes |
 |------|--------|-------|

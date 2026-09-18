@@ -2,6 +2,50 @@
 
 ---
 
+## September 18, 2026
+
+### Story 1: D11 High Schools Earn State's Top Performance Rating — Watchlist Drops to 10%
+- **Date:** 2026-09-18
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** Preliminary 2025-26 school performance frameworks released Aug 31 (Gazette/Chalkbeat); all D11 high schools earned highest-performing rank; watchlist schools dropped from ~33% two years ago to ~10% now; district goal 100% at Performance status; Colorado statewide ~2/3 schools at top rating; cde.state.co.us for ratings; d11.org/administration/superintendent/roadmap for Roadmap to Excellence
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 2: CooCooBaby Baby Lounger Recalled — 2,355 Units, Suffocation and Fall Risk
+- **Date:** 2026-09-18
+- **Tier:** T1
+- **Pillar:** National Parenting (Product Safety)
+- **Key Facts:** CPSC product safety warning Sep 10, 2026; Classic and Deluxe models; ~2,355 units; Amazon + coocoobabyofficial.com; $35-$70; 3 hazards: sides too short, pad too thick (suffocation), open foot opening (fall/entrapment); violates mandatory Infant Sleep Products standard; stop use immediately; destroy unit, email photo to support@coocoobabyofficial.com for full refund; no injuries reported; cpsc.gov
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 3: D20 Two-Hour Late Start Today — What PLC Days Mean for COS Families
+- **Date:** 2026-09-18
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** D20 PLC two-hour late start Friday Sep 18 (all Academy District 20 schools start 2 hrs late); PLC = Professional Learning Community teacher collaboration; asd20.org for calendar; d11.org/calendars and d49.org/discover-d49/district-calendar for other districts; D49 Parent Teacher Conferences Oct 9 (no students)
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 4: AAP Retired the 2-Hour Screen Time Rule — New "5 Cs" Framework Explained
+- **Date:** 2026-09-18
+- **Tier:** T1
+- **Pillar:** National Parenting (Health)
+- **Key Facts:** AAP January 2026 update; retired 2-hr/day cap for ages 2+; "5 Cs" framework: Child, Content, Calm, Crowding out, Communication; no screens under 18 months (except video chat); ages 2-5: ~1 hr/day high-quality content with co-viewing; ages 6+: family-agreed limits + Family Media Plan; device-free bedrooms + mealtimes; Family Media Plan free at healthychildren.org
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 5: COS Pumpkin Patch Preview — Long Neck Opens Saturday, Venetucci + Miners' Follow
+- **Date:** 2026-09-18
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Long Neck Pumpkin Farm opens Sep 20 (Fri-Sun 10am-5pm, through Oct 26; hay bale slide, corn boxes, tractor swings, Farmers Market, Story Barn); Venetucci Farm Pumpkin Fest (Gather Mountain Blooms) opens early October (Fri 9:30am-2pm, Sat-Sun 9:30am-4pm, $5/person ages 3+, $10/pumpkin, through late October; gathermountainblooms.com); Miners' Pumpkin Patch at WMMI (225 North Gate Blvd) every Saturday October ($11 online/$13 door, pumpkins $6/$7, hayrides, animal encounters, mining demos, pumpkin catapult; wmmi.org)
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+---
+
 ## September 17, 2026
 
 ### Story 1: Two Toddler Kitchen Towers Recalled — More Than 207,000 Units Combined
