@@ -2,6 +2,56 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-09-18
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-18 | T1 | 10 Days to Media Day — Curry Extension Silence Gets Louder | X(2), FB, Article | FOLLOW UP |
+| 2026-09-18 | T1 | DOJ Clippers Probe Enters Week Five — Subpoenas Issued, No Charges Filed | X(2), FB, Article | FOLLOW UP |
+| 2026-09-18 | T1 | Stein: Duren "Increasingly Prepared" to Accept $9.6M QO — 13 Days Left | X(2), FB, Article | FOLLOW UP |
+| 2026-09-18 | T1 | Knicks Banner Night Hits a Snag — MSG Ticket Glitch Sends Prices Above $1,000 | X(2), FB, Article | FOLLOW UP |
+| 2026-09-18 | T2 | 11 Days to Camp — Everything You Need to Know About the 2026-27 NBA Season Calendar | X(1), FB, Article | NEW |
+
+### STORY 1: Stephen Curry Extension — 10 Days
+- **Tier:** 1
+- **Category:** Golden State Warriors / Stephen Curry / Contract Extension
+- **Key facts:** 10 days to Sept. 28 media day; 2yr/$136.7M eligible; would make Curry first to $600M career; Warriors giving Curry full structural control; mutual desire confirmed; if max, Warriors' cap space cut in half (~$45-65M remaining); Green and Butler III also in final year
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Extension signed before media day; media day unsigned; training camp update
+
+### STORY 2: DOJ Clippers Federal Probe — Week Five
+- **Tier:** 1
+- **Category:** Los Angeles Clippers / DOJ / Kawhi Leonard / EDNY
+- **Key facts:** EDNY criminal probe ongoing, "earliest stages"; Daktronics subpoena issued; no charges; NBA penalties: $30M, 5 picks (2029-2033), Ballmer 1yr, Frank 6mo, Zucker 1yr, Robertson 5yr, Leonard $700K; Leonard trade to Raptors ratified; ~$18M via 3 firms
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** New subpoenas, grand jury activity, DOJ announcement, case closure
+
+### STORY 3: Jalen Duren QO "Increasingly Prepared"
+- **Tier:** 1
+- **Category:** Detroit Pistons / Jalen Duren / Qualifying Offer
+- **Key facts:** Marc Stein: Duren "increasingly prepared" to accept $9.6M QO; Oct. 1 deadline = 13 days; Pistons offer $190M/5yr ($38M AAV); Duren wants $200M+; if QO accepted, Pistons lose matching rights; Kings reportedly waiting with max offer; Duren age 22
+- **Byline:** Damon Pierce
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Deal signed, QO accepted Oct. 1, Kings formally confirmed
+
+### STORY 4: Knicks Banner Night — MSG Ticket Glitch
+- **Tier:** 1
+- **Category:** New York Knicks / Opening Night / Banner Ceremony
+- **Key facts:** MSG paused ticket sales after technical glitch; upper-level prices above $1,000; banner ceremony 6:30 PM ET Oct. 20; tipoff 7:00 PM ET NBC/Peacock; LeBron (41) makes 76ers debut; Brown also debuting; 76ers: LeBron+Embiid+Maxey+Brown; first Knicks banner since 1973; beat Spurs in 5
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Ticket sale resumes, ceremony details, Opening Night preview
+
+### STORY 5: NBA Training Camp 2026-27 Calendar
+- **Tier:** 2
+- **Category:** NBA / Training Camp / 2026-27 Season
+- **Key facts:** Veterans report Sept. 28; camps open Sept. 29; preseason Oct. 3–16; regular season Oct. 20; Mavs/Rockets report Sept. 22 for Macao trip; Opening Night: Knicks-76ers (NBC), Celtics-Pistons, Thunder-Spurs
+- **Byline:** Marcus Cole
+- **Status:** NEW
+- **Follow-up ideas:** Media day coverage, camp health reports, preseason previews
+
 ## 2026-09-16
 
 | Date | Tier | Title | Platforms | Status |
