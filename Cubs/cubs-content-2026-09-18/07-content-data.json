@@ -1,0 +1,241 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-18",
+  "compiled_at": "2026-09-18T09:18:36.110026+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Series Preview — Cubs at Reds (3G, Game 1 tonight)",
+      "type": "Story 1"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Swanson activation confirmed",
+      "type": "Story 2"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "PCA 40-40 watch: 44/37, needs 3 SBs",
+      "type": "Story 3"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "Wild Card standings + rival watch",
+      "type": "Story 4"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Smokies season ends — Trash Pandas sweep",
+      "type": "Story 5"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Pre-game hype: Holmes vs Burns, first pitch",
+      "type": "Story 6"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Series Preview — Cubs at Cincinnati Reds, Game 1 of 3",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Cubs (85-68) open a 3-game set in Cincinnati tonight — Game 1 vs. the Reds, 5:40 PM CT.\n\nHolmes vs. Burns. WC1 lead on the line.\n\nElly de la Cruz has been LOCKED IN (.419 in his last 21 games) — the one Reds bat you don't sleep on.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Series Preview — Cubs at Reds, Game 1 of 3\n**Type:** NEW STORY (series starts today)\n**Freshness:** Current — published today/yesterday\n**Key Facts:**\n- Cubs (85-68) visit Great American Ball Park for 3-game series vs Cincinnati (71-82)\n- Game 1: Friday Sept 18, 5:40 PM CT\n- Game 2: Saturday Sept 19, 5:40 PM CT\n- Game 3: Sunday Sept 20, 12:40 PM CT\n- Cubs probable: Clay Holmes (6-7, 2.85 ERA, 1.15 WHIP, 91.2 IP)\n- Reds probable: Chase Burns (15-3, 2.80 ERA, 1.15 WHIP, 181 K in 151.1 IP)\n- Venue: Great American Ball Park, Cincinnati, Ohio\n- Cubs are on the road (away series)\n- Reds eliminated from playoff contention; Cubs protecting NL WC1\n- Elly de la Cruz (.419/.468/.767 in last 21 games, 7 HR, 15 RBI) is Reds' primary threat\n- Matt McLain (shoulder) — Reds dealing with injury concerns\n- Dansby Swanson (activated today) will be in Cubs lineup\n**Sources:**\n- SportsGrid: https://www.sportsgrid.com/mlb/game/chicago-cubs-cincinnati-reds-scores-odds-picks-props-september-18-2026/f0d8c9d8-6a4a-4207-8e92-324cee1bbf38\n- Bleacher Nation: https://www.bleachernation.com/picks/2026/09/16/cincinnati-reds-vs-chicago-cubs-series-sept-18-20-odds-starting-pitchers-predictions/\n- MLB.com gameday: https://www.mlb.com/gameday/cubs-vs-reds/2026/09/18/824463/preview",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Dansby Swanson Officially Activated From IL",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "9 games left, and now Dansby Swanson is in the lineup.\n\nActivated off the IL today after a Grade 2 oblique strain — sidelined since August 16.\n\nA two-time Gold Glove shortstop returning for a Wild Card run. October just got deeper.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "FOLLOW UP",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Dansby Swanson Activated from IL\n**Type:** FOLLOW UP (Swanson return was targeted in Sept 17 story; confirmed today)\n**Freshness:** Official press release — today (Sept 18)\n**Key Facts:**\n- Dansby Swanson officially activated from 10-day IL, effective today (Sept 18)\n- Jared Young optioned to Triple-A Iowa as corresponding move\n- Swanson injured August 16 with Grade 2 left oblique strain\n- Completed Iowa rehab assignment (Tuesday/Wednesday this week)\n- Two-time Gold Glove shortstop (2021, 2022 with Atlanta)\n- Returns for final 9 games of regular season + postseason\n- Age 32; signed through at least 2026\n**Sources:**\n- MLB.com press release: https://mlb.com/press-release/press-release-cubs-activate-inf-dansby-swanson-from-i-l-option-inf-jared-young\n- CBS Sports: https://www.cbssports.com/fantasy/baseball/news/cubs-dansby-swanson-one-week-away-from-activation/\n- ClutchPoints: https://clutchpoints.com/mlb/chicago-cubs/cubs-news-craig-counsell-dansby-swanson-return-il",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "PCA 40-40 Watch — 44 HR / 37 SB, Three Steals Away",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "44 home runs. 37 stolen bases.\n\nPete Crow-Armstrong needs 3 more steals to become the first Cub EVER with a 40-40 season — and just the 7th player in MLB history.\n\n9 games left. Clock is ticking.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "FOLLOW UP",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "PCA 40-40 Watch — 44 HR / 37 SB\n**Type:** FOLLOW UP (continuing from Sept 17 story)\n**Freshness:** Stats confirmed through Sept 16 game; off day Sept 17 (no change)\n**Key Facts:**\n- Pete Crow-Armstrong: 44 HR / 37 SB through Sept 16 (off day Sept 17)\n- Needs exactly 3 more stolen bases for 40-40 season\n- 9 regular season games remaining (including today's game at Reds)\n- Would be first 40-40 season in Cubs franchise history\n- Would be just the 7th 40-40 season in MLB history\n- Other 40-40 players: Jose Canseco, Barry Bonds, Alex Rodriguez, Alfonso Soriano, Ryan Braun, Ronald Acuña Jr.\n- HR #43 broke Billy Williams' Cubs franchise record for LH homers (set 1970)\n- HR #44 came in the same game (Sept 16 vs Braves)\n- Leading MLB in bWAR; frontrunner for NL MVP with Shohei Ohtani sidelined\n- 29 of 37 expert voters had him as NL MVP choice entering week\n**Sources:**\n- WTTW Chicago: https://news.wttw.com/2026/09/17/2-more-homers-cubs-pete-crow-armstrong-makes-his-mvp-case\n- KSAT Sports: https://www.ksat.com/sports/2026/09/17/with-2-more-homers-the-cubs-pete-crow-armstrong-makes-his-mvp-case/\n- ESPN: https://www.espn.com/mlb/story/_/id/49852703/pete-crow-armstrong-slugs-40th-hr-cubs-fall-marlins",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Wild Card Watch — Cubs 85-68 WC1, 1.5 Games Over Phillies",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "85-68. NL Wild Card No. 1. Cubs lead the Phillies by 1.5 games with 9 to play.\n\nPadres at 82-69. D-backs at 80-72.\n\nEvery game against a 71-82 Reds team is a chance to add separation. Let's not waste it.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "FOLLOW UP",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 228
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Wild Card Watch — Cubs 85-68 WC1\n**Type:** FOLLOW UP (continuing from Sept 17 story)\n**Freshness:** Current — standings updated this morning\n**Key Facts:**\n- NL Wild Card standings (entering today's games):\n- Cubs: 85-68, WC1 (1.5-game lead)\n- Phillies: 83-68\n- Padres: 82-69\n- D-backs: 80-72\n- Cubs hold tiebreakers over Phillies\n- WC1 = home-field advantage for Wild Card Series (3-game set at Wrigley)\n- Phillies, Padres, D-backs all lost Wednesday night (Cubs had off day — picked up ground)\n- Brewers clinched NL Central (4th straight), NL Central winner\n- 9 games remaining after today\n**Sources:**\n- Yahoo Sports: https://sports.yahoo.com/articles/2026-nl-standings-cubs-catch-153856582.html\n- ClutchPoints: https://clutchpoints.com/mlb/chicago-cubs/2026-nl-playoff-picture-cubs-phillies-padres-diamondbacks\n- Fox Sports: https://www.foxsports.com/mlb/chicago-cubs-team-standings?type=wild+card",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Smokies Eliminated — Rocket City Sweeps Series",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Tennessee Smokies season is done — Rocket City won Game 2 at Knoxville 13-3, sweeping the series.\n\nCubs' AA affiliate had a solid 2026 campaign. The Trash Pandas just had a better week.\n\nOn to October and whatever comes next for this system.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "FOLLOW UP",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Tennessee Smokies Eliminated from Southern League Playoffs\n**Type:** FOLLOW UP (Smokies were playing Game 2 on Sept 17; result confirmed today)\n**Freshness:** Published Sept 17-18\n**Key Facts:**\n- Rocket City Trash Pandas defeated Tennessee Smokies 13-3 in Game 2 of Southern League Division Series\n- Series was best-of-3; Trash Pandas won both games (9-2, then 13-3)\n- Smokies were eliminated at home (Covenant Health Park, Knoxville)\n- Trash Pandas advance to Southern League Championship Series for first time in franchise history\n- Cubs' AA affiliate's 2026 season is now over\n- Rocket City is the Double-A affiliate of the Los Angeles Angels\n**Sources:**\n- WDBJ7: https://www.wdbj7.com/video/2026/09/18/trash-pandas-rout-smokies-13-3-clinch-southern-league-championship-spot/\n- OurSportsCentral: https://www.oursportscentral.com/sports/knoxville-smokies/t-404",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Pre-game Hype — Holmes vs Burns, First Pitch Tonight",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "2.85 ERA for Holmes. Burns is 15-3 on the other side.\n\nThat's your Game 1 matchup tonight in Cincinnati — first pitch 5:40 PM CT.\n\nDansby Swanson is in the lineup for the first time since August 16. Let's go.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Pre-game Hype — Holmes vs Burns, First Pitch Tonight\n**Type:** NEW STORY (pre-game context, not a separate news story)\n**Freshness:** N/A (game-day hype)\n**Key Facts:**\n- First pitch: 5:40 PM CT, Great American Ball Park\n- Holmes (2.85 ERA) vs Burns (15-3, 2.80 ERA) — matchup of two pitchers with nearly identical ERAs\n- Burns has been elite all season; Holmes has been inconsistent lately\n- Dansby Swanson in lineup for first time since August 16\n- Wild Card lead (1.5 games over Phillies) at stake every game\n- Reds' 71-82 record makes this a favorable matchup overall despite Burns\n**Sources:**\n- MLB.com gameday preview + series preview links above",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

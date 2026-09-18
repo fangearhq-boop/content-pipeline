@@ -7605,3 +7605,53 @@ Each day's stories are appended at the top (newest first).
   - Game 2 result (tonight)
   - Game 3 if needed
   - Smokies playoff elimination or advance
+
+## 2026-09-18
+
+### STORY 1: Series Preview — Cubs at Cincinnati Reds, Game 1 of 3
+- **Angle:** NEW STORY (Series starts today; 7:00 AM slot reserved per series-start rule; Cubs (85-68) open 3G at Great American Ball Park; Holmes (2.85 ERA) vs Chase Burns (15-3, 2.80 ERA); WC1 lead (1.5G over Phillies) on the line; de la Cruz warning (.419 in last 21G); per opening=stat_lead insight, embedded "(85-68)" in matchup opener; series-preview rule (matchup first) honored with stat in first line)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, series preview)
+- **Follow-Up Opportunities:**
+  - Game 1 result recap (tomorrow morning)
+  - Holmes performance / "October question" angle
+  - de la Cruz performance update
+
+### STORY 2: Dansby Swanson Officially Activated From IL
+- **Angle:** FOLLOW UP (MLB.com press release confirmed; activated today after Grade 2 oblique since Aug 16; Jared Young to Iowa; returns for 9-game stretch run + playoffs; two-time Gold Glove shortstop; per opening=stat_lead, opened with "9 games left" numeric fragment)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, roster news)
+- **Follow-Up Opportunities:**
+  - Swanson first game back performance
+  - October lineup implications
+
+### STORY 3: PCA 40-40 Watch — 44 HR / 37 SB, Three Steals Away
+- **Angle:** FOLLOW UP (44/37 entering today; needs 3 SBs in 9 games; first-ever 40-40 Cub; 7th in MLB history; per opening=stat_lead, opened with "44 home runs. 37 stolen bases." pure stat fragment)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, stat breakdown/milestone)
+- **Follow-Up Opportunities:**
+  - Each SB en route to 40 SB
+  - 40-40 achievement announcement
+  - NL MVP vote (November)
+
+### STORY 4: Wild Card Watch — Cubs 85-68 WC1, 1.5 Games Over Phillies
+- **Angle:** FOLLOW UP (85-68 WC1; Phillies 83-68; Padres 82-69; D-backs 80-72; all rivals lost Wednesday; 9 games left; rival jab at Phillies; per opening=stat_lead, opened with "85-68. NL Wild Card No. 1.")
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, analysis/rival watch)
+- **Follow-Up Opportunities:**
+  - Daily WC standings update
+  - Magic number clinch watch
+  - WC clinch announcement
+
+### STORY 5: Tennessee Smokies Eliminated — Rocket City Sweeps Series
+- **Angle:** FOLLOW UP (Trash Pandas defeated Smokies 13-3 in Game 2 at Knoxville; 2-0 sweep; Cubs' AA affiliate season over; Trash Pandas advance to SL Championship)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, prospect update)
+- **Follow-Up Opportunities:** N/A (season over for Smokies)
+
+### STORY 6: Pre-game Hype — Holmes vs Burns, First Pitch Tonight
+- **Angle:** NEW STORY (Stat-lead: "2.85 ERA for Holmes. Burns is 15-3."; confirms Swanson in lineup for first time since Aug 16; first pitch 5:40 PM CT; distinct from series preview — adds lineup confirmation angle)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, pre-game hype)
+- **Follow-Up Opportunities:**
+  - Game 1 result recap (tomorrow morning)
