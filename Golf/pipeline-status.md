@@ -1,11 +1,43 @@
 # Golf Fanrecap — Pipeline Status
 
-## Last Run: 2026-09-17
+## Last Run: 2026-09-18
 
 **Status:** COMPLETE (with known proxy limitations)
 **Niche:** Golf Fanrecap
 **Stories:** 5
 **Articles:** 5
+
+---
+
+## 2026-09-18 Run Log
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research | ✅ Complete | 5 stories — Biltmore Round 2, Presidents Cup 6 days, LIV Oct. 13 deadline, Koivun double duty, Rahm's $7.5M decision |
+| Daily Brief | ✅ Complete | 00-daily-brief.md |
+| Research Notes | ✅ Complete | 01-research-notes.md |
+| Story Analysis | ✅ Complete | 02-story-analysis.md |
+| X Posts | ✅ Complete | 03-social-posts-x.md — 8 posts, all ≤280 chars (2 char-limit fixes applied) |
+| Facebook Posts | ✅ Complete | 04-social-posts-facebook.md — 5 stories |
+| Image Concepts | ✅ Complete | 05-image-concepts.md |
+| Articles | ✅ Complete | 5 HTML articles |
+| Fact Check | ✅ Complete | 06-fact-check-log.md — 19 claims, 53 HIGH |
+| Compile Content Data | ✅ Complete | 07-content-data.json — 5 stories, 5 tweets, 5 articles |
+| Image Manifest | ✅ Complete | 07-image-manifest.md (10 images, status: not_started) |
+| Story History | ✅ Complete | story-history.md updated |
+| Review Dashboard | ✅ Complete | review-dashboard.html — 20 items |
+| Publish Dashboard | ⚠ Partial | Blocked — content-dashboards not in authorized repo |
+| PostPlanner Export | ⚠ Blocked | 0 posts (known parsing issue) |
+| PostPlanner TOBI | ⚠ Blocked | 0 posts (known parsing issue) |
+| WordPress Publish | ❌ Blocked | fanrumor.com:443 rejected by egress proxy (403) |
+| Git Push | ✅ Complete | Committed and pushed to main |
+
+**Stories covered:**
+1. T1 FOLLOW UP: Greyserman and Cole Share the Lead at Biltmore Championship (Ryan Calloway)
+2. T1 FOLLOW UP: Presidents Cup 6 Days Away — Snedeker's USA Roster and What Medinah Means (Jake Torres)
+3. T1 FOLLOW UP: LIV Golf's 25-Day Countdown: What Happens on October 13 (Marcus Cole)
+4. T2 FOLLOW UP: Jackson Koivun's 10-Day Stretch: Biltmore to Medinah (Ryan Calloway)
+5. T2 FOLLOW UP: Jon Rahm Is Owed $7.5 Million. His Oct. 13 Decision Is Golf's Most Watched Call. (Jake Torres)
 
 ---
 

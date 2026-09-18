@@ -2,6 +2,56 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-09-18
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-18 | T1 | Greyserman and Cole Share the Lead at Biltmore Championship | X(2), FB, Article | FOLLOW UP |
+| 2026-09-18 | T1 | Presidents Cup 6 Days Away — Snedeker's USA Roster and What Medinah Means | X(2), FB, Article | FOLLOW UP |
+| 2026-09-18 | T1 | LIV Golf's 25-Day Countdown: What Happens on October 13 | X(2), FB, Article | FOLLOW UP |
+| 2026-09-18 | T2 | Jackson Koivun's 10-Day Stretch: Biltmore to Medinah | X(1), FB, Article | FOLLOW UP |
+| 2026-09-18 | T2 | Jon Rahm Is Owed $7.5 Million. His Oct. 13 Decision Is Golf's Most Watched Call. | X(1), FB, Article | FOLLOW UP |
+
+### STORY 1: Biltmore Championship Round 2 Co-Leaders
+- **Tier:** 1
+- **Category:** PGA Tour / Biltmore Championship / Asheville / FedExCup Fall / Leaderboard
+- **Key facts:** Greyserman and Cole co-lead at -7 (64) after Round 1; six players at -6: Kohles, Kirk, Malnati, Shipley, Hughes, Suber; preferred lies all 4 rounds (weather/heat); Round 2 underway Friday Sept. 18; first PGA Tour event in western NC in 84 years
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R2 leaderboard, 54-hole leader, champion recap
+
+### STORY 2: Presidents Cup 6 Days Out
+- **Tier:** 1
+- **Category:** Presidents Cup / Medinah / Brandt Snedeker / Geoff Ogilvy / USA Team
+- **Key facts:** Sept. 24-27 Medinah CC; 6 days away; USA autos: Scheffler, Young, Clark, Henley, Burns, Morikawa; USA picks: Gotterup, Schauffele, Thomas, Cantlay, Bridgeman, Koivun; INTL: Scott, Matsuyama, Fox; USA 13-1-1 all-time; Day 1: 5 four-ball matches; NBC/Golf Channel/Peacock coverage
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Opening day pairings, Day 1 match results, final scoreboard
+
+### STORY 3: LIV Golf Oct. 13 Player Deadline
+- **Tier:** 1
+- **Category:** LIV Golf / Chapter 11 / BC Partners / Jon Rahm / Restructuring / Oct. 13
+- **Key facts:** Oct. 13 = 25 days from Sept. 18; threshold: 2/3 by dollar amount AND 1/2 by headcount; Rahm $7.5M; DeChambeau + DJ + Rahm = $18.7M; BC Partners $300M investment; LIV 2.0 targets 2027; if threshold missed, deal likely collapses; PGA Tour "no path back" (Rolapp); DP World Tour open for Rahm
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Oct. 13 court hearing, player commitments announced, deal status
+
+### STORY 4: Koivun Double Duty
+- **Tier:** 2
+- **Category:** Jackson Koivun / Biltmore Championship / Presidents Cup / USA Team
+- **Key facts:** Koivun competing at Biltmore this week (Sept. 17-20); Presidents Cup debut Sept. 24 Medinah; age 21, youngest USA team member; Snedeker captain's pick; 10-day window from individual stroke play to international team match play
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Biltmore result, Presidents Cup debut performance
+
+### STORY 5: Rahm's $7.5M Decision
+- **Tier:** 2
+- **Category:** Jon Rahm / LIV Golf / DP World Tour / Oct. 13 / BC Partners
+- **Key facts:** Rahm LIV's largest individual creditor at ~$7.5M; Oct. 13 deadline 25 days away; PGA Tour "no path back" confirmed by Rolapp; Rahm has DP World Tour card; decision signals direction to other LIV players; if LIV liquidates, claims go through bankruptcy process
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Rahm public statement, Oct. 13 decision outcome
+
 ## 2026-09-17
 
 | Date | Tier | Title | Platforms | Status |
