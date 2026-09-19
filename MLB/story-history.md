@@ -5,6 +5,60 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-09-19
+
+### Story 1: PCA 40-40 Chase — 47 HR, 37 SB, Cubs Win 5-4 vs. Reds
+- **Date:** 2026-09-19
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** PCA at 47 HR/37 SB — 3 steals from joining 40-40 club (7th ever: Canseco/Bonds/A-Rod/Soriano/Acuña/Ohtani). Would be first Cub ever. Already broke Billy Williams LH Cubs HR record (42, 1970). Cubs beat Reds 5-4 today. ~9 games left. .282 BA/.375 OBP/.956 OPS/105 RBI.
+- **Content Produced:** Article (article-01, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Each remaining game: steal chase countdown
+  - Wild Card round PCA performance
+
+### Story 2: Judge 10-Day IL — Right Calf Strain
+- **Date:** 2026-09-19
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Yankees placed Judge on 10-day IL retroactive to Sept 17, right calf strain. Just returned Sept 8 from 99-day IL (rib stress fracture). Boone: "I don't know" on postseason return. Eligible by final regular-season day. Yankees clinched 61st postseason berth.
+- **Content Produced:** Article (article-02, Ryan Calloway), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Judge return timeline before Oct 1
+  - Yankees postseason path without Judge
+
+### Story 3: Misiorowski vs. Orioles — Cy Young + Sheets K Record Chase
+- **Date:** 2026-09-19
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Misiorowski starts today at Camden Yards. 1.89 ERA/~243 K MLB-best. Cy Young -700. First pitcher 1,000 pitches 100+mph in tracking era. ~21 K from Ben Sheets Brewers franchise record 264K (2004). Brewers NL Central champs (4th straight).
+- **Content Produced:** Article (article-03, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Sheets record milestone in final starts
+  - Misiorowski postseason performance
+
+### Story 4: NL Wild Card Race — Cubs 5-4 Win, 9 Games Left
+- **Date:** 2026-09-19
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Cubs WC1 after 5-4 win vs Reds. Tiebreakers over Phillies AND Padres. D-backs fading 4+ out. Phillies ~1.0 back, Padres ~1.5-2.0 back. Wild Card starts Sept 29. Wrigley home games if Cubs hold WC1.
+- **Content Produced:** Article (article-04, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Final 9 games standings updates
+  - Wild Card bracket seeding
+
+### Story 5: Alvarez Triple Crown — Math Too Hard, 9 Games Left
+- **Date:** 2026-09-19
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** .310 BA leads AL (still). 38 HR trails Caminero ~40-41. ~99 RBI trails Alonso ~102. Cold since Aug 2 (.242/3HR/13RBI in 35+ games). TC effectively over. Would have been first since Cabrera 2012/second since Yastrzemski 1967/first ever for Astros.
+- **Content Produced:** Article (article-05, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - AL BA title still possible for Alvarez
+  - Astros postseason
+
+---
+
 ## 2026-09-18
 
 ### Story 1: PCA — 47 HR, Three-Homer Game vs Reds, Three Steals From 40-40

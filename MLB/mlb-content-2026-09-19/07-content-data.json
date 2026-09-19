@@ -1,0 +1,263 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-19",
+  "compiled_at": "2026-09-19T10:25:10.124234+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "PCA 40-40 Chase — 47 HR, 37 SB",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "47 HR. 37 SB. 3 steals from history.\n\nPete Crow-Armstrong is 3 stolen bases away from joining the 40-40 club.\n\n6 members ever: Canseco. Bonds. A-Rod. Soriano. Acuña. Ohtani.\n\nNo Cub has ever done it. 9 games left. #Cubs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 219
+        },
+        {
+          "label": "Post 2",
+          "text": "Cubs win 5-4 in Cincinnati today.\n\nPCA: chasing 40-40. Chasing October. Chasing history.\n\nThat's the most exciting player in baseball right now. #Cubs #LetsGo",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#LetsGo"
+          ],
+          "char_count": 158
+        }
+      ],
+      "facebook": {
+        "long_form": "Three. That's all that stands between Pete Crow-Armstrong and baseball history. 🔥\n\nWith the Cubs winning 5-4 in Cincinnati on Saturday, PCA continues one of the most compelling individual pursuits in the game right now. He stands at 47 home runs and 37 stolen bases — three steals from joining the most exclusive club in baseball: the 40-40 season.\n\nOnly six players in the history of the major leagues have ever hit 40 home runs and stolen 40 bases in the same season. Jose Canseco did it in 1988. Barry Bonds in 1996. Alex Rodriguez in 1998. Alfonso Soriano in 2006. Ronald Acuña Jr. in 2023. Shohei Ohtani in 2023. That's it. Six players. Six times in more than 140 years of professional baseball.\n\nPCA would be No. 7.\n\nAnd it would be the first 40-40 season by a Cub. Ever. In franchise history.\n\nHe's already broken Billy Williams' all-time record for home runs by a left-handed hitter in a Cubs season (Williams set the mark at 42 in 1970). PCA is sitting at 47. He broke that record by five. He's the first Cub to hit 47 home runs.\n\nNine games remain in the regular season. The Cubs play through September 28, then Wild Card opens September 29. Every game PCA steps to the plate and every time he reaches base, the possibility is there. Three stolen bases. Nine games. Do the math.\n\nThis is a front-row seat to something very rare. ⚾",
+        "image_caption": "47 HR. 37 SB. 3 steals from history. PCA is chasing what no Cub has ever done. 🔥 #Cubs #LetsGo",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-pca-40-40-chase-cubs-win-reds.html",
+        "headline": "Three Steals from History: PCA's 40-40 Chase Enters Final Nine Games",
+        "word_count": 658
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "PCA 40-40 Chase\n\n**Image Concept 1** (Article Hero / Open Graph — 1200x630)\n- **Subject:** Pete Crow-Armstrong, Chicago Cubs\n- **Search Term:** Pete Crow-Armstrong Chicago Cubs\n- **Use:** Article hero image\n- **Alt Text:** Pete Crow-Armstrong reacts after hitting a home run for the Chicago Cubs\n\n**Image Concept 2** (Social — 1080x1350)\n- **Subject:** Pete Crow-Armstrong stealing a base\n- **Search Term:** Pete Crow-Armstrong Cubs stolen base\n- **Use:** Social post — X + Facebook\n- **Alt Text:** Pete Crow-Armstrong slides safely into a base during a Cubs game\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "PCA 40-40 Chase\n**Source: WebSearch — MLB.com / Baseball Reference / Yahoo Sports / Bleed Cubbie Blue**\n- Pete Crow-Armstrong: 47 HR, 37 SB, .282 BA, .375 OBP, .581 SLG, .956 OPS, 105 RBI\n- Needs 3 more steals to join 40-40 club (7th ever)\n- 40-40 club: Jose Canseco 1988, Barry Bonds 1996, Alex Rodriguez 1998, Alfonso Soriano 2006, Ronald Acuña Jr. 2023, Shohei Ohtani 2023\n- Would be FIRST Cub ever to join the 40-40 club\n- Already broke Billy Williams' Cubs LH HR record (42, 1970)\n- First Cub with 47 HR — also first since Derrek Lee hit 46 in 2005 to hit 40+ HR\n- Cubs playing Reds on Sept. 19 at Great American Ball Park\n- Cubs beat Reds 5-4 (Sept. 19 result)\n- ~9 games remaining in regular season; Wild Card starts Sept. 29\n**Confidence: HIGH (stats from prior pipeline runs confirmed; game result from search)**",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Judge on 10-Day IL — Calf Strain",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Aaron Judge is on the 10-day IL. Right calf strain. Retroactive to Sept. 17.\n\nHe just came back on Sept. 8 from a 99-day IL (fractured rib).\n\nBoone on his postseason return: \"I don't know.\"\n\nThe Yankees clinched. But their best player may not make it to October. #Yankees",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees"
+          ],
+          "char_count": 271
+        },
+        {
+          "label": "Post 4",
+          "text": "Judge's 2026: 99 days out (rib). Back for 10 days. Now the calf.\n\nHe's eligible to return on the final day of the regular season — if healthy.\n\nBoone won't commit. The postseason starts without a guaranteed timeline. #Yankees",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "Aaron Judge is on the injured list again — and this time, the postseason timeline is genuinely uncertain. ⚾\n\nThe Yankees officially placed Judge on the 10-day injured list on September 18, retroactive to September 17, with a right calf strain. He was lifted for a pinch-hitter in the September 16 game against the Twins after experiencing stiffness in his lower right leg.\n\nThe timing is brutal. Judge had just returned from the injured list on September 8 after missing 99 days with a rib stress fracture. He played 10 days before the calf issue ended his regular season — at least for now. He is eligible to return by the final days of the regular season, which means his status for the postseason is genuinely in question.\n\nWhen reporters asked manager Aaron Boone whether Judge would be back for the postseason, Boone gave the most honest answer he could: \"I don't know.\"\n\nThe Yankees have clinched their 61st postseason berth — a record. They will play in October regardless. But the version of the Yankees that enters October without Aaron Judge is a very different team than the one that enters with him. He's the gravitational center of their lineup, the player who changes how opposing pitchers operate from the first batter of the game.\n\nThe calf injury is different from the rib fracture — it's a muscle issue rather than a bone injury. Whether it heals on Judge's accelerated timeline or takes longer is something nobody can answer right now. Including Aaron Boone. 🗓️",
+        "image_caption": "Judge on IL. Calf strain. Boone: \"I don't know.\" The Yankees will play October — but will their best player? #Yankees ⚾",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-judge-10-day-il-calf-strain-yankees.html",
+        "headline": "Judge on IL Again: Calf Strain Puts Yankees Captain's Postseason Status in Doubt",
+        "word_count": 703
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Judge 10-Day IL\n\n**Image Concept 3** (Article Hero / Open Graph — 1200x630)\n- **Subject:** Aaron Judge, New York Yankees\n- **Search Term:** Aaron Judge New York Yankees\n- **Use:** Article hero image\n- **Alt Text:** Aaron Judge at bat for the New York Yankees\n\n**Image Concept 4** (Social — 1080x1350)\n- **Subject:** Aaron Judge on field, Yankees\n- **Search Term:** Aaron Judge Yankees field\n- **Use:** Social post — X + Facebook\n- **Alt Text:** Aaron Judge walks off the field during a Yankees game in September 2026\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Judge 10-Day IL\n**Source: WebSearch — MLB.com / Bleacher Report / Yardbarker / BaseballNow**\n- Aaron Judge placed on 10-day IL, retroactive to September 17, 2026\n- Injury: right calf strain\n- Context: Judge exited Sept. 16 game vs. Twins in 3rd inning with right lower-leg tightness\n- Just returned September 8 from 99-day IL (rib stress fracture)\n- Manager Aaron Boone on postseason return: \"I don't know\"\n- No firm timeline established\n- Eligible to return by final day(s) of regular season\n- Yankees clinched 61st postseason berth (record)\n- Yankees regular-season record ~87-66\n- Yankees ranked highly in AL — likely top AL Wild Card or division seeding\n**Confidence: HIGH (multiple sources confirmed IL placement and \"I don't know\" Boone quote)**",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Misiorowski vs. Orioles Today",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Jacob Misiorowski starts today at Camden Yards.\n\n1.89 ERA (MLB best). ~243 K (MLB best). The first pitcher ever with 1,000 pitches 100+ mph.\n\nCy Young: -700. 21 K away from Ben Sheets' Brewers franchise record (264K, 2004).\n\nEvery Misiorowski start is a milestone. #Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": {
+        "long_form": "Every Jacob Misiorowski start in September is a tick closer to history. Today's is no different. ⚾\n\nThe Brewers' 24-year-old ace takes the mound at Camden Yards in Baltimore on Saturday, carrying a 1.89 ERA (best in the majors) and approximately 243 strikeouts (also the most in baseball) into a start that could push him even further toward the most dominant pitching season in Milwaukee Brewers history.\n\nThe milestone within reach: Ben Sheets' franchise record of 264 strikeouts, set in 2004. Misiorowski needs approximately 21 more to break it. With a few starts remaining, getting there is entirely realistic — and it would cap a season that already includes one of the most jaw-dropping stat lines in the game.\n\nHe became the first pitcher in MLB Statcast history to throw 1,000 pitches at 100 mph or higher in a single season — by a wide margin. His fastest recorded pitch this year: 105.5 mph. That number alone separates him from virtually every pitcher who has ever played the game.\n\nThe Cy Young market says everything. Misiorowski is listed at -700. The next closest pitcher is Chris Sale at +500. That is not a race. That is a formality. When November arrives, the award will go to Lubbock — to a 24-year-old who rewrote what we thought was possible on a pitcher's mound. 🏆",
+        "image_caption": "Misiorowski starts today. 1.89 ERA. ~243 K. 21 away from the Brewers' all-time K record. The Cy Young is his. #Brewers",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-misiorowski-orioles-start-cy-young-record.html",
+        "headline": "Misiorowski Starts in Baltimore: Cy Young Lock Chases Brewers Strikeout Record",
+        "word_count": 641
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Misiorowski vs. Orioles\n\n**Image Concept 5** (Social — 1080x1350)\n- **Subject:** Jacob Misiorowski pitching, Milwaukee Brewers\n- **Search Term:** Jacob Misiorowski Milwaukee Brewers\n- **Use:** Social post — X + Facebook\n- **Alt Text:** Jacob Misiorowski delivers a pitch for the Milwaukee Brewers\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Misiorowski Today vs. Orioles\n**Source: WebSearch — ESPN / Fox Sports / Baseball Reference**\n- Jacob Misiorowski, SP, Milwaukee Brewers\n- Age 24 (born 2002)\n- 2026 season: 19-8 W-L, ~1.89 ERA (MLB-best), ~0.81 WHIP, ~243 K (MLB-best)\n- First pitcher in MLB Statcast tracking era to throw 1,000 pitches at 100+ mph in a single season\n- Fastest pitch by a starting pitcher: 105.5 mph\n- Cy Young betting: -700 (vs. Sale +500 next closest)\n- Ben Sheets Brewers franchise K record: 264 (2004) — Misiorowski needs ~21 more to break it\n- Scheduled start Sept. 19 vs. Orioles at Camden Yards\n- Brewers clinched NL Central (4th straight, first team since 1994 to win 4 straight)\n- Brewers record: ~94-58\n**Confidence: HIGH (stats confirmed across multiple prior pipeline runs and searches; Sheets K record 264 verified)**",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "NL Wild Card Race — Cubs 5-4 Win",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Cubs 5, Reds 4. Saturday. Nine games left.\n\nChicago holds Wild Card 1. Tiebreakers over Phillies AND Padres. D-backs fading.\n\nWild Card starts Sept. 29. The Cubs' seat at that table gets more comfortable. #Cubs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 210
+        }
+      ],
+      "facebook": {
+        "long_form": "Cubs 5, Reds 4. Nine games left. The seat at October's table belongs to Chicago. ⚾\n\nSaturday's 5-4 win in Cincinnati was the kind of game that matters in September — not just for the standings, but for the identity of a team that believes it belongs in the postseason. The Cubs hold the No. 1 Wild Card spot in the National League, and they carry tiebreakers over both the Phillies and the Padres.\n\nHere's what the current Wild Card picture looks like with about nine games remaining:\n\nChicago Cubs: WC1 — approximately 86 wins, tiebreakers over Phillies and Padres\nPhiladelphia Phillies: ~1.0 game back\nSan Diego Padres: ~1.5-2.0 games back\nArizona Diamondbacks: fading, 4+ games out\n\nThe Wild Card round begins September 29. If the Cubs hold WC1, they host their first Wild Card home game in the format that rewards regular-season performance with home-field advantage. For a team built around Pete Crow-Armstrong's electric two-way game, playing at Wrigley Field in October is a significant edge.\n\nThe next nine games are the last nine that count before the bracket is locked. Chicago has earned their position. Now it's about keeping it. 🏆",
+        "image_caption": "Cubs win 5-4 in Cincinnati. WC1 with 9 games left. October is coming to Wrigley. #Cubs #LetsGo",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-nl-wildcard-cubs-win-reds-nine-games.html",
+        "headline": "Cubs Win 5-4 in Cincinnati: Nine Games Left to Lock Up NL Wild Card 1",
+        "word_count": 649
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NL Wild Card Race\n\n**Image Concept 6** (Social — 1080x1350)\n- **Subject:** Cubs dugout celebration, Wrigley Field\n- **Search Term:** Chicago Cubs celebration dugout\n- **Use:** Social post — X + Facebook\n- **Alt Text:** Cubs players celebrate a run scored during their September playoff push\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NL Wild Card Race\n**Source: WebSearch — Yahoo Sports / CBS Sports / Fox Sports**\n- Cubs in NL WC1 spot (best WC record)\n- Cubs hold tiebreakers vs. Phillies AND Padres\n- ~9 games remaining for all teams\n- Cubs beat Reds 5-4 on Sept. 19\n- Phillies close behind (approx. 1.0 game back)\n- Padres also in WC (approx. 1.5-2.0 games back)\n- Arizona Diamondbacks fading (4+ games out)\n- Wild Card round begins September 29\n- Brewers (NL Central champs) get No. 1 NL seed + bye\n- Dodgers likely No. 2 seed + bye\n- NL bracket becoming clearer as regular season winds down\n**Confidence: MEDIUM-HIGH (standings approximated from searches; exact game-by-game may shift)**",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Alvarez Triple Crown — The Math Gets Hard",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Yordan Alvarez still leads the AL in batting average at .310.\n\nBut 38 HR trails Caminero. ~99 RBI trails Alonso. Cold since Aug. 2.\n\nThe Triple Crown math is brutal with 9 games left.\n\nThe chase was real. History had other plans. #Astros",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Astros"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "The Triple Crown chase was one of the great storylines of the 2026 season. The math has finally caught up with it. 📊\n\nYordan Alvarez still leads the American League in batting average, sitting at .310. That part of the crown is his. But the other two pieces — home runs and RBIs — have slipped out of reach.\n\nAlvarez has 38 home runs, trailing Yandy Caminero of the Tampa Bay Rays, who is sitting at approximately 40-41. He has approximately 99 RBIs, trailing Pete Alonso of the Baltimore Orioles, who is at approximately 102. With about nine games remaining in the regular season, catching either player would require both a historic hot streak for Alvarez and a historic collapse from his rivals at exactly the same time.\n\nThe reason the gap exists is a second-half slump that Alvarez has been unable to shake. Since August 2, he has hit .242 with just three home runs and approximately 13 RBIs in more than 35 games. The timing was devastating for his Triple Crown chances — the exact weeks when he needed to separate himself, he went quiet.\n\nIf Alvarez had won it, he would have been the first Triple Crown winner since Miguel Cabrera in 2012 and only the second since Carl Yastrzemski in 1967. No Astros player has ever won the Triple Crown. Those facts remain facts — the chase was real, the historic company would have been real, and Alvarez gave fans something worth watching all summer.\n\nHe still leads the AL in batting average. That's not nothing. But October is arriving, and the Triple Crown chase is closing its books. 📊",
+        "image_caption": ".310 BA leads the AL. But 38 HR and ~99 RBI aren't enough. Alvarez's Triple Crown chase ends with 9 games left. #Astros",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-alvarez-triple-crown-math-final-nine.html",
+        "headline": "The Triple Crown Math Is Brutal: Alvarez Leads BA but Trails Where It Counts",
+        "word_count": 650
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alvarez Triple Crown\n\n**Image Concept 7** (Social — 1080x1350)\n- **Subject:** Yordan Alvarez, Houston Astros\n- **Search Term:** Yordan Alvarez Houston Astros\n- **Use:** Social post — X + Facebook\n- **Alt Text:** Yordan Alvarez at bat for the Houston Astros during the 2026 season"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Alvarez Triple Crown Math\n**Source: WebSearch — ESPN / Yahoo Sports / CBS Sports / Beisbol Love**\n- Yordan Alvarez 2026 stats: .310 BA (leads AL), ~38 HR (trails Yandy Caminero TB ~40-41), ~99 RBI (trails Pete Alonso BAL ~102)\n- Last AL Triple Crown: Miguel Cabrera 2012\n- Historical rarity: only 2 winners since 1967 (Yastrzemski 1967, Cabrera 2012)\n- No Astros player has ever won the Triple Crown\n- Alvarez cold since Aug. 2: .242 BA, 3 HR, ~13 RBI in 35+ games\n- ~9 games remaining; gap is effectively too large barring extraordinary circumstances\n- Still leads BA — but HR and RBI categories are out of reach unless rivals collapse\n**Confidence: MEDIUM-HIGH (stats from multiple search sources; approximate figures used where exact unavailable)**",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
