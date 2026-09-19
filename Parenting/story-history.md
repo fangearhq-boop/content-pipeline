@@ -2,6 +2,50 @@
 
 ---
 
+## September 19, 2026
+
+### Story 1: Bark at Briargate — Free Dog Adoption Event Today
+- **Date:** 2026-09-19
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Happening today Sep 19, 11 AM–3 PM at The Promenade Shops at Briargate COS; free admission; LovePup Foundation partner; on-site dog adoptions, pet vendors, giveaways; bring new unused pet supply donation; free for all ages
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 2: SHEIN Recalls Pull & Chew Montessori Teething Toys — Choking and Respiratory Hazard
+- **Date:** 2026-09-19
+- **Tier:** T1
+- **Pillar:** National Parenting (Product Safety)
+- **Key Facts:** CPSC recall; ~644 units; sold SHEIN.com Dec 2025–Apr 2026 ~$10; silicone strings smaller and longer than permitted standards; can reach back of throat; choking/respiratory hazard; stop use immediately, cut strings, email photo to productrecall@shein.com for refund; cpsc.gov
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 3: D49 Opens Two New Early Childhood Classrooms at Creekside Success Center
+- **Date:** 2026-09-19
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** Creekside Success Center at 3850 Pony Tracks Dr COS CO 80922; two new early childhood classrooms opened August 2026 (2026-27 school year); Falcon School District 49 (D49); recognized at Fantastic 49 presentation Sep 10; supports east/northeast COS families; d49.org
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 4: 6.7 Million Kids Live in Homes with Loaded, Unlocked Guns — AAP Pediatrics Research
+- **Date:** 2026-09-19
+- **Tier:** T1
+- **Pillar:** National Parenting
+- **Key Facts:** AAP Pediatrics journal estimate; 6.7 million children in US in homes with loaded unlocked firearm; safe storage: unloaded, locked safe, ammo separate; BeSmartForKids.org and ProjectChildSafe.org free resources (cable locks); pediatrician well-child visit discussion recommended; Colorado child access prevention laws
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 5: COS Fall and Halloween Festival Guide — October 2026
+- **Date:** 2026-09-19
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Venetucci Farm Pumpkin Fest Oct 2–31 (Fri 9:30am-2pm, Sat-Sun 9:30am-4pm, $8 free under 3); Miners' Pumpkin Patch WMMI Oct Saturdays 9am-4pm $13 online; Emma Crawford Coffin Races Oct 24 Manitou Springs free; Old Colorado City Fall Celebration Oct 24 noon-6pm free; Hocus Pocus at Briargate TBA date; sources: gazette.com, visitcos.com, wmmi.org
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+---
+
 ## September 18, 2026
 
 ### Story 1: D11 High Schools Earn State's Top Performance Rating — Watchlist Drops to 10%

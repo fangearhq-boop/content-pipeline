@@ -1,6 +1,37 @@
 # COS Parenting — Pipeline Status
 
-## Current Run: 2026-09-18
+## Current Run: 2026-09-19
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Bark at Briargate Sep 19 11am-3pm (visitcos.com, gazette.com); SHEIN Pull & Chew teething toy recall Sep 2026 (~644 units, cpsc.gov); D49 Creekside Success Center 2 new early childhood classrooms Aug 2026 (d49.org); AAP Pediatrics 6.7M kids in homes with loaded unlocked guns; COS fall/Halloween guide Oct 2026 events (gazette.com, visitcos.com, wmmi.org) |
+| Story History Check | COMPLETE | All 5 stories NEW — verified against Sep 18 (CooCooBaby recall/D11/D20/AAP screen time/pumpkin patches) and Sep 17 entries; no repeats |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: visitcos.com, gazette.com, thepromenadeshopsatbriargate.com, cpsc.gov, consumeraffairs.com, d49.org, publications.aap.org, wmmi.org, coloradoparent.com |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows, voice check |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories; all ≤280 chars (fixed 3 overlimit posts); 4 hashtags each; max 1 exclamation mark; COS voice rules applied |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; no hashtags; engagement questions; COS voice rules applied |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only prompts; detailed scene/mood/lighting/palette descriptions; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 Bark at Briargate (Jamie Rivera, T2, QR table); article-02 SHEIN recall (Sarah Morales, T1, QR table); article-03 D49 Success Center (Jamie Rivera, T2, QR table); article-04 6.7M kids gun safety (Sarah Morales, T1, QR table); article-05 COS fall/Halloween guide (Jamie Rivera, T2, QR table) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 67 claims; HIGH/MEDIUM/LOW prioritized; MISSING STORY warnings cosmetic (parser header mismatch, known) |
+| Compile Content Data | COMPLETE (partial) | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts, 5 articles (FB 0 is known parser compat issue) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries (2 per story), all not_started, gemini base_only, brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 17 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser compat issue — ran both standard and --tobi |
+| WordPress Publish | BLOCKED | WP credentials not configured (known recurring issue) |
+| Story History | COMPLETE | 5 new entries prepended to Parenting/story-history.md (Sep 19 section) |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB long-form + 5 FB captions = 17 total
+- **Articles:** 5 (bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4])
+- **PostPlanner exports:** 0 posts (known parser compat issue)
+- **Key stories:** Bark at Briargate free dog adoption event TODAY 11am-3pm; SHEIN Pull & Chew teething toy CPSC recall (~644 units, stop use + cut strings + email photo for refund); D49 opens 2 new early childhood classrooms at Creekside Success Center; AAP Pediatrics: 6.7M US kids in homes with loaded unlocked guns; COS Oct fall/Halloween guide (Venetucci, WMMI, Emma Crawford, Old Colorado City)
+- **Issues:** PostPlanner 0 posts (known); WordPress credentials not configured; dashboard push blocked (not in session authorized repos)
+
+---
+
+## Previous Run: 2026-09-18
 
 | Step | Status | Notes |
 |------|--------|-------|
