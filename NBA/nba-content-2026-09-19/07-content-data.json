@@ -1,0 +1,246 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-19",
+  "compiled_at": "2026-09-19T11:19:43.279046+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Curry Extension Clock — 9 Days to Warriors Media Day",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "**Post 1 (9:00 AM ET — Morning recap)**\n9 days to Warriors media day. Steph Curry still hasn't signed the $136.7M extension. Mutual interest confirmed. Curry has full structural control. Still no ink. Media day is Sept. 28. #Warriors #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Warriors",
+            "#NBA"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-curry-extension-9-days-media-day.html",
+        "headline": "9 Days and No Deal: Curry Extension Window Is Closing Fast",
+        "word_count": 707
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Curry Extension\n\n**Social Image (1080x1350):**\n- Search term: `Stephen Curry Golden State Warriors`\n- Subject: Curry in Warriors uniform, close-up or action shot\n- Overlay text: \"9 DAYS\" / \"Still Unsigned\" / \"Warriors Media Day: Sept. 28\"\n- Mood: Tension, anticipation\n\n**Article Hero (1200x630):**\n- Search term: `Stephen Curry Golden State Warriors`\n- Wide shot for landscape crop\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Stephen Curry Extension — 9 Days\n**Sources:**\n- SF Chronicle: Curry reiterates desire to be Warriors lifer amid contract talks\n- Hoops Rumors: Warriors Notes — Curry, Butler, Vogel, Green (Sept. 2026)\n- Heavy.com: Warriors, Stephen Curry Eye Looming Date for Contract Extension\n- CBSSports: Stephen Curry Agrees to Huge One-Year Extension (earlier historical reference)\n- ESPN/Slater: Both sides confirm mutual desire; Warriors giving Curry structural flexibility\n**Key Facts (HIGH confidence):**\n- Curry extension eligibility: 2 years, up to $136.7 million [HIGH]\n- Warriors media day: September 28, 2026 [HIGH]\n- Training camp: September 29 [HIGH]\n- Curry told CNBC: no interest in free agency, wants to finish career as a Warrior [HIGH]\n- If Curry signs full max, Warriors' cap space drops from ~$130M to ~$45–65M [MEDIUM — estimated range from reporting]\n- Draymond Green and Jimmy Butler III both in final year of contracts 2026-27 [HIGH from prior research]\n- No extension announced as of 2026-09-19 [HIGH]\n**Story angle:** 9-day countdown; each day of silence is a story.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "DOJ Clippers Probe — Week Six",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "**Post 3 (11:00 AM ET — Developing story)**\nThe DOJ probe into the Clippers is now in week six. Subpoena issued. No charges. Joseph Sanberg — wire fraud conviction, 14-year sentence — may be a cooperating witness. Federal case grinds on. #Clippers #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Clippers",
+            "#NBA"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-doj-clippers-probe-week-six.html",
+        "headline": "DOJ Clippers Probe Enters Week Six — A Cooperating Witness Emerges",
+        "word_count": 656
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "DOJ Clippers Probe\n\n**Social Image (1080x1350):**\n- Search term: `Steve Ballmer Los Angeles Clippers`\n- Subject: Ballmer courtside or arena shot\n- Overlay text: \"WEEK 6\" / \"DOJ Probe Continues\" / \"No Charges Filed\"\n- Mood: Serious, investigative\n\n**Article Hero (1200x630):**\n- Search term: `Los Angeles Clippers arena`\n- Wide exterior or interior arena shot\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "DOJ Clippers Probe — Week Six\n**Sources:**\n- Yahoo Sports: Department of Justice opens criminal inquiry into Clippers, Kawhi Leonard\n- Sportico: Clippers Kawhi Cap Scandal Gets DOJ Probe\n- Hoops Rumors: Clippers Notes — DOJ Probe, Beal, Paul, No. 3 (Sept. 2026)\n- ABC7 LA: DOJ opens criminal investigation into Clippers' Kawhi Leonard dealings\n- NBC Sports: Justice Department opens federal investigation into Clippers' dealings with Kawhi Leonard\n- Eastern Herald: Federal Prosecutors Open Criminal Probe Into Clippers Over Kawhi Leonard Deals\n**Key Facts (HIGH confidence):**\n- EDNY (Eastern District of New York) running investigation [HIGH]\n- Investigation in \"earliest stages\" [HIGH]\n- DOJ probe into alleged no-show endorsement deals through ~4 companies [HIGH]\n- Estimated no-show payments: approximately $18 million via 3 firms [MEDIUM]\n- NBA penalties: $30M fine, 5 picks (2029–2033) [HIGH]\n- Ballmer: 1 year suspension; Frank: 6 months; Zucker: 1 year; Robertson: 5 years [HIGH]\n- Leonard fined $700,000 [HIGH]\n- Leonard trade to Raptors: ratified [HIGH]\n- Joseph Sanberg (wire fraud conviction, 14-year sentence) potential cooperating witness [MEDIUM — sourced from single report]\n- No charges filed as of 2026-09-19 [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Jalen Duren QO — 12 Days Left, Still No Deal",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "**Post 5 (11:00 AM ET — Developing)**\n12 days to the Oct. 1 deadline. Duren wants $200M+. Pistons offered $190M/5yrs. Marc Stein says Duren is \"increasingly prepared\" to accept the $9.6M QO. The gap has not closed. #Pistons #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Pistons",
+            "#NBA"
+          ],
+          "char_count": 228
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-duren-qo-12-days-pistons.html",
+        "headline": "12 Days Left: The Math Behind Duren's Qualifying Offer Gamble",
+        "word_count": 666
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Duren QO\n\n**Social Image (1080x1350):**\n- Search term: `Jalen Duren Detroit Pistons`\n- Subject: Duren in Pistons uniform\n- Overlay text: \"12 DAYS\" / \"Still No Deal\" / \"Oct. 1 Deadline\"\n- Mood: Tension, uncertainty\n\n**Article Hero (1200x630):**\n- Search term: `Jalen Duren Detroit Pistons`\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Jalen Duren QO — 12 Days\n**Sources:**\n- Detroit Jock City: Jalen Duren QO — worst of all worlds for Pistons\n- Last Word on Sports: Rotation will change dramatically with Duren on QO\n- TalkBasket: Duren \"emboldened\" to take Pistons' qualifying offer\n- Heavy.com: Pistons All-Star Prepared for Risky $9.6 Million Decision\n- Eastern Herald: Jalen Duren Qualifying Offer — Pistons Face Oct. 1 Deadline\n- Marc Stein (reported previously): Duren \"increasingly prepared\" to accept QO\n**Key Facts (HIGH confidence):**\n- Oct. 1 = qualifying offer deadline for restricted free agents [HIGH]\n- Duren's qualifying offer: $9.6 million, one year [HIGH]\n- Pistons' last offer: 5 years, $190 million ($38M AAV) [HIGH]\n- Duren seeking: at least $200 million [HIGH]\n- If Duren accepts QO: Pistons lose all matching rights; Duren becomes UFA next summer [HIGH]\n- Sacramento Kings reportedly prepared to offer max deal next summer [MEDIUM — single source]\n- Duren age: 22 [HIGH]\n- Marc Stein reported Duren \"increasingly prepared\" to accept [HIGH]\n- 12 days remain as of Sept. 19 [HIGH — calculated from Oct. 1 deadline]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Knicks Banner Night — 31 Days Out",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "**Post 7 (9:00 AM ET — Morning)**\n31 days until the Knicks raise their first banner since 1973. Then LeBron James walks into MSG in a 76ers jersey for his debut. The most loaded Opening Night in recent memory. #Knicks #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Knicks",
+            "#NBA"
+          ],
+          "char_count": 222
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-knicks-banner-night-31-days-lebron-76ers.html",
+        "headline": "31 Days to Banner Night: Why This NBA Opener Is Unlike Any Other",
+        "word_count": 635
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Knicks Banner Night\n\n**Social Image (1080x1350):**\n- Search term: `Jalen Brunson New York Knicks`\n- Subject: Brunson celebrating, or MSG crowd, or championship celebration\n- Overlay text: \"31 DAYS\" / \"First Banner Since 1973\" / \"Oct. 20 at MSG\"\n- Mood: Celebratory, historic\n\n**Article Hero (1200x630):**\n- Search term: `New York Knicks Madison Square Garden`\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Knicks Banner Night — 31 Days Out\n**Sources:**\n- Yahoo Sports: Knicks will make LeBron James watch their opening-night banner\n- ESPN: Champion Knicks face Sixers, LeBron in NBA tripleheader\n- Yardbarker: LeBron James Will Debut With 76ers At Knicks' Banner Ceremony\n- Sports731: LeBron set for 76ers debut against NY Knicks on opening night\n- Eastern Herald: NBA 2026-27 Schedule: LeBron, 76ers Visit Madison Square Garden on Knicks Banner Night\n**Key Facts (HIGH confidence):**\n- Knicks' banner ceremony: October 20, 2026, 6:30 PM ET at MSG [HIGH]\n- Tipoff: 7:00 PM ET on NBC/Peacock [HIGH]\n- Opponent: Philadelphia 76ers [HIGH]\n- LeBron James (age 41) making his 76ers debut [HIGH]\n- 76ers roster: LeBron + Joel Embiid + Tyrese Maxey + Jaylen Brown [HIGH]\n- Knicks last championship banner: 1973 (53 years ago) [HIGH]\n- Knicks beat the San Antonio Spurs in 5 games for 2026 title [HIGH]\n- Finals MVP: Jalen Brunson [HIGH from prior sessions]\n- Oct. 20 is also the official regular season opener [HIGH]\n- NBA tripleheader: Celtics vs. Pistons (3 PM ET), Knicks vs. 76ers (7 PM), Thunder vs. Spurs (9:30 PM) — all NBC [HIGH]\n- MSG ticket glitch sent upper-level prices above $1,000 before pause [HIGH from yesterday's research]\n- Knicks swept 76ers 4-0 in earlier playoff matchup, averaging 124.3 points [MEDIUM — single source]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "NBA Preseason Kicks Off Oct. 3 in Quebec City",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "**Post 9 (4:00 PM ET — Preview)**\nThe NBA preseason tips off Oct. 3 — with the first-ever NBA game in Quebec City. Toronto hosts Miami at Videotron Centre. Camps open Sept. 29. Regular season Oct. 20. #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA"
+          ],
+          "char_count": 205
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-nba-preseason-quebec-city-oct-3.html",
+        "headline": "NBA Preseason Tips Off Oct. 3 With First-Ever Game in Quebec City",
+        "word_count": 647
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NBA Preseason Quebec City\n\n**Social Image (1080x1350):**\n- Search term: `Toronto Raptors basketball`\n- Subject: Raptors player in action or team shot\n- Overlay text: \"PRESEASON STARTS OCT. 3\" / \"First NBA Game in Quebec City\" / \"2026-27 Season\"\n- Mood: Excitement, historic milestone\n\n**Article Hero (1200x630):**\n- Search term: `NBA basketball arena court`\n- Wide arena or court shot\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NBA Preseason Oct. 3 — Quebec City\n**Sources:**\n- Sportsbrackets.net: 2026-27 NBA Training Camp and Media Day: Key Dates & Schedule\n- NBA.com: Key dates for 2026-27 NBA season\n- EssentiallySports: NBA Pre-Season Schedule 2026\n- nba-schedule.net: 2026-27 NBA Preseason Schedule\n**Key Facts (HIGH confidence):**\n- Training camps open: September 29, 2026 [HIGH]\n- Preseason starts: October 3 [HIGH]\n- Preseason ends: October 16 [HIGH]\n- First game: Toronto Raptors vs. Miami Heat at Videotron Centre, Quebec City [HIGH]\n- Quebec City first NBA game ever [HIGH — unique/historic]\n- Mavericks and Rockets report September 22 for Macao trip [HIGH]\n- Macao games: October 9 and 11 at The Venetian Arena [HIGH]\n- Raptors play Clippers in Vancouver October 10 [HIGH]\n- Regular season: October 20 [HIGH]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

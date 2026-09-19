@@ -1,7 +1,7 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Current Status
-**Last Run:** 2026-09-18
+**Last Run:** 2026-09-19
 **Steps Completed:** All pipeline steps (1-14); WordPress publish blocked by proxy policy
 
 ## Deploy Info
@@ -11,6 +11,26 @@
 - **Note:** Dashboard publish push blocked (content-dashboards not in authorized repo set)
 
 ## Pipeline Run Log
+### 2026-09-19 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
+- Step 10: verify-facts.py run — 5 stories, 36 claims (all HIGH), image warnings expected (imagn sourcing)
+- Step 10b: compile-content-data.py — 5 stories, 5 tweets, 5 articles compiled (posting window warnings — known non-blocking issue; FB=0 known parsing issue)
+- Step 11: Image manifest created (not_started for all — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (20 items)
+- Step 14a: publish-unified-dashboard.py — push blocked (proxy policy for content-dashboards)
+- Step 14b: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 14c: generate-postplanner-export.py --tobi — 0 posts (known parsing issue)
+- Step 15: publish-to-wordpress.py — BLOCKED (fanrumor.com not allowed by egress proxy)
+- Git commit + push: ✅ (pending)
+
+**Stories covered:**
+1. T1 FOLLOW UP: 9 Days and No Deal — Curry Extension Window Is Closing Fast
+2. T1 FOLLOW UP: DOJ Clippers Probe Enters Week Six — A Cooperating Witness Emerges
+3. T1 FOLLOW UP: 12 Days Left: The Math Behind Duren's Qualifying Offer Gamble
+4. T1 FOLLOW UP: 31 Days to Banner Night — Why This NBA Opener Is Unlike Any Other
+5. T2 NEW: NBA Preseason Tips Off Oct. 3 With First-Ever Game in Quebec City
+
 ### 2026-09-18 ✅ (Automated)
 - Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
 - Step 10: verify-facts.py run — 5 stories, 36 claims (all HIGH), image warnings expected (imagn sourcing)

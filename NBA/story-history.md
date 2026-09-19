@@ -2,6 +2,56 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-09-19
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-19 | T1 | 9 Days and No Deal — Curry Extension Window Is Closing Fast | X(2), FB, Article | FOLLOW UP |
+| 2026-09-19 | T1 | DOJ Clippers Probe Enters Week Six — A Cooperating Witness Emerges | X(2), FB, Article | FOLLOW UP |
+| 2026-09-19 | T1 | 12 Days Left: The Math Behind Duren's Qualifying Offer Gamble | X(2), FB, Article | FOLLOW UP |
+| 2026-09-19 | T1 | 31 Days to Banner Night — Why This NBA Opener Is Unlike Any Other | X(2), FB, Article | FOLLOW UP |
+| 2026-09-19 | T2 | NBA Preseason Tips Off Oct. 3 With First-Ever Game in Quebec City | X(1), FB, Article | NEW |
+
+### STORY 1: Stephen Curry Extension — 9 Days
+- **Tier:** 1
+- **Category:** Golden State Warriors / Stephen Curry / Contract Extension
+- **Key facts:** 9 days to Sept. 28 media day; 2yr/$136.7M eligible; would make Curry first to $600M career; Warriors giving Curry full structural control; Curry told CNBC: no free agency interest; no deal announced; if max, Warriors' cap space cut from ~$130M to ~$45-65M; Green and Butler III in final year
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Extension signed before media day; media day unsigned; training camp update
+
+### STORY 2: DOJ Clippers Federal Probe — Week Six
+- **Tier:** 1
+- **Category:** Los Angeles Clippers / DOJ / Kawhi Leonard / EDNY
+- **Key facts:** EDNY criminal probe ongoing, "earliest stages"; Daktronics subpoena issued; no charges; Joseph Sanberg (wire fraud conviction, 14-yr sentence) potential cooperating witness; NBA penalties: $30M, 5 picks (2029-2033), Ballmer 1yr, Frank 6mo, Zucker 1yr, Robertson 5yr, Leonard $700K; Leonard trade to Raptors ratified
+- **Byline:** Damon Pierce
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Grand jury activity, new subpoenas, DOJ announcement, case closure
+
+### STORY 3: Jalen Duren QO — 12 Days
+- **Tier:** 1
+- **Category:** Detroit Pistons / Jalen Duren / Qualifying Offer
+- **Key facts:** Oct. 1 deadline = 12 days; Pistons offer $190M/5yr; Duren wants $200M+; if QO accepted, Pistons lose matching rights; Kings reportedly max offer ready; Duren age 22; Marc Stein: "increasingly prepared" to accept
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Deal signed, QO accepted Oct. 1, Kings formally confirmed
+
+### STORY 4: Knicks Banner Night — 31 Days Out
+- **Tier:** 1
+- **Category:** New York Knicks / Opening Night / LeBron James / Philadelphia 76ers
+- **Key facts:** Banner ceremony Oct. 20, 6:30 PM ET at MSG; tipoff 7:00 PM NBC/Peacock; LeBron (41) 76ers debut; 76ers: LeBron+Embiid+Maxey+Brown; first Knicks banner since 1973; beat Spurs in 5; NBA tripleheader (Celtics-Pistons 3pm, Knicks-76ers 7pm, Thunder-Spurs 9:30pm); MSG ticket glitch, prices above $1K
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Training camp Knicks/76ers storylines; preseason preview
+
+### STORY 5: NBA Preseason Opens Oct. 3 — Quebec City
+- **Tier:** 2
+- **Category:** NBA / Preseason / Toronto Raptors / 2026-27 Season
+- **Key facts:** Preseason Oct. 3–16; opener: Raptors vs. Heat at Videotron Centre, Quebec City (first-ever NBA game there); Mavericks and Rockets in Macao Oct. 9 and 11 at Venetian Arena; Raptors vs. Clippers in Vancouver Oct. 10; camps open Sept. 29; regular season Oct. 20
+- **Byline:** Damon Pierce
+- **Status:** NEW
+- **Follow-up ideas:** Quebec City game coverage, preseason results
+
 ## 2026-09-18
 
 | Date | Tier | Title | Platforms | Status |
