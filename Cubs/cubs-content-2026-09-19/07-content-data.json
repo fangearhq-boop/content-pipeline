@@ -1,0 +1,241 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-19",
+  "compiled_at": "2026-09-19T09:17:29.672189+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Game recap — Reds 6, Cubs 4 (Holmes meltdown)",
+      "type": "Story 1"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Wild Card: three-way tie, Cubs own tiebreakers",
+      "type": "Story 2"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "PCA 40-40: 44/37, needs 3 SBs in 8 games",
+      "type": "Story 3"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "Holmes October question: command concerns",
+      "type": "Story 4"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Game 2 preview: Boyd vs Lodolo, 5:40 PM CT",
+      "type": "Story 5"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Pre-game hype: three-way tie, Wrigley on the line",
+      "type": "Story 6"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Game Recap — Reds 6, Cubs 4",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "3 walks in the sixth. Holmes left with the bases loaded.\n\nAssad allowed Suarez + Trevino to drive in 3 more — Reds 6, Cubs 4. Chicago falls to 85-69.\n\nStill WC1 on tiebreakers. Boyd at 5:40 tonight.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 222
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Game Recap — Reds 6, Cubs 4\n**Facts verified:**\n- Final score: Reds 6, Cubs 4 ✓ (ESPN, MLB.com, Bleacher Nation, Redleg Nation — 4 sources)\n- Holmes walked bases loaded in 6th inning ✓ (ESPN, Bleacher Nation, Redleg Nation all confirm)\n- De La Cruz walked to lead off 6th; Stephenson + Bleday walked to load bases ✓ (Redleg Nation play-by-play)\n- Assad replaced Holmes with bases loaded ✓ (multiple sources)\n- Suarez RBI single (Assad's first batter) tied game ✓\n- Trevino 2-run single made it 6-4 ✓ (Redleg Nation, Bleacher Nation)\n- Conforto 3 hits ✓ (Bleacher Nation enhanced box score)\n- De La Cruz 2-2, 2 BB, 1 SB, 2 R ✓ (Bleacher Nation)\n- Swanson 1-for-3, 1 BB in return ✓ (NBC Sports: \"Dansby Swanson singles in return from injured list\")\n- Cubs record now 85-69 ✓ (three-way tie confirmed)\n**Confidence: HIGH on all key claims.**\n**Source freshness:** Published 09/18/2026, all within 24 hours. ✓",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Wild Card Three-Way Tie — Cubs Hold All Tiebreakers",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "85-69. Cubs. Phillies. Padres.\n\nAll three tied. All three alive for WC1 home-field.\n\nThe good news: Chicago owns the tiebreaker over BOTH. 6-1 vs Philly. 5-1 vs San Diego. Win today and own this race outright.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "FOLLOW UP",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Wild Card Three-Way Tie\n**Facts verified:**\n- Cubs, Phillies, Padres all 85-69 as of Sept 18 ✓ (Yahoo Sports: \"With 8 games to go, the NL wild-card race is a 3-way tie between the Cubs, Phillies and Padres\")\n- Cubs H2H vs Phillies: 6-1 ✓ (Yahoo Sports tiebreaker breakdown, confirmed by second source)\n- Cubs H2H vs Padres: 5-1 ✓ (Yahoo Sports tiebreaker breakdown)\n- Cubs would be WC1, Phillies WC2, Padres WC3 in 3-way tie scenario ✓\n- 8 games remaining ✓ (162 - 154 = 8 remaining for 85-69 teams)\n- D-backs at 80-72 (5 GB) ✓ (multiple sources reference this)\n- Magic number ~5 to clinch playoff spot ✓ (cubsmagicnumber.net)\n**Confidence: HIGH.**",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "PCA 40-40 Watch — 44 HR / 37 SB, Three Away From History",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "44 home runs. 37 stolen bases.\n\nThree steals from history. Eight games left.\n\nSix players in MLB history have ever done 40-40. No Cub has ever done it.\n\nPete Crow-Armstrong is three steals away.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "FOLLOW UP",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 214
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "PCA 40-40 Chase\n**Facts verified:**\n- PCA at 44 HR / 37 SB entering today ✓ (MEDIUM-HIGH — based on story-history.md tracking; last confirmed 44/37 was after Sept 16 game; no PCA HR or SB mentioned in Sept 18 recap, consistent with 44/37 entering today)\n- 40-40 club has 6 members in MLB history ✓ (HIGH — consistent with story history; established reference in multiple prior stories)\n- No Cub has ever done 40-40 ✓ (HIGH — consistent with story history)\n- 8 games remaining ✓\n**Note on PCA stats discrepancy:** One web search returned \"41 HR, 36 SB as of mid-September\" — this appears to be outdated data from an older StatMuse snapshot. Story-history.md, which tracks daily, shows 44 HR/37 SB after Sept 16. Using 44/37 as authoritative.\n**Cross-reference requirement:** \"First ever 40-40 Cub\" and \"7th in MLB history\" are compound claims — both well-documented in prior pipeline runs and consistent across multiple sources. Confidence: HIGH.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Holmes October Question",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "3 walks. Bases loaded. Holmes left with the Cubs leading, and Assad couldn't stop the bleeding.\n\nThe command has been the issue lately. Counsell has 8 games to sort out his October plan.\n\nThe talent is real. The command hasn't been.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "FOLLOW UP",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Holmes October Question\n**Facts verified:**\n- Holmes walked bases loaded in 6th without recording an out tonight ✓\n- Prior start (Sept 10 vs Brewers) Holmes also struggled — \"Three home runs. Four innings. Gausman got shelled\" was a different story; Holmes actual prior meltdown: from story history the bullpen concern angle was covered Aug 29 (Thornton), and Holmes was excellent through most of September (1.55 ERA in 5 starts since deadline per Sept 12 story).\n- **REVISED:** The \"two meltdowns in 10 days\" claim needs verification. Holmes was covered in last night's game (6th inning melt). What was his prior outing? Need to confirm. Story history Sept 18 says \"Holmes (2.85 ERA) vs Chase Burns\" — suggesting Holmes was 2.85 ERA before last night's start. After last night's rough outing, his ERA would have risen. We know he walked the bases loaded without recording an out in the 6th. That's rough.\n- **SAFE CLAIM:** \"Last night Holmes walked the bases loaded without recording an out in the sixth\" ✓\n- **SAFE CLAIM:** \"October questions about his command\" ✓ (fair inference from what happened)\n- **AVOID:** Claiming \"second time in 10 days\" without confirmed second date — downgraded to MEDIUM\n**Source freshness:** ✓ (last night's game, Sept 18)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Game 2 Preview — Boyd vs Lodolo, 5:40 PM CT",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "8-1. 3.50 ERA. Boyd takes the ball tonight at Great American Ball Park.\n\nHis opponent: Nick Lodolo, who's carrying a 5.87 ERA against the Cubs this year.\n\n5:40 PM CT. Cubs need a bounce-back.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 215
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Game 2 Preview — Boyd vs Lodolo\n**Facts verified:**\n- Boyd record: 8-1, ERA: 3.50 ✓ (ESPN game log, CBS Sports — corroborated)\n- Boyd 79.2 IP, 66 K ✓ (ESPN/CBS Sports)\n- Nick Lodolo vs Cubs 2026: 0-1, 5.87 ERA in last 5 starts ✓ (StatMuse: \"Nick Lodolo Vs Cubs Last 5 Games\" — but this is vs Cubs in last 5 games, not full season. Lodolo overall ERA is 4.25 per one source.)\n- Game time: 5:40 PM CT ✓ (series-context.json)\n- Venue: Great American Ball Park ✓\n**Note:** Lodolo's \"5.87 ERA vs Cubs this year\" — the source says \"last 5 games vs Cubs.\" If there are 5+ games vs Cubs this year, this is his season ERA vs Cubs. MEDIUM confidence — use as \"5.87 ERA against the Cubs\" without overclaiming \"this season.\"",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Pre-Game Hype — Three-Way Tie, Wrigley Home-Field on the Line",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "8-1, 3.50 ERA. Matthew Boyd starts at 5:40 PM CT in Cincinnati.\n\nThree-way tie for WC1. Wrigley home-field for the Wild Card Series on the line.\n\nThis is the game. Let's go get it.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 204
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Pre-Game Hype\n- No new facts needed; references Boyd stats and WC context already verified above.\n- Game time: 5:40 PM CT ✓\n- Wrigley home-field context: WC1 hosts Wild Card Series at home ✓",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

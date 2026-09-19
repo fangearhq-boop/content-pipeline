@@ -1,33 +1,33 @@
-# Cubs Pipeline Status — Updated 2026-09-18
+# Cubs Pipeline Status — Updated 2026-09-19
 
 ## Latest Run
-- **Date:** 2026-09-18 (Friday — GAME DAY, at Cincinnati Reds, Game 1 of 3)
+- **Date:** 2026-09-19 (Saturday — GAME DAY, at Cincinnati Reds, Game 2 of 3)
 - **Stories:** 6
 - **X posts:** 6
 - **Platforms:** X/Twitter only
 - **Status:** ✅ Complete
 - **Compiler:** ✅ Valid JSON, 0 errors, 0 warnings, 6 stories, 6 tweets
-- **07-content-data.json:** ✅ Valid JSON, all 6 posts with posting_time (7:00 AM / 8:15 AM / 9:30 AM / 10:45 AM / 3:45 PM / 5:00 PM CT)
+- **07-content-data.json:** ✅ Valid JSON, all 6 posts with posting_time (7:00 AM / 8:15 AM / 9:30 AM / 10:45 AM / 12:00 PM / 5:00 PM CT)
 
-## Insights Summary (2026-09-18)
-- **Snapshot generated:** 2026-09-18T08:30:00.113047Z (fresh, 30 min before trigger)
-- **measured_tweet_count:** 117
-- **significant_findings count:** 3
-- **Finding 1:** `opening=statement` LOSER vs `opening=not_statement` WINNER (medium effect, p=0.0059, Cliff's delta=0.407) — strongest finding
-- **Finding 2:** `opening=stat_lead` WINNER vs `opening=not_stat_lead` LOSER (small effect, p=0.0121, Cliff's delta=0.297)
-- **Finding 3:** `has_stat=True` WINNER vs `has_stat=False` LOSER (small effect, p=0.0295, Cliff's delta=0.234)
-- **Action applied:** All 6 tweets open with stat-fragment constructions (e.g., "44 home runs. 37 stolen bases.", "85-68. NL Wild Card No. 1.", "2.85 ERA for Holmes."); stats embedded in every tweet. Series-preview rule conflict resolved: matchup opener satisfies DO NOT rule; Cubs record (85-68) embedded in first line satisfies stat_lead.
+## Insights Summary (2026-09-19)
+- **Snapshot generated:** 2026-09-19T08:30:00.104071Z (fresh, 30 min before trigger)
+- **measured_tweet_count:** 118
+- **significant_findings count:** 2
+- **Finding 1:** `opening=statement` LOSER vs `opening=not_statement` WINNER (small effect, p=0.0056, Cliff's delta=0.311) — strongest finding
+- **Finding 2:** `opening=stat_lead` WINNER vs `opening=not_stat_lead` LOSER (small effect, p=0.0115, Cliff's delta=0.298)
+- **Action applied:** All 6 tweets open with stat-fragment constructions (e.g., "3 walks in the sixth.", "85-69. Cubs. Phillies. Padres.", "44 home runs. 37 stolen bases.", "8-1. 3.50 ERA."); no statement-style openers used.
+- **Note:** `has_stat=True` finding dropped below significance gates vs yesterday (measured_tweet_count went from 117 to 118 — slightly different cohort). No action needed; tweets still carry stats throughout.
 
-## Series Context (2026-09-18)
-- **`is_series_start_today`:** TRUE — 7:00 AM slot used for Series Preview (mandatory)
+## Series Context (2026-09-19)
+- **`is_series_start_today`:** FALSE — mid-series (Game 2 of 3). 7:00 AM slot used for game recap.
 - **`off_day`:** FALSE
-- **Series:** Cubs at Cincinnati Reds, 3 games (Sept 18-20), Great American Ball Park
-- **Game 1:** Holmes vs Burns, 5:40 PM CT
-- **Opponent record:** 71-82 (eliminated from playoff contention)
-- **Cubs record:** 85-68 (WC1, 1.5G lead over Phillies)
+- **Series:** Cubs at Cincinnati Reds, Game 2 of 3, Great American Ball Park
+- **Tonight:** Boyd (8-1, 3.50 ERA) vs Lodolo, 5:40 PM CT
+- **Opponent record:** 72-82
+- **Cubs record:** 85-69 (three-way tie for WC1 with PHI + SD; Cubs hold all tiebreakers)
 
 ## Current Wild Card Status
-- **Cubs position:** WC1
+- **Cubs position:** WC1 (tiebreaker)
 - **Record:** 85-68 (9 games remaining)
 - **Phillies:** 83-68 (1.5 GB)
 - **Padres:** 82-69

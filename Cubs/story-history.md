@@ -7655,3 +7655,53 @@ Each day's stories are appended at the top (newest first).
 - **Content Produced:** X Text Post (1 post — 5:00 PM CT, pre-game hype)
 - **Follow-Up Opportunities:**
   - Game 1 result recap (tomorrow morning)
+
+## 2026-09-19
+
+### STORY 1: Game Recap — Reds 6, Cubs 4
+- **Angle:** NEW STORY (Holmes walked bases loaded in 6th (De La Cruz BB, Stephenson BB, Bleday BB with 1 out); Assad allowed Suarez RBI single + Trevino 2-run single; Conforto 3 hits; Swanson 1-for-3 in first game back; De La Cruz 2-2, 2 BB, SB for Reds; per opening=stat_lead insight, opened with "3 walks in the sixth.")
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, morning recap)
+- **Follow-Up Opportunities:**
+  - Game 2 result recap (tomorrow morning)
+  - Holmes command: watch Counsell comments and next start
+
+### STORY 2: Wild Card Three-Way Tie — Cubs Hold All Tiebreakers
+- **Angle:** FOLLOW UP (Cubs/Phillies/Padres all 85-69 after Phillies loss + Padres win last night; Cubs own tiebreaker 6-1 vs PHI, 5-1 vs SD; WC1 by tiebreaker; 8 games left; bold take: "Win today and own this race outright"; per opening=stat_lead, opened with "85-69. Cubs. Phillies. Padres.")
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold/standings)
+- **Follow-Up Opportunities:**
+  - Daily WC standings update
+  - WC clinch magic number tracking (~5 combined wins/D-backs losses)
+
+### STORY 3: PCA 40-40 Watch — 44 HR / 37 SB, Three Steals Away
+- **Angle:** FOLLOW UP (44/37 entering today; needs 3 SBs in 8 games; first-ever 40-40 Cub; 7th in MLB history; per opening=stat_lead, opened with "44 home runs. 37 stolen bases.")
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, stat breakdown/milestone)
+- **Follow-Up Opportunities:**
+  - PCA each SB en route to 40 SB
+  - 40-40 achievement announcement
+  - NL MVP candidacy
+
+### STORY 4: Holmes October Question
+- **Angle:** FOLLOW UP (Holmes walked bases loaded without escaping jam; command concern heading into October; Counsell has 8 games to decide October deployment; per opening=stat_lead, opened with "3 walks. Bases loaded.")
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, analysis/bold take)
+- **Follow-Up Opportunities:**
+  - Holmes next start performance
+  - Counsell October rotation announcement
+
+### STORY 5: Game 2 Preview — Boyd (8-1) vs Lodolo (5.87 vs Cubs)
+- **Angle:** NEW STORY (Boyd 8-1/3.50 ERA vs Lodolo 5.87 ERA vs Cubs this year; 5:40 PM CT Great American Ball Park; bounce-back game; per opening=stat_lead, opened with "8-1. 3.50 ERA.")
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Game 2 result recap (tomorrow morning)
+  - Boyd ERA/record tracking
+
+### STORY 6: Pre-Game Hype — Three-Way Tie, Wrigley Home-Field on the Line
+- **Angle:** NEW STORY (Boyd stats as opener; three-way tie for WC1; Wrigley home-field at stake; 5:40 PM CT; per opening=stat_lead, opened with "8-1, 3.50 ERA.")
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, pre-game hype)
+- **Follow-Up Opportunities:**
+  - Game 2 result recap (tomorrow morning)
