@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-18T08:30:00.113047+00:00",
+  "generated_at": "2026-09-19T08:30:00.104071+00:00",
   "account": "cubs",
   "window_days": 21,
-  "tweet_count": 117,
-  "measured_tweet_count": 117,
-  "measured_median_impressions": 79,
-  "measured_mean_impressions": 129.32,
-  "median_impressions": 79,
-  "mean_impressions": 129.32,
+  "tweet_count": 118,
+  "measured_tweet_count": 118,
+  "measured_median_impressions": 79.0,
+  "measured_mean_impressions": 128.86,
+  "median_impressions": 79.0,
+  "mean_impressions": 128.86,
   "max_impressions": 2438,
   "significant_findings": [
     {
@@ -16,11 +16,11 @@
       "winner": "not_statement",
       "loser": "statement",
       "median_impressions_winner": 106,
-      "median_impressions_loser": 69.5,
+      "median_impressions_loser": 70,
       "n_winner": 41,
-      "n_loser": 76,
-      "p_value": 0.0059,
-      "effect_size_cliffs_delta": 0.31,
+      "n_loser": 77,
+      "p_value": 0.0056,
+      "effect_size_cliffs_delta": 0.311,
       "effect_size_label": "small"
     },
     {
@@ -29,24 +29,11 @@
       "winner": "stat_lead",
       "loser": "not_stat_lead",
       "median_impressions_winner": 107.0,
-      "median_impressions_loser": 70,
+      "median_impressions_loser": 70.0,
       "n_winner": 34,
-      "n_loser": 83,
-      "p_value": 0.0121,
-      "effect_size_cliffs_delta": 0.297,
-      "effect_size_label": "small"
-    },
-    {
-      "dimension": "has_stat",
-      "kind": "binary",
-      "winner": "True",
-      "loser": "False",
-      "median_impressions_winner": 99,
-      "median_impressions_loser": 69.5,
-      "n_winner": 55,
-      "n_loser": 62,
-      "p_value": 0.0295,
-      "effect_size_cliffs_delta": 0.234,
+      "n_loser": 84,
+      "p_value": 0.0115,
+      "effect_size_cliffs_delta": 0.298,
       "effect_size_label": "small"
     }
   ],
@@ -63,27 +50,27 @@
   },
   "raw_buckets": {
     "by_hour_ct": {
+      "17": {
+        "n": 13,
+        "mean": 122.62,
+        "median": 85,
+        "top": {
+          "impressions": 563,
+          "text": "Series tied 1-1. Game 3 tonight at Wrigley. 6:20 PM CT.\n\nKevin Gausman starts for Chicago. Andrew Abbott for Cincinnati. Cubs just dropped 17 runs on these Reds yesterday.\n\nHome. Series on the line. Win.\n\n#Cubs #GoCubs #FlyTheW"
+        }
+      },
       "15": {
-        "n": 8,
-        "mean": 86.38,
-        "median": 65.0,
+        "n": 9,
+        "mean": 84.33,
+        "median": 61,
         "top": {
           "impressions": 224,
           "text": "Jaxon Wiggins hasn't allowed a run in his last three Iowa bullpen outings \u2014 98 mph, strikeout-per-inning stuff.\n\nCounsell knows. The No. 2 Cubs prospect is making his September case louder every time out.\n\n#Cubs #GoCubs #CubsBaseball"
         }
       },
-      "14": {
-        "n": 14,
-        "mean": 264.79,
-        "median": 119.5,
-        "top": {
-          "impressions": 2438,
-          "text": "Pete Crow-Armstrong: 39 HR / 32 SB.\n\nOne home run. Eight stolen bases. Twenty games.\n\nThe 40-40 club has six members in MLB history. No Cub has ever done it.\n\nPCA is knocking on the door.\n\n#Cubs #GoCubs #MLB"
-        }
-      },
       "10": {
         "n": 9,
-        "mean": 87.22,
+        "mean": 88.44,
         "median": 70,
         "top": {
           "impressions": 210,
@@ -92,17 +79,17 @@
       },
       "9": {
         "n": 13,
-        "mean": 72.85,
+        "mean": 70.54,
         "median": 68,
         "top": {
-          "impressions": 139,
-          "text": "Pete Crow-Armstrong: 33 HR, 7.7 fWAR, 155 OPS+.\n\nHe leads ALL of baseball in fWAR, is on pace for his 2nd straight 30-30 season, and 29 of 37 MLB experts just voted him NL MVP No. 1.\n\nOhtani hasn't pitched since July 3. The trophy is PCA's "
+          "impressions": 111,
+          "text": "Pete Crow-Armstrong: .280 BA. 39 HR. 32 SB. .946 OPS.\n\nThat's what a first-place NL MVP ballot looks like.\n\n19 games to seal it.\n\n#Cubs #GoCubs #MLB"
         }
       },
       "8": {
         "n": 13,
-        "mean": 147.31,
-        "median": 71,
+        "mean": 155.46,
+        "median": 72,
         "top": {
           "impressions": 659,
           "text": "Miguel Amaya's sixth homer put the Cubs ahead 2-1.\n\nA two-run single in the sixth inning turned it around. Boyd left with runners on; the pen couldn't hold. Final: Pirates 4, Cubs 3.\n\nChicago still took the series 2-1. Braves start tonight."
@@ -110,26 +97,26 @@
       },
       "7": {
         "n": 21,
-        "mean": 124.48,
-        "median": 70,
+        "mean": 120,
+        "median": 69,
         "top": {
           "impressions": 624,
           "text": "Three home runs. Four innings. Gausman got shelled.\n\nYelich, Chourio, Contreras took him deep. Cubs rallied with five in the ninth \u2014 too little, too late. The Brewers complete the sweep.\n\nWrigley next. Pirates tomorrow. Time to reset.\n\n#Cub"
         }
       },
-      "17": {
-        "n": 12,
-        "mean": 123.83,
-        "median": 80.0,
+      "14": {
+        "n": 14,
+        "mean": 268.64,
+        "median": 119.5,
         "top": {
-          "impressions": 563,
-          "text": "Series tied 1-1. Game 3 tonight at Wrigley. 6:20 PM CT.\n\nKevin Gausman starts for Chicago. Andrew Abbott for Cincinnati. Cubs just dropped 17 runs on these Reds yesterday.\n\nHome. Series on the line. Win.\n\n#Cubs #GoCubs #FlyTheW"
+          "impressions": 2438,
+          "text": "Pete Crow-Armstrong: 39 HR / 32 SB.\n\nOne home run. Eight stolen bases. Twenty games.\n\nThe 40-40 club has six members in MLB history. No Cub has ever done it.\n\nPCA is knocking on the door.\n\n#Cubs #GoCubs #MLB"
         }
       },
       "12": {
-        "n": 17,
-        "mean": 108.59,
-        "median": 97,
+        "n": 16,
+        "mean": 106.06,
+        "median": 94.5,
         "top": {
           "impressions": 230,
           "text": "Matthew Boyd (8-3, 3.99 ERA) takes the mound at 3:10 PM CT at loanDepot park.\n\nHe's opposed by Ryan Gusto, who's been hot lately despite a 5.20 ERA on the season.\n\nOne win today = Cubs hold WC1 going into the series finale tomorrow.\n\n#Cubs "
@@ -164,10 +151,19 @@
       }
     },
     "by_weekday_ct": {
+      "Fri": {
+        "n": 18,
+        "mean": 123.39,
+        "median": 108.5,
+        "top": {
+          "impressions": 264,
+          "text": "Pete Crow-Armstrong: 41 HR / 36 SB.\n\nFour stolen bases. Seventeen games. The 40-40 club has six members in all of MLB history. No Cub has EVER done it.\n\nPCA is about to change that.\n\n#Cubs #GoCubs #MLB"
+        }
+      },
       "Thu": {
         "n": 17,
-        "mean": 106.29,
-        "median": 62,
+        "mean": 112.18,
+        "median": 65,
         "top": {
           "impressions": 624,
           "text": "Three home runs. Four innings. Gausman got shelled.\n\nYelich, Chourio, Contreras took him deep. Cubs rallied with five in the ninth \u2014 too little, too late. The Brewers complete the sweep.\n\nWrigley next. Pirates tomorrow. Time to reset.\n\n#Cub"
@@ -184,7 +180,7 @@
       },
       "Tue": {
         "n": 19,
-        "mean": 66.47,
+        "mean": 69.11,
         "median": 55,
         "top": {
           "impressions": 160,
@@ -217,22 +213,13 @@
           "impressions": 2438,
           "text": "Pete Crow-Armstrong: 39 HR / 32 SB.\n\nOne home run. Eight stolen bases. Twenty games.\n\nThe 40-40 club has six members in MLB history. No Cub has ever done it.\n\nPCA is knocking on the door.\n\n#Cubs #GoCubs #MLB"
         }
-      },
-      "Fri": {
-        "n": 17,
-        "mean": 135.12,
-        "median": 139,
-        "top": {
-          "impressions": 264,
-          "text": "Pete Crow-Armstrong: 41 HR / 36 SB.\n\nFour stolen bases. Seventeen games. The 40-40 club has six members in all of MLB history. No Cub has EVER done it.\n\nPCA is about to change that.\n\n#Cubs #GoCubs #MLB"
-        }
       }
     },
     "by_content_type": {
       "brief": {
-        "n": 117,
-        "mean": 129.32,
-        "median": 79,
+        "n": 118,
+        "mean": 128.86,
+        "median": 79.0,
         "top": {
           "impressions": 2438,
           "text": "Pete Crow-Armstrong: 39 HR / 32 SB.\n\nOne home run. Eight stolen bases. Twenty games.\n\nThe 40-40 club has six members in MLB history. No Cub has ever done it.\n\nPCA is knocking on the door.\n\n#Cubs #GoCubs #MLB"
@@ -240,22 +227,22 @@
       }
     },
     "by_opening": {
-      "statement": {
-        "n": 76,
-        "mean": 102.86,
-        "median": 69.5,
-        "top": {
-          "impressions": 659,
-          "text": "Miguel Amaya's sixth homer put the Cubs ahead 2-1.\n\nA two-run single in the sixth inning turned it around. Boyd left with runners on; the pen couldn't hold. Final: Pirates 4, Cubs 3.\n\nChicago still took the series 2-1. Braves start tonight."
-        }
-      },
       "stat_lead": {
         "n": 34,
-        "mean": 181.59,
+        "mean": 181.06,
         "median": 107.0,
         "top": {
           "impressions": 2438,
           "text": "Pete Crow-Armstrong: 39 HR / 32 SB.\n\nOne home run. Eight stolen bases. Twenty games.\n\nThe 40-40 club has six members in MLB history. No Cub has ever done it.\n\nPCA is knocking on the door.\n\n#Cubs #GoCubs #MLB"
+        }
+      },
+      "statement": {
+        "n": 77,
+        "mean": 102.71,
+        "median": 70,
+        "top": {
+          "impressions": 659,
+          "text": "Miguel Amaya's sixth homer put the Cubs ahead 2-1.\n\nA two-run single in the sixth inning turned it around. Boyd left with runners on; the pen couldn't hold. Final: Pirates 4, Cubs 3.\n\nChicago still took the series 2-1. Braves start tonight."
         }
       },
       "allcaps_lead": {
@@ -270,30 +257,30 @@
     },
     "by_len_bucket": {
       "200-260": {
-        "n": 76,
-        "mean": 144.34,
-        "median": 86.5,
+        "n": 77,
+        "mean": 144.49,
+        "median": 87,
         "top": {
           "impressions": 2438,
           "text": "Pete Crow-Armstrong: 39 HR / 32 SB.\n\nOne home run. Eight stolen bases. Twenty games.\n\nThe 40-40 club has six members in MLB history. No Cub has ever done it.\n\nPCA is knocking on the door.\n\n#Cubs #GoCubs #MLB"
         }
       },
+      "260+": {
+        "n": 32,
+        "mean": 107.72,
+        "median": 70.0,
+        "top": {
+          "impressions": 659,
+          "text": "Miguel Amaya's sixth homer put the Cubs ahead 2-1.\n\nA two-run single in the sixth inning turned it around. Boyd left with runners on; the pen couldn't hold. Final: Pirates 4, Cubs 3.\n\nChicago still took the series 2-1. Braves start tonight."
+        }
+      },
       "140-200": {
         "n": 8,
-        "mean": 72.12,
+        "mean": 74.5,
         "median": 66.0,
         "top": {
           "impressions": 156,
           "text": "Pete Crow-Armstrong: 40 HR / 33 SB.\n\nSeven stolen bases from the 40-40 club. Six players in MLB history have ever done it. No Cub has ever done it.\n\n17 games to get there.\n\n#Cubs #GoCubs #MLB"
-        }
-      },
-      "260+": {
-        "n": 32,
-        "mean": 110.88,
-        "median": 71.5,
-        "top": {
-          "impressions": 659,
-          "text": "Miguel Amaya's sixth homer put the Cubs ahead 2-1.\n\nA two-run single in the sixth inning turned it around. Boyd left with runners on; the pen couldn't hold. Final: Pirates 4, Cubs 3.\n\nChicago still took the series 2-1. Braves start tonight."
         }
       },
       "<140": {
@@ -308,9 +295,9 @@
     },
     "by_hashtag_count": {
       "3": {
-        "n": 117,
-        "mean": 129.32,
-        "median": 79,
+        "n": 118,
+        "mean": 128.86,
+        "median": 79.0,
         "top": {
           "impressions": 2438,
           "text": "Pete Crow-Armstrong: 39 HR / 32 SB.\n\nOne home run. Eight stolen bases. Twenty games.\n\nThe 40-40 club has six members in MLB history. No Cub has ever done it.\n\nPCA is knocking on the door.\n\n#Cubs #GoCubs #MLB"
@@ -319,9 +306,9 @@
     },
     "by_has_score": {
       "True": {
-        "n": 72,
-        "mean": 137.62,
-        "median": 75.5,
+        "n": 73,
+        "mean": 134.47,
+        "median": 72,
         "top": {
           "impressions": 2438,
           "text": "Pete Crow-Armstrong: 39 HR / 32 SB.\n\nOne home run. Eight stolen bases. Twenty games.\n\nThe 40-40 club has six members in MLB history. No Cub has ever done it.\n\nPCA is knocking on the door.\n\n#Cubs #GoCubs #MLB"
@@ -329,8 +316,8 @@
       },
       "False": {
         "n": 45,
-        "mean": 116.04,
-        "median": 100,
+        "mean": 119.76,
+        "median": 109,
         "top": {
           "impressions": 624,
           "text": "Three home runs. Four innings. Gausman got shelled.\n\nYelich, Chourio, Contreras took him deep. Cubs rallied with five in the ninth \u2014 too little, too late. The Brewers complete the sweep.\n\nWrigley next. Pirates tomorrow. Time to reset.\n\n#Cub"
@@ -338,30 +325,30 @@
       }
     },
     "by_has_stat": {
-      "False": {
-        "n": 62,
-        "mean": 109.81,
-        "median": 69.5,
-        "top": {
-          "impressions": 659,
-          "text": "Miguel Amaya's sixth homer put the Cubs ahead 2-1.\n\nA two-run single in the sixth inning turned it around. Boyd left with runners on; the pen couldn't hold. Final: Pirates 4, Cubs 3.\n\nChicago still took the series 2-1. Braves start tonight."
-        }
-      },
       "True": {
-        "n": 55,
-        "mean": 151.33,
-        "median": 99,
+        "n": 53,
+        "mean": 151,
+        "median": 97,
         "top": {
           "impressions": 2438,
           "text": "Pete Crow-Armstrong: 39 HR / 32 SB.\n\nOne home run. Eight stolen bases. Twenty games.\n\nThe 40-40 club has six members in MLB history. No Cub has ever done it.\n\nPCA is knocking on the door.\n\n#Cubs #GoCubs #MLB"
+        }
+      },
+      "False": {
+        "n": 65,
+        "mean": 110.8,
+        "median": 71,
+        "top": {
+          "impressions": 659,
+          "text": "Miguel Amaya's sixth homer put the Cubs ahead 2-1.\n\nA two-run single in the sixth inning turned it around. Boyd left with runners on; the pen couldn't hold. Final: Pirates 4, Cubs 3.\n\nChicago still took the series 2-1. Braves start tonight."
         }
       }
     },
     "by_has_emoji_first_line": {
       "False": {
-        "n": 117,
-        "mean": 129.32,
-        "median": 79,
+        "n": 118,
+        "mean": 128.86,
+        "median": 79.0,
         "top": {
           "impressions": 2438,
           "text": "Pete Crow-Armstrong: 39 HR / 32 SB.\n\nOne home run. Eight stolen bases. Twenty games.\n\nThe 40-40 club has six members in MLB history. No Cub has ever done it.\n\nPCA is knocking on the door.\n\n#Cubs #GoCubs #MLB"
@@ -369,22 +356,22 @@
       }
     },
     "by_has_allcaps": {
+      "True": {
+        "n": 84,
+        "mean": 125.1,
+        "median": 82.0,
+        "top": {
+          "impressions": 2438,
+          "text": "Pete Crow-Armstrong: 39 HR / 32 SB.\n\nOne home run. Eight stolen bases. Twenty games.\n\nThe 40-40 club has six members in MLB history. No Cub has ever done it.\n\nPCA is knocking on the door.\n\n#Cubs #GoCubs #MLB"
+        }
+      },
       "False": {
         "n": 34,
-        "mean": 138.03,
+        "mean": 138.15,
         "median": 71.5,
         "top": {
           "impressions": 659,
           "text": "Miguel Amaya's sixth homer put the Cubs ahead 2-1.\n\nA two-run single in the sixth inning turned it around. Boyd left with runners on; the pen couldn't hold. Final: Pirates 4, Cubs 3.\n\nChicago still took the series 2-1. Braves start tonight."
-        }
-      },
-      "True": {
-        "n": 83,
-        "mean": 125.76,
-        "median": 82,
-        "top": {
-          "impressions": 2438,
-          "text": "Pete Crow-Armstrong: 39 HR / 32 SB.\n\nOne home run. Eight stolen bases. Twenty games.\n\nThe 40-40 club has six members in MLB history. No Cub has ever done it.\n\nPCA is knocking on the door.\n\n#Cubs #GoCubs #MLB"
         }
       }
     }
@@ -393,20 +380,20 @@
     "by_content_type": {
       "brief": {
         "n": 60,
-        "mean_rate": 0.0099,
-        "median_rate": 0.008
+        "mean_rate": 0.0107,
+        "median_rate": 0.0085
       }
     },
     "by_opening": {
-      "statement": {
-        "n": 32,
-        "mean_rate": 0.0105,
-        "median_rate": 0.0064
-      },
       "stat_lead": {
         "n": 24,
-        "mean_rate": 0.0082,
+        "mean_rate": 0.008,
         "median_rate": 0.0076
+      },
+      "statement": {
+        "n": 32,
+        "mean_rate": 0.0123,
+        "median_rate": 0.0087
       },
       "allcaps_lead": {
         "n": 4,
@@ -416,26 +403,26 @@
     },
     "by_has_score": {
       "True": {
-        "n": 36,
-        "mean_rate": 0.0105,
-        "median_rate": 0.0009
+        "n": 35,
+        "mean_rate": 0.0112,
+        "median_rate": 0.0079
       },
       "False": {
-        "n": 24,
-        "mean_rate": 0.0091,
-        "median_rate": 0.0089
+        "n": 25,
+        "mean_rate": 0.0101,
+        "median_rate": 0.0088
       }
     },
     "by_has_stat": {
-      "False": {
-        "n": 27,
-        "mean_rate": 0.0122,
-        "median_rate": 0.0093
-      },
       "True": {
-        "n": 33,
-        "mean_rate": 0.0081,
-        "median_rate": 0.0072
+        "n": 31,
+        "mean_rate": 0.0084,
+        "median_rate": 0.0079
+      },
+      "False": {
+        "n": 29,
+        "mean_rate": 0.0132,
+        "median_rate": 0.0093
       }
     }
   },
@@ -493,6 +480,16 @@
   ],
   "bottom_performers": [
     {
+      "posted_at": "2026-09-04 08:15 CT",
+      "content_type": "brief",
+      "impressions": 33,
+      "engagement": 0,
+      "engagement_rate": 0.0,
+      "opening": "allcaps_lead",
+      "len": 265,
+      "text": "NINE strikeouts. Seven innings. One run.\n\nGausman was FILTHY \u2014 60% whiff rate with the splitter. Cubs took the series finale 2-1 and split with the NL-leading Brewers. Wild card spot: intact.\n\nPCA's 2-run bomb (No. 39) did the heavy lifting.\n\n#Cubs #GoCubs #FlyTheW"
+    },
+    {
       "posted_at": "2026-09-13 08:16 CT",
       "content_type": "brief",
       "impressions": 31,
@@ -503,14 +500,14 @@
       "text": "Cubs 83-66. Phillies 82-66. Chicago has the WC1 seat.\n\nHome-field for the Wild Card Series. One game. Fifteen left.\n\nCardinals are watching from home. This stretch run is Cubs vs Phillies \u2014 and right now, it's Chicago's lead.\n\n#Cubs #NorthSiders #MLB"
     },
     {
-      "posted_at": "2026-09-17 09:30 CT",
+      "posted_at": "2026-09-15 12:00 CT",
       "content_type": "brief",
-      "impressions": 27,
+      "impressions": 25,
       "engagement": 0,
       "engagement_rate": 0.0,
-      "opening": "statement",
-      "len": 234,
-      "text": "Wednesday night scoreboard:\n\nCubs: Win. 85-68. WC1.\nPhillies: Loss.\nPadres: Loss.\nD-backs: Loss.\n\nNine games left. Cubs hold tiebreakers over every wild card rival.\n\nWild Card Series at Wrigley is right there.\n\n#Cubs #MLB #NorthSiders"
+      "opening": "stat_lead",
+      "len": 224,
+      "text": "Gausman: 9-12, 4.60 ERA. P\u00e9rez: 8-9, 3.08 ERA.\n\nGausman gets the ball tonight at Wrigley (6:40 PM CT). Needs a bounce-back after a 6-ER meltdown vs the Brewers last week.\n\nWrigley crowd, show up loud.\n\n#Cubs #GoCubs #FlyTheW"
     },
     {
       "posted_at": "2026-09-01 14:31 CT",
@@ -521,16 +518,6 @@
       "opening": "statement",
       "len": 245,
       "text": "Chicago hit 62 home runs in August.\n\nThat's the most by any NL team in a single calendar month \u2014 ever. Only the 2019 Yankees (74) hit more in a month in MLB history.\n\nThis offense isn't just hot. It's historically elite.\n\n#Cubs #ChicagoCubs #MLB"
-    },
-    {
-      "posted_at": "2026-09-15 12:00 CT",
-      "content_type": "brief",
-      "impressions": 23,
-      "engagement": 0,
-      "engagement_rate": 0.0,
-      "opening": "stat_lead",
-      "len": 224,
-      "text": "Gausman: 9-12, 4.60 ERA. P\u00e9rez: 8-9, 3.08 ERA.\n\nGausman gets the ball tonight at Wrigley (6:40 PM CT). Needs a bounce-back after a 6-ER meltdown vs the Brewers last week.\n\nWrigley crowd, show up loud.\n\n#Cubs #GoCubs #FlyTheW"
     },
     {
       "posted_at": "2026-09-16 09:30 CT",
