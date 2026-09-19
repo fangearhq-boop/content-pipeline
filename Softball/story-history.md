@@ -3,6 +3,61 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-09-19
+
+### Story 1: USA WNT — Redcliffe 2027 Countdown Begins: Eight Nations, One Road to LA28
+- **Date:** 2026-09-19
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** With Group Oklahoma complete (USA 5-0, Brady 3 HR, Garcia dominant), all 8 nations are confirmed for the 2027 WBSC Finals in Redcliffe, QLD (April 5-11, 2027). Story shifts to preparation phase — who are the 8 nations (USA, Mexico, China + Australia, Canada, Japan, Puerto Rico, Chinese Taipei), how USA builds toward Redcliffe, Gasso's dual role as OU coach and WNT coach, Brady's emergence. Finals = LA28 qualifier.
+- **Content Produced:** Article (article-01, Jordan Reeves), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - April 5-11 2027 Redcliffe Finals — LA28 qualifier bracket results
+  - Brady development as international power hitter
+  - Gasso managing dual OU + WNT responsibilities through spring 2027
+
+### Story 2: Oklahoma Sooners — Day 3 Full-Staff Fall Camp, 11 Days to Sept. 30
+- **Date:** 2026-09-19
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Day 3 of full-staff camp with Gasso, JT Gasso and Rocha at Love's Field. 11 days to Sept. 30 opener vs. Tarleton State. Wells (32 HR, NCAA freshman record), Berzon (2x AA, 486.1 IP, 2.02 ERA, 406 K from LSU), Harter (.346 BA MTSU) integrating with 12 returners and 9 newcomers. Fall schedule: 4 Battle Series + Tarleton State, USAO, Seminole State, East Texas A&M through Nov. 4.
+- **Content Produced:** Article (article-02, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Sept. 30 fall opener vs. Tarleton State — first look at full roster
+  - Wells + Berzon + Harter development through October
+
+### Story 3: Class of 2028 — Day 11 In-Person Window, Commit Wave Continues
+- **Date:** 2026-09-19
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Day 11 of Sept. 9 in-person window. Committed: Williams No.1 (OU), Ushery No.2 (Georgia), Donalson (FSU), Saenz (OU), Gutierrez (TTU), Galindo+Wilson (Tennessee), Losh+Harris (Florida), Myers (SC), Ridling+Stell (Arizona). 1,226 EIS nominations record. Top uncommitted: Landers, Holden, Schlader, Bennett. Mid-October rankings update expected.
+- **Content Produced:** Article (article-03, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Top uncommitted decisions (Landers, Holden, Schlader, Bennett)
+  - Mid-October first class rankings update
+
+### Story 4: Texas Longhorns — 10 Days to Sept. 29 Fall Opener
+- **Date:** 2026-09-19
+- **Tier:** 3
+- **Classification:** FOLLOW UP
+- **Angle:** 10 days to Sept. 29 opener vs. Murray State at McCombs (6 PM CT, free). Torres (2026 POY .530/.16HR/56RBI from FSU, Georgetown TX native) + Kavan (2x WCWS MOP, only ever) pairing. Three-peat would match UCLA 1988-90 and OU 2021-23 only. White: NFCA Staff of Year 2nd consecutive.
+- **Content Produced:** Article (article-04, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Sept. 29 opener — first game look at Torres in burnt orange
+  - Three-peat narrative building
+
+### Story 5: Texas Tech Red Raiders — Glasco Year 2, Week 2 Chemistry Test
+- **Date:** 2026-09-19
+- **Tier:** 3
+- **Classification:** FOLLOW UP
+- **Angle:** Week 2 of Glasco Year 2. 7 All-Americans together. Culture integration: Beachum (.406 BA, 10 HR, 69 RBI from FSU), Pickering (No.2 transfer, .384 BA, 50 HR from OU), Heavener (LHP, 13-9, 2.81 ERA, 128 K from LSU) + Terry, Williams, Pannell, Polar. TTU 2026 WCWS runner-up. Week 2 = where FSU/OU/LSU cultures start merging under Glasco.
+- **Content Produced:** Article (article-05, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - TTU fall game results as chemistry test
+  - Star Gutierrez first 2028 commit momentum continuing
+
+---
+
 ## 2026-09-17
 
 ### Story 1: USA WNT — Group Oklahoma Recap: Brady 3 HRs, USA 7-0 China, Redcliffe Ticket Punched
