@@ -1,0 +1,293 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-19",
+  "compiled_at": "2026-09-19T12:18:18.494521+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "All-American Guadalajara Final — Jovic vs. Stearns",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "All-American WTA 500 final today in Guadalajara.\n\nDefending champ Iva Jovic vs. Peyton Stearns — first career meeting. Jovic is chasing back-to-back titles. Stearns upset No. 8 Samsonova to get here.\n\nTwo Americans. One trophy. 🎾",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 229
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Jovic (career-high No. 13) vs. Stearns (unseeded) in the Guadalajara final.\n\nJovic def. Bucsa 6-4, 6-1. Stearns def. Samsonova 7-6, 6-2.\n\nAn all-American WTA final — when was the last time? 🇺🇸",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 192
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-all-american-guadalajara-final-jovic-stearns.html",
+        "headline": "All-American WTA Final: Jovic Defends Title Against Stearns in Guadalajara",
+        "word_count": 629
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Davis Cup — Canada on Brink of Final 8, Leads France 2-0",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Canada enters Day 2 up 2-0 on France in Davis Cup. Needs just one more point to reach Bologna.\n\nDraxl def. Rinderknech 6-2, 7-5. FAA def. Halys 7-6, 4-6, 6-3 yesterday.\n\nDoubles up first at 2 PM ET in Quebec City.",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 213
+        },
+        {
+          "label": "Post 2-2",
+          "text": "FAA and Liam Draxl have Canada on the doorstep of the Davis Cup Finals.\n\nOne more point today at Centre Vidéotron — doubles or reverse singles — and Canada is Bologna-bound.\n\nFrance needs to win all 3 remaining rubbers. 🇨🇦",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 222
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-canada-davis-cup-france-day-2.html",
+        "headline": "Canada One Point Away: Davis Cup Qualifier Day 2 vs. France",
+        "word_count": 602
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Czechia vs. USA Davis Cup — Tied 1-1, Shelton Stumbles in Return",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Ben Shelton's first match since the US Open final ended in a 6-4, 6-4 loss to Jiri Lehecka in Davis Cup Prague.\n\nLearner Tien gave USA the lead with a brilliant debut — 6-2, 6-4 over Mensik.\n\nTied 1-1. Doubles up today.",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 219
+        },
+        {
+          "label": "Post 3-2",
+          "text": "USA vs. Czechia is tied 1-1 heading into the doubles in Prague.\n\nHarrison/Krajicek vs. the Czechs. Then reverse singles — can Shelton bounce back vs. Lehecka?\n\nBig Davis Cup day. Bologna spot on the line.",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 204
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-czechia-usa-davis-cup-shelton-tien.html",
+        "headline": "Shelton Stumbles, Tien Shines: USA and Czechia Tied 1-1 in Davis Cup",
+        "word_count": 654
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Great Britain vs. Ecuador — Davis Cup Kicks Off at Copper Box",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Great Britain opens Davis Cup action today vs. Ecuador at the Copper Box, London.\n\nCameron Norrie, Arthur Fery and doubles world No. 1 Henry Patten lead the team. Day 2 is Sunday.\n\nBologna Finals spot up for grabs. 🇬🇧",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 217
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-gb-ecuador-davis-cup-copper-box.html",
+        "headline": "Great Britain vs. Ecuador: Davis Cup Qualifier Opens at Copper Box London",
+        "word_count": 593
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Laver Cup Six Days Out — Team World's Tien in Dual-Nation Drama",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Learner Tien is playing Davis Cup for the USA in Prague today.\n\nIn six days he'll be in London playing for Team World at the Laver Cup.\n\nJakub Mensik: Davis Cup for Czechia this weekend → Team Europe next weekend.\n\nTennis is something else.",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-laver-cup-countdown-tien-dual-nation.html",
+        "headline": "Six Days to Laver Cup: Tien's Dual-Nation Week and a Reshuffled Team World",
+        "word_count": 638
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 9
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

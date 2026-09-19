@@ -1,6 +1,37 @@
 # Tennis Fanrecap — Pipeline Status
 
-## Current Run: 2026-09-18
+## Current Run: 2026-09-19
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Guadalajara WTA 500 all-American final (tennistemple/ianslive/yardbarker/fieldlevelmedia/wtatennis); Davis Cup Canada vs France Day 2 brink (tenniscanada/ctvnews/tsn); Czechia vs USA tied 1-1 — Tien debut + Shelton stumbles (clickorlando/fieldlevelmedia/tennisnow/sundayguardianlive); GB vs Ecuador Copper Box Day 1 (lta.org.uk/aceify); Laver Cup 6 days out — Tien dual-nation angle (lavercup.com/wikipedia/skysports) |
+| Story History Check | COMPLETE | S1 NEW (Guadalajara all-American final); S2 FOLLOW-UP (Sep 18 S2: Davis Cup Day 1 → Day 2); S3 NEW (Czechia vs USA — Shelton first match back); S4 NEW (GB vs Ecuador Davis Cup); S5 FOLLOW-UP (Sep 18 S1: Team World reshuffled → pre-event angle) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2); bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: en.tennistemple.com, ianslive.in, yardbarker.com, fieldlevelmedia.com, wtatennis.com, tenniscanada.com, ctvnews.ca, tsn.ca, clickorlando.com, tennisnow.com, sundayguardianlive.com, usta.com, lta.org.uk, aceify.me, lavercup.com, wikipedia.org, skysports.com |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 8 posts across 5 stories; all ≤280 chars verified |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 9 imagn concepts across 5 stories |
+| Articles (5) | COMPLETE | article-01 Guadalajara final (Elena Voss T1); article-02 Canada Davis Cup Day 2 (Marcus Cole T1); article-03 Czechia vs USA Shelton/Tien (Ryan Calloway T1); article-04 GB vs Ecuador (Elena Voss T2); article-05 Laver Cup countdown (Marcus Cole T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — auto-generated; 37 claims; consistency warnings cosmetic (story-analysis header format, known) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 5 articles; posting-window warnings cosmetic (known) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 9 entries, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 23 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser issue — same as all prior runs |
+| WordPress Publish | BLOCKED | 403 proxy — fanrumor.com blocked (known recurring issue) |
+| Story History | COMPLETE | 5 entries prepended to Tennis/story-history.md (Sep 19 section) |
+
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 5 FB posts (5 long-form + 5 captions) = 13 total
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
+- **PostPlanner exports:** 0 posts (known parser compat issue)
+- **Key stories:** Guadalajara all-American WTA 500 final — Jovic (defending champ, career-high No. 13) vs Stearns (unseeded), first career meeting; Canada leads France 2-0 in Davis Cup, needs 1 more point for Bologna Finals; Czechia vs USA tied 1-1 — Tien brilliant debut (def. Mensik 6-2, 6-4), Shelton falls to Lehecka 6-4, 6-4 (first match since USO final); GB vs Ecuador Davis Cup at Copper Box (Norrie, Fery, Patten); Laver Cup 6 days away — Tien/Mensik dual-nation week
+- **Issues:** PostPlanner 0 posts (known); WordPress blocked by proxy; dashboard push blocked (not in session authorized repos)
+
+---
+
+## Previous Run: 2026-09-18
 
 | Step | Status | Notes |
 |------|--------|-------|
