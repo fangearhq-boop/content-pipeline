@@ -2,6 +2,56 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-09-19
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-19 | T1 | Shipley at -15, Kohles One Back: Round 3 Is Live at the Biltmore Championship | X(2), FB, Article | FOLLOW UP |
+| 2026-09-19 | T1 | Presidents Cup 5 Days Out — Snedeker's USA Team Arrives at Medinah on Tuesday | X(2), FB, Article | FOLLOW UP |
+| 2026-09-19 | T1 | LIV Golf's 24-Day Countdown: BC Partners Deal, 52.5% Player Ownership | X(2), FB, Article | FOLLOW UP |
+| 2026-09-19 | T2 | Koivun Made the Cut at -7 — Now Comes the Sprint From Asheville to Medinah | X(1), FB, Article | FOLLOW UP |
+| 2026-09-19 | T2 | Rahm Sees "Opportunity" on DP World Tour — His Oct. 13 Call Is Golf's Most Consequential | X(1), FB, Article | FOLLOW UP |
+
+### STORY 1: Biltmore Championship Round 3 — Shipley Leads
+- **Tier:** 1
+- **Category:** PGA Tour / Biltmore Championship / Asheville / FedExCup Fall / Leaderboard
+- **Key facts:** Shipley leads at -15 after career-low 62 in R2; Kohles -14 (one back); Castillo and Greyserman at -11 (T3); Koivun at -7 (8 back, made cut); Shipley/Kohles/Castillo tee off together R3; preferred lies all 4 rounds; first PGA Tour in western NC in 84 years; $5M purse, $900K winner; NBC noon–12:30 ET, Golf Channel 12:30–3 ET; Final round Sunday Sept. 20
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R3 leaderboard, Sunday winner, champion recap
+
+### STORY 2: Presidents Cup 5 Days Out
+- **Tier:** 1
+- **Category:** Presidents Cup / Medinah / Brandt Snedeker / Geoff Ogilvy / USA Team
+- **Key facts:** Competition Sept. 24–27 Medinah CC; practice rounds Sept. 22–23 (gates 9 AM CDT); 30 matches over 4 days (5 four-ball Thu, 5 foursomes Fri, 4+4 Sat, 12 singles Sun); Thursday first match 11:35 AM CDT; USA autos: Scheffler, Young, Clark, Henley, Burns, Morikawa; USA picks: Gotterup, Schauffele, Thomas, Cantlay, Bridgeman, Koivun; Intl: Scott, Matsuyama, Fox; USA 13-1-1 all-time
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Opening day pairings, Day 1 match results, final scoreboard
+
+### STORY 3: LIV Golf Oct. 13 Deadline — 24 Days
+- **Tier:** 1
+- **Category:** LIV Golf / Chapter 11 / BC Partners / Jon Rahm / Restructuring / Oct. 13
+- **Key facts:** Chapter 11 filed Sept. 8 NJ bankruptcy court; Oct. 13 = 35 days from filing; threshold: ≥2/3 by dollar amount + ≥1/2 by headcount; BC Partners invests $300M; players own 52.5%; PIF fully exits; PIF providing $49.6M DIP loan; Rahm $7.47M (largest individual); top 3 creditors (Rahm, DeChambeau, DJ) ~$18.7M combined; Rahm noncommittal as of Sept. 15, sees "opportunity" on DP World Tour; LIV 2.0 targets 2027
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Oct. 13 court hearing, player commitments announced, deal status
+
+### STORY 4: Koivun — Biltmore to Medinah
+- **Tier:** 2
+- **Category:** Jackson Koivun / Biltmore Championship / Presidents Cup / USA Team
+- **Key facts:** Koivun R1 -3 (68), R2 -4 (67) = -7 through 36, 8 back of Shipley; made cut; age 21, youngest USA Presidents Cup team member; Snedeker captain's pick; practice rounds at Medinah start Tuesday Sept. 22; Bridgeman also on USA team, struggled R2; Presidents Cup debut
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Biltmore final result, Presidents Cup debut performance
+
+### STORY 5: Rahm's Oct. 13 Decision
+- **Tier:** 2
+- **Category:** Jon Rahm / LIV Golf / DP World Tour / Oct. 13 / BC Partners
+- **Key facts:** Rahm said Sept. 15 noncommittal on LIV 2.0, sees "opportunity" on DP World Tour; reached agreement with DP World Tour May 2026 (paid fines, required events quota); restored Ryder Cup eligibility for 2027 Ireland; LIV's largest individual creditor at $7.47M; LIV petitioned to reject all player contracts (court pending); if contract rejected, Rahm free to walk; 24 days to Oct. 13
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Rahm public statement, Oct. 13 decision outcome
+
 ## 2026-09-18
 
 | Date | Tier | Title | Platforms | Status |
