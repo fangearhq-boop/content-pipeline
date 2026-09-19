@@ -1,0 +1,247 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-19",
+  "compiled_at": "2026-09-19T11:26:40.184321+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Baku GP — 7 Days Away, First Saturday Race",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "**Post 1 (8:00 AM ET — Morning)**\n7 days to Baku. First Saturday race in Azerbaijan GP history — moved from Sunday for Remembrance Day. FP1+FP2 Thursday, FP3+Qualifying Friday, Race Saturday Sept. 26. The most chaotic street circuit on the calendar. #F1 #AzerbaijanGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#AzerbaijanGP"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-baku-gp-7-days-saturday-race.html",
+        "headline": "7 Days to Baku: F1's First Saturday Race Hosts Every Major 2026 Storyline",
+        "word_count": 493
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Baku GP\n\n**Social Image (1080x1350):**\n- Search term: `Kimi Antonelli Mercedes Formula 1`\n- Subject: Antonelli in Mercedes car or helmet\n- Overlay text: \"7 DAYS TO BAKU\" / \"First Saturday Race in History\" / \"Sept. 26\"\n- Mood: Anticipation, speed\n\n**Article Hero (1200x630):**\n- Search term: `Baku City Circuit Formula 1 Azerbaijan`\n- Wide circuit or cityscape shot\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Baku Azerbaijan GP — 7 Days\n**Sources:**\n- Motorsport.com: F1 Azerbaijan GP is on a Saturday in 2026, here's why\n- Sky Sports F1: Azerbaijan GP 2026 — Saturday race, dates, schedule\n- ESPN: Azerbaijan Grand Prix 2026 race start time and schedule\n- F1.com: Full timetable for Azerbaijan Grand Prix 2026\n- Scuderiafans.com: 2026 Azerbaijan GP schedule\n**Key Facts (HIGH confidence):**\n- Race date: Saturday, September 26, 2026 [HIGH]\n- Reason for Saturday: Azerbaijan Remembrance Day on September 27 [HIGH]\n- FP1 and FP2: Thursday September 24 [HIGH]\n- FP3 and Qualifying: Friday September 25 [HIGH]\n- Race distance: 51 laps at Baku City Circuit [HIGH]\n- First Saturday race in Azerbaijan GP history [HIGH]\n- Antonelli leads championship by 81 points going into Baku [HIGH]\n- Williams FW48 upgrade arriving at Baku [HIGH]\n- McLaren upgrade also expected for Baku [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Antonelli Clinch Math — Baku Can't Do It, Singapore Can",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "**Post 3 (10:00 AM ET — Analysis)**\nAntonelli cannot clinch the title at Baku. Even a perfect weekend doesn't get him there. Singapore on Oct. 5 is the earliest he can do it — and if he does, he'd be the youngest champion in F1 history by over 3 years. #F1 #Antonelli",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Antonelli"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-antonelli-clinch-math-singapore.html",
+        "headline": "Antonelli's Clinch Math: Baku Won't Do It, But Singapore Could",
+        "word_count": 584
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli Clinch Math\n\n**Social Image (1080x1350):**\n- Search term: `Kimi Antonelli Mercedes Formula 1`\n- Subject: Antonelli celebrating or in car\n- Overlay text: \"SINGAPORE OCT. 5\" / \"Earliest Clinch Date\" / \"Youngest Champion Ever?\"\n- Mood: Historic, celebratory anticipation\n\n**Article Hero (1200x630):**\n- Search term: `Kimi Antonelli Mercedes Formula 1`\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli Championship Clinch — Singapore\n**Sources:**\n- Motorsport.com: 2026 F1 Championship standings — Antonelli closes in on the title\n- F1-fansite.com: 2026 F1 Standings Drivers & Constructors Championship\n- Racingnews365.com: Andrea Kimi Antonelli F1 results 2026\n- Prior session research (09-18): Antonelli 292 pts, Russell 211, gap 81, 233 remaining\n**Key Facts (HIGH confidence):**\n- Antonelli points after R14 (Spanish GP): 292 [HIGH]\n- Russell points: 211 [HIGH]\n- Gap: 81 points [HIGH]\n- Points remaining (9 rounds including 1 Sprint): 233 [HIGH]\n- Baku: NOT a clinch opportunity [HIGH — mathematically confirmed]\n- Singapore GP date: October 5, 2026 [HIGH]\n- Singapore = earliest clinch opportunity [HIGH]\n- Vettel's youngest champion record: 23 years, 134 days (2010) [HIGH]\n- Antonelli born: August 25, 2006 [MEDIUM — from Wikipedia, verify age math]\n- At Singapore (Oct. 5): Antonelli would be approximately 20 years, 40 days old [MEDIUM — needs verification]\n- Season: 8 wins, 6 poles, 12 podiums [HIGH from prior research]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Ferrari vs. McLaren Constructors' — Baku Is Ferrari's Circuit",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "**Post 5 (10:00 AM ET — Technical)**\nFerrari leads McLaren by 52 in the constructors'. Baku's long main straight has historically favored power-unit performance — which plays to Ferrari's advantage. This is a circuit where the gap should hold or widen. #F1 #Ferrari",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Ferrari"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-ferrari-mclaren-constructors-baku.html",
+        "headline": "Ferrari Leads McLaren by 52 in the Constructors' — And Baku Should Help",
+        "word_count": 584
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ferrari vs. McLaren Constructors'\n\n**Social Image (1080x1350):**\n- Search term: `Lewis Hamilton Ferrari Formula 1`\n- Subject: Hamilton in Ferrari car or suit\n- Overlay text: \"52 POINTS\" / \"Ferrari Leads McLaren\" / \"Baku Could Decide It\"\n- Mood: Competition, tension\n\n**Article Hero (1200x630):**\n- Search term: `Ferrari Formula 1 car 2026`\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Ferrari vs. McLaren Constructors'\n**Sources:**\n- GPFans: Lewis Hamilton and Ferrari put on red alert as F1 title rivals plan upgrades\n- Motorsport.com: Ferrari vs McLaren constructors battle\n- Prior session research: Mercedes 503 pts, Ferrari P2, McLaren P3, gap 52 pts (was 59 after Monza)\n- McLaren tech director Neil Houldey: \"good chance\" more upgrades after leaving Europe\n**Key Facts (HIGH confidence):**\n- Ferrari P2 in constructors' [HIGH]\n- McLaren P3 in constructors' [HIGH]\n- Ferrari-McLaren gap: 52 points [HIGH]\n- Previous gap (after Monza): 59 points [HIGH from prior research]\n- McLaren progressively closing [HIGH]\n- Baku long straight historically favors power-unit performance [HIGH]\n- McLaren further bolt-on upgrades possible after season leaves Europe [MEDIUM — Houldey quote from GPFans]\n- 9 rounds remaining [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "F1 Calendar Confirmed — Qatar Nov. 29 and Abu Dhabi Dec. 6",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "**Post 7 (12:00 PM ET — Breaking)**\nCONFIRMED: F1 CEO Stefano Domenicali says the 2026 calendar is set. Qatar on Nov. 29. Abu Dhabi on Dec. 6. Season ends as planned. The Imola contingency is off the table. #F1 #F12026",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#F12026"
+          ],
+          "char_count": 218
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-f1-calendar-confirmed-qatar-abu-dhabi.html",
+        "headline": "F1 Calendar Confirmed: Domenicali Ends Uncertainty — Qatar Nov. 29, Abu Dhabi Dec. 6",
+        "word_count": 536
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "F1 Calendar Confirmed\n\n**Social Image (1080x1350):**\n- Search term: `Stefano Domenicali Formula 1`\n- Subject: Domenicali or F1 paddock\n- Overlay text: \"CONFIRMED\" / \"Qatar Nov. 29 / Abu Dhabi Dec. 6\" / \"Season Finale Is Set\"\n- Mood: Resolution, official\n\n**Article Hero (1200x630):**\n- Search term: `Abu Dhabi Grand Prix Yas Marina Formula 1`\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "F1 Calendar Confirmed — Qatar/Abu Dhabi\n**Sources:**\n- The National: F1 committed to finishing season in Abu Dhabi: 'Calendar is confirmed'\n- Grandprix247: The 2026 Formula 1 season will end in Abu Dhabi\n- Sky Sports F1: Formula 1: 2026 season to end in Europe if Qatar and Abu Dhabi unable to host\n- Grande Premio: F1 delays decision on Qatar and Abu Dhabi GPs in 2026\n**Key Facts (HIGH confidence):**\n- Qatar GP date confirmed: November 29, 2026 [HIGH]\n- Abu Dhabi GP date confirmed: December 6, 2026 [HIGH]\n- Domenicali quote: \"The calendar is confirmed … we stay focused on delivering the calendar we promised\" [HIGH]\n- Confirmation made during Dutch Grand Prix weekend [MEDIUM — single source, but multiple outlets confirm the announcement]\n- Bahrain and Saudi Arabia cancelled due to regional tensions/Iran conflict [HIGH]\n- Imola was the contingency [HIGH — prior reporting]\n- Season now ends December 6 in Abu Dhabi as originally planned [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Williams FW48 Baku Upgrade — Sainz's Warning Still Hangs Over It",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "**Post 9 (12:00 PM ET — News)**\nWilliams arrives at Baku with its \"almost entirely new car\" upgrade in 7 days. Sainz's warning still stands: it's not a rescue. Vowles himself says it won't be enough for consistent points. But the data will help 2027. #F1 #Williams",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Williams"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-williams-fw48-baku-upgrade-vowles.html",
+        "headline": "Williams' \"Almost Entirely New Car\" Arrives at Baku in 7 Days — But Sainz's Warning Still Stands",
+        "word_count": 587
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Williams FW48 Upgrade\n\n**Social Image (1080x1350):**\n- Search term: `Carlos Sainz Williams Formula 1`\n- Subject: Sainz in Williams car or suit\n- Overlay text: \"BAKU IN 7 DAYS\" / \"New Car. Same Warning.\" / \"Williams FW48 Upgrade\"\n- Mood: Cautious, anticipatory\n\n**Article Hero (1200x630):**\n- Search term: `Williams Racing Formula 1 2026`\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Williams FW48 Baku Upgrade\n**Sources:**\n- Motorsport.com: Williams upgrades \"won't be enough\" to fix 2026 F1 struggles, says James Vowles\n- Motorsport.com: Williams plans \"almost entirely new car\" by Azerbaijan GP\n- F1.com: Why the FW48 upgrade package in Baku is so crucial for Williams\n- F1i.com/Sainz: Sainz delivers a stark warning over Williams' Baku upgrade\n- Total Motorsport: Crucial upgrade date set as Williams aim to rescue Carlos Sainz season\n**Key Facts (HIGH confidence):**\n- Williams FW48 upgrade described as \"almost entirely new car\" by Vowles [HIGH]\n- Sainz warning: not a rescue package [HIGH]\n- Vowles admission: remaining 2026 upgrades won't be enough for consistent points [HIGH]\n- Williams position: ninth in constructors' [HIGH]\n- Williams points in 2026: 11 [HIGH]\n- Scoreless since Monaco in June [HIGH]\n- Missed January Barcelona shakedown [HIGH — prior research]\n- Upgrade is data-gathering for 2027, not championship fix [HIGH]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
