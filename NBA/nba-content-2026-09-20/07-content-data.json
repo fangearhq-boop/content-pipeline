@@ -1,0 +1,247 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-20",
+  "compiled_at": "2026-09-20T11:18:24.741288+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Curry Extension Clock — 8 Days to Warriors Media Day",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "**Post 1 (9:00 AM ET — Morning recap)**\n8 days to Warriors media day. Steph Curry still hasn't signed the $136.7M extension. Mutual interest confirmed. Both sides have full structural flexibility. Still no announcement. Sept. 28 is coming fast. #Warriors #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Warriors",
+            "#NBA"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-curry-extension-8-days-media-day.html",
+        "headline": "8 Days and No Deal: Curry's Silence Has the Warriors' Offseason on Hold",
+        "word_count": 792
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Curry Extension\n\n**Image 1 (Social — 1080x1350)**\n- Search term: `Stephen Curry Golden State Warriors`\n- Usage: X Post 1 + FB Post 1\n- Caption concept: Countdown graphic overlay — \"8 Days\" prominent, extension amount secondary\n- Status: not_started\n\n**Image 2 (Article Hero — 1200x630)**\n- Search term: `Stephen Curry Golden State Warriors`\n- Usage: article-01 featured image\n- Caption concept: Curry in Warriors gear, clean portrait orientation\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Stephen Curry Extension — 8 Days\n**Sources:**\n- Yahoo Sports: Warriors Get Major Stephen Curry Contract Update (Sept. 2026)\n- Bleacher Report: New Steph Curry Rumors Update Warriors Contract Extension Talks Ahead of Eligibility Date\n- Heavy.com: Warriors, Stephen Curry Eye Looming Date for Contract Extension\n- ESPN/Slater: Both sides confirm mutual desire; Warriors giving Curry structural flexibility\n- NBATrending / SportsBrackets: Key dates for 2026-27 NBA season\n**Key Facts (HIGH confidence):**\n- Curry extension eligibility: 2 years, up to $136.7 million [HIGH]\n- Warriors media day: September 28, 2026 [HIGH]\n- Training camp: September 29 in Hawaii (BYU-Hawaii campus) [HIGH]\n- Curry public statement: no interest in free agency, wants to finish career as a Warrior [HIGH]\n- No extension announced as of 2026-09-20 [HIGH]\n- Warriors projected cap space next offseason: ~$130M; full extension cuts to ~$45–65M [MEDIUM]\n- Draymond Green and Jimmy Butler III both in final year of contracts 2026-27 [HIGH]\n**Story angle:** 8-day countdown; the silence is shaping the media day narrative.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "DOJ Clippers Probe — Week Seven",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "**Post 3 (11:00 AM ET — Developing story)**\nDOJ Clippers probe enters week seven. Still no charges. Joseph Sanberg — 14-year wire fraud sentence — is reported as a potential cooperating witness. The federal case is slow. The NBA season is 30 days away. #Clippers #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Clippers",
+            "#NBA"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-doj-clippers-probe-week-seven.html",
+        "headline": "DOJ Clippers Probe Enters Week Seven — What a Cooperating Witness Changes",
+        "word_count": 786
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "DOJ Clippers Probe\n\n**Image 3 (Social — 1080x1350)**\n- Search term: `Steve Ballmer Los Angeles Clippers`\n- Usage: X Post 3 + FB Post 3\n- Caption concept: Clippers ownership/team imagery with investigation context\n- Status: not_started\n\n**Image 4 (Article Hero — 1200x630)**\n- Search term: `Kawhi Leonard Los Angeles Clippers`\n- Usage: article-02 featured image\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "DOJ Clippers Probe — Week Seven\n**Sources:**\n- Yahoo Sports: U.S. Department of Justice opens criminal probe into Clippers-Kawhi Leonard dealings\n- Sportico: Clippers Kawhi Cap Scandal Gets DOJ Probe, Raising Legal Risks\n- Hoops Rumors: Clippers Notes — DOJ Probe, Beal, Paul, No. 3 (Sept. 2026)\n- ABC7 LA: DOJ opens criminal investigation into Clippers' Kawhi Leonard dealings\n- Forbes: DOJ Reportedly Probing LA Clippers Salary Cap Scandal After NBA Suspends Steve Ballmer\n**Key Facts (HIGH confidence):**\n- EDNY (Eastern District of New York) running investigation [HIGH]\n- Investigation in \"earliest stages\" [HIGH]\n- Alleged no-show endorsement deals through four companies: Aspiration Partners, Boingo Wireless, Daktronics, Lockton Insurance [HIGH]\n- Estimated payments to Leonard via those companies: approximately $18 million [MEDIUM]\n- NBA penalties: $30M fine, 5 first-round picks (2029–2033) [HIGH]\n- Ballmer: 1 year suspension; Frank: 6 months; Zucker: 1 year; Robertson: 5 years [HIGH]\n- Leonard fined $700,000; trade to Raptors ratified [HIGH]\n- Joseph Sanberg (wire fraud conviction, 14-year sentence) reported as potential cooperating witness [MEDIUM — single report]\n- Daktronics CFO Howard Atkins confirmed receiving requests for information and cooperating [HIGH]\n- No charges filed as of 2026-09-20 [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Jalen Duren QO — 11 Days Left, Still No Deal",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "**Post 5 (11:00 AM ET — Developing)**\n11 days to Oct. 1. Duren wants $200M+. Pistons at $190M. Marc Stein: Duren \"increasingly prepared\" to take the $9.6M QO. Nine teams ready to offer max next summer. Detroit hasn't moved. #Pistons #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Pistons",
+            "#NBA"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-duren-qo-11-days-pistons.html",
+        "headline": "11 Days to the Duren Deadline — Why the Kings Factor Has Changed Detroit's Math",
+        "word_count": 768
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Duren QO\n\n**Image 5 (Social — 1080x1350)**\n- Search term: `Jalen Duren Detroit Pistons`\n- Usage: X Post 5 + FB Post 5\n- Caption concept: Countdown overlay — \"11 Days to Deadline\"\n- Status: not_started\n\n**Image 6 (Article Hero — 1200x630)**\n- Search term: `Jalen Duren Detroit Pistons`\n- Usage: article-03 featured image\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Jalen Duren QO — 11 Days\n**Sources:**\n- Detroit Jock City: Having Jalen Duren accept his qualifying offer is the worst of all worlds for the Pistons\n- Detroit Jock City: Latest Pistons report highlights worsening odds of new Jalen Duren contract\n- Last Word on Basketball: Pistons' Rotation Will Change Dramatically With Jalen Duren On A Qualifying Offer\n- TalkBasket: Jalen Duren \"emboldened\" to take Pistons' qualifying offer\n- Heavy.com: Pistons Face Risky Jalen Duren Decision With 9 Teams Looming\n- Eastern Herald: Jalen Duren Qualifying Offer: Pistons Face Oct. 1 Deadline\n- Piston Powered: Jalen Duren standoff has two possible plot twists on October 1st\n**Key Facts (HIGH confidence):**\n- Oct. 1 qualifying offer deadline [HIGH]\n- Qualifying offer value: $9.6 million [HIGH]\n- Pistons' reported offer: 5 years, $190 million ($38M AAV) [HIGH]\n- Duren seeking at least $200 million [HIGH]\n- Marc Stein: Duren \"increasingly prepared\" to accept QO [HIGH]\n- If QO accepted: Duren becomes UFA after 2026-27, Pistons lose all matching rights [HIGH]\n- 9 teams reportedly positioned to offer max deal if Duren becomes UFA [HIGH]\n- Sacramento Kings specifically identified as leading suitors [HIGH]\n- Duren age: 22 [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Knicks Banner Night — 30 Days Out",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "**Post 7 (9:00 AM ET — Morning)**\nOne month from tonight, the Knicks raise their first banner since 1973. Then LeBron James walks into MSG wearing a 76ers jersey. The most loaded Opening Night in recent NBA memory tips off Oct. 20. #Knicks #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Knicks",
+            "#NBA"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-knicks-banner-night-30-days-lebron-76ers.html",
+        "headline": "30 Days to Banner Night — The Case for the Most Loaded Opening in Modern NBA History",
+        "word_count": 742
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Knicks Banner Night\n\n**Image 7 (Social — 1080x1350)**\n- Search term: `Jalen Brunson New York Knicks`\n- Usage: X Post 7 + FB Post 7\n- Caption concept: Championship celebration imagery, \"30 Days\" countdown overlay\n- Status: not_started\n\n**Image 8 (Article Hero — 1200x630)**\n- Search term: `New York Knicks Madison Square Garden`\n- Usage: article-04 featured image\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Knicks Banner Night — 30 Days\n**Sources:**\n- NBC New York: NBA opening night schedule for 2026-27 season\n- ABC7 New York: Knicks 2026-2027 schedule released\n- SI.com / UltraGameShop: 2026-27 NBA Opening Night\n- Olympics.com: NBA reveals schedule for 2026-27 season\n- Empire Sports Media: Knicks' banner night now comes with a brutal first act\n**Key Facts (HIGH confidence):**\n- Opening Night: October 20, 2026 [HIGH]\n- Banner ceremony: 6:30 PM ET at MSG [HIGH]\n- Tipoff: 7:00 PM ET on NBC/Peacock [HIGH]\n- Knicks beat San Antonio Spurs for 2026 championship [HIGH]\n- Last Knicks championship: 1973 [HIGH]\n- 76ers debut at MSG: LeBron James, Jaylen Brown [HIGH]\n- Also on Opening Night: Celtics vs. Pistons (3 PM ET), Thunder vs. Spurs (9:30 PM ET) [HIGH]\n- Finals MVP: Jalen Brunson [HIGH]\n- Roster core: Brunson, Karl-Anthony Towns [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "DeMar DeRozan Signs With the Denver Nuggets",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "**Post 9 (1:00 PM ET — Breaking/New)**\nDeMar DeRozan is signing with the Denver Nuggets. 1-year, $3.9M. Six-time All-Star, 18.4 PPG last season. Recruited by Jokic, Murray, and Gordon. At 37, he's choosing championships over dollars. #Nuggets #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Nuggets",
+            "#NBA"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-derozan-nuggets-signing.html",
+        "headline": "DeMar DeRozan Signs With the Nuggets — What He Brings to Denver and Why This Deal Is Better Than It Looks",
+        "word_count": 693
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "DeRozan to Nuggets\n\n**Image 9 (Social — 1080x1350)**\n- Search term: `DeMar DeRozan`\n- Usage: X Post 9 + FB Post 9\n- Caption concept: DeRozan headshot/action, \"Welcome to Denver\" overlay\n- Status: not_started\n\n**Image 10 (Article Hero — 1200x630)**\n- Search term: `DeMar DeRozan`\n- Usage: article-05 featured image\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "DeMar DeRozan to Denver Nuggets\n**Sources:**\n- NBA.com: Nuggets Sign DeMar DeRozan (official team release)\n- ESPN: Nuggets signing 6-time All-Star DeMar DeRozan to 1-year deal\n- Yahoo Sports: DeMar DeRozan reportedly signing with the Nuggets on 1-year, $3.9 million deal\n- Denver Stiffs: Report — Denver Nuggets sign DeMar DeRozan to a one-year deal\n- SI.com: Instant Grade — Nuggets Sign DeMar DeRozan to 1-Year Deal\n**Key Facts (HIGH confidence):**\n- Contract: 1 year, $3.9 million [HIGH]\n- DeRozan All-Star selections: 6 [HIGH]\n- DeRozan age: 37 [HIGH]\n- Last season stats: 18.4 points, ~50% shooting (with Sacramento Kings) [HIGH]\n- DeRozan was waived by Kings in offseason [HIGH]\n- Teams DeRozan spoke to before choosing Denver: Heat, Wizards, Pelicans [HIGH]\n- Key recruiters: Nikola Jokic, Jamal Murray, Aaron Gordon [HIGH]\n- Nuggets sent Peyton Watson to Cleveland in earlier four-team trade [HIGH]\n- Camp opens: September 29 [HIGH]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

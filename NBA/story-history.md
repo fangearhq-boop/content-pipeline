@@ -2,6 +2,56 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-09-20
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-20 | T1 | 8 Days and No Deal — Curry's Silence Has the Warriors' Offseason on Hold | X(2), FB, Article | FOLLOW UP |
+| 2026-09-20 | T1 | DOJ Clippers Probe Enters Week Seven — Sanberg's Cooperating Witness Role Takes Shape | X(2), FB, Article | FOLLOW UP |
+| 2026-09-20 | T1 | 11 Days to the Duren Deadline — Why the Kings Factor Has Changed Detroit's Math | X(2), FB, Article | FOLLOW UP |
+| 2026-09-20 | T1 | 30 Days to Banner Night — The Historic MSG Moment That Will Open the NBA Year | X(2), FB, Article | FOLLOW UP |
+| 2026-09-20 | T2 | Six-Time All-Star DeRozan Joins Jokic and Murray in Denver on One-Year Deal | X(1), FB, Article | NEW |
+
+### STORY 1: Stephen Curry Extension — 8 Days
+- **Tier:** 1
+- **Category:** Golden State Warriors / Stephen Curry / Contract Extension
+- **Key facts:** 8 days to Sept. 28 Warriors media day; up to 2yr/$136.7M eligible; Warriors "letting Curry decide structure"; mutual desire confirmed; training camp Sept. 29 then Hawaii; no deal yet
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Extension signed Sept. 27-28, media day Q&A with no deal
+
+### STORY 2: DOJ Clippers Federal Probe — Week Seven
+- **Tier:** 1
+- **Category:** Los Angeles Clippers / DOJ / Kawhi Leonard / EDNY
+- **Key facts:** EDNY probe in "earliest stages"; Joseph Sanberg (14yr wire fraud) reported as potential cooperating witness; Daktronics CFO confirming cooperation; no charges filed; NBA penalties in force; season opens Oct. 20
+- **Byline:** Damon Pierce
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Charges filed, additional subpoenas, Sanberg testimony details
+
+### STORY 3: Jalen Duren Pistons QO — 11 Days
+- **Tier:** 1
+- **Category:** Detroit Pistons / Jalen Duren / Qualifying Offer
+- **Key facts:** 11 days to Oct. 1 QO deadline; Pistons 5yr/$190M ($38M AAV); Duren wants $200M+; QO=$9.6M; if accepted, Duren UFA next summer; 9 teams with cap space including Kings; Pistons lose matching rights if QO accepted
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Deal signed, QO accepted, deadline passes with no deal
+
+### STORY 4: Knicks Banner Night — 30 Days
+- **Tier:** 1
+- **Category:** New York Knicks / Opening Night / Banner Ceremony / LeBron James / 76ers
+- **Key facts:** Oct. 20, 6:30 PM ceremony, 7 PM ET NBC/Peacock tipoff; first Knicks banner since 1973; LeBron James + Jaylen Brown 76ers debuts; Knicks swept Philly 4-0 last playoffs; Brunson Finals MVP; Celtics-Pistons 3 PM, Thunder-Spurs 9:30 PM
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Game recap, banner details, 76ers response
+
+### STORY 5: DeMar DeRozan to Denver Nuggets
+- **Tier:** 2
+- **Category:** Denver Nuggets / DeMar DeRozan / Free Agency
+- **Key facts:** 1yr/$3.9M veteran minimum; 6-time All-Star; age 37; 18.4 PPG ~50% FG last season with Kings; Kings waived him; chose Denver over Heat/Wizards/Pelicans; recruited by Jokic/Murray/Gordon; Nuggets traded Peyton Watson to Cleveland
+- **Byline:** Damon Pierce
+- **Status:** NEW
+- **Follow-up ideas:** Camp performance, regular season role, Nuggets preview
+
 ## 2026-09-19
 
 | Date | Tier | Title | Platforms | Status |
