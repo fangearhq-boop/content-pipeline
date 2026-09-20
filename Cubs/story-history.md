@@ -7705,3 +7705,47 @@ Each day's stories are appended at the top (newest first).
 - **Content Produced:** X Text Post (1 post — 5:00 PM CT, pre-game hype)
 - **Follow-Up Opportunities:**
   - Game 2 result recap (tomorrow morning)
+
+## 2026-09-20
+
+### STORY 1: Game Recap — Cubs 5, Reds 2 (Boyd 9-5)
+- **Angle:** NEW STORY (Boyd ends 6-start winless streak (9-5), 5 IP 2 R; Busch tiebreaking HR in 6th off Lodolo; Swanson 9th-inning HR first since Aug. 12; Reds 9-of-12 losers; per opening=stat_lead, opened with "9-5. That's Boyd's record now.")
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, morning recap)
+- **Follow-Up Opportunities:**
+  - Game 3 result recap (tomorrow morning)
+  - Boyd ERA/record tracking heading into October
+
+### STORY 2: Wild Card Update — Cubs 86-69 WC1
+- **Angle:** FOLLOW UP (Cubs 86-69 after Saturday win; Padres also 86-69 after beating Marlins; Cubs hold WC1 tiebreaker 5-1 H2H vs SD; Phillies fell to 85-70 after Mets 10-3 loss; 7 games remain; per opening=stat_lead, opened with "86-69. Cubs hold WC1.")
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold take/standings)
+- **Follow-Up Opportunities:**
+  - Daily WC standings update
+  - WC clinch magic number tracking
+  - WC clinch announcement
+
+### STORY 3: PCA 40-40 Watch — 44 HR / 37 SB
+- **Angle:** FOLLOW UP (44/37 entering today; needs 3 SBs in 7 games; first-ever 40-40 Cub; 7th in MLB history; last was Ohtani 2024; PCA leads NL in slugging .577 and OPS .953; per opening=stat_lead, opened with "44 home runs. 37 stolen bases.")
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, stat breakdown/milestone)
+- **Follow-Up Opportunities:**
+  - Each SB en route to 40 SB
+  - 40-40 achievement announcement
+  - NL MVP candidacy
+
+### STORY 4: October Stakes — WC1 = Wrigley Hosting
+- **Angle:** NEW STORY (WC1 by tiebreaker = home Wild Card Series at Wrigley; 7 games left; Cubs 86-69 tied with SD but own 5-1 H2H; Brewers have Central; per opening=stat_lead, opened with "7 games. 86-69. WC1 by tiebreaker.")
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, analysis/bold take)
+- **Follow-Up Opportunities:**
+  - WC clinch / home-field confirmation
+  - Playoff bracket updates
+
+### STORY 5: Series Finale Preview — Peterson vs Lowder, 12:40 PM CT
+- **Angle:** NEW STORY (Series 1-1; David Peterson (7-8, 5.28 ERA) vs Rhett Lowder; 12:40 PM CT at Great American Ball Park; win = Cubs take series 2-1; WC1 context adds stakes; per opening=stat_lead, opened with "1-1 in this series. WC1 on the line.")
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Game 3 result recap (tomorrow morning)
+  - Peterson performance tracking
