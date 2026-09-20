@@ -1,5 +1,46 @@
 # Golf Fanrecap — Pipeline Status
 
+## Last Run: 2026-09-20
+
+**Status:** COMPLETE (with known proxy limitations)
+**Niche:** Golf Fanrecap
+**Stories:** 5
+**Articles:** 5
+
+---
+
+## 2026-09-20 Run Log
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research | ✅ Complete | 5 stories — Biltmore R4 Shipley -15 leads Kohles -14, Presidents Cup 4 days Medinah, LIV Golf 23-day countdown BC Partners Oct. 13, Rahm DP World Tour agreement Ryder Cup eligible, Koivun Biltmore-to-Medinah |
+| Daily Brief | ✅ Complete | 00-daily-brief.md |
+| Research Notes | ✅ Complete | 01-research-notes.md |
+| Story Analysis | ✅ Complete | 02-story-analysis.md |
+| X Posts | ✅ Complete | 03-social-posts-x.md — 8 posts, all ≤280 chars |
+| Facebook Posts | ✅ Complete | 04-social-posts-facebook.md — 5 stories |
+| Image Concepts | ✅ Complete | 05-image-concepts.md |
+| Articles | ✅ Complete | 5 HTML articles |
+| Fact Check | ✅ Complete | 06-fact-check-log.md — 21 claims, all HIGH |
+| Compile Content Data | ✅ Complete | 07-content-data.json — 5 stories, 5 tweets (posting window warnings — known), FB=0 known |
+| Image Manifest | ✅ Complete | 07-image-manifest.md (10 images, status: not_started) |
+| Story History | ✅ Complete | story-history.md updated |
+| Review Dashboard | ✅ Complete | review-dashboard.html — 15 items |
+| Publish Dashboard | ⚠ Partial | Blocked — content-dashboards not in authorized repo |
+| PostPlanner Export | ⚠ Blocked | 0 posts (known parsing issue) |
+| PostPlanner TOBI | ⚠ Blocked | 0 posts (known parsing issue) |
+| WordPress Publish | ❌ Blocked | WP credentials not in environment (proxy policy) |
+| Git Push | ✅ Complete | Committed and pushed to main |
+
+**Stories covered:**
+1. T1 FOLLOW UP: Final Round Today — Shipley (-15) Leads Kohles (-14) by One at the Biltmore Championship (Ryan Calloway)
+2. T1 FOLLOW UP: Presidents Cup 4 Days Out — Snedeker's USA Team Heads to Medinah This Week (Jake Torres)
+3. T1 FOLLOW UP: LIV Golf's 23-Day Countdown — BC Partners Needs 2/3 of Dollar Claims and Half the Players by Oct. 13 (Marcus Cole)
+4. T2 FOLLOW UP: Rahm's DP World Tour Agreement Is Done — Fines Paid, Ryder Cup Eligibility Restored for 2027 (Ryan Calloway)
+5. T2 FOLLOW UP: Koivun Plays R4 Today — Then Straight to Medinah for His Presidents Cup Debut (Jake Torres)
+
+---
+
 ## Last Run: 2026-09-19
 
 **Status:** COMPLETE (with known proxy limitations)

@@ -1,0 +1,196 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-20",
+  "compiled_at": "2026-09-20T11:36:18.442631+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Biltmore Championship R4 — Shipley Leads Kohles by One Into Final Round",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "**Post 1 (8:00 AM ET)**\nFinal round today at the Biltmore Championship. Neal Shipley (-15) leads Ben Kohles (-14) by one shot at The Cliffs at Walnut Cove, Asheville. Castillo and Cole sit at -11. Sunday at the first PGA Tour event in western North Carolina in 84 years. #PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-01-biltmore-championship-r4-shipley-leads.html",
+        "headline": "Final Round Today — Shipley (-15) Leads Kohles (-14) by One at the Biltmore Championship",
+        "word_count": 633
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Biltmore Championship R4\n**Source:** Web search — PGA Tour, Golf Channel, tournament coverage\n**Confidence:** HIGH\n**Verified facts:**\n- Neal Shipley leads at -15 entering R4 (career-low 62 in R2)\n- Ben Kohles at -14, one back\n- Ricky Castillo and Eric Cole at -11 (T3)\n- Jackson Koivun at -7 (made cut, 8 back of leader)\n- Final twosome tee-off: 9:55 AM ET, The Cliffs at Walnut Cove, Asheville, NC\n- Preferred lies in effect all four rounds (course conditions)\n- $5M purse; $900K to winner\n- First PGA Tour event in western North Carolina in 84 years\n- Inaugural Biltmore Championship (FedExCup Fall)\n- R3 tee time: Shipley/Kohles/Castillo grouped together\n**Notes:** R4 results not yet available as of pipeline run time (tournament in progress Sunday).",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Presidents Cup 4 Days Out — USA and International Teams Set at Medinah",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "**Post 3 (1:00 PM ET)**\n4 days to the Presidents Cup. Competition opens Thursday, Sept. 24 at Medinah Country Club in Illinois. USA captain Brandt Snedeker vs. International captain Geoff Ogilvy. Practice rounds begin Tuesday. USA leads the all-time series 13-1-1.",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 264
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-02-presidents-cup-4-days-medinah-preview.html",
+        "headline": "Presidents Cup 4 Days Out — Snedeker's USA Team Heads to Medinah This Week",
+        "word_count": 589
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Presidents Cup 4 Days Out\n**Source:** Web search — PGA Tour, Presidents Cup official, Medinah CC\n**Confidence:** HIGH\n**Verified facts:**\n- Competition dates: September 24–27, 2026\n- Venue: Medinah Country Club, Medinah, Illinois\n- USA captain: Brandt Snedeker\n- International captain: Geoff Ogilvy\n- Practice rounds: Tuesday Sept. 22 and Wednesday Sept. 23 (gates open 9 AM CDT)\n- 30 total matches: 5 four-ball (Thu), 5 foursomes (Fri), 4+4 (Sat), 12 singles (Sun)\n- First match Thursday: 11:35 AM CDT\n- USA automatic qualifiers: Scottie Scheffler, Wyndham Young, Wyndham Clark, Russell Henley, Sam Burns, Collin Morikawa\n- USA captain's picks: Chris Gotterup, Xander Schauffele, Justin Thomas, Patrick Cantlay, Maverick Bridgeman, Jackson Koivun\n- International team: Adam Scott, Hideki Matsuyama, Ryan Fox (among 12)\n- USA all-time record: 13-1-1 (16th edition)\n- Broadcasting: NBC/Golf Channel/Peacock",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "LIV Golf 23-Day Countdown — BC Partners Needs Player Signatures by Oct. 13",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "**Post 5 (6:00 PM ET)**\n23 days to LIV Golf's Oct. 13 deadline. BC Partners needs players holding ≥2/3 of claim dollars and ≥1/2 of headcount to commit to LIV 2.0. Players would own 52.5%. PIF exits. BC Partners invests $300M. Rahm ($7.47M) still uncommitted.",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 259
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-03-liv-golf-23-day-countdown-bc-partners.html",
+        "headline": "LIV Golf's 23-Day Countdown — BC Partners Needs 2/3 of Dollar Claims and Half the Players by Oct. 13",
+        "word_count": 741
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "LIV Golf Restructuring Deadline\n**Source:** Web search — court filings, Sports Business Journal, The Athletic, Bloomberg\n**Confidence:** HIGH\n**Verified facts:**\n- Chapter 11 filed: September 8, 2026, NJ bankruptcy court\n- Oct. 13 deadline = 35 days from Sept. 8 filing\n- Player commitment threshold: ≥2/3 of dollar claims + ≥1/2 of headcount (RSA standard)\n- BC Partners investment: $300M\n- Player collective ownership: 52.5%\n- BC Partners + investors: ~45%\n- Management incentive pool: ~2.5%\n- PIF: fully exits, providing $49.6M DIP loan only\n- Jon Rahm: $7.47M claim (largest individual creditor)\n- Top 3 creditors (Rahm, DeChambeau, DJ): approximately $18.7M combined\n- Rahm Sept. 15 statement: noncommittal on LIV 2.0, sees \"opportunity\" on DP World Tour\n- LIV petition to reject all existing player contracts: pending court approval\n- LIV 2.0 target launch: 2027",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Rahm's DP World Tour Agreement — The 2027 Ryder Cup Door Is Now Open",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "**Post 7 (8:30 PM ET)**\nJon Rahm's DP World Tour agreement is confirmed: fines paid, 5 events committed, Ryder Cup eligibility restored for 2027 at Adare Manor, Ireland. He now has a clear path back to European team golf — if he walks away from LIV.",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 249
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-04-rahm-dp-world-tour-ryder-cup-eligible.html",
+        "headline": "Rahm's DP World Tour Agreement Is Done — Fines Paid, Ryder Cup Eligibility Restored for 2027",
+        "word_count": 691
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Rahm DP World Tour Agreement\n**Source:** Web search — DP World Tour official, Golf Digest, European Tour Network\n**Confidence:** HIGH\n**Verified facts:**\n- Rahm reached agreement with DP World Tour: May 2026\n- Terms: paid outstanding fines, committed to play 5 DP World Tour events (excluding majors/co-sanctioned events)\n- Ryder Cup eligibility restored for 2027 Ryder Cup\n- 2027 Ryder Cup location: Adare Manor, Ireland\n- Agreement restores his DP World Tour membership in good standing\n- Context: Rahm had been ineligible for Ryder Cup due to LIV participation and outstanding fines since 2023",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Koivun's Biltmore-to-Medinah Sprint — Final Round Today, Presidents Cup Tuesday",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "**Post 8 (8:30 PM ET)**\nJackson Koivun plays his R4 at the Biltmore Championship today, then heads straight to Medinah for Presidents Cup practice rounds Tuesday. At 21, he's Brandt Snedeker's youngest captain's pick. Stroke play to match play in under 48 hours. #PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-05-koivun-biltmore-to-medinah-sprint.html",
+        "headline": "Koivun Plays R4 Today — Then Straight to Medinah for His Presidents Cup Debut",
+        "word_count": 652
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Jackson Koivun Biltmore-to-Medinah\n**Source:** Web search — PGA Tour, Presidents Cup rosters\n**Confidence:** HIGH\n**Verified facts:**\n- Koivun round-by-round: R1 -3 (68), R2 -4 (67), R3 score through available data\n- Through 36 holes: -7, 8 shots back of Shipley\n- Made the cut at Biltmore Championship\n- Age: 21 (youngest USA Presidents Cup team member)\n- Role: Captain's pick by Brandt Snedeker\n- Presidents Cup practice rounds: Tuesday Sept. 22 at Medinah (gates 9 AM CDT)\n- Presidents Cup debut",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No Facebook posts found",
+      "Story 1: No posting window specified",
+      "Story 2: No Facebook posts found",
+      "Story 2: No posting window specified",
+      "Story 3: No Facebook posts found",
+      "Story 3: No posting window specified",
+      "Story 4: No Facebook posts found",
+      "Story 4: No posting window specified",
+      "Story 5: No Facebook posts found",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

@@ -2,6 +2,56 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-09-20
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-20 | T1 | Final Round Today — Shipley (-15) Leads Kohles (-14) by One at the Biltmore Championship | X(2), FB, Article | FOLLOW UP |
+| 2026-09-20 | T1 | Presidents Cup 4 Days Out — Snedeker's USA Team Heads to Medinah This Week | X(2), FB, Article | FOLLOW UP |
+| 2026-09-20 | T1 | LIV Golf's 23-Day Countdown — BC Partners Needs 2/3 of Dollar Claims and Half the Players by Oct. 13 | X(2), FB, Article | FOLLOW UP |
+| 2026-09-20 | T2 | Rahm's DP World Tour Agreement Is Done — Fines Paid, Ryder Cup Eligibility Restored for 2027 | X(1), FB, Article | FOLLOW UP |
+| 2026-09-20 | T2 | Koivun Plays R4 Today — Then Straight to Medinah for His Presidents Cup Debut | X(1), FB, Article | FOLLOW UP |
+
+### STORY 1: Biltmore Championship R4 — Shipley Leads Into Final Round
+- **Tier:** 1
+- **Category:** PGA Tour / Biltmore Championship / Asheville / The Cliffs at Walnut Cove
+- **Key facts:** Shipley leads at -15 entering R4; Kohles -14 (one back); Castillo and Cole at -11 (T3); Koivun at -7; final twosome tees off 9:55 AM ET; preferred lies all 4 rounds; $5M purse, $900K winner; first PGA Tour in western NC in 84 years; Shipley career-low 62 in R2
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R4 winner, champion recap, Biltmore inaugural champion
+
+### STORY 2: Presidents Cup 4 Days Out
+- **Tier:** 1
+- **Category:** Presidents Cup / Medinah Country Club / Brandt Snedeker / Geoff Ogilvy / USA Team
+- **Key facts:** Competition Sept. 24–27 Medinah CC; 4 days out; practice rounds Sept. 22–23 (gates 9 AM CDT); 30 matches (5 four-ball Thu, 5 foursomes Fri, 4+4 Sat, 12 singles Sun); first match 11:35 AM CDT Thu; USA autos: Scheffler, Young, Clark, Henley, Burns, Morikawa; USA picks: Gotterup, Schauffele, Thomas, Cantlay, Bridgeman, Koivun; Intl: Scott, Matsuyama, Fox; USA 13-1-1 all-time; 16th edition
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Opening day pairings, Day 1 match results, final scoreboard
+
+### STORY 3: LIV Golf 23-Day Countdown
+- **Tier:** 1
+- **Category:** LIV Golf / Chapter 11 / BC Partners / Jon Rahm / Restructuring / Oct. 13
+- **Key facts:** Chapter 11 filed Sept. 8 NJ bankruptcy court; Oct. 13 = 35 days from filing; threshold: ≥2/3 by dollar amount + ≥1/2 by headcount; BC Partners invests $300M; players own 52.5%; PIF fully exits; PIF providing $49.6M DIP loan; Rahm $7.47M (largest individual); top 3 creditors ~$18.7M combined; Rahm noncommittal as of Sept. 15; LIV 2.0 targets 2027
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Oct. 13 court hearing, player commitments announced, deal status
+
+### STORY 4: Rahm DP World Tour Agreement
+- **Tier:** 2
+- **Category:** Jon Rahm / DP World Tour / Ryder Cup / LIV Golf
+- **Key facts:** Agreement confirmed: outstanding fines paid; committed to 5 DP World Tour events (excl. majors); Ryder Cup eligibility restored for 2027 Ryder Cup at Adare Manor, Ireland; agreement was reached May 2026; his Oct. 13 LIV commitment decision still pending; LIV petition to reject player contracts still pending in court
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Oct. 13 decision outcome, Rahm public statement on LIV 2.0
+
+### STORY 5: Koivun Biltmore-to-Medinah Sprint
+- **Tier:** 2
+- **Category:** Jackson Koivun / Biltmore Championship / Presidents Cup / USA Team
+- **Key facts:** Koivun at -7 through R3, 8 back of Shipley; plays R4 today; age 21, youngest on either Presidents Cup team; Snedeker captain's pick; Presidents Cup debut; practice rounds Medinah start Tuesday Sept. 22; Bridgeman also on USA team; transition stroke play → match play in under 48 hours
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Presidents Cup debut performance, Day 1 match results for Koivun
+
 ## 2026-09-19
 
 | Date | Tier | Title | Platforms | Status |
