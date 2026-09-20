@@ -1,0 +1,246 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-20",
+  "compiled_at": "2026-09-20T11:25:48.992249+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Azerbaijan GP — 6 Days to F1's First Saturday Race in Baku",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "**Post 1 (8:00 AM ET — Morning)**\n6 days until the first-ever Saturday race in Baku. The whole F1 weekend shifts forward 24 hours due to Azerbaijan Remembrance Day on Sept. 27. FP1/FP2 Thursday. FP3/Quali Friday. Race Saturday Sept. 26. #F1 #AzerbaijanGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#AzerbaijanGP"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-baku-gp-6-days-saturday-race.html",
+        "headline": "6 Days to Baku — F1's First Saturday Race on the Streets of Azerbaijan",
+        "word_count": 569
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Baku GP\n\n**Image 1 (Social — 1080x1350)**\n- Search term: `Baku City Circuit Formula 1`\n- Usage: X Post 1 + FB Post 1\n- Caption concept: Circuit overview or pit lane, countdown overlay\n- Status: not_started\n\n**Image 2 (Article Hero — 1200x630)**\n- Search term: `Baku City Circuit Formula 1`\n- Usage: article-01 featured image\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Azerbaijan GP — 6 Days\n**Sources:**\n- Motorsport.com: F1 Azerbaijan GP is on a Saturday in 2026, here's why\n- Formula1.com: Full timetable for Azerbaijan Grand Prix 2026\n- Sky Sports F1: Azerbaijan GP 2026 — Saturday race, dates, schedule\n- ESPN: Azerbaijan Grand Prix 2026 race start time, schedule, how to watch\n**Key Facts (HIGH confidence):**\n- Race date: Saturday, September 26, 2026 [HIGH]\n- Circuit: Baku City Circuit, 6.003km [HIGH]\n- Race distance: 51 laps [HIGH]\n- Reason for Saturday race: Azerbaijan Remembrance Day falls on September 27 (mourning for Second Nagorno-Karabakh War casualties) [HIGH]\n- Weekend schedule: FP1/FP2 Thursday, FP3/Qualifying Friday, Race Saturday (entire weekend shifted 24 hours) [HIGH]\n- Weather forecast: Dry and sunny throughout, ~26°C dropping to ~24°C for race [MEDIUM]\n- Championship leader: Kimi Antonelli, +81 over Russell [HIGH]\n- Broadcaster UK: Sky Sports F1 exclusive [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Antonelli Championship Math — Singapore Could Be the Day",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "**Post 3 (10:00 AM ET — Analysis)**\nAntonelli leads by 81 pts. If he wins Baku + Sprint and Russell scores zero, he arrives at Singapore needing only 12 points on Sunday to be world champion. Not likely — but mathematically possible. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-antonelli-championship-math-singapore.html",
+        "headline": "Antonelli Leads by 81 — The Math That Could Make Singapore His Coronation",
+        "word_count": 710
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli Championship\n\n**Image 3 (Social — 1080x1350)**\n- Search term: `Kimi Antonelli Mercedes`\n- Usage: X Post 3 + FB Post 3\n- Caption concept: Antonelli in car, championship celebration\n- Status: not_started\n\n**Image 4 (Article Hero — 1200x630)**\n- Search term: `Kimi Antonelli Mercedes`\n- Usage: article-02 featured image\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli Championship Math\n**Sources:**\n- PlanetF1: Kimi Antonelli title permutations — When can he become F1 World Champion?\n- Motorsport.com: 2026 F1 Championship standings — Kimi Antonelli unstoppable at the top\n- F1-Fansite.com: 2026 F1 Standings — Drivers & Constructors\n- Motors-Addict: 2026 F1 Championship standings — Antonelli closes in on title\n- CoffeeCornerMotorsport: F1 2026 Championship Standings\n**Key Facts (HIGH confidence):**\n- Antonelli points total: 292 [HIGH]\n- Russell (P2) points: 211 (81 behind) [HIGH]\n- Antonelli wins: 8 [HIGH]\n- Antonelli poles: 6 [HIGH]\n- Antonelli podiums: 12 [HIGH]\n- Rounds remaining after Baku: 8 [HIGH]\n- Singapore GP date: October 5 (approx.) [HIGH]\n- Clinch scenario at Singapore: requires max points at Baku (incl. sprint) + Russell scoring zero, then 12 points on Sunday at Singapore [MEDIUM — scenario modeling]\n- Most likely clinch: Interlagos (with ~3 rounds remaining) [MEDIUM]\n- Most recent victory: brand-new Madring circuit [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Mercedes vs Ferrari — The 122-Point Constructors' Gap",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "**Post 5 (10:00 AM ET — Analysis)**\nMercedes leads Ferrari by 122 points in the constructors'. Ferrari leads McLaren by 59. Red Bull is P4 on 204. This championship is over in everything but paperwork. #F1 #Formula1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Formula1"
+          ],
+          "char_count": 215
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-mercedes-constructors-122-point-lead.html",
+        "headline": "Mercedes Leads Ferrari by 122 in the Constructors' — Is This Title Already Won?",
+        "word_count": 651
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Mercedes Constructors\n\n**Image 5 (Social — 1080x1350)**\n- Search term: `Mercedes AMG Petronas Formula 1`\n- Usage: X Post 5 + FB Post 5\n- Caption concept: Mercedes team/car imagery\n- Status: not_started\n\n**Image 6 (Article Hero — 1200x630)**\n- Search term: `Mercedes AMG Petronas Formula 1`\n- Usage: article-03 featured image\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Mercedes vs Ferrari Constructors\n**Sources:**\n- Scuderia Fans: 2026 F1 constructor standings after Italian GP — Mercedes leads Ferrari by 122 points\n- Yahoo Sports: F1 standings 2026 constructors' championship\n- RacingNews365: F1 constructor standings 2026\n**Key Facts (HIGH confidence):**\n- Mercedes: P1 in constructors (leading) [HIGH]\n- Ferrari: P2, 122 points behind Mercedes [HIGH]\n- McLaren: P3, 287 points, 59 behind Ferrari [HIGH]\n- Red Bull: P4, 204 points [HIGH]\n- Last full constructors' standings update: after Italian Grand Prix [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Williams FW48 Baku Upgrade — Decisive but Tempered",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "**Post 7 (12:00 PM ET — Driver news)**\nSainz on Williams' Baku upgrade: the car will be faster — but other midfield teams improved too, so the relative gain may be smaller than expected. It's the last big push of 2026 before focus shifts to the FW50. #F1 #Williams",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Williams"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-williams-fw48-baku-upgrade.html",
+        "headline": "Williams Arrives in Baku With a New Car — But Sainz's Caution Is the Real Story",
+        "word_count": 712
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Williams FW48 Baku\n\n**Image 7 (Social — 1080x1350)**\n- Search term: `Carlos Sainz Williams`\n- Usage: X Post 7 + FB Post 7\n- Caption concept: Sainz in Williams car\n- Status: not_started\n\n**Image 8 (Article Hero — 1200x630)**\n- Search term: `Carlos Sainz Williams`\n- Usage: article-04 featured image\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Williams FW48 Baku Upgrade\n**Sources:**\n- Formula1.com: Why the FW48 upgrade package in Baku is so crucial for Williams\n- Yahoo Sports: Baku, Decisive for Williams — Its Upgrade Must Validate the Future\n- PlanetF1: Williams FW48 upgrade timeline revealed with 'completely new' car planned\n- BVM Sports: Williams Boosts FW48 with Upgrades Ahead of Azerbaijan GP (Sept. 19, 2026)\n- F1i.com: Sainz delivers a stark warning over Williams' Baku upgrade\n**Key Facts (HIGH confidence):**\n- Package description: \"almost completely new\" car, including new chassis [HIGH]\n- Team's best 2026 result: Alex Albon 8th in Monaco [HIGH]\n- Team has not scored since Monaco [HIGH]\n- Pre-Baku issues: car was significantly overweight at launch; delays caused team to miss Barcelona shakedown [HIGH]\n- Sainz caution: other midfield cars have improved throughout season, so relative gains may be modest despite absolute performance increase [HIGH]\n- Likely final major upgrade for 2026 — focus shifting to FW50 for 2027 [HIGH]\n- Williams drivers: Carlos Sainz, Alex Albon [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Norris Locks In McLaren Future — Contract to 2030",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "**Post 8 (12:00 PM ET — Driver news)**\nLando Norris is staying at McLaren through 2030. The 2025 world champion signed an extension worth up to $35M/year. He's been at McLaren since 2019 and isn't going anywhere. #F1 #McLaren",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#McLaren"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-norris-mclaren-2030-extension.html",
+        "headline": "Norris Commits to McLaren Through 2030 — What the Champion's Extension Means for the Team's Future",
+        "word_count": 661
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Norris McLaren 2030\n\n**Image 9 (Social — 1080x1350)**\n- Search term: `Lando Norris McLaren`\n- Usage: X Post 8 + FB Post 9\n- Caption concept: Norris in McLaren car or podium\n- Status: not_started\n\n**Image 10 (Article Hero — 1200x630)**\n- Search term: `Lando Norris McLaren`\n- Usage: article-05 featured image\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Lando Norris McLaren 2030 Extension\n**Sources:**\n- RACER: Norris extends McLaren stay until at least 2030 (Aug. 28, 2026)\n- McLaren.com: Official press release — Lando Norris contract extension 2030\n- Formula1.com: Lando Norris commits future to McLaren as he signs new deal until end of 2030\n- Sky Sports F1: Lando Norris — McLaren driver signs contract extension until 2030\n- Washington Times: Lando Norris locks in his long-term F1 future at McLaren\n**Key Facts (HIGH confidence):**\n- Contract extension announced: August 29, 2026 [HIGH]\n- Duration: through at least end of 2030, with options for further extension [HIGH]\n- Norris debut year with McLaren: 2019 [HIGH]\n- Norris 2025 title: F1 World Champion [HIGH]\n- Context: announced after back-to-back wins including Dutch GP [HIGH]\n- Reported contract value: up to $35 million per year [MEDIUM — reported, not officially confirmed]\n- McLaren's constructors position: P3 in 2026 [HIGH]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

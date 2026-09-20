@@ -2,6 +2,56 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-09-20
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-20 | T1 | 6 Days to Baku — F1's First Saturday Race on the Streets of Azerbaijan | X(2), FB, Article | FOLLOW UP |
+| 2026-09-20 | T1 | Antonelli Leads by 81 — The Math That Could Make Singapore His Coronation | X(2), FB, Article | FOLLOW UP |
+| 2026-09-20 | T1 | Mercedes Leads Ferrari by 122 in the Constructors' — Is This Title Already Won? | X(2), FB, Article | FOLLOW UP |
+| 2026-09-20 | T2 | Williams Arrives in Baku With a New Car — But Sainz's Caution Is the Real Story | X(1), FB, Article | FOLLOW UP |
+| 2026-09-20 | T2 | Norris Commits to McLaren Through 2030 — What the Champion's Extension Means | X(1), FB, Article | NEW |
+
+### STORY 1: Azerbaijan GP — 6 Days
+- **Tier:** 1
+- **Category:** Azerbaijan Grand Prix / Baku City Circuit / Saturday Race
+- **Key facts:** Race Saturday Sept. 26 (6 days); shifted from Sunday due to Azerbaijan Remembrance Day Sept. 27; entire weekend shifted 24hrs; 51 laps, 6.003km; FP1/FP2 Thursday, FP3/Quali Friday; Antonelli leads by 81
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Race day results, qualifying outcome
+
+### STORY 2: Antonelli Championship Math
+- **Tier:** 1
+- **Category:** Kimi Antonelli / Mercedes / Drivers' Championship
+- **Key facts:** Antonelli 292pts, Russell 211pts (81-point lead); 9 rounds remaining; 8 wins, 6 poles, 12 podiums; Singapore clinch possible if max Baku + Russell zero; most likely clinch: Interlagos
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Baku race result, Singapore clinch scenarios
+
+### STORY 3: Mercedes Constructors Dominance
+- **Tier:** 1
+- **Category:** Constructors' Championship / Mercedes / Ferrari / McLaren
+- **Key facts:** Mercedes leads Ferrari by 122pts; Ferrari leads McLaren by 59pts; McLaren 287pts; Red Bull 4th 204pts; 8 rounds after Baku
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Post-Baku standings update
+
+### STORY 4: Williams FW48 Baku Upgrade
+- **Tier:** 2
+- **Category:** Williams Racing / FW48 / Baku Upgrade
+- **Key facts:** "Almost entirely new car" package; new chassis; Sainz caution — gains are relative; best result Albon 8th Monaco; team hasn't scored since; focus shifting to FW50 for 2027
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Baku qualifying/race performance, points scored
+
+### STORY 5: Lando Norris McLaren 2030 Extension
+- **Tier:** 2
+- **Category:** Lando Norris / McLaren / Driver Contracts
+- **Key facts:** Contract through at least 2030 with options; signed August 29; announced after Dutch GP back-to-back wins; up to $35M/year; McLaren since 2019 debut; 2025 world champion
+- **Byline:** Elena Voss
+- **Status:** NEW
+- **Follow-up ideas:** McLaren 2027 car development news, Norris season recap
+
 ## 2026-09-19
 
 | Date | Tier | Title | Platforms | Status |
