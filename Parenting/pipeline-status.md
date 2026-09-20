@@ -1,6 +1,37 @@
 # COS Parenting — Pipeline Status
 
-## Current Run: 2026-09-19
+## Current Run: 2026-09-20
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Jerify Magnetic Stick Figure Toy recall Sep 17 2026 (~38,507 units, cpsc.gov); PRCS fall youth sports registration open (coloradosprings.gov/youthsports); Boo at the Zoo 2026 tickets on sale (cmzoo.org, Oct 16-31); D20 18th consecutive "Accredited with Distinction" from CDE (asd20.org); Colorado Free Days Oct — Pioneers Museum free daily + statewide program (coloradoparent.com) |
+| Story History Check | COMPLETE | All 5 stories NEW — verified against Sep 19 (Bark/SHEIN/D49/AAP gun/Halloween guide) and Sep 18 entries; no repeats |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (1 Tier 1, 3 Tier 2, 1 Tier 3); bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: cpsc.gov, amazon.com, coloradosprings.gov, cmzoo.org, asd20.org, coloradoparent.com, uncovercolorado.com |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows, voice check |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories; all ≤280 chars (fixed 3 overlimit posts); 4 hashtags each; max 1 exclamation mark; COS voice rules applied |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; no hashtags; engagement questions; COS voice rules applied |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 8 Gemini base_only prompts across 5 stories; detailed scene/mood/lighting/palette; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 Jerify recall (Jamie Rivera, T1, QR table); article-02 PRCS fall sports (Sarah Morales, T2, QR table); article-03 Boo at the Zoo (Jamie Rivera, T2, QR table); article-04 D20 accreditation (Sarah Morales, T2, QR table); article-05 Colorado Free Days (Jamie Rivera, T3, QR table) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 51 claims; HIGH/MEDIUM/LOW prioritized; no char-limit violations after fix |
+| Compile Content Data | COMPLETE (partial) | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts, 5 articles (FB 0 is known parser compat issue) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 8 entries across 5 stories, all not_started, gemini base_only, brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser compat issue — ran both standard and --tobi |
+| WordPress Publish | BLOCKED | fanrumor.com:443 blocked by egress proxy (known recurring issue) |
+| Story History | COMPLETE | 5 new entries prepended to Parenting/story-history.md (Sep 20 section) |
+
+- **Stories:** 5 stories (1 Tier 1, 3 Tier 2, 1 Tier 3)
+- **Posts:** 7 X posts + 5 FB long-form + 5 FB captions = 17 total
+- **Articles:** 5 (bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4])
+- **PostPlanner exports:** 0 posts (known parser compat issue)
+- **Key stories:** Jerify Magnetic Stick Figure Toy CPSC recall (2 kids hospitalized, stop use, Colerinsec refund); PRCS fall youth sports open (soccer/flag football/tackle football); Boo at the Zoo 2026 tickets on sale now (Oct 16-31, cmzoo.org); D20 18th consecutive Accredited with Distinction; Colorado Free Days October guide
+- **Issues:** PostPlanner 0 posts (known); WordPress blocked by proxy; dashboard push blocked (not in session authorized repos)
+
+---
+
+## Previous Run: 2026-09-19
 
 | Step | Status | Notes |
 |------|--------|-------|

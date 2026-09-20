@@ -2,6 +2,50 @@
 
 ---
 
+## September 20, 2026
+
+### Story 1: Jerify Magnetic Stick Figure Toys Recalled — CPSC Recall
+- **Date:** 2026-09-20
+- **Tier:** T1
+- **Pillar:** National Parenting (Product Safety)
+- **Key Facts:** CPSC recall Sep 17, 2026; ~38,507 sets; sold Amazon.com Oct 2022–May 2026 ~$21; 30-piece poseable figures ~2.7 inches; magnets in hands and feet detach; 2 children hospitalized after swallowing magnets; intestinal perforation/blockage risk; stop use immediately; contact Colerinsec for full refund, dispose and submit photo; cpsc.gov
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 2: PRCS Fall Youth Sports Registration Open
+- **Date:** 2026-09-20
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Colorado Springs PRCS; Soccer PreK–9th grade; Flag Football grades 1–8; Tackle Football grades 3–8; spaces limited in some divisions; register at coloradosprings.gov/youthsports; call (719) 385-5940
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 3: Boo at the Zoo 2026 — Tickets Now on Sale at Cheyenne Mountain Zoo
+- **Date:** 2026-09-20
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Cheyenne Mountain Zoo; Oct 16, 17, 23, 24, 25, 30, 31; 4–8:30 PM each evening; 20+ trick-or-treat stations; evening animal exhibits; advance timed-admission tickets required; CMZoo members get discount; sells out every year; cmzoo.org
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 4: Academy District 20 Earns Colorado's Highest Accreditation for 18th Consecutive Year
+- **Date:** 2026-09-20
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** D20 "Accredited with Distinction" from Colorado Department of Education; 18th consecutive year at top rating; 26,000+ students; 40 schools in Colorado Springs; asd20.org
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 5: Colorado Free Days October — Free Museum Access for COS Families
+- **Date:** 2026-09-20
+- **Tier:** T3
+- **Pillar:** Evergreen
+- **Key Facts:** Colorado Springs Pioneers Museum at 215 S Tejon Street — free every day; statewide Colorado Free Days program includes science centers, natural history museums, more; full guide at coloradoparent.com and uncovercolorado.com; October has strong lineup of free dates
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+---
+
 ## September 19, 2026
 
 ### Story 1: Bark at Briargate — Free Dog Adoption Event Today
