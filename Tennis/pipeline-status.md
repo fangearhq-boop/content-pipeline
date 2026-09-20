@@ -1,6 +1,37 @@
 # Tennis Fanrecap — Pipeline Status
 
-## Current Run: 2026-09-19
+## Current Run: 2026-09-20
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Guadalajara WTA 500 final result (puntodebreak/sundayguardianlive/wtatennis/tennisworldusa); Davis Cup Czechia 3-2 USA (espn/expats.cz/fieldlevelmedia/yardbarker/sundayguardianlive); Canada 3-1 France (cp24/tenniscanada/puntodebreak); GB vs Ecuador Final 8 clinch (lta.org.uk/skysports); Laver Cup 5 days out (lavercup.com/atptour/skysports/yahoo) |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Sep 19 S1: all-American final → Jovic wins 6-4, 6-2); S2 FOLLOW-UP (Sep 19 S3: USA-Czechia tied 1-1 → Czechia wins 3-2, USA eliminated); S3 FOLLOW-UP (Sep 19 S2: Canada leads 2-0 → Canada clinches 3-1 FAA); S4 FOLLOW-UP (Sep 19 S4: GB Day 1 2-0 → Day 2 clinch); S5 FOLLOW-UP (Sep 19 S5: Laver Cup 6 days out → 5 days) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2); bylines: Elena Voss [S1, S4], Ryan Calloway [S2], Marcus Cole [S3, S5] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: puntodebreak.com, sundayguardianlive.com, wtatennis.com, tennisworldusa.org, espn.com, fieldlevelmedia.com, expats.cz, yardbarker.com, nbcsports.com, sportskeeda.com, cp24.com, tenniscanada.com, lta.org.uk, skysports.com, daviscup.com, aceify.me, lavercup.com, atptour.com, sports.yahoo.com, wikipedia.org |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 8 posts across 5 stories; all ≤280 chars verified |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 9 imagn concepts across 5 stories |
+| Articles (5) | COMPLETE | article-01 Jovic Guadalajara (Elena Voss T1); article-02 Czechia stuns USA (Ryan Calloway T1); article-03 Canada clinches Davis Cup (Marcus Cole T1); article-04 GB qualifies Final 8 (Elena Voss T2); article-05 Laver Cup preview (Marcus Cole T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — auto-generated; 27 claims, HIGH; image manifest warning cosmetic (imagn, known) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 5 articles; posting-window warnings cosmetic (known) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 9 entries, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 23 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser issue — same as all prior runs |
+| WordPress Publish | BLOCKED | 403 proxy — fanrumor.com blocked (known recurring issue) |
+| Story History | COMPLETE | 5 entries prepended to Tennis/story-history.md (Sep 20 section) |
+
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 5 FB posts (5 long-form + 5 captions) = 13 total
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Ryan Calloway [S2], Marcus Cole [S3, S5])
+- **PostPlanner exports:** 0 posts (known parser compat issue)
+- **Key stories:** Jovic def. Stearns 6-4, 6-2 — defends Guadalajara WTA 500 title, career-high No. 13, No. 11 in Race; Czechia stuns USA 3-2 — Mensik def. Shelton 5-7, 6-4, 6-3 + Lehecka def. Tien 6-3, 7-5 (USA eliminated, Shelton 0-3 Davis Cup career); Canada beats France 3-1 — FAA def. Rinderknech 4-6, 7-6(5), 6-4 with 17 aces; GB qualifies for Final 8 after Day 2 win over Ecuador; Laver Cup 5 days away (Sep 25-27 London O2 — Europe vs World)
+- **Issues:** PostPlanner 0 posts (known); WordPress blocked by proxy; dashboard push blocked (not in session authorized repos)
+
+---
+
+## Previous Run: 2026-09-19
 
 | Step | Status | Notes |
 |------|--------|-------|
