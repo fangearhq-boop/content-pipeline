@@ -1,0 +1,245 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-21",
+  "compiled_at": "2026-09-21T11:22:51.162765+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Baku Grand Prix Preview — Saturday Race, Championship Stakes",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "**Post 1 (8:00 AM ET — Morning preview)**\n5 days to Baku. The Azerbaijan GP runs on SATURDAY this year for the first time. Norris is the favourite — McLaren brought new parts specifically for the Baku circuit. Mercedes is saving their big upgrade for Malaysia. #F1 #AzerbaijanGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#AzerbaijanGP"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-baku-gp-preview-2026.html",
+        "headline": "Baku on Saturday: Norris, the New Parts, and Everything That Makes the Azerbaijan GP Different This Year",
+        "word_count": 563
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Baku GP Preview\n\n**Image Concept 1 (Social 1080x1350):**\nSearch: \"Lando Norris McLaren Formula 1\"\nSource: imagn\nCredit: (USA TODAY Sports Images)\nUsage: Baku preview social post — Norris in McLaren livery, action or garage shot\n\n**Image Concept 2 (Article Hero 1200x630):**\nSearch: \"Baku City Circuit Azerbaijan Formula 1\"\nSource: imagn\nCredit: (USA TODAY Sports Images)\nUsage: Article hero — street circuit, main straight, wall proximity shot\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Baku Grand Prix Preview\n**Verified Facts (HIGH):**\n- Race date: Saturday, September 26, 2026 (first Saturday Baku race — scheduling shift due to Azerbaijan National Day of Mourning)\n- Practice sessions: FP1+FP2 Sept. 24; FP3+Qualifying Sept. 25\n- Circuit: Baku City Circuit, 6.003 km street circuit\n- Main straight: 2.2 km at approx. 340 kph\n- Norris is the favorite for pole and race victory — McLaren have new Baku parts (improved second sector pace)\n- Mercedes saving major upgrade package for Malaysia (next race after Baku)\n- George Russell has 3 podiums from last 4 Baku appearances (HIGH — from race preview sources)\n- Antonelli leads championship by 81 points over Russell heading into Baku\n**Sources:** Sky Sports F1, Coffee Corner Motorsport preview, bets.com.au analysis, Vegas Odds preview",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Antonelli's Championship Math — 81 Points and Ticking",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "**Post 3 (10:00 AM ET — Analysis)**\nAntonelli leads by 81. The earliest he can clinch: Singapore Oct. 9-11 — a SPRINT weekend. Win Baku + sprint, then score 12 pts Sunday in Marina Bay = world champion at 19 years old. The math is real. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-antonelli-championship-math-singapore.html",
+        "headline": "The Antonelli Championship Math: How Singapore Becomes His Coronation Night",
+        "word_count": 544
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli Championship Math\n\n**Image Concept 1 (Social 1080x1350):**\nSearch: \"Kimi Antonelli Mercedes Formula 1\"\nSource: imagn\nCredit: (USA TODAY Sports Images)\nUsage: Championship math social — Antonelli celebrating or in cockpit\n\n**Image Concept 2 (Article Hero 1200x630):**\nSearch: \"Kimi Antonelli Mercedes Formula 1\"\nSource: imagn\nCredit: (USA TODAY Sports Images)\nUsage: Article hero — Antonelli portrait or podium\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli Championship Math\n**Verified Facts (HIGH):**\n- Current standings after R14: Antonelli 292 pts, Russell 211 (-81), Hamilton 191 (-101), Norris 186 (-106)\n- 8 wins, 6 poles, 12 podiums in 14 races; 20.9 pts/race average\n- Still 19 years old (turns 20 in November)\n- Won last two races including drive from 19th at Monza\n- Singapore GP (Oct. 9-11) is earliest possible clinch\n- Singapore is a SPRINT weekend; sprint race adds extra points\n- Singapore clinch scenario: Antonelli max points Baku + sprint win Singapore = 139-pt lead; then needs only 12 pts in Singapore race Sunday\n- Sebastian Vettel youngest champion record: 23 years, 134 days; Antonelli clinch at ~20yr 2mo would shatter by 3+ years\n**Sources:** Planet F1 title permutations, Motorsport.com standings, Formula1.com, ESPN results",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "McLaren's Baku Upgrade vs. Mercedes' Malaysia Package — Constructors War Heats Up",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "**Post 5 (12:00 PM ET — Midday analysis)**\nAfter R14, the constructors' standings: Mercedes 503, Ferrari 358, McLaren 306. McLaren brought new Baku parts this weekend. Mercedes holds their big update for Malaysia. 403 points still to play for. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-constructors-upgrade-arms-race.html",
+        "headline": "McLaren Brings New Parts to Baku — But Mercedes Has a Bigger Upgrade Waiting in Malaysia",
+        "word_count": 495
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Constructors Battle\n\n**Image Concept 1 (Social 1080x1350):**\nSearch: \"Mercedes McLaren Ferrari Formula 1\"\nSource: imagn\nCredit: (USA TODAY Sports Images)\nUsage: Constructors social — side-by-side pit lane action or battle shot\n\n**Image Concept 2 (Article Hero 1200x630):**\nSearch: \"McLaren Formula 1 2026\"\nSource: imagn\nCredit: (USA TODAY Sports Images)\nUsage: Article hero — McLaren car on track, Baku setting preferred\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Constructors' Battle — McLaren vs. Mercedes vs. Ferrari\n**Verified Facts (HIGH):**\n- After R14: Mercedes 503 pts (constructors), Ferrari 358, McLaren 306\n- Mercedes leads Ferrari by 145; Ferrari leads McLaren by 52\n- McLaren brought new parts for Baku specifically (improved second sector performance)\n- Mercedes saving major upgrade for Malaysia (next race after Baku)\n- 403 constructors' points remaining in season\n- Baku is high-variance street circuit — reliability matters\n**Sources:** Motorsport.com standings, bets.com.au Baku analysis, RFKRacingDigest preview",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Rosberg's Warning — \"Antonelli vs. His Mind\" Could Decide the Title",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "**Post 7 (2:00 PM ET — Feature)**\nNico Rosberg, 2016 world champion: \"Kimi Antonelli versus his mind will decide the 2026 Formula 1 title race.\" A man who won a title and then retired from the sport immediately — knows what he's talking about. #F1 #Antonelli",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Antonelli"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-rosberg-warning-antonelli-mental-challenge.html",
+        "headline": "Rosberg's Warning: Why \"Antonelli vs. His Mind\" Is the Real 2026 Title Fight",
+        "word_count": 510
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Rosberg's Warning\n\n**Image Concept 1 (Social 1080x1350):**\nSearch: \"Nico Rosberg Formula 1\"\nSource: imagn\nCredit: (USA TODAY Sports Images)\nUsage: Rosberg commentary social — Rosberg portrait or media appearance\n\n**Image Concept 2 (Article Hero 1200x630):**\nSearch: \"Kimi Antonelli Mercedes Formula 1\"\nSource: imagn\nCredit: (USA TODAY Sports Images)\nUsage: Article hero — Antonelli focused expression in cockpit\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Rosberg's Warning — Antonelli Mental Challenge\n**Verified Facts (HIGH):**\n- Nico Rosberg commented specifically on Antonelli ahead of Baku 2026\n- Rosberg: \"Kimi Antonelli versus his mind will decide the 2026 Formula 1 title race\"\n- Rosberg won 2016 World Championship at age 31 then retired immediately, citing mental toll\n- Antonelli is 19 years old; would be youngest world champion if he clinches in Singapore\n- No specific quote breakdown available (MEDIUM) — need care not to over-attribute exact wording\n**Sources:** Sky Sports F1 (Rosberg commentary), Radio Royal",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Singapore Preview — Sprint Weekend and the Title Clinch Scenario",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "**Post 8 (5:00 PM ET — Preview)**\nSingapore. Oct. 9-11. A sprint weekend. The world's most iconic night race. And possibly where Kimi Antonelli becomes the youngest F1 world champion in history. Mark the calendar. 🌙 #F1 #SingaporeGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#SingaporeGP"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-singapore-gp-preview-title-clinch.html",
+        "headline": "Singapore Under the Lights: The Race That Could Make Antonelli the Youngest Champion Ever",
+        "word_count": 557
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Singapore Preview\n\n**Image Concept 1 (Social 1080x1350):**\nSearch: \"Singapore Grand Prix Marina Bay night Formula 1\"\nSource: imagn\nCredit: (USA TODAY Sports Images)\nUsage: Singapore preview social — night race illuminated circuit shot\n\n**Image Concept 2 (Article Hero 1200x630):**\nSearch: \"Singapore Grand Prix Formula 1\"\nSource: imagn\nCredit: (USA TODAY Sports Images)\nUsage: Article hero — Marina Bay night atmosphere, cars on track"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Singapore GP Preview\n**Verified Facts (HIGH):**\n- Singapore GP: October 9-11, 2026\n- Circuit: Marina Bay Street Circuit, 4.9 km, 19 turns\n- Sprint weekend format: sprint race + full Grand Prix\n- First night race in F1 history (2008)\n- 62-lap grand prix, physically demanding, humid conditions; drivers lose up to 3kg\n- Grand Prix Season Singapore events: Oct. 2-11 (city-wide events)\n- Clinch math: If Antonelli takes max Baku points + Singapore sprint win = 139-pt lead; needs 12 pts Sunday to clinch\n**Sources:** F1 Fandom wiki, RaceFans.net, F1 Experiences, Singapore GP official site",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

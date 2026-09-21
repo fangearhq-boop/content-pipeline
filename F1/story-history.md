@@ -6955,3 +6955,47 @@
 - **Byline:** Elena Voss
 - **Status:** NEW
 - **Follow-up ideas:** Post-Baku stats update, season milestone celebrations
+
+---
+
+## 2026-09-21
+
+### STORY 1: Baku GP Preview — Saturday Race
+- **Tier:** 1
+- **Category:** Azerbaijan Grand Prix / Baku / Race Preview
+- **Key facts:** Race Saturday Sept. 26 (first Saturday Baku race); FP1+FP2 Sept. 24; FP3+Qual Sept. 25; 6.003 km, 2.2 km main straight at ~340 kph; Norris favourite (McLaren new Baku parts); Mercedes saving major upgrade for Malaysia; Russell 3 podiums in last 4 Baku races; Antonelli leads by 81 pts
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Qualifying result, race recap, upset if Russell wins
+
+### STORY 2: Antonelli Championship Math — Singapore Clinch
+- **Tier:** 1
+- **Category:** Kimi Antonelli / Mercedes / Drivers' Championship / Singapore
+- **Key facts:** Antonelli 292 pts after R14; Russell -81, Hamilton -101, Norris -106; 8W/6P/12 podiums in 14 races; 20.9 pts/race avg; wins from R14 Monza (P19 to P1); Singapore Oct. 9-11 = earliest clinch; sprint weekend; clinch path: max Baku + sprint win SG = 139-pt lead, then 12 pts Sunday; would be ~20yr old — shatters Vettel record (23yr 134 days) by 3+ years
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Baku result impact on math, Singapore title clinch
+
+### STORY 3: Constructors Battle — McLaren Baku vs. Mercedes Malaysia Upgrade
+- **Tier:** 1
+- **Category:** McLaren / Mercedes / Ferrari / Constructors' Championship
+- **Key facts:** After R14: Mercedes 503, Ferrari 358, McLaren 306; 403 pts remaining; McLaren Baku-specific parts (second sector); Mercedes holding major upgrade for Malaysia; Ferrari 52 pts ahead of McLaren; 145-pt Mercedes lead over Ferrari
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Post-Baku constructors update, Malaysia upgrade debut
+
+### STORY 4: Rosberg Warning — Antonelli Mental Challenge
+- **Tier:** 2
+- **Category:** Kimi Antonelli / Nico Rosberg / Mental Pressure
+- **Key facts:** Rosberg stated "Kimi Antonelli versus his mind will decide the 2026 Formula 1 title race" ahead of Baku; Rosberg won 2016 title then retired 5 days later citing mental toll; Antonelli 19yr old; Monza drive from P19 shows composure; title clinch in sight
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+- **Follow-up ideas:** Antonelli response, post-Baku mental state
+
+### STORY 5: Singapore GP Preview — Title Clinch Stage
+- **Tier:** 2
+- **Category:** Singapore Grand Prix / Kimi Antonelli / Title Clinch
+- **Key facts:** Singapore GP Oct. 9-11; sprint weekend; Marina Bay Street Circuit 4.9 km, 19 turns; first night race in F1 history (2008); 62-lap GP; drivers lose up to 3kg; Grand Prix Season Singapore Oct. 2-11; clinch scenario requires max Baku + sprint win SG + 12 pts Sunday race
+- **Byline:** Elena Voss
+- **Status:** NEW
+- **Follow-up ideas:** Baku result impact on Singapore clinch math, Singapore preview closer to race
