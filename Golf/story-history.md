@@ -5361,3 +5361,47 @@ July 12 pipeline contained incorrect winners for Scottish Open (MacIntyre report
 - **Key facts:** USA fell 15-13; entered Sunday singles at 8-8; needed 6.5 from 12 matches; Lottie Woad (21, world No. 5) beat Auston Kim 2&1 in Match 8 for clincher; Ciganda beat Kupcho 4&2 in Match 11; Bernardus Golf home crowd cited as key European advantage; Stanford lineup decisions face scrutiny; Korda led USA roster; next Solheim Cup is 2028
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Stanford debrief, individual player post-mortems, 2028 planning stories
+
+---
+
+## 2026-09-21
+
+### STORY 1: Bridgeman Wins Biltmore Championship
+- **Tier:** 1
+- **Category:** PGA Tour / Biltmore Championship / Jacob Bridgeman / Asheville NC
+- **Key facts:** Bridgeman wins at 26-under 258; 2-shot margin over Ben James; $900K winner's check; second PGA Tour title of 2026; heads to Presidents Cup as captain's pick; The Cliffs at Walnut Cove
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP (race coverage complete)
+- **Follow-up ideas:** Presidents Cup debut recaps, season review
+
+### STORY 2: Presidents Cup Preview
+- **Tier:** 1
+- **Category:** Presidents Cup / Medinah / USA / International / Brandt Snedeker / Jackson Koivun
+- **Key facts:** Dates Sept. 24-27; Medinah Country Club; USA captain Snedeker; auto qualifiers Scheffler/Young/Clark/Burns/Henley/Morikawa; picks Gotterup/Schauffele/Thomas/Bridgeman/Cantlay/Koivun; Int'l captain Geoff Ogilvy; Int'l roster includes Matsuyama/S.W.Kim/Adam Scott/Tom Kim/Min Woo Lee/Ryan Fox; Koivun 21yr old debut; Medinah hosted Ryder Cups 1991/1999/2012; USA 13-2 alltime; fourballs Day 1 Sept 24; NBC/Golf Channel
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Day 1 fourballs results, Koivun debut performance, USA vs. International score updates
+
+### STORY 3: LIV Golf Restructuring Deadline
+- **Tier:** 1
+- **Category:** LIV Golf / Bankruptcy / BC Partners / Jon Rahm / Chapter 11
+- **Key facts:** Filed Ch. 11 Sept 8; assets $100M-$500M; liabilities $500M-$1B; BC Partners $300M investment; 35-day player commitment deadline = Oct 13; need 2/3 dollar claims + 1/2 player count; restructured = majority player-owned; PIF $49.6M DIP financing; BC Partners gets 2% revenue 7yr + expansion team right for $1; 4 x 2027 events (Saudi, Australia, S.Africa, Hong Kong); Rahm owed $100M+; PIF ~$6B total invested
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Player commitments announced, Oct. 13 deadline outcome, Rahm decision
+
+### STORY 4: Bridgeman From Biltmore to Medinah
+- **Tier:** 2
+- **Category:** Jacob Bridgeman / Presidents Cup / Captain's Pick / USA
+- **Key facts:** Bridgeman named captain's pick Sept. 1 (before Biltmore); won Biltmore Sept. 21; now reports to Medinah Sept. 24; 5 days between win and Presidents Cup; momentum angle; Snedeker pick vindicated
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+- **Follow-up ideas:** Opening day pairings, Bridgeman match results
+
+### STORY 5: Walmart NW Arkansas Championship Preview
+- **Tier:** 2
+- **Category:** LPGA Tour / Walmart NW Arkansas / Nelly Korda / Pinnacle Country Club
+- **Key facts:** Sept. 25-27 at Pinnacle Country Club, Rogers AR; $3M purse; 54-hole stroke play, no cut; 144 players; 20th year at venue; Korda world No. 1; won 2026 Chevron + US Women's Open; returning after Solheim Cup loss (USA 13-15 to Europe); first LPGA event post-Solheim
+- **Byline:** Jake Torres
+- **Status:** NEW
+- **Follow-up ideas:** Round 1 leaderboard, Korda performance, winner recap

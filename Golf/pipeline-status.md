@@ -1,11 +1,43 @@
 # Golf Fanrecap — Pipeline Status
 
-## Last Run: 2026-09-20
+## Last Run: 2026-09-21
 
 **Status:** COMPLETE (with known proxy limitations)
 **Niche:** Golf Fanrecap
 **Stories:** 5
 **Articles:** 5
+
+---
+
+## 2026-09-21 Run Log
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research | ✅ Complete | 5 stories — Bridgeman wins Biltmore, Presidents Cup 3-day preview, LIV restructuring Oct 13 deadline, Bridgeman Biltmore-to-Medinah, Walmart NW Arkansas/Korda |
+| Daily Brief | ✅ Complete | 00-daily-brief.md |
+| Research Notes | ✅ Complete | 01-research-notes.md |
+| Story Analysis | ✅ Complete | 02-story-analysis.md |
+| X Posts | ✅ Complete | 03-social-posts-x.md — 8 posts, all ≤280 chars |
+| Facebook Posts | ✅ Complete | 04-social-posts-facebook.md — 5 stories |
+| Image Concepts | ✅ Complete | 05-image-concepts.md |
+| Articles | ✅ Complete | 5 HTML articles |
+| Fact Check | ✅ Complete | 06-fact-check-log.md — 18 claims, all HIGH |
+| Compile Content Data | ✅ Complete | 07-content-data.json — 5 stories, 5 tweets (posting window warnings — known), FB=0 known |
+| Image Manifest | ✅ Complete | 07-image-manifest.md (10 images, status: not_started) |
+| Story History | ✅ Complete | story-history.md updated |
+| Review Dashboard | ✅ Complete | review-dashboard.html — 20 items |
+| Publish Dashboard | ⚠ Partial | Blocked — content-dashboards not in authorized repo |
+| PostPlanner Export | ⚠ Blocked | 0 posts (known parsing issue) |
+| PostPlanner TOBI | ⚠ Blocked | 0 posts (known parsing issue) |
+| WordPress Publish | ❌ Blocked | fanrumor.com:443 rejected by egress proxy (403) |
+| Git Push | ✅ Complete | Committed and pushed to main |
+
+**Stories covered:**
+1. T1 FOLLOW UP: Jacob Bridgeman Wins the Biltmore Championship — Second Title in 2026 (Ryan Calloway)
+2. T1 FOLLOW UP: Presidents Cup 2026 — Everything You Need to Know Before Medinah Thursday (Jake Torres)
+3. T1 FOLLOW UP: LIV Golf's October 13 Deadline — Players Hold the Tour's Fate (Marcus Cole)
+4. T2 NEW: Bridgeman From Biltmore to Medinah — Perfect Presidents Cup Arrival Story (Ryan Calloway)
+5. T2 NEW: Walmart NW Arkansas Preview — Korda Returns Post-Solheim Cup (Jake Torres)
 
 ---
 
