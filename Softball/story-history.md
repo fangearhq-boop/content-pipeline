@@ -3,6 +3,61 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-09-21
+
+### Story 1: 2027 Redcliffe Finals — All 8 Nations Set, USA Eyes LA28 Path
+- **Date:** 2026-09-21
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Group Oklahoma complete, all 8 nations confirmed for the 2027 WBSC Finals (April 5–11, Talobilla Park, Redcliffe QLD). USA + Mexico direct berths, China Wild Card, Australia/Canada/Japan/Puerto Rico/Chinese Taipei pre-qualified. Brady's 3-HR tournament cements her as international power threat. Gasso dual OU/WNT role. LA28 qualifier bracket locked.
+- **Content Produced:** Article (article-01, Jordan Reeves), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - April 5–11 2027 Redcliffe Finals — LA28 qualifier results
+  - Brady development as international power hitter
+  - Gasso managing dual OU + WNT through spring 2027
+
+### Story 2: Oklahoma Sooners — Day 5 Full-Staff Fall Camp, 9 Days to Opener
+- **Date:** 2026-09-21
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Day 5 of full-staff camp at Love's Field. 9 days to Sept. 30 opener vs. Tarleton State. Wells (32 HR NCAA freshman record, NFCA FOY), Berzon (2x AA, 486.1 IP, 2.02 ERA, 406 K from LSU), Harter (.346 BA MTSU) integrating with 12 returners and 9 newcomers. All Fall Pass $70.69, tickets $10.88/game.
+- **Content Produced:** Article (article-02, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Sept. 30 fall opener vs. Tarleton State — first public look at full roster
+  - Wells + Berzon + Harter development through October
+
+### Story 3: Class of 2028 — Landers to Texas, Schlader to OU; Big Week Reshapes the Class
+- **Date:** 2026-09-21
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** The biggest recruiting week of the 2028 class: Michaela Landers (No. 1 overall Softball America / No. 2 Line Drive HOT 100) committed to Texas Sept. 18 — Waxahachie TX native, .639 BA, 25 HR (Dallas-area record), 73 runs, 52 XBH. OU landed Sophia Schlader (No. 1 pitcher, No. 3 overall, Iowa Gatorade POY, 30-1, 296 K, 187 IP) over Texas. Tennessee adds Reagan Eldred. Day 13 of window. 1,226 EIS nominations record. Top uncommitted: Holden, Bennett.
+- **Content Produced:** Article (article-03, Emily Rawlings), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Remaining top uncommitted decisions (Holden, Bennett)
+  - Mid-October first class rankings update
+
+### Story 4: Texas Longhorns — Landers Commit + 8 Days to Sept. 29 Opener
+- **Date:** 2026-09-21
+- **Tier:** 3
+- **Classification:** FOLLOW UP
+- **Angle:** Texas lands No. 1 overall 2028 recruit Landers, adding future pipeline depth to a program featuring Torres (2026 POY, .530 BA, 16 HR, 56 RBI) + Kavan (2x WCWS MOP, only ever). Three-peat = match UCLA 1988–90 and OU 2021–23. Sept. 29 opener vs. Murray State at McCombs (6 PM CT, free). White NFCA Staff Year 2nd consecutive.
+- **Content Produced:** Article (article-04, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Sept. 29 opener — first game with Torres in burnt orange
+  - Three-peat narrative building through spring 2027
+
+### Story 5: Texas Tech Red Raiders — Glasco Year 2, Week 3 Execution Mode
+- **Date:** 2026-09-21
+- **Tier:** 3
+- **Classification:** FOLLOW UP
+- **Angle:** TTU enters Week 3 of fall ball with 7 All-Americans — most in program fall history. Beachum (.406 BA, 10 HR, 69 RBI, All-ACC 1st, FSU), Pickering (No. 2 transfer, .384 BA, 50 HR, OU), Heavener (LHP, 13-9, 2.81 ERA, 128 K, LSU) + 4 more. Glasco Year 2 (2x Big 12 CoY), 61-10 WCWS runner-up 2026. Week 3 = chemistry → identity.
+- **Content Produced:** Article (article-05, Sarah Mitchell), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Fall schedule public results
+  - Glasco Year 2 spring expectations vs. WCWS runner-up 2026 finish
+
+---
+
 ## 2026-09-19
 
 ### Story 1: USA WNT — Redcliffe 2027 Countdown Begins: Eight Nations, One Road to LA28
