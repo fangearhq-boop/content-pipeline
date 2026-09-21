@@ -5,6 +5,60 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-09-21
+
+### Story 1: PCA 40-40 Chase — 47 HR, 37 SB, 3 Steals Needed in 6 Games
+- **Date:** 2026-09-21
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** PCA at 47 HR/37 SB — 3 steals from joining 40-40 club (7th ever: Canseco/Bonds/A-Rod/Soriano/Acuña/Ohtani). Would be first Cub in franchise history. Already broke Billy Williams LH Cubs HR record (42, 1970). Cubs 87-69, magic number=1. 6 games left.
+- **Content Produced:** Article (article-01, Ryan Calloway), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Each remaining game: steal chase countdown
+  - Wild Card round PCA performance
+
+### Story 2: Cubs WC1 Lead — Magic Number Down to 1
+- **Date:** 2026-09-21
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Cubs 87-69 hold 1-game WC1 lead over Padres (86-69) and Phillies (86-70). Phillies and Padres both lost Sept. 20. Magic number=1. Cubs own tiebreaker over both. Wild Card starts Sept. 29.
+- **Content Produced:** Article (article-02, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Clinch moment (could come any day)
+  - Wild Card bracket seeding
+
+### Story 3: Misiorowski Cy Young Case — 243 K, 21 from Sheets Record
+- **Date:** 2026-09-21
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Misiorowski 1.89 ERA (MLB-best), 243 K (MLB-best), 0.81 WHIP. -700 NL Cy Young. 21 K from breaking Ben Sheets' Brewers record (264, 2004). First pitcher in tracking era to throw 1,000 pitches at 100+ mph. Brewers 4th straight NL Central.
+- **Content Produced:** Article (article-03, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Sheets record milestone in final starts
+  - Cy Young announcement
+
+### Story 4: Aaron Judge IL — Right Soleus Strain, Targeting October
+- **Date:** 2026-09-21
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Judge on 10-day IL retroactive Sept. 17 (right soleus calf strain). Returned Sept. 8 from 99-day IL (rib fracture), played 7 games, went back down. 18 HR season total. Boone: "I don't know." Judge: "The plan" is October. Yankees clinched 61st postseason berth.
+- **Content Produced:** Article (article-04, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Judge activation before postseason
+  - Yankees postseason run
+
+### Story 5: Alvarez Triple Crown — Trailing in Two Categories, 6 Games Left
+- **Date:** 2026-09-21
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Alvarez .310 BA (leads AL, 5-pt edge over Chandler Simpson .305), 38 HR (trails Caminero 40), ~99 RBI (trails Alonso ~100). September: .206 BA. TC effectively out of reach in 2 categories. Last AL TC: Miguel Cabrera 2012. MVP case remains strong.
+- **Content Produced:** Article (article-05, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - AL MVP announcement
+  - Astros postseason run
+
+---
+
 ## 2026-09-19
 
 ### Story 1: PCA 40-40 Chase — 47 HR, 37 SB, Cubs Win 5-4 vs. Reds
