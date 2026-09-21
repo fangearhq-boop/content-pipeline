@@ -1,7 +1,7 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Current Status
-**Last Run:** 2026-09-20
+**Last Run:** 2026-09-21
 **Steps Completed:** All pipeline steps (1-14); WordPress publish blocked by proxy policy
 
 ## Deploy Info
@@ -11,6 +11,26 @@
 - **Note:** Dashboard publish push blocked (content-dashboards not in authorized repo set)
 
 ## Pipeline Run Log
+### 2026-09-21 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
+- Step 10: verify-facts.py run — 5 stories, 18 claims (all HIGH), image warnings expected (imagn sourcing)
+- Step 10b: compile-content-data.py — 5 stories, 5 tweets, 5 articles compiled (posting window warnings — known non-blocking issue; FB=0 known parsing issue)
+- Step 11: Image manifest created (not_started for all — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (20 items)
+- Step 14a: publish-unified-dashboard.py — push blocked (proxy policy for content-dashboards)
+- Step 14b: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 14c: generate-postplanner-export.py --tobi — 0 posts (known parsing issue)
+- Step 15: publish-to-wordpress.py — BLOCKED (fanrumor.com not allowed by egress proxy)
+- Git commit + push: ✅
+
+**Stories covered:**
+1. T1 FOLLOW UP: Curry Extension — No Deal as Warriors Camp Opens (Jake Torres)
+2. T1 FOLLOW UP: 10 Days to Duren Deadline — Pistons-Center Standoff Reaches Critical Point (Marcus Cole)
+3. T1 FOLLOW UP: Knicks Banner Night — Demand Surges, Tickets Above $1,000 (Damon Pierce)
+4. T1 NEW: Giannis Skips FIBA to Arrive Early at Heat Minicamp (Jake Torres)
+5. T2 NEW: 76ers' Brown, LeBron, Embiid, Maxey Building Chemistry Before Camp Opens (Marcus Cole)
+
 ### 2026-09-20 ✅ (Automated)
 - Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
 - Step 10: verify-facts.py run — 5 stories, 22 claims (all HIGH), image warnings expected (imagn sourcing)

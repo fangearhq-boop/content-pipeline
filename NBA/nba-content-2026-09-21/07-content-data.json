@@ -1,0 +1,244 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-21",
+  "compiled_at": "2026-09-21T11:17:07.147649+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Curry Extension Deadline Looms — Warriors Camp Opens With No Deal Signed",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "**Post 1 (9:00 AM ET — Morning recap)**\nCamp opens next week and Stephen Curry STILL doesn't have an extension signed. He can get 2 years, $136.7M max — but Golden State says he gets \"whatever he wants.\" The ball is in Steph's court. ⏳ #Warriors",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Warriors"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-curry-extension-warriors-camp.html",
+        "headline": "Steph Curry Heads Into Warriors Camp Without an Extension — What Happens Next?",
+        "word_count": 626
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Curry Extension\n\n**Image Concept 1 (Social 1080x1350):**\nSearch: \"Stephen Curry Golden State Warriors\"\nSource: imagn\nCredit: (USA TODAY Sports Images)\nUsage: Story 1 social post — Curry in Warriors uniform, dynamic action shot or thoughtful portrait\n\n**Image Concept 2 (Article Hero 1200x630):**\nSearch: \"Stephen Curry Golden State Warriors\"\nSource: imagn\nCredit: (USA TODAY Sports Images)\nUsage: Article hero — Curry at Warriors practice or press conference setting\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Curry Extension — Warriors Camp Opens With No Deal\n**Verified Facts (HIGH):**\n- Curry is in the final season of his current Warriors contract, earning $65M for 2026-27\n- He became eligible for an extension in late August 2026\n- Extension max: 2 years / $136.7 million (Over-38 Rule limits to 2 years max)\n- Warriors publicly stated they will give Curry \"whatever he wants\"\n- Some reports suggest Curry may take a discount to help Warriors land another star\n- No deal signed as of Sept. 21, 2026\n- Warriors hold their 2026 training camp at BYU-Hawaii, opening Sept. 29\n- Teams with overseas preseason (Mavericks, Rockets) open Sept. 22; all others Sept. 29\n**Sources:** CBS Sports, Bleacher Report, ESPN NBA Buzz tracker",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Duren Clock — 10 Days Left Before Pistons' Oct. 1 Qualifying Offer Deadline",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "**Post 3 (11:00 AM ET — Developing)**\n10 days. Oct. 1 QO deadline. Pistons: $35M/yr. Duren wants: $40M/yr. If no deal, he plays on $9.6M and walks next summer. The stalemate is real. #Pistons #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Pistons",
+            "#NBA"
+          ],
+          "char_count": 196
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-duren-qualifying-offer-pistons-deadline.html",
+        "headline": "10 Days and Counting: Jalen Duren's Qualifying Offer Standoff Reaches a Critical Point",
+        "word_count": 583
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Duren QO Deadline\n\n**Image Concept 1 (Social 1080x1350):**\nSearch: \"Jalen Duren Detroit Pistons\"\nSource: imagn\nCredit: (USA TODAY Sports Images)\nUsage: Story 2 social post — Duren in Pistons uniform, action or portrait\n\n**Image Concept 2 (Article Hero 1200x630):**\nSearch: \"Jalen Duren Detroit Pistons\"\nSource: imagn\nCredit: (USA TODAY Sports Images)\nUsage: Article hero — Duren at the basket or post position\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Duren Qualifying Offer Deadline — Oct. 1\n**Verified Facts (HIGH):**\n- Oct. 1 is the deadline for restricted free agents to accept qualifying offers\n- Duren's QO value: $9.6 million\n- Detroit's reported offer: approximately $35M/year\n- Duren reportedly seeking approximately $40M/year\n- Duren earned third-team All-NBA honors in 2025-26\n- Pistons finished atop the Eastern Conference standings with 60 wins in 2025-26\n- Hard final deadline for QO acceptance: March 1, 2027\n- If Duren accepts QO, he becomes unrestricted free agent next summer\n- Report: Duren \"increasingly prepared\" to play on QO if no deal by end of September\n**Sources:** CBS Sports, ClutchPoints, Eastern Herald, LastWordOnBasketball",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Knicks Opening Night Tickets Above $1,000 After Glitch — Banner Night Demand Is Real",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "**Post 5 (1:00 PM ET — Fan engagement)**\nKnicks banner night tickets hit over $1,000 after a glitch flooded the market. Oct. 20. MSG. LeBron and the 76ers walking in while New York raises its first championship banner in 53 years. Must-watch TV. 🏆 #Knicks",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Knicks"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-knicks-banner-night-opening-night.html",
+        "headline": "Knicks Banner Night Is the Greatest Opening Night Storyline in Modern NBA History",
+        "word_count": 607
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Knicks Banner Night\n\n**Image Concept 1 (Social 1080x1350):**\nSearch: \"Jalen Brunson New York Knicks\"\nSource: imagn\nCredit: (USA TODAY Sports Images)\nUsage: Story 3 social post — Brunson celebrating, Finals MVP moment\n\n**Image Concept 2 (Article Hero 1200x630):**\nSearch: \"New York Knicks celebration\"\nSource: imagn\nCredit: (USA TODAY Sports Images)\nUsage: Article hero — Knicks championship celebration, team shot\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Knicks Banner Night — Ticket Demand Soaring\n**Verified Facts (HIGH):**\n- Opening Night: Oct. 20, 2026, 7 PM ET, NBC/Peacock\n- Banner ceremony: 6:30 PM ET\n- Knicks defeated San Antonio Spurs in the 2026 NBA Finals (5 games)\n- First championship banner since 1973 (53-year wait)\n- Jalen Brunson won Finals MVP\n- LeBron James (age 41) will make his 76ers debut that night\n- Jaylen Brown also makes 76ers debut (traded from Celtics for Paul George + 4 picks)\n- Knicks swept 76ers 4-0 in last season's playoffs; Knicks averaged 124.3 pts, held 76ers to 102/game\n- Ticket glitch sent prices above $1,000 on Sept. 17\n**Sources:** Yahoo Sports, ESPN, The Source, NY Knicks News, Yardbarker",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Giannis Arrives Early — Heat Unofficial Minicamp Has Miami Buzzing",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "**Post 7 (4:00 PM ET — Breaking news)**\nGiannis Antetokounmpo skipped Greece's FIBA qualifiers to show up early at the Heat's unofficial minicamp in California. He's ALL IN on Miami. Official camp doesn't even start until Sept. 29. 🔥 #HeatNation",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HeatNation"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-giannis-miami-heat-minicamp.html",
+        "headline": "Giannis Skips FIBA to Arrive Early at Heat Minicamp — Miami's New Era Has Already Begun",
+        "word_count": 562
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Giannis Heat\n\n**Image Concept 1 (Social 1080x1350):**\nSearch: \"Giannis Antetokounmpo Miami Heat\"\nSource: imagn\nCredit: (USA TODAY Sports Images)\nUsage: Story 4 social post — Giannis in Heat uniform or Heat practice gear\n\n**Image Concept 2 (Article Hero 1200x630):**\nSearch: \"Giannis Antetokounmpo Miami Heat\"\nSource: imagn\nCredit: (USA TODAY Sports Images)\nUsage: Article hero — Giannis with Heat teammates or portrait\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Giannis / Miami Heat Minicamp\n**Verified Facts (HIGH):**\n- Giannis Antetokounmpo traded from Milwaukee Bucks to Miami Heat this offseason\n- Ended 13-season run in Milwaukee\n- Two-time NBA MVP (Giannis)\n- Heat also added: Klay Thompson, Bobby Portis, Tim Hardaway Jr. this offseason\n- Giannis skipped Greece's FIBA qualifiers to attend Heat's unofficial minicamp\n- Minicamp held in California\n- Head coach: Erik Spoelstra; President: Pat Riley\n- Official training camp opens Sept. 29\n- Giannis posted \"My First Day With The Miami HEAT\" YouTube video\n**Sources:** Yahoo Sports, Heavy.com, Hoopswire, Eastern Herald",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "76ers' Quartet Ready for Camp — Brown, LeBron, Embiid, Maxey Are All In",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "**Post 9 (7:00 PM ET — Evening feature)**\nJoel Embiid texted Jaylen Brown right after the trade. LeBron, Brown, Embiid and Maxey are in a group chat. The 76ers' four stars are building chemistry before a single practice. #Sixers #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sixers",
+            "#NBA"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-sixers-super-team-training-camp.html",
+        "headline": "Group Chats and Italy Workouts: The 76ers Are Already Building Chemistry Before Camp",
+        "word_count": 554
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "76ers Super Team\n\n**Image Concept 1 (Social 1080x1350):**\nSearch: \"Jaylen Brown Philadelphia 76ers\"\nSource: imagn\nCredit: (USA TODAY Sports Images)\nUsage: Story 5 social post — Brown in 76ers uniform\n\n**Image Concept 2 (Article Hero 1200x630):**\nSearch: \"Joel Embiid Philadelphia 76ers\"\nSource: imagn\nCredit: (USA TODAY Sports Images)\nUsage: Article hero — Embiid in action, dominant presence"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "76ers \"Super Team\" Cohesion Building\n**Verified Facts (HIGH):**\n- 76ers acquired Jaylen Brown from Celtics (trade: Paul George + 4 draft picks to Boston)\n- LeBron James joined 76ers this offseason\n- Starting four: Joel Embiid, Tyrese Maxey, Jaylen Brown, LeBron James\n- Brown confirmed Embiid reached out shortly after the trade\n- Group chat between Brown, Embiid, LeBron and others confirmed by Brown\n- Brown trained in Italy with a fencer in offseason\n- Brown went skydiving over the Pyramids of Giza in Egypt in offseason\n- 76ers official training camp: Sept. 29\n- Opening Night: Oct. 20 at MSG vs. champion Knicks\n**Sources:** Yahoo Sports, NBC Sports Philadelphia, R.org Sports, Philadelphia Sports Nation",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

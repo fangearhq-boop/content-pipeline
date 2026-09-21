@@ -7174,3 +7174,47 @@
 - **Byline:** Marcus Cole
 - **Status:** NEW
 - **Follow-up ideas:** Camp health report, preseason minutes, Pacers preview
+
+---
+
+## 2026-09-21
+
+### STORY 1: Curry Extension — No Deal as Camp Opens
+- **Tier:** 1
+- **Category:** Golden State Warriors / Stephen Curry / Contract Extension
+- **Key facts:** Curry eligible for 2yr/$136.7M extension (Over-38 Rule max); Warriors earning $65M in 2026-27; Warriors say Curry gets "whatever he wants"; no deal signed as of Sept. 21; speculation Curry may take discount to help Warriors reload; camp opens Sept. 29 at BYU-Hawaii
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Extension signed, discount announced, free agency speculation if unsigned by mid-season
+
+### STORY 2: Duren QO Deadline — 10 Days
+- **Tier:** 1
+- **Category:** Detroit Pistons / Jalen Duren / Qualifying Offer
+- **Key facts:** Oct. 1 QO deadline 10 days away; Duren QO value $9.6M; Detroit offering ~$35M/yr; Duren seeking ~$40M/yr; Duren third-team All-NBA, Pistons 60-win EC No. 1 seed; hard deadline March 1, 2027; Kings monitoring situation; Duren "increasingly prepared" to play on QO
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Deal signed before Oct. 1, QO accepted, Kings formally confirmed interest, deadline reached
+
+### STORY 3: Knicks Banner Night — Demand Surges, Tickets Above $1,000
+- **Tier:** 1
+- **Category:** New York Knicks / Opening Night / Banner Ceremony / Philadelphia 76ers
+- **Key facts:** Banner ceremony Oct. 20 at 6:30 PM ET; tipoff 7 PM ET on NBC/Peacock; Knicks first banner since 1973 (53 years); LeBron James (41) makes 76ers debut; Jaylen Brown makes 76ers debut; Knicks swept 76ers 4-0 in 2025-26 playoffs (124.3 avg pts, held 76ers to 102); ticket glitch sent prices above $1,000 on Sept. 17
+- **Byline:** Damon Pierce
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Banner ceremony preview, 76ers revenge storyline, ticket demand updates
+
+### STORY 4: Giannis Miami Heat Minicamp
+- **Tier:** 1
+- **Category:** Miami Heat / Giannis Antetokounmpo / Training Camp
+- **Key facts:** Giannis skipped Greece FIBA qualifiers to attend Heat's unofficial minicamp in California; ended 13-season Bucks run; two-time MVP; Heat also added Klay Thompson, Bobby Portis, Tim Hardaway Jr.; met Spoelstra and Riley; posted "My First Day With The Miami HEAT" YouTube video; official camp opens Sept. 29
+- **Byline:** Jake Torres
+- **Status:** NEW
+- **Follow-up ideas:** Official camp report, Heat chemistry storylines, Giannis workload in camp
+
+### STORY 5: 76ers Super Team Cohesion Building
+- **Tier:** 2
+- **Category:** Philadelphia 76ers / Jaylen Brown / LeBron James / Joel Embiid / Tyrese Maxey
+- **Key facts:** Acquired Brown from Celtics (trade: Paul George + 4 picks); LeBron joined 76ers offseason; Embiid texted Brown day of trade; all four in group chat; Brown trained in Italy with fencer; Brown went skydiving over Pyramids; camp opens Sept. 29; Opening Night Oct. 20 at MSG vs. champion Knicks
+- **Byline:** Marcus Cole
+- **Status:** NEW
+- **Follow-up ideas:** Camp chemistry report, preseason game results, Opening Night performance
