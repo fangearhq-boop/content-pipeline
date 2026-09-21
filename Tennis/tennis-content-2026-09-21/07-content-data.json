@@ -1,0 +1,335 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-21",
+  "compiled_at": "2026-09-21T12:24:08.735290+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Davis Cup Finals Field Complete — All Eight Nations Set for Bologna",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The Davis Cup Final 8 is set. 🏆\n\nItaly 🇮🇹 (host) + Spain, Germany, Great Britain, Canada, South Korea, Austria and Czechia.\n\nNo USA. No France.\n\nBologna, Nov. 24-29. #DavisCup #tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#DavisCup",
+            "#tennis"
+          ],
+          "char_count": 183
+        },
+        {
+          "label": "Post 1-2",
+          "text": "USA and France are both OUT of the Davis Cup Finals.\n\nMensik and Lehecka beat Shelton and Tien in Prague.\nCanada swept France 3-1 in Quebec City.\n\nThe Final 8 in Bologna (Nov. 24-29) is wide open. #DavisCup #tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#DavisCup",
+            "#tennis"
+          ],
+          "char_count": 214
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-davis-cup-finals-field-set-bologna.html",
+        "headline": "Davis Cup Finals Field Set: Eight Nations Confirmed for Bologna",
+        "word_count": 650
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Czechia/Mensik clincher",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Canada/FAA celebration",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Davis Cup Finals Field Complete\n**Source 1:** wikipedia.org/wiki/2026_Davis_Cup_Qualifiers_second_round\n- 14 nations played for 7 Finals spots, Sep 18-20, 2026\n- Winners: Spain (def. Chile 4-0), Germany (def. Croatia 3-1), Great Britain (def. Ecuador 4-0), South Korea (def. Argentina 3-2), Austria (def. Japan 3-2), Canada (def. France 3-1), Czechia (def. USA 3-2)\n- Italy entered as host nation (automatic Finals berth)\n- Finals: SuperTennis Arena Bologna Fiera, November 24-29, 2026\n- Confidence: HIGH (Wikipedia sourced from official Davis Cup results)\n**Source 2:** daviscup.com/en/calendar\n- Davis Cup Finals format: Final 8, round-robin + knockout\n- Italy is host nation for 2026 Finals\n- Seven qualifier winners join Italy in Bologna\n- Confidence: HIGH\n**Key verified facts (HIGH confidence):**\n- 8 nations in Final 8: Italy, Spain, Germany, Great Britain, Canada, South Korea, Austria, Czechia\n- Finals venue: SuperTennis Arena Bologna Fiera, Bologna, Italy\n- Finals dates: November 24-29, 2026\n- Czechia beat USA 3-2 (Mensik def. Shelton 5-7, 6-4, 6-3 in clincher; Sep 20)\n- Canada beat France 3-1 (FAA clinched; Sep 20)\n- Great Britain beat Ecuador 4-0 (Sep 19-20)\n- Spain beat Chile 4-0\n- Germany beat Croatia 3-1\n- South Korea beat Argentina 3-2\n- Austria beat Japan 3-2\n- USA, France, Chile, Croatia, Argentina, Japan, Ecuador, Norway all eliminated",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Laver Cup 2026 — Four Days to The O2 Showdown",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Four days to Laver Cup. ⚡\n\nTeam Europe: Alcaraz, Zverev, Ruud, Menšík, Cobolli, Jódar (Capt. Noah)\nTeam World: Fritz, de Minaur, Bublik, Tien, Nakashima, Cerúndolo (Capt. Agassi)\n\nThe O2, London. Sep. 25-27. #LaverCup #tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LaverCup",
+            "#tennis"
+          ],
+          "char_count": 225
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Laver Cup key matchups to watch:\n\nAlcaraz vs Fritz (Team World's No. 1 threat)\nZverev vs de Minaur (US Open champ vs last year's MVP)\nMensik vs Tien (post-Davis Cup reunion)\n\nEurope leads all-time 8-1. World won 2025. #LaverCup #tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LaverCup",
+            "#tennis"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-laver-cup-2026-four-days-preview.html",
+        "headline": "Laver Cup 2026: Four Days to The O2 — Key Matchups and What to Watch",
+        "word_count": 607
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Alcaraz (Team Europe lead)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "de Minaur or Fritz (Team World)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Laver Cup 2026\n**Source 1:** lavercup.com/news/2026/07/28/casper-ruud-completes-team-europe-lineup-for-laver-cup-london-2026\n- Team Europe finalized: Alcaraz, Zverev, Ruud, Mensik, Cobolli, Jodar\n- Captain: Yannick Noah\n- Casper Ruud was final pick (announced July 28)\n- Confidence: HIGH (official Laver Cup source)\n**Source 2:** lavercup.com media-updates/2026/06/25\n- Team World finalized: Fritz, de Minaur, Bublik, Tien, Nakashima, Cerundolo\n- Captain: Andre Agassi\n- Learner Tien and Tommy Paul complete Team World lineup (June 25)\n- Paul later withdrew (elbow, Sep 12); replaced by Cerundolo\n- Shelton withdrew (Davis Cup conflict, Sep 18); replaced by Nakashima\n- Confidence: HIGH (official)\n**Source 3:** wikipedia.org/wiki/2026_Laver_Cup\n- Venue: The O2 Arena, London\n- Dates: September 25-27, 2026 (9th edition)\n- Captains: Noah (Europe), Agassi (World) — returning from 2025\n- Confidence: HIGH\n**Source 4:** en.tennistemple.com\n- Team Europe: Alcaraz (No. 3), Zverev (No. 2), Ruud (No. 13), Mensik (No. 17), Cobolli (No. 9), Jodar (No. 24)\n- Team World: de Minaur (No. 6), Shelton replaced by Nakashima (No. 16), Fritz (No. 10), Bublik (No. 11), Tien (No. 16 — updated), Cerundolo replaced Paul\n- Europe all-time: 8-1 (Team World won 2025)\n- Confidence: HIGH",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Jovic's Career-High No. 13 and WTA Race Implications",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Iva Jovic's career-high ranking is confirmed: No. 13 in the world. 🇺🇸\n\n451 points from defending her Guadalajara title.\nNo. 11 in the WTA Race to the Finals.\n\nBack-to-back champion. Rising star. #WTA #tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTA",
+            "#tennis"
+          ],
+          "char_count": 207
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-jovic-career-high-ranking-wta-race.html",
+        "headline": "Jovic's Career-High No. 13: What the Guadalajara Defense Means for the WTA Race",
+        "word_count": 648
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Jovic celebrating",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Jovic Career-High Ranking\n**Source 1:** sports.yahoo.com/articles/iva-jovic-career-high-ranking-100000865\n- Jovic career-high No. 13 confirmed after Guadalajara title\n- 451 ranking points earned\n- No. 11 in WTA Race to WTA Finals\n- Confidence: HIGH\n**Source 2:** puntodebreak.com/en/2026/09/20/iva-jovic-wins-the-title-in-guadalajara-and-achieves-her-best-ranking-of-her-career\n- Confirms career-high No. 13 and title defense\n- Confidence: HIGH\n**Source 3:** tennis365.com/tennis-news/iva-jovics-prize-money-ranking-points-guadalajara-open\n- Prize money and ranking points breakdown for the title\n- 451 ranking points from WTA 500 title\n- Confidence: HIGH\n**Source 4:** wtatennis.com/news/4578948/jovic-goes-back-to-back-in-guadalajara\n- Official WTA coverage of title win\n- Back-to-back champion confirmed\n- Confidence: HIGH",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Sinner's 5,010-Point ATP Lead — The Most Dominant Gap in Years",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4-1",
+          "text": "Jannik Sinner: 12,800 ATP ranking points.\nAlexander Zverev: 7,790 points.\n\nZverev won two Grand Slams in 2026.\nSinner has not played since early summer (knee).\n\nThe gap is still 5,010 points. No. 1 returns in 9 days. #tennis #ATPTour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#tennis",
+            "#ATPTour"
+          ],
+          "char_count": 233
+        },
+        {
+          "label": "Post 4-2",
+          "text": "Two Grand Slam titles in one year and Alexander Zverev still cannot close the gap on Sinner.\n\nThat is how dominant Jannik Sinner was before his knee injury.\n\nChina Open starts Sep. 30. The reunion begins. #ATPTour #tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPTour",
+            "#tennis"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-sinner-atp-rankings-lead-zverev.html",
+        "headline": "Sinner's 5,010-Point Lead: The Most Dominant ATP Gap in Years",
+        "word_count": 664
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Sinner on court",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Sinner's ATP Rankings Lead\n**Source 1:** legionreport.com/atp-rankings\n- Sinner: 12,800 pts (No. 1)\n- Zverev: 7,790 pts (No. 2)\n- Alcaraz: 7,160 pts (No. 3)\n- Gap: 5,010 points between Sinner and Zverev\n- Confidence: HIGH (as of mid-Sep 2026)\n**Source 2:** abc.net.au/news/2026-09-16/tennis-zverev-below-alcaraz-sinner-despite-grand-slam-wins\n- Article title: \"Alexander Zverev remains below Alcaraz-Sinner tier despite grand slam breakthroughs\"\n- Published Sep 16, 2026\n- Notes Zverev's two slam wins in 2026 but confirms he remains ranked below Sinner\n- Confidence: HIGH\n**Source 3:** atptour.com/en/news/sinner-pif-atp-live-rankings-projection-wimbledon-2026\n- \"Jannik Sinner eyes bigger World No. 1 cushion\"\n- Sinner's lead over field discussed\n- Confidence: HIGH\n**Source 4:** atptour.com news — Zverev rankings update\n- Zverev No. 2, still 5,010 behind Sinner as of Sep 16 context\n- Sinner missed: Canadian Open, Cincinnati, US Open (knee injury)\n- Sinner targeting: China Open Beijing Sep 30\n- Confidence: HIGH (from pipeline story history Sep 16)\n**Source 5:** tennis365.com\n- \"Why Alexander Zverev is set to beat Jannik Sinner to the last big prize of 2026\"\n- Context: the remaining points battle through ATP Finals in Turin\n- Confidence: MEDIUM (analytical piece, not breaking news)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "China Open Beijing Preview — Sinner Returns, Zverev, Djokovic All Converge",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5-1",
+          "text": "China Open starts Sep. 30 in Beijing. 🇨🇳\n\nJannik Sinner returns from his knee injury to defend his title.\nAlexander Zverev enters as US Open champion.\nDraw released Sep. 28.\n\nThe fall swing is officially on. #ChinaOpen #tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ChinaOpen",
+            "#tennis"
+          ],
+          "char_count": 226
+        },
+        {
+          "label": "Post 5-2",
+          "text": "Novak Djokovic is 29-0 all-time in Beijing with 6 titles.\n\nLast played there 11 years ago. Now ranked No. 12 after a US Open R1 loss, targeting a top-10 return before Paris Masters (Nov. 2-8).\n\nBeijing may be where he gets it. #ChinaOpen #tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ChinaOpen",
+            "#tennis"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-china-open-beijing-preview.html",
+        "headline": "China Open Preview: Sinner Returns, Zverev, Djokovic All Converge in Beijing",
+        "word_count": 699
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Zverev (US Open champ entering)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Djokovic (Beijing return angle)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "China Open Preview\n**Source 1:** atptour.com China Open 2026 page\n- ATP: September 30 – October 6, 2026\n- WTA: September 30 – October 11, 2026\n- Venue: National Tennis Center, Beijing\n- Draw released: September 28, 2026\n- Confidence: HIGH\n**Source 2:** story-history.md Sep 18 entry\n- \"7 of top 10 in Beijing\" confirmed\n- ATP field: Sinner, Zverev, FAA, Medvedev, Cobolli, de Minaur, Mensik\n- \"Djokovic 29-0 all-time Beijing record, 6 titles, returning after 11 years\"\n- \"Sinner (No. 1, defending champion) bids for first back-to-back since Djokovic 2014-2015\"",
+        "sources": "- Sources for this entry: atptour.com, yahoo sports, puntodebreak.com, x.com/ChinaOpen\n- Confidence: HIGH\n**Source 3:** tennis365.com + skysports.com (Djokovic narrative)\n- Djokovic No. 12 (dropped from No. 5 after US Open R1 loss to Navone)\n- Goal: return to top 10 before Paris Masters (Nov 2-8)\n- First GS R1 loss since 2006 AO\n- Confidence: HIGH\n**Source 4:** WTA (puntodebreak.com/wtatennis.com)\n- Rybakina (WTA No. 1) enters Beijing as her first major event as No. 1\n- Sabalenka (No. 2) also confirmed; H2H Rybakina won last 3\n- Confidence: HIGH (from Sep 15 and Sep 18 story history)"
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 8
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
