@@ -1,6 +1,37 @@
 # COS Parenting — Pipeline Status
 
-## Current Run: 2026-09-20
+## Current Run: 2026-09-21
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | HARPPA Nordi Toddler Tower Stool recall (~47,166 units, HANS0002, cpsc.gov); COS Park System Master Plan comment closes Sep 22 (coloradosprings.gov/ParkSystemMasterPlan); D11 Orton Academy moves to Trailblazer Elementary 2026-27 (gazette.com/d11.org); Cool Science Festival Oct 3-18 UCCS Carnival Day free (coolscience.org/koaa.com); AAP 2026 screen time update quality over limits (aap.org/health.choc.org) |
+| Story History Check | COMPLETE | All 5 stories NEW — verified against Sep 20 (Jerify recall/PRCS fall sports/Boo at the Zoo/D20 accreditation/Colorado Free Days) and Sep 19 entries; no repeats |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: cpsc.gov, harppababy.com, coloradosprings.gov/ParkSystemMasterPlan, gazette.com, d11.org, coolscience.org, koaa.com, aap.org, health.choc.org |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows, voice check |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories; all ≤280 chars; 4 hashtags each; max 1 exclamation mark; COS voice rules applied |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; no hashtags; engagement questions; COS voice rules applied |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 7 Gemini base_only prompts across 5 stories; detailed scene/mood/lighting/palette; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 HARPPA recall (Jamie Rivera, T1, QR table); article-02 COS Park Master Plan (Sarah Morales, T1, QR table); article-03 Orton Academy (Jamie Rivera, T2, QR table); article-04 Cool Science Festival (Sarah Morales, T2, QR table); article-05 AAP screen time (Jamie Rivera, T2, QR table) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 75 claims; HIGH/MEDIUM/LOW prioritized; no char-limit violations |
+| Compile Content Data | COMPLETE (partial) | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts, 5 articles (FB 0 is known parser compat issue) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 7 entries across 5 stories, all not_started, gemini base_only, brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser compat issue — ran both standard and --tobi |
+| WordPress Publish | BLOCKED | fanrumor.com:443 blocked by egress proxy (known recurring issue) |
+| Story History | COMPLETE | 5 new entries prepended to Parenting/story-history.md (Sep 21 section) |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB long-form + 5 FB captions = 17 total
+- **Articles:** 5 (bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4])
+- **PostPlanner exports:** 0 posts (known parser compat issue)
+- **Key stories:** HARPPA Nordi Toddler Tower Stool recall (~47,166 units, HANS0002, free repair kit, harppababy.com); COS Park System Master Plan final public comment deadline Sep 22 (coloradosprings.gov/ParkSystemMasterPlan, 210-ft Sand Creek bridge); D11 Orton Academy K-8 dyslexia charter school moves to Trailblazer Elementary 2026-27; Cool Science Festival Oct 3-18 (Carnival Day at UCCS free admission+parking, coolscience.org); AAP 2026 screen time guidelines quality over limits (Pediatrics Vol 158 Issue 3, co-viewing focus)
+- **Issues:** PostPlanner 0 posts (known); WordPress blocked by proxy; dashboard push blocked (not in session authorized repos)
+
+---
+
+## Previous Run: 2026-09-20
 
 | Step | Status | Notes |
 |------|--------|-------|

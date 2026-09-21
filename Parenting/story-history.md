@@ -2,6 +2,50 @@
 
 ---
 
+## September 21, 2026
+
+### Story 1: HARPPA Nordi Toddler Tower Stool Recalled — Collapse and Entrapment Risk
+- **Date:** 2026-09-21
+- **Tier:** T1
+- **Pillar:** National Parenting (Product Safety)
+- **Key Facts:** CPSC recall; ~47,166 units; model HANS0002 (label on underside of stool platform); white/black/blue with natural wood; ~$130; sold Amazon.com and harppababy.com Sep 2023–Jun 2026; 3 incidents, 2 injuries (scrapes/cuts/bruises); collapse/tip-over + child's torso fits through front/back openings (entrapment); stop use immediately; free repair kit (protective nets, stabilizing feet, installation instructions) with free shipping via harppababy.com; cpsc.gov
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 2: COS Park System Master Plan — Final Public Comment Deadline Tomorrow
+- **Date:** 2026-09-21
+- **Tier:** T1
+- **Pillar:** Local News
+- **Key Facts:** Colorado Springs Parks, Recreation and Cultural Services; 2026 Park System Master Plan draft; comment closes September 22, 2026; 10-15 year plan for parks/trails/open spaces/cultural services; coloradosprings.gov/ParkSystemMasterPlan; Rock Island Trail 210-foot pedestrian bridge over Sand Creek planned; pedestrian-activated flashing crossing at Peterson Road; City Council approval expected October 2026; public open houses held Sep 10 and Sep 16
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 3: D11 Orton Academy Moves to Trailblazer Elementary for 2026-27
+- **Date:** 2026-09-21
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** Orton Academy; K-8 charter school; dyslexia education specialty; opened 2020; chartered in D11 since 2024; moving into Trailblazer Elementary building for 2026-27 school year; staff, students, and programming remain separate within building; gazette.com Apr 8, 2026; d11.org
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 4: Colorado Springs Cool Science Festival Oct. 3–18
+- **Date:** 2026-09-21
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Cool Science Festival; October 3–18, 2026; 16+ days of STEAM events; hosted by Cool Science nonprofit; most events free for all ages; primary audience K-8; Carnival Day Oct 3 at UCCS (free admission and parking): science shows, lab tours, rockets, slime, drones, robots, VR, liquid nitrogen treats, live animals; coolscience.org
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 5: AAP 2026 Screen Time Guidelines — Quality Over Strict Limits
+- **Date:** 2026-09-21
+- **Tier:** T2
+- **Pillar:** National Parenting
+- **Key Facts:** American Academy of Pediatrics 2026 update; published Pediatrics Vol. 158, Issue 3 (September 2026); shift from strict time limits to quality, context, and co-viewing focus; under 18 months: no screens except video calls; ages 2-5: max 1 hour/day high-quality programming; ages 6+: consistent limits protecting sleep/physical activity/homework; co-viewing strongly encouraged; aap.org; health.choc.org
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+---
+
 ## September 20, 2026
 
 ### Story 1: Jerify Magnetic Stick Figure Toys Recalled — CPSC Recall
