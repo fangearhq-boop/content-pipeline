@@ -1,0 +1,280 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-21",
+  "compiled_at": "2026-09-21T10:32:59.628914+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Pete Crow-Armstrong — 3 SB Away From 40-40 With 6 Games Left",
+      "tier": 1,
+      "status": "",
+      "angle": "The clock is ticking — 3 SB, 6 games. Can PCA write history in the final week?",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Pete Crow-Armstrong: 47 HR, 37 SB. Three stolen bases. Six games. That's all that stands between him and the 40-40 club — and a place in Cubs franchise history. #Cubs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 166
+        },
+        {
+          "label": "Post 2",
+          "text": "Only 6 players in MLB history have gone 40-40: Canseco, Bonds, A-Rod, Soriano, Acuña, Ohtani. PCA is three steals away from joining them — and would be the first Cub to ever do it. #Cubs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 186
+        }
+      ],
+      "facebook": {
+        "long_form": "Three stolen bases. Six games. That's the entire equation standing between Pete Crow-Armstrong and one of the rarest achievements in baseball history.\n\nPCA enters the final week of the regular season with 47 home runs and 37 stolen bases — putting the 40-40 club squarely in his sights. Only six players have ever done it: Jose Canseco (1988), Barry Bonds (1996), Alex Rodriguez (1998), Alfonso Soriano (2006), Ronald Acuña Jr. (2023), and Shohei Ohtani (2024). PCA would become No. 7 — and the first Cub in franchise history to accomplish the feat.\n\nHe already rewrote the record books this season by breaking Billy Williams' left-handed Cubs home run record of 42, set back in 1970. Now he's chasing something even bigger.\n\nThe Cubs sit at 87-69 with a magic number of 1 to clinch their postseason spot. PCA could be stealing his way into history in the middle of a Wild Card clinching celebration. The stars are aligning.\n\nThree steals. Six games. Don't look away.",
+        "image_caption": "Pete Crow-Armstrong is three stolen bases away from joining the most exclusive club in baseball. 47 HR. 37 SB. Six games left. #Cubs",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-pca-40-40-chase-three-steals-six-games.html",
+        "headline": "Pete Crow-Armstrong Is Three Steals Away From Baseball History",
+        "word_count": 535
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Action (Featured)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Stat Graphic",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Pete Crow-Armstrong 40-40 Chase\n**Verified Facts:**\n- [HIGH] PCA: 47 HR, 37 SB entering Sept. 21 — confirmed from pipeline-status (multiple prior days) and Yahoo Sports / Bleed Cubbie Blue.\n- [HIGH] Needs 3 SB for 40-40 — calculation (40-37=3), confirmed in multiple sources.\n- [HIGH] Would be 7th member of 40-40 club: Canseco (1988), Bonds (1996), A-Rod (1998), Soriano (2006), Acuña (2023), Ohtani (2024) — confirmed from prior research and Wikipedia.\n- [HIGH] Would be first Cub in franchise history — confirmed multiple sources.\n- [HIGH] Broke Billy Williams' LH Cubs HR record (42 from 1970) — Yahoo Sports, Hoodline confirmed.\n- [HIGH] Cubs 87-69, 6 games remaining — confirmed from WC standings search.\n- [HIGH] Cubs magic number to clinch postseason = 1 — Yahoo Sports/ClutchPoints confirmed.\n- [MEDIUM] PCA batting stats: .282 BA, .375 OBP, .956 OPS, 105 RBI — from prior pipeline-status.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Cubs Take WC1 Lead — Magic Number Down to 1",
+      "tier": 2,
+      "status": "",
+      "angle": "Cubs went from survival mode to driver's seat — one win clinches their postseason spot.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "The Cubs went from a 3-way tie to holding the driver's seat in one day. 87-69. Magic number: 1. Phillies and Padres both lost Sept. 20. One win away from clinching. #Cubs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 170
+        }
+      ],
+      "facebook": {
+        "long_form": "Twenty-four hours changed everything in the National League Wild Card race.\n\nThe Cubs entered September 20th stuck in a three-way logjam at 85-69, watching their postseason lives hang in the balance. By the end of the day, they'd turned chaos into control. The Phillies lost. The Padres lost. The Cubs won — and just like that, they hold a one-game lead over both clubs with a magic number of 1.\n\nCubs 87-69. Padres 86-69. Phillies 86-70.\n\nOne win clinches it. One Padres or Phillies loss clinches it. They also hold the tiebreaker over both clubs if it comes to that. The Wild Card round starts September 29.\n\nFrom survival mode to driver's seat — in one afternoon.",
+        "image_caption": "From a 3-way tie to a 1-game lead in 24 hours. The Cubs are one win away from clinching. Magic number: 1. #Cubs",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-cubs-wc1-lead-magic-number-one.html",
+        "headline": "Cubs Take the Wild Card Lead — Magic Number Down to 1",
+        "word_count": 443
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Celebration (Featured)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Cubs WC1 Lead\n**Verified Facts:**\n- [HIGH] Cubs 87-69, Padres 86-69, Phillies 86-70 — Yahoo Sports / ClutchPoints confirmed.\n- [HIGH] Cubs lead WC1 by 1 game over Padres — confirmed standings.\n- [HIGH] Cubs magic number = 1; Padres = 2; Phillies = 3 — ClutchPoints confirmed.\n- [HIGH] Phillies and Padres both lost Sept. 20 — Yahoo Sports headline confirmed.\n- [HIGH] Wild Card starts Sept. 29 — prior pipeline-status.\n- [HIGH] Cubs hold tiebreaker over both Phillies and Padres — prior pipeline-status.\n- [MEDIUM] Diamondbacks also lost Sept. 20 per Yahoo Sports headline.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Misiorowski's Cy Young Case — 243 K, 21 from the Brewers Record",
+      "tier": 2,
+      "status": "",
+      "angle": "Misiorowski isn't just winning the Cy Young — he's rewriting the record book.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Jacob Misiorowski: 1.89 ERA. 243 strikeouts. 0.81 WHIP. Already the -700 Cy Young favorite. Now he's 21 K away from breaking Ben Sheets' Brewers record of 264 set in 2004. #Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers"
+          ],
+          "char_count": 180
+        }
+      ],
+      "facebook": {
+        "long_form": "Jacob Misiorowski isn't just winning the Cy Young Award — he's rewriting what a pitching season can look like.\n\nAt 24 years old, the Brewers ace leads all of baseball with a 1.89 ERA, 243 strikeouts, and a 0.81 WHIP. He's the -700 favorite in NL Cy Young odds — essentially a lock. And his nearest challenger, Chris Sale at +500, isn't really close.\n\nBut the individual award is almost a footnote now. Misiorowski is 21 strikeouts away from breaking Ben Sheets' Brewers franchise record of 264, set in 2004. He also became the first pitcher in the tracking era to record 1,000 pitches at 100-plus mph in a single season.\n\nThe Brewers have clinched their fourth consecutive NL Central title. Their ace is putting together a historically elite season. One more start could crack the franchise record.",
+        "image_caption": "1.89 ERA. 243 K. 0.81 WHIP. Jacob Misiorowski is 21 strikeouts away from Brewers history — and already the most dominant pitcher in baseball. #Brewers",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-misiorowski-cy-young-243k-sheets-record.html",
+        "headline": "Misiorowski's Cy Young Case: 243 Strikeouts and 21 Away From Brewers History",
+        "word_count": 469
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Pitching (Featured)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Misiorowski Cy Young\n**Verified Facts:**\n- [HIGH] Misiorowski: 1.89 ERA (MLB-best), 243 K (MLB-best), 0.81 WHIP — Yahoo Sports, ESPN, multiple sources confirmed.\n- [HIGH] NL Cy Young odds: -700 Misiorowski, Sale +500 — prior pipeline-status (oddsline confirmed).\n- [HIGH] 1,000 pitches at 100+ mph in one season — first pitcher ever in tracking era (Sept. 8 milestone) — Yahoo Sports confirmed.\n- [HIGH] Ben Sheets Brewers record: 264 K in 2004 — prior pipeline-status (historical fact).\n- [HIGH] Needs 21 more K to break Sheets record — calculation (264-243=21).\n- [HIGH] Brewers: 4th straight NL Central title — Wikipedia confirmed from prior research.\n- [MEDIUM] Misiorowski: 24 years old — from ESPN profile.\n- [MEDIUM] Sale, Wheeler, Sanchez, Luzardo among Cy Young competition — Yahoo Sports confirmed.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Aaron Judge Update — On the IL, Targeting October",
+      "tier": 2,
+      "status": "",
+      "angle": "The Yankees need their captain — but the Bronx is holding its breath with 6 games left and an uncertain return timeline.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Aaron Judge is back on the IL — right calf strain, retroactive Sept. 17. Boone: \"I don't know\" if he's back for October. Judge says the plan is to play. Yankees clinched. The waiting begins. #Yankees",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees"
+          ],
+          "char_count": 199
+        }
+      ],
+      "facebook": {
+        "long_form": "The Yankees clinched their 61st postseason berth. Aaron Judge is on the injured list. And the whole Bronx is holding its breath.\n\nJudge was placed on the 10-day IL — retroactive to September 17 — with a right soleus (calf) strain. He had just returned September 8 from a 99-day IL stint for a rib fracture, played seven games, and went back down. He's appeared in limited action this season, totaling 18 home runs.\n\nThe questions are piling up. Manager Aaron Boone, when asked about Judge's postseason availability: \"I don't know.\" Judge himself is more confident, saying the plan is to be active in October.\n\nSo here's where things stand with six games left in the regular season: The Yankees are in the playoffs, their captain is hurt, and nobody knows if he'll be ready in time.",
+        "image_caption": "Aaron Judge is back on the IL with a calf strain. Boone says \"I don't know\" if he returns in time. Judge says he plans to play in October. The Yankees wait. #Yankees",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-judge-il-targeting-october-yankees.html",
+        "headline": "Aaron Judge Is Back on the IL — Yankees Hold Their Breath",
+        "word_count": 492
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Dugout/Portrait (Featured)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Aaron Judge Injury\n**Verified Facts:**\n- [HIGH] Judge on 10-day IL, retroactive to Sept. 17, right soleus (calf) strain — Bleacher Report, Last Word on Sports, ESPN confirmed.\n- [HIGH] Returned from 99-day IL Sept. 8 (rib fracture) — prior pipeline-status.\n- [HIGH] Played 7 games before re-injury — prior pipeline-status.\n- [HIGH] 18 HR total in 2026 season — prior pipeline-status.\n- [HIGH] Boone: \"I don't know\" about postseason return — Bleacher Report / prior pipeline-status confirmed.\n- [HIGH] Judge: \"The plan\" is to be active in postseason — Bleacher Report confirmed.\n- [HIGH] Yankees: clinched 61st postseason berth — prior pipeline-status confirmed.\n- [MEDIUM] MRI taken Sept. 17 in Phoenix revealed soleus strain — Last Word on Sports confirmed.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Alvarez Triple Crown — Trailing in Two Categories, 6 Games Left",
+      "tier": 2,
+      "status": "",
+      "angle": "The Triple Crown window is nearly closed — but Alvarez's MVP case stands on its own regardless.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Yordan Alvarez is trailing in HR (Caminero has 40) and RBI (Alonso has ~100) with 6 games left. The Triple Crown is nearly gone — but his 2026 AL MVP case stands on its own. #Astros",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Astros"
+          ],
+          "char_count": 181
+        }
+      ],
+      "facebook": {
+        "long_form": "The math has officially gotten too hard.\n\nYordan Alvarez entered the final week of the regular season trailing in two of three Triple Crown categories — and his September batting average has been ice cold at .206. The window isn't just closing. It's nearly shut.\n\nAlvarez leads the AL with a .310 batting average (Chandler Simpson of the Rays is five points back at .305). But he's behind Yandy Caminero of the Rays in home runs (38 vs. 40) and trailing Pete Alonso of the Orioles in RBI (roughly 99 vs. 100). Closing both gaps in six games would require an extraordinary run.\n\nThe last American League Triple Crown winner was Miguel Cabrera with Detroit in 2012. That title won't belong to Alvarez in 2026.\n\nBut here's the thing: it doesn't need to. Alvarez's 2026 stands as one of the great AL offensive seasons of the decade regardless. His MVP case remains as strong as anyone's in the league.\n\nThe Triple Crown is gone. The MVP is his to lose.",
+        "image_caption": "Yordan Alvarez's Triple Crown bid is nearly over — trailing in HR and RBI with 6 games left. But his 2026 AL MVP case? That's not going anywhere. #Astros",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-alvarez-triple-crown-trailing-two-categories.html",
+        "headline": "Alvarez's Triple Crown Bid Is Nearly Over — His MVP Case Isn't",
+        "word_count": 516
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Batting (Featured)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Alvarez Triple Crown Chase\n**Verified Facts:**\n- [HIGH] Alvarez: .310 BA (leads AL by 5 points over Simpson), 38 HR, ~96-99 RBI — ESPN/Yahoo Sports confirmed.\n- [HIGH] Trailing Caminero (Rays): 40 HR — ESPN confirmed.\n- [HIGH] Trailing Alonso (Orioles): ~100 RBI — ESPN confirmed.\n- [HIGH] Alvarez September: .206 BA (cold since early August) — ESPN confirmed.\n- [HIGH] Last AL Triple Crown: Miguel Cabrera, 2012 (Detroit Tigers) — historical fact, confirmed.\n- [HIGH] Chandler Simpson (Rays): .305 BA, 5 points behind Alvarez — ESPN confirmed.\n- [MEDIUM] 6 games remaining — calculation from standings/schedule.\n- [MEDIUM] TC effectively out of reach in 2 categories — analysis from ESPN article.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 6
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
