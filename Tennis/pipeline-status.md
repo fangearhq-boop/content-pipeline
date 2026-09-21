@@ -1,6 +1,35 @@
 # Tennis Fanrecap — Pipeline Status
 
-## Current Run: 2026-09-20
+## Current Run: 2026-09-21
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Davis Cup Finals field confirmed (daviscup.com/wikipedia); Laver Cup 4 days rosters (lavercup.com/en.tennistemple.com); Jovic career-high No. 13 (yahoo sports/puntodebreak/tennis365/wtatennis); Sinner ATP lead 5,010 pts (legionreport.com/abc.net.au/atptour.com/tennis365); China Open preview (atptour.com/skysports) |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Sep 18-20 Davis Cup QR2 → Final 8 complete); S2 FOLLOW-UP (Sep 17-20 Laver Cup → 4 days out); S3 FOLLOW-UP (Sep 20 S1: Jovic title → ranking aftermath); S4 NEW STORY (Sinner ATP lead analysis); S5 FOLLOW-UP (Sep 18 S3: China Open field → full preview) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (1 Tier 1, 4 Tier 2); bylines: Marcus Cole [S1, S4], Elena Voss [S2, S5], Ryan Calloway [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: daviscup.com, wikipedia.org, lavercup.com, en.tennistemple.com, sports.yahoo.com, puntodebreak.com, tennis365.com, wtatennis.com, legionreport.com, abc.net.au, atptour.com, skysports.com |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 9 posts across 5 stories; all ≤280 chars verified |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 8 imagn concepts across 5 stories |
+| Articles (5) | COMPLETE | article-01 Davis Cup Finals field (Marcus Cole, T1); article-02 Laver Cup 4 days (Elena Voss, T2); article-03 Jovic career-high (Ryan Calloway, T2); article-04 Sinner ATP lead (Marcus Cole, T2); article-05 China Open preview (Elena Voss, T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 52 claims; all HIGH priority verified |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 9 X posts, 0 FB posts (known parser compat), 5 articles |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 8 imagn entries across 5 stories, all not_started |
+| Review Dashboard | COMPLETE | review-dashboard.html — 24 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser compat issue — ran both standard and --tobi |
+| WordPress Publish | BLOCKED | fanrumor.com:443 blocked by egress proxy (known recurring issue) |
+| Story History | COMPLETE | 5 new entries prepended to Tennis/story-history.md (Sep 21 section) |
+
+- **Stories:** 5 stories (1 Tier 1, 4 Tier 2)
+- **Posts:** 9 X posts + 5 FB long-form + 5 FB captions = 19 total
+- **Articles:** 5 (bylines: Marcus Cole [S1, S4], Elena Voss [S2, S5], Ryan Calloway [S3])
+- **PostPlanner exports:** 0 posts (known parser compat issue)
+- **Key stories:** Davis Cup Finals field complete (Italy+7 qualifiers; USA/France out); Laver Cup 4 days (Europe vs World at The O2); Jovic career-high No. 13 / WTA Race No. 11; Sinner leads ATP 12,800 pts (5,010 ahead of Zverev despite injury absence); China Open preview (Sinner return, Djokovic 29-0 record, Rybakina as new No. 1)
+- **Issues:** PostPlanner 0 posts (known); WordPress blocked by proxy; dashboard push blocked (not in session authorized repos)
+
+## Previous Run: 2026-09-20
 
 | Step | Status | Notes |
 |------|--------|-------|
