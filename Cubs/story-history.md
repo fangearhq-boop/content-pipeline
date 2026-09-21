@@ -5,6 +5,54 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-09-21 (OFF DAY)
+
+### STORY 1: Magic Number = 1 — Playoff Clinch Watch
+- **Angle:** FOLLOW UP. Cubs 87-69, magic number 1 entering off day. One win (or one D-backs loss) clinches back-to-back postseason trips.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, playoff clinch)
+- **Follow-Up Opportunities:**
+  - Playoff clinch announcement (could happen same day vs D-backs result)
+  - Marlins series opener Tuesday
+
+### STORY 2: PCA 40-40 Watch — 45 HR / 38 SB
+- **Angle:** FOLLOW UP. PCA at 45 HR / 38 SB — two steals from 40-40. Six games remain. Only 6 players in MLB history have done it; no Cub ever.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, milestone)
+- **Follow-Up Opportunities:**
+  - Each SB milestone (39, 40 — historic announcement when achieved)
+
+### STORY 3: Swanson Returns + HR — October Ready
+- **Angle:** FOLLOW UP. Swanson returned Sept 18, hit HR Sept 19 (first since Aug 12), day off Sept 20. Healthy for stretch run and October.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, return wrap-up)
+- **Follow-Up Opportunities:**
+  - Swanson October stats and performance
+
+### STORY 4: Justin Steele Bullpen Decision Looms
+- **Angle:** FOLLOW UP. Iowa season ended Sept 20. Steele's final rehab: 2 IP, 0 ER, 5 K (Sept 18). Meeting with Cubs Sept 22. Multi-inning LHP reliever expected role.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, analysis)
+- **Follow-Up Opportunities:**
+  - Steele official activation announcement
+  - First MLB appearance back
+
+### STORY 5: WC1 Tiebreaker — 6-1 vs Phillies = Wrigley Wild Card
+- **Angle:** NEW STORY. Cubs went 6-1 vs Philadelphia in 2026, owning the WC1 tiebreaker outright. Every Wild Card game at Wrigley in a tie scenario.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, analysis)
+- **Follow-Up Opportunities:**
+  - WC1 clinch confirmation
+
+### STORY 6: Marlins Series Opens Tuesday — Clinch Opportunity
+- **Angle:** NEW STORY. Cubs open 3-game home series vs Miami on Tuesday (Sept 22) with magic number 1. First clinch opportunity of the final week.
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, preview)
+- **Follow-Up Opportunities:**
+  - Game 1 result and clinch announcement if applicable
+
+---
+
 ## 2026-09-16
 
 ### STORY 1: Game 2 Recap — Braves 4, Cubs 1 (Series Tied 1-1)

@@ -1,0 +1,192 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-21",
+  "compiled_at": "2026-09-21T09:17:18.965240+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Magic Number = 1 — Playoff Clinch Watch",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Cubs are 87-69 with a magic number of 1 entering the off day. One more win (or one Diamondbacks loss) clinches back-to-back playoff trips.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "87-69. Magic number: 1.\n\nThe Cubs are one win — or one Diamondbacks loss — from clinching back-to-back playoff trips. 6 games left. October is right there.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative/Urgency",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 179
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "PCA 40-40 Watch — 45 HR / 38 SB",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "PCA is at 45 HR and 38 SB — two steals from joining only 6 players ever in the 40-40 club. No Cub has ever done it. Six games remain.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "45 HR. 38 SB. Two steals from Cubs history.\n\nPCA needs just 2 more stolen bases to join the 40-40 club — a feat only 6 players in MLB history have ever pulled off. Six games remain.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Milestone/Bold",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 209
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Swanson Returns + HR — October Ready",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Swanson returned Sept 18 after 33 days on IL, then hit a home run Sept 19 (first HR since Aug 12). A clean bill of health heading into October.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "2 hits, 1 HR in his second game back — Dansby Swanson looks like the October shortstop the Cubs need.\n\nOut 33 days with an oblique strain. Back Sept. 18. Already homering.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Informative/Bold",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 197
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Justin Steele Bullpen Decision Looms",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Iowa season ended Sept 20. Steele's final rehab appearance: 2 IP, 0 ER, 5 K. Decision meeting with Cubs on Sept 22. Multi-inning LHP reliever for October is the expected path.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "2 scoreless innings, 5 strikeouts in his final Iowa start — Justin Steele meets with the Cubs on Tuesday.\n\nThe question isn't if he pitches in October. It's how many innings they trust him with.\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Analysis/Informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "WC1 Tiebreaker — 6-1 vs Phillies = Wrigley Series",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Cubs went 6-1 vs Philadelphia this season — they own the WC1 tiebreaker outright. Hosting the Wild Card Series at Wrigley means every game in front of home fans.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "6-1 vs. the Phillies this season — the Cubs own the WC1 tiebreaker outright.\n\nA Wild Card Series at Wrigley means Chicago hosts every game. This team is 87-69 and playing its best baseball of the stretch run.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Bold/Informative",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Marlins Series Opens Tuesday — First Clinch Opportunity",
+      "tier": 3,
+      "status": "NEW STORY",
+      "angle": "Cubs open 3-game home series vs Miami on Tuesday with magic number 1. One win at Wrigley = clinched. October is right there.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "87-69 with a magic number of 1. The Cubs open a 3-game home series vs. Miami on Tuesday.\n\nOne win at Wrigley locks in October. That's it.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Preview/Informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 161
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
