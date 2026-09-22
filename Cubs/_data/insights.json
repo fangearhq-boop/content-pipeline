@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-22T20:43:17.797871+00:00",
+  "generated_at": "2026-09-22T20:57:46.034781+00:00",
   "account": "cubs",
   "window_days": 21,
-  "tweet_count": 116,
-  "measured_tweet_count": 116,
-  "measured_median_impressions": 70.0,
-  "measured_mean_impressions": 114.86,
-  "median_impressions": 70.0,
-  "mean_impressions": 114.86,
+  "tweet_count": 115,
+  "measured_tweet_count": 115,
+  "measured_median_impressions": 70,
+  "measured_mean_impressions": 115.55,
+  "median_impressions": 70,
+  "mean_impressions": 115.55,
   "max_impressions": 2438,
   "significant_findings": [
     {
@@ -16,11 +16,11 @@
       "winner": "stat_lead",
       "loser": "not_stat_lead",
       "median_impressions_winner": 107.0,
-      "median_impressions_loser": 66.5,
+      "median_impressions_loser": 67,
       "n_winner": 34,
-      "n_loser": 82,
-      "p_value": 0.0066,
-      "effect_size_cliffs_delta": 0.322,
+      "n_loser": 81,
+      "p_value": 0.0081,
+      "effect_size_cliffs_delta": 0.314,
       "effect_size_label": "small"
     },
     {
@@ -29,11 +29,11 @@
       "winner": "not_statement",
       "loser": "statement",
       "median_impressions_winner": 96.0,
-      "median_impressions_loser": 65.5,
+      "median_impressions_loser": 66,
       "n_winner": 38,
-      "n_loser": 78,
-      "p_value": 0.0203,
-      "effect_size_cliffs_delta": 0.267,
+      "n_loser": 77,
+      "p_value": 0.0248,
+      "effect_size_cliffs_delta": 0.258,
       "effect_size_label": "small"
     },
     {
@@ -42,11 +42,11 @@
       "winner": "200-260",
       "loser": "not_200-260",
       "median_impressions_winner": 82.0,
-      "median_impressions_loser": 65.0,
+      "median_impressions_loser": 65,
       "n_winner": 78,
-      "n_loser": 38,
-      "p_value": 0.0211,
-      "effect_size_cliffs_delta": 0.265,
+      "n_loser": 37,
+      "p_value": 0.0323,
+      "effect_size_cliffs_delta": 0.248,
       "effect_size_label": "small"
     }
   ],
@@ -127,9 +127,9 @@
         }
       },
       "15": {
-        "n": 8,
-        "mean": 67.62,
-        "median": 59.0,
+        "n": 7,
+        "mean": 72.14,
+        "median": 61,
         "top": {
           "impressions": 126,
           "text": "15-day IL, cleared.\n\nCubs activated RHP Edward Cabrera (right-hand blister) and placed Trent Thornton on the IL (left ankle sprain).\n\nBullpen depth grows with 11 games left and October around the corner.\n\n#Cubs #CubsBaseball #MLB"
@@ -165,9 +165,9 @@
     },
     "by_weekday_ct": {
       "Tue": {
-        "n": 19,
-        "mean": 64.26,
-        "median": 51,
+        "n": 18,
+        "mean": 65.83,
+        "median": 53.0,
         "top": {
           "impressions": 156,
           "text": "Pete Crow-Armstrong: 40 HR / 33 SB.\n\nSeven stolen bases from the 40-40 club. Six players in MLB history have ever done it. No Cub has ever done it.\n\n17 games to get there.\n\n#Cubs #GoCubs #MLB"
@@ -230,9 +230,9 @@
     },
     "by_content_type": {
       "brief": {
-        "n": 116,
-        "mean": 114.86,
-        "median": 70.0,
+        "n": 115,
+        "mean": 115.55,
+        "median": 70,
         "top": {
           "impressions": 2438,
           "text": "Pete Crow-Armstrong: 39 HR / 32 SB.\n\nOne home run. Eight stolen bases. Twenty games.\n\nThe 40-40 club has six members in MLB history. No Cub has ever done it.\n\nPCA is knocking on the door.\n\n#Cubs #GoCubs #MLB"
@@ -241,9 +241,9 @@
     },
     "by_opening": {
       "statement": {
-        "n": 78,
-        "mean": 91.96,
-        "median": 65.5,
+        "n": 77,
+        "mean": 92.69,
+        "median": 66,
         "top": {
           "impressions": 659,
           "text": "Miguel Amaya's sixth homer put the Cubs ahead 2-1.\n\nA two-run single in the sixth inning turned it around. Boyd left with runners on; the pen couldn't hold. Final: Pirates 4, Cubs 3.\n\nChicago still took the series 2-1. Braves start tonight."
@@ -279,9 +279,9 @@
         }
       },
       "260+": {
-        "n": 26,
-        "mean": 89.38,
-        "median": 65.5,
+        "n": 25,
+        "mean": 91.52,
+        "median": 66,
         "top": {
           "impressions": 659,
           "text": "Miguel Amaya's sixth homer put the Cubs ahead 2-1.\n\nA two-run single in the sixth inning turned it around. Boyd left with runners on; the pen couldn't hold. Final: Pirates 4, Cubs 3.\n\nChicago still took the series 2-1. Braves start tonight."
@@ -308,9 +308,9 @@
     },
     "by_hashtag_count": {
       "3": {
-        "n": 116,
-        "mean": 114.86,
-        "median": 70.0,
+        "n": 115,
+        "mean": 115.55,
+        "median": 70,
         "top": {
           "impressions": 2438,
           "text": "Pete Crow-Armstrong: 39 HR / 32 SB.\n\nOne home run. Eight stolen bases. Twenty games.\n\nThe 40-40 club has six members in MLB history. No Cub has ever done it.\n\nPCA is knocking on the door.\n\n#Cubs #GoCubs #MLB"
@@ -319,9 +319,9 @@
     },
     "by_has_score": {
       "True": {
-        "n": 81,
-        "mean": 118.67,
-        "median": 69,
+        "n": 80,
+        "mean": 119.7,
+        "median": 69.5,
         "top": {
           "impressions": 2438,
           "text": "Pete Crow-Armstrong: 39 HR / 32 SB.\n\nOne home run. Eight stolen bases. Twenty games.\n\nThe 40-40 club has six members in MLB history. No Cub has ever done it.\n\nPCA is knocking on the door.\n\n#Cubs #GoCubs #MLB"
@@ -339,9 +339,9 @@
     },
     "by_has_stat": {
       "False": {
-        "n": 69,
-        "mean": 94.74,
-        "median": 67,
+        "n": 68,
+        "mean": 95.6,
+        "median": 67.5,
         "top": {
           "impressions": 659,
           "text": "Miguel Amaya's sixth homer put the Cubs ahead 2-1.\n\nA two-run single in the sixth inning turned it around. Boyd left with runners on; the pen couldn't hold. Final: Pirates 4, Cubs 3.\n\nChicago still took the series 2-1. Braves start tonight."
@@ -359,9 +359,9 @@
     },
     "by_has_emoji_first_line": {
       "False": {
-        "n": 116,
-        "mean": 114.86,
-        "median": 70.0,
+        "n": 115,
+        "mean": 115.55,
+        "median": 70,
         "top": {
           "impressions": 2438,
           "text": "Pete Crow-Armstrong: 39 HR / 32 SB.\n\nOne home run. Eight stolen bases. Twenty games.\n\nThe 40-40 club has six members in MLB history. No Cub has ever done it.\n\nPCA is knocking on the door.\n\n#Cubs #GoCubs #MLB"
@@ -370,9 +370,9 @@
     },
     "by_has_allcaps": {
       "True": {
-        "n": 83,
-        "mean": 113.45,
-        "median": 70,
+        "n": 82,
+        "mean": 114.39,
+        "median": 70.5,
         "top": {
           "impressions": 2438,
           "text": "Pete Crow-Armstrong: 39 HR / 32 SB.\n\nOne home run. Eight stolen bases. Twenty games.\n\nThe 40-40 club has six members in MLB history. No Cub has ever done it.\n\nPCA is knocking on the door.\n\n#Cubs #GoCubs #MLB"
