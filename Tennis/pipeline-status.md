@@ -1,6 +1,37 @@
 # Tennis Fanrecap — Pipeline Status
 
-## Current Run: 2026-09-20
+## Current Run: 2026-09-22
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Laver Cup 3 days out (lavercup.com/atptour/sports.yahoo.com/tennisnerd.net); Davis Cup Final 8 Bologna field (sundayguardianlive.com/tennisnerd.net/tennistemple.com); WTA Singapore Open 2026 WTA 500 (wtatennis.com/puntodebreak.com/khelnow.com); Sinner China Open return (tenniswatcher.com/tennis365.com/sundayguardianlive.com); ATP Hangzhou/Chengdu preview (atptour.com/tennisconnected.com) |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Sep 20 S5: Laver Cup 5 days out → 3 days, full preview); S2 NEW (Davis Cup Final 8 complete); S3 NEW (WTA Singapore 500); S4 FOLLOW-UP (Sep 16 S2: Sinner knee → China Open return 8 days away); S5 NEW (ATP Hangzhou/Chengdu preview) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Marcus Cole [S1, S4], Elena Voss [S2], Ryan Calloway [S3, S5] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: lavercup.com, atptour.com, wikipedia.org, sports.yahoo.com, tennisnerd.net, sundayguardianlive.com, tennistemple.com, bolognawelcome.com, wtatennis.com, puntodebreak.com, khelnow.com, thebiglead.com, tenniswatcher.com, tennisworldusa.org, tennis365.com, tennisconnected.com |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 8 posts across 5 stories; all ≤280 chars verified |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 9 imagn concepts across 5 stories |
+| Articles (5) | COMPLETE | article-01 Laver Cup preview (Marcus Cole T1); article-02 Davis Cup Bologna field (Elena Voss T1); article-03 WTA Singapore Open (Ryan Calloway T2); article-04 Sinner return (Marcus Cole T2); article-05 ATP Hangzhou/Chengdu (Ryan Calloway T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — auto-generated; 37 claims; image manifest warning cosmetic (imagn, known) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 5 articles; posting-window warnings cosmetic (known) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 9 entries, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 23 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser issue — same as all prior runs |
+| WordPress Publish | BLOCKED | 403 proxy — fanrumor.com blocked (known recurring issue) |
+| Story History | COMPLETE | 5 entries prepended to Tennis/story-history.md (Sep 22 section) |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 8 X posts + 5 FB posts (5 long-form + 5 captions) = 13 total
+- **Articles:** 5 (bylines: Marcus Cole [S1, S4], Elena Voss [S2], Ryan Calloway [S3, S5])
+- **PostPlanner exports:** 0 posts (known parser compat issue)
+- **Key stories:** Laver Cup 2026 — 3 days to The O2 London, Team World defending (won 2025), Zverev leads Europe; Davis Cup Final 8 Bologna field complete (Italy/Germany/Spain/GB/Canada/Czechia/Austria/South Korea); WTA Singapore Open upgraded to WTA 500, Andreeva (No. 5) top seed, Eala (No. 3); Sinner targeting China Open return Sep 30 (defending champion, out since Wimbledon); ATP Hangzhou/Chengdu starts Sep 23 (Medvedev/Vacherot lead; top 10 at Laver Cup)
+- **Issues:** PostPlanner 0 posts (known); WordPress blocked by proxy; dashboard push blocked (not in session authorized repos)
+
+---
+
+## Previous Run: 2026-09-20
 
 | Step | Status | Notes |
 |------|--------|-------|

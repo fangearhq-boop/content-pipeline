@@ -2,6 +2,14 @@
 
 Track previously covered stories to avoid repetition and maintain content freshness.
 
+## September 22, 2026
+
+| 2026-09-22 | Laver Cup 2026 preview — 3 days out. Sep 25-27 The O2 London. Team Europe (Noah): Alcaraz, Zverev, Ruud, Mensik, Cobolli, Jodar. Team World (Agassi): Fritz, de Minaur, Bublik, Tien, Cerundolo, Nakashima. Team World defending champs (15-9, San Francisco 2025); Europe leads all-time 8-1. Day 1 sessions at 1 PM and 7 PM local. Sources: lavercup.com, atptour.com, sports.yahoo.com, wikipedia.org. | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (Sep 20 S5: 5 days out → 3 days, full preview) |
+| 2026-09-22 | Davis Cup 2026 Final 8 Bologna field confirmed. All 8 nations set: Italy (hosts/defending, 3-time champs), Germany (Zverev), Spain (swept Chile 3-0), GB (beat Ecuador 4-0), Canada (beat France 3-1), Czechia (beat USA 3-2), Austria, South Korea. Nov 24-29 Bologna. Sources: sundayguardianlive.com, tennisnerd.net, tennistemple.com, bolognawelcome.com. | T1 | X, FB, Article | Elena Voss; NEW STORY |
+| 2026-09-22 | WTA Singapore Open 2026 — Asian swing begins. Upgraded to WTA 500. Top seeds: Andreeva (RG champ, No. 5, No. 1 seed after Pegula WD), Anisimova (No. 2), Eala (PHI, No. 17, No. 3 seed), Mertens (No. 4). All top seeds received byes. Korea Open WTA 250 Seoul also underway (Sep 21-27, Ostapenko top seed). Sources: wtatennis.com, puntodebreak.com, khelnow.com. | T2 | X, FB, Article | Ryan Calloway; NEW STORY |
+| 2026-09-22 | Sinner targets China Open return (Sep 30 Beijing). World No. 1; injured since Wimbledon 2026 (right knee extra-articular tendon inflammation). Treated at JMedical Turin; back in training. Defending Beijing champion (def. Tien 6-2, 6-2 in 2025 final). Sources: tenniswatcher.com, tennisworldusa.org, sundayguardianlive.com, tennis365.com. | T2 | X, FB, Article | Marcus Cole; FOLLOW-UP (Sep 16 S2: Sinner knee update → 8 days from return) |
+| 2026-09-22 | ATP Asian swing preview — Hangzhou (Medvedev No. 1, Rublev No. 2) and Chengdu (Vacherot leads; Shapovalov, DAF, Shang in field; 17yo Kouame via Next Gen Accelerator) both start Sep 23. Top 10 absent at Laver Cup. Sources: atptour.com, tennisconnected.com. | T2 | X, FB, Article | Ryan Calloway; NEW STORY |
+
 ## Format
 
 | Date | Story | Tier | Platforms | Notes |
