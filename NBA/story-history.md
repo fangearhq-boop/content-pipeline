@@ -7218,3 +7218,46 @@
 - **Byline:** Marcus Cole
 - **Status:** NEW
 - **Follow-up ideas:** Camp chemistry report, preseason game results, Opening Night performance
+
+---
+## 2026-09-22
+
+### STORY 1: Rockets & Mavericks Media Day — First NBA Media Day of 2026-27
+- **Tier:** 1
+- **Category:** Houston Rockets / Dallas Mavericks / NBA Media Day / China Games
+- **Key facts:** Sept. 22 is NBA's first media day of 2026-27; Rockets and Mavericks open camp a week early for China Games; China Games in Macao Oct. 9 & 11 at The Venetian Arena; Cooper Flagg (ROY, 21 pts/6.7 reb/4.5 ast) faces Kevin Durant in Macao; Durant praised Flagg as future all-time great; rest of league holds media day Sept. 28; camp opens for all Sept. 29; season starts Oct. 20
+- **Byline:** Jake Torres
+- **Status:** NEW
+- **Follow-up ideas:** Camp reaction from Flagg/Durant, China Games preview, Flagg sophomore storyline
+
+### STORY 2: Duren Deadline — 9 Days, Media Day Skip Possible
+- **Tier:** 1
+- **Category:** Detroit Pistons / Jalen Duren / Qualifying Offer
+- **Key facts:** Oct. 1 QO deadline now 9 days away; Duren could skip Pistons media day Sept. 28; Detroit offering ~$35M/yr; Duren seeking ~$40M/yr; QO $9.6M; Pistons 60-win EC No. 1 seed; third-team All-NBA; hard deadline March 1, 2027; Duren increasingly prepared to take QO
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Media day attendance/absence, deal signed before Oct. 1, QO accepted
+
+### STORY 3: Knicks Banner Night — Tickets Top $2,127
+- **Tier:** 1
+- **Category:** New York Knicks / Opening Night / Banner Ceremony / Philadelphia 76ers
+- **Key facts:** Get-in price on Gametime now $2,127; Celtics at Pistons same night = $195; Knicks first banner since 1973 (53 years); LeBron James (42) makes 76ers debut at MSG; Jaylen Brown makes 76ers debut; banner ceremony 6:30 PM ET; tipoff 7 PM ET NBC/Peacock; Oct. 20
+- **Byline:** Damon Pierce
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Ticket demand updates, media day previews, banner ceremony details
+
+### STORY 4: Giannis / Heat — One Week to Official Camp
+- **Tier:** 1
+- **Category:** Miami Heat / Giannis Antetokounmpo / Training Camp
+- **Key facts:** Official camp opens Sept. 29 (one week away); Giannis skipped FIBA qualifiers; unofficial minicamp in California ongoing for weeks; Heat added Klay Thompson, Bobby Portis, Tim Hardaway Jr.; first preseason game Oct. 3; Giannis learning Spoelstra systems; met Riley; Kaseya Center camp location
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** First official practice report, Giannis-Spoelstra chemistry, preseason debut
+
+### STORY 5: Timberwolves LaMelo Ball / Trade Candidates
+- **Tier:** 2
+- **Category:** Minnesota Timberwolves / LaMelo Ball / Rudy Gobert / Donte DiVincenzo
+- **Key facts:** LaMelo acquired from Charlotte (Naz Reid + picks package); Jonathan Kuminga signed; projected lineup: Edwards, LaMelo, Kuminga, McDaniels, Gobert; DiVincenzo on hottest trade-candidate seats, could miss season; Gobert 2yr/$75M remaining (player option); camp opens Sept. 29
+- **Byline:** Marcus Cole
+- **Status:** NEW
+- **Follow-up ideas:** DiVincenzo trade/resolution, camp roster battles, LaMelo-Edwards debut game

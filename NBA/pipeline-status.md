@@ -1,7 +1,7 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Current Status
-**Last Run:** 2026-09-21
+**Last Run:** 2026-09-22
 **Steps Completed:** All pipeline steps (1-14); WordPress publish blocked by proxy policy
 
 ## Deploy Info
@@ -11,6 +11,26 @@
 - **Note:** Dashboard publish push blocked (content-dashboards not in authorized repo set)
 
 ## Pipeline Run Log
+### 2026-09-22 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
+- Step 10: verify-facts.py run — 5 stories, 31 claims (all HIGH), image warnings expected (imagn sourcing)
+- Step 10b: compile-content-data.py — 5 stories, 5 tweets, 5 articles compiled (posting window warnings — known non-blocking issue; FB=0 known parsing issue)
+- Step 11: Image manifest created (not_started for all — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (20 items)
+- Step 14a: publish-unified-dashboard.py — push blocked (proxy policy for content-dashboards)
+- Step 14b: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 14c: generate-postplanner-export.py --tobi — 0 posts (known parsing issue)
+- Step 15: publish-to-wordpress.py — BLOCKED (fanrumor.com not allowed by egress proxy)
+- Git commit + push: ✅
+
+**Stories covered:**
+1. T1 NEW: Rockets & Mavericks Media Day — NBA's First Media Day of 2026-27, China Games (Jake Torres)
+2. T1 FOLLOW UP: 9 Days to Duren Deadline — Media Day Skip Possible (Marcus Cole)
+3. T1 FOLLOW UP: Knicks Banner Night — Tickets Top $2,127 (Damon Pierce)
+4. T1 FOLLOW UP: Giannis & Heat One Week From Official Camp (Jake Torres)
+5. T2 NEW: Timberwolves Enter New Era With LaMelo, DiVincenzo/Gobert Trade Clouds (Marcus Cole)
+
 ### 2026-09-21 ✅ (Automated)
 - Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
 - Step 10: verify-facts.py run — 5 stories, 18 claims (all HIGH), image warnings expected (imagn sourcing)
