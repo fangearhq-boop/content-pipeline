@@ -6999,3 +6999,46 @@
 - **Byline:** Elena Voss
 - **Status:** NEW
 - **Follow-up ideas:** Baku result impact on Singapore clinch math, Singapore preview closer to race
+
+---
+## 2026-09-22
+
+### STORY 1: Leclerc Engine Penalty — Ferrari Targets Baku for Grid Drop
+- **Tier:** 1
+- **Category:** Ferrari / Charles Leclerc / Engine Penalty / Azerbaijan Grand Prix
+- **Key facts:** Leclerc crashed at Monza Parabolica; brand-new ADUO power unit damaged; unsuitable for race conditions; Vasseur said Baku "quite suitable" for grid drop; Leclerc said penalty "probably" coming; Baku's 2.2km straight best recovery circuit; penalty expected confirmed before FP1 Sept. 24
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+- **Follow-up ideas:** Penalty confirmed/denied, race recovery drive, constructors impact
+
+### STORY 2: Williams FW48 2.0 Baku Debut
+- **Tier:** 1
+- **Category:** Williams / FW48 / Azerbaijan Grand Prix
+- **Key facts:** Williams debuts FW48 2.0 (B-spec) at Baku; revolutionary new carbon manufacturing process; original FW48 was overweight; Vowles says "almost completely new"; warns "won't be enough for points"; forms 2027 chassis foundation; drivers Carlos Sainz and Alex Albon
+- **Byline:** Marcus Cole
+- **Status:** NEW
+- **Follow-up ideas:** FP1 pace data, qualifying position, race performance
+
+### STORY 3: Norris Baku Favorite
+- **Tier:** 1
+- **Category:** Lando Norris / McLaren / Azerbaijan Grand Prix
+- **Key facts:** Norris odds-on favorite for pole and race win; McLaren Baku-specific upgrades (Sector 2); Norris won Baku 2024 and 2025; 106 pts behind Antonelli; 9 races remain; Constructors: McLaren 306, Ferrari 358 (52-pt gap)
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Qualifying result, race result, constructors battle update
+
+### STORY 4: Antonelli Championship Math — Baku and Singapore Clinch Path
+- **Tier:** 1
+- **Category:** Kimi Antonelli / Drivers' Championship / Azerbaijan Grand Prix
+- **Key facts:** Antonelli 292 pts; Russell 211 (81 behind); Hamilton 191 (101); Norris 186 (106); 9 races remain; earliest clinch: Singapore sprint weekend Oct. 9-11; Rosberg warning about mental pressure; 8 wins/6 poles/12 podiums; 20.9 pts/race avg
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Baku result championship impact, Singapore clinch math, Rosberg reaction
+
+### STORY 5: Baku Weekend Preview
+- **Tier:** 2
+- **Category:** Azerbaijan Grand Prix / Race Preview
+- **Key facts:** FP1+FP2 Sept. 24; FP3+Qual Sept. 25; Race Saturday Sept. 26 (first Saturday Baku race — Remembrance Day); 6.003 km circuit; 2.2 km main straight; top speeds 340 kph; 51 laps; Leclerc penalty, Williams new car, Norris favorite, Antonelli 81-pt lead
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Practice pace report, qualifying preview

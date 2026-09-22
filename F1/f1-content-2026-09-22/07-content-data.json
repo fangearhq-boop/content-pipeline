@@ -1,0 +1,245 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-22",
+  "compiled_at": "2026-09-22T11:23:15.678975+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Leclerc Engine Penalty — Ferrari Set to Take Grid Drop at Baku",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "**Post 1 (8:00 AM ET — Morning news)**\nFerrari is expected to take a grid penalty for Charles Leclerc at Baku. The engine from his Monza crash is too damaged for race use — and Vasseur says Saturday's street circuit is \"quite suitable\" for the drop. 🏎️ #Ferrari",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Ferrari"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-leclerc-engine-penalty-baku.html",
+        "headline": "Ferrari Sets Sights on Baku for Leclerc's Engine Penalty — Why the Timing Makes Sense",
+        "word_count": 714
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Leclerc Engine Penalty\n\n**Image 1 (Social — 1080x1350)**\n- **Search term:** Charles Leclerc Ferrari\n- **Credit:** (USA TODAY Sports Images)\n- **Concept:** Leclerc in Ferrari race suit, pit lane or paddock\n- **Status:** not_started\n\n**Image 2 (Social — 1080x1350)**\n- **Search term:** Charles Leclerc Ferrari\n- **Credit:** (USA TODAY Sports Images)\n- **Concept:** Leclerc in cockpit of SF-26\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Leclerc Engine Penalty — Baku Grid Drop\n**Verified Facts (HIGH):**\n- Charles Leclerc crashed at the 2026 Italian Grand Prix at Monza (high-speed Parabolica corner)\n- The engine in his SF-26 was a brand new power unit (part of Ferrari's second ADUO allocation)\n- The engine sustained damage in the crash; deemed unsuitable for high-power sessions (qualifying, race)\n- Ferrari considering taking a new/fresh power unit at Baku, which would result in a grid penalty\n- Fred Vasseur (Ferrari team principal) said Baku could be \"quite suitable\" for the grid drop\n- Leclerc himself said he will \"probably\" need to take a penalty \"at some point\"\n- Baku rationale: 2.2 km main straight, multiple overtaking zones — easiest circuit for recovery from grid drop\n- Leclerc has dominated Baku qualifying historically (pole at Baku four years running prior to 2026)\n**Sources:** GPFans, Yahoo Sports, Planet F1, Grande Premio, GPBlog, Yardbarker",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Williams FW48 2.0 — 'Almost Completely New' Car Arrives in Baku",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "**Post 3 (10:00 AM ET — Tech news)**\nWilliams arrives in Baku with an almost completely new car. The FW48 2.0 features a revolutionary new carbon manufacturing process. James Vowles has been building toward this moment since March. #WilliamsRacing #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WilliamsRacing",
+            "#F1"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-williams-fw48-2-baku-debut.html",
+        "headline": "Williams Arrives at Baku With an Almost Completely New Car — The FW48 2.0 Debuts",
+        "word_count": 746
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Williams FW48 2.0\n\n**Image 1 (Social — 1080x1350)**\n- **Search term:** Carlos Sainz Williams Racing\n- **Credit:** (USA TODAY Sports Images)\n- **Concept:** Sainz in Williams race suit or car on track\n- **Status:** not_started\n\n**Image 2 (Social — 1080x1350)**\n- **Search term:** Alex Albon Williams Racing\n- **Credit:** (USA TODAY Sports Images)\n- **Concept:** Albon in Williams car, action shot\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Williams FW48 2.0 at Baku\n**Verified Facts (HIGH):**\n- Williams will debut its FW48 2.0 (B-spec chassis) at the 2026 Azerbaijan Grand Prix in Baku\n- The new chassis uses a revolutionary new carbon manufacturing process\n- James Vowles (Williams team principal) has described the car as \"almost completely new\"\n- Original FW48 was significantly overweight when it first debuted; the B-chassis addresses weight and structural issues\n- Previous Baku upgrades included medium package at British GP, small revisions at Spa and Budapest, weight reduction at Zandvoort\n- Vowles has cautioned the upgrade \"won't be enough for points\" but calls it foundational\n- Drivers: Carlos Sainz and Alex Albon\n- The FW48 2.0 chassis will also form the technical foundation for the 2027 Williams\n**Sources:** Planet F1, Formula1.com, F1 in Generale, Williams Racing, BVM Sports",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Norris the Baku Favorite — McLaren's Best Chance to Pressure Antonelli",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "**Post 5 (12:00 PM ET — News)**\nLando Norris is the odds-on favorite at Baku. McLaren brought circuit-specific upgrades for Sector 2. He won here in 2024 AND 2025. And he's 106 points behind Antonelli with 9 races left. He NEEDS this. #McLaren #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#McLaren",
+            "#F1"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-norris-baku-favorite-mclaren.html",
+        "headline": "Norris Is the Baku Favourite — and He Needs Every Point He Can Get",
+        "word_count": 687
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Norris Baku Favorite\n\n**Image 1 (Social — 1080x1350)**\n- **Search term:** Lando Norris McLaren\n- **Credit:** (USA TODAY Sports Images)\n- **Concept:** Norris in McLaren race suit, celebrating or podium\n- **Status:** not_started\n\n**Image 2 (Social — 1080x1350)**\n- **Search term:** Lando Norris McLaren\n- **Credit:** (USA TODAY Sports Images)\n- **Concept:** Norris in cockpit or helmet shot\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Norris / McLaren Baku Favorite\n**Verified Facts (HIGH):**\n- Lando Norris is the market favorite for pole position and race win at the 2026 Azerbaijan Grand Prix\n- McLaren brought Baku-specific upgrade parts — improved performance in Baku's challenging second sector\n- Championship standings after Round 14 (Spanish GP): Antonelli 292, Russell 211, Hamilton 191, Norris 186\n- Norris is 106 points behind Antonelli with 9 races remaining (including Baku)\n- Maximum points available in remaining 9 races: approximately 225 (25 pts/race) + sprint points\n- McLaren constructors: 306 points; Ferrari: 358; Mercedes: 503\n- Norris won the last two Baku Grands Prix (2024 and 2025)\n**Sources:** ESPN, betting sites analysis, Motorsport.com standings, Sky Sports F1",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Antonelli Title Math — How Close Can Baku Get Him to the Crown?",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "**Post 7 (5:00 PM ET — Feature)**\nAntonelli championship standings heading into Baku: 292 pts. Russell -81. Hamilton -101. Norris -106. He needs 83 more points than Russell to clinch. A Baku win + Singapore sprint weekend could put the trophy in reach. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-antonelli-championship-math-baku.html",
+        "headline": "Antonelli's 81-Point Lead Heads to Baku — How Close Can He Get to the Title?",
+        "word_count": 755
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli Championship Math\n\n**Image 1 (Social — 1080x1350)**\n- **Search term:** Kimi Antonelli Mercedes\n- **Credit:** (USA TODAY Sports Images)\n- **Concept:** Antonelli in Mercedes race suit, podium celebration\n- **Status:** not_started\n\n**Image 2 (Social — 1080x1350)**\n- **Search term:** Kimi Antonelli Mercedes\n- **Credit:** (USA TODAY Sports Images)\n- **Concept:** Antonelli in cockpit of W17\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli Championship Math\n**Verified Facts (HIGH):**\n- Antonelli standings after R14 (Spanish GP): 292 points\n- George Russell: 211 points (81 behind)\n- Lewis Hamilton: 191 points (101 behind)\n- Lando Norris: 186 points (106 behind)\n- Antonelli has 8 wins, 6 pole positions, 12 podiums in 14 races\n- Average: 20.9 points per race\n- 9 races remain including Baku; Singapore Oct. 9-11 is a sprint weekend (additional points)\n- Youngest possible champion: if he clinches, he shatters Vettel's record (23 years 134 days) by over 3 years\n- Nico Rosberg said: \"Kimi Antonelli versus his mind will decide the 2026 Formula 1 title race\" ahead of Baku\n**Sources:** Motorsport.com, ESPN, Sky Sports F1",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Baku Weekend Countdown — Everything You Need to Know",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "**Post 9 (5:00 PM ET — Preview)**\nThe Baku weekend schedule: FP1+FP2 on Sept. 24, qualifying on Sept. 25, and the race on SATURDAY Sept. 26 — the first Saturday race in Baku history (Remembrance Day pushed the format). #AzerbaijanGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#AzerbaijanGP",
+            "#F1"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-baku-weekend-preview-guide.html",
+        "headline": "Baku Grand Prix Weekend Preview — Everything You Need to Know Before Wednesday",
+        "word_count": 693
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Baku Weekend\n\n**Image 1 (Social — 1080x1350)**\n- **Search term:** Kimi Antonelli Mercedes\n- **Credit:** (USA TODAY Sports Images)\n- **Concept:** Wide action shot, Baku street circuit context\n- **Status:** not_started\n\n**Image 2 (Social — 1080x1350)**\n- **Search term:** Lando Norris McLaren\n- **Credit:** (USA TODAY Sports Images)\n- **Concept:** Norris racing at street circuit\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Baku Weekend Preview\n**Verified Facts (HIGH):**\n- Azerbaijan Grand Prix 2026 race date: Saturday, September 26 (first Saturday race in Baku history)\n- Full weekend schedule: FP1+FP2 Wednesday Sept. 24; FP3+Qualifying Thursday Sept. 25; Race Saturday Sept. 26\n- Race moved to Saturday due to Azerbaijani Remembrance Day on September 27\n- Circuit: Baku City Circuit (6.003 km long, includes 2.2 km main straight — highest speed of any F1 street circuit)\n- Top speeds approach 340 kph on the straight\n- Key storylines: Leclerc penalty, Williams B-chassis debut, Norris favorite, Antonelli can extend or title race reopens\n**Sources:** RacingNews365, Crash.net, Formula1.com, ESPN",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
