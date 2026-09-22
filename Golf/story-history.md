@@ -5405,3 +5405,47 @@ July 12 pipeline contained incorrect winners for Scottish Open (MacIntyre report
 - **Byline:** Jake Torres
 - **Status:** NEW
 - **Follow-up ideas:** Round 1 leaderboard, Korda performance, winner recap
+
+---
+
+## 2026-09-22
+
+### STORY 1: Presidents Cup Preview — 48 Hours Out
+- **Tier:** 1
+- **Category:** Presidents Cup / Medinah / USA / International / Brandt Snedeker
+- **Key facts:** Sept. 24-27 at Medinah CC; USA captain Snedeker; Int'l captain Ogilvy; USA 13-2 all-time; 30 total points; need 15.5 to win; fourballs Day 1 (11:35 AM CDT); foursomes Day 2; fourballs Day 3; 12 singles Day 4; TV NBC/Golf Channel; USA 12-man roster led by Scheffler; Int'l includes Matsuyama/Tom Kim/Min Woo Lee/Adam Scott; pairings announced Wednesday
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Pairings reveal Wednesday, Day 1 fourballs results
+
+### STORY 2: Jackson Koivun — Presidents Cup Debut
+- **Tier:** 1
+- **Category:** Jackson Koivun / Presidents Cup / Team USA / Captain's Pick
+- **Key facts:** 21 years old; turned pro after leaving Auburn University; won 2026 3M Open in 3rd professional start; 25-under 259; defeated Scheffler by 3 shots; set 72-hole tournament scoring record; qualified FedExCup Playoffs in 5th start; named captain's pick Sept. 1 by Snedeker ("gut feeling"); youngest USA since Spieth 2015; 1 of 3 USA players not born when Internationals last won (1998)
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Koivun pairings Wednesday, opening day fourball debut result
+
+### STORY 3: LIV Golf — 21 Days to Oct. 13 Deadline
+- **Tier:** 1
+- **Category:** LIV Golf / Bankruptcy / Player Commitments / BC Partners
+- **Key facts:** Filed Ch. 11 Sept 8; Oct. 13 = 35-day commitment deadline; need 50% player count + 2/3 dollar-value claims; Smith "made my bed"; Rahm + DeChambeau committed; Koepka returned PGA Tour; BC Partners $300M; PIF fully exiting; restructured = majority player-owned; PIF gets 2% revenue 7yr + expansion team right; Rahm owed $100M+ per filings; PGA Tour reinstatement window closed Feb 2, 2026
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Oct. 13 deadline outcome, additional player commitment announcements
+
+### STORY 4: International Team's 28-Year Drought
+- **Tier:** 1
+- **Category:** Presidents Cup / International Team / Geoff Ogilvy / Hideki Matsuyama
+- **Key facts:** Last Int'l win: 1998 Royal Melbourne (20.5-11.5); 12 consecutive losses since; USA 13-2-1 all-time; Int'l 2-13-1; 2026 Int'l squad: Matsuyama (2021 Masters champ), Tom Kim, Min Woo Lee, Adam Scott, Corey Conners, Ryan Fox, Sungjae Im; Ogilvy captain (2006 US Open winner, Australian); Medinah previously hosted 1991/1999/2012 Ryder Cups; Europe's 2012 Ryder Cup comeback from 10-6 down
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Ogilvy pairings strategy, Day 1 International results
+
+### STORY 5: Walmart NW Arkansas Championship Preview
+- **Tier:** 2
+- **Category:** LPGA Tour / Walmart NW Arkansas / Nelly Korda / Solheim Cup
+- **Key facts:** Sept. 25-27 at Pinnacle Country Club, Rogers AR; 20th year at venue; $3M purse; 54-hole stroke play, no cut; 144 players; Korda world No. 1; won 2026 Chevron + 2026 US Women's Open; 17 Solheim Cup players in field; 2026 Solheim: USA lost 13-15 to Europe in Netherlands; Korda went unbeaten in singles, beat Mimi Rhodes 4&2 Sunday; first LPGA event post-Solheim
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Round 1 leaderboard, Korda performance, Solheim players' form check

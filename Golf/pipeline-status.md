@@ -1,11 +1,43 @@
 # Golf Fanrecap — Pipeline Status
 
-## Last Run: 2026-09-21
+## Last Run: 2026-09-22
 
 **Status:** COMPLETE (with known proxy limitations)
 **Niche:** Golf Fanrecap
 **Stories:** 5
 **Articles:** 5
+
+---
+
+## 2026-09-22 Run Log
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research | ✅ Complete | 5 stories — Presidents Cup 48hrs/Medinah, Koivun debut, LIV Golf Oct.13 deadline, International drought 28yrs, Walmart NW Arkansas |
+| Daily Brief | ✅ Complete | 00-daily-brief.md |
+| Research Notes | ✅ Complete | 01-research-notes.md |
+| Story Analysis | ✅ Complete | 02-story-analysis.md |
+| X Posts | ✅ Complete | 03-social-posts-x.md — 10 posts, all ≤280 chars |
+| Facebook Posts | ✅ Complete | 04-social-posts-facebook.md — 5 stories |
+| Image Concepts | ✅ Complete | 05-image-concepts.md |
+| Articles | ✅ Complete | 5 HTML articles |
+| Fact Check | ✅ Complete | 06-fact-check-log.md — 28 claims, all HIGH |
+| Compile Content Data | ✅ Complete | 07-content-data.json — 5 stories, 10 tweets (posting window warnings — known), FB=0 known |
+| Image Manifest | ✅ Complete | 07-image-manifest.md (10 images, status: not_started) |
+| Story History | ✅ Complete | story-history.md updated |
+| Review Dashboard | ✅ Complete | review-dashboard.html — 25 items |
+| Publish Dashboard | ⚠ Partial | Blocked — content-dashboards not in authorized repo |
+| PostPlanner Export | ⚠ Blocked | 0 posts (known parsing issue) |
+| PostPlanner TOBI | ⚠ Blocked | 0 posts (known parsing issue) |
+| WordPress Publish | ❌ Blocked | WP credentials not in environment (proxy policy) |
+| Git Push | ✅ Complete | Committed and pushed to main |
+
+**Stories covered:**
+1. T1 FOLLOW UP: Presidents Cup Preview — 48 Hours to Medinah (Ryan Calloway)
+2. T1 FOLLOW UP: Jackson Koivun — Presidents Cup Debut at 21 (Jake Torres)
+3. T1 FOLLOW UP: LIV Golf — 21 Days to Oct. 13 Restructuring Deadline (Marcus Cole)
+4. T1 FOLLOW UP: International Team's 28-Year Presidents Cup Drought (Ryan Calloway)
+5. T2 FOLLOW UP: Walmart NW Arkansas Championship Preview — Korda + 17 Solheim Players (Jake Torres)
 
 ---
 
