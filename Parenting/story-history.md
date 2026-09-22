@@ -2,6 +2,50 @@
 
 ---
 
+## September 22, 2026
+
+### Story 1: HARPPA Nordi Foldable Toddler Tower Stool Recall — CPSC Recall
+- **Date:** 2026-09-22
+- **Tier:** T1
+- **Pillar:** National Parenting (Product Safety)
+- **Key Facts:** CPSC + HARPPA recall July 30, 2026; ~47,000 units; Model HANS0002; sold Amazon.com and harppababy.com Sept 2023–June 2026 ~$130; collapse/tip-over/entrapment risk; child's torso fits through openings; 3 collapse reports, 2 injuries (scrapes/cuts/bruises), no deaths; stop use immediately; free repair kit (protective nets + stabilizing feet + instructions, free shipping); no return needed; harppababy.com/pages/2026-... or cpsc.gov
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 2: Colorado Springs Cool Science Festival Oct. 3–18
+- **Date:** 2026-09-22
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Colorado Springs Cool Science Festival Oct. 3–18, 2026; 16 days of STEAM events; flagship Carnival Day at UCCS Sat Oct. 3 free (parking free); K–8 focus; rockets, robots, live animals, liquid nitrogen, slime, VR, drones; most events free; Pikes Peak Region–wide; coolscience.org
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 3: D49 POWER Zone All 7 Schools Advance on Marzano HRS Framework
+- **Date:** 2026-09-22
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** All 7 D49 POWER Zone schools advanced one level on Marzano High Reliability Schools framework 2025–2026 school year; recognized at Fantastic 49 Sep 10, 2026; Zone Superintendent Theresa Ritz; schools: Vista Ridge HS, Skyview MS, Inspiration View ES, Falcon Homeschool Program, Ridgeview ES, ALLIES, Odyssey ES; northwest D49; 5-level framework measuring instructional reliability
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 4: America 250 / Colorado 150 at Colorado Springs Pioneers Museum
+- **Date:** 2026-09-22
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Colorado turns 150 in 2026 (statehood); America 250 national celebration; Pioneers Museum hosts "We The People: Colorado at 150" lecture series; next lecture Oct. 17 2026 at 2 PM; 215 S Tejon St; museum free every day; walking history tours "Seeing History in Place" $10/person via Downtown CS; coloradosprings.gov/America250Colorado150
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 5: PRCS Trackchair Program Expands — 2 Hikes Daily at 4 COS Open Spaces
+- **Date:** 2026-09-22
+- **Tier:** T3
+- **Pillar:** Evergreen (Parks and Outdoors)
+- **Key Facts:** PRCS Trackchair Program expanded 2026; 2 guided hikes daily Wed–Sun; 4 locations: Ute Valley Park, Red Rock Canyon Open Space, Blodgett Open Space, Bluestem Prairie Open Space; all-terrain power wheelchairs; guides provided; free; for people with mobility limitations; part of broader 2026 PRCS parks/trails investment; coloradosprings.gov/PRCS
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+---
+
 ## September 20, 2026
 
 ### Story 1: Jerify Magnetic Stick Figure Toys Recalled — CPSC Recall

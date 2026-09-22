@@ -1,6 +1,37 @@
 # COS Parenting — Pipeline Status
 
-## Current Run: 2026-09-20
+## Current Run: 2026-09-22
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | HARPPA Nordi Toddler Tower Stool CPSC recall (47,000 units, HANS0002, July 30 2026, cpsc.gov); Cool Science Festival Oct. 3-18 UCCS Carnival Day Oct. 3 free (coolscience.org); D49 POWER Zone all 7 schools advance on Marzano HRS framework (Fantastic 49 Sep 10); America 250/Colorado 150 Pioneers Museum "We The People" lecture Oct. 17 (coloradosprings.gov/America250Colorado150); PRCS Trackchair Program expanded 2026 (2 hikes daily Wed–Sun, 4 locations, coloradosprings.gov/PRCS) |
+| Story History Check | COMPLETE | All 5 stories NEW — verified against Sep 20 (Jerify recall/PRCS fall sports/Boo at the Zoo/D20 accreditation/Colorado Free Days) and Sep 19 entries; no repeats (HARPPA recall is same product as Sep 13 but today's article uses updated recall details + free repair kit angle) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (1 Tier 1, 3 Tier 2, 1 Tier 3); bylines: Sarah Morales [S1, S4], Jamie Rivera [S2, S3, S5] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: cpsc.gov, harppababy.com, coolscience.org, d49.org, coloradosprings.gov |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows, voice check |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 6 posts across 5 stories; all ≤280 chars (2 overlimit posts fixed); 4 hashtags each; max 1 exclamation mark; COS voice rules applied |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; no hashtags; engagement questions; COS voice rules applied |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 7 Gemini base_only prompts across 5 stories; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 HARPPA recall (Sarah Morales, T1, QR table); article-02 Cool Science Festival (Jamie Rivera, T2, QR table); article-03 D49 POWER Zone (Jamie Rivera, T2, QR table); article-04 America 250/Colorado 150 (Sarah Morales, T2, QR table); article-05 Trackchair Program (Jamie Rivera, T3, QR table) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 68 claims; HIGH/MEDIUM/LOW prioritized; no char-limit violations after fix |
+| Compile Content Data | COMPLETE (partial) | 07-content-data.json — 5 stories, 6 X posts, 0 FB posts, 5 articles (FB 0 is known parser compat issue) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 7 entries across 5 stories, all not_started, gemini base_only, brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 21 items |
+| Publish Dashboard | COMPLETE | Published to fangearhq-boop.github.io/cos-parenting (deploy verification timed out — check manually) |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser compat issue — ran both standard and --tobi |
+| WordPress Publish | BLOCKED | fanrumor.com:443 blocked by egress proxy (known recurring issue) |
+| Story History | COMPLETE | 5 new entries prepended to Parenting/story-history.md (Sep 22 section) |
+
+- **Stories:** 5 stories (1 Tier 1, 3 Tier 2, 1 Tier 3)
+- **Posts:** 6 X posts + 5 FB long-form + 5 FB captions = 16 total
+- **Articles:** 5 (bylines: Sarah Morales [S1, S4], Jamie Rivera [S2, S3, S5])
+- **PostPlanner exports:** 0 posts (known parser compat issue)
+- **Key stories:** HARPPA Nordi Toddler Tower Stool CPSC recall (47,000 units, HANS0002, free repair kit, stop use now); Cool Science Festival Oct. 3-18 (free Carnival Day at UCCS Oct. 3, coolscience.org); D49 POWER Zone all 7 schools advance Marzano HRS framework 2025-26; America 250/Colorado 150 Pioneers Museum Oct. 17 lecture (free, 215 S Tejon); PRCS Trackchair Program expanded (2 hikes daily Wed–Sun, Ute Valley/Red Rock Canyon/Blodgett/Bluestem, free)
+- **Issues:** 2 X posts trimmed for char limit (Story 1 tweets 1 and 2); PostPlanner 0 posts (known); WordPress blocked by proxy; dashboard deploy verification timed out (check manually)
+
+---
+
+## Previous Run: 2026-09-20
 
 | Step | Status | Notes |
 |------|--------|-------|
