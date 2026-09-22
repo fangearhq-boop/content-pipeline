@@ -5,6 +5,55 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-09-22 (SERIES START — vs. Miami Marlins, Home, Wrigley)
+
+### STORY 1: Series Preview — Cubs Host Marlins, Magic Number 1
+- **Angle:** NEW STORY. Cubs (87-69) open 3-game home series vs. Miami Marlins (76-80) at Wrigley Field. First pitch 6:40 PM CT. Magic number = 1. One win tonight = clinched. Series lead tweet reserved per series-start rule.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, series preview + clinch watch)
+- **Follow-Up Opportunities:**
+  - Game 1 result recap (Sept 23 morning)
+  - Clinch announcement if Cubs win tonight
+
+### STORY 2: PCA 40-40 Watch — 45 HR / 38 SB
+- **Angle:** FOLLOW UP. PCA at 45 HR / 38 SB — two steals from joining the 40-40 club. No Cub ever, only six MLB players ever. Six games remain.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, milestone)
+- **Follow-Up Opportunities:**
+  - SB No. 39 milestone update
+  - SB No. 40 — historic announcement when achieved
+
+### STORY 3: Justin Steele Activation — Meeting with Cubs Today
+- **Angle:** FOLLOW UP. Steele met with Cubs today (Sept 22). Final rehab: 2 IP, 5 K, 0 ER (Sept 18 at Iowa). Iowa season ended Sept 20. Expected: activated as multi-inning LHP reliever for stretch run and October.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, roster/activation)
+- **Follow-Up Opportunities:**
+  - Official Steele activation announcement
+  - First MLB appearance back
+
+### STORY 4: WC1 Seeding — 6-1 vs. Phillies = Wrigley Home Field
+- **Angle:** FOLLOW UP. Cubs 6-1 vs. Philadelphia this season — own the WC1 tiebreaker. Clinching WC1 means hosting every Wild Card Series game at Wrigley.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, analysis)
+- **Follow-Up Opportunities:**
+  - WC1 clinch confirmation
+
+### STORY 5: Daniel Palencia October-Ready
+- **Angle:** NEW STORY. Palencia showed 100 mph fastballs + 91 mph sliders in 2 clean innings Sept 19. Late-season surge for Cubs closer timed perfectly for October.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, bold take)
+- **Follow-Up Opportunities:**
+  - Palencia October performance
+
+### STORY 6: Pre-Game Clinch Hype
+- **Angle:** NEW STORY. Magic number 1. Wrigley. 6:40 PM CT. Pre-game urgency tweet.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT, pre-game hype)
+- **Follow-Up Opportunities:**
+  - Game 1 recap
+
+---
+
 ## 2026-09-21 (OFF DAY)
 
 ### STORY 1: Magic Number = 1 — Playoff Clinch Watch

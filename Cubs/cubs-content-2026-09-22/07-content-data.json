@@ -1,0 +1,241 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-22",
+  "compiled_at": "2026-09-22T09:17:27.574867+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Series Preview — Cubs vs Marlins, 3 games at Wrigley, MN=1",
+      "type": "Informative/Series Preview"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "PCA 40-40 Chase — 45 HR / 38 SB",
+      "type": "Milestone/Bold"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "Justin Steele — Meeting today, activation decision",
+      "type": "Informative/Roster"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "WC1 Seeding — 6-1 vs Phillies = Wrigley home field",
+      "type": "Analysis/Bold"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Palencia back — 100 mph, October weapon",
+      "type": "Bold Take"
+    },
+    {
+      "time": "6:30 PM",
+      "description": "Pre-game clinch hype — Magic number 1",
+      "type": "Hype/Urgency"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Series Preview — Cubs host Marlins, magic number 1",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "REQUIRED series-start slot. Cubs (87-69) open 3-game home series vs. Miami Marlins (76-80) tonight at Wrigley. First pitch 6:40 PM CT. Magic number is 1 — one win tonight = clinched. Lead with matchup (series rule), kicker is the magic number.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Cubs vs. Marlins. 3 games at Wrigley. First pitch tonight at 6:40 PM CT.\n\nMiami comes in at 76-80, but this series has one number that matters: the Cubs' magic number is 1.\n\nOne win. Clinched.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative/Series Preview",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Series Preview — Cubs Host Marlins (3-Game Home Series)\n**Key Facts:**\n- Series: Cubs (87-69) vs. Miami Marlins (76-80)\n- Venue: Wrigley Field, Chicago\n- Game 1: Tuesday, September 22 at 6:40 PM CT\n- Game 2: Wednesday, September 23 at 6:40 PM CT (Imanaga vs. Gusto per SportsGrid)\n- Game 3: Thursday, September 24 at 1:20 PM CT\n- Probable pitchers Game 1: TBD for both clubs (series-context.json status: \"Preview\")\n- Magic number entering series: 1 (one win or one D-backs loss)\n- Arizona Diamondbacks: ~4 games back with 6 left, no tiebreaker — effectively eliminated\n- Marlins last beat Cubs in this building: 10-3 on September 6, 2026 (per Bleacher Nation enhanced box score)\n**Sources:**\n- Cubs/_data/series-context.json (HIGH) — game times, records, series structure\n- MLB.com Gameday 824624 (MEDIUM) — preview page confirms game\n- SportsGrid Sep 23 preview (MEDIUM) — Imanaga vs Gusto for Game 2\n- Bleacher Nation Enhanced Box Score Sep 6 (MEDIUM) — prior Marlins 10-3 win",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "PCA 40-40 Watch — 45 HR / 38 SB",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "PCA sits at 45 HR / 38 SB — two stolen bases from 40-40, a feat no Cub has ever achieved and only six MLB players have ever done. Six games remain.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "45 HR. 38 SB. Two stolen bases from the rarest club in baseball.\n\nPete Crow-Armstrong is chasing a 40-40 season — no Cub has ever done it, and only six players in MLB history have.\n\nSix games left. PCA is right there.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Milestone/Bold",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "PCA 40-40 Chase\n**Key Facts:**\n- Current line: 45 HR / 38 SB (after Sept 20 game vs Reds)\n- Needs: 2 more stolen bases for 40-40\n- Games left: 6 (through end of regular season)\n- Historical significance:\n- Would be 7th 40-40 season in MLB history\n- Would be first Cub ever to accomplish 40-40\n- Notable prior 40-40 players: Jose Canseco (1988), Barry Bonds (1996), Alex Rodriguez (1998), Alfonso Soriano (2006), plus more recent names — per Fox Sports framing\n- Last 40-40: Shohei Ohtani (2024, 54 HR / 59 SB)\n- Recent game: PCA hit his 45th HR on Sept 20 — 105.3 exit velocity, 411 ft to right-center\n- Extra context: PCA also passed Billy Williams for most HR in a season by a LH Cub (Williams set record at 42 HR in 1970) — LOW confidence for citation, do not use in tweet without verification\n**Compound claim check**: \"first Cub ever, 7th MLB player\" — requires two-source verification before using as HIGH confidence. Story history cites \"Only 6 players in MLB history have done it; no Cub ever.\" Fox Sports refers to \"the much rarer 40/40.\" MEDIUM confidence — usable but flag in fact-check.\n**Sources:**\n- Cubs story-history.md Sept 21 (MEDIUM — single pipeline origin)\n- Hoodline: hoodline.com/2026/09/cubs-star-pete-crow-armstrong-nears-rare-40-40-feat-after-record-breaking-night/ (MEDIUM)\n- Fox Sports: foxsports.com/stories/mlb/chicago-cubs-pete-crow-armstrong-40-home-runs-40-steals (MEDIUM)\n- Bleacher Nation Sept 20 box score — 45th HR confirmed (MEDIUM)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Justin Steele Activation — Meeting with Cubs today",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Steele's final Iowa rehab: 2 IP, 5 K, 0 ER on Sept 18. Iowa season ended Sept 20. Meeting with Cubs TODAY to determine next steps. Expected role: multi-inning LHP reliever for the stretch run and October.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "2 IP. 5 strikeouts. 0 runs. That was Justin Steele's final Iowa rehab outing on Sept. 18.\n\nHe's meeting with the Cubs today. The expected role: multi-inning LHP reliever down the stretch and into October.\n\nThe bullpen just got deeper.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Informative/Roster",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Justin Steele Activation Decision\n**Key Facts:**\n- Justin Steele (LHP) — on IL with left elbow flexor strain\n- Iowa Cubs season ended Sept 20 — rehab assignment complete\n- Final rehab appearance: Sept 18 at Iowa — 2 IP, 0 ER, 5 K\n- Prior rehab outings: building up from 1.2 IP in first outing\n- TODAY (Sept 22): Meeting with Cubs front office to determine next steps\n- Expected role: Multi-inning LHP reliever for stretch run and October\n- Starting role: Ruled out per Jed Hoyer (\"unrealistic to expect him to start\")\n- Original injury: Left elbow flexor strain (no surgery required)\n- Playoff roster eligibility: Yes — eligible for Wild Card expanded roster\n**Sources:**\n- Cubs story-history.md Sept 21 (HIGH — confirmed meeting date, rehab details)\n- CBS Sports Cubs injury report (MEDIUM)\n- Bleacher Nation Steele watch articles Sept 8, Sept 18 (MEDIUM)\n- MLB.com Jed Hoyer quote (MEDIUM — confirms starter role ruled out)\n- Cubscrib.com: \"Cubs reveal next Justin Steele steps\" (MEDIUM)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "WC1 Seeding — 6-1 vs. Phillies = Wrigley home field",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Cubs went 6-1 vs. Philadelphia in 2026, owning the WC1 tiebreaker. Clinch WC1 = host every Wild Card Series game at Wrigley. It's not just about making October — it's about making everyone come to them.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "6-1 vs. Philadelphia this season. That tiebreaker means if the Cubs clinch WC1, every Wild Card series game is at Wrigley.\n\nIt's not just about making the playoffs — it's about making them come to you.\n\nHome field. Wrigley. October.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Analysis/Bold",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "WC1 Seeding — Wrigley Home Field\n**Key Facts:**\n- Cubs hold WC1 (No. 1 NL Wild Card seed) at 87-69\n- Cubs went 6-1 vs. Philadelphia Phillies in the 2026 regular season\n- Tiebreaker implication: If Cubs and Phillies finish tied, Cubs own WC1 = home field for entire Wild Card Series\n- Wild Card Series is best-of-3 — all games at WC1 team's park if Cubs hold seed\n- Diamondbacks: ~4 GB, 6 games left — not a realistic threat to overtake Cubs\n- NL standings context: Brewers (92-62) won NL Central; WC race is Cubs, Phillies, Padres, etc.\n**Sources:**\n- Cubs story-history.md Sept 21 (HIGH for 6-1 claim origin — from Sept 21 coverage)\n- CBS Sports 2026 playoff picture (MEDIUM)\n- ESPN MLB playoff tracker (MEDIUM)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Palencia October-Ready — 100 mph fastballs are back",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Palencia showed his best stuff in two clean innings on Friday (Sept 19): 100 mph fastballs at the top of the zone, 91 mph sliders. The Cubs' closer is returning to form at exactly the right moment.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "100 mph fastballs, 91 mph sliders, two clean innings Friday.\n\nDaniel Palencia looks like a weapon again. The Cubs' closer returning to form at exactly the right moment is a massive October development.\n\nTiming. Is. Everything.\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Bold Take",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Palencia October-Ready\n**Key Facts:**\n- Daniel Palencia (RHP, Cubs closer)\n- Returned from IL August 21 after right flexor strain\n- Struggled initially after return\n- Sept 19 appearance (vs. Reds): 2 IP, 0 runs, 100 mph fastballs, 91 mph sliders\n- Craig Counsell assessment: \"locating 100mph fastballs at the top of the zone, whiffs on 91mph sliders\" — per Sun-Times\n- Season ERA: 3.88, 139 K for the season (season-long stats reflect rough stretch, not current form)\n- NOW: Late-season surge timing perfectly for October\n**Sources:**\n- Chicago Sun-Times Sept 19 article (MEDIUM — primary detailed account)\n- Bleacher Nation Sept 20 bullets (\"Palencia's Big Night, Bullpen Bonanza\") (MEDIUM)\n- CBS Sports / ESPN (MEDIUM — season stats)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Pre-Game Clinch Hype — Magic number 1, first pitch 6:40 PM CT",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Urgency hype tweet. Magic number 1. Wrigley. Tonight. 6:40 PM CT. One win clinches back-to-back playoff trips.",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Magic number: 1.\n\n87 wins. Marlins at Wrigley. 6:40 PM CT.\n\nThe Cubs are one win from clinching back-to-back playoff trips. Wrigley Field will be LOUD tonight.\n\nLet's get it done.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "Hype/Urgency",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 203
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Pre-Game Clinch Hype (6:30 PM CT)\n**Key Facts:**\n- Cubs magic number: 1 (entering tonight)\n- Wrigley Field capacity: ~41,649\n- September night game at Wrigley — late-season, playoff-push atmosphere\n- First pitch: 6:40 PM CT\n- One win tonight = CLINCHED\n**Sources:**\n- series-context.json (HIGH)\n- Multiple magic number trackers (HIGH)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
