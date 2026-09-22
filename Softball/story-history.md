@@ -58,6 +58,65 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-09-22
+
+### Story 1: Class of 2028 — Landers to Texas, Schlader to OU
+- **Date:** 2026-09-22
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** No. 1 overall prospect Michaela Landers (Waxahachie, TX; .639 BA 25 HR) committed to Texas. Sophia Schlader committed to OU. Both were the top uncommitted names in the class. The elite tier of the 2028 class is now nearly spoken for. Two blockbuster commits in one week closes the elite recruiting race at the top.
+- **Content Produced:** Article (article-01, Jordan Reeves), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Mid-October first full class rankings update with Landers at No. 1
+  - Remaining uncommitted names (Holden, Bennett) — next domino to fall
+  - Landers' impact on Texas 2028 recruiting class depth
+
+### Story 2: Oklahoma Sooners — Day 6 Full-Staff Fall Camp, 8 Days to Game Day
+- **Date:** 2026-09-22
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Day 6 of full-staff fall camp at Love's Field. 8 days until OU's first fall game (Sept. 30 vs. Tarleton State). Wells, Berzon, and Harter continue integrating. Schlader committed to OU this week, adding a top-2028 prospect to a program already building with elite transfers.
+- **Content Produced:** Article (article-02, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Sept. 30 fall opener vs. Tarleton State — first public game look
+  - Wells' power development through fall schedule
+  - Schlader visit to Love's Field in 2027-28
+
+### Story 3: USA WNT — 195-Day Countdown to Redcliffe
+- **Date:** 2026-09-22
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** 195 days until the 2027 WBSC Women's Softball World Cup Finals in Redcliffe, QLD (April 5-11, 2027). All 8 nations confirmed. USA went 5-0 at Group Oklahoma. Brady, Garcia, and the Gasso-led roster are the favorites heading into the LA28 qualifier event.
+- **Content Produced:** Article (article-03, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - USA 2027 national team coaching staff + spring training schedule (early 2027)
+  - April 5-11 Redcliffe Finals bracket results
+  - Brady international profile development
+
+### Story 4: Texas Longhorns — 7 Days to Fall Opener
+- **Date:** 2026-09-22
+- **Tier:** 3
+- **Classification:** FOLLOW UP
+- **Angle:** 7 days until Texas softball opens fall ball vs. Murray State at McCombs Field (Sept. 29, 6 PM CT, free). Torres (.530 BA, 2026 national POY) + Kavan (2x WCWS MOP, only ever). Three-peat bid vs. UCLA 1988-90 + OU 2021-23 for history. Landers committed this week — the future already matches the present.
+- **Content Produced:** Article (article-04, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Sept. 29 opener — first game look at Torres in burnt orange + Torres/Kavan tandem
+  - Three-peat narrative building into regular season
+  - Landers 2028 recruiting pipeline implications
+
+### Story 5: Texas Tech — Glasco Year 2, Week 4 — First Live Action
+- **Date:** 2026-09-22
+- **Tier:** 3
+- **Classification:** FOLLOW UP
+- **Angle:** Week 4 of fall camp at TTU is game week — the first live action for Glasco's seven All-Americans. Beachum (.406 BA, 10 HR, 69 RBI from FSU), Pickering (No. 2 transfer, .384 BA, 50 HR from OU), Heavener (LHP, 13-9, 2.81 ERA, 128 K from LSU) + Terry, Williams, Pannell, Polar. Three weeks of practice; now the score is real.
+- **Content Produced:** Article (article-05, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - TTU fall game results — first public look at the 7-AA lineup competing
+  - Star Gutierrez first-ever TTU 2028 commit watching from a distance
+  - Chemistry solidifying into identity heading into 2027 regular season
+
+---
+
 ## 2026-09-17
 
 ### Story 1: USA WNT — Group Oklahoma Recap: Brady 3 HRs, USA 7-0 China, Redcliffe Ticket Punched

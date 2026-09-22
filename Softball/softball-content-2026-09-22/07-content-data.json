@@ -1,0 +1,312 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-22",
+  "compiled_at": "2026-09-22T10:20:46.823336+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 — Landers + Schlader",
+      "type": "X/Twitter"
+    },
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 — Landers + Schlader",
+      "type": "X/Twitter"
+    },
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 — Landers + Schlader",
+      "type": "Facebook"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 2 — OU Day 6",
+      "type": "X/Twitter"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 2 — OU Day 6",
+      "type": "Facebook"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3 — WNT 195 Days",
+      "type": "X/Twitter"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3 — WNT 195 Days",
+      "type": "Facebook"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 — Texas 7 Days",
+      "type": "X/Twitter"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 — Texas 7 Days",
+      "type": "Facebook"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "Story 5 — TTU Week 4",
+      "type": "X/Twitter"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "Story 5 — TTU Week 4",
+      "type": "Facebook"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Class of 2028 — Landers to Texas, Schlader to OU: Top Names Fall on Day 13",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "No. 1 recruit Michaela Landers is headed to Texas.\n\nThe top prospect in the 2028 class picked the back-to-back champs.\n\nSophia Schlader picked OU. The elite tier of this class is nearly gone. 🥎\n\n#ilovesoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ilovesoftball"
+          ],
+          "char_count": 209
+        },
+        {
+          "label": "Post 2",
+          "text": "Landers to Texas. Schlader to OU. One week.\n\nTwo of the most-watched uncommitted names in the 2028 class - gone. 😤\n\nThe recruiting race at the top is basically over.\n\n#ilovesoftball #Longhorns #Sooners",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ilovesoftball",
+            "#Longhorns",
+            "#Sooners"
+          ],
+          "char_count": 201
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-landers-texas-schlader-ou-class-2028-top-commits.html",
+        "headline": "Landers to Texas, Schlader to OU: The 2028 Class Just Lost Its Two Biggest Names",
+        "word_count": 574
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Class of 2028 — Landers to Texas, Schlader to OU\n\n#### Social Image (1080×1350, 4:5 vertical)\n**Visual Description:** Softball player at bat, intense focus, batting practice setting. Clean stadium background. Evokes elite recruiting energy.\n**Imagn Search Terms:**\n1. \"Michaela Landers Texas Bombers\" (may not be available — try next)\n2. \"Texas softball batting practice\"\n3. \"Oklahoma softball batting practice\"\n4. \"softball infield player\"\n**Text Overlay Copy:**\n- Headline: \"No. 1 Recruit Picks Texas\"\n- Subtitle: \"Schlader Goes to OU — 2028 Class Takes Shape\"\n- Headline color: #FFFFFF\n- Subtitle color: #F4C542\n**Composition Notes:** Action at plate, portrait crop. Logo bar at bottom with I Love Softball branding.\n\n#### Article Hero (1200×630, 1.91:1 landscape)\n**Same search terms as above but crop to landscape for article featured image.**\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Class of 2028 — Landers to Texas, Schlader to OU\n**Classification:** FOLLOW UP (Day 13 of in-person window; Landers was top uncommitted as of Sept. 20)\n**Sources:**\n- On3 Softball, \"2028 Softball Recruiting Notebook: September 21st\" — confirms Landers to Texas, Schlader to OU\n- D1Softball.com, \"D1Futures: 2028 Infielder Michaela Landers Commits to Texas\" — Landers profile and commitment\n- Line Drive Media, \"Breaking News: 2028 MIF Michaela Landers ... Picks the Texas Longhorns (Sept. 18, 2026)\"\n- Yahoo Sports / Austin American-Statesman, Waxahachie Star Michaela Landers commits to Texas\n- PressReader / Austin American-Statesman, \"No. 1 prospect commits to play for Longhorns\" (Sept. 20, 2026)\n**Key Facts (MEDIUM-HIGH confidence):**\n- Michaela Landers: No. 1 overall prospect, Softball America; No. 2 in Line Drive Media HOT 100 — MEDIUM (two sources confirm ranking differs between outlets)\n- Landers: MIF (middle infielder / shortstop) from Waxahachie HS, TX — HIGH (multiple sources)\n- Landers committed Sept. 18, 2026 to Texas — HIGH (dated sources from Line Drive Media Sept. 18)\n- Landers 2026 HS stats: .639 BA, 73 runs, 25 HR, 52 XBH in 41 games — MEDIUM (single source, Yahoo/Statesman)\n- Landers: 25 HR broke Dallas-area HS record (previously 24, Kennedy Bradley, Melissa's HS, 2025) — MEDIUM (single source)\n- Landers: helped U15 USA team win Pan American Championship in Mexico — MEDIUM (single source)\n- Sophia Schlader → OU (previously top uncommitted); pitching prospect — HIGH (On3 Sept 21 notebook)\n- Committed so far (Class 2028): Williams No.1 (OU), Ushery No.2 (Georgia), Donalson (FSU), Saenz (OU), Schlader (OU), Gutierrez (TTU), Galindo+Wilson (Tennessee), Losh+Harris (Florida), Myers (SC), Ridling+Stell (Arizona), Landers (Texas) — HIGH (confirmed across multiple searches)\n- 1,226 EIS nominations record — HIGH (confirmed in prior searches)\n- Top uncommitted remaining: Holden, Bennett — MEDIUM (Bennett assumed uncommitted, confirmed in prior pipeline; Sept 21 notebook mentions Holden still out)\n**Freshness:** Sept. 18-21, 2026 commits. Window opened Sept. 9. Day 13 today (Sept. 22). Mid-October rankings update expected.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Oklahoma Sooners — Day 6 Full-Staff Camp, 8 Days to Sept. 30 Battle Series Opener",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Day 6 of full-staff fall camp at Love's Field. 🥎\n\n8 days until OU's first fall game.\n\nWells, Berzon, and Harter are working together. Schlader just committed. The rebuild is real.\n\n#Sooners",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners"
+          ],
+          "char_count": 189
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-oklahoma-sooners-day6-8-days-fall-opener.html",
+        "headline": "Day 6 With Gasso Back: OU Softball Counts Down 8 Days to First Fall Game",
+        "word_count": 479
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Oklahoma Sooners — Day 6 Full-Staff Camp\n\n#### Social Image (1080×1350, 4:5 vertical)\n**Visual Description:** Sooners player fielding or at bat during practice. Love's Field backdrop or OU uniform visible.\n**Imagn Search Terms:**\n1. \"Kendall Wells Oklahoma\" \n2. \"Sydney Berzon Oklahoma\"\n3. \"Patty Gasso Oklahoma\"\n4. \"Oklahoma Sooners softball\"\n**Text Overlay Copy:**\n- Headline: \"8 Days to Game Day\"\n- Subtitle: \"OU's Full Staff Is Back at Love's Field\"\n- Headline color: #FFFFFF\n- Subtitle color: #F4C542\n**Composition Notes:** Vertical framing with player in motion. OU colors (crimson, cream) in frame.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Oklahoma Sooners — Day 6 Full-Staff Camp\n**Classification:** FOLLOW UP\n**Sources:**\n- SoonerSports.com, \"Softball Announces Fall 2026 Schedule\" (Aug. 24, 2026)\n- Heartland Sports, \"Fall Ball Offers First Look at a Reloaded Oklahoma Softball Roster\" (Aug. 24, 2026)\n- StorminInNorman.com, \"Oklahoma softball unveils first chances to see new-look 2027 roster\"\n- Prior pipeline research (confirmed facts through Sept. 20)\n**Key Facts:**\n- Patty Gasso returned Norman Sept. 16 (after Group Oklahoma concluded) — HIGH (confirmed multiple sessions)\n- Today Sept. 22 = Day 6 full-staff camp since Gasso's return — HIGH (calculation from Sept. 16 return)\n- 8 days to Sept. 30 (first fall game at Love's Field) — HIGH (calendar math)\n- Kendall Wells: 32 HR, NCAA freshman record; sophomore this fall — HIGH (prior pipeline, multiple sources)\n- Sydney Berzon: 2x All-American, 486.1 IP, 2.02 ERA, 406 K at LSU — HIGH (confirmed multiple sessions)\n- Abby Harter: .346 BA at MTSU — HIGH (confirmed multiple sessions)\n- Roster: 12 returners + 9 newcomers = 21 players — HIGH (Heartland Sports)\n- Fall schedule: Battle Series intrasquad Sept. 30, Tarleton State, USAO Oct. 23, Seminole State Oct. 30, East Texas A&M Nov. 4 — HIGH (OU Athletics, Heartland Sports)\n- Sophia Schlader: now committed to OU — HIGH (On3 Sept. 21)\n- JT Gasso and Rocha are assistant coaches — HIGH (confirmed all sessions)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "USA WNT — 195-Day Countdown to Redcliffe 2027 Finals, Eight Nations Set",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "195 days until the 2027 WBSC Softball World Cup Finals. 🌏\n\nEight nations locked in. USA went 5-0 at Group Oklahoma.\n\nApril 5-11. Redcliffe, Australia. LA28 on the line.\n\n#USASoftball #ilovesoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#USASoftball",
+            "#ilovesoftball"
+          ],
+          "char_count": 197
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-usa-wnt-redcliffe-2027-195-days-eight-nations.html",
+        "headline": "195 Days to Redcliffe: Eight Nations Set for the 2027 WBSC Finals",
+        "word_count": 460
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "USA WNT — 195-Day Countdown\n\n#### Social Image (1080×1350, 4:5 vertical)\n**Visual Description:** USA pitcher or batter mid-action in national team uniform. Crowd or stadium backdrop.\n**Imagn Search Terms:**\n1. \"Maya Brady USA softball\"\n2. \"Gabby Garcia USA softball\"\n3. \"USA softball national team\"\n4. \"Jocelyn Alo USA softball\"\n**Text Overlay Copy:**\n- Headline: \"195 Days to Redcliffe\"\n- Subtitle: \"USA Is Ready. Eight Nations. One Crown.\"\n- Headline color: #FFFFFF\n- Subtitle color: #F4C542\n**Composition Notes:** Portrait crop of USA player in action. Flag or uniform must be visible. Bottom text bar.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "USA WNT — 195-Day Countdown to Redcliffe 2027\n**Classification:** FOLLOW UP\n**Sources:**\n- WBSC.org, \"USA, Mexico advance to Finals; China secure Wild Card\" — HIGH\n- Wikipedia, \"2027 Women's Softball World Cup\" — HIGH\n- WBSC.org, \"Head coaches set sights on Finals 2027\" — HIGH\n**Key Facts:**\n- 8 nations: USA, Mexico, China (Wild Card) from Group Oklahoma; + Australia, Canada, Japan, Puerto Rico, Chinese Taipei (pre-qualified) — HIGH\n- Finals location: Redcliffe, QLD, Australia; Talobilla Park, 45 min outside Brisbane — HIGH\n- Finals dates: April 5-11, 2027 — HIGH\n- LA28 Olympic qualifier — HIGH\n- USA record at Group Oklahoma stage: 5-0 — HIGH\n- Brady: 3 HR, 5 RBI vs China final match — HIGH (prior pipeline)\n- Garcia: dominant, 6 K vs China — HIGH (prior pipeline)\n- Gasso, JT Gasso, Rocha on USA coaching staff — HIGH (prior pipeline)\n- 4 OU Sooners on WNT: Brito, Coleman, Jennings, Maxwell — HIGH (prior pipeline)\n- Garcia and Mulipola: Tokyo 2020 silver medalists — HIGH (prior pipeline)\n- 195 days from Sept. 22 to April 5, 2027 (calculated) — HIGH",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Texas Longhorns — 7 Days to Sept. 29 Opener; Landers Commit Boosts Three-Peat Bid",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "7 days until Texas softball takes the field. 🤘\n\nTorres (.530 BA, 2026 national POY) and Kavan (2x WCWS MOP, only ever).\n\nThree-peat bid starts Sept. 29.\n\n#Longhorns",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Longhorns"
+          ],
+          "char_count": 164
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-texas-longhorns-7-days-torres-kavan-landers.html",
+        "headline": "7 Days Out: Torres and Kavan Lead Texas's Three-Peat Bid at McCombs",
+        "word_count": 516
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas Longhorns — 7 Days to Opener\n\n#### Social Image (1080×1350, 4:5 vertical)\n**Visual Description:** Texas player in burnt orange — shortstop fielding or batter at plate. McCombs Field if visible.\n**Imagn Search Terms:**\n1. \"Isa Torres Florida State\" (her FSU imagery is available)\n2. \"Teagan Kavan Texas\"\n3. \"Texas Longhorns softball\"\n4. \"Texas softball McCombs Field\"\n**Text Overlay Copy:**\n- Headline: \"7 Days Away\"\n- Subtitle: \"Torres + Kavan. Three-Peat Bid Starts Sept. 29.\"\n- Headline color: #FFFFFF\n- Subtitle color: #F4C542\n**Composition Notes:** Portrait with player in UT burnt orange. Helmet or \"TEXAS\" jersey branding should be visible.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Texas Longhorns — 7 Days to Sept. 29 Opener\n**Classification:** FOLLOW UP\n**Sources:**\n- Texas Longhorns Athletics, \"Softball announces 2026 fall schedule\" (Aug. 28, 2026)\n- Burnt Orange Nation, \"Texas softball will see six matchups in fall 2026\"\n- SI.com, \"Texas Softball Lands the Biggest Remaining Name in the Transfer Portal\" (Isa Torres)\n- On3, \"Former Florida State star Isa Torres joins Texas\"\n**Key Facts:**\n- Texas: back-to-back WCWS champions (2025-26); 53-12 record in 2026 — HIGH\n- Fall opener: Sept. 29 vs. Murray State at McCombs Field, 6 PM CT, free admission — HIGH\n- Isa Torres: 2026 D1Softball Player of the Year; .530 BA, 16 HR, 56 RBI at FSU; Georgetown TX native — HIGH\n- Kavan (first name Teagan): 2x WCWS MOP; only player ever to win WCWS MOP twice — HIGH\n- Mike White: NFCA National Coaching Staff of Year, 2nd consecutive — HIGH\n- Three-peat would match UCLA 1988-90 and OU 2021-23 as only three-peat champions — HIGH\n- 6 of 9 starters return for 2027 season — MEDIUM (prior pipeline)\n- Michaela Landers: committed to Texas Sept. 18, 2026 — HIGH (confirmed this session)\n- Fall schedule: 5 home games + 1 at Texas A&M (Davis Diamond, Nov. 6) — HIGH\n- Katie Stewart also returning — MEDIUM (SI article mention)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Texas Tech — Glasco Year 2, Week 4 Game Week: Seven All-Americans Enter Fall Action",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Week 4. TTU's seven All-Americans hit their first live fall action. 🔴\n\nBeachum. Pickering. Heavener. Together under Glasco for year two.\n\nLast season they made the WCWS final. Now they want more.\n\n#TexasTech #ilovesoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TexasTech",
+            "#ilovesoftball"
+          ],
+          "char_count": 222
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-ttu-glasco-year2-week4-seven-all-americans.html",
+        "headline": "Glasco's Avengers Hit Week 4: TTU's Seven All-Americans Enter First Live Action",
+        "word_count": 480
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas Tech — Glasco Year 2, Week 4\n\n#### Social Image (1080×1350, 4:5 vertical)\n**Visual Description:** TTU pitcher or hitter in red uniform, game action shot.\n**Imagn Search Terms:**\n1. \"Kat Heavener Texas Tech\"\n2. \"Morgan Pickering Texas Tech\"\n3. \"Olivia Beachum Texas Tech\"\n4. \"Texas Tech Red Raiders softball\"\n**Text Overlay Copy:**\n- Headline: \"Week 4 — Game Week\"\n- Subtitle: \"TTU's Seven All-Americans Hit the Field\"\n- Headline color: #FFFFFF\n- Subtitle color: #F4C542\n**Composition Notes:** Red uniform dominant frame. Pitcher in delivery or batter in stance. Action crop.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Texas Tech — Glasco Year 2, Week 4\n**Classification:** FOLLOW UP\n**Sources:**\n- Texas Tech Athletics, Gerry Glasco media availability (YouTube, 2026)\n- Prior pipeline research (confirmed facts through Sept. 20)\n**Key Facts:**\n- Glasco Year 2 at TTU — HIGH\n- TTU: 2026 WCWS runner-up; fell to Texas in WCWS final — HIGH\n- 7 All-Americans in fall camp together — HIGH (prior pipeline, confirmed multiple sessions)\n- Olivia Beachum (from FSU): .406 BA, 10 HR, 69 RBI; All-ACC 1st Team — HIGH\n- Pickering (No. 2 transfer, from OU): .384 career BA, 50 HR, 169 RBI — HIGH\n- Kat Heavener (LHP, from LSU): 13-9, 2.81 ERA, 128 K — HIGH\n- Other All-Americans: Kassidy Terry, Williams, Pannell, Polar — MEDIUM (named in multiple sessions)\n- Star Gutierrez: first 2028 commit for TTU — HIGH\n- Week 4 of fall camp — HIGH (calendar: week of Sept. 21-27)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
