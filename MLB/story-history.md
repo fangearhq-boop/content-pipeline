@@ -5,6 +5,115 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-09-22
+
+### Story 1: PCA 40-40 Watch — 40 HR, 38 SB, Two Steals From History
+- **Date:** 2026-09-22
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** PCA cleared 40 HR and has 38 SB — two steals from 40-40 (would be 7th ever: Canseco/Bonds/A-Rod/Soriano/Acuña/Ohtani). First Cub ever. Already broke Billy Williams LH Cubs HR record (42, 1970) with two-HR night vs. Atlanta. Cubs 87-69, lead NL Wild Card by 0.5 over Padres. Five games remain.
+- **Content Produced:** Article (article-01, Ryan Calloway), 2 X posts, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Each remaining game: steal countdown (2 needed in 5 games)
+  - Wild Card round PCA performance
+
+### Story 2: NL Wild Card Race — Cubs 87-69, Half Game Lead
+- **Date:** 2026-09-22
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Cubs 87-69 broke three-way tie (Cubs+Phillies+Padres all 85-69 two days ago). Now Cubs lead WC1 by 0.5 over Padres (86-69), 1.0 over Phillies (86-70). Cubs caught a break when Phillies and Padres both lost Monday. Padres won 11 of last 12. Wild Card Sept 29. Five games left.
+- **Content Produced:** Article (article-02, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Daily standings updates
+  - Wild Card seeding and bracket implications
+
+### Story 3: Aaron Judge — Still on IL, No Timetable, Targeting Postseason
+- **Date:** 2026-09-22
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Judge on 10-day IL retroactive Sept 17 (right soleus calf strain). No confirmed return date. Boone: "wouldn't place a timeline." Judge: "I'd like to be back by the postseason." Second IL stint of 2026 (first: 99-day rib fracture, returned Sept 8). Yankees clinched, managing him for October.
+- **Content Produced:** Article (article-03, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Judge activation date before Wild Card
+  - Yankees postseason path with/without Judge
+
+### Story 4: Misiorowski at Wrigley — 247 K, Chasing Sheets' Brewers Record
+- **Date:** 2026-09-22
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Misiorowski pitched vs. Baltimore Sept 20 (Brewers won 3-0), now at 247 K. Needs 17 more to break Ben Sheets' Brewers franchise record 264 K (2004). ERA 1.95, record 20-8. Start at Wrigley Field vs. Cubs confirmed. Unanimous Cy Young: 32 first-place votes, 160 points (MLB panel).
+- **Content Produced:** Article (article-04, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - K count from Wrigley start
+  - Record chase in final regular-season starts
+  - Postseason first-round performance
+
+### Story 5: Yordan Alvarez Triple Crown — Five Games, Two HR, Three RBI
+- **Date:** 2026-09-22
+- **Tier:** 3
+- **Classification:** FOLLOW UP
+- **Angle:** Alvarez .310 BA leads AL. 39 HR trails Caminero (TB) by 2. ~98 RBI trails Alonso (BAL) by ~3. Production cooled since approximately August. Five games to close both gaps. Last AL TC: Cabrera 2012. Math is hard. Not dead.
+- **Content Produced:** Article (article-05, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Daily stat tracking vs. Caminero (HR) and Alonso (RBI)
+  - Astros postseason
+
+---
+
+## 2026-09-20
+
+### Story 1: PCA 40-40 Watch — 47 HR, 37 SB, Three Steals From History
+- **Date:** 2026-09-20
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** PCA at 47 HR/37 SB — 3 steals from joining 40-40 club (7th ever: Canseco/Bonds/A-Rod/Soriano/Acuña/Ohtani). Would be first Cub ever. Already broke Billy Williams LH Cubs HR record (42, 1970). Cubs 85-69 tied WC1 with Phillies+Padres. Seven games remain.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Each remaining game: steal countdown
+  - Wild Card round PCA performance
+
+### Story 2: NL Wild Card Three-Way Tie — Cubs+Phillies+Padres 85-69
+- **Date:** 2026-09-20
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Cubs (85-69), Phillies (85-69), Padres (85-69) all tied for three NL Wild Card spots. Cubs own tiebreaker. Brewers NL Central bye. Dodgers NL West bye. Braves NL East bye. Wild Card Sept 29. Seven games left.
+- **Content Produced:** Article (article-02, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Daily standings updates through Sept 28
+  - Wild Card bracket seeding
+
+### Story 3: Misiorowski — 1.89 ERA, 243 K, Cy Young All But Locked
+- **Date:** 2026-09-20
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Misiorowski 1.89 ERA MLB-best/~243 K MLB-best. Cy Young -700. First pitcher 1,000 pitches 100+mph tracking era. ~21 K from Ben Sheets Brewers record 264K (2004). Brewers 4th straight NL Central.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Sheets K record in final starts
+  - Postseason performance
+
+### Story 4: Aaron Judge — 10-Day IL, Right Calf, No Timetable
+- **Date:** 2026-09-20
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Judge on 10-day IL retroactive Sept 17, right soleus calf strain. Returned Sept 8 from 99-day rib IL, played 7 games, back on IL. Boone: no timetable. Yankees clinched 61st postseason. Targeting October.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Return timeline before Wild Card
+  - Yankees postseason without Judge
+
+### Story 5: Alvarez Triple Crown — Math Hard, Seven Games Left
+- **Date:** 2026-09-20
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** .311 BA leads AL. 38 HR trails Caminero ~40-41. ~99 RBI trails Alonso ~102. Cold since Aug 2 (3HR/~13RBI in 35+ games). TC math hard. Cabrera 2012 last AL TC.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Daily stat watch vs. Caminero and Alonso
+  - Astros postseason
+
+---
+
 ## 2026-09-19
 
 ### Story 1: PCA 40-40 Chase — 47 HR, 37 SB, Cubs Win 5-4 vs. Reds

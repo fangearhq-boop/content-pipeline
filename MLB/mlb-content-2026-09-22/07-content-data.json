@@ -1,0 +1,201 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-22",
+  "compiled_at": "2026-09-22T10:29:39.791222+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "PCA 40-40 Watch",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Pete Crow-Armstrong has 40 home runs and 38 stolen bases.\n\nHe needs 2 steals in 5 games to join Canseco, Bonds, A-Rod, Soriano, Acuña, and Ohtani in the 40-40 club.\n\nNo Cub has ever done it. The window is open. ⚾\n\n#Cubs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 219
+        },
+        {
+          "label": "Post 2",
+          "text": "PCA is 2 stolen bases away from 40-40.\n\nThe Cubs are 87-69 and hold the NL Wild Card lead with 5 games left.\n\nHe's going for history and a postseason berth at the same time. 😤\n\n#Cubs #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB"
+          ],
+          "char_count": 187
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-01-pca-40-40-watch-cubs-history.html",
+        "headline": "2 Away: PCA Needs 2 Stolen Bases in 5 Games to Make History",
+        "word_count": 477
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "NL Wild Card Race",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Cubs 87-69. Padres 86-69. Phillies 86-70.\n\nThe three-way tie broke yesterday. Chicago leads by a half game.\n\nWild Card starts Sept. 29. Every game matters. ⚾\n\n#MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 163
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-02-nl-wildcard-race-cubs-padres-phillies.html",
+        "headline": "Cubs 87-69: The Three-Way Tie Broke. The Race Didn't.",
+        "word_count": 453
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Aaron Judge Injury",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Aaron Judge has no timetable for returning from his calf strain.\n\n\"I'd like to be back by the postseason. That's definitely the plan.\"\n\nSecond IL stint of 2026. The Yankees are waiting. 🙏\n\n#Yankees #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#MLB"
+          ],
+          "char_count": 202
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-03-aaron-judge-il-yankees-postseason.html",
+        "headline": "Aaron Judge Is Targeting October. The Calendar Isn't Cooperating.",
+        "word_count": 474
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Misiorowski Cy Young and K Record",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Jakob Misiorowski has 247 strikeouts.\n\nHe needs 17 more to break Ben Sheets' Brewers single-season record of 264 (2004).\n\nTonight he faces the Cubs at Wrigley. The stage doesn't get bigger. ⚾\n\n#Brewers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#MLB"
+          ],
+          "char_count": 206
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-04-misiorowski-cy-young-sheets-record-wrigley.html",
+        "headline": "Misiorowski at Wrigley: The Cy Young Is Decided. The K Record Isn't.",
+        "word_count": 504
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Yordan Alvarez Triple Crown",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Yordan Alvarez leads the AL in batting average (.310).\n\nHe trails Caminero by 2 HR (39 vs. 41) and Alonso by ~3 RBI.\n\n5 games left. The last AL Triple Crown was 2012. The math is hard. It's not dead. ⚾\n\n#Astros #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Astros",
+            "#MLB"
+          ],
+          "char_count": 215
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-05-yordan-alvarez-triple-crown-math.html",
+        "headline": "Yordan Alvarez's Triple Crown Math: Five Games, Two Homers, Three RBI",
+        "word_count": 511
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No Facebook posts found",
+      "Story 1: No posting window specified",
+      "Story 2: No Facebook posts found",
+      "Story 2: No posting window specified",
+      "Story 3: No Facebook posts found",
+      "Story 3: No posting window specified",
+      "Story 4: No Facebook posts found",
+      "Story 4: No posting window specified",
+      "Story 5: No Facebook posts found",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
