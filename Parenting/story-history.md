@@ -2,6 +2,50 @@
 
 ---
 
+## September 23, 2026
+
+### Story 1: CPSC Warns: Stop Using Jocoevol 6-Drawer Dressers — Tip-Over and Child Entrapment Hazard
+- **Date:** 2026-09-23
+- **Tier:** T1
+- **Pillar:** National Parenting (Product Safety)
+- **Key Facts:** CPSC warning Sep 17, 2026; Jocoevol 6-Drawer Dressers; sold Amazon.com Dec 2024–Jun 2026 ~$160; violates mandatory federal standard for clothing storage units; tip-over and child entrapment risk; no formal recall, no refund program; stop use immediately; anchor to wall stud OR dispose per local rules; free anchoring resources at AnchorIt.gov; related 2026 Amazon dresser violations: Furnulem, FJTJBSI, YITA, Fixwal
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 2: Liberty Lancers Car Show — D20 CTE Auto Show September 26
+- **Date:** 2026-09-23
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Liberty Lancers Car Show; Sat Sep 26, 2026; 10 AM–2 PM (vehicle entry 8:30–10 AM); Liberty High School, 8720 Scarborough Dr, COS; free for spectators; vehicle entry $5 students / $10 non-students (cash only); car competition, food trucks, demolition demo, CO State Patrol modified Mustang, prizes from industry partners; D20 Automotive Service Technology CTE program
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 3: Colorado Springs FamilyFest — October 10 at 4845 List Dr
+- **Date:** 2026-09-23
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Colorado Springs FamilyFest; Sat Oct 10, 2026; 12 PM–5 PM; 4845 List Dr, COS; kids 12 & under free; family vendors, family resources, kids activities, prize drawings; organizer: The Expo Pros; theexpopros.com
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 4: Free Family Fun Festival — October 17 at Family Worship Center COS
+- **Date:** 2026-09-23
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Family Fun Festival; Sat Oct 17, 2026; 12 PM–4 PM; Family Worship Center, Colorado Springs; free, all ages; games, food, bounce houses, escape rooms, cultural activities; Eventbrite listing confirms free admission
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 5: D11 Open Enrollment Deadline — October 1 for Current Students
+- **Date:** 2026-09-23
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** Colorado Springs School District 11 (D11); open enrollment applications for current D11 students due October 1, 2026; new-to-district families can apply year-round; apply at d11.org; transportation to choice school generally family's responsibility; specialty programs may have additional requirements (auditions, assessments); seats based on availability
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+---
+
 ## September 22, 2026
 
 ### Story 1: HARPPA Nordi Foldable Toddler Tower Stool Recall — CPSC Recall

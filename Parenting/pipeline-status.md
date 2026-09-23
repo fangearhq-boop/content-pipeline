@@ -1,6 +1,37 @@
 # COS Parenting — Pipeline Status
 
-## Current Run: 2026-09-22
+## Current Run: 2026-09-23
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Jocoevol 6-Drawer Dresser CPSC warning Sep 17 2026 (cpsc.gov, Amazon Dec 2024–Jun 2026 ~$160, tip-over/entrapment, no refund, anchor/dispose, AnchorIt.gov); Liberty Lancers Car Show Sep 26 (liberty.asd20.org, 8720 Scarborough Dr, free spectators, $5/$10 car entry cash only); Colorado Springs FamilyFest Oct 10 (theexpopros.com, 4845 List Dr, kids 12 & under free); Family Fun Festival Oct 17 (eventbrite.com, Family Worship Center COS, free all ages); D11 Open Enrollment deadline Oct 1 for current students (d11.org, year-round for new families) |
+| Story History Check | COMPLETE | SHEIN recall (S1 original) identified as DUPLICATE of Sep 19 S2 — removed; all 5 final stories NEW; Jocoevol promoted to T1 S1; D11 enrollment added as new S5 |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (1 Tier 1, 4 Tier 2); bylines: Sarah Morales [S1, S3, S4], Jamie Rivera [S2, S5] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: cpsc.gov, liberty.asd20.org, theexpopros.com, eventbrite.com, d11.org |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows, voice check |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 6 posts across 5 stories; all ≤280 chars (2 overlimit posts fixed); 4 hashtags each; max 1 exclamation mark; COS voice rules applied |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; no hashtags; engagement questions; COS voice rules applied |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 6 Gemini base_only prompts across 5 stories; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 Jocoevol dresser warning (Sarah Morales, T1, QR table); article-02 Liberty HS CTE auto show (Jamie Rivera, T2, QR table); article-03 FamilyFest Oct 10 (Sarah Morales, T2, QR table); article-04 Family Fun Festival Oct 17 (Sarah Morales, T2, QR table); article-05 D11 enrollment deadline (Jamie Rivera, T2, QR table) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 68 claims; HIGH/MEDIUM/LOW prioritized; no char-limit violations after fix |
+| Compile Content Data | COMPLETE (partial) | 07-content-data.json — 5 stories, 6 X posts, 5 FB posts, 5 articles |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 6 entries across 5 stories, all not_started, gemini base_only, brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 26 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser compat issue — ran both standard and --tobi |
+| WordPress Publish | BLOCKED | fanrumor.com:443 blocked by egress proxy (known recurring issue) |
+| Story History | COMPLETE | 5 new entries prepended to Parenting/story-history.md (Sep 23 section) |
+
+- **Stories:** 5 stories (1 Tier 1, 4 Tier 2)
+- **Posts:** 6 X posts + 5 FB long-form + 5 FB captions = 16 total
+- **Articles:** 5 (bylines: Sarah Morales [S1, S3, S4], Jamie Rivera [S2, S5])
+- **PostPlanner exports:** 0 posts (known parser compat issue)
+- **Key stories:** Jocoevol 6-Drawer Dresser CPSC warning (tip-over/entrapment, Amazon, no refund, anchor/dispose, AnchorIt.gov); Liberty Lancers Car Show Sep 26 (D20 CTE, free spectators, 8720 Scarborough Dr); Colorado Springs FamilyFest Oct 10 (4845 List Dr, kids 12 & under free, The Expo Pros); Family Fun Festival Oct 17 (Family Worship Center COS, free all ages); D11 open enrollment deadline Oct 1 for current students (year-round for new families, d11.org)
+- **Issues:** SHEIN recall duplicate removed from original run; Jocoevol promoted to T1 S1; 2 X posts trimmed for char limit; PostPlanner 0 posts (known); WordPress blocked by proxy; dashboard deploy blocked by proxy
+
+---
+
+## Previous Run: 2026-09-22
 
 | Step | Status | Notes |
 |------|--------|-------|
