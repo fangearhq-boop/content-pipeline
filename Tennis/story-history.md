@@ -2,6 +2,14 @@
 
 Track previously covered stories to avoid repetition and maintain content freshness.
 
+## September 23, 2026
+
+| 2026-09-23 | Laver Cup 2026 — 2 days out final countdown. Sep 25-27 The O2 London. Europe (Noah): Alcaraz, Zverev, Ruud, Menšík, Cobolli, Jódar; alt. Arthur Fery. World (Agassi): Fritz, de Minaur, Bublik, Tien, Cerúndolo, Nakashima. Europe leads all-time 8-1; Team World defending (15-9 SF 2025). Day 1: 1 PM and 7 PM local. Sources: lavercup.com, atptour.com, skysports.com. | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (Sep 22 S1: 3 days → 2 days, final preview) |
+| 2026-09-23 | Sinner may skip Asian swing — Vienna return floated. Pescosolido (Tuttosport): "He wants to avoid relapses." World No. 1 possibly bypassing China Open title defense and entire Asian swing; returning in Vienna (Oct 26) instead. Still on entry list; no official withdrawal. ATP Finals spot secured (No. 2 Race, 7,950 pts). Sources: tenniswatcher.com, essentiallysports.com, yahoo sports, tennisuptodate.com, tennis365.com. | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (Sep 22 S4: targeting China Open → potential skip, escalation) |
+| 2026-09-23 | WTA Singapore Open R2 — Andreeva advances. Top seed Mirra Andreeva (RG champ, No. 5) def. Sasnovich 7-5, 6-0, into QF. Oliynykova def. Chwalińska 6-0, 6-1. Mertens vs. Krejcikova scheduled. WTA 500 indoor hard OCBC Arena, 28-player draw. Sources: wtatennis.com, flashscore.com, khelnow.com. | T2 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Sep 22 S3: draw/preview → R2 results underway) |
+| 2026-09-23 | ATP Hangzhou Open Day 1. ATP 250, hard court, Sep 23-29, $1,039,090. Seeds: Medvedev (1), Rublev (2), Etcheverry (3), Halys (4). Medvedev has bye, faces Royer/Walton R2. Top 10 absent (Laver Cup). Sources: atptour.com, tennisuptodate.com, crushrushnews.com. | T2 | X, FB, Article | Elena Voss; NEW STORY |
+| 2026-09-23 | ATP Chengdu Open Day 1. ATP 250, hard court, Sep 23-29. Vacherot top seed; defending champion Tabilo; home hero Shang Juncheng; Shapovalov, Davidovich Fokina; 17yo Kouame (Next Gen Accelerator WC). Main draw 1 PM local. Sources: atptour.com, wikipedia.org. | T2 | X, FB, Article | Marcus Cole; NEW STORY |
+
 ## September 22, 2026
 
 | 2026-09-22 | Laver Cup 2026 preview — 3 days out. Sep 25-27 The O2 London. Team Europe (Noah): Alcaraz, Zverev, Ruud, Mensik, Cobolli, Jodar. Team World (Agassi): Fritz, de Minaur, Bublik, Tien, Cerundolo, Nakashima. Team World defending champs (15-9, San Francisco 2025); Europe leads all-time 8-1. Day 1 sessions at 1 PM and 7 PM local. Sources: lavercup.com, atptour.com, sports.yahoo.com, wikipedia.org. | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (Sep 20 S5: 5 days out → 3 days, full preview) |

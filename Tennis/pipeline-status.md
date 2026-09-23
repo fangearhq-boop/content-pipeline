@@ -1,6 +1,37 @@
 # Tennis Fanrecap — Pipeline Status
 
-## Current Run: 2026-09-22
+## Current Run: 2026-09-23
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Laver Cup 2 days out (lavercup.com/atptour/skysports/tntsports); Sinner Asia skip floated (tenniswatcher/essentiallysports/yahoo/tennisuptodate/tennis365); Singapore Open R2 Andreeva def. Sasnovich 7-5 6-0 (wtatennis/flashscore/khelnow); Hangzhou Open Day 1 Medvedev tops field (atptour/tennisuptodate/crushrushnews); Chengdu Open Day 1 Vacherot leads, Shang/Tabilo/Kouame (atptour) |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Sep 22 S1: 3 days → 2 days, final preview); S2 FOLLOW-UP (Sep 22 S4: targeting China Open → major escalation, potential Asia skip); S3 FOLLOW-UP (Sep 22 S3: draw/preview → R2 results underway); S4 NEW (Hangzhou Day 1); S5 NEW (Chengdu Day 1) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: lavercup.com, atptour.com, skysports.com, tntsports.co.uk, wikipedia.org, tenniswatcher.com, essentiallysports.com, yahoo sports, tennisuptodate.com, tennis365.com, wtatennis.com, flashscore.com, khelnow.com, crushrushnews.com |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories; S2 tweet #1 trimmed from 295→~220 chars; all ≤280 chars verified |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 9 imagn concepts across 5 stories |
+| Articles (5) | COMPLETE | article-01 Laver Cup countdown (Elena Voss T1); article-02 Sinner Asia skip (Marcus Cole T1); article-03 Singapore R2 Andreeva (Ryan Calloway T2); article-04 Hangzhou Day 1 (Elena Voss T2); article-05 Chengdu Day 1 (Marcus Cole T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — auto-generated; 25 claims; image manifest warnings cosmetic (imagn, known) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts, 5 articles; posting-window warnings cosmetic (known) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 5 entries, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser issue — same as all prior runs |
+| WordPress Publish | BLOCKED | 403 proxy — fanrumor.com blocked (known recurring issue) |
+| Story History | COMPLETE | 5 entries prepended to Tennis/story-history.md (Sep 23 section) |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
+- **PostPlanner exports:** 0 posts (known parser compat issue)
+- **Key stories:** Laver Cup 2026 — 2 days to The O2 London (Europe/Zverev/Alcaraz vs World/Fritz/de Minaur; Team World defending champs, Europe leads 8-1); Sinner Asia skip bombshell — Pescosolido/Tuttosport: "wants to avoid relapses," may skip entire Asian swing incl. China Open title defense, return Vienna Oct 26 instead; Singapore Open WTA 500 R2 — Andreeva def. Sasnovich 7-5 6-0 into QF; Hangzhou Open Day 1 — Medvedev (No. 1 seed) with bye, top 10 absent; Chengdu Open Day 1 — Vacherot tops draw, Tabilo defending, Shang home crowd, 17yo Kouame NextGen WC
+- **Issues:** S2 tweet #1 trimmed (295→~220 chars); PostPlanner 0 posts (known); WordPress blocked by proxy; dashboard push blocked (not in session authorized repos)
+
+---
+
+## Previous Run: 2026-09-22
 
 | Step | Status | Notes |
 |------|--------|-------|
