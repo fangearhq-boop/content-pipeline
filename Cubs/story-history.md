@@ -5,6 +5,54 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-09-23 (MID-SERIES — vs. Miami Marlins, Home, Wrigley, Game 2 of 2)
+
+### STORY 1: Clinch Watch — Cubs Lost 8-2, Magic Number Stays at 1
+- **Angle:** FOLLOW UP. Marlins won Game 1 at Wrigley 8-2 on Sept 22. Magic number remains 1 entering tonight (Game 2, 6:40 PM CT). Shota Imanaga starts. One win (or D-backs loss) clinches back-to-back postseason trips.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, clinch watch/overnight recap)
+- **Follow-Up Opportunities:**
+  - Game 2 result recap (Sept 24 morning)
+  - Clinch announcement if Cubs win tonight
+
+### STORY 2: PCA 40-40 Watch — 45 HR / 39 SB
+- **Angle:** FOLLOW UP. PCA now at 45 HR / 39 SB — one steal from joining the 40-40 club. Only six MLB players ever, no Cub ever. Updated from yesterday's 38 SBs after SB on Sept 20 vs Reds.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, milestone)
+- **Follow-Up Opportunities:**
+  - SB No. 40 — historic announcement when achieved
+
+### STORY 3: Shota Imanaga Starts Tonight — Potential Clinching Game
+- **Angle:** NEW STORY. Imanaga (11-10, 3.80 ERA) starts tonight in a potential Cubs clinching game. Multi-start bounce-back entering tonight. Counsell handed him the assignment.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, preview/stat breakdown)
+- **Follow-Up Opportunities:**
+  - Imanaga performance recap
+
+### STORY 4: Alex Bregman — Multiple Facial Fractures, Won't Miss Playoffs
+- **Angle:** NEW STORY. Bregman sustained multiple facial fractures from a foul ball to the face Sept 20 (vs Reds, on-deck circle). No surgery. Won't go on IL. Targeting return this weekend. Counsell: "He's planning on playing." Playoff availability not in doubt.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, injury update)
+- **Follow-Up Opportunities:**
+  - Bregman return date confirmation
+  - First game back
+
+### STORY 5: Seiya Suzuki — 2026 Season Debut, October Roster Depth
+- **Angle:** NEW STORY. Suzuki made his 2026 season debut on Sept 19 after missing five months with a PCL sprain (suffered at WBC). Went 1-for-3 vs Pirates. Counsell managing workload carefully. A healthy Suzuki deepens the October roster.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, roster update)
+- **Follow-Up Opportunities:**
+  - Suzuki's role in NLDS/playoffs
+
+### STORY 6: Pre-Game Clinch Hype — Game 2 vs Marlins, 6:40 PM CT
+- **Angle:** FOLLOW UP. Pre-game urgency tweet. Cubs 87-70. Magic number 1. Imanaga on the mound. Wrigley. 6:40 PM CT.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT, pre-game hype)
+- **Follow-Up Opportunities:**
+  - Game 2 clinch result
+
+---
+
 ## 2026-09-22 (SERIES START — vs. Miami Marlins, Home, Wrigley)
 
 ### STORY 1: Series Preview — Cubs Host Marlins, Magic Number 1
