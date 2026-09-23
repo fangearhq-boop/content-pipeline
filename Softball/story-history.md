@@ -2587,3 +2587,57 @@ _This file tracks every story covered, the angle used, content produced, and fol
   - Nebraska vs OSU fall exhibition results
   - Duke fall camp updates
   - TAMU 2028 class development
+
+---
+
+## Pipeline Run: 2026-09-23
+
+### Story 1: USA Softball Goes 5-0 at WBSC World Cup in OKC — Brisbane Bound
+- **Date:** 2026-09-23
+- **Tier:** 1
+- **Classification:** NEW
+- **Angle:** Team USA perfect 5-0 at WBSC Women's Softball World Cup Group C Stage in OKC (Sept 12-16). Run-ruled multiple opponents. USA and Mexico advance to 2027 Finals in Brisbane (April 5-11). China secures Wild Card. Four Oklahoma players (Brito, Coleman, Jennings, Maxwell) on USA roster.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - 2027 Brisbane Finals prep/roster announcements
+  - LA28 Olympic qualification storylines
+
+### Story 2: Texas Longhorns Open Fall Ball Sept. 29 — Back-to-Back Champs Return
+- **Date:** 2026-09-23
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Texas tracked; fall opener Sept 29)
+- **Angle:** Defending back-to-back WCWS champs (53-12 in 2026, swept Texas Tech June 3-4) open fall play Tuesday Sept 29 at McCombs Field vs Murray State, 6 PM CT, FREE. Three-peat narrative underway.
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Fall opener result Sept 29
+  - Three-peat national storyline development
+
+### Story 3: Oklahoma Sooners Fall Slate Opens Sept. 30 at Love's Field
+- **Date:** 2026-09-23
+- **Tier:** 2
+- **Classification:** FOLLOW UP (OU fall camp tracked; now schedule confirmed)
+- **Angle:** After missing WCWS in 2026, Gasso's Sooners open fall slate Sept 30 vs Tarleton State at Love's Field. Eight FREE fall games through Nov 4. New-look 2027 roster. Redemption narrative.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Fall game results
+  - 2027 roster development updates
+
+### Story 4: Tennessee Opens Fall Ball Sept. 25 — Mardjetko-Nuwer Duo Returns
+- **Date:** 2026-09-23
+- **Tier:** 2
+- **Classification:** NEW
+- **Angle:** Tennessee (4 WCWS semis in 5 years) opens fall play Thursday Sept 25 vs Walters State at Sherri Parker Lee Stadium, FREE. Mardjetko (16-3, 1.26 ERA, 171K, NFCA 1st Team AA) and Nuwer back; combined 31W 8SHO in 2026.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Tennessee fall game results
+  - 2027 season preview as schedule announced
+
+### Story 5: Class of 2028 Recruiting Heats Up — Multiple Power-Five Commits in September
+- **Date:** 2026-09-23
+- **Tier:** 3
+- **Classification:** FOLLOW UP (2028 recruiting ongoing)
+- **Angle:** September 1 opens contact period. Key commits: Landers→Texas, Ushery (5-star OF)→Georgia, McCartney+Ryan→Oklahoma, Keefer (4-star)→Texas Tech, Myers (4-star C)→South Carolina. LSU leads 2027 class (96.2 score).
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Updated 2028 class rankings as more commits announced
+  - Individual program recruiting profiles
