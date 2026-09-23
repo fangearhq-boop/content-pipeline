@@ -5449,3 +5449,53 @@ July 12 pipeline contained incorrect winners for Scottish Open (MacIntyre report
 - **Byline:** Jake Torres
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Round 1 leaderboard, Korda performance, Solheim players' form check
+
+## 2026-09-23
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-23 | T1 | Presidents Cup Day 1 Eve — Opening Ceremony Tomorrow at Medinah | X(2), FB, Article | FOLLOW UP |
+| 2026-09-23 | T1 | PGA Tour Slams the Door — LIV Players Have No Easy Path Back, 20 Days Left | X(2), FB, Article | FOLLOW UP |
+| 2026-09-23 | T1 | International Team's Last Stand — 28 Years Without a Win, Starting Tomorrow | X(2), FB, Article | FOLLOW UP |
+| 2026-09-23 | T2 | Rahm, DeChambeau, Smith Rejected the PGA Tour's Offer — Now What? | X(1), FB, Article | NEW |
+| 2026-09-23 | T2 | Walmart NW Arkansas Championship Preview — Korda and the Solheim Returnees | X(1), FB, Article | FOLLOW UP |
+
+### STORY 1: Presidents Cup Day 1 Eve — Opening Ceremony Tomorrow at Medinah
+- **Tier:** 1
+- **Category:** Presidents Cup / Medinah Country Club / USA / International / Brandt Snedeker / Geoff Ogilvy
+- **Key facts:** Opens Sept. 24 Medinah CC; Opening Ceremony 11:05 AM CDT; 5 fourball matches begin 11:35 AM; Snedeker (US) vs Ogilvy (International); USA 13-2 all-time; International seeks to end 28-year drought (last win 1998 Royal Melbourne 20.5-11.5); 12 consecutive Int'l losses; Medinah hosted 2012 Ryder Cup Europe comeback from 10-6 down
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Day 1 match results, pairings announced, full week recap
+
+### STORY 2: PGA Tour Slams the Door — LIV Players Have No Easy Path Back
+- **Tier:** 1
+- **Category:** LIV Golf / PGA Tour / Bankruptcy / Jon Rahm / Brian Rolapp / Oct. 13 Deadline
+- **Key facts:** PGA Tour CEO Rolapp confirmed Sept. 17 "not currently contemplating a returning member programme"; Jan. 2026 window closed; Koepka only taker ($5M charity + 5yr equity forfeiture); Oct. 13 LIV restructuring deadline 20 days away; LIV Ch. 11 with up to $1B liabilities; Rahm/DeChambeau/Smith declined January offer
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Oct. 13 hearing outcome, player decisions, LIV status post-deadline
+
+### STORY 3: International Team's Last Stand — 28 Years Without a Win
+- **Tier:** 1
+- **Category:** Presidents Cup / International Team / Geoff Ogilvy / Hideki Matsuyama / Tom Kim
+- **Key facts:** Last win 1998 Royal Melbourne (20.5-11.5); 12 consecutive losses; 2026 squad: Matsuyama (2021 Masters), Tom Kim, Min Woo Lee, Adam Scott, Corey Conners, Sungjae Im, Ryan Fox; Ogilvy (2006 US Open) as captain; Medinah = site of 2012 Ryder Cup Europe comeback
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Day 1 fourball results, International team performance, scoreboard updates
+
+### STORY 4: Rahm, DeChambeau, Smith Rejected the PGA Tour's Offer — Now What?
+- **Tier:** 2
+- **Category:** LIV Golf / Jon Rahm / Bryson DeChambeau / Cameron Smith / PGA Tour / Brooks Koepka
+- **Key facts:** Jan. 2026 window for Major/Players winners 2022-2025; Koepka only taker ($5M charity, 5yr equity); Rahm eligible (2023 Masters, 2023 US Open); DeChambeau eligible (2024 US Open); Smith eligible (2022 The Players); PGA Tour door now closed; Oct. 13 deadline 20 days
+- **Byline:** Marcus Cole
+- **Status:** NEW
+- **Follow-up ideas:** Oct. 13 outcome, player public statements, DP World Tour pathway
+
+### STORY 5: Walmart NW Arkansas Championship Preview — Korda and the Solheim Returnees
+- **Tier:** 2
+- **Category:** LPGA Tour / Walmart NW Arkansas Championship / Nelly Korda / Solheim Cup / Pinnacle Country Club
+- **Key facts:** Sept. 25-27 Pinnacle Country Club Rogers AR; $3M purse; 54-hole stroke play; Korda world No. 1; won 2026 Chevron + 2026 US Women's Open; USA lost Solheim 13-15 Europe; Korda unbeaten individually (4&2 win over Mimi Rhodes in singles); 17 US Solheim players in field; first LPGA post-Solheim
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Round 1 leaderboard, Korda performance, winner recap
