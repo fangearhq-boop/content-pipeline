@@ -8018,3 +8018,55 @@ Each day's stories are appended at the top (newest first).
   - Padres vs D-backs Sept 25-27 series
   - Cubs clinching WC
   - Brewers/Dodgers playoff prep
+
+---
+
+## Pipeline Run: 2026-09-23
+
+### Story 1: Pete Crow-Armstrong Is 2 Steals Away From the 40-40 Club
+- **Date:** 2026-09-23
+- **Tier:** 1
+- **Classification:** NEW
+- **Angle:** Cubs CF PCA has 40 HR + 33 SB with 12 games left — needs 2 steals for 40-40 (7th ever in MLB history). First Cubs player with 40+ HR since Derrek Lee 2005. First LH Cubs batter since Billy Williams 1970. Second-most HR by Cubs player age 24 or younger (only Ernie Banks 44 in 1955 is more). NL MVP frontrunner. wOBA .402, avg exit velo 90.7, hard hit 49.1%.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - PCA reaching 40-40 (every stolen base attempt)
+  - NL MVP award announcement
+
+### Story 2: NL Wild Card Three-Way Sprint — Cubs and Padres Tied, Phillies One Back
+- **Date:** 2026-09-23
+- **Tier:** 1
+- **Classification:** NEW
+- **Angle:** Cubs and Padres 87-69 (tied), Phillies 86-70, 6 games left. Cubs own H2H tiebreaker over both. Phillies went 6-0 vs Padres (own tiebreaker over SD). Padres 9-1 last 10. If current holds: Cubs host Phillies (WC1), Padres travel to Braves (WC2). Brewers/Dodgers/Braves clinched divisions.
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Daily standings updates through end of regular season
+  - Wild card clinching scenarios
+
+### Story 3: Dodgers Chase NL's No. 1 Seed With Magic Number of 3
+- **Date:** 2026-09-23
+- **Tier:** 2
+- **Classification:** NEW
+- **Angle:** Dodgers clinched NL West Sept 17 vs Reds. Magic number 3 over Braves for NL No. 1 seed/first-round bye. 10-game home win streak. 14 straight postseasons (ties Braves MLB record). 5 straight NL West titles. Went 14-5 in September. Ohtani + Freeman on roster.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Dodgers clinching No. 1 seed
+  - Postseason roster/pitching rotation preview
+
+### Story 4: Zack Wheeler 8 Strikeouts From 2,000 Career Ks
+- **Date:** 2026-09-23
+- **Tier:** 2
+- **Classification:** NEW
+- **Angle:** Wheeler at 1,992 career K's entering final week. 172 K in 143.1 IP in 2026 despite early absence. Phillies at 86-70 in NL WC race — Wheeler pitching in high-stakes final games.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Wheeler reaching 2,000 K's
+
+### Story 5: Pete Alonso Sits at 299 Career Home Runs — One Swing From 300
+- **Date:** 2026-09-23
+- **Tier:** 2
+- **Classification:** NEW
+- **Angle:** Alonso at 299 career HR. 35 HR in 2026 = 6th straight 30+ HR season. Mets first baseman, consistent power producer. One swing from 300.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Alonso hitting career HR No. 300

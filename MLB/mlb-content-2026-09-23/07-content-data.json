@@ -1,0 +1,309 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-23",
+  "compiled_at": "2026-09-23T10:21:19.751020+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Pete Crow-Armstrong Is 2 Steals Away From the 40-40 Club",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Pete Crow-Armstrong: 40 HRs. 33 SBs. 2 steals from the 40-40 club.\n\nOnly 6 players in MLB history have ever done it. PCA would be No. 7.\n\nOh, and the Cubs are in a three-team wild card race.\n\nNo pressure. ⚾ #Cubs #MLB",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB"
+          ],
+          "char_count": 217
+        },
+        {
+          "label": "Post 1-2",
+          "text": "PCA just became the first Cub to hit 40 HR in a season since Derrek Lee in 2005.\n\nThe last left-handed Cubs batter to hit 40? Billy Williams in 1970.\n\nHe's 24 years old. And he needs 2 steals. 🔥 #Cubs #MLB",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB"
+          ],
+          "char_count": 205
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-pete-crow-armstrong-40-40-club-cubs.html",
+        "headline": "Pete Crow-Armstrong Is 2 Steals Away From the 40-40 Club — And MLB History",
+        "word_count": 460
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "X Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "FB Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Pete Crow-Armstrong Is 2 Steals Away From the 40-40 Club\n**KEY FACTS:**\n- Pete Crow-Armstrong has 40 HR and 33 SB with 12 games remaining in the 2026 season (as of ~Sept 21) [HIGH]\n- 40-40 would be the 7th such season in MLB history [HIGH]\n- Crow-Armstrong is the first Cubs player to reach 40 HR in a season since Derrek Lee hit 46 in 2005 [HIGH]\n- Crow-Armstrong is the first left-handed Cubs batter to hit 40 HR since Billy Williams hit 42 in 1970 [HIGH]\n- Crow-Armstrong is the second-most HR in a season by a Cubs player age 24 or younger, behind Ernie Banks' 44 in 1955 [HIGH]\n- Crow-Armstrong is age 24 in 2026 [HIGH]\n- He is considered the NL MVP frontrunner [MEDIUM — multiple sources imply but not explicit]\n- Exit velocity: 90.7 avg, hard hit %: 49.1, wOBA: .402 [HIGH — Baseball Savant]\n- Cubs are in NL Wild Card race, tied at 87-69 with Padres, 1 game ahead of Phillies [HIGH]\n**Sources:** mlb.com, chicago.suntimes.com, sportsmockery.com, baseballsavant.com",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "NL Wild Card Three-Way Sprint — Cubs and Padres Tied, Phillies One Back",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "NL Wild Card entering the final week:\n\nCubs: 87-69 ✅ (tiebreaker)\nPadres: 87-69 🔥 (9-1 last 10)\nPhillies: 86-70 👀\n\nTwo spots. Three teams. Six games left.\n\nThis is October baseball in September. ⚾ #MLB #NLWildCard",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#NLWildCard"
+          ],
+          "char_count": 213
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The Cubs hold the tiebreaker over BOTH teams in the NL Wild Card race.\n\nThe Padres are on fire — 9 wins in their last 10 games.\n\nThe Phillies went 6-0 vs. San Diego this year.\n\nBest race in baseball right now. #Cubs #Padres #Phillies #MLB",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#Padres",
+            "#Phillies",
+            "#MLB"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-nl-wild-card-cubs-padres-phillies-final-week.html",
+        "headline": "NL Wild Card Final Sprint: Cubs and Padres Tied, Phillies One Back — Six Games Remain",
+        "word_count": 503
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "X Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "FB Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NL Wild Card Three-Way Sprint — Cubs and Padres Tied, Phillies One Back\n**KEY FACTS:**\n- Cubs and Padres tied at 87-69, Phillies at 86-70 with 6 games remaining [HIGH]\n- Cubs hold head-to-head tiebreaker over both teams [HIGH]\n- Phillies went 6-0 against the Padres in 2026 season; Phillies own tiebreaker over Padres [HIGH]\n- If standings hold: Cubs = No. 1 Wild Card (host Phillies), Padres = No. 2 Wild Card (at Braves) [HIGH]\n- Padres have gone 9-1 in their last 10 games [HIGH]\n- As of Sept 19, all three teams were 85-69 (three-way tie); standings have since shifted [HIGH]\n- Three wild card spots available in each league [HIGH]\n- Brewers, Dodgers, Braves have clinched NL division titles [HIGH]\n**Sources:** si.com, sports.yahoo.com, thebaseballnerd.substack.com, cbssports.com",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Dodgers Chase NL's No. 1 Seed With Magic Number of 3",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The Dodgers have already clinched. Now they're chasing history.\n\nMagic number of 3 for the No. 1 NL seed (and a first-round bye). 10-game home win streak. 14 straight postseasons — tying the MLB record.\n\nLA in October is different. #Dodgers #MLB",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#MLB"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-dodgers-chase-no1-seed-magic-number.html",
+        "headline": "Dodgers Chase NL's No. 1 Seed With Magic Number of 3 — 14 Straight Postseasons on the Line",
+        "word_count": 429
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "X Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "FB Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Dodgers Chase NL's No. 1 Seed With Magic Number of 3\n**KEY FACTS:**\n- Dodgers clinched NL West on September 17, 2026, by defeating Cincinnati Reds [HIGH]\n- Dodgers have clinched 14 consecutive postseasons, tying the Atlanta Braves record [HIGH]\n- Dodgers have won 5 straight NL West titles [HIGH]\n- Dodgers on 10-game home winning streak entering final week [HIGH]\n- Magic number of 3 over the Braves for NL's No. 1 overall seed (and first-round bye) [HIGH]\n- Dodgers went 14-5 in 19 September games entering final week [HIGH]\n- Shohei Ohtani on Dodgers roster (pitching return was story earlier in season) [HIGH]\n**Sources:** bleacherreport.com, sports.yahoo.com, espn.com",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Zack Wheeler 8 Strikeouts From 2,000 Career Ks",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Zack Wheeler has 1,992 career strikeouts.\n\n8 away from 2,000.\n\nHe missed time this season. Still has 172 Ks in 143.1 IP.\n\nOh, and the Phillies are in a three-team wild card race. No quit in this guy. 💪 #Phillies #MLB",
+          "posting_time": "3:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Phillies",
+            "#MLB"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-zack-wheeler-2000-strikeouts-phillies.html",
+        "headline": "Zack Wheeler Is 8 Strikeouts From 2,000 — A Career Milestone in the Middle of a Pennant Race",
+        "word_count": 394
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "X Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Zack Wheeler 8 Strikeouts From 2,000 Career Ks\n**KEY FACTS:**\n- Zack Wheeler at 1,992 career strikeouts with games remaining [HIGH]\n- Wheeler missed time early in the 2026 season [HIGH]\n- Wheeler has 172 strikeouts in 143.1 innings in 2026 despite early absence [HIGH]\n- Wheeler pitches for the Philadelphia Phillies [HIGH]\n- Phillies are in the NL Wild Card race at 86-70 [HIGH]\n**Sources:** si.com (milestones tracker), foxsports.com",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Pete Alonso Sits at 299 Career Home Runs — One Swing From 300",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Pete Alonso: 299 career home runs.\n\n35 this season — his 6th straight 30-HR season.\n\nHe is literally one swing away from 300.\n\nWatch carefully this final week. ⚾ #Mets #MLB",
+          "posting_time": "8:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Mets",
+            "#MLB"
+          ],
+          "char_count": 172
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-pete-alonso-299-career-home-runs-mets.html",
+        "headline": "Pete Alonso Sits at 299 Career Home Runs — One Swing From a Milestone",
+        "word_count": 360
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "X Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Pete Alonso Sits at 299 Career Home Runs — One Swing From 300\n**KEY FACTS:**\n- Pete Alonso has 299 career HR entering final week of 2026 regular season [HIGH]\n- Alonso hit 35 HR in 2026, making it his sixth consecutive 30-plus HR season [HIGH]\n- Alonso plays for the Mets [HIGH — well known]\n- Career HR 300 would be a significant milestone [HIGH]\n**Sources:** si.com (milestones tracker)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 8
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
