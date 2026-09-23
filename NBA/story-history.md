@@ -7261,3 +7261,46 @@
 - **Byline:** Marcus Cole
 - **Status:** NEW
 - **Follow-up ideas:** DiVincenzo trade/resolution, camp roster battles, LaMelo-Edwards debut game
+
+---
+## 2026-09-23
+
+### STORY 1: Duren Deadline — 8 Days, Pistons Up to $200M
+- **Tier:** 1
+- **Category:** Detroit Pistons / Jalen Duren / Qualifying Offer
+- **Key facts:** Pistons increased offer to $200M (from $190M); Duren still prepared to accept $9.6M QO; Oct. 1 deadline 8 days away; hard deadline March 1, 2027; media day Sept. 28 (Duren attendance uncertain); Duren stats: 19.5 pts, 10.5 reb; first All-Star, third-team All-NBA; Pistons 60-win EC No. 1 seed
+- **Byline:** Damon Pierce
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Media day attendance/absence, deal signed, QO accepted
+
+### STORY 2: Kawhi Leonard Raptors Extension — 2-Year, $115M
+- **Tier:** 1
+- **Category:** Toronto Raptors / Kawhi Leonard / Contract Extension
+- **Key facts:** 2-year, $115M extension (player option 2028-29); took $11M below max; waived $7.45M kicker; ~$18.5M left on table; re-acquired from LA Clippers July 2026; expected to finish career in Toronto; total 3 seasons / ~$165M under contract
+- **Byline:** Jake Torres
+- **Status:** NEW
+- **Follow-up ideas:** Raptors offseason moves using new cap space, camp preview
+
+### STORY 3: Knicks Banner Night — Avg Ticket $2,560, 27 Days Away
+- **Tier:** 1
+- **Category:** New York Knicks / Opening Night / Banner Ceremony / Philadelphia 76ers
+- **Key facts:** Avg ticket $2,560 (secondary market); get-in still >$1,000; most expensive game of the week; ceremony 6:30 PM ET, tipoff 7 PM NBC/Peacock Oct. 20; Knicks first banner since 1973 (53 years); LeBron James (41) Sixers debut; Jaylen Brown Sixers debut; Knicks swept 76ers 4-0 in 2025-26 playoffs
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Media day previews, banner ceremony details, 76ers revenge storyline
+
+### STORY 4: Giannis & Heat — 6 Days to Official Camp
+- **Tier:** 1
+- **Category:** Miami Heat / Giannis Antetokounmpo / Training Camp
+- **Key facts:** Official camp opens Sept. 29 (6 days); unofficial minicamp California ongoing for weeks; Giannis skipped FIBA qualifiers; Heat added Klay Thompson, Bobby Portis, Tim Hardaway Jr.; media day Sept. 28; first preseason Oct. 3; Giannis learning Spoelstra systems; two-time MVP; 13 seasons with Bucks
+- **Byline:** Damon Pierce
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Media day quotes, first practice report, preseason debut
+
+### STORY 5: Ausar Thompson 5-Year, $155M Extension With Pistons
+- **Tier:** 2
+- **Category:** Detroit Pistons / Ausar Thompson / Contract Extension
+- **Key facts:** 5 years / $155M fully guaranteed; first-team All-Defense; led NBA in steals (2.0/game); 9.9 pts, 5.7 reb, 3.1 ast; age 23; third in DPOY voting; twins milestone: Ausar + Amen Thompson = $363M combined, first brothers to each sign $100M+ NBA deals
+- **Byline:** Jake Torres
+- **Status:** NEW
+- **Follow-up ideas:** Duren situation update (other Thompson brother in same org)
