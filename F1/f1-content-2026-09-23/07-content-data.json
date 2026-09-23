@@ -1,0 +1,249 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-23",
+  "compiled_at": "2026-09-23T11:29:03.090741+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Leclerc Grid Penalty Confirmed — New Ferrari Engine, Starting From Back at Baku",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "**Post 1 (8:00 AM ET — Breaking news)**\nCONFIRMED: Charles Leclerc will start from the back of the grid at Baku. New Ferrari engine for FP2+ triggers the penalty. 0.2 sec/lap faster. 2.2 km straight for recovery. Baku is the right place to take the hit. #F1 #AzerbaijanGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#AzerbaijanGP"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-leclerc-penalty-confirmed-baku-new-engine.html",
+        "headline": "Leclerc Grid Penalty Confirmed: Ferrari's New Engine Strategy for Baku",
+        "word_count": 589
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Leclerc Grid Penalty\n\n**Image Concept 1 (Social — 1080x1350)**\n- Search term: `Charles Leclerc Ferrari`\n- Usage: Primary social image for penalty confirmation post\n- Caption overlay: \"Starting From the Back. New Engine. Baku's Long Straight.\"\n- Status: not_started\n\n**Image Concept 2 (Article Hero — 1200x630)**\n- Search term: `Charles Leclerc Ferrari`\n- Usage: Article hero image\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Leclerc Grid Penalty Confirmed\n**Source: crash.net, planetf1.com, gpblog.com, grandprix.com (Sept. 22-23, 2026)**\n- Penalty confirmed: Leclerc will start from back of grid at Baku\n- Plan: old Monza-damaged engine in FP1 Thursday (Sept. 24), new spec power unit for rest of weekend\n- New engine spec: ~0.2 sec/lap faster than ADUO1 unit used in Spain\n- Baku chosen because: 2.2 km main straight + heavy braking Turn 1 = best overtaking circuit remaining\n- Vasseur quote (earlier): Baku \"quite suitable\" for grid drop\n- Leclerc quote (earlier): penalty \"probably\" coming\n- FP1 schedule: Thursday, September 24\n- Qualifying: Friday, September 25\n- Race: Saturday, September 26\n- Confidence: HIGH (multiple sources confirm penalty strategy)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Antonelli Baku Win Opens Singapore Title Window",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "**Post 3 (10:00 AM ET — Developing)**\nWin Baku. Win Singapore Sprint. Score 12 pts Sunday. Kimi Antonelli could be F1 World Champion before the end of October. He's 19 years old. The math is there. #F1 #AzerbaijanGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#AzerbaijanGP"
+          ],
+          "char_count": 215
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-antonelli-baku-win-singapore-title-math.html",
+        "headline": "A Baku Win Opens Antonelli's Singapore Title Window — Here Is the Math",
+        "word_count": 606
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli Singapore Title Math\n\n**Image Concept 1 (Social — 1080x1350)**\n- Search term: `Kimi Antonelli Mercedes`\n- Usage: Primary social image for championship math post\n- Caption overlay: \"81 Points Clear. Title in Sight.\"\n- Status: not_started\n\n**Image Concept 2 (Article Hero — 1200x630)**\n- Search term: `Kimi Antonelli Mercedes`\n- Usage: Article hero image\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli Baku/Singapore Title Math\n**Source: grandepremio.com, gpblog.com, formula1.com (Sept. 22-23, 2026)**\n- Antonelli points: 292 (after R14, Monza)\n- Russell (2nd): 211 pts — gap: 81 pts\n- Hamilton (3rd): 191 pts — gap: 101 pts\n- Norris (4th): 186 pts — gap: 106 pts\n- Rounds remaining: 9 (including 1 sprint weekend)\n- Points still available: 233\n- Singapore: Oct. 9-11 (sprint weekend); earliest clinch scenario\n- Singapore clinch path: max Baku + sprint win SG = ~139-pt lead; need 12 more pts Sunday race\n- Antonelli age: 19 (turns 20 in November 2026)\n- Vettel youngest champion record: 23 years, 134 days\n- Antonelli would beat Vettel record by 3+ years\n- Season stats: 8 wins, 6 poles, 12 podiums in 14 races; 20.9 pts/race average; Monza win from P19\n- Confidence: HIGH",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Williams FW48 2.0 — Baku is the Last Big Test Before 2027 Focus",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "**Post 5 (12:00 PM ET — News)**\nWilliams' FW48 2.0 has arrived in Baku. New carbon chassis. Lighter. Stronger. The last major upgrade of 2026. Vowles says it \"won't be enough for points\" — but it will shape the 2027 car. That matters more. #F1 #Williams #AzerbaijanGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Williams",
+            "#AzerbaijanGP"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-williams-fw48-2-baku-last-test.html",
+        "headline": "Williams FW48 2.0 in Baku: The Last Test Before 2027 Begins",
+        "word_count": 658
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Williams FW48 2.0\n\n**Image Concept 1 (Social — 1080x1350)**\n- Search term: `Carlos Sainz Williams`\n- Usage: Primary social image for FW48 2.0 upgrade post\n- Caption overlay: \"FW48 2.0. Last Upgrade. First Step to 2027.\"\n- Status: not_started\n\n**Image Concept 2 (Article Hero — 1200x630)**\n- Search term: `Alex Albon Williams`\n- Usage: Article hero image\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Williams FW48 2.0 at Baku\n**Source: formula1.com, f1ingenerale.com, bvmsports.com, yahoo sports (Sept. 19-23, 2026)**\n- FW48 2.0 designation: \"B-spec\" upgrade\n- Core change: revolutionary new lighter carbon manufacturing process\n- Original FW48 problem: significantly overweight due to production delays; missed Barcelona Shakedown\n- Vowles quote: \"almost completely new\"; warns upgrade \"won't be enough for points\"\n- Strategic importance: last Williams major upgrade before focusing on FW50 (2027)\n- Forms foundation for 2027 chassis concept validation\n- Drivers: Carlos Sainz, Alex Albon\n- FP1 debut: Thursday September 24\n- T18-19 sequence: lower downforce with 2026 regs = may require lift where previous cars flat-out\n- Confidence: HIGH",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Norris Needs Baku — 106 Points Back, Running Out of Races",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "**Post 7 (10:00 AM ET — Developing)**\nLando Norris is 106 points behind Antonelli with 9 races left. He's also 5 points behind Hamilton in 3rd. Baku is his best shot in weeks. The defending champion needs a dominant weekend — badly. #F1 #McLaren #AzerbaijanGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#McLaren",
+            "#AzerbaijanGP"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-norris-baku-championship-math.html",
+        "headline": "Norris Needs Baku: 106 Points Back, Running Out of Races",
+        "word_count": 605
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Norris Championship Math\n\n**Image Concept 1 (Social — 1080x1350)**\n- Search term: `Lando Norris McLaren`\n- Usage: Primary social image for Norris championship post\n- Caption overlay: \"106 Points Back. Baku is the Moment.\"\n- Status: not_started\n\n**Image Concept 2 (Article Hero — 1200x630)**\n- Search term: `Lando Norris McLaren`\n- Usage: Article hero image\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Norris Championship Math at Baku\n**Source: f1-fansite.com, gpblog.com, sportscapemagazine.com (Sept. 22-23, 2026)**\n- Norris points: 186 (4th overall)\n- Gap to Antonelli (leader): 106 pts\n- Gap to Hamilton (3rd): 5 pts\n- Points remaining: 233 (9 rounds including 1 sprint)\n- McLaren pre-weekend: Baku-specific parts for second sector; Norris entered as favourite\n- Norris needs: sustained Antonelli failures + own maximum points\n- Context: defending champion; three pole positions and two wins in last four races (contextual, from search result — treat as MEDIUM — not fully cross-referenced with 2026 season)\n- Confidence: HIGH for standings; MEDIUM for recent form claims",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Why 2026 Baku Is Different — New F1 Regulations at the World's Fastest Street Circuit",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "**Post 8 (8:00 PM ET — Evening feature)**\nThe 2026 cars may have to LIFT at Baku's T18-19 where previous cars ran flat-out. And the MGU-K delay on the 2.2km straight will be the longest of the year. New rules, new Baku. #F1 #AzerbaijanGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#AzerbaijanGP"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-2026-baku-new-regulations-technical.html",
+        "headline": "Why 2026 Baku Is Different: New Regulations at the World's Fastest Street Circuit",
+        "word_count": 794
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "2026 Regs at Baku\n\n**Image Concept 1 (Social — 1080x1350)**\n- Search term: `Formula 1 Baku City Circuit Azerbaijan`\n- Usage: Primary social image for technical preview post\n- Caption overlay: \"2026 Regs. New Baku. Energy Wins Races.\"\n- Status: not_started\n\n**Image Concept 2 (Article Hero — 1200x630)**\n- Search term: `Formula 1 Azerbaijan Grand Prix`\n- Usage: Article hero image\n- Status: not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "2026 Regulations at Baku\n**Source: grandprix247.com, planetf1.com (Sept. 22-23, 2026)**\n- 2026 F1 regs: lower downforce generation vs. 2025 era cars\n- Baku impact: T18-T19 sequence — where 2025 cars could run flat, 2026 cars may need to lift\n- Main straight: 2.2 km, speeds reaching ~340 kph\n- MGU-K activation: longest delay of the season at Baku due to extended straight before push lap\n- Energy management: teams deploying maximum power all through straight — critical to manage\n- Circuit length: 6.003 km\n- Lap count: 51 laps\n- Race format: race on Saturday (unusual — moved for Azerbaijan Day of Remembrance Sept. 27)\n- Confidence: HIGH",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

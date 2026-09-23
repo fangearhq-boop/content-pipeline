@@ -7042,3 +7042,46 @@
 - **Byline:** Marcus Cole
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Practice pace report, qualifying preview
+
+---
+## 2026-09-23
+
+### STORY 1: Leclerc Grid Penalty Confirmed — New Ferrari Engine, Starting From Back at Baku
+- **Tier:** 1
+- **Category:** Ferrari / Charles Leclerc / Engine Penalty / Azerbaijan Grand Prix
+- **Key facts:** Penalty confirmed; plan: old engine FP1, new spec power unit FP2+ triggers penalty; new engine ~0.2 sec/lap faster than ADUO1; starts from back regardless of qualifying position; Baku's 2.2 km straight + T1 braking = best recovery circuit; FP1 Sept. 24, Qual Sept. 25, Race Sept. 26 (Saturday)
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** FP2 pace data, race recovery drive, constructors impact
+
+### STORY 2: Antonelli Baku Win Opens Singapore Title Window
+- **Tier:** 1
+- **Category:** Kimi Antonelli / Mercedes / Drivers' Championship / Azerbaijan Grand Prix
+- **Key facts:** Antonelli 292 pts (after R14); Russell -81, Hamilton -101, Norris -106; 233 pts remaining (9 rounds); Baku win + Singapore sprint win + 12 pts Sunday = title clinched; would be youngest WDC in F1 history (under 20 yrs, shattering Vettel's 23yr 134 days by 3+ years); 8W/6P/12 podiums in 14 races; 20.9 pts/race avg
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Baku result, Singapore clinch, youngest champion record
+
+### STORY 3: Williams FW48 2.0 in Baku — Last Test Before 2027 Focus
+- **Tier:** 1
+- **Category:** Williams / FW48 / Azerbaijan Grand Prix
+- **Key facts:** FW48 2.0 (B-spec) arrives in Baku; new lighter carbon manufacturing process; original FW48 overweight; Vowles: "almost completely new"; warns "won't be enough for points"; last Williams major upgrade 2026; forms FW50 (2027) chassis foundation; drivers: Carlos Sainz, Alex Albon; debut FP1 Sept. 24
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** FP1 pace data, qualifying position, race result, FW50 validation
+
+### STORY 4: Norris Needs Baku — 106 Points Back, Running Out of Races
+- **Tier:** 2
+- **Category:** Lando Norris / McLaren / Drivers' Championship
+- **Key facts:** Norris 186 pts, 4th; 106 pts behind Antonelli; 5 pts behind Hamilton (3rd); 233 pts remaining; McLaren brought Baku-specific upgrade (second sector); defending champion
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Qualifying pace, race result, championship position post-Baku
+
+### STORY 5: Why 2026 Baku Is Different — New Regulations Technical Preview
+- **Tier:** 2
+- **Category:** Azerbaijan Grand Prix / F1 2026 Regulations / Technical Analysis
+- **Key facts:** 2026 lower downforce = possible lift at T18-19 vs. flat-out in 2025 era; 2.2km main straight = longest MGU-K deployment delay of season; energy management decisive; circuit: 6.003km, 51 laps; race on Saturday (moved for Azerbaijan Day of Remembrance Sept. 27)
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+- **Follow-up ideas:** FP1 setup data confirms wing angles, energy management observations from teams
