@@ -2,6 +2,48 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-09-24
+
+### STORY 1: Duren Media Day Status — "Highly Questionable" Amid $200M Impasse
+- **Tier:** 1
+- **Category:** Detroit Pistons / Jalen Duren / Contract
+- **Key facts:** Attendance at Sept. 28 media day "highly up in the air and questionable"; Pistons offer raised to $200M; impasse continues; Oct. 1 QO deadline 7 days away; Sacramento Kings ready to offer max if Duren reaches UFA; Duren: 19.5 pts, 10.5 reb, first All-Star, third-team All-NBA; Pistons 60-win EC No. 1 seed
+- **Byline:** Damon Pierce
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Media day attendance/absence (Sept. 28), deal signed or QO accepted by Oct. 1
+
+### STORY 2: Timberwolves Camp Opens — LaMelo/Edwards Partnership Test
+- **Tier:** 1
+- **Category:** Minnesota Timberwolves / LaMelo Ball / Anthony Edwards / Training Camp
+- **Key facts:** Sept. 24 earliest camp date for international-game teams; Wolves traded 4 first-round picks + Naz Reid for LaMelo; projected lineup: Edwards, Ball, Gobert, McDaniels, Kuminga; two players on "hottest trade candidate seats"; China Games in October
+- **Byline:** Jake Torres
+- **Status:** NEW
+- **Follow-up ideas:** Early camp chemistry reports, China Games performance, trade moves
+
+### STORY 3: Knicks Banner Night — 26 Days, Sixers' LeBron/Brown Debut
+- **Tier:** 1
+- **Category:** New York Knicks / Opening Night / Banner Ceremony / Philadelphia 76ers
+- **Key facts:** Oct. 20, ceremony 6:30 PM ET, tipoff 7 PM NBC/Peacock; avg ticket $2,500+, get-in >$1,000; first banner since 1973 (53 years); LeBron James Sixers debut; Jaylen Brown Sixers debut; Knicks swept Sixers 4-0 in 2025-26 playoffs
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** 20-day countdown, media day quotes about the banner night, Sixers motivation
+
+### STORY 4: Giannis & Heat — 5 Days to Official Camp
+- **Tier:** 1
+- **Category:** Miami Heat / Giannis Antetokounmpo / Training Camp
+- **Key facts:** Camp opens Sept. 29 (5 days); media day Sept. 28; California minicamp ongoing; Heat added Giannis (from Bucks, 5 picks + 4 players), Klay Thompson, Bobby Portis, Tim Hardaway Jr.; first preseason Oct. 3
+- **Byline:** Damon Pierce
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Media day quotes, first practice reports, Giannis Spoelstra system integration
+
+### STORY 5: Kawhi Leonard Raptors Camp — Load Management Looms
+- **Tier:** 2
+- **Category:** Toronto Raptors / Kawhi Leonard / Training Camp
+- **Key facts:** 2-year/$115M extension with player option 2028-29; took $18.5M below market; age 35; re-acquired from Clippers July 2026; history of load management; Raptors in rebuild
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Minutes plan, availability in early preseason, coach quotes on usage
+
 ## 2026-09-20
 
 | Date | Tier | Title | Platforms | Status |
