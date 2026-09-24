@@ -1,0 +1,252 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-24",
+  "compiled_at": "2026-09-24T10:17:58.790242+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Tennessee Lady Vols Open Fall Ball Tomorrow — Mardjetko-Nuwer Duo Gets First 2027 Test",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Tennessee opens fall ball TOMORROW.\n\nMardjetko (16-3, 1.26 ERA, 171 K) + Nuwer vs. Walters State — Sept. 25, 6 PM CT.\n\nTheir combined 2026 line: 31 wins. 8 shutouts. The Lady Vols are ready. #LadyVols #CollegeSoftball",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LadyVols",
+            "#CollegeSoftball"
+          ],
+          "char_count": 217
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Sage Mardjetko went 16-3 with a 1.26 ERA in 2026. Erin Nuwer ran alongside her.\n\nTogether: 31 wins, 8 shutouts.\n\nTomorrow night they step back on the field. Tennessee opens fall ball at 6 PM CT. #LadyVols #Softball",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LadyVols",
+            "#Softball"
+          ],
+          "char_count": 214
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-tennessee-fall-ball-mardjetko-nuwer-2027.html",
+        "headline": "Tennessee Opens Fall Ball Tomorrow — Mardjetko-Nuwer Duo Gets First 2027 Test",
+        "word_count": 439
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Tennessee Lady Vols — Fall Ball Tomorrow\n\n**Image 1A** | Social (1080x1350)\n- **Type:** Gemini AI-generated\n- **Mode:** base_only (clean background for Canva text overlay)\n- **Prompt:** Softball pitcher in mid-windup at sunset on a well-manicured college softball field, orange and white color palette, dramatic stadium lights beginning to glow, shallow depth of field, cinematic sports photography style\n- **Text Overlay (Canva):** \"FALL BALL STARTS TOMORROW\" / \"Tennessee Softball\" / \"Sept. 25 | 6 PM CT\"\n- **Search Term (Imagn):** \"Sage Mardjetko Tennessee\"\n\n**Image 1B** | Social (1080x1350)\n- **Type:** Gemini AI-generated\n- **Mode:** base_only\n- **Prompt:** Two softball pitchers stretching and warming up together on a college practice field, team chemistry and camaraderie, warm afternoon light, orange and white color accents, photorealistic sports style\n- **Text Overlay (Canva):** \"MARDJETKO + NUWER\" / \"31 Wins. 8 Shutouts. 2026.\" / \"#LadyVols\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Tennessee Lady Vols Open Fall Ball Tomorrow — Mardjetko-Nuwer Duo\n**Source:** UTSports.com, Yahoo Sports, WIVK-FM (utsports.com fall ball announcement, 2026-08-12)\n- Tennessee opens fall play **September 25** (tomorrow) vs. Walters State at 6 PM CT\n- Home venue: Sherri Parker Lee Stadium, Knoxville, TN\n- Sage Mardjetko 2026 stats: 16-3 record, 1.26 ERA, 171 K — NFCA First Team All-America [HIGH]\n- Erin Nuwer 2026 stats: combined with Mardjetko for 31 wins and 8 shutouts [HIGH]\n- Lady Vols coming off a solid 2026 WCWS run\n- Fall schedule runs through early November\n- Both pitchers are returning for their 2027 campaign [HIGH]\n**Confidence Summary:** HIGH on Tennessee opening Sept 25 vs Walters State and Mardjetko/Nuwer stats from 2026 season.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Texas Longhorns — 5 Days to McCombs, Torres-Kavan Era Begins Tuesday",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "5 days until Isa Torres (.530 BA, 2026 national POY) and Teagan Kavan (2x WCWS MOP, only ever) take the field together.\n\nSept. 29. McCombs Field. 6 PM CT. Free admission.\n\nThe three-peat chase officially begins. #HookEm #CollegeSoftball",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HookEm",
+            "#CollegeSoftball"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-texas-longhorns-fall-ball-five-days-torres-kavan.html",
+        "headline": "Five Days Away: Torres, Kavan and the Texas Longhorns' Three-Peat Countdown",
+        "word_count": 532
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas Longhorns — 5 Days Out\n\n**Image 2A** | Social (1080x1350)\n- **Type:** Gemini AI-generated\n- **Mode:** base_only\n- **Prompt:** College softball batter in power stance at the plate, burnt orange uniform, McCombs-style stadium backdrop at golden hour, dynamic action pose, cinematic lighting\n- **Text Overlay (Canva):** \"5 DAYS\" / \"Torres. Kavan. McCombs Field.\" / \"The Three-Peat Begins Sept. 29\"\n\n**Image 2B** | Social (1080x1350)\n- **Type:** Gemini AI-generated\n- **Mode:** base_only\n- **Prompt:** Softball catcher celebrating a big play, burnt orange gear, packed stadium crowd behind her, confetti or celebration atmosphere, vibrant and energetic sports photography\n- **Text Overlay (Canva):** \"BACK-TO-BACK CHAMPIONS\" / \"Texas Softball\" / \"Fall Ball Starts Sept. 29\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Texas Longhorns — 5 Days to Fall Opener\n**Source:** TexasLonghorns.com fall schedule announcement; Yahoo Sports (2026-08-28)\n- Texas opens fall ball **September 29** vs. Murray State at McCombs Field, 6 PM CT, free admission [HIGH]\n- Isa Torres: 2026 national Player of the Year, .530 BA, 16 HR, 56 RBI (Georgetown, TX native) [HIGH]\n- Teagan Kavan: 2x WCWS Most Outstanding Player — only player in history with that honor [HIGH]\n- Texas finished 2026 at 53-12; back-to-back WCWS champions (2025, 2026) [HIGH]\n- Coach Mike White: 2nd consecutive NFCA Staff of the Year [HIGH]\n- Three-peat bid: would match UCLA 1988-90 and OU 2021-23 as only programs to three-peat [HIGH]\n- Full fall schedule: Murray State 9/29, Texas State 10/13, Temple 10/20, McLennan 10/27, UTSA 10/29, TX A&M Davis Diamond 11/6 (7 PM CT) [MEDIUM]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Oklahoma Sooners — 6 Days to Love's Field Opener, Gasso's Rebuilt Roster Ready",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "6 days until OU opens fall ball at Love's Field.\n\nJordyn Wells (32 HR, NCAA freshman record). Jordan Berzon (406 K, 2.02 ERA). Taylor Harter (.346 BA).\n\nSept. 30 vs. Tarleton State — 6:30 PM. $10.88 admission. #Sooners #CollegeSoftball",
+          "posting_time": "3:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners",
+            "#CollegeSoftball"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-oklahoma-sooners-six-days-loves-field-opener.html",
+        "headline": "Six Days to Love's Field: Oklahoma's Reloaded Roster Gets Its First Public Test",
+        "word_count": 490
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Oklahoma Sooners — 6 Days Out\n\n**Image 3A** | Social (1080x1350)\n- **Type:** Gemini AI-generated\n- **Mode:** base_only\n- **Prompt:** Softball player taking batting practice at Love's Field interior, crimson and cream colors, modern stadium architecture visible, low evening light, focused athletic pose\n- **Text Overlay (Canva):** \"6 DAYS UNTIL GAME DAY\" / \"Oklahoma Softball\" / \"Sept. 30 | Love's Field | 6:30 PM\"\n\n**Image 3B** | Social (1080x1350)\n- **Type:** Gemini AI-generated\n- **Mode:** base_only\n- **Prompt:** Softball pitcher throwing a rise ball in a college stadium, crimson uniform, dramatic low-angle shot, blurred stadium lights in background, athletic intensity\n- **Text Overlay (Canva):** \"WELLS. BERZON. HARTER.\" / \"The Sooners' New Look Debuts Sept. 30\" / \"#Sooners\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Oklahoma Sooners — 6 Days to Love's Field Opener\n**Source:** SoonerSports.com fall schedule announcement (2026-08-24); Heartland Sports\n- Oklahoma opens fall **September 30** vs. Tarleton State at Love's Field, 6:30 PM CT [HIGH]\n- All 8 fall games at Love's Field; tickets $10.88/game, All Fall Pass $70.69 [HIGH]\n- Key additions: Jordyn Wells (32 HR, NCAA freshman HR record from 2026), Jordan Berzon (2x AA, 486.1 IP, 2.02 ERA, 406 K from LSU), Taylor Harter (.346 BA from MTSU) [HIGH]\n- Coach Patty Gasso + JT Gasso + Rocha back from WNT duties (returned Norman after WBSC Group Oklahoma Sept. 16) [HIGH]\n- Fall schedule: Tarleton State 9/30, USAO 10/23, Seminole State 10/30, East Texas A&M 11/4; plus 4 Battle Series intrasquad [HIGH]\n- 9 newcomers + 12 returners integrating [MEDIUM]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "NFCA Leadoff Classic Schedule Set — Texas Tech's 7 All-Americans Get Marquee Spring Stage",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "NFCA 2027 Leadoff Classic schedule is out — Texas Tech is in it.\n\nGlasco's 7 All-Americans (Beachum, Pickering, Heavener + more) get a marquee early-season stage.\n\nThe 2026 WCWS runner-up is gunning for everything in 2027. #WreckEm #CollegeSoftball",
+          "posting_time": "5:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#WreckEm",
+            "#CollegeSoftball"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:30 PM ET"
+      },
+      "article": {
+        "filename": "article-04-texas-tech-nfca-leadoff-classic-seven-all-americans.html",
+        "headline": "Texas Tech Lands NFCA Leadoff Classic Spot — Seven All-Americans Get Marquee Stage",
+        "word_count": 500
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas Tech NFCA Leadoff Classic\n\n**Image 4A** | Social (1080x1350)\n- **Type:** Gemini AI-generated\n- **Mode:** base_only\n- **Prompt:** Softball team in red and black uniforms celebrating together in dugout, high fives and excitement, early spring game atmosphere, vibrant team energy, sports editorial style\n- **Text Overlay (Canva):** \"7 ALL-AMERICANS\" / \"Texas Tech @ NFCA Leadoff Classic\" / \"2027 Season Preview\"\n\n**Image 4B** | Social (1080x1350)\n- **Type:** Gemini AI-generated\n- **Mode:** base_only\n- **Prompt:** Softball left-handed pitcher in midstride on a college mound, red and black uniform, modern stadium setting, dramatic side-light, sharp athletic focus\n- **Text Overlay (Canva):** \"YEAR 2. GLASCO ERA.\" / \"The Raiders Are Coming\" / \"#WreckEm\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NFCA Leadoff Classic Schedule Set — Texas Tech\n**Source:** TexasTech.com (NFCA Leadoff Classic schedule announcement, 2026-09-22)\n- NFCA released schedule for 2027 Leadoff Classic — Texas Tech Red Raiders included [HIGH]\n- Gerry Glasco's Year 2 roster features 7 All-Americans [HIGH]\n- Key transfers: Jaysoni Beachum (.406 BA, 10 HR, 69 RBI from FSU), Kasidi Pickering (.384 BA, 50 HR from OU), Jayden Heavener (LHP, 13-9, 2.81 ERA, 128 K from LSU) [HIGH]\n- Returners: Kaitlyn Terry, Mia Williams, Taylor Pannell, Moriah Polar, Jasmyn Burns [HIGH]\n- TTU was 2026 WCWS runner-up [HIGH]\n- Leadoff Classic gives TTU an early marquee stage [MEDIUM — specific opponents/dates for Leadoff Classic not confirmed]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "2028 Recruiting — Joley Bennett to LSU, Kylie Holden the Last Big Uncommitted",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "2028 class update: Joley Bennett commits to LSU.\n\nLanders (Texas). Schlader (OU). Bennett (LSU). All in the books.\n\nThe last big uncommitted name in the class? Kylie Holden. First rankings update: mid-October. #Softball #Recruiting",
+          "posting_time": "8:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Softball",
+            "#Recruiting"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-2028-recruiting-bennett-lsu-holden-uncommitted.html",
+        "headline": "Joley Bennett to LSU, Kylie Holden Remains the 2028 Class's Last Big Uncommitted",
+        "word_count": 441
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "2028 Recruiting\n\n**Image 5A** | Social (1080x1350)\n- **Type:** Gemini AI-generated\n- **Mode:** base_only\n- **Prompt:** Young softball player holding a signed letter of intent or commitment photo, high school softball field background, warm celebratory family moment, soft natural light\n- **Text Overlay (Canva):** \"COMMITTED\" / \"2028 Recruiting Class — Still Rolling\" / \"#Softball #Recruiting\"\n\n**Image 5B** | Social (1080x1350)\n- **Type:** Gemini AI-generated\n- **Mode:** base_only\n- **Prompt:** Softball recruiting graphic style — abstract typography with \"CLASS OF 2028\" in bold over a blue and gold collegiate color scheme, modern graphic design aesthetic, bold and clean layout\n- **Text Overlay (Canva):** \"BENNETT → LSU\" / \"Who's Next?\" / \"Kylie Holden Still Uncommitted\""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "2028 Recruiting — Joley Bennett to LSU\n**Source:** D1Softball.com (D1Futures: 2028 Infielder Joley Bennett Commits to LSU); On3 Softball (2026-09)\n- Joley Bennett — 2028 infielder — committed to LSU [HIGH]\n- Bennett is described as the Bayou State's top 2028 prospect [MEDIUM]\n- Kylie Holden remains the top uncommitted prospect in the 2028 class [HIGH]\n- Class of 2028 in-person contact window opened September 9; running through mid-October [HIGH]\n- Other notable commits since window opened: Williams (OU), Ushery (Georgia), Donalson (FSU), Saenz (OU), Gutierrez (TTU), Galindo + Wilson (Tennessee), Losh + Harris (Florida), Myers (SC), Ridling + Stell (Arizona), Landers (Texas), Schlader (OU) [HIGH]\n- Record 1,226 EIS nominations for the 2028 class [MEDIUM]\n- Mid-October rankings update expected [HIGH]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

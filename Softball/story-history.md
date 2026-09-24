@@ -3,6 +3,61 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-09-24
+
+### Story 1: Tennessee Lady Vols — Eve of Fall Ball Opener
+- **Date:** 2026-09-24
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Tennessee opens fall ball TOMORROW (Sept. 25) vs. Walters State at 6 PM CT. Sage Mardjetko (16-3, 1.26 ERA, 171 K, NFCA 1st Team AA) and Erin Nuwer (31 combined wins, 8 shutouts) get their first 2027 competitive reps. Timely preview angle with the most immediate deadline of any fall ball story.
+- **Content Produced:** Article (article-01, Jordan Reeves), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Sept. 25 game result vs. Walters State — Mardjetko/Nuwer performance recap
+  - Full Tennessee fall schedule results through November
+  - Lady Vols' national ranking trajectory heading into 2027
+
+### Story 2: Texas Longhorns — 5 Days to McCombs
+- **Date:** 2026-09-24
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Five days until Isa Torres (.530 BA, 2026 national POY) and Teagan Kavan (2x WCWS MOP, the only ever) debut together in burnt orange at McCombs Field. Three-peat bid vs. UCLA 1988-90 and OU 2021-23. Sept. 29 opener vs. Murray State, 6 PM CT, free.
+- **Content Produced:** Article (article-02, Sarah Mitchell), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Sept. 29 opener result — Torres/Kavan first live game together
+  - Three-peat narrative building through fall schedule
+
+### Story 3: Oklahoma Sooners — 6 Days to Love's Field
+- **Date:** 2026-09-24
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Six days to Sept. 30 opener vs. Tarleton State at Love's Field (6:30 PM, $10.88). Wells (32 HR NCAA freshman record), Berzon (406 K, 2.02 ERA from LSU), Harter (.346 BA from MTSU) headline 9 newcomers + 12 returners. Gasso's rebuilt roster gets first public test.
+- **Content Produced:** Article (article-03, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Sept. 30 opener result — first look at rebuilt Sooners roster
+  - Wells/Berzon/Harter development through fall schedule
+
+### Story 4: Texas Tech — NFCA Leadoff Classic Slot Confirmed
+- **Date:** 2026-09-24
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** NFCA released 2027 Leadoff Classic schedule; Texas Tech included. Glasco's 7 All-Americans (Beachum .406/.10HR/69RBI, Pickering .384/50HR, Heavener 13-9/2.81/128K + Terry/Williams/Pannell/Polar) get marquee early spring stage. 2026 WCWS runner-up heading into Year 2 with maximum expectations.
+- **Content Produced:** Article (article-04, Jordan Reeves), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Leadoff Classic results — first marquee measuring stick for 7-AA roster
+  - Year 2 Glasco chemistry assessment through spring
+
+### Story 5: 2028 Recruiting — Bennett to LSU, Holden Still Out
+- **Date:** 2026-09-24
+- **Tier:** 3
+- **Classification:** FOLLOW UP
+- **Angle:** Joley Bennett (top 2028 infielder from Louisiana) committed to LSU. Class now has Landers (Texas), Schlader (OU), Bennett (LSU) among recent signings. Kylie Holden remains the top uncommitted name. Mid-October brings first official class rankings.
+- **Content Produced:** Article (article-05, Sarah Mitchell), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Kylie Holden decision — the last major uncommitted name
+  - Mid-October first official 2028 class rankings update
+
+---
+
 ## 2026-09-19
 
 ### Story 1: USA WNT — Redcliffe 2027 Countdown Begins: Eight Nations, One Road to LA28
