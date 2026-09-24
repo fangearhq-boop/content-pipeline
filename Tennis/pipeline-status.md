@@ -1,6 +1,37 @@
 # Tennis Fanrecap — Pipeline Status
 
-## Current Run: 2026-09-23
+## Current Run: 2026-09-24
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Laver Cup Day 1 lineup published today (lavercup.com/atptour/skysports/tennis365); Sinner on entry list, no WD filed (tenniswatcher/tennis365/yardbarker/tennisuptodate); Singapore QF day, Anisimova WD (wtatennis/tennis365/sports.inquirer.net/puntodebreak); Hangzhou Royer d. Walton 6-3 6-4 (atptour/tennismajors/tennistemple); Chengdu Brooksby d. Baez 7-5 7-5 (atptour/lastwordonsports/tennistourtalk) |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Sep 23 S1: 2 days → Day 1 lineup official); S2 FOLLOW-UP (Sep 23 S2: Asia skip floated → still unresolved, draw 4 days away); S3 FOLLOW-UP (Sep 23 S3: Andreeva R2 → QF day, Anisimova WD boosts Eala); S4 FOLLOW-UP (Sep 23 S4: Day 1 → R32 result confirmed, Medvedev R16 set); S5 FOLLOW-UP (Sep 23 S5: Day 1 lineup → Brooksby upsets Baez) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Ryan Calloway [S1, S4], Elena Voss [S2, S5], Marcus Cole [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: lavercup.com, atptour.com, skysports.com, tennis365.com, tenniswatcher.com, yardbarker.com, tennisuptodate.com, SI.com, wtatennis.com, sports.inquirer.net, puntodebreak.com, crushrushnews.com, tennismajors.com, tennistemple.com, lastwordonsports.com, tennistourtalk.com, wikipedia.org |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories; S2 tweet #2 trimmed from ~299→~228 chars; all ≤280 chars verified |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 imagn concepts across 5 stories (social + article hero) |
+| Articles (5) | COMPLETE | article-01 Laver Cup Day 1 lineup (Ryan Calloway T1); article-02 Sinner China Open no WD (Elena Voss T1); article-03 Singapore QF/Eala (Marcus Cole T2); article-04 Hangzhou Medvedev R16 (Ryan Calloway T2); article-05 Chengdu Brooksby upset (Elena Voss T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — auto-generated; 23 claims; image manifest warnings cosmetic (imagn, known) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts (known), 5 articles; posting-window warnings cosmetic (known) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries across 5 stories, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser issue — same as all prior runs |
+| WordPress Publish | BLOCKED | 403 proxy — fanrumor.com blocked (known recurring issue) |
+| Story History | COMPLETE | 5 entries prepended to Tennis/story-history.md (Sep 24 section) |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
+- **Articles:** 5 (bylines: Ryan Calloway [S1, S4], Elena Voss [S2, S5], Marcus Cole [S3])
+- **PostPlanner exports:** 0 posts (known parser compat issue)
+- **Key stories:** Laver Cup Day 1 lineup confirmed (Ruud/Cerúndolo opens Day session; Jódar/Bublik debutants face off night; Alcaraz doubles with Menšík; Zverev Day 2+); Sinner no WD filed, China Open draw looms Sep 28 (Pescosolido: "avoid relapses," Vienna option); Singapore QF day (Anisimova WD boosts Eala's path, Andreeva favourite); Hangzhou Royer d. Walton → R16 vs Medvedev Friday; Chengdu Brooksby d. Baez (8) 7-5 7-5 (top seeds Vacherot/Tabilo have byes)
+- **Issues:** S2 tweet #2 trimmed (299→228 chars); PostPlanner 0 posts (known); WordPress blocked by proxy; dashboard push blocked (not in session authorized repos)
+
+---
+
+## Previous Run: 2026-09-23
 
 | Step | Status | Notes |
 |------|--------|-------|

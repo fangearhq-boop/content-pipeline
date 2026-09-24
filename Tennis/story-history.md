@@ -2,6 +2,14 @@
 
 Track previously covered stories to avoid repetition and maintain content freshness.
 
+## September 24, 2026
+
+| 2026-09-24 | Laver Cup 2026 Day 1 lineup confirmed. Day session (1 PM local): Ruud (EUR) vs Cerúndolo (World), Menšík (EUR) vs Nakashima (World). Night session (7 PM): Jódar vs Bublik (both debutants), doubles Alcaraz/Menšík (EUR) vs Fritz/Bublik (World). Alcaraz singles Day 2+. Zverev Day 2+. Europe 8-1 all-time, World defending. Sources: lavercup.com (lineup published Sep 24), atptour.com, skysports.com, tennis365.com. | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Sep 23 S1: 2 days out → Day 1 lineup published) |
+| 2026-09-24 | Sinner China Open status: still on entry list, no official withdrawal filed. Draw expected ~Sep 28. His team targeting Asia; Pescosolido (Tuttosport): "wants to avoid relapses." Vienna return (late Oct) remains option. ATP Finals spot locked (No. 2 Race). Sources: tenniswatcher.com, tennis365.com, yardbarker.com, tennisuptodate.com. | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (Sep 23 S2: Asia skip floated → still unresolved, draw deadline approaching) |
+| 2026-09-24 | WTA Singapore Open QF day. Anisimova (No. 2 seed) withdrew — left wrist injury (11 total WDs). Eala (PHI, No. 17, No. 3 seed) is highest remaining seed in bottom half; won DC Open WTA 500 in 2026. Andreeva (top seed, RG champ) clear favourite from opposite half. Mertens, Krejčíková, Oliynykova alive. QF scores not available at research time. Sources: wtatennis.com, tennis365.com, sports.inquirer.net, puntodebreak.com. | T2 | X, FB, Article | Marcus Cole; FOLLOW-UP (Sep 23 S3: Andreeva R2 → QF day, Anisimova WD) |
+| 2026-09-24 | ATP Hangzhou Open Day 2. Confirmed R32: Royer (FRA) d. Walton (AUS) 6-3, 6-4. Royer sets R16 vs No. 1 seed Medvedev (Friday). 5 French players in draw. Top 10 at Laver Cup. Medvedev yet to play (bye). Sources: atptour.com, tennismajors.com, tennistemple.com. | T2 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Sep 23 S4: Day 1 → confirmed R32 result, R16 set) |
+| 2026-09-24 | ATP Chengdu Open Day 1 upset: Brooksby (USA) d. (8) Báez (ARG) 7-5, 7-5. Vacherot (top seed) and Tabilo (defending champ, No. 3) have byes into R16; neither played Day 1. Shang Juncheng (2024 champ, WC) vs Mannarino (38) in R32. Shapovalov and DAF in draw. Sources: atptour.com, lastwordonsports.com, tennistourtalk.com. | T2 | X, FB, Article | Elena Voss; FOLLOW-UP (Sep 23 S5: Day 1 lineup → Day 1 upset result) |
+
 ## September 23, 2026
 
 | 2026-09-23 | Laver Cup 2026 — 2 days out final countdown. Sep 25-27 The O2 London. Europe (Noah): Alcaraz, Zverev, Ruud, Menšík, Cobolli, Jódar; alt. Arthur Fery. World (Agassi): Fritz, de Minaur, Bublik, Tien, Cerúndolo, Nakashima. Europe leads all-time 8-1; Team World defending (15-9 SF 2025). Day 1: 1 PM and 7 PM local. Sources: lavercup.com, atptour.com, skysports.com. | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (Sep 22 S1: 3 days → 2 days, final preview) |
