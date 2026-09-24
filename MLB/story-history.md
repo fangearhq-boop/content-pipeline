@@ -5,6 +5,60 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-09-24
+
+### Story 1: PCA — One Stolen Base From the 40-40 Club
+- **Date:** 2026-09-24
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** PCA at 39 SB heading into Sept. 24 games — ONE steal from the 40-40 club (7th ever: Canseco/Bonds/A-Rod/Soriano/Acuña/Ohtani). Already broke Billy Williams LH Cubs HR record, first Cub 40+ HR since Lee 2005. Age 24, 2nd-most Cubs HRs behind Banks. Cubs 87-69, denied clinch 2nd straight night.
+- **Content Produced:** Article (article-01, Ryan Calloway), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Each remaining game: the one steal
+  - Wild Card performance as a 40-40 club member (if he gets it)
+
+### Story 2: NL Wild Card — Cubs Denied Clinch Again, 3 Games Left
+- **Date:** 2026-09-24
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Cubs lost to Marlins 3-2 for 2nd straight night (Stowers HR off Gausman, Mack groundout). Diamondbacks beat Rockies 5-3 so no backdoor clinch. Cubs still lead NL WC standings but Padres/Phillies within striking distance. Regular season ends Sept. 27, Wild Card starts Sept. 29.
+- **Content Produced:** Article (article-02, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Daily clinch scenarios through Sept. 27
+  - Wild Card seeding and bracket
+
+### Story 3: Misiorowski at Wrigley — Second Shot
+- **Date:** 2026-09-24
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Misiorowski (247 K, 1.95 ERA, 20-8) starts at Wrigley tonight — site of his career-worst start Sept. 2 (5 runs, 4 IP). Redemption narrative + Sheets' Brewers K record (264, needs 17 more). Cy Young essentially locked. First pitcher ever to throw 1,000 pitches 100+mph in one season.
+- **Content Produced:** Article (article-03, Jake Torres), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Tonight's K total and ERA line from Wrigley
+  - Sheets' record chase in final regular season starts
+
+### Story 4: Aaron Judge — IL Return by Sept. 27
+- **Date:** 2026-09-24
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Judge's 10-day IL (retroactive Sept. 17, right soleus calf strain) expires by Sept. 27 — final regular season game. Boone has no timeline. Judge targets postseason. Soleus is more serious than typical calf injury. Second IL of 2026 (first: 99-day rib fracture). Yankees clinched, managing for October.
+- **Content Produced:** Article (article-04, Ryan Calloway), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Judge activation date before Wild Card
+  - Yankees postseason path with/without Judge
+
+### Story 5: Yordan Alvarez Triple Crown — Math Fading
+- **Date:** 2026-09-24
+- **Tier:** 3
+- **Classification:** FOLLOW UP
+- **Angle:** Alvarez .311 BA leads AL (5 pts over Simpson/TB). ~38 HR trails Caminero (TB) by ~2. ~96 RBI trails Alonso (BAL) by ~4. 3 games left. Last AL Triple Crown: Cabrera 2012. Math requires Alvarez hot + both rivals cold. Fading but not eliminated.
+- **Content Produced:** Article (article-05, Marcus Cole), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Daily stat tracking vs. Caminero (HR) and Alonso (RBI) through Sept. 27
+  - Astros postseason
+
+---
+
 ## 2026-09-22
 
 ### Story 1: PCA 40-40 Watch — 40 HR, 38 SB, Two Steals From History

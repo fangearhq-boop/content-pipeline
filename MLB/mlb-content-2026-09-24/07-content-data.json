@@ -1,0 +1,267 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-24",
+  "compiled_at": "2026-09-24T10:24:30.596236+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Pete Crow-Armstrong Is ONE Stolen Base From the 40-40 Club",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "ONE stolen base.\n\nThat's all Pete Crow-Armstrong needs to join the 40-40 club — one of only 6 players in MLB history to ever do it.\n\nHe has 39. The Cubs have 3 games left. The whole baseball world is watching. ⚾ #Cubs #MLB",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB"
+          ],
+          "char_count": 222
+        },
+        {
+          "label": "Post 1-2",
+          "text": "PCA check: 45+ HRs. 39 SBs. One steal from history.\n\nCanseco. Bonds. A-Rod. Soriano. Acuña. Ohtani.\n\nPete Crow-Armstrong is one play from joining that list. At age 24. In the middle of a wild card race.\n\nNo big deal. #Cubs #MLB",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB"
+          ],
+          "char_count": 227
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-pca-one-steal-40-40-club-cubs.html",
+        "headline": "Pete Crow-Armstrong Is ONE Stolen Base From the 40-40 Club",
+        "word_count": 492
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "PCA — One Steal From 40-40\n\n**Image 1A** | Social (1080x1350)\n- **Type:** imagn\n- **Search Term:** \"Pete Crow-Armstrong Chicago Cubs\"\n- **Text Overlay (Canva):** \"ONE STEAL AWAY\" / \"PCA: The 40-40 Chase Is On\" / \"#Cubs #MLB\"\n\n**Image 1B** | Social (1080x1350)\n- **Type:** imagn\n- **Search Term:** \"Pete Crow-Armstrong stolen base Cubs\"\n- **Text Overlay (Canva):** \"40 HR. 39 SB.\" / \"History Is One Steal Away\" / \"Pete Crow-Armstrong 2026\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Pete Crow-Armstrong Is ONE Stolen Base From the 40-40 Club\n**Source:** UrbanMatter.com (Sept. 23 preview); Hoodline.com; FOX Sports; Chicago Sun-Times (2026-09-21)\n- PCA has 39 stolen bases as of heading into Sept. 23 game vs. Marlins — ONE away from 40 [HIGH]\n- PCA home runs: approximately 45+ heading into final games [HIGH — multiple sources confirm 40+ HR)\n- 40-40 club members: Canseco (1988), Bonds (1996), A-Rod (1998), Soriano (2006), Acuña (2023), Ohtani (2024) [HIGH]\n- PCA would be 7th member ever [HIGH]\n- Already broke Billy Williams LH Cubs HR record (42 homers in 1970) [HIGH]\n- First Cub to reach 40 HR since Derrek Lee hit 46 in 2005 [HIGH]\n- PCA is 24 years old, 2nd-most Cubs HRs ever by age 24 (behind Banks 44 in 1955) [HIGH]\n- Cubs failed to clinch on Sept. 23 (lost to Marlins 3-2) [HIGH]\n- PCA is NL MVP frontrunner [MEDIUM — multiple sources cite, not official]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Cubs Denied Again — NL Wild Card Race Tightens With 3 Games Left",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Marlins 3-2. Cubs again.\n\nSecond straight night the Cubs couldn't clinch a playoff spot. Kyle Stowers HR off Gausman in the 6th. Diamondbacks beat the Rockies so no backdoor clinch either.\n\n3 games left. The NL Wild Card race is REAL. #Cubs #NLWildCard #MLB",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#NLWildCard",
+            "#MLB"
+          ],
+          "char_count": 257
+        },
+        {
+          "label": "Post 2-2",
+          "text": "NL Wild Card update: Cubs 87-69 (approximately), Padres and Phillies still within 1-2 games.\n\nRegular season ends Sunday. Wild Card starts Tuesday.\n\nNobody's clinching. Nobody's safe. Every game is a playoff game. #MLB #NLWildCard #Cubs #Padres",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#NLWildCard",
+            "#Cubs",
+            "#Padres"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-cubs-denied-clinch-nl-wildcard-three-games.html",
+        "headline": "Cubs Denied Again: Two Marlins Losses Leave NL Wild Card Race Alive With 3 Games to Go",
+        "word_count": 476
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cubs Denied Clinch\n\n**Image 2A** | Social (1080x1350)\n- **Type:** imagn\n- **Search Term:** \"Chicago Cubs dugout\"\n- **Text Overlay (Canva):** \"DENIED AGAIN\" / \"Cubs vs. Marlins — 3 Games Left\" / \"NL Wild Card Race Tightens\"\n\n**Image 2B** | Social (1080x1350)\n- **Type:** imagn\n- **Search Term:** \"Dansby Swanson Chicago Cubs\"\n- **Text Overlay (Canva):** \"3 GAMES LEFT\" / \"Cubs Still Lead NL Wild Card\" / \"But Nothing Is Clinched\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Cubs Denied Again — NL Wild Card Race\n**Source:** Sun-Times (2026-09-23); MLB.com Cubs news; CBSSports.com boxscore; Bleacher Nation\n- Cubs lost to Marlins 3-2 on Sept. 23 for 2nd straight night denied clinch [HIGH]\n- Kyle Stowers HR (21st) off Gausman broke scoreless tie; Joe Mack groundout added decisive run [HIGH]\n- Dansby Swanson drove in both Cubs runs with broken-bat single [HIGH]\n- Cubs needed win OR Arizona loss to clinch; Diamondbacks beat Rockies 5-3 [HIGH]\n- Regular season ends Sept. 27; Wild Card starts Sept. 29 [HIGH]\n- Cubs remaining schedule: Reds, Marlins, Red Sox [MEDIUM]\n- Padres remaining: Marlins, Dodgers, Diamondbacks [MEDIUM]\n- Phillies remaining: Mets, Brewers, Rays [MEDIUM]\n- NL WC standings (heading into Sept. 24): Cubs 87-69/87-70, Padres ~86-69/87-69, Phillies 86-70 [MEDIUM — exact records vary by game played]\n- Note: records may have shifted after Sept. 23 games; standings show 1-game range for Cubs lead",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Misiorowski at Wrigley — Cy Young Front-Runner Gets Second Shot vs. Cubs",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Tonight: Jacob Misiorowski starts at Wrigley Field against the Cubs.\n\nThe last time he was there? Career-worst: 5 runs in 4 innings on Sept. 2.\n\n247 Ks. 1.95 ERA. 20-8. The Cy Young favorite gets a second shot tonight. #Brewers #Cubs #MLB",
+          "posting_time": "3:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#Cubs",
+            "#MLB"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-misiorowski-wrigley-second-shot-cy-young.html",
+        "headline": "Misiorowski Gets His Second Shot at Wrigley — Cy Young Front-Runner Seeks Redemption",
+        "word_count": 476
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Misiorowski at Wrigley\n\n**Image 3A** | Social (1080x1350)\n- **Type:** imagn\n- **Search Term:** \"Jacob Misiorowski Milwaukee Brewers\"\n- **Text Overlay (Canva):** \"TONIGHT AT WRIGLEY\" / \"Misiorowski — Cy Young. 247 Ks. 1.95 ERA.\" / \"Second Shot\"\n\n**Image 3B** | Social (1080x1350)\n- **Type:** imagn\n- **Search Term:** \"Jacob Misiorowski pitching\"\n- **Text Overlay (Canva):** \"17 K's FROM HISTORY\" / \"Misiorowski Chases Sheets' Brewers Record\" / \"247 and Counting\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Misiorowski at Wrigley — Second Shot\n**Source:** MLB.com (Jacob Misiorowski faces the Cubs at Wrigley); Spectrum News 1; Yahoo Sports; ABCNews\n- Misiorowski season line: ~247 K, 1.95 ERA as of 9/22 start vs. Baltimore [HIGH]\n- Ben Sheets single-season Brewers record: 264 K (2004) [HIGH]\n- Misiorowski needs ~17 more K to break Sheets' record [MEDIUM — if he's at 247 K]\n- Misiorowski had rough Sept. 2 start at Wrigley: 5 runs, 4 IP, 5 K, 4 BB in career-worst outing [HIGH]\n- Brewers won that game 9-5 despite his early exit [HIGH]\n- First pitcher in MLB history to throw 1,000 pitches 100+ mph in one season (hit milestone Sept. 8) [HIGH]\n- ERA 1.95, record 20-8 (from prior reports) [HIGH]\n- Cy Young frontrunner per multiple reports [MEDIUM]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Aaron Judge Return — 10-Day IL Expires by Sept. 27, Postseason Still in Doubt",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Aaron Judge's 10-day IL expires by Sept. 27 — the final regular season game.\n\nBut it's a soleus calf strain. Boone: no timeline.\n\nJudge wants to be back for the postseason. The Yankees are managing him for October. #Yankees #MLB",
+          "posting_time": "5:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#MLB"
+          ],
+          "char_count": 228
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:30 PM ET"
+      },
+      "article": {
+        "filename": "article-04-aaron-judge-il-return-yankees-postseason.html",
+        "headline": "Judge's 10-Day IL Expires by Sept. 27 — Yankees Managing Him Carefully for October",
+        "word_count": 541
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Aaron Judge IL Return\n\n**Image 4A** | Social (1080x1350)\n- **Type:** imagn\n- **Search Term:** \"Aaron Judge New York Yankees\"\n- **Text Overlay (Canva):** \"JUDGE WATCH\" / \"Earliest Return: Sept. 27\" / \"Yankees Managing Him for October\"\n\n**Image 4B** | Social (1080x1350)\n- **Type:** imagn\n- **Search Term:** \"Aaron Judge Yankees batting\"\n- **Text Overlay (Canva):** \"TARGETING THE POSTSEASON\" / \"Judge: Soleus Calf Strain\" / \"10-Day IL Expires Sept. 27\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Aaron Judge — IL Expiration and Postseason\n**Source:** MLB.com (judge calf strain IL); ESPN; CBS Sports; Yahoo Sports\n- Judge placed on 10-day IL retroactive to Sept. 17 with right soleus calf strain [HIGH]\n- Earliest eligible return: Sept. 27 (final regular season game) [HIGH]\n- Manager Aaron Boone: \"wouldn't place a timeline\" on return [HIGH]\n- Judge targeted postseason return per his own statement [HIGH]\n- Soleus calf strain = more serious than typical calf injury, crucial for running and hitting [HIGH]\n- This is Judge's 2nd IL stint of 2026: first was 99-day rib fracture, returned Sept. 8 [HIGH]\n- Yankees had already clinched postseason prior to Judge's second injury [HIGH]\n- Yankees targeting Judge to be ready for Wild Card round beginning ~Sept. 30 [MEDIUM]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Yordan Alvarez Triple Crown — The Math Is Hard, But He's Not Done",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Yordan Alvarez Triple Crown update: .311 BA (leads AL), ~38 HR (trails Caminero by 2), ~96 RBI (trails Alonso by ~4).\n\n3 games left.\n\nHe needs a hot finish AND two of his rivals to go cold. Math is hard. But so was everything else he's done. #Astros #MLB",
+          "posting_time": "8:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Astros",
+            "#MLB"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-yordan-alvarez-triple-crown-math-fading.html",
+        "headline": "Yordan Alvarez's Triple Crown Chase: The Math Is Hard, But He's Not Done",
+        "word_count": 533
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alvarez Triple Crown\n\n**Image 5A** | Social (1080x1350)\n- **Type:** imagn\n- **Search Term:** \"Yordan Alvarez Houston Astros\"\n- **Text Overlay (Canva):** \"TRIPLE CROWN WATCH\" / \".311 BA | ~38 HR | ~96 RBI\" / \"3 Games to Make History\"\n\n**Image 5B** | Social (1080x1350)\n- **Type:** imagn\n- **Search Term:** \"Yordan Alvarez batting Houston\"\n- **Text Overlay (Canva):** \"THE MATH IS HARD\" / \"Alvarez Still Alive in Triple Crown Chase\" / \"Last AL Triple Crown: Cabrera 2012\""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Yordan Alvarez Triple Crown Math\n**Source:** ESPN; Yahoo Sports; CBS Sports; MLB.com (alvarez triple crown)\n- Alvarez batting average: approximately .311, leading AL (5-point lead over Chandler Simpson) [HIGH]\n- Alvarez HR: approximately 38 (trails Junior Caminero of TB who has ~40) [MEDIUM]\n- Alvarez RBI: approximately 96 (trails Pete Alonso of BAL at ~100) [MEDIUM]\n- Last AL Triple Crown: Miguel Cabrera, 2012 Tigers [HIGH]\n- Alvarez must gain ~2 HR on Caminero and ~4 RBI on Alonso in final 3-4 games [HIGH based on math]\n- Alvarez BA lead is solid; it's the HR and RBI categories where he trails [HIGH]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
