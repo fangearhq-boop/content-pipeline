@@ -1,6 +1,37 @@
 # COS Parenting — Pipeline Status
 
-## Current Run: 2026-09-23
+## Current Run: 2026-09-24
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | CS Oktoberfest (FREE, WMMI, Sep 25-27, Dachshund Dash Sat+Sun 2 PM, gazette.com Sep 24); Harvest Hootenanny Gather Mountain Blooms (Sat Sep 26 8 AM–noon, $5.72, final flower season, first pumpkins, gathermountainblooms.com); Bristol Brewing Oktoberfest family session (Sat Sep 26 11 AM–3 PM FREE, 1604 S. Cascade, bristolbrewing.com); HALO Dream Magic Sleepsuit recall (~45,000 units, zipper choking hazard, batch codes PO30592/PO30641/PO30685, sleepsuitrecall.com, cpsc.gov); Tuyedoqe travel bassinet CPSC warning (~250 units, company refused recall, no refund, cpsc.gov); D11 civil complaint Sep 8 + ECHO rally Sep 23 (KRDO); D49 Student Success Center (covered Sep 13/16); AAP screen time 5 Cs (covered Sep 18) |
+| Story History Check | COMPLETE | All 5 stories NEW; AAP screen time (covered Sep 18) excluded; SHEIN spiral toy (covered Sep 15) excluded; Alanca dresser (covered Sep 16) excluded; CooCooBaby (covered Sep 18) excluded; Liberty Lancers Car Show Sep 26 (covered Sep 23) excluded; Starlight Spectacular excluded (sold out, no refund available) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2); bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: gazette.com, csoktoberfest.com, gathermountainblooms.com, bristolbrewing.com, denver7.com, cpsc.gov (HALO recall + Tuyedoqe Notice of Violation), wgntv.com, krdo.com, d11.org |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows, voice check |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 8 posts across 5 stories; all ≤280 chars verified; 4 hashtags each; max 1 exclamation mark; COS voice rules applied |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; no hashtags; engagement questions; COS voice rules applied |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 8 Gemini base_only prompts across 5 stories; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 Weekend Roundup Sep 25-27 (Sarah Morales, T1, QR table, SpringsDaily SEO links); article-02 HALO recall (Jamie Rivera, T1, QR table); article-03 Tuyedoqe warning (Sarah Morales, T1, QR table); article-04 D11 governance update (Jamie Rivera, T2); article-05 Harvest Hootenanny (Sarah Morales, T2, QR table) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 70 claims; MISSING STORY warnings cosmetic (parser header mismatch, known); no char-limit violations |
+| Compile Content Data | COMPLETE (partial) | 07-content-data.json — 0 stories parsed (known parser compat issue); 8 X posts counted correctly |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 8 entries across 5 stories, all not_started, gemini base_only, brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 5 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser compat issue — ran both standard and --tobi |
+| WordPress Publish | BLOCKED | No articles parsed (parser compat issue); fanrumor.com proxy also 403 (known recurring issue) |
+| Story History | COMPLETE | 5 new entries prepended to Parenting/story-history.md (Sep 24 section) |
+
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 5 FB long-form + 5 FB captions = 18 total
+- **Articles:** 5 (bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4])
+- **PostPlanner exports:** 0 posts (known parser compat issue)
+- **Key stories:** CS Oktoberfest 14th Annual FREE all weekend at WMMI (Dachshund Dash Sat+Sun 2 PM); HALO Dream Magic Sleepsuit recall (~45,000, batch codes PO30592/PO30641/PO30685, sleepsuitrecall.com); Tuyedoqe travel bassinet CPSC warning (~250 units, company refused recall, no refund, cpsc.gov); D11 civil complaint + ECHO rally Sep 23 for transparency (special board meeting pending, d11.org/KRDO); Harvest Hootenanny final you-pick flower day Sat Sep 26 ($5.72, 5210 S. US-85/87, gathermountainblooms.com)
+- **Issues:** PostPlanner 0 posts (known); WordPress parser compat + proxy both blocked; dashboard push 403 proxy
+
+---
+
+## Previous Run: 2026-09-23
 
 | Step | Status | Notes |
 |------|--------|-------|

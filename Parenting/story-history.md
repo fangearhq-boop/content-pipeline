@@ -2,6 +2,50 @@
 
 ---
 
+## September 24, 2026
+
+### Story 1: Things to Do with Kids in Colorado Springs This Weekend (September 25–27)
+- **Date:** 2026-09-24
+- **Tier:** T1
+- **Pillar:** Local Events (Thursday Weekend Roundup — required)
+- **Key Facts:** CS Oktoberfest 14th Annual (Fri Sep 25 from 5 PM, Sat–Sun, FREE, Western Museum of Mining & Industry, 225 North Gate Blvd., Dachshund Dash Sat+Sun 2 PM); Harvest Hootenanny at Gather Mountain Blooms (Sat Sep 26 8 AM–noon, 5210 S. US-85/87, $5.72/person free under 3, final you-pick flower season, first pumpkins); Bristol Brewing Oktoberfest family session (Sat Sep 26 11 AM–3 PM, FREE, 1604 S. Cascade Ave., Ivywild School); Poor Richard's Playground grand reopening (Sat Sep 26, 320 N. Tejon St., verify poorrichardscs.com); Free outdoor movie Saturday evening at The Schoolyard Ivywild; SpringsDaily SEO links included; weather highs 70s–80s
+- **Byline:** Sarah Morales
+- **Status:** NEW (Thursday required Weekend Roundup)
+
+### Story 2: HALO Dream Magic Sleepsuit Recalled: 45,000 Units — Zipper Head Detaches, Choking Hazard
+- **Date:** 2026-09-24
+- **Tier:** T1
+- **Pillar:** National Parenting (Product Safety)
+- **Key Facts:** CPSC recall; ~45,000 units; HALO Dream Magic Sleepsuits; sold Amazon/Walmart/Target Sep 2025–Feb 2026 ~$50; zipper head detaches — choking hazard for infants; 15 reports, 0 injuries; affected batch codes: PO30592, PO30641, PO30685 (on garment tag); action: stop use, register at sleepsuitrecall.com, write "RECALL" in marker, mail back for refund/replacement
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 3: CPSC Issues Stop-Use Warning for Tuyedoqe Travel Bassinets — Company Refused Recall, No Refund Exists
+- **Date:** 2026-09-24
+- **Tier:** T1
+- **Pillar:** National Parenting (Product Safety)
+- **Key Facts:** CPSC Notice of Violation — not a recall; Tuyedoqe travel bassinets; ~250 units on Amazon Apr–Oct 2025 ~$40; hazards: strangulation (restraint straps), fall risk (sides too low), unsafe on elevated surfaces; manufacturer (China) refused voluntary recall; NO refund program; action: stop use immediately, contact cpsc.gov, dispose safely
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 4: D11 Governance Update — Civil Complaint Filed, ECHO Rally Calls for Transparency
+- **Date:** 2026-09-24
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** Sep 8: D11 employee filed civil complaint against superintendent and deputy superintendent alleging theft of confidential files; Sep 23: ECHO (Education and Community Help Organization) held transparency+accountability rally; special board meeting pending (date unconfirmed); schools operating normally; D11 positives: all high schools at state's top performance tier 2026-27; Edukit partnership gave 14,000+ K-8 students free supply kits Aug 12; sources: KRDO Sep 23, d11.org
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 5: Harvest Hootenanny at Gather Mountain Blooms — Last Day of You-Pick Flowers, First Pumpkins Sep 26
+- **Date:** 2026-09-24
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Harvest Hootenanny; Sat Sep 26, 8 AM–noon; Gather Mountain Blooms / Venetucci Farm, 5210 S. U.S. Hwy 85/87; $5.72/person free ages 3 and under; final day of you-pick flower season 2026; first pumpkins available; live music; artisan market; tickets at gathermountainblooms.com (advance booking recommended); pairs with Bristol Brewing Oktoberfest later same day
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+---
+
 ## September 23, 2026
 
 ### Story 1: CPSC Warns: Stop Using Jocoevol 6-Drawer Dressers — Tip-Over and Child Entrapment Hazard
