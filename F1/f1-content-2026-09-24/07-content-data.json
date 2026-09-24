@@ -1,0 +1,283 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-24",
+  "compiled_at": "2026-09-24T11:27:40.814863+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Hamilton Leads Ferrari 1-2 in FP2 — Both McLarens Hit the Wall",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "**Post 1 (8:00 AM ET — Overnight results)**\nFP2 BAKU: Hamilton leads Ferrari 1-2 (1:41.293). Norris hit the wall at T4, broke suspension, session over. Piastri hit T15. McLaren brought a Baku upgrade and both cars crashed. Qualifying is tomorrow. 👀 #F1 #AzerbaijanGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#AzerbaijanGP"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-hamilton-ferrari-fp2-mclaren-wall.html",
+        "headline": "Hamilton Leads Ferrari 1-2 in Baku FP2 as Both McLarens Hit the Wall",
+        "word_count": 426
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Hamilton Leads Ferrari 1-2 in FP2\n**Sources:** formula1.com, motorsport.com, gpfans.com, skysports.com\n**Key verified facts:**\n- Hamilton FP2 time: 1m41.293s — [HIGH, multiple sources]\n- Leclerc FP2 time: 1m41.367s (+0.074s) — [HIGH]\n- Full top 10: Hamilton, Leclerc, Russell, Antonelli, Bearman, Verstappen, Lawson, Ocon, Albon, Norris — [HIGH, per GPFans/Motorsport.com]\n- Norris hit wall at Turn 4, broke left-rear suspension, session ended early — [HIGH, formula1.com]\n- Piastri hit barrier at T15, minimal damage, 12th — [HIGH, motorsport.com]\n- McLarens struggling for grip under braking — [HIGH, multiple sources]\n- Russell 3rd in FP2 — [HIGH]\n- Antonelli 4th in FP2 — [HIGH]\n**FP1 results (for context):**\n- Russell 1st: 1m45.387s — [HIGH]\n- Verstappen 2nd: +0.400s — [HIGH]\n- Leclerc 3rd: +0.404s — [HIGH]\n- Hamilton 4th: +0.437s — [HIGH]\n- Antonelli hydraulic failure after 9 laps — [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Antonelli's Nightmare Thursday — Hydraulic Failure FP1, Yellow Flag Investigation FP2",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "**Post 3 (12:00 PM ET — News)**\nKimi Antonelli's Thursday in Baku: hydraulic failure FP1 (9 laps), extinguisher on car. Under investigation FP2 for yellow flag breach. Still championship leader by 81 points. But this is his worst day of 2026. #F1 #AzerbaijanGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#AzerbaijanGP"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-antonelli-nightmare-thursday-baku.html",
+        "headline": "Antonelli's Nightmare Thursday: Hydraulic Failure, Extinguisher on Car, Yellow Flag Investigation",
+        "word_count": 427
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli's Nightmare Thursday\n**Sources:** formula1.com, gpfans.com, grandepremio.com, skysports.com\n**Key verified facts:**\n- Hydraulic failure after 9 laps in FP1 — [HIGH]\n- Stopped at Turn 7 in FP1; marshals deployed extinguisher on car — [HIGH, grandepremio.com]\n- VirtualSafety Car deployed during FP1 stoppage — [HIGH]\n- Antonelli under investigation after FP2 for allegedly failing to slow under yellow flags — [HIGH, motorsport.com]\n- Antonelli championship points: 292 after R14 — [HIGH, prior verified]\n- Gap to Russell: -81 pts; Hamilton: -101; Norris: -106 — [HIGH, prior verified]\n- 233 pts remaining (9 rounds) — [HIGH, prior verified]\n**Notes:** Investigation outcome not yet known; penalty could be 5-place grid drop or reprimand. Will not speculate on outcome.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Leclerc Grid Penalty — New Ferrari Engine, Starts From Back",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "**Post 5 (5:00 PM ET — Qualifying preview)**\nLeclerc starts from the BACK in Baku with a new Ferrari power unit — and just went P2 in FP2. The engine is 0.2s/lap faster. His race from last on the longest-straight circuit in F1 could be something special. #F1 #Leclerc",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Leclerc"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-leclerc-grid-penalty-new-engine-fp2-p2.html",
+        "headline": "Leclerc Starts Last in Baku — But His New Ferrari Engine Just Went P2 in FP2",
+        "word_count": 407
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Leclerc Grid Penalty\n**Sources:** formula1.com, prior research\n**Key verified facts:**\n- New Ferrari power unit deployed from FP2 onwards, triggering grid penalty — [HIGH]\n- Old spec run in FP1 — [HIGH]\n- New unit ~0.2 sec/lap faster than ADUO1 — [HIGH, prior verified]\n- Starts from back of grid regardless of qualifying position — [HIGH]\n- Baku 2.2km straight = best recovery circuit on calendar — [HIGH]\n- FP2 result: 2nd fastest (1m41.367s) — confirms new unit performance — [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Norris Championship Crisis — Hits Wall, Broken Suspension, 106 Points Behind",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "**Post 6 (2:00 PM ET — Championship angle)**\nNorris is 106 points behind Antonelli. He's now investigating wall damage. McLaren's Baku upgrade underperformed. With 233 points left in the season, the maths is getting uncomfortable. #F1 #NorrisF1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#NorrisF1"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-norris-championship-crisis-wall-baku.html",
+        "headline": "Norris Hits the Wall in Baku FP2 as McLaren's Championship Crisis Deepens",
+        "word_count": 383
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Norris Championship Crisis\n**Sources:** motorsport.com, formula1.com, gpfans.com\n**Key verified facts:**\n- Norris championship position: 4th, 186 pts, -106 behind Antonelli — [HIGH, prior verified]\n- Norris hit wall at Turn 4 FP2, broke left-rear suspension — [HIGH]\n- McLaren brought Baku-specific upgrade (second sector focus) — [HIGH, prior verified]\n- Both McLarens struggling for grip under braking throughout FP2 — [HIGH, motorsport.com]\n- Piastri 12th in FP2 — [HIGH]\n- 233 points remaining in season — [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Williams FW48 2.0 Debuts in Baku — \"Almost Completely New Car\"",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "**Post 7 (10:00 AM ET — Feature)**\nWilliams debuted the FW48 2.0 in FP1 today — Vowles called it \"almost completely new.\" He also said it won't score points. But this car IS the foundation for the FW50 (2027). In Baku, Williams is building their future. #F1 #Williams",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Williams"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-williams-fw48-2-baku-debut.html",
+        "headline": "Williams Debuts \"Almost Completely New\" FW48 in Baku — and It's Really About 2027",
+        "word_count": 390
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Williams FW48 2.0\n**Sources:** prior research notes\n**Key verified facts:**\n- FW48 2.0 (B-spec) arrives in Baku — [HIGH]\n- New lighter carbon manufacturing process — [HIGH]\n- Original FW48 was overweight — [HIGH]\n- Vowles: \"almost completely new\" — [HIGH]\n- Vowles warned \"won't be enough for points\" — [HIGH]\n- Last Williams major upgrade of 2026 season — [HIGH]\n- Forms FW50 (2027) chassis foundation — [HIGH]\n- Drivers: Carlos Sainz, Alex Albon — [HIGH]\n- Debut in FP1 Sept. 24 — [HIGH]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

@@ -2,6 +2,48 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-09-24
+
+### STORY 1: Hamilton Leads Ferrari 1-2 in Baku FP2 — Both McLarens Hit Wall
+- **Tier:** 1
+- **Category:** Lewis Hamilton / Ferrari / Baku FP2 / McLaren / Norris / Piastri
+- **Key facts:** Hamilton FP2 1m41.293s; Leclerc P2 +0.074s; Russell P3; Antonelli P4; Norris T4 wall hit, broken suspension, P10; Piastri T15 wall hit, P12; McLarens struggling for braking grip; Baku-specific upgrade underperforming
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+- **Follow-up ideas:** Qualifying result, overnight repairs, McLaren's setup fix
+
+### STORY 2: Antonelli's Nightmare Thursday — Hydraulic Failure + Yellow Flag Investigation
+- **Tier:** 1
+- **Category:** Kimi Antonelli / Mercedes / Championship / Azerbaijan GP
+- **Key facts:** Hydraulic failure FP1 after 9 laps; stopped Turn 7; extinguisher deployed; VirtualSafety Car; recovered to P4 FP2; under investigation for yellow flag breach; championship lead: 81 pts over Russell, 233 pts remaining
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Investigation outcome, qualifying result, championship impact
+
+### STORY 3: Leclerc Grid Penalty — New Engine P2 in FP2
+- **Tier:** 1
+- **Category:** Charles Leclerc / Ferrari / Engine Penalty / Azerbaijan GP
+- **Key facts:** New power unit from FP2 triggers grid penalty (starts last); FP2 P2 with 1m41.367s; new engine ~0.2s/lap faster; Baku 2.2km straight = best recovery circuit; race Saturday
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Qualifying position, race recovery drive, positions gained
+
+### STORY 4: Norris Championship Crisis — Wall Hit, 106 Points Back
+- **Tier:** 2
+- **Category:** Lando Norris / McLaren / Drivers' Championship
+- **Key facts:** 186 pts, P4 championship, -106 behind Antonelli; wall hit T4 FP2, broken left-rear suspension; P10 FP2; Baku-specific upgrade not working; 233 pts remaining; Piastri also hit wall
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Qualifying result, race finish, championship gap post-Baku
+
+### STORY 5: Williams FW48 2.0 Baku Debut
+- **Tier:** 2
+- **Category:** Williams / FW48 / Azerbaijan Grand Prix / 2027 Development
+- **Key facts:** B-spec debuts FP1; new lighter carbon process; original overweight; Vowles: "almost completely new"; won't score points; forms FW50 (2027) foundation; last 2026 upgrade; Sainz + Albon
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** FP2/qualifying pace data, 2027 development implications
+
 ## 2026-09-20
 
 | Date | Tier | Title | Platforms | Status |

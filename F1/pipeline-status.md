@@ -1,6 +1,6 @@
 # F1 Fanrecap — Pipeline Status
 
-## Last Run: 2026-09-22
+## Last Run: 2026-09-24
 
 **Status:** COMPLETE (with known proxy limitations)
 **Niche:** F1 Fanrecap
@@ -8,6 +8,27 @@
 **Articles:** 5
 
 ---
+
+## 2026-09-24 Run Log
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research | ✅ Complete | 5 stories — FP2 results, Antonelli Thursday, Leclerc penalty, Norris wall hit, Williams FW48 2.0 |
+| Daily Brief | ✅ Complete | 00-daily-brief.md |
+| Research Notes | ✅ Complete | 01-research-notes.md |
+| Story Analysis | ✅ Complete | 02-story-analysis.md |
+| X Posts | ✅ Complete | 03-social-posts-x.md — 7 posts, all ≤280 chars |
+| FB Posts | ✅ Complete | 04-social-posts-facebook.md — 5 stories |
+| Image Concepts | ✅ Complete | 05-image-concepts.md |
+| Articles | ✅ Complete | 5 articles in articles/ |
+| Fact Check | ✅ Complete | verify-facts.py — image warnings expected (imagn) |
+| Compile | ✅ Complete | compile-content-data.py — 5 stories, 5 tweets, 5 articles |
+| Image Manifest | ✅ Complete | 07-image-manifest.md (all not_started — imagn manual step) |
+| Story History | ✅ Complete | story-history.md updated |
+| Dashboard | ✅ Complete | generate-review-dashboard.py — 20 items |
+| PostPlanner | ⚠ Known issue | 0 posts found (known parsing issue) |
+| WordPress | ❌ Blocked | fanrumor.com blocked by egress proxy |
+| Git Push | ✅ Complete | Committed and pushed |
 
 ## 2026-09-22 Run Log
 
