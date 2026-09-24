@@ -5,6 +5,55 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-09-24 (MID-SERIES — vs. Miami Marlins, Home, Wrigley, Game 3 of 3)
+
+### STORY 1: Marlins 3, Cubs 2 — Magic Number Stays at 1
+- **Angle:** FOLLOW UP. Marlins won Game 2 at Wrigley 3-2 on Sept 23. Kyle Stowers' 2-run HR in 6th. Gausman left with left shoulder soreness (non-throwing arm). Swanson drove in both runs. Magic number stays at 1. D-backs beat Rockies. Boyd starts today (Game 3).
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, overnight recap)
+- **Follow-Up Opportunities:**
+  - Game 3 result recap (Sept 25 morning)
+  - Clinch announcement if Cubs win today
+
+### STORY 2: Kevin Gausman Left Shoulder Injury
+- **Angle:** NEW STORY. Gausman injured left (non-throwing) shoulder on a diving tag in the 6th inning of Game 2. Counsell: shoulder "got extended awkwardly and grabbed on him." Status update in a few days. Wild Card round ~6 days away. Was lined up as potential WCS Game 1/2 starter.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, injury/bold take)
+- **Follow-Up Opportunities:**
+  - Gausman status update (could be available or placed on IL before WCS)
+  - Rotation slot implications
+
+### STORY 3: PCA 40-40 Chase — 45 HR / 39 SB
+- **Angle:** FOLLOW UP. PCA at 45 HR / 39 SB — one steal from joining the 40-40 club. Only 6 players in MLB history (Canseco, Bonds, A-Rod, Soriano, Acuña, Ohtani). No Cub ever. 3 games remaining.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, milestone)
+- **Follow-Up Opportunities:**
+  - SB No. 40 — historic announcement when achieved
+
+### STORY 4: Bregman + Steele Both Targeting Weekend Return
+- **Angle:** FOLLOW UP. Bregman (multiple facial fractures, Sept 20) tracked pitches + weight room on Sept 23. Targeting return this weekend in St. Louis. Steele "an option" per Counsell after final Iowa rehab (2 IP, 5 K, 0 ER). Both could join roster before Oct Wild Card.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, roster analysis)
+- **Follow-Up Opportunities:**
+  - Bregman official return game
+  - Steele first MLB appearance since April 2025
+
+### STORY 5: Game Preview — Boyd vs. Phillips, 1:20 PM CT
+- **Angle:** FOLLOW UP. Matthew Boyd (9-5) vs Tyler Phillips (5-6) at Wrigley, 1:20 PM CT. Last home game before St. Louis road trip. Magic number 1. Win = clinched.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Game 3 result recap
+
+### STORY 6: Pre-Game Hype — Wrigley Locked In
+- **Angle:** FOLLOW UP. Pre-game urgency tweet. Magic number 1. Boyd warm. 1:20 PM CT at Wrigley.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, pre-game hype)
+- **Follow-Up Opportunities:**
+  - Clinch result
+
+---
+
 ## 2026-09-23 (MID-SERIES — vs. Miami Marlins, Home, Wrigley, Game 2 of 2)
 
 ### STORY 1: Clinch Watch — Cubs Lost 8-2, Magic Number Stays at 1
