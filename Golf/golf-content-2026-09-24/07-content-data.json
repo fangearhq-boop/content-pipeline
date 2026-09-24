@@ -1,0 +1,281 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-24",
+  "compiled_at": "2026-09-24T11:36:53.181689+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Presidents Cup Day 1 Fourball — Five Matches at Medinah",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "**Post 1 (8:00 AM ET — Overnight results)**\nPresidents Cup Day 1 at Medinah. Scheffler/Burns, Schauffele/Young, Thomas/Koivun, Clark/Morikawa, Cantlay/Gotterup. The International team hasn't won since 1998. Will today be different? #PresidentsCup",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PresidentsCup"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-presidents-cup-day-1-fourball-medinah.html",
+        "headline": "Presidents Cup Day 1: Five Fourball Matches Kick Off the Week at Medinah",
+        "word_count": 420
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Presidents Cup Day 1 Fourball\n**Sources:** Yahoo Sports, PGA Tour, Golf.com, CBS Sports, Golf Digest, NBC Sports\n**Key verified facts:**\n- Day 1 format: fourball (best ball) — 5 matches — [HIGH]\n- Match 1 (11:35 AM CDT): Scheffler/Burns (USA) vs Im/Min Woo Lee (INT) — [HIGH]\n- Match 2 (11:53 AM CDT): Young/Schauffele (USA) vs Matsuyama/Hisatsune (INT) — [HIGH]\n- Match 3 (12:11 PM CDT): Thomas/Koivun (USA) vs Conners/Echavarria (INT) — [HIGH]\n- Match 4 (12:29 PM CDT): Clark/Morikawa (USA) vs Fox/Scott (INT) — [HIGH]\n- Match 5 (12:47 PM CDT): Cantlay/Gotterup (USA) vs Tom Kim/Si Woo Kim (INT) — [HIGH]\n- USA all-time record: 13-2 — [HIGH]\n- International last win: 1998 Royal Melbourne (20.5-11.5) — [HIGH]\n- 12 consecutive International losses — [HIGH]\n- Total points available (all 4 days): 30 — [HIGH]\n- 5 points available Day 1 (one per match) — [HIGH]\n**Note:** Day 1 match results not confirmed in available search results. Coverage focuses on matchups and context.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "LIV Golf Bankruptcy — BC Partners' $300M Lifeline Has a Player Deadline",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "**Post 3 (10:30 AM ET — Developing story)**\nLIV Golf's lifeline: BC Partners (London PE firm) wants to inject $300M and make players majority owners of a restructured tour. But 2/3 of player claims must commit by mid-October. The clock is ticking. #LIVGolf #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf",
+            "#Golf"
+          ],
+          "char_count": 262
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-liv-golf-bc-partners-300m-restructuring.html",
+        "headline": "LIV Golf's $300M Lifeline: BC Partners Deal Would Make Players Majority Owners — With a Mid-October Deadline",
+        "word_count": 400
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LIV Golf Bankruptcy — BC Partners Restructuring\n**Sources:** Sportico, securitasglobal.com, livgolf.com official statement\n**Key verified facts:**\n- LIV Golf filed Chapter 11 bankruptcy September 8, 2026 — [HIGH]\n- Filed in U.S. Bankruptcy Court, District of New Jersey — [HIGH]\n- Saudi Arabia Public Investment Fund withdrew funding commitment — [HIGH]\n- LIV debt: $500M–$1B — [HIGH, Sportico]\n- BC Partners (London-based private equity): proposes $300M injection — [HIGH, Sportico]\n- Under plan: players would be majority owners of reorganized tour — [HIGH]\n- Player commitment deadline: 35 days from filing (Sept. 8) = mid-October deadline — [HIGH]\n- Required commitment: 2/3 by amount AND 1/2 by number of eligible player claims — [HIGH]\n- Expected re-emergence: early 2027 — [HIGH]\n- PGA Tour CEO Rolapp confirmed returning member programme \"not currently contemplated\" — [HIGH, prior verified]\n- October 13 restructuring hearing date (per prior research) — [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "International Team Seeks History at Medinah — Their Houdini Moment",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "**Post 5 (1:00 PM ET — Featured group)**\nFun fact: Medinah was the site of the 2012 Ryder Cup when Europe came back from 10-6 down on Sunday to win. The International team trails USA 13-2 all-time and has lost 12 straight. This course has comeback history. #PresidentsCup",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PresidentsCup"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-international-team-medinah-comeback-history.html",
+        "headline": "The International Team Is Searching for Their Medinah Miracle — This Course Has Done It Before",
+        "word_count": 428
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "International Team — Historical Context\n**Sources:** Multiple golf news sources, prior research\n**Key verified facts:**\n- International last win: 1998 Royal Melbourne, 20.5-11.5 — [HIGH]\n- 12 consecutive losses — [HIGH]\n- Geoff Ogilvy (2006 US Open) as captain — [HIGH]\n- 2026 squad: Matsuyama (2021 Masters), Tom Kim, Min Woo Lee, Adam Scott, Corey Conners, Sungjae Im, Ryan Fox, Ryo Hisatsune, Nico Echavarria, Si Woo Kim — [HIGH]\n- Medinah hosted 2012 Ryder Cup: Europe came back from 10-6 to win — [HIGH]\n- USA captain: Brandt Snedeker (confirmed per Golf Channel) — [HIGH]\n- 2024 Presidents Cup: USA won 5-0 on Day 1 (from prior search patterns) — [MEDIUM, reference to 2024 from prior search]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "NW Arkansas Championship Preview — Korda and 17 Solheim USA Players Ready for Rogers",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "**Post 6 (3:30 PM ET — Leaders)**\nTOMORROW: The LPGA Tour opens its first post-Solheim event at Pinnacle Country Club in Rogers, Arkansas. $3M purse, 18 Solheim Cup players in field, 16 major champions. World No. 1 in the field. #LPGA #NWAChampionship",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA",
+            "#NWAChampionship"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-nw-arkansas-championship-preview-lpga.html",
+        "headline": "NW Arkansas Championship Preview: LPGA's Post-Solheim Reset Begins Tomorrow in Rogers",
+        "word_count": 361
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NW Arkansas Championship Preview\n**Sources:** thegolfnewsnet.com, firstcallgolf.com, lpga.com, nwachampionship.com\n**Key verified facts:**\n- Sept. 25-27, Pinnacle Country Club, Rogers, Arkansas — [HIGH]\n- $3M purse — [HIGH, prior verified]\n- 54-hole stroke play — [HIGH]\n- Korda: World No. 1 — [HIGH]\n- Korda won 2026 Chevron Championship — [HIGH, prior verified]\n- Korda won 2026 US Women's Open — [HIGH, prior verified]\n- Korda unbeaten in Solheim Cup singles (4&2 vs Mimi Rhodes) — [HIGH, prior verified]\n- USA lost Solheim 13-15 to Europe — [HIGH, prior verified]\n- 16 major champions in field — [HIGH, firstcallgolf.com]\n- 18 Solheim Cup participants in field — [HIGH]\n- 8 US players: Coughlin, Khang, Kim, Kupcho, A.Lee, Noh, Yin, Zhang — [HIGH]\n- 10 European players including Hull, Grant, Boutier, Ciganda — [HIGH]\n- Note: Search results for this event mention Charley Hull, Miyu Yamashita, Lottie Woad as field highlights, along with major champions Buhai, Chun, Ko, Saso, Vu, Thompson — [HIGH]\n- Korda not explicitly listed in field description in newer search results — [MEDIUM — verify if Korda is in field]\n**Flag:** Prior research confirmed Korda in field (verified Sept. 22-23 research notes). New search describes different headliners. Korda's presence treated as MEDIUM pending additional confirmation. Will not state she's the favorite without re-confirming.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "PGA Tour Door Closed — LIV Players Face Restructuring or Career Uncertainty",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "**Post 7 (8:30 PM ET — Analysis)**\nRahm, DeChambeau, and Smith turned down the PGA Tour. Now LIV is restructuring with a player-ownership deal. They have ~19 days to commit or face the unknown. The most consequential career decision of their lives. #Golf #LIVGolf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Golf",
+            "#LIVGolf"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-liv-rahm-dechambeau-smith-commit-or-walk.html",
+        "headline": "Rahm, DeChambeau, Smith: Commit to Restructured LIV or Face the Unknown — 19 Days to Decide",
+        "word_count": 399
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "PGA Tour Door Closed / LIV Player Choice\n**Sources:** Prior research notes, Sportico, SI.com\n**Key verified facts:**\n- PGA Tour not contemplating returning member programme per Rolapp — [HIGH, prior verified]\n- January 2026 window: Koepka only taker ($5M charity + 5yr equity forfeiture) — [HIGH]\n- Rahm: eligible (2023 Masters, 2023 US Open), declined — [HIGH]\n- DeChambeau: eligible (2024 US Open), declined — [HIGH]\n- Smith: eligible (2022 The Players), declined — [HIGH]\n- BC Partners $300M restructuring plan: players majority owners — [HIGH, today's research]\n- Player commitment deadline: mid-October (~19 days) — [HIGH]\n- LIV players face choice: commit to new player-owned LIV structure or face uncertainty — [HIGH]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
