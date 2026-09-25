@@ -1,0 +1,252 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-25",
+  "compiled_at": "2026-09-25T10:18:00.949718+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Tennessee Opens Fall Ball Tonight — Mardjetko and Nuwer Step Back Into Game Mode",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Tennessee opens fall ball TONIGHT.\n\nMardjetko (16-3, 1.26 ERA) + Nuwer (15-1, 1.01 ERA) vs. Walters State — 6 PM CT at Sherri Parker Lee Stadium.\n\n31 wins. 8 shutouts. 9 starters back. The Lady Vols are ready to roll. #LadyVols #CollegeSoftball",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LadyVols",
+            "#CollegeSoftball"
+          ],
+          "char_count": 244
+        },
+        {
+          "label": "Post 1-2",
+          "text": "In a few hours, Sage Mardjetko takes the mound for Tennessee for the first time since the 2026 WCWS.\n\nTonight vs. Walters State. 6 PM CT. Free admission.\n\nThe 2027 season starts here. #LadyVols #Softball",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LadyVols",
+            "#Softball"
+          ],
+          "char_count": 203
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-tennessee-opens-fall-ball-tonight-mardjetko-nuwer.html",
+        "headline": "Tennessee Opens Fall Ball Tonight — Mardjetko, Nuwer Step Back Into Game Mode",
+        "word_count": 598
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Tennessee Opens Fall Ball Tonight\n\n**Image 1A** | Social (1080x1350)\n- **Type:** Gemini AI-generated\n- **Mode:** base_only (clean background for Canva text overlay)\n- **Prompt:** College softball pitcher in mid-delivery at dusk, orange and white uniform, stadium lights flickering on for a night game, Knoxville-style college ballpark atmosphere, cinematic sports photography style, shallow depth of field\n- **Text Overlay (Canva):** \"GAME NIGHT IN KNOXVILLE\" / \"Tennessee Softball\" / \"Tonight | 6 PM CT | Free\"\n- **Search Term (Imagn):** \"Sage Mardjetko Tennessee\"\n\n**Image 1B** | Social (1080x1350)\n- **Type:** Gemini AI-generated\n- **Mode:** base_only\n- **Prompt:** Two softball pitchers warming up together in the outfield of a college stadium at golden hour, camaraderie and focus, orange and white color palette, photorealistic sports editorial style\n- **Text Overlay (Canva):** \"31 WINS. 8 SHUTOUTS.\" / \"Mardjetko + Nuwer are back.\" / \"#LadyVols\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Tennessee Opens Fall Ball Tonight\n**Confirmed Facts (HIGH confidence):**\n- Game: Tennessee vs. Walters State, TODAY Sept. 25 at 6 PM CT\n- Venue: Sherri Parker Lee Stadium, Knoxville, TN\n- Admission: FREE. Gates open one hour before first pitch. No concessions available.\n- Sage Mardjetko 2026: 16-3 record, 171 K, 1.26 ERA — NFCA 1st Team All-American\n- Erin Nuwer 2026: 15-1 record, 90 K, 1.01 ERA\n- Combined Mardjetko/Nuwer in 2026: 31 wins, 8 shutouts\n- Sophia Knight led all UT players with .394 BA in 2026\n- Emma Clarke (14 HR), Alannah Leach (13 HR), Gabby Leach (10 HR) all returning\n- Tennessee returns 9 starters from 2026 WCWS squad\n- Upcoming fall home games: Lipscomb Sept. 27, Carson-Newman Oct. 2, Northeast Alabama Oct. 9, Northwest Florida State Oct. 10, Roane State Oct. 11, Lee University Oct. 23\n- Road game: Oct. 18 at Murfreesboro vs. Middle Tennessee\n**Sources:** utsports.com fall schedule release; WIVK \"Lady Vols Swing into Fall Ball Action\" (Sept. 23)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Texas Longhorns — 4 Days Out, Torres and Kavan Enter the Spotlight",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "4 days until Torres (.530 BA, 2026 national POY) and Kavan (2x WCWS MOP — only ever) share a field.\n\nSept. 29. McCombs Field. 6 PM CT. Free.\n\nThe three-peat chase starts Tuesday. #HookEm #CollegeSoftball",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HookEm",
+            "#CollegeSoftball"
+          ],
+          "char_count": 203
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-texas-four-days-torres-kavan-three-peat.html",
+        "headline": "Texas Longhorns Softball — Four Days Until Torres and Kavan Take the Field Together",
+        "word_count": 503
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas Longhorns — 4 Days to Opener\n\n**Image 2A** | Social (1080x1350)\n- **Type:** Gemini AI-generated\n- **Mode:** base_only\n- **Prompt:** Softball batter in a confident stance at home plate, burnt orange uniform, McCombs Field interior with packed stands at dusk, dynamic action framing, warm golden light, cinematic sports photography\n- **Text Overlay (Canva):** \"4 DAYS\" / \"Torres. Kavan. McCombs Field.\" / \"Sept. 29 | 6 PM CT | Free\"\n\n**Image 2B** | Social (1080x1350)\n- **Type:** Gemini AI-generated\n- **Mode:** base_only\n- **Prompt:** Back-to-back national championship banner display inside a college softball stadium, burnt orange and white, dramatic stadium lighting, wide angle showing the grandeur of a championship program\n- **Text Overlay (Canva):** \"BACK-TO-BACK CHAMPIONS\" / \"The Three-Peat Starts Tuesday\" / \"#HookEm\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Texas Longhorns — 4 Days to Opener\n**Confirmed Facts (HIGH confidence):**\n- Fall opener: Sept. 29 at McCombs Field vs. Murray State College, 6 PM CT, FREE\n- Texas won back-to-back WCWS titles (2025, 2026); defeated Texas Tech in 2026 championship series\n- Teagan Kavan: first athlete in WCWS history to win back-to-back MOP awards (2025 + 2026); Softball America No. 1 on its Top 100 list for 2026\n- Isa Torres: D1Softball National Player of the Year 2026 at FSU; transferred to Texas as senior\n- Torres is a Georgetown, TX native — homecoming story\n- Additional transfers: Samantha Swan (Sr. C, Arizona State) and Samantha Lincoln (Jr. LHP, Texas Tech)\n- Three-peat history: only UCLA 1988-90 and Oklahoma 2021-23 have three-peated in college softball\n- Texas faces Tennessee, Alabama, and Arkansas on back-to-back-to-back 2027 SEC weekends\n**Sources:** texaslonghorns.com fall schedule; NCAA.com 2026 championship; wbsc.org Kavan WCWS MOP history; 247Sports Texas three-peat preview",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Oklahoma Sooners — 5 Days Until Love's Field, Rebuilt Roster Primed",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "5 days until Kendall Wells (39 HR — all-time NCAA record) and Sydney Berzon (416 career K, 2x AA) suit up together for the first time.\n\nSept. 30. Love's Field. 6:30 PM.\n\nThe Sooners are ready to remind everyone. #Sooners #CollegeSoftball",
+          "posting_time": "3:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners",
+            "#CollegeSoftball"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-oklahoma-five-days-wells-berzon-loves-field.html",
+        "headline": "Oklahoma Softball — Five Days Until Love's Field, Wells and Berzon Finally Play Together",
+        "word_count": 530
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Oklahoma Sooners — 5 Days to Love's Field\n\n**Image 3A** | Social (1080x1350)\n- **Type:** Gemini AI-generated\n- **Mode:** base_only\n- **Prompt:** Softball catcher in catching gear crouched behind home plate at a modern college stadium, crimson and cream uniform, intense focus, dramatic stadium lighting, Love's Field style architecture visible\n- **Text Overlay (Canva):** \"5 DAYS\" / \"Oklahoma Softball\" / \"Sept. 30 | Love's Field | 6:30 PM\"\n\n**Image 3B** | Social (1080x1350)\n- **Type:** Gemini AI-generated\n- **Mode:** base_only\n- **Prompt:** Softball right-handed pitcher delivering a pitch in a modern college stadium, crimson uniform, low-angle shot showing the mound and stadium lights, athletic power and focus\n- **Text Overlay (Canva):** \"WELLS. BERZON.\" / \"39 HR + 416 Career K.\" / \"The Sooners' New Era Starts Now\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Oklahoma Sooners — 5 Days to Love's Field\n**Confirmed Facts (HIGH confidence):**\n- Fall opener: Sept. 30 (intrasquad Battle Series) at Love's Field, 6:30 PM — tickets $10.88/game, All Fall Pass $70.69\n- First game vs. outside opponent: Oct. 3 vs. Tarleton State, 1 PM at Love's Field\n- Full fall slate runs Sept. 30 through Nov. 4 (Tarleton State, USAO, Seminole State, East Texas A&M)\n- Kendall Wells 2026 final season line: .358 avg, 39 HR, 88 RBI — broke NCAA freshman HR record during season (31st HR vs. Texas) and finished with 39 total, breaking all-time NCAA single-season HR record (prev. 37 by Laura Espinoza 1995)\n- Wells awards: NFCA Freshman of the Year, SEC Freshman of the Year, Diamond Sports/NFCA Catcher of the Year, Johnny Bench Award (first freshman ever to win)\n- Sydney Berzon (LSU transfer, now OU): career 2.02 ERA, 52 wins, 416 K in 486.1 IP, two-time All-American\n- Macie Harter (MTSU transfer): .346 BA\n- OU seeking 9th national title in 2027 after falling to Texas in 2026\n**Sources:** soonersports.com fall schedule; NCAA.com Wells record; OU Daily/SI Wells stats; WBRZ Berzon transfer confirmation",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Asian Games Softball Starts Tomorrow — Japan Gunning for LA28 Qualification",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Asian Games softball starts TOMORROW in Anjō, Japan.\n\nJapan (No. 1 world). Chinese Taipei (No. 5). China (No. 8). Philippines (No. 13).\n\n8 nations. LA28 qualification on the line. Finals Oct. 3. #Softball #AsianGames",
+          "posting_time": "5:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Softball",
+            "#AsianGames"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:30 PM ET"
+      },
+      "article": {
+        "filename": "article-04-asian-games-softball-opens-tomorrow-japan.html",
+        "headline": "Asian Games Softball Opens Tomorrow — Japan Gunning for LA28 Qualification on Home Soil",
+        "word_count": 499
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Asian Games Softball Opens Tomorrow\n\n**Image 4A** | Social (1080x1350)\n- **Type:** Gemini AI-generated\n- **Mode:** base_only\n- **Prompt:** International softball stadium at sunrise, Japanese architectural style, competition field perfectly manicured, banners with Asian Games branding, early morning light and mist, cinematic sports documentary style\n- **Text Overlay (Canva):** \"ASIAN GAMES SOFTBALL\" / \"Starts Tomorrow in Japan\" / \"Sept. 26 — Oct. 3, 2026\"\n\n**Image 4B** | Social (1080x1350)\n- **Type:** Gemini AI-generated\n- **Mode:** base_only\n- **Prompt:** Softball player in a red and white uniform (Japan national team colors) winding up for a pitch, stadium packed with fans, dramatic overhead lighting, international competition atmosphere\n- **Text Overlay (Canva):** \"JAPAN. CHINESE TAIPEI. CHINA.\" / \"8 Nations. 1 Gold Medal.\" / \"#AsianGames #Softball\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Asian Games Softball Opens Tomorrow in Japan\n**Confirmed Facts (HIGH confidence):**\n- Competition: Sept. 26–Oct. 3, 2026 at Anjō Sports Park Softball Ground, Anjō, Aichi, Japan\n- Preliminary rounds: Sept. 26–Oct. 2; Finals/Gold Medal: Oct. 3\n- Part of 2026 Asian Games (Aichi-Nagoya host)\n- 8 teams: Japan (No. 1 world), Chinese Taipei (No. 5), China (No. 8), Philippines (No. 13), Singapore (No. 22), South Korea (No. 31), Hong Kong China (No. 32), Thailand (No. 44)\n- Japan is host nation and overwhelming favorite as world No. 1\n- Event has LA28 Olympic qualification pathway implications\n**Sources:** Wikipedia \"Softball at the 2026 Asian Games\"; WBSC.org Asian Games calendar; Olympics.com 2026 schedule",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Texas Tech Fall Schedule Is Out — Glasco's Seven All-Americans Debut Oct. 3",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Texas Tech's fall schedule is out.\n\nGlasco's 7 All-Americans (Beachum, Pickering, Heavener + more) open Oct. 3 vs. West Texas A&M. Free admission.\n\nThe most talented Red Raiders roster in program history is almost ready. #WreckEm #Softball",
+          "posting_time": "8:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#WreckEm",
+            "#Softball"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-texas-tech-fall-schedule-2028-recruiting.html",
+        "headline": "Texas Tech Fall Schedule Is Out — Glasco's Seven All-Americans Debut October 3",
+        "word_count": 495
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas Tech Fall Schedule\n\n**Image 5A** | Social (1080x1350)\n- **Type:** Gemini AI-generated\n- **Mode:** base_only\n- **Prompt:** Group of softball players in red and black uniforms walking onto the field for warmups, confident and purposeful strides, Texas plains horizon in the background, clear blue sky, vibrant team energy\n- **Text Overlay (Canva):** \"OCT. 3. THE WAIT IS OVER.\" / \"Texas Tech Softball — Fall Opener\" / \"Tracy Sellers Field | 2 PM | Free\""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Texas Tech Fall Schedule + 2028 Recruiting Update\n**Confirmed Facts (HIGH confidence):**\n- TTU fall schedule announced Sept. 21; five games:\n- Oct. 3: West Texas A&M, 2 PM at Tracy Sellers Field (Lubbock), FREE\n- Oct. 11: at West Texas A&M, 2 PM, Canyon TX\n- Oct. 18: New Mexico DH, noon at Tracy Sellers Field\n- Oct. 24: Odessa College, 1 PM at Tracy Sellers Field\n- Texas Tech tied No. 1 with Oklahoma in the 2028 team recruiting rankings (per On3) after landing five-star commits Makenzie Thomas and Khloe Williams\n- 2028 class notable commits: Landers → Texas (On3 No. 1 prospect), Schlader → OU, Eldred → Tennessee\n- 94 of the Top 150 2028 prospects nationally have now committed\n**Sources:** texastech.com fall schedule release; KCBD Sept. 21 report; On3 recruiting notebook Sept. 25",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

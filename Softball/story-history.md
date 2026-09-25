@@ -2696,3 +2696,57 @@ _This file tracks every story covered, the angle used, content produced, and fol
 - **Follow-Up Opportunities:**
   - Updated 2028 class rankings as more commits announced
   - Individual program recruiting profiles
+
+---
+
+## Pipeline Run: 2026-09-25
+
+### Story 1: Tennessee Opens Fall Ball Tonight — Mardjetko and Nuwer Step Back Into Game Mode
+- **Date:** 2026-09-25
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Tennessee fall ball previewed Sept. 24; today is game day)
+- **Angle:** Game-day framing — Mardjetko (16-3, 1.26 ERA, 171K, NFCA 1st AA) and Nuwer (15-1, 1.01 ERA, 90K) step into game mode tonight vs. Walters State at 6 PM CT. FREE. Tennessee returns 9 starters incl. Knight (.394 BA), Clarke (14 HR), A.Leach (13 HR), G.Leach (10 HR).
+- **Content Produced:** Article (article-01, Emily Rawlings), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Tennessee fall game results (Lipscomb Sept. 27, Carson-Newman Oct. 2)
+  - 2027 preseason ranking implications
+
+### Story 2: Texas Longhorns — 4 Days to Fall Opener, Torres-Kavan Era Begins Monday
+- **Date:** 2026-09-25
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Texas fall countdown; opener Sept. 29)
+- **Angle:** Torres (D1Softball POY .530 BA, Georgetown TX native) + Kavan (2x WCWS MOP, only ever) enter final prep week before Sept. 29 Murray State opener. Added transfers: Swan (ASU catcher) + Lincoln (TTU LHP). Three-peat bid (UCLA 1988-90/OU 2021-23 only).
+- **Content Produced:** Article (article-02, Sarah Mitchell), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Texas fall opener result Sept. 29
+  - Three-peat national storyline
+
+### Story 3: Oklahoma Sooners — 5 Days Until Love's Field, Wells and Berzon Finally Play Together
+- **Date:** 2026-09-25
+- **Tier:** 2
+- **Classification:** FOLLOW UP (OU fall countdown; Sept. 30 intrasquad opener)
+- **Angle:** Wells (39 HR all-time NCAA single-season record, .358 BA, 88 RBI, NFCA FOY/Johnny Bench Award) and Berzon (LSU transfer, 2.02 ERA, 52W, 416K, 2x AA) debut together Sept. 30 intrasquad/Oct. 3 vs. Tarleton State. $10.88/game. Redemption: Texas knocked OU out in 2026.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - OU fall game results
+  - Wells sophomore season progression
+
+### Story 4: Asian Games Softball Opens Tomorrow — Japan Gunning for LA28 Qualification
+- **Date:** 2026-09-25
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** 2026 Asian Games softball starts TOMORROW (Sept. 26) at Anjō Sports Park Softball Ground, Anjō Japan. 8 teams: Japan No.1/ChineseTaipei No.5/China No.8/Philippines No.13/Singapore No.22/Korea No.31/HK No.32/Thailand No.44. Prelims Sept. 26-Oct. 2, Finals Oct. 3. LA28 qualification pathway.
+- **Content Produced:** Article (article-04, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Asian Games results coverage (prelims Sept. 26+, finals Oct. 3)
+  - Japan gold medal result
+
+### Story 5: Texas Tech Fall Schedule Out — Glasco's 7 All-Americans Debut Oct. 3
+- **Date:** 2026-09-25
+- **Tier:** 3
+- **Classification:** NEW STORY (TTU fall schedule announced Sept. 21; TTU tied No. 1 in 2028 recruiting)
+- **Angle:** TTU fall opener Oct. 3 vs. West Texas A&M, 2 PM Tracy Sellers Field, FREE. Other games: Oct. 11 at WTA&M, Oct. 18 New Mexico DH, Oct. 24 Odessa College. TTU tied No. 1 in 2028 recruiting class (with OU) after landing Makenzie Thomas + Khloe Williams. Beachum+Pickering+Heavener + 4 more AAs.
+- **Content Produced:** Article (article-05, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - TTU fall opener result Oct. 3
+  - 2028 recruiting class updates
