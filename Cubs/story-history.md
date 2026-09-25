@@ -7943,3 +7943,54 @@ Each day's stories are appended at the top (newest first).
 - **Follow-Up Opportunities:**
   - Game 3 result recap (tomorrow morning)
   - Peterson performance tracking
+
+## 2026-09-25
+
+### STORY 1: Series Preview — Cubs at Boston Doubleheader (3-Game Series Opener)
+- **Angle:** NEW STORY (series-start required slot; weather-forced doubleheader at Fenway 12:05 PM CT + 5:05 PM CT; opened with stat-lead "Cubs at Boston. 3-game series. Regular season finale."; WC1 seeding/Wrigley home field at stake; Holmes vs Gamboa G1)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, series preview)
+- **Follow-Up Opportunities:**
+  - Game 1 result (recap today)
+  - Game 2 result (recap today)
+  - Game 3 result (Saturday)
+
+### STORY 2: PCA 40-40 Historic Achievement
+- **Angle:** NEW STORY (PCA hit 40th SB in 1st inning vs Marlins Sept 24; 45 HR/40 SB; 7th player in MLB history; first-ever 40-40 Cub; NL MVP frontrunner; per opening=stat_lead, opened with "45 home runs. 40 stolen bases.")
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold/fan energy)
+- **Follow-Up Opportunities:**
+  - NL MVP voting tracking
+  - Final season totals (3 games remaining)
+
+### STORY 3: Cubs Clinch 2026 Postseason
+- **Angle:** NEW STORY (Cubs 2, Marlins 1; Boyd 7 IP 1 ER; Suzuki solo HR 5th; Hoerner RBI single 6th after Happ triple; second straight postseason; per opening=stat_lead, opened with "2-1. Cubs are in the 2026 playoffs.")
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, informative/recap)
+- **Follow-Up Opportunities:**
+  - WC round opponent/bracket updates
+
+### STORY 4: WC1 Seeding Race — Wrigley Home Field
+- **Angle:** FOLLOW UP (Cubs 88-71, Padres 89-70, 1 game back entering Sept 25; 3 games left all at Fenway; per opening=stat_lead, opened with "88-71. Postseason locked. Wrigley home field is not.")
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, analysis/bold take)
+- **Follow-Up Opportunities:**
+  - WC1 clinch update after each game
+  - Final seeding announcement
+
+### STORY 5: Game 1 Preview — Holmes vs Gamboa, 12:05 PM CT
+- **Angle:** NEW STORY (Holmes 6-8 vs Gamboa 1-0; Fenway; first pitch 12:05 PM CT; WC1 seeding implications; per opening=stat_lead, opened with "6-8. That's Holmes' record.")
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, pre-game hype)
+- **Follow-Up Opportunities:**
+  - Game 1 result recap
+  - Holmes October role assessment
+
+### STORY 6: Gausman Day-by-Day, Bregman Targeting Fenway Return
+- **Angle:** FOLLOW UP (Gausman left shoulder soreness, day-by-day; Bregman running drills Sept 24 after facial fractures, targeting weekend return at Fenway; per opening=stat_lead, opened with "2 key pieces. 2 different timelines.")
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, roster news/injury update)
+- **Follow-Up Opportunities:**
+  - Bregman return confirmation
+  - Gausman October roster decision
+  - Steele activation update

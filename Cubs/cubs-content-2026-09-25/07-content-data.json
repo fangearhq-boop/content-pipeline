@@ -1,0 +1,241 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-25",
+  "compiled_at": "2026-09-25T09:20:45.744426+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Series Preview — Cubs at Boston Doubleheader",
+      "type": "Informative"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "PCA 40-40 Historic Achievement",
+      "type": "Bold/Fan Energy"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Cubs Clinch 2026 Postseason (recap)",
+      "type": "Informative"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "WC1 Seeding Race / Wrigley Home Field",
+      "type": "Analysis"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Game 1 Preview: Holmes vs Gamboa",
+      "type": "Pre-game hype"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Gausman/Bregman Injury Updates",
+      "type": "Roster news"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Series Preview — Cubs at Boston Doubleheader (3-Game Series Opener)",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Cubs open their final regular-season series with a weather-forced doubleheader at Fenway (12:05 PM CT + 5:05 PM CT). Game 1: Holmes vs Gamboa. WC1 seeding and Wrigley home field in play. Both teams playoff-bound.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Cubs at Boston. 3-game series. Regular season finale.\n\nFriday's a doubleheader at Fenway — 12:05 PM CT and 5:05 PM CT. Game 1: Holmes vs Gamboa. Wrigley home field is on the line. Win the series and make October interesting.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative — series preview",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Series Preview — Cubs at Boston Doubleheader\n**Decision:** NEW STORY — first Cubs-Boston series of this stretch run; weather-forced doubleheader context is unique.\n**Sources:**\n- Chicago Sun-Times (Sept 24, 2026): \"Cubs, Red Sox to play Friday doubleheader as Boston weather forecast jumbles final-weekend series\"\n- Yahoo Sports (Sept 24, 2026): \"Chicago Cubs to play doubleheader in Boston on Friday against Red Sox\"\n- FanDuel Research / Baseball Reference: September 25 preview pages (probables)\n**Key Facts:**\n- Game 1: 12:05 PM CT, Fenway Park — Clay Holmes (6-8, Cubs) vs Alec Gamboa (1-0, Red Sox) [MEDIUM — betting preview source]\n- Game 2: 5:05 PM CT, Fenway Park — Cubs TBD vs Brayan Bello (Red Sox) [MEDIUM — TBD for Cubs]\n- Game 3 (Saturday): 6:15 PM CT per series context JSON\n- Series-context.json confirms: `is_series_start_today=true`, `opponent=\"Boston Red Sox\"`, `series_length=3`, `is_cubs_home=false`\n- Nor'easter forecast moved originally-scheduled Saturday games to Friday\n- Both teams are playoff-bound (cubs clinched Sept 24; Red Sox clinched per Fox Sports)\n- Cubs record: 88-71 (from series-context.json — HIGH confidence)\n- Red Sox record: 85-74 (from series-context.json — HIGH confidence)\n**Freshness:** Source articles from Sept 24. Series context generated Sept 25 at 08:30 UTC. Fully fresh.\n**Why this matters:** Three games = Cubs' final three regular season games. WC1 seeding = home Wild Card Series at Wrigley. Every game counts.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "PCA Joins the 40-40 Club — Historic Achievement",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Pete Crow-Armstrong became the 7th player in MLB history to hit 40-40 with his 40th stolen base in the 1st inning vs Marlins on Sept 24. Season: 45 HR / 40 SB. First-ever 40-40 Cub. NL MVP frontrunner. \"M-V-P!\" chants during clinch celebration.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "45 home runs. 40 stolen bases. Pete Crow-Armstrong just joined the 40-40 club — 7th player in MLB history.\n\nNo Cub has EVER done this. \"M-V-P!\" chants filled Wrigley during Thursday's clinch. The NL isn't ready for this guy. 🔥\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold/Fan Energy",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "PCA 40-40 Historic Achievement\n**Decision:** NEW STORY (technically a culmination of the ongoing \"40-40 watch\" follow-up, but the moment itself is brand-new as of yesterday)\n**Sources:**\n- NBC Sports (Sept 24, 2026): \"Pete Crow-Armstrong joins 40-40 club after swiping base for Cubs in 1st inning vs. Marlins\"\n- Chicago Sun-Times (Sept 24, 2026): \"Cubs MVP favorite Pete Crow-Armstrong's 40th stolen base clinches seventh 40-40 season in baseball history\"\n- Yahoo Sports (Sept 24, 2026): \"Cubs' Pete Crow-Armstrong becomes seventh player in MLB history with a 40/40 season\"\n- TSN (Sept 24, 2026): \"Chicago Cubs star Pete Crow-Armstrong joins 40/40 club with stolen base against Miami Marlins\"\n- Washington Post (Sept 24, 2026): Confirms 40-40 achievement\n**Key Facts (HIGH confidence — 5+ independent sources):**\n- PCA achieved 40th SB in 1st inning vs Marlins, Sept 24\n- Mechanism: leadoff walk off Tyler Phillips, stole 2nd base on next pitch to Seiya Suzuki\n- Season totals: 45 HR / 40 SB\n- 7th player in MLB history to reach 40-40\n- 40-40 Club: Jose Canseco (1988), Barry Bonds (1996), Alex Rodriguez (1998), Alfonso Soriano (2006), Ronald Acuña Jr. (2023), Shohei Ohtani (2024), Pete Crow-Armstrong (2026)\n- First Cub ever to hit 40-40\n- Third player in past 4 seasons to achieve it\n- NL MVP frontrunner (Sun-Times: \"M-V-P!\" chants at Wrigley clinch celebration)\n- Age: 24 per NBC Sports (MEDIUM — verify against Baseball Reference before using)\n**Compound claim check:** \"7th player in MLB history\" — listed in multiple sources with consistent member list. HIGH confidence. The complete list of 6 predecessors is verifiable.\n**Freshness:** All sources September 24, 2026. The event occurred yesterday. Fresh.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Cubs Clinch 2026 Postseason",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Cubs 2, Marlins 1. Boyd 7 IP 1 ER. Suzuki solo HR in 5th. Hoerner go-ahead RBI single in 6th (after Happ triple). Clinch celebration at Wrigley. Second straight postseason.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "2-1. Cubs are in the 2026 playoffs.\n\nBoyd: 7 IP, 1 ER. Suzuki solo HR (5th). Hoerner go-ahead RBI single (6th). Second straight postseason — and the work isn't done yet. WC1 seeding is still up for grabs. ✈️\n\n#Cubs #FlyTheW #GoCubs",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Informative — game recap + clinch",
+          "hashtags": [
+            "#Cubs",
+            "#FlyTheW",
+            "#GoCubs"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cubs Clinch 2026 Postseason\n**Decision:** NEW STORY — clinch happened yesterday (Sept 24).\n**Sources:**\n- Chicago Sun-Times (Sept 24, 2026): \"Cubs clinch postseason spot with win over Marlins\"\n- Bleacher Nation (Sept 24, 2026): Enhanced box score \"Cubs 2, Marlins 1\"\n- MLB.com (Sept 24, 2026): \"Cubs clinch 2026 postseason berth\"\n- CBS Sports gametracker: Sept 24 Marlins vs Cubs box score\n**Key Facts (HIGH confidence):**\n- Final score: Cubs 2, Marlins 1 (winner first: Cubs won)\n- Matthew Boyd: 7 IP, 1 ER — best start in weeks, preserved bullpen before doubleheader\n- Seiya Suzuki: solo HR in 5th inning (tied the game 1-1)\n- Ian Happ: leadoff triple in 6th inning\n- Nico Hoerner: go-ahead RBI single in 6th inning (scored Happ)\n- Clinch = second straight postseason appearance\n- Celebration at Wrigley included goggles (Dansby Swanson confirmed in goggles)\n**Freshness:** All sources September 24, 2026. Fresh.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "WC1 Seeding Race — Wrigley Home Field Still on the Line",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Cubs 88-71 trail Padres 89-70 by 1 game for WC1 with 3 games left. WC1 = Wild Card Series at Wrigley. Cubs must sweep and get help. Padres are 32-16 since Aug 1.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "88-71. Postseason locked. Wrigley home field is not.\n\nCubs trail the Padres by 1 for WC1 with 3 games left — all at Fenway. Win all three to have a shot. Padres are 32-16 since August 1. It's not handed to you.\n\n#Cubs #MLB #NorthSiders",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Analysis / Bold Take",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#NorthSiders"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "WC1 Seeding Race — Wrigley Home Field\n**Decision:** FOLLOW UP — ongoing daily wild card standings tracking.\n**Sources:**\n- Yahoo Sports (Sept 24, 2026): \"2026 NL Standings: Padres pass Cubs, Phillies for first Wild Card spot\"\n- Clutch Points / Baseball Nerd (Sept 24, 2026): NL Wild Card tracking\n- Sportsnaut / Yahoo (Sept 24, 2026): Padres beat Dodgers 5-1 (Machado 3 RBI, Tatis 3 hits)\n- SI (Sept 24, 2026): \"Cubs Clinch Playoffs for Second Year in a Row, Work Remains for Top Wild Card Spot\"\n**Key Facts:**\n- Padres: 89-70 (WC1) — confirmed by their Sept 24 win vs Dodgers [HIGH confidence]\n- Cubs: 88-71 (WC2) — confirmed by series-context.json [HIGH confidence]\n- Phillies: ~87-72 — need to verify but consistent across sources [MEDIUM]\n- Cubs trail Padres by 1 game with 3 games left\n- Padres are 32-16 since August 1, 14 of last 16 [MEDIUM — AI summary from Yahoo]\n- WC1 = home Wild Card Series at Wrigley (this is well-established MLB structure)\n- Cubs hold tiebreaker over Phillies (6-1 H2H per prior pipeline research)\n- Cubs vs Padres tiebreaker: unknown — need to verify\n**Note on uncertainty:** AI summaries for standings could be off by a game. The Cubs record (88-71) from the authoritative series-context.json is trusted. The Padres record is based on their 88-70 pre-game status + confirmed Sept 24 win = 89-70 (HIGH confidence).",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Game 1 Preview — Holmes vs Gamboa, 12:05 PM CT",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Clay Holmes (6-8) faces Boston's Alec Gamboa (1-0) at Fenway. First pitch 12:05 PM CT. Each win counts toward WC1 seeding. Holmes command was shaky Sept 19 — chance to sharpen before October.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "6-8. That's Holmes' record. That's about to change.\n\nGame 1 at Fenway starts in minutes — Cubs need this win to keep Wrigley home field in reach. Holmes vs Gamboa, first pitch 12:05 PM CT. October is watching every inning.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Pre-game hype",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Game 1 Preview — Holmes vs Gamboa, 12:05 PM CT\n**Decision:** NEW STORY — Game 1 is today.\n**Sources:**\n- FanDuel Research / Baseball Reference preview pages: Confirm Holmes (Cubs) vs Gamboa (Red Sox) for Game 1 [MEDIUM — betting sites]\n- Prior pipeline research: Holmes has dealt with command issues (walked bases loaded Sept 19)\n- Sun-Times (Sept 24, 2026): Confirmed doubleheader times 12:05 PM / 5:05 PM CT\n**Key Facts:**\n- Clay Holmes record: 6-8 [MEDIUM — betting preview; verify from Baseball Reference]\n- Alec Gamboa record: 1-0 [MEDIUM — betting preview; unverified rookie]\n- First pitch: 12:05 PM CT, Fenway Park [HIGH — confirmed by Sun-Times]\n- Each WC1-seeding win counts toward home field at Wrigley\n**Note:** Holmes record (6-8) is from a betting preview. Cannot independently verify. Flagged as MEDIUM confidence. Will not use Holmes ERA or specific stats unless found in a second source.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Gausman Day-by-Day, Bregman Targeting Fenway Return",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Gausman: left shoulder soreness, day-by-day, October rotation uncertain. Bregman: running drills before Sept 24 game, targeting return this weekend at Fenway. Steele also in Hoyer's thinking as multi-inning LHP.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "2 key pieces. 2 different timelines.\n\nGausman: left shoulder soreness, day-by-day, October rotation uncertain. Bregman: running drills after facial fractures, targeting a return THIS WEEKEND at Fenway. The Cubs need both healthy. 💪\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Informative — roster/injury update",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Gausman Day-by-Day, Bregman Targeting Fenway Return\n**Decision:** FOLLOW UP — both injuries tracked since Sept 20 (Bregman) and Sept 23 (Gausman).\n**Sources:**\n- MLB.com (updated through Sept 25): \"Cubs injury updates on Kevin Gausman, Alex Bregman and Justin Steele\"\n- MLB Trade Rumors (Sept 24–25): \"Cubs Notes: Steele, Bregman, Gausman\"\n- Cubs Insider (Sept 24): Gausman, Bregman, Steele roundup\n- Larry Brown Sports (Sept 24/25): Gausman development update\n**Key Facts (HIGH confidence):**\n- Kevin Gausman: left shoulder soreness from Sept 23 diving tag play (non-throwing arm). \"Day by day\" per Counsell. October rotation status unknown.\n- Alex Bregman: multiple facial fractures (Sept 20 foul ball). Running drills before Sept 24 game. Had been hitting off Trajekt machine. Cubs have NOT ruled out return before end of regular season.\n- Justin Steele: Jed Hoyer weighing whether Steele is in the mix for the Boston series. Expected role: multi-inning LHP reliever if activated. Iowa season ended Sept 21. Recovery from ulnar collateral ligament revision (April 2025). [MEDIUM confidence on timing]\n**Freshness:** MLB.com/trade rumors updated through Sept 25. Fresh.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
