@@ -1,42 +1,58 @@
 {
-  "generated_at": "2026-09-24T08:30:00.220926+00:00",
-  "today_ct": "2026-09-24",
+  "generated_at": "2026-09-25T08:30:00.154534+00:00",
+  "today_ct": "2026-09-25",
   "off_day": false,
-  "is_series_start_today": false,
+  "is_series_start_today": true,
   "series": {
-    "opponent": "Miami Marlins",
-    "opponent_id": 146,
-    "opponent_record": "78-80",
-    "cubs_record": "87-71",
-    "is_cubs_home": true,
-    "venue": "Wrigley Field",
-    "series_length": 1,
+    "opponent": "Boston Red Sox",
+    "opponent_id": 111,
+    "opponent_record": "85-74",
+    "cubs_record": "88-71",
+    "is_cubs_home": false,
+    "venue": "Fenway Park",
+    "series_length": 3,
     "games": [
       {
-        "game_pk": "824623",
-        "game_date_iso": "2026-09-24T18:20:00Z",
-        "game_date_ct": "Thu 1:20 PM CT",
+        "game_pk": "824703",
+        "game_date_iso": "2026-09-25T17:05:00Z",
+        "game_date_ct": "Fri 12:05 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      },
+      {
+        "game_pk": "824706",
+        "game_date_iso": "2026-09-25T22:05:00Z",
+        "game_date_ct": "Fri 5:05 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      },
+      {
+        "game_pk": "824705",
+        "game_date_iso": "2026-09-26T23:15:00Z",
+        "game_date_ct": "Sat 6:15 PM CT",
         "cubs_probable": "TBD",
         "opponent_probable": "TBD",
         "status": "Preview"
       }
     ],
-    "rationale": "Same opponent (Miami Marlins) as yesterday \u2014 this is mid-series, not a series opener."
+    "rationale": "Yesterday vs Miami Marlins; today vs Boston Red Sox \u2192 game 1 of 3 (on the road)."
   },
   "today_cubs_game": {
-    "game_pk": "824623",
+    "game_pk": "824703",
     "status": "Preview",
     "detailed_status": "Scheduled",
-    "game_date_iso": "2026-09-24T18:20:00Z",
-    "game_date_ct": "Thu 1:20 PM CT",
-    "is_cubs_home": true,
-    "opponent_id": 146,
-    "opponent_name": "Miami Marlins",
-    "opponent_record": "78-80",
-    "cubs_record": "87-71",
+    "game_date_iso": "2026-09-25T17:05:00Z",
+    "game_date_ct": "Fri 12:05 PM CT",
+    "is_cubs_home": false,
+    "opponent_id": 111,
+    "opponent_name": "Boston Red Sox",
+    "opponent_record": "85-74",
+    "cubs_record": "88-71",
     "cubs_probable": "TBD",
     "opponent_probable": "TBD",
-    "venue": "Wrigley Field"
+    "venue": "Fenway Park"
   },
-  "rationale": "Same opponent (Miami Marlins) as yesterday \u2014 this is mid-series, not a series opener."
+  "rationale": "Yesterday vs Miami Marlins; today vs Boston Red Sox \u2192 game 1 of 3 (on the road)."
 }
